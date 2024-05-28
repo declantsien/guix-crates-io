@@ -1,0 +1,4 @@
+rule make-scheme-index
+  command = guile scripts/sync.scm $out $in
+
+build crates-io/ca/rg/cargo.scm: make-scheme-index crates.io-index/ca/rg/cargo

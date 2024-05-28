@@ -1,0 +1,44 @@
+name: sync
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+jobs:
+  sync:
+    name: Sync crates.io-index
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Guix
+        id: install-guix
+        uses: PromyLOPh/guix-install-action@v1
+        with:
+          pullAfterInstall: false
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Checkout crates.io-index
+        uses: actions/checkout@v4
+        with:
+          repository: rust-lang/crates.io-index
+          path: './crates.io-index'
+      - name: Generate build.ninja
+        run: |
+          echo "Generating build.ninja"
+          export GUILE_LOAD_PATH="$(pwd)/.:$HOME/.config/guix/current/share/guile/site/3.0"
+          guix shell guix guile -- guile scripts/generate-build-ninja.scm
+      - name: Update crates index
+        run: |
+          export GUILE_LOAD_PATH="$(pwd)/.:$HOME/.config/guix/current/share/guile/site/3.0"
+          guix shell guix ninja guile guile-json -- ninja -f build.ninja
+      - name: Check and commit changes
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add crates-io
+          git commit -m "crates-io: update"
+      - name: Push changes
+        if: steps.commit.outcome == 'success'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
