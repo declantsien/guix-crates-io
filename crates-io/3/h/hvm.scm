@@ -254,3 +254,5 @@
 
 (define-public crate-hvm-2.0.17 (c (n "hvm") (v "2.0.17") (d (list (d (n "TSPL") (r "^0.0.12") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "clap") (r "^4.5.2") (d #t) (k 0)) (d (n "highlight_error") (r "^0.1.1") (d #t) (k 0)) (d (n "insta") (r "^1.39.0") (f (quote ("glob"))) (d #t) (k 2)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 1)))) (h "17pnr59ngx47gaq75da64hrkj9r4ygh68v2v3jml1j9kacm1rkrj") (f (quote (("default") ("cuda") ("c"))))))
 
+(define-public crate-hvm-2.0.18 (c (n "hvm") (v "2.0.18") (d (list (d (n "TSPL") (r "^0.0.12") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "clap") (r "^4.5.2") (d #t) (k 0)) (d (n "highlight_error") (r "^0.1.1") (d #t) (k 0)) (d (n "insta") (r "^1.39.0") (f (quote ("glob"))) (d #t) (k 2)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 1)))) (h "16nszm82jc2n38xg63igp0081bahxkhzmp0s7h7qim4f6ck8za7w") (f (quote (("default") ("cuda") ("c")))) (r "1.74")))
+

@@ -26,3 +26,5 @@
 
 (define-public crate-tauri-plugin-process-2.0.0-beta.5 (c (n "tauri-plugin-process") (v "2.0.0-beta.5") (d (list (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.16") (f (quote ("build"))) (d #t) (k 1)))) (h "1j0493skh96vh5qh5mx034h5rv711qj3hhd0apyca6dji66zn0s2") (l "tauri-plugin-process") (r "1.75")))
 
+(define-public crate-tauri-plugin-process-2.0.0-beta.6 (c (n "tauri-plugin-process") (v "2.0.0-beta.6") (d (list (d (n "tauri") (r "^2.0.0-beta.22") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.17") (f (quote ("build"))) (d #t) (k 1)))) (h "1r98pb78znizz89ywn8n9bljn7h63wy9qpg10sr146hhcvk50cp6") (l "tauri-plugin-process") (r "1.75")))
+
