@@ -24,3 +24,5 @@
 
 (define-public crate-ccp-config-0.10.0 (c (n "ccp-config") (v "0.10.0") (d (list (d (n "ccp-randomx") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "config") (r "^0.14") (f (quote ("toml"))) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1wlba5z0d7xh5w3r7k5dmlqnz9dj2hxswrxzfnn3d0dicqs79vs1")))
 
+(define-public crate-ccp-config-0.10.1 (c (n "ccp-config") (v "0.10.1") (d (list (d (n "ccp-randomx") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "config") (r "^0.14") (f (quote ("toml"))) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "15g9kf77zs3qk8gkfchd2iws8xaprs5nd63hc5w5m0nhmkcnvd41")))
+

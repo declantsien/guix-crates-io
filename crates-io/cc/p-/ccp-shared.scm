@@ -24,3 +24,5 @@
 
 (define-public crate-ccp-shared-0.10.0 (c (n "ccp-shared") (v "0.10.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0i7jgzx5la42mmlp89n05f3rw63s7q6b5qngpnq8hm2cr67ymisz")))
 
+(define-public crate-ccp-shared-0.10.1 (c (n "ccp-shared") (v "0.10.1") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1irv1kgwrnqfhg1gf5m983yq836djlcwkj6rq7kg3as9nkm8dnxj")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-envro-0.3.0 (c (n "envro") (v "0.3.0") (d (list (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "176b36xixv1zpy28licwsvwc67i7pn8lbm519d2avz9j1v9j6r15")))
 
+(define-public crate-envro-0.3.1 (c (n "envro") (v "0.3.1") (d (list (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "18jzkkyvfrvgfd4f1f56bfalv5q6vzfpkwab0jrwp0v85f3yiwcg")))
+
