@@ -38,3 +38,5 @@
 
 (define-public crate-idlset-0.2.4 (c (n "idlset") (v "0.2.4") (d (list (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)))) (h "1ins76c5wr2hwfpxdxnjnywwdkcgyslr1b8va1g2vcp4bg8mc1rl")))
 
+(define-public crate-idlset-0.2.5 (c (n "idlset") (v "0.2.5") (d (list (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)))) (h "0yyrx3prh5lvgrjxg046sd28hgjxvwg1f2kinffwwv1c4x8831gg")))
+
