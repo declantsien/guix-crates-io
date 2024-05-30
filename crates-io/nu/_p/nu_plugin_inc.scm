@@ -174,3 +174,5 @@
 
 (define-public crate-nu_plugin_inc-0.94.0 (c (n "nu_plugin_inc") (v "0.94.0") (d (list (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)))) (h "18mylz12y3xz1720xgmfkk9p0q5ssyq7gf8xg7dsaqg08ah251zj")))
 
+(define-public crate-nu_plugin_inc-0.94.1 (c (n "nu_plugin_inc") (v "0.94.1") (d (list (d (n "nu-plugin") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)))) (h "0njsrfa8g52md1ss4snlx4kv9n5s9dpif4r4jpinkiy2rl90mbh0")))
+

@@ -16,3 +16,5 @@
 
 (define-public crate-superstruct-0.7.0 (c (n "superstruct") (v "0.7.0") (d (list (d (n "darling") (r "^0.13.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 2)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.82") (d #t) (k 0)))) (h "009j3wabiyc6r1j6by0lcqn97y1c2nd0wqkybn2zha3pi93iykkg")))
 
+(define-public crate-superstruct-0.8.0 (c (n "superstruct") (v "0.8.0") (d (list (d (n "darling") (r "^0.13.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 2)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.82") (d #t) (k 0)))) (h "03ilrihahrmhi1cxyzj49g89njib2zb103lmcj9mg7md63vk23xz")))
+

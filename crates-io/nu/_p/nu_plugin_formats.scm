@@ -50,3 +50,5 @@
 
 (define-public crate-nu_plugin_formats-0.94.0 (c (n "nu_plugin_formats") (v "0.94.0") (d (list (d (n "eml-parser") (r "^0.1") (d #t) (k 0)) (d (n "ical") (r "^0.11") (d #t) (k 0)) (d (n "indexmap") (r "^2.2") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-plugin-test-support") (r "^0.94.0") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.94.0") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.21.0") (d #t) (k 0)))) (h "1x86n31prynan1swrn0p9216mph05jk1il46azi99f3y0phs5yf1")))
 
+(define-public crate-nu_plugin_formats-0.94.1 (c (n "nu_plugin_formats") (v "0.94.1") (d (list (d (n "eml-parser") (r "^0.1") (d #t) (k 0)) (d (n "ical") (r "^0.11") (d #t) (k 0)) (d (n "indexmap") (r "^2.2") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-plugin-test-support") (r "^0.94.1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.94.1") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.21.0") (d #t) (k 0)))) (h "0yl8r4bvqh1f3zg28fxnp5i804wcjwf27bsdihamrdxhqcbcys3d")))
+

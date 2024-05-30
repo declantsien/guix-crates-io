@@ -90,3 +90,5 @@
 
 (define-public crate-nu_plugin_query-0.94.0 (c (n "nu_plugin_query") (v "0.94.0") (d (list (d (n "gjson") (r "^0.8") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (d #t) (k 0)) (d (n "scraper") (r "^0.19") (k 0)) (d (n "sxd-document") (r "^0.3") (d #t) (k 0)) (d (n "sxd-xpath") (r "^0.4") (d #t) (k 0)))) (h "17x5w4j967r8wc0jksih5yjsikhnvzwccyall4rppd5wz7gq5fwv")))
 
+(define-public crate-nu_plugin_query-0.94.1 (c (n "nu_plugin_query") (v "0.94.1") (d (list (d (n "gjson") (r "^0.8") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)) (d (n "scraper") (r "^0.19") (k 0)) (d (n "sxd-document") (r "^0.3") (d #t) (k 0)) (d (n "sxd-xpath") (r "^0.4") (d #t) (k 0)))) (h "0aaaaq3j4dv15b9pzi2yr7aa9ffv0ynxqvi3v7swab6m6na22jf3")))
+

@@ -10,3 +10,5 @@
 
 (define-public crate-target-2.0.1 (c (n "target") (v "2.0.1") (d (list (d (n "executable-path") (r "^1.0.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)))) (h "10n2ikn1jp99hf897azi3djn1va5s64cap4m7gmjkk67801nppzl")))
 
+(define-public crate-target-2.1.0 (c (n "target") (v "2.1.0") (d (list (d (n "executable-path") (r "^1.0.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)))) (h "0idi9b9ndcvpjzm3y0gaz1ljc4711flkg0jsmnykbnxjfkvhb3qy")))
+
