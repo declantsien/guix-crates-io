@@ -1,0 +1,4 @@
+(define-module (crates-io pr og progscrape-application) #:use-module (crates-io))
+
+(define-public crate-progscrape-application-0.0.1 (c (n "progscrape-application") (v "0.0.1") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "itertools") (r "^0") (d #t) (k 0)) (d (n "keepcalm") (r "^0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "progscrape-scrapers") (r "^0.0.1") (d #t) (k 0)) (d (n "rstest") (r "^0") (d #t) (k 2)) (d (n "rusqlite") (r "^0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_rusqlite") (r "^0.35") (d #t) (k 0)) (d (n "tantivy") (r "=0.19.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1mirx7pf21v90ps69gfjjwm7yhcvr4p1474ab06nmsav6pvam5n3")))
+
