@@ -1,7 +1,7 @@
 (define-module (crates-io)
   #:use-module (guix records)
   #:use-module (guix packages)
-  #:use-module (guix download)    
+  #:use-module (guix download)
   #:use-module (rnrs enums)
   #:use-module (srfi srfi-1)  ;; find
   #:use-module (srfi srfi-26)
@@ -11,7 +11,7 @@
 	    d
 	    crate->source
 	    crate-dependency-kind
-	    crate-dependency-kind->get	    
+	    crate-dependency-kind->get
 	    crate-dependency-kind->position)) ;; cut
 
 ;; https://doc.rust-lang.org/cargo/reference/registry-index.html#index-files
@@ -21,10 +21,10 @@
 ;; All other packages are stored in directories named {first-two}/{second-two} where the top directory is the first two characters of the package name, and the next subdirectory is the third and fourth characters of the package name. For example, cargo would be stored in a file named ca/rg/cargo.
 (define (crate-module-path name)
   (match (string-length name)
-    (1 '("1"))
-    (2 '("2"))
-    (3 `("3" ,(substring name 0 1)))
-    (_ `(,(substring name 0 2) ,(substring name 2 4)))))
+    (1 `("crates-io" "1" ,name))
+    (2 `("crates-io" "2" ,name))
+    (3 `("crates-io" "3" ,(substring name 0 1) ,name))
+    (_ `("crates-io" ,(substring name 0 2) ,(substring name 2 4) ,name))))
 
 (define (crate-module-path-symbols name)
   (map string->symbol (crate-module-path name)))
@@ -151,7 +151,9 @@
 
 
 (define (crate-source name version)
-  ;; Candy procduce to resolve crate source by name and version
-  ;; TODO
-  #f)
-
+  (let ((variable (module-variable
+		   (resolve-module (crate-module-path-symbols name))
+		   (string->symbol (format #f "crate-~a-~a" name version)))))
+    (if variable
+	(crate->source (variable-ref variable))
+	#f)))
