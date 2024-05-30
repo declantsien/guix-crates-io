@@ -20,3 +20,5 @@
 
 (define-public crate-paq-1.0.1 (c (n "paq") (v "1.0.1") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "blake3") (r "^1.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("cargo" "unstable-styles"))) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1z3pyw5kv9nxcwj39dab1ccwb1pfpcic9f8qi6jy51xhqh0h8waw") (f (quote (("test-cleanup") ("default" "test-cleanup"))))))
 
+(define-public crate-paq-1.1.0 (c (n "paq") (v "1.1.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "blake3") (r "^1.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("cargo" "unstable-styles"))) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0smg3szmbzv8jhffnd17bkzagjqpn1ncff112vkp9rk6lq3iy4aj") (f (quote (("test-cleanup") ("default" "test-cleanup"))))))
+
