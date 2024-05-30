@@ -10,3 +10,5 @@
 
 (define-public crate-mlpa-0.1.4 (c (n "mlpa") (v "0.1.4") (h "0vlb8ik1avafjs646vavzyprd4nl8hig298nbzhkdlmv5jmh8xsl")))
 
+(define-public crate-mlpa-0.2.0 (c (n "mlpa") (v "0.2.0") (h "1sgqlp9ca98fgakxblp0r5n5d728wws11f4d3giyk708359q6mpi")))
+
