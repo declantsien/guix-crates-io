@@ -308,3 +308,5 @@
 
 (define-public crate-flutter_rust_bridge_macros-2.0.0-dev.36 (c (n "flutter_rust_bridge_macros") (v "2.0.0-dev.36") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1jfmiqfgx0h04h7hf5lfw9xcqig1c0ldcmi3k03qzh9awf468dh4")))
 
+(define-public crate-flutter_rust_bridge_macros-2.0.0-dev.37 (c (n "flutter_rust_bridge_macros") (v "2.0.0-dev.37") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "09vx585dzmmrnvc3vn8q3j31sb7rd4m96aysmnslk0nixwqab3bj")))
+
