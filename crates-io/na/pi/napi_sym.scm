@@ -166,3 +166,5 @@
 
 (define-public crate-napi_sym-0.83.0 (c (n "napi_sym") (v "0.83.0") (d (list (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "091pg9q8n595cnl427mfkmnjj5iz8f6kwq1mk4y1096rxcbcchlw")))
 
+(define-public crate-napi_sym-0.84.0 (c (n "napi_sym") (v "0.84.0") (d (list (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1kyi1jlz073i6s8zlckjiih67d3f93ix58v1v5qq75nqc39w2kp1")))
+

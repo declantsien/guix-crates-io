@@ -18,3 +18,5 @@
 
 (define-public crate-rat-event-0.12.5 (c (n "rat-event") (v "0.12.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "fern") (r "^0.6") (d #t) (k 2)) (d (n "humantime") (r "^2.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-rendered-line-info"))) (d #t) (k 0)) (d (n "ryu") (r "^1.0.17") (d #t) (k 2)))) (h "0djq4d3k5przr3qw0543p5xbmshlarn6smk3rbx2wvf90cg61dxl")))
 
+(define-public crate-rat-event-0.13.0 (c (n "rat-event") (v "0.13.0") (d (list (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-rendered-line-info"))) (d #t) (k 0)))) (h "1ffzm1icsj1sf77g6p673p5y97prqinslggfl1xn842s0grbr57l")))
+

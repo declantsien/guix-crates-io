@@ -170,3 +170,5 @@
 
 (define-public crate-deno_cache-0.85.0 (c (n "deno_cache") (v "0.85.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)) (d (n "rusqlite") (r "=0.29.0") (f (quote ("unlock_notify" "bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (f (quote ("oid"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1vscaag6vlcyv5vmih2kx1yi0xlhlshjhiyb9rgljn4nni4hqad0")))
 
+(define-public crate-deno_cache-0.86.0 (c (n "deno_cache") (v "0.86.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "rusqlite") (r "=0.29.0") (f (quote ("unlock_notify" "bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (f (quote ("oid"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1pmgwlvhw8kgchhxnlqw9jv4n6mkxvp3s8bpqnq8zdfjgzp90db4")))
+

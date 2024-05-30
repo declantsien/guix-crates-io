@@ -66,3 +66,5 @@
 
 (define-public crate-deno_cron-0.33.0 (c (n "deno_cron") (v "0.33.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("std" "serde"))) (k 0)) (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)) (d (n "saffron") (r "=0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "16fcdyfh1fyq0gda30i800vbzhdcbv6ajnbv5bq0xv453s8790sx")))
 
+(define-public crate-deno_cron-0.34.0 (c (n "deno_cron") (v "0.34.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("std" "serde" "now"))) (k 0)) (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "saffron") (r "=0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "17aj6ihyc0ybhx8y24z10v265ngpr1kgpbpgpz03lybnnsx5v01z")))
+

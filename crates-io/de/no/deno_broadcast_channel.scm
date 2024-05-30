@@ -294,3 +294,5 @@
 
 (define-public crate-deno_broadcast_channel-0.147.0 (c (n "deno_broadcast_channel") (v "0.147.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0iwhywzq4mw30qmqbfk8q2i1xl49r1xirn0my10f7yqx5qw0wsfs")))
 
+(define-public crate-deno_broadcast_channel-0.148.0 (c (n "deno_broadcast_channel") (v "0.148.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "10qdg1s53zgmyjd018m5c9r1454cix3mldg6g73h00fj70zzg47w")))
+
