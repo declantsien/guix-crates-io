@@ -18,3 +18,5 @@
 
 (define-public crate-dual_balanced_ternary-0.1.0 (c (n "dual_balanced_ternary") (v "0.1.0") (h "1y0qmhabzna6x76rf178w3j5zrhv89g0nqa4p8k6adkmjd4bg4a0")))
 
+(define-public crate-dual_balanced_ternary-0.1.1 (c (n "dual_balanced_ternary") (v "0.1.1") (h "0snq1wphpawcmlzj9z6rhd9n9x2n5blvf8416rygan1m2lva2ihp")))
+
