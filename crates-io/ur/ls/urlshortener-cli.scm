@@ -10,3 +10,7 @@
 
 (define-public crate-urlshortener-cli-1.0.1 (c (n "urlshortener-cli") (v "1.0.1") (d (list (d (n "urlshortener") (r "^3") (d #t) (k 0)))) (h "1cqnzavha786rvylz7rxy9127vy9hg08w6a4zhn6w9drbigvjqj7")))
 
+(define-public crate-urlshortener-cli-1.1.0 (c (n "urlshortener-cli") (v "1.1.0") (d (list (d (n "cli-clipboard") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "urlshortener") (r "^3") (d #t) (k 0)))) (h "07japj73gki5vwjy4vgsw1a9vgw902rfmnr9q6k3xza3wb4dflz6") (f (quote (("default" "clipboard") ("clipboard" "cli-clipboard"))))))
+
+(define-public crate-urlshortener-cli-1.1.1 (c (n "urlshortener-cli") (v "1.1.1") (d (list (d (n "cli-clipboard") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "urlshortener") (r "^3") (d #t) (k 0)))) (h "029017apd6swdk8kmimzk7kmvr4lgyxk1hw8sr17rzxfpr6vanbl") (f (quote (("default" "clipboard") ("clipboard" "cli-clipboard"))))))
+
