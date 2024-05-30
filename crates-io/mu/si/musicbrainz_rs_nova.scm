@@ -1,0 +1,4 @@
+(define-module (crates-io mu si musicbrainz_rs_nova) #:use-module (crates-io))
+
+(define-public crate-musicbrainz_rs_nova-0.5.1 (c (n "musicbrainz_rs_nova") (v "0.5.1") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lucene_query_builder") (r "^0.3.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.27") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "wasm-timer") (r "^0.2.5") (o #t) (d #t) (k 0)))) (h "0d8fbj9sz3850mh7ldnmkyfwyi5i365g00dizkaycyy2ky1yb998") (f (quote (("rustls" "reqwest/rustls") ("default" "reqwest/default-tls" "async") ("blocking" "reqwest/blocking") ("async" "wasm-timer"))))))
+
