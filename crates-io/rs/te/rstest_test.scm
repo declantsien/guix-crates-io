@@ -18,7 +18,9 @@
 
 (define-public crate-rstest_test-0.9.0 (c (n "rstest_test") (v "0.9.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "rstest") (r "^0.15.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)) (d (n "toml_edit") (r "^0.15.0") (d #t) (k 0)))) (h "0bdy2pni88vh6m2w2mk0wj5hsgka4yslwv472wyfk6794ilgl203")))
 
-(define-public crate-rstest_test-0.10.0 (c (n "rstest_test") (v "0.10.0") (d (list (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "toml_edit") (r "^0.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)))) (h "034smgskarl4cwl66pd0b9kbv2mi6bkvq0nipq022ck42hj4f2aj")))
+(define-public crate-rstest_test-0.10.0 (c (n "rstest_test") (v "0.10.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "rstest") (r "^0.16.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)) (d (n "toml_edit") (r "^0.19.0") (d #t) (k 0)))) (h "034smgskarl4cwl66pd0b9kbv2mi6bkvq0nipq022ck42hj4f2aj")))
 
-(define-public crate-rstest_test-0.11.0 (c (n "rstest_test") (v "0.11.0") (d (list (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "toml_edit") (r "^0.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)))) (h "16z1525ww9n1x94mvvgd6zcpxc2pzlf1r031kryk383lgd3wgi9p")))
+(define-public crate-rstest_test-0.11.0 (c (n "rstest_test") (v "0.11.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "rstest") (r "^0.16.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)) (d (n "toml_edit") (r "^0.19.0") (d #t) (k 0)))) (h "16z1525ww9n1x94mvvgd6zcpxc2pzlf1r031kryk383lgd3wgi9p")))
+
+(define-public crate-rstest_test-0.12.0 (c (n "rstest_test") (v "0.12.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "rstest") (r "^0.19.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)) (d (n "toml_edit") (r "=0.21.0") (d #t) (k 0)))) (h "1amlrign2yi13hzb8h69chsdgixps1b3ngskcgxn5zhb8bcfix3f") (r "1.69.0")))
 
