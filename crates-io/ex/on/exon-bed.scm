@@ -94,3 +94,5 @@
 
 (define-public crate-exon-bed-0.24.0 (c (n "exon-bed") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("bed" "core"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("compat"))) (d #t) (k 0)))) (h "03fqvmgdl6rwk8r9jqh758y3s6xzc028rld8fhmvlkdm9j8y2mni")))
 
+(define-public crate-exon-bed-0.24.1 (c (n "exon-bed") (v "0.24.1") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("bed" "core"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("compat"))) (d #t) (k 0)))) (h "1b3pq6ydssxmjv5qr6x5jcsy16baskfqydq2jczmas804zfjra59")))
+

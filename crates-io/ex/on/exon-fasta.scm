@@ -114,3 +114,5 @@
 
 (define-public crate-exon-fasta-0.24.0 (c (n "exon-fasta") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core" "async" "fasta"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("compat"))) (d #t) (k 0)))) (h "19gl7dar07nliik5aggxqggz3nvlpdlhfk8m3yhg454jf50d2i7z")))
 
+(define-public crate-exon-fasta-0.24.1 (c (n "exon-fasta") (v "0.24.1") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core" "async" "fasta"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("compat"))) (d #t) (k 0)))) (h "1vn9jxmxb409wyc6jjblxc3c9mb2js34sdanz4y6yva6mwdhvhbl")))
+
