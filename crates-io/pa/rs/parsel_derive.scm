@@ -54,3 +54,5 @@
 
 (define-public crate-parsel_derive-0.14.0 (c (n "parsel_derive") (v "0.14.0") (d (list (d (n "deluxe") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1m92a49m2kcpvd7zmmqn7p9sdmzi1q2wa9x9qxsgmlkafbk4pbp2")))
 
+(define-public crate-parsel_derive-0.15.0 (c (n "parsel_derive") (v "0.15.0") (d (list (d (n "deluxe") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.84") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1qzq1nq2x2vxaybjjg96h8cljmbdhmv3ngv96pzvyzxn06ipnd7q")))
+

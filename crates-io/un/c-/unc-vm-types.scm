@@ -26,3 +26,5 @@
 
 (define-public crate-unc-vm-types-0.10.2 (c (n "unc-vm-types") (v "0.10.2") (d (list (d (n "bolero") (r "^0.10.1") (f (quote ("arbitrary"))) (d #t) (k 2)) (d (n "indexmap") (r "^1.6") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "rkyv") (r "^0.7.31") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "14lr56s3nnhwjg49f8ivzxib4l34ckr5rgwvlf1rhsrlgmkc8dhp")))
 
+(define-public crate-unc-vm-types-0.12.2 (c (n "unc-vm-types") (v "0.12.2") (d (list (d (n "bolero") (r "^0.10.1") (f (quote ("arbitrary"))) (d #t) (k 2)) (d (n "indexmap") (r "^1.6") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "rkyv") (r "^0.7.31") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "03z6c9mi6517d4j38wkxc8wydmw9h5s209w0p31gj1apb3kipz9y")))
+

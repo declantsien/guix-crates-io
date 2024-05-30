@@ -6,3 +6,5 @@
 
 (define-public crate-algorithm-0.1.2 (c (n "algorithm") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "slab") (r "^0.4.9") (d #t) (k 2)))) (h "01srspyz5dn3nxwi64sg399yyr8v31k743nb30aq15gwars8n4ml")))
 
+(define-public crate-algorithm-0.1.3 (c (n "algorithm") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "slab") (r "^0.4.9") (d #t) (k 2)))) (h "0807rcksk5h7c2wkibmlk550y0l7d8064sv5w9nqk0n46zgxhxg9")))
+

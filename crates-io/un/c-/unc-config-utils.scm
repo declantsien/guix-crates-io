@@ -26,3 +26,5 @@
 
 (define-public crate-unc-config-utils-0.10.2 (c (n "unc-config-utils") (v "0.10.2") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "json_comments") (r "^0.2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (f (quote ("std"))) (d #t) (k 0)))) (h "19ih8mzqm26gb0x7yf715lxibk795j5bkhrcxnfsxz2dd7lhq5rx")))
 
+(define-public crate-unc-config-utils-0.12.2 (c (n "unc-config-utils") (v "0.12.2") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "json_comments") (r "^0.2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (f (quote ("std"))) (d #t) (k 0)))) (h "18s90j2wrlwcbq3mvq18z4ny9idyr0fmzyjsb6vmr3216qg406cc")))
+

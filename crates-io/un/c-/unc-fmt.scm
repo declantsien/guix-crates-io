@@ -26,3 +26,5 @@
 
 (define-public crate-unc-fmt-0.10.2 (c (n "unc-fmt") (v "0.10.2") (d (list (d (n "unc-primitives-core") (r "^0.10.2") (d #t) (k 0)))) (h "1b872fhbfklmswiisk1dlncmlq52jszayjsh17cbsxv2lnphqscm") (f (quote (("nightly_protocol" "unc-primitives-core/nightly_protocol") ("nightly" "nightly_protocol" "unc-primitives-core/nightly"))))))
 
+(define-public crate-unc-fmt-0.12.2 (c (n "unc-fmt") (v "0.12.2") (d (list (d (n "unc-primitives-core") (r "^0.12.2") (d #t) (k 0)))) (h "07i4q1d37lbi3yvw4bjp7xw7qp6mm69a8b5dpy88aqwnm6p94v2l") (f (quote (("nightly_protocol" "unc-primitives-core/nightly_protocol") ("nightly" "nightly_protocol" "unc-primitives-core/nightly"))))))
+

@@ -26,3 +26,5 @@
 
 (define-public crate-unc-stdx-0.10.2 (c (n "unc-stdx") (v "0.10.2") (h "194jh691hafm33r5js9f9m10s42pn41a7s1wmrb2cl3dw2cfg40c")))
 
+(define-public crate-unc-stdx-0.12.2 (c (n "unc-stdx") (v "0.12.2") (h "0wxnx6sv6qwc8iwnf3r353f8ygc4k7vswzw297rsii9r8hvprwch")))
+

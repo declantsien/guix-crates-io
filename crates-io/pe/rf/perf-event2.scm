@@ -20,3 +20,5 @@
 
 (define-public crate-perf-event2-0.7.3 (c (n "perf-event2") (v "0.7.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bitflags") (r "^2.1") (d #t) (k 0)) (d (n "c-enum") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "memmap2") (r "^0.9") (d #t) (k 0)) (d (n "nix") (r "^0.29") (f (quote ("process" "feature"))) (d #t) (k 2)) (d (n "perf-event-data") (r "^0.1.1") (d #t) (k 0)) (d (n "perf-event-open-sys2") (r "^5.0") (d #t) (k 0)))) (h "01jfcqacna2x8awh2gn8lb7z14kai4dr2ajhszds58ky8gkl7hkv") (f (quote (("hooks"))))))
 
+(define-public crate-perf-event2-0.7.4 (c (n "perf-event2") (v "0.7.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bitflags") (r "^2.1") (d #t) (k 0)) (d (n "c-enum") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "memmap2") (r "^0.9") (d #t) (k 0)) (d (n "nix") (r "^0.29") (f (quote ("process" "feature"))) (d #t) (k 2)) (d (n "perf-event-data") (r "^0.1.1") (d #t) (k 0)) (d (n "perf-event-open-sys2") (r "^5.0.4") (d #t) (k 0)))) (h "03qax84vmfwki4dmz5rhgwb37y6vmapglddxxclypykxszxbhf89") (f (quote (("hooks"))))))
+

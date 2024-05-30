@@ -26,3 +26,5 @@
 
 (define-public crate-unc-rpc-error-core-0.10.2 (c (n "unc-rpc-error-core") (v "0.10.2") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (f (quote ("preserve_order"))) (d #t) (k 2)) (d (n "syn") (r "^2.0.4") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0akq32cqp3ljwp78nws1s3qrc39cj90886hmd5g7c8fbbw7sy4c0") (f (quote (("test") ("dump_errors_schema"))))))
 
+(define-public crate-unc-rpc-error-core-0.12.2 (c (n "unc-rpc-error-core") (v "0.12.2") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (f (quote ("preserve_order"))) (d #t) (k 2)) (d (n "syn") (r "^2.0.4") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "08lnqvbwxrljkdy0jpc20klf7alhfj6l1sg35l18asxcs56ccxr7") (f (quote (("test") ("dump_errors_schema"))))))
+

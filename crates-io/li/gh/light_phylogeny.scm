@@ -186,3 +186,5 @@
 
 (define-public crate-light_phylogeny-2.2.6 (c (n "light_phylogeny") (v "2.2.6") (d (list (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "getopt") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "svg") (r "^0.15.1") (d #t) (k 0)))) (h "02n4k71xq8819gg31djk1g1vpjirmfg4cj10dbsn2c4ckxkd02y1")))
 
+(define-public crate-light_phylogeny-2.2.7 (c (n "light_phylogeny") (v "2.2.7") (d (list (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "getopt") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "svg") (r "^0.15.1") (d #t) (k 0)))) (h "0gcybcbfh6x6vdqkygh0rbmz9z1j0lys9kpz7dwggdkg35js2km3")))
+

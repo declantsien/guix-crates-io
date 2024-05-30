@@ -54,3 +54,5 @@
 
 (define-public crate-parsel-0.14.0 (c (n "parsel") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "parsel_derive") (r "^0.14.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "073scsyg43bz3hk2b7c2jvsl9804i65lw5a7gf3cyym6853m9qhb")))
 
+(define-public crate-parsel-0.15.0 (c (n "parsel") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 2)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "parsel_derive") (r "^0.15.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.84") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0jw0sl1ii15wssxv5iv7zzdq400725619lbdilf5mzl44fs8y816")))
+
