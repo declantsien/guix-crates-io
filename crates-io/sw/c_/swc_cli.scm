@@ -494,3 +494,5 @@
 
 (define-public crate-swc_cli-0.91.265 (c (n "swc_cli") (v "0.91.265") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "swc_cli_impl") (r "^0.10.0") (d #t) (k 0)))) (h "0hkynk2rh3bl9qlxmb4qpa01nkxmsg1fw9ak6nsy52cfah9mzg2b") (f (quote (("plugin" "swc_cli_impl/plugin") ("default" "swc_cli_impl/default"))))))
 
+(define-public crate-swc_cli-0.91.266 (c (n "swc_cli") (v "0.91.266") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "swc_cli_impl") (r "^0.10.0") (d #t) (k 0)))) (h "1yzy1s830z649dkhbwfgwmr886r9adma1vhwfxgl0k7shgi4amqf") (f (quote (("plugin" "swc_cli_impl/plugin") ("default" "swc_cli_impl/default"))))))
+

@@ -10,3 +10,5 @@
 
 (define-public crate-utoipa-redoc-4.0.0 (c (n "utoipa-redoc") (v "4.0.0") (d (list (d (n "actix-web") (r "^4") (o #t) (k 0)) (d (n "axum") (r "^0.7") (o #t) (k 0)) (d (n "rocket") (r "^0.5") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "03zghwkddlvg4sjcpypmxzwjl1hvy3958na5gvcylsxs013a4i6a")))
 
+(define-public crate-utoipa-redoc-4.0.1-alpha.0 (c (n "utoipa-redoc") (v "4.0.1-alpha.0") (d (list (d (n "actix-web") (r "^4") (o #t) (k 0)) (d (n "axum") (r "^0.7") (o #t) (k 0)) (d (n "rocket") (r "^0.5") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^5.0.0-alpha.0") (d #t) (k 0)))) (h "168qgs25p7m5632fdi5fl2hhs977jk3bm4kmirhnnwqkrf7qm4kg") (r "1.75")))
+

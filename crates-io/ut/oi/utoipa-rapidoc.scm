@@ -10,3 +10,5 @@
 
 (define-public crate-utoipa-rapidoc-4.0.0 (c (n "utoipa-rapidoc") (v "4.0.0") (d (list (d (n "actix-web") (r "^4") (o #t) (k 0)) (d (n "axum") (r "^0.7") (f (quote ("json"))) (o #t) (k 0)) (d (n "rocket") (r "^0.5") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "1n9rgamy3m9vm3368ya4qwgdpczbb21czvvqxdc5s4qwd65lhcha")))
 
+(define-public crate-utoipa-rapidoc-4.0.1-alpha.0 (c (n "utoipa-rapidoc") (v "4.0.1-alpha.0") (d (list (d (n "actix-web") (r "^4") (o #t) (k 0)) (d (n "axum") (r "^0.7") (f (quote ("json"))) (o #t) (k 0)) (d (n "rocket") (r "^0.5") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^5.0.0-alpha.0") (d #t) (k 0)))) (h "16xiiwwp82dqfam66dvh8556hnyxdzv6ah5xsckx5cyym5aj2znj") (r "1.75")))
+
