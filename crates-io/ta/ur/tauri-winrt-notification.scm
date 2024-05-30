@@ -16,3 +16,5 @@
 
 (define-public crate-tauri-winrt-notification-0.3.1 (c (n "tauri-winrt-notification") (v "0.3.1") (d (list (d (n "quick-xml") (r "^0.31") (d #t) (k 0)) (d (n "windows") (r "^0.56") (f (quote ("Win32_Foundation" "Foundation_Collections" "Win32_System_SystemInformation" "Data_Xml_Dom" "UI_Notifications"))) (d #t) (k 0)) (d (n "windows-version") (r "^0.1") (d #t) (k 0)))) (h "02ig652k6mxsh3g4svd3bq0yk90m7692vkcgq07adyf7yrq8fxrn") (r "1.62")))
 
+(define-public crate-tauri-winrt-notification-0.4.0 (c (n "tauri-winrt-notification") (v "0.4.0") (d (list (d (n "quick-xml") (r "^0.31") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "windows") (r "^0.56") (f (quote ("Win32_Foundation" "Foundation_Collections" "Win32_System_SystemInformation" "Data_Xml_Dom" "UI_Notifications"))) (d #t) (k 0)) (d (n "windows-version") (r "^0.1") (d #t) (k 0)))) (h "1g9962ccsv1i24kd0s0gdbvjmm8740sa2r1z7zlngksscwy8va0i") (r "1.62")))
+

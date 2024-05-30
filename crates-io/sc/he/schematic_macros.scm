@@ -134,3 +134,5 @@
 
 (define-public crate-schematic_macros-0.16.3 (c (n "schematic_macros") (v "0.16.3") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.83") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "1hl5jzj01df71mhkmxw9xq0grpz3w6w3v1gdd98ilpan21bn4wlb") (f (quote (("tracing") ("schema") ("default") ("config"))))))
 
+(define-public crate-schematic_macros-0.16.4 (c (n "schematic_macros") (v "0.16.4") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.83") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "1db9v211fvpqxgbw0w3rj5lifdc4gp3dzdizsgsj0glnnc8zyvlh") (f (quote (("tracing") ("schema") ("default") ("config"))))))
+

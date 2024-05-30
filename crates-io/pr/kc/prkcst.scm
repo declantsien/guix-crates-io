@@ -12,3 +12,5 @@
 
 (define-public crate-prkcst-0.4.1 (c (n "prkcst") (v "0.4.1") (d (list (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "0ck73bcbv6y9l7ivzzbymmygs0hy5wdbbds0fch3bbds3qcmwxxa")))
 
+(define-public crate-prkcst-0.4.2 (c (n "prkcst") (v "0.4.2") (d (list (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "15sl8j57b30ib13p5a4kdqqn73ymhyn4dcmg9qwqllpdm82mq3sn")))
+

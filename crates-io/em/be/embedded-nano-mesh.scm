@@ -30,3 +30,5 @@
 
 (define-public crate-embedded-nano-mesh-1.0.4 (c (n "embedded-nano-mesh") (v "1.0.4") (d (list (d (n "heapless") (r "^0.7.0") (f (quote ("serde" "ufmt-impl"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.3") (d #t) (k 0)) (d (n "platform-millis") (r "^2.0.0") (d #t) (k 0)) (d (n "platform-serial") (r "^1.0.2") (d #t) (k 0)) (d (n "ufmt") (r "^0.2.0") (d #t) (k 0)))) (h "1c4yll3gpx5zq2niv7n26hm36ah19y587z307m6vl6rddqzml5rb")))
 
+(define-public crate-embedded-nano-mesh-1.0.5 (c (n "embedded-nano-mesh") (v "1.0.5") (d (list (d (n "heapless") (r "^0.7.0") (f (quote ("serde" "ufmt-impl"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.3") (d #t) (k 0)) (d (n "platform-millis") (r "^2.0.0") (d #t) (k 0)) (d (n "platform-serial") (r "^1.0.2") (d #t) (k 0)) (d (n "ufmt") (r "^0.2.0") (d #t) (k 0)))) (h "19hdmyy2h9pn4sz0m63lmizj9g0hlwga3kybf7a858457dpf9ils")))
+

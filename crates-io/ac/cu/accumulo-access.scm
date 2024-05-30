@@ -16,3 +16,5 @@
 
 (define-public crate-accumulo-access-0.1.7 (c (n "accumulo-access") (v "0.1.7") (d (list (d (n "cached") (r "^0.51") (f (quote ("ahash"))) (o #t) (d #t) (k 0)) (d (n "rstest") (r "^0.19") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1bck2g7x2lqgj3455r61sav5k5w6fcxcy173k8n8sg8gic7s9pkm") (f (quote (("default" "caching")))) (s 2) (e (quote (("caching" "dep:cached"))))))
 
+(define-public crate-accumulo-access-0.1.8 (c (n "accumulo-access") (v "0.1.8") (d (list (d (n "cached") (r "^0.51") (f (quote ("ahash"))) (o #t) (d #t) (k 0)) (d (n "rstest") (r "^0.19") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ggmj5wr811fmr1x1dskb6l03x8x93hq7zvvbpr83ybnz2a0xwxl") (f (quote (("default" "caching")))) (s 2) (e (quote (("caching" "dep:cached"))))))
+
