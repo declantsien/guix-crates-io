@@ -1,0 +1,12 @@
+(define-module (crates-io vo lu volume-ctl) #:use-module (crates-io))
+
+(define-public crate-volume-ctl-0.1.0 (c (n "volume-ctl") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "libpulse-binding") (r "^2.28.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "notify-rust") (r "^4.10.0") (k 0)))) (h "0am6cpvrmf877vdn5bzg20l6zzzl91hfqjgnpmivd2hqjhwnj1aq") (f (quote (("zbus" "notify-rust/z") ("default" "dbus") ("dbus" "notify-rust/dbus"))))))
+
+(define-public crate-volume-ctl-0.1.1 (c (n "volume-ctl") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "libpulse-binding") (r "^2.28.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "notify-rust") (r "^4.10.0") (k 0)))) (h "1zyqhw54bppdhhvpwqq53z4bs7naf1zx9qd2fmxz36xsigwsbp75") (f (quote (("zbus" "notify-rust/z") ("default" "dbus") ("dbus" "notify-rust/dbus"))))))
+
+(define-public crate-volume-ctl-0.1.2 (c (n "volume-ctl") (v "0.1.2") (d (list (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "libpulse-binding") (r "^2.28.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "notify-rust") (r "^4.10.0") (k 0)))) (h "0zf400yynlb0wnfcnbs2l8n01pqx67wkryrwqjgkz3rivl6svhg0") (f (quote (("zbus" "notify-rust/z") ("default" "dbus") ("dbus" "notify-rust/dbus"))))))
+
+(define-public crate-volume-ctl-0.1.3 (c (n "volume-ctl") (v "0.1.3") (d (list (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "libpulse-binding") (r "^2.28.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "notify-rust") (r "^4.10.0") (k 0)))) (h "03g95dgdlfr98jbm7p0b4wnqw4j8k2dza9hkfl3mrgkmll155a8y") (f (quote (("zbus" "notify-rust/z") ("default" "dbus") ("dbus" "notify-rust/dbus"))))))
+
+(define-public crate-volume-ctl-0.1.4 (c (n "volume-ctl") (v "0.1.4") (d (list (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (f (quote ("color" "auto-color"))) (k 0)) (d (n "libpulse-binding") (r "^2.28.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "notify-rust") (r "^4.10.0") (k 0)))) (h "1blhxij1rx466b7w1dh70fpkfi5drdzp7i3r6nxnsgzw1ci37y2q") (f (quote (("zbus" "notify-rust/z") ("default" "dbus") ("dbus" "notify-rust/dbus"))))))
+

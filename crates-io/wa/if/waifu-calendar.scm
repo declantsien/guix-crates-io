@@ -1,0 +1,4 @@
+(define-module (crates-io wa if waifu-calendar) #:use-module (crates-io))
+
+(define-public crate-waifu-calendar-0.1.0 (c (n "waifu-calendar") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "graphql_client") (r "^0.13.0") (d #t) (k 0)) (d (n "ics") (r "^0.5.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shadow-rs") (r "^0.26.0") (d #t) (k 0)) (d (n "shadow-rs") (r "^0.26.0") (d #t) (k 1)) (d (n "time") (r "^0.3.31") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v7"))) (d #t) (k 0)))) (h "169dp27ch9ybhwfcm85dxda34i48gdwfs8zfqm4lyssqrrbzxqf9")))
+

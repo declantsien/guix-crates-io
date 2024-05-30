@@ -1,0 +1,12 @@
+(define-module (crates-io dr oi droid-juicer) #:use-module (crates-io))
+
+(define-public crate-droid-juicer-0.1.0 (c (n "droid-juicer") (v "0.1.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sys-mount") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uname") (r "^0.1") (d #t) (k 0)))) (h "1ws1r97s0915gl8cq8y3mvjnrcg378y1fk7sp1y6xwvwmc235a5x")))
+
+(define-public crate-droid-juicer-0.1.1 (c (n "droid-juicer") (v "0.1.1") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sys-mount") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uname") (r "^0.1") (d #t) (k 0)))) (h "0986ysnkx5w459jwnl388yi34bbfrns0c2dll5gfm3pc75xpmraz")))
+
+(define-public crate-droid-juicer-0.1.2 (c (n "droid-juicer") (v "0.1.2") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sys-mount") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uname") (r "^0.1") (d #t) (k 0)))) (h "1f3i86yhdc7ca9aihkr03a03s8h3041xjcjwkn9knndbf334abkr")))
+
+(define-public crate-droid-juicer-0.2.0 (c (n "droid-juicer") (v "0.2.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sys-mount") (r "^2.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uname") (r "^0.1") (d #t) (k 0)))) (h "1xls63n93dfkjqp968i6254flqg507vkm1vwyxdbcx63hmamsil1")))
+
+(define-public crate-droid-juicer-0.2.1 (c (n "droid-juicer") (v "0.2.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sys-mount") (r "^2.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uname") (r "^0.1") (d #t) (k 0)))) (h "06j2h16dflzbigcgy01zz7hr4f6kizwxjrdd5q2c63an2ib099i0")))
+

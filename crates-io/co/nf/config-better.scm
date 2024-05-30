@@ -1,0 +1,10 @@
+(define-module (crates-io co nf config-better) #:use-module (crates-io))
+
+(define-public crate-config-better-0.1.0 (c (n "config-better") (v "0.1.0") (d (list (d (n "rand") (r "^0.8.4") (d #t) (k 2)))) (h "0c5fw8kjg5bg0lg492ciaz0p5ihfjiz1iyhnqw10y2nngjby902r")))
+
+(define-public crate-config-better-1.0.0 (c (n "config-better") (v "1.0.0") (d (list (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "temp-env") (r "^0.3.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("fs"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("fs" "macros" "rt"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0z48a9mh3cq0w9yjwqw8jgl3xwbvqqvjhpwd4mm9l0r6c9pq0nrq") (f (quote (("sync") ("default" "sync") ("async" "tokio")))) (r "1.60.0")))
+
+(define-public crate-config-better-1.1.0 (c (n "config-better") (v "1.1.0") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "temp-env") (r "^0.3.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("fs"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("fs" "macros" "rt"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0z4ki8fmq285g00f9m8p86wq3w3w6fcjcxi46k0rgbddx0rq7b39") (f (quote (("sync") ("default" "sync") ("async-tokio" "tokio") ("async" "async-std")))) (r "1.60.0")))
+
+(define-public crate-config-better-1.2.0 (c (n "config-better") (v "1.2.0") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "temp-env") (r "^0.3.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("fs"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("fs" "macros" "rt"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0a0dkd44v88i0qam58rm4l8i8jbkdb0bpx0l4id4nwf3mfw2szq0") (f (quote (("sync") ("default" "sync") ("async-tokio" "tokio") ("async" "async-std")))) (r "1.61")))
+

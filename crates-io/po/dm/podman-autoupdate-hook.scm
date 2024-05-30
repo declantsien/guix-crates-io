@@ -1,0 +1,4 @@
+(define-module (crates-io po dm podman-autoupdate-hook) #:use-module (crates-io))
+
+(define-public crate-podman-autoupdate-hook-0.1.0 (c (n "podman-autoupdate-hook") (v "0.1.0") (d (list (d (n "axum") (r "^0.6.4") (d #t) (k 0)) (d (n "axum-auth") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("rt-multi-thread" "macros" "signal"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tower_governor") (r "^0.0.4") (f (quote ("tracing"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)))) (h "1wywhbxnmia5h3cv78rgi2pg5swy53y15yxb2cmy1619i21fdx4g")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# l lsm) #:use-module (crates-io))
+
+(define-public crate-lsm-0.1.0 (c (n "lsm") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru") (r "^0.6") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "snap") (r "^1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "fs" "io-util" "sync" "macros"))) (k 0)))) (h "1lmm9821qd0x43yv2597da6v83xpplf8bqq3aagjv3kgphlnb0ax") (f (quote (("sync") ("snappy-compression" "snap") ("default" "snappy-compression"))))))
+

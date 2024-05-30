@@ -1,0 +1,32 @@
+(define-module (crates-io ru ns runscript) #:use-module (crates-io))
+
+(define-public crate-runscript-0.6.0 (c (n "runscript") (v "0.6.0") (d (list (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0cqw075v7nsnas6xsprp697yk6lp05vh1l4g9a1zij3pcvnp13bg") (y #t)))
+
+(define-public crate-runscript-0.6.1 (c (n "runscript") (v "0.6.1") (d (list (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1cj2x9x64m10f76iimvvzparaiiv91m52f07a5y39gnn39za5g3j") (y #t)))
+
+(define-public crate-runscript-0.6.2 (c (n "runscript") (v "0.6.2") (d (list (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1dxllnzqzbpzvyjv186mw6y6h8dn9kas6hb2skgx1spqchcbw6rg") (y #t)))
+
+(define-public crate-runscript-0.7.0 (c (n "runscript") (v "0.7.0") (d (list (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "13ap0q9fp641fnz9hlp0arj08l2cxrm7zpbvb2sjc48ir4x78qw8") (y #t)))
+
+(define-public crate-runscript-0.8.0 (c (n "runscript") (v "0.8.0") (d (list (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0siy79i0k5kbdarbz6q1kvd652hm40k0svfv14pfk3jmmcmdqyza") (y #t)))
+
+(define-public crate-runscript-0.8.1 (c (n "runscript") (v "0.8.1") (d (list (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "07z0bf6gmdn13j586p8ws0ihaj75rfpyqh35kvqsb677dw7csa84") (y #t)))
+
+(define-public crate-runscript-1.0.0-rc.1 (c (n "runscript") (v "1.0.0-rc.1") (d (list (d (n "codespan-reporting") (r "^0.9.5") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.0") (d #t) (k 0)))) (h "05fx2jy5avdkn65mqa0d6c0r00x92i0drlbh3qwv0dnw7h6s6f93") (y #t)))
+
+(define-public crate-runscript-1.0.0-rc.2 (c (n "runscript") (v "1.0.0-rc.2") (d (list (d (n "codespan-reporting") (r "^0.9.5") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.0") (d #t) (k 0)))) (h "0vivph3dy6dsz042yc9da47swjfns8f1kial4mly3p77c5fzli8q") (y #t)))
+
+(define-public crate-runscript-1.0.0 (c (n "runscript") (v "1.0.0") (d (list (d (n "codespan-reporting") (r "^0.9.5") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.0") (d #t) (k 0)))) (h "05dqfwndsvd05wbfvi7a94qp3x1myz8b90jd3zp5lqhkixjkjvn7") (y #t)))
+
+(define-public crate-runscript-1.0.1 (c (n "runscript") (v "1.0.1") (d (list (d (n "codespan-reporting") (r "^0.9.5") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.0") (d #t) (k 0)))) (h "1gmp5snb128h54z6g36rvinhxgw4qj8af270wjxlcklx3ki50zwg") (y #t)))
+
+(define-public crate-runscript-1.1.0 (c (n "runscript") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.9.5") (d #t) (k 0)) (d (n "filenamegen") (r "^0.2.4") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.0") (d #t) (k 0)))) (h "0a1y97c54i2b2qigb7gzh410ayn89dgblrq1rakg90ayfbjjr7nk") (y #t)))
+
+(define-public crate-runscript-1.2.0-pre.2 (c (n "runscript") (v "1.2.0-pre.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "filenamegen") (r "^0.2") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)))) (h "1p863gjb45dx3ck0fgk39bi1qcx6slgnk7lrjhzwlj0dvd918jfx") (y #t)))
+
+(define-public crate-runscript-1.2.0 (c (n "runscript") (v "1.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "filenamegen") (r "^0.2") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)))) (h "1a95jmx0npkiaidk1qpczxxgqkbx9mvkah6kjzp07aajpfmhjff1") (y #t)))
+
+(define-public crate-runscript-1.3.0 (c (n "runscript") (v "1.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "enum-map") (r "^0.6") (d #t) (k 0)) (d (n "filenamegen") (r "^0.2") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "trace") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0f1crcnj3wbxcj3zy3z99618iw1pk0bbqh2gscdgw716v9v3myka") (y #t)))
+
+(define-public crate-runscript-2.0.0-alpha.2 (c (n "runscript") (v "2.0.0-alpha.2") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "conch-parser") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "enum-map") (r "^0.6") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "trace") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0wnbsg3amvripnx1grcxhd52isf99mvfk82h94s9jqnin30b2i32") (y #t)))
+

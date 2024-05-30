@@ -1,0 +1,10 @@
+(define-module (crates-io pl sf plsfix) #:use-module (crates-io))
+
+(define-public crate-plsfix-0.1.0 (c (n "plsfix") (v "0.1.0") (h "1lqsy43zbv2k5vg2jl1d92xr8521xk0nbqxd6kq4amgxjqsnd46g")))
+
+(define-public crate-plsfix-0.1.1 (c (n "plsfix") (v "0.1.1") (d (list (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.33") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.12.0") (d #t) (k 0)) (d (n "html-escape") (r "^0.2.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "oem_cp") (r "^2.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (d #t) (k 0)))) (h "1gmfy5knj39yi85mff7f3vwavc89n0k3vyvwfbi324sgpxi22jva")))
+
+(define-public crate-plsfix-0.1.3 (c (n "plsfix") (v "0.1.3") (d (list (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.33") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.12.0") (d #t) (k 0)) (d (n "html-escape") (r "^0.2.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "oem_cp") (r "^2.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (d #t) (k 0)))) (h "1ky6nnyl3nr0qrz2jh5zsavsqx2jvqm4j1wqq814p7f4b0wrh3ay")))
+
+(define-public crate-plsfix-0.1.7 (c (n "plsfix") (v "0.1.7") (d (list (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.33") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.12.0") (d #t) (k 0)) (d (n "html-escape") (r "^0.2.13") (d #t) (k 0)) (d (n "icu") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "oem_cp") (r "^2.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (k 0)))) (h "0bmgbqg2cmhvxds96823xf9smrkzl9gdfm7fhr6zmif8y8zzxm78")))
+

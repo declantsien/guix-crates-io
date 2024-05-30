@@ -1,0 +1,16 @@
+(define-module (crates-io pr oj project-absence-kernel) #:use-module (crates-io))
+
+(define-public crate-project-absence-kernel-0.1.0 (c (n "project-absence-kernel") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "179fhdf48mnamly9940dy0bwc4023lw6q39j811shp2w86p6p4ji")))
+
+(define-public crate-project-absence-kernel-0.1.1 (c (n "project-absence-kernel") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "0xd7l1fyv2v2mxcrimbrfkq7h2fbv5nvk5dcf19hawfrd0rihfkv")))
+
+(define-public crate-project-absence-kernel-0.1.2 (c (n "project-absence-kernel") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "0ipp12v1acf4ig57rmii2n69wyrwb445qf8q3r5inkghjzkd9bpv")))
+
+(define-public crate-project-absence-kernel-0.1.3 (c (n "project-absence-kernel") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "1m3fnjvpkbkm0j0l7x6whn8f2ll3nm65hx0w0zkpr6pw3b0iq638")))
+
+(define-public crate-project-absence-kernel-0.1.4 (c (n "project-absence-kernel") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "1j513zl2mv46s8b5s6y4dvhxl6izcfzgjgw7vklncwkr2r0c7f2m")))
+
+(define-public crate-project-absence-kernel-0.2.0 (c (n "project-absence-kernel") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "0dw1gb8x35a5pvr7xvsl6qiag663ap6bnra8vq3gf82ismm6r4n3")))
+
+(define-public crate-project-absence-kernel-0.2.1 (c (n "project-absence-kernel") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tangra") (r "^1.3.0") (d #t) (k 0)))) (h "0ps0zfxfq7wy9d55lqxxkfy7lnyarcky91nisdf5qz025258j6cv")))
+

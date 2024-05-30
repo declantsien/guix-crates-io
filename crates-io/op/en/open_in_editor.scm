@@ -1,0 +1,8 @@
+(define-module (crates-io op en open_in_editor) #:use-module (crates-io))
+
+(define-public crate-open_in_editor-0.1.0 (c (n "open_in_editor") (v "0.1.0") (d (list (d (n "core-foundation") (r "^0.7.0") (d #t) (k 0)) (d (n "core-services") (r "^0.1.1") (d #t) (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.3") (d #t) (k 0)))) (h "0wn6n4jqrp9qzin49ylnj6raks6mlihb5adly573dpwh46ck33cf")))
+
+(define-public crate-open_in_editor-0.1.1 (c (n "open_in_editor") (v "0.1.1") (d (list (d (n "core-foundation") (r "^0.7.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-services") (r "^0.1.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "home") (r "^0.5.3") (d #t) (t "cfg(not(target_os = \"macos\"))") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "quick-error") (r "^1.2.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (t "cfg(not(target_os = \"macos\"))") (k 0)))) (h "17xqhfxf00js8cp7vslrxm9kjkpcjiqn42n43cjnnayxz101rm2y")))
+
+(define-public crate-open_in_editor-0.2.0 (c (n "open_in_editor") (v "0.2.0") (d (list (d (n "core-foundation") (r "^0.9.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-services") (r "^0.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "home") (r "^0.5.3") (d #t) (t "cfg(not(target_os = \"macos\"))") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "quick-error") (r "^2.0.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (t "cfg(not(target_os = \"macos\"))") (k 0)))) (h "1l1jvc0cka51hxq5zmy31f5fs32ivm6y9vgbpns8mmnbx5cr8bg8")))
+

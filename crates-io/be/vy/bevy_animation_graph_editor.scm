@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_animation_graph_editor) #:use-module (crates-io))
+
+(define-public crate-bevy_animation_graph_editor-0.2.0 (c (n "bevy_animation_graph_editor") (v "0.2.0") (d (list (d (n "bevy") (r "^0.12.1") (f (quote ("file_watcher"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.22.1") (d #t) (k 0)) (d (n "bevy_animation_graph") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "egui_dock") (r "^0.9.0") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)))) (h "09rp130gm44hs917y7b1l7vg1i2zxi4gakpjx1gkic5flcj34gcz")))
+
+(define-public crate-bevy_animation_graph_editor-0.3.0 (c (n "bevy_animation_graph_editor") (v "0.3.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("file_watcher"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.23") (d #t) (k 0)) (d (n "bevy_animation_graph") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "egui-notify") (r "^0.13") (d #t) (k 0)) (d (n "egui_dock") (r "^0.11") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)))) (h "05frj3laz4dqklm6kijkqzhg31gvamlmd7mbpsjl926x0ywl5x7z")))
+

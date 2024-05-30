@@ -1,0 +1,12 @@
+(define-module (crates-io ya z0 yaz0) #:use-module (crates-io))
+
+(define-public crate-yaz0-0.1.0 (c (n "yaz0") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 2)) (d (n "indicatif") (r "^0.9") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.5.0-pre.1") (d #t) (k 2)))) (h "0akb2lf37dvzmznmjp0hpdwnj1h1dxm33phbcfki8q9hcx7v53rd")))
+
+(define-public crate-yaz0-0.1.1 (c (n "yaz0") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 2)) (d (n "indicatif") (r "^0.9") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.5.0-pre.1") (d #t) (k 2)))) (h "0rma2ppzrmv24s41zblji0xdgkkci5jgnq6idrqg1zx8g4zn0iij")))
+
+(define-public crate-yaz0-0.1.2 (c (n "yaz0") (v "0.1.2") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (o #t) (d #t) (k 0)) (d (n "indicatif") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "indicatif") (r "^0.9") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.5.0-pre.1") (d #t) (k 2)))) (h "0gzq4x9cxxp7j76ygaddpjxwcajs539cmv0i69r1i4ci8wbwrmf7") (f (quote (("yaztool" "clap" "indicatif"))))))
+
+(define-public crate-yaz0-0.2.0 (c (n "yaz0") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "clap") (r "^2.33") (o #t) (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "09959s6ygzsihvhg6rjr4nczw68nrx6b0s56i91bfjmih2hi6y8y") (f (quote (("yaztool" "clap" "indicatif"))))))
+
+(define-public crate-yaz0-0.3.0 (c (n "yaz0") (v "0.3.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "clap") (r "^2.33") (o #t) (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1bmp2bg566l28fwhz94rmmgpzlbw01kvfsj81frhyq1gf2ypii99") (f (quote (("yaztool" "clap" "indicatif"))))))
+

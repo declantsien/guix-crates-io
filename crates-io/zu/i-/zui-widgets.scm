@@ -1,0 +1,8 @@
+(define-module (crates-io zu i- zui-widgets) #:use-module (crates-io))
+
+(define-public crate-zui-widgets-0.0.1 (c (n "zui-widgets") (v "0.0.1") (d (list (d (n "argh") (r "^0.1") (d #t) (k 2)) (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "cassowary") (r "^0.3") (d #t) (k 0)) (d (n "libzui") (r "^0.0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "07danngp3nbmvsvj3zwq298rarpzh080dhmf6s0jnwf4ay2kzwbf")))
+
+(define-public crate-zui-widgets-0.0.2 (c (n "zui-widgets") (v "0.0.2") (d (list (d (n "argh") (r "^0.1") (d #t) (k 2)) (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "cassowary") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "zui-core") (r "^0.0.2") (d #t) (k 0)))) (h "0cklkpz08vm374pgamdh13q8nhlrijlhmv5wisd77zgl4bnhb0r0")))
+
+(define-public crate-zui-widgets-0.0.3 (c (n "zui-widgets") (v "0.0.3") (d (list (d (n "argh") (r "^0.1") (d #t) (k 2)) (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "cassowary") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "zui-core") (r "^0.0.3") (d #t) (k 0)))) (h "1fnyqh1bwk3376749axsbkhbg00v3v4c0zm3ymk0q0635hykm09a")))
+

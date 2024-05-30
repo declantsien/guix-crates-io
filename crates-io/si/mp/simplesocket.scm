@@ -1,0 +1,6 @@
+(define-module (crates-io si mp simplesocket) #:use-module (crates-io))
+
+(define-public crate-simplesocket-0.1.0 (c (n "simplesocket") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.1") (f (quote ("rustls-tls-native-roots" "native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0g4d8qvvrs6k6pal269xj0q9dh6zn4a9c3k8lisg468kk17z8pgg")))
+
+(define-public crate-simplesocket-1.0.0 (c (n "simplesocket") (v "1.0.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.1") (f (quote ("rustls-tls-native-roots" "native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1kgpxw6fsfjhazmdgwnsyy037l1brmn2a2g1ci80yk55jgylqam1")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ve ry verypoll) #:use-module (crates-io))
+
+(define-public crate-verypoll-0.1.0 (c (n "verypoll") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10.1") (k 2)) (d (n "libc") (r "^0.2.149") (d #t) (t "cfg(target_os = \"wasi\")") (k 0)) (d (n "libc") (r "^0.2.149") (d #t) (t "cfg(unix)") (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "wasi") (r "^0.11.0") (d #t) (t "cfg(target_os = \"wasi\")") (k 0)) (d (n "windows-sys") (r "^0.52") (f (quote ("Wdk_Foundation" "Wdk_Storage_FileSystem" "Wdk_System_IO" "Win32_Foundation" "Win32_Networking_WinSock" "Win32_Storage_FileSystem" "Win32_System_IO" "Win32_System_WindowsProgramming"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1lwr48nxa7jwl8vkarpz9xafd5cw00pghsx26w75cahjnwhpj8xw") (f (quote (("os-poll") ("os-ext" "os-poll" "windows-sys/Win32_System_Pipes" "windows-sys/Win32_Security") ("net") ("default" "log")))) (r "1.74")))
+

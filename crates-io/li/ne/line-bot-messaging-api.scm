@@ -1,0 +1,16 @@
+(define-module (crates-io li ne line-bot-messaging-api) #:use-module (crates-io))
+
+(define-public crate-line-bot-messaging-api-0.1.0 (c (n "line-bot-messaging-api") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "07zg63pwccg92f361i7bfxdi3b7p6qlzdya491irs50wjs1qcbn5")))
+
+(define-public crate-line-bot-messaging-api-0.1.1 (c (n "line-bot-messaging-api") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "0pjy9bjx2idxkyy8q9y40p5149wh5zh2hqan51lq3wmf515kncmf")))
+
+(define-public crate-line-bot-messaging-api-0.1.2 (c (n "line-bot-messaging-api") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "103n6c1kwzfxyrjygydga52r6jfl9sizbsy6khclqwkbvdbhpj4w")))
+
+(define-public crate-line-bot-messaging-api-0.1.4 (c (n "line-bot-messaging-api") (v "0.1.4") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "04svik3irwxr687wxnr4z8q394hhjcpgh16qc0jgqwm9p20fbjxz")))
+
+(define-public crate-line-bot-messaging-api-0.1.5 (c (n "line-bot-messaging-api") (v "0.1.5") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "1sshpfs4b0bblc9nyykwr8pdhan39j4yz0gddvprfgcjxda63871")))
+
+(define-public crate-line-bot-messaging-api-0.1.6 (c (n "line-bot-messaging-api") (v "0.1.6") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "0wj7x76qa04rchish9sbi6a9fj7n37m3ipfiyf3hb640fzqrrssr")))
+
+(define-public crate-line-bot-messaging-api-0.1.7 (c (n "line-bot-messaging-api") (v "0.1.7") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("multipart" "blocking" "json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "~1") (d #t) (k 0)) (d (n "serde_derive") (r "~1") (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "tokio") (r "~1") (f (quote ("full"))) (d #t) (k 2)))) (h "12iw4svjpdyim977fl6szqi4hcdh75q4aam406ivs5ss7k79rgjb")))
+

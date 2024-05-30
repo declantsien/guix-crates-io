@@ -1,0 +1,4 @@
+(define-module (crates-io pr ty prty) #:use-module (crates-io))
+
+(define-public crate-prty-0.1.1 (c (n "prty") (v "0.1.1") (d (list (d (n "anycat") (r "^0.1.1") (d #t) (k 0)) (d (n "bit-set") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^2.23.1") (d #t) (k 0)) (d (n "compare") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.6") (d #t) (k 0)) (d (n "git-build-version") (r "^0.1.2") (d #t) (k 1)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "measure_time") (r "^0.6.0") (d #t) (k 0)) (d (n "peg") (r "^0.5.4") (d #t) (k 1)) (d (n "prefixopt") (r "^0.4.0") (d #t) (k 0)) (d (n "prefixopt_derive") (r "^0.4.0") (d #t) (k 0)) (d (n "prty_bitgraph") (r "^0.1.1") (d #t) (k 0)) (d (n "prty_fmtmodifier") (r "^0.1.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "typenum") (r "^1.10.0") (d #t) (k 0)))) (h "0hn7r1qp57rhww6x66k2ghlzmqp51g9dcw9q8m7jqa1fhw5p3rgy")))
+

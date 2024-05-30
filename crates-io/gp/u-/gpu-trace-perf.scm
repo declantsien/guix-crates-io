@@ -1,0 +1,16 @@
+(define-module (crates-io gp u- gpu-trace-perf) #:use-module (crates-io))
+
+(define-public crate-gpu-trace-perf-1.0.0 (c (n "gpu-trace-perf") (v "1.0.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "0rkpi4dplcjfyvbry2309w6km9n4cigmjgsshib6i6aj877iy6s6")))
+
+(define-public crate-gpu-trace-perf-1.1.0 (c (n "gpu-trace-perf") (v "1.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "1m7pg9fwhxabc54cvnsymax1njix6ia6wfdk4sifh51pap4in1mb")))
+
+(define-public crate-gpu-trace-perf-1.1.1 (c (n "gpu-trace-perf") (v "1.1.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "108h6lg60jc9p88hnz3np9ld1fh2c4nx8y90g85vmw8ydf06g6id")))
+
+(define-public crate-gpu-trace-perf-1.2.0 (c (n "gpu-trace-perf") (v "1.2.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "14bxz88v4fpn1zfdryixkkfpmbv20yjnqg6h8icvai61kl3kklys")))
+
+(define-public crate-gpu-trace-perf-1.2.1 (c (n "gpu-trace-perf") (v "1.2.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "18949ip8ziixq4kb5igmsbzzk9b9bqzf1qv4cj80525sx1mwlagv")))
+
+(define-public crate-gpu-trace-perf-1.3.0 (c (n "gpu-trace-perf") (v "1.3.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "log-once") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "0nhcgay7gmcwiav0nwqllf7b4pvl4xxvmp08wxkmrmynp11dk1f1")))
+
+(define-public crate-gpu-trace-perf-1.3.1 (c (n "gpu-trace-perf") (v "1.3.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "log-once") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.12.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "0dzgwmh5j9fdr7qbfcpgqjm4p27pnwr7vqxi0x7434i4c3rjvv3f")))
+

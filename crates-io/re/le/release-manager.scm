@@ -1,0 +1,12 @@
+(define-module (crates-io re le release-manager) #:use-module (crates-io))
+
+(define-public crate-release-manager-0.1.0 (c (n "release-manager") (v "0.1.0") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.1") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.2.6") (d #t) (k 0)))) (h "15snbak40hmzzkjsmczd6w69znir6r8lq7mypjq9s4prjx9zwrqh")))
+
+(define-public crate-release-manager-0.1.1 (c (n "release-manager") (v "0.1.1") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.1") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.2.6") (d #t) (k 0)))) (h "1ng4dihgpd3z9vzv3624zzl2gba7iida71lwiq193xj50sij8i2i")))
+
+(define-public crate-release-manager-0.1.2 (c (n "release-manager") (v "0.1.2") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.1") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.2.6") (d #t) (k 0)))) (h "071r1xv6flfaiczwdmc5al8crq0qjjqwzgc61ka257hzsnak3v4m")))
+
+(define-public crate-release-manager-0.1.3 (c (n "release-manager") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.1") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.2.6") (d #t) (k 0)))) (h "1jzqqswj1kj0ffk3xb016kxhhr55r5rfxfx7jsxjagk0aa39i4f6")))
+
+(define-public crate-release-manager-0.1.4 (c (n "release-manager") (v "0.1.4") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.1") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)) (d (n "walkdir") (r "^2.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.2.6") (d #t) (k 0)))) (h "1mp1sc80zgk6hk0a7ikmdsk7109s9ikx0lksqmd8ya2bj8p97ajk")))
+

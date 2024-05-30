@@ -1,0 +1,6 @@
+(define-module (crates-io fu gu fugue-bv) #:use-module (crates-io))
+
+(define-public crate-fugue-bv-0.2.34 (c (n "fugue-bv") (v "0.2.34") (d (list (d (n "fugue-bytes") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rug") (r "^1") (f (quote ("integer" "serde"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "19hh7n670rfrwggdqn77d0f14nxcc8blgza8vbk566csyqb4s935") (f (quote (("fixed-u64") ("fixed-u128") ("default" "bigint") ("bigint" "rug"))))))
+
+(define-public crate-fugue-bv-0.2.35 (c (n "fugue-bv") (v "0.2.35") (d (list (d (n "fugue-bytes") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rug") (r "^1") (f (quote ("integer" "serde"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static_init") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1y0wgnjy5cn3j1xq5n5ckq1rdlx75j2sfzwkg1p5najdza2dyfi9") (f (quote (("fixed-u64") ("fixed-u128") ("default" "bigint") ("bigint" "rug"))))))
+

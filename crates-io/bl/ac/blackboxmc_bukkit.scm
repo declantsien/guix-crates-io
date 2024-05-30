@@ -1,0 +1,18 @@
+(define-module (crates-io bl ac blackboxmc_bukkit) #:use-module (crates-io))
+
+(define-public crate-blackboxmc_bukkit-0.1.0 (c (n "blackboxmc_bukkit") (v "0.1.0") (d (list (d (n "blackboxmc_bungee") (r "^0.1.0") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.1.0") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.1.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "0035rm67vkb2vkhrc6bhdg1nlg5yhyj0alfcm3mwr6jji2334air")))
+
+(define-public crate-blackboxmc_bukkit-0.2.0 (c (n "blackboxmc_bukkit") (v "0.2.0") (d (list (d (n "blackboxmc_bungee") (r "^0.2.0") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.2.0") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.2.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "1znz67qr2z5cd81qn56l482z8079s25fhvg3dbkilizglp4x9ydb")))
+
+(define-public crate-blackboxmc_bukkit-0.3.0 (c (n "blackboxmc_bukkit") (v "0.3.0") (d (list (d (n "blackboxmc_bungee") (r "^0.3.0") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.3.0") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.3.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "1sv7qlbxr4isih9glf54y0a17yygd9a482zg43n8vdfaqra0g4lm")))
+
+(define-public crate-blackboxmc_bukkit-0.3.1 (c (n "blackboxmc_bukkit") (v "0.3.1") (d (list (d (n "blackboxmc_bungee") (r "^0.3.1") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.3.1") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.3.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "1vbibgays24n633j3bnxd8y4ihad8x9zzcv9spg7cmk43ni48ggs")))
+
+(define-public crate-blackboxmc_bukkit-0.4.0 (c (n "blackboxmc_bukkit") (v "0.4.0") (d (list (d (n "blackboxmc_bungee") (r "^0.4.0") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.4.0") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.4.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "03zgk9lxpcbcddkhfs241x59v27j6drv114zf55cj05dmxylzx3r")))
+
+(define-public crate-blackboxmc_bukkit-0.4.1 (c (n "blackboxmc_bukkit") (v "0.4.1") (d (list (d (n "blackboxmc_bungee") (r "^0.4.1") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.4.1") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.4.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "17ymkanwmmb17fkl0dmrzl0k24vy0my9vxzg13785pjs0i4hzl3j")))
+
+(define-public crate-blackboxmc_bukkit-0.5.0 (c (n "blackboxmc_bukkit") (v "0.5.0") (d (list (d (n "blackboxmc_bungee") (r "^0.5.0") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.5.0") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.5.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "0vlsdc1hxxc6qiw2n5lpzpfmv19bqys33shkgb27150vj74qxb5n")))
+
+(define-public crate-blackboxmc_bukkit-0.5.1 (c (n "blackboxmc_bukkit") (v "0.5.1") (d (list (d (n "blackboxmc_bungee") (r "^0.5.1") (d #t) (k 0)) (d (n "blackboxmc_general") (r "^0.5.1") (d #t) (k 0)) (d (n "blackboxmc_java") (r "^0.5.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)))) (h "06irn3fli93gipj5h0gd2naq8qad82q6myff4r0qmn7y4vmx63f2")))
+

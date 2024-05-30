@@ -1,0 +1,32 @@
+(define-module (crates-io gc te gctex) #:use-module (crates-io))
+
+(define-public crate-gctex-0.1.0 (c (n "gctex") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0wjyxqpyzc90aqbz1vsvbzvk4alrsn0m8zmq8qcqi2pk1zsrsxz1")))
+
+(define-public crate-gctex-0.1.1 (c (n "gctex") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1sqfb8a0m3x3x2avvgcdnyk219pm86s5rfh9392hmwnm5zkfnfv3")))
+
+(define-public crate-gctex-0.1.2 (c (n "gctex") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "13l0qxn92yfzdbbpmz4hv6nyw883nmmpn930xgws9wxax0yr0z42")))
+
+(define-public crate-gctex-0.1.3 (c (n "gctex") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1rajrr04vf3pqy477jsialwsd2zjpka0dvfyf07v1hhl9gfmwdl0")))
+
+(define-public crate-gctex-0.1.4 (c (n "gctex") (v "0.1.4") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)))) (h "0dkmfq4i43z6xzgdgbzpgh56nl85r3r3ipdmq5nyg500fqcncma2")))
+
+(define-public crate-gctex-0.1.5 (c (n "gctex") (v "0.1.5") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)))) (h "091h3v5r8prwm43fkdwqwcf9zwh81hd6by88sd5w4f5qgbyrjd0m")))
+
+(define-public crate-gctex-0.1.6 (c (n "gctex") (v "0.1.6") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)))) (h "01s9x2asl0fr5wxzm886rpacnws29l9naflzm9dgw4z5vbh6809a")))
+
+(define-public crate-gctex-0.1.7 (c (n "gctex") (v "0.1.7") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)))) (h "07whsy0h95mjrlywayr4m2pxq3kfcpysj1zprjc9s7g8g08gf7mn")))
+
+(define-public crate-gctex-0.1.8 (c (n "gctex") (v "0.1.8") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)))) (h "1l8a7dass9sqhbvvip5anfn5r62zgrm4l2d865jgkis47qabz1k4")))
+
+(define-public crate-gctex-0.1.12 (c (n "gctex") (v "0.1.12") (d (list (d (n "bindgen") (r "^0.57") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)))) (h "0nyhnpk427ghis7spbzqlwgc4nmc7kca0l18vkf1f9m4r08hahgp")))
+
+(define-public crate-gctex-0.1.13 (c (n "gctex") (v "0.1.13") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "008icq5vparb0qz44zdj6vksagn04d15xamqqv13bcgp46phfsry")))
+
+(define-public crate-gctex-0.2.0 (c (n "gctex") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "1skwb7zd2y2clpf2qrn0kalsdn3hmcs11wcx8xyrv9blgfvhb828")))
+
+(define-public crate-gctex-0.2.1 (c (n "gctex") (v "0.2.1") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "1m3f14drsvpqc6qa7gd5nxc5xzf32058m12j3akd03zgnyrrzx7n")))
+
+(define-public crate-gctex-0.2.2 (c (n "gctex") (v "0.2.2") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "1xab630bl69l0h10xjfs7rpxmcwgn8ga8ixf60ara3hc38d3xhws")))
+
+(define-public crate-gctex-0.3.0 (c (n "gctex") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "02dk2pmwx8l8xqnnhnq33vnbbwj60r1rb1d899mnsj5p4cscgb72")))
+

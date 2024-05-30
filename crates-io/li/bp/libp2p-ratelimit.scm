@@ -1,0 +1,26 @@
+(define-module (crates-io li bp libp2p-ratelimit) #:use-module (crates-io))
+
+(define-public crate-libp2p-ratelimit-0.1.1 (c (n "libp2p-ratelimit") (v "0.1.1") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "00ayacxfiykcwfinjhpaxgyp4hnfk3hzwd8n96wl3h3xihpzpv36")))
+
+(define-public crate-libp2p-ratelimit-0.2.0 (c (n "libp2p-ratelimit") (v "0.2.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1wrzlj77wscxp0vdn5vib3kj62xni2imlw9lb4gcsp7dmyk1w06k")))
+
+(define-public crate-libp2p-ratelimit-0.3.0 (c (n "libp2p-ratelimit") (v "0.3.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1shj8rjw3k9g80yrlajj2lqzcsgwn9n0cxkkqgabjfk56s0am672")))
+
+(define-public crate-libp2p-ratelimit-0.4.0 (c (n "libp2p-ratelimit") (v "0.4.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0my7d7a51ab3s1pvdf4xqkn68l1bjrx3lfxb11k8ik2hbn9gxm5s")))
+
+(define-public crate-libp2p-ratelimit-0.5.0 (c (n "libp2p-ratelimit") (v "0.5.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.5.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0vnjf2k3z73nfklhscd3n59s7dg3np9j08rbf36kin8wzk172s8z")))
+
+(define-public crate-libp2p-ratelimit-0.6.0 (c (n "libp2p-ratelimit") (v "0.6.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0cqx85bvbkglhbpcqkqpc2jnkk5z5yifav2j6gslmadafvp55fij")))
+
+(define-public crate-libp2p-ratelimit-0.7.0 (c (n "libp2p-ratelimit") (v "0.7.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "09lpc4qhihizycx39lwy3g0pq4cxhai7szsrd51agccsh25x0294")))
+
+(define-public crate-libp2p-ratelimit-0.8.0 (c (n "libp2p-ratelimit") (v "0.8.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0kx48981m064g73rbiyzdmhwhm1fw096z5ws7zc7538iiw2qz4am")))
+
+(define-public crate-libp2p-ratelimit-0.9.0 (c (n "libp2p-ratelimit") (v "0.9.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1zr2a77ls7lzslw78k2b7wbnaj9bk9x52qxppabq8d606ndbg1iq")))
+
+(define-public crate-libp2p-ratelimit-0.10.0 (c (n "libp2p-ratelimit") (v "0.10.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1n7xvpiz758849c7j8ss6gm1fv5qh7bjb2xicbqgzcd7zn4gyrgr")))
+
+(define-public crate-libp2p-ratelimit-0.11.0 (c (n "libp2p-ratelimit") (v "0.11.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1n5lbfcmalsd9lrp2l9xswr7w00q0pfjblr4cw1vajwxiviz5gks")))
+
+(define-public crate-libp2p-ratelimit-0.12.0 (c (n "libp2p-ratelimit") (v "0.12.0") (d (list (d (n "aio-limited") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio-executor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1b7iraf4cy6am0sra4zw0wlgnahiqgni8gch8xh64harvzv3i1c3")))
+

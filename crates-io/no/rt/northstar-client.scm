@@ -1,0 +1,22 @@
+(define-module (crates-io no rt northstar-client) #:use-module (crates-io))
+
+(define-public crate-northstar-client-0.5.0 (c (n "northstar-client") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.5.0") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (d #t) (k 0)))) (h "1wlr0q7c8z6c4bwrrww2p7f4ds87wj9pbgsia9xdnmhy9kkpm77l")))
+
+(define-public crate-northstar-client-0.6.0 (c (n "northstar-client") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.60") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.6.0") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (d #t) (k 0)))) (h "1rwa04as6shdfh2gvsnngwgpby4fsln0c1gkbzyzz8jzisxz6839")))
+
+(define-public crate-northstar-client-0.7.0 (c (n "northstar-client") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.66") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.7.0") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (d #t) (k 0)))) (h "184wsn4znk9w349hxkrpkdjydwknagw21x89mb028d59k4qljz3k")))
+
+(define-public crate-northstar-client-0.7.1 (c (n "northstar-client") (v "0.7.1") (d (list (d (n "anyhow") (r "^1.0.70") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.7.1") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (d #t) (k 0)))) (h "1ln0mshc13fl3frji0v3jzdphhmhh8c4a79iqxw41q16rh28mwzr")))
+
+(define-public crate-northstar-client-0.8.0 (c (n "northstar-client") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.71") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.8.0") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (d #t) (k 0)))) (h "06gfnbq43vfv9n4ymps6h47m5jsiykkzcmvznm31kvbi2mp0b276")))
+
+(define-public crate-northstar-client-0.8.1 (c (n "northstar-client") (v "0.8.1") (d (list (d (n "anyhow") (r "^1.0.71") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.8.1") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (d #t) (k 0)))) (h "1a9myb3mnrs66nqyfly5hxji9wwil046i4bgwc9f22p9mmh4lfwf")))
+
+(define-public crate-northstar-client-0.8.2 (c (n "northstar-client") (v "0.8.2") (d (list (d (n "anyhow") (r "^1.0.71") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.8.2") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)))) (h "0zj0w2akgkxgngygrwnc5mzpaki73mgnzj3xk0gn6k9v2z01n9ch")))
+
+(define-public crate-northstar-client-0.8.3 (c (n "northstar-client") (v "0.8.3") (d (list (d (n "anyhow") (r "^1.0.71") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.8.3") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)))) (h "1blp51kw818d16wpdrxl418sx8abmw10r6xsfma6n82z129v6gwc")))
+
+(define-public crate-northstar-client-0.9.0 (c (n "northstar-client") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0.71") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.9.0") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (d #t) (k 0)))) (h "01c8rdhc02l9yxbf71a5iwjpnc0ran7hhcp1dbzffi7zy23nc9l6") (r "1.65.0")))
+
+(define-public crate-northstar-client-0.9.1 (c (n "northstar-client") (v "0.9.1") (d (list (d (n "anyhow") (r "^1.0.75") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "northstar-runtime") (r "^0.9.1") (f (quote ("api"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (d #t) (k 0)))) (h "055n1zs0wxy9a33xb5q4qhf0p0zi7m6mj5ch3sxwmy1gv0rnx5my") (r "1.65.0")))
+

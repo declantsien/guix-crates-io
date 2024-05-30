@@ -1,0 +1,8 @@
+(define-module (crates-io tp -a tp-authority-discovery) #:use-module (crates-io))
+
+(define-public crate-tp-authority-discovery-2.0.1 (c (n "tp-authority-discovery") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "tet-application-crypto") (r "^2.0.1") (k 0)) (d (n "tetcore-std") (r "^2.0.1") (k 0)) (d (n "tp-api") (r "^2.0.1") (k 0)) (d (n "tp-runtime") (r "^2.0.1") (k 0)))) (h "1dl5l0xyxj6b57bmj043lq6iawqvqrl0snahqsykwvklsxxc3mjk") (f (quote (("std" "tet-application-crypto/std" "codec/std" "tetcore-std/std" "tp-api/std" "tp-runtime/std") ("default" "std"))))))
+
+(define-public crate-tp-authority-discovery-2.0.2 (c (n "tp-authority-discovery") (v "2.0.2") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "tet-application-crypto") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-api") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "0n58jphqw72qy6w7gyjsq7bwxmkfrscvsqhpddfrixgshpjvhrn5") (f (quote (("std" "tet-application-crypto/std" "codec/std" "tetcore-std/std" "tp-api/std" "tp-runtime/std") ("default" "std"))))))
+
+(define-public crate-tp-authority-discovery-2.1.2 (c (n "tp-authority-discovery") (v "2.1.2") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "tet-application-crypto") (r "^2.1.2") (k 0)) (d (n "tetcore-std") (r "^2.1.2") (k 0)) (d (n "tp-api") (r "^2.1.2") (k 0)) (d (n "tp-runtime") (r "^2.1.2") (k 0)))) (h "0igj6bzkhhias3s4hp45vs4vwf9rzgpk0jns6ajn4gd34vlwwryh") (f (quote (("std" "tet-application-crypto/std" "codec/std" "tetcore-std/std" "tp-api/std" "tp-runtime/std") ("default" "std"))))))
+

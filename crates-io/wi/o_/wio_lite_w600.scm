@@ -1,0 +1,6 @@
+(define-module (crates-io wi o_ wio_lite_w600) #:use-module (crates-io))
+
+(define-public crate-wio_lite_w600-0.2.1 (c (n "wio_lite_w600") (v "0.2.1") (d (list (d (n "atsamd-hal") (r "^0.13") (k 0)) (d (n "cortex-m") (r "^0.6") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "panic-halt") (r "^0.2") (d #t) (k 2)) (d (n "usb-device") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "usbd-serial") (r "^0.1") (d #t) (k 2)))) (h "0cy18y3n4a2hm1csxyszykla57yia5d94mrqnyp1y8hd6la991da") (f (quote (("usb" "atsamd-hal/usb" "usb-device") ("unproven" "atsamd-hal/unproven") ("rt" "cortex-m-rt" "atsamd-hal/samd21g-rt") ("default" "rt" "atsamd-hal/samd21g"))))))
+
+(define-public crate-wio_lite_w600-0.3.0 (c (n "wio_lite_w600") (v "0.3.0") (d (list (d (n "atsamd-hal") (r "^0.14") (k 0)) (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "panic-halt") (r "^0.2") (d #t) (k 2)) (d (n "usb-device") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "usbd-serial") (r "^0.1") (d #t) (k 2)))) (h "1541zd99d53ic6qi3yqvsvjlhi7zbaw45y8vs3vpqw3bi5g74g56") (f (quote (("usb" "atsamd-hal/usb" "usb-device") ("unproven" "atsamd-hal/unproven") ("rt" "cortex-m-rt" "atsamd-hal/samd21g-rt") ("default" "rt" "atsamd-hal/samd21g"))))))
+

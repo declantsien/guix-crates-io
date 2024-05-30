@@ -1,0 +1,16 @@
+(define-module (crates-io op en openssh-sftp-error) #:use-module (crates-io))
+
+(define-public crate-openssh-sftp-error-0.1.0 (c (n "openssh-sftp-error") (v "0.1.0") (d (list (d (n "awaitable") (r "^0.3.3") (d #t) (k 0)) (d (n "openssh-sftp-protocol") (r "^0.21.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "0vm8j05pj37j8cibby0wfsr7wjs6r4hysrh890pyqm90zwy3z7n8")))
+
+(define-public crate-openssh-sftp-error-0.2.0 (c (n "openssh-sftp-error") (v "0.2.0") (d (list (d (n "awaitable") (r "^0.3.3") (d #t) (k 0)) (d (n "openssh-sftp-protocol") (r "^0.22.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "15r4p4xy67j7ws9xm6jsl7i3bd017c66mxcfrhizvphjnghn6k4m")))
+
+(define-public crate-openssh-sftp-error-0.2.1 (c (n "openssh-sftp-error") (v "0.2.1") (d (list (d (n "awaitable") (r "^0.3.3") (d #t) (k 0)) (d (n "openssh-sftp-protocol") (r "^0.22.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "0hj5w3awxmns11i1ziq3iw74g850ffcrc1wsas59bcpbdy7k8iic") (f (quote (("bytes" "openssh-sftp-protocol/bytes"))))))
+
+(define-public crate-openssh-sftp-error-0.3.0 (c (n "openssh-sftp-error") (v "0.3.0") (d (list (d (n "awaitable-error") (r "^0.1.0") (d #t) (k 0)) (d (n "openssh-sftp-protocol-error") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh_format_error") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "11ml5h5764sdwfhnwqg978xw3497cymd13hps5jh25ddir16p0rx")))
+
+(define-public crate-openssh-sftp-error-0.3.1 (c (n "openssh-sftp-error") (v "0.3.1") (d (list (d (n "awaitable-error") (r "^0.1.0") (d #t) (k 0)) (d (n "openssh") (r "^0.9.9") (o #t) (k 0)) (d (n "openssh-sftp-protocol-error") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh_format_error") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "01m0bzhs9d56h9vxd7sa1ciwnnsx20sdbvw8f50hd02bj5p3bhzl") (s 2) (e (quote (("openssh" "dep:openssh"))))))
+
+(define-public crate-openssh-sftp-error-0.3.2 (c (n "openssh-sftp-error") (v "0.3.2") (d (list (d (n "awaitable-error") (r "^0.1.0") (d #t) (k 0)) (d (n "openssh") (r "^0.10.0") (o #t) (k 0)) (d (n "openssh-sftp-protocol-error") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh_format_error") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "12akkqivn7a6z0w7jg0ggfa9858yb5664dp1lbh7vxnvbr4n2q8r") (y #t) (s 2) (e (quote (("openssh" "dep:openssh"))))))
+
+(define-public crate-openssh-sftp-error-0.4.0 (c (n "openssh-sftp-error") (v "0.4.0") (d (list (d (n "awaitable-error") (r "^0.1.0") (d #t) (k 0)) (d (n "openssh") (r "^0.10.0") (o #t) (k 0)) (d (n "openssh-sftp-protocol-error") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh_format_error") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "15i9317iz13sfckc0q43zkv0dyg30dh1lj3g308dy56pjfhax9b1") (s 2) (e (quote (("openssh" "dep:openssh"))))))
+

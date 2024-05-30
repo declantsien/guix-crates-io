@@ -1,0 +1,10 @@
+(define-module (crates-io oa ut oauth1-twitter) #:use-module (crates-io))
+
+(define-public crate-oauth1-twitter-0.1.0 (c (n "oauth1-twitter") (v "0.1.0") (d (list (d (n "http-api-client-endpoint") (r "^0.2") (k 0)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "reqwest-oauth1") (r "^0.2") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "serde_qs") (r "^0.10") (k 0)) (d (n "serde_urlencoded") (r "^0.7") (k 0)) (d (n "url") (r "^2.3") (k 0)))) (h "0ybjsdzx1ljwaz3m0qifnrglw9d5w4ik1sq8c89b5fsvs6ybjlsc")))
+
+(define-public crate-oauth1-twitter-0.1.1 (c (n "oauth1-twitter") (v "0.1.1") (d (list (d (n "http-api-client-endpoint") (r "^0.2") (k 0)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "reqwest-oauth1") (r "^0.2") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "serde_qs") (r "^0.10") (k 0)) (d (n "serde_urlencoded") (r "^0.7") (k 0)) (d (n "url") (r "^2.3") (k 0)))) (h "19dimdcqpjxi5vqa2jw0n76hcb4w17px1iys4n3lk45vsbnfl46k")))
+
+(define-public crate-oauth1-twitter-0.2.0 (c (n "oauth1-twitter") (v "0.2.0") (d (list (d (n "http-api-client-endpoint") (r "^0.2") (k 0)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "reqwest-oauth1") (r "^0.2") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "serde_qs") (r "^0.11") (k 0)) (d (n "serde_urlencoded") (r "^0.7") (k 0)) (d (n "url") (r "^2") (k 0)))) (h "1r1xkaglzbsrsq2mkjl4slyjr05pn52ql73jh8cdsq6kyq0cj13b")))
+
+(define-public crate-oauth1-twitter-0.2.1 (c (n "oauth1-twitter") (v "0.2.1") (d (list (d (n "http-api-client-endpoint") (r "^0.2") (k 0)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "reqwest-oauth1") (r "^0.2") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "serde_qs") (r "^0.12") (k 0)) (d (n "serde_urlencoded") (r "^0.7") (k 0)) (d (n "url") (r "^2") (k 0)))) (h "1xkiqxxjsriaqn7zn0225yw1qly9j75nxgc1fjhffhjgn2j7vgsr")))
+

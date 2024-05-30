@@ -1,0 +1,6 @@
+(define-module (crates-io if fi iffi) #:use-module (crates-io))
+
+(define-public crate-iffi-0.0.1 (c (n "iffi") (v "0.0.1") (d (list (d (n "bytemuck") (r "^1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1.2") (d #t) (k 0)) (d (n "derive_deref") (r "^1") (d #t) (k 0)) (d (n "iffi-macros") (r "^0.0.1") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (o #t) (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2") (d #t) (k 0)) (d (n "transmute") (r "^0.1") (d #t) (k 0)))) (h "03g2rda6zr15cqlw0gpkb7fd5gbvigk04yn3gj4asx5lr7iirch8") (f (quote (("std" "alloc") ("default" "std" "atomics") ("atomics")))) (s 2) (e (quote (("alloc" "dep:smallvec"))))))
+
+(define-public crate-iffi-0.0.2 (c (n "iffi") (v "0.0.2") (d (list (d (n "bytemuck") (r "^1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1.2") (d #t) (k 0)) (d (n "derive_deref") (r "^1") (d #t) (k 0)) (d (n "iffi-macros") (r "^0.0.1") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (o #t) (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2") (d #t) (k 0)) (d (n "transmute") (r "^0.1") (d #t) (k 0)))) (h "0z7kk3qnlrlkxls6lvc8jdg0ka6vb8wdpswk6fwyaxb00ckg7ij2") (f (quote (("std" "alloc") ("default" "std" "atomics") ("atomics")))) (s 2) (e (quote (("alloc" "dep:smallvec"))))))
+

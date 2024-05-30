@@ -1,0 +1,18 @@
+(define-module (crates-io ra w- raw-window-metal) #:use-module (crates-io))
+
+(define-public crate-raw-window-metal-0.1.0 (c (n "raw-window-metal") (v "0.1.0") (d (list (d (n "cocoa") (r "^0.20") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.19") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.3") (d #t) (k 0)))) (h "1c909v5llz7cniznwsb9yd96nwarkrf7f1vvhb7g9pksr2yl63vb")))
+
+(define-public crate-raw-window-metal-0.1.1 (c (n "raw-window-metal") (v "0.1.1") (d (list (d (n "cocoa") (r ">=0.20.0, <0.21.0") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r ">=0.19.0, <0.20.0") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r ">=0.2.0, <0.3.0") (d #t) (k 0)) (d (n "raw-window-handle") (r ">=0.3.0, <0.4.0") (d #t) (k 0)))) (h "121jbgbwqid5n6qfnqk5qswmp8gj1z151cm0pmsvjad23vjmkfyl")))
+
+(define-public crate-raw-window-metal-0.1.2 (c (n "raw-window-metal") (v "0.1.2") (d (list (d (n "cocoa") (r "^0.24") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.22") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.3") (d #t) (k 0)))) (h "16r8kzmg1i43xa8lv8arb5a5p2q5ls5i8wmrg4ainzzgrp8ixlic")))
+
+(define-public crate-raw-window-metal-0.2.0 (c (n "raw-window-metal") (v "0.2.0") (d (list (d (n "cocoa") (r "^0.24") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.22") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.4.2") (d #t) (k 0)))) (h "0jrp0wfb1xvdywqicyqdkp015l0j96490y8hpsvw38kgrwcxrlbx")))
+
+(define-public crate-raw-window-metal-0.3.0 (c (n "raw-window-metal") (v "0.3.0") (d (list (d (n "cocoa") (r "^0.24") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.22") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)))) (h "1v32j85cykdi1bcvffjpfp1h50lp3pwa7h2cbxx8868zccfj862x")))
+
+(define-public crate-raw-window-metal-0.3.1 (c (n "raw-window-metal") (v "0.3.1") (d (list (d (n "cocoa") (r "^0.24") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.22") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)))) (h "1p6lxc62mp78w1j7l9r8b33lrh7qhgvzwg44vrrw57q8616hk4gd")))
+
+(define-public crate-raw-window-metal-0.3.2 (c (n "raw-window-metal") (v "0.3.2") (d (list (d (n "cocoa") (r "^0.25") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.23") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)))) (h "0xlfy69chky5gxk67p9h7zmf4n4y15fk9abani6c4m4d4n9s8kmc")))
+
+(define-public crate-raw-window-metal-0.4.0 (c (n "raw-window-metal") (v "0.4.0") (d (list (d (n "cocoa") (r "^0.25") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "core-graphics") (r "^0.23") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "objc") (r "^0.2") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.6.0") (d #t) (k 0)))) (h "1w8g6s48jmgwskq07nyd0xms6sjar58z1a1gw7z9ifri5slcms3n")))
+

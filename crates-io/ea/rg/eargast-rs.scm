@@ -1,0 +1,6 @@
+(define-module (crates-io ea rg eargast-rs) #:use-module (crates-io))
+
+(define-public crate-eargast-rs-0.0.1 (c (n "eargast-rs") (v "0.0.1") (d (list (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-aux") (r "^3.0.1") (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "time") (r "^0.3.11") (f (quote ("macros" "parsing" "formatting" "serde-human-readable"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "test-util"))) (d #t) (k 2)))) (h "1pgvc9rs3d24932h3hir7ifscw8m4yiaxqy8l9ah3z9xap2sf6np") (y #t)))
+
+(define-public crate-eargast-rs-0.1.0 (c (n "eargast-rs") (v "0.1.0") (d (list (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-aux") (r "^3.0.1") (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "time") (r "^0.3.11") (f (quote ("macros" "parsing" "formatting" "serde-human-readable"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "test-util"))) (d #t) (k 2)))) (h "0hh1apzlhi1g58dgfyzsflnbg9xjv75kpci1v3zv0v4hkhc62cc4") (y #t)))
+

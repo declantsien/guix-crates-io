@@ -1,0 +1,6 @@
+(define-module (crates-io rt c- rtc-ice) #:use-module (crates-io))
+
+(define-public crate-rtc-ice-0.0.0 (c (n "rtc-ice") (v "0.0.0") (h "0wp0d673j9gdb1hiv9746aizb92jh4pnzki1016j5g4338l65jw6")))
+
+(define-public crate-rtc-ice-0.2.0 (c (n "rtc-ice") (v "0.2.0") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 2)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4") (d #t) (k 2)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "hyper") (r "^0.14.28") (f (quote ("full"))) (d #t) (k 2)) (d (n "ipnet") (r "^2.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "sha1") (r "^0.10.6") (d #t) (k 2)) (d (n "shared") (r "^0.2.0") (k 0) (p "rtc-shared")) (d (n "stun") (r "^0.2.0") (d #t) (k 0) (p "rtc-stun")) (d (n "tokio") (r "^1.36") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "waitgroup") (r "^0.1.2") (d #t) (k 2)))) (h "00dwwzyp4cwnrbs4cjdkx106zr99jpf3i5s2hm7xxb5j7ml76wrm")))
+

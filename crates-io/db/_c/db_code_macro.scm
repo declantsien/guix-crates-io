@@ -1,0 +1,8 @@
+(define-module (crates-io db _c db_code_macro) #:use-module (crates-io))
+
+(define-public crate-db_code_macro-0.1.1 (c (n "db_code_macro") (v "0.1.1") (d (list (d (n "log") (r "^0.4.20") (f (quote ("max_level_debug" "release_max_level_info"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "proc_macro_roids") (r "^0.8.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("full"))) (d #t) (k 0)))) (h "0wwyxrdzfn3wgh4l8c2q72mc2afpw29hmdzjjcb7ffgkcd5hph1v") (f (quote (("sql") ("default" "sql" "dao") ("dao")))) (y #t)))
+
+(define-public crate-db_code_macro-0.1.2 (c (n "db_code_macro") (v "0.1.2") (d (list (d (n "log") (r "^0.4.20") (f (quote ("max_level_debug" "release_max_level_info"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "proc_macro_roids") (r "^0.8.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("full"))) (d #t) (k 0)))) (h "0h3dri8zrmn8hw0l3zxvn6vrigm6fzqkql6xpg4wjis1j5v2vla6") (f (quote (("sql") ("default" "sql" "dao") ("dao"))))))
+
+(define-public crate-db_code_macro-0.1.3 (c (n "db_code_macro") (v "0.1.3") (d (list (d (n "log") (r "^0.4.21") (f (quote ("max_level_debug" "release_max_level_info"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "proc_macro_roids") (r "^0.8.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "1v66a28137lw31mldlsfh89blhck1z41bclbcj7x1zdv8jja0c4j") (f (quote (("sql") ("default" "sql" "dao") ("dao"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ez gl ezgl) #:use-module (crates-io))
+
+(define-public crate-ezgl-0.1.0 (c (n "ezgl") (v "0.1.0") (d (list (d (n "gl_constants") (r "^0.1.1") (d #t) (k 0)) (d (n "gl_struct_loader") (r "^0.1.1") (d #t) (k 0)) (d (n "gl_types") (r "^0.1.0") (d #t) (k 0)) (d (n "pixel_formats") (r "^0.1.0") (d #t) (k 0)) (d (n "beryllium") (r "^0.11.2") (d #t) (k 2)) (d (n "bytemuck") (r "^1.13.1") (d #t) (k 2)) (d (n "fermium") (r "^22604.0.0") (d #t) (k 2)) (d (n "imagine") (r "^0.4.0") (d #t) (k 2)) (d (n "ultraviolet") (r "^0.9.0") (f (quote ("bytemuck"))) (d #t) (k 2)))) (h "0zfyc8kr6g4mjp2bs0k6i82l8zpa0h7xyw03rh6ajp2rxnp823vm")))
+
+(define-public crate-ezgl-0.1.1 (c (n "ezgl") (v "0.1.1") (d (list (d (n "gl_constants") (r "^0.1.1") (d #t) (k 0)) (d (n "gl_struct_loader") (r "^0.1.1") (d #t) (k 0)) (d (n "gl_types") (r "^0.1.0") (d #t) (k 0)) (d (n "pixel_formats") (r "^0.1.0") (d #t) (k 0)) (d (n "beryllium") (r "^0.11.3") (d #t) (k 2)) (d (n "bytemuck") (r "^1.13.1") (d #t) (k 2)) (d (n "imagine") (r "^0.4.0") (d #t) (k 2)) (d (n "ultraviolet") (r "^0.9.0") (f (quote ("bytemuck"))) (d #t) (k 2)))) (h "1rzrd0zclcypp9gynyc1slzpr3cmx6nbfbjzjfg5w159cvr727fl")))
+
+(define-public crate-ezgl-0.2.0 (c (n "ezgl") (v "0.2.0") (d (list (d (n "gl_constants") (r "^0.1.1") (d #t) (k 0)) (d (n "gl_struct_loader") (r "^0.1.1") (d #t) (k 0)) (d (n "gl_types") (r "^0.1.0") (d #t) (k 0)) (d (n "pixel_formats") (r "^0.1.0") (d #t) (k 0)) (d (n "beryllium") (r "^0.11.3") (d #t) (k 2)) (d (n "bytemuck") (r "^1.13.1") (d #t) (k 2)) (d (n "imagine") (r "^0.4.0") (d #t) (k 2)) (d (n "ultraviolet") (r "^0.9.0") (f (quote ("bytemuck"))) (d #t) (k 2)))) (h "01a0b1rqnz53sa21vr9kkm06nldzzpgxj5x9ssfkgb2kxbw1q988")))
+

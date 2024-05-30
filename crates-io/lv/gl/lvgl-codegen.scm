@@ -1,0 +1,16 @@
+(define-module (crates-io lv gl lvgl-codegen) #:use-module (crates-io))
+
+(define-public crate-lvgl-codegen-0.3.0 (c (n "lvgl-codegen") (v "0.3.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("full"))) (d #t) (k 0)))) (h "0dsbz8fk71f736fx79wby3ihgj2adnmg2ps804dqwf778q2fkvr5")))
+
+(define-public crate-lvgl-codegen-0.3.3 (c (n "lvgl-codegen") (v "0.3.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("full"))) (d #t) (k 0)))) (h "08j2qyxmc000361n8x7ixq1qln5bzk2l85fv088pmlxdjafarh0c")))
+
+(define-public crate-lvgl-codegen-0.4.0 (c (n "lvgl-codegen") (v "0.4.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("full"))) (d #t) (k 0)))) (h "1v4qqjwk00cgjcwwhvnqp1ky6byjyk95pasgq6049l0600vrw6ba")))
+
+(define-public crate-lvgl-codegen-0.5.1 (c (n "lvgl-codegen") (v "0.5.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("full"))) (d #t) (k 0)))) (h "1rr5rid4cvfvrpfbhlr7ckix33jzj6qm28ihw2ykcjq0v79lpp78")))
+
+(define-public crate-lvgl-codegen-0.5.2 (c (n "lvgl-codegen") (v "0.5.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("full"))) (d #t) (k 0)))) (h "0xf20j7xbc8g0c8vd7jl3j9y5cpzfcj6g0c35rdn457dc13s1nn3")))
+
+(define-public crate-lvgl-codegen-0.6.1 (c (n "lvgl-codegen") (v "0.6.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("full"))) (d #t) (k 0)))) (h "1vir5qvwscmcy17zda4v8iaby4bmg011a90kcrsns5q5dsrmxp54")))
+
+(define-public crate-lvgl-codegen-0.6.2 (c (n "lvgl-codegen") (v "0.6.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("full"))) (d #t) (k 0)))) (h "15zsilgm3x4dxbscqbx4nqqzslzm4mnfc1ci6lpl6w5imf95kq0k")))
+

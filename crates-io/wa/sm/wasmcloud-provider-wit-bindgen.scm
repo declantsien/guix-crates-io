@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmcloud-provider-wit-bindgen) #:use-module (crates-io))
+
+(define-public crate-wasmcloud-provider-wit-bindgen-0.1.1 (c (n "wasmcloud-provider-wit-bindgen") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "bytes") (r "^1") (k 0)) (d (n "futures") (r "^0.3") (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde_bytes") (r "^0.11") (k 0)) (d (n "serde_json") (r "^1") (k 0)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "wasmcloud-provider-sdk") (r "^0.3") (k 0)) (d (n "wasmcloud-provider-wit-bindgen-macro") (r "^0.1") (k 0)) (d (n "wrpc-transport") (r "^0.21") (k 0)) (d (n "wrpc-transport-derive") (r "^0.1") (k 0)) (d (n "wrpc-types") (r "^0.5") (f (quote ("serde"))) (k 0)))) (h "0j6gslbazw58synr0dqihrypyvibdc8kv9mdy4zwscxaiq68v078") (f (quote (("otel" "wasmcloud-provider-sdk/otel"))))))
+

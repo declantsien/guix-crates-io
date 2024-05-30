@@ -1,0 +1,46 @@
+(define-module (crates-io me tr metriki-core) #:use-module (crates-io))
+
+(define-public crate-metriki-core-0.0.1 (c (n "metriki-core") (v "0.0.1") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 0)))) (h "1h4zx627y2wijdggdbknnzmzq1a40g913b9j0jlgg2nbvm8wkgbz")))
+
+(define-public crate-metriki-core-0.1.0 (c (n "metriki-core") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)))) (h "070d0sgw0b1d726bvk3idsnxsgvcbb7ypgnih7vss8hxydpw1bbj")))
+
+(define-public crate-metriki-core-0.1.1 (c (n "metriki-core") (v "0.1.1") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)))) (h "1y80adq1idfbbxlmyjzz1jdrpbm127x9p3ydbs3aqacvp1gazpa9")))
+
+(define-public crate-metriki-core-0.1.2 (c (n "metriki-core") (v "0.1.2") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)))) (h "0wmqlzrlckidyf4bmk6l617qk6mwh057hpn2cz4id3ixnzizxfiz")))
+
+(define-public crate-metriki-core-0.1.3 (c (n "metriki-core") (v "0.1.3") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)))) (h "0y6913m17x8bhscvab1i7jb7jhif10g34fm0bza0qpcpl8v4agb6")))
+
+(define-public crate-metriki-core-0.1.4 (c (n "metriki-core") (v "0.1.4") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)))) (h "0nigqaw19c65c5zbmniwkic2y300rkscj3dqs3w3hmd61f6ddngn")))
+
+(define-public crate-metriki-core-1.0.0 (c (n "metriki-core") (v "1.0.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)))) (h "0m0i8xi50mm5xsricr4pgl3j33b1a4wxs2jvnqjd63ayn4sg9w83")))
+
+(define-public crate-metriki-core-1.1.0 (c (n "metriki-core") (v "1.1.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "exponential-decay-histogram") (r "^0.1.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "04s9gl67js658x9pv6ifagsmmzm22h6qh64yjz693mjcdmf09naf") (f (quote (("ser" "serde") ("default"))))))
+
+(define-public crate-metriki-core-1.2.0 (c (n "metriki-core") (v "1.2.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "0q7c4nn4lgrngsq14cag12xklxlinn3j8fb137pm21rc5v0xs5c4") (f (quote (("ser" "serde") ("default"))))))
+
+(define-public crate-metriki-core-1.3.0 (c (n "metriki-core") (v "1.3.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "077gqbhjkflg7dvspp5ky1qaxv7xfhjd3j3k33xadx5ir8k4g2li") (f (quote (("ser" "serde") ("default"))))))
+
+(define-public crate-metriki-core-1.4.0 (c (n "metriki-core") (v "1.4.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "0kh49fbrs9wdhd01yfblhffc940gzmw1shlnrh2n186zha7rcgmb") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.5.0 (c (n "metriki-core") (v "1.5.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "04blyb29fv7qqqbw7ldq1b7xvky9ryj8aqkmasvjm941nmszl53w") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.6.0 (c (n "metriki-core") (v "1.6.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "1vfv7pqkj4ckv4lxbpva9gjr7cnypjshzcld64lnd73nind4sqx7") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.6.1 (c (n "metriki-core") (v "1.6.1") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "05sg4mmj6fb2ja4j5xf9mhccpmv3qhn2a525bggpwwsxmf7irgn4") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.6.2 (c (n "metriki-core") (v "1.6.2") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "0j043nqmg61w999w3hygz1rrxa7x573mgac5gnf0j819akngpmfz") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.7.0 (c (n "metriki-core") (v "1.7.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "158qqchsz5aw6vphvwix5w80nc4swwp2pv1r0byi636x2p2grnas") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.7.1 (c (n "metriki-core") (v "1.7.1") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "1cv538f6zqfjfqnkbv31x972aj1kcv038dq3l16vm5w2zd471jrc") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.7.2 (c (n "metriki-core") (v "1.7.2") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "dashmap") (r "^5.0") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 2)))) (h "0hkz90f629ssm3qx466jwp41y2d71wrnc4s5r31lf8h0w5dmbza1") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.7.3 (c (n "metriki-core") (v "1.7.3") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "dashmap") (r "^4.0") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 2)))) (h "078s5gw0qjlcb909pm8an24pd6nmayflrmizamkhjnxkzigx8mb8") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.7.4 (c (n "metriki-core") (v "1.7.4") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "dashmap") (r "^5.1") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 2)))) (h "0kazh6x9gwwv1ny1xpci9ws7w1x5brkx0qbg5ixdn4p6z9p7i3ns") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.7.5 (c (n "metriki-core") (v "1.7.5") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "dashmap") (r "^5.1") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 2)))) (h "1ad08r67qw6hk40j6g8vfbj9dnkqsg4ai4aylzyhrd8z4h48sr36") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+
+(define-public crate-metriki-core-1.8.0 (c (n "metriki-core") (v "1.8.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "dashmap") (r "^5.1") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (k 0)) (d (n "metriki-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 2)))) (h "132ghhlprq8myljwhjmgj4acznf9hplq64c409kwiwvqzpzr4a32") (f (quote (("ser" "serde") ("macros" "metriki-macros") ("default"))))))
+

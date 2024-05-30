@@ -1,0 +1,6 @@
+(define-module (crates-io ja mi jami-rs) #:use-module (crates-io))
+
+(define-public crate-jami-rs-0.1.0 (c (n "jami-rs") (v "0.1.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "dbus") (r "^0.9") (f (quote ("futures"))) (d #t) (k 0)) (d (n "dbus-tokio") (r "^0.6.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "rusqlite") (r "^0.24.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("full"))) (d #t) (k 0)))) (h "164jq9876v64n59n5sz00bxpxj02rldw1szks1d9kfcjryxkfc2s")))
+
+(define-public crate-jami-rs-0.2.0 (c (n "jami-rs") (v "0.2.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "dbus") (r "^0.9") (f (quote ("futures"))) (d #t) (k 0)) (d (n "dbus-tokio") (r "^0.6.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "rusqlite") (r "^0.24.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("full"))) (d #t) (k 0)))) (h "0b1bdfawqj6dn8dgik39777q0kpl15m4c1dzghvm3gb33anq7m8p")))
+

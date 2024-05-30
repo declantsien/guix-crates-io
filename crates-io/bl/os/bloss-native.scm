@@ -1,0 +1,14 @@
+(define-module (crates-io bl os bloss-native) #:use-module (crates-io))
+
+(define-public crate-bloss-native-0.1.0 (c (n "bloss-native") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3.4") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0j5msg1gdwd5hf6v7grf3q52w9k2kd3zz4s31q49wzyclzf5iz4z")))
+
+(define-public crate-bloss-native-0.1.1 (c (n "bloss-native") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3.4") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0djk11f6h4rpph9777zdad5fwsydmcwrs25w4amkn36jhjxcclx0")))
+
+(define-public crate-bloss-native-0.1.2 (c (n "bloss-native") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3.4") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0ldjg7wdkzip1x2gc3kgcfbpfqx7n12f0nxfchyidj0qlvmfanbc")))
+
+(define-public crate-bloss-native-0.1.3 (c (n "bloss-native") (v "0.1.3") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3.4") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "05ymipgnjv0sf8hnv3zfhcs8riifa2xln2qidr9k2l6488237dah")))
+
+(define-public crate-bloss-native-0.1.4 (c (n "bloss-native") (v "0.1.4") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3.4") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0x69a4cn8wpyrcjawv9w9nhd9nl3cj10anqka3fz924kihb5g1ha")))
+
+(define-public crate-bloss-native-0.2.0 (c (n "bloss-native") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3.4") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "1ck055wd4h5qdml9qysmal3imgs0nrwwafsm0lyx3pfsxy4ijifw")))
+

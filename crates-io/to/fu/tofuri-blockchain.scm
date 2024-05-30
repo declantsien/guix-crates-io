@@ -1,0 +1,4 @@
+(define-module (crates-io to fu tofuri-blockchain) #:use-module (crates-io))
+
+(define-public crate-tofuri-blockchain-0.1.0 (c (n "tofuri-blockchain") (v "0.1.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rocksdb") (r "^0.19") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tofuri-address") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-block") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-core") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-db") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-int") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-key") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-stake") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-transaction") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-tree") (r "^0.1") (d #t) (k 0)) (d (n "tofuri-util") (r "^0.1") (d #t) (k 0)))) (h "1xq38rr4ky3jdxc3cwqk3p2bl02jgjskr9mm8dardlsqvqbmaahj")))
+

@@ -1,0 +1,36 @@
+(define-module (crates-io if -a if-addrs) #:use-module (crates-io))
+
+(define-public crate-if-addrs-0.6.0 (c (n "if-addrs") (v "0.6.0") (d (list (d (n "if-addrs-sys") (r "^0.2") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1k69k4b5d28id70kx1zkw5vbq7ajfhfayqib112j674d1ba8wbph") (y #t)))
+
+(define-public crate-if-addrs-0.6.1 (c (n "if-addrs") (v "0.6.1") (d (list (d (n "if-addrs-sys") (r "^0.2") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1sw7y21pmds34zdsiwwbnd2np5cja9znymdw3n22wsbxbp6bdc3z")))
+
+(define-public crate-if-addrs-0.6.2 (c (n "if-addrs") (v "0.6.2") (d (list (d (n "if-addrs-sys") (r "^0.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1ma47m0pq8mss0jvccwcaxspjwzcmpwqlan13va55igqnn30v8f2")))
+
+(define-public crate-if-addrs-0.6.3 (c (n "if-addrs") (v "0.6.3") (d (list (d (n "if-addrs-sys") (r "^0.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1fab1ji4yjdrzln0gvmiklzmijacqq1x0yh0gkqrkdv8f6k45icr")))
+
+(define-public crate-if-addrs-0.6.4 (c (n "if-addrs") (v "0.6.4") (d (list (d (n "if-addrs-sys") (r "^0.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1fad1iwnj095qpapvc9p2pf170y7mqlnpi23jrbgbaqjdx00cagi")))
+
+(define-public crate-if-addrs-0.6.5 (c (n "if-addrs") (v "0.6.5") (d (list (d (n "if-addrs-sys") (r "^0.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0j5awgw8dgyy2ynrq2ix578svl32adxydysx3wqpcf9zxcb8jlr8")))
+
+(define-public crate-if-addrs-0.6.6 (c (n "if-addrs") (v "0.6.6") (d (list (d (n "if-addrs-sys") (r "^0.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1j7va2mn8rlvwadpnzzlbq544l76b748vz9zf6n90a35mz23xa69")))
+
+(define-public crate-if-addrs-0.6.7 (c (n "if-addrs") (v "0.6.7") (d (list (d (n "if-addrs-sys") (r "^0.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1pkkkwm9znn07xq9s6glf8lxzn2rdxvy8kwkw6czrw64ywhy8wr2")))
+
+(define-public crate-if-addrs-0.7.0 (c (n "if-addrs") (v "0.7.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("minwindef" "winerror" "ws2def" "ws2ipdef"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1a81w57p0hx6ql2ds2ayps38n0ndfaqcs618qzdyjln7zw0zmh6b")))
+
+(define-public crate-if-addrs-0.8.0 (c (n "if-addrs") (v "0.8.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "windows-sys") (r "^0.42.0") (f (quote ("Win32_Foundation" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1hm8fck3w1m85lndpsj9bh8m5kzjj3qpznnwdv2r5vkfhb84vci6")))
+
+(define-public crate-if-addrs-0.9.0 (c (n "if-addrs") (v "0.9.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "windows-sys") (r "^0.45.0") (f (quote ("Win32_Foundation" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1cc238ywp4xwp3qnrsfnbx35zd7jhjc3j9hs5all7kp6cmphk8ya") (f (quote (("link-local"))))))
+
+(define-public crate-if-addrs-0.10.0 (c (n "if-addrs") (v "0.10.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "windows-sys") (r "^0.45.0") (f (quote ("Win32_Foundation" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper" "Win32_NetworkManagement_Ndis"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1vj4xn8w6xpdffqxj9kik8rv98z62hp86knwb31c6v7rlszkjjgg") (f (quote (("link-local"))))))
+
+(define-public crate-if-addrs-0.10.1 (c (n "if-addrs") (v "0.10.1") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "windows-sys") (r "^0.45.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper" "Win32_NetworkManagement_Ndis"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "13d6hf5zd3ckg9qzrljl9zqgk3nkxxpi409vm3fx0bwdcc34mz1c") (f (quote (("link-local"))))))
+
+(define-public crate-if-addrs-0.10.2 (c (n "if-addrs") (v "0.10.2") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "windows-sys") (r "^0.48.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper" "Win32_NetworkManagement_Ndis"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "02lgvpz14a7qx3s704i18xf3dp6ywniwij8mzy0kfr0sslch1fya") (f (quote (("link-local"))))))
+
+(define-public crate-if-addrs-0.11.0 (c (n "if-addrs") (v "0.11.0") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper" "Win32_NetworkManagement_Ndis"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0b9j9hx5ypjknymq1s3byida2dbmay2p93yhqqmwsg6c5xigxlas") (f (quote (("link-local"))))))
+
+(define-public crate-if-addrs-0.11.1 (c (n "if-addrs") (v "0.11.1") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper" "Win32_NetworkManagement_Ndis"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0dicwfvbp5k7ya6qn8lv9avffb8vycj70ny6jksp97jjp9458k32") (f (quote (("link-local"))))))
+
+(define-public crate-if-addrs-0.12.0 (c (n "if-addrs") (v "0.12.0") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_Networking_WinSock" "Win32_NetworkManagement_IpHelper" "Win32_NetworkManagement_Ndis"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1j0c5xzzbfcb3k97zb050cygikfxv47mpj1hlyyyr249qglk6amv") (f (quote (("link-local"))))))
+

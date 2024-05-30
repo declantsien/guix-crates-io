@@ -1,0 +1,8 @@
+(define-module (crates-io ra s_ ras_service) #:use-module (crates-io))
+
+(define-public crate-ras_service-0.1.0 (c (n "ras_service") (v "0.1.0") (d (list (d (n "httparse") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "urldecode") (r "^0.1.0") (d #t) (k 0)))) (h "06fz3bgih6vs82i6nhg7l18mga8816km6mpirjsxbgindn31cgnn") (y #t)))
+
+(define-public crate-ras_service-0.1.1 (c (n "ras_service") (v "0.1.1") (d (list (d (n "httparse") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "urldecode") (r "^0.1.0") (d #t) (k 0)))) (h "03djd5cbyd4zbih4a0cgyqh6m5fdgggrg3wc9hxk5ivfw1qv2pdv") (y #t)))
+
+(define-public crate-ras_service-0.2.0 (c (n "ras_service") (v "0.2.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "httparse") (r "^1.6.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "urldecode") (r "^0.1.0") (d #t) (k 0)))) (h "0ivghz2n0923hrmldqzfcczbphl3wgwwq1sv665j277kg53ngc6y") (f (quote (("Authentication"))))))
+

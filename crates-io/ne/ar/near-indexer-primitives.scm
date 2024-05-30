@@ -1,0 +1,34 @@
+(define-module (crates-io ne ar near-indexer-primitives) #:use-module (crates-io))
+
+(define-public crate-near-indexer-primitives-0.12.0 (c (n "near-indexer-primitives") (v "0.12.0") (d (list (d (n "near-primitives") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 0)))) (h "1y5pn0q9vijv5d0y1c2hlp4hsbi62nwnz0ysmxcm479gax8y7hsr") (r "1.56.0")))
+
+(define-public crate-near-indexer-primitives-0.13.0 (c (n "near-indexer-primitives") (v "0.13.0") (d (list (d (n "near-primitives") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 0)))) (h "0r9xdikajccncy6j5q65hiq78knv8f2fylkg4417pa1r9wvhbgqj") (r "1.60.0")))
+
+(define-public crate-near-indexer-primitives-0.14.0 (c (n "near-indexer-primitives") (v "0.14.0") (d (list (d (n "near-primitives") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 0)))) (h "0rbnhhdrp4s4hrjdchm734ln6pqj1pbbmy4lgrrpam99zgnqkh7i") (r "1.60.0")))
+
+(define-public crate-near-indexer-primitives-0.15.0 (c (n "near-indexer-primitives") (v "0.15.0") (d (list (d (n "near-primitives") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "00j4ps1cmlbmn94gzd0aci1f24fmpaayfldwkgq5kvjw96y9lv40") (r "1.64.0")))
+
+(define-public crate-near-indexer-primitives-0.16.0 (c (n "near-indexer-primitives") (v "0.16.0") (d (list (d (n "near-primitives") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "0azv9wi783f9g2821gk73qbxic27ygqnmh6kbmbmv8nqxwk0n1pm") (r "1.67.1")))
+
+(define-public crate-near-indexer-primitives-0.16.1 (c (n "near-indexer-primitives") (v "0.16.1") (d (list (d (n "near-primitives") (r "^0.16.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "1lkamvs2x67v57g38683s5z5nn3p5a9d3q2yjsl812crrnchdlan") (r "1.68.0")))
+
+(define-public crate-near-indexer-primitives-0.17.0 (c (n "near-indexer-primitives") (v "0.17.0") (d (list (d (n "near-primitives") (r "^0.17.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "0fgsasnsi4i0zhd5a0cajmin346m17968f4cfiwqkryagn18fv5p") (r "1.69.0")))
+
+(define-public crate-near-indexer-primitives-0.19.0-pre.1 (c (n "near-indexer-primitives") (v "0.19.0-pre.1") (d (list (d (n "near-primitives") (r "^0.19.0-pre.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "02rmhg7sbppm1fc73k8ihwg5jc3ggkng8sbdcnqxp4sj1sc8z8as") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.19.0-pre.2 (c (n "near-indexer-primitives") (v "0.19.0-pre.2") (d (list (d (n "near-primitives") (r "^0.19.0-pre.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "0j4ivpd6x27iynwflnjby34rpy9mqwywldmmm50m3zsyvy5mvcgn") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.19.0 (c (n "near-indexer-primitives") (v "0.19.0") (d (list (d (n "near-primitives") (r "^0.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "00642xvifm878vmj2fqzhpc9qbmgjp9kx1rvx3ais77lnf4b08x5") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.20.0 (c (n "near-indexer-primitives") (v "0.20.0") (d (list (d (n "near-primitives") (r "^0.20.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "0ya923az6sil2fh0srjyyp3ymmrakdp867psmnvd0rg79wm6qxck") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.20.1 (c (n "near-indexer-primitives") (v "0.20.1") (d (list (d (n "near-primitives") (r "^0.20.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "13jl31mwzad28mnrg9y9aqhwqj7qi0hg7b9xq2dbl2h2dpdl481n") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.21.0 (c (n "near-indexer-primitives") (v "0.21.0") (d (list (d (n "near-primitives") (r "^0.21.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "00kzbzqz5s8905v5vqm9rbbgp61k25929qlnj06z533jwxh38q6d") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.21.1 (c (n "near-indexer-primitives") (v "0.21.1") (d (list (d (n "near-primitives") (r "^0.21.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "1alxgg56pri4l1a5qa6nyhraypm0g72xr1a2fbpwwn7z2w69rgig") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.21.2 (c (n "near-indexer-primitives") (v "0.21.2") (d (list (d (n "near-primitives") (r "^0.21.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "0kpcwhhmar765gap2nikfjwypqzcpc753n8jhdj7nf4664jlnn0s") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+
+(define-public crate-near-indexer-primitives-0.22.0 (c (n "near-indexer-primitives") (v "0.22.0") (d (list (d (n "near-primitives") (r "^0.22.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("alloc" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "0q7ssyi9valrb8j1fzd5nc14hvwhb9wy9yg2yhj06xf2vsbzh33a") (f (quote (("nightly_protocol" "near-primitives/nightly_protocol") ("nightly" "nightly_protocol" "near-primitives/nightly"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tu mb tumbleweed) #:use-module (crates-io))
+
+(define-public crate-tumbleweed-0.1.0 (c (n "tumbleweed") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "dotenv") (r "^0.15") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tide") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "tumbleweed_derive") (r "^0.1") (d #t) (k 0)) (d (n "warp") (r "^0.2") (o #t) (d #t) (k 0)))) (h "0473p7qg5kkd48s1ij2i2fzc4sxhiwc8nmbpg1524cgwyq8ilbc2") (f (quote (("with-warp" "warp") ("with-tide" "tide"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr ee tree_magic_fork) #:use-module (crates-io))
+
+(define-public crate-tree_magic_fork-0.2.2 (c (n "tree_magic_fork") (v "0.2.2") (d (list (d (n "clap") (r "^2.33.0") (o #t) (d #t) (k 0)) (d (n "fnv") (r "^1.0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "nom") (r "^2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.0") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.8.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.13") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.9") (o #t) (d #t) (k 0)) (d (n "tabwriter") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "walkdir") (r "^2.2.7") (o #t) (d #t) (k 0)))) (h "1bqkd17ih1ixlarjw8p5h5q584j681vmwg1zkww873w2kg523fda") (f (quote (("staticmime") ("default") ("cli" "clap" "tabwriter" "scoped_threadpool" "walkdir" "num_cpus"))))))
+

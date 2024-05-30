@@ -1,0 +1,20 @@
+(define-module (crates-io co mp compressible-map) #:use-module (crates-io))
+
+(define-public crate-compressible-map-0.1.0 (c (n "compressible-map") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1g6f433qy08ikf6qcf0pb2xpqlzhws0y19g62fcszdv726d0zc10") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde"))))))
+
+(define-public crate-compressible-map-0.1.1 (c (n "compressible-map") (v "0.1.1") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "16wy15302xvgrhs7cwpb4wj73m77hsdap3gga2r8c6m86a0qkf8w") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde"))))))
+
+(define-public crate-compressible-map-0.1.2 (c (n "compressible-map") (v "0.1.2") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1xzanglyn28rjxdfam2i5rapml0n3ffdydvir18a8pjh0c0vfcwl") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde")))) (y #t)))
+
+(define-public crate-compressible-map-0.1.3 (c (n "compressible-map") (v "0.1.3") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1v1kd3p09b0i9f0vb491mv44l2l6745j54655g81lflzk6j066rq") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde"))))))
+
+(define-public crate-compressible-map-0.1.4 (c (n "compressible-map") (v "0.1.4") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0hzl2mliyl16myjkcg7bab4gkjsls731afsyh1269ks8k98fqlmv") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde")))) (y #t)))
+
+(define-public crate-compressible-map-0.1.5 (c (n "compressible-map") (v "0.1.5") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "01vfwd88a1mw4b8rb2z6rvcv3dllc923lh62h4glpy3343h5hrha") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde"))))))
+
+(define-public crate-compressible-map-0.1.6 (c (n "compressible-map") (v "0.1.6") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0892rm70q8bjfgwwnavi8ql8vim1i7wlh926ibqjnxd6aclj766d") (f (quote (("default") ("bincode_lz4" "bincode" "lz4" "serde"))))))
+
+(define-public crate-compressible-map-0.2.0 (c (n "compressible-map") (v "0.2.0") (d (list (d (n "bincode") (r ">=1.3.0, <2.0.0") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r ">=0.7.0, <0.8.0") (d #t) (k 2)) (d (n "lz4") (r ">=1.23.0, <2.0.0") (o #t) (d #t) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "snap") (r ">=1.0.3, <2.0.0") (o #t) (d #t) (k 0)))) (h "0d286b7zcbrqdcx4vdcnh96gcj9v6zk1gdigrff23cnkajd1fk8r") (f (quote (("default") ("compressed-bincode" "bincode"))))))
+
+(define-public crate-compressible-map-0.3.0 (c (n "compressible-map") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 2)) (d (n "lz4") (r "^1.23") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "snap") (r "^1.0.3") (o #t) (d #t) (k 0)))) (h "0xmzbscxlwh4cs9ifckljkibyhbhp0ifx4nqjaz2rd294q9k262q") (f (quote (("default"))))))
+

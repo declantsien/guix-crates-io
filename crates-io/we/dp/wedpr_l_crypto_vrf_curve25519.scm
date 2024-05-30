@@ -1,0 +1,8 @@
+(define-module (crates-io we dp wedpr_l_crypto_vrf_curve25519) #:use-module (crates-io))
+
+(define-public crate-wedpr_l_crypto_vrf_curve25519-0.0.1 (c (n "wedpr_l_crypto_vrf_curve25519") (v "0.0.1") (d (list (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "wedpr_l_crypto_hash_keccak256") (r "^0.0.1") (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^0.0.1") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^0.0.1") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^0.0.1") (d #t) (k 0)))) (h "0c6p7rhkx7l2qvd7x5xz3f65mpqa679j3nk445s6w1gbn64x5v1r")))
+
+(define-public crate-wedpr_l_crypto_vrf_curve25519-1.0.0 (c (n "wedpr_l_crypto_vrf_curve25519") (v "1.0.0") (d (list (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "wedpr_l_crypto_hash_keccak256") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.0.0") (d #t) (k 0)))) (h "12yfqc1cb4cc85ya992x1z69fsmwmialb86cjq59y9lhikhyvdjb")))
+
+(define-public crate-wedpr_l_crypto_vrf_curve25519-1.1.0 (c (n "wedpr_l_crypto_vrf_curve25519") (v "1.1.0") (d (list (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "wedpr_l_crypto_hash_keccak256") (r "^1.1.0") (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^1.1.0") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.1.0") (d #t) (k 0)))) (h "0n1mg02ql9nlvzw6g6b412c07700155k7m6aqxp8ddslqsi3530p")))
+

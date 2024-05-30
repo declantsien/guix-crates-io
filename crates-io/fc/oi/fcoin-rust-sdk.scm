@@ -1,0 +1,6 @@
+(define-module (crates-io fc oi fcoin-rust-sdk) #:use-module (crates-io))
+
+(define-public crate-fcoin-rust-sdk-0.2.1 (c (n "fcoin-rust-sdk") (v "0.2.1") (d (list (d (n "base64") (r "^0.9.1") (d #t) (k 0)) (d (n "bigdecimal") (r "^0.0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.5") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.7.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1xicrxjmpjimp02j6k73x4q1zbgv6kifxn6in6yx765dw05mgd65")))
+
+(define-public crate-fcoin-rust-sdk-0.2.2 (c (n "fcoin-rust-sdk") (v "0.2.2") (d (list (d (n "base64") (r "^0.9.1") (d #t) (k 0)) (d (n "bigdecimal") (r "^0.0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.5") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.7.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "17lgfx8z1r8l0f03k5nw14zf08hsa8w233y9yyzkwqb734nyfc9d")))
+

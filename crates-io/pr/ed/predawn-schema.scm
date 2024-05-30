@@ -1,0 +1,16 @@
+(define-module (crates-io pr ed predawn-schema) #:use-module (crates-io))
+
+(define-public crate-predawn-schema-0.1.0 (c (n "predawn-schema") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "14gfr9i881y6bjsmbcbkinsm6pbajl6fzmaaff2zhjbzbdwzfmhz") (f (quote (("raw_value" "serde_json/raw_value"))))))
+
+(define-public crate-predawn-schema-0.2.0 (c (n "predawn-schema") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "0f8rvxh210k5qpjbvq3ks2sf41820x0hinkij17wy7dwy9vp1f3h") (f (quote (("raw_value" "serde_json/raw_value"))))))
+
+(define-public crate-predawn-schema-0.3.0 (c (n "predawn-schema") (v "0.3.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "1ldljhh96kv71s0iwxs7a0x63h77cn9sx0hnf2vvf7j42nsgrfxn") (f (quote (("raw_value" "serde_json/raw_value"))))))
+
+(define-public crate-predawn-schema-0.4.0 (c (n "predawn-schema") (v "0.4.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "1lk6n5g57dbx9nvzimknjq9zkmj43c2qkm5i2r1kcnz4l17a5qj4") (f (quote (("raw_value" "serde_json/raw_value"))))))
+
+(define-public crate-predawn-schema-0.5.0 (c (n "predawn-schema") (v "0.5.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "1x0msa001bhc2k4i9wbgcnzmni7rr1gc92bj2903ry7vr31cv0cc") (f (quote (("raw_value" "serde_json/raw_value"))))))
+
+(define-public crate-predawn-schema-0.6.0 (c (n "predawn-schema") (v "0.6.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "0k2gh6rv686qmlar3ksa4mfxida5x38z65v2camv7i9v0mzf2ci3") (f (quote (("raw_value" "serde_json/raw_value"))))))
+
+(define-public crate-predawn-schema-0.7.0 (c (n "predawn-schema") (v "0.7.0") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "indexmap") (r "^2") (k 0)) (d (n "macro-v") (r "^0.1") (k 0)) (d (n "openapiv3") (r "^2") (k 0)) (d (n "paste") (r "^1") (k 0)) (d (n "schemars") (r "^0.8") (o #t) (k 0)) (d (n "serde_json") (r "^1") (k 0)))) (h "14wxpfh06cz21b4bglbrqlnlxvc040jsslwzdd2klpgj4vr8gzdg") (f (quote (("raw_value" "serde_json/raw_value"))))))
+

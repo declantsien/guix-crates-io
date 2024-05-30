@@ -1,0 +1,26 @@
+(define-module (crates-io pr ot protox-parse) #:use-module (crates-io))
+
+(define-public crate-protox-parse-0.1.0 (c (n "protox-parse") (v "0.1.0") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.10.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1ys5npr5gabpm590iyni2hv5bnlznwzfbnxniq9db4l75v06wwss") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.2.0 (c (n "protox-parse") (v "0.2.0") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0k11yrwz2v8a0g83val08d213m133bkzby348b31gxvz9psh15hf") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.2.1 (c (n "protox-parse") (v "0.2.1") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "05369xnvsfs8xl5wixpf8qffw0kawh73mwq30p51s2gzsfljk4ja") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.2.2 (c (n "protox-parse") (v "0.2.2") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "036vwi9n7r8n9c7zs8bdpbhydwfx0vsyhqsw8y21k8383xpy5vwz") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.3.0 (c (n "protox-parse") (v "0.3.0") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1i46yxrnn70gk69pmizxx9jy5zz3733ma6ylg244vnm2n91wy283") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.3.1 (c (n "protox-parse") (v "0.3.1") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "07srip57cjjypvfj02ylriskgk71j6x1x25wc2qz0y5mknqxv44q") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.3.2 (c (n "protox-parse") (v "0.3.2") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "191f10dkf8rknkvlyxv81aw626w500q8sjfbi9flrp18iid26y6z") (r "1.61.0")))
+
+(define-public crate-protox-parse-0.3.3 (c (n "protox-parse") (v "0.3.3") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "miette") (r "^5.8.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "04cwdj24kv4p9y1ppz4sr3xbyv7wszspv5kcvxknwim43xjjlaki") (r "1.60.0")))
+
+(define-public crate-protox-parse-0.4.0 (c (n "protox-parse") (v "0.4.0") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "miette") (r "^5.8.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1xh9i3q3b25qd5im9rqsff3xz58rr63yjav882imx6xg3mgsg5qw") (r "1.60.0")))
+
+(define-public crate-protox-parse-0.4.1 (c (n "protox-parse") (v "0.4.1") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "miette") (r "^5.8.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "062mxi1a7s66riwasc2gn11vh1dwik3jrc0ylffw7hnyy856vz1h") (r "1.60.0")))
+
+(define-public crate-protox-parse-0.5.0 (c (n "protox-parse") (v "0.5.0") (d (list (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "miette") (r "^5.8.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.12.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0gx3a222irx34p3md6i3fp7qi0g9imxyqsryb996726587s82ibv") (r "1.64.0")))
+
+(define-public crate-protox-parse-0.6.0 (c (n "protox-parse") (v "0.6.0") (d (list (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "miette") (r "^7.0.0") (d #t) (k 0)) (d (n "proptest") (r "^1.3.1") (d #t) (k 2)) (d (n "prost-types") (r "^0.12.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0v17frr5amh341ay9ggjcigf9fhmymqnrj10471zfn6kfsfr6fq3") (r "1.70.0")))
+

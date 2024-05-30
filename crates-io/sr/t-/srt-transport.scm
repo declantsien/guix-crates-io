@@ -1,0 +1,6 @@
+(define-module (crates-io sr t- srt-transport) #:use-module (crates-io))
+
+(define-public crate-srt-transport-0.1.0 (c (n "srt-transport") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.18") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "simple_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.5") (d #t) (k 0)))) (h "0lg567lb2j0pgc10nrwmwniml3vg73bmymwgavc3z97liy0z3wzp") (y #t)))
+
+(define-public crate-srt-transport-0.2.0 (c (n "srt-transport") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.18") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "simple_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.5") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "1yq9m0bf26hlr98yf7dz2dyv50jpwgbibxm9b307hn1f20lp4cr5") (y #t)))
+

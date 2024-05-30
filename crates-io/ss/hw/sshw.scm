@@ -1,0 +1,6 @@
+(define-module (crates-io ss hw sshw) #:use-module (crates-io))
+
+(define-public crate-sshw-0.1.1 (c (n "sshw") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "expectrl") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "ssh2-config") (r "^0.1") (d #t) (k 0)) (d (n "termsize") (r "^0.1") (d #t) (k 0)))) (h "12ps79nc0x8qnnf5kkgnhfblm9bgpp6b651xyf4cq7nckzxw767h")))
+
+(define-public crate-sshw-0.1.2-beta2 (c (n "sshw") (v "0.1.2-beta2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "expectrl") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "ssh2-config") (r "^0.1") (d #t) (k 0)) (d (n "termsize") (r "^0.1") (d #t) (k 0)))) (h "17jl3mdxva7nk0q4mvjbb1xc6gx4pmc0bc57yhhad77xygkl1rkm")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io sv #{2_}# sv2_ffi) #:use-module (crates-io))
+
+(define-public crate-sv2_ffi-0.1.4 (c (n "sv2_ffi") (v "0.1.4") (d (list (d (n "binary_sv2") (r "^0.1.6") (d #t) (k 0)) (d (n "codec_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "common_messages_sv2") (r "^0.1.5") (d #t) (k 0)) (d (n "const_sv2") (r "^0.1.2") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "template_distribution_sv2") (r "^0.1.5") (d #t) (k 0)))) (h "0rrbr7idqabh3kglnpwhkpiyhl5916sm5a3flkb6isk0jq0yvj30") (f (quote (("with_serde") ("prop_test" "binary_sv2/prop_test" "common_messages_sv2/prop_test" "template_distribution_sv2/prop_test"))))))
+
+(define-public crate-sv2_ffi-1.0.0 (c (n "sv2_ffi") (v "1.0.0") (d (list (d (n "binary_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "codec_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "common_messages_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "const_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "template_distribution_sv2") (r "^1.0.0") (d #t) (k 0)))) (h "0inlqknx3faj2px5np98i1n2gxdmigvx1qsya51wv0mwcibcwgnp") (f (quote (("with_serde") ("prop_test" "binary_sv2/prop_test" "common_messages_sv2/prop_test" "template_distribution_sv2/prop_test"))))))
+

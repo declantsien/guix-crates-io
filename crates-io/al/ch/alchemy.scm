@@ -1,0 +1,6 @@
+(define-module (crates-io al ch alchemy) #:use-module (crates-io))
+
+(define-public crate-alchemy-0.1.0 (c (n "alchemy") (v "0.1.0") (h "0dy7j1jy2xl34d1v6j13k8dipdh3h3falxrdnvzf1gv2d2cjcisn")))
+
+(define-public crate-alchemy-0.2.0 (c (n "alchemy") (v "0.2.0") (d (list (d (n "alchemy-cocoa") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "alchemy-lifecycle") (r "^0.1") (d #t) (k 0)) (d (n "alchemy-macros") (r "^0.1") (d #t) (k 0)) (d (n "alchemy-styles") (r "^0.1") (f (quote ("parser"))) (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.2.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "matches") (r "^0.1") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (d #t) (k 0)) (d (n "phf") (r "^0.7") (d #t) (k 0)) (d (n "proc-macro-hack") (r "^0.5.4") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.15.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.15.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "02xzfc211jl858v9kxwr8j5cq3fzipa31wa883zhsxcrhcdsxgx7") (f (quote (("cocoa" "alchemy-cocoa" "alchemy-lifecycle/cocoa"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sc ra scratchstack-config) #:use-module (crates-io))
+
+(define-public crate-scratchstack-config-0.1.1 (c (n "scratchstack-config") (v "0.1.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "humantime") (r "^2.1") (d #t) (k 0)) (d (n "humantime-serde") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("all-databases" "chrono" "macros" "migrate" "runtime-tokio-rustls"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.23") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)))) (h "1qa7yk3svkxmxhwy04p85d12wkp83xllb3n3fdylm633xzvn0b71")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ha nt hanteker_lib) #:use-module (crates-io))
+
+(define-public crate-hanteker_lib-0.1.0 (c (n "hanteker_lib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "1lywngp9jjx8rwzbjids5434qwxnjqp1lzj4vr0vgydrcbr7x45l")))
+
+(define-public crate-hanteker_lib-0.2.0 (c (n "hanteker_lib") (v "0.2.0") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "13jjnqd8p2nnksaaka87ys5y0l8yviri77971rxw2jz4nhq67xvk")))
+
+(define-public crate-hanteker_lib-0.3.0 (c (n "hanteker_lib") (v "0.3.0") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "druid") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1wz845zzwjwin638xpjg3h67xbm2ccrk0bz5ma91cqrwrd0akbb8") (f (quote (("gui" "druid") ("default") ("cli" "clap"))))))
+
+(define-public crate-hanteker_lib-0.4.0 (c (n "hanteker_lib") (v "0.4.0") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "druid") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0b0nf49glsjamgm5aq9mv55bca61da1hv22z022akp2i8v4yckkr") (f (quote (("gui" "druid") ("default") ("cli" "clap"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io wa ta wataxrate) #:use-module (crates-io))
+
+(define-public crate-wataxrate-1.0.0 (c (n "wataxrate") (v "1.0.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "strong-xml") (r "^0.4.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros"))) (d #t) (k 2)))) (h "0mamv2nhwjya5nwkbi6wipyvvy7xycshcjh6dxr04sr2yq8xry07")))
+
+(define-public crate-wataxrate-1.0.1 (c (n "wataxrate") (v "1.0.1") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "strong-xml") (r "^0.4.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0c8f01w7yilk87qp95km56kxy1g6dy3gzb2qrc1ifpxpi18f7r5k")))
+
+(define-public crate-wataxrate-1.0.2 (c (n "wataxrate") (v "1.0.2") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "strong-xml") (r "^0.4.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "10lc8rr2x65bkvxhvgh1i2brv5bga1z2cmi7ii2f1i988969h97w")))
+
+(define-public crate-wataxrate-1.0.3 (c (n "wataxrate") (v "1.0.3") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "strong-xml") (r "^0.4.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1p6iipa4c234wdlnfb7544zyprnqmds8c8s45kgs22wdnkkl2gif")))
+
+(define-public crate-wataxrate-1.0.4 (c (n "wataxrate") (v "1.0.4") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "strong-xml") (r "^0.4.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0qnhqjggl6jb4fzrkm96k0zvi6rnr6f02imyrrjyjyc37rq0lh31")))
+

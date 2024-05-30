@@ -1,0 +1,6 @@
+(define-module (crates-io an dr andromeda-non-fungible-tokens) #:use-module (crates-io))
+
+(define-public crate-andromeda-non-fungible-tokens-1.0.0-rc1 (c (n "andromeda-non-fungible-tokens") (v "1.0.0-rc1") (d (list (d (n "andromeda-std") (r "^1.0.0-rc1") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.5.2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.5.2") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.3") (d #t) (k 0)) (d (n "cw721") (r "^0.18.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.18.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)))) (h "1a434d5d5hcaf431jl7vsmra00agyxi6vsnic8gf0vp4b5x4nhsf") (f (quote (("backtraces" "cosmwasm-std/backtraces")))) (r "1.65.0")))
+
+(define-public crate-andromeda-non-fungible-tokens-1.0.0 (c (n "andromeda-non-fungible-tokens") (v "1.0.0") (d (list (d (n "andromeda-std") (r "^1.0.0") (k 0)) (d (n "cosmwasm-schema") (r "^1.5.2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.5.2") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.3") (d #t) (k 0)) (d (n "cw20") (r "^1.1.2") (d #t) (k 0)) (d (n "cw721") (r "^0.18.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.18.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)))) (h "0s9ms5qbwjn0g54p2q00wfbhpf8zmw5v85n69k6qi8k8mn8bfwqh") (f (quote (("backtraces" "cosmwasm-std/backtraces")))) (r "1.65.0")))
+

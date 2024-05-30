@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoinleveldb-merger) #:use-module (crates-io))
+
+(define-public crate-bitcoinleveldb-merger-0.1.12-alpha.0 (c (n "bitcoinleveldb-merger") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-comparator") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-status") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-table") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "0y4l6hy5iavpg3q3r9x3nygrnspb8js5xvc77r83nq3115sbhkxz")))
+
+(define-public crate-bitcoinleveldb-merger-0.1.16-alpha.0 (c (n "bitcoinleveldb-merger") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-comparator") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-status") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-table") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "0hcfzgizvsvy9hf8r54i9la3yrcpxx8pkwig5acxs859kssl4akq")))
+

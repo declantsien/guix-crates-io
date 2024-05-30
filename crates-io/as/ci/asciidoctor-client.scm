@@ -1,0 +1,6 @@
+(define-module (crates-io as ci asciidoctor-client) #:use-module (crates-io))
+
+(define-public crate-asciidoctor-client-0.4.0 (c (n "asciidoctor-client") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-types") (r "^0.12.1") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.10.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.10.2") (d #t) (k 1)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "1d3dan8q70prarvy1rg8arkg8pbpdvgnhlb7933s78wyz1ir55mq")))
+
+(define-public crate-asciidoctor-client-0.4.1 (c (n "asciidoctor-client") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-types") (r "^0.12.3") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.10.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.10.2") (d #t) (k 1)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "08lnmnk3ahkl5832z3ivyp7m3f9iflqm7v09jxb3zknfc6h0c8im")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io im pl impl-from-into-similar) #:use-module (crates-io))
+
+(define-public crate-impl-from-into-similar-0.1.0 (c (n "impl-from-into-similar") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)))) (h "14q34zqpj4qczlk1yxi7yf4yl681rfgqbj25qgn0d66b3sb6jc4y")))
+
+(define-public crate-impl-from-into-similar-0.1.1 (c (n "impl-from-into-similar") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)))) (h "0ymjs6ax9fpg83swjps9sjwmvirnwqagp3acms73gqgg2kj7pvf6")))
+
+(define-public crate-impl-from-into-similar-0.2.0 (c (n "impl-from-into-similar") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.69") (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)))) (h "0x9dz9yh52vs8kw1hwy5v3f0dv5rwr6ac6q59ffpzgli44vwfa9b")))
+
+(define-public crate-impl-from-into-similar-0.2.1 (c (n "impl-from-into-similar") (v "0.2.1") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.69") (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)))) (h "0pi79fmxps0a9nm9nqn8lmbw1slq3klapnspjxyya4vq81bbn30m")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ta ch tachyon-math-library) #:use-module (crates-io))
+
+(define-public crate-tachyon-math-library-0.5.2 (c (n "tachyon-math-library") (v "0.5.2") (d (list (d (n "anchor-lang") (r "^0.27.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.4.0") (f (quote ("derive" "min_const_generics"))) (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rust_decimal") (r "=1.29.1") (f (quote ("maths"))) (d #t) (k 0)) (d (n "solana-program") (r "=1.16.23") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1amfvdys4rrbx5jjjhrj4q3h3yswndvhsd7qvg6wikghi656qmlm") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io wg pu wgpu-tilemap) #:use-module (crates-io))
+
+(define-public crate-wgpu-tilemap-0.1.0 (c (n "wgpu-tilemap") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "vek") (r "^0.15") (d #t) (k 0)) (d (n "wgpu") (r "^0.17") (d #t) (k 0)) (d (n "wgpu-profiler") (r "^0.14") (o #t) (d #t) (k 0)))) (h "0qfv3sh6xzbqprr7wij8rcl73rrypmawxrb7mbv34r58s99pwc6g") (f (quote (("default")))) (s 2) (e (quote (("wgpu-profiler" "dep:wgpu-profiler") ("serde" "dep:serde") ("image" "dep:image") ("csv" "dep:csv"))))))
+
+(define-public crate-wgpu-tilemap-0.1.1 (c (n "wgpu-tilemap") (v "0.1.1") (d (list (d (n "bytemuck") (r "^1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "vek") (r "^0.15") (d #t) (k 0)) (d (n "wgpu") (r "^0.17") (d #t) (k 0)) (d (n "wgpu-profiler") (r "^0.14") (o #t) (d #t) (k 0)))) (h "1b0pmnc2d26fz6ylizc7yyhs7gn2pqhr6kz2h12dfymic68znx75") (f (quote (("default")))) (s 2) (e (quote (("wgpu-profiler" "dep:wgpu-profiler") ("serde" "dep:serde") ("image" "dep:image") ("csv" "dep:csv"))))))
+

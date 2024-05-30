@@ -1,0 +1,6 @@
+(define-module (crates-io gh x_ ghx_proc_gen) #:use-module (crates-io))
+
+(define-public crate-ghx_proc_gen-0.1.0 (c (n "ghx_proc_gen") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12.0") (o #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0d737fhbiki86zjs6bsy1dr8nzrfk7526jljdm4qmzm8xxcg7fs3") (f (quote (("debug-traces")))) (s 2) (e (quote (("bevy" "dep:bevy"))))))
+
+(define-public crate-ghx_proc_gen-0.2.0 (c (n "ghx_proc_gen") (v "0.2.0") (d (list (d (n "bevy") (r "^0.13.0") (o #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "ghx_grid") (r "^0.2.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "06b80sac0xbxkvafrbhgawhsljm300y071y2raxkl347nw8cghxq") (f (quote (("reflect" "bevy") ("models-names") ("default" "models-names") ("debug-traces" "models-names")))) (s 2) (e (quote (("bevy" "dep:bevy"))))))
+

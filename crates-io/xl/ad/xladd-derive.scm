@@ -1,0 +1,30 @@
+(define-module (crates-io xl ad xladd-derive) #:use-module (crates-io))
+
+(define-public crate-xladd-derive-0.1.0 (c (n "xladd-derive") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "xladd") (r "^0.1.0") (d #t) (k 0)))) (h "102ajj9ychs4sjynwr5rscb0z3wg6djg8fjgdx2vy5k69jqqvxwd")))
+
+(define-public crate-xladd-derive-0.1.1 (c (n "xladd-derive") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "xladd") (r "^0.1.0") (d #t) (k 0)))) (h "1ckkiv3gqmr7vzcyxy808aqljwf1n6z4ysfzzm7plbqxm1d2s9dj")))
+
+(define-public crate-xladd-derive-0.2.0 (c (n "xladd-derive") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "xladd") (r "^0.1.0") (d #t) (k 0)))) (h "1wclrq8nbny91q68aa517rqasa7hdhys69f02yjylgii3h302qzj")))
+
+(define-public crate-xladd-derive-0.3.0 (c (n "xladd-derive") (v "0.3.0") (d (list (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "xladd") (r "^0.1.0") (d #t) (k 0)))) (h "1g61x14mrm8422hb6km34550911aa123iyn5aqcyh5sr1ryfkdaf") (f (quote (("default"))))))
+
+(define-public crate-xladd-derive-0.3.1 (c (n "xladd-derive") (v "0.3.1") (d (list (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "xladd") (r "^0.1.0") (d #t) (k 0)))) (h "0abpi9dm6gz3gvp2ms8bk6jcvypd537nsz45j6j2rwa0dbx8zg76") (f (quote (("default"))))))
+
+(define-public crate-xladd-derive-0.3.2 (c (n "xladd-derive") (v "0.3.2") (d (list (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "075v766c3ap1bkh1l22awaw9xfxqhjd78j1p807p22gjkbq3w02x")))
+
+(define-public crate-xladd-derive-0.4.0 (c (n "xladd-derive") (v "0.4.0") (d (list (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "00ckr5qc7s3d7h1j0yjil9dlgz38p5a7wygg8rvqyglwkqa6nkjd")))
+
+(define-public crate-xladd-derive-0.4.1 (c (n "xladd-derive") (v "0.4.1") (d (list (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1nmffp6dikq2z7bd5p8y9qnn3wzkr36cb39x7ipjp0n57n23j721")))
+
+(define-public crate-xladd-derive-0.4.2 (c (n "xladd-derive") (v "0.4.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0f6gpzav3yqmmixqf2616g6k9xs4sj60mfzdf9bx90igqrgjz65w")))
+
+(define-public crate-xladd-derive-0.5.0 (c (n "xladd-derive") (v "0.5.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1xral18q1z9h0wgm11wk5fp184jihhvlv81k779shxmbgvknc34n")))
+
+(define-public crate-xladd-derive-0.6.0 (c (n "xladd-derive") (v "0.6.0") (d (list (d (n "com") (r "^0.3") (f (quote ("production"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "widestring") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("oaidl" "combaseapi" "oleauto"))) (d #t) (k 0)))) (h "1sa9grxd0111mcrmd56ffdp9q7fgags1wbamicf4v48ppcqsykm5")))
+
+(define-public crate-xladd-derive-0.6.1 (c (n "xladd-derive") (v "0.6.1") (d (list (d (n "com") (r "^0.3") (f (quote ("production"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "widestring") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("oaidl" "combaseapi" "oleauto"))) (d #t) (k 0)))) (h "1scn5z34g5lh8c6k52xscs63b4ss9qyps11g5immighx9m3b0w54")))
+
+(define-public crate-xladd-derive-0.6.3 (c (n "xladd-derive") (v "0.6.3") (d (list (d (n "com") (r "^0.3") (f (quote ("production"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "widestring") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("oaidl" "combaseapi" "oleauto"))) (d #t) (k 0)))) (h "0vp57lcq6q4c7gkkgz1q547fnknrxy7qwscwj35fl1jrjvpjf9cg")))
+
+(define-public crate-xladd-derive-0.7.0 (c (n "xladd-derive") (v "0.7.0") (d (list (d (n "com") (r "^0.3") (f (quote ("production"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "widestring") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("oaidl" "combaseapi" "oleauto"))) (d #t) (k 0)))) (h "1lnaal3ansm27cz4c1783aw99pvgjmzddnfph0y6xc8j0ly9ls3m")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io np kg npkg) #:use-module (crates-io))
+
+(define-public crate-npkg-0.1.0 (c (n "npkg") (v "0.1.0") (d (list (d (n "bimap") (r "^0.6.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "clap") (r "^3.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "curl") (r "^0.4.43") (d #t) (k 0)) (d (n "nix-editor") (r "^0.2.8") (d #t) (k 0)) (d (n "owo-colors") (r "^3.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "026fh0gqnd2cdbi15mcy9zs8dsfcmrfz8sh72468yssmvld339nf")))
+
+(define-public crate-npkg-0.1.1 (c (n "npkg") (v "0.1.1") (d (list (d (n "bimap") (r "^0.6.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "clap") (r "^3.1.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "curl") (r "^0.4.43") (d #t) (k 0)) (d (n "nix-editor") (r "^0.2.8") (d #t) (k 0)) (d (n "owo-colors") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "13fbw2483ldpl0p48a640mvydznjjqs5krhh30jf6cp2miibcw2z")))
+
+(define-public crate-npkg-0.1.2 (c (n "npkg") (v "0.1.2") (d (list (d (n "bimap") (r "^0.6.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "clap") (r "^3.2.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "curl") (r "^0.4.43") (d #t) (k 0)) (d (n "nix-editor") (r "^0.2.11") (d #t) (k 0)) (d (n "owo-colors") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1244j18p7ayfxn3rijxchm0mmd09fanfwldfarxfsbwcyis4hi47")))
+

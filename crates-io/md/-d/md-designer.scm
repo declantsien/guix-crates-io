@@ -1,0 +1,6 @@
+(define-module (crates-io md -d md-designer) #:use-module (crates-io))
+
+(define-public crate-md-designer-0.1.0 (c (n "md-designer") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "xlsxwriter") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0glwjapjans4if628q6ja68rgjcf09jbz3ffh86anv6xiw4i21wz") (f (quote (("excel" "xlsxwriter") ("default"))))))
+
+(define-public crate-md-designer-0.1.1 (c (n "md-designer") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "xlsxwriter") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0d3xakhlwjpr0yvc5k9i5dfbx84gxxz90ryr7rxl21wk9p7cncwb") (f (quote (("excel" "xlsxwriter") ("default"))))))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io gc od gcode) #:use-module (crates-io))
+
+(define-public crate-gcode-0.3.0 (c (n "gcode") (v "0.3.0") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "1lyfvql0kvviblrmcnvp331wr8kxvajfjrvqbzy86wnwz540ayly") (f (quote (("ffi" "cfg-if") ("default" "ffi"))))))
+
+(define-public crate-gcode-0.3.1 (c (n "gcode") (v "0.3.1") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "0dg2w0kgkgahdnl3zxibg6c9bcalvn45hq66c8p59j1xkid9kfjn") (f (quote (("ffi" "cfg-if") ("default"))))))
+
+(define-public crate-gcode-0.3.2 (c (n "gcode") (v "0.3.2") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "01r0dg8imfy981hb3jz92pmc1dfqnaklhgal9wx5a4dnlkmc8i94") (f (quote (("ffi" "cfg-if") ("default"))))))
+
+(define-public crate-gcode-0.4.0 (c (n "gcode") (v "0.4.0") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libm") (r "^0.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5") (d #t) (k 2)))) (h "1p91q4gw7y742g9vzddhiv163sf5rqyh966qf9zzzn8cws4pjngg") (f (quote (("transforms") ("std") ("large-buffers") ("default" "large-buffers"))))))
+
+(define-public crate-gcode-0.5.0 (c (n "gcode") (v "0.5.0") (d (list (d (n "arrayvec") (r "^0.4.11") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1sc27vkyrnifcdb5qmvlird780c5hh892nrlg3v8l4b0q3pyj5zg") (f (quote (("std") ("serde-1" "serde" "serde_derive") ("large_buffers") ("default" "std"))))))
+
+(define-public crate-gcode-0.5.1 (c (n "gcode") (v "0.5.1") (d (list (d (n "arrayvec") (r "^0.4.11") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1yhmydw0rs2rhkhmmpniwpjh14gq27jnxqc0ajha5jqyzc87yq59") (f (quote (("std") ("serde-1" "serde" "serde_derive") ("large_buffers") ("default" "std"))))))
+
+(define-public crate-gcode-0.5.2 (c (n "gcode") (v "0.5.2") (d (list (d (n "arrayvec") (r "^0.4.11") (k 0)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "libm") (r "^0.1.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1zqfyqyh1qsfhzyjqwpizgxxf3pvhwa62882azcjq3rrwyk9cyjl") (f (quote (("std" "arrayvec/std") ("serde-1" "serde" "serde_derive") ("large_buffers") ("default" "std"))))))
+
+(define-public crate-gcode-0.5.3 (c (n "gcode") (v "0.5.3") (d (list (d (n "arrayvec") (r "^0.5") (k 0)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "libm") (r "^0.1.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1hxanz9smd1961i2s1a005bd16v80p3i0q32lcba4r87z72fahc7") (f (quote (("std" "arrayvec/std") ("serde-1" "serde" "serde_derive" "arrayvec/serde") ("default" "std")))) (y #t)))
+
+(define-public crate-gcode-0.6.0 (c (n "gcode") (v "0.6.0") (d (list (d (n "arrayvec") (r "^0.5") (k 0)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "libm") (r "^0.1.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1p1nd740x9s3qk7z6di1vfjaj1d82j72fp82bxdyk7whnx87rj8s") (f (quote (("std" "arrayvec/std") ("serde-1" "serde" "serde_derive" "arrayvec/serde") ("default" "std"))))))
+
+(define-public crate-gcode-0.6.1 (c (n "gcode") (v "0.6.1") (d (list (d (n "arrayvec") (r "^0.5") (k 0)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "libm") (r "^0.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1g0xyh3z85wm30lhiaabangjgbblkpkg8a4lywq4z9dz7x52c9ai") (f (quote (("std" "arrayvec/std") ("serde-1" "serde" "serde_derive" "arrayvec/serde") ("default" "std"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io cu rr currency-converter) #:use-module (crates-io))
+
+(define-public crate-currency-converter-0.0.1 (c (n "currency-converter") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "futures-core") (r "^0.3.5") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0rw99aq26hpi3dbjw8y1vcrgf7qcsfh7h83038xwqaz9h94n7s1b")))
+

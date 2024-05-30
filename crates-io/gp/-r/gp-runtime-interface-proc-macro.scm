@@ -1,0 +1,12 @@
+(define-module (crates-io gp -r gp-runtime-interface-proc-macro) #:use-module (crates-io))
+
+(define-public crate-gp-runtime-interface-proc-macro-6.0.0 (c (n "gp-runtime-interface-proc-macro") (v "6.0.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.37") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "visit" "fold" "extra-traits"))) (d #t) (k 0)))) (h "02g3ri30knjvc36gm5k95x9sqyc1arr4vhhs42l4ig9lzi47939q")))
+
+(define-public crate-gp-runtime-interface-proc-macro-6.0.1 (c (n "gp-runtime-interface-proc-macro") (v "6.0.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.37") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "visit" "fold" "extra-traits"))) (d #t) (k 0)))) (h "1fmjfjw7h9aay9kyn3vhhjlr2lnaj2xqccr87ndym5ci9r1gaz33")))
+
+(define-public crate-gp-runtime-interface-proc-macro-6.0.2 (c (n "gp-runtime-interface-proc-macro") (v "6.0.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^2.0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.37") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "visit" "fold" "extra-traits"))) (d #t) (k 0)))) (h "191vzb5i258jswkdbv20zks34hs8864828gk7yi5kl417yv41060")))
+
+(define-public crate-gp-runtime-interface-proc-macro-6.0.3 (c (n "gp-runtime-interface-proc-macro") (v "6.0.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.37") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "visit" "fold" "extra-traits"))) (d #t) (k 0)))) (h "0bgs22ah7gbq04gx1hz8xasr4xn8iap0lylmmxipzwcg7ja3siv4")))
+
+(define-public crate-gp-runtime-interface-proc-macro-12.0.0 (c (n "gp-runtime-interface-proc-macro") (v "12.0.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "syn") (r "^2.0.16") (f (quote ("full" "visit" "fold" "extra-traits"))) (d #t) (k 0)))) (h "0b0z23njh86n2cg5327x4d02prjrznnvbw4skn5lxdkdz03xkr6i")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io zk _h zk_hack_pendzl_lang_codegen) #:use-module (crates-io))
+
+(define-public crate-zk_hack_pendzl_lang_codegen-0.0.1 (c (n "zk_hack_pendzl_lang_codegen") (v "0.0.1") (d (list (d (n "blake2") (r "^0.10.6") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.13.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "ink_ir") (r "^4.2.1") (k 0)) (d (n "ink_primitives") (r "^4.2.1") (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("parsing" "full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.12") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0qha5qzlrn2p731ad16hjshp3jajqgr9ii782pfjw118lmvcd7w4") (f (quote (("std") ("default" "std"))))))
+

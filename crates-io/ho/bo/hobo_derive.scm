@@ -1,0 +1,36 @@
+(define-module (crates-io ho bo hobo_derive) #:use-module (crates-io))
+
+(define-public crate-hobo_derive-0.1.0 (c (n "hobo_derive") (v "0.1.0") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1swjrz1vhk9b6jsx2kaq64zc305w99y9wwqrw763w1vl0k263a7c")))
+
+(define-public crate-hobo_derive-0.1.1 (c (n "hobo_derive") (v "0.1.1") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1sdqbdnzmyrrgck9mbk3nqqmfw2xi4cjz02abqxw4j1f6fzddv6q")))
+
+(define-public crate-hobo_derive-0.1.2 (c (n "hobo_derive") (v "0.1.2") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1sv1nr3ldah8dxg5kcfrs51xwzpngfr5d2a2hxig3r6rg3ghhy9y")))
+
+(define-public crate-hobo_derive-0.1.3 (c (n "hobo_derive") (v "0.1.3") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1b7aqa8ymhys5i9mhsbq2h4bzszx6fsxs0jp6wmgpl079ijs7647")))
+
+(define-public crate-hobo_derive-0.1.4 (c (n "hobo_derive") (v "0.1.4") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1fayvhvsill83i4d1ggz79xwsi8adg11407lkf9mydkcdy0yfkl8")))
+
+(define-public crate-hobo_derive-0.1.5-alpha.0 (c (n "hobo_derive") (v "0.1.5-alpha.0") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "07hp3ansmdaf76bvprm6pbsjqpkx8p0ykr2jffkbxrxg2yq66m2x")))
+
+(define-public crate-hobo_derive-0.1.5 (c (n "hobo_derive") (v "0.1.5") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1c6z8v8sch96a6ghp13dpkwb3bh74v9jdnwaggc8p49zk3ac3qv5")))
+
+(define-public crate-hobo_derive-0.1.6 (c (n "hobo_derive") (v "0.1.6") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1qr6wmb351b8i7rcizzz2xj74nqyax2bqx358g2s9i7yrmqsdjh3")))
+
+(define-public crate-hobo_derive-0.1.7 (c (n "hobo_derive") (v "0.1.7") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1d67wrcxdd5l0gqsf359r4i80x0z35dvrd053q0dnypw4035qnw6")))
+
+(define-public crate-hobo_derive-0.1.8 (c (n "hobo_derive") (v "0.1.8") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "0pf0g6yis5f1vmm6cjgmbpmdzczxbiyvwqpvxsa96y2dx7m6p8hb")))
+
+(define-public crate-hobo_derive-0.1.9 (c (n "hobo_derive") (v "0.1.9") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1cyrf6nqxdz0vq5340a988zckp56yaz81cksmj94zcf17hrvpzsj")))
+
+(define-public crate-hobo_derive-0.1.10 (c (n "hobo_derive") (v "0.1.10") (d (list (d (n "derive_utils") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.3") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1fdyp98a5b7hlx8ydfy8hfr24sl5v5nprs26hjpyjbhpcrhqf4w1")))
+
+(define-public crate-hobo_derive-0.2.0 (c (n "hobo_derive") (v "0.2.0") (d (list (d (n "derive_utils") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "0rf23qxwxx779cxz1sksjgwi7y657ca6mjlxf6j0zcdh5hg5jjr3")))
+
+(define-public crate-hobo_derive-0.2.1 (c (n "hobo_derive") (v "0.2.1") (d (list (d (n "derive_utils") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "133bmvkjsngdiyjcakfd0wvmxyxz61m0hg8pryvgfcap642br06w")))
+
+(define-public crate-hobo_derive-0.2.2 (c (n "hobo_derive") (v "0.2.2") (d (list (d (n "derive_utils") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "04qg7rq98a4cb7s36a8vpw0x5sm7pnsxk7jj3r6r8fnpssrw5m1b")))
+
+(define-public crate-hobo_derive-0.3.0 (c (n "hobo_derive") (v "0.3.0") (d (list (d (n "derive_utils") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "0ij58zwp16r0572g3cc1b5y320r76gf77c1mk5hf845y4rjw8hi8")))
+
+(define-public crate-hobo_derive-0.4.0 (c (n "hobo_derive") (v "0.4.0") (d (list (d (n "derive_utils") (r "^0.13") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-quote") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1cyaflzzkzb4zyzng2bsi0wykkwsv12r5vsklbw3f5wpkcwlfz2l") (f (quote (("experimental"))))))
+

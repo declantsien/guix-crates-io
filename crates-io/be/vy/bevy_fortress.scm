@@ -1,0 +1,10 @@
+(define-module (crates-io be vy bevy_fortress) #:use-module (crates-io))
+
+(define-public crate-bevy_fortress-0.0.0 (c (n "bevy_fortress") (v "0.0.0") (h "1dibfzzn8j8vmncgf970m84p26hsjf29imnvss7rk8jnb56kii1q")))
+
+(define-public crate-bevy_fortress-0.1.0 (c (n "bevy_fortress") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_asset" "bevy_sprite" "serialize"))) (k 0)) (d (n "bitflags") (r "^2.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "ron") (r "^0.8") (f (quote ("integer128"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "0gic5lwiyfvwd437i7vw5zsi11kgg3lfmkxzxmkkp12pyamjmpxi")))
+
+(define-public crate-bevy_fortress-0.1.1 (c (n "bevy_fortress") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_asset" "bevy_sprite" "serialize"))) (k 0)) (d (n "bitflags") (r "^2.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "ron") (r "^0.8") (f (quote ("integer128"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "013bzsmc1nmipkw9fipb21v5qclxrwdcpsjx6r513pirjc5jc163")))
+
+(define-public crate-bevy_fortress-0.1.2 (c (n "bevy_fortress") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_asset" "bevy_sprite" "serialize"))) (k 0)) (d (n "bitflags") (r "^2.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "ron") (r "^0.8") (f (quote ("integer128"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "1v9lwdd6mdg7995syiaqnz0ib36vms3d3zsvsyc7rwd61pckp73v")))
+

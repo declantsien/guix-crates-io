@@ -1,0 +1,4 @@
+(define-module (crates-io ku mi kumitateru) #:use-module (crates-io))
+
+(define-public crate-kumitateru-0.4.0 (c (n "kumitateru") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "clap") (r "2.33.*") (d #t) (k 0)) (d (n "colored") (r "2.0.*") (d #t) (k 0)) (d (n "crossterm") (r "0.20.*") (d #t) (k 0)) (d (n "heck") (r "0.3.*") (d #t) (k 0)) (d (n "home") (r "0.5.*") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minidom") (r "0.13.*") (d #t) (k 0)) (d (n "regex") (r "1.5.*") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "0.5.*") (d #t) (k 0)) (d (n "uuid") (r "0.8.*") (f (quote ("v4"))) (d #t) (k 0)) (d (n "xml-rs") (r "0.8.*") (d #t) (k 0)) (d (n "yaserde") (r "0.6.*") (d #t) (k 0)) (d (n "yaserde_derive") (r "0.5.*") (d #t) (k 0)))) (h "191pzzlhfzdfiq6aqgpkmjhc71abw7zs4j2vqbyiflf6ir4h5nfa")))
+

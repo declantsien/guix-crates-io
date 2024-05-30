@@ -1,0 +1,6 @@
+(define-module (crates-io va ri various-rust-utils) #:use-module (crates-io))
+
+(define-public crate-various-rust-utils-0.1.0 (c (n "various-rust-utils") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "graphql_client") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0p1sb7c881r9fn32b1bmgyr3r7gx2w56c5k49lrnmwx682kzj4jp")))
+
+(define-public crate-various-rust-utils-0.1.3 (c (n "various-rust-utils") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "graphql_client") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "19c2likf0crg7vwqh3xil1045xaz38q1qzl4g0c325sbza66ifsx")))
+

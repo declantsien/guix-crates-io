@@ -1,0 +1,10 @@
+(define-module (crates-io st ak stake-contract-types) #:use-module (crates-io))
+
+(define-public crate-stake-contract-types-0.0.1-rc.0 (c (n "stake-contract-types") (v "0.0.1-rc.0") (d (list (d (n "bytecheck") (r "^0.6") (k 0)) (d (n "dusk-bls12_381") (r "^0.12") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bls12_381-sign") (r "^0.5") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bytes") (r "^0.1") (d #t) (k 0)) (d (n "dusk-pki") (r "^0.13") (f (quote ("rkyv-impl"))) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("size_32"))) (k 0)))) (h "0h04nfr0wilwxnvxdywnla8q97zr2qmycvc58bsnqz21914ljjad")))
+
+(define-public crate-stake-contract-types-0.0.1-rc.1 (c (n "stake-contract-types") (v "0.0.1-rc.1") (d (list (d (n "bytecheck") (r "^0.6") (k 0)) (d (n "dusk-bls12_381") (r "^0.12") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bls12_381-sign") (r "^0.5") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bytes") (r "^0.1") (d #t) (k 0)) (d (n "dusk-pki") (r "^0.13") (f (quote ("rkyv-impl"))) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("size_32"))) (k 0)))) (h "09ms70gzmm8pscpcbv1wxar6fzcrvj839x0xqzid2x9rq6l5b13q")))
+
+(define-public crate-stake-contract-types-0.0.1-rc.2 (c (n "stake-contract-types") (v "0.0.1-rc.2") (d (list (d (n "bytecheck") (r "^0.6") (k 0)) (d (n "dusk-bls12_381") (r "^0.12") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bls12_381-sign") (r "^0.5") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bytes") (r "^0.1") (d #t) (k 0)) (d (n "dusk-pki") (r "^0.13") (f (quote ("rkyv-impl"))) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("size_32"))) (k 0)))) (h "19ccby7170hic5y866y2s3xw3frnzr4xpdnjhwnfyvaqq2c38dhb")))
+
+(define-public crate-stake-contract-types-0.1.0-rc.0 (c (n "stake-contract-types") (v "0.1.0-rc.0") (d (list (d (n "bls12_381-bls") (r "^0.2") (f (quote ("rkyv-impl"))) (k 0)) (d (n "bytecheck") (r "^0.6") (k 0)) (d (n "dusk-bls12_381") (r "^0.13") (f (quote ("rkyv-impl"))) (k 0)) (d (n "dusk-bytes") (r "^0.1") (d #t) (k 0)) (d (n "phoenix-core") (r "^0.26") (f (quote ("rkyv-impl"))) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("size_32"))) (k 0)))) (h "0yrh0pivkfyjqc1bkq4j8gggbzcwdfmi6gn9j758c915jjlp129l")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io co ve covert) #:use-module (crates-io))
+
+(define-public crate-covert-0.1.0 (c (n "covert") (v "0.1.0") (h "0710lnlx5xjl84rv6y2a238apla6clhz18cd7v8chjkgnbsq64hd")))
+
+(define-public crate-covert-0.1.1 (c (n "covert") (v "0.1.1") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive" "cargo" "env"))) (d #t) (k 0)) (d (n "covert-sdk") (r "^0.1.1") (d #t) (k 0)) (d (n "covert-system") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "03s9ylpkkv73kalz6pnqckz8qlgl0ii2iw4i2vy7zr4bzv2wrcih")))
+
+(define-public crate-covert-0.1.2 (c (n "covert") (v "0.1.2") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive" "cargo" "env"))) (d #t) (k 0)) (d (n "covert-sdk") (r "^0.1.2") (d #t) (k 0)) (d (n "covert-system") (r "^0.1.2") (d #t) (k 0)) (d (n "humantime") (r "^2.1") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "136gn14fgqa94bj14lsxzi2l0a06mywj8x43hzapf2khfcwbjxbz")))
+
+(define-public crate-covert-0.1.3 (c (n "covert") (v "0.1.3") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive" "cargo" "env"))) (d #t) (k 0)) (d (n "covert-sdk") (r "^0.1.3") (d #t) (k 0)) (d (n "covert-system") (r "^0.1.3") (d #t) (k 0)) (d (n "humantime") (r "^2.1") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "09rli25aavd718nkqslv0vshmc149d43m3k1kav39kd9fxa42daw")))
+

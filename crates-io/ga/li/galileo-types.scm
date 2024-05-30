@@ -1,0 +1,8 @@
+(define-module (crates-io ga li galileo-types) #:use-module (crates-io))
+
+(define-public crate-galileo-types-0.1.0-alpha.0 (c (n "galileo-types") (v "0.1.0-alpha.0") (d (list (d (n "geo-types") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "geodesy") (r "^0.11.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "07g9lmvf5v00yi7h2f6wilvf92sx49ipcwfnjzn5jnfbmxbx34ri") (f (quote (("default" "geo-types"))))))
+
+(define-public crate-galileo-types-0.1.0 (c (n "galileo-types") (v "0.1.0") (d (list (d (n "geo-types") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "geodesy") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "geojson") (r "^0.24") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ixrb3hfc3iwhyvz4c031iwysw7z2bb56i4blw90j0np19fsyirs") (f (quote (("default" "geo-types" "geodesy"))))))
+
+(define-public crate-galileo-types-0.1.1 (c (n "galileo-types") (v "0.1.1") (d (list (d (n "geo-types") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "geodesy") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "geojson") (r "^0.24") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0xq73430n8s1dmr8v97fr5pw820qmr5f5vgm9lb5ha06p9l7ldqi") (f (quote (("default" "geo-types" "geodesy"))))))
+

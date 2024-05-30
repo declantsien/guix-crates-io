@@ -1,0 +1,8 @@
+(define-module (crates-io fa lc falcon-rust) #:use-module (crates-io))
+
+(define-public crate-falcon-rust-0.1.0 (c (n "falcon-rust") (v "0.1.0") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)))) (h "1prrcqyqjkls8cyppivp13a2zixk76q073sn8afkqsirqckxi80i")))
+
+(define-public crate-falcon-rust-0.1.1 (c (n "falcon-rust") (v "0.1.1") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)))) (h "1a9vapa3qr7w296hprwc5ydp0d91xxf4r9gvhawzr7b9hhyf6x53")))
+
+(define-public crate-falcon-rust-0.1.2 (c (n "falcon-rust") (v "0.1.2") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)))) (h "0dmdn2arbywfa3jvac2bn1x76c7sndm6cb1v5pzi67ldh83b4645")))
+

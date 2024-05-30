@@ -1,0 +1,4 @@
+(define-module (crates-io mo du modular-sys) #:use-module (crates-io))
+
+(define-public crate-modular-sys-0.1.0 (c (n "modular-sys") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "libloading") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (f (quote ("send_guard"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tower") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1jppyrpdbigzs4q2sz65bk95mgpcz6rkiv14k905fp0a6blpda8m") (s 2) (e (quote (("dll" "core" "dep:libloading" "dep:once_cell" "dep:tokio") ("core" "dep:bytes" "dep:tower" "dep:async-trait" "dep:futures-util" "dep:anyhow" "dep:parking_lot"))))))
+

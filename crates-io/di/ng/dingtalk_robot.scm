@@ -1,0 +1,6 @@
+(define-module (crates-io di ng dingtalk_robot) #:use-module (crates-io))
+
+(define-public crate-dingtalk_robot-0.1.0 (c (n "dingtalk_robot") (v "0.1.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "14rh7wcggsmfamnh87vf0gjw4xp5vgc3lx6r8ipvh6z5qacgvq4b") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-dingtalk_robot-0.1.1 (c (n "dingtalk_robot") (v "0.1.1") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0lk0a2z5mxqlicxz2npz59i11wyb1phr3rkjj81cqazcg4vc8jij") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+

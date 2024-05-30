@@ -1,0 +1,4 @@
+(define-module (crates-io pr ot protolog) #:use-module (crates-io))
+
+(define-public crate-protolog-0.0.0 (c (n "protolog") (v "0.0.0") (d (list (d (n "arrayvec") (r "^0.7.4") (f (quote ("zeroize"))) (d #t) (k 0)) (d (n "cap-std") (r "^2.0.0") (d #t) (k 0)) (d (n "cap-tempfile") (r "^2.0.0") (d #t) (k 0)) (d (n "libflate") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (o #t) (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.11") (d #t) (k 0)) (d (n "zerocopy-derive") (r "^0.7.11") (d #t) (k 0)) (d (n "zeroize") (r "^1.6.0") (o #t) (d #t) (k 0)))) (h "1vrq95pn0mzkykxr8sd4rvb2yda0cj1wswjph2sy9c95nbdxq493") (f (quote (("default" "encrypt" "gzip" "lz4" "tracing")))) (s 2) (e (quote (("tracing" "dep:tracing") ("lz4" "dep:lz4_flex") ("gzip" "dep:libflate") ("encrypt" "dep:zeroize")))) (r "1.70")))
+

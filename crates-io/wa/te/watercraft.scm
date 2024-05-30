@@ -1,0 +1,4 @@
+(define-module (crates-io wa te watercraft) #:use-module (crates-io))
+
+(define-public crate-watercraft-0.1.0 (c (n "watercraft") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "byte-unit") (r "^4.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.16") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "zip") (r "^0.6") (d #t) (k 0)))) (h "1y37pldg3nhsbk1qlzb8blqdj3hikwdn8f8cn6rz0vv9nyrilxdf") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "rustls-tls"))))))
+

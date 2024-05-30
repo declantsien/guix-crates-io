@@ -1,0 +1,14 @@
+(define-module (crates-io me di mediathekviewweb) #:use-module (crates-io))
+
+(define-public crate-mediathekviewweb-0.1.0 (c (n "mediathekviewweb") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1hmi9mr8wh25ra1gbmc9nas50279iyvs2gxqfpnvlhbsh5bc71rk") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-mediathekviewweb-0.1.1 (c (n "mediathekviewweb") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1pjg6l0g0p21xk9ayg76hs7wbj12ppdki12z55q013dczbx6j81p") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-mediathekviewweb-0.1.2 (c (n "mediathekviewweb") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1jh57zfvsdbcbccj2c81qr29hy1a68sfgasmh4avfahw9zjwfryw") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-mediathekviewweb-0.2.0 (c (n "mediathekviewweb") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1fy1qmh9s6il04lq5c62d6qc2ypj5gmyw5ifg4sdd5yzld87abkv") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-mediathekviewweb-0.3.0 (c (n "mediathekviewweb") (v "0.3.0") (d (list (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "11mnvg4ws3wsl89i6l8wczakz6b959fxkjyph20fwaz4b9w8ipiz") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-mediathekviewweb-0.3.1 (c (n "mediathekviewweb") (v "0.3.1") (d (list (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "14ygql933hdggdxqswrh1rzcxbq98q153884kpc0pqyla2fx05z1") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+

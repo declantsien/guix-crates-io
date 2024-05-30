@@ -1,0 +1,10 @@
+(define-module (crates-io be re bereal) #:use-module (crates-io))
+
+(define-public crate-bereal-0.1.0 (c (n "bereal") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0yqfzlqmy71rj031a4swjb1wqvvbmn82wfghxsrnamv0k1qcbbfv")))
+
+(define-public crate-bereal-0.1.1 (c (n "bereal") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1lzhgkj281gbgls6ad1wzxvc7rzcxb7qp11sgbmlf3kdv4hgvrzz")))
+
+(define-public crate-bereal-0.2.0 (c (n "bereal") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.37") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "15nhb6lv0cs9nfdadq2qlmhr96i73d0030a9ll15kcxim4gxhdz0") (s 2) (e (quote (("cli" "dep:clap" "dep:color-eyre" "dep:chrono"))))))
+
+(define-public crate-bereal-0.3.0 (c (n "bereal") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.37") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "env"))) (o #t) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0xmwd2mfcmvj8ngc83s6iz7x9xpihp7g13z0qd41iw5y6jcwwpjn") (s 2) (e (quote (("cli" "dep:clap" "dep:color-eyre" "dep:chrono"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-merge) #:use-module (crates-io))
+
+(define-public crate-cargo-merge-0.1.0 (c (n "cargo-merge") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0ngpv6sw7zw52p2gk31p3hxail6ixyjabyy511vng0sv02avkrsg")))
+
+(define-public crate-cargo-merge-0.2.0 (c (n "cargo-merge") (v "0.2.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1mszm5f01vy9l9k13yfpikfixcpdnahzwnzwyilgnkrhsvv81khn")))
+
+(define-public crate-cargo-merge-0.2.1 (c (n "cargo-merge") (v "0.2.1") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0ahabs72q3c6k57za28j1mg0h4wy4g3d25mcajg59rky8my4fq5b")))
+
+(define-public crate-cargo-merge-0.2.2 (c (n "cargo-merge") (v "0.2.2") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1l7ipr314inp8z4xw9imylx4g464mk9g19x5mcl6k9wsa7pcbgaa")))
+

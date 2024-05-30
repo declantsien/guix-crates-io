@@ -1,0 +1,6 @@
+(define-module (crates-io fa ct facti-lib) #:use-module (crates-io))
+
+(define-public crate-facti-lib-0.1.0 (c (n "facti-lib") (v "0.1.0") (d (list (d (n "pest") (r "^2.7.2") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "semver") (r "^1.0.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "url") (r "^2.4.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1pyi27ximkyvigni02zhmcijmg9fz9sasbz3dc246c9zms4xy632")))
+
+(define-public crate-facti-lib-0.2.1 (c (n "facti-lib") (v "0.2.1") (d (list (d (n "pest") (r "^2.7.2") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "semver") (r "^1.0.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "url") (r "^2.4.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0zap2a2w5xirxpf3hlsnhljj531s7l7kg1ciis51h4xdb2kkpiiq")))
+

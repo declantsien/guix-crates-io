@@ -1,0 +1,10 @@
+(define-module (crates-io sl ed sled-tables) #:use-module (crates-io))
+
+(define-public crate-sled-tables-0.1.0 (c (n "sled-tables") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.106") (d #t) (k 0)) (d (n "sled") (r "^0.34.6") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1yhzsv6ay6ybp27hin6ap645iavzl5bj5nvppnmpllv8y0xdh85d") (y #t)))
+
+(define-public crate-sled-tables-0.2.0 (c (n "sled-tables") (v "0.2.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.106") (d #t) (k 0)) (d (n "sled") (r "^0.34.6") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "14b2drrppmy0x7nansz71qxn2d0134rl38j4fscrnd91gdlhxkhq")))
+
+(define-public crate-sled-tables-0.2.1 (c (n "sled-tables") (v "0.2.1") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.106") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hsav2mhlim8yz6c6fn6nsrbkwkj6yav6hspz6vkx8fxs27kw9bk")))
+
+(define-public crate-sled-tables-0.2.2 (c (n "sled-tables") (v "0.2.2") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.106") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "01l2dryr2xdpxdli22nvm6i7xhks6rdmf8f7rph15dh44v297i0s")))
+

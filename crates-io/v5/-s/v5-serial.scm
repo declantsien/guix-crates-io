@@ -1,0 +1,6 @@
+(define-module (crates-io v5 -s v5-serial) #:use-module (crates-io))
+
+(define-public crate-v5-serial-0.1.0 (c (n "v5-serial") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "btleplug") (r "^0.11") (d #t) (k 0)) (d (n "crc") (r "^3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-serial") (r "^5.4") (f (quote ("libudev"))) (d #t) (k 0)) (d (n "uuid") (r "^1.5") (d #t) (k 0)))) (h "1ij4jflsjlvbghl5396j387276cfkhxm632dicp6imidazxjkzqm")))
+
+(define-public crate-v5-serial-0.2.0 (c (n "v5-serial") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "btleplug") (r "^0.11") (d #t) (k 0)) (d (n "crc") (r "^3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-serial") (r "^5.4") (f (quote ("libudev"))) (d #t) (k 0)) (d (n "uuid") (r "^1.5") (d #t) (k 0)))) (h "11pypxcnxswd7sxqlp5nw43b4pcl6kr2j2wzk8nahfk6590lqdi3")))
+

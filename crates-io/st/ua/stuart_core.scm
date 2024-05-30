@@ -1,0 +1,26 @@
+(define-module (crates-io st ua stuart_core) #:use-module (crates-io))
+
+(define-public crate-stuart_core-0.1.0 (c (n "stuart_core") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)))) (h "1b8q9dps3dwmf2d0zi80nzrh7kbv8m6rnzhpnx54c4c0av9rwqhs")))
+
+(define-public crate-stuart_core-0.1.1 (c (n "stuart_core") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)))) (h "0djhfq4034fb7gri3xi95xl04cjjka2rqhaxkr1108zzcvgdrjrh")))
+
+(define-public crate-stuart_core-0.2.0 (c (n "stuart_core") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)))) (h "0ihxhpw992sp858a8a7zg8kmdbsl2qd39nakv2bq1izcdhfvmwsi")))
+
+(define-public crate-stuart_core-0.2.1 (c (n "stuart_core") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "1fbq2rbl159z9q9c259zzmjqn314qmg4m721r811xsqzrsg3fpzl") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.2.2 (c (n "stuart_core") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "1b8shkl480dll2izbl4qf0h17ic18jslk3ky3cm9djfzh26ydwxi") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.2.3 (c (n "stuart_core") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "0fvyn2yc9cz9cg93sr426gsk7q8q407ynybfs6210acimr27zmvs") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.2.4 (c (n "stuart_core") (v "0.2.4") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "0ck941jcinq4k6ia0f9jclrxir54bz17jmh27kgcas5d6a94z60z") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.2.5 (c (n "stuart_core") (v "0.2.5") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "0bjfzd0h8nk97ah35c9ajvdkw249cby55r98b35d6bb6vik90zp7") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.2.6 (c (n "stuart_core") (v "0.2.6") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "0g1nb8iyqjhj0bknhn9jpf91qw7jrdhq7y0caa8djj4r77fbs4r3") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.2.7 (c (n "stuart_core") (v "0.2.7") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "07pphw3876vkxikrvf2qc1l08c3j0k0pw8drmn5vxw0l85diqqm2") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.3.0 (c (n "stuart_core") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "193wwzz5f71irc6ci5f5my0jxsjaz58zz41w5qkr94d71krjysk7") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+
+(define-public crate-stuart_core-0.3.1 (c (n "stuart_core") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "dateparser") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)))) (h "1lm42hl3z3j4q7yizin0bjjsvsyn5vpdf4zv74w888j0cy78dmfi") (f (quote (("default" "date") ("date" "chrono" "dateparser"))))))
+

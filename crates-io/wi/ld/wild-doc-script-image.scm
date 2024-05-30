@@ -1,0 +1,18 @@
+(define-module (crates-io wi ld wild-doc-script-image) #:use-module (crates-io))
+
+(define-public crate-wild-doc-script-image-0.0.0 (c (n "wild-doc-script-image") (v "0.0.0") (d (list (d (n "hashbrown") (r "^0.14.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.26") (d #t) (k 0)))) (h "04zhhch6dcgw1bkqbbaab9jhnyhx7yp4b7cw5f8gb52zxjgmravw")))
+
+(define-public crate-wild-doc-script-image-0.0.1 (c (n "wild-doc-script-image") (v "0.0.1") (d (list (d (n "hashbrown") (r "^0.14.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.26") (d #t) (k 0)))) (h "0wbskz60166l2svynbili01c0q6isra52jgcqhbvlifb8y6mf2mj")))
+
+(define-public crate-wild-doc-script-image-0.0.2 (c (n "wild-doc-script-image") (v "0.0.2") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.28") (d #t) (k 0)))) (h "0n17dq03i24q4gkm4qlslxq9mdmzhkn53hah43i6v09whvqmbahf")))
+
+(define-public crate-wild-doc-script-image-0.0.3 (c (n "wild-doc-script-image") (v "0.0.3") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.29.0") (d #t) (k 0)))) (h "0gxpppx19h0vlsymnr27awbn9c9l9y8vsmxp52094hph7h652kbm")))
+
+(define-public crate-wild-doc-script-image-0.0.4 (c (n "wild-doc-script-image") (v "0.0.4") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.29.0") (d #t) (k 0)))) (h "0kxpinzlsr9rj5x2kgx85r5kd0g5al5xxhwwh0bd49g8wyv0v15f")))
+
+(define-public crate-wild-doc-script-image-0.0.5 (c (n "wild-doc-script-image") (v "0.0.5") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.29.2") (d #t) (k 0)))) (h "0mj8av6i4hyvg7xmxl5v96n1n7swdpgp7v7ixafz9nx82izpm2r4")))
+
+(define-public crate-wild-doc-script-image-0.0.6 (c (n "wild-doc-script-image") (v "0.0.6") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.30.0") (d #t) (k 0)))) (h "0bdn2x95y17n7svr8nn2gk6w3h2hd6vqbw803cq25rw15l1za86j")))
+
+(define-public crate-wild-doc-script-image-0.0.7 (c (n "wild-doc-script-image") (v "0.0.7") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("webp-encoder"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wild-doc-script") (r "^0.31.0") (d #t) (k 0)))) (h "1gvq994b8mx4z4m0kjfvb11jqmrl4yiwld3q9x2gwfcybpvvfqcy")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# d doh) #:use-module (crates-io))
+
+(define-public crate-doh-0.1.0 (c (n "doh") (v "0.1.0") (d (list (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "getch") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.6") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "rfsapi") (r "^0.2") (d #t) (k 0)) (d (n "tabwriter") (r "^1.0") (d #t) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tinyfiledialogs") (r "^3.0") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "url") (r "^1.5") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1j63xi4q2z50bipyhxq3sa96h55m1qmc98xphgpc1nvl39fwz5c4")))
+

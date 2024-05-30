@@ -1,0 +1,6 @@
+(define-module (crates-io ar ch archive-pdf-urls) #:use-module (crates-io))
+
+(define-public crate-archive-pdf-urls-0.2.0 (c (n "archive-pdf-urls") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "lopdf") (r "^0.32.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "waybackmachine-client") (r "^0.2.0") (d #t) (k 0)))) (h "1k3kma90wia7my3ss0cy9wxqkn2zr61cncgr97xckis7a2798wsk")))
+
+(define-public crate-archive-pdf-urls-0.3.0 (c (n "archive-pdf-urls") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "lopdf") (r "^0.32.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "waybackmachine-client") (r "^0.3.0") (d #t) (k 0)))) (h "0ww87rs3xs7r5brzc93ff8i2zdqiz4ap3m9fi9i9rzjx4n6rigbi")))
+

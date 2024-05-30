@@ -1,0 +1,4 @@
+(define-module (crates-io mi ni miniscript-debug) #:use-module (crates-io))
+
+(define-public crate-miniscript-debug-9.0.1-debug (c (n "miniscript-debug") (v "9.0.1-debug") (d (list (d (n "actual-rand") (r "^0.8.4") (d #t) (k 2) (p "rand")) (d (n "actual-serde") (r "^1.0") (o #t) (d #t) (k 0) (p "serde")) (d (n "bitcoin") (r "^0.29.1") (k 0)) (d (n "bitcoind") (r "^0.27.0") (f (quote ("23_0"))) (d #t) (k 2)) (d (n "hashbrown") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.0") (f (quote ("rand-std"))) (d #t) (k 2)))) (h "0dsd8zfac651nqvz737ywqv1ywgl3y27xn9aw2kqyq6k5bawnwkf") (f (quote (("unstable") ("trace") ("std" "bitcoin/std" "bitcoin/secp-recovery") ("serde" "actual-serde" "bitcoin/serde") ("rand" "bitcoin/rand") ("no-std" "hashbrown" "bitcoin/no-std") ("default" "std") ("compiler"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io xe no xenon-cli) #:use-module (crates-io))
+
+(define-public crate-xenon-cli-0.1.0 (c (n "xenon-cli") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "xenon-lib") (r "^0.1.0") (d #t) (k 0)))) (h "1m1sccbq7gz5qlk3dnar402m6zy1x4yrac3cfwy9xxkq88ryp01d") (y #t)))
+
+(define-public crate-xenon-cli-0.1.1 (c (n "xenon-cli") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "xenon-lib") (r "^0.1.0") (d #t) (k 0)))) (h "1jkcaa7gvfzd0cyqhppj7rqrhx6hp5bkvy9jicq3ji75qd5i2lkc") (y #t)))
+

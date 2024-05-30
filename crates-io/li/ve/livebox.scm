@@ -1,0 +1,14 @@
+(define-module (crates-io li ve livebox) #:use-module (crates-io))
+
+(define-public crate-livebox-0.1.0 (c (n "livebox") (v "0.1.0") (h "1zwaqnx20f62jnjg7zbdlpm12kaw8gxm5rn5w6bxsxaxbr2zqy3w")))
+
+(define-public crate-livebox-0.9.0 (c (n "livebox") (v "0.9.0") (d (list (d (n "cookie") (r "^0.16") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "07qnklm8ylcvp78fgfxcm5asapb7yshxv7dv97lv2vjp2ynz6y9d")))
+
+(define-public crate-livebox-0.9.1 (c (n "livebox") (v "0.9.1") (d (list (d (n "cookie") (r "^0.16") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "15ycd78dah83rxxws9nwh0d3w9x0hrgwi9hpqyayjr3hb2yd68wl")))
+
+(define-public crate-livebox-0.9.2 (c (n "livebox") (v "0.9.2") (d (list (d (n "cookie") (r "^0.16") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1znc79vn06mgrryfyai30dpq3l47fplpjxfinmq0kb45vsrsviw1")))
+
+(define-public crate-livebox-0.9.3 (c (n "livebox") (v "0.9.3") (d (list (d (n "cookie") (r "^0.16") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1kvq7zwmqranv36wdy6i51nmqshi36cy6j71c8gislddpvbv1v3h")))
+
+(define-public crate-livebox-0.9.4 (c (n "livebox") (v "0.9.4") (d (list (d (n "cookie") (r "^0.16") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1bdq3dxjldcg67gylbczfwj2df5rnrxwzwzlkgar68pdmahlgx6d")))
+

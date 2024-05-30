@@ -1,0 +1,30 @@
+(define-module (crates-io pr om prometrics) #:use-module (crates-io))
+
+(define-public crate-prometrics-0.1.0 (c (n "prometrics") (v "0.1.0") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "06038596zf4zrx5dmx2rg30ax8f0ihrxiilcix1x5gisndkrhvqs")))
+
+(define-public crate-prometrics-0.1.1 (c (n "prometrics") (v "0.1.1") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "1hdrsjmlw901cl22i13dp9nyxq4504hzzh043k2zmdzw1ii8fijq")))
+
+(define-public crate-prometrics-0.1.2 (c (n "prometrics") (v "0.1.2") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "0b6i5ra42gc78alzagykgya5c09n2svs53dd7xnrxl4xszssb65s")))
+
+(define-public crate-prometrics-0.1.3 (c (n "prometrics") (v "0.1.3") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "0wwfik3ipca4s7khx74pyaldkbfj4cixlb3m7knan2c5gmf4mvla")))
+
+(define-public crate-prometrics-0.1.4 (c (n "prometrics") (v "0.1.4") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "1frcb00y1rd3b60g1vy3fyv4s237xvfzgckawfjifnakhmmrpz4f")))
+
+(define-public crate-prometrics-0.1.5 (c (n "prometrics") (v "0.1.5") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "0n1w7y18y17av2cyy1svwsfbqiksrkwamgv1dh3ajiw5px50rzf1")))
+
+(define-public crate-prometrics-0.1.6 (c (n "prometrics") (v "0.1.6") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "0asvf7mw5rwnf2bl5wj3f4knldw8d1rhw12hhiq2kkh1qrr88blq")))
+
+(define-public crate-prometrics-0.1.7 (c (n "prometrics") (v "0.1.7") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "10ch3qf0a3ms9gr0ch4n91anaqv25p5n3qab2sqd4xqlkn7qsv8l")))
+
+(define-public crate-prometrics-0.1.8 (c (n "prometrics") (v "0.1.8") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "159dmycyffbld21ldnzrhdw9s5pc0z7abl0lrgz0xacw151djp1f")))
+
+(define-public crate-prometrics-0.1.9 (c (n "prometrics") (v "0.1.9") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "0224jxn3a04yn805fykgag4ws04ridnpj863bnx7pjp3byygfqk4")))
+
+(define-public crate-prometrics-0.1.10 (c (n "prometrics") (v "0.1.10") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "0hpzmrimvl8235y06imhk6inxv3wbvpdxa05hhfnpppsc086ij6w")))
+
+(define-public crate-prometrics-0.1.11 (c (n "prometrics") (v "0.1.11") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "09j0lqgd7r17nlcnxkfvkirmrhkmivg72k26pmi5sfh5y5jkxszp")))
+
+(define-public crate-prometrics-0.1.12 (c (n "prometrics") (v "0.1.12") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "10hymkksdcxr3y9dgkv1yvfyc4hy0k829qn3i82b0737118vi4kd")))
+
+(define-public crate-prometrics-0.1.13 (c (n "prometrics") (v "0.1.13") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "procinfo") (r "^0.4") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "trackable") (r "^0.2") (d #t) (k 0)))) (h "13xkj14dhjngh3xwsd12fi7jah3gvb6qq9mgca745ahvnmmz1547")))
+

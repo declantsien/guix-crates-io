@@ -1,0 +1,6 @@
+(define-module (crates-io s2 n_ s2n_quic_mtls) #:use-module (crates-io))
+
+(define-public crate-s2n_quic_mtls-0.1.0 (c (n "s2n_quic_mtls") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pem_helper") (r "^0.1") (d #t) (k 0)) (d (n "s2n-quic") (r "^1.25.0") (f (quote ("provider-address-token-default" "provider-tls-rustls"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs"))) (d #t) (k 0)))) (h "0nrs2pxhgy7j3mwvdk8l2h7fbiv29qj43i0m744rzpbrdrzjldvw") (f (quote (("default" "CHACHA20_POLY1305_SHA256" "X25519") ("X25519") ("NIST_P384") ("NIST_P256") ("CHACHA20_POLY1305_SHA256") ("AES_256_GCM_SHA384") ("AES_128_GCM_SHA256")))) (y #t)))
+
+(define-public crate-s2n_quic_mtls-0.1.1 (c (n "s2n_quic_mtls") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pem_helper") (r "^0.1") (d #t) (k 0)) (d (n "s2n-quic") (r "^1.25.0") (f (quote ("provider-address-token-default" "provider-tls-rustls"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs"))) (d #t) (k 0)))) (h "16yix748prmbm9nbmmbqma4g3sd8b1qz9fldx4c264b1jgnyp9rx") (f (quote (("default" "CHACHA20_POLY1305_SHA256" "X25519") ("X25519") ("NIST_P384") ("NIST_P256") ("CHACHA20_POLY1305_SHA256") ("AES_256_GCM_SHA384") ("AES_128_GCM_SHA256")))) (y #t)))
+

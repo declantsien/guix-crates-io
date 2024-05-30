@@ -1,0 +1,4 @@
+(define-module (crates-io sc ra scrappy-multipart) #:use-module (crates-io))
+
+(define-public crate-scrappy-multipart-0.0.1 (c (n "scrappy-multipart") (v "0.0.1") (d (list (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "scrappy") (r "^0.0.1") (k 0)) (d (n "scrappy-http") (r "^0.0.1") (d #t) (k 2)) (d (n "scrappy-rt") (r "^0.0.1") (d #t) (k 2)) (d (n "scrappy-service") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-utils") (r "^0.0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "twoway") (r "^0.2") (d #t) (k 0)))) (h "1fhmawkrr939gggycmc21bymdhn43ccsjsik3gc60r78j0f3gir4")))
+

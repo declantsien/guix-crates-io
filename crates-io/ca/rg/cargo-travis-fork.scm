@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-travis-fork) #:use-module (crates-io))
+
+(define-public crate-cargo-travis-fork-0.0.11 (c (n "cargo-travis-fork") (v "0.0.11") (d (list (d (n "badge") (r "^0.2") (d #t) (k 0)) (d (n "cargo") (r "^0.32") (d #t) (k 0)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "=1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)))) (h "0p4718993azywawvh8ii32n8hh9wsacscsb8zv9c0agnz0cc1842")))
+
+(define-public crate-cargo-travis-fork-0.0.12 (c (n "cargo-travis-fork") (v "0.0.12") (d (list (d (n "badge") (r "^0") (d #t) (k 0)) (d (n "cargo") (r "^0.35") (d #t) (k 0)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "=1.1.0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "13xryq5vb19wb26w555xw41n39xpk5fpgqxh1l0rqccpiz96va7r")))
+

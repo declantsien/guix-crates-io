@@ -1,0 +1,4 @@
+(define-module (crates-io dt er dterm) #:use-module (crates-io))
+
+(define-public crate-dterm-0.3.0 (c (n "dterm") (v "0.3.0") (d (list (d (n "dcolor") (r "^0.3.0") (d #t) (k 0)) (d (n "dgl") (r "^0.3.0") (d #t) (k 0)) (d (n "dimage") (r "^0.3.0") (f (quote ("png"))) (k 0)) (d (n "dinput") (r "^0.3.0") (k 0)) (d (n "dnum") (r "^0.3.0") (d #t) (k 0)) (d (n "dterm-built-in-font") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "dterm-gl") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "dvec") (r "^0.3.0") (d #t) (k 0)) (d (n "dwindow") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 0)))) (h "0qim8q6nxdv5m8wszqrszz0fm7mscik6hjhr7m56qgymaq613hd2") (f (quote (("gl" "dterm-gl") ("default" "built-in-font" "gl") ("built-in-font" "dterm-built-in-font")))) (y #t)))
+

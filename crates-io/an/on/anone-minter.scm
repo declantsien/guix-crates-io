@@ -1,0 +1,4 @@
+(define-module (crates-io an on anone-minter) #:use-module (crates-io))
+
+(define-public crate-anone-minter-0.1.0 (c (n "anone-minter") (v "0.1.0") (d (list (d (n "anone-cw721") (r "^0.1.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.0.0-beta3") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0-beta") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^1.0.0-beta5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.12.1") (d #t) (k 0)) (d (n "cw-utils") (r "^0.12.1") (d #t) (k 0)) (d (n "cw2") (r "^0.12.1") (d #t) (k 0)) (d (n "cw721") (r "^0.11.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.11.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0hq5drvg40pdy6qwjvpq173xz16nngy3dl3hid00hd3s6b7pc5xf") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

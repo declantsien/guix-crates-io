@@ -1,0 +1,4 @@
+(define-module (crates-io me rk merkle-tree-db) #:use-module (crates-io))
+
+(define-public crate-merkle-tree-db-0.0.1 (c (n "merkle-tree-db") (v "0.0.1") (d (list (d (n "hash-db") (r "^0.15.2") (k 0)) (d (n "hash256-std-hasher") (r "^0.15.2") (o #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (f (quote ("ahash"))) (k 0)) (d (n "memory-db") (r "^0.29.0") (o #t) (k 0)) (d (n "sha3") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "hash256-std-hasher") (r "^0.15.2") (k 2)) (d (n "memory-db") (r "^0.29.0") (k 2)) (d (n "rs_merkle") (r "^1.2.0") (d #t) (k 2)) (d (n "sha2") (r "^0.10") (k 2)) (d (n "sha3") (r "^0.10") (d #t) (k 2)))) (h "08wqd0j9mdjw7fmw3r14c1v56ag2ap1x9fr6nd6fhaxmws62gs27") (f (quote (("std" "hash-db/std" "memory-db/std") ("executable" "hash256-std-hasher" "memory-db" "sha3") ("default" "std"))))))
+

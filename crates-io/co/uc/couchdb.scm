@@ -1,0 +1,24 @@
+(define-module (crates-io co uc couchdb) #:use-module (crates-io))
+
+(define-public crate-couchdb-0.0.0 (c (n "couchdb") (v "0.0.0") (d (list (d (n "hyper") (r "^0.6") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)))) (h "0f27chzcq58ykwiq0cnabq2222qc2lw123z6d9kqs1rilkbyb7av")))
+
+(define-public crate-couchdb-0.0.1 (c (n "couchdb") (v "0.0.1") (d (list (d (n "hyper") (r "^0.6") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)))) (h "1qzd08yj4vnrnx3kxv5rgpffyxy8z260p7h98s6rcqlp1mlnqrx5")))
+
+(define-public crate-couchdb-0.1.0 (c (n "couchdb") (v "0.1.0") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_json") (r "*") (d #t) (k 0)) (d (n "tempdir") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)))) (h "0v5ivzsmyhxg0yc13wz21xgfmzv9kmhgzwp3j6r06cx4qvwscxz3")))
+
+(define-public crate-couchdb-0.2.0 (c (n "couchdb") (v "0.2.0") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_json") (r "*") (d #t) (k 0)) (d (n "tempdir") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)))) (h "1ygqz0q632lw95kp5658w043kz77sgr355cv3bslxj6mbpq8w8kk")))
+
+(define-public crate-couchdb-0.3.0 (c (n "couchdb") (v "0.3.0") (d (list (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.5") (d #t) (k 0)))) (h "0r0mx22xsqzkp66lxyzbxnm02hpckdsa2rsginwpkiwxxdfmwhx5")))
+
+(define-public crate-couchdb-0.3.1 (c (n "couchdb") (v "0.3.1") (d (list (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.5") (d #t) (k 0)))) (h "1gb10hbm7yq0m7fgvpgs1qgxq7gp2rkrzm25a7jp8dszgkcrhj3l")))
+
+(define-public crate-couchdb-0.4.0 (c (n "couchdb") (v "0.4.0") (d (list (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.5") (d #t) (k 0)))) (h "1a0n96n2n1i4hcjpfgi4qc3xl78h9f5fgq97fv70dh0mx1vv1i3v")))
+
+(define-public crate-couchdb-0.5.0 (c (n "couchdb") (v "0.5.0") (d (list (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.5") (d #t) (k 0)))) (h "175kaf4r8fmnl67616j0q0k811pc9yh2f9z5iig7i7mx6hbmi77k")))
+
+(define-public crate-couchdb-0.5.1 (c (n "couchdb") (v "0.5.1") (d (list (d (n "base64") (r "^0.1.1") (d #t) (k 0)) (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "mime") (r "^0.1.1") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "semver") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^0.6") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.1.18") (d #t) (k 0)))) (h "0s95jbhm5v32pj6ah0wvv16x6bf9mlvs2qxmxs3rd5896abg6rxx")))
+
+(define-public crate-couchdb-0.5.2 (c (n "couchdb") (v "0.5.2") (d (list (d (n "base64") (r "^0.1.1") (d #t) (k 0)) (d (n "hyper") (r "^0.8") (d #t) (k 0)) (d (n "mime") (r "^0.2.0, <= 0.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "semver") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^0.7") (d #t) (k 0)) (d (n "serde_json") (r "^0.7") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.1.18") (d #t) (k 0)))) (h "0pl29i92v08aq6znhzbz95jx8pqgh0778qh5ys2k277hhqfkhsk5")))
+
+(define-public crate-couchdb-0.6.0 (c (n "couchdb") (v "0.6.0") (d (list (d (n "base64") (r "^0.6.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.7.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 0)) (d (n "url") (r "^1.5") (d #t) (k 0)) (d (n "uuid") (r "^0.5.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1zhqfby43i3ddi3l77n9nh7xc4ydrj0rkcfpa1yx0i8if3pkdszx")))
+

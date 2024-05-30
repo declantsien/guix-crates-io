@@ -1,0 +1,10 @@
+(define-module (crates-io di em diem-json-rpc-types) #:use-module (crates-io))
+
+(define-public crate-diem-json-rpc-types-0.0.0 (c (n "diem-json-rpc-types") (v "0.0.0") (h "1swjflsls4zg1309f40yw0b9rgf1xj6h8bnaprfaqxb5525zbaza")))
+
+(define-public crate-diem-json-rpc-types-0.0.1 (c (n "diem-json-rpc-types") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "bcs") (r "^0.1.2") (d #t) (k 0)) (d (n "diem-crypto") (r "^0.0.1") (d #t) (k 0)) (d (n "diem-types") (r "^0.0.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "move-core-types") (r "^0.0.1") (d #t) (k 0)) (d (n "prost") (r "^0.7.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.7.0") (d #t) (k 1)) (d (n "serde") (r "^1.0.124") (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1dx0czlr7c9aspingsbrs7ghgbkli0xycslmjn4hh02p70spzxb9")))
+
+(define-public crate-diem-json-rpc-types-0.0.2 (c (n "diem-json-rpc-types") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "bcs") (r "^0.1.2") (d #t) (k 0)) (d (n "diem-crypto") (r "^0.0.2") (d #t) (k 0)) (d (n "diem-types") (r "^0.0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "move-core-types") (r "^0.0.2") (d #t) (k 0)) (d (n "prost") (r "^0.7.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.7.0") (d #t) (k 1)) (d (n "serde") (r "^1.0.124") (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1zrvpbpnmwfbqlkyhff36xfwzlmmdi5z5j76jqzkiwss5v9lgyg9")))
+
+(define-public crate-diem-json-rpc-types-0.0.3 (c (n "diem-json-rpc-types") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "bcs") (r "^0.1.2") (d #t) (k 0)) (d (n "diem-crypto") (r "^0.0.3") (d #t) (k 0)) (d (n "diem-transaction-builder") (r "^0.0.3") (d #t) (k 0)) (d (n "diem-types") (r "^0.0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "move-core-types") (r "^0.0.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "14xdvp1jlrkhwiqy0zfaihg4vvrxv41g1xfg94xxg9ijzsh3f7am")))
+

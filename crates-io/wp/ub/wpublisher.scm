@@ -1,0 +1,10 @@
+(define-module (crates-io wp ub wpublisher) #:use-module (crates-io))
+
+(define-public crate-wpublisher-0.1.0 (c (n "wpublisher") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.2") (d #t) (k 0)) (d (n "globwalk") (r "^0.8.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.0") (d #t) (k 0)) (d (n "test_tools") (r "~0.1") (d #t) (k 2)) (d (n "toml_edit") (r "^0.14.2") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)) (d (n "wca") (r "~0.1") (d #t) (k 0)) (d (n "wtools") (r "~0.2") (d #t) (k 0)))) (h "1q9422hslb8j8hpjkmfkwsziic15jixqds8whd6wycq8l5blapks")))
+
+(define-public crate-wpublisher-0.1.1 (c (n "wpublisher") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.2") (d #t) (k 0)) (d (n "globwalk") (r "^0.8.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.0") (d #t) (k 0)) (d (n "test_tools") (r "~0.1") (d #t) (k 2)) (d (n "toml_edit") (r "^0.14.2") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)) (d (n "wca") (r "~0.1") (d #t) (k 0)) (d (n "wtools") (r "~0.2") (d #t) (k 0)))) (h "1qn9bz4r673bi6d68bgfrhdyvb31fibr9wrhr9svrgm9m58cxr78") (f (quote (("use_std") ("use_alloc") ("default" "use_std"))))))
+
+(define-public crate-wpublisher-0.1.2 (c (n "wpublisher") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.2") (d #t) (k 0)) (d (n "globwalk") (r "^0.8.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.0") (d #t) (k 0)) (d (n "test_tools") (r "~0.1") (d #t) (k 2)) (d (n "toml_edit") (r "^0.14.2") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)) (d (n "wca") (r "~0.1") (d #t) (k 0)) (d (n "wtools") (r "~0.2") (d #t) (k 0)))) (h "1pjh0cgdqhjhlg6lxryy40j6s4kgfihj9xbw0rgd4z64kmdawppi") (f (quote (("use_std") ("use_alloc") ("full" "use_std" "use_alloc") ("default" "use_std"))))))
+
+(define-public crate-wpublisher-0.2.0 (c (n "wpublisher") (v "0.2.0") (d (list (d (n "test_tools") (r "~0.7.0") (d #t) (k 2)))) (h "034lf4rzalp8wspmk717xkzkliqi0476n2l65z90vapc195nzqsp") (f (quote (("use_alloc") ("no_std") ("full" "enabled") ("enabled") ("default" "enabled"))))))
+

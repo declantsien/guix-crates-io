@@ -1,0 +1,6 @@
+(define-module (crates-io al ex alexandria) #:use-module (crates-io))
+
+(define-public crate-alexandria-0.1.0 (c (n "alexandria") (v "0.1.0") (h "0wn55sc7v4ylij4n2dhhjdcp4pmk09dncym9i38waqjf5ajh1pw4") (y #t)))
+
+(define-public crate-alexandria-0.2.0 (c (n "alexandria") (v "0.2.0") (d (list (d (n "alexandria-tags") (r "^0.2") (d #t) (k 0)) (d (n "async-std") (r "^1.0") (f (quote ("unstable" "attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.3") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "id") (r "^0.6.0") (f (quote ("digest" "random" "aligned"))) (d #t) (k 0) (p "ratman-identity")) (d (n "keybob") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)))) (h "0x85c2v9v0hrp5h5i223d1jslwfc83fslwyiv0iqj1vcxznrsq6d")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io te rp terp721-base) #:use-module (crates-io))
+
+(define-public crate-terp721-base-0.1.0 (c (n "terp721-base") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.3.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.3.1") (d #t) (k 0)) (d (n "cw-ownable") (r "^0.5.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.1") (d #t) (k 0)) (d (n "cw2") (r "^1.1.0") (d #t) (k 0)) (d (n "cw721") (r "^0.18.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.18.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "terp-sdk") (r "^0.1.0") (d #t) (k 0)) (d (n "terp721") (r "^0.1.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "11bxccm96fsa9gigj8zab25d567xhrhjck7zq3lys0nzffdyr6s5") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io rd bc rdbc_sqlite3) #:use-module (crates-io))
+
+(define-public crate-rdbc_sqlite3-0.1.0 (c (n "rdbc_sqlite3") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "rdbc-rs") (r "^0.1") (d #t) (k 0)) (d (n "sqlite3-sys") (r "^0.14.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)) (d (n "async-std") (r "^1.11.0") (f (quote ("attributes" "default"))) (d #t) (k 2)) (d (n "criterion") (r "^0.4") (f (quote ("async_futures" "html_reports"))) (d #t) (k 2)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)))) (h "1d7w85wa2r480if0biziazb4cfzjlc2xlf25h5awp6sa7596bci1")))
+

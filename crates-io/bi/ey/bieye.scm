@@ -1,0 +1,8 @@
+(define-module (crates-io bi ey bieye) #:use-module (crates-io))
+
+(define-public crate-bieye-0.2.0 (c (n "bieye") (v "0.2.0") (d (list (d (n "bacon") (r "^2.12") (d #t) (k 2)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.26") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)))) (h "1r1nhsnn1wz8nawbb7wyy01qz6kszzkv8i02g7y798nxp9jgssrd")))
+
+(define-public crate-bieye-0.2.2 (c (n "bieye") (v "0.2.2") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "predicates") (r "^3.0") (d #t) (k 2)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)))) (h "1f1scplrp5jn5kfrii48v33ckx4h57hz4qskxs043hl323ldvg8y")))
+
+(define-public crate-bieye-0.2.3 (c (n "bieye") (v "0.2.3") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "predicates") (r "^3.0") (d #t) (k 2)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)))) (h "1wsrsi8n20ql6lkgbqrh7s9301fls1x4x4ci426ja8xmmi5cb819")))
+

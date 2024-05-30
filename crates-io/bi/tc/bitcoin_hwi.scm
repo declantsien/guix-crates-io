@@ -1,0 +1,10 @@
+(define-module (crates-io bi tc bitcoin_hwi) #:use-module (crates-io))
+
+(define-public crate-bitcoin_hwi-0.2.0 (c (n "bitcoin_hwi") (v "0.2.0") (d (list (d (n "amplify") (r "^3.12.0") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "bitcoin") (r "^0.28.0") (f (quote ("use-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)))) (h "15pmw5x1q8ff5cbryd2nkbgx3xhs4rjd45wzpmhrgb6z2ir991k6")))
+
+(define-public crate-bitcoin_hwi-0.3.0 (c (n "bitcoin_hwi") (v "0.3.0") (d (list (d (n "amplify") (r "^3.13.0") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.29.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serial_test") (r "^0.10") (d #t) (k 2)))) (h "0qyaq0vi3m569lmcvma61lxmyy4icqxcn95vx435vj6ardv66qwj")))
+
+(define-public crate-bitcoin_hwi-0.4.0 (c (n "bitcoin_hwi") (v "0.4.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.29.2") (f (quote ("serde" "base64"))) (d #t) (k 0)) (d (n "miniscript") (r "^9.0.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pyo3") (r "^0.19.1") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)))) (h "1dazhgiwxkk32v3glgh7z067hkjag3gzlb1mc5zk0qxq36p4yws1") (f (quote (("doctest"))))))
+
+(define-public crate-bitcoin_hwi-0.4.1 (c (n "bitcoin_hwi") (v "0.4.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.29.2") (f (quote ("serde" "base64"))) (d #t) (k 0)) (d (n "miniscript") (r "^9.0.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pyo3") (r "^0.19.1") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)))) (h "1k3xsfayji3yr81ljc1asz72s8ad5vni5jy3n4hc8v8gp4igrfa1") (f (quote (("doctest"))))))
+

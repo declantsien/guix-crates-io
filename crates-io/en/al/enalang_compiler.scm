@@ -1,0 +1,30 @@
+(define-module (crates-io en al enalang_compiler) #:use-module (crates-io))
+
+(define-public crate-enalang_compiler-0.1.0 (c (n "enalang_compiler") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "1r35pk3mbl6hxcgx0817rvn0gkzyx2dn5gbr1198jlh5h8pvgm31")))
+
+(define-public crate-enalang_compiler-0.2.0 (c (n "enalang_compiler") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "1gf7v7n2qkz9fkhns0kv8rl6jfrz6mgipwll8gxiwqk9kscq43q6")))
+
+(define-public crate-enalang_compiler-0.2.1 (c (n "enalang_compiler") (v "0.2.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "1mni7p0x6nfglrbjw1287l5hvpawy35qjam130zwd7r8kfirc6i9")))
+
+(define-public crate-enalang_compiler-0.3.0 (c (n "enalang_compiler") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "0d8l9gvc49q19c09gznridh3yysjrvlvwbidgyh5mm8x778pnmld")))
+
+(define-public crate-enalang_compiler-0.3.1 (c (n "enalang_compiler") (v "0.3.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "19zqhzd8jgdxlnfjkxs3xayhgaavlsb5ym3m4niwp96s1wfwy16l")))
+
+(define-public crate-enalang_compiler-0.3.2 (c (n "enalang_compiler") (v "0.3.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1n749rrnccnn1ph22wyn50yhgynfx0kxa9xyyc7lwpi2d0dvm2zn")))
+
+(define-public crate-enalang_compiler-0.3.3 (c (n "enalang_compiler") (v "0.3.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1ai66b4sc0qvd52sbwczxr06n7yq1mw9v0bkl6wmxz790cril16g")))
+
+(define-public crate-enalang_compiler-0.3.4 (c (n "enalang_compiler") (v "0.3.4") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.3.4") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0gaw6l9hl53w6ygsfia4ys99gnxvs7k3d946x83i8xlnvi96fy7h")))
+
+(define-public crate-enalang_compiler-0.4.0 (c (n "enalang_compiler") (v "0.4.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.4.0") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0hli8b0izs3yixaanrk9bdjyl37125c0vgfbfpn5f5mdzvqczsrq")))
+
+(define-public crate-enalang_compiler-0.5.0 (c (n "enalang_compiler") (v "0.5.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.5.0") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1k4symsgs5m7pfab1i3w3kb0719z3fkv0l04qkp3h31c3v8xl9ja") (y #t)))
+
+(define-public crate-enalang_compiler-0.5.1 (c (n "enalang_compiler") (v "0.5.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.5.1") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0n6hzq1c9c313fncgh1cikdipgaic389sznpkihk8pjkzalmmw9h")))
+
+(define-public crate-enalang_compiler-0.5.2 (c (n "enalang_compiler") (v "0.5.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.5.2") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0fwgvxz1kl1w6q4yivi4y027njw48y05b1cxwanwjxgakw91qipl")))
+
+(define-public crate-enalang_compiler-0.6.0 (c (n "enalang_compiler") (v "0.6.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.6.0") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "151znmzfmqagz5dp1xwdcfvmfqy0ap24vqamnngrh7c321vnx2vv")))
+
+(define-public crate-enalang_compiler-0.6.1 (c (n "enalang_compiler") (v "0.6.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "enalang_ir") (r "^0.6.1") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1rvpmwj9nfqm1nk2ac1gwy0w4hlnqpraqhd2mraqqcs5j38awqfw")))
+

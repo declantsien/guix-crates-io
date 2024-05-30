@@ -1,0 +1,6 @@
+(define-module (crates-io ha sh hashicorp-lru) #:use-module (crates-io))
+
+(define-public crate-hashicorp-lru-0.1.5 (c (n "hashicorp-lru") (v "0.1.5") (d (list (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 2)) (d (n "hashbrown") (r "^0.11.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.0") (d #t) (k 2)) (d (n "scoped_threadpool") (r "0.1.*") (d #t) (k 2)) (d (n "stats_alloc") (r "0.1.*") (d #t) (k 2)))) (h "0izw24pdjnczfp4548svkf6rd65jh9ya81yppiav9jj5zcf8a7x0") (f (quote (("nightly" "hashbrown" "hashbrown/nightly") ("default" "hashbrown")))) (y #t)))
+
+(define-public crate-hashicorp-lru-0.1.6 (c (n "hashicorp-lru") (v "0.1.6") (d (list (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 2)) (d (n "hashbrown") (r "^0.11.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.0") (d #t) (k 2)) (d (n "scoped_threadpool") (r "0.1.*") (d #t) (k 2)) (d (n "stats_alloc") (r "0.1.*") (d #t) (k 2)))) (h "1khhamr22y973ifkk7sp101zdlwpf38973nai9xmh96bbg5am5hp") (f (quote (("nightly" "hashbrown" "hashbrown/nightly") ("default" "hashbrown")))) (y #t)))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io gp t3 gpt3_rs) #:use-module (crates-io))
+
+(define-public crate-gpt3_rs-0.1.0 (c (n "gpt3_rs") (v "0.1.0") (d (list (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0zks9i8gaz0pnrp8mlc7xyjpv3xlvm8rvj70x57jyaf872k2fzz9") (f (quote (("blocking" "reqwest/blocking"))))))
+
+(define-public crate-gpt3_rs-0.2.0 (c (n "gpt3_rs") (v "0.2.0") (d (list (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "05ibwdh0qhcd9l16clr1winqwfbc8bhf99cjb1p9236hwh1lrc15") (f (quote (("blocking" "reqwest/blocking"))))))
+
+(define-public crate-gpt3_rs-0.3.0 (c (n "gpt3_rs") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1.53") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0jwlvk71mbqbq3x1d7kw710v2xrp07id9ffy7qix4y46afjr78n7") (f (quote (("blocking" "reqwest/blocking"))))))
+
+(define-public crate-gpt3_rs-0.3.1 (c (n "gpt3_rs") (v "0.3.1") (d (list (d (n "async-trait") (r "^0.1.53") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0vfydhn9h917gqsiy8rvgrnd6swdayqqypw17wzj394kh50kkg27") (f (quote (("blocking" "reqwest/blocking"))))))
+
+(define-public crate-gpt3_rs-0.3.2 (c (n "gpt3_rs") (v "0.3.2") (d (list (d (n "async-trait") (r "^0.1.53") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0vv10205rra43shvvssxsmdgz2990w9r2mqs7yqx4as4x70ypaxc") (f (quote (("blocking" "reqwest/blocking"))))))
+
+(define-public crate-gpt3_rs-0.3.3 (c (n "gpt3_rs") (v "0.3.3") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1k9yg1ipqnwvqfvdla4i1z77z0pppa825f53is3fknrbla52hgpg") (f (quote (("blocking" "reqwest/blocking"))))))
+
+(define-public crate-gpt3_rs-0.3.4 (c (n "gpt3_rs") (v "0.3.4") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "11pxjbas6pilkwkn5f8y5087s9f221apysxvdbp05gddipmr41r0") (f (quote (("blocking" "reqwest/blocking"))))))
+

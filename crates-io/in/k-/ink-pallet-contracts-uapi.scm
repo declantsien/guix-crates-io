@@ -1,0 +1,6 @@
+(define-module (crates-io in k- ink-pallet-contracts-uapi) #:use-module (crates-io))
+
+(define-public crate-ink-pallet-contracts-uapi-6.0.0 (c (n "ink-pallet-contracts-uapi") (v "6.0.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (k 0)) (d (n "polkavm-derive") (r "^0.4.0") (d #t) (t "cfg(target_arch = \"riscv32\")") (k 0)) (d (n "scale") (r "^3.6.1") (f (quote ("derive" "max-encoded-len"))) (o #t) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2.10.0") (f (quote ("derive"))) (o #t) (k 0)))) (h "0j603gryycprajprz62bmry0spih6svmx1s5j593xl0haj7n0gnx") (f (quote (("default" "scale")))) (s 2) (e (quote (("scale" "dep:scale" "scale-info"))))))
+
+(define-public crate-ink-pallet-contracts-uapi-7.0.0 (c (n "ink-pallet-contracts-uapi") (v "7.0.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (k 0)) (d (n "polkavm-derive") (r "^0.4.0") (d #t) (t "cfg(target_arch = \"riscv32\")") (k 0)) (d (n "scale") (r "^3.6.1") (f (quote ("derive" "max-encoded-len"))) (o #t) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2.10.0") (f (quote ("derive"))) (o #t) (k 0)))) (h "1jl5x0cmqjhxj76a1il3xmrqavdg70f8c1f04gppnb8zagbqgz7d") (f (quote (("default" "scale")))) (s 2) (e (quote (("scale" "dep:scale" "scale-info"))))))
+

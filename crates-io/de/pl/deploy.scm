@@ -1,0 +1,4 @@
+(define-module (crates-io de pl deploy) #:use-module (crates-io))
+
+(define-public crate-deploy-0.1.3 (c (n "deploy") (v "0.1.3") (d (list (d (n "ansi_term") (r "^0.11") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.3") (d #t) (k 0)) (d (n "deploy-common") (r "= 0.1.3") (d #t) (k 0)) (d (n "deploy-temp-fringe") (r "^1.2.3") (f (quote ("valgrind"))) (d #t) (k 0)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "either") (r "^1.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures-preview") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "nix") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1gcq69ph3w18r8qihqky5679r55cdcrs2sdd10vyg3r73kr37p1i")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io me tr metriki-influxdb-reporter) #:use-module (crates-io))
+
+(define-public crate-metriki-influxdb-reporter-0.1.0 (c (n "metriki-influxdb-reporter") (v "0.1.0") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 0)) (d (n "influxdb") (r "^0.4") (f (quote ("curl-client"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "metriki-core") (r "^0.1.2-alpha.0") (d #t) (k 0)))) (h "1bmmhm8v0f0ysdp8hqbj5mv4rkwmnmk578aaah627pz489axa48w")))
+
+(define-public crate-metriki-influxdb-reporter-0.1.1 (c (n "metriki-influxdb-reporter") (v "0.1.1") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 0)) (d (n "influxdb") (r "^0.4") (f (quote ("curl-client"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "metriki-core") (r "^0.1") (d #t) (k 0)))) (h "1d3zprzisr6a9fd8c2knk7yzw0a13z8q6q2xn3xv1kwwydpkw7hq")))
+
+(define-public crate-metriki-influxdb-reporter-0.1.2 (c (n "metriki-influxdb-reporter") (v "0.1.2") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 0)) (d (n "influxdb") (r "^0.4") (f (quote ("h1-client-rustls"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)))) (h "0djm49n01d4r391i7g979m9lbpnjz0zvqjm6gccfd8a0irw3ms0n")))
+
+(define-public crate-metriki-influxdb-reporter-0.2.0 (c (n "metriki-influxdb-reporter") (v "0.2.0") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 0)) (d (n "influxdb") (r "^0.4") (f (quote ("h1-client-rustls"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)))) (h "13n11w1g50hvg3agsk02hiiyacwvfhlc8mxbk163kx4sybkf6fxh")))
+
+(define-public crate-metriki-influxdb-reporter-0.3.0 (c (n "metriki-influxdb-reporter") (v "0.3.0") (d (list (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 0)) (d (n "influxdb") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "time"))) (k 0)))) (h "00wn2f4m6i1zp7n1sacql6d1gxqcvb77sjxjjhdy5001cdmjzf52")))
+
+(define-public crate-metriki-influxdb-reporter-0.4.0 (c (n "metriki-influxdb-reporter") (v "0.4.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 0)) (d (n "influxdb") (r "^0.5.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "metriki-core") (r "^1.8") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "time"))) (k 0)))) (h "07xpl1alslnjrh21yx2sn9028n4vzx1fn99x4zl9iqfbing0gddf")))
+

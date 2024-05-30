@@ -1,0 +1,10 @@
+(define-module (crates-io we dp wedpr_l_crypto_zkp_discrete_logarithm_proof) #:use-module (crates-io))
+
+(define-public crate-wedpr_l_crypto_zkp_discrete_logarithm_proof-0.0.1 (c (n "wedpr_l_crypto_zkp_discrete_logarithm_proof") (v "0.0.1") (d (list (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^0.0.1") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^0.0.1") (d #t) (k 0)) (d (n "wedpr_l_protos") (r "^0.0.1") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^0.0.1") (d #t) (k 0)))) (h "17im7dvy7g20hg2b2sfyb1sjgvranzz7d197p6c864c569rwraqz")))
+
+(define-public crate-wedpr_l_crypto_zkp_discrete_logarithm_proof-1.0.0 (c (n "wedpr_l_crypto_zkp_discrete_logarithm_proof") (v "1.0.0") (d (list (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_protos") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.0.0") (d #t) (k 0)))) (h "0bp2cz8szys5n46wlk3fs255zaiaaiwvcjqg5dyn0lb37dpn0lsj")))
+
+(define-public crate-wedpr_l_crypto_zkp_discrete_logarithm_proof-1.1.0 (c (n "wedpr_l_crypto_zkp_discrete_logarithm_proof") (v "1.1.0") (d (list (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^1.1.0") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_protos") (r "^1.1.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.1.0") (d #t) (k 0)))) (h "1diq2p3m06qg7wfsjf3jrbv4l4h653gr4gnpaa0gbp0j6w9n8j8k")))
+
+(define-public crate-wedpr_l_crypto_zkp_discrete_logarithm_proof-1.2.0 (c (n "wedpr_l_crypto_zkp_discrete_logarithm_proof") (v "1.2.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^1.2.0") (d #t) (k 0)) (d (n "wedpr_l_macros") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_protos") (r "^1.2.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.1.0") (d #t) (k 0)))) (h "0wibqkvc8p812b87ac3313schfa1y6mv7rw6rxff0ii2z9yxk32a")))
+

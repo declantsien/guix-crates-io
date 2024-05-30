@@ -1,0 +1,4 @@
+(define-module (crates-io xb f_ xbf_rs) #:use-module (crates-io))
+
+(define-public crate-xbf_rs-0.1.0 (c (n "xbf_rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 2)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.1") (d #t) (k 2)) (d (n "csv") (r "^1.2.2") (d #t) (k 2)) (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "quick-xml") (r "^0.30.0") (f (quote ("serialize"))) (d #t) (k 2)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 2)) (d (n "rmp-serde") (r "^1.1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 2)))) (h "174qahsi6ap3a12lq356fwxwi5fjnxbmm0kgz2anxycj083lp5mz") (f (quote (("xbf_threadsafe") ("default" "xbf_threadsafe"))))))
+

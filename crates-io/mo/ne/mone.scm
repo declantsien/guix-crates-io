@@ -1,0 +1,6 @@
+(define-module (crates-io mo ne mone) #:use-module (crates-io))
+
+(define-public crate-mone-0.1.1 (c (n "mone") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "cfg-if") (r "^0.1.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.13.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "slice-deque") (r "^0.2.3") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)) (d (n "termion") (r "^1.5.2") (d #t) (k 0)) (d (n "tui") (r "^0.5.1") (d #t) (k 0)))) (h "1k7vxhpmysbccjrnrhcjfdhsgadaz385chh0p5q9dkb67qdmxls9")))
+
+(define-public crate-mone-0.1.2 (c (n "mone") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "cfg-if") (r "^0.1.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.13.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "slice-deque") (r "^0.2.3") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)) (d (n "termion") (r "^1.5.2") (d #t) (k 0)) (d (n "tui") (r "^0.5.1") (d #t) (k 0)))) (h "1wlyh2gnyrl6bbrd7qzv2mqn9mpcybhq9f0219bc5zpqdgkv4gzq")))
+

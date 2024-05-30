@@ -1,0 +1,4 @@
+(define-module (crates-io nx ls nxlsd) #:use-module (crates-io))
+
+(define-public crate-nxlsd-0.1.0 (c (n "nxlsd") (v "0.1.0") (d (list (d (n "nc") (r "^0.1.0") (d #t) (k 0) (p "nxlang-core")) (d (n "nrs") (r "^0.1.0") (d #t) (k 0) (p "nanors")) (d (n "ns") (r "^0.1.0") (d #t) (k 0) (p "nxlang-script")) (d (n "nts") (r "^0.1.0") (d #t) (k 0) (p "nanots")) (d (n "nx") (r "^0.1.0") (d #t) (k 0) (p "nxlang-extra")) (d (n "nxl") (r "^0.1.0") (d #t) (k 0) (p "nxlib")) (d (n "nxls") (r "^0.1.0") (d #t) (k 0) (p "nxlang-server")) (d (n "xc") (r "^0.1.0") (d #t) (k 0) (p "nx-c")) (d (n "xcs") (r "^0.1.0") (d #t) (k 0) (p "nx-cs")) (d (n "xllvm") (r "^0.1.0") (d #t) (k 0) (p "nx-llvm")) (d (n "xnasm") (r "^0.1.0") (d #t) (k 0) (p "nx-nasm")) (d (n "xrs") (r "^0.1.0") (d #t) (k 0) (p "nx-rs")) (d (n "xwasm") (r "^0.1.0") (d #t) (k 0) (p "nx-wasm")))) (h "075w7zf72cm6vlm0cn20w9fcva3ryfql0jp6m7i2dv1fyn4zkyv0")))
+

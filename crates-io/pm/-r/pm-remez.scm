@@ -1,0 +1,4 @@
+(define-module (crates-io pm -r pm-remez) #:use-module (crates-io))
+
+(define-public crate-pm-remez-0.1.0 (c (n "pm-remez") (v "0.1.0") (d (list (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16") (k 0)) (d (n "num-bigfloat") (r "^1.7.1") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.21") (f (quote ("abi3-py38" "extension-module"))) (o #t) (d #t) (k 0)) (d (n "rustfft") (r "^6.2") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1psssdh1sa51bvyanbgszdh2q4zkc5fq3zmvx8gi5fvkpn87k8bf") (f (quote (("python" "pyo3") ("openblas-system" "ndarray-linalg/openblas-system") ("openblas-static" "ndarray-linalg/openblas-static") ("netlib-system" "ndarray-linalg/netlib-system") ("netlib-static" "ndarray-linalg/netlib-static") ("intel-mkl-system" "ndarray-linalg/intel-mkl-system") ("intel-mkl-static" "ndarray-linalg/intel-mkl-static"))))))
+

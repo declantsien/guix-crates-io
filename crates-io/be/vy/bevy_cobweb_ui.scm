@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_cobweb_ui) #:use-module (crates-io))
+
+(define-public crate-bevy_cobweb_ui-0.0.2 (c (n "bevy_cobweb_ui") (v "0.0.2") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("dynamic_linking" "file_watcher"))) (d #t) (k 2)) (d (n "bevy_cobweb") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)))) (h "1d9vg7qfbfdxn039ka457zmh1ql27phmj3k6bqlhvb8pc4jbickm")))
+
+(define-public crate-bevy_cobweb_ui-0.0.3 (c (n "bevy_cobweb_ui") (v "0.0.3") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("dynamic_linking" "file_watcher"))) (d #t) (k 2)) (d (n "bevy_cobweb") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "smol_str") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)))) (h "1r704fqpfxf2hpiv8j9d054ahaww189syalmlnp94bz0m62b5k3n")))
+

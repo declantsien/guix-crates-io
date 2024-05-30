@@ -1,0 +1,6 @@
+(define-module (crates-io pr ed prediction-guard) #:use-module (crates-io))
+
+(define-public crate-prediction-guard-0.4.0 (c (n "prediction-guard") (v "0.4.0") (d (list (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "eventsource-client") (r "^0.12") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1azk83rf3c9aw99am7s9lfzs6l6fj3cpm99iiacccrwvw3ndl6j2")))
+
+(define-public crate-prediction-guard-0.5.0 (c (n "prediction-guard") (v "0.5.0") (d (list (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "eventsource-client") (r "^0.12") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "13b4i02d1b2v3gqpik9qzivd7r5xdd8vp1bdviw2cpsmlk25zw68")))
+

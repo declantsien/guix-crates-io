@@ -1,0 +1,8 @@
+(define-module (crates-io le et leetcode-runner-cli) #:use-module (crates-io))
+
+(define-public crate-leetcode-runner-cli-0.2.6 (c (n "leetcode-runner-cli") (v "0.2.6") (d (list (d (n "clap") (r "^4.3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "open") (r "^4.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1rimkkh28pfigdcnyylf1kivx6wc76qdz3mv2qqx47fxz0q68gsx") (y #t)))
+
+(define-public crate-leetcode-runner-cli-0.2.7 (c (n "leetcode-runner-cli") (v "0.2.7") (d (list (d (n "clap") (r "^4.3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "open") (r "^4.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0m384a15vdqpj93wh38w9qgw0gdlwyp0j12z0q257h2fhhsk4rh6") (y #t)))
+
+(define-public crate-leetcode-runner-cli-0.2.71 (c (n "leetcode-runner-cli") (v "0.2.71") (d (list (d (n "clap") (r "^4.3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "open") (r "^4.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1x3v1qp3cfw1xkai2fhq62xl5np4qjkwndw0n4kw1l1bpxpxa6d4")))
+

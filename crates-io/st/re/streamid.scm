@@ -1,0 +1,6 @@
+(define-module (crates-io st re streamid) #:use-module (crates-io))
+
+(define-public crate-streamid-0.1.0 (c (n "streamid") (v "0.1.0") (d (list (d (n "cid") (r "^0.10.0") (d #t) (k 0)) (d (n "dag-cbor") (r "^0.1.0") (d #t) (k 0)) (d (n "libipld-base") (r "^0.1.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_plain") (r "^1.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "unsigned-varint") (r "^0.7.1") (d #t) (k 0)))) (h "0rs2ly1w10m9986rf1hfzczxm6qkm83am7kjrp3slxyw7qkqxzmk")))
+
+(define-public crate-streamid-0.2.0 (c (n "streamid") (v "0.2.0") (d (list (d (n "cid") (r "^0.10.0") (d #t) (k 0)) (d (n "libipld") (r "^0.15.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_plain") (r "^1.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "unsigned-varint") (r "^0.7.1") (d #t) (k 0)))) (h "0m37r3mrz0jpr8myb8wf2vrmqm1i6ipnn156wijiq7b7ys9kv5cc")))
+

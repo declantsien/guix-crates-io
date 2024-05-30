@@ -1,0 +1,8 @@
+(define-module (crates-io te lb telbot-hyper) #:use-module (crates-io))
+
+(define-public crate-telbot-hyper-0.1.0 (c (n "telbot-hyper") (v "0.1.0") (d (list (d (n "hyper") (r "^0.14.14") (f (quote ("client" "http1"))) (d #t) (k 0)) (d (n "hyper-multipart-rfc7578") (r "^0.5.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.70") (d #t) (k 0)) (d (n "telbot-types") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0lcs02irsvxd40ibmp4mcrzsfn2m9n0d1sxndx6sjbc2rxv936n9") (y #t)))
+
+(define-public crate-telbot-hyper-0.2.0 (c (n "telbot-hyper") (v "0.2.0") (d (list (d (n "hyper") (r "^0.14.14") (f (quote ("client" "http1"))) (d #t) (k 0)) (d (n "hyper-multipart-rfc7578") (r "^0.5.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.70") (d #t) (k 0)) (d (n "telbot-types") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0i7x44dl770ffbrljzvrj4b3wnk88k8p6s92qyczzmk3n6phpl9h") (y #t)))
+
+(define-public crate-telbot-hyper-0.3.0 (c (n "telbot-hyper") (v "0.3.0") (d (list (d (n "hyper") (r "^0.14.14") (f (quote ("client" "http1"))) (d #t) (k 0)) (d (n "hyper-multipart-rfc7578") (r "^0.5.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.70") (d #t) (k 0)) (d (n "telbot-types") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0945k48scnnqapa4cd9sckfmr0fsix2if203nzjlr07dpr63l2fw")))
+

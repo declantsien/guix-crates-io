@@ -1,0 +1,8 @@
+(define-module (crates-io ki ll killjoy) #:use-module (crates-io))
+
+(define-public crate-killjoy-0.1.0 (c (n "killjoy") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^0.11.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dbus") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "textwrap") (r "^0.11.0") (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (d #t) (k 0)))) (h "1raf9z7ab4an1a3viis58nsyv65ni2pvc1dv3y838llwv53959sv")))
+
+(define-public crate-killjoy-0.1.1 (c (n "killjoy") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^0.11.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dbus") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "textwrap") (r "^0.11.0") (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (d #t) (k 0)))) (h "1kw626kq692s6m944q0vf3zcm0njlq3919z57l7wclc6n3zhv9sx")))
+
+(define-public crate-killjoy-0.2.0 (c (n "killjoy") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^0.11.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dbus") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "textwrap") (r "^0.11.0") (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (d #t) (k 0)))) (h "1xa66vkvlvdr1x6173gvxhgpp9nsnmkqv9k2spsj3kqgb8cnpbyp")))
+

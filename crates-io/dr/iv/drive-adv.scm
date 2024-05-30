@@ -1,0 +1,4 @@
+(define-module (crates-io dr iv drive-adv) #:use-module (crates-io))
+
+(define-public crate-drive-adv-0.1.0 (c (n "drive-adv") (v "0.1.0") (d (list (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "diesel") (r "^1.4.3") (f (quote ("postgres" "serde_json" "64-column-tables"))) (d #t) (k 0)) (d (n "dotenv") (r "^0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10.0-alpha.2") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "165vns03j0xym7vnqjkqc6hh18cl1bg9d76nsiybryfaj8w91gzs")))
+

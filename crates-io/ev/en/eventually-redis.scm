@@ -1,0 +1,4 @@
+(define-module (crates-io ev en eventually-redis) #:use-module (crates-io))
+
+(define-public crate-eventually-redis-0.1.0 (c (n "eventually-redis") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.33") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.0") (d #t) (k 0)) (d (n "eventually-core") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "eventually-util") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "redis") (r "^0.17") (f (quote ("r2d2" "tokio-rt-core"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "testcontainers") (r "^0.11") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("sync" "macros"))) (d #t) (k 2)))) (h "09sd6hjm5r74q29n39xc3ra9slxdy6yp698jd12a5rlldsyrisy4")))
+

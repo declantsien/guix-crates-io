@@ -1,0 +1,8 @@
+(define-module (crates-io ap ol apollo-cw-asset) #:use-module (crates-io))
+
+(define-public crate-apollo-cw-asset-0.1.0 (c (n "apollo-cw-asset") (v "0.1.0") (d (list (d (n "cosmwasm-std") (r "^1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0.1") (d #t) (k 0)) (d (n "cw20") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "test-case") (r "^2.2.2") (d #t) (k 2)))) (h "0jjc687ibcq7s9pf4hkk699cqlzzcsz2njxpq91p7g947fpx7zch") (f (quote (("default"))))))
+
+(define-public crate-apollo-cw-asset-0.1.1 (c (n "apollo-cw-asset") (v "0.1.1") (d (list (d (n "astroport") (r "^2.8.0") (o #t) (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0.1") (d #t) (k 0)) (d (n "cw20") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "test-case") (r "^2.2.2") (d #t) (k 2)))) (h "1p9bxmwl7ycf6d05wcwi81m5bp4rllgzx0m5vfbc1jadcvh19qv5") (f (quote (("default")))) (s 2) (e (quote (("astroport" "dep:astroport"))))))
+
+(define-public crate-apollo-cw-asset-0.1.2 (c (n "apollo-cw-asset") (v "0.1.2") (d (list (d (n "astroport") (r "^2.8.0") (o #t) (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0.1") (d #t) (k 0)) (d (n "cw20") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "test-case") (r "^2.2.2") (d #t) (k 2)))) (h "0sw7abphs8b4235ciry5iwrzpsdlby5z8c3hhzv54w1hd9004da2") (f (quote (("default")))) (s 2) (e (quote (("astroport" "dep:astroport"))))))
+

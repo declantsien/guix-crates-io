@@ -1,0 +1,4 @@
+(define-module (crates-io ca bi cabin-language) #:use-module (crates-io))
+
+(define-public crate-cabin-language-0.0.1 (c (n "cabin-language") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.13") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "regex-macro") (r "^0.2.0") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "toml_edit") (r "^0.22.12") (d #t) (k 0)) (d (n "unindent") (r "^0.2.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)) (d (n "which") (r "^6.0.1") (d #t) (k 0)))) (h "1pb8izx4sqccdd7b993d4ilzrd24d7c7s4wwg4maxqq4jjjsinz1")))
+

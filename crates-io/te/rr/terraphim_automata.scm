@@ -1,0 +1,4 @@
+(define-module (crates-io te rr terraphim_automata) #:use-module (crates-io))
+
+(define-public crate-terraphim_automata-0.1.0 (c (n "terraphim_automata") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "aho-corasick") (r "^1.0.2") (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.26") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "terraphim_types") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "13p89g7wx4c18f6y06iqv6x8l1cp735vlxrl9d6ij72sga0y80vr")))
+

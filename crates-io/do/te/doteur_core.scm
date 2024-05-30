@@ -1,0 +1,12 @@
+(define-module (crates-io do te doteur_core) #:use-module (crates-io))
+
+(define-public crate-doteur_core-0.5.0 (c (n "doteur_core") (v "0.5.0") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql") (r "^21.0.2") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (o #t) (d #t) (k 0)))) (h "0f5gnjf7mamkimgx4924j38l6v2jnhn7j8pkfwjgll6ibaid38jl") (f (quote (("sqlite_addons" "rusqlite") ("mysql_addons" "mysql"))))))
+
+(define-public crate-doteur_core-0.5.1 (c (n "doteur_core") (v "0.5.1") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql") (r "^21.0.2") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (o #t) (d #t) (k 0)))) (h "15dm04ghz0nbx567bww6pnaarymqbmlwii7dmq61mylf6yxi2a6z") (f (quote (("sqlite_addons" "rusqlite") ("mysql_addons" "mysql"))))))
+
+(define-public crate-doteur_core-0.5.2 (c (n "doteur_core") (v "0.5.2") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql") (r "^22.1.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (o #t) (d #t) (k 0)))) (h "13l4l8b6wsjp36gkg9cfg2ajnsq4bhb4yhqhy8ydck5w5xw5cnj9") (f (quote (("sqlite_addons" "rusqlite") ("mysql_addons" "mysql"))))))
+
+(define-public crate-doteur_core-0.5.3 (c (n "doteur_core") (v "0.5.3") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mysql") (r "^22.2.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (o #t) (d #t) (k 0)))) (h "1n54s2wddkhgs2yydyakbapy2xwnpx9ssmdd3idwla29p5zs3dv2") (f (quote (("sqlite_addons" "rusqlite") ("mysql_addons" "mysql"))))))
+
+(define-public crate-doteur_core-0.5.4 (c (n "doteur_core") (v "0.5.4") (d (list (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mysql") (r "^24.0.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (o #t) (d #t) (k 0)))) (h "1zqviy11137wz8r8qz9fkg7hdaf8jwizq8lbzky3j5h2ywsafjj3") (f (quote (("sqlite_addons" "rusqlite") ("mysql_addons" "mysql"))))))
+

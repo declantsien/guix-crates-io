@@ -1,0 +1,6 @@
+(define-module (crates-io up te uptest-cli) #:use-module (crates-io))
+
+(define-public crate-uptest-cli-0.1.2 (c (n "uptest-cli") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.7") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "libuptest") (r "^0.1.2") (f (quote ("metadatadecode"))) (d #t) (k 0)) (d (n "tokio") (r "^1.27") (f (quote ("full"))) (d #t) (k 0)))) (h "0ww9h51k0zlm72ngkzbg4n0a7m80w4ikv5acfc5xrcv0ylrrg908")))
+
+(define-public crate-uptest-cli-0.1.4 (c (n "uptest-cli") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.7") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "libuptest") (r "^0.1.4") (f (quote ("metadatadecode" "auto-test"))) (d #t) (k 0)) (d (n "tokio") (r "^1.27") (f (quote ("full"))) (d #t) (k 0)))) (h "0irsnrfrp5xcqx563dr2wr47gqqldwfqqv010a7gl2qdfq7qwdaf")))
+

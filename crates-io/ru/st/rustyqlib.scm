@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rustyqlib) #:use-module (crates-io))
+
+(define-public crate-RustyQLib-0.0.1 (c (n "RustyQLib") (v "0.0.1") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "libm") (r "^0.2.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (d #t) (k 0)) (d (n "probability") (r "^0.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)))) (h "0vn8bzj9bp7jia83vy2kib1apv8w9032v126vfckhpfwjq1azb0f")))
+

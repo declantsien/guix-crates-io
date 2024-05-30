@@ -1,0 +1,4 @@
+(define-module (crates-io ra in rain_metadata_cli) #:use-module (crates-io))
+
+(define-public crate-rain_metadata_cli-0.2.0 (c (n "rain_metadata_cli") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "graphql_client") (r "^0.12.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)) (d (n "validator") (r "^0.16") (f (quote ("derive"))) (d #t) (k 0)))) (h "15gr2l3qqjszq0zpda8gymg2hbx9my4bg0x4dg9m0xpxc3df4mp5")))
+

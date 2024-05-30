@@ -1,0 +1,16 @@
+(define-module (crates-io rs ex rsexp) #:use-module (crates-io))
+
+(define-public crate-rsexp-0.1.0 (c (n "rsexp") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 2)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "18yx1ndi184lw11knylzk3kjmpv2sg9qahwdbwginc2dq0567yav")))
+
+(define-public crate-rsexp-0.1.1 (c (n "rsexp") (v "0.1.1") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 2)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "11lpxv36hn2glrra9zz6rm2gkkxh285dcy2vf91ph7jk13q30pc7")))
+
+(define-public crate-rsexp-0.1.2 (c (n "rsexp") (v "0.1.2") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 2)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rsexp-derive") (r "^0.1.0") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "115s80h9y8zk46q1gvsxslznz2k0fdyiimx625rcjdr8fy8qr054")))
+
+(define-public crate-rsexp-0.2.0 (c (n "rsexp") (v "0.2.0") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 2)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rsexp-derive") (r "^0.2.0") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "03qd753w1i170rgb872jpkncrbbgzhl5rh3dm411l2x0ws90p5ny")))
+
+(define-public crate-rsexp-0.2.1 (c (n "rsexp") (v "0.2.1") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 2)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rsexp-derive") (r "^0.2.1") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "0dij44ahc61l2ynp2crfm2z6k8sizlxsf1ain07dykxj8hr1q08v")))
+
+(define-public crate-rsexp-0.2.2 (c (n "rsexp") (v "0.2.2") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 2)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rsexp-derive") (r "^0.2.2") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "1yypxi3wjlzc5id582l3ifs4jh4zpx57ijz7jclxr737ckj9ia5g")))
+
+(define-public crate-rsexp-0.2.3 (c (n "rsexp") (v "0.2.3") (d (list (d (n "clap") (r "^3.0.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 2)) (d (n "rsexp-derive") (r "^0.2.3") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "1w8b68009p5609bk88lwddff85swaa3jms97ql7jrm4icjdrmpy3")))
+

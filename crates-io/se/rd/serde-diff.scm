@@ -1,0 +1,20 @@
+(define-module (crates-io se rd serde-diff) #:use-module (crates-io))
+
+(define-public crate-serde-diff-0.1.0 (c (n "serde-diff") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0w4d75jp8irghsxipk8bx5cy5kam7iz4sfd333wa0vn84dq5c81s")))
+
+(define-public crate-serde-diff-0.1.1 (c (n "serde-diff") (v "0.1.1") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.1.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0yrhqwk9wi3fi7x9bz9h8iazxji3dkanff6rcrhyyp5x856khnq8")))
+
+(define-public crate-serde-diff-0.1.2 (c (n "serde-diff") (v "0.1.2") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1r9mw4dq6fsjqrflnp5w2iqwhd0bywqx4p06bx61wpsm4mniy55j")))
+
+(define-public crate-serde-diff-0.1.3 (c (n "serde-diff") (v "0.1.3") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.1.3") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0ndnb7s19a80c0pzkphnn71sx7ic32wi7wz1r2545zi2j6c70ksm")))
+
+(define-public crate-serde-diff-0.2.0 (c (n "serde-diff") (v "0.2.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "rmp-serde") (r "^0.14") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1nxf58z0xbijxhryfdzhxj162ircyiggl3nh8ddg4ffr9vicyczb")))
+
+(define-public crate-serde-diff-0.3.0 (c (n "serde-diff") (v "0.3.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "rmp-serde") (r "^0.14") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "17x97kq5p796d622jwaqhn3nrvr35y3sc3r43v33zrkqhpkxblk0")))
+
+(define-public crate-serde-diff-0.3.1 (c (n "serde-diff") (v "0.3.1") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "rmp-serde") (r "^0.14") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.3.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0av162q8vqad06fafid9gyfis9csd2ri3ix5hdv1lqpgpmligw3h")))
+
+(define-public crate-serde-diff-0.4.0 (c (n "serde-diff") (v "0.4.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "rmp-serde") (r "^0.15.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0v6ppcz3c42ny5i0sd3hq4fj2i9z3lxg4zmb0jral659j3hl9v2c")))
+
+(define-public crate-serde-diff-0.4.1 (c (n "serde-diff") (v "0.4.1") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "rmp-serde") (r "^0.15.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-diff-derive") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (f (quote ("deserialize_in_place"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1sn5aqkiqy24nq6wwy5s62h7a8k71spymb93klrnlmga9n86v58b")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# b bty) #:use-module (crates-io))
+
+(define-public crate-bty-0.1.0-pre.1 (c (n "bty") (v "0.1.0-pre.1") (d (list (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "sqlx-core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "1vfwfmyc42qxw2r1ignx8rjjlzy35wgjmpwdq7nls8hrv1afn56b") (f (quote (("default" "serde")))) (s 2) (e (quote (("uuid" "dep:uuid") ("sqlx" "dep:sqlx-core") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-bty-0.1.0 (c (n "bty") (v "0.1.0") (d (list (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "sqlx-core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (o #t) (k 0)))) (h "0mz5d8qyvp72887l51d1glqpkvhy51qr8rzjvadkhc8nhfvxcb83") (f (quote (("default" "serde")))) (s 2) (e (quote (("uuid" "dep:uuid") ("sqlx" "dep:sqlx-core") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-bty-0.2.0 (c (n "bty") (v "0.2.0") (d (list (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "sqlx-core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1") (o #t) (k 0)))) (h "1lg3vm7vpwkazp69qy4sdd6q4p88qqlfv6xg4xcrpkl27hy0hjwf") (f (quote (("uuid-v7" "uuid" "uuid/v7") ("uuid-v4" "uuid" "uuid/v4") ("default" "serde")))) (s 2) (e (quote (("uuid" "dep:uuid") ("sqlx" "dep:sqlx-core") ("serde" "dep:serde")))) (r "1.60")))
+

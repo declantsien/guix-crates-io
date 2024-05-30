@@ -1,0 +1,4 @@
+(define-module (crates-io ze no zenoh-ext-examples) #:use-module (crates-io))
+
+(define-public crate-zenoh-ext-examples-0.11.0-rc.1 (c (n "zenoh-ext-examples") (v "0.11.0-rc.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "flume") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (f (quote ("derive" "default"))) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt" "sync" "time" "macros" "io-std"))) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zenoh") (r "^0.11.0-rc.1") (f (quote ("unstable"))) (k 0)) (d (n "zenoh-ext") (r "^0.11.0-rc.1") (d #t) (k 0)) (d (n "zenoh-util") (r "^0.11.0-rc.1") (d #t) (k 0)))) (h "1zzrczxav2ivhnbymawr5lj9y3g1282fwiv634p2qr9np8ddg5zp") (f (quote (("unstable") ("default")))) (r "1.66.1")))
+

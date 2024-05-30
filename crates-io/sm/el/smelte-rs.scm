@@ -1,0 +1,4 @@
+(define-module (crates-io sm el smelte-rs) #:use-module (crates-io))
+
+(define-public crate-smelte-rs-0.1.0 (c (n "smelte-rs") (v "0.1.0") (d (list (d (n "cblas-sys") (r "^0.1.4") (o #t) (k 0)) (d (n "half") (r "^2.2.1") (f (quote ("num-traits"))) (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (k 0)) (d (n "matrixmultiply") (r "^0.3.2") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (o #t) (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (k 2)) (d (n "safetensors") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (f (quote ("serde_derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 2)))) (h "1429ly5fz8zn2phnzjkz2nqp1xp6lk8qkvmsv3yik3xa0kxkgnhv") (f (quote (("matrixmultiply" "matrixmultiply/threading") ("intel-mkl" "cblas") ("default" "cblas") ("cblas" "cblas-sys")))) (s 2) (e (quote (("f16" "dep:half" "dep:num-traits"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io so la solarti-record) #:use-module (crates-io))
+
+(define-public crate-solarti-record-0.1.0 (c (n "solarti-record") (v "0.1.0") (d (list (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.14.12") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.14.12") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.14.12") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1r54hidx9q2xxz7m6pv7276qzssrrarn811rbm6hsgqp1l8rd9cx") (f (quote (("test-sbf") ("no-entrypoint"))))))
+
+(define-public crate-solarti-record-0.1.1 (c (n "solarti-record") (v "0.1.1") (d (list (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "miraland-program") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "miraland-program-test") (r "=1.14.17-rc4") (d #t) (k 2)) (d (n "miraland-sdk") (r "=1.14.17-rc4") (d #t) (k 2)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1zwp88hnl4w20i5m88flpvz8vypvhvca8h2byp20xkkpv7injw02") (f (quote (("test-sbf") ("no-entrypoint"))))))
+

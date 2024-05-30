@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rusty_ally) #:use-module (crates-io))
+
+(define-public crate-rusty_ally-0.1.0 (c (n "rusty_ally") (v "0.1.0") (d (list (d (n "chrono") (r "^0.2.0") (d #t) (k 0)) (d (n "diesel") (r "^0.5.0") (d #t) (k 0)) (d (n "diesel_codegen") (r "^0.5.0") (f (quote ("sqlite"))) (k 0)) (d (n "diesel_codegen") (r "^0.5.0") (f (quote ("sqlite"))) (k 1)) (d (n "dotenv") (r "^0.8.0") (d #t) (k 0)) (d (n "dotenv_codegen") (r "^0.8.0") (o #t) (d #t) (k 1)) (d (n "dotenv_macros") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "syntex") (r "^0.26.0") (o #t) (d #t) (k 1)))) (h "1ah21bbfkndwjsmnjdh9y3r6vjq7hipmfnbs7hrx5llk7l0v48yq") (f (quote (("with-syntex" "syntex" "diesel_codegen/with-syntex" "dotenv_codegen") ("nightly" "diesel/unstable" "diesel_codegen/nightly" "dotenv_macros") ("default" "nightly"))))))
+
+(define-public crate-rusty_ally-0.2.0 (c (n "rusty_ally") (v "0.2.0") (d (list (d (n "chrono") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "diesel") (r "^0.5.0") (d #t) (k 0)) (d (n "diesel_codegen") (r "^0.5.0") (f (quote ("sqlite"))) (k 0)) (d (n "dotenv") (r "^0.8.0") (d #t) (k 0)) (d (n "dotenv_macros") (r "^0.8.0") (d #t) (k 0)))) (h "1r6v25kff22107ch1ij1p07mjxcn29p9pskrp33vqbwhg4f0mvrk")))
+
+(define-public crate-rusty_ally-0.2.1 (c (n "rusty_ally") (v "0.2.1") (d (list (d (n "chrono") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "diesel") (r "^0.5.0") (d #t) (k 0)) (d (n "diesel_codegen") (r "^0.5.0") (f (quote ("sqlite"))) (k 0)) (d (n "dotenv") (r "^0.8.0") (d #t) (k 0)) (d (n "dotenv_macros") (r "^0.8.0") (d #t) (k 0)))) (h "0agdnrnca98xcppyzk5my8pz7wrzcfw5wd1885siazijh9n20n4v")))
+
+(define-public crate-rusty_ally-0.2.2 (c (n "rusty_ally") (v "0.2.2") (d (list (d (n "chrono") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "diesel") (r "^0.5.0") (d #t) (k 0)) (d (n "diesel_codegen") (r "^0.5.0") (f (quote ("sqlite"))) (k 0)) (d (n "dotenv") (r "^0.8.0") (d #t) (k 0)) (d (n "dotenv_macros") (r "^0.8.0") (d #t) (k 0)))) (h "0r3bzp470vcmpsysb35m5r0cfvh62w9m4bv5hj4q2axklp7gs8ll")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io li bu libutp-sys) #:use-module (crates-io))
+
+(define-public crate-libutp-sys-0.1.0 (c (n "libutp-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "nix") (r "^0.18.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "socket2") (r "^0.3.15") (d #t) (k 1)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1vz60m58lccn2b8879ssyrhicw3vrlrdnkc28v1nvjsalddvkbxd") (f (quote (("build"))))))
+
+(define-public crate-libutp-sys-0.1.1 (c (n "libutp-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "nix") (r "^0.18.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "socket2") (r "^0.3.15") (d #t) (k 1)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1kh2aja4q0h24rppxzkahfcjygb5a4ga5gaf4mnp494976hr0al3") (f (quote (("build")))) (l "libutp")))
+
+(define-public crate-libutp-sys-0.1.2 (c (n "libutp-sys") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "nix") (r "^0.18.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "socket2") (r "^0.3.15") (d #t) (k 1)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0081q25i8kycbf6jzqy99p2c6zyansx943wdx0sx34k32v8ryn8h") (l "libutp")))
+
+(define-public crate-libutp-sys-0.1.3 (c (n "libutp-sys") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "nix") (r "^0.18.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "socket2") (r "^0.3.15") (d #t) (k 1)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0hz71nkmlkkya0harrfcq8ljhmv32vjb1zw573b8h0j9rds5jyi3") (l "libutp")))
+
+(define-public crate-libutp-sys-0.1.4 (c (n "libutp-sys") (v "0.1.4") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "nix") (r "^0.18.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "socket2") (r "^0.3.15") (d #t) (k 1)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0i9ccyg2yqif7q1d29ki8vi1y8s4hg94lqxdlc33kcrh1cdld274") (l "libutp")))
+

@@ -1,0 +1,42 @@
+(define-module (crates-io me tr metrics_server) #:use-module (crates-io))
+
+(define-public crate-metrics_server-0.1.0 (c (n "metrics_server") (v "0.1.0") (d (list (d (n "tiny_http") (r "^0.10") (d #t) (k 0)))) (h "09n1acya9q3b32z1vsqbwf0bakga03dcyzxpnxm40y88cnmsmbgh") (r "1.58")))
+
+(define-public crate-metrics_server-0.1.1 (c (n "metrics_server") (v "0.1.1") (d (list (d (n "tiny_http") (r "^0.10") (d #t) (k 0)))) (h "00z7lk9y6h36s71bxhk9gfszmi4sdyns69vys6xcnw1ipzyjs20v") (r "1.58")))
+
+(define-public crate-metrics_server-0.2.0 (c (n "metrics_server") (v "0.2.0") (d (list (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "10f53pl1jp5aszkpnkkp6hr74i46aa9ffb54dflddxigxxqi0vfl") (r "1.58")))
+
+(define-public crate-metrics_server-0.3.0 (c (n "metrics_server") (v "0.3.0") (d (list (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "1w5r0y7j01cdgrndqcz70jan759ngrpik3x1j7kfy9vs2vas3nwm") (r "1.58")))
+
+(define-public crate-metrics_server-0.4.0 (c (n "metrics_server") (v "0.4.0") (d (list (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (f (quote ("ssl-rustls"))) (d #t) (k 0)))) (h "1i4vp02x7g8wjin7a6g9x2yl5mkcc2fdz14kbyprnw60q3dlq437") (r "1.58")))
+
+(define-public crate-metrics_server-0.4.1 (c (n "metrics_server") (v "0.4.1") (d (list (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (f (quote ("ssl-rustls"))) (d #t) (k 0)))) (h "1ff82jzg47pc1sfx2l52r499xqi0cn20wjmb87gq3f27j2dgzf6q") (r "1.58")))
+
+(define-public crate-metrics_server-0.5.0 (c (n "metrics_server") (v "0.5.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (f (quote ("ssl-rustls"))) (d #t) (k 0)))) (h "1lxd0skjzvrdxmjm640znx9knwqm6nmpwp0kajzlh3064v52lhca") (r "1.58")))
+
+(define-public crate-metrics_server-0.6.0 (c (n "metrics_server") (v "0.6.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (f (quote ("ssl-rustls"))) (d #t) (k 0)))) (h "1v4zz6580d1rkqbpzx4q3d6wl2jryi4s69qflx7fn0ad4vlb6isn") (r "1.58")))
+
+(define-public crate-metrics_server-0.6.1 (c (n "metrics_server") (v "0.6.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (f (quote ("ssl-rustls"))) (d #t) (k 0)))) (h "0fcnmnpbprs0xsxny3lybifzdqd36v0isfxb77vix83zjb17flmw") (r "1.58")))
+
+(define-public crate-metrics_server-0.7.0 (c (n "metrics_server") (v "0.7.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.16") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (f (quote ("ssl-rustls"))) (d #t) (k 0)))) (h "06pagy0gnlp24mrah0ppdxvpzwrdflzmq081xx53v54qa9i9wv1b") (r "1.58")))
+
+(define-public crate-metrics_server-0.8.0 (c (n "metrics_server") (v "0.8.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.16") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "1dxlgxml5pvw0r2kxw94cipxylqa95791rcfijadi1m35fc436vq") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.8.1 (c (n "metrics_server") (v "0.8.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.16") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "1ca1va0sx9nb4zlpb2bshcgbm1ybjkgayxlq45sw15zniaslgw1b") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.9.0 (c (n "metrics_server") (v "0.9.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.18") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "059hrgn81ql0i0sgajnvnbw3dqff7k2lqkw53r0p765gm0bygcdy") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.10.0 (c (n "metrics_server") (v "0.10.0") (d (list (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.18") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "1d2118pwplrs30argp0rhf4la754frxfgj684d6ywlxb9qjdn8zn") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.10.1 (c (n "metrics_server") (v "0.10.1") (d (list (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.18") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "0dbaw3rkmv66s00b8ljid7hmncaibghnps3hxv1r3d5a12wskqcj") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.11.0 (c (n "metrics_server") (v "0.11.0") (d (list (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.18") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)))) (h "1jqvanf7r5497dx315753kdd5czam9xlsrxpmmxnwajqq2skxrha") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.12.0 (c (n "metrics_server") (v "0.12.0") (d (list (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.19") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)))) (h "0d037aijaly78q5vza6gx15sgl3fljjzxgngxcq5jrvypx5flaf0") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.13.0 (c (n "metrics_server") (v "0.13.0") (d (list (d (n "ctrlc") (r "^3.4") (f (quote ("termination"))) (d #t) (k 2)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.21") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)))) (h "1h0vwgzdvv6cagzcd9b2ln2wxcddr7js3kkdx9rbyj35yvgb4j54") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.58")))
+
+(define-public crate-metrics_server-0.14.0 (c (n "metrics_server") (v "0.14.0") (d (list (d (n "ctrlc") (r "^3.4") (f (quote ("termination"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "http") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.22") (d #t) (k 2)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "time") (r "^0.3") (f (quote ("formatting"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)))) (h "1cn7lqi7by63np0d3favvqgw3bgdlb41hrjyn81rz8vp6zpj4l7s") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.63")))
+
+(define-public crate-metrics_server-0.15.0 (c (n "metrics_server") (v "0.15.0") (d (list (d (n "ctrlc") (r "^3.4") (f (quote ("termination"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "http") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.22") (d #t) (k 2)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "time") (r "^0.3") (f (quote ("formatting"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)))) (h "1c5rvk85cgclqz5fiv3rz9bzjvwmrr7m5bjqz0a10mgalycnk2c4") (f (quote (("tls" "tiny_http/ssl-rustls") ("default")))) (r "1.63")))
+

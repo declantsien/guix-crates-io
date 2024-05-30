@@ -1,0 +1,6 @@
+(define-module (crates-io th is thisthat) #:use-module (crates-io))
+
+(define-public crate-thisthat-0.1.0 (c (n "thisthat") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-pickle") (r "^1.0") (d #t) (k 0)) (d (n "serde-transcode") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "06pdcfl0ga9266wfy5habxjbhphffmhnq2q25xll7a22mbfls6ij")))
+
+(define-public crate-thisthat-0.1.3 (c (n "thisthat") (v "0.1.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "form_urlencoded") (r "^1") (d #t) (k 0)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-pickle") (r "^1.0") (d #t) (k 0)) (d (n "serde-transcode") (r "^1") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1sgbq91wxsgnpr2w6n4yrhnq94hrhf91b3735c10j1hlz0s6020l")))
+

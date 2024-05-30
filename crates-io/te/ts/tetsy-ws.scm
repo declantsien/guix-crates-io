@@ -1,0 +1,6 @@
+(define-module (crates-io te ts tetsy-ws) #:use-module (crates-io))
+
+(define-public crate-tetsy-ws-0.0.0 (c (n "tetsy-ws") (v "0.0.0") (h "1za59wkgcm2cb53cxq3x201kipzd4qbx1xmvx07lmyjxfb6hgnyg") (y #t)))
+
+(define-public crate-tetsy-ws-0.10.0 (c (n "tetsy-ws") (v "0.10.0") (d (list (d (n "byteorder") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 2)) (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "httparse") (r "^1.2.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (o #t) (d #t) (k 0)) (d (n "libz-sys") (r "^1.0.18") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "mio-extras") (r "^2.0") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "sha-1") (r "^0.8.0") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "term") (r "^0.5.1") (d #t) (k 2)) (d (n "time") (r "^0.1.39") (d #t) (k 2)) (d (n "url") (r "^2.0.0") (d #t) (k 0)))) (h "11c9ziq5xd5ak5g8glcvj19r128jflgk049bj1qyhzjs2x00rn4a") (f (quote (("ssl" "openssl") ("permessage-deflate" "libz-sys" "libc") ("nativetls" "native-tls") ("default"))))))
+

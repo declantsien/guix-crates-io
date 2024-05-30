@@ -1,0 +1,4 @@
+(define-module (crates-io gw di gwdiff) #:use-module (crates-io))
+
+(define-public crate-gwdiff-1.0.0 (c (n "gwdiff") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "argh") (r "^0.1.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "comde") (r "^0.1.0") (f (quote ("snappy" "deflate" "zstandard" "brotli"))) (k 0)) (d (n "crossbeam-utils") (r "^0.7.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "gawires-diff") (r "1.*") (d #t) (k 0)) (d (n "gawires-patch") (r "1.*") (d #t) (k 0)) (d (n "hmac-sha256") (r "^0.1.6") (d #t) (k 0)) (d (n "integer-encoding") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "pipe") (r "^0.3.0") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)))) (h "0qqc6annp3vkyxga2vrba35qx15vy6f0l29zpj747v61ixrgcpfb")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io vi ol violet_crystal) #:use-module (crates-io))
+
+(define-public crate-violet_crystal-0.1.0 (c (n "violet_crystal") (v "0.1.0") (d (list (d (n "askama") (r "^0.12.1") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "jsonxf") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simplelog") (r "^0.12.1") (d #t) (k 0)) (d (n "syn-select") (r "^0.3.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1p0g9cwkv5sj7kacvy8j2i2asgsbpq5dq296gbjiwl54rwb10ypr")))
+
+(define-public crate-violet_crystal-0.1.1 (c (n "violet_crystal") (v "0.1.1") (d (list (d (n "askama") (r "^0.12.1") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "jsonxf") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simplelog") (r "^0.12.1") (d #t) (k 0)) (d (n "syn-select") (r "^0.3.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0d2ckqwqxk72w1zwh1km0iabbpyrcmvgjphylhdsgji72glq72f6")))
+

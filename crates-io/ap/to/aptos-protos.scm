@@ -1,0 +1,14 @@
+(define-module (crates-io ap to aptos-protos) #:use-module (crates-io))
+
+(define-public crate-aptos-protos-0.2.1 (c (n "aptos-protos") (v "0.2.1") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (k 0)) (d (n "pbjson") (r "^0.4.0") (d #t) (k 0)) (d (n "prost") (r "^0.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.81") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0x58z12fgyqxl1chzq5bira1qgazd0irhab2d8ss4kf6khcxrkin") (y #t)))
+
+(define-public crate-aptos-protos-0.2.6 (c (n "aptos-protos") (v "0.2.6") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (k 0)) (d (n "pbjson") (r "^0.4.0") (d #t) (k 0)) (d (n "prost") (r "^0.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.81") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "13md97xqap0ap3dqn5wc7fiqgmlgnz01anlwp9c8635b4byypylp") (y #t)))
+
+(define-public crate-aptos-protos-0.2.7 (c (n "aptos-protos") (v "0.2.7") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (k 0)) (d (n "pbjson") (r "^0.4.0") (d #t) (k 0)) (d (n "prost") (r "^0.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.81") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0qgcz12c8rnzqglpqpl97hcfaamz8qn8zww67bf9023g7rp231nw") (y #t)))
+
+(define-public crate-aptos-protos-1.1.3 (c (n "aptos-protos") (v "1.1.3") (d (list (d (n "futures-core") (r "^0.3.29") (d #t) (k 0)) (d (n "pbjson") (r "^0.5.1") (d #t) (k 0)) (d (n "prost") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "tonic") (r "^0.10.2") (d #t) (k 0)))) (h "0f262s9xi983fs1x6qxlj8f2l90mmp55sr4qi931h0vf8srpgwq8") (y #t)))
+
+(define-public crate-aptos-protos-1.1.2 (c (n "aptos-protos") (v "1.1.2") (d (list (d (n "futures-core") (r "^0.3.25") (d #t) (k 0)) (d (n "pbjson") (r "^0.5.1") (d #t) (k 0)) (d (n "prost") (r "^0.12.1") (d #t) (k 0)) (d (n "prost-types") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "=1.0.152") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "tonic") (r "^0.10.2") (f (quote ("tls-roots" "transport" "prost" "gzip" "codegen"))) (d #t) (k 0)))) (h "0gkpcdkn7pa8y3bg2ckk2v7ycp9acwjd0df024syixp9bkrss1vv") (y #t)))
+
+(define-public crate-aptos-protos-1.1.2-a (c (n "aptos-protos") (v "1.1.2-a") (d (list (d (n "futures-core") (r "^0.3.25") (d #t) (k 0)) (d (n "pbjson") (r "^0.5.1") (d #t) (k 0)) (d (n "prost") (r "^0.12.1") (d #t) (k 0)) (d (n "prost-types") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "tonic") (r "^0.10.2") (f (quote ("tls-roots" "transport" "prost" "gzip" "codegen"))) (d #t) (k 0)))) (h "0qjh5iw75hgrkrvp4d9ygmvzdkda18y4ikrv331br88y5g3rxabr") (y #t)))
+

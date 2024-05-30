@@ -1,0 +1,14 @@
+(define-module (crates-io in dx indxdb) #:use-module (crates-io))
+
+(define-public crate-indxdb-0.1.1 (c (n "indxdb") (v "0.1.1") (d (list (d (n "js-sys") (r "^0.3.56") (d #t) (k 0)) (d (n "rexie") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.79") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "1hzcdjbaq8qk1p40xkd0s99lhrn18kg2ys1sc54na19l8fmig1ph")))
+
+(define-public crate-indxdb-0.1.2 (c (n "indxdb") (v "0.1.2") (d (list (d (n "js-sys") (r "^0.3.56") (d #t) (k 0)) (d (n "rexie") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.79") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "1qbrpv1vyvb0jjwzg401hi27m4610j17y75njyj3lv5wfhvgqiaz")))
+
+(define-public crate-indxdb-0.1.3 (c (n "indxdb") (v "0.1.3") (d (list (d (n "js-sys") (r "^0.3.56") (d #t) (k 0)) (d (n "rexie") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.79") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "1gykvk4c2y5znfffwin5phc9xq1q1f4r3kh820hd1nnbb2mqg6y8")))
+
+(define-public crate-indxdb-0.2.0 (c (n "indxdb") (v "0.2.0") (d (list (d (n "js-sys") (r "^0.3.56") (d #t) (k 0)) (d (n "rexie") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.79") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "15856c5m96xy6nvlgcimph9q6505ylyf5sxs6jby42sw99wq5si1")))
+
+(define-public crate-indxdb-0.3.0 (c (n "indxdb") (v "0.3.0") (d (list (d (n "js-sys") (r "^0.3.61") (d #t) (k 0)) (d (n "rexie") (r "^0.4.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.84") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "0z7dh6xd7lfvxy6w6q6d540175glbxd6vn430i0b3sqby4jy664j")))
+
+(define-public crate-indxdb-0.4.0 (c (n "indxdb") (v "0.4.0") (d (list (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "rexie") (r "^0.4.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)))) (h "1021k764gh5w86ak7yh32yxy0lv2jw52dqsax9101qwhpybpds8x")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io cl ub clubhouse-api) #:use-module (crates-io))
+
+(define-public crate-clubhouse-api-1.0.0 (c (n "clubhouse-api") (v "1.0.0") (d (list (d (n "burgundy") (r "^0.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "structopt") (r "^0.2.12") (d #t) (k 2)) (d (n "structopt-derive") (r "^0.2.12") (d #t) (k 2)) (d (n "uuid") (r "^0.7.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0aqzb3l5s4lmq6dggx8vq24vgsvass5n9i3dciyqlm2qz3f3hava")))
+
+(define-public crate-clubhouse-api-1.1.0 (c (n "clubhouse-api") (v "1.1.0") (d (list (d (n "burgundy") (r "^0.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "structopt") (r "^0.2.12") (d #t) (k 2)) (d (n "structopt-derive") (r "^0.2.12") (d #t) (k 2)) (d (n "uuid") (r "^0.7.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0canlvj91hyjsrcm0xvqaz75zba323p0sfckl9cnhxbmh9vgj0ab")))
+
+(define-public crate-clubhouse-api-1.1.1 (c (n "clubhouse-api") (v "1.1.1") (d (list (d (n "burgundy") (r "^0.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "structopt") (r "^0.2.12") (d #t) (k 2)) (d (n "structopt-derive") (r "^0.2.12") (d #t) (k 2)) (d (n "uuid") (r "^0.7.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1p9xx46ii6f4sq3pa1nyzbyjv8jqx8s8alpmjyvypfzwgpq3lhq3")))
+

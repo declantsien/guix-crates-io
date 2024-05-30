@@ -1,0 +1,10 @@
+(define-module (crates-io et hs ethsign-crypto) #:use-module (crates-io))
+
+(define-public crate-ethsign-crypto-0.1.0 (c (n "ethsign-crypto") (v "0.1.0") (d (list (d (n "aes-ctr") (r "^0.3") (d #t) (k 0)) (d (n "hmac") (r "^0.7") (d #t) (k 0)) (d (n "parity-crypto") (r "^0.3") (d #t) (k 2)) (d (n "pbkdf2") (r "^0.3") (f (quote ("parallel"))) (k 0)) (d (n "scrypt") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 0)))) (h "05y7pfn7rzxqlinh2j781al9b91xhzz920xkv63bw0a9y669jf82")))
+
+(define-public crate-ethsign-crypto-0.2.0 (c (n "ethsign-crypto") (v "0.2.0") (d (list (d (n "aes-ctr") (r "^0.3.0") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "parity-crypto") (r "^0.4") (d #t) (k 2)) (d (n "pbkdf2") (r "^0.3.0") (f (quote ("parallel"))) (k 0)) (d (n "scrypt") (r "^0.2.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 0)))) (h "1939xgijq6dv99a4rmfkw4rczis687yc2961gbdcnwr7gnvcf9i6")))
+
+(define-public crate-ethsign-crypto-0.2.1 (c (n "ethsign-crypto") (v "0.2.1") (d (list (d (n "aes-ctr") (r "^0.3.0") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "parity-crypto") (r "^0.4") (d #t) (k 2)) (d (n "pbkdf2") (r "^0.3.0") (f (quote ("parallel"))) (k 0)) (d (n "scrypt") (r "^0.2.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 0)))) (h "0lqp3g6fz4737phpi8vb5b6s194y58j2l7pm0hjhln2xs1lf0qjf")))
+
+(define-public crate-ethsign-crypto-0.3.0 (c (n "ethsign-crypto") (v "0.3.0") (d (list (d (n "aes") (r "^0.8.0") (k 0)) (d (n "ctr") (r "^0.9.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12.0") (d #t) (k 0)) (d (n "parity-crypto") (r "^0.9") (d #t) (k 2)) (d (n "pbkdf2") (r "^0.12.1") (f (quote ("parallel"))) (k 0)) (d (n "scrypt") (r "^0.11") (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.0") (f (quote ("keccak"))) (d #t) (k 0)))) (h "0gj24lhqbz75cj6v1yfjmpxf62ppwagfr2a1mvn1m9vym8f4jxk6")))
+

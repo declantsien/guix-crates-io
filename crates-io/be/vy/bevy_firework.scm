@@ -1,0 +1,8 @@
+(define-module (crates-io be vy bevy_firework) #:use-module (crates-io))
+
+(define-public crate-bevy_firework-0.1.0 (c (n "bevy_firework") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_utilitarian") (r "^0.2.0") (d #t) (k 0)) (d (n "bevy_xpbd_3d") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1grwjnl6vrchg4519r2wwsv56xg0nnn1dg5kf2r9yanhvhdp9bq7") (f (quote (("default" "physics_xbpd")))) (s 2) (e (quote (("physics_xbpd" "dep:bevy_xpbd_3d"))))))
+
+(define-public crate-bevy_firework-0.2.0 (c (n "bevy_firework") (v "0.2.0") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_utilitarian") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_xpbd_3d") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "1wxhycfb4v2jym1i5v02qpys2dlsfw96yjz3ra6mbk5qg52yc5fd") (f (quote (("default" "physics_xbpd")))) (s 2) (e (quote (("physics_xbpd" "dep:bevy_xpbd_3d"))))))
+
+(define-public crate-bevy_firework-0.3.0 (c (n "bevy_firework") (v "0.3.0") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 0)) (d (n "bevy_utilitarian") (r "^0.4") (d #t) (k 0)) (d (n "bevy_xpbd_3d") (r "^0.4") (f (quote ("serialize"))) (o #t) (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "137kj3a5cx2v0c08510q37z9r5qkzny9h0sbpx3pvkgwxrv77b4w") (f (quote (("default" "physics_xpbd")))) (s 2) (e (quote (("physics_xpbd" "dep:bevy_xpbd_3d"))))))
+

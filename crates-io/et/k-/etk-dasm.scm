@@ -1,0 +1,6 @@
+(define-module (crates-io et k- etk-dasm) #:use-module (crates-io))
+
+(define-public crate-etk-dasm-0.2.1 (c (n "etk-dasm") (v "0.2.1") (d (list (d (n "etk-4byte") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "etk-asm") (r "^0.2.1") (d #t) (k 0)) (d (n "etk-cli") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "snafu") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (o #t) (d #t) (k 0)))) (h "0fxm5ila7z0id5v6xkpj986nfbjan0aigkd4y67cg6b93b0h4pnb") (f (quote (("cli" "structopt" "etk-cli" "snafu" "etk-4byte"))))))
+
+(define-public crate-etk-dasm-0.3.0 (c (n "etk-dasm") (v "0.3.0") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "etk-4byte") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "etk-asm") (r "^0.3.0") (d #t) (k 0)) (d (n "etk-cli") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "etk-ops") (r "^0.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "snafu") (r "^0.7.1") (o #t) (d #t) (k 0)))) (h "0ngnd2a8vw04r6ykfmaaq6q719h2v22zzyjvlw6ir56vs4z0fyxw") (f (quote (("cli" "clap" "etk-cli" "snafu" "etk-4byte"))))))
+

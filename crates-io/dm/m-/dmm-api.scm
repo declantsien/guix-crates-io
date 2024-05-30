@@ -1,0 +1,10 @@
+(define-module (crates-io dm m- dmm-api) #:use-module (crates-io))
+
+(define-public crate-dmm-api-0.3.0 (c (n "dmm-api") (v "0.3.0") (d (list (d (n "querystring") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "serde_qs") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "1hn1gw6g8g1h8z53ayhd3q5jn9j10bp68hkk1pyizc6whnbw8gkw")))
+
+(define-public crate-dmm-api-0.4.0 (c (n "dmm-api") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.30") (f (quote ("serde"))) (d #t) (k 0)) (d (n "querystring") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "serde_path_to_error") (r "^0.1.14") (d #t) (k 0)) (d (n "serde_qs") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0yv31mc5hpkkhzh497y3b19k0xkkz6wd6h2hjycw8fhpr2388fkk")))
+
+(define-public crate-dmm-api-0.5.0 (c (n "dmm-api") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.30") (f (quote ("serde"))) (d #t) (k 0)) (d (n "querystring") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0hq4zcr8l7b4azfgaka4swjq1aln326r94zcv38j968b5im0hv3q")))
+
+(define-public crate-dmm-api-0.5.1 (c (n "dmm-api") (v "0.5.1") (d (list (d (n "chrono") (r "^0.4.30") (f (quote ("serde"))) (d #t) (k 0)) (d (n "querystring") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0zdv18djmz4ww22plq4r1sdcm3wvcfys3bnc9a48z07j04h0dmqg")))
+

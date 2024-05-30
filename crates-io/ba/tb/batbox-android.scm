@@ -1,0 +1,6 @@
+(define-module (crates-io ba tb batbox-android) #:use-module (crates-io))
+
+(define-public crate-batbox-android-0.15.0 (c (n "batbox-android") (v "0.15.0") (d (list (d (n "android-activity") (r "^0.4") (f (quote ("native-activity"))) (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "ndk") (r "^0.7") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "ndk-context") (r "^0.1.1") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "oboe") (r "^0.5") (f (quote ("java-interface" "shared-stdcxx"))) (d #t) (t "cfg(target_os = \"android\")") (k 0)))) (h "1s4rz7kdlngysjl8x10l60zcq4fdm75rgsyskxwsjl2gpsdmgpvs")))
+
+(define-public crate-batbox-android-0.16.0 (c (n "batbox-android") (v "0.16.0") (d (list (d (n "android-activity") (r "^0.5") (f (quote ("native-activity"))) (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "ndk") (r "^0.8") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "ndk-context") (r "^0.1.1") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "oboe") (r "^0.5") (f (quote ("java-interface" "shared-stdcxx"))) (d #t) (t "cfg(target_os = \"android\")") (k 0)))) (h "1y4v146pgbd08w6bhr5hz865ncp81bg1h5m30hrm7m47fh04xgmn")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ar ci arci-gamepad-keyboard) #:use-module (crates-io))
+
+(define-public crate-arci-gamepad-keyboard-0.0.6 (c (n "arci-gamepad-keyboard") (v "0.0.6") (d (list (d (n "arci") (r "^0.0.6") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "termios") (r "^0.3") (d #t) (t "cfg(unix)") (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "1l5f3rg9qslc9mp7542k6wk3ikw4lacknygxicml57zb208whmc6")))
+
+(define-public crate-arci-gamepad-keyboard-0.0.7 (c (n "arci-gamepad-keyboard") (v "0.0.7") (d (list (d (n "arci") (r "^0.0.7") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "termios") (r "^0.3") (d #t) (t "cfg(unix)") (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)))) (h "1275k70vhmb4sz3pf3dcya1ap16gkgfll7jgn15hl09m5k9x86ps")))
+
+(define-public crate-arci-gamepad-keyboard-0.1.0 (c (n "arci-gamepad-keyboard") (v "0.1.0") (d (list (d (n "arci") (r "^0.1.0") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("ansi" "env-filter"))) (k 2)) (d (n "termios") (r "^0.3") (d #t) (t "cfg(unix)") (k 0)))) (h "1vrl5a20800avn5mih8alrzabciil9s5q3h60baj43lbn5y8f4zp")))
+

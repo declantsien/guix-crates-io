@@ -1,0 +1,6 @@
+(define-module (crates-io co un countdown-metrics-rs) #:use-module (crates-io))
+
+(define-public crate-countdown-metrics-rs-1.1.1 (c (n "countdown-metrics-rs") (v "1.1.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "cadence") (r "^0.29.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (f (quote ("clock"))) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "json"))) (d #t) (k 0)))) (h "18hs1xnvr29zsr7m0x7y78n73wz6p8c3gzdpvhn94radfmqmzlhx")))
+
+(define-public crate-countdown-metrics-rs-1.2.0 (c (n "countdown-metrics-rs") (v "1.2.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "cadence") (r "^0.29.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (f (quote ("clock"))) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "json"))) (d #t) (k 0)))) (h "02fbqlkfqsm0zz5jmpbnnzrxpy3nf0a5yhd6scj3z1mgnmz6mbs1")))
+

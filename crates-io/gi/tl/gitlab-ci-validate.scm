@@ -1,0 +1,12 @@
+(define-module (crates-io gi tl gitlab-ci-validate) #:use-module (crates-io))
+
+(define-public crate-gitlab-ci-validate-0.0.1 (c (n "gitlab-ci-validate") (v "0.0.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.97") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "1785vy7gz6nxif5av32nxq6k1274pss55qa1hharv03jgsnhk64m")))
+
+(define-public crate-gitlab-ci-validate-0.0.2 (c (n "gitlab-ci-validate") (v "0.0.2") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.97") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "0q8yrvan1nafkh7a3297yknicjw2bl0wzfgyk2rqwyab1njqz32w")))
+
+(define-public crate-gitlab-ci-validate-0.0.3 (c (n "gitlab-ci-validate") (v "0.0.3") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.97") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "1ig86d8rg00fxf1n9nialk8jj9ha21mw91n6alpdqmlyfrmws55a")))
+
+(define-public crate-gitlab-ci-validate-0.0.4 (c (n "gitlab-ci-validate") (v "0.0.4") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "predicates") (r "^1.0.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.9.22") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "0p744pw0bf6dsfh1vxj0ykhzjrbas8arq4pi0v9ffbmxkap8b04s")))
+
+(define-public crate-gitlab-ci-validate-0.1.0 (c (n "gitlab-ci-validate") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "093mxz48qvw4632azdqkb0pdg5qgr67r6c37knycyz46xgb3mkr4")))
+

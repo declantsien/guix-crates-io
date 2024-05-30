@@ -1,0 +1,6 @@
+(define-module (crates-io ct rl ctrlc-async) #:use-module (crates-io))
+
+(define-public crate-ctrlc-async-3.2.1 (c (n "ctrlc-async") (v "3.2.1") (d (list (d (n "async-std") (r "^1") (f (quote ("alloc" "attributes" "default"))) (o #t) (k 0)) (d (n "nix") (r "^0.23") (d #t) (t "cfg(unix)") (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "sync" "time"))) (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("consoleapi" "handleapi" "synchapi" "winbase"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("fileapi" "processenv" "winnt"))) (d #t) (t "cfg(windows)") (k 2)))) (h "1dqqgsx2v3ia90fam45ysanj4ha1jr42m61z8bfxkxhlc6hnmi1k") (f (quote (("termination") ("default" "tokio"))))))
+
+(define-public crate-ctrlc-async-3.2.2 (c (n "ctrlc-async") (v "3.2.2") (d (list (d (n "async-std") (r "^1") (f (quote ("alloc" "attributes" "default"))) (o #t) (k 0)) (d (n "nix") (r "^0.23") (d #t) (t "cfg(unix)") (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "sync" "time"))) (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("consoleapi" "handleapi" "synchapi" "winbase"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("fileapi" "processenv" "winnt"))) (d #t) (t "cfg(windows)") (k 2)))) (h "1891sy7zb8wz10vylyi7f1hzpk29s300wfqa8s1i5ak9wxl9v3jr") (f (quote (("termination") ("default" "tokio"))))))
+

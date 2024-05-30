@@ -1,0 +1,6 @@
+(define-module (crates-io pt it ptit) #:use-module (crates-io))
+
+(define-public crate-ptit-0.1.0 (c (n "ptit") (v "0.1.0") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1.4") (d #t) (k 0)) (d (n "clap_complete_fig") (r "^3.1.5") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rgb2ansi256") (r "^0.1.1") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "termsize") (r "^0.1.6") (d #t) (k 0)))) (h "0xb64qgglryx3pcky6viyplqgzih5h7ki4s93ychj17jf6k2wbk8")))
+
+(define-public crate-ptit-0.1.1 (c (n "ptit") (v "0.1.1") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1.4") (d #t) (k 0)) (d (n "clap_complete_fig") (r "^3.1.5") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rgb2ansi256") (r "^0.1.1") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "termsize") (r "^0.1.6") (d #t) (k 0)))) (h "0lb8vvmmzrcvr184pd2dysrlxhixcyi2wdrafllgva7d0pw9g9a1")))
+

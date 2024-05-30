@@ -1,0 +1,12 @@
+(define-module (crates-io la ce lace_data) #:use-module (crates-io))
+
+(define-public crate-lace_data-0.1.0 (c (n "lace_data") (v "0.1.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lace_utils") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "06171yxkfgfsxwp84h0b6cnh2qx6gvfy6gbkbxa1h4sw69ahgdii")))
+
+(define-public crate-lace_data-0.1.1 (c (n "lace_data") (v "0.1.1") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "lace_utils") (r "^0.1.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "16khq1n9k0cfa6jfrlsqc5qimnx6rhkqbpv67yama0q4lydpnflx")))
+
+(define-public crate-lace_data-0.1.2 (c (n "lace_data") (v "0.1.2") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "lace_utils") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "1hk11wdxhfxs0837388brx8x68dw91njzf2vk9ix3aq8fj0p5f6n")))
+
+(define-public crate-lace_data-0.2.0 (c (n "lace_data") (v "0.2.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "lace_utils") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "1vahywf7di85329p4ndihrxzqrg8ihmq448cqc0r79y1wcmgaci4")))
+
+(define-public crate-lace_data-0.3.0 (c (n "lace_data") (v "0.3.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "lace_utils") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "088742vjc9zqzxi4hjyw7xq3ylxhas4p4886si2birwk7gvg2psq")))
+

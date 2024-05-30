@@ -1,0 +1,4 @@
+(define-module (crates-io bi ts bitsy-lang) #:use-module (crates-io))
+
+(define-public crate-bitsy-lang-0.4.0 (c (n "bitsy-lang") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "lalrpop") (r "^0.20.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.20.0") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.20.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (d #t) (k 0)) (d (n "riscy") (r "^0.4.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (f (quote ("with-file-history"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1p1x29q76jxdigwnn6wayghk6swsymigfsihsdpizab67iqs51z8")))
+

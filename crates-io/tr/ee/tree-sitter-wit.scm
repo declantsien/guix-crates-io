@@ -1,0 +1,6 @@
+(define-module (crates-io tr ee tree-sitter-wit) #:use-module (crates-io))
+
+(define-public crate-tree-sitter-wit-0.1.0 (c (n "tree-sitter-wit") (v "0.1.0") (d (list (d (n "cc") (r "^1.0.87") (d #t) (k 1)) (d (n "heck") (r "^0.5.0") (d #t) (k 2)) (d (n "prettyplease") (r "^0.2.16") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 2)) (d (n "quote") (r "^1.0.35") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "syn") (r "^2.0.55") (d #t) (k 2)) (d (n "tree-sitter") (r ">=0.22.2") (d #t) (k 0)))) (h "11cmh43fg4yf23vxf3j0pj4vxqg3i7xvy89nhvbcfvbrymb4djsp")))
+
+(define-public crate-tree-sitter-wit-0.2.0 (c (n "tree-sitter-wit") (v "0.2.0") (d (list (d (n "cc") (r "^1.0.87") (d #t) (k 1)) (d (n "heck") (r "^0.5.0") (d #t) (k 2)) (d (n "prettyplease") (r "^0.2.16") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 2)) (d (n "quote") (r "^1.0.35") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "syn") (r "^2.0.55") (d #t) (k 2)) (d (n "tree-sitter") (r ">=0.22.2") (d #t) (k 0)))) (h "0dikvq7m0l5wl9h863cgvs9qcj82bxm1ig240wrjhxk1wnx9l814")))
+

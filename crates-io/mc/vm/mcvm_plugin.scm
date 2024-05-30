@@ -1,0 +1,6 @@
+(define-module (crates-io mc vm mcvm_plugin) #:use-module (crates-io))
+
+(define-public crate-mcvm_plugin-0.1.0 (c (n "mcvm_plugin") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1hbwkr75hjg827asp30lxvl466vwvisccfzhydqzp4934lnpvm2a") (f (quote (("default" "api") ("api"))))))
+
+(define-public crate-mcvm_plugin-0.2.0 (c (n "mcvm_plugin") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "mcvm_core") (r "^0.6.0") (d #t) (k 0)) (d (n "mcvm_pkg") (r "^0.13.0") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "12pljli8ncrckw4i3qp2gd3mh3icjmh53xigrhxhkv2n60gx83ss") (f (quote (("default" "api") ("api")))) (r "1.77.0")))
+

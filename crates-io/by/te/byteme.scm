@@ -1,0 +1,14 @@
+(define-module (crates-io by te byteme) #:use-module (crates-io))
+
+(define-public crate-byteme-0.0.1-dev (c (n "byteme") (v "0.0.1-dev") (d (list (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.30") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0ddlhimf4hvbsbb928ljhkj08vm6kn7djk9qx3hjw7c5729pnmh9")))
+
+(define-public crate-byteme-0.0.2-dev (c (n "byteme") (v "0.0.2-dev") (d (list (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.30") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "1p1346081k1xfp7ambwg6m229dwj1gfxxsf406l82154b06z7spi")))
+
+(define-public crate-byteme-0.0.3-dev (c (n "byteme") (v "0.0.3-dev") (d (list (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.30") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0r9ag7vxfgypdmm4xv3qj809i6s6bhk0ysjv8g1jbw7pi3vhk4gl")))
+
+(define-public crate-byteme-0.0.4-dev (c (n "byteme") (v "0.0.4-dev") (d (list (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.30") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0fj7qnmrm5wn3z3kr2d7nnrkq2b8iqqs7zy8kivmwag0l1sm3wkc")))
+
+(define-public crate-byteme-0.0.4 (c (n "byteme") (v "0.0.4") (d (list (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.30") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0mzhigc46qp0n7w394fmy3h9p4pbp0j8k1j8s45nzvaxsy32anb9")))
+
+(define-public crate-byteme-0.0.5 (c (n "byteme") (v "0.0.5") (d (list (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.39") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.63") (f (quote ("diff"))) (d #t) (k 2)))) (h "0frdr3m8kz53ig3hqc3zkw7d6r03zybjkyas4bbm3s59pr8801s5")))
+

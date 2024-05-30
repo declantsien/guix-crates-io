@@ -1,0 +1,4 @@
+(define-module (crates-io de gi degiro-tax-report) #:use-module (crates-io))
+
+(define-public crate-degiro-tax-report-0.1.0 (c (n "degiro-tax-report") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.14") (f (quote ("default" "derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "dateparser") (r "^0.1.6") (d #t) (k 0)) (d (n "decimal") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "rev_lines") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0l2p0gvcci5v31jnz4zrv1pc0aq86y6l9k0q5n88i86pg4ql8fb7")))
+

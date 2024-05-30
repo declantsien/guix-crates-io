@@ -1,0 +1,6 @@
+(define-module (crates-io di ff diffuse) #:use-module (crates-io))
+
+(define-public crate-diffuse-0.1.0 (c (n "diffuse") (v "0.1.0") (d (list (d (n "arctk") (r "^0.11.1") (f (quote ("netcdf" "terminal_size"))) (d #t) (k 0)) (d (n "arctk-attr") (r "0.2.*") (d #t) (k 0)) (d (n "arctk-proc") (r "0.2.*") (d #t) (k 0)) (d (n "ndarray") (r "0.13.*") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "ndarray-stats") (r "0.3.*") (d #t) (k 0)) (d (n "num_cpus") (r "1.13.*") (d #t) (k 0)) (d (n "rayon") (r "1.5.*") (d #t) (k 0)) (d (n "serde") (r "1.0.*") (f (quote ("derive"))) (d #t) (k 0)))) (h "0s2b6lm783gqa1g57qd346iq1m0mpy72d65mqr4xpqgqwa6z13w2")))
+
+(define-public crate-diffuse-0.1.1 (c (n "diffuse") (v "0.1.1") (d (list (d (n "arctk") (r "^0.11.5") (f (quote ("netcdf" "terminal_size"))) (d #t) (k 0)) (d (n "arctk-attr") (r "0.2.*") (d #t) (k 0)) (d (n "arctk-proc") (r "0.2.*") (d #t) (k 0)) (d (n "ndarray") (r "0.13.*") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "ndarray-stats") (r "0.3.*") (d #t) (k 0)) (d (n "num_cpus") (r "1.13.*") (d #t) (k 0)) (d (n "rayon") (r "1.5.*") (d #t) (k 0)) (d (n "serde") (r "1.0.*") (f (quote ("derive"))) (d #t) (k 0)))) (h "1fmzqz0jzkc142660qahw2w5kabs12zan1n1x20fkfw5qlnpq6nr")))
+

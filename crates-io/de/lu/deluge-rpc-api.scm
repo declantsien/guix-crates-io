@@ -1,0 +1,6 @@
+(define-module (crates-io de lu deluge-rpc-api) #:use-module (crates-io))
+
+(define-public crate-deluge-rpc-api-0.0.1 (c (n "deluge-rpc-api") (v "0.0.1") (d (list (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "cookies" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1rr8mz8z0z0j2m2qbbrgib735r57792npqf9qvfdn1kg1vgyp2hm")))
+
+(define-public crate-deluge-rpc-api-0.1.0 (c (n "deluge-rpc-api") (v "0.1.0") (d (list (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "cookies" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1mn402fcy123sgvvb5k6m3jl36wnhcbbhgfpqrrmjqscjzkh7n1a")))
+

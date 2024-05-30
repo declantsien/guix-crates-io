@@ -1,0 +1,8 @@
+(define-module (crates-io ba dg badges) #:use-module (crates-io))
+
+(define-public crate-badges-0.3.0 (c (n "badges") (v "0.3.0") (d (list (d (n "askama") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.16") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rustybuzz") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "11sn0yg5z3bd83i70diazxrfcxrm74c8cq4jv230542fch09qdgz") (f (quote (("font-shape" "once_cell" "rustybuzz") ("default" "font-shape") ("cli" "clap"))))))
+
+(define-public crate-badges-0.3.1 (c (n "badges") (v "0.3.1") (d (list (d (n "askama") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.16") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rustybuzz") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0v8d94rfgs76mn4aj9l82mqryv258ygdd60viqc1l8ydrxvir13l") (f (quote (("font-shape" "once_cell" "rustybuzz") ("default" "font-shape") ("cli" "clap"))))))
+
+(define-public crate-badges-0.3.2 (c (n "badges") (v "0.3.2") (d (list (d (n "askama") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.16") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rustybuzz") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0v35ckfaw6zayqwy63kzq4vfw2gxdh2wiwhvml20drxbzyy8lq9l") (f (quote (("font-shape" "once_cell" "rustybuzz") ("default" "font-shape") ("cli" "clap"))))))
+

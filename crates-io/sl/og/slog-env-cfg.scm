@@ -1,0 +1,22 @@
+(define-module (crates-io sl og slog-env-cfg) #:use-module (crates-io))
+
+(define-public crate-slog-env-cfg-0.1.0 (c (n "slog-env-cfg") (v "0.1.0") (d (list (d (n "slog") (r "^2.4") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "1jnis6dzjixd2s5p02vw2b7mz66k78fgjglmvj9l2x8i1bnj4y6d")))
+
+(define-public crate-slog-env-cfg-0.1.1 (c (n "slog-env-cfg") (v "0.1.1") (d (list (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.4") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "1s4k8fip7d18h1wll53qxw1i488j34cxa69iv3rg9l4rzgrpqkys")))
+
+(define-public crate-slog-env-cfg-0.1.2 (c (n "slog-env-cfg") (v "0.1.2") (d (list (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.4") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "1gj6zcq72szczl20wmfmvz9yca204pgnpijv33rx23acgiagvvhj")))
+
+(define-public crate-slog-env-cfg-0.1.3 (c (n "slog-env-cfg") (v "0.1.3") (d (list (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.4") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "0np2gjlz40ra7ssrg59iamv6jgskbyy09pr1samqc0qhihihz3iw")))
+
+(define-public crate-slog-env-cfg-0.1.4 (c (n "slog-env-cfg") (v "0.1.4") (d (list (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.4") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "0vrmsm7a9mjs79vgdad833bwfy27yw7cdxq8aqn9fcfy5hqlxrp0")))
+
+(define-public crate-slog-env-cfg-0.2.0 (c (n "slog-env-cfg") (v "0.2.0") (d (list (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.5") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "0mlljwx43xj1293x4ynjqmnp1v5p6kv9w50apw2pc0zc4c830kv2")))
+
+(define-public crate-slog-env-cfg-0.3.0 (c (n "slog-env-cfg") (v "0.3.0") (d (list (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.5") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "1p5x95yz98rzvry4kywyidb3x9ivpyp0pb5qhkkryly93gkxh508")))
+
+(define-public crate-slog-env-cfg-0.4.0 (c (n "slog-env-cfg") (v "0.4.0") (d (list (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.5") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "1h0xs06i0ja7v51by1fc3fgb9rm8gwbgz8c8yhwlrx4caaks21xg")))
+
+(define-public crate-slog-env-cfg-0.5.0 (c (n "slog-env-cfg") (v "0.5.0") (d (list (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.5") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-envlogger") (r "^2.2") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "03mxnpixpqg4aw2gsvahjhc4hflrm26cnbkks5d2x9nlqgblkz83")))
+
+(define-public crate-slog-env-cfg-0.6.0 (c (n "slog-env-cfg") (v "0.6.0") (d (list (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serial_test") (r "^0.2") (d #t) (k 2)) (d (n "serial_test_derive") (r "^0.2") (d #t) (k 2)) (d (n "slog") (r "^2.5") (d #t) (k 0)) (d (n "slog-async") (r "^2.3") (d #t) (k 0)) (d (n "slog-envlogger") (r "^2.2") (d #t) (k 0)) (d (n "slog-json") (r "^2.3") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)))) (h "1idwck5a6ac3ff5p1hdx6sy8pzjmplbvl4z5m0xrq36zblydfdnl")))
+

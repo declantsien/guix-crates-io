@@ -1,0 +1,6 @@
+(define-module (crates-io si mp simple-task) #:use-module (crates-io))
+
+(define-public crate-simple-task-0.1.0 (c (n "simple-task") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "redis") (r "^0.23.1") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "06bh5d0s1m6vyb3gwp9l9ncph27mpnrmikbw4y7a8r1r35z0qd0s")))
+
+(define-public crate-simple-task-0.2.0 (c (n "simple-task") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "redis") (r "^0.23.1") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)) (d (n "yansi") (r "^0.5.1") (d #t) (k 0)))) (h "1fpzybx9jbdmyg0jz2skrbpxhhwaxbjwad0kl5vipcfk19ifrm9n")))
+

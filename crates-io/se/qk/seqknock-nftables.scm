@@ -1,0 +1,4 @@
+(define-module (crates-io se qk seqknock-nftables) #:use-module (crates-io))
+
+(define-public crate-seqknock-nftables-0.2.0 (c (n "seqknock-nftables") (v "0.2.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "libnftables1-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^1.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "seqknock-common") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "sha3") (r "^0.10") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "snafu") (r "^0.7.3") (d #t) (k 0)) (d (n "validator") (r "^0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "16p6cbb034w1xvafzzqmx55j7chfds3qylwv1fh3h5ccdx0yf9p3")))
+

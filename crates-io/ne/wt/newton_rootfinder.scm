@@ -1,0 +1,30 @@
+(define-module (crates-io ne wt newton_rootfinder) #:use-module (crates-io))
+
+(define-public crate-newton_rootfinder-0.1.0 (c (n "newton_rootfinder") (v "0.1.0") (d (list (d (n "float-cmp") (r "^0.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)))) (h "0d5ykb5gsmi23icww1h7rgiiak5k4jx61b4kmjskq38mnxd6k7mg") (y #t)))
+
+(define-public crate-newton_rootfinder-0.2.0 (c (n "newton_rootfinder") (v "0.2.0") (d (list (d (n "float-cmp") (r "^0.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)))) (h "0v31wx1xfjbqka8xnwsd172h17y49474g8nd4sh0bi3sml08m3gq") (y #t)))
+
+(define-public crate-newton_rootfinder-0.2.1 (c (n "newton_rootfinder") (v "0.2.1") (d (list (d (n "float-cmp") (r "^0.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)))) (h "13l515annla7ngyvmkpqm4izbxwny1ai38rn2jcjagkzl3ymwl3r") (y #t)))
+
+(define-public crate-newton_rootfinder-0.2.2 (c (n "newton_rootfinder") (v "0.2.2") (d (list (d (n "float-cmp") (r "^0.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)))) (h "0qj8an8r76nrhdh8l7dynzz0m68p5s36waqdmfjjm3y8bs1lcp7d") (y #t)))
+
+(define-public crate-newton_rootfinder-0.2.3 (c (n "newton_rootfinder") (v "0.2.3") (d (list (d (n "float-cmp") (r "^0.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)))) (h "08wyavqkq83a1b3yar5a2pcmaxgxi4444v0ih088nz3qaak0jzdi")))
+
+(define-public crate-newton_rootfinder-0.3.0 (c (n "newton_rootfinder") (v "0.3.0") (d (list (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "float-cmp") (r "^0.6") (d #t) (k 2)) (d (n "minidom") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)))) (h "1rs00lfy5m49lwbl8h086wyy5fxn38pn3z1ds0alv8k40fmfv6dk")))
+
+(define-public crate-newton_rootfinder-0.4.0 (c (n "newton_rootfinder") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "float-cmp") (r "^0.8.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.1.5") (d #t) (k 0)) (d (n "whoami") (r "^0.8.1") (d #t) (k 0)))) (h "140q28czq46f544yfjrya0jqzxd6r0npiqha5gc630y3q9wfdpn2")))
+
+(define-public crate-newton_rootfinder-0.5.0 (c (n "newton_rootfinder") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "float-cmp") (r "^0.8.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21.1") (d #t) (k 0)) (d (n "whoami") (r "^0.8.2") (d #t) (k 0)))) (h "0wlcfkj1qs62d2vqz7n94h62vf3wwfb8ikydf35wav1i1qkna60c")))
+
+(define-public crate-newton_rootfinder-0.6.0 (c (n "newton_rootfinder") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4.15") (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "float-cmp") (r "^0.8.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21.1") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.2.0") (d #t) (k 0)) (d (n "whoami") (r "^0.9.0") (d #t) (k 0)))) (h "13xc7a6rg1g99gyahijjg5sazy3p9lkr34zs4bzm35pbs8j9gj3a")))
+
+(define-public crate-newton_rootfinder-0.7.0 (c (n "newton_rootfinder") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.8.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12") (d #t) (k 0)) (d (n "nalgebra") (r "^0.26") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "whoami") (r "^1.1") (o #t) (d #t) (k 0)))) (h "0p75zn2kbdchsjl7ws4fhk0akbmpzzgf589pbf9lr33cqc92wc6i") (f (quote (("additional_log_info" "chrono" "rustc_version_runtime" "whoami"))))))
+
+(define-public crate-newton_rootfinder-0.8.0 (c (n "newton_rootfinder") (v "0.8.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.8.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12") (d #t) (k 0)) (d (n "nalgebra") (r "^0.28") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "whoami") (r "^1.1") (o #t) (d #t) (k 0)))) (h "06aym154s4s9q8sqf61bvqwzvi5r212ga8c84qv2arvlr6d2xb3v") (f (quote (("additional_log_info" "chrono" "rustc_version_runtime" "whoami"))))))
+
+(define-public crate-newton_rootfinder-0.9.0 (c (n "newton_rootfinder") (v "0.9.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "whoami") (r "^1.2") (o #t) (d #t) (k 0)))) (h "053hynya82pk417ff6v44x491d46vx1g7i712zn6r7k6wfx3l13d") (f (quote (("xml_config_file" "minidom") ("additional_log_info" "chrono" "rustc_version_runtime" "whoami")))) (r "1.56")))
+
+(define-public crate-newton_rootfinder-0.9.1 (c (n "newton_rootfinder") (v "0.9.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "whoami") (r "^1.2") (o #t) (d #t) (k 0)))) (h "18gpkmby1lwlmilmhj0vzc3dl659244vy350y5055gg1lfam07j5") (f (quote (("xml_config_file" "minidom") ("additional_log_info" "chrono" "rustc_version_runtime" "whoami")))) (r "1.56")))
+
+(define-public crate-newton_rootfinder-0.10.0 (c (n "newton_rootfinder") (v "0.10.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "minidom") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (d #t) (k 0)) (d (n "rustc_version_runtime") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "whoami") (r "^1.2") (o #t) (d #t) (k 0)))) (h "193yx001d162qkysnam1zisl6ikhp6x2sjqgi9l1g5d173fwd64c") (f (quote (("xml_config_file" "minidom") ("additional_log_info" "chrono" "rustc_version_runtime" "whoami")))) (r "1.56")))
+

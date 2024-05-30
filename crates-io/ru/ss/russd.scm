@@ -1,0 +1,4 @@
+(define-module (crates-io ru ss russd) #:use-module (crates-io))
+
+(define-public crate-russd-0.1.0 (c (n "russd") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "directories") (r "^2.0.2") (d #t) (k 0)) (d (n "ico") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "notify-rust") (r "3.*") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.3.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5.2") (d #t) (k 0)) (d (n "website-icon-extract") (r "^0.4.1") (d #t) (k 0)))) (h "13bfr0h709yzswlwqbjmpqa31xl1rjs8rwsbvxa34nkjxwvyaxj9")))
+

@@ -1,0 +1,24 @@
+(define-module (crates-io mi nu minutus-mruby-build-utils) #:use-module (crates-io))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.3 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.3") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "1plgvzwkc496c2m507jm7v9hgvv5rmq6cmlw532cvri76wr6hy1p")))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.4 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.4") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "07r0c5kz5bjbl8cnhl3vsx0z5wpqmw4vmr9vshavxd775s203k9c")))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.5 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.5") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "1z0v47x42k3734k9yjw8bvy058cx2ran5mbh861js4fhs8pgvzyx")))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.6 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.6") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "0ls7rycaljkfk9q2h4wqrmpr3csfk5m2xq67874wz75gd62xkkwd")))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.7 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.7") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "1jlbigqha7gb78p11xahxq0gm8nv3cmw55d31z3f6j83yvgiy4b7")))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.8 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.8") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "0i52d8iyp8qmbg6xx6idniaq5zvjf7kqv96vbn9wxpkxs1kicqp1")))
+
+(define-public crate-minutus-mruby-build-utils-0.1.1-alpha.9 (c (n "minutus-mruby-build-utils") (v "0.1.1-alpha.9") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "0lgshamxayrszsa2skvpm50n67j35w6d2b20d7l8k5pps5kx3bn7")))
+
+(define-public crate-minutus-mruby-build-utils-0.2.1 (c (n "minutus-mruby-build-utils") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "08k4l3fwz6xvw67hmaibys1qkr1wwr3d5yxkyl5nqfrrfh0zgid8")))
+
+(define-public crate-minutus-mruby-build-utils-0.3.0 (c (n "minutus-mruby-build-utils") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "0zhydn3l031dqylh7ssga2y56cq6zpzs2nkp8msmwd9acr5wfgx0")))
+
+(define-public crate-minutus-mruby-build-utils-0.3.2-alpha.1 (c (n "minutus-mruby-build-utils") (v "0.3.2-alpha.1") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "14f6jfl9d8si2wbbp2dz1lhrrv3a6rcdf9qyknwknmawkhg4sd3n")))
+
+(define-public crate-minutus-mruby-build-utils-0.5.0 (c (n "minutus-mruby-build-utils") (v "0.5.0") (d (list (d (n "anyhow") (r "1.*") (d #t) (k 0)) (d (n "bytes") (r "1.*") (d #t) (k 0)) (d (n "cc") (r "1.*") (d #t) (k 0)) (d (n "flate2") (r "1.*") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)))) (h "178g44agzpc6yr9bv5wlnfga8nw0mchdf5wcb67i1fqmmdfk7dpp")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io en jo enjoy) #:use-module (crates-io))
+
+(define-public crate-enjoy-0.1.0 (c (n "enjoy") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "configparser") (r "^2.0.1") (d #t) (k 0)) (d (n "open") (r "^1.7.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1.0") (d #t) (k 0)))) (h "1cyprwqv5jni85ps3ck5zka5gifhd1m9zf14apg1rfsqfy23p69g")))
+
+(define-public crate-enjoy-0.1.1 (c (n "enjoy") (v "0.1.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "configparser") (r "^2.0.1") (d #t) (k 0)) (d (n "open") (r "^1.7.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1.0") (d #t) (k 0)))) (h "1m10qjkc1rifcyg38pyhqc1knm7h5way7ww0ldlng8iwr66i2bgh")))
+
+(define-public crate-enjoy-0.2.0 (c (n "enjoy") (v "0.2.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "configparser") (r "^2.0.1") (d #t) (k 0)) (d (n "open") (r "^1.7.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "shlex") (r "^1.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1.0") (d #t) (k 0)))) (h "129w5m0c4jcq36h22dc23zcyiir4gxgc071imlxs49ivqrvcr4y9")))
+
+(define-public crate-enjoy-0.3.0 (c (n "enjoy") (v "0.3.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0") (d #t) (k 0)) (d (n "open") (r "^3.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1") (d #t) (k 0)) (d (n "shlex") (r "^1.1") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1") (d #t) (k 0)))) (h "077l8lgl8y4qj4fynj6yi0z957fismydl7hdp6fdw767c7dplkvj")))
+
+(define-public crate-enjoy-0.4.0 (c (n "enjoy") (v "0.4.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0") (f (quote ("indexmap"))) (d #t) (k 0)) (d (n "indexmap") (r "^1.9") (d #t) (k 0)) (d (n "open") (r "^3.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1") (d #t) (k 0)) (d (n "shlex") (r "^1.1") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1") (d #t) (k 0)))) (h "15r32xackhxa9pkcd50ibxmr1vgkq0yp14l1vq9pf6x1030s0s6n")))
+
+(define-public crate-enjoy-0.5.0 (c (n "enjoy") (v "0.5.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0") (f (quote ("indexmap"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.2") (d #t) (k 0)) (d (n "open") (r "^5.1") (d #t) (k 0)) (d (n "shellexpand") (r "^3.1") (d #t) (k 0)) (d (n "shlex") (r "^1.3") (d #t) (k 0)) (d (n "wildmatch") (r "^2.3") (d #t) (k 0)))) (h "1hjkg9rmqdchfanmql69989bzp4r01zjjnvj3grfsrpn050bksqr")))
+

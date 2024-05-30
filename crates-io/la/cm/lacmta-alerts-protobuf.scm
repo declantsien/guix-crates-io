@@ -1,0 +1,6 @@
+(define-module (crates-io la cm lacmta-alerts-protobuf) #:use-module (crates-io))
+
+(define-public crate-lacmta-alerts-protobuf-0.1.0 (c (n "lacmta-alerts-protobuf") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "gtfs-rt") (r "^0.3.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "redis") (r "^0.23.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("brotli" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.174") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0aznar19r221knrl2m0x9r0r5wha2kk6qwsjziyw9hcngnq687z6")))
+
+(define-public crate-lacmta-alerts-protobuf-0.2.0 (c (n "lacmta-alerts-protobuf") (v "0.2.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "gtfs-rt") (r "^0.3.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "redis") (r "^0.23.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("brotli" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.174") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)))) (h "16jr8zzj15wlzsmyy1bkivpakymf8dbrqjmva9rq48v346i03gg7")))
+

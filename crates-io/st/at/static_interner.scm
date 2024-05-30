@@ -1,0 +1,6 @@
+(define-module (crates-io st at static_interner) #:use-module (crates-io))
+
+(define-public crate-static_interner-0.1.0 (c (n "static_interner") (v "0.1.0") (d (list (d (n "allocative") (r "^0.3.1") (f (quote ("anyhow" "bumpalo" "dashmap" "either" "futures" "hashbrown" "indexmap" "num-bigint" "once_cell" "parking_lot" "prost-types" "relative-path" "serde_json" "slab" "smallvec" "compact_str" "sorted_vector_map" "tokio" "triomphe"))) (d #t) (k 0)) (d (n "dupe") (r "^0.9.0") (d #t) (k 0)) (d (n "equivalent") (r "^1.0.0") (d #t) (k 0)) (d (n "gazebo_lint") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "lock_free_hashtable") (r "^0.1") (d #t) (k 0)))) (h "02an131si40ydsfbpzsfbd3kaj46iv27g7v6n72aicj5d1sw7gsh")))
+
+(define-public crate-static_interner-0.1.1 (c (n "static_interner") (v "0.1.1") (d (list (d (n "allocative") (r "^0.3.1") (f (quote ("anyhow" "bumpalo" "dashmap" "either" "futures" "hashbrown" "indexmap" "num-bigint" "once_cell" "parking_lot" "prost-types" "relative-path" "serde_json" "slab" "smallvec" "compact_str" "sorted_vector_map" "tokio" "triomphe"))) (d #t) (k 0)) (d (n "dupe") (r "^0.9.0") (d #t) (k 0)) (d (n "equivalent") (r "^1.0.0") (d #t) (k 0)) (d (n "lock_free_hashtable") (r "^0.1.0") (d #t) (k 0)))) (h "19yg4gy17kl4l3kgwz418j3sdr7sh7bd9gq028v008q03wkwm351")))
+

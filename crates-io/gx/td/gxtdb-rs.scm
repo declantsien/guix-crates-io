@@ -1,0 +1,4 @@
+(define-module (crates-io gx td gxtdb-rs) #:use-module (crates-io))
+
+(define-public crate-gxtdb-rs-0.0.1 (c (n "gxtdb-rs") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (f (quote ("prost"))) (d #t) (k 1)) (d (n "tower") (r "^0.4") (d #t) (k 2)))) (h "062bis82wbv3rs9qph14yw04l4aw8yrsh8w381ca891byi2szdq2") (f (quote (("default" "chrono")))) (s 2) (e (quote (("chrono" "dep:chrono"))))))
+

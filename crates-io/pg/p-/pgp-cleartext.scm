@@ -1,0 +1,22 @@
+(define-module (crates-io pg p- pgp-cleartext) #:use-module (crates-io))
+
+(define-public crate-pgp-cleartext-0.1.0 (c (n "pgp-cleartext") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "md-5") (r "^0.10") (d #t) (k 0)) (d (n "pgp") (r "^0.7") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)))) (h "0lns4b6v8blmq9912x9gwl5gjnzidyvzgyxjjs57m7aqlrsdvm13")))
+
+(define-public crate-pgp-cleartext-0.2.0 (c (n "pgp-cleartext") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "md-5") (r "^0.10") (d #t) (k 0)) (d (n "pgp") (r "^0.7") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)))) (h "1mm5rpgi2mxm0zal7iq6wb5hky4fc6fj4icqjyqx2ydd200shwmk")))
+
+(define-public crate-pgp-cleartext-0.3.0 (c (n "pgp-cleartext") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "md-5") (r "^0.10") (d #t) (k 0)) (d (n "pgp") (r "^0.8") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)))) (h "050dk3jjj2rjxs8c6v7r594ywa14sidwr18l0a5rz1fkr18k3j41")))
+
+(define-public crate-pgp-cleartext-0.4.0 (c (n "pgp-cleartext") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "pgp") (r "^0.9.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "smallvec") (r "^1.7.0") (d #t) (k 0)))) (h "1pkqkl4ny7dxiinmxxark9grlchwlq0rxk0zff9ss2ih9bc3dwvg")))
+
+(define-public crate-pgp-cleartext-0.5.0 (c (n "pgp-cleartext") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "pgp") (r "^0.9.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)))) (h "0s7ngdc0z8c13mjr5d701msjcdkh2npna8hgqym1nh5dx9a8xwq1")))
+
+(define-public crate-pgp-cleartext-0.6.0 (c (n "pgp-cleartext") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "pgp") (r "^0.9.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)))) (h "1jmfaw31fh1i0ild8zv5p38a4g86sccw0gy0vnvplfkl5cknc94b")))
+
+(define-public crate-pgp-cleartext-0.7.0 (c (n "pgp-cleartext") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "pgp") (r "^0.10.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)))) (h "1gxhh4civhj46cr0yhd78nvw7phv162h0jkqka2y506wgs68c5ql") (r "1.65")))
+
+(define-public crate-pgp-cleartext-0.8.0 (c (n "pgp-cleartext") (v "0.8.0") (d (list (d (n "chrono") (r "^0.4.26") (k 0)) (d (n "digest") (r "^0.10.7") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "pgp") (r "^0.10.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)))) (h "06ay9dhcxy96bhg4nz56lbga72vb26kkjij76k2bnzzfkj708vb9") (r "1.65")))
+
+(define-public crate-pgp-cleartext-0.9.0 (c (n "pgp-cleartext") (v "0.9.0") (d (list (d (n "chrono") (r "^0.4.26") (k 0)) (d (n "digest") (r "^0.10.7") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "pgp") (r "^0.10.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "smallvec") (r "^1.11.0") (d #t) (k 0)))) (h "1gkm6mm8advld4b2b87f4w8vcj7k46wb4mdi7yna3npdqnmaq5v6") (r "1.65")))
+
+(define-public crate-pgp-cleartext-0.10.0 (c (n "pgp-cleartext") (v "0.10.0") (d (list (d (n "chrono") (r "^0.4.31") (k 0)) (d (n "digest") (r "^0.10.7") (d #t) (k 0)) (d (n "md-5") (r "^0.10.6") (d #t) (k 0)) (d (n "pgp") (r "^0.10.2") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "smallvec") (r "^1.11.1") (d #t) (k 0)))) (h "0vlpd7bwjysz4yndawh2cdaki22vygajszlc70h6934blxc06f46") (r "1.65")))
+

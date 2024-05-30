@@ -1,0 +1,22 @@
+(define-module (crates-io ca sp casperlabs-erc20) #:use-module (crates-io))
+
+(define-public crate-casperlabs-erc20-0.2.0 (c (n "casperlabs-erc20") (v "0.2.0") (d (list (d (n "casper-contract") (r "^1.4.3") (d #t) (k 0)) (d (n "casper-types") (r "^1.4.4") (d #t) (k 0)) (d (n "contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "cryptoxide") (r "^0.3.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "1b479pa7chij5iq6pb5jqyjbjdyhhw18jmr5qarix3nmw88ix399") (f (quote (("default" "casper-contract/std" "casper-types/std"))))))
+
+(define-public crate-casperlabs-erc20-0.2.1 (c (n "casperlabs-erc20") (v "0.2.1") (d (list (d (n "casper-contract") (r "^1.4.3") (d #t) (k 0)) (d (n "casper-types") (r "^1.4.4") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "cryptoxide") (r "^0.3.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "0rsygnrpscnyczalhlw2pyf24h3vdwa9mxxvx0wlk1i3g3g4vqqj") (f (quote (("default" "casper-contract/std" "casper-types/std"))))))
+
+(define-public crate-casperlabs-erc20-0.2.2 (c (n "casperlabs-erc20") (v "0.2.2") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "cryptoxide") (r "^0.3.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "0paq1h5lrdg20cpg1ffkpx9gmra8spi1ml8lg9rbf3k5dgmi5wxg") (f (quote (("default" "casper-contract/std" "casper-types/std"))))))
+
+(define-public crate-casperlabs-erc20-0.2.3 (c (n "casperlabs-erc20") (v "0.2.3") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "cryptoxide") (r "^0.3.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "0n0p8i0vl3v3wwc0gnhx120zxcc4abssd1xkar5pyl348669g15c") (f (quote (("default" "casper-contract/std" "casper-types/std"))))))
+
+(define-public crate-casperlabs-erc20-0.3.0 (c (n "casperlabs-erc20") (v "0.3.0") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)))) (h "1r2znxpawfj9mgajjnangfhjz35hcfbfhbbd2zl1apr5qk9x1icg") (f (quote (("default" "casper-contract/std" "casper-types/std"))))))
+
+(define-public crate-casperlabs-erc20-1.0.0 (c (n "casperlabs-erc20") (v "1.0.0") (d (list (d (n "base64") (r "^0.13.0") (f (quote ("alloc"))) (k 0)) (d (n "casper-contract") (r "^1.3.2") (d #t) (k 0)) (d (n "casper-types") (r "^1.3.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (k 0)) (d (n "once_cell") (r "^1.8.0") (k 0)))) (h "0z4qjx9nlscyysq48ri3454kx5d02sfhirzc30jpccml9vxlf84c") (f (quote (("std" "casper-contract/std" "casper-types/std") ("default" "std"))))))
+
+(define-public crate-casperlabs-erc20-2.0.0 (c (n "casperlabs-erc20") (v "2.0.0") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-erc20-crate") (r "^0.1.0") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.2.0") (d #t) (k 0)))) (h "0sxj1bhy1ggqhb83hbw2680d53bb7s9f9fgj3y6vvmv67nsh9d5k")))
+
+(define-public crate-casperlabs-erc20-2.0.1 (c (n "casperlabs-erc20") (v "2.0.1") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-erc20-crate") (r "^0.1.0") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.2.1") (d #t) (k 0)))) (h "1vp8vaxbllzwqmjmkwq8n14di7cvvzx4q2zbz3jvkn1vpcddkg33")))
+
+(define-public crate-casperlabs-erc20-2.0.2 (c (n "casperlabs-erc20") (v "2.0.2") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-erc20-crate") (r "^0.1.1") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.2.2") (d #t) (k 0)))) (h "0f8g807rbr2brjidim4k233mm6s1b4xbrahzh06s5428ajsch7sl")))
+
+(define-public crate-casperlabs-erc20-2.0.3 (c (n "casperlabs-erc20") (v "2.0.3") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-erc20-crate") (r "^0.1.3") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.2.2") (d #t) (k 0)))) (h "0vdfi6rj4pxawhyq39lls8i54d2ggnal2swp9132lj58gm58y0sy")))
+

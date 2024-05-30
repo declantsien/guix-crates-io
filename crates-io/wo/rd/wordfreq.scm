@@ -1,0 +1,14 @@
+(define-module (crates-io wo rd wordfreq) #:use-module (crates-io))
+
+(define-public crate-wordfreq-0.1.0 (c (n "wordfreq") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)))) (h "1am77nnbdklhx9bmk0f90xpvrn9fzp2zzq904jssa0hv3mk65f1v")))
+
+(define-public crate-wordfreq-0.1.1 (c (n "wordfreq") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)))) (h "11w3zi7a4sd5i521nzpzraq68wd8yml4kzabz8dmldrmm347qinh")))
+
+(define-public crate-wordfreq-0.2.0 (c (n "wordfreq") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "caseless") (r "^0.2.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (d #t) (k 0)) (d (n "language-tags") (r "^0.3.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (d #t) (k 0)))) (h "1c2knx7q89rmxbd552f0va6r9ch5gpaw8pmdms3i7m2xr0l8ljg9")))
+
+(define-public crate-wordfreq-0.2.1 (c (n "wordfreq") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "caseless") (r "^0.2.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (d #t) (k 0)) (d (n "language-tags") (r "^0.3.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (d #t) (k 0)))) (h "1hgzwih25wz6bdza4p647bwlian71k2cqdy7q3wq0lli27ar55qg")))
+
+(define-public crate-wordfreq-0.2.2 (c (n "wordfreq") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "caseless") (r "^0.2.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (d #t) (k 0)) (d (n "language-tags") (r "^0.3.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (d #t) (k 0)))) (h "0k1yxmrwk8hklpccqp02dsgv5zdds0ywsk0s0nx9hn68h9snzrdn")))
+
+(define-public crate-wordfreq-0.2.3 (c (n "wordfreq") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "caseless") (r "^0.2.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.2") (d #t) (k 0)) (d (n "language-tags") (r "^0.3.2") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (d #t) (k 0)))) (h "19mp10hjc97g9mmnprqwz8q96p8c2nc3wda48wnhzxkxh0h15l0f")))
+

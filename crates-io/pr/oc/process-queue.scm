@@ -1,0 +1,6 @@
+(define-module (crates-io pr oc process-queue) #:use-module (crates-io))
+
+(define-public crate-process-queue-0.1.0 (c (n "process-queue") (v "0.1.0") (d (list (d (n "clap") (r "^2.20.3") (d #t) (k 0)) (d (n "clap") (r "^2.20.3") (d #t) (k 1)) (d (n "daemonize") (r "^0.2.3") (d #t) (k 0)) (d (n "dbus") (r "^0.5.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 0)) (d (n "slog") (r "^1.5.2") (d #t) (k 0)) (d (n "slog-json") (r "^1.2.1") (d #t) (k 0)) (d (n "slog-stream") (r "^1.2.0") (d #t) (k 0)) (d (n "slog-term") (r "^1.5.0") (d #t) (k 0)) (d (n "users") (r "^0.5.2") (d #t) (k 0)) (d (n "xdg") (r "^2.0.0") (d #t) (k 0)))) (h "07gvfwj61h2zq3cbc0skgl0dndz9jfqkhh9ng5kjyzwxp5r0milh")))
+
+(define-public crate-process-queue-0.1.1 (c (n "process-queue") (v "0.1.1") (d (list (d (n "clap") (r "^2.20.3") (d #t) (k 0)) (d (n "clap") (r "^2.20.3") (d #t) (k 1)) (d (n "daemonize") (r "^0.2.3") (d #t) (k 0)) (d (n "dbus") (r "^0.5.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 0)) (d (n "slog") (r "^1.5.2") (d #t) (k 0)) (d (n "slog-json") (r "^1.2.1") (d #t) (k 0)) (d (n "slog-stream") (r "^1.2.0") (d #t) (k 0)) (d (n "slog-term") (r "^1.5.0") (d #t) (k 0)) (d (n "users") (r "^0.5.2") (d #t) (k 0)) (d (n "xdg") (r "^2.0.0") (d #t) (k 0)))) (h "0rbpxscl8wv9mf4ynzr5ng5l92xq10ahgxw1r0ns6xr7s8sp7ph3")))
+

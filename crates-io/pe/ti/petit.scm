@@ -1,0 +1,4 @@
+(define-module (crates-io pe ti petit) #:use-module (crates-io))
+
+(define-public crate-petit-0.0.1 (c (n "petit") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "kuon") (r "^0.0.18") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)) (d (n "textwrap") (r "^0.13.3") (d #t) (k 0)) (d (n "tokio") (r "^1.2.0") (d #t) (k 0)) (d (n "tui") (r "^0.14.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.8") (d #t) (k 0)))) (h "1ixg0lsh6ip4v2ar95lav8h6lr72sgw7mviacwd94xv8y9j7fxpr")))
+

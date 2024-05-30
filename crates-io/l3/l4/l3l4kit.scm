@@ -1,0 +1,4 @@
+(define-module (crates-io l3 l4 l3l4kit) #:use-module (crates-io))
+
+(define-public crate-l3l4kit-0.1.0 (c (n "l3l4kit") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.24") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "managed") (r "^0.8.0") (d #t) (k 0)) (d (n "priority-queue") (r "^1.2.3") (d #t) (k 0)) (d (n "smoltcp") (r "^0.9.0") (f (quote ("std" "medium-ip" "proto-ipv4" "proto-ipv6" "socket-tcp" "socket-udp"))) (k 0)) (d (n "smoltcp") (r "^0.9.0") (f (quote ("log" "medium-ip" "proto-ipv4" "proto-ipv6" "socket-tcp" "socket-udp"))) (k 2)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6.10") (f (quote ("codec"))) (d #t) (k 2)) (d (n "tun") (r "^0.5") (f (quote ("async"))) (d #t) (k 2)))) (h "0a0fbdx1bz0di0mlnzff2mcn4xmawxbjd7n4h41q7caw5hk7d2qh") (r "1.65")))
+

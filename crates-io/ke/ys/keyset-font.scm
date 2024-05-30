@@ -1,0 +1,8 @@
+(define-module (crates-io ke ys keyset-font) #:use-module (crates-io))
+
+(define-public crate-keyset-font-0.3.0 (c (n "keyset-font") (v "0.3.0") (d (list (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "byte-strings") (r "^0.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.1") (d #t) (k 0)) (d (n "geom") (r "^0.3.0") (d #t) (k 0) (p "keyset-geom")) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ouroboros") (r "^0.18") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.20") (f (quote ("std"))) (k 0)))) (h "1vz7jrz96f02yz2z5maw6g4928ipylzfkaiwrfkfprdvcxpbymmq") (r "1.70")))
+
+(define-public crate-keyset-font-0.3.1 (c (n "keyset-font") (v "0.3.1") (d (list (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "byte-strings") (r "^0.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.1") (d #t) (k 0)) (d (n "geom") (r "^0.3.1") (d #t) (k 0) (p "keyset-geom")) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ouroboros") (r "^0.18") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.20") (f (quote ("std"))) (k 0)))) (h "00xmay8ny815x75p27ypg2s8hi3dqiv91hy7nr78yf55b4f4q034") (r "1.70")))
+
+(define-public crate-keyset-font-0.3.2 (c (n "keyset-font") (v "0.3.2") (d (list (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "byte-strings") (r "^0.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.1") (d #t) (k 0)) (d (n "geom") (r "^0.3.2") (d #t) (k 0) (p "keyset-geom")) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ouroboros") (r "^0.18") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.20") (f (quote ("std"))) (k 0)))) (h "1cs30qa1z4bf72q69mrlyc4ghdazl17knbx4ydq8jc3hr3mrsqpi") (r "1.70")))
+

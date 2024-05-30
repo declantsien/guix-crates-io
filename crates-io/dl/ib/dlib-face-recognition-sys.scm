@@ -1,0 +1,10 @@
+(define-module (crates-io dl ib dlib-face-recognition-sys) #:use-module (crates-io))
+
+(define-public crate-dlib-face-recognition-sys-19.22.0-rc.0 (c (n "dlib-face-recognition-sys") (v "19.22.0-rc.0") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "zip") (r "^0.5") (d #t) (k 1)))) (h "0jj2sqxx5bh0c7vq6v00zhsj8xkbph2pcsnl5s41wq8sp7755q2a") (f (quote (("default" "build") ("build")))) (l "dlib")))
+
+(define-public crate-dlib-face-recognition-sys-19.22.0-rc.1 (c (n "dlib-face-recognition-sys") (v "19.22.0-rc.1") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "zip") (r "^0.5") (d #t) (k 1)))) (h "0s3qkp1xfrr9jjhzk8khafmcbh35kvlkk5s01qz3azzs04lmvglw") (f (quote (("default" "build") ("build")))) (l "dlib")))
+
+(define-public crate-dlib-face-recognition-sys-19.22.0-rc.2 (c (n "dlib-face-recognition-sys") (v "19.22.0-rc.2") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "zip") (r "^0.5") (d #t) (k 1)))) (h "1m2mlkcfywjl7axvjmyqh1wq2xa7vw286ccn9m0s242nqvh4csw2") (f (quote (("default" "build") ("build")))) (l "dlib")))
+
+(define-public crate-dlib-face-recognition-sys-19.24.0-rc.1 (c (n "dlib-face-recognition-sys") (v "19.24.0-rc.1") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "zip") (r "^0.5") (d #t) (k 1)))) (h "1kp8y0f16g541akc78mj1lnrpplcvm68jvibm78vnjpaspjxyly8") (l "dlib")))
+

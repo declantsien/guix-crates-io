@@ -1,0 +1,8 @@
+(define-module (crates-io di st distinst) #:use-module (crates-io))
+
+(define-public crate-distinst-0.3.0 (c (n "distinst") (v "0.3.0") (d (list (d (n "cbindgen") (r "^0.3") (d #t) (k 1)) (d (n "clap") (r "= 2.26.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libparted") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pbr") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)))) (h "1w41n4llka3nbsfb9hsmg58h6zb6wj0wh2627cczrhqpnhc4xr3w")))
+
+(define-public crate-distinst-0.3.1 (c (n "distinst") (v "0.3.1") (d (list (d (n "cbindgen") (r "^0.3") (d #t) (k 1)) (d (n "clap") (r "= 2.26.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (f (quote ("derive"))) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libparted") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pbr") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)))) (h "0ll8if86sv13kpn4mqz9y0h7kh9hjwkcnvjhyypsjkhp5xxzsjyf")))
+
+(define-public crate-distinst-0.3.2 (c (n "distinst") (v "0.3.2") (d (list (d (n "cbindgen") (r "^0.4") (d #t) (k 1)) (d (n "clap") (r "= 2.26.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (f (quote ("derive"))) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libparted") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pbr") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)))) (h "1g8a9s40i00564i9wq7nhpflr0s4s01pi37q3n2q2hvw8714rvqs")))
+

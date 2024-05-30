@@ -1,0 +1,8 @@
+(define-module (crates-io fu nd fundamentum-portforwarding-proto-rust) #:use-module (crates-io))
+
+(define-public crate-fundamentum-portforwarding-proto-rust-0.1.0 (c (n "fundamentum-portforwarding-proto-rust") (v "0.1.0") (d (list (d (n "derive-new") (r "^0.6.0") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-build") (r "^0.12") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "09chafnc25jq3g2chn6dny7jj5zmdm83ppamd32lwpjvibdbj7wz")))
+
+(define-public crate-fundamentum-portforwarding-proto-rust-0.1.1 (c (n "fundamentum-portforwarding-proto-rust") (v "0.1.1") (d (list (d (n "derive-new") (r "^0.6.0") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-build") (r "^0.12") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1zsq8400hd8h173j8n3pjjrr7k7dvi5kbyirzq8rzwm9rxk77hqn")))
+
+(define-public crate-fundamentum-portforwarding-proto-rust-0.2.0 (c (n "fundamentum-portforwarding-proto-rust") (v "0.2.0") (d (list (d (n "derive-new") (r "^0.6.0") (d #t) (k 0)) (d (n "enum-tags") (r "^0.1.0") (d #t) (k 0)) (d (n "enum-tags-traits") (r "=0.1.0") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-build") (r "^0.12") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1ncy95l7svgqb6vjsil0xg78m7mlml583nzcb1im54yp279saczz")))
+

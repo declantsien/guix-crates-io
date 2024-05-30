@@ -1,0 +1,4 @@
+(define-module (crates-io ba re bare_server_rs) #:use-module (crates-io))
+
+(define-public crate-bare_server_rs-0.1.0 (c (n "bare_server_rs") (v "0.1.0") (d (list (d (n "actix") (r "^0.13.0") (d #t) (k 0)) (d (n "actix-files") (r "^0.6.2") (d #t) (k 0)) (d (n "actix-http") (r "^3.3.0") (d #t) (k 0)) (d (n "actix-rt") (r "^2") (d #t) (k 0)) (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "actix-web-actors") (r "^4.2.0") (d #t) (k 0)) (d (n "awc") (r "^3.1.0") (f (quote ("default" "rustls" "openssl"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0a2k0i9x7bdhvi8dmz0gil87qrdp84832rsch6kakx0dnk7ssgyl")))
+

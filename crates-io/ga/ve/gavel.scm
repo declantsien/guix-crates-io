@@ -1,0 +1,4 @@
+(define-module (crates-io ga ve gavel) #:use-module (crates-io))
+
+(define-public crate-gavel-0.1.0 (c (n "gavel") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "matrix-sdk") (r "^0.6.2") (f (quote ("eyre" "markdown" "e2e-encryption"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shlex") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "xdg") (r "^2.4.1") (d #t) (k 0)))) (h "0ql0i76v7b7cjbk78xajb9jyk17cw9mgfd6352gxn87bxszpbmfc")))
+

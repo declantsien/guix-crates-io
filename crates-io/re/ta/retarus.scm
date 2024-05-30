@@ -1,0 +1,4 @@
+(define-module (crates-io re ta retarus) #:use-module (crates-io))
+
+(define-public crate-retarus-0.1.0 (c (n "retarus") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("multipart" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-compat-02") (r "^0.2") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "06w1w0ng5hahxm5g2mmg8hm13jmn2s90h0csa6rslqf660hmz32a") (f (quote (("webexpress") ("sms") ("fax") ("default" "sms" "fax" "webexpress"))))))
+

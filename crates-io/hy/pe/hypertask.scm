@@ -1,0 +1,8 @@
+(define-module (crates-io hy pe hypertask) #:use-module (crates-io))
+
+(define-public crate-hypertask-0.1.0 (c (n "hypertask") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "1ck01gqpkg7rha3kh0h5bx7hy04d2cj1b0pydr2s0zd58j5bs8m5")))
+
+(define-public crate-hypertask-0.1.1 (c (n "hypertask") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "151qzyl61x7r47wfd479baq56mck24fqrm84r5bpzmbraq68z24i")))
+
+(define-public crate-hypertask-0.1.2 (c (n "hypertask") (v "0.1.2") (d (list (d (n "ansi_term") (r "^0.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "12wckhxpxxjfi1wawc30a0249465xf2hcxrxn2q0442ni7sp36m7")))
+

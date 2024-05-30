@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-blinc) #:use-module (crates-io))
+
+(define-public crate-cargo-blinc-0.1.0 (c (n "cargo-blinc") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "predicates") (r "^1.0.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "transition") (r "^0.1.1") (d #t) (k 0)))) (h "0ninlhhan93cswzl7f909sclsdy4zjbskv72bdzaph9pq12vmbdf")))
+
+(define-public crate-cargo-blinc-0.1.2 (c (n "cargo-blinc") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.8") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "toml") (r "^0.8.0") (d #t) (k 0)) (d (n "transition") (r "^0.1.1") (d #t) (k 0)))) (h "1n01z2y88qdlkmddqsjsk1cx8ggyh8l3a4sdjhq7smwnfcva9j9g")))
+

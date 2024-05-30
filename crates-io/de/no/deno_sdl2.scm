@@ -1,0 +1,6 @@
+(define-module (crates-io de no deno_sdl2) #:use-module (crates-io))
+
+(define-public crate-deno_sdl2-0.3.0 (c (n "deno_sdl2") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "deno_bindgen") (r "^0.5.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rodio") (r "^0.14.0") (d #t) (k 0)) (d (n "sdl2") (r "^0.34.5") (f (quote ("ttf" "image" "unsafe_textures"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0r4iyx05nk564lgkshxrl6qysl8gayarxighb9x81iqnwxhyav51") (f (quote (("use-vcpkg" "sdl2/use-vcpkg" "sdl2/static-link") ("default"))))))
+
+(define-public crate-deno_sdl2-0.3.1 (c (n "deno_sdl2") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "deno_bindgen") (r "^0.5.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rodio") (r "^0.14.0") (d #t) (k 0)) (d (n "sdl2") (r "^0.34.5") (f (quote ("ttf" "image" "unsafe_textures"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0msqp3apc0q484ldyw1cfmib00jjnjxad4ggvxdz9izmb29435a3") (f (quote (("use-vcpkg" "sdl2/use-vcpkg" "sdl2/static-link") ("default"))))))
+

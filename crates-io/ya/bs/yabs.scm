@@ -1,0 +1,16 @@
+(define-module (crates-io ya bs yabs) #:use-module (crates-io))
+
+(define-public crate-yabs-0.0.1 (c (n "yabs") (v "0.0.1") (d (list (d (n "pgetopts") (r "^0.1.2") (d #t) (k 0)) (d (n "toml") (r "^0.1.20") (d #t) (k 0)))) (h "12d4n3wkfb9naqnhs2syg689rsim1bhrv0hyhl0mw7862dssp14h")))
+
+(define-public crate-yabs-0.0.2 (c (n "yabs") (v "0.0.2") (d (list (d (n "pgetopts") (r "^0.1") (d #t) (k 0)) (d (n "rpf") (r "^0.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)) (d (n "walkdir") (r "^0.1") (d #t) (k 0)))) (h "0va38zi9zk7cwgi77r26qxx6kac3vxbc4skcij5arzm0c2l10ghx") (y #t)))
+
+(define-public crate-yabs-0.1.1 (c (n "yabs") (v "0.1.1") (d (list (d (n "pgetopts") (r "^0.1") (d #t) (k 0)) (d (n "rpf") (r "^0.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)) (d (n "walkdir") (r "^0.1") (d #t) (k 0)))) (h "00nzjzvxh2nndm8mc3gblyjfdkfk9c0lcy883hi3yixzj9kzyp0r")))
+
+(define-public crate-yabs-0.1.2 (c (n "yabs") (v "0.1.2") (d (list (d (n "ansi_term") (r "^0.9") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml" "color"))) (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)) (d (n "walkdir") (r "^0.1") (d #t) (k 0)))) (h "1a9mii5jjfdhqxh7hr5qbkcvkhabgmc5ca941gimf57p215kmhnx")))
+
+(define-public crate-yabs-0.2.0 (c (n "yabs") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.9") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml" "color"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "walkdir") (r "^1") (d #t) (k 0)))) (h "08i1cw9x773k662vpkfllc0a811npk45paqmbag4dz6zjgrwki9n")))
+
+(define-public crate-yabs-0.2.1 (c (n "yabs") (v "0.2.1") (d (list (d (n "ansi_term") (r "^0.9") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml" "color"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "walkdir") (r "^1") (d #t) (k 0)))) (h "01v1b66pq8411z3i7x2p4f4b8w56dwzgmqg0bj98nh7765lwgpqn")))
+
+(define-public crate-yabs-0.2.2 (c (n "yabs") (v "0.2.2") (d (list (d (n "ansi_term") (r "^0.9") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml" "color"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "walkdir") (r "^1") (d #t) (k 0)))) (h "01rqqwcxaiky7vz9w7kxkrbd00r550z9scr72nvh2m6nwqxjw573")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr ib tributary-chain) #:use-module (crates-io))
+
+(define-public crate-tributary-chain-0.1.0 (c (n "tributary-chain") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "blake2") (r "^0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (d #t) (k 0) (p "parity-scale-codec")) (d (n "subtle") (r "^2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "sync" "time" "rt"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.5") (d #t) (k 0)))) (h "0mnwicgwpm26cygphq872c1ky5c3xd57gnnjjq7h5nas2di8p416") (f (quote (("tests"))))))
+

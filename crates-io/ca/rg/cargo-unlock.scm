@@ -1,0 +1,14 @@
+(define-module (crates-io ca rg cargo-unlock) #:use-module (crates-io))
+
+(define-public crate-cargo-unlock-1.0.4 (c (n "cargo-unlock") (v "1.0.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo-subcommand-metadata") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("deprecated" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1qhpjck9ychdrby31n2hpqbj0090z9pvds4mqqfk1gn0c74rmshb") (r "1.58")))
+
+(define-public crate-cargo-unlock-1.0.5 (c (n "cargo-unlock") (v "1.0.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo-subcommand-metadata") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("deprecated" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pabxcmh9z6jlcv4dk39vncw0nfbnc2m8231dak0k1i45rwhyibc") (r "1.58")))
+
+(define-public crate-cargo-unlock-1.0.6 (c (n "cargo-unlock") (v "1.0.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo-subcommand-metadata") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("deprecated" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1j0l3l6ljww7wjr01bgddn8amyzzwx2qi59wk7n74cxq0dk9j7wq") (r "1.58")))
+
+(define-public crate-cargo-unlock-1.0.7 (c (n "cargo-unlock") (v "1.0.7") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo-subcommand-metadata") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("deprecated" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1hpq2qcd9w9p4xc4ikxrpq4lzx213r387vgk28rk3lk299v5042p") (r "1.58")))
+
+(define-public crate-cargo-unlock-1.0.8 (c (n "cargo-unlock") (v "1.0.8") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo-subcommand-metadata") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("deprecated" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "14cb0hnvsvwf35ylq50rdw147vah0fp92nsxpj8f2z5lbm0s5964") (r "1.58")))
+
+(define-public crate-cargo-unlock-1.0.9 (c (n "cargo-unlock") (v "1.0.9") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "cargo-subcommand-metadata") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("deprecated" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.110") (d #t) (k 0)))) (h "0jarisaljg2hch3n7v7lbljyi01zrgr6k1rxp43x75ic4amn8708") (r "1.70")))
+

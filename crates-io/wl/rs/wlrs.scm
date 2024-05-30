@@ -1,0 +1,32 @@
+(define-module (crates-io wl rs wlrs) #:use-module (crates-io))
+
+(define-public crate-wlrs-0.1.0 (c (n "wlrs") (v "0.1.0") (d (list (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (d #t) (k 0)))) (h "1m158ksv98ckfrvl54q3mw4s9ngflcqw0k77ygdffjavb0wa1i2y")))
+
+(define-public crate-wlrs-0.1.1 (c (n "wlrs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (d #t) (k 0)))) (h "1q2lg02cmp9khm7c3780gwzynnx043cx8vg5zmvbmyvj1xh7q36g")))
+
+(define-public crate-wlrs-0.1.2 (c (n "wlrs") (v "0.1.2") (d (list (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (d #t) (k 0)))) (h "15l4cwl76b0y7rcamx45xr6w6h35il8ynqpi1i0mgk1gnp59i6vm")))
+
+(define-public crate-wlrs-0.1.3 (c (n "wlrs") (v "0.1.3") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "xcb") (r "^1.3.0") (d #t) (k 0)))) (h "1fg3v3y4x69k486cj0ga0r1ckkcklspvxk0sjxmcry6sc3ipvhmk")))
+
+(define-public crate-wlrs-0.1.4 (c (n "wlrs") (v "0.1.4") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "xcb") (r "^1.3.0") (d #t) (k 0)))) (h "1m4yh91qffzj35k0i21ip8af4l2yj3b4k5ndgyfwngnc9jfwf3fz")))
+
+(define-public crate-wlrs-0.1.5 (c (n "wlrs") (v "0.1.5") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "xcb") (r "^1.3.0") (d #t) (k 0)))) (h "12rz1gj3cl7xxhmbbl90lza3m2fv3fl6sazfa1kk0ipz1s7b1hlc")))
+
+(define-public crate-wlrs-0.2.0 (c (n "wlrs") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "xcb") (r "^0.10.1") (d #t) (k 0)) (d (n "xcb-util") (r "^0.4") (f (quote ("image" "shm"))) (d #t) (k 0)))) (h "1f0416xn8wxzk7npxi61x248krncf6jlfqgk00kpj3lzmnvkqsgx")))
+
+(define-public crate-wlrs-0.2.1 (c (n "wlrs") (v "0.2.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "xcb") (r "^0.10.1") (d #t) (k 0)) (d (n "xcb-util") (r "^0.4") (f (quote ("image" "shm"))) (d #t) (k 0)))) (h "09paqglhzv4iba1ay23iqs86lnh9isv5adj2p1llrqi4ypzw0lxa")))
+
+(define-public crate-wlrs-0.2.2 (c (n "wlrs") (v "0.2.2") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "x11rb") (r "^0.13.0") (d #t) (k 0)))) (h "1rz5a1wvbmryz8f4g9vhz092i2bb3pckmz5mqskq461bcd2j3yz7")))
+
+(define-public crate-wlrs-1.0.0 (c (n "wlrs") (v "1.0.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "wayland-client") (r "^0.31.2") (d #t) (k 0)) (d (n "x11rb") (r "^0.13.0") (f (quote ("randr"))) (d #t) (k 0)))) (h "08a6csd8yzfdjpkfw0dlnfckic3k5anj9synsy3lmvlzxanmjxis")))
+
+(define-public crate-wlrs-1.0.1 (c (n "wlrs") (v "1.0.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.16.1") (f (quote ("calloop"))) (k 0)) (d (n "wayland-client") (r "^0.31.2") (d #t) (k 0)) (d (n "x11rb") (r "^0.13.0") (f (quote ("randr"))) (d #t) (k 0)))) (h "0qfs259lnv5vkpkvg0xd15f3xj2rdrlcx7pll96v4ayjjdfrlll9")))
+
+(define-public crate-wlrs-1.0.2 (c (n "wlrs") (v "1.0.2") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.9.0") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.1") (k 0)) (d (n "wayland-client") (r "^0.31.2") (d #t) (k 0)) (d (n "x11rb") (r "^0.13.0") (f (quote ("randr"))) (d #t) (k 0)))) (h "1gk0y0bayjw6r4y15imcryl0fkcxqw6bym7d1r3ja746faw5sv9n")))
+
+(define-public crate-wlrs-2.0.0 (c (n "wlrs") (v "2.0.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.1") (f (quote ("calloop"))) (k 0)) (d (n "wayland-client") (r "^0.31.2") (d #t) (k 0)) (d (n "x11rb") (r "^0.13.0") (f (quote ("randr"))) (d #t) (k 0)))) (h "0gzw3j6bzxs6mw0wxa5dyrpq7rdivp09wc7vjlb1kmbhyczk2nhs")))
+
+(define-public crate-wlrs-2.0.1 (c (n "wlrs") (v "2.0.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.1") (f (quote ("calloop"))) (k 0)) (d (n "wayland-client") (r "^0.31.2") (d #t) (k 0)) (d (n "x11rb") (r "^0.13.0") (f (quote ("randr"))) (d #t) (k 0)))) (h "0mq8ghcbc1a8l2qadz3l4nmfl51pvjby1qr9a0rxfsh27c7pbs00")))
+
+(define-public crate-wlrs-2.0.2 (c (n "wlrs") (v "2.0.2") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fast_image_resize") (r "^3.0.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.1") (f (quote ("calloop"))) (k 0)) (d (n "wayland-client") (r "^0.31.2") (d #t) (k 0)) (d (n "x11rb") (r "^0.13.0") (f (quote ("randr"))) (d #t) (k 0)))) (h "0yfkfb7lispz6gf22sm2y07bnhq8w47s1brfi5m5z9m1xbq2ln2w")))
+

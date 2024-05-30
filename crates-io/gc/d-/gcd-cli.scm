@@ -1,0 +1,8 @@
+(define-module (crates-io gc d- gcd-cli) #:use-module (crates-io))
+
+(define-public crate-gcd-cli-0.0.1 (c (n "gcd-cli") (v "0.0.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "console") (r "^0.11.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.21.0") (f (quote ("bundled"))) (d #t) (k 0)))) (h "0dwplfarpw91fc3rvqplg2fx2r822xkm2ibwracap409h516qnk5")))
+
+(define-public crate-gcd-cli-0.2.1 (c (n "gcd-cli") (v "0.2.1") (d (list (d (n "clap") (r ">=2.33.3, <3.0.0") (d #t) (k 0)) (d (n "console") (r ">=0.13.0, <0.14.0") (d #t) (k 0)) (d (n "ctrlc") (r ">=3.1.7, <4.0.0") (d #t) (k 0)) (d (n "glob") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "indicatif") (r ">=0.15.0, <0.16.0") (d #t) (k 0)) (d (n "regex") (r ">=1.4.2, <2.0.0") (d #t) (k 0)) (d (n "rusqlite") (r ">=0.24.1, <0.25.0") (f (quote ("bundled"))) (d #t) (k 0)))) (h "1sgprbfvyvz20sa9jfgkr8m3cfc5n0nw3qqyr911938pass2jy8s")))
+
+(define-public crate-gcd-cli-1.2.0 (c (n "gcd-cli") (v "1.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "console") (r "^0.14.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.7") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "predicates") (r "^2.0.2") (d #t) (k 2)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.25.3") (f (quote ("bundled"))) (d #t) (k 0)))) (h "0yv11hdsln9v1b5qrbmkf49bgb4hyr49razkwxxda2b168x5hv6r")))
+

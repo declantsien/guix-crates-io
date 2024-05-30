@@ -1,0 +1,4 @@
+(define-module (crates-io no in noindexmap) #:use-module (crates-io))
+
+(define-public crate-noindexmap-1.6.1 (c (n "noindexmap") (v "1.6.1") (d (list (d (n "autocfg") (r "^1") (d #t) (k 1)) (d (n "fnv") (r "^1.0") (d #t) (k 2)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 2)) (d (n "hashbrown") (r "^0.9.1") (f (quote ("raw"))) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9") (k 2)) (d (n "rand") (r "^0.7") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)))) (h "0ihf7w9sm02alkhzjbb674wnd1ry8pnpizvnd5cai32bds055cn0") (f (quote (("test_low_transition_point") ("test_debug") ("std") ("serde-1" "serde") ("default" "std"))))))
+

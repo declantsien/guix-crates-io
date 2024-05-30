@@ -1,0 +1,4 @@
+(define-module (crates-io pg -c pg-curve) #:use-module (crates-io))
+
+(define-public crate-pg-curve-0.2.0 (c (n "pg-curve") (v "0.2.0") (d (list (d (n "digest") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "ff") (r "^0.13") (k 0)) (d (n "group") (r "^0.13") (o #t) (k 0)) (d (n "pairing") (r "^0.23") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "subtle") (r "^2.2.1") (k 0)) (d (n "zeroize") (r "^1.4") (o #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "csv") (r ">=1.0, <1.2") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.3") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (d #t) (k 2)) (d (n "sha3") (r "^0.9") (d #t) (k 2)))) (h "08i4ynw89lwmikf0xznr5qck98vi1wyva8fy7ixcisj5zbc4blkq") (f (quote (("pairings" "groups" "pairing") ("nightly" "subtle/nightly") ("groups" "group") ("experimental" "digest") ("default" "groups" "pairings" "alloc" "bits") ("bits" "ff/bits") ("alloc" "group/alloc"))))))
+

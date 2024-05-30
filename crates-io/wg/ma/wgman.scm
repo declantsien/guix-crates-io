@@ -1,0 +1,10 @@
+(define-module (crates-io wg ma wgman) #:use-module (crates-io))
+
+(define-public crate-wgman-0.1.0 (c (n "wgman") (v "0.1.0") (d (list (d (n "ipnetwork") (r "^0.17.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("runtime-tokio-rustls" "uuid" "ipnetwork" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)) (d (n "wgman-core") (r "^0.1") (d #t) (k 0)))) (h "1axb3i0kdnpffafhgpzclknvp83w1vswl4z07v3mfmr2ln03v65h") (y #t)))
+
+(define-public crate-wgman-0.1.1 (c (n "wgman") (v "0.1.1") (d (list (d (n "ipnetwork") (r "^0.17.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("runtime-tokio-rustls" "uuid" "ipnetwork" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)) (d (n "wgman-core") (r "^0.1") (d #t) (k 0)))) (h "1v7n1ad2ka72svm0589x9s6z3x3bgnqb8rx8amrxrw9vm4m9psvf") (y #t)))
+
+(define-public crate-wgman-0.2.0 (c (n "wgman") (v "0.2.0") (d (list (d (n "ipnetwork") (r "^0.17") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("runtime-tokio-rustls" "uuid" "ipnetwork" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)) (d (n "wgman-core") (r "^0.2.0") (d #t) (k 0)))) (h "1j8l0kprxgmpl2jg8md4k0x7bq59x46y0hcwgx38r9mb60gg0z4w") (y #t)))
+
+(define-public crate-wgman-0.3.0 (c (n "wgman") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "ipnetwork") (r "^0.17") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("runtime-tokio-rustls" "uuid" "ipnetwork" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)) (d (n "wgman-core") (r "^0.3.1") (d #t) (k 0)))) (h "1yyd3smc4pnv265spmsn3xfqnflzbcmb6bgjmankvdxm2wixn428") (y #t)))
+

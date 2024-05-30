@@ -1,0 +1,12 @@
+(define-module (crates-io rs -p rs-plugin-lookup-interfaces) #:use-module (crates-io))
+
+(define-public crate-rs-plugin-lookup-interfaces-0.1.0 (c (n "rs-plugin-lookup-interfaces") (v "0.1.0") (d (list (d (n "plugin-request-interfaces") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)))) (h "0qcxq69ci6sg2zgzijc3lfghsmmc7yikg77dr7m8bxv2i35s7n80")))
+
+(define-public crate-rs-plugin-lookup-interfaces-0.2.0 (c (n "rs-plugin-lookup-interfaces") (v "0.2.0") (d (list (d (n "plugin-request-interfaces") (r "^0.8.2") (d #t) (k 0)) (d (n "rs-plugin-common-interfaces") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)))) (h "0isafms2hlx5x1708a6c9y6ialglkxf5rfn4nydshx3dd77hd5rq")))
+
+(define-public crate-rs-plugin-lookup-interfaces-0.4.0 (c (n "rs-plugin-lookup-interfaces") (v "0.4.0") (d (list (d (n "plugin-request-interfaces") (r "^0.9.0") (d #t) (k 0)) (d (n "rs-plugin-common-interfaces") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)))) (h "1wvkdn7wrly4krkan4pqlxxmgfbj6pw17yidncy90g56kqjcyygj")))
+
+(define-public crate-rs-plugin-lookup-interfaces-0.5.0 (c (n "rs-plugin-lookup-interfaces") (v "0.5.0") (d (list (d (n "plugin-request-interfaces") (r "^0.10.0") (d #t) (k 0)) (d (n "rs-plugin-common-interfaces") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)))) (h "03kv7ilrxbxjh1r1v9x2lk54zjdbs9833fhhj9cpacrhhkixafqc")))
+
+(define-public crate-rs-plugin-lookup-interfaces-0.11.0 (c (n "rs-plugin-lookup-interfaces") (v "0.11.0") (d (list (d (n "plugin-request-interfaces") (r "^0.11.0") (d #t) (k 0)) (d (n "rs-plugin-common-interfaces") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)))) (h "14nmc5mf3gx1v5h4nwywwb3whc04j1s6fqfg38qdpdzksdid3pqb")))
+

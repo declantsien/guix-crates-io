@@ -1,0 +1,8 @@
+(define-module (crates-io th in thingy) #:use-module (crates-io))
+
+(define-public crate-thingy-0.1.0 (c (n "thingy") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "file-lock") (r "^1.1") (d #t) (k 0)) (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "0vmjin9zfn3n26n9ynzqv3ijamx3v4rxkqvvy58ym6wlzm7izdlx")))
+
+(define-public crate-thingy-0.1.1 (c (n "thingy") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "file-lock") (r "^1.1") (d #t) (k 0)) (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "0p175k4dh7fjg7sv8rr5mw1rnyldc9djfr73qqinxiczxbsciw9c")))
+
+(define-public crate-thingy-0.2.0 (c (n "thingy") (v "0.2.0") (d (list (d (n "actix") (r "^0.10") (d #t) (k 0)) (d (n "actix-files") (r "^0.5.0") (d #t) (k 0)) (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "actix-web-actors") (r "^3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "0skx6rjqga3gwkvdnmj5z1dfnviw519cjjz5aq57qj52n22k811p")))
+

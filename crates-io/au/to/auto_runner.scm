@@ -1,0 +1,4 @@
+(define-module (crates-io au to auto_runner) #:use-module (crates-io))
+
+(define-public crate-auto_runner-0.1.0 (c (n "auto_runner") (v "0.1.0") (d (list (d (n "auto_cellular") (r "^0.1") (d #t) (k 0)) (d (n "auto_spaces") (r "^0.1") (d #t) (k 0)) (d (n "auto_worlds") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^3.2.15") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "cursive") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sdl2") (r "^0.35.2") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.82") (o #t) (d #t) (k 0)))) (h "1z2hzhslbbd4gqijlybjgcral1i2p8cs7fgm77zpsknd15zqv4g6") (f (quote (("default" "cursive")))) (s 2) (e (quote (("wasm" "dep:wasm-bindgen" "auto_spaces/wasm") ("sdl2" "dep:sdl2" "dep:clap" "auto_spaces/sdl2") ("cursive" "dep:cursive" "dep:clap" "auto_spaces/cursive"))))))
+

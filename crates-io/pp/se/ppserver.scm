@@ -1,0 +1,4 @@
+(define-module (crates-io pp se ppserver) #:use-module (crates-io))
+
+(define-public crate-ppserver-0.2.2 (c (n "ppserver") (v "0.2.2") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "myutil") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.18") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "ppcore") (r "^0.2") (k 0)) (d (n "ppserver_def") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0271ia42a60cf7a69969qpkqag2s1mhsdx036k0p77aa95z1jzvf") (f (quote (("zfs_snapshot" "ppcore/zfs_snapshot") ("testmock" "ppcore/testmock") ("default" "backing_file") ("backing_file" "ppcore/backing_file"))))))
+

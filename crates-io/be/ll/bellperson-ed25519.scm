@@ -1,0 +1,8 @@
+(define-module (crates-io be ll bellperson-ed25519) #:use-module (crates-io))
+
+(define-public crate-bellperson-ed25519-0.1.0 (c (n "bellperson-ed25519") (v "0.1.0") (d (list (d (n "bellperson") (r "^0.25.0") (k 0)) (d (n "bellperson-emulated") (r "^0.1.0") (d #t) (k 0)) (d (n "ff") (r "^0.13.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "pasta_curves") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0j4baw4r6cjxdghjpb02swkx1ij2yqiyxibzxp9m18ni5a7z23z9")))
+
+(define-public crate-bellperson-ed25519-0.2.0 (c (n "bellperson-ed25519") (v "0.2.0") (d (list (d (n "bellperson") (r "^0.25.0") (k 0)) (d (n "bellperson-emulated") (r "^0.1.0") (d #t) (k 0)) (d (n "ff") (r "^0.13.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "pasta_curves") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "15676b9yjldnrwr8chhrz5xysjiw7x9l666s60i8dxqrkci9f402")))
+
+(define-public crate-bellperson-ed25519-0.3.0 (c (n "bellperson-ed25519") (v "0.3.0") (d (list (d (n "bellperson") (r "^0.25.0") (k 0)) (d (n "bellperson-emulated") (r "^0.2.0") (d #t) (k 0)) (d (n "ff") (r "^0.13.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "pasta_curves") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "01pwajc9nnayj2gqb02wjrinyi0nva5bkds8hz33k73s6y03sj2h")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io bi gb bigbluebutton) #:use-module (crates-io))
+
+(define-public crate-bigbluebutton-0.1.0 (c (n "bigbluebutton") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)))) (h "1gv95djdnw861ld4kvkl0zl6y9vvr36cyzn7jsfffisbzlv1qjq6")))
+
+(define-public crate-bigbluebutton-0.1.1 (c (n "bigbluebutton") (v "0.1.1") (d (list (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)))) (h "0p4c60a46d4620hrn55ml967azi7i7p5gmm4wvz8n7fpyz1fv96n")))
+
+(define-public crate-bigbluebutton-0.1.2 (c (n "bigbluebutton") (v "0.1.2") (d (list (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)))) (h "1jfbj1xaxby9b5cp7xkmdi5wz5yg8wnz5fhmrwbicfd6l4w6xhww")))
+
+(define-public crate-bigbluebutton-0.2.0 (c (n "bigbluebutton") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.7.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "1svd2r6lfnsd7558dynfw7vwzb04vplxa5y0rz5d0vs1ngj81kv2") (f (quote (("monitoring") ("default" "monitoring" "administration") ("administration"))))))
+
+(define-public crate-bigbluebutton-0.2.1 (c (n "bigbluebutton") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.7.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "1snsxzah5vfa4ajdkk3jiribqmxl3lxb2fp4y36lq2b07vb0famr") (f (quote (("monitoring") ("default" "monitoring" "administration") ("administration"))))))
+
+(define-public crate-bigbluebutton-0.2.2 (c (n "bigbluebutton") (v "0.2.2") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.7.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "1bfckmx27fn46nncfvm24gvk47ll5xh3pr69j2wc1pf9gdhbkn75") (f (quote (("monitoring") ("default" "monitoring" "administration") ("administration"))))))
+
+(define-public crate-bigbluebutton-0.2.3 (c (n "bigbluebutton") (v "0.2.3") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.7.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "1kic6lh4ir75khxpdsf409a6a0nkb5mx5jijgf55pq0mhbwgq7ml") (f (quote (("monitoring") ("default" "monitoring" "administration") ("administration"))))))
+

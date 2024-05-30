@@ -1,0 +1,8 @@
+(define-module (crates-io gi tl gitlab-cargo-audit) #:use-module (crates-io))
+
+(define-public crate-gitlab-cargo-audit-0.3.0 (c (n "gitlab-cargo-audit") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (d #t) (k 0)) (d (n "rustsec") (r "^0.26") (f (quote ("dependency-tree"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0451gbgd54yw748agl0psh4yrp52ms554zmlcgzy9d5qmvriqg8z")))
+
+(define-public crate-gitlab-cargo-audit-0.5.0 (c (n "gitlab-cargo-audit") (v "0.5.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (d #t) (k 0)) (d (n "rustsec") (r "^0.29.2") (f (quote ("dependency-tree"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("formatting"))) (d #t) (k 0)))) (h "0lpjga9s9bbs08pfj66fg94cq4xxf8rijv1qq0yccy4sw2fyr0xh")))
+
+(define-public crate-gitlab-cargo-audit-0.4.0 (c (n "gitlab-cargo-audit") (v "0.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (d #t) (k 0)) (d (n "rustsec") (r "^0.28.4") (f (quote ("dependency-tree"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("formatting"))) (d #t) (k 0)))) (h "0vj3pb48g211k8v68mvx59zdvn4hz2hajdzibd5ia4hp9nkv695h")))
+

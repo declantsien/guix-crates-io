@@ -1,0 +1,6 @@
+(define-module (crates-io f1 -a f1-api) #:use-module (crates-io))
+
+(define-public crate-f1-api-0.1.0 (c (n "f1-api") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 2)) (d (n "derive-new") (r "^0.5.8") (d #t) (k 0)) (d (n "getset") (r "^0.1.0") (d #t) (k 0)) (d (n "net2") (r "^0.2.33") (d #t) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("macros" "net" "stream" "udp"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.3.0") (f (quote ("codec" "udp"))) (d #t) (k 0)))) (h "030hjqdnsbwpkp3mr4ci2d0zxxq01caxzfn93b2d9v7g5146vn9s")))
+
+(define-public crate-f1-api-0.2.0 (c (n "f1-api") (v "0.2.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^1.0.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 2)) (d (n "derive-new") (r "^0.5.8") (d #t) (k 0)) (d (n "getset") (r "^0.1.0") (d #t) (k 0)) (d (n "socket2") (r "^0.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.7.1") (f (quote ("macros" "net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.7") (f (quote ("codec" "net"))) (d #t) (k 0)))) (h "19n8xwlg0vrhkwdnn23zzddvf5jbilnz2x723p3740s663x3x1pj")))
+

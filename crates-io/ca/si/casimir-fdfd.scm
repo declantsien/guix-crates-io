@@ -1,0 +1,6 @@
+(define-module (crates-io ca si casimir-fdfd) #:use-module (crates-io))
+
+(define-public crate-casimir-fdfd-0.1.0 (c (n "casimir-fdfd") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 2)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.15.1") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "pbr") (r "^1.0.1") (d #t) (k 0)) (d (n "rayon") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0b39gwksc66p3hmxvvadfmsgxzv3w0qa3vs3b0phg9lgya632iq5")))
+
+(define-public crate-casimir-fdfd-0.2.0 (c (n "casimir-fdfd") (v "0.2.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 2)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.15.1") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "pbr") (r "^1.0.1") (d #t) (k 0)) (d (n "rayon") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0sfn03d8idyi0h6lpcybj5bsi94h337ihnwkr20llxw3yk8rhk47")))
+

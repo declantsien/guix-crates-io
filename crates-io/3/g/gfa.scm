@@ -1,0 +1,38 @@
+(define-module (crates-io #{3}# g gfa) #:use-module (crates-io))
+
+(define-public crate-gfa-0.2.0 (c (n "gfa") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (f (quote ("regexp"))) (d #t) (k 0)))) (h "00kl4991sabbxra5zb8ng6rcsigyr5mk174ipd2abg6hjqywzjqn")))
+
+(define-public crate-gfa-0.2.1 (c (n "gfa") (v "0.2.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (f (quote ("regexp"))) (d #t) (k 0)))) (h "06j22lmlxrcyc1lzpjyls3sa9v75wx5a604856lybmsswikihh0s")))
+
+(define-public crate-gfa-0.2.2 (c (n "gfa") (v "0.2.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (f (quote ("regexp"))) (d #t) (k 0)))) (h "1w9rybwyfx6gnp1nr8yc18sif3ynankx2r5qnbjfy8bxw1mcslg0")))
+
+(define-public crate-gfa-0.2.3 (c (n "gfa") (v "0.2.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (f (quote ("regexp"))) (d #t) (k 0)))) (h "0yy098vrsrylcpl9a2sbhxn487pfpqyqngrwx024gvvfczy754p5")))
+
+(define-public crate-gfa-0.3.0 (c (n "gfa") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0hwjwj22ccyx07gvk1mg949dvlmbjfv49qf0si1hks3fqk54jbw7") (y #t)))
+
+(define-public crate-gfa-0.3.1 (c (n "gfa") (v "0.3.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1bnxpidxnrnaxkmvinn1011l339lw4nqnlkj0n14k7a83dhjy8a0")))
+
+(define-public crate-gfa-0.3.2 (c (n "gfa") (v "0.3.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1v8yapx8191sddyf6kifjjhksg7znk09bvmlj5fh3is84dwsk43w")))
+
+(define-public crate-gfa-0.4.0 (c (n "gfa") (v "0.4.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "06fdscxbp69rd4xdk6v5c7i6v0k4avkcl0q7lllsb473fmn2cqkg")))
+
+(define-public crate-gfa-0.5.0 (c (n "gfa") (v "0.5.0") (d (list (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1182y7hb3v77wgpiphxvlmx1bjv2qr13l43g5q4b0g5m4jda6mxj")))
+
+(define-public crate-gfa-0.6.0 (c (n "gfa") (v "0.6.0") (d (list (d (n "bstr") (r "^0.2") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1dg0qzm61bq18rh71k6ah80pfmfciry5q2qag1s1wwbss8b0gaa1") (y #t)))
+
+(define-public crate-gfa-0.6.1 (c (n "gfa") (v "0.6.1") (d (list (d (n "bstr") (r "^0.2") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0i5hcabksi6bzs7w3d9wq398k8zgibdyxhjxsfc4j4fp8nhd26q7")))
+
+(define-public crate-gfa-0.6.2 (c (n "gfa") (v "0.6.2") (d (list (d (n "bstr") (r "^0.2") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0ghmy4r0324s6vvmj9nmh326346nkwm7nybnpcpswnjvf02b85gw")))
+
+(define-public crate-gfa-0.7.0 (c (n "gfa") (v "0.7.0") (d (list (d (n "bstr") (r "^0.2") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1scw1hiwqpl99s8s5bmzmdjbp1m5s42as4mqh6m098y8h40imgjy")))
+
+(define-public crate-gfa-0.8.0 (c (n "gfa") (v "0.8.0") (d (list (d (n "bstr") (r "^0.2") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0acsphrcnfcl6agspsja5370bm9gb74whgzk4qs474qlffg5ks20")))
+
+(define-public crate-gfa-0.9.0 (c (n "gfa") (v "0.9.0") (d (list (d (n "bstr") (r ">=0.2.0, <0.3.0") (f (quote ("std"))) (k 0)) (d (n "bytemuck") (r ">=1.4.0, <2.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r ">=0.3.0, <0.4.0") (d #t) (k 2)) (d (n "fnv") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r ">=1.4.0, <2.0.0") (d #t) (k 0)) (d (n "nom") (r ">=5.0.0, <6.0.0") (d #t) (k 0)) (d (n "regex") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r ">=1.0.0, <2.0.0") (o #t) (d #t) (k 0)))) (h "0fvfwsg4jmma0rqcm41mpc36r5h712jks6xzy3qa3m4ja7a0c29y") (f (quote (("serde1" "serde" "serde_json" "bstr/serde1"))))))
+
+(define-public crate-gfa-0.10.0-alpha.0 (c (n "gfa") (v "0.10.0-alpha.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (f (quote ("std"))) (k 0)) (d (n "bytemuck") (r "^1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "106fddr5dml5xavvk617h7859qmgb5d9az859vniby4hjkvgap3r") (f (quote (("serde1" "serde" "serde_json" "bstr/serde1"))))))
+
+(define-public crate-gfa-0.10.0 (c (n "gfa") (v "0.10.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (f (quote ("std"))) (k 0)) (d (n "bytemuck") (r "^1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1hadm6vfjwyqw41bqci18wb4wv80rydmrag7a5c02pdp1gid14fw") (f (quote (("serde1" "serde" "serde_json" "bstr/serde1"))))))
+
+(define-public crate-gfa-0.10.1 (c (n "gfa") (v "0.10.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (f (quote ("std"))) (k 0)) (d (n "bytemuck") (r "^1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7") (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1x996rpfnflgi2j4dgaj5sdxdbf24zfm9d2ha0zy8aid0cd60cln") (f (quote (("serde1" "serde" "serde_json" "bstr/serde1"))))))
+

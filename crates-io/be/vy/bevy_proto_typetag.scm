@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_proto_typetag) #:use-module (crates-io))
+
+(define-public crate-bevy_proto_typetag-0.7.0 (c (n "bevy_proto_typetag") (v "0.7.0") (d (list (d (n "bevy") (r "^0.10") (f (quote ("bevy_asset"))) (k 0)) (d (n "bevy") (r "^0.10") (d #t) (k 2)) (d (n "bevy_proto_typetag_derive") (r "^0.2") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "dyn-clone") (r "^1.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9") (d #t) (k 0)) (d (n "notify") (r "^5.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "0mkrywh7h49sqh9cff3bkrjzchpk9hmfyvbq99jfgx53ncz1ynsv") (f (quote (("no_cycles" "analysis") ("default" "analysis") ("analysis")))) (s 2) (e (quote (("hot_reloading" "dep:crossbeam-channel" "dep:notify"))))))
+

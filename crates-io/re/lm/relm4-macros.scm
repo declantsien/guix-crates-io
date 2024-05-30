@@ -1,0 +1,80 @@
+(define-module (crates-io re lm relm4-macros) #:use-module (crates-io))
+
+(define-public crate-relm4-macros-0.1.0-beta.2 (c (n "relm4-macros") (v "0.1.0-beta.2") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1i3zlcnh447gqbkfd3i0dwcyqfcw7zydjx83frhpbdmk3gr2rwys")))
+
+(define-public crate-relm4-macros-0.1.0-beta.3 (c (n "relm4-macros") (v "0.1.0-beta.3") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1clih21m5rvmccvd9qsbfslfz4xgxxn07rwbwvbcjmgjzlqgvidn")))
+
+(define-public crate-relm4-macros-0.1.0-beta.4 (c (n "relm4-macros") (v "0.1.0-beta.4") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0rxvp07wfwnspnykwx6xvv9f3isvm6qq3v60xa9vz1a0kjd2qjdf")))
+
+(define-public crate-relm4-macros-0.1.0-beta.5 (c (n "relm4-macros") (v "0.1.0-beta.5") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "15l5gwvsbb4hf3ikk1xpdwynf22xplr0h2qykq9l9pwk9rgs9c41")))
+
+(define-public crate-relm4-macros-0.1.0-beta.6 (c (n "relm4-macros") (v "0.1.0-beta.6") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "08z4jcxivwsamdphc51nj3l50cr8yjgmvd4vgqbijw7ad2in0fir")))
+
+(define-public crate-relm4-macros-0.1.0-beta.7 (c (n "relm4-macros") (v "0.1.0-beta.7") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1i39ri920sd3nlkvfh1mj91d2hl5bza096p5pwhlng46l36yr3z4")))
+
+(define-public crate-relm4-macros-0.1.0-beta.8 (c (n "relm4-macros") (v "0.1.0-beta.8") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1nmpdq9c7g8p0zbs87m0i1wlj8y8ivjzx68bizhjmdprlc33a046")))
+
+(define-public crate-relm4-macros-0.1.0-beta.9 (c (n "relm4-macros") (v "0.1.0-beta.9") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0xpa8yapqlmc60zijdd05w4d9ggv9nddq02pi9qr86rd7xl13alh")))
+
+(define-public crate-relm4-macros-0.1.0 (c (n "relm4-macros") (v "0.1.0") (d (list (d (n "gtk") (r "^0.2") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1srrznmkyi98fl6xxsvhvw9w32grir81jqi5i6im8l9av6r5rvd0")))
+
+(define-public crate-relm4-macros-0.2.0 (c (n "relm4-macros") (v "0.2.0") (d (list (d (n "gtk") (r "^0.3") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "02138dhwfxr1gi57b4f17pb3mmdks2i5wjmz0bp394lh8gl3rmpl")))
+
+(define-public crate-relm4-macros-0.2.1 (c (n "relm4-macros") (v "0.2.1") (d (list (d (n "gtk") (r "^0.3") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1nhjhf0xbaqnppm85cc0c6pq6fi21j92ssn8n94brn2dpfkjg1y3")))
+
+(define-public crate-relm4-macros-0.4.0-beta.1 (c (n "relm4-macros") (v "0.4.0-beta.1") (d (list (d (n "gtk") (r "^0.3") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0qkmc2n1l18m2hiszk6dlcbiary8nyiqd9p30x6cxa7r4ldmx0hs")))
+
+(define-public crate-relm4-macros-0.4.0-beta.2 (c (n "relm4-macros") (v "0.4.0-beta.2") (d (list (d (n "gtk") (r "^0.3") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1wbwhq76x64f9ncxl44jbsjmvf30a6ksix2gv2kwhdf6rmbayphh")))
+
+(define-public crate-relm4-macros-0.4.0-beta.3 (c (n "relm4-macros") (v "0.4.0-beta.3") (d (list (d (n "gtk") (r "^0.3") (d #t) (k 2) (p "gtk4")) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0qa7l674p2ycxyvybsh9vi3n3lhncs90653mwpwkk7b9vnkj4x4p")))
+
+(define-public crate-relm4-macros-0.4.0 (c (n "relm4-macros") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0awnfsvcrr814l6hlgp1h2vgn2q04fqw0nrmlgpxy3ppsyadhd0i")))
+
+(define-public crate-relm4-macros-0.4.1 (c (n "relm4-macros") (v "0.4.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1rj7zizxrp7df8qr9p66f3wxp67j7brf020ky95m3skdhk9lal4g")))
+
+(define-public crate-relm4-macros-0.4.2 (c (n "relm4-macros") (v "0.4.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0gzqdj8y22zd5inp9g8fq1f5662cdgv7ybqabnj02h79xbxn03yp")))
+
+(define-public crate-relm4-macros-0.4.3 (c (n "relm4-macros") (v "0.4.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0an5mxjv685vpsga9vg058jijap0a9r47aldcv779vidw9vkmpxh")))
+
+(define-public crate-relm4-macros-0.4.4 (c (n "relm4-macros") (v "0.4.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1454a3vyvh84fhbafn7c9gnabb31ppkpsn0rqsc73j3xp6wxjdki")))
+
+(define-public crate-relm4-macros-0.5.0-beta.4 (c (n "relm4-macros") (v "0.5.0-beta.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.64") (d #t) (k 2)))) (h "07wxjz7wwpj63f8qgmn321p4snzcn96xnpdl4qmd0pr309ipa467") (f (quote (("relm4") ("default" "relm4")))) (r "1.63")))
+
+(define-public crate-relm4-macros-0.5.0-beta.5 (c (n "relm4-macros") (v "0.5.0-beta.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.64") (d #t) (k 2)))) (h "18iyw0vfl1nddaivhgyz6yrw510hn86yvpm3cgchl05il72dia81") (f (quote (("relm4") ("default" "relm4")))) (r "1.63")))
+
+(define-public crate-relm4-macros-0.5.0-rc.1 (c (n "relm4-macros") (v "0.5.0-rc.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.64") (d #t) (k 2)))) (h "01hz5gxq2dwapifdp4yjkv15wyyifvwyflf8dwcyq4dfayy7wik1") (f (quote (("relm4") ("default" "relm4")))) (r "1.63")))
+
+(define-public crate-relm4-macros-0.5.0-rc.2 (c (n "relm4-macros") (v "0.5.0-rc.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.77") (d #t) (k 2)))) (h "04l82jcwqhf5gwh0k8qgw0gz21yv92y88i17y5wbkqgs68vxfnr1") (f (quote (("relm4") ("default" "relm4")))) (r "1.64")))
+
+(define-public crate-relm4-macros-0.5.0 (c (n "relm4-macros") (v "0.5.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.77") (d #t) (k 2)))) (h "0wka923wmfah65xznbn8r72mq6clwbbhw4b3c7yp1b7ci1jrzx5a") (f (quote (("relm4") ("default" "relm4")))) (r "1.64")))
+
+(define-public crate-relm4-macros-0.6.0-alpha.1 (c (n "relm4-macros") (v "0.6.0-alpha.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.77") (d #t) (k 2)))) (h "1f97by4nmvab8fafrh6370ipvbbwv1j4ja5ii2vca436a511dh95") (f (quote (("relm4") ("default" "relm4")))) (r "1.64")))
+
+(define-public crate-relm4-macros-0.6.0-alpha.2 (c (n "relm4-macros") (v "0.6.0-alpha.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.77") (d #t) (k 2)))) (h "1dx80788fjp35iqzcg8l1b6yq02ni25lpn3hj2g2lzfd5phmqln8") (f (quote (("relm4") ("default" "relm4")))) (r "1.64")))
+
+(define-public crate-relm4-macros-0.5.1 (c (n "relm4-macros") (v "0.5.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.77") (d #t) (k 2)))) (h "09m34w6mjasnx6ia8chw7zhl1xxgl2rxssni2yxj8raa8cg1km14") (f (quote (("relm4") ("default" "relm4")))) (r "1.64")))
+
+(define-public crate-relm4-macros-0.6.0-beta.1 (c (n "relm4-macros") (v "0.6.0-beta.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.79") (d #t) (k 2)))) (h "00f240hc6hqs768iw7dk81ck4a9q9bj22kn4q7kn0nb8ngmnz83z") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.6.0 (c (n "relm4-macros") (v "0.6.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "0ahyhjy25abkxb0ssrj6c4x59va6dm8k98nlan0smdsl94dnx2l4") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.6.1 (c (n "relm4-macros") (v "0.6.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "0fxbzjk4064wm41xmkb8hc04y59ajp2d3rz2ycflnr9krx3dkn4a") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.6.2 (c (n "relm4-macros") (v "0.6.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "0da7sbxzj0mj4h3yjsxa6f4x9ws77kvxr8dzl204l60a7iay4h4k") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.7.0-alpha.1 (c (n "relm4-macros") (v "0.7.0-alpha.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "1xhczy9xw6y82kyhnz2365g2a9cijz9m2i58wnxwixidzg6r464x") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.7.0-beta.1 (c (n "relm4-macros") (v "0.7.0-beta.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "0f6rq5z5ca5crw49ycgg26irwayw8avhv0qddhdi6a0ynk6n1pvw") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.7.0-beta.2 (c (n "relm4-macros") (v "0.7.0-beta.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "0wz49y824rsffb7gxv2zgl18ivfj0pr5168hafgzs9k4kpj4fq08") (f (quote (("relm4") ("default" "relm4")))) (r "1.65")))
+
+(define-public crate-relm4-macros-0.7.0-rc.1 (c (n "relm4-macros") (v "0.7.0-rc.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "0kvs4d357v9zymqjwd6krwarp56y5ww206sfmhywa3xq0sf9j2w3") (f (quote (("relm4") ("default" "relm4")))) (r "1.74")))
+
+(define-public crate-relm4-macros-0.7.0 (c (n "relm4-macros") (v "0.7.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "1sj45024gkmz8xmmmbgdigx8g9qi9r2ivdix700h8n29f4n3zd5b") (f (quote (("relm4") ("default" "relm4")))) (r "1.74")))
+
+(define-public crate-relm4-macros-0.8.0 (c (n "relm4-macros") (v "0.8.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "1a96r9w0vlzp2a4ab28q18aqzgl0h824f337ac1zh0wwd7ry7pf0") (f (quote (("relm4") ("default" "relm4")))) (r "1.75")))
+
+(define-public crate-relm4-macros-0.8.1 (c (n "relm4-macros") (v "0.8.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "09hpv8ch7px6m8pmprl0carsb29irvx2rdpmcrbsl8wqi13fhx07") (f (quote (("relm4") ("default" "relm4")))) (r "1.75")))
+
+(define-public crate-relm4-macros-0.7.1 (c (n "relm4-macros") (v "0.7.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "11dsklnhavcflrhcvj66y314q9fawwqslfl81kqr6zyj7d34j0ja") (f (quote (("relm4") ("default" "relm4")))) (r "1.74")))
+

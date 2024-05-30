@@ -1,0 +1,6 @@
+(define-module (crates-io li gh light-verifier) #:use-module (crates-io))
+
+(define-public crate-light-verifier-0.1.1 (c (n "light-verifier") (v "0.1.1") (d (list (d (n "borsh") (r "^0.10") (d #t) (k 0)) (d (n "groth16-solana") (r "^0.0.3") (d #t) (k 0)) (d (n "light-circuitlib-rs") (r "^0.1.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json" "rustls-tls"))) (d #t) (k 2)) (d (n "solana-program") (r "^1.18.11") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0i13v1vz53ahgbylrvz6c91wgq4i602zjijgyhbw3qw7lkapmz9q") (f (quote (("solana" "solana-program"))))))
+
+(define-public crate-light-verifier-0.1.4 (c (n "light-verifier") (v "0.1.4") (d (list (d (n "borsh") (r "^0.10") (d #t) (k 0)) (d (n "groth16-solana") (r "^0.0.3") (d #t) (k 0)) (d (n "light-circuitlib-rs") (r "^0.1.4") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json" "rustls-tls"))) (d #t) (k 2)) (d (n "solana-program") (r "^1.18.11") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "08ix3yh0hlw1ra8adsjpfwjr1mfxx1ghpk3x2l9bs8y3ay8xhnsj") (f (quote (("solana" "solana-program"))))))
+

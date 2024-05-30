@@ -1,0 +1,20 @@
+(define-module (crates-io zo et zoet-macro) #:use-module (crates-io))
+
+(define-public crate-zoet-macro-0.1.4 (c (n "zoet-macro") (v "0.1.4") (d (list (d (n "proc-macro2") (r "^1.0.6") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.2") (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "15i8170agvnhg7g3jx68gv47cc799gs4bzbim439kjwz64sahzln") (f (quote (("default") ("clippy-insane"))))))
+
+(define-public crate-zoet-macro-0.1.5 (c (n "zoet-macro") (v "0.1.5") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.7") (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("extra-traits" "visit-mut" "full"))) (d #t) (k 0)))) (h "01w7qmqgklmg9697d122gxc7xzihwizqfj1jd41daj5y9b4yh3h3") (f (quote (("default" "clippy-insane") ("clippy-insane"))))))
+
+(define-public crate-zoet-macro-0.1.6 (c (n "zoet-macro") (v "0.1.6") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.7") (k 0)) (d (n "syn") (r "^1.0.42") (f (quote ("extra-traits" "visit-mut" "full"))) (d #t) (k 0)))) (h "113478gak84lp2c065rzsbc5mpq1x7yxgzpym51fv8svg1bzl3bc") (f (quote (("default" "clippy-insane") ("clippy-insane"))))))
+
+(define-public crate-zoet-macro-0.1.7 (c (n "zoet-macro") (v "0.1.7") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.29") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.9") (k 0)) (d (n "syn") (r "^1.0.76") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "1s9y5y99s5wzy9bshj2560nczzh009qcmy5m64kzj9j8plcm4ljx") (f (quote (("nightly") ("clippy-insane") ("alloc"))))))
+
+(define-public crate-zoet-macro-0.1.8 (c (n "zoet-macro") (v "0.1.8") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.33") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.10") (k 0)) (d (n "syn") (r "^1.0.82") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "1nxrnhlvlw8kafb77q0k3slh7b99152c1nvp0cxpr77qkn1hac6c") (f (quote (("nightly") ("clippy-insane") ("alloc"))))))
+
+(define-public crate-zoet-macro-0.1.9 (c (n "zoet-macro") (v "0.1.9") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.15") (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "1kndzbaw8rf5hj9fxl578pcx5xzqbbckgkl8xna40mbl6pc7jc2p") (f (quote (("clippy-insane") ("alloc"))))))
+
+(define-public crate-zoet-macro-0.1.10 (c (n "zoet-macro") (v "0.1.10") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.21") (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "0p7gmgd62wmpxhampbpghaz8pbknvb5h5mrymhn2s0dkry5xkqw9") (f (quote (("clippy-insane") ("alloc"))))))
+
+(define-public crate-zoet-macro-0.1.11 (c (n "zoet-macro") (v "0.1.11") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.58") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.27") (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "1d9gyf004773l3mx6bpqp6s4j0cwi3pyyw4ia3y25kvv0mzxpavd") (f (quote (("clippy-insane") ("alloc"))))))
+
+(define-public crate-zoet-macro-0.1.12 (c (n "zoet-macro") (v "0.1.12") (d (list (d (n "proc-macro-error") (r "^1.0.4") (f (quote ("syn-error"))) (k 0)) (d (n "proc-macro2") (r "^1.0.65") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.30") (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("extra-traits" "fold" "full"))) (d #t) (k 0)))) (h "17n65aijd6zf0b6543l0n0n37247nrj1skf6cbmnd7m5cq4vmpgd") (f (quote (("clippy-insane") ("alloc"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io cr os crossbeam-skiplist_piedb) #:use-module (crates-io))
+
+(define-public crate-crossbeam-skiplist_piedb-0.8.5 (c (n "crossbeam-skiplist_piedb") (v "0.8.5") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9.5") (o #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.5") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1.1.0") (k 0)))) (h "17yg5d57jvqvjyy05d8w8zz8lwga3mr385vpn78ad2gvcjdcxh5a") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (r "1.36")))
+
+(define-public crate-crossbeam-skiplist_piedb-0.8.9 (c (n "crossbeam-skiplist_piedb") (v "0.8.9") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9.5") (o #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.5") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1.1.0") (k 0)))) (h "1y7wk70xvbnr4ppcysiqarr4bi7p6npkyw0nz0zqhplgmlv6zdnk") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (r "1.36")))
+
+(define-public crate-crossbeam-skiplist_piedb-0.8.11 (c (n "crossbeam-skiplist_piedb") (v "0.8.11") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9.5") (o #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.5") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1.1.0") (k 0)))) (h "05dnbw9ali13cbphpkkdkylk45m69z6lyy8mzz2m3ml6z7bpkx1f") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (r "1.36")))
+

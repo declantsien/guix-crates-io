@@ -1,0 +1,6 @@
+(define-module (crates-io bo se bose-dfu) #:use-module (crates-io))
+
+(define-public crate-bose-dfu-1.0.0 (c (n "bose-dfu") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "hidapi") (r "^1.3") (f (quote ("linux-static-hidraw" "illumos-static-libusb"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1zd7pgjmirlyiqjq9x8hbqhnsrsrpj42wa1p1l7mc17zci23iaak")))
+
+(define-public crate-bose-dfu-1.1.0 (c (n "bose-dfu") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "hidapi") (r "^1.3") (f (quote ("linux-static-hidraw" "illumos-static-libusb"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0vakxjj7zlvdhzs82f155a1yg9x0d9fngy9qaqbyqp31dnp76zqj")))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io mi ni mini-functions) #:use-module (crates-io))
+
+(define-public crate-mini-functions-0.0.1 (c (n "mini-functions") (v "0.0.1") (d (list (d (n "time") (r "^0.3.17") (f (quote ("default"))) (d #t) (k 0)))) (h "0z08wihikwwrgfdhvxwndlphmx9wa4b3i7ckmw3s2lgin8w0l1cq") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.2 (c (n "mini-functions") (v "0.0.2") (d (list (d (n "regex") (r "^1.7.0") (d #t) (k 2)) (d (n "time") (r "^0.3.17") (f (quote ("default"))) (d #t) (k 0)))) (h "0c1f37z7cksxdxb6h1q4s5bqigw6n3a15ba8yga4srrdp8fcdykw") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.3 (c (n "mini-functions") (v "0.0.3") (d (list (d (n "time") (r "^0.3.17") (f (quote ("default"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v3" "v4" "v5"))) (d #t) (k 0)))) (h "1grxin7x4av8f98ski2bhqm3s1cf9l3chlahijjk53f5088zxc3x") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.4 (c (n "mini-functions") (v "0.0.4") (d (list (d (n "cross") (r "^0.2.4") (d #t) (k 1)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v3" "v4" "v5"))) (d #t) (k 0)))) (h "0i7mjbhqmcwg7y7q1fnkwi85dmggghvdx7jcfsljip9i6aawwi19") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.5 (c (n "mini-functions") (v "0.0.5") (d (list (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v3" "v4" "v5"))) (d #t) (k 0)))) (h "1v1rqrqpqwwaakvpv4d0gzv9qibkcw2ql66jbbvi2k7s5kz835q3") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.6 (c (n "mini-functions") (v "0.0.6") (d (list (d (n "blake3") (r "^1.3.3") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v3" "v4" "v5"))) (d #t) (k 0)))) (h "1ixja534fqdrq4kgpxc2ydiqccm5y9nd0jk9j68axx2p1xf7w4sl") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.7 (c (n "mini-functions") (v "0.0.7") (d (list (d (n "blake3") (r "^1.3.3") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v3" "v4" "v5"))) (d #t) (k 0)))) (h "073sfcis1dvxaq0xmmngala5n3fi8fdmig1ds10i9qxl8a5yzrml") (r "1.57.0")))
+
+(define-public crate-mini-functions-0.0.8 (c (n "mini-functions") (v "0.0.8") (d (list (d (n "cclm") (r "^0.0.1") (d #t) (k 0)) (d (n "cjwt") (r "^0.0.1") (d #t) (k 0)) (d (n "cmn") (r "^0.0.3") (d #t) (k 0)) (d (n "dtt") (r "^0.0.5") (d #t) (k 0)) (d (n "hsh") (r "^0.0.7") (d #t) (k 0)) (d (n "idk") (r "^0.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "mdg") (r "^0.0.1") (d #t) (k 0)) (d (n "qrc") (r "^0.0.2") (d #t) (k 0)) (d (n "rlg") (r "^0.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "vrd") (r "^0.0.4") (d #t) (k 0)))) (h "03x0ab8pxjcgkw0c6i5w663ipsa1gij7qk2gafl4wjj85l2yyxjb") (r "1.67")))
+
+(define-public crate-mini-functions-0.0.9 (c (n "mini-functions") (v "0.0.9") (d (list (d (n "cclm") (r "^0.0.1") (d #t) (k 0)) (d (n "cjwt") (r "^0.0.1") (d #t) (k 0)) (d (n "cmn") (r "^0.0.3") (d #t) (k 0)) (d (n "dtt") (r "^0.0.5") (d #t) (k 0)) (d (n "hsh") (r "^0.0.7") (d #t) (k 0)) (d (n "idk") (r "^0.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "mdg") (r "^0.0.1") (d #t) (k 0)) (d (n "qrc") (r "^0.0.2") (d #t) (k 0)) (d (n "rlg") (r "^0.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "vrd") (r "^0.0.4") (d #t) (k 0)))) (h "0sd7bqyshj8g3ywh63p6jb14d2xhqbgwzpxlz0mapzyma98c6y4w") (r "1.67")))
+
+(define-public crate-mini-functions-0.0.10 (c (n "mini-functions") (v "0.0.10") (d (list (d (n "cclm") (r "^0.0.1") (d #t) (k 0)) (d (n "cjwt") (r "^0.0.1") (d #t) (k 0)) (d (n "cmn") (r "^0.0.3") (d #t) (k 0)) (d (n "dtt") (r "^0.0.5") (d #t) (k 0)) (d (n "hsh") (r "^0.0.7") (d #t) (k 0)) (d (n "idk") (r "^0.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "mdg") (r "^0.0.1") (d #t) (k 0)) (d (n "qrc") (r "^0.0.5") (d #t) (k 0)) (d (n "rlg") (r "^0.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "vrd") (r "^0.0.5") (d #t) (k 0)))) (h "047nfrqrnqyq3i1inz1z2zg4b0qich6qkj33csl38lpp49mbxdwh") (r "1.71.1")))
+

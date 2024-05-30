@@ -1,0 +1,6 @@
+(define-module (crates-io ru co rucos-cortex-m) #:use-module (crates-io))
+
+(define-public crate-rucos-cortex-m-0.1.0 (c (n "rucos-cortex-m") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "defmt-test") (r "^0.3") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)) (d (n "rucos") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f7xx-hal") (r "^0.7.0") (f (quote ("rt" "stm32f767"))) (d #t) (k 2)))) (h "1ln05hagzpvdijbax4gf0spgkc9s67z294was12byygs21cpc5rp")))
+
+(define-public crate-rucos-cortex-m-0.1.1 (c (n "rucos-cortex-m") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "defmt-test") (r "^0.3") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)) (d (n "rucos") (r "^0.1.1") (d #t) (k 0)) (d (n "stm32f7xx-hal") (r "^0.7.0") (f (quote ("rt" "stm32f767"))) (d #t) (k 2)))) (h "0hmfkk70gk03g7hzw2mj08jzd0xml5c9lxfpmn685ajk8q4mjivm")))
+

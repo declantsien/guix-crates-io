@@ -1,0 +1,8 @@
+(define-module (crates-io qu in quinn-plaintext) #:use-module (crates-io))
+
+(define-public crate-quinn-plaintext-0.1.0 (c (n "quinn-plaintext") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "quinn") (r "^0.10") (d #t) (k 0)) (d (n "quinn") (r "^0.10.2") (f (quote ("runtime-tokio" "tls-rustls"))) (k 2)) (d (n "quinn-proto") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1vmpcqdpd7am4i59qv93ffqziwhwwpmpqbp82fa9v1cc9qjgkym9")))
+
+(define-public crate-quinn-plaintext-0.1.1 (c (n "quinn-plaintext") (v "0.1.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "quinn") (r "^0.10") (d #t) (k 0)) (d (n "quinn") (r "^0.10.2") (f (quote ("runtime-tokio" "tls-rustls"))) (k 2)) (d (n "quinn-proto") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1ibmknv5wdx0nxb2ik4jpd3javclnh4nzqaq11bsfqhrp50ymjqh")))
+
+(define-public crate-quinn-plaintext-0.2.0 (c (n "quinn-plaintext") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "quinn") (r "^0.10") (f (quote ("runtime-tokio" "tls-rustls"))) (k 2)) (d (n "quinn-proto") (r "^0.10") (d #t) (k 0)) (d (n "seahash") (r "^4.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1skf5p2br5rs134k0nwxkfjnf77ah1xg2jd7mxzj0bm6812ph3pb")))
+

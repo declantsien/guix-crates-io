@@ -1,0 +1,4 @@
+(define-module (crates-io qu at quatrain) #:use-module (crates-io))
+
+(define-public crate-quatrain-0.6.0 (c (n "quatrain") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "auto_enums") (r "^0.7.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "derive-new") (r "^0.5.8") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (o #t) (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (o #t) (d #t) (k 0)) (d (n "katex") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.3.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.12") (d #t) (k 0)) (d (n "tera") (r "^1.3.0") (o #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)) (d (n "unicase") (r "^2.6.0") (d #t) (k 0)))) (h "0zz094ddhbwrsg3jfa3syv8gfbsb2bvv78i0kgihrxb043j296sm") (f (quote (("quatrain" "tera" "getopts" "lazy_static" "dirs"))))))
+

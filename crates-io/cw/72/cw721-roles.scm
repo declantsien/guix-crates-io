@@ -1,0 +1,4 @@
+(define-module (crates-io cw #{72}# cw721-roles) #:use-module (crates-io))
+
+(define-public crate-cw721-roles-2.3.0 (c (n "cw721-roles") (v "2.3.0") (d (list (d (n "cosmwasm-schema") (r "^1.2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw-controllers") (r "^1.1") (d #t) (k 0)) (d (n "cw-ownable") (r "^0.5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "cw2") (r "^1.1") (d #t) (k 0)) (d (n "cw4") (r "^1.1") (d #t) (k 0)) (d (n "cw721") (r "^0.18") (d #t) (k 0)) (d (n "cw721-base") (r "^0.18") (f (quote ("library"))) (d #t) (k 0)) (d (n "dao-cw721-extensions") (r "^2.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1qbw1qfbddvb83xjq3qss5bfi2m8az0sdjb76zg6y0njbx34y3zh") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

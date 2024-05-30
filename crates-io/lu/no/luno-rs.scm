@@ -1,0 +1,6 @@
+(define-module (crates-io lu no luno-rs) #:use-module (crates-io))
+
+(define-public crate-luno-rs-0.1.0 (c (n "luno-rs") (v "0.1.0") (d (list (d (n "async-std") (r "^1.8.0") (k 0)) (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (k 2)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4.15") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 2)) (d (n "surf") (r "^2.1.0") (f (quote ("h1-client"))) (k 0)) (d (n "url") (r "^2.2.0") (d #t) (k 0)))) (h "0sgqm77xlbm38sv51hsdbyj9wrlbipg7mij5bw2g23ldcvvipib0")))
+
+(define-public crate-luno-rs-0.1.1 (c (n "luno-rs") (v "0.1.1") (d (list (d (n "async-std") (r "^1.8.0") (k 0)) (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (k 2)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4.15") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 2)) (d (n "surf") (r "^2.1.0") (f (quote ("h1-client"))) (k 0)) (d (n "url") (r "^2.2.0") (d #t) (k 0)))) (h "06941xl51qd925w82098k6wdaz2qly8is78rzvmfz111scl3vn5l")))
+

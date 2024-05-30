@@ -1,0 +1,10 @@
+(define-module (crates-io te ts tetsy-libp2p-floodsub) #:use-module (crates-io))
+
+(define-public crate-tetsy-libp2p-floodsub-0.0.0 (c (n "tetsy-libp2p-floodsub") (v "0.0.0") (h "180p6sacb7w16fqq96rkxdg7awpf68lm7nhd345kqp825hvp3wdv") (y #t)))
+
+(define-public crate-tetsy-libp2p-floodsub-0.28.0 (c (n "tetsy-libp2p-floodsub") (v "0.28.0") (d (list (d (n "cuckoofilter") (r "^0.5.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-libp2p-core") (r "^0.27.0") (d #t) (k 0)) (d (n "tetsy-libp2p-swarm") (r "^0.28.0") (d #t) (k 0)))) (h "1rky9zc6hbx13az4m3kizxz3731f22rlrrf1mxs7p4spg3rkgnpn")))
+
+(define-public crate-tetsy-libp2p-floodsub-0.27.0 (c (n "tetsy-libp2p-floodsub") (v "0.27.0") (d (list (d (n "cuckoofilter") (r "^0.5.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-libp2p-core") (r "^0.27.0") (d #t) (k 0)) (d (n "tetsy-libp2p-swarm") (r "^0.27.0") (d #t) (k 0)))) (h "1frfdq3lfzz9rxy3605g2jmnb9axylc12rlnhw1a2yl23pkkyx2k")))
+
+(define-public crate-tetsy-libp2p-floodsub-0.27.1 (c (n "tetsy-libp2p-floodsub") (v "0.27.1") (d (list (d (n "cuckoofilter") (r "^0.5.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-libp2p-core") (r "^0.27.1") (d #t) (k 0)) (d (n "tetsy-libp2p-swarm") (r "^0.27.1") (d #t) (k 0)))) (h "1lgks9f3rz9kqq5nm20xxp7nh5zplwydhvqpnvpvz9cy3k5j86wj")))
+

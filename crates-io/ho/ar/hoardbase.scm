@@ -1,0 +1,4 @@
+(define-module (crates-io ho ar hoardbase) #:use-module (crates-io))
+
+(define-public crate-hoardbase-0.1.0-alpha (c (n "hoardbase") (v "0.1.0-alpha") (d (list (d (n "bson") (r "^2.0.1") (f (quote ("chrono-0_4"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.34.0") (d #t) (k 0)) (d (n "cursive") (r "^0.16.3") (d #t) (k 0)) (d (n "cursive_table_view") (r "^0.13.3") (d #t) (k 0)) (d (n "cursive_tree_view") (r "^0.7") (d #t) (k 0)) (d (n "fallible-streaming-iterator") (r "^0.1.9") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.1") (f (quote ("blob" "chrono" "serde_json" "time" "url" "functions" "backup" "trace" "bundled"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.0") (d #t) (k 0)) (d (n "slugify") (r "^0.1.0") (d #t) (k 0)))) (h "1k79prxipf6j5rklpfak1l5v0y2q9hh818bd52jy7pcr8d7ygg02")))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io pr ot proto-builder-trait) #:use-module (crates-io))
+
+(define-public crate-proto-builder-trait-0.1.0 (c (n "proto-builder-trait") (v "0.1.0") (d (list (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.2") (o #t) (d #t) (k 0)))) (h "02r8fn1bbcg3gw3p0qwq9hkk2z444yqi80pc8b3v3g41mbpsm91f") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.1.1 (c (n "proto-builder-trait") (v "0.1.1") (d (list (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tonic-build") (r "^0.8.2") (o #t) (d #t) (k 0)))) (h "0dwpzl327w1vma4vghdd5hymmhj8xxqdx7dvywqmpf9xp9yahcpd") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.2.0 (c (n "proto-builder-trait") (v "0.2.0") (d (list (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tonic-build") (r "^0.8.2") (o #t) (d #t) (k 0)))) (h "05hd4zs0sc2pi5npqgnksg6h6kw5i830j2lnjv0h010xjqapl6mi") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.3.0 (c (n "proto-builder-trait") (v "0.3.0") (d (list (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tonic-build") (r "^0.8.2") (o #t) (d #t) (k 0)))) (h "1qpq22ihch7bz3d2gfixv8mzckmwlnvbrz77n3yxhf7d1jx0l302") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.4.0 (c (n "proto-builder-trait") (v "0.4.0") (d (list (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tonic-build") (r "^0.8.2") (o #t) (d #t) (k 0)))) (h "068vb8srhxm4j0cs1m0skhzhbr7rwijk2hd0i4pp279ixih25r85") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.5.0 (c (n "proto-builder-trait") (v "0.5.0") (d (list (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tonic-build") (r "^0.8.2") (o #t) (d #t) (k 0)))) (h "0dkampkhxacs0w38r1kwrg93dfzh7w0a3wk9hp3ww5a9hhjb64nv") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.5.1 (c (n "proto-builder-trait") (v "0.5.1") (d (list (d (n "insta") (r "^1.26.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.11.6") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tonic-build") (r "^0.8.4") (o #t) (d #t) (k 0)))) (h "0bs7kclzmpa75cgcfs90ixcqnhp52fnjnc7v1gqfrqw2ajsmmq3c") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.6.0 (c (n "proto-builder-trait") (v "0.6.0") (d (list (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.12.3") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "tonic-build") (r "^0.10.2") (o #t) (d #t) (k 0)))) (h "1b6jd7ragbra1zgx55b76rqgjdpcqmsr8wdb5j0vfp1d6rww9876") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+
+(define-public crate-proto-builder-trait-0.6.1 (c (n "proto-builder-trait") (v "0.6.1") (d (list (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "prost-build") (r "^0.12.4") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "tonic-build") (r "^0.11.0") (o #t) (d #t) (k 0)))) (h "016c0mqvjaqif122611xfj4zpkm4359vjjg6n8zf8a5jm6dasz55") (f (quote (("tonic" "tonic-build") ("prost" "prost-build") ("default" "tonic" "prost"))))))
+

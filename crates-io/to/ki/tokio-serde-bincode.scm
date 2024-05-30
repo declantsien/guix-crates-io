@@ -1,0 +1,10 @@
+(define-module (crates-io to ki tokio-serde-bincode) #:use-module (crates-io))
+
+(define-public crate-tokio-serde-bincode-0.1.0 (c (n "tokio-serde-bincode") (v "0.1.0") (d (list (d (n "bincode") (r "^0.8.0") (d #t) (k 0)) (d (n "bytes") (r "^0.4.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.8") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 2)) (d (n "tokio-io") (r "^0.1.2") (d #t) (k 2)) (d (n "tokio-serde") (r "^0.1.0") (d #t) (k 0)))) (h "000jpscaasgris2krba1bvgrw8s1p7g1p51x7awl4p30zlx1isf4")))
+
+(define-public crate-tokio-serde-bincode-0.1.1 (c (n "tokio-serde-bincode") (v "0.1.1") (d (list (d (n "bincode") (r "^0.8.0") (d #t) (k 0)) (d (n "bytes") (r "^0.4.4") (d #t) (k 0)) (d (n "derive-error") (r "^0.0.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.8") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 2)) (d (n "tokio-io") (r "^0.1.2") (d #t) (k 2)) (d (n "tokio-serde") (r "^0.1.0") (d #t) (k 0)))) (h "1a3wc1k58kghhxnagc0pcv9sdy2nkqq2lmnx63xprs55c26mrqq2")))
+
+(define-public crate-tokio-serde-bincode-0.2.0 (c (n "tokio-serde-bincode") (v "0.2.0") (d (list (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tokio-serde") (r "^0.3") (d #t) (k 0)))) (h "1zcvpq1diygxqb3jwzzq1z6m8mh6fpb3vxb5crrixjiy6zlbz81l")))
+
+(define-public crate-tokio-serde-bincode-0.2.1 (c (n "tokio-serde-bincode") (v "0.2.1") (d (list (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^0.1") (d #t) (k 2)) (d (n "tokio-serde") (r "^0.3") (d #t) (k 0)))) (h "1ixnb01i85s1g31km8vm5bl8b1gkpqr5i5dr2l1akwc4in6cp8ji") (f (quote (("i128" "bincode/i128"))))))
+

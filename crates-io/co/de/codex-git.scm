@@ -1,0 +1,4 @@
+(define-module (crates-io co de codex-git) #:use-module (crates-io))
+
+(define-public crate-codex-git-0.1.1 (c (n "codex-git") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "git2") (r "^0.13.23") (f (quote ("vendored-libgit2"))) (d #t) (k 0)) (d (n "git2_credentials") (r "^0.7.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "ron") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^1.13.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)) (d (n "test-env-log") (r "^0.2.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1wr7qrhwwg01bnvj0nqwv1j4dfmw5absy5byqr34lap1q7fy56db")))
+

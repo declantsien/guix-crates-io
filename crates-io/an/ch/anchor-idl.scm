@@ -1,0 +1,12 @@
+(define-module (crates-io an ch anchor-idl) #:use-module (crates-io))
+
+(define-public crate-anchor-idl-0.1.1 (c (n "anchor-idl") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r "^0.24.2") (f (quote ("idl"))) (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0ky3wkvyn9mv9scdnjn6b7igm9iy3fghwmi8vbibrk8r32rw241p")))
+
+(define-public crate-anchor-idl-0.1.2 (c (n "anchor-idl") (v "0.1.2") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r "^0.24.2") (f (quote ("idl"))) (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0fr6i3ihzn4jcaj4xkqs2wn1bwq4f87354wy14ly5966a16wpyfm")))
+
+(define-public crate-anchor-idl-0.2.0 (c (n "anchor-idl") (v "0.2.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r "^0.24.2") (f (quote ("idl"))) (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "09vmxwyfrvj03zjj6xyy4f5xq6k5j4scbzznp9fbyalrrrjvpy97")))
+
+(define-public crate-anchor-idl-0.3.0 (c (n "anchor-idl") (v "0.3.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r "^0.24.2") (f (quote ("idl"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1gl83rdra8hjdciybp1vs6x5xi75py59p4v8nd6ys1w6all0pm40")))
+
+(define-public crate-anchor-idl-0.3.1 (c (n "anchor-idl") (v "0.3.1") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r "^0.24.2") (f (quote ("idl"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "12yn0kfjm0bar0rcc6xcnws1wnrxd89pzx08glybvq3fq1fndqix") (f (quote (("compat-program-result"))))))
+

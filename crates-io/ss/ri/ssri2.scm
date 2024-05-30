@@ -1,0 +1,4 @@
+(define-module (crates-io ss ri ssri2) #:use-module (crates-io))
+
+(define-public crate-ssri2-0.1.0 (c (n "ssri2") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "digest") (r "^0.10.7") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.10") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0a9wpvc9vyl7757kii4r96mydzq2d008gx7ni3xvm0m5xq1d51l4") (f (quote (("default" "serde")))) (r "1.75.0")))
+

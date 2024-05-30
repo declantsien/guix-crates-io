@@ -1,0 +1,22 @@
+(define-module (crates-io un i_ uni_publisher) #:use-module (crates-io))
+
+(define-public crate-uni_publisher-0.0.1 (c (n "uni_publisher") (v "0.0.1") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1jzm4jdc3amlk88vflkzm1yc7l582sk1x2dm1cggva91glvmm01l")))
+
+(define-public crate-uni_publisher-0.0.2 (c (n "uni_publisher") (v "0.0.2") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "0wwnj1ja7dln7bj0pma41k66gzx8is1hx514c2a1zj38khfzqj98")))
+
+(define-public crate-uni_publisher-0.0.3 (c (n "uni_publisher") (v "0.0.3") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "0pwi60pvmqdgqjj5dz6sigg90hgq2v8slk98z1v7rrpvlwkq6yvv")))
+
+(define-public crate-uni_publisher-0.0.4 (c (n "uni_publisher") (v "0.0.4") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1sgqrwmpsm8frl96vj8f7kisgyxbsb1fifwn6wd56y2dyngs1pjs")))
+
+(define-public crate-uni_publisher-0.0.5 (c (n "uni_publisher") (v "0.0.5") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1v6gmxcp5grgr34w36smhj85bp9vnir7nna7ynv714llwxw393wf")))
+
+(define-public crate-uni_publisher-0.0.6 (c (n "uni_publisher") (v "0.0.6") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "068a6yf1p1g0pz2hscfym19mghz0dp4x0yvivr94m9qk9y4a5cf2")))
+
+(define-public crate-uni_publisher-0.0.7 (c (n "uni_publisher") (v "0.0.7") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1g19iaqw4pk0s9j0d7sc7a2vwsa5srslcivl7r2b1vqpfr1a4ya8")))
+
+(define-public crate-uni_publisher-0.0.8 (c (n "uni_publisher") (v "0.0.8") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1gzlxfra5n06n2aij9ajjdk6v2klrjlsi4kvdi1819zgwdkn8dz8")))
+
+(define-public crate-uni_publisher-0.0.9 (c (n "uni_publisher") (v "0.0.9") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "00hidlc79w5axdc7wlnvnvc3qrgvq8ywsgdzinbdc57fpg17zw2a")))
+
+(define-public crate-uni_publisher-0.0.10 (c (n "uni_publisher") (v "0.0.10") (d (list (d (n "cargo") (r "^0.46") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1zh70x40ishw72w9v627g1g253ig5wwlhm4a63i4vff79g9dlnfa")))
+

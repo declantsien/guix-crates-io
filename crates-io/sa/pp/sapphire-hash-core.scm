@@ -1,0 +1,8 @@
+(define-module (crates-io sa pp sapphire-hash-core) #:use-module (crates-io))
+
+(define-public crate-sapphire-hash-core-0.1.0 (c (n "sapphire-hash-core") (v "0.1.0") (d (list (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "14fr15hjyfnhy1n6m8h6xdphfxl1d3h5m1j98frnqbpwfqmjixxd")))
+
+(define-public crate-sapphire-hash-core-0.1.1 (c (n "sapphire-hash-core") (v "0.1.1") (d (list (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "1gkpvmmv1nqx5fg6skqk0vx3m06cmkxkg1hcscfwv577c8n5k3kz")))
+
+(define-public crate-sapphire-hash-core-0.1.2 (c (n "sapphire-hash-core") (v "0.1.2") (d (list (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0nr1c3rx786q3qffia70bnp8m4y6k8vgs2mdg8rw0a5sji7zycxd")))
+

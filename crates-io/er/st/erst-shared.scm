@@ -1,0 +1,16 @@
+(define-module (crates-io er st erst-shared) #:use-module (crates-io))
+
+(define-public crate-erst-shared-0.2.0 (c (n "erst-shared") (v "0.2.0") (d (list (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)))) (h "0r584mf4r3pp5w6nnfvgvmsv7skf0xl3894ca4bzdphxzva5p89h")))
+
+(define-public crate-erst-shared-0.2.1 (c (n "erst-shared") (v "0.2.1") (d (list (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.12") (d #t) (k 0)) (d (n "syn") (r "^0.15.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (d #t) (k 0)))) (h "0db3m0y40s2b96mgs7ns012llbww8fa5gmhggygrxpgkyz3cv9zg") (f (quote (("dynamic") ("default"))))))
+
+(define-public crate-erst-shared-0.2.2 (c (n "erst-shared") (v "0.2.2") (d (list (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.12") (d #t) (k 0)) (d (n "syn") (r "^0.15.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (d #t) (k 0)))) (h "1acabzb6c9dhi488k84p6vw0zr6mk7x4b9y8k7whw36jj0d0vdyp") (f (quote (("dynamic") ("default"))))))
+
+(define-public crate-erst-shared-0.2.3 (c (n "erst-shared") (v "0.2.3") (d (list (d (n "bstr") (r "^0.1.4") (d #t) (k 0)) (d (n "derive_more") (r "^0.15.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.12") (d #t) (k 0)) (d (n "syn") (r "^0.15.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (o #t) (d #t) (k 0)))) (h "043xcir49w3gyvw3byglq97hxlwi0nyndxijh8id7agpv32bfksz") (f (quote (("dynamic" "xdg") ("default"))))))
+
+(define-public crate-erst-shared-0.2.5 (c (n "erst-shared") (v "0.2.5") (d (list (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.15") (d #t) (k 0)) (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.12") (o #t) (d #t) (k 0)) (d (n "syn") (r "^0.15.34") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (o #t) (d #t) (k 0)))) (h "0zmvw60lhi8r7n9wpga9kz52d7z07lnf7vkb38abc5nm60s1i4ma") (f (quote (("dynamic" "xdg" "syn" "quote") ("default"))))))
+
+(define-public crate-erst-shared-0.2.6 (c (n "erst-shared") (v "0.2.6") (d (list (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.15") (d #t) (k 0)) (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.12") (o #t) (d #t) (k 0)) (d (n "syn") (r "^0.15.34") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (o #t) (d #t) (k 0)))) (h "174q4nqkd8cwnwyhcxv30zm0nl4p1c6gbf76k7lkbrp8ch724qyh") (f (quote (("dynamic" "xdg" "syn" "quote") ("default"))))))
+
+(define-public crate-erst-shared-0.3.0 (c (n "erst-shared") (v "0.3.0") (d (list (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.15") (d #t) (k 0)) (d (n "pest") (r "^2.1.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.12") (o #t) (d #t) (k 0)) (d (n "syn") (r "^0.15.34") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "xdg") (r "^2.2.0") (o #t) (d #t) (k 0)))) (h "1qb4p5rwgpj3bigjib20c70l0m4ra758y14n4r79km6c459sz59y") (f (quote (("dynamic" "xdg" "syn" "quote") ("default"))))))
+

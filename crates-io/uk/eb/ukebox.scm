@@ -1,0 +1,20 @@
+(define-module (crates-io uk eb ukebox) #:use-module (crates-io))
+
+(define-public crate-ukebox-0.3.0 (c (n "ukebox") (v "0.3.0") (d (list (d (n "assert_cmd") (r "^0.10") (d #t) (k 2)) (d (n "indoc") (r "^0.3") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rstest") (r "^0.3") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0pk66jlrl9d4g874qqwlm6ks7bh90wd27bw18z9xn1mh4a195rcp")))
+
+(define-public crate-ukebox-0.4.0 (c (n "ukebox") (v "0.4.0") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "indoc") (r "^0.3") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rstest") (r "^0.5") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0r71986psb6j91qzk6n0rqfk2q9fnb7wkqz9w9ydnsdcwm0gc5wc")))
+
+(define-public crate-ukebox-0.5.0 (c (n "ukebox") (v "0.5.0") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 2)) (d (n "indoc") (r "^0.3") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rstest") (r "^0.6") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1zwpa9yf25ycgjg9g9vj2ghjckl648w9w1adgzh8s00w5i538q6j")))
+
+(define-public crate-ukebox-0.6.0 (c (n "ukebox") (v "0.6.0") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rstest") (r "^0.6") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1xiy88mcdfz9arq3l9iirafsgn7kpvzbmb19y3aq4p8byfx2iwia")))
+
+(define-public crate-ukebox-0.7.0 (c (n "ukebox") (v "0.7.0") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rstest") (r "^0.7") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "12jraqsf2rmbvahjj4mq9w2ig579w21zdyzkjvqxgas3kjvnccfx")))
+
+(define-public crate-ukebox-0.8.0 (c (n "ukebox") (v "0.8.0") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.5") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "rstest") (r "^0.10") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "04za9pm3kza6dl3j9nyxrkjl3b42ld747n4f0nkb92ncvrlh720k")))
+
+(define-public crate-ukebox-0.9.0 (c (n "ukebox") (v "0.9.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 2)) (d (n "rstest") (r "^0.11") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1wgs3dxwsqrf6hlh15wwk1fzff79v365nkhax0crmmyz8ifwri9j")))
+
+(define-public crate-ukebox-0.9.1 (c (n "ukebox") (v "0.9.1") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 2)) (d (n "rstest") (r "^0.12") (d #t) (k 2)))) (h "1m3pbbvy5k8iwxdwpwi6fc8hgpnlsq7gdr5h737g3w4bfa9jmqkk")))
+
+(define-public crate-ukebox-0.9.2 (c (n "ukebox") (v "0.9.2") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (d #t) (k 0)) (d (n "predicates") (r "^3.1") (d #t) (k 2)) (d (n "rstest") (r "^0.19") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0sl94xsh2688zq3gj4q0ky1mqj6sh28nd6b03g5avbr2hvp702vm") (r "1.74")))
+

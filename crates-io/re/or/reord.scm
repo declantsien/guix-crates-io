@@ -1,0 +1,22 @@
+(define-module (crates-io re or reord) #:use-module (crates-io))
+
+(define-public crate-reord-0.1.0 (c (n "reord") (v "0.1.0") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)))) (h "0kan9zyxmf2bm548vwasxkcv7gyxs7mxkskfgrxxw3n643h6jps3") (f (quote (("test"))))))
+
+(define-public crate-reord-0.1.1 (c (n "reord") (v "0.1.1") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)))) (h "1rrkvynjcdp73j5i08icay0hw683jar2cazcwwaa45wa9s6fh7jl") (f (quote (("test"))))))
+
+(define-public crate-reord-0.1.2 (c (n "reord") (v "0.1.2") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)))) (h "0h4lifclw6wgdah9ws2lddi0j6li74c2xwwgv33k9wsb3c1vbqy3") (f (quote (("test"))))))
+
+(define-public crate-reord-0.1.3 (c (n "reord") (v "0.1.3") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)))) (h "038simz8ja2kyrpycxyj74l1n2k5ny6qp3j73d7lk952qq3bl5ch") (f (quote (("test"))))))
+
+(define-public crate-reord-0.1.4 (c (n "reord") (v "0.1.4") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)))) (h "0zpxy1p8ll5srm4cbz4ga38a361qhy5y2q7gky1swinp98wqi1zk") (f (quote (("test"))))))
+
+(define-public crate-reord-0.1.5 (c (n "reord") (v "0.1.5") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "1ns5vmhp6f2fjdxg0jjv8ay0q0m9bcbzcjhmiwkq35lfgiy25gq3") (f (quote (("test"))))))
+
+(define-public crate-reord-0.2.0 (c (n "reord") (v "0.2.0") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "08cl368c890qqmizhccl3sf36z5v645xvl2y4zqsfskdz461a584") (f (quote (("test"))))))
+
+(define-public crate-reord-0.2.1 (c (n "reord") (v "0.2.1") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "13vma3ln2ng5sjsrxwxsc5rzf4ixzqz6yh7408crg6wqz0rc78bm") (f (quote (("test"))))))
+
+(define-public crate-reord-0.2.2 (c (n "reord") (v "0.2.2") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "0laiw551fc87jsprlb2my3bkri9s1hs7djcyny22wvn8008cihmb") (f (quote (("test"))))))
+
+(define-public crate-reord-0.2.3 (c (n "reord") (v "0.2.3") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "1jbnvfzmwxx03pvcnd0r7jc86a79567rkl1rv9s1r5bwblql1h9i") (f (quote (("test"))))))
+

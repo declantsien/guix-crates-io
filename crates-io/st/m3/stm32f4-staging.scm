@@ -1,0 +1,4 @@
+(define-module (crates-io st m3 stm32f4-staging) #:use-module (crates-io))
+
+(define-public crate-stm32f4-staging-0.16.0 (c (n "stm32f4-staging") (v "0.16.0") (d (list (d (n "const-default") (r "^1.0") (k 0)) (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "defmt") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "^1") (o #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "15ly04ykihda2c8g6ry6kmji4d7mnkc1kda7jprxhh16ada1mryh") (f (quote (("stm32f469") ("stm32f446") ("stm32f429") ("stm32f427") ("stm32f413") ("stm32f412") ("stm32f411") ("stm32f410") ("stm32f407") ("stm32f405") ("stm32f401") ("rt" "cortex-m-rt/device") ("default" "critical-section" "rt")))) (s 2) (e (quote (("atomics" "dep:portable-atomic")))) (r "1.65")))
+

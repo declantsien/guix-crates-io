@@ -1,0 +1,8 @@
+(define-module (crates-io fl ue fluere_plugin) #:use-module (crates-io))
+
+(define-public crate-fluere_plugin-0.1.0 (c (n "fluere_plugin") (v "0.1.0") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fluere-config") (r "^0.1.0") (d #t) (k 0)) (d (n "fluereflow") (r "^0.3.1") (d #t) (k 0)) (d (n "mlua") (r "^0.9.1") (f (quote ("lua54" "vendored" "async" "send"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("full" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "008k2gc2r6sd6nyrns0fa31rwldrkla94cppzzz9s61zwxgvdndn")))
+
+(define-public crate-fluere_plugin-0.1.1 (c (n "fluere_plugin") (v "0.1.1") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fluere-config") (r "^0.1.2") (d #t) (k 0)) (d (n "fluereflow") (r "^0.3.2") (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (d #t) (k 0)) (d (n "inksac") (r "^0.4.0") (d #t) (k 0)) (d (n "mlua") (r "^0.9.2") (f (quote ("lua54" "vendored" "async" "send"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("full" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0z9li7bvf3cgzvblrwbnbnismgkraajvjpfzkfkk0c2k2cbfqkxp")))
+
+(define-public crate-fluere_plugin-0.2.0 (c (n "fluere_plugin") (v "0.2.0") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fluere-config") (r "^0.2.0") (d #t) (k 0)) (d (n "fluereflow") (r "^0.3.2") (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (d #t) (k 0)) (d (n "inksac") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "mlua") (r "^0.9.6") (f (quote ("lua54" "vendored" "async" "send"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("full" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "19jczrqs9m0j997kyjy2hrvan6hkn9cvpr2g6l22aq0ik7x8445n") (s 2) (e (quote (("log" "dep:log"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io cp cl cpclib-visual-bndbuild) #:use-module (crates-io))
+
+(define-public crate-cpclib-visual-bndbuild-0.2.0 (c (n "cpclib-visual-bndbuild") (v "0.2.0") (d (list (d (n "built") (r "^0.6.1") (f (quote ("chrono"))) (d #t) (k 1)) (d (n "cpclib-bndbuild") (r "^0.2.0") (k 0)) (d (n "eframe") (r "^0.22") (f (quote ("persistence"))) (d #t) (k 0)) (d (n "egui_code_editor") (r "^0.1.3") (d #t) (k 0)) (d (n "egui_file") (r "^0.10") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "gag") (r "^1.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "open") (r "^5.0.0") (d #t) (k 0)) (d (n "self_cell") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.178") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static_vcruntime") (r "^2.0") (d #t) (k 1)))) (h "057q3wydjarny5600zdld9yrkw22dd0s4qrcgvi5bzanliaybl2i")))
+

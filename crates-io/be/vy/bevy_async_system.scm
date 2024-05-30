@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_async_system) #:use-module (crates-io))
+
+(define-public crate-bevy_async_system-0.1.0 (c (n "bevy_async_system") (v "0.1.0") (d (list (d (n "async-compat") (r "^0.2.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "bevy") (r "^0.11.3") (k 0)) (d (n "bevy") (r "^0.11.3") (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.20.0") (d #t) (k 2)) (d (n "bevy_framepace") (r "^0.13.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 2)) (d (n "trybuild2") (r "^1.1.0") (d #t) (k 2)))) (h "1cggd4pivi6cxxyi8jzghrmahqwkaqbkr4c1p4q5m8spzw0glwhv")))
+
+(define-public crate-bevy_async_system-0.1.1 (c (n "bevy_async_system") (v "0.1.1") (d (list (d (n "async-compat") (r "^0.2.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "bevy") (r "^0.11.3") (k 0)) (d (n "bevy") (r "^0.11.3") (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.20.0") (d #t) (k 2)) (d (n "bevy_framepace") (r "^0.13.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 2)) (d (n "trybuild2") (r "^1.1.0") (d #t) (k 2)))) (h "1amj9w576bqxckifi622591snhfiafsq2zjrl728bg9fsvlcy5yx")))
+

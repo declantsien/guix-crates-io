@@ -1,0 +1,4 @@
+(define-module (crates-io un di undis) #:use-module (crates-io))
+
+(define-public crate-undis-0.1.0 (c (n "undis") (v "0.1.0") (d (list (d (n "async-channel") (r "^1.6") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.7") (d #t) (k 0)) (d (n "itoa") (r "^1.0") (d #t) (k 0)) (d (n "memchr") (r "^2.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "ryu") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("io-util" "net" "sync" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("rt"))) (d #t) (k 2)))) (h "1hvzc77qq62dzzmq7zfw12baqvdnriay0nzdrdgyh10zkp95dcsd")))
+

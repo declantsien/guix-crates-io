@@ -1,0 +1,46 @@
+(define-module (crates-io su nb sunbeam-ir) #:use-module (crates-io))
+
+(define-public crate-sunbeam-ir-0.0.1-alpha (c (n "sunbeam-ir") (v "0.0.1-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "08jx7wdfgr0q6v3npllh2mzjvyp9ac8phxf9v8wpcbqpgavh9sc9")))
+
+(define-public crate-sunbeam-ir-0.0.2-alpha (c (n "sunbeam-ir") (v "0.0.2-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0p34d74b4mrs6928zni9lzi81icbrc8wvdcmghfcyhqf38ljpg3g")))
+
+(define-public crate-sunbeam-ir-0.0.3-alpha (c (n "sunbeam-ir") (v "0.0.3-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1lwmvnn25g3hrin02yjqbgqpk9vvjwih1xnyas29i51haxblp7j7")))
+
+(define-public crate-sunbeam-ir-0.0.4-alpha (c (n "sunbeam-ir") (v "0.0.4-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "027hb0qjxyjs1ivmyyx4dh45j6x54x61df1ccn81midw3fjjf022")))
+
+(define-public crate-sunbeam-ir-0.0.5-alpha (c (n "sunbeam-ir") (v "0.0.5-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0yii85h6qhzn52p8y47jxm3lqzv4ky3wnag8mzqf0mq6qsk8gy1r")))
+
+(define-public crate-sunbeam-ir-0.0.6-alpha (c (n "sunbeam-ir") (v "0.0.6-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1jzj4d6hbywkn347fd7w9qkn5yadyz267l9li7yv1dmri92hvw78")))
+
+(define-public crate-sunbeam-ir-0.0.7-alpha (c (n "sunbeam-ir") (v "0.0.7-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1blkrb5v4gad1nk3x9jk1br2wpv4g6qpd0pbcqpz0hzsdl05kz96")))
+
+(define-public crate-sunbeam-ir-0.0.8-alpha (c (n "sunbeam-ir") (v "0.0.8-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1hjk38d8p0f210hm9knzfrdccg6rc3ksi66wwxflrgvaqk552c75")))
+
+(define-public crate-sunbeam-ir-0.0.9-alpha (c (n "sunbeam-ir") (v "0.0.9-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1sn7s0ig83vi4w3y51mwgnqcszzj54icy7bx1wlpc8skyv666dgr")))
+
+(define-public crate-sunbeam-ir-0.0.10-alpha (c (n "sunbeam-ir") (v "0.0.10-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1dh8h89a9s3n79z3lvga67rh4j1kflabmyhwzjfihd3c4bfcb0dy")))
+
+(define-public crate-sunbeam-ir-0.0.11-alpha (c (n "sunbeam-ir") (v "0.0.11-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "06kbzl0kr40zq84iwqw1cjrpmzgn4hpn3g80a8mcx3d275mfm8cv")))
+
+(define-public crate-sunbeam-ir-0.0.12-alpha (c (n "sunbeam-ir") (v "0.0.12-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1pc9pka0qwd7rwhz8spcy572i6qhhnrjfm2qqjjawkpzw726h8l0")))
+
+(define-public crate-sunbeam-ir-0.0.13-alpha (c (n "sunbeam-ir") (v "0.0.13-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0s8flics5bd1wpb7hxs0rywyqwm8xvj58pzyyyfl9qsi4kz63xda")))
+
+(define-public crate-sunbeam-ir-0.0.14-alpha (c (n "sunbeam-ir") (v "0.0.14-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0j5s2qqzqfplwcr23d3frkgb9cdkpfpjnjjacawrndd493xbly16")))
+
+(define-public crate-sunbeam-ir-0.0.15-alpha (c (n "sunbeam-ir") (v "0.0.15-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1dq9c1kniaxly0y0qk1j33df4xlmi6vflkiky7xzlaax9z9mdja2")))
+
+(define-public crate-sunbeam-ir-0.0.16-alpha (c (n "sunbeam-ir") (v "0.0.16-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0l4vggcvdn1z0kl22vvrd49fnc166gflgrg0b1c3bph0x39qc6v5")))
+
+(define-public crate-sunbeam-ir-0.0.17-alpha (c (n "sunbeam-ir") (v "0.0.17-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "166d691jw0arkgbnibf6k0mkc4lg763wfxvwgm3qrmijsipc43k6")))
+
+(define-public crate-sunbeam-ir-0.0.18-alpha (c (n "sunbeam-ir") (v "0.0.18-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "043bvhdwvk63bgkhhflh79bqwdmal5bryqj5pj0rpj6rfyv26c6s")))
+
+(define-public crate-sunbeam-ir-0.0.19-alpha (c (n "sunbeam-ir") (v "0.0.19-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0r1rp5hq37f2322qy15lc82ksbaqq8yr35ic74as66mjzsf4va78")))
+
+(define-public crate-sunbeam-ir-0.0.20-alpha (c (n "sunbeam-ir") (v "0.0.20-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0c0wqv5vv3cifvfak1blqzg70y1xayhk0m92g0anqccfxfd90fnm")))
+
+(define-public crate-sunbeam-ir-0.0.21-alpha (c (n "sunbeam-ir") (v "0.0.21-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "183dx4j07ap5yw097qwhddxkw8xqya6b8xwpcvbrglakb14mxhn2")))
+
+(define-public crate-sunbeam-ir-0.0.22-alpha (c (n "sunbeam-ir") (v "0.0.22-alpha") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "19848nx88q8wx9m8z1hm80a274g854msjifl2q0ywkpf086wbxbw")))
+

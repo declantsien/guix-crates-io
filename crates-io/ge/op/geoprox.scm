@@ -1,0 +1,4 @@
+(define-module (crates-io ge op geoprox) #:use-module (crates-io))
+
+(define-public crate-geoprox-0.1.0 (c (n "geoprox") (v "0.1.0") (d (list (d (n "axum") (r "^0.7.5") (f (quote ("macros"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "geohash") (r "^0.13.1") (d #t) (k 0)) (d (n "kiddo") (r "^4.2.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "patricia_tree") (r "^0.8.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.5.2") (f (quote ("fs" "trace"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "19csixwz2dfxqv9r4nxhdc6c5clsij5925hk3nxan9j4f7d42r4d")))
+

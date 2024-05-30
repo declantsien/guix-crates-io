@@ -1,0 +1,6 @@
+(define-module (crates-io pr om prometheus-linux-nfsdv4-exporter) #:use-module (crates-io))
+
+(define-public crate-prometheus-linux-nfsdv4-exporter-1.0.1 (c (n "prometheus-linux-nfsdv4-exporter") (v "1.0.1") (d (list (d (n "clap") (r "^2.33.3") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "nix") (r "^0.22.1") (d #t) (k 0)) (d (n "prometheus") (r "^0.9") (f (quote ("process"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-threaded" "time"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "14srnhpw2lfnppy3zz8vr5kii3ljimsqrkwh1yr7z48jna30bg4p")))
+
+(define-public crate-prometheus-linux-nfsdv4-exporter-1.1.3 (c (n "prometheus-linux-nfsdv4-exporter") (v "1.1.3") (d (list (d (n "clap") (r "^2.33.3") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "nix") (r "^0.22.1") (d #t) (k 0)) (d (n "prometheus") (r "^0.9") (f (quote ("process"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-threaded" "time"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "0cpw22adn1igaca7jkv0v55c1l7rj6b6siv42vgw2g643ai6l38p")))
+

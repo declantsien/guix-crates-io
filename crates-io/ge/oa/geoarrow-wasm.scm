@@ -1,0 +1,4 @@
+(define-module (crates-io ge oa geoarrow-wasm) #:use-module (crates-io))
+
+(define-public crate-geoarrow-wasm-0.1.0 (c (n "geoarrow-wasm") (v "0.1.0") (d (list (d (n "arrow2") (r "^0.17") (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "geo") (r "^0.25") (d #t) (k 0)) (d (n "geoarrow") (r "^0.0.1") (d #t) (k 0) (p "geoarrow2")) (d (n "geodesy") (r "^0.10") (f (quote ("js"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.63") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.13") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (o #t) (d #t) (k 0)))) (h "1xmgilnid92r5mpb8r2x4vgxrq9i3clh30vrn6xkdpajh4989wiw") (f (quote (("default" "console_error_panic_hook") ("debug" "console_error_panic_hook")))) (s 2) (e (quote (("geodesy" "dep:geodesy" "geoarrow/geodesy")))) (r "1.62")))
+

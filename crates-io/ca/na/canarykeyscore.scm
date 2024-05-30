@@ -1,0 +1,4 @@
+(define-module (crates-io ca na canarykeyscore) #:use-module (crates-io))
+
+(define-public crate-CanaryKeysCore-0.0.1 (c (n "CanaryKeysCore") (v "0.0.1") (d (list (d (n "AmanitaMuscaria") (r "^0.0.5") (d #t) (k 0)) (d (n "CanaryValidationLib") (r "^0.1.1") (d #t) (k 0)) (d (n "base32") (r "^0.4.0") (d #t) (k 0)) (d (n "blake2") (r "^0.10.2") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "blake3") (r "^1.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1f1zwv3xvpm3m4c70mp1riv9d8whhxcv98nwgnz22wm9hd8z3zhq")))
+

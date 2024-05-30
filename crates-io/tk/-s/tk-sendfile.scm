@@ -1,0 +1,14 @@
+(define-module (crates-io tk -s tk-sendfile) #:use-module (crates-io))
+
+(define-public crate-tk-sendfile-0.1.0 (c (n "tk-sendfile") (v "0.1.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.2") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.2") (d #t) (k 0)) (d (n "nix") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.0") (d #t) (k 0)))) (h "0ra7kl9pvffblgxrw6y0sanbndkp3n3fykm2yhk8s27azg7nfpb1")))
+
+(define-public crate-tk-sendfile-0.2.0 (c (n "tk-sendfile") (v "0.2.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.2") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.2") (d #t) (k 0)) (d (n "nix") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.0") (d #t) (k 0)))) (h "13iiml1v32fcva1f436mk2l3zrhzlsncawn0xgjfix6g71gwkyyq")))
+
+(define-public crate-tk-sendfile-0.3.0 (c (n "tk-sendfile") (v "0.3.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.2") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.2") (d #t) (k 0)) (d (n "nix") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.0") (d #t) (k 0)))) (h "164qjyp2ml5f7ww6g0m2iwajjggyrjakg01fqprxfgi3yqih8mcw")))
+
+(define-public crate-tk-sendfile-0.3.1 (c (n "tk-sendfile") (v "0.3.1") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.2") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.2") (d #t) (k 0)) (d (n "nix") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.0") (d #t) (k 0)))) (h "0raidxagadpsvp82asksfr7pmk4lphmcs38wmvc7fpplfi2hwr6b")))
+
+(define-public crate-tk-sendfile-0.3.2 (c (n "tk-sendfile") (v "0.3.2") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.2") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.2") (d #t) (k 0)) (d (n "nix") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.0") (d #t) (k 0)))) (h "1h3i016qcj3pm38gn14pwxl756fscpwpcxaqwla1cl21jncxv6cw")))
+
+(define-public crate-tk-sendfile-0.4.0 (c (n "tk-sendfile") (v "0.4.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.2") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.2") (d #t) (k 0)) (d (n "libc") (r "^0.2.21") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.0") (d #t) (k 0)))) (h "08fyk9q4ajmxmz9mvhs8cjj93lwmlld6sin0520crplwc73pkc00")))
+

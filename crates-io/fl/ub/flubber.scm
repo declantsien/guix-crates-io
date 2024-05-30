@@ -1,0 +1,4 @@
+(define-module (crates-io fl ub flubber) #:use-module (crates-io))
+
+(define-public crate-flubber-0.1.0 (c (n "flubber") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "derive_more") (r "^0.14.0") (d #t) (k 0)) (d (n "diesel") (r "^1.4.1") (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "libremexre") (r "^0.1.3") (f (quote ("backtrace"))) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)) (d (n "tokio-process") (r "^0.2.3") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)))) (h "1mla5nzlwj41gdjs9awssfyfdkf02h5r9mj67fgikc6pcjkfq7kk")))
+

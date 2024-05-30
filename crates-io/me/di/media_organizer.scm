@@ -1,0 +1,34 @@
+(define-module (crates-io me di media_organizer) #:use-module (crates-io))
+
+(define-public crate-media_organizer-0.1.0 (c (n "media_organizer") (v "0.1.0") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "0lamag6d3jg00qbm2izssv21db5sf4hydywq1gf5mai3c3mlirbp")))
+
+(define-public crate-media_organizer-0.1.1 (c (n "media_organizer") (v "0.1.1") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "14j1lv18ywn65wksy0l1bx2kbwdba3r58s53kbbykbpdj9i05i6s")))
+
+(define-public crate-media_organizer-0.2.0 (c (n "media_organizer") (v "0.2.0") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "07l7xf91qh2dqc027284rvi6y32647bdh3q6k568r2s6hgnl40cp")))
+
+(define-public crate-media_organizer-0.3.0 (c (n "media_organizer") (v "0.3.0") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "1fyzhxq29vskx18b25qdvyy971l3ik1kj423mglssgqkkbjs890l")))
+
+(define-public crate-media_organizer-0.3.1 (c (n "media_organizer") (v "0.3.1") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "1fxih1gka8z4bxxm34bss4ligk5m8x25lw619gd14g6mqyga49q0")))
+
+(define-public crate-media_organizer-0.3.3 (c (n "media_organizer") (v "0.3.3") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "0rg8h1cx8bj1xd9r8w82bifkvba0jl7k1nnznb78nj3mq1is2vwz")))
+
+(define-public crate-media_organizer-0.3.4 (c (n "media_organizer") (v "0.3.4") (d (list (d (n "clap") (r "^2.33") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "0v67qzbz1s4p0nbh9immq4x7bk9d4xlnk0358sc8sd7qj8icsxkd")))
+
+(define-public crate-media_organizer-0.3.5 (c (n "media_organizer") (v "0.3.5") (d (list (d (n "clap") (r "^2.34") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)))) (h "037dgykzwlhdsydkfxc7saawicmrm39p1wz9pz2yilrvrxis80x2")))
+
+(define-public crate-media_organizer-0.3.6 (c (n "media_organizer") (v "0.3.6") (d (list (d (n "clap") (r "^2.34") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.3.0") (d #t) (k 0)))) (h "1fqyni8nq98kv94f6nb55zvwda2l38pqlw6fkwyby3y5a3xva15c")))
+
+(define-public crate-media_organizer-0.4.0 (c (n "media_organizer") (v "0.4.0") (d (list (d (n "clap") (r "^2.34") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.3.0") (d #t) (k 0)))) (h "19gslhvr8hfblafb3vk5ydm7640m5wvwazknihbwdh71w7ch3dw1")))
+
+(define-public crate-media_organizer-0.4.1 (c (n "media_organizer") (v "0.4.1") (d (list (d (n "clap") (r "^2.34") (f (quote ("suggestions" "color" "vec_map"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^4.4.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.3.0") (d #t) (k 0)))) (h "1j01yxi8kqrfzw963dfa0h1shjbg004f2r7dypbd40662k1lcc86")))
+
+(define-public crate-media_organizer-0.5.0 (c (n "media_organizer") (v "0.5.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^5.0.2") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.4") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.3.0") (d #t) (k 0)))) (h "0xmaa2q3yn960nkp5wsiag56m83qliy4z8jr103n1jj3gwmjfjxj")))
+
+(define-public crate-media_organizer-0.5.4 (c (n "media_organizer") (v "0.5.4") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^5.1.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5.5") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.4.1") (d #t) (k 0)))) (h "0k7m3fjr7iy3x9qrq0yk1khcwihwmcrs0kmrmvi553b6rw395bx0")))
+
+(define-public crate-media_organizer-0.6.0 (c (n "media_organizer") (v "0.6.0") (d (list (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "media_info") (r "^0.1.0") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.4.1") (d #t) (k 0)))) (h "15arvk1c1xkwwqxxlc2barri64k5kzz5lzrna7ak15d1sagsxkam")))
+
+(define-public crate-media_organizer-0.6.1 (c (n "media_organizer") (v "0.6.1") (d (list (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "media_info") (r "^0.2.0") (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.4.1") (d #t) (k 0)))) (h "1z4mv55m5pj8pw7l4l4xbaplmjrsy2r48p8kn2mzik2dq921dpb6")))
+
+(define-public crate-media_organizer-0.6.2 (c (n "media_organizer") (v "0.6.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "media_info") (r "^0.3.1") (f (quote ("all"))) (d #t) (k 0)) (d (n "mkdirp") (r "^1.0.0") (d #t) (k 0)) (d (n "permissions") (r "^0.5.1") (d #t) (k 0)))) (h "072rrpfjxag4ygmcg8rrgc4znlx21ymff8bz8z629l4bq54hzvr3")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io po rt portcontrolcd) #:use-module (crates-io))
+
+(define-public crate-portcontrolcd-0.1.0 (c (n "portcontrolcd") (v "0.1.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "directories") (r "^2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.1.0") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.1.1") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.2.0") (f (quote ("mio_socket"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rust-ini") (r "^0.13.0") (d #t) (k 0)))) (h "1w1d8m1d59v285mb8dgbkhs6iak63b9z4mah3h0zhcl8hsi29hyl")))
+
+(define-public crate-portcontrolcd-0.1.1 (c (n "portcontrolcd") (v "0.1.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "directories") (r "^2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.1.0") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.1.1") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.2.0") (f (quote ("mio_socket"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rust-ini") (r "^0.13.0") (d #t) (k 0)))) (h "1v51pn5skq7325w6755vczqxwbrjk2as2kdvigdmhrgbvn3kdx02")))
+

@@ -1,0 +1,28 @@
+(define-module (crates-io hp ke hpke-rs-crypto) #:use-module (crates-io))
+
+(define-public crate-hpke-rs-crypto-0.1.0 (c (n "hpke-rs-crypto") (v "0.1.0") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.1") (f (quote ("derive"))) (d #t) (k 0)))) (h "06gb9apisd4jdmwzwmjqdahahk9mkxpkgljz6v3nr3nq910g2jzv")))
+
+(define-public crate-hpke-rs-crypto-0.1.1-pre.1 (c (n "hpke-rs-crypto") (v "0.1.1-pre.1") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.2.0-pre.2") (f (quote ("derive"))) (d #t) (k 0)))) (h "0c9qbyv7h9wj7rhv317s9qqp9whqmfwf1n6xly9cqahpfnn90hqx")))
+
+(define-public crate-hpke-rs-crypto-0.1.1-pre.2 (c (n "hpke-rs-crypto") (v "0.1.1-pre.2") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.2.0-pre.4") (f (quote ("derive"))) (d #t) (k 0)))) (h "1r8mziarh6hql3hd2yabcgd642ymzj7yxwx0p496iz21ljq56gnc")))
+
+(define-public crate-hpke-rs-crypto-0.1.1 (c (n "hpke-rs-crypto") (v "0.1.1") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.2.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0mclrrwbfmjjpf3100r6af78aanlnkla21cxvjz94742xmggxp3g")))
+
+(define-public crate-hpke-rs-crypto-0.1.2-pre.2 (c (n "hpke-rs-crypto") (v "0.1.2-pre.2") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.3.0-pre.4") (f (quote ("derive"))) (d #t) (k 0)))) (h "13fy0n6wrmqn55gz4i87vvg49khiprchwddvih2bilcni1r0nqnb")))
+
+(define-public crate-hpke-rs-crypto-0.1.2 (c (n "hpke-rs-crypto") (v "0.1.2") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.3.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1n97klgami9safln3axb933xvx4fx8v06y905xl4y6cdcyh67j5x")))
+
+(define-public crate-hpke-rs-crypto-0.1.3-pre.1 (c (n "hpke-rs-crypto") (v "0.1.3-pre.1") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.4.0-pre.1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0w5na7l1j9v039y2rzb90qcjfwzxhws5yhg4nscxzwjjpx1h2wyf")))
+
+(define-public crate-hpke-rs-crypto-0.1.3-pre.2 (c (n "hpke-rs-crypto") (v "0.1.3-pre.2") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.4.0-pre.2") (f (quote ("derive"))) (d #t) (k 0)))) (h "0fbl6jjx3ghbkyx9v7fgb1m4gsp65qyf67svpncx031hnqkd2zp8")))
+
+(define-public crate-hpke-rs-crypto-0.1.3-pre.3 (c (n "hpke-rs-crypto") (v "0.1.3-pre.3") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.4.0-pre.3") (f (quote ("derive"))) (d #t) (k 0)))) (h "0sh9l4dpxb63724sh337sa1a84ji2ilfm3hi66b4mnf6h0gj4cvv")))
+
+(define-public crate-hpke-rs-crypto-0.1.3-pre.4 (c (n "hpke-rs-crypto") (v "0.1.3-pre.4") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.4.0-pre.4") (f (quote ("derive"))) (d #t) (k 0)))) (h "0kaq3ffmg00h6rabq4ijc07v9r41fw7zwg9n9a8nj7ricjv1glpm")))
+
+(define-public crate-hpke-rs-crypto-0.1.3 (c (n "hpke-rs-crypto") (v "0.1.3") (d (list (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tls_codec") (r "^0.4.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1pwi9fvg47mb8wk6n0pgz1a6aflp7401snazarny9knraf1p9pvr")))
+
+(define-public crate-hpke-rs-crypto-0.2.0-pre.1 (c (n "hpke-rs-crypto") (v "0.2.0-pre.1") (d (list (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1zlhqxfb7yg6sa8s7q9idnih37x6z8mbwklxzxwx2q9lizfd5lz2") (f (quote (("std")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-hpke-rs-crypto-0.2.0 (c (n "hpke-rs-crypto") (v "0.2.0") (d (list (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0rsv0m7bsq5wankhjjr498f2cmk02cbi5nvhk93dc63clbh1lgqw") (f (quote (("std")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

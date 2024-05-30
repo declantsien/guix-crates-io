@@ -1,0 +1,16 @@
+(define-module (crates-io be vy bevy_flicker) #:use-module (crates-io))
+
+(define-public crate-bevy_flicker-0.1.0 (c (n "bevy_flicker") (v "0.1.0") (d (list (d (n "bevy") (r "^0.10.1") (d #t) (k 0)))) (h "1bjiwhhl4gnsln4sl4zdvcxg58hy2a25k3klgh4kf3jfmd95rr93") (f (quote (("warnings"))))))
+
+(define-public crate-bevy_flicker-0.1.1 (c (n "bevy_flicker") (v "0.1.1") (d (list (d (n "bevy") (r "^0.10.1") (d #t) (k 0)))) (h "09dvblprhyxy0z3sgh41xdk7l01lmnky2rzj4id0i54q0agnj32k") (f (quote (("warnings"))))))
+
+(define-public crate-bevy_flicker-0.1.2 (c (n "bevy_flicker") (v "0.1.2") (d (list (d (n "bevy") (r "^0.10.1") (d #t) (k 0)))) (h "14q2x38wkv3hp3agz7nc9j2i858jx09k9a9z4vbz4ci56j628bjg") (f (quote (("warnings"))))))
+
+(define-public crate-bevy_flicker-0.2.0 (c (n "bevy_flicker") (v "0.2.0") (d (list (d (n "bevy") (r "^0.10.1") (d #t) (k 0)))) (h "00sx0wyw1293h2r25dwfsx506c0wyyj4m4dyx7wf9l41vnx5w7pw") (f (quote (("warnings"))))))
+
+(define-public crate-bevy_flicker-0.3.0 (c (n "bevy_flicker") (v "0.3.0") (d (list (d (n "bevy") (r "^0.11.0") (d #t) (k 2)) (d (n "bevy_app") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_hierarchy") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_log") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_math") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_pbr") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_reflect") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_render") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_time") (r "^0.11.0") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.11.0") (d #t) (k 0)))) (h "1j9ghxsgiapykqkzsx56i7197n2aaxiwx9y4ln0ibgwxjdiszxdr") (f (quote (("warnings"))))))
+
+(define-public crate-bevy_flicker-0.4.0 (c (n "bevy_flicker") (v "0.4.0") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_app") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_hierarchy") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_log") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_math") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_pbr") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_reflect") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_render") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_time") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.12.0") (d #t) (k 0)))) (h "0l5fip80dsjp02s2hyrlzfaiaxh90dhshkxkjx7d9cb4n0dy4pi7") (f (quote (("warnings"))))))
+
+(define-public crate-bevy_flicker-0.5.0 (c (n "bevy_flicker") (v "0.5.0") (d (list (d (n "bevy") (r "^0.13.0") (d #t) (k 2)) (d (n "bevy_app") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_hierarchy") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_log") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_math") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_pbr") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_reflect") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_render") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_time") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.13.0") (d #t) (k 0)))) (h "12idnj8wvkx1lk21di4acyc4qcp8l7k93mqa2k07rs01zh4gs9fs") (f (quote (("warnings"))))))
+

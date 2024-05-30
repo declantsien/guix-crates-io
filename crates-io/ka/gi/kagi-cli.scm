@@ -1,0 +1,4 @@
+(define-module (crates-io ka gi kagi-cli) #:use-module (crates-io))
+
+(define-public crate-kagi-cli-0.1.0 (c (n "kagi-cli") (v "0.1.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4") (d #t) (k 0)) (d (n "config") (r "^0.13") (d #t) (k 0)) (d (n "kagi-api") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.1.6") (d #t) (k 0)) (d (n "rvcr") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)) (d (n "textwrap") (r "^0.16") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0m15hcivvb16pfzyna6ipdbnrp43z1s411f3hfwrgpaqxwg7k927")))
+

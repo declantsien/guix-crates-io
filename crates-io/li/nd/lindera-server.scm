@@ -1,0 +1,4 @@
+(define-module (crates-io li nd lindera-server) #:use-module (crates-io))
+
+(define-public crate-lindera-server-0.12.0 (c (n "lindera-server") (v "0.12.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "axum") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lindera") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0ys26mr8irqygjaprg46i5nzc7mjxvddmva1np1ky6kzd55zmxbh") (f (quote (("unidic" "lindera/unidic") ("ko-dic" "lindera/ko-dic") ("ipadic" "lindera/ipadic") ("full" "ipadic" "unidic" "ko-dic" "cc-cedict") ("default") ("compress" "lindera/compress") ("cc-cedict" "lindera/cc-cedict"))))))
+

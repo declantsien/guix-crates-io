@@ -1,0 +1,12 @@
+(define-module (crates-io se rf serfig) #:use-module (crates-io))
+
+(define-public crate-serfig-0.0.0 (c (n "serfig") (v "0.0.0") (h "156gc3zjf89f6lqia9717asjv63g7474hlr0r73rhzgs14mv4gav")))
+
+(define-public crate-serfig-0.0.1 (c (n "serfig") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "indexmap") (r "^1.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde-bridge") (r "^0.0.3") (d #t) (k 0)) (d (n "serde-env") (r "^0.0.1") (d #t) (k 0)) (d (n "temp-env") (r "^0.2.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "02j8rhnxilqkj7w3ifbflxhbs8l3w1xh1dyiw7xi7sldgfskiqdz")))
+
+(define-public crate-serfig-0.0.2 (c (n "serfig") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "indexmap") (r "^1.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde-bridge") (r "^0.0.3") (d #t) (k 0)) (d (n "serde-env") (r "^0.0.2") (d #t) (k 0)) (d (n "temp-env") (r "^0.2.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "060g46fxcndqaqparjar1wlv345pv7715m1l16fxwx8bpmjj4bkq")))
+
+(define-public crate-serfig-0.0.3 (c (n "serfig") (v "0.0.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "indexmap") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde-bridge") (r "^0.0.3") (d #t) (k 0)) (d (n "serde-env") (r "^0.1") (d #t) (k 0)) (d (n "temp-env") (r "^0.3") (d #t) (k 2)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1z47x1wrhj9sn9s1lbwl2fkjghjddykj0713i0s89lxywdwaav75")))
+
+(define-public crate-serfig-0.1.0 (c (n "serfig") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde-bridge") (r "^0.0.3") (d #t) (k 0)) (d (n "serde-env") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "temp-env") (r "^0.3") (d #t) (k 2)))) (h "1y3a30clwf9pr7j79cll7bjpwrd562kf6m5mrbnhr66wpb2qn3zl")))
+

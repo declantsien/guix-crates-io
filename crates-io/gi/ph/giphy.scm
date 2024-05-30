@@ -1,0 +1,14 @@
+(define-module (crates-io gi ph giphy) #:use-module (crates-io))
+
+(define-public crate-giphy-0.0.1 (c (n "giphy") (v "0.0.1") (d (list (d (n "dotenv") (r "^0.13.0") (d #t) (k 0)) (d (n "iso639-1") (r "^0.3.0") (d #t) (k 0)) (d (n "mockito") (r "^0.16.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.9.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)))) (h "1d91kmh0n0644ywv18l377bya9vynm9iaaasrp093f9fxnzg4g9j")))
+
+(define-public crate-giphy-0.2.0 (c (n "giphy") (v "0.2.0") (d (list (d (n "dotenv") (r "^0.13.0") (d #t) (k 2)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "iso639-1") (r "^0.3.0") (d #t) (k 0)) (d (n "mockito") (r "^0.16.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.9.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 2)))) (h "1rw51dwb0fdz5mfvn7ixk4wzpymb6jx7jnhj2xv64kr6ykxjnqss")))
+
+(define-public crate-giphy-0.2.1 (c (n "giphy") (v "0.2.1") (d (list (d (n "dotenv") (r "^0.13.0") (d #t) (k 2)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "iso639-1") (r "^0.3.0") (d #t) (k 0)) (d (n "mockito") (r "^0.16.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.9.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 2)))) (h "0pzf1qyv9af9qzpbx537pq0grp236aap4hb59ngrkffaayj0kpj2")))
+
+(define-public crate-giphy-0.3.0 (c (n "giphy") (v "0.3.0") (d (list (d (n "dotenv") (r "^0.13.0") (d #t) (k 2)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "mockito") (r "^0.16.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.9.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 2)))) (h "035z71pkxdxw9xpgj9067ny4n5ibxpz5ikxn29zg3zb2jilpl20m")))
+
+(define-public crate-giphy-0.4.0 (c (n "giphy") (v "0.4.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "mockito") (r "^0.30.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("macros"))) (d #t) (k 2)))) (h "01j9aw5zas3y8lggs4j0359c3qvak14xs2z9xqm8brd3lgbm9dcv")))
+
+(define-public crate-giphy-0.4.1 (c (n "giphy") (v "0.4.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "mockito") (r "^0.30.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("macros"))) (d #t) (k 2)))) (h "1fns899w0wz4v331yr9dbv5xlbi37il6s2annpm85rmh191xxrw3")))
+

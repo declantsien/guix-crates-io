@@ -1,0 +1,6 @@
+(define-module (crates-io ev er everscale-raptorq) #:use-module (crates-io))
+
+(define-public crate-everscale-raptorq-1.7.0 (c (n "everscale-raptorq") (v "1.7.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "primal") (r "^0.3") (d #t) (k 2)) (d (n "pyo3") (r "^0.16") (f (quote ("extension-module" "abi3-py37"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0.102") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1.7") (d #t) (k 2)))) (h "0z554frzrf8w5phmpaycdcqv622w1s2yyyckg094g2q6ab57x7ki") (f (quote (("serde_support" "serde") ("python" "pyo3") ("benchmarking")))) (r "1.60")))
+
+(define-public crate-everscale-raptorq-1.8.0-rc.0 (c (n "everscale-raptorq") (v "1.8.0-rc.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "primal") (r "^0.3") (d #t) (k 2)) (d (n "pyo3") (r "^0.16") (f (quote ("extension-module" "abi3-py37"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0.102") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1.7") (d #t) (k 2)))) (h "0k0ss5ibmq246n0zb5xm6ahh0w0rrlq72as25gviy4y4k5g0bb32") (f (quote (("std") ("serde_support" "serde" "std") ("python" "pyo3" "std") ("default" "std") ("benchmarking" "std")))) (r "1.60")))
+

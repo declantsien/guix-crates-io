@@ -1,0 +1,18 @@
+(define-module (crates-io ar ro arrow-udf-macros) #:use-module (crates-io))
+
+(define-public crate-arrow-udf-macros-0.1.0 (c (n "arrow-udf-macros") (v "0.1.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0zgcbq8zw2260a98rqi14nlhr8119k9m2w61lwz087cy0vr2llvv")))
+
+(define-public crate-arrow-udf-macros-0.1.1 (c (n "arrow-udf-macros") (v "0.1.1") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1mrl0dgp6nipfln5zaj7da80k7wp4ady73m36bng0d78502hl6kb")))
+
+(define-public crate-arrow-udf-macros-0.1.2 (c (n "arrow-udf-macros") (v "0.1.2") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "03bicn7qhkn7d0726lsfvzs5dg6748cjmj56zhcsgjj4132grv0g")))
+
+(define-public crate-arrow-udf-macros-0.1.3 (c (n "arrow-udf-macros") (v "0.1.3") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "05zlqwbf6jlly0fld6gxyhz7c7m2amm2mmsab5apgw9kkn8yjb1k")))
+
+(define-public crate-arrow-udf-macros-0.2.0 (c (n "arrow-udf-macros") (v "0.2.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "expect-test") (r "^1") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "143wps16cjvgmfh8ffr953af9wa4gqlkyvvc227xrk5pkr7jmfdr")))
+
+(define-public crate-arrow-udf-macros-0.2.1 (c (n "arrow-udf-macros") (v "0.2.1") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "expect-test") (r "^1") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0rawn9hma4nck2ka7bzw9h148phkcwa9n45hg4hscm22a8yv3g1g")))
+
+(define-public crate-arrow-udf-macros-0.2.2 (c (n "arrow-udf-macros") (v "0.2.2") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "expect-test") (r "^1") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0wqiyahmaccd4byixv1902acwnih1pxkv175pq6d46r71r8lc6a3")))
+
+(define-public crate-arrow-udf-macros-0.3.0 (c (n "arrow-udf-macros") (v "0.3.0") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "expect-test") (r "^1") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1yva62jlgji1slryc8sh20xrgs4kqj1angz4rxv4mzvk9phcfv8f")))
+

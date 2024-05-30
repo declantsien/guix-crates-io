@@ -1,0 +1,4 @@
+(define-module (crates-io ko na konachan) #:use-module (crates-io))
+
+(define-public crate-konachan-0.0.1 (c (n "konachan") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("socks" "rustls-tls-native-roots"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1plbm5p8sf89mhzycnkxm7apw788d39pvrywsj6hcvkw73a0044b")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io to ke token_trekker_rs) #:use-module (crates-io))
+
+(define-public crate-token_trekker_rs-0.1.0 (c (n "token_trekker_rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "tiktoken-rs") (r "^0.3.2") (d #t) (k 0)))) (h "0nqf6cqzcg2458rmpb4p6ibzs1dy9146d2861hkam893h1xp3pav")))
+
+(define-public crate-token_trekker_rs-0.1.1 (c (n "token_trekker_rs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "tiktoken-rs") (r "^0.3.2") (d #t) (k 0)))) (h "0y5x4mcmrv4bz1ml9xhlaxn0gy2mgbx8f5vjbjnn2f7kaz3vhnwh")))
+
+(define-public crate-token_trekker_rs-0.1.2 (c (n "token_trekker_rs") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "tiktoken-rs") (r "^0.3.2") (d #t) (k 0)))) (h "1wp9wrrb729m1pbvayjsvwj2xzn5cfl2j4yjpd2rbjpj9pcxmc05")))
+
+(define-public crate-token_trekker_rs-0.1.3 (c (n "token_trekker_rs") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "tiktoken-rs") (r "^0.3.2") (d #t) (k 0)))) (h "1nm24j6iwawacicrdz42zgqgv0qhl1dr6mlkaih4k73wh8dlp11g")))
+

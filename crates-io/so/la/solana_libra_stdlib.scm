@@ -1,0 +1,10 @@
+(define-module (crates-io so la solana_libra_stdlib) #:use-module (crates-io))
+
+(define-public crate-solana_libra_stdlib-0.0.0-sol15 (c (n "solana_libra_stdlib") (v "0.0.0-sol15") (d (list (d (n "bytecode_verifier") (r "^0.0.0-sol15") (d #t) (k 0) (p "solana_libra_bytecode_verifier")) (d (n "ir_to_bytecode") (r "^0.0.0-sol15") (d #t) (k 0) (p "solana_libra_ir_to_bytecode")) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "types") (r "^0.0.0-sol15") (d #t) (k 0) (p "solana_libra_types")))) (h "0g7wm4ddwdzw20hvl9d2m36bazxr4nmmg1vlwar26jdh072vl8z7")))
+
+(define-public crate-solana_libra_stdlib-0.0.0 (c (n "solana_libra_stdlib") (v "0.0.0") (d (list (d (n "bytecode_verifier") (r "^0.0.0") (d #t) (k 0) (p "solana_libra_bytecode_verifier")) (d (n "ir_to_bytecode") (r "^0.0.0") (d #t) (k 0) (p "solana_libra_ir_to_bytecode")) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "types") (r "^0.0.0") (d #t) (k 0) (p "solana_libra_types")))) (h "086sbpn644v8i8zczg088h2qqrq157vmw0fc909ypbfxgdnqa6p1")))
+
+(define-public crate-solana_libra_stdlib-0.0.1-sol4 (c (n "solana_libra_stdlib") (v "0.0.1-sol4") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "solana_libra_bytecode_verifier") (r "^0.0.1-sol4") (d #t) (k 0)) (d (n "solana_libra_ir_to_bytecode") (r "^0.0.1-sol4") (d #t) (k 0)) (d (n "solana_libra_types") (r "^0.0.1-sol4") (d #t) (k 0)) (d (n "solana_libra_types") (r "^0.0.1-sol4") (f (quote ("testing"))) (d #t) (k 2)))) (h "0jgdbxx0gdiag4id5mksjpas2c5c3jrvf6dlv3snkm7ci58flqml")))
+
+(define-public crate-solana_libra_stdlib-0.0.1-sol5 (c (n "solana_libra_stdlib") (v "0.0.1-sol5") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "solana_libra_bytecode_verifier") (r "^0.0.1-sol5") (d #t) (k 0)) (d (n "solana_libra_ir_to_bytecode") (r "^0.0.1-sol5") (d #t) (k 0)) (d (n "solana_libra_types") (r "^0.0.1-sol5") (d #t) (k 0)) (d (n "solana_libra_types") (r "^0.0.1-sol5") (f (quote ("testing"))) (d #t) (k 2)))) (h "1m5z2yqdl7jh65s450irghrjks5wyqps53r8hyqhgfigjh8n4sy5")))
+

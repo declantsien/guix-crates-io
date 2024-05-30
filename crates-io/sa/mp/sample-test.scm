@@ -1,0 +1,10 @@
+(define-module (crates-io sa mp sample-test) #:use-module (crates-io))
+
+(define-public crate-sample-test-0.1.0 (c (n "sample-test") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0") (d #t) (k 0)) (d (n "sample-std") (r "^0.1.0") (d #t) (k 0)) (d (n "sample-test-macros") (r "^0.1.0") (d #t) (k 0)))) (h "1z10xapw0lxcd2f5i3mbjqb8b30si3gksi1sggxg3zb1di7b4sk4") (s 2) (e (quote (("use_logging" "dep:log" "dep:env_logger"))))))
+
+(define-public crate-sample-test-0.1.1 (c (n "sample-test") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0") (d #t) (k 0)) (d (n "sample-std") (r "^0.1") (d #t) (k 0)) (d (n "sample-test-macros") (r "^0.1") (d #t) (k 0)))) (h "1cli62gcy91d4n97visnqqpbpws5xwrzlnl0w8dgq6gz8w4m0gki") (s 2) (e (quote (("use_logging" "dep:log" "dep:env_logger"))))))
+
+(define-public crate-sample-test-0.2.0 (c (n "sample-test") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0") (d #t) (k 0)) (d (n "sample-std") (r "^0.2") (d #t) (k 0)) (d (n "sample-test-macros") (r "^0.2") (d #t) (k 0)))) (h "0bwxjl84dblyz3g9wqij0wamr3kzshj81b58da01jkgwcq1vikqg") (s 2) (e (quote (("use_logging" "dep:log" "dep:env_logger"))))))
+
+(define-public crate-sample-test-0.2.1 (c (n "sample-test") (v "0.2.1") (d (list (d (n "env_logger") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0") (d #t) (k 0)) (d (n "sample-std") (r "^0.2") (d #t) (k 0)) (d (n "sample-test-macros") (r "^0.2") (d #t) (k 0)))) (h "1gymqxvr6avi40g73mg56lgzbs2x4yvy50mm15mpa5k4a7557cp8") (s 2) (e (quote (("use_logging" "dep:log" "dep:env_logger"))))))
+

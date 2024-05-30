@@ -1,0 +1,4 @@
+(define-module (crates-io fi nc finch_lib) #:use-module (crates-io))
+
+(define-public crate-finch_lib-0.4.0 (c (n "finch_lib") (v "0.4.0") (d (list (d (n "bincode") (r "^1.2.0") (d #t) (k 0)) (d (n "capnp") (r "^0.14") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "murmurhash3") (r "^0.0.5") (d #t) (k 0)) (d (n "ndarray") (r "^0.14") (d #t) (k 0)) (d (n "needletail") (r "^0.4") (d #t) (k 0)) (d (n "numpy") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "pyo3") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1a5m005rjyczlxs7hjwbnsggg3f6k227qb4p0mizr9225gb1a5ha") (f (quote (("python" "numpy" "pyo3" "pyo3/extension-module") ("default")))) (y #t)))
+

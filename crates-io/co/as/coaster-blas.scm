@@ -1,0 +1,8 @@
+(define-module (crates-io co as coaster-blas) #:use-module (crates-io))
+
+(define-public crate-coaster-blas-0.2.0 (c (n "coaster-blas") (v "0.2.0") (d (list (d (n "clippy") (r "^0.0.27") (o #t) (d #t) (k 0)) (d (n "coaster") (r "^0.1.0") (d #t) (k 0)) (d (n "cublas") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "rblas") (r "^0.0.13") (o #t) (d #t) (k 0)))) (h "038bq41j5jr6zf9bw974dmprlf3ag3wq82srcf58y9jsw56bll57") (f (quote (("travis" "native") ("opencl" "coaster/opencl") ("native" "coaster/native" "rblas") ("lint" "clippy") ("dev") ("default" "native" "cuda" "opencl") ("cuda" "coaster/cuda" "cublas"))))))
+
+(define-public crate-coaster-blas-0.3.0 (c (n "coaster-blas") (v "0.3.0") (d (list (d (n "coaster") (r "^0.1") (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rcublas") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "rust-blas") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "spin") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0hlfz991yaz9l7pap1q9gr5fvxars8i80hamap6hk8j8zw3wnkh7") (f (quote (("opencl" "coaster/opencl") ("native" "coaster/native" "rust-blas") ("default" "native" "cuda") ("cuda" "coaster/cuda" "rcublas" "spin"))))))
+
+(define-public crate-coaster-blas-0.4.0 (c (n "coaster-blas") (v "0.4.0") (d (list (d (n "coaster") (r "^0.2") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rcublas") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rust-blas") (r "^0.2") (o #t) (d #t) (k 0)))) (h "12q3i1hjjskl2llzpyya829nrvnsd6d9j34f2f9argclh5h8gngj") (f (quote (("opencl" "coaster/opencl") ("native" "coaster/native" "rust-blas") ("default" "native" "cuda") ("cuda" "coaster/cuda" "rcublas"))))))
+

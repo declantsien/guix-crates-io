@@ -1,0 +1,116 @@
+(define-module (crates-io ru sp rusp) #:use-module (crates-io))
+
+(define-public crate-rusp-0.1.0 (c (n "rusp") (v "0.1.0") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "1h9552l7dhij14hn722ynlz4i6j7ymvvysglgk3r9rnwnm3k2fyk")))
+
+(define-public crate-rusp-0.1.1 (c (n "rusp") (v "0.1.1") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "00kz5wfhvxykmd6d81mm0hay0zwzl0b2klima4ni5a2jnzp1bdhh")))
+
+(define-public crate-rusp-0.1.2 (c (n "rusp") (v "0.1.2") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "0il4xfmlcgvksxlpk9w3kvpn01i4x8nd9s9c2f28vqnplm1gms94")))
+
+(define-public crate-rusp-0.2.0 (c (n "rusp") (v "0.2.0") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "14dxfgl83r6x04f6mrv6hg80rjr7pzqnin374ix82zgmj113wb05")))
+
+(define-public crate-rusp-0.2.1 (c (n "rusp") (v "0.2.1") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "030m50c0x0ykz8lfsnscqn6i2krkb6g0ypnpj2j3nx94dnilh0xr")))
+
+(define-public crate-rusp-0.2.2 (c (n "rusp") (v "0.2.2") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "0kk65g5879j4qj5di64nq8bg2i06nzydb73y5l5pjaxc553jabcv")))
+
+(define-public crate-rusp-0.2.3 (c (n "rusp") (v "0.2.3") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "14ynf1cvh300vmp4flmqlv56yfdx3hs19qnc60v0rzj7cfg2bbmp")))
+
+(define-public crate-rusp-0.2.4 (c (n "rusp") (v "0.2.4") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "12brs4k02daarbc1rp74cwnsqx62cs5ir80bbk4g0f2kfsbjfv8r")))
+
+(define-public crate-rusp-0.2.5 (c (n "rusp") (v "0.2.5") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "0mxyqvk53rzy1xcmiikv84vlbldhykgbpj02d39pbjbl57nnyz4d")))
+
+(define-public crate-rusp-0.2.6 (c (n "rusp") (v "0.2.6") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "1rshkc8ig7kfz9wmiidzkmcdk9xgkhzqynpgs6sxzfr1s01y3p0c")))
+
+(define-public crate-rusp-0.2.7 (c (n "rusp") (v "0.2.7") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "14mdgs11n67v5lj40vh0dsiw0azrq5x0smm9b0wz7y94916dhvbd")))
+
+(define-public crate-rusp-0.2.8 (c (n "rusp") (v "0.2.8") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "1jq9sd3rrawxhrgixkzwqhl1l5lyag5mbhcn7a0inxijkkva9gpw")))
+
+(define-public crate-rusp-0.2.9 (c (n "rusp") (v "0.2.9") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "1dgdq20kk25yrhnlv6556mds5zjc0ayiwlr7dnxcha83by5y4vwr")))
+
+(define-public crate-rusp-0.2.10 (c (n "rusp") (v "0.2.10") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "1847i79ssac2mvd57i0z90i7sbydd2ydapi181qgaj06wmgc7r3f")))
+
+(define-public crate-rusp-0.2.11 (c (n "rusp") (v "0.2.11") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "0012gx6isqzsx530i53j79vfigk87v78yjrrcpciyywciyh78vdg")))
+
+(define-public crate-rusp-0.2.12 (c (n "rusp") (v "0.2.12") (d (list (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "0hqma6y7njxhpa9sdrql2fnrcy9za0li3wp10j6x44lfjwqxk9p3")))
+
+(define-public crate-rusp-0.2.13 (c (n "rusp") (v "0.2.13") (d (list (d (n "color-backtrace") (r "^0.1.3") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.15") (d #t) (k 0)))) (h "044dynmd4xf7s4m8ll9zy7yshj0nn8c7hi0kq0bivn56q4zwbq9d")))
+
+(define-public crate-rusp-0.3.0 (c (n "rusp") (v "0.3.0") (d (list (d (n "color-backtrace") (r "^0.1.3") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.17") (f (quote ("paw"))) (d #t) (k 0)))) (h "07xs7f7m0r6bpcfxmfsw6hb479l29sprwj2h71vg7yi1g3qajb2w")))
+
+(define-public crate-rusp-0.3.1 (c (n "rusp") (v "0.3.1") (d (list (d (n "color-backtrace") (r "^0.2.1") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.93") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.93") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "1lhal49vvd1qkxkdsz2iggi0imk835xn812fpw3mqqxcf2ijn9xp")))
+
+(define-public crate-rusp-0.3.2 (c (n "rusp") (v "0.3.2") (d (list (d (n "color-backtrace") (r "^0.2.1") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "0dpkdnvcj815b0njrqmsq48qwpgyvmi3rb0irjz5zx7jl9b8x697")))
+
+(define-public crate-rusp-0.3.3 (c (n "rusp") (v "0.3.3") (d (list (d (n "color-backtrace") (r "^0.2.2") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "1cddf3l0iiw1i5an8v7wrq0w6rq5qmjnm7hrqc6j2yv9fxp9ma7p")))
+
+(define-public crate-rusp-0.3.4 (c (n "rusp") (v "0.3.4") (d (list (d (n "color-backtrace") (r "^0.2.2") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "1ci2ajnd0dam3hlcnav4w69gnydgv4cjf0xfl70whz9lvrqmxjq5")))
+
+(define-public crate-rusp-0.4.0 (c (n "rusp") (v "0.4.0") (d (list (d (n "color-backtrace") (r "^0.2.2") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "1ljzzvvfvkb2hmc8x5racl4qgam9k3p1dvysrrilbsn0f88ahvqz")))
+
+(define-public crate-rusp-0.4.1 (c (n "rusp") (v "0.4.1") (d (list (d (n "color-backtrace") (r "^0.2.2") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "1yx4cj2241sc1yxpx6kyc5pdsqy9k4py6ava65k83c0c9ry7rrga")))
+
+(define-public crate-rusp-0.4.2 (c (n "rusp") (v "0.4.2") (d (list (d (n "color-backtrace") (r "^0.2.2") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.2.18") (f (quote ("paw"))) (d #t) (k 0)))) (h "0nh7m3k8020c9ifhmwmhzyvsfpwl001848nm0m00d87hb5701yia")))
+
+(define-public crate-rusp-0.5.0 (c (n "rusp") (v "0.5.0") (d (list (d (n "color-backtrace") (r "^0.2.3") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.1") (f (quote ("paw"))) (d #t) (k 0)))) (h "0sp5c66ncb7bbjr3fkj6cywssakx6qvnc81il2rahc6zqblx4l94")))
+
+(define-public crate-rusp-0.5.1 (c (n "rusp") (v "0.5.1") (d (list (d (n "color-backtrace") (r "^0.2.3") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.1") (f (quote ("paw"))) (d #t) (k 0)))) (h "0cp34v5jpgzp3j1cdh4xsb1zyysil1zmy5dc44cr3b9xwdic573p")))
+
+(define-public crate-rusp-0.5.2 (c (n "rusp") (v "0.5.2") (d (list (d (n "color-backtrace") (r "^0.2.3") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (f (quote ("paw"))) (d #t) (k 0)))) (h "0il4ynpfiz0las2pyrhsld4571g9jmj5wynb7hvrc2glsvb8v794")))
+
+(define-public crate-rusp-0.5.3 (c (n "rusp") (v "0.5.3") (d (list (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "14hm442mm85f687idm9vffhmmrdyal2wrinnyp52vj75hcn71yam")))
+
+(define-public crate-rusp-0.6.0 (c (n "rusp") (v "0.6.0") (d (list (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "0in6q72v9p5hgjs94ncyx0z2ynh9p27k02qx2ijg4gm1l5dffn6y")))
+
+(define-public crate-rusp-0.6.1 (c (n "rusp") (v "0.6.1") (d (list (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "1ry0gmsfv9x798qwx8kyz2nrvrw40c5ndd8dlhj060wnqx79s6lz")))
+
+(define-public crate-rusp-0.6.2 (c (n "rusp") (v "0.6.2") (d (list (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "18amysri9qmqzwxwg84bqg8ikaw2dhkl17prcnj6i7n06p55kjhy")))
+
+(define-public crate-rusp-0.6.3 (c (n "rusp") (v "0.6.3") (d (list (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "0fyh6gqlhbxbz6s5yb761i3lxxnnxmjdvy79671qcnmfys31w5z6")))
+
+(define-public crate-rusp-0.7.0 (c (n "rusp") (v "0.7.0") (d (list (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "04rxq2bvk4vr1szfhfx03vfrqwhm1zfjn5fd09h9gpa38i0h79wm")))
+
+(define-public crate-rusp-0.8.0 (c (n "rusp") (v "0.8.0") (d (list (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "04f7g15mx31bzp2fj13qhb5mybnr0lmnb44pc06kmlz0hd3c7hbv")))
+
+(define-public crate-rusp-0.8.1 (c (n "rusp") (v "0.8.1") (d (list (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "1b0ww9s3j9sam8pa6wfvl8p7ycfbz296fkl0nagzxb4ccghly6zj")))
+
+(define-public crate-rusp-0.9.0 (c (n "rusp") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "0x3ynglmvkpd0s6xanqb4m10an828cryjcs666yxnh9nli854rlm")))
+
+(define-public crate-rusp-0.9.1 (c (n "rusp") (v "0.9.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "paw") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)))) (h "0i68ij3b7gcs7f2hjvzzxy31zkniaqipmipqs9arvjb2ymsiygx1")))
+
+(define-public crate-rusp-0.10.0 (c (n "rusp") (v "0.10.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1b58536299yjr0nccyhmqr70a1w30fa8bilp2qnqlaq29dwkkl9x")))
+
+(define-public crate-rusp-0.10.1 (c (n "rusp") (v "0.10.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1gl6gzmm62d7c0pl3lszgrvzm3pxcgg22q12png0y3idcc4kf5rq")))
+
+(define-public crate-rusp-0.10.2 (c (n "rusp") (v "0.10.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1x3yfq1l8lrkp6wl8bvkxxhxhvn1zbgddylgi1hlngixxarj9mgw")))
+
+(define-public crate-rusp-0.10.3 (c (n "rusp") (v "0.10.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1bhja7jdmb3yi3khixizhd08cfpmjgv7ycz0n25m2k3gzf5zakhw")))
+
+(define-public crate-rusp-0.10.4 (c (n "rusp") (v "0.10.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0znczf9h7xwddlq1k0bcy4321vh39pys8lqjrjib1jk9vx4n4y2g")))
+
+(define-public crate-rusp-0.10.5 (c (n "rusp") (v "0.10.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1lrmscmdgnarknddj9gn1vn7q1z04w226h8qiyihh23mihgnb5ip")))
+
+(define-public crate-rusp-0.11.0 (c (n "rusp") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "027ln8iwxfz9zmlqi3s646rnsdfiwl3x5jx3vgxg9chdhannvy89")))
+
+(define-public crate-rusp-0.12.0 (c (n "rusp") (v "0.12.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0sh8w4hpvqzm6x8fy7i751bv3pa4a9r7szd4bn6hhpvhxw8xydzr")))
+
+(define-public crate-rusp-0.12.1 (c (n "rusp") (v "0.12.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "06ha5v8lkigm3gf0xm90z2p333av44qy66jmahdydwrcqic669z5")))
+
+(define-public crate-rusp-0.13.0 (c (n "rusp") (v "0.13.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "07z1qzckxkbg5v21ydnlsy6hc8h8639g9pix058rxnzbwxn12gxq")))
+
+(define-public crate-rusp-0.13.1 (c (n "rusp") (v "0.13.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0379z7hhihk3fdyc92j753b7vmgm44mga412f051q25v6zcfcimf")))
+
+(define-public crate-rusp-0.13.2 (c (n "rusp") (v "0.13.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15f7wrsqcih3x88xpc5y4q8mxrjmdy7k6d8mkxf2wkvggglqipbm")))
+
+(define-public crate-rusp-0.13.3 (c (n "rusp") (v "0.13.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0gqjf6wp4s21y621wly800lqapg3mvnh1xcj5j7w33vzswy8azz1")))
+
+(define-public crate-rusp-0.13.4 (c (n "rusp") (v "0.13.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0462hsmd1hf6f2dazjfl33zf2qh7qmz8jpd0zgd50ksbp366lss1")))
+
+(define-public crate-rusp-0.14.0 (c (n "rusp") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0yqz0gs2sgjpb7527dg8daks44viappffcrypz22x9zbl2rdaa3s")))
+
+(define-public crate-rusp-0.14.1 (c (n "rusp") (v "0.14.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0c8pfjxzch46w3ajvhk5ws82b69nf08m6n8d6kagljwngyhbh7mf")))
+
+(define-public crate-rusp-0.15.0 (c (n "rusp") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0hq7qr082h0dcvlrj4gry47s3r17bzhkw3d483ljkxnms6ln8il9")))
+
+(define-public crate-rusp-0.16.0 (c (n "rusp") (v "0.16.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0pkfjfyk3sia4dsr2yldqfxi4qq3r4yckqwp7xyrinn0l0b241j6")))
+
+(define-public crate-rusp-0.16.1 (c (n "rusp") (v "0.16.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0slazazxdbn5wwsy657q09667n5x3dr1fwaaighkhyh94jm3s7dg") (f (quote (("default" "clap")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+

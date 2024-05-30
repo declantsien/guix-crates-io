@@ -1,0 +1,56 @@
+(define-module (crates-io hd f5 hdf5-sys) #:use-module (crates-io))
+
+(define-public crate-hdf5-sys-0.0.1 (c (n "hdf5-sys") (v "0.0.1") (h "0pysx4818h84pclasc61p50dwx3v3s4zq509z46ml1ihx81pj20q") (y #t)))
+
+(define-public crate-hdf5-sys-0.1.0 (c (n "hdf5-sys") (v "0.1.0") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "1whhf0faw8j340v7y3v1a9b9vh7sxdpv7b1sdakpbdahhx2bin4f") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.0 (c (n "hdf5-sys") (v "0.2.0") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "00xfwkingid77cq2xkkch2klpfzjfjhc9v24pziqp68l6w498ndy") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.1 (c (n "hdf5-sys") (v "0.2.1") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "1m2jbinxk55qbkf4qhiixq5h0fzay7w8ay3mmp82v5c5m9xiasm2") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.2 (c (n "hdf5-sys") (v "0.2.2") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "07499xqqq9ynbp0hyjlfysqshcr0fs5kcklz6ljacgqrhgfmdkbf") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.3 (c (n "hdf5-sys") (v "0.2.3") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "1h6khcrj0b3f5v6dfs679sccrvw9zrjaqj7i2hvd9chlvwbhhkwc") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.4 (c (n "hdf5-sys") (v "0.2.4") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "0q58mdfv0md5pas8dkm68jjfm5d22nzxgs1yl92vpr1s33i13c55") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.5 (c (n "hdf5-sys") (v "0.2.5") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "1wcja7cgd0jfns6by4k4pa53blrgq84mkrarpl16xgp192w03jjp") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.6 (c (n "hdf5-sys") (v "0.2.6") (d (list (d (n "libc") (r "*") (d #t) (k 0)) (d (n "pkg-config") (r "*") (d #t) (k 1)))) (h "0jy49q210xyr2sfk2fpfkpdci0b0dsy7298jy7kxbg6sy9gqb39s") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.7 (c (n "hdf5-sys") (v "0.2.7") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1w9aw9vzfyn6lrparq8vwhqr564vq8i6ivrf7rppab3lhq2bfks5") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.8 (c (n "hdf5-sys") (v "0.2.8") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0ppz2qprcgcxybl850gh609516cwgkbci762s83vdi1ghafr4s5z") (y #t)))
+
+(define-public crate-hdf5-sys-0.2.9 (c (n "hdf5-sys") (v "0.2.9") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "18jnzs5qsv1n8s4w5lvbcrf1kr8d1fsy43y0mr4dxw3ny8sxngci") (y #t)))
+
+(define-public crate-hdf5-sys-0.3.0 (c (n "hdf5-sys") (v "0.3.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "12vwvsf94dw2fxhxywr2plm5k4iybffzbryar091yrzjs8cfng7x") (y #t)))
+
+(define-public crate-hdf5-sys-0.3.1 (c (n "hdf5-sys") (v "0.3.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1yma4jh83mb13jj2j423gwiaa6xjkr9j4fi9fizbj4jfxifk5ds6") (y #t)))
+
+(define-public crate-hdf5-sys-0.3.2 (c (n "hdf5-sys") (v "0.3.2") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "18iyvmgaswzwrjslpk6dnri9kjbld0pfz7q8kxx8yqq7k5hcnzp4") (y #t)))
+
+(define-public crate-hdf5-sys-0.3.3 (c (n "hdf5-sys") (v "0.3.3") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "13ls8h4l2ff30mwsra3cyjv8zi1ny4gz1xic8x89swk5zjl35z4p") (y #t)))
+
+(define-public crate-hdf5-sys-0.4.0 (c (n "hdf5-sys") (v "0.4.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "08iq2ac5r11fpxaj4wmblj8dxn0jvn2cx47hc8ibwmp7xkqmys0w") (y #t)))
+
+(define-public crate-hdf5-sys-0.4.1 (c (n "hdf5-sys") (v "0.4.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1r7j4qf9fz2afb6pjl30irpqx777nl3g5vriglxrv8kgl2csc4c9") (y #t)))
+
+(define-public crate-hdf5-sys-0.5.0 (c (n "hdf5-sys") (v "0.5.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 1)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.6") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "0rymj4x0dyycm24wvvj03w4a4ajsmh34y28rzxa2cbb9xzsdwdi0") (f (quote (("mpio" "mpi-sys") ("default"))))))
+
+(define-public crate-hdf5-sys-0.5.1 (c (n "hdf5-sys") (v "0.5.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 1)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.6") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "1n19lpg7lji7cbialbpinzfmf1jqplhyvv64w9bw3bjqbm94jk1j") (f (quote (("mpio" "mpi-sys") ("default"))))))
+
+(define-public crate-hdf5-sys-0.5.2 (c (n "hdf5-sys") (v "0.5.2") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 1)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.6") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "0w4i4lzsryj2h7ls06sbmizdca2s83qz96rqg1hmrx806cbqy600") (f (quote (("mpio" "mpi-sys") ("default"))))))
+
+(define-public crate-hdf5-sys-0.6.0 (c (n "hdf5-sys") (v "0.6.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 1)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.6") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "0k8hdfzxxd8m57gwp8zmmjgx3n78iwpk1n6dd3rmclv67spcw1si") (f (quote (("mpio" "mpi-sys") ("default"))))))
+
+(define-public crate-hdf5-sys-0.6.1 (c (n "hdf5-sys") (v "0.6.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 1)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.7") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "1jm3vj69cvkx0xfbjgblpij8ya2r8hk5wlgij7ks7wn9lkwz31w6") (f (quote (("mpio" "mpi-sys") ("default"))))))
+
+(define-public crate-hdf5-sys-0.7.0 (c (n "hdf5-sys") (v "0.7.0") (d (list (d (n "hdf5-src") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 1)) (d (n "libz-sys") (r "^1.0.25") (o #t) (d #t) (k 0)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.7") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "0d40z57114s60igalqwpqalq312px25pvcv4x3nr6ggq5jz5d07f") (f (quote (("zlib" "libz-sys" "hdf5-src/zlib") ("threadsafe" "hdf5-src/threadsafe") ("static" "hdf5-src") ("mpio" "mpi-sys") ("hl" "hdf5-src/hl") ("deprecated" "hdf5-src/deprecated") ("default")))) (l "hdf5")))
+
+(define-public crate-hdf5-sys-0.7.1 (c (n "hdf5-sys") (v "0.7.1") (d (list (d (n "hdf5-src") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 1)) (d (n "libz-sys") (r "^1.0.25") (o #t) (d #t) (k 0)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.8") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "1a8n5dnj1b4diyw7ffrr1d82ws7hcj6sls7w2lwdv9rlbcy1zyhm") (f (quote (("zlib" "libz-sys" "hdf5-src/zlib") ("threadsafe" "hdf5-src/threadsafe") ("static" "hdf5-src") ("mpio" "mpi-sys") ("hl" "hdf5-src/hl") ("deprecated" "hdf5-src/deprecated") ("default")))) (l "hdf5")))
+
+(define-public crate-hdf5-sys-0.8.0 (c (n "hdf5-sys") (v "0.8.0") (d (list (d (n "hdf5-src") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 1)) (d (n "libz-sys") (r "^1.0.25") (o #t) (k 0)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.10") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "1x4m5g0d8gqkrlbs53k1a46i6i577zax45kp9hyykqnc4vbw02kl") (f (quote (("zlib" "libz-sys" "hdf5-src/zlib") ("threadsafe" "hdf5-src/threadsafe") ("static" "hdf5-src") ("mpio" "mpi-sys") ("hl" "hdf5-src/hl") ("deprecated" "hdf5-src/deprecated") ("default")))) (l "hdf5")))
+
+(define-public crate-hdf5-sys-0.8.1 (c (n "hdf5-sys") (v "0.8.1") (d (list (d (n "hdf5-src") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 1)) (d (n "libz-sys") (r "^1.0.25") (o #t) (k 0)) (d (n "mpi-sys") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 1)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (d #t) (k 1)) (d (n "serde") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (t "cfg(windows)") (k 1)) (d (n "winreg") (r "^0.10") (f (quote ("serialization-serde"))) (d #t) (t "cfg(windows)") (k 1)))) (h "1lmkpva5d6j4ispa0fbrmvslvs6s9x9layrwjg4af4f31ncdahj8") (f (quote (("zlib" "libz-sys" "hdf5-src/zlib") ("threadsafe" "hdf5-src/threadsafe") ("static" "hdf5-src") ("mpio" "mpi-sys") ("hl" "hdf5-src/hl") ("deprecated" "hdf5-src/deprecated") ("default")))) (l "hdf5")))
+

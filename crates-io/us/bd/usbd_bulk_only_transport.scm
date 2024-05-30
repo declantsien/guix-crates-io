@@ -1,0 +1,4 @@
+(define-module (crates-io us bd usbd_bulk_only_transport) #:use-module (crates-io))
+
+(define-public crate-usbd_bulk_only_transport-0.1.0 (c (n "usbd_bulk_only_transport") (v "0.1.0") (d (list (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "itm_logger") (r "^0.1.0") (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 0)) (d (n "packing") (r "^0.1.0") (d #t) (k 0)) (d (n "typenum") (r "^1.11.2") (d #t) (k 0)) (d (n "usb-device") (r "^0.2.4") (d #t) (k 0)) (d (n "usbd_mass_storage") (r "^0.1.0") (d #t) (k 0)))) (h "0pqk29g17jppkpx13riksc01bx7v9wz9jprsarwvq8gqwwqxkz56") (f (quote (("trace-usb-control" "usbd_mass_storage/trace-usb-control") ("trace-bot-zlp") ("trace-bot-states") ("trace-bot-headers") ("trace-bot-bytes") ("trace-bot-buffer") ("trace-all" "trace-bot-headers" "trace-bot-states" "trace-bot-bytes" "trace-bot-zlp" "trace-bot-buffer" "trace-usb-control"))))))
+

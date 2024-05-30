@@ -1,0 +1,8 @@
+(define-module (crates-io to ur tourist) #:use-module (crates-io))
+
+(define-public crate-tourist-0.1.0 (c (n "tourist") (v "0.1.0") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "git2") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (k 0)) (d (n "tourist-serde") (r "^0.1.0") (d #t) (k 0)) (d (n "tourist-types") (r "^0.1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0v1vg11cmi1immz0hn9sfp9jakfzrrz5qpd2zrqx2ksl5izb2l5k")))
+
+(define-public crate-tourist-0.1.1 (c (n "tourist") (v "0.1.1") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "git2") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (k 0)) (d (n "tourist-serde") (r "^0.1.1") (d #t) (k 0)) (d (n "tourist-types") (r "^0.1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0px04g68bzpgpfbf1phq53838ks9lhjfmnrx6qhic1wwwpb1b3wp")))
+
+(define-public crate-tourist-0.1.2 (c (n "tourist") (v "0.1.2") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("precommit-hook" "run-cargo-test" "run-cargo-clippy" "run-cargo-fmt"))) (k 2)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "git2") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (k 0)) (d (n "tourist-serde") (r "^0.1.1") (d #t) (k 0)) (d (n "tourist-types") (r "^0.1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1k2cmiv4qfwswikyysbn2irr5f6s3ylf2c4q713sbyag226gib43")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io re so resonite) #:use-module (crates-io))
+
+(define-public crate-resonite-0.0.0-alpha.0 (c (n "resonite") (v "0.0.0-alpha.0") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "governor") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "racal") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.27") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0vw0dyahmins8x6nsq2lfawk0ki3ib9c3slvdwqzbgyznm1rgb45") (f (quote (("default") ("debug") ("api_client" "tokio" "governor" "reqwest" "racal/reqwest" "async-trait"))))))
+

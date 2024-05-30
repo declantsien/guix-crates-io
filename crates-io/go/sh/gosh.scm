@@ -1,0 +1,4 @@
+(define-module (crates-io go sh gosh) #:use-module (crates-io))
+
+(define-public crate-gosh-0.0.24 (c (n "gosh") (v "0.0.24") (d (list (d (n "approx") (r "^0.3") (d #t) (k 2)) (d (n "dirs") (r "^2") (d #t) (k 0)) (d (n "dotenv") (r "^0.13") (d #t) (k 0)) (d (n "duct") (r "^0.10") (d #t) (k 0)) (d (n "gosh-adaptor") (r "^0.0.4") (d #t) (k 0)) (d (n "gosh-core") (r "^0.0.1") (d #t) (k 0)) (d (n "gosh-database") (r "^0.0.7") (f (quote ("adhoc"))) (d #t) (k 0)) (d (n "gosh-model") (r "^0.0.9") (d #t) (k 0)) (d (n "linefeed") (r "^0.6") (d #t) (k 0)) (d (n "nom") (r "^4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)))) (h "028m1ihr3nbkjm2h4w1rwh5h2v4hqm6z23qnilw86452y9ncjbp9")))
+

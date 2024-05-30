@@ -1,0 +1,20 @@
+(define-module (crates-io nu -s nu-serde) #:use-module (crates-io))
+
+(define-public crate-nu-serde-0.36.0 (c (n "nu-serde") (v "0.36.0") (d (list (d (n "bigdecimal") (r "^0.2.1") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal-rs")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.36.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.36.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1271qkyphjd3w5as0kwkdzmhcv0fx5j2nak07mm476qf63naprhz")))
+
+(define-public crate-nu-serde-0.37.0 (c (n "nu-serde") (v "0.37.0") (d (list (d (n "bigdecimal") (r "^0.2.1") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal-rs")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.37.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.37.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1n626p390yjg07q3sa9fmni9l5yz8h717nqj28dd252iy4vgzbdg")))
+
+(define-public crate-nu-serde-0.38.0 (c (n "nu-serde") (v "0.38.0") (d (list (d (n "bigdecimal") (r "^0.2.1") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal-rs")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.38.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.38.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1d2sca4z2acsghf8zd8npgs4m5651qlzic4za3hf2dwxpac2jjj1")))
+
+(define-public crate-nu-serde-0.39.0 (c (n "nu-serde") (v "0.39.0") (d (list (d (n "bigdecimal") (r "^0.2.1") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal-rs")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.39.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.39.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "07l0crm59qngdqivb18cl07p8zbnr0yda30j5y1x5wmb8hssdrks")))
+
+(define-public crate-nu-serde-0.40.0 (c (n "nu-serde") (v "0.40.0") (d (list (d (n "bigdecimal") (r "^0.2.1") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal-rs")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.40.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.40.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "03l9vjz6xbhhjsy53q5mlvdnljbbyws5hjgzgjcvbyqidvdmrjwp")))
+
+(define-public crate-nu-serde-0.41.0 (c (n "nu-serde") (v "0.41.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.41.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.41.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0km29f98521jbp4hsvnc0900apjgrd0z08fd79k7xv76fxmpn6n8")))
+
+(define-public crate-nu-serde-0.42.0 (c (n "nu-serde") (v "0.42.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.42.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.42.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "12cw4k0fiyjl831j7hra23advzmsdlw5bjdn0xylkgcij6dpbk0z")))
+
+(define-public crate-nu-serde-0.43.0 (c (n "nu-serde") (v "0.43.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.43.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.43.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0iwwqyi4zq7m6v15kfdk7ywi816i4w400jm97a9w53jriyl4finl")))
+
+(define-public crate-nu-serde-0.44.0 (c (n "nu-serde") (v "0.44.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (f (quote ("serde"))) (d #t) (k 0) (p "bigdecimal")) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.44.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.44.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "190lid6jqgrb50qzqk849hg44rcn392qbppdm8zhgy732fsjb2j4")))
+

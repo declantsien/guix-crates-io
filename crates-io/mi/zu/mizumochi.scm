@@ -1,0 +1,4 @@
+(define-module (crates-io mi zu mizumochi) #:use-module (crates-io))
+
+(define-public crate-mizumochi-0.1.0 (c (n "mizumochi") (v "0.1.0") (d (list (d (n "atomic_immut") (r "^0.1") (d #t) (k 0)) (d (n "bytecodec") (r "^0.4") (f (quote ("json_codec"))) (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "fibers") (r "^0.1") (d #t) (k 0)) (d (n "fibers_http_server") (r "^0.1") (d #t) (k 0)) (d (n "fuse") (r "^0.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "httpcodec") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "prometrics") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "slog") (r "^2") (d #t) (k 0)) (d (n "slog-async") (r "^2") (d #t) (k 0)) (d (n "slog-term") (r "^2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1kchr3fsfyfdvmndxf5ab6y65568vvnfd2bf6v9780njcsvs0jc8")))
+

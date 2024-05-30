@@ -1,0 +1,6 @@
+(define-module (crates-io ka yr kayrx-ui) #:use-module (crates-io))
+
+(define-public crate-kayrx-ui-0.1.0 (c (n "kayrx-ui") (v "0.1.0") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Element" "Window" "Document" "Event" "CustomEvent" "DataTransfer" "DragEvent" "MouseEventInit"))) (d #t) (k 0)) (d (n "yew") (r "^0.14") (f (quote ("web_sys"))) (d #t) (k 0)))) (h "03l91qd327kz8xad841l7f4055q42sb461spkb7s0vfw44i9vval") (f (quote (("default"))))))
+
+(define-public crate-kayrx-ui-0.1.1 (c (n "kayrx-ui") (v "0.1.1") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Element" "Window" "Document" "Event" "CustomEvent" "DataTransfer" "DragEvent" "MouseEventInit"))) (d #t) (k 0)) (d (n "yew") (r "^0.14") (f (quote ("web_sys"))) (d #t) (k 0)))) (h "00v8zy7vv67jffb8q0yfln7b9h8qgwpg9diip5i13az2cbfsjdsx") (f (quote (("default"))))))
+

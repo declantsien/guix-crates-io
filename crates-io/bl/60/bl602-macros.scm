@@ -1,0 +1,6 @@
+(define-module (crates-io bl #{60}# bl602-macros) #:use-module (crates-io))
+
+(define-public crate-bl602-macros-0.0.1 (c (n "bl602-macros") (v "0.0.1") (d (list (d (n "cstr_core") (r "^0.2.3") (d #t) (k 0)) (d (n "cty") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (k 0)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)) (d (n "syn") (r "^1.0.69") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "003x04jyz2cjwd87fdmhia343qh9i2k6ps1plxq0zn9yy13nl69s") (f (quote (("mynewt_os") ("default" "mynewt_os"))))))
+
+(define-public crate-bl602-macros-0.0.2 (c (n "bl602-macros") (v "0.0.2") (d (list (d (n "cstr_core") (r "^0.2.3") (d #t) (k 0)) (d (n "cty") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (k 0)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)) (d (n "syn") (r "^1.0.69") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "04kdr45gk611vah1yaz0mgwvhic128sz0fn4g2c9rkr1ilcx187d") (f (quote (("mynewt_os") ("default" "mynewt_os"))))))
+

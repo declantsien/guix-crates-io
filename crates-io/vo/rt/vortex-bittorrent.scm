@@ -1,0 +1,4 @@
+(define-module (crates-io vo rt vortex-bittorrent) #:use-module (crates-io))
+
+(define-public crate-vortex-bittorrent-0.1.0 (c (n "vortex-bittorrent") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "arbitrary") (r "^1.1.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "bip_metainfo") (r "^0.12") (d #t) (k 0)) (d (n "bitvec") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "bytes") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "slotmap") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.26") (f (quote ("time" "sync" "macros"))) (d #t) (k 0)) (d (n "tokio-uring") (r "^0.4.0") (f (quote ("bytes"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1sf0ny20j4yzds1p1m6jc041s3kww8vl09g7vw5d8cm64zsv61l1")))
+

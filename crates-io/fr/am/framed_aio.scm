@@ -1,0 +1,6 @@
+(define-module (crates-io fr am framed_aio) #:use-module (crates-io))
+
+(define-public crate-framed_aio-0.1.0 (c (n "framed_aio") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1xb553zgw69pssnj4vfg57l6rry7g1jkm28ziyhr4mvr9d2p84jr") (s 2) (e (quote (("typed" "dep:bincode" "dep:serde"))))))
+
+(define-public crate-framed_aio-0.1.1 (c (n "framed_aio") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("full"))) (d #t) (k 2)))) (h "19m282n9lmcr7bw2f1wg6clgb8vgx02s8x9jz6xmbsan095bav44") (s 2) (e (quote (("typed" "dep:bincode" "dep:serde"))))))
+

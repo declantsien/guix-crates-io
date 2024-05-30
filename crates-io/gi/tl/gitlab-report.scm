@@ -1,0 +1,32 @@
+(define-module (crates-io gi tl gitlab-report) #:use-module (crates-io))
+
+(define-public crate-gitlab-report-0.1.0 (c (n "gitlab-report") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0y4nykc3k467z3kl6dslmn0m0wn7808y5p2a04g4vfhps9bjxsz3")))
+
+(define-public crate-gitlab-report-0.1.1 (c (n "gitlab-report") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0haiqs3a5cyjqzzbn4slgb7lr3fnpnf91bsldy92ylmjbm86sdxm")))
+
+(define-public crate-gitlab-report-0.1.2 (c (n "gitlab-report") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0qd4p26fb3ww1ys0vk3z3v14w6jsmy9y5bnsdr12v92pnvsllkbb")))
+
+(define-public crate-gitlab-report-0.1.3 (c (n "gitlab-report") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "04jbc71wmyjznksf0l58kaxw4vp4j0xjakswn5k8xcglwnn2hz3v")))
+
+(define-public crate-gitlab-report-0.1.4 (c (n "gitlab-report") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1k8dx8y330v6gabs0c8vb86mrc620dqy66aajbc8b9i86ca99mvx")))
+
+(define-public crate-gitlab-report-0.1.5 (c (n "gitlab-report") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1c1ifj4gj0il2x5dsiphaixxfhl218rlhaa6zwq88vg240zpc10l")))
+
+(define-public crate-gitlab-report-0.1.6 (c (n "gitlab-report") (v "0.1.6") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1c6hik5362sdm3k699nw3xidkpxkyfs5ybz7ypi3ghrx48l2g0vy")))
+
+(define-public crate-gitlab-report-0.1.7 (c (n "gitlab-report") (v "0.1.7") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1ka0bqarj2c2c4hg36p16xz1sb1p67jglfkakfi8f62icgmj5vc2")))
+
+(define-public crate-gitlab-report-0.1.8 (c (n "gitlab-report") (v "0.1.8") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "01h6h7qd1qlp7r2lbcmnn9l0k1dn6ymgbi893d63glcpn56c57lj")))
+
+(define-public crate-gitlab-report-0.1.9 (c (n "gitlab-report") (v "0.1.9") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0x6cpqmaczkgirwadan17n0f4wjv2kmrpvclsc87ldmwaz3angad") (y #t)))
+
+(define-public crate-gitlab-report-0.1.10 (c (n "gitlab-report") (v "0.1.10") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0zmy3y2f86wbdvf3yyyhdjqs006a8fpyasmw8jrzw66sz57alglm")))
+
+(define-public crate-gitlab-report-1.0.0 (c (n "gitlab-report") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "12jnmf5w6izv8qvq4h93bf96bc6r7b67c58fmh87lwdmfq7f8mh0") (y #t)))
+
+(define-public crate-gitlab-report-1.0.1 (c (n "gitlab-report") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1n5k4rn1bhns3v5dxx65n9r7b9613yqk9vkkm1if0cxs522z5v4z") (y #t)))
+
+(define-public crate-gitlab-report-1.0.2 (c (n "gitlab-report") (v "1.0.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0ff0ranqfdkacym3549l354z3ixidbwrqm9w7rv4bgmwzav9llyx")))
+
+(define-public crate-gitlab-report-1.0.3 (c (n "gitlab-report") (v "1.0.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1ygmzjr7vj7yrjrgymz5y4yibmpazf43sn8ym73wgbr3732lrfa1")))
+

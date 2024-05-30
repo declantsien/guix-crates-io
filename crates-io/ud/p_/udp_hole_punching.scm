@@ -1,0 +1,14 @@
+(define-module (crates-io ud p_ udp_hole_punching) #:use-module (crates-io))
+
+(define-public crate-udp_hole_punching-0.1.1 (c (n "udp_hole_punching") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "async-std") (r "^1.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "punching_client") (r "^0.1.1") (d #t) (k 0)) (d (n "punching_server") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)))) (h "13vca65qfm2parf4h23qkwxi0qsy2gnhpasi796sqz9ivnk91kph")))
+
+(define-public crate-udp_hole_punching-2.0.0 (c (n "udp_hole_punching") (v "2.0.0") (d (list (d (n "anyhow") (r ">=1.0.31, <2.0.0") (d #t) (k 0)) (d (n "async-std") (r ">=1.6.2, <2.0.0") (d #t) (k 0)) (d (n "async-trait") (r ">=0.1.36, <0.2.0") (d #t) (k 0)) (d (n "once_cell") (r ">=1.4.0, <2.0.0") (d #t) (k 0)))) (h "07mryrcp4m4rv8lf0v971yanf0hmhc070y1hxb1q7na23vyfi4p3")))
+
+(define-public crate-udp_hole_punching-2.0.1 (c (n "udp_hole_punching") (v "2.0.1") (d (list (d (n "anyhow") (r ">=1.0.31, <2.0.0") (d #t) (k 0)) (d (n "async-std") (r ">=1.6.2, <2.0.0") (d #t) (k 0)) (d (n "async-trait") (r ">=0.1.36, <0.2.0") (d #t) (k 0)) (d (n "once_cell") (r ">=1.4.0, <2.0.0") (d #t) (k 0)))) (h "0vzlnw2m3brwdv4xvg7fww7lb76i5fhi5nvd1v8faga28wc5r0mj")))
+
+(define-public crate-udp_hole_punching-2.0.4 (c (n "udp_hole_punching") (v "2.0.4") (d (list (d (n "anyhow") (r ">=1.0.31, <2.0.0") (d #t) (k 0)) (d (n "async-std") (r ">=1.6.2, <2.0.0") (d #t) (k 0)) (d (n "async-trait") (r ">=0.1.36, <0.2.0") (d #t) (k 0)) (d (n "once_cell") (r ">=1.4.0, <2.0.0") (d #t) (k 0)))) (h "1jrqivrgidrz3m543k4wfmdss99m1s1ghz09pigkc2imhdww0x0q")))
+
+(define-public crate-udp_hole_punching-2.0.5 (c (n "udp_hole_punching") (v "2.0.5") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "async-std") (r "^1.6.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.6") (d #t) (k 0)))) (h "11a4afj99fl1nyvh4833hcwmar3v0q1fl7jimvzw9lhi7s87p8cw")))
+
+(define-public crate-udp_hole_punching-2.0.8 (c (n "udp_hole_punching") (v "2.0.8") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "async-std") (r "^1.6.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.6") (d #t) (k 0)))) (h "0h60ybb4v2sbhkb9aaqck2h8w3a9qq8dnkmlzj786gf1z2rm813i")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bi di bidiff) #:use-module (crates-io))
+
+(define-public crate-bidiff-0.1.0 (c (n "bidiff") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "divsufsort") (r "^2.0.0") (d #t) (k 0)) (d (n "integer-encoding") (r "^1.0.7") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rayon") (r "^1.2.1") (d #t) (k 0)) (d (n "sacabase") (r "^2.0.0") (d #t) (k 0)) (d (n "sacapart") (r "^2.0.0") (d #t) (k 0)))) (h "1k3wh3p405glqr2cblsqvji25xmqbj13brbvrvwhziaz8mpmywnd") (f (quote (("instructions") ("enc" "byteorder" "integer-encoding") ("default" "enc"))))))
+
+(define-public crate-bidiff-1.0.0 (c (n "bidiff") (v "1.0.0") (d (list (d (n "byteorder") (r "^1.3.4") (o #t) (d #t) (k 0)) (d (n "divsufsort") (r "^2.0.0") (d #t) (k 0)) (d (n "integer-encoding") (r "^2.0.0") (o #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "proptest") (r "^0.10.1") (d #t) (k 2)) (d (n "rayon") (r "^1.4.0") (d #t) (k 0)) (d (n "sacabase") (r "^2.0.0") (d #t) (k 0)) (d (n "sacapart") (r "^2.0.0") (d #t) (k 0)))) (h "1gm9v0aqwg87dn1jl26ahcl3aad183sdkss4xl8sv64rg4rbsn5f") (f (quote (("instructions") ("enc" "byteorder" "integer-encoding") ("default" "enc"))))))
+

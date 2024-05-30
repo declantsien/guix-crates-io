@@ -1,0 +1,4 @@
+(define-module (crates-io na co nacos-lib) #:use-module (crates-io))
+
+(define-public crate-nacos-lib-0.1.0 (c (n "nacos-lib") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "from_value_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("arc_lock"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "to_url") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)))) (h "1dq6k1fjj32j4cg7756jzysmsavplf2236jrzkrn8slwphg5pka9")))
+

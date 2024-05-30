@@ -1,0 +1,4 @@
+(define-module (crates-io cx mr cxmr-ws-client-binance) #:use-module (crates-io))
+
+(define-public crate-cxmr-ws-client-binance-0.0.1 (c (n "cxmr-ws-client-binance") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "cxmr-api-binance") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-balances") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-currency") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-exchanges") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-feeds") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-ws-client") (r "^0.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 2)) (d (n "futures-async-stream") (r "^0.1") (d #t) (k 2)) (d (n "hashbrown") (r "^0.1.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("full"))) (d #t) (k 2)))) (h "091g3lw6r2rq851wc2gwdcgpzjhwllgz6wl6g8gh77z5xq1s7mai")))
+

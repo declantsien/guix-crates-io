@@ -1,0 +1,8 @@
+(define-module (crates-io ff _w ff_wasm_unknown_unknown) #:use-module (crates-io))
+
+(define-public crate-ff_wasm_unknown_unknown-0.12.0 (c (n "ff_wasm_unknown_unknown") (v "0.12.0") (d (list (d (n "bitvec") (r "^1") (o #t) (k 0)) (d (n "byteorder") (r "^1") (o #t) (k 0)) (d (n "ff_derive") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "subtle") (r "^2.2.1") (f (quote ("i128"))) (k 0)))) (h "0wczcmjvs0isb313cf1jmz074vifrz8a03xvbvzj1fwzzlf5852n") (f (quote (("std" "alloc") ("derive_bits" "bits" "ff_derive/bits") ("derive" "byteorder" "ff_derive") ("default" "bits" "std") ("bits" "bitvec") ("alloc"))))))
+
+(define-public crate-ff_wasm_unknown_unknown-0.12.1 (c (n "ff_wasm_unknown_unknown") (v "0.12.1") (d (list (d (n "bitvec") (r "^1") (o #t) (k 0)) (d (n "byteorder") (r "^1") (o #t) (k 0)) (d (n "ff_derive") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "subtle") (r "^2.2.1") (f (quote ("i128"))) (k 0)))) (h "18bbmj52fh4jzm0r8x87kwy5fs3chqcj9k8fba1qc0jgrr6cmrng") (f (quote (("std" "alloc") ("derive_bits" "bits" "ff_derive/bits") ("derive" "byteorder" "ff_derive") ("default" "bits" "std") ("bits" "bitvec") ("alloc"))))))
+
+(define-public crate-ff_wasm_unknown_unknown-0.12.2 (c (n "ff_wasm_unknown_unknown") (v "0.12.2") (d (list (d (n "bitvec") (r "^1") (o #t) (k 0)) (d (n "byteorder") (r "^1") (o #t) (k 0)) (d (n "ff_derive_wasm_unknown_unknown") (r "^0.12.2") (o #t) (d #t) (k 0)) (d (n "subtle") (r "^2.2.1") (f (quote ("i128"))) (k 0)))) (h "0h3hsnl69vh140m77v6kh1hb8w2s7sdir9vvsl2lrj7m75p50776") (f (quote (("std" "alloc") ("derive_bits" "bits" "ff_derive_wasm_unknown_unknown/bits") ("derive" "byteorder" "ff_derive_wasm_unknown_unknown") ("default" "bits" "std") ("bits" "bitvec") ("alloc"))))))
+

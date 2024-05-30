@@ -1,0 +1,8 @@
+(define-module (crates-io vc s2 vcs2git) #:use-module (crates-io))
+
+(define-public crate-vcs2git-0.1.0 (c (n "vcs2git") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.2") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.31") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "05vw343vw7kj2nvm01p6yvzpmi5j397ra3x7c0k8lhv14mspgga9")))
+
+(define-public crate-vcs2git-0.2.0 (c (n "vcs2git") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.2") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.31") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1xksnynbab6ajhd4f4l527g8fq0db7044b9w32gpwmi0yg44g12i")))
+
+(define-public crate-vcs2git-0.3.0 (c (n "vcs2git") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.2") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.31") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1a89p5jwbping3n52xgnbbv3cmxrfcz631pl7zky00wgyn42zklj")))
+

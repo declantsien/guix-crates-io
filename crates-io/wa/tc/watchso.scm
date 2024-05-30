@@ -1,0 +1,4 @@
+(define-module (crates-io wa tc watchso) #:use-module (crates-io))
+
+(define-public crate-watchso-0.1.0 (c (n "watchso") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "globset") (r "^0.4.10") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "miette") (r "^5.5.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "watchexec") (r "^2.1.1") (d #t) (k 0)) (d (n "watchexec-filterer-globset") (r "^1.1.0") (d #t) (k 0)))) (h "1lkv3wabn2d4sns0spxhlzmcxpd45l3g0957m2kvylnbcrbi1jrz")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io fa st fastedge) #:use-module (crates-io))
+
+(define-public crate-fastedge-0.1.5 (c (n "fastedge") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "fastedge-derive") (r "^0.1.5") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "wit-bindgen") (r "^0.24.0") (d #t) (k 0)))) (h "0vakcc6ja06f9innmsbsj08f9s9sxbxy92pdf394i2s68hd4n666") (f (quote (("json" "serde_json") ("default"))))))
+
+(define-public crate-fastedge-0.1.6 (c (n "fastedge") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "fastedge-derive") (r "^0.1.6") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "wit-bindgen") (r "^0.24.0") (d #t) (k 0)))) (h "12w6f4vq52ls7h7xvmbhna7sx0810fkrka4cgl9s57r4nh960myd") (f (quote (("json" "serde_json") ("default"))))))
+

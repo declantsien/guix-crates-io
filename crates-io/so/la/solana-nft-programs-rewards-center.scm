@@ -1,0 +1,4 @@
+(define-module (crates-io so la solana-nft-programs-rewards-center) #:use-module (crates-io))
+
+(define-public crate-solana-nft-programs-rewards-center-1.0.0 (c (n "solana-nft-programs-rewards-center") (v "1.0.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "mpl-token-auth-rules") (r "^1.4.3") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^3.0.1") (d #t) (k 0)) (d (n "mpl-utils") (r "^0.3.2") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "solana-nft-programs-creator-standard") (r "^1.0.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "solana-program") (r "^1.10.29") (d #t) (k 0)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0l9wgbnhha01s9qfis5jnk5mmw7vw8xnvim28jb2p67kg8kd4m08") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

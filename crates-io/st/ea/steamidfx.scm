@@ -1,0 +1,12 @@
+(define-module (crates-io st ea steamidfx) #:use-module (crates-io))
+
+(define-public crate-steamidfx-1.0.0 (c (n "steamidfx") (v "1.0.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde-aux") (r "^2") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1rjh782aacaimnn02a3vvlcxmcpr0aahxbn12pbr6kl01qa0w5gd") (f (quote (("serialization" "serde" "serde-aux") ("default" "serialization"))))))
+
+(define-public crate-steamidfx-1.0.1 (c (n "steamidfx") (v "1.0.1") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde-aux") (r "^2") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "19mlq8z8cpa5ys1jrw8l495hvmgdbnkfnqddwjx8w02qifdv2pkq") (f (quote (("serialization" "serde" "serde-aux") ("default" "serialization"))))))
+
+(define-public crate-steamidfx-2.0.0 (c (n "steamidfx") (v "2.0.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde-aux") (r "^2") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0wm7pbvya6l7r9b9y6rml2q6c2p8868vgbnwwajxcqwp9h4sxp3j") (f (quote (("serialization" "serde" "serde-aux") ("default" "serialization"))))))
+
+(define-public crate-steamidfx-2.0.1 (c (n "steamidfx") (v "2.0.1") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde-aux") (r "^2") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0xmkf6ibqpk2g4rlfl54hzd8rxkklkbhyvin0vns7pd8ib3cbrnj") (f (quote (("serialization" "serde" "serde-aux") ("default" "serialization"))))))
+
+(define-public crate-steamidfx-2.1.0 (c (n "steamidfx") (v "2.1.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde-aux") (r "^2") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1lyli52v6fqdyv3jwfqbb3kbj247gvrh415qyx2yha73dii415ql") (f (quote (("serialization" "serde" "serde-aux") ("default" "serialization"))))))
+

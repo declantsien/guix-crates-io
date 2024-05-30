@@ -1,0 +1,4 @@
+(define-module (crates-io ev en event_store-core) #:use-module (crates-io))
+
+(define-public crate-event_store-core-0.1.0 (c (n "event_store-core") (v "0.1.0") (d (list (d (n "actix") (r "^0.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "sqlx") (r "^0.5.9") (f (quote ("postgres" "chrono" "time" "uuid" "json" "offline" "runtime-actix-native-tls"))) (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "16dxscb7cllfa0b2xqa53fmw8c053qwzfgrl49wr7qpk0n70bdgp")))
+

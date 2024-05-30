@@ -1,0 +1,20 @@
+(define-module (crates-io en so enso-logger) #:use-module (crates-io))
+
+(define-public crate-enso-logger-0.1.1 (c (n "enso-logger") (v "0.1.1") (d (list (d (n "enso-prelude") (r "^0.1.1") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "10x8chlpn7ivifxkh95mcslr61zgvr5vad1yk3ywxv964a0z4j6v") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.1.2 (c (n "enso-logger") (v "0.1.2") (d (list (d (n "enso-prelude") (r "^0.1.4") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "0i9qd3izaz0yan5lgzdbja5vs0g7v8zlqsbqgrc9glyfqw8ihi67") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.1.3 (c (n "enso-logger") (v "0.1.3") (d (list (d (n "enso-prelude") (r "^0.1.5") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "083g0y0wcrj845as851c96cp109b4jf4zhb3k0n6rbl2v0vxz0vv") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.2.0 (c (n "enso-logger") (v "0.2.0") (d (list (d (n "enso-prelude") (r "^0.1.8") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "0ivn5syjyl6f9d4dm17iijiqa9z6y2yc1ygmxphhg2g9h1aa8izb") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.2.1 (c (n "enso-logger") (v "0.2.1") (d (list (d (n "enso-prelude") (r "^0.1.8") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "1yv7q0nvf1r741m43m66rxi2vyw01p8qjqghqzr7r710lwvs6l70") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.2.2 (c (n "enso-logger") (v "0.2.2") (d (list (d (n "enso-prelude") (r "^0.1.8") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "wasm-bindgen") (r "= 0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "10f4jw95a3imxgq9nk77130anpz582dmqf5kkyr3ayqwcv4icm0i") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.2.3 (c (n "enso-logger") (v "0.2.3") (d (list (d (n "enso-prelude") (r "^0.1.8") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.1.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "wasm-bindgen") (r "= 0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "1cybgd1vkp662cyaw1b5ax6wjbbydvhi46kvhkj9wyjkh2pgk1x2") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.3.0 (c (n "enso-logger") (v "0.3.0") (d (list (d (n "enso-prelude") (r "^0.2.0") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.2.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "0badvmqwx63pa3fh57h7dvqjpd448gg66s6n9wiajs17mkw7plpy") (f (quote (("default"))))))
+
+(define-public crate-enso-logger-0.3.1 (c (n "enso-logger") (v "0.3.1") (d (list (d (n "enso-prelude") (r "^0.2.1") (d #t) (k 0)) (d (n "enso-shapely") (r "^0.2.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.58") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("console"))) (d #t) (k 0)))) (h "1vbyj15igjzx7gddlqz6pcdqvh1gcc0rc7lgjikbmd82dijn17xi") (f (quote (("default"))))))
+

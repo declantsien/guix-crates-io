@@ -1,0 +1,4 @@
+(define-module (crates-io ro bi robius-open) #:use-module (crates-io))
+
+(define-public crate-robius-open-0.1.0 (c (n "robius-open") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "icrate") (r "^0.1.0") (f (quote ("Foundation" "Foundation_NSString" "Foundation_NSURL"))) (d #t) (t "cfg(target_os = \"ios\")") (k 0)) (d (n "icrate") (r "^0.1.0") (f (quote ("AppKit" "AppKit_NSWorkspace" "Foundation" "Foundation_NSString" "Foundation_NSURL"))) (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "jni") (r "^0.21.1") (t "cfg(target_os = \"android\")") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "objc2") (r "^0.5.0") (d #t) (t "cfg(target_os = \"ios\")") (k 0)) (d (n "robius-android-env") (r "^0.1.0") (d #t) (t "cfg(target_os = \"android\")") (k 0)))) (h "1nmz4nk2l4v3f46b6gaqnngg7yans9gxbvvswgi0pggyx0s6ck0v") (f (quote (("default" "android-result") ("android-result")))) (s 2) (e (quote (("log" "dep:log"))))))
+

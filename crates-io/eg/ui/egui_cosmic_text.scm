@@ -1,0 +1,6 @@
+(define-module (crates-io eg ui egui_cosmic_text) #:use-module (crates-io))
+
+(define-public crate-egui_cosmic_text-0.1.0 (c (n "egui_cosmic_text") (v "0.1.0") (d (list (d (n "arboard") (r "^3.3.2") (d #t) (k 2)) (d (n "cosmic-text") (r "^0.11.2") (d #t) (k 0)) (d (n "cosmic_undo_2") (r "^0.2.0") (k 0)) (d (n "eframe") (r "^0.27.2") (d #t) (k 2)) (d (n "egui") (r "^0.27.2") (k 0)) (d (n "etagere") (r "^0.2.10") (d #t) (k 0)) (d (n "imgref") (r "^1.10.1") (d #t) (k 0)) (d (n "lru") (r "^0.12.3") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 2)))) (h "15j80h9f0yfnkgh9s6rmf852b9ih40gz8gcvxbyx5s9yvwib03q3") (f (quote (("widget") ("shape-run-cache" "cosmic-text/shape-run-cache") ("default" "widget"))))))
+
+(define-public crate-egui_cosmic_text-0.1.1 (c (n "egui_cosmic_text") (v "0.1.1") (d (list (d (n "arboard") (r "^3.3.2") (d #t) (k 2)) (d (n "cosmic-text") (r "^0.11.2") (d #t) (k 0)) (d (n "cosmic_undo_2") (r "^0.2.0") (k 0)) (d (n "eframe") (r "^0.27.2") (d #t) (k 2)) (d (n "egui") (r "^0.27.2") (k 0)) (d (n "etagere") (r "^0.2.10") (d #t) (k 0)) (d (n "imgref") (r "^1.10.1") (d #t) (k 0)) (d (n "lru") (r "^0.12.3") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 2)))) (h "0dc3pgmk341gj3x5dfk9ghappmk20f8nvxv28h43x9i3yf38kwz7") (f (quote (("widget") ("shape-run-cache" "cosmic-text/shape-run-cache") ("default" "widget"))))))
+

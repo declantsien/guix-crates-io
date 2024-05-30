@@ -1,0 +1,16 @@
+(define-module (crates-io sp aa spaad_internal) #:use-module (crates-io))
+
+(define-public crate-spaad_internal-0.2.0 (c (n "spaad_internal") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "078xyvqq0xaadkdvjr837948dwizallgcjnhb1jix61h6pn6al1v") (f (quote (("with-tokio-0_2") ("with-async_std-1") ("stable"))))))
+
+(define-public crate-spaad_internal-0.3.0 (c (n "spaad_internal") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0nphaf879bhsh736k5l7ash8brz86hp5bc614c57q8pdi2n7c0ml") (f (quote (("with-tokio-0_2") ("with-async_std-1") ("nightly"))))))
+
+(define-public crate-spaad_internal-0.3.1 (c (n "spaad_internal") (v "0.3.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1.0.30") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1miy6fwl7r4zmzzznyxiy3ypj8kf89r56pn4ynpjz9c5fkabyxrd") (f (quote (("with-tokio-0_2") ("with-async_std-1") ("nightly"))))))
+
+(define-public crate-spaad_internal-0.3.2 (c (n "spaad_internal") (v "0.3.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1.0.30") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "13nl6skyji34lzpjyi689k5wpbnim847hy702cgix4y298klssz9") (f (quote (("with-tokio-0_2") ("with-smol-0_1") ("with-async_std-1") ("nightly"))))))
+
+(define-public crate-spaad_internal-0.4.0-beta.1 (c (n "spaad_internal") (v "0.4.0-beta.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1.0.30") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "089c1zjxq5rv8jd5nkl1gzkan8lqiwpad539hglx6g7dwh2ngqsl") (f (quote (("with-tokio-0_2") ("with-smol-0_1") ("with-async_std-1") ("nightly"))))))
+
+(define-public crate-spaad_internal-0.4.0 (c (n "spaad_internal") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1.0.30") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "16z612kac9jfx71xifw98nqmmbk2skczikhma2f9760whcw0hlib")))
+
+(define-public crate-spaad_internal-0.4.1 (c (n "spaad_internal") (v "0.4.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1.0.30") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "15ccjxp59h6qa4a0lfhhhy2alc006qbn64sqc0x5xcs3i5bd669l")))
+

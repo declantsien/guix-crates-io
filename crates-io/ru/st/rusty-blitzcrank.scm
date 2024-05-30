@@ -1,0 +1,18 @@
+(define-module (crates-io ru st rusty-blitzcrank) #:use-module (crates-io))
+
+(define-public crate-rusty-blitzcrank-0.1.0 (c (n "rusty-blitzcrank") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "18wvhc2b985zma5ycp299d9gd8hhgvmij2s563szq6s6vc3la6sg")))
+
+(define-public crate-rusty-blitzcrank-0.1.1 (c (n "rusty-blitzcrank") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "0q68anygyzdbg84gcpjas3b2z4mi6lx1rbdbdb0w8rzxnxnby98q")))
+
+(define-public crate-rusty-blitzcrank-0.1.2 (c (n "rusty-blitzcrank") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "0x10bb03cm6212yq9lvr52jp7g7m0bsjrh4yc9raczvghmwc3j6w")))
+
+(define-public crate-rusty-blitzcrank-0.1.3 (c (n "rusty-blitzcrank") (v "0.1.3") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "0yszxfqzklr9mrc8jq54i52gpmpca4bwpf4lcxgfy9y8mhwxyi7r")))
+
+(define-public crate-rusty-blitzcrank-0.1.4 (c (n "rusty-blitzcrank") (v "0.1.4") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "0li62hs41y6d0z4n270khikfvvc6a4h9rzh4nikqjbi8zrynj5fb")))
+
+(define-public crate-rusty-blitzcrank-0.1.5 (c (n "rusty-blitzcrank") (v "0.1.5") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "0rn6nk8my82skz1mwsas9wcvvnhcid00lfm4aj11hyrczbgdiaqg")))
+
+(define-public crate-rusty-blitzcrank-0.2.0 (c (n "rusty-blitzcrank") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "04pib8k7cb493m5l0xwkl152jih0pz4yl0rkrv27h111iac3jlmy")))
+
+(define-public crate-rusty-blitzcrank-0.2.1 (c (n "rusty-blitzcrank") (v "0.2.1") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-timer") (r "^0.2.13") (d #t) (k 0)))) (h "1bixl8qvbyj9h1gn8yxvkshm13nkn001jj1d9gcalkv24syz3slx")))
+

@@ -1,0 +1,34 @@
+(define-module (crates-io wa ff waffles-solana-frozen-abi-macro) #:use-module (crates-io))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.15.0 (c (n "waffles-solana-frozen-abi-macro") (v "1.15.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "03bk21j0169yl3xzp56j56aq8j62qk0xgfw5dlka8gwpy65y6ndc")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.15.0-1 (c (n "waffles-solana-frozen-abi-macro") (v "1.15.0-1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "13hz39pn686ybnq3y88j37dn3smczyi31p6i66hs2h1gaamfm57n")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.15.0-2 (c (n "waffles-solana-frozen-abi-macro") (v "1.15.0-2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0qf8sq449npmm5bjjhqmz34lrx4iid1c4hisvwj58f88vy7b2328")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0afj085l8jsm6y6nnxdbvkxdpvnkhfbl3ks69lk6k66871y5rf6c")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha-1 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha-1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "00z0p4d62pn4rw97lvw0f309ykc49lb4igm1w28p9vzzcjqk5ard")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.1 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "1cs3xzlglwvz6mm6ayzb32hx8i50z0nbsxl3n6p292z0myxcrwv0")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.2 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "16jhy1cvfqvhnajipx95wmqyk8x11vwp1ckxq282gyjbgbghbqvn")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.3 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0d1lv6zq9mfs87pgw6x3k09a9zbhp5rlg9xiradydinr4dlhkp1y")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.4 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0qc3pinvmd8lw2jgg1s306s5ad9j7d09wnnrc5llbg7j7zpgf4iw")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.5 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0rm6n4ik612v9sg42kcja9j3yhkwb6h84b3xx5sbqw2n4jaiw4p9")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.6 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0xvvymn6a7q47lql08y4584g4hp5ssf3ygbg4lw554hhrm8hfb2m")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.7 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.7") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "10q35r8g0i1bhm53sc6l4gzgjick06icnp2d02k3yj45zrr32g57")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.8 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.8") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "1q7qg0mr00qrd49pbifnpc9zbpm4pmqs2grp47qj1ajahz5psz7m")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.9 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.9") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "1mcjf2dr95jn6ggcmd95qdbw5qc168sr4k3pbr3salj3cn93f8sm")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.10 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.10") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "1glihfq6qfvw89xhwcy0g23zmyb1s3m3ik5ij7dzpszcjs1zmi6z")))
+
+(define-public crate-waffles-solana-frozen-abi-macro-1.16.0-alpha.11 (c (n "waffles-solana-frozen-abi-macro") (v "1.16.0-alpha.11") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0c197f281293r9l1bwapskqak22ih924x6316bsw0svj7d6bin53")))
+

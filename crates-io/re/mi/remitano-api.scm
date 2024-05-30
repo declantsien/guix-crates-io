@@ -1,0 +1,6 @@
+(define-module (crates-io re mi remitano-api) #:use-module (crates-io))
+
+(define-public crate-remitano-api-0.0.2 (c (n "remitano-api") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.61") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "hyperx") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.10") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)))) (h "1czxwgj9mawmr9g9faii8g9nsrqxq7b33l75wc2r7wib6a3l2aya")))
+
+(define-public crate-remitano-api-0.0.3 (c (n "remitano-api") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.61") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "hyperx") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.10") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)))) (h "1xq4c0sj2nxslfqsazcgm8sf801ksnvm332h7zd5npw8xigbx33p")))
+

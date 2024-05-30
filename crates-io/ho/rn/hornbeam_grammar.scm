@@ -1,0 +1,8 @@
+(define-module (crates-io ho rn hornbeam_grammar) #:use-module (crates-io))
+
+(define-public crate-hornbeam_grammar-0.0.1 (c (n "hornbeam_grammar") (v "0.0.1") (d (list (d (n "arc-interner") (r "^0.7.0") (d #t) (k 0)) (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.5.5") (d #t) (k 0)) (d (n "pest_consume") (r "^1.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "0igvhgsbwknpj85wf6a8vhhpggfhfl8ld9jw014kkzzcrx3h3zzj")))
+
+(define-public crate-hornbeam_grammar-0.0.2 (c (n "hornbeam_grammar") (v "0.0.2") (d (list (d (n "arc-interner") (r "^0.7.0") (d #t) (k 0)) (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.5.5") (d #t) (k 0)) (d (n "pest_consume") (r "^1.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "03hkw2h4b3c1z0zri7np9bnfzvzi45vmbqni4kp9fxdzqvy32wxh")))
+
+(define-public crate-hornbeam_grammar-0.0.3 (c (n "hornbeam_grammar") (v "0.0.3") (d (list (d (n "arc-interner") (r "^0.7.0") (d #t) (k 0)) (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.5.5") (d #t) (k 0)) (d (n "pest_consume") (r "^1.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "1y9xikyq2gb3g2s17cgaqvq1p948xasn7vl3wk34idhp5vi5aghs")))
+

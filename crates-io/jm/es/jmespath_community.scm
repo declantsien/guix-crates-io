@@ -1,0 +1,6 @@
+(define-module (crates-io jm es jmespath_community) #:use-module (crates-io))
+
+(define-public crate-jmespath_community-0.1.0 (c (n "jmespath_community") (v "0.1.0") (d (list (d (n "indexmap") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "rstest") (r "^0.17.0") (d #t) (k 2)) (d (n "santiago") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1cvx0va82hqlw3l9lgaahwbdjycij23qfw00fl3q2klvyzbfpari") (f (quote (("preserve_order" "serde_json/preserve_order" "indexmap/serde"))))))
+
+(define-public crate-jmespath_community-0.1.1 (c (n "jmespath_community") (v "0.1.1") (d (list (d (n "indexmap") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "rstest") (r "^0.17.0") (d #t) (k 2)) (d (n "santiago") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "181m7yv3n8kpwa0nh1nm9wwx9w11sqpm3shlkbkwgymip5wfm7qz") (f (quote (("preserve_order" "serde_json/preserve_order" "indexmap/serde"))))))
+

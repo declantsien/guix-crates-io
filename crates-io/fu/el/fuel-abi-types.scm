@@ -1,0 +1,16 @@
+(define-module (crates-io fu el fuel-abi-types) #:use-module (crates-io))
+
+(define-public crate-fuel-abi-types-0.1.0 (c (n "fuel-abi-types") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.21") (d #t) (k 0)))) (h "19hdbb4xapy1f2kvhp0qmalpx869b5k7b0kan0rinhwvjqw3qlmg")))
+
+(define-public crate-fuel-abi-types-0.2.0 (c (n "fuel-abi-types") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1z2ha6c15ylqz8vlpqdc9y9n8w8zwmnvki552k3grd5sylc5k5ki")))
+
+(define-public crate-fuel-abi-types-0.2.1 (c (n "fuel-abi-types") (v "0.2.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0dndzsz8i825x03gcnpfb3f72mbvsl7v0644lgzspka1xdx9mna7")))
+
+(define-public crate-fuel-abi-types-0.3.0 (c (n "fuel-abi-types") (v "0.3.0") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "09dyynhjdbnzl8c3m8hfs1xvygfmhsl0d6l5d5sxcxqy4s4qf4gq")))
+
+(define-public crate-fuel-abi-types-0.4.0 (c (n "fuel-abi-types") (v "0.4.0") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0ddgvnys3f9g63jz54chwbb2ql1975mpan95mh9sq8rwfh5vnl93")))
+
+(define-public crate-fuel-abi-types-0.5.0 (c (n "fuel-abi-types") (v "0.5.0") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1n663nqgwcrysch3fagpzj3fwza6ws6klv3xpxx3lxqjdv5kaqgf")))
+
+(define-public crate-fuel-abi-types-0.5.2 (c (n "fuel-abi-types") (v "0.5.2") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0w96mamwvs0z2cgn4ikm6vjvyn1w0c36jj8fssjz2zs1jizyirz0")))
+

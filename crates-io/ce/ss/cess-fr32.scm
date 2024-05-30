@@ -1,0 +1,4 @@
+(define-module (crates-io ce ss cess-fr32) #:use-module (crates-io))
+
+(define-public crate-cess-fr32-0.1.0 (c (n "cess-fr32") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.23") (d #t) (k 0)) (d (n "bellperson") (r "^0.18.0") (d #t) (k 0)) (d (n "bitvec") (r "^0.17") (d #t) (k 2)) (d (n "blstrs") (r "^0.4.0") (d #t) (k 0)) (d (n "byte-slice-cast") (r "^1.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.11.0") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.6") (d #t) (k 0)))) (h "0yzc8vwip2f197f5wf83lkbghl1l2irhi0b2hg553j2gpgsnlnqg") (f (quote (("opencl" "bellperson/opencl") ("default") ("cuda" "bellperson/cuda"))))))
+

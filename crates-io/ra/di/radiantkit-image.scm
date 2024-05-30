@@ -1,0 +1,4 @@
+(define-module (crates-io ra di radiantkit-image) #:use-module (crates-io))
+
+(define-public crate-radiantkit-image-0.0.1 (c (n "radiantkit-image") (v "0.0.1") (d (list (d (n "bytemuck") (r "^1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cgmath") (r "^0.18") (d #t) (k 0)) (d (n "ehttp") (r "^0.3.1") (d #t) (k 0)) (d (n "epaint") (r "^0.22.0") (f (quote ("bytemuck" "serde"))) (d #t) (k 0)) (d (n "futures-intrusive") (r "^0.5") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("jpeg" "png"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "macro_magic") (r "^0.5.0") (d #t) (k 0)) (d (n "pollster") (r "^0.3") (d #t) (k 0)) (d (n "radiantkit-core") (r "^0.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.17") (f (quote ("webgl"))) (d #t) (k 0)))) (h "0s7nzdwqwfy00f8lwiz97609chx56vrp5shwjc16v6b9fhp27apb")))
+

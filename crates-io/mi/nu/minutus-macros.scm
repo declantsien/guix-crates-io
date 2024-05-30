@@ -1,0 +1,30 @@
+(define-module (crates-io mi nu minutus-macros) #:use-module (crates-io))
+
+(define-public crate-minutus-macros-0.1.1-alpha.2 (c (n "minutus-macros") (v "0.1.1-alpha.2") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1qimcsd7khz4qa97ch8q7q1x20i4bqx9w2zmaznkyj9ddd8f8r8c") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.3 (c (n "minutus-macros") (v "0.1.1-alpha.3") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0y3jxrzv9n6wvl2ad8xbd9fskh7jkcjy76chkihj897d31sh68sz") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.4 (c (n "minutus-macros") (v "0.1.1-alpha.4") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0cyx3wcqnfwkv6c7pc42csvh00xjss51d3m3cprgp7zg570h1ljv") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.5 (c (n "minutus-macros") (v "0.1.1-alpha.5") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1jw1a1pzwajkv6j7y6bycg4rvfqi03iycjpzml56wn6p96hnk633") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.6 (c (n "minutus-macros") (v "0.1.1-alpha.6") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "04c72mbzc3a31a5kk2fqldglsdq18389lp7sy7m21ml3p7xnh6j3") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.7 (c (n "minutus-macros") (v "0.1.1-alpha.7") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1gizf7ymnchf08n4qvcbdjqjk0ns550hgnxp45vndk4vsc4l9722") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.8 (c (n "minutus-macros") (v "0.1.1-alpha.8") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1qhipis7klngv0bj97igyapzvhrf03q80fxkcc7nvxaadamkvgp1") (y #t)))
+
+(define-public crate-minutus-macros-0.1.1-alpha.9 (c (n "minutus-macros") (v "0.1.1-alpha.9") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0smmmvjc4jr24n177qvsvk7d5hqyx2n6d2yj6zs9wizj3rgx78rl") (y #t)))
+
+(define-public crate-minutus-macros-0.1.4-alpha.0 (c (n "minutus-macros") (v "0.1.4-alpha.0") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1ilh2xr0krsr3pwha7xb6a4ch5kmhl8w3jgw7app65bfiab6vgwr") (y #t)))
+
+(define-public crate-minutus-macros-0.2.1 (c (n "minutus-macros") (v "0.2.1") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1nvr2nig2wpipmmhkilh8kpv3zl5j016qxkn4drjjp787g34n1lv") (y #t)))
+
+(define-public crate-minutus-macros-0.3.0 (c (n "minutus-macros") (v "0.3.0") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1whwglvp5bxp90ifjgvrqrywyjb3y1qb9arvg3kdqkbam9a62y1k")))
+
+(define-public crate-minutus-macros-0.3.2 (c (n "minutus-macros") (v "0.3.2") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0myw25qwwgyd2r1rbc4b4p7p3bas3x94dl4axlrm5qz6akq513fl")))
+
+(define-public crate-minutus-macros-0.4.0 (c (n "minutus-macros") (v "0.4.0") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.42") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1fv40i4j3w3qvqpdrvw3mb91h0gb3icnbp23n2m500q1m2w24f44")))
+
+(define-public crate-minutus-macros-0.5.0 (c (n "minutus-macros") (v "0.5.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "1.*") (d #t) (k 0)) (d (n "quote") (r "1.*") (d #t) (k 0)) (d (n "syn") (r "1.*") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1cpsb108nx2glff3yrk4zf5cjw93bkb2wfl804lj2sl7c3vlpc93")))
+

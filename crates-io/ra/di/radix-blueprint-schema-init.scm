@@ -1,0 +1,6 @@
+(define-module (crates-io ra di radix-blueprint-schema-init) #:use-module (crates-io))
+
+(define-public crate-radix-blueprint-schema-init-1.2.0-dev (c (n "radix-blueprint-schema-init") (v "1.2.0-dev") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "radix-common") (r "^1.2.0-dev") (k 0)) (d (n "sbor") (r "^1.2.0-dev") (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (o #t) (k 0)))) (h "0877a9syzsw530923wik0qmnmcmpqvf5wrdjmffx9rgxdfzld6qs") (f (quote (("serde" "serde/derive" "sbor/serde" "radix-common/serde") ("default" "std")))) (s 2) (e (quote (("std" "sbor/std" "radix-common/std" "serde?/std") ("alloc" "sbor/alloc" "radix-common/alloc" "serde?/alloc"))))))
+
+(define-public crate-radix-blueprint-schema-init-1.2.0 (c (n "radix-blueprint-schema-init") (v "1.2.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "radix-common") (r "^1.2.0") (k 0)) (d (n "sbor") (r "^1.2.0") (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (o #t) (k 0)))) (h "1l9w6y5vgk9pxgmvib601sc7lw51vgaf7cba1bxfznfy0zml99zr") (f (quote (("serde" "serde/derive" "sbor/serde" "radix-common/serde") ("default" "std")))) (s 2) (e (quote (("std" "sbor/std" "radix-common/std" "serde?/std") ("alloc" "sbor/alloc" "radix-common/alloc" "serde?/alloc"))))))
+

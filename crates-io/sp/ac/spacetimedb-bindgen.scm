@@ -1,0 +1,6 @@
+(define-module (crates-io sp ac spacetimedb-bindgen) #:use-module (crates-io))
+
+(define-public crate-spacetimedb-bindgen-0.1.0 (c (n "spacetimedb-bindgen") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "parse_duration") (r "^2.1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "substring") (r "^1.4.5") (d #t) (k 0)) (d (n "syn") (r "^1.0.57") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "13p4z9b054cxf2nn4nn0ry2bycb6vbbid76bn6vci7mnl24xp64a")))
+
+(define-public crate-spacetimedb-bindgen-0.2.0 (c (n "spacetimedb-bindgen") (v "0.2.0") (d (list (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "parse_duration") (r "^2.1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "substring") (r "^1.4.5") (d #t) (k 0)) (d (n "syn") (r "^1.0.57") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "1njaymi3d1m44rwxjarpq81zfjjn2af17xvds81qwki81rdm4rvh")))
+

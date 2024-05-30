@@ -1,0 +1,6 @@
+(define-module (crates-io ax um axum-startup) #:use-module (crates-io))
+
+(define-public crate-axum-startup-0.1.0 (c (n "axum-startup") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "dialogue-macro") (r "^0.2.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "09hbqzi8n6w1jf880abhgpfbgxnf44h5nlb414v2nppysfxkwy0q")))
+
+(define-public crate-axum-startup-0.1.1 (c (n "axum-startup") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "dialogue-macro") (r "^0.2.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1yjpmkrzbm0an1cdzs487c20gklvpfn28nms3b7wm5i7vvcyckml")))
+

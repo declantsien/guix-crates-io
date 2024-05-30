@@ -1,0 +1,4 @@
+(define-module (crates-io fa st fast_motion_planning) #:use-module (crates-io))
+
+(define-public crate-fast_motion_planning-0.1.0 (c (n "fast_motion_planning") (v "0.1.0") (d (list (d (n "approx") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.3") (f (quote ("approx"))) (d #t) (k 0)) (d (n "ndarray-csv") (r "^0.5.1") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "ordered-float") (r "^2.5.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.14.1") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rawpointer") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1j4br9sl7p4f0ir50y492qba5w9f5i0ggdfrnfs32rmkq3ihrl0v") (y #t)))
+

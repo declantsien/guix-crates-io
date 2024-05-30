@@ -1,0 +1,10 @@
+(define-module (crates-io gr ap graphlang) #:use-module (crates-io))
+
+(define-public crate-graphlang-0.1.0 (c (n "graphlang") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0qm33g4wi5zvxx3cwcj2k4vbjvv4cn6yfqa38zxl950s4mr0sg8a")))
+
+(define-public crate-graphlang-0.1.1 (c (n "graphlang") (v "0.1.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "094ixgncrqhb9hb5zqkl48mcf90zma0zgg89i813vgg2lac2q5mn")))
+
+(define-public crate-graphlang-0.1.2 (c (n "graphlang") (v "0.1.2") (d (list (d (n "clap") (r "^3.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dot") (r "^0.1.4") (d #t) (k 0)) (d (n "humantime") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "06vwj0lxd3qws99famixxzbr845p2mnrsc5i0y5skvan5apllrm5")))
+
+(define-public crate-graphlang-0.1.3 (c (n "graphlang") (v "0.1.3") (d (list (d (n "clap") (r "^3.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dot") (r "^0.1.4") (d #t) (k 0)) (d (n "humantime") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pb1safjrkan95w8ch2p9h6vp12016dskdip968afainv8q525mh")))
+

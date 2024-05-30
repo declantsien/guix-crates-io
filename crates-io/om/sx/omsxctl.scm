@@ -1,0 +1,8 @@
+(define-module (crates-io om sx omsxctl) #:use-module (crates-io))
+
+(define-public crate-omsxctl-0.1.0 (c (n "omsxctl") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rustyline") (r "^9.1.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.4") (d #t) (k 0)))) (h "1fs6nn6nl87bsjhaa3g30q62pviyfd43syqpz5jx5wr55blk8yzz")))
+
+(define-public crate-omsxctl-0.1.1 (c (n "omsxctl") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rustyline") (r "^9.1.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.4") (d #t) (k 0)))) (h "1j7fz6bjf3rf4g4fjgvgckw98lbisj32n58w4awfnqksyhqn80jf")))
+
+(define-public crate-omsxctl-0.1.2 (c (n "omsxctl") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rustyline") (r "^8.2.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.4") (d #t) (k 0)))) (h "1drjssk38kvamfj3wyv11ka18pi01z468zl8k348gk0bjsvgn0cz")))
+

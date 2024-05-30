@@ -1,0 +1,6 @@
+(define-module (crates-io hu b_ hub_fetch) #:use-module (crates-io))
+
+(define-public crate-hub_fetch-0.1.0 (c (n "hub_fetch") (v "0.1.0") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.13") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1wqa3h81s0h4ab83d4rkr2mgl3b52q359y8vcs0yrqihm5n1ibg1")))
+
+(define-public crate-hub_fetch-0.1.1 (c (n "hub_fetch") (v "0.1.1") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.13") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "07x13yc8dgchjhnp20sn5z85ah40w7r1yhn6srd4v190ri5i11h7")))
+

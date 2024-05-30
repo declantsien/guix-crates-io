@@ -1,0 +1,6 @@
+(define-module (crates-io ne tl netlink-packet) #:use-module (crates-io))
+
+(define-public crate-netlink-packet-0.1.0 (c (n "netlink-packet") (v "0.1.0") (d (list (d (n "bit_field") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 2)) (d (n "eui48") (r "^0.4.1") (o #t) (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 2)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.1") (d #t) (k 0)))) (h "0mk6ry58ccajg8r6a6q77r45mfmbd7q90c06mdlyfdgg1afi8ypc") (f (quote (("rtnetlink") ("default") ("audit" "bit_field"))))))
+
+(define-public crate-netlink-packet-0.1.1 (c (n "netlink-packet") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.1") (d #t) (k 0)))) (h "0jbql0m3dnbgpq9yjlv7m1n2asjw8fpldpxpl9rqwykkjrs1056w") (f (quote (("rtnetlink") ("default") ("audit"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ga me gamels) #:use-module (crates-io))
+
+(define-public crate-gamels-1.0.0 (c (n "gamels") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "file-mode") (r "^0.1.2") (d #t) (k 0)) (d (n "humansize") (r "^2.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.22.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)))) (h "0wd3544y0513y409rjcga24m9024niivbj744hyhyldabbk0d435")))
+

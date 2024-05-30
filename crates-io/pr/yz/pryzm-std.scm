@@ -1,0 +1,8 @@
+(define-module (crates-io pr yz pryzm-std) #:use-module (crates-io))
+
+(define-public crate-pryzm-std-0.1.0 (c (n "pryzm-std") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.22") (k 0)) (d (n "cosmwasm-std") (r "^1.1.2") (f (quote ("stargate"))) (d #t) (k 0)) (d (n "prost") (r "^0.12.3") (f (quote ("prost-derive"))) (k 0)) (d (n "prost-types") (r "^0.12.3") (k 0)) (d (n "pryzm-std-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-cw-value") (r "^0.7.0") (d #t) (k 0)))) (h "1z79hi2i9jmq2ss08lib0b75jdbbalpwwbs6n2znp35n29j7jl0a")))
+
+(define-public crate-pryzm-std-0.1.1 (c (n "pryzm-std") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.22") (k 0)) (d (n "cosmwasm-std") (r "^1.1.2") (f (quote ("stargate"))) (d #t) (k 0)) (d (n "prost") (r "^0.12.3") (f (quote ("prost-derive"))) (k 0)) (d (n "prost-types") (r "^0.12.3") (k 0)) (d (n "pryzm-std-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-cw-value") (r "^0.7.0") (d #t) (k 0)))) (h "1z60vl4iijjb072yqnhpjsbk63140rczykafyy9h189vr9r5qrci")))
+
+(define-public crate-pryzm-std-0.1.2 (c (n "pryzm-std") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.22") (k 0)) (d (n "cosmwasm-std") (r "^1.1.2") (f (quote ("stargate"))) (d #t) (k 0)) (d (n "prost") (r "^0.12.3") (f (quote ("prost-derive"))) (k 0)) (d (n "prost-types") (r "^0.12.3") (k 0)) (d (n "pryzm-std-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-cw-value") (r "^0.7.0") (d #t) (k 0)))) (h "0l2q9bxfzg4riw7y6z3ap0726csxvns41pd1mh3qah02yif50srn")))
+

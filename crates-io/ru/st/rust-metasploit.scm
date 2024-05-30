@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rust-metasploit) #:use-module (crates-io))
+
+(define-public crate-rust-metasploit-1.0.0 (c (n "rust-metasploit") (v "1.0.0") (d (list (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "rmpv") (r "^1.0.0") (f (quote ("with-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)))) (h "1kwqy66vlyww2n08vqqrzxjvzzc51h9n8jivxdr0ms0qikn60ypj")))
+
+(define-public crate-rust-metasploit-1.0.1 (c (n "rust-metasploit") (v "1.0.1") (d (list (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "rmpv") (r "^1.0.0") (f (quote ("with-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)))) (h "01mw5mvsb7khb07n599nmqs8804rm0gmcp5zf5cjnn636q90sq7w")))
+
+(define-public crate-rust-metasploit-1.1.0 (c (n "rust-metasploit") (v "1.1.0") (d (list (d (n "doc-cfg") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1.0.0-beta.2") (d #t) (k 0)) (d (n "rmpv") (r "^1.0.0") (f (quote ("with-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (d #t) (k 0)))) (h "1dcc9rjlfkki75inhczs5jhy6gr1w49cmsda400kxq622ld7hfwp") (f (quote (("unstable-doc-cfg") ("full" "blocking") ("default") ("blocking"))))))
+
+(define-public crate-rust-metasploit-1.2.0 (c (n "rust-metasploit") (v "1.2.0") (d (list (d (n "doc-cfg") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.1") (d #t) (k 0)) (d (n "rmpv") (r "^1.0.0") (f (quote ("with-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (o #t) (d #t) (k 0)))) (h "1pbw0d8aa9ix8wmxqgyqxaa2xi9mm1nhl1hs0g9m0z0gzc37s5v2") (f (quote (("unstable-doc-cfg") ("default" "blocking") ("blocking") ("async" "tokio"))))))
+

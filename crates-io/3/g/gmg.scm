@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# g gmg) #:use-module (crates-io))
+
+(define-public crate-gmg-0.1.0 (c (n "gmg") (v "0.1.0") (d (list (d (n "bmart-derive") (r "^0.1.3") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1j0phljwxq75s2g0f5l7l4hbs0l3b6nfxf8blr00hm7njbrazk33")))
+
+(define-public crate-gmg-0.1.1 (c (n "gmg") (v "0.1.1") (d (list (d (n "bmart-derive") (r "^0.1.3") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1n6341mg9zkynsgjkx4b80cbnx9prnkk0d7vyc8ffbh1shaqi0cy")))
+
+(define-public crate-gmg-0.1.2 (c (n "gmg") (v "0.1.2") (d (list (d (n "bmart-derive") (r "^0.1.3") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1am3im2yb2msk95qbv34p5s9fvrrf1ksqjj2gxijpdibqsqs2187")))
+

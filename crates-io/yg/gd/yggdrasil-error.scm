@@ -1,0 +1,12 @@
+(define-module (crates-io yg gd yggdrasil-error) #:use-module (crates-io))
+
+(define-public crate-yggdrasil-error-0.1.0 (c (n "yggdrasil-error") (v "0.1.0") (d (list (d (n "lsp-types") (r "^0.93.1") (f (quote ("proposed"))) (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "ropey") (r "^1.5.0") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "15j63irfrwwh9j62hwnpfrbj4x51hzkpvar6j38caq3dir8yrwfg") (f (quote (("default"))))))
+
+(define-public crate-yggdrasil-error-0.1.1 (c (n "yggdrasil-error") (v "0.1.1") (d (list (d (n "lsp-types") (r "^0.93.1") (f (quote ("proposed"))) (o #t) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "ropey") (r "^1.5.0") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0b192bmra9nzs2mnicl1l3g03n5g30msvh89lb2da71qv127q798") (f (quote (("default"))))))
+
+(define-public crate-yggdrasil-error-0.1.2 (c (n "yggdrasil-error") (v "0.1.2") (d (list (d (n "diagnostic") (r "^0.3.7") (d #t) (k 0)) (d (n "lsp-types") (r "^0.93.2") (f (quote ("proposed"))) (o #t) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "ropey") (r "^1.5.0") (o #t) (d #t) (k 0)) (d (n "ucd-trie") (r "^0.1.5") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (o #t) (d #t) (k 0)))) (h "0dia94v76mz3vnzad435xkp3askv3v0wqc5xjwpymp6h43xnqi2q") (f (quote (("default"))))))
+
+(define-public crate-yggdrasil-error-0.1.3 (c (n "yggdrasil-error") (v "0.1.3") (d (list (d (n "antlr-rust") (r "^0.3.0-beta") (o #t) (d #t) (k 0)) (d (n "askama") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.5.3") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (o #t) (d #t) (k 0)) (d (n "validatus") (r "^0.0.2") (d #t) (k 0)) (d (n "wax") (r "^0.6.0") (o #t) (d #t) (k 0)))) (h "1m5nalzfj70p76a6k44nf10511vdlddyq9xq5b7vb611qpj7l46n") (f (quote (("default"))))))
+
+(define-public crate-yggdrasil-error-0.1.4 (c (n "yggdrasil-error") (v "0.1.4") (d (list (d (n "antlr-rust") (r "^0.3.0-beta") (o #t) (d #t) (k 0)) (d (n "askama") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.5.3") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (o #t) (d #t) (k 0)) (d (n "validatus") (r "^0.0.2") (d #t) (k 0)) (d (n "wax") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "yggdrasil-rt") (r "0.0.*") (o #t) (d #t) (k 0)))) (h "02mfxyd1xz7hqrnv79d5dsvp29nfr43b631spw7f6fj0pyd38hmj") (f (quote (("default"))))))
+

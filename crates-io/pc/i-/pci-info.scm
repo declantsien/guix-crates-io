@@ -1,0 +1,4 @@
+(define-module (crates-io pc i- pci-info) #:use-module (crates-io))
+
+(define-public crate-pci-info-0.1.0 (c (n "pci-info") (v "0.1.0") (d (list (d (n "core-foundation") (r "^0.9.4") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Devices_DeviceAndDriverInstallation" "Win32_System" "Win32_System_Registry"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "wmi") (r "^0.13.3") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0bl09rr4xcss0rhrvgwk0b0ipr8psc3kxvy7nmd7akxppdrwm4rr") (f (quote (("pci_subclass_debug_strings") ("pci_interface_func_debug_strings") ("pci_class_debug_strings") ("default" "pci_class_debug_strings" "pci_subclass_debug_strings" "pci_interface_func_debug_strings")))) (r "1.70")))
+

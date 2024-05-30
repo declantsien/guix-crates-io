@@ -1,0 +1,12 @@
+(define-module (crates-io za rr zarrs_ffi) #:use-module (crates-io))
+
+(define-public crate-zarrs_ffi-0.5.0 (c (n "zarrs_ffi") (v "0.5.0") (d (list (d (n "cbindgen") (r "^0.26") (d #t) (k 1)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "ffi-support") (r "^0.4.4") (d #t) (k 0)) (d (n "inline-c") (r "^0.1.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "zarrs") (r "^0.12.0") (d #t) (k 0)))) (h "07blfgwbshffh41x1dmwfgw7qpf7wyvc8abqvmjby212kgaakfmf") (f (quote (("cbindgen")))) (r "1.71")))
+
+(define-public crate-zarrs_ffi-0.5.1 (c (n "zarrs_ffi") (v "0.5.1") (d (list (d (n "cbindgen") (r "^0.26") (d #t) (k 1)) (d (n "ffi-support") (r "^0.4.4") (d #t) (k 0)) (d (n "inline-c") (r "^0.1.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "zarrs") (r "^0.12.5") (d #t) (k 0)))) (h "0z684w5601d8s1azjill83bf5p3gd38dy0ac190zq5ibl6yiid6r") (f (quote (("cbindgen")))) (r "1.71")))
+
+(define-public crate-zarrs_ffi-0.6.0 (c (n "zarrs_ffi") (v "0.6.0") (d (list (d (n "cbindgen") (r "^0.26") (d #t) (k 1)) (d (n "ffi-support") (r "^0.4.4") (d #t) (k 0)) (d (n "inline-c") (r "^0.1.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "zarrs") (r "^0.12.5") (d #t) (k 0)))) (h "0ghcnx3ypixwycvdw0jkhzngzpccwvrl2yga9nj3v140xjhvz882") (f (quote (("cbindgen")))) (r "1.71")))
+
+(define-public crate-zarrs_ffi-0.6.1 (c (n "zarrs_ffi") (v "0.6.1") (d (list (d (n "cbindgen") (r "^0.26") (d #t) (k 1)) (d (n "ffi-support") (r "^0.4.4") (d #t) (k 0)) (d (n "inline-c") (r "^0.1.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "zarrs") (r "^0.13.0") (d #t) (k 0)))) (h "0hvjlkgbfx9kj1y9cqz9xgg34aga13gvzakj7pffsr4syi5hd8ad") (f (quote (("cbindgen")))) (r "1.71")))
+
+(define-public crate-zarrs_ffi-0.6.2 (c (n "zarrs_ffi") (v "0.6.2") (d (list (d (n "cbindgen") (r "^0.26") (d #t) (k 1)) (d (n "ffi-support") (r "^0.4.4") (d #t) (k 0)) (d (n "inline-c") (r "^0.1.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "zarrs") (r "^0.13.0") (d #t) (k 0)))) (h "1nc4hva85r29a9xj1vcqlsp33hny15dsnz3klaf9krdgr0a2d09z") (f (quote (("cbindgen")))) (r "1.71")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io gh as ghastoolkit-cli) #:use-module (crates-io))
+
+(define-public crate-ghastoolkit-cli-0.1.0 (c (n "ghastoolkit-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (f (quote ("clap"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "ghastoolkit") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "03zf1mls5l5wjwhnn81kivar5av6ig5dfqm84d16v9ic6ghpm4ad") (r "1.70")))
+
+(define-public crate-ghastoolkit-cli-0.3.0 (c (n "ghastoolkit-cli") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (f (quote ("clap"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "ghastoolkit") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1854lzc9sslm0v7qcsc3r8wh8zdmi29n620h26z3187l9grikdrl") (r "1.70")))
+

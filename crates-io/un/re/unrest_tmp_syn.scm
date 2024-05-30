@@ -1,0 +1,4 @@
+(define-module (crates-io un re unrest_tmp_syn) #:use-module (crates-io))
+
+(define-public crate-unrest_tmp_syn-0.1.0 (c (n "unrest_tmp_syn") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.10") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.1") (d #t) (k 0)) (d (n "syntex_pos") (r "^0.59") (d #t) (k 2)) (d (n "syntex_syntax") (r "^0.59") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)) (d (n "unicode-xid") (r "^0.1") (d #t) (k 0)) (d (n "unrest_tmp_quote") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "unrest_tmp_synom") (r "^0.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^1.0.1") (d #t) (k 2)))) (h "072bwjsh7bcljvibagqfaqh6sx06gbi5lahhqzq9nl2vn1kc8vhb") (f (quote (("visit") ("printing" "unrest_tmp_quote" "unrest_tmp_synom/printing") ("parsing" "unrest_tmp_synom/parsing") ("full") ("fold") ("extra-traits" "unrest_tmp_synom/extra-traits") ("default" "parsing" "printing" "clone-impls") ("clone-impls" "unrest_tmp_synom/clone-impls"))))))
+

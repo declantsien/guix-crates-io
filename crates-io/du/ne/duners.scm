@@ -1,0 +1,6 @@
+(define-module (crates-io du ne duners) #:use-module (crates-io))
+
+(define-public crate-duners-0.0.1 (c (n "duners") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde" "rustc-serialize"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_with") (r "^2.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1g43ca1mf9fjxczwjsg4hinyd9i2n82a2xfysn4yq3mfjlgqkv5z")))
+
+(define-public crate-duners-0.0.2 (c (n "duners") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.31") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dllrr4cpg50w4w3s6d8s7bjmw36ij32w7qrji2ra8ypcfyzrgb0")))
+

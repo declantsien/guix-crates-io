@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-contracts-rpc) #:use-module (crates-io))
+
+(define-public crate-noble-contracts-rpc-0.8.0 (c (n "noble-contracts-rpc") (v "0.8.0") (d (list (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "noble-contracts-primitives") (r "^2.0.0") (d #t) (k 0)) (d (n "noble-contracts-rpc-runtime-api") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 2)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core-client") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-derive") (r "^15.1.0") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-blockchain") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-rpc") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)))) (h "1dc7zczbf6br1qvfk1nn6v3gga1bvqag8vnncxcxb1s1mwb4n1mr")))
+

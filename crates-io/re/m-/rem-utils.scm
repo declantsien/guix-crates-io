@@ -1,0 +1,6 @@
+(define-module (crates-io re m- rem-utils) #:use-module (crates-io))
+
+(define-public crate-rem-utils-0.1.0 (c (n "rem-utils") (v "0.1.0") (d (list (d (n "ena") (r "^0.14") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "string_cache") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("extra-traits" "full" "visit" "fold" "visit-mut" "printing" "parsing"))) (d #t) (k 0)))) (h "1kw1ma9l404hbf8dna0ldmxvq1bgrjdc001fvr3gmg7lc98w6dp2")))
+
+(define-public crate-rem-utils-0.1.1 (c (n "rem-utils") (v "0.1.1") (d (list (d (n "ena") (r "^0.14") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "string_cache") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.80") (f (quote ("extra-traits" "full" "visit" "fold" "visit-mut" "printing" "parsing"))) (d #t) (k 0)))) (h "0s6xb08id5vz3mzzy2hmwcjw6ysbbf2vdd6wrb4fp4c1lzfak5r5")))
+

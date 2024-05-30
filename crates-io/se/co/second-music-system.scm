@@ -1,0 +1,4 @@
+(define-module (crates-io se co second-music-system) #:use-module (crates-io))
+
+(define-public crate-second-music-system-0.1.0 (c (n "second-music-system") (v "0.1.0") (d (list (d (n "arcow") (r "^1.1.1") (d #t) (k 0)) (d (n "compact_str") (r "^0.7.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "libsoxr") (r "^0.2.9") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "shellish_parse") (r "^2.2.0") (d #t) (k 0)) (d (n "switchyard") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "vecmap-rs") (r "^0.1.13") (d #t) (k 0)))) (h "151w5y8k0vby7n7g1wnynkcjjrfiz4k1wqqrpyq3m6cvy70ba7lr") (f (quote (("ffi-expose-issuer") ("default" "switchyard")))) (s 2) (e (quote (("tokio" "dep:tokio") ("switchyard" "dep:switchyard" "dep:num_cpus"))))))
+

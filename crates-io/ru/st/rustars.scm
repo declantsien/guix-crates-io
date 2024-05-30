@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rustars) #:use-module (crates-io))
+
+(define-public crate-rustars-0.1.0 (c (n "rustars") (v "0.1.0") (d (list (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crates_io_api") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "hubcaps") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0nd2vbkiig9fyclsw3pgm5bbqvf733hwkzn0vzfi2x3iinlil72b") (y #t)))
+
+(define-public crate-rustars-0.1.1 (c (n "rustars") (v "0.1.1") (d (list (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crates_io_api") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "hubcaps") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0cq0fa57lmqxb1g83c38cvqwgfgbmvdbgia52nv1hj005ip2pkqg")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io al iv alive_alter) #:use-module (crates-io))
+
+(define-public crate-alive_alter-0.1.1 (c (n "alive_alter") (v "0.1.1") (d (list (d (n "aok") (r "^0.1.3") (d #t) (k 2)) (d (n "coarsetime") (r "^0.1.34") (d #t) (k 0)) (d (n "sts") (r "^0.1.20") (d #t) (k 0)))) (h "1ahla6g445f87bd7952dnclw8nqv68a9zipacjy463lf8pxvvlyd")))
+
+(define-public crate-alive_alter-0.1.2 (c (n "alive_alter") (v "0.1.2") (d (list (d (n "aok") (r "^0.1.3") (d #t) (k 0)) (d (n "aok") (r "^0.1.3") (d #t) (k 2)) (d (n "coarsetime") (r "^0.1.34") (d #t) (k 0)) (d (n "sts") (r "^0.1.20") (d #t) (k 0)))) (h "0dw02dr4mmbw9mjx5679ja1lq0i5wjva15zq3l11sy0q849gvys6")))
+
+(define-public crate-alive_alter-0.1.3 (c (n "alive_alter") (v "0.1.3") (d (list (d (n "aok") (r "^0.1.3") (d #t) (k 0)) (d (n "aok") (r "^0.1.3") (d #t) (k 2)) (d (n "coarsetime") (r "^0.1.34") (d #t) (k 0)) (d (n "const-str") (r "^0.5.7") (o #t) (d #t) (k 0)) (d (n "ifs") (r "^0.1.27") (f (quote ("fs"))) (k 0)) (d (n "serde") (r "^1.0.197") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (o #t) (d #t) (k 0)) (d (n "sts") (r "^0.1.21") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0kfwq2yypdjj03qnjc4pz82310hgm1lb7hxjcb7z2zxqprk4pjvf") (f (quote (("title_txt") ("denoise") ("default")))) (s 2) (e (quote (("yml" "dep:serde" "dep:serde_yaml" "dep:const-str"))))))
+
+(define-public crate-alive_alter-0.1.4 (c (n "alive_alter") (v "0.1.4") (d (list (d (n "aok") (r "^0.1.3") (d #t) (k 0)) (d (n "aok") (r "^0.1.3") (d #t) (k 2)) (d (n "coarsetime") (r "^0.1.34") (d #t) (k 0)) (d (n "const-str") (r "^0.5.7") (o #t) (d #t) (k 0)) (d (n "ifs") (r "^0.1.27") (f (quote ("fs"))) (k 0)) (d (n "serde") (r "^1.0.197") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (o #t) (d #t) (k 0)) (d (n "sts") (r "^0.1.21") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "1n2sr5q3dc4qqwm095nm0ik27s3z7an6m60gp6vw2crhh1c3x7xm") (f (quote (("title_txt") ("denoise") ("default")))) (s 2) (e (quote (("yml" "dep:serde" "dep:serde_yaml" "dep:const-str"))))))
+

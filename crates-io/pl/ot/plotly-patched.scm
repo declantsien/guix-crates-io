@@ -1,0 +1,4 @@
+(define-module (crates-io pl ot plotly-patched) #:use-module (crates-io))
+
+(define-public crate-plotly-patched-0.6.0-unofficial.1-foresterre (c (n "plotly-patched") (v "0.6.0-unofficial.1-foresterre") (d (list (d (n "askama") (r "^0.9.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 2)) (d (n "itertools-num") (r "^0.1.3") (d #t) (k 2)) (d (n "ndarray") (r ">=0.13.1") (o #t) (d #t) (k 0)) (d (n "ndarray") (r "^0.13.1") (d #t) (k 2)) (d (n "plotly_kaleido") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "plotly_kaleido") (r "^0.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "19zlix7nlr9f21mri6rxda0pybfy4ywr3iiyg7xz1c89d0b9vylx") (f (quote (("plotly_ndarray" "ndarray") ("kaleido" "plotly_kaleido"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io se ns senstate) #:use-module (crates-io))
+
+(define-public crate-senstate-0.0.1 (c (n "senstate") (v "0.0.1") (d (list (d (n "fern") (r "^0.5.8") (d #t) (k 2)) (d (n "futures") (r "^0.1.29") (d #t) (k 2)) (d (n "itertools") (r "^0.8.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.8") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 2)) (d (n "tokio") (r "^0.1.22") (d #t) (k 2)) (d (n "tungstenite") (r "^0.9.1") (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde" "v4"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.8.1") (d #t) (k 2)))) (h "0gfr1jiczyjh9pjh32q2njdh0p1w1yz740glchibhk07rlnl0nwj") (y #t)))
+

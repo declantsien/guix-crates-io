@@ -1,0 +1,4 @@
+(define-module (crates-io wh it whitebreadx) #:use-module (crates-io))
+
+(define-public crate-whitebreadx-0.1.0 (c (n "whitebreadx") (v "0.1.0") (d (list (d (n "breadx") (r "^3.1") (k 0)) (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "cstr_core") (r "^0.2") (d #t) (k 0)) (d (n "hashbrown") (r "^0.11") (k 0)) (d (n "libc") (r "^0.2") (k 0)) (d (n "libloading") (r "^0.7.3") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (k 0)) (d (n "spin") (r "^0.9") (f (quote ("lazy"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "19i306nzy48z87jf5nxbz8924zb3zf5n6pyqr69gg0xsgnnqwfih") (f (quote (("xlib") ("to_socket" "std") ("std" "breadx/std") ("real_mutex" "once_cell" "std") ("pl" "real_mutex" "parking_lot" "breadx/pl" "once_cell/parking_lot") ("dl" "libloading" "std") ("default" "real_mutex" "std" "xlib"))))))
+

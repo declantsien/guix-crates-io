@@ -1,0 +1,6 @@
+(define-module (crates-io dr ui druid-win-shell) #:use-module (crates-io))
+
+(define-public crate-druid-win-shell-0.1.0 (c (n "druid-win-shell") (v "0.1.0") (d (list (d (n "direct2d") (r "^0.2.0") (d #t) (k 0)) (d (n "directwrite") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.39") (d #t) (k 0)) (d (n "winapi") (r "^0.3.6") (f (quote ("d2d1_1" "dwrite" "winbase" "libloaderapi" "errhandlingapi" "winuser" "shellscalingapi" "shobjidl" "combaseapi" "synchapi" "dxgi1_3" "dcomp" "d3d11" "dwmapi" "wincon" "fileapi" "processenv" "winbase" "handleapi"))) (d #t) (k 0)) (d (n "wio") (r "^0.2") (d #t) (k 0)))) (h "05ga19i0d0qxa3jrg4qw1cqwxklzhcywvzl8kckwvn8qbym3isn0")))
+
+(define-public crate-druid-win-shell-0.1.1 (c (n "druid-win-shell") (v "0.1.1") (d (list (d (n "direct2d") (r "^0.2.0") (d #t) (k 0)) (d (n "directwrite") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.39") (d #t) (k 0)) (d (n "winapi") (r "^0.3.6") (f (quote ("d2d1_1" "dwrite" "winbase" "libloaderapi" "errhandlingapi" "winuser" "shellscalingapi" "shobjidl" "combaseapi" "synchapi" "dxgi1_3" "dcomp" "d3d11" "dwmapi" "wincon" "fileapi" "processenv" "winbase" "handleapi"))) (d #t) (k 0)) (d (n "wio") (r "^0.2") (d #t) (k 0)))) (h "06ry5j398q8w890g3ydcgvanh8qs1dir4x8dyrhbgw1klxfjjhj8")))
+

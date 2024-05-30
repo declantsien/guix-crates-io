@@ -1,0 +1,4 @@
+(define-module (crates-io co ap coap-zero) #:use-module (crates-io))
+
+(define-public crate-coap-zero-0.3.0 (c (n "coap-zero") (v "0.3.0") (d (list (d (n "bondrewd") (r "^0.1") (f (quote ("derive"))) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "embedded-nal") (r "^0.6") (d #t) (k 0)) (d (n "embedded-timers") (r "^0.2.0") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "iri-string") (r "^0.7") (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "nb") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0") (d #t) (k 2)) (d (n "std-embedded-nal") (r "^0.1") (d #t) (k 2)) (d (n "try-ascii") (r "^1.0.0") (d #t) (k 2)))) (h "18xk5r80m19wazw6n3zq3j0va8djg4x63sij4ifnfjfr1by6bhgm") (r "1.65")))
+

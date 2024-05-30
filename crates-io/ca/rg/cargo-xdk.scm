@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-xdk) #:use-module (crates-io))
+
+(define-public crate-cargo-xdk-2.5.0 (c (n "cargo-xdk") (v "2.5.0") (d (list (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "gumdrop") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pathos") (r "^0.3.0-pre.4") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "125676hq8gdy97ksvcxsz53ncrwbmbyad7asddqrvrc5a8ygbnqq")))
+
+(define-public crate-cargo-xdk-2.7.0 (c (n "cargo-xdk") (v "2.7.0") (d (list (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "gumdrop") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pathos") (r "^0.3.0-pre.4") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0ski3gbh9s6yplpml87r6whkgi6nwadmdkwb6y4wnzz93wrdsf0k")))
+
+(define-public crate-cargo-xdk-2.10.1 (c (n "cargo-xdk") (v "2.10.1") (d (list (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "gumdrop") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pathos") (r "^0.3.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "13m2zw3ypv6r2mqpvcj2k47jssr564vmkjdfiz19q0j5xka5dfvk")))
+
+(define-public crate-cargo-xdk-2.12.6 (c (n "cargo-xdk") (v "2.12.6") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.1") (d #t) (k 0)) (d (n "gumdrop") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pathos") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "057r38ncnh6mas5ayvqkmdqqpkd4a3c7h95n983qlrll084fqkq2") (r "1.56")))
+

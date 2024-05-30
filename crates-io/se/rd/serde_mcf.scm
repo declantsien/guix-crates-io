@@ -1,0 +1,10 @@
+(define-module (crates-io se rd serde_mcf) #:use-module (crates-io))
+
+(define-public crate-serde_mcf-0.1.0 (c (n "serde_mcf") (v "0.1.0") (d (list (d (n "data-encoding") (r "^1.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0-rc.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "14haklv75yibikpsyc83zffd3z7mjbm2lpaj5yqpcd520gxv22d8")))
+
+(define-public crate-serde_mcf-0.1.1 (c (n "serde_mcf") (v "0.1.1") (d (list (d (n "data-encoding") (r "^2.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "0ikz8byhvv9g5bkcswzddhjxaqqmilgyzfsjgap2zxpkz132x7w3")))
+
+(define-public crate-serde_mcf-0.1.2 (c (n "serde_mcf") (v "0.1.2") (d (list (d (n "data-encoding") (r "^2.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1kks330h0kjli74crbc3ayl8d88r0shn7ry2m9bjmyfvr5857035")))
+
+(define-public crate-serde_mcf-0.1.3 (c (n "serde_mcf") (v "0.1.3") (d (list (d (n "data-encoding") (r "^2.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1ka69hdzyfx13ph2sibfzg3sl1axjwnwz7qs8nq2zvyxwbqp33ka")))
+

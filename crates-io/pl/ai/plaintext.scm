@@ -1,0 +1,8 @@
+(define-module (crates-io pl ai plaintext) #:use-module (crates-io))
+
+(define-public crate-plaintext-0.0.0 (c (n "plaintext") (v "0.0.0") (h "11cs8f2ryvs78rkf6hbp4i9nk0jla7znn0cwpzbr8sk1h6wz1nxy") (y #t)))
+
+(define-public crate-plaintext-0.27.1 (c (n "plaintext") (v "0.27.1") (d (list (d (n "asynchronous-codec") (r "^0.6") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "tetsy-libp2p-core") (r "^0.27.0") (d #t) (k 0)) (d (n "unsigned-varint") (r "^0.7") (f (quote ("asynchronous_codec"))) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "0js8zm90xr4xvr06pvq2z325raicb5fgp56lfza7dh934hbdksgq")))
+
+(define-public crate-plaintext-0.27.0 (c (n "plaintext") (v "0.27.0") (d (list (d (n "asynchronous-codec") (r "^0.5.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "tet-libp2p-core") (r "^0.27.0") (d #t) (k 0)) (d (n "unsigned-varint") (r "^0.6") (f (quote ("asynchronous_codec"))) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "1j144b7yznd4priq9yxiqyfbmh0ryjicw4cc941iy27gbsi0m23h")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ge og geogrid) #:use-module (crates-io))
+
+(define-public crate-geogrid-0.1.0 (c (n "geogrid") (v "0.1.0") (d (list (d (n "geojson") (r "^0.5.0") (d #t) (k 0)) (d (n "imagefmt") (r "^4.0.0") (d #t) (k 0)) (d (n "num") (r "^0.1.37") (d #t) (k 0)) (d (n "rayon") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "1mpvjx20hmjv99mc0dads9d7jp64d7h2gz3z6zrlk7h60dk8s9i7")))
+
+(define-public crate-geogrid-0.2.0 (c (n "geogrid") (v "0.2.0") (d (list (d (n "geojson") (r "^0.5.0") (d #t) (k 0)) (d (n "imagefmt") (r "^4.0.0") (d #t) (k 0)) (d (n "num") (r "^0.1.37") (d #t) (k 0)) (d (n "ocl") (r "^0.12") (d #t) (k 0)) (d (n "rayon") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "09ccc9cqy64yq54vlmiivn6i79d3ilmzryz74kpk4rdpfz4p4bb3")))
+
+(define-public crate-geogrid-0.2.1 (c (n "geogrid") (v "0.2.1") (d (list (d (n "geojson") (r "^0.5.0") (d #t) (k 0)) (d (n "imagefmt") (r "^4.0.0") (d #t) (k 0)) (d (n "num") (r "^0.1.37") (d #t) (k 0)) (d (n "ocl") (r "^0.12") (d #t) (k 0)) (d (n "rayon") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "1vfaqsypi96znz5x4fr2j0bb0b5470g2crjmkyw46wj93n1v428i")))
+
+(define-public crate-geogrid-0.3.0 (c (n "geogrid") (v "0.3.0") (d (list (d (n "geojson") (r "^0.5.0") (d #t) (k 0)) (d (n "imagefmt") (r "^4.0.0") (d #t) (k 0)) (d (n "num") (r "^0.1.37") (d #t) (k 0)) (d (n "ocl") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "1z8qa925aj42spq2b8z79gl556km2z87svfdvh5d7bl0lccbsjjl") (f (quote (("opencl" "ocl") ("default"))))))
+
+(define-public crate-geogrid-0.3.1 (c (n "geogrid") (v "0.3.1") (d (list (d (n "geojson") (r "^0.5.0") (d #t) (k 0)) (d (n "imagefmt") (r "^4.0.0") (d #t) (k 0)) (d (n "num") (r "^0.1.37") (d #t) (k 0)) (d (n "ocl") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "0phq0lz4y9nm2nq89hnfmi93lnycf5q1dgrfyzghr2wjwmri7ppi") (f (quote (("opencl" "ocl") ("default"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io do tm dotm) #:use-module (crates-io))
+
+(define-public crate-dotm-0.1.0 (c (n "dotm") (v "0.1.0") (d (list (d (n "colour") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0pq5xvrr8l6mfqzwv67c3cxywskfd66cjx4r2asaim7xq6wz1cgw")))
+
+(define-public crate-dotm-0.1.1 (c (n "dotm") (v "0.1.1") (d (list (d (n "colour") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0ai8yi3cz2vik3iq9mqvrygpghwi0g60q9cwfx43wx4a736hnliy")))
+
+(define-public crate-dotm-0.1.2 (c (n "dotm") (v "0.1.2") (d (list (d (n "colour") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1bg334qshvqq9j25j6b4vrv50al2i97mhdclyr8y24s0h9zz2fyf")))
+
+(define-public crate-dotm-0.1.3 (c (n "dotm") (v "0.1.3") (d (list (d (n "colour") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0jd010daw2dm7nfrwk2mwgv355k6qr4svck3nfhvvlf938jjwsw6")))
+
+(define-public crate-dotm-0.1.4 (c (n "dotm") (v "0.1.4") (d (list (d (n "colour") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0nq4169kynmwikid3vf2r96pbbim6f5ad7xsy6z5xanlv7chv334")))
+
+(define-public crate-dotm-0.1.5 (c (n "dotm") (v "0.1.5") (d (list (d (n "colour") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.123") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0knzh05v1h5fgncqlg32jp4vshajp2ijh3aw55xmym8nnpmdx3jj")))
+

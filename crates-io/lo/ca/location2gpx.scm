@@ -1,0 +1,4 @@
+(define-module (crates-io lo ca location2gpx) #:use-module (crates-io))
+
+(define-public crate-location2gpx-0.1.0 (c (n "location2gpx") (v "0.1.0") (d (list (d (n "argopt") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "bson") (r "^2.5.0") (f (quote ("time-0_3"))) (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.2.1") (o #t) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "geo") (r "^0.24") (d #t) (k 0)) (d (n "gpx") (r "^0.8.6") (d #t) (k 0)) (d (n "mongodb") (r "^2.3.1") (f (quote ("tokio-sync"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)) (d (n "time") (r "^0.3.19") (f (quote ("macros"))) (d #t) (k 0)))) (h "0vhzaa6vxmx52a4zyhx6f3awm288igllk00vhjyw8khw3gh33jkj") (f (quote (("default" "cli" "mongo" "csv")))) (s 2) (e (quote (("mongo" "dep:mongodb" "dep:bson") ("csv" "dep:csv") ("cli" "dep:argopt" "dep:dirs"))))))
+

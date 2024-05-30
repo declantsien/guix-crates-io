@@ -1,0 +1,4 @@
+(define-module (crates-io sp vn spvn_lifespan) #:use-module (crates-io))
+
+(define-public crate-spvn_lifespan-0.1.0 (c (n "spvn_lifespan") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pyo3") (r "^0.18.3") (f (quote ("auto-initialize" "extension-module" "extension-module"))) (d #t) (k 0)) (d (n "pyo3-asyncio") (r "^0.18") (f (quote ("attributes" "tokio-runtime" "attributes" "tokio-runtime"))) (d #t) (k 0)) (d (n "pythonize") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("sync" "sync"))) (d #t) (k 0)))) (h "1lsb44c5vxdc78glwjlls5ssqrw36351gkifmp0cf5kfdc0mplnf") (y #t) (r "1.69.0")))
+

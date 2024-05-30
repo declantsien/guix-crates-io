@@ -1,0 +1,10 @@
+(define-module (crates-io sw it switch-resume) #:use-module (crates-io))
+
+(define-public crate-switch-resume-0.1.0 (c (n "switch-resume") (v "0.1.0") (d (list (d (n "async-channel") (r "^1.9.0") (d #t) (k 0)) (d (n "async-executor") (r "^1.5.1") (d #t) (k 0)) (d (n "async-oneshot") (r "^0.5.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1lg4pkblh0p457xk17jwlmy9mgdsll45q15zrvymln1ppbdjm8dh")))
+
+(define-public crate-switch-resume-0.1.1 (c (n "switch-resume") (v "0.1.1") (d (list (d (n "async-channel") (r "^1.9.0") (d #t) (k 0)) (d (n "async-executor") (r "^1.5.1") (d #t) (k 0)) (d (n "async-oneshot") (r "^0.5.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0n71skdyvb6rli44y4bnsyn3mbjknx3gcm21vyyfg9plmx49yc0v")))
+
+(define-public crate-switch-resume-0.1.2 (c (n "switch-resume") (v "0.1.2") (d (list (d (n "async-channel") (r "^1.9.0") (d #t) (k 0)) (d (n "async-executor") (r "^1.5.1") (d #t) (k 0)) (d (n "async-oneshot") (r "^0.5.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0r2s0f2i60qmqmfq4290dlcqym9zipm9a70z9yiqclvwc2lsfbgy")))
+
+(define-public crate-switch-resume-0.1.3 (c (n "switch-resume") (v "0.1.3") (d (list (d (n "async-channel") (r "^1.9.0") (d #t) (k 0)) (d (n "async-executor") (r "^1.5.1") (d #t) (k 0)) (d (n "async-oneshot") (r "^0.5.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "14nbry55cjm66im30jxzrwzj61scddaf9ai2lkvb4631wa4jrf6w")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sy n- syn-pub-items) #:use-module (crates-io))
+
+(define-public crate-syn-pub-items-0.15.30 (c (n "syn-pub-items") (v "0.15.30") (d (list (d (n "colored") (r "^1.7") (d #t) (k 2)) (d (n "insta") (r "^0.7") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4.4") (k 0)) (d (n "quote") (r "^0.6") (o #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 2)) (d (n "regex") (r "^1.0") (d #t) (k 2)) (d (n "unicode-xid") (r "^0.1") (d #t) (k 0)) (d (n "walkdir") (r "^2.1") (d #t) (k 2)))) (h "0x89lrmzmngsmi0yjfpvc99idm1y51anb6n2f2i9g7dyv7j587bn") (f (quote (("visit-mut") ("visit") ("proc-macro" "proc-macro2/proc-macro" "quote/proc-macro") ("printing" "quote") ("parsing") ("full") ("fold") ("extra-traits") ("derive") ("default" "derive" "parsing" "printing" "clone-impls" "proc-macro") ("clone-impls"))))))
+

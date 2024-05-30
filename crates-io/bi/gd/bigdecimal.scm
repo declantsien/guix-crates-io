@@ -1,0 +1,40 @@
+(define-module (crates-io bi gd bigdecimal) #:use-module (crates-io))
+
+(define-public crate-bigdecimal-0.0.1 (c (n "bigdecimal") (v "0.0.1") (d (list (d (n "num") (r "^0.1.35") (f (quote ("bigint"))) (k 0)) (d (n "num-traits") (r "^0.1.35") (d #t) (k 0)) (d (n "rand") (r "^0.3.8") (d #t) (k 2)))) (h "15jib426j9jz8xxhwbhnpkklgzzbmcvbdlj3dykw7s2ppwhcmddd")))
+
+(define-public crate-bigdecimal-0.0.7 (c (n "bigdecimal") (v "0.0.7") (d (list (d (n "num") (r "^0.1.37") (f (quote ("bigint"))) (k 0)) (d (n "num-traits") (r "^0.1.37") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)))) (h "1l04smnsdiy468lvxvixz75yrabnrj8fpbzwk5blgk5928xd8j38")))
+
+(define-public crate-bigdecimal-0.0.10 (c (n "bigdecimal") (v "0.0.10") (d (list (d (n "num") (r "^0.1.37") (f (quote ("bigint"))) (k 0)) (d (n "num-traits") (r "^0.1.37") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1n65ypb1diqgpb7aphrihjik3wl83ql25yvpxrbjzz5ssl05gqmv")))
+
+(define-public crate-bigdecimal-0.0.11 (c (n "bigdecimal") (v "0.0.11") (d (list (d (n "num") (r "^0.1.42") (f (quote ("bigint"))) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0v13x8w0qnhvdzndfand9f58v4zpn8fdwnlirfmhmbraxl52pqfi")))
+
+(define-public crate-bigdecimal-0.0.12 (c (n "bigdecimal") (v "0.0.12") (d (list (d (n "num") (r "^0.1.42") (f (quote ("bigint"))) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "17rn831mz6pl50f4wdsvy40nrwvz83173y3fw5sw4z9857sh8dx3")))
+
+(define-public crate-bigdecimal-0.0.13 (c (n "bigdecimal") (v "0.0.13") (d (list (d (n "num-bigint") (r "^0.2.0") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.39") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1lp0hxx907nipxzxahxdcs0xv60ii11mmr39ivzr7q5rrshzryrl")))
+
+(define-public crate-bigdecimal-0.0.14 (c (n "bigdecimal") (v "0.0.14") (d (list (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.39") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0mi07krpp3vzwcg3xlqysb7chshyycmhra5fg0rwdpsgffk237k7")))
+
+(define-public crate-bigdecimal-0.0.15 (c (n "bigdecimal") (v "0.0.15") (d (list (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.39") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1d64wanhlby27lsqg94smvfj9qqprb6ba6wlmjhd8clrqm9jjggp")))
+
+(define-public crate-bigdecimal-0.1.0 (c (n "bigdecimal") (v "0.1.0") (d (list (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.39") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1jxsa7gd70aacbgf0pf8rbfarrb0ap6mfw60cx6h420pwb4ja226")))
+
+(define-public crate-bigdecimal-0.1.2 (c (n "bigdecimal") (v "0.1.2") (d (list (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0i32g88sin9dzr4jn41wgg3pyx2xxm0m1a9s5vh9lpyj5lg1jx0k") (f (quote (("string-only"))))))
+
+(define-public crate-bigdecimal-0.2.0 (c (n "bigdecimal") (v "0.2.0") (d (list (d (n "num-bigint") (r "^0.3") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0fd5chyy76y4qb043w1bbgz1v22f9hw5703f5r90ac5hwqk3qh6c") (f (quote (("string-only"))))))
+
+(define-public crate-bigdecimal-0.2.1 (c (n "bigdecimal") (v "0.2.1") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0pqajrga3a4dw39kzmicn4m7c1kvjwcxq54qjmznck2ni8zic81a") (f (quote (("string-only")))) (y #t)))
+
+(define-public crate-bigdecimal-0.2.2 (c (n "bigdecimal") (v "0.2.2") (d (list (d (n "num-bigint") (r "^0.3") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0mkja6m149apsnbw5narzcxmb9b4ish58gn4qvvys03jwdi0brfi") (f (quote (("string-only"))))))
+
+(define-public crate-bigdecimal-0.3.0 (c (n "bigdecimal") (v "0.3.0") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0i1px8hk4l71n307c7h7igrdy37pzpm7dcni269gwab438ak7bva") (f (quote (("string-only"))))))
+
+(define-public crate-bigdecimal-0.3.1 (c (n "bigdecimal") (v "0.3.1") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1ypfsldr1ng80n3ax1h699kqw3s5gzzqvr30zc4ybh5g1vf3sxx6") (f (quote (("string-only"))))))
+
+(define-public crate-bigdecimal-0.4.0 (c (n "bigdecimal") (v "0.4.0") (d (list (d (n "libm") (r "^0.2.6") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (k 0)) (d (n "num-integer") (r "^0.1") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^0.3.10") (k 2)))) (h "07jqi2cbj3457xhp7m66zfzvfqq1wdrvjibj754020pfw2vacx2j") (f (quote (("string-only") ("std" "num-bigint/std" "num-integer/std" "num-traits/std") ("default" "std"))))))
+
+(define-public crate-bigdecimal-0.4.1 (c (n "bigdecimal") (v "0.4.1") (d (list (d (n "autocfg") (r "^1") (d #t) (k 1)) (d (n "libm") (r "^0.2.6") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (k 0)) (d (n "num-integer") (r "^0.1") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_json") (r "<1.0.101") (d #t) (k 2)) (d (n "siphasher") (r "^0.3.10") (k 2)))) (h "1jwlan62x9w874fxdjnldl70xnxfj38mw83gas5vh5q6n4ywljs5") (f (quote (("string-only") ("std" "num-bigint/std" "num-integer/std" "num-traits/std") ("default" "std"))))))
+
+(define-public crate-bigdecimal-0.4.2 (c (n "bigdecimal") (v "0.4.2") (d (list (d (n "autocfg") (r "^1") (d #t) (k 1)) (d (n "libm") (r "^0.2.6") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (k 0)) (d (n "num-integer") (r "^0.1") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_json") (r "<1.0.101") (d #t) (k 2)) (d (n "siphasher") (r "^0.3.10") (k 2)))) (h "1jcbzgna6292vgq0slw5iah929wl0xbps22zr63bp99y8az1jrn0") (f (quote (("string-only") ("std" "num-bigint/std" "num-integer/std" "num-traits/std") ("default" "std"))))))
+
+(define-public crate-bigdecimal-0.4.3 (c (n "bigdecimal") (v "0.4.3") (d (list (d (n "autocfg") (r "^1") (d #t) (k 1)) (d (n "libm") (r "^0.2.6") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (k 0)) (d (n "num-integer") (r "^0.1") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "<1.0.176") (d #t) (k 2)) (d (n "siphasher") (r "^0.3.10") (k 2)))) (h "1g4y9q7fy5hh6d9wabbv1x6ngw1qim2fkw9l5dl90ifh9h0wh94k") (f (quote (("string-only") ("std" "num-bigint/std" "num-integer/std" "num-traits/std") ("default" "std"))))))
+

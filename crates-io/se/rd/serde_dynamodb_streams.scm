@@ -1,0 +1,6 @@
+(define-module (crates-io se rd serde_dynamodb_streams) #:use-module (crates-io))
+
+(define-public crate-serde_dynamodb_streams-0.7.0 (c (n "serde_dynamodb_streams") (v "0.7.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.46.0") (d #t) (k 2)) (d (n "rusoto_dynamodb") (r "^0.46.0") (d #t) (k 2)) (d (n "rusoto_dynamodbstreams") (r "^0.46.0") (o #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "1gc1k7mxfaccpg4y77a76g2bnra482drc32v5ws11lcdq1qibk7p") (f (quote (("rustls" "rusoto_dynamodbstreams" "rusoto_dynamodbstreams/rustls") ("default" "rusoto_dynamodbstreams" "rusoto_dynamodbstreams/default"))))))
+
+(define-public crate-serde_dynamodb_streams-0.7.1 (c (n "serde_dynamodb_streams") (v "0.7.1") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.46.0") (d #t) (k 2)) (d (n "rusoto_dynamodb") (r "^0.46.0") (d #t) (k 2)) (d (n "rusoto_dynamodbstreams") (r "^0.46.0") (o #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "03lsrc00rn76a2hh08wgwnzjx452235jvd9ssy1z6qhdkvxpvy1d") (f (quote (("rustls" "rusoto_dynamodbstreams" "rusoto_dynamodbstreams/rustls") ("default" "rusoto_dynamodbstreams" "rusoto_dynamodbstreams/default"))))))
+

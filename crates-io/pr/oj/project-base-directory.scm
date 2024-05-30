@@ -1,0 +1,10 @@
+(define-module (crates-io pr oj project-base-directory) #:use-module (crates-io))
+
+(define-public crate-project-base-directory-0.1.0 (c (n "project-base-directory") (v "0.1.0") (d (list (d (n "gix") (r "^0.54.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "08sw8dvw2zj94fjgb483f82crzndfgw3mlkyrf92slanfvbi0lx3") (f (quote (("default" "git")))) (s 2) (e (quote (("git" "dep:gix"))))))
+
+(define-public crate-project-base-directory-0.2.0 (c (n "project-base-directory") (v "0.2.0") (d (list (d (n "gix") (r "^0.54.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "11h2fjpsb33izirp1xa269cz45c4c2skwsqpi2gkvi4ji1awqy0x") (f (quote (("default" "git")))) (s 2) (e (quote (("git" "dep:gix"))))))
+
+(define-public crate-project-base-directory-0.3.0 (c (n "project-base-directory") (v "0.3.0") (d (list (d (n "gix") (r "^0.54.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "12zx93hr20y2brkkdbcmy3s9a62d09nx4nag6jjp0jhkv2s07b2c") (f (quote (("default" "git")))) (s 2) (e (quote (("git" "dep:gix"))))))
+
+(define-public crate-project-base-directory-0.3.1 (c (n "project-base-directory") (v "0.3.1") (d (list (d (n "gix") (r "^0.62") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "12ygkbcgccrb3pyp7dxw9bkcd1css20hng02d0vxpv47s76a2rsk") (f (quote (("default" "git")))) (s 2) (e (quote (("git" "dep:gix"))))))
+

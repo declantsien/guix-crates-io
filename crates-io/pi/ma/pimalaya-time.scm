@@ -1,0 +1,8 @@
+(define-module (crates-io pi ma pimalaya-time) #:use-module (crates-io))
+
+(define-public crate-pimalaya-time-0.0.1 (c (n "pimalaya-time") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1b1yklzzj6539vgf5prs0j6mpwwzcnyb6lcncd5gv9vrpwyrm4vm") (f (quote (("tcp-client" "client") ("tcp-binder" "server") ("tcp" "tcp-binder" "tcp-client") ("server") ("default" "server" "client" "tcp") ("client"))))))
+
+(define-public crate-pimalaya-time-0.0.2 (c (n "pimalaya-time") (v "0.0.2") (d (list (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mock_instant") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1vxvk8463pwmfnqqw64yz6mibgj5871b642ac1m69mflw6llaizl") (f (quote (("tcp-client" "client") ("tcp-binder" "server") ("tcp" "tcp-binder" "tcp-client") ("server") ("default" "server" "client" "tcp") ("client"))))))
+
+(define-public crate-pimalaya-time-0.1.0 (c (n "pimalaya-time") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mock_instant") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1am9s8vsm90s9m1wn9jr2v82zl5cilx30i1mc8pa8ki7lpjl58fh") (f (quote (("tcp-client" "client") ("tcp-binder" "server") ("tcp" "tcp-binder" "tcp-client") ("server") ("default" "server" "client" "tcp") ("client"))))))
+

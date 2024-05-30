@@ -1,0 +1,10 @@
+(define-module (crates-io ws ch wschat) #:use-module (crates-io))
+
+(define-public crate-wschat-0.1.0 (c (n "wschat") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "0lnva2rdp6hwkb7zn1dpklng7a51qcfkplzyvrpiji4jci2s4wmi")))
+
+(define-public crate-wschat-0.1.2 (c (n "wschat") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "1vfnvfgyhx7pdrcsr1jdypgvfdmadd8v3096z4gwnl8xvjn4w2y3")))
+
+(define-public crate-wschat-0.2.0 (c (n "wschat") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "0mv9sy48x0k6vwsg084izs6nc062bazn22vqlidlja8w51533ia5")))
+
+(define-public crate-wschat-0.2.1 (c (n "wschat") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "04ia1d8c7rkfiq6g1ps3y0qpy40806whkl6zsdp4mr6nid71gp71")))
+

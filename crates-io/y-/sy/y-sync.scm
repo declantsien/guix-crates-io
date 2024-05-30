@@ -1,0 +1,12 @@
+(define-module (crates-io y- sy y-sync) #:use-module (crates-io))
+
+(define-public crate-y-sync-0.1.0 (c (n "y-sync") (v "0.1.0") (d (list (d (n "lib0") (r "^0.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "yrs") (r "^0.13") (d #t) (k 0)))) (h "1zhpwdlb3jgvzvfhkwn7kwmlbkz02h196q5dkx5z6nw44h1rsfkj")))
+
+(define-public crate-y-sync-0.2.0 (c (n "y-sync") (v "0.2.0") (d (list (d (n "lib0") (r ">=0.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "yrs") (r ">=0.16") (d #t) (k 0)))) (h "0wshakqpw76a54fa3fhm2rkbvw9d6rsxv44vvix39zk6q7imxc2p")))
+
+(define-public crate-y-sync-0.3.0 (c (n "y-sync") (v "0.3.0") (d (list (d (n "bytes") (r "^1.4") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "lib0") (r ">=0.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "sync"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 2)) (d (n "yrs") (r ">=0.16") (d #t) (k 0)))) (h "0hb695zjvjrq0yh3389x782hgwfh52913lvsk2y87pjdzqx18yp7") (s 2) (e (quote (("net" "dep:tokio" "dep:futures-util"))))))
+
+(define-public crate-y-sync-0.3.1 (c (n "y-sync") (v "0.3.1") (d (list (d (n "bytes") (r "^1.4") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "lib0") (r ">=0.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "sync"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 2)) (d (n "yrs") (r ">=0.16") (d #t) (k 0)))) (h "00fqca8gmx5cilrs211q1fr73ib7m0djp343b434llf4isv38kgm") (s 2) (e (quote (("net" "dep:tokio" "dep:futures-util"))))))
+
+(define-public crate-y-sync-0.4.0 (c (n "y-sync") (v "0.4.0") (d (list (d (n "bytes") (r "^1.4") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "sync"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 2)) (d (n "yrs") (r "^0.17") (d #t) (k 0)))) (h "0fwxjs740qcs9arfkv6x6dvzqz883npc5rg7f4d8ipkw95d6gqsj") (s 2) (e (quote (("net" "dep:tokio" "dep:futures-util"))))))
+

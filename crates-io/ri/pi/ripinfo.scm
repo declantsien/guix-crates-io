@@ -1,0 +1,6 @@
+(define-module (crates-io ri pi ripinfo) #:use-module (crates-io))
+
+(define-public crate-ripinfo-0.1.0 (c (n "ripinfo") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "colored_json") (r "^3.0.1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0jl0n7y94shg3aw8dwjh91l1yl9fcz5sji3r5dq8nrkc7v1c6zz2")))
+
+(define-public crate-ripinfo-0.1.1 (c (n "ripinfo") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "colored_json") (r "^3.0.1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "09s3w6yqyv8sig70l98g3fn9xpfb7md6x0kyqsmqwgij83hijxk3")))
+

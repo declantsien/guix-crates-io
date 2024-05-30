@@ -1,0 +1,8 @@
+(define-module (crates-io jf fs jffs2) #:use-module (crates-io))
+
+(define-public crate-jffs2-0.1.0 (c (n "jffs2") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "byteorder-pack") (r "^0.1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "lexiclean") (r "^0.0.1") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "target_build_utils") (r "^0.3.1") (d #t) (k 1)))) (h "0jnr9zwb8yw5krjrbi9hm05jf916wgyd9kr5ga2fa81rcc4acr94")))
+
+(define-public crate-jffs2-0.2.0 (c (n "jffs2") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.68") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "byteorder-pack") (r "^0.1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "lexiclean") (r "^0.0.1") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "target_build_utils") (r "^0.3.1") (d #t) (k 1)))) (h "0g233mi30ql1s6kbq6d5rpwbxj88p112xmv6qwfirmv6dy2x3mvr")))
+
+(define-public crate-jffs2-0.2.1 (c (n "jffs2") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.68") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "byteorder-pack") (r "^0.1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "lexiclean") (r "^0.0.1") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "target_build_utils") (r "^0.3.1") (d #t) (k 1)))) (h "0gb66xg253v3407705wjyx93781ns9d6cg6pql1jjg3lpkvg5rq2")))
+

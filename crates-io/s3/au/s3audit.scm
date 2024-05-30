@@ -1,0 +1,4 @@
+(define-module (crates-io s3 au s3audit) #:use-module (crates-io))
+
+(define-public crate-s3audit-1.0.0 (c (n "s3audit") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.47.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_mock") (r "^0.47.0") (f (quote ("rustls"))) (k 2)) (d (n "rusoto_s3") (r "^0.47.0") (f (quote ("rustls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (d #t) (k 0)))) (h "0bq6h4bsq8r1yki9dfrh9szdhal831fc28v8mf15545bjjbn3djl")))
+

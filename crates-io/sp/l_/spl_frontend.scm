@@ -1,0 +1,6 @@
+(define-module (crates-io sp l_ spl_frontend) #:use-module (crates-io))
+
+(define-public crate-spl_frontend-0.1.0 (c (n "spl_frontend") (v "0.1.0") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom_locate") (r "^4.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "spl_frontend_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)))) (h "03a3l6mzfyf6x6nh7bk6xydvdchxm08n57a7wpn5ypbp3q3xhlyw")))
+
+(define-public crate-spl_frontend-0.1.1 (c (n "spl_frontend") (v "0.1.1") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom_locate") (r "^4.2.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "spl_frontend_macros") (r "^0.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1jl76473lhk9384kjllqc3zllgjf8v7pp5mzcl4f8rsmydyf8p1g")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io fr ap frapp) #:use-module (crates-io))
+
+(define-public crate-frapp-0.1.0 (c (n "frapp") (v "0.1.0") (d (list (d (n "assets_manager") (r "^0.11") (f (quote ("png" "hot-reloading" "embedded"))) (d #t) (k 0)) (d (n "frenderer") (r "^0.9.12") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.12") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "winit") (r "^0.29") (d #t) (k 0)))) (h "1vq7hhl2ycw1l0018shbh962si0hfbd3wpvbfj1750a4vdvhjp7l") (f (quote (("webgl" "frenderer/webgl") ("default"))))))
+
+(define-public crate-frapp-0.1.1 (c (n "frapp") (v "0.1.1") (d (list (d (n "assets_manager") (r "^0.11") (f (quote ("png" "hot-reloading" "embedded"))) (d #t) (k 0)) (d (n "frenderer") (r "^0.9.12") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.12") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "winit") (r "^0.29") (d #t) (k 0)))) (h "07an0np8aijkrmxc8vg5iiy9zakgh3nm0bkyhrmcdyn78ix8gc72") (f (quote (("webgl" "frenderer/webgl") ("default"))))))
+
+(define-public crate-frapp-0.1.2 (c (n "frapp") (v "0.1.2") (d (list (d (n "assets_manager") (r "^0.11") (f (quote ("png" "hot-reloading" "embedded"))) (d #t) (k 0)) (d (n "frenderer") (r "^0.9.13") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.12") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "winit") (r "^0.29") (d #t) (k 0)))) (h "0g2qn6pq008ljjc6k5sc0nybc5psa0p0jr5dr54gy5j3vb3nw24f") (f (quote (("webgl" "frenderer/webgl") ("default"))))))
+
+(define-public crate-frapp-0.1.3 (c (n "frapp") (v "0.1.3") (d (list (d (n "assets_manager") (r "^0.11") (f (quote ("png" "hot-reloading" "embedded"))) (d #t) (k 0)) (d (n "frenderer") (r "^0.9.14") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.12") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "winit") (r "^0.29") (d #t) (k 0)))) (h "0s0mg1ha7f4h6kyh4aq795x1xh172d0sbkq3ap60pjb187bn4h6k") (f (quote (("webgl" "frenderer/webgl") ("default"))))))
+
+(define-public crate-frapp-0.1.4 (c (n "frapp") (v "0.1.4") (d (list (d (n "assets_manager") (r "^0.11") (f (quote ("png" "hot-reloading" "embedded"))) (d #t) (k 0)) (d (n "frenderer") (r "^0.10.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.12") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "winit") (r "^0.29") (d #t) (k 0)))) (h "1xs3gcrixx4gm9x31myc5wn6w24mw007bvdkgwp53zmyi605n1b1") (f (quote (("webgl" "frenderer/webgl") ("default"))))))
+

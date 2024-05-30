@@ -1,0 +1,4 @@
+(define-module (crates-io li bp libp2p-autorelay) #:use-module (crates-io))
+
+(define-public crate-libp2p-autorelay-0.1.0-alpha.0 (c (n "libp2p-autorelay") (v "0.1.0-alpha.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libp2p") (r "^0.50") (f (quote ("relay"))) (d #t) (k 0)) (d (n "libp2p") (r "^0.50") (f (quote ("full"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "void") (r "^1.0") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "0l2whwmyifjdhixhakq5yzxpjcl56lbdzvzbnxa65k9335jcmw29")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ea _a ea_appointment_reminders) #:use-module (crates-io))
+
+(define-public crate-ea_appointment_reminders-1.0.0 (c (n "ea_appointment_reminders") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "lettre") (r "^0.11.6") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "1fx220sklf5xanix2ss9lm82najgfiq5vanndjfd4aa18za0clfy")))
+

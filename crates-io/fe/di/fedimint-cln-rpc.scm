@@ -1,0 +1,4 @@
+(define-module (crates-io fe di fedimint-cln-rpc) #:use-module (crates-io))
+
+(define-public crate-fedimint-cln-rpc-0.4.0 (c (n "fedimint-cln-rpc") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.29") (f (quote ("serde"))) (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 0)))) (h "0645zfjjv931xayzabaln7g1zmpx1rrqw3z1mb7fq8qn2k5ar0cn")))
+

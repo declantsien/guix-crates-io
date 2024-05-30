@@ -1,0 +1,6 @@
+(define-module (crates-io pr of profl-cli) #:use-module (crates-io))
+
+(define-public crate-profl-cli-0.1.0 (c (n "profl-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "argh") (r "^0.1.6") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "plotters") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smallstr") (r "^0.2.0") (f (quote ("serde" "union"))) (d #t) (k 0)))) (h "0bg7mg2qm08cdyb7zz3k64qb2yqi0zc0izqlk93wvi6cchk5phzf")))
+
+(define-public crate-profl-cli-0.1.1 (c (n "profl-cli") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "argh") (r "^0.1.6") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "plotters") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smallstr") (r "^0.2.0") (f (quote ("serde" "union"))) (d #t) (k 0)))) (h "02lx3v4mxdlvkr0gayjnn9nznm681c4hspcijyrbc2f0g7f197nk")))
+

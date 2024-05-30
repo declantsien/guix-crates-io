@@ -1,0 +1,10 @@
+(define-module (crates-io sm as smash-bgm-property) #:use-module (crates-io))
+
+(define-public crate-smash-bgm-property-1.0.0 (c (n "smash-bgm-property") (v "1.0.0") (d (list (d (n "binread") (r "^1.4.0") (d #t) (k 0)) (d (n "binwrite") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)))) (h "0bjzbaw4559nn0mfrmb1nx23dbdgkx1h2jv6awyhcvq74qmrqqqz") (f (quote (("derive_serde" "serde" "lazy_static") ("cli" "structopt" "derive_serde" "serde_yaml"))))))
+
+(define-public crate-smash-bgm-property-1.0.1 (c (n "smash-bgm-property") (v "1.0.1") (d (list (d (n "binread") (r "^1.4.0") (d #t) (k 0)) (d (n "binwrite") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)))) (h "1hqinklc71jd1p082jf5n6g3dcdmnl7cy6h0ac0la3x5cfpzknhp") (f (quote (("derive_serde" "serde" "lazy_static") ("cli" "structopt" "derive_serde" "serde_yaml"))))))
+
+(define-public crate-smash-bgm-property-1.1.0 (c (n "smash-bgm-property") (v "1.1.0") (d (list (d (n "binread") (r "^1.4.0") (d #t) (k 0)) (d (n "binwrite") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)))) (h "1gx11rp8d329hkfpjj10m7nd9vbwl3wskrn4w47a6dhg4mr0sn52") (f (quote (("derive_serde" "serde" "lazy_static") ("cli" "structopt" "derive_serde" "serde_yaml"))))))
+
+(define-public crate-smash-bgm-property-1.2.0 (c (n "smash-bgm-property") (v "1.2.0") (d (list (d (n "binrw") (r "^0.11") (d #t) (k 0)) (d (n "hash40") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "15wnxg1idmc100f3856p52228svpm3ddm2higqx9vw0ryk7qz7bi") (s 2) (e (quote (("serde" "dep:serde"))))))
+

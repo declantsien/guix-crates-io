@@ -1,0 +1,4 @@
+(define-module (crates-io de du deduposaur) #:use-module (crates-io))
+
+(define-public crate-deduposaur-0.1.0 (c (n "deduposaur") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^1") (d #t) (k 2)) (d (n "assert_that") (r "^0.1.2") (d #t) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "filetime") (r "^0.2.14") (d #t) (k 0)) (d (n "filetime") (r "^0.2.14") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_with") (r "^1") (f (quote ("hex"))) (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)) (d (n "temp-file") (r "^0.1.6") (d #t) (k 2)))) (h "1b3zjza05x1dvkfm5q2fgcxr4dya2qnahlnvnk8li1sfxx7xw9rc")))
+

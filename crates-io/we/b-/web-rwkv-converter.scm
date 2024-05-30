@@ -1,0 +1,6 @@
+(define-module (crates-io we b- web-rwkv-converter) #:use-module (crates-io))
+
+(define-public crate-web-rwkv-converter-0.1.1 (c (n "web-rwkv-converter") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13") (f (quote ("extern_crate_alloc"))) (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 2)) (d (n "half") (r "^2.2") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "memmap2") (r "^0.9") (d #t) (k 2)) (d (n "repugnant-pickle") (r "^0.0.1") (f (quote ("torch"))) (d #t) (k 0)) (d (n "safetensors") (r "^0.4.1") (d #t) (k 0)))) (h "1a1rrzv7j9aynkwgz496l4d1va4knmrk4jvdiinxj93cy4sra33c")))
+
+(define-public crate-web-rwkv-converter-0.1.2 (c (n "web-rwkv-converter") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13") (f (quote ("extern_crate_alloc"))) (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 2)) (d (n "half") (r "^2.2") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "memmap2") (r "^0.9") (d #t) (k 2)) (d (n "repugnant-pickle") (r "^0.0.1") (f (quote ("torch"))) (d #t) (k 0)) (d (n "safetensors") (r "^0.4.1") (d #t) (k 0)))) (h "0gb35f4a1z3i9jhzwjzbfdy47ixcnwsvlnbc2jh1q2apm8zsqark")))
+

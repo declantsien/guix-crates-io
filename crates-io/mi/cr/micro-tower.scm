@@ -1,0 +1,4 @@
+(define-module (crates-io mi cr micro-tower) #:use-module (crates-io))
+
+(define-public crate-micro-tower-0.1.0 (c (n "micro-tower") (v "0.1.0") (d (list (d (n "bytes") (r "~1.2.1") (d #t) (k 0)) (d (n "derive_builder") (r "~0.11.2") (d #t) (k 0)) (d (n "futures") (r "~0.3.24") (d #t) (k 0)) (d (n "micro-tower-codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "~1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.85") (d #t) (k 0)) (d (n "thiserror") (r "~1.0.34") (d #t) (k 0)) (d (n "tokio") (r "~1.21.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "~0.7.4") (d #t) (k 0)) (d (n "tower") (r "~0.4.13") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "~0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "~0.3.15") (d #t) (k 2)))) (h "112kgjzk9ckdis2g2c4hhxd2aqxqizgda0zbn8cn0g4h2g3gb60r")))
+

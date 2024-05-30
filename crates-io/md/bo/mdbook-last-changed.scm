@@ -1,0 +1,12 @@
+(define-module (crates-io md bo mdbook-last-changed) #:use-module (crates-io))
+
+(define-public crate-mdbook-last-changed-0.1.0 (c (n "mdbook-last-changed") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.18") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "xshell") (r "^0.2.2") (d #t) (k 0)))) (h "0nqnlh2mc0vhcs8mfnq4mzdl31gynrfnnia16h8npzlv5a81m6an")))
+
+(define-public crate-mdbook-last-changed-0.1.1 (c (n "mdbook-last-changed") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.18") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "xshell") (r "^0.2.2") (d #t) (k 0)))) (h "1jysrhxzw6qlfm5r6ad2vjj1nn1khq5nchbll1m602xls950gd40")))
+
+(define-public crate-mdbook-last-changed-0.1.2 (c (n "mdbook-last-changed") (v "0.1.2") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "xshell") (r "^0.2.2") (d #t) (k 0)))) (h "0cjrgjdrr18iql7qx8wfhdj1q30w7s8g78pnb7hwnk4r6rlr55pm")))
+
+(define-public crate-mdbook-last-changed-0.1.3 (c (n "mdbook-last-changed") (v "0.1.3") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "xshell") (r "^0.2.2") (d #t) (k 0)))) (h "1zqydr4c0c818hyakg225b2rzbnvi1kngadnvnx23400alccgs99")))
+
+(define-public crate-mdbook-last-changed-0.1.4 (c (n "mdbook-last-changed") (v "0.1.4") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.33") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)) (d (n "xshell") (r "^0.2.2") (d #t) (k 0)))) (h "1ym2mm6g83pzv66zrsvd5c7sv9ydrylralsjw4k9kg1zrpd8anwk")))
+

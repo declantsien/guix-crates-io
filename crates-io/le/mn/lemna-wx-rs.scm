@@ -1,0 +1,8 @@
+(define-module (crates-io le mn lemna-wx-rs) #:use-module (crates-io))
+
+(define-public crate-lemna-wx-rs-0.2.0 (c (n "lemna-wx-rs") (v "0.2.0") (d (list (d (n "lemna") (r "^0.2") (d #t) (k 0)) (d (n "lemna-macros") (r "^0.2") (d #t) (k 2)) (d (n "lyon") (r "^0.15.6") (d #t) (k 2)) (d (n "raw-window-handle") (r "^0.5") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 2)) (d (n "ttf-noto-sans") (r "^0.1") (d #t) (k 2)) (d (n "wx-rs") (r "^0.2") (d #t) (k 0)))) (h "15g2xfwxgcmlx6mszja06cvb9s729l8rfaf9ymq13jq6lkphkwql") (f (quote (("instrumented" "lemna/instrumented"))))))
+
+(define-public crate-lemna-wx-rs-0.3.0 (c (n "lemna-wx-rs") (v "0.3.0") (d (list (d (n "lemna") (r "^0.3") (d #t) (k 0)) (d (n "lemna-macros") (r "^0.3") (d #t) (k 2)) (d (n "lyon") (r "^0.15.6") (d #t) (k 2)) (d (n "raw-window-handle") (r "^0.5") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 2)) (d (n "ttf-noto-sans") (r "^0.1") (d #t) (k 2)) (d (n "wx-rs") (r "^0.2") (d #t) (k 0)))) (h "1zvwbpccndfvdg33cvc6g94frr62f9h69xj6jgrrwjcn3hhmizy5") (f (quote (("instrumented" "lemna/instrumented"))))))
+
+(define-public crate-lemna-wx-rs-0.4.0 (c (n "lemna-wx-rs") (v "0.4.0") (d (list (d (n "lemna") (r "^0.4") (d #t) (k 0)) (d (n "lemna-macros") (r "^0.4") (d #t) (k 2)) (d (n "lyon") (r "^0.15.6") (d #t) (k 2)) (d (n "raw-window-handle") (r "^0.5") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 2)) (d (n "ttf-noto-sans") (r "^0.1") (d #t) (k 2)) (d (n "wx-rs") (r "^0.2") (d #t) (k 0)))) (h "1r3n5zlkycah9zqpvaxp8sadlfdz0223bwxwfk65i5phzpnpfbn1") (f (quote (("instrumented" "lemna/instrumented"))))))
+

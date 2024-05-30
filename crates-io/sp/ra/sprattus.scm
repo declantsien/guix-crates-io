@@ -1,0 +1,4 @@
+(define-module (crates-io sp ra sprattus) #:use-module (crates-io))
+
+(define-public crate-sprattus-0.0.1 (c (n "sprattus") (v "0.0.1") (d (list (d (n "futures-util-preview") (r "^0.3.0-alpha.19") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "sprattus-derive") (r "^0.0.1") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2.0-alpha.6") (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.5.0-alpha.1") (f (quote ("default"))) (d #t) (k 0)))) (h "0iwzs5jhhc7z0ifp50crp6d1kss8q00hj7w3ac1b7rwmsragx3ks") (f (quote (("with-uuid-0_7" "tokio-postgres/with-uuid-0_7") ("with-serde_json-1" "tokio-postgres/with-serde_json-1") ("with-geo-types-0_4" "tokio-postgres/with-geo-types-0_4") ("with-eui48-0_4" "tokio-postgres/with-eui48-0_4") ("with-chrono-0_4" "tokio-postgres/with-chrono-0_4") ("with-bit-vec-0_6" "tokio-postgres/with-bit-vec-0_6"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ax um axum_sqlx_session_auth) #:use-module (crates-io))
+
+(define-public crate-axum_sqlx_session_auth-0.1.0 (c (n "axum_sqlx_session_auth") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-recursion") (r "^0.3") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "axum") (r "^0.3") (d #t) (k 0)) (d (n "axum_sqlx_sessions") (r "^0.1") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-tokio-rustls" "postgres" "chrono" "json" "all-types"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1m1a53r5q9fkprcmif6xzmixla15ylqlxjmbhwracjlagxi9hn2i") (y #t)))
+
+(define-public crate-axum_sqlx_session_auth-0.1.1 (c (n "axum_sqlx_session_auth") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-recursion") (r "^0.3") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "axum") (r "^0.4") (d #t) (k 0)) (d (n "axum_sqlx_sessions") (r "^0.1") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-tokio-rustls" "postgres" "chrono" "json" "all-types"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1f8j49cda3s8lr29fmfybc53ij2qkqfv3hnfh47zild9wd70fm3h") (y #t)))
+

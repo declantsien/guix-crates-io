@@ -1,0 +1,8 @@
+(define-module (crates-io mi ni minimp3_fixed) #:use-module (crates-io))
+
+(define-public crate-minimp3_fixed-0.5.2 (c (n "minimp3_fixed") (v "0.5.2") (d (list (d (n "futures") (r "^0.3.8") (d #t) (k 2)) (d (n "minimp3-sys") (r "^0.3") (d #t) (k 0)) (d (n "slice-ring-buffer") (r "^0.3.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0hg94nngb5a0c3q9fsd2jck21xqa249wwfr4rarkx87frrlp7xq2") (f (quote (("unix_sysv" "slice-ring-buffer/unix_sysv") ("default") ("async_tokio" "tokio"))))))
+
+(define-public crate-minimp3_fixed-0.5.3 (c (n "minimp3_fixed") (v "0.5.3") (d (list (d (n "futures") (r "^0.3.8") (d #t) (k 2)) (d (n "minimp3-sys") (r "^0.3") (d #t) (k 0)) (d (n "slice-ring-buffer") (r "^0.3.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0p4ncm3silfmixvs4qr4mif8pw25sd7y2cd0iaj1d7wnrqyia8y6") (f (quote (("unix_sysv" "slice-ring-buffer/unix_sysv") ("default") ("async_tokio" "tokio"))))))
+
+(define-public crate-minimp3_fixed-0.5.4 (c (n "minimp3_fixed") (v "0.5.4") (d (list (d (n "futures") (r "^0.3.8") (d #t) (k 2)) (d (n "minimp3-sys") (r "^0.3") (d #t) (k 0)) (d (n "slice-ring-buffer") (r "^0.3.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "06wmic6gy3k3jmbz767clapx98v20aqmc9kc76p9gnkmgr7g3c22") (f (quote (("unix_sysv" "slice-ring-buffer/unix_sysv") ("default") ("async_tokio" "tokio"))))))
+

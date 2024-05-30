@@ -1,0 +1,4 @@
+(define-module (crates-io s3 wf s3wf2) #:use-module (crates-io))
+
+(define-public crate-s3wf2-0.3.0 (c (n "s3wf2") (v "0.3.0") (d (list (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "clap") (r "^2.33") (f (quote ("yaml"))) (o #t) (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.3") (f (quote ("std" "perf" "unicode-perl"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (o #t) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0l9w0dy9m9xzfndcijkimrmxiszm1lv7fvwbdzhmjbm54qbb572w") (f (quote (("wasm" "wasm-bindgen" "console_error_panic_hook" "wee_alloc" "serde" "serde_json") ("foreign" "libc") ("cli" "clap" "ansi_term"))))))
+

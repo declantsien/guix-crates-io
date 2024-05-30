@@ -1,0 +1,6 @@
+(define-module (crates-io vi d_ vid_dup_finder_lib) #:use-module (crates-io))
+
+(define-public crate-vid_dup_finder_lib-0.1.0 (c (n "vid_dup_finder_lib") (v "0.1.0") (d (list (d (n "ffmpeg_cmdline_utils") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "rustdct") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "transpose") (r "^0.2") (d #t) (k 0)))) (h "0cijhbb2psvikkqyvygwcmhl0cwgqf712l2pqngdzn9a0asqbgv4") (f (quote (("app_only_fns"))))))
+
+(define-public crate-vid_dup_finder_lib-0.1.1 (c (n "vid_dup_finder_lib") (v "0.1.1") (d (list (d (n "ffmpeg_cmdline_utils") (r "^0.1.2") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "rustdct") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "transpose") (r "^0.2") (d #t) (k 0)))) (h "18mhb6raf25fmsgr81y8fqskb4hcv3nbf39sjsrsxj50lkwvibm6") (f (quote (("app_only_fns"))))))
+

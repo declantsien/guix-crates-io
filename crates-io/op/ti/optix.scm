@@ -1,0 +1,8 @@
+(define-module (crates-io op ti optix) #:use-module (crates-io))
+
+(define-public crate-optix-0.1.0 (c (n "optix") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.41") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 1)) (d (n "crossbeam-channel") (r "^0.2.6") (d #t) (k 2)) (d (n "gl") (r "^0.10") (d #t) (k 2)) (d (n "glfw") (r "^0.23") (d #t) (k 2)) (d (n "image") (r "^0.19") (d #t) (k 2)) (d (n "nalgebra") (r "^0.16") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 2)))) (h "0qx86d3ihd2axppmi62yfz09719ss5dryfcgffyv4i4ib724j5c8")))
+
+(define-public crate-optix-0.1.1 (c (n "optix") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.41") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 1)) (d (n "crossbeam-channel") (r "^0.2.6") (d #t) (k 2)) (d (n "gl") (r "^0.10") (d #t) (k 2)) (d (n "glfw") (r "^0.23") (d #t) (k 2)) (d (n "image") (r "^0.19") (d #t) (k 2)) (d (n "nalgebra") (r "^0.16") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 2)))) (h "0p457158lcp2mw9llnabbhi5298dlq53c58hdbl1gx8g19iqzr9l")))
+
+(define-public crate-optix-0.2.0 (c (n "optix") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.41") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 1)) (d (n "crossbeam-channel") (r "^0.2.6") (d #t) (k 2)) (d (n "gl") (r "^0.10") (d #t) (k 2)) (d (n "glfw") (r "^0.23") (d #t) (k 2)) (d (n "image") (r "^0.19") (d #t) (k 2)) (d (n "nalgebra") (r "^0.16") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 2)) (d (n "slotmap") (r "^0.3") (d #t) (k 0)))) (h "0h4pzba6nk6pgsn2308glnn84aa6h986iipvsw1qxibjq2fbmgm6")))
+

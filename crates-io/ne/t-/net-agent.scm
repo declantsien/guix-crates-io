@@ -1,0 +1,4 @@
+(define-module (crates-io ne t- net-agent) #:use-module (crates-io))
+
+(define-public crate-net-agent-0.1.0 (c (n "net-agent") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.14.0") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "net-agent-api") (r "^0.1.4") (d #t) (k 0)) (d (n "net-config") (r "^0.1.1") (d #t) (k 0)) (d (n "net-file") (r "^0.1.3") (d #t) (k 0)) (d (n "pcap") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1gxbv7wbs438m42bfs5az05xf1wgls8hg4s4vryydkd7w3rf8705")))
+

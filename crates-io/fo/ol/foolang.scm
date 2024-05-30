@@ -1,0 +1,4 @@
+(define-module (crates-io fo ol foolang) #:use-module (crates-io))
+
+(define-public crate-foolang-0.0.0 (c (n "foolang") (v "0.0.0") (d (list (d (n "assert_cmd") (r "0.12.*") (d #t) (k 2)) (d (n "clap") (r "2.*.*") (d #t) (k 0)) (d (n "getrandom") (r "0.1.*") (d #t) (k 0)) (d (n "kiss3d") (r "0.22.*") (d #t) (k 0)) (d (n "lazy_static") (r "1.*.*") (d #t) (k 0)) (d (n "libc") (r "0.2.*") (d #t) (t "cfg(unix)") (k 0)) (d (n "nalgebra") (r "0.19.*") (d #t) (k 0)) (d (n "predicates") (r "1.*.*") (d #t) (k 2)) (d (n "pretty_assertions") (r "0.6.*") (d #t) (k 2)) (d (n "rand") (r "0.7.*") (d #t) (k 0)) (d (n "regex") (r "1.*.*") (d #t) (k 0)) (d (n "rouille") (r "3.*.*") (d #t) (k 0)) (d (n "serde_json") (r "1.*.*") (d #t) (k 2)) (d (n "webbrowser") (r "0.5.*") (d #t) (k 0)) (d (n "winapi") (r "0.3.*") (d #t) (t "cfg(windows)") (k 0)))) (h "10dlmr6izbm945zgzz47dw7y2cc70k16vmk4qmqshi0b86j933p9")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io l1 #{0n}# l10n) #:use-module (crates-io))
+
+(define-public crate-l10n-0.0.0 (c (n "l10n") (v "0.0.0") (d (list (d (n "l10n_core") (r "^0.0.0") (d #t) (k 0)) (d (n "l10n_impl") (r "^0.0.0") (d #t) (k 0)))) (h "0bkfbdkfya2qixjyn5j2pz875032wpkhyjvyfpm2dqh2003vm9yr") (r "1.56")))
+
+(define-public crate-l10n-0.1.0-beta.1 (c (n "l10n") (v "0.1.0-beta.1") (d (list (d (n "fluent-pseudo") (r "^0.3") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "l10n_core") (r "=0.1.0-beta.1") (d #t) (k 0)) (d (n "l10n_impl") (r "=0.1.0-beta.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "07glg3l7by3f0xwx94791y4wxxf04jlvrqs80slaiibbgqjx41dx") (f (quote (("allow-incomplete" "l10n_impl/allow-incomplete")))) (r "1.56")))
+
+(define-public crate-l10n-0.1.0 (c (n "l10n") (v "0.1.0") (d (list (d (n "fluent-pseudo") (r "^0.3") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "l10n_core") (r "=0.1.0") (d #t) (k 0)) (d (n "l10n_impl") (r "=0.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "06c2083sx7jzr132pixd3vfiwgmdcy4s0i4inh1csbkz95av44ag") (f (quote (("allow-incomplete" "l10n_impl/allow-incomplete")))) (y #t) (r "1.61")))
+
+(define-public crate-l10n-0.1.1 (c (n "l10n") (v "0.1.1") (d (list (d (n "fluent-pseudo") (r "^0.3") (d #t) (k 2)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "l10n_core") (r "^0.1.1") (d #t) (k 0)) (d (n "l10n_impl") (r "^0.1.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1l1ib73796fc49ia2rz9mwsqvprlai7kxcrrqkxkgvmdj9ybcmkq") (f (quote (("allow-incomplete" "l10n_impl/allow-incomplete")))) (r "1.61")))
+

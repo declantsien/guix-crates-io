@@ -1,0 +1,8 @@
+(define-module (crates-io an do andotp-import) #:use-module (crates-io))
+
+(define-public crate-andotp-import-0.1.0 (c (n "andotp-import") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17.0") (d #t) (k 0)) (d (n "rpassword") (r "^7.2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "totp-rs") (r "^5.3.0") (d #t) (k 0)))) (h "1ax7dfnc5y4llyagjldib7aw3yarc34b0g07mdia1n8x0hgfr79b")))
+
+(define-public crate-andotp-import-0.1.1 (c (n "andotp-import") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17.0") (d #t) (k 0)) (d (n "rpassword") (r "^7.2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "totp-rs") (r "^5.3.0") (d #t) (k 0)))) (h "0x986zblqwibqd4pjg71b4ya2adr6xvc5dxy6swjbg6xjwshlh4l")))
+
+(define-public crate-andotp-import-0.1.2 (c (n "andotp-import") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17.0") (d #t) (k 0)) (d (n "rpassword") (r "^7.2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "totp-rs") (r "^5.3.0") (d #t) (k 0)))) (h "0hwyspp25xm006xqr23kqxrzsdx80x1ni6w9mym0akvrgxd3gr49")))
+

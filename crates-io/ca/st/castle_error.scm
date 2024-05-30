@@ -1,0 +1,38 @@
+(define-module (crates-io ca st castle_error) #:use-module (crates-io))
+
+(define-public crate-castle_error-0.3.2 (c (n "castle_error") (v "0.3.2") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.3.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1nb17d0h1dm6ya445yzbyhg38xazngq7wji75lrzzisbwaziwm5w")))
+
+(define-public crate-castle_error-0.4.0 (c (n "castle_error") (v "0.4.0") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "17na8klgqvh3vy9qrxbfdbx2ahssw5iapr3iam3zhi6iirsjr3h0")))
+
+(define-public crate-castle_error-0.4.1 (c (n "castle_error") (v "0.4.1") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0iwvzwms3b3z0nz64vgx33hqivv2vqnyqk39588d1z09cmq81dfj")))
+
+(define-public crate-castle_error-0.4.2 (c (n "castle_error") (v "0.4.2") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1p685qydfrjb7k2gq82kiw5siwfb65rw38vghj2rmnp3mbzx5dkm")))
+
+(define-public crate-castle_error-0.4.3 (c (n "castle_error") (v "0.4.3") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.3") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1byas604q3xh8impy9p45zxrkkh9z0mpams8v95lrcdicr44af2r")))
+
+(define-public crate-castle_error-0.4.4 (c (n "castle_error") (v "0.4.4") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.4") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1clcn3qj3f33y8kdvk3ha013lazhdmpajd8swsf5aizcsn444ygc")))
+
+(define-public crate-castle_error-0.4.5 (c (n "castle_error") (v "0.4.5") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.5") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "067a6jc6r4kq18wx3kwyyz3980qnwinnlk765q1bjss8dsnh847y")))
+
+(define-public crate-castle_error-0.4.6 (c (n "castle_error") (v "0.4.6") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.4.6") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0gq4glkazmv73r2l5ls5s3kszg0i4amf2dh2iqigsq7dn15mkxbs")))
+
+(define-public crate-castle_error-0.5.0 (c (n "castle_error") (v "0.5.0") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0v5smnfjnxavrwjl0v0b79l3qphcnakb97pvwxw88qq1hpraqqva")))
+
+(define-public crate-castle_error-0.5.1 (c (n "castle_error") (v "0.5.1") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "08cimgar557bhs4291dkw0q96vrryp7i8mjk99kyr36zpk8d2j65")))
+
+(define-public crate-castle_error-0.5.2 (c (n "castle_error") (v "0.5.2") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "08y9nmvj7xkzxgrm416j4qar05m0dnw3fpvyhb1z33ja7570kgjz")))
+
+(define-public crate-castle_error-0.5.3 (c (n "castle_error") (v "0.5.3") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.3") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0p4rmif57xpdhyp4ndymh54yrfr11mdj8aj4z1j44swp752n38vm")))
+
+(define-public crate-castle_error-0.5.4 (c (n "castle_error") (v "0.5.4") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.4") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1sn8ijfzhjq22l9ixggj613qcpqw2aanfiq4vjdgs23vsvidasvx")))
+
+(define-public crate-castle_error-0.5.5 (c (n "castle_error") (v "0.5.5") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.5") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "14bq4mvdahc0m3hw1ywbrng4lk4w7nfwm1ipb3fi4zs6zr3imym6")))
+
+(define-public crate-castle_error-0.5.6 (c (n "castle_error") (v "0.5.6") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.6") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0khf3zqg24pffc0yzpkxlzhim6kzwjzqwi8mr35ggx1i9lf6mfr7")))
+
+(define-public crate-castle_error-0.5.7 (c (n "castle_error") (v "0.5.7") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.7") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0znf50rix95mxrq90gc4a63h2gc9312404b41ksxq7n62av1sb68")))
+
+(define-public crate-castle_error-0.5.8 (c (n "castle_error") (v "0.5.8") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0kybzljd5fja0nyfdjv64xq93234633bp94y2c7nzfsvmzxmph0v")))
+
+(define-public crate-castle_error-0.5.9 (c (n "castle_error") (v "0.5.9") (d (list (d (n "byte") (r "^0.2.6") (d #t) (k 0)) (d (n "castle_input_cursor") (r "^0.5.9") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1hr7s2lk2bfbks261bycvp5sdv8l1m9jdr08mbpplnijwb9liwq5")))
+

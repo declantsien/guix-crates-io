@@ -1,0 +1,42 @@
+(define-module (crates-io si mp simple-ssr-rs) #:use-module (crates-io))
+
+(define-public crate-simple-ssr-rs-0.1.0 (c (n "simple-ssr-rs") (v "0.1.0") (d (list (d (n "salvo") (r "^0.37.9") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "1jd4x8k4k63jwyfb4dnd3cs09jii0rmi9j0iprlqbgqdcqdh7bi7")))
+
+(define-public crate-simple-ssr-rs-0.1.1 (c (n "simple-ssr-rs") (v "0.1.1") (d (list (d (n "salvo") (r "^0.37.9") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0f4903kqf9nsdsspx6vjb1dwcc0bap550m2fwp3snlfn01plcpgy")))
+
+(define-public crate-simple-ssr-rs-0.1.2 (c (n "simple-ssr-rs") (v "0.1.2") (d (list (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "06f4cc85k9xlsj2xry3p3lpgs8j1v43icwm9ryap8zc7jkxsbvgc")))
+
+(define-public crate-simple-ssr-rs-0.1.3 (c (n "simple-ssr-rs") (v "0.1.3") (d (list (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "1kazsyr77chc53sncr2292bjgyn2y19hj03x2fjbx8qmy2pkxbiq")))
+
+(define-public crate-simple-ssr-rs-0.1.4 (c (n "simple-ssr-rs") (v "0.1.4") (d (list (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "1p4j459w5g2fkb4sgm9gplq5azy98rrf4dnpykll6dgg6wgyl4iw")))
+
+(define-public crate-simple-ssr-rs-0.1.5 (c (n "simple-ssr-rs") (v "0.1.5") (d (list (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "00hfmivglsd51mi879bnr5fn1cffq9fxsf015gxmg63y0p3rkf26")))
+
+(define-public crate-simple-ssr-rs-0.1.6 (c (n "simple-ssr-rs") (v "0.1.6") (d (list (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0fma55ajzsqinahpj4lnhvbhn35yipl9zm68piwd8c2baghsd9pj")))
+
+(define-public crate-simple-ssr-rs-0.1.600 (c (n "simple-ssr-rs") (v "0.1.600") (d (list (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0nz3w5f0cysy7kl2h5a1bm2a2gbkgs7h4af6305kd44q9ix75wkh")))
+
+(define-public crate-simple-ssr-rs-0.1.601 (c (n "simple-ssr-rs") (v "0.1.601") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "124dim9saajidqq313walwahb20rdx9qpdi1zp1fnbmdyl9l9z6v")))
+
+(define-public crate-simple-ssr-rs-0.1.602 (c (n "simple-ssr-rs") (v "0.1.602") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "123cy6jylilxmr3rylwapv3crhfd4qc57fvjl0mjhp1kf51hfxny")))
+
+(define-public crate-simple-ssr-rs-0.1.603 (c (n "simple-ssr-rs") (v "0.1.603") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "172jsan4kczcz1i403l5cg3x2frac9qbaggcckr737wpqm523a5p")))
+
+(define-public crate-simple-ssr-rs-0.1.605 (c (n "simple-ssr-rs") (v "0.1.605") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "salvo") (r "^0.41.0") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "02vrlqila9229121jk11xk9jisa36jyh0ryw23120yzsh815l62n")))
+
+(define-public crate-simple-ssr-rs-0.1.606 (c (n "simple-ssr-rs") (v "0.1.606") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "salvo") (r "^0.42.1") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "1ir4ph5k1ysd48fx4w2g9yyz96cvn3rgb1wpj0cf18939w2d37l2")))
+
+(define-public crate-simple-ssr-rs-0.1.608 (c (n "simple-ssr-rs") (v "0.1.608") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "salvo") (r "^0.42.1") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0w5p3gmrqzsrrvvjhq3d9bh4hqssaa1814mm60hgz3mc29n7lmxz")))
+
+(define-public crate-simple-ssr-rs-0.1.610 (c (n "simple-ssr-rs") (v "0.1.610") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "salvo") (r "^0.48.2") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tera") (r "^1.19.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros"))) (d #t) (k 0)))) (h "1kh10dx7slgsmlnd0f9v32n0v32r1si8wppjqs0hhdk1za3wsgsi") (f (quote (("http3" "salvo/quinn"))))))
+
+(define-public crate-simple-ssr-rs-0.1.612 (c (n "simple-ssr-rs") (v "0.1.612") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "salvo") (r "^0.51.0") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tera") (r "^1.19.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "03a0zsss3zw159wsfx3mlln1kyniyj9sz7ycib6cmjqn0507kb4p") (f (quote (("http3" "salvo/quinn"))))))
+
+(define-public crate-simple-ssr-rs-0.1.613 (c (n "simple-ssr-rs") (v "0.1.613") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "salvo") (r "^0.58.3") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0sjb3dn8w81nq66hxhcj2qyys0d1qig0208n5q102qycmyp0sxlw") (f (quote (("http3" "salvo/quinn"))))))
+
+(define-public crate-simple-ssr-rs-0.2.0 (c (n "simple-ssr-rs") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "salvo") (r "^0.66.2") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "19yis6iy1wlngwmzhxw2g94yl74kfwklpc94fjx0ybzbf7ay6q0s") (f (quote (("http3" "salvo/quinn"))))))
+
+(define-public crate-simple-ssr-rs-0.2.1 (c (n "simple-ssr-rs") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "salvo") (r "^0.66.2") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "10c2vyb329r9kiyv44m173brclnvhcpg41pyag0cny2l4i572sap") (f (quote (("http3" "salvo/quinn"))))))
+
+(define-public crate-simple-ssr-rs-0.2.2 (c (n "simple-ssr-rs") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "salvo") (r "^0.67") (f (quote ("serve-static" "anyhow"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tera") (r "^1.19") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 0)))) (h "1wlfx5p952cb4fvd3p9j09hp7dnv982qz9gl07g8lkcvwaw71npl") (f (quote (("http3" "salvo/quinn"))))))
+

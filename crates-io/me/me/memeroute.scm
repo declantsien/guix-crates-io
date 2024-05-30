@@ -1,0 +1,4 @@
+(define-module (crates-io me me memeroute) #:use-module (crates-io))
+
+(define-public crate-memeroute-0.1.0 (c (n "memeroute") (v "0.1.0") (d (list (d (n "auto_ops") (r "^0.3.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "enumset") (r "^1.0.8") (d #t) (k 0)) (d (n "eyre") (r "^0.6.7") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "memedsn") (r "^0.1.0") (d #t) (k 0)) (d (n "memega") (r "^0.1.0") (d #t) (k 0)) (d (n "memegeom") (r "^0.1.0") (d #t) (k 0)) (d (n "ordered-float") (r "^2.10.0") (d #t) (k 0)) (d (n "priority-queue") (r "^1.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "rust-dense-bitset") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "119g3pdasq0nrx7v9a6qpfa5svg445c4cc09gdnlvwwfg5dzp1gs")))
+

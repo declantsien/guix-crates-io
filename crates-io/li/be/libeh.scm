@@ -1,0 +1,6 @@
+(define-module (crates-io li be libeh) #:use-module (crates-io))
+
+(define-public crate-libeh-0.1.0 (c (n "libeh") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.34") (f (quote ("serde"))) (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "cookies"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "18zfh5pvvm5ygyy92wsndr3y63za1djqiwdmz4plh2n1ww6xgal7")))
+
+(define-public crate-libeh-0.1.1 (c (n "libeh") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.34") (f (quote ("serde"))) (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "cookies"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0jq99xricgh39z5yk1j0hsbhqa95yg38fmsil3d5krdm0j1dsmnv")))
+

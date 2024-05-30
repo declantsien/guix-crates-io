@@ -1,0 +1,6 @@
+(define-module (crates-io sw it switchboard-utils-packed) #:use-module (crates-io))
+
+(define-public crate-switchboard-utils-packed-0.1.32 (c (n "switchboard-utils-packed") (v "0.1.32") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.14") (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.14") (d #t) (k 0)) (d (n "solana-program") (r "^1.6") (d #t) (k 0)) (d (n "switchboard-protos") (r "^0.1.58") (d #t) (k 0)) (d (n "zerocopy") (r "^0.3.0") (d #t) (k 0)))) (h "057xbrl39bn4kid30z5gvgxbjiz1rw6dwgncprp2y9nalhnsk6i8")))
+
+(define-public crate-switchboard-utils-packed-0.1.33 (c (n "switchboard-utils-packed") (v "0.1.33") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "quick-protobuf") (r "^0.8.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.14") (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.14") (d #t) (k 0)) (d (n "solana-program") (r "^1.6") (d #t) (k 0)) (d (n "switchboard-protos") (r "^0.1.58") (d #t) (k 0)) (d (n "zerocopy") (r "^0.3.0") (d #t) (k 0)))) (h "13wcqnq3f3nm17jkqfflb34q36vb9znwdvnj4spwqlbm050ac9l7")))
+

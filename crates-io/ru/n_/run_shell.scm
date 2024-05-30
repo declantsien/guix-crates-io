@@ -1,0 +1,22 @@
+(define-module (crates-io ru n_ run_shell) #:use-module (crates-io))
+
+(define-public crate-run_shell-0.1.4 (c (n "run_shell") (v "0.1.4") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "0clpja54pmf3xz24maxs943ac4mvw8pbm4jh0yiispbr5jlr6k7z")))
+
+(define-public crate-run_shell-0.1.5 (c (n "run_shell") (v "0.1.5") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "0ypv48ph0xv4fjhaqczapy6835mrj4j864cpzw9q2vblkgy16qdc")))
+
+(define-public crate-run_shell-0.1.6 (c (n "run_shell") (v "0.1.6") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1r2sr4p11kg6rsy6040x5y4hl62ss0n2h1v49p27dvavnm5d5cwr")))
+
+(define-public crate-run_shell-0.1.7 (c (n "run_shell") (v "0.1.7") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "06n1ljf4wf65j5rj8cvkcawx4d78klgzdd7p2qnqigfm40wpcvan")))
+
+(define-public crate-run_shell-0.1.8 (c (n "run_shell") (v "0.1.8") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1aa0ckdkpbspqfwrs9ng3ichbzw6n3ghfpv8wp21i4n3i43v0f3d")))
+
+(define-public crate-run_shell-0.1.9 (c (n "run_shell") (v "0.1.9") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "0f2dn50gzmrn1ys55lxg4483sgyjqlv9r05aw2118rs05vw86yya")))
+
+(define-public crate-run_shell-0.1.10 (c (n "run_shell") (v "0.1.10") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1wgmhn7bpxfx3ng31nfl71cbnx13bmmqfyv7ri10lc3h7rp20gcp")))
+
+(define-public crate-run_shell-0.1.11 (c (n "run_shell") (v "0.1.11") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "103jxkpbh4wgk6y63wcdvg829sh925rlm1367v31y5l54kwhxdq0")))
+
+(define-public crate-run_shell-0.1.12 (c (n "run_shell") (v "0.1.12") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1jda386m70hfvx18y4kvhn34crzz2jb05d303f9wii6w5h3m9hrr")))
+
+(define-public crate-run_shell-0.1.13 (c (n "run_shell") (v "0.1.13") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "07i5r1qx4znfgg4cz2hd43fpn0wnfiqcgagsyrzj28ibj7sdl14m")))
+

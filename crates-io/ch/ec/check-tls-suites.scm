@@ -1,0 +1,30 @@
+(define-module (crates-io ch ec check-tls-suites) #:use-module (crates-io))
+
+(define-public crate-check-tls-suites-0.0.1+alpha (c (n "check-tls-suites") (v "0.0.1+alpha") (h "0z3c1skl3i2idrvhpiqdjsfy4i6h6s56cjjfhq2sblj7safwagln")))
+
+(define-public crate-check-tls-suites-0.1.0 (c (n "check-tls-suites") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1n490ijm9q5jv9gfwbln1b5a229vvms8wn0rrx37jx3mx28mwcqw")))
+
+(define-public crate-check-tls-suites-0.1.1 (c (n "check-tls-suites") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0s0g4y84myl5975ddx948q3gz0gisq09zdp12qk8cyvdkg6jyshd")))
+
+(define-public crate-check-tls-suites-0.1.2 (c (n "check-tls-suites") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0wghn9zxl4q7l0x1d09gz9incgc4wsy8dbf0bg4wzcajqdsd87pj")))
+
+(define-public crate-check-tls-suites-0.1.3 (c (n "check-tls-suites") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1d71sa6n1cb6lfc57zwx9zamwi0wqwpn6m5mwcpp2ygzcq4yp8j4")))
+
+(define-public crate-check-tls-suites-0.1.4 (c (n "check-tls-suites") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1730l2y02n4zw979cyaj3dvldpj3v1cz5isvrmkinrnhhb10yv55")))
+
+(define-public crate-check-tls-suites-0.1.5 (c (n "check-tls-suites") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0j0hkz2qrbdaih6m174mq9xfjkq0pspiig7ysv158y7dd7j383kg")))
+
+(define-public crate-check-tls-suites-0.1.6 (c (n "check-tls-suites") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0jy67kqkjn96r1s74phmc34077arca5nlqx3ylrfynxr5x2lrci7")))
+
+(define-public crate-check-tls-suites-0.1.7 (c (n "check-tls-suites") (v "0.1.7") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0sixinrcgmxzyh5bmbkqzla2r3bxh19ssnlsf8nn51j657sn0bha")))
+
+(define-public crate-check-tls-suites-0.1.8 (c (n "check-tls-suites") (v "0.1.8") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0x6jvpr849sc2rbd0kspjf463yvmrcrbfdlgxp8yaysghqq0dj47")))
+
+(define-public crate-check-tls-suites-0.2.0 (c (n "check-tls-suites") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0bv13f03h328cxjkd0fhxxcwzay9vqk25bfp16jajnl9mi428j58")))
+
+(define-public crate-check-tls-suites-0.3.0 (c (n "check-tls-suites") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "09ssqvid20l85g22pzsbzdfqgi7wf2zay5ks28b4k2r210vw427k") (y #t)))
+
+(define-public crate-check-tls-suites-0.3.1 (c (n "check-tls-suites") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0k13jqbykfggmnvrnqqinkm0jh89csask8hbba6gdpfdbfmh3w4r")))
+
+(define-public crate-check-tls-suites-0.3.2 (c (n "check-tls-suites") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0xa4ldz68cmw9nc5j3yg6d42my0am0yq1frkb1a6rqx6jsiicsg3")))
+

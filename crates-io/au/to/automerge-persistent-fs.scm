@@ -1,0 +1,10 @@
+(define-module (crates-io au to automerge-persistent-fs) #:use-module (crates-io))
+
+(define-public crate-automerge-persistent-fs-0.1.0 (c (n "automerge-persistent-fs") (v "0.1.0") (d (list (d (n "automerge") (r "^0.1.0") (d #t) (k 0)) (d (n "automerge-persistent") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs"))) (o #t) (d #t) (k 0)))) (h "0gmgv0jyh9sbrmz1gs2h3xqb64v2x1n5dj9sjx9mj4pvzf6pk2sp") (f (quote (("async" "futures" "tokio"))))))
+
+(define-public crate-automerge-persistent-fs-0.2.0 (c (n "automerge-persistent-fs") (v "0.2.0") (d (list (d (n "automerge") (r "^0.2") (d #t) (k 0)) (d (n "automerge-persistent") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs"))) (o #t) (d #t) (k 0)))) (h "19fbd7gapqpxiw92i001cknvxhw1mz2r0y30v6q4kq7w341hakrn") (f (quote (("async" "futures" "tokio"))))))
+
+(define-public crate-automerge-persistent-fs-0.3.0 (c (n "automerge-persistent-fs") (v "0.3.0") (d (list (d (n "automerge") (r "^0.3") (d #t) (k 0)) (d (n "automerge-persistent") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs"))) (o #t) (d #t) (k 0)))) (h "0pxh50s7qbdhnkydhsp0jhz3jnmhd08rgrmcf810g97msjc47nkx") (f (quote (("async" "futures" "tokio"))))))
+
+(define-public crate-automerge-persistent-fs-0.4.0 (c (n "automerge-persistent-fs") (v "0.4.0") (d (list (d (n "automerge") (r "^0.4") (d #t) (k 0)) (d (n "automerge-persistent") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs"))) (o #t) (d #t) (k 0)))) (h "1klxmr3knm0yj6gmq2bcnpbibybh4c5w2d17sdiivs7k173m4vl0") (f (quote (("async" "futures" "tokio"))))))
+

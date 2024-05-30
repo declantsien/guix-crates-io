@@ -1,0 +1,10 @@
+(define-module (crates-io rs mc rsmc-tokio) #:use-module (crates-io))
+
+(define-public crate-rsmc-tokio-0.1.0 (c (n "rsmc-tokio") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rsmc-core") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "13amq0w6g6zzrpn0wkcy19f4v2qqsm5ayg7q8gjjk7b8h191mmjy")))
+
+(define-public crate-rsmc-tokio-0.2.0 (c (n "rsmc-tokio") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rsmc-core") (r "^0.2.0") (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "08p31sp5dpibmj95zwnfyih6fwvrlnzm1pw3fvg0ip1yq5mv3n37") (f (quote (("zlib" "rsmc-core/zlib") ("default" "zlib"))))))
+
+(define-public crate-rsmc-tokio-0.3.0 (c (n "rsmc-tokio") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rsmc-core") (r "^0.3.0") (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1lb3676xfp7g5s3jp0q5ag962l4kc6xpmywfb9ic11zqar7l2xmc") (f (quote (("zlib" "rsmc-core/zlib") ("default" "zlib"))))))
+
+(define-public crate-rsmc-tokio-0.4.0 (c (n "rsmc-tokio") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rsmc-core") (r "^0.4.0") (k 0)) (d (n "tokio") (r "^1.5") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1g3h4yabibvhg80l9hwwsr6w5wbdqcky3awpcxngblv7fiakwyl9") (f (quote (("zlib" "rsmc-core/zlib") ("default" "zlib"))))))
+

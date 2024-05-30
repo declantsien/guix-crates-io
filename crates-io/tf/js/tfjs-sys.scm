@@ -1,0 +1,4 @@
+(define-module (crates-io tf js tfjs-sys) #:use-module (crates-io))
+
+(define-public crate-tfjs-sys-0.0.1 (c (n "tfjs-sys") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.28") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "sourcefile") (r "^0.1.4") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.51") (f (quote ("serde-serialize" "strict-macro" "nightly"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.1") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "= 0.3.1") (d #t) (k 2)) (d (n "wasm-bindgen-webidl") (r "^0.2.51") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.28") (d #t) (k 0)))) (h "0kfny84hr62a66avd5ldi54amvxrm81ypqhsvxn9w85r2rdkrsa5")))
+

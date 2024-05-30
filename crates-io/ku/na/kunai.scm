@@ -1,0 +1,10 @@
+(define-module (crates-io ku na kunai) #:use-module (crates-io))
+
+(define-public crate-kunai-0.1.0 (c (n "kunai") (v "0.1.0") (d (list (d (n "cargo") (r "^0.39") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "rustfmt-nightly") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1i42z7s52spp13862rffh7xl30aafz2l9an8pdqq5hc3x5vypxgz")))
+
+(define-public crate-kunai-0.2.0 (c (n "kunai") (v "0.2.0") (d (list (d (n "cargo") (r "^0.39") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "rustfmt-nightly") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0f3ygxccwql0id37m9xcljlxp4f9nd2qkk91k8rrzqvanbs0r3rh")))
+
+(define-public crate-kunai-0.3.0 (c (n "kunai") (v "0.3.0") (d (list (d (n "cargo") (r "^0.39") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.24") (d #t) (k 0)) (d (n "rustfmt-nightly") (r "^1.4") (d #t) (k 0)) (d (n "scraper") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "0dlbr8wczlj7653mq2lvyx4ps3x4nlawl48y26jv3lq26fdxar0a")))
+
+(define-public crate-kunai-0.4.0 (c (n "kunai") (v "0.4.0") (d (list (d (n "cargo") (r "^0.41.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.24") (d #t) (k 0)) (d (n "rustfmt-nightly") (r "^1.4.11") (d #t) (k 0)) (d (n "scraper") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "termion") (r "^1.5.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "1fz9qf54bai22blql9lagnm99d2swvp4mfnidmzqqhx2mxy6vdhx")))
+

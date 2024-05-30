@@ -1,0 +1,4 @@
+(define-module (crates-io pi le pileks_uniffi-bindgen-cs) #:use-module (crates-io))
+
+(define-public crate-pileks_uniffi-bindgen-cs-0.2.1 (c (n "pileks_uniffi-bindgen-cs") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "askama") (r "^0.11") (f (quote ("config"))) (k 0)) (d (n "camino") (r "^1.0.8") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("cargo" "std" "derive"))) (d #t) (k 0)) (d (n "extend") (r "^1.1") (d #t) (k 0)) (d (n "fs-err") (r "^2.7.0") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uniffi_bindgen") (r "^0.23.0") (d #t) (k 0)))) (h "0l63xp5w0b922l62667jq4k3szjv0cxzdb47ihjyxhm85np4z7hj")))
+

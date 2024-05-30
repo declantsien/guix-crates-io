@@ -1,0 +1,8 @@
+(define-module (crates-io be es beeswax) #:use-module (crates-io))
+
+(define-public crate-beeswax-0.1.0 (c (n "beeswax") (v "0.1.0") (d (list (d (n "isahc") (r "^0.9.4") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "typed-builder") (r "^0.6.0") (d #t) (k 0)))) (h "1vrkk4w5zj0jbx17q3fxi1y4dxgl7ny5njv2kmg2ykdznyj2kf1a")))
+
+(define-public crate-beeswax-0.1.1 (c (n "beeswax") (v "0.1.1") (d (list (d (n "isahc") (r "^0.9.4") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "typed-builder") (r "^0.6.0") (d #t) (k 0)))) (h "0f6b23r9w4pazwcq5fa321lbf6ck9c17wrypn07avn8v6f5jzhyf")))
+
+(define-public crate-beeswax-0.1.2 (c (n "beeswax") (v "0.1.2") (d (list (d (n "isahc") (r "^0.9.4") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "typed-builder") (r "^0.6.0") (d #t) (k 0)))) (h "1h500z14gqm75d5gh6nmyvjh0s6l9dcrpjvpdx1gvgzyki83w0b9")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io se ed seeded_dice_roller) #:use-module (crates-io))
+
+(define-public crate-seeded_dice_roller-0.1.0 (c (n "seeded_dice_roller") (v "0.1.0") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "0dr2gbvdj8y7bry3nfb5zz57552sippjw053zkhg8g3im045hzv9") (y #t)))
+
+(define-public crate-seeded_dice_roller-0.1.1 (c (n "seeded_dice_roller") (v "0.1.1") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "14559qh342gs2l9fdvrvs39iyxj4i83nnw3lfav0h2gykjsd9nf8") (y #t)))
+
+(define-public crate-seeded_dice_roller-0.1.2 (c (n "seeded_dice_roller") (v "0.1.2") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "0sr5lkfmg10qrwyqg42wms17na07p79ayr6f9rv9rqcsi5r5ryns") (y #t)))
+
+(define-public crate-seeded_dice_roller-0.1.3 (c (n "seeded_dice_roller") (v "0.1.3") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "0y2wh7cfxdlb3bv5wbdi38kmc5v37w5h5g09y5gfqpq2ww1k1s58") (y #t)))
+
+(define-public crate-seeded_dice_roller-1.0.0 (c (n "seeded_dice_roller") (v "1.0.0") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)))) (h "061jyg7c7dnzw1hv3kdak05px4bmsgjk8qrsfxqp9kpw3jqh367p") (y #t)))
+
+(define-public crate-seeded_dice_roller-1.0.1 (c (n "seeded_dice_roller") (v "1.0.1") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)))) (h "1zc3r34d5zgzsy5iv37mdy8dk9210hindja9j0l3sqhpsc1xlndb") (y #t)))
+
+(define-public crate-seeded_dice_roller-1.0.2 (c (n "seeded_dice_roller") (v "1.0.2") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_seeder") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)))) (h "044ixbim4402v87s8167pvlmh4h646bxv559vwy6dv6ar4k9vps4")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io de ep deepwell-core) #:use-module (crates-io))
+
+(define-public crate-deepwell-core-0.0.1 (c (n "deepwell-core") (v "0.0.1") (d (list (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0khclhq15rh6nwvvk3bd6qc253v1yzc7rwcgjakzwp8p8k3ighks") (y #t)))
+
+(define-public crate-deepwell-core-0.0.2 (c (n "deepwell-core") (v "0.0.2") (d (list (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0sr6b08zwcm6gzss122l5hfrn9w1paglrc6pi8168anxzrsmi7d3") (y #t)))
+
+(define-public crate-deepwell-core-0.0.3 (c (n "deepwell-core") (v "0.0.3") (d (list (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0m6pyjlbj1jwfx2v5nbby5dhycwngm7argrkyb44rqni89c7kwki") (y #t)))
+
+(define-public crate-deepwell-core-0.0.4 (c (n "deepwell-core") (v "0.0.4") (d (list (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1ghg9b6kj81vpqxpm12jx33387f09ayhkb485dxjrhhw7h2418db") (y #t)))
+
+(define-public crate-deepwell-core-0.0.5 (c (n "deepwell-core") (v "0.0.5") (d (list (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1vqz727iaaj2djf4nr8lydpln5apclmrjw4fvlwh27647avk4l89") (y #t)))
+
+(define-public crate-deepwell-core-0.0.6 (c (n "deepwell-core") (v "0.0.6") (d (list (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "184886k2sw0y389gvaadri8ik2d8x4r8dd9i78ziq25mna98ml2v") (y #t)))
+
+(define-public crate-deepwell-core-0.0.8 (c (n "deepwell-core") (v "0.0.8") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1") (f (quote ("chrono" "network-address" "postgres"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ref-map") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0dykzkf8q0sdl2kiy7r7xg11dvknzfy22qj5d3ds3mrszl2vmr39") (y #t)))
+

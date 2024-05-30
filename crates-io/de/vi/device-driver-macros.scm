@@ -1,0 +1,8 @@
+(define-module (crates-io de vi device-driver-macros) #:use-module (crates-io))
+
+(define-public crate-device-driver-macros-0.5.0 (c (n "device-driver-macros") (v "0.5.0") (d (list (d (n "device-driver-generation") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "027vnd2i0pij6rp7kwpra7gzjs87m7l1f838p89q6pkyr0ccwzxl") (s 2) (e (quote (("yaml" "dep:serde_yaml") ("json" "dep:serde_json"))))))
+
+(define-public crate-device-driver-macros-0.5.3 (c (n "device-driver-macros") (v "0.5.3") (d (list (d (n "device-driver-generation") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0p8xg0xlpi69vgrq2jmafshadnd10fgyscrsmnszhhsvjzwm5lda") (s 2) (e (quote (("yaml" "dep:serde_yaml") ("json" "dep:serde_json"))))))
+
+(define-public crate-device-driver-macros-0.6.0 (c (n "device-driver-macros") (v "0.6.0") (d (list (d (n "device-driver-generation") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "07ihcp6vqwc1fnvawwxiqd6hg7qaldd5z9bv92jii12l0982nxl0") (s 2) (e (quote (("yaml" "dep:serde_yaml") ("json" "dep:serde_json"))))))
+

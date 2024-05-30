@@ -1,0 +1,4 @@
+(define-module (crates-io ma il mail-headers-ng) #:use-module (crates-io))
+
+(define-public crate-mail-headers-ng-0.6.7 (c (n "mail-headers-ng") (v "0.6.7") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "mail-internals") (r "^0.2.4") (d #t) (k 0) (p "mail-internals-ng")) (d (n "media-type") (r "^0.4.0-unstable") (d #t) (k 0)) (d (n "nom") (r "^3.1.0") (d #t) (k 0)) (d (n "quoted-string") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0.80") (d #t) (k 2)) (d (n "soft-ascii-string") (r "^1") (d #t) (k 0)) (d (n "stable_deref_trait") (r "^1.0.0") (d #t) (k 0)) (d (n "total-order-multi-map") (r "^0.4.5") (d #t) (k 0)) (d (n "vec1") (r "^1.3.0") (d #t) (k 0)))) (h "1bxh7qy98g0p3lpjgcwfina4g149bzy3j7s665s970pqnjj5pgji") (f (quote (("traceing" "mail-internals/traceing") ("serde-impl" "serde" "vec1/serde"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io st dx stdx) #:use-module (crates-io))
+
+(define-public crate-stdx-0.0.1 (c (n "stdx") (v "0.0.1") (d (list (d (n "bitflags") (r "^0.3.0") (d #t) (k 0)) (d (n "docopt") (r "^0.6.67") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "flate2") (r "^0.2.7") (d #t) (k 0)) (d (n "hyper") (r "^0.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1.11") (d #t) (k 0)) (d (n "libc") (r "^0.1.8") (d #t) (k 0)) (d (n "log") (r "^0.3.1") (d #t) (k 0)) (d (n "num") (r "^0.1.25") (d #t) (k 0)) (d (n "rand") (r "^0.3.8") (d #t) (k 0)) (d (n "regex") (r "^0.1.39") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.15") (d #t) (k 0)) (d (n "semver") (r "^0.1.19") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.4") (d #t) (k 0)) (d (n "time") (r "^0.1.3") (d #t) (k 0)) (d (n "toml") (r "^0.1.21") (d #t) (k 0)) (d (n "url") (r "^0.2.35") (d #t) (k 0)))) (h "09kkav54w6s4q0rl19d7cjqdrg2pr6rmrcb2xnrsv26qimgq4lmv")))
+

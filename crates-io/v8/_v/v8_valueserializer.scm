@@ -1,0 +1,6 @@
+(define-module (crates-io v8 _v v8_valueserializer) #:use-module (crates-io))
+
+(define-public crate-v8_valueserializer-0.1.0 (c (n "v8_valueserializer") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "indexmap") (r "^2.0.2") (d #t) (k 0)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "num-bigint") (r "^0.4.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "v8") (r "^0.79.2") (d #t) (k 2)) (d (n "wtf8") (r "^0.1.0") (d #t) (k 0)))) (h "0m9f5966zykf34kzhkf7raw5s43hrrxddlx7lsvsdnpa412qcyjj")))
+
+(define-public crate-v8_valueserializer-0.1.1 (c (n "v8_valueserializer") (v "0.1.1") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "indexmap") (r "^2.0.2") (d #t) (k 0)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "num-bigint") (r "^0.4.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "v8") (r "^0.79.2") (d #t) (k 2)) (d (n "wtf8") (r "^0.1.0") (d #t) (k 0)))) (h "1xkh5syjrrsjnvfhi6ipfgsqiymqzjc3wc2q5f92b6f71x09qncp")))
+

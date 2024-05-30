@@ -1,0 +1,14 @@
+(define-module (crates-io ou tc outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c) #:use-module (crates-io))
+
+(define-public crate-outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c-0.0.0 (c (n "outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c") (v "0.0.0") (d (list (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)))) (h "1447vvfk7d2dwkcmwrpvgv7j1m4znidfh3rxvw9jczl89qacpj12") (f (quote (("std") ("report" "eyre" "std") ("default" "std")))) (y #t)))
+
+(define-public crate-outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c-0.0.1 (c (n "outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c") (v "0.0.1") (d (list (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "miette") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0.6") (d #t) (k 1)))) (h "01h1pzldkmkbfzif449m75ac60jn1sbz0mkxchcfzpw29m37akfh") (f (quote (("unstable") ("std") ("report" "eyre" "std") ("nightly" "unstable") ("diagnostic" "miette" "std") ("default" "std")))) (y #t)))
+
+(define-public crate-outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c-0.0.2-alpha.1 (c (n "outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c") (v "0.0.2-alpha.1") (d (list (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "miette") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0.6") (d #t) (k 1)))) (h "06rq4p532p5s4fdrfhmpcn5rh4cq16kar836j49w0bsfv7pkksv4") (f (quote (("unstable") ("std") ("report" "eyre" "std") ("nightly" "unstable") ("diagnostic" "miette" "std") ("default" "std")))) (y #t)))
+
+(define-public crate-outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c-0.0.2 (c (n "outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c") (v "0.0.2") (d (list (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "miette") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0.6") (d #t) (k 1)))) (h "0lhpd6q0h1bzkxn0cc0x44v4bbibxmg03cy9qrwhrz4b0k5f26mr") (f (quote (("unstable") ("std") ("report" "eyre" "std") ("nightly" "unstable") ("diagnostic" "miette" "std") ("default" "std")))) (y #t)))
+
+(define-public crate-outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c-0.1.0 (c (n "outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c") (v "0.1.0") (d (list (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "miette") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0.6") (d #t) (k 1)))) (h "0kxg6g2xjg61kc48fqb5bnxs9kn7ja2dkkcbls8asak60zkxjf9r") (f (quote (("unstable") ("std") ("report" "eyre" "std") ("nightly" "unstable") ("diagnostic" "miette" "std") ("default" "std"))))))
+
+(define-public crate-outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c-0.1.1 (c (n "outcome-46f94afc-026f-5511-9d7e-7d1fd495fb5c") (v "0.1.1") (d (list (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "miette") (r ">=3.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0.6") (d #t) (k 1)))) (h "1mbqijfskzi6ah3dc17k3vdp28max0cjinhsvnqh9xs0y9bcbb16") (f (quote (("unstable") ("std") ("report" "eyre" "std") ("nightly" "unstable") ("diagnostic" "miette" "std") ("default" "std"))))))
+

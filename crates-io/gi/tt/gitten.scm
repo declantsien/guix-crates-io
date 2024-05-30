@@ -1,0 +1,12 @@
+(define-module (crates-io gi tt gitten) #:use-module (crates-io))
+
+(define-public crate-gitten-0.2.2 (c (n "gitten") (v "0.2.2") (d (list (d (n "crossbeam-channel") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tui") (r "^0.18") (d #t) (k 0)))) (h "0z0f1w7vn3yx0yskh4a2nir38q8v3g0j4zxrvilkcgc5g634l4fs")))
+
+(define-public crate-gitten-0.2.3 (c (n "gitten") (v "0.2.3") (d (list (d (n "crossbeam-channel") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tui") (r "^0.18") (d #t) (k 0)))) (h "1nj7zxq4dj617qm6as4ns7w19ib4pdq9fr8nny4g4n7n3jx8fzym")))
+
+(define-public crate-gitten-0.3.0 (c (n "gitten") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "git2") (r "^0.15.0") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "0abazndsa8p2rgmwq12m85qz632kg18yzxgwygkg4srsz0ksb5p6") (y #t)))
+
+(define-public crate-gitten-0.3.1 (c (n "gitten") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "git2") (r "^0.15.0") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "0ckynimw38pf1dhfal30v0m4xdiimrhc25k6n0mj4rlfqprk54sk") (y #t)))
+
+(define-public crate-gitten-0.3.2 (c (n "gitten") (v "0.3.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "git2") (r "^0.15.0") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.16") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "09qwf63lqqnifhh000crr893nklcqrjh942xd0mi7na89zf3rri8")))
+

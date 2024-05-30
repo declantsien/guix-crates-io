@@ -1,0 +1,8 @@
+(define-module (crates-io fc -b fc-blackbox) #:use-module (crates-io))
+
+(define-public crate-fc-blackbox-0.1.0 (c (n "fc-blackbox") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "integer-encoding") (r "^3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nom") (r "^6") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "num-rational") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1jc0yzpaykgzbq5c71r86768yflnkr0z67iqw172riy35108hn62")))
+
+(define-public crate-fc-blackbox-0.1.1 (c (n "fc-blackbox") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "integer-encoding") (r "^3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nom") (r "^6") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "num-rational") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0aw27w7g32mmv7cylkq0jb77j13h4w98a7n1gpj8pqhlmavr08p6")))
+
+(define-public crate-fc-blackbox-0.2.0 (c (n "fc-blackbox") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "insta") (r "^1.12") (f (quote ("glob"))) (d #t) (k 2)) (d (n "integer-encoding") (r "^3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nom") (r "^6") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "num-rational") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde-big-array") (r "^0.3") (f (quote ("const-generics"))) (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0kj14wlicm76wfgibw404cmza2v59hvw2dqf2n7kf5z1xwaxh5k6")))
+

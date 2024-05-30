@@ -1,0 +1,12 @@
+(define-module (crates-io an du anduin) #:use-module (crates-io))
+
+(define-public crate-anduin-0.0.1 (c (n "anduin") (v "0.0.1") (h "0yrxbdd34bmjx6kam02phb23znhzjb9ys5i38px2fc8k0x2a8lh4")))
+
+(define-public crate-anduin-0.0.2 (c (n "anduin") (v "0.0.2") (d (list (d (n "ears") (r "^0.3") (d #t) (k 0)) (d (n "gl") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "vk-sys") (r "^0.1.1") (d #t) (k 1)) (d (n "vulkano") (r "^0.2.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.2.0") (d #t) (k 1)) (d (n "vulkano-win") (r "^0.2.0") (d #t) (k 0)) (d (n "winit") (r "^0.5") (d #t) (k 0)))) (h "15d5m1l7kdhbfigr8cng1m2akdqqqs3yavr2s0s7g7b885pcjnky")))
+
+(define-public crate-anduin-0.0.3 (c (n "anduin") (v "0.0.3") (d (list (d (n "ears") (r "^0.3") (d #t) (k 0)) (d (n "gl") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "vk-sys") (r "^0.1.1") (d #t) (k 1)) (d (n "vulkano") (r "^0.2.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.2.0") (d #t) (k 1)) (d (n "vulkano-win") (r "^0.2.0") (d #t) (k 0)) (d (n "winit") (r "^0.5") (d #t) (k 0)))) (h "0hx7vl8g62jqcdksmn3d6m27kgkb3s73s8b202ydgx2zzd20laiw")))
+
+(define-public crate-anduin-0.0.4 (c (n "anduin") (v "0.0.4") (d (list (d (n "ears") (r "^0.3") (d #t) (k 0)) (d (n "gl") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nalgebra") (r "^0.10") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "vk-sys") (r "^0.1.1") (d #t) (k 1)) (d (n "vulkano") (r "^0.2.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.2.0") (d #t) (k 1)) (d (n "vulkano-win") (r "^0.2.0") (d #t) (k 0)) (d (n "winit") (r "^0.5") (d #t) (k 0)))) (h "0y215k189hrzmghac8fhirj0xdj89424g2q6ndnvny3m4pjj0r2r")))
+
+(define-public crate-anduin-0.0.5 (c (n "anduin") (v "0.0.5") (d (list (d (n "ears") (r "^0.3") (d #t) (k 0)) (d (n "gfx") (r "^0.12") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.12") (d #t) (k 0)) (d (n "gl") (r "^0.6") (d #t) (k 0)) (d (n "glium") (r "^0.15") (d #t) (k 0)) (d (n "glutin") (r "^0.6") (d #t) (k 0)) (d (n "image") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nalgebra") (r "^0.10") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "vk-sys") (r "^0.1.1") (d #t) (k 1)) (d (n "vulkano") (r "^0.3.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.2.0") (d #t) (k 1)) (d (n "vulkano-win") (r "^0.3.0") (d #t) (k 0)) (d (n "winit") (r "^0.5") (d #t) (k 0)))) (h "12ldp0cif6k506is9vzi2xf1na51mqpf9grrpsl6pxwyv6dn5z8d")))
+

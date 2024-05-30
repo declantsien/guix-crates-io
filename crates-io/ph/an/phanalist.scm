@@ -1,0 +1,4 @@
+(define-module (crates-io ph an phanalist) #:use-module (crates-io))
+
+(define-public crate-phanalist-0.1.21 (c (n "phanalist") (v "0.1.21") (d (list (d (n "bindgen") (r "^0.65.1") (d #t) (k 1)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cli-table") (r "^0.4.7") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "human_bytes") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "jwalk") (r "^0.8.1") (d #t) (k 0)) (d (n "memory-stats") (r "^1.0.0") (d #t) (k 0)) (d (n "php-parser-rs") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1pr0k8gf63z5y6wvhzilrny4bp0pcj0s52h085v7c3zrracrahq6")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io lu ne lune-std-serde) #:use-module (crates-io))
+
+(define-public crate-lune-std-serde-0.1.0 (c (n "lune-std-serde") (v "0.1.0") (d (list (d (n "async-compression") (r "^0.4") (f (quote ("tokio" "brotli" "deflate" "gzip" "zlib"))) (d #t) (k 0)) (d (n "bstr") (r "^1.9") (d #t) (k 0)) (d (n "lune-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "lz4") (r "^1.24") (d #t) (k 0)) (d (n "mlua") (r "^0.9.7") (f (quote ("luau" "serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "io-util"))) (k 0)) (d (n "toml") (r "^0.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1ypb0rncks8vd9i28kcpmzj9rlspzvc2qm2skwiaj81mcwaxb6rk")))
+

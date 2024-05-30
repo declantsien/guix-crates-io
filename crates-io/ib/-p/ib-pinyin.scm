@@ -1,0 +1,14 @@
+(define-module (crates-io ib -p ib-pinyin) #:use-module (crates-io))
+
+(define-public crate-ib-pinyin-0.2.0 (c (n "ib-pinyin") (v "0.2.0") (d (list (d (n "arraystring") (r "^0.3.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (f (quote ("std" "perf"))) (k 0)) (d (n "widestring") (r "^1.0.2") (o #t) (d #t) (k 0)))) (h "0c20l21q1p8xrmw7rnja60qm13n3nlyi0hf912bxw7556619jh27") (f (quote (("minimal" "inmut-data") ("inmut-data")))) (s 2) (e (quote (("encoding" "dep:widestring"))))))
+
+(define-public crate-ib-pinyin-0.2.1 (c (n "ib-pinyin") (v "0.2.1") (d (list (d (n "arraystring") (r "^0.3.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (f (quote ("std" "perf"))) (k 0)) (d (n "widestring") (r "^1.0.2") (o #t) (d #t) (k 0)))) (h "1kivwzdis2w72lssps0cf1g20ab7n10xy770bv89wq7amkn8z88k") (f (quote (("minimal" "inmut-data") ("inmut-data")))) (s 2) (e (quote (("encoding" "dep:widestring"))))))
+
+(define-public crate-ib-pinyin-0.2.2 (c (n "ib-pinyin") (v "0.2.2") (d (list (d (n "arraystring") (r "^0.3.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (f (quote ("std" "perf"))) (k 0)) (d (n "widestring") (r "^1.0.2") (o #t) (d #t) (k 0)))) (h "041v7xrgliigkjsy24kxs7r9vqn1iykln2nqrzyb3g3xhmca4cm9") (f (quote (("minimal" "inmut-data") ("inmut-data")))) (s 2) (e (quote (("encoding" "dep:widestring"))))))
+
+(define-public crate-ib-pinyin-0.2.3 (c (n "ib-pinyin") (v "0.2.3") (d (list (d (n "arraystring") (r "^0.3.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (f (quote ("std" "perf"))) (k 0)) (d (n "widestring") (r "^1.0.2") (o #t) (d #t) (k 0)))) (h "0602vkgrzf1rajpm9bbqvnd0gcp1qx2w4gcxdpa8nkns67z7vkii") (f (quote (("minimal" "inmut-data") ("inmut-data")))) (s 2) (e (quote (("encoding" "dep:widestring"))))))
+
+(define-public crate-ib-pinyin-0.2.4 (c (n "ib-pinyin") (v "0.2.4") (d (list (d (n "arraystring") (r "^0.3.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (f (quote ("std" "perf"))) (k 0)) (d (n "widestring") (r "^1.0.2") (o #t) (d #t) (k 0)))) (h "1nijy9yqvrmjkx23xvl3ncqzvbr6fl7hhmkrpprvh8j5jcp6hyvs") (f (quote (("minimal" "inmut-data") ("inmut-data")))) (s 2) (e (quote (("encoding" "dep:widestring")))) (r "1.75")))
+
+(define-public crate-ib-pinyin-0.2.5 (c (n "ib-pinyin") (v "0.2.5") (d (list (d (n "arraystring") (r "^0.3.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (f (quote ("std" "perf"))) (k 0)) (d (n "widestring") (r "^1.0.2") (o #t) (d #t) (k 0)))) (h "0syfazzi75qqhaijqjibyzc70qdnps55i3hihaxm5w4597cagjk1") (f (quote (("minimal" "inmut-data") ("inmut-data")))) (s 2) (e (quote (("encoding" "dep:widestring")))) (r "1.75")))
+

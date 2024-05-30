@@ -1,0 +1,10 @@
+(define-module (crates-io qi p- qip-iterators) #:use-module (crates-io))
+
+(define-public crate-qip-iterators-1.0.0 (c (n "qip-iterators") (v "1.0.0") (d (list (d (n "num-complex") (r "^0.4") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (o #t) (d #t) (k 0)))) (h "1g42pdv1vbf52mffcw7c248hlfixg3rmp8ccpn036j504hs2rk73") (f (quote (("parallel" "rayon") ("default" "parallel"))))))
+
+(define-public crate-qip-iterators-1.1.0 (c (n "qip-iterators") (v "1.1.0") (d (list (d (n "blas") (r "^0.22") (d #t) (k 2)) (d (n "faer-core") (r "^0.8") (d #t) (k 2)) (d (n "ndarray") (r "^0.15") (f (quote ("blas"))) (d #t) (k 2)) (d (n "num-complex") (r "^0.4") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "openblas-src") (r "^0.10") (d #t) (k 2)) (d (n "rayon") (r "^1.7") (o #t) (d #t) (k 0)) (d (n "sprs") (r "^0.11") (d #t) (k 2)))) (h "0qnk59djj12x7nfkfs26c08d3rssmg8xkcrv0d2z1kkjmca79kip") (f (quote (("parallel" "rayon") ("default" "parallel"))))))
+
+(define-public crate-qip-iterators-1.2.0 (c (n "qip-iterators") (v "1.2.0") (d (list (d (n "blas") (r "^0.22") (d #t) (k 2)) (d (n "faer-core") (r "^0.8") (d #t) (k 2)) (d (n "ndarray") (r "^0.15") (f (quote ("blas"))) (d #t) (k 2)) (d (n "num-complex") (r "^0.4") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "openblas-src") (r "^0.10") (d #t) (k 2)) (d (n "rayon") (r "^1.7") (o #t) (d #t) (k 0)) (d (n "sprs") (r "^0.11") (d #t) (k 2)))) (h "1nv62dqzyj6zgkk6afyirh2l74z6pp0d66bip60592klhimr8a6g") (f (quote (("parallel" "rayon") ("default" "parallel"))))))
+
+(define-public crate-qip-iterators-1.4.0 (c (n "qip-iterators") (v "1.4.0") (d (list (d (n "blas") (r "^0.22") (d #t) (k 2)) (d (n "faer-core") (r "^0.8") (d #t) (k 2)) (d (n "ndarray") (r "^0.15") (f (quote ("blas"))) (d #t) (k 2)) (d (n "num-complex") (r "^0.4") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "openblas-src") (r "^0.10") (d #t) (k 2)) (d (n "rayon") (r "^1.7") (o #t) (d #t) (k 0)) (d (n "sprs") (r "^0.11") (d #t) (k 2)))) (h "1lrlq68b2a1gdzgj95blvm5swrxsmhhgf44llnb5bc526x496sav") (f (quote (("parallel" "rayon") ("default" "parallel"))))))
+

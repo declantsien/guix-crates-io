@@ -1,0 +1,4 @@
+(define-module (crates-io sa wt sawtooth-xo-tp-rust) #:use-module (crates-io))
+
+(define-public crate-sawtooth-xo-tp-rust-0.3.3 (c (n "sawtooth-xo-tp-rust") (v "0.3.3") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "log4rs") (r "^0.8") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "rust-crypto-wasm") (r "^0.3") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "sabre-sdk") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "sawtooth-sdk") (r "^0.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "14347ysiqdy8w8yfdiidplpyb4h2b7k65f2d74b5fxfr976rxchw") (y #t)))
+

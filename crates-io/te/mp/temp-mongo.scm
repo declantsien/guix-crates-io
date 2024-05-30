@@ -1,0 +1,8 @@
+(define-module (crates-io te mp temp-mongo) #:use-module (crates-io))
+
+(define-public crate-temp-mongo-0.1.1 (c (n "temp-mongo") (v "0.1.1") (d (list (d (n "assert2") (r "^0.3.11") (d #t) (k 2)) (d (n "async-std") (r "^1.12.0") (d #t) (k 2)) (d (n "mongodb") (r "^2.7.1") (f (quote ("serde_bytes"))) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1ar6w32h8s9r23nrjfwdfndcd3flfp83x0las92ba5vl6g1k4pm8") (f (quote (("tokio-runtime" "mongodb/tokio-runtime") ("default" "tokio-runtime") ("async-std-runtime" "mongodb/async-std-runtime"))))))
+
+(define-public crate-temp-mongo-0.1.2 (c (n "temp-mongo") (v "0.1.2") (d (list (d (n "assert2") (r "^0.3.11") (d #t) (k 2)) (d (n "async-std") (r "^1.12.0") (d #t) (k 2)) (d (n "mongodb") (r "^2.7.1") (f (quote ("serde_bytes"))) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0wrlwhpinr0zp7nz59pjk44i3msc8lh3avf53q9pg4gzipsww5j8") (f (quote (("tokio-runtime" "mongodb/tokio-runtime") ("default" "tokio-runtime") ("async-std-runtime" "mongodb/async-std-runtime"))))))
+
+(define-public crate-temp-mongo-0.1.3 (c (n "temp-mongo") (v "0.1.3") (d (list (d (n "assert2") (r "^0.3.11") (d #t) (k 2)) (d (n "async-std") (r "^1.12.0") (d #t) (k 2)) (d (n "mongodb") (r "^2.7.1") (f (quote ("serde_bytes"))) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "05yg3pq86cw79khwmdq8yg8f8i6cvd44bah6ciaa1rw73sr0245k") (f (quote (("tokio-runtime" "mongodb/tokio-runtime") ("default" "tokio-runtime") ("async-std-runtime" "mongodb/async-std-runtime"))))))
+

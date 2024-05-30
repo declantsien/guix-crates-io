@@ -1,0 +1,12 @@
+(define-module (crates-io ru st rustfmt-unstable) #:use-module (crates-io))
+
+(define-public crate-rustfmt-unstable-0.1.0 (c (n "rustfmt-unstable") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.21") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1daa1parp89kga2k5k98p2sad7sys77yvbnbcy73afd0f2527080")))
+
+(define-public crate-rustfmt-unstable-0.2.0 (c (n "rustfmt-unstable") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.21") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1447b5yrnwrrr3g4pivmdjrr1wiskwz556p19mb3s8gm9xggdbvx")))
+
+(define-public crate-rustfmt-unstable-0.2.1 (c (n "rustfmt-unstable") (v "0.2.1") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.21") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0y1j2hgbv6l393n4zsr7zifdvhnjyi1s73pa997h4zyf9fs14x49")))
+
+(define-public crate-rustfmt-unstable-0.2.2 (c (n "rustfmt-unstable") (v "0.2.2") (d (list (d (n "cargo_metadata") (r "^0.18.1") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^7.0.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.21") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "03fdphmpq5c5865q8y5vhyb8jahkkysxj8v68q5mv5lsvcawc14m") (f (quote (("default" "auto-resolve")))) (s 2) (e (quote (("auto-resolve" "dep:cargo_metadata"))))))
+
+(define-public crate-rustfmt-unstable-1.0.0 (c (n "rustfmt-unstable") (v "1.0.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^7.0.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.21") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "08c1i1arfp1siyyj9x32znj1vq009xp83ywwx74hdyw9hkcmihhj") (f (quote (("default" "auto-resolve")))) (s 2) (e (quote (("auto-resolve" "dep:cargo_metadata"))))))
+

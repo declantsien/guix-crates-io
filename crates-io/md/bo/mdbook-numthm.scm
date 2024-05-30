@@ -1,0 +1,6 @@
+(define-module (crates-io md bo mdbook-numthm) #:use-module (crates-io))
+
+(define-public crate-mdbook-numthm-0.1.0 (c (n "mdbook-numthm") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.35") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "0fkc084lv0xhn8j3f9knhwr00fx0qjk24k98fm90g4c5clb373d1")))
+
+(define-public crate-mdbook-numthm-0.2.0 (c (n "mdbook-numthm") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.35") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "1h75ac67x6yy2yq8hr8d5mz0lbhm3lybq3cc7pxac820ahpbi8vi")))
+

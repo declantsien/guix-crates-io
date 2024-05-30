@@ -1,0 +1,4 @@
+(define-module (crates-io ac ti actix-plus-auth) #:use-module (crates-io))
+
+(define-public crate-actix-plus-auth-0.0.1 (c (n "actix-plus-auth") (v "0.0.1") (d (list (d (n "actix-plus-error") (r "^0.1.0") (d #t) (k 0)) (d (n "actix-plus-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix-web") (r "^3.3.2") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "argon2") (r "^0.1.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.2.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("v110"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (d #t) (k 0)))) (h "0hq1ndppmm4q9q1l6makaj6vcbbzfgrj27a52c55fakamnkgc153")))
+

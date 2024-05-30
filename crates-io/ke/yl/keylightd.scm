@@ -1,0 +1,10 @@
+(define-module (crates-io ke yl keylightd) #:use-module (crates-io))
+
+(define-public crate-keylightd-1.0.0 (c (n "keylightd") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "evdev") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (f (quote ("user"))) (d #t) (k 0)))) (h "0vqzd3bb0bb1pv265d2lr8hpmpkhxvrnczb1ybwpjbf3dw0bms3i")))
+
+(define-public crate-keylightd-1.0.1 (c (n "keylightd") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "evdev") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (f (quote ("user"))) (d #t) (k 0)))) (h "17ash7az98vjryyvaax77wiafzf85crk3v2pypl69krsdin8swng")))
+
+(define-public crate-keylightd-1.0.2 (c (n "keylightd") (v "1.0.2") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "evdev") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (f (quote ("user"))) (d #t) (k 0)))) (h "0v8bgnmki885blrx4ii9q1dh8dnw7i292m3v2dyd7w0s797yra4x")))
+
+(define-public crate-keylightd-1.1.0 (c (n "keylightd") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "evdev") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (f (quote ("user"))) (d #t) (k 0)))) (h "02dfxmqp1lb0h9xazrnh3lv0x3fpm407zd5npyjaxfmgb2f8w8wn")))
+

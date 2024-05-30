@@ -1,0 +1,6 @@
+(define-module (crates-io hr ek hrekt) #:use-module (crates-io))
+
+(define-public crate-hrekt-0.1.0 (c (n "hrekt") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.26") (d #t) (k 0)) (d (n "governor") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("native-tls" "blocking"))) (d #t) (k 0)) (d (n "spmc") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio") (r "^1.2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-dns-unofficial") (r "^0.4.0") (d #t) (k 0)))) (h "0138gcncbgzv3ndgkwhdb298qffsw0f61gcl0xy3grmpkmxm3kqj")))
+
+(define-public crate-hrekt-0.1.1 (c (n "hrekt") (v "0.1.1") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.26") (d #t) (k 0)) (d (n "governor") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("native-tls" "blocking"))) (d #t) (k 0)) (d (n "spmc") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio") (r "^1.2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-dns-unofficial") (r "^0.4.0") (d #t) (k 0)))) (h "17agiqkcwbb1lfib13fydq7xh1cz7mkyk7l4ai7wixc5q1ap5vl3")))
+

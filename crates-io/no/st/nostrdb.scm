@@ -1,0 +1,24 @@
+(define-module (crates-io no st nostrdb) #:use-module (crates-io))
+
+(define-public crate-nostrdb-0.1.0 (c (n "nostrdb") (v "0.1.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)))) (h "062bymqjpi9fz6dwnz8vk6srbb32c9013w93ml29w97nnqyba85i")))
+
+(define-public crate-nostrdb-0.1.1 (c (n "nostrdb") (v "0.1.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "1mwv8fca2si540nclnl9miid533ivah8jpqnm5m23ywggjmj9xw3")))
+
+(define-public crate-nostrdb-0.1.2 (c (n "nostrdb") (v "0.1.2") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "14bsagpmk88y2h829l6m0cgc4s488icasyl56lg7gvi7hikkhqw1")))
+
+(define-public crate-nostrdb-0.1.3 (c (n "nostrdb") (v "0.1.3") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "1wav0di0h31ia3f62mn7njbk02b5wf4xa33xjq1kf5d7mvgpfhdq")))
+
+(define-public crate-nostrdb-0.1.4 (c (n "nostrdb") (v "0.1.4") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "001x69kw9bixgjns0ixs81gsk2vdxbdpgsskxqask8iwwh3xb3lr")))
+
+(define-public crate-nostrdb-0.1.6 (c (n "nostrdb") (v "0.1.6") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "1zg48hl8skw6q8bwkr8nvhdbkjh6mdc6sd4ha0dmj8lcs9zkkvsi") (f (quote (("bindgen"))))))
+
+(define-public crate-nostrdb-0.2.0 (c (n "nostrdb") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "0c93i39v9g86y701lwcabyjjlir8fmzmyn42r1lqvm9mg6hrbqw5") (f (quote (("bindgen"))))))
+
+(define-public crate-nostrdb-0.3.0 (c (n "nostrdb") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "142rqyxsac4q9dkvph7njq38cf4zmfi1avgjy3qx2b5ixwgm5njr") (f (quote (("bindgen"))))))
+
+(define-public crate-nostrdb-0.3.1 (c (n "nostrdb") (v "0.3.1") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "0m2jdy8jz32rfs465lahkhwzbxxmz0l508jfifsa5799pvs2dngy") (f (quote (("bindgen"))))))
+
+(define-public crate-nostrdb-0.3.2 (c (n "nostrdb") (v "0.3.2") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1x6k13g0187m13gqg8945dhxawvsv8ra6z8nnzya9g6p27q79md4") (f (quote (("bindgen"))))))
+
+(define-public crate-nostrdb-0.3.3 (c (n "nostrdb") (v "0.3.3") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "182f9mvlkk00q9pdqbgn3ivihvhzb1z4qhg8jbs4z5rg4w7917sc") (f (quote (("bindgen"))))))
+

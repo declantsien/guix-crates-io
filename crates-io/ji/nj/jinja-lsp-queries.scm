@@ -1,0 +1,18 @@
+(define-module (crates-io ji nj jinja-lsp-queries) #:use-module (crates-io))
+
+(define-public crate-jinja-lsp-queries-0.1.3 (c (n "jinja-lsp-queries") (v "0.1.3") (d (list (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.5") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "1s75axhgn23509frybbjigxy8hmw2n14mhm20df9pvsln6r7dm3p")))
+
+(define-public crate-jinja-lsp-queries-0.1.5 (c (n "jinja-lsp-queries") (v "0.1.5") (d (list (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.5") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "1xppr9rxrpbcbf4sdax6xyfiw49zxjcdm09d9hb19zgsmkflbv55")))
+
+(define-public crate-jinja-lsp-queries-0.1.6 (c (n "jinja-lsp-queries") (v "0.1.6") (d (list (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.5") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "02zp8s9cva7gqx7vz04dqbsgms63qjbrrwdwvjjzdw8l2cl2azsn")))
+
+(define-public crate-jinja-lsp-queries-0.1.61 (c (n "jinja-lsp-queries") (v "0.1.61") (d (list (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.5") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "1qwmk049kwwss2naq2z2zmm7kq2abgs2zvj0lkfqargcwin5fq54")))
+
+(define-public crate-jinja-lsp-queries-0.1.7 (c (n "jinja-lsp-queries") (v "0.1.7") (d (list (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.6") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "107ab0akvsz5jrnq9nirs1vzmd37b8qxvnykxn2npwwavw6vz7w9") (y #t)))
+
+(define-public crate-jinja-lsp-queries-0.1.70 (c (n "jinja-lsp-queries") (v "0.1.70") (d (list (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.6") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "015p9rk3i92h1drjm7j1y24r5gv8s4mqnva9j90fzn6jbwmarqaa")))
+
+(define-public crate-jinja-lsp-queries-0.1.71 (c (n "jinja-lsp-queries") (v "0.1.71") (d (list (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.6") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "0jsa570jdr10pmz35vi6ppp8d7fywxwbp9899d74k1g3glqhd6l5")))
+
+(define-public crate-jinja-lsp-queries-0.1.80 (c (n "jinja-lsp-queries") (v "0.1.80") (d (list (d (n "ropey") (r "^1.5.0") (d #t) (k 0)) (d (n "tower-lsp") (r "^0.20.0") (f (quote ("proposed"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-jinja2") (r "^0.0.6") (d #t) (k 0)) (d (n "tree-sitter-python") (r "=0.20.4") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.4") (d #t) (k 0)))) (h "1wvasjf86ps3kb28imz3jhpfg94g74z0l4mgx3fg9rw0ganvmqyn")))
+

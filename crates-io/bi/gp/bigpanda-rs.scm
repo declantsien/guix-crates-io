@@ -1,0 +1,6 @@
+(define-module (crates-io bi gp bigpanda-rs) #:use-module (crates-io))
+
+(define-public crate-bigpanda-rs-0.1.0 (c (n "bigpanda-rs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "headers") (r "^0.3.5") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0llpj59k03kxfv110nidjcy6mjr4d68725rl8zxs38ppwk3hr78h")))
+
+(define-public crate-bigpanda-rs-0.1.1 (c (n "bigpanda-rs") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "headers") (r "^0.3.5") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0ch8xkr9mjjlc1q4fpphbqrdk2d727jjwcgvyskqwxrki1afj2hq")))
+

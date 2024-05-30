@@ -1,0 +1,4 @@
+(define-module (crates-io my ce mycelium_experimental) #:use-module (crates-io))
+
+(define-public crate-mycelium_experimental-0.1.0 (c (n "mycelium_experimental") (v "0.1.0") (d (list (d (n "bincode") (r "^1.1.4") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.2") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.7") (k 0)) (d (n "crossbeam-utils") (r "^0.6") (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rayon") (r "^1.2.0") (d #t) (k 2)) (d (n "scopeguard") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("v4"))) (d #t) (k 2)))) (h "1m6s25wr7x875a57py6dqp4gk0ybnb4fi75brxxl0h6drv1flify") (f (quote (("std" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc" "crossbeam-utils/alloc"))))))
+

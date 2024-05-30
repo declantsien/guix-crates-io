@@ -1,0 +1,4 @@
+(define-module (crates-io rg z_ rgz_transport) #:use-module (crates-io))
+
+(define-public crate-rgz_transport-0.1.0 (c (n "rgz_transport") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.9") (d #t) (k 0)) (d (n "regex") (r "^1.8.1") (d #t) (k 0)) (d (n "rgz_msgs") (r "^0.1.0") (d #t) (k 0)) (d (n "socket2") (r "^0.5.2") (f (quote ("all"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "uuid") (r "^1.3.1") (f (quote ("v4"))) (d #t) (k 0)) (d (n "whoami") (r "^1.4.0") (d #t) (k 0)) (d (n "zmq") (r "^0.10.0") (d #t) (k 0)))) (h "00547x6n654zp3q4qnp666dhapph2x0dramgk4ykrsiqarw0y5hn")))
+

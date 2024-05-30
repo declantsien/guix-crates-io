@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# o ojo) #:use-module (crates-io))
+
+(define-public crate-ojo-0.1.0 (c (n "ojo") (v "0.1.0") (d (list (d (n "askama_escape") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "colored") (r "^1.6") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.10") (d #t) (k 0)) (d (n "libojo") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ojo_diff") (r "^0.1.0") (d #t) (k 0)) (d (n "ojo_graph") (r "^0.1.0") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)))) (h "1n1x06ycmlvgs5v9wkp3hf085h8wvqnq6m5pn172iyhrkdkkgldn")))
+
+(define-public crate-ojo-0.1.1 (c (n "ojo") (v "0.1.1") (d (list (d (n "askama_escape") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "colored") (r "^1.6") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.10") (d #t) (k 0)) (d (n "libojo") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ojo_diff") (r "^0.1.0") (d #t) (k 0)) (d (n "ojo_graph") (r "^0.1.0") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)))) (h "0jlz1gb0rsrwpvprxg1mddqg2s3gwdyz9wpc6x8b0j780awdfah0")))
+

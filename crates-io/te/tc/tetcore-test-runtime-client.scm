@@ -1,0 +1,4 @@
+(define-module (crates-io te tc tetcore-test-runtime-client) #:use-module (crates-io))
+
+(define-public crate-tetcore-test-runtime-client-2.0.0 (c (n "tetcore-test-runtime-client") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "futures") (r "^0.3.9") (d #t) (k 0)) (d (n "tc-block-builder") (r "^0.8.0") (d #t) (k 0)) (d (n "tc-client-api") (r "^2.0.0") (d #t) (k 0)) (d (n "tc-consensus") (r "^0.8.0") (d #t) (k 0)) (d (n "tc-light") (r "^2.0.0") (d #t) (k 0)) (d (n "tc-service") (r "^0.8.0") (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "tetcore-test-client") (r "^2.0.0") (d #t) (k 0)) (d (n "tetcore-test-runtime") (r "^2.0.0") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-blockchain") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-consensus") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)))) (h "1vbh0cb1xzaxixrjxlwchm4p6jgv2zaj7zc96s0xk5jf504qg1fp")))
+

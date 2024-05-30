@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# s swf) #:use-module (crates-io))
+
+(define-public crate-swf-0.1.0 (c (n "swf") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "libflate") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "xz2") (r "^0.1.5") (o #t) (d #t) (k 0)))) (h "1dlpd9war1ixayvr4pp4n3sdplmbhqhhjnp0yq2hk5rx1a4hrvq3") (f (quote (("lzma-support" "xz2") ("default" "libflate"))))))
+
+(define-public crate-swf-0.1.1 (c (n "swf") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "libflate") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "xz2") (r "^0.1.5") (o #t) (d #t) (k 0)))) (h "0yvlrgd5dk7wccbjv86jl2f2bmmifhgzlsz7103k6b38mk7wq3pg") (f (quote (("lzma-support" "xz2") ("default" "libflate"))))))
+
+(define-public crate-swf-0.1.2 (c (n "swf") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "libflate") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "xz2") (r "^0.1.5") (o #t) (d #t) (k 0)))) (h "09qy6cx45id8cbraaa9xbp0zlki30in2sh140my0w847cdp0ym8w") (f (quote (("lzma-support" "xz2") ("default" "libflate"))))))
+
+(define-public crate-swf-0.2.0 (c (n "swf") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "bitstream-io") (r "^1.5.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.31") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "libflate") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "0xdjk074nm3ib1a53dvd0s6aa4l1cvxvvzlyj6bddhq2ycjix7in") (f (quote (("lzma" "lzma-rs") ("default" "flate2" "lzma"))))))
+

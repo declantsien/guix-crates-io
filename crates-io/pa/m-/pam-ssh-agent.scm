@@ -1,0 +1,8 @@
+(define-module (crates-io pa m- pam-ssh-agent) #:use-module (crates-io))
+
+(define-public crate-pam-ssh-agent-0.3.0 (c (n "pam-ssh-agent") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.9") (d #t) (k 0)) (d (n "pam-bindings") (r "^0.1.1") (d #t) (k 0)) (d (n "signature") (r "^1.6.4") (d #t) (k 0)) (d (n "ssh-agent-client-rs") (r "^0.5.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.5.1") (f (quote ("rsa" "dsa" "ed25519" "ecdsa" "p256" "p384"))) (d #t) (k 0)) (d (n "syslog") (r "^6.1.0") (d #t) (k 0)) (d (n "time") (r "=0.3.23") (d #t) (k 0)))) (h "0kcy6s1nljyq785aajwvr6sfdivd2af7pk16vcv8c2iwns8slc3d")))
+
+(define-public crate-pam-ssh-agent-0.4.0 (c (n "pam-ssh-agent") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.10") (d #t) (k 0)) (d (n "pam-bindings") (r "^0.1.1") (d #t) (k 0)) (d (n "signature") (r "^2.1.0") (d #t) (k 0)) (d (n "ssh-agent-client-rs") (r "^0.9.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.6.2") (f (quote ("crypto"))) (d #t) (k 0)) (d (n "syslog") (r "^6.1.0") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)))) (h "11h23x7srh452czr9glhs0m1my5i2nm2n69yfbp839pmpniihqiw")))
+
+(define-public crate-pam-ssh-agent-0.5.0 (c (n "pam-ssh-agent") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.13") (d #t) (k 0)) (d (n "pam-bindings") (r "^0.1.1") (d #t) (k 0)) (d (n "signature") (r "^2.2.0") (d #t) (k 0)) (d (n "ssh-agent-client-rs") (r "^0.9.1") (d #t) (k 0)) (d (n "ssh-key") (r "^0.6.5") (f (quote ("crypto"))) (d #t) (k 0)) (d (n "syslog") (r "^6.1.0") (d #t) (k 0)))) (h "1phg1dpz163glq8dz5m462xi5sw2zbhz8mxbvk4sm08mihpr3472")))
+

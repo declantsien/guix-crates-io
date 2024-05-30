@@ -1,0 +1,8 @@
+(define-module (crates-io bi na binary-data-schema) #:use-module (crates-io))
+
+(define-public crate-binary-data-schema-0.1.0 (c (n "binary-data-schema") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0zp0bna0vffipixmcd8cc2d314l79qw1jy0flpkbmcr8nqhcxybz")))
+
+(define-public crate-binary-data-schema-0.1.1 (c (n "binary-data-schema") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1nk9hnxa7cx3sgz56gpbsf51j2bgfwx9ni8rhcjql8xqkbl01wr1")))
+
+(define-public crate-binary-data-schema-0.2.0 (c (n "binary-data-schema") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "valico") (r "^3.6") (d #t) (k 2)))) (h "1lc8r2ik22w1kh710xmmyn9d271snnm68x4qb8p95mpbgdjgpiyg")))
+

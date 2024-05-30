@@ -1,0 +1,6 @@
+(define-module (crates-io xm c1 xmc1100-hal) #:use-module (crates-io))
+
+(define-public crate-xmc1100-hal-0.1.0 (c (n "xmc1100-hal") (v "0.1.0") (d (list (d (n "bare-metal") (r "^0.2.4") (f (quote ("const-fn"))) (d #t) (k 0)) (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cc") (r "^1.0.25") (d #t) (k 1)) (d (n "cortex-m") (r "^0.6.0") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.8") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "void") (r "^1.0.2") (k 0)) (d (n "xmc1100") (r "^0.1.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "1mlsx543hdhqkrq7ispyq4n6vdb1py26hh3y6la6wvazciy4n4gi")))
+
+(define-public crate-xmc1100-hal-0.2.0 (c (n "xmc1100-hal") (v "0.2.0") (d (list (d (n "bare-metal") (r "^0.2.4") (f (quote ("const-fn"))) (d #t) (k 0)) (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cc") (r "^1.0.25") (d #t) (k 1)) (d (n "cortex-m") (r "^0.6.0") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.8") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "void") (r "^1.0.2") (k 0)) (d (n "xmc1100") (r "^0.2.0") (f (quote ("rt"))) (d #t) (k 0)))) (h "11kixl03ds66lka5rkapjgijyjxpi1lqshirayh3m1hx2m18pldz")))
+

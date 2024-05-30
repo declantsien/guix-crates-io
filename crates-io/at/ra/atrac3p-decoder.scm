@@ -1,0 +1,8 @@
+(define-module (crates-io at ra atrac3p-decoder) #:use-module (crates-io))
+
+(define-public crate-atrac3p-decoder-0.1.0 (c (n "atrac3p-decoder") (v "0.1.0") (d (list (d (n "bitstream-io") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "riff-wave-reader") (r "^0.1") (d #t) (k 0)) (d (n "rodio") (r "^0.11") (k 0)) (d (n "rustdct") (r "^0.4") (d #t) (k 0)) (d (n "take_mut") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1h58bll8r5hjgyjikxlqfm1036k0k9fgw6jrz3i5ag6j69ykrnbm")))
+
+(define-public crate-atrac3p-decoder-0.1.1 (c (n "atrac3p-decoder") (v "0.1.1") (d (list (d (n "bitstream-io") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "riff-wave-reader") (r "^0.1") (d #t) (k 0)) (d (n "rodio") (r "^0.11") (k 0)) (d (n "rustdct") (r "^0.4") (d #t) (k 0)) (d (n "take_mut") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1h5agih8581qvncd83jkd9jmbyy7c6ivvy10hqa4bp3jszi6q8dd")))
+
+(define-public crate-atrac3p-decoder-0.1.2 (c (n "atrac3p-decoder") (v "0.1.2") (d (list (d (n "bitstream-io") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "riff-wave-reader") (r "^0.1") (d #t) (k 0)) (d (n "rodio") (r "^0.11") (k 0)) (d (n "rustdct") (r "^0.4") (d #t) (k 0)) (d (n "take_mut") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0f1c8gzfmlnx9b2w10kc15xzrdahxk4zlbm4kkalg0rsbgxkyp03")))
+

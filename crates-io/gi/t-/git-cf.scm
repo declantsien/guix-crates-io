@@ -1,0 +1,8 @@
+(define-module (crates-io gi t- git-cf) #:use-module (crates-io))
+
+(define-public crate-git-cf-0.1.0 (c (n "git-cf") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha2") (r "^0.9.3") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1kpi4k7gl5qwds8khcba5q843c1zmcccbm8fdf9a8g7jf4v6lrv7")))
+
+(define-public crate-git-cf-0.1.1 (c (n "git-cf") (v "0.1.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha2") (r "^0.9.3") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0cxfvq4b85k54smh4znzyr3y95cpm6111mlbqy7nvxzynw1w6sf7")))
+
+(define-public crate-git-cf-0.1.2 (c (n "git-cf") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha2") (r "^0.9.3") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1yxfbffqvdz4ngxzr5k65645rbw3l72hipq75k8365d0wlcqixzc")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io wa yb waybackmachine-client) #:use-module (crates-io))
+
+(define-public crate-waybackmachine-client-0.2.0 (c (n "waybackmachine-client") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "mockito") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.24") (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.4") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0jar8cl2ziks2d4dln9vpshg6c2ypmnf74ajvbczqfw7ninkyr0y")))
+
+(define-public crate-waybackmachine-client-0.3.0 (c (n "waybackmachine-client") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "mockito") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.24") (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.4") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1jaw51a0gr75avq6yw23qyxryfwjvsdm5zrc7v67mr3598zfdsfj")))
+

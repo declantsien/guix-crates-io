@@ -1,0 +1,28 @@
+(define-module (crates-io li br librespot-metadata) #:use-module (crates-io))
+
+(define-public crate-librespot-metadata-0.0.0 (c (n "librespot-metadata") (v "0.0.0") (h "1yj5lgsj70ypbfl03lv7w913a9lclzvcmh1hphmwnlc5k6h9s0i9")))
+
+(define-public crate-librespot-metadata-0.1.0 (c (n "librespot-metadata") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "librespot-core") (r "^0.1.0") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.1.0") (d #t) (k 0)) (d (n "linear-map") (r "^1.2") (d #t) (k 0)) (d (n "protobuf") (r "^2.8.1") (d #t) (k 0)))) (h "1xrppx3xvpfxn9yjziv8h5118nr7i1gwzvn35gf04qjbcsiq9sn4")))
+
+(define-public crate-librespot-metadata-0.1.1 (c (n "librespot-metadata") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "librespot-core") (r "^0.1.1") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.1.1") (d #t) (k 0)) (d (n "linear-map") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.8.1") (d #t) (k 0)))) (h "0q18yslpcs8wsa2mjyalx8xrgfspl1ysiqbw2nhwp0vxxdw3hhpd")))
+
+(define-public crate-librespot-metadata-0.1.2 (c (n "librespot-metadata") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "librespot-core") (r "^0.1.2") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.1.2") (d #t) (k 0)) (d (n "linear-map") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "~2.14.0") (d #t) (k 0)))) (h "1yl756gik7yzdiylpbymamvz6kh4np3sk0lacxs72h3mpkr5cvag")))
+
+(define-public crate-librespot-metadata-0.1.3 (c (n "librespot-metadata") (v "0.1.3") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "librespot-core") (r "^0.1.3") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.1.3") (d #t) (k 0)) (d (n "linear-map") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "~2.14.0") (d #t) (k 0)))) (h "04xsily2bid4pszfx6r0hwxj0w3zr0s1zkj0ricvl2k46sza8lq5")))
+
+(define-public crate-librespot-metadata-0.1.5 (c (n "librespot-metadata") (v "0.1.5") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "librespot-core") (r "^0.1.5") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.1.5") (d #t) (k 0)) (d (n "linear-map") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "~2.14.0") (d #t) (k 0)))) (h "0vsxf8bn5br5pgdvzmpa5a5a9rqs85ycagdh4fs6ad21239qlsma")))
+
+(define-public crate-librespot-metadata-0.1.6 (c (n "librespot-metadata") (v "0.1.6") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "librespot-core") (r "^0.1.6") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.1.6") (d #t) (k 0)) (d (n "linear-map") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "~2.14.0") (d #t) (k 0)))) (h "13dswphpaayccdrvxkj86cfnpv3rj4gl67711gp1qb5j8q7d2hvn")))
+
+(define-public crate-librespot-metadata-0.2.0 (c (n "librespot-metadata") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "librespot-core") (r "^0.2.0") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "~2.14.0") (d #t) (k 0)))) (h "0ixg23ck98rjnshp6xil4lbig1sxpbg0blvyy6pdrnq1v7jpq5c4")))
+
+(define-public crate-librespot-metadata-0.3.0 (c (n "librespot-metadata") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "librespot-core") (r "^0.3.0") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.14.0") (d #t) (k 0)))) (h "067qsw0xxc5b59kgwrz9la78813yd38a6yi8wrqxfa09yxrw8k0w")))
+
+(define-public crate-librespot-metadata-0.3.1 (c (n "librespot-metadata") (v "0.3.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "librespot-core") (r "^0.3.1") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.14.0") (d #t) (k 0)))) (h "1kb61dnr9zbygszs1arscy5y952damn9l14ayxg5cbmdnfdw4jk2")))
+
+(define-public crate-librespot-metadata-0.4.0 (c (n "librespot-metadata") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "librespot-core") (r "^0.4.0") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.14.0") (d #t) (k 0)))) (h "00igf0jj4j2nb50z3q5v8qshyfl89jwn7iz5d4lj4x8y8xlvirds") (y #t)))
+
+(define-public crate-librespot-metadata-0.4.1 (c (n "librespot-metadata") (v "0.4.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "librespot-core") (r "^0.4.1") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.14.0") (d #t) (k 0)))) (h "1x8qvrb2lkwymxcannfa3s6586ibpa9zg2bma8rpw8r1jk2kfiqp")))
+
+(define-public crate-librespot-metadata-0.4.2 (c (n "librespot-metadata") (v "0.4.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "librespot-core") (r "^0.4.2") (d #t) (k 0)) (d (n "librespot-protocol") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.14.0") (d #t) (k 0)))) (h "07626b84cghd3jabdvyqhn1v0lax9p1hhz6ldw2r4l6brcgkd03b")))
+

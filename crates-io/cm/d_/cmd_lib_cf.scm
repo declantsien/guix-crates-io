@@ -1,0 +1,12 @@
+(define-module (crates-io cm d_ cmd_lib_cf) #:use-module (crates-io))
+
+(define-public crate-cmd_lib_cf-1.3.0 (c (n "cmd_lib_cf") (v "1.3.0") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 2)) (d (n "cmd_lib_macros") (r "^1.3.0") (d #t) (k 0)) (d (n "faccess") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "os_pipe") (r "^0.9") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "1njih7ar78l0h6yh20c8yj9337mffla0jnxwgjlm9a3f9cymc5qy")))
+
+(define-public crate-cmd_lib_cf-1.3.1 (c (n "cmd_lib_cf") (v "1.3.1") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 2)) (d (n "cmd_lib_macros") (r "^1.3.0") (d #t) (k 0)) (d (n "faccess") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "os_pipe") (r "^0.9") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "1pqhd8c75y7ir63gg2k9lrvfk4vwzv4sh6i04r2l7irpz29dqx85")))
+
+(define-public crate-cmd_lib_cf-1.3.2 (c (n "cmd_lib_cf") (v "1.3.2") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 2)) (d (n "cmd_lib_cf_macros") (r "^1.3.1") (d #t) (k 0)) (d (n "faccess") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "os_pipe") (r "^0.9") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0an64v20z5hr29gj7668f0wnf674wnzl8jklmqjzan98fs8lpzr5")))
+
+(define-public crate-cmd_lib_cf-1.3.3 (c (n "cmd_lib_cf") (v "1.3.3") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 2)) (d (n "cmd_lib_cf_macros") (r "^1.3.1") (d #t) (k 0)) (d (n "faccess") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "os_pipe") (r "^0.9") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "13gr7ndzl6nw4wxfskb993jnnrb4rhh1y15ljhqp8bhbdzjiv03q")))
+
+(define-public crate-cmd_lib_cf-1.3.4 (c (n "cmd_lib_cf") (v "1.3.4") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 2)) (d (n "cmd_lib_cf_macros") (r "^1.3.1") (d #t) (k 0)) (d (n "faccess") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "os_pipe") (r "^0.9") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0074lshxja23wy7li14a3h7r9bc1lpfq7xh14w6bdg41zwf9b3wb")))
+

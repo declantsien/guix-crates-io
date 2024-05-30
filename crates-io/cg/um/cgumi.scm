@@ -1,0 +1,6 @@
+(define-module (crates-io cg um cgumi) #:use-module (crates-io))
+
+(define-public crate-cgumi-0.0.1 (c (n "cgumi") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "zbus") (r "^3.13.1") (o #t) (d #t) (k 0)))) (h "15inhi429xz2qj7xh4k8wbwfx1y91jwf2lkl891lmk7qjah568vc") (f (quote (("systemd" "zbus") ("default" "systemd"))))))
+
+(define-public crate-cgumi-0.0.2 (c (n "cgumi") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "zbus") (r "^3.13.1") (o #t) (d #t) (k 0)))) (h "0agbalih7jsa7jf9bwspayrf0ba1camywap6h58hcajyxn29cxmb") (f (quote (("systemd" "zbus") ("default" "systemd"))))))
+

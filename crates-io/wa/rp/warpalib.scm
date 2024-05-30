@@ -1,0 +1,10 @@
+(define-module (crates-io wa rp warpalib) #:use-module (crates-io))
+
+(define-public crate-warpalib-0.1.0 (c (n "warpalib") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3.6") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0f8j7b4da25a4i1lh0g93cfawprwsfgdblnqs1822qi7i0wa8nrv")))
+
+(define-public crate-warpalib-0.2.0 (c (n "warpalib") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3.6") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0kz0gdf257pxam46kakyy5n3ivd2bxrlgpxsakbmik0459zazvpd") (s 2) (e (quote (("glob" "dep:glob"))))))
+
+(define-public crate-warpalib-0.3.0 (c (n "warpalib") (v "0.3.0") (d (list (d (n "criterion") (r "^0.3.6") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0f4jks5j42h09zljzr8q1fawm08ssgmn37yrgb88908yw5vladfs") (s 2) (e (quote (("glob" "dep:glob"))))))
+
+(define-public crate-warpalib-0.3.1 (c (n "warpalib") (v "0.3.1") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.150") (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0ka4pdy8lj4sm9204yh2nbhgjs5136ji3lpgan4c31h66qbc89pc") (s 2) (e (quote (("glob" "dep:glob"))))))
+

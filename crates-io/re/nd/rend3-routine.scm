@@ -1,0 +1,4 @@
+(define-module (crates-io re nd rend3-routine) #:use-module (crates-io))
+
+(define-public crate-rend3-routine-0.3.0 (c (n "rend3-routine") (v "0.3.0") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "glam") (r "^0.20.0") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "include_dir") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ordered-float") (r "^2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "profiling") (r "^1") (k 0)) (d (n "rend3") (r "^0.3.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.12") (d #t) (k 0)) (d (n "wgpu-profiler") (r "^0.8.0") (d #t) (k 0)))) (h "1078why5j738i22p5wawdkwql7962ha8q0c38ydsmvxfqiwxd7cn") (r "1.57")))
+

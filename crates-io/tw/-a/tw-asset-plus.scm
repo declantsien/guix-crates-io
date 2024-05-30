@@ -1,0 +1,8 @@
+(define-module (crates-io tw -a tw-asset-plus) #:use-module (crates-io))
+
+(define-public crate-tw-asset-plus-0.1.0 (c (n "tw-asset-plus") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^0.16.5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.5") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16.5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.9.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)))) (h "0dy4n2q6d78i2q5iql8bzbf55viwjq1q6dk019d27sr7kpaz2m58") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-tw-asset-plus-0.1.1 (c (n "tw-asset-plus") (v "0.1.1") (d (list (d (n "cosmwasm-schema") (r "^0.16.5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.5") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16.5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.9.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)))) (h "0hkw08q1plds2r71ff12klr6mvp8v7j51jlv6y75rnzjqdjn2rz5") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-tw-asset-plus-0.1.2 (c (n "tw-asset-plus") (v "0.1.2") (d (list (d (n "cosmwasm-schema") (r "^0.16.5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.7") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16.7") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.9.1") (d #t) (k 0)) (d (n "cw20") (r "^0.9.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)))) (h "1s8righ4zfh9gmghzqrbqr6m99c4wyr8a1m8i96anbn426nai7rl") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ko mo komootgpx) #:use-module (crates-io))
+
+(define-public crate-komootgpx-0.1.0 (c (n "komootgpx") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "geo-types") (r "^0.7.12") (d #t) (k 0)) (d (n "gpx") (r "^0.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)))) (h "00czh2lfbm9ypsnn16csxm3kxhrmhbmx12yr1xbvaflabw7kyikj")))
+
+(define-public crate-komootgpx-0.2.0 (c (n "komootgpx") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "geo-types") (r "^0.7.12") (d #t) (k 0)) (d (n "gpx") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.9.4") (d #t) (k 0)))) (h "1za587chrqpkz6n0a06d49qs6xq4q4mflp2issh106lvixrc88pz")))
+

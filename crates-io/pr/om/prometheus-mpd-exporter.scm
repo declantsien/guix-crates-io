@@ -1,0 +1,4 @@
+(define-module (crates-io pr om prometheus-mpd-exporter) #:use-module (crates-io))
+
+(define-public crate-prometheus-mpd-exporter-0.1.0 (c (n "prometheus-mpd-exporter") (v "0.1.0") (d (list (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-mpd") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "getset") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "parse-display") (r "^0.4") (d #t) (k 0)) (d (n "prometheus_exporter_base") (r "^1.1") (f (quote ("hyper_server"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1m5wc49z235zqx4dwf2b39394sw0fkwq5hffldmj2a9szz68yhsk")))
+

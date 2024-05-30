@@ -1,0 +1,4 @@
+(define-module (crates-io gi ld gildlab-cli) #:use-module (crates-io))
+
+(define-public crate-gildlab-cli-0.1.0 (c (n "gildlab-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.3") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "graphql_client") (r "^0.12.0") (d #t) (k 0)) (d (n "multihash") (r "^0.18.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1lwd82zg8zicjnkc84f33wpplw827y3r0r1k432dx4v1118rmhms")))
+

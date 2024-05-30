@@ -1,0 +1,24 @@
+(define-module (crates-io as yn async-http1-lite) #:use-module (crates-io))
+
+(define-public crate-async-http1-lite-0.0.0 (c (n "async-http1-lite") (v "0.0.0") (h "1p4v45sqffs45zhrfs7310hqbdafc5174pdif3w8g7ha9yiak4bi")))
+
+(define-public crate-async-http1-lite-0.1.0 (c (n "async-http1-lite") (v "0.1.0") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("timeoutable"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "http") (r "^0.2") (k 0)))) (h "0xr8z4s9m25n37mncnlllp6m7d6232faf0rd2jalwr3242qs72jf")))
+
+(define-public crate-async-http1-lite-0.1.1 (c (n "async-http1-lite") (v "0.1.1") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("timeoutable"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "http") (r "^0.2") (k 0)))) (h "1wl4y62hbf0vzhg6k73y8991b6q8hddnnky319pivpa50qd2i23a")))
+
+(define-public crate-async-http1-lite-0.1.2 (c (n "async-http1-lite") (v "0.1.2") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("timeoutable"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "http") (r "^0.2") (k 0)))) (h "1fqdvjp9ibmmmchw677wkn5j4v1mlg0mchzljd0v2jvpa55p4bir")))
+
+(define-public crate-async-http1-lite-0.1.3 (c (n "async-http1-lite") (v "0.1.3") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("timeoutable"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "http") (r "^0.2") (k 0)))) (h "11d10f6m1cap5brn83l42zjjdm6pc513wyirp8zgm6x1yfg4hmmv")))
+
+(define-public crate-async-http1-lite-0.1.4 (c (n "async-http1-lite") (v "0.1.4") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("timeoutable"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "http") (r "^0.2") (k 0)))) (h "00q6fyhz34k7c4z26yx56zjhkp6kgrvz2r4wkqsxrilc1xh1mddd")))
+
+(define-public crate-async-http1-lite-0.1.5 (c (n "async-http1-lite") (v "0.1.5") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("timeoutable"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "http") (r "^0.2") (k 0)))) (h "1cd09zch7jr207g3gyzvdjcxr30qi3493650apfcqaycdyixnxw3")))
+
+(define-public crate-async-http1-lite-0.2.0 (c (n "async-http1-lite") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (k 0)) (d (n "cfg-if") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (f (quote ("std"))) (k 2)) (d (n "futures-x-io") (r "^0.1") (o #t) (k 0)) (d (n "futures-x-io-timeoutable") (r "^0.1") (o #t) (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("io-util"))) (k 2)))) (h "093qyxm967cbqb963sr42na5zvmmjn2zhpqqawx8h0s49f9xj9xa") (f (quote (("tokio_io" "futures-x-io/tokio_io_util" "futures-x-io-timeoutable/tokio_io") ("futures_io" "futures-x-io/futures_util_io" "futures-x-io-timeoutable/futures_io"))))))
+
+(define-public crate-async-http1-lite-0.3.0 (c (n "async-http1-lite") (v "0.3.0") (d (list (d (n "async-sleep") (r "^0.4") (f (quote ("rw"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-util") (r "^0.3") (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "http1-spec") (r "^0.3") (k 0)) (d (n "async-sleep") (r "^0.4") (f (quote ("impl_async_io"))) (k 2)) (d (n "futures-lite") (r "^1") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 2)))) (h "1bmd8qs9bapcldz4fpghifv24a764p22af6p9i47pgm0hn8iwzb1")))
+
+(define-public crate-async-http1-lite-0.3.1 (c (n "async-http1-lite") (v "0.3.1") (d (list (d (n "async-sleep") (r "^0.4") (f (quote ("rw"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-io") (r "^0.3") (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "http1-spec") (r "^0.3") (k 0)) (d (n "async-sleep") (r "^0.4") (f (quote ("impl_async_io"))) (k 2)) (d (n "futures-lite") (r "^1") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 2)))) (h "1w91xcrpyvz5g84sksqngd4sl9r569cnxm8569avfypfl9gdg9js")))
+
+(define-public crate-async-http1-lite-0.3.2 (c (n "async-http1-lite") (v "0.3.2") (d (list (d (n "async-sleep") (r "^0.4") (f (quote ("rw"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures-io") (r "^0.3") (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "http1-spec") (r "^0.3") (k 0)) (d (n "async-sleep") (r "^0.4") (f (quote ("impl_async_io"))) (k 2)) (d (n "futures-lite") (r "^1") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 2)))) (h "0qp2v8pahxs6ahvn018g4s74c9595jkp5ijvqn2178hi9b51mc55")))
+

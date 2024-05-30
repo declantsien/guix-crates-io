@@ -1,0 +1,10 @@
+(define-module (crates-io fi le file_pickup) #:use-module (crates-io))
+
+(define-public crate-file_pickup-0.1.0 (c (n "file_pickup") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cocoa") (r "^0.24.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "windows") (r "^0.40.0") (f (quote ("Win32_Foundation" "Win32_UI_Shell" "Win32_System_DataExchange"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1c7ipx2zcdxwxjm113scq573sngsnqd5qmhng3m6aanvb8xqs73w") (y #t)))
+
+(define-public crate-file_pickup-0.1.1 (c (n "file_pickup") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cocoa") (r "^0.24.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "windows") (r "^0.40.0") (f (quote ("Win32_Foundation" "Win32_UI_Shell" "Win32_System_DataExchange"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "08x08gx3xzq97sg1py5qx8pnincgy8hfz86x4iy983i6ziziwc4y") (y #t)))
+
+(define-public crate-file_pickup-0.1.2 (c (n "file_pickup") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cocoa") (r "^0.24.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "windows") (r "^0.40.0") (f (quote ("Win32_Foundation" "Win32_UI_Shell" "Win32_System_DataExchange"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0a1w3ikc4ydgm9824qykhjic8ifyx51kydl24cfaaxbmda4kga6f")))
+
+(define-public crate-file_pickup-0.1.3 (c (n "file_pickup") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cocoa") (r "^0.24.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "windows") (r "^0.40.0") (f (quote ("Win32_Foundation" "Win32_UI_Shell" "Win32_System_DataExchange"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0c3f3bbc0ag9plrlqv5pl2g2pj8fmvjrc0mbinh8004hj2nbjwvc")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargolifter-storage-s3) #:use-module (crates-io))
+
+(define-public crate-cargolifter-storage-s3-0.1.0 (c (n "cargolifter-storage-s3") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-config") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "aws-types") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "07mmfvrl1xwdpaj8pngpjy9390k5xdla7ipcbvl7077w6pl9xmk7")))
+
+(define-public crate-cargolifter-storage-s3-0.2.0 (c (n "cargolifter-storage-s3") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-config") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "aws-types") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1l2c6ac281a6jzgd3landbqlhk3bxn55asgs4496gv4290xfq0z0")))
+
+(define-public crate-cargolifter-storage-s3-0.3.0 (c (n "cargolifter-storage-s3") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-config") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "aws-types") (r "^0.0.26-alpha") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1z0cbikv9s3ljd00mx7sfasrrm0dklf9y855nglpcl22v375bl79")))
+
+(define-public crate-cargolifter-storage-s3-0.3.1 (c (n "cargolifter-storage-s3") (v "0.3.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-config") (r "^0.2") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.2") (d #t) (k 0)) (d (n "aws-types") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0xrzrvlq92l6fx2k9x6l9h599gxaxnnbiw1qyid8mnvajh0p27w6")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io te tc tetcore-fabric-rpc-support) #:use-module (crates-io))
+
+(define-public crate-tetcore-fabric-rpc-support-2.0.1 (c (n "tetcore-fabric-rpc-support") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (d #t) (k 0)) (d (n "fabric-system") (r "^2.0.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.0") (f (quote ("compat"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "tc-rpc-api") (r "^0.8.0") (d #t) (k 0)) (d (n "tetcore-storage") (r "^2.0.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-client-transports") (r "^15.1.0") (f (quote ("http"))) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 2)))) (h "0jilfgiq00702ln94plspd9cv87ydapkjhhg5700ksv2ljrpi9pk")))
+

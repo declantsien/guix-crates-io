@@ -1,0 +1,8 @@
+(define-module (crates-io se mt semtexzv-ipfsapi) #:use-module (crates-io))
+
+(define-public crate-semtexzv-ipfsapi-0.4.0 (c (n "semtexzv-ipfsapi") (v "0.4.0") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1spfv7vrkkr4j7xz3ypffbp2ksrq68nmipnkrzi9zcrr5kz9mh76")))
+
+(define-public crate-semtexzv-ipfsapi-0.4.1-alpha.1 (c (n "semtexzv-ipfsapi") (v "0.4.1-alpha.1") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1sj0vr3ic66a5phqk8zxifbwf65q7bln88jrj3s6j2ykb921dvkr")))
+
+(define-public crate-semtexzv-ipfsapi-0.4.1-alpha.2 (c (n "semtexzv-ipfsapi") (v "0.4.1-alpha.2") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0fkdxhb75ahnrgiva6j9ywzgfhbfs6r98ar2a2ggvgbw835hwgbh")))
+

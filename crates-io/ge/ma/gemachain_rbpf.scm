@@ -1,0 +1,4 @@
+(define-module (crates-io ge ma gemachain_rbpf) #:use-module (crates-io))
+
+(define-public crate-gemachain_rbpf-0.2.14 (c (n "gemachain_rbpf") (v "0.2.14") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "combine") (r "^3.8.1") (d #t) (k 0)) (d (n "elf") (r "^0.0.10") (d #t) (k 2)) (d (n "goblin") (r "^0.4.2") (d #t) (k 0)) (d (n "hash32") (r "^0.1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "rustc-demangle") (r "^0.1") (d #t) (k 0)) (d (n "scroll") (r "^0.10.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "version_check") (r "^0.9") (d #t) (k 1)))) (h "08mgjq9989ipy6v9nmc5s8qkrn6fj122i7gdj0jwc53mw5ircxyn")))
+

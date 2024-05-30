@@ -1,0 +1,8 @@
+(define-module (crates-io tp -b tp-blockchain) #:use-module (crates-io))
+
+(define-public crate-tp-blockchain-0.0.0 (c (n "tp-blockchain") (v "0.0.0") (h "1j0v7v6n0na3bd03hmsp56q5l1b9m970d716bzp8pzqp52xf482z") (y #t)))
+
+(define-public crate-tp-blockchain-2.0.1 (c (n "tp-blockchain") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "futures") (r "^0.3.9") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "lru") (r "^0.6.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "tetcore-database") (r "^2.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.1") (d #t) (k 0)) (d (n "tp-consensus") (r "^0.8.1") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.1") (d #t) (k 0)) (d (n "tp-state-machine") (r "^0.8.1") (d #t) (k 0)))) (h "0q290i5m0j5vvnla0njsdqc7dw67n42l958gqr80ak9mqfbn8pij")))
+
+(define-public crate-tp-blockchain-2.0.2 (c (n "tp-blockchain") (v "2.0.2") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "futures") (r "^0.3.9") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "lru") (r "^0.6.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "tetcore-database") (r "^2.0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-consensus") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-state-machine") (r "^0.8.2") (d #t) (k 0)))) (h "0x4j3vjrd64g90bf6lv8zx04n589l689zpp1zdcd4wiqh33h7qx2")))
+

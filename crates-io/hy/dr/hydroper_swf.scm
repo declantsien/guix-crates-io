@@ -1,0 +1,4 @@
+(define-module (crates-io hy dr hydroper_swf) #:use-module (crates-io))
+
+(define-public crate-hydroper_swf-0.3.0 (c (n "hydroper_swf") (v "0.3.0") (d (list (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "bitstream-io") (r "^2.3.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.5") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.34") (d #t) (k 0)) (d (n "enum-map") (r "^2.7.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.30") (o #t) (d #t) (k 0)) (d (n "libflate") (r "^2.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num-derive") (r "^0.4.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.19") (d #t) (k 0)) (d (n "simple_asn1") (r "^0.6.2") (d #t) (k 0)))) (h "0iyz3k4lsdkmg6ayvdh3h9ifb4bfmbl6fxxc2kzfpw3gzprv6zgz") (f (quote (("lzma" "lzma-rs") ("default" "flate2" "lzma"))))))
+

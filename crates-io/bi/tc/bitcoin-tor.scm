@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-tor) #:use-module (crates-io))
+
+(define-public crate-bitcoin-tor-0.1.12-alpha.0 (c (n "bitcoin-tor") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-net") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-service") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-support") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "libevent") (r "^0.1.0") (d #t) (k 0)) (d (n "libevent-sys") (r "^0.2.6") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "00d7p6gqvnpi34b4l7ykl16hik97344ls826j83lssmwsgl15vwm")))
+
+(define-public crate-bitcoin-tor-0.1.16-alpha.0 (c (n "bitcoin-tor") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-net") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-service") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-support") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "libevent") (r "^0.1.0") (d #t) (k 0)) (d (n "libevent-sys") (r "^0.2.6") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "15j0bcbnqkyibj4nd5by8rsa58pwkq3j77mqrqc4mn5pv04kpnsd")))
+

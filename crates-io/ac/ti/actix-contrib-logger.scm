@@ -1,0 +1,4 @@
+(define-module (crates-io ac ti actix-contrib-logger) #:use-module (crates-io))
+
+(define-public crate-actix-contrib-logger-0.1.0 (c (n "actix-contrib-logger") (v "0.1.0") (d (list (d (n "actix-http") (r "^3.3") (d #t) (k 0)) (d (n "actix-rt") (r "^2.6") (d #t) (k 0)) (d (n "actix-service") (r "^2.0") (d #t) (k 0)) (d (n "actix-utils") (r "^3.0") (d #t) (k 0)) (d (n "actix-web") (r "^4.3") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting"))) (d #t) (k 0)))) (h "1byl8k8ncnvrxv8l61f20bjal8k03bhqlg2hxnajim0xjzjwz1gk")))
+

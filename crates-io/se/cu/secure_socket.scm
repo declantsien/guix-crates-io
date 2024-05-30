@@ -1,0 +1,20 @@
+(define-module (crates-io se cu secure_socket) #:use-module (crates-io))
+
+(define-public crate-secure_socket-0.0.3 (c (n "secure_socket") (v "0.0.3") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "0w4p82g7w4jn1i3whff1lgs69gjfc568g18gic5agkrpvxj0fssi")))
+
+(define-public crate-secure_socket-0.0.4 (c (n "secure_socket") (v "0.0.4") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "0zbqjcsjfkzdmk687p0pdlcpcz47iibj4mh7i52k8khqf89x6zjl")))
+
+(define-public crate-secure_socket-0.0.5 (c (n "secure_socket") (v "0.0.5") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "1fj1qvb34n8a93r38mrqv25plqibk13wdsmsdap39bvq0b8af09q")))
+
+(define-public crate-secure_socket-0.0.6 (c (n "secure_socket") (v "0.0.6") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "0h3la195dkyfzlvjhw8xvg82w3i05vkk6108d3ksx1g1wszl3i9j")))
+
+(define-public crate-secure_socket-0.0.7 (c (n "secure_socket") (v "0.0.7") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "0ah4izn6xzbjz264g3brira6k39rdzrgkwarrdm7d9n7w7hpy78l")))
+
+(define-public crate-secure_socket-0.0.8 (c (n "secure_socket") (v "0.0.8") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "1x51znma4chmi0hrxqm00kjy1g5a7gvm1b3317arlqczrjg7kj2i")))
+
+(define-public crate-secure_socket-0.0.9 (c (n "secure_socket") (v "0.0.9") (d (list (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "1qhvb06jda2mfwxamqjfdabk619hbds9012pc9crmipzmv5j6wj9")))
+
+(define-public crate-secure_socket-0.0.10 (c (n "secure_socket") (v "0.0.10") (d (list (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "1grpi4q39pqddqzxi1rrfxsimjzyq82dmqk50swzn46f1k5b10f8")))
+
+(define-public crate-secure_socket-0.0.11 (c (n "secure_socket") (v "0.0.11") (d (list (d (n "chacha20poly1305") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)))) (h "1id0dwqp3jd6al57xhn48kyvgfnqdm0zpf61jkl9r90qxpzr2jac")))
+

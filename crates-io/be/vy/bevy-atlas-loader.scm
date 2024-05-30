@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy-atlas-loader) #:use-module (crates-io))
+
+(define-public crate-bevy-atlas-loader-0.1.0 (c (n "bevy-atlas-loader") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "bevy") (r "^0.7.0") (f (quote ("render"))) (k 0)) (d (n "bevy") (r "^0.7.0") (d #t) (k 2)) (d (n "bevy_common_assets") (r "^0.2.0") (f (quote ("ron"))) (d #t) (k 2)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "enum_default") (r "^0.2.5") (d #t) (k 0)) (d (n "indoc") (r "^1.0.6") (d #t) (k 2)) (d (n "iyes_loopless") (r "^0.5.1") (d #t) (k 2)) (d (n "ron") (r "^0.7.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "0q3hpyb9jhl81sqvn2hmmlpb5dd69iw8fiwdh56kflfi957q4k02") (f (quote (("default"))))))
+

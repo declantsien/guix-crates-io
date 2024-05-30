@@ -1,0 +1,6 @@
+(define-module (crates-io le wp lewp-selectors) #:use-module (crates-io))
+
+(define-public crate-lewp-selectors-0.23.1 (c (n "lewp-selectors") (v "0.23.1") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "cssparser") (r "^0.29") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "phf") (r "^0.8") (d #t) (k 0)) (d (n "phf_codegen") (r "^0.8") (d #t) (k 1)) (d (n "precomputed-hash") (r "^0.1") (d #t) (k 0)) (d (n "servo_arc") (r "^0.1") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)))) (h "1awqby4x6hh9wn3wcc66r37siwy0d0dzh6ld1a2py01fg1qqzdr8") (f (quote (("bench"))))))
+
+(define-public crate-lewp-selectors-0.24.0 (c (n "lewp-selectors") (v "0.24.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "cssparser") (r "^0.29") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "phf") (r "^0.8") (d #t) (k 0)) (d (n "phf_codegen") (r "^0.8") (d #t) (k 1)) (d (n "precomputed-hash") (r "^0.1") (d #t) (k 0)) (d (n "servo_arc") (r "^0.1") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)))) (h "11l8lnqy4mrj7pj34ac9x7vf1bkp4skfc6qaa5had1h8x9cdrc88") (f (quote (("bench"))))))
+

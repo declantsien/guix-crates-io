@@ -1,0 +1,32 @@
+(define-module (crates-io nu _p nu_plugin_query_json) #:use-module (crates-io))
+
+(define-public crate-nu_plugin_query_json-0.30.0 (c (n "nu_plugin_query_json") (v "0.30.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.30.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.30.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.30.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.30.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.30.0") (d #t) (k 2)))) (h "08c62vrk9b5y6vw9irlfaib25bsm778jgzmdhv09z31qxvlg30k9")))
+
+(define-public crate-nu_plugin_query_json-0.31.0 (c (n "nu_plugin_query_json") (v "0.31.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.31.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.31.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.31.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.31.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.31.0") (d #t) (k 2)))) (h "1f23chy7mglympvs5dcr5d5c3prxhci9lb51ajfmgcai3z334i7v")))
+
+(define-public crate-nu_plugin_query_json-0.32.0 (c (n "nu_plugin_query_json") (v "0.32.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.32.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.32.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.32.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.32.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.32.0") (d #t) (k 2)))) (h "1jn5pcjf2jl824d8xg7hk336l1v6k1islv21kwr3lqkcipkh4ql2")))
+
+(define-public crate-nu_plugin_query_json-0.33.0 (c (n "nu_plugin_query_json") (v "0.33.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.33.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.33.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.33.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.33.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.33.0") (d #t) (k 2)))) (h "0v5030fzafg5a3nr1b4x1msvdigwfbaz4gn9z6vgyyi0j1nzjs7q")))
+
+(define-public crate-nu_plugin_query_json-0.34.0 (c (n "nu_plugin_query_json") (v "0.34.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.34.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.34.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.34.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.34.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.34.0") (d #t) (k 2)))) (h "1kiyr0wli7w8xwngapvi77nnc9pdwzhli9i6d4d7c2ic5rcmzc1g")))
+
+(define-public crate-nu_plugin_query_json-0.35.0 (c (n "nu_plugin_query_json") (v "0.35.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.35.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.35.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.35.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.35.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.35.0") (d #t) (k 2)))) (h "1xjk1lcq6pf7a94397p8hdypkn38g4wv859qwcrh9llz9awi23n1")))
+
+(define-public crate-nu_plugin_query_json-0.36.0 (c (n "nu_plugin_query_json") (v "0.36.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.36.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.36.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.36.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.36.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.36.0") (d #t) (k 2)))) (h "0ij135vx94gyaypryn24imgkq6r68j66d2nfymg98acn85ynv31q")))
+
+(define-public crate-nu_plugin_query_json-0.37.0 (c (n "nu_plugin_query_json") (v "0.37.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.37.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.37.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.37.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.37.0") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.37.0") (d #t) (k 2)))) (h "0hm5qwm6b3sj1jay1ra9znp5msydc4mlrddxpcffq5nc31gqzkiq")))
+
+(define-public crate-nu_plugin_query_json-0.38.0 (c (n "nu_plugin_query_json") (v "0.38.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.38.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.38.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.38.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.38.0") (d #t) (k 0)))) (h "0j9b0bg8ajb5b9y0jqk861fdpj8c5ypzpjpbzyf8q6hpmp7bfa70")))
+
+(define-public crate-nu_plugin_query_json-0.39.0 (c (n "nu_plugin_query_json") (v "0.39.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.39.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.39.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.39.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.39.0") (d #t) (k 0)))) (h "0jiw9z9c21q1v2qwb4adq8lqh5hv5s3ir1s0i2ndcacrimnimalk")))
+
+(define-public crate-nu_plugin_query_json-0.40.0 (c (n "nu_plugin_query_json") (v "0.40.0") (d (list (d (n "gjson") (r "^0.7.1") (d #t) (k 0)) (d (n "nu-errors") (r "^0.40.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.40.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.40.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.40.0") (d #t) (k 0)))) (h "0xk1h0vx0f0r7gzclx12gswi6dw3qxvr70a926x74qpqq4xg1fcs")))
+
+(define-public crate-nu_plugin_query_json-0.41.0 (c (n "nu_plugin_query_json") (v "0.41.0") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "nu-errors") (r "^0.41.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.41.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.41.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.41.0") (d #t) (k 0)))) (h "1a50qrch6mjz0yc0ci9lmbnp1arpdjy0xcp3ajf8dlhl2vcqryds")))
+
+(define-public crate-nu_plugin_query_json-0.42.0 (c (n "nu_plugin_query_json") (v "0.42.0") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "nu-errors") (r "^0.42.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.42.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.42.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.42.0") (d #t) (k 0)))) (h "0yi6kms2ms08a7ys5kclnbxvwf8gngpnal7z3027cx9hc2nqcj29")))
+
+(define-public crate-nu_plugin_query_json-0.43.0 (c (n "nu_plugin_query_json") (v "0.43.0") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "nu-errors") (r "^0.43.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.43.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.43.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.43.0") (d #t) (k 0)))) (h "0n30zp85kmy6diab79c6is1jvjw8y5g5bljh3fgq2nz42fvwng9y")))
+
+(define-public crate-nu_plugin_query_json-0.44.0 (c (n "nu_plugin_query_json") (v "0.44.0") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "nu-errors") (r "^0.44.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.44.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.44.0") (d #t) (k 0)) (d (n "nu-source") (r "^0.44.0") (d #t) (k 0)))) (h "1yzcgm8sqzgr55hdcpzqrdfjc0yhz95qqpxyscm8cm6xw59ib0z2")))
+

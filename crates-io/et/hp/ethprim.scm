@@ -1,0 +1,12 @@
+(define-module (crates-io et hp ethprim) #:use-module (crates-io))
+
+(define-public crate-ethprim-0.0.1 (c (n "ethprim") (v "0.0.1") (d (list (d (n "ethaddr") (r "^0.1") (f (quote ("checksum"))) (k 0)) (d (n "ethdigest") (r "^0.2") (f (quote ("keccak"))) (k 0)) (d (n "ethnum") (r "^1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0rnzpf18h1rnhcq0h8ip124qwf8xzq6h5d1xrc8h05885c3p96qx") (f (quote (("std" "ethaddr/std" "ethdigest/std") ("serde" "ethaddr/serde" "ethdigest/serde" "ethnum/serde") ("macros" "ethaddr/macros" "ethdigest/macros" "ethnum/macros") ("default" "std"))))))
+
+(define-public crate-ethprim-0.1.0 (c (n "ethprim") (v "0.1.0") (d (list (d (n "ethaddr") (r "^0.1") (k 0)) (d (n "ethdigest") (r "^0.2") (k 0)) (d (n "ethnum") (r "^1") (d #t) (k 0)))) (h "1ankqg64jzpswglc1f24lhxjz8wipd5yvmnmj2n9g18001skg7n0") (f (quote (("std" "ethaddr/std" "ethdigest/std") ("serde" "ethaddr/serde" "ethdigest/serde" "ethnum/serde") ("macros" "ethaddr/macros" "ethdigest/macros" "ethnum/macros") ("keccak" "ethaddr/checksum" "ethdigest/keccak") ("default" "keccak" "std"))))))
+
+(define-public crate-ethprim-0.1.1 (c (n "ethprim") (v "0.1.1") (d (list (d (n "ethaddr") (r "^0.1") (k 0)) (d (n "ethdigest") (r "^0.2") (k 0)) (d (n "ethnum") (r "^1") (d #t) (k 0)))) (h "0h8w7psyyx45xxhcbca9xxy0qfyfvsqbmbmg8vrqhs5c2b4irvph") (f (quote (("std" "ethaddr/std" "ethdigest/std") ("serde" "ethaddr/serde" "ethdigest/serde" "ethnum/serde") ("macros" "ethaddr/macros" "ethdigest/macros" "ethnum/macros") ("keccak" "ethaddr/checksum" "ethdigest/keccak") ("default" "keccak" "std"))))))
+
+(define-public crate-ethprim-0.2.0 (c (n "ethprim") (v "0.2.0") (d (list (d (n "ethaddr") (r "^0.2") (k 0)) (d (n "ethdigest") (r "^0.3") (k 0)) (d (n "ethnum") (r "^1") (f (quote ("macros"))) (d #t) (k 0)))) (h "004n3cvmrzjz30mpnp5mgi0r7d61rcb4yk52vsinkf7glkibv6n7") (f (quote (("std" "ethaddr/std" "ethdigest/std") ("sha3" "ethaddr/sha3" "ethdigest/sha3") ("serde" "ethaddr/serde" "ethdigest/serde" "ethnum/serde") ("default" "std"))))))
+
+(define-public crate-ethprim-0.3.0 (c (n "ethprim") (v "0.3.0") (d (list (d (n "ethaddr") (r "^0.2.2") (k 0)) (d (n "ethdigest") (r "^0.4.0") (k 0)) (d (n "ethnum") (r "^1") (f (quote ("macros"))) (d #t) (k 0)))) (h "0ydx01dg7wv5q9yb3w5c56343iwqabs35f2xgw6d3d14syj0hp9x") (f (quote (("std" "ethaddr/std" "ethdigest/std") ("sha3" "ethaddr/sha3" "ethdigest/sha3") ("serde" "ethaddr/serde" "ethdigest/serde" "ethnum/serde") ("default" "std"))))))
+

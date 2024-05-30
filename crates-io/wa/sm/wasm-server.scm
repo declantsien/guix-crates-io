@@ -1,0 +1,8 @@
+(define-module (crates-io wa sm wasm-server) #:use-module (crates-io))
+
+(define-public crate-wasm-server-1.0.0 (c (n "wasm-server") (v "1.0.0") (d (list (d (n "actix-files") (r "^0.5.0") (d #t) (k 0)) (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix_send_websocket") (r "^0.1.0") (d #t) (k 0)) (d (n "broadcaster") (r "^1.0.0") (f (quote ("default-channels"))) (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.12") (d #t) (k 0)) (d (n "notify") (r "^4.0.15") (d #t) (k 0)) (d (n "wasm-pack") (r "^0.9.1") (d #t) (k 0)))) (h "1armlv8hk0v9z4a0x1ml63d726fpc98qc16627phd7r7ih7h1gr7")))
+
+(define-public crate-wasm-server-1.0.1 (c (n "wasm-server") (v "1.0.1") (d (list (d (n "actix-files") (r "^0.5.0") (d #t) (k 0)) (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix_send_websocket") (r "^0.1.0") (d #t) (k 0)) (d (n "broadcaster") (r "^1.0.0") (f (quote ("default-channels"))) (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.12") (d #t) (k 0)) (d (n "notify") (r "^4.0.15") (d #t) (k 0)) (d (n "wasm-pack") (r "^0.9.1") (d #t) (k 0)))) (h "0zl0gm9pcv1ac3cfqsv5dyrqb1ca35r3jplha04bvq8k5f1147ad")))
+
+(define-public crate-wasm-server-1.0.2 (c (n "wasm-server") (v "1.0.2") (d (list (d (n "actix-files") (r "^0.5.0") (d #t) (k 0)) (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix_send_websocket") (r "^0.1.0") (d #t) (k 0)) (d (n "broadcaster") (r "^1.0.0") (f (quote ("default-channels"))) (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.12") (d #t) (k 0)) (d (n "notify") (r "^4.0.15") (d #t) (k 0)) (d (n "wasm-pack") (r "^0.9.1") (d #t) (k 0)))) (h "053ndkcy0m38w947qyb2paz1488l51pglz9nm89b11kia1mpnsv1")))
+

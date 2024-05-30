@@ -1,0 +1,6 @@
+(define-module (crates-io cu cu cucumber_rust_codegen) #:use-module (crates-io))
+
+(define-public crate-cucumber_rust_codegen-0.1.0 (c (n "cucumber_rust_codegen") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "inflections") (r "^1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("derive" "extra-traits" "full"))) (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "1j6bk4hpjndgfqlhb6jhab2r38cnci9yl25jbhfjavyzzsa7mgsf")))
+
+(define-public crate-cucumber_rust_codegen-0.9.0 (c (n "cucumber_rust_codegen") (v "0.9.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "inflections") (r "^1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("derive" "extra-traits" "full"))) (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "1i7zsf3hfck30bgn68pxfc2m4q8mx44wmm9a7l22xipblsffaqj7")))
+

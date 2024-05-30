@@ -1,0 +1,12 @@
+(define-module (crates-io fi l_ fil_actor_evm_shared_state) #:use-module (crates-io))
+
+(define-public crate-fil_actor_evm_shared_state-3.0.0 (c (n "fil_actor_evm_shared_state") (v "3.0.0") (d (list (d (n "fil_actors_shared") (r "^3.0.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3.2") (k 0) (p "fvm_shared")) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uint") (r "^0.9.3") (k 0)))) (h "1n3d3pj665i4r38vpql2ja1crq3yfy3289vki6h3jw67ylikgv8p")))
+
+(define-public crate-fil_actor_evm_shared_state-4.0.0 (c (n "fil_actor_evm_shared_state") (v "4.0.0") (d (list (d (n "fil_actors_shared") (r "^4.0.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3.2") (k 0) (p "fvm_shared")) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uint") (r "^0.9.3") (k 0)))) (h "0xs7znl9yfcfv3bvd4sxhh853kkqv1ih26cbqji6bpyjpc7mcmxj")))
+
+(define-public crate-fil_actor_evm_shared_state-5.0.0 (c (n "fil_actor_evm_shared_state") (v "5.0.0") (d (list (d (n "fil_actors_shared") (r "^5.0.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3.2") (k 0) (p "fvm_shared")) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uint") (r "^0.9.3") (k 0)))) (h "1alxsh5av05lcglm8ksm1fhpk8mr2rxmf1q4jzm4vc808j0sq8yp")))
+
+(define-public crate-fil_actor_evm_shared_state-6.0.0 (c (n "fil_actor_evm_shared_state") (v "6.0.0") (d (list (d (n "fil_actors_shared") (r "^6.0.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.4") (d #t) (k 0)) (d (n "fvm_shared3") (r "~3.4") (k 0) (p "fvm_shared")) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uint") (r "^0.9.3") (k 0)))) (h "0j4hzdah3906afx1mqsg992drp5hrz06d79v6s8s2w52ppw4j81p")))
+
+(define-public crate-fil_actor_evm_shared_state-6.1.0 (c (n "fil_actor_evm_shared_state") (v "6.1.0") (d (list (d (n "fil_actors_shared") (r "^6.1.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.4") (d #t) (k 0)) (d (n "fvm_shared3") (r "~3.6") (k 0) (p "fvm_shared")) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uint") (r "^0.9.3") (k 0)))) (h "13rpaccknjkd4xkfzry6c2j629dyd7kzckfvh9x56j2kzqmi4n4h")))
+

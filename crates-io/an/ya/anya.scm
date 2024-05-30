@@ -1,0 +1,10 @@
+(define-module (crates-io an ya anya) #:use-module (crates-io))
+
+(define-public crate-anya-0.1.0 (c (n "anya") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.24.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)))) (h "1rsadqsal9pqx470n8dk6sh0h0hjh3s790xpxqx23cprn9gg32fi") (r "1.76.0")))
+
+(define-public crate-anya-0.1.1 (c (n "anya") (v "0.1.1") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.24.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)))) (h "1jb2inb3727m72j4ba5v6dwmfcd3ac3im439ji940pzixh8m0j2m") (r "1.76.0")))
+
+(define-public crate-anya-0.1.101 (c (n "anya") (v "0.1.101") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.24.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)))) (h "04p1s412fyilzh0r46vr16nlwc7bqpwzg10b984adgmcvhsl6l03") (r "1.76.0")))
+
+(define-public crate-anya-0.1.102 (c (n "anya") (v "0.1.102") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.24.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)))) (h "0mcs9hlcm05gapbh6gc6rvci298yjkn61mmhcd12jkjxinl3qr8h") (r "1.76.0")))
+

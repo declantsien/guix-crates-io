@@ -1,0 +1,8 @@
+(define-module (crates-io go og google-jwt-auth) #:use-module (crates-io))
+
+(define-public crate-google-jwt-auth-0.0.1 (c (n "google-jwt-auth") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^9.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0mdjvklml9mik9gvyddsi81f8sai83rxd9j0vqz41cz2d5cmxmyc")))
+
+(define-public crate-google-jwt-auth-0.0.2 (c (n "google-jwt-auth") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^9.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1bj1d3mfzn1fip5rv8vkw7hbzzi7w7bg42vnnidcky2w6a3vz10x")))
+
+(define-public crate-google-jwt-auth-0.1.0 (c (n "google-jwt-auth") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^9.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0rlyifpbj6ygv0pg5whyppj3vx1wxy9yrgaipikbbz0zili9qdgh")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io st ab stable-diffusion-cli) #:use-module (crates-io))
+
+(define-public crate-stable-diffusion-cli-0.1.3 (c (n "stable-diffusion-cli") (v "0.1.3") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rfd") (r "^0.13") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.3") (d #t) (k 0)))) (h "0rr2jvdi5xckdg026ky7i06fn5ramkfnn1lqwrldaqdiicd3ydp8")))
+
+(define-public crate-stable-diffusion-cli-0.1.4 (c (n "stable-diffusion-cli") (v "0.1.4") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rfd") (r "^0.13") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.3") (d #t) (k 0)))) (h "0waffv4k6h0c8pv6f49r7kk8fpl5xnrj8ikm8cm1q19s8h23622w")))
+
+(define-public crate-stable-diffusion-cli-0.1.5 (c (n "stable-diffusion-cli") (v "0.1.5") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rfd") (r "^0.13") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.3") (d #t) (k 0)))) (h "171a5q03x30nkbaknzadbaz3r4zifaqxlpb1qqzc8yjxcx8b8v35")))
+
+(define-public crate-stable-diffusion-cli-0.1.6 (c (n "stable-diffusion-cli") (v "0.1.6") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "candle") (r "^0.4.1") (d #t) (k 0) (p "candle-core")) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("jpeg" "png"))) (k 0)) (d (n "rfd") (r "^0.14") (d #t) (k 0)) (d (n "stable-diffusion") (r "^0.1.6") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.6") (d #t) (k 0)))) (h "1l38gpydxvqwza2k8swzpms1bp9vy66kvkd1qr7qcc8w24rk483y")))
+
+(define-public crate-stable-diffusion-cli-0.1.7 (c (n "stable-diffusion-cli") (v "0.1.7") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "candle") (r "^0.4.1") (d #t) (k 0) (p "candle-core")) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("jpeg" "png"))) (k 0)) (d (n "rfd") (r "^0.14") (d #t) (k 0)) (d (n "stable-diffusion") (r "^0.1.7") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.7") (d #t) (k 0)))) (h "1pd9j476la7yz7772a81xmm4b17ngckwkp386zy0f3pzxdbf0k4l")))
+
+(define-public crate-stable-diffusion-cli-0.1.8 (c (n "stable-diffusion-cli") (v "0.1.8") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "candle") (r "^0.4.1") (d #t) (k 0) (p "candle-core")) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("jpeg" "png"))) (k 0)) (d (n "rfd") (r "^0.14") (d #t) (k 0)) (d (n "stable-diffusion") (r "^0.1.8") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.8") (d #t) (k 0)))) (h "0s0ihr0id16j41myi22sv1jg54l83q3n1scb3vy686wqh9v230r7")))
+
+(define-public crate-stable-diffusion-cli-0.1.9 (c (n "stable-diffusion-cli") (v "0.1.9") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "candle") (r "^0.4.1") (d #t) (k 0) (p "candle-core")) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("jpeg" "png"))) (k 0)) (d (n "rfd") (r "^0.14") (d #t) (k 0)) (d (n "stable-diffusion") (r "^0.1.9") (d #t) (k 0)) (d (n "stable-diffusion-trainer") (r "^0.1.9") (d #t) (k 0)))) (h "0pc9a8pb7qx9j1bc72ad03digjb5iq4fvjl9jmpsnzbyplnz3ips")))
+

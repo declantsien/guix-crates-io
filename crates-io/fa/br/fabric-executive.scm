@@ -1,0 +1,6 @@
+(define-module (crates-io fa br fabric-executive) #:use-module (crates-io))
+
+(define-public crate-fabric-executive-0.0.0 (c (n "fabric-executive") (v "0.0.0") (h "05gn0vbcnfnl7zs79bj0wgkyhxf0hkk3aflq55r81cpjbr3wpk60") (y #t)))
+
+(define-public crate-fabric-executive-2.0.0 (c (n "fabric-executive") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "hex-literal") (r "^0.3.1") (d #t) (k 2)) (d (n "noble-balances") (r "^2.0.1") (d #t) (k 2)) (d (n "noble-indices") (r "^2.0.0") (d #t) (k 2)) (d (n "noble-transaction-payment") (r "^2.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.101") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 2)) (d (n "tet-io") (r "^2.0.2") (k 0)) (d (n "tet-io") (r "^2.0.2") (d #t) (k 2)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tetcore-tracing") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)) (d (n "tp-version") (r "^2.0.2") (d #t) (k 2)))) (h "1g4m0kzmi4fi9di6157m2g7j54kiy559w6zzijm7z5h4gyh4kpkh") (f (quote (("with-tracing" "tetcore-tracing/with-tracing") ("std" "codec/std" "fabric-support/std" "fabric-system/std" "serde" "tet-core/std" "tp-runtime/std" "tetcore-tracing/std" "tetcore-std/std") ("default" "std"))))))
+

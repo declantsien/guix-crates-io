@@ -1,0 +1,4 @@
+(define-module (crates-io fo nt fonttools) #:use-module (crates-io))
+
+(define-public crate-fonttools-0.1.0 (c (n "fonttools") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.3") (d #t) (k 0)) (d (n "counter") (r "^0.5") (d #t) (k 0)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "kurbo") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "otspec") (r "^0") (d #t) (k 0)) (d (n "otspec_macros") (r "^0") (d #t) (k 0)) (d (n "permutation") (r "^0.2.5") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "rayon") (r "^1.0.1") (o #t) (d #t) (k 0)))) (h "0l2k7xh4k69v0kn58n23pk36ma6j6g6agzn9vgk5w1wsfwls1rkf")))
+

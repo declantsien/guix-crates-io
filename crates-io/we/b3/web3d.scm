@@ -1,0 +1,6 @@
+(define-module (crates-io we b3 web3d) #:use-module (crates-io))
+
+(define-public crate-web3d-0.1.0 (c (n "web3d") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "mermaid-markdown-api") (r "^0.1.0") (d #t) (k 0)) (d (n "minidom") (r "^0.14.0") (d #t) (k 0)) (d (n "resvg") (r "^0.22.0") (d #t) (k 0)) (d (n "scanner-syn") (r "^0.1.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.8") (d #t) (k 0)) (d (n "svg2pdf") (r "^0.3.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.6.3") (d #t) (k 0)) (d (n "usvg") (r "^0.22.0") (d #t) (k 0)))) (h "0rqnx3x913rzkk1nklz7wm9wpzfx338gahzljnp90zhbrf5xc6hk")))
+
+(define-public crate-web3d-0.2.0 (c (n "web3d") (v "0.2.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "mermaid-markdown-api") (r "^0.2.0") (d #t) (k 0)) (d (n "minidom") (r "^0.14.0") (d #t) (k 0)) (d (n "resvg") (r "^0.22.0") (d #t) (k 0)) (d (n "scanner-syn") (r "^0.2.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.8") (d #t) (k 0)) (d (n "svg2pdf") (r "^0.3.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.6.3") (d #t) (k 0)) (d (n "usvg") (r "^0.22.0") (d #t) (k 0)))) (h "0bvaywsdvwi2nigb8s4w5h1ld17nf38hk32pfp87i4daylnq0kmi")))
+

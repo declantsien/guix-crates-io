@@ -1,0 +1,4 @@
+(define-module (crates-io me mh memhop) #:use-module (crates-io))
+
+(define-public crate-memhop-1.0.0 (c (n "memhop") (v "1.0.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "darwin-libproc-sys") (r "^0.2.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "mach2") (r "^0.4") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "procmaps") (r "^0.4.1") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "regex") (r "^1.6") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "windows-sys") (r "^0.36.1") (f (quote ("Win32_Foundation" "Win32_System_ProcessStatus" "Win32_System_SystemInformation" "Win32_System_Diagnostics_Debug" "Win32_System_Memory" "Win32_System_ProcessStatus" "Win32_System_Threading"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "19hz2w3c00yhzyafik45wwbwgji62azmc3hxqix93f045ndz9a3q")))
+

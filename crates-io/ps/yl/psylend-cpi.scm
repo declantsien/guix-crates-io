@@ -1,0 +1,12 @@
+(define-module (crates-io ps yl psylend-cpi) #:use-module (crates-io))
+
+(define-public crate-psylend-cpi-0.1.0 (c (n "psylend-cpi") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (f (quote ("dex"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "psy-math") (r "^1.0.0") (d #t) (k 0)))) (h "0i58av8ckbqvnzi3dh6qlnb9130fdrm5adb81cfb7qhsl8qsx19s") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-psylend-cpi-0.1.1 (c (n "psylend-cpi") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (f (quote ("dex"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "psy-math") (r "^1.0.0") (d #t) (k 0)))) (h "0p5bjx7k4hwc6rslqxd6y3cypbcqdnbllksip1i7dlj425lzgfcm") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-psylend-cpi-0.1.2 (c (n "psylend-cpi") (v "0.1.2") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (f (quote ("dex"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "psy-math") (r "^1.0.0") (d #t) (k 0)))) (h "05h0iqix3452x3219ls7ddlc2kgkcbpv7mpxs55wnsii4z7ys04g") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-psylend-cpi-0.1.3 (c (n "psylend-cpi") (v "0.1.3") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (f (quote ("dex"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "psy-math") (r "^1.0.0") (d #t) (k 0)))) (h "1sc6fdjaj6gp14hzhviy2nk71v327p3ndfmx806lii15q96qrdrs") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-psylend-cpi-0.1.4 (c (n "psylend-cpi") (v "0.1.4") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (f (quote ("dex"))) (d #t) (k 0)) (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "psy-math") (r "^1.0.0") (d #t) (k 0)))) (h "1hhahk992dl9zhvdpa4g7v2nn266gxw40rgkja12dpdsnrpc7gh7") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default") ("cpi" "no-entrypoint"))))))
+

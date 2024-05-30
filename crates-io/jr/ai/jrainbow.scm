@@ -1,0 +1,6 @@
+(define-module (crates-io jr ai jrainbow) #:use-module (crates-io))
+
+(define-public crate-jrainbow-0.1.0 (c (n "jrainbow") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)))) (h "1ni79gxy0f6b3yifm99zzzmk5d4b0jjl12c3sp9cds38dlz23gbr")))
+
+(define-public crate-jrainbow-0.1.1 (c (n "jrainbow") (v "0.1.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)))) (h "00ffdy1pgk964m7y4vj6syhpi43z5pknx5pvvzvhv4wqc3dbkgb0")))
+

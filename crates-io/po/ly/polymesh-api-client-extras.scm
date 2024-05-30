@@ -1,0 +1,14 @@
+(define-module (crates-io po ly polymesh-api-client-extras) #:use-module (crates-io))
+
+(define-public crate-polymesh-api-client-extras-0.3.0 (c (n "polymesh-api-client-extras") (v "0.3.0") (d (list (d (n "codec") (r "^3") (k 0) (p "parity-scale-codec")) (d (n "polymesh-api") (r "^0.3") (d #t) (k 0)) (d (n "polymesh-api-client") (r "^0.3") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1ccyzg75abr3caasdnxfhid74dy8dhnz8xi6m9ssi5cli6wc2vcx")))
+
+(define-public crate-polymesh-api-client-extras-1.0.0 (c (n "polymesh-api-client-extras") (v "1.0.0") (d (list (d (n "codec") (r "^3") (k 0) (p "parity-scale-codec")) (d (n "polymesh-api") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1yqv60r8ylwbnk552n2rfg380y83y05b6xdkvqagq8fbla7k57zy")))
+
+(define-public crate-polymesh-api-client-extras-2.0.0 (c (n "polymesh-api-client-extras") (v "2.0.0") (d (list (d (n "codec") (r "^3") (k 0) (p "parity-scale-codec")) (d (n "polymesh-api") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0vwq41vvqcy9kjgz44rgyjsm16lf786v140ga37dpyjxprmn5n3z")))
+
+(define-public crate-polymesh-api-client-extras-3.0.0 (c (n "polymesh-api-client-extras") (v "3.0.0") (d (list (d (n "codec") (r "^3") (k 0) (p "parity-scale-codec")) (d (n "polymesh-api") (r "^3.0.0") (f (quote ("rpc" "v14"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (k 0)))) (h "063983sqnm9ki5mbp6m1nsv7183dpnn7a4dp80r0vq2jjqizxk16") (f (quote (("std" "polymesh-api/std") ("serde" "polymesh-api/serde") ("default" "std" "serde"))))))
+
+(define-public crate-polymesh-api-client-extras-3.1.1 (c (n "polymesh-api-client-extras") (v "3.1.1") (d (list (d (n "codec") (r "^3") (k 0) (p "parity-scale-codec")) (d (n "polymesh-api") (r "^3.6.0") (f (quote ("rpc" "v14"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("rt"))) (k 0)))) (h "0h09ffhg6j2n9w5mn2aicivycdsakv14l0lwz0h0xqwlf8qpcdf6") (f (quote (("std" "polymesh-api/std") ("serde" "polymesh-api/serde") ("default" "std" "serde"))))))
+
+(define-public crate-polymesh-api-client-extras-3.2.0 (c (n "polymesh-api-client-extras") (v "3.2.0") (d (list (d (n "codec") (r "^3") (k 0) (p "parity-scale-codec")) (d (n "polymesh-api") (r "^3.7.0") (f (quote ("rpc" "v14"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("rt"))) (k 0)))) (h "0n5qvfp06zy2rlh1swygfg4rvah7rv70bxvx2s5813qcnpswl7pj") (f (quote (("std" "polymesh-api/std") ("serde" "polymesh-api/serde") ("default" "std" "serde"))))))
+

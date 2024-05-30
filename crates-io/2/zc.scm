@@ -1,0 +1,14 @@
+(define-module (crates-io #{2}# zc) #:use-module (crates-io))
+
+(define-public crate-zc-0.1.0 (c (n "zc") (v "0.1.0") (d (list (d (n "aliasable") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "dangerous") (r "^0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "zc-derive") (r "^0.1") (d #t) (k 0)))) (h "136qj0wi4qkrbgalpz6wgvm8r2jniw1zlbniwg857jcrnhmzg981") (f (quote (("default" "alloc") ("alloc" "aliasable")))) (y #t)))
+
+(define-public crate-zc-0.1.1 (c (n "zc") (v "0.1.1") (d (list (d (n "aliasable") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "dangerous") (r "^0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "zc-derive") (r "^0.1") (d #t) (k 0)))) (h "1hznjzbjmlkkmd15izm13icagwncawx47canjlqdbnja3pc9xg12") (f (quote (("default" "alloc") ("alloc" "aliasable")))) (y #t)))
+
+(define-public crate-zc-0.1.2 (c (n "zc") (v "0.1.2") (d (list (d (n "aliasable") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "dangerous") (r "^0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "zc-derive") (r "^0.1") (d #t) (k 0)))) (h "0yy2msd0f3grnbxzpvwyvm8d4nh7slk4avxp0hlggzxkwlpyd6qj") (f (quote (("default" "alloc") ("alloc" "aliasable")))) (y #t)))
+
+(define-public crate-zc-0.2.0 (c (n "zc") (v "0.2.0") (d (list (d (n "aliasable") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "dangerous") (r "^0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "zc-derive") (r "^0.2") (o #t) (d #t) (k 0)))) (h "139ssspncvvi689qc25jiavvpihkfa50kzqn3q7042brzkkmghbw") (f (quote (("std" "alloc") ("derive" "zc-derive") ("default" "std" "derive") ("alloc" "aliasable"))))))
+
+(define-public crate-zc-0.3.0 (c (n "zc") (v "0.3.0") (d (list (d (n "aliasable") (r "^0.1.3") (o #t) (d #t) (k 0)) (d (n "dangerous") (r "^0.6") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "zc-derive") (r "^0.3") (o #t) (d #t) (k 0)))) (h "0sgks7c84h00jhwab47rsii463myrb8pk2rjkyyzc35xhp9sz2ir") (f (quote (("std" "alloc") ("derive" "zc-derive") ("default" "std" "derive") ("alloc" "aliasable"))))))
+
+(define-public crate-zc-0.4.0 (c (n "zc") (v "0.4.0") (d (list (d (n "aliasable") (r "^0.1.3") (o #t) (d #t) (k 0)) (d (n "dangerous") (r "^0.8") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 2)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "zc-derive") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0i6a2qdvwj0d6pnzcx16wjvj5c6j3vm3zsqiw8bb7sz7lvrwq7mp") (f (quote (("std" "alloc") ("derive" "zc-derive") ("default" "std" "derive") ("alloc" "aliasable"))))))
+

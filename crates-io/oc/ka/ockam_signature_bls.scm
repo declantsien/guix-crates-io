@@ -1,0 +1,4 @@
+(define-module (crates-io oc ka ockam_signature_bls) #:use-module (crates-io))
+
+(define-public crate-ockam_signature_bls-0.1.0 (c (n "ockam_signature_bls") (v "0.1.0") (d (list (d (n "bls12_381_plus") (r "^0.4") (d #t) (k 0)) (d (n "ff") (r "^0.9") (d #t) (k 0)) (d (n "group") (r "^0.9") (d #t) (k 0)) (d (n "hkdf") (r "^0.10") (d #t) (k 0)) (d (n "pairing") (r "^0.19") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.9") (k 0)) (d (n "subtle") (r "^2.4") (k 0)) (d (n "zeroize") (r "^1.2") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "0iab2sppgwy8b2lqrzvj2xib620js6k61qxrljzc8ylrir3asxfz") (f (quote (("default" "alloc") ("alloc" "bls12_381_plus/alloc")))) (y #t)))
+

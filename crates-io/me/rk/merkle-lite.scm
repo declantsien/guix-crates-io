@@ -1,0 +1,34 @@
+(define-module (crates-io me rk merkle-lite) #:use-module (crates-io))
+
+(define-public crate-merkle-lite-0.0.1 (c (n "merkle-lite") (v "0.0.1") (h "0gg6fh2dqm23y8n71vj8g3pbjxp951ppss0cbm7mjszkv0dvapdn")))
+
+(define-public crate-merkle-lite-0.0.2 (c (n "merkle-lite") (v "0.0.2") (d (list (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "0w6wgp7ajh4s6p7idhbq8fm7mk8l3g0nrnywd4wd6xqiivs5b5qc")))
+
+(define-public crate-merkle-lite-0.0.3 (c (n "merkle-lite") (v "0.0.3") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "1afk2rs45pgr23qgg368hdd0qa2f79by8zim6n2iqziksmyq14xm")))
+
+(define-public crate-merkle-lite-0.0.4 (c (n "merkle-lite") (v "0.0.4") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "09h24azjdj3iqp45n5240s8m7ymidi3nq2figcv1b9fswn2fs3zf")))
+
+(define-public crate-merkle-lite-0.0.5 (c (n "merkle-lite") (v "0.0.5") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "132ygf4sba1lyn006fgkpk28vxh790gd9siqhxnfg4319jlhsyd4")))
+
+(define-public crate-merkle-lite-0.0.6 (c (n "merkle-lite") (v "0.0.6") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "0bdycr726wvsiiidrxfvsky3fris77qa03s29xv4yp5gjrm67j2w") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.7 (c (n "merkle-lite") (v "0.0.7") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "0c0cp6g2fvrd3rjz5h64z8pbbvcb4sp4lg50sik5mz4v2disikwz") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.8 (c (n "merkle-lite") (v "0.0.8") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "1jnzmbmbdnnd3d9ha7vc8511q6indaifqnwmgxfd98xjw3pl9cbl") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.9 (c (n "merkle-lite") (v "0.0.9") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "00dragn9pw4n20v3lwnsrqcp7c0xz20zgj5h6fpi2jrsfkpwm4hd") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.10 (c (n "merkle-lite") (v "0.0.10") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "0vaa5kil6hydarfdvr6lmj7rga0ayw1f7ji7z36ly7rm1d9h4llq") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.11 (c (n "merkle-lite") (v "0.0.11") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "1pcfap6n48sdkhl8hcn70mmw8x9c3dyc316bwisq6q5xhz40rypw") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.12 (c (n "merkle-lite") (v "0.0.12") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "1872dnx3pcs34jmacwn42v2il1ifmkicx3cvhszxgavcnmfzqlkw") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.13 (c (n "merkle-lite") (v "0.0.13") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "fastrand") (r "^1.8.0") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "1l1rfx52jsljqa1cszflvxscp7lrnm682ksjv5d05kp4fv29p048") (r "1.66")))
+
+(define-public crate-merkle-lite-0.0.14 (c (n "merkle-lite") (v "0.0.14") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "fastrand") (r "^1.8.0") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)))) (h "1wq3z2whxzy8qgp3j6jqr8cfsr491l19kgf18xbqs5qicynw2nri") (r "1.61")))
+
+(define-public crate-merkle-lite-0.0.15 (c (n "merkle-lite") (v "0.0.15") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "fastrand") (r "^1.8.0") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "sha3") (r "^0.10.6") (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 2)))) (h "0n96f5mbr7jr5n7r3hcsz7i9s7pk0hr72bc831sx486ixj9bw5pn") (r "1.61")))
+
+(define-public crate-merkle-lite-0.1.0 (c (n "merkle-lite") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "fastrand") (r "^1") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 2)) (d (n "sha3") (r "^0.10") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)))) (h "0bbqi3w5a7cbb8qd0zp1zb5ndnjdgr8yc5db9r59n3rxkq8fw04p") (r "1.61")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io so ur sourceview4-sc) #:use-module (crates-io))
+
+(define-public crate-sourceview4-sc-0.3.0 (c (n "sourceview4-sc") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "cairo-rs") (r "^0.15") (d #t) (k 0)) (d (n "ffi") (r "^0.3.0") (d #t) (k 0) (p "sourceview4-sys")) (d (n "gdk") (r "^0.15") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.15") (d #t) (k 0)) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "gtk") (r "^0.15") (f (quote ("v3_20"))) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pango") (r "^0.15") (d #t) (k 0)))) (h "0vr85f8yfnc6k58ir7v2941cwri4wxpdk1fkj4f17539c74n5mlw") (f (quote (("dox" "ffi/dox")))) (y #t)))
+
+(define-public crate-sourceview4-sc-0.4.0 (c (n "sourceview4-sc") (v "0.4.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "cairo-rs") (r "^0.15") (d #t) (k 0)) (d (n "ffi") (r "^0.3") (d #t) (k 0) (p "sourceview4-sys")) (d (n "gdk") (r "^0.15") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.15") (d #t) (k 0)) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "gtk") (r "^0.15") (f (quote ("v3_20"))) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pango") (r "^0.15") (d #t) (k 0)))) (h "1y0fddbiia1va2ffsipzl6fbkd6jdnxr3hp0ilbf9g98j9n5lipa") (y #t)))
+

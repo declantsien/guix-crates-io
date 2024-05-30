@@ -1,0 +1,36 @@
+(define-module (crates-io gi t- git-gpt) #:use-module (crates-io))
+
+(define-public crate-git-gpt-0.1.0 (c (n "git-gpt") (v "0.1.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1kdx6bmzr3hc045ncz6ynd66ynj1ha03g38xb8z6jcn08zcy7v6n")))
+
+(define-public crate-git-gpt-0.2.0 (c (n "git-gpt") (v "0.2.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "07ic60lqs6q9dp7m72siflzv03qr3r7gqhpmkgbs0xhr9wpfzmzj")))
+
+(define-public crate-git-gpt-0.3.0 (c (n "git-gpt") (v "0.3.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "07i3kxq2s5z6ailxknvf7wpzi3jdg2hdvam4cwad3197pz9w7wbb")))
+
+(define-public crate-git-gpt-0.4.0 (c (n "git-gpt") (v "0.4.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0jq6kz8vq2fcbc4x6al49p4fmpwdxr8gspnqfxxbbky34jfrjazp")))
+
+(define-public crate-git-gpt-0.4.1 (c (n "git-gpt") (v "0.4.1") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1p3iwmgfmpvj5hb7warm0vzz5hbiiipa66xhir1kcksr9xamlmrd")))
+
+(define-public crate-git-gpt-0.4.2 (c (n "git-gpt") (v "0.4.2") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1lcwidwjjp1zggjvbqlk0w7sb6v1plgl8zrf6mbsbwnpqf1iiysi")))
+
+(define-public crate-git-gpt-0.5.0 (c (n "git-gpt") (v "0.5.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0p1k5pv7li89mn5cyapmp7qh7y2lwj84v8y97klc1pmzsaply150")))
+
+(define-public crate-git-gpt-0.5.1 (c (n "git-gpt") (v "0.5.1") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1zmqywi5p2px3yfzdwqxk2cdwpwjm6khpay1y9liwfdn6g34wv66")))
+
+(define-public crate-git-gpt-0.5.2 (c (n "git-gpt") (v "0.5.2") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0gjr1hlmrdnm037wgqyz64ggvg3c0jidjh20sncla113dg5jyzkk")))
+
+(define-public crate-git-gpt-0.5.3 (c (n "git-gpt") (v "0.5.3") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1x7m0kd7hbxdxrbj0vpapsynz75ngawhkkg6g2vsgvlhx25gcrlh")))
+
+(define-public crate-git-gpt-0.5.4 (c (n "git-gpt") (v "0.5.4") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1s77mhc4z0i9225876273ng0y1hainmqjc1ja0nwi662x0npfbr3")))
+
+(define-public crate-git-gpt-0.5.5 (c (n "git-gpt") (v "0.5.5") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0374l1iqk6asf8r23sw6n5j2nzfri14xkah613b9k6l1gaa2j03s")))
+
+(define-public crate-git-gpt-0.6.0 (c (n "git-gpt") (v "0.6.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1h5z5qixcb21abr6pwjk6gdmi1cq24il1s2q9jf6a37rlv5g14iv")))
+
+(define-public crate-git-gpt-0.6.1 (c (n "git-gpt") (v "0.6.1") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0566bkvhx9ahg80axfyl89qamnr7zj5521zx0g268ykf6q4l183p")))
+
+(define-public crate-git-gpt-0.6.3 (c (n "git-gpt") (v "0.6.3") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0lig5lf6nh68k47iy9cqpc6fyza6w7b3bsyig5hdsff5bpzc4q3f")))
+
+(define-public crate-git-gpt-0.7.0 (c (n "git-gpt") (v "0.7.0") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0vqqr72n1ns3pw4bwibgzg335hfr5vcr6b5cixv6z6jzxvq65cp4")))
+
+(define-public crate-git-gpt-0.7.1 (c (n "git-gpt") (v "0.7.1") (d (list (d (n "git2") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1qd5y685b87w2949jz9gm9nb88a8klhjlg1wpq477098fk45mh89")))
+

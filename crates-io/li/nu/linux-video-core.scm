@@ -1,0 +1,6 @@
+(define-module (crates-io li nu linux-video-core) #:use-module (crates-io))
+
+(define-public crate-linux-video-core-0.1.0 (c (n "linux-video-core") (v "0.1.0") (d (list (d (n "bitmask-enum") (r "^2") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("std" "derive"))) (o #t) (k 0)) (d (n "dcv-color-primitives") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "drm-fourcc") (r "^2") (o #t) (d #t) (k 0)) (d (n "getset") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("ioctl" "mman"))) (k 0)) (d (n "parse-display") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("std" "derive"))) (o #t) (k 0)))) (h "0jnry5hdrs3b588wbdbpg6xgzj433lp70k50lw7fv9zwbgka2c4f") (f (quote (("thread-safe") ("default"))))))
+
+(define-public crate-linux-video-core-0.1.1 (c (n "linux-video-core") (v "0.1.1") (d (list (d (n "bitmask-enum") (r "^2") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("std" "derive"))) (o #t) (k 0)) (d (n "dcv-color-primitives") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "drm-fourcc") (r "^2") (o #t) (d #t) (k 0)) (d (n "getset") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("ioctl" "mman"))) (k 0)) (d (n "parse-display") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("std" "derive"))) (o #t) (k 0)))) (h "1c88mfvvnn6syhq3br25nnficbliq7rygvamjarl0nz0r6y71cab") (f (quote (("thread-safe") ("default"))))))
+

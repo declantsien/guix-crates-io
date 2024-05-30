@@ -1,0 +1,30 @@
+(define-module (crates-io sl ac slack-hook) #:use-module (crates-io))
+
+(define-public crate-slack-hook-0.0.1 (c (n "slack-hook") (v "0.0.1") (d (list (d (n "curl") (r "*") (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "07hsjq0hs5jc2fh8gnvp4ywlm19z39qwn5l4p02i4h5m4g81yqa5")))
+
+(define-public crate-slack-hook-0.0.2 (c (n "slack-hook") (v "0.0.2") (d (list (d (n "curl") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "1v0v77glhm5p85vbw8qk5p3fydiwkfdshgcvd0a3gqgj5lpc3dp4")))
+
+(define-public crate-slack-hook-0.0.3 (c (n "slack-hook") (v "0.0.3") (d (list (d (n "curl") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "1p0x8c8s7ahv2ybnknz4xqvmh39qpwcywglv9m9w03mychzr43kh")))
+
+(define-public crate-slack-hook-0.1.0 (c (n "slack-hook") (v "0.1.0") (d (list (d (n "curl") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "1zjdd4iy501l8x895vsgifm5zmr2cs371mg5gzcw3zrdn54cgfsl")))
+
+(define-public crate-slack-hook-0.1.1 (c (n "slack-hook") (v "0.1.1") (d (list (d (n "curl") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "137ckqfnbk4cjqyn43pb5nj1w48l786pqc8bci2w3ag4x5j370z7")))
+
+(define-public crate-slack-hook-0.1.2 (c (n "slack-hook") (v "0.1.2") (d (list (d (n "curl") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "095q77yjykgyhfv6v1hhn4y5654mkn95k0d02ndzda6c00b7317p")))
+
+(define-public crate-slack-hook-0.1.3 (c (n "slack-hook") (v "0.1.3") (d (list (d (n "clippy") (r "^0.0") (o #t) (d #t) (k 0)) (d (n "curl") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)))) (h "0mciryr40xyiwc6j3d6d1jihqq30pwl8h2nsd5jv0s3646zxgni8") (f (quote (("unstable"))))))
+
+(define-public crate-slack-hook-0.2.0 (c (n "slack-hook") (v "0.2.0") (d (list (d (n "chrono") (r "^0.2.25") (d #t) (k 0)) (d (n "chrono") (r "^0.2.25") (d #t) (k 1)) (d (n "clippy") (r "^0.0") (o #t) (d #t) (k 0)) (d (n "curl") (r "^0.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^0.8.8") (d #t) (k 1)) (d (n "serde_codegen") (r "^0.8.8") (d #t) (k 1)) (d (n "serde_json") (r "^0.8.1") (d #t) (k 0)) (d (n "url") (r "^1.2.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0h9pwh8rb75a0cfzzn8rhrc6h7iqv78fhvdrl0gx35jkn5m83xhq")))
+
+(define-public crate-slack-hook-0.3.0 (c (n "slack-hook") (v "0.3.0") (d (list (d (n "chrono") (r ">= 0.2.25, < 0.4.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0") (o #t) (d #t) (k 0)) (d (n "curl") (r ">= 0.3.0, < 0.5.0") (d #t) (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^0.9.8") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "url") (r ">= 1.2.0, < 1.5.0") (d #t) (k 0)) (d (n "url_serde") (r "^0.1.3") (d #t) (k 0)))) (h "005svzcd5qmbdwifxk79c33fd5pvg772dq88yxi3wjivfq7z6r36")))
+
+(define-public crate-slack-hook-0.4.0 (c (n "slack-hook") (v "0.4.0") (d (list (d (n "chrono") (r "^0.3.1") (d #t) (k 0)) (d (n "clippy") (r "^0.0") (o #t) (d #t) (k 0)) (d (n "curl") (r ">= 0.3.0, < 0.5.0") (d #t) (k 0)) (d (n "error-chain") (r "~0.10") (d #t) (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r ">= 1.2.0, < 1.5.0") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "145p4p93rmx6aam8plz87ms6v5dc21f8hgkw3282bd06b7nhdvjz")))
+
+(define-public crate-slack-hook-0.5.0 (c (n "slack-hook") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clippy") (r "^0.0") (o #t) (d #t) (k 0)) (d (n "curl") (r ">= 0.3.0, < 0.5.0") (d #t) (k 0)) (d (n "error-chain") (r "~0.10") (d #t) (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r ">= 1.2.0, < 1.6") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "0yankn77wdrpw7hx7ijg8729ymm8m7svr13qv9ylb9n99pb0zdfb")))
+
+(define-public crate-slack-hook-0.6.0 (c (n "slack-hook") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "~0.11") (d #t) (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "157zmxaqmby396gbs2k5db16d84smvh0aaj9c5yj4v3jciyzwjym")))
+
+(define-public crate-slack-hook-0.7.0 (c (n "slack-hook") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "~0.11") (d #t) (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "074gwb6nj7gqa5f8a9vbks8azsaixnk2am3lq25rrhsradvi6brc")))
+
+(define-public crate-slack-hook-0.8.0 (c (n "slack-hook") (v "0.8.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "~0.11") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "04acix9baqgzm1g5kgmgjd5qdc5d6sps9i37a9syrlicfqrnpqjh")))
+

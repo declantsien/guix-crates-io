@@ -1,0 +1,12 @@
+(define-module (crates-io kn uf knuffel-derive) #:use-module (crates-io))
+
+(define-public crate-knuffel-derive-1.0.0 (c (n "knuffel-derive") (v "1.0.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "miette") (r "^3.3.0") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.81") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "02mw1gmdndfqdhlwrj4aisx1ipw4fdb2yara0yfaamkpbg24rbbn")))
+
+(define-public crate-knuffel-derive-1.1.0 (c (n "knuffel-derive") (v "1.1.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "miette") (r "^3.3.0") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.81") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1hc7f54nvlijmi7gam5dwbxlfd3bc2g7g148fxhxgq4miapd21hm")))
+
+(define-public crate-knuffel-derive-2.0.0 (c (n "knuffel-derive") (v "2.0.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "miette") (r "^4.3.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.81") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "122lq7fl2990ridj0k32q6r432ir62j7946xn3nfb916dw5xpjzv")))
+
+(define-public crate-knuffel-derive-3.0.0 (c (n "knuffel-derive") (v "3.0.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.81") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "miette") (r "^5.1.1") (f (quote ("fancy"))) (d #t) (k 2)))) (h "19qv70hqh6512wmvkifsr8sylvg1whv17k29n0nwm6shnij5v0wc")))
+
+(define-public crate-knuffel-derive-3.2.0 (c (n "knuffel-derive") (v "3.2.0") (d (list (d (n "heck") (r "^0.4.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "miette") (r "^5.1.1") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.32") (d #t) (k 0)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "syn") (r "^1.0.81") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0g98909l5wb1d1hcz61q53kvsmjadry2w3l47lg9dywwqib7z5wi")))
+

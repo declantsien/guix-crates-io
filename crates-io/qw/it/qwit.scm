@@ -1,0 +1,34 @@
+(define-module (crates-io qw it qwit) #:use-module (crates-io))
+
+(define-public crate-qwit-0.1.0 (c (n "qwit") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)))) (h "19j883bxm94zap3mzxhf51g4g902mssp2f7lyd675wimshmhprwc")))
+
+(define-public crate-qwit-0.1.1 (c (n "qwit") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)))) (h "1afx39srbi8yx3yhfi36nxazdy4wymv9bhdp4klhzgv759vpp94j")))
+
+(define-public crate-qwit-0.1.5 (c (n "qwit") (v "0.1.5") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0fas11z3xdzhn43lxaj690pvwqzg80im2bkbmzn9hlnxl1ghn99s")))
+
+(define-public crate-qwit-0.1.6 (c (n "qwit") (v "0.1.6") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0hy7v8cs2khvj1b73irb8ww7ib2iiaga2pkp4vpah0csflp1lx01")))
+
+(define-public crate-qwit-0.2.0 (c (n "qwit") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0nj2d4ir2d2g211bc5rlpkrz7kqi2rnb30z37q43qnpz53c16n8l")))
+
+(define-public crate-qwit-1.0.0 (c (n "qwit") (v "1.0.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1af1pd93cv9nnvdrbmzhklqw8jqnj7rk1yc867ws0m2abprcmj6l")))
+
+(define-public crate-qwit-1.1.0 (c (n "qwit") (v "1.1.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "18sbcsnzmamkj1f05q0ycgpxnd0l42mh6zn115ny6smcyfxqjll3")))
+
+(define-public crate-qwit-1.2.0 (c (n "qwit") (v "1.2.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1gxgga89lsvxvz4l0bjrw76njjrxs80py7k73zmpn5f2qx68br0q")))
+
+(define-public crate-qwit-1.2.1 (c (n "qwit") (v "1.2.1") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1sbi3sdxix5c71s57d0r0q4i7nir5i5hxfvbczqbhkc4abgam39v")))
+
+(define-public crate-qwit-1.2.2 (c (n "qwit") (v "1.2.2") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "039fi48mzjr9jg44qbx9lpd2rm27kgnm8qbbkv0vz257iwh6qh5z")))
+
+(define-public crate-qwit-1.2.3 (c (n "qwit") (v "1.2.3") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "07xbv7s2i4v60n50721gd7vpdv5vqbfmjp7ccxpd3gavbxxlf46j")))
+
+(define-public crate-qwit-1.3.0 (c (n "qwit") (v "1.3.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "01zkk2krdz9lww6h6jakdvy4z18h0qs2rsmzzykh5swzwpy96zx3")))
+
+(define-public crate-qwit-1.3.1 (c (n "qwit") (v "1.3.1") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1lz6hii1qqjhwppg8r8jxgikypn8cmxlx88p2zaq42xzb95pcsym")))
+
+(define-public crate-qwit-1.4.0 (c (n "qwit") (v "1.4.0") (d (list (d (n "calamine") (r "^0.24") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0wvk66a11ckhfcg1gjhwiw1aqvh6nc2sq5sb5cswwp6kwhg22ils")))
+
+(define-public crate-qwit-1.5.0 (c (n "qwit") (v "1.5.0") (d (list (d (n "calamine") (r "^0.24") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.3.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1m1p04xpcrmsrz5amys0pc4wmqma9c63kc0cvwcsq5zvyrq74a6q")))
+
+(define-public crate-qwit-1.5.1 (c (n "qwit") (v "1.5.1") (d (list (d (n "calamine") (r "^0.24") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive" "unstable-doc" "env"))) (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "qwitlib") (r "^0.3.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0g7glp8f0bpm36fvzbsx5gqf6vmgmkvi4k7797z8j136fdpkxxnj")))
+

@@ -1,0 +1,24 @@
+(define-module (crates-io #{2}# lh) #:use-module (crates-io))
+
+(define-public crate-lh-0.1.0 (c (n "lh") (v "0.1.0") (h "1wbpz3n53ynma2i2mrcrk9wcbqbm8l3l92jdsj044k9aqa5f9cfz") (y #t)))
+
+(define-public crate-lh-0.1.1 (c (n "lh") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0blcx2gvkl9b0ci0kxz7j1vi28fdndhfll0m2vmlq1hx9z5c6i98") (y #t)))
+
+(define-public crate-lh-0.1.2 (c (n "lh") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "02a276hilhdifn6bkka63wj58pfp0qdz27n3aymcfybllfmzn7ll") (y #t)))
+
+(define-public crate-lh-0.1.3 (c (n "lh") (v "0.1.3") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "10yr5z0byn1jadsdr9q9m7kzhzyhvk84s5ql70071312350b401f") (y #t)))
+
+(define-public crate-lh-0.1.4 (c (n "lh") (v "0.1.4") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1w87yq67hkp4b2xv519x11gd8myrvxkw3yc8kvkm204g5la6mdgp") (y #t)))
+
+(define-public crate-lh-0.1.5 (c (n "lh") (v "0.1.5") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1aabhfm6c9w10qjy8iyj2548d4bqfp1rj4rz6r7k0fknsypa5acf") (y #t)))
+
+(define-public crate-lh-0.1.6 (c (n "lh") (v "0.1.6") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1fh7nfvh12q8pga2cwcakb9r4jv3riwczw86mlgjx4cxiz3aw5ma")))
+
+(define-public crate-lh-0.2.0 (c (n "lh") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1d8jdm75k2qrg5iawly3b7fg18n966yyp7az3x3xa6iqp53h8q3s")))
+
+(define-public crate-lh-0.2.1 (c (n "lh") (v "0.2.1") (d (list (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0jdcgb3al75d1aimhb32y3ygb4v0xbmh8vz5x9vwbd3d313y4q8i")))
+
+(define-public crate-lh-0.3.0 (c (n "lh") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)))) (h "1275n3ap95n8nahccf33sbkp28cigiv1vj2gfzlsc0jp6imvyb1p")))
+
+(define-public crate-lh-0.3.1 (c (n "lh") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.195") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)))) (h "0jyyi9974cc855l5dzx1669nafwza4wj3yr8nwq73vv6k7hllk4s")))
+

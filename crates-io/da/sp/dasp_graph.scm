@@ -1,0 +1,4 @@
+(define-module (crates-io da sp dasp_graph) #:use-module (crates-io))
+
+(define-public crate-dasp_graph-0.11.0 (c (n "dasp_graph") (v "0.11.0") (d (list (d (n "dasp_frame") (r "^0.11") (f (quote ("std"))) (o #t) (k 0)) (d (n "dasp_ring_buffer") (r "^0.11") (f (quote ("std"))) (o #t) (k 0)) (d (n "dasp_signal") (r "^0.11") (f (quote ("std"))) (o #t) (k 0)) (d (n "dasp_slice") (r "^0.11") (f (quote ("std"))) (o #t) (k 0)) (d (n "petgraph") (r "^0.5") (k 0)) (d (n "petgraph") (r "^0.5") (f (quote ("stable_graph"))) (d #t) (k 2)))) (h "1i6p4vgkyyjm28rlh07dzp2jvciv1ii8a03kaj0cg90z383ppc9r") (f (quote (("node-sum" "dasp_slice") ("node-signal" "dasp_frame" "dasp_signal") ("node-pass") ("node-graph") ("node-delay" "dasp_ring_buffer") ("node-boxed") ("default" "all-nodes") ("all-nodes" "node-boxed" "node-delay" "node-graph" "node-pass" "node-signal" "node-sum"))))))
+

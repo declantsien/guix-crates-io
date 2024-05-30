@@ -1,0 +1,8 @@
+(define-module (crates-io md bo mdbook-nocomment) #:use-module (crates-io))
+
+(define-public crate-mdbook-nocomment-0.1.0 (c (n "mdbook-nocomment") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2") (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (k 0)) (d (n "pulldown-cmark") (r "^0.9") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^10.0") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "06v3wha18gzpk8vvdyngwha3pzgb75hnkys7kadpahlcmr51d2ia")))
+
+(define-public crate-mdbook-nocomment-0.2.0 (c (n "mdbook-nocomment") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (k 0)) (d (n "pulldown-cmark") (r "^0.9") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^10.0") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1r82rw8k699ks3034hm2a3c3gc2nhg5c4i0pr8jqfjx951dfcbva") (y #t)))
+
+(define-public crate-mdbook-nocomment-0.2.1 (c (n "mdbook-nocomment") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (k 0)) (d (n "pulldown-cmark") (r "^0.9") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^10.0") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "01l0b0qzgvfszn8a2mv49wwmpf8a3f8vxprgpagy39pigbcxpgc8")))
+

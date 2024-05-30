@@ -1,0 +1,4 @@
+(define-module (crates-io fi re firecore-engine) #:use-module (crates-io))
+
+(define-public crate-firecore-engine-0.0.1 (c (n "firecore-engine") (v "0.0.1") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 2)) (d (n "dashmap") (r "^4") (o #t) (d #t) (k 0)) (d (n "enum-map") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "firecore-audio") (r "^0.0.1") (d #t) (k 0)) (d (n "firecore-tetra") (r "^0.0.1") (f (quote ("serde_support" "texture_png" "sdl2_static_link" "sdl2_bundled"))) (k 0)) (d (n "firecore-text") (r "^0.0.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "13a7a18z7fw57gw1anfk0ffc79v11kp1mwdk6hnb10lxvjk5dbm5") (f (quote (("default") ("audio" "firecore-tetra/audio" "firecore-tetra/audio_vorbis" "dashmap"))))))
+

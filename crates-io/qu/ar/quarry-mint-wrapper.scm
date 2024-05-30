@@ -1,0 +1,70 @@
+(define-module (crates-io qu ar quarry-mint-wrapper) #:use-module (crates-io))
+
+(define-public crate-quarry-mint-wrapper-0.1.1 (c (n "quarry-mint-wrapper") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.13.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.13.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.8") (d #t) (k 0)) (d (n "vipers") (r "^0.1.1") (d #t) (k 0)))) (h "00fs20rn331rp14h0aqpm6a3g9qirf215wvy8z8w1i93s6fbwjgq") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-0.2.0 (c (n "quarry-mint-wrapper") (v "0.2.0") (d (list (d (n "anchor-lang") (r "^0.13.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.13.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.8") (d #t) (k 0)) (d (n "vipers") (r "^0.1.1") (d #t) (k 0)))) (h "0fj4i7vyak8g4il0z26mgzhh55xhm2s8vgdbbwxif8iskwgwqzpk") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.0.1 (c (n "quarry-mint-wrapper") (v "1.0.1") (d (list (d (n "anchor-lang") (r "^0.13.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.13.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.8") (d #t) (k 0)) (d (n "vipers") (r "^0.1.1") (d #t) (k 0)))) (h "04wzjm5plwijj5q4yggs6f89gx3laigm4rqkkl582jsp8219pj6m") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.1.0 (c (n "quarry-mint-wrapper") (v "1.1.0") (d (list (d (n "anchor-lang") (r "^0.13.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.13.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.8") (d #t) (k 0)) (d (n "vipers") (r "^0.1.1") (d #t) (k 0)))) (h "0lvzj692lq8shngrw4pk6vf3d4h1pp9mgjq8wx809ci6hkv0fyxp") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.2.0 (c (n "quarry-mint-wrapper") (v "1.2.0") (d (list (d (n "anchor-lang") (r "^0.13.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.13.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.8") (d #t) (k 0)) (d (n "vipers") (r "^0.1.1") (d #t) (k 0)))) (h "13d580lvfan5qhn0cwhf6z12wqnhj3awg7kmjfwisqmiaz55np2s") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.3.0 (c (n "quarry-mint-wrapper") (v "1.3.0") (d (list (d (n "anchor-lang") (r "^0.13.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.13.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.8") (d #t) (k 0)) (d (n "vipers") (r "^0.1.1") (d #t) (k 0)))) (h "0sj5ih1fhd9sbqg6z52xm1x5jji3phzjdhjsr74fhxakhcj87v4w") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.7.0 (c (n "quarry-mint-wrapper") (v "1.7.0") (d (list (d (n "anchor-lang") (r "^0.16.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.16.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "vipers") (r "^1.1.0") (d #t) (k 0)))) (h "1sp079bcm0xj6m3n4z74qgclik7fkckpx3wxcn899d4q5m0i8mbk") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.8.0 (c (n "quarry-mint-wrapper") (v "1.8.0") (d (list (d (n "anchor-lang") (r "^0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.17.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "vipers") (r "^1.1.0") (d #t) (k 0)))) (h "14wbcqis0nw80q94bbpri96fqpv59xhkrn6h1av5inx3w4y142rd") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.8.3 (c (n "quarry-mint-wrapper") (v "1.8.3") (d (list (d (n "anchor-lang") (r "^0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.17.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "vipers") (r "^1.2.1") (d #t) (k 0)))) (h "0x3wkrkd1cxdl2zvyrqywsa9kl0182v494ryixbiahlfpnh19az1") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.8.4 (c (n "quarry-mint-wrapper") (v "1.8.4") (d (list (d (n "anchor-lang") (r "^0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.17.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "vipers") (r "^1.2.1") (d #t) (k 0)))) (h "0kgqvwbf54vf49lr2n78l9fk9fv9h6h09j5cfnddcv0rs82gwcwq") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.9.0 (c (n "quarry-mint-wrapper") (v "1.9.0") (d (list (d (n "anchor-lang") (r "^0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.17.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "vipers") (r "^1.2.1") (d #t) (k 0)))) (h "0mjc1i3m7ifn8kpi37hg8x6m03c8p7wqszz0bzfdz482pwf1i21g") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.10.0 (c (n "quarry-mint-wrapper") (v "1.10.0") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.3.0") (d #t) (k 0)))) (h "14kf8s20cr40j2gzklxf40z63ah6pxpkqs9ziqiqam1b65wbvf6m") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.10.5 (c (n "quarry-mint-wrapper") (v "1.10.5") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.3") (d #t) (k 0)))) (h "1mnwk3da9argikspsfp6vz6flh9h2fgxilys4mq1q032m1hkl6aq") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.10.6 (c (n "quarry-mint-wrapper") (v "1.10.6") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.3") (d #t) (k 0)))) (h "0yd4gp15w2vk3ap1d7gdfj9vrbdsm4ylxc9mc8q2gxqz19c25v1z") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.0 (c (n "quarry-mint-wrapper") (v "1.11.0") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "0krqmvcph3r7jdw0759yvinqvnwn16iy2d5qx59qxdjci9hzzg21") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.1 (c (n "quarry-mint-wrapper") (v "1.11.1") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "04y53w90ccklrwf2lrmfbf93y69x7qnfjqb9l6pzmr13l5hari06") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.3 (c (n "quarry-mint-wrapper") (v "1.11.3") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "1qb4c4pvhn5a0i8slhcxcd6yb79zhzjchkgcnvvxadrs0ccw10nj") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.6 (c (n "quarry-mint-wrapper") (v "1.11.6") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "1ydkvc2sn5qg0gdajks4bsw7qckx1spcp81j34baknr4n67fyv9h") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.8 (c (n "quarry-mint-wrapper") (v "1.11.8") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "01bxw6yicyi6v0509r3h33vr6lcgx2a8y78n1ydpfwrnldsqfz78") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.9 (c (n "quarry-mint-wrapper") (v "1.11.9") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "1s3gj7xr3y5r736khdz0mx9z5fsx6pb2wzgz49r661v2rrzra280") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.10 (c (n "quarry-mint-wrapper") (v "1.11.10") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.7") (d #t) (k 0)))) (h "1c31a3ihbywvbhfyk3lfzfhf735vjbj055wv1a4c6mwp9nj09q29") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-1.11.11 (c (n "quarry-mint-wrapper") (v "1.11.11") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.7") (d #t) (k 0)))) (h "0s2ah5kxrmpj98rafrmm8hvkb4q3hpy2dzhv5nf8cw5n0701plif") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-2.0.0 (c (n "quarry-mint-wrapper") (v "2.0.0") (d (list (d (n "anchor-lang") (r ">=0.21") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.21") (d #t) (k 0)) (d (n "vipers") (r "^1.6") (d #t) (k 0)))) (h "1gcwjdh1j2s8j8qzyjqqnln71y74c7dfazcp352j1i7lr54709zh") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-2.0.1 (c (n "quarry-mint-wrapper") (v "2.0.1") (d (list (d (n "anchor-lang") (r ">=0.21") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.21") (d #t) (k 0)) (d (n "vipers") (r "^1.6") (d #t) (k 0)))) (h "1sj7g3qp50qzikf83d7k0jsr36qpvd5vy5jxgm1dfkp4dh42gl09") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-3.0.0 (c (n "quarry-mint-wrapper") (v "3.0.0") (d (list (d (n "anchor-lang") (r "^0.22") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.22") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "0x763cmd04hw4pahb52nnizb2bd73sh29zl8yy5rcwlvl590drn4") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-4.0.0 (c (n "quarry-mint-wrapper") (v "4.0.0") (d (list (d (n "anchor-lang") (r ">=0.22, <0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <0.24") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "10j5p5hgdrb9078jq6k56bzbahm9rylylvsa2gfw14br4544rpx0") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-4.1.0 (c (n "quarry-mint-wrapper") (v "4.1.0") (d (list (d (n "anchor-lang") (r ">=0.22, <0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <0.24") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "0y4rnld7hzpd790kmz8pfd5d2lyzpslwdnms2s6i8wczfmk906qv") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-4.2.0 (c (n "quarry-mint-wrapper") (v "4.2.0") (d (list (d (n "anchor-lang") (r ">=0.22, <0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <0.24") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "1bm01bh8lw33anv4y59wygriwn7qghjw0l12n814ng23gck3ssxk") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-4.2.1 (c (n "quarry-mint-wrapper") (v "4.2.1") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.0.1") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "1dj7d4x727y7ba1xxb6ih3ajg8ccd47l7rdigdfbwjn4qcdywcm2") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-5.0.0 (c (n "quarry-mint-wrapper") (v "5.0.0") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.0.1") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "0wsi1y1rfi1jajwwcrqi3b9izml758hvmdkqvh5a1x07dhzf7s95") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-5.0.1 (c (n "quarry-mint-wrapper") (v "5.0.1") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.0.1") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "1x5576lazx4n15kh5daqlr1f3676y9haxwf3y3baax68lc9jplmx") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-5.0.2 (c (n "quarry-mint-wrapper") (v "5.0.2") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.0.1") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "0rpil993h0s483cbdgmlny7fr6rfcc1bn38j5s5ws0sgacayfk8f") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-5.1.0 (c (n "quarry-mint-wrapper") (v "5.1.0") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.0.1") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "0jwknlm8pxywlh7knf41r6js8az3jb9853pxfg9qplg46hm199va") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-quarry-mint-wrapper-5.2.0 (c (n "quarry-mint-wrapper") (v "5.2.0") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.25") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.25") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.0.1") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)))) (h "1w8ls1cszxl67p84a4dsnkdk1j8hm3rl8ynjmyn2fc6pj603ghgs") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

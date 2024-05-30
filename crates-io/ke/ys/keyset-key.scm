@@ -1,0 +1,8 @@
+(define-module (crates-io ke ys keyset-key) #:use-module (crates-io))
+
+(define-public crate-keyset-key-0.3.0 (c (n "keyset-key") (v "0.3.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "color") (r "^0.3.0") (f (quote ("rgb"))) (d #t) (k 0) (p "keyset-color")) (d (n "geom") (r "^0.3.0") (d #t) (k 0) (p "keyset-geom")) (d (n "kle-serial") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "unindent") (r "^0.2") (d #t) (k 2)))) (h "12phmv6nycwks3ig9c8x6d0xs2ykh1gqk16fs1jg3012mhsxb302") (f (quote (("kle" "kle-serial" "serde_json")))) (r "1.70")))
+
+(define-public crate-keyset-key-0.3.1 (c (n "keyset-key") (v "0.3.1") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "color") (r "^0.3.1") (f (quote ("rgb"))) (d #t) (k 0) (p "keyset-color")) (d (n "geom") (r "^0.3.1") (d #t) (k 0) (p "keyset-geom")) (d (n "kle-serial") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "unindent") (r "^0.2") (d #t) (k 2)))) (h "1hk4mf1fb9ida6rsc9fhinpbml24liv97s410ba1prfkn9cbn311") (f (quote (("kle" "kle-serial" "serde_json")))) (r "1.70")))
+
+(define-public crate-keyset-key-0.3.2 (c (n "keyset-key") (v "0.3.2") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "color") (r "^0.3.2") (f (quote ("rgb"))) (d #t) (k 0) (p "keyset-color")) (d (n "geom") (r "^0.3.2") (d #t) (k 0) (p "keyset-geom")) (d (n "kle-serial") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "unindent") (r "^0.2") (d #t) (k 2)))) (h "1p51vbjmj7v16zjn907wk9wc0dgfaz40qn218x0kwd5gp12spysx") (f (quote (("kle" "kle-serial" "serde_json")))) (r "1.70")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ta ur tauri-plugin-screen-lock-status) #:use-module (crates-io))
+
+(define-public crate-tauri-plugin-screen-lock-status-0.0.1 (c (n "tauri-plugin-screen-lock-status") (v "0.0.1") (d (list (d (n "tauri") (r "^1.5.4") (d #t) (k 0)) (d (n "windows") (r "0.*") (f (quote ("Win32_Foundation" "Win32_System_RemoteDesktop" "Win32_System_LibraryLoader" "Win32_UI_WindowsAndMessaging" "Win32_Graphics_Gdi" "Win32_UI_Input_KeyboardAndMouse"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "zbus") (r "^3.14.1") (d #t) (t "cfg(linux)") (k 0)))) (h "1c8mrbj30vi5f053ss1r8lfaaz0aplr5pczzllm43q4y9hj1lib7") (y #t) (r "1.60")))
+
+(define-public crate-tauri-plugin-screen-lock-status-0.1.2 (c (n "tauri-plugin-screen-lock-status") (v "0.1.2") (d (list (d (n "core-foundation") (r "^0.9.4") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-graphics") (r "^0.23.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "tauri") (r "^1.5.4") (d #t) (k 0)) (d (n "windows") (r "0.*") (f (quote ("Win32_Foundation" "Win32_System_RemoteDesktop" "Win32_System_LibraryLoader" "Win32_UI_WindowsAndMessaging" "Win32_Graphics_Gdi" "Win32_UI_Input_KeyboardAndMouse"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "zbus") (r "^3.14.1") (d #t) (t "cfg(linux)") (k 0)))) (h "1998wh82i05ypgwzbfz0xg41bhkn80bifpjpx02ry5fjv44fq8wx") (r "1.60")))
+

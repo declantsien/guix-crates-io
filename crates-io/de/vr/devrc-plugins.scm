@@ -1,0 +1,14 @@
+(define-module (crates-io de vr devrc-plugins) #:use-module (crates-io))
+
+(define-public crate-devrc-plugins-0.5.0 (c (n "devrc-plugins") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "datetime") (r "^0.5.2") (k 1)) (d (n "devrc-core") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "1drcl2dn1q1yd0qjfi815fxmm0m92vd24cvyp40i3nxq0sb52fv0")))
+
+(define-public crate-devrc-plugins-0.5.1 (c (n "devrc-plugins") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "datetime") (r "^0.5.2") (k 1)) (d (n "devrc-core") (r "^0.5.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "1hcsrcxm69rajzhqga0l5v3kp1wi6vv4xd24h38j456jfp70hw81")))
+
+(define-public crate-devrc-plugins-0.5.2 (c (n "devrc-plugins") (v "0.5.2") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "datetime") (r "^0.5.2") (k 1)) (d (n "devrc-core") (r "^0.5.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "1vp3f26iaq6vwkb8pzrs966l69fchf3s9wpx7qj196jxmirb4lx1")))
+
+(define-public crate-devrc-plugins-0.5.3 (c (n "devrc-plugins") (v "0.5.3") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "datetime") (r "^0.5.2") (k 1)) (d (n "devrc-core") (r "^0.5.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "027mf978w1i791w9mjixagw0s7lpfqmbdy7bh8wl9zi3j2l5kscv")))
+
+(define-public crate-devrc-plugins-0.5.4 (c (n "devrc-plugins") (v "0.5.4") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "datetime") (r "^0.5.2") (k 1)) (d (n "devrc-core") (r "^0.5.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "1gnx48dqd7fayfh56mzvwsbc61aj774pqw47xxvhj84zqbv3y579")))
+
+(define-public crate-devrc-plugins-0.6.0 (c (n "devrc-plugins") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "datetime") (r "^0.5.2") (k 1)) (d (n "devrc-core") (r "^0.6.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "0kbk3gih9pbdihllif4hm28q4ksmd67smsvkkhfldqdbjrpl3jjz")))
+

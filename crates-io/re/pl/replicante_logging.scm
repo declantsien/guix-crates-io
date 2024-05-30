@@ -1,0 +1,10 @@
+(define-module (crates-io re pl replicante_logging) #:use-module (crates-io))
+
+(define-public crate-replicante_logging-0.1.1 (c (n "replicante_logging") (v "0.1.1") (d (list (d (n "serde") (r "^1.0.34") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.34") (d #t) (k 0)) (d (n "slog") (r "^2.2.3") (d #t) (k 0)) (d (n "slog-async") (r "^2.2.0") (d #t) (k 0)) (d (n "slog-journald") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "slog-json") (r "^2.2.0") (d #t) (k 0)))) (h "1vlycpkakj3855ljw3ilw9z3aci8a9qws3f4ak79gbi8dy8nbwd4") (f (quote (("journald" "slog-journald"))))))
+
+(define-public crate-replicante_logging-0.1.2 (c (n "replicante_logging") (v "0.1.2") (d (list (d (n "serde") (r "^1.0.34") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.34") (d #t) (k 0)) (d (n "slog") (r "^2.2.3") (d #t) (k 0)) (d (n "slog-async") (r "^2.2.0") (d #t) (k 0)) (d (n "slog-journald") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "slog-json") (r "^2.2.0") (d #t) (k 0)))) (h "1g1r2vrp8b2n8hljrkyqml5n46kbbfyqfcrfw1nxkyxb8qlyjjw2") (f (quote (("journald" "slog-journald"))))))
+
+(define-public crate-replicante_logging-0.1.3 (c (n "replicante_logging") (v "0.1.3") (d (list (d (n "serde") (r "^1.0.34") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.34") (d #t) (k 0)) (d (n "slog") (r "^2.2.3") (d #t) (k 0)) (d (n "slog-async") (r "^2.2.0") (d #t) (k 0)) (d (n "slog-journald") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "slog-json") (r "^2.2.0") (d #t) (k 0)))) (h "0a085sa7jamzl4xsjxjdlnanq0vmjqlbmkmm2xb1kvpd3jk4g46i") (f (quote (("journald" "slog-journald"))))))
+
+(define-public crate-replicante_logging-0.1.4 (c (n "replicante_logging") (v "0.1.4") (d (list (d (n "serde") (r "^1.0.34") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.34") (d #t) (k 0)) (d (n "slog") (r "^2.2.3") (d #t) (k 0)) (d (n "slog-async") (r "^2.2.0") (d #t) (k 0)) (d (n "slog-journald") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "slog-json") (r "^2.2.0") (d #t) (k 0)))) (h "1hhijcripm3h69zbwa0zs3ri0j9jaz2brasmksfqc5qp6rp5bwnn") (f (quote (("journald" "slog-journald"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io we ar wearte_derive) #:use-module (crates-io))
+
+(define-public crate-wearte_derive-0.0.1 (c (n "wearte_derive") (v "0.0.1") (d (list (d (n "memchr") (r "^2.1") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.0-alpha") (d #t) (k 0)) (d (n "nom") (r "^4.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "wearte_config") (r "^0.0") (d #t) (k 0)))) (h "0rhaxsk05kyprjzmfb0lab4lrw67x5b2nsr1i0xky44q56kvsq0a") (f (quote (("actix-web"))))))
+
+(define-public crate-wearte_derive-0.0.2 (c (n "wearte_derive") (v "0.0.2") (d (list (d (n "memchr") (r "^2.1") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.0-alpha") (d #t) (k 0)) (d (n "nom") (r "^4.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)) (d (n "toolchain_find") (r "^0.1") (d #t) (k 0)) (d (n "wearte_config") (r "^0.0") (d #t) (k 0)))) (h "0zqrhwv7mvfrylsm0dz0igb4g4fl6za9dkin7cxydl34sh0fyndc") (f (quote (("actix-web"))))))
+

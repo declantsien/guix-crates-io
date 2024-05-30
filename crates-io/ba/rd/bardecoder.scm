@@ -1,0 +1,24 @@
+(define-module (crates-io ba rd bardecoder) #:use-module (crates-io))
+
+(define-public crate-bardecoder-0.1.0 (c (n "bardecoder") (v "0.1.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "0py1ghymlmh0lm2i17lk0xfgvxp1bnsi45fvdcibihikc87k89hr") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.1.1 (c (n "bardecoder") (v "0.1.1") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "0s0magjjw284f4gna067pdnf8mji6plbmg3rqrq3bwc9rd9gh2pa") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.1.2 (c (n "bardecoder") (v "0.1.2") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "1l2n6ynkxlypmbn2v9j4rirdi6384zvjfkisd53if982nrsl5hah") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.2.0 (c (n "bardecoder") (v "0.2.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.22") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "1vfwsbnbmw58dvnm64vi7r39897qfxc8f2njzmca72bslk8kql2x") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.2.1 (c (n "bardecoder") (v "0.2.1") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.22") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "0ky6rappvp3vf37yagwqz67vy0rra0n4ah1gs459s25xvn7jr2d5") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.2.2 (c (n "bardecoder") (v "0.2.2") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.22") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "1ynw340ql7x6x4dwdilpiqlzk7yn4sfsh055xqbmgjd15hpax29c") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.3.0 (c (n "bardecoder") (v "0.3.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "image") (r ">=0.22, <=0.23") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)))) (h "0g2y2cmhpjjf0wcm7b2bz2x3p3mklazfkvpglvqaqy4xnzqwnx8v") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.4.0 (c (n "bardecoder") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "image") (r ">=0.23.14, <0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0jvw6lch61nyacjwblxnvpgvcjqwbw2fi1x97bcylc6k3lmk87yb") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.4.1 (c (n "bardecoder") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "image") (r ">=0.23.14, <=0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0mk1pk1dxb5hk8413bkzw54i8mdbvs0wv9xv82qn29p7yd83b4gb") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.4.2 (c (n "bardecoder") (v "0.4.2") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "image") (r ">=0.23.14, <=0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "071gz5gr7wyl02l1xjcqh4hxmfmw3y1n6m7c8j0bvcqkkv15ivgq") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+
+(define-public crate-bardecoder-0.5.0 (c (n "bardecoder") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1n9mvr4a39wdh22kfnvzkcrk29p97jgl880lma4dspbxfnwylzkm") (f (quote (("fail-on-warnings") ("default") ("debug-images") ("benchmark"))))))
+

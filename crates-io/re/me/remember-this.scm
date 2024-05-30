@@ -1,0 +1,4 @@
+(define-module (crates-io re me remember-this) #:use-module (crates-io))
+
+(define-public crate-remember-this-0.1.0 (c (n "remember-this") (v "0.1.0") (d (list (d (n "chrono") (r ">=0.4.0, <0.5.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r ">=0.8.0, <0.9.0") (d #t) (k 2)) (d (n "flexbuffers") (r ">=0.2.0, <0.3.0") (d #t) (k 0)) (d (n "log") (r ">=0.4.0, <0.5.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("rc"))) (d #t) (k 0)) (d (n "skeptic") (r ">=0.13.0, <0.14.0") (d #t) (k 1)) (d (n "skeptic") (r ">=0.13.0, <0.14.0") (d #t) (k 2)) (d (n "sled") (r ">=0.34.0, <0.35.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.3.0, <0.4.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "typed-builder") (r ">=0.7.0, <0.8.0") (d #t) (k 0)))) (h "0ir17kdcmnys3g3msnc1izr9kysy04nf7phsjhp7148hmav1138y")))
+

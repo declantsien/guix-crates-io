@@ -1,0 +1,6 @@
+(define-module (crates-io ag ro agro) #:use-module (crates-io))
+
+(define-public crate-agro-0.1.0 (c (n "agro") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.2.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "feed-rs") (r "^1.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "sd-notify") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1qnyvzyy1fvk8b4njpl903kx4mk8ias5dfjjx0cv8ggf6jd3098a")))
+
+(define-public crate-agro-0.1.1 (c (n "agro") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.2.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "feed-rs") (r "^1.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "sd-notify") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tera") (r "^1.18.1") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1yxgm6yw6yl10rk03yp8qwjskh95wy6p2lqzw0q06hnpqf9cza7y")))
+

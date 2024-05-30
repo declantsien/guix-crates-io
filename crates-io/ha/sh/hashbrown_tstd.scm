@@ -1,0 +1,4 @@
+(define-module (crates-io ha sh hashbrown_tstd) #:use-module (crates-io))
+
+(define-public crate-hashbrown_tstd-0.7.1 (c (n "hashbrown_tstd") (v "0.7.1") (d (list (d (n "ahash") (r "^0.3.2") (o #t) (k 0)) (d (n "autocfg") (r "^1") (d #t) (k 1)) (d (n "doc-comment") (r "^0.3.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.2") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 2)) (d (n "rustc-hash") (r "= 1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.25") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)))) (h "0p0jsgd3mwd88dirwv3srgml0nbsl4pj6ybj2kzll0jfx3rffmrw") (f (quote (("rustc-internal-api") ("rustc-dep-of-std" "nightly" "rustc-internal-api") ("raw") ("nightly") ("inline-more") ("default" "ahash" "ahash-compile-time-rng" "inline-more") ("ahash-compile-time-rng" "ahash/compile-time-rng"))))))
+

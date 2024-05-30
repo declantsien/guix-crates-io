@@ -1,0 +1,36 @@
+(define-module (crates-io no ug nougat) #:use-module (crates-io))
+
+(define-public crate-nougat-0.0.0 (c (n "nougat") (v "0.0.0") (h "0cg9vqjnrxz8s3xzzy65sac546w7fvjxgwk0pnrmb6q80p7yz2kb")))
+
+(define-public crate-nougat-0.0.1-alpha (c (n "nougat") (v "0.0.1-alpha") (d (list (d (n "macro_rules_attribute") (r "^0.1.0") (d #t) (k 2)) (d (n "nougat-proc_macros") (r "^0.0.1-alpha") (d #t) (k 0)))) (h "04rjmb8v3f25ylhvkd4l7pw1kb71majjn4db150fp8dlbh980950") (f (quote (("ui-tests" "better-docs") ("better-docs"))))))
+
+(define-public crate-nougat-0.1.0-rc1 (c (n "nougat") (v "0.1.0-rc1") (d (list (d (n "macro_rules_attribute") (r "^0.1.0") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.1.0-rc1") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (d #t) (k 2)))) (h "1a3c75aqa9m47rwcapf87c1lrimagia3w949kgjsz32ir66z9zny") (f (quote (("ui-tests" "docs") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.1.0-rc2 (c (n "nougat") (v "0.1.0-rc2") (d (list (d (n "macro_rules_attribute") (r "^0.1.0") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.1.0-rc2") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (d #t) (k 2)))) (h "11dyj1rcv9nylbmkpvqknpzyzd93hlivcsnwz7xkryvs9ncqrrby") (f (quote (("ui-tests" "docs") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.1.0 (c (n "nougat") (v "0.1.0") (d (list (d (n "macro_rules_attribute") (r "^0.1.0") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (d #t) (k 2)))) (h "046ah9rjr3rjr92n1drm8y8ak0x51ycgx0521j9v62dpfsja7bwd") (f (quote (("ui-tests" "docs") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.0-rc1 (c (n "nougat") (v "0.2.0-rc1") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.0-rc1") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "0plhg58lmq1avfaqakvr04pyv0mgalwzhgm88sw6299k6x5ld6k4") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.0-rc2 (c (n "nougat") (v "0.2.0-rc2") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.0-rc2") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1xk4pf361kg8f4jmmin8zp1rhaqks2z87g9c673mi2dl162my2kd") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.0 (c (n "nougat") (v "0.2.0") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "0kd2db8k7c4yb8kpmbc9i5sicljc39vqm419h9aqhk4y5nkpbmzn") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.1-rc1 (c (n "nougat") (v "0.2.1-rc1") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.1-rc1") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1clh6q2jwyrdpspw90c5yacyvx3d7y92fbf65anlr3ypffr10v59") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.1-rc2 (c (n "nougat") (v "0.2.1-rc2") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.1-rc2") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1mz1n9qsa5fazhqrzsrb7ky2m4p80s6wd74gavv36373m4bzk825") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.1 (c (n "nougat") (v "0.2.1") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.1") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "044fi6lnk0b6wn6jn4j121rjnn4qmxyzlbb4j55biw3yqdv3ki3w") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.2-rc1 (c (n "nougat") (v "0.2.2-rc1") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.2-rc1") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "0g539x6lz3m8plbgyw17wv9nkyw3m9sgk7rcxc7rn74fvbakvs26") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.2 (c (n "nougat") (v "0.2.2") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.2") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1z3np6p8lq2sd2n9j45wm5xdgy0mgsiyx4lcmh7lvhbgk27h9miq") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.3-rc1 (c (n "nougat") (v "0.2.3-rc1") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.3-rc1") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "0nan87n10j4ha7r5dyj2dz4klcgya7ynhzr3qvihpskbhpazfkzf") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.3-rc2 (c (n "nougat") (v "0.2.3-rc2") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.3-rc2") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1p3ajd22ca6sv05a50rwxsjxc6wia2mx5w92jbhsgkk97fqv443x") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.3 (c (n "nougat") (v "0.2.3") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.3") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1835h96n13c7ghk0jz2y50cxphliqqh46hcrz8pf851nya6mlf6h") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+
+(define-public crate-nougat-0.2.4 (c (n "nougat") (v "0.2.4") (d (list (d (n "macro_rules_attribute") (r "^0.1.2") (d #t) (k 0)) (d (n "nougat-proc_macros") (r "^0.2.4") (d #t) (k 0)) (d (n "polonius-the-crab") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "0415fi2g0nf75ynp9pyrxy02v9bz7hfkyrzwakq244s3xnf7pdcp") (f (quote (("ui-tests" "docs") ("test-lending-iterator-filter" "polonius-the-crab") ("docs") ("debug-macros" "nougat-proc_macros/debug-macros"))))))
+

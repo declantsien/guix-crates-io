@@ -1,0 +1,4 @@
+(define-module (crates-io vk -m vk-mem-vulkanalia) #:use-module (crates-io))
+
+(define-public crate-vk-mem-vulkanalia-0.1.0+vk-mem-0.4.0 (c (n "vk-mem-vulkanalia") (v "0.1.0+vk-mem-0.4.0") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "bitflags") (r "^2.5") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "vulkanalia") (r "^0.23.0") (k 0)) (d (n "vulkanalia") (r "^0.23.0") (f (quote ("libloading" "provisional"))) (d #t) (k 2)) (d (n "vulkanalia-sys") (r "^0.23.0") (k 0)))) (h "1bawn68125qlzi5kw203ymlnwrb87dy28ncjybsr0dg1aywy1ak7") (f (quote (("std" "vulkanalia/std" "vulkanalia-sys/std") ("recording") ("no_std_error" "vulkanalia/no_std_error" "vulkanalia-sys/no_std_error") ("libloading" "vulkanalia/libloading") ("generate_bindings" "bindgen") ("default" "std" "libloading"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ws br wsbroad) #:use-module (crates-io))
+
+(define-public crate-wsbroad-0.1.0 (c (n "wsbroad") (v "0.1.0") (d (list (d (n "compactmap") (r "^0.3") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-await") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "websocket") (r "^0.20") (f (quote ("async"))) (k 0)))) (h "08mmpvp9b3c2a69s6iqwj4n7b8sqchx3awr9mi3fc2ap0736qi96")))
+
+(define-public crate-wsbroad-0.2.0 (c (n "wsbroad") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.36") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("net" "rt" "macros" "sync"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.12.0") (d #t) (k 0)) (d (n "tungstenite") (r "^0.11.1") (d #t) (k 0)))) (h "1mn0xna922cvpgd7fv0znqmdyi39xzlmqf7nrjpfsns83visfgmw")))
+
+(define-public crate-wsbroad-0.2.1 (c (n "wsbroad") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.36") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("net" "rt" "macros" "sync"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.12.0") (d #t) (k 0)) (d (n "tungstenite") (r "^0.11.1") (k 0)))) (h "09a3fxfz84ah4p2ch5hm8vqagmxvw8fdp9vdhkp3m64w0994z777")))
+
+(define-public crate-wsbroad-0.2.2 (c (n "wsbroad") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.36") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "rt" "macros" "sync"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17") (d #t) (k 0)) (d (n "tungstenite") (r "^0.17") (k 0)))) (h "1fnw9nmp8qfd5hf19m3c1zhcx8lbd2f6b906w1shpcccy2id6564")))
+
+(define-public crate-wsbroad-0.3.0 (c (n "wsbroad") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.36") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "rt" "macros" "sync"))) (d #t) (k 0)) (d (n "tokio-listener") (r "^0.2.1") (f (quote ("user_facing_default"))) (k 0)) (d (n "tokio-tungstenite") (r "^0.20") (d #t) (k 0)) (d (n "tungstenite") (r "^0.20") (k 0)) (d (n "xflags") (r "^0.3.1") (d #t) (k 0)))) (h "07x2q1hlwcny2zkkjx3bhk9zpk9ivkmyn4cnf3rs02ghdazijb4x")))
+

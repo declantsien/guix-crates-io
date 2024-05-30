@@ -1,0 +1,6 @@
+(define-module (crates-io li bt libts) #:use-module (crates-io))
+
+(define-public crate-libts-0.1.0 (c (n "libts") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_debug" "release_max_level_warn"))) (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^2.1") (f (quote ("timestamps" "colors"))) (k 0)))) (h "0y6nr314h8mw48r8v4a1ssw0bgfj2hpgzr2kn2pmhacxm7alf80c") (f (quote (("tsc") ("default") ("asm"))))))
+
+(define-public crate-libts-0.1.1 (c (n "libts") (v "0.1.1") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_debug" "release_max_level_warn"))) (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^2.1") (f (quote ("timestamps" "colors"))) (k 0)))) (h "0yg0ay3jd83b6qrck3qgnnb0yf9yshkwznnpvpcbwym4phsj4k54") (f (quote (("tsc") ("default") ("asm"))))))
+

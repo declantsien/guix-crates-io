@@ -1,0 +1,14 @@
+(define-module (crates-io cl ev clevis-pin-tpm2) #:use-module (crates-io))
+
+(define-public crate-clevis-pin-tpm2-0.1.2 (c (n "clevis-pin-tpm2") (v "0.1.2") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0-beta2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tpm2-policy") (r "^0.2.0") (d #t) (k 0)) (d (n "tss-esapi") (r "^4.0.6-alpha.1") (d #t) (k 0)))) (h "0pkcwwbwl78amhsjmkxbk2rcpray75qimly5nb8xrgg8fiyb65bp")))
+
+(define-public crate-clevis-pin-tpm2-0.1.5 (c (n "clevis-pin-tpm2") (v "0.1.5") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0-beta2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tpm2-policy") (r "^0.3.1") (d #t) (k 0)) (d (n "tss-esapi") (r "^4.0.10-alpha.1") (d #t) (k 0)))) (h "07zwld11hfaxs7swkh9zk9gqcpb4gyhl9y8bd4kwrk7pwp5lkmpw")))
+
+(define-public crate-clevis-pin-tpm2-0.2.0 (c (n "clevis-pin-tpm2") (v "0.2.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0-beta2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tpm2-policy") (r "^0.3.1") (d #t) (k 0)) (d (n "tss-esapi") (r "^4.0.10-alpha.1") (d #t) (k 0)))) (h "0mvh8zpcav3klypsx73bpv71gfsr3g91wrwzw5bxma4kb1c76lw6")))
+
+(define-public crate-clevis-pin-tpm2-0.3.0 (c (n "clevis-pin-tpm2") (v "0.3.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tpm2-policy") (r "^0.4.0") (d #t) (k 0)) (d (n "tss-esapi") (r "^5.0") (d #t) (k 0)))) (h "1naq7inyc4q4yvm10y25d3fy0278x6f5c3i9l9wi7in8xqr4a1am")))
+
+(define-public crate-clevis-pin-tpm2-0.4.1 (c (n "clevis-pin-tpm2") (v "0.4.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "biscuit") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tpm2-policy") (r "^0.5.1") (d #t) (k 0)) (d (n "tss-esapi") (r "^6.1.1") (d #t) (k 0)))) (h "08xysw0wx048d9vc5n0njvasm438hg92hx0aklnp9jhbmddqaqfg")))
+
+(define-public crate-clevis-pin-tpm2-0.5.1 (c (n "clevis-pin-tpm2") (v "0.5.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "josekit") (r "^0.7.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tpm2-policy") (r "^0.5.3") (d #t) (k 0)) (d (n "tss-esapi") (r "^6.1.1") (d #t) (k 0)))) (h "1sk7yl8mpac0g06qsqgp0fczy9cn7czz82fxqs34nqh8ay4m8sss")))
+

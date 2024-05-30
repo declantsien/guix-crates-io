@@ -1,0 +1,24 @@
+(define-module (crates-io sc al scalable_cuckoo_filter) #:use-module (crates-io))
+
+(define-public crate-scalable_cuckoo_filter-0.1.0 (c (n "scalable_cuckoo_filter") (v "0.1.0") (d (list (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "siphasher") (r "^0.2") (d #t) (k 0)))) (h "06g2dqgr57kz0ns2y1vjgmli7igi95wwp30v3ymcvx1q68mz99yz")))
+
+(define-public crate-scalable_cuckoo_filter-0.1.1 (c (n "scalable_cuckoo_filter") (v "0.1.1") (d (list (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "siphasher") (r "^0.2") (d #t) (k 0)))) (h "1p013qhd6m5jg2xyyyv4fs0xjrg0rgisg40fj73g77ifnhnq4gcf")))
+
+(define-public crate-scalable_cuckoo_filter-0.1.2 (c (n "scalable_cuckoo_filter") (v "0.1.2") (d (list (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "siphasher") (r "^0.2") (d #t) (k 0)))) (h "15591075ax6a9lr6j2drr8mp70s4gzvdj8w0kd1f6xwlvpvdpx9a")))
+
+(define-public crate-scalable_cuckoo_filter-0.2.0 (c (n "scalable_cuckoo_filter") (v "0.2.0") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "056p9x5l28yzcb4y4zks5w7hn3mdgnhbnqrdcmlx11xqv6ix3a15") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.2.1 (c (n "scalable_cuckoo_filter") (v "0.2.1") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "17l8wax1gh37b36gw6igb1bwsjwl94qvd8k8b5zn6qpfgqiksqcy") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.2.2 (c (n "scalable_cuckoo_filter") (v "0.2.2") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "07b776i90c83smx7f648hj0q0dgd3iidk4gckm2535pysyvjh679") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.2.3 (c (n "scalable_cuckoo_filter") (v "0.2.3") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^1") (d #t) (k 0)))) (h "08931z1zjrflik8jizlw4cswp8l4ik4cvgm7xwqdv8rf1ljyynnl") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.2.4 (c (n "scalable_cuckoo_filter") (v "0.2.4") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "mimalloc") (r "^0.1") (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^1") (d #t) (k 0)))) (h "14z97lbcykixxv2vzczszf03g03lwch2bbh8gm947h4xjf2sbc96") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.3.0 (c (n "scalable_cuckoo_filter") (v "0.3.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "mimalloc") (r "^0.1") (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^1") (d #t) (k 0)))) (h "1kkxlgrjlv3hpl2lqvjppqilqyr523wpgwdf92grcyscf8zn0386") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.3.1 (c (n "scalable_cuckoo_filter") (v "0.3.1") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "mimalloc") (r "^0.1") (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^1") (d #t) (k 0)))) (h "1q70fvfddjh18cyldj0v1scxyfbyh84hjyzmhz0nm1pyaqzhg5i6") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+
+(define-public crate-scalable_cuckoo_filter-0.3.2 (c (n "scalable_cuckoo_filter") (v "0.3.2") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "mimalloc") (r "^0.1") (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "siphasher") (r "^1") (d #t) (k 0)))) (h "1jdi60d4jln76avc2d7m7vz1s1pfgnr42nmr4raf0ws54kz8ikcf") (f (quote (("serde_support" "serde" "serde_bytes"))))))
+

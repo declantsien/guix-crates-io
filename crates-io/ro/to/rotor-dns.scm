@@ -1,0 +1,10 @@
+(define-module (crates-io ro to rotor-dns) #:use-module (crates-io))
+
+(define-public crate-rotor-dns-0.1.0 (c (n "rotor-dns") (v "0.1.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "dns-parser") (r "^0.2.1") (d #t) (k 0)) (d (n "ip") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-error") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.3.13") (d #t) (k 0)) (d (n "resolv-conf") (r "^0.2.0") (d #t) (k 0)) (d (n "rotor") (r "^0.5.0") (d #t) (k 0)) (d (n "time") (r "^0.1.34") (d #t) (k 0)) (d (n "void") (r "^0.0.5") (d #t) (k 0)))) (h "13kwpaaldjw9pagg2dkkx13q7r3bx5j2nbsw3kkhhmmjixpbih6z")))
+
+(define-public crate-rotor-dns-0.2.0 (c (n "rotor-dns") (v "0.2.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "dns-parser") (r "^0.2.1") (d #t) (k 0)) (d (n "ip") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-error") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.3.13") (d #t) (k 0)) (d (n "resolv-conf") (r "^0.2.0") (d #t) (k 0)) (d (n "rotor") (r "^0.5.0") (d #t) (k 0)) (d (n "time") (r "^0.1.34") (d #t) (k 0)) (d (n "void") (r "^0.0.5") (d #t) (k 0)))) (h "1g7410l38hpdxwkw7b13zjja98zim6vphdakh7yf451c77278pi6")))
+
+(define-public crate-rotor-dns-0.3.0 (c (n "rotor-dns") (v "0.3.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "dns-parser") (r "^0.3.0") (d #t) (k 0)) (d (n "ip") (r "^1.0.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.13") (d #t) (k 0)) (d (n "resolv-conf") (r "^0.3.0") (d #t) (k 0)) (d (n "rotor") (r "^0.6.0") (d #t) (k 0)) (d (n "rotor-tools") (r "^0.3.0") (d #t) (k 2)))) (h "0xn485h8b72g2nkhnfsgk0d3hvibvfyxdrv1x0knifipnm6hxlkq")))
+
+(define-public crate-rotor-dns-0.4.0 (c (n "rotor-dns") (v "0.4.0") (d (list (d (n "argparse") (r "^0.2.1") (d #t) (k 2)) (d (n "dns-parser") (r "^0.3.1") (d #t) (k 0)) (d (n "quick-error") (r "^1.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.13") (d #t) (k 0)) (d (n "resolv-conf") (r "^0.4.0") (d #t) (k 0)) (d (n "rotor") (r "^0.6.1") (d #t) (k 0)) (d (n "rotor-tools") (r "^0.3.1") (d #t) (k 2)))) (h "0l848glv2xrxcszafd405qsvj5fnakq5iww8is74qr628yqmgzm9")))
+

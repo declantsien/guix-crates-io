@@ -1,0 +1,8 @@
+(define-module (crates-io sq li sqlite2mongo) #:use-module (crates-io))
+
+(define-public crate-sqlite2mongo-0.1.0 (c (n "sqlite2mongo") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.7.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "mongodb") (r "^1.1.1") (f (quote ("async-std-runtime"))) (k 0)) (d (n "sqlx") (r "^0.4.1") (f (quote ("runtime-async-std-native-tls" "chrono" "sqlite"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "1wyj2cz2q94mvwv3y2c947vy5gb4858innn6dp2bx9rizjabkz9b")))
+
+(define-public crate-sqlite2mongo-0.2.0 (c (n "sqlite2mongo") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 0)) (d (n "mongodb") (r "^1.2.1") (f (quote ("async-std-runtime"))) (k 0)) (d (n "sqlx") (r "^0.5.2") (f (quote ("runtime-async-std-native-tls" "chrono" "sqlite"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "17y36s3ixnlkjxsmfn6rs2j9gdqsk9245b5bfj9cpbp24hdql4ay")))
+
+(define-public crate-sqlite2mongo-0.3.0 (c (n "sqlite2mongo") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "mongodb") (r "^2.1") (f (quote ("async-std-runtime" "bson-chrono-0_4"))) (k 0)) (d (n "sqlx") (r "^0.5.11") (f (quote ("runtime-async-std-native-tls" "chrono" "sqlite"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "1663p70cdvzxxbwdsgr9v71ix3jr9y2kadinh8wzqas9pgnssk0q")))
+

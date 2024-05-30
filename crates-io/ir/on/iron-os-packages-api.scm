@@ -1,0 +1,4 @@
+(define-module (crates-io ir on iron-os-packages-api) #:use-module (crates-io))
+
+(define-public crate-iron-os-packages-api-0.1.0 (c (n "iron-os-packages-api") (v "0.1.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "bytes") (r "^0.2.11") (d #t) (k 0) (p "simple-bytes")) (d (n "crypto") (r "^0.4.0") (f (quote ("signature" "serde" "b64" "hash"))) (d #t) (k 0) (p "fire-crypto")) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "stream") (r "^0.4.2") (f (quote ("json" "fs" "encrypted"))) (d #t) (k 0) (p "fire-stream")) (d (n "stream-api") (r "^0.3.3") (f (quote ("encrypted" "json"))) (d #t) (k 0) (p "fire-stream-api")) (d (n "tokio") (r "^1.0") (f (quote ("net" "io-util" "time" "fs"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "io-util" "rt-multi-thread" "time" "macros" "sync"))) (d #t) (k 2)))) (h "1c4pnxph9c6w7jz1r5ksf0swzdq87wprfphvpk65cci7kwrwsi2m")))
+

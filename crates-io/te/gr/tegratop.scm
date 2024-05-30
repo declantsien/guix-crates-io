@@ -1,0 +1,6 @@
+(define-module (crates-io te gr tegratop) #:use-module (crates-io))
+
+(define-public crate-tegratop-0.1.0 (c (n "tegratop") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "ratatui") (r "^0.25") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0hmisd5q24z8nwjx7f82y46la3ww67a804ndar4lrmdk99d0qj76")))
+
+(define-public crate-tegratop-0.2.0 (c (n "tegratop") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "ratatui") (r "^0.26") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.26") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0iy89x7ncg3064nmbwz7m0xi2d2x04xjkcqdhxymd23rd74zr903")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr ee treeutils) #:use-module (crates-io))
+
+(define-public crate-treeutils-0.1.0 (c (n "treeutils") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "blake3") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "num_cpus") (r "^1.15.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.2.6") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)))) (h "19g0j8f8m0jqq48mbgfq1yw413gb01hs98ky9ghqlwf7xnb1msi1")))
+

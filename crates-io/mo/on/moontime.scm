@@ -1,0 +1,4 @@
+(define-module (crates-io mo on moontime) #:use-module (crates-io))
+
+(define-public crate-moontime-0.2.1 (c (n "moontime") (v "0.2.1") (d (list (d (n "axum") (r "^0.7.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lambda_http") (r "^0.9.2") (d #t) (k 0)) (d (n "rust-spice") (r "^0.7.8") (f (quote ("lock"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (f (quote ("float_roundtrip" "arbitrary_precision"))) (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("serde-well-known"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1xs788lgjx10887bqi1qf528dcfn5k3a8jm8cfrkk2f7lxxh5wv2")))
+

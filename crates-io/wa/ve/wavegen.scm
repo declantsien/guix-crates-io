@@ -1,0 +1,16 @@
+(define-module (crates-io wa ve wavegen) #:use-module (crates-io))
+
+(define-public crate-wavegen-0.1.0 (c (n "wavegen") (v "0.1.0") (d (list (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)))) (h "19ihsjv1k93cv0wywk6xg03qwvb9hzw9nkflb4cp8zi6qq5m1k18")))
+
+(define-public crate-wavegen-0.2.0 (c (n "wavegen") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)))) (h "0igpnjzmilnh6ryh9zq084zza85sx2a8cxi1br3r7ba4pb54g65c") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-wavegen-0.2.1 (c (n "wavegen") (v "0.2.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)))) (h "017m9wrh38fwqkiv2q75d78w5srh4idw7lzpfvyhw578fvj1snyw") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-wavegen-0.2.2 (c (n "wavegen") (v "0.2.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)))) (h "0m93zhhb3ciw000annvngjjab5saxg67n9wvbsw2j6a4z5xv0bsc") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-wavegen-0.3.0 (c (n "wavegen") (v "0.3.0") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "hound") (r "^3.5.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)))) (h "1id5rjxi85y5mlkn58lyzbf19kkxslb70vy8ggwjpz4f4rrz73cz") (f (quote (("std") ("default" "std")))) (r "1.56")))
+
+(define-public crate-wavegen-0.4.0 (c (n "wavegen") (v "0.4.0") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "hound") (r "^3.5.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)))) (h "1wvfr5ag3vm7gv413h474555qqlq68hc9669b6bjinam0a8nc067") (f (quote (("std" "num-traits/std") ("default" "std")))) (s 2) (e (quote (("libm" "dep:libm" "num-traits/libm")))) (r "1.60")))
+
+(define-public crate-wavegen-0.4.1 (c (n "wavegen") (v "0.4.1") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "hound") (r "^3.5.0") (d #t) (k 2)) (d (n "libm") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "plotters") (r "^0.3.1") (d #t) (k 2)) (d (n "rustfft") (r "^6.1.0") (d #t) (k 2)))) (h "1724gwj1mi1iwjgms9wpdd79x89plaqxv9sqw21p2rwl64f204r9") (f (quote (("std" "num-traits/std") ("default" "std")))) (s 2) (e (quote (("libm" "dep:libm" "num-traits/libm")))) (r "1.60")))
+

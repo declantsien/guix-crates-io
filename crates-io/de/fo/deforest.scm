@@ -1,0 +1,12 @@
+(define-module (crates-io de fo deforest) #:use-module (crates-io))
+
+(define-public crate-deforest-0.1.0 (c (n "deforest") (v "0.1.0") (d (list (d (n "ascii") (r "^1.1.0") (k 0)) (d (n "deforest_derive") (r "=0.1.0") (o #t) (d #t) (k 0)) (d (n "fallible-iterator") (r "^0.3.0") (k 0)) (d (n "zerocopy") (r "^0.7.6") (f (quote ("derive"))) (d #t) (k 0)))) (h "18630hs5phm5wcjzpa0mmgda8n40zpn6iylqv9h6fk0q6r8f3dmc") (f (quote (("std" "alloc" "fallible-iterator/std") ("model") ("derive" "deforest_derive") ("alloc" "fallible-iterator/alloc")))) (r "1.70")))
+
+(define-public crate-deforest-0.2.0 (c (n "deforest") (v "0.2.0") (d (list (d (n "ascii") (r "^1.1.0") (k 0)) (d (n "deforest_derive") (r "=0.1.0") (o #t) (d #t) (k 0)) (d (n "fallible-iterator") (r "^0.3.0") (k 0)) (d (n "zerocopy") (r "^0.7.6") (f (quote ("derive"))) (k 0)))) (h "0pa4dh5blrwcbwwy1z36sn3zrv2l2qbzvzvr2yv3is411c7xm5kk") (f (quote (("std" "alloc" "fallible-iterator/std") ("model") ("derive" "deforest_derive") ("alloc" "fallible-iterator/alloc")))) (r "1.73")))
+
+(define-public crate-deforest-0.3.0 (c (n "deforest") (v "0.3.0") (d (list (d (n "ascii") (r "^1.1.0") (k 0)) (d (n "deforest_derive") (r "=0.3.0") (o #t) (d #t) (k 0)) (d (n "fallible-iterator") (r "^0.3.0") (k 0)) (d (n "zerocopy") (r "^0.7.31") (f (quote ("derive"))) (k 0)))) (h "05sfz0b98bxszzspv61s2b44jk91f6pignay76mcsp55bn9hj734") (f (quote (("std" "alloc" "fallible-iterator/std") ("model") ("derive" "deforest_derive") ("alloc" "fallible-iterator/alloc")))) (r "1.74")))
+
+(define-public crate-deforest-0.3.1 (c (n "deforest") (v "0.3.1") (d (list (d (n "ascii") (r "^1.1.0") (k 0)) (d (n "deforest_derive") (r "=0.3.0") (o #t) (d #t) (k 0)) (d (n "fallible-iterator") (r "^0.3.0") (k 0)) (d (n "zerocopy") (r "^0.7.31") (f (quote ("derive"))) (k 0)))) (h "1394ymb0fg1a4ss0mi8xbxbmw40c41q38ks3a2qpxcndwz5phrl7") (f (quote (("std" "alloc" "fallible-iterator/std") ("model") ("derive" "deforest_derive") ("alloc" "fallible-iterator/alloc")))) (r "1.74")))
+
+(define-public crate-deforest-0.3.2 (c (n "deforest") (v "0.3.2") (d (list (d (n "ascii") (r "^1.1.0") (k 0)) (d (n "deforest_derive") (r "=0.3.0") (o #t) (d #t) (k 0)) (d (n "fallible-iterator") (r "^0.3.0") (k 0)) (d (n "zerocopy") (r "^0.7.31") (f (quote ("derive"))) (k 0)))) (h "0w538brb22g25rkwgczj1hmyrg2yb7s35nbhjdh7al56giamvn0d") (f (quote (("std" "alloc" "fallible-iterator/std") ("model") ("derive" "deforest_derive") ("alloc" "fallible-iterator/alloc")))) (r "1.74")))
+

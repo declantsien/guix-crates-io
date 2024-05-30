@@ -1,0 +1,6 @@
+(define-module (crates-io fo rm formality-core) #:use-module (crates-io))
+
+(define-public crate-formality-core-0.1.0 (c (n "formality-core") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "contracts") (r "^0.6.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "expect-test") (r "^1.4.1") (d #t) (k 2)) (d (n "formality-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "stacker") (r "^0.1.15") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "fmt"))) (k 0)) (d (n "tracing-tree") (r "^0.2") (d #t) (k 0)))) (h "1mqya87xdk9h1s4a3cyd19l63z3mb303lbf666nk3s71bcy4fj8n")))
+
+(define-public crate-formality-core-0.1.1 (c (n "formality-core") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "contracts") (r "^0.6.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "expect-test") (r "^1.4.1") (d #t) (k 2)) (d (n "formality-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "stacker") (r "^0.1.15") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "fmt"))) (k 0)) (d (n "tracing-tree") (r "^0.2") (d #t) (k 0)))) (h "1f6ggyacvyl5jcj6y3l51m94d3b2bjsiyd784zxgg5yq1g9bpj3f")))
+

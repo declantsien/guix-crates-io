@@ -1,0 +1,12 @@
+(define-module (crates-io da ml daml-codegen) #:use-module (crates-io))
+
+(define-public crate-daml-codegen-0.1.0 (c (n "daml-codegen") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.14") (d #t) (k 0)) (d (n "daml-lf") (r "^0.1.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "regex") (r "^1.2.1") (d #t) (k 0)))) (h "19nxc4fq310hk02jnrp84sx41hi59inbp16862al6y7pamch8x2w") (r "1.59.0")))
+
+(define-public crate-daml-codegen-0.1.1 (c (n "daml-codegen") (v "0.1.1") (d (list (d (n "clap") (r "^3.0.14") (d #t) (k 0)) (d (n "daml-lf") (r "^0.1.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "regex") (r "^1.2.1") (d #t) (k 0)))) (h "0xxzbjzgmhli8hfwwh7a3rj3jrf34537y6d6mk7axbzgw83jjaxn") (r "1.59.0")))
+
+(define-public crate-daml-codegen-0.2.0 (c (n "daml-codegen") (v "0.2.0") (d (list (d (n "clap") (r "^3.0.14") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "daml-lf") (r "^0.2.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "regex") (r "^1.2.1") (d #t) (k 0)))) (h "16b9v699nqy3smlmlmx97a5y14jmrb6zp3i3821wclr6dl56fvaj") (r "1.59.0")))
+
+(define-public crate-daml-codegen-0.2.1 (c (n "daml-codegen") (v "0.2.1") (d (list (d (n "clap") (r "^3.0.14") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "daml-lf") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "regex") (r "^1.2.1") (d #t) (k 0)))) (h "04gfsl9h5g35bvsqs6j5jcbnjdixdpc1ymwg42wxr694fcj1wrvn") (r "1.59.0")))
+
+(define-public crate-daml-codegen-0.2.2 (c (n "daml-codegen") (v "0.2.2") (d (list (d (n "clap") (r "^3.0.14") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "daml-lf") (r "^0.2.2") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "regex") (r "^1.2.1") (d #t) (k 0)))) (h "1q2c5c6p9kv1bx9hz51n9lvv169fx97w0aiw647r552b5x76wp2q") (r "1.59.0")))
+

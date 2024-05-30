@@ -1,0 +1,8 @@
+(define-module (crates-io dt z- dtz-identity) #:use-module (crates-io))
+
+(define-public crate-dtz-identity-1.0.0 (c (n "dtz-identity") (v "1.0.0") (d (list (d (n "dtz-config") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart" "rustls-tls" "rustls-tls-webpki-roots"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1fwhwk0if2fsnh29lhjlgin31jpj1llm04riz43jwmbn470ysmr9") (r "1.63")))
+
+(define-public crate-dtz-identity-1.0.1 (c (n "dtz-identity") (v "1.0.1") (d (list (d (n "dtz-config") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart" "rustls-tls" "rustls-tls-webpki-roots"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "051h2bnxb3yw2a0iwb93978js52b87254wrgfbvs4kd5fjv4xs0f") (r "1.64")))
+
+(define-public crate-dtz-identity-1.0.2 (c (n "dtz-identity") (v "1.0.2") (d (list (d (n "dtz-config") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart" "rustls-tls" "rustls-tls-webpki-roots"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1d41q4y970y753sxm37dy7gspy1k20093qc19k4v8sfdw0yc69fv") (r "1.64")))
+

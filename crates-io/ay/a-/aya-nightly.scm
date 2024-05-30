@@ -1,0 +1,4 @@
+(define-module (crates-io ay a- aya-nightly) #:use-module (crates-io))
+
+(define-public crate-aya-nightly-0.12.0 (c (n "aya-nightly") (v "0.12.0") (d (list (d (n "assert_matches") (r "^1.5.0") (k 0)) (d (n "async-io") (r "^2.0") (o #t) (k 0)) (d (n "aya-obj-nightly") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "bitflags") (r "^2.2.1") (k 0)) (d (n "bytes") (r "^1") (k 0)) (d (n "lazy_static") (r "^1") (k 0)) (d (n "libc") (r "^0.2.105") (k 0)) (d (n "log") (r "^0.4") (k 0)) (d (n "object") (r "^0.32") (f (quote ("elf" "read_core" "std"))) (k 0)) (d (n "tempfile") (r "^3") (k 2)) (d (n "thiserror") (r "^1") (k 0)) (d (n "tokio") (r "^1.24.0") (f (quote ("rt"))) (o #t) (k 0)))) (h "1vpfsxaam009cnkl7dk229c976h1x13dnj2v0wc74ha55dxl3d32") (f (quote (("default") ("async_tokio" "tokio/net")))) (y #t) (s 2) (e (quote (("async_std" "dep:async-io")))) (r "1.66")))
+

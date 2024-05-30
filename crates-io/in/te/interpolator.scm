@@ -1,0 +1,16 @@
+(define-module (crates-io in te interpolator) #:use-module (crates-io))
+
+(define-public crate-interpolator-0.1.0 (c (n "interpolator") (v "0.1.0") (d (list (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "191pms4w7hgb4hrpp3l6njwpm73kni2zv638n05hb308z6lws7ls") (f (quote (("pointer") ("number") ("debug"))))))
+
+(define-public crate-interpolator-0.1.1 (c (n "interpolator") (v "0.1.1") (d (list (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "16c3h7z6lv1bmah9wlq0lc4pvcwgw8y4r5ml71vxbg7lilrs63ms") (f (quote (("pointer") ("number") ("debug"))))))
+
+(define-public crate-interpolator-0.1.2 (c (n "interpolator") (v "0.1.2") (d (list (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "0lw1ccchayifqxpq41lmq4dka0n8viigkvwamyajny4dy3z1d9bp") (f (quote (("pointer") ("number") ("debug"))))))
+
+(define-public crate-interpolator-0.2.0 (c (n "interpolator") (v "0.2.0") (d (list (d (n "collection_literals") (r "^1.0.1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "1dz2w1klb9kby4aa70l6c972hh0582wqqv1vk2qn48w0v3kj991x") (f (quote (("pointer") ("number") ("iter") ("debug"))))))
+
+(define-public crate-interpolator-0.3.0 (c (n "interpolator") (v "0.3.0") (d (list (d (n "collection_literals") (r "^1.0.1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "154ag2j2xqw8yr2rsjkmfccx0qiv6qz3jyf5xk8h3hi5zbh7rjaz") (f (quote (("pointer") ("number") ("iter") ("debug"))))))
+
+(define-public crate-interpolator-0.4.0 (c (n "interpolator") (v "0.4.0") (d (list (d (n "collection_literals") (r "^1.0.1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "156l6qx9vynjby0cbrzyqrrk1nvwsa6g71xgh96gkni0nnxxi0hl") (f (quote (("pointer") ("number") ("iter") ("debug"))))))
+
+(define-public crate-interpolator-0.5.0 (c (n "interpolator") (v "0.5.0") (d (list (d (n "collection_literals") (r "^1.0.1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 2)) (d (n "trybuild2") (r "^1.0.0") (d #t) (k 2)))) (h "1n6rnk7s61zf20fxjv8yxqfxvl2d68zdrs7i2631w4mf38cm5pbi") (f (quote (("pointer") ("number") ("iter") ("debug"))))))
+

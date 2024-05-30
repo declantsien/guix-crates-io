@@ -1,0 +1,10 @@
+(define-module (crates-io ja vy javy) #:use-module (crates-io))
+
+(define-public crate-javy-1.0.0 (c (n "javy") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quickjs-wasm-rs") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde-transcode") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "191lkrhansg3kh2r76g4aga55v8pf2wqdh4xa13c4q142l7cfzj0") (f (quote (("messagepack" "rmp-serde" "serde-transcode") ("json" "serde_json" "serde-transcode"))))))
+
+(define-public crate-javy-2.0.0 (c (n "javy") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quickjs-wasm-rs") (r "^2.0.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde-transcode") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1kl0a7ld8vzy94nr02l2b2kgn0yz1yccsybd5sbayf326wf1sq99") (f (quote (("messagepack" "rmp-serde" "serde-transcode") ("json" "serde_json" "serde-transcode"))))))
+
+(define-public crate-javy-2.1.0 (c (n "javy") (v "2.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quickjs-wasm-rs") (r "^2.0.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde-transcode") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "07jhlh314ps6k7nwm6prbv1qqkql1nl8fnkrbdv4zwkxa98s3gl2") (f (quote (("messagepack" "rmp-serde" "serde-transcode") ("json" "serde_json" "serde-transcode") ("export_alloc_fns"))))))
+
+(define-public crate-javy-2.2.0 (c (n "javy") (v "2.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quickjs-wasm-rs") (r "^3.0.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde-transcode") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "08a9sgcas0ix808brwj12z2kizm3kq5v3mam3zi09dzdnh615751") (f (quote (("messagepack" "rmp-serde" "serde-transcode") ("json" "serde_json" "serde-transcode") ("export_alloc_fns"))))))
+

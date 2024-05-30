@@ -1,0 +1,6 @@
+(define-module (crates-io gr ac graceful-shutdown) #:use-module (crates-io))
+
+(define-public crate-graceful-shutdown-0.1.0 (c (n "graceful-shutdown") (v "0.1.0") (d (list (d (n "async-io") (r "^1.3.1") (o #t) (d #t) (k 0)) (d (n "futures-core") (r "^0.3.12") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("time"))) (o #t) (d #t) (k 0)))) (h "1xjbpdm59iwphmjx1b6mvazwv5kiy7b0j7xyammyx0hgd0j0ajny") (f (quote (("tokio-timeout" "tokio") ("stream" "futures-core") ("async-io-timeout" "async-io"))))))
+
+(define-public crate-graceful-shutdown-0.2.0 (c (n "graceful-shutdown") (v "0.2.0") (d (list (d (n "async-io") (r "^1.3.1") (o #t) (d #t) (k 0)) (d (n "futures-core") (r "^0.3.12") (o #t) (d #t) (k 0)) (d (n "futures-task") (r "^0.3") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "smol") (r "^1.2") (d #t) (k 2)) (d (n "tokio") (r "^1.2") (f (quote ("time"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("rt" "macros" "time" "rt-multi-thread" "signal" "net" "io-util"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (f (quote ("net"))) (d #t) (k 2)))) (h "117lg9jhlhlkx9lmbjpd8v7q9hkmz7685cavj9i39nm1fkvvmzry") (f (quote (("tokio-timeout" "tokio") ("stream" "futures-core") ("async-io-timeout" "async-io")))) (r "1.51")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ba dl badlang-parser) #:use-module (crates-io))
+
+(define-public crate-badlang-parser-0.1.0 (c (n "badlang-parser") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "either") (r "^1.11.0") (d #t) (k 0)) (d (n "geocoding") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "geolocation") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)))) (h "06386kh6gsz3sdx3s5r5i85qcbhv4ngjc1mws292kydcpys51lj8") (s 2) (e (quote (("silly" "dep:geocoding" "dep:geolocation" "dep:local-ip-address")))) (r "1.78.0")))
+

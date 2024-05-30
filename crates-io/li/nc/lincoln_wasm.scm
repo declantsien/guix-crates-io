@@ -1,0 +1,6 @@
+(define-module (crates-io li nc lincoln_wasm) #:use-module (crates-io))
+
+(define-public crate-lincoln_wasm-0.1.0 (c (n "lincoln_wasm") (v "0.1.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "lincoln_common") (r "^0.1") (d #t) (k 0)) (d (n "lincoln_compiled") (r "^0.1") (d #t) (k 0)) (d (n "lincoln_ir") (r "^0.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Window" "Document" "Element" "HtmlElement" "Node"))) (d #t) (k 0)))) (h "1iyynl6fkysrn0ddnyvp63j5bmfsgr757wq3sz2001wf6p5s5gm4")))
+
+(define-public crate-lincoln_wasm-0.1.1 (c (n "lincoln_wasm") (v "0.1.1") (d (list (d (n "console_log") (r "^0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "lincoln_common") (r "^0.1") (d #t) (k 0)) (d (n "lincoln_compiled") (r "^0.1") (d #t) (k 0)) (d (n "lincoln_ir") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Window" "Document" "Element" "HtmlElement" "Node"))) (d #t) (k 0)))) (h "094mznpfxsirnf97nmhm6jvdm0rwj0svhnfwvib2brsl8f9dwa0p")))
+

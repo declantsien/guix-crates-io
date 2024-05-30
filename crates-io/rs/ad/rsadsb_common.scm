@@ -1,0 +1,8 @@
+(define-module (crates-io rs ad rsadsb_common) #:use-module (crates-io))
+
+(define-public crate-rsadsb_common-0.6.1 (c (n "rsadsb_common") (v "0.6.1") (d (list (d (n "adsb_deku") (r "^0.6.2") (k 0)) (d (n "libm") (r "^0.2.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.0") (o #t) (k 0)))) (h "0chgd416cgr62zly244varpb763bw9hxhqqm028g65byh0hm3crp") (f (quote (("std" "adsb_deku/std" "tracing/std" "alloc") ("default" "std") ("alloc" "adsb_deku/alloc" "tracing")))) (r "1.64.0")))
+
+(define-public crate-rsadsb_common-0.6.2 (c (n "rsadsb_common") (v "0.6.2") (d (list (d (n "adsb_deku") (r "^0.6.3") (k 0)) (d (n "libm") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_with") (r "^2.0.1") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.0") (o #t) (k 0)))) (h "01jxa50gj3sjv65y6lzk9vfr3f1kdhx71blr4pj59wkxzf3i8swh") (f (quote (("std" "adsb_deku/std" "tracing/std" "alloc") ("default" "std") ("alloc" "adsb_deku/alloc" "tracing")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_with" "adsb_deku/serde")))) (r "1.64.0")))
+
+(define-public crate-rsadsb_common-0.6.3 (c (n "rsadsb_common") (v "0.6.3") (d (list (d (n "adsb_deku") (r "^0.7.0") (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (k 0)))) (h "1g9djl7qq4kvqd0d2g05c2bmyv2ykr0zj54bkbwm7icqmndj1c6k") (f (quote (("std" "adsb_deku/std" "tracing/std" "alloc") ("default" "std") ("alloc" "adsb_deku/alloc" "tracing")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_with" "adsb_deku/serde")))) (r "1.70.0")))
+

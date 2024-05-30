@@ -1,0 +1,4 @@
+(define-module (crates-io ru na runa-wayland-scanner-codegen) #:use-module (crates-io))
+
+(define-public crate-runa-wayland-scanner-codegen-0.1.0 (c (n "runa-wayland-scanner-codegen") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linkify") (r "^0.9.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rust-format") (r "^0.3.4") (f (quote ("token_stream"))) (d #t) (k 0)) (d (n "spec-parser") (r "^0.1.0") (d #t) (k 0) (p "runa-wayland-spec-parser")) (d (n "syn") (r "^1.0.109") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.33") (d #t) (k 0)) (d (n "rust-format") (r "^0.3.4") (f (quote ("token_stream"))) (d #t) (k 2)))) (h "1k4icvrr7gvpacdbdpclk1jpa7wm1qpxcyxask8i4n82nw83dbra")))
+

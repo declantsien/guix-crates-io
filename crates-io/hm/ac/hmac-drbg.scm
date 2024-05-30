@@ -1,0 +1,12 @@
+(define-module (crates-io hm ac hmac-drbg) #:use-module (crates-io))
+
+(define-public crate-hmac-drbg-0.1.0 (c (n "hmac-drbg") (v "0.1.0") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "hmac") (r "^0.4") (d #t) (k 0)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "0k8qanbpyqy6x7vgmnwvx0zylsm5iawbv6zzpz4h3zzp201ajrnn")))
+
+(define-public crate-hmac-drbg-0.1.1 (c (n "hmac-drbg") (v "0.1.1") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "etcommon-hexutil") (r "^0.2") (d #t) (k 2)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "hmac") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)) (d (n "typenum") (r "^1.9") (d #t) (k 2)))) (h "0ic7jswnwhxcg63741ig4xwhhr9xz8a9k3as1zhxcn5ims0qrwv2")))
+
+(define-public crate-hmac-drbg-0.1.2 (c (n "hmac-drbg") (v "0.1.2") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "etcommon-hexutil") (r "^0.2") (d #t) (k 2)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "hmac") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)) (d (n "typenum") (r "^1.9") (d #t) (k 2)))) (h "1hpcgz4ca84q59z82xvip2irdzz58x1r31yqfijhmv1f3pa2grsg")))
+
+(define-public crate-hmac-drbg-0.2.0 (c (n "hmac-drbg") (v "0.2.0") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hmac") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sha2") (r "^0.8") (d #t) (k 2)) (d (n "typenum") (r "^1.11") (d #t) (k 2)))) (h "0yqskpca1jmxsfzl9xc0wylkxdhk0i9xv35lh5jhzwck2i2p1rf6")))
+
+(define-public crate-hmac-drbg-0.3.0 (c (n "hmac-drbg") (v "0.3.0") (d (list (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hmac") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (d #t) (k 2)) (d (n "typenum") (r "^1.12") (d #t) (k 2)))) (h "1cc5ddks8bg3512fzrd4n2gqr1kqkvg1l33fv9s6anyzjh9hmshp")))
+

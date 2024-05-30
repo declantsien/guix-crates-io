@@ -1,0 +1,4 @@
+(define-module (crates-io sb b- sbb-api) #:use-module (crates-io))
+
+(define-public crate-sbb-api-0.1.0 (c (n "sbb-api") (v "0.1.0") (d (list (d (n "actix-rt") (r "^2") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 0)) (d (n "more-asserts") (r "^0") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.3") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (d #t) (k 0)))) (h "10gf33ja4ngz1ivr17gr5926w6n9fzpi3vdqmz6j9lrgibxpzxay")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io st ab stable-diffusion-a1111-webui-client) #:use-module (crates-io))
+
+(define-public crate-stable-diffusion-a1111-webui-client-0.1.0 (c (n "stable-diffusion-a1111-webui-client") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("rt"))) (d #t) (k 0)))) (h "0c0qcb2c7xfgrkfzbqmkz8jnzz5lcwip5f4mmhzxfi0dcfr1psjk")))
+
+(define-public crate-stable-diffusion-a1111-webui-client-0.1.1 (c (n "stable-diffusion-a1111-webui-client") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("rt"))) (d #t) (k 0)))) (h "1vjqc622mk9r5wj2wkb9d8md4f8rkbyjv50099076kl3y2ylbchq")))
+

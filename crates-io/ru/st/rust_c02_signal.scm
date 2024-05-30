@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust_c02_signal) #:use-module (crates-io))
+
+(define-public crate-rust_c02_signal-0.1.0 (c (n "rust_c02_signal") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "time") (r "^0.3.5") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1ha508ci2p7cpk6zslz4x7kz4y8pfv2s22lh7qh58ymigy6ilmwa")))
+
+(define-public crate-rust_c02_signal-0.1.1 (c (n "rust_c02_signal") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "time") (r "^0.3.5") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0i73dqb28mijlzmqvdy8whfp0b50ykl2v6fs63wiagirqn8g7ii2")))
+
+(define-public crate-rust_c02_signal-0.1.2 (c (n "rust_c02_signal") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "time") (r "^0.3.5") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0ihkcwpgk5na9yi4561g1dqrarr4bgzbf3j1pniqgyg4v1g8b0dj")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io eu ph euphony-player) #:use-module (crates-io))
+
+(define-public crate-euphony-player-0.1.0 (c (n "euphony-player") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "lru") (r "^0.6") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.13") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sse-client") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)) (d (n "tui") (r "^0.14") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "17b632k3j4cyr0fsq2bsw8yyx5bqy9b035swyfj62l8zd5gmk01a")))
+

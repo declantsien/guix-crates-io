@@ -1,0 +1,18 @@
+(define-module (crates-io cr ev crev-recursive-digest) #:use-module (crates-io))
+
+(define-public crate-crev-recursive-digest-0.1.0 (c (n "crev-recursive-digest") (v "0.1.0") (d (list (d (n "blake2") (r "^0.8") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1w0jrjgpy8nk5qm16a9h8w4ax1slxaia9qb2rbvz1p6pwsj3a8bv") (y #t)))
+
+(define-public crate-crev-recursive-digest-0.1.1 (c (n "crev-recursive-digest") (v "0.1.1") (d (list (d (n "blake2") (r "^0.8") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1vgxm2s1b3k7xfnkfc8l6bs3p2wwb2zv5yjll739vd7cgrvd93p8") (y #t)))
+
+(define-public crate-crev-recursive-digest-0.2.0 (c (n "crev-recursive-digest") (v "0.2.0") (d (list (d (n "blake2") (r "^0.8") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "00mw4c3ghhzgk9as5vs0rj4k7h9gy25k40j3j6gd4sajrlnxdii9") (y #t)))
+
+(define-public crate-crev-recursive-digest-0.2.1 (c (n "crev-recursive-digest") (v "0.2.1") (d (list (d (n "blake2") (r "^0.8") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1qa2626qqnhmdzkzl3dxgb5qr4g1p2s7v2556h65xpk823lws0kr") (y #t)))
+
+(define-public crate-crev-recursive-digest-0.3.0 (c (n "crev-recursive-digest") (v "0.3.0") (d (list (d (n "blake2") (r "^0.8.1") (d #t) (k 2)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.11") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0xfqy3ad79ysa14skh68h3fssdnjnwvzyccsxjlji7pv8xyzwcqj")))
+
+(define-public crate-crev-recursive-digest-0.4.0 (c (n "crev-recursive-digest") (v "0.4.0") (d (list (d (n "blake2") (r "^0.8.1") (d #t) (k 2)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.11") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1a99azqpis27r4srf6ixa7566nr8i70lcqq93r490a5r7khi28wa")))
+
+(define-public crate-crev-recursive-digest-0.5.0 (c (n "crev-recursive-digest") (v "0.5.0") (d (list (d (n "blake2") (r "^0.9.1") (d #t) (k 2)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0hi43sfh1k8n0836hfwggvgdvll6c5wb67z8mgm8fmqsbdp4pm0b")))
+
+(define-public crate-crev-recursive-digest-0.6.0 (c (n "crev-recursive-digest") (v "0.6.0") (d (list (d (n "digest") (r "^0.10.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)) (d (n "blake2") (r "^0.10.6") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "0iz0737pwpr1jl4adp021y8ffhm3csf9x98q6fas8kl4h34yj6xl")))
+

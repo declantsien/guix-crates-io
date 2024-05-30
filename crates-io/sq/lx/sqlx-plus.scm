@@ -1,0 +1,8 @@
+(define-module (crates-io sq lx sqlx-plus) #:use-module (crates-io))
+
+(define-public crate-sqlx-plus-0.1.0 (c (n "sqlx-plus") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-tokio-rustls"))) (d #t) (k 0)) (d (n "sqlx-plus-macros") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1xmhdwsnb7qijc6b4ssb5jkra3jhamgnhz1hgfzfvh760r1cr54f")))
+
+(define-public crate-sqlx-plus-0.2.0 (c (n "sqlx-plus") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls"))) (d #t) (k 0)) (d (n "sqlx-plus-macros") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1vppkhacg4j74kbjcrngmfs6gwsc6jvhaqwkhpnp0ndp6l5ik5i8")))
+
+(define-public crate-sqlx-plus-0.3.0 (c (n "sqlx-plus") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "all-types"))) (d #t) (k 0)) (d (n "sqlx-plus-macros") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1w1kz0v8avzzhg2bys68nmkxljqhd3aivnasjpg5yl3paj8ck3bh") (f (quote (("sqlite" "sqlx/sqlite") ("postgres" "sqlx/postgres") ("mysql" "sqlx/mysql") ("mssql" "sqlx/mssql"))))))
+

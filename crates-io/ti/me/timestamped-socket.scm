@@ -1,0 +1,8 @@
+(define-module (crates-io ti me timestamped-socket) #:use-module (crates-io))
+
+(define-public crate-timestamped-socket-0.1.0 (c (n "timestamped-socket") (v "0.1.0") (d (list (d (n "libc") (r "^0.2.145") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("net" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (f (quote ("std" "log"))) (k 0)))) (h "1ik0g2p2n7prvwikccxbk56cp4sd47nvjmaa359rjg38crgzgbya") (f (quote (("std") ("default" "std" "serde")))) (r "1.66")))
+
+(define-public crate-timestamped-socket-0.2.0 (c (n "timestamped-socket") (v "0.2.0") (d (list (d (n "libc") (r "^0.2.145") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("net" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (f (quote ("std" "log"))) (k 0)))) (h "1m6bia9bz9yqav7c6spnqyl1ds9lziy8q53y7xh445421j6vmjn5") (f (quote (("default" "serde")))) (r "1.66")))
+
+(define-public crate-timestamped-socket-0.2.1 (c (n "timestamped-socket") (v "0.2.1") (d (list (d (n "libc") (r "^0.2.145") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("net" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (f (quote ("std" "log"))) (k 0)))) (h "16wl3lhaaphza7mnvz988w1a50mk1lzwrhspm6v2hb5gaar4fnhl") (f (quote (("default" "serde")))) (r "1.66")))
+

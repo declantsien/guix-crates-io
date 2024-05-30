@@ -1,0 +1,4 @@
+(define-module (crates-io sp od spoderman) #:use-module (crates-io))
+
+(define-public crate-spoderman-0.0.0 (c (n "spoderman") (v "0.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "clap_complete") (r "^4.1.4") (d #t) (k 0)) (d (n "clap_mangen") (r "^0.2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)))) (h "1394a22hrld6ri5imyi72g33rnm7jl92rx7h1349nn6vjn8lvq0a") (f (quote (("default"))))))
+

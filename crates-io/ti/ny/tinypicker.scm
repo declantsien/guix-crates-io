@@ -1,0 +1,6 @@
+(define-module (crates-io ti ny tinypicker) #:use-module (crates-io))
+
+(define-public crate-tinypicker-0.2.3 (c (n "tinypicker") (v "0.2.3") (d (list (d (n "copypasta-ext") (r "^0.4.4") (f (quote ("x11-fork" "x11-bin"))) (k 0)) (d (n "device_query") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.5") (f (quote ("png"))) (k 0)) (d (n "mouce") (r "^0.2.41") (o #t) (d #t) (k 0)) (d (n "screenshots") (r "^0.5.2") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)))) (h "0g9v3xydifb79z4g62yi164d3cr39csyggw9pq5a9jn1hvbfmaf9") (f (quote (("default" "device_query")))) (s 2) (e (quote (("mouce" "dep:mouce") ("device_query" "dep:device_query"))))))
+
+(define-public crate-tinypicker-0.2.4 (c (n "tinypicker") (v "0.2.4") (d (list (d (n "copypasta-ext") (r "^0.4.4") (f (quote ("x11-fork" "x11-bin" "wayland-bin"))) (k 0)) (d (n "device_query") (r "^1.1.3") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (f (quote ("png"))) (k 0)) (d (n "mouce") (r "^0.2.43") (o #t) (d #t) (k 0)) (d (n "screenshots") (r "^0.5.4") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)))) (h "0hm94hwbaihnygx2w51i1ydiznyp4fxkjxy417fpk6nn976jpx0w") (f (quote (("default" "device_query")))) (s 2) (e (quote (("mouce" "dep:mouce") ("device_query" "dep:device_query"))))))
+

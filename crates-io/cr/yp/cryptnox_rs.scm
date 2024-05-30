@@ -1,0 +1,4 @@
+(define-module (crates-io cr yp cryptnox_rs) #:use-module (crates-io))
+
+(define-public crate-cryptnox_rs-0.1.0 (c (n "cryptnox_rs") (v "0.1.0") (d (list (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "nfc1") (r "^0.4") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "openssl") (r "^0.10.41") (d #t) (k 0)) (d (n "ouroboros") (r "^0.13") (d #t) (k 0)) (d (n "pcsc") (r "^2.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (d #t) (k 0)) (d (n "sha256") (r "^1.0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)))) (h "09dxj1mc443si7v49ln711zmfabjfxzzx4qqjzzxkwic7pyd2cxp")))
+

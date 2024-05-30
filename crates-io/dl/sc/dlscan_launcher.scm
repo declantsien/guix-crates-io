@@ -1,0 +1,8 @@
+(define-module (crates-io dl sc dlscan_launcher) #:use-module (crates-io))
+
+(define-public crate-dlscan_launcher-0.1.0 (c (n "dlscan_launcher") (v "0.1.0") (d (list (d (n "dlscan_source") (r "^0.1") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.23") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)))) (h "0vw3pqk231pz9n29ryrycwqfrkq36a7hb1r4mzk4pp6yy088rblz")))
+
+(define-public crate-dlscan_launcher-0.1.1 (c (n "dlscan_launcher") (v "0.1.1") (d (list (d (n "dlscan_source") (r "^0.1") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.23") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)))) (h "1vzf9vvck4541q7m47dbbrg9dpa4ycb5f43pyhrd6d0arq57apdl")))
+
+(define-public crate-dlscan_launcher-0.1.2 (c (n "dlscan_launcher") (v "0.1.2") (d (list (d (n "dlscan_source") (r "^0.1") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.23") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0") (d #t) (k 0)))) (h "12lm72agzf5yff6s7wywcvxm811aa47glcaym69nz2wyq0m0wp9a")))
+

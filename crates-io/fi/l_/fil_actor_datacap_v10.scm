@@ -1,0 +1,6 @@
+(define-module (crates-io fi l_ fil_actor_datacap_v10) #:use-module (crates-io))
+
+(define-public crate-fil_actor_datacap_v10-1.0.0 (c (n "fil_actor_datacap_v10") (v "1.0.0") (d (list (d (n "fil_actors_runtime_v10") (r "^1.0.0") (d #t) (k 0)) (d (n "frc42_dispatch") (r "^3.0.0") (d #t) (k 0)) (d (n "frc46_token") (r "^3.1.0") (d #t) (k 0)) (d (n "fvm_ipld_blockstore") (r "^0.1") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3") (k 0) (p "fvm_shared")) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1bb0bdj9ml84ls233rflrhjjz10yncpvc506vkxgbcg7ix0ls7yf")))
+
+(define-public crate-fil_actor_datacap_v10-2.0.0 (c (n "fil_actor_datacap_v10") (v "2.0.0") (d (list (d (n "fil_actors_runtime_v10") (r "^2.0.0") (d #t) (k 0)) (d (n "frc42_dispatch") (r "^3.0.0") (d #t) (k 0)) (d (n "frc46_token") (r "^3.1.0") (d #t) (k 0)) (d (n "fvm_ipld_blockstore") (r "^0.1") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3.2") (k 0) (p "fvm_shared")) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1z4ciipxmnjiz0sqwpkj0w3gmjcapl5qmvnqnfgrf9l0883rbiz4")))
+

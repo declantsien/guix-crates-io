@@ -1,0 +1,6 @@
+(define-module (crates-io cc #{13}# cc13x2) #:use-module (crates-io))
+
+(define-public crate-cc13x2-0.1.0 (c (n "cc13x2") (v "0.1.0") (h "1a6w4ja9s91z112npyd2q2byqlarfgcs86m1gjld871h42h943ga")))
+
+(define-public crate-cc13x2-0.2.0 (c (n "cc13x2") (v "0.2.0") (d (list (d (n "bare-metal") (r "^0.2") (d #t) (k 0)) (d (n "cortex-m") (r "^0.6") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "vcell") (r "^0.1") (d #t) (k 0)))) (h "169qxxaar2js5r78jqicb7dbk5iqky7i384svk9sdhfrbm55ka6c") (f (quote (("wdt") ("vims") ("udma0") ("uart1") ("uart0") ("trng") ("ssi1") ("ssi0") ("sram_mmr") ("smph") ("rt" "cortex-m-rt") ("rfc_rat") ("rfc_pwr") ("rfc_dbell") ("prcm") ("pka_int") ("pka") ("ioc") ("i2s0") ("i2c0") ("gpt3") ("gpt2") ("gpt1") ("gpt0") ("gpio") ("flash") ("fcfg1") ("event") ("crypto") ("cpu_tpiu") ("cpu_tiprop") ("cpu_scs") ("cpu_itm") ("cpu_fpb") ("cpu_dwt") ("ccfg") ("aux_timer2") ("aux_timer01") ("aux_tdc") ("aux_sysif") ("aux_spim") ("aux_smph") ("aux_sce") ("aux_mac") ("aux_evctl") ("aux_ddi0_osc") ("aux_anaif") ("aux_aiodio3") ("aux_aiodio2") ("aux_aiodio1") ("aux_aiodio0") ("aux_adi4") ("aon_rtc") ("aon_pmctl") ("aon_ioc") ("aon_event") ("aon_batmon"))))))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io wa sm wasm-component-ld) #:use-module (crates-io))
+
+(define-public crate-wasm-component-ld-0.1.1 (c (n "wasm-component-ld") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 0)) (d (n "wasmparser") (r "^0.121.1") (d #t) (k 0)) (d (n "wit-component") (r "^0.20.2") (d #t) (k 0)))) (h "13csb28bh780dhfxrja0zayi45jwc2sxd4798979pdln3sg73bzk")))
+
+(define-public crate-wasm-component-ld-0.1.2 (c (n "wasm-component-ld") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.200.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.200.0") (d #t) (k 0)))) (h "0vf0ysj4g32krsjbajlpakjklx12ww2bggkih8l1hrb8g7jl4byg")))
+
+(define-public crate-wasm-component-ld-0.1.3 (c (n "wasm-component-ld") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.200.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.200.0") (d #t) (k 0)))) (h "0jkn94a8hrg374jg6yfgfwmkqrd3i7ycnszkbvdclj7afwkmvzzk")))
+
+(define-public crate-wasm-component-ld-0.1.4 (c (n "wasm-component-ld") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.200.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.200.0") (d #t) (k 0)))) (h "0724a6y9bb7mhf9mby40k20n9b72kbcl0nmrb4iff2zcrxklzk3b")))
+
+(define-public crate-wasm-component-ld-0.1.5 (c (n "wasm-component-ld") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "lexopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.202.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.202.0") (d #t) (k 0)))) (h "0kk95fq3npv5wp9bxwc53zdxypsmlb4935z48q317syhqf81jvza")))
+
+(define-public crate-wasm-component-ld-0.3.0 (c (n "wasm-component-ld") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lexopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.202.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.202.0") (d #t) (k 0)))) (h "045dhwp741izavmd7c00waq02w4651avyqykdr9n7lhac1y57lzg")))
+
+(define-public crate-wasm-component-ld-0.4.0 (c (n "wasm-component-ld") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lexopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.202.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.202.0") (d #t) (k 0)))) (h "0ll151h9h09pgph3wcmiq7kc0c4ln8wbhhybc3d3mwddalb2h6da")))
+
+(define-public crate-wasm-component-ld-0.5.0 (c (n "wasm-component-ld") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lexopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.206.0") (d #t) (k 0)) (d (n "wat") (r "^1.206.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.206.0") (d #t) (k 0)))) (h "0djffgqz5m0z7zwlgb7nm43jc80xqhwp50pwdskm121qm6r9rmi0")))
+
+(define-public crate-wasm-component-ld-0.5.1 (c (n "wasm-component-ld") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lexopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.206.0") (d #t) (k 0)) (d (n "wat") (r "^1.206.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.206.0") (d #t) (k 0)))) (h "0hc2k029v7ph5f1yl2w3i0i18gfbnrg8zszggw1b7wmcm5jw4s38")))
+
+(define-public crate-wasm-component-ld-0.5.2 (c (n "wasm-component-ld") (v "0.5.2") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lexopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.206.0") (d #t) (k 0)) (d (n "wat") (r "^1.206.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.206.0") (d #t) (k 0)))) (h "0ygii4rnhvk06vc5g23h9rcp6ysg8gx965mhqgysfd64rsv94vdn")))
+

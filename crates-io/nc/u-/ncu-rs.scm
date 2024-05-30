@@ -1,0 +1,6 @@
+(define-module (crates-io nc u- ncu-rs) #:use-module (crates-io))
+
+(define-public crate-ncu-rs-0.1.0 (c (n "ncu-rs") (v "0.1.0") (d (list (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "pbr") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)))) (h "01p2yj5cqk46wsfsz493qjwqwqkn6f9gp9m0573y29ax0pfp3qrp")))
+
+(define-public crate-ncu-rs-0.2.0 (c (n "ncu-rs") (v "0.2.0") (d (list (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pbr") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)))) (h "0swmpk1spvd9w32830iq3ka8hl2d5qkhxxq085nqr0pgxpr4vsbi")))
+

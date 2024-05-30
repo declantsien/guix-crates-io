@@ -1,0 +1,6 @@
+(define-module (crates-io qu an quandl) #:use-module (crates-io))
+
+(define-public crate-quandl-0.1.0 (c (n "quandl") (v "0.1.0") (d (list (d (n "chrono") (r "^0.2.17") (d #t) (k 0)) (d (n "clippy") (r "^0.0.29") (o #t) (d #t) (k 0)) (d (n "curl") (r "^0.2.14") (d #t) (k 0)) (d (n "hyper") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^0.1.4") (d #t) (k 0)) (d (n "serde_json") (r "^0.6.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.4.0") (d #t) (k 1)) (d (n "skeptic") (r "^0.4.0") (d #t) (k 2)) (d (n "url") (r "^0.5.0") (d #t) (k 0)))) (h "1gd4gskcyq2xij2mcpgjinb447k8s2sqfn14k573vzffr93aig4i") (f (quote (("test-quandl-api") ("default"))))))
+
+(define-public crate-quandl-0.1.1 (c (n "quandl") (v "0.1.1") (d (list (d (n "chrono") (r "^0.2.17") (d #t) (k 0)) (d (n "clippy") (r "^0.0.30") (o #t) (d #t) (k 0)) (d (n "curl") (r "^0.2.14") (d #t) (k 0)) (d (n "hyper") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^0.1.4") (d #t) (k 0)) (d (n "serde_json") (r "^0.6.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.4.0") (o #t) (d #t) (k 1)) (d (n "skeptic") (r "^0.4.0") (d #t) (k 2)) (d (n "url") (r "^0.5.0") (d #t) (k 0)))) (h "0v230qgq8zldys5gij5hfcz3ib88500vyjl46cvr50mch04al1sx") (f (quote (("test-quandl-api") ("default"))))))
+

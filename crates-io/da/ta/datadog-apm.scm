@@ -1,0 +1,10 @@
+(define-module (crates-io da ta datadog-apm) #:use-module (crates-io))
+
+(define-public crate-datadog-apm-0.1.0 (c (n "datadog-apm") (v "0.1.0") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync"))) (d #t) (k 0)))) (h "1ajpkgrk3y66wvvg9z03xvkhdgx4vcq0ykkav9rdlxdzhzgys4fq")))
+
+(define-public crate-datadog-apm-0.1.1 (c (n "datadog-apm") (v "0.1.1") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync"))) (d #t) (k 0)))) (h "0j286sj6b9zlqp46qa5j5vrwh8p2d1mn15lxch8m6pnbpz5s037f")))
+
+(define-public crate-datadog-apm-0.1.2 (c (n "datadog-apm") (v "0.1.2") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync"))) (d #t) (k 0)))) (h "0csdf0mj2g753k8vw2rwl2cywfxw00qqvm4c1ibian3zy3sacs7d")))
+
+(define-public crate-datadog-apm-0.2.0 (c (n "datadog-apm") (v "0.2.0") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync"))) (d #t) (k 0)))) (h "1ipz6qz61rc28lhv7577lj97vwrc4gmhkq4301y58miwg1hdczj9")))
+

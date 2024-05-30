@@ -1,0 +1,8 @@
+(define-module (crates-io gi rt girt-git) #:use-module (crates-io))
+
+(define-public crate-girt-git-0.1.0 (c (n "girt-git") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.41") (d #t) (k 0)) (d (n "git2") (r "=0.13.21") (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "1qws9cfyviz7xz1y0f10n5ia0nsjm0yw5db6rfdxa2cyv7b7ra67")))
+
+(define-public crate-girt-git-2.2.0 (c (n "girt-git") (v "2.2.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "git2") (r "=0.14.2") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.2.1") (d #t) (k 2)) (d (n "rstest") (r "^0.11.0") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "1r7cwy86a549b4c4mdjz8nck6jsvm3c4xji6hd9ipir0b1v242yg")))
+
+(define-public crate-girt-git-2.3.0 (c (n "girt-git") (v "2.3.0") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "girt-testutils") (r "^2.3.0") (d #t) (k 2)) (d (n "git2") (r "=0.15.0") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "rstest") (r "^0.18.1") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)))) (h "057c1q32rp93mcwxydka7dbkfw2bc0fv3z0nfrkr0krx3wjkp8q8")))
+

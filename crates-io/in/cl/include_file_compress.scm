@@ -1,0 +1,10 @@
+(define-module (crates-io in cl include_file_compress) #:use-module (crates-io))
+
+(define-public crate-include_file_compress-0.1.0 (c (n "include_file_compress") (v "0.1.0") (d (list (d (n "cast") (r "^0.3.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (f (quote ("rust_backend"))) (k 0)) (d (n "memmap2") (r "^0.9.4") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (k 0)) (d (n "syn") (r "^2.0.60") (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "1kkn3788lkfd6d7856jhi9cscax01iwi6iv8v5kwp228cijqv1j0") (f (quote (("default")))) (s 2) (e (quote (("mmap" "dep:memmap2"))))))
+
+(define-public crate-include_file_compress-0.1.1 (c (n "include_file_compress") (v "0.1.1") (d (list (d (n "cast") (r "^0.3.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (f (quote ("rust_backend"))) (k 0)) (d (n "memmap2") (r "^0.9.4") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (k 0)) (d (n "syn") (r "^2.0.60") (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "1z1d3b1h8i35w8fg56dscy0h0d9g74rp4cn7rsya23gwdlc600d6") (f (quote (("default")))) (s 2) (e (quote (("mmap" "dep:memmap2"))))))
+
+(define-public crate-include_file_compress-0.1.2 (c (n "include_file_compress") (v "0.1.2") (d (list (d (n "cast") (r "^0.3.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (f (quote ("rust_backend"))) (k 0)) (d (n "memmap2") (r "^0.9.4") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (k 0)) (d (n "syn") (r "^2.0.60") (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "19wd7bhabvgaxz4gspsn2wa7fza1hzf8svhcx7f08kvl853936kd") (f (quote (("default")))) (s 2) (e (quote (("mmap" "dep:memmap2"))))))
+
+(define-public crate-include_file_compress-0.1.3 (c (n "include_file_compress") (v "0.1.3") (d (list (d (n "cast") (r "^0.3.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (f (quote ("rust_backend"))) (k 0)) (d (n "memmap2") (r "^0.9.4") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (k 0)) (d (n "syn") (r "^2.0.60") (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "0xfzjpbh83liq52kw8jbmr5jd99r1whwf803zn2zcch2mgs26s7x") (f (quote (("default")))) (s 2) (e (quote (("mmap" "dep:memmap2"))))))
+

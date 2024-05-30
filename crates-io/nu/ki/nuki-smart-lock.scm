@@ -1,0 +1,4 @@
+(define-module (crates-io nu ki nuki-smart-lock) #:use-module (crates-io))
+
+(define-public crate-nuki-smart-lock-0.1.0 (c (n "nuki-smart-lock") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.58") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "btleplug") (r "^0.9.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crc-any") (r "^2.4.3") (d #t) (k 0)) (d (n "dryoc") (r "^0.3.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hmac-sha256") (r "^1.1.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (d #t) (k 0)))) (h "12x2c8b5q17zrqdh6d4yz478ciq9c3aml7fz1vlbrjqkfaf0pnrg")))
+

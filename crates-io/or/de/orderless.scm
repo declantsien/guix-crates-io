@@ -1,0 +1,14 @@
+(define-module (crates-io or de orderless) #:use-module (crates-io))
+
+(define-public crate-orderless-0.1.0 (c (n "orderless") (v "0.1.0") (d (list (d (n "darling") (r "^0.20.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.27") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "1dmdz90cccm3fyzgvb7d011lwriip7nbk50rjdk41s8smjy9z5w2")))
+
+(define-public crate-orderless-0.1.1 (c (n "orderless") (v "0.1.1") (d (list (d (n "darling") (r "^0.20.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.27") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "0m81xw14ky5hz3bh9yaqkcp8pj7v6ba1fam333r208ch0jkyg65d")))
+
+(define-public crate-orderless-0.1.2 (c (n "orderless") (v "0.1.2") (d (list (d (n "darling") (r "^0.20.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.27") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "0dbjljw1mbyrylc16ny98q9rzshln9i42f56a1yqyyhch50hf020")))
+
+(define-public crate-orderless-0.1.3 (c (n "orderless") (v "0.1.3") (d (list (d (n "darling") (r "^0.20.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.27") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "0hpyq8ap59plml7w5sv6fwpqiw3fq5zjz702xafkllc2b0fdsswj")))
+
+(define-public crate-orderless-0.1.4 (c (n "orderless") (v "0.1.4") (d (list (d (n "darling") (r "^0.20.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.27") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "0zyhr81x1bisxwigykz15fhdy4mm651bcydwm2xca9ba2hb6y6qh")))
+
+(define-public crate-orderless-0.1.5 (c (n "orderless") (v "0.1.5") (d (list (d (n "darling") (r "^0.20.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.27") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "1idzgb5nsdi4azk56jzi53mx5ly8ca7nj80z81ccxz3dxaa260zf")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io bi tc bitcoin-query) #:use-module (crates-io))
+
+(define-public crate-bitcoin-query-0.1.31 (c (n "bitcoin-query") (v "0.1.31") (d (list (d (n "bitcoin") (r "^0.27") (f (quote ("use-serde"))) (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.10.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "db-key") (r "^0.0.5") (d #t) (k 0)) (d (n "leveldb") (r "^0.8.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.14.5") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "pyo3-log") (r "^0.4.0") (d #t) (k 0)) (d (n "pythonize") (r "^0.14.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)))) (h "1jp1l5hrq0finmhsvs18ksvvh7dqssj267qbcy2s7i1nfkipkvqz") (y #t)))
+

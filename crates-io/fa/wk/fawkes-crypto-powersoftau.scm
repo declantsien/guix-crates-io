@@ -1,0 +1,4 @@
+(define-module (crates-io fa wk fawkes-crypto-powersoftau) #:use-module (crates-io))
+
+(define-public crate-fawkes-crypto-powersoftau-0.2.0 (c (n "fawkes-crypto-powersoftau") (v "0.2.0") (d (list (d (n "bellman_ce") (r "^0.3.1") (d #t) (k 0) (p "fawkes-crypto-bellman_ce")) (d (n "blake2") (r "^0.8.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "generic-array") (r "^0.12.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.0") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "typenum") (r "^1.12.0") (d #t) (k 0)))) (h "1bshirpx87g5hah7cf32fbv43mxbi84aiyz82l632skmkx9ygan1")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ro bl roblib) #:use-module (crates-io))
+
+(define-public crate-roblib-0.1.0 (c (n "roblib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "camloc-server") (r "^0.1.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "roblib-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "rppal") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("sync"))) (o #t) (d #t) (k 0)))) (h "0kgzvi6ags7wi23gprrjrkq6jby21ihvjpxcqdzrmh7capddjx93") (f (quote (("roland") ("gpio") ("default") ("all" "gpio" "roland" "camloc" "async")))) (s 2) (e (quote (("gpio-backend" "dep:rppal") ("camloc" "dep:camloc-server") ("async" "dep:async-trait" "dep:futures" "dep:tokio"))))))
+

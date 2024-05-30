@@ -1,0 +1,18 @@
+(define-module (crates-io sy no synonym) #:use-module (crates-io))
+
+(define-public crate-synonym-0.0.1 (c (n "synonym") (v "0.0.1") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1289rjp7jy52qnxia0l01pvik89wlcb5ansj7wkrrbcc4y54hn76")))
+
+(define-public crate-synonym-0.0.2 (c (n "synonym") (v "0.0.2") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0g20pa9x3ivxaghn8v1wxqzi030rcjs9ds922s2f6fvw18lgrh1f")))
+
+(define-public crate-synonym-0.0.3 (c (n "synonym") (v "0.0.3") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0xyqnnavjwkh3fhi8nmgv1vhv4kx5zzh7sd1iazy7531lhfckxny")))
+
+(define-public crate-synonym-0.0.4 (c (n "synonym") (v "0.0.4") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0lbk2phpxvjxa852bcwh2ww9a8jfqlnh9cajdlbak7nl45rd04m4")))
+
+(define-public crate-synonym-0.0.5 (c (n "synonym") (v "0.0.5") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "18z9bnnqnjzqp4iv4k5rafsmrwc4bfycnwawbhgw3a7p56rdi3v7") (f (quote (("with_serde"))))))
+
+(define-public crate-synonym-0.1.0 (c (n "synonym") (v "0.1.0") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1qkblfcpmz9vvd2mlj73gd78c5855fpd6radcdn2s4nvfwz2znn8") (f (quote (("with_serde"))))))
+
+(define-public crate-synonym-0.1.1 (c (n "synonym") (v "0.1.1") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "00b2i3cddzvnjjr6ing960rialshnnch3n5xajvnzl6nrggr3axs") (f (quote (("with_serde"))))))
+
+(define-public crate-synonym-0.1.2 (c (n "synonym") (v "0.1.2") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^2.0") (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1r1xxylsgb4n87ilgm0xjsgr0iajwkaskfvaamvqg2dzrmzzm3v4") (f (quote (("with_serde"))))))
+

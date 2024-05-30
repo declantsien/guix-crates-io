@@ -1,0 +1,8 @@
+(define-module (crates-io gi t- git-todo-collector) #:use-module (crates-io))
+
+(define-public crate-git-todo-collector-0.1.0 (c (n "git-todo-collector") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)) (d (n "table_to_html") (r "^0.3.0") (d #t) (k 0)) (d (n "tabled") (r "^0.12.2") (d #t) (k 0)))) (h "018fa5968k2ayc1wdzksm2fs3ax5znjp989max7aifs4nyhs9chy")))
+
+(define-public crate-git-todo-collector-0.1.1 (c (n "git-todo-collector") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)) (d (n "table_to_html") (r "^0.3.0") (d #t) (k 0)) (d (n "tabled") (r "^0.12.2") (d #t) (k 0)))) (h "06kccq3ia9nd9h013qz9xa3ykxpjdlab5k176dvhh492nrpmlxfm")))
+
+(define-public crate-git-todo-collector-0.1.2 (c (n "git-todo-collector") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)) (d (n "table_to_html") (r "^0.3.0") (d #t) (k 0)) (d (n "tabled") (r "^0.12.2") (d #t) (k 0)))) (h "0ksdlh7qs62waf0lhibgz795axxh49siby0irzilyb3inq9sy35m")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io sa nc sanctum) #:use-module (crates-io))
+
+(define-public crate-sanctum-0.1.0 (c (n "sanctum") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "oauth2") (r "^4.4.1") (d #t) (k 0)) (d (n "password-auth") (r "^0.3.0") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "totp-rs") (r "^5.2.0") (f (quote ("qr" "otpauth" "gen_secret" "zeroize"))) (d #t) (k 0)))) (h "09r5cdw2n40jj3znpnhpcyrkc0jzh2mpid3db80q46vlx5znyc6g")))
+
+(define-public crate-sanctum-0.1.1 (c (n "sanctum") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "oauth2") (r "^4.4.1") (d #t) (k 0)) (d (n "password-auth") (r "^0.3.0") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "totp-rs") (r "^5.2.0") (f (quote ("qr" "otpauth" "gen_secret" "zeroize"))) (d #t) (k 0)))) (h "19cdq0z9ppbbk5z8ji8zlg26026zl9mfxr6mw6ryshzm40h94pij")))
+

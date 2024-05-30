@@ -1,0 +1,42 @@
+(define-module (crates-io sa ve savefile-abi) #:use-module (crates-io))
+
+(define-public crate-savefile-abi-0.17.0-beta.1 (c (n "savefile-abi") (v "0.17.0-beta.1") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.1") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "05pc92f966c3zv98hvdwsaxcv28xf49xkikigjh6k67xdk6zni0i") (y #t) (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.2 (c (n "savefile-abi") (v "0.17.0-beta.2") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.2") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0djj77sbhyb0803ci1n138k0cbibqja08il8sxf2vbmrlqrfx6f8") (y #t) (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.3 (c (n "savefile-abi") (v "0.17.0-beta.3") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.3") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "02gaxwrgy51v0xffn4yhk530imy01rbh7wzvnch1pd7iy1k9cakn") (y #t) (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.4 (c (n "savefile-abi") (v "0.17.0-beta.4") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.4") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "05c4hcs1vi19llai75grjijsgsg641l7jhyl01xicsq3shr03v6r") (y #t) (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.5 (c (n "savefile-abi") (v "0.17.0-beta.5") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.5") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "00hlqr05v6ssh4smhsdzzh4cyc7fnp8x04mcwj46ig78jd9n44xy") (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.6 (c (n "savefile-abi") (v "0.17.0-beta.6") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.6") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "132w8wyaqs4m8rx2r8bybmvlpxivrshixxf3wg9ksjbpc3iy47l0") (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.7 (c (n "savefile-abi") (v "0.17.0-beta.7") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.7") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0v5rs9xsa5y1qg1gpi6h6fycr6nwbhgcmjd90x5ga2pf53qglv0d") (s 2) (e (quote (("serde_derive" "dep:serde_derive" "serde"))))))
+
+(define-public crate-savefile-abi-0.17.0-beta.8 (c (n "savefile-abi") (v "0.17.0-beta.8") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.8") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.8") (d #t) (k 0)))) (h "07cnfl6gq3wa03fln43gp1vsaxjbkm7mm8wyqjkcr235aff37ivp")))
+
+(define-public crate-savefile-abi-0.17.0-beta.9 (c (n "savefile-abi") (v "0.17.0-beta.9") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.9") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.9") (d #t) (k 0)))) (h "1k99qwn7di7vz2219s90g5bkxljn4kkygzn7fdrdma3y4hfj70y4")))
+
+(define-public crate-savefile-abi-0.17.0-beta.10 (c (n "savefile-abi") (v "0.17.0-beta.10") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.10") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.10") (d #t) (k 0)))) (h "1600zsv6ix6hnlmwsmc6ad7r058if353jxiqvwvip9407xrh5vzh")))
+
+(define-public crate-savefile-abi-0.17.0-beta.11 (c (n "savefile-abi") (v "0.17.0-beta.11") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.11") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.11") (d #t) (k 0)))) (h "1akfhi3cfss5diy8qykbmsr7vp6niydz7iqm9yrcwg1fr4rh0mkg")))
+
+(define-public crate-savefile-abi-0.17.0-beta.12 (c (n "savefile-abi") (v "0.17.0-beta.12") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.12") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.12") (d #t) (k 0)))) (h "137f3nvzvb6m3dwhmjfj20i77rzhfyp175iml7dvg6cyb56kh5jc")))
+
+(define-public crate-savefile-abi-0.17.0-beta.13 (c (n "savefile-abi") (v "0.17.0-beta.13") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.13") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.13") (d #t) (k 0)))) (h "0d001vpv4np3i0089a73w6jr7dpb2sya2vabi452jf8rgjamjkpw")))
+
+(define-public crate-savefile-abi-0.17.0-beta.14 (c (n "savefile-abi") (v "0.17.0-beta.14") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.14") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.14") (d #t) (k 0)))) (h "1r54vsalp414l9imslq17dpa71lrphip8471cq3908q52cscz590")))
+
+(define-public crate-savefile-abi-0.17.0-beta.15 (c (n "savefile-abi") (v "0.17.0-beta.15") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0-beta.15") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0-beta.15") (d #t) (k 0)))) (h "0njgjxc1988gryx6y3fcqyg2am0pmq5q30p1b184xjig32q88pa8")))
+
+(define-public crate-savefile-abi-0.17.0 (c (n "savefile-abi") (v "0.17.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.0") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.0") (d #t) (k 0)))) (h "0qg7kij94igbgxrwskc3kd7zg2i2gdxg60y74m06da8bwc6vxwb6")))
+
+(define-public crate-savefile-abi-0.17.1 (c (n "savefile-abi") (v "0.17.1") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.1") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.1") (d #t) (k 0)))) (h "05p097h5pfkl4m4mlmz7b5jih2hy17j5gpi43fnfb70lks821i4b")))
+
+(define-public crate-savefile-abi-0.17.2 (c (n "savefile-abi") (v "0.17.2") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.2") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.2") (d #t) (k 0)))) (h "1vakznmxcnf1y93cixwrb0711xaz0rqs2msk1pf49lsyg9givz52")))
+
+(define-public crate-savefile-abi-0.17.3 (c (n "savefile-abi") (v "0.17.3") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "savefile") (r "=0.17.3") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.3") (d #t) (k 0)))) (h "1jyq0xc87gjldjb098pp5jy0gdds30m9dhfdp08i4vvd9gpcn8qc")))
+
+(define-public crate-savefile-abi-0.17.4 (c (n "savefile-abi") (v "0.17.4") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "savefile") (r "=0.17.4") (d #t) (k 0)) (d (n "savefile-derive") (r "=0.17.4") (d #t) (k 0)))) (h "16fcww7kmq8s47dvxrr1chp2gvnb7fnvrd6ba17kibczxsmbfv5a") (f (quote (("rust1_78")))) (r "1.74")))
+

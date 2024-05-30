@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# x xtp) #:use-module (crates-io))
+
+(define-public crate-xtp-0.1.0-alpha.1 (c (n "xtp") (v "0.1.0-alpha.1") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "paw") (r "^1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0987y2hm9j4qwyz5xbiv2pq3y5qx4vj6mckm6gc0x01k7vwp7fjg")))
+
+(define-public crate-xtp-0.1.0-alpha.2 (c (n "xtp") (v "0.1.0-alpha.2") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "paw") (r "^1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "064lyl4470nw4wzz8rlpi7ch3gqadg6x0vmbhmd3b92pw0jqfww3")))
+
+(define-public crate-xtp-0.1.0-alpha.3 (c (n "xtp") (v "0.1.0-alpha.3") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "paw") (r "^1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0gwq702b4m8a0vplch7b0qavm430nm4y4s21knywy8m3wilvyakz")))
+
+(define-public crate-xtp-0.1.0-alpha.4 (c (n "xtp") (v "0.1.0-alpha.4") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "paw") (r "^1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "1gbgr984g8fyqfq44w8zj6122d3ixdgy21c93a086r6g8nnp91nm")))
+

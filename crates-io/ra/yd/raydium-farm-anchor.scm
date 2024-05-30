@@ -1,0 +1,16 @@
+(define-module (crates-io ra yd raydium-farm-anchor) #:use-module (crates-io))
+
+(define-public crate-raydium-farm-anchor-0.1.0 (c (n "raydium-farm-anchor") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.1.0") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "11wdb4wav655316wiw7a9q3afnpsa5mlygs0xjfdm77vhlkdll85") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+
+(define-public crate-raydium-farm-anchor-0.1.2 (c (n "raydium-farm-anchor") (v "0.1.2") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.1.2") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0jyhbqdsywrhcrr696c13di4qfslxjwg9mrypyk25g1l74px8mzh") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+
+(define-public crate-raydium-farm-anchor-0.2.0 (c (n "raydium-farm-anchor") (v "0.2.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.1.2") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "179s0s6xan92sa3ynqk6a2a4pmrqpjm4qj8si4kahz0giqw6dmbl") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+
+(define-public crate-raydium-farm-anchor-0.2.4 (c (n "raydium-farm-anchor") (v "0.2.4") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.2.4") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "1f7bqcshdal17ikvb537imf7lifw3xnphj8d0lvsibn9mkn43i1h") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+
+(define-public crate-raydium-farm-anchor-0.2.6 (c (n "raydium-farm-anchor") (v "0.2.6") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.2.6") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0zmb1gn0gq9vswsg763kb16r56qz1lq1cgrdmyz5029rqkdn6w4l") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+
+(define-public crate-raydium-farm-anchor-0.2.8 (c (n "raydium-farm-anchor") (v "0.2.8") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.2.8") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "1bqzgvdh1jvic83b7gicdvd1f6qjy4in6qhl1axbwnyxg7db6z6r") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+
+(define-public crate-raydium-farm-anchor-0.3.0 (c (n "raydium-farm-anchor") (v "0.3.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "raydium-contract-instructions") (r "^0.3.0") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "1srynpxjc426qwlqrdf7ysrk2hrmsxsgb2q2ggi50jajvjzbmfqk") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint")))) (y #t)))
+

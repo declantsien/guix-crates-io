@@ -1,0 +1,18 @@
+(define-module (crates-io pw rs pwrsurge) #:use-module (crates-io))
+
+(define-public crate-pwrsurge-0.1.0 (c (n "pwrsurge") (v "0.1.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.1.0") (d #t) (k 0)))) (h "1x1yxc9lxxljrs00crj0z239cbfqpl53y70zz5ikr78k10ypr3v1")))
+
+(define-public crate-pwrsurge-0.1.1 (c (n "pwrsurge") (v "0.1.1") (d (list (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.1.0") (d #t) (k 0)))) (h "0v8m6fa13r7gdp284qzdjc2vgswy1bc10kxvjiby56m0hizdyss9")))
+
+(define-public crate-pwrsurge-0.2.0 (c (n "pwrsurge") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.2.1") (f (quote ("stream"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.1.6") (d #t) (k 0)))) (h "0npj0gb6si7ndczc93lygrhc3ds9zkqqhnyfihj8k68rc0yhbkll")))
+
+(define-public crate-pwrsurge-0.2.0-r1 (c (n "pwrsurge") (v "0.2.0-r1") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.3.0-r2") (f (quote ("stream"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.1.6") (d #t) (k 0)))) (h "1z00czxq4a2s5qc5xf1xj4k6ahq1qncwqnzck193d80f73y5qalz")))
+
+(define-public crate-pwrsurge-0.2.1 (c (n "pwrsurge") (v "0.2.1") (d (list (d (n "buffering") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.3.1") (f (quote ("stream"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.1.6") (d #t) (k 0)))) (h "02w33hlg09icwmqsqzar4sc77iax79zjfxwhksh5him0sjh2v6rq")))
+
+(define-public crate-pwrsurge-0.2.3 (c (n "pwrsurge") (v "0.2.3") (d (list (d (n "buffering") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.4.1") (f (quote ("stream"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.1.6") (d #t) (k 0)))) (h "11zk26nhda09fdayfrbns5zca3vw8q0bz5jxqh89mdxm15rdv5xa")))
+
+(define-public crate-pwrsurge-0.3.0 (c (n "pwrsurge") (v "0.3.0") (d (list (d (n "buffering") (r "^0.4.0") (f (quote ("copy" "nocopy"))) (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.4.3-r2") (f (quote ("stream"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.1.6") (d #t) (k 0)))) (h "0kzvryhj3b2813799xfzg04jpcsrc44gj6ingckxar3v2fpwdjp8")))
+
+(define-public crate-pwrsurge-0.3.1 (c (n "pwrsurge") (v "0.3.1") (d (list (d (n "buffering") (r "^0.5") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "neli") (r "^0.5.1") (f (quote ("async"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("fs" "rt"))) (d #t) (k 0)))) (h "1y8mlamalmyh05r826flrl31p9i3arbwckj96rzwjfjhgc6gdza1")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mi cr microservice) #:use-module (crates-io))
+
+(define-public crate-microservice-0.1.0 (c (n "microservice") (v "0.1.0") (d (list (d (n "capnp") (r "^0.8") (d #t) (k 0)) (d (n "capnp-rpc") (r "^0.8") (d #t) (k 0)) (d (n "capnpc") (r "^0.8") (d #t) (k 1)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "clippy") (r "^0") (o #t) (d #t) (k 0)) (d (n "error-chain") (r "^0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mowl") (r "^1") (d #t) (k 0)) (d (n "native-tls") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tls") (r "^0.1") (d #t) (k 0)))) (h "1jrp85q3ai6lfigk4m0m9cxblkh3dh5vlcnflph00h7bfszhbvdk") (f (quote (("default"))))))
+

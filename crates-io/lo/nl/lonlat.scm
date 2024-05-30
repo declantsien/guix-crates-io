@@ -1,0 +1,8 @@
+(define-module (crates-io lo nl lonlat) #:use-module (crates-io))
+
+(define-public crate-lonlat-1.0.0 (c (n "lonlat") (v "1.0.0") (d (list (d (n "approx") (r "^0.3.2") (d #t) (k 0)) (d (n "arithmetic-sign") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "measurements") (r "^0.10.3") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "0zzbwgahmmnsccl4rb14cg4xhgm2601jrr3pzqahfglgk7njv92i") (f (quote (("ja-JP") ("default"))))))
+
+(define-public crate-lonlat-1.0.1 (c (n "lonlat") (v "1.0.1") (d (list (d (n "approx") (r "^0.3.2") (d #t) (k 0)) (d (n "arithmetic-sign") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "measurements") (r "^0.10.3") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "148331g9nwx237y64z67lvzmig9gx5y6bhh7gn365svy4slbffc6") (f (quote (("ja-JP") ("default"))))))
+
+(define-public crate-lonlat-1.1.0 (c (n "lonlat") (v "1.1.0") (d (list (d (n "approx") (r "^0.3.2") (d #t) (k 0)) (d (n "arithmetic-sign") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "measurements") (r "^0.10.3") (d #t) (k 0)) (d (n "measurements") (r "^0.10.3") (f (quote ("serde"))) (d #t) (k 2)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "0fh9plfq2yvwnk6yqh7mb3b89n5fk4w08shy26chjdp846n7jqar") (f (quote (("ja-JP") ("default"))))))
+

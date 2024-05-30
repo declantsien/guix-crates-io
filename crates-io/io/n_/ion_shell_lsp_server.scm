@@ -1,0 +1,4 @@
+(define-module (crates-io io n_ ion_shell_lsp_server) #:use-module (crates-io))
+
+(define-public crate-ion_shell_lsp_server-0.2.0 (c (n "ion_shell_lsp_server") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("as_ref" "deref" "from" "into" "display"))) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.28.0") (f (quote ("async"))) (d #t) (k 0)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "ion_shell_parser") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "lsp-server") (r "^0.7.6") (d #t) (k 0)) (d (n "lsp-types") (r "^0.95.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0vnqgyihgsay66nix45hddmkimxwmgmrpmjn6gi8xj4vizajm1c4") (r "1.76.0")))
+

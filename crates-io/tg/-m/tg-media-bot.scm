@@ -1,0 +1,4 @@
+(define-module (crates-io tg -m tg-media-bot) #:use-module (crates-io))
+
+(define-public crate-tg-media-bot-0.1.0 (c (n "tg-media-bot") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.9") (d #t) (k 0)) (d (n "frunk") (r "^0.4") (d #t) (k 0)) (d (n "frunk_core") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.3.18") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "redis") (r "^0.21.4") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "teloxide") (r "^0.5") (f (quote ("frunk" "macros" "auto-send"))) (d #t) (k 0)) (d (n "tokio") (r "^1.8") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (d #t) (k 0)))) (h "1yyvv9jhh656jspyh6llcbdn1v5bzkydvdmzmbc4rmakf8vfyww0")))
+

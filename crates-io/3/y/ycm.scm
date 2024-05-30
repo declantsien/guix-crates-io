@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# y ycm) #:use-module (crates-io))
+
+(define-public crate-ycm-0.1.0 (c (n "ycm") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.33") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.1.2") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "0a31c8wnxdw0pza4k38mi7vk1x8jbmcqazcipp5asmbym1242y3p")))
+
+(define-public crate-ycm-0.1.1 (c (n "ycm") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.1.2") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "0k2wk48pybylrcvxax9d564svc36qildyiwj0591a6p8m43bi3pi")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io im ap imapserver-shared) #:use-module (crates-io))
+
+(define-public crate-IMAPServer-shared-0.1.0 (c (n "IMAPServer-shared") (v "0.1.0") (d (list (d (n "argonautica") (r "^0.2") (f (quote ("simd"))) (d #t) (k 0)) (d (n "diesel") (r "^1.0.0") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("compat"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("log"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.2") (f (quote ("codec"))) (d #t) (k 0)))) (h "1bb9qls741j070hjbcikd4f7gbdisma1bz4rxzw5flv7cspknrcz")))
+

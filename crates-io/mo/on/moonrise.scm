@@ -1,0 +1,4 @@
+(define-module (crates-io mo on moonrise) #:use-module (crates-io))
+
+(define-public crate-moonrise-0.0.1-rc.1 (c (n "moonrise") (v "0.0.1-rc.1") (d (list (d (n "ed25519-dalek") (r "^1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("server" "http1"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "twilight-http") (r "^0.13") (d #t) (k 0)) (d (n "twilight-model") (r "^0.13") (d #t) (k 0)))) (h "0a8dpbk9zymny5hgln04yd5p64cq0lsy2yrrhgaf186wlqf921cr") (f (quote (("simdjson" "simd-json") ("server" "hyper" "tokio") ("default" "server")))) (r "1.64")))
+

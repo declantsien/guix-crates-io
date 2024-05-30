@@ -1,0 +1,10 @@
+(define-module (crates-io ka il kailua) #:use-module (crates-io))
+
+(define-public crate-kailua-1.0.4 (c (n "kailua") (v "1.0.4") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 0)) (d (n "kailua_check") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_langsvr") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_syntax") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_workspace") (r "^1.0.4") (d #t) (k 0)))) (h "1sng506swh6ap7dafzi1wg7n7ydi8xvn3ap84id1pwlf60aw1lnh")))
+
+(define-public crate-kailua-1.0.5 (c (n "kailua") (v "1.0.5") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 0)) (d (n "kailua_check") (r "^1.0.5") (d #t) (k 0)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_langsvr") (r "^1.0.5") (d #t) (k 0)) (d (n "kailua_syntax") (r "^1.0.5") (d #t) (k 0)) (d (n "kailua_workspace") (r "^1.0.5") (d #t) (k 0)))) (h "0rawl4lbr58a18vvxwnr13cvvxx8sbn18j7vrqgz37ifnsdwrgi9")))
+
+(define-public crate-kailua-1.0.7 (c (n "kailua") (v "1.0.7") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 0)) (d (n "kailua_check") (r "^1.0.5") (d #t) (k 0)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_langsvr") (r "^1.0.7") (d #t) (k 0)) (d (n "kailua_syntax") (r "^1.0.5") (d #t) (k 0)) (d (n "kailua_workspace") (r "^1.0.7") (d #t) (k 0)))) (h "0fql5iww929kb680z55k3k251m4bk7bskzwf9rndwd0fcgxza500")))
+
+(define-public crate-kailua-1.1.0 (c (n "kailua") (v "1.1.0") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 0)) (d (n "kailua_check") (r "^1.1.0") (d #t) (k 0)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_langsvr") (r "^1.1.0") (d #t) (k 0)) (d (n "kailua_syntax") (r "^1.1.0") (d #t) (k 0)) (d (n "kailua_workspace") (r "^1.1.0") (d #t) (k 0)))) (h "05k9md2qnrk0728k2jn696n5c9p73dl9769s9lpzdhm8aza5mmx1")))
+

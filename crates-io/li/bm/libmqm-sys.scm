@@ -1,0 +1,8 @@
+(define-module (crates-io li bm libmqm-sys) #:use-module (crates-io))
+
+(define-public crate-libmqm-sys-0.1.0 (c (n "libmqm-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (d #t) (k 1)) (d (n "dlopen2") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 1)))) (h "0fw6m894jm9i01vy8p5679vclx8l0lcklldldpvzrng3pjzhmrha") (f (quote (("pcf") ("mqai") ("link") ("exits") ("default" "link")))) (l "mqm") (s 2) (e (quote (("dlopen2" "dep:dlopen2"))))))
+
+(define-public crate-libmqm-sys-0.2.0 (c (n "libmqm-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.97") (d #t) (k 1)) (d (n "dlopen2") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 1)))) (h "0j9hzxh7wv8033qna0cj1agn54gxlhjikqymhc0lcwa234kv12f4") (f (quote (("pcf") ("mqai") ("link") ("exits") ("default" "link")))) (l "mqm") (s 2) (e (quote (("dlopen2" "dep:dlopen2")))) (r "1.65")))
+
+(define-public crate-libmqm-sys-0.3.0 (c (n "libmqm-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.69.4") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.97") (d #t) (k 1)) (d (n "dlopen2") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 1)))) (h "0bcpnz93vcxg22382iaw3ws7w5d11vpakg8pgbwdxn1wlhzgps9w") (f (quote (("pcf") ("mqi_helpers") ("mqai") ("link_mqm") ("link_api") ("link" "link_mqm" "link_api") ("exits") ("docsrs" "link_api" "pcf" "exits" "mqai" "dlopen2") ("default" "link" "mqi_helpers" "bindgen")))) (l "mqm") (s 2) (e (quote (("dlopen2" "dep:dlopen2") ("bindgen" "dep:bindgen")))) (r "1.65")))
+

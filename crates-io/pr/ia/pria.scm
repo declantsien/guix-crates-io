@@ -1,0 +1,10 @@
+(define-module (crates-io pr ia pria) #:use-module (crates-io))
+
+(define-public crate-pria-0.1.0 (c (n "pria") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png" "jpeg"))) (o #t) (k 0)) (d (n "qoi") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0dkky5hrymrjjfvdippbn0nagmmvx688zp5vrvc7y2wgs8qlsx6y") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image" "dep:qoi"))))))
+
+(define-public crate-pria-0.1.1 (c (n "pria") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png" "jpeg"))) (o #t) (k 0)) (d (n "qoi") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0ks6235rvhl6nbqi06b95z30g1pn6jl73aq9qc7sin3f0yddvbz0") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image" "dep:qoi"))))))
+
+(define-public crate-pria-0.1.2 (c (n "pria") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png" "jpeg"))) (o #t) (k 0)) (d (n "qoi") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "043gqmci5194wm5gw36gxan9gpcnw8ac5j11dxhhd92m0spypxsq") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image" "dep:qoi"))))))
+
+(define-public crate-pria-0.1.3 (c (n "pria") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png" "jpeg"))) (o #t) (k 0)) (d (n "qoi") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0q98pgnl9dgavh9ynq3vw2hygjmhjc99d00h5h1g0q7x4c6cld3m") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image" "dep:qoi"))))))
+

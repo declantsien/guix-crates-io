@@ -1,0 +1,6 @@
+(define-module (crates-io az ur azure-sdk-rust) #:use-module (crates-io))
+
+(define-public crate-azure-sdk-rust-0.1.1 (c (n "azure-sdk-rust") (v "0.1.1") (d (list (d (n "RustyXML") (r "^0") (d #t) (k 0)) (d (n "chrono") (r "^0") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "hyper") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "mime") (r "^0") (d #t) (k 0)) (d (n "rust-crypto") (r "^0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0") (d #t) (k 0)) (d (n "time") (r "^0") (d #t) (k 0)) (d (n "url") (r "^0") (d #t) (k 0)) (d (n "uuid") (r "^0") (d #t) (k 0)))) (h "1sc2b8igi0q6zbihw14cqq59x2zsi2zwsj8xp6fzhyf54qf9jk2y")))
+
+(define-public crate-azure-sdk-rust-0.1.2 (c (n "azure-sdk-rust") (v "0.1.2") (d (list (d (n "RustyXML") (r "^0") (d #t) (k 0)) (d (n "chrono") (r "^0") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "hyper") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "mime") (r "^0") (d #t) (k 0)) (d (n "rust-crypto") (r "^0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0") (d #t) (k 0)) (d (n "time") (r "^0") (d #t) (k 0)) (d (n "url") (r "^0") (d #t) (k 0)) (d (n "uuid") (r "^0") (d #t) (k 0)))) (h "0cb9g3qdxbqwqnm20jga2g7sipf1bqhl4n1gmj56yhniq5rp5srb")))
+

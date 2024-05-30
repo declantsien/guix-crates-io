@@ -1,0 +1,6 @@
+(define-module (crates-io em ot emotes) #:use-module (crates-io))
+
+(define-public crate-emotes-0.1.0 (c (n "emotes") (v "0.1.0") (d (list (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "keyring") (r "^0.9.0") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.7") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "16k6jc47k4101lvp2hb0mg24br8gsfcxcc9yrys09fa30sj44ik0")))
+
+(define-public crate-emotes-0.2.0 (c (n "emotes") (v "0.2.0") (d (list (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "keyring") (r "^0.9.0") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.7") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "15wnis7g6wdxkjgdvqgzvlndl402m4gx4ki3rnzlsrryyggbxbl3")))
+

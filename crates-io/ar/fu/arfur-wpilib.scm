@@ -1,0 +1,6 @@
+(define-module (crates-io ar fu arfur-wpilib) #:use-module (crates-io))
+
+(define-public crate-arfur-wpilib-0.0.1 (c (n "arfur-wpilib") (v "0.0.1") (d (list (d (n "arfur-build") (r "^0.0.1") (d #t) (k 1)) (d (n "autocxx") (r "^0.22.4") (d #t) (k 0)) (d (n "autocxx-build") (r "^0.22.4") (d #t) (k 1)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 1)) (d (n "cxx") (r "^1.0.75") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 1)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)))) (h "1z9vyayixpcrf6dwilqh6cgc9k72liglavapm905d2dvcm949nb9") (r "1.62")))
+
+(define-public crate-arfur-wpilib-0.0.2 (c (n "arfur-wpilib") (v "0.0.2") (d (list (d (n "arfur-build") (r "^0.0.2") (d #t) (k 1)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 1)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 1)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)))) (h "0nl5i26q8dihf6n72q9cddz3dg1fc7xxjr7mmvx1x3bxrq356l77") (f (quote (("bindgen" "arfur-build/bindgen")))) (r "1.62")))
+

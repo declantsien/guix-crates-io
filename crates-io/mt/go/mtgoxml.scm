@@ -1,0 +1,6 @@
+(define-module (crates-io mt go mtgoxml) #:use-module (crates-io))
+
+(define-public crate-mtgoxml-0.0.2 (c (n "mtgoxml") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clickonce") (r "^0.0.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.5.1") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0ys28kgzcqpxzvx68skzfari9kw453i5ikfg6x8myl4nhig3rrhf") (r "1.56")))
+
+(define-public crate-mtgoxml-0.0.3 (c (n "mtgoxml") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clickonce") (r "^0.0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.5.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "19v9rcm0v2m07d4znrh62b0s4qadlzmzr6wwllhi9453sqq8razl") (r "1.56")))
+

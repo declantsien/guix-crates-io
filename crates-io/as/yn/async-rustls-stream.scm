@@ -1,0 +1,6 @@
+(define-module (crates-io as yn async-rustls-stream) #:use-module (crates-io))
+
+(define-public crate-async-rustls-stream-0.1.0 (c (n "async-rustls-stream") (v "0.1.0") (d (list (d (n "async-executor") (r "^1.4.1") (d #t) (k 2)) (d (n "async-io") (r "^1.9.0") (d #t) (k 2)) (d (n "async-net") (r "^1.7.0") (d #t) (k 2)) (d (n "blocking") (r "^1.2.0") (d #t) (k 2)) (d (n "futures-io") (r "^0.3.24") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "rustls") (r "^0.20.6") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0.1") (d #t) (k 2)) (d (n "webpki-roots") (r "^0.22.5") (d #t) (k 2)))) (h "04mffn9fxa18k6kvbg68fj4xbl8b1xqk23fmx0qc6lhr5hbk9kp0")))
+
+(define-public crate-async-rustls-stream-0.1.1 (c (n "async-rustls-stream") (v "0.1.1") (d (list (d (n "async-executor") (r "^1.4.1") (d #t) (k 2)) (d (n "async-io") (r "^1.9.0") (d #t) (k 2)) (d (n "async-net") (r "^1.7.0") (d #t) (k 2)) (d (n "blocking") (r "^1.2.0") (d #t) (k 2)) (d (n "futures-io") (r "^0.3.24") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "rustls") (r "^0.20.6") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0.1") (d #t) (k 2)) (d (n "webpki-roots") (r "^0.22.5") (d #t) (k 2)))) (h "022mb9kji20a8i8a1iww0mx9c6qf2f29fp7d7ss7fvfjifl345wv")))
+

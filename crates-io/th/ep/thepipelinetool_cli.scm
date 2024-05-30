@@ -1,0 +1,6 @@
+(define-module (crates-io th ep thepipelinetool_cli) #:use-module (crates-io))
+
+(define-public crate-thepipelinetool_cli-0.1.3 (c (n "thepipelinetool_cli") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.31") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "thepipelinetool") (r "^0.1.3") (d #t) (k 0)) (d (n "thepipelinetool_runner") (r "^0.1.3") (d #t) (k 0)) (d (n "thepipelinetool_utils") (r "^0.1.3") (d #t) (k 0)))) (h "12c30injwxa28zs27wm77qrvsnwp4zzjvsq1p8prxhj08w1l0lr9")))
+
+(define-public crate-thepipelinetool_cli-0.2.0 (c (n "thepipelinetool_cli") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.31") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "thepipelinetool") (r "^0.2.0") (d #t) (k 0)) (d (n "thepipelinetool_runner") (r "^0.2.0") (d #t) (k 0)) (d (n "thepipelinetool_utils") (r "^0.2.0") (d #t) (k 0)))) (h "1jjryvl6jhq4hyss76n0rvrrzw62kqiyk33vadk5jkrb2q05ksdb")))
+

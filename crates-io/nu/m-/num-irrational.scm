@@ -1,0 +1,22 @@
+(define-module (crates-io nu m- num-irrational) #:use-module (crates-io))
+
+(define-public crate-num-irrational-0.0.1 (c (n "num-irrational") (v "0.0.1") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-prime") (r "^0.0.1") (o #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "04zl4rnhf2pra3ph0fc8rdliv0vwqv8zk02niz47680xlfwdrkd7")))
+
+(define-public crate-num-irrational-0.0.2 (c (n "num-irrational") (v "0.0.2") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-prime") (r "^0.0.1") (o #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1n9nfbp1m0rcx69gvcsrhrg7h0pinny1y81lxj0nxra0mmy05wwq") (f (quote (("complex" "num-complex"))))))
+
+(define-public crate-num-irrational-0.0.3 (c (n "num-irrational") (v "0.0.3") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-prime") (r "^0.0.1") (o #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "01c8c0kvm8n96cla8h7irakr2xa6cq68qi2i248ac626av44z3kx") (f (quote (("complex" "num-complex"))))))
+
+(define-public crate-num-irrational-0.0.4 (c (n "num-irrational") (v "0.0.4") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1lcjrfdjbi0kjdzrbf9865fi0kyn2lky7ggs5alfgxr2yv8jrbsm") (f (quote (("complex"))))))
+
+(define-public crate-num-irrational-0.0.5 (c (n "num-irrational") (v "0.0.5") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1fgk6ihqcsj3229y6vp0hyv10kk8ckblmr3qjmcglrg0095yh11n") (f (quote (("complex"))))))
+
+(define-public crate-num-irrational-0.1.0 (c (n "num-irrational") (v "0.1.0") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "07dzlq050bwqg26a8cfqmcbg9r10pjj6jl5q9kfja3lqs21dr9zy") (f (quote (("complex"))))))
+
+(define-public crate-num-irrational-0.2.0-alpha (c (n "num-irrational") (v "0.2.0-alpha") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1fy24dinjgnqbbkvfcs6932hnc8mcf4x08m8q88v6cyw2jh6y2qp") (f (quote (("complex"))))))
+
+(define-public crate-num-irrational-0.2.0 (c (n "num-irrational") (v "0.2.0") (d (list (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1qi7f9mzc4vby7abpf8vk646i0w269k2980lcwjqqkh4pwnh9ssr") (f (quote (("complex"))))))
+
+(define-public crate-num-irrational-0.3.0-alpha (c (n "num-irrational") (v "0.3.0-alpha") (d (list (d (n "futures") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1ia9p2lwa9vj0wyjzvkgngs8iwcjbkjjiq75n2wcs4lhfqzsl37d") (f (quote (("complex") ("async"))))))
+
+(define-public crate-num-irrational-0.3.0 (c (n "num-irrational") (v "0.3.0") (d (list (d (n "num-bigint") (r "^0.4.0") (o #t) (k 0)) (d (n "num-complex") (r "^0.4.0") (o #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1pgbc95416n7zy363vw3bwhdbb23abwbmraj9i885iv9dxs343xa") (f (quote (("complex"))))))
+

@@ -1,0 +1,74 @@
+(define-module (crates-io ly on lyon_geom) #:use-module (crates-io))
+
+(define-public crate-lyon_geom-0.9.0 (c (n "lyon_geom") (v "0.9.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.16.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.40") (d #t) (k 0)))) (h "1y6ssrydcl107m7641s9hgn4dxa2f3m040lz1dswr8psjxrwyll5")))
+
+(define-public crate-lyon_geom-0.10.0 (c (n "lyon_geom") (v "0.10.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.17.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.40") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0ds5m9jyy8xn5qmd8cxn4ldv4ma7aik8c3f12afvc862zbflx621") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.10.1 (c (n "lyon_geom") (v "0.10.1") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.17.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.40") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0vrihdgb7l0bfln8b8xrvpndrfl4d7mspfdjdzlb5hyn2qggqw0l") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.11.0 (c (n "lyon_geom") (v "0.11.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.18.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.40") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1fl9qp43n8v58wshp8n09gg4ivqkfc9pa5xplggq7vwzbgh4fws5") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.0 (c (n "lyon_geom") (v "0.12.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0ibzian87h4pik60fw1fjj5kdwdr39ki9anym5gqcm05i0mznsr1") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.11.1 (c (n "lyon_geom") (v "0.11.1") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.18.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.40") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0iiiwqfym3nc9sapz4r9hsdydb6hpazvwqlk23cqyfn9mv20vvn8") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.1 (c (n "lyon_geom") (v "0.12.1") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1s7g2jf1ip2qpnf87gdlzhnyk2gfcxg4cszgsagd9mjfnp8ci76n") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.2 (c (n "lyon_geom") (v "0.12.2") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0xb9bd3vnpd93c4dx30c8b3xqcw9hj7735vsngbyvwmqa4min60g") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.3 (c (n "lyon_geom") (v "0.12.3") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0g7n7vpj89p0fyv4hrgcd5134wb9rs4q5s3isvyaz1qw0slylq1b") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.4 (c (n "lyon_geom") (v "0.12.4") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0ls1ks7z0fdvibzgncvghajdykfqq0g4v9dcjpcdd49dimgvm80f") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.5 (c (n "lyon_geom") (v "0.12.5") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0v5a6hv4naimshng7kkjky3xi809lhg68rdfpv5rb8cc66bysjis") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.6 (c (n "lyon_geom") (v "0.12.6") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "16jjf2byl2nb1b1qs7kam66v31b7lv0cbn0977dbbs7hhl70ff06") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.12.7 (c (n "lyon_geom") (v "0.12.7") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.19.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0q4bahfivc11jzwyh4vs6cjwq4y1dl4plfilqaf9mgj33lgvzfdx") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.14.0 (c (n "lyon_geom") (v "0.14.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.20.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0k6vvihjii82v1b3fqd7bfggpc1kpii5p8riq1f79cy08j49nn39") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.14.1 (c (n "lyon_geom") (v "0.14.1") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "euclid") (r "^0.20.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "178z4cqqmyw0rsabbgx9phkjxjzcnq0604062lqjlq87k063216a") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.15.0 (c (n "lyon_geom") (v "0.15.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.20.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1cq6zpwa44vd42xzg646d2avl77s1f8p5w5ry6s0x3kqakg8naly") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.15.1 (c (n "lyon_geom") (v "0.15.1") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.20.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "08csn4b1k6basfljya9mx9kjsxrd2m8zkyj8bibc7f8s18grnmvn") (f (quote (("serialization" "serde" "euclid/serde")))) (y #t)))
+
+(define-public crate-lyon_geom-0.15.2 (c (n "lyon_geom") (v "0.15.2") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.20.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1dvj8rdp1mm1g5blzzd33rhv7khjgfsyiaa4ynk27smsphqclnsp") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.15.3 (c (n "lyon_geom") (v "0.15.3") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.20.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1wjd8zsx7x6r7ivavpb5j4glr13irf9q8dbxgnw1c9rqh6xa4qlr") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.16.0 (c (n "lyon_geom") (v "0.16.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1r7d5iwgj70swpvf2fl3322zw4j0zk1g6z9pl4b2dy3919qap2yg") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.16.2 (c (n "lyon_geom") (v "0.16.2") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0czrwn9rawmk1cqi3sh8f28dl75d7851rkxq021aaa640cif3r3c") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.16.3 (c (n "lyon_geom") (v "0.16.3") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "16ycp4kwg1if9dp776qkgvj39vmn6w44gld7g2bcv2sjmd03qm1i") (f (quote (("serialization" "serde" "euclid/serde")))) (y #t)))
+
+(define-public crate-lyon_geom-0.17.0 (c (n "lyon_geom") (v "0.17.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0ds5w5zrvj8nldlrgf3yjnhf9ss4xkahqg6lm2660hhm776qgfgd") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.1 (c (n "lyon_geom") (v "0.17.1") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1daxzpdjmmmfiknak44y97jxnhv1rbphsq5g1x20ds5djhkdgdfn") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.2 (c (n "lyon_geom") (v "0.17.2") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0jf6xqfvy4yk3wybhwvci11jf1mf6xfijbry8jfhf38s8fny8qqv") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.3 (c (n "lyon_geom") (v "0.17.3") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0wyhkzwjprkkixyakj89dadipmh242mfxbkpp1nsa3h1kwxvlf5p") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.4 (c (n "lyon_geom") (v "0.17.4") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0jizjidmh3fjka0b3nba1hnz4dj7np0xjfz7nrb5cwaj6gc9xrzi") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.5 (c (n "lyon_geom") (v "0.17.5") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0scx2s5kp5wmf7vw1fcjapzvnybh8gyhg827pa2prf9wx5n3l5gy") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.6 (c (n "lyon_geom") (v "0.17.6") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "12al92qsh0f8ci3qf3533r4y5hxzzyfp972vm4wqzz9bq9vwx6ff") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-0.17.7 (c (n "lyon_geom") (v "0.17.7") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 0)) (d (n "euclid") (r "^0.22.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "13lcghic8l1j632wsrds9cjw7k3vw8dhc8iy81cx50zxvb5rrn3i") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-1.0.0 (c (n "lyon_geom") (v "1.0.0") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "euclid") (r "^0.22.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "01jmq58y62w279v93jr0bsnc4d7x3x75nakyp18b8m09ka2282yj") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-1.0.1 (c (n "lyon_geom") (v "1.0.1") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "euclid") (r "^0.22.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0kwd4apy6gb4akc5j5s0w1b7jdzz6c1z2xzk10jdcwx8f1rjqrdx") (f (quote (("serialization" "serde" "euclid/serde"))))))
+
+(define-public crate-lyon_geom-1.0.2 (c (n "lyon_geom") (v "1.0.2") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "euclid") (r "^0.22.4") (k 0)) (d (n "num-traits") (r "^0.2") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (k 0)))) (h "0311c2kbmv72zl4mrwsbk995p4s0yw2j3sd52yg5s260rvv2wsa2") (f (quote (("std" "arrayvec/std" "euclid/std" "num-traits/std") ("serialization" "serde" "euclid/serde") ("default" "std"))))))
+
+(define-public crate-lyon_geom-1.0.3 (c (n "lyon_geom") (v "1.0.3") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "euclid") (r "^0.22.4") (k 0)) (d (n "num-traits") (r "^0.2") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (k 0)))) (h "0h7l253jb8dgvi8s48m7rvwba2cbwxrk83h6x1f2s4aszrxffdsj") (f (quote (("std" "arrayvec/std" "euclid/std" "num-traits/std") ("serialization" "serde" "euclid/serde") ("default" "std"))))))
+
+(define-public crate-lyon_geom-1.0.4 (c (n "lyon_geom") (v "1.0.4") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "euclid") (r "^0.22.4") (k 0)) (d (n "num-traits") (r "^0.2") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (k 0)))) (h "1bg87w2281nf8hflm62q5fbk2zda7fh3g5b923mq4whll3q1zpvl") (f (quote (("std" "arrayvec/std" "euclid/std" "num-traits/std") ("serialization" "serde" "euclid/serde") ("default" "std"))))))
+
+(define-public crate-lyon_geom-1.0.5 (c (n "lyon_geom") (v "1.0.5") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "euclid") (r "^0.22.4") (k 0)) (d (n "num-traits") (r "^0.2") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (k 0)))) (h "1ydzjz8lh2jlg9gjcpmkix0yxfgkv76yn0mb67h0nasa4f6zpv7d") (f (quote (("std" "arrayvec/std" "euclid/std" "num-traits/std") ("serialization" "serde" "euclid/serde") ("default" "std"))))))
+

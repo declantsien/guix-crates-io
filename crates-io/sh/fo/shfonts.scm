@@ -1,0 +1,4 @@
+(define-module (crates-io sh fo shfonts) #:use-module (crates-io))
+
+(define-public crate-shfonts-0.1.0 (c (n "shfonts") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cssparser") (r "^0.29.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lightningcss") (r "^1.0.0-alpha.40") (d #t) (k 0)) (d (n "minreq") (r "^2.6.0") (f (quote ("https-rustls"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.8") (f (quote ("color"))) (d #t) (k 2)) (d (n "httpmock") (r "^0.6.7") (d #t) (k 2)) (d (n "predicates") (r "^2.1.5") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0f8c50a23kc1sfzv4gf49pxq19pf6r9gdssd7vabzrmsjw3vv4bn")))
+

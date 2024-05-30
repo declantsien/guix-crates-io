@@ -1,0 +1,4 @@
+(define-module (crates-io ob se observability-kit) #:use-module (crates-io))
+
+(define-public crate-observability-kit-0.1.0 (c (n "observability-kit") (v "0.1.0") (d (list (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (f (quote ("auto-install" "track-caller"))) (k 0)) (d (n "opentelemetry") (r "^0.22") (d #t) (k 0)) (d (n "opentelemetry-otlp") (r "^0.15.0") (d #t) (k 0)) (d (n "opentelemetry-semantic-conventions") (r "^0.14.0") (d #t) (k 0)) (d (n "opentelemetry_sdk") (r "^0.22") (f (quote ("trace" "rt-tokio"))) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-attributes") (r "^0.1") (d #t) (k 0)) (d (n "tracing-opentelemetry") (r "^0.23") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("tracing-log" "fmt" "env-filter"))) (d #t) (k 0)))) (h "1barm65n86lja1all8gsijrdzn2vpjbnh7agrj7qa33pl88rdncw")))
+

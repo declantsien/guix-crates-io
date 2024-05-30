@@ -1,0 +1,4 @@
+(define-module (crates-io ti qe tiqer) #:use-module (crates-io))
+
+(define-public crate-tiqer-0.0.1 (c (n "tiqer") (v "0.0.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossterm") (r "^0.17") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.18") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.10") (f (quote ("tls"))) (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0bxijnckh635mn33nk9201zm01h5cmgp04356w61cqzqd356wyjr")))
+

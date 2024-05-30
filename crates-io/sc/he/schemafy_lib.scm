@@ -1,0 +1,8 @@
+(define-module (crates-io sc he schemafy_lib) #:use-module (crates-io))
+
+(define-public crate-schemafy_lib-0.5.1 (c (n "schemafy_lib") (v "0.5.1") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "schemafy_core") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1immrcj9jl29m5kbfshlqkcac7mbc7qvg605j3sykhic73w6pj9h")))
+
+(define-public crate-schemafy_lib-0.5.2 (c (n "schemafy_lib") (v "0.5.2") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "schemafy_core") (r "^0.5.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1ymy532p81zchx9nq697c6xfr9znnq0hin2iqjccm6crawrdnlz9")))
+
+(define-public crate-schemafy_lib-0.6.0 (c (n "schemafy_lib") (v "0.6.0") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "schemafy_core") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "uriparse") (r "^0.6") (d #t) (k 0)))) (h "0pvg39djbbfyy1ijxingz4gb2j4fz3jlw7zx5dz9nsi4vzqqfgdg")))
+

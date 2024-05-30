@@ -1,0 +1,12 @@
+(define-module (crates-io tw il twilly_cli) #:use-module (crates-io))
+
+(define-public crate-twilly_cli-0.0.1 (c (n "twilly_cli") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "confy") (r "^0.6.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "twilly") (r "^0.0.1") (d #t) (k 0)))) (h "1s88cdi3jjm51yq84jyj9wnn45gq9m1g2h2wp8jkmzd1mhfyf73v") (r "1.74.1")))
+
+(define-public crate-twilly_cli-0.0.2 (c (n "twilly_cli") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "confy") (r "^0.6.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "twilly") (r "^0.0.1") (d #t) (k 0)))) (h "0yq9b9d41ll9wj80j0rszfc398yrbfhgid6igpr8a3s2i2pj80wl") (r "1.74.1")))
+
+(define-public crate-twilly_cli-0.0.3 (c (n "twilly_cli") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "confy") (r "^0.6.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.1") (d #t) (k 0)) (d (n "twilly") (r "^0.0.3") (d #t) (k 0)))) (h "07mqk8wmmpnqk0zhgfabmw5abj6cgg388safv5d2kxmcn4psakv5") (r "1.74.1")))
+
+(define-public crate-twilly_cli-0.0.4 (c (n "twilly_cli") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "confy") (r "^0.6.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.1") (d #t) (k 0)) (d (n "twilly") (r "^0.0.4") (d #t) (k 0)))) (h "0cg12vndgkh1q3647m8p11bmn5r43qv0vm1bd1s119f9j2rqh51q") (r "1.74.1")))
+
+(define-public crate-twilly_cli-0.1.0 (c (n "twilly_cli") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "confy") (r "^0.6.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.1") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "time"))) (d #t) (k 0)) (d (n "twilly") (r "^0.1.0") (d #t) (k 0)))) (h "01p4d18p4167zs5161nypc0l5d2zgml2nyankgz0vqs6j06mlra9") (r "1.74.1")))
+

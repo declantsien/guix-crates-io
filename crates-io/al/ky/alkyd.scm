@@ -1,0 +1,28 @@
+(define-module (crates-io al ky alkyd) #:use-module (crates-io))
+
+(define-public crate-alkyd-0.1.8 (c (n "alkyd") (v "0.1.8") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)))) (h "1gh1g84yrwam9kfwng2s6kdhi87a40jhfpyk5x9gy2brfrbi9mvv")))
+
+(define-public crate-alkyd-0.1.10 (c (n "alkyd") (v "0.1.10") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)))) (h "1bkwzxyhkq838h1qany13r0q4cl404gglc8vb4w8ms0y4rg09ywr")))
+
+(define-public crate-alkyd-0.1.11 (c (n "alkyd") (v "0.1.11") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)))) (h "12rzixhmhrbbr81lx9zppzybpq55665bblyb7zdcckjash07sh6l")))
+
+(define-public crate-alkyd-0.1.12 (c (n "alkyd") (v "0.1.12") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)))) (h "1fxqydx61hpq3p7w45dz5549gyis9xgdqqcv6cnqkfl9vkw8aj1k")))
+
+(define-public crate-alkyd-0.1.13 (c (n "alkyd") (v "0.1.13") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)))) (h "1iyyvk48dba4i7hwfbz0kjj99sf5gj6m1839q3kryvmv4xm5791h")))
+
+(define-public crate-alkyd-0.1.14 (c (n "alkyd") (v "0.1.14") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)))) (h "1sva24kw2q41g895jjv9f3s79xv6mzxgs0sp3qmsvd5kfx9mf48z")))
+
+(define-public crate-alkyd-0.1.15 (c (n "alkyd") (v "0.1.15") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)))) (h "0sznx7c70wkyijz6jh44f41rw4m1hh5zl2h8yzamq9krci2nc95i")))
+
+(define-public crate-alkyd-0.1.16 (c (n "alkyd") (v "0.1.16") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("trace" "trace_tracy_memory"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)))) (h "0jdix3p4ca84dji9l70xymp48mfm8xq5c112j6dybfmnjylydcij")))
+
+(define-public crate-alkyd-0.1.17 (c (n "alkyd") (v "0.1.17") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("trace" "trace_tracy_memory"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)))) (h "150a8b7z98bgfzn55b55ia6j03739c1rl5f2yss5iyn232dk8kid")))
+
+(define-public crate-alkyd-0.1.23 (c (n "alkyd") (v "0.1.23") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("trace" "trace_tracy_memory"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bevy_embedded_assets") (r "^0.10.2") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.16.0") (d #t) (k 0)) (d (n "naga") (r "^0.19.0") (f (quote ("wgsl-in"))) (d #t) (k 0)) (d (n "naga_oil") (r "^0.13, ^0") (f (quote ("test_shader"))) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.19.1") (f (quote ("naga"))) (d #t) (k 0)))) (h "04h4wz782khn3dkfg5mm5hbvxmm8ads3h446yydbp75x83xy8jy4")))
+
+(define-public crate-alkyd-0.1.26 (c (n "alkyd") (v "0.1.26") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("trace" "trace_tracy_memory"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.16.0") (d #t) (k 0)) (d (n "naga") (r "^0.19.0") (f (quote ("wgsl-in"))) (d #t) (k 0)) (d (n "naga_oil") (r "^0.13, ^0") (f (quote ("test_shader"))) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.19.1") (f (quote ("naga"))) (d #t) (k 0)))) (h "1qjxjgqgv7sqzx59pbad0zj6j7kcy9661ar7rpjw9qr8hdn27mwk")))
+
+(define-public crate-alkyd-0.1.27 (c (n "alkyd") (v "0.1.27") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("trace" "trace_tracy_memory"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.16.0") (d #t) (k 0)) (d (n "naga") (r "^0.19.0") (f (quote ("wgsl-in"))) (d #t) (k 0)) (d (n "naga_oil") (r "^0.13, ^0") (f (quote ("test_shader"))) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.19.1") (f (quote ("naga"))) (d #t) (k 0)))) (h "0l6nqfkhqc9qgls9krhp89wv85rf7m0qzbb7fs18ppcndlg2n6g7")))
+
+(define-public crate-alkyd-0.1.28 (c (n "alkyd") (v "0.1.28") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (d #t) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("trace" "trace_tracy_memory"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.16.0") (d #t) (k 0)) (d (n "naga") (r "^0.19.0") (f (quote ("wgsl-in"))) (d #t) (k 0)) (d (n "naga_oil") (r "^0.13, ^0") (f (quote ("test_shader"))) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.19.1") (f (quote ("naga"))) (d #t) (k 0)))) (h "0phg6mdnjhspaja1ajkw67dk48v5bgpxrr659cxhzpz5s2phqah5")))
+

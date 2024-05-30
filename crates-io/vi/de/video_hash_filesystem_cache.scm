@@ -1,0 +1,4 @@
+(define-module (crates-io vi de video_hash_filesystem_cache) #:use-module (crates-io))
+
+(define-public crate-video_hash_filesystem_cache-0.1.0 (c (n "video_hash_filesystem_cache") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "generic_filesystem_cache") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vid_dup_finder_lib") (r "^0.1") (f (quote ("app_only_fns"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0a8xm55ilhcwpas35xk4wahmxvgfq5fsrn2yg273rz63i06yikz6") (f (quote (("parallel_loading") ("default" "parallel_loading"))))))
+

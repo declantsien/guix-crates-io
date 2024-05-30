@@ -1,0 +1,4 @@
+(define-module (crates-io re le releasr) #:use-module (crates-io))
+
+(define-public crate-releasr-0.1.0 (c (n "releasr") (v "0.1.0") (d (list (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "awc") (r "^3.0.0-beta.17") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (f (quote ("serde_json" "chrono"))) (d #t) (k 0)) (d (n "semver") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "10pv1q2v3jmv0c9429sjgl1jrxp4qv6jgn6kscqp66qi7jbnarp9")))
+

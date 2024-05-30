@@ -1,0 +1,10 @@
+(define-module (crates-io ir og iroga) #:use-module (crates-io))
+
+(define-public crate-iroga-0.1.2 (c (n "iroga") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0jlzp7cv0rxr42bwnwyc6q423gf4l7bhwncyxpdx6zyg9lwsp15l")))
+
+(define-public crate-iroga-0.2.0 (c (n "iroga") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0k175xxp244zmylir0grg57d318q480mcv8z9pnb336pxyw2fl6m")))
+
+(define-public crate-iroga-0.2.1 (c (n "iroga") (v "0.2.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "1z1av2inssai11rshkkg0wppyc2kgkbzk1krn7y8rcn723r1vmqy")))
+
+(define-public crate-iroga-0.2.2 (c (n "iroga") (v "0.2.2") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "01lpy931cagags2z2c5jm5qjz030kqb72v6ni6xicv9dpbbshn6n")))
+

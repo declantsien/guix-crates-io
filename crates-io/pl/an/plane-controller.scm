@@ -1,0 +1,4 @@
+(define-module (crates-io pl an plane-controller) #:use-module (crates-io))
+
+(define-public crate-plane-controller-0.3.0 (c (n "plane-controller") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "clap") (r "^4.0.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dashmap") (r "^5.3.4") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "plane-core") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("macros" "rt"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "trust-dns-server") (r "^0.22.0") (d #t) (k 0)))) (h "1yy7mihh4dc72mxbahc6y7i0r0xjbpjq9sqd5fxva4bkhinsngb5")))
+

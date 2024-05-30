@@ -1,0 +1,8 @@
+(define-module (crates-io we bp webpack-stats) #:use-module (crates-io))
+
+(define-public crate-webpack-stats-0.0.0 (c (n "webpack-stats") (v "0.0.0") (d (list (d (n "empty_type") (r "^0.2.2") (f (quote ("serde" "derive"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerovec") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)))) (h "1arap0vajki49afbhwd80w2s2whx56mw6n4ddj2qdvpjm9bjy0iy") (f (quote (("v5") ("default" "v5")))) (s 2) (e (quote (("fs" "dep:serde_json"))))))
+
+(define-public crate-webpack-stats-0.0.1 (c (n "webpack-stats") (v "0.0.1") (d (list (d (n "empty_type") (r "^0.2.2") (f (quote ("serde" "derive"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerovec") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)))) (h "07rg5934hgryl351f2bswvfgipaz4zxw0cxpmi3y4mdzfv300f9j") (f (quote (("v5") ("default" "v5")))) (s 2) (e (quote (("fs" "dep:serde_json"))))))
+
+(define-public crate-webpack-stats-0.2.0 (c (n "webpack-stats") (v "0.2.0") (d (list (d (n "empty_type") (r "^0.2.2") (f (quote ("serde" "derive"))) (d #t) (k 0)) (d (n "meshed") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerovec") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)))) (h "0c41yn7ljwmadir2kh3gx5ks9y3bjf1z7crfq1xdxyws0ngqpyql") (f (quote (("v5") ("sync") ("default" "all") ("all" "v5"))))))
+

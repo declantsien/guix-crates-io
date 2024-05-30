@@ -1,0 +1,10 @@
+(define-module (crates-io th eb theban_db_server) #:use-module (crates-io))
+
+(define-public crate-theban_db_server-0.3.0 (c (n "theban_db_server") (v "0.3.0") (d (list (d (n "argparse") (r "0.2.*") (d #t) (k 0)) (d (n "byteorder") (r "0.4.*") (d #t) (k 0)) (d (n "memrange") (r "0.1.*") (d #t) (k 0)) (d (n "rmp") (r "^0.7") (d #t) (k 0)) (d (n "theban_db") (r "0.4.*") (d #t) (k 0)) (d (n "unix_socket") (r "0.5.*") (d #t) (k 0)))) (h "0nvj9cpryks3zrw2xsg5qrw9c6nf9qwicw5xdrw5gdpxv02whnfv")))
+
+(define-public crate-theban_db_server-0.3.1 (c (n "theban_db_server") (v "0.3.1") (d (list (d (n "argparse") (r "0.2.*") (d #t) (k 0)) (d (n "byteorder") (r "0.4.*") (d #t) (k 0)) (d (n "memrange") (r "0.1.*") (d #t) (k 0)) (d (n "rmp") (r "^0.7") (d #t) (k 0)) (d (n "theban_db") (r "0.5.*") (d #t) (k 0)) (d (n "unix_socket") (r "0.5.*") (d #t) (k 0)))) (h "1p9inrhky1hsblbjjmgly0gfga0gn637d37n6fvs8kixf0aiwsg1")))
+
+(define-public crate-theban_db_server-0.3.5 (c (n "theban_db_server") (v "0.3.5") (d (list (d (n "argparse") (r "0.2.*") (d #t) (k 0)) (d (n "byteorder") (r "0.4.*") (d #t) (k 0)) (d (n "memrange") (r "0.1.*") (d #t) (k 0)) (d (n "quick-error") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp") (r "^0.7") (d #t) (k 0)) (d (n "rmp-serialize") (r "0.7.*") (d #t) (k 0)) (d (n "rustc-serialize") (r "0.3.*") (d #t) (k 0)) (d (n "theban_db") (r "0.6.*") (d #t) (k 0)) (d (n "unix_socket") (r "0.5.*") (d #t) (k 0)))) (h "023pf7jpf44466nkaya31xb28rca75sr21lqb9w7bllbl9kcp4wq")))
+
+(define-public crate-theban_db_server-0.3.6 (c (n "theban_db_server") (v "0.3.6") (d (list (d (n "argparse") (r "0.2.*") (d #t) (k 0)) (d (n "byteorder") (r "0.4.*") (d #t) (k 0)) (d (n "memrange") (r "0.1.*") (d #t) (k 0)) (d (n "quick-error") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp") (r "^0.7") (d #t) (k 0)) (d (n "rmp-serialize") (r "0.7.*") (d #t) (k 0)) (d (n "rustc-serialize") (r "0.3.*") (d #t) (k 0)) (d (n "theban_db") (r "0.7.*") (d #t) (k 0)) (d (n "unix_socket") (r "0.5.*") (d #t) (k 0)))) (h "00nvfpkxmvq2g5qd8fa9byk8hxj66k37f1rycmx1jx23w0a7j1xm")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io re lm relm4-store-reexport) #:use-module (crates-io))
+
+(define-public crate-relm4-store-reexport-0.1.0-beta.1 (c (n "relm4-store-reexport") (v "0.1.0-beta.1") (d (list (d (n "adw") (r "^0.1.0-alpha-6") (o #t) (d #t) (k 0) (p "libadwaita")) (d (n "gtk") (r "^0.3.1") (d #t) (k 0) (p "gtk4")) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "relm4") (r "^0.4.0-beta.3") (d #t) (k 0)) (d (n "relm4-components") (r "^0.4.0-beta.3") (d #t) (k 0)) (d (n "relm4-macros") (r "^0.4.0-beta.3") (d #t) (k 0)) (d (n "tracker") (r "^0.1.1") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "19jpvrikp3jbc39lgniqh8k139fhxg9p67v7rbd3imxw6bfq4vi0")))
+
+(define-public crate-relm4-store-reexport-0.1.0-beta.2 (c (n "relm4-store-reexport") (v "0.1.0-beta.2") (d (list (d (n "adw") (r "^0.1.0-alpha-6") (o #t) (d #t) (k 0) (p "libadwaita")) (d (n "gtk") (r "^0.4.3") (d #t) (k 0) (p "gtk4")) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "relm4") (r "^0.4.1") (d #t) (k 0)) (d (n "relm4-components") (r "^0.4.0") (d #t) (k 0)) (d (n "relm4-macros") (r "^0.4.1") (d #t) (k 0)) (d (n "tracker") (r "^0.1.1") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1vb81n5d3ijnjny94ghm15qbzi627qpxnflp05kjpqx0cvaq7k9c")))
+

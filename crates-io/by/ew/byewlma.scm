@@ -1,0 +1,6 @@
+(define-module (crates-io by ew byewlma) #:use-module (crates-io))
+
+(define-public crate-byewlma-0.0.1 (c (n "byewlma") (v "0.0.1") (d (list (d (n "byewlma-macros") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde" "wasmbind"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "palette") (r "^0.6") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "yew") (r "^0.18") (d #t) (k 0)) (d (n "yewtil") (r "^0.4") (f (quote ("pure"))) (d #t) (k 0)))) (h "1r6b1hnr7qy4whpwmiwbz9xzh70s4d9m2qspm869225k4538q5qj")))
+
+(define-public crate-byewlma-0.1.3 (c (n "byewlma") (v "0.1.3") (d (list (d (n "byewlma-macros") (r "^0.1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde" "wasmbind"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "palette") (r "^0.6") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (d #t) (k 0)) (d (n "yew") (r "^0.18") (d #t) (k 0)) (d (n "yewtil") (r "^0.4") (f (quote ("pure"))) (d #t) (k 0)))) (h "1f66djmhr6jw8hnkmdz8prvx30pc9w0gd0jy8mrap0g5p850i96v")))
+

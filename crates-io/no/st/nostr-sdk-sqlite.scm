@@ -1,0 +1,8 @@
+(define-module (crates-io no st nostr-sdk-sqlite) #:use-module (crates-io))
+
+(define-public crate-nostr-sdk-sqlite-0.19.0 (c (n "nostr-sdk-sqlite") (v "0.19.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nostr") (r "^0.19") (d #t) (k 0)) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_sqlite") (r "^0.21") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (f (quote ("bundled" "serde_json" "url"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0i2a9s68wgssm1a5hh61d69p5sz8962y6dl9gap5vyk98x6ky9d4") (r "1.64.0")))
+
+(define-public crate-nostr-sdk-sqlite-0.20.0 (c (n "nostr-sdk-sqlite") (v "0.20.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nostr") (r "^0.20") (d #t) (k 0)) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_sqlite") (r "^0.21") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (f (quote ("bundled" "serde_json" "url"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1jgisxy94rj7spc07jr5rd89gh686r6hka9v3959gm6gdwzasl0x") (r "1.64.0")))
+
+(define-public crate-nostr-sdk-sqlite-0.21.0 (c (n "nostr-sdk-sqlite") (v "0.21.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nostr") (r "^0.21") (d #t) (k 0)) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_sqlite") (r "^0.21") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (f (quote ("bundled" "serde_json" "url"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03brl80czzxylil54c92m4p90bqafmljcqbrkmw04zpggsc38q3y") (r "1.64.0")))
+

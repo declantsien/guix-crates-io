@@ -1,0 +1,30 @@
+(define-module (crates-io se rd serde-querystring) #:use-module (crates-io))
+
+(define-public crate-serde-querystring-0.0.1 (c (n "serde-querystring") (v "0.0.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_qs") (r "^0.7") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 2)))) (h "13c7a88hyfc1xnb63jmnvrlcagazf3jmrqvvzsf7dhjc28ij3s02")))
+
+(define-public crate-serde-querystring-0.0.2 (c (n "serde-querystring") (v "0.0.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_qs") (r "^0.7") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 2)))) (h "0z9xbsgbs6n25fag3p7l2kqlarh6dp2r2kyggnqgh348gk0j104r")))
+
+(define-public crate-serde-querystring-0.0.3 (c (n "serde-querystring") (v "0.0.3") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_qs") (r "^0.7") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 2)))) (h "1jvhyqfi9v0p4zr721n2l5pd1jqsb4b17xd3aszrgpmv1j6wykhk")))
+
+(define-public crate-serde-querystring-0.0.4 (c (n "serde-querystring") (v "0.0.4") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_qs") (r "^0.7") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 2)))) (h "04k3ky1dnv2yqbb5lc1v08q99pyd605vzw77ap6qlliv04a17db5")))
+
+(define-public crate-serde-querystring-0.0.5 (c (n "serde-querystring") (v "0.0.5") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_qs") (r "^0.7") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 2)))) (h "0a10f72dc3kx0lb4yf53d6m212km8hz3dz8h8l82y8lxgfaaa0in")))
+
+(define-public crate-serde-querystring-0.0.6 (c (n "serde-querystring") (v "0.0.6") (d (list (d (n "criterion") (r ">=0.3.0, <0.4.0") (d #t) (k 2)) (d (n "serde") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "0w5wx4cxgq3sq60dbqswb5jh1n6ayjgp0lcji2aqr3id24hqjznf")))
+
+(define-public crate-serde-querystring-0.0.7 (c (n "serde-querystring") (v "0.0.7") (d (list (d (n "criterion") (r ">=0.3.0, <0.4.0") (d #t) (k 2)) (d (n "serde") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "05plia6qidvzrrjn3nrnw5s4dnv8h7vbsqgd0h623c017h9xf7s7")))
+
+(define-public crate-serde-querystring-0.0.8 (c (n "serde-querystring") (v "0.0.8") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)))) (h "06qih49lspzdfdnc7gmwczhx4921p6wn44c3nyz8az46msfd83kz")))
+
+(define-public crate-serde-querystring-0.1.0-beta.0 (c (n "serde-querystring") (v "0.1.0-beta.0") (d (list (d (n "_serde") (r "^1.0.126") (o #t) (d #t) (k 0) (p "serde")) (d (n "_serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2) (p "serde")) (d (n "lexical") (r "^6.0") (f (quote ("std" "parse-integers" "parse-floats"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "1in38fym85bl8fgn0gmfnnynha00s6xwhimj1gmvyzw84npabwdv") (f (quote (("serde" "_serde" "lexical") ("default" "serde"))))))
+
+(define-public crate-serde-querystring-0.1.0-beta.1 (c (n "serde-querystring") (v "0.1.0-beta.1") (d (list (d (n "_serde") (r "^1.0.126") (o #t) (d #t) (k 0) (p "serde")) (d (n "_serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2) (p "serde")) (d (n "lexical") (r "^6.0") (f (quote ("std" "parse-integers" "parse-floats"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "0rh9pgxnra2vgmkwvz0zlp2yf8bz1wasrf0ip9yi2bs201yd63wz") (f (quote (("serde" "_serde" "lexical") ("default" "serde"))))))
+
+(define-public crate-serde-querystring-0.1.0-beta.2 (c (n "serde-querystring") (v "0.1.0-beta.2") (d (list (d (n "_serde") (r "^1.0.126") (o #t) (d #t) (k 0) (p "serde")) (d (n "_serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2) (p "serde")) (d (n "lexical") (r "^6.0") (f (quote ("std" "parse-integers" "parse-floats"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "07v1zvnzjjks8aysl2ff64i0i67v75fb7zbnp1sip44cj1f0n7m2") (f (quote (("serde" "_serde" "lexical") ("default" "serde"))))))
+
+(define-public crate-serde-querystring-0.1.0 (c (n "serde-querystring") (v "0.1.0") (d (list (d (n "_serde") (r "^1.0.126") (o #t) (d #t) (k 0) (p "serde")) (d (n "_serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2) (p "serde")) (d (n "lexical") (r "^6.0") (f (quote ("std" "parse-integers" "parse-floats"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "1dyliskm7nb1bjkskn71hjspxkniy15qk717qvfmdzykqg2fxr59") (f (quote (("serde" "_serde" "lexical") ("default" "serde"))))))
+
+(define-public crate-serde-querystring-0.2.0 (c (n "serde-querystring") (v "0.2.0") (d (list (d (n "_serde") (r "^1.0.126") (o #t) (d #t) (k 0) (p "serde")) (d (n "_serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2) (p "serde")) (d (n "lexical") (r "^6.0") (f (quote ("std" "parse-integers" "parse-floats"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "0sl0kq99vhsi73f3fmizmja27pzakay5m6qh2hncyrbkz3cbzkmy") (f (quote (("serde" "_serde" "lexical") ("default" "serde")))) (r "1.56")))
+
+(define-public crate-serde-querystring-0.2.1 (c (n "serde-querystring") (v "0.2.1") (d (list (d (n "_serde") (r "^1.0.126") (o #t) (d #t) (k 0) (p "serde")) (d (n "_serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2) (p "serde")) (d (n "lexical") (r "^6.0") (f (quote ("std" "parse-integers" "parse-floats"))) (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "08gxhm4776g2dhr02nzn05s36dvijbh7b1xp6mdm8809bpkzi26f") (f (quote (("serde" "_serde" "lexical") ("default" "serde")))) (r "1.56")))
+

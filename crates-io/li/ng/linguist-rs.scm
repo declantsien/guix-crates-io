@@ -1,0 +1,22 @@
+(define-module (crates-io li ng linguist-rs) #:use-module (crates-io))
+
+(define-public crate-linguist-rs-0.1.0 (c (n "linguist-rs") (v "0.1.0") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1inbh1czr97sz3agrrzv6ac5m8g6621b4y2z5k9f19qfqr6jk000") (f (quote (("default" "yaml-load")))) (y #t) (s 2) (e (quote (("yaml-load" "dep:serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.1.1 (c (n "linguist-rs") (v "0.1.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "0a7j99j7yfkyxfi9vlhidmv9xcmsn32gz8vxyw9cn4kb8wnp2js4") (f (quote (("default" "yaml-load")))) (s 2) (e (quote (("yaml-load" "dep:serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.2.0 (c (n "linguist-rs") (v "0.2.0") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1gk8i8hs2xrd6kv95g6ax7xqkxbbv3rfwv312kpb9jw5xhihy24a") (f (quote (("default" "yaml-load")))) (s 2) (e (quote (("yaml-load" "dep:serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.4.0 (c (n "linguist-rs") (v "0.4.0") (d (list (d (n "fancy-regex") (r "^0.11.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "0xny0w2g3baakshnhqkc48liymqaldy9mmqp255ih6jgjgrlmkp8") (f (quote (("default" "serde" "matcher")))) (s 2) (e (quote (("serde" "dep:serde") ("matcher" "dep:fancy-regex") ("github-linguist-yaml" "serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.5.0 (c (n "linguist-rs") (v "0.5.0") (d (list (d (n "fancy-regex") (r "^0.11.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1rb8d6qqnkmcj1gbsxw7v0vzh3a4m3ibnvzvwrjivmkyyy2jqcnf") (f (quote (("default" "serde" "matcher")))) (s 2) (e (quote (("serde" "dep:serde") ("matcher" "dep:fancy-regex") ("github-linguist-yaml" "serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.6.0 (c (n "linguist-rs") (v "0.6.0") (d (list (d (n "regex") (r "^1.8.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1qrjk9pd4kbngvirsv2q24ijxh8d3vsz32cfi5b3c1c67bl0cr89") (f (quote (("default" "serde" "matcher")))) (s 2) (e (quote (("serde" "dep:serde") ("matcher" "dep:regex") ("github-linguist-yaml" "serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.7.0 (c (n "linguist-rs") (v "0.7.0") (d (list (d (n "regex") (r "^1.8.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "0q148pzxajdnyljqv9mdlvaiqk7rp8703wiy2m4f9y2d8nv71724") (f (quote (("default" "serde" "matcher")))) (s 2) (e (quote (("serde" "dep:serde") ("matcher" "dep:regex") ("github-linguist-yaml" "serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-0.7.1 (c (n "linguist-rs") (v "0.7.1") (d (list (d (n "regex") (r "^1.8.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "0jjyzi6y9f40pmlr69cpai17rdrnd1nnpp2i0jvmbm429dw32q8a") (f (quote (("default" "serde" "matcher")))) (s 2) (e (quote (("serde" "dep:serde") ("matcher" "dep:regex") ("github-linguist-yaml" "serde" "dep:serde_yaml"))))))
+
+(define-public crate-linguist-rs-1.0.0 (c (n "linguist-rs") (v "1.0.0") (d (list (d (n "regex") (r "^1.8.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (o #t) (d #t) (k 0)))) (h "03zzm7r28viymkkdf4anbgixq8rwskq0rabnshbd8774sw17m9j5") (f (quote (("github-linguist-yaml" "serde") ("default" "serde" "matcher")))) (y #t) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_yaml") ("matcher" "dep:regex"))))))
+
+(define-public crate-linguist-rs-1.1.0 (c (n "linguist-rs") (v "1.1.0") (d (list (d (n "regex") (r "^1.8.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (o #t) (d #t) (k 0)))) (h "1ciqhq49ri9sh4588c3274cb9a8s6vrzi89qm5pvsz7v5s6j7m1f") (f (quote (("github-linguist-yaml" "serde") ("default" "serde" "matcher")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_yaml") ("matcher" "dep:regex"))))))
+

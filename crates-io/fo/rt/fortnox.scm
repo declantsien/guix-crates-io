@@ -1,0 +1,10 @@
+(define-module (crates-io fo rt fortnox) #:use-module (crates-io))
+
+(define-public crate-fortnox-0.1.0 (c (n "fortnox") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1qm3fkv5s9ssn123x11qw4wb32pk7l3xy4psqhjzrsnfkvgri511")))
+
+(define-public crate-fortnox-0.1.1 (c (n "fortnox") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0903vacisiq15xdjkckpgw705prfmilfykn60b0qcrhzprha2247")))
+
+(define-public crate-fortnox-0.1.2 (c (n "fortnox") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0d34cd1vd5jk2bm0q90r9myhfpwnxsqlmcimfjr0zgxiq4bsfvg9")))
+
+(define-public crate-fortnox-0.1.3 (c (n "fortnox") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0hbki6bi9l5xqha09kr8sdkb35x0f0585ymhmxinfyj58ad71irb")))
+

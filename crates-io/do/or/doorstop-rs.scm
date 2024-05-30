@@ -1,0 +1,6 @@
+(define-module (crates-io do or doorstop-rs) #:use-module (crates-io))
+
+(define-public crate-doorstop-rs-0.1.0 (c (n "doorstop-rs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.37") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)) (d (n "yaserde") (r "^0.10.0") (d #t) (k 0)) (d (n "yaserde_derive") (r "^0.10.0") (d #t) (k 0)))) (h "05cm8bsdvpqx156w2bdqcyhvyzygcniqn7p38r2kvr4hx9j5yv84")))
+
+(define-public crate-doorstop-rs-0.2.0 (c (n "doorstop-rs") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.37") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)) (d (n "yaserde") (r "^0.10.0") (d #t) (k 0)) (d (n "yaserde_derive") (r "^0.10.0") (d #t) (k 0)))) (h "187kadgw1qqd1h9lan1xlfwgb284jxf347x6ia4favddw94gbm84")))
+

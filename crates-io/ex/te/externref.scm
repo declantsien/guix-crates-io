@@ -1,0 +1,6 @@
+(define-module (crates-io ex te externref) #:use-module (crates-io))
+
+(define-public crate-externref-0.1.0 (c (n "externref") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.58") (o #t) (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "externref-macro") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.4") (d #t) (k 2)) (d (n "walrus") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "wat") (r "^1.0.46") (d #t) (k 2)))) (h "0f8mzlifr50f2cv3isx2mmkvjas5nxf5yiwf4nzz3cx5jip00s89") (f (quote (("processor" "anyhow" "walrus") ("macro" "externref-macro") ("default" "macro")))) (r "1.60")))
+
+(define-public crate-externref-0.2.0 (c (n "externref") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.66") (o #t) (d #t) (k 0)) (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "externref-macro") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.4") (d #t) (k 2)) (d (n "walrus") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "wat") (r "^1.0.46") (d #t) (k 2)))) (h "1bbccy62qcf0m396q2ckny0fyc0bjmrz60p49lqc5hddkdy50y5h") (f (quote (("processor" "anyhow" "walrus") ("macro" "externref-macro") ("default" "macro")))) (r "1.66")))
+

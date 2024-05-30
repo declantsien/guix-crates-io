@@ -1,0 +1,8 @@
+(define-module (crates-io fr ee freebsd-geom) #:use-module (crates-io))
+
+(define-public crate-freebsd-geom-0.1.0 (c (n "freebsd-geom") (v "0.1.0") (d (list (d (n "quick-xml") (r "~0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "scan_fmt") (r "~0.2.5") (d #t) (k 0)) (d (n "serde") (r "~1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-hex") (r "~0.1.0") (d #t) (k 0)) (d (n "strum") (r "~0.20.0") (d #t) (k 0)) (d (n "strum_macros") (r "~0.20.1") (d #t) (k 0)) (d (n "sysctl") (r "~0.4.0") (d #t) (k 0)))) (h "08y1dyk4wn0vnkn2w0xjnn99v9zg8hl2n9nmi5mcmgphghz15nni")))
+
+(define-public crate-freebsd-geom-0.1.1 (c (n "freebsd-geom") (v "0.1.1") (d (list (d (n "quick-xml") (r "~0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "scan_fmt") (r "~0.2.5") (d #t) (k 0)) (d (n "serde") (r "~1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-hex") (r "~0.1.0") (d #t) (k 0)) (d (n "strum") (r "~0.20.0") (d #t) (k 0)) (d (n "strum_macros") (r "~0.20.1") (d #t) (k 0)) (d (n "sysctl") (r "~0.4.0") (d #t) (k 0)))) (h "08b0yv8qc3w3j2rlvk7jn9kamks1g2jrp2pj041di2wxq048945z")))
+
+(define-public crate-freebsd-geom-0.1.2 (c (n "freebsd-geom") (v "0.1.2") (d (list (d (n "quick-xml") (r "~0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "scan_fmt") (r "~0.2.5") (d #t) (k 0)) (d (n "serde") (r "~1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-hex") (r "~0.1.0") (d #t) (k 0)) (d (n "strum") (r "~0.20.0") (d #t) (k 0)) (d (n "strum_macros") (r "~0.20.1") (d #t) (k 0)) (d (n "sysctl") (r "~0.4.0") (d #t) (k 0)))) (h "02y1x7nfp2rzknwnr9chpfdxkad8pc8rj3r4lr2i33d3dwaihjv3")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io mk re mkrepo) #:use-module (crates-io))
+
+(define-public crate-mkrepo-0.1.0 (c (n "mkrepo") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "envy") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "gitconfig") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "1q4sc0b69g4721ck6rgvzcy2vsy8x4hml1qizhq9fcwamz6ix8z4")))
+
+(define-public crate-mkrepo-0.1.1 (c (n "mkrepo") (v "0.1.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "envy") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "gitconfig") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "0mjh0mcy1q6glbbyyin9cvf3x5lb2k8pc6111ki81cz3340ay7f5")))
+
+(define-public crate-mkrepo-0.1.2 (c (n "mkrepo") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "envy") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "gitconfig") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "10hcs5jzanilchpfyd29pri84ym1s8cl59cvsiam6fa7nv2afh0z")))
+
+(define-public crate-mkrepo-0.1.3 (c (n "mkrepo") (v "0.1.3") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "envy") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "git2") (r "^0.10") (d #t) (k 0)) (d (n "gitconfig") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "shellexpand") (r "^1.0.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "1m4r1ds70fig49ckpfc8xwd52li867l2mc1fmw37r45hz78njp02")))
+

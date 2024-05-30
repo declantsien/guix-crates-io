@@ -1,0 +1,4 @@
+(define-module (crates-io ro ac roach) #:use-module (crates-io))
+
+(define-public crate-roach-0.1.1 (c (n "roach") (v "0.1.1") (d (list (d (n "bytemuck") (r "^1.14.0") (f (quote ("extern_crate_std"))) (o #t) (k 0)) (d (n "mutability_marker") (r "^0.1.0") (k 0)) (d (n "redb") (r "^1.4.0") (k 0)) (d (n "rmp-serde") (r "^1.1.2") (o #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.188") (o #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (k 0)) (d (n "wasm_sync") (r "^0.1.0") (k 0)) (d (n "zstd") (r ">=0.12.0") (o #t) (k 0)) (d (n "zstd-safe") (r ">=0.12.0") (f (quote ("experimental"))) (o #t) (k 0)))) (h "1xmqcjb5qw8k305cpigb0awxvv6awwd2s9br01d2qjy166xmsh9h") (s 2) (e (quote (("zstd" "dep:zstd" "dep:zstd-safe") ("rmp-serde" "dep:rmp-serde" "dep:serde"))))))
+

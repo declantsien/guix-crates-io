@@ -1,0 +1,8 @@
+(define-module (crates-io bd k- bdk-testutils) #:use-module (crates-io))
+
+(define-public crate-bdk-testutils-0.2.0 (c (n "bdk-testutils") (v "0.2.0") (d (list (d (n "bitcoin") (r "^0.25") (d #t) (k 0)) (d (n "bitcoincore-rpc") (r "^0.12") (d #t) (k 0)) (d (n "electrum-client") (r "^0.4.0-beta.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.4") (d #t) (k 0)))) (h "1qz79w56ggadpc1c2rwg35d8v33ivhnjnxz8rb6b7bv9p3mvwd9x")))
+
+(define-public crate-bdk-testutils-0.3.0 (c (n "bdk-testutils") (v "0.3.0") (d (list (d (n "bitcoin") (r "^0.26") (d #t) (k 0)) (d (n "bitcoincore-rpc") (r "^0.13") (d #t) (k 0)) (d (n "electrum-client") (r "^0.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "miniscript") (r "^5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.4") (d #t) (k 0)))) (h "0r6x9mr6b3vn8f9y6knkqnzbl4hgb3yhyw4vpvr5g97xiln3ind6")))
+
+(define-public crate-bdk-testutils-0.4.0 (c (n "bdk-testutils") (v "0.4.0") (d (list (d (n "bitcoin") (r "^0.26") (d #t) (k 0)) (d (n "bitcoincore-rpc") (r "^0.13") (d #t) (k 0)) (d (n "electrum-client") (r "^0.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "miniscript") (r "^5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.4") (d #t) (k 0)))) (h "1gqvlnzgxi4ijg033axbhxacg3g2k43g0m316lcb7ib57yfdb1v6")))
+

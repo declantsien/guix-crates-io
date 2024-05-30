@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rust2uml) #:use-module (crates-io))
+
+(define-public crate-rust2uml-0.0.1 (c (n "rust2uml") (v "0.0.1") (d (list (d (n "argi") (r "^0.1.0-beta.5") (d #t) (k 2)) (d (n "clippy") (r "^0") (o #t) (d #t) (k 0)) (d (n "dot") (r "^0.1.4") (d #t) (k 0)) (d (n "itertools") (r "^0.5") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^1") (d #t) (k 0)))) (h "1q24jm74ks7gc44954ncb4h19rfykn5d8fncqri09j954sjh2ga9") (f (quote (("unstable") ("travis" "lints" "nightly") ("nightly") ("lints" "clippy" "nightly") ("implem") ("fn-emilgardis") ("default") ("debug"))))))
+
+(define-public crate-rust2uml-0.0.2 (c (n "rust2uml") (v "0.0.2") (d (list (d (n "argi") (r "^0.1.0-beta.5") (d #t) (k 2)) (d (n "clippy") (r "^0") (o #t) (d #t) (k 0)) (d (n "dot") (r "^0.1.4") (d #t) (k 0)) (d (n "itertools") (r "^0.5") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^1") (d #t) (k 0)))) (h "1w92hrd8b9hgf1j0hgkik8adj9q45r6a6m5cpn62w00dwa9dp9s3") (f (quote (("unstable") ("travis" "lints" "nightly") ("nightly") ("lints" "clippy" "nightly") ("implem") ("fn-emilgardis") ("default") ("debug"))))))
+

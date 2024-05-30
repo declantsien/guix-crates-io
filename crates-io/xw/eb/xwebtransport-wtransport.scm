@@ -1,0 +1,6 @@
+(define-module (crates-io xw eb xwebtransport-wtransport) #:use-module (crates-io))
+
+(define-public crate-xwebtransport-wtransport-0.1.0 (c (n "xwebtransport-wtransport") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)) (d (n "tokio") (r "^1") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)) (d (n "wtransport") (r "^0.1.3") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "xwebtransport-core") (r "^0.1") (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "xwebtransport-tests") (r "^0.1") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)))) (h "1mk8qfcwb5fdb1ag6gvp9m878r3q2syg166vhi13syf45gwc5jg5")))
+
+(define-public crate-xwebtransport-wtransport-0.2.0 (c (n "xwebtransport-wtransport") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)) (d (n "wtransport") (r "^0.1.7") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "xwebtransport-core") (r "^0.2") (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "xwebtransport-tests") (r "^0.2") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)))) (h "0ar36gd0wpnf7684kdwcbs7200nmrxb9npfz3zqy7irrraffqgaf")))
+

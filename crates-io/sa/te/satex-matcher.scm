@@ -1,0 +1,14 @@
+(define-module (crates-io sa te satex-matcher) #:use-module (crates-io))
+
+(define-public crate-satex-matcher-0.1.3 (c (n "satex-matcher") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "hyper") (r "^1.0") (d #t) (k 0)) (d (n "path-tree") (r "^0.7") (d #t) (k 0)) (d (n "qstring") (r "^0.7") (d #t) (k 0)) (d (n "satex-core") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0q8jpd2244x0plg7lg51s6s6clyh1ylglc2lrg27a4i5x0z6jw7y") (y #t)))
+
+(define-public crate-satex-matcher-0.1.5 (c (n "satex-matcher") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "hyper") (r "^1.0") (d #t) (k 0)) (d (n "path-tree") (r "^0.7") (d #t) (k 0)) (d (n "qstring") (r "^0.7") (d #t) (k 0)) (d (n "satex-core") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0knhps5xsccjpbnwa8z8d1dmkzpax65himam9q5rwb3q7pjmw9qn") (y #t)))
+
+(define-public crate-satex-matcher-0.1.6 (c (n "satex-matcher") (v "0.1.6") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "hyper") (r "^1.0") (d #t) (k 0)) (d (n "path-tree") (r "^0.7") (d #t) (k 0)) (d (n "qstring") (r "^0.7") (d #t) (k 0)) (d (n "satex-core") (r "^0.1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0f2nxyjj81m9fpakjns59by11qgwisw9k6cy872ppzpzdmg6si4q") (y #t)))
+
+(define-public crate-satex-matcher-0.2.0 (c (n "satex-matcher") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "hyper") (r "^1.0") (d #t) (k 0)) (d (n "path-tree") (r "^0.7") (d #t) (k 0)) (d (n "qstring") (r "^0.7") (d #t) (k 0)) (d (n "satex-core") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "132y0d47gj5h5qzvs6pwnr9vh6frhsnbizfxjm9xslskcaanwjax")))
+
+(define-public crate-satex-matcher-0.2.1 (c (n "satex-matcher") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "hyper") (r "^1.0") (d #t) (k 0)) (d (n "path-tree") (r "^0.7") (d #t) (k 0)) (d (n "qstring") (r "^0.7") (d #t) (k 0)) (d (n "satex-core") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1xqimx56sdl365q72s0c534qjpq2pxxj6sg6m7b0c66l5bdlrfxr")))
+
+(define-public crate-satex-matcher-0.2.2 (c (n "satex-matcher") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (d #t) (k 0)) (d (n "hyper") (r "^1.0") (d #t) (k 0)) (d (n "path-tree") (r "^0.7") (d #t) (k 0)) (d (n "qstring") (r "^0.7") (d #t) (k 0)) (d (n "satex-core") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1lvp09fklp85sj0q5bysskngqbvh2p6q76bpd65fp4wk60x0rqhb")))
+

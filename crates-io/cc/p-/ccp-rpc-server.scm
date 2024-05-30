@@ -1,0 +1,4 @@
+(define-module (crates-io cc p- ccp-rpc-server) #:use-module (crates-io))
+
+(define-public crate-ccp-rpc-server-0.10.0 (c (n "ccp-rpc-server") (v "0.10.0") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "ccp") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp-rpc-client") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "cpu-utils") (r "^0.10.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.21.0") (f (quote ("client" "macros" "tokio" "server"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("sync" "rt" "rt-multi-thread" "macros" "fs" "signal"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0df81q22bplsgkr9q1hynviz9kszh9n0f30kwbkbjsnka9xli32h")))
+

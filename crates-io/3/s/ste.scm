@@ -1,0 +1,24 @@
+(define-module (crates-io #{3}# s ste) #:use-module (crates-io))
+
+(define-public crate-ste-0.1.0-alpha.1 (c (n "ste") (v "0.1.0-alpha.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "parking_lot_core") (r "^0.8.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "1ds6764g22jx5j2j2ddxjm4cjf0grws2ap3m3vg49k0r5x1jlawc")))
+
+(define-public crate-ste-0.1.0-alpha.2 (c (n "ste") (v "0.1.0-alpha.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "parking_lot_core") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "1svbld6cbq6wwc4lm22x8r7b1a9mmr8piz63njhgk5m550gsrds5") (f (quote (("parking-lot-parker" "parking_lot_core"))))))
+
+(define-public crate-ste-0.1.0-alpha.3 (c (n "ste") (v "0.1.0-alpha.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "parking_lot_core") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "091xgmbaazbs307zz6q8fh2pxyglqxna2zyxl988mvf44b8ywf1n") (f (quote (("parking-lot-parker" "parking_lot_core"))))))
+
+(define-public crate-ste-0.1.0-alpha.4 (c (n "ste") (v "0.1.0-alpha.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync"))) (d #t) (k 2)))) (h "071y320i1i5kbac32nrbd2fl97dz28m54zzi4hdicr1s315xh8l0")))
+
+(define-public crate-ste-0.1.0-alpha.5 (c (n "ste") (v "0.1.0-alpha.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync"))) (d #t) (k 2)))) (h "1rixq3s6qnm7mir5prhadby2rqhggz2wr1v6ff62v0xgdsarkvyd")))
+
+(define-public crate-ste-0.1.0-alpha.6 (c (n "ste") (v "0.1.0-alpha.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync"))) (d #t) (k 2)))) (h "0p849br9r8pkjv5apcmvrml2j0j06c1lh34qd9s6sl4abcs27xvg")))
+
+(define-public crate-ste-0.1.0-alpha.7 (c (n "ste") (v "0.1.0-alpha.7") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync" "time"))) (d #t) (k 2)))) (h "0w1q65j8f7zcai02g7bj7q5pwyzzpgnisxmhrx64iiafif0is9c4") (f (quote (("default" "tokio"))))))
+
+(define-public crate-ste-0.1.0-alpha.8 (c (n "ste") (v "0.1.0-alpha.8") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync" "time"))) (d #t) (k 2)))) (h "1mi6sgmnwljfllim7cmarwn2lnpzj4dbvnvxhkkl74jv9mkf39vm") (f (quote (("default" "tokio"))))))
+
+(define-public crate-ste-0.1.0-alpha.9 (c (n "ste") (v "0.1.0-alpha.9") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync" "time"))) (d #t) (k 2)))) (h "04rndkkmxjp7glhf0kbxk0x8al526hkjcdhcz7hf6vl984f6mz07") (f (quote (("default" "tokio"))))))
+
+(define-public crate-ste-0.1.0-alpha.10 (c (n "ste") (v "0.1.0-alpha.10") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync" "time"))) (d #t) (k 2)))) (h "0hw5m848pzqq485zpg88pkpmmk95ldhi8zq2r30s96g77506qp9m") (f (quote (("default" "tokio"))))))
+
+(define-public crate-ste-0.1.0-alpha.11 (c (n "ste") (v "0.1.0-alpha.11") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "loom") (r "^0.4") (d #t) (t "cfg(loom)") (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.4") (f (quote ("rt" "macros" "sync" "time"))) (d #t) (k 2)))) (h "181b47xqffznnw1r1zn4m0w6869yhz385sc04n0323pwic4jrm19") (f (quote (("default" "tokio"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io dn si dnsie) #:use-module (crates-io))
+
+(define-public crate-dnsie-0.1.0 (c (n "dnsie") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.11.0") (d #t) (k 2)) (d (n "derive_more") (r "^0.15.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.0") (d #t) (k 2)) (d (n "hyper") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.8") (d #t) (k 2)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 2)) (d (n "rand") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "12csh8qn66mgjy2srlmajyinz0ba0pxcw9k2ir980fq3avcx3590") (f (quote (("serialize" "serde" "serde_derive") ("doh" "hyper") ("default" "serialize" "doh")))) (y #t)))
+

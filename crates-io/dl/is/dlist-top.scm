@@ -1,0 +1,4 @@
+(define-module (crates-io dl is dlist-top) #:use-module (crates-io))
+
+(define-public crate-dlist-top-0.1.0 (c (n "dlist-top") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.16") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.15.0") (f (quote ("rustls-tls"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.23") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)) (d (n "tungstenite") (r "^0.14.0") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1bkypfj45jl23h1w2wgwdg4jqsh53c7h60gn2pi4kbln15pmzv4p")))
+

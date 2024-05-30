@@ -1,0 +1,10 @@
+(define-module (crates-io su zu suzume) #:use-module (crates-io))
+
+(define-public crate-suzume-0.1.0 (c (n "suzume") (v "0.1.0") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)))) (h "1ha59c8slsz8dqz598n3p57kii5slgyrr61pgs9wby7v6yd6gq0c")))
+
+(define-public crate-suzume-0.1.1 (c (n "suzume") (v "0.1.1") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)))) (h "10p40ayp1lzbzm1d3wpw3f3hkmbv81xdkqsdafainjrddvf2ajwa")))
+
+(define-public crate-suzume-0.1.2 (c (n "suzume") (v "0.1.2") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)))) (h "1kpfh0ha5zgqpfylzadqf2zj6rgw4gal7vv5c2lkb29b5q9aakmf")))
+
+(define-public crate-suzume-0.1.3 (c (n "suzume") (v "0.1.3") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)))) (h "1mwczzw0q3jjssblgj69nzia56450dh5lk2rwnwg7sn0zdyka5yn")))
+

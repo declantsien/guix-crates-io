@@ -1,0 +1,16 @@
+(define-module (crates-io is o- iso-10303) #:use-module (crates-io))
+
+(define-public crate-iso-10303-0.0.0 (c (n "iso-10303") (v "0.0.0") (d (list (d (n "pom") (r "^3.1.0") (d #t) (k 0)))) (h "1sbv87hl6k88lqr5a0dwapdv50vs5hhaz768wfnqyz1ihpi9h2hl")))
+
+(define-public crate-iso-10303-0.1.0 (c (n "iso-10303") (v "0.1.0") (d (list (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "19a5zd4wc6ip5qalmvcjak87jcg8972pzsymnq6abbsm8rvj1g5k") (f (quote (("gencode" "quote" "proc-macro2" "heck"))))))
+
+(define-public crate-iso-10303-0.2.0 (c (n "iso-10303") (v "0.2.0") (d (list (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1lz3bhmml92ipvm0vsa0cabh4m4y09wl6hk173fvhkz0h5fx7ylh") (f (quote (("gencode" "quote" "proc-macro2" "heck"))))))
+
+(define-public crate-iso-10303-0.3.0 (c (n "iso-10303") (v "0.3.0") (d (list (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0wa3cajial4f50a0hyhn7jd7ddmcxycn48qbnv7w935r2xq82agw") (f (quote (("gengraph" "heck" "petgraph") ("gencode" "quote" "proc-macro2" "heck"))))))
+
+(define-public crate-iso-10303-0.4.0 (c (n "iso-10303") (v "0.4.0") (d (list (d (n "fast-float") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0ki4rwq0x6g9b7x7j74cqzpw9ga2y0zcimyzwhqch6bcb6qcpy5w") (f (quote (("gengraph" "heck" "petgraph") ("gencode" "quote" "proc-macro2" "heck"))))))
+
+(define-public crate-iso-10303-0.4.1 (c (n "iso-10303") (v "0.4.1") (d (list (d (n "fast-float") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0y328prc6sxm5wr7x4zvw1c9njf5r1vh0789pqpxxrjznnrmbk0k") (f (quote (("gengraph" "heck" "petgraph") ("gencode" "quote" "proc-macro2" "heck"))))))
+
+(define-public crate-iso-10303-0.5.0 (c (n "iso-10303") (v "0.5.0") (d (list (d (n "fast-float") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1rq9x8frifpjparzkahygd6z9fnr6wwid5rkkn44w4v036ivyciy") (f (quote (("gengraph" "heck" "petgraph") ("gencode" "quote" "proc-macro2" "heck"))))))
+

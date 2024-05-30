@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hyper-http-connector) #:use-module (crates-io))
+
+(define-public crate-hyper-http-connector-0.1.0 (c (n "hyper-http-connector") (v "0.1.0") (d (list (d (n "antidote") (r "^1.0.0") (d #t) (k 0)) (d (n "c-ares") (r "^5.0") (d #t) (k 0)) (d (n "c-ares-resolver") (r "^4.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.21") (d #t) (k 0)) (d (n "futures-cpupool") (r "^0.1.6") (d #t) (k 0)) (d (n "http") (r "^0.1.5") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2.32") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.11") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1") (d #t) (k 0)))) (h "18ypsrbm3jdv1wqnwbf7x2ig89mgbfbb962yavnbzfz17gqrxr8w")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ho co hoconvert) #:use-module (crates-io))
+
+(define-public crate-hoconvert-0.1.2 (c (n "hoconvert") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "hocon") (r "^0.5") (d #t) (k 0)) (d (n "predicates") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "1k69ix78bz58215pvhy9kj9qz0xxyw6410g88r2sqpmg26jwl5xq")))
+
+(define-public crate-hoconvert-0.1.3 (c (n "hoconvert") (v "0.1.3") (d (list (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 2)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.3") (d #t) (k 0)) (d (n "hocon") (r "^0.9.0") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.24") (d #t) (k 0)))) (h "07b9pgslcybrgmih7q4m29cjnhzg6aarfmg8yvb0kqapy24mvlbc")))
+
+(define-public crate-hoconvert-1.0.0 (c (n "hoconvert") (v "1.0.0") (d (list (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hocon") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.10") (d #t) (k 2)) (d (n "predicates") (r "^3.0.2") (d #t) (k 2)))) (h "0p47kmgcsaq49ffwf4lkr677av0iaix6jj534rwc4dddv9jr3a6q")))
+

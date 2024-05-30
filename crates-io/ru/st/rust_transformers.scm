@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rust_transformers) #:use-module (crates-io))
+
+(define-public crate-rust_transformers-0.1.0 (c (n "rust_transformers") (v "0.1.0") (d (list (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.8.3") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rayon") (r "^1.2.1") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.8") (d #t) (k 0)))) (h "1x3kls0sj8pylrb27yhgg8p6szbmbygzsi1ag6iilh85h9wq2b0h")))
+
+(define-public crate-rust_transformers-0.2.0 (c (n "rust_transformers") (v "0.2.0") (d (list (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.8.3") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rayon") (r "^1.2.1") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.8") (d #t) (k 0)))) (h "1r95a53xg8nj38f713df9r995301zhab44wbrr6nkjd52cc0ki26")))
+

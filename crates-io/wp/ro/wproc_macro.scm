@@ -1,0 +1,16 @@
+(define-module (crates-io wp ro wproc_macro) #:use-module (crates-io))
+
+(define-public crate-wproc_macro-0.0.0 (c (n "wproc_macro") (v "0.0.0") (d (list (d (n "proc-macro2") (r "~1.0.32") (d #t) (k 0)) (d (n "quote") (r "~1.0.10") (d #t) (k 0)) (d (n "syn") (r "~1.0.81") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "wtest_basic") (r "~0") (d #t) (k 2)))) (h "1cw9sz6csl9vysjgw3c6bdv6ls9ds0f72aqjxhqz9i6wjmrcs99q")))
+
+(define-public crate-wproc_macro-0.0.1 (c (n "wproc_macro") (v "0.0.1") (d (list (d (n "proc-macro2") (r "~1.0.32") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "~1.0.10") (d #t) (k 0)) (d (n "syn") (r "~1.0.81") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "wtest_basic") (r "~0") (d #t) (k 2)))) (h "0m9jc9di5vgxfc7kwnlcfp0b2kckzcryjz1mj2fr3pchr6mcr66b")))
+
+(define-public crate-wproc_macro-0.0.2 (c (n "wproc_macro") (v "0.0.2") (d (list (d (n "proc-macro2") (r "~1.0.32") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "~1.0.10") (d #t) (k 0)) (d (n "syn") (r "~1.0.81") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "wtest_basic") (r "~0") (d #t) (k 2)))) (h "12lh9bjfq3dprvk630cvzqiffk54glbgjkhpmsxx72dllsy68ajy")))
+
+(define-public crate-wproc_macro-0.0.3 (c (n "wproc_macro") (v "0.0.3") (d (list (d (n "proc-macro2") (r "~1.0.32") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "~1.0.10") (d #t) (k 0)) (d (n "syn") (r "~1.0.81") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "wtest_basic") (r "~0") (d #t) (k 2)))) (h "18w7dsswac2iz4dpsb8q448yg8j8k8zs785m24ffkw793k41n9wr")))
+
+(define-public crate-wproc_macro-0.0.4 (c (n "wproc_macro") (v "0.0.4") (d (list (d (n "proc-macro2") (r "~1.0.32") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "~1.0") (d #t) (k 2)) (d (n "syn") (r "~1.0.81") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "wtest_basic") (r "~0") (d #t) (k 2)))) (h "0gpppjwycmjh0v0m6p5xcsn72ym16fsdwdybjyz0ibc8apqmk79g")))
+
+(define-public crate-wproc_macro-0.0.5 (c (n "wproc_macro") (v "0.0.5") (d (list (d (n "proc-macro2") (r "~1.0") (d #t) (k 0)) (d (n "quote") (r "~1.0") (d #t) (k 2)) (d (n "syn") (r "~1.0") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "wtest_basic") (r "~0") (d #t) (k 2)))) (h "05b21vvk95nz7yvfavb6kx7nmsqanllm0q73d9d9hpi0n3b69c3i")))
+
+(define-public crate-wproc_macro-0.1.0 (c (n "wproc_macro") (v "0.1.0") (d (list (d (n "proc-macro2") (r "~1.0") (d #t) (k 0)) (d (n "quote") (r "~1.0") (d #t) (k 2)) (d (n "syn") (r "~1.0") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "trybuild") (r "~1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "winterval") (r "~0.1") (d #t) (k 0)) (d (n "wtest_basic") (r "~0.1") (d #t) (k 2)))) (h "0fvnif7y66zf4sxx4p463xmm6dvwc6c3chcj098fz053m3v84qwr")))
+

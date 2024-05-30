@@ -1,0 +1,10 @@
+(define-module (crates-io ra nd rand-sequence) #:use-module (crates-io))
+
+(define-public crate-rand-sequence-0.1.0 (c (n "rand-sequence") (v "0.1.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "is_prime") (r "^2.0") (d #t) (k 2)) (d (n "num-modular") (r "^0.6") (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "statrs") (r "^0.16") (d #t) (k 2)))) (h "0vs4j33gyqwln9rqyk21qy2mnw1ifpzk26nmhwaa30rvcpwv92gp") (f (quote (("default" "rand"))))))
+
+(define-public crate-rand-sequence-0.1.1 (c (n "rand-sequence") (v "0.1.1") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "is_prime") (r "^2.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "statrs") (r "^0.16") (d #t) (k 2)))) (h "1nh06azl4rfjwkk6s0dw4r6hnnn5p8455b7km6rghpxxdmkbg87d") (f (quote (("default" "rand"))))))
+
+(define-public crate-rand-sequence-0.2.0 (c (n "rand-sequence") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "is_prime") (r "^2.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "statrs") (r "^0.16") (d #t) (k 2)))) (h "0w82sx7ss1mihz0ivmmbmn1zx36qczradjrpy2xmmgs5c8g5m2xa") (f (quote (("default" "rand"))))))
+
+(define-public crate-rand-sequence-0.2.1 (c (n "rand-sequence") (v "0.2.1") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "is_prime") (r "^2.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "statrs") (r "^0.16") (d #t) (k 2)))) (h "1yaj54a1f50qikdbi852mlhj1liwgspsr1f9s4vy1nfycib3dc5m") (f (quote (("default" "rand"))))))
+

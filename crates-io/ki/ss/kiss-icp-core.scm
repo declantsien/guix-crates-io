@@ -1,0 +1,4 @@
+(define-module (crates-io ki ss kiss-icp-core) #:use-module (crates-io))
+
+(define-public crate-kiss-icp-core-0.1.0 (c (n "kiss-icp-core") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (f (quote ("backtrace" "backtrace"))) (d #t) (k 0)) (d (n "hashbrown") (r "^0.14") (f (quote ("ahash" "inline-more" "ahash" "inline-more"))) (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (o #t) (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "kiss-icp-ops") (r "^0.1.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "ordered-float") (r "^4.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)))) (h "0xslddkv3ndnk8hm954max40p3ywrdjbgjwzc6hvw6qhjvpaig1f") (f (quote (("numa" "hwlocality" "rand") ("nightly" "hashbrown/nightly") ("default" "numa")))) (r "1.62")))
+

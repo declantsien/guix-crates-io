@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_trauma_shake) #:use-module (crates-io))
+
+(define-public crate-bevy_trauma_shake-0.1.0 (c (n "bevy_trauma_shake") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12") (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_winit" "bevy_sprite" "webgl2" "wayland"))) (k 2)) (d (n "bevy-inspector-egui") (r "^0.21") (k 2)) (d (n "bevy_pancam") (r "^0.10") (f (quote ("bevy_egui"))) (d #t) (k 2)) (d (n "noisy_bevy") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1amck9qi9q54xf4dh1qciwi7jjfvhi3gvjymgbynxhkqslh484sx") (f (quote (("system_param") ("events") ("default" "events" "commands" "system_param") ("commands"))))))
+
+(define-public crate-bevy_trauma_shake-0.2.0 (c (n "bevy_trauma_shake") (v "0.2.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("bevy_winit" "bevy_sprite" "webgl2" "x11"))) (k 2)) (d (n "bevy-inspector-egui") (r "^0.23") (k 2)) (d (n "bevy_pancam") (r "^0.11") (f (quote ("bevy_egui"))) (d #t) (k 2)) (d (n "noisy_bevy") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1w6hz3z7bzs0blhxmy0qh6wdhlrv3fp65i61ry04dvwgl7vkr67c") (f (quote (("system_param") ("events") ("default" "events" "commands" "system_param") ("commands"))))))
+

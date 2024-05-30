@@ -1,0 +1,42 @@
+(define-module (crates-io pr im prima_datadog) #:use-module (crates-io))
+
+(define-public crate-prima_datadog-0.1.0 (c (n "prima_datadog") (v "0.1.0") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "07zvfyqrddwsc95627cgkj9ll6jny6iwmz1da7xly5clawjkxp1m")))
+
+(define-public crate-prima_datadog-0.1.1 (c (n "prima_datadog") (v "0.1.1") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0dvdzppqvddzqn6irbjz7faxn8azis1qv43jj7j1xpcn2pv3j9xh")))
+
+(define-public crate-prima_datadog-0.1.2 (c (n "prima_datadog") (v "0.1.2") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0v546z38sq13w46an6yxmhmrglj54yjb3n19hdipka71fk2a2hg6")))
+
+(define-public crate-prima_datadog-0.1.3 (c (n "prima_datadog") (v "0.1.3") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "05hb122c885ykfx5f6l26f796ksqyb5bsa7xfy687vcmkzay7igr")))
+
+(define-public crate-prima_datadog-0.1.4 (c (n "prima_datadog") (v "0.1.4") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "06prnr1aw8wr5yzikn6d8397r50d00j004djg9bmqs22rkl41c4y")))
+
+(define-public crate-prima_datadog-0.1.5 (c (n "prima_datadog") (v "0.1.5") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "14c6vi2llyry0sg6g5sx99k2sgjxw26ag406z76f1p91c8b1dfbc")))
+
+(define-public crate-prima_datadog-0.1.6 (c (n "prima_datadog") (v "0.1.6") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0ijb1yng3bk2mk6sx0iyls8nspzywy1dn9cm0gjpysfm97daf58s")))
+
+(define-public crate-prima_datadog-0.1.7 (c (n "prima_datadog") (v "0.1.7") (d (list (d (n "dogstatsd") (r "^0.6") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "serial_test") (r "^0.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0c94wlylvcwld9acyi0nd86697ddflwffvq0mvsbw928w6lkzdwn") (f (quote (("noop"))))))
+
+(define-public crate-prima_datadog-0.1.8 (c (n "prima_datadog") (v "0.1.8") (d (list (d (n "dogstatsd") (r "^0.7") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03vb79spskj55h9sp5psppvjqzc1j41bih334mvxpm46am06dvr6") (f (quote (("noop"))))))
+
+(define-public crate-prima_datadog-0.1.9 (c (n "prima_datadog") (v "0.1.9") (d (list (d (n "dogstatsd") (r "^0.7") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0nj05488xdwas4b06hgx3cr4ysdnyc2i5wdzjgwrda95kmy893in") (f (quote (("noop"))))))
+
+(define-public crate-prima_datadog-0.2.0 (c (n "prima_datadog") (v "0.2.0") (d (list (d (n "dogstatsd") (r "^0.7") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03yfpy5a2y0bdjfrxapvzf2pgxnn0bphdds31y6r01r433dr1aai")))
+
+(define-public crate-prima_datadog-0.3.0 (c (n "prima_datadog") (v "0.3.0") (d (list (d (n "dogstatsd") (r "^0.7") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "12vbzvgg5i0skg1dlh9lg099yyqd4wxqx5ai3bd3qyv2b62388jx")))
+
+(define-public crate-prima_datadog-0.3.1 (c (n "prima_datadog") (v "0.3.1") (d (list (d (n "dogstatsd") (r "^0.7") (k 0)) (d (n "mockall") (r "^0.11") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "serial_test") (r "^0.8.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "1gnbiqwbqddcaw7gry93h6sxnpp2j4hwcwyvzhf4zg79af4l8q39")))
+
+(define-public crate-prima_datadog-0.4.0 (c (n "prima_datadog") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "dogstatsd") (r "^0.7") (k 0)) (d (n "mockall") (r "^0.11") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "serial_test") (r "^0.8.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "0sg6147fk95kcykpi2vc42kisga9z34b948hsanm29csk6xh6d7y")))
+
+(define-public crate-prima_datadog-0.5.0 (c (n "prima_datadog") (v "0.5.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "dogstatsd") (r "^0.7") (k 0)) (d (n "mockall") (r "^0.11") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serial_test") (r "^0.8.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "14ailfdp4rd24n0lbd3vmjyf6sxba41jd9zi6zbm0dxs40k8nv8f")))
+
+(define-public crate-prima_datadog-0.6.0 (c (n "prima_datadog") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "dogstatsd") (r "^0.11.0") (k 0)) (d (n "mockall") (r "^0.11") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serial_test") (r "^2.0.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "1k9r91qi8r7mc7820827ylipkj9b6jh9k6dbhb5drdawryz843bf")))
+
+(define-public crate-prima_datadog-0.6.0-rc.0 (c (n "prima_datadog") (v "0.6.0-rc.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "dogstatsd") (r "=0.11.0") (k 0)) (d (n "mockall") (r "^0.12") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serial_test") (r "^2.0.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "1wgh6s1k5z7mylwacd81dbmsb6kfa4mnv5gxn28b497m5mxw3c02")))
+
+(define-public crate-prima_datadog-0.7.0 (c (n "prima_datadog") (v "0.7.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "dogstatsd") (r "=0.11.0") (k 0)) (d (n "mockall") (r "^0.12") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serial_test") (r "^3.0.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "12cbb05cbhdxdblppqddvg33c1xzixig0gfpxyzki0zr9n2giyx9") (y #t)))
+
+(define-public crate-prima_datadog-0.7.1 (c (n "prima_datadog") (v "0.7.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "dogstatsd") (r "=0.11.0") (k 0)) (d (n "mockall") (r "^0.12") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "029dm9n0jzsm2r81f1h71cj9wpdn0v55kfdky0yplvrvdfi2gh3q") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-prima_datadog-0.7.2 (c (n "prima_datadog") (v "0.7.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "dogstatsd") (r "=0.11.1") (k 0)) (d (n "mockall") (r "^0.12") (k 2)) (d (n "once_cell") (r "^1.9") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (k 2)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "094fyqriwanvqpplb4j1vsd7m7y8icqd8prrsbqi9m2mkbqgwz1w") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

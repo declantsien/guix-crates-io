@@ -1,0 +1,8 @@
+(define-module (crates-io nc r- ncr-crypto) #:use-module (crates-io))
+
+(define-public crate-ncr-crypto-0.1.0 (c (n "ncr-crypto") (v "0.1.0") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "bruteforce") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "cfb8") (r "^0.8") (d #t) (k 0)) (d (n "fastpbkdf2") (r "^0.1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "java-rand") (r "^0.2") (d #t) (k 0)) (d (n "tqdm") (r "^0.4") (d #t) (k 0)))) (h "16fikzsmxvaw5m4z28a1wdvxp6m7s7wa3mqvn2mnxf1rvlfy9k7c")))
+
+(define-public crate-ncr-crypto-0.1.1 (c (n "ncr-crypto") (v "0.1.1") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "bruteforce") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "cfb8") (r "^0.8") (d #t) (k 0)) (d (n "fastpbkdf2") (r "^0.1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "java-rand") (r "^0.2") (d #t) (k 0)) (d (n "tqdm") (r "^0.4") (d #t) (k 0)))) (h "1zrdm5qr54ii2pbwq3zawzadiykb2in5jh65aghlp7dyh7xn7mls")))
+
+(define-public crate-ncr-crypto-0.2.0 (c (n "ncr-crypto") (v "0.2.0") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 2)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "cfb8") (r "^0.8") (d #t) (k 0)) (d (n "fastpbkdf2") (r "^0.1.0") (d #t) (t "cfg(not(windows))") (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "java-rand") (r "^0.2") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (t "cfg(windows)") (k 0)))) (h "0vzq09y4xpmdks042h8gf75rhgq7mw46naf11z2z9bbnpwlz4ag3")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ap p- app-queue) #:use-module (crates-io))
+
+(define-public crate-app-queue-0.1.0 (c (n "app-queue") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 2)) (d (n "sqlx") (r "^0.7.4") (f (quote ("sqlite" "chrono" "runtime-tokio" "migrate"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread" "net" "io-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)) (d (n "typetag") (r "^0.2.16") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1902b4ll6z25plps7hpq20ypf66x1knmg99yv0rsk9ax25xdmsib")))
+

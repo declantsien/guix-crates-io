@@ -1,0 +1,16 @@
+(define-module (crates-io no de node-semver) #:use-module (crates-io))
+
+(define-public crate-node-semver-0.1.0 (c (n "node-semver") (v "0.1.0") (h "1hc6947rf135p5phlrfpza0mg24mjsmzcm8486c8a33mvqs02rd6") (y #t)))
+
+(define-public crate-node-semver-0.2.0 (c (n "node-semver") (v "0.2.0") (d (list (d (n "bytecount") (r "^0.6.0") (d #t) (k 0)) (d (n "miette") (r "^2.0.0") (d #t) (k 0)) (d (n "nom") (r "^6.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.115") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "04nffiv262pny7s2cfp5h5fclfh3piwm4nbbrhm445wdz2qz2cxm")))
+
+(define-public crate-node-semver-1.0.0 (c (n "node-semver") (v "1.0.0") (d (list (d (n "bytecount") (r "^0.6.0") (d #t) (k 0)) (d (n "miette") (r "^3.0.0") (d #t) (k 0)) (d (n "nom") (r "^7.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.115") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "0fy5g0nais9rgi762yjvrw9m5j751002rgssqi9ahjw5chg63k59") (y #t)))
+
+(define-public crate-node-semver-1.0.1 (c (n "node-semver") (v "1.0.1") (d (list (d (n "bytecount") (r "^0.6.0") (d #t) (k 0)) (d (n "miette") (r "^3.0.0") (d #t) (k 0)) (d (n "nom") (r "^7.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.115") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "1jqk6jim34x7zgks3cxsvw2z5l22vh6z8lm5drahl3dim1lvsc6x")))
+
+(define-public crate-node-semver-2.0.0 (c (n "node-semver") (v "2.0.0") (d (list (d (n "bytecount") (r "^0.6.0") (d #t) (k 0)) (d (n "miette") (r "^3.0.0") (d #t) (k 0)) (d (n "nom") (r "^7.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.115") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "1nc6lgmpbqvqzk9ic4m7p01pnc93bvbxkijwbrj0h0w64p83y5x8")))
+
+(define-public crate-node-semver-2.0.1 (c (n "node-semver") (v "2.0.1") (d (list (d (n "bytecount") (r "^0.6.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.115") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1jas35af4ddygw688lkc389wc9mbxq4bfz7xkhw4rsw850iw1i5y")))
+
+(define-public crate-node-semver-2.1.0 (c (n "node-semver") (v "2.1.0") (d (list (d (n "bytecount") (r "^0.6.0") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.115") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "05h1shh76vnz0jjh964v34z6ig2n18lcy0gd5a7m6cv3fp0r1ww4")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io pe li pelikan-net) #:use-module (crates-io))
+
+(define-public crate-pelikan-net-0.1.0 (c (n "pelikan-net") (v "0.1.0") (d (list (d (n "boring") (r "^3.1.0") (d #t) (k 0)) (d (n "boring-sys") (r "^3.1.0") (d #t) (k 0)) (d (n "foreign-types-shared") (r "^0.3.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.149") (d #t) (k 0)) (d (n "metriken") (r "^0.3.3") (d #t) (k 0)) (d (n "mio") (r "^0.8.8") (f (quote ("os-poll" "net"))) (d #t) (k 0)))) (h "1cy9va5hnsgwvksd1k4ahh8nn189sh6xprbnj52wn1vii5fzs85i")))
+
+(define-public crate-pelikan-net-0.2.0 (c (n "pelikan-net") (v "0.2.0") (d (list (d (n "boring") (r "^3.1.0") (o #t) (d #t) (k 0)) (d (n "boring-sys") (r "^3.1.0") (o #t) (d #t) (k 0)) (d (n "foreign-types-shared_01") (r "^0.1.1") (d #t) (k 0) (p "foreign-types-shared")) (d (n "foreign-types-shared_03") (r "^0.3.1") (d #t) (k 0) (p "foreign-types-shared")) (d (n "libc") (r "^0.2.149") (d #t) (k 0)) (d (n "metriken") (r "^0.3.3") (d #t) (k 0)) (d (n "mio") (r "^0.8.11") (f (quote ("os-poll" "net"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10.64") (o #t) (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9.102") (o #t) (d #t) (k 0)))) (h "1dzj45y91snz6bykw98n6m4ipvymghpvncax6xqj6y52mk73wdsc") (f (quote (("default" "boringssl") ("boringssl" "boring" "boring-sys")))) (s 2) (e (quote (("openssl" "dep:openssl" "openssl-sys" "openssl/vendored"))))))
+

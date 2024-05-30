@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# p pwv) #:use-module (crates-io))
+
+(define-public crate-pwv-0.2.0 (c (n "pwv") (v "0.2.0") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "clipboard-win") (r "^2.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "memsec") (r "^0.5") (d #t) (k 0)) (d (n "seckey") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("bcrypt" "wincred" "combaseapi" "errhandlingapi" "winerror"))) (d #t) (k 0)))) (h "1z4qr8a71zxvh97z6f82aq0cb3c75ps2c565zkic98xzn5fb2byi")))
+
+(define-public crate-pwv-0.2.1 (c (n "pwv") (v "0.2.1") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "clipboard-win") (r "^2.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "memsec") (r "^0.5") (d #t) (k 0)) (d (n "seckey") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("bcrypt" "wincred" "combaseapi" "errhandlingapi" "winerror"))) (d #t) (k 0)))) (h "0cghg3dqai4r014h6yinijgxgii0cmg419a3xxqh3apdyfm1aw4j")))
+

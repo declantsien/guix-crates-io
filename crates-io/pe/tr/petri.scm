@@ -1,0 +1,10 @@
+(define-module (crates-io pe tr petri) #:use-module (crates-io))
+
+(define-public crate-petri-0.0.1 (c (n "petri") (v "0.0.1") (d (list (d (n "len-trait") (r "^0.6.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 0)) (d (n "rayon") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.15") (d #t) (k 0)))) (h "0iy4bz46n1rh8hngkdglvlsy5apf6vpbl41wdn68djl3irc907s2") (f (quote (("par" "rayon") ("gp") ("ga") ("default" "ga"))))))
+
+(define-public crate-petri-0.0.2 (c (n "petri") (v "0.0.2") (d (list (d (n "clap") (r "^2.26.2") (d #t) (k 2)) (d (n "len-trait") (r "^0.6.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 0)) (d (n "rayon") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.15") (d #t) (k 0)))) (h "0bgz1iv4b3cwl8xz07lwd25gz24lqjnzzqzm9nwd8v4nfglg42l3") (f (quote (("par" "rayon") ("gp") ("ga") ("default" "ga"))))))
+
+(define-public crate-petri-0.0.3 (c (n "petri") (v "0.0.3") (d (list (d (n "bit-vec") (r "^0.4.4") (d #t) (k 0)) (d (n "clap") (r "^2.26.2") (d #t) (k 2)) (d (n "ndarray") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 0)) (d (n "rayon") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.15") (d #t) (k 0)))) (h "0w4s8y1csn6a0wyxwihd3j8igpwjgmnhh2781m0ndrr5k91909a0") (f (quote (("par" "rayon") ("gp") ("ga") ("default" "ga"))))))
+
+(define-public crate-petri-0.0.4 (c (n "petri") (v "0.0.4") (d (list (d (n "bit-vec") (r "^0.4.4") (d #t) (k 0)) (d (n "clap") (r "^2.26.2") (d #t) (k 2)) (d (n "ndarray") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 0)) (d (n "rayon") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.15") (d #t) (k 0)))) (h "03d2365s8h7h1a8jzldwk4978pnrk8m5d711qcm0fkjj5ml0djcl") (f (quote (("par" "rayon") ("gp") ("ga") ("default" "ga"))))))
+

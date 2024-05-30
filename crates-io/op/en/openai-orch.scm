@@ -1,0 +1,4 @@
+(define-module (crates-io op en openai-orch) #:use-module (crates-io))
+
+(define-public crate-openai-orch-0.1.0 (c (n "openai-orch") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-openai") (r "^0.12.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 2)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "timing") (r "^0.2.3") (d #t) (k 0)) (d (n "tinyrand") (r "^0.5.0") (d #t) (k 0)) (d (n "tinyrand-std") (r "^0.5.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("rt" "time" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0xcxs675j51myw8f5skmk8g5wfi8m21ls75h1gqq23s8cg64zwww")))
+

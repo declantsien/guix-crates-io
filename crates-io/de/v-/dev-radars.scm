@@ -1,0 +1,8 @@
+(define-module (crates-io de v- dev-radars) #:use-module (crates-io))
+
+(define-public crate-dev-radars-0.1.0 (c (n "dev-radars") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "charming") (r "^0.3.1") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "083dvvzxvpd01j9c7q7ljjy1jfqfibib9shmnr77nya2rv67h2ll")))
+
+(define-public crate-dev-radars-0.1.1 (c (n "dev-radars") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "charming") (r "^0.3.1") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "0g1b44ncrf2h4s45axv7wwn1byipysbksgysmp1g9qp6n2x5lymc")))
+
+(define-public crate-dev-radars-0.1.2 (c (n "dev-radars") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "charming") (r "^0.3.1") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "04niy7n9rya6sj1p1199sf36fqz9zsb8ilvh4cxmad0jw82gm0j8")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_replicon_snap) #:use-module (crates-io))
+
+(define-public crate-bevy_replicon_snap-0.2.0 (c (n "bevy_replicon_snap") (v "0.2.0") (d (list (d (n "bevy") (r "^0.13.0") (k 0)) (d (n "bevy") (r "^0.13.0") (f (quote ("bevy_asset" "bevy_core_pipeline" "bevy_render" "bevy_sprite" "bevy_text" "bevy_ui" "bevy_gizmos" "x11" "default_font"))) (k 2)) (d (n "bevy_replicon") (r "^0.24.1") (d #t) (k 0)) (d (n "bevy_replicon_renet") (r "^0.1.0") (d #t) (k 0)) (d (n "bevy_replicon_snap_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0my22xrvs0j4kaas75wqx0h6ffab4p9j704idcycy1i90qv1pmvs")))
+
+(define-public crate-bevy_replicon_snap-0.2.1 (c (n "bevy_replicon_snap") (v "0.2.1") (d (list (d (n "bevy") (r "^0.13.1") (k 0)) (d (n "bevy") (r "^0.13.0") (f (quote ("bevy_asset" "bevy_core_pipeline" "bevy_render" "bevy_sprite" "bevy_text" "bevy_ui" "bevy_gizmos" "x11" "default_font"))) (k 2)) (d (n "bevy_replicon") (r "^0.24.1") (d #t) (k 0)) (d (n "bevy_replicon_renet") (r "^0.1.0") (d #t) (k 0)) (d (n "bevy_replicon_snap_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0qqbmsa667hr7ikrkx5qfnj3qdc8jm153nc8qxgvlmj2j7aalhcj")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io la zy lazy-attribute) #:use-module (crates-io))
+
+(define-public crate-lazy-attribute-0.1.1 (c (n "lazy-attribute") (v "0.1.1") (d (list (d (n "async-once-cell") (r "^0.5") (d #t) (k 0)) (d (n "lazy-attribute-core") (r "^0.1.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "048yjj36ric5dyz176kfqq8v4ardck6ik3ibx4rl1qgdryrb4f22") (f (quote (("default") ("async" "lazy-attribute-core/async")))) (r "1.67")))
+
+(define-public crate-lazy-attribute-0.1.2 (c (n "lazy-attribute") (v "0.1.2") (d (list (d (n "async-once-cell") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "lazy-attribute-core") (r "^0.1.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "07nnh6av4l9lks2qgk66a223af6cn7p85s57nzv0j5dn2vjvr44q") (f (quote (("default") ("async" "lazy-attribute-core/async" "async-once-cell"))))))
+
+(define-public crate-lazy-attribute-0.1.3 (c (n "lazy-attribute") (v "0.1.3") (d (list (d (n "async-once-cell") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "lazy-attribute-core") (r "^0.1.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "09iyc4c1gwga7296ylhsyqyghwzrmmpbz44xaj6b3qhns0nqh5xh") (f (quote (("default") ("async" "lazy-attribute-core/async" "async-once-cell"))))))
+
+(define-public crate-lazy-attribute-0.1.4 (c (n "lazy-attribute") (v "0.1.4") (d (list (d (n "async-once-cell") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "lazy-attribute-core") (r "^0.1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "185ldq40yclvdgibqf0ph2ydpc4xj53qjyx19j1h90lkc9k0f1jk") (f (quote (("default") ("async" "lazy-attribute-core/async" "async-once-cell"))))))
+

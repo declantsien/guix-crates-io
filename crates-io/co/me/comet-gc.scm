@@ -1,0 +1,6 @@
+(define-module (crates-io co me comet-gc) #:use-module (crates-io))
+
+(define-public crate-comet-gc-0.1.1 (c (n "comet-gc") (v "0.1.1") (d (list (d (n "atomic") (r "^0.5.0") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.98") (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (t "cfg(not(wasm))") (k 0)) (d (n "modular-bitfield") (r "^0.11.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "minwinbase" "errhandlingapi" "excpt" "minwindef" "wincrypt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "07vy1gsdsczy8p42mc2sh7yrms3j825xzl7fw1xmv20d85wprh3a")))
+
+(define-public crate-comet-gc-0.1.3 (c (n "comet-gc") (v "0.1.3") (d (list (d (n "atomic") (r "^0.5.0") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.98") (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (t "cfg(not(wasm))") (k 0)) (d (n "modular-bitfield") (r "^0.11.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "minwinbase" "errhandlingapi" "excpt" "minwindef" "wincrypt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0d3x8flq40v8zl657jvlmq4w14lnbz11jar271x35ras9d0d23r1")))
+

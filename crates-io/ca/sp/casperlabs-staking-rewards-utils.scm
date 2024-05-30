@@ -1,0 +1,6 @@
+(define-module (crates-io ca sp casperlabs-staking-rewards-utils) #:use-module (crates-io))
+
+(define-public crate-casperlabs-staking-rewards-utils-0.1.0 (c (n "casperlabs-staking-rewards-utils") (v "0.1.0") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casper_types_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "141s21f64lx2dhzmbkzbcj6hsz3w8m8qkbna3f6vm9s6n5nkccjq") (f (quote (("default" "casper-contract/std" "casper-types/std" "casper-contract/test-support"))))))
+
+(define-public crate-casperlabs-staking-rewards-utils-0.1.1 (c (n "casperlabs-staking-rewards-utils") (v "0.1.1") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casper_types_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)))) (h "16widhwkd2mzbyik0kfvvkyv4r7h6az60lh6f0rzyn8j6s14z8v4") (f (quote (("default" "casper-contract/std" "casper-types/std" "casper-contract/test-support"))))))
+

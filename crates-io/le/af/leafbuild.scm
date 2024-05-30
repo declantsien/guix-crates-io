@@ -1,0 +1,4 @@
+(define-module (crates-io le af leafbuild) #:use-module (crates-io))
+
+(define-public crate-leafbuild-0.0.1-dev.1 (c (n "leafbuild") (v "0.0.1-dev.1") (d (list (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.9") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "logos") (r "^0.11") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "term") (r "^0.6") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "unindent") (r "^0.1") (d #t) (k 0)) (d (n "which") (r "^4.0") (d #t) (k 0)))) (h "1nsx5kyq01lqzdlz047n52xxyicxgsd8db6vdqlkiz7sdj7hvqfi") (f (quote (("default") ("cpp") ("c"))))))
+

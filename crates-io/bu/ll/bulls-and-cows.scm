@@ -1,0 +1,48 @@
+(define-module (crates-io bu ll bulls-and-cows) #:use-module (crates-io))
+
+(define-public crate-bulls-and-cows-1.0.0 (c (n "bulls-and-cows") (v "1.0.0") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "08y0478ipiqsp9rpqg8p0m2haz8qlam4ha0k0qwd0n7sw59rlib1")))
+
+(define-public crate-bulls-and-cows-1.0.1 (c (n "bulls-and-cows") (v "1.0.1") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "1i90mrbplw91j97c6imvpaaxknmc3ikkn1cvr8dqhx8grn1glr89")))
+
+(define-public crate-bulls-and-cows-1.0.2 (c (n "bulls-and-cows") (v "1.0.2") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "12kqhng1cyal0pqffkg74ylsxrhl844yqpj3dpc1x6yvwd5013q3")))
+
+(define-public crate-bulls-and-cows-1.0.3 (c (n "bulls-and-cows") (v "1.0.3") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "11a4iwkh83sc6v5df2lvr39599v15nnspw2g0d3cc4zbhcz7mq4l") (y #t)))
+
+(define-public crate-bulls-and-cows-1.0.4 (c (n "bulls-and-cows") (v "1.0.4") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0k4hlkfkacz7qx60s0w8rjw9c1hyrr4c7frr1qs6n7kqls848dl4")))
+
+(define-public crate-bulls-and-cows-1.0.5 (c (n "bulls-and-cows") (v "1.0.5") (d (list (d (n "debug-helper") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0ifc0xbzghsnwrd2srg5kf1xj73v84j97zyqwyq094nnihp05fxz")))
+
+(define-public crate-bulls-and-cows-1.0.6 (c (n "bulls-and-cows") (v "1.0.6") (d (list (d (n "debug-helper") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "125a0vf3cxa7lf44da3k4sd9ciwpi0lg987vivah1hal9xyar4c8")))
+
+(define-public crate-bulls-and-cows-1.0.7 (c (n "bulls-and-cows") (v "1.0.7") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "1d6aw70zxb094m6w6svck21i91a4aym7mszd9vgnr15yv9l1hznn")))
+
+(define-public crate-bulls-and-cows-1.0.8 (c (n "bulls-and-cows") (v "1.0.8") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "173ivs2s36jm07s1lnda42028ap5dqy3sl31vqkz5nrsn64qklz7")))
+
+(define-public crate-bulls-and-cows-1.0.9 (c (n "bulls-and-cows") (v "1.0.9") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0lhrqjp0y24x0ilv1ya1fy3prgk4y481qrcxjkidaxzhsvhb93i6")))
+
+(define-public crate-bulls-and-cows-1.0.10 (c (n "bulls-and-cows") (v "1.0.10") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "1k7ax10rfspl2inwiaxsksdrcwqsysj39pp9dls3ybc2vz8glk4q")))
+
+(define-public crate-bulls-and-cows-1.0.11 (c (n "bulls-and-cows") (v "1.0.11") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0vpxylgvccqs5g3d7gcbgh990r0jqjb1xcn71874ppifaahf8fm4")))
+
+(define-public crate-bulls-and-cows-1.0.12 (c (n "bulls-and-cows") (v "1.0.12") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "1i1f3islyfncsk7al1r6ps33lvvwlwnbk4rfqz72xg0jpzjxlf5f")))
+
+(define-public crate-bulls-and-cows-1.0.13 (c (n "bulls-and-cows") (v "1.0.13") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "169903r5ngpwf6bicpc518pr0la7nj1y98m62bx8iwz6kzzxvdhf")))
+
+(define-public crate-bulls-and-cows-1.0.14 (c (n "bulls-and-cows") (v "1.0.14") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "1c2v9pd365818q0g5sc6h48p878214i5n8jf795dgw7bzg2s65wg")))
+
+(define-public crate-bulls-and-cows-1.0.15 (c (n "bulls-and-cows") (v "1.0.15") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0nn4w0spp9y8ks7ngi6m2ir2vd51cjnp07r2kxqxywvf9mfjqqwq")))
+
+(define-public crate-bulls-and-cows-1.0.16 (c (n "bulls-and-cows") (v "1.0.16") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "06l5gdjasxah0g2w8mg5r1yjhhn51bzzjrnvqfwx0px7nc2718k6")))
+
+(define-public crate-bulls-and-cows-1.0.17 (c (n "bulls-and-cows") (v "1.0.17") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0vzr95b9vzpkwkmvgp4hq7s351f42qxnw6fn15w8zg26vzyxhw6p")))
+
+(define-public crate-bulls-and-cows-1.0.18 (c (n "bulls-and-cows") (v "1.0.18") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0wayl55wb7dhldqwwph87ixsnb3i5vp9224k9p62dskgnjzwalvs") (y #t)))
+
+(define-public crate-bulls-and-cows-1.0.19 (c (n "bulls-and-cows") (v "1.0.19") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "13sz8xawa2pdqda021vs1ks594cswznbmvj461ciwwinwn8c9dvy")))
+
+(define-public crate-bulls-and-cows-1.0.20 (c (n "bulls-and-cows") (v "1.0.20") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0cxfxqzr1jbhal7cjdnz43xs6rczncpn68cbkhmjjxcmpms7xvwl")))
+
+(define-public crate-bulls-and-cows-1.0.21 (c (n "bulls-and-cows") (v "1.0.21") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "0mvhlb92fyrwy8nc2m076ipk3cipmz8ndp266gm3kl68v64mhb8d") (r "1.61")))
+
+(define-public crate-bulls-and-cows-1.0.22 (c (n "bulls-and-cows") (v "1.0.22") (d (list (d (n "debug-helper") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "random-pick") (r "^1.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)))) (h "1yf8rrvy2h7dn9i14bhlby91h5b5xj3pk68cs2bnialzcra4pg9l") (r "1.65")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io cl ou cloudmap) #:use-module (crates-io))
+
+(define-public crate-cloudmap-0.1.0 (c (n "cloudmap") (v "0.1.0") (h "1dryhc7acqkziph39nllibsd587rgw0jynafhfis3b7r5gxmvw8d")))
+
+(define-public crate-cloudmap-0.1.1 (c (n "cloudmap") (v "0.1.1") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "1sayyiqkcyfii6n61ijal6p423s8n26vqfx1sjs69fp9rmvdbb0j")))
+
+(define-public crate-cloudmap-0.1.2 (c (n "cloudmap") (v "0.1.2") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "08ahryfmsjrgm29h6h7qx3hv3586xfrfbyd4vlksp8cnnqvncl0m")))
+
+(define-public crate-cloudmap-0.1.3 (c (n "cloudmap") (v "0.1.3") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "0i8j9r6z8zjwjj5jf4rkwlj2rh63ikxbi604xipja2l182aq0hqw")))
+
+(define-public crate-cloudmap-0.1.4 (c (n "cloudmap") (v "0.1.4") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "1wp5msvkhfm3gdmfvawnaa2j95h53ghs2c31wwjf0ywi4ngn80mx")))
+
+(define-public crate-cloudmap-0.1.5 (c (n "cloudmap") (v "0.1.5") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "19y58j12cgj07gygakk912cra00w4l8iabs5g7nn7c85sisk7kh5")))
+
+(define-public crate-cloudmap-0.1.6 (c (n "cloudmap") (v "0.1.6") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "1ams1qvbxwkb4xy98z8aa952frl1d479cb2a54r2hsaqg9xiifzl")))
+
+(define-public crate-cloudmap-0.1.7 (c (n "cloudmap") (v "0.1.7") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (d #t) (k 0)))) (h "15szy7np7d7nf0c72xxbdp668cqzczhh0zmdcngmdw8vbhq5s1nc")))
+

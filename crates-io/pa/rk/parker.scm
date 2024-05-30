@@ -1,0 +1,4 @@
+(define-module (crates-io pa rk parker) #:use-module (crates-io))
+
+(define-public crate-parker-0.0.0 (c (n "parker") (v "0.0.0") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bcrypt") (r "^0.2") (d #t) (k 0)) (d (n "bson") (r "^0.12") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^5.0") (d #t) (k 0)) (d (n "mongodb") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "parker_codegen") (r "^0.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.1") (k 0)) (d (n "rocket") (r "^0.4.0-rc.1") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4.0-rc.1") (f (quote ("json" "tera_templates" "serve"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc" "std"))) (d #t) (k 0)))) (h "1f4y2i4xqa5vx6g9y74qnialha9il2g2r12vh462dgskhlq8jh65")))
+

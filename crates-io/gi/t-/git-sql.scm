@@ -1,0 +1,4 @@
+(define-module (crates-io gi t- git-sql) #:use-module (crates-io))
+
+(define-public crate-git-sql-0.0.1 (c (n "git-sql") (v "0.0.1") (d (list (d (n "clap") (r "^2.29") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "git2") (r "^0.6.11") (d #t) (k 0)) (d (n "glob") (r "^0.2.11") (d #t) (k 1)) (d (n "iron") (r "0.6.*") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "logger") (r "0.4.*") (d #t) (k 0)) (d (n "postgres") (r "^0.15.1") (f (quote ("with-openssl"))) (d #t) (k 0)) (d (n "postgres_array") (r "^0.9.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "router") (r "0.6.*") (d #t) (k 0)) (d (n "sha1") (r "^0.3.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.10") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)))) (h "0anqnjgrm6nacwcxqcf0n129zw15s8yr8900kjmf92n60di1ki9r")))
+

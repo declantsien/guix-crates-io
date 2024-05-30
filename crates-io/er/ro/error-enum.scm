@@ -1,0 +1,16 @@
+(define-module (crates-io er ro error-enum) #:use-module (crates-io))
+
+(define-public crate-error-enum-0.1.0 (c (n "error-enum") (v "0.1.0") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "01q5n9nigq0y8z4r12iwzp5ipny1s1r9h8bkhzlb1yn29nj06rdl") (f (quote (("default" "colored")))) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+
+(define-public crate-error-enum-0.2.0 (c (n "error-enum") (v "0.2.0") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "18ad7sxvjkwj8mpslmi6xb80k6216p15kxv0xdmrwli6wjsy7xx1") (f (quote (("default" "colored")))) (y #t) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+
+(define-public crate-error-enum-0.2.1 (c (n "error-enum") (v "0.2.1") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0gp7dm55ickkxr5x20lmimr0ygi1zgdhw30109bcac04mka6g9c6") (f (quote (("default" "colored")))) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+
+(define-public crate-error-enum-0.2.2 (c (n "error-enum") (v "0.2.2") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "183a9v6jysimw45zxb5kp5jr6xzdfmp7qj6pyzy9i2jyb4ylh9gk") (f (quote (("default" "colored")))) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+
+(define-public crate-error-enum-0.3.0 (c (n "error-enum") (v "0.3.0") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "14mlrn7japm1k4ck1544iqdsnkcx9vcq1j8yflmzzaamqgjdch9g") (f (quote (("default" "colored")))) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+
+(define-public crate-error-enum-0.4.0 (c (n "error-enum") (v "0.4.0") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1q412ak9xd89gd7vbpbim9fqvdhww83x1cf8h1zl92xv4sijhrrb") (f (quote (("default" "colored")))) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+
+(define-public crate-error-enum-0.4.1 (c (n "error-enum") (v "0.4.1") (d (list (d (n "annotate-snippets") (r "^0.9.1") (d #t) (k 2)) (d (n "ansi_term") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1n9m37pb6w7y4hq5m23abdmwyvyc5x8c4smv76hi2j7d1f8q77m0") (f (quote (("default" "colored")))) (s 2) (e (quote (("colored" "dep:ansi_term"))))))
+

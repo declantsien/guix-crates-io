@@ -1,0 +1,8 @@
+(define-module (crates-io ac ti actix-slog) #:use-module (crates-io))
+
+(define-public crate-actix-slog-0.1.0 (c (n "actix-slog") (v "0.1.0") (d (list (d (n "actix-rt") (r "^1.1.1") (d #t) (k 2)) (d (n "actix-web") (r "^2.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.22") (d #t) (k 0)) (d (n "slog") (r "^2.5.2") (d #t) (k 0)) (d (n "slog-async") (r "^2.5.0") (d #t) (k 2)) (d (n "slog-json") (r "^2.3.0") (d #t) (k 2)) (d (n "slog-term") (r "^2.6.0") (d #t) (k 2)))) (h "0k8zx3gzj95704jah8krpsxgypg36bkvsl3w37pdnkpgx9sgxvs4")))
+
+(define-public crate-actix-slog-0.2.0 (c (n "actix-slog") (v "0.2.0") (d (list (d (n "actix-web") (r "^3.0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.23") (d #t) (k 0)) (d (n "slog") (r "^2.5.2") (d #t) (k 0)) (d (n "slog-async") (r "^2.5.0") (d #t) (k 2)) (d (n "slog-json") (r "^2.3.0") (d #t) (k 2)) (d (n "slog-term") (r "^2.6.0") (d #t) (k 2)))) (h "1acbbz6m70yls4is0j6zxlwlfbd2rxqrbisv6mrq3fd5a26db4rb")))
+
+(define-public crate-actix-slog-0.2.1 (c (n "actix-slog") (v "0.2.1") (d (list (d (n "actix-web") (r "^3.0.2") (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.23") (d #t) (k 0)) (d (n "slog") (r "^2.5.2") (d #t) (k 0)) (d (n "slog-async") (r "^2.5.0") (d #t) (k 2)) (d (n "slog-json") (r "^2.3.0") (d #t) (k 2)) (d (n "slog-term") (r "^2.6.0") (d #t) (k 2)))) (h "162inyvv5hg08xcn34d11mlyqnzi483fvpdiyrmc5iai5wmad5y6")))
+

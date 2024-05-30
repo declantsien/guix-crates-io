@@ -1,0 +1,8 @@
+(define-module (crates-io ht tp http-with-url) #:use-module (crates-io))
+
+(define-public crate-http-with-url-0.1.5 (c (n "http-with-url") (v "0.1.5") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1.0.5") (d #t) (k 0)) (d (n "indexmap") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "seahash") (r "^3.0.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "0149w8n4vzxhza09i6dcpjrm476s3j7canqjkz258j98j0jk07ps") (y #t)))
+
+(define-public crate-http-with-url-0.2.0-demo (c (n "http-with-url") (v "0.2.0-demo") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1.0.5") (d #t) (k 0)) (d (n "indexmap") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "seahash") (r "^3.0.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "08kygm35am4vdgllv12hfhjrka8hk9nmbr72mxgajig0ml9l13wa") (y #t)))
+
+(define-public crate-http-with-url-0.2.0 (c (n "http-with-url") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1.0.5") (d #t) (k 0)) (d (n "indexmap") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "seahash") (r "^3.0.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "0yws23yr4lmn0rdrhx5ib2vcjfn9d9lkxxrsh2b4safvwq5k0nhr") (y #t)))
+

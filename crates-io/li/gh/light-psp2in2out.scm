@@ -1,0 +1,6 @@
+(define-module (crates-io li gh light-psp2in2out) #:use-module (crates-io))
+
+(define-public crate-light-psp2in2out-0.3.0 (c (n "light-psp2in2out") (v "0.3.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "groth16-solana") (r "^0.0.2") (d #t) (k 0)) (d (n "light-macros") (r "^0.3.0") (d #t) (k 0)) (d (n "light-merkle-tree-program") (r "^0.3.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "light-verifier-sdk") (r "^0.3.0") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.1.0") (d #t) (k 0)))) (h "1g1bz8dv3mghz8361f24qrkhrf8pxj610s8bz0wxrafwis2y0yaa") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-light-psp2in2out-0.3.1 (c (n "light-psp2in2out") (v "0.3.1") (d (list (d (n "anchor-lang") (r "^0.28.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "groth16-solana") (r "^0.0.2") (d #t) (k 0)) (d (n "light-macros") (r "^0.3.1") (d #t) (k 0)) (d (n "light-merkle-tree-program") (r "^0.3.1") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "light-verifier-sdk") (r "^0.3.1") (d #t) (k 0)) (d (n "solana-security-txt") (r "^1.1.0") (d #t) (k 0)))) (h "0g9pv9p2gimhixvsi9smj75cs71vqp19ng600l9dhnadyc564dv0") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

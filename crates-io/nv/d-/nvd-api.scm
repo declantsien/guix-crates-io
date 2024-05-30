@@ -1,0 +1,6 @@
+(define-module (crates-io nv d- nvd-api) #:use-module (crates-io))
+
+(define-public crate-nvd-api-0.1.0 (c (n "nvd-api") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "nvd-cves") (r "^0.1.0") (d #t) (k 0)) (d (n "nvd-cvss") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "cookies" "gzip" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "0l1waxv9awvsf8qflxblhhr5jr2lz6bqd7l4zqhq5l5hfnkka5qb")))
+
+(define-public crate-nvd-api-0.1.1 (c (n "nvd-api") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "nvd-cves") (r "^0.1.1") (d #t) (k 0)) (d (n "nvd-cvss") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "cookies" "gzip" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "11q4353pc9zg7jxh0ylfshzhszhrzlbnbyv0mv5i54gqx0jvak6x")))
+

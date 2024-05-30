@@ -1,0 +1,4 @@
+(define-module (crates-io de to detour2) #:use-module (crates-io))
+
+(define-public crate-detour2-0.9.0 (c (n "detour2") (v "0.9.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "generic-array") (r "^0.14.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "matches") (r "^0.1.9") (d #t) (k 2)) (d (n "mmap") (r "^0.1.1") (d #t) (k 0) (p "mmap-fixed-fixed")) (d (n "region") (r "^3.0.0") (d #t) (k 0)) (d (n "slice-pool") (r "^0.4.1") (d #t) (k 0)) (d (n "udis") (r "^0.2.1") (d #t) (t "cfg(any(target_arch = \"x86\", target_arch = \"x86_64\"))") (k 0) (p "libudis86-sys")) (d (n "winapi") (r "^0.3.9") (f (quote ("winerror"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("minwindef" "windef" "winnt" "libloaderapi" "winerror"))) (d #t) (t "cfg(windows)") (k 2)))) (h "0ns0mxxrminxrzgkv0iksdgaxvsfk4pli2zs15pmz9dzg6jlcg6j") (f (quote (("nightly") ("default" "nightly"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io he li helianto) #:use-module (crates-io))
+
+(define-public crate-helianto-0.1.0-alpha2 (c (n "helianto") (v "0.1.0-alpha2") (d (list (d (n "chrono") (r "^0.2.16") (d #t) (k 0)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "handlebars") (r "^0.12.1") (d #t) (k 0)) (d (n "hoedown") (r "^3.0.3") (d #t) (k 0)) (d (n "log") (r "^0.3.4") (d #t) (k 0)) (d (n "num") (r "^0.1.29") (d #t) (k 0)) (d (n "regex") (r "^0.1.44") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "stdio_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "toml") (r "^0.1.23") (d #t) (k 0)) (d (n "walkdir") (r "^0.1.5") (d #t) (k 0)))) (h "1s7wqy7qf95wx16cv1dh2bhfl1f47dqkbc01910x2c1jn5r10b7l")))
+
+(define-public crate-helianto-0.1.0-beta1 (c (n "helianto") (v "0.1.0-beta1") (d (list (d (n "chrono") (r "^0.2.16") (d #t) (k 0)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "handlebars") (r "^0.12.1") (d #t) (k 0)) (d (n "hoedown") (r "^3.0.3") (d #t) (k 0)) (d (n "log") (r "^0.3.4") (d #t) (k 0)) (d (n "num") (r "^0.1.29") (d #t) (k 0)) (d (n "regex") (r "^0.1.44") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "stdio_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "toml") (r "^0.1.23") (d #t) (k 0)) (d (n "walkdir") (r "^0.1.5") (d #t) (k 0)))) (h "0vnyzbr1cr45jyjdr5c7b7y8rxaf3rjgrxw557d2wjp29z68m4v5")))
+

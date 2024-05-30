@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_sprite_material) #:use-module (crates-io))
+
+(define-public crate-bevy_sprite_material-0.1.0 (c (n "bevy_sprite_material") (v "0.1.0") (d (list (d (n "bevy") (r "^0.6") (f (quote ("render" "bevy_winit" "x11"))) (k 2)) (d (n "bevy_app") (r "^0.6") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.6") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.6") (d #t) (k 0)) (d (n "bevy_math") (r "^0.6") (d #t) (k 0)) (d (n "bevy_render") (r "^0.6") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.6") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.6") (d #t) (k 0)))) (h "0b58d6ky9l497vynpxh6hvji5pyr83nsxsd1zzmrqnvs73qw4sgi")))
+
+(define-public crate-bevy_sprite_material-0.2.0 (c (n "bevy_sprite_material") (v "0.2.0") (d (list (d (n "bevy") (r "^0.7") (f (quote ("render" "bevy_winit" "x11"))) (k 2)) (d (n "bevy_app") (r "^0.7") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.7") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.7") (d #t) (k 0)) (d (n "bevy_math") (r "^0.7") (d #t) (k 0)) (d (n "bevy_render") (r "^0.7") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.7") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.7") (d #t) (k 0)) (d (n "copyless") (r "^0.1") (d #t) (k 0)))) (h "08hl0kw4nhw1zp42dzd5qfjr6cmg8346f901d1ps6nfvg8i6vc8b")))
+

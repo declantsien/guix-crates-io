@@ -1,0 +1,8 @@
+(define-module (crates-io po oi pooi) #:use-module (crates-io))
+
+(define-public crate-pooi-0.0.1 (c (n "pooi") (v "0.0.1") (d (list (d (n "anyhow") (r "~1.0") (d #t) (k 0)) (d (n "chrono") (r "~0.4") (d #t) (k 0)) (d (n "clap") (r "~3.0") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "comfy-table") (r "~5.0") (d #t) (k 0)) (d (n "crossterm") (r "~0.22") (d #t) (k 0)) (d (n "glob") (r "~0.3") (d #t) (k 0)) (d (n "scraper") (r "~0.12") (d #t) (k 0)) (d (n "ureq") (r "~2.4") (f (quote ("charset"))) (d #t) (k 0)) (d (n "whoami") (r "~1.2") (d #t) (k 0)))) (h "1aq14p1h7mqc850x1zhgsbwnf5hsja5bpxhs7b8pkx3idbda3q5z")))
+
+(define-public crate-pooi-0.2.1 (c (n "pooi") (v "0.2.1") (d (list (d (n "anyhow") (r "~1.0") (d #t) (k 0)) (d (n "chrono") (r "~0.4") (d #t) (k 0)) (d (n "clap") (r "~3.0") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "comfy-table") (r "~5.0") (d #t) (k 0)) (d (n "crossterm") (r "~0.22") (d #t) (k 0)) (d (n "glob") (r "~0.3") (d #t) (k 0)) (d (n "scraper") (r "~0.12") (d #t) (k 0)) (d (n "ureq") (r "~2.4") (f (quote ("charset"))) (d #t) (k 0)) (d (n "whoami") (r "~1.2") (d #t) (k 0)))) (h "1m51619rmzilhnr8jg3imifzsax2qh95pb8d6d4vwnn6qa1m2l1f")))
+
+(define-public crate-pooi-0.3.0 (c (n "pooi") (v "0.3.0") (d (list (d (n "anyhow") (r "~1.0.69") (d #t) (k 0)) (d (n "chrono") (r "~0.4.23") (d #t) (k 0)) (d (n "clap") (r "~4.1.8") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "comfy-table") (r "~6.1.4") (d #t) (k 0)) (d (n "crossterm") (r "~0.26.1") (d #t) (k 0)) (d (n "glob") (r "~0.3.1") (d #t) (k 0)) (d (n "scraper") (r "~0.16.0") (d #t) (k 0)) (d (n "ureq") (r "~2.6.2") (f (quote ("charset"))) (d #t) (k 0)) (d (n "whoami") (r "~1.3.0") (d #t) (k 0)))) (h "0ry009l5lzqsphd783ir103q5wf3qbfbnjilfbi6ddslz62qilny")))
+

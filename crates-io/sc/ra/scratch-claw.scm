@@ -1,0 +1,4 @@
+(define-module (crates-io sc ra scratch-claw) #:use-module (crates-io))
+
+(define-public crate-scratch-claw-0.1.0 (c (n "scratch-claw") (v "0.1.0") (d (list (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "magic-crypt") (r "^3.1.12") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rpassword") (r "^7.2.0") (d #t) (k 0)) (d (n "s2rs") (r "^0.7.15") (f (quote ("cookie"))) (d #t) (k 0)) (d (n "s2rs-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros" "fs" "rt-multi-thread"))) (d #t) (k 0)))) (h "027rhqh6n7mw6ppgbb80n2mgi4wd9hbi5a3cw3y2klzz1lipwsg9")))
+

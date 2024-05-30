@@ -1,0 +1,8 @@
+(define-module (crates-io th re threads-api) #:use-module (crates-io))
+
+(define-public crate-threads-api-0.1.0 (c (n "threads-api") (v "0.1.0") (d (list (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("multipart" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.41") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0k72n43rvng5dd41n0si43k9rjwh65mswdz76q6kyajzfg64z8lf")))
+
+(define-public crate-threads-api-0.1.1 (c (n "threads-api") (v "0.1.1") (d (list (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("multipart" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.41") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "19snac915nz7hzcpm43d8pz5187l8f6xm98340pjzxb3j68ym1gb")))
+
+(define-public crate-threads-api-0.1.2 (c (n "threads-api") (v "0.1.2") (d (list (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("multipart" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.41") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0wj5v0f6w9vw5a4irkrj2k8ap6rdbfd2piah3795i8rnk3wl3mb8")))
+

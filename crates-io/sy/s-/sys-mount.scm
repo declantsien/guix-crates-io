@@ -1,0 +1,38 @@
+(define-module (crates-io sy s- sys-mount) #:use-module (crates-io))
+
+(define-public crate-sys-mount-1.0.0 (c (n "sys-mount") (v "1.0.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "035gk0b5r991cc2iaxyn1pl6yr6dqjsvh7zad79bqss0xdq5n99n") (y #t)))
+
+(define-public crate-sys-mount-1.0.1 (c (n "sys-mount") (v "1.0.1") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "0wxh4hnip2md1jc960p3n0m2qbkf3ig3ynhb7mrx5psfrxwf86hw") (y #t)))
+
+(define-public crate-sys-mount-1.0.2 (c (n "sys-mount") (v "1.0.2") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "0fwyp5rgm1is4skcxmsayr7gzbw37c97n9cn2synzn1rh83md35l") (y #t)))
+
+(define-public crate-sys-mount-1.0.3 (c (n "sys-mount") (v "1.0.3") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "0h30x8c7z3b1cwi460w038x247q2lflac1dnqh24rqs76sah8ddk")))
+
+(define-public crate-sys-mount-1.1.0 (c (n "sys-mount") (v "1.1.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "0qkk169afzm69cmbvp6gnx3vf9nh857a15rrzj85bvy3vg8j4r79")))
+
+(define-public crate-sys-mount-1.2.0 (c (n "sys-mount") (v "1.2.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "1002fs35sc92pffapnmqql3yyq6idb4vrigplglhgd20kylv8kap")))
+
+(define-public crate-sys-mount-1.2.1 (c (n "sys-mount") (v "1.2.1") (d (list (d (n "bitflags") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "loopdev") (r "^0.2.1") (d #t) (k 0)))) (h "1viwywixv6iwvqyz3kphvvlhb9i08qdh01018p9mmi37mwy71xb2")))
+
+(define-public crate-sys-mount-1.3.0 (c (n "sys-mount") (v "1.3.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "loopdev") (r "^0.3") (o #t) (d #t) (k 0)))) (h "05f7ij2mbf08njdfmw2196q9vsnqin0zjbq6w9rmdax2kq44hybp") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-1.5.0 (c (n "sys-mount") (v "1.5.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.119") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tracing") (r "^0.1.31") (d #t) (k 0)))) (h "1zwcdipbpz3mrxpzz4xvkd8w3sj0gndi7vib1w0j1iwnql0vnh2q") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-1.5.1 (c (n "sys-mount") (v "1.5.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.119") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tracing") (r "^0.1.31") (d #t) (k 0)))) (h "0lbbdp9wqq2vb4j0ybbp3n5xl00ycaj749z5adbzdld6146g26jw") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-2.0.0 (c (n "sys-mount") (v "2.0.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.0.18") (d #t) (k 2)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "02lhnhf2i1ps7h3k8z3l9ibm0257rprranlq9f2606l4dsk6h0ma") (y #t)))
+
+(define-public crate-sys-mount-2.0.1 (c (n "sys-mount") (v "2.0.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.0.18") (d #t) (k 2)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "12gjkjy9h1jgxs4ixaa8wn8z1x8625awz9vyb1wyjmbdj6m3hgbr")))
+
+(define-public crate-sys-mount-2.0.2 (c (n "sys-mount") (v "2.0.2") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "141ky72d3vk20vriamrazcragpz0xzrdbd064ll6glplzyi81c6q") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-2.0.3 (c (n "sys-mount") (v "2.0.3") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0ws4fzzy3zlzhrlq5hia1qv7idyp9mkbm7hay336lb19h823p183") (f (quote (("loop" "loopdev") ("default" "loop")))) (y #t)))
+
+(define-public crate-sys-mount-2.1.0 (c (n "sys-mount") (v "2.1.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1ga2c6bb3zj4l5xcahr9fy7xbd9jsl2a12aic9j27ynigqwqnsxb") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-2.1.1 (c (n "sys-mount") (v "2.1.1") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.13") (d #t) (k 2)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "loopdev") (r "^0.5.0") (o #t) (d #t) (k 0) (p "loopdev-erikh")) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0hl7vz00sjr38zwfiszzxgjfa54w0zjzsangapy92kdgdb9918k5") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-3.0.0 (c (n "sys-mount") (v "3.0.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "loopdev") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1cxlc0qbq0d5p4a85v5w13s3d28v97mkmij91cin50r5i8qlzd4q") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+
+(define-public crate-sys-mount-3.0.1 (c (n "sys-mount") (v "3.0.1") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "loopdev") (r "^0.5.0") (o #t) (d #t) (k 0) (p "loopdev-3")) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0ak833w62fx86lfc7h0v2ny88nz2ya62js2blkan4q42cfxvib56") (f (quote (("loop" "loopdev") ("default" "loop"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io hu bh hubhook) #:use-module (crates-io))
+
+(define-public crate-hubhook-0.5.0 (c (n "hubhook") (v "0.5.0") (d (list (d (n "actix-service") (r "^2.0.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.0.0-rc.3") (d #t) (k 0)) (d (n "crypto-hashes") (r "^0.10.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (f (quote ("h1-client-rustls"))) (k 0)) (d (n "tracing") (r "^0.1.30") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.8") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0w4f5b1ih6bvmrkznsqb9gm8212nhiqpyrrk303ryfhy3qcavrd9")))
+

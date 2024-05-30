@@ -1,0 +1,8 @@
+(define-module (crates-io ed #{25}# ed25519-dalek-bip32-black) #:use-module (crates-io))
+
+(define-public crate-ed25519-dalek-bip32-black-0.1.0 (c (n "ed25519-dalek-bip32-black") (v "0.1.0") (d (list (d (n "derivation-path") (r "^0.1.3") (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (f (quote ("u64_backend" "rand"))) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hmac") (r "^0.11.0") (k 0)) (d (n "sha2") (r "^0.9.6") (k 0)) (d (n "utils-results") (r "^5.1.1") (d #t) (k 0)))) (h "0k5saf2w8a04yvgf00rwy3jsv8r18cmxqd66azpshgass3pjirlz") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std") ("default")))) (y #t)))
+
+(define-public crate-ed25519-dalek-bip32-black-0.1.1 (c (n "ed25519-dalek-bip32-black") (v "0.1.1") (d (list (d (n "derivation-path") (r "^0.1.3") (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (f (quote ("u64_backend" "rand"))) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hmac") (r "^0.11.0") (k 0)) (d (n "sha2") (r "^0.9.6") (k 0)) (d (n "utils-results") (r "^5.1.1") (d #t) (k 0)))) (h "0ykbwv7yz8fqls5bx618injh15xds1vidlq1r5w26kf3gk8298dr") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std") ("default")))) (y #t)))
+
+(define-public crate-ed25519-dalek-bip32-black-0.1.2 (c (n "ed25519-dalek-bip32-black") (v "0.1.2") (d (list (d (n "derivation-path") (r "^0.1.3") (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (f (quote ("u64_backend" "rand"))) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hmac") (r "^0.11.0") (k 0)) (d (n "sha2") (r "^0.9.6") (k 0)) (d (n "utils-results") (r "^5.1.1") (d #t) (k 0)))) (h "1jsj6vq51xghv6pq55bmk9f7vaf1q7k0ag7z7mkqrcyj215rxmlk") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std") ("default")))) (y #t)))
+

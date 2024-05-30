@@ -1,0 +1,22 @@
+(define-module (crates-io ka na kanal) #:use-module (crates-io))
+
+(define-public crate-kanal-0.1.0-beta1 (c (n "kanal") (v "0.1.0-beta1") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1c6xycar66gvi7qzr274vrcpkjb8f5pa1bn3fd4b7kxljyr8gdrd")))
+
+(define-public crate-kanal-0.1.0-beta2 (c (n "kanal") (v "0.1.0-beta2") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "04bmrq2r7576h5r6s3f6nmf4cayfpjrxiqsz9dw7b918v9b4h2yc")))
+
+(define-public crate-kanal-0.1.0-pre1 (c (n "kanal") (v "0.1.0-pre1") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "1yr2bidw8sy7ck2m4g3npsiaaqz3jgksjs61qgqy1bwzniplvixy") (f (quote (("sync") ("default" "async" "async_short_sync") ("async_short_sync") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre2 (c (n "kanal") (v "0.1.0-pre2") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "0fnwlvqqqjpd0mmh1ala1ha09znsv2wjpjqkax1yq4x6qzfhsjq6") (f (quote (("std-mutex") ("default" "async") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre3 (c (n "kanal") (v "0.1.0-pre3") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "1hz8dlbr7751rl5y0x9fsqargnh0iidsr17i9zrpld80kfiv983p") (f (quote (("std-mutex") ("default" "async") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre4 (c (n "kanal") (v "0.1.0-pre4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "14jrdpzw9gp79vv5pdc49by96r9miihgyn7z3hyz9b0va6lhrx8f") (f (quote (("std-mutex") ("default" "async") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre5 (c (n "kanal") (v "0.1.0-pre5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "042k771bdsljcixxbxhb8k5lb8yr06pbmp4i5m02kj5lxcx1s1jh") (f (quote (("std-mutex") ("default" "async") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre6 (c (n "kanal") (v "0.1.0-pre6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "17vzgyk6nd4nl4jc6hnx0kmyssirmmycjifd44b33qs3qv1ljdcm") (f (quote (("std-mutex") ("default" "async") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre7 (c (n "kanal") (v "0.1.0-pre7") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "0fwcd9m2rx76qy0gi815hhvpwmx0gv94z1d9m10xbaara917dv7d") (f (quote (("std-mutex") ("default" "async") ("async"))))))
+
+(define-public crate-kanal-0.1.0-pre8 (c (n "kanal") (v "0.1.0-pre8") (d (list (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "test-util" "macros"))) (d #t) (k 2)))) (h "1mx13s0g42wdxcq729av7zgm5yq3vkv836gjs1zszv97jr8mapdh") (f (quote (("std-mutex") ("default" "async") ("async" "futures-core"))))))
+

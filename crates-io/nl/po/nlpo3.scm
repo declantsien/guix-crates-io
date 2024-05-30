@@ -1,0 +1,16 @@
+(define-module (crates-io nl po nlpo3) #:use-module (crates-io))
+
+(define-public crate-nlpo3-1.1.0 (c (n "nlpo3") (v "1.1.0") (d (list (d (n "ahash") (r "^0.7.2") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "smol_str") (r "^0.1.17") (d #t) (k 0)))) (h "06jrcpdq70nnjr59pkzkfrmkdsxnaz6h0azbz0a05r7v0w1kc2p3")))
+
+(define-public crate-nlpo3-1.1.1 (c (n "nlpo3") (v "1.1.1") (d (list (d (n "ahash") (r "^0.7.2") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "smol_str") (r "^0.1.17") (d #t) (k 0)))) (h "1nhxhinzrar17nrg6fjn4l4lj6243ay15gs1a8b9m8w0hyj3dby4")))
+
+(define-public crate-nlpo3-1.1.2 (c (n "nlpo3") (v "1.1.2") (d (list (d (n "ahash") (r "^0.7.2") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "smol_str") (r "^0.1.17") (d #t) (k 0)))) (h "1ycxkyfdqydz72rg8pa2s20c08bja3q662mb8jz2av1j8lzr9zlq")))
+
+(define-public crate-nlpo3-1.2.0 (c (n "nlpo3") (v "1.2.0") (d (list (d (n "ahash") (r "^0.7.2") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "smol_str") (r "^0.1.17") (d #t) (k 0)))) (h "1kjkyb7495zzhy4vvqxdfx3q10c147pkp3nbx5yairyjnx9pk11k")))
+
+(define-public crate-nlpo3-1.3.0 (c (n "nlpo3") (v "1.3.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)))) (h "06ijgvilanvc0nb86d9k0p2nw8ma7zzivr6238iffhk71611w481")))
+
+(define-public crate-nlpo3-1.3.1 (c (n "nlpo3") (v "1.3.1") (d (list (d (n "anyhow") (r "^1.0.45") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)))) (h "1nsdgs4hn2qpxn1l6l48iansg0fxqzdbhv6j4ip5xwkf4mj90i13")))
+
+(define-public crate-nlpo3-1.3.2 (c (n "nlpo3") (v "1.3.2") (d (list (d (n "anyhow") (r "^1.0.45") (d #t) (k 0)) (d (n "binary-heap-plus") (r "^0.4.1") (d #t) (k 0)) (d (n "bytecount") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)))) (h "0d3ph3kwv7d5myn5ayvp42551kf4yp1sljimgpy0kc2ryngr5fsa")))
+

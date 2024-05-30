@@ -1,0 +1,8 @@
+(define-module (crates-io te ch techlead) #:use-module (crates-io))
+
+(define-public crate-techlead-0.1.0 (c (n "techlead") (v "0.1.0") (d (list (d (n "chat-gpt-lib-rs") (r "^0.1.5") (d #t) (k 0)) (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "keyring") (r "^2.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (d #t) (k 0)))) (h "1sfik608kjalrd2drvgg8ng3i52lh6617qqmf9bkgmd4f112p5ah")))
+
+(define-public crate-techlead-0.1.1 (c (n "techlead") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "chat-gpt-lib-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "keyring") (r "^2.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (d #t) (k 0)))) (h "0lasz0khlbji1yma4zk6xsjs97jszh3iyika71acncxch99kyjxj")))
+
+(define-public crate-techlead-0.2.0 (c (n "techlead") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chat-gpt-lib-rs") (r "^0.3.0") (d #t) (k 0)) (d (n "console") (r "^0.15") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "keyring") (r "^2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33") (d #t) (k 0)))) (h "1v56x79gfsll636wy5nznxs8rk1f397cifv2z28pp6l3g6s1yin5")))
+

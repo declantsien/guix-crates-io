@@ -1,0 +1,10 @@
+(define-module (crates-io im ag images-compressor) #:use-module (crates-io))
+
+(define-public crate-images-compressor-1.0.0 (c (n "images-compressor") (v "1.0.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3") (d #t) (k 0)) (d (n "gif") (r "^0.12") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "imagequant") (r "^4.2") (d #t) (k 0)) (d (n "lodepng") (r "^3.9") (d #t) (k 0)) (d (n "mozjpeg") (r "^0.9.2") (d #t) (k 0)))) (h "0d4d7l8lfk8x4d2mw0kbw2zn1nz8w5qbqg29zf3xckfrgd35pwvj")))
+
+(define-public crate-images-compressor-1.0.1 (c (n "images-compressor") (v "1.0.1") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3") (d #t) (k 0)) (d (n "gif") (r "^0.12") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "imagequant") (r "^4.2") (d #t) (k 0)) (d (n "lodepng") (r "^3.9") (d #t) (k 0)) (d (n "mozjpeg") (r "^0.9.2") (d #t) (k 0)))) (h "19mp9f3pcr7vfav4yrwh0aqcyabbm48r79vn5vq1yr86xj04v3x1")))
+
+(define-public crate-images-compressor-1.0.2 (c (n "images-compressor") (v "1.0.2") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3") (d #t) (k 0)) (d (n "gif") (r "^0.12") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "imagequant") (r "^4.2") (d #t) (k 0)) (d (n "lodepng") (r "^3.9") (d #t) (k 0)) (d (n "mozjpeg") (r "^0.9.2") (d #t) (k 0)))) (h "0cv3hv5j22b27r5y4f19ajxdaj3a6dp77ffsx73jxzmdb7fin8gw")))
+
+(define-public crate-images-compressor-1.0.3 (c (n "images-compressor") (v "1.0.3") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3") (d #t) (k 0)) (d (n "gif") (r "^0.12") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "imagequant") (r "^4.2") (d #t) (k 0)) (d (n "lodepng") (r "^3.9") (d #t) (k 0)) (d (n "mozjpeg") (r "^0.9.2") (d #t) (k 0)))) (h "0drc77x89gzh4hy4kzqczzfjxzyqmnsfnvj9n3m9krjxm16p5zwr")))
+

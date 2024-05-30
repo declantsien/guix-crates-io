@@ -1,0 +1,8 @@
+(define-module (crates-io ne tw networkio) #:use-module (crates-io))
+
+(define-public crate-networkio-0.1.23 (c (n "networkio") (v "0.1.23") (d (list (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("full"))) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.5") (f (quote ("codec"))) (d #t) (k 0)))) (h "1fv9r3x27f111gcq5gvw49r5bdpldydhg9dzipirbylh84q79q8i")))
+
+(define-public crate-networkio-0.1.24 (c (n "networkio") (v "0.1.24") (d (list (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("full"))) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.5") (f (quote ("codec"))) (d #t) (k 0)))) (h "08dnpk5vd2d1dk72nvid79qhy5jvmmfdl04pgivadw5mfj5z0cbb")))
+
+(define-public crate-networkio-0.1.25 (c (n "networkio") (v "0.1.25") (d (list (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("full"))) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.5") (f (quote ("codec"))) (d #t) (k 0)))) (h "0mfdia8kgjn7bmsxrva4chp1nvl3sjl06szcgb0fyp7da0q4ard8")))
+

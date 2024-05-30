@@ -1,0 +1,4 @@
+(define-module (crates-io ba rr barreleye-server) #:use-module (crates-io))
+
+(define-public crate-barreleye-server-0.0.1 (c (n "barreleye-server") (v "0.0.1") (d (list (d (n "axum") (r "^0.6.1") (d #t) (k 0)) (d (n "barreleye-common") (r "^0.0.1") (d #t) (k 0)) (d (n "console") (r "^0.15.4") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "hyper") (r "^0.14.23") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "sea-orm") (r "^0.10.6") (f (quote ("sqlx-sqlite" "sqlx-postgres" "sqlx-mysql" "runtime-tokio-rustls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (f (quote ("timeout"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "1hp06y4px1lpydf8a5wp35wwwah714drs3zcpmcja1f3f385j9ic")))
+

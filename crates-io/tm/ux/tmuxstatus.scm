@@ -1,0 +1,10 @@
+(define-module (crates-io tm ux tmuxstatus) #:use-module (crates-io))
+
+(define-public crate-tmuxstatus-0.1.3 (c (n "tmuxstatus") (v "0.1.3") (d (list (d (n "buildinfy") (r "^0.1") (d #t) (k 0)) (d (n "commandy") (r "^0.1") (d #t) (k 0)) (d (n "commandy_macros") (r "^0.1") (d #t) (k 0)) (d (n "expry") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (d #t) (k 0)))) (h "039m9srs1yj7hisv5db6b9nkmrdd4k95d5icabm2cri6ljlswa89")))
+
+(define-public crate-tmuxstatus-1.0.0 (c (n "tmuxstatus") (v "1.0.0") (d (list (d (n "commandy") (r "^0.2") (d #t) (k 0)) (d (n "commandy_macros") (r "^0.2") (d #t) (k 0)) (d (n "expry") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (d #t) (k 0)))) (h "1llr4m6vcvp2aw3745w24yw56yxldk473isaapx336rid1jbmfhh")))
+
+(define-public crate-tmuxstatus-1.0.1 (c (n "tmuxstatus") (v "1.0.1") (d (list (d (n "battery") (r "^0.7.8") (d #t) (t "cfg(not(target_os = \"android\"))") (k 0)) (d (n "commandy") (r "^0.2") (d #t) (k 0)) (d (n "commandy_macros") (r "^0.2") (d #t) (k 0)) (d (n "crashy") (r "^0.1") (f (quote ("sentry"))) (d #t) (k 0)) (d (n "expry") (r "^0.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (d #t) (k 0)))) (h "1sh49gphax6s0fy202rmx3ggf4kipb8ipfra94hndzm0z55y4crr")))
+
+(define-public crate-tmuxstatus-1.1.0 (c (n "tmuxstatus") (v "1.1.0") (d (list (d (n "battery") (r "^0.7") (d #t) (t "cfg(not(target_os = \"android\"))") (k 0)) (d (n "commandy") (r "^0.2") (d #t) (k 0)) (d (n "commandy_macros") (r "^0.2") (d #t) (k 0)) (d (n "crashy") (r "^0.3") (d #t) (k 0)) (d (n "expry") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (d #t) (k 0)))) (h "0z0czff6r3w3d3ciiypq5qv4hqmzpncd5y0b2512yrid1xdy037c") (y #t)))
+

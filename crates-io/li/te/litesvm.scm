@@ -1,0 +1,6 @@
+(define-module (crates-io li te litesvm) #:use-module (crates-io))
+
+(define-public crate-litesvm-0.0.1 (c (n "litesvm") (v "0.0.1") (h "0rkxf11b5klwi8hlbhg1byw7jjpvky0shn4lq9305pildiwmkkrl") (y #t)))
+
+(define-public crate-litesvm-0.1.0 (c (n "litesvm") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "solana-address-lookup-table-program") (r "^1.18.8") (d #t) (k 0)) (d (n "solana-bpf-loader-program") (r "~1.18") (d #t) (k 0)) (d (n "solana-compute-budget-program") (r "~1.18") (d #t) (k 0)) (d (n "solana-loader-v4-program") (r "~1.18") (d #t) (k 0)) (d (n "solana-program") (r "~1.18") (d #t) (k 0)) (d (n "solana-program-runtime") (r "~1.18") (d #t) (k 0)) (d (n "solana-program-test") (r "~1.18") (d #t) (k 2)) (d (n "solana-sdk") (r "~1.18") (d #t) (k 0)) (d (n "solana-system-program") (r "~1.18") (d #t) (k 0)) (d (n "spl-token") (r "^3.5.0") (d #t) (k 2)) (d (n "test-log") (r "^0.2.15") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (d #t) (k 2)))) (h "0v3fdb0s117r6npgqn1mlls4awsa53mp72rly1ilfh8s8vgy8qq9") (f (quote (("internal-test")))) (r "1.75.0")))
+

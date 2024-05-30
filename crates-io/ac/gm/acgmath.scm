@@ -1,0 +1,6 @@
+(define-module (crates-io ac gm acgmath) #:use-module (crates-io))
+
+(define-public crate-acgmath-0.1.0 (c (n "acgmath") (v "0.1.0") (d (list (d (n "approx") (r "^0.1") (d #t) (k 0)) (d (n "glium") (r "^0.15") (d #t) (k 2)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 2)) (d (n "simd") (r "^0.2") (o #t) (d #t) (k 0)))) (h "05xgs8hf16rgk4fnljz80bh19c742flvnj494sazkrmvb9yv1p5s") (f (quote (("use_simd" "simd") ("unstable") ("eders" "serde" "serde_derive") ("default" "eders" "use_simd"))))))
+
+(define-public crate-acgmath-0.1.1 (c (n "acgmath") (v "0.1.1") (d (list (d (n "approx") (r "^0.1") (d #t) (k 0)) (d (n "glium") (r "^0.15") (d #t) (k 2)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 2)) (d (n "simd") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1swb37nyzn3j7f6xi4hwfz31p6rngdviwd8y4rrk8xv9hhdq4lzz") (f (quote (("use_simd" "simd") ("stable" "eders") ("eders" "serde" "serde_derive") ("default" "eders" "use_simd"))))))
+

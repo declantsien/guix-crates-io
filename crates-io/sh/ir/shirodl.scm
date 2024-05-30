@@ -1,0 +1,8 @@
+(define-module (crates-io sh ir shirodl) #:use-module (crates-io))
+
+(define-public crate-shirodl-0.1.1 (c (n "shirodl") (v "0.1.1") (d (list (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("suggestions" "color" "derive"))) (d #t) (k 2)) (d (n "console") (r "^0.14.1") (d #t) (k 2)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0y45309wh3g8s3l5pcg0pvm9k93d3mr6p1yivnddzdqmz86qqmf0")))
+
+(define-public crate-shirodl-0.1.2 (c (n "shirodl") (v "0.1.2") (d (list (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("suggestions" "color" "derive"))) (d #t) (k 2)) (d (n "console") (r "^0.14.1") (d #t) (k 2)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("socks"))) (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("full"))) (d #t) (k 0)))) (h "03j0rhywj6vaxrcr6vgpkid19yl3a7vx0jw0pgnlv1xpslmsbwiv")))
+
+(define-public crate-shirodl-0.1.3 (c (n "shirodl") (v "0.1.3") (d (list (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("suggestions" "color" "derive"))) (d #t) (k 2)) (d (n "console") (r "^0.14.1") (d #t) (k 2)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("socks"))) (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0ychq9bai3x5w60hkhrfxh4vbcy7h2rnfv3qxfn6h3c96npnf029")))
+

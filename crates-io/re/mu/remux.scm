@@ -1,0 +1,8 @@
+(define-module (crates-io re mu remux) #:use-module (crates-io))
+
+(define-public crate-remux-0.0.0 (c (n "remux") (v "0.0.0") (h "1z9zm36pyqikrxak6a9pm3dmpinqd24fn9dfkc7hwcgzlk54zy99")))
+
+(define-public crate-remux-0.8.0 (c (n "remux") (v "0.8.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (f (quote ("std"))) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "nohash") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("tcp" "rt-threaded" "macros"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.3") (f (quote ("compat"))) (d #t) (k 2)))) (h "1i51gpv1n6wlyj3y3hsdmc8mcbgqzhv21v64yfirwmv3cmd7bbmb")))
+
+(define-public crate-remux-0.9.0 (c (n "remux") (v "0.9.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "constrained-connection") (r "^0.1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (f (quote ("std"))) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "nohash") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "rt-multi-thread" "macros" "time"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("compat"))) (d #t) (k 2)))) (h "14zf9vpz1wnhnk6aj43xhdhgrali65r7711iyskcjn505205j6i0")))
+

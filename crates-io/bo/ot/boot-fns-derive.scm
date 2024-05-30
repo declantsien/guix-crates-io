@@ -1,0 +1,26 @@
+(define-module (crates-io bo ot boot-fns-derive) #:use-module (crates-io))
+
+(define-public crate-boot-fns-derive-0.2.0-rc.1 (c (n "boot-fns-derive") (v "0.2.0-rc.1") (d (list (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cosmwasm-schema-derive") (r "^1.1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0hxv24nraf6pkb8w0gh0b7pqlqdygg0ljq257jrcg0mvpn8kk4s3")))
+
+(define-public crate-boot-fns-derive-0.2.0 (c (n "boot-fns-derive") (v "0.2.0") (d (list (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cosmwasm-schema-derive") (r "^1.1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1i0wryzficqhjf4d976121nac3yaabzh9sxjz0i4qb455q61wjz8")))
+
+(define-public crate-boot-fns-derive-0.3.0 (c (n "boot-fns-derive") (v "0.3.0") (d (list (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cosmwasm-schema-derive") (r "^1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1.0.104") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "10qhvjggg577aaacn3kq91czcljr58k1ff1bvdzvy1wm5ik0wfii")))
+
+(define-public crate-boot-fns-derive-0.4.0 (c (n "boot-fns-derive") (v "0.4.0") (d (list (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cosmwasm-schema-derive") (r "^1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0qp78b2z8pgd3wxf1fxcr08h7s0lb9lwx6lhws55fa27jvvvblh1")))
+
+(define-public crate-boot-fns-derive-0.5.0 (c (n "boot-fns-derive") (v "0.5.0") (d (list (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cosmwasm-schema-derive") (r "^1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0q4lpvfcdswvqn7f83c4j8jqy5n6b96qy6pdwxw55s9rraj8922y")))
+
+(define-public crate-boot-fns-derive-0.5.1 (c (n "boot-fns-derive") (v "0.5.1") (d (list (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cosmwasm-schema-derive") (r "^1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0v15gkl7pc1myx47w17jgf63d5mhi03pafnyac9m7h0ddk7wdfb1")))
+
+(define-public crate-boot-fns-derive-0.6.0 (c (n "boot-fns-derive") (v "0.6.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)))) (h "06b4f5vzqslp0ibn6rwkj5lrznn7r5a5y4byg4w09rgxng1aabz3")))
+
+(define-public crate-boot-fns-derive-0.6.1 (c (n "boot-fns-derive") (v "0.6.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)))) (h "1hxm7fcx3l3azs33h1yhsyiaf0n7fkpa948w96z66wdwvnm2qi2g")))
+
+(define-public crate-boot-fns-derive-0.8.0-beta.1 (c (n "boot-fns-derive") (v "0.8.0-beta.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)))) (h "15q5cq0qrg57r18q7fh1k70s3mabbajmp8qs1vk9gqwp217086g7")))
+
+(define-public crate-boot-fns-derive-0.8.0 (c (n "boot-fns-derive") (v "0.8.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)))) (h "1ksbzyhjdqa5rsqs81p78qr8q7ywkc384f56vzff1zr73izk1d38")))
+
+(define-public crate-boot-fns-derive-0.9.0 (c (n "boot-fns-derive") (v "0.9.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)))) (h "0h83fs275xhc2zgqq5gbjq6fkhdnsxgq6fz55afs9xyqbwr45hlg")))
+
+(define-public crate-boot-fns-derive-0.10.0 (c (n "boot-fns-derive") (v "0.10.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)))) (h "0ch2szhnxj6f269d8k9xfich82hz6vy9pzn7jw0j4a5m3a9sp4yk")))
+

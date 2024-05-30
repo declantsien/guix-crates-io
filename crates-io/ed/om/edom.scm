@@ -1,0 +1,4 @@
+(define-module (crates-io ed om edom) #:use-module (crates-io))
+
+(define-public crate-edom-0.1.0 (c (n "edom") (v "0.1.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "embed-doc-image") (r "^0.1.4") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.8") (f (quote ("js"))) (d #t) (k 0)) (d (n "js-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "smallstr") (r "^0.3.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.83") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.53") (f (quote ("Document" "DomTokenList" "Element" "Event" "EventTarget" "HtmlElement" "Node" "NodeList" "Window" "Text" "console" "HtmlInputElement"))) (d #t) (k 0)))) (h "0dwbhj6hiwcz6w67n7i0iwzmcwl66q282885bfpcfzyvd8x4ivkk") (f (quote (("doc-images"))))))
+

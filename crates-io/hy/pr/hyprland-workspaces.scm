@@ -1,0 +1,22 @@
+(define-module (crates-io hy pr hyprland-workspaces) #:use-module (crates-io))
+
+(define-public crate-hyprland-workspaces-0.0.1 (c (n "hyprland-workspaces") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "0mipy5c2nd1wg8x0bkz8hxk93f3zlg0cip8pfmraxfxpjjszlbs1") (y #t)))
+
+(define-public crate-hyprland-workspaces-0.0.2 (c (n "hyprland-workspaces") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "17r87mm35rb2b6gvzyf6b188gdfbjyvgcwil29yls5sk248rbwi7") (y #t)))
+
+(define-public crate-hyprland-workspaces-0.0.3 (c (n "hyprland-workspaces") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1srppnrd83hiyqhmaw7q4k0cjk3gkhxvbri91vdz15d4a20yk569") (y #t)))
+
+(define-public crate-hyprland-workspaces-0.0.4 (c (n "hyprland-workspaces") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "0kcs8ivmxbfxw1n4apd26varclanqarzqakqqnbizxxidg27zqyr") (y #t)))
+
+(define-public crate-hyprland-workspaces-0.0.5 (c (n "hyprland-workspaces") (v "0.0.5") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hyprland") (r "^0.3.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1b1hcy6x8bgqyxwa34pxfh2dl45cprdqd73762wfl2s374i63rsb") (y #t)))
+
+(define-public crate-hyprland-workspaces-0.0.6 (c (n "hyprland-workspaces") (v "0.0.6") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hyprland") (r "^0.3.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "0adris6lb7hvl495dd1x44piv8c10py77iqqczaxrbidqbiz66bf") (y #t)))
+
+(define-public crate-hyprland-workspaces-0.0.7 (c (n "hyprland-workspaces") (v "0.0.7") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1ljiifp5zmgwcq1jcwzdd74cisb6zv7gxa1750wq041pcxdpkxa3") (y #t)))
+
+(define-public crate-hyprland-workspaces-1.0.0 (c (n "hyprland-workspaces") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "0ryjlmwmshfzy9ys254391h3jx6dxar24jpjcybw0jngjysj7qa7") (y #t)))
+
+(define-public crate-hyprland-workspaces-2.0.0 (c (n "hyprland-workspaces") (v "2.0.0") (d (list (d (n "flexi_logger") (r "^0.28") (d #t) (k 0)) (d (n "hyprland") (r "^0.3.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0w20a3a55hz8lbj75zc97nh4d0rm4y2f59zay2crj4nw8s3xv2n0")))
+
+(define-public crate-hyprland-workspaces-2.0.1 (c (n "hyprland-workspaces") (v "2.0.1") (d (list (d (n "flexi_logger") (r "^0.28") (d #t) (k 0)) (d (n "hyprland") (r "^0.4.0-alpha.2") (f (quote ("silent"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "040vjk22j49mfzcz0i851f57krnm3s5hlaxdwx8n3qd2ynvmklpb")))
+

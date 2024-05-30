@@ -1,0 +1,10 @@
+(define-module (crates-io po pf popflash_parser) #:use-module (crates-io))
+
+(define-public crate-popflash_parser-0.1.0 (c (n "popflash_parser") (v "0.1.0") (d (list (d (n "reqwest") (r "~0.11.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0d9qasmkwg33n7a83983rwq35y14hz6qgv0blzqrz1pdf14l7y2n")))
+
+(define-public crate-popflash_parser-2.0.0 (c (n "popflash_parser") (v "2.0.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "~0.11.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "13d401m1vlni1wlh2dspyhb8q1i0hx6x9f7d6fjr4wk8c4h48rp1") (y #t)))
+
+(define-public crate-popflash_parser-2.0.1 (c (n "popflash_parser") (v "2.0.1") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "~0.11.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "14cn7k0s7yswqh0j0j0a341lzfz1pgsa5yvjnryfz7yk9zc2j492")))
+
+(define-public crate-popflash_parser-2.1.0 (c (n "popflash_parser") (v "2.1.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "reqwest") (r "~0.11.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "06m7q63nwqj7axqs82k3s20n8ikjwgap1f6rqh6cxlj3fwca43fv")))
+

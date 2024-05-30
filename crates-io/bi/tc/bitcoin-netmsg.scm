@@ -1,0 +1,8 @@
+(define-module (crates-io bi tc bitcoin-netmsg) #:use-module (crates-io))
+
+(define-public crate-bitcoin-netmsg-0.1.10-alpha.0 (c (n "bitcoin-netmsg") (v "0.1.10-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.10-alpha.0") (d #t) (k 1)))) (h "08cpadmmc2iddpa5sn96yl081nm8sx7ifsia275p2hj8vr3yvihk")))
+
+(define-public crate-bitcoin-netmsg-0.1.12-alpha.0 (c (n "bitcoin-netmsg") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "0cfrjx3dj0x2619fa0mzavaz6pcvikpi87v4vi6mihlsdf0adn4g")))
+
+(define-public crate-bitcoin-netmsg-0.1.16-alpha.0 (c (n "bitcoin-netmsg") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "06j6d1kl4ykpbdshhmzhv3ci0qlnc0jgrm1m66k43nrlrxgrpyq1")))
+

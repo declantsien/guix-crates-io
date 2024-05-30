@@ -1,0 +1,14 @@
+(define-module (crates-io ba nd bandrip) #:use-module (crates-io))
+
+(define-public crate-bandrip-0.1.0 (c (n "bandrip") (v "0.1.0") (d (list (d (n "audiotags") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gjson") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)))) (h "0qr31fza7yf2357qb9gv273n3dkqwrbviw316yi4mm2p4pnr3kzl")))
+
+(define-public crate-bandrip-0.1.1 (c (n "bandrip") (v "0.1.1") (d (list (d (n "audiotags") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gjson") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)))) (h "0wk75vk4nq4cb75l3pw1nxzdwzlwbszxhrjaavhfy1mx4k5xkjnz")))
+
+(define-public crate-bandrip-0.1.2 (c (n "bandrip") (v "0.1.2") (d (list (d (n "audiotags") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gjson") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)))) (h "1qvk056x6y41w6qg7avbf6ywqyvjsz41kmbm0p551p6iic7jvbmn")))
+
+(define-public crate-bandrip-0.2.0 (c (n "bandrip") (v "0.2.0") (d (list (d (n "audiotags") (r "^0.5.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gjson") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)))) (h "053g2m4japhgyl8y5267v7s09dxli2ydvgljhr8p0b0mda6d6d5n")))
+
+(define-public crate-bandrip-0.2.1 (c (n "bandrip") (v "0.2.1") (d (list (d (n "audiotags") (r "^0.5.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gjson") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)))) (h "0ia1a7xlmvv5bciy8yjcbmmk24xxdhgbd7mpbwhfmz3jyb14fphd")))
+
+(define-public crate-bandrip-0.2.2 (c (n "bandrip") (v "0.2.2") (d (list (d (n "audiotags") (r "^0.5.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gjson") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)))) (h "000a2pjyx6hxa2fias7y0vdqsqcnfgzhyjm4bgigs4nw01zn8fay")))
+

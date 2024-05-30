@@ -1,0 +1,6 @@
+(define-module (crates-io ob jc objc2-exception-handling) #:use-module (crates-io))
+
+(define-public crate-objc2-exception-handling-0.2.0 (c (n "objc2-exception-handling") (v "0.2.0") (d (list (d (n "objc2") (r "^0.5.1") (f (quote ("apple"))) (k 0)) (d (n "objc2-foundation") (r "^0.2.0") (d #t) (k 0)))) (h "0prwwrhlywmnjfzx9xzx1vzdn2zv1j316xz3iwa09grgc2l48sp2") (f (quote (("unstable-docsrs") ("std" "alloc" "objc2/std") ("default" "std") ("alloc" "objc2/alloc") ("all" "ExceptionHandlingDefines" "NSExceptionHandler") ("NSExceptionHandler" "objc2-foundation/NSException" "objc2-foundation/NSString") ("ExceptionHandlingDefines")))) (r "1.60")))
+
+(define-public crate-objc2-exception-handling-0.2.2 (c (n "objc2-exception-handling") (v "0.2.2") (d (list (d (n "objc2") (r "^0.5.2") (k 0)) (d (n "objc2-foundation") (r "^0.2.2") (k 0)))) (h "12b2p6lr7cib6hwvpdazmd5v73lrzx0q5xdb9sb9vydzydxzjzdl") (f (quote (("std" "alloc" "objc2/std" "objc2-foundation/std") ("default" "std") ("alloc" "objc2/alloc" "objc2-foundation/alloc") ("all" "ExceptionHandlingDefines" "NSExceptionHandler") ("NSExceptionHandler" "objc2-foundation/NSException" "objc2-foundation/NSString") ("ExceptionHandlingDefines")))) (r "1.60")))
+

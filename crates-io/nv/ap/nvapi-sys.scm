@@ -1,0 +1,16 @@
+(define-module (crates-io nv ap nvapi-sys) #:use-module (crates-io))
+
+(define-public crate-nvapi-sys-0.0.1 (c (n "nvapi-sys") (v "0.0.1") (d (list (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "1yzqcdm3yy831k9izg5p5wiamh54cwlz7qv6dw2gkriinvhwchzj")))
+
+(define-public crate-nvapi-sys-0.0.2 (c (n "nvapi-sys") (v "0.0.2") (d (list (d (n "bitflags") (r "^1.0.0") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "0hzhpz0n1zvccfhraf23dgg63dcdfz6jc15r4s3d5q64yqvy67sg") (f (quote (("serde_types" "serde" "serde_derive") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-sys-0.0.3 (c (n "nvapi-sys") (v "0.0.3") (d (list (d (n "bitflags") (r "^1.0.0") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "0k931mg4dw1125j0g7dqf7daf5xcy9x7qjpzbxwa8p89a6481fkd") (f (quote (("serde_types" "serde" "serde_derive") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-sys-0.1.0 (c (n "nvapi-sys") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3.4") (f (quote ("libloaderapi" "unknwnbase"))) (d #t) (t "cfg(windows)") (k 0)))) (h "19cma9r8g0zpd920syq1rxqcnvm7wacdpga19xb55cfcs3qg1x78") (f (quote (("serde_types" "serde" "serde_derive") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-sys-0.1.1 (c (n "nvapi-sys") (v "0.1.1") (d (list (d (n "bitflags") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3.4") (f (quote ("libloaderapi" "unknwnbase"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1qxwa6hrrvyfn226qhfw3fy0jwg2mksmwkw2r0awqmgp7vvfcsv6") (f (quote (("serde_types" "serde" "serde_derive") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-sys-0.1.2 (c (n "nvapi-sys") (v "0.1.2") (d (list (d (n "bitflags") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3.4") (f (quote ("libloaderapi" "unknwnbase"))) (d #t) (t "cfg(windows)") (k 0)))) (h "03yw0j4m2ds83z8s75hpq3qv4yv3k5yyiliaf9hj3l5xz9apd5c4") (f (quote (("serde_types" "serde" "serde_derive") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-sys-0.1.3 (c (n "nvapi-sys") (v "0.1.3") (d (list (d (n "bitflags") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3.4") (f (quote ("libloaderapi" "unknwnbase"))) (d #t) (t "cfg(windows)") (k 0)))) (h "19vy3vy7hhik8gymi1gmsq6jqbgk3vnpcpygpxbfi7n6jf9rm7mj") (f (quote (("serde_types" "serde" "serde_derive") ("default" "serde_types"))))))
+

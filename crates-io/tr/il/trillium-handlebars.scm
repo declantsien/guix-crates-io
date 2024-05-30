@@ -1,0 +1,8 @@
+(define-module (crates-io tr il trillium-handlebars) #:use-module (crates-io))
+
+(define-public crate-trillium-handlebars-0.1.0 (c (n "trillium-handlebars") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.0.0") (f (quote ("dir_source"))) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "trillium") (r "^0.1.0") (d #t) (k 0)))) (h "1irw0vy1wqrhi30jmyd0z3sc99rdqiswi52bhxbgf5wvn3bfsvj0")))
+
+(define-public crate-trillium-handlebars-0.2.0 (c (n "trillium-handlebars") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.1.0") (f (quote ("dir_source"))) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "trillium") (r "^0.2.0") (d #t) (k 0)))) (h "1b9415d6p3h57gwlb00n7pjvnr2biwymqrv4k9b3pcaydav1w9bj")))
+
+(define-public crate-trillium-handlebars-0.2.1 (c (n "trillium-handlebars") (v "0.2.1") (d (list (d (n "env_logger") (r "^0.10.1") (d #t) (k 2)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "handlebars") (r "^5.0.0") (f (quote ("dir_source"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "trillium") (r "^0.2.12") (d #t) (k 0)))) (h "0vclb0g5sj6a5r6gm5pnasl8q4njkrl36phyf427rg1ymrsa4lkk")))
+

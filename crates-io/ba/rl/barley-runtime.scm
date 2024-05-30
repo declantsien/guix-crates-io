@@ -1,0 +1,16 @@
+(define-module (crates-io ba rl barley-runtime) #:use-module (crates-io))
+
+(define-public crate-barley-runtime-0.0.1 (c (n "barley-runtime") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "barley-proc") (r "^0.0.1") (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "0hsqjdppi9k9wjfqsyqc41gkrfpx2767b9g1yj4qwvgz6bi0hriw")))
+
+(define-public crate-barley-runtime-0.1.0 (c (n "barley-runtime") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "barley-proc") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("sync" "rt"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "0zbwgxsvr87gx62f6i0837jb291zm3h9rmj26lnlzs9j75fbywdg")))
+
+(define-public crate-barley-runtime-0.2.0 (c (n "barley-runtime") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "barley-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("sync" "rt"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "0kxkfnfqny2md6pl1g6w66x6hhl7lb6k7pj9pjmrhbxxf0fysgwz")))
+
+(define-public crate-barley-runtime-0.3.0 (c (n "barley-runtime") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("sync" "rt"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "1h8jsbq5zpsb274gba9bam5d1crgl2qakv97rl35cvqnnkxwcr7i")))
+
+(define-public crate-barley-runtime-0.4.0 (c (n "barley-runtime") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.5") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("sync" "rt" "time"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "05mmphnwc4fhcaj6mjhsb2vdafqmjkkrlgg1kjysz18pf9zl42hc")))
+
+(define-public crate-barley-runtime-0.5.0 (c (n "barley-runtime") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.5") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("sync" "rt" "time"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "1rk58x7kzcpras0nv9h4jpkq5c7f8qp5330flhhs2lv7v8iwnmpk")))
+
+(define-public crate-barley-runtime-0.6.0 (c (n "barley-runtime") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("sync" "rt" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4"))) (d #t) (k 0)))) (h "1zryl8x0aha4islm1827mswiadnqhga2lckhisrpkpwbx9cj1rvd")))
+

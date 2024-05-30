@@ -1,0 +1,4 @@
+(define-module (crates-io fs -d fs-dir-cache) #:use-module (crates-io))
+
+(define-public crate-fs-dir-cache-0.1.0 (c (n "fs-dir-cache") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "blake3") (r "^1.4.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (f (quote ("serde" "clock"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.0") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "convi") (r "^0.0.7") (f (quote ("min_target_pointer_width_32"))) (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.187") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "023a374m0l22a538ccimwr03k49686g7fpknx03mkwv5ras92n2a")))
+

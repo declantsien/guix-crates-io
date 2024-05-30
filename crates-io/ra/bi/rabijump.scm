@@ -1,0 +1,4 @@
+(define-module (crates-io ra bi rabijump) #:use-module (crates-io))
+
+(define-public crate-rabijump-0.1.0 (c (n "rabijump") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.59") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.13") (d #t) (k 0)) (d (n "passwords") (r "^3.1") (d #t) (k 0)) (d (n "poem") (r "^1.3") (f (quote ("static-files"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "spdlog-rs") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("full"))) (d #t) (k 0)) (d (n "woothee") (r "^0.13") (d #t) (k 0)))) (h "0pxac68yrj04byk6ikhnnqcncqv4qrm9m6iwwqlvis60l6jjsbkm")))
+

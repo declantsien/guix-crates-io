@@ -1,0 +1,6 @@
+(define-module (crates-io pa xc paxcii) #:use-module (crates-io))
+
+(define-public crate-paxcii-0.5.0 (c (n "paxcii") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "nokhwa") (r "^0.10") (f (quote ("input-native" "output-wgpu"))) (o #t) (d #t) (k 0)) (d (n "rodio") (r "^0.16") (f (quote ("symphonia-all"))) (o #t) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)))) (h "03igwixcwxhgw69p9xlvrhpvrjvw2hsfa6s89nxaq6wcas9y5k58") (f (quote (("default" "webcam" "audio")))) (s 2) (e (quote (("webcam" "dep:nokhwa") ("audio" "dep:rodio"))))))
+
+(define-public crate-paxcii-0.5.1 (c (n "paxcii") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "nokhwa") (r "^0.10") (f (quote ("input-native" "output-wgpu"))) (o #t) (d #t) (k 0)) (d (n "rodio") (r "^0.16") (f (quote ("symphonia-all"))) (o #t) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)))) (h "1n345j6s2dq9vhz0yjyqzgz9s83jzkad9lifan1ain6mhgqa6ipi") (f (quote (("default" "webcam" "audio")))) (s 2) (e (quote (("webcam" "dep:nokhwa") ("audio" "dep:rodio"))))))
+

@@ -1,0 +1,98 @@
+(define-module (crates-io sp it spitfire-fontdue) #:use-module (crates-io))
+
+(define-public crate-spitfire-fontdue-0.5.0 (c (n "spitfire-fontdue") (v "0.5.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.5") (d #t) (k 0)))) (h "0x2fh36idqabgqv97piy7rqjillhyhrjmlbsl7fggfzp7xr0s9cc")))
+
+(define-public crate-spitfire-fontdue-0.5.1 (c (n "spitfire-fontdue") (v "0.5.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.5") (d #t) (k 0)))) (h "1m1x69q8himwy2i4c4bfz3awjq9z0xdaqlj6wnrnwr4qj4y9wf7g")))
+
+(define-public crate-spitfire-fontdue-0.6.0 (c (n "spitfire-fontdue") (v "0.6.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.6") (d #t) (k 0)))) (h "191knbi5p5kvqyjy11lizpw162ppxm54rmil34qjyrmnv7pynq79")))
+
+(define-public crate-spitfire-fontdue-0.7.0 (c (n "spitfire-fontdue") (v "0.7.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.7") (d #t) (k 0)))) (h "0czs7y0mn66s9bih9c90y25awck0q4faby966ph0d1msynf6n60z")))
+
+(define-public crate-spitfire-fontdue-0.7.1 (c (n "spitfire-fontdue") (v "0.7.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.7") (d #t) (k 0)))) (h "0fpd620rmyrsjm1zx3w1j48ir5hk4ww16l1rvi73sn2mhzj1hgaz")))
+
+(define-public crate-spitfire-fontdue-0.8.0 (c (n "spitfire-fontdue") (v "0.8.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.8") (d #t) (k 0)))) (h "1kgbblk26jk2x3by735ikqslghfa0ldmc20ai40da835r4q01czd")))
+
+(define-public crate-spitfire-fontdue-0.9.0 (c (n "spitfire-fontdue") (v "0.9.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.9") (d #t) (k 0)))) (h "13pdyb90x2qnvdcap861vqw9512x2ixmwspb32pa31b50lilqd2m")))
+
+(define-public crate-spitfire-fontdue-0.10.0 (c (n "spitfire-fontdue") (v "0.10.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.10") (d #t) (k 0)))) (h "0fsyvdc235whbs09244y21bi4p17vj067mz4h6yh69r03b8fphvj")))
+
+(define-public crate-spitfire-fontdue-0.11.0 (c (n "spitfire-fontdue") (v "0.11.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.11") (d #t) (k 0)))) (h "1wr25g1pykv59jlgqilmmy6vrmy95iiazf0vnk988hs9bpn0lk68")))
+
+(define-public crate-spitfire-fontdue-0.12.0 (c (n "spitfire-fontdue") (v "0.12.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.12") (d #t) (k 0)))) (h "0ki4cljw64n3wwm5jmkm2b2z9dfa8dbk0d1mf7ngdqspbmr68rka")))
+
+(define-public crate-spitfire-fontdue-0.13.0 (c (n "spitfire-fontdue") (v "0.13.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.13") (d #t) (k 0)))) (h "1cvsw9lh3xj5zhn8xa5zc2dqfq0h12pcnrfpakzvphshn70a7mbf")))
+
+(define-public crate-spitfire-fontdue-0.13.1 (c (n "spitfire-fontdue") (v "0.13.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.13") (d #t) (k 0)))) (h "1i4fc1x2n8fj8v2m89624ybsi2ihi522r9fxgphd0245d6f0fji0")))
+
+(define-public crate-spitfire-fontdue-0.14.0 (c (n "spitfire-fontdue") (v "0.14.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.14") (d #t) (k 0)))) (h "1hrwb9b60l3h0dq0pg6sz2ww0asszcflj9qdibsbq2xb2xb2k29n")))
+
+(define-public crate-spitfire-fontdue-0.15.0 (c (n "spitfire-fontdue") (v "0.15.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.15") (d #t) (k 0)))) (h "1iscz61i3f7rifiicgzwgx01j2k0xm45qf5m0cnr8ii93ynfg2yd")))
+
+(define-public crate-spitfire-fontdue-0.15.1 (c (n "spitfire-fontdue") (v "0.15.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.15") (d #t) (k 0)))) (h "101c4q7fr36m496rypyihr2ispp4xls18x6wz4ia9ngapia6hrjr")))
+
+(define-public crate-spitfire-fontdue-0.16.0 (c (n "spitfire-fontdue") (v "0.16.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.16") (d #t) (k 0)))) (h "158l5s9ihsk9prd01gw9fy6wxirgxjh1hljnsli6dsyaksx2lgqh")))
+
+(define-public crate-spitfire-fontdue-0.17.0 (c (n "spitfire-fontdue") (v "0.17.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "05q8vkh69xaf3qsl5izn0i700jrh0rd0vng57q87jlbki98zzmz4")))
+
+(define-public crate-spitfire-fontdue-0.17.1 (c (n "spitfire-fontdue") (v "0.17.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "0p4px2zbph5fck4mzhkj7fxsfxgzqcifmd05509ia4nj1frkjv1z")))
+
+(define-public crate-spitfire-fontdue-0.17.2 (c (n "spitfire-fontdue") (v "0.17.2") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "1lzg946fs9hfkxqjvldyw4hs17fyzz25hphbhw0pylpma6x3lads")))
+
+(define-public crate-spitfire-fontdue-0.17.3 (c (n "spitfire-fontdue") (v "0.17.3") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "19qhlwl5wj68n8inppcr5y0vf9dbln0ggdq05hvcd107fjd5dxp9")))
+
+(define-public crate-spitfire-fontdue-0.17.4 (c (n "spitfire-fontdue") (v "0.17.4") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "0f0iqsr2zvgm89xamj0pjqp15lsd90p5412qk8rcawsdpyq6qah0")))
+
+(define-public crate-spitfire-fontdue-0.17.5 (c (n "spitfire-fontdue") (v "0.17.5") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "0vcwzkr1aln3gnk8zmv6j6kxv9lfi9vhgyh6gk6qjmbkqpwgs5cv")))
+
+(define-public crate-spitfire-fontdue-0.17.6 (c (n "spitfire-fontdue") (v "0.17.6") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.17") (d #t) (k 0)))) (h "0pj6z7hdfc58qawj2lcas6470sm52v8imbvkg4dhia7la92xiqam")))
+
+(define-public crate-spitfire-fontdue-0.18.0 (c (n "spitfire-fontdue") (v "0.18.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.18") (d #t) (k 0)))) (h "04xh9ppwalqw1amyjckmqkrag9xjsxw2ag1h1dbg2sm7blbw34a5")))
+
+(define-public crate-spitfire-fontdue-0.19.0 (c (n "spitfire-fontdue") (v "0.19.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.19") (d #t) (k 0)))) (h "0hg9cimzq5amg1gljc9a31afp7vbgdgcc80d9dwh674fqcj43pha")))
+
+(define-public crate-spitfire-fontdue-0.19.1 (c (n "spitfire-fontdue") (v "0.19.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.19") (d #t) (k 0)))) (h "0yqw2hqidwqvwv2flpzlp96ip5nc848nxx5q2kj2bq887wp37ssp")))
+
+(define-public crate-spitfire-fontdue-0.19.2 (c (n "spitfire-fontdue") (v "0.19.2") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.19") (d #t) (k 0)))) (h "1273s1lar3q31jgm4cqnqj40vgffglwnmbfqgn30h1k4hvcp6pbs")))
+
+(define-public crate-spitfire-fontdue-0.19.3 (c (n "spitfire-fontdue") (v "0.19.3") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.19") (d #t) (k 0)))) (h "11y4iisfvb3hkfb61ynyxhcspxq21hha56gj2vgig59ka1x4xkkb")))
+
+(define-public crate-spitfire-fontdue-0.19.4 (c (n "spitfire-fontdue") (v "0.19.4") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.19") (d #t) (k 0)))) (h "0rfnwzpxpgcr2c1i4h77cjafifc79zl5zdqf545d24bxm8wwz9ln")))
+
+(define-public crate-spitfire-fontdue-0.19.5 (c (n "spitfire-fontdue") (v "0.19.5") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.19") (d #t) (k 0)))) (h "1xb3786jdpr6kkypvmy2q793sv6wic3xg3gpgjqwv3dkhqh6dpy0")))
+
+(define-public crate-spitfire-fontdue-0.20.0 (c (n "spitfire-fontdue") (v "0.20.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.20") (d #t) (k 0)))) (h "1zknvyq2d1w5915x3hgv1d8mir5nsv442ibx4zkpapl778pi9niz")))
+
+(define-public crate-spitfire-fontdue-0.20.1 (c (n "spitfire-fontdue") (v "0.20.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.20") (d #t) (k 0)))) (h "100kffq8xcwg9g4918q1jw74f97r2rb5da0nk0dqdg2phqvsyh7m")))
+
+(define-public crate-spitfire-fontdue-0.21.0 (c (n "spitfire-fontdue") (v "0.21.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.21") (d #t) (k 0)))) (h "0dry6b0pdb46wj54dkhswqb3jg78jdzplmp994ridi5kwmlgrj9y")))
+
+(define-public crate-spitfire-fontdue-0.22.0 (c (n "spitfire-fontdue") (v "0.22.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.22") (d #t) (k 0)))) (h "0b0hlf3yd2by8ppqmj3ryyx8v4kaq5gk8wls47vnklhjla6lr6rv")))
+
+(define-public crate-spitfire-fontdue-0.23.0 (c (n "spitfire-fontdue") (v "0.23.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.23") (d #t) (k 0)))) (h "1f3ss6mir89la1csqf196w7z60pz5sbl8igk0vqas4vm1nwi0780")))
+
+(define-public crate-spitfire-fontdue-0.23.1 (c (n "spitfire-fontdue") (v "0.23.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.23") (d #t) (k 0)))) (h "1haq6h8n888rbp3yjsm9vsdysfj7crqg8z8fps0n5d76pkyv8k3m")))
+
+(define-public crate-spitfire-fontdue-0.23.2 (c (n "spitfire-fontdue") (v "0.23.2") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.23") (d #t) (k 0)))) (h "0d2v7005bpyfcpcrs40bdm91c1413lvy1qdlz7lr2rarj6rhmz6i")))
+
+(define-public crate-spitfire-fontdue-0.24.0 (c (n "spitfire-fontdue") (v "0.24.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.24") (d #t) (k 0)))) (h "10vh6m1v50y99isyf7yykbkj1ya44s97szhhmavmhgajvzgda7c7")))
+
+(define-public crate-spitfire-fontdue-0.25.0 (c (n "spitfire-fontdue") (v "0.25.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.25") (d #t) (k 0)))) (h "0ghgq9hvhm1y10mq7z24nkcm18wv1nni8qqq59myqs10mm12y4sh")))
+
+(define-public crate-spitfire-fontdue-0.26.0 (c (n "spitfire-fontdue") (v "0.26.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.26") (d #t) (k 0)))) (h "1p2d6j4ykdcmw78iy16x9cbazmyna2205r3n9n3qqsi176006xrb")))
+
+(define-public crate-spitfire-fontdue-0.27.0 (c (n "spitfire-fontdue") (v "0.27.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.27") (d #t) (k 0)))) (h "1vqq71jcq8m2qz14rbmyqgp17l8axv401mg6ksgxyis8xd4f6ig7")))
+
+(define-public crate-spitfire-fontdue-0.27.1 (c (n "spitfire-fontdue") (v "0.27.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.27") (d #t) (k 0)))) (h "1pgf4m89kilm1gyyp408w82ipy1s8xl18v0jlgpzcxijyag2m3kk")))
+
+(define-public crate-spitfire-fontdue-0.27.2 (c (n "spitfire-fontdue") (v "0.27.2") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.27") (d #t) (k 0)))) (h "0ndnnwbl92fask01szijnrzlx1b31lbl8hhqzl670r19xdiwyxpy")))
+
+(define-public crate-spitfire-fontdue-0.28.0 (c (n "spitfire-fontdue") (v "0.28.0") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.28") (d #t) (k 0)))) (h "1kgf0yvlk42ycc02szw6npd76d7b5c3dcmbqb61grsmjp68kw4vm")))
+
+(define-public crate-spitfire-fontdue-0.28.1 (c (n "spitfire-fontdue") (v "0.28.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.28") (d #t) (k 0)))) (h "02i20r1jrpwss3x5lw7dgn0lxp8sdylflir92515516xsk6hcixg")))
+
+(define-public crate-spitfire-fontdue-0.28.2 (c (n "spitfire-fontdue") (v "0.28.2") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.28") (d #t) (k 0)))) (h "056k1vn361gqn1jpmi7s541wcy09a3mfxmaxhs0cawrbn9divm01")))
+
+(define-public crate-spitfire-fontdue-0.28.3 (c (n "spitfire-fontdue") (v "0.28.3") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.28") (d #t) (k 0)))) (h "0w96crybpwrxq09lkayi2raw9fh19ds0yyp8h2a1al48iamyirsh")))
+
+(define-public crate-spitfire-fontdue-0.28.4 (c (n "spitfire-fontdue") (v "0.28.4") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etagere") (r "^0.2") (d #t) (k 0)) (d (n "fontdue") (r "^0.8") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 2)) (d (n "spitfire-core") (r "^0.28") (d #t) (k 0)))) (h "110v33wd67lcbzzlwnlwj60cij1rll6c7l1nsvlv6im2n13x3a5q")))
+

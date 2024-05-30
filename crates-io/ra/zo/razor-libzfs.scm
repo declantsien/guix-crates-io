@@ -1,0 +1,18 @@
+(define-module (crates-io ra zo razor-libzfs) #:use-module (crates-io))
+
+(define-public crate-razor-libzfs-0.6.1 (c (n "razor-libzfs") (v "0.6.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.6") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.6") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.6") (d #t) (k 1)) (d (n "razor-libzfscore") (r "^0.6") (d #t) (k 0)))) (h "16k7600iw7sp1bcyrxmyi2nsdy77f4d3dk6blvsq0ghqj3k4v13x")))
+
+(define-public crate-razor-libzfs-0.7.0 (c (n "razor-libzfs") (v "0.7.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.7") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.7") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.7") (d #t) (k 1)) (d (n "razor-libzfscore") (r "^0.7") (d #t) (k 0)))) (h "1fq776w0fbw7cfiyq8xq78877v4djbq0b4qvhdymfjgkzz7fagmg") (r "1.62")))
+
+(define-public crate-razor-libzfs-0.8.0 (c (n "razor-libzfs") (v "0.8.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.8") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.8") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.8") (d #t) (k 1)) (d (n "razor-libzfscore") (r "^0.8") (d #t) (k 0)))) (h "1srkyv72a91y8aaprq15v4cqhl45vi8zymzwfnnjgfnympg3gp9x") (r "1.62")))
+
+(define-public crate-razor-libzfs-0.9.0 (c (n "razor-libzfs") (v "0.9.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.9") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.9") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.9") (d #t) (k 1)))) (h "0m0zlchmrz5q46q4jvl2ihnca443fm018zcfn59dqmqirrrcl239") (r "1.62")))
+
+(define-public crate-razor-libzfs-0.10.0 (c (n "razor-libzfs") (v "0.10.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.10") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.10") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.10") (d #t) (k 1)))) (h "1y5wswzcdwiq0ay45i3j611aqb9gdav3ysf1p0y9nvrgcw969wj5") (r "1.62")))
+
+(define-public crate-razor-libzfs-0.10.1 (c (n "razor-libzfs") (v "0.10.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.10") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.10") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.10") (d #t) (k 1)))) (h "0az24pwcr9rh2fai3hrjbgii20nba92rk13nc7bnvkrj3pqx2zg7") (r "1.62")))
+
+(define-public crate-razor-libzfs-0.11.0 (c (n "razor-libzfs") (v "0.11.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.11") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.11") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.11") (d #t) (k 1)))) (h "1alqmlrslirmm3hllw8bk17wj0bq6f24m4hj1zh96m1hrvzfxqd6") (r "1.62")))
+
+(define-public crate-razor-libzfs-0.12.0 (c (n "razor-libzfs") (v "0.12.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 1)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "razor-libnvpair") (r "^0.12") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.12") (d #t) (k 0)) (d (n "razor-libzfs-sys") (r "^0.12") (d #t) (k 1)))) (h "011hijm6yj0g1r3bq10w2apzdqlrsv7zcgzli24k3fy5g5phyxay") (r "1.62")))
+

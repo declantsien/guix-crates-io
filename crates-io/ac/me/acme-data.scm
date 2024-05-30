@@ -1,0 +1,30 @@
+(define-module (crates-io ac me acme-data) #:use-module (crates-io))
+
+(define-public crate-acme-data-0.1.1 (c (n "acme-data") (v "0.1.1") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1hbqszf0wg9xmdyy8bli9dwslmnma0gynqsj7jasfwsprwxk4n5b") (y #t)))
+
+(define-public crate-acme-data-0.1.2 (c (n "acme-data") (v "0.1.2") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "125iiir15pnw6imgc22mmhv8va6qbx4ny5klyijrdz3gfh0nqkfz") (y #t)))
+
+(define-public crate-acme-data-0.1.3 (c (n "acme-data") (v "0.1.3") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0bkhqgkg70ngs8p4jf0jpnjfkkd1cx14qb6bl8wij5zrcwwsvpy3") (y #t)))
+
+(define-public crate-acme-data-0.1.4 (c (n "acme-data") (v "0.1.4") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1jyw942n65aa5sh7yhihjjwnw3w7455jqzj15d1r9kq1amisc6la") (y #t)))
+
+(define-public crate-acme-data-0.1.5 (c (n "acme-data") (v "0.1.5") (d (list (d (n "acme-core") (r "^0.1.4") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0v0z17g3460ls0l2jhkaj2sb5hjja2lgxspdyndnp9y7q97ivczp") (y #t)))
+
+(define-public crate-acme-data-0.1.6 (c (n "acme-data") (v "0.1.6") (d (list (d (n "acme-core") (r "^0.1.4") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "04wqpindm6vz79sp9gmxpwlr6hsdbnnqq44v7z7z9hwpqr0cmaip") (y #t)))
+
+(define-public crate-acme-data-0.1.7 (c (n "acme-data") (v "0.1.7") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "02iym3pgdjf4f89kcipbahfxvdmh73vjaj71f15irmjc04g7bgjb") (y #t)))
+
+(define-public crate-acme-data-0.1.12 (c (n "acme-data") (v "0.1.12") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0kzb5fs0f8rqkqp7fc4pirq6m8l5wnhc8p0kmk9w6b3qspkc4h2r")))
+
+(define-public crate-acme-data-0.1.13 (c (n "acme-data") (v "0.1.13") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1pvh2k966gwl89a6q69f4anikhixp5ghw7578h30igm8i32bcni8")))
+
+(define-public crate-acme-data-0.1.14 (c (n "acme-data") (v "0.1.14") (d (list (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1njkgm97r4gb4w167xbdq8x6p4gxh2sr2pprkhrvvk49brnfqaaw")))
+
+(define-public crate-acme-data-0.1.16 (c (n "acme-data") (v "0.1.16") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bson") (r ">=2.3.0") (f (quote ("chrono-0_4" "serde_with"))) (o #t) (d #t) (k 0)) (d (n "chrono") (r ">=0.4.19") (d #t) (k 0)) (d (n "serde") (r ">=1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (o #t) (d #t) (k 0)))) (h "1iwhhclp90lbcllx4mldw8l81jp4wnckjs2qb1wdpxqsk0rv7g13") (f (quote (("external" "bson/default" "bson/chrono-0_4" "bson/serde_with" "serde/default" "serde/derive" "serde_json/default") ("default" "external"))))))
+
+(define-public crate-acme-data-0.1.17 (c (n "acme-data") (v "0.1.17") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bson") (r ">=2.3.0") (f (quote ("chrono-0_4" "serde_with"))) (o #t) (d #t) (k 0)) (d (n "chrono") (r ">=0.4.19") (d #t) (k 0)) (d (n "serde") (r ">=1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (o #t) (d #t) (k 0)))) (h "00r12x5qlmnw1s0kdg04ahi9schm8qsjgy358yawbj3iz67qz4f7") (f (quote (("external" "bson/default" "bson/chrono-0_4" "bson/serde_with" "serde/default" "serde/derive" "serde_json/default") ("default" "external"))))))
+
+(define-public crate-acme-data-0.1.18 (c (n "acme-data") (v "0.1.18") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bson") (r ">=2.3.0") (f (quote ("chrono-0_4" "serde_with"))) (o #t) (d #t) (k 0)) (d (n "chrono") (r ">=0.4.19") (d #t) (k 0)) (d (n "serde") (r ">=1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (o #t) (d #t) (k 0)))) (h "0hxfrvy03rrj3qn5f8mj84y4vcrmd705jqi88nydaya6liysvwrc") (f (quote (("external" "bson/default" "bson/chrono-0_4" "bson/serde_with" "serde/default" "serde/derive" "serde_json/default") ("default" "external"))))))
+
+(define-public crate-acme-data-0.1.35 (c (n "acme-data") (v "0.1.35") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bson") (r ">=2.3.0") (f (quote ("chrono-0_4" "serde_with"))) (o #t) (d #t) (k 0)) (d (n "chrono") (r ">=0.4.19") (d #t) (k 0)) (d (n "serde") (r ">=1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (o #t) (d #t) (k 0)))) (h "07n0gzn1qkmyib1h3x66qnqb2ng4ylg83z30n14jdyyc1d3w7z4s") (f (quote (("external" "bson/default" "bson/chrono-0_4" "bson/serde_with" "serde/default" "serde/derive" "serde_json/default") ("default" "external"))))))
+

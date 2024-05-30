@@ -1,0 +1,14 @@
+(define-module (crates-io ir ox irox-winlocation-api) #:use-module (crates-io))
+
+(define-public crate-irox-winlocation-api-0.1.0 (c (n "irox-winlocation-api") (v "0.1.0") (d (list (d (n "futures") (r "^0") (d #t) (k 0)) (d (n "irox-carto") (r "^0") (d #t) (k 0)) (d (n "irox-units") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "time") (r "^0") (f (quote ("formatting" "macros"))) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Devices_Geolocation" "Foundation"))) (d #t) (k 0)))) (h "1irypp58kf8jkrdc1f0dqxn6g93zx1z4bcv0b8pr5bhg5q62lkah")))
+
+(define-public crate-irox-winlocation-api-0.1.1 (c (n "irox-winlocation-api") (v "0.1.1") (d (list (d (n "futures") (r "=0.3.28") (d #t) (k 0)) (d (n "irox-carto") (r "^0") (d #t) (k 0)) (d (n "irox-units") (r "^0") (d #t) (k 0)) (d (n "log") (r "=0.4.20") (d #t) (k 0)) (d (n "time") (r "=0.3.29") (f (quote ("formatting" "macros"))) (d #t) (k 0)) (d (n "windows") (r "=0.51.1") (f (quote ("Devices_Geolocation" "Foundation"))) (d #t) (k 0)))) (h "18mprrsvix6zdimnqjiv0q9b2zhbg51hqwv4flqx9p4ldfaq2hxd")))
+
+(define-public crate-irox-winlocation-api-0.2.0 (c (n "irox-winlocation-api") (v "0.2.0") (d (list (d (n "futures") (r "=0.3.28") (d #t) (k 0)) (d (n "irox-carto") (r "^0") (d #t) (k 0)) (d (n "irox-units") (r "^0") (d #t) (k 0)) (d (n "log") (r "=0.4.20") (d #t) (k 0)) (d (n "time") (r "=0.3.29") (f (quote ("formatting" "macros"))) (d #t) (k 0)) (d (n "windows") (r "=0.51.1") (f (quote ("Devices_Geolocation" "Foundation"))) (d #t) (k 0)))) (h "0ndmfmv20w7n4wqn6y136y78p7nvvw60mh3859770n7s73m0wh4v")))
+
+(define-public crate-irox-winlocation-api-0.3.0 (c (n "irox-winlocation-api") (v "0.3.0") (d (list (d (n "futures") (r "=0.3.29") (d #t) (k 0)) (d (n "irox-carto") (r "^0") (d #t) (k 0)) (d (n "irox-time") (r "^0") (d #t) (k 0)) (d (n "irox-units") (r "^0") (d #t) (k 0)) (d (n "log") (r "=0.4.20") (d #t) (k 0)) (d (n "windows") (r "=0.51.1") (f (quote ("Devices_Geolocation" "Foundation"))) (d #t) (k 0)))) (h "0kpf99zp3k6crah0i75hmkmd3xcrq9ycykrsvjq1ay3sdydm35zv")))
+
+(define-public crate-irox-winlocation-api-0.4.0 (c (n "irox-winlocation-api") (v "0.4.0") (d (list (d (n "irox-carto") (r "^0") (d #t) (k 0)) (d (n "irox-time") (r "^0") (d #t) (k 0)) (d (n "irox-units") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "windows") (r "^0.52") (f (quote ("Devices_Geolocation" "Foundation"))) (d #t) (k 0)))) (h "0iz8sx8awdskns7b1r5lx7hqk34prfpazdny02bmb29rz5yy7rkb")))
+
+(define-public crate-irox-winlocation-api-0.5.1 (c (n "irox-winlocation-api") (v "0.5.1") (d (list (d (n "irox-carto") (r "^0") (d #t) (k 0)) (d (n "irox-time") (r "^0") (d #t) (k 0)) (d (n "irox-units") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "windows") (r "^0.56") (f (quote ("Devices_Geolocation" "Foundation"))) (d #t) (k 0)))) (h "11bjan6b0j6yzinjm31b20vjc67ag1mr09sxz7zf6qa97wp28acx")))
+

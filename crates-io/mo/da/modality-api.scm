@@ -1,0 +1,12 @@
+(define-module (crates-io mo da modality-api) #:use-module (crates-io))
+
+(define-public crate-modality-api-0.1.0 (c (n "modality-api") (v "0.1.0") (d (list (d (n "minicbor") (r "^0.13.1") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "ordered-float") (r "^2.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1nsn9p2nsfl881cb78my2543ncnrgzkciy6fv3wsgadv6hy031zl") (f (quote (("default" "client") ("client" "minicbor"))))))
+
+(define-public crate-modality-api-0.1.1 (c (n "modality-api") (v "0.1.1") (d (list (d (n "minicbor") (r "^0.13.1") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "ordered-float") (r "^2.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0k8dq4nasg9spwgy3ipg1aqdzi5iwdwl4zjaqhk9vy1h6a24z4c9") (f (quote (("default" "client") ("client" "minicbor"))))))
+
+(define-public crate-modality-api-0.1.2 (c (n "modality-api") (v "0.1.2") (d (list (d (n "minicbor") (r "^0.13.1") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "ordered-float") (r "^2.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1ch5xg3h16af8wg0npbwyx8g6rv084f9px7vjyy4vn4cj7d1chl8") (f (quote (("default" "client") ("client" "minicbor"))))))
+
+(define-public crate-modality-api-0.2.0 (c (n "modality-api") (v "0.2.0") (d (list (d (n "minicbor") (r "^0.13.1") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "ordered-float") (r "^2.2.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (f (quote ("std"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "05zw0kfn8jdcf6pcrkjm1g7nnrwv7kk5qix9ggkmix079bxi8ii9") (f (quote (("default" "client") ("client" "minicbor")))) (s 2) (e (quote (("serde" "dep:serde") ("proptest_strategies" "dep:proptest"))))))
+
+(define-public crate-modality-api-0.3.0 (c (n "modality-api") (v "0.3.0") (d (list (d (n "minicbor") (r "^0.13.1") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "ordered-float") (r "^3.7.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (f (quote ("std"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1wrck4pz63ghd9j309y672lgf1rjc5rmp6iybnsm9k0cqz9x328l") (f (quote (("default" "client") ("client" "minicbor")))) (s 2) (e (quote (("serde" "dep:serde") ("proptest_strategies" "dep:proptest"))))))
+

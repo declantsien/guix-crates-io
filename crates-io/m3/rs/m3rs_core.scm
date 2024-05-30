@@ -1,0 +1,4 @@
+(define-module (crates-io m3 rs m3rs_core) #:use-module (crates-io))
+
+(define-public crate-m3rs_core-0.0.1 (c (n "m3rs_core") (v "0.0.1") (d (list (d (n "color_utilities") (r "^0.1.1") (d #t) (k 0) (p "material_rs_color_utilities")) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "grass") (r "^0.13.1") (f (quote ("macro"))) (d #t) (k 1)) (d (n "include_sass") (r "^0.13.0") (d #t) (k 1)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("CssStyleDeclaration" "Document" "CustomEvent" "CustomEventInit" "Element" "Event" "HtmlButtonElement" "HtmlDivElement" "HtmlHeadElement" "HtmlLinkElement" "HtmlSpanElement" "HtmlStyleElement" "MouseEvent" "ShadowRoot" "ShadowRootInit" "ShadowRootMode" "Window"))) (d #t) (k 0)))) (h "0yy8nq8d639g0j6av4idwyhf2fj6d3f3b8j1w1w6lib1jbp8cxja")))
+

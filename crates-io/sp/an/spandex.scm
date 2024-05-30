@@ -1,0 +1,12 @@
+(define-module (crates-io sp an spandex) #:use-module (crates-io))
+
+(define-public crate-spandex-0.0.0 (c (n "spandex") (v "0.0.0") (h "0dsnfl1nqjnv22dk573lccdsx5lp9sd0mas4jpisq1l4793x75kg")))
+
+(define-public crate-spandex-0.0.1 (c (n "spandex") (v "0.0.1") (h "0xr86rsz05pvvzdiwp0ib79138vya018z3nb7fz6gsv0ynxy6j2a")))
+
+(define-public crate-spandex-0.0.2 (c (n "spandex") (v "0.0.2") (d (list (d (n "bincode") (r "^1.1.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "freetype-rs") (r "^0.19.1") (d #t) (k 0)) (d (n "hyphenation") (r "^0.7.1") (f (quote ("embed_all"))) (d #t) (k 0)) (d (n "nom") (r "^4.2.3") (d #t) (k 0)) (d (n "nom_locate") (r "^0.3.1") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.39") (d #t) (k 0)) (d (n "num-rational") (r "^0.2.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.6") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.13") (d #t) (k 0)) (d (n "printpdf") (r "^0.2.10") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.0") (d #t) (k 0)))) (h "0yxhfp1944ila5gb6hgjqq449h2n3ak7n805vy11cs15919p1px6")))
+
+(define-public crate-spandex-0.0.3 (c (n "spandex") (v "0.0.3") (d (list (d (n "bincode") (r "^1.1.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "freetype-rs") (r "^0.19.1") (d #t) (k 0)) (d (n "hyphenation") (r "^0.7.1") (f (quote ("embed_all"))) (d #t) (k 0)) (d (n "nom") (r "^4.2.3") (d #t) (k 0)) (d (n "nom_locate") (r "^0.3.1") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.13") (d #t) (k 0)) (d (n "printpdf") (r "^0.2.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.0") (d #t) (k 0)))) (h "1k5jy5ybna0gg7xgsmfq8079yf5qy0sn46b88dnlmrc1zz8zyvyd")))
+
+(define-public crate-spandex-0.0.4 (c (n "spandex") (v "0.0.4") (d (list (d (n "colored") (r "^1.9.0") (d #t) (k 0)) (d (n "freetype-rs") (r "^0.19.1") (d #t) (k 0)) (d (n "nom") (r "^5.0.1") (d #t) (k 0)) (d (n "nom_locate") (r "^1.0.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.13") (d #t) (k 0)) (d (n "printpdf") (r "^0.2.12") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spandex-hyphenation") (r "^0.7.4") (f (quote ("embed_all"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.0") (d #t) (k 0)))) (h "1j9rlp0rmkk56dhryshvw6h6vhrc51z9alpqldm7f8i833sfqwgg")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-mmr-primitives) #:use-module (crates-io))
+
+(define-public crate-noble-mmr-primitives-2.0.0 (c (n "noble-mmr-primitives") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-api") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "0vysv2i0rndjghiwcz7zid7q75lmj7ixg8phv5ari5a373i720ki") (f (quote (("std" "codec/std" "fabric-support/std" "fabric-system/std" "serde" "tp-api/std" "tet-core/std" "tp-runtime/std" "tetcore-std/std") ("default" "std"))))))
+

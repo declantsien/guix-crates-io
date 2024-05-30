@@ -1,0 +1,16 @@
+(define-module (crates-io wh al whalespotter) #:use-module (crates-io))
+
+(define-public crate-whalespotter-0.1.0 (c (n "whalespotter") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm_cursor") (r "= 0.2.4") (d #t) (k 0)) (d (n "crossterm_input") (r "= 0.3.6") (d #t) (k 0)) (d (n "crossterm_screen") (r "= 0.2.3") (d #t) (k 0)) (d (n "crossterm_style") (r "= 0.3.3") (d #t) (k 0)) (d (n "crossterm_terminal") (r "= 0.2.4") (d #t) (k 0)) (d (n "crossterm_utils") (r "= 0.2.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "^0.6.2") (d #t) (k 0)))) (h "1j9s1hqvij65hb4z05a3xryhsmafvwcy6b5w90a7s9z07s84qxj6")))
+
+(define-public crate-whalespotter-0.1.1 (c (n "whalespotter") (v "0.1.1") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm_cursor") (r "= 0.2.4") (d #t) (k 0)) (d (n "crossterm_input") (r "= 0.3.6") (d #t) (k 0)) (d (n "crossterm_screen") (r "= 0.2.3") (d #t) (k 0)) (d (n "crossterm_style") (r "= 0.3.3") (d #t) (k 0)) (d (n "crossterm_terminal") (r "= 0.2.4") (d #t) (k 0)) (d (n "crossterm_utils") (r "= 0.2.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "^0.6.5") (d #t) (k 0)))) (h "0579c47bs53xz4avpwnxcylm3l4p0cgc9qbf5adjya582nsf1saz")))
+
+(define-public crate-whalespotter-0.1.3 (c (n "whalespotter") (v "0.1.3") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm") (r "^0.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "^0.7.1") (d #t) (k 0)))) (h "184dwzp0h8784x3b2jwmg6ljkllf1agkgr5r7s580375z9ca49a2")))
+
+(define-public crate-whalespotter-0.1.4 (c (n "whalespotter") (v "0.1.4") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "^0.8.4") (d #t) (k 0)))) (h "17zy59p0xkay1jck07si2x2crj3jb368qgyhnigw8cqn37sf1way")))
+
+(define-public crate-whalespotter-0.1.5 (c (n "whalespotter") (v "0.1.5") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm") (r "= 0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "= 0.8.4") (d #t) (k 0)))) (h "12g6w7394l65577bxdna7qxkylxn5ksdjgyhbrkvl64xmlip6yg6")))
+
+(define-public crate-whalespotter-0.1.6 (c (n "whalespotter") (v "0.1.6") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "=0.9.1") (d #t) (k 0)))) (h "0ra42682rr3bbw2w6sxa7qfi73d3qip4i50570nfd24rdjbpphgv")))
+
+(define-public crate-whalespotter-1.0.0 (c (n "whalespotter") (v "1.0.0") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "crossterm") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "open") (r "^1.3.1") (d #t) (k 0)) (d (n "termimad") (r "=0.9.1") (d #t) (k 0)))) (h "0kp7np8kkj48ryfjfx35fml2sj67f2xknv3ifg046b8wi4l1zl1l")))
+

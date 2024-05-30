@@ -1,0 +1,4 @@
+(define-module (crates-io te le telerunbot) #:use-module (crates-io))
+
+(define-public crate-telerunbot-0.0.9 (c (n "telerunbot") (v "0.0.9") (d (list (d (n "askama") (r "^0.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 0)) (d (n "shuttle-runtime") (r "^0.24.0") (d #t) (k 0)) (d (n "shuttle-secrets") (r "^0.24.0") (d #t) (k 0)) (d (n "shuttle-shared-db") (r "^0.24.0") (f (quote ("postgres" "sqlx"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("runtime-tokio-native-tls" "postgres" "macros" "chrono"))) (d #t) (k 0)) (d (n "teloxide") (r "^0.12.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "19arrcfpckl1zdzvw3h719xjdnsm6hjxgy8wr25m7jmyw6890n72")))
+

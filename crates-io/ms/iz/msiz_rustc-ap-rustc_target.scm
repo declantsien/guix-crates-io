@@ -1,0 +1,8 @@
+(define-module (crates-io ms iz msiz_rustc-ap-rustc_target) #:use-module (crates-io))
+
+(define-public crate-msiz_rustc-ap-rustc_target-1.0.0 (c (n "msiz_rustc-ap-rustc_target") (v "1.0.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustc_data_structures") (r "^1.0.0") (d #t) (k 0) (p "msiz_rustc-ap-rustc_data_structures")) (d (n "rustc_serialize") (r "^1.0.0") (d #t) (k 0) (p "msiz_rustc-ap-serialize")) (d (n "syntax_pos") (r "^1.0.0") (d #t) (k 0) (p "msiz_rustc-ap-syntax_pos")))) (h "1xj616rk9dvdrw6rw43q62ypb2rf5nx9rx6ji4w03lijj3ib9fhg")))
+
+(define-public crate-msiz_rustc-ap-rustc_target-2.0.0 (c (n "msiz_rustc-ap-rustc_target") (v "2.0.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustc_data_structures") (r "^2.0.0") (d #t) (k 0) (p "msiz_rustc-ap-rustc_data_structures")) (d (n "rustc_serialize") (r "^2.0.0") (d #t) (k 0) (p "msiz_rustc-ap-serialize")) (d (n "syntax_pos") (r "^2.0.0") (d #t) (k 0) (p "msiz_rustc-ap-syntax_pos")))) (h "0vkjbaqzql0j7b74cr9m8r69b0mdvpwnlgqpc4vn977wm7bvfr7j")))
+
+(define-public crate-msiz_rustc-ap-rustc_target-3.0.0 (c (n "msiz_rustc-ap-rustc_target") (v "3.0.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustc_data_structures") (r "^3.0.0") (d #t) (k 0) (p "msiz_rustc-ap-rustc_data_structures")) (d (n "rustc_serialize") (r "^3.0.0") (d #t) (k 0) (p "msiz_rustc-ap-serialize")) (d (n "syntax_pos") (r "^3.0.0") (d #t) (k 0) (p "msiz_rustc-ap-syntax_pos")))) (h "1w4zlaxzg81qhl2dmy0fmrb5s1vinwndpx7za4q3p71f38lqq2pz")))
+

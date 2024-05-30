@@ -1,0 +1,4 @@
+(define-module (crates-io rs s- rss-watch) #:use-module (crates-io))
+
+(define-public crate-rss-watch-0.1.0 (c (n "rss-watch") (v "0.1.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "atom_syndication") (r "^0.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.32") (f (quote ("suggestions" "color" "wrap_help"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "humantime") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("release_max_level_warn"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rss") (r "^1.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "03lfh9jrqz2plgb3h8hj6cx99q4lwiiaqvy314rz8b64m5iprnva") (f (quote (("json" "serde_json") ("default" "json"))))))
+

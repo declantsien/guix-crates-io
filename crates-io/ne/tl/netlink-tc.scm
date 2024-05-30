@@ -1,0 +1,10 @@
+(define-module (crates-io ne tl netlink-tc) #:use-module (crates-io))
+
+(define-public crate-netlink-tc-0.0.1 (c (n "netlink-tc") (v "0.0.1") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.7") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.17") (d #t) (k 0)) (d (n "netlink-packet-utils") (r "^0.5") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0cbb9wqvikv023ivchh29z74gjv6n4qjcsrlr1pyzmz1paw20vyy")))
+
+(define-public crate-netlink-tc-0.0.2 (c (n "netlink-tc") (v "0.0.2") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.7") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.17") (d #t) (k 0)) (d (n "netlink-packet-utils") (r "^0.5") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0k9ykx8chw4dyyxjnq8mvclq55w3w67hz61k6jf9qp3882am7h2g")))
+
+(define-public crate-netlink-tc-0.0.3 (c (n "netlink-tc") (v "0.0.3") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.7") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.17") (d #t) (k 0)) (d (n "netlink-packet-utils") (r "^0.5") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0qz9y9hxwlzzrqlfivl4npr1zh5ddb6c8hhb150grz4klxi2bp0k")))
+
+(define-public crate-netlink-tc-0.0.4 (c (n "netlink-tc") (v "0.0.4") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.7") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.17") (d #t) (k 0)) (d (n "netlink-packet-utils") (r "^0.5") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0pxk5dfb8q7szkcqiazbcn7hlp135hzfmmw9k51ms8c4fbr4bz48")))
+

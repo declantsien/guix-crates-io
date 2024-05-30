@@ -1,0 +1,4 @@
+(define-module (crates-io ff ra fframes-media-loaders) #:use-module (crates-io))
+
+(define-public crate-fframes-media-loaders-1.0.0-beta.1 (c (n "fframes-media-loaders") (v "1.0.0-beta.1") (d (list (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ffmpeg-next") (r "^6.1.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "image") (r "^0.24.6") (f (quote ("png" "jpeg"))) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "minimp3") (r "^0.5.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "quote") (r "^1.0.9") (o #t) (d #t) (k 0)) (d (n "ttf-parser") (r "^0.19.1") (d #t) (k 0)) (d (n "usvgr") (r "^0.30.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "webvtt-parser") (r "^1.0.0-beta.1") (d #t) (k 0)))) (h "0j8c80i2qwz072l3x3l5smq29qa95yqg9aq7jrslnlhr355a5wdb")))
+

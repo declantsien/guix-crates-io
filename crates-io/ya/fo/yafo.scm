@@ -1,0 +1,6 @@
+(define-module (crates-io ya fo yafo) #:use-module (crates-io))
+
+(define-public crate-yafo-0.1.0 (c (n "yafo") (v "0.1.0") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 2)) (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "cbindgen") (r "^0.24.3") (d #t) (k 1)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "tea-soft") (r "^0.3.0") (d #t) (k 2)))) (h "14lx5zpqxzbhd52kn4mshmqq7nxabfr00vwbr58cs84sdjhyrjc5") (s 2) (e (quote (("cli" "dep:anyhow" "dep:clap" "dep:indicatif"))))))
+
+(define-public crate-yafo-0.1.1 (c (n "yafo") (v "0.1.1") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 2)) (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "cbindgen") (r "^0.24.3") (d #t) (k 1)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)) (d (n "tea-soft") (r "^0.3.0") (d #t) (k 2)))) (h "160n09d7fvw3gd5xnsgfbbywvjpxb90yfwxi01pyzi0wgmnf2gfx") (f (quote (("ffi")))) (s 2) (e (quote (("cli" "dep:anyhow" "dep:clap" "dep:indicatif"))))))
+

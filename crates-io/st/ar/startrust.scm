@@ -1,0 +1,4 @@
+(define-module (crates-io st ar startrust) #:use-module (crates-io))
+
+(define-public crate-startrust-0.1.0 (c (n "startrust") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "beep") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "dimensioned") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "unwrap-infallible") (r "^0.1.5") (d #t) (k 0)))) (h "1v44g5vsm1h0dbf51q209zpk5k0cacc7yjpc8bqsf0xl9d0hlfwd")))
+

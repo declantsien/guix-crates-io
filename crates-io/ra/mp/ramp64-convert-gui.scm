@@ -1,0 +1,10 @@
+(define-module (crates-io ra mp ramp64-convert-gui) #:use-module (crates-io))
+
+(define-public crate-ramp64-convert-gui-1.0.0 (c (n "ramp64-convert-gui") (v "1.0.0") (d (list (d (n "eframe") (r "^0.21") (f (quote ("default_fonts" "glow"))) (k 0)) (d (n "egui") (r "^0.21") (d #t) (k 0)) (d (n "open") (r "^4.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "ramp64-srm-convert-lib") (r "^0.4") (d #t) (k 0)) (d (n "rfd") (r "^0.11") (f (quote ("gtk3"))) (k 0)))) (h "0b2lljvba114ig02wsbld6ird39g26dd6ns7xzmgqwspymhlll72") (y #t)))
+
+(define-public crate-ramp64-convert-gui-1.0.1 (c (n "ramp64-convert-gui") (v "1.0.1") (d (list (d (n "eframe") (r "^0.21") (f (quote ("default_fonts" "glow"))) (k 0)) (d (n "egui") (r "^0.21") (d #t) (k 0)) (d (n "open") (r "^4.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "ramp64-srm-convert-lib") (r "^0.4") (d #t) (k 0)) (d (n "rfd") (r "^0.11") (f (quote ("gtk3"))) (k 0)))) (h "0hvalb9zsdb1i7v00m6ji0a9f959g6ny5cww1833pkji2xsv8dlx")))
+
+(define-public crate-ramp64-convert-gui-1.1.0 (c (n "ramp64-convert-gui") (v "1.1.0") (d (list (d (n "eframe") (r "^0.23") (f (quote ("default_fonts" "glow"))) (k 0)) (d (n "egui") (r "^0.23") (d #t) (k 0)) (d (n "open") (r "^5.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "ramp64-srm-convert-lib") (r "^0.5") (d #t) (k 0)) (d (n "rfd") (r "^0.12") (f (quote ("gtk3"))) (k 0)))) (h "1q0bc21qcjzmmkmk325jm1zgdi2my77p528dgkw85m5gvkkx9m1p")))
+
+(define-public crate-ramp64-convert-gui-1.1.1 (c (n "ramp64-convert-gui") (v "1.1.1") (d (list (d (n "eframe") (r "^0.23") (f (quote ("default_fonts" "glow"))) (k 0)) (d (n "egui") (r "^0.23") (d #t) (k 0)) (d (n "open") (r "^5.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "ramp64-srm-convert-lib") (r "^0.5") (d #t) (k 0)) (d (n "rfd") (r "^0.12") (f (quote ("gtk3"))) (t "cfg(not(target_env = \"musl\"))") (k 0)) (d (n "rfd") (r "^0.12") (f (quote ("xdg-portal"))) (t "cfg(target_env = \"musl\")") (k 0)))) (h "042ifsjlakarrjcrrfi6n7i4capvrg6b728yx7plica6988rig03")))
+

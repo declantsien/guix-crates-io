@@ -1,0 +1,14 @@
+(define-module (crates-io rs mg rsmgclient) #:use-module (crates-io))
+
+(define-public crate-rsmgclient-0.1.0 (c (n "rsmgclient") (v "0.1.0") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "0flqamr96y9ivyd7axdlvfpgdp6ghnpsdywj4npdc3ds4z491959")))
+
+(define-public crate-rsmgclient-0.1.1 (c (n "rsmgclient") (v "0.1.1") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "0a4v7d6g94gv7gbhhzhjql4mhr8ysj63w76cgnyxr41mpw76bi9c")))
+
+(define-public crate-rsmgclient-1.0.0 (c (n "rsmgclient") (v "1.0.0") (d (list (d (n "bindgen") (r "^0.58.1") (d #t) (k 1)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "09m8p4r3gffnp882i01j1i3kssn7izkbmn0rmhqa786shhcp52w6")))
+
+(define-public crate-rsmgclient-2.0.0 (c (n "rsmgclient") (v "2.0.0") (d (list (d (n "bindgen") (r "^0.58.1") (d #t) (k 1)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "11r12b9ysyyv98j68k4kigw5ypir8ycd3ll8vcq04s0pxjn81jxf")))
+
+(define-public crate-rsmgclient-2.0.1 (c (n "rsmgclient") (v "2.0.1") (d (list (d (n "bindgen") (r "^0.58.1") (d #t) (k 1)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "1415pcwqv3bim5836dx53jyq04lpcdf9jafhvig2gvfgrjg3nhqz")))
+
+(define-public crate-rsmgclient-2.0.2 (c (n "rsmgclient") (v "2.0.2") (d (list (d (n "bindgen") (r "^0.68.1") (d #t) (k 1)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "15f1p101qblcgjzn8vip1r0nanf1g78kwirn01p71qxbp681rl9c")))
+

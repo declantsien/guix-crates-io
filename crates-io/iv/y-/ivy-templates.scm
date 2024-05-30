@@ -1,0 +1,6 @@
+(define-module (crates-io iv y- ivy-templates) #:use-module (crates-io))
+
+(define-public crate-ivy-templates-0.10.2 (c (n "ivy-templates") (v "0.10.2") (d (list (d (n "atomic_refcell") (r "^0.1.8") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "hecs") (r "^0.7.3") (d #t) (k 0)) (d (n "hecs-schedule") (r "^0.3.21") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.132") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "slotmap") (r "^1.0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "04x4g7k2y6wacjk50xx20rqxf8irpi367amjdmj86jf2ahdsygqn") (f (quote (("serialize" "serde") ("default"))))))
+
+(define-public crate-ivy-templates-0.10.3 (c (n "ivy-templates") (v "0.10.3") (d (list (d (n "atomic_refcell") (r "^0.1.8") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "hecs") (r "^0.7.3") (d #t) (k 0)) (d (n "hecs-hierarchy") (r "^0.11.0") (d #t) (k 0)) (d (n "hecs-schedule") (r "^0.5.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "slotmap") (r "^1.0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0rinpa6bq9ivgl3wvw3g8j7xrcmxyvw7vnnzh8df5zzg5cx559iv") (f (quote (("serialize" "serde") ("default"))))))
+

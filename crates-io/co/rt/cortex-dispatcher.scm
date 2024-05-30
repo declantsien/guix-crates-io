@@ -1,0 +1,8 @@
+(define-module (crates-io co rt cortex-dispatcher) #:use-module (crates-io))
+
+(define-public crate-cortex-dispatcher-0.1.0 (c (n "cortex-dispatcher") (v "0.1.0") (d (list (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "inotify") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_regex") (r "^0.3") (d #t) (k 0)))) (h "0jss3s29j4d74i7xhc2azr549v5jaxajsxsag7iar97946fzs2g5")))
+
+(define-public crate-cortex-dispatcher-0.1.1 (c (n "cortex-dispatcher") (v "0.1.1") (d (list (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "inotify") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_regex") (r "^0.3") (d #t) (k 0)))) (h "1d3wr9r4gjwmxixisr7c0nwz8rhk2na7ndc21xm7r8d7jcygy1f4")))
+
+(define-public crate-cortex-dispatcher-0.1.2 (c (n "cortex-dispatcher") (v "0.1.2") (d (list (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "inotify") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_regex") (r "^0.3") (d #t) (k 0)))) (h "109xxrbi51rcibr37rz4ylnk5h2wh4v60nvzp7l270xgy3hjs3gk")))
+

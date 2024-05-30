@@ -1,0 +1,6 @@
+(define-module (crates-io pn et pnet_datalink_bandwhich_fork) #:use-module (crates-io))
+
+(define-public crate-pnet_datalink_bandwhich_fork-0.23.0 (c (n "pnet_datalink_bandwhich_fork") (v "0.23.0") (d (list (d (n "ipnetwork") (r "^0.15.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "netmap_sys") (r ">= 0.0") (f (quote ("netmap_with_libs"))) (o #t) (d #t) (k 0)) (d (n "pcap") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "pnet_base_bandwhich_fork") (r "^0.23.0") (d #t) (k 0)) (d (n "pnet_sys_bandwhich_fork") (r "^0.23.0") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "0l4xaxmsfdz70c6mg4zw5mlk7ifxr9h0i8vp0qymgq6w9l4r31mz") (f (quote (("netmap"))))))
+
+(define-public crate-pnet_datalink_bandwhich_fork-0.23.1 (c (n "pnet_datalink_bandwhich_fork") (v "0.23.1") (d (list (d (n "ipnetwork") (r "^0.15.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "netmap_sys") (r ">= 0.0") (f (quote ("netmap_with_libs"))) (o #t) (d #t) (k 0)) (d (n "pcap") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "pnet_base_bandwhich_fork") (r "^0.23.0") (d #t) (k 0)) (d (n "pnet_sys_bandwhich_fork") (r "^0.23.0") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "0s8kqkvk58iaxyyfk26an2wjl2qbnm56h25alppb8736220xnz39") (f (quote (("netmap"))))))
+

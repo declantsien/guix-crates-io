@@ -1,0 +1,16 @@
+(define-module (crates-io fi le filenamegen) #:use-module (crates-io))
+
+(define-public crate-filenamegen-0.2.0 (c (n "filenamegen") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1xrsn8ivxyfnv3wh60gdnflqa5rlx9lp11fdk0cw43q2m447pfj6")))
+
+(define-public crate-filenamegen-0.2.1 (c (n "filenamegen") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1shlw333dfn8xslmb7k45af14abagwx7y571n4hggzq15xaxckrv")))
+
+(define-public crate-filenamegen-0.2.2 (c (n "filenamegen") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0v2zsn49pvidhsxm36njhvw8q9drbhqb91vzcgsv1mqq0mvirna8")))
+
+(define-public crate-filenamegen-0.2.3 (c (n "filenamegen") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1cmih77kfllw8ik63mwzhh2f7m7hrgfvydcgd4kbd2fzfqjb6pys")))
+
+(define-public crate-filenamegen-0.2.4 (c (n "filenamegen") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0slpi2kqiwsq07lzj8vclkcgdnv6zl1x1ashphc96jbhxzlacb8b")))
+
+(define-public crate-filenamegen-0.2.5 (c (n "filenamegen") (v "0.2.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^1.0") (d #t) (k 0)) (d (n "nix") (r "^0.28") (f (quote ("feature"))) (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "tempfile") (r "^3.10") (d #t) (k 2)) (d (n "walkdir") (r "^2.5") (d #t) (k 0)))) (h "0r854nyrw394hg2834f0jd36sqc2cizwjnp8vpqdhqqmbjyshckf")))
+
+(define-public crate-filenamegen-0.2.6 (c (n "filenamegen") (v "0.2.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bstr") (r "^1.0") (d #t) (k 0)) (d (n "nix") (r "^0.28") (f (quote ("feature"))) (d #t) (t "cfg(unix)") (k 2)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "tempfile") (r "^3.10") (d #t) (k 2)) (d (n "walkdir") (r "^2.5") (d #t) (k 0)))) (h "1dla66lcqdqqzxm5fpg1si3p180c3d8bn2k0iz1fgi784ab54h3g")))
+

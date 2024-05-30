@@ -1,0 +1,6 @@
+(define-module (crates-io ji t- jit-spirv) #:use-module (crates-io))
+
+(define-public crate-jit-spirv-0.1.0 (c (n "jit-spirv") (v "0.1.0") (d (list (d (n "jit-spirv-impl") (r "^0.1.0") (d #t) (k 0)) (d (n "naga") (r ">=0.5") (f (quote ("wgsl-in" "spv-out"))) (o #t) (d #t) (k 0)) (d (n "shaderc") (r ">=0.7.2, <=0.8") (o #t) (d #t) (k 0)) (d (n "spirq") (r "^0.6") (d #t) (k 2)))) (h "07mmk8jihyxir8qgm4ykljppc42zjnag66yxxb3hrrbpmwm9d3lr") (f (quote (("wgsl" "naga") ("hlsl" "shaderc") ("glsl" "shaderc") ("default" "glsl" "hlsl") ("build-from-source" "shaderc" "shaderc/build-from-source")))) (s 2) (e (quote (("shaderc" "dep:shaderc" "jit-spirv-impl/shaderc") ("naga" "dep:naga" "jit-spirv-impl/naga"))))))
+
+(define-public crate-jit-spirv-0.1.1 (c (n "jit-spirv") (v "0.1.1") (d (list (d (n "jit-spirv-impl") (r "^0.1.0") (d #t) (k 0)) (d (n "naga") (r ">=0.5") (f (quote ("wgsl-in" "spv-out"))) (o #t) (d #t) (k 0)) (d (n "shaderc") (r ">=0.7.2, <=0.8") (o #t) (d #t) (k 0)) (d (n "spirq") (r "^0.6") (d #t) (k 2)))) (h "1sh9prfx55c0wp82za5x44jafh0navpn7h3r6kvaf862r8wafm13") (f (quote (("wgsl" "naga") ("hlsl" "shaderc") ("glsl" "shaderc") ("default" "glsl" "hlsl" "wgsl") ("build-from-source" "shaderc" "shaderc/build-from-source")))) (s 2) (e (quote (("shaderc" "dep:shaderc" "jit-spirv-impl/shaderc") ("naga" "dep:naga" "jit-spirv-impl/naga"))))))
+

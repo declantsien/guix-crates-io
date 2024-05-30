@@ -1,0 +1,8 @@
+(define-module (crates-io ka na kanami) #:use-module (crates-io))
+
+(define-public crate-kanami-0.1.0 (c (n "kanami") (v "0.1.0") (d (list (d (n "gdk4") (r "^0.7.3") (f (quote ("v4_10"))) (d #t) (k 0)) (d (n "gio") (r "^0.18.3") (d #t) (k 0)) (d (n "glib") (r "^0.18.3") (d #t) (k 0)) (d (n "gtk4") (r "^0.7.3") (f (quote ("v4_10"))) (d #t) (k 0)) (d (n "gtk4-layer-shell") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.191") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.1") (d #t) (k 0)))) (h "091dmkh5z5c0pxc53s82vh3q3frk3slp53x7vz7xyyjnqnb5sldb")))
+
+(define-public crate-kanami-0.1.1 (c (n "kanami") (v "0.1.1") (d (list (d (n "gdk4") (r "^0.7.3") (f (quote ("v4_10"))) (d #t) (k 0)) (d (n "gio") (r "^0.18.3") (d #t) (k 0)) (d (n "glib") (r "^0.18.3") (d #t) (k 0)) (d (n "gtk4") (r "^0.7.3") (f (quote ("v4_10"))) (d #t) (k 0)) (d (n "gtk4-layer-shell") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.191") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.1") (d #t) (k 0)))) (h "07ldx78v7f4s0qhycgnzvnj699xqzxrz1mgvk9zb5b4jjjl4fl37")))
+
+(define-public crate-kanami-0.1.2 (c (n "kanami") (v "0.1.2") (d (list (d (n "gdk4") (r "^0.7.3") (f (quote ("v4_10"))) (d #t) (k 0)) (d (n "gio") (r "^0.18.3") (d #t) (k 0)) (d (n "glib") (r "^0.18.3") (d #t) (k 0)) (d (n "gtk4") (r "^0.7.3") (f (quote ("v4_10"))) (d #t) (k 0)) (d (n "gtk4-layer-shell") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.191") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.1") (d #t) (k 0)))) (h "11i3c11g141bw920q4d6i3s7lf5xvvsy7gfd8sbbclv700d7l9qy")))
+

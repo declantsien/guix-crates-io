@@ -1,0 +1,22 @@
+(define-module (crates-io sc s- scs-sdk-telemetry) #:use-module (crates-io))
+
+(define-public crate-scs-sdk-telemetry-0.1.0 (c (n "scs-sdk-telemetry") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "0ps94cpzp696x6wx1aqssfhsb3bpzavnlsb8fkca9m6533wfjfk2") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.1.1 (c (n "scs-sdk-telemetry") (v "0.1.1") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "1nc92vd6qfaxk6wysisg84ns4qjm4c416zg68q0rysp39hm269ap") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.1.2 (c (n "scs-sdk-telemetry") (v "0.1.2") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "19xqv2017vkrsvkrn7wxmhdxkd41rlmz52hprwxh9pcqf68ajfk1") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.1.3 (c (n "scs-sdk-telemetry") (v "0.1.3") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "0hyfs63qiyi9pg0wnk52pqlzp8b90b6gnjf73zs7z6hz7sirr8x4") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.1.4 (c (n "scs-sdk-telemetry") (v "0.1.4") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "0b64k0araymmkpqh6ky2sz9wgn7a7bzcxgksar9khn7jfzm0yzhk") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.1.5 (c (n "scs-sdk-telemetry") (v "0.1.5") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "0lshr5lwb0azgl7h5fg63ka3x2z732isa52x55swddd4w1wxdvy7") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.1.6 (c (n "scs-sdk-telemetry") (v "0.1.6") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "141v503sn93rfzvn4dxwdgzk73nsymszw65p8ji5x2q054p1l4k9") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-0.2.0 (c (n "scs-sdk-telemetry") (v "0.2.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "1svmsppdlp84fpgyn1ipp0qrv0aaqdg0xjimg5mknf0hhijsmsqw") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-1.0.0 (c (n "scs-sdk-telemetry") (v "1.0.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "0cjbiwr4a4hdcrqyc810w7rgxxdh7b665jslc8ljx0x08jgh7s95") (f (quote (("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-scs-sdk-telemetry-1.1.0 (c (n "scs-sdk-telemetry") (v "1.1.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.51.1") (f (quote ("Win32_System_Memory" "Win32_Foundation"))) (d #t) (k 0)))) (h "1kqx45wpxvmnfcfbfh3k89923b8a9api4rk8qr9g2b481n25sqby") (f (quote (("json" "serde" "serde_json") ("default"))))))
+

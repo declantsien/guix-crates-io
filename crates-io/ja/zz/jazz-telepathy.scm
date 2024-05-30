@@ -1,0 +1,6 @@
+(define-module (crates-io ja zz jazz-telepathy) #:use-module (crates-io))
+
+(define-public crate-jazz-telepathy-0.1.0 (c (n "jazz-telepathy") (v "0.1.0") (d (list (d (n "audi") (r "^0.1.0") (d #t) (k 0)) (d (n "conundrum") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 2)) (d (n "litl") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.6") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "10jx4njvwxhzz1xq0q1lx9rsq473jn9738d6vaqgj2mdz7j4pz4g")))
+
+(define-public crate-jazz-telepathy-0.1.1 (c (n "jazz-telepathy") (v "0.1.1") (d (list (d (n "audi") (r "^0.1.0") (d #t) (k 0)) (d (n "conundrum") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 2)) (d (n "litl") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.6") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "173ll28dcd4qaghzqzjgcw9j2x2wvi85s473hyd8zg82686vfic5")))
+

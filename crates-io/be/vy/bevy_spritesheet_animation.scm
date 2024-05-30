@@ -1,0 +1,8 @@
+(define-module (crates-io be vy bevy_spritesheet_animation) #:use-module (crates-io))
+
+(define-public crate-bevy_spritesheet_animation-0.1.0-beta.0 (c (n "bevy_spritesheet_animation") (v "0.1.0-beta.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bevy") (r "^0.13.1") (f (quote ("bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.13.1") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "visibility") (r "^0.1.0") (d #t) (k 0)))) (h "0n1rgzh42a20z5qnqns1xaz9l43w566w7d821h8aj258k016s711") (f (quote (("integration-tests"))))))
+
+(define-public crate-bevy_spritesheet_animation-0.1.0-beta.1 (c (n "bevy_spritesheet_animation") (v "0.1.0-beta.1") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bevy") (r "^0.13.1") (f (quote ("bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.13.1") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "visibility") (r "^0.1.0") (d #t) (k 0)))) (h "13hfzv14z5rkb20wyg6h8b6d5k5mdyban8j2p1ak6mdcyigcnkjp") (f (quote (("integration-tests"))))))
+
+(define-public crate-bevy_spritesheet_animation-0.1.0 (c (n "bevy_spritesheet_animation") (v "0.1.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "bevy") (r "^0.13.1") (f (quote ("bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.13.1") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "visibility") (r "^0.1.0") (d #t) (k 0)))) (h "116vwayknlpmb6c8lb6cs1yxwnzk16dqr23vbw6p6pbddpip8mk7") (f (quote (("integration-tests"))))))
+

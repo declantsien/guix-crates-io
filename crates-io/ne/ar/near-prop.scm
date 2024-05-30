@@ -1,0 +1,4 @@
+(define-module (crates-io ne ar near-prop) #:use-module (crates-io))
+
+(define-public crate-near-prop-0.1.0 (c (n "near-prop") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (o #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "near-prop-macros") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("sync" "rt" "macros"))) (d #t) (k 0)) (d (n "workspaces") (r "^0.3.1") (f (quote ("unstable"))) (d #t) (k 0)))) (h "1h5l3p9438q451bg20l162iwyic2xid07wj994adky9bslx53q8p") (f (quote (("use_logging" "log" "env_logger") ("regex" "env_logger/regex") ("macros" "near-prop-macros") ("default" "regex" "use_logging"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io sq lx sqlx-conditional-queries-core) #:use-module (crates-io))
+
+(define-public crate-sqlx-conditional-queries-core-0.1.1 (c (n "sqlx-conditional-queries-core") (v "0.1.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "15vj1dh8b7nqbdpzvxbn9d0awyblvhznjb94njimpmd29jznjly9") (f (quote (("sqlite") ("postgres") ("mysql"))))))
+
+(define-public crate-sqlx-conditional-queries-core-0.1.2 (c (n "sqlx-conditional-queries-core") (v "0.1.2") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0iis9inrgwbkvagckczw4by5inqgdzrbc6p3m4li1621wqybpsqf") (f (quote (("sqlite") ("postgres") ("mysql"))))))
+
+(define-public crate-sqlx-conditional-queries-core-0.1.3 (c (n "sqlx-conditional-queries-core") (v "0.1.3") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1l4i0nzyas780s1rzsam96fdaz1gxycrh3ay915q4jlah5vs2gws") (f (quote (("sqlite") ("postgres") ("mysql"))))))
+
+(define-public crate-sqlx-conditional-queries-core-0.1.4 (c (n "sqlx-conditional-queries-core") (v "0.1.4") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1sdc10f94w1klvyl4ckzz1zy4j5bclwzrrrllvm61vxb2z4ngp7j") (f (quote (("sqlite") ("postgres") ("mysql"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io wa _p wa_proto) #:use-module (crates-io))
+
+(define-public crate-wa_proto-0.1.0 (c (n "wa_proto") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (o #t) (k 0)) (d (n "hashbrown") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "rustc-hash") (r "^1.1") (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.2") (o #t) (k 0)))) (h "1mlc6vgcjq72dkkb16cq51f1vc2c5sd0jq2i96h7s2vapz8vz1if") (f (quote (("std" "serde" "bincode" "map" "chrono" "chrono/alloc" "chrono/std" "chrono/clock" "chrono/serde" "time" "time/std" "time/serde") ("no_std" "hashbrown") ("map" "rustc-hash") ("hashmap" "hashbrown") ("default" "std"))))))
+
+(define-public crate-wa_proto-0.1.1 (c (n "wa_proto") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (k 0)) (d (n "hashbrown") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (o #t) (k 0)) (d (n "time") (r "^0.3.2") (k 0)) (d (n "wa_proto_macro") (r "^0.1.2") (d #t) (k 0)))) (h "1av8r0wyyri7r8ir5kg533x9bq5nfs284yvz3c4qx7s8pjxhrwv6") (f (quote (("std" "map" "time/std") ("no_std" "hashbrown") ("map" "rustc-hash") ("hashmap" "hashbrown") ("default" "std"))))))
+
+(define-public crate-wa_proto-0.1.2 (c (n "wa_proto") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (o #t) (k 0)) (d (n "hashbrown") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (o #t) (k 0)) (d (n "time") (r "^0.3.2") (k 0)) (d (n "wa_proto_macro") (r "^0.1.2") (d #t) (k 0)))) (h "17nb7xdnv018nzs3vmq5v7d00nkrqhxwrsng50w1nkn223ik2xkr") (f (quote (("std" "map" "time/std") ("no_std" "hashbrown") ("map" "rustc-hash") ("hashmap" "hashbrown") ("default" "std"))))))
+

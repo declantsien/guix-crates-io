@@ -1,0 +1,4 @@
+(define-module (crates-io ba ff baffao) #:use-module (crates-io))
+
+(define-public crate-baffao-0.0.1 (c (n "baffao") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "axum-extra") (r "^0.9.2") (f (quote ("cookie"))) (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "config") (r "^0.14.0") (d #t) (k 0)) (d (n "cookie") (r "^0.18.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^9.2.0") (d #t) (k 0)) (d (n "oauth2") (r "^4.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (d #t) (k 0)) (d (n "ring") (r "^0.17.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)))) (h "14l8jzl2l4ldg96a8vzcy47188linzysl6a2vspcczf4ir7a3z58")))
+

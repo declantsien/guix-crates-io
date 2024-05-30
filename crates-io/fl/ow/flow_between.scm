@@ -1,0 +1,4 @@
+(define-module (crates-io fl ow flow_between) #:use-module (crates-io))
+
+(define-public crate-flow_between-0.1.0 (c (n "flow_between") (v "0.1.0") (d (list (d (n "flo") (r "^0.1.0") (d #t) (k 0)) (d (n "flo_anim_sqlite") (r "^0.1.0") (d #t) (k 0)) (d (n "flo_animation") (r "^0.1.0") (d #t) (k 0)) (d (n "flo_binding") (r "^0.1.0") (d #t) (k 0)) (d (n "flo_http_ui") (r "^0.1.0") (d #t) (k 0)) (d (n "flo_static_files") (r "^0.1.0") (d #t) (k 0)) (d (n "flo_ui") (r "^0.1.0") (d #t) (k 0)) (d (n "iron") (r "^0.6.0") (d #t) (k 0)) (d (n "mount") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "01w72piv055a3wjnz0xlyvr0j6y5jgp0450c94fhdrwbsw7j7gd5")))
+

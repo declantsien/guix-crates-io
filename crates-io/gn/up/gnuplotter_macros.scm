@@ -1,0 +1,8 @@
+(define-module (crates-io gn up gnuplotter_macros) #:use-module (crates-io))
+
+(define-public crate-gnuplotter_macros-0.1.6-alpha (c (n "gnuplotter_macros") (v "0.1.6-alpha") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "gnuplotter_core") (r "^0.1.6-alpha") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 0)))) (h "112d9yg0g6b5kp49kmg1ljgixi01xvs7plpvjjwxfwa1d9z9qp13") (y #t)))
+
+(define-public crate-gnuplotter_macros-0.2.2-alpha (c (n "gnuplotter_macros") (v "0.2.2-alpha") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "gnuplotter_core") (r "^0.2.2-alpha") (d #t) (k 0)) (d (n "png") (r "^0.17.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("derive" "parsing" "printing" "clone-impls" "extra-traits" "proc-macro" "full"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "196ydhh624740qlf3z7xpx655ahq5byq9k2nwbjw3vyqwzcp4paj")))
+
+(define-public crate-gnuplotter_macros-0.2.3-alpha (c (n "gnuplotter_macros") (v "0.2.3-alpha") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "gnuplotter_core") (r "^0.2.3-alpha") (d #t) (k 0)) (d (n "png") (r "^0.17.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("derive" "parsing" "printing" "clone-impls" "extra-traits" "proc-macro" "full"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "03q2d46g2hb89c75npsbpff8vkzjzl5x9i4f1dm5i4fr7wrjz20k")))
+

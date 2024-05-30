@@ -1,0 +1,10 @@
+(define-module (crates-io vk -m vk-mem-3-erupt) #:use-module (crates-io))
+
+(define-public crate-vk-mem-3-erupt-0.3.0+3.0.1 (c (n "vk-mem-3-erupt") (v "0.3.0+3.0.1") (d (list (d (n "bindgen") (r "^0.60.1") (o #t) (d #t) (k 1)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "erupt") (r "^0.22.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (o #t) (d #t) (k 0)))) (h "0ybxajc7bnwiy6xqk2a3wrrbpm5dviy68s0r807yr1zafh4pwjip") (f (quote (("recording") ("link_vulkan") ("generate_bindings" "bindgen") ("default"))))))
+
+(define-public crate-vk-mem-3-erupt-0.4.0+3.0.1 (c (n "vk-mem-3-erupt") (v "0.4.0+3.0.1") (d (list (d (n "bindgen") (r "^0.61.0") (o #t) (d #t) (k 1)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "erupt") (r "^0.22.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (o #t) (d #t) (k 0)))) (h "1mf6q932in415i6d6ql5ai6v5xsc7bnbmdh8v3vz9qblw48nglhq") (f (quote (("recording") ("link_vulkan") ("generate_bindings" "bindgen") ("default"))))))
+
+(define-public crate-vk-mem-3-erupt-0.5.0+3.0.1 (c (n "vk-mem-3-erupt") (v "0.5.0+3.0.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "erupt") (r "^0.23.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "bindgen") (r "^0.64.0") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)))) (h "14pm8wc44w7x9kz8mq5fm4nzv1kajyn41xnrpskhcw3i6jcq5303") (f (quote (("recording") ("link_vulkan") ("generate_bindings" "bindgen") ("default"))))))
+
+(define-public crate-vk-mem-3-erupt-0.6.0+708428c2-2023-02-02 (c (n "vk-mem-3-erupt") (v "0.6.0+708428c2-2023-02-02") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "erupt") (r "^0.23.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "bindgen") (r "^0.64.0") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)))) (h "0vbsaniiijy3a3wb728dwyalx911lhcp6l832bw1l9v440rgbfbb") (f (quote (("recording") ("link_vulkan") ("generate_bindings" "bindgen") ("default"))))))
+

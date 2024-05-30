@@ -1,0 +1,6 @@
+(define-module (crates-io ho wc howcani) #:use-module (crates-io))
+
+(define-public crate-howcani-0.1.0 (c (n "howcani") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cohere-rust") (r "^0.5.3") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysinfo") (r "^0.30.12") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "05rfbpy1zg0mxb1kvpxz207xhnslr70ycnadlc1m6ha19qa3ywsw")))
+
+(define-public crate-howcani-0.1.1 (c (n "howcani") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cohere-rust") (r "^0.5.3") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysinfo") (r "^0.30.12") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "03rmdgw2wnzg8ncdl820bzc5l11k2dg9xx2n5jzx8rcmkwji6lwj")))
+

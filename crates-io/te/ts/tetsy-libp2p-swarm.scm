@@ -1,0 +1,10 @@
+(define-module (crates-io te ts tetsy-libp2p-swarm) #:use-module (crates-io))
+
+(define-public crate-tetsy-libp2p-swarm-0.0.0 (c (n "tetsy-libp2p-swarm") (v "0.0.0") (h "1grqghkiff0n1zaapadnf0s8lksibxb9fb7kilbw0w2siyppiixy") (y #t)))
+
+(define-public crate-tetsy-libp2p-swarm-0.28.0 (c (n "tetsy-libp2p-swarm") (v "0.28.0") (d (list (d (n "either") (r "^1.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-libp2p-core") (r "^0.27.0") (d #t) (k 0)) (d (n "void") (r "^1") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1pfc0qjqq5mw12ar1fln47bhwqfiv0qw4x67lblmp2s814acwqgm")))
+
+(define-public crate-tetsy-libp2p-swarm-0.27.0 (c (n "tetsy-libp2p-swarm") (v "0.27.0") (d (list (d (n "either") (r "^1.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-libp2p-core") (r "^0.27.0") (d #t) (k 0)) (d (n "void") (r "^1") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1sgl0643k43y3yksg0x522xgd9krwhhgjv64d40d4j0lnrz41943")))
+
+(define-public crate-tetsy-libp2p-swarm-0.27.1 (c (n "tetsy-libp2p-swarm") (v "0.27.1") (d (list (d (n "either") (r "^1.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-libp2p-core") (r "^0.27.1") (d #t) (k 0)) (d (n "void") (r "^1") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1n35ilmh1qp7xxrqfm9payr0pl4i6k6cdwwl6n0rsd86rzj9d72z")))
+

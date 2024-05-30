@@ -1,0 +1,26 @@
+(define-module (crates-io op en openraft-macros) #:use-module (crates-io))
+
+(define-public crate-openraft-macros-0.9.0 (c (n "openraft-macros") (v "0.9.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1xziar71nc60an2dbw6rgm9z8gqpmkg0xjbh52w5iafz06vsw6hn") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.1 (c (n "openraft-macros") (v "0.9.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0q3xfszz488wi8pchjwvfblgiclsyb47idvbrzqq7qhmggb89wy5") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.2 (c (n "openraft-macros") (v "0.9.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0zbs62rqswgs3nkm2c7pcnm00s78z6c1lzbfqr24clvrkpxmpbs1") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.3 (c (n "openraft-macros") (v "0.9.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0904138j19g9bb2g0j697hj01z2wl747hh0f01v6g2kb3mvi4pll") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.4 (c (n "openraft-macros") (v "0.9.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1x8vrm9rc2f7qbzmhjpgy6dk1z4av2l6xhcqb8dq5waqdxi9h6pl") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.5 (c (n "openraft-macros") (v "0.9.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1ls5sdbwwz46150k1byra3cb4z8brq4gz535kxamjwmjv924wlfq") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.6 (c (n "openraft-macros") (v "0.9.6") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "macrotest") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "=1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1978ayykxf1l012i6vi5ssh6ijaxlqrn28cwja4ans3m001cyqbf") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.7 (c (n "openraft-macros") (v "0.9.7") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "macrotest") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r ">=1.0.0, <1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0n03nsbgvim49lhhqvhvhr5wyiicb0g2miwy38f8rczhcha0js64") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.8 (c (n "openraft-macros") (v "0.9.8") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "macrotest") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r ">=1.0.0, <1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1z0py3jsfw8qkjsvfz5ji61mcq6rrhfn9fvpgxv4m2nj62ivnag4") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.9 (c (n "openraft-macros") (v "0.9.9") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "macrotest") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r ">=1.0.0, <1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0ydw308k9ygx26nl7n3nz3dxmwmk0cgybj8lmxjc6di7k73j0bdr") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.10 (c (n "openraft-macros") (v "0.9.10") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "macrotest") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r ">=1.0.0, <1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0xhwlf1cnkvp6g22cmq2vd7vbc6y6kjqskgxgcidy1xz9dq8c3b2") (f (quote (("singlethreaded"))))))
+
+(define-public crate-openraft-macros-0.9.11 (c (n "openraft-macros") (v "0.9.11") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "macrotest") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r ">=1.0.0, <1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "13hcc8pp22w4f7g9003gkmivfypjdghj7np1yy3f0dx6zycbimlb") (f (quote (("singlethreaded"))))))
+

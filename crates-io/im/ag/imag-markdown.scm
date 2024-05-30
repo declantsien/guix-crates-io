@@ -1,0 +1,6 @@
+(define-module (crates-io im ag imag-markdown) #:use-module (crates-io))
+
+(define-public crate-imag-markdown-0.10.0 (c (n "imag-markdown") (v "0.10.0") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagentrymarkdown") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "resiter") (r "^0.4.0") (d #t) (k 0)))) (h "15gmsmp2q523bcngmvlblmq0hywj4azg4hf3zjamzfpjmvp27a91")))
+
+(define-public crate-imag-markdown-0.10.1 (c (n "imag-markdown") (v "0.10.1") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagentrymarkdown") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "resiter") (r "^0.4.0") (d #t) (k 0)))) (h "0f0n5y0gf2sy73ymkyv92zlmi5p93k7siziymcn35vdwvg7y2ixx")))
+

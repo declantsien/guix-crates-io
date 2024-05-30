@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# r rtx) #:use-module (crates-io))
+
+(define-public crate-rtx-0.1.0 (c (n "rtx") (v "0.1.0") (d (list (d (n "async-io") (r "^1.6.0") (o #t) (d #t) (k 0)) (d (n "async-std_") (r "^1.10.0") (o #t) (d #t) (k 0) (p "async-std")) (d (n "futures-core") (r "^0.3.19") (o #t) (d #t) (k 0)) (d (n "futures-io") (r "^0.3.19") (o #t) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.19") (f (quote ("io"))) (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.8") (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio_") (r "^1.15.0") (f (quote ("net" "rt"))) (o #t) (d #t) (k 0) (p "tokio")))) (h "0nfdn9rp8fq47x7q71m9q52m0q193cm1xzbxnbjzsrbfhvzf1yb6") (f (quote (("tokio" "tokio_" "async") ("default") ("blocking") ("async-std" "async-std_" "async" "async-io") ("async" "futures-io" "futures-core" "futures-util"))))))
+

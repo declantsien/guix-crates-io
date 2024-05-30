@@ -1,0 +1,10 @@
+(define-module (crates-io he xt hextree) #:use-module (crates-io))
+
+(define-public crate-hextree-0.1.0 (c (n "hextree") (v "0.1.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 2)) (d (n "h3ron") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "05ssf7bvvxdzwnr3xbxfw7xn0i9xpc9fz60qy3lxvsn37a9wshdl") (f (quote (("serde-support" "h3ron/use-serde" "serde") ("default"))))))
+
+(define-public crate-hextree-0.2.0 (c (n "hextree") (v "0.2.0") (d (list (d (n "bitfield") (r "^0") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 2)) (d (n "h3ron") (r "^0.15.1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "00irhv646zq69fppyyngww58placshw1kpj2jxcszchgzhszqvqa") (f (quote (("serde-support" "serde") ("default"))))))
+
+(define-public crate-hextree-0.3.0 (c (n "hextree") (v "0.3.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 2)) (d (n "h3ron") (r "^0.15.1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "01y5lgljdrxs2lsg12qfykbr8g7l7jimmpsgdnsaialspch8p9rz") (f (quote (("serde-support" "serde") ("default"))))))
+
+(define-public crate-hextree-0.3.1 (c (n "hextree") (v "0.3.1") (d (list (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 2)) (d (n "h3ron") (r "^0.15.1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1dnjkh1f8spfk2zsvbff2y65dyj9xd7qg3rv0g471m5cvfnydjlv") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

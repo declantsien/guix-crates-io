@@ -1,0 +1,6 @@
+(define-module (crates-io rt pl rtplot) #:use-module (crates-io))
+
+(define-public crate-rtplot-0.1.0 (c (n "rtplot") (v "0.1.0") (d (list (d (n "cgmath") (r "^0.17") (d #t) (k 0)) (d (n "glium") (r "^0.22") (d #t) (k 0)) (d (n "glium_text_rusttype") (r "^0.3.2") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1") (d #t) (k 0)) (d (n "lyon") (r "^0.14") (d #t) (k 0)) (d (n "lyon_path") (r "^0.14") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "slice-deque") (r "^0.1") (d #t) (k 0)) (d (n "ttf-noto-sans") (r "^0.1") (d #t) (k 0)))) (h "06hiivq2170wvi69mdi52ni4601bk662f2h8aq8sgxisccmibv1g")))
+
+(define-public crate-rtplot-0.2.0 (c (n "rtplot") (v "0.2.0") (d (list (d (n "cgmath") (r "^0.17") (d #t) (k 0)) (d (n "glium") (r "^0.26.0") (d #t) (k 0)) (d (n "glium_text_rusttype") (r "^0.3.3") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1") (d #t) (k 0)) (d (n "lyon") (r "^0.14") (d #t) (k 0)) (d (n "lyon_path") (r "^0.14") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "rand_distr") (r "^0.2.2") (d #t) (k 2)) (d (n "slice-deque") (r "^0.1") (d #t) (k 0)) (d (n "ttf-noto-sans") (r "^0.1") (d #t) (k 0)))) (h "1riw7rbb94d77fb0hxr61mgnwyd875n6aiw1r8dgs8gaxbpki0ab")))
+

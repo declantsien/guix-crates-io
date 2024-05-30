@@ -1,0 +1,10 @@
+(define-module (crates-io vm em vmem) #:use-module (crates-io))
+
+(define-public crate-vmem-1.0.0-rc1 (c (n "vmem") (v "1.0.0-rc1") (d (list (d (n "portable-atomic") (r "^1") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (k 0)) (d (n "spin") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1ml8m9xnpzfiwbxx5hd4zzjpb8fy4aqa3qsi8ig0645my2ksnhpf") (f (quote (("std") ("nightly") ("default" "nightly")))) (s 2) (e (quote (("spin" "dep:spin"))))))
+
+(define-public crate-vmem-1.0.0-rc2 (c (n "vmem") (v "1.0.0-rc2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "clap-num") (r "^1") (d #t) (k 2)) (d (n "linefeed") (r "^0.6") (d #t) (k 2)) (d (n "portable-atomic") (r "^1") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (k 0)) (d (n "spin") (r "^0.9") (o #t) (d #t) (k 0)))) (h "148p623s64j11q5n16h0hs0nd4djd0q1m58wjbc3ivl3n9ycg26w") (f (quote (("std") ("nightly") ("default" "nightly")))) (s 2) (e (quote (("spin" "dep:spin"))))))
+
+(define-public crate-vmem-1.0.0-rc3 (c (n "vmem") (v "1.0.0-rc3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "clap-num") (r "^1") (d #t) (k 2)) (d (n "linefeed") (r "^0.6") (d #t) (k 2)) (d (n "portable-atomic") (r "^1") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (k 0)) (d (n "spin") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1y8z487a9ndj55114n5h4mjdjnm2qqxbchiiyahbb7829rb8ryyk") (f (quote (("std") ("nightly") ("default" "nightly")))) (s 2) (e (quote (("spin" "dep:spin"))))))
+
+(define-public crate-vmem-1.0.0 (c (n "vmem") (v "1.0.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "clap-num") (r "^1") (d #t) (k 2)) (d (n "linefeed") (r "^0.6") (d #t) (k 2)) (d (n "portable-atomic") (r "^1") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (k 0)) (d (n "spin") (r "^0.9") (o #t) (d #t) (k 0)))) (h "0sxpvhj1k6v6nxvb441kq51l32hd112awn1hcv95kbln7x4fjs2g") (f (quote (("std") ("nightly") ("default" "nightly")))) (s 2) (e (quote (("spin" "dep:spin"))))))
+

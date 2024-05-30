@@ -1,0 +1,4 @@
+(define-module (crates-io ku be kube-query-tools) #:use-module (crates-io))
+
+(define-public crate-kube-query-tools-0.1.0 (c (n "kube-query-tools") (v "0.1.0") (d (list (d (n "data-query") (r "^0.1.6") (f (quote ("jq"))) (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.14.0") (f (quote ("v1_22"))) (k 0)) (d (n "kube") (r "^0.71") (f (quote ("runtime" "derive" "admission"))) (d #t) (k 0)) (d (n "kube-core") (r "^0.71") (d #t) (k 0)) (d (n "kube-resource-extras") (r "^0.1.1") (f (quote ("istio"))) (d #t) (k 0)) (d (n "railsgun") (r "^1.0.3") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (f (quote ("use_std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.24") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("rt"))) (d #t) (k 2)))) (h "0wa45xw73axj00y1fb51qmckw1ka7hnxzsz18cik3wqv7slrhnhb")))
+

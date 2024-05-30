@@ -1,0 +1,10 @@
+(define-module (crates-io al in aline) #:use-module (crates-io))
+
+(define-public crate-aline-0.1.0 (c (n "aline") (v "0.1.0") (d (list (d (n "approx_v05") (r "^0.5.1") (o #t) (k 0) (p "approx")) (d (n "rstest") (r "^0.18.2") (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)))) (h "0r65knn1iwrkm3d4ymrjca6n3fcgsyl616hk5m93vfxr0i2v5b7w") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("approx_v05" "dep:approx_v05")))) (r "1.74")))
+
+(define-public crate-aline-0.1.1 (c (n "aline") (v "0.1.1") (d (list (d (n "approx_v05") (r "^0.5.1") (o #t) (k 0) (p "approx")) (d (n "rstest") (r "^0.18.2") (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)))) (h "113pr53s1xfi9snjddr3mfi4qyy5bnfnx4l3ly71g9fqvs2brvrd") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("approx_v05" "dep:approx_v05")))) (r "1.74")))
+
+(define-public crate-aline-0.1.2 (c (n "aline") (v "0.1.2") (d (list (d (n "approx_v05") (r "^0.5.1") (o #t) (k 0) (p "approx")) (d (n "rstest") (r "^0.18.2") (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)))) (h "1wrbw3x5fw7638gscxinjk57ppb4m9yaljv285b3872czjvgakk6") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("approx_v05" "dep:approx_v05")))) (r "1.74")))
+
+(define-public crate-aline-0.1.3 (c (n "aline") (v "0.1.3") (d (list (d (n "approx_v05") (r "^0.5.1") (o #t) (k 0) (p "approx")) (d (n "approx_v05") (r "^0.5.1") (k 2) (p "approx")) (d (n "libm") (r "^0.2.8") (o #t) (k 0)) (d (n "rstest") (r "^0.18.2") (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)))) (h "1862bnidgwwm22k4cpprq5f03lzmwgc8ff9f1clmb7mr32wcybfx") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("libm" "dep:libm") ("approx_v05" "dep:approx_v05")))) (r "1.74")))
+

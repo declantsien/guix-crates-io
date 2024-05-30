@@ -1,0 +1,8 @@
+(define-module (crates-io fi re firewire-bebob-protocols) #:use-module (crates-io))
+
+(define-public crate-firewire-bebob-protocols-0.1.0 (c (n "firewire-bebob-protocols") (v "0.1.0") (d (list (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "hinawa") (r "^0.7") (d #t) (k 0)) (d (n "ta1394-avc-audio") (r "^0.1") (d #t) (k 0)) (d (n "ta1394-avc-ccm") (r "^0.1") (d #t) (k 0)) (d (n "ta1394-avc-general") (r "^0.1") (d #t) (k 0)) (d (n "ta1394-avc-stream-format") (r "^0.1") (d #t) (k 0)))) (h "1a7rc4ryks0yx3ljbzxbgjdbwjp5ln8r9264gmv3h918mb2vgpz2") (y #t)))
+
+(define-public crate-firewire-bebob-protocols-0.1.1 (c (n "firewire-bebob-protocols") (v "0.1.1") (d (list (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "hinawa") (r "^0.7") (d #t) (k 0)) (d (n "ta1394-avc-audio") (r "^0.1") (d #t) (k 0)) (d (n "ta1394-avc-ccm") (r "^0.1") (d #t) (k 0)) (d (n "ta1394-avc-general") (r "^0.1") (d #t) (k 0)) (d (n "ta1394-avc-stream-format") (r "^0.1") (d #t) (k 0)))) (h "00wvsxzhh0ws15ydb1qcwz3l5ap35j85nwjkgw9d6sgq8cy0ljav") (f (quote (("dox" "glib/dox" "hinawa/dox"))))))
+
+(define-public crate-firewire-bebob-protocols-0.2.0 (c (n "firewire-bebob-protocols") (v "0.2.0") (d (list (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "hinawa") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "ta1394-avc-audio") (r "^0.2") (d #t) (k 0)) (d (n "ta1394-avc-ccm") (r "^0.2") (d #t) (k 0)) (d (n "ta1394-avc-general") (r "^0.2") (d #t) (k 0)) (d (n "ta1394-avc-stream-format") (r "^0.2") (d #t) (k 0)))) (h "09wzls4359b3l5p0xqa2fmgnn6a37s2aa007gmva6ysp2l7kknqy") (f (quote (("dox" "glib/dox" "hinawa/dox"))))))
+

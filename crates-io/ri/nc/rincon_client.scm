@@ -1,0 +1,6 @@
+(define-module (crates-io ri nc rincon_client) #:use-module (crates-io))
+
+(define-public crate-rincon_client-0.1.0 (c (n "rincon_client") (v "0.1.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 2)) (d (n "rincon_connector") (r "^0.1") (d #t) (k 2)) (d (n "rincon_core") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "09kpq6dmavnnqghdakpqjm39h1cxcya45fzk7r20p3klnyjay5s1") (f (quote (("rocksdb") ("mmfiles") ("enterprise") ("default") ("cluster"))))))
+
+(define-public crate-rincon_client-0.1.1 (c (n "rincon_client") (v "0.1.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 2)) (d (n "rincon_connector") (r "^0.1") (d #t) (k 2)) (d (n "rincon_core") (r "^0.1") (d #t) (k 0)) (d (n "rincon_test_helper") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1naip5w5n7c21m395kkbhcg8vdg2sx35bgv7jfsiijx2fizcd6x1") (f (quote (("rocksdb") ("mmfiles") ("enterprise") ("default") ("cluster"))))))
+

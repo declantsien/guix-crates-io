@@ -1,0 +1,6 @@
+(define-module (crates-io bt se btsensor) #:use-module (crates-io))
+
+(define-public crate-btsensor-0.1.0 (c (n "btsensor") (v "0.1.0") (d (list (d (n "bluez-async") (r "^0.7.1") (d #t) (k 2)) (d (n "eyre") (r "^0.6.8") (d #t) (k 2)) (d (n "futures") (r "^0.3.27") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.4.1") (d #t) (k 0)))) (h "1dhkx9hirxdq3qw88chx0y1c5vb1gyy9bag7w095bagwh5iwh752")))
+
+(define-public crate-btsensor-0.1.1 (c (n "btsensor") (v "0.1.1") (d (list (d (n "bluez-async") (r "^0.7.1") (d #t) (k 2)) (d (n "eyre") (r "^0.6.12") (d #t) (k 2)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.8.0") (d #t) (k 0)))) (h "18nri9s6zgwv263w8amg1gm5kzvicglrylx082q5765lbmm97abh")))
+

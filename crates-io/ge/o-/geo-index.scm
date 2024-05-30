@@ -1,0 +1,6 @@
+(define-module (crates-io ge o- geo-index) #:use-module (crates-io))
+
+(define-public crate-geo-index-0.1.0 (c (n "geo-index") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "float_next_after") (r "^1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (o #t) (d #t) (k 0)) (d (n "rstar") (r "^0.11") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tinyvec") (r "^1") (f (quote ("alloc" "rustc_1_40"))) (d #t) (k 0)))) (h "0jaw86x3kl7x7hkmjmdwv0hqjsxjpic1ih9f6pkli8rspv63cykm") (r "1.75")))
+
+(define-public crate-geo-index-0.1.1 (c (n "geo-index") (v "0.1.1") (d (list (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "float_next_after") (r "^1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (o #t) (d #t) (k 0)) (d (n "rstar") (r "^0.11") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tinyvec") (r "^1") (f (quote ("alloc" "rustc_1_40"))) (d #t) (k 0)))) (h "03n2q931wdaz678j63qhaxsmj5i2czivh29ajgkxpnhy993dg3c1") (r "1.75")))
+

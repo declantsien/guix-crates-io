@@ -1,0 +1,12 @@
+(define-module (crates-io qu il quill_delta_pdf) #:use-module (crates-io))
+
+(define-public crate-quill_delta_pdf-0.1.0 (c (n "quill_delta_pdf") (v "0.1.0") (d (list (d (n "genpdf") (r "^0.2.0") (f (quote ("images"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1v7r18qb7wr7l9nv0zq7wk92bh11473q563c05hgp3qr9jad1na6")))
+
+(define-public crate-quill_delta_pdf-0.1.1 (c (n "quill_delta_pdf") (v "0.1.1") (d (list (d (n "genpdf") (r "^0.2.0") (f (quote ("images"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1x5d0ny41b5pfzd4bjz04jsd1in5asrq95ilz9nssjr02h80bhaa")))
+
+(define-public crate-quill_delta_pdf-0.1.2 (c (n "quill_delta_pdf") (v "0.1.2") (d (list (d (n "genpdf") (r "^0.2.0") (f (quote ("images"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1wjas261nc3x5yxdhxyizcnvg8ga916q1h0cfwccv7gn2l8507av")))
+
+(define-public crate-quill_delta_pdf-0.1.3 (c (n "quill_delta_pdf") (v "0.1.3") (d (list (d (n "genpdf") (r "^0.2.0") (f (quote ("images"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1bnkv9p3w4n3a6w2mcs900mc6s7hk675bvp6fkpby8agcl6hqsvm")))
+
+(define-public crate-quill_delta_pdf-0.1.4 (c (n "quill_delta_pdf") (v "0.1.4") (d (list (d (n "genpdf") (r "^0.2.0") (f (quote ("images"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0a0b7bzmd18bdl6h314anjsr2fi4lpb9rw5587w0qzfgxnc3mdsy")))
+

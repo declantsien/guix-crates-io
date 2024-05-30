@@ -1,0 +1,6 @@
+(define-module (crates-io s3 _s s3_search) #:use-module (crates-io))
+
+(define-public crate-s3_search-0.1.0 (c (n "s3_search") (v "0.1.0") (d (list (d (n "aws-config") (r "^0.55.2") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.27.0") (d #t) (k 0)) (d (n "aws-types") (r "^0.55.2") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cursive") (r "^0.20.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "envconfig") (r "^0.10.0") (d #t) (k 0)) (d (n "envconfig_derive") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1msb7rifpkvn029n32r22lbcxmzv5by459jqpbrwhsjq77fmjwl1")))
+
+(define-public crate-s3_search-1.0.0 (c (n "s3_search") (v "1.0.0") (d (list (d (n "aws-config") (r "^0.55.2") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.27.0") (d #t) (k 0)) (d (n "aws-types") (r "^0.55.2") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "envconfig") (r "^0.10.0") (d #t) (k 0)) (d (n "envconfig_derive") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1ryy5bd1pxfmkwf2zcrijlayl2zmby1kpird09iv5i9bpklydpkn")))
+

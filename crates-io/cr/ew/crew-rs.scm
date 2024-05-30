@@ -1,0 +1,4 @@
+(define-module (crates-io cr ew crew-rs) #:use-module (crates-io))
+
+(define-public crate-crew-rs-0.1.0 (c (n "crew-rs") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "audi") (r "^0.3.0") (d #t) (k 0)) (d (n "endr") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "litl") (r "^0.6.0") (d #t) (k 0)) (d (n "mofo") (r "^0.2.2") (d #t) (k 0)) (d (n "objt") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "ridl") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "ti64") (r "^0.1.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)))) (h "02hdfr909lic1wlv8rr11ahnqq7zjsfz57bkag7qsygckvsl62ah")))
+

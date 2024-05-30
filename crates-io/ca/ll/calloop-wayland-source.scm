@@ -1,0 +1,8 @@
+(define-module (crates-io ca ll calloop-wayland-source) #:use-module (crates-io))
+
+(define-public crate-calloop-wayland-source-0.1.0 (c (n "calloop-wayland-source") (v "0.1.0") (d (list (d (n "calloop") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.4") (f (quote ("std"))) (k 0)) (d (n "wayland-backend") (r "^0.1.0") (d #t) (k 0)) (d (n "wayland-client") (r "^0.30.2") (d #t) (k 0)))) (h "19v14c7ddya2x2a3qrkjm84439f8v2rg27wvjs423b0lg25snl35") (r "1.65.0")))
+
+(define-public crate-calloop-wayland-source-0.2.0 (c (n "calloop-wayland-source") (v "0.2.0") (d (list (d (n "calloop") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.4") (f (quote ("std"))) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "wayland-backend") (r "^0.3.0") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.1") (d #t) (k 0)) (d (n "wayland-protocols") (r "^0.31.0") (f (quote ("client"))) (d #t) (k 2)))) (h "00lgxlqnkd150ylfn3wi4464ibif1qwbp38shj1aszvc8ywsj3hg") (r "1.65.0")))
+
+(define-public crate-calloop-wayland-source-0.3.0 (c (n "calloop-wayland-source") (v "0.3.0") (d (list (d (n "calloop") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.4") (f (quote ("std"))) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "wayland-backend") (r "^0.3.0") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.1") (d #t) (k 0)) (d (n "wayland-protocols") (r "^0.31.0") (f (quote ("client"))) (d #t) (k 2)))) (h "086x5mq16prrcwd9k6bw9an0sp8bj9l5daz4ziz5z4snf2c6m9lm") (r "1.65.0")))
+

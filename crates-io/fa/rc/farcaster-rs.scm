@@ -1,0 +1,26 @@
+(define-module (crates-io fa rc farcaster-rs) #:use-module (crates-io))
+
+(define-public crate-farcaster-rs-0.1.0-beta.1 (c (n "farcaster-rs") (v "0.1.0-beta.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "1mjrm7hraahg638ka5rxm1fvng51aryq866lilm5c6mqxk73hk28")))
+
+(define-public crate-farcaster-rs-0.1.0-beta.2 (c (n "farcaster-rs") (v "0.1.0-beta.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "1alsx7vr0m9md7fjjknbys3wnfpf49cgk40z1zidgmgz4a34gadh")))
+
+(define-public crate-farcaster-rs-0.1.0-beta.3 (c (n "farcaster-rs") (v "0.1.0-beta.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "1v6dpbp2pxbrbnm66a5646p8xc7my0ksqd03z7rjlg4vd80vhk2d")))
+
+(define-public crate-farcaster-rs-0.1.0-pre.1 (c (n "farcaster-rs") (v "0.1.0-pre.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "0z05z8hnk41vcnl4b2q73sq7harlp1kba0bfz79yvxxydsvhm14w") (y #t)))
+
+(define-public crate-farcaster-rs-0.1.0-pre.2 (c (n "farcaster-rs") (v "0.1.0-pre.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "0pk4mh8m0agw1fqdg021jf97azwszrja5axjblb0byrwg7qcaxln")))
+
+(define-public crate-farcaster-rs-0.1.0-pre.3 (c (n "farcaster-rs") (v "0.1.0-pre.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "044fpb1f34k9c5xi7f5z4mcm031sdy1rjgbbcv4mv9rll8mpyrq0")))
+
+(define-public crate-farcaster-rs-0.1.0-pre.4 (c (n "farcaster-rs") (v "0.1.0-pre.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "0456m7fiw1kfgla0d6nn8w2lf71nd0fcv9cqf7gj3kmb2x63gws8")))
+
+(define-public crate-farcaster-rs-0.1.0-pre.5 (c (n "farcaster-rs") (v "0.1.0-pre.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "1cgg2xbywr9yzb7brwlhk0rgwlgwaj06i1s5n0zdicdyxl32w5qg")))
+
+(define-public crate-farcaster-rs-0.1.0-pre.6 (c (n "farcaster-rs") (v "0.1.0-pre.6") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "01p9sfv9xfjn9c9cm2pgfyi0vsdk35hjnmkrs968i0fiaapwwxkw")))
+
+(define-public crate-farcaster-rs-0.1.0 (c (n "farcaster-rs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1lr82x25gzczy4rz1wvkdj3lqdx14wach4n3gq78r6a4mw6v6zs2")))
+
+(define-public crate-farcaster-rs-1.0.0 (c (n "farcaster-rs") (v "1.0.0") (d (list (d (n "base64") (r "^0.13.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "167q4m6w8q6z4cfl4r5px2rw0q3gavqik3jznpgdmnqc89ff37jz")))
+
+(define-public crate-farcaster-rs-1.0.1 (c (n "farcaster-rs") (v "1.0.1") (d (list (d (n "base64") (r "^0.13.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ethers") (r "^1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "17j837qhf080w4fgk9j219868w4q6nyrrqpjgs78ml34ygpq6pbk")))
+

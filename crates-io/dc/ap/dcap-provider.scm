@@ -1,0 +1,14 @@
+(define-module (crates-io dc ap dcap-provider) #:use-module (crates-io))
+
+(define-public crate-dcap-provider-0.0.0 (c (n "dcap-provider") (v "0.0.0") (h "19nad4h30z9gf74264zpp3ls5bcrzs25s7nx0jbaalbjnbfagx5f")))
+
+(define-public crate-dcap-provider-0.1.0 (c (n "dcap-provider") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "dcap-ql") (r "^0.1.0") (f (quote ("link"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "report-test") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)))) (h "03i1knhbfy8ic1cpxdgym5i5sy986ncvccpa5914spy64k74pcj8")))
+
+(define-public crate-dcap-provider-0.2.0 (c (n "dcap-provider") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "dcap-ql") (r "^0.2.0") (f (quote ("link"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "report-test") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)))) (h "0hxxn6xf0wc3azic637brvcp0cdsp4x4d7gdhf8rcrffmwrqisg2")))
+
+(define-public crate-dcap-provider-0.3.0 (c (n "dcap-provider") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "dcap-ql") (r "^0.2.0") (f (quote ("link"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "report-test") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)))) (h "18w8z4d9b4bydfqbfbx32q418qdsbaahl7a6rb2y65nm71zfalsn")))
+
+(define-public crate-dcap-provider-0.3.1 (c (n "dcap-provider") (v "0.3.1") (d (list (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "dcap-ql") (r "^0.3.0") (f (quote ("link"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "report-test") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)))) (h "0gqjq4p42n540v5as3326h60kr17r1ajh9sl4cvdkdlm37cbvk30")))
+
+(define-public crate-dcap-provider-0.4.0 (c (n "dcap-provider") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "dcap-ql") (r "^0.4.0") (f (quote ("link"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "report-test") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)))) (h "1xhzpm8s0ga94pz55p8570yhsi5rxa61xxa34s8lpgzmr8fhc55r")))
+

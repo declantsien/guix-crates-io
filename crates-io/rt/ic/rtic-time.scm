@@ -1,0 +1,16 @@
+(define-module (crates-io rt ic rtic-time) #:use-module (crates-io))
+
+(define-public crate-rtic-time-1.0.0-alpha.0 (c (n "rtic-time") (v "1.0.0-alpha.0") (d (list (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "rtic-common") (r "^1.0.0-alpha.0") (d #t) (k 0)))) (h "0ynmw9xrjz88di2mnyhpdf8bhlcs0r6y09sysnnc6yx43izgbx8l")))
+
+(define-public crate-rtic-time-1.0.0-alpha.1 (c (n "rtic-time") (v "1.0.0-alpha.1") (d (list (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "rtic-common") (r "^1.0.0-alpha.0") (d #t) (k 0)))) (h "0p4hxy2pqdcc086xjvicnp0ri85gcqrr9xa5j9bhi7z5k3qdsxw5")))
+
+(define-public crate-rtic-time-1.0.0 (c (n "rtic-time") (v "1.0.0") (d (list (d (n "cassette") (r "^0.2") (d #t) (k 2)) (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "rtic-common") (r "^1.0.0") (d #t) (k 0)))) (h "1lsblvhzyww7mw1y9973bv3kbc5xk0ia2w1br8p54cmd6zx7q4jm")))
+
+(define-public crate-rtic-time-1.1.0 (c (n "rtic-time") (v "1.1.0") (d (list (d (n "cassette") (r "^0.2") (d #t) (k 2)) (d (n "cooked-waker") (r "^5.0.0") (d #t) (k 2)) (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-rc.2") (d #t) (k 2)) (d (n "embedded-hal-async") (r "^1.0.0-rc.2") (d #t) (k 2)) (d (n "fugit") (r "^0.3.7") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "rtic-common") (r "^1.0.0") (d #t) (k 0)))) (h "0m3f5xm08r3ariy1nqx22g8akrsnx5kp7ynhz1pbfn6rnp7halmc") (y #t)))
+
+(define-public crate-rtic-time-1.2.0 (c (n "rtic-time") (v "1.2.0") (d (list (d (n "cassette") (r "^0.2") (d #t) (k 2)) (d (n "cooked-waker") (r "^5.0.0") (d #t) (k 2)) (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-rc.2") (d #t) (k 2)) (d (n "embedded-hal-async") (r "^1.0.0-rc.2") (d #t) (k 2)) (d (n "fugit") (r "^0.3.7") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "rtic-common") (r "^1.0.0") (d #t) (k 0)))) (h "1ashfqmza4xy1ap39qxi0k2b1122zdshp5lmmw4f6l49hbqa1wq2")))
+
+(define-public crate-rtic-time-1.3.0 (c (n "rtic-time") (v "1.3.0") (d (list (d (n "cassette") (r "^0.2") (d #t) (k 2)) (d (n "cooked-waker") (r "^5.0.0") (d #t) (k 2)) (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0") (d #t) (k 2)) (d (n "embedded-hal-async") (r "^1.0") (d #t) (k 2)) (d (n "fugit") (r "^0.3.7") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "rtic-common") (r "^1.0.0") (d #t) (k 0)))) (h "068gzp6n2mhadm08smm4m6n10ykjq95idp8wm3z5q15wmvkk5ckm")))
+
+(define-public crate-rtic-time-2.0.0 (c (n "rtic-time") (v "2.0.0") (d (list (d (n "cassette") (r "^0.3") (d #t) (k 2)) (d (n "cooked-waker") (r "^5.0.0") (d #t) (k 2)) (d (n "critical-section") (r "^1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (d #t) (k 0)) (d (n "fugit") (r "^0.3.7") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "rtic-common") (r "^1.0.0") (d #t) (k 0)))) (h "054nrspcka6gd0amni8y48hd98370m8y8k21jmb15p2hz99xicd7")))
+

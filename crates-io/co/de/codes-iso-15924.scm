@@ -1,0 +1,10 @@
+(define-module (crates-io co de codes-iso-15924) #:use-module (crates-io))
+
+(define-public crate-codes-iso-15924-0.1.0 (c (n "codes-iso-15924") (v "0.1.0") (d (list (d (n "codes-agency") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "03d0g3rp32c504550yh4m4ns1y4c2r3pnm6lncnr1sbiq01xk4l5") (f (quote (("default" "serde"))))))
+
+(define-public crate-codes-iso-15924-0.1.1 (c (n "codes-iso-15924") (v "0.1.1") (d (list (d (n "codes-agency") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "056anzklmjkqxq1wl3da9100byflhqahrv6yia9f5wjgp8fss2f3") (f (quote (("default" "serde"))))))
+
+(define-public crate-codes-iso-15924-0.1.2 (c (n "codes-iso-15924") (v "0.1.2") (d (list (d (n "codes-agency") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "16m0b6y24vvsi72m1py1j6s1nr3h91y36liwrin1vab664pkzkpb") (f (quote (("default" "serde"))))))
+
+(define-public crate-codes-iso-15924-0.1.3 (c (n "codes-iso-15924") (v "0.1.3") (d (list (d (n "codes-agency") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "10s7c46brmryhs9550b04b5jxb453dd0rrd0bcy19ym19n04m419") (f (quote (("default" "serde"))))))
+

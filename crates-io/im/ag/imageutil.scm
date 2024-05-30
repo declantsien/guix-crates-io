@@ -1,0 +1,12 @@
+(define-module (crates-io im ag imageutil) #:use-module (crates-io))
+
+(define-public crate-imageutil-0.0.1 (c (n "imageutil") (v "0.0.1") (d (list (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 0)))) (h "1zz4cxrj4jv145q9rw3miqv1znar13ahgacxz1jh2243k6nj873w")))
+
+(define-public crate-imageutil-0.0.2 (c (n "imageutil") (v "0.0.2") (d (list (d (n "image") (r "^0.24.7") (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 2)) (d (n "rusttype") (r "^0.9.3") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "132pjalq6sd4ddxcqh1zbkj23r9b9r62wfdbs59fm5py0sini5fx") (f (quote (("util") ("gradient" "util") ("default" "gradient" "text" "util")))) (s 2) (e (quote (("text" "dep:rusttype" "util"))))))
+
+(define-public crate-imageutil-0.0.3 (c (n "imageutil") (v "0.0.3") (d (list (d (n "image") (r "^0.24.7") (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 2)) (d (n "rusttype") (r "^0.9.3") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0bfd587np65f6741a4nx31gxg9rx74fsnrmcbyn67654aa6xih2j") (f (quote (("util") ("gradient" "util") ("default" "gradient" "text" "util")))) (s 2) (e (quote (("text" "dep:rusttype" "util"))))))
+
+(define-public crate-imageutil-0.0.4 (c (n "imageutil") (v "0.0.4") (d (list (d (n "image") (r "^0.24.7") (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 2)) (d (n "rusttype") (r "^0.9.3") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "06q65zz5jlx67556l0x5z9dagigxg4fxkf51pqipg41627a216al") (f (quote (("util") ("gradient" "util") ("default" "gradient" "text" "util")))) (s 2) (e (quote (("text" "dep:rusttype" "util"))))))
+
+(define-public crate-imageutil-0.0.5 (c (n "imageutil") (v "0.0.5") (d (list (d (n "image") (r "^0.24.7") (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 2)) (d (n "rusttype") (r "^0.9.3") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1xvvj88rpkan8zzjq7ch5j0cga41dl6lgrm77rv9bbhz2698cj55") (f (quote (("util") ("gradient" "util") ("default" "gradient" "text" "util")))) (s 2) (e (quote (("text" "dep:rusttype" "util"))))))
+

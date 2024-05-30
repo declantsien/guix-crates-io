@@ -1,0 +1,6 @@
+(define-module (crates-io sy mo symo) #:use-module (crates-io))
+
+(define-public crate-symo-0.1.0 (c (n "symo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "interfaces") (r "^0.0.8") (d #t) (k 0)) (d (n "jail") (r "^0.2.0") (d #t) (k 0)) (d (n "kqueue") (r "^1.0.6") (d #t) (k 0)) (d (n "libzetta") (r "^0.3.1") (d #t) (k 0)) (d (n "nix") (r "^0.24.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysctl") (r "^0.4.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "x11") (r "^2.19.1") (d #t) (k 0)))) (h "1vjair50yg2a19fh0j4xv26464jcx43b1s27v7jy68y0fvs9ya17")))
+
+(define-public crate-symo-0.1.1 (c (n "symo") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "interfaces") (r "^0.0.8") (d #t) (k 0)) (d (n "jail") (r "^0.2.0") (d #t) (k 0)) (d (n "kqueue") (r "^1.0.6") (d #t) (k 0)) (d (n "libzetta") (r "^0.3.1") (d #t) (k 0)) (d (n "nix") (r "^0.24.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysctl") (r "^0.4.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "x11") (r "^2.19.1") (d #t) (k 0)))) (h "0girssf50rqpg50f407pm3j78d4mkh09y5gza1vcn2zi779vvpd2")))
+

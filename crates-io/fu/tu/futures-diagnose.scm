@@ -1,0 +1,8 @@
+(define-module (crates-io fu tu futures-diagnose) #:use-module (crates-io))
+
+(define-public crate-futures-diagnose-0.1.0 (c (n "futures-diagnose") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "1cmpivybdhc34nzl5vhfpxfbyidivbp7syicqggas8rdjx1a1ny5")))
+
+(define-public crate-futures-diagnose-1.0.0 (c (n "futures-diagnose") (v "1.0.0") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "0wbjvn94qxamc9v7nf1jc0hzx0pxfaimi15amsi7ms3fvmqq7fzb")))
+
+(define-public crate-futures-diagnose-1.0.1 (c (n "futures-diagnose") (v "1.0.1") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "1a9lhsflz2bk81wvbxxgpjnpa215sprck116325i9y1s2y5gbkpx")))
+

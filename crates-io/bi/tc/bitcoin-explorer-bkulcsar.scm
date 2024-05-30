@@ -1,0 +1,4 @@
+(define-module (crates-io bi tc bitcoin-explorer-bkulcsar) #:use-module (crates-io))
+
+(define-public crate-bitcoin-explorer-bkulcsar-1.2.19 (c (n "bitcoin-explorer-bkulcsar") (v "1.2.19") (d (list (d (n "bitcoin") (r "^0.27") (f (quote ("use-serde"))) (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "db-key") (r "=0.0.5") (d #t) (k 0)) (d (n "hash_hasher") (r "^2.0.3") (d #t) (k 0)) (d (n "leveldb") (r "=0.8.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "par-iter-sync") (r "^0.1.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "rocksdb") (r "^0.17.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (o #t) (d #t) (k 0)))) (h "0vlh1pdqqsxla144pgdfbdwildraa0wj2x8xzdiml5adb03yxgqc") (f (quote (("on-disk-utxo" "rocksdb" "tempdir") ("default" "on-disk-utxo"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ou ch ouch_bindings_python) #:use-module (crates-io))
+
+(define-public crate-ouch_bindings_python-5.0.1 (c (n "ouch_bindings_python") (v "5.0.1") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "links_bindings_python") (r "^0.2") (d #t) (k 0)) (d (n "links_nonblocking") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ouch_connect_nonblocking") (r "~5.0.1") (f (quote ("unittest"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20") (f (quote ("multiple-pymethods" "abi3" "abi3-py310"))) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20") (d #t) (k 1)) (d (n "pyo3-log") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "spin") (r "^0.9") (d #t) (k 0)))) (h "1anm6p1bgd0vdjpj4wfr2rn0h1qk1fgixxigfyd55ys10ywf5gig") (r "1.69")))
+

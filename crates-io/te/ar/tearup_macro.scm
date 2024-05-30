@@ -1,0 +1,8 @@
+(define-module (crates-io te ar tearup_macro) #:use-module (crates-io))
+
+(define-public crate-tearup_macro-0.1.0 (c (n "tearup_macro") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 2)) (d (n "macrotest") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "06974xla52qv7qyv2fl62m08axfdvmqav92sgdizdh8fs9788ksp") (y #t)))
+
+(define-public crate-tearup_macro-0.2.0 (c (n "tearup_macro") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 2)) (d (n "macrotest") (r "^1.0") (d #t) (k 2)) (d (n "tearup") (r "^0.1") (d #t) (k 2)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0yyncd4bf8vfam8d5yx8a3hniskxlrspi7598waf6ym5cys4mqs6") (f (quote (("async")))) (y #t)))
+
+(define-public crate-tearup_macro-0.3.0 (c (n "tearup_macro") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 2)) (d (n "macrotest") (r "^1.0") (d #t) (k 2)) (d (n "tearup") (r "^0.2.0") (d #t) (k 2)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1gh0b7i5pmf0vdkk56ividyaqagrh54msd147c1njmbp889xhzky") (f (quote (("async"))))))
+

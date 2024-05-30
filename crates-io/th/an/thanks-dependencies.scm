@@ -1,0 +1,8 @@
+(define-module (crates-io th an thanks-dependencies) #:use-module (crates-io))
+
+(define-public crate-thanks-dependencies-0.1.0 (c (n "thanks-dependencies") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.14.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)))) (h "0hay49l7hzbr3i0rp9jzdras7hazlzdrfb4ddkvygp1b2jr4bx03") (f (quote (("default" "crates_io") ("crates_io"))))))
+
+(define-public crate-thanks-dependencies-0.1.1 (c (n "thanks-dependencies") (v "0.1.1") (d (list (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.14.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)))) (h "193jc7cqi0zyrl1dv2bl5pcz78i4y3v310n0wfal04472qzy2bis") (f (quote (("default" "crates_io") ("crates_io"))))))
+
+(define-public crate-thanks-dependencies-0.1.2 (c (n "thanks-dependencies") (v "0.1.2") (d (list (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.14.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)))) (h "0m2ashkrxabi8ih11isy8dnwhlca8nmhy31hm69j3jpz9c256nwb") (f (quote (("default" "crates_io") ("crates_io"))))))
+

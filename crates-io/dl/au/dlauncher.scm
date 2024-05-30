@@ -1,0 +1,4 @@
+(define-module (crates-io dl au dlauncher) #:use-module (crates-io))
+
+(define-public crate-dlauncher-0.1.1 (c (n "dlauncher") (v "0.1.1") (d (list (d (n "dashmap") (r "^5.3.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dbus") (r "^0.9.5") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "gtk") (r "^0.15.5") (f (quote ("v3_22"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.1") (d #t) (k 0)) (d (n "libloading") (r "^0.7.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "03hhk354carwgcrzxf2hivigzvnx7wabyl3ky0ydvvalalxkfa6z")))
+

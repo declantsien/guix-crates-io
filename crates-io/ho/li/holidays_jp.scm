@@ -1,0 +1,6 @@
+(define-module (crates-io ho li holidays_jp) #:use-module (crates-io))
+
+(define-public crate-holidays_jp-0.1.0 (c (n "holidays_jp") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.32") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.10") (d #t) (k 2)) (d (n "httptest") (r "^0.15.4") (d #t) (k 2)))) (h "136dz1b8737m5l6p0fh707mwlb5jmcpxk0yvdzxgkfil5ygm0n0n")))
+
+(define-public crate-holidays_jp-0.1.2 (c (n "holidays_jp") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.10") (d #t) (k 2)) (d (n "httptest") (r "^0.15.4") (d #t) (k 2)))) (h "0im8phxmh027rfgsqha0vd6i8cb8qmw2hv921ckv1zx78zkgpz6j")))
+

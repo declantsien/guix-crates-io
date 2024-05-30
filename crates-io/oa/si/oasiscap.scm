@@ -1,0 +1,6 @@
+(define-module (crates-io oa si oasiscap) #:use-module (crates-io))
+
+(define-public crate-oasiscap-0.1.0 (c (n "oasiscap") (v "0.1.0") (d (list (d (n "base64ct") (r "^1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "xml_serde") (r "^1.2.3") (d #t) (k 0)))) (h "0z1llg7q1war245mf2z6m30ajvbqr6cfh4jnwkkrs989m728n0i2")))
+
+(define-public crate-oasiscap-0.2.0 (c (n "oasiscap") (v "0.2.0") (d (list (d (n "base64ct") (r "^1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "prost") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "xml_serde") (r "^1.2") (d #t) (k 0)))) (h "0np5zcj8lnfbgdw1m3qlcbdvz63y624j4pacsjywgxrfnz82mbxs")))
+

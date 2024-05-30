@@ -1,0 +1,16 @@
+(define-module (crates-io co mp composer-parser) #:use-module (crates-io))
+
+(define-public crate-composer-parser-0.1.0 (c (n "composer-parser") (v "0.1.0") (d (list (d (n "clap") (r "~3.0") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "~1.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "1483g9afygv89dxkvmqmr3x84kab0d5hfc2wnwg4ddsfmrzh1ycs")))
+
+(define-public crate-composer-parser-0.1.1 (c (n "composer-parser") (v "0.1.1") (d (list (d (n "clap") (r "~3.0") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "~1.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "1vapiv70ydf6x7p5py033dsxgy4pnciadf2rfy9na6fvj27ycjby")))
+
+(define-public crate-composer-parser-0.1.2 (c (n "composer-parser") (v "0.1.2") (d (list (d (n "clap") (r "~3.0") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "~1.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "1xq7y2cpxmkrljplmkqs0d5rxvfzvvvf2z2qgknf6wmfjcivm7xv")))
+
+(define-public crate-composer-parser-0.1.3 (c (n "composer-parser") (v "0.1.3") (d (list (d (n "clap") (r "~3.1") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "~1.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "0y1m81va5a12517ls568irzkz6grrmzn140i4d2f7zybd76clxbj")))
+
+(define-public crate-composer-parser-0.1.4 (c (n "composer-parser") (v "0.1.4") (d (list (d (n "clap") (r "~3.1") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "1hz61lf66xj8ybb6mjf31rc6mfv1j9slvfbg3m2ml0bf8n7f1hy0")))
+
+(define-public crate-composer-parser-0.2.0 (c (n "composer-parser") (v "0.2.0") (d (list (d (n "clap") (r "~4.4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "1scq8jmvk5x5vxdls1i55cdj97k67421n7c6xnpl5c031rcn028i")))
+
+(define-public crate-composer-parser-0.2.1 (c (n "composer-parser") (v "0.2.1") (d (list (d (n "clap") (r "~4.5") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)) (d (n "tracing") (r "~0.1") (d #t) (k 0)))) (h "0pll1566zy99mh110q7dr6zwfqmv8cidlshxhwn2nbx9m1x6rcrf")))
+

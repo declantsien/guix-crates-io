@@ -1,0 +1,12 @@
+(define-module (crates-io kh as khash) #:use-module (crates-io))
+
+(define-public crate-khash-2.0.0 (c (n "khash") (v "2.0.0") (d (list (d (n "crc") (r "^1.8") (d #t) (k 0)) (d (n "getrandom") (r "^0.1") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "malloc-array") (r "^1.4") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "17hvp8009i8lb506immivd6vicpcskzg13hy951qv1qyaqjh6b2r") (f (quote (("ffi") ("default" "ffi"))))))
+
+(define-public crate-khash-2.0.1 (c (n "khash") (v "2.0.1") (d (list (d (n "crc") (r "^1.8") (d #t) (k 0)) (d (n "getrandom") (r "^0.1") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "malloc-array") (r "^1.4") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1n7ldp7is5rjcrl15cmbr52zdailk6zy0bja139m4pkyqnmpvmyk") (f (quote (("ffi") ("default" "ffi"))))))
+
+(define-public crate-khash-2.0.2 (c (n "khash") (v "2.0.2") (d (list (d (n "crc") (r "^1.8") (d #t) (k 0)) (d (n "getrandom") (r "^0.1") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "malloc-array") (r "^1.4") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1h1j5a1fq00z9isn0i8r8vxm1cx9r3gb8wm1nkkg4mm7i8wpnnyb") (f (quote (("ffi") ("default" "ffi"))))))
+
+(define-public crate-khash-2.0.3 (c (n "khash") (v "2.0.3") (d (list (d (n "crc") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "getrandom") (r "^0.1") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "malloc-array") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1rx6ywbza0rayfj2y32v13v710qlpndwgj7sf3sa77r9lycn8gqr") (f (quote (("ffi" "libc" "malloc-array") ("default" "ffi" "crc"))))))
+
+(define-public crate-khash-2.0.4 (c (n "khash") (v "2.0.4") (d (list (d (n "crc") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "getrandom") (r "^0.1") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "malloc-array") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1aldv7ydr643373znlxvrai04b0xcnndgfxnvsy4xzs6i257frn2") (f (quote (("ffi" "libc" "malloc-array") ("default" "ffi" "crc"))))))
+

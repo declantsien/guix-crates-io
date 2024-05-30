@@ -1,0 +1,8 @@
+(define-module (crates-io gr as grass-driver) #:use-module (crates-io))
+
+(define-public crate-grass-driver-0.1.2 (c (n "grass-driver") (v "0.1.2") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "grass-ir") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sha") (r "^1.0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "11vjgy4jvdbr6pzgj156dplafx1kfvjrf62x7x3gh9ya346i0ai1")))
+
+(define-public crate-grass-driver-0.1.3 (c (n "grass-driver") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "file-lock") (r "^2.1.3") (d #t) (k 0)) (d (n "grass-ir") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sha") (r "^1.0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "0qaa2sd54lpa8hj4gq7qdjvdvbschchaz1558haxl3pjdfgdgjgy")))
+
+(define-public crate-grass-driver-0.1.4 (c (n "grass-driver") (v "0.1.4") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "file-lock") (r "^2.1.3") (d #t) (k 0)) (d (n "grass-ir") (r "^0.1.4") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sha") (r "^1.0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "1h5rm7bs7lgp7cqz35jswhrc1n9vv0yhx67infhl2gva29gvsk8z")))
+

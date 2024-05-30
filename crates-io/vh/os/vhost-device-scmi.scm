@@ -1,0 +1,4 @@
+(define-module (crates-io vh os vhost-device-scmi) #:use-module (crates-io))
+
+(define-public crate-vhost-device-scmi-0.1.0 (c (n "vhost-device-scmi") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vhost") (r "^0.8") (f (quote ("vhost-user-slave"))) (d #t) (k 0)) (d (n "vhost-user-backend") (r "^0.10") (d #t) (k 0)) (d (n "virtio-bindings") (r "^0.2") (d #t) (k 0)) (d (n "virtio-queue") (r "^0.9") (d #t) (k 0)) (d (n "virtio-queue") (r "^0.9") (f (quote ("test-utils"))) (d #t) (k 2)) (d (n "vm-memory") (r "^0.12") (d #t) (k 0)) (d (n "vmm-sys-util") (r "^0.11") (d #t) (k 0)))) (h "08cv4k9nicshnxzm0fzid0vp2h1hiwjj6y22za2h9p517z9rf609")))
+

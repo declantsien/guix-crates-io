@@ -1,0 +1,4 @@
+(define-module (crates-io ne pt neptune-common) #:use-module (crates-io))
+
+(define-public crate-neptune-common-0.1.0 (c (n "neptune-common") (v "0.1.0") (d (list (d (n "astroport") (r "^1") (d #t) (k 0)) (d (n "cosmwasm-derive") (r "^1") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1") (d #t) (k 0)) (d (n "cw20") (r "^1") (d #t) (k 0)) (d (n "neptune-auth") (r "^0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "shrinkwraprs") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0f18p7s1bm0m90zplf3rnpcz2cfmbxlbmhljcch63pqhm3sgwkmn") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

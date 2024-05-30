@@ -1,0 +1,6 @@
+(define-module (crates-io su sy susy-jsonrpc-server-utils) #:use-module (crates-io))
+
+(define-public crate-susy-jsonrpc-server-utils-10.1.0 (c (n "susy-jsonrpc-server-utils") (v "10.1.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8") (d #t) (k 0)) (d (n "susy-jsonrpc-core") (r "^10.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "04qpg6l4yaq102f5g58pzxi9750ay9n4is4fvsaf51vl8qprjjh7")))
+
+(define-public crate-susy-jsonrpc-server-utils-10.0.1 (c (n "susy-jsonrpc-server-utils") (v "10.0.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8") (d #t) (k 0)) (d (n "susy-jsonrpc-core") (r "^10.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "018ihwx59gz6rj1igqdhmqcj7axyz8b35v9da7s3fhl5fyhcqqvd")))
+

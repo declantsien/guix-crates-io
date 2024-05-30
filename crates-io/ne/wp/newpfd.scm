@@ -1,0 +1,14 @@
+(define-module (crates-io ne wp newpfd) #:use-module (crates-io))
+
+(define-public crate-newpfd-0.1.0 (c (n "newpfd") (v "0.1.0") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "fibonacci_codec") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "1szp3fm05b94gqgcbzqp1d2ndsmczhrzsqb6h963hc4l02gdyrb6")))
+
+(define-public crate-newpfd-0.2.0 (c (n "newpfd") (v "0.2.0") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "fibonacci_codec") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "19xa3iq94h2mzplra1mic0p29gkmam2z06hk6rpj8zaj27c9dwac")))
+
+(define-public crate-newpfd-0.4.0 (c (n "newpfd") (v "0.4.0") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "fibonacci_codec") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "0kwchfa12riy8f9y5k9np6rg10dwl6vs3g3yjf9ih4bv982gfmim")))
+
+(define-public crate-newpfd-0.5.0 (c (n "newpfd") (v "0.5.0") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "fibonacci_codec") (r "^0.2") (d #t) (k 0)) (d (n "funty") (r "^2") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "1km42x3biakqx9w87kc7jgckwz43h5v0i7gpmv90b3wigkzqqkgw")))
+
+(define-public crate-newpfd-0.6.0 (c (n "newpfd") (v "0.6.0") (d (list (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "fastfibonacci") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 2)))) (h "1nvff90040p2y459jhc0amfp0mx9ryc0rcwzgfspkqwj9vcyv2s7") (r "1.73")))
+
+(define-public crate-newpfd-0.7.0 (c (n "newpfd") (v "0.7.0") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "fastfibonacci") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 2)))) (h "104m5v9yrkan0nr15an6h12brfmlh6bxj1i7vqmwiq1lggydkn8x") (r "1.73")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io wl c- wlc-with_elogind) #:use-module (crates-io))
+
+(define-public crate-wlc-with_elogind-2.0.1 (c (n "wlc-with_elogind") (v "2.0.1") (d (list (d (n "bitflags") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.35") (d #t) (k 0)) (d (n "serde") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "uinput-sys") (r "^0.1") (d #t) (k 0)) (d (n "wayland-server") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "wlc-sys-with_elogind") (r "^0.0.8") (d #t) (k 0)) (d (n "xkbcommon") (r "^0.2") (d #t) (k 0)))) (h "03x6gm0m31cvzvnzz2fgd5gvfpynggqld8grhbwaiqq230mhbdsl") (f (quote (("wayland" "wayland-server") ("unsafe-stable") ("static" "wlc-sys-with_elogind/static") ("serialization" "serde" "serde_derive") ("render") ("default"))))))
+

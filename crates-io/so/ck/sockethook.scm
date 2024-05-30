@@ -1,0 +1,4 @@
+(define-module (crates-io so ck sockethook) #:use-module (crates-io))
+
+(define-public crate-sockethook-0.1.0 (c (n "sockethook") (v "0.1.0") (d (list (d (n "actix") (r "^0.8.3") (d #t) (k 0)) (d (n "actix-codec") (r "^0.1.2") (d #t) (k 0)) (d (n "actix-cors") (r "^0.1.0") (d #t) (k 0)) (d (n "actix-web") (r "^1.0.8") (d #t) (k 0)) (d (n "actix-web-actors") (r "^1.0.2") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0swnnqkcns1rk96nfyz2f3z9wm9xkza9salb5bg1ng0vbfv5n48x")))
+

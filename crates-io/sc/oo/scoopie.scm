@@ -1,0 +1,4 @@
+(define-module (crates-io sc oo scoopie) #:use-module (crates-io))
+
+(define-public crate-scoopie-0.1.0 (c (n "scoopie") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "git2") (r "^0.18.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "minreq") (r "^2.10.0") (f (quote ("https-rustls"))) (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "regex-lite") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "spinoff") (r "^0.8.0") (f (quote ("dots"))) (k 0)) (d (n "url") (r "^2.4.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "03mmmzc5c1018xlni5f9j7ysv98jjv7kadxr8wiiia23wdkjhbg2")))
+

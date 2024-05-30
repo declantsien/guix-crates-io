@@ -1,0 +1,6 @@
+(define-module (crates-io pa rt parterm) #:use-module (crates-io))
+
+(define-public crate-parterm-0.1.1 (c (n "parterm") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "clap") (r "^4.0.19") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.24.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nix") (r "^0.23.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.13") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)))) (h "1dr6h0a4brb0x9garysa9sp224kl3mw8ss8d6nbv4bxsbni7jd9n")))
+
+(define-public crate-parterm-0.1.2 (c (n "parterm") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "clap") (r "^4.0.19") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "errno") (r "^0.2.8") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.24.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nix") (r "^0.23.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.13") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)))) (h "06s66dihbfhn06hs2h738mrkqqsbc7xgik13m073lq254gfy0h53")))
+

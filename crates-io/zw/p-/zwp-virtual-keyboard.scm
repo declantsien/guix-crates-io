@@ -1,0 +1,18 @@
+(define-module (crates-io zw p- zwp-virtual-keyboard) #:use-module (crates-io))
+
+(define-public crate-zwp-virtual-keyboard-0.1.0 (c (n "zwp-virtual-keyboard") (v "0.1.0") (d (list (d (n "wayland-client") (r "^0.27.0") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.27.0") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.27.0") (d #t) (k 1)))) (h "1w2rhmkmd7alb0p663ml3nxkbrh20d77vrck78jsvq06fbfizh30") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.0 (c (n "zwp-virtual-keyboard") (v "0.2.0") (d (list (d (n "input_event_codes_hashmap") (r "^0.1.0") (d #t) (k 2)) (d (n "memmap") (r "^0.7") (d #t) (k 2)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "wayland-client") (r "^0.28.0") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.28.0") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.28.0") (d #t) (k 1)))) (h "103imydbrpqzxlwwd5jsrvcfxnw4a1y7jdagyifbfp581747cc36") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.1 (c (n "zwp-virtual-keyboard") (v "0.2.1") (d (list (d (n "input_event_codes_hashmap") (r "^0.1.0") (d #t) (k 2)) (d (n "memmap2") (r "^0.2.1") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "wayland-client") (r "^0.28.0") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.28.0") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.28.0") (d #t) (k 1)))) (h "1wkk1qhaqi1yj268zlx8bnpf8waw97zbz7yvkavxm7374843lqpn") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.2 (c (n "zwp-virtual-keyboard") (v "0.2.2") (d (list (d (n "input_event_codes_hashmap") (r "^0.1.0") (d #t) (k 2)) (d (n "memmap2") (r "^0.2.1") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "wayland-client") (r "^0.28.0") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.28.0") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.28.0") (d #t) (k 1)))) (h "0yi8k7iajlwm10c3rsijb70vvgyh0s5b3dsg6hw3x01yafbn1y7c") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.3 (c (n "zwp-virtual-keyboard") (v "0.2.3") (d (list (d (n "input_event_codes_hashmap") (r "^0.1") (d #t) (k 2)) (d (n "memmap2") (r "^0.3") (d #t) (k 2)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "wayland-client") (r "^0.29") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.29") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.29") (d #t) (k 1)))) (h "1w8h3lw3igb8khz6ma2p8kdfa9g4v1x4ky69kg3fqcsis7kkw6dg") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.4 (c (n "zwp-virtual-keyboard") (v "0.2.4") (d (list (d (n "input_event_codes_hashmap") (r "^0.1") (d #t) (k 2)) (d (n "memmap2") (r "^0.5") (d #t) (k 2)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "wayland-client") (r "^0.29") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.29") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.29") (d #t) (k 1)))) (h "09p0pvkbk9v3q7bq6fwxaa7x7hdpxcybmy8vmz2b2fkh2gnjshqb") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.6 (c (n "zwp-virtual-keyboard") (v "0.2.6") (d (list (d (n "input-event-codes") (r "^5.16.8") (d #t) (k 2)) (d (n "memmap2") (r "^0.5") (d #t) (k 2)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "wayland-client") (r "^0.29") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.29") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.29") (d #t) (k 1)))) (h "169ynkz2ds19dpvrfqp42xr2ri96fd2vziw31ng6k8hl78i705yb") (y #t)))
+
+(define-public crate-zwp-virtual-keyboard-0.2.7 (c (n "zwp-virtual-keyboard") (v "0.2.7") (d (list (d (n "input-event-codes") (r "^5.16.8") (d #t) (k 2)) (d (n "memmap2") (r "^0.5") (d #t) (k 2)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "wayland-client") (r "^0.29") (d #t) (k 0)) (d (n "wayland-commons") (r "^0.29") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.29") (d #t) (k 1)))) (h "16lscd5ckqsajihv0grx4r056qk6hcrx71qinw5d2jawbr04kd07")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io js wm jswmlib) #:use-module (crates-io))
+
+(define-public crate-jswmlib-0.1.0 (c (n "jswmlib") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "error-stack") (r "^0.2.4") (d #t) (k 0)) (d (n "ipcon-sys") (r "^0.2") (d #t) (k 0)) (d (n "jlogger-tracing") (r "^0.1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.140") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "jlogger-tracing") (r "^0.1.4") (d #t) (k 1)))) (h "1hcc7sy3gbb7lspsnlvian1aq6i9q2jisw27l2vfyczimyw3fkjz")))
+
+(define-public crate-jswmlib-0.1.1 (c (n "jswmlib") (v "0.1.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "error-stack") (r "^0.2.4") (d #t) (k 0)) (d (n "ipcon-sys") (r "^0.2") (d #t) (k 0)) (d (n "jlogger-tracing") (r "^0.1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.140") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "redis") (r "^0.22.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "jlogger-tracing") (r "^0.1.4") (d #t) (k 1)))) (h "1fjq5qk6qjzjkg8xalfq4yxf4354w7cnraw36gz0h31lwjphpdk0")))
+

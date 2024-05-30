@@ -1,0 +1,6 @@
+(define-module (crates-io ka k_ kak_spell) #:use-module (crates-io))
+
+(define-public crate-kak_spell-0.2.0 (c (n "kak_spell") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "diesel") (r "^1.4.6") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "enchant") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)))) (h "0208y63xlyc3bdcs6kzn5k8m0q0wxs1df95wh8j0h7l00xkwkl50")))
+
+(define-public crate-kak_spell-0.2.1 (c (n "kak_spell") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "diesel") (r "^1.4.6") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "enchant") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)))) (h "0qvbr82vm5ca143pa1yvwwppmdfnxwlwb8s2v6znjsrivliiwyi5")))
+

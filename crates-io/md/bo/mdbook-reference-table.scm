@@ -1,0 +1,4 @@
+(define-module (crates-io md bo mdbook-reference-table) #:use-module (crates-io))
+
+(define-public crate-mdbook-reference-table-0.1.0 (c (n "mdbook-reference-table") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.37") (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "1nc0kl9qlxwawkqi1wgr7livhlckl62njgwi9bakhxi43njw8myi") (r "1.76")))
+

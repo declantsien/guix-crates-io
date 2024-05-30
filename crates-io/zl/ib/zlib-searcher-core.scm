@@ -1,0 +1,4 @@
+(define-module (crates-io zl ib zlib-searcher-core) #:use-module (crates-io))
+
+(define-public crate-zlib-searcher-core-0.6.0 (c (n "zlib-searcher-core") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cang-jie") (r "^0.14") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.2") (d #t) (k 0)) (d (n "jieba-rs") (r "^0.6") (f (quote ("default-dict"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^2.0") (d #t) (k 0)) (d (n "tantivy") (r "^0.18") (f (quote ("mmap"))) (k 0)))) (h "0h524qciq56q6rg06xzw7lv5y4n5vr0q83zk9kwcgyc0ww0wgkxv") (f (quote (("default" "best-size") ("best-speed" "tantivy/lz4-compression") ("best-size" "tantivy/brotli-compression")))) (y #t)))
+

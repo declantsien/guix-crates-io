@@ -1,0 +1,6 @@
+(define-module (crates-io fr dm frdm-kw41z) #:use-module (crates-io))
+
+(define-public crate-frdm-kw41z-0.1.0 (c (n "frdm-kw41z") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.4.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.3.13") (f (quote ("abort-on-panic"))) (d #t) (k 0)) (d (n "mkw41z") (r "^0.1.0") (f (quote ("rt"))) (d #t) (k 0)) (d (n "mkw41z-hal") (r "^0.1.0") (f (quote ("rt"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "static-ref") (r "^0.2.1") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)) (d (n "volatile-register") (r "^0.2.0") (d #t) (k 0)))) (h "19dlpxiyx5vmbp9ndy060hj6wjgyini20w9w5g0ani2l11w3gvfk") (f (quote (("rt") ("default" "rt"))))))
+
+(define-public crate-frdm-kw41z-0.1.1 (c (n "frdm-kw41z") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.4.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.4.0") (d #t) (k 0)) (d (n "mkw41z") (r "^0.1.2") (f (quote ("rt"))) (d #t) (k 0)) (d (n "mkw41z-hal") (r "^0.1.1") (f (quote ("rt"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-abort") (r "^0.1.1") (d #t) (k 0)) (d (n "static-ref") (r "^0.2.1") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)) (d (n "volatile-register") (r "^0.2.0") (d #t) (k 0)))) (h "1q7wncbn7ylfw3wbnr4aszmhx86nzin3bkqigwihnnx1s8drdsi2") (f (quote (("rt") ("default" "rt"))))))
+

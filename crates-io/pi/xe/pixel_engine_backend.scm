@@ -1,0 +1,28 @@
+(define-module (crates-io pi xe pixel_engine_backend) #:use-module (crates-io))
+
+(define-public crate-pixel_engine_backend-0.1.0 (c (n "pixel_engine_backend") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.2.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.5.0") (d #t) (k 0)) (d (n "winit") (r "^0.22.2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "winit") (r "^0.22.2") (f (quote ("web-sys"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0fbysb4i2304v2y7g7vqd8j36s46kg84wfir46ifvvlg3r7knlcn") (f (quote (("vulkan" "wgpu/vulkan"))))))
+
+(define-public crate-pixel_engine_backend-0.2.1 (c (n "pixel_engine_backend") (v "0.2.1") (d (list (d (n "bytemuck") (r "^1.2.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.5.0") (d #t) (k 0)) (d (n "winit") (r "^0.22.2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "winit") (r "^0.22.2") (f (quote ("web-sys"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0isdmnns0x9hcmz6rn5cipq53f8l00x0whxxn9ik1n8c2d1iwz47") (f (quote (("vulkan" "wgpu/vulkan"))))))
+
+(define-public crate-pixel_engine_backend-0.3.0 (c (n "pixel_engine_backend") (v "0.3.0") (d (list (d (n "bytemuck") (r "^1.5.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.7.0") (d #t) (k 0)) (d (n "winit") (r "^0.24.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "winit") (r "^0.24.0") (f (quote ("web-sys"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0b8hi6mmwnfzl9y2sb31fdwgi12hikfvj08lpkpyadvfblalg0nm")))
+
+(define-public crate-pixel_engine_backend-0.4.0 (c (n "pixel_engine_backend") (v "0.4.0") (d (list (d (n "bytemuck") (r "^1.5.1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wgpu") (r "^0.7.1") (d #t) (k 0)) (d (n "winit") (r "^0.24.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "winit") (r "^0.24.0") (f (quote ("web-sys"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0ph2dlvgr4y2fyyrdjdy6apq9x377n9rh6i5yzzwp2h3hbiqgb5k") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.4.1 (c (n "pixel_engine_backend") (v "0.4.1") (d (list (d (n "bytemuck") (r "^1.7.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.12.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.26.0") (d #t) (k 0)))) (h "093b0z4v3pq888f7c82ws3i946mwnkgkl9lh8sbh485wg0djrw5d") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.5.1 (c (n "pixel_engine_backend") (v "0.5.1") (d (list (d (n "bytemuck") (r "^1.9.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.4") (f (quote ("wayland"))) (d #t) (k 0)))) (h "1q2qrvvwv33dzl0r88blf9lap0kgbbslnvxhbbcksndpdia4vsr7") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.5.2 (c (n "pixel_engine_backend") (v "0.5.2") (d (list (d (n "bytemuck") (r "^1.9.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.4") (f (quote ("wayland"))) (d #t) (k 0)))) (h "0zdanpbf7x7qgspl1n954ws8x0vszmb475pcd1ix7mmhpkpcn8ad") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.5.3 (c (n "pixel_engine_backend") (v "0.5.3") (d (list (d (n "bytemuck") (r "^1.12.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (f (quote ("wayland"))) (d #t) (k 0)))) (h "1bdnaslk5naxn15a7y76231rzsbkgi9hzv2i7asl2p13vsnvimf0") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.5.4 (c (n "pixel_engine_backend") (v "0.5.4") (d (list (d (n "bytemuck") (r "^1.12.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (f (quote ("wayland"))) (d #t) (k 0)))) (h "0jhnp7qsrdl60zv36c4mm3akb395zk5cd4802kr906vcd1c32cd1") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.6.0 (c (n "pixel_engine_backend") (v "0.6.0") (d (list (d (n "bytemuck") (r "^1.12.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (f (quote ("wayland"))) (d #t) (k 0)))) (h "0l3saw8gflf6j4zkwvy4r2qlhckd0c3afcg9r18pn9a2iy480jb6") (f (quote (("webgl" "wgpu/webgl")))) (y #t)))
+
+(define-public crate-pixel_engine_backend-0.6.1 (c (n "pixel_engine_backend") (v "0.6.1") (d (list (d (n "bytemuck") (r "^1.12.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (f (quote ("wayland"))) (d #t) (k 0)))) (h "1x74m06a2g4ldrbcfv4rxw8mv2i9zryzq961i0nx68d4smgpr1yk") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.7.0 (c (n "pixel_engine_backend") (v "0.7.0") (d (list (d (n "bytemuck") (r "^1.12.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (f (quote ("wayland"))) (d #t) (k 0)))) (h "12mhzymxl31a55qdm3hc945iamxap91khmwl6lcpscmxx94kn72v") (f (quote (("webgl" "wgpu/webgl"))))))
+
+(define-public crate-pixel_engine_backend-0.8.0 (c (n "pixel_engine_backend") (v "0.8.0") (d (list (d (n "bytemuck") (r "^1.12.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "float_next_after") (r "^1.0.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.14.0") (f (quote ("spirv"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (f (quote ("wayland"))) (d #t) (k 0)))) (h "113hfcc5m9cwmfzhsma288vgpjazz2ryijcwwbc8wkjp08n0zjm8") (f (quote (("webgl" "wgpu/webgl"))))))
+

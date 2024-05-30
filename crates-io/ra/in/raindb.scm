@@ -1,0 +1,4 @@
+(define-module (crates-io ra in raindb) #:use-module (crates-io))
+
+(define-public crate-raindb-1.0.0 (c (n "raindb") (v "1.0.0") (d (list (d (n "arc-swap") (r "^1.5.0") (d #t) (k 0)) (d (n "crc") (r "^3.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "integer-encoding") (r "^3.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nerdondon-hopscotch") (r "^2.7.0") (f (quote ("concurrent"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 2)) (d (n "snap") (r "^1.0.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "182lkphvcighisrf62205mrasxzjiyp0iph1l244q4zxycmcg1a7") (f (quote (("strict") ("large_tests"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io lo ck lock_free_hashtable) #:use-module (crates-io))
+
+(define-public crate-lock_free_hashtable-0.1.0 (c (n "lock_free_hashtable") (v "0.1.0") (d (list (d (n "allocative") (r "^0.3.1") (f (quote ("anyhow" "bumpalo" "dashmap" "either" "futures" "hashbrown" "indexmap" "num-bigint" "once_cell" "parking_lot" "prost-types" "relative-path" "serde_json" "slab" "smallvec" "compact_str" "sorted_vector_map" "tokio" "triomphe"))) (d #t) (k 0)) (d (n "atomic") (r "^0.5.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "09vp1wzizqdr1yd3kldi1vsv0yxc38ksxrf6him48mmr9bxpsdsx")))
+
+(define-public crate-lock_free_hashtable-0.1.1 (c (n "lock_free_hashtable") (v "0.1.1") (d (list (d (n "allocative") (r "^0.3.1") (f (quote ("anyhow" "bumpalo" "dashmap" "either" "futures" "hashbrown" "indexmap" "num-bigint" "once_cell" "parking_lot" "prost-types" "relative-path" "serde_json" "slab" "smallvec" "compact_str" "sorted_vector_map" "tokio" "triomphe"))) (d #t) (k 0)) (d (n "atomic") (r "^0.5.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "06zk0zzychybdbai4c1zf0v7prsx1s40vkninm814h847rg9p67w")))
+

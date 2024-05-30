@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rust_rpi_4wd_car) #:use-module (crates-io))
+
+(define-public crate-rust_rpi_4wd_car-0.0.9 (c (n "rust_rpi_4wd_car") (v "0.0.9") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.9") (f (quote ("termination"))) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "rppal") (r "^0.12.0") (f (quote ("hal" "hal-unproven"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (d #t) (k 0)))) (h "0q3d8pwnxrv7qrjpsk77nkg8x8yx2bfrfiv8g0bw8zvpn8jcyka1")))
+
+(define-public crate-rust_rpi_4wd_car-0.0.10 (c (n "rust_rpi_4wd_car") (v "0.0.10") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.9") (f (quote ("termination"))) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "rppal") (r "^0.12.0") (f (quote ("hal" "hal-unproven"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (d #t) (k 0)))) (h "1sir2r6x75ajfrj4ii5gyv55dd65f51dlqpnrlzqp72q9fvq42q8")))
+
+(define-public crate-rust_rpi_4wd_car-0.0.11 (c (n "rust_rpi_4wd_car") (v "0.0.11") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.9") (f (quote ("termination"))) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "rppal") (r "^0.12.0") (f (quote ("hal" "hal-unproven"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (d #t) (k 0)))) (h "0n342dcvgmrfrygr6jjs8bxp18g9wyw81xmh34n2r04yanwir5x3")))
+
+(define-public crate-rust_rpi_4wd_car-0.0.12 (c (n "rust_rpi_4wd_car") (v "0.0.12") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.9") (f (quote ("termination"))) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "rppal") (r "^0.12.0") (f (quote ("hal" "hal-unproven"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (d #t) (k 0)))) (h "046lzzkw5m9b1l8i79kii6harf22q4z586shyhc6p9y1xgi7rdzy")))
+

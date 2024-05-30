@@ -1,0 +1,4 @@
+(define-module (crates-io mo q- moq-dir) #:use-module (crates-io))
+
+(define-public crate-moq-dir-0.1.0 (c (n "moq-dir") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "moq-native") (r "^0.1") (d #t) (k 0)) (d (n "moq-transport") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "web-transport") (r "^0.1") (d #t) (k 0)))) (h "149kf15kqqj9vlybmgxqsfjlaabg36yjq6dynyl03y2lxbnkvwm5")))
+

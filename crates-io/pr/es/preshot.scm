@@ -1,0 +1,6 @@
+(define-module (crates-io pr es preshot) #:use-module (crates-io))
+
+(define-public crate-preshot-1.0.0 (c (n "preshot") (v "1.0.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive") (r "^1.0.0") (d #t) (k 0)) (d (n "features") (r "^0.10.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "04qsg9g8235xkkrcp961nd0pfmkwsd63xqvdnw5a2gj9gnadq2dp")))
+
+(define-public crate-preshot-1.0.1 (c (n "preshot") (v "1.0.1") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive") (r "^1.0.0") (d #t) (k 0)) (d (n "features") (r "^0.10.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "1zl5q14sq2l9y767vbrprarkrj5lcnrjakv3b457ydsc6hmn3855")))
+

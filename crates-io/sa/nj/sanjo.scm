@@ -1,0 +1,6 @@
+(define-module (crates-io sa nj sanjo) #:use-module (crates-io))
+
+(define-public crate-sanjo-1.0.0 (c (n "sanjo") (v "1.0.0") (d (list (d (n "arrayvec") (r "^0.5.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "image") (r "^0.22.3") (d #t) (k 0)) (d (n "imageproc") (r "^0.19.2") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.10") (d #t) (k 0)) (d (n "rusttype") (r "^0.8.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.4") (f (quote ("macros" "fs" "io-driver" "io-util" "io-std"))) (d #t) (k 0)))) (h "08cnxxpf89n8illil9d5q7iz5flk3bd4n4glrln6167vg4pglfr4")))
+
+(define-public crate-sanjo-1.1.0 (c (n "sanjo") (v "1.1.0") (d (list (d (n "arrayvec") (r "^0.5.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "image") (r "^0.22.3") (d #t) (k 0)) (d (n "imageproc") (r "^0.19.2") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.10") (d #t) (k 0)) (d (n "rusttype") (r "^0.8.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.4") (f (quote ("macros" "fs" "io-driver" "io-util" "io-std"))) (d #t) (k 0)))) (h "0pd8mxqgdki4qpg2afjfs0svsp26jwnzpsig8a5n1p85vibnh95s")))
+

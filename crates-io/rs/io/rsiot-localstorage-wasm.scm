@@ -1,0 +1,4 @@
+(define-module (crates-io rs io rsiot-localstorage-wasm) #:use-module (crates-io))
+
+(define-public crate-rsiot-localstorage-wasm-0.0.66 (c (n "rsiot-localstorage-wasm") (v "0.0.66") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (t "cfg(any(target_arch = \"wasm32\"))") (k 0)) (d (n "async-trait") (r "^0.1.77") (d #t) (t "cfg(any(target_arch = \"wasm32\"))") (k 0)) (d (n "gloo") (r "^0.11.0") (f (quote ("net" "futures" "storage" "timers" "utils"))) (d #t) (t "cfg(any(target_arch = \"wasm32\"))") (k 0)) (d (n "rsiot-component-core") (r "^0.0.66") (d #t) (t "cfg(any(target_arch = \"wasm32\"))") (k 0)) (d (n "rsiot-messages-core") (r "^0.0.66") (d #t) (t "cfg(any(target_arch = \"wasm32\"))") (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (t "cfg(any(target_arch = \"wasm32\"))") (k 0)))) (h "0fh8fg3zv1gdxmra4q9rb61i9616f9mfr59pa0vv161xy36vglh2") (f (quote (("single-thread" "rsiot-component-core/single-thread")))) (r "1.75.0")))
+

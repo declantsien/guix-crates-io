@@ -1,0 +1,4 @@
+(define-module (crates-io an si ansirs) #:use-module (crates-io))
+
+(define-public crate-ansirs-0.1.7 (c (n "ansirs") (v "0.1.7") (d (list (d (n "once_cell") (r "^1.17.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "string_cache") (r "^0.8.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("attributes"))) (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("fmt" "tracing-log"))) (d #t) (k 2)))) (h "15rm496fcmkym0ydqwwd3dw4g5nx3vrgbml5gq4i9898dc6nd4na") (f (quote (("profile" "trace") ("default" "profile")))) (s 2) (e (quote (("trace" "dep:tracing") ("strings" "dep:once_cell") ("serde" "dep:serde"))))))
+

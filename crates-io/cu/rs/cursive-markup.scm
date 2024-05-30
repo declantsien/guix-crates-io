@@ -1,0 +1,8 @@
+(define-module (crates-io cu rs cursive-markup) #:use-module (crates-io))
+
+(define-public crate-cursive-markup-0.1.0 (c (n "cursive-markup") (v "0.1.0") (d (list (d (n "argparse") (r "^0.2") (d #t) (k 2)) (d (n "cursive") (r "^0.15") (k 0)) (d (n "cursive") (r "^0.15") (f (quote ("termion-backend"))) (k 2)) (d (n "html2text") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "ureq") (r "^1") (d #t) (k 2)) (d (n "url") (r "^2") (d #t) (k 2)))) (h "0s2qjnqmlkv1pfvbpkmb6vazirngvz1572p0wa5ggfyfcqgfx30h") (f (quote (("html" "html2text") ("default" "html"))))))
+
+(define-public crate-cursive-markup-0.2.0 (c (n "cursive-markup") (v "0.2.0") (d (list (d (n "argparse") (r "^0.2") (d #t) (k 2)) (d (n "cursive") (r "^0.16") (f (quote ("termion-backend"))) (k 2)) (d (n "cursive_core") (r "^0.2") (d #t) (k 0)) (d (n "html2text") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "ureq") (r "^1") (d #t) (k 2)) (d (n "url") (r "^2") (d #t) (k 2)))) (h "0zyf8vmzl1rnx1gzsq07d7hla7jhgbjz8wqwrsv1zwdiy8nn4crn") (f (quote (("html" "html2text") ("default" "html"))))))
+
+(define-public crate-cursive-markup-0.3.0 (c (n "cursive-markup") (v "0.3.0") (d (list (d (n "argparse") (r "^0.2") (d #t) (k 2)) (d (n "cursive") (r "^0.17") (f (quote ("termion-backend"))) (k 2)) (d (n "cursive_core") (r "^0.3") (d #t) (k 0)) (d (n "html2text") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "ureq") (r "^1") (d #t) (k 2)) (d (n "url") (r "^2") (d #t) (k 2)))) (h "0nwrbqw6c34qndbzr4y02mgg0w41hbb3kg8p04x2ndnfskzcr62k") (f (quote (("html" "html2text") ("default" "html")))) (r "1.56.0")))
+

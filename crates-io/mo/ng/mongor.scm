@@ -1,0 +1,18 @@
+(define-module (crates-io mo ng mongor) #:use-module (crates-io))
+
+(define-public crate-mongor-0.1.0 (c (n "mongor") (v "0.1.0") (d (list (d (n "futures-util") (r "^0.3.29") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "1syx2421jkwyjblax8xnl0jnhj2wriy0igp4qvpy3vsqydciylzl") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.1 (c (n "mongor") (v "0.1.1") (d (list (d (n "futures-util") (r "^0.3.29") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "12imh9h2wxndpdz3m856sq4n430js4jk45xd6mpb6m1md09xp63s") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.2 (c (n "mongor") (v "0.1.2") (d (list (d (n "futures-util") (r "^0.3.29") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "0mbwgfbl6vdqnzna1vkvh4827pxc0p1pmwdlkzdd7d2aayimyfri") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.3 (c (n "mongor") (v "0.1.3") (d (list (d (n "futures-util") (r "^0.3.29") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "0c02s8n1rk45ck1g96havq1daklii2lrhhw26s3j1v9rh96vcmpq") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.4 (c (n "mongor") (v "0.1.4") (d (list (d (n "futures-util") (r "^0.3.29") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "1n1102kp163fv9qqhgh584w58yhwks4kwai18xb09b9qx3pf7z93") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.5 (c (n "mongor") (v "0.1.5") (d (list (d (n "futures-util") (r "^0.3.30") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "13mmcv14aqyr8jnvmwhkk9v0jsqb897c75srs4l38g6awrf42w9r") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.6 (c (n "mongor") (v "0.1.6") (d (list (d (n "futures-util") (r "^0.3.30") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "0rf7bna04d25nhlh7ywk1h9asn9z7yc47jnkn4pxgyp63fx55z1d") (f (quote (("grid_fs" "futures-util"))))))
+
+(define-public crate-mongor-0.1.7 (c (n "mongor") (v "0.1.7") (d (list (d (n "futures-util") (r "^0.3.30") (o #t) (d #t) (k 0)) (d (n "mongodb") (r "^2.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 2)))) (h "09l1r36wl801kdqa813l5hhmp4iizq5r7ipwv3nhpym7g6pzfzz7") (f (quote (("grid_fs" "futures-util"))))))
+

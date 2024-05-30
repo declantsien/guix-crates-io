@@ -1,0 +1,12 @@
+(define-module (crates-io be vy bevy_matchbox) #:use-module (crates-io))
+
+(define-public crate-bevy_matchbox-0.0.1 (c (n "bevy_matchbox") (v "0.0.1") (h "0pji30xjww57a2qi6m37ikcg2fa01w1s0jmyk9a051zg7vxlcazq")))
+
+(define-public crate-bevy_matchbox-0.6.0 (c (n "bevy_matchbox") (v "0.6.0") (d (list (d (n "bevy") (r "^0.10") (k 0)) (d (n "matchbox_socket") (r "^0.6") (d #t) (k 0)))) (h "07b62li46vqxafd03jf7gcryl1ibbzwgnd4pagwrcfdkriypdyad") (f (quote (("ggrs" "matchbox_socket/ggrs"))))))
+
+(define-public crate-bevy_matchbox-0.7.0 (c (n "bevy_matchbox") (v "0.7.0") (d (list (d (n "bevy") (r "^0.11") (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "matchbox_signaling") (r "^0.7") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "matchbox_socket") (r "^0.7") (d #t) (k 0)))) (h "1h8igdamhbqy5y9m88vk401b4mp9vm4896xxxb6cj18zmq2armmj") (f (quote (("signaling" "matchbox_signaling") ("ggrs" "matchbox_socket/ggrs"))))))
+
+(define-public crate-bevy_matchbox-0.8.0 (c (n "bevy_matchbox") (v "0.8.0") (d (list (d (n "async-compat") (r "^0.2") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "bevy") (r "^0.12") (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_winit" "bevy_render" "bevy_pbr" "bevy_core_pipeline" "bevy_ui" "bevy_text" "bevy_asset" "ktx2" "zstd" "tonemapping_luts" "webgl2" "x11"))) (k 2)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "matchbox_signaling") (r "^0.8") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "matchbox_socket") (r "^0.8") (d #t) (k 0)))) (h "1icy7nmlxy6nr28h4qihmmgzcs4syp7ba57y6cqfn8i0gan6w6v4") (f (quote (("ggrs" "matchbox_socket/ggrs")))) (s 2) (e (quote (("signaling" "dep:matchbox_signaling" "dep:async-compat" "bevy/multi-threaded"))))))
+
+(define-public crate-bevy_matchbox-0.9.0 (c (n "bevy_matchbox") (v "0.9.0") (d (list (d (n "async-compat") (r "^0.2") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("bevy_winit" "bevy_render" "bevy_pbr" "bevy_core_pipeline" "bevy_ui" "bevy_text" "bevy_asset" "ktx2" "zstd" "tonemapping_luts" "webgl2" "x11"))) (k 2)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "matchbox_signaling") (r "^0.9") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "matchbox_socket") (r "^0.9") (d #t) (k 0)))) (h "0wxdarv4n9x9rxm9bfs2bwnjabjiwpribx2rx9qxf8s0kwcmkg6z") (f (quote (("ggrs" "matchbox_socket/ggrs")))) (s 2) (e (quote (("signaling" "dep:matchbox_signaling" "dep:async-compat" "bevy/multi-threaded"))))))
+

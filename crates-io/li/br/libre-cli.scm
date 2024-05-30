@@ -1,0 +1,4 @@
+(define-module (crates-io li br libre-cli) #:use-module (crates-io))
+
+(define-public crate-libre-cli-0.1.0 (c (n "libre-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 0)) (d (n "solana-client") (r "^1.17.6") (d #t) (k 0)) (d (n "solana-logger") (r "^1.17.6") (d #t) (k 0)) (d (n "solana-program") (r "^1.17.6") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.17.6") (d #t) (k 0)))) (h "0fhcfr1x89pflk6jxi610j3qcm07pf5ra825g7lgvpqdym31l4ss")))
+

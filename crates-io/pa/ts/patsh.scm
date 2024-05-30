@@ -1,0 +1,14 @@
+(define-module (crates-io pa ts patsh) #:use-module (crates-io))
+
+(define-public crate-patsh-0.1.0 (c (n "patsh") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.27") (f (quote ("cargo" "derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "expand") (r "^0.2.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1l3vk2w2nawx3ixvnkb7d8kvx9k8bq1kvzlbjs8blwgnair4gk1n")))
+
+(define-public crate-patsh-0.1.1 (c (n "patsh") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.27") (f (quote ("cargo" "derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "expand") (r "^0.2.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "01qik96kjafca126n23wgdscvj1k6xk5pgyw6qixpmi5svpqc2vs")))
+
+(define-public crate-patsh-0.1.2 (c (n "patsh") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.27") (f (quote ("cargo" "derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "expand") (r "^0.2.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "0i532ijr8d99329dxd3s4jllcxb7f7z1kr5wnrcbfl74lakmn5qr")))
+
+(define-public crate-patsh-0.1.3 (c (n "patsh") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.27") (f (quote ("cargo" "derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "is_executable") (r "^1.0.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.9") (d #t) (k 0)))) (h "0l3rm2r126sh4mwl0d2482jqmf9qyjql3d7fjg6259rxgzijh3p9")))
+
+(define-public crate-patsh-0.2.0 (c (n "patsh") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4.0.29") (f (quote ("cargo" "derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "expect-test") (r "^1.4.0") (d #t) (k 2)) (d (n "is_executable") (r "^1.0.1") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tree-sitter") (r "^0.20.9") (d #t) (k 0)) (d (n "tree-sitter-bash") (r "^0.19.0") (d #t) (k 0)))) (h "1azbazhc2fjhqbg1hclc3vpqsjfkmjm5dpl0h3zli9bfbhxwxxn3")))
+
+(define-public crate-patsh-0.2.1 (c (n "patsh") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.3.22") (f (quote ("cargo" "derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "expect-test") (r "^1.4.1") (d #t) (k 2)) (d (n "is_executable") (r "^1.0.1") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.1") (d #t) (k 2)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-bash") (r "^0.20.0") (d #t) (k 0)))) (h "0gv2rcdgk05mxid8la70sdclx03ajigpag7axk4vw0kw6vcy7avz")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io rs -e rs-edunode-sdk) #:use-module (crates-io))
+
+(define-public crate-rs-edunode-sdk-0.1.0 (c (n "rs-edunode-sdk") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.24") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.164") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1jq67p9svd0a9n80j9jzf2dqw2363lr9b4hagxnnrriz6z4zi02i")))
+
+(define-public crate-rs-edunode-sdk-0.1.1 (c (n "rs-edunode-sdk") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.24") (f (quote ("serde"))) (k 0)) (d (n "postcard") (r "^1.0.4") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "serde") (r "1.0.*") (k 0)) (d (n "soroban-sdk") (r "^0.8.4") (d #t) (k 0)) (d (n "soroban-sdk") (r "^0.8.4") (f (quote ("testutils"))) (d #t) (k 2)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "1a508whzdd1pbmrp45119aaj49qvs9k6bgxyv4c7620gm1ypl52v") (f (quote (("testutils" "soroban-sdk/testutils"))))))
+
+(define-public crate-rs-edunode-sdk-0.1.2 (c (n "rs-edunode-sdk") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.24") (f (quote ("serde"))) (k 0)) (d (n "ipfs-api") (r "^0.17.0") (d #t) (k 0)) (d (n "postcard") (r "^1.0.4") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "serde") (r "1.0.*") (k 0)) (d (n "soroban-sdk") (r "^0.8.4") (d #t) (k 0)) (d (n "soroban-sdk") (r "^0.8.4") (f (quote ("testutils"))) (d #t) (k 2)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "1m9bvnx33zgkv4chk5825igi2byi8wlq03f6ry7d2i7s413jp545") (f (quote (("testutils" "soroban-sdk/testutils"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io am et amethyst_nphysics) #:use-module (crates-io))
+
+(define-public crate-amethyst_nphysics-0.0.1 (c (n "amethyst_nphysics") (v "0.0.1") (d (list (d (n "alga") (r "^0.9.0") (k 0)) (d (n "amethyst_core") (r "^0.8") (d #t) (k 0)) (d (n "amethyst_physics") (r "^0.0.1") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.20.1") (d #t) (k 0)) (d (n "nphysics3d") (r "^0.12.2") (d #t) (k 0)))) (h "18j4qznsff0h1xgz9f14nbcav27bdf18jrawsmifqajvhmxwjrf3")))
+
+(define-public crate-amethyst_nphysics-0.1.0 (c (n "amethyst_nphysics") (v "0.1.0") (d (list (d (n "alga") (r "^0.9.0") (k 0)) (d (n "amethyst_core") (r "^0.8.0") (d #t) (k 0)) (d (n "amethyst_physics") (r "^0.1.0") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.20.1") (d #t) (k 0)) (d (n "nphysics3d") (r "^0.12.2") (d #t) (k 0)))) (h "1qw35vgx4m0lf73jfqck5ll685sw8bg29ys23p3ichhmc33bm4d3")))
+
+(define-public crate-amethyst_nphysics-0.1.1 (c (n "amethyst_nphysics") (v "0.1.1") (d (list (d (n "alga") (r "^0.9.0") (k 0)) (d (n "amethyst_core") (r "^0.8.0") (d #t) (k 0)) (d (n "amethyst_physics") (r "^0.1.1") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.20.1") (d #t) (k 0)) (d (n "nphysics3d") (r "^0.12.2") (d #t) (k 0)))) (h "0422akjjr942vnrf2n5s5p19hbwq71idckvgs2m0v880x33vd4ka")))
+
+(define-public crate-amethyst_nphysics-0.2.0 (c (n "amethyst_nphysics") (v "0.2.0") (d (list (d (n "alga") (r "^0.9.0") (k 0)) (d (n "amethyst_core") (r "^0.10.0") (d #t) (k 0)) (d (n "amethyst_physics") (r "^0.2.0") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.21.0") (d #t) (k 0)) (d (n "nphysics3d") (r "^0.13.0") (d #t) (k 0)))) (h "1kwjld1fv1fnqn078s011yjy2i56hcxq2cv2r8jcpy1jh477pfvw")))
+

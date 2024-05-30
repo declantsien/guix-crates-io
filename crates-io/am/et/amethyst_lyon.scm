@@ -1,0 +1,4 @@
+(define-module (crates-io am et amethyst_lyon) #:use-module (crates-io))
+
+(define-public crate-amethyst_lyon-0.1.0 (c (n "amethyst_lyon") (v "0.1.0") (d (list (d (n "amethyst") (r "^0.15.0") (d #t) (k 0)) (d (n "amethyst_error") (r "^0.5.0") (d #t) (k 0)) (d (n "derivative") (r "^2.1.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "glsl-layout") (r "^0.3.2") (d #t) (k 0)) (d (n "glsl-to-spirv") (r "^0.1.7") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lyon") (r "^0.15.6") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0plcg831zs0nr96224a4sa4rgql4l00fkv1d323kvvibxi9lbzx6") (f (quote (("vulkan" "amethyst/vulkan") ("shader-compiler" "amethyst/shader-compiler") ("metal" "amethyst/metal") ("empty" "amethyst/empty") ("default" "metal"))))))
+

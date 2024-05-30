@@ -1,0 +1,8 @@
+(define-module (crates-io sk ry skryn) #:use-module (crates-io))
+
+(define-public crate-skryn-0.0.1 (c (n "skryn") (v "0.0.1") (h "0ynr545lbzkpg5gnj2yymv97bspnynryqqpbc0lj27l5whf7zg62")))
+
+(define-public crate-skryn-0.0.3 (c (n "skryn") (v "0.0.3") (d (list (d (n "app_units") (r "^0.7") (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "euclid") (r "^0.19") (d #t) (k 0)) (d (n "font-kit") (r "^0.1.0") (d #t) (k 0)) (d (n "gleam") (r "^0.6.13") (d #t) (k 0)) (d (n "glutin") (r "^0.20") (d #t) (k 0)) (d (n "harfbuzz-sys") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "scan-rules") (r "^0.2.0") (d #t) (k 0)) (d (n "unicode-bidi") (r "^0.3.4") (d #t) (k 0)) (d (n "webrender") (r "^0.58") (d #t) (k 0)) (d (n "winit") (r "^0.19") (d #t) (k 0)))) (h "0xfc3c390mih4kyxncvl35549549ha0k1v3nbzjj92fvjv1wgywy")))
+
+(define-public crate-skryn-0.0.4 (c (n "skryn") (v "0.0.4") (d (list (d (n "app_units") (r "^0.7") (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "euclid") (r "^0.19") (d #t) (k 0)) (d (n "font-kit") (r "^0.1.0") (d #t) (k 0)) (d (n "gleam") (r "^0.6.13") (d #t) (k 0)) (d (n "glutin") (r "^0.21.0-rc2") (d #t) (k 0)) (d (n "harfbuzz") (r "= 0.3.0") (d #t) (k 0)) (d (n "harfbuzz-sys") (r "= 0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "scan-rules") (r "^0.2.0") (d #t) (k 0)) (d (n "unicode-bidi") (r "^0.3.4") (d #t) (k 0)) (d (n "webrender") (r "^0.58") (d #t) (k 0)) (d (n "winit") (r "^0.19") (d #t) (k 0)))) (h "0q5wr7zlsrrhrvla1rawy6rf1z49vn227bkm8vxfmbab18pwxsw7")))
+

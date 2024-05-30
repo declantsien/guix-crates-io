@@ -1,0 +1,6 @@
+(define-module (crates-io wu rs wurstdoktor) #:use-module (crates-io))
+
+(define-public crate-wurstdoktor-0.1.0 (c (n "wurstdoktor") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "pom") (r "^3.0.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.16.0") (f (quote ("backup"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_rusqlite") (r "^0.17.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "0jk1skz2vam92jgdrphn2ahv34xlbizrhgzvxi51a3ibaq25k8v4") (f (quote (("sqlitedb" "rusqlite" "serde_rusqlite"))))))
+
+(define-public crate-wurstdoktor-0.2.0 (c (n "wurstdoktor") (v "0.2.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "pom") (r "^3.0.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.16.0") (f (quote ("backup"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_rusqlite") (r "^0.17.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "1jhwv1r44kpp6c1zqxaar0rpmjljw09p8z0wvqbc4h826lzns42j") (f (quote (("sqlitedb" "rusqlite" "serde_rusqlite"))))))
+

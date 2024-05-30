@@ -1,0 +1,6 @@
+(define-module (crates-io ro ut router-service) #:use-module (crates-io))
+
+(define-public crate-router-service-0.1.0 (c (n "router-service") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.28") (f (quote ("executor"))) (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("http1" "http2" "server" "tcp"))) (d #t) (k 2)) (d (n "matchit") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("io-util" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (f (quote ("make"))) (d #t) (k 2)))) (h "0y4598d4mwaq882iffdqgym5mlpwqydqxq0gshsp96acn23hlgrp")))
+
+(define-public crate-router-service-0.2.0 (c (n "router-service") (v "0.2.0") (d (list (d (n "futures") (r "^0.3.28") (f (quote ("executor"))) (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("http1" "http2" "server" "tcp"))) (d #t) (k 2)) (d (n "matchit") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("io-util" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (f (quote ("make"))) (d #t) (k 2)))) (h "17b2zali6j35xgm0326fy6nqgz5q4dbd6ilf75pj3f7dfa6c9qca")))
+

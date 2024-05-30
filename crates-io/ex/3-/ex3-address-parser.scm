@@ -1,0 +1,6 @@
+(define-module (crates-io ex #{3-}# ex3-address-parser) #:use-module (crates-io))
+
+(define-public crate-ex3-address-parser-0.15.0 (c (n "ex3-address-parser") (v "0.15.0") (d (list (d (n "bitcoin") (r "^0.31") (d #t) (k 0)) (d (n "ex3-crypto") (r "^0.15") (f (quote ("canister"))) (d #t) (k 0)) (d (n "ex3-node-error") (r "^0.14") (d #t) (k 0)) (d (n "ex3-node-types") (r "^0.15") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)))) (h "18j03qc2lsvz8vazi46m7ybm0amykxfpxrbf8l5wwkx46dlgjnfr")))
+
+(define-public crate-ex3-address-parser-0.15.1 (c (n "ex3-address-parser") (v "0.15.1") (d (list (d (n "bitcoin") (r "^0.31") (d #t) (k 0)) (d (n "ex3-crypto") (r "^0.15") (f (quote ("canister"))) (d #t) (k 0)) (d (n "ex3-node-error") (r "^0.14") (d #t) (k 0)) (d (n "ex3-node-types") (r "^0.15") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "k256") (r "^0.13.1") (f (quote ("ecdsa" "sha256" "std"))) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)))) (h "01rgsh46ariw2n5f12jvi62gq5csmcmfmv0cc4iy0bmhf0mqsfvy")))
+

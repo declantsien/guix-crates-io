@@ -1,0 +1,4 @@
+(define-module (crates-io de xt dexterior-visuals) #:use-module (crates-io))
+
+(define-public crate-dexterior-visuals-0.1.0 (c (n "dexterior-visuals") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.14.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dexterior-core") (r "^0.1.0") (d #t) (k 0)) (d (n "encase") (r "^0.6.1") (f (quote ("nalgebra"))) (d #t) (k 0)) (d (n "enterpolation") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 0)) (d (n "nalgebra-sparse") (r "^0.9.0") (d #t) (k 0)) (d (n "palette") (r "^0.7.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "wgpu") (r "^0.18.0") (d #t) (k 0)) (d (n "winit") (r "^0.28.7") (d #t) (k 0)))) (h "142rwcm1x1jp423i9pswz8r4pznqajkdw8vryhfaw7bv1bn8zlix")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io al as alass-util) #:use-module (crates-io))
+
+(define-public crate-alass-util-0.0.0 (c (n "alass-util") (v "0.0.0") (h "00fshwxg6sldciw793zsblyd4zl8vqs66vagpf42dfgvx1h8b5js")))
+
+(define-public crate-alass-util-0.1.0 (c (n "alass-util") (v "0.1.0") (d (list (d (n "alass-core") (r "^2.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "chardet") (r "^0.2") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.22") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "subparse") (r "^0.6.2") (d #t) (k 0)) (d (n "webrtc-vad") (r "^0.4.0") (d #t) (k 0)))) (h "0b295vi9cy2xssy2r85yxsr4imqf5rxdly56jr07h7zlpcmpck91") (f (quote (("default") ("debug-voice-activity-data") ("debug-sample-data"))))))
+
+(define-public crate-alass-util-0.1.1 (c (n "alass-util") (v "0.1.1") (d (list (d (n "alass-core") (r "^2.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "chardet") (r "^0.2") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.22") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "subparse") (r "^0.6.2") (d #t) (k 0)) (d (n "webrtc-vad") (r "^0.4.0") (d #t) (k 0)))) (h "1vj71fnvdinwfrl499i1jdzi4ar5d8wfdpym42cvyhwpb9dpzvj1") (f (quote (("default") ("debug-voice-activity-data") ("debug-sample-data"))))))
+
+(define-public crate-alass-util-0.1.2 (c (n "alass-util") (v "0.1.2") (d (list (d (n "alass-core") (r "^2.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "chardet") (r "^0.2") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.22") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "subparse") (r "^0.6.2") (d #t) (k 0)) (d (n "webrtc-vad") (r "^0.4.0") (d #t) (k 0)))) (h "02lfxfcnnd9dwsjpnc1i7s5dzmgpmsqifv80lqv0c4p2d2rb9c07") (f (quote (("default") ("debug-voice-activity-data") ("debug-sample-data"))))))
+
+(define-public crate-alass-util-0.3.0 (c (n "alass-util") (v "0.3.0") (d (list (d (n "alass-core") (r "^2.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "chardet") (r "^0.2") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.22") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "subparse") (r "^0.7.0") (d #t) (k 0)) (d (n "tract-onnx") (r "^0.16.1") (o #t) (d #t) (k 0)) (d (n "webrtc-vad") (r "^0.4.0") (o #t) (d #t) (k 0)))) (h "0fz7i83ddfhpblb88smkn2c16wrw055gqyqm4g0b0h3hp5fr8jgb") (f (quote (("vad-webrtc" "webrtc-vad") ("vad-silero-tract" "tract-onnx") ("default" "vad-webrtc") ("debug-voice-activity-data") ("debug-sample-data"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io re st restless-data) #:use-module (crates-io))
+
+(define-public crate-restless-data-0.1.0 (c (n "restless-data") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1.5.0") (o #t) (d #t) (k 0)) (d (n "postcard") (r "^1.0.8") (f (quote ("alloc"))) (o #t) (d #t) (k 0)) (d (n "restless-core") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (o #t) (d #t) (k 0)))) (h "19361gfrg5zpcxk1hg6qdjifz1zlhxrv03dwip5ywzgw3m22y2ck") (f (quote (("full" "bytes" "json" "postcard" "bincode" "yaml")))) (s 2) (e (quote (("yaml" "dep:serde_yaml" "dep:serde") ("postcard" "dep:postcard" "dep:serde") ("json" "dep:serde_json" "dep:serde") ("bytes" "dep:bytes" "restless-core/bytes") ("bincode" "dep:bincode" "dep:serde"))))))
+

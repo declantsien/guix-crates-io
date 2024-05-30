@@ -1,0 +1,4 @@
+(define-module (crates-io cm ar cmark-translate) #:use-module (crates-io))
+
+(define-public crate-cmark-translate-0.2.2 (c (n "cmark-translate") (v "0.2.2") (d (list (d (n "clap") (r "^4") (f (quote ("derive" "std" "usage" "help"))) (k 0)) (d (n "comrak") (r "^0.14") (d #t) (k 0)) (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minidom") (r "^0.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("native-tls" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "umya-spreadsheet") (r "^0.8") (d #t) (k 0)) (d (n "embed-resource") (r "^1.7") (d #t) (t "cfg(windows)") (k 1)))) (h "05nljly0gr5128ia6q88ksq0x43k5bjfmqj5ga7qk0wjjib8fhv5")))
+

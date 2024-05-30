@@ -1,0 +1,4 @@
+(define-module (crates-io sf tp sftp-server) #:use-module (crates-io))
+
+(define-public crate-sftp-server-0.1.0 (c (n "sftp-server") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "camino") (r "^1.0.7") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lexiclean-cow") (r "^0.1.0") (f (quote ("camino"))) (d #t) (k 0)) (d (n "nix") (r "^0.25") (d #t) (k 0)) (d (n "sftp-protocol") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "thrussh") (r "^0.33") (o #t) (d #t) (k 0)) (d (n "thrussh-keys") (r "^0.21") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "io-std" "io-util" "sync" "time"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1q98ymr0m4pg20db9h1f0iwgg8n0nxc14y8qaddfbhnv7xgyc11v") (f (quote (("standalone" "thrussh" "thrussh-keys") ("default" "standalone"))))))
+

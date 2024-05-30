@@ -1,0 +1,4 @@
+(define-module (crates-io to uc touchscreen) #:use-module (crates-io))
+
+(define-public crate-touchscreen-0.1.0 (c (n "touchscreen") (v "0.1.0") (d (list (d (n "embedded-graphics-core") (r "^0.3.3") (d #t) (k 0)) (d (n "embedded-graphics-web-simulator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-rc.1") (o #t) (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0-rc.1") (f (quote ("eh1"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.88") (o #t) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("Document" "Element" "HtmlElement" "MouseEvent" "Window"))) (o #t) (d #t) (k 0)))) (h "1m1aqvga9r8qaaj6lj0mvd7z0rvvw3f9m80il8rrzfjg1gfgcpqc") (s 2) (e (quote (("web-screen" "dep:wasm-bindgen" "dep:embedded-graphics-web-simulator" "dep:web-sys") ("red-screen" "dep:embedded-hal"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ka sp kaspa-wallet) #:use-module (crates-io))
+
+(define-public crate-kaspa-wallet-0.0.0 (c (n "kaspa-wallet") (v "0.0.0") (h "0pvizx0qnsnm62prp9cwz6bkwjwn96lk169z6vcn8ffsrf5icva9")))
+
+(define-public crate-kaspa-wallet-0.0.1 (c (n "kaspa-wallet") (v "0.0.1") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "kaspa-wallet-cli") (r "^0.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "workflow-log") (r "^0.3.14") (d #t) (k 0)) (d (n "workflow-terminal") (r "^0.3.14") (d #t) (k 0)))) (h "1hkig5m77fghrwgkjrmrzlrcln1j6nc5rivc53gwkrdxbhgrqdyr")))
+
+(define-public crate-kaspa-wallet-0.0.2 (c (n "kaspa-wallet") (v "0.0.2") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "kaspa-wallet-cli") (r "^0.0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "workflow-log") (r "^0.3.14") (d #t) (k 0)) (d (n "workflow-terminal") (r "^0.3.14") (d #t) (k 0)))) (h "0xjv0kgxckmays7ifk7s5pvrk3zkk0k39pylizh4hcmw01gn0f3n")))
+
+(define-public crate-kaspa-wallet-0.0.3 (c (n "kaspa-wallet") (v "0.0.3") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "kaspa-wallet-cli") (r "^0.0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "workflow-log") (r "^0.3.14") (d #t) (k 0)) (d (n "workflow-terminal") (r "^0.3.14") (d #t) (k 0)))) (h "06sp88h60rsszld32iqvlsvjfra5lb1rfja3h134x4wazbsm1drd")))
+
+(define-public crate-kaspa-wallet-0.0.4 (c (n "kaspa-wallet") (v "0.0.4") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "kaspa-cli") (r "^0.0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "workflow-log") (r "^0.8.0") (d #t) (k 0)) (d (n "workflow-terminal") (r "^0.8.0") (d #t) (k 0)))) (h "0gn320fvlah4dzxis1mf9dvw0w0r6874vib5pzd8ssd33wmhpk7f") (f (quote (("legacy-rpc" "kaspa-cli/legacy-rpc") ("default"))))))
+
+(define-public crate-kaspa-wallet-0.13.4 (c (n "kaspa-wallet") (v "0.13.4") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "kaspa-cli") (r "^0.13.4") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "workflow-log") (r "^0.10.3") (d #t) (k 0)) (d (n "workflow-terminal") (r "^0.10.3") (d #t) (k 0)))) (h "1iw778flayy497cr85x7mvkyc7h8wbgl8bg1glb74kqqj0w4d6jb") (f (quote (("default"))))))
+

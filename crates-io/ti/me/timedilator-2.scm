@@ -1,0 +1,10 @@
+(define-module (crates-io ti me timedilator-2) #:use-module (crates-io))
+
+(define-public crate-timedilator-2-0.1.0 (c (n "timedilator-2") (v "0.1.0") (d (list (d (n "clap") (r "^2.34") (d #t) (k 0)) (d (n "crossterm") (r "^0.19") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "tui") (r "^0.14") (f (quote ("crossterm"))) (k 0)) (d (n "tui-logger") (r "=0.6.3") (d #t) (k 0)))) (h "0cafh1s21ns3k7l24ykvvazg499szy5zryfgcrrnb6449cmbnrys")))
+
+(define-public crate-timedilator-2-0.2.0 (c (n "timedilator-2") (v "0.2.0") (d (list (d (n "clap") (r "^2.34") (d #t) (k 0)) (d (n "crossterm") (r "^0.19") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "tui") (r "^0.14") (f (quote ("crossterm"))) (k 0)) (d (n "tui-logger") (r "=0.6.3") (d #t) (k 0)))) (h "1q8i10gq55fgr82lzcysn5qwrmjyqj3qjla3h8kq9q250rls2ymw")))
+
+(define-public crate-timedilator-2-0.2.1 (c (n "timedilator-2") (v "0.2.1") (d (list (d (n "clap") (r "^2.34") (d #t) (k 0)) (d (n "crossterm") (r "^0.19") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "tui") (r "^0.14") (f (quote ("crossterm"))) (k 0)) (d (n "tui-logger") (r "=0.6.3") (d #t) (k 0)))) (h "1dppzwfigwv6gbq000zkp8ljjcmc1qhwyj7s1v1nj2jfsc02s2sf")))
+
+(define-public crate-timedilator-2-0.2.2 (c (n "timedilator-2") (v "0.2.2") (d (list (d (n "bitpacking") (r "^0.8.4") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^2.34") (d #t) (k 0)) (d (n "crossterm") (r "^0.19") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.3.0") (d #t) (k 0)) (d (n "humansize") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "tui") (r "^0.14") (f (quote ("crossterm"))) (k 0)) (d (n "tui-logger") (r "=0.6.3") (d #t) (k 0)))) (h "0r3i9a5543kdmdsiqc8mz7rksfhp21g8p9ivsiq4d3jgsg7h77y4")))
+

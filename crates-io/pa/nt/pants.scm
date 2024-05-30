@@ -1,0 +1,8 @@
+(define-module (crates-io pa nt pants) #:use-module (crates-io))
+
+(define-public crate-pants-0.1.0 (c (n "pants") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rocket") (r "^0.4") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4") (f (quote ("tera_templates" "serve"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tera") (r "^0.11") (d #t) (k 0)))) (h "03mfp677akvhhsi73g5w94vd5apnqrpniqnxcgkbvz0qlw93qa89")))
+
+(define-public crate-pants-0.1.1 (c (n "pants") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rocket") (r "^0.4") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4") (f (quote ("tera_templates" "serve"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tera") (r "^0.11") (d #t) (k 0)))) (h "0krh4y1v4ahmyxhg0r3za8klhf6ial7yy68n9xi7y3l3dclipjbm")))
+
+(define-public crate-pants-0.1.2 (c (n "pants") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rocket") (r "^0.4") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4") (f (quote ("tera_templates" "serve"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tera") (r "^0.11") (d #t) (k 0)))) (h "09kn2vmf0964knkydp3wwvrs59f8y47f9jwxvj3v70hrj8pkknq7")))
+

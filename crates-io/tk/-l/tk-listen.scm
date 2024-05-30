@@ -1,0 +1,10 @@
+(define-module (crates-io tk -l tk-listen) #:use-module (crates-io))
+
+(define-public crate-tk-listen-0.1.0 (c (n "tk-listen") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "futures") (r "^0.1.10") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "tk-http") (r "^0.1.2") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1.2") (d #t) (k 0)))) (h "1h1lz7j0bqlsq2c21gl0drj87x6i5lwfn2pxp0z7m1fmwgamynk0")))
+
+(define-public crate-tk-listen-0.1.1 (c (n "tk-listen") (v "0.1.1") (d (list (d (n "abstract-ns") (r "^0.4.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "futures") (r "^0.1.16") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "ns-router") (r "^0.1.0") (d #t) (k 2)) (d (n "ns-std-threaded") (r "^0.3.0") (d #t) (k 2)) (d (n "tk-http") (r "^0.3.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.3") (d #t) (k 0)))) (h "0s96wnj12cis7w08066pzbc68z96v0ybx3x053sfai7vdsnq66vs")))
+
+(define-public crate-tk-listen-0.2.0 (c (n "tk-listen") (v "0.2.0") (d (list (d (n "abstract-ns") (r "^0.4.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 2)) (d (n "futures") (r "^0.1.16") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "ns-env-config") (r "^0.1.0") (d #t) (k 2)) (d (n "tk-http") (r "^0.3.1") (d #t) (k 2)) (d (n "tokio") (r "^0.1.5") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.10") (d #t) (k 2)) (d (n "tokio-io") (r "^0.1.3") (d #t) (k 0)))) (h "078msbb45q8wfw24gdl0zlpkcnj4xn5z26mjmg15ysdph1mbmiyy")))
+
+(define-public crate-tk-listen-0.2.1 (c (n "tk-listen") (v "0.2.1") (d (list (d (n "abstract-ns") (r "^0.4.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 2)) (d (n "futures") (r "^0.1.16") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "ns-env-config") (r "^0.1.0") (d #t) (k 2)) (d (n "tk-http") (r "^0.3.1") (d #t) (k 2)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.10") (d #t) (k 2)) (d (n "tokio-io") (r "^0.1.3") (d #t) (k 0)))) (h "0jyspcaacxb7n0vm6kwy869bk5kh91zdzlpw73z7wif0d3wv0qjl")))
+

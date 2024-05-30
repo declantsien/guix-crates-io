@@ -1,0 +1,6 @@
+(define-module (crates-io sw c- swc-plugin-vue-jsx) #:use-module (crates-io))
+
+(define-public crate-swc-plugin-vue-jsx-0.0.0 (c (n "swc-plugin-vue-jsx") (v "0.0.0") (h "0zaym6d55ihm6cfmldj8gcvlk8crg5wiybsh08pcx7ycn0pqg129")))
+
+(define-public crate-swc-plugin-vue-jsx-0.1.0 (c (n "swc-plugin-vue-jsx") (v "0.1.0") (d (list (d (n "indexmap") (r "^1.9") (d #t) (k 0)) (d (n "insta") (r "^1.26.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "swc-helper-jsx-transform") (r "^0.1.3") (d #t) (k 0)) (d (n "swc-helper-module-import") (r "^0.1.1") (d #t) (k 0)) (d (n "swc_core") (r "^0.52") (f (quote ("ecma_plugin_transform" "common" "ecma_parser" "ecma_codegen" "ecma_transforms_typescript" "ecma_transforms_optimization" "ecma_quote" "ecma_utils" "ecma_minifier" "testing_transform"))) (d #t) (k 0)) (d (n "testing") (r "^0.31.28") (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (f (quote ("release_max_level_off"))) (d #t) (k 0)))) (h "109dq4628cpam4m238j7752m010hf4fcnh3mf0cbhal9nm89424h")))
+

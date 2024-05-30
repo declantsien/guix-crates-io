@@ -1,0 +1,20 @@
+(define-module (crates-io ws -l ws-lite) #:use-module (crates-io))
+
+(define-public crate-ws-lite-0.1.0 (c (n "ws-lite") (v "0.1.0") (d (list (d (n "allocation-counter") (r "^0.5") (d #t) (k 2)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "async-std") (r "^1.8") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.7") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "sha1") (r "^0.6.0") (d #t) (k 0)))) (h "13wrmrnvacp37yx571chb4n05vfhw6ajvyak00vn7p9lj818cjkh")))
+
+(define-public crate-ws-lite-0.2.0 (c (n "ws-lite") (v "0.2.0") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.2") (d #t) (k 0)))) (h "0vx2jgzgibw6ikbiqjppw1wwd0lvqx987w6kp1597j1dk01qyqz5") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.2.1 (c (n "ws-lite") (v "0.2.1") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.2") (d #t) (k 0)))) (h "19qjx3zg3f3cssb64bimjxvjx4s83rrp6vb2xv8czylalsl3k65v") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.3.0 (c (n "ws-lite") (v "0.3.0") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.2") (d #t) (k 0)))) (h "1radzk5bfq22sznv33ils5xgf6h6088zclafxq59jvy93gpli0a8") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.3.1 (c (n "ws-lite") (v "0.3.1") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "futures-lite") (r "^1.11.2") (d #t) (k 0)))) (h "00c6a20irkamjvjvn5axvi1syz1liwr09zi15v10739a45p1s068") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.4.0 (c (n "ws-lite") (v "0.4.0") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "futures-lite") (r "^1.11.2") (d #t) (k 0)))) (h "1kf34pb5rsl9rghhxq4jvwpbsn8cs7p1051iiq1c7x2lqimbk0wz") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.5.0 (c (n "ws-lite") (v "0.5.0") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "async-net") (r "^1.5.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "futures-lite") (r "^1.11.2") (d #t) (k 0)))) (h "0f8s59ms7dxgck1q0331bfghrhslrz9jn1i98si873wgvd7j29vf") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.6.0 (c (n "ws-lite") (v "0.6.0") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)))) (h "15g1aiafb6y3gyn1n4bcm88zmh59llha4kai2s80wsfhhiiip44g") (f (quote (("count-allocations" "allocation-counter"))))))
+
+(define-public crate-ws-lite-0.6.1 (c (n "ws-lite") (v "0.6.1") (d (list (d (n "allocation-counter") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "const-sha1") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)))) (h "1z38s38hvnba4mn19p81nj4znhv7xfm445pkqs1gjb7halj1rs11") (f (quote (("count-allocations" "allocation-counter"))))))
+

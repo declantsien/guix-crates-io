@@ -1,0 +1,4 @@
+(define-module (crates-io vi de videocore-gencmd) #:use-module (crates-io))
+
+(define-public crate-videocore-gencmd-0.1.0 (c (n "videocore-gencmd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "clap") (r "^2") (o #t) (d #t) (k 0)) (d (n "edwardium_logger") (r "^1.2.0") (f (quote ("colored_stderr_output"))) (o #t) (k 0)) (d (n "edwardium_logger") (r "^1.2.0") (f (quote ("colored_stderr_output"))) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "06y0bqj3blfxsz6mxay8gbzgsjrc51gigmfflx8kzi0447c0yrym") (f (quote (("run_bindgen" "bindgen") ("mock_vc_ffi" "once_cell") ("global_singleton" "once_cell") ("default" "global_singleton") ("cli_app" "clap" "anyhow" "edwardium_logger"))))))
+

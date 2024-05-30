@@ -1,0 +1,4 @@
+(define-module (crates-io au ru aurum) #:use-module (crates-io))
+
+(define-public crate-aurum-0.1.0 (c (n "aurum") (v "0.1.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pkg-utils") (r "^0.1") (d #t) (k 0)) (d (n "raur") (r "^2.0") (d #t) (k 0)) (d (n "raur-ext") (r "^1.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "solvent") (r "^0.8") (d #t) (k 0)) (d (n "split-iter") (r "^0.1") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "version-compare") (r "^0.0.9") (d #t) (k 0)))) (h "0ak686dng2m4sh7m8nng5f3mzwph4nz7ysfvvb707g2ia2j3nl4k")))
+

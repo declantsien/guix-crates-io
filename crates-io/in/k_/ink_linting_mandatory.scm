@@ -1,0 +1,6 @@
+(define-module (crates-io in k_ ink_linting_mandatory) #:use-module (crates-io))
+
+(define-public crate-ink_linting_mandatory-0.0.0 (c (n "ink_linting_mandatory") (v "0.0.0") (h "0350xnkgc7j0mg0fs69yrd6b8l3ybh0898arq4fk8f4anv612ypl")))
+
+(define-public crate-ink_linting_mandatory-5.0.0-rc (c (n "ink_linting_mandatory") (v "5.0.0-rc") (d (list (d (n "dylint_linting") (r "^2.1.12") (d #t) (k 0)) (d (n "dylint_testing") (r "^2.1.12") (d #t) (k 2)) (d (n "if_chain") (r "^1.0.2") (d #t) (k 0)) (d (n "ink") (r "=5.0.0-rc") (f (quote ("std"))) (k 2)) (d (n "ink_env") (r "=5.0.0-rc") (k 2)) (d (n "ink_linting_utils") (r "=5.0.0-rc") (d #t) (k 0)) (d (n "ink_metadata") (r "=5.0.0-rc") (k 2)) (d (n "ink_primitives") (r "=5.0.0-rc") (k 2)) (d (n "ink_storage") (r "=5.0.0-rc") (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "scale") (r "^3.4") (f (quote ("derive"))) (k 2) (p "parity-scale-codec")) (d (n "scale-info") (r "^2.6") (f (quote ("derive"))) (k 2)))) (h "1pljda777if8csyp3p59f568vjcldkv6g4pgz97v12j77qcpad7w") (f (quote (("std" "ink_metadata/std" "ink_env/std" "ink_storage/std" "ink_primitives/std" "scale/std" "scale-info/std") ("ink-as-dependency") ("default" "std"))))))
+

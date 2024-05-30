@@ -1,0 +1,4 @@
+(define-module (crates-io co sm cosmos-cli) #:use-module (crates-io))
+
+(define-public crate-cosmos-cli-0.1.0 (c (n "cosmos-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "json_to_table") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "19vkhmy3xpli6gfv17rr4hfrwym9cvbzc62nqppw5pd0na867ipj")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io wa ll wallet-gen) #:use-module (crates-io))
+
+(define-public crate-wallet-gen-0.3.2 (c (n "wallet-gen") (v "0.3.2") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tiny-keccak") (r "^1") (d #t) (k 0)))) (h "1q7fkni4yi3pypy2zgc8mck8q3hmhknng4f1p7sp6lmm3fa9vrj6")))
+
+(define-public crate-wallet-gen-0.4.0 (c (n "wallet-gen") (v "0.4.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "safemem") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tiny-keccak") (r "^1") (d #t) (k 0)))) (h "0519lppi3vv82dzih6whsv9majsn4jg64z48i6rx5wm434hww4bc")))
+
+(define-public crate-wallet-gen-0.4.1 (c (n "wallet-gen") (v "0.4.1") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "safemem") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tiny-keccak") (r "^1") (d #t) (k 0)))) (h "10zv7x48sw0ndrmx969kqcxmkfdjc39bl7p2kiw69q67p881yiwg")))
+

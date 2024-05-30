@@ -1,0 +1,14 @@
+(define-module (crates-io sn ar snarkos-utilities) #:use-module (crates-io))
+
+(define-public crate-snarkos-utilities-1.0.0 (c (n "snarkos-utilities") (v "1.0.0") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "snarkos-derives") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "snarkos-errors") (r "^1.0.0") (k 0)))) (h "01ccn2hrv09g7vdg3mimjjxzpclx1i1b2i4k1vww4iac86b2pb91") (f (quote (("std") ("derive" "snarkos-derives") ("default" "std" "derive")))) (y #t)))
+
+(define-public crate-snarkos-utilities-1.1.0 (c (n "snarkos-utilities") (v "1.1.0") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "snarkos-derives") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "snarkos-errors") (r "^1.0.0") (k 0)))) (h "1i5k078jgz7dzvvqphhm5pd19f2l2ql2yqwkwf5f37h2fph63108") (f (quote (("std") ("derive" "snarkos-derives") ("default" "std" "derive")))) (y #t)))
+
+(define-public crate-snarkos-utilities-1.1.1 (c (n "snarkos-utilities") (v "1.1.1") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "snarkos-derives") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "snarkos-errors") (r "^1.0.0") (k 0)))) (h "1c4l4j449r0dkzgbfra8r78335irk8j9vzsidzrm6gk6v92m3bqs") (f (quote (("std") ("derive" "snarkos-derives") ("default" "std" "derive")))) (y #t)))
+
+(define-public crate-snarkos-utilities-1.1.2 (c (n "snarkos-utilities") (v "1.1.2") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "snarkos-derives") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "snarkos-errors") (r "^1.0.0") (k 0)))) (h "1mvq4nd8bc3ccm0jhsi0rk8gsrmdq4hrhw4rhfpjf0afdp17xl20") (f (quote (("std") ("derive" "snarkos-derives") ("default" "std" "derive")))) (y #t)))
+
+(define-public crate-snarkos-utilities-1.1.3 (c (n "snarkos-utilities") (v "1.1.3") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "snarkos-derives") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "snarkos-errors") (r "^1.0.0") (k 0)))) (h "0q9kc3a93vb28b19dp7qvhp06vvbm43g8lss603l9mkb0n9cf84a") (f (quote (("std") ("derive" "snarkos-derives") ("default" "std" "derive")))) (y #t)))
+
+(define-public crate-snarkos-utilities-1.1.4 (c (n "snarkos-utilities") (v "1.1.4") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "snarkos-derives") (r "^1.1.4-alpha.0") (o #t) (d #t) (k 0)) (d (n "snarkos-errors") (r "^1.1.4-alpha.0") (k 0)))) (h "0wvxibz6cn7mhvqp595gpv0s1qwkpz86fc3d4ql8vkhsg77iqvkg") (f (quote (("std") ("derive" "snarkos-derives") ("default" "std" "derive")))) (y #t)))
+

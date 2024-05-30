@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# b bnr) #:use-module (crates-io))
+
+(define-public crate-bnr-0.1.0 (c (n "bnr") (v "0.1.0") (d (list (d (n "bnr-xfs") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "macros" "parsing"))) (d #t) (k 0) (p "time")))) (h "10x99v9d4r3qksawgsg5lyqrabba26nip55wb7003ydb1aprlagb") (f (quote (("test-reboot") ("e2e-tests"))))))
+
+(define-public crate-bnr-0.1.1 (c (n "bnr") (v "0.1.1") (d (list (d (n "bnr-xfs") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "macros" "parsing"))) (d #t) (k 0) (p "time")))) (h "1gri1mq96hl9r1h2a85v9zhl26q5fsdyg2gz06xsqm3qdq0swk2m") (f (quote (("test-reboot") ("e2e-tests"))))))
+
+(define-public crate-bnr-0.1.2 (c (n "bnr") (v "0.1.2") (d (list (d (n "bnr-xfs") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "macros" "parsing"))) (d #t) (k 0) (p "time")))) (h "0h06dccddxl4sqmwj1ymgwbb6c8m7jfjbcpq732gj8mw1warma0r") (f (quote (("test-reboot") ("e2e-tests"))))))
+

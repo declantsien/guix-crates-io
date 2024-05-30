@@ -1,0 +1,8 @@
+(define-module (crates-io ca rg cargo-cli) #:use-module (crates-io))
+
+(define-public crate-cargo-cli-0.1.0 (c (n "cargo-cli") (v "0.1.0") (d (list (d (n "clap") (r "^2.25.0") (d #t) (k 0)) (d (n "curl") (r "^0.4.7") (d #t) (k 0)) (d (n "error-chain") (r "^0.10.0") (d #t) (k 0)) (d (n "mustache") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "term") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "^0.4.2") (d #t) (k 0)))) (h "0rw2xk6z3ny5sfpzq19ihz4q79wnm3vrdv9ffk253a2yz0v2qw5y")))
+
+(define-public crate-cargo-cli-0.1.1 (c (n "cargo-cli") (v "0.1.1") (d (list (d (n "clap") (r "^2.25.0") (d #t) (k 0)) (d (n "curl") (r "^0.4.7") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0-rc.2") (d #t) (k 0)) (d (n "mustache") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "term") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "^0.4.2") (d #t) (k 0)))) (h "101bv5aqrnpfvsah4qlrwyw0zsqp0ghzz3qgq8xc6jwxv962fsqr")))
+
+(define-public crate-cargo-cli-1.0.0 (c (n "cargo-cli") (v "1.0.0") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "curl") (r "^0") (d #t) (k 0)) (d (n "error-chain") (r "^0") (d #t) (k 0)) (d (n "mustache") (r "^0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "term") (r "^0") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "097nyzbhn91lmq0qpvmqccn75c85cdxx7b9rqfjg5im6cw5yin8z")))
+

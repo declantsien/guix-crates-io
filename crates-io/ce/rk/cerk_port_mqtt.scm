@@ -1,0 +1,16 @@
+(define-module (crates-io ce rk cerk_port_mqtt) #:use-module (crates-io))
+
+(define-public crate-cerk_port_mqtt-0.2.0 (c (n "cerk_port_mqtt") (v "0.2.0") (d (list (d (n "cerk") (r ">=0.2.0, <0.3.0") (d #t) (k 0)) (d (n "cloudevents-sdk") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "env_logger") (r ">=0.7.1, <0.8.0") (d #t) (k 0)) (d (n "log") (r ">=0.4.0, <0.5.0") (d #t) (k 0)) (d (n "paho-mqtt") (r ">=0.6.0, <0.7.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r ">=1.0.0, <2.0.0") (d #t) (k 0)))) (h "0x4h7875bhgnfmqpyb6xqra81qqclq0jfgnyxczj317j3m0m187m")))
+
+(define-public crate-cerk_port_mqtt-0.2.1 (c (n "cerk_port_mqtt") (v "0.2.1") (d (list (d (n "cerk") (r ">=0.2.0, <0.3.0") (d #t) (k 0)) (d (n "cloudevents-sdk") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "env_logger") (r ">=0.7.1, <0.8.0") (d #t) (k 0)) (d (n "log") (r ">=0.4.0, <0.5.0") (d #t) (k 0)) (d (n "paho-mqtt") (r ">=0.6.0, <0.7.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r ">=1.0.0, <2.0.0") (d #t) (k 0)))) (h "1kzafwdhx6wyvb3cblv9v6jjnk5zpyn237f2mfwf7fncrz14n7gp")))
+
+(define-public crate-cerk_port_mqtt-0.2.6 (c (n "cerk_port_mqtt") (v "0.2.6") (d (list (d (n "cerk") (r "^0.2") (d #t) (k 0)) (d (n "cloudevents-sdk") (r "^0.3.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.6.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1vm33ynph5alnqvkfcvy4hjpml4nwjh2yc095dky0n39551qr4rv")))
+
+(define-public crate-cerk_port_mqtt-0.2.7 (c (n "cerk_port_mqtt") (v "0.2.7") (d (list (d (n "cerk") (r "^0.2") (d #t) (k 0)) (d (n "cloudevents-sdk") (r "^0.3.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.6.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1fl75pmd1ga4i6ksq60156r5z0jk0v1a8hd4c52fdbj6hyqzydvx")))
+
+(define-public crate-cerk_port_mqtt-0.2.8 (c (n "cerk_port_mqtt") (v "0.2.8") (d (list (d (n "cerk") (r "^0.2") (d #t) (k 0)) (d (n "cloudevents-sdk") (r "^0.3.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.6.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0av9clb1xm06ma50462m36ldfgz21qls0pcp3pw9v1kjh8p9hmbi")))
+
+(define-public crate-cerk_port_mqtt-0.2.10 (c (n "cerk_port_mqtt") (v "0.2.10") (d (list (d (n "cerk") (r "^0.2") (d #t) (k 0)) (d (n "cloudevents-sdk") (r "^0.3.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.6.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1f7na6pzhb5740ffli053xzq9rzv7yyxi5jkbv9sf0y7l01ffjpa")))
+
+(define-public crate-cerk_port_mqtt-0.2.11 (c (n "cerk_port_mqtt") (v "0.2.11") (d (list (d (n "cerk") (r "^0.2") (d #t) (k 0)) (d (n "cloudevents-sdk") (r "^0.3.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.6.0") (f (quote ("bundled" "build_bindgen"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0pj7q8kzsmjrbxkb7ffijks4vil521vbrwyigywfqmfnjaqrh9am")))
+

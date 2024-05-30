@@ -1,0 +1,4 @@
+(define-module (crates-io ka te kate) #:use-module (crates-io))
+
+(define-public crate-kate-0.1.0 (c (n "kate") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.22") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "enum-as-inner") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.9") (d #t) (k 0)) (d (n "tui") (r "^0.17") (d #t) (k 0)))) (h "0bcn34j42ci2rda7klnh3rq11sgm3b981s5s8w36innf2mkjbhd1")))
+

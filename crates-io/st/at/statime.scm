@@ -1,0 +1,6 @@
+(define-module (crates-io st at statime) #:use-module (crates-io))
+
+(define-public crate-statime-0.1.0 (c (n "statime") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "atomic_refcell") (r "^0.1.13") (d #t) (k 0)) (d (n "az") (r "^1.2.1") (d #t) (k 0)) (d (n "fixed") (r "^1.24") (d #t) (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (k 0)) (d (n "rand") (r "^0.8.5") (k 0)))) (h "0b8c7ibj27kzyz8smvs9b0nsiwfiws6q568bf9992livfj58b8cb") (f (quote (("std") ("fuzz" "std") ("default" "std")))) (r "1.67")))
+
+(define-public crate-statime-0.2.0 (c (n "statime") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "atomic_refcell") (r "^0.1.13") (d #t) (k 0)) (d (n "az") (r "^1.2.1") (d #t) (k 0)) (d (n "fixed") (r "^1.24") (d #t) (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (k 0)) (d (n "rand") (r "^0.8.5") (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0.176") (d #t) (k 2)))) (h "0qg4vjpgyn0q12m9ll5jfa07ns4h2w0vfjgw2ykz62mpwixwc3ig") (f (quote (("std") ("fuzz" "std") ("default" "std" "serde")))) (s 2) (e (quote (("serde" "dep:serde")))) (r "1.67")))
+

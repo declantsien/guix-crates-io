@@ -1,0 +1,4 @@
+(define-module (crates-io tt yc ttycommand) #:use-module (crates-io))
+
+(define-public crate-ttycommand-0.1.0 (c (n "ttycommand") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "futures-core") (r "^0.3.25") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-fd") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.11") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1pcld2gsb6csynf4sbphibvsm8c2qq3760d928bfjcwl3n4m3abz")))
+

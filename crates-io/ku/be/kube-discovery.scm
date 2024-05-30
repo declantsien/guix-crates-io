@@ -1,0 +1,20 @@
+(define-module (crates-io ku be kube-discovery) #:use-module (crates-io))
+
+(define-public crate-kube-discovery-0.1.0 (c (n "kube-discovery") (v "0.1.0") (d (list (d (n "k8s-openapi") (r "^0.20.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.86.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "07apc102mwnp8rs7yxv0frqsr4cdiqfdcf0cgqxygh82428dbl3h")))
+
+(define-public crate-kube-discovery-0.2.0 (c (n "kube-discovery") (v "0.2.0") (d (list (d (n "k8s-openapi") (r "^0.20.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.86.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0ighsw37y9wyj6fa64hp9wcp90jyphpinyfz3g752g0pgz7lb5ny")))
+
+(define-public crate-kube-discovery-0.3.0 (c (n "kube-discovery") (v "0.3.0") (d (list (d (n "k8s-openapi") (r "^0.20.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.86.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1jqsi1g0gs0fjmwzj1w5kfgs3p7wsbls36r4011gblis5d43aqa8") (y #t)))
+
+(define-public crate-kube-discovery-0.3.1 (c (n "kube-discovery") (v "0.3.1") (d (list (d (n "k8s-openapi") (r "^0.20.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.86.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0kkyf96ixgrgsijky08qkmhhfd7s7x0b017kaqpmsvrqw3x186bq")))
+
+(define-public crate-kube-discovery-0.3.2 (c (n "kube-discovery") (v "0.3.2") (d (list (d (n "k8s-openapi") (r "^0.20.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.87.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1xjjlwc6rpbm4qa8kyjgff5m073xgnxdpgibglvikl66bfiakckx")))
+
+(define-public crate-kube-discovery-0.3.3 (c (n "kube-discovery") (v "0.3.3") (d (list (d (n "k8s-openapi") (r ">=0.20.0, <1") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r ">=0.87.0, <1") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "00qikpsrcc0hrzrqnf3xfv3l4nkwsf94kpkdchxaqqm88pqsbn8s") (y #t)))
+
+(define-public crate-kube-discovery-0.4.0 (c (n "kube-discovery") (v "0.4.0") (d (list (d (n "k8s-openapi") (r "^0.21.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.88.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0y013bvdfip2a400r90w130g7r54cmv2s48wy6rn35ikmywwmj87")))
+
+(define-public crate-kube-discovery-0.4.1 (c (n "kube-discovery") (v "0.4.1") (d (list (d (n "k8s-openapi") (r "^0.21.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.88.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1q5y7ck035lyd9pgrnhx7cap1vmr3lgbm8w0kgqfp44hixq92bk9")))
+
+(define-public crate-kube-discovery-0.4.2 (c (n "kube-discovery") (v "0.4.2") (d (list (d (n "k8s-openapi") (r "^0.21.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "kube") (r "^0.90.0") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0qcj64smi5f5g9w7v5vxllzhb0pp02dfqicj8xrqwa1vhgrnmcqy")))
+

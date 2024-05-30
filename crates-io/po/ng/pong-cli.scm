@@ -1,0 +1,6 @@
+(define-module (crates-io po ng pong-cli) #:use-module (crates-io))
+
+(define-public crate-pong-cli-1.0.0 (c (n "pong-cli") (v "1.0.0") (d (list (d (n "crossterm") (r "^0.12.1") (f (quote ("input" "cursor" "screen" "serde"))) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "specs") (r "^0.15.1") (f (quote ("specs-derive" "shred-derive"))) (d #t) (k 0)))) (h "0fwmg3q6adn6v0ksglky5c36a02dw8g566hsjr4m8zvp54bpfngd") (f (quote (("style" "crossterm/style") ("random" "rand") ("nightly" "specs/nightly") ("default" "random" "style"))))))
+
+(define-public crate-pong-cli-1.0.1 (c (n "pong-cli") (v "1.0.1") (d (list (d (n "crossterm") (r "^0.12.1") (f (quote ("input" "cursor" "screen" "serde"))) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "specs") (r "^0.15.1") (f (quote ("specs-derive" "shred-derive"))) (d #t) (k 0)))) (h "0650xklak3xh4dhfk1jm3grwyy51l032vvgmld21hzqbc80rg3xh") (f (quote (("style" "crossterm/style") ("random" "rand") ("nightly" "specs/nightly") ("default" "random" "style"))))))
+

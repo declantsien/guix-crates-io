@@ -1,0 +1,6 @@
+(define-module (crates-io ra di radix-substate-store-interface) #:use-module (crates-io))
+
+(define-public crate-radix-substate-store-interface-1.2.0-dev (c (n "radix-substate-store-interface") (v "1.2.0-dev") (d (list (d (n "hex") (r "^0.4.3") (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "radix-common") (r "^1.2.0-dev") (k 0)) (d (n "radix-rust") (r "^1.2.0-dev") (k 0)) (d (n "sbor") (r "^1.2.0-dev") (k 0)))) (h "1h53iisvk6knl1cw0rqj98xdjsy2vjkzmbyjqnp0cqgmwl1ry260") (f (quote (("std" "hex/std" "radix-rust/std" "sbor/std" "radix-common/std" "itertools/use_std") ("default" "std") ("alloc" "hex/alloc" "radix-rust/alloc" "sbor/alloc" "radix-common/alloc" "itertools/use_alloc"))))))
+
+(define-public crate-radix-substate-store-interface-1.2.0 (c (n "radix-substate-store-interface") (v "1.2.0") (d (list (d (n "hex") (r "^0.4.3") (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "radix-common") (r "^1.2.0") (k 0)) (d (n "radix-rust") (r "^1.2.0") (k 0)) (d (n "sbor") (r "^1.2.0") (k 0)))) (h "1x3k9fn81gfibg6nsl1s9r86pprzlikk36a89lf8bj7zl2d4w37x") (f (quote (("std" "hex/std" "radix-rust/std" "sbor/std" "radix-common/std" "itertools/use_std") ("default" "std") ("alloc" "hex/alloc" "radix-rust/alloc" "sbor/alloc" "radix-common/alloc" "itertools/use_alloc"))))))
+

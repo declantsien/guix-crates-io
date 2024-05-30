@@ -1,0 +1,8 @@
+(define-module (crates-io st at static-graph) #:use-module (crates-io))
+
+(define-public crate-static-graph-0.1.0 (c (n "static-graph") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "faststr") (r "^0.1") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "195yrx6xizlzrmpjd8cb6ksb237gmlhfnayj5m1ndwpjwr81i8mg")))
+
+(define-public crate-static-graph-0.2.0 (c (n "static-graph") (v "0.2.0") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "faststr") (r "^0.2") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1j98y52x8a4mjbvdwbs2qxar7c36x8581y0k3jxyx9b2nzay9z86")))
+
+(define-public crate-static-graph-0.2.1 (c (n "static-graph") (v "0.2.1") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "faststr") (r "^0.2") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1h05gi87whaymgqhfiwrp4p5ynas305zqkryh3m8fnng7rsvfznz")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io lm db lmdb-master-sys) #:use-module (crates-io))
+
+(define-public crate-lmdb-master-sys-0.1.0 (c (n "lmdb-master-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.63.0") (f (quote ("runtime"))) (o #t) (k 1)) (d (n "cc") (r "^1.0.78") (d #t) (k 1)) (d (n "doxygen-rs") (r "^0.2.2") (d #t) (k 1)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 1)))) (h "1pffddrlzag3b3xh6wcwlydqsx2v2rlbilzlz2j8zd11aczi5732") (f (quote (("posix-sem") ("fuzzer-no-link") ("fuzzer") ("default") ("asan"))))))
+
+(define-public crate-lmdb-master-sys-0.2.0 (c (n "lmdb-master-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.69.1") (f (quote ("runtime"))) (o #t) (k 1)) (d (n "cc") (r "^1.0.78") (d #t) (k 1)) (d (n "cstr") (r "^0.2.11") (d #t) (k 2)) (d (n "doxygen-rs") (r "^0.4.2") (d #t) (k 1)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)))) (h "16j1qvggv5dqgq27svgviiqd5yaqj28c9arnf8np7h2q7bdli46w") (f (quote (("posix-sem") ("mdb_idl_logn_9") ("mdb_idl_logn_8") ("mdb_idl_logn_16") ("mdb_idl_logn_15") ("mdb_idl_logn_14") ("mdb_idl_logn_13") ("mdb_idl_logn_12") ("mdb_idl_logn_11") ("mdb_idl_logn_10") ("fuzzer-no-link") ("fuzzer") ("default") ("asan"))))))
+

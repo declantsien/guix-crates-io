@@ -1,0 +1,14 @@
+(define-module (crates-io si wi siwi-download) #:use-module (crates-io))
+
+(define-public crate-siwi-download-0.1.0 (c (n "siwi-download") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "038ayj7a5dp975ygrib1qdc3i3aczx5vznkvh1mwiam8nxz1dr2r")))
+
+(define-public crate-siwi-download-0.2.0 (c (n "siwi-download") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "147whn2d5kjrzrnwcpdmh19gh59sqcwcpdi8s3mwf24kwvgbwr4i")))
+
+(define-public crate-siwi-download-0.2.1 (c (n "siwi-download") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0syhcx4hp33ymif296yamghgcdzigl7nkdkha0ky4yhsjyqz6svk") (f (quote (("unstable") ("docs" "unstable"))))))
+
+(define-public crate-siwi-download-0.2.2 (c (n "siwi-download") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1ydzkgvl9d1ms0xr23cxx7sz2y5a6fa98ivzd2ympcwja50j0f0r") (f (quote (("unstable") ("docs" "unstable"))))))
+
+(define-public crate-siwi-download-0.2.3 (c (n "siwi-download") (v "0.2.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1zhx53xfn1wlikv7xabnlzvnyg2cgz3r92g68miam2yv9c6lwzkk") (f (quote (("unstable") ("docs" "unstable"))))))
+
+(define-public crate-siwi-download-0.2.4 (c (n "siwi-download") (v "0.2.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1gb2mxhavb3nnmrddlx7kj8cc1wnjlr65qkz5qbz9sxff6wsfrw3") (f (quote (("unstable") ("docs" "unstable"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io cr i- cri-kit) #:use-module (crates-io))
+
+(define-public crate-cri-kit-0.1.0 (c (n "cri-kit") (v "0.1.0") (d (list (d (n "change-case") (r "^0.2.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.2") (d #t) (k 0)))) (h "1xyrj742abl7d9x2yfvhwr5nnf47zf1855bvmp5bhgfja7717pkb") (f (quote (("v1alpha2") ("v1") ("default" "v1"))))))
+
+(define-public crate-cri-kit-0.2.0 (c (n "cri-kit") (v "0.2.0") (d (list (d (n "change-case") (r "^0.2.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.2") (d #t) (k 0)))) (h "093q1id9562409j6qm3rwnjfnhq3y8xxqz1m5paihbqxxgw994hq") (f (quote (("v1alpha2") ("v1") ("default" "v1"))))))
+
+(define-public crate-cri-kit-0.3.0 (c (n "cri-kit") (v "0.3.0") (d (list (d (n "change-case") (r "^0.2.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.2") (d #t) (k 0)))) (h "1mvg5gg9jq2yhc4312afl1xygp2q5s6xa5cdh2115xhx9s5b0z3w") (f (quote (("v1alpha2") ("v1") ("default" "v1"))))))
+
+(define-public crate-cri-kit-0.3.1 (c (n "cri-kit") (v "0.3.1") (d (list (d (n "change-case") (r "^0.2.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.2") (d #t) (k 0)))) (h "0fyrw8afcr2kmbcck57fsr3h8zpwm399x347p0mlahfkig627mf7") (f (quote (("v1alpha2") ("v1") ("default" "v1"))))))
+

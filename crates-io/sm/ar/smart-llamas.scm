@@ -1,0 +1,4 @@
+(define-module (crates-io sm ar smart-llamas) #:use-module (crates-io))
+
+(define-public crate-smart-llamas-0.0.1 (c (n "smart-llamas") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "google-places-api") (r "^0.5") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "ollama-rs-mangle-fork") (r "^0.1") (f (quote ("stream"))) (d #t) (k 0)) (d (n "ordered-float") (r "^4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rayon") (r "^2") (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "10gkb1388pck0y2qzm489f7mzhc63qjhg90fk3fyia8ijhad0ihb")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ev un evunit) #:use-module (crates-io))
+
+(define-public crate-evunit-1.0.0 (c (n "evunit") (v "1.0.0") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "try-from-discrim") (r "^1.0.0") (d #t) (k 0)))) (h "102n0xlsr9a7063zc3ya4fr110n2g44fhm0jbibl1sgaf5qzzsp9")))
+
+(define-public crate-evunit-1.1.0 (c (n "evunit") (v "1.1.0") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "try-from-discrim") (r "^1.0.0") (d #t) (k 0)))) (h "1fkla1nisv5jfbjy3ycwxhpz4lqvixfpyzxsq8jqnvdkvsjqmrh9")))
+
+(define-public crate-evunit-1.1.1 (c (n "evunit") (v "1.1.1") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "try-from-discrim") (r "^1.0.0") (d #t) (k 0)))) (h "0sx5anhzqj4w2k3xl9vvysbyv93arp3dc4z5ggq698bpfp7yif46")))
+
+(define-public crate-evunit-1.2.0 (c (n "evunit") (v "1.2.0") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1q7s71d4gdgk4qj8lhys5dp4nii3fclfwwgj61ca9mpl05x1alf4")))
+
+(define-public crate-evunit-1.3.0 (c (n "evunit") (v "1.3.0") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1yi2zcmsq3waqqpaabyq33y6wkjag039718x7flnca97m1cgbqcv")))
+
+(define-public crate-evunit-1.3.1 (c (n "evunit") (v "1.3.1") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "toml") (r "^0.8.1") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "10n21q73ykk6p2kcjhc2807cq0fil5ym3kzbdd86gi4qj4fjbr5f")))
+
+(define-public crate-evunit-1.3.2 (c (n "evunit") (v "1.3.2") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gb-cpu-sim") (r "^1.0.0") (d #t) (k 0)) (d (n "gb-sym-file") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "toml") (r "^0.8.1") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "097a03qgprxfwzpfx2fyimb0frj9v7mbxwhk5wn6kla83v0y8ihc")))
+

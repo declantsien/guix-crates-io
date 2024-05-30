@@ -1,0 +1,4 @@
+(define-module (crates-io gw as gwasmi) #:use-module (crates-io))
+
+(define-public crate-gwasmi-0.30.0 (c (n "gwasmi") (v "0.30.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "criterion") (r "^0.4") (k 2)) (d (n "intx") (r "^0.1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (f (quote ("union"))) (d #t) (k 0)) (d (n "spin") (r "^0.9") (f (quote ("mutex" "spin_mutex" "rwlock"))) (k 0)) (d (n "wasmi_arena") (r "^0.4") (k 0)) (d (n "wasmi_core") (r "^0.12") (k 0) (p "gwasmi_core")) (d (n "wasmparser") (r "^0.100.1") (k 0) (p "wasmparser-nostd")) (d (n "wast") (r "^52.0") (d #t) (k 2)) (d (n "wat") (r "^1") (d #t) (k 2)))) (h "12y54yacv9qkd8izz8x6594v1cn2pkv4fgyw800pfb87mmqyy2sl") (f (quote (("virtual_memory" "wasmi_core/virtual_memory" "std") ("std" "wasmi_core/std" "wasmi_arena/std" "wasmparser/std" "spin/std") ("default" "std"))))))
+

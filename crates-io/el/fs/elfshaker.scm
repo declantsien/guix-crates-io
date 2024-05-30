@@ -1,0 +1,4 @@
+(define-module (crates-io el fs elfshaker) #:use-module (crates-io))
+
+(define-public crate-elfshaker-0.9.0 (c (n "elfshaker") (v "0.9.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.5") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "zstd") (r "^0.9.0") (f (quote ("zstdmt"))) (d #t) (k 0)))) (h "1x695hwkijlq24fz9qhngkxhjqcqbakaq959l58ix2j7s4mcnbfk")))
+

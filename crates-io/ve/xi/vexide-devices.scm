@@ -1,0 +1,6 @@
+(define-module (crates-io ve xi vexide-devices) #:use-module (crates-io))
+
+(define-public crate-vexide-devices-0.1.0 (c (n "vexide-devices") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "no_std_io") (r "^0.6.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "snafu") (r "^0.8.0") (f (quote ("rust_1_61" "unstable-core-error"))) (k 0)) (d (n "vex-sdk") (r "^0.12.2") (d #t) (k 0)) (d (n "vexide-core") (r "^0.1.0") (d #t) (k 0)))) (h "13y75gk1gx2jp1r3qw406r0cay7z8q1qhhrp8yvfgwcng7i2343y") (f (quote (("dangerous_motor_tuning")))) (s 2) (e (quote (("smart_leds_trait" "dep:smart-leds-trait"))))))
+
+(define-public crate-vexide-devices-0.2.0 (c (n "vexide-devices") (v "0.2.0") (d (list (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "no_std_io") (r "^0.6.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "snafu") (r "^0.8.0") (f (quote ("rust_1_61" "unstable-core-error"))) (k 0)) (d (n "vex-sdk") (r "^0.14.0") (d #t) (k 0)) (d (n "vexide-core") (r "^0.2.0") (d #t) (k 0)))) (h "1ccmn62s5vlvpkqhs9nrp4j8dl7f5287b5hx4nfdv96sski603p7") (f (quote (("dangerous_motor_tuning")))) (s 2) (e (quote (("smart_leds_trait" "dep:smart-leds-trait"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io so me something-for-tests) #:use-module (crates-io))
+
+(define-public crate-something-for-tests-0.1.0 (c (n "something-for-tests") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^0.15.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.15.0") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.15.0") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.7.0") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw0") (r "^0.7.0") (d #t) (k 0)) (d (n "cw2") (r "^0.7.0") (d #t) (k 0)) (d (n "cw20") (r "^0.7.0") (d #t) (k 0)) (d (n "cw20-base") (r "^0.7.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "0v573pnfzb3bk707475s8rxqdvcchwjif8vrfg5x026ivvij6i66") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

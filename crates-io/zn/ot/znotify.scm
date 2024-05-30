@@ -1,0 +1,20 @@
+(define-module (crates-io zn ot znotify) #:use-module (crates-io))
+
+(define-public crate-znotify-0.0.1 (c (n "znotify") (v "0.0.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1wfcrzp77ysmi1zw8jv03cm3s6rq0ald8rwfsmj14v0fs8bl7q0s")))
+
+(define-public crate-znotify-0.0.2 (c (n "znotify") (v "0.0.2") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0wwql235y47j9rhb33ha1ramm0m2kddlvdvfbl29wyc72ik6ncb8")))
+
+(define-public crate-znotify-0.0.3 (c (n "znotify") (v "0.0.3") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0zg0z29af6amyfw7h9yl4z9y9flff3knd4h8jc6drms6kmmw6qx8")))
+
+(define-public crate-znotify-0.0.4 (c (n "znotify") (v "0.0.4") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1s3422sz87br53zkhj8xprcp7697ck7v0ibp6h53hy0nrp1jh8ss") (y #t)))
+
+(define-public crate-znotify-0.0.5 (c (n "znotify") (v "0.0.5") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls" "rustls-tls-native-roots"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "09di8d1ip5m2hn0b7hwx5kxh596j6xzyqlzpc9ag08ivar615rjg") (y #t)))
+
+(define-public crate-znotify-0.0.6 (c (n "znotify") (v "0.0.6") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0j0b9z4fgkr9a1ka6zl6sqr6sz4ccnqjkgybr2c34zjxf1s1cwhn") (y #t)))
+
+(define-public crate-znotify-0.1.0 (c (n "znotify") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0yb5an5k7ys918j205mw2zd7lzr29drwa2r1s9dcyaaf0pjys3h2")))
+
+(define-public crate-znotify-0.1.1 (c (n "znotify") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0pzd6sp120c27i5ll9fx8g1v5sqm1nz5pkf9h6frkfh7bjsv8y6p")))
+
+(define-public crate-znotify-0.2.0 (c (n "znotify") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)) (d (n "tokio") (r ">=1.13.1") (f (quote ("full"))) (d #t) (k 2)))) (h "14pwf29zq8crf8w12v9yzrr01xz6fmb7bhpri2581jw700jpw44m")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io bz ip bzip2-rs) #:use-module (crates-io))
+
+(define-public crate-bzip2-rs-0.1.0 (c (n "bzip2-rs") (v "0.1.0") (d (list (d (n "bzip2") (r "^0.4.1") (d #t) (k 2)) (d (n "crc32fast") (r "^1.2.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "tinyvec") (r "^1.1") (d #t) (k 0)))) (h "0ixyz2ayd2q693zkrfkjpknl28d7v4868hc2ar8i46q0fj1w3axw") (f (quote (("rustc_1_51" "rustc_1_40" "tinyvec/nightly_const_generics") ("rustc_1_40" "rustc_1_37" "tinyvec/rustc_1_40") ("rustc_1_37") ("default"))))))
+
+(define-public crate-bzip2-rs-0.1.1 (c (n "bzip2-rs") (v "0.1.1") (d (list (d (n "bzip2") (r "^0.4.1") (d #t) (k 2)) (d (n "crc32fast") (r "^1.2.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "tinyvec") (r "^1.1") (d #t) (k 0)))) (h "0730cl6zf8a5lgzwznf7bvkcc4f0kvvnp2wzw92cskhvv4c049w9") (f (quote (("rustc_1_51" "rustc_1_40" "tinyvec/nightly_const_generics") ("rustc_1_40" "rustc_1_37" "tinyvec/rustc_1_40") ("rustc_1_37") ("default"))))))
+
+(define-public crate-bzip2-rs-0.1.2 (c (n "bzip2-rs") (v "0.1.2") (d (list (d (n "bzip2") (r "^0.4.1") (d #t) (k 2)) (d (n "crc32fast") (r "^1.2.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "tinyvec") (r "^1.1") (d #t) (k 0)))) (h "0dgp83kixqrqj6q6574qr5zsfpbsiiwhqs3krhvsn4f8wkkmksxy") (f (quote (("rustc_1_51") ("rustc_1_40" "rustc_1_37" "tinyvec/rustc_1_40") ("rustc_1_37") ("nightly" "rustc_1_40" "tinyvec/nightly_const_generics" "crc32fast/nightly") ("default"))))))
+

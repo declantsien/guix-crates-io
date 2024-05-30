@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-nats-tokio-rustls-deps) #:use-module (crates-io))
+
+(define-public crate-async-nats-tokio-rustls-deps-0.24.0-ALPHA.1 (c (n "async-nats-tokio-rustls-deps") (v "0.24.0-ALPHA.1") (d (list (d (n "futures-util") (r "^0.3.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "rustls") (r "^0.21.0-ALPHA.1") (k 0)) (d (n "rustls-pemfile") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "webpki") (r "^0.22") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22") (d #t) (k 2)))) (h "0bl9w5h7hnrb03jd6b188h043brhm2ix41x5q0vxjrvqrmagxplc") (f (quote (("tls12" "rustls/tls12") ("logging" "rustls/logging") ("early-data") ("default" "logging" "tls12") ("dangerous_configuration" "rustls/dangerous_configuration")))) (r "1.56")))
+

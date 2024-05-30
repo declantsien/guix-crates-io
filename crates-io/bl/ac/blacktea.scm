@@ -1,0 +1,6 @@
+(define-module (crates-io bl ac blacktea) #:use-module (crates-io))
+
+(define-public crate-blacktea-0.1.0 (c (n "blacktea") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "route-recognizer") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "03gd7wxyj4i0dkpbamsf9vr3bfxg23dxp8m9c9ahhcjcnjai83gg")))
+
+(define-public crate-blacktea-0.1.1 (c (n "blacktea") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "route-recognizer") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1vjcnky1wmv2d75zv48xbxbwmagaq0vaj6d6zygjk42gbwjpwfzf")))
+

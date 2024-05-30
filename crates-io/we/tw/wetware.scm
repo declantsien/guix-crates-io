@@ -1,0 +1,12 @@
+(define-module (crates-io we tw wetware) #:use-module (crates-io))
+
+(define-public crate-wetware-0.1.0 (c (n "wetware") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.3.24") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "rusqlite") (r "^0.29.0") (f (quote ("bundled"))) (d #t) (k 0)))) (h "0hyqjk1fr1rpgz8pdqgiri8sr5j8nsqn3gwyy7rlv0d8xw3yv9wv")))
+
+(define-public crate-wetware-0.1.1 (c (n "wetware") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.3.24") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "rusqlite") (r "^0.29.0") (f (quote ("bundled"))) (d #t) (k 0)))) (h "117k3yvc5r4xn7gnqdkx7rlh6ylinzr84aj622jb5cxjw4dx7gss")))
+
+(define-public crate-wetware-0.1.2 (c (n "wetware") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.3.24") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "rusqlite") (r "^0.29.0") (f (quote ("bundled"))) (d #t) (k 0)))) (h "0md7qfghsmjxfxr9f3rnld5a4qdfqyjpdj047yx7caa7dgz69ax1")))
+
+(define-public crate-wetware-0.2.0 (c (n "wetware") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.29.0") (f (quote ("bundled" "chrono"))) (d #t) (k 0)))) (h "1k9xn06hc20a8nmn69yvkrgaz40jk9mljpvp0xmli3iy0ribc6cq")))
+
+(define-public crate-wetware-0.3.0 (c (n "wetware") (v "0.3.0") (d (list (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 2)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled" "chrono"))) (d #t) (k 0)))) (h "1gwkjgvbx30rg4kf0ii2vjbx7xzssch8i8qphdq47x6yqqk7zkib")))
+

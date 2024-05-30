@@ -1,0 +1,6 @@
+(define-module (crates-io co mp composure_api) #:use-module (crates-io))
+
+(define-public crate-composure_api-0.0.1 (c (n "composure_api") (v "0.0.1") (d (list (d (n "composure") (r "^0.0.1") (d #t) (k 0)) (d (n "composure_commands") (r "^0.0.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("serde_json" "blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 2)))) (h "1l5dmrfwbk20330xngldhy8b7m518sf3llb90dknadysjm7pj569")))
+
+(define-public crate-composure_api-0.0.2 (c (n "composure_api") (v "0.0.2") (d (list (d (n "composure") (r "^0.0.2") (d #t) (k 0)) (d (n "composure_commands") (r "^0.0.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("serde_json" "blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 2)))) (h "0mg0rk559mpdimcsz2fsng9037n3gbmp5p6vr9q9vk1bvp7kc90c")))
+

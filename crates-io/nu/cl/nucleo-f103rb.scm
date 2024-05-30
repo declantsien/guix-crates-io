@@ -1,0 +1,6 @@
+(define-module (crates-io nu cl nucleo-f103rb) #:use-module (crates-io))
+
+(define-public crate-nucleo-f103rb-0.2.0 (c (n "nucleo-f103rb") (v "0.2.0") (d (list (d (n "bare-metal") (r "^0.2.4") (d #t) (k 0)) (d (n "cortex-m") (r "^0.5.8") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.7") (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "numtoa") (r "^0.2.3") (d #t) (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f1xx-hal") (r "^0.2.0") (f (quote ("stm32f103" "rt"))) (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 2)) (d (n "volatile-register") (r "^0.2.0") (d #t) (k 2)))) (h "1p1h5dzsg6qdgzlxqja091px5wjvysnjm1sz03glpxvrvff7pcs8") (f (quote (("rt") ("default" "rt"))))))
+
+(define-public crate-nucleo-f103rb-0.3.0 (c (n "nucleo-f103rb") (v "0.3.0") (d (list (d (n "bare-metal") (r "^0.2.4") (d #t) (k 0)) (d (n "cortex-m") (r "^0.6.0") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.8") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 0)) (d (n "numtoa") (r "^0.2.3") (d #t) (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f1xx-hal") (r "^0.3.0") (f (quote ("stm32f103" "rt"))) (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 2)) (d (n "volatile-register") (r "^0.2.0") (d #t) (k 2)))) (h "1qj2jv6py6p20ws540q62xiq5k8gh606898yd7zsjz1hlaqmhg6p") (f (quote (("rt") ("default" "rt"))))))
+

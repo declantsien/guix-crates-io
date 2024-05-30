@@ -1,0 +1,4 @@
+(define-module (crates-io de ez deezer_downloader) #:use-module (crates-io))
+
+(define-public crate-deezer_downloader-0.1.0 (c (n "deezer_downloader") (v "0.1.0") (d (list (d (n "block-modes") (r "^0.8.1") (d #t) (k 0)) (d (n "blowfish") (r "^0.8.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 0)) (d (n "id3") (r "^0.6.6") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.7") (f (quote ("json" "cookies"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "01xj49nyp02vkjqzazd3jyxxs4y2g5hfai2akk835kr5n8k1cn10")))
+

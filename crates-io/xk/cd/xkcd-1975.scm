@@ -1,0 +1,6 @@
+(define-module (crates-io xk cd xkcd-1975) #:use-module (crates-io))
+
+(define-public crate-xkcd-1975-0.1.0 (c (n "xkcd-1975") (v "0.1.0") (d (list (d (n "icrate") (r "^0.0.4") (f (quote ("AppKit" "AppKit_NSMenu" "AppKit_NSMenuItem" "AppKit_NSApplication" "AppKit_NSWorkspace" "Foundation" "Foundation_NSString" "Foundation_NSArray" "Foundation_NSNotification" "Foundation_NSThread" "Foundation_NSURL" "Foundation_NSProcessInfo"))) (d #t) (k 0)) (d (n "objc2") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "14d2i55g3ln0vs5x5rq50pq34myd0ggviq8spgn7qag2j31w76hv")))
+
+(define-public crate-xkcd-1975-0.1.1 (c (n "xkcd-1975") (v "0.1.1") (d (list (d (n "icrate") (r "^0.0.4") (f (quote ("AppKit" "AppKit_NSMenu" "AppKit_NSMenuItem" "AppKit_NSApplication" "AppKit_NSWorkspace" "Foundation" "Foundation_NSString" "Foundation_NSArray" "Foundation_NSNotification" "Foundation_NSThread" "Foundation_NSURL" "Foundation_NSProcessInfo"))) (d #t) (k 0)) (d (n "objc2") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1nbk6dwk191mg9fkf1yca2xpj52l610hlhipl9m6a2468scf8cf5")))
+

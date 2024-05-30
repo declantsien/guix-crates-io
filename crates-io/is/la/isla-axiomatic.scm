@@ -1,0 +1,6 @@
+(define-module (crates-io is la isla-axiomatic) #:use-module (crates-io))
+
+(define-public crate-isla-axiomatic-0.1.0 (c (n "isla-axiomatic") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "goblin") (r "^0.2.1") (d #t) (k 0)) (d (n "isla-cat") (r "^0.1.0") (d #t) (k 0)) (d (n "isla-lib") (r "^0.1.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "07gx6hrdps8zmwsp4r4n8fpx52d0am0la8lhxbfk8894whj1yz53") (f (quote (("sandbox"))))))
+
+(define-public crate-isla-axiomatic-0.2.0 (c (n "isla-axiomatic") (v "0.2.0") (d (list (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "goblin") (r "^0.2.1") (d #t) (k 0)) (d (n "isla-cat") (r "^0.2.0") (d #t) (k 0)) (d (n "isla-lib") (r "^0.2.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.0") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "1mz3p5dmgydqdk9vdac9vjxmr967qk7lg2zqrahqs4jff9nfdphh") (f (quote (("sandbox"))))))
+

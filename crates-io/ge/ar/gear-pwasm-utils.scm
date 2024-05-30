@@ -1,0 +1,4 @@
+(define-module (crates-io ge ar gear-pwasm-utils) #:use-module (crates-io))
+
+(define-public crate-gear-pwasm-utils-0.19.0 (c (n "gear-pwasm-utils") (v "0.19.0") (d (list (d (n "binaryen") (r "^0.12") (d #t) (k 2)) (d (n "byteorder") (r "^1") (k 0)) (d (n "clap") (r "^2") (o #t) (d #t) (k 0)) (d (n "diff") (r "^0.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "glob") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "indoc") (r "^1") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (k 0)) (d (n "parity-wasm") (r "^0.45") (k 0) (p "gear-wasm")) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "wabt") (r "^0.10") (d #t) (k 2)))) (h "15wgwsbazri4mfb48hxc02r8jkkpzhp8r6rnwwdlvxj1rq0rk80y") (f (quote (("std" "parity-wasm/std" "log/std" "byteorder/std") ("sign_ext" "parity-wasm/sign_ext") ("default" "std") ("cli" "std" "glob" "clap" "env_logger" "lazy_static")))) (r "1.56.1")))
+

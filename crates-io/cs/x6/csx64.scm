@@ -1,0 +1,8 @@
+(define-module (crates-io cs x6 csx64) #:use-module (crates-io))
+
+(define-public crate-csx64-0.1.0 (c (n "csx64") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.4.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.3.0") (d #t) (k 0)) (d (n "rug") (r "^1.11.0") (d #t) (k 0)))) (h "19yc3hq9fp4rc516igaxhqg16a7j36bbx2a6l3r0qfhndi9k88dp")))
+
+(define-public crate-csx64-0.1.1 (c (n "csx64") (v "0.1.1") (d (list (d (n "bytemuck") (r "^1.4.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.3.0") (d #t) (k 0)) (d (n "rug") (r "^1.11.0") (d #t) (k 0)))) (h "0dshjszbcm0izwmbjcnsk5qanmdbkvh2gx23dhc54x0q1qmpl4d1")))
+
+(define-public crate-csx64-0.1.2 (c (n "csx64") (v "0.1.2") (d (list (d (n "bytemuck") (r "^1.4.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.3.0") (d #t) (k 0)) (d (n "rug") (r "^1.11.0") (d #t) (k 0)))) (h "1n865vrjc5m7l9lvcp79gaga56s6rq55r96p99i071zq12vsim46")))
+

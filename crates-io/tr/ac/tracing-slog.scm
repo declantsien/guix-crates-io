@@ -1,0 +1,8 @@
+(define-module (crates-io tr ac tracing-slog) #:use-module (crates-io))
+
+(define-public crate-tracing-slog-0.1.0 (c (n "tracing-slog") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "slog") (r "^2.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "json"))) (d #t) (k 2)) (d (n "tracing-test") (r "^0.1") (d #t) (k 2)))) (h "0pwx2f0bm0kah74whqdyznr3jr2jyi7jmxk3rhqmfzy256rjwgll") (f (quote (("std" "slog/std") ("default" "std"))))))
+
+(define-public crate-tracing-slog-0.2.0 (c (n "tracing-slog") (v "0.2.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "once_cell") (r "^1.16") (d #t) (k 0)) (d (n "slog") (r "^2.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "json"))) (d #t) (k 2)) (d (n "tracing-test") (r "^0.2") (d #t) (k 2)))) (h "0fx2jkc8qpaccrd3gzhb88425qsr14rf7r7xjkwrvfagsp915zbg") (f (quote (("std" "slog/std") ("default" "std"))))))
+
+(define-public crate-tracing-slog-0.3.0 (c (n "tracing-slog") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "slog") (r "^2.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "json"))) (d #t) (k 2)) (d (n "tracing-test") (r "^0.2") (d #t) (k 2)))) (h "1gvh4lvr3pagkp2wb319i9c1y66akm78izr9ly5gr7da0v5d41lk") (f (quote (("std" "slog/std") ("kv") ("default" "std")))) (r "1.60")))
+

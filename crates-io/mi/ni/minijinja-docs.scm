@@ -1,0 +1,8 @@
+(define-module (crates-io mi ni minijinja-docs) #:use-module (crates-io))
+
+(define-public crate-minijinja-docs-0.1.0 (c (n "minijinja-docs") (v "0.1.0") (d (list (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "minijinja") (r "^1.0.9") (f (quote ("loader" "json" "preserve_order" "unstable_machinery_serde"))) (d #t) (k 0)) (d (n "minijinja-autoreload") (r "^1.0.9") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "0fxz6nw52kxh6ici9a882dqyggymi3lya9876zs1jai37zsq2h20")))
+
+(define-public crate-minijinja-docs-0.1.1 (c (n "minijinja-docs") (v "0.1.1") (d (list (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "minijinja") (r "^1.0.9") (f (quote ("loader" "json" "preserve_order" "unstable_machinery_serde"))) (d #t) (k 0)) (d (n "minijinja-autoreload") (r "^1.0.9") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1ybwggscfmaii1k0ixm89yj8dsrpxxsk68g63jgzgw79abx97cdm")))
+
+(define-public crate-minijinja-docs-0.1.2 (c (n "minijinja-docs") (v "0.1.2") (d (list (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "minijinja") (r "^1.0.9") (f (quote ("loader" "json" "preserve_order" "unstable_machinery_serde"))) (d #t) (k 0)) (d (n "minijinja-autoreload") (r "^1.0.9") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "0lxygq77d5q412l2i6603xw6l689ry0hlq3wyp6bf24k1npwxq1n")))
+

@@ -1,0 +1,26 @@
+(define-module (crates-io dy na dynamixel2-cli) #:use-module (crates-io))
+
+(define-public crate-dynamixel2-cli-0.2.0 (c (n "dynamixel2-cli") (v "0.2.0") (d (list (d (n "dynamixel2") (r "^0.2.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "0r3ayh2flyxhywl06kmv18c0bsyaw2pyp2kq10cy67sagbvwm1wl")))
+
+(define-public crate-dynamixel2-cli-0.3.0 (c (n "dynamixel2-cli") (v "0.3.0") (d (list (d (n "dynamixel2") (r "^0.3.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.1.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "1pf2jiz5775dcggsw0dkz7fzkn2xcp3kcb26aaxc9amhbwc151m0")))
+
+(define-public crate-dynamixel2-cli-0.4.0 (c (n "dynamixel2-cli") (v "0.4.0") (d (list (d (n "dynamixel2") (r "^0.4.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.1.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "183hkzb610d8zfm9dxhgq2ccj70dh4xfkdkfy0893ylvd9jassj3") (y #t)))
+
+(define-public crate-dynamixel2-cli-0.4.1 (c (n "dynamixel2-cli") (v "0.4.1") (d (list (d (n "dynamixel2") (r "^0.4.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.1.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "15gig8zaf2zfi5jk66mrqwqp872ik69p9a5nk4ymrnmyw0m465h8")))
+
+(define-public crate-dynamixel2-cli-0.4.2 (c (n "dynamixel2-cli") (v "0.4.2") (d (list (d (n "dynamixel2") (r "^0.4.2") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.1.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "11d2r6fsc0qk519ydk2n1pzz9v42pggmv8snj84lykq3n99l8f46")))
+
+(define-public crate-dynamixel2-cli-0.5.0 (c (n "dynamixel2-cli") (v "0.5.0") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.5.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "1gsv36dr5x51b4knxvkdcc7rsssdxv76n03pyx3hssjii29gi0a7")))
+
+(define-public crate-dynamixel2-cli-0.6.0 (c (n "dynamixel2-cli") (v "0.6.0") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.6.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "0vc2kzlp2vpqdxqhacwgghgspg2fd2f3qcjx2hrs9jfghv1mh335")))
+
+(define-public crate-dynamixel2-cli-0.6.1 (c (n "dynamixel2-cli") (v "0.6.1") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.6.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "16ybba3mgk8ws08qm6kswxdg1rx8inh3lj8mg1axb4kw9yr71aka")))
+
+(define-public crate-dynamixel2-cli-0.7.0 (c (n "dynamixel2-cli") (v "0.7.0") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.7.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "0xaxnshjqbaq98apjml5fhh2ikqiwjjsaw373541imfcciamj32n")))
+
+(define-public crate-dynamixel2-cli-0.7.1 (c (n "dynamixel2-cli") (v "0.7.1") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.7.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "00lngxvws2w9xckxzz1w2rf4mjhlnx9z09xd8fcsq6vpnc2bwdcf")))
+
+(define-public crate-dynamixel2-cli-0.7.2 (c (n "dynamixel2-cli") (v "0.7.2") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.7.2") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "0ihfk7nb3xmsdy3fy268n7iaf2xh4i0w48hpcgvjcwizm1g2qlg6")))
+
+(define-public crate-dynamixel2-cli-0.8.0 (c (n "dynamixel2-cli") (v "0.8.0") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "dynamixel2") (r "^0.8.0") (f (quote ("log"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serial2") (r "^0.2.10") (d #t) (k 0)))) (h "0s38r7qsva4i5qxqg3wi4iwy6xznisshn3nvd2zh9prdzvk6g74p")))
+

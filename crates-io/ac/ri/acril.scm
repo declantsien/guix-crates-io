@@ -1,0 +1,4 @@
+(define-module (crates-io ac ri acril) #:use-module (crates-io))
+
+(define-public crate-acril-0.1.0 (c (n "acril") (v "0.1.0") (d (list (d (n "acril-http") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "acril-macros") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "async-tungstenite") (r "^0.24") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http-types") (r "^2") (o #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1ws9q2y4fxk9zkybqa91vsi4ppxf12cm53gsa35naq398hyqf5vk") (f (quote (("default")))) (s 2) (e (quote (("websocket" "dep:async-tungstenite" "http") ("macros" "dep:acril-macros" "dep:serde_urlencoded") ("http" "dep:acril-http" "dep:http-types"))))))
+

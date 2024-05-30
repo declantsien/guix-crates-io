@@ -1,0 +1,18 @@
+(define-module (crates-io dr og drogue-ttn) #:use-module (crates-io))
+
+(define-public crate-drogue-ttn-0.1.0 (c (n "drogue-ttn") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0xkfbj80a6phymgf8b3ggx05j7rzawaj6hbl9s2s10vxr86h0cyq")))
+
+(define-public crate-drogue-ttn-0.1.1 (c (n "drogue-ttn") (v "0.1.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "17kklmv7lbn2cbhwwpml1fd7pmp09c2ahr85jlzbvjv5y5lj1nkr")))
+
+(define-public crate-drogue-ttn-0.2.0 (c (n "drogue-ttn") (v "0.2.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0pa4wx1qxgipz5c2hpm1x0snszv458xrhji1z19q2mdwnq89qiz5")))
+
+(define-public crate-drogue-ttn-0.3.0 (c (n "drogue-ttn") (v "0.3.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "039c8a0ahzwlhgcmd44iiwbg2jb6vvix673vb8inibbyy4g59r3z")))
+
+(define-public crate-drogue-ttn-0.4.0 (c (n "drogue-ttn") (v "0.4.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1nqgzs4g8kjdy2qvdrscdnldqzvwahlgbjw7h596c99dbik9mmsm")))
+
+(define-public crate-drogue-ttn-0.5.0 (c (n "drogue-ttn") (v "0.5.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1ds7hw40r403sgzw1a8ywxl59b50xw9w7by5ilkgp7pa9zq6l138")))
+
+(define-public crate-drogue-ttn-0.5.1 (c (n "drogue-ttn") (v "0.5.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0k0v7lgs4vs41s6bwzrvxkscsr63pbkd1jr90pdwnvr3vzav2bxw")))
+
+(define-public crate-drogue-ttn-0.6.0 (c (n "drogue-ttn") (v "0.6.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "base64-serde") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0wb95czxbdai5lzwj7z2q42ycwbqafprp4l4zc7hhdn1d4wz5bpv")))
+

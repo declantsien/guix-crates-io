@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# v vtk) #:use-module (crates-io))
+
+(define-public crate-vtk-0.1.0 (c (n "vtk") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (t "cfg(target_os = \"macos\")") (k 1)) (d (n "bindgen") (r "^0") (d #t) (k 1)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "cbindgen") (r "^0") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "plist") (r "^1.0") (d #t) (t "cfg(target_os = \"macos\")") (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (t "cfg(target_os = \"macos\")") (k 1)))) (h "0x43pggg70ivcbbfd40v50nk26a7d11gkz7g9wink957nk447v0c") (f (quote (("validation")))) (y #t) (r "1.74")))
+
+(define-public crate-vtk-0.1.1 (c (n "vtk") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (t "cfg(target_os = \"macos\")") (k 1)) (d (n "bindgen") (r "^0") (d #t) (k 1)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "cbindgen") (r "^0") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "plist") (r "^1.0") (d #t) (t "cfg(target_os = \"macos\")") (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (t "cfg(target_os = \"macos\")") (k 1)))) (h "1pmxsq0hzipz50djnyss7aqrg1sisn2p714hjigdg85vsqibk9w9") (f (quote (("validation")))) (y #t) (r "1.74")))
+

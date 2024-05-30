@@ -1,0 +1,34 @@
+(define-module (crates-io pn et pnet_packet) #:use-module (crates-io))
+
+(define-public crate-pnet_packet-0.20.0 (c (n "pnet_packet") (v "0.20.0") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.20.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">= 0.15") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.20.0") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "1r2q5vla65bvi0hlk40gh6zg5rmxl03iwa4my4rnydi6bxbln7h8")))
+
+(define-public crate-pnet_packet-0.21.0 (c (n "pnet_packet") (v "0.21.0") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.21.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">= 0.20") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.21.0") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "0d54gdw6l3wvsy4jj46kild3cqyqja2pi7vdmplhgvf0lb7z76gg")))
+
+(define-public crate-pnet_packet-0.22.0 (c (n "pnet_packet") (v "0.22.0") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.22.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">= 0.20") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.22.0") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "1gnw0zxb2d0lylmd8cw9076d6773li18hac6hbqp8lfwmp6wv9h8")))
+
+(define-public crate-pnet_packet-0.23.0 (c (n "pnet_packet") (v "0.23.0") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.23.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">= 0.20") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.23.0") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "0x0gvh1nlyz8bnhanak4c6c7jxwrafkjn8rp4y2kbmrfazsr7yky") (y #t)))
+
+(define-public crate-pnet_packet-0.25.0 (c (n "pnet_packet") (v "0.25.0") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.22.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">= 0.20") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.25.0") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "05zxlicwbcq55gsj8w0iyr4zg97472c9j6k2p96q2bjgdmf0fk64")))
+
+(define-public crate-pnet_packet-0.23.1 (c (n "pnet_packet") (v "0.23.1") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.22.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">= 0.20") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.23.1") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "19fdm7aaqhn2w8ffa2m4z0ix7qk38ghimd07x8r1cp7bp6ax28am")))
+
+(define-public crate-pnet_packet-0.26.0 (c (n "pnet_packet") (v "0.26.0") (d (list (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "pnet_base") (r "^0.26.0") (d #t) (k 0)) (d (n "pnet_macros") (r "^0.26.0") (d #t) (k 1)) (d (n "pnet_macros_support") (r "^0.26.0") (d #t) (k 0)) (d (n "syntex") (r "^0.42") (d #t) (k 1)))) (h "10q2asgyyc27i9ilb18nk27ipva47hl41ks9lm8srl3i9n36mql9")))
+
+(define-public crate-pnet_packet-0.27.1 (c (n "pnet_packet") (v "0.27.1") (d (list (d (n "glob") (r ">=0.2.0, <0.3.0") (d #t) (k 1)) (d (n "pnet_base") (r ">=0.27.1, <0.28.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">=0.27.1, <0.28.0") (d #t) (k 1)) (d (n "pnet_macros_support") (r ">=0.27.1, <0.28.0") (d #t) (k 0)) (d (n "syntex") (r ">=0.42.0, <0.43.0") (d #t) (k 1)))) (h "0l1kzcfxgcxnffnigziym748ik968gih6xmgaw04i16nx37mw01k")))
+
+(define-public crate-pnet_packet-0.27.2 (c (n "pnet_packet") (v "0.27.2") (d (list (d (n "glob") (r ">=0.2.0, <0.3.0") (d #t) (k 1)) (d (n "pnet_base") (r ">=0.27.2, <0.28.0") (d #t) (k 0)) (d (n "pnet_macros") (r ">=0.27.2, <0.28.0") (d #t) (k 1)) (d (n "pnet_macros_support") (r ">=0.27.2, <0.28.0") (d #t) (k 0)) (d (n "syntex") (r ">=0.42.0, <0.43.0") (d #t) (k 1)))) (h "0ghk20bzqmd83j7iimzj9xxwmddmmxqws435l1fab5xq9s7j7y1k")))
+
+(define-public crate-pnet_packet-0.28.0 (c (n "pnet_packet") (v "0.28.0") (d (list (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "pnet_base") (r "^0.28.0") (d #t) (k 0)) (d (n "pnet_macros") (r "^0.28.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.28.0") (d #t) (k 0)))) (h "0c11wcvx271i9yw9acbh7rfkpffqnkn6zrmjai19yg6hf5v0d245")))
+
+(define-public crate-pnet_packet-0.29.0 (c (n "pnet_packet") (v "0.29.0") (d (list (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "pnet_base") (r "^0.29.0") (d #t) (k 0)) (d (n "pnet_macros") (r "^0.29.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.29.0") (d #t) (k 0)))) (h "1m7rikb64ndcwhwwmyck813c1py5phcfwf6dsir21y5ay6mfsipj")))
+
+(define-public crate-pnet_packet-0.30.0 (c (n "pnet_packet") (v "0.30.0") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.30.0") (k 0)) (d (n "pnet_macros") (r "^0.30.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.30.0") (d #t) (k 0)))) (h "1pnbcgsgj0nx3v0iwk052vsq1j18n2i9bv6dwavc34b0r1m722bh") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+
+(define-public crate-pnet_packet-0.31.0 (c (n "pnet_packet") (v "0.31.0") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.31.0") (k 0)) (d (n "pnet_macros") (r "^0.31.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.31.0") (d #t) (k 0)))) (h "0ps9iybjhijfbbmbk24yd6bbc6ihpk6gvfcmjy5rrhwpwq8m2fxw") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+
+(define-public crate-pnet_packet-0.32.0 (c (n "pnet_packet") (v "0.32.0") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.32.0") (k 0)) (d (n "pnet_macros") (r "^0.32.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.32.0") (d #t) (k 0)))) (h "0wkfpa527ns8279c7x8d7yy2l3hf5pb4xgs6srdy055q0ipr5xq2") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+
+(define-public crate-pnet_packet-0.33.0 (c (n "pnet_packet") (v "0.33.0") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.33.0") (k 0)) (d (n "pnet_macros") (r "^0.33.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.33.0") (d #t) (k 0)))) (h "01hpnk6fwcxg1s5idww4bxral0vzwnbcb7ywk4nirjw5pn5ngplb") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+
+(define-public crate-pnet_packet-0.34.0 (c (n "pnet_packet") (v "0.34.0") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.34.0") (k 0)) (d (n "pnet_macros") (r "^0.34.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.34.0") (d #t) (k 0)))) (h "1flhxbwgw9348c955hc0mi6h7ma2qgdqiqm871xgxdwnaf10b859") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+

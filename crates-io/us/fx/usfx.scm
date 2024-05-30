@@ -1,0 +1,16 @@
+(define-module (crates-io us fx usfx) #:use-module (crates-io))
+
+(define-public crate-usfx-0.1.0 (c (n "usfx") (v "0.1.0") (d (list (d (n "cpal") (r "^0.11.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rust-music-theory") (r "^0.1.6") (d #t) (k 2)) (d (n "sdl2") (r "^0.33.0") (d #t) (k 2)))) (h "00m1bj7iv5182j2b9fyj9ia1pd41bq72dhmhxlm0xl1r3phcc3cg")))
+
+(define-public crate-usfx-0.1.1 (c (n "usfx") (v "0.1.1") (d (list (d (n "cpal") (r "^0.11.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rust-music-theory") (r "^0.1.6") (d #t) (k 2)) (d (n "sdl2") (r "^0.33.0") (d #t) (k 2)))) (h "0lsyv7jssl0l8mflr4hniq1qgszfaskqwxaykdzp8pr0kgwad559")))
+
+(define-public crate-usfx-0.1.2 (c (n "usfx") (v "0.1.2") (d (list (d (n "cpal") (r "^0.11.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "randomize") (r "^3.0.1") (d #t) (k 0)) (d (n "rust-music-theory") (r "^0.1.6") (d #t) (k 2)) (d (n "sdl2") (r "^0.33.0") (d #t) (k 2)))) (h "0n2pd2b1k1dhjss892v1znpx01di4alyfzpvxn8l2n0d0pwbl6q8")))
+
+(define-public crate-usfx-0.1.3 (c (n "usfx") (v "0.1.3") (d (list (d (n "cpal") (r "^0.11.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "randomize") (r "^3.0.1") (d #t) (k 0)) (d (n "rust-music-theory") (r "^0.1.6") (d #t) (k 2)) (d (n "sdl2") (r "^0.33.0") (d #t) (k 2)))) (h "15a3d30lhjvzsnm7bzjp4z0yp19rfzwrama23qvshr19iim2x0lz")))
+
+(define-public crate-usfx-0.1.4-alpha.0 (c (n "usfx") (v "0.1.4-alpha.0") (d (list (d (n "cpal") (r "^0.15.2") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "randomize") (r "^3.0.1") (d #t) (k 0)) (d (n "rust-music-theory") (r "^0.2.0") (d #t) (k 2)) (d (n "sdl2") (r "^0.35.2") (f (quote ("bundled"))) (d #t) (k 2)))) (h "0gzp204yhj38f5czg2zyahgflj4xifxbch1zj6vl7anji3172ang")))
+
+(define-public crate-usfx-0.1.4 (c (n "usfx") (v "0.1.4") (d (list (d (n "cpal") (r "^0.15.2") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "randomize") (r "^3.0.1") (d #t) (k 0)) (d (n "rust-music-theory") (r "^0.2.0") (d #t) (k 2)) (d (n "sdl2") (r "^0.35.2") (f (quote ("bundled"))) (d #t) (k 2)))) (h "0dknx7mlb6nihslka8bzfrhn8ncms8hl8vhh1bjwmksk9p2y9v4z")))
+
+(define-public crate-usfx-0.1.5 (c (n "usfx") (v "0.1.5") (d (list (d (n "cpal") (r "^0.15.2") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "randomize") (r "^3.0.1") (d #t) (k 0)) (d (n "rust-music-theory") (r "^0.2.0") (d #t) (k 2)) (d (n "sdl2") (r "^0.36.0") (f (quote ("bundled"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0ikgmj9qh85rgkdz17rng8mmd5xfv7wcz0pghj03zrsw1cvmqjdx") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

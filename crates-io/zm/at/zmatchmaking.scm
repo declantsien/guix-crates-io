@@ -1,0 +1,6 @@
+(define-module (crates-io zm at zmatchmaking) #:use-module (crates-io))
+
+(define-public crate-zmatchmaking-0.1.0 (c (n "zmatchmaking") (v "0.1.0") (h "09w6akaf5sspv44l4qfj29168pk65zd63fwk6vdd56sw1m0h4793")))
+
+(define-public crate-zmatchmaking-0.1.1 (c (n "zmatchmaking") (v "0.1.1") (d (list (d (n "ark-bn254") (r "^0.4") (f (quote ("curve"))) (k 0) (p "ark-bn254-zypher")) (d (n "ark-ff") (r "^0.4") (f (quote ("asm"))) (k 0) (p "ark-ff-zypher")) (d (n "ark-serialize") (r "^0.4") (f (quote ("derive"))) (k 0) (p "ark-serialize-zypher")) (d (n "ark-std") (r "^0.4") (k 0) (p "ark-std-zypher")) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "rayon") (r "^1.7") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "uzkge") (r "^0.1") (k 0)))) (h "1glg7rw01nlaigkv1r1phnz6lq8kripfmm0nj6g7q1r76crhzmgi") (f (quote (("std" "ark-std/std" "ark-ff/std" "ark-bn254/std" "uzkge/std") ("parallel" "rayon" "ark-std/parallel" "ark-ff/parallel" "uzkge/parallel") ("no_vk") ("gen" "uzkge/gen" "parallel" "structopt") ("default" "std" "parallel"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io pr us prust_test) #:use-module (crates-io))
+
+(define-public crate-prust_test-0.1.0 (c (n "prust_test") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.4") (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.8.2") (d #t) (k 0)) (d (n "libudev") (r "^0.2.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "prust_core") (r "^0.1.1") (d #t) (k 0)) (d (n "rustyline") (r "^6.3.0") (d #t) (k 0)) (d (n "serialport") (r "^3.3.0") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)))) (h "091r52jjhz2si9qmicqzy45f5vir1mix1ijzhy8wfyl4naa6h5bb")))
+
+(define-public crate-prust_test-0.1.1 (c (n "prust_test") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.3.4") (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.8.2") (d #t) (k 0)) (d (n "libudev") (r "^0.2.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "prust_core") (r "^0.1.1") (d #t) (k 0)) (d (n "rustyline") (r "^6.3.0") (d #t) (k 0)) (d (n "serialport") (r "^3.3.0") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)))) (h "0vh4cv65pv41rpf762b7sbl0dsr9q0bsjnansj866xm735zpnrki")))
+
+(define-public crate-prust_test-0.1.2 (c (n "prust_test") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3.4") (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.8.2") (d #t) (k 0)) (d (n "libudev") (r "^0.2.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "prust_core") (r "^0.1.1") (d #t) (k 0)) (d (n "rustyline") (r "^6.3.0") (d #t) (k 0)) (d (n "serialport") (r "^3.3.0") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)))) (h "1fxc99f135cd1q9i4rfh9ld2jjk5ml574fcdnr5gqcx704zrazwr")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io xq uo xquo) #:use-module (crates-io))
+
+(define-public crate-xquo-0.1.1 (c (n "xquo") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "tikv-jemallocator") (r "^0.5") (o #t) (d #t) (k 0)))) (h "05fiy5jraiv0pf5v0ivq73bh1vfcxg0hs2ajdhb8yi02l6qfd665") (f (quote (("jemalloc" "tikv-jemallocator") ("default"))))))
+
+(define-public crate-xquo-0.2.0 (c (n "xquo") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "tikv-jemallocator") (r "^0.5") (o #t) (d #t) (k 0)))) (h "11ljnpgmklqd53ggqy3k2z89ykr7bjk307mbnkgr0wmcnd4b1y5c") (f (quote (("jemalloc" "tikv-jemallocator") ("default"))))))
+
+(define-public crate-xquo-0.2.1 (c (n "xquo") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "is-terminal") (r "^0.4.8") (d #t) (k 0)) (d (n "predicates") (r "^3.0") (d #t) (k 2)) (d (n "tikv-jemallocator") (r "^0.5") (o #t) (d #t) (k 0)))) (h "02c6m88l57hdhbaiqw9l3y08rpxy41fjq7d0a66baingx4kv4m8c") (f (quote (("jemalloc" "tikv-jemallocator") ("default"))))))
+

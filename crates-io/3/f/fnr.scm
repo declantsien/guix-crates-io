@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# f fnr) #:use-module (crates-io))
+
+(define-public crate-fnr-0.0.1 (c (n "fnr") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.51") (d #t) (k 0)) (d (n "assert_cmd") (r "^1") (d #t) (k 2)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "grep") (r "^0.2.8") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "text_io") (r "^0.1.9") (d #t) (k 0)))) (h "0462f44k5yz87kh4h8293fybk8xriksj1rwdan22l9625zvj7cps")))
+
+(define-public crate-fnr-0.1.0 (c (n "fnr") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.51") (d #t) (k 0)) (d (n "assert_cmd") (r "^1") (d #t) (k 2)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "grep") (r "^0.2.8") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (d #t) (k 0)) (d (n "text_io") (r "^0.1.9") (d #t) (k 0)))) (h "1iqdb1qdyxxkbm9n5j09fxjbk0p6p9jx26l7l5nbqqrn992m1hy4")))
+

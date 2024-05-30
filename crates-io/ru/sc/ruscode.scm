@@ -1,0 +1,4 @@
+(define-module (crates-io ru sc ruscode) #:use-module (crates-io))
+
+(define-public crate-ruscode-1.0.0 (c (n "ruscode") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.0.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (f (quote ("crossterm"))) (k 0)) (d (n "tui-logger") (r "^0.8.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "1hjsz6pyna15948c34ldrzrr6zh9jiv3v1xsp4qv0mmkr3cvsls5")))
+

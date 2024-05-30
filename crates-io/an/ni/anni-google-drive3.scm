@@ -1,0 +1,4 @@
+(define-module (crates-io an ni anni-google-drive3) #:use-module (crates-io))
+
+(define-public crate-anni-google-drive3-0.1.0+4.0.0-20220225 (c (n "anni-google-drive3") (v "0.1.0+4.0.0-20220225") (d (list (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("stream"))) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.23") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (d #t) (k 0)) (d (n "tower-service") (r "^0.3.1") (d #t) (k 0)) (d (n "url") (r "=1.7") (d #t) (k 0)) (d (n "yup-oauth2") (r "^7.0") (d #t) (k 0)))) (h "1rf4162nb2f329q1hma3lxyp4ml1gvdjz6qgnnh6dxrqc2izqkqn")))
+

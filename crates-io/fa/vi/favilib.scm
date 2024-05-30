@@ -1,0 +1,14 @@
+(define-module (crates-io fa vi favilib) #:use-module (crates-io))
+
+(define-public crate-favilib-0.1.0 (c (n "favilib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0y7lpc5iq090x261p6cyazd23kdlpwp5lk0m0pbp9zxd5bki4lsk")))
+
+(define-public crate-favilib-0.2.0 (c (n "favilib") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "14jg2whsbvvwdsdnn2h15g3qpgcv2d9hdiknydfl01q6zsyzm4xc")))
+
+(define-public crate-favilib-0.3.0 (c (n "favilib") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1sjzp0az667z9nvgk099bnfaqgq439f284qbf35iwkg5cps1vzwm")))
+
+(define-public crate-favilib-0.4.0 (c (n "favilib") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0vj6spn8c717f2ngxvww248yzrl4mgcpirhr34x4g1kcw3bmn4xf")))
+
+(define-public crate-favilib-0.5.0 (c (n "favilib") (v "0.5.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0h4qhkrdpclh9v31j64gq3hv0pi5mhw46ihhg8gqxylgpjhfrhcd")))
+
+(define-public crate-favilib-0.5.1 (c (n "favilib") (v "0.5.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0lnryhgc9w2npfnrz2b252ic9s973wx6x5f5n2hn72lx3ny6qmf7")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io os ca oscar) #:use-module (crates-io))
+
+(define-public crate-oscar-0.1.0 (c (n "oscar") (v "0.1.0") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_info"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.21") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)))) (h "002j76czb1hkmk8kr4iz65ywxz825dvms9rcn1inkda7hna77rf8")))
+
+(define-public crate-oscar-0.1.2 (c (n "oscar") (v "0.1.2") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_info"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.21") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)))) (h "11ilghirdma0ac0ghbi6zvfmpa7vikbak2q28kpqnwqjbphil12b")))
+
+(define-public crate-oscar-0.1.3 (c (n "oscar") (v "0.1.3") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_info"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.21") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)))) (h "1bcr1dzy8p7vfcmh4r04dbrwy9808irkn53vbivq0prdf5m82mq0")))
+
+(define-public crate-oscar-0.1.6 (c (n "oscar") (v "0.1.6") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_info"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.21") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)))) (h "0pbzq3g5wxsa2wy09jaj7jv218hcxaabv7kwaxxgv2f5g7xwpq1f")))
+
+(define-public crate-oscar-0.1.20 (c (n "oscar") (v "0.1.20") (d (list (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_info"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.21") (f (quote ("default-tls-vendored"))) (t "arm-unknown-linux-gnueabihf") (k 0)) (d (n "reqwest") (r "^0.9.21") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)))) (h "0z3mwizgsb2qh06l7vzc28628iipa2lpli6i8na7c6a5rrvpjvvv")))
+

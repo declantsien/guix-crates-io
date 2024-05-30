@@ -1,0 +1,4 @@
+(define-module (crates-io dp m- dpm-server) #:use-module (crates-io))
+
+(define-public crate-DPM-Server-0.1.0 (c (n "DPM-Server") (v "0.1.0") (d (list (d (n "anstyle") (r "^1.0.6") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "digest") (r "^0.10.7") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "1kf3vzi6ihp1w7wb64pxbx9wiqivjzdb48c6kg37px3lsaydgyyq")))
+

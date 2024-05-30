@@ -1,0 +1,6 @@
+(define-module (crates-io ob je objectid) #:use-module (crates-io))
+
+(define-public crate-objectid-0.1.0 (c (n "objectid") (v "0.1.0") (d (list (d (n "byteorder") (r "^0.3") (d #t) (k 0)) (d (n "hostname") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.1") (d #t) (k 0)) (d (n "quick-error") (r "^1.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.31") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^0.8") (d #t) (k 2)))) (h "0315r5c52f7dwwv8sw6y5bk60bhpp3zzzs2z7hrq17vhl4abrafg") (f (quote (("unstable"))))))
+
+(define-public crate-objectid-0.2.0 (c (n "objectid") (v "0.2.0") (d (list (d (n "byteorder") (r "^0.3") (d #t) (k 0)) (d (n "hostname") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "quick-error") (r "^1.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 2)))) (h "0qq04s3dkkxwannip7d9hjc66r1zj3alnzkyi5634wwdfzh0b9i2") (f (quote (("unstable"))))))
+

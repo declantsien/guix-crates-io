@@ -1,0 +1,4 @@
+(define-module (crates-io he al healslut) #:use-module (crates-io))
+
+(define-public crate-healslut-0.1.0 (c (n "healslut") (v "0.1.0") (d (list (d (n "async-std") (r "^1.2.6") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "buttplug") (r "^0.6.0") (d #t) (k 0)) (d (n "directories") (r "^3.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "gdk") (r "^0.13.0") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.9.0") (f (quote ("v2_32"))) (d #t) (k 0)) (d (n "gio") (r "^0.9.0") (d #t) (k 0)) (d (n "glib") (r "^0.10.1") (d #t) (k 0)) (d (n "gtk") (r "^0.9.1") (f (quote ("v3_22"))) (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "scrap") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (d #t) (k 0)) (d (n "snafu") (r "^0.6.8") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "16s4szzj2fvjygbhbjqnqmyjrwsrm9xvm44gr71dss9w1majlcs6")))
+

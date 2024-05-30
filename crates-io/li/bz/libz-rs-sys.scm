@@ -1,0 +1,8 @@
+(define-module (crates-io li bz libz-rs-sys) #:use-module (crates-io))
+
+(define-public crate-libz-rs-sys-0.0.1 (c (n "libz-rs-sys") (v "0.0.1") (d (list (d (n "crc32fast") (r "^1.3.2") (d #t) (k 2)) (d (n "libc") (r "^0.2.153") (d #t) (k 2)) (d (n "libloading") (r "^0.8.1") (d #t) (k 2)) (d (n "libz-ng-sys") (r "^1.1.12") (d #t) (k 2)) (d (n "zlib-rs") (r "^0.0.1") (f (quote ("__internal-test"))) (d #t) (k 0)))) (h "11hb3x8swzh6xb2iwhnf5jl75hsqwlhkig75i3i9hlx10nz7gp0g") (r "1.70")))
+
+(define-public crate-libz-rs-sys-0.1.0 (c (n "libz-rs-sys") (v "0.1.0") (d (list (d (n "crc32fast") (r "^1.3.2") (d #t) (k 2)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "libloading") (r "^0.8.1") (d #t) (k 2)) (d (n "libz-ng-sys") (r "^1.1.12") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "zlib-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "zlib-rs") (r "^0.1.0") (f (quote ("__internal-test"))) (d #t) (k 2)))) (h "0574pgr531dw7xblqygj8jwns3z2mcfn54pfkibwv6p7chdmgin8") (f (quote (("std") ("rust-allocator") ("default" "std" "rust-allocator") ("c-allocator")))) (r "1.70")))
+
+(define-public crate-libz-rs-sys-0.1.1 (c (n "libz-rs-sys") (v "0.1.1") (d (list (d (n "crc32fast") (r "^1.3.2") (d #t) (k 2)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "libloading") (r "^0.8.1") (d #t) (k 2)) (d (n "libz-sys") (r "^1.1.12") (f (quote ("zlib-ng"))) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "zlib-rs") (r "^0.1.1") (d #t) (k 0)) (d (n "zlib-rs") (r "^0.1.1") (f (quote ("__internal-test"))) (d #t) (k 2)))) (h "0a1vx9gpyc6aizq7d1v76lribxchqkfxc3295a4z7q0b4lil8g6d") (f (quote (("std") ("rust-allocator") ("default" "std" "rust-allocator") ("c-allocator")))) (r "1.70")))
+

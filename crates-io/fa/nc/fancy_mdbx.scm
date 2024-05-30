@@ -1,0 +1,8 @@
+(define-module (crates-io fa nc fancy_mdbx) #:use-module (crates-io))
+
+(define-public crate-fancy_mdbx-0.1.0 (c (n "fancy_mdbx") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "libmdbx") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "ouroboros") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_bare") (r "^0.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "zstd") (r "^0.11.1") (d #t) (k 0)))) (h "0jflc5l50r2fq7r9a0w078xd98rbf6crccmig22s0s4i6pj5llw3")))
+
+(define-public crate-fancy_mdbx-0.1.1 (c (n "fancy_mdbx") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "libmdbx") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "ouroboros") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_bare") (r "^0.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "zstd") (r "^0.11.1") (d #t) (k 0)))) (h "0qrlmxn5y7gqvb7jgh4c3r2d9nink9hqqqm0vvaczm930ipgbqqx")))
+
+(define-public crate-fancy_mdbx-0.2.0 (c (n "fancy_mdbx") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "byte_lamination") (r "^0.1.1") (d #t) (k 0)) (d (n "libmdbx") (r "^0.3.3") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "ouroboros") (r "^0.14.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "15d3kv6qmczp91j86iap3c3vz10pviyjrzl7926gi0s4xi4ghb2j")))
+

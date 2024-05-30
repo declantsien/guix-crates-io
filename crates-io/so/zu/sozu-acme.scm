@@ -1,0 +1,10 @@
+(define-module (crates-io so zu sozu-acme) #:use-module (crates-io))
+
+(define-public crate-sozu-acme-0.4.0 (c (n "sozu-acme") (v "0.4.0") (d (list (d (n "acme-client") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "sozu-command-lib") (r "^0.8") (d #t) (k 0)) (d (n "tiny_http") (r "^0.6") (d #t) (k 0)))) (h "1q2jywlqnlvy2gs1kd7kq41s82n6irqazd74qliknl673y36ykrq")))
+
+(define-public crate-sozu-acme-0.5.0 (c (n "sozu-acme") (v "0.5.0") (d (list (d (n "acme-client") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "sozu-command-lib") (r "^0.9") (d #t) (k 0)) (d (n "tiny_http") (r "^0.6") (d #t) (k 0)))) (h "1z17flmx3i82jzigjri6c1j502ybd1bpfqj3qsaic5bdgi0kg5jm")))
+
+(define-public crate-sozu-acme-0.6.0 (c (n "sozu-acme") (v "0.6.0") (d (list (d (n "acme-client") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "sozu-command-lib") (r "^0.10") (d #t) (k 0)) (d (n "tiny_http") (r "^0.6") (d #t) (k 0)))) (h "1zqz71cavl2blcvd4zp5grj7yclmlc6ak5z1pqi6fa4gby6fiwf2")))
+
+(define-public crate-sozu-acme-0.7.0 (c (n "sozu-acme") (v "0.7.0") (d (list (d (n "acme-client") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "sozu-command-lib") (r "^0.11") (d #t) (k 0)) (d (n "tiny_http") (r "^0.6") (d #t) (k 0)))) (h "1akjdjvg530fffpji9yfrvyacc9gg4k1gy8szddjyp1sq4k60r1v")))
+

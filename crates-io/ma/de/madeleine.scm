@@ -1,0 +1,6 @@
+(define-module (crates-io ma de madeleine) #:use-module (crates-io))
+
+(define-public crate-madeleine-0.2.0 (c (n "madeleine") (v "0.2.0") (d (list (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "commitlog") (r "^0.2.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ulid") (r "^1.0.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1v6021nkcb4xgrlarxnfp9dsxr4lpcx3sxacrqwqd6b6r0ks8jvy")))
+
+(define-public crate-madeleine-0.2.1 (c (n "madeleine") (v "0.2.1") (d (list (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "commitlog") (r "^0.2.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ulid") (r "^1.0.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "10r9ypsywvcmrzlxry59d1r41ljnfwizhy7fq5z0cm3zvdw6ac0n")))
+

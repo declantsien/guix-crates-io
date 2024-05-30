@@ -1,0 +1,4 @@
+(define-module (crates-io si lk silkenweb-parse) #:use-module (crates-io))
+
+(define-public crate-silkenweb-parse-0.8.0 (c (n "silkenweb-parse") (v "0.8.0") (d (list (d (n "ego-tree") (r "^0.6.2") (d #t) (t "cfg(not(all(target_arch = \"wasm32\", target_os = \"unknown\")))") (k 0)) (d (n "html5ever") (r "^0.26.0") (d #t) (t "cfg(not(all(target_arch = \"wasm32\", target_os = \"unknown\")))") (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (t "cfg(not(all(target_arch = \"wasm32\", target_os = \"unknown\")))") (k 0)) (d (n "silkenweb") (r "^0.8.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.88") (d #t) (t "cfg(all(target_arch = \"wasm32\", target_os = \"unknown\"))") (k 0)) (d (n "web-sys") (r "^0.3.65") (d #t) (t "cfg(all(target_arch = \"wasm32\", target_os = \"unknown\"))") (k 0)))) (h "1q7p74vhb55755xmacz37v8ng0vrrlgk4l068y6aa46j8rg48xm9")))
+

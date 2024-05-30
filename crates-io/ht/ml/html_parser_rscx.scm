@@ -1,0 +1,4 @@
+(define-module (crates-io ht ml html_parser_rscx) #:use-module (crates-io))
+
+(define-public crate-html_parser_rscx-0.7.1 (c (n "html_parser_rscx") (v "0.7.1") (d (list (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0.1") (d #t) (k 2)) (d (n "insta") (r "^1.29.0") (f (quote ("json"))) (d #t) (k 2)) (d (n "pest") (r "^2.5.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.159") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "10cp3w6g1qck0d05lnamrdrrjfmw679c3vm0fv6l8xmm8r9s1wc5")))
+

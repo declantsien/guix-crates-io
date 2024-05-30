@@ -1,0 +1,6 @@
+(define-module (crates-io si c_ sic_cli) #:use-module (crates-io))
+
+(define-public crate-sic_cli-0.11.0-dev (c (n "sic_cli") (v "0.11.0-dev") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "globwalk") (r "^0.8.0") (d #t) (k 0)) (d (n "inflate") (r "^0.4.5") (d #t) (k 0)) (d (n "sic_cli_ops") (r "^0.11.0-dev.2") (d #t) (k 0)) (d (n "sic_core") (r "^0.11") (d #t) (k 0)) (d (n "sic_image_engine") (r "^0.11") (d #t) (k 0)) (d (n "sic_io") (r "^0.11") (d #t) (k 0)) (d (n "sic_parser") (r "^0.11") (d #t) (k 0)) (d (n "sic_testing") (r "^0.11") (d #t) (k 2)))) (h "0bfc4agjrx0hr2ygjkz729vmrl4p2km0xzjc3nlw2vv0wwic6c8a")))
+
+(define-public crate-sic_cli-0.11.0 (c (n "sic_cli") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "globwalk") (r "^0.8.0") (d #t) (k 0)) (d (n "inflate") (r "^0.4.5") (d #t) (k 0)) (d (n "sic_cli_ops") (r "^0.11.0") (d #t) (k 0)) (d (n "sic_core") (r "^0.11") (d #t) (k 0)) (d (n "sic_image_engine") (r "^0.11") (d #t) (k 0)) (d (n "sic_io") (r "^0.11") (d #t) (k 0)) (d (n "sic_parser") (r "^0.11") (d #t) (k 0)) (d (n "sic_testing") (r "^0.11") (d #t) (k 2)))) (h "10lkfzl4c4qg78jwzf0p6byxsp06cnvvambf7jypfpyb87zmlzg3")))
+

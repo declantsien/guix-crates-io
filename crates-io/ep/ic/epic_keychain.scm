@@ -1,0 +1,4 @@
+(define-module (crates-io ep ic epic_keychain) #:use-module (crates-io))
+
+(define-public crate-epic_keychain-3.0.0 (c (n "epic_keychain") (v "3.0.0") (d (list (d (n "blake2-rfc") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "epic_util") (r "^3.0.0") (d #t) (k 0)) (d (n "hmac") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pbkdf2") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("serde" "v4"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.3.0") (d #t) (k 0)))) (h "07hlcb91rbhnyz7z60c50s9f4zd24ba4v0nkjjwjknkijdnxx3gf") (y #t)))
+

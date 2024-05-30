@@ -1,0 +1,4 @@
+(define-module (crates-io we bk webkitgtk) #:use-module (crates-io))
+
+(define-public crate-webkitgtk-0.2.0 (c (n "webkitgtk") (v "0.2.0") (d (list (d (n "bitflags") (r "^0.9") (d #t) (k 0)) (d (n "cairo-rs") (r "^0.1.3") (d #t) (k 0)) (d (n "cairo-sys-rs") (r "^0.3.4") (d #t) (k 0)) (d (n "gdk") (r "^0.5.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.1.3") (d #t) (k 0)) (d (n "gdk-pixbuf-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "gdk-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "gio") (r "^0.1.3") (d #t) (k 0)) (d (n "gio-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "glib") (r "^0.1.3") (d #t) (k 0)) (d (n "glib-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "gobject-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "gtk") (r "^0.1.3") (d #t) (k 0)) (d (n "gtk-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pango") (r "^0.1.3") (d #t) (k 0)) (d (n "webkitgtk-sys") (r "^0.2.0") (d #t) (k 0)))) (h "075zp8w668gf2bhjb1cz2v155my8jwfm753byngdnyyjc73kpgya") (y #t)))
+

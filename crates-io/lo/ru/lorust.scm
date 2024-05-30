@@ -1,0 +1,6 @@
+(define-module (crates-io lo ru lorust) #:use-module (crates-io))
+
+(define-public crate-lorust-0.1.0 (c (n "lorust") (v "0.1.0") (d (list (d (n "regex") (r "^1.5.4") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (o #t) (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.17") (o #t) (d #t) (k 0)))) (h "1l3sys1ra77d2712m06k817cy53jq6cbpcwh6kvy56bwr01bmivr") (f (quote (("string" "unicode-normalization" "regex") ("object" "serde_json") ("math") ("default" "math" "object" "string"))))))
+
+(define-public crate-lorust-0.2.0 (c (n "lorust") (v "0.2.0") (d (list (d (n "log") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (o #t) (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (o #t) (d #t) (k 0)))) (h "1mwg7jal80hlkrlzrk8qfqy9mf1hja0yqxs4dsmg91j00z59vaa7") (f (quote (("words" "regex") ("string" "capitalize" "deburr" "ends_with" "kebab_case" "words") ("set") ("round") ("pick") ("object" "get" "map_values" "merge" "pick" "set") ("merge" "serde_json") ("math" "round") ("map_values") ("lang" "is_number") ("kebab_case") ("is_number") ("get") ("function" "debounce") ("ends_with") ("default" "function" "lang" "math" "object" "string") ("deburr" "unicode-normalization") ("debounce" "log") ("capitalize")))) (r "1.70")))
+

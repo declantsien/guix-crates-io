@@ -1,0 +1,6 @@
+(define-module (crates-io ox id oxidefetch) #:use-module (crates-io))
+
+(define-public crate-oxidefetch-1.4.4 (c (n "oxidefetch") (v "1.4.4") (d (list (d (n "byte-unit") (r "^4.0.18") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "compound_duration") (r "^1.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quoted-string") (r "^0.6.1") (d #t) (k 0)) (d (n "sysinfo") (r "^0.29.1") (d #t) (k 0)) (d (n "whoami") (r "^1.3.0") (d #t) (k 0)))) (h "0sn3qmmf3s758s44mkawapa2v02ky0znyxw76fq37vfprcl9rf94") (f (quote (("field-titles"))))))
+
+(define-public crate-oxidefetch-1.4.7 (c (n "oxidefetch") (v "1.4.7") (d (list (d (n "byte-unit") (r "^4.0.18") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "compound_duration") (r "^1.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quoted-string") (r "^0.6.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysinfo") (r "^0.29.1") (d #t) (k 0)) (d (n "whoami") (r "^1.3.0") (d #t) (k 0)))) (h "1j7gsdkwi3rr7lzh63zbqgapxkw1ka8kvx43icq3kkyq8sa2vdyj") (f (quote (("field-titles"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io db _l db_logger) #:use-module (crates-io))
+
+(define-public crate-db_logger-0.1.0 (c (n "db_logger") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gethostname") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-async-std-rustls" "time"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "time") (r "^0.2.16") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread" "sync" "time"))) (d #t) (k 2)))) (h "1rpzdj846ip5k0jkngibzhx6cpxj5j4zkcq08kxz67jmw90797br") (f (quote (("sqlite" "sqlx/sqlite") ("postgres" "sqlx/postgres") ("default" "postgres" "sqlite"))))))
+

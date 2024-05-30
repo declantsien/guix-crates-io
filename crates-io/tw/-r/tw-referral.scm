@@ -1,0 +1,8 @@
+(define-module (crates-io tw -r tw-referral) #:use-module (crates-io))
+
+(define-public crate-tw-referral-0.1.0 (c (n "tw-referral") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^0.16.5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.5") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16.5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.9.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)))) (h "0l4lyadgqv80gacihry1b7l2q6b4ci409z349in8f34ggf18y8yh") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-tw-referral-0.1.1 (c (n "tw-referral") (v "0.1.1") (d (list (d (n "cosmwasm-schema") (r "^0.16.5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.5") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16.5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.9.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)))) (h "19gwf5rvg85hmjswrpq45zxf1xk8mi7hkp3b3xlsql1f0fg1nl5r") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-tw-referral-0.1.2 (c (n "tw-referral") (v "0.1.2") (d (list (d (n "cosmwasm-schema") (r "^0.16.5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.7") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16.7") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.9.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)))) (h "00jwns0cygs1ckjxmqkmzgpxkvp5jhsjpyiq470yc3lzb2x48wkw") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

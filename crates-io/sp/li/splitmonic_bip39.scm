@@ -1,0 +1,4 @@
+(define-module (crates-io sp li splitmonic_bip39) #:use-module (crates-io))
+
+(define-public crate-splitmonic_bip39-1.0.0 (c (n "splitmonic_bip39") (v "1.0.0") (d (list (d (n "bitcoin_hashes") (r "^0.9.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "unicode-normalization") (r "=0.1.17") (o #t) (d #t) (k 0)) (d (n "zeroize") (r "^1.2") (f (quote ("zeroize_derive"))) (o #t) (d #t) (k 0)))) (h "0pmpl9mr76ypym0niiqls97gfw2py1a8s1jfvsyra094061zb7v9") (f (quote (("std" "unicode-normalization" "serde/std") ("spanish") ("korean") ("japanese") ("italian") ("french") ("default" "std") ("czech") ("chinese-traditional") ("chinese-simplified") ("all-languages" "chinese-simplified" "chinese-traditional" "czech" "french" "italian" "japanese" "korean" "spanish"))))))
+

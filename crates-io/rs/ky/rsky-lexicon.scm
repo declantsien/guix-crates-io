@@ -1,0 +1,4 @@
+(define-module (crates-io rs ky rsky-lexicon) #:use-module (crates-io))
+
+(define-public crate-rsky-lexicon-0.1.0 (c (n "rsky-lexicon") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.24") (f (quote ("serde"))) (d #t) (k 0)) (d (n "cid") (r "^0.10.1") (f (quote ("serde-codec"))) (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.9") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0lic19s7xhyghffaf6hid5v42c0jzakgi0bqijbc12isjgi7in2c")))
+

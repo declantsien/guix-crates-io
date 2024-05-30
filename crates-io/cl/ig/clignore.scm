@@ -1,0 +1,8 @@
+(define-module (crates-io cl ig clignore) #:use-module (crates-io))
+
+(define-public crate-clignore-0.1.0 (c (n "clignore") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^1.0.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.4") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "1qcag5iy5j8k8i58bcya55yhcfygibnbbb641lk0x17rw1g7pbkm")))
+
+(define-public crate-clignore-0.1.1 (c (n "clignore") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^1.0.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.4") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "0spqmjv8jl34p3fmynfvjdkiczsbakclx3cw37pvbi47bkpm4fsp")))
+
+(define-public crate-clignore-0.1.2 (c (n "clignore") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^1.0.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.4") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "0m62ldszs9knr8q3a38v8c709s1sn0ni1jarcf82pdqcjk3sil68")))
+

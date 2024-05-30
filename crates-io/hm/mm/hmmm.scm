@@ -1,0 +1,8 @@
+(define-module (crates-io hm mm hmmm) #:use-module (crates-io))
+
+(define-public crate-hmmm-0.1.0 (c (n "hmmm") (v "0.1.0") (d (list (d (n "counter") (r "^0.4") (d #t) (k 2)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "ndarray") (r "^0.12") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "spectral") (r "^0.6") (d #t) (k 0)))) (h "1p0vbpnnij3d9pmqwr83ww7cavr6q7lw7p300q1lmmxfmkkgvqmc") (f (quote (("benchmark"))))))
+
+(define-public crate-hmmm-0.1.1 (c (n "hmmm") (v "0.1.1") (d (list (d (n "counter") (r "^0.4") (d #t) (k 2)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "ndarray") (r "^0.12") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "spectral") (r "^0.6") (d #t) (k 0)))) (h "1zkvm5d87j0lcx539bggx8w4fzigqijif3qcv18ndicmz2kp4jyq") (f (quote (("benchmark"))))))
+
+(define-public crate-hmmm-0.2.0 (c (n "hmmm") (v "0.2.0") (d (list (d (n "counter") (r "^0.5.2") (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "spectral") (r "^0.6.0") (d #t) (k 0)))) (h "15825b239pqb487dl8gfgc1ysv7f25is04y0a80r3sfniz043m9q") (f (quote (("serde-1" "serde/derive" "ndarray/serde-1") ("benchmark"))))))
+

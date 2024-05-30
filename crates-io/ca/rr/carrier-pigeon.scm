@@ -1,0 +1,8 @@
+(define-module (crates-io ca rr carrier-pigeon) #:use-module (crates-io))
+
+(define-public crate-carrier-pigeon-0.1.0 (c (n "carrier-pigeon") (v "0.1.0") (d (list (d (n "bincode") (r "~1.3") (d #t) (k 0)) (d (n "carrier-pigeon-netmsg-derive") (r "~0.1") (d #t) (k 0)) (d (n "downcast-rs") (r "~1.2") (d #t) (k 0)) (d (n "hashbrown") (r "~0.12") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (d #t) (k 2)) (d (n "tokio") (r ">1.15") (f (quote ("rt" "net" "sync" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1cs0326qb672m9ghk1v3rmy02xypscnsp5k80fma7iaxgazr22fr")))
+
+(define-public crate-carrier-pigeon-0.2.0 (c (n "carrier-pigeon") (v "0.2.0") (d (list (d (n "bincode") (r "~1.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "hashbrown") (r "~0.12") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "serde") (r "~1.0") (d #t) (k 0)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "simple_logger") (r "^2.1.0") (d #t) (k 2)))) (h "0zgb86gsyb7b9gv48db6211hb0vl6a9fk2fidr2zgband2ylngby")))
+
+(define-public crate-carrier-pigeon-0.3.0 (c (n "carrier-pigeon") (v "0.3.0") (d (list (d (n "bincode") (r "~1.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "~0.5") (d #t) (k 0)) (d (n "hashbrown") (r "~0.12") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (d #t) (k 2)))) (h "19j7ns9k5khr2kqxcks4pw3p9q78r32338vih77r3jakgba88wsr")))
+

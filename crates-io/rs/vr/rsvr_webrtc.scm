@@ -1,0 +1,4 @@
+(define-module (crates-io rs vr rsvr_webrtc) #:use-module (crates-io))
+
+(define-public crate-rsvr_webrtc-0.0.1-alpha.0 (c (n "rsvr_webrtc") (v "0.0.1-alpha.0") (d (list (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "glib") (r "^0.6") (d #t) (k 0)) (d (n "gstreamer") (r "^0.12.2") (d #t) (k 0)) (d (n "gstreamer-app") (r "^0.12") (d #t) (k 0)) (d (n "gstreamer-sdp") (r "^0.12") (d #t) (k 0)) (d (n "gstreamer-video") (r "^0.12.2") (d #t) (k 0)) (d (n "gstreamer-webrtc") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.19") (d #t) (k 0)) (d (n "websocket") (r "^0.20.2") (d #t) (k 0)))) (h "07vfwhaqxrs70vadsavh52q5ar7lpwzx4qb9kcrm3qaqpgj7h61g")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io cl as clashtui) #:use-module (crates-io))
+
+(define-public crate-clashtui-0.1.0 (c (n "clashtui") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "argh") (r "^0.1.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^1.2") (d #t) (k 0)) (d (n "ratatui") (r "^0.23.0") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "socks"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0hvc9n0vf112xyy3d5rl7pbva04vvpqmxiynj6jc46jagmz34qwk")))
+

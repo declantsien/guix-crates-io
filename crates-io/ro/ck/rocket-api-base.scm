@@ -1,0 +1,6 @@
+(define-module (crates-io ro ck rocket-api-base) #:use-module (crates-io))
+
+(define-public crate-rocket-api-base-0.1.0 (c (n "rocket-api-base") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hmac-sha256") (r "^0.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rocket") (r "^0.4.10") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4.7") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha256") (r "^1.0.0") (d #t) (k 0)))) (h "16278m6blks1a50chvfydm2vk67vycyrfy9n8dv2s2m6iw4lyh8l")))
+
+(define-public crate-rocket-api-base-0.2.0 (c (n "rocket-api-base") (v "0.2.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "hmac-sha256") (r "^0.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rocket") (r "^0.4.10") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4.7") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha256") (r "^1.0.0") (d #t) (k 0)))) (h "1phi1aq1i33j1f22hd47y65fi57ii1gjd05vi9njnfms1qz9kym4")))
+

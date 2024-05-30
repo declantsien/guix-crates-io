@@ -1,0 +1,18 @@
+(define-module (crates-io ht ml html5ever-atoms) #:use-module (crates-io))
+
+(define-public crate-html5ever-atoms-0.1.0 (c (n "html5ever-atoms") (v "0.1.0") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.3") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "18snll0v7b2ml2jirr5fyznqk3r3z83n3zwwdd8d791r7sk3j146") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heap_size"))))))
+
+(define-public crate-html5ever-atoms-0.1.1 (c (n "html5ever-atoms") (v "0.1.1") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.3") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "0h1xb1ixyvyymlwrz11mzqrjgpxiblmq914w61cayrlc8c3a3vys") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heap_size"))))))
+
+(define-public crate-html5ever-atoms-0.1.2 (c (n "html5ever-atoms") (v "0.1.2") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.3") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "01fwa7swkkvrvjdnvwn09njbskz1rgiy8wy6jgvgrrqfb4qwhgzx") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heap_size"))))))
+
+(define-public crate-html5ever-atoms-0.1.3 (c (n "html5ever-atoms") (v "0.1.3") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.3") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "06xx5xrc8fh048g8610cx8d7gyp231q5p7gb32whfwqmxigy62a1") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heap_size"))))))
+
+(define-public crate-html5ever-atoms-0.2.0 (c (n "html5ever-atoms") (v "0.2.0") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.4") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "0d2i1hkmgy78845mqn3fawqiydsfy9aaih1c4wx979x5nviqdggr") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heapsize"))))))
+
+(define-public crate-html5ever-atoms-0.2.1 (c (n "html5ever-atoms") (v "0.2.1") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.4") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "1qyigjvcwynw4l89qy8r6p4i0kl7lqv9dicdlz30zyyimy0s4i37") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heapsize")))) (y #t)))
+
+(define-public crate-html5ever-atoms-0.2.2 (c (n "html5ever-atoms") (v "0.2.2") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.4") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.3") (d #t) (k 1)))) (h "1fs4b18psys3lzv8wj3crymfml7954aqn1x5sc873gxs6dkxq9n6") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heapsize"))))))
+
+(define-public crate-html5ever-atoms-0.3.0 (c (n "html5ever-atoms") (v "0.3.0") (d (list (d (n "heapsize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "heapsize_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "string_cache") (r "^0.5") (d #t) (k 0)) (d (n "string_cache_codegen") (r "^0.4") (d #t) (k 1)))) (h "0h4xbw10mh5793rcyx9d0h60sx1crpaik0jga68p5zzyh4cjjjlf") (f (quote (("heap_size" "heapsize" "heapsize_derive" "string_cache/heapsize"))))))
+

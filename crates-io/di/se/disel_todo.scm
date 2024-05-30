@@ -1,0 +1,14 @@
+(define-module (crates-io di se disel_todo) #:use-module (crates-io))
+
+(define-public crate-disel_todo-0.1.0 (c (n "disel_todo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "diesel") (r "^2.1.0") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0qh9nzp3rcy91qc2k64c0334pwdkrlji94l6v46lbbig779pvpkk")))
+
+(define-public crate-disel_todo-0.2.0 (c (n "disel_todo") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.0") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("serde" "v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "06hqz0yk06kp17g2n94b57mpi6md3c8gagkly8rylgkmsym9y4ia")))
+
+(define-public crate-disel_todo-0.2.1 (c (n "disel_todo") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.0") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("serde" "v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "15v7d5yawsy15cd3rjrlb5ffsc2hfn5qxgxx9zsbqg0m6nivh6kj")))
+
+(define-public crate-disel_todo-0.2.2 (c (n "disel_todo") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.0") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("serde" "v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1givfjy9vgpiyz2m33z6njbvy1sdwb3k90nakhq1r29wh87pixx6")))
+
+(define-public crate-disel_todo-0.2.3 (c (n "disel_todo") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.0") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("serde" "v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "18wi6vgj3yr03fgrkncic0rj2dhv3wfwi0cy08n79ms2d5idv6pc")))
+
+(define-public crate-disel_todo-0.2.4 (c (n "disel_todo") (v "0.2.4") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.0") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("serde" "v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0y2s533xcaj4nslz41zllai8rjly8a2r391fs1wvz7yzll7jl183")))
+

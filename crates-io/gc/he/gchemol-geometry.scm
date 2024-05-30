@@ -1,0 +1,16 @@
+(define-module (crates-io gc he gchemol-geometry) #:use-module (crates-io))
+
+(define-public crate-gchemol-geometry-0.0.36 (c (n "gchemol-geometry") (v "0.0.36") (d (list (d (n "approx") (r "^0.3") (d #t) (k 2)) (d (n "gchemol-core") (r "^0.0.37") (d #t) (k 2)) (d (n "gchemol-gut") (r "^0.0.7") (d #t) (k 0)) (d (n "gchemol-readwrite") (r "^0.0.36") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "vecfx") (r "^0.0.8") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "19qg8airib7z03z7wikl0hg9z8dc909iawqga65nspl5k3vxcg87")))
+
+(define-public crate-gchemol-geometry-0.0.37 (c (n "gchemol-geometry") (v "0.0.37") (d (list (d (n "approx") (r "^0.3") (d #t) (k 2)) (d (n "gchemol") (r "^0.0.37") (d #t) (k 2)) (d (n "gchemol-gut") (r "^0.0.8") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "vecfx") (r "^0.0.8") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "0ihs0iccj85y3v88p6jq513h65n9dshw27dvf0qckrrk14kssgca")))
+
+(define-public crate-gchemol-geometry-0.0.38 (c (n "gchemol-geometry") (v "0.0.38") (d (list (d (n "approx") (r "^0.3") (d #t) (k 2)) (d (n "gchemol") (r ">= 0.0.37") (d #t) (k 2)) (d (n "gchemol-gut") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "vecfx") (r "^0.0.8") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "0lvwvkhl8skfb8ljlagc58bh4ri7cihi53dqw99d0p48ib6hyl1q") (f (quote (("adhoc"))))))
+
+(define-public crate-gchemol-geometry-0.0.39 (c (n "gchemol-geometry") (v "0.0.39") (d (list (d (n "approx") (r "^0.3") (d #t) (k 2)) (d (n "gchemol-gut") (r "^0.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "vecfx") (r "^0.1.2") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "1d69kb2q7sjyg51nr198yyss92mwn36h40ql25nnd2b4p1wdydig") (f (quote (("adhoc"))))))
+
+(define-public crate-gchemol-geometry-0.0.41 (c (n "gchemol-geometry") (v "0.0.41") (d (list (d (n "gchemol-gut") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "vecfx") (r "^0.1.2") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "1czb8shx5cv889bixfy4kslbdshwzps624sfs60rhi6nvv99az3n") (f (quote (("adhoc"))))))
+
+(define-public crate-gchemol-geometry-0.1.0 (c (n "gchemol-geometry") (v "0.1.0") (d (list (d (n "gut") (r "^0.2") (d #t) (k 0) (p "gchemol-gut")) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "vecfx") (r "^0.1.2") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "001dnnwk0rbl5b4i0q3q998mgfpdfgmh1a37aaf8lq4jhf09rz9r") (f (quote (("adhoc"))))))
+
+(define-public crate-gchemol-geometry-0.1.1 (c (n "gchemol-geometry") (v "0.1.1") (d (list (d (n "gut") (r "^0.4") (d #t) (k 0) (p "gchemol-gut")) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "vecfx") (r "^0.1.2") (f (quote ("nalgebra"))) (d #t) (k 0)))) (h "1sirni920j6lsb1zc4v4jixzj1891qqslimjvx059pv53pfbf154") (f (quote (("adhoc"))))))
+

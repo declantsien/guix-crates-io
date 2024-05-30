@@ -1,0 +1,6 @@
+(define-module (crates-io do cx docx-reader) #:use-module (crates-io))
+
+(define-public crate-docx-reader-0.1.0 (c (n "docx-reader") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.1") (d #t) (k 0)) (d (n "image") (r "^0.24.4") (f (quote ("gif" "jpeg" "png" "bmp" "tiff"))) (k 0)) (d (n "insta") (r "^1.16") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.4") (d #t) (k 0)) (d (n "zip") (r "^0.6.3") (f (quote ("deflate"))) (k 0)))) (h "1ys3s7p9fq11slji2zfyh3w14n75md5kyshrvqn9p5d5dw7g52kw") (y #t)))
+
+(define-public crate-docx-reader-0.1.1 (c (n "docx-reader") (v "0.1.1") (d (list (d (n "base64") (r "^0.13.1") (d #t) (k 0)) (d (n "image") (r "^0.24.4") (f (quote ("gif" "jpeg" "png" "bmp" "tiff"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.4") (d #t) (k 0)) (d (n "zip") (r "^0.6.3") (f (quote ("deflate"))) (k 0)))) (h "032chnx62p1hyra0srcwbpy1q5zyca5phkziafk8rkfs40wk5y6i") (y #t)))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io th ot thot-local) #:use-module (crates-io))
+
+(define-public crate-thot-local-0.10.0-init (c (n "thot-local") (v "0.10.0-init") (d (list (d (n "cluFlock") (r "^1.2.7") (d #t) (k 0)) (d (n "directories") (r "^4.0") (d #t) (k 0)) (d (n "fake") (r "^2.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "settings_manager") (r "^0.0.1") (d #t) (k 0)) (d (n "thot-core") (r "^0.10.0-init") (d #t) (k 0)))) (h "0djlym2202rhsypxp725g1ck7i622jnsb7xshjl0piwdza3q3bqk")))
+
+(define-public crate-thot-local-0.10.0-intermediate (c (n "thot-local") (v "0.10.0-intermediate") (d (list (d (n "cluFlock") (r "^1.2.7") (d #t) (k 0)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "directories") (r "^4.0") (d #t) (k 0)) (d (n "fake") (r "^2.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "settings_manager") (r "^0.0.2") (d #t) (k 0)) (d (n "thot-core") (r "^0.10.0-intermediate") (f (quote ("serde"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde" "v4"))) (d #t) (k 0)) (d (n "validator") (r "^0.14") (d #t) (k 0)))) (h "1v91fsimp2dm3yd9y1xin0xspx4xg2rfnl3wgxp36w4ws4i7q5h3")))
+

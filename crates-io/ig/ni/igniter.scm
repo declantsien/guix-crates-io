@@ -1,0 +1,8 @@
+(define-module (crates-io ig ni igniter) #:use-module (crates-io))
+
+(define-public crate-igniter-0.1.0 (c (n "igniter") (v "0.1.0") (d (list (d (n "clap") (r "^2.29.1") (d #t) (k 0)) (d (n "config") (r "^0.7.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "nix") (r "^0.9.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.9") (d #t) (k 0)))) (h "1iiqclszx127y9qcrgyfim9sgc3sc4ihx2frivs43s6qvz9nhqj8")))
+
+(define-public crate-igniter-0.1.1 (c (n "igniter") (v "0.1.1") (d (list (d (n "clap") (r "^2.29.1") (d #t) (k 0)) (d (n "config") (r "^0.7.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "nix") (r "^0.9.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.9") (d #t) (k 0)))) (h "1iqyifwr08nrn2q7406j1si1ga7a9wi95a1nn4f0j54y2x6xs46c")))
+
+(define-public crate-igniter-0.1.2 (c (n "igniter") (v "0.1.2") (d (list (d (n "clap") (r "^2.29.1") (d #t) (k 0)) (d (n "config") (r "^0.7.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "nix") (r "^0.9.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.9") (d #t) (k 0)))) (h "16lmivp3cmc2ijj3sn21xx1xad6nlmcl2aa23f91m53nphba7xqg")))
+

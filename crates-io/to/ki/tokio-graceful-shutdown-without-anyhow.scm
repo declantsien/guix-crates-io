@@ -1,0 +1,4 @@
+(define-module (crates-io to ki tokio-graceful-shutdown-without-anyhow) #:use-module (crates-io))
+
+(define-public crate-tokio-graceful-shutdown-without-anyhow-0.6.0 (c (n "tokio-graceful-shutdown-without-anyhow") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.23") (d #t) (t "cfg(unix)") (k 2)) (d (n "tokio") (r "^1") (f (quote ("signal" "rt" "macros" "time"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (k 0)))) (h "1zi5xy13xshnigz5y7yx1svf6wqnzlnr5q18a8l63l50lh0nic0v")))
+

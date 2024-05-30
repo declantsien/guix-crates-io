@@ -1,0 +1,4 @@
+(define-module (crates-io pu mp pumpkindb_mio_server) #:use-module (crates-io))
+
+(define-public crate-pumpkindb_mio_server-0.2.0 (c (n "pumpkindb_mio_server") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "lmdb-zero") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "log4rs") (r "^0.6.1") (f (quote ("toml_format"))) (d #t) (k 0)) (d (n "memmap") (r "^0.5.2") (d #t) (k 0)) (d (n "mio") (r "^0.6.4") (d #t) (k 0)) (d (n "num-bigint") (r "^0.1.35") (d #t) (k 0)) (d (n "num-traits") (r "^0.1.36") (d #t) (k 0)) (d (n "pumpkindb_engine") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "slab") (r "^0.3.0") (d #t) (k 0)) (d (n "uuid") (r "^0.4") (f (quote ("v4"))) (d #t) (k 0)))) (h "11mi885d8mqs0m2j9r7spvm8h37wc2r2acjqmz5n9j200jjxw6g3")))
+

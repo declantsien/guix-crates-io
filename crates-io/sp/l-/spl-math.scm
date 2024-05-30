@@ -1,0 +1,6 @@
+(define-module (crates-io sp l- spl-math) #:use-module (crates-io))
+
+(define-public crate-spl-math-0.1.0 (c (n "spl-math") (v "0.1.0") (d (list (d (n "borsh") (r "^0.7.1") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.8.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "solana-program") (r "^1.6.2") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.6.2") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.6.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uint") (r "^0.8") (d #t) (k 0)))) (h "0llkmqyx5mfc03karg82jm0rg88c07sjhac6i9bsprdr40kx5k9f") (f (quote (("test-bpf") ("no-entrypoint"))))))
+
+(define-public crate-spl-math-0.2.0 (c (n "spl-math") (v "0.2.0") (d (list (d (n "borsh") (r "^0.10") (d #t) (k 0)) (d (n "libm") (r "^0.2.7") (d #t) (k 2)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proptest") (r "^1.2.0") (d #t) (k 2)) (d (n "solana-program") (r "^1.16.1") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.16.1") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.16.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uint") (r "^0.9") (d #t) (k 0)))) (h "0441bwlr9mrhrnr2kc2gm43bwcsawb8fk19yzabk8yccc2kqfb8h") (f (quote (("test-sbf") ("no-entrypoint"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io mi ni mini-telegram) #:use-module (crates-io))
+
+(define-public crate-mini-telegram-0.1.0 (c (n "mini-telegram") (v "0.1.0") (h "0c770xcfpciw4wc30ccqscjvbya6hks9nyybzx39iy3i413nlw7k")))
+
+(define-public crate-mini-telegram-0.1.1 (c (n "mini-telegram") (v "0.1.1") (h "0byj67hm1z821786zf9v9p781ljfp5pfwq77d3x68gif3v0zdcab")))
+
+(define-public crate-mini-telegram-0.1.14 (c (n "mini-telegram") (v "0.1.14") (d (list (d (n "async-stream") (r "^0.3.0") (d #t) (k 0)) (d (n "atoi") (r "^2.0.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("test-util"))) (d #t) (k 2)))) (h "10qqmjhrimbkf579ikfzwqn5wdak13klbh9wqigxrgvbdbk7yclj")))
+
+(define-public crate-mini-telegram-0.1.15 (c (n "mini-telegram") (v "0.1.15") (d (list (d (n "async-stream") (r "^0.3.0") (d #t) (k 0)) (d (n "atoi") (r "^2.0.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("test-util"))) (d #t) (k 2)))) (h "0agyhm7j8xzcv4q0xhagmiv5vvqjgpl687vm12jhfdd9s1g1zl0g")))
+
+(define-public crate-mini-telegram-0.1.17 (c (n "mini-telegram") (v "0.1.17") (d (list (d (n "async-stream") (r "^0.3.0") (d #t) (k 0)) (d (n "atoi") (r "^2.0.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("test-util"))) (d #t) (k 2)))) (h "0sgla2zhqmyz75c28ihpd5lzpdywamahw257mdhhxf1j0218jpkv")))
+

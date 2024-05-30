@@ -1,0 +1,10 @@
+(define-module (crates-io br on bronze_gc) #:use-module (crates-io))
+
+(define-public crate-bronze_gc-0.0.1 (c (n "bronze_gc") (v "0.0.1") (d (list (d (n "backtrace") (r "^0.3.56") (d #t) (k 2)) (d (n "bindgen") (r "^0.56.0") (d #t) (k 1)) (d (n "bronze_derive") (r "^0.0.1") (o #t) (d #t) (k 0)) (d (n "bronze_derive") (r "^0.0.1") (d #t) (k 2)) (d (n "multiset") (r "^0.0.5") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)))) (h "1vr6syk9g2g4x1388s9m2crsrpz787bd6pk2z3b7g4r9qf9nhcb4") (f (quote (("enable_garbage_collection") ("derive" "bronze_derive")))) (l "libbronze")))
+
+(define-public crate-bronze_gc-0.1.0 (c (n "bronze_gc") (v "0.1.0") (d (list (d (n "backtrace") (r "^0.3.56") (d #t) (k 2)) (d (n "bindgen") (r "^0.56.0") (d #t) (k 1)) (d (n "bronze_derive") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "bronze_derive") (r "^0.1.0") (d #t) (k 2)) (d (n "multiset") (r "^0.0.5") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)))) (h "1g4dy9p367945x99r5azhb6iqsx5iawika3gl916nifw2d0kzclm") (f (quote (("enable_garbage_collection") ("derive" "bronze_derive")))) (l "libbronze")))
+
+(define-public crate-bronze_gc-0.2.0 (c (n "bronze_gc") (v "0.2.0") (d (list (d (n "backtrace") (r "^0.3.56") (d #t) (k 2)) (d (n "bindgen") (r "^0.56.0") (d #t) (k 1)) (d (n "bronze_derive") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "bronze_derive") (r "^0.1.0") (d #t) (k 2)) (d (n "multiset") (r "^0.0.5") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)))) (h "07sl4jrvlm7qr6l4l4prpb60299xpfn1flcy0yyb4flc524yinnv") (f (quote (("enable_garbage_collection") ("derive" "bronze_derive")))) (l "libbronze")))
+
+(define-public crate-bronze_gc-0.2.1 (c (n "bronze_gc") (v "0.2.1") (d (list (d (n "backtrace") (r "^0.3.56") (d #t) (k 2)) (d (n "bindgen") (r "^0.56.0") (d #t) (k 1)) (d (n "bronze_derive") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "bronze_derive") (r "^0.1.0") (d #t) (k 2)) (d (n "multiset") (r "^0.0.5") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)))) (h "0hlhxkxpzvcpz55f0p4nx9qih971aa6yil61q3qfh5s2lk8fy0cf") (f (quote (("enable_garbage_collection") ("derive" "bronze_derive")))) (l "libbronze")))
+

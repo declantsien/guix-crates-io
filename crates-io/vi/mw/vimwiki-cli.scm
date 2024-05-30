@@ -1,0 +1,4 @@
+(define-module (crates-io vi mw vimwiki-cli) #:use-module (crates-io))
+
+(define-public crate-vimwiki-cli-0.1.0 (c (n "vimwiki-cli") (v "0.1.0") (d (list (d (n "directories") (r "^3.0.2") (d #t) (k 0)) (d (n "jsonpath_lib") (r "^0.2.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.6") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "vimvar") (r "^0.2") (d #t) (k 0)) (d (n "vimwiki") (r "=0.1.0") (f (quote ("html"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0s6jalqvhaisbkpa459l6aljpc3sayr5j5f397rar2wf3h7x7aja")))
+

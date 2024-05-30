@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-bulkhead) #:use-module (crates-io))
+
+(define-public crate-async-bulkhead-0.1.0 (c (n "async-bulkhead") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "async-lock") (r "^2") (d #t) (k 0)) (d (n "async-std") (r "^1") (o #t) (d #t) (k 0)) (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "futures-lite") (r "^1") (d #t) (k 0)) (d (n "smol-timeout") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (o #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (k 2)))) (h "0yg1m9wjhjkh6ahh6mqp97f19slzpryk8r4lxfs42v5w523z10m0") (f (quote (("rt-tokio" "tokio/sync" "tokio/time") ("rt-smol" "smol-timeout") ("rt-async-std" "async-std/futures-lite") ("default" "rt-tokio"))))))
+

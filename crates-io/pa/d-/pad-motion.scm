@@ -1,0 +1,16 @@
+(define-module (crates-io pa d- pad-motion) #:use-module (crates-io))
+
+(define-public crate-pad-motion-0.1.0 (c (n "pad-motion") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.2.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.4") (d #t) (k 2)) (d (n "gilrs") (r "^0.7.4") (d #t) (k 2)) (d (n "multiinput") (r "^0.0.15") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0a2wf66203idx78xiljycw9ykfnrd1f8vxzx61z67hd8520gqikw")))
+
+(define-public crate-pad-motion-0.1.1 (c (n "pad-motion") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.2.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.4") (d #t) (k 2)) (d (n "gilrs") (r "^0.7.4") (d #t) (k 2)) (d (n "multiinput") (r "^0.0.15") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "129844nfvgjagzppcpr349gijja92mrpa2z9wbxbhbmsci2llin4")))
+
+(define-public crate-pad-motion-0.1.2 (c (n "pad-motion") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.2.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.4") (d #t) (k 2)) (d (n "gilrs") (r "^0.7.4") (d #t) (k 2)) (d (n "multiinput") (r "^0.0.15") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "03w3kx77fmmy57kfzqgwjh38n4qsvmikzr7wa3qv1n93rqsn4k04")))
+
+(define-public crate-pad-motion-0.1.3 (c (n "pad-motion") (v "0.1.3") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.2.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.4") (d #t) (k 2)) (d (n "gilrs") (r "^0.7.4") (d #t) (k 2)) (d (n "multiinput") (r "^0.0.15") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "041n6wb0r14rxaqwlysam4f8wqs0id52lnq4rg1paqwi03dpsjha")))
+
+(define-public crate-pad-motion-0.1.4 (c (n "pad-motion") (v "0.1.4") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.2.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.4") (d #t) (k 2)) (d (n "gilrs") (r "^0.7.4") (d #t) (k 2)) (d (n "multiinput") (r "^0.0.15") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "18ncp47agqmmq3r9mc4mdcqm6wvnpwkrafa7ybs8ym0jih6xh7sm")))
+
+(define-public crate-pad-motion-0.1.5 (c (n "pad-motion") (v "0.1.5") (d (list (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.8") (d #t) (k 2)) (d (n "gilrs") (r "^0.8.0") (d #t) (k 2)) (d (n "multiinput") (r "^0.1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)))) (h "1x0hzn17gg3465sd1vsjhbxid1n4bmw2j4cql66bp9bivvwdlz36")))
+
+(define-public crate-pad-motion-0.1.6 (c (n "pad-motion") (v "0.1.6") (d (list (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "crc32fast") (r "^1.2.1") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.8") (d #t) (k 2)) (d (n "gilrs") (r "^0.8.0") (d #t) (k 2)) (d (n "multiinput") (r "^0.1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)))) (h "12wnqxqmw78bhwkdzw583k8sc3rq3kfsw9fzdh0ndalvy0vzv0hn")))
+

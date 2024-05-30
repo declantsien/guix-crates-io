@@ -1,0 +1,6 @@
+(define-module (crates-io ma l- mal-query) #:use-module (crates-io))
+
+(define-public crate-mal-query-0.1.0 (c (n "mal-query") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "open") (r "^5.0.1") (d #t) (k 0)) (d (n "pkce") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0g4d8pgfa4kigjdn7dwj8yjw0jnh56x5fwn1250h5yhgmirzyzk1") (f (quote (("jikan")))) (y #t)))
+
+(define-public crate-mal-query-0.1.1 (c (n "mal-query") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "open") (r "^5.0.1") (d #t) (k 0)) (d (n "pkce") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "13sybxjl50vjh9rr133aqw68k0s3vkqcfhnznzw3djz2rg74h5zm") (f (quote (("jikan"))))))
+

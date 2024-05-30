@@ -1,0 +1,4 @@
+(define-module (crates-io et he ethers-signer-rs) #:use-module (crates-io))
+
+(define-public crate-ethers-signer-rs-0.1.0 (c (n "ethers-signer-rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "ethers-types-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "ethers-wallet-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "jsonrpc-rs") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "async-std") (r "^1.11.0") (f (quote ("attributes" "default"))) (d #t) (k 2)) (d (n "criterion") (r "^0.4") (f (quote ("async_futures" "html_reports"))) (d #t) (k 2)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1bbglj9yay61wjp0cccymw6d7m1m9snsf12clv3zqsbya4rp50gz")))
+

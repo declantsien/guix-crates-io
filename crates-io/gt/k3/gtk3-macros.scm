@@ -1,0 +1,24 @@
+(define-module (crates-io gt k3 gtk3-macros) #:use-module (crates-io))
+
+(define-public crate-gtk3-macros-0.0.0 (c (n "gtk3-macros") (v "0.0.0") (h "09x6r63mcyk0gxjyl68jjvz4p6w66w5fg0ki0ifx9pjrxmq6dj4j")))
+
+(define-public crate-gtk3-macros-0.14.0 (c (n "gtk3-macros") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (k 0)))) (h "0yavfirn2iw9nsxik6m7s2cdxdrl5l5jfbiwn0zl85y1dnlivpi1")))
+
+(define-public crate-gtk3-macros-0.15.0 (c (n "gtk3-macros") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (k 0)))) (h "154b8lawih3vibpjja9dz5h9mk9sgxq268sj5fn4sw7896hkx6qa") (y #t) (r "1.56")))
+
+(define-public crate-gtk3-macros-0.15.1 (c (n "gtk3-macros") (v "0.15.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (k 0)))) (h "0hgmb419a58v6g2iim9lgmp3k6rvs3xlc5qbi8g7mrv9my4132cc") (r "1.56")))
+
+(define-public crate-gtk3-macros-0.15.4 (c (n "gtk3-macros") (v "0.15.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (k 0)))) (h "1sd207xnlvz66n05hr9gqsxsgrprarw6kmxjhnjzn8qcx6piix94") (r "1.56")))
+
+(define-public crate-gtk3-macros-0.16.0 (c (n "gtk3-macros") (v "0.16.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "gtk") (r "^0.16") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (k 0)))) (h "1zycnlfp7i5ydj8h218d34v6n7aq2c6rvpn88cz7g2q1n5bnbzcc") (r "1.63")))
+
+(define-public crate-gtk3-macros-0.17.0 (c (n "gtk3-macros") (v "0.17.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "gtk") (r "^0.17") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (k 0)))) (h "116anx77114lws8p0xkkayglqfypgdbj087xrcr406zqaxw1spyz") (r "1.64")))
+
+(define-public crate-gtk3-macros-0.17.1 (c (n "gtk3-macros") (v "0.17.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "gtk") (r "^0.17") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0pnrn8wgri525k5ijp64xp3whp61p6jga94zpl89r8y9hbb89yry") (r "1.64")))
+
+(define-public crate-gtk3-macros-0.15.6 (c (n "gtk3-macros") (v "0.15.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "03db8hfd4n0mx184a18j8wwxyf2rwf25pv3kmzlygs46q1b08k38") (r "1.56")))
+
+(define-public crate-gtk3-macros-0.16.3 (c (n "gtk3-macros") (v "0.16.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "gtk") (r "^0.16") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1n2sy0w9g75y5h7sq390nyyg3sl5axcj8naywspkpw7ddwybcvh9") (r "1.63")))
+
+(define-public crate-gtk3-macros-0.18.0 (c (n "gtk3-macros") (v "0.18.0") (d (list (d (n "gtk") (r "^0.18") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0pnpp8bddisgyd1m39xhrw6kd9lawqd2xxvxzdl2jn6vcgxkw1n6") (r "1.70")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io tw o- two-rusty-forks) #:use-module (crates-io))
+
+(define-public crate-two-rusty-forks-0.3.0 (c (n "two-rusty-forks") (v "0.3.0") (d (list (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)) (d (n "two-rusty-forks-macro") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "wait-timeout") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1rpffprgwvngn21r7ba1hhns1mbiih8769lpm19ii3ql0ni1agyi") (f (quote (("timeout" "wait-timeout") ("macro" "two-rusty-forks-macro") ("default" "timeout")))) (y #t)))
+
+(define-public crate-two-rusty-forks-0.3.1 (c (n "two-rusty-forks") (v "0.3.1") (d (list (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)) (d (n "two-rusty-forks-macro") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "wait-timeout") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1c0vn4bx91r8y4rb6hk79r2k563zx336sq200vjx2f4g1419xrq2") (f (quote (("timeout" "wait-timeout") ("macro" "two-rusty-forks-macro") ("default" "timeout"))))))
+
+(define-public crate-two-rusty-forks-0.3.2 (c (n "two-rusty-forks") (v "0.3.2") (d (list (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)) (d (n "two-rusty-forks-macro") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "wait-timeout") (r "^0.2") (o #t) (d #t) (k 0)))) (h "0380d73ziza4931k2v525jk690bcx5qvhcjar1hkqhxif8bl4k88") (f (quote (("timeout" "wait-timeout") ("macro" "two-rusty-forks-macro") ("default" "timeout"))))))
+
+(define-public crate-two-rusty-forks-0.4.0 (c (n "two-rusty-forks") (v "0.4.0") (d (list (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)) (d (n "two-rusty-forks-macro") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "wait-timeout") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1rmv9m7qlxwj7wbc0nhz1ywmhvlh4ayaa39jy12sk4ykv42prb91") (f (quote (("timeout" "wait-timeout") ("macro" "two-rusty-forks-macro") ("default" "timeout"))))))
+

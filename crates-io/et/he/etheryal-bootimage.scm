@@ -1,0 +1,6 @@
+(define-module (crates-io et he etheryal-bootimage) #:use-module (crates-io))
+
+(define-public crate-etheryal-bootimage-0.4.0 (c (n "etheryal-bootimage") (v "0.4.0") (d (list (d (n "bootloader-locator") (r "^0.0") (d #t) (k 0)) (d (n "cargo-manifest") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "locate-cargo-manifest") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "runner-utils") (r "^0.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "wait-timeout") (r "^0.2") (d #t) (k 0)))) (h "148lwbdvbrfpsandwpv9y3cj3n14am1i71lqbcvhs42rf58nilyy")))
+
+(define-public crate-etheryal-bootimage-0.4.1 (c (n "etheryal-bootimage") (v "0.4.1") (d (list (d (n "bootloader-locator") (r "^0.0") (d #t) (k 0)) (d (n "cargo-manifest") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "locate-cargo-manifest") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "runner-utils") (r "^0.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "wait-timeout") (r "^0.2") (d #t) (k 0)))) (h "124q6lmxb95shdyx0rgqmaaq6zyirdypmk82xwaq1nmnngyis03l")))
+

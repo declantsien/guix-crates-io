@@ -1,0 +1,40 @@
+(define-module (crates-io co nn connchk) #:use-module (crates-io))
+
+(define-public crate-connchk-0.1.0 (c (n "connchk") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1nfnk39db40h6bg3gsb2gan27mqxqz68qx03nds8j6gwr0rcikk3")))
+
+(define-public crate-connchk-0.2.0 (c (n "connchk") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "06qafji59kw5qw7r300vaa7dfip4qghs6dx8smmmcx3y3v2n86y6")))
+
+(define-public crate-connchk-0.2.1 (c (n "connchk") (v "0.2.1") (d (list (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0gy9w6qfxglsdc05m2mxnlqz9rwk908ig9sfa9072arsk57wfqmp")))
+
+(define-public crate-connchk-0.3.0 (c (n "connchk") (v "0.3.0") (d (list (d (n "reqwest") (r ">=0.10.0, <0.11.0") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "toml") (r ">=0.5.0, <0.6.0") (d #t) (k 0)))) (h "1kjk4w3450mx9qh8q60fym1i06h1pq2az6lrfrd7aw337dlbicdn")))
+
+(define-public crate-connchk-0.4.0 (c (n "connchk") (v "0.4.0") (d (list (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0130zv35zb3im4n5hmd3jc55v2rq15rghg4mpjqpl5dyaq5x3579")))
+
+(define-public crate-connchk-0.5.0 (c (n "connchk") (v "0.5.0") (d (list (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0vgq684w91gb8ldmcpwnq04srammli8s88kmkq04sxlb2ziszvcp")))
+
+(define-public crate-connchk-0.6.0 (c (n "connchk") (v "0.6.0") (d (list (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1xmdaanl0nsvvscf49xjq03wsdhxp3szllm9n1a4xbi2nylr445r")))
+
+(define-public crate-connchk-0.7.0 (c (n "connchk") (v "0.7.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "042vi5sgw9zk5h8rsbbya2i4gm8qh96zw7pihzf08nqwd0c7hjx4")))
+
+(define-public crate-connchk-0.7.1 (c (n "connchk") (v "0.7.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "13gcijbly802v4pplg0wgr52xxvcs09j3jm157fgayzi9zjh2g96")))
+
+(define-public crate-connchk-0.7.2 (c (n "connchk") (v "0.7.2") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1b0a2xp27asb4f4f22lslgz2ivjcajdrvy2sgp5shapr42606l8f")))
+
+(define-public crate-connchk-0.7.3 (c (n "connchk") (v "0.7.3") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0sh9krvhf8maa5fpg11wgf0cfv8gq782sk8bz75k9gfdgxv7qn5x")))
+
+(define-public crate-connchk-0.7.4 (c (n "connchk") (v "0.7.4") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "08pfbnqd20fv1s90l3m7p2q2gvg732vc9r8r562j6nh2vd08xxwv")))
+
+(define-public crate-connchk-0.7.5 (c (n "connchk") (v "0.7.5") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0nysac2y8lzmarhm98jxx72yvm47pnlicvj093bm6187gf1p902d")))
+
+(define-public crate-connchk-0.7.6 (c (n "connchk") (v "0.7.6") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "027d2nmbxknxy6a7g25cc1sck5cqf4jdxgf0111i2f39sz7il0d7")))
+
+(define-public crate-connchk-0.7.7 (c (n "connchk") (v "0.7.7") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0bvs84sxwlk5jh20v88hhsz6ar3cixvkfqw7a0xzm0z79h8z35c1")))
+
+(define-public crate-connchk-0.8.0 (c (n "connchk") (v "0.8.0") (d (list (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1j0ibwglfl46cfjizg785hz2daz3wvz1flxplba0827dcsz4hi6j")))
+
+(define-public crate-connchk-0.9.0 (c (n "connchk") (v "0.9.0") (d (list (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0bimy7ph26kpmr47fpi3535k7v51p8jlfd00280wx3xvpvzqawkd")))
+
+(define-public crate-connchk-0.9.1 (c (n "connchk") (v "0.9.1") (d (list (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "180z1w6q00s1kalkjygnfpynmr4z1hs7ycx44ga67dq741qkp2pd")))
+
+(define-public crate-connchk-0.9.2 (c (n "connchk") (v "0.9.2") (d (list (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "020bm30mb6rk8vrzhs67v05apcy81pni6yv67q28rp2vk7x57c88")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io el ro elrond-wasm-sc-dns) #:use-module (crates-io))
+
+(define-public crate-elrond-wasm-sc-dns-1.1.0 (c (n "elrond-wasm-sc-dns") (v "1.1.0") (d (list (d (n "elrond-wasm") (r "^0.16.1") (d #t) (k 0)) (d (n "elrond-wasm-debug") (r "^0.16.1") (d #t) (k 2)) (d (n "elrond-wasm-derive") (r "^0.16.1") (d #t) (k 0)) (d (n "elrond-wasm-module-features-default") (r "^0.16.1") (o #t) (d #t) (k 0) (p "elrond-wasm-module-features")) (d (n "elrond-wasm-module-features-wasm") (r "^0.16.1") (f (quote ("wasm-output-mode"))) (o #t) (k 0) (p "elrond-wasm-module-features")) (d (n "elrond-wasm-node") (r "^0.16.1") (o #t) (d #t) (k 0)))) (h "1s4bjb2p7472bbx01bf73414f9q7x9kaayfxzfljs7yh8nn90hvk") (f (quote (("wasm-output-mode" "elrond-wasm-node" "elrond-wasm-module-features-wasm") ("default" "elrond-wasm-module-features-default"))))))
+

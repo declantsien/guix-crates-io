@@ -1,0 +1,4 @@
+(define-module (crates-io se ee seeed-lora-e5-at-commands) #:use-module (crates-io))
+
+(define-public crate-seeed-lora-e5-at-commands-0.1.0 (c (n "seeed-lora-e5-at-commands") (v "0.1.0") (d (list (d (n "atat") (r "^0.22.0") (f (quote ("derive" "bytes" "hex_str_arrays"))) (d #t) (k 0)) (d (n "atat_derive") (r "^0.22.0") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embassy-sync") (r "^0.5") (d #t) (k 0)) (d (n "embedded-io") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "embedded-io-async") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "heapless-bytes") (r "^0.3") (d #t) (k 0)) (d (n "nb") (r "^1") (d #t) (k 0)) (d (n "serde_at") (r "^0.22.0") (f (quote ("hex_str_arrays" "heapless"))) (d #t) (k 0)))) (h "0jg4klq5kh3k08bwydpxpkbxlwbknnxadbj5mmmnw1sfd2asdnfs") (f (quote (("default" "debug" "async") ("debug" "atat/defmt" "defmt" "embedded-io-async/defmt-03") ("async" "embedded-io" "embedded-io-async"))))))
+

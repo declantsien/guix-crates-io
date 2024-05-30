@@ -1,0 +1,28 @@
+(define-module (crates-io ap ol apollo-smith) #:use-module (crates-io))
+
+(define-public crate-apollo-smith-0.1.0 (c (n "apollo-smith") (v "0.1.0") (d (list (d (n "apollo-encoder") (r "^0.2.1") (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "17s0gxmmg9l78r4fvadp5nf5qjj2mixdl6nvkjmf6v6l3fxvjvrc")))
+
+(define-public crate-apollo-smith-0.1.1 (c (n "apollo-smith") (v "0.1.1") (d (list (d (n "apollo-encoder") (r "^0.2.3") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "0z4sbhmhyw1fyjg2cigyd1437ih1q2wvkvl12yvwnrlq9kbri065") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.1.2 (c (n "apollo-smith") (v "0.1.2") (d (list (d (n "apollo-encoder") (r "^0.3.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "17fxpikxf0b78rw25cknacg27h5myp205glbsh08nndddlpvhlgc") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.1.3 (c (n "apollo-smith") (v "0.1.3") (d (list (d (n "apollo-encoder") (r "^0.3.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "0bcrg7m55xlgkh36v8g519kx3crjhscx5gwa1rd32h0zw8kvlvyn") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.1.4 (c (n "apollo-smith") (v "0.1.4") (d (list (d (n "apollo-encoder") (r "^0.3.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "0apvfgajx72jvfhpv023l6srivgh7b77z329nz1hy0fy5iapjd47") (f (quote (("parser-impl" "apollo-parser")))) (y #t)))
+
+(define-public crate-apollo-smith-0.1.5 (c (n "apollo-smith") (v "0.1.5") (d (list (d (n "apollo-encoder") (r "^0.3.4") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "1smknwq9n9kldqji8952ay5laxp2zsjza00d0icq0kbpxgfjfp80") (f (quote (("parser-impl" "apollo-parser")))) (y #t)))
+
+(define-public crate-apollo-smith-0.2.0 (c (n "apollo-smith") (v "0.2.0") (d (list (d (n "apollo-encoder") (r "^0.3.4") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)))) (h "04mikfc70534p4qqm1vijcs6sab9sg9k3lhx8nnzgqslk7gmhr3r") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.3.0 (c (n "apollo-smith") (v "0.3.0") (d (list (d (n "apollo-encoder") (r "^0.3.4") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1zill0ya9qgzqpsdlya3mnwfgvckzw6kv641w4z9rakzdp661pkr") (f (quote (("parser-impl" "apollo-parser")))) (y #t)))
+
+(define-public crate-apollo-smith-0.3.1 (c (n "apollo-smith") (v "0.3.1") (d (list (d (n "apollo-encoder") (r "^0.4.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1f9wszrbdkhb3kbp6fm8nqxwrxib6d161iq9pv5jg2hq1qwigiz9") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.3.2 (c (n "apollo-smith") (v "0.3.2") (d (list (d (n "apollo-encoder") (r "^0.4.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.0.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "16r9j07mp39hj218mka8z0dngs6qk1zklww7xbhyhj67nrlv6jkv") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.4.0 (c (n "apollo-smith") (v "0.4.0") (d (list (d (n "apollo-encoder") (r "^0.7.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "16z8pv16lsxsmbd89p4hn0blsj57xa72n4m25jhlvwp9knxr9v8k") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.5.0 (c (n "apollo-smith") (v "0.5.0") (d (list (d (n "apollo-encoder") (r "^0.8.0") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "arbitrary") (r "^1.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "03y7npg5pnmhpb8wd5vhr48jwl15x5nhcm8vlk6ynbjx0pqm26j4") (f (quote (("parser-impl" "apollo-parser"))))))
+
+(define-public crate-apollo-smith-0.6.0-beta.1 (c (n "apollo-smith") (v "0.6.0-beta.1") (d (list (d (n "apollo-compiler") (r "=1.0.0-beta.9") (d #t) (k 0)) (d (n "apollo-parser") (r "^0.7.0") (d #t) (k 0)) (d (n "arbitrary") (r "^1.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "expect-test") (r "^1.4") (d #t) (k 2)) (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "16h50kghp67y9pknqq5v6slrrzfndnwdj5rgm76y7dcl06a1yvmx")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io gu ac guac) #:use-module (crates-io))
+
+(define-public crate-guac-0.1.0 (c (n "guac") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.39") (d #t) (k 0)) (d (n "async-nats") (r "^0.29.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "graphql_client") (r "^0.12.0") (f (quote ("reqwest"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "openvex") (r "^0.1.0") (d #t) (k 0)) (d (n "packageurl") (r "^0.3.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1sjkmij5ssimqqx72v89lykp3v818jqshagky7ws6cx9dly345f6")))
+

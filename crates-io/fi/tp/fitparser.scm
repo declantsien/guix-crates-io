@@ -1,0 +1,28 @@
+(define-module (crates-io fi tp fitparser) #:use-module (crates-io))
+
+(define-public crate-fitparser-0.1.0 (c (n "fitparser") (v "0.1.0") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "12822i4dz5xd1pgl0jh8isdgk7dnhn5qgdzm3pcn8ndwynpa3qfw")))
+
+(define-public crate-fitparser-0.1.1 (c (n "fitparser") (v "0.1.1") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "10myxbh05448a9ymzzzir1cr39xx4i4ih41qdhv5r2fgkkbaswc5")))
+
+(define-public crate-fitparser-0.2.0 (c (n "fitparser") (v "0.2.0") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0jvidvrygxzm2shp9v5zf0kw421n8hwahzmb31fb0acqbmpawczh")))
+
+(define-public crate-fitparser-0.3.0 (c (n "fitparser") (v "0.3.0") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "1g1yi0780ysgv46nsk4j1k56hkj173kgi786zykdlqy2pxkgycsz")))
+
+(define-public crate-fitparser-0.4.0 (c (n "fitparser") (v "0.4.0") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0rpa6yvhcgn2cz8kl4s438jgxg3x51ahq1vnhs4gdbz873dj8lv6")))
+
+(define-public crate-fitparser-0.4.1 (c (n "fitparser") (v "0.4.1") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "05j0qv0r8h2sgvfwfjc60zhbs045fb9mkway457yvz2w6i6yjqwz")))
+
+(define-public crate-fitparser-0.4.2 (c (n "fitparser") (v "0.4.2") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "03n24cb2bc0pxy63hi1fdqgcl66a36frh6j9v473ryd0by03cr4k")))
+
+(define-public crate-fitparser-0.4.3 (c (n "fitparser") (v "0.4.3") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "1m87cxfrbsqm77sqwxj11m90bg4r2y3707kp8s584h7dpzylfm1l")))
+
+(define-public crate-fitparser-0.5.0 (c (n "fitparser") (v "0.5.0") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "1v2c66cwaq3dl6a2v4c16gidpipipi0n1fy56ymyrjspjb4v62nk")))
+
+(define-public crate-fitparser-0.5.1 (c (n "fitparser") (v "0.5.1") (d (list (d (n "calamine") (r "^0.16.1") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "18yw03wjj4rmdz17sc749wkjy5qg4h5axiixb46dnv0l085ajdix")))
+
+(define-public crate-fitparser-0.6.0 (c (n "fitparser") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "037yaa9ypw87jk1dhrf2qni177ilaxqxh98il8xb82g1d29wb9ph")))
+
+(define-public crate-fitparser-0.6.1 (c (n "fitparser") (v "0.6.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0dfsxyfhp7zpnd2gs9w628n5jypg8x65wa9n8pxdfzqlrppqs6y0")))
+
+(define-public crate-fitparser-0.7.0 (c (n "fitparser") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)))) (h "0xs1rsj9lyb53ahyx622b903fmhizkp8cqkahji2my8mvv0vcmrw")))
+

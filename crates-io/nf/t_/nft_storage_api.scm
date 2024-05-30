@@ -1,0 +1,6 @@
+(define-module (crates-io nf t_ nft_storage_api) #:use-module (crates-io))
+
+(define-public crate-nft_storage_api-1.0.0 (c (n "nft_storage_api") (v "1.0.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1zkf3zq17fni27nld7b1rmn90sy29060wwx500zlgfniiissl0mi")))
+
+(define-public crate-nft_storage_api-1.1.0 (c (n "nft_storage_api") (v "1.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "04inzjhs4xbgpa7n53s34hgwzzikl45q8yrjmwmwgksgr6piahgm")))
+

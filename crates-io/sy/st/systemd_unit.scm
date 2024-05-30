@@ -1,0 +1,8 @@
+(define-module (crates-io sy st systemd_unit) #:use-module (crates-io))
+
+(define-public crate-systemd_unit-0.0.1 (c (n "systemd_unit") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.34") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "tracing") (r "^0.1.22") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.15") (d #t) (k 0)) (d (n "uom") (r "^0.31.0") (f (quote ("use_serde"))) (d #t) (k 0)))) (h "15iv0hfim294b2qnpw40sfrh7xarfi9n4bdys7d3qsp53kpimfbp")))
+
+(define-public crate-systemd_unit-0.0.2 (c (n "systemd_unit") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.34") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "tracing") (r "^0.1.22") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.15") (d #t) (k 0)) (d (n "uom") (r "^0.31.0") (f (quote ("use_serde"))) (d #t) (k 0)))) (h "1qrdbwngk9wi0v5pi5ql2m0b7y1sfcg9z10zh0vyvb99jnkzlm2w")))
+
+(define-public crate-systemd_unit-0.0.3 (c (n "systemd_unit") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.34") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "tracing") (r "^0.1.22") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.15") (d #t) (k 0)) (d (n "uom") (r "^0.31.0") (f (quote ("use_serde"))) (d #t) (k 0)))) (h "0ccwd82rsizahpc7bg5j9yzhrxwfw7ivv99vw9qb4jkipc6c28mf")))
+

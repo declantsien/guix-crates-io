@@ -1,0 +1,4 @@
+(define-module (crates-io mo ck mocked) #:use-module (crates-io))
+
+(define-public crate-mocked-0.1.0 (c (n "mocked") (v "0.1.0") (d (list (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "axum-test") (r "^14.9.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)))) (h "12k8gq2ynsv6m3b7qxk3i7y09kfjwzhdc074ia6l86gx49x2fhw0")))
+

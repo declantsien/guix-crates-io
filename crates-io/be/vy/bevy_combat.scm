@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_combat) #:use-module (crates-io))
+
+(define-public crate-bevy_combat-0.1.0 (c (n "bevy_combat") (v "0.1.0") (d (list (d (n "bevy") (r "^0.5") (f (quote ("bevy_gltf" "bevy_winit" "render" "png"))) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("bevy_gltf" "bevy_winit" "render" "png" "bevy_wgpu"))) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "bevy_webgl2") (r "^0.5") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("wasm-bindgen"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "multimap") (r "^0.8.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tracing-wasm") (r "=0.2.0") (d #t) (k 0)) (d (n "winit") (r "^0.24") (f (quote ("x11"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "163mgxkizbcv2p8d60wh2mlqp8mk8afqm7xbmwdq4jjnagipxlll")))
+

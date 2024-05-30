@@ -1,0 +1,10 @@
+(define-module (crates-io nv id nvidia_riva) #:use-module (crates-io))
+
+(define-public crate-nvidia_riva-0.1.0 (c (n "nvidia_riva") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("time" "test-util" "fs" "macros" "sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "06v7aa8qbpvw5q43r1plb2ja41v2fjq81iyk1fib3795p3ni8hwv")))
+
+(define-public crate-nvidia_riva-0.1.1 (c (n "nvidia_riva") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("time" "test-util" "fs" "macros" "sync" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "0yhcdggmbp4n12b851ngbhgvn49dj1ja6qk63bla3dwwj5pg8253")))
+
+(define-public crate-nvidia_riva-0.1.2 (c (n "nvidia_riva") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("time" "test-util" "fs" "macros" "sync" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.9") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9") (d #t) (k 1)))) (h "0ymnb2hy8vgz9g0l2nylap05pqnz2ffss2vmf5l7792dszgf7kvv") (y #t)))
+
+(define-public crate-nvidia_riva-0.2.0 (c (n "nvidia_riva") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("time" "test-util" "fs" "macros" "sync" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.9") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9") (d #t) (k 1)))) (h "0xbsphckh13hhmsrn0xa4ywa8c9g3bgg82yjvdl9ywn3s47k99ma")))
+

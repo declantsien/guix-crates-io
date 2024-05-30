@@ -1,0 +1,4 @@
+(define-module (crates-io br us brush_lang_codegen) #:use-module (crates-io))
+
+(define-public crate-brush_lang_codegen-1.8.0 (c (n "brush_lang_codegen") (v "1.8.0") (d (list (d (n "blake2") (r "^0.9") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.13.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "ink_lang_ir") (r "^3.2.0") (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("parsing" "full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.12") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "026sn8sqpkm6z8i8f9kwj6pv55c0yv5wyhy9ds4c0fr8nfjj27k7") (f (quote (("std") ("default" "std"))))))
+

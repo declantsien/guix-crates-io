@@ -1,0 +1,6 @@
+(define-module (crates-io bi na binator_context) #:use-module (crates-io))
+
+(define-public crate-binator_context-0.0.0 (c (n "binator_context") (v "0.0.0") (d (list (d (n "binator_core") (r "^0.0.0") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "smallvec") (r "^1.7") (f (quote ("const_new" "union" "const_generics"))) (o #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)))) (h "090633ba0rwv99g8zbhvs5ls0yqnvjrhgk2alqyy9cplbkz5nqri") (f (quote (("tree" "smallvec" "binator_core/smallvec" "alloc") ("stack" "smallvec" "binator_core/smallvec") ("default" "stack" "tree" "alloc" "smallvec/serde") ("alloc" "binator_core/alloc"))))))
+
+(define-public crate-binator_context-0.0.2 (c (n "binator_context") (v "0.0.2") (d (list (d (n "binator_core") (r "^0.0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "smallvec") (r "^1.7") (f (quote ("const_new" "union" "const_generics"))) (o #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0zl908vbf98107hrhf5nrn1rlwpjcdhkrflc1ima60xlfdfnhqcp") (f (quote (("tree" "smallvec" "binator_core/smallvec" "alloc") ("stack" "smallvec" "binator_core/smallvec") ("default" "stack" "tree" "alloc" "smallvec/serde") ("alloc" "binator_core/alloc"))))))
+

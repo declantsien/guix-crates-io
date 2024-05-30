@@ -1,0 +1,40 @@
+(define-module (crates-io to we tower-sessions-memory-store) #:use-module (crates-io))
+
+(define-public crate-tower-sessions-memory-store-0.5.0 (c (n "tower-sessions-memory-store") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tower-sessions") (r "=0.5.0") (k 2)) (d (n "tower-sessions-core") (r "=0.5.0") (k 0)))) (h "011q5gzyblclgfjhs16x1gq2ypz8ckz23m6kwjrh3r5za9ng51l0")))
+
+(define-public crate-tower-sessions-memory-store-0.5.1 (c (n "tower-sessions-memory-store") (v "0.5.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tower-sessions") (r "=0.5.1") (k 2)) (d (n "tower-sessions-core") (r "=0.5.1") (k 0)))) (h "0dabdrnjfijz6r6in6fqhj5dcs27sij6b0qp6cpshhvcblqncwnx")))
+
+(define-public crate-tower-sessions-memory-store-0.6.0 (c (n "tower-sessions-memory-store") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tower-sessions") (r "=0.6.0") (k 2)) (d (n "tower-sessions-core") (r "=0.6.0") (k 0)))) (h "0sxbx6937y542vqcymflbmqj4ww7ib4ci0r9a4ylp9zxk96c8k2j")))
+
+(define-public crate-tower-sessions-memory-store-0.7.0 (c (n "tower-sessions-memory-store") (v "0.7.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tower-sessions") (r "=0.7.0") (k 2)) (d (n "tower-sessions-core") (r "=0.7.0") (k 0)))) (h "1s8wd98z52hcqw7azkhr024ww7b5nv2g8b6zqs127vzaizpmbn3q")))
+
+(define-public crate-tower-sessions-memory-store-0.8.0 (c (n "tower-sessions-memory-store") (v "0.8.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.8.0") (k 2)) (d (n "tower-sessions-core") (r "=0.8.0") (k 0)))) (h "0bqdm8qsk1ddqb9d4pn7ymhfhajlirpl1xlq88968yq3axssjc8l")))
+
+(define-public crate-tower-sessions-memory-store-0.8.1 (c (n "tower-sessions-memory-store") (v "0.8.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.8.1") (k 2)) (d (n "tower-sessions-core") (r "=0.8.1") (k 0)))) (h "14ia146n442crwfyzh4rkrl7xzvj234sgn5vvxhqas30lv1gshll")))
+
+(define-public crate-tower-sessions-memory-store-0.8.2 (c (n "tower-sessions-memory-store") (v "0.8.2") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.8.2") (k 2)) (d (n "tower-sessions-core") (r "=0.8.2") (k 0)))) (h "1hxj5za4wdfairy8fgphfr7j5cfsqapqnrbrjixq8fjdicgjh29a")))
+
+(define-public crate-tower-sessions-memory-store-0.9.0 (c (n "tower-sessions-memory-store") (v "0.9.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.9.0") (k 2)) (d (n "tower-sessions-core") (r "=0.9.0") (k 0)))) (h "0cl0sk42bjnd6m6cm5xvwcyzydfqmjcjr7qn8vcl4awscph8gwqq")))
+
+(define-public crate-tower-sessions-memory-store-0.9.1 (c (n "tower-sessions-memory-store") (v "0.9.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.9.1") (k 2)) (d (n "tower-sessions-core") (r "=0.9.1") (k 0)))) (h "0m62w8r518p0zj9ymy02z4p90l39609qir0knhdmny3rmss0r06n")))
+
+(define-public crate-tower-sessions-memory-store-0.10.0 (c (n "tower-sessions-memory-store") (v "0.10.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.10.0") (k 2)) (d (n "tower-sessions-core") (r "=0.10.0") (k 0)))) (h "13ra8lzcxkpl9jwwri6jdnwipx0qzr8y5djy1i9xwdmvnrkq4bhf")))
+
+(define-public crate-tower-sessions-memory-store-0.10.1 (c (n "tower-sessions-memory-store") (v "0.10.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.10.1") (k 2)) (d (n "tower-sessions-core") (r "=0.10.1") (k 0)))) (h "08wlkj86d1qry1801j0f8i4vfpxd3lxzszqxy7lywslywlacfv27")))
+
+(define-public crate-tower-sessions-memory-store-0.10.2 (c (n "tower-sessions-memory-store") (v "0.10.2") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.10.2") (k 2)) (d (n "tower-sessions-core") (r "=0.10.2") (k 0)))) (h "0jf55c216dr5n43nz11w2vd8nfdi54n3j8lsnc0z19rqrj404y2d")))
+
+(define-public crate-tower-sessions-memory-store-0.10.3 (c (n "tower-sessions-memory-store") (v "0.10.3") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.10.3") (k 2)) (d (n "tower-sessions-core") (r "=0.10.3") (k 0)))) (h "1xlh4s4vyppjmjpk5si11575dcasbx68rx2ayhgf1561azxksfrw") (y #t)))
+
+(define-public crate-tower-sessions-memory-store-0.10.4 (c (n "tower-sessions-memory-store") (v "0.10.4") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.10.4") (k 2)) (d (n "tower-sessions-core") (r "=0.10.4") (k 0)))) (h "01j3rmiw8mb60hbrdlp0mmshvqvjwi2gas24fzrbm1zj477qlxn5") (y #t)))
+
+(define-public crate-tower-sessions-memory-store-0.11.0 (c (n "tower-sessions-memory-store") (v "0.11.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.11.0") (k 2)) (d (n "tower-sessions-core") (r "=0.11.0") (k 0)))) (h "0imq994bq9jjsq5kdil7z6d7bh6fg7wa2ad9kzn63f0bjacz9fin")))
+
+(define-public crate-tower-sessions-memory-store-0.11.1 (c (n "tower-sessions-memory-store") (v "0.11.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.11.1") (k 2)) (d (n "tower-sessions-core") (r "=0.11.1") (k 0)))) (h "11jlfyznqg2xivldahng0ldy10aglsi6b66h2sxgdf0qk4q7bb48")))
+
+(define-public crate-tower-sessions-memory-store-0.12.0 (c (n "tower-sessions-memory-store") (v "0.12.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.12.0") (k 2)) (d (n "tower-sessions-core") (r "=0.12.0") (k 0)))) (h "0l5s5i0p9ll52qh1kj9kl4bfrgnvh1380zjajq9li4h11zrd96rs")))
+
+(define-public crate-tower-sessions-memory-store-0.12.1 (c (n "tower-sessions-memory-store") (v "0.12.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.12.1") (k 2)) (d (n "tower-sessions-core") (r "=0.12.1") (k 0)))) (h "1ga21n5px4lrv2k8bp1kfn1ydkp46nvqmxfy7dn806f4ra5alqgj")))
+
+(define-public crate-tower-sessions-memory-store-0.12.2 (c (n "tower-sessions-memory-store") (v "0.12.2") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (k 0)) (d (n "tower-sessions") (r "=0.12.2") (k 2)) (d (n "tower-sessions-core") (r "=0.12.2") (k 0)))) (h "1qsa2rl9ia19wgjly3syaickqwpplkkccz9hpw79p2hk5jz9pc58")))
+

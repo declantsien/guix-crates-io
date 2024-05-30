@@ -1,0 +1,12 @@
+(define-module (crates-io lu na lunatic-registry-api) #:use-module (crates-io))
+
+(define-public crate-lunatic-registry-api-0.9.0 (c (n "lunatic-registry-api") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "hash-map-id") (r "^0.9") (d #t) (k 0)) (d (n "lunatic-common-api") (r "^0.9") (d #t) (k 0)) (d (n "lunatic-process") (r "^0.9") (d #t) (k 0)) (d (n "lunatic-process-api") (r "^0.9") (d #t) (k 0)) (d (n "wasmtime") (r "^0.36") (d #t) (k 0)))) (h "0flvlshswy9fzw3x67vfcvabcajlmjnnm1qqcfvgb48rcxxi4q1j")))
+
+(define-public crate-lunatic-registry-api-0.9.2 (c (n "lunatic-registry-api") (v "0.9.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "hash-map-id") (r "^0.9") (d #t) (k 0)) (d (n "lunatic-common-api") (r "^0.9") (d #t) (k 0)) (d (n "lunatic-process") (r "^0.9") (d #t) (k 0)) (d (n "lunatic-process-api") (r "^0.9") (d #t) (k 0)) (d (n "wasmtime") (r "^0.39") (d #t) (k 0)))) (h "09425y12ymra9l4kfm8xlhaglk2l3xnv29aw56qs3aimb4as7nkw")))
+
+(define-public crate-lunatic-registry-api-0.10.0 (c (n "lunatic-registry-api") (v "0.10.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "hash-map-id") (r "^0.10") (d #t) (k 0)) (d (n "lunatic-common-api") (r "^0.10") (d #t) (k 0)) (d (n "lunatic-process") (r "^0.10") (d #t) (k 0)) (d (n "lunatic-process-api") (r "^0.10") (d #t) (k 0)) (d (n "wasmtime") (r "^0.39") (d #t) (k 0)))) (h "1abbfbfrgqffd48h3mild6yb0yg3h7gxp2ai54g6arsjnpvydy9w")))
+
+(define-public crate-lunatic-registry-api-0.12.0 (c (n "lunatic-registry-api") (v "0.12.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "hash-map-id") (r "^0.12") (d #t) (k 0)) (d (n "lunatic-common-api") (r "^0.12") (d #t) (k 0)) (d (n "lunatic-process") (r "^0.12") (d #t) (k 0)) (d (n "lunatic-process-api") (r "^0.12") (d #t) (k 0)) (d (n "metrics") (r "^0.20.1") (o #t) (d #t) (k 0)) (d (n "wasmtime") (r "^2") (d #t) (k 0)))) (h "0lzr06j3k92p7na5nsw6cybjrx12l1ivl909wqs9xwkz8gvpk6c4") (s 2) (e (quote (("metrics" "dep:metrics"))))))
+
+(define-public crate-lunatic-registry-api-0.13.2 (c (n "lunatic-registry-api") (v "0.13.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "lunatic-common-api") (r "^0.13") (d #t) (k 0)) (d (n "lunatic-process") (r "^0.13") (d #t) (k 0)) (d (n "lunatic-process-api") (r "^0.13") (d #t) (k 0)) (d (n "metrics") (r "^0.20.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("sync"))) (d #t) (k 0)) (d (n "wasmtime") (r "^8") (d #t) (k 0)))) (h "189s7bjiz7v2f1k5cv671lfszrm299zw8r2i4phqmcjc10q5pam8") (s 2) (e (quote (("metrics" "dep:metrics"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# c crl) #:use-module (crates-io))
+
+(define-public crate-crl-0.1.0 (c (n "crl") (v "0.1.0") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.2") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0wlwii362gpnva64vibq2030mwcp158wiza13vzx1k284bxgr4f1")))
+
+(define-public crate-crl-0.1.1 (c (n "crl") (v "0.1.1") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.2") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0k9yd3hr7xby13rqxznn90g212yj6x0zil6mlap3p43z2745viiy")))
+
+(define-public crate-crl-0.1.2 (c (n "crl") (v "0.1.2") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.2") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0bqgjxli7m89b5d1zf8brlfp05bnhh2kxfycxqza4gk1msid1w6z")))
+
+(define-public crate-crl-0.1.3 (c (n "crl") (v "0.1.3") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.2") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1id613a30lc5rzh7kxx46n1gdkgvzlssm92bf9cxjp3j0ncyxvyj")))
+
+(define-public crate-crl-0.1.4 (c (n "crl") (v "0.1.4") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.2") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0g2ykyin911kfm61li1cqpq22790yv9r3m2vnvgj5p3qd9757mgl")))
+
+(define-public crate-crl-0.1.5 (c (n "crl") (v "0.1.5") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.3") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "16fc5ay896v89ws5jk80fw1np3pylfbk0g866wjnv0h6cyigiyhv")))
+
+(define-public crate-crl-0.1.6 (c (n "crl") (v "0.1.6") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "arw_brr") (r "^0.1.4") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1gl7m6jha1dsp5556a46hpb2ddxk4gdh7x4cbbmf9p9b7a521i1d")))
+

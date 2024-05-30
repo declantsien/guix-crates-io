@@ -1,0 +1,4 @@
+(define-module (crates-io ot x- otx-sdk) #:use-module (crates-io))
+
+(define-public crate-otx-sdk-0.1.0 (c (n "otx-sdk") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "ckb-crypto") (r "^0.108") (d #t) (k 0)) (d (n "ckb-hash") (r "^0.108") (d #t) (k 0)) (d (n "ckb-jsonrpc-types") (r "^0.108") (d #t) (k 0)) (d (n "ckb-sdk") (r "^2.5.0") (d #t) (k 0)) (d (n "ckb-types") (r "^0.108") (d #t) (k 0)) (d (n "jsonrpc-core") (r "^18.0") (d #t) (k 0)) (d (n "otx-format") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-config") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-plugin-protocol") (r "=0.1.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24") (f (quote ("recovery"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "13208xrxnq7hrc77fdb0p6sq0b6lslqzzxczib9m2q0iq84w208r")))
+

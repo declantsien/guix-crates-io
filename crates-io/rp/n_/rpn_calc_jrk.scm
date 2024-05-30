@@ -1,0 +1,4 @@
+(define-module (crates-io rp n_ rpn_calc_jrk) #:use-module (crates-io))
+
+(define-public crate-rpn_calc_jrk-0.1.0 (c (n "rpn_calc_jrk") (v "0.1.0") (h "1g70dbi3wj10arl8klzq5d6p8racyvc2nk9702d2ac2lva5p5ik2")))
+

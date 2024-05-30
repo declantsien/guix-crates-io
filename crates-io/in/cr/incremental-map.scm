@@ -1,0 +1,6 @@
+(define-module (crates-io in cr incremental-map) #:use-module (crates-io))
+
+(define-public crate-incremental-map-0.1.0 (c (n "incremental-map") (v "0.1.0") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "im-rc") (r "^15.1.0") (o #t) (d #t) (k 0)) (d (n "incremental") (r "^0.1.0") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (f (quote ("trace"))) (k 2)) (d (n "tracing") (r "^0.1.37") (f (quote ("release_max_level_off"))) (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("fmt" "ansi" "env-filter" "smallvec" "tracing-log"))) (k 2)))) (h "1g3f7sl7g6zi48a7vy9lr4ahrcd3j9ivsbs4harym9s58rcn1yfp") (f (quote (("default")))) (s 2) (e (quote (("im" "dep:im-rc"))))))
+
+(define-public crate-incremental-map-0.2.0 (c (n "incremental-map") (v "0.2.0") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "im-rc") (r "^15.1.0") (o #t) (d #t) (k 0)) (d (n "incremental") (r "^0.2.0") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (f (quote ("trace"))) (k 2)) (d (n "tracing") (r "^0.1.37") (f (quote ("release_max_level_off"))) (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("fmt" "ansi" "env-filter" "smallvec" "tracing-log"))) (k 2)))) (h "1iyfpw7nqwmykxh6nrsnw91bpvmi9rpk7309cd8p0xxyk0v3kwm9") (f (quote (("default")))) (s 2) (e (quote (("im" "dep:im-rc"))))))
+

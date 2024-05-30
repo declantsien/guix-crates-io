@@ -1,0 +1,24 @@
+(define-module (crates-io du pl duplicate-kriller) #:use-module (crates-io))
+
+(define-public crate-duplicate-kriller-0.9.0 (c (n "duplicate-kriller") (v "0.9.0") (d (list (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "0vhzznqqbrrbrp2sa1z9v6825vn7i9y1h9hv2fawxhblkd0kvmv0") (y #t)))
+
+(define-public crate-duplicate-kriller-0.9.1 (c (n "duplicate-kriller") (v "0.9.1") (d (list (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "00jf4nb702y064015zh7674yzfa6k7a4ambai384dsagg12xch0h") (y #t)))
+
+(define-public crate-duplicate-kriller-0.9.2 (c (n "duplicate-kriller") (v "0.9.2") (d (list (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "1phz6zr5549imf47sg7b4zmgb1fxkchz318dv1bgd6masiqfkrvc") (y #t)))
+
+(define-public crate-duplicate-kriller-1.0.0 (c (n "duplicate-kriller") (v "1.0.0") (d (list (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "0wd5whbk2i5bqh46dvp8ikq5pl8105x1hnkjj035rw7h406i2gxa") (y #t)))
+
+(define-public crate-duplicate-kriller-1.1.0 (c (n "duplicate-kriller") (v "1.1.0") (d (list (d (n "file") (r "^1.1.1") (d #t) (k 2)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "13ilvhakb65w3z5f7z64d0d61wwpbvvbxs63vjzx30aps1ha76zf") (f (quote (("json" "serde" "serde_derive" "serde_json") ("default" "json")))) (y #t)))
+
+(define-public crate-duplicate-kriller-1.2.0 (c (n "duplicate-kriller") (v "1.2.0") (d (list (d (n "file") (r "^1.1.1") (d #t) (k 2)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "1x22mija5216g8h20yjzjd7yvcnhc8nkv8vx0ydl68lzzj65fssb") (f (quote (("json" "serde" "serde_derive" "serde_json") ("default" "json")))) (y #t)))
+
+(define-public crate-duplicate-kriller-1.2.1 (c (n "duplicate-kriller") (v "1.2.1") (d (list (d (n "file") (r "^1.1.1") (d #t) (k 2)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "0sghfj9y53nh1kwq403nkf1brps6qqqk7sgj70x1h4pvhak5y2cc") (f (quote (("json" "serde" "serde_derive" "serde_json") ("default" "json")))) (y #t)))
+
+(define-public crate-duplicate-kriller-1.2.2 (c (n "duplicate-kriller") (v "1.2.2") (d (list (d (n "file") (r "^1.1.1") (d #t) (k 2)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "085vc6jadb62d8hv6mdg85yzv49bbisiqp2acxyfswv3sn9bap1v") (f (quote (("json" "serde" "serde_derive" "serde_json") ("default" "json")))) (y #t)))
+
+(define-public crate-duplicate-kriller-1.3.0 (c (n "duplicate-kriller") (v "1.3.0") (d (list (d (n "ctrlc") (r "^3.1.0") (d #t) (k 0)) (d (n "file") (r "^1.1.1") (d #t) (k 2)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.2.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "0wab6carh0r39zhf2jrb8rp25q0s2pmyyvmhdjq9zpdhw4bhbdy5") (f (quote (("json" "serde" "serde_derive" "serde_json") ("default" "json")))) (y #t)))
+
+(define-public crate-duplicate-kriller-1.4.0 (c (n "duplicate-kriller") (v "1.4.0") (d (list (d (n "ctrlc") (r "^3.1.0") (d #t) (k 0)) (d (n "file") (r "^1.1.1") (d #t) (k 2)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.6.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.5") (d #t) (k 2)))) (h "0dc31jv09j96z4xsxn9ix3j8zvlsgc6kyaz5q4cibzrsw84rv4zi") (f (quote (("json" "serde" "serde_derive" "serde_json") ("default" "json")))) (y #t)))
+
+(define-public crate-duplicate-kriller-1.4.1 (c (n "duplicate-kriller") (v "1.4.1") (d (list (d (n "ctrlc") (r "^3.1.0") (d #t) (k 0)) (d (n "dupe-krill") (r "^1.4.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.14") (d #t) (k 0)))) (h "1i6pyf8igjvp3xy4xd8ma6ijayni394l6ci4m6883wl6acgiainy") (f (quote (("json") ("default" "json")))) (y #t)))
+

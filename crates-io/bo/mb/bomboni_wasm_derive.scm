@@ -1,0 +1,10 @@
+(define-module (crates-io bo mb bomboni_wasm_derive) #:use-module (crates-io))
+
+(define-public crate-bomboni_wasm_derive-0.1.53 (c (n "bomboni_wasm_derive") (v "0.1.53") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.42") (d #t) (k 0)))) (h "13ls7kxys9ncs8y7w425ghr4cvmmrkvviajpybhffah7pqxkdv7p")))
+
+(define-public crate-bomboni_wasm_derive-0.1.54 (c (n "bomboni_wasm_derive") (v "0.1.54") (d (list (d (n "bomboni_core") (r "^0.1.54") (d #t) (k 0)) (d (n "bomboni_wasm_core") (r "^0.1.54") (d #t) (k 0)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)))) (h "1rwb1119qf1sa4mha5izb0p2pii9gbfw3r9i2gzy01ngzp01vghf")))
+
+(define-public crate-bomboni_wasm_derive-0.1.55 (c (n "bomboni_wasm_derive") (v "0.1.55") (d (list (d (n "bomboni_core") (r "^0.1.55") (d #t) (k 0)) (d (n "bomboni_wasm_core") (r "^0.1.55") (d #t) (k 0)) (d (n "darling") (r "^0.20.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)))) (h "1cf709ad8hv76fyr5p92grslc73q51536g28pl3dnfdm1fw2rfdp")))
+
+(define-public crate-bomboni_wasm_derive-0.1.56 (c (n "bomboni_wasm_derive") (v "0.1.56") (d (list (d (n "bomboni_core") (r "^0.1.56") (d #t) (k 0)) (d (n "bomboni_wasm_core") (r "^0.1.56") (d #t) (k 0)) (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.83") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "14331s0r2wzsps5qcz38spy69c8kvkrqg6ppzz45c9dlvdy5g6yw")))
+

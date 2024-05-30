@@ -1,0 +1,8 @@
+(define-module (crates-io sp ac spacetimedb-durability) #:use-module (crates-io))
+
+(define-public crate-spacetimedb-durability-0.9.0 (c (n "spacetimedb-durability") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "spacetimedb-commitlog") (r "^0.9.0") (d #t) (k 0)) (d (n "spacetimedb-sats") (r "^0.9.0") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("release_max_level_off"))) (d #t) (k 0)))) (h "1hsd4rmab6q1g1qpy8b8hfi59gdj79f6rhafy0rb6n5gb1w97b8n") (r "1.77.0")))
+
+(define-public crate-spacetimedb-durability-0.9.1 (c (n "spacetimedb-durability") (v "0.9.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "spacetimedb-commitlog") (r "^0.9.1") (d #t) (k 0)) (d (n "spacetimedb-sats") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("release_max_level_off"))) (d #t) (k 0)))) (h "1zk1rkb1ywp9rh321b79rxpcggfnhslpdpszhkbmpgcv154yan21") (r "1.77.0")))
+
+(define-public crate-spacetimedb-durability-0.9.2 (c (n "spacetimedb-durability") (v "0.9.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "spacetimedb-commitlog") (r "^0.9.2") (d #t) (k 0)) (d (n "spacetimedb-sats") (r "^0.9.2") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("release_max_level_off"))) (d #t) (k 0)))) (h "13anzni2az8h0wsm2mdp4acifdm1b3cjmqx93fa3hk6alwa4xp80") (r "1.77.0")))
+

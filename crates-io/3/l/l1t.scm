@@ -1,0 +1,12 @@
+(define-module (crates-io #{3}# l l1t) #:use-module (crates-io))
+
+(define-public crate-l1t-0.0.1 (c (n "l1t") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "human-sort") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "01r45mvcali1zc3mrcj7vswx1g7ldgxalnw4jk4yfpgdlvbxpqsg") (y #t)))
+
+(define-public crate-l1t-0.1.0 (c (n "l1t") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "human-sort") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1y4nw8jcapj6r9w8p4zzndf71m797nnbqliad3zqdh7walylp5s8")))
+
+(define-public crate-l1t-0.1.1 (c (n "l1t") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "human-sort") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "17c2v3ys3l7l843b7m746nw2gvkwcl4z1c8gqzg455gv92zzl24g")))
+
+(define-public crate-l1t-0.2.0 (c (n "l1t") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "human-sort") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "00s9wqngg14l09x4gb0binj49l02ac2ki9rj7dkp313c4ip2hdaz")))
+
+(define-public crate-l1t-0.2.1 (c (n "l1t") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "human-sort") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1jq6m5wh1ndvk3xicv6vq75ksa0yayvh56wywb2sa0nbavwni487")))
+

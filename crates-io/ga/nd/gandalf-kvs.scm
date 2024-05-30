@@ -1,0 +1,4 @@
+(define-module (crates-io ga nd gandalf-kvs) #:use-module (crates-io))
+
+(define-public crate-gandalf-kvs-1.0.0 (c (n "gandalf-kvs") (v "1.0.0") (d (list (d (n "async-recursion") (r "^0.2") (d #t) (k 0)) (d (n "atoi") (r "^0.4.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.129") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("test-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "00d8lbd3ww0zsj4i09994lf8dxhyydl7qn05dzavhqi1xmch5y4k")))
+

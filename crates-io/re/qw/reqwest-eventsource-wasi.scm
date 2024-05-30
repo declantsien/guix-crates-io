@@ -1,0 +1,4 @@
+(define-module (crates-io re qw reqwest-eventsource-wasi) #:use-module (crates-io))
+
+(define-public crate-reqwest-eventsource-wasi-0.5.0 (c (n "reqwest-eventsource-wasi") (v "0.5.0") (d (list (d (n "eventsource-stream") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.5") (d #t) (k 0)) (d (n "futures-retry") (r "^0.6") (d #t) (k 2)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.8") (d #t) (k 0)) (d (n "pin-utils") (r "^0.1") (d #t) (k 2)) (d (n "reqwest_wasi") (r "^0.11.16") (f (quote ("stream" "wasmedge-tls"))) (k 0)) (d (n "rocket") (r "^0.5.0-rc.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1gsq3qwijp7kvazrf9kgkh946shrh7mym53rvs2i68hn1zgp6yaj")))
+

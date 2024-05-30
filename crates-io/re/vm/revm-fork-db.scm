@@ -1,0 +1,8 @@
+(define-module (crates-io re vm revm-fork-db) #:use-module (crates-io))
+
+(define-public crate-revm-fork-db-8.0.0 (c (n "revm-fork-db") (v "8.0.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "revm") (r "^8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("json" "gzip"))) (k 0)))) (h "1v0ag5bg7wqb1c9z467xfp8bnxv52icci5ncfvgjbgh62sxysigw") (f (quote (("rustls" "ureq/tls") ("native-tls" "ureq/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-revm-fork-db-8.1.0 (c (n "revm-fork-db") (v "8.1.0") (d (list (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "revm") (r "^8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("json" "gzip"))) (k 0)))) (h "0z9j1y3553qahxhysnzp7m7mj3gryd9iz0xhqd5w0yvbgz5wjdiz") (f (quote (("rustls" "ureq/tls") ("native-tls" "ureq/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-revm-fork-db-8.1.1 (c (n "revm-fork-db") (v "8.1.1") (d (list (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "revm") (r "^8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("json" "gzip"))) (k 0)))) (h "0lwrip824jy44ljsli3slnqdaign8vam5skz33j9vx516sd8ffph") (f (quote (("rustls" "ureq/tls") ("native-tls" "ureq/native-tls") ("default" "native-tls"))))))
+

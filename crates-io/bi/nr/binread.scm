@@ -1,0 +1,32 @@
+(define-module (crates-io bi nr binread) #:use-module (crates-io))
+
+(define-public crate-binread-1.0.0-rc1 (c (n "binread") (v "1.0.0-rc1") (d (list (d (n "binread_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "033xdclrd0id7kdc2d73bz2qdgzy2cm1gifh1lg5lbl0q0aq05s7") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template")))) (y #t)))
+
+(define-public crate-binread-1.0.0 (c (n "binread") (v "1.0.0") (d (list (d (n "binread_derive") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "109r67r61hbjvqwvygzc29awwqibbd1lr5zxw8mkip6n4qnxmy18") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.0.1 (c (n "binread") (v "1.0.1") (d (list (d (n "binread_derive") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "0g3p9fnhjd36aid11k09crhx0sp63qc4bqwrxamq6jjg9nw5pkr6") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.0.2 (c (n "binread") (v "1.0.2") (d (list (d (n "binread_derive") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "1rh45qg8wn1bvnb6ac7vz52r6j87zmmd54ns9jz6m5dbh1qfmd6x") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.1.0 (c (n "binread") (v "1.1.0") (d (list (d (n "binread_derive") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "1ayr0xmimadccaknl4528kjvhpjqmxgbvspn7l3rh6317pi79jng") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template")))) (y #t)))
+
+(define-public crate-binread-1.1.1 (c (n "binread") (v "1.1.1") (d (list (d (n "binread_derive") (r "^1.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "1isr3vdxqid1vr419ci762p4j9rqcyk9aa1y3kbrw8ry3av79cm2") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.2.0 (c (n "binread") (v "1.2.0") (d (list (d (n "binread_derive") (r "^1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "1qh72r3yish95dc68y3vkhwav8ds4kdznyayvl49l1kdkfrrj08c") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.3.0 (c (n "binread") (v "1.3.0") (d (list (d (n "binread_derive") (r "^1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)))) (h "1jakndd4qbbgvy8azxkm7w4f1fjxk44yfkk6yz31hbbpa700b40j") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.4.0 (c (n "binread") (v "1.4.0") (d (list (d (n "binread_derive") (r "^1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)))) (h "0gly5w4lymkim1c1izzg91vx9vg21l2v3v8hnrwgz7pnv7d7kki6") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-1.4.1 (c (n "binread") (v "1.4.1") (d (list (d (n "binread_derive") (r "^1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)))) (h "0kbgljvrlix3fg542a6wn02mxnzdij3y9jjn5785mh132y32v395") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-2.0.0-beta.1 (c (n "binread") (v "2.0.0-beta.1") (d (list (d (n "binread_derive") (r "^2.0.0-beta.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0xrmbkwfz9dqbqgwhxmxdssp342vcmp3r3dhw2cx3kgl7k7fjjlh") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-2.0.0 (c (n "binread") (v "2.0.0") (d (list (d (n "binread_derive") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "11i8jhp0djbfd563abbpf1c1f0szjadlqnpbsps1dw10fq2fz7cg") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template"))))))
+
+(define-public crate-binread-2.1.0 (c (n "binread") (v "2.1.0") (d (list (d (n "array-init") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "binread_derive") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1fjdmjzqi27xyic2hv6n478hlrna6smp75xzm22bckzyj0pjdz3l") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template") ("const_generics" "array-init")))) (y #t)))
+
+(define-public crate-binread-2.1.1 (c (n "binread") (v "2.1.1") (d (list (d (n "array-init") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "binread_derive") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "11xsipqhb30br45hzjwjgihlprldn6rd3vhc44cnpj7knrnwd0x8") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template") ("const_generics" "array-init"))))))
+
+(define-public crate-binread-2.2.0 (c (n "binread") (v "2.2.0") (d (list (d (n "array-init") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "binread_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.9") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "13s1wrmrsd1cv4yx9cglr5fkh61nwyi0p4frjysyjy35ivy8sn8n") (f (quote (("std") ("default" "std") ("debug_template" "std" "lazy_static" "binread_derive/debug_template") ("const_generics" "array-init"))))))
+

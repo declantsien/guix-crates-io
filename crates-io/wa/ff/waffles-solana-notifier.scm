@@ -1,0 +1,14 @@
+(define-module (crates-io wa ff waffles-solana-notifier) #:use-module (crates-io))
+
+(define-public crate-waffles-solana-notifier-1.16.0-alpha.2 (c (n "waffles-solana-notifier") (v "1.16.0-alpha.2") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.16.0-alpha.2") (d #t) (k 0) (p "waffles-solana-sdk")))) (h "0jidfx8m3hnvw9gkdimd03c95f4ygchyxycnk6k04bfq2cndmsbk")))
+
+(define-public crate-waffles-solana-notifier-1.16.0-alpha.4 (c (n "waffles-solana-notifier") (v "1.16.0-alpha.4") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.16.0-alpha.4") (d #t) (k 0) (p "waffles-solana-sdk")))) (h "0zsx555rpzk1jpdkpwvxbypzi158c11k2183m8n81jfizy9jkk8m")))
+
+(define-public crate-waffles-solana-notifier-1.16.0-alpha.5 (c (n "waffles-solana-notifier") (v "1.16.0-alpha.5") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.16.0-alpha.5") (d #t) (k 0) (p "waffles-solana-sdk")))) (h "1agr3q2fl48ganz7lvrqw7l6lcjw9jvch3fh4191n8kqi8lf53ws")))
+
+(define-public crate-waffles-solana-notifier-1.16.0-alpha.8 (c (n "waffles-solana-notifier") (v "1.16.0-alpha.8") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.16.0-alpha.8") (d #t) (k 0) (p "waffles-solana-sdk")))) (h "0h4vfxmbclsyi4f4mjpb9y0rakgac45hw13j7zlarixpd39s0fc0")))
+
+(define-public crate-waffles-solana-notifier-1.16.0-alpha.9 (c (n "waffles-solana-notifier") (v "1.16.0-alpha.9") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.16.0-alpha.9") (d #t) (k 0) (p "waffles-solana-sdk")))) (h "0di3k9xh2y5zn7k5vv4hbscimwin4v0lgv781s0vyg3jl8r9ccz6")))
+
+(define-public crate-waffles-solana-notifier-1.16.0-alpha.10 (c (n "waffles-solana-notifier") (v "1.16.0-alpha.10") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.16.0-alpha.10") (d #t) (k 0) (p "waffles-solana-sdk")))) (h "1c3dhkkv24xq7c6m4n6i4mmcnmzscv8p43ayxzh66pmsj2b44hbn")))
+

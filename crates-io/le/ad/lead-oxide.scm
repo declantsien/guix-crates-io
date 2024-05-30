@@ -1,0 +1,6 @@
+(define-module (crates-io le ad lead-oxide) #:use-module (crates-io))
+
+(define-public crate-lead-oxide-0.1.0 (c (n "lead-oxide") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iso_country") (r "^0.1.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^1.3") (k 0)))) (h "0w8gx4hc4bigcz7lywaih70h7qbvyj5jy23v089jmibb7nzbvx3g")))
+
+(define-public crate-lead-oxide-0.2.0 (c (n "lead-oxide") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iso_country") (r "^0.1.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "serial_test") (r "^0.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^1.3") (k 0)))) (h "08n79qxb48mqmciakcdsjfqhlc2nlb7ms1n6yalq8h7jfhnb6z3r")))
+

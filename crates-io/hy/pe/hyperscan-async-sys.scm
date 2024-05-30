@@ -1,0 +1,12 @@
+(define-module (crates-io hy pe hyperscan-async-sys) #:use-module (crates-io))
+
+(define-public crate-hyperscan-async-sys-0.0.1 (c (n "hyperscan-async-sys") (v "0.0.1") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.2") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros" "fs"))) (d #t) (k 1)))) (h "1875h821ar9q57kpw894zcsv03ygw5g7ym1wycn1gxvpzk37wqk3") (f (quote (("static") ("dynamic") ("default") ("compile") ("chimera")))) (l "hyperscan")))
+
+(define-public crate-hyperscan-async-sys-0.0.2 (c (n "hyperscan-async-sys") (v "0.0.2") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.3") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros" "fs"))) (d #t) (k 1)))) (h "0r0l30dw0qqgjfcrsh65qx4hsf7qksj7mmnqvv4lrlxa9a8ri2pl") (f (quote (("static") ("dynamic") ("default") ("compile") ("chimera")))) (l "hyperscan")))
+
+(define-public crate-hyperscan-async-sys-0.0.3 (c (n "hyperscan-async-sys") (v "0.0.3") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.3") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros" "fs"))) (d #t) (k 1)))) (h "19bq0ph0ah1wlaa46acn1kmhjkca5id00ydhly3h00kilv26x2ip") (f (quote (("static") ("dynamic") ("default") ("compile") ("chimera")))) (l "hyperscan")))
+
+(define-public crate-hyperscan-async-sys-0.0.4 (c (n "hyperscan-async-sys") (v "0.0.4") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.3") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros" "fs"))) (d #t) (k 1)))) (h "1f3a5x45pxkah966xf4xixmga3a3l0pzx03gpwn54p7492wn9nlp") (f (quote (("static") ("dynamic") ("default") ("compile") ("chimera")))) (l "hyperscan")))
+
+(define-public crate-hyperscan-async-sys-0.0.5 (c (n "hyperscan-async-sys") (v "0.0.5") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.4") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros" "fs"))) (d #t) (k 1)))) (h "04c9j52jb3b5v4p61gshf0zb05pq4ildabi8yl6zjv9shvk8xv7l") (f (quote (("static") ("dynamic") ("default") ("compiler") ("chimera")))) (l "hyperscan")))
+

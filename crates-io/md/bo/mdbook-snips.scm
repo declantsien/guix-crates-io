@@ -1,0 +1,8 @@
+(define-module (crates-io md bo mdbook-snips) #:use-module (crates-io))
+
+(define-public crate-mdbook-snips-0.1.0 (c (n "mdbook-snips") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "01jk9wfrxa9lk7d2dlpp2878a1l7xd0nvp2gadglf6fxb667lzg5")))
+
+(define-public crate-mdbook-snips-0.1.2 (c (n "mdbook-snips") (v "0.1.2") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "indoc") (r "^1") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0l5gx233glnbhl608ili0nsjsxj40rjb1pyybb7n75hmn940gpbf")))
+
+(define-public crate-mdbook-snips-0.1.3 (c (n "mdbook-snips") (v "0.1.3") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "indoc") (r "^1") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0crmlz16hgdg0v9yds9ipv6m14lxhx9b0qipqmpfjwxsbn48al1b")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io rc ss rcss-macro) #:use-module (crates-io))
+
+(define-public crate-rcss-macro-0.1.0 (c (n "rcss-macro") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.69") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "rcss-core") (r "^0.1.0") (f (quote ("macro-helper"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full" "visit" "parsing" "extra-traits"))) (d #t) (k 0)))) (h "0sysd4rasc9wk9kfpkp75xnywf2byls4a17w3cd2pvbcmn2zdjli") (f (quote (("stylers" "rcss-core/stylers") ("procss" "rcss-core/procss") ("lightningcss" "rcss-core/lightningcss") ("default"))))))
+
+(define-public crate-rcss-macro-0.2.0 (c (n "rcss-macro") (v "0.2.0") (d (list (d (n "Inflector") (r "^0.11.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "rcss-bundler") (r "^0.2.0") (k 1)) (d (n "rcss-core") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full" "visit" "parsing" "extra-traits"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 1)))) (h "01xwnrc5c6kd936727ayy287q2c2csb9mpy3hhdddlsi4fr63slv") (f (quote (("indexed-classes") ("default" "auto-snake-case" "indexed-classes")))) (s 2) (e (quote (("auto-snake-case" "dep:Inflector"))))))
+

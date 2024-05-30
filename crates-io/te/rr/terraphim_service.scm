@@ -1,0 +1,4 @@
+(define-module (crates-io te rr terraphim_service) #:use-module (crates-io))
+
+(define-public crate-terraphim_service-0.1.0 (c (n "terraphim_service") (v "0.1.0") (d (list (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "opendal") (r "^0.44.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "strsim") (r "^0.11.1") (d #t) (k 0)) (d (n "terraphim_config") (r "^0.1.0") (d #t) (k 0)) (d (n "terraphim_middleware") (r "^0.1.0") (d #t) (k 0)) (d (n "terraphim_persistence") (r "^0.1.0") (d #t) (k 0)) (d (n "terraphim_settings") (r "^0.1.0") (d #t) (k 0)) (d (n "terraphim_types") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "13mvgjb663w7n9s50rbkyddlhlzl6i0qiqvkjm6vm7h28blniyvs")))
+

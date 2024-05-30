@@ -1,0 +1,20 @@
+(define-module (crates-io un di undither) #:use-module (crates-io))
+
+(define-public crate-undither-1.0.0 (c (n "undither") (v "1.0.0") (d (list (d (n "imgref") (r "^1.2.2") (d #t) (k 0)) (d (n "itertools") (r "^0.5.9") (d #t) (k 0)) (d (n "lodepng") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.1") (d #t) (k 0)) (d (n "rgb") (r "^0.7.2") (d #t) (k 0)) (d (n "vpsearch") (r "^1.3.2") (d #t) (k 0)))) (h "1cx0m1fj6fni2z5lfga8j2pgazjag4bpq619l5ddy6w0mbdb39p8") (f (quote (("binary" "lodepng")))) (y #t)))
+
+(define-public crate-undither-1.0.1 (c (n "undither") (v "1.0.1") (d (list (d (n "imgref") (r "^1.2.2") (d #t) (k 0)) (d (n "itertools") (r "^0.5.9") (d #t) (k 0)) (d (n "lodepng") (r "^2.0.4") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8") (d #t) (k 0)) (d (n "vpsearch") (r "^1.3.2") (d #t) (k 0)))) (h "0rzxl5d6cpn06v2bl7xld3w4f02xbxlqfcl7mxjbcdr0d8gy8c04") (f (quote (("binary" "lodepng")))) (y #t)))
+
+(define-public crate-undither-1.0.2 (c (n "undither") (v "1.0.2") (d (list (d (n "imgref") (r "^1.4.0") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "lodepng") (r "^2.5.0") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8.16") (d #t) (k 0)) (d (n "vpsearch") (r "^1.3.5") (d #t) (k 0)))) (h "1kmmzszhqw9swvgkyr0pplp2bbnah2csr5v04qlp3s0bn73cifkj") (f (quote (("binary" "lodepng")))) (y #t)))
+
+(define-public crate-undither-1.0.3 (c (n "undither") (v "1.0.3") (d (list (d (n "imgref") (r "^1.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lodepng") (r "^2.5.0") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8.17") (d #t) (k 0)) (d (n "vpsearch") (r "^2.0.0") (d #t) (k 0)))) (h "1nc82as9ii9fg3g6l4ijqhdg0klx67if1dsf3yy0fr6d5xsdklfk") (f (quote (("binary" "lodepng")))) (y #t)))
+
+(define-public crate-undither-1.0.4 (c (n "undither") (v "1.0.4") (d (list (d (n "imgref") (r "^1.6.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lodepng") (r "^2.6.0") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8.18") (d #t) (k 0)) (d (n "vpsearch") (r "^2.0.1") (d #t) (k 0)))) (h "0zyacqhjih864qn6dk8a9hf4g9y50g2qj91g2cmklc3k5j9fj8bj") (f (quote (("binary" "lodepng")))) (y #t)))
+
+(define-public crate-undither-1.0.5 (c (n "undither") (v "1.0.5") (d (list (d (n "imgref") (r "^1.6.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.0.0") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8.20") (d #t) (k 0)) (d (n "vpsearch") (r "^2.0.1") (d #t) (k 0)))) (h "00nlgbwmqnznc09389bijxb7hpgxr71rzz3yfwy7vask518yn2q1") (f (quote (("binary" "lodepng")))) (y #t)))
+
+(define-public crate-undither-1.0.6 (c (n "undither") (v "1.0.6") (d (list (d (n "imgref") (r "^1.7.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.2.2") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.3") (d #t) (k 0)) (d (n "rgb") (r "^0.8.25") (d #t) (k 0)) (d (n "vpsearch") (r "^2.0.1") (d #t) (k 0)))) (h "17f99w3xdhlqggvp69avjczkdqcz6qvz98f33slh7kmr7jy64j8b") (f (quote (("binary" "lodepng"))))))
+
+(define-public crate-undither-1.0.7 (c (n "undither") (v "1.0.7") (d (list (d (n "imgref") (r "^1.9.4") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.7.2") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.3") (d #t) (k 0)) (d (n "rgb") (r "^0.8.36") (d #t) (k 0)) (d (n "vpsearch") (r "^2.0.1") (d #t) (k 0)))) (h "0px05csj9p4cpmqsqzkg6529s9h7x35xpa60rbyfcdil6nkjzppc") (f (quote (("binary" "lodepng"))))))
+
+(define-public crate-undither-1.0.8 (c (n "undither") (v "1.0.8") (d (list (d (n "imgref") (r "^1.10.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.9.1") (o #t) (d #t) (k 0)) (d (n "loop9") (r "^0.1.4") (d #t) (k 0)) (d (n "rgb") (r "^0.8.37") (d #t) (k 0)) (d (n "vpsearch") (r "^2.0.1") (d #t) (k 0)))) (h "1swbw5c0vki0xafhh4h2sn81jzd324c7gwgw2hr7snmj4a3j5mgl") (s 2) (e (quote (("binary" "dep:lodepng"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io so ph sopht) #:use-module (crates-io))
+
+(define-public crate-sopht-0.1.0 (c (n "sopht") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pico-args") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "107jrxy9mb6v4brmzn4v61qq98pnqlb45kdfjgcvk03wizf5zqia")))
+
+(define-public crate-sopht-0.1.1 (c (n "sopht") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pico-args") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1hii59icyb00p9y08fjb492cswag5w76sk806d69b50fzbjy91gk")))
+
+(define-public crate-sopht-0.2.0 (c (n "sopht") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pico-args") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1bwaxjda20q7373rjzz91pp6ijfrmda38p5m7gy7yfmy2wk1d3b7")))
+
+(define-public crate-sopht-0.3.0 (c (n "sopht") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pico-args") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.17") (d #t) (k 0)))) (h "09p7prqwja16lbnxicnn4xsxymkw41b2a9bf8hsgki8lb4dz802n")))
+

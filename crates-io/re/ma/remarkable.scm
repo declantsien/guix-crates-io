@@ -1,0 +1,4 @@
+(define-module (crates-io re ma remarkable) #:use-module (crates-io))
+
+(define-public crate-remarkable-0.0.1 (c (n "remarkable") (v "0.0.1") (d (list (d (n "aabb-quadtree") (r "^0.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.5.6") (d #t) (k 0)) (d (n "epoll") (r "^3.1.1") (d #t) (k 0)) (d (n "evdev") (r "^0.10.1") (d #t) (k 0)) (d (n "image") (r "^0.18.0") (d #t) (k 0)) (d (n "ioctl-gen") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.37") (d #t) (k 0)) (d (n "libc") (r "^0.2.37") (d #t) (k 2)) (d (n "libmdns") (r "^0.2.2") (d #t) (k 2)) (d (n "line_drawing") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mmap") (r "^0.1.1") (d #t) (k 0)) (d (n "rb") (r "^0.3.1") (d #t) (k 0)) (d (n "redhook") (r "^0.1.1") (d #t) (k 2)) (d (n "rusttype") (r "^0.4.1") (d #t) (k 0)))) (h "1rr0nwwaxhlxmlcfgwj4nw5dqa3djk5g1i4gfay181hgccrzck9l")))
+

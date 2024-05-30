@@ -1,0 +1,14 @@
+(define-module (crates-io #{3}# r rjc) #:use-module (crates-io))
+
+(define-public crate-rjc-0.1.0 (c (n "rjc") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1vxdacidblmkshgfh0lxi0bqxdjr0l7qwnvfzw7nylqbrb3smv01") (y #t)))
+
+(define-public crate-rjc-0.1.1 (c (n "rjc") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1wv8hlcxgyf1vs6jnm9ljajapnrj5zrzi7z5xpw5gd3m0xz1pvi6")))
+
+(define-public crate-rjc-0.2.0 (c (n "rjc") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "012ahpsb9jjvh3hdnvak447q9qy50f36k5i9jfkj7bvbxvcvh2wm")))
+
+(define-public crate-rjc-0.2.1 (c (n "rjc") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "10hc5vpw0hffgdgnblagv7sfanv1yrv40qzj08947hq8dg84ycq8")))
+
+(define-public crate-rjc-0.2.2 (c (n "rjc") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "0jagcksn88q9gqbjqp9nq5wwhyfrrck210prbj12h5nm3czmrv2h")))
+
+(define-public crate-rjc-0.2.3 (c (n "rjc") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "05lq9q3yy0vlf8fqsnb5rkcgcp97hf4ypcgish4nf9d5apzhmiv3")))
+

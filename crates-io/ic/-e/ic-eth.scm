@@ -1,0 +1,12 @@
+(define-module (crates-io ic -e ic-eth) #:use-module (crates-io))
+
+(define-public crate-ic-eth-0.0.1 (c (n "ic-eth") (v "0.0.1") (d (list (d (n "ethers-core") (r "^2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.10") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1hij53jkbmkkyqfssds71z2kdgrh5y8s1bz9sm3gp09fp9cnrxdz")))
+
+(define-public crate-ic-eth-0.0.2 (c (n "ic-eth") (v "0.0.2") (d (list (d (n "ethers-core") (r "^2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.10") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1l5n2bdj6lnvydx66dycwvyvqacqzyx25mny6lkjcv1j3hpy07l5")))
+
+(define-public crate-ic-eth-0.0.3 (c (n "ic-eth") (v "0.0.3") (d (list (d (n "ethers-core") (r "^2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.10") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1lg6bmy57dx55zs64fa6bnxz6r1xb23df8cs2ldswhyb5v12wrd5")))
+
+(define-public crate-ic-eth-0.0.4 (c (n "ic-eth") (v "0.0.4") (d (list (d (n "ethers-core") (r "^2.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("custom"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.10") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1vmghsl7dbab8jn1fcdbidj7r58f3c1zbnpbk4r9nz17p2idpnh9")))
+
+(define-public crate-ic-eth-0.1.0 (c (n "ic-eth") (v "0.1.0") (d (list (d (n "ethers-core") (r "^2.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("custom"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.10") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1q3vd9n9b1a31c1yc07jqdlr8vxrszikzlfnb8bsg8arfhhfc37g")))
+

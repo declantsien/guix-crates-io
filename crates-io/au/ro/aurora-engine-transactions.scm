@@ -1,0 +1,4 @@
+(define-module (crates-io au ro aurora-engine-transactions) #:use-module (crates-io))
+
+(define-public crate-aurora-engine-transactions-1.1.0 (c (n "aurora-engine-transactions") (v "1.1.0") (d (list (d (n "aurora-engine-precompiles") (r "^1.1.0") (k 0)) (d (n "aurora-engine-sdk") (r "^1.1.0") (k 0)) (d (n "aurora-engine-types") (r "^1.1.0") (k 0)) (d (n "evm") (r "^0.39.1") (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 2)) (d (n "rlp") (r "^0.5") (k 0)) (d (n "serde") (r "^1") (f (quote ("alloc" "derive"))) (o #t) (k 0)))) (h "1h2sz14482niq772vjmxd4sbwiadhxmhka6ildhv2wzj9945dny1") (f (quote (("std" "aurora-engine-types/std" "aurora-engine-sdk/std" "aurora-engine-precompiles/std" "evm/std" "rlp/std") ("impl-serde" "aurora-engine-types/impl-serde" "serde") ("contract" "aurora-engine-sdk/contract" "aurora-engine-precompiles/contract"))))))
+

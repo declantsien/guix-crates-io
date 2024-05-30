@@ -1,0 +1,4 @@
+(define-module (crates-io fa pt fapt-pkg) #:use-module (crates-io))
+
+(define-public crate-fapt-pkg-0.1.0 (c (n "fapt-pkg") (v "0.1.0") (d (list (d (n "digest") (r "^0.7") (f (quote ("std"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "error-chain-for-dumb-ides") (r "^0") (d #t) (k 2)) (d (n "filetime") (r "^0.1") (d #t) (k 0)) (d (n "flate2") (r "^1") (f (quote ("rust_backend"))) (k 0)) (d (n "gpgme") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.11.8") (d #t) (k 0)) (d (n "mailparse") (r "^0.6") (d #t) (k 0)) (d (n "md-5") (r "^0.7") (d #t) (k 0)) (d (n "nom") (r "^3") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.7") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "tempfile-fast") (r "^0.1") (d #t) (k 0)))) (h "13mjbmczb45s31aa6cnc4lr1xwyyglchjaakhwqdsw1k7brp5mpr")))
+

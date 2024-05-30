@@ -1,0 +1,4 @@
+(define-module (crates-io fo lc folca) #:use-module (crates-io))
+
+(define-public crate-folca-0.1.0 (c (n "folca") (v "0.1.0") (d (list (d (n "blake3") (r "^0.3") (d #t) (k 0)) (d (n "bytefmt") (r "~0.1") (d #t) (k 0)) (d (n "color-eyre") (r "~0.5") (d #t) (k 0)) (d (n "dircpy-stable") (r "^0.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ignore") (r "~0.4") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "ron") (r "~0.6") (d #t) (k 0)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simplelog") (r "~0.10") (d #t) (k 0)) (d (n "structopt") (r "~0.3") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1by7b4fgmg5qfklcrzb644p39327zc6j9d24fxkd9rm7apm77kvk")))
+

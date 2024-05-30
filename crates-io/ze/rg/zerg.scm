@@ -1,0 +1,10 @@
+(define-module (crates-io ze rg zerg) #:use-module (crates-io))
+
+(define-public crate-zerg-0.0.1 (c (n "zerg") (v "0.0.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "humantime") (r "^2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "runtime" "tcp"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "rt-multi-thread"))) (d #t) (k 0)))) (h "0wqmkrsc5xlmiffvnq5r14lnb3h8inb63kkp8zjpvwzq6ljyji1k")))
+
+(define-public crate-zerg-0.0.2 (c (n "zerg") (v "0.0.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "runtime"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tdigest") (r "^0.2.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.8") (f (quote ("util"))) (d #t) (k 0)))) (h "04gvzg5kyyj4hbvw7sf58dg1jgc010rdjmcjnswwz14p1wxfsfwd")))
+
+(define-public crate-zerg-0.0.3 (c (n "zerg") (v "0.0.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "runtime"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tdigest") (r "^0.2.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.8") (f (quote ("util"))) (d #t) (k 0)))) (h "1cq554lfcdf3gjkxhhczg38xchncm9hcq3h4n21dv9mrii7wddxd")))
+
+(define-public crate-zerg-0.0.4 (c (n "zerg") (v "0.0.4") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "runtime"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tdigest") (r "^0.2.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.8") (f (quote ("util"))) (d #t) (k 0)))) (h "00hnd98j1kvw2z44p4n268299vrjjfj6pdzvakcz1ja3b4kl14n7")))
+

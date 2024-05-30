@@ -1,0 +1,6 @@
+(define-module (crates-io li bs libsm_stzhang) #:use-module (crates-io))
+
+(define-public crate-libsm_stzhang-0.1.0 (c (n "libsm_stzhang") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (f (quote ("stdweb" "wasm-bindgen"))) (d #t) (k 0)) (d (n "yasna") (r "^0.3.2") (f (quote ("num-bigint"))) (d #t) (k 0)))) (h "0lbljhwrxqra60rgvfg8a1q3i27ca13ha9xza081gjm56kb19lvj")))
+
+(define-public crate-libsm_stzhang-0.2.0 (c (n "libsm_stzhang") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "yasna") (r "^0.5.2") (f (quote ("num-bigint"))) (d #t) (k 0)))) (h "1n9xakdhfx95n5qk5mhzd8bdd47dz37ph019402npivha79zrdgg")))
+

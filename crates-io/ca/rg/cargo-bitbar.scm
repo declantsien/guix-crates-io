@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-bitbar) #:use-module (crates-io))
+
+(define-public crate-cargo-bitbar-0.1.0 (c (n "cargo-bitbar") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "paw") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_with") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)) (d (n "xattr") (r "^0.2") (d #t) (k 0)))) (h "17rfkxf7z3q8rx1skg347xn54jgrhfljkyybhwbgsj8839afnzsh")))
+
+(define-public crate-cargo-bitbar-0.1.1 (c (n "cargo-bitbar") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "paw") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_with") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("paw"))) (d #t) (k 0)) (d (n "xattr") (r "^0.2") (d #t) (k 0)))) (h "166im8190byjsa1d924yphxzcizngp9kmwl0sb28risqsiws6hmv")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io n5 -w n5-wasm) #:use-module (crates-io))
+
+(define-public crate-n5-wasm-0.1.0 (c (n "n5-wasm") (v "0.1.0") (d (list (d (n "cfg-if") (r "^0.1.2") (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1.20") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.5") (d #t) (k 0)) (d (n "n5") (r "^0.3.0") (f (quote ("gzip" "use_ndarray"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.31") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.3.8") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.8") (f (quote ("Headers" "Request" "RequestInit" "RequestMode" "Response" "Window"))) (d #t) (k 0)))) (h "1vc8ksbzzfi4hza60gbb9b0r3hw1a601gv6qg5r29bmbfx69ssa7") (f (quote (("default"))))))
+

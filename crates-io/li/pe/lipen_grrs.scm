@@ -1,0 +1,4 @@
+(define-module (crates-io li pe lipen_grrs) #:use-module (crates-io))
+
+(define-public crate-lipen_grrs-0.1.0 (c (n "lipen_grrs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.3") (d #t) (k 2)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "console") (r "^0.14.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "predicates") (r "^1.0.8") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "structopt-flags") (r "^0.3.6") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "1llqzjkj59k11xvda4fz1hy9iwv3qk1m17qbmdq3agkaccsxaylz")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io fw at fwatchd) #:use-module (crates-io))
+
+(define-public crate-fwatchd-0.1.0 (c (n "fwatchd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "inotify") (r "^0.10.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.117") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.13") (d #t) (k 0)) (d (n "syslog") (r "^6.0.1") (d #t) (k 0)))) (h "0wbxndlh77pyv4bddhslzmf5if8fr5m6p3h345519ffzsnrnmiag")))
+

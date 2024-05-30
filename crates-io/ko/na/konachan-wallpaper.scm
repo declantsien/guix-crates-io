@@ -1,0 +1,4 @@
+(define-module (crates-io ko na konachan-wallpaper) #:use-module (crates-io))
+
+(define-public crate-konachan-wallpaper-0.0.1 (c (n "konachan-wallpaper") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clap") (r "^3.1.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1.3") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 0)) (d (n "more-wallpapers") (r "^0.1") (f (quote ("rand" "wallpaper"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18.1") (f (quote ("macros" "rt-multi-thread" "fs"))) (d #t) (k 0)))) (h "1sdkw5awxx3ql8dzbnsiskgv8h9y7czyqdv8953z8sj0dhvx9z38")))
+

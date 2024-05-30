@@ -1,0 +1,10 @@
+(define-module (crates-io co me comet_macro_procs) #:use-module (crates-io))
+
+(define-public crate-comet_macro_procs-0.1.2 (c (n "comet_macro_procs") (v "0.1.2") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0jxnaqjbpcf1m3l160zhq1ar5c9zc23sxgxqdm1673csbc3ajls7")))
+
+(define-public crate-comet_macro_procs-0.1.3 (c (n "comet_macro_procs") (v "0.1.3") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0i1ncahgi9nwpddf9gm6iic2via27x9x35h3nb26xm1247kd90bp")))
+
+(define-public crate-comet_macro_procs-0.1.4 (c (n "comet_macro_procs") (v "0.1.4") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4" "js"))) (d #t) (k 0)))) (h "001d9nqv3mk8ajk2qazw94rkrmnmlrpyn27z0lkn37wyz0s40igh")))
+
+(define-public crate-comet_macro_procs-0.1.6 (c (n "comet_macro_procs") (v "0.1.6") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4" "js"))) (d #t) (k 0)))) (h "05p3bimksqz7202ic09g0vl8f3cfc1lzf0r8mfih6kxnpf5b0d5n")))
+

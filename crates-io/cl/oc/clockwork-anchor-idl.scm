@@ -1,0 +1,6 @@
+(define-module (crates-io cl oc clockwork-anchor-idl) #:use-module (crates-io))
+
+(define-public crate-clockwork-anchor-idl-0.3.1 (c (n "clockwork-anchor-idl") (v "0.3.1") (d (list (d (n "anchor-syn") (r "^0.27.0") (f (quote ("idl"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "anchor-lang") (r "^0.27.0") (d #t) (k 2)))) (h "1mhc6x97gi9z9x7lg8bvllq9gp8sncvh66appi57f07a8w3xks51") (f (quote (("compat-program-result"))))))
+
+(define-public crate-clockwork-anchor-idl-0.3.2 (c (n "clockwork-anchor-idl") (v "0.3.2") (d (list (d (n "anchor-syn") (r "^0.27.0") (f (quote ("idl"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "anchor-lang") (r "^0.27.0") (d #t) (k 2)))) (h "0fgq5wsdq73dn1k7jcjyl9hp7l3gkj6yf6qarmhlsywjpxwg8jd9") (f (quote (("compat-program-result"))))))
+

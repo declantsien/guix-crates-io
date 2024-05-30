@@ -1,0 +1,12 @@
+(define-module (crates-io se ed seed_hooks) #:use-module (crates-io))
+
+(define-public crate-seed_hooks-0.1.0 (c (n "seed_hooks") (v "0.1.0") (d (list (d (n "comp_state") (r "^0.2.4") (d #t) (k 0)) (d (n "seed") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.55") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.8") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.32") (f (quote ("HtmlElement"))) (d #t) (k 0)))) (h "1bd1i77vaf5sxkkysqgvrk5wkv690r0l1x4rdbn0ac8fnx3i2gja")))
+
+(define-public crate-seed_hooks-0.1.1 (c (n "seed_hooks") (v "0.1.1") (d (list (d (n "comp_state") (r "^0.2.6") (d #t) (k 0)) (d (n "seed") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.55") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.8") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.32") (f (quote ("HtmlElement"))) (d #t) (k 0)))) (h "0m2skix68jn15y69c1ij0wkwflpjq30yb4bs8a7pw2321dzx9b8i")))
+
+(define-public crate-seed_hooks-0.1.2 (c (n "seed_hooks") (v "0.1.2") (d (list (d (n "comp_state") (r "^0.2.7") (d #t) (k 0)) (d (n "seed") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.55") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.8") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.32") (f (quote ("HtmlElement"))) (d #t) (k 0)))) (h "1wsh5p234k2gybd1gsvkyy0pkzi2mxka027s7mll8nmf9iki3xis")))
+
+(define-public crate-seed_hooks-0.1.3 (c (n "seed_hooks") (v "0.1.3") (d (list (d (n "comp_state") (r "^0.2.8") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "seed") (r "^0.7.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.62") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.12") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.39") (f (quote ("HtmlElement" "HtmlDocument" "HtmlCollection" "HtmlStyleElement"))) (d #t) (k 0)))) (h "03wrj33lg0rpsq1r9mgyrl4jjc1bd120pxmmvplv59f3irdqkshq")))
+
+(define-public crate-seed_hooks-0.1.4 (c (n "seed_hooks") (v "0.1.4") (d (list (d (n "atomic_hooks") (r "^0.1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "seed") (r "^0.7.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.62") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.12") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.39") (f (quote ("HtmlElement" "HtmlDocument" "HtmlCollection" "HtmlStyleElement"))) (d #t) (k 0)))) (h "0i2z247x4dd9a3a69qcj31y6ffhjspya8k42d8ilsf55cfvbkfmp")))
+

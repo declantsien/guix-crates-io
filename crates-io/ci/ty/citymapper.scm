@@ -1,0 +1,4 @@
+(define-module (crates-io ci ty citymapper) #:use-module (crates-io))
+
+(define-public crate-citymapper-0.1.0 (c (n "citymapper") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.10.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "hyper") (r "^0.11.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "mockito") (r "^0.8.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "slog") (r "^2.0.6") (d #t) (k 0)) (d (n "slog-stdlog") (r "^3.0.2") (d #t) (k 0)) (d (n "slog-term") (r "^2.0.2") (d #t) (k 0)) (d (n "slog-term") (r "^2.0.2") (d #t) (k 2)) (d (n "spectral") (r "^0.6.0") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)) (d (n "url") (r "^1.5.1") (d #t) (k 0)))) (h "18d75n2q0pxv16b39wd19hvs6pzf8r6vm2v2rz6ap7jwp1g34cng")))
+

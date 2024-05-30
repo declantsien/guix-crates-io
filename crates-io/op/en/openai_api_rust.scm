@@ -1,0 +1,20 @@
+(define-module (crates-io op en openai_api_rust) #:use-module (crates-io))
+
+(define-public crate-openai_api_rust-0.1.1 (c (n "openai_api_rust") (v "0.1.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "05iz3pmrg0g1lix3z5nzbzjkpz2w16jqny9jga2xmalsyd27033c")))
+
+(define-public crate-openai_api_rust-0.1.2 (c (n "openai_api_rust") (v "0.1.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "1rbp0nyfs04lfjs3xryqms11mc87hh8qi34v49f0yjs4dpgjb50l")))
+
+(define-public crate-openai_api_rust-0.1.3 (c (n "openai_api_rust") (v "0.1.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "04jdclvir9kx4wyj398appm9mcsalj2jclhqpb4zhi4bnp3jgfnl")))
+
+(define-public crate-openai_api_rust-0.1.4 (c (n "openai_api_rust") (v "0.1.4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "1zlbm0cv6i5pf9d08wvj2w11sjs5v38s086ncdfjf5f5ay4v7psy")))
+
+(define-public crate-openai_api_rust-0.1.5 (c (n "openai_api_rust") (v "0.1.5") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "1gfzc4q5gj3y1jkmkgma4fnlqn69wg7jh9fpgikzlvfgpy2x1whz")))
+
+(define-public crate-openai_api_rust-0.1.6 (c (n "openai_api_rust") (v "0.1.6") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "13m3n37kadpndkkdxaqlyn5v4j1837vjmayk9p5mxzj2b0m8bfhx")))
+
+(define-public crate-openai_api_rust-0.1.7 (c (n "openai_api_rust") (v "0.1.7") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "01cpw5i2i89qnkrxvvcch5lgyx36c1dw4axrrdzgz2f325qi4845")))
+
+(define-public crate-openai_api_rust-0.1.8 (c (n "openai_api_rust") (v "0.1.8") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "multipart") (r "^0.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "1yiq0giv8z641gnp1l519fg5sdb2xg8yb17adyr7g4kd08v6lsn7")))
+
+(define-public crate-openai_api_rust-0.1.9 (c (n "openai_api_rust") (v "0.1.9") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "0ndczqb2rbyjc5mp7v98dk5pq0vcrzsrbzjkmx0hk0znf9f6g5ga")))
+

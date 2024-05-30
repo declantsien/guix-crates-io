@@ -1,0 +1,6 @@
+(define-module (crates-io ff mu ffmusicsync) #:use-module (crates-io))
+
+(define-public crate-ffmusicsync-1.0.0 (c (n "ffmusicsync") (v "1.0.0") (d (list (d (n "clap") (r "^3.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.0") (d #t) (k 0)) (d (n "json_comments") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "1ki8nixnaxlsv0n0647j699qchk8z7ya7i5xzlfi4xia9k1ygixp")))
+
+(define-public crate-ffmusicsync-1.1.0 (c (n "ffmusicsync") (v "1.1.0") (d (list (d (n "clap") (r "^3.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.0") (d #t) (k 0)) (d (n "json_comments") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lofty") (r "^0.6.3") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_with") (r "^1.14.0") (d #t) (k 0)))) (h "16bjrbshfi7xlhacp8gq26zy03iyzcj1sg3l4cxrzvpnyqz4zzcd")))
+

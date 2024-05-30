@@ -1,0 +1,18 @@
+(define-module (crates-io ap ri apriltag-sys) #:use-module (crates-io))
+
+(define-public crate-apriltag-sys-0.1.0 (c (n "apriltag-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)))) (h "0w5fh3avd0xlczd71ia957wqx10ad8lhpbd4nzzzc2wciyzl0pkg")))
+
+(define-public crate-apriltag-sys-0.1.1 (c (n "apriltag-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)))) (h "1yyqhgyz7dq5w9z44ggvwd7ka9j69d4g7lfj31j9srwy12zi2knb")))
+
+(define-public crate-apriltag-sys-0.1.2 (c (n "apriltag-sys") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.53.1") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.50") (f (quote ("parallel"))) (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1.42") (o #t) (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.17") (o #t) (d #t) (k 1)))) (h "0qi8b1pipyvyg0frfkgkrjz0cj8hk64xv41lr2mx8bgrblsnsrwd") (f (quote (("default") ("buildtime-bindgen" "bindgen" "cc" "cmake" "pkg-config"))))))
+
+(define-public crate-apriltag-sys-0.1.3 (c (n "apriltag-sys") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.53.1") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.50") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.42") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.17") (d #t) (k 1)))) (h "1cwzq0k1087grc2x8mklgnc86cyza1194khf2m1v6li7kzmpjimb") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-apriltag-sys-0.1.4 (c (n "apriltag-sys") (v "0.1.4") (d (list (d (n "bindgen") (r "^0.55") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0dr3lrfy64pv6ah9m2vpciywvnzjqyr8in9qcrdwn8hpjn6b493l") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-apriltag-sys-0.1.5 (c (n "apriltag-sys") (v "0.1.5") (d (list (d (n "bindgen") (r "^0.55") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1zl6q945wyqvxmf480999mpzjvad0qh9xhrjkq41bxi9lchysz1j") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-apriltag-sys-0.2.0 (c (n "apriltag-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.59.1") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.69") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "image") (r "^0.23.14") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.19") (d #t) (k 1)))) (h "1m1dj56zr6rnwmddlxm7nm8id55abmc71213sg44xpvzr90739vq") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-apriltag-sys-0.3.0 (c (n "apriltag-sys") (v "0.3.0") (d (list (d (n "image") (r "^0.24.5") (d #t) (k 2)) (d (n "anyhow") (r "^1.0.68") (d #t) (k 1)) (d (n "bindgen") (r "^0.63.0") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.78") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.49") (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "itertools") (r "^0.10.5") (d #t) (k 1)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 1)))) (h "1hhlrmkjlnkiaas3zfyx1a833dlka3imga3gz9a4nhsz7qfp93qn") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+

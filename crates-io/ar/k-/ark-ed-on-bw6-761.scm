@@ -1,0 +1,12 @@
+(define-module (crates-io ar k- ark-ed-on-bw6-761) #:use-module (crates-io))
+
+(define-public crate-ark-ed-on-bw6-761-0.2.0 (c (n "ark-ed-on-bw6-761") (v "0.2.0") (d (list (d (n "ark-ed-on-cp6-782") (r "^0.2.0") (k 0)) (d (n "ark-ff") (r "^0.2.0") (k 2)) (d (n "ark-r1cs-std") (r "^0.2.0") (k 2)) (d (n "ark-relations") (r "^0.2.0") (k 2)) (d (n "ark-std") (r "^0.2.0") (k 2)))) (h "11vmdxl94lfz461clk5rmazxva3am05pnh5xc6mhvkgn20qpvavk") (f (quote (("std" "ark-ed-on-cp6-782/std") ("r1cs" "ark-ed-on-cp6-782/r1cs") ("default"))))))
+
+(define-public crate-ark-ed-on-bw6-761-0.3.0 (c (n "ark-ed-on-bw6-761") (v "0.3.0") (d (list (d (n "ark-ed-on-cp6-782") (r "^0.3.0") (k 0)) (d (n "ark-ff") (r "^0.3.0") (k 2)) (d (n "ark-r1cs-std") (r "^0.3.0") (k 2)) (d (n "ark-relations") (r "^0.3.0") (k 2)) (d (n "ark-std") (r "^0.3.0") (k 2)))) (h "1rlc59csds0x0wmsf2291ca7xlr3ldbmqjh6zx1kc4arbi1hpg44") (f (quote (("std" "ark-ed-on-cp6-782/std") ("r1cs" "ark-ed-on-cp6-782/r1cs") ("default"))))))
+
+(define-public crate-ark-ed-on-bw6-761-0.4.0-alpha.1 (c (n "ark-ed-on-bw6-761") (v "0.4.0-alpha.1") (d (list (d (n "ark-ed-on-cp6-782") (r "^0.4.0-alpha") (k 0)) (d (n "ark-ff") (r "^0.4.0-alpha") (k 2)) (d (n "ark-r1cs-std") (r "^0.4.0-alpha") (k 2)) (d (n "ark-relations") (r "^0.4.0-alpha") (k 2)) (d (n "ark-std") (r "^0.4.0-alpha") (k 2)))) (h "040pi2c9m72b2x2h1ca80dpaa4jylys6bs9fiss3np9jlq6d6yzq") (f (quote (("std" "ark-ed-on-cp6-782/std") ("r1cs" "ark-ed-on-cp6-782/r1cs") ("default"))))))
+
+(define-public crate-ark-ed-on-bw6-761-0.4.0-alpha.2 (c (n "ark-ed-on-bw6-761") (v "0.4.0-alpha.2") (d (list (d (n "ark-ed-on-cp6-782") (r "^0.4.0-alpha") (k 0)) (d (n "ark-ff") (r "^0.4.0-alpha") (k 2)) (d (n "ark-r1cs-std") (r "^0.4.0-alpha") (k 2)) (d (n "ark-relations") (r "^0.4.0-alpha") (k 2)) (d (n "ark-std") (r "^0.4.0-alpha") (k 2)))) (h "0i0sbpds77hkikywdpjwdb21mi249bxbnnrn2fhrgllzzkd29rzd") (f (quote (("std" "ark-ed-on-cp6-782/std") ("r1cs" "ark-ed-on-cp6-782/r1cs") ("default"))))))
+
+(define-public crate-ark-ed-on-bw6-761-0.4.0 (c (n "ark-ed-on-bw6-761") (v "0.4.0") (d (list (d (n "ark-ed-on-cp6-782") (r "^0.4.0") (k 0)) (d (n "ark-ff") (r "^0.4.0") (k 2)) (d (n "ark-r1cs-std") (r "^0.4.0") (k 2)) (d (n "ark-relations") (r "^0.4.0") (k 2)) (d (n "ark-std") (r "^0.4.0") (k 2)))) (h "1w6nrx0g92x0n69yyf8d4xl5a2c40d1x62py42mdmk6a33vwwkmj") (f (quote (("std" "ark-ed-on-cp6-782/std") ("r1cs" "ark-ed-on-cp6-782/r1cs") ("default"))))))
+

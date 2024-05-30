@@ -1,0 +1,18 @@
+(define-module (crates-io re qu requestty-ui) #:use-module (crates-io))
+
+(define-public crate-requestty-ui-0.1.0 (c (n "requestty-ui") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.7.1") (k 2)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.14") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.7") (d #t) (k 0)))) (h "1azw2291gwy8iq0gzi91x1kknnpvi10c7813ddarw1sd2pdpzkq7")))
+
+(define-public crate-requestty-ui-0.1.1 (c (n "requestty-ui") (v "0.1.1") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.7.1") (k 2)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.14") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.7") (d #t) (k 0)))) (h "13dyh88s0j0k10v7mawnn9fmk2gi076ggr8nzvs0kfi0ynmfs99l")))
+
+(define-public crate-requestty-ui-0.2.0 (c (n "requestty-ui") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.21") (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.7.1") (k 2)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.14") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.7") (d #t) (k 0)))) (h "0afvp19s9f1cd1w2pvjsxlf7i93pp4f6cqs7j03237ifr7hrkx8f")))
+
+(define-public crate-requestty-ui-0.2.1 (c (n "requestty-ui") (v "0.2.1") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.22") (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.7.1") (k 2)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.14") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.7") (d #t) (k 0)))) (h "1xkl8mm4bg11lhn7x6x3qakm0m2hxw9w7w64fd6x3ifb4l6ygy7p")))
+
+(define-public crate-requestty-ui-0.3.0 (c (n "requestty-ui") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.22") (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.7.1") (k 2)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.14") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.7") (d #t) (k 0)))) (h "0ay5ja5j7js1gn5f7jangbhf5qc5g8crj5l73c4iq67c5maa864n")))
+
+(define-public crate-requestty-ui-0.4.0 (c (n "requestty-ui") (v "0.4.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.23") (o #t) (d #t) (k 0)) (d (n "insta") (r "=1.11") (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.15") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.9") (d #t) (k 0)))) (h "0gk3afmd5hbz42sqrn9g806vq810wgghj2fi17gik5h4rask5cpp")))
+
+(define-public crate-requestty-ui-0.4.1 (c (n "requestty-ui") (v "0.4.1") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.23") (o #t) (d #t) (k 0)) (d (n "insta") (r "=1.11") (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.15") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.9") (d #t) (k 0)))) (h "1biccr1h1nsgfgc391x7v0rq1s4k5xp06i1rk4v2xl9hyzkbr91i")))
+
+(define-public crate-requestty-ui-0.5.0 (c (n "requestty-ui") (v "0.5.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (o #t) (d #t) (k 0)) (d (n "insta") (r "=1.11") (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "termion") (r "^1.5") (o #t) (d #t) (k 0)) (d (n "textwrap") (r "^0.15") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.9") (d #t) (k 0)))) (h "09g2zx13nbf02kjyph4mdq48akjpln8w2zlfnqlvd0prkjrvljbm")))
+

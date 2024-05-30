@@ -1,0 +1,6 @@
+(define-module (crates-io tr ad tradfri_gateway) #:use-module (crates-io))
+
+(define-public crate-tradfri_gateway-0.1.0 (c (n "tradfri_gateway") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "coap") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "mdns-sd") (r "^0.9.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.19") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "openssl-probe") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "0jjpq26vmfyv1m8xai6ldan6brrkb5arf5dhri9n2ngylwl361rb")))
+
+(define-public crate-tradfri_gateway-0.2.0 (c (n "tradfri_gateway") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "coap") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "mdns-sd") (r "^0.9.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.19") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "openssl-probe") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1b1jxdh5gi55jc0j9vjpf5khqg3biviraryw29cs0djqm7ysb3hh")))
+

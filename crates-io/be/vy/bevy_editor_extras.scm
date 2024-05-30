@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_editor_extras) #:use-module (crates-io))
+
+(define-public crate-bevy_editor_extras-0.1.0 (c (n "bevy_editor_extras") (v "0.1.0") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 0)) (d (n "bevy") (r "^0.11") (f (quote ("dynamic_linking"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.19.0") (d #t) (k 0)) (d (n "bevy_camera_extras") (r "^0.1") (d #t) (k 0)) (d (n "bevy_component_extras") (r "^0.1") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.21.0") (d #t) (k 0)) (d (n "bevy_mod_raycast") (r "^0.13.1") (d #t) (k 0)) (d (n "bevy_rapier3d") (r "^0.22.0") (d #t) (k 0)) (d (n "bevy_ui_extras") (r "^0.2.0") (d #t) (k 0)) (d (n "bevy_window") (r "^0.11.0") (d #t) (k 0)) (d (n "egui") (r "^0.22.0") (d #t) (k 0)) (d (n "glam") (r "^0.24.0") (d #t) (k 0)) (d (n "rapier3d") (r "^0.17.2") (d #t) (k 0)))) (h "0k01sssw3b2b17pa078w3r3185iqdmii0avsnj1ajk2ipqc8lx0d")))
+

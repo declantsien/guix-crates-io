@@ -1,0 +1,12 @@
+(define-module (crates-io th ru thrustin) #:use-module (crates-io))
+
+(define-public crate-thrustin-0.1.0 (c (n "thrustin") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)) (d (n "remove_dir_all") (r "^0.5.1") (d #t) (k 0)) (d (n "rocket") (r "^0.4.1") (d #t) (k 0)) (d (n "ws") (r "^0.8.1") (d #t) (k 0)))) (h "0qv6df2004597hqghf926i1v7k9gbqb9yv62drdrqyksfcrcxy15")))
+
+(define-public crate-thrustin-0.2.0 (c (n "thrustin") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mongodb") (r "^0.3.11") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)) (d (n "rocket") (r "^0.4.1") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.4.0") (d #t) (k 0)) (d (n "ws") (r "^0.8.1") (d #t) (k 0)))) (h "0skn10bmpclq1877yglnxas6b83wcyhyghvinyb565s26c7rg7w7")))
+
+(define-public crate-thrustin-0.3.0 (c (n "thrustin") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mongodb") (r "^0.3.11") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)) (d (n "rocket") (r "^0.4.1") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "ws") (r "^0.8.1") (d #t) (k 0)))) (h "0ixcpwdvcznynw4ny3vmw95vs5rd8x6ql30v43gzv47hn6yhyhdw")))
+
+(define-public crate-thrustin-1.0.0 (c (n "thrustin") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mongodb") (r "^0.3.11") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)) (d (n "rocket") (r "^0.4.1") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "ws") (r "^0.8.1") (d #t) (k 0)))) (h "19zgc0bq74c1j3vb2g1l3m52vvvic2xf8qcvv30mk3y5qbacj824")))
+
+(define-public crate-thrustin-1.0.1 (c (n "thrustin") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mongodb") (r "^0.3.11") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)) (d (n "rocket") (r "^0.4.1") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "ws") (r "^0.8.1") (d #t) (k 0)))) (h "04wh4ph0ph995hz6blxddfiffkadhakcyrjflqvbksfdq9i6h2w3")))
+

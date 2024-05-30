@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rustboy-core) #:use-module (crates-io))
+
+(define-public crate-rustboy-core-0.1.0 (c (n "rustboy-core") (v "0.1.0") (d (list (d (n "assert_hex") (r "^0.2.2") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (f (quote ("use_alloc"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (d #t) (k 0)) (d (n "test-case") (r "^1.2.1") (d #t) (k 2)))) (h "16psalf8gy8diclk8nmwbn87slwha2h69jpgqi1q6l2rvvk6x7j7") (r "1.69.0")))
+
+(define-public crate-rustboy-core-0.2.0 (c (n "rustboy-core") (v "0.2.0") (d (list (d (n "assert_hex") (r "^0.2.2") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (f (quote ("use_alloc"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mockall") (r "^0.11.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (d #t) (k 0)) (d (n "test-case") (r "^1.2.1") (d #t) (k 2)))) (h "08qfnx12pcp3r967xq6ayv0f5jbq15d24dv4f6gjc7np3yd94m3x") (r "1.69.0")))
+

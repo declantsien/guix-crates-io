@@ -1,0 +1,14 @@
+(define-module (crates-io to ki tokio-cadence) #:use-module (crates-io))
+
+(define-public crate-tokio-cadence-0.1.0 (c (n "tokio-cadence") (v "0.1.0") (d (list (d (n "cadence") (r "^0.22") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("net" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("net" "sync" "time" "macros" "rt-threaded"))) (d #t) (k 2)))) (h "0pmyaiflncdbn8j2vjxc7k28dfh7c9g9kwfiskx3m7w9hi6sgh4v")))
+
+(define-public crate-tokio-cadence-0.1.1 (c (n "tokio-cadence") (v "0.1.1") (d (list (d (n "cadence") (r "^0.22") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("net" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("net" "sync" "time" "macros" "rt-threaded"))) (d #t) (k 2)))) (h "0mmgfyfkm8jyabbd3fd3aqkd0x1f2pyjr203ym98njq5p78mjybr")))
+
+(define-public crate-tokio-cadence-0.2.0 (c (n "tokio-cadence") (v "0.2.0") (d (list (d (n "cadence") (r ">=0.22.0, <0.23.0") (d #t) (k 0)) (d (n "log") (r ">=0.4.0, <0.5.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r ">=0.4.0, <0.5.0") (d #t) (k 2)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (f (quote ("net" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (f (quote ("net" "sync" "time" "macros" "rt-threaded"))) (d #t) (k 2)))) (h "1r0vp1vsvvakk1a3mhfxj200qyjyj25igaip1pvg2cw6cv8p43ps")))
+
+(define-public crate-tokio-cadence-0.3.0 (c (n "tokio-cadence") (v "0.3.0") (d (list (d (n "cadence") (r "^0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 2)) (d (n "tokio") (r "^1.1") (f (quote ("net" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.1") (f (quote ("net" "sync" "time" "macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "19mbbk475ix52n6gkj0f2jlr96y8dhdk7bingb41ba6nb5j01nsf")))
+
+(define-public crate-tokio-cadence-0.4.0 (c (n "tokio-cadence") (v "0.4.0") (d (list (d (n "cadence") (r "^0.29") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("net" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "sync" "time" "macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0k2dyqidlbxj1s7xhp2bpssd1jzz61qkdvhxrc3chrj1al9pgcn4")))
+
+(define-public crate-tokio-cadence-0.5.0 (c (n "tokio-cadence") (v "0.5.0") (d (list (d (n "cadence") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("net" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "sync" "time" "macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0ckwsdzax098xmzbj1mslpq5qxmfz44dwpi29z5hx9yxp4n2hr6c")))
+

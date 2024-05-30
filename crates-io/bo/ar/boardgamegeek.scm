@@ -1,0 +1,6 @@
+(define-module (crates-io bo ar boardgamegeek) #:use-module (crates-io))
+
+(define-public crate-boardgamegeek-1.0.0 (c (n "boardgamegeek") (v "1.0.0") (d (list (d (n "atoi") (r "^0.4.0") (d #t) (k 0)) (d (n "backoff") (r "^0.3.0") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "0dxinpffqvxrs74w5i6m74xdll1hylcgnrryl3whwq9jlnqkqr82")))
+
+(define-public crate-boardgamegeek-1.0.1 (c (n "boardgamegeek") (v "1.0.1") (d (list (d (n "atoi") (r "^0.4.0") (d #t) (k 0)) (d (n "backoff") (r "^0.3.0") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "05kffrlh2ng3f16s514z7mmnphflcwi4wly9mhr4nzzm9mqrbrc2")))
+

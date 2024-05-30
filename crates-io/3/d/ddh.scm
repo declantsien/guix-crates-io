@@ -1,0 +1,42 @@
+(define-module (crates-io #{3}# d ddh) #:use-module (crates-io))
+
+(define-public crate-ddh-0.9.9 (c (n "ddh") (v "0.9.9") (d (list (d (n "clap") (r "^2.30.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "stacker") (r "^0.1") (d #t) (k 0)))) (h "1phxjfnsggxc82d06zbgbhf8xlv0j652zgsf2nkmmphw353cg331")))
+
+(define-public crate-ddh-0.9.10 (c (n "ddh") (v "0.9.10") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "stacker") (r "^0.1") (d #t) (k 0)))) (h "0pn47mrr8yfbjw9cv8sm75r3znvysm9yzmi6rk6k2h3vly9cfqjl")))
+
+(define-public crate-ddh-0.9.11 (c (n "ddh") (v "0.9.11") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "stacker") (r "^0.1") (d #t) (k 0)))) (h "0bj8fq2x13w5njsgdi4y7z8l9rixcihhpg5mjr6aavn695azdpzd")))
+
+(define-public crate-ddh-0.9.12 (c (n "ddh") (v "0.9.12") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "stacker") (r "^0.1") (d #t) (k 0)))) (h "0gzaqj1ykkwgmiasjgkwj5yd5fhmksny143gms4zfp6nry8x4wk4")))
+
+(define-public crate-ddh-0.10.0 (c (n "ddh") (v "0.10.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "stacker") (r "^0.1") (d #t) (k 0)))) (h "1bmsjcmr2xcmblyn3k1akgjdgp7h9ar1758ha6a4r214kkvljrnr")))
+
+(define-public crate-ddh-0.10.1 (c (n "ddh") (v "0.10.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "stacker") (r "^0.1") (d #t) (k 0)))) (h "0irn6gr0sbhwynmykyfbi9hh2fajdggi1lgbyv8pvy9nj1xzagqf")))
+
+(define-public crate-ddh-0.10.2 (c (n "ddh") (v "0.10.2") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "053l3r21c49l466p4b1aq26hx78mpi1ghlg2v2md5wrikc49x5a2")))
+
+(define-public crate-ddh-0.10.3 (c (n "ddh") (v "0.10.3") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "0b014xpbykicnnng4ssgzwz7884jarx7gfh8hih9hdl33kqis6c0")))
+
+(define-public crate-ddh-0.10.4 (c (n "ddh") (v "0.10.4") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "1ynnrcv0gvhbjnbyxfacmzsrm268rpj317qj4v5xdxbj882i94pv")))
+
+(define-public crate-ddh-0.10.5 (c (n "ddh") (v "0.10.5") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "17hy6ch6kyiyfxp23iczw2fhrzgxxrkaiwayf9k883v5h7x2dfjc")))
+
+(define-public crate-ddh-0.10.6 (c (n "ddh") (v "0.10.6") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "1dxk41x06xxympzmgkqdynj1mpc1j1b3xkglzz5pcaarkdpr2ig2")))
+
+(define-public crate-ddh-0.10.7 (c (n "ddh") (v "0.10.7") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "19hgn8pn6lm217a9y9mbkfy26kp61if3zaxddcvddd2j896vbv43")))
+
+(define-public crate-ddh-0.10.8 (c (n "ddh") (v "0.10.8") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "14l2rq86nzil66cgfgwrklqp57768vxqi7v456zhv0cdd0j5g3a9")))
+
+(define-public crate-ddh-0.10.9 (c (n "ddh") (v "0.10.9") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "17n0ki492hkkaaw1irzplwq6k0hyficp4wj29ypwc5v46sw2rhmk")))
+
+(define-public crate-ddh-0.11.0 (c (n "ddh") (v "0.11.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "162snmhaifigd7nqpric3vcfq0f32ylap0pypapkcymv61bpm1qa")))
+
+(define-public crate-ddh-0.11.1 (c (n "ddh") (v "0.11.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "1rfngdzbbc12g7gwi4y4544129zjgnxjar5m81jgijigma6jicms")))
+
+(define-public crate-ddh-0.11.2 (c (n "ddh") (v "0.11.2") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "0pg5hjlzrsa1h3bj7ihyv0q1c2smc1xwrjrgd4gfsq1vsqmvgskn")))
+
+(define-public crate-ddh-0.11.3 (c (n "ddh") (v "0.11.3") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "1iwzw3kslgn8wyl3zwppra0ff4dq9b4lb346cjinfrzhm2ssnv4i")))
+
+(define-public crate-ddh-0.12.0 (c (n "ddh") (v "0.12.0") (d (list (d (n "clap") (r "^3") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "0b1nh6ydw1zzcxjklfhlg9vpcjy7v1054gbrlnd2955njgv8r8lk")))
+
+(define-public crate-ddh-0.13.0 (c (n "ddh") (v "0.13.0") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)))) (h "0fzw0l23ssgv07c7q9wp26y4rp2pkmrgywczmp7g55gq0bmx92gs")))
+

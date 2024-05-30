@@ -1,0 +1,10 @@
+(define-module (crates-io se ed seedo) #:use-module (crates-io))
+
+(define-public crate-seedo-0.1.0 (c (n "seedo") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("macros" "rt-multi-thread" "sync" "time" "process"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "1g221zil92cf692zl8sm1wrwvb8gz5vn9fw0d7knhpc2yjcwdm3m")))
+
+(define-public crate-seedo-0.1.1 (c (n "seedo") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("macros" "rt-multi-thread" "sync" "time" "process"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "0l9wyin3v3gqqii23xb8yrbday2iawk9xlhcnl870n1qmxiqjn1n")))
+
+(define-public crate-seedo-0.1.2 (c (n "seedo") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "1ywak0yvr88m6rvdqidx6m8g18jyli38yyh48zizfcip4ds73ipq")))
+
+(define-public crate-seedo-0.1.3 (c (n "seedo") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.15") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "0i111lp1667m10zy939agrmgjw672jsa04ra3k32dn1i2jya8hrl")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io li gh lighthouse-sdk) #:use-module (crates-io))
+
+(define-public crate-lighthouse-sdk-0.1.0 (c (n "lighthouse-sdk") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "borsh") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_with") (r "^3.0") (o #t) (d #t) (k 0)) (d (n "solana-program") (r "^1.17.23") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.17.23") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0svjr3hj3xklf10fqn395xklzdgji97y39r7w0n44l36n3xg5qz4") (f (quote (("default") ("cpi")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_with") ("sdk" "dep:solana-sdk"))))))
+

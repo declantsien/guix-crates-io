@@ -1,0 +1,8 @@
+(define-module (crates-io hc _d hc_dnahub_types) #:use-module (crates-io))
+
+(define-public crate-hc_dnahub_types-0.0.0 (c (n "hc_dnahub_types") (v "0.0.0") (d (list (d (n "getrandom") (r "=0.2.7") (f (quote ("custom"))) (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.2.2") (d #t) (k 0)) (d (n "holochain_zome_types") (r "^0.2.2") (f (quote ("properties"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "whi_hdi_extensions") (r "^0.4.2") (d #t) (k 0)))) (h "1lawpnrj0jmcwh8714mdaw9ygiivhyi09na930aznxdhxjsawzlv")))
+
+(define-public crate-hc_dnahub_types-0.1.0 (c (n "hc_dnahub_types") (v "0.1.0") (d (list (d (n "getrandom") (r "=0.2.7") (f (quote ("custom"))) (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.2.2") (d #t) (k 0)) (d (n "holochain_zome_types") (r "^0.2.2") (f (quote ("properties"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "whi_hdi_extensions") (r "^0.4.2") (d #t) (k 0)))) (h "0p30bqjfl00gilq6kq59i4ll7r134vl8psyjdc4qsnc2yrjyz90q")))
+
+(define-public crate-hc_dnahub_types-0.2.0 (c (n "hc_dnahub_types") (v "0.2.0") (d (list (d (n "getrandom") (r "=0.2.7") (f (quote ("custom"))) (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.2.2") (d #t) (k 0)) (d (n "holochain_zome_types") (r "^0.2.2") (f (quote ("properties"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "whi_hdi_extensions") (r "^0.4.2") (d #t) (k 0)))) (h "19hj6scv4g82qlx5j0mhmlrryibn1x7326qpskipf2wrsgcsbpf3")))
+

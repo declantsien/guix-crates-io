@@ -1,0 +1,30 @@
+(define-module (crates-io gl ue gluesql-derive) #:use-module (crates-io))
+
+(define-public crate-gluesql-derive-0.1.0 (c (n "gluesql-derive") (v "0.1.0") (d (list (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "10ls7bdh03xdlp0hv3a1wv802hzqv15b6wgjk7xbcyp5dgd2wjqv")))
+
+(define-public crate-gluesql-derive-0.1.1 (c (n "gluesql-derive") (v "0.1.1") (d (list (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "04yxrq76znwmbprahs9nbd2jp0vyrsxdwb2bhbm6v2p3232k5lsp")))
+
+(define-public crate-gluesql-derive-0.1.2 (c (n "gluesql-derive") (v "0.1.2") (d (list (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "00dpal0h21k83689r6galdghvalw9rqvh3vq02qj4lhv2rqs73hr")))
+
+(define-public crate-gluesql-derive-0.1.3 (c (n "gluesql-derive") (v "0.1.3") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.1") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "01gr4izdnn57rr5y44b6ympcbhrnjfi8gfar551ask085faiiryn")))
+
+(define-public crate-gluesql-derive-0.1.4 (c (n "gluesql-derive") (v "0.1.4") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.4") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "0gdl27difvyphszsq2rcncw7grs30lb9668fjppn1c3sav3r675j")))
+
+(define-public crate-gluesql-derive-0.1.5 (c (n "gluesql-derive") (v "0.1.5") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.5") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "0v6axsmkn122mq4hps76pzg5w0zak0diskp3hljnf9vy7xb6h34i")))
+
+(define-public crate-gluesql-derive-0.1.6 (c (n "gluesql-derive") (v "0.1.6") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.5") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "03hfp0prsqdn1cwkz89kl3qsalqdlva5qm08973dknfnzpbda0ic")))
+
+(define-public crate-gluesql-derive-0.1.7 (c (n "gluesql-derive") (v "0.1.7") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.1.5") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "0sjr80w57j0ymvnmr0ig77kdscic41zgj95lf09wxvmgzxmln8k0")))
+
+(define-public crate-gluesql-derive-0.2.0 (c (n "gluesql-derive") (v "0.2.0") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "15q1srvs4c0jpc5s561520mrj1bbxrjhd7wz9ci7diiafa5hazk8")))
+
+(define-public crate-gluesql-derive-0.2.1 (c (n "gluesql-derive") (v "0.2.1") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "1vsczijczm4x8x1wxp7g5q7bb1z1bkn9plg1ka1rcgb2y1hs0kb7")))
+
+(define-public crate-gluesql-derive-0.2.2 (c (n "gluesql-derive") (v "0.2.2") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "09avmhw5brnb9g9wpbm0wwfrj0mswgzxynynjmyamak7g1swb64h")))
+
+(define-public crate-gluesql-derive-0.2.3 (c (n "gluesql-derive") (v "0.2.3") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "1vv0b9y3bxwcpn5jwjxrmd9ry4rasfim28y8ybr0idwx05kkvj9r")))
+
+(define-public crate-gluesql-derive-0.2.4 (c (n "gluesql-derive") (v "0.2.4") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.2.1") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "10ramjzfr6qaycsrfdvjadzii1y3yvbw0jc7jpf65j5gm2r37pjg")))
+
+(define-public crate-gluesql-derive-0.2.5 (c (n "gluesql-derive") (v "0.2.5") (d (list (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "gluesql-derive-proc") (r "^0.2.1") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (d #t) (k 0)))) (h "11kygzig2xrvv8h98q7ds93h315f265q24vgh20w155hchyqnr7r")))
+

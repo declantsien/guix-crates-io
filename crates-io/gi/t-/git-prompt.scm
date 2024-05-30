@@ -1,0 +1,18 @@
+(define-module (crates-io gi t- git-prompt) #:use-module (crates-io))
+
+(define-public crate-git-prompt-0.0.0 (c (n "git-prompt") (v "0.0.0") (h "127aslm3wvijq6d0pa9kzngqnrkb0rhd3vm9yj30dw9vdi7wlbk6")))
+
+(define-public crate-git-prompt-0.1.0 (c (n "git-prompt") (v "0.1.0") (d (list (d (n "expectrl") (r "^0.5.2") (d #t) (k 2)) (d (n "git-command") (r "^0.1.0") (d #t) (k 0)) (d (n "git-config-value") (r "^0.8.0") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0gxjwmszmlnv72160r2hn5iva7byzlyr1sdcn7bkd654mmjrmia2")))
+
+(define-public crate-git-prompt-0.1.1 (c (n "git-prompt") (v "0.1.1") (d (list (d (n "expectrl") (r "^0.5.2") (d #t) (k 2)) (d (n "git-command") (r "^0.1.0") (d #t) (k 0)) (d (n "git-config-value") (r "^0.8.1") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "17yxmz45mfmr00igw7qcaxxlfy3rd3q3z25wfwi38w86bj9lfsgs")))
+
+(define-public crate-git-prompt-0.2.0 (c (n "git-prompt") (v "0.2.0") (d (list (d (n "expectrl") (r "^0.5.2") (d #t) (k 2)) (d (n "git-command") (r "^0.2.0") (d #t) (k 0)) (d (n "git-config-value") (r "^0.9.0") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0hjjdrfhhvssvdlggpnfmddy02355hl51f8fbqgyk38g7zmsmii1")))
+
+(define-public crate-git-prompt-0.3.0 (c (n "git-prompt") (v "0.3.0") (d (list (d (n "expectrl") (r "^0.5.2") (d #t) (k 2)) (d (n "git-command") (r "^0.2.0") (d #t) (k 0)) (d (n "git-config-value") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "1gycbpz92vsgan45l80gppbixzf8mzm8w47py0g47p87wn3a84in")))
+
+(define-public crate-git-prompt-0.3.1 (c (n "git-prompt") (v "0.3.1") (d (list (d (n "expectrl") (r "^0.6.0") (d #t) (k 2)) (d (n "git-command") (r "^0.2.0") (d #t) (k 0)) (d (n "git-config-value") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.10.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "1qy73k8dig7a4mpxjr0widw93b0pa49a2x1i7x5nlvw953n88gxd")))
+
+(define-public crate-git-prompt-0.3.2 (c (n "git-prompt") (v "0.3.2") (d (list (d (n "expectrl") (r "^0.6.0") (d #t) (k 2)) (d (n "git-command") (r "^0.2.3") (d #t) (k 0)) (d (n "git-config-value") (r "^0.10.1") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "1glklnx1mhqx7qx6znkz3kbrhvk5rz6xllmx3mvagxkfk6m2gh3p") (r "1.64")))
+
+(define-public crate-git-prompt-0.3.3 (c (n "git-prompt") (v "0.3.3") (d (list (d (n "expectrl") (r "^0.6.0") (d #t) (k 2)) (d (n "git-command") (r "^0.2.4") (d #t) (k 0)) (d (n "git-config-value") (r "^0.10.2") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (f (quote ("term"))) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serial_test") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "1qcz6spv51vj43yfx9ql6yfbfwpm86yv48xpkxay21ixxddg2sq8") (r "1.64")))
+

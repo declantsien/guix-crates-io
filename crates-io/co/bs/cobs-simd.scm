@@ -1,0 +1,8 @@
+(define-module (crates-io co bs cobs-simd) #:use-module (crates-io))
+
+(define-public crate-cobs-simd-0.1.0 (c (n "cobs-simd") (v "0.1.0") (d (list (d (n "concat-idents") (r "^1.1.5") (d #t) (k 2)) (d (n "corncobs") (r "^0.1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 2)))) (h "0gmd1rrgirffsvp4k08r1ncmifizs0lcc8pc8ll3pa4l94rmc758")))
+
+(define-public crate-cobs-simd-0.2.0 (c (n "cobs-simd") (v "0.2.0") (d (list (d (n "concat-idents") (r "^1.1.5") (d #t) (k 2)) (d (n "corncobs") (r "^0.1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 2)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)))) (h "1hvnkzn5gd33ipkh2m6p6ld0ir9kaqdj3jjn25l4v5qgaw85chyz")))
+
+(define-public crate-cobs-simd-0.2.1 (c (n "cobs-simd") (v "0.2.1") (d (list (d (n "concat-idents") (r "^1.1.5") (d #t) (k 2)) (d (n "corncobs") (r "^0.1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 2)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)))) (h "1v049vzybcp4ggh9fvl6clv604jbbddf0vd0vd1ianqznx9jyhl0")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io vi pe viper) #:use-module (crates-io))
+
+(define-public crate-viper-0.1.0 (c (n "viper") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "0j6apn2gw6frjfaaxz13p00wy10irgd0zpbcqxvxfvf2mxvmnyza")))
+
+(define-public crate-viper-0.1.2 (c (n "viper") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "0a8x3pbc5pc61w6wnzl4iiq0vinri5aasmvc20kjjzxddn9c77s2")))
+
+(define-public crate-viper-0.1.22 (c (n "viper") (v "0.1.22") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "1ny5za68mzq5fdfvrvxqax9wk2yzxz2p6xi078zyvls5ql089qgs")))
+
+(define-public crate-viper-0.1.23 (c (n "viper") (v "0.1.23") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "01m98ghzvs7l5qip8jn6wck6556xz99csi8480zw0z2v9b0h84fl")))
+
+(define-public crate-viper-0.1.24 (c (n "viper") (v "0.1.24") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "0yhridlgz9b83iqvc8qwlqxdymjynmc0vzxj4sbx1zj0l6p1qzqj")))
+
+(define-public crate-viper-0.2.0 (c (n "viper") (v "0.2.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "034kn6pzry10l2pzrq4yxf5ylnvmiyh9py9wrl2ggijv5frw1ly0")))
+
+(define-public crate-viper-0.2.1 (c (n "viper") (v "0.2.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "07qydlmwnla9lbzrv6yf2cjvphhxqghpvkanavbqqjlrl9bdhn69")))
+
+(define-public crate-viper-0.3.0 (c (n "viper") (v "0.3.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "requests") (r "^0.0.30") (d #t) (k 0)))) (h "0zm6xiirg9i2lgswdqx59l1gy4dpg6p0yvc3m4ng243p1ri33pb6")))
+

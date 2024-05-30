@@ -1,0 +1,6 @@
+(define-module (crates-io mi me mimeograph_cloudflare) #:use-module (crates-io))
+
+(define-public crate-mimeograph_cloudflare-0.1.0 (c (n "mimeograph_cloudflare") (v "0.1.0") (d (list (d (n "js-sys") (r "^0.3.51") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.74") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.24") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.51") (f (quote ("console" "Crypto" "CryptoKey" "SubtleCrypto"))) (d #t) (k 0)))) (h "0zd5yknkyzhwn1m2z577yh0dzhzn7rl7pwfv283l1zp09lyrrrjv")))
+
+(define-public crate-mimeograph_cloudflare-0.2.0 (c (n "mimeograph_cloudflare") (v "0.2.0") (d (list (d (n "js-sys") (r "^0.3.52") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.75") (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.25") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.52") (f (quote ("Blob" "Crypto" "CryptoKey" "FormData" "FormData" "Headers" "ReadableStream" "ReadableStreamByobReadResult" "ReadableStreamByobReader" "ReadableStreamDefaultReadResult" "ReadableStreamDefaultReader" "ReadableStreamGetReaderOptions" "ReadableStreamReaderMode" "Request" "RequestInit" "Response" "ResponseInit" "ResponseType" "StreamPipeOptions" "SubtleCrypto" "TextDecoder" "TextEncoder" "TransformStream" "UrlSearchParams" "WritableStream" "WritableStreamDefaultWriter" "console"))) (d #t) (k 0)))) (h "14wm2wbc11lcqllk43z1q7n4hh4xmcha0j3csf4q7mmqffyi55bz")))
+

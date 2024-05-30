@@ -1,0 +1,8 @@
+(define-module (crates-io pi ng ping_ver) #:use-module (crates-io))
+
+(define-public crate-ping_ver-0.1.1 (c (n "ping_ver") (v "0.1.1") (d (list (d (n "aok") (r "^0.1.11") (d #t) (k 0)) (d (n "aok") (r "^0.1.11") (d #t) (k 2)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "const-str") (r "^0.5.7") (d #t) (k 0)) (d (n "loginit") (r "^0.1.10") (d #t) (k 2)) (d (n "static_init") (r "^1.0.3") (d #t) (k 2)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "time" "sync"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)))) (h "0n83n2cbsq6ar6kk8h8qrfdlx13h4fhx69fkqr3xr1gim42v7pyn")))
+
+(define-public crate-ping_ver-0.1.2 (c (n "ping_ver") (v "0.1.2") (d (list (d (n "aok") (r "^0.1.11") (d #t) (k 0)) (d (n "aok") (r "^0.1.11") (d #t) (k 2)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "const-str") (r "^0.5.7") (d #t) (k 0)) (d (n "loginit") (r "^0.1.10") (d #t) (k 2)) (d (n "static_init") (r "^1.0.3") (d #t) (k 2)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "time" "sync"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)))) (h "09mhyk2a3gdxk8cg92vdlrpw5yi76hnvy32aia0vi1p4gfsq1gw5")))
+
+(define-public crate-ping_ver-0.1.3 (c (n "ping_ver") (v "0.1.3") (d (list (d (n "aok") (r "^0.1.11") (d #t) (k 0)) (d (n "aok") (r "^0.1.11") (d #t) (k 2)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "const-str") (r "^0.5.7") (d #t) (k 0)) (d (n "loginit") (r "^0.1.10") (d #t) (k 2)) (d (n "static_init") (r "^1.0.3") (d #t) (k 2)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "time" "sync"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)))) (h "1lgccmg5960kggj2im0cjlw1dqhz667w28c4jwjymadzv8nm834x")))
+

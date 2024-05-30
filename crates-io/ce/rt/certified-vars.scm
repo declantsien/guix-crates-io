@@ -1,0 +1,12 @@
+(define-module (crates-io ce rt certified-vars) #:use-module (crates-io))
+
+(define-public crate-certified-vars-0.1.0 (c (n "certified-vars") (v "0.1.0") (d (list (d (n "candid") (r "^0.7.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "01f50bgc3knvdiigsiyhc7kgxpa15szg16xjpj9qfxl79bvk8bvl")))
+
+(define-public crate-certified-vars-0.1.1 (c (n "certified-vars") (v "0.1.1") (d (list (d (n "candid") (r "^0.7.10") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.3.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "1qyxwh291jdclh9yvrb2khvvsyhjfkp6zq05g1llhvb0pfmzhlkb")))
+
+(define-public crate-certified-vars-0.1.2 (c (n "certified-vars") (v "0.1.2") (d (list (d (n "candid") (r "^0.7.10") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.3.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "1gn91p5hp3md4873ydccdik18dswxcimpzi00qiwffi7k2y5alrw")))
+
+(define-public crate-certified-vars-0.1.3 (c (n "certified-vars") (v "0.1.3") (d (list (d (n "candid") (r "^0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "058hp8vacz8cykr8swlpxzv819i1987s1cpvxlkvw9a1g47frjba")))
+
+(define-public crate-certified-vars-0.1.4 (c (n "certified-vars") (v "0.1.4") (d (list (d (n "candid") (r "^0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "1g2y87il8q1py1kyyskdsqz738gr70hsqii2lav9jcfj1adkv66p")))
+

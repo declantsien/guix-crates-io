@@ -1,0 +1,14 @@
+(define-module (crates-io de ri derive-sql-sqlite) #:use-module (crates-io))
+
+(define-public crate-derive-sql-sqlite-0.5.0 (c (n "derive-sql-sqlite") (v "0.5.0") (d (list (d (n "attribute-derive") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (f (quote ("chrono"))) (d #t) (k 2)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0f6pfyibkwpxxgr2hy1mfb8w05bikri39gs57kv0aanhw7b59fw1")))
+
+(define-public crate-derive-sql-sqlite-0.6.0 (c (n "derive-sql-sqlite") (v "0.6.0") (d (list (d (n "attribute-derive") (r "^0") (d #t) (k 0)) (d (n "derive-sql") (r "^0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (f (quote ("chrono"))) (d #t) (k 2)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "146lvw447v2vhw745nnkf6qdchypamn6fnjd85hnvfnjvik07x33")))
+
+(define-public crate-derive-sql-sqlite-0.7.0 (c (n "derive-sql-sqlite") (v "0.7.0") (d (list (d (n "attribute-derive") (r "^0") (d #t) (k 0)) (d (n "derive-sql") (r "^0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (f (quote ("chrono"))) (d #t) (k 2)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1dk8xy5n1ya3m3arc658z4ia0d976rn32ywlq6xarlxyyz18qr04")))
+
+(define-public crate-derive-sql-sqlite-0.8.0 (c (n "derive-sql-sqlite") (v "0.8.0") (d (list (d (n "attribute-derive") (r "^0") (d #t) (k 0)) (d (n "derive-sql") (r "^0") (d #t) (k 2)) (d (n "derive-sql-common") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (f (quote ("chrono"))) (d #t) (k 2)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "00x8zq5ps04vcmlcx2ax0jblcdn696zzdl734yyhfykc77nl3drs")))
+
+(define-public crate-derive-sql-sqlite-0.8.1 (c (n "derive-sql-sqlite") (v "0.8.1") (d (list (d (n "attribute-derive") (r "^0.8.1") (d #t) (k 0)) (d (n "derive-sql") (r "^0") (d #t) (k 2)) (d (n "derive-sql-common") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (f (quote ("chrono"))) (d #t) (k 2)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "144vf1qhik0fvrqkghbya3k3wavpbbfpdx2wbf97aa0mpi4xwni4")))
+
+(define-public crate-derive-sql-sqlite-0.9.0 (c (n "derive-sql-sqlite") (v "0.9.0") (d (list (d (n "attribute-derive") (r "^0.8.1") (d #t) (k 0)) (d (n "derive-sql") (r "^0") (f (quote ("sqlite"))) (d #t) (k 2)) (d (n "derive-sql-common") (r "^0") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 2)) (d (n "log") (r "^0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (f (quote ("chrono"))) (d #t) (k 2)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1ymn7dsak19548ngrycbhl7dwpydsj6bsrzkh5m0yy76pa1plncn")))
+

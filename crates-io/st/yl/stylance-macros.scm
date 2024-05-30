@@ -1,0 +1,38 @@
+(define-module (crates-io st yl stylance-macros) #:use-module (crates-io))
+
+(define-public crate-stylance-macros-0.0.1 (c (n "stylance-macros") (v "0.0.1") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0qi2s8icm4sah8b3x6yvid0rrzarm6f0gz3jlgccyd3r71zjryb4") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.2 (c (n "stylance-macros") (v "0.0.2") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.2") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1dzw5pkf36ysp6lidr5jrkk2zxd88hnx79mx4gcs12lvgrhpicas") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.3 (c (n "stylance-macros") (v "0.0.3") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.3") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0gwxgnih83a0nl3pgwnfwwyk0jkixqc8v9r6q8v2lr5hgahvf8iz") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.4 (c (n "stylance-macros") (v "0.0.4") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "16vsf8dkss7l2ns97hdgfr5jdspxk5xwik0zx0mcr8giih67fxj6") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.5 (c (n "stylance-macros") (v "0.0.5") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.5") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "12s0b6g2jl4p33hmbhp7qbzfx1yq30qxx41kcdqjdd4rsh74fhfv") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.6 (c (n "stylance-macros") (v "0.0.6") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.6") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0y9y53hx29pvkkjnxwb8m1g3d107swczkspbklxw85nn1j9gajnn") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.7 (c (n "stylance-macros") (v "0.0.7") (d (list (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "12069rg9r2lpmvi4vq7rnq8cd76wibwr2jaihlnbvm8h2dq4xbwf") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.8 (c (n "stylance-macros") (v "0.0.8") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.8") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "168z1xj1636yyn9xyf46bnjjc473qv6x1a5shml194a9ry7mp9vm") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.9 (c (n "stylance-macros") (v "0.0.9") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.9") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "01xp5lc0k96r0n0a7islz608c364130g242qx0521ailf5prlnwz") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.10 (c (n "stylance-macros") (v "0.0.10") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.10") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0p377gq1a9vdxjv3xsqaywqw1dxhynp8m5zfwpm35q5y22p6fk6v") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.11 (c (n "stylance-macros") (v "0.0.11") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.11") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1c99rfnw8vxznj21xznz44vawi4r4mdf6qw3bmylsxm2y7wsq7ar") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.0.12 (c (n "stylance-macros") (v "0.0.12") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.0.12") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "11v8ghk176xiq6fm9sz2akrqn67rbksp01vqb6f8vdc7if09p6y1") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.1.0 (c (n "stylance-macros") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "072mhgasd575dhg3k778d2mzlr4gdxybgrds8s16fn5x202sv7mp") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.1.1 (c (n "stylance-macros") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.1.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1bfxg5dlnrs1xvy653xa0l956i79inn2p8p21zm34wxwy6g6mv2i") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.2.0 (c (n "stylance-macros") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0gvfv3v3z91v9mqx3lisx7s018p1259nvy8wd66jdmph3qfrwnxz") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.3.0 (c (n "stylance-macros") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.3.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0s2ggzihzgzhxnhn55hc26w006gcf6dyzs8r1d7g972fhssdgn9h") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.4.0 (c (n "stylance-macros") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.4.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1h7xb0rx9842rb1m7xlr5bvsp7d3msq662lbqkhigvvxl69b8zpz") (f (quote (("nightly"))))))
+
+(define-public crate-stylance-macros-0.5.0 (c (n "stylance-macros") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "stylance-core") (r "^0.5.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1px5xmy950hjwpznmlphkinzh7y8c38ig7d5pgbr1v7zdz7n7pg5") (f (quote (("nightly"))))))
+

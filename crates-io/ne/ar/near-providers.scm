@@ -1,0 +1,4 @@
+(define-module (crates-io ne ar near-providers) #:use-module (crates-io))
+
+(define-public crate-near-providers-0.1.0-alpha (c (n "near-providers") (v "0.1.0-alpha") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "near-chain-configs") (r "^0.20.0") (d #t) (k 0)) (d (n "near-crypto") (r "^0.20.1") (d #t) (k 0)) (d (n "near-jsonrpc-client") (r "^0.8.0") (d #t) (k 0)) (d (n "near-jsonrpc-primitives") (r "^0.20.1") (d #t) (k 0)) (d (n "near-primitives") (r "^0.20.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (k 2)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full" "test-util"))) (d #t) (k 2)))) (h "00avyfhds0qnggb9q25kxadfq2qhsnw79nskcrdz8y0advd7ixm7")))
+

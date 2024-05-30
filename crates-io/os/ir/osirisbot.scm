@@ -1,0 +1,6 @@
+(define-module (crates-io os ir osirisbot) #:use-module (crates-io))
+
+(define-public crate-Osirisbot-0.1.0 (c (n "Osirisbot") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "teloxide") (r "^0.4") (f (quote ("auto-send" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlshortener") (r "^3.0.0") (d #t) (k 0)))) (h "07jyshi229wvafp8xjykkpq826j566gi8iryd2293fmqidfrxqk0")))
+
+(define-public crate-Osirisbot-0.1.1 (c (n "Osirisbot") (v "0.1.1") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "teloxide") (r "^0.10") (f (quote ("auto-send" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlshortener") (r "^3.0.0") (d #t) (k 0)))) (h "0n7c3p29ych9wr41hjcxw02dldgn9m7dskwn939w5s08y0nhvscg")))
+

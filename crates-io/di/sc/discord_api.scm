@@ -1,0 +1,6 @@
+(define-module (crates-io di sc discord_api) #:use-module (crates-io))
+
+(define-public crate-discord_api-0.2.2 (c (n "discord_api") (v "0.2.2") (d (list (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "colored") (r "^1.9") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "1k0i74idmaxp62h0qwd2lplkpbdvil1sv5k2r0wg761vvk2zkg3g")))
+
+(define-public crate-discord_api-0.2.3 (c (n "discord_api") (v "0.2.3") (d (list (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "colored") (r "^1.9") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "0nmjfdhh04z5v92q8v4cppvg7lifcsg2w8hzp4idxjc3a2gcnpa8")))
+

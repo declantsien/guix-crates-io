@@ -1,0 +1,6 @@
+(define-module (crates-io sw ap swap-buffer-queue) #:use-module (crates-io))
+
+(define-public crate-swap-buffer-queue-0.1.0 (c (n "swap-buffer-queue") (v "0.1.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(loom)") (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "test-util" "time"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0bmvqygwbliddwx2l17xj3pp0arhpmh80cwb6y2nwhj1vr3y3qpw") (f (quote (("write") ("std" "crossbeam-utils/std") ("default" "futures")))) (s 2) (e (quote (("futures" "std" "dep:futures"))))))
+
+(define-public crate-swap-buffer-queue-0.2.0 (c (n "swap-buffer-queue") (v "0.2.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "loom") (r "^0.6.0") (f (quote ("futures"))) (d #t) (t "cfg(loom)") (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "test-util" "time"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "135rs9n172prz6xi9hfj0r9apw8crl95pjpih8aprlj6qamh6zij") (f (quote (("write") ("std") ("default" "stream")))) (s 2) (e (quote (("stream" "std" "dep:futures"))))))
+

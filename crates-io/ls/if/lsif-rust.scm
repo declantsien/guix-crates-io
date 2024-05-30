@@ -1,0 +1,4 @@
+(define-module (crates-io ls if lsif-rust) #:use-module (crates-io))
+
+(define-public crate-lsif-rust-0.0.1 (c (n "lsif-rust") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cargo") (r "^0.50.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lsif") (r "^0.3.1") (d #t) (k 0) (p "lsif-types")) (d (n "lsp") (r "^0.86.0") (d #t) (k 0) (p "lsp-types")) (d (n "readonly") (r "^0.2.0") (d #t) (k 0)) (d (n "rls-analysis") (r "^0.18.1") (d #t) (k 0)) (d (n "rls-data") (r "^0.19.1") (d #t) (k 0)) (d (n "rls-span") (r "^0.5.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)))) (h "00igxj2nmvpmsi2k4y9sm5ir9xsdrmhb972f606l8bai1cmwc77a") (y #t)))
+

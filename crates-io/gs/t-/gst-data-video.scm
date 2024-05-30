@@ -1,0 +1,8 @@
+(define-module (crates-io gs t- gst-data-video) #:use-module (crates-io))
+
+(define-public crate-gst-data-video-0.1.0 (c (n "gst-data-video") (v "0.1.0") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "glib") (r "^0.14.5") (d #t) (k 0)) (d (n "gst") (r "^0.17.1") (d #t) (k 0) (p "gstreamer")) (d (n "gst-base") (r "^0.17.1") (d #t) (k 0) (p "gstreamer-base")) (d (n "gst-plugin-version-helper") (r "^0.7.1") (d #t) (k 1)) (d (n "gst-video") (r "^0.17.1") (d #t) (k 0) (p "gstreamer-video")) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "tiny_http") (r "^0.8.2") (d #t) (k 0)))) (h "0l8r3j2485cfy2fs0qd9nx9sdx5hpj51cv5gqg0s557zr0w56jh9")))
+
+(define-public crate-gst-data-video-0.2.0 (c (n "gst-data-video") (v "0.2.0") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "glib") (r "^0.14.5") (d #t) (k 0)) (d (n "gst") (r "^0.17.1") (d #t) (k 0) (p "gstreamer")) (d (n "gst-base") (r "^0.17.1") (d #t) (k 0) (p "gstreamer-base")) (d (n "gst-plugin-version-helper") (r "^0.7.1") (d #t) (k 1)) (d (n "gst-video") (r "^0.17.1") (d #t) (k 0) (p "gstreamer-video")) (d (n "once_cell") (r "^1.0") (d #t) (k 0)))) (h "07vyni6mj9r6z5xijgrk1swc1lccf9x2z2ppa7zn73dd92k470i8")))
+
+(define-public crate-gst-data-video-0.2.1 (c (n "gst-data-video") (v "0.2.1") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "glib") (r "^0.14.5") (d #t) (k 0)) (d (n "gst") (r "^0.17.1") (d #t) (k 0) (p "gstreamer")) (d (n "gst-base") (r "^0.17.1") (d #t) (k 0) (p "gstreamer-base")) (d (n "gst-plugin-version-helper") (r "^0.7.1") (d #t) (k 1)) (d (n "gst-video") (r "^0.17.1") (d #t) (k 0) (p "gstreamer-video")) (d (n "once_cell") (r "^1.0") (d #t) (k 0)))) (h "0k5c5mzzidvs6r1mnwm49vrn8ihsa407r73prdgfpgf42cz28v86")))
+

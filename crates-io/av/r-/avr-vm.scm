@@ -1,0 +1,6 @@
+(define-module (crates-io av r- avr-vm) #:use-module (crates-io))
+
+(define-public crate-avr-vm-0.1.0 (c (n "avr-vm") (v "0.1.0") (d (list (d (n "cairo-rs") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "dynasm") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "dynasmrt") (r "^0.0.6") (o #t) (d #t) (k 0)) (d (n "gdk") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "gtk") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)))) (h "1wbqhlzn4syx1ll120rq92ykbwyqsrl80qjkxssd6m0p85p7m7b9") (f (quote (("strict") ("jit" "dynasm" "dynasmrt") ("gui" "gtk" "gdk-pixbuf" "cairo-rs" "gdk") ("default" "gui"))))))
+
+(define-public crate-avr-vm-0.1.1 (c (n "avr-vm") (v "0.1.1") (d (list (d (n "cairo-rs") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "dynasm") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "dynasmrt") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "gdk") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "gtk") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)))) (h "0cs1nvffrbi8rmhjkvczb5bwwammji3dyvajsffs1q42wrdpqvya") (f (quote (("strict") ("jit" "dynasm" "dynasmrt") ("gui" "gtk" "gdk-pixbuf" "cairo-rs" "gdk") ("default" "gui"))))))
+

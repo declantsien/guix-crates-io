@@ -1,0 +1,6 @@
+(define-module (crates-io ol vn olvn) #:use-module (crates-io))
+
+(define-public crate-olvn-0.1.0 (c (n "olvn") (v "0.1.0") (d (list (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "axum") (r "^0.7.3") (d #t) (k 0)) (d (n "axum-core") (r "^0.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "snafu") (r "^0.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0appdn8ydrp2xk5w4lfmmzy94xjw9sfv0xf8l7fpfa11spp82wgd")))
+
+(define-public crate-olvn-0.1.1 (c (n "olvn") (v "0.1.1") (d (list (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "axum") (r "^0.7.3") (d #t) (k 0)) (d (n "axum-core") (r "^0.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "http") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "snafu") (r "^0.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (f (quote ("util"))) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0818hawcynr5j0zvhna7xwz00105dw7bnfibvsc786cx157a0yz2")))
+

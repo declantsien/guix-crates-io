@@ -1,0 +1,4 @@
+(define-module (crates-io ry pt rypt) #:use-module (crates-io))
+
+(define-public crate-rypt-0.8.0 (c (n "rypt") (v "0.8.0") (d (list (d (n "bytes") (r "0.4.*") (d #t) (k 0)) (d (n "crossbeam-channel") (r "0.3.*") (d #t) (k 0)) (d (n "failure") (r "0.1.*") (d #t) (k 0)) (d (n "failure") (r "0.1.*") (d #t) (k 1)) (d (n "getopts") (r "0.2.*") (d #t) (k 0)) (d (n "hex-literal") (r "0.2.*") (d #t) (k 2)) (d (n "libc") (r "0.2.*") (d #t) (t "cfg(unix)") (k 0)) (d (n "libsodium-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "prost") (r "0.5.*") (d #t) (k 0)) (d (n "prost-build") (r "0.5.*") (d #t) (k 1)) (d (n "quickcheck") (r "0.8.*") (d #t) (k 2)) (d (n "rand") (r "0.7.*") (d #t) (k 0)) (d (n "static_assertions") (r "0.3.*") (d #t) (k 0)) (d (n "tempfile") (r "3.0.*") (d #t) (k 2)) (d (n "winapi") (r "0.3.*") (f (quote ("processenv" "consoleapi" "wincon"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0rkvc4p0dn6n76rhp0azlqr4nj3h7scy3n1ayi3lswxagsz8hfng")))
+

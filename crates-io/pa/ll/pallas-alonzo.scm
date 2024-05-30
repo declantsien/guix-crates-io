@@ -1,0 +1,30 @@
+(define-module (crates-io pa ll pallas-alonzo) #:use-module (crates-io))
+
+(define-public crate-pallas-alonzo-0.1.0 (c (n "pallas-alonzo") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.11.5") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "1jkrrlbqy7q8g5kipdj2klqgn450xqvpdw1njx5346pkb2d5lk93")))
+
+(define-public crate-pallas-alonzo-0.2.0 (c (n "pallas-alonzo") (v "0.2.0") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.11.5") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "1l0wwp5lwnd61c9q6gbwiwklfl49p13wdqbwl7r93jfmhx5wwb92") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.2.1 (c (n "pallas-alonzo") (v "0.2.1") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.11.5") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "0560121y9b3yd5jpmgp3zsdi43g4qjragijc9r47y8br10a7aln6") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.0 (c (n "pallas-alonzo") (v "0.3.0") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.11.5") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "0j5v3k7zgvahxy6ijnjbx8n3q7g7wbkg7clzxkvr731mmc3a8ss9") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.1 (c (n "pallas-alonzo") (v "0.3.1") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.11.5") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "0wqsh620zr848ihd96qcm6svfwlmrz8aks85v1rx4h0pcg2sxxgg") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.2 (c (n "pallas-alonzo") (v "0.3.2") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.11.5") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "1a7cb9gi0a8qpywh69qagjq7cz2j119cpgjm8qq13y6j4xg9qr9l") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.3 (c (n "pallas-alonzo") (v "0.3.3") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "03ygdgs930p3qlhr6xpwzjm7261kiwgxw3jx0vq8ndydnrrqp4lx") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.4 (c (n "pallas-alonzo") (v "0.3.4") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "0wdx48275cahhns8y840l0ar94r3hqwc9z2ihxpwn3ps43q73wbf") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.5 (c (n "pallas-alonzo") (v "0.3.5") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "00nylz822ankakgpssd0bvyqbkn081f4zh4ggybll2di485qfgi6") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.6 (c (n "pallas-alonzo") (v "0.3.6") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "0f5wc8vkjd2idqvcccyba5rx030jh926xxkfwjxg9namvj5nvn1a") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.7 (c (n "pallas-alonzo") (v "0.3.7") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "1vw0civrzn4v1f6ghmpswmlsqjmd8swaqjd1x8l8iffsxbi9awwv") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.8 (c (n "pallas-alonzo") (v "0.3.8") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "0j8xps2zc3nb9ypalp0b4irn8k13k392485m7qsj5plyf508a38z") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.3.9 (c (n "pallas-alonzo") (v "0.3.9") (d (list (d (n "cryptoxide") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.7.2") (d #t) (k 0)))) (h "1gk0aicg9c6h53bwlcdjmckjfi2f3rcldrq4s4qb22m1455fwrsn") (f (quote (("crypto" "cryptoxide"))))))
+
+(define-public crate-pallas-alonzo-0.4.0 (c (n "pallas-alonzo") (v "0.4.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "minicbor") (r "^0.13") (f (quote ("std"))) (d #t) (k 0)) (d (n "minicbor-derive") (r "^0.8.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "^0.4.0") (d #t) (k 0)))) (h "0zy6a47mf4rpql8mj4b0syws65ll1ssxq69w06qbpama0m0qzpxx")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ke yg keygen) #:use-module (crates-io))
+
+(define-public crate-keygen-1.1.0 (c (n "keygen") (v "1.1.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "crc") (r "^1.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial-key") (r "^1.0") (d #t) (k 0)))) (h "139ar92b73qlh17y1zd28i904r4d6xxb2dx0j129bpx2wzg7c090")))
+
+(define-public crate-keygen-1.2.1 (c (n "keygen") (v "1.2.1") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "crc") (r "^1.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial-key") (r "^1.0") (d #t) (k 0)))) (h "17qj5ki4nfkbym87bgybiv4j2nfzhgm1f35iblcqm4w88mx0gwh2")))
+
+(define-public crate-keygen-1.3.0 (c (n "keygen") (v "1.3.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "crc") (r "^1.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial-key") (r "^1.0") (d #t) (k 0)))) (h "0nnqj3cass5f256m5jd4v5w70dayk23mi585xji0ca5ha6yisgj7")))
+
+(define-public crate-keygen-2.0.0 (c (n "keygen") (v "2.0.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "crc") (r "^1.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial-key") (r "^2.0") (d #t) (k 0)))) (h "1dhikqxc68pl6qgv9m9jnx30mybjlvz8388ippazfgb6ayb0x3dd")))
+
+(define-public crate-keygen-2.1.0 (c (n "keygen") (v "2.1.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "crc") (r "^1.5") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial-key") (r "^2.0") (d #t) (k 0)))) (h "0i8vk3ivqj138p16jfhx210v2m8icfw2dnp51cinqlm2h4ac437i")))
+

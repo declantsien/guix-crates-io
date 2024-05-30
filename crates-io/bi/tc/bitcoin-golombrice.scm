@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-golombrice) #:use-module (crates-io))
+
+(define-public crate-bitcoin-golombrice-0.1.12-alpha.0 (c (n "bitcoin-golombrice") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-hash") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-serialize") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1nml9m69bxpl1sp4dh0ca2bz70qfzzjjvhcdhvls08mj667cy817")))
+
+(define-public crate-bitcoin-golombrice-0.1.16-alpha.0 (c (n "bitcoin-golombrice") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-hash") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-serialize") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1hk0rjz4ngks0qnxrjw0id46af8ii1nq41x4xrkpsinjirkf08rg")))
+

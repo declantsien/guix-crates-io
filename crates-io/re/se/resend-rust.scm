@@ -1,0 +1,8 @@
+(define-module (crates-io re se resend-rust) #:use-module (crates-io))
+
+(define-public crate-resend-rust-0.1.0 (c (n "resend-rust") (v "0.1.0") (h "1988ml546ssfix4vli5074aw5mjb1s2idylxv7r2h41nr1jrqkww")))
+
+(define-public crate-resend-rust-0.1.1 (c (n "resend-rust") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 2)))) (h "17syki0zvr7cgypwyk9pzrg5yyikllqbb65y5nh2z6kdqq82db13") (f (quote (("reqwest") ("default" "reqwest"))))))
+
+(define-public crate-resend-rust-0.1.2 (c (n "resend-rust") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 2)))) (h "1rdfzabxql21x15zsfaz9x971ri6s08073kj59gg2pcijnn1z987") (f (quote (("reqwest") ("default" "reqwest"))))))
+

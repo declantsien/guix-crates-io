@@ -1,0 +1,6 @@
+(define-module (crates-io as se assembly-fdb-core) #:use-module (crates-io))
+
+(define-public crate-assembly-fdb-core-0.1.0 (c (n "assembly-fdb-core") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "bytemuck_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "latin1str") (r "^0.1.1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sfhash") (r "^0.1.1") (d #t) (k 0)))) (h "0n6s1s7y7nx5fqrdpwjxjcy710fjk0jzkr8304f8pv73iqwvc697") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("serde" "dep:serde") ("bytemuck" "dep:bytemuck" "dep:bytemuck_derive"))))))
+
+(define-public crate-assembly-fdb-core-0.1.1 (c (n "assembly-fdb-core") (v "0.1.1") (d (list (d (n "bytemuck") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "bytemuck_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "latin1str") (r "^0.1.1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sfhash") (r "^0.1.1") (d #t) (k 0)))) (h "0a4m5r8p8ncp319cwar2nansw9jfxlwxli3sgnsib2rqpjx45zgf") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("serde" "dep:serde") ("bytemuck" "dep:bytemuck" "dep:bytemuck_derive"))))))
+

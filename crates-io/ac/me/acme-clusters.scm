@@ -1,0 +1,6 @@
+(define-module (crates-io ac me acme-clusters) #:use-module (crates-io))
+
+(define-public crate-acme-clusters-0.2.2 (c (n "acme-clusters") (v "0.2.2") (d (list (d (n "mio") (r "^0.8.4") (d #t) (k 0)) (d (n "scsys") (r "^0.1.36") (f (quote ("full"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "0x36ig1rag6mnxcj8mdbi568ak0yjz87bv9q9bb3p7wxg3i0sfnv") (f (quote (("wasm-ext") ("wasm" "wasm-ext") ("full" "core" "extras" "wasm") ("extras") ("default" "core" "extras" "wasm") ("core"))))))
+
+(define-public crate-acme-clusters-0.2.3 (c (n "acme-clusters") (v "0.2.3") (d (list (d (n "mio") (r "^0.8.4") (d #t) (k 0)) (d (n "scsys") (r "^0.1.38") (f (quote ("full"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0kahhslzjwn6hrc71vnp93pdb7r0h6yy7c5nqaabqf10bwa31bqi") (f (quote (("wasm-ext") ("wasm" "wasm-ext") ("full" "core" "extras" "wasm") ("extras") ("default" "core" "extras" "wasm") ("core"))))))
+

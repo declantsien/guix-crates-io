@@ -1,0 +1,4 @@
+(define-module (crates-io vu lk vulkayes-window) #:use-module (crates-io))
+
+(define-public crate-vulkayes-window-0.1.0 (c (n "vulkayes-window") (v "0.1.0") (d (list (d (n "cocoa") (r "^0.24") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "metal") (r "^0.20") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "minifb") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "vulkayes-core") (r "^0.1.0") (d #t) (k 0)) (d (n "winit") (r "^0.23") (o #t) (d #t) (k 0)))) (h "020px8ilqc2yiwwck3wzm6jj54kbq5gzmzxp2hrcl5w2fd1mdbgz") (f (quote (("winit_window" "winit" "raw_window_handle") ("unix_use_xcb_default") ("raw_window_handle" "raw-window-handle") ("minifb_window" "minifb" "raw_window_handle") ("default" "winit_window"))))))
+

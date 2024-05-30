@@ -1,0 +1,4 @@
+(define-module (crates-io co re core_cbc_casper) #:use-module (crates-io))
+
+(define-public crate-core_cbc_casper-0.1.0 (c (n "core_cbc_casper") (v "0.1.0") (d (list (d (n "bincode") (r "^1.0.1") (d #t) (k 0)) (d (n "blake2") (r "^0.7") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "fixed-hash") (r "^0.3") (f (quote ("libc"))) (k 0)) (d (n "itertools") (r "^0.7.8") (d #t) (k 0)) (d (n "proptest") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "03yghhhl485icllcij3pv9f8rcx0b9fajm3nzyzch2vwzc09spp0") (f (quote (("integration_test" "proptest" "rand"))))))
+

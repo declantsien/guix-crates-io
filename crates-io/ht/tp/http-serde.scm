@@ -1,0 +1,24 @@
+(define-module (crates-io ht tp http-serde) #:use-module (crates-io))
+
+(define-public crate-http-serde-1.0.0 (c (n "http-serde") (v "1.0.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 2)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.47") (d #t) (k 2)))) (h "1vagk6zlqzdypl56lamyri67y0827j929p1lyxagnrkc4h7wcrr7") (y #t)))
+
+(define-public crate-http-serde-1.0.1 (c (n "http-serde") (v "1.0.1") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 2)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.47") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 2)))) (h "18knpi6z6pq8y3ydrf5b9vv4sfw46bvz9f6jrgnlkkyyw565dada") (y #t)))
+
+(define-public crate-http-serde-1.0.2 (c (n "http-serde") (v "1.0.2") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 2)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.47") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 2)))) (h "169n08qplr75rhm8w3jkvh317n5s4bfw7q38j6qxkih84vlk7nsm")))
+
+(define-public crate-http-serde-1.0.3 (c (n "http-serde") (v "1.0.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^0.2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)))) (h "14pnsiyr99k8qbaw3vf28jlismq04ihg1y3xb9npj996033qls95")))
+
+(define-public crate-http-serde-1.1.0 (c (n "http-serde") (v "1.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^0.2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)))) (h "1jkczwjd1fglfli3wdiaairkkqip1zp40j2cn590krrdcvcv763d")))
+
+(define-public crate-http-serde-1.1.2 (c (n "http-serde") (v "1.1.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.11") (d #t) (k 2)))) (h "0pnx1kndkdpnfx19xyr6b8v7kagqbwjqdxmj3ls2kfklyxqjj9qf")))
+
+(define-public crate-http-serde-1.1.3 (c (n "http-serde") (v "1.1.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.11") (d #t) (k 2)))) (h "1vnald3g10gxj15dc5jjjk7aff23p1zly0xgzhn5gwfrb9k0nmkg")))
+
+(define-public crate-http-serde-2.0.0 (c (n "http-serde") (v "2.0.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 2)))) (h "12060chaa0kz4g24bklrzgqc7c2r5jc7xpfzq8ladva9dnd27dvz")))
+
+(define-public crate-http-serde-2.0.1 (c (n "http-serde") (v "2.0.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 2)))) (h "1n6qr9kbwa15fhf1ldi7pdb3izlaqfcslsxcyyp04hakspfbh8sx")))
+
+(define-public crate-http-serde-2.1.0 (c (n "http-serde") (v "2.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 2)))) (h "06alkg8w3zzx3975yg779ph36mi65rvsicsnbv9nksi7rvyclcqi")))
+
+(define-public crate-http-serde-2.1.1 (c (n "http-serde") (v "2.1.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.203") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 2)))) (h "1z97a3q05h7ndpbvi24ywkc4jikf86bfg4fhr2976xg3b62nq18g")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io no ti notiz) #:use-module (crates-io))
+
+(define-public crate-notiz-1.0.0 (c (n "notiz") (v "1.0.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)) (d (n "xdg") (r "^2.5.2") (d #t) (k 0)))) (h "0yx9mmq27h5dg02qjkmi7w8c9lsxblqpxwma1sillvs91zvcbv72")))
+
+(define-public crate-notiz-1.0.1 (c (n "notiz") (v "1.0.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)) (d (n "xdg") (r "^2.5.2") (d #t) (k 0)))) (h "0b9irmv7gmg8br4mv1f0qxlhnjdbgynhyrz3m1hv1s1r2xvdaa23")))
+
+(define-public crate-notiz-1.0.2 (c (n "notiz") (v "1.0.2") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)) (d (n "xdg") (r "^2.5.2") (d #t) (k 0)))) (h "0p9y6q3ziybk6bq2ka7pnciw2ayzm8zjxh3jj4nsfn0vznqa6qrz")))
+
+(define-public crate-notiz-1.1.0 (c (n "notiz") (v "1.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)) (d (n "xdg") (r "^2.5.2") (d #t) (k 0)))) (h "11pq9k0sxp7nha8gadxjbxybpxijr0x5lfws19kzrywm1lnrhwh5")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io fu se fuse-rs) #:use-module (crates-io))
+
+(define-public crate-fuse-rs-0.0.0 (c (n "fuse-rs") (v "0.0.0") (h "0w93sr73zlzh958k9ndkpyilj6pnpqzdwjm3m3bk1yq4sk682bcf")))
+
+(define-public crate-fuse-rs-0.0.1 (c (n "fuse-rs") (v "0.0.1") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.70") (d #t) (k 0)) (d (n "libfuse-sys") (r "^0.3.0") (f (quote ("fuse_35" "fuse_highlevel"))) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)))) (h "1gl7v45ngw35ha7vgdn6qpmbhx7drrsvcy7kzpwr8s5wpsxq6v6f") (f (quote (("write") ("unlink") ("truncate") ("symlink") ("statfs") ("rmdir") ("rename") ("releasedir") ("release") ("readlink") ("readdir") ("read") ("opendir") ("open") ("mkdir") ("lock") ("link") ("init") ("getattr") ("full" "getattr" "readlink" "mkdir" "unlink" "rmdir" "symlink" "rename" "link" "chmod" "chown" "truncate" "open" "read" "write" "statfs" "flush" "release" "fsync" "opendir" "readdir" "fsyncdir" "releasedir" "init" "destroy" "access" "create" "ftruncate" "fgetattr" "lock") ("ftruncate") ("fsyncdir") ("fsync") ("flush") ("fgetattr") ("destroy") ("default" "open" "getattr" "readdir" "read") ("create") ("chown") ("chmod") ("access"))))))
+

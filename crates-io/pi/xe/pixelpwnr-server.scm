@@ -1,0 +1,4 @@
+(define-module (crates-io pi xe pixelpwnr-server) #:use-module (crates-io))
+
+(define-public crate-pixelpwnr-server-0.0.1 (c (n "pixelpwnr-server") (v "0.0.1") (d (list (d (n "atoi") (r "^1.0") (d #t) (k 0)) (d (n "bufstream") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "pixelpwnr-render") (r "^0.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("net" "rt" "rt-multi-thread" "macros" "sync" "time"))) (d #t) (k 0)))) (h "1hgv8pff51s85nj8i072hw1a06c727c1wq5li91f0pvc8yxylivs") (f (quote (("default" "binary-pixel-cmd") ("binary-pixel-cmd"))))))
+

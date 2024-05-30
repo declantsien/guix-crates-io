@@ -1,0 +1,8 @@
+(define-module (crates-io sa wt sawtk) #:use-module (crates-io))
+
+(define-public crate-sawtk-0.1.0 (c (n "sawtk") (v "0.1.0") (d (list (d (n "bs58") (r "^0.3.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "protobuf") (r "^2") (d #t) (k 0)) (d (n "protoc-rust") (r "^2.0") (d #t) (k 1)) (d (n "sawtooth-sdk") (r "^0.4.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4" "v1"))) (d #t) (k 0)))) (h "0zp74a7gpwamb1v84r4l54z1x9q8bp7crh121b5k08nrlijgw6fj")))
+
+(define-public crate-sawtk-0.1.1 (c (n "sawtk") (v "0.1.1") (d (list (d (n "bs58") (r "^0.3.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "protobuf") (r "^2") (d #t) (k 0)) (d (n "protoc-rust") (r "^2.0") (d #t) (k 1)) (d (n "sawtooth-sdk") (r "^0.4.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4" "v1"))) (d #t) (k 0)))) (h "16fyphh7zmidqf5cmx141wla7v7343cd61qckqganmgzav104cd3")))
+
+(define-public crate-sawtk-0.2.0 (c (n "sawtk") (v "0.2.0") (d (list (d (n "bs58") (r "^0.3.0") (f (quote ("check"))) (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 1)) (d (n "protobuf") (r "^2") (d #t) (k 0)) (d (n "protoc-rust") (r "^2.0") (d #t) (k 1)) (d (n "ripemd160") (r "^0.8.0") (d #t) (k 0)) (d (n "sawtooth-sdk") (r "^0.4.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4" "v1"))) (d #t) (k 0)))) (h "1sfqz26kd4858b7bg1bmzkqr7bvrbqghj8j87r8v84h9snj0n713")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io zk ro zkrollup) #:use-module (crates-io))
+
+(define-public crate-zkrollup-0.0.1 (c (n "zkrollup") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "ark-std") (r "^0.4.0") (d #t) (k 0)) (d (n "bls-12-381") (r "^0.0.23") (k 0)) (d (n "ec-pairing") (r "^0.0.14") (k 0)) (d (n "jub-jub") (r "^0.0.20") (k 0)) (d (n "parity-scale-codec") (r "^2.0.0") (f (quote ("derive"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.2.0") (k 0) (p "fullcodec_rand_xorshift")) (d (n "red-jubjub") (r "^0.0.20") (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (k 0)) (d (n "sp-std") (r "^3.0.0") (k 0)) (d (n "zkplonk") (r "^0.0.1") (k 0)) (d (n "zksnarks") (r "^0.0.1") (k 0)) (d (n "zkstd") (r "^0.0.22") (k 0)))) (h "0xcric82p1zwfi3jvw0mdrqrx81fvbi10119av6r7j3iscaqivqi")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ne ar near-decimal) #:use-module (crates-io))
+
+(define-public crate-near-decimal-2.1.0 (c (n "near-decimal") (v "2.1.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "near-sdk") (r "^3.1.0") (d #t) (k 0)) (d (n "ord_subset") (r "^3") (o #t) (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1g44ddmp4pdacgk3awf0z5zcnws8nvmky1bi9qwrhqpzhrl95rvq") (f (quote (("default" "ord_subset" "rustc-serialize" "serde")))) (y #t)))
+
+(define-public crate-near-decimal-2.2.0 (c (n "near-decimal") (v "2.2.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "near-sdk") (r "^3.1.0") (d #t) (k 0)) (d (n "ord_subset") (r "^3") (o #t) (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1nv7h012vjr0n6w2yidhnp65dzb3r6n87jvy61ajfgspd4byq20q") (f (quote (("default" "ord_subset" "rustc-serialize" "serde")))) (y #t)))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-sam) #:use-module (crates-io))
+
+(define-public crate-bitcoin-sam-0.1.12-alpha.0 (c (n "bitcoin-sam") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-network") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-service") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sock") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sync") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "0jppsjddmk692m44qwgkc9dng95knpr19qap0h9agzy7zjkxy36r")))
+
+(define-public crate-bitcoin-sam-0.1.16-alpha.0 (c (n "bitcoin-sam") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-network") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-service") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sock") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sync") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "00ich0bm9cvb6bsak7xsg2v7q1jlxgfg4kjf7y35nx8lz7az2syr")))
+

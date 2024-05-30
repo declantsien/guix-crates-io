@@ -1,0 +1,16 @@
+(define-module (crates-io ru nt runtime-tokio) #:use-module (crates-io))
+
+(define-public crate-runtime-tokio-0.0.0 (c (n "runtime-tokio") (v "0.0.0") (h "1bbinrxyld8v5l17bj5pjcrlcw2152zrhz6ad5rhrsm9gzgbyswi")))
+
+(define-public crate-runtime-tokio-0.3.0-alpha.1 (c (n "runtime-tokio") (v "0.3.0-alpha.1") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.13") (f (quote ("compat" "io-compat"))) (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "runtime-raw") (r "^0.3.0-alpha.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "0gvkmfixinas551dryvckhw8k52gz78i90cya8yhy0mc6baxplxk")))
+
+(define-public crate-runtime-tokio-0.3.0-alpha.2 (c (n "runtime-tokio") (v "0.3.0-alpha.2") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.13") (f (quote ("compat" "io-compat"))) (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "runtime-raw") (r "^0.3.0-alpha.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "0la215j41dppnpl6gp65xvxm76sks4zw3ysdz2cvrwf0xkri3w0v")))
+
+(define-public crate-runtime-tokio-0.3.0-alpha.3 (c (n "runtime-tokio") (v "0.3.0-alpha.3") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.15") (f (quote ("compat" "io-compat"))) (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "runtime-raw") (r "^0.3.0-alpha.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.19") (d #t) (k 0)))) (h "0qn4p94z3alnaxvj2bfiffrv76276hss7rxv3mn19rjn9pxikb2p")))
+
+(define-public crate-runtime-tokio-0.3.0-alpha.4 (c (n "runtime-tokio") (v "0.3.0-alpha.4") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.16") (f (quote ("compat" "io-compat"))) (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "runtime-raw") (r "^0.3.0-alpha.3") (d #t) (k 0)) (d (n "tokio") (r "^0.1.19") (d #t) (k 0)))) (h "0a14ws6q0ckx54i1qi66zzn2nf8fdmws4wav98jbx1p9ir3j1z6y")))
+
+(define-public crate-runtime-tokio-0.3.0-alpha.5 (c (n "runtime-tokio") (v "0.3.0-alpha.5") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.16") (f (quote ("compat" "io-compat"))) (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "runtime-raw") (r "^0.3.0-alpha.4") (d #t) (k 0)) (d (n "tokio") (r "^0.1.19") (d #t) (k 0)))) (h "1yrnilmwq2br8anwcfvyjglszw9pzcdpang10m2g67s8cqkya23y")))
+
+(define-public crate-runtime-tokio-0.3.0-alpha.6 (c (n "runtime-tokio") (v "0.3.0-alpha.6") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.18") (f (quote ("compat" "io-compat"))) (d #t) (k 0)) (d (n "futures01") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "runtime-raw") (r "^0.3.0-alpha.5") (d #t) (k 0)) (d (n "tokio") (r "^0.1.19") (d #t) (k 0)))) (h "1mf5fyh164i4m5rj1j45hs7dwv1k4m1xckq0apa6y4c99gwzhq3a")))
+

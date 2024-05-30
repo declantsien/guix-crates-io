@@ -1,0 +1,8 @@
+(define-module (crates-io sa pi sapio-base) #:use-module (crates-io))
+
+(define-public crate-sapio-base-0.1.0 (c (n "sapio-base") (v "0.1.0") (d (list (d (n "bitcoin") (r "^0.26.0") (f (quote ("use-serde" "rand"))) (d #t) (k 0) (p "sapio-bitcoin")) (d (n "miniscript") (r "^5.1.0") (f (quote ("compiler" "use-serde" "rand" "use-schemars" "serde"))) (d #t) (k 0) (p "sapio-miniscript")) (d (n "schemars") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1xwxf0r4b079wdjr1r79wygybz4q65f25l4mj43dmdingz180332")))
+
+(define-public crate-sapio-base-0.2.0 (c (n "sapio-base") (v "0.2.0") (d (list (d (n "bitcoin") (r "^0.26.0") (f (quote ("use-serde" "rand"))) (d #t) (k 0) (p "sapio-bitcoin")) (d (n "miniscript") (r "^5.1.0") (f (quote ("compiler" "use-serde" "rand" "use-schemars" "serde"))) (d #t) (k 0) (p "sapio-miniscript")) (d (n "schemars") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1fwn1af78dbjyi27dx6dq85nrhl0rsp0s3c5xi9g0l9kp4abvn3h")))
+
+(define-public crate-sapio-base-0.2.4 (c (n "sapio-base") (v "0.2.4") (d (list (d (n "bitcoin") (r "^0.28.2") (f (quote ("use-serde"))) (d #t) (k 0) (p "sapio-bitcoin")) (d (n "miniscript") (r "^7.0.1") (f (quote ("compiler" "use-serde" "use-schemars" "serde"))) (d #t) (k 0) (p "sapio-miniscript")) (d (n "schemars") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "19jxh717dg9249lqsbyns6q31zd8bm611wfrd9bnqhkinj9pspbg")))
+

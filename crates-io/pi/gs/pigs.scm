@@ -1,0 +1,8 @@
+(define-module (crates-io pi gs pigs) #:use-module (crates-io))
+
+(define-public crate-pigs-0.1.0 (c (n "pigs") (v "0.1.0") (d (list (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand" "std"))) (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (f (quote ("rand" "std"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (f (quote ("num-complex" "rust_decimal" "auto-initialize" "num-bigint"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.29.1") (f (quote ("rand" "std"))) (d #t) (k 0)))) (h "12s84mah45v3vki3fva8ll4ha8c78z8dfidlzri9a43f1j8w2qwa")))
+
+(define-public crate-pigs-0.1.1 (c (n "pigs") (v "0.1.1") (d (list (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand" "std"))) (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (f (quote ("rand" "std"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (f (quote ("auto-initialize" "num-complex" "rust_decimal" "num-bigint"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.29.1") (f (quote ("rand" "std"))) (d #t) (k 0)))) (h "1g8c56mg85xwal2pxknjqszygij6c3nl79wkwf211rdginw7hj3w")))
+
+(define-public crate-pigs-0.1.2 (c (n "pigs") (v "0.1.2") (d (list (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand" "std"))) (d #t) (k 0)) (d (n "num-complex") (r "^0.4.3") (f (quote ("rand" "std"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (f (quote ("auto-initialize" "num-complex" "rust_decimal" "num-bigint"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.29.1") (f (quote ("rand" "std"))) (d #t) (k 0)))) (h "1ld3p33z2p0qways3g0cpnz5fkrmhy8wlzndr1drb01v81hlxad2") (r "1.71")))
+

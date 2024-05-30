@@ -1,0 +1,16 @@
+(define-module (crates-io re bo rebound) #:use-module (crates-io))
+
+(define-public crate-rebound-0.0.1 (c (n "rebound") (v "0.0.1") (d (list (d (n "ctor") (r "^0.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.9") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rebound-proc") (r "^0.0.1") (d #t) (k 0)))) (h "1h5s9a2isnll9ygyasf5vxac7sbjqzmkcpirxklnkr277nh86bgx") (f (quote (("std") ("never-type") ("default" "std")))) (y #t)))
+
+(define-public crate-rebound-0.1.0 (c (n "rebound") (v "0.1.0") (d (list (d (n "rebound-proc") (r "^0.1.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1scxhpqivm2gn38jjazbq1bqba71hmyv39p34wh4kljgb6aa56sj") (f (quote (("std") ("never-type") ("default" "core" "std") ("core")))) (y #t)))
+
+(define-public crate-rebound-0.2.0 (c (n "rebound") (v "0.2.0") (d (list (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rebound-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1lxk4ldaryn1qvp960v7crgpzhcw4rfg6z0xpmfh3arc28akmwpz") (f (quote (("std") ("never-type") ("default" "core" "alloc" "std") ("core") ("alloc")))) (y #t)))
+
+(define-public crate-rebound-0.3.0 (c (n "rebound") (v "0.3.0") (d (list (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rebound-proc") (r "^0.3.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "13ahh51rnsqa543nxdfylfchmsmmlnl0rp9sk1sz4yfrdzvqh865") (f (quote (("std") ("never-type") ("default" "core" "alloc" "std") ("core") ("alloc") ("all-features" "never-type") ("all-crates" "core" "alloc" "std"))))))
+
+(define-public crate-rebound-0.4.2 (c (n "rebound") (v "0.4.2") (d (list (d (n "craft-eraser") (r "^0.3.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rebound-proc") (r "^0.3.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "14ips9g1qggdkmpxwgsynrqwj0hv3mivmka3a691vpkxc3nlv0xh") (f (quote (("std") ("never-type") ("default" "core" "alloc" "std") ("core") ("alloc") ("all-features" "never-type") ("all-crates" "core" "alloc" "std"))))))
+
+(define-public crate-rebound-0.4.3 (c (n "rebound") (v "0.4.3") (d (list (d (n "craft-eraser") (r "^0.3.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rebound-proc") (r "^0.3.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1nzcjxrxi83cm98wf5vq926f7nvhyd786l03cq76d4is5ff11zca") (f (quote (("std" "core" "alloc") ("never-type") ("default" "core" "alloc" "std") ("core") ("alloc" "core") ("all-features" "never-type") ("all-crates" "core" "alloc" "std"))))))
+
+(define-public crate-rebound-0.4.4 (c (n "rebound") (v "0.4.4") (d (list (d (n "craft-eraser") (r "^0.3.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "impl-trait-for-tuples") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rebound-proc") (r "^0.4.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1yhl4gpn0v1ip7b47q4rn8kx94388z6kkmpz7knq5j9ywd2x01mf") (f (quote (("std" "core" "alloc") ("never-type") ("default" "core" "alloc" "std") ("core") ("alloc" "core") ("all-features" "never-type") ("all-crates" "core" "alloc" "std"))))))
+

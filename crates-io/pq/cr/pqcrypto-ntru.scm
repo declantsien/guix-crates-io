@@ -1,0 +1,34 @@
+(define-module (crates-io pq cr pqcrypto-ntru) #:use-module (crates-io))
+
+(define-public crate-pqcrypto-ntru-0.1.0 (c (n "pqcrypto-ntru") (v "0.1.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.1.0") (d #t) (k 0)))) (h "1q5143x6ah8yi5rdf7valadjh52pd67qjs8had6mjh1chp2dwymr")))
+
+(define-public crate-pqcrypto-ntru-0.2.0 (c (n "pqcrypto-ntru") (v "0.2.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-internals") (r "^0.1.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.2.0") (d #t) (k 0)))) (h "0nfwaxj9xq5h3ri68k6kf2w5x0jk6wrf8lpj255qg58kldfya30b")))
+
+(define-public crate-pqcrypto-ntru-0.2.1 (c (n "pqcrypto-ntru") (v "0.2.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-internals") (r "^0.1.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.2.0") (d #t) (k 0)))) (h "1vpf9yg8rpb0lr6zahh9zv1ipsyz6pa4xdiqzjqbi41qlnvxl0rf")))
+
+(define-public crate-pqcrypto-ntru-0.2.2 (c (n "pqcrypto-ntru") (v "0.2.2") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-internals") (r "^0.1.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.2.0") (d #t) (k 0)))) (h "1nfwajribfvi51mmq1rsdn4r3c31ac9c84pr4nik5zpfm34vprxv")))
+
+(define-public crate-pqcrypto-ntru-0.3.1 (c (n "pqcrypto-ntru") (v "0.3.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.0") (d #t) (k 0)))) (h "0pk8nbvqfg1i1q7akpicvrwd05d22ckmw36q0vpd7riz3wbmisrh")))
+
+(define-public crate-pqcrypto-ntru-0.4.0 (c (n "pqcrypto-ntru") (v "0.4.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.0") (d #t) (k 0)))) (h "0285s16z79wn5g0h2q0v25z72pldlkjm5cdizk92smffnhim06b9")))
+
+(define-public crate-pqcrypto-ntru-0.4.1 (c (n "pqcrypto-ntru") (v "0.4.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.0") (d #t) (k 0)))) (h "0d3ld7ndpzxz5cxmawx1lchzbr9hlwh8rjh5vyq527v4rsh69h5q")))
+
+(define-public crate-pqcrypto-ntru-0.4.2 (c (n "pqcrypto-ntru") (v "0.4.2") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.2") (d #t) (k 0)))) (h "0w3h61c5z3xqhp5wzqfzbr0pk3j10gbq0mb0zjianz5aq51n9lv7")))
+
+(define-public crate-pqcrypto-ntru-0.5.0 (c (n "pqcrypto-ntru") (v "0.5.0") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.2") (d #t) (k 0)))) (h "1q2yl88q5z0yxi58hxna5k36b8xv91gh0n3w3gkq20r90pny165k")))
+
+(define-public crate-pqcrypto-ntru-0.5.1 (c (n "pqcrypto-ntru") (v "0.5.1") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.2") (d #t) (k 0)))) (h "1pdbd5k5w883k9piy5gjl0npsx2q8bzmmgi0m3cbzkksiqhqgjdq")))
+
+(define-public crate-pqcrypto-ntru-0.5.2 (c (n "pqcrypto-ntru") (v "0.5.2") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.2") (d #t) (k 0)))) (h "0f4zlw1b27ylw1qm0bwbyrvxqq81nk1qx8m0hilm6df6p66wg3j1") (f (quote (("default" "avx2") ("avx2"))))))
+
+(define-public crate-pqcrypto-ntru-0.5.3 (c (n "pqcrypto-ntru") (v "0.5.3") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.2") (d #t) (k 0)))) (h "0018dac73jqxnjl31zyv8aidgslw4y06nl5s304cadf2yyxwsilq") (f (quote (("default" "avx2") ("avx2"))))))
+
+(define-public crate-pqcrypto-ntru-0.5.4 (c (n "pqcrypto-ntru") (v "0.5.4") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-big-array") (r "^0.3.2") (f (quote ("const-generics"))) (o #t) (d #t) (k 0)))) (h "05y14amny6kv8qzghzhalih268g9sfipbad1dwnc3106yzr1zsf5") (f (quote (("serialization" "serde" "serde-big-array") ("default" "avx2") ("avx2"))))))
+
+(define-public crate-pqcrypto-ntru-0.5.6 (c (n "pqcrypto-ntru") (v "0.5.6") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-internals") (r "^0.2") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.4") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-big-array") (r "^0.3.2") (f (quote ("const-generics"))) (o #t) (d #t) (k 0)))) (h "1i54za8cxxz37kkydhwy9vaxdcwgqhdbbnlqbq4cgnjz98585z1d") (f (quote (("std" "pqcrypto-traits/std") ("serialization" "serde" "serde-big-array") ("default" "avx2" "std") ("avx2" "std"))))))
+
+(define-public crate-pqcrypto-ntru-0.5.7 (c (n "pqcrypto-ntru") (v "0.5.7") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-internals") (r "^0.2") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.4") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-big-array") (r "^0.3.2") (f (quote ("const-generics"))) (o #t) (d #t) (k 0)))) (h "13zmgqyvzc6i7spm79xax14rz1a1j5g1ssr02vdj1ihq17kx3iqf") (f (quote (("std" "pqcrypto-traits/std") ("serialization" "serde" "serde-big-array") ("default" "avx2" "std") ("avx2" "std"))))))
+
+(define-public crate-pqcrypto-ntru-0.5.8 (c (n "pqcrypto-ntru") (v "0.5.8") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.0") (d #t) (k 0)) (d (n "pqcrypto-internals") (r "^0.2") (d #t) (k 0)) (d (n "pqcrypto-traits") (r "^0.3.4") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-big-array") (r "^0.3.2") (f (quote ("const-generics"))) (o #t) (d #t) (k 0)))) (h "0wnq7j74hcna08b4wvf2hwpzkbsc18kzi526y8djnkr2jmn59msz") (f (quote (("std" "pqcrypto-traits/std") ("serialization" "serde" "serde-big-array") ("default" "avx2" "std") ("avx2" "std"))))))
+

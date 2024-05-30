@@ -1,0 +1,12 @@
+(define-module (crates-io pr ot prototty_menu) #:use-module (crates-io))
+
+(define-public crate-prototty_menu-0.26.0 (c (n "prototty_menu") (v "0.26.0") (d (list (d (n "prototty_input") (r "^0.26") (d #t) (k 0)) (d (n "prototty_render") (r "^0.26") (d #t) (k 0)) (d (n "prototty_text") (r "^0.26") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1hch04gvmr27d5fynp6p91avdmav0d6fnwm36z5k7rslblfmvcz3") (f (quote (("serialize" "serde" "prototty_render/serialize" "prototty_text/serialize" "prototty_input/serialize"))))))
+
+(define-public crate-prototty_menu-0.26.1 (c (n "prototty_menu") (v "0.26.1") (d (list (d (n "prototty_input") (r "^0.26") (d #t) (k 0)) (d (n "prototty_render") (r "^0.26") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "1ym05s734z9zrhgidmdc4zg6da70rsjnx795bnnn0cz8jqyn60wc") (f (quote (("serialize" "serde" "prototty_render/serialize" "prototty_input/serialize"))))))
+
+(define-public crate-prototty_menu-0.27.0 (c (n "prototty_menu") (v "0.27.0") (d (list (d (n "prototty_input") (r "^0.27") (d #t) (k 0)) (d (n "prototty_render") (r "^0.27") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0fybr7zsi4f63chvg8nm81frp18r58isx5gh97k4f0zk2ycwh2f0") (f (quote (("serialize" "serde" "prototty_render/serialize" "prototty_input/serialize"))))))
+
+(define-public crate-prototty_menu-0.28.0 (c (n "prototty_menu") (v "0.28.0") (d (list (d (n "prototty_event_routine") (r "^0.28") (d #t) (k 0)) (d (n "prototty_input") (r "^0.28") (d #t) (k 0)) (d (n "prototty_render") (r "^0.28") (d #t) (k 0)) (d (n "prototty_text") (r "^0.28") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0gypqgkssf783fjcqsq9rwraxf5h3dqj6k1pfac4m5rilhgwsgbk") (f (quote (("serialize" "serde" "prototty_render/serialize" "prototty_input/serialize"))))))
+
+(define-public crate-prototty_menu-0.29.0 (c (n "prototty_menu") (v "0.29.0") (d (list (d (n "prototty_event_routine") (r "^0.29") (d #t) (k 0)) (d (n "prototty_input") (r "^0.29") (d #t) (k 0)) (d (n "prototty_render") (r "^0.29") (d #t) (k 0)) (d (n "prototty_text") (r "^0.29") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)))) (h "0w9kx657nsnbipxv3yxdi3hd6zrx5g3v45m42f0fipg3hldggc7v") (f (quote (("serialize" "serde" "prototty_render/serialize" "prototty_input/serialize"))))))
+

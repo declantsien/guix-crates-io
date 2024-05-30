@@ -1,0 +1,8 @@
+(define-module (crates-io ti me timeleft) #:use-module (crates-io))
+
+(define-public crate-timeleft-1.0.0 (c (n "timeleft") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)))) (h "12abgcg3i2r8y2gz3pxgr0z187wibhgk3mckijwqpx1sk69f9nbr")))
+
+(define-public crate-timeleft-1.1.0 (c (n "timeleft") (v "1.1.0") (d (list (d (n "base64") (r "^0.22.1") (d #t) (t "cfg(target_family=\"wasm\")") (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (t "cfg(not(target_family=\"wasm\"))") (k 0)) (d (n "libtimeleft") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.92") (d #t) (t "cfg(target_family=\"wasm\")") (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.34") (d #t) (t "cfg(target_family=\"wasm\")") (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlElement" "Node" "Window" "HtmlParagraphElement" "HtmlInputElement" "Blob" "UrlSearchParams" "Location"))) (d #t) (t "cfg(target_family=\"wasm\")") (k 0)))) (h "1ksyqbsgwmh4amcwg13d5fxj01ksy52lsl4qnij3df42g2psfjsi") (f (quote (("for_web"))))))
+
+(define-public crate-timeleft-1.1.1 (c (n "timeleft") (v "1.1.1") (d (list (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2.155") (d #t) (k 0)) (d (n "libtimeleft") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)))) (h "09cpbm0qq91hga0d2rjpr6fnmmyzrl191s3wyim242x6ppkzjq8i")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io no m- nom-kconfig) #:use-module (crates-io))
+
+(define-public crate-nom-kconfig-0.1.0 (c (n "nom-kconfig") (v "0.1.0") (d (list (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom_locate") (r "^4.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "15fms80fzh6567vm2gnih5q3fk8kyq8mb0avpsrr5xqfiy9m57s1") (f (quote (("hash") ("display") ("default" "display" "hash" "serialize" "deserialize")))) (s 2) (e (quote (("serialize" "dep:serde") ("deserialize" "dep:serde")))) (r "1.71")))
+
+(define-public crate-nom-kconfig-0.2.0 (c (n "nom-kconfig") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom_locate") (r "^4.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1svvfalh5rclhc28a9axkf9hk3zkmzf1sqrgddnxjb1c7rh0f5zs") (f (quote (("hash") ("display") ("default" "display" "hash" "serialize" "deserialize")))) (s 2) (e (quote (("serialize" "dep:serde") ("deserialize" "dep:serde")))) (r "1.56")))
+

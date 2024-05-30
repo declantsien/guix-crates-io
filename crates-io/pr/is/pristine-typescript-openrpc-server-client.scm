@@ -1,0 +1,6 @@
+(define-module (crates-io pr is pristine-typescript-openrpc-server-client) #:use-module (crates-io))
+
+(define-public crate-pristine-typescript-openrpc-server-client-1.1.2 (c (n "pristine-typescript-openrpc-server-client") (v "1.1.2") (d (list (d (n "autorand") (r "^0.2.2") (f (quote ("json" "json-value-always-null" "limited-integers"))) (d #t) (k 2)) (d (n "failure") (r "^0.1.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.25") (d #t) (k 2)) (d (n "jsonrpc-client-core") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1ll8ncla1y81hix5i704vrsggf9ai0r7d6ckwkr668cicilrryq8")))
+
+(define-public crate-pristine-typescript-openrpc-server-client-1.1.3 (c (n "pristine-typescript-openrpc-server-client") (v "1.1.3") (d (list (d (n "autorand") (r "^0.2.2") (f (quote ("json" "json-value-always-null" "limited-integers"))) (d #t) (k 2)) (d (n "failure") (r "^0.1.5") (d #t) (k 2)) (d (n "futures") (r "^0.1.25") (d #t) (k 2)) (d (n "jsonrpc-client-core") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "17qqkcb5yb1zn65vahcrjcjlxa1fn2kaf3vk8kih73yv0ldmdnr0")))
+

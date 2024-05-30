@@ -1,0 +1,4 @@
+(define-module (crates-io in di indigo-structopt) #:use-module (crates-io))
+
+(define-public crate-indigo-structopt-0.3.21 (c (n "indigo-structopt") (v "0.3.21") (d (list (d (n "clap") (r "^2.33") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paw_dep") (r "^1") (o #t) (d #t) (k 0) (p "paw")) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "structopt-derive") (r "=0.4.14") (d #t) (k 0) (p "indigo-structopt-derive")) (d (n "trybuild") (r "^1.0.5") (f (quote ("diff"))) (d #t) (k 2)))) (h "0s1j6f8dy7lhhybbp9qs48j66yl2fz2jqfhi7w4addrcnpq26y65") (f (quote (("yaml" "clap/yaml") ("wrap_help" "clap/wrap_help") ("suggestions" "clap/suggestions") ("paw" "structopt-derive/paw" "paw_dep") ("no_cargo" "clap/no_cargo") ("lints" "clap/lints") ("doc" "clap/doc") ("default" "clap/default") ("debug" "clap/debug") ("color" "clap/color"))))))
+

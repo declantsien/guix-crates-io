@@ -1,0 +1,4 @@
+(define-module (crates-io li gh lightningd) #:use-module (crates-io))
+
+(define-public crate-lightningd-0.1.0 (c (n "lightningd") (v "0.1.0") (d (list (d (n "bitcoind") (r "^0.24.0") (d #t) (k 0)) (d (n "clightningrpc") (r "^0.2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "08y66fjjdpnwzgh54dj5ghpq1ssnr5nb4rc1w6lnsw48h8qk5yfs") (f (quote (("bitcoind_22_0" "bitcoind/22_0") ("bitcoind_0_21_1" "bitcoind/0_21_1") ("bitcoind_0_21_0" "bitcoind/0_21_0") ("bitcoind_0_20_1" "bitcoind/0_20_1") ("bitcoind_0_20_0" "bitcoind/0_20_0") ("bitcoind_0_19_1" "bitcoind/0_19_1") ("bitcoind_0_19_0_1" "bitcoind/0_19_0_1") ("bitcoind_0_18_1" "bitcoind/0_18_1") ("bitcoind_0_18_0" "bitcoind/0_18_0") ("bitcoind_0_17_1" "bitcoind/0_17_1"))))))
+

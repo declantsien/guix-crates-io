@@ -1,0 +1,4 @@
+(define-module (crates-io ru na runa-macros) #:use-module (crates-io))
+
+(define-public crate-runa-macros-0.0.1-alpha1 (c (n "runa-macros") (v "0.0.1-alpha1") (d (list (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.53") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("visit-mut"))) (d #t) (k 0)) (d (n "futures-executor") (r "^0.3") (d #t) (k 2)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "futures-task") (r "^0.3.24") (d #t) (k 2)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 2)) (d (n "runa-io") (r "^0.0.1-alpha1") (d #t) (k 2)) (d (n "runa-wayland-scanner") (r "^0.1.0") (d #t) (k 2)))) (h "1rrs5b865qmjkcbb05wlz7ka0w7n13xdp42yy9hx0pb6f264arkn") (f (quote (("tracing") ("default" "tracing"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ds to dstore) #:use-module (crates-io))
+
+(define-public crate-dstore-0.1.0 (c (n "dstore") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync" "stream" "time"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3.0") (d #t) (k 1)))) (h "07hncfpxzyqaavb2nynin4migd93q47ccwdid6gdyaxbhlk1jpyq") (y #t)))
+
+(define-public crate-dstore-0.1.1 (c (n "dstore") (v "0.1.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync" "stream" "time"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3.0") (d #t) (k 1)))) (h "0f561x7bjmylg648rzk342bh55n1daylgm5krzd47aviaamd0jdf") (y #t)))
+
+(define-public crate-dstore-0.1.2 (c (n "dstore") (v "0.1.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "sync" "stream" "time"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3.0") (d #t) (k 1)))) (h "1nbq6g04r8dg04fffawcvgpih88rch3c3qzvspm2y15q08sp7rds") (y #t)))
+
+(define-public crate-dstore-0.2.0 (c (n "dstore") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.5") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tonic") (r "^0.4") (d #t) (k 0)) (d (n "tonic-build") (r "^0.4") (d #t) (k 1)))) (h "191syiink3zbjk401mgwlsvpy3viy81qa34gv1syplwhyf83fvck")))
+

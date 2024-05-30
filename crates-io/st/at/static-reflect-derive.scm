@@ -1,0 +1,14 @@
+(define-module (crates-io st at static-reflect-derive) #:use-module (crates-io))
+
+(define-public crate-static-reflect-derive-0.1.0 (c (n "static-reflect-derive") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "static-reflect") (r "^0.1.0") (d #t) (k 2)) (d (n "static-reflect-derive-internals") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "0m3vpw6275bgmrfhbwjfvgk4kkjlz20bxzg12ixx7vxjvar7vy25")))
+
+(define-public crate-static-reflect-derive-0.1.7 (c (n "static-reflect-derive") (v "0.1.7") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "static-reflect") (r "^0.1.0") (d #t) (k 2)) (d (n "static-reflect-derive-internals") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "0lxklil56ymjqvsbi6nmg8vl8758cc7j34a2dn99b8h9q88338f1")))
+
+(define-public crate-static-reflect-derive-0.2.0-alpha.1 (c (n "static-reflect-derive") (v "0.2.0-alpha.1") (d (list (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "static-reflect") (r "^0.2.0-alpha.1") (d #t) (k 2)) (d (n "static-reflect-derive-internals") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "0l8xmaggf5x445h0irv005chpy9c3pcq90zbpji7bds5qkpav95r")))
+
+(define-public crate-static-reflect-derive-0.2.0-alpha.2 (c (n "static-reflect-derive") (v "0.2.0-alpha.2") (d (list (d (n "indexmap") (r "^1.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "static-reflect") (r "^0.2.0-alpha.2") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "15jxp02ls0amzmvza207yd0izfdfzi5y867w20xi2q3vk8v3rxks")))
+
+(define-public crate-static-reflect-derive-0.2.0-alpha.3 (c (n "static-reflect-derive") (v "0.2.0-alpha.3") (d (list (d (n "indexmap") (r "^1.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "static-reflect") (r "^0.2.0-alpha.2") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1k5z8k64yxm2gzvy429k3j68yqyn9m92xgwv5zdwda5mqpb5xb88")))
+
+(define-public crate-static-reflect-derive-0.2.0-alpha.6 (c (n "static-reflect-derive") (v "0.2.0-alpha.6") (d (list (d (n "indexmap") (r "^1.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "static-reflect") (r "^0.2.0-alpha.2") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1a9j46a5nqmnzm9sc7l73lg4c52afglyvfn9dvcjywfa2wailcsl")))
+

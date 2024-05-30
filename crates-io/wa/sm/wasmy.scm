@@ -1,0 +1,26 @@
+(define-module (crates-io wa sm wasmy) #:use-module (crates-io))
+
+(define-public crate-wasmy-0.2.0 (c (n "wasmy") (v "0.2.0") (h "10afcphw57nkmx2b4yhvv3p90rjki6ifhz44b0m2hnjbb4gzbs1y")))
+
+(define-public crate-wasmy-0.3.0 (c (n "wasmy") (v "0.3.0") (h "187zgpwhfn92nk8k5jh7dmwm7i8vkgk0swnha3wfddh0351da4b7")))
+
+(define-public crate-wasmy-0.3.1 (c (n "wasmy") (v "0.3.1") (h "09m7a41kz4kplnwfn08fkac9bjmqa3z2xrk811wk5h91pymmf5ff")))
+
+(define-public crate-wasmy-0.3.2 (c (n "wasmy") (v "0.3.2") (h "0d3yy9ap06a5frdijwwpijh04y7d43m360zwcyd7idp9pdsym9vk")))
+
+(define-public crate-wasmy-0.3.3 (c (n "wasmy") (v "0.3.3") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.3.3") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.3.3") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "111i22cx99lk9ps14kglzvjw1jh0ym12xh8jrr4mc0lsvk8jlnjk")))
+
+(define-public crate-wasmy-0.4.0 (c (n "wasmy") (v "0.4.0") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.4.0") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.4.0") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "0gw2j1jaj4mw3wcsv8cf8c1z7xnlfyq80pxc6z0jbz428xldc377")))
+
+(define-public crate-wasmy-0.4.1 (c (n "wasmy") (v "0.4.1") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.4.1") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.4.1") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "0321w2zw6wbw0jw2423r2fkkpawvr2djkn170jv60ihnj3410jb2")))
+
+(define-public crate-wasmy-0.4.2 (c (n "wasmy") (v "0.4.2") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.4.2") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.4.2") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "15zlw1qlriqkj8y4s2lgcaks17jw6qnysc5nlnr4bh7ra9lf3n42")))
+
+(define-public crate-wasmy-0.5.0 (c (n "wasmy") (v "0.5.0") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.5.0") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.5.0") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "0z88423m05597s431crqi2b515bjp3z3r8mxmay45d46c1nx05wm")))
+
+(define-public crate-wasmy-0.5.1 (c (n "wasmy") (v "0.5.1") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.5.1") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.5.1") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "09vi2gqrnphc1766ijy3nh4z6gx2n20ha7cfv5f8sll098w8y6rw")))
+
+(define-public crate-wasmy-0.5.5 (c (n "wasmy") (v "0.5.5") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "wasmy-abi") (r "^0.5.5") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasmy-vm") (r "^0.5.5") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)))) (h "19jvi2ggivqr5c638mjqh34zgj4ng918qglw35gg5s3arzy1dyy4")))
+
+(define-public crate-wasmy-0.5.6 (c (n "wasmy") (v "0.5.6") (d (list (d (n "rand") (r "^0.8.4") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)) (d (n "structopt") (r "^0.3") (f (quote ("color"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)) (d (n "wasmy-abi") (r "^0.5.6") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)) (d (n "wasmy-vm") (r "^0.5.6") (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 2)))) (h "1k902wbh5s5bxdyhhzzmmh9am5f3ni5s0g8gxrzzsqjz23k23m0x")))
+

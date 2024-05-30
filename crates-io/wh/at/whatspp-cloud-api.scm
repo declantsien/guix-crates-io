@@ -1,0 +1,6 @@
+(define-module (crates-io wh at whatspp-cloud-api) #:use-module (crates-io))
+
+(define-public crate-whatspp-cloud-api-0.1.0 (c (n "whatspp-cloud-api") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 2)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("full"))) (d #t) (k 2)))) (h "019j287pdjwwdw5qxh0k0am17nxfv7imyw732w2gac15vv7ri0mr") (y #t)))
+
+(define-public crate-whatspp-cloud-api-0.1.1 (c (n "whatspp-cloud-api") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 2)))) (h "095sp0spl7gl75d9j7gcm9i1n7i1fl75j86pb508ip2gm912d4lp") (y #t)))
+

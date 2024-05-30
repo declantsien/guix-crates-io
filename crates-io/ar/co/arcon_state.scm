@@ -1,0 +1,6 @@
+(define-module (crates-io ar co arcon_state) #:use-module (crates-io))
+
+(define-public crate-arcon_state-0.2.0 (c (n "arcon_state") (v "0.2.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.10") (d #t) (k 0)) (d (n "metrics") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.3") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "rocksdb") (r "^0.17") (f (quote ("lz4"))) (o #t) (k 0)) (d (n "sled") (r "^0.34") (o #t) (d #t) (k 0)) (d (n "snafu") (r "^0.6") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1bhfnr4q0ryc2fnz36dw2ldsgkw1j4nbkavlq1zy82kshj3xhd3j") (f (quote (("sled_checkpoints" "sled") ("rocks" "rocksdb") ("default" "sled" "sled_checkpoints"))))))
+
+(define-public crate-arcon_state-0.2.1 (c (n "arcon_state") (v "0.2.1") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.10") (d #t) (k 0)) (d (n "metrics") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "rocksdb") (r "^0.17") (f (quote ("lz4"))) (o #t) (k 0)) (d (n "sled") (r "^0.34") (o #t) (d #t) (k 0)) (d (n "snafu") (r "^0.6") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1zsgrsbj87ccsjnadirhv2xfhh63g91xk1i2pahwidq8rqj060d6") (f (quote (("sled_checkpoints" "sled") ("rocks" "rocksdb") ("default" "sled" "sled_checkpoints"))))))
+

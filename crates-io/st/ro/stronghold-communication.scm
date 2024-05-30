@@ -1,0 +1,4 @@
+(define-module (crates-io st ro stronghold-communication) #:use-module (crates-io))
+
+(define-public crate-stronghold-communication-0.4.1 (c (n "stronghold-communication") (v "0.4.1") (d (list (d (n "async-std") (r "^1.6") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libp2p") (r "^0.37") (f (quote ("dns-async-std" "identify" "mdns" "noise" "relay" "request-response" "tcp-async-io" "yamux" "websocket"))) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "riker") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "stronghold-utils") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1p5k0pzi46w712g6v1w5y1s6kjqmrhx9hnxn91hrd07gn5g355jq") (f (quote (("mdns") ("default" "mdns"))))))
+

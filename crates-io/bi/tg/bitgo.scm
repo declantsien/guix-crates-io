@@ -1,0 +1,8 @@
+(define-module (crates-io bi tg bitgo) #:use-module (crates-io))
+
+(define-public crate-bitgo-0.0.1 (c (n "bitgo") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "05q6g73x60y7l3ydgsnlpyr0hdhjsch23mglzqlnj2fw5wci8qp5")))
+
+(define-public crate-bitgo-0.0.2 (c (n "bitgo") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "085nbga3aj78hj2q1xhc6y2b93ppq327zf29ahi534q29daql8fz")))
+
+(define-public crate-bitgo-0.0.3 (c (n "bitgo") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "01nxcqidag7x6wpfcfihj3agw5n8km7f2x83hw9n8fyx0nl4nhjr")))
+

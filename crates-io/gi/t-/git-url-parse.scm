@@ -1,0 +1,24 @@
+(define-module (crates-io gi t- git-url-parse) #:use-module (crates-io))
+
+(define-public crate-git-url-parse-0.0.1 (c (n "git-url-parse") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "strum") (r "^0.17") (d #t) (k 0)) (d (n "strum_macros") (r "^0.17") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1ja5djh1lrrz75sxwf0mqdrl6ib8gbpqiylqa4a3pil5rzq9d58q")))
+
+(define-public crate-git-url-parse-0.1.0 (c (n "git-url-parse") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "strum") (r "^0.17") (d #t) (k 0)) (d (n "strum_macros") (r "^0.17") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1gk65wyr11fkwip5vd0x4nf1n1jabb54q4qmm59m5lgjvyamibd1")))
+
+(define-public crate-git-url-parse-0.1.1 (c (n "git-url-parse") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "strum") (r "^0.18") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "00r14jbm67729m23z5sbc65m9rjzz325g626c4fqaym1j411nvln")))
+
+(define-public crate-git-url-parse-0.2.0 (c (n "git-url-parse") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "strum") (r "^0.18") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0sljprav8v4gpbyf9hdyxrmga12lz0p1l0f9r81l1fpm2a2zjyvj")))
+
+(define-public crate-git-url-parse-0.3.0 (c (n "git-url-parse") (v "0.3.0") (d (list (d (n "anyhow") (r "~1.0") (d #t) (k 0)) (d (n "env_logger") (r "~0.7") (d #t) (k 2)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "regex") (r "~1.3") (d #t) (k 0)) (d (n "strum") (r "~0.18") (d #t) (k 0)) (d (n "strum_macros") (r "~0.18") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "01jmi2d6kg6v85jns13ggl5mkz5bilvkp5yq4jzpsjlzfqz7bjs9")))
+
+(define-public crate-git-url-parse-0.3.1 (c (n "git-url-parse") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1ab4z7a7mpfisdzcv2ry6c8zznin4q2dbh4yvxqk1lkgvcd3nvmd")))
+
+(define-public crate-git-url-parse-0.4.0 (c (n "git-url-parse") (v "0.4.0") (d (list (d (n "color-eyre") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "strum") (r "^0.22") (d #t) (k 0)) (d (n "strum_macros") (r "^0.22") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0k3hzwyqdcdivxbkwiilyvgvw7ghprhv6k6jgdpb9cap9563l8jb")))
+
+(define-public crate-git-url-parse-0.4.1 (c (n "git-url-parse") (v "0.4.1") (d (list (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1vfj3japg6gga1jh68f0li77p999bj5zhips9m85p1648ks62iwy")))
+
+(define-public crate-git-url-parse-0.4.2 (c (n "git-url-parse") (v "0.4.2") (d (list (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "07dc2l9dgxxw7hwhkmghw78p49546w10dw60yh8qzl5rjzd5vblk")))
+
+(define-public crate-git-url-parse-0.4.3 (c (n "git-url-parse") (v "0.4.3") (d (list (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0dnp03fgacvpawjlyw4g2qmw42ng1rn5hf78pb5wkp3zqcdiva8v")))
+
+(define-public crate-git-url-parse-0.4.4 (c (n "git-url-parse") (v "0.4.4") (d (list (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0wksgcdbb3fpn8gl564nl3p01ai8zzqiyc30wq8vga6lkm2gfdxh")))
+

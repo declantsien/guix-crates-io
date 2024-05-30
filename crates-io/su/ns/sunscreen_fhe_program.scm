@@ -1,0 +1,14 @@
+(define-module (crates-io su ns sunscreen_fhe_program) #:use-module (crates-io))
+
+(define-public crate-sunscreen_fhe_program-0.5.0 (c (n "sunscreen_fhe_program") (v "0.5.0") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "seal_fhe") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 2)))) (h "1pbbjq25p3ps6rr8mzm1pl04wfh0jaw7cn8d87mddl5wd9yjrw8v") (r "1.60.0")))
+
+(define-public crate-sunscreen_fhe_program-0.6.0 (c (n "sunscreen_fhe_program") (v "0.6.0") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "seal_fhe") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 2)))) (h "1n107b5yi4dpvsqza0xzfrsmaz319a03j3hijz6wmab2ajw3cprz") (r "1.60.0")))
+
+(define-public crate-sunscreen_fhe_program-0.6.1 (c (n "sunscreen_fhe_program") (v "0.6.1") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "seal_fhe") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 2)))) (h "17lvmp6ig02yi6qy67p5f9nk3bkkv3pc4ivpicqpigjyc73488gc") (r "1.60.0")))
+
+(define-public crate-sunscreen_fhe_program-0.7.0 (c (n "sunscreen_fhe_program") (v "0.7.0") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "seal_fhe") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 2)))) (h "1np6fv9hzk7j1bjs459s1xggg3nj2n9qi8kz2ylb16lq2b2cp7sz") (r "1.56.0")))
+
+(define-public crate-sunscreen_fhe_program-0.8.0 (c (n "sunscreen_fhe_program") (v "0.8.0") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "seal_fhe") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.74") (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "sunscreen_compiler_common") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "1361cqihivn760xbwd6ic4nir7fpa69r18kbs0vl79yzvpbifc1r") (r "1.56.0")))
+
+(define-public crate-sunscreen_fhe_program-0.8.1 (c (n "sunscreen_fhe_program") (v "0.8.1") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "seal_fhe") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.74") (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "sunscreen_compiler_common") (r "^0.8.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "17gw9gdihymq1q120lpcpqrj38gn1yircg934aqb8mrm55ab3fkp") (r "1.56.0")))
+

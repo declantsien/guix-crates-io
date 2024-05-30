@@ -1,0 +1,8 @@
+(define-module (crates-io ht tp https_demo) #:use-module (crates-io))
+
+(define-public crate-https_demo-0.1.0 (c (n "https_demo") (v "0.1.0") (d (list (d (n "handlebars") (r "^3.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "warp") (r "^0.2") (f (quote ("tls"))) (d #t) (k 0)))) (h "1n1wcwhk8xf6wkfajbvpifmm118f2hb4qfx4b0h084931v0sdchz")))
+
+(define-public crate-https_demo-0.1.1 (c (n "https_demo") (v "0.1.1") (d (list (d (n "handlebars") (r "^3.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "warp") (r "^0.2") (f (quote ("tls"))) (d #t) (k 0)))) (h "1jwcvj9w8v2h55g2n4imqwdmhvj2qwjnh6g3jcn29qmq60hjca2d")))
+
+(define-public crate-https_demo-0.1.2 (c (n "https_demo") (v "0.1.2") (d (list (d (n "handlebars") (r "^3.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "warp") (r "^0.2") (f (quote ("tls"))) (d #t) (k 0)))) (h "1806rnhrp3wazhjsjpjp8yzs2j0zdmbbj1p0179fqqm9l6pd2vfm")))
+

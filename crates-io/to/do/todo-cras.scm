@@ -1,0 +1,20 @@
+(define-module (crates-io to do todo-cras) #:use-module (crates-io))
+
+(define-public crate-todo-cras-0.1.0 (c (n "todo-cras") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "0p15fz785dhjasqyrvnvvnd9ghyk7s1rya8wh4ri9llhzdnmr31d")))
+
+(define-public crate-todo-cras-0.1.1 (c (n "todo-cras") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "17kjlr95hvdrzsci4p3d3v757d4hmjr4qzmq11ljdaf4vr3nds4n")))
+
+(define-public crate-todo-cras-0.1.2 (c (n "todo-cras") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "0h5gn355cw18djnkxz2f1fd0nnwngazhfa0mrpji5fgzyzah4skz")))
+
+(define-public crate-todo-cras-0.1.3 (c (n "todo-cras") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "0kf9fqmg424kan3s62pdrw3lwb9jbgdc55y9ycn5k7rwa7jkyc7b")))
+
+(define-public crate-todo-cras-0.1.4 (c (n "todo-cras") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "14b3pxp7fapl2fjjfrszsh6a5snm8ix9imgx2ikp7i7ncd7q0hfl")))
+
+(define-public crate-todo-cras-0.1.5 (c (n "todo-cras") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "0vavl84mk9w65dwrc5qhvilipb23cd5qyzpni8xrvk1l4153h69s")))
+
+(define-public crate-todo-cras-0.1.6 (c (n "todo-cras") (v "0.1.6") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "0rgpj5y21y9j7ql11j02ibc67q7g2bd07zmysahs2xy7mvqn2x1r")))
+
+(define-public crate-todo-cras-0.1.7 (c (n "todo-cras") (v "0.1.7") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "17rkj8xpsbvr85j2m3a530ylkmx56a49430daklwcxpqdqi5i8vb")))
+
+(define-public crate-todo-cras-0.1.8 (c (n "todo-cras") (v "0.1.8") (d (list (d (n "chrono") (r "^0.4.20") (d #t) (k 0)) (d (n "fastrand") (r "^1.5.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "read_input") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "1pmgjgj4vd7is2k9bd2s2sg8jmwlfq7v20i86x5nicg1119l2rm4")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ca rg cargo-review-deps) #:use-module (crates-io))
+
+(define-public crate-cargo-review-deps-1.0.0-pre.1 (c (n "cargo-review-deps") (v "1.0.0-pre.1") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "cargo_metadata") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "copy_dir") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "07v5rawcryzx33lwjsz80qnw23r23i9zg7hiihix05jdgarp1szs")))
+
+(define-public crate-cargo-review-deps-1.0.0-pre.2 (c (n "cargo-review-deps") (v "1.0.0-pre.2") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "cargo_metadata") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "copy_dir") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "0khhf4aslmzcywv42m27rwk3kw6r5afpgglghll3xbr936jgysd9")))
+
+(define-public crate-cargo-review-deps-1.0.0 (c (n "cargo-review-deps") (v "1.0.0") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "cargo_metadata") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "copy_dir") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1asjjsrbfs6ykm7wl75vsz3bzgna0pymfgb5c3xyr36j2l0aypr4")))
+
+(define-public crate-cargo-review-deps-1.1.0-pre.1 (c (n "cargo-review-deps") (v "1.1.0-pre.1") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "cargo_metadata") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "copy_dir") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1fzsvlly005iqrb3fzah691fky9gjq5cccr2xa0pri3lgpa1ngn0")))
+
+(define-public crate-cargo-review-deps-1.1.0 (c (n "cargo-review-deps") (v "1.1.0") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "cargo_metadata") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "copy_dir") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "144wqvmjqn3fqhww1b1k3bid1xp4z7mr3j3wyil9cj8f1an6s8af")))
+

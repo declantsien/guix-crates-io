@@ -1,0 +1,6 @@
+(define-module (crates-io re fe reference-trie-fun) #:use-module (crates-io))
+
+(define-public crate-reference-trie-fun-0.29.1 (c (n "reference-trie-fun") (v "0.29.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "hash-db") (r "^0.16.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.1") (f (quote ("ahash"))) (k 0)) (d (n "keccak-hasher") (r "^0.16.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "trie-db-fun") (r "^0.28.0") (k 0)) (d (n "trie-root") (r "^0.18.0") (k 0)))) (h "13yp88mrlsggw9mcx6bbp3ccc2a0gfjxfg0v90vvx0299dldr9yz") (f (quote (("std" "trie-db-fun/std" "trie-root/std") ("default" "std"))))))
+
+(define-public crate-reference-trie-fun-100.29.1 (c (n "reference-trie-fun") (v "100.29.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "hash-db") (r "^0.16.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.1") (f (quote ("ahash"))) (k 0)) (d (n "keccak-hasher") (r "^0.16.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "trie-db-fun") (r "^100.28.0") (k 0)) (d (n "trie-root") (r "^0.18.0") (k 0)))) (h "15ip249y6lfnw3v94a5c6yiz792fx7hrxp7y6ayapyz2d7irsjn9") (f (quote (("std" "trie-db-fun/std" "trie-root/std") ("default" "std"))))))
+

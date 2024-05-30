@@ -1,0 +1,60 @@
+(define-module (crates-io js on jsonrpc-pubsub) #:use-module (crates-io))
+
+(define-public crate-jsonrpc-pubsub-7.0.1 (c (n "jsonrpc-pubsub") (v "7.0.1") (d (list (d (n "jsonrpc-core") (r "^7.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^7.0") (d #t) (k 2)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.4") (d #t) (k 0)))) (h "1sljvr5333hm81vryg4d9mgd1i7n3anywa7fsasrapxjb3187yn8")))
+
+(define-public crate-jsonrpc-pubsub-7.1.0 (c (n "jsonrpc-pubsub") (v "7.1.0") (d (list (d (n "jsonrpc-core") (r "^7.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^7.1") (d #t) (k 2)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.4") (d #t) (k 0)))) (h "1nrwxkjra49d3gmkcpf0mm9vihcm7m6pgjsn9fjpljwx2zlsrzw9")))
+
+(define-public crate-jsonrpc-pubsub-7.1.1 (c (n "jsonrpc-pubsub") (v "7.1.1") (d (list (d (n "jsonrpc-core") (r "^7.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^7.1") (d #t) (k 2)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.4") (d #t) (k 0)))) (h "1rj1wv1s1iz4la7vsfnjbpky42yagzzisqhz8m4zcpkc8s9bnpz2")))
+
+(define-public crate-jsonrpc-pubsub-8.0.0 (c (n "jsonrpc-pubsub") (v "8.0.0") (d (list (d (n "jsonrpc-core") (r "^8.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^8.0") (d #t) (k 2)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.4") (d #t) (k 0)))) (h "1aypmliv3g9ps4np6i8f7829yf3k8sagz4qs97f18jin0py9msvq")))
+
+(define-public crate-jsonrpc-pubsub-9.0.0 (c (n "jsonrpc-pubsub") (v "9.0.0") (d (list (d (n "jsonrpc-core") (r "^9.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^9.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (d #t) (k 0)))) (h "1ng6n3waygjnm7bfvfpchfl7acvzrn6zqzn912aj4jgpvbfhky1p")))
+
+(define-public crate-jsonrpc-pubsub-10.0.0 (c (n "jsonrpc-pubsub") (v "10.0.0") (d (list (d (n "jsonrpc-core") (r "^10.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1iy1zkwa6pyiw444r0gcafwwz3yhzqii5clzgr94yd1dagxxnpfc")))
+
+(define-public crate-jsonrpc-pubsub-10.0.1 (c (n "jsonrpc-pubsub") (v "10.0.1") (d (list (d (n "jsonrpc-core") (r "^10.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "14pm6nyk32a2pc4kmh43jcby37yrrgxvvf3w6ps6jahv9gaqwq2n")))
+
+(define-public crate-jsonrpc-pubsub-10.1.0 (c (n "jsonrpc-pubsub") (v "10.1.0") (d (list (d (n "jsonrpc-core") (r "^10.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^10.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0ajz37ilpk1cq569ynfs5h31vbj5rppn5n1bnh54s9pf6d8ybz1p")))
+
+(define-public crate-jsonrpc-pubsub-11.0.0 (c (n "jsonrpc-pubsub") (v "11.0.0") (d (list (d (n "jsonrpc-core") (r "^11.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^11.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0d7xx7d1m5b07bjl556zwrnj6v3d8hipvk8lvrxmz94305bw8cy2")))
+
+(define-public crate-jsonrpc-pubsub-12.0.0 (c (n "jsonrpc-pubsub") (v "12.0.0") (d (list (d (n "jsonrpc-core") (r "^12.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^12.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "066lv84g1m5b59643ddnmr6ahg7yydlb0q1pm6p3zrydrj727pgw")))
+
+(define-public crate-jsonrpc-pubsub-12.1.0 (c (n "jsonrpc-pubsub") (v "12.1.0") (d (list (d (n "jsonrpc-core") (r "^12.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^12.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0jllz4msbwl2lnwdgy4czsgrqrlrpy2522iszcxqmchvvdy5zi73")))
+
+(define-public crate-jsonrpc-pubsub-13.0.0 (c (n "jsonrpc-pubsub") (v "13.0.0") (d (list (d (n "jsonrpc-core") (r "^13.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^13.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0akjx1pwd1l3b5312d917pw7zbbf94nnfpgy6qr09g0xh8q5jgsq")))
+
+(define-public crate-jsonrpc-pubsub-12.2.0 (c (n "jsonrpc-pubsub") (v "12.2.0") (d (list (d (n "jsonrpc-core") (r "^12.2") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^12.2") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "14d1p6pr4nlx4sslfz47cz30ywfj6r47lab5nxc3mkj98xjjn1p3")))
+
+(define-public crate-jsonrpc-pubsub-13.1.0 (c (n "jsonrpc-pubsub") (v "13.1.0") (d (list (d (n "jsonrpc-core") (r "^13.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^13.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0illlwgaq8qg2rwq1psp89k5x1xcs11l70wq6wk71vf09i28ph72")))
+
+(define-public crate-jsonrpc-pubsub-13.2.0 (c (n "jsonrpc-pubsub") (v "13.2.0") (d (list (d (n "jsonrpc-core") (r "^13.2") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^13.2") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "14nrbzrciwsm6vcp3pavb4y48yaknkxxlh39h9z2iknqch3gpq34")))
+
+(define-public crate-jsonrpc-pubsub-14.0.0 (c (n "jsonrpc-pubsub") (v "14.0.0") (d (list (d (n "jsonrpc-core") (r "^14.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "07w9v57pm0bkq4cl7h4qzs1xjqwmqa3svm4a6yjgwdnk0i6sw8nv")))
+
+(define-public crate-jsonrpc-pubsub-14.0.1 (c (n "jsonrpc-pubsub") (v "14.0.1") (d (list (d (n "jsonrpc-core") (r "^14.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0inwnjv2cfd8wsl1mbifwyli3bxiim9wmyvwjdc8r8kypbwgmsfv")))
+
+(define-public crate-jsonrpc-pubsub-14.0.2 (c (n "jsonrpc-pubsub") (v "14.0.2") (d (list (d (n "jsonrpc-core") (r "^14.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "08agdr7ymrh7cwy4k2wd6qfwn0wmiqfq3afsadyns3sfh06ixbxf")))
+
+(define-public crate-jsonrpc-pubsub-14.0.3 (c (n "jsonrpc-pubsub") (v "14.0.3") (d (list (d (n "jsonrpc-core") (r "^14.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0hw4ms5ang0b9liad44drp5mgd7x1c8wgjxpqhqs46cj1gdbiq9y")))
+
+(define-public crate-jsonrpc-pubsub-14.0.5 (c (n "jsonrpc-pubsub") (v "14.0.5") (d (list (d (n "jsonrpc-core") (r "^14.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "16pkjmpa7xmipcfbnz0bcaccq3ypnxrrsf3dfzbdcp0g1xgn4lrl")))
+
+(define-public crate-jsonrpc-pubsub-14.0.6 (c (n "jsonrpc-pubsub") (v "14.0.6") (d (list (d (n "jsonrpc-core") (r "^14.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0ffr8dk1h8qix153ccqp2pjz5v0an4dz75nq4kfny9ri0ywwjcav")))
+
+(define-public crate-jsonrpc-pubsub-14.1.0 (c (n "jsonrpc-pubsub") (v "14.1.0") (d (list (d (n "jsonrpc-core") (r "^14.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "05pcjn2c0m66awlyyv5d8sjkxrkz8agh5jmdsihj4skc3lwmxjn4")))
+
+(define-public crate-jsonrpc-pubsub-14.2.0 (c (n "jsonrpc-pubsub") (v "14.2.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("compat" "thread-pool"))) (d #t) (k 2)) (d (n "jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^14.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "11kr0p5m5ia0y7nka822xnci516jarwka2dcdaa5gmhi59hgai1d")))
+
+(define-public crate-jsonrpc-pubsub-15.0.0 (c (n "jsonrpc-pubsub") (v "15.0.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("compat" "thread-pool"))) (d #t) (k 2)) (d (n "jsonrpc-core") (r "^15.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^15.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1ixljklnza0fclwjs3jczxrsw8by0hhjr2cnjalmicix3z6wb2gk")))
+
+(define-public crate-jsonrpc-pubsub-15.1.0 (c (n "jsonrpc-pubsub") (v "15.1.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("compat" "thread-pool"))) (d #t) (k 2)) (d (n "jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^15.1.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0xwwig672n32qnyqgr8g4bs2pr3aa2cgflmfhybvw4s0c3h5i5b3")))
+
+(define-public crate-jsonrpc-pubsub-16.0.0 (c (n "jsonrpc-pubsub") (v "16.0.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "jsonrpc-core") (r "^16.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^16.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1513fdy05q68paf7nksp2j91idb3my8q3s5x47fqdqixs3v344aa")))
+
+(define-public crate-jsonrpc-pubsub-17.0.0 (c (n "jsonrpc-pubsub") (v "17.0.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "jsonrpc-core") (r "^17.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^17.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "17nqkr7gr7p8crihhv3fb7cwd94a8zbbfk9a4ymqi73srvmxnj0c")))
+
+(define-public crate-jsonrpc-pubsub-17.1.0 (c (n "jsonrpc-pubsub") (v "17.1.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "jsonrpc-core") (r "^17.1") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^17.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0g9g6jzfzac4b4zm20p1bk76ndfr5nml8jn35j43j1x44darwwql")))
+
+(define-public crate-jsonrpc-pubsub-18.0.0 (c (n "jsonrpc-pubsub") (v "18.0.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "jsonrpc-core") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-tcp-server") (r "^18.0.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "048hbc9a1iw5vs4ir34b83b6iksk97004p7h6zxn4vvcbrlqf3r4")))
+

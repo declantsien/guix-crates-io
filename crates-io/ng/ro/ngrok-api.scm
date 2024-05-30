@@ -1,0 +1,8 @@
+(define-module (crates-io ng ro ngrok-api) #:use-module (crates-io))
+
+(define-public crate-ngrok-api-0.1.0 (c (n "ngrok-api") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0gwh6xxv92nz6diynl9v853xk1q2mzy5qx52c0l8wrx41izpjf1j")))
+
+(define-public crate-ngrok-api-0.3.0 (c (n "ngrok-api") (v "0.3.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1m7zbngb58vsfpla8idk52lvb6d0asfimmz02hinvz3014sbayaa")))
+
+(define-public crate-ngrok-api-0.2.0 (c (n "ngrok-api") (v "0.2.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1h8s3a1bpxf1dkzrdlgkhjr389h0ss00maydgvi8a3nzqgrfphrj")))
+

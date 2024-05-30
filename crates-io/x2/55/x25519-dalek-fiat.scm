@@ -1,0 +1,4 @@
+(define-module (crates-io x2 #{55}# x25519-dalek-fiat) #:use-module (crates-io))
+
+(define-public crate-x25519-dalek-fiat-0.1.0 (c (n "x25519-dalek-fiat") (v "0.1.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "curve25519-dalek-fiat") (r "^0.1.0") (k 0)) (d (n "our_serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0) (p "serde")) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "zeroize") (r "^1") (f (quote ("zeroize_derive"))) (k 0)))) (h "0cia6qqcmkcmhjy60bcgw2p7wnz47gydv9pbhkq3w447d7aijd9g") (f (quote (("u64_backend" "curve25519-dalek-fiat/u64_backend") ("u32_backend" "curve25519-dalek-fiat/u32_backend") ("std" "curve25519-dalek-fiat/std") ("serde" "our_serde" "curve25519-dalek-fiat/serde") ("nightly" "curve25519-dalek-fiat/nightly") ("fiat_u64_backend" "curve25519-dalek-fiat/fiat_u64_backend") ("default" "std" "u64_backend"))))))
+

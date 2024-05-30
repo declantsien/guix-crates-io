@@ -1,0 +1,18 @@
+(define-module (crates-io ne ar near-abi) #:use-module (crates-io))
+
+(define-public crate-near-abi-0.0.0 (c (n "near-abi") (v "0.0.0") (h "13f51wbyrc9n033i6lhv8hv144j0nfcdbpyfig1kjiqg2p5vjrf1")))
+
+(define-public crate-near-abi-0.1.0-pre.0 (c (n "near-abi") (v "0.1.0-pre.0") (d (list (d (n "borsh") (r "^0.9") (f (quote ("const-generics"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0f9z15xkka6mb740x5iiwjabnp09cvp3ss1m1s5pjgd6qfnq2lkx") (f (quote (("__chunked-entries")))) (r "1.56.0")))
+
+(define-public crate-near-abi-0.2.0 (c (n "near-abi") (v "0.2.0") (d (list (d (n "borsh") (r "^0.9") (f (quote ("const-generics"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1mz1w4mziz0kv7hynbpb219y1rqkald1xrg0w998ns5869h83yc5") (f (quote (("__chunked-entries")))) (r "1.56.0")))
+
+(define-public crate-near-abi-0.3.0 (c (n "near-abi") (v "0.3.0") (d (list (d (n "borsh") (r "^0.9") (f (quote ("const-generics"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (f (quote ("impl_json_schema"))) (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0wxgmlz1f685yl8dabd8dcqvmgyvi97238iznw0ag3si12dv6pc8") (f (quote (("__chunked-entries")))) (r "1.56.0")))
+
+(define-public crate-near-abi-0.4.0 (c (n "near-abi") (v "0.4.0") (d (list (d (n "borsh") (r "^1.0.0") (f (quote ("unstable__schema" "derive"))) (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.11") (f (quote ("impl_json_schema"))) (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1yqx8wyynavhs68zh54smdfvymrkh3z30wqlllsb3kw70617dlav") (f (quote (("__chunked-entries")))) (r "1.66.0")))
+
+(define-public crate-near-abi-0.4.1 (c (n "near-abi") (v "0.4.1") (d (list (d (n "borsh") (r ">=1.1.0, <1.2.0") (f (quote ("unstable__schema" "derive"))) (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.11") (f (quote ("impl_json_schema"))) (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1icvjh3wwp02ph4nd2vdfpihyb95nhi6085d0yhb341khhnlxb74") (f (quote (("__chunked-entries")))) (r "1.66.0")))
+
+(define-public crate-near-abi-0.4.2 (c (n "near-abi") (v "0.4.2") (d (list (d (n "borsh") (r ">=1.1.0, <1.4.0") (f (quote ("unstable__schema" "derive"))) (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.11") (f (quote ("impl_json_schema"))) (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "035yamcms92qi4df61kwm78y4blqaaavjg880853zb9s3kkyz3kb") (f (quote (("__chunked-entries")))) (r "1.66.0")))
+
+(define-public crate-near-abi-0.4.3 (c (n "near-abi") (v "0.4.3") (d (list (d (n "borsh") (r ">=1.1.0, <1.6.0") (f (quote ("unstable__schema" "derive"))) (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.11") (f (quote ("impl_json_schema"))) (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0lak46sn8klg3mpg28sdzwx43wabpw8sbh54d0illiclkqy5jjbw") (f (quote (("__chunked-entries")))) (r "1.66.0")))
+

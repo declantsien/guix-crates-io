@@ -1,0 +1,10 @@
+(define-module (crates-io ga lv galvanic-mock) #:use-module (crates-io))
+
+(define-public crate-galvanic-mock-0.1.0 (c (n "galvanic-mock") (v "0.1.0") (d (list (d (n "galvanic-assert") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^0.11") (f (quote ("full" "parsing"))) (d #t) (k 0)) (d (n "synom") (r "^0.11") (d #t) (k 0)))) (h "1677iah3qmajbg5l47963d906nkk5xz7j0y9xrp3s8cznxx2hrjy")))
+
+(define-public crate-galvanic-mock-0.1.1 (c (n "galvanic-mock") (v "0.1.1") (d (list (d (n "galvanic-assert") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "galvanic-assert") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^0.11") (f (quote ("full" "parsing"))) (d #t) (k 0)) (d (n "synom") (r "^0.11") (d #t) (k 0)))) (h "1lwjk65yb6nbvzaq3pbqfmzkql4a00milkkx0qnwmhxwr9rcfrkl") (f (quote (("galvanic_assert_integration" "galvanic-assert"))))))
+
+(define-public crate-galvanic-mock-0.1.2 (c (n "galvanic-mock") (v "0.1.2") (d (list (d (n "galvanic-assert") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "galvanic-assert") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^0.11") (f (quote ("full" "parsing"))) (d #t) (k 0)) (d (n "synom") (r "^0.11") (d #t) (k 0)))) (h "154gk70q7afi9l8g23qyq9c7hlrax8jxb48nchkiqx6q31fpn2a1") (f (quote (("galvanic_assert_integration" "galvanic-assert"))))))
+
+(define-public crate-galvanic-mock-0.1.3 (c (n "galvanic-mock") (v "0.1.3") (d (list (d (n "galvanic-assert") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "galvanic-assert") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^0.11") (f (quote ("full" "parsing"))) (d #t) (k 0)) (d (n "synom") (r "^0.11") (d #t) (k 0)))) (h "0mb86i0695bjgr6qw26drxyk1ry54f6m0gf6p98k84zarqvwa08n") (f (quote (("galvanic_assert_integration" "galvanic-assert"))))))
+

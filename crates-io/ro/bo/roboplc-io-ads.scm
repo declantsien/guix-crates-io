@@ -1,0 +1,6 @@
+(define-module (crates-io ro bo roboplc-io-ads) #:use-module (crates-io))
+
+(define-public crate-roboplc-io-ads-1.0.0 (c (n "roboplc-io-ads") (v "1.0.0") (d (list (d (n "bma-ts") (r "^0.1.10") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "oneshot") (r "^0.1.6") (f (quote ("std"))) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "roboplc") (r "^0.1.48") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "0jbqslb2axi1j03pa5qw9yfbjiw8qrdpzp1nx0chqzr71hd729ig")))
+
+(define-public crate-roboplc-io-ads-1.0.1 (c (n "roboplc-io-ads") (v "1.0.1") (d (list (d (n "bma-ts") (r "^0.1.10") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "oneshot") (r "^0.1.6") (f (quote ("std"))) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "roboplc") (r "^0.1.48") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "17ya6h1f6ggj76mi99sw2q005h0hlw7j3kp4772ipr9rhz7z8k57")))
+

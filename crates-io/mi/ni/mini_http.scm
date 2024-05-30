@@ -1,0 +1,8 @@
+(define-module (crates-io mi ni mini_http) #:use-module (crates-io))
+
+(define-public crate-mini_http-0.0.1 (c (n "mini_http") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 0)))) (h "1qy7abz8g6g7s1688hd9inycrb4jwxhnsqy0njiaavb5i5i12zkb")))
+
+(define-public crate-mini_http-0.0.2 (c (n "mini_http") (v "0.0.2") (d (list (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 0)))) (h "02hysclqfb90h5pywlhml3jg9jrzy007sm6n53a3dzzj8dd6k9dp")))
+
+(define-public crate-mini_http-0.0.3 (c (n "mini_http") (v "0.0.3") (d (list (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "threadpool") (r "^1") (d #t) (k 0)))) (h "1xjsr5af0rmma0nxdjns8l1z4qzpcvdrds8l7vd9q1ddind01krx")))
+

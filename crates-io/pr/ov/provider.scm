@@ -1,0 +1,22 @@
+(define-module (crates-io pr ov provider) #:use-module (crates-io))
+
+(define-public crate-provider-0.8.0 (c (n "provider") (v "0.8.0") (d (list (d (n "curl") (r "~0.4.11") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "flowrlib") (r "~0.8.0") (d #t) (k 0)) (d (n "glob") (r "~0.2.11") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "tempdir") (r "~0.3.5") (d #t) (k 0)) (d (n "url") (r "~1.6.0") (d #t) (k 0)))) (h "058y22h0yb48jk6pyzqvqkgg9h4vkcrc470hq9cma54ry8yaxyhc")))
+
+(define-public crate-provider-0.8.1 (c (n "provider") (v "0.8.1") (d (list (d (n "curl") (r "~0.4.11") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "flowrlib") (r "~0.8.1") (d #t) (k 0)) (d (n "glob") (r "~0.2.11") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "tempdir") (r "~0.3.5") (d #t) (k 0)) (d (n "url") (r "~1.6.0") (d #t) (k 0)))) (h "1jqs1rna2jy1i9x03f4zn6fymm60pssw1zgg9l2f48qav94j5w3s")))
+
+(define-public crate-provider-0.8.2 (c (n "provider") (v "0.8.2") (d (list (d (n "curl") (r "~0.4.24") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "flowrlib") (r "~0.8.1") (d #t) (k 0)) (d (n "glob") (r "~0.2.11") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "tempdir") (r "~0.3.5") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "1h82ni2i9p6mv4nkswi8q551yxf0n4pppz15qcfh5f17w23zb69z")))
+
+(define-public crate-provider-0.8.3 (c (n "provider") (v "0.8.3") (d (list (d (n "curl") (r "~0.4.24") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "flowrlib") (r "= 0.8.2") (d #t) (k 0)) (d (n "glob") (r "~0.2.11") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "tempdir") (r "~0.3.5") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "1p97mjf5vsyg5xz26mvfyp9gs5kjlbnf7irr43krkwwii3ni4ll9")))
+
+(define-public crate-provider-0.8.8 (c (n "provider") (v "0.8.8") (d (list (d (n "curl") (r "~0.4.24") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "flowrlib") (r "= 0.8.8") (d #t) (k 0)) (d (n "glob") (r "~0.2.11") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "tempdir") (r "~0.3.5") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "11kwz84dq097bgy3ifxh8sk7p8vg3ygwmgmrqaj3am85n9bvhwln") (f (quote (("online_tests") ("default"))))))
+
+(define-public crate-provider-0.21.0 (c (n "provider") (v "0.21.0") (d (list (d (n "curl") (r "~0.4.24") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "1p1jns31blih9k7n8ivvj583msa4x2ipb41x9fjysqpqb8hiigf7") (f (quote (("online_tests") ("default"))))))
+
+(define-public crate-provider-0.23.0 (c (n "provider") (v "0.23.0") (d (list (d (n "curl") (r "~0.4.24") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.3") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "0ka7wb2sd74j47baqkifs6nid5rcw6zlfqb57j5rg2nphg6k1lyv") (f (quote (("online_tests") ("default"))))))
+
+(define-public crate-provider-0.25.0 (c (n "provider") (v "0.25.0") (d (list (d (n "curl") (r "~0.4.24") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~1.4") (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "1yihqq0dxb44xfmg4j7ydcfck9igds03c4g11shrwq3qda4q4239") (f (quote (("online_tests") ("default"))))))
+
+(define-public crate-provider-0.34.4 (c (n "provider") (v "0.34.4") (d (list (d (n "curl") (r "~0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~2.1") (f (quote ("urls"))) (d #t) (k 0)) (d (n "url") (r "~2.1") (d #t) (k 0)))) (h "0iqgp094q4dmqpkkk8ixiazfcyvrgx716w7gbwwrph2hckr5wfbi") (f (quote (("online_tests") ("default"))))))
+
+(define-public crate-provider-0.34.7 (c (n "provider") (v "0.34.7") (d (list (d (n "curl") (r "~0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "simpath") (r "~2.2") (f (quote ("urls"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0zwlxx7z727d57lj9gvdlhfimz82k8q48cciyr70f0hmxgk720qk") (f (quote (("online_tests") ("default"))))))
+

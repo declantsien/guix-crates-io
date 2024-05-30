@@ -1,0 +1,8 @@
+(define-module (crates-io ru dd rudder) #:use-module (crates-io))
+
+(define-public crate-rudder-0.0.1 (c (n "rudder") (v "0.0.1") (d (list (d (n "atom_syndication") (r "^0.9.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.17.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6.2") (d #t) (k 0)) (d (n "html2md") (r "^0.2.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rss") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "termimad") (r "^0.8.26") (d #t) (k 0)))) (h "1wrdrbzb21x9qc6wi3wk4rqn0ps4218w3hsmi00ppkfz05yih9h2")))
+
+(define-public crate-rudder-0.0.2 (c (n "rudder") (v "0.0.2") (d (list (d (n "atom_syndication") (r "^0.9.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.17.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6.2") (d #t) (k 0)) (d (n "html2md") (r "^0.2.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rss") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "termimad") (r "^0.8.26") (d #t) (k 0)))) (h "0c8km1bb8g4ck1ikanm9c3q739296k7g1g4q6jyfk836j1j129fb")))
+
+(define-public crate-rudder-0.0.3 (c (n "rudder") (v "0.0.3") (d (list (d (n "atom_syndication") (r "^0.9.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.17.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6.2") (d #t) (k 0)) (d (n "html2md") (r "^0.2.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rss") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "termimad") (r "^0.8.26") (d #t) (k 0)))) (h "0m1cgz7dmyg80pji5hbzd37dily7y6w9v9smh9fv4rg233kdj1hc")))
+

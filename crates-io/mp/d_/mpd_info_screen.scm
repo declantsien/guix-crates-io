@@ -1,0 +1,44 @@
+(define-module (crates-io mp d_ mpd_info_screen) #:use-module (crates-io))
+
+(define-public crate-mpd_info_screen-0.2.16 (c (n "mpd_info_screen") (v "0.2.16") (d (list (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "16r4p18c7043rs0i434bbkxakrf7kp6k4q9l3i61mrn7qrfdrh7m")))
+
+(define-public crate-mpd_info_screen-0.2.17 (c (n "mpd_info_screen") (v "0.2.17") (d (list (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0yfknas17h8r7asg17i8gy70n5zs9m6444qjpw0fnk04nzypk2j0")))
+
+(define-public crate-mpd_info_screen-0.2.18 (c (n "mpd_info_screen") (v "0.2.18") (d (list (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1zlfipw80masrg8ffqpj9wx8pbysmh1knfh62hlkazl4gvpn2qla")))
+
+(define-public crate-mpd_info_screen-0.2.19 (c (n "mpd_info_screen") (v "0.2.19") (d (list (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1r7pmys29a17wazdlb39z7s7dwi72j3lq9c9ki8nlcrwbs44cz0w")))
+
+(define-public crate-mpd_info_screen-0.2.20 (c (n "mpd_info_screen") (v "0.2.20") (d (list (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1354wyb1c31l3dmb7cms5lzgxcs09clwb77ipfy0dvpahjnik12l")))
+
+(define-public crate-mpd_info_screen-0.3.0 (c (n "mpd_info_screen") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1hhwxmj30lq8l47skf2f02j5qq84xmq415gry7sx4q4b3k95rikp") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.3.1 (c (n "mpd_info_screen") (v "0.3.1") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "016vjnglh63sq7xb6dgd7vkzr0qalm0ia6zxnifajdraf7h1jffl") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.3.2 (c (n "mpd_info_screen") (v "0.3.2") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0yd1y5qzsn2556kjwwg6ac0xdxi5s1y2a2d0vzd5l96m3ywm13yh") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.3.3 (c (n "mpd_info_screen") (v "0.3.3") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1vgfg3w51wkaacf64993h68z7fryd9dl23i242c8mjpdraqxrd1n") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.3.5 (c (n "mpd_info_screen") (v "0.3.5") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0j3i8nag9phyxk6q343rwlyd06qksi9fvlwaj8g5yx11h2sn92k7") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.3.6 (c (n "mpd_info_screen") (v "0.3.6") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1ypb2hwry42gmfizx6shs7qd446xyl1qlnv1chs72l8vm01hp78q") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.3.7 (c (n "mpd_info_screen") (v "0.3.7") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "05s1ya7ha3dpya4dpxl1m5nsv9hmksd88s65v2x24vlq6wwldv10") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.0 (c (n "mpd_info_screen") (v "0.4.0") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.8.1") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "wgpu") (r "^0.14") (d #t) (k 0)))) (h "14qbk20hn3hf3yh28xfwvmr15jahm4gxvk8mvwcax73h434x4hff") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.2 (c (n "mpd_info_screen") (v "0.4.2") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "011a258g0cvlwkjb4dica6adcn9d9iha8z878qnm41x8j34x408i") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.3 (c (n "mpd_info_screen") (v "0.4.3") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1aifpjir5dfr9l3va3h5fvnhj35x8zwh919i3y0cffl2c13rqgiv") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.4 (c (n "mpd_info_screen") (v "0.4.4") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1893k4rrmv7bc17q30zvb1ppgxfi3p1v0jvr22rjx6jd5jjcp1k5") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.5 (c (n "mpd_info_screen") (v "0.4.5") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0p7rwi1c4bg9a27nz7acmxmhn8yp751lcr2izsgifnzqxb9frnnv") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.6 (c (n "mpd_info_screen") (v "0.4.6") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.9.0") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "wgpu") (r "^0.16.1") (d #t) (k 0)))) (h "0apprh8nkfyhs9r9p3gvjp68379yc7v3c4f840rwj085w26wl6nz") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.7 (c (n "mpd_info_screen") (v "0.4.7") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.9.3") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "wgpu") (r "^0.16.1") (d #t) (k 0)))) (h "0a4g8adn3lr3hrh9535m4kmdvf13lhp6f6626jlki6cdv38y17v5") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.8 (c (n "mpd_info_screen") (v "0.4.8") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.9.3") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "wgpu") (r "^0.16") (d #t) (k 0)))) (h "1wpk0cxv1brf9b0lfszv3rgcpf0ha8f9riyhs8gb09pcdqm4cqw5") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+
+(define-public crate-mpd_info_screen-0.4.9 (c (n "mpd_info_screen") (v "0.4.9") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "freetype") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ggez") (r "^0.9.3") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "wgpu") (r "^0.16") (d #t) (k 0)))) (h "0ddbql7kh5bl1vy36c5a549kdrk9rlcm9lcmw8ywan3bg4s1qqm1") (s 2) (e (quote (("unicode_support" "dep:freetype" "dep:bindgen"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ha vo havo) #:use-module (crates-io))
+
+(define-public crate-havo-0.2.0 (c (n "havo") (v "0.2.0") (d (list (d (n "clap") (r "^4.1.11") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)) (d (n "osmojit") (r "^0.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "wrc") (r "^2.0.0") (d #t) (k 0)))) (h "1wkmx851q4qqgji80scgf6smshfr93zsf88qxjlg436r6x1zcm1b")))
+
+(define-public crate-havo-0.4.2 (c (n "havo") (v "0.4.2") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)) (d (n "osmojit") (r "^0.4.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "wrc") (r "^2.0.0") (d #t) (k 0)))) (h "0d1clfaqbkbfsl36zkylhhilikhlja3llfl66dpyz2bv205vi394")))
+
+(define-public crate-havo-0.4.3 (c (n "havo") (v "0.4.3") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)) (d (n "osmojit") (r "^0.4.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "wrc") (r "^2.0.0") (d #t) (k 0)))) (h "159ic9l5y2vr2s3f0is1q6386xfa1lvxzg6k6rp3qb0myknhkz5w")))
+

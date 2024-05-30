@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-describe) #:use-module (crates-io))
+
+(define-public crate-cargo-describe-0.1.0 (c (n "cargo-describe") (v "0.1.0") (d (list (d (n "cargo") (r "^0.75.1") (f (quote ("all-static" "vendored-openssl" "vendored-libgit2"))) (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive" "wrap_help" "string" "cargo" "env"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (f (quote ("vendored-openssl" "vendored-libgit2"))) (d #t) (k 0)) (d (n "irox-csv") (r "^0") (d #t) (k 0)) (d (n "irox-enums") (r "^0") (d #t) (k 0)) (d (n "irox-log") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "001wy249zjrw2fc1p94j3ypr4qm2dgmngzs0sgdmms8sqwdhhy1v")))
+
+(define-public crate-cargo-describe-0.2.0 (c (n "cargo-describe") (v "0.2.0") (d (list (d (n "cargo") (r "^0.79.0") (f (quote ("all-static" "vendored-openssl" "vendored-libgit2"))) (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive" "wrap_help" "string" "cargo" "env"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (f (quote ("vendored-openssl" "vendored-libgit2"))) (d #t) (k 0)) (d (n "irox-csv") (r "^0.5.1") (d #t) (k 0)) (d (n "irox-enums") (r "^0.2.2") (d #t) (k 0)) (d (n "irox-log") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1gsf476aqrvcavafgzxwj8srx6c8vhw59ib6jx42dh8x9dwdc8r7")))
+

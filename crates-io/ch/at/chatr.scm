@@ -1,0 +1,20 @@
+(define-module (crates-io ch at chatr) #:use-module (crates-io))
+
+(define-public crate-chatr-0.6.0 (c (n "chatr") (v "0.6.0") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "102f6d4126d28pab1c4zzipfmkza6f181vi71xrd7d5k59lcvdqz")))
+
+(define-public crate-chatr-0.6.2 (c (n "chatr") (v "0.6.2") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0k2sab4rxna9a4gldf4ji8swirg88qk43nmnpcss5cirqrcs9bi6")))
+
+(define-public crate-chatr-0.6.3 (c (n "chatr") (v "0.6.3") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "09n6qv2dmzz69j1qpxgfvdh2dnyg0bjap7v8cw1g14rhvi0fk2s8")))
+
+(define-public crate-chatr-0.6.4 (c (n "chatr") (v "0.6.4") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0knk0s101kqi4w23mxrk8w01j1rif49nfwhbxlqqn3jy9gpa2v85")))
+
+(define-public crate-chatr-0.6.5 (c (n "chatr") (v "0.6.5") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0bs2isnwydgcgbfdl29f6kq76q20bhi7qcw6s30fvrv59abss66s")))
+
+(define-public crate-chatr-0.6.6 (c (n "chatr") (v "0.6.6") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0md5zk4nd2mxk8rj8dzi34yd1dbcqn4rgiyzysc486c4hdm06qlh")))
+
+(define-public crate-chatr-0.6.7 (c (n "chatr") (v "0.6.7") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0mmkw6mhs9fhfj4xmmmis4lczvafbv81dcl95l49wbn18apwfbzp")))
+
+(define-public crate-chatr-0.6.8 (c (n "chatr") (v "0.6.8") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0izfw0y21ijdlbcry69cwzb5qkg5sx2vdn768prf7659q4z20dj3")))
+
+(define-public crate-chatr-0.6.9 (c (n "chatr") (v "0.6.9") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "deku") (r "^0.16.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "06jzayb0rsgfmhbk2p94yakcyqmg3qkzvcfrjazkfhnabdgw2w6r")))
+

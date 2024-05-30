@@ -1,0 +1,8 @@
+(define-module (crates-io sl ur slurm-spank-compat) #:use-module (crates-io))
+
+(define-public crate-slurm-spank-compat-0.1.0 (c (n "slurm-spank-compat") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "byte-strings") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.144") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.30") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1r9iwvg92g5z4mm3bhwzsc3pfwkj2rkz7msjchvcgzd5c44y82vx")))
+
+(define-public crate-slurm-spank-compat-0.1.1 (c (n "slurm-spank-compat") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "byte-strings") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.154") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.30") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0rnimv18217176awhw87lmplsp5paq39v1f9xj3ypxjr0qkbal2l")))
+
+(define-public crate-slurm-spank-compat-0.1.2 (c (n "slurm-spank-compat") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "byte-strings") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.154") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.30") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0x8q943ylq03dzs5391c6ald7v8zfsvmddgxkyb906s0i3lhkfcv")))
+

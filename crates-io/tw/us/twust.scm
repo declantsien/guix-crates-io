@@ -1,0 +1,14 @@
+(define-module (crates-io tw us twust) #:use-module (crates-io))
+
+(define-public crate-twust-0.1.0 (c (n "twust") (v "0.1.0") (h "0ndqa73rkxivxnkqm3rvisvg1ljijyaqhp2dqgjdywijl5dq6hsa")))
+
+(define-public crate-twust-1.0.0 (c (n "twust") (v "1.0.0") (d (list (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "1c9zzx0c3ji2vna75mapchkj6z5xc7ywnbxcvqiwrzy0qm1w7kv8") (f (quote (("daisyui"))))))
+
+(define-public crate-twust-1.0.1 (c (n "twust") (v "1.0.1") (d (list (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "1k93pzwk67rsgb2m423madjz0k2gszks3a5hjrlha8mr0pz5199y") (f (quote (("daisyui"))))))
+
+(define-public crate-twust-1.0.2 (c (n "twust") (v "1.0.2") (d (list (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "1pqkckj2k1g3hkk9b6aws5jkgsnr9xv1dszmvg159ihgd0f11i7x") (f (quote (("daisyui"))))))
+
+(define-public crate-twust-1.0.3 (c (n "twust") (v "1.0.3") (d (list (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "0sv00w8cw2pj3raf7ydb5l6mnk923khwvn9d44fa5b005p02saap") (f (quote (("daisyui"))))))
+
+(define-public crate-twust-1.0.4 (c (n "twust") (v "1.0.4") (d (list (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.38") (d #t) (k 0)))) (h "0805dqmb6a632g4vg8lfwn4vnc7l3g0p4knlbs8lqp8fdyk1rdn5") (f (quote (("daisyui"))))))
+

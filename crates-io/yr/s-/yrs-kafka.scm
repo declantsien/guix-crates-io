@@ -1,0 +1,4 @@
+(define-module (crates-io yr s- yrs-kafka) #:use-module (crates-io))
+
+(define-public crate-yrs-kafka-0.1.0 (c (n "yrs-kafka") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rdkafka") (r "^0.36") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "rocksdb") (r "^0.22") (d #t) (k 0)) (d (n "tempfile") (r "^3.10") (d #t) (k 2)) (d (n "testcontainers") (r "^0.15") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.8") (f (quote ("v4"))) (d #t) (k 0)) (d (n "yoke") (r "^0.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "yrs") (r "^0.18") (d #t) (k 0)))) (h "1q3z0mbp07ghrpria46y9ph1c7rkp6l5dphqbh4gc2yc4sayycz0")))
+

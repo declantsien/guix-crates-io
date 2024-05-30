@@ -1,0 +1,14 @@
+(define-module (crates-io ca na canary_probe) #:use-module (crates-io))
+
+(define-public crate-canary_probe-0.1.0 (c (n "canary_probe") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (f (quote ("tokio-stream"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1qx79w51w4y15vy6bdpimdpi31jcqwj2ay74ly5x2p76gf1qj7z0")))
+
+(define-public crate-canary_probe-0.1.1 (c (n "canary_probe") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (f (quote ("tokio-stream"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "127dywqrbkahdag9nqfayvyqzplnpik8c0h4xyl526k0q97709zz")))
+
+(define-public crate-canary_probe-0.1.2 (c (n "canary_probe") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (f (quote ("tokio-stream" "ssl" "json_data_content"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1p39lcw9bwqw0zrfa0r96f481sn5blhm3i0nbyrg5rfj7vsgraqz")))
+
+(define-public crate-canary_probe-0.1.3 (c (n "canary_probe") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (f (quote ("tokio-stream" "json_data_content"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1x3yp9bcm6j8xw8jw2qfkgzkpz8n3941xlv2v608ar4zpyiywzwy")))
+
+(define-public crate-canary_probe-0.2.0 (c (n "canary_probe") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (f (quote ("tokio-stream" "json_data_content"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1hfc6i09s9y212fqbjgyilgqwa9nnykszzqg3hx4a57z7xgw9wkb")))
+
+(define-public crate-canary_probe-0.2.1 (c (n "canary_probe") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (f (quote ("tokio-stream" "json_data_content"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1x2majfbrhmvgny8aa03gvqw4vh7nzn7hf2q4xrbbxhz4qkwz4mc")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ti me timesource-derive) #:use-module (crates-io))
+
+(define-public crate-timesource-derive-0.1.0 (c (n "timesource-derive") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("std" "clock"))) (k 2)) (d (n "proc-macro2") (r "^1.0.29") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0.77") (f (quote ("full"))) (d #t) (k 0)) (d (n "test-case") (r "^1.2.0") (d #t) (k 2)) (d (n "timesource-core") (r "^0.1.0") (d #t) (k 2)))) (h "0ks97kffzhfzh9rv3c9jk1m0fcvgzxp22fcraxngl01zma79mhhd")))
+
+(define-public crate-timesource-derive-0.1.3 (c (n "timesource-derive") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("std" "clock"))) (k 2)) (d (n "minicbor") (r "^0.12.0") (f (quote ("std" "derive"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.29") (d #t) (k 0)) (d (n "prost") (r "^0.9.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0.77") (f (quote ("full"))) (d #t) (k 0)) (d (n "test-case") (r "^1.2.0") (d #t) (k 2)) (d (n "timesource-core") (r "^0.1.3") (d #t) (k 2)))) (h "1zkvrdk49fgjifasjrk640dcca1kq8q2x26vgkj5mqasq7ls0563")))
+

@@ -1,0 +1,46 @@
+(define-module (crates-io md bo mdbook-open-on-gh) #:use-module (crates-io))
+
+(define-public crate-mdbook-open-on-gh-1.0.0 (c (n "mdbook-open-on-gh") (v "1.0.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0g2x4fgy6q7p54r1sl2smlf1vxq9qwplckx68ky8j6ms1hv2x594")))
+
+(define-public crate-mdbook-open-on-gh-1.0.1 (c (n "mdbook-open-on-gh") (v "1.0.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "03zbpk4y990fwz5d9m9ncjpaa80jwkhygrjbqk92nqnjibkskmj7")))
+
+(define-public crate-mdbook-open-on-gh-1.1.0 (c (n "mdbook-open-on-gh") (v "1.1.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1h3f52aw6b9brf3rfsriy6105llqddn44lajhxjhd25yx5rskbv1")))
+
+(define-public crate-mdbook-open-on-gh-1.1.1 (c (n "mdbook-open-on-gh") (v "1.1.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "01pyd9927nbals68mcgj4pk6saiwrg6sm6lqp4yxawj5khfhamja")))
+
+(define-public crate-mdbook-open-on-gh-1.2.0 (c (n "mdbook-open-on-gh") (v "1.2.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1k70xpsxx1chvrfx14xasp8dafbxmplzr8xvyzgbj6is8i2kdi80")))
+
+(define-public crate-mdbook-open-on-gh-1.3.0 (c (n "mdbook-open-on-gh") (v "1.3.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1b6ps0745ydnjpsvl6pcca3hc39gyim317202xzd9xfi3dr6y2ja")))
+
+(define-public crate-mdbook-open-on-gh-1.3.1 (c (n "mdbook-open-on-gh") (v "1.3.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0sg2zxidmg4cd7brcwv34s4h9jjf7xdhrcdy92khxwrppz04yvv7")))
+
+(define-public crate-mdbook-open-on-gh-1.4.0 (c (n "mdbook-open-on-gh") (v "1.4.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "12a2v53jkc3j4arbfw37mjm7djbf2l9d0pjcgd9y6pygfw1vm7i4")))
+
+(define-public crate-mdbook-open-on-gh-1.4.1 (c (n "mdbook-open-on-gh") (v "1.4.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "017bp3361kshfkqjk3n9slxzfn4ifwgvypy2j8yw0n6rhmibbc5k")))
+
+(define-public crate-mdbook-open-on-gh-2.0.0 (c (n "mdbook-open-on-gh") (v "2.0.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "068a3azxk2d5b52c9zzlv7a43i9p2agdrcsby5gq0xx32qw001av")))
+
+(define-public crate-mdbook-open-on-gh-2.0.1 (c (n "mdbook-open-on-gh") (v "2.0.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "09dl47jafl5hspajmhsmhsp6rvxjb8v91slg44cndw9dwdms3z3y")))
+
+(define-public crate-mdbook-open-on-gh-2.0.2 (c (n "mdbook-open-on-gh") (v "2.0.2") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1cq671l73k2rvkym1ggxl57jxp5sxj1hxxs78hqa009hfjbzmy21")))
+
+(define-public crate-mdbook-open-on-gh-2.1.0 (c (n "mdbook-open-on-gh") (v "2.1.0") (d (list (d (n "clap") (r "^3.1.18") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1ykqvcy0fc8c4jy5bcfdzmpgq96l5j2nix6z2kk9kl7kkcxlbdz1")))
+
+(define-public crate-mdbook-open-on-gh-2.2.0 (c (n "mdbook-open-on-gh") (v "2.2.0") (d (list (d (n "clap") (r "^3.1.18") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "17n0jj5y3zg6an3544zlghmbm0c7cbgww9rh2m7dimg9vm33li8c")))
+
+(define-public crate-mdbook-open-on-gh-2.3.0 (c (n "mdbook-open-on-gh") (v "2.3.0") (d (list (d (n "clap") (r "^3.1.18") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "08dxfpsh0w30mngkja9hgqfkiswgd4igmwslcqm5w12gzpm03bg0")))
+
+(define-public crate-mdbook-open-on-gh-2.3.1 (c (n "mdbook-open-on-gh") (v "2.3.1") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0rbbj8lby0lp4zibwl57dwm8dk2g6cch8s45a5iwa4chm7232b68")))
+
+(define-public crate-mdbook-open-on-gh-2.3.2 (c (n "mdbook-open-on-gh") (v "2.3.2") (d (list (d (n "clap") (r "^4.1.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.26") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "0gxg9ssg6mjajz77wbnl27mhjdc1zj0aszyvd87yg0dfm87a2ar6") (y #t)))
+
+(define-public crate-mdbook-open-on-gh-2.3.3 (c (n "mdbook-open-on-gh") (v "2.3.3") (d (list (d (n "clap") (r "^4.1.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "1pq2sq9f9dfg684rxpa0ycgl9f4n9pikvhpn3ggswv5g3yskdjva")))
+
+(define-public crate-mdbook-open-on-gh-2.4.0 (c (n "mdbook-open-on-gh") (v "2.4.0") (d (list (d (n "clap") (r "^4.1.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.32") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)))) (h "1hrfwrjgvrjbf6zpq2mp4qwn6s8d3i76sq1b48i3gilp1mvb6v5b")))
+
+(define-public crate-mdbook-open-on-gh-2.4.1 (c (n "mdbook-open-on-gh") (v "2.4.1") (d (list (d (n "clap") (r "^4.1.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.33") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "0r8mlpqp8c55za595vhgqmifv8cmhb3pgw9kyvh8xcv9v7awqr8l")))
+
+(define-public crate-mdbook-open-on-gh-2.4.2 (c (n "mdbook-open-on-gh") (v "2.4.2") (d (list (d (n "clap") (r "^4.1.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.36") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "1143ar9427mjvzhxsx5sgib0qymhybsad1jcxgifqknw76yzxdzn")))
+
+(define-public crate-mdbook-open-on-gh-2.4.3 (c (n "mdbook-open-on-gh") (v "2.4.3") (d (list (d (n "clap") (r "^4.1.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.36") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "0k92la631gn68gmh9k3py3irwy9agd4r63717bmni46c6p6ah5r2")))
+

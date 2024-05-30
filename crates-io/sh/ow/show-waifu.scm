@@ -1,0 +1,6 @@
+(define-module (crates-io sh ow show-waifu) #:use-module (crates-io))
+
+(define-public crate-show-waifu-1.0.0 (c (n "show-waifu") (v "1.0.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "viuer") (r "^0.5.1") (d #t) (k 0)))) (h "1sv06plmvwnigch1bwlk9gw7lxn7ri4fyjfc9wbxgyl4nbkwklb8")))
+
+(define-public crate-show-waifu-1.0.1 (c (n "show-waifu") (v "1.0.1") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "viuer") (r "^0.5.1") (d #t) (k 0)))) (h "07ygv0ka4b2gar1dfw1pqb0l6y9y94hr84zmimsn1lvljnblk2pl")))
+

@@ -1,0 +1,24 @@
+(define-module (crates-io co mp comparable) #:use-module (crates-io))
+
+(define-public crate-comparable-0.1.0 (c (n "comparable") (v "0.1.0") (d (list (d (n "comparable_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1xhg9zs1b5kwjcxbnjkb7y4mzzvp1j761lzz4dps50m21mhbi07w") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.2.0 (c (n "comparable") (v "0.2.0") (d (list (d (n "comparable_derive") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.2") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0hys0gw9g5sw3czdmx5brnvzwpg2zc30mx4qhcr5sx06hpbnynza") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.3.0 (c (n "comparable") (v "0.3.0") (d (list (d (n "comparable_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "11xw95q95h0nfzkrqgzbpvvz19c6k9z6gmm694nrs8f7zfismlf3") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.3.1 (c (n "comparable") (v "0.3.1") (d (list (d (n "comparable_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1l3hcqm8v8i83dm5bgy4qrrd8zwphwlm6hxrj17hgb55j4051viz") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.3.2 (c (n "comparable") (v "0.3.2") (d (list (d (n "comparable_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "14j5ddmd5ma20p3iw785qcbdca96kvziiv866v5zcif31imqi7jm") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.4.0 (c (n "comparable") (v "0.4.0") (d (list (d (n "comparable_derive") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1abwc3hrs17d7740hhg4aqx2jg14k7zrxxwrfhkkiyfjwycb0w9k") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.5.0 (c (n "comparable") (v "0.5.0") (d (list (d (n "comparable_derive") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.5") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "17a2n0b3i99mbak7pcmf4y9b0hjc4lfkzgz2qpxmq9xrvg6z2gqs") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.5.1 (c (n "comparable") (v "0.5.1") (d (list (d (n "comparable_derive") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.5") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1r861p3sxadxgnv20gzbz6w1rkrvv0q1wksvqy02nhff75z39rag") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.5.2 (c (n "comparable") (v "0.5.2") (d (list (d (n "comparable_derive") (r "^0.5.2") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.5.2") (d #t) (k 2)) (d (n "comparable_helper") (r "^0.5.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "14a2k1dlygddyiwcils9k18hl38bkw136xxsl6jqbf613wyq32gm") (f (quote (("derive" "comparable_derive"))))))
+
+(define-public crate-comparable-0.5.3 (c (n "comparable") (v "0.5.3") (d (list (d (n "comparable_derive") (r "^0.5.3") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.5.3") (d #t) (k 2)) (d (n "comparable_helper") (r "^0.5.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1734h8xr9x845v33j0c2a6bpwk8spiiak8dpn49d3j6sqxqz8sfi") (f (quote (("derive" "comparable_derive")))) (s 2) (e (quote (("serde" "comparable_derive?/serde"))))))
+
+(define-public crate-comparable-0.5.4 (c (n "comparable") (v "0.5.4") (d (list (d (n "comparable_derive") (r "^0.5.4") (o #t) (d #t) (k 0)) (d (n "comparable_derive") (r "^0.5.4") (d #t) (k 2)) (d (n "comparable_helper") (r "^0.5.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1chflb97f22v1b7cy757ay7cbx29la6s9vzcf198rw3v0gl3wlgb") (f (quote (("derive" "comparable_derive")))) (s 2) (e (quote (("serde" "comparable_derive?/serde"))))))
+

@@ -1,0 +1,28 @@
+(define-module (crates-io ru st rusty-release) #:use-module (crates-io))
+
+(define-public crate-rusty-release-0.3.1 (c (n "rusty-release") (v "0.3.1") (d (list (d (n "clap") (r "~2.2.4") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.1") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.28") (d #t) (k 0)))) (h "0z5in4fp3k7vv5glcy0am2kxx0lk1rq919yxqhkb2bnxggjxx03g")))
+
+(define-public crate-rusty-release-0.3.2 (c (n "rusty-release") (v "0.3.2") (d (list (d (n "clap") (r "~2.2.4") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.1") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.28") (d #t) (k 0)))) (h "11zsnzzyzvxwcdi96jiy2i02cv92h39mmm8g5myayj6yn3g2h5dj")))
+
+(define-public crate-rusty-release-0.3.3 (c (n "rusty-release") (v "0.3.3") (d (list (d (n "clap") (r "~2.2.4") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.1") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.28") (d #t) (k 0)))) (h "178pmbb25b7xmj725jsfapksf7lpp5bmmzasd6xka2il8djxblwg")))
+
+(define-public crate-rusty-release-0.3.4 (c (n "rusty-release") (v "0.3.4") (d (list (d (n "clap") (r "~2.2.4") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.1") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.28") (d #t) (k 0)))) (h "1xklfqky4jkfpynb38jv9bvlgrpayq8qjranz13x7yashh84i0fl")))
+
+(define-public crate-rusty-release-0.3.5 (c (n "rusty-release") (v "0.3.5") (d (list (d (n "clap") (r "~2.2.4") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.1") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.28") (d #t) (k 0)))) (h "088dfjday7bsmi285gcq7i8rgfj8jdpq353k8cmiidhn8l4sxw28")))
+
+(define-public crate-rusty-release-0.3.6 (c (n "rusty-release") (v "0.3.6") (d (list (d (n "clap") (r "~2.2.6") (d #t) (k 0)) (d (n "rustc-serialize") (r "~0.3.19") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.4") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.30") (d #t) (k 0)))) (h "01pv2b58af353z6cgmkh418lcij5x2av8a0j3z7akhzxxg6ahrr6")))
+
+(define-public crate-rusty-release-0.3.7 (c (n "rusty-release") (v "0.3.7") (d (list (d (n "clap") (r "~2.2.6") (d #t) (k 0)) (d (n "rustc-serialize") (r "~0.3.19") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.4") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.30") (d #t) (k 0)))) (h "0ry3pq2fh0n8wzy729j3xnlh44mk332v2g6k7n4kiwa5ya0rhd33")))
+
+(define-public crate-rusty-release-0.4.0 (c (n "rusty-release") (v "0.4.0") (d (list (d (n "clap") (r "~2.2.6") (d #t) (k 0)) (d (n "rustc-serialize") (r "~0.3.19") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.4") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.1.30") (d #t) (k 0)))) (h "0fs61gkrr0pmiyakk339vfz8fpp5ld80bl0zjs61vr8pmbwlgp8h")))
+
+(define-public crate-rusty-release-0.5.0 (c (n "rusty-release") (v "0.5.0") (d (list (d (n "clap") (r "~2.2.6") (d #t) (k 0)) (d (n "semver") (r "~0.2.3") (d #t) (k 0)) (d (n "serde") (r "~1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "~1.0.27") (d #t) (k 0)) (d (n "tempfile") (r "~2.1.4") (d #t) (k 0)) (d (n "term") (r "~0.4.4") (d #t) (k 0)) (d (n "toml") (r "~0.4.5") (d #t) (k 0)))) (h "0y71vpq7w4hfrhmbk94wfcg4nrhd2h76ahppxhasbspjpr250ckx")))
+
+(define-public crate-rusty-release-0.6.0 (c (n "rusty-release") (v "0.6.0") (d (list (d (n "clap") (r "^2.29.0") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "~1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "~1.0.27") (d #t) (k 0)) (d (n "tempfile") (r "^2.2.0") (d #t) (k 0)) (d (n "term") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "~0.4.5") (d #t) (k 0)))) (h "0kwyd223allrqn2lzdjs2b0ky7jaf10ahh7cai7fa8y7g2xnfyj2")))
+
+(define-public crate-rusty-release-0.6.1 (c (n "rusty-release") (v "0.6.1") (d (list (d (n "clap") (r "^2.29.0") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "~1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "~1.0.27") (d #t) (k 0)) (d (n "tempfile") (r "^2.2.0") (d #t) (k 0)) (d (n "term") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "~0.4.5") (d #t) (k 0)))) (h "0qms4gmnzngdaac73fvsa72ygjmdr0spvm7b8mxr4asryp0ax3lf")))
+
+(define-public crate-rusty-release-0.7.0 (c (n "rusty-release") (v "0.7.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.87") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.87") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.6") (d #t) (k 0)) (d (n "term") (r "^0.5.1") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)))) (h "03dxb2aw8zcj5fva8jvp2bjbwsyrv69cy602cxvb8bpir7ca317w")))
+
+(define-public crate-rusty-release-0.7.1 (c (n "rusty-release") (v "0.7.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.87") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.87") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.6") (d #t) (k 0)) (d (n "term") (r "^0.5.1") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)))) (h "04gywcsxbh62gk61a1jg1driqjhxagjp8k3gnw9f32idqdhvka8b")))
+

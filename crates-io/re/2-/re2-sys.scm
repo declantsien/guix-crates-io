@@ -1,0 +1,14 @@
+(define-module (crates-io re #{2-}# re2-sys) #:use-module (crates-io))
+
+(define-public crate-re2-sys-0.0.1 (c (n "re2-sys") (v "0.0.1") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.2") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 1)))) (h "0j6dpas26xqgbrcg6hj93d8nq69kn0lyvczn5s58216dc3xy4zid") (f (quote (("static") ("dynamic") ("default")))) (l "re2")))
+
+(define-public crate-re2-sys-0.0.2 (c (n "re2-sys") (v "0.0.2") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.3") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 1)))) (h "0vzdw2mrf3kldil9di5rcxai2sfbl3j7afdl5dzpffpwkqm3xsmg") (f (quote (("static") ("dynamic") ("default")))) (l "re2")))
+
+(define-public crate-re2-sys-0.0.3 (c (n "re2-sys") (v "0.0.3") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.3") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 1)))) (h "03d5drd6inid2m7yw6i2sclgnfbyj13rnrvlxbjmq1vq8s7i0qcz") (f (quote (("static") ("dynamic") ("default")))) (l "re2")))
+
+(define-public crate-re2-sys-0.0.4 (c (n "re2-sys") (v "0.0.4") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.3") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 1)))) (h "1lp2jf882vs33i5xb1mfivdndils8izx3xszhrrac4iwiwlya1l7") (f (quote (("static") ("dynamic") ("default")))) (l "re2")))
+
+(define-public crate-re2-sys-0.0.5 (c (n "re2-sys") (v "0.0.5") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.4") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 1)))) (h "0vc0pm1xl94kapclyq9q4640lav5airjs6y9v008h45ddvw1bd2s") (f (quote (("static") ("dynamic") ("default")))) (l "re2")))
+
+(define-public crate-re2-sys-0.0.6 (c (n "re2-sys") (v "0.0.6") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "eyre") (r "^0.6.8") (d #t) (k 1)) (d (n "spack") (r "^0.0.6") (d #t) (k 1) (p "spack-rs")) (d (n "tokio") (r "1.33.*") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 1)))) (h "12lhiq0rilmh0miv1wp2f7zpf2jrsn7kqv71kiarc8ysp645pdfz") (f (quote (("static") ("dynamic") ("default")))) (l "re2")))
+

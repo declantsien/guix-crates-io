@@ -1,0 +1,4 @@
+(define-module (crates-io cx mr cxmr-ws-client-poloniex) #:use-module (crates-io))
+
+(define-public crate-cxmr-ws-client-poloniex-0.0.1 (c (n "cxmr-ws-client-poloniex") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "cxmr-currency") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-exchanges") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-feeds") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-ws-client") (r "^0.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 2)) (d (n "futures-async-stream") (r "^0.1") (d #t) (k 2)) (d (n "hashbrown") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("full"))) (d #t) (k 2)))) (h "07132dcqpjzbwmq5k08b36i4m32smj02qlr12vjks29b43lzap3l")))
+

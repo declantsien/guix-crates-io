@@ -1,0 +1,16 @@
+(define-module (crates-io na me name-it) #:use-module (crates-io))
+
+(define-public crate-name-it-0.0.0 (c (n "name-it") (v "0.0.0") (h "0g4adhxnynyq10sblj1nfrw6f3i6da3d8zlbss5hjagqm2m4fi9i") (r "1.61")))
+
+(define-public crate-name-it-0.1.0 (c (n "name-it") (v "0.1.0") (d (list (d (n "elain") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (d #t) (k 2)) (d (n "name-it-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.64") (f (quote ("diff"))) (d #t) (k 2)))) (h "1akh0w7hd4j0g5ri9iq3x0q6i415ylriwyqmvsvnq6h5qskhznvp") (r "1.61")))
+
+(define-public crate-name-it-0.1.1 (c (n "name-it") (v "0.1.1") (d (list (d (n "elain") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (d #t) (k 2)) (d (n "name-it-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.64") (f (quote ("diff"))) (d #t) (k 2)))) (h "13frf6zcvlymhh84zs36b28khzmg8750j369m47zxfwirimf5a1a") (r "1.61")))
+
+(define-public crate-name-it-0.1.2 (c (n "name-it") (v "0.1.2") (d (list (d (n "elain") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (d #t) (k 2)) (d (n "impls") (r "^1.0.3") (d #t) (k 2)) (d (n "name-it-macros") (r "=0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.64") (f (quote ("diff"))) (d #t) (k 2)))) (h "1vlzzqim7bn89nlqcy4himpmq70nbpr0w7rdv66gpg7psy41myx7") (r "1.61")))
+
+(define-public crate-name-it-0.1.3 (c (n "name-it") (v "0.1.3") (d (list (d (n "elain") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (d #t) (k 2)) (d (n "futures-test") (r "^0.3.21") (d #t) (k 2)) (d (n "impls") (r "^1.0.3") (d #t) (k 2)) (d (n "name-it-macros") (r "=0.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.64") (f (quote ("diff"))) (d #t) (k 2)))) (h "1g9s4i6vc344flq9lslf6gnvsara9lib2fr3k570gv21czznrr8r") (r "1.61")))
+
+(define-public crate-name-it-0.1.4 (c (n "name-it") (v "0.1.4") (d (list (d (n "elain") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (d #t) (k 2)) (d (n "futures-test") (r "^0.3.21") (d #t) (k 2)) (d (n "impls") (r "^1.0.3") (d #t) (k 2)) (d (n "name-it-macros") (r "=0.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.64") (f (quote ("diff"))) (d #t) (k 2)))) (h "17yhm03ccwnbpj34ra9941rjp0h0qyw6vhr3wyws7567981xyrq4") (r "1.61")))
+
+(define-public crate-name-it-0.1.5 (c (n "name-it") (v "0.1.5") (d (list (d (n "elain") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (d #t) (k 2)) (d (n "futures-test") (r "^0.3.21") (d #t) (k 2)) (d (n "impls") (r "^1.0.3") (d #t) (k 2)) (d (n "name-it-macros") (r "=0.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.64") (f (quote ("diff"))) (d #t) (k 2)))) (h "0sd716bakm1ks59p89jvp7n8yg18h352ca4ag8ffvqz1dnkqhya1") (r "1.61")))
+

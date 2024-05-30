@@ -1,0 +1,4 @@
+(define-module (crates-io cx mr cxmr-ws-client) #:use-module (crates-io))
+
+(define-public crate-cxmr-ws-client-0.0.1 (c (n "cxmr-ws-client") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "cxmr-api-clients-errors") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-currency") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-exchanges") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-feeds") (r "^0.0.1") (d #t) (k 0)) (d (n "err-convert-macro") (r "^0.0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)) (d (n "websocket-lite") (r "^0.3.2") (d #t) (k 0)))) (h "0ijljb2s6jl9925yx2imfii6imsmplbqmkxd8scvjdg88rcsnblz")))
+

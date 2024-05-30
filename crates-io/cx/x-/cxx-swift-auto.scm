@@ -1,0 +1,6 @@
+(define-module (crates-io cx x- cxx-swift-auto) #:use-module (crates-io))
+
+(define-public crate-cxx-swift-auto-0.0.0 (c (n "cxx-swift-auto") (v "0.0.0") (d (list (d (n "cxx") (r "^1.0") (f (quote ("c++20"))) (d #t) (k 0)) (d (n "cxx-auto") (r "^0.0") (d #t) (k 0)) (d (n "cxx-auto") (r "^0.0") (d #t) (k 1)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cxx-clang-build") (r "^0.0") (d #t) (k 1)) (d (n "cxx-llvm-auto") (r "^0.0") (d #t) (k 0)) (d (n "cxx-llvm-build") (r "^0.0") (d #t) (k 1)) (d (n "cxx-llvm-build-common") (r "^0.0") (d #t) (k 1)) (d (n "cxx-swift-build") (r "^0.0") (d #t) (k 1)))) (h "0cp66y3x9d688cl8iss1hwnpbffwp46bl11bb3xl1d2iq5mi16vl") (l "cxx-swift-auto")))
+
+(define-public crate-cxx-swift-auto-0.0.1 (c (n "cxx-swift-auto") (v "0.0.1") (d (list (d (n "cxx") (r "^1.0") (f (quote ("c++20"))) (d #t) (k 0)) (d (n "cxx-auto") (r "^0.0") (d #t) (k 0)) (d (n "cxx-auto") (r "^0.0") (d #t) (k 1)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cxx-clang-build") (r "^0.0") (d #t) (k 1)) (d (n "cxx-llvm-auto") (r "^0.0") (d #t) (k 0)) (d (n "cxx-llvm-build") (r "^0.0") (d #t) (k 1)) (d (n "cxx-llvm-build-common") (r "^0.0") (d #t) (k 1)) (d (n "cxx-swift-build") (r "^0.0") (d #t) (k 1)))) (h "1f7llbk6mj4v04vcwgj4m8bys0gmvifcid54yif7prppjm32m58b") (l "cxx-swift-auto")))
+

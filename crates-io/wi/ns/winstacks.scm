@@ -1,0 +1,6 @@
+(define-module (crates-io wi ns winstacks) #:use-module (crates-io))
+
+(define-public crate-winstacks-0.1.0-alpha1 (c (n "winstacks") (v "0.1.0-alpha1") (d (list (d (n "inferno") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "windows") (r "^0.36.1") (f (quote ("Win32_System_Diagnostics_Etw" "Win32_Foundation" "Win32_System_Time" "Win32_System_Threading" "Win32_Security" "Win32_System_SystemServices" "Win32_System_Diagnostics_Debug" "Win32_System_LibraryLoader" "Win32_System_WindowsProgramming" "Win32_Storage_FileSystem"))) (d #t) (k 0)))) (h "0z2w0n5k876c9fk3mi5iqscpcz18hgq27byh9hkqw20mxwscmr3q")))
+
+(define-public crate-winstacks-0.1.0-alpha2 (c (n "winstacks") (v "0.1.0-alpha2") (d (list (d (n "inferno") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "windows") (r "^0.36.1") (f (quote ("Win32_System_Diagnostics_Etw" "Win32_Foundation" "Win32_System_Time" "Win32_System_Threading" "Win32_Security" "Win32_System_SystemServices" "Win32_System_Diagnostics_Debug" "Win32_System_LibraryLoader" "Win32_System_WindowsProgramming" "Win32_Storage_FileSystem"))) (d #t) (k 0)))) (h "0pn5xaci0whas8596fh0n5pf8b7jzy53913gd9rrbykn8sw5ddwn")))
+

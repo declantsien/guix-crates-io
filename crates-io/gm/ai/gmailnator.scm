@@ -1,0 +1,18 @@
+(define-module (crates-io gm ai gmailnator) #:use-module (crates-io))
+
+(define-public crate-gmailnator-0.1.0 (c (n "gmailnator") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0gwqg5rmq2pa69ilwr5xqww2shxq0zaqxc9vpmqqnnsamvhbicc8") (y #t)))
+
+(define-public crate-gmailnator-0.1.1 (c (n "gmailnator") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1iwf3v6l0yy6js7gwlzysfdr7izxdrwsdjqy4pqxbpsqcjjdrv13") (y #t)))
+
+(define-public crate-gmailnator-0.1.2 (c (n "gmailnator") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1z3hfw1ifpihsc5c49jixsbhbwpq7mbpa15sdrvd4sqmiscmfavz") (y #t)))
+
+(define-public crate-gmailnator-0.1.3 (c (n "gmailnator") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "02xylgxmkywqdiqwpnmabfw60xcj3vx9j3xywzk06pjkvja0x0vh") (y #t)))
+
+(define-public crate-gmailnator-0.1.4 (c (n "gmailnator") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1ai3r9jm7fbb5nkzjdjfw4kypxjipq2k5bnmahmal6y9nngcmv9a") (y #t)))
+
+(define-public crate-gmailnator-0.1.5 (c (n "gmailnator") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0f57a7hp3zbj9g6vqh8y76b2g0i7f29j05si00ibdm38fp50qll7") (y #t)))
+
+(define-public crate-gmailnator-0.2.0 (c (n "gmailnator") (v "0.2.0") (d (list (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "ureq") (r "^1.5.1") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1z1103v4yf22mjd8mszq2dkp4if1kbcfddsaj28yv7fhrgpq7ncq") (y #t)))
+
+(define-public crate-gmailnator-0.2.1 (c (n "gmailnator") (v "0.2.1") (d (list (d (n "futures") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "htmlescape") (r ">=0.3.1, <0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r ">=1.4.0, <2.0.0") (d #t) (k 0)) (d (n "regex") (r ">=1.4.1, <2.0.0") (d #t) (k 0)) (d (n "scraper") (r ">=0.12.0, <0.13.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.117, <2.0.0") (d #t) (k 0)) (d (n "serde_json") (r ">=1.0.59, <2.0.0") (d #t) (k 0)) (d (n "ureq") (r ">=1.5.1, <2.0.0") (d #t) (k 0)) (d (n "url") (r ">=2.1.1, <3.0.0") (d #t) (k 0)))) (h "0f34dwsrd3dq87yjxq3d677xmjfi9mxp7wzmm7iihkxgxhifjv02") (y #t)))
+

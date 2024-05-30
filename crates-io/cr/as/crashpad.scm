@@ -1,0 +1,8 @@
+(define-module (crates-io cr as crashpad) #:use-module (crates-io))
+
+(define-public crate-crashpad-0.1.0 (c (n "crashpad") (v "0.1.0") (d (list (d (n "crashpad-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.101") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "which") (r "^4.2.2") (d #t) (k 0)))) (h "0vv0n6sxi03hjan7g5sdvd12q66vsc7zagbrzv1pp0y5gqppj60z") (f (quote (("with-precompiled" "crashpad-sys/with-precompiled")))) (y #t)))
+
+(define-public crate-crashpad-0.1.1 (c (n "crashpad") (v "0.1.1") (d (list (d (n "crashpad-sys") (r "^0.1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.101") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "which") (r "^4.2.2") (d #t) (k 0)))) (h "13010y0yajd5pkp4s6wf91kssl59ifv6nyxhmn3d6wpj3ar4h00p") (f (quote (("with-precompiled" "crashpad-sys/with-precompiled"))))))
+
+(define-public crate-crashpad-0.1.2 (c (n "crashpad") (v "0.1.2") (d (list (d (n "crashpad-sys") (r "^0.1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.101") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "which") (r "^4.2.2") (d #t) (k 0)))) (h "0mbjw8y3avyjjb8ggcbfnvnfk88b1rcgn30mrwc3gqchlgwp1w2s") (f (quote (("with-precompiled" "crashpad-sys/with-precompiled"))))))
+

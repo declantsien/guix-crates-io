@@ -1,0 +1,12 @@
+(define-module (crates-io ka ff kaffee) #:use-module (crates-io))
+
+(define-public crate-kaffee-0.1.0-pre (c (n "kaffee") (v "0.1.0-pre") (h "0iafmg5scj87bipscfqgf3jgcvgpvjjgq1kp0l4198rp5pyjd551")))
+
+(define-public crate-kaffee-0.1.0-rc.1 (c (n "kaffee") (v "0.1.0-rc.1") (d (list (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "glam") (r "^0.21") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "naga") (r "^0.9") (d #t) (k 0)) (d (n "pollster") (r "^0.2.5") (d #t) (k 2)) (d (n "wgpu") (r "^0.13.1") (f (quote ("glsl"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.2") (d #t) (k 0)))) (h "16rmrdm1fjyw8pwnj4lcv9x5wlq3lii3kbm970p4jwfjfnszm041")))
+
+(define-public crate-kaffee-0.1.0 (c (n "kaffee") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.12.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "glam") (r "^0.22") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "naga") (r "^0.10") (d #t) (k 0)) (d (n "pollster") (r "^0.2.5") (d #t) (k 2)) (d (n "wgpu") (r "^0.14") (f (quote ("glsl"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 0)))) (h "0ah5p5kz25dggffci27jigshzmrzf8i79mj6shnqv2xc4624gm3c")))
+
+(define-public crate-kaffee-0.2.0 (c (n "kaffee") (v "0.2.0") (d (list (d (n "bytemuck") (r "^1.12.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "glam") (r "^0.22") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "naga") (r "^0.10") (d #t) (k 0)) (d (n "pollster") (r "^0.2.5") (d #t) (k 2)) (d (n "wgpu") (r "^0.14") (f (quote ("glsl"))) (d #t) (k 0)) (d (n "winit") (r "^0.28.1") (d #t) (k 0)))) (h "160gm15yl63j5pimmj3pp6n344mi5mfr3hb9xxkx1m0ayjl9whfd")))
+
+(define-public crate-kaffee-0.3.0-rc.1 (c (n "kaffee") (v "0.3.0-rc.1") (d (list (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "glam") (r "^0.24") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "naga") (r "^0.12.2") (d #t) (k 0)) (d (n "pollster") (r "^0.3.0") (d #t) (k 2)) (d (n "wgpu") (r "^0.16.1") (f (quote ("glsl"))) (d #t) (k 0)) (d (n "winit") (r "^0.28.6") (d #t) (k 0)))) (h "17mavbj11wnpzl2bmrc9djzfik9jqhkidsk02il6as7nwj1xd0bv")))
+

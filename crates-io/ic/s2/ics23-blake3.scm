@@ -1,0 +1,4 @@
+(define-module (crates-io ic s2 ics23-blake3) #:use-module (crates-io))
+
+(define-public crate-ics23-blake3-0.9.1 (c (n "ics23-blake3") (v "0.9.1") (d (list (d (n "anyhow") (r "^1.0.40") (k 0)) (d (n "blake3") (r "^1.3.3") (k 0)) (d (n "bytes") (r "^1.0.1") (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (k 0)) (d (n "prost") (r "^0.11") (f (quote ("prost-derive"))) (k 0)) (d (n "ripemd") (r "^0.1.1") (o #t) (k 0)) (d (n "ripemd") (r "^0.1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "sha2") (r "^0.10.2") (o #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 2)) (d (n "sha3") (r "^0.10.2") (o #t) (k 0)) (d (n "sha3") (r "^0.10.2") (d #t) (k 2)))) (h "0985x04ggr36xqgpswqn2rlacf6av480q8l32lhxls2dcfjqr03n") (f (quote (("std" "prost/std" "bytes/std" "hex/std" "anyhow/std") ("host-functions" "sha2" "sha3" "ripemd") ("default" "std" "host-functions")))) (r "1.56.1")))
+

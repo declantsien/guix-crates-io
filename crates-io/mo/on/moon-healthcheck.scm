@@ -1,0 +1,6 @@
+(define-module (crates-io mo on moon-healthcheck) #:use-module (crates-io))
+
+(define-public crate-moon-healthcheck-0.1.0 (c (n "moon-healthcheck") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14.25") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1x4sr7pcvyi88ifliv6hp2l4044q581g284axz00hw2yr1k3c5la")))
+
+(define-public crate-moon-healthcheck-0.2.0 (c (n "moon-healthcheck") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14.25") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0v8l186bw0im0ab4ycbdi15r3ijwbmw1f287mlz0zn70w42c74k2")))
+

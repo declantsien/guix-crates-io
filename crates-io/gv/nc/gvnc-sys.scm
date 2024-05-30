@@ -1,0 +1,10 @@
+(define-module (crates-io gv nc gvnc-sys) #:use-module (crates-io))
+
+(define-public crate-gvnc-sys-0.0.1 (c (n "gvnc-sys") (v "0.0.1") (d (list (d (n "gio-sys") (r "^0.14") (d #t) (k 0)) (d (n "glib-sys") (r "^0.14") (d #t) (k 0)) (d (n "gobject-sys") (r "^0.14") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^5") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1f5bwapddwksy36fkpdq1hlkc3sp03cwmyz2w4zyrfnz1ibpv6nj") (f (quote (("dox")))) (l "gvnc-1.0")))
+
+(define-public crate-gvnc-sys-0.2.0 (c (n "gvnc-sys") (v "0.2.0") (d (list (d (n "gio") (r "^0.15") (d #t) (k 0) (p "gio-sys")) (d (n "glib") (r "^0.15") (d #t) (k 0) (p "glib-sys")) (d (n "gobject") (r "^0.15") (d #t) (k 0) (p "gobject-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "066snga3432g17c9s535isa24g5n795l9v7k3nv8y7yb6b2aa84n") (f (quote (("dox")))) (l "gvnc-1.0")))
+
+(define-public crate-gvnc-sys-0.3.0 (c (n "gvnc-sys") (v "0.3.0") (d (list (d (n "gio") (r "^0.16") (d #t) (k 0) (p "gio-sys")) (d (n "glib") (r "^0.16") (d #t) (k 0) (p "glib-sys")) (d (n "gobject") (r "^0.16") (d #t) (k 0) (p "gobject-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0fsj95mcg4mhsrwqc23g4knpkx1q1w3addxl2cd8qlmgvnplhkb0") (f (quote (("dox" "glib/dox" "gobject/dox" "gio/dox")))) (l "gvnc-1.0")))
+
+(define-public crate-gvnc-sys-0.4.0 (c (n "gvnc-sys") (v "0.4.0") (d (list (d (n "gio") (r "^0.17") (d #t) (k 0) (p "gio-sys")) (d (n "glib") (r "^0.17") (d #t) (k 0) (p "glib-sys")) (d (n "gobject") (r "^0.17") (d #t) (k 0) (p "gobject-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0whk2dfrhh7a5cvm5d1g1svlk5ivwha5gsbcnakvmd6c369sfv6m") (f (quote (("dox" "glib/dox" "gobject/dox" "gio/dox")))) (l "gvnc-1.0")))
+

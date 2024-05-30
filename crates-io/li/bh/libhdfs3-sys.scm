@@ -1,0 +1,6 @@
+(define-module (crates-io li bh libhdfs3-sys) #:use-module (crates-io))
+
+(define-public crate-libhdfs3-sys-0.1.0 (c (n "libhdfs3-sys") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bindgen") (r "^0.59") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "filepath") (r "^0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 2)))) (h "01vydbg63w7zajwh69vw7gr558814k8rkazzvrclapjk0j76y2a3") (l "hdfs3")))
+
+(define-public crate-libhdfs3-sys-0.2.0 (c (n "libhdfs3-sys") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bindgen") (r "^0.59") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "filepath") (r "^0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 2)))) (h "1m2q42l96lbrsjbm1j4fnz3s3qmsyjy55zr8c68sj9nhwmnva86a") (l "hdfs3")))
+

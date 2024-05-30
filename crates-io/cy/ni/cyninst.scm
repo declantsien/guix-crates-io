@@ -1,0 +1,6 @@
+(define-module (crates-io cy ni cyninst) #:use-module (crates-io))
+
+(define-public crate-cyninst-0.1.0-alpha (c (n "cyninst") (v "0.1.0-alpha") (d (list (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "inline_colorization") (r "^0.1.5") (d #t) (k 0)) (d (n "normalize-path") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)))) (h "125kw6jc91cyc14g6np91nb3mrjsph0nqkca0nr9i25r4g284ga6")))
+
+(define-public crate-cyninst-0.1.1 (c (n "cyninst") (v "0.1.1") (d (list (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "inline_colorization") (r "^0.1.5") (d #t) (k 0)) (d (n "normalize-path") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)))) (h "0y7p1sqai30r01iymf0c8yx24rd7c43q30sssk6abrff1pjiwgrp")))
+

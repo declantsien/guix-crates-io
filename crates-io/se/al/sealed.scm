@@ -1,0 +1,26 @@
+(define-module (crates-io se al sealed) #:use-module (crates-io))
+
+(define-public crate-sealed-0.1.0 (c (n "sealed") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "0h1jjih4fb7xd50j6ycajhcz76zkvvkqa7mz5bwiizbgii621i64")))
+
+(define-public crate-sealed-0.1.1 (c (n "sealed") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1s9wwzcmv0rwr67x0s21bwcayivv1vyzbkik70zi76sc9jzbsvyq")))
+
+(define-public crate-sealed-0.1.2 (c (n "sealed") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "0h2dl9lz7f2n8kpfanqn48q4c1dmr3vwak3l87l48rl3w5l8b8lh")))
+
+(define-public crate-sealed-0.1.3 (c (n "sealed") (v "0.1.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1wg9glnhbg0v6qdksy96inrjidhylbzqrski2w3cy7bdrxk5a137")))
+
+(define-public crate-sealed-0.2.0-rc1 (c (n "sealed") (v "0.2.0-rc1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "099qgkkf732anzxf95y94m24034m3jdv77p1f5r0plg71zmm0kf0")))
+
+(define-public crate-sealed-0.2.0-rc2 (c (n "sealed") (v "0.2.0-rc2") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "00vp65z5zjmynynlqz1sraj06zskvwxhp25qrswn45694n31yh2g")))
+
+(define-public crate-sealed-0.2.0-rc3 (c (n "sealed") (v "0.2.0-rc3") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1vjjmip91mamgvin50451n5w8n0bga8227lfsvmxahfsbcbrbhaa")))
+
+(define-public crate-sealed-0.2.0 (c (n "sealed") (v "0.2.0") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "05xhdq7j1xg4f47l2vl5gvh5ndxk37l8b0gih2awiip7ydx8xd3v")))
+
+(define-public crate-sealed-0.2.1 (c (n "sealed") (v "0.2.1") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1l0ljhcy8a6arznbdh12ybyfh5mfw7p8fl2k521c9hr695sgdp10")))
+
+(define-public crate-sealed-0.3.0 (c (n "sealed") (v "0.3.0") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1jkj5ig0ygwga707z4f1nva7cyabxc89my4d90wj1k7ll219hsv3")))
+
+(define-public crate-sealed-0.4.0 (c (n "sealed") (v "0.4.0") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1366y22kyxi8c0727frdc3ybz7fs1gwyqq4fmbxyvrdm4h844pkb")))
+
+(define-public crate-sealed-0.5.0 (c (n "sealed") (v "0.5.0") (d (list (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "17b9jpkhb1az4vb39ffzxnm3jqjv6spcd8big6whz05p4gncma7l")))
+

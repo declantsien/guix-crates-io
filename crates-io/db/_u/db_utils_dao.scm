@@ -1,0 +1,6 @@
+(define-module (crates-io db _u db_utils_dao) #:use-module (crates-io))
+
+(define-public crate-db_utils_dao-0.1.1 (c (n "db_utils_dao") (v "0.1.1") (d (list (d (n "db_utils_config") (r "^0.1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "macro_builder") (r "^0.1.1") (d #t) (k 0)) (d (n "mysql") (r "^23.0.1") (d #t) (k 0)) (d (n "redis") (r "^0.22.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)))) (h "0mx8k5rm5nqf1fwjxk6s1nlkizjpd1i6h78g2m8jrn936l8485gp") (y #t)))
+
+(define-public crate-db_utils_dao-0.1.2 (c (n "db_utils_dao") (v "0.1.2") (d (list (d (n "db_utils_config") (r "^0.1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "macro_builder") (r "^0.1.3") (d #t) (k 0)) (d (n "mysql") (r "^23.0.1") (d #t) (k 0)) (d (n "redis") (r "^0.22.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)))) (h "11iklk9i8pvj0vsd8v20hj7vqiqjsa366gkn04xavmrxb1xaa78y") (y #t)))
+

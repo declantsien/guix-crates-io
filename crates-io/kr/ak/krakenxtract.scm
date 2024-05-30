@@ -1,0 +1,10 @@
+(define-module (crates-io kr ak krakenxtract) #:use-module (crates-io))
+
+(define-public crate-krakenxtract-0.2.3 (c (n "krakenxtract") (v "0.2.3") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.26") (f (quote ("zlib-ng"))) (k 0)))) (h "123f2ackrl4akkajp8sqms7sbxpbsl5ijwxi4cl93j7zx98cbx0m") (y #t)))
+
+(define-public crate-krakenxtract-0.3.0 (c (n "krakenxtract") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "niffler") (r "^2.5.0") (f (quote ("gz_cloudflare_zlib"))) (d #t) (k 0)) (d (n "noodles") (r "^0.51.0") (f (quote ("fastq" "fasta"))) (d #t) (k 0)))) (h "0fr3jlsqr8b4h2s3lrq4lcqrimcswlbhjl8kashr4k1258njlij9") (y #t)))
+
+(define-public crate-krakenxtract-0.3.1 (c (n "krakenxtract") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "niffler") (r "^2.5.0") (f (quote ("gz" "bz2" "gz_cloudflare_zlib"))) (k 0)) (d (n "noodles") (r "^0.51.0") (f (quote ("fastq" "fasta"))) (d #t) (k 0)))) (h "0ylr9dvxz1qd5vxxy7ihadb1ynkpbfq9i7k6jxfsi7h8p51z3y0g") (y #t)))
+
+(define-public crate-krakenxtract-0.4.0 (c (n "krakenxtract") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "niffler") (r "^2.5.0") (f (quote ("gz" "bz2" "gz_cloudflare_zlib"))) (k 0)) (d (n "noodles") (r "^0.51.0") (f (quote ("fastq" "fasta"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "1lrw1vra82snvbw70ncm0c13irnc5d3bm9mkx91m59j9wl3z28b1")))
+

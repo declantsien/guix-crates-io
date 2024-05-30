@@ -1,0 +1,14 @@
+(define-module (crates-io ry an ryan-cli) #:use-module (crates-io))
+
+(define-public crate-ryan-cli-0.1.0 (c (n "ryan-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ryan") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "termcolor-json") (r "^1.0.0") (d #t) (k 0)))) (h "0bb8hai7i0q2ddd8m70k6sh1dzf2xq8fz8frx03wfxcimwryk3fz")))
+
+(define-public crate-ryan-cli-0.1.1 (c (n "ryan-cli") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ryan") (r "^0.1.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "termcolor-json") (r "^1.0.0") (d #t) (k 0)))) (h "12a3dp4f3gh98irqsvi8w4mq9l4q2fiyqzd1js5hfnmgz8vddl3z")))
+
+(define-public crate-ryan-cli-0.2.0 (c (n "ryan-cli") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ryan") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "termcolor-json") (r "^1.0.0") (d #t) (k 0)))) (h "00ccfa9i0x5fm82n33r95r9fihkzaz5fk1i4f5phl28glqsvshh9")))
+
+(define-public crate-ryan-cli-0.2.1 (c (n "ryan-cli") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ryan") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "termcolor-json") (r "^1.0.0") (d #t) (k 0)))) (h "0cglr65frgnlpz5dv74ip72p01q246sr3dv81iwz188i4ahd5kks")))
+
+(define-public crate-ryan-cli-0.2.2 (c (n "ryan-cli") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ryan") (r "^0.2.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "termcolor-json") (r "^1.0.0") (d #t) (k 0)))) (h "093ic57p6r0sy0y87lyn8w6x3ahckamvz26m25l2fxv8ql9vvy0z")))
+
+(define-public crate-ryan-cli-0.2.3 (c (n "ryan-cli") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ryan") (r "^0.2.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "termcolor-json") (r "^1.0.0") (d #t) (k 0)))) (h "0jgj00sffrsxiq3hkvqf9928w76v9sq2niksqi0295l2hsbw0lky")))
+

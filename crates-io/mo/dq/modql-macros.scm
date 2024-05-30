@@ -1,0 +1,48 @@
+(define-module (crates-io mo dq modql-macros) #:use-module (crates-io))
+
+(define-public crate-modql-macros-0.0.3 (c (n "modql-macros") (v "0.0.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "05by6kndhvqabqv3x9zhi1i5s3bzhhd67mbvvvkyy9h43sxzpiqb") (y #t)))
+
+(define-public crate-modql-macros-0.0.4 (c (n "modql-macros") (v "0.0.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1c5wbl0yi17imrsblac5hskz0i3agvkswidrplfw568wjmqn52i4") (y #t)))
+
+(define-public crate-modql-macros-0.0.5 (c (n "modql-macros") (v "0.0.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0r54zgiv7czc1bzk64k2q4fxhp9s4my84a1d0qjjr0alhzjcpald")))
+
+(define-public crate-modql-macros-0.1.0 (c (n "modql-macros") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1p3s4phw46m0p8j7rj7aw8cc2wgx7aram8d64yp8d25d4dv0dd2f")))
+
+(define-public crate-modql-macros-0.3.0-alpha.1 (c (n "modql-macros") (v "0.3.0-alpha.1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1mz37gwir2yyp8ksz2j8lm6v0gidmpfg6c96mpgjsnh8y3p0kzig") (f (quote (("with-sea-query" "sea-query") ("default"))))))
+
+(define-public crate-modql-macros-0.3.0-alpha.2 (c (n "modql-macros") (v "0.3.0-alpha.2") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0f34apl10p865c7pqwizhvk00ka1fbbpl3p5gm0vif17lhfsnwmq") (f (quote (("with-sea-query" "sea-query"))))))
+
+(define-public crate-modql-macros-0.3.0-alpha.3 (c (n "modql-macros") (v "0.3.0-alpha.3") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1mzwqw08i7fa4y9xkqv26h7x375188wwibz8y2w2a1zmybx3hn81") (f (quote (("with-sea-query" "sea-query"))))))
+
+(define-public crate-modql-macros-0.3.0-alpha.4 (c (n "modql-macros") (v "0.3.0-alpha.4") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "05q03bc5v5039f24q927ck3vpcskj6dspri843qvyhpg7n92kllx") (f (quote (("with-sea-query" "sea-query"))))))
+
+(define-public crate-modql-macros-0.3.0-alpha.5 (c (n "modql-macros") (v "0.3.0-alpha.5") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "05jam1gliax7bs7p6fad23p48i76n84l7l1jm4r49mdr5kk4a8il") (f (quote (("with-sea-query" "sea-query"))))))
+
+(define-public crate-modql-macros-0.3.0-alpha.6 (c (n "modql-macros") (v "0.3.0-alpha.6") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1mk9aqmgw4l2sfwsad7x2zwdm8vx3mpq9cl2flicf717bxgf6qvc") (f (quote (("with-sea-query" "sea-query"))))))
+
+(define-public crate-modql-macros-0.3.0 (c (n "modql-macros") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1v449cal2yzsxf7n2wcz3phnvng51sf0liinccrpysz0xm95xh38") (f (quote (("with-sea-query" "sea-query"))))))
+
+(define-public crate-modql-macros-0.3.1 (c (n "modql-macros") (v "0.3.1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0h47hds4aifpr44sdl91qvvk7qn8bnkmxqf6sfmynqqxi16v86aj") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.3.2 (c (n "modql-macros") (v "0.3.2") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0zvnymf6s5l4if26x543yy7nly20y3jgz3ni4750gggpkjvwygyh") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.3.7 (c (n "modql-macros") (v "0.3.7") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1m4vkd3ah8l5py8zy0yywk9lcfy2gywbfq3akvghmlldvhf8sp0v") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.3.8 (c (n "modql-macros") (v "0.3.8") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0as32kij4qgk511fvgq619q609560f5caxhrjalci03739bg4bk8") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.3.9 (c (n "modql-macros") (v "0.3.9") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "10sgbna115p5qn9db62wcizva4q5bnznrxf702f8ci1h5p1yw46i") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.3.10 (c (n "modql-macros") (v "0.3.10") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1g9zzwk3db2g0m7v4kyl2k4p2ql4hi1l6jdhdp21x66b9lspid9w") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.3.11-rc-1 (c (n "modql-macros") (v "0.3.11-rc-1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.31.0-rc") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0raj3h4bvamkdb63h5r8dyqp886imbmh7a143b0jbhmavrq3l03s") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.4.0-rc.1 (c (n "modql-macros") (v "0.4.0-rc.1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.31.0-rc") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1zimllmzd0gbka0dh2wnrr3izj5k3cdi15d7kffgrp1hcmbs9djb") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.4.0-rc.2 (c (n "modql-macros") (v "0.4.0-rc.2") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.31.0-rc") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "19pndhv1ryym6yd93nfzjdiak1vrl41g9dsmynr2fsh6dn53viwr") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.4.0-rc.3 (c (n "modql-macros") (v "0.4.0-rc.3") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.31.0-rc") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0xnk22g0nzv2f40cv9m33mdr8gm9vndri1c7bdi8b89jhn0ma3yy") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.4.0-rc.4 (c (n "modql-macros") (v "0.4.0-rc.4") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.31.0-rc") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "13b7mp4cwk7mf8kx1ic6hx26s64lzn8gxag59sl93990y4l02128") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+
+(define-public crate-modql-macros-0.4.0-rc.6 (c (n "modql-macros") (v "0.4.0-rc.6") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.31.0-rc") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1w4ycpy46s8xy44n0ymq6ylgj7x79wd9jxpl2m5nd975lr09hqa9") (f (quote (("with-sea-query" "sea-query") ("with-rusqlite" "rusqlite"))))))
+

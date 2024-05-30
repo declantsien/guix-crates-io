@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_sprite_instancing) #:use-module (crates-io))
+
+(define-public crate-bevy_sprite_instancing-0.1.0 (c (n "bevy_sprite_instancing") (v "0.1.0") (d (list (d (n "bevy_app") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_core_pipeline") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_math") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_reflect") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_render") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.10.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "field-offset") (r "^0.3.5") (d #t) (k 0)))) (h "0zbd3sw492xvyqaqlzl4xpljj3wcbkj78prjqamjqxgnjfz0q4s2")))
+
+(define-public crate-bevy_sprite_instancing-0.1.1 (c (n "bevy_sprite_instancing") (v "0.1.1") (d (list (d (n "bevy") (r "^0.10.1") (f (quote ("bevy_asset" "bevy_core_pipeline" "bevy_render" "bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.10.1") (d #t) (k 2)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "field-offset") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0wbmqdc1bqvcymf9jsdjx6yjkg246wlp53c4f3w7kvxdbpz9phs7")))
+

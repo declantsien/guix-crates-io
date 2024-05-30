@@ -1,0 +1,4 @@
+(define-module (crates-io ar go argos) #:use-module (crates-io))
+
+(define-public crate-argos-0.1.0 (c (n "argos") (v "0.1.0") (d (list (d (n "boring") (r "^3.0.4") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0-rc.3") (d #t) (k 0)) (d (n "hyper") (r "^1.0.0-rc.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-boring") (r "^3.0.4") (d #t) (k 0)))) (h "1pf96c8jyg9gpzd14m4ya58di8yz4qdwywsp266vgfi7yv90fghl") (r "1.66.1")))
+

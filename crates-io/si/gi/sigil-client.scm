@@ -1,0 +1,4 @@
+(define-module (crates-io si gi sigil-client) #:use-module (crates-io))
+
+(define-public crate-sigil-client-0.1.0 (c (n "sigil-client") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "borsh") (r "^0.10") (d #t) (k 0)) (d (n "kaigan") (r "^0.2.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "nifty-asset") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_with") (r "^3.0") (o #t) (d #t) (k 0)) (d (n "solana-program") (r "~1.16") (d #t) (k 0)) (d (n "solana-program-test") (r "~1.16") (d #t) (k 2)) (d (n "solana-sdk") (r "~1.16") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0xiz3brlzn7j3963723kfzfb00qgyfjxh628nyvyckz9ad5kypch") (f (quote (("test-sbf")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_with"))))))
+

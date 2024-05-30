@@ -1,0 +1,4 @@
+(define-module (crates-io cl ia clia_nacos_rust_client) #:use-module (crates-io))
+
+(define-public crate-clia_nacos_rust_client-0.2.3 (c (n "clia_nacos_rust_client") (v "0.2.3") (d (list (d (n "actix") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "inner-mem-cache") (r "^0.1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "local_ipaddress") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "sync" "signal"))) (d #t) (k 0)))) (h "0qv37spwnr8kwbs2avcs00ws27jbv1dpxknckb3ay8wccviyixky")))
+

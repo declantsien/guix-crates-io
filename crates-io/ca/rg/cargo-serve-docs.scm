@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-serve-docs) #:use-module (crates-io))
+
+(define-public crate-cargo-serve-docs-0.1.0 (c (n "cargo-serve-docs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14.11") (f (quote ("full" "runtime"))) (d #t) (k 0)) (d (n "hyper-staticfile") (r "^0.6.0") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.11") (d #t) (k 0)) (d (n "qu") (r "^0.2.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (d #t) (k 0)))) (h "15w3vqkwwjz7ad7x06qcb1gg6rd4a6k90wprlpkqvjiyfrk5zvvp") (y #t)))
+
+(define-public crate-cargo-serve-docs-0.1.1 (c (n "cargo-serve-docs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14.11") (f (quote ("full" "runtime"))) (d #t) (k 0)) (d (n "hyper-staticfile") (r "^0.6.0") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.11") (d #t) (k 0)) (d (n "qu") (r "^0.2.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (d #t) (k 0)))) (h "1skfp98lr7abdmvl3ycxxv1p03kgdlh14nz2pmlxkhqyykapjlzs")))
+

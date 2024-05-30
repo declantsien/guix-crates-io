@@ -1,0 +1,8 @@
+(define-module (crates-io th ur thurgood) #:use-module (crates-io))
+
+(define-public crate-thurgood-0.1.0 (c (n "thurgood") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "indexmap") (r "^1.7") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0rla4zbcpmgccf1fzw2p7j6i7hccvwgamxxfbw282nrwpm0hw8jm") (f (quote (("json" "serde_json" "serde") ("default" "json"))))))
+
+(define-public crate-thurgood-0.2.0 (c (n "thurgood") (v "0.2.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "indexmap") (r "^1.7") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0l0i4mq04r488qw9s16rc71kgaj8dck5mqcdv350hc5x3gfmadby") (f (quote (("json" "serde_json" "serde") ("default" "json"))))))
+
+(define-public crate-thurgood-0.2.1 (c (n "thurgood") (v "0.2.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "indexmap") (r "^1.7") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "049fi51ayh3xpf2h0jbph0i641bk4pqmy9a71mljdls5ycv4fx96") (f (quote (("json" "serde_json" "serde") ("default" "json"))))))
+

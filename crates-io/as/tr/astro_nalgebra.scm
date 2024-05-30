@@ -1,0 +1,6 @@
+(define-module (crates-io as tr astro_nalgebra) #:use-module (crates-io))
+
+(define-public crate-astro_nalgebra-0.1.0 (c (n "astro_nalgebra") (v "0.1.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "astro-float") (r "^0.9.1") (k 0)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "simba") (r "^0.8") (d #t) (k 0)))) (h "1wyqa1zblgvvdwsm6llaif2qd4f7cg2bd4myiilgjpgjpz4c9rn6") (f (quote (("std" "astro-float/std") ("random" "astro-float/random") ("default" "std" "random" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "astro-float/serde"))))))
+
+(define-public crate-astro_nalgebra-0.1.1 (c (n "astro_nalgebra") (v "0.1.1") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "astro-float") (r "^0.9.1") (k 0)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "simba") (r "^0.8") (d #t) (k 0)))) (h "1avalqfqzb0fk905d7sf59y7g1jks07vx27ryh1hjdwn2lxh5mwj") (f (quote (("std" "astro-float/std") ("random" "astro-float/random") ("default" "std" "random" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "astro-float/serde"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io co de codegenr-lib) #:use-module (crates-io))
+
+(define-public crate-codegenr-lib-0.0.1 (c (n "codegenr-lib") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.1.3") (f (quote ("script_helper"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "path-dedot") (r "^3.0.14") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rhai") (r "^1.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.68") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.21") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "test-case") (r "^1.2.1") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "05d9nqmvzyhmg26zaja2b3fvsj0hkdxjrjszk9ggfwlim1k7cby9") (y #t)))
+

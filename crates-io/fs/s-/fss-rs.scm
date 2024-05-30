@@ -1,0 +1,10 @@
+(define-module (crates-io fs s- fss-rs) #:use-module (crates-io))
+
+(define-public crate-fss-rs-0.4.0 (c (n "fss-rs") (v "0.4.0") (d (list (d (n "aes") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "1c80xwba9190hh9dg7f445k58crnj8g9rny4b96pnpxhhimjsv6x") (f (quote (("prg" "aes") ("multi-thread" "rayon") ("group-int-be") ("full" "prg" "multi-thread") ("default" "full"))))))
+
+(define-public crate-fss-rs-0.4.1 (c (n "fss-rs") (v "0.4.1") (d (list (d (n "aes") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "0lrgilw74a7djwp8frvm8sx9ixnyvaz14lzh85kdiw3n6qna8xjq") (f (quote (("prg" "aes") ("multi-thread" "rayon") ("group-int-be") ("full" "prg" "multi-thread") ("default" "full"))))))
+
+(define-public crate-fss-rs-0.4.2 (c (n "fss-rs") (v "0.4.2") (d (list (d (n "aes") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "19qaw2a9s5mc7nirj4mv01sdd18lipg74s4kdsqk3xdari58yzpc") (f (quote (("prg" "aes") ("multi-thread" "rayon") ("group-int-be") ("full" "prg" "multi-thread") ("default" "full"))))))
+
+(define-public crate-fss-rs-0.4.3 (c (n "fss-rs") (v "0.4.3") (d (list (d (n "aes") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "02g80r6gi1ajcnrbls1v83q4amgvdy32rjmwpaypmd4xrl2hj1y7") (f (quote (("prg" "aes") ("multi-thread" "rayon") ("group-int-be") ("full" "prg" "multi-thread") ("default" "full"))))))
+

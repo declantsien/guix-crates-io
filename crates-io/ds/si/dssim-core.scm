@@ -1,0 +1,34 @@
+(define-module (crates-io ds si dssim-core) #:use-module (crates-io))
+
+(define-public crate-dssim-core-2.11.3 (c (n "dssim-core") (v "2.11.3") (d (list (d (n "imgref") (r "^1.6.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.2.1") (d #t) (k 2)) (d (n "rayon") (r "^1.3.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8.20") (d #t) (k 0)))) (h "1jxhzbmn4sj45qb7y3rphq8fassyy3lphn3sbzfggn4qrgqnqb26") (y #t)))
+
+(define-public crate-dssim-core-2.11.4 (c (n "dssim-core") (v "2.11.4") (d (list (d (n "imgref") (r "^1.6.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.2.1") (d #t) (k 2)) (d (n "rayon") (r "^1.3.1") (d #t) (k 0)) (d (n "rgb") (r "^0.8.20") (d #t) (k 0)))) (h "053lqfihaslhw1iy0idph488kxnfxnsaaqdnqz84jj786wzw9851") (y #t)))
+
+(define-public crate-dssim-core-2.11.5 (c (n "dssim-core") (v "2.11.5") (d (list (d (n "imgref") (r "^1.7.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.2.2") (d #t) (k 2)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "rgb") (r "^0.8.25") (d #t) (k 0)))) (h "1gy3y65vp8vfifllj883zcrvjcjzszb6va8r0wc3vlrkwv5l695s") (y #t)))
+
+(define-public crate-dssim-core-3.0.0 (c (n "dssim-core") (v "3.0.0") (d (list (d (n "imgref") (r "^1.7.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.4.3") (d #t) (k 2)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "rgb") (r "^0.8.25") (d #t) (k 0)))) (h "11qlakpyvjcpicrbbq80ffbyzwxqgirj6p9im90jczfr2gyw2scc") (y #t)))
+
+(define-public crate-dssim-core-3.0.1 (c (n "dssim-core") (v "3.0.1") (d (list (d (n "imgref") (r "^1.7.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.4.3") (d #t) (k 2)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "rgb") (r "^0.8.25") (d #t) (k 0)))) (h "0hmfv1rkz5lg72rf3mbawpcgmh2vv6lxclffrwwm48vp4d3iry7h") (y #t)))
+
+(define-public crate-dssim-core-3.1.0 (c (n "dssim-core") (v "3.1.0") (d (list (d (n "imgref") (r "^1.7.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.4.3") (d #t) (k 2)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "rgb") (r "^0.8.25") (d #t) (k 0)))) (h "1n1yfk71id0jpim5f6vrggyi08khbxbij6didldlyad061bbjjz7")))
+
+(define-public crate-dssim-core-3.2.0 (c (n "dssim-core") (v "3.2.0") (d (list (d (n "imgref") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.6.0") (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.31") (d #t) (k 0)))) (h "0g7sq69w45hg5rp04wvyi4c3c8q76q76a7bf62llh6w5z4bgyzwq") (f (quote (("threads" "rayon") ("default" "threads"))))))
+
+(define-public crate-dssim-core-3.2.1 (c (n "dssim-core") (v "3.2.1") (d (list (d (n "imgref") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.6.0") (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.31") (d #t) (k 0)))) (h "0vp5266bjhz0prqnrk07wkigrccbpkh67m0yjspyvn59fj90fl33") (f (quote (("threads" "rayon") ("default" "threads"))))))
+
+(define-public crate-dssim-core-3.2.2 (c (n "dssim-core") (v "3.2.2") (d (list (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.6.0") (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.31") (d #t) (k 0)))) (h "1k49v9lg2kgja5kv6j8flfyn6cas4asndz72v6m7qcizfg8jjqnq") (f (quote (("threads" "rayon") ("no-macos-vimage") ("default" "threads")))) (y #t)))
+
+(define-public crate-dssim-core-3.2.3 (c (n "dssim-core") (v "3.2.3") (d (list (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.7.0") (d #t) (k 2)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.33") (d #t) (k 0)))) (h "09p1lninnzmy8cmwknadbdn78w29gp65hw2vs4g52zqgljjpq0qd") (f (quote (("no-macos-vimage") ("default" "threads")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+
+(define-public crate-dssim-core-3.2.4 (c (n "dssim-core") (v "3.2.4") (d (list (d (n "imgref") (r "^1.9.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.7.0") (d #t) (k 2)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.33") (d #t) (k 0)))) (h "0bzyn4z3hx2zfdx58pjpb5i690h410p65a7mmaaqa88ph10ly1y8") (f (quote (("no-macos-vimage") ("default" "threads")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+
+(define-public crate-dssim-core-3.2.5 (c (n "dssim-core") (v "3.2.5") (d (list (d (n "imgref") (r "^1.9.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.7.0") (d #t) (k 2)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.33") (d #t) (k 0)))) (h "1yv984xshf0fy0iq9z9nbx18c6fwyxgmrrcczg1jrbrc93lnla60") (f (quote (("no-macos-vimage") ("default" "threads")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+
+(define-public crate-dssim-core-3.2.6 (c (n "dssim-core") (v "3.2.6") (d (list (d (n "imgref") (r "^1.9.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lodepng") (r "^3.7.0") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.33") (d #t) (k 0)))) (h "0sw93lyixas4v19fi3z7xa0d71kvi5d8bcw10jscz1hm8wvh5ak0") (f (quote (("no-macos-vimage") ("default" "threads") ("capi")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+
+(define-public crate-dssim-core-3.2.7 (c (n "dssim-core") (v "3.2.7") (d (list (d (n "imgref") (r "^1.9.4") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.7.2") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.36") (d #t) (k 0)))) (h "1s9zpjnj840fgl3g4szj58h1bckwy5m2hnmk33bwyps7i51m920k") (f (quote (("no-macos-vimage") ("default" "threads") ("capi")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+
+(define-public crate-dssim-core-3.2.8 (c (n "dssim-core") (v "3.2.8") (d (list (d (n "imgref") (r "^1.10.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.9.2") (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.37") (d #t) (k 0)))) (h "11mlaj6y653k6c002rwmqs55531m1np4q6xcyd1q45jg3xyd7yps") (f (quote (("no-macos-vimage") ("default" "threads") ("capi")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+
+(define-public crate-dssim-core-3.2.9 (c (n "dssim-core") (v "3.2.9") (d (list (d (n "imgref") (r "^1.10.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "lodepng") (r "^3.10.0") (d #t) (k 2)) (d (n "rayon") (r "^1.8.1") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8.37") (d #t) (k 0)))) (h "0aw7rv1gzbqdj5wcychl7d9ym4jxrllixxq3mym3ypnzdk54y1qc") (f (quote (("no-macos-vimage") ("default" "threads") ("capi")))) (s 2) (e (quote (("threads" "dep:rayon"))))))
+

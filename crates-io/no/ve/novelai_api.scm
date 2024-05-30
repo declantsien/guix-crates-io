@@ -1,0 +1,10 @@
+(define-module (crates-io no ve novelai_api) #:use-module (crates-io))
+
+(define-public crate-novelai_api-0.1.0 (c (n "novelai_api") (v "0.1.0") (h "0xqlqfll0kn895c0rs1wxnr6xlkn6dics7biq0x34335m189m6ka")))
+
+(define-public crate-novelai_api-0.2.0 (c (n "novelai_api") (v "0.2.0") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0kqa0ahzx2sli2f2is19smas884qx6j3nj4w2nnaw0981n23573i")))
+
+(define-public crate-novelai_api-0.2.1 (c (n "novelai_api") (v "0.2.1") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0500252nc97hvm23380dif6s3jwmrbfdbbwmsm3ww91xwpw48dbv")))
+
+(define-public crate-novelai_api-0.2.2 (c (n "novelai_api") (v "0.2.2") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0z0ws7hgd4a1iyvq7wavqq02kdg4cd3vh4n4sjaxx8dz0m09w311")))
+

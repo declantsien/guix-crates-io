@@ -1,0 +1,18 @@
+(define-module (crates-io ra te rate-limits) #:use-module (crates-io))
+
+(define-public crate-rate-limits-0.1.0 (c (n "rate-limits") (v "0.1.0") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("parsing" "macros"))) (d #t) (k 0)))) (h "1wa33xv4s7lhcs8vdm2dgdz2vqmpbmqrp8xiknqzja2yblylmsp2")))
+
+(define-public crate-rate-limits-0.1.1 (c (n "rate-limits") (v "0.1.1") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("parsing" "macros"))) (d #t) (k 0)))) (h "008c8v09bb3545c2kvvqlhznm3v7mnz3qcjgjr858fzbhc2hjv10")))
+
+(define-public crate-rate-limits-0.2.0 (c (n "rate-limits") (v "0.2.0") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("parsing" "macros"))) (d #t) (k 0)))) (h "0mfml6bm2gf2zrvhjf4n2ri52ydipmxzi3h36dgxj781c458gqmx")))
+
+(define-public crate-rate-limits-0.2.1 (c (n "rate-limits") (v "0.2.1") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("parsing" "macros"))) (d #t) (k 0)))) (h "1m8rr5pbqq52sgsag1n6bahci9l519v0w3nazlcp5xxn1j8w7zg3")))
+
+(define-public crate-rate-limits-0.3.0 (c (n "rate-limits") (v "0.3.0") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "headers") (r "^0.3.7") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "indoc") (r "^1.0.6") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("parsing" "macros"))) (d #t) (k 0)))) (h "17wh56924rp9ds8dff7x3nbmv73ci950jzpr8rrb8cfbvajbjrvw")))
+
+(define-public crate-rate-limits-0.4.0 (c (n "rate-limits") (v "0.4.0") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "headers") (r "^0.3.8") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("parsing" "macros"))) (d #t) (k 0)) (d (n "indoc") (r "^2.0.1") (d #t) (k 2)))) (h "0rmph03w1lx479crfnbq433p1356ax2fxf9cmz5jsr4pkjwln01r")))
+
+(define-public crate-rate-limits-0.4.1 (c (n "rate-limits") (v "0.4.1") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "headers") (r "^0.3.8") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("parsing" "macros"))) (d #t) (k 0)) (d (n "indoc") (r "^2.0.1") (d #t) (k 2)))) (h "0m2pg3mfdz7ih0n5krkpvdwjy1z5z25dv6v4fbndb29ifwp9kviw")))
+
+(define-public crate-rate-limits-0.5.0 (c (n "rate-limits") (v "0.5.0") (d (list (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "headers") (r "^0.3.8") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("parsing" "macros"))) (d #t) (k 0)) (d (n "indoc") (r "^2.0.1") (d #t) (k 2)))) (h "09l8221dfhbjf61lc9wvi6zimrg4bndk6wzksi737cisj73g573g")))
+

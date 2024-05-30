@@ -1,0 +1,4 @@
+(define-module (crates-io sp ar sparkle-impostor) #:use-module (crates-io))
+
+(define-public crate-sparkle-impostor-0.15.0 (c (n "sparkle-impostor") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0") (f (quote ("backtrace"))) (d #t) (k 2)) (d (n "dotenvy") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("macros"))) (d #t) (k 2)) (d (n "twilight-http") (r "^0.15") (d #t) (k 0)) (d (n "twilight-model") (r "^0.15") (d #t) (k 0)) (d (n "twilight-util") (r "^0.15") (f (quote ("snowflake"))) (d #t) (k 0)) (d (n "twilight-validate") (r "^0.15") (d #t) (k 0)))) (h "04z3ib0dj9x0c7xxmhpkxwz8qgyi899lmw5nnq1cx382wi3njmai") (f (quote (("upload" "reqwest"))))))
+

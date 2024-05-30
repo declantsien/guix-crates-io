@@ -1,0 +1,4 @@
+(define-module (crates-io fu se fuse-zstd) #:use-module (crates-io))
+
+(define-public crate-fuse-zstd-1.2.0 (c (n "fuse-zstd") (v "1.2.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("env" "cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "fuser") (r "^0.14") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-mounts") (r "^0.3") (d #t) (k 2)) (d (n "rstest") (r "^0.18") (d #t) (k 2)) (d (n "sentry") (r "^0.32") (f (quote ("log"))) (o #t) (d #t) (k 0)) (d (n "sentry-log") (r "^0.32") (o #t) (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "xattr") (r "^1.3") (d #t) (k 0)) (d (n "zstd") (r "^0.13") (d #t) (k 0)))) (h "0w1msdsvzhsa3rry2d3mbag4wlj3jhlkkdxah1xapz1wdlzap7ag") (f (quote (("with_sentry" "sentry" "sentry-log") ("default"))))))
+

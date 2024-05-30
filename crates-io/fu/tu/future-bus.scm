@@ -1,0 +1,8 @@
+(define-module (crates-io fu tu future-bus) #:use-module (crates-io))
+
+(define-public crate-future-bus-0.1.0 (c (n "future-bus") (v "0.1.0") (d (list (d (n "futures-channel-preview") (r "^0.3.0-alpha.19") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "futures-core-preview") (r "^0.3.0-alpha.19") (d #t) (k 0)) (d (n "futures-preview") (r "^0.3.0-alpha.19") (d #t) (k 2)) (d (n "futures-sink-preview") (r "^0.3.0-alpha.19") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)))) (h "1ndnzirfpy6assx1x69pyxmdppb81486vcmqan6qrmlp92raah0x") (f (quote (("default-channels" "futures-channel-preview") ("default" "default-channels"))))))
+
+(define-public crate-future-bus-0.2.0 (c (n "future-bus") (v "0.2.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-channel") (r "^0.3") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)))) (h "1nazbd479sypcnjiqpv9f5xcdrzn6d5jkqm9fwabbx9q2rwaj039") (f (quote (("default-channels" "futures-channel") ("default" "default-channels"))))))
+
+(define-public crate-future-bus-0.2.1 (c (n "future-bus") (v "0.2.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-channel") (r "^0.3") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)))) (h "0ac5qb6izlbfbc6vq4if2bl48d7q73fcfmpyjlb5z4gh6h7q1p60") (f (quote (("default-channels" "futures-channel") ("default" "default-channels"))))))
+

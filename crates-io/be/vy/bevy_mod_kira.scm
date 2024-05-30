@@ -1,0 +1,10 @@
+(define-module (crates-io be vy bevy_mod_kira) #:use-module (crates-io))
+
+(define-public crate-bevy_mod_kira-0.1.0 (c (n "bevy_mod_kira") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "bevy") (r "^0.10.0") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.20.1") (d #t) (k 2)) (d (n "egui_extras") (r "^0.21.0") (d #t) (k 2)) (d (n "kira") (r "^0.7.3") (d #t) (k 0)))) (h "14j6xi2ly11ivk4vka5cffmyzs736r1j77fy9z90pvylfzrd3mha") (r "1.67.0")))
+
+(define-public crate-bevy_mod_kira-0.1.1 (c (n "bevy_mod_kira") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "bevy") (r "^0.10.0") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.20.1") (d #t) (k 2)) (d (n "egui_extras") (r "^0.21.0") (d #t) (k 2)) (d (n "kira") (r "^0.7.3") (d #t) (k 0)) (d (n "ringbuf") (r "^0.3.2") (d #t) (k 2)))) (h "1vxxv54r3dsb95w9hg9f4anqgqs56f9cyzjg1zbqb8ybng215kdb") (f (quote (("wav" "kira/wav") ("ogg" "kira/ogg") ("mp3" "kira/mp3") ("flac" "kira/flac") ("default" "ogg")))) (r "1.67.0")))
+
+(define-public crate-bevy_mod_kira-0.1.2 (c (n "bevy_mod_kira") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "bevy") (r "^0.10.0") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.20.1") (d #t) (k 2)) (d (n "egui_extras") (r "^0.21.0") (d #t) (k 2)) (d (n "kira") (r "^0.7.3") (d #t) (k 0)) (d (n "ringbuf") (r "^0.3.2") (d #t) (k 2)))) (h "1v4ggibrvl978nsv5dakb6kxhigixciirxym25k107w7z7017a6f") (f (quote (("wav" "kira/wav") ("ogg" "kira/ogg") ("mp3" "kira/mp3") ("flac" "kira/flac") ("default" "ogg")))) (r "1.67.0")))
+
+(define-public crate-bevy_mod_kira-0.2.0 (c (n "bevy_mod_kira") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "egui_extras") (r "^0.23.0") (d #t) (k 2)) (d (n "egui_plot") (r "^0.23.0") (d #t) (k 2)) (d (n "kira") (r "^0.8.5") (d #t) (k 0)) (d (n "ringbuf") (r "^0.3.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0bydm8d2s57iabrmvbz2qv67wbbdd6hik30dghyqgggga9j9mg7h") (f (quote (("wav" "kira/wav") ("ogg" "kira/ogg") ("mp3" "kira/mp3") ("flac" "kira/flac") ("default" "ogg")))) (r "1.67.0")))
+

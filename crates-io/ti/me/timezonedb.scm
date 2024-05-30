@@ -1,0 +1,10 @@
+(define-module (crates-io ti me timezonedb) #:use-module (crates-io))
+
+(define-public crate-timezonedb-0.1.0 (c (n "timezonedb") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (k 0)) (d (n "chrono-tz") (r "^0.6") (k 0)) (d (n "csv") (r "^1.1") (k 0)) (d (n "once_cell") (r "^1.10") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-field-with") (r "^0.1.2") (f (quote ("std"))) (k 0)))) (h "1i0hnr88axzks162s9r504gnrb06cwnw0m23dzvvj40n73wzb9w8") (f (quote (("default") ("_integration_tests"))))))
+
+(define-public crate-timezonedb-0.2.0 (c (n "timezonedb") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (k 0)) (d (n "chrono-tz") (r "^0.6") (k 0)) (d (n "country-code") (r "^0.2") (f (quote ("std" "serde"))) (k 0)) (d (n "csv") (r "^1.1") (k 0)) (d (n "once_cell") (r "^1.10") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-field-with") (r "^0.1.2") (f (quote ("std"))) (k 0)))) (h "0wycz2m694j2851vn93pjp2zrysq8k9xndv4vg48lin0j38dwnrb") (f (quote (("default") ("_integration_tests"))))))
+
+(define-public crate-timezonedb-0.2.1 (c (n "timezonedb") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (k 0)) (d (n "chrono-tz") (r "^0.6") (k 0)) (d (n "country-code") (r "^0.2") (f (quote ("std" "serde"))) (k 0)) (d (n "csv") (r "^1.1") (k 0)) (d (n "once_cell") (r "^1.10") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-field-with") (r "^0.1.2") (f (quote ("std"))) (k 0)))) (h "1abcdwd2vdv1pg8qjdwn09gwdidi8lzw57gb59xsgmahnlp8hlx6") (f (quote (("default") ("_integration_tests"))))))
+
+(define-public crate-timezonedb-0.3.0 (c (n "timezonedb") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (k 0)) (d (n "chrono-tz") (r "^0.8") (k 0)) (d (n "country-code") (r "^0.3") (f (quote ("std" "serde"))) (k 0)) (d (n "csv") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-field-with") (r "^0.1.2") (f (quote ("std"))) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)))) (h "17hf32scpplkkj05rbnyaw1bfajgxdgy8y6hl32040f5dngq8cad") (f (quote (("default") ("_integration_tests"))))))
+

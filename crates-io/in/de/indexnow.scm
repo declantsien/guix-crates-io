@@ -1,0 +1,4 @@
+(define-module (crates-io in de indexnow) #:use-module (crates-io))
+
+(define-public crate-indexnow-0.0.0 (c (n "indexnow") (v "0.0.0") (d (list (d (n "argfile") (r "^0.1.4") (d #t) (k 0)) (d (n "assert-json-diff") (r "^2.0.2") (d #t) (k 2)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "headers") (r "^0.3.7") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "http-body") (r "^0.4.5") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "01x98gd7vsjng5ng6ljzr5yfv9vig4d0i5mdc8r9adqpdsfh2i9d")))
+

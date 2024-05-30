@@ -1,0 +1,18 @@
+(define-module (crates-io ce tk cetkaik_kiaak) #:use-module (crates-io))
+
+(define-public crate-cetkaik_kiaak-0.1.0 (c (n "cetkaik_kiaak") (v "0.1.0") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "06qqyrkk2mybplgp0wsy6gdwaq6py7dgfvab78cpniwhxh0in0z0")))
+
+(define-public crate-cetkaik_kiaak-0.1.1 (c (n "cetkaik_kiaak") (v "0.1.1") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "0csmq5v4dw2hckahysxqvb9y84yn6rnqc7p1kz66111qlvr726gy")))
+
+(define-public crate-cetkaik_kiaak-0.1.2 (c (n "cetkaik_kiaak") (v "0.1.2") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "04vlijhwk0gn4kkbniwyxjyd3hph86gzpgzy6fi6yifm7pri463r")))
+
+(define-public crate-cetkaik_kiaak-0.1.3 (c (n "cetkaik_kiaak") (v "0.1.3") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.2.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "15szdvn91471g28cm5bgj2bnzmq7bxcp9q8c03nk1is6jbb5sd4r")))
+
+(define-public crate-cetkaik_kiaak-0.1.5 (c (n "cetkaik_kiaak") (v "0.1.5") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)))) (h "0xafdxrjk2pfmadnhdr72wd617nm1m0kdv04qpaal0hbd5xkqsap")))
+
+(define-public crate-cetkaik_kiaak-0.1.6 (c (n "cetkaik_kiaak") (v "0.1.6") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)))) (h "1wdcznijgg9w7zrl9q11cla7nzb5l2c6ayri51axzfbrzgm2hl63")))
+
+(define-public crate-cetkaik_kiaak-0.1.7 (c (n "cetkaik_kiaak") (v "0.1.7") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.3.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^6.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "regex") (r "^1.5.3") (d #t) (k 0)))) (h "0k7nfgx1lx8cgb9wbkxcb0i7fg27qfs8s0vhz4fpgvrf3w3pfv0b")))
+
+(define-public crate-cetkaik_kiaak-0.1.9 (c (n "cetkaik_kiaak") (v "0.1.9") (d (list (d (n "big_s") (r "^1.0.2") (d #t) (k 0)) (d (n "cetkaik_core") (r "^0.3.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "nom") (r "^7.0.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "pekzep_numeral") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)))) (h "0kgpbvhcg297ki2ggzknb6gvi7py5q5248fmjg06zp8l28dhcwg8")))
+

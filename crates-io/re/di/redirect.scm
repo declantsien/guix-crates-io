@@ -1,0 +1,10 @@
+(define-module (crates-io re di redirect) #:use-module (crates-io))
+
+(define-public crate-redirect-0.1.0 (c (n "redirect") (v "0.1.0") (d (list (d (n "bitflags") (r "^0.9") (d #t) (k 0)) (d (n "d3d12-sys") (r "^0.2") (d #t) (k 0)) (d (n "d3dcompiler-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxgi-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxguid-sys") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (k 0)) (d (n "winit") (r "^0.6") (d #t) (k 2)))) (h "0bslw6i9kl67czgkwnpmrdyvq70qi73avvq2603a2a326kf6sfz0")))
+
+(define-public crate-redirect-0.2.0 (c (n "redirect") (v "0.2.0") (d (list (d (n "bitflags") (r "^0.9") (d #t) (k 0)) (d (n "d3d12-sys") (r "^0.2") (d #t) (k 0)) (d (n "d3dcompiler-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxgi-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxguid-sys") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (k 0)) (d (n "winit") (r "^0.6") (d #t) (k 2)))) (h "0a0s7df2619fvx8ii21lgm68wrf5sxckzcmvx3y3hjpwhqpw6w6x")))
+
+(define-public crate-redirect-0.2.1 (c (n "redirect") (v "0.2.1") (d (list (d (n "bitflags") (r "^0.9") (d #t) (k 0)) (d (n "d3d12-sys") (r "^0.2") (d #t) (k 0)) (d (n "d3dcompiler-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxgi-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxguid-sys") (r "^0.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (k 0)) (d (n "winit") (r "^0.6") (d #t) (k 2)))) (h "02bx9nc9qbrgb3p4pdlxczvb90h4zcdf5clpc1vhadmjg0gmprv4")))
+
+(define-public crate-redirect-0.3.0 (c (n "redirect") (v "0.3.0") (d (list (d (n "bitflags") (r "^0.9") (d #t) (k 0)) (d (n "d3d12-sys") (r "^0.2") (d #t) (k 0)) (d (n "d3dcompiler-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxgi-sys") (r "^0.2") (d #t) (k 0)) (d (n "dxguid-sys") (r "^0.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (k 0)) (d (n "winit") (r "^0.6") (d #t) (k 2)))) (h "0kaqrrgfhlxsr2p6l40bjddhi2b0fx2v0bhrwk0awn2frszp7vq3")))
+

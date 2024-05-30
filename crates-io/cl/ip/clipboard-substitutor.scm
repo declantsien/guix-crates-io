@@ -1,0 +1,4 @@
+(define-module (crates-io cl ip clipboard-substitutor) #:use-module (crates-io))
+
+(define-public crate-clipboard-substitutor-0.7.0 (c (n "clipboard-substitutor") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "argv") (r "^0.1.5") (d #t) (k 0)) (d (n "assay") (r "^0.1.1") (d #t) (k 2)) (d (n "clipboard-master") (r "^3.1.3") (d #t) (k 0)) (d (n "copypasta") (r "^0.7.1") (f (quote ("x11"))) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.139") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-journald") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.14") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1xfs5bycvwllpjmmgghkpib2kdpig2ahhjs8r3ci5wrjk0a5yr28") (f (quote (("journald" "tracing-journald"))))))
+

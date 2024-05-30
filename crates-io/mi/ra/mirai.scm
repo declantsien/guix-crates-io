@@ -1,0 +1,10 @@
+(define-module (crates-io mi ra mirai) #:use-module (crates-io))
+
+(define-public crate-mirai-0.0.1 (c (n "mirai") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "mio") (r "^0.7.0-alpha.1") (f (quote ("os-poll"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.12") (o #t) (d #t) (k 0)))) (h "19vkh13w24d34wx9hg2k6mr4p3xggyyils61bziws78a6pmqpc8k") (f (quote (("use-tracing" "tracing") ("use-log" "log") ("udp" "mio/udp") ("tcp" "mio/tcp") ("default" "use-tracing" "tcp" "udp"))))))
+
+(define-public crate-mirai-0.0.2 (c (n "mirai") (v "0.0.2") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "mio") (r "^0.7.0-alpha.1") (f (quote ("os-poll"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.12") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.2") (d #t) (k 2)))) (h "1ypbhkxlcpaavnpfi6k2wlwvjidvs9c5p48va7756hswv6kl8796") (f (quote (("use-tracing" "tracing") ("use-log" "log") ("udp" "mio/udp") ("tcp" "mio/tcp") ("default" "use-tracing" "tcp" "udp")))) (y #t)))
+
+(define-public crate-mirai-0.0.3 (c (n "mirai") (v "0.0.3") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mio") (r "^0.7.0") (f (quote ("os-poll"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.2") (d #t) (k 2)))) (h "1ivgvgyy646ps9w5ajsdv7brqmjcsbjhwkj52p7k6wyy7sr4cjq8") (f (quote (("udp" "mio/udp") ("tcp" "mio/tcp") ("default" "tcp" "udp"))))))
+
+(define-public crate-mirai-0.0.4 (c (n "mirai") (v "0.0.4") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mio") (r "^0.7.0") (f (quote ("os-poll"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.2") (d #t) (k 2)))) (h "02g6jhz7i0sqd0kr0fhzm1bqb68ry8f45x2ywirawaj3hxqxdmwm") (f (quote (("udp" "mio/udp") ("tcp" "mio/tcp") ("default" "tcp" "udp"))))))
+

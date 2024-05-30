@@ -1,0 +1,24 @@
+(define-module (crates-io jc -p jc-protobuf-notification) #:use-module (crates-io))
+
+(define-public crate-jc-protobuf-notification-1.0.28 (c (n "jc-protobuf-notification") (v "1.0.28") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "0yj4q9r54ifvyg1crrd7w3casbfjbdpkw0lbfzkhmnfcl8i533ia")))
+
+(define-public crate-jc-protobuf-notification-1.0.29 (c (n "jc-protobuf-notification") (v "1.0.29") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "0xmc6gq5gg4w1xlc7iwi10dlp5vbgd8mkg9b2k87b4p9d3zp2mqd")))
+
+(define-public crate-jc-protobuf-notification-1.0.30 (c (n "jc-protobuf-notification") (v "1.0.30") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "024vrrv6zcqpdliq1qrl3a5i6wranw847qf753yd6skg69hmfqr7")))
+
+(define-public crate-jc-protobuf-notification-1.0.31 (c (n "jc-protobuf-notification") (v "1.0.31") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "19yxd3whymg01ncqbhrdxwxdnyv7g9gfbxps1924z9hpwkhmsiwc")))
+
+(define-public crate-jc-protobuf-notification-1.0.32 (c (n "jc-protobuf-notification") (v "1.0.32") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0vak8491ysviyq6sqfqpjc79iqvsdxcf1ynmpm95m8gdp7j20pv3")))
+
+(define-public crate-jc-protobuf-notification-1.0.33 (c (n "jc-protobuf-notification") (v "1.0.33") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "03c9pzg0624fri46g52s8xsisqw24z50r36z6xrp3zsy6qngpkzi")))
+
+(define-public crate-jc-protobuf-notification-1.0.34 (c (n "jc-protobuf-notification") (v "1.0.34") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0y94fap5y42q6iz27n21rs9fgcb1m6bkj8rg2gh0dzg2228fw18r")))
+
+(define-public crate-jc-protobuf-notification-1.0.35 (c (n "jc-protobuf-notification") (v "1.0.35") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0rywfw34gv5k0i1mii6849qqdczm86gxx2xnmh9grxhagiqbnz9p")))
+
+(define-public crate-jc-protobuf-notification-1.0.36 (c (n "jc-protobuf-notification") (v "1.0.36") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "1vdn4vvkjapn7r4r14s7hmdbadx24cp4h79wxssr0smyxil1nlpn")))
+
+(define-public crate-jc-protobuf-notification-1.0.37 (c (n "jc-protobuf-notification") (v "1.0.37") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "1vh8pmkvmijfn5yvm2jd7i9crq3y97i0r3r7rq5n7qgcqh7bp21l")))
+
+(define-public crate-jc-protobuf-notification-1.0.38 (c (n "jc-protobuf-notification") (v "1.0.38") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0ff35a3pj378yj31hpksmg1ayzycjws55kvfvhnw499r1lkjh2q0")))
+

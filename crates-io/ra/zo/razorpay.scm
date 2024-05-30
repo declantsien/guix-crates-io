@@ -1,0 +1,24 @@
+(define-module (crates-io ra zo razorpay) #:use-module (crates-io))
+
+(define-public crate-razorpay-0.1.0 (c (n "razorpay") (v "0.1.0") (d (list (d (n "data-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "ring") (r "^0.16.18") (d #t) (k 0)))) (h "1y4qdv9c3mgb9p1hf4mdjzq6h284frrd7wg3pqbbxav4r6m6cjj0")))
+
+(define-public crate-razorpay-0.2.0 (c (n "razorpay") (v "0.2.0") (d (list (d (n "data-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "ring") (r "^0.16.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)))) (h "1k4c9pnfmvcdcf19nhhaxcr9rk6yi9hwbgbyl65mbiz9q5n7kp0c")))
+
+(define-public crate-razorpay-0.2.1 (c (n "razorpay") (v "0.2.1") (d (list (d (n "data-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "ring") (r "^0.16.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)))) (h "0v4pkky506jx5h43qjg7cyls7cs4cllx8czwazl4frqi9r1h0g0d")))
+
+(define-public crate-razorpay-0.2.2 (c (n "razorpay") (v "0.2.2") (d (list (d (n "data-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "ring") (r "^0.16.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)))) (h "18rffar3gw8qgjrhjr2164vh1z340cd08nb2ifr4zxrj4b48sz4s")))
+
+(define-public crate-razorpay-0.2.3 (c (n "razorpay") (v "0.2.3") (d (list (d (n "data-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "ring") (r "^0.16.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "04a6vxxdwcrggikj5ij1y8imxpm0gdajgrvpy4ml09bh32a0r6yg")))
+
+(define-public crate-razorpay-0.2.4 (c (n "razorpay") (v "0.2.4") (d (list (d (n "data-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "ring") (r "^0.16.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "0j9njcckd85scyjmjy8x8863q830pkpvzxmafz33xk45ymj4gkg1")))
+
+(define-public crate-razorpay-0.2.5 (c (n "razorpay") (v "0.2.5") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 2)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1g87pvnqgfbpacmwr6jawbdw7xdw0r2dsrs11rcxhl95m4nbww3p")))
+
+(define-public crate-razorpay-0.3.0 (c (n "razorpay") (v "0.3.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)))) (h "12vdm3xk71lr48jj1w2qzzmam4rhw1bj3jvkiw8lx59jd1c0cs3s")))
+
+(define-public crate-razorpay-0.3.1 (c (n "razorpay") (v "0.3.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)))) (h "17wfgl1k1rg078wzzarn6l0424nmdvhg8z8k2lpg5fp96vrs5gcz")))
+
+(define-public crate-razorpay-0.3.2 (c (n "razorpay") (v "0.3.2") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)))) (h "008l5h2ixl8xdr0rvfmdj4kf43pmvakm0bqcy1zhakcvmljwjs5n")))
+
+(define-public crate-razorpay-0.3.3 (c (n "razorpay") (v "0.3.3") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)))) (h "1m70izv9wz6ywmhjq1vraz7kjc4nqkf4nq9rb5qd6jlm07wkrbqq")))
+

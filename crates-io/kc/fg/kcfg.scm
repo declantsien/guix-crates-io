@@ -1,0 +1,12 @@
+(define-module (crates-io kc fg kcfg) #:use-module (crates-io))
+
+(define-public crate-kcfg-0.1.0 (c (n "kcfg") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta") (d #t) (k 0)) (d (n "exitcode") (r "^1.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "14a6f2d39w1rc9nmprcdn8rd9xl621nwr9c4wjzrvnpymvfg2n44")))
+
+(define-public crate-kcfg-0.1.1 (c (n "kcfg") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta") (d #t) (k 0)) (d (n "exitcode") (r "^1.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0avqxzin3ckq80ibdbgrq2hqzycv2qqyqa6gm18gvd5r3l4sfn8g")))
+
+(define-public crate-kcfg-0.1.2 (c (n "kcfg") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta") (d #t) (k 0)) (d (n "exitcode") (r "^1.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0p29594wn61rfkmfqx9b30ll07gqa4hvylkw0im7nmagrb32ifv0")))
+
+(define-public crate-kcfg-0.2.0 (c (n "kcfg") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0.6") (d #t) (k 0)) (d (n "exitcode") (r "^1.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "09i7f60qfqq2q6w8nw3jd7g98ji4b3s20ysyjf9gvr351jk1bv8i")))
+
+(define-public crate-kcfg-0.2.1 (c (n "kcfg") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0.6") (d #t) (k 0)) (d (n "exitcode") (r "^1.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ygxjhnxc8j2gfc9x5jqnxcbsswis9azyznvx709ah3jha23fvjj")))
+

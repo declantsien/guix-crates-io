@@ -1,0 +1,4 @@
+(define-module (crates-io te st test_friendly_rdap_client) #:use-module (crates-io))
+
+(define-public crate-test_friendly_rdap_client-0.1.0 (c (n "test_friendly_rdap_client") (v "0.1.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "ip_network") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ip_network_table") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_with") (r "^2.0.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "02ryv2gsj366kwl1gfnshdi62wyicymb4yjyql1wacc6640h2ivq") (r "1.56")))
+

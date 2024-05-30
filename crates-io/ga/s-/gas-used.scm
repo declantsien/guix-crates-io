@@ -1,0 +1,8 @@
+(define-module (crates-io ga s- gas-used) #:use-module (crates-io))
+
+(define-public crate-gas-used-0.1.0 (c (n "gas-used") (v "0.1.0") (d (list (d (n "chan") (r "^0.1.23") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-rc.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ethers") (r "^0.6.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.8") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0n0v8ipksrvx5i0p92sks2849q7ywdvcq84fnfs3xsrbgg4pzz6m")))
+
+(define-public crate-gas-used-0.1.1 (c (n "gas-used") (v "0.1.1") (d (list (d (n "chan") (r "^0.1.23") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-rc.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ethers") (r "^0.6.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.8") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1law4jbnypnhqzw9a00fh6zsz305qqnassjlkqqw3czci0dihyqy")))
+
+(define-public crate-gas-used-0.1.2 (c (n "gas-used") (v "0.1.2") (d (list (d (n "chan") (r "^0.1.23") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-rc.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ethers") (r "^0.6.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.8") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1b63ywdqrpwfw242l2rc1iak2kw91lw73j1d2phirmxn16k9qd2k")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ng yn ngyn_cli) #:use-module (crates-io))
+
+(define-public crate-ngyn_cli-0.0.1 (c (n "ngyn_cli") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.2.25") (f (quote ("cargo"))) (o #t) (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "tracing-tree") (r "^0.2.1") (d #t) (k 0)))) (h "17n3fvp1md06gy6ibc75yyga18yyxr04yq2yqbjggb7si6j8l9v2") (f (quote (("default" "cli") ("cli" "clap"))))))
+

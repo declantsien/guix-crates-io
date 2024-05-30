@@ -1,0 +1,8 @@
+(define-module (crates-io fo g- fog-human-json) #:use-module (crates-io))
+
+(define-public crate-fog-human-json-0.1.0 (c (n "fog-human-json") (v "0.1.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fog-crypto") (r "^0.4") (d #t) (k 0)) (d (n "fog-pack") (r "^0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "ryu") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0sdapdb412xkl6n7h8ghi4ksy41l4z97s79lqivv1rnx9vs9qv2d")))
+
+(define-public crate-fog-human-json-0.2.0 (c (n "fog-human-json") (v "0.2.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fog-crypto") (r "^0.4") (d #t) (k 0)) (d (n "fog-pack") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "ryu") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0lnb2lmzgw7zz2d2wz3k3mxlskxr72zx48kd28cjwalkyvancrrs")))
+
+(define-public crate-fog-human-json-0.2.1 (c (n "fog-human-json") (v "0.2.1") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fog-crypto") (r "^0.4.3") (d #t) (k 0)) (d (n "fog-pack") (r "^0.4.2") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "ryu") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "05nsr8rvig6nwjplhx9hk77n6sd2ridgsvy06cqpf45kp0nwkqzp")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io li gh light-hasher) #:use-module (crates-io))
+
+(define-public crate-light-hasher-0.1.1 (c (n "light-hasher") (v "0.1.1") (d (list (d (n "ark-bn254") (r "^0.4.0") (d #t) (t "cfg(not(target_os = \"solana\"))") (k 0)) (d (n "light-poseidon") (r "^0.2.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (t "cfg(not(target_os = \"solana\"))") (k 0)) (d (n "sha3") (r "^0.10") (d #t) (t "cfg(not(target_os = \"solana\"))") (k 0)) (d (n "solana-program") (r "^1.18.11") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "08d2p92c5nppr1bv6p4niv3gwf96lqk5hpgpz22lwqgajvh19gmi") (f (quote (("solana" "solana-program"))))))
+
+(define-public crate-light-hasher-0.1.4 (c (n "light-hasher") (v "0.1.4") (d (list (d (n "ark-bn254") (r "^0.4.0") (d #t) (t "cfg(not(target_os = \"solana\"))") (k 0)) (d (n "light-poseidon") (r "^0.2.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (t "cfg(not(target_os = \"solana\"))") (k 0)) (d (n "sha3") (r "^0.10") (d #t) (t "cfg(not(target_os = \"solana\"))") (k 0)) (d (n "solana-program") (r "^1.18.11") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "13yh5pbsni1nk94fccnil3flvm4n0mg6kb5fl8dsk7x8r3caqmic") (f (quote (("solana" "solana-program"))))))
+

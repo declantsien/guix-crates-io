@@ -1,0 +1,18 @@
+(define-module (crates-io sh ut shuttle-opendal) #:use-module (crates-io))
+
+(define-public crate-shuttle-opendal-0.38.0 (c (n "shuttle-opendal") (v "0.38.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.38.0") (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "16sgv70v90vqpzmic9ifmwrdpa1f0nh6arhqrdzqbk3qkr0a2akf")))
+
+(define-public crate-shuttle-opendal-0.39.0 (c (n "shuttle-opendal") (v "0.39.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.39.0") (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1kmgh0h8i7k6w9mj51299dxx6h4d01w5ry7gxiqz5gggj7ircc49")))
+
+(define-public crate-shuttle-opendal-0.40.0 (c (n "shuttle-opendal") (v "0.40.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.40.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0ii9jgbv9bg98zwl7n1i9mafjkhxqf0j954k8627pqdvdc6lw7hh")))
+
+(define-public crate-shuttle-opendal-0.41.0 (c (n "shuttle-opendal") (v "0.41.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.41.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0a6b0a0ki5fnzw16y4v1q1rvizaqjw3gwf6byynnfiq9j6qn8w0z")))
+
+(define-public crate-shuttle-opendal-0.42.0 (c (n "shuttle-opendal") (v "0.42.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.42.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0v47w6q6bggidlkf9fvmf3x4i85d0jqqrd992gs47mrhqa5ycbkv")))
+
+(define-public crate-shuttle-opendal-0.43.0 (c (n "shuttle-opendal") (v "0.43.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.43.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1s7hnpk45sgbz79jxsklda4m2n0mi76f682acfhmjnfk4jidczsn")))
+
+(define-public crate-shuttle-opendal-0.44.0 (c (n "shuttle-opendal") (v "0.44.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.44.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "006k8da6j075cnl65lm3m8ycld7rbf0vv7538pfnyknr7q88q98n")))
+
+(define-public crate-shuttle-opendal-0.45.0 (c (n "shuttle-opendal") (v "0.45.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "opendal") (r "^0.45") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shuttle-service") (r "^0.45.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1nqc8knqvsbd0xsigwv23khnyrdvjmqvsr0qh5kp5vn6vh76n40d")))
+

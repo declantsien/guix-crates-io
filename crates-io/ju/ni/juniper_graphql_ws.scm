@@ -1,0 +1,20 @@
+(define-module (crates-io ju ni juniper_graphql_ws) #:use-module (crates-io))
+
+(define-public crate-juniper_graphql_ws-0.2.0 (c (n "juniper_graphql_ws") (v "0.2.0") (d (list (d (n "juniper") (r "^0.15.0") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-core" "time"))) (k 0)))) (h "123dbbj31kqsjm4xmz9ah61hgvpz2qv8r8a31nznn192dipf7jy8")))
+
+(define-public crate-juniper_graphql_ws-0.2.1 (c (n "juniper_graphql_ws") (v "0.2.1") (d (list (d (n "juniper") (r "^0.15.1") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-core" "time"))) (k 0)))) (h "1gdxd8qgf3v9dnqvjd1jwrx9wqcd97cn71p7sh52yyfhw19p29gj")))
+
+(define-public crate-juniper_graphql_ws-0.2.2 (c (n "juniper_graphql_ws") (v "0.2.2") (d (list (d (n "juniper") (r "^0.15.2") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-core" "time"))) (k 0)))) (h "0l6vmdrm6wr3k64xbmbk95i6bf7c97wc89hpgw9fiiq3sxz96n6r")))
+
+(define-public crate-juniper_graphql_ws-0.2.3 (c (n "juniper_graphql_ws") (v "0.2.3") (d (list (d (n "juniper") (r "^0.15.3") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-core" "time"))) (k 0)))) (h "0mzg3y9j3491jnlk50r14qs9wxyqpqhipwsagd1sl279dgjwsg36")))
+
+(define-public crate-juniper_graphql_ws-0.2.4 (c (n "juniper_graphql_ws") (v "0.2.4") (d (list (d (n "juniper") (r "^0.15.4") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-core" "time"))) (k 0)))) (h "1gfz9xraxjgip8s6aiciid9n39nz59ssh5rjphfyh9ssiqhbim50")))
+
+(define-public crate-juniper_graphql_ws-0.2.5 (c (n "juniper_graphql_ws") (v "0.2.5") (d (list (d (n "juniper") (r "^0.15.6") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-core" "time"))) (k 0)))) (h "01pskr3va459fmb05fjxm66kqbr8mqxjgpmz5f9csy71hq67bfv8")))
+
+(define-public crate-juniper_graphql_ws-0.3.0 (c (n "juniper_graphql_ws") (v "0.3.0") (d (list (d (n "juniper") (r "^0.15.7") (k 0)) (d (n "juniper_subscriptions") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "time"))) (k 0)))) (h "1cq5w6vwic4bs52mf9la00fdgza12sbmki8xhh40zi59yb12cmgd")))
+
+(define-public crate-juniper_graphql_ws-0.2.6 (c (n "juniper_graphql_ws") (v "0.2.6") (d (list (d (n "juniper") (r "^0.15.8") (k 0)) (d (n "juniper_subscriptions") (r "^0.15.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "time"))) (k 0)))) (h "11dhbc0djgf2d34sf5hmvpa4nrjijgmqlhmk8845rdn6pgxiykiv")))
+
+(define-public crate-juniper_graphql_ws-0.4.0 (c (n "juniper_graphql_ws") (v "0.4.0") (d (list (d (n "juniper") (r "^0.16.0") (k 0)) (d (n "juniper_subscriptions") (r "^0.17.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.122") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.18") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt" "time"))) (k 0)))) (h "05x0dfii5f6cavygj0iijiqc1lsbd3fhb9xzzk4zawk0f4fb37kh") (f (quote (("graphql-ws") ("graphql-transport-ws")))) (r "1.73")))
+

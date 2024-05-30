@@ -1,0 +1,4 @@
+(define-module (crates-io to ml tomldoc) #:use-module (crates-io))
+
+(define-public crate-tomldoc-0.1.0 (c (n "tomldoc") (v "0.1.0") (d (list (d (n "camino") (r "^1.1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "nesty") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.23.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)))) (h "15kmm0f1mzhxi26yzpn3fv3fiqh64s0v8d56jyx7daapxzrjw6rx")))
+

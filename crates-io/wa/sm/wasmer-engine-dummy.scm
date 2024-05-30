@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-engine-dummy) #:use-module (crates-io))
+
+(define-public crate-wasmer-engine-dummy-1.0.0-alpha01.0 (c (n "wasmer-engine-dummy") (v "1.0.0-alpha01.0") (d (list (d (n "bincode") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (o #t) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "wasmer-compiler") (r "^1.0.0-alpha01.0") (d #t) (k 0)) (d (n "wasmer-engine") (r "^1.0.0-alpha01.0") (d #t) (k 0)) (d (n "wasmer-types") (r "^1.0.0-alpha01.0") (d #t) (k 0)) (d (n "wasmer-vm") (r "^1.0.0-alpha01.0") (d #t) (k 0)))) (h "0mq34b3an501iji4giy9jz7c5763bs878frqhm74av1k2c0frh1q") (f (quote (("serialize" "serde" "serde_bytes" "bincode") ("default" "serialize" "compiler") ("compiler" "wasmer-compiler/translator"))))))
+

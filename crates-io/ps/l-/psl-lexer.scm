@@ -1,0 +1,16 @@
+(define-module (crates-io ps l- psl-lexer) #:use-module (crates-io))
+
+(define-public crate-psl-lexer-0.1.0 (c (n "psl-lexer") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "rspec") (r "= 1.0.0-beta.3") (d #t) (k 2)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "0sa50dx3pw4m1m9kr9mi22gq5jp8vl5wmjbg07x05a2c6m00f8ld") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+
+(define-public crate-psl-lexer-0.2.0 (c (n "psl-lexer") (v "0.2.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "native-tls") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "rspec") (r "= 1.0.0-beta.4") (d #t) (k 2)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "0qsayzxjk2rmnb1ddknjc4wqshswinqa2f6hm6wmbs1363i4zy3c") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+
+(define-public crate-psl-lexer-0.2.1 (c (n "psl-lexer") (v "0.2.1") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "19ibjrhbdvdnjxvljgjmys9wv5gmhxh8q3vm2y2akk7az1bcw0li") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+
+(define-public crate-psl-lexer-0.2.2 (c (n "psl-lexer") (v "0.2.2") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "1h626icrcx7q9fqamvg23gr8j6zf68jidib6whmkf14h80fgg9vx") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+
+(define-public crate-psl-lexer-0.2.3 (c (n "psl-lexer") (v "0.2.3") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "0vhh80hkb6iqzzf5x2g94s04d06askd4wknslgd2yvn6c8br08zp") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+
+(define-public crate-psl-lexer-0.3.0 (c (n "psl-lexer") (v "0.3.0") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "0h62i92pagbx6rhpnb283rvqnq2i1l52gjcgd074vslk1f6rb4mq") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+
+(define-public crate-psl-lexer-0.3.1 (c (n "psl-lexer") (v "0.3.1") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "0iazywja2v50nc91dy51ccvhsd044d0ba93vbhzcxj9j2ffag5md") (f (quote (("remote_list" "native-tls") ("default" "remote_list"))))))
+

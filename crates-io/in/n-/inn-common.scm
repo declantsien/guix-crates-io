@@ -1,0 +1,6 @@
+(define-module (crates-io in n- inn-common) #:use-module (crates-io))
+
+(define-public crate-inn-common-0.1.0 (c (n "inn-common") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "http") (r "^0.2.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "moka") (r "^0.8.4") (f (quote ("future"))) (d #t) (k 0)) (d (n "pem") (r "^1.0.2") (d #t) (k 0)) (d (n "rcgen") (r "^0.9") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)))) (h "1kld7gab4g012jxzhgiz4fzzgavb3fjv72s1kl9qqq9qzpvk521b")))
+
+(define-public crate-inn-common-0.2.0 (c (n "inn-common") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "http") (r "^0.2.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "moka") (r "^0.8.4") (f (quote ("future"))) (d #t) (k 0)) (d (n "pem") (r "^1.0.2") (d #t) (k 0)) (d (n "rcgen") (r "^0.9") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)))) (h "1g6f6g8khb7alqm7grr9s3l6aa86fln22nm1jbj7lwsd8ns79s22")))
+

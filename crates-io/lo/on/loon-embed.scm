@@ -1,0 +1,6 @@
+(define-module (crates-io lo on loon-embed) #:use-module (crates-io))
+
+(define-public crate-loon-embed-0.4.0 (c (n "loon-embed") (v "0.4.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "rust-embed") (r "^6") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "054rkamwc3hgargizxnnhfwccdlxf8sfn0mvlxf00nq5idizchqb") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+
+(define-public crate-loon-embed-0.5.0 (c (n "loon-embed") (v "0.5.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "rust-embed") (r "^6") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "1vc1gzzqy95gc9dhzli6x5bbjwa1wvkmx5hrlkz0nb8zl50hlbz9") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+

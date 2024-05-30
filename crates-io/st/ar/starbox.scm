@@ -1,0 +1,6 @@
+(define-module (crates-io st ar starbox) #:use-module (crates-io))
+
+(define-public crate-starbox-0.3.0 (c (n "starbox") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bytes") (r "^1.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "exoquant") (r "^0.2.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.20") (f (quote ("zlib-ng-compat"))) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)))) (h "0nydpj9pclr66lsrymmz5nizrhi4wz62imp037vsdlfcarq65wyg")))
+
+(define-public crate-starbox-0.3.1 (c (n "starbox") (v "0.3.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bytes") (r "^1.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (o #t) (d #t) (k 0)) (d (n "exoquant") (r "^0.2.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.20") (f (quote ("zlib-ng-compat"))) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)))) (h "0p6mfdw0gibwwky4m515jr26j26kw1vw2fddb88mzmc7n23z3axq") (f (quote (("qr" "qrcode") ("cli" "clap"))))))
+

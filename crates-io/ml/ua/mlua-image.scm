@@ -1,0 +1,10 @@
+(define-module (crates-io ml ua mlua-image) #:use-module (crates-io))
+
+(define-public crate-mlua-image-0.1.0 (c (n "mlua-image") (v "0.1.0") (d (list (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "mlua") (r "^0.9.2") (d #t) (k 0)))) (h "1x7scr6kw51lzvwfxdid1dz8bxlln34mvndfq190pk8dzcl04lpm") (f (quote (("luajit52" "mlua/luajit52" "mlua/vendored") ("luajit" "mlua/luajit" "mlua/vendored") ("lua54" "mlua/lua54" "mlua/vendored") ("lua53" "mlua/lua53" "mlua/vendored") ("lua52" "mlua/lua52" "mlua/vendored") ("lua51" "mlua/lua51" "mlua/vendored"))))))
+
+(define-public crate-mlua-image-0.1.1 (c (n "mlua-image") (v "0.1.1") (d (list (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "mlua") (r "^0.9.4") (d #t) (k 0)))) (h "19q59k7smpxvc4bw5ynx9hpy89yml37kjdddwaw9mfxj824ji3ly") (f (quote (("luajit52" "mlua/luajit52" "mlua/vendored") ("luajit" "mlua/luajit" "mlua/vendored") ("lua54" "mlua/lua54" "mlua/vendored") ("lua53" "mlua/lua53" "mlua/vendored") ("lua52" "mlua/lua52" "mlua/vendored") ("lua51" "mlua/lua51" "mlua/vendored"))))))
+
+(define-public crate-mlua-image-0.1.2 (c (n "mlua-image") (v "0.1.2") (d (list (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "mlua") (r "^0.9.5") (d #t) (k 0)))) (h "0lksw4592nnih957yb9vwyy5l1pwa95sswr9acyf9bbmx65bn9bb") (f (quote (("luajit52" "mlua/luajit52" "mlua/vendored") ("luajit" "mlua/luajit" "mlua/vendored") ("lua54" "mlua/lua54" "mlua/vendored") ("lua53" "mlua/lua53" "mlua/vendored") ("lua52" "mlua/lua52" "mlua/vendored") ("lua51" "mlua/lua51" "mlua/vendored"))))))
+
+(define-public crate-mlua-image-0.1.3 (c (n "mlua-image") (v "0.1.3") (d (list (d (n "image") (r "^0.24.9") (d #t) (k 0)) (d (n "mlua") (r "^0.9.6") (d #t) (k 0)))) (h "09zgnhvmrw6anblysm2ykg3n1ykf3bbdfz8ljdnbfcvn9bir5phr") (f (quote (("luajit52" "mlua/luajit52" "mlua/vendored") ("luajit" "mlua/luajit" "mlua/vendored") ("lua54" "mlua/lua54" "mlua/vendored") ("lua53" "mlua/lua53" "mlua/vendored") ("lua52" "mlua/lua52" "mlua/vendored") ("lua51" "mlua/lua51" "mlua/vendored"))))))
+

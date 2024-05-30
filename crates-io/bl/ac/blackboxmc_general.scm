@@ -1,0 +1,18 @@
+(define-module (crates-io bl ac blackboxmc_general) #:use-module (crates-io))
+
+(define-public crate-blackboxmc_general-0.1.0 (c (n "blackboxmc_general") (v "0.1.0") (d (list (d (n "blackboxmc_proc") (r "^0.1.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "1i9wv0ppdikffmz72y4gsi3wih01sifbbkddk0gssbsb4x9nhsqb")))
+
+(define-public crate-blackboxmc_general-0.2.0 (c (n "blackboxmc_general") (v "0.2.0") (d (list (d (n "blackboxmc_proc") (r "^0.2.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "1fiiwghla5b0740miablm66bl1jb4fpf7i92h5mg5a4pmy5v3nbk")))
+
+(define-public crate-blackboxmc_general-0.3.0 (c (n "blackboxmc_general") (v "0.3.0") (d (list (d (n "blackboxmc_proc") (r "^0.3.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "1fvw2xkvsh15rqj28q7gpj62yl3qz0dr5x9i86p57qkchla9i9ja")))
+
+(define-public crate-blackboxmc_general-0.3.1 (c (n "blackboxmc_general") (v "0.3.1") (d (list (d (n "blackboxmc_proc") (r "^0.3.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "0gwjv9r2np3k0ryxaasskskd27hwcwbgck6z8fcl47dfnzpicy76")))
+
+(define-public crate-blackboxmc_general-0.4.0 (c (n "blackboxmc_general") (v "0.4.0") (d (list (d (n "blackboxmc_proc") (r "^0.4.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "161ra3qwpddzx134llqgs7hc0i3hq26wslx2c41n6jj6bjqx2h4j")))
+
+(define-public crate-blackboxmc_general-0.4.1 (c (n "blackboxmc_general") (v "0.4.1") (d (list (d (n "blackboxmc_proc") (r "^0.4.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "1abc55hf4s9rgzj7n0fkx05c4r6qgqzx3wzvxhfx2wsnsffqz5dq")))
+
+(define-public crate-blackboxmc_general-0.5.0 (c (n "blackboxmc_general") (v "0.5.0") (d (list (d (n "blackboxmc_proc") (r "^0.5.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "0l33df1qccmxvj6rymj8vc99cl33xf8skv1lvb47pmzsswcw33xb") (f (quote (("allow_release_build"))))))
+
+(define-public crate-blackboxmc_general-0.5.1 (c (n "blackboxmc_general") (v "0.5.1") (d (list (d (n "blackboxmc_proc") (r "^0.5.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "jni") (r "^0.21.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)))) (h "01qgz5rwwraaxf22xrassx86ksrv3z79xj2qbllcw0sqll94jhgm") (f (quote (("allow_release_build"))))))
+

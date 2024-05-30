@@ -1,0 +1,8 @@
+(define-module (crates-io wa sm wasmcloud_interface_mlinference) #:use-module (crates-io))
+
+(define-public crate-wasmcloud_interface_mlinference-0.2.0 (c (n "wasmcloud_interface_mlinference") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "wasmbus-rpc") (r "^0.9") (d #t) (k 0)) (d (n "weld-codegen") (r "^0.4.6") (d #t) (k 1)))) (h "021vfbc0p7gk7566mk4gx9qgxhvfd3x83pfnn0hmshdjvcd0drzp") (f (quote (("default"))))))
+
+(define-public crate-wasmcloud_interface_mlinference-0.2.1 (c (n "wasmcloud_interface_mlinference") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "wasmbus-rpc") (r "^0.9") (d #t) (k 0)) (d (n "weld-codegen") (r "^0.4.6") (d #t) (k 1)))) (h "1b0v9l9w4wk1fmzpvp374jd8f6nqzbn5py5zhd8c7rn5584j60jj") (f (quote (("default"))))))
+
+(define-public crate-wasmcloud_interface_mlinference-0.3.0 (c (n "wasmcloud_interface_mlinference") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "wasmbus-rpc") (r "^0.10.0") (d #t) (k 0)) (d (n "weld-codegen") (r "^0.5.0") (d #t) (k 1)))) (h "189yrhpbqjdhz62jfgwn04c0y28hi928xfcd114kwdplva3waadf") (f (quote (("default"))))))
+

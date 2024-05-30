@@ -1,0 +1,4 @@
+(define-module (crates-io ge ne generic-device-plugin) #:use-module (crates-io))
+
+(define-public crate-generic-device-plugin-0.0.1 (c (n "generic-device-plugin") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "prost") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.15") (f (quote ("net"))) (d #t) (k 0)) (d (n "tonic") (r "^0.11.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 1)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "1wxwais2jykzlimv5xiagdlx6akbbcyr3l6cm97135svj8d3cw5g")))
+

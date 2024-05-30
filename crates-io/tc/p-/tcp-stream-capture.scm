@@ -1,0 +1,6 @@
+(define-module (crates-io tc p- tcp-stream-capture) #:use-module (crates-io))
+
+(define-public crate-tcp-stream-capture-0.1.0 (c (n "tcp-stream-capture") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 2)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "cxx") (r "^1.0.122") (d #t) (k 0)) (d (n "cxx-build") (r "^1.0.122") (d #t) (k 1)) (d (n "pcapplusplus-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "0f4gg7f2fbsr2lxgclgk0rm4p5b2784ppvh5ycrkiqh679fhbwmv")))
+
+(define-public crate-tcp-stream-capture-0.2.0 (c (n "tcp-stream-capture") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 2)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "cxx") (r "^1.0.122") (d #t) (k 0)) (d (n "cxx-build") (r "^1.0.122") (d #t) (k 1)) (d (n "pcapplusplus-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1k56iw5hmjcsgypfisffhq1ymyk7bbpxrqps09im8a5g0z2zylgx")))
+

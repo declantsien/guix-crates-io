@@ -1,0 +1,36 @@
+(define-module (crates-io re na rename-gru) #:use-module (crates-io))
+
+(define-public crate-rename-gru-0.1.0 (c (n "rename-gru") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0l7zkaapwafr2fqwx816mys3pvcdmi0dlsdwyclf2rq4w1g732i6")))
+
+(define-public crate-rename-gru-0.1.1 (c (n "rename-gru") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "07njdbcha0y65k4bnd4z7sij56wa5dhzxdarlhiaax55bdyairn6")))
+
+(define-public crate-rename-gru-0.1.2 (c (n "rename-gru") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0f73qqd3z2gqpqjjnaf7vkzp41q4zccwrf1hmyhmwdsmf1k7hpri")))
+
+(define-public crate-rename-gru-0.2.0 (c (n "rename-gru") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "00w8ah30qzpkwgw5ldx1zn5xysl2fbcda5nwg7438zkvrx3w1cy2")))
+
+(define-public crate-rename-gru-0.2.3 (c (n "rename-gru") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0aaq1q9zm5cxy7dc9p2knk1czy8rb3irzh0rih46ipl2lz874z4a")))
+
+(define-public crate-rename-gru-0.3.0 (c (n "rename-gru") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "09zhrhpydmhi243lv0sk1bg6axr31fv68yr2rslp22pszkwr5bl4")))
+
+(define-public crate-rename-gru-0.4.0 (c (n "rename-gru") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "renamore") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "1zjkqvqa53832p0199ibmf7v14mravhzy487qnyy8v9phw21czwy")))
+
+(define-public crate-rename-gru-0.4.1 (c (n "rename-gru") (v "0.4.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "renamore") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "18wnhx4a1djan5b71lxsr6p6sssq46kjlslg78fx1cps5l2ksdpr")))
+
+(define-public crate-rename-gru-0.5.0 (c (n "rename-gru") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "file-id") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "renamore") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "08xbnhq501prpyqads4an2kxb9n3cgjbwi5vqxkjl3jm9qwrqgaf")))
+
+(define-public crate-rename-gru-0.6.0 (c (n "rename-gru") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0w76761y86wwcp85k8bfvsb9xmhl9yvl5vychbw9bxcwpin94j5l")))
+
+(define-public crate-rename-gru-0.7.0 (c (n "rename-gru") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0zfmmx7bvk5zwp2ymlmcwwyakmyh68hg3l9kmqdqnjbzw7bq033m")))
+
+(define-public crate-rename-gru-0.7.1 (c (n "rename-gru") (v "0.7.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15qj3w1sgjq6yl4h5ql04yxrggsg75sc1g1ylv6hyxnw9gp37zp0")))
+
+(define-public crate-rename-gru-0.8.0 (c (n "rename-gru") (v "0.8.0") (d (list (d (n "any_ascii") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "076bzjfnv7hih4k2cs0lfg92nhqhxjmsncgalpjjzbqcza06bpq0")))
+
+(define-public crate-rename-gru-0.8.1 (c (n "rename-gru") (v "0.8.1") (d (list (d (n "any_ascii") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1af2wln59zvb1cgxqxi7lyvdaj3jw6v24j42zhq9izwraxcg3qmm")))
+
+(define-public crate-rename-gru-0.8.2 (c (n "rename-gru") (v "0.8.2") (d (list (d (n "any_ascii") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0vg87f0m994w012l0sgad0bv0r996bxi42z6jl970dl1mv81dixr")))
+
+(define-public crate-rename-gru-0.9.0 (c (n "rename-gru") (v "0.9.0") (d (list (d (n "any_ascii") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1jwibd6rxlsr5589a076in91s90za80jf79p2cmv22ci4fckjdq4")))
+
+(define-public crate-rename-gru-0.9.1 (c (n "rename-gru") (v "0.9.1") (d (list (d (n "any_ascii") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "file-id") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "renamore") (r "^0.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "13hc8x14xgircqdawnk2acsq0w25sqf56ad0pqxryjvas4fyv9xl")))
+

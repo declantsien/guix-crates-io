@@ -1,0 +1,8 @@
+(define-module (crates-io tu ne tunein) #:use-module (crates-io))
+
+(define-public crate-tunein-0.1.0 (c (n "tunein") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "m3u") (r "^1.0.0") (d #t) (k 0)) (d (n "pls") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (f (quote ("h1-client-rustls"))) (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("tokio-macros" "macros" "rt" "rt-multi-thread"))) (d #t) (k 0)))) (h "1b0r8jp377758ns0lnjhxm503pllbsfcr9bc5wa3l7zinprp8xvw")))
+
+(define-public crate-tunein-0.1.1 (c (n "tunein") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "m3u") (r "^1.0.0") (d #t) (k 0)) (d (n "pls") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (f (quote ("h1-client-rustls"))) (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("tokio-macros" "macros" "rt" "rt-multi-thread"))) (d #t) (k 0)))) (h "1c4z4rl8074raxcknzsda5xy2n3y6q1rcv44bvvbkfsh56k2ghbk")))
+
+(define-public crate-tunein-0.1.2 (c (n "tunein") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "m3u") (r "^1.0.0") (d #t) (k 0)) (d (n "pls") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (f (quote ("h1-client-rustls"))) (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("tokio-macros" "macros" "rt" "rt-multi-thread"))) (d #t) (k 0)))) (h "0grj3qw35qyip2smgv2chhf392lv5rw1wcbxkrjb2kfa5vhqrd7v")))
+

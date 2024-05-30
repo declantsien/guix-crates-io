@@ -1,0 +1,26 @@
+(define-module (crates-io va rl varlink_generator) #:use-module (crates-io))
+
+(define-public crate-varlink_generator-5.0.0 (c (n "varlink_generator") (v "5.0.0") (d (list (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "varlink_parser") (r "^1.1") (d #t) (k 0)))) (h "0bhm75xq26lysx7awjmx51i9xipl9b01h019zs5lnyx8934h8959")))
+
+(define-public crate-varlink_generator-5.0.1 (c (n "varlink_generator") (v "5.0.1") (d (list (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "varlink_parser") (r "^2") (d #t) (k 0)))) (h "0rqc3q9p3hh44wn8irdh3qi0vzxfw5c8k70sxqj25jhidv843p2k")))
+
+(define-public crate-varlink_generator-5.1.0 (c (n "varlink_generator") (v "5.1.0") (d (list (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "varlink_parser") (r "^2.1") (d #t) (k 0)))) (h "16cyk60xkg5jz35psiw69arlfsz9xa40w3hk2fsyxr4ya2cizj81")))
+
+(define-public crate-varlink_generator-5.1.1 (c (n "varlink_generator") (v "5.1.1") (d (list (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "varlink_parser") (r "^2.1") (d #t) (k 0)))) (h "1bc7vil1kjyznay4sh32mzjq5gymx0pidimrymh338k58pf4n7qn")))
+
+(define-public crate-varlink_generator-6.0.0 (c (n "varlink_generator") (v "6.0.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "getopts") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)) (d (n "varlink_parser") (r "^2.1") (d #t) (k 0)))) (h "1sdb3qdpvwxmq4ds7k7w3bi45wxk3kz8195hwgzbvrw9da68i8bk")))
+
+(define-public crate-varlink_generator-7.0.0 (c (n "varlink_generator") (v "7.0.0") (d (list (d (n "chainerror") (r "^0.4") (d #t) (k 0)) (d (n "getopts") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)) (d (n "varlink_parser") (r "^3") (d #t) (k 0)))) (h "1pbq5pzzhmk3klijz39rmk5l3w0b87p0mkzzc54lcpkf3b5lavhm")))
+
+(define-public crate-varlink_generator-7.0.1 (c (n "varlink_generator") (v "7.0.1") (d (list (d (n "chainerror") (r "^0.4") (d #t) (k 0)) (d (n "getopts") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)) (d (n "varlink_parser") (r "^4") (d #t) (k 0)))) (h "0wmdwh21km4yyf22fsw3ssfb18gk42hv7lvh5sx3q3686jv0nhgs")))
+
+(define-public crate-varlink_generator-7.1.0 (c (n "varlink_generator") (v "7.1.0") (d (list (d (n "chainerror") (r "^0.4") (d #t) (k 0)) (d (n "getopts") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)) (d (n "varlink_parser") (r "^4") (d #t) (k 0)))) (h "18796p22b8gcnbylib5p6i9in8bw9jrd880cxd7aqal4dhb381ld")))
+
+(define-public crate-varlink_generator-8.0.0 (c (n "varlink_generator") (v "8.0.0") (d (list (d (n "chainerror") (r "^0.4.2") (d #t) (k 0)) (d (n "getopts") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)) (d (n "varlink_parser") (r "^4") (d #t) (k 0)))) (h "1saqpx746ibz1x7c22dnhbq98a4c8il6snmcxgb8ka7qjcw90rn9")))
+
+(define-public crate-varlink_generator-9.0.0 (c (n "varlink_generator") (v "9.0.0") (d (list (d (n "chainerror") (r "^0.4.3") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "syn") (r "^1.0.8") (d #t) (k 0)) (d (n "varlink_parser") (r "^4") (d #t) (k 0)))) (h "1fcds8w2m1wdjn3jskdm76b8pnmrvp5h15qljf5ci6klk2zyfmis")))
+
+(define-public crate-varlink_generator-10.0.0 (c (n "varlink_generator") (v "10.0.0") (d (list (d (n "chainerror") (r "^0.7.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "syn") (r "^1.0.8") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "unified-diff") (r "^0.2.1") (d #t) (k 2)) (d (n "varlink_parser") (r "^4.1") (d #t) (k 0)))) (h "1m1ndk9m6zkgzjzhxz0233bgvh5a6cpa8x2xp3wbxg1lr71h9fz3")))
+
+(define-public crate-varlink_generator-10.1.0 (c (n "varlink_generator") (v "10.1.0") (d (list (d (n "chainerror") (r "^0.7.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "syn") (r "^1.0.8") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "unified-diff") (r "^0.2.1") (d #t) (k 2)) (d (n "varlink_parser") (r "^4.2") (d #t) (k 0)))) (h "0lgs4y2wjsxx7rp14847y5crsspvbjw31xjh7bxlnpdnqm3gg3rd")))
+

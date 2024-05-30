@@ -1,0 +1,12 @@
+(define-module (crates-io rh iz rhizo-sdk) #:use-module (crates-io))
+
+(define-public crate-rhizo-sdk-0.1.0 (c (n "rhizo-sdk") (v "0.1.0") (d (list (d (n "b64") (r "^0.4.0") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rhizo-types") (r "^0.1.9") (d #t) (k 0)) (d (n "rmp") (r "^0.8.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasix") (r "^0.12.21") (d #t) (k 0)))) (h "0s0ds4s55zq904aaxq545gif3g2hj51x8y6s9lqxrfa5pyfp2zwz")))
+
+(define-public crate-rhizo-sdk-0.1.1 (c (n "rhizo-sdk") (v "0.1.1") (d (list (d (n "b64") (r "^0.4.0") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rhizo-types") (r "^0.1.9") (d #t) (k 0)) (d (n "rmp") (r "^0.8.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasix") (r "^0.12.21") (d #t) (k 0)))) (h "1swpb1rq546g7x4wqxq064j57bbgxg4asdza9nikib8wz94vnr7m")))
+
+(define-public crate-rhizo-sdk-0.1.2 (c (n "rhizo-sdk") (v "0.1.2") (d (list (d (n "b64") (r "^0.4.0") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (k 0)) (d (n "rhizo-types") (r "^0.1.9") (d #t) (k 0)) (d (n "rmp") (r "^0.8.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasix") (r "^0.12.21") (d #t) (k 0)))) (h "17kh2yhnn0zx2w4pxdcgdp2gh6yr8nyira8318j5pm6x9vm3qkzj")))
+
+(define-public crate-rhizo-sdk-0.1.4 (c (n "rhizo-sdk") (v "0.1.4") (d (list (d (n "b64") (r "^0.4.0") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "rhizo-types") (r "^0.1.9") (d #t) (k 0)) (d (n "rmp") (r "^0.8.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasix") (r "^0.12.21") (d #t) (k 0)))) (h "0sccad88rvx5s1p2zmpfwh28al74j6h6gq8ygl83881fsxgxnh9j")))
+
+(define-public crate-rhizo-sdk-0.2.0 (c (n "rhizo-sdk") (v "0.2.0") (d (list (d (n "b64") (r "^0.4.0") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rhizo-types") (r "^0.1.9") (d #t) (k 0)) (d (n "rmp") (r "^0.8.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasix") (r "^0.12.21") (d #t) (k 0)))) (h "1imqw748f4xgpqqnwa4ig6av1bzs4z7w5mkxcn1nzpq0p6jc53im")))
+

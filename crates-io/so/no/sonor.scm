@@ -1,0 +1,16 @@
+(define-module (crates-io so no sonor) #:use-module (crates-io))
+
+(define-public crate-sonor-0.1.0 (c (n "sonor") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.11") (d #t) (k 0)) (d (n "rupnp") (r "^0.1.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "time"))) (d #t) (k 2)))) (h "0pyd8kqxw9s57apmfs9rb6dxc6safg3yf5im5ki3l7n6gpja4k5i")))
+
+(define-public crate-sonor-0.1.1 (c (n "sonor") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.11") (d #t) (k 0)) (d (n "rupnp") (r "^0.1.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "time"))) (d #t) (k 2)))) (h "0f3ylhf9bwx7mlkqw6i94chysq5k37p1rjqc0wff6yksbd10ykfl")))
+
+(define-public crate-sonor-0.1.2 (c (n "sonor") (v "0.1.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.11") (d #t) (k 0)) (d (n "rupnp") (r "^0.1.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "time"))) (d #t) (k 2)))) (h "1ggm0kbd6pwjbbh9q39cikblqbvz37g34lhk98xac20hsya3gwrz")))
+
+(define-public crate-sonor-0.1.3 (c (n "sonor") (v "0.1.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13") (d #t) (k 0)) (d (n "rupnp") (r "^0.1.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "time"))) (d #t) (k 2)))) (h "0dhmqcmrdbn6lj8kz1jvg5brgqnzy8ly3zra9yg7mrdwf5mg0qad")))
+
+(define-public crate-sonor-1.0.0 (c (n "sonor") (v "1.0.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13") (d #t) (k 0)) (d (n "rupnp") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "18pq1qjfin1bpdbpx2b5gigsp47pi7qg8amc1188h0ng9yyf7yhr")))
+
+(define-public crate-sonor-1.1.0 (c (n "sonor") (v "1.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13") (d #t) (k 0)) (d (n "rupnp") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "1z08m1z6fafiw51a45svf0i263dp6mdxjdfwv0fzy3lnk8r0x184")))
+
+(define-public crate-sonor-2.0.0 (c (n "sonor") (v "2.0.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "roxmltree") (r "^0.18") (d #t) (k 0)) (d (n "rupnp") (r "^2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "15h5v3kn7sxz4agps151yzi4jbjpd4x3izim8xlyfpdq8w42wxd3")))
+

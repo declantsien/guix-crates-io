@@ -1,0 +1,6 @@
+(define-module (crates-io ti de tide-csrf) #:use-module (crates-io))
+
+(define-public crate-tide-csrf-0.1.0 (c (n "tide-csrf") (v "0.1.0") (d (list (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "csrf") (r "^0.4.0") (d #t) (k 0)) (d (n "data-encoding") (r "^2.0.0") (d #t) (k 0)) (d (n "hkdf") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "sha2") (r "^0.9.0") (d #t) (k 0)) (d (n "tide") (r "^0.16.0") (f (quote ("cookies"))) (k 0)) (d (n "tide") (r "^0.16.0") (d #t) (k 2)) (d (n "tide-testing") (r "^0.1") (d #t) (k 2)))) (h "13zdnvclzwljwib6yka58q9x7apqsjnkalnnbmi8jc8xv1xll2dx")))
+
+(define-public crate-tide-csrf-0.1.1 (c (n "tide-csrf") (v "0.1.1") (d (list (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "csrf") (r "^0.4.1") (d #t) (k 0)) (d (n "data-encoding") (r "^2.0.0") (d #t) (k 0)) (d (n "hkdf") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "sha2") (r "^0.9.0") (d #t) (k 0)) (d (n "tide") (r "^0.16.0") (f (quote ("cookies"))) (k 0)) (d (n "tide") (r "^0.16.0") (d #t) (k 2)) (d (n "tide-testing") (r "^0.1") (d #t) (k 2)))) (h "1qybak31sbk7g1yiav6ngmvr7nqi7ggkypdbasy62g6b62ssjlch")))
+

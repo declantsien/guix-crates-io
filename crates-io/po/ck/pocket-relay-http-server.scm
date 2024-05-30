@@ -1,0 +1,4 @@
+(define-module (crates-io po ck pocket-relay-http-server) #:use-module (crates-io))
+
+(define-public crate-pocket-relay-http-server-0.1.0 (c (n "pocket-relay-http-server") (v "0.1.0") (d (list (d (n "actix-cors") (r "^0.6.4") (d #t) (k 0)) (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "core") (r "^0.1.0") (d #t) (k 0) (p "pocket-relay-core")) (d (n "database") (r "^0.1.0") (d #t) (k 0) (p "pocket-relay-database")) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "rust-embed") (r "^6.4.1") (f (quote ("debug-embed"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "utils") (r "^0.1.0") (d #t) (k 0) (p "pocket-relay-utils")))) (h "14x44m0xcrcmlyr342x2aajvg2kxg9daan3blb3706d1yr9lc821")))
+

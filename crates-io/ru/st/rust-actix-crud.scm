@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust-actix-crud) #:use-module (crates-io))
+
+(define-public crate-rust-actix-crud-0.1.0 (c (n "rust-actix-crud") (v "0.1.0") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.3") (f (quote ("postgres" "r2d2" "chrono"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15sscimkh9r5gzwifyic9zi1ghchb94djsvpcxcyqj84fn7kidxk")))
+
+(define-public crate-rust-actix-crud-0.1.1 (c (n "rust-actix-crud") (v "0.1.1") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.3") (f (quote ("postgres" "r2d2" "chrono"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0ifl17481pkl9hhm0f37ixzk3rr5yzfl3kpmijjbjpcgzviiy11g")))
+
+(define-public crate-rust-actix-crud-0.1.2 (c (n "rust-actix-crud") (v "0.1.2") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.3") (f (quote ("postgres" "r2d2" "chrono"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1x66hl7gcpd09s9gbnb989sh74w40q2ginvc2pz0v7q2y8bycz9m")))
+

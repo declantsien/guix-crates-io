@@ -1,0 +1,10 @@
+(define-module (crates-io ac ti actix-middleware-etag) #:use-module (crates-io))
+
+(define-public crate-actix-middleware-etag-0.1.0 (c (n "actix-middleware-etag") (v "0.1.0") (d (list (d (n "actix-service") (r "^2.0.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.2.1") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.5") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "1g9sry7hwvg1v541n21fkikjlnz6q2birad108m7wxpn4h53kisv")))
+
+(define-public crate-actix-middleware-etag-0.1.1 (c (n "actix-middleware-etag") (v "0.1.1") (d (list (d (n "actix-service") (r "^2.0.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.2.1") (k 0)) (d (n "actix-web") (r "^4.2.1") (f (quote ("macros"))) (k 2)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.5") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0s6p1j8whww1vpw3imsjxa4rm1ssaswx1wib9aafs5k2w371iba4")))
+
+(define-public crate-actix-middleware-etag-0.2.0 (c (n "actix-middleware-etag") (v "0.2.0") (d (list (d (n "actix-service") (r "^2.0.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.3.0") (k 0)) (d (n "actix-web") (r "^4.3.0") (f (quote ("macros"))) (k 2)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "str-buf") (r "^3.0.2") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.6") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "0iyh2k9i3ydk8r5xkqyzqnmgpllh9vxf61nbvv1959g16jim5n1g")))
+
+(define-public crate-actix-middleware-etag-0.3.0 (c (n "actix-middleware-etag") (v "0.3.0") (d (list (d (n "actix-service") (r "^2.0.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.4.0") (k 0)) (d (n "actix-web") (r "^4.4.0") (f (quote ("macros" "compress-gzip" "compress-zstd"))) (k 2)) (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "str-buf") (r "^3.0.2") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.6") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "06iln8ib0mg2b5kyx451ppnvq3w0y7b2nvr1j2xiwvfiah5i3a02")))
+

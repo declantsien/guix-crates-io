@@ -1,0 +1,8 @@
+(define-module (crates-io re ci recibo) #:use-module (crates-io))
+
+(define-public crate-recibo-0.1.0 (c (n "recibo") (v "0.1.0") (d (list (d (n "barcoders") (r "^1.0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "log") (r "^0.4.18") (d #t) (k 0)))) (h "06jrfdq7b569nik7xh4pi42piibw24d5nf7abk3qan2jgbb8rx5n") (s 2) (e (quote (("graphics" "dep:image")))) (r "1.56")))
+
+(define-public crate-recibo-0.2.0 (c (n "recibo") (v "0.2.0") (d (list (d (n "barcoders") (r "^1.0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "log") (r "^0.4.18") (d #t) (k 0)))) (h "0z2pm7nw8vizrvm664i5b57z31r54a7zicnxjlb93xlzsrqfv437") (s 2) (e (quote (("graphics" "dep:image")))) (r "1.56")))
+
+(define-public crate-recibo-0.3.0 (c (n "recibo") (v "0.3.0") (d (list (d (n "barcoders") (r "^1.0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "log") (r "^0.4.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 2)))) (h "0jih1k0qq7k9hlyh7i5xpb748740yl0490i17drgx977m345pxcb") (s 2) (e (quote (("serde" "dep:serde") ("graphics" "dep:image")))) (r "1.56")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io wa dm wadm-client) #:use-module (crates-io))
+
+(define-public crate-wadm-client-0.1.0 (c (n "wadm-client") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-nats") (r "^0.33") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "nkeys") (r "^0.3.0") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log" "log"))) (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)) (d (n "wadm-types") (r "^0.1.0") (d #t) (k 0)))) (h "0k2qf5rcz28z6hk10lv79fbxw0vv9br2kj7blgcipb39kc52h8vk")))
+

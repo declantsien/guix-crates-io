@@ -1,0 +1,6 @@
+(define-module (crates-io nv to nvtop) #:use-module (crates-io))
+
+(define-public crate-nvtop-0.1.0 (c (n "nvtop") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "nvml-wrapper") (r "^0.9.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.23.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1cwy51wdvrv9b7j4g7npr91xnx8s5k789gy7fvdysf43nvfsqqkv")))
+
+(define-public crate-nvtop-0.1.1 (c (n "nvtop") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "nvml-wrapper") (r "^0.9.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.23.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1gzg2h5w624lx02f8x7sqbq661nj6ijd9djk3c75bn78i5zqcvcw")))
+

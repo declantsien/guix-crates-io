@@ -1,0 +1,10 @@
+(define-module (crates-io ge ni genimtools) #:use-module (crates-io))
+
+(define-public crate-genimtools-0.0.4 (c (n "genimtools") (v "0.0.4") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gtokenizers") (r "^0.0.18") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)))) (h "0haz1vgbr88wh3540w5jxsd9j9693vpch214n9h84hlla8qzr0hd")))
+
+(define-public crate-genimtools-0.0.5 (c (n "genimtools") (v "0.0.5") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "polars") (r "^0.35.4") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "rust-lapper") (r "^1.1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)))) (h "17z900frb14a5205fni9pas6sx7cfxwmxz532i1bd7kajdhyzqy6")))
+
+(define-public crate-genimtools-0.0.6 (c (n "genimtools") (v "0.0.6") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "polars") (r "^0.35.4") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "rust-lapper") (r "^1.1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)))) (h "0wrycq8gxlx2hijsj6pyrd9k1hijlb9gf3s6nzf9h09b8rw36v66")))
+
+(define-public crate-genimtools-0.0.11 (c (n "genimtools") (v "0.0.11") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "rust-lapper") (r "^1.1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "1hrmk9pdyl5hkqjwjg7s6x463g3635d2w5i7vxzspx9pb046cm0c")))
+

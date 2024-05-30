@@ -1,0 +1,4 @@
+(define-module (crates-io yu l- yul-language-server) #:use-module (crates-io))
+
+(define-public crate-yul-language-server-0.1.1 (c (n "yul-language-server") (v "0.1.1") (d (list (d (n "cli-batteries") (r "^0.1.1") (d #t) (k 0)) (d (n "cli-batteries") (r "^0.1.1") (d #t) (k 1)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "lsp-server") (r "^0.4.1") (d #t) (k 0)) (d (n "lsp-types") (r "^0.83.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("fs" "io-util"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)) (d (n "tracing-test") (r "^0.2") (d #t) (k 2)))) (h "08fx7b7lxpjrl0dv26pn8jj9s7qw5jafqns66zaxr89rnrya18ps")))
+

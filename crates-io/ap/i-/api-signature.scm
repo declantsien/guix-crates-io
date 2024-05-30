@@ -1,0 +1,6 @@
+(define-module (crates-io ap i- api-signature) #:use-module (crates-io))
+
+(define-public crate-api-signature-0.1.0 (c (n "api-signature") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "crypto") (r "^0.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hmac") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)) (d (n "simple_serde") (r "^0.3.8") (d #t) (k 0)))) (h "0zaidxc5mz59pj5cw3hx6mwh485mzljbgxd00p1jdqxhxq7h480s")))
+
+(define-public crate-api-signature-0.2.0 (c (n "api-signature") (v "0.2.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "crypto") (r "^0.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hmac") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)) (d (n "simple_serde") (r "^0.3.8") (d #t) (k 0)))) (h "0g7lbx12v0sjc6zfr2iiywwik6dlxkqpfkwwrm680nqcqbj02l90")))
+

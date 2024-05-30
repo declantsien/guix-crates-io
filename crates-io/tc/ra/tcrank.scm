@@ -1,0 +1,6 @@
+(define-module (crates-io tc ra tcrank) #:use-module (crates-io))
+
+(define-public crate-tcrank-0.1.1 (c (n "tcrank") (v "0.1.1") (d (list (d (n "clap") (r "^2.32.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)))) (h "1xb4xl9780f7lg8bfq797pv7a2rni8z78qmh8bjanirlzg7gs3gn")))
+
+(define-public crate-tcrank-0.2.0 (c (n "tcrank") (v "0.2.0") (d (list (d (n "clap") (r "^2.32.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)))) (h "1z1y2ildn9a6rl9yl48l9pd5s34xqd6m1zh8b9i0k7kr7aysrffn")))
+

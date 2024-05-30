@@ -1,0 +1,10 @@
+(define-module (crates-io ge ni genius-rs) #:use-module (crates-io))
+
+(define-public crate-genius-rs-0.2.1 (c (n "genius-rs") (v "0.2.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.3") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0rq6a6zgchby1abwcx1rvgsycw4wqsrdm4nv7fqk5gn19vxwzgdx")))
+
+(define-public crate-genius-rs-0.3.0 (c (n "genius-rs") (v "0.3.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.4") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("full"))) (d #t) (k 2)))) (h "14pj53chp7z3ymkl58q4ias887n1j59rjx8g1pafvj7pq6vgfp5x")))
+
+(define-public crate-genius-rs-0.4.0 (c (n "genius-rs") (v "0.4.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("full"))) (d #t) (k 2)))) (h "00hcm3rsqr1zy1ma21q62hh5z63md1l43f56gkhjjmvzrc080ffm")))
+
+(define-public crate-genius-rs-0.5.0 (c (n "genius-rs") (v "0.5.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 2)))) (h "05cjzlsniynkc20f6lnwn9lanscdqgap09vwmd3qzd346bhfascg")))
+

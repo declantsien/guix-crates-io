@@ -1,0 +1,8 @@
+(define-module (crates-io te nc tencent_sms) #:use-module (crates-io))
+
+(define-public crate-tencent_sms-0.1.0 (c (n "tencent_sms") (v "0.1.0") (d (list (d (n "awc") (r "^2.0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "crypto-hash") (r "^0.3.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "hmac") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.13") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "sha2") (r "^0.9.2") (d #t) (k 0)))) (h "0vzcib4vdajxwkw00qyf0lb7sfl7d9zachfh1iz27s97zvl8nzvi")))
+
+(define-public crate-tencent_sms-0.1.1 (c (n "tencent_sms") (v "0.1.1") (d (list (d (n "awc") (r "^2.0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "crypto-hash") (r "^0.3.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "hmac") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.13") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "sha2") (r "^0.9.2") (d #t) (k 0)))) (h "1xsj3d1svha0ymbgmr25gk3p8kzzz2n3cv2hq3g72mma8i1a0qi0")))
+
+(define-public crate-tencent_sms-0.1.2 (c (n "tencent_sms") (v "0.1.2") (d (list (d (n "awc") (r "^2.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "crypto-hash") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "08sw38303rhvvkp7qgwkmf83mq61gf6hxv8ccdp5g6ijar71b3sp")))
+

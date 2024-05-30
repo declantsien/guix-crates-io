@@ -1,0 +1,6 @@
+(define-module (crates-io fu tu futures-util-io-peek) #:use-module (crates-io))
+
+(define-public crate-futures-util-io-peek-0.1.0 (c (n "futures-util-io-peek") (v "0.1.0") (d (list (d (n "async-io") (r "^0.1") (o #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("default"))) (o #t) (k 0)) (d (n "futures-executor") (r "^0.3") (f (quote ("default"))) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "smol") (r "^0.1") (o #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("tcp"))) (o #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("tcp" "stream" "io-util"))) (k 2)))) (h "0fsli87zm3k2q7jbp8vzd5jhakk34762a8fahqgnk037n1iq0hqm") (f (quote (("tokio_tcp_stream" "tokio") ("smol_async" "smol") ("async_std_tcp_stream" "async-std") ("async_io_async" "async-io"))))))
+
+(define-public crate-futures-util-io-peek-0.2.0 (c (n "futures-util-io-peek") (v "0.2.0") (d (list (d (n "async-io") (r "^1") (o #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (o #t) (k 0)) (d (n "futures-executor") (r "^0.3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "io-util"))) (k 2)))) (h "0xk4ya4l0fbfdik41zp9gqs3n48lnz2jqkljh5gw2qpsy92lslj5") (f (quote (("tokio_tcp_stream" "tokio") ("default") ("async_io_async" "async-io"))))))
+

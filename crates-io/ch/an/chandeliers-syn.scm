@@ -1,0 +1,44 @@
+(define-module (crates-io ch an chandeliers-syn) #:use-module (crates-io))
+
+(define-public crate-chandeliers-syn-0.2.0 (c (n "chandeliers-syn") (v "0.2.0") (d (list (d (n "chandeliers-san") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0f62gcyglqpbgalcwjjnjpfq7baimnfm921lagyklp7mq3m0jndw")))
+
+(define-public crate-chandeliers-syn-0.2.1 (c (n "chandeliers-syn") (v "0.2.1") (d (list (d (n "chandeliers-san") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0xkphs4yc3bncryv0daf7jr99284sidgnsizvrpcsk9i8qblirm0")))
+
+(define-public crate-chandeliers-syn-0.2.2 (c (n "chandeliers-syn") (v "0.2.2") (d (list (d (n "chandeliers-err") (r "^0.2.2") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.2.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0rsi3xm8drs3dn7ff9jghvbnv47b2163i9iglax7rrzaann7ykyd")))
+
+(define-public crate-chandeliers-syn-0.2.3 (c (n "chandeliers-syn") (v "0.2.3") (d (list (d (n "chandeliers-err") (r "^0.2.3") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.2.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0208wvd2y8hwh0ls0k35vb37pm22k879czf1fg80d0c5ysghkm8l")))
+
+(define-public crate-chandeliers-syn-0.2.4 (c (n "chandeliers-syn") (v "0.2.4") (d (list (d (n "chandeliers-err") (r "^0.2.4") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.2.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1ljpfyfnlkhkj807nmwf9inzl8w157j8kbsb8ib18h4g199s8w3s")))
+
+(define-public crate-chandeliers-syn-0.2.5 (c (n "chandeliers-syn") (v "0.2.5") (d (list (d (n "chandeliers-err") (r "^0.2.5") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.2.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "00ld27nwy1qwd4kpk3ll7gvjxwi10hj4f1018l15wa479if1bx03")))
+
+(define-public crate-chandeliers-syn-0.2.6 (c (n "chandeliers-syn") (v "0.2.6") (d (list (d (n "chandeliers-err") (r "^0.2.6") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.2.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0skxkvhhlpihcwj6zz8q1jhxs8xlx4gmvzcb66798rh6mdxf7747")))
+
+(define-public crate-chandeliers-syn-0.3.0 (c (n "chandeliers-syn") (v "0.3.0") (d (list (d (n "chandeliers-err") (r "^0.3.0") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.3.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1kkpzr8bgbs37lh312g67gww0yss6lzpwd2v71j0ssj3b4dxszs7")))
+
+(define-public crate-chandeliers-syn-0.3.1 (c (n "chandeliers-syn") (v "0.3.1") (d (list (d (n "chandeliers-err") (r "^0.3.1") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1fdb87m2k6xh1l3anq4vz4saf44y6wvdlfq3hh8146waw2cpppvi")))
+
+(define-public crate-chandeliers-syn-0.3.2 (c (n "chandeliers-syn") (v "0.3.2") (d (list (d (n "chandeliers-err") (r "^0.3.2") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0088ynz3p5qh9g8ld13llhpk22bm3nqzq0xipahms6vrjxyh1s06")))
+
+(define-public crate-chandeliers-syn-0.3.3 (c (n "chandeliers-syn") (v "0.3.3") (d (list (d (n "chandeliers-err") (r "^0.3.3") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.3.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "08myfb70g2qvf46605f7yxcab0c5rxwm9zymjgbymg9b7j3acjzz")))
+
+(define-public crate-chandeliers-syn-0.4.0 (c (n "chandeliers-syn") (v "0.4.0") (d (list (d (n "chandeliers-err") (r "^0.4.0") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1sm17087w923vj3npc3ca0d277d60n5krnmac24p66h59lrhv3dg")))
+
+(define-public crate-chandeliers-syn-0.4.1 (c (n "chandeliers-syn") (v "0.4.1") (d (list (d (n "chandeliers-err") (r "^0.4.1") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1181d7f9vnc5g92bhk444zs5sa1rj40lcl86hnaa22xr9j0j9h6i")))
+
+(define-public crate-chandeliers-syn-0.4.2 (c (n "chandeliers-syn") (v "0.4.2") (d (list (d (n "chandeliers-err") (r "^0.4.2") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.4.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0xpbb6h0dksmakrana84l9pila4bx050ahf0wx8lg3vn1ik50p4q")))
+
+(define-public crate-chandeliers-syn-0.4.3 (c (n "chandeliers-syn") (v "0.4.3") (d (list (d (n "chandeliers-err") (r "^0.4.3") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0qkk9x12fh469qlyx3z818bpbmyrknm5drqjdwmfmfp9lpmkpkq0")))
+
+(define-public crate-chandeliers-syn-0.4.4 (c (n "chandeliers-syn") (v "0.4.4") (d (list (d (n "chandeliers-err") (r "^0.4.4") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.4.4") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1ppqnq25adrdlj798k3iawcnah3dldza2yczf122ja2p8fj7v71n")))
+
+(define-public crate-chandeliers-syn-0.5.0 (c (n "chandeliers-syn") (v "0.5.0") (d (list (d (n "chandeliers-err") (r "^0.5.0") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.5.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0z8rr54xzsxfyzmrnqaa3ag6xa2rrshdrgdjv84d7in7h21y9fka")))
+
+(define-public crate-chandeliers-syn-0.5.2 (c (n "chandeliers-syn") (v "0.5.2") (d (list (d (n "chandeliers-err") (r "^0.5.2") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.5.2") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "00wjgjib6260ximvy0rz39h4v65pxkdc4nczkqxfww2y5glsvxm7")))
+
+(define-public crate-chandeliers-syn-0.6.0 (c (n "chandeliers-syn") (v "0.6.0") (d (list (d (n "chandeliers-err") (r "^0.6.0") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.6.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "12zcvp3pqkqyh1mid5nfgj6lvnm0i04d9vskv0wh8ndklvs3qxgz")))
+
+(define-public crate-chandeliers-syn-0.6.1 (c (n "chandeliers-syn") (v "0.6.1") (d (list (d (n "chandeliers-err") (r "^0.6.1") (d #t) (k 0)) (d (n "chandeliers-san") (r "^0.6.1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "0m8wrzalpd4v29za2mh8dblffmw0vajrgk32xg70vcvgirrvibm6")))
+
+(define-public crate-chandeliers-syn-1.0.0 (c (n "chandeliers-syn") (v "1.0.0") (d (list (d (n "chandeliers-err") (r "^1.0.0") (d #t) (k 0)) (d (n "chandeliers-san") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn_derive") (r "^0.1.7") (d #t) (k 0)))) (h "1jxlgg07hzyx6g7bfk4az5zh8imqdqxahcsi7x4h8q243cxvwrql")))
+

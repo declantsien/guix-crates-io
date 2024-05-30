@@ -1,0 +1,24 @@
+(define-module (crates-io py th pyth-sdk) #:use-module (crates-io))
+
+(define-public crate-pyth-sdk-0.1.0 (c (n "pyth-sdk") (v "0.1.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)))) (h "017jq69h25fmpb6ihjypmaskd7m626kfckwv9whriggkgryz0vs4")))
+
+(define-public crate-pyth-sdk-0.2.0 (c (n "pyth-sdk") (v "0.2.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)))) (h "1d70gwlg2d76yn97d4x3vjrsy9ad2gp2i9mmlclswjzw74m10466")))
+
+(define-public crate-pyth-sdk-0.3.0 (c (n "pyth-sdk") (v "0.3.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)))) (h "06wh3cqg84lszhpb2iaq94i8gafj9spbddp8880gbmwaihxrj1nb")))
+
+(define-public crate-pyth-sdk-0.4.0 (c (n "pyth-sdk") (v "0.4.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "1fzi1kykd962qn9j19cy71pyd98x378pg2z7zrhjb00ly3wwchix")))
+
+(define-public crate-pyth-sdk-0.4.1 (c (n "pyth-sdk") (v "0.4.1") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "10hmfyg9fqzhavghygajqplsw1x0rxxjyan1x61s2xzizm3mffxh")))
+
+(define-public crate-pyth-sdk-0.4.2 (c (n "pyth-sdk") (v "0.4.2") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "13cyg3psi0hhljgy99n0z8933mjrhdm7igp18yi55wfqay2vhqpj")))
+
+(define-public crate-pyth-sdk-0.5.0 (c (n "pyth-sdk") (v "0.5.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "092q6aq4zm1v3nqv7xkwkjkqbx4ihg1jx9pzm3b7wnzv7nx0bj7m")))
+
+(define-public crate-pyth-sdk-0.6.0 (c (n "pyth-sdk") (v "0.6.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "195hv2win3wivd35ix2v4cixny1kdj0m5fjxlq1q8qb2kblr71hm")))
+
+(define-public crate-pyth-sdk-0.6.1 (c (n "pyth-sdk") (v "0.6.1") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "0nl1zjrn28zlr9s28pblba53wh3xlq2323ghjbp4563dnz13r6cs")))
+
+(define-public crate-pyth-sdk-0.7.0 (c (n "pyth-sdk") (v "0.7.0") (d (list (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "1czwkrgnqih0zwihjyvf1dm7yjskjxc8pnrgf6jwg8rw4102bgq0")))
+
+(define-public crate-pyth-sdk-0.8.0 (c (n "pyth-sdk") (v "0.8.0") (d (list (d (n "borsh") (r "^0.10.3") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.10.3") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.2") (f (quote ("custom"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)))) (h "0jd9jzx9msx9jys0b0qq2b2ik6dqm22dsbdgyn7wkaghspsfwyhy")))
+

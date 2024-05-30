@@ -1,0 +1,28 @@
+(define-module (crates-io sl ip slip-codec) #:use-module (crates-io))
+
+(define-public crate-slip-codec-0.1.0 (c (n "slip-codec") (v "0.1.0") (h "1s165limv6gj6r7xf3bwkmnamm02rl0dj0sjmm7hyzfr0xzb8f5m")))
+
+(define-public crate-slip-codec-0.1.1 (c (n "slip-codec") (v "0.1.1") (h "16x7l56iil9sisn9724wgx5mycmd9nysgz42bnjmznig3mbkpgwh")))
+
+(define-public crate-slip-codec-0.1.2 (c (n "slip-codec") (v "0.1.2") (h "0pvnbsp9jkcjxvrpyhp0vkzvd7sdmwi0lgpm45kc13ybkrx1r5di")))
+
+(define-public crate-slip-codec-0.2.0 (c (n "slip-codec") (v "0.2.0") (h "0cdmp70nl9hn2xpv9xrlhppi3wns9zd8rx4vrjy172fqg0rldikw")))
+
+(define-public crate-slip-codec-0.2.2 (c (n "slip-codec") (v "0.2.2") (d (list (d (n "bytes") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "tokio-util") (r "^0.5") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1jva5ayi0bxn598y5hp8v1ykpz97fxgrx2j2w5g53lrblzm6fpml") (f (quote (("tokio" "bytes" "tokio-util") ("default"))))))
+
+(define-public crate-slip-codec-0.2.3 (c (n "slip-codec") (v "0.2.3") (d (list (d (n "bytes") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "09dki6lm86nakxxkw9d7ax123aksww2mr6cn24mnfyylrm3dggv4") (f (quote (("default") ("async" "bytes" "tokio-util"))))))
+
+(define-public crate-slip-codec-0.2.4 (c (n "slip-codec") (v "0.2.4") (d (list (d (n "bytes") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "0hc21bncw4ycn6ddzgsniq546ss9y4wgzppsd5kgr6zq1sc434w7") (f (quote (("default") ("async" "bytes" "tokio-util"))))))
+
+(define-public crate-slip-codec-0.3.0 (c (n "slip-codec") (v "0.3.0") (d (list (d (n "asynchronous-codec") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1asmx2yrwx7b8jbql5gh1smhrjs584p6i96y8s7wns0dcxh4aysm") (f (quote (("tokio-codec" "bytes" "tokio-util") ("default") ("async-codec" "asynchronous-codec" "bytes"))))))
+
+(define-public crate-slip-codec-0.3.1 (c (n "slip-codec") (v "0.3.1") (d (list (d (n "asynchronous-codec") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1jxxhsdhv6nbq8j2nwk4754m0ws4i87f86j2vwbrlv1ck4xq7y44") (f (quote (("tokio-codec" "bytes" "tokio-util") ("default") ("async-codec" "asynchronous-codec" "bytes"))))))
+
+(define-public crate-slip-codec-0.3.2 (c (n "slip-codec") (v "0.3.2") (d (list (d (n "asynchronous-codec") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1l33q9fj1x28w6rl9ha3xxrwhpbfb8mr9axgwcwf3krvab1nqqkm") (f (quote (("tokio-codec" "bytes" "tokio-util") ("default") ("async-codec" "asynchronous-codec" "bytes"))))))
+
+(define-public crate-slip-codec-0.3.3 (c (n "slip-codec") (v "0.3.3") (d (list (d (n "asynchronous-codec") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1x5gp9zw9xdr5iliiqmjb15nk8vvvcig83hfv8jrrky3lxj9mxqn") (f (quote (("tokio-codec" "bytes" "tokio-util") ("default") ("async-codec" "asynchronous-codec" "bytes"))))))
+
+(define-public crate-slip-codec-0.3.4 (c (n "slip-codec") (v "0.3.4") (d (list (d (n "asynchronous-codec") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1qjrzjc2kw5s25z5zslibrlh4v8gjpf48jdqxgf1840h4am9561r") (f (quote (("tokio-codec" "bytes" "tokio-util") ("default") ("async-codec" "asynchronous-codec" "bytes"))))))
+
+(define-public crate-slip-codec-0.4.0 (c (n "slip-codec") (v "0.4.0") (d (list (d (n "asynchronous-codec") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-sink") (r "^0.3") (d #t) (k 2)) (d (n "serialport") (r "^4") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "0nwnwywkgjvzyismfzvv9n204afz8xrqc76lgikrp39z8j9bd577") (f (quote (("tokio-codec" "bytes" "tokio-util") ("default") ("async-codec" "asynchronous-codec" "bytes"))))))
+

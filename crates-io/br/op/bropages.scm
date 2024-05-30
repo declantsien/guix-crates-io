@@ -1,0 +1,32 @@
+(define-module (crates-io br op bropages) #:use-module (crates-io))
+
+(define-public crate-bropages-0.1.1 (c (n "bropages") (v "0.1.1") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("default"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10.3") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^3.3.0") (f (quote ("parsing" "assets" "dump-load"))) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("macros"))) (d #t) (k 0)))) (h "0yf0ghzf5g70b7pcmcwgali39xsza8d0y40l5mqwq6jicyqyb9dw")))
+
+(define-public crate-bropages-0.1.2 (c (n "bropages") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("default"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10.3") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^3.3.0") (f (quote ("parsing" "assets" "dump-load"))) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("macros"))) (d #t) (k 0)))) (h "0fkd2kdh5aggaz4rb8lpdqrp2h3iw774wij03bd228jjs1rmr1ay")))
+
+(define-public crate-bropages-0.2.2 (c (n "bropages") (v "0.2.2") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("default"))) (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.3") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^3.3.0") (f (quote ("parsing" "assets" "dump-load"))) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("macros"))) (d #t) (k 0)))) (h "1n3bydv77yq376vckiisgrgcwaqr7bhap7hkj8absck3pjdhh0hs")))
+
+(define-public crate-bropages-0.3.0 (c (n "bropages") (v "0.3.0") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("default"))) (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.3") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^3.3.0") (f (quote ("parsing" "assets" "dump-load"))) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("macros"))) (d #t) (k 0)))) (h "1mv04cmcqn1dlar4agx3v6hgvajrwlv1q01vwh1nnn5lqfkk0l7b")))
+
+(define-public crate-bropages-0.4.0 (c (n "bropages") (v "0.4.0") (d (list (d (n "attohttpc") (r "^0.16.0") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.16.0") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("color" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.48") (f (quote ("derive"))) (d #t) (k 0)))) (h "0x8aq2vrl61l3fpy5q76qd2z1i1z1a7a5apj21ld3yf6k2rk0f63")))
+
+(define-public crate-bropages-0.5.0 (c (n "bropages") (v "0.5.0") (d (list (d (n "attohttpc") (r "^0.16.0") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.16.0") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("color" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0iwz91f627alc6xygrig6i3ycmc1kw79vi504alir4ym27692brs")))
+
+(define-public crate-bropages-1.0.0 (c (n "bropages") (v "1.0.0") (d (list (d (n "attohttpc") (r "^0.16.1") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.17.1") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("color" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)))) (h "1jipx3lfd371l4s523w0kf3r7g5wxxhf13qjgn9nk8qnz3ny9pi1")))
+
+(define-public crate-bropages-1.1.0 (c (n "bropages") (v "1.1.0") (d (list (d (n "attohttpc") (r "^0.17.0") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.18.2") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("color" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)))) (h "03aj24gcrp9v95m3y202y5hmkrmpy6qji2xw5s6b7g2p4d72590s")))
+
+(define-public crate-bropages-1.1.1 (c (n "bropages") (v "1.1.1") (d (list (d (n "attohttpc") (r "^0.17.0") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.18.2") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("color" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)))) (h "1fmi2lkfagg0c2asz6gs1s7jcvfk9w9rbhjd6dv7pqlp5wyasdmc")))
+
+(define-public crate-bropages-1.1.2 (c (n "bropages") (v "1.1.2") (d (list (d (n "attohttpc") (r "^0.17.0") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.18.2") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("color" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)))) (h "0mbvr1dva8l6bpdr2zhp9ss6dxvm7167jrp0cl9qvi9s24yb33xs")))
+
+(define-public crate-bropages-1.3.0 (c (n "bropages") (v "1.3.0") (d (list (d (n "attohttpc") (r "^0.19.1") (f (quote ("json" "tls"))) (k 0)) (d (n "bat") (r "^0.21.0") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("std" "suggestions"))) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)))) (h "1cy9940ii0zkvqg0nm1yphsyqyh28q4j7c3vdx4n5rvcc0dslqnh")))
+
+(define-public crate-bropages-1.40.0 (c (n "bropages") (v "1.40.0") (d (list (d (n "bat") (r "^0.22.1") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^4.0.26") (f (quote ("error-context" "help" "std" "suggestions" "usage"))) (k 0)) (d (n "ureq") (r "^2.5.0") (f (quote ("json"))) (k 0)))) (h "1illqpvh7gs6hri748nky6xvxnzj22aim1mr1xybhkwchz9qn84w")))
+
+(define-public crate-bropages-1.40.1 (c (n "bropages") (v "1.40.1") (d (list (d (n "bat") (r "^0.22.1") (f (quote ("paging" "regex-onig"))) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("error-context" "help" "std" "suggestions" "usage"))) (k 0)) (d (n "ureq") (r "^2.5.0") (f (quote ("json"))) (k 0)))) (h "1kbzvziaa8gi59xm35jfnmmyjbfxbqzyj1km3vmg282s8bgc4ir2")))
+
+(define-public crate-bropages-1.41.0 (c (n "bropages") (v "1.41.0") (d (list (d (n "bat") (r "^0.23.0") (f (quote ("paging" "regex-fancy"))) (k 0)) (d (n "clap") (r "^4.4.3") (f (quote ("error-context" "help" "std" "suggestions" "usage"))) (k 0)) (d (n "ureq") (r "^2.7.1") (f (quote ("json"))) (k 0)))) (h "0mzbj5x64aq14fpkrlnzz4fl9jyggfvrxazvpddmhm6zm358w4zw")))
+
+(define-public crate-bropages-1.5.0 (c (n "bropages") (v "1.5.0") (d (list (d (n "bat") (r "^0.24.0") (f (quote ("paging" "regex-fancy"))) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("error-context" "help" "std" "suggestions" "usage"))) (k 0)) (d (n "ureq") (r "^2.9.6") (f (quote ("json"))) (k 0)))) (h "02z4d81gpsvkvnpkk512qfwjshc3rnxnh8nj381igrf4va4ji7ng")))
+

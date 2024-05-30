@@ -1,0 +1,10 @@
+(define-module (crates-io bi tc bitcoin-settings) #:use-module (crates-io))
+
+(define-public crate-bitcoin-settings-0.1.10-alpha.0 (c (n "bitcoin-settings") (v "0.1.10-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-univalue") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.10-alpha.0") (d #t) (k 1)))) (h "1v20n8wfghjn6vah9vvrrayzn4ngl7c98bjcajmpbldrpkdw953g")))
+
+(define-public crate-bitcoin-settings-0.1.12-alpha.0 (c (n "bitcoin-settings") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-univalue") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1a8mh47a2avj1ag2aa4sfd13pm6a7q854d6w1wqcb6glwm95rlmm")))
+
+(define-public crate-bitcoin-settings-0.1.13-alpha.0 (c (n "bitcoin-settings") (v "0.1.13-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoin-univalue") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.13-alpha.0") (d #t) (k 1)))) (h "0k0g3z45x11h9d6x11w59n15zj8kbn4v6ap26qx0k559jm9qal6r")))
+
+(define-public crate-bitcoin-settings-0.1.16-alpha.0 (c (n "bitcoin-settings") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-univalue") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "18wx9lcsj2zy5fb0hbqv3ihxwy25gq8nq8fp99661ic8llp35v9z")))
+

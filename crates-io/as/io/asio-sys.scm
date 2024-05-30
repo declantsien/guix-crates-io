@@ -1,0 +1,10 @@
+(define-module (crates-io as io asio-sys) #:use-module (crates-io))
+
+(define-public crate-asio-sys-0.1.0 (c (n "asio-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.42.0") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)) (d (n "cc") (r "^1.0.25") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)))) (h "1nbk2bawiwbvb45kvssdamr0lycxgg8zljdapvl9q6f0rxjl8qlz")))
+
+(define-public crate-asio-sys-0.2.0 (c (n "asio-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.54.0") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)) (d (n "cc") (r "^1.0.25") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)))) (h "1m8v2jsa4n57s7a7142vs23dkz63dhjxgcjxykd17kvq66v9qqj7")))
+
+(define-public crate-asio-sys-0.2.1 (c (n "asio-sys") (v "0.2.1") (d (list (d (n "bindgen") (r "^0.56.0") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)) (d (n "cc") (r "^1.0.25") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (t "cfg(any(target_os = \"windows\"))") (k 1)))) (h "16lbavksj2aasadyxbdnbrll6a1m8cwl4skbxgbvr1ma2wpwv82c")))
+
+(define-public crate-asio-sys-0.2.2 (c (n "asio-sys") (v "0.2.2") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "parse_cfg") (r "^4.1.1") (d #t) (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "1a0yhg32vgmj38pqkmay76q77ygmjjdqdgd8885qcjvwj85is4dv")))
+

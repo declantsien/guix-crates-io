@@ -1,0 +1,22 @@
+(define-module (crates-io st un stun3489) #:use-module (crates-io))
+
+(define-public crate-stun3489-0.1.0 (c (n "stun3489") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)))) (h "0k2w5kj5p6mc2nvvsh9kdjikqr9235p9ibazwg42zpv8ir6v04fj")))
+
+(define-public crate-stun3489-0.1.1 (c (n "stun3489") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)))) (h "0n2bamj5pd8m30swxgx7bmy8msmkyl45nhagn3hn1xn87dg66mbw")))
+
+(define-public crate-stun3489-0.1.2 (c (n "stun3489") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)))) (h "1n4m5p5zc9dksyk0czvcgp8xplh7cdsq25yq7wm4z1mc2xzd7z13")))
+
+(define-public crate-stun3489-0.2.0 (c (n "stun3489") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)))) (h "0l7pq4h451p9mc8kd7zh3v68ikvvavla01xlw75bd6p5bkfdrd51")))
+
+(define-public crate-stun3489-0.4.0 (c (n "stun3489") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "futures-await") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.2") (d #t) (k 0)))) (h "14fzhwb4sd26p4v4skkflczvnh7lq1vp0j6rf5f8cz24h6carb4z")))
+
+(define-public crate-stun3489-0.4.1 (c (n "stun3489") (v "0.4.1") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.3") (d #t) (k 0)) (d (n "futures-await") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.2") (d #t) (k 0)))) (h "1xl7qhmf0pjrdyxk12104hagypzkq8vrqzp1dwfw09b5608qvv32")))
+
+(define-public crate-stun3489-0.4.2 (c (n "stun3489") (v "0.4.2") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.3") (d #t) (k 0)) (d (n "futures-await") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.8") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.2") (d #t) (k 0)))) (h "1rkp36d940hsgvd2imdxkzfizaa38sbq6g7bhhddc93qjwwiyz1l")))
+
+(define-public crate-stun3489-0.4.3 (c (n "stun3489") (v "0.4.3") (d (list (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 0)) (d (n "ring") (r "^0.11.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (f (quote ("async-await-preview"))) (d #t) (k 0)))) (h "07ksw69q0aw8f3amxlvxcz1xw2cwxb402wcfib66xpqj9n6zw94d")))
+
+(define-public crate-stun3489-0.4.4 (c (n "stun3489") (v "0.4.4") (d (list (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 0)) (d (n "ring") (r "^0.13.5") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (f (quote ("async-await-preview"))) (d #t) (k 0)))) (h "1l46mk2his7bix0jbysqvbm26xlvd1i8iq6r8b8mjljyw202rxcy")))
+
+(define-public crate-stun3489-0.5.0 (c (n "stun3489") (v "0.5.0") (d (list (d (n "async-std") (r "^1.4.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 0)))) (h "0y91sarlqm96cgh3rm4avkywr180izrq8my7w3ij82pwsjmdyxdz")))
+

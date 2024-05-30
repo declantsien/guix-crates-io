@@ -1,0 +1,6 @@
+(define-module (crates-io bl ip blipper) #:use-module (crates-io))
+
+(define-public crate-blipper-0.0.1 (c (n "blipper") (v "0.0.1") (d (list (d (n "cortex-m") (r "^0.5") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.10") (f (quote ("device"))) (d #t) (k 0)) (d (n "cortex-m-rtfm") (r "^0.4.3") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.3.2") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "infrared") (r "^0.3.0") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2") (d #t) (k 0)) (d (n "stm32-usbd") (r "^0.3.0") (f (quote ("stm32f103xx"))) (d #t) (k 0)) (d (n "stm32f1xx-hal") (r "^0.3") (f (quote ("rt" "stm32f103"))) (d #t) (k 0)) (d (n "usb-device") (r "^0.2.0") (d #t) (k 0)))) (h "02g0730ff4fgf28sr3sykdhd1wb9az9vf1j9pqdbysgaxp9a9iq3")))
+
+(define-public crate-blipper-0.4.0 (c (n "blipper") (v "0.4.0") (d (list (d (n "blipper-shared") (r "^0.1") (f (quote ("utils"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7.0") (d #t) (k 0)) (d (n "heapless") (r "^0.5.1") (d #t) (k 0)) (d (n "infrared") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "postcard") (r "^0.5.1") (d #t) (k 0)) (d (n "serialport") (r "^3.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "vcd") (r "^0.6.1") (d #t) (k 0)))) (h "1mglhc0s9lgx0zasyr3asxjamwnvmdnlggg2x4rzb46nr6m0csdw")))
+

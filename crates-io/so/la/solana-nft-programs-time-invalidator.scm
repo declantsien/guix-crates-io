@@ -1,0 +1,4 @@
+(define-module (crates-io so la solana-nft-programs-time-invalidator) #:use-module (crates-io))
+
+(define-public crate-solana-nft-programs-time-invalidator-1.0.0 (c (n "solana-nft-programs-time-invalidator") (v "1.0.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "solana-nft-programs-payment-manager") (r "^1.1.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "solana-nft-programs-token-manager") (r "^1.0.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "solana-program") (r "^1.10.29") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.1.2") (d #t) (k 0)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "01vx2xijzirf208gccvx6lhmi2fnp9bh810d7in0gilpgla4s527") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr ib tribufu-api) #:use-module (crates-io))
+
+(define-public crate-tribufu-api-0.1.0 (c (n "tribufu-api") (v "0.1.0") (d (list (d (n "alnilam-consts") (r "^0.0.4") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (f (quote ("serde" "rustc-serialize"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "mintaka-error") (r "^0.0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (d #t) (k 0)) (d (n "tribufu-constants") (r "^0.1.0") (d #t) (k 0)) (d (n "tribufu-types") (r "^0.1.0") (d #t) (k 0)))) (h "0q8yx080l70gx5yrqh98schppy604cdnsqj9mzrlgqiipx3gxbvy")))
+

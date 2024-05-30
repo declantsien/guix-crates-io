@@ -1,0 +1,6 @@
+(define-module (crates-io iq -c iq-crypto) #:use-module (crates-io))
+
+(define-public crate-iq-crypto-0.0.0 (c (n "iq-crypto") (v "0.0.0") (h "0ljyqa7c974wwan2nyj87mi2ixmlx14awrh9mphn8kwqsy8qhmsy")))
+
+(define-public crate-iq-crypto-0.0.1 (c (n "iq-crypto") (v "0.0.1") (d (list (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "ecdsa") (r "^0.14") (f (quote ("sign" "verify"))) (o #t) (k 0)) (d (n "elliptic-curve") (r "^0.12") (o #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "k256") (r "^0.11.6") (f (quote ("ecdsa" "pkcs8"))) (o #t) (k 0)) (d (n "pkcs8") (r "^0.9") (o #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "sec1") (r "^0.3") (f (quote ("point"))) (o #t) (k 0)) (d (n "sha2") (r "^0.10") (o #t) (k 0)) (d (n "sha3") (r "^0.10") (o #t) (k 0)) (d (n "signature") (r ">=1.6.3, <1.7") (f (quote ("hazmat-preview"))) (o #t) (k 0)))) (h "1jdc3fnvlj1b0xysa9njhmdwi6vh3kc2p69bb8m9af3fbyaz64m9") (f (quote (("getrandom" "rand_core/getrandom")))) (s 2) (e (quote (("std" "alloc" "elliptic-curve?/std" "ecdsa?/std" "k256?/std" "pkcs8?/std" "sec1?/std" "signature?/std") ("secp256k1" "alloc" "ecdsa" "pkcs8" "sha3" "signature" "dep:k256") ("elliptic-curve" "dep:elliptic-curve" "dep:sec1") ("ecdsa" "dep:ecdsa" "elliptic-curve" "signature") ("alloc" "elliptic-curve?/alloc" "ecdsa?/alloc" "sec1?/alloc" "pkcs8?/alloc")))) (r "1.64")))
+

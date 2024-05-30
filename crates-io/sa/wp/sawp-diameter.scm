@@ -1,0 +1,36 @@
+(define-module (crates-io sa wp sawp-diameter) #:use-module (crates-io))
+
+(define-public crate-sawp-diameter-0.1.1-rc.1 (c (n "sawp-diameter") (v "0.1.1-rc.1") (d (list (d (n "cxx") (r "^0.4") (d #t) (k 0)) (d (n "cxx-build") (r "^0.4") (o #t) (d #t) (k 1)) (d (n "nom") (r "^6.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.1.1-rc.1") (d #t) (k 0)))) (h "1kwvfqaa0h8jdw20254v21dc0h1f45dr2av4ywrfkkx5d4rh6nf1") (f (quote (("ffi" "cxx-build"))))))
+
+(define-public crate-sawp-diameter-0.1.1-rc.2 (c (n "sawp-diameter") (v "0.1.1-rc.2") (d (list (d (n "cxx") (r "^0.4") (d #t) (k 0)) (d (n "cxx-build") (r "^0.4") (o #t) (d #t) (k 1)) (d (n "nom") (r "=5.1.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.1.1-rc.2") (d #t) (k 0)))) (h "19j45c8jxygw3r7kal5p1wk59p0g59shx5jfyqfdlbqdbaw7ldd1") (f (quote (("ffi" "cxx-build"))))))
+
+(define-public crate-sawp-diameter-0.1.1-rc.3 (c (n "sawp-diameter") (v "0.1.1-rc.3") (d (list (d (n "cxx") (r "^0.4") (d #t) (k 0)) (d (n "cxx-build") (r "^0.4") (o #t) (d #t) (k 1)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.1.1-rc.3") (d #t) (k 0)))) (h "05m5vrdpsi4cyhgdmqf9g2g2v4gb4w5siwfi02kfk2psqv6yxafl") (f (quote (("ffi" "cxx-build"))))))
+
+(define-public crate-sawp-diameter-0.1.1 (c (n "sawp-diameter") (v "0.1.1") (d (list (d (n "cxx") (r "^0.4") (d #t) (k 0)) (d (n "cxx-build") (r "^0.4") (o #t) (d #t) (k 1)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.1.1") (d #t) (k 0)))) (h "04pii4jnzkrx4zzfjhkcjfbbxb7anr0fdqg9s6kxr03imhvh47fa") (f (quote (("ffi" "cxx-build"))))))
+
+(define-public crate-sawp-diameter-0.2.0 (c (n "sawp-diameter") (v "0.2.0") (d (list (d (n "cxx") (r "^0.4") (d #t) (k 0)) (d (n "cxx-build") (r "^0.4") (o #t) (d #t) (k 1)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.2.0") (d #t) (k 0)))) (h "0dnda0kzn0h43h08f1r74ac5iabrvhqmc5rgigkfqqrvb6mabm2r") (f (quote (("verbose" "sawp/verbose") ("ffi" "cxx-build"))))))
+
+(define-public crate-sawp-diameter-0.3.0 (c (n "sawp-diameter") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.3.0") (d #t) (k 0)))) (h "0x0kc121apnx5blbrwgj9xqzdhvkxrk09kkzh7vz1q400f3ssp2x") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.4.0 (c (n "sawp-diameter") (v "0.4.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.4.0") (d #t) (k 0)))) (h "1vanv94k73jbq3jsjjiy8k7bwmblnilbgsiwlv3f0fqq7ymyk90y") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.5.0 (c (n "sawp-diameter") (v "0.5.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.5.0") (d #t) (k 0)))) (h "1lzs09p31ig8a6n90c7lxwf8q5w1ibxbqp4k2lpzfps4sng95p48") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.6.0 (c (n "sawp-diameter") (v "0.6.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.6.0") (d #t) (k 0)))) (h "1d7vnrj56c82xcqyp9338rwkvqvs19vl5j5xqr4kih8zzfcbf6rl") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.7.0 (c (n "sawp-diameter") (v "0.7.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.7.0") (d #t) (k 0)))) (h "0z6npwwvx036ddy9rylcp9iky2q47dw7k10rs4fs8h31bl5gwqp7") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.8.0 (c (n "sawp-diameter") (v "0.8.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.8.0") (d #t) (k 0)))) (h "0jljlb5hq2n3dapkjvm864bdkc8712m2v4id424r8w7wphl2kq3i") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.9.0 (c (n "sawp-diameter") (v "0.9.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.9.0") (d #t) (k 0)))) (h "1i9hqp7v3szmr1j12iqjcwqskp8n30lrfkkjx75f3ds2xb2b407w") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.10.0 (c (n "sawp-diameter") (v "0.10.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.10.0") (d #t) (k 0)))) (h "06ks4w3sr3hmqpx7s6rzbdpyn2ab8jj813bdiqnbpqw7amjcpl4q") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.11.0 (c (n "sawp-diameter") (v "0.11.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.11.0") (d #t) (k 0)))) (h "0xx1kjsixzkm61ndnm6xg74m0kh15lsxwizfr660jdk9c0r5ibvm") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.11.1 (c (n "sawp-diameter") (v "0.11.1") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "sawp") (r "^0.11.1") (d #t) (k 0)))) (h "044fb6zb726hxh8y572slcxsy6yhgvfjknkkh6hhdm8dsf7y2h3a") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.12.0 (c (n "sawp-diameter") (v "0.12.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "sawp") (r "^0.12.0") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)))) (h "11argjvs6cxn4g91866qfxacq6h05ynzjgpvz8sh6dpym4kfd871") (f (quote (("verbose" "sawp/verbose"))))))
+
+(define-public crate-sawp-diameter-0.12.1 (c (n "sawp-diameter") (v "0.12.1") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "sawp") (r "^0.12.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)))) (h "137blxsqr39074da2rwxmpn9afhw4345x69svsrfhn7zc9qbinqs") (f (quote (("verbose" "sawp/verbose"))))))
+

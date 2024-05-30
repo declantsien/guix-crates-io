@@ -1,0 +1,6 @@
+(define-module (crates-io ud p_ udp_sas_async) #:use-module (crates-io))
+
+(define-public crate-udp_sas_async-0.1.0 (c (n "udp_sas_async") (v "0.1.0") (d (list (d (n "async-io") (r "^2.2.0") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "os_socketaddr") (r "^0.2.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1v9gm3zms84937iijs4d8v94bz9851mn6046jchpdssairaxcjy4") (f (quote (("async_tokio" "tokio") ("async_std" "async-std" "async-io"))))))
+
+(define-public crate-udp_sas_async-0.2.0 (c (n "udp_sas_async") (v "0.2.0") (d (list (d (n "async-io") (r "^2.2.0") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "os_socketaddr") (r "^0.2.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "14fld349zdwlhhxy59xr87vnhiann1lzgcjd0igjls5isz090cq7") (f (quote (("async_tokio" "tokio") ("async_std" "async-std" "async-io"))))))
+

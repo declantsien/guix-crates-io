@@ -1,0 +1,6 @@
+(define-module (crates-io pi pe pipe-chain) #:use-module (crates-io))
+
+(define-public crate-pipe-chain-0.1.0 (c (n "pipe-chain") (v "0.1.0") (d (list (d (n "either") (r "^1.9.0") (o #t) (d #t) (k 0)) (d (n "fatal-error") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (o #t) (d #t) (k 0)) (d (n "tuplify") (r "^1.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (o #t) (d #t) (k 0)))) (h "16zqs3vd9jry49y85dh87zcnrh0aq6gjal3vmmkz7i7g8xd0ymgq") (f (quote (("websocket") ("unicode" "unicode-segmentation") ("pktline") ("parsers" "bencode" "pktline" "websocket") ("bencode")))) (y #t) (s 2) (e (quote (("either" "dep:either") ("default" "either" "parsers" "unicode" "dep:paste"))))))
+
+(define-public crate-pipe-chain-0.1.1 (c (n "pipe-chain") (v "0.1.1") (d (list (d (n "either") (r "^1.9.0") (o #t) (d #t) (k 0)) (d (n "fatal-error") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (o #t) (d #t) (k 0)) (d (n "tuplify") (r "^1.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (o #t) (d #t) (k 0)))) (h "1497n4nhwi5p9b7xrw3dv7m2acr07crhlvlj5i9y679mnww7c5m0") (f (quote (("websocket") ("unicode" "unicode-segmentation") ("pktline") ("parsers" "bencode" "pktline" "websocket") ("bencode")))) (s 2) (e (quote (("either" "dep:either") ("default" "either" "parsers" "unicode" "dep:paste"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io co me comet-rs-impl) #:use-module (crates-io))
+
+(define-public crate-comet-rs-impl-0.1.0 (c (n "comet-rs-impl") (v "0.1.0") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "19p4fmifdgd7sjv9xf0dspw0r75ndnrg0wjqkgapngxajfw4cbq0") (f (quote (("comet_errors_as_warnings"))))))
+
+(define-public crate-comet-rs-impl-0.1.1-rc1 (c (n "comet-rs-impl") (v "0.1.1-rc1") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "0yz0q3q08ccc93a6bsvyqm0gngv8dzk8y2ci7niz72pbbclg1bm6") (f (quote (("comet_errors_as_warnings"))))))
+
+(define-public crate-comet-rs-impl-0.1.1-rc2 (c (n "comet-rs-impl") (v "0.1.1-rc2") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "1y4jqvi4dhnp6vpbzh22k615x9i0p6w6qm1kgqd0y008h6wvwqm7") (f (quote (("comet_errors_as_warnings"))))))
+

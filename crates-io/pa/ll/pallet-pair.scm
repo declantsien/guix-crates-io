@@ -1,0 +1,4 @@
+(define-module (crates-io pa ll pallet-pair) #:use-module (crates-io))
+
+(define-public crate-pallet-pair-0.1.0 (c (n "pallet-pair") (v "0.1.0") (d (list (d (n "codec") (r "^2.0.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-benchmarking") (r "^3.1.0") (o #t) (k 0)) (d (n "frame-support") (r "^3.0.0") (k 0)) (d (n "frame-system") (r "^3.0.0") (k 0)) (d (n "pallet-scheduler") (r "^3.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.119") (d #t) (k 2)) (d (n "sp-core") (r "^3.0.0") (k 2)) (d (n "sp-io") (r "^3.0.0") (k 2)) (d (n "sp-runtime") (r "^3.0.0") (k 2)) (d (n "sp-std") (r "^3.0.0") (k 0)))) (h "1li8dk95qkz7kjaaivfm918yjxfgc69ai969cbgl6s2ijyv8x7dm") (f (quote (("std" "codec/std" "frame-support/std" "frame-system/std" "frame-benchmarking/std" "sp-std/std") ("runtime-benchmarks" "frame-benchmarking" "frame-support/runtime-benchmarks" "frame-system/runtime-benchmarks") ("default" "std"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ba ck background-jobs-tokio) #:use-module (crates-io))
+
+(define-public crate-background-jobs-tokio-0.17.0 (c (n "background-jobs-tokio") (v "0.17.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "background-jobs-core") (r "^0.17.0") (d #t) (k 0)) (d (n "metrics") (r "^0.22.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt" "sync" "time" "tracing"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v7" "serde"))) (d #t) (k 0)))) (h "0knfrhsgvdx8qcjw980j80vkzyck7zcqib26875gy1vcv85vr36i")))
+
+(define-public crate-background-jobs-tokio-0.18.0 (c (n "background-jobs-tokio") (v "0.18.0") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "background-jobs-core") (r "^0.18.0") (d #t) (k 0)) (d (n "metrics") (r "^0.22.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt" "sync" "time" "tracing"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v7" "serde"))) (d #t) (k 0)))) (h "0rf02npg8k739p8l9gnd6vg7d2pzy9dmcq4z0y6iwilbkgqrnx9m")))
+

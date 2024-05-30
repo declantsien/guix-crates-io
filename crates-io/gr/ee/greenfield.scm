@@ -1,0 +1,8 @@
+(define-module (crates-io gr ee greenfield) #:use-module (crates-io))
+
+(define-public crate-greenfield-0.1.0 (c (n "greenfield") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "deku") (r "^0.15.1") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)))) (h "0lhxxswzq1rp3mdq1r8qf1hrdvyap17n0bp6y4xi0zk1v44ckkac")))
+
+(define-public crate-greenfield-0.1.3 (c (n "greenfield") (v "0.1.3") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "deku") (r "^0.15.1") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)))) (h "1jkvbfymgzsnjrlc4j826wbm8jndd836g5h6w6zl92r9amykw9wz")))
+
+(define-public crate-greenfield-0.1.4 (c (n "greenfield") (v "0.1.4") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "deku") (r "^0.15.1") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)))) (h "12rr8ap3zizw9p8circ2gisb0bhzn1hkzb29sr4jv6w18wkjiz9a")))
+

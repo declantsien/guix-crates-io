@@ -1,0 +1,26 @@
+(define-module (crates-io pw as pwasm-ethereum) #:use-module (crates-io))
+
+(define-public crate-pwasm-ethereum-0.1.0 (c (n "pwasm-ethereum") (v "0.1.0") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.5") (d #t) (k 0)))) (h "0n86c33v8rfi36hzbj8kziy6xkijfvp3hpv7bqvdrfdmv4av9i80") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.2.0 (c (n "pwasm-ethereum") (v "0.2.0") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.6") (d #t) (k 0)))) (h "17cj5wgi01nvm5p3h3ph98k2d3gxxssxv9ab72i8b7g7hgwk2z0k") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.3.0 (c (n "pwasm-ethereum") (v "0.3.0") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.6") (d #t) (k 0)))) (h "1azahrv4amlllj8277ygna8z6k001b4f6xfq5fz81f8p2haz67f8") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.4.0 (c (n "pwasm-ethereum") (v "0.4.0") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.7") (d #t) (k 0)))) (h "1lsldki3b0h3xz9792vc9mipgf5m7lyzykkrh996zzfzwvadh68a") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.5.0 (c (n "pwasm-ethereum") (v "0.5.0") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.8") (d #t) (k 0)))) (h "1kl8rmp91q42sy83yvfxi2ggqcf2ckyaj18kzg74c1sp5nncz2as") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default")))) (y #t)))
+
+(define-public crate-pwasm-ethereum-0.5.1 (c (n "pwasm-ethereum") (v "0.5.1") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.9") (d #t) (k 0)))) (h "1g3k5ljvb2d6na7avvx7qyqgam46xr2vvz23ncxm4xdahm7cdxwa") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.6.0 (c (n "pwasm-ethereum") (v "0.6.0") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.10") (d #t) (k 0)))) (h "05xhz6pj60m51wvnnnyxv0wmj1pbm405pws4a6dj9dfy9qvb90ml") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.6.1 (c (n "pwasm-ethereum") (v "0.6.1") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.10") (d #t) (k 0)))) (h "00dnj60h6p2a4rivi4d1bn0i49vqwji9z21zs89l7drp6jk50z8j") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("kip4") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.6.2 (c (n "pwasm-ethereum") (v "0.6.2") (d (list (d (n "bigint") (r "^4") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 0)) (d (n "parity-hash") (r "^1") (k 1)) (d (n "pwasm-std") (r "^0.10") (d #t) (k 0)))) (h "1p794hf0bp4xl39ln5wmzmin13ywdynqv1h5kw519iq4hg4s2260") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "bigint/std" "byteorder/std") ("kip4") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.6.3 (c (n "pwasm-ethereum") (v "0.6.3") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1.2.2") (k 0)) (d (n "parity-hash") (r "^1.2.2") (k 1)) (d (n "pwasm-std") (r "^0.10") (d #t) (k 0)) (d (n "uint") (r "^0.3") (k 0)))) (h "1lfyn4i6zacfmh359pxska472saqfi8vrwrqsb9pll1fb6qby2dz") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "uint/std" "byteorder/std") ("kip4") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.7.0 (c (n "pwasm-ethereum") (v "0.7.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "parity-hash") (r "^1.2.2") (k 0)) (d (n "parity-hash") (r "^1.2.2") (k 1)) (d (n "pwasm-std") (r "^0.10") (d #t) (k 0)) (d (n "uint") (r "^0.3") (k 0)))) (h "03ypr0skyf47c6vc0jbnmwk91b8amjpamd76wfk8xvjc7pzgqxny") (f (quote (("std" "pwasm-std/std" "parity-hash/std" "uint/std" "byteorder/std") ("kip6") ("kip4") ("default"))))))
+
+(define-public crate-pwasm-ethereum-0.8.0 (c (n "pwasm-ethereum") (v "0.8.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "pwasm-std") (r "^0.13") (d #t) (k 0)))) (h "0767zn9nbi2xbss0niiaw7idn6lk95ljmhyivcmwczp4gvk0jmcb") (f (quote (("std" "pwasm-std/std" "byteorder/std") ("kip6") ("kip4") ("default"))))))
+

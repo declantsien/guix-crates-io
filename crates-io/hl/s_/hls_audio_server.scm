@@ -1,0 +1,6 @@
+(define-module (crates-io hl s_ hls_audio_server) #:use-module (crates-io))
+
+(define-public crate-hls_audio_server-0.1.0 (c (n "hls_audio_server") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "fdk-aac") (r "^0.5.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14.27") (f (quote ("server" "http1"))) (d #t) (k 0)) (d (n "id3") (r "^1.8.0") (d #t) (k 0)) (d (n "m3u8-rs") (r "^5.0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "net" "rt" "rt-multi-thread" "time"))) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 0)))) (h "1by0cqsv7sk069r796gar9ykiynq0ybndjbb0drzgr5gnhrhmcyy")))
+
+(define-public crate-hls_audio_server-0.1.1 (c (n "hls_audio_server") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "fdk-aac") (r "^0.5.0") (d #t) (k 2)) (d (n "hyper") (r "^0.14.27") (f (quote ("server" "http1"))) (d #t) (k 0)) (d (n "id3") (r "^1.8.0") (d #t) (k 0)) (d (n "m3u8-rs") (r "^5.0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "net" "rt" "rt-multi-thread" "time"))) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 2)))) (h "02agqxk1ddlqymz449v4mx35hy87apybb5qhak5fn31j5rj0r0j0")))
+

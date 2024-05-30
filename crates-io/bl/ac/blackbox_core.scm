@@ -1,0 +1,6 @@
+(define-module (crates-io bl ac blackbox_core) #:use-module (crates-io))
+
+(define-public crate-blackbox_core-0.1.0 (c (n "blackbox_core") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "blackbox_cast") (r "^0.1.0") (d #t) (k 0)) (d (n "blackbox_core_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "macros" "signal"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "1mh5hq836i7vlndi26lhsl54130675ms1q9gyg5l23chihj1vzgg")))
+
+(define-public crate-blackbox_core-0.1.1 (c (n "blackbox_core") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "blackbox_cast") (r "^0.1.1") (d #t) (k 0)) (d (n "blackbox_core_codegen") (r "^0.1.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "macros" "signal"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "0arr0i63s8mxj9ii7ix5i742pbxshaaivnpm94q8ba1fkhrcviy1")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io ma cr macroex) #:use-module (crates-io))
+
+(define-public crate-macroex-0.1.0 (c (n "macroex") (v "0.1.0") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0pzc10k811b9wpp4i116nsha9lglb7g457y1j98azayxla703drz") (f (quote (("derive" "macroex-derive") ("default" "derive"))))))
+
+(define-public crate-macroex-0.1.1 (c (n "macroex") (v "0.1.1") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "07gl1zdva0ar7mi7r8wlci5kfd8nn38ry58wqh776rfa7c1r6mwi") (f (quote (("derive" "macroex-derive") ("default" "derive"))))))
+
+(define-public crate-macroex-0.1.2 (c (n "macroex") (v "0.1.2") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0fj76gczcby63k9fpdc8jsjz7nd3rfr2jszlzpagsqbbzxvxbxz2") (f (quote (("derive" "macroex-derive") ("default" "derive" "quote"))))))
+
+(define-public crate-macroex-0.1.3 (c (n "macroex") (v "0.1.3") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0689vws5c29g9sijra30kyfvnpqjyg3axrnplkzdx3870v0amgbs") (f (quote (("derive" "macroex-derive") ("default" "derive" "quote"))))))
+
+(define-public crate-macroex-0.1.4 (c (n "macroex") (v "0.1.4") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1am6ix07kxbmpw4jvdinp2055zmw8q6nlicdpdab789vaacvy8bw") (f (quote (("derive" "macroex-derive") ("default" "derive" "quote"))))))
+
+(define-public crate-macroex-0.1.5 (c (n "macroex") (v "0.1.5") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0lacynhlnrs6zr5lynwzr7kkgafqjhsl0kn2r6p0v07iqlan4fxn") (f (quote (("derive" "macroex-derive") ("default" "derive" "quote"))))))
+
+(define-public crate-macroex-0.1.6 (c (n "macroex") (v "0.1.6") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "115kk3amr7w3v6xb0dzcgsg20qkwvpxf8dmwx10c0wp8r8j9p9s3") (f (quote (("derive" "macroex-derive") ("default" "derive" "quote"))))))
+
+(define-public crate-macroex-0.2.0 (c (n "macroex") (v "0.2.0") (d (list (d (n "litrs") (r "^0.4") (d #t) (k 0)) (d (n "macroex-derive") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "05jq5fvlyqdxqqlm2bw06wf9yykdvmsb6srkhmj5wbvqgpfm73m6") (f (quote (("derive" "macroex-derive") ("default" "derive" "quote"))))))
+

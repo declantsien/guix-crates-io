@@ -1,0 +1,20 @@
+(define-module (crates-io rs -o rs-opw-kinematics) #:use-module (crates-io))
+
+(define-public crate-rs-opw-kinematics-1.0.0 (c (n "rs-opw-kinematics") (v "1.0.0") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 2)))) (h "18c18kriggz0ljaima4x2gy5yl4b4jagla8g2jj99j5r8gd0myv5") (y #t)))
+
+(define-public crate-rs-opw-kinematics-1.0.1 (c (n "rs-opw-kinematics") (v "1.0.1") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 2)))) (h "1hvilmch04yzvdijn7d32yi04yabyj44fhd9hdr29ggd67lwgcg5")))
+
+(define-public crate-rs-opw-kinematics-1.0.2 (c (n "rs-opw-kinematics") (v "1.0.2") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "0irxjnac74xylzrdmwn6fflqvjm4c68gacfvjlrliplvx9rpxms9")))
+
+(define-public crate-rs-opw-kinematics-1.1.0-rc1 (c (n "rs-opw-kinematics") (v "1.1.0-rc1") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "07fpzcw0h3hil1128dg93444g7g6ci2i5srrgda6s1fasg1apxgi")))
+
+(define-public crate-rs-opw-kinematics-1.1.0 (c (n "rs-opw-kinematics") (v "1.1.0") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "0bmiid03v4mv48jk69yrgkwzv1yx3x4429q0n17i6xkhxrdsj7vf")))
+
+(define-public crate-rs-opw-kinematics-1.1.1 (c (n "rs-opw-kinematics") (v "1.1.1") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "yaml-rust2") (r "^0.8.0") (d #t) (k 0)))) (h "0x5s4dpmxd91nkylk61gwknc3ijjmm0jm56qfybl4g75v1kff9c9")))
+
+(define-public crate-rs-opw-kinematics-1.1.2-alpha.1 (c (n "rs-opw-kinematics") (v "1.1.2-alpha.1") (d (list (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "sxd-document") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "yaml-rust2") (r "^0.8.0") (o #t) (d #t) (k 0)))) (h "1jl4jdizmgid4ldmzdia6js7zs772l35iw8yc69d3cffk6dx0v28") (f (quote (("default" "allow_filesystem") ("allow_filesystem" "yaml-rust2" "sxd-document" "regex"))))))
+
+(define-public crate-rs-opw-kinematics-1.2.0 (c (n "rs-opw-kinematics") (v "1.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "sxd-document") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "yaml-rust2") (r "^0.8.0") (o #t) (d #t) (k 0)))) (h "0xx1w7jc0fwn316l0ja5jqfpf427br2lkwa4gj3wip35rgk8jdlz") (f (quote (("default" "allow_filesystem") ("allow_filesystem" "yaml-rust2" "sxd-document" "regex" "clap"))))))
+
+(define-public crate-rs-opw-kinematics-1.2.1 (c (n "rs-opw-kinematics") (v "1.2.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "sxd-document") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "yaml-rust2") (r "^0.8.0") (o #t) (d #t) (k 0)))) (h "0wn0w9mkm9cx2aaa10v359az919y9aa7wfxpn1pp9ad87070945k") (f (quote (("default" "allow_filesystem") ("allow_filesystem" "yaml-rust2" "sxd-document" "regex" "clap"))))))
+

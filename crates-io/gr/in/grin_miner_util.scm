@@ -1,0 +1,6 @@
+(define-module (crates-io gr in grin_miner_util) #:use-module (crates-io))
+
+(define-public crate-grin_miner_util-0.4.2 (c (n "grin_miner_util") (v "0.4.2") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "slog") (r "~2.1") (f (quote ("max_level_trace" "release_max_level_trace"))) (d #t) (k 0)) (d (n "slog-async") (r "^2.1") (d #t) (k 0)) (d (n "slog-term") (r "^2.1") (d #t) (k 0)))) (h "0dh40v0hy4c2fh1sdxp1pxfzm07j2bgzw95ryfcxv6h3cmzb1ygc")))
+
+(define-public crate-grin_miner_util-0.5.2 (c (n "grin_miner_util") (v "0.5.2") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "slog") (r "~2.1") (f (quote ("max_level_trace" "release_max_level_trace"))) (d #t) (k 0)) (d (n "slog-async") (r "^2.1") (d #t) (k 0)) (d (n "slog-term") (r "^2.1") (d #t) (k 0)))) (h "114nsbjw4205402x7bcgvdywigdzr0l929jfd0h2r73z40krbv63")))
+

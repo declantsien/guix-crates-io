@@ -1,0 +1,10 @@
+(define-module (crates-io ji nx jinx-proxy) #:use-module (crates-io))
+
+(define-public crate-jinx-proxy-0.1.0 (c (n "jinx-proxy") (v "0.1.0") (d (list (d (n "bollard") (r "^0.11") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "0ipzz7607pyqkygnqca7ib6iq0caw2rzk9xsx4gs4b3d82s0inyi")))
+
+(define-public crate-jinx-proxy-0.1.1 (c (n "jinx-proxy") (v "0.1.1") (d (list (d (n "bollard") (r "^0.11") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "0y8gr9khlm1x9w6bq42x8y0dafmzhjp1wd8k23q5zbhhrc1pkri0")))
+
+(define-public crate-jinx-proxy-0.1.2 (c (n "jinx-proxy") (v "0.1.2") (d (list (d (n "bollard") (r "^0.11") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "0z5gr7q03nvchl451xxq4qi1q25d0yz01lsa597vdrggz7zxzf2q")))
+
+(define-public crate-jinx-proxy-0.1.3 (c (n "jinx-proxy") (v "0.1.3") (d (list (d (n "bollard") (r "^0.11") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "11ww5idzmx4g3f011l2gj0wi74hiaa29z8qv7rdn8hgf35dlc3wx")))
+

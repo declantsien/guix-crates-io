@@ -1,0 +1,6 @@
+(define-module (crates-io ss -v ss-view-tree) #:use-module (crates-io))
+
+(define-public crate-ss-view-tree-0.1.0 (c (n "ss-view-tree") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "either") (r "^1.5.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ss-trees") (r "^0.1.0") (d #t) (k 0)) (d (n "ss-web-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.20") (f (quote ("EventTarget"))) (d #t) (k 0)))) (h "0dsv0wkzwwlzh3bpgjh1lz8cqf69qsxpv1mp6bj3mgd1cbz38wdg") (y #t)))
+
+(define-public crate-ss-view-tree-0.1.1 (c (n "ss-view-tree") (v "0.1.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "either") (r "^1.5.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ss-trees") (r "^0.1.0") (d #t) (k 0)) (d (n "ss-web-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.20") (f (quote ("EventTarget"))) (d #t) (k 0)))) (h "14ff8m6yck9bqy4s2rnph28sdjn2zng8sddqcky5b0vq6z4v3jw1") (y #t)))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io co be cobench) #:use-module (crates-io))
+
+(define-public crate-cobench-0.1.0 (c (n "cobench") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "delaunator") (r "^1.0.2") (d #t) (k 0)) (d (n "float-ord") (r "^0.3.2") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1mcdx4s4wa3dll8d3166hcs8msax4wprz3d4f8xcca83ynkksalb")))
+

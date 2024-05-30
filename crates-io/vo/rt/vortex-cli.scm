@@ -1,0 +1,4 @@
+(define-module (crates-io vo rt vortex-cli) #:use-module (crates-io))
+
+(define-public crate-vortex-cli-0.1.0 (c (n "vortex-cli") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bip_metainfo") (r "^0.12") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tokio") (r "^1.26") (f (quote ("time" "sync" "macros"))) (d #t) (k 0)) (d (n "tokio-uring") (r "^0.4.0") (f (quote ("bytes"))) (d #t) (k 0)) (d (n "vortex-bittorrent") (r "^0.1.0") (d #t) (k 0)) (d (n "vortex-dht") (r "^0.1.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 2)))) (h "153pyixm4znp937i9xi3xvy3pyrrd9c53vbmwjd4by43xr2fg51n")))
+

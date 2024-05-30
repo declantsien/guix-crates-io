@@ -1,0 +1,4 @@
+(define-module (crates-io du sk dusk-bip39) #:use-module (crates-io))
+
+(define-public crate-dusk-bip39-1.0.2 (c (n "dusk-bip39") (v "1.0.2") (d (list (d (n "bitcoin_hashes") (r "^0.9.4") (f (quote ("alloc"))) (k 0)) (d (n "rand") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.0") (d #t) (k 2)) (d (n "rand_core") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "unicode-normalization") (r "=0.1.9") (o #t) (d #t) (k 0)))) (h "0sip9ac2b9hzlkfi6awbffrlbicx55h6aqy59a6627jm6lgh8c45") (f (quote (("std" "unicode-normalization" "serde/std") ("spanish") ("korean") ("japanese") ("italian") ("french") ("default" "std") ("czech") ("chinese-traditional") ("chinese-simplified") ("all-languages" "chinese-simplified" "chinese-traditional" "czech" "french" "italian" "japanese" "korean" "spanish"))))))
+

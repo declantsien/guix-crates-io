@@ -1,0 +1,12 @@
+(define-module (crates-io ci vi civitai) #:use-module (crates-io))
+
+(define-public crate-civitai-0.0.0 (c (n "civitai") (v "0.0.0") (d (list (d (n "curl") (r "^0.4.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)))) (h "02vgw4l9ssyrndc3yxbdk4x405qg15xrbpfhbmdpnhjydkk5ak6p") (f (quote (("default"))))))
+
+(define-public crate-civitai-0.1.0 (c (n "civitai") (v "0.1.0") (d (list (d (n "curl") (r "^0.4.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0qb3ffc4l2b2igsz50cbzz396zg4c02ak1vf2q2z111slwk2g7q4") (f (quote (("default"))))))
+
+(define-public crate-civitai-0.1.1 (c (n "civitai") (v "0.1.1") (d (list (d (n "curl") (r "^0.4.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1ivndx5345hq008b69kpfqp6c2qf14gvl5mav13xa2i2mlksidcd") (f (quote (("default"))))))
+
+(define-public crate-civitai-0.1.2 (c (n "civitai") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "trauma") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)))) (h "077qwp2759sfvkkjdhcvh5chg349kkn6ikyg580azr8s9ycjgj0x") (f (quote (("default"))))))
+
+(define-public crate-civitai-0.1.3 (c (n "civitai") (v "0.1.3") (d (list (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.154") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "trauma") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1zlaimjvf01pi691c72liia815jiglasqi65pw74j5hq8a35s7x8") (f (quote (("default"))))))
+

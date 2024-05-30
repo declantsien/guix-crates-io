@@ -1,0 +1,8 @@
+(define-module (crates-io ra m- ram-journal) #:use-module (crates-io))
+
+(define-public crate-ram-journal-0.1.1 (c (n "ram-journal") (v "0.1.1") (d (list (d (n "clap") (r "^3.2.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clokwerk") (r "^0.3.5") (d #t) (k 0)) (d (n "lms_lib") (r "^0.4.0") (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (k 0)) (d (n "simple_logger") (r "^2.3.0") (f (quote ("colors"))) (k 0)) (d (n "sys-mount") (r "^1.5.1") (k 0)) (d (n "twelf") (r "^0.7.0") (f (quote ("ini" "clap" "env"))) (k 0)))) (h "0ll3bxkxv313b3m4gmc2riqb4m1xgl7jv9k0lzjwafxf7jlcrwmh")))
+
+(define-public crate-ram-journal-0.1.2 (c (n "ram-journal") (v "0.1.2") (d (list (d (n "clap") (r "^3.2.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clokwerk") (r "^0.3.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (k 0)) (d (n "simple_logger") (r "^2.3.0") (f (quote ("colors"))) (k 0)) (d (n "sys-mount") (r "^1.5.1") (k 0)) (d (n "twelf") (r "^0.7.0") (f (quote ("ini" "clap" "env"))) (k 0)))) (h "0ni44qva7dcnzpl25nlicwny74pp117mxran5v5di36qgm5mn2rg")))
+
+(define-public crate-ram-journal-0.1.3 (c (n "ram-journal") (v "0.1.3") (d (list (d (n "clap") (r "^3.2.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clokwerk") (r "^0.3.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (k 0)) (d (n "simple_logger") (r "^2.3.0") (f (quote ("colors"))) (k 0)) (d (n "sys-mount") (r "^1.5.1") (k 0)) (d (n "twelf") (r "^0.7.0") (f (quote ("ini" "clap" "env"))) (k 0)))) (h "1hmbkwj2n77y8i8v467bazwbmlbcx94gs263qq4i7lqbyidh0dxj")))
+

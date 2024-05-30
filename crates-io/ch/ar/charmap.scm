@@ -1,0 +1,12 @@
+(define-module (crates-io ch ar charmap) #:use-module (crates-io))
+
+(define-public crate-charmap-0.1.0 (c (n "charmap") (v "0.1.0") (d (list (d (n "hashbrown") (r "^0") (o #t) (d #t) (k 0)) (d (n "phf") (r "^0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 2)))) (h "14pifv89f2p1wgwxiaw3glg1q1in8jrmlnypa9i5zzs1wmvfn15j") (f (quote (("std") ("default" "std") ("all" "std" "hashbrown" "phf")))) (s 2) (e (quote (("phf" "dep:phf") ("hashbrown" "dep:hashbrown"))))))
+
+(define-public crate-charmap-0.1.1 (c (n "charmap") (v "0.1.1") (d (list (d (n "hashbrown") (r "^0") (o #t) (d #t) (k 0)) (d (n "phf") (r "^0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 2)))) (h "01nib6jyk9y5cvdz85af7shfckbzwyffxhp3r4f06rwcx8hixgcj") (f (quote (("std") ("default" "std") ("all" "std" "hashbrown" "phf")))) (s 2) (e (quote (("phf" "dep:phf") ("hashbrown" "dep:hashbrown"))))))
+
+(define-public crate-charmap-0.2.0 (c (n "charmap") (v "0.2.0") (d (list (d (n "hashbrown") (r "^0") (o #t) (d #t) (k 0)) (d (n "phf") (r "^0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 2)))) (h "1aah07dcy53zn1073p15f80jwwkfhwnfiv5068cm3j03crzdy2b8") (f (quote (("std") ("default" "std") ("all" "std" "hashbrown" "phf")))) (s 2) (e (quote (("phf" "dep:phf") ("hashbrown" "dep:hashbrown"))))))
+
+(define-public crate-charmap-0.2.1 (c (n "charmap") (v "0.2.1") (d (list (d (n "hashbrown") (r "^0") (o #t) (d #t) (k 0)) (d (n "phf") (r "^0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 2)))) (h "0hmlz5qxqc0hmp02ipivmhcz1p08kaxb8wbaj95axnjr9rk755yc") (f (quote (("std") ("default" "std") ("all" "std" "hashbrown" "phf")))) (s 2) (e (quote (("phf" "dep:phf") ("hashbrown" "dep:hashbrown"))))))
+
+(define-public crate-charmap-0.2.2 (c (n "charmap") (v "0.2.2") (d (list (d (n "hashbrown") (r "^0") (o #t) (d #t) (k 0)) (d (n "phf") (r "^0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 2)))) (h "0q6rh53wc72l12v8v42q8kvcwarhk2v6niamcgvipd53n001fqx8") (f (quote (("std") ("default" "std") ("all" "std" "hashbrown" "phf")))) (s 2) (e (quote (("phf" "dep:phf") ("hashbrown" "dep:hashbrown"))))))
+

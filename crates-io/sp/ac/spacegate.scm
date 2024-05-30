@@ -1,0 +1,6 @@
+(define-module (crates-io sp ac spacegate) #:use-module (crates-io))
+
+(define-public crate-spacegate-0.1.0-alpha1 (c (n "spacegate") (v "0.1.0-alpha1") (d (list (d (n "spacegate-impl-hyper") (r "^0.1.0-alpha1") (d #t) (k 0)) (d (n "spacegate-kernel") (r "^0.1.0-alpha1") (d #t) (k 0)) (d (n "tardis") (r "^0.1.0-beta3") (d #t) (k 0)))) (h "18i5pd0hb0qjsspnzkh5yi9z6vs5v57h252vxx47mll2lx9ijlb9") (y #t)))
+
+(define-public crate-spacegate-0.2.0-alpha.1 (c (n "spacegate") (v "0.2.0-alpha.1") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "spacegate-shell") (r "^0.2.0-alpha.1") (f (quote ("ext-axum" "plugin-all"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "env-filter"))) (d #t) (k 0)))) (h "12jzcggn26qpq4j7r90d9jkzdyi169hxxshi350qm09sdpgqg3vl") (f (quote (("static-openssl" "openssl/vendored") ("redis" "spacegate-shell/cache") ("k8s" "spacegate-shell/k8s") ("full" "k8s" "fs" "redis" "axum") ("fs" "spacegate-shell/fs") ("dylib" "spacegate-shell/plugin-dylib") ("default" "fs") ("build-simple" "fs") ("build-local" "fs" "redis" "axum") ("build-k8s" "k8s" "redis" "axum") ("axum" "spacegate-shell/ext-axum"))))))
+

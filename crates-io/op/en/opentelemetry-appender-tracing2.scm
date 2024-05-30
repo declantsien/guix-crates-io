@@ -1,0 +1,4 @@
+(define-module (crates-io op en opentelemetry-appender-tracing2) #:use-module (crates-io))
+
+(define-public crate-opentelemetry-appender-tracing2-0.2.0 (c (n "opentelemetry-appender-tracing2") (v "0.2.0") (d (list (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "opentelemetry") (r "^0.21") (f (quote ("logs"))) (d #t) (k 0)) (d (n "opentelemetry-stdout") (r "^0.2.0") (f (quote ("logs"))) (d #t) (k 2)) (d (n "opentelemetry_sdk") (r "^0.21") (f (quote ("logs"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("std"))) (k 0)) (d (n "tracing-core") (r "^0.1.32") (d #t) (k 0)) (d (n "tracing-opentelemetry-instrumentation-sdk") (r "^0.16.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("registry" "std"))) (k 0)))) (h "0yd0i5r9mxgjdsxbkyykam4gd57d15yha1gdmjgpiyvaw535p47g") (f (quote (("logs_level_enabled" "opentelemetry/logs_level_enabled" "opentelemetry_sdk/logs_level_enabled") ("default" "logs_level_enabled")))) (r "1.65")))
+

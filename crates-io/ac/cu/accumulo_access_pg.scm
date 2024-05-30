@@ -1,0 +1,10 @@
+(define-module (crates-io ac cu accumulo_access_pg) #:use-module (crates-io))
+
+(define-public crate-accumulo_access_pg-0.1.0 (c (n "accumulo_access_pg") (v "0.1.0") (d (list (d (n "accumulo-access") (r "^0.1.3") (d #t) (k 0)) (d (n "pgrx") (r "=0.11.2") (d #t) (k 0)) (d (n "pgrx-tests") (r "=0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.194") (f (quote ("derive"))) (d #t) (k 0)))) (h "1d0pd8a8hsg3bg7x8h7niy0dhx02fr01cgy06apq6zbi0h7bcx5y") (f (quote (("pg_test") ("pg16" "pgrx/pg16" "pgrx-tests/pg16") ("pg15" "pgrx/pg15" "pgrx-tests/pg15") ("pg14" "pgrx/pg14" "pgrx-tests/pg14") ("pg13" "pgrx/pg13" "pgrx-tests/pg13") ("pg12" "pgrx/pg12" "pgrx-tests/pg12") ("pg11" "pgrx/pg11" "pgrx-tests/pg11") ("default" "pg15")))) (y #t)))
+
+(define-public crate-accumulo_access_pg-0.1.2 (c (n "accumulo_access_pg") (v "0.1.2") (d (list (d (n "accumulo-access") (r "^0.1") (d #t) (k 0)) (d (n "pgrx") (r "=0.11.4") (d #t) (k 0)) (d (n "pgrx-tests") (r "=0.11.4") (d #t) (k 2)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)))) (h "04q70pma8xfa3cx5smsdjjqjf3cxs95r45clchns6k999nz5h339") (f (quote (("pg_test") ("pg15" "pgrx/pg15" "pgrx-tests/pg15") ("default" "pg15"))))))
+
+(define-public crate-accumulo_access_pg-0.1.3 (c (n "accumulo_access_pg") (v "0.1.3") (d (list (d (n "accumulo-access") (r "^0.1") (d #t) (k 0)) (d (n "pgrx") (r "=0.11.4") (d #t) (k 0)) (d (n "pgrx-tests") (r "=0.11.4") (d #t) (k 2)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)))) (h "0pdnvc2pjzmw7py2difd094k0n15m4kwnl8fzyyvdbhz496239v4") (f (quote (("pg_test") ("pg15" "pgrx/pg15" "pgrx-tests/pg15") ("default" "pg15"))))))
+
+(define-public crate-accumulo_access_pg-0.1.4 (c (n "accumulo_access_pg") (v "0.1.4") (d (list (d (n "accumulo-access") (r "^0.1") (d #t) (k 0)) (d (n "pgrx") (r "=0.11.4") (d #t) (k 0)) (d (n "pgrx-tests") (r "=0.11.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "02sk4jazr9igs4r6n7aw6fbx8fgxpv7gxnyidl72k04v5p11i9rd") (f (quote (("pg_test") ("pg15" "pgrx/pg15" "pgrx-tests/pg15") ("default" "pg15"))))))
+

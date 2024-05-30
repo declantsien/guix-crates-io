@@ -1,0 +1,8 @@
+(define-module (crates-io ka il kailua_syntax) #:use-module (crates-io))
+
+(define-public crate-kailua_syntax-1.0.4 (c (n "kailua_syntax") (v "1.0.4") (d (list (d (n "clap") (r "^2") (d #t) (k 2)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_test") (r "^1.0.4") (d #t) (k 2)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "parse-generics-shim") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 2)))) (h "1bkdfd7l7krr4p3x22c2bza8z65bwncvvc1mxdpmj99v5439lhpp")))
+
+(define-public crate-kailua_syntax-1.0.5 (c (n "kailua_syntax") (v "1.0.5") (d (list (d (n "clap") (r "^2") (d #t) (k 2)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_test") (r "^1.0.4") (d #t) (k 2)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "parse-generics-shim") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 2)))) (h "1300inrrz1nkw02a0ghvd4p7b1lc5dicz7sd57xkxjwlly37f87l")))
+
+(define-public crate-kailua_syntax-1.1.0 (c (n "kailua_syntax") (v "1.1.0") (d (list (d (n "clap") (r "^2") (d #t) (k 2)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "kailua_diag") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_env") (r "^1.0.4") (d #t) (k 0)) (d (n "kailua_test") (r "^1.0.4") (d #t) (k 2)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "parse-generics-shim") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 2)))) (h "01459f2jvaidf0fbgzawsz4njx9piz8s97i44z8arkhr0ylxhydz")))
+

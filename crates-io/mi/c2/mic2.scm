@@ -1,0 +1,4 @@
+(define-module (crates-io mi c2 mic2) #:use-module (crates-io))
+
+(define-public crate-mic2-0.1.0 (c (n "mic2") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.3.3") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "enumflags2") (r "^0.7.8") (d #t) (k 0)) (d (n "libftdi1-sys") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "nmea-parser") (r "^0.10.0") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "rusb") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serialport") (r "^4.2.1") (o #t) (d #t) (k 0)) (d (n "sfml") (r "^0.21.0") (o #t) (d #t) (k 0)))) (h "11axvv0vn0zvxhxgcb30vnl07rrz9bccgs206qyy7pj1kgrjq7f9") (f (quote (("default" "gps" "io" "audio")))) (s 2) (e (quote (("io" "dep:libftdi1-sys") ("gps" "dep:nmea-parser" "dep:serialport") ("audio" "dep:sfml"))))))
+

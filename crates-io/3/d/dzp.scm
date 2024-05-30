@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# d dzp) #:use-module (crates-io))
+
+(define-public crate-dzp-0.1.0 (c (n "dzp") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.24") (d #t) (k 0)) (d (n "lazer") (r "^0.3.1") (d #t) (k 0)) (d (n "license") (r "<=1.1.10") (d #t) (k 0)) (d (n "reduce") (r "^0.1.4") (d #t) (k 0)) (d (n "rustyline") (r "^9.0.0") (d #t) (k 0)) (d (n "semver") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.20") (d #t) (k 0)) (d (n "titlecase") (r "^1.1.0") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0yiwlgi21f8nhbylv9cxalqspkw37m9g5gvzc2kmzv83j5j835vf")))
+

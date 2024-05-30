@@ -1,0 +1,10 @@
+(define-module (crates-io lu no luno) #:use-module (crates-io))
+
+(define-public crate-luno-0.1.0 (c (n "luno") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.9.18") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "strum") (r "^0.15.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.15.0") (d #t) (k 0)))) (h "03ffdjwxn8jmdhy562xp927b0krfmc9c7p8ilhlwr27k8z5sb2gc")))
+
+(define-public crate-luno-0.2.0 (c (n "luno") (v "0.2.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "strum") (r "^0.16.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.16.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.0-alpha.6") (d #t) (k 0)))) (h "0jbv51sp32wxra7q8hdrnbwi1hap2fq3izpkimz6qrh61i1fwywh")))
+
+(define-public crate-luno-0.2.1 (c (n "luno") (v "0.2.1") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "strum") (r "^0.17.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.17.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.11") (f (quote ("macros"))) (d #t) (k 0)))) (h "1rv6r39658dg1k5m8xrb1kkfqnl8sw3dqv6abj8i1skygi6ji9h6")))
+
+(define-public crate-luno-0.3.0 (c (n "luno") (v "0.3.0") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "mockito") (r "^0.27.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.4.1") (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.52") (d #t) (k 0)) (d (n "strum") (r "^0.19.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.19.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.20") (f (quote ("macros"))) (d #t) (k 0)))) (h "0jvsbiqfs9g21c3wvydy79nydfx148kczc5551r5s88pbhkhyqwc")))
+

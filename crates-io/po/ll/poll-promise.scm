@@ -1,0 +1,10 @@
+(define-module (crates-io po ll poll-promise) #:use-module (crates-io))
+
+(define-public crate-poll-promise-0.1.0 (c (n "poll-promise") (v "0.1.0") (d (list (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (o #t) (d #t) (k 0)))) (h "0p895vp0j91agg6nssyii2pn9pc95m9d8rmvshimnkjl76rif216")))
+
+(define-public crate-poll-promise-0.2.0 (c (n "poll-promise") (v "0.2.0") (d (list (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (o #t) (d #t) (k 0)))) (h "01dkzgfccwxcqf4xbys59sxi6d4adclznrqjq34j7bnzf8is1wpw") (f (quote (("web" "wasm-bindgen" "wasm-bindgen-futures")))) (y #t)))
+
+(define-public crate-poll-promise-0.3.0 (c (n "poll-promise") (v "0.3.0") (d (list (d (n "async-net") (r "^1.7.0") (d #t) (k 2)) (d (n "async-std") (r "^1.12") (o #t) (d #t) (k 0)) (d (n "document-features") (r "^0.2") (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "sync" "macros"))) (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1pxprny826xsy1jbppb8xsnd324ps97ww86vpijqknprrgz5hsjz") (f (quote (("web" "wasm-bindgen" "wasm-bindgen-futures") ("smol_tick_poll")))) (s 2) (e (quote (("tokio" "dep:tokio") ("smol" "dep:smol") ("async-std" "dep:async-std"))))))
+
+(define-public crate-poll-promise-0.2.1 (c (n "poll-promise") (v "0.2.1") (d (list (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0x8by453smm8p87dyvad0vvp14wvgz89ss63d808gkynd7yxnq2p") (f (quote (("web" "wasm-bindgen" "wasm-bindgen-futures"))))))
+

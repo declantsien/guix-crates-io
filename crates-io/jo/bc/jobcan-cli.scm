@@ -1,0 +1,6 @@
+(define-module (crates-io jo bc jobcan-cli) #:use-module (crates-io))
+
+(define-public crate-jobcan-cli-0.1.1 (c (n "jobcan-cli") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("cookies" "json" "native-tls-vendored"))) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (d #t) (k 0)))) (h "19xj5kgmj8s2si9d9hqp7wpyhbbay9sw5v426pj1y0xa9vw4x97l")))
+
+(define-public crate-jobcan-cli-0.1.2 (c (n "jobcan-cli") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("cookies" "json" "native-tls-vendored"))) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (d #t) (k 0)))) (h "18cim0y01a1jrn5lxq3jwhiy4b81w3wf1plgmpnmn1fdkjbnlyw8")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ti me timetrack_jr) #:use-module (crates-io))
+
+(define-public crate-timetrack_jr-1.0.0 (c (n "timetrack_jr") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "chrono-english") (r "^0.1.7") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "icalendar") (r "^0.13.3") (d #t) (k 0)) (d (n "libsqlite3-sys") (r "^0.25.2") (d #t) (k 0)) (d (n "notify-rust") (r "^4.5.10") (d #t) (k 0)) (d (n "once_cell") (r "^1.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.86") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0bxgsjiajbirxnf3cfy6sc0rjyxniakaqivj9j5ijjlsmfw5al21")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ge ma gemachain-perf) #:use-module (crates-io))
+
+(define-public crate-gemachain-perf-1.8.0 (c (n "gemachain-perf") (v "1.8.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^3") (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (d #t) (k 0)) (d (n "dlopen_derive") (r "^0.1.4") (d #t) (k 0)) (d (n "gemachain-logger") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-metrics") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-rayon-threadlimit") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "matches") (r "^0.1.9") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)))) (h "19zj15d85mnr1ip90w75w4pd2p59j3jip9aa6l6k3jh1lar5a2ir")))
+

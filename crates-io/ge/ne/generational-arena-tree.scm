@@ -1,0 +1,12 @@
+(define-module (crates-io ge ne generational-arena-tree) #:use-module (crates-io))
+
+(define-public crate-generational-arena-tree-0.0.0-dev (c (n "generational-arena-tree") (v "0.0.0-dev") (d (list (d (n "cfg_attrs") (r "^2.1.1") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0lajn97mvk2rnrvv1wi8ky5w93i1f2crk6vl7kbp93g5b4z8494s") (f (quote (("unified") ("split") ("deque") ("default" "unified" "split" "deque"))))))
+
+(define-public crate-generational-arena-tree-0.0.0-dev.1 (c (n "generational-arena-tree") (v "0.0.0-dev.1") (d (list (d (n "cfg_attrs") (r "^2.1.2") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0lqk767n9ik50glcxmrlrm0ivvlg4zqyyv8g2ha6x68vnsxhnyfw") (f (quote (("unified") ("split") ("deque") ("default" "unified" "split" "deque"))))))
+
+(define-public crate-generational-arena-tree-0.0.0-dev.2 (c (n "generational-arena-tree") (v "0.0.0-dev.2") (d (list (d (n "cfg_attrs") (r "^2.1.2") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1qix2bi0bcqsgwzyxl127207wlficc17q6llr7fczzwhyznl8vh9") (f (quote (("unified") ("split") ("deque") ("default" "unified" "split" "deque"))))))
+
+(define-public crate-generational-arena-tree-0.0.0-dev.4 (c (n "generational-arena-tree") (v "0.0.0-dev.4") (d (list (d (n "cfg_attrs") (r "^3") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1r11xkrdxr60yqg15m01i9pwdk1f2vi0zyhfxmbrvadg6i56cii2") (f (quote (("unified") ("split") ("deque") ("default" "unified" "split" "deque")))) (s 2) (e (quote (("serde" "dep:serde" "generational-arena/serde"))))))
+
+(define-public crate-generational-arena-tree-0.0.0-dev.5 (c (n "generational-arena-tree") (v "0.0.0-dev.5") (d (list (d (n "cfg_attrs") (r "^3") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1ywc6fkg43fmd6z4mlp1vmiq1421r95k3zyknacagzkz8xdpp4w0") (f (quote (("unified") ("split") ("deque") ("default" "unified" "split" "deque")))) (s 2) (e (quote (("serde" "dep:serde" "generational-arena/serde"))))))
+

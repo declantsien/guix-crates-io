@@ -1,0 +1,10 @@
+(define-module (crates-io de ss desse) #:use-module (crates-io))
+
+(define-public crate-desse-0.1.0 (c (n "desse") (v "0.1.0") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 2)) (d (n "byteorder") (r "^1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "desse-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)))) (h "175byh4fq010fskw3yjxvqfkqs4aswfjq9zhk86ykn5c2xw27r5l") (f (quote (("derive" "desse-derive") ("default" "derive"))))))
+
+(define-public crate-desse-0.1.1 (c (n "desse") (v "0.1.1") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 2)) (d (n "byteorder") (r "^1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "desse-derive") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)))) (h "0qjapfdnypja717xcw03lvaqfqb1arxa0kbk2n8j1r76ryxjlbl8") (f (quote (("derive" "desse-derive") ("default" "derive"))))))
+
+(define-public crate-desse-0.2.0 (c (n "desse") (v "0.2.0") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 2)) (d (n "byteorder") (r "^1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "desse-derive") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)))) (h "1xq0krmmz8p1mm3vifygxj2njw5y0f64hs24rnxshp29di94mifb") (f (quote (("derive" "desse-derive") ("default" "derive"))))))
+
+(define-public crate-desse-0.2.1 (c (n "desse") (v "0.2.1") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 2)) (d (n "byteorder") (r "^1.3") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "desse-derive") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)))) (h "102pp4ihb7mh9sxrmcmlyj6hyla1b1p2ci5822apkwdv7mz3srg4") (f (quote (("derive" "desse-derive") ("default" "derive"))))))
+

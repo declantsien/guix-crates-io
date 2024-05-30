@@ -1,0 +1,8 @@
+(define-module (crates-io pe ro perorustbot) #:use-module (crates-io))
+
+(define-public crate-perorustbot-0.1.0 (c (n "perorustbot") (v "0.1.0") (d (list (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.50") (d #t) (k 0)) (d (n "teloxide") (r "^0.4.0") (f (quote ("auto-send" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.3") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0l7nyxiagl2q21bsadqgb8zig3bjj56wvsb5apazwq7w74wksanp")))
+
+(define-public crate-perorustbot-0.1.1 (c (n "perorustbot") (v "0.1.1") (d (list (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.50") (d #t) (k 0)) (d (n "teloxide") (r "^0.4.0") (f (quote ("auto-send" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.3") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0zmakas96sipcz78z48fbp71dc8cv62wwqc4f1msr4sqq5g5537h")))
+
+(define-public crate-perorustbot-0.1.2 (c (n "perorustbot") (v "0.1.2") (d (list (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.50") (d #t) (k 0)) (d (n "teloxide") (r "^0.4.0") (f (quote ("auto-send" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.3") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0hmw05ck20108dypsg5jbfdrdjv2xs18jnm4js2v7qwq0h1zw81k")))
+

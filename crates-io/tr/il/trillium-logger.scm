@@ -1,0 +1,22 @@
+(define-module (crates-io tr il trillium-logger) #:use-module (crates-io))
+
+(define-public crate-trillium-logger-0.1.0 (c (n "trillium-logger") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)) (d (n "trillium") (r "^0.1.0") (d #t) (k 0)))) (h "1dlk4ffawwkdd7kqq8hm9m6kqchvhk4cm1b05zvpl36kpdz4ywmh")))
+
+(define-public crate-trillium-logger-0.1.1 (c (n "trillium-logger") (v "0.1.1") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)) (d (n "trillium") (r "^0.1.0") (d #t) (k 0)))) (h "1pq2siymdk1h4bs491ids2kigaamxc4hfj5b6hdaadxn17cy6p23")))
+
+(define-public crate-trillium-logger-0.1.2 (c (n "trillium-logger") (v "0.1.2") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)) (d (n "trillium") (r "^0.1.0") (d #t) (k 0)))) (h "07mm1wa7bh68gbf9fjqkirmfqcqnmbq6avs59nzgn649i6kg808q")))
+
+(define-public crate-trillium-logger-0.2.0 (c (n "trillium-logger") (v "0.2.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)) (d (n "trillium") (r "^0.2.0") (d #t) (k 0)))) (h "0av2r4vain271y454lz8cfvd2z23dgbjsv6y308z7rc8ggf8zr4b")))
+
+(define-public crate-trillium-logger-0.4.0 (c (n "trillium-logger") (v "0.4.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)) (d (n "trillium") (r "^0.2.0") (d #t) (k 0)))) (h "1k8gqwviav9nk7yqjcsj700kpg49wndkyxyjbr31q0m2l6aix811")))
+
+(define-public crate-trillium-logger-0.4.1 (c (n "trillium-logger") (v "0.4.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "size") (r "^0.4.1") (d #t) (k 0)) (d (n "trillium") (r "^0.2.0") (d #t) (k 0)))) (h "0nq4lx8md9wc9il7ikj12fvs6kv1kmxk0p0vdpwy9dlwh1vhbwjh")))
+
+(define-public crate-trillium-logger-0.4.2 (c (n "trillium-logger") (v "0.4.2") (d (list (d (n "access_log_parser") (r "^0.8.0") (d #t) (k 2)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "size") (r "^0.4.1") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("local-offset" "formatting" "macros"))) (d #t) (k 0)) (d (n "trillium") (r "^0.2.0") (d #t) (k 0)))) (h "1bs2ycs4i65cjz1krdxh9xyscjr4k9v8dzsz1zj1zw2zcrmks3cz")))
+
+(define-public crate-trillium-logger-0.4.3 (c (n "trillium-logger") (v "0.4.3") (d (list (d (n "access_log_parser") (r "^0.8.0") (d #t) (k 2)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "is-terminal") (r "^0.4.9") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "size") (r "^0.4.1") (d #t) (k 0)) (d (n "time") (r "^0.3.25") (f (quote ("local-offset" "formatting" "macros"))) (d #t) (k 0)) (d (n "trillium") (r "^0.2.0") (d #t) (k 0)))) (h "1k3an7xkdh7c34rmdc4n4sx3jmx8d18rrngs8dgs6ai453hrnlsh")))
+
+(define-public crate-trillium-logger-0.4.4 (c (n "trillium-logger") (v "0.4.4") (d (list (d (n "access_log_parser") (r "^0.8.0") (d #t) (k 2)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "size") (r "^0.4.1") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (f (quote ("local-offset" "formatting" "macros"))) (d #t) (k 0)) (d (n "trillium") (r "^0.2.12") (d #t) (k 0)))) (h "06idl8pvapik4kbd3iywfx9ap5sx6hl1ka1ngp6hcv42l0lm63ca")))
+
+(define-public crate-trillium-logger-0.4.5 (c (n "trillium-logger") (v "0.4.5") (d (list (d (n "access_log_parser") (r "^0.8.0") (d #t) (k 2)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "size") (r "^0.4.1") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (f (quote ("local-offset" "formatting" "macros"))) (d #t) (k 0)) (d (n "trillium") (r "^0.2.19") (d #t) (k 0)))) (h "0n8n7b57zg8g7dr1hwpf9pyq3wf6frrdswww98drjzd211n9npns")))
+

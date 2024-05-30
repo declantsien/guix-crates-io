@@ -1,0 +1,6 @@
+(define-module (crates-io ra zo razorbill) #:use-module (crates-io))
+
+(define-public crate-razorbill-0.0.0 (c (n "razorbill") (v "0.0.0") (h "0qhqhgxmxzrc4i1vd9ii6j1ymdy9582yxdxw6gyx6cr7mp7jpwpm")))
+
+(define-public crate-razorbill-0.1.0 (c (n "razorbill") (v "0.1.0") (d (list (d (n "auk") (r "^0.1.0") (d #t) (k 0)) (d (n "grass") (r "^0.13.1") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^1.1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-util") (r "^0.1.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "indoc") (r "^2.0.4") (d #t) (k 2)) (d (n "notify") (r "^6.1.1") (f (quote ("macos_kqueue"))) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.194") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)) (d (n "ws") (r "^0.9.2") (d #t) (k 0)))) (h "15sxqyi5lpv2fq7ghlz04lm8sxhhsgs8rbcrmlb3109fg43xsl9y")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ro bi robin) #:use-module (crates-io))
+
+(define-public crate-robin-0.1.0 (c (n "robin") (v "0.1.0") (d (list (d (n "redis") (r "^0.8.0") (d #t) (k 0)) (d (n "robin-derives") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.11") (d #t) (k 0)) (d (n "typesafe-derive-builder") (r "^0.1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "0vsq2bf4bq4r85aygvnnkk0hbcwnw1lk1apmixdmjkm3cynk08c3")))
+
+(define-public crate-robin-0.2.0 (c (n "robin") (v "0.2.0") (d (list (d (n "redis") (r "^0.8.0") (d #t) (k 0)) (d (n "robin-derives") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.11") (d #t) (k 0)) (d (n "typesafe-derive-builder") (r "^0.1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1rg14309rq794lrsycxjqj96ixvxic9ci25jji1nvbsickv07kg2")))
+
+(define-public crate-robin-0.3.0 (c (n "robin") (v "0.3.0") (d (list (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "redis") (r "^0.8.0") (d #t) (k 0)) (d (n "robin-derives") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.11") (d #t) (k 0)) (d (n "typesafe-derive-builder") (r "^0.1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "00nnw03kl3wh2zfgswf8dhd519nmyfq26h4sdwqllfqsswjfl07g")))
+

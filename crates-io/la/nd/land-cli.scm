@@ -1,0 +1,4 @@
+(define-module (crates-io la nd land-cli) #:use-module (crates-io))
+
+(define-public crate-land-cli-0.0.4 (c (n "land-cli") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "axum") (r "^0.6.18") (d #t) (k 0)) (d (n "clap") (r "^4.3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "land-core") (r "^0.0.4") (d #t) (k 0)) (d (n "land-restful") (r "^0.0.4") (d #t) (k 0)) (d (n "land-runtime") (r "^0.0.4") (d #t) (k 0)) (d (n "land-runtime") (r "^0.0.4") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (f (quote ("stream" "rustls-tls" "blocking" "json" "multipart"))) (k 0)) (d (n "rust-embed") (r "^6.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1lcw3fnhbggrr7h11x1v3wada181c0ma2bnwinj9n303g49pnq7a")))
+

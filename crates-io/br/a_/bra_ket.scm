@@ -1,0 +1,12 @@
+(define-module (crates-io br a_ bra_ket) #:use-module (crates-io))
+
+(define-public crate-bra_ket-0.1.0 (c (n "bra_ket") (v "0.1.0") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "textplots") (r "^0.6") (d #t) (k 0)))) (h "1b4ndv9ffxn1y67g5hq8f24i7sr9835kgaz3q2n5yhlqffi5hjsm")))
+
+(define-public crate-bra_ket-0.1.1 (c (n "bra_ket") (v "0.1.1") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "textplots") (r "^0.6") (d #t) (k 0)))) (h "0jq95h75fri6l362vabi1bqbl0w7wsj7fn59par8d2gvvs3qdng7")))
+
+(define-public crate-bra_ket-0.1.2 (c (n "bra_ket") (v "0.1.2") (d (list (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "gnuplot") (r "^0.0.37") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "tqdm") (r "^0.4.0") (d #t) (k 0)))) (h "1f31gjqpgnbfcngxphynb0xqb188brdcvq5g33cap8aarc3k64rx")))
+
+(define-public crate-bra_ket-0.1.3 (c (n "bra_ket") (v "0.1.3") (d (list (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "gnuplot") (r "^0.0.37") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "tqdm") (r "^0.4.0") (d #t) (k 0)))) (h "0nx5mvha08qyny7qg93xg54jivrbcd173r0za9yivnd4n6w9cz1x")))
+
+(define-public crate-bra_ket-0.1.4 (c (n "bra_ket") (v "0.1.4") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "gnuplot") (r "^0.0.39") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "tqdm") (r "^0.5.1") (d #t) (k 0)))) (h "1w1sb152g5z3d0xv3f694shaxv8hhrjc0sihlq2cx7x6w5ya84iy")))
+

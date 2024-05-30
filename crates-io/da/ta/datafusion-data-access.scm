@@ -1,0 +1,8 @@
+(define-module (crates-io da ta datafusion-data-access) #:use-module (crates-io))
+
+(define-public crate-datafusion-data-access-8.0.0 (c (n "datafusion-data-access") (v "8.0.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt" "rt-multi-thread" "sync" "fs" "parking_lot"))) (d #t) (k 0)))) (h "16k9zacm0sm002i6jg9bgmrx7swmi7lqbl92gzcn5lyx0099xjkc") (r "1.59")))
+
+(define-public crate-datafusion-data-access-9.0.0 (c (n "datafusion-data-access") (v "9.0.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt" "rt-multi-thread" "sync" "fs" "parking_lot"))) (d #t) (k 0)))) (h "1jlb3hyi91688icf3nfymprkfxhag0cn2pgi1lbfprx45jjqvcim") (r "1.59")))
+
+(define-public crate-datafusion-data-access-10.0.0 (c (n "datafusion-data-access") (v "10.0.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt" "rt-multi-thread" "sync" "fs" "parking_lot"))) (d #t) (k 0)))) (h "0badlkb0jmky3i13j5mi408i5vszw4vmynqps6gzi3xy56qak13s") (r "1.59")))
+

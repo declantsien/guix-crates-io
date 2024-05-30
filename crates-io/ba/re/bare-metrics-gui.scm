@@ -1,0 +1,4 @@
+(define-module (crates-io ba re bare-metrics-gui) #:use-module (crates-io))
+
+(define-public crate-bare-metrics-gui-0.1.0 (c (n "bare-metrics-gui") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.48") (d #t) (k 0)) (d (n "appdirs") (r "^0.2.0") (d #t) (k 0)) (d (n "axis-ticks") (r "^0.1.0") (d #t) (k 0)) (d (n "bare-metrics-core") (r "^0.1.0") (d #t) (k 0)) (d (n "bare-metrics-reader") (r "^0.1.0") (d #t) (k 0)) (d (n "eframe") (r "^0.15.0") (d #t) (k 0)) (d (n "egui") (r "^0.15.0") (d #t) (k 0)) (d (n "emath") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rfd") (r "^0.6.1") (d #t) (k 0)) (d (n "ron") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "1x0pxcx1fixa3z19kzq1zqcccpylbkigy125ndaalzyf78zv2zsm")))
+

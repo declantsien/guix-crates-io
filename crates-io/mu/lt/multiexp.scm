@@ -1,0 +1,16 @@
+(define-module (crates-io mu lt multiexp) #:use-module (crates-io))
+
+(define-public crate-multiexp-0.1.0 (c (n "multiexp") (v "0.1.0") (d (list (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0ip2gvvc3q9gkr529kz906y7mfyjhhwbzwz5ib5qh6hqdi3s198h") (f (quote (("batch" "rand_core"))))))
+
+(define-public crate-multiexp-0.2.0 (c (n "multiexp") (v "0.2.0") (d (list (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "k256") (r "^0.11") (f (quote ("bits"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 2)))) (h "1fkbfvkjidyfxrvrik9zgixq6vvqpvnmpy1831npadvds90wc5f7") (f (quote (("batch" "rand_core"))))))
+
+(define-public crate-multiexp-0.2.1 (c (n "multiexp") (v "0.2.1") (d (list (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "k256") (r "^0.11") (f (quote ("bits"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 2)) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "036f1bysdj905q9v4yygwwsryp45fjy08qhbyzk1fsjf7qiwgs81") (f (quote (("batch" "rand_core"))))))
+
+(define-public crate-multiexp-0.2.2 (c (n "multiexp") (v "0.2.2") (d (list (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "k256") (r "^0.11") (f (quote ("bits"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 2)) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "1w7szr1i014cd7h6k6nnhv66907b4npa7yrk063nnyf21kc9k2ym") (f (quote (("batch" "rand_core"))))))
+
+(define-public crate-multiexp-0.3.0 (c (n "multiexp") (v "0.3.0") (d (list (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "k256") (r "^0.12") (f (quote ("bits"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 2)) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "1s3s2pip0ygxfdjxs7bdkb5hfqbn0j9fnb2783a107z0ha8f7zil") (f (quote (("black_box") ("batch" "rand_core"))))))
+
+(define-public crate-multiexp-0.3.1 (c (n "multiexp") (v "0.3.1") (d (list (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "k256") (r "^0.12") (f (quote ("bits"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 2)) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "08cq5zic9f2mgj0cijl2ify0rrzjd102cbini8qmdmlil7qy0sv4") (f (quote (("black_box") ("batch" "rand_core"))))))
+
+(define-public crate-multiexp-0.4.0 (c (n "multiexp") (v "0.4.0") (d (list (d (n "ff") (r "^0.13") (f (quote ("bits"))) (k 0)) (d (n "group") (r "^0.13") (k 0)) (d (n "k256") (r "^0.13.1") (f (quote ("arithmetic" "bits"))) (k 2)) (d (n "rand_core") (r "^0.6") (o #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("std"))) (d #t) (k 2)) (d (n "rustversion") (r "^1") (d #t) (k 0)) (d (n "std-shims") (r "^0.1.1") (k 0)) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (k 0)))) (h "01j8ch71nig6fxlrsxw384mm2yv1vpql2h8yvf6hfcz93bd878r5") (f (quote (("std" "std-shims/std" "zeroize/std") ("default" "std") ("batch" "rand_core")))) (r "1.70")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io rs sh rssh-tunnel) #:use-module (crates-io))
+
+(define-public crate-rssh-tunnel-0.1.0 (c (n "rssh-tunnel") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-process") (r "^0.2.5") (d #t) (k 0)))) (h "0s2yinglfhdzcwh98zbiq68ivsxvm8m1hds9fgsa8mv0b493r6pv")))
+
+(define-public crate-rssh-tunnel-0.1.1 (c (n "rssh-tunnel") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-process") (r "^0.2.5") (d #t) (k 0)))) (h "0wcgq08sfi2cvkzbhbdqm9h38nqm2b2l14hcf0pvfdf0dbz0yy1n")))
+
+(define-public crate-rssh-tunnel-0.1.2 (c (n "rssh-tunnel") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-process") (r "^0.2.5") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1aryzgvh0xcgs813rabdym668yvka7jpyiml24li9ghh2d10qj89")))
+

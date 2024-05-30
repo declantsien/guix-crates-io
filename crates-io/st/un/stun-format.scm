@@ -1,0 +1,6 @@
+(define-module (crates-io st un stun-format) #:use-module (crates-io))
+
+(define-public crate-stun-format-1.0.0 (c (n "stun-format") (v "1.0.0") (d (list (d (n "r-ex") (r "^1.0.0") (f (quote ("carve" "endian" "splice" "from-ref" "from-arr"))) (d #t) (k 0)) (d (n "stun-bytes") (r "^1.0.0") (d #t) (k 0)))) (h "18xzay43zpvcv2gdz4gys10k3skvlk334msgpjixmkc319z6xwic") (f (quote (("rfc8656") ("rfc8489") ("rfc8445") ("rfc8016") ("rfc7982") ("rfc7635") ("rfc6679") ("rfc6062") ("rfc5780") ("rfc5766") ("rfc5389") ("rfc5245") ("rfc3489") ("iana" "rfc5780" "rfc8489" "rfc8445" "rfc8656" "rfc6679" "rfc7635" "rfc7982" "rfc8016" "rfc6062") ("fmt") ("default" "iana"))))))
+
+(define-public crate-stun-format-1.0.1 (c (n "stun-format") (v "1.0.1") (d (list (d (n "r-ex") (r "^1.0.1") (f (quote ("carve" "endian" "splice" "from-ref" "from-arr"))) (d #t) (k 0)) (d (n "stun-bytes") (r "^1.0.1") (d #t) (k 0)))) (h "1xcdsw8vbq80acxnccq5fcljrlljncaib9s8a3zddpz6zma3rbf6") (f (quote (("rfc8656") ("rfc8489") ("rfc8445") ("rfc8016") ("rfc7982") ("rfc7635") ("rfc6679") ("rfc6062") ("rfc5780") ("rfc5766") ("rfc5389") ("rfc5245") ("rfc3489") ("iana" "rfc5780" "rfc8489" "rfc8445" "rfc8656" "rfc6679" "rfc7635" "rfc7982" "rfc8016" "rfc6062") ("fmt") ("default" "iana"))))))
+

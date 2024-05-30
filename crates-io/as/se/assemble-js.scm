@@ -1,0 +1,4 @@
+(define-module (crates-io as se assemble-js) #:use-module (crates-io))
+
+(define-public crate-assemble-js-0.2.0 (c (n "assemble-js") (v "0.2.0") (d (list (d (n "assemble-core") (r "^0.2.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "assemble-std") (r "^0.2.0") (f (quote ("core"))) (d #t) (k 0)) (d (n "include_dir") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "npm_rs") (r "^1.0.0") (d #t) (k 1)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "rquickjs") (r "^0.1.7") (f (quote ("macro" "parallel"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0ssc8s0h50d1j71y7lx9ljcyd6d6aqi3j17vz7vg14psy2vmmpaa") (r "1.64")))
+

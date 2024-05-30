@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# w wmk) #:use-module (crates-io))
+
+(define-public crate-wmk-0.1.0 (c (n "wmk") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "filey") (r "^1.4.0") (d #t) (k 0)))) (h "04b564fxln8vcxrb5z6grk1bqlm62cgwyhmm7lxhl1d0150mspzz")))
+
+(define-public crate-wmk-0.2.0 (c (n "wmk") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.80") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "filey") (r "^1.4.0") (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "04x3rifkxxdaanp1m83qn5rlmnazizrwlcdf0phwmqf094h36az8")))
+
+(define-public crate-wmk-0.2.1 (c (n "wmk") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "inquire") (r "^0.7.4") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "1ma2jj220hx1bknk7hg7gjxgj2cdxwqx26iakhh29rh0w244awjj")))
+
+(define-public crate-wmk-0.3.0 (c (n "wmk") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "inquire") (r "^0.7.4") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0r9r159zxpgw89vdpmw50m0r04419gk43f3wx1xw9hrrigivndbq")))
+

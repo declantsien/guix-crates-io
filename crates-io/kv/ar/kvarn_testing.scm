@@ -1,0 +1,12 @@
+(define-module (crates-io kv ar kvarn_testing) #:use-module (crates-io))
+
+(define-public crate-kvarn_testing-0.3.0 (c (n "kvarn_testing") (v "0.3.0") (d (list (d (n "kvarn") (r "^0.3") (f (quote ("full"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "tokio") (r "^1.13") (f (quote ("macros"))) (d #t) (k 0)))) (h "0njcijj6j9y4i0d41yx734zg7czgwd90p73pjihff86z6cc1b6v0") (r "1.56")))
+
+(define-public crate-kvarn_testing-0.4.0 (c (n "kvarn_testing") (v "0.4.0") (d (list (d (n "kvarn") (r "^0.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("macros"))) (d #t) (k 0)))) (h "0mwh2i7csgacj86hv5qw77pvk36adh5jvjzbqrsyi43wfr010xyf") (r "1.56")))
+
+(define-public crate-kvarn_testing-0.4.1 (c (n "kvarn_testing") (v "0.4.1") (d (list (d (n "kvarn") (r "=0.4.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("macros"))) (d #t) (k 0)))) (h "0m20fc7d9zf3ffsgp26g6i50ij22s265n7s4n4h2s3sdsdz8simp") (r "1.56")))
+
+(define-public crate-kvarn_testing-0.5.0 (c (n "kvarn_testing") (v "0.5.0") (d (list (d (n "kvarn") (r "^0.5.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("macros"))) (d #t) (k 0)))) (h "1gj1mdrmlrkmznpl7sax5fn201n0kv36dx2db0wv5ra3bk89p4qd") (r "1.56")))
+
+(define-public crate-kvarn_testing-0.6.0 (c (n "kvarn_testing") (v "0.6.0") (d (list (d (n "env_logger") (r "^0.11") (f (quote ("auto-color"))) (k 0)) (d (n "kvarn") (r "^0.6.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.12") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls-manual-roots"))) (k 0)) (d (n "rustls") (r "^0.22") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("macros"))) (d #t) (k 0)))) (h "0vhpi08xjhi3ds12gdx4lyjz5qhp3k24859rjsy942ijpzn05acf") (r "1.56")))
+

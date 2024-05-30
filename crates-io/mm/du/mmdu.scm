@@ -1,0 +1,20 @@
+(define-module (crates-io mm du mmdu) #:use-module (crates-io))
+
+(define-public crate-mmdu-0.1.0 (c (n "mmdu") (v "0.1.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mktemp") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1m7mfqlbi8l1yd11a9rv1lblfimp8rkjybjsmmkn5aqv7b850d2a")))
+
+(define-public crate-mmdu-0.2.0 (c (n "mmdu") (v "0.2.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "03drhp2qh43cqglfc8l2x46bv1nx1q3cqxj8iii6ck04xygavkq5")))
+
+(define-public crate-mmdu-0.2.1 (c (n "mmdu") (v "0.2.1") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "1nfdwg2p2jsz579zqpx383k8wsn4p65y4w036kpfa408pzrbfncp")))
+
+(define-public crate-mmdu-0.2.2 (c (n "mmdu") (v "0.2.2") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bstr") (r "^0.2") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "0mv6wy3dpcahdgbqdfhkqxg0lha9pb43iwsw1dnymlh2nj032y2r")))
+
+(define-public crate-mmdu-0.3.0 (c (n "mmdu") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "deprecated" "wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "1908rlwp0ry3kq3y4hkhifpb4g42d4wifvn00w1b6zbpc1cjzpmv")))
+
+(define-public crate-mmdu-0.3.1 (c (n "mmdu") (v "0.3.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "deprecated" "wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "00p5qpi3krkmacyjv0jvi2pq5vymmqfi94bg7jwpck541qzcx02h")))
+
+(define-public crate-mmdu-0.3.3 (c (n "mmdu") (v "0.3.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "deprecated" "wrap_help"))) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2") (d #t) (k 1)) (d (n "is-terminal") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "0lkh6q1id6cq88dzg50z2yiz0aj87i67237gp331h60k7c8fd486") (r "1.70")))
+
+(define-public crate-mmdu-0.3.4 (c (n "mmdu") (v "0.3.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "deprecated" "wrap_help"))) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2") (d #t) (k 1)) (d (n "is-terminal") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "03p3fb7b9kjyjjbwj5ldqh4vpd3j87ppbjjc46i8pnhf6nc6851s") (r "1.70")))
+
+(define-public crate-mmdu-0.4.0 (c (n "mmdu") (v "0.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "bytesize") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "deprecated" "wrap_help"))) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pwd-grp") (r "^0.1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "1bzai4w8vsvqh00shyx3m42i5xn1ciyvnf3zdvczrqskdnk2p7i4") (r "1.70")))
+

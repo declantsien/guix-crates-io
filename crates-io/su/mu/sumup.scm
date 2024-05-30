@@ -1,0 +1,12 @@
+(define-module (crates-io su mu sumup) #:use-module (crates-io))
+
+(define-public crate-sumup-0.1.0 (c (n "sumup") (v "0.1.0") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.5") (f (quote ("json"))) (d #t) (k 0)))) (h "05ydj79vx3a1rpl5lr886cy7wkaahx6cmncq2qffp7ysbdl5sjrr")))
+
+(define-public crate-sumup-0.2.0 (c (n "sumup") (v "0.2.0") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.5") (f (quote ("json"))) (d #t) (k 0)))) (h "04dr1dm2ja28nlwki2v72dq9xndmmmcx7d9ms36np16kr6mxyiq2")))
+
+(define-public crate-sumup-0.3.0 (c (n "sumup") (v "0.3.0") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.5") (f (quote ("json"))) (d #t) (k 0)))) (h "1m8l0yg2jmpighkvswp956qczhyvzq881dzf6rab18k0s4gljfm9")))
+
+(define-public crate-sumup-0.3.1 (c (n "sumup") (v "0.3.1") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.5") (f (quote ("json"))) (d #t) (k 0)))) (h "00r3wrhyksa54gq2x7jyvhbfyhxh9jgb8jhb0pb2v81wcfajm0hm")))
+
+(define-public crate-sumup-0.4.0 (c (n "sumup") (v "0.4.0") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.5") (f (quote ("json"))) (d #t) (k 0)))) (h "1kd4a1rnrv7f872jhbb34j3dbl9yi9i58f0l8q3wgvr0xjqpwq0g")))
+

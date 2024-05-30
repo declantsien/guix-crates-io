@@ -1,0 +1,4 @@
+(define-module (crates-io ra id raiden-pathfinding) #:use-module (crates-io))
+
+(define-public crate-raiden-pathfinding-0.1.0 (c (n "raiden-pathfinding") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (k 0)) (d (n "derive_more") (r "^0.99.11") (k 0)) (d (n "raiden-blockchain") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-primitives") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-state-machine") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0") (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "time"))) (k 0)) (d (n "tracing") (r "^0.1.37") (k 0)) (d (n "web3") (r "^0.18.0") (f (quote ("http"))) (k 0)))) (h "0agzgb0vv12zaj6wil7w0zxapv3m7294y8lr7mqklcyi1s5f0zqn") (r "1.59")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io su rr surrealdb_functions) #:use-module (crates-io))
+
+(define-public crate-surrealdb_functions-0.0.1 (c (n "surrealdb_functions") (v "0.0.1") (d (list (d (n "litrs") (r "^0.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.31") (d #t) (k 0)) (d (n "syn") (r "^2.0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "09fz016kql9435w6k0waqqqzf3n3b5dhkglc5hzc8np2fq19kxkj")))
+
+(define-public crate-surrealdb_functions-0.0.2 (c (n "surrealdb_functions") (v "0.0.2") (d (list (d (n "litrs") (r "^0.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.31") (d #t) (k 0)) (d (n "syn") (r "^2.0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "163vbjq1s8qmlg5niayjcw7rs83gz858dd63x2d9y7dxziliv1kr")))
+
+(define-public crate-surrealdb_functions-0.0.3 (c (n "surrealdb_functions") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "syn") (r "^2.0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "uuid") (r "^1.4.1") (d #t) (k 2)))) (h "0xjscgpk0mafic6y2g0c4k0vwkasjgb0fpxzpsqa9a2nynsdyv8y")))
+
+(define-public crate-surrealdb_functions-0.0.4 (c (n "surrealdb_functions") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "syn") (r "^2.0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "uuid") (r "^1.4.1") (d #t) (k 2)))) (h "1z22gxarnd2vs8jq3vmik66rgmcchic8l93wxf6kay4f761rdm0m")))
+

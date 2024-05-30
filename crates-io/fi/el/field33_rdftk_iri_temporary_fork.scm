@@ -1,0 +1,4 @@
+(define-module (crates-io fi el field33_rdftk_iri_temporary_fork) #:use-module (crates-io))
+
+(define-public crate-field33_rdftk_iri_temporary_fork-0.1.9 (c (n "field33_rdftk_iri_temporary_fork") (v "0.1.9") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("precommit-hook" "run-cargo-fmt" "run-cargo-test"))) (k 2)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "regex") (r "^1.3.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "unique_id") (r "^0.1.3") (d #t) (k 0)) (d (n "urlencoding") (r "^1.3") (d #t) (k 2)) (d (n "uuid") (r "=0.8.1") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "145my11d339zj63rgj5jmzm5k34cg3jqgqid7s8373xn5kh4588h") (f (quote (("uuid_iri" "uuid") ("path_iri") ("genid" "uuid") ("default" "builder" "genid" "path_iri" "uuid_iri") ("builder"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io rc ho rchore) #:use-module (crates-io))
+
+(define-public crate-rchore-0.1.0 (c (n "rchore") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "console") (r "^0.14.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 1)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "oauth2") (r "^4.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.64") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sled") (r "^0.34.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1hdgcafaa84gnz7qcyswbmkbqdkh72ln1lirbp0j55j66dnbbr34")))
+

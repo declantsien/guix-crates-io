@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-memex) #:use-module (crates-io))
+
+(define-public crate-cargo-memex-0.1.0 (c (n "cargo-memex") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (f (quote ("jpeg"))) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.32") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0vkv5nv1071jp2mw0qzf7v63higqny77g7kz6nqkxp621dfg477j")))
+
+(define-public crate-cargo-memex-0.2.0 (c (n "cargo-memex") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (f (quote ("jpeg"))) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.32") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0qk0gih8cjnj18qky7hk9f7vfkb13avpr6s75di7c5va27gai8vj")))
+

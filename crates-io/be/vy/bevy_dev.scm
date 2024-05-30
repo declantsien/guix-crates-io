@@ -1,0 +1,12 @@
+(define-module (crates-io be vy bevy_dev) #:use-module (crates-io))
+
+(define-public crate-bevy_dev-0.1.0 (c (n "bevy_dev") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12.1") (f (quote ("bevy_render" "bevy_pbr" "png"))) (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_winit"))) (k 2)) (d (n "bevy_embedded_assets") (r "^0.9.1") (d #t) (k 0)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "rust-embed") (r "^8.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (d #t) (k 0)))) (h "1gl07mqv3rk6mhqpa3xawqbj3gybvd0pw6zj3gr9mzl1f7ik3s0k")))
+
+(define-public crate-bevy_dev-0.1.1 (c (n "bevy_dev") (v "0.1.1") (d (list (d (n "bevy") (r "^0.12.1") (f (quote ("bevy_render" "bevy_pbr" "png"))) (k 0)) (d (n "bevy") (r "^0.12.1") (f (quote ("bevy_winit" "tonemapping_luts"))) (k 2)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "rust-embed") (r "^8.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "1647jsr57kip2q1jlh3m08092az776d3fxj7wgza0rzziddc4qrx")))
+
+(define-public crate-bevy_dev-0.2.0 (c (n "bevy_dev") (v "0.2.0") (d (list (d (n "bevy") (r "^0.13.0") (f (quote ("bevy_render" "bevy_pbr" "png"))) (k 0)) (d (n "bevy") (r "^0.13.0") (f (quote ("bevy_winit" "tonemapping_luts"))) (k 2)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "rust-embed") (r "^8.3.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "0la0h86g3yrwi3qpyyzr4sbgfm7hnk5bvixkbxmvgn2klqrxg91w")))
+
+(define-public crate-bevy_dev-0.3.0 (c (n "bevy_dev") (v "0.3.0") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("bevy_render" "bevy_pbr" "png"))) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("bevy_winit" "tonemapping_luts"))) (k 2)) (d (n "bevy_egui") (r "^0.26.0") (o #t) (d #t) (k 0)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "rust-embed") (r "^8.3.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "19rqx6nl03jr2njczn60qayh68rkwq7b3r6hc28jlbgrfz1iwzlh") (f (quote (("default" "ui")))) (s 2) (e (quote (("ui" "dep:bevy_egui"))))))
+
+(define-public crate-bevy_dev-0.3.1 (c (n "bevy_dev") (v "0.3.1") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("bevy_render" "bevy_pbr" "png"))) (k 0)) (d (n "bevy") (r "^0.13.2") (f (quote ("bevy_winit" "tonemapping_luts"))) (k 2)) (d (n "bevy_egui") (r "^0.27") (o #t) (d #t) (k 0)) (d (n "random_color") (r "^0.8.0") (d #t) (k 0)) (d (n "rust-embed") (r "^8.3.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "0wbjic71mff2xgaf0rb6s24qlb6z54hpj806g2hfjlfksqw8dzw1") (f (quote (("default" "ui")))) (s 2) (e (quote (("ui" "dep:bevy_egui"))))))
+

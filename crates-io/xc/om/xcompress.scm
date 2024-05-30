@@ -1,0 +1,92 @@
+(define-module (crates-io xc om xcompress) #:use-module (crates-io))
+
+(define-public crate-xcompress-0.3.0 (c (n "xcompress") (v "0.3.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0gk1vmfb4s1sngy4kq04xbwkfhjrzc7an7bvlp5z1qsc346q44hq")))
+
+(define-public crate-xcompress-0.3.1 (c (n "xcompress") (v "0.3.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "00q0fi7cbi76d5xx1yg4isrw966b1h655fks2zwwb3gzvcgpcb5c")))
+
+(define-public crate-xcompress-0.4.0 (c (n "xcompress") (v "0.4.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0ycgjpxnsmsvb9q33lkzsppsf7j754qjws26vakl24ygi3v7iwch")))
+
+(define-public crate-xcompress-0.4.1 (c (n "xcompress") (v "0.4.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0kplpyqd13ws2v57acrmbmj6zlyz6ib3jbz4n4z1lc5dxd1dpqa8")))
+
+(define-public crate-xcompress-0.4.2 (c (n "xcompress") (v "0.4.2") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1hc7mbi02i7hyqdz3hpkd7ahcgbrran7gdjb2l9z8x6kg9vhkqbl")))
+
+(define-public crate-xcompress-0.4.3 (c (n "xcompress") (v "0.4.3") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0fc2kipdhpdrh61hwckifacwjif7wjypjhz774p6wiwp0r65drg7")))
+
+(define-public crate-xcompress-0.4.4 (c (n "xcompress") (v "0.4.4") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0xlrv27832xsb1qjjmmyba40qkmblps69c3v021qghlmaybzjz17")))
+
+(define-public crate-xcompress-0.5.0 (c (n "xcompress") (v "0.5.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "078z5j5snw9f6x4wajxjdbdyln17b1a98c5g723qix79f877fx4w")))
+
+(define-public crate-xcompress-0.6.0 (c (n "xcompress") (v "0.6.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0fnr7ildzx8rsg5sgl9cdnni3zsby009vlh8nffrb4wgqziazv2k")))
+
+(define-public crate-xcompress-0.6.1 (c (n "xcompress") (v "0.6.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0k67j1q2vqd0vr01xmwxl2hjgbrshx75xp21w1pw3hswxz22ybzn")))
+
+(define-public crate-xcompress-0.7.0 (c (n "xcompress") (v "0.7.0") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0qrmz7ddgjdwwbq03jzg7h0nngv75jhwzqw0gpbipyk7r3q67a2x")))
+
+(define-public crate-xcompress-0.7.1 (c (n "xcompress") (v "0.7.1") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0w41b0w27wbxqiyanxq49frh904sjrs04wvqfybvs8zsr1g7my2k")))
+
+(define-public crate-xcompress-0.7.2 (c (n "xcompress") (v "0.7.2") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0cl51s2xbhy65v2gwkfjlwl2fwp45mckp31sk23i2jjzmvvk1bj6")))
+
+(define-public crate-xcompress-0.7.3 (c (n "xcompress") (v "0.7.3") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1gw70sfvhzshmvngwsdivxgi4mxwfm7b457xdqa91aq9fn0xdcd2")))
+
+(define-public crate-xcompress-0.7.4 (c (n "xcompress") (v "0.7.4") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "03skvqaqfhrbc4ld6bwp3w2pjy5b367vidcyaq1l21fnl5rc25ij")))
+
+(define-public crate-xcompress-0.8.0 (c (n "xcompress") (v "0.8.0") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1knp2yrwvc8ag7lraa5ajr08ad747kgyw6r440k1q8yf7q0hf6x6")))
+
+(define-public crate-xcompress-0.8.1 (c (n "xcompress") (v "0.8.1") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1lafi9kfd4fnlhaq25sqfbjaq3lqvhplb5fhc1flp2jib5isksiv")))
+
+(define-public crate-xcompress-0.9.0 (c (n "xcompress") (v "0.9.0") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1w53y04lrhbx3kx8bxry5h9nqx5hv7zd94wwbv7nnk1cs8gm5i02")))
+
+(define-public crate-xcompress-0.9.1 (c (n "xcompress") (v "0.9.1") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0n97caa8ppk8h3vjsicbi2mkx2qgxx4yfz4wmwwq63mzsfn7qd7c")))
+
+(define-public crate-xcompress-0.10.0 (c (n "xcompress") (v "0.10.0") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "13yn2d3hxr5wcmgh9hn4jq73sp2znknrp23cw5851592xj017n68")))
+
+(define-public crate-xcompress-0.10.1 (c (n "xcompress") (v "0.10.1") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "14fkdfmlsxs1pf5hn4rm9mbrfhn7j11d5vkganma25mghr1pis89")))
+
+(define-public crate-xcompress-0.10.2 (c (n "xcompress") (v "0.10.2") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "0zlwwrj64cdmkxcn02br990dsf89k8705i6v3kg5fpfb4d01hc4k")))
+
+(define-public crate-xcompress-0.10.3 (c (n "xcompress") (v "0.10.3") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "194jz7qcpjmn6g9b4ajkm9hdrn9wdrbk1b1klqfzm50v0fs4bz55")))
+
+(define-public crate-xcompress-0.10.4 (c (n "xcompress") (v "0.10.4") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1il3vn9a7yha2jgy2l1llllmikr5xdkzf7jajprcqy2afx1hj36z")))
+
+(define-public crate-xcompress-0.10.5 (c (n "xcompress") (v "0.10.5") (d (list (d (n "byte-unit") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1c1hi5q8k16ypwi2pxnln2v4z33iz348b2zv006a8xclx2qrj57c")))
+
+(define-public crate-xcompress-0.10.6 (c (n "xcompress") (v "0.10.6") (d (list (d (n "byte-unit") (r "^2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)))) (h "1lp3ni0bmb8wxqrj5gfx2vx11fzxk1s69p54xqn10i9iz2qsnipr")))
+
+(define-public crate-xcompress-0.10.7 (c (n "xcompress") (v "0.10.7") (d (list (d (n "byte-unit") (r "^2") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0snx87dhbixfwcc7k1qj1473x0bhi6pcg993xla5gdxxvfbfk2sd")))
+
+(define-public crate-xcompress-0.10.8 (c (n "xcompress") (v "0.10.8") (d (list (d (n "byte-unit") (r "^3") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0153wkl1nas70bzpj2yp9d4ajc09mmfjvapjl23rxl2hs7jqdjv1")))
+
+(define-public crate-xcompress-0.10.9 (c (n "xcompress") (v "0.10.9") (d (list (d (n "byte-unit") (r "^3") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "12r92spgmz01n6j5szz89ffswh64pla5wx7409q2ybidk7biwyla")))
+
+(define-public crate-xcompress-0.10.10 (c (n "xcompress") (v "0.10.10") (d (list (d (n "byte-unit") (r "^3") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "subprocess") (r "^0.2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0qbz1gd29j2w677rlzp1719k76mpra62wxq8xj9bf6fbschi1ibv")))
+
+(define-public crate-xcompress-0.11.0 (c (n "xcompress") (v "0.11.0") (d (list (d (n "byte-unit") (r "^3") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^1.1.1") (d #t) (k 0)) (d (n "scanner-rust") (r "^1.2.4") (d #t) (k 0)) (d (n "subprocess") (r "^0.2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0f2l6h2b7yn3s8ggacpc2mrjvfcsgyhidjm6z9cqvg3hmg2yqgrb")))
+
+(define-public crate-xcompress-0.11.1 (c (n "xcompress") (v "0.11.1") (d (list (d (n "byte-unit") (r "^3") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("lazy_static_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "1jmvlc5byx7dp451wbc6cxp1bvlfz3ma5va4j9j2pjm4vx9nmikm")))
+
+(define-public crate-xcompress-0.11.2 (c (n "xcompress") (v "0.11.2") (d (list (d (n "byte-unit") (r "^3.1") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("lazy_static_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "1i2pqr3fimp8c6wns8yylxid2fkjsbknidy607c33ivkaf21kcrj")))
+
+(define-public crate-xcompress-0.11.3 (c (n "xcompress") (v "0.11.3") (d (list (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("lazy_static_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0z65m55q57phpq1x0lsabzv10vihfpr594n4plxnickjvk68mw91")))
+
+(define-public crate-xcompress-0.11.4 (c (n "xcompress") (v "0.11.4") (d (list (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("lazy_static_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "1f4czf6mnjdx4r5nhxpskhsf56w9l39bpaq8wi3apzlwghm1n3xp")))
+
+(define-public crate-xcompress-0.11.5 (c (n "xcompress") (v "0.11.5") (d (list (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("lazy_static_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "1rj49zrrj9klbgwm9q0nbl70zswl5zz4c9zx6f3rp2l2kcxgq21g")))
+
+(define-public crate-xcompress-0.11.6 (c (n "xcompress") (v "0.11.6") (d (list (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "09z98cmyhywjyi4xhibhdl9hcyra6wc2fmijifnm9kmnsbrbrp82")))
+
+(define-public crate-xcompress-0.11.7 (c (n "xcompress") (v "0.11.7") (d (list (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^3.1.6") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0dabgsaifpl7z8a5x4sdflcyszl7wp1zf7z8gpvzqscs1p449y8k")))
+
+(define-public crate-xcompress-0.11.8 (c (n "xcompress") (v "0.11.8") (d (list (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^3.2.23") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.8.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2.0.9") (d #t) (k 0)) (d (n "terminal_size") (r "^0.2") (d #t) (k 0)))) (h "0k16vcmnfi7gcwy00d2s4n6nxzg9jxjfrf535v8l26rz3b4r2asv")))
+
+(define-public crate-xcompress-0.12.0 (c (n "xcompress") (v "0.12.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "1dpqgbgkr3h1f45j3mpyn4j0m5mh7fxzxiphwxgbgpvzsspywj5f") (r "1.70")))
+
+(define-public crate-xcompress-0.12.1 (c (n "xcompress") (v "0.12.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "1rpi9al9al23z6hi7shw43gxy8k5g0kyaii6pkjcyzhnmggvxh71") (r "1.70")))
+
+(define-public crate-xcompress-0.12.2 (c (n "xcompress") (v "0.12.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "0wx3grj38v85nhfbm8dvzymqi0y5ssiilash3dxd7khlwjbc55pn") (r "1.70")))
+
+(define-public crate-xcompress-0.12.3 (c (n "xcompress") (v "0.12.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "0g0g26myf9h3md1cvvx6n4jar50mykdj375injqjv999y58f1gkm") (r "1.70")))
+
+(define-public crate-xcompress-0.12.4 (c (n "xcompress") (v "0.12.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "0b96y4sa0gy4rcykwjp1j33wbnxcw7ciyszxqnd8vjpkdw188vz9") (r "1.70")))
+
+(define-public crate-xcompress-0.12.5 (c (n "xcompress") (v "0.12.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byte-unit") (r "^4") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "execute") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "scanner-rust") (r "^2") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "1nlz3nl9fgx4grjsdz7i44fmhza68md55laxav1khddw2z19vjdp") (r "1.70")))
+

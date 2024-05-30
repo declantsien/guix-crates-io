@@ -1,0 +1,10 @@
+(define-module (crates-io mv ol mvola) #:use-module (crates-io))
+
+(define-public crate-mvola-0.1.0 (c (n "mvola") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1lpid51lpshnz1kba87vhzlmspwfir1gq5ndxsyq0fjfczh2b8n4")))
+
+(define-public crate-mvola-0.1.1 (c (n "mvola") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1lib35k0qhvzcczp9mzv856gx09njpa3j25vcd2qc0k5164qm5dk")))
+
+(define-public crate-mvola-0.1.2 (c (n "mvola") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "mockito") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1n75dn07bkr74bmkcm5vw9yynnxd49kj9b0sx21xndi23m4ccf56")))
+
+(define-public crate-mvola-0.1.3 (c (n "mvola") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "mockito") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0ikmbmsiysv3iqxzyf1sib9slggfprmm5n6pga69vfkssg6iy2x5")))
+

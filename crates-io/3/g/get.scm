@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# g get) #:use-module (crates-io))
+
+(define-public crate-get-0.1.0 (c (n "get") (v "0.1.0") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "kdam") (r "^0.5.1") (f (quote ("derive" "rich" "spinner" "template"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "minimo") (r "^0.3.25") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0z0mg0spzl7a2azfn2jmn31ajlg2j54m5ml4zw275w6prfhiqwb2")))
+
+(define-public crate-get-0.1.1 (c (n "get") (v "0.1.1") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "kdam") (r "^0.5.1") (f (quote ("derive" "rich" "spinner" "template"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "minimo") (r "^0.3.25") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "03frahl8vdh5igs7j9fh4jkjdnbryfvk7z4zp3vl39hrxfwn2if5")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io wa rr warriors-names) #:use-module (crates-io))
+
+(define-public crate-warriors-names-0.2.2 (c (n "warriors-names") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "url") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0yz7ys54g7wsandhd3ijnyb5k2vg4hj5gg381rrlgsizhbhmh447")))
+
+(define-public crate-warriors-names-0.2.3 (c (n "warriors-names") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1bmrczrm3fg6zfqjrf97ccm0icq3qbdbrcm61mh5wnrnc9f5l4kb")))
+

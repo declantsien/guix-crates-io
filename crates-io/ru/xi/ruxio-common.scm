@@ -1,0 +1,4 @@
+(define-module (crates-io ru xi ruxio-common) #:use-module (crates-io))
+
+(define-public crate-ruxio-common-0.1.0 (c (n "ruxio-common") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "config") (r "^0.13.1") (d #t) (k 0)) (d (n "fern") (r "^0.6") (f (quote ("colored"))) (d #t) (k 0)) (d (n "hostname") (r "^0.3") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus") (r "^0.13.3") (f (quote ("process" "push"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.202") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1v6hvlb1w8pyp19szmh7xc26chjihzcfpl62ply80qrhfn02wgzz")))
+

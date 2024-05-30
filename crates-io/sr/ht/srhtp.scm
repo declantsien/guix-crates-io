@@ -1,0 +1,10 @@
+(define-module (crates-io sr ht srhtp) #:use-module (crates-io))
+
+(define-public crate-srhtp-0.0.1 (c (n "srhtp") (v "0.0.1") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "1c0mpr9xwkx8rl560bv4clx6xbm90v9ahn4vafbwayhgpkhhv3vv")))
+
+(define-public crate-srhtp-0.0.2 (c (n "srhtp") (v "0.0.2") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0lk9jfniyl3cqfg8xxjwlj3bgp9n81xsyyg72iznhz0a9qsqfbjy")))
+
+(define-public crate-srhtp-0.0.3 (c (n "srhtp") (v "0.0.3") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0acrbig769zp8f94j1gg4lr12x681jabiv7cyxzgn2fj1s94wpc7")))
+
+(define-public crate-srhtp-0.0.4 (c (n "srhtp") (v "0.0.4") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0h49zwx7wkxj3b84cvpbm091ibfmgbs8nwxw7md92z9dgg9gvqzh")))
+

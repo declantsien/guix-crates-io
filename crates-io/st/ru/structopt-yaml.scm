@@ -1,0 +1,6 @@
+(define-module (crates-io st ru structopt-yaml) #:use-module (crates-io))
+
+(define-public crate-structopt-yaml-0.4.5 (c (n "structopt-yaml") (v "0.4.5") (d (list (d (n "clap") (r "^2.33") (k 0)) (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)) (d (n "structopt") (r "^0.3.21") (k 0)) (d (n "structopt-yaml-derive") (r "^0.4.5") (d #t) (k 0)))) (h "0p3ypwpfgsywi3fq6ga446v8444jm82044zn7jiyw4fxicq786x3") (f (quote (("default" "clap/default" "structopt/default"))))))
+
+(define-public crate-structopt-yaml-0.4.6 (c (n "structopt-yaml") (v "0.4.6") (d (list (d (n "clap") (r "^2.33") (k 0)) (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)) (d (n "structopt") (r "^0.3.21") (k 0)) (d (n "structopt-yaml-derive") (r "^0.4.6") (d #t) (k 0)))) (h "001kq367f0r95ng1xkk0bhj5y4k8cbnsyfndza51gcac812v1nwk") (f (quote (("default" "clap/default" "structopt/default"))))))
+

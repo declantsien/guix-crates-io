@@ -1,0 +1,6 @@
+(define-module (crates-io fu se fusebox-sys) #:use-module (crates-io))
+
+(define-public crate-fusebox-sys-0.1.0 (c (n "fusebox-sys") (v "0.1.0") (d (list (d (n "gdk") (r "^0.7") (d #t) (k 0) (p "gdk4-sys")) (d (n "gio") (r "^0.18") (d #t) (k 0) (p "gio-sys")) (d (n "glib") (r "^0.18") (d #t) (k 0) (p "glib-sys")) (d (n "gobject") (r "^0.18") (d #t) (k 0) (p "gobject-sys")) (d (n "gtk") (r "^0.7") (d #t) (k 0) (p "gtk4-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pango") (r "^0.18") (d #t) (k 0) (p "pango-sys")) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1cixm1zqx2a2clkb1022amqv6kjgwmdj5nvbkfg3ilpkm1dl8z70") (y #t) (l "fusebox-1")))
+
+(define-public crate-fusebox-sys-0.2.0 (c (n "fusebox-sys") (v "0.2.0") (d (list (d (n "gdk-sys") (r "^0.8") (d #t) (k 0) (p "gdk4-sys")) (d (n "gio-sys") (r "^0.19") (d #t) (k 0)) (d (n "glib-sys") (r "^0.19") (d #t) (k 0)) (d (n "gobject-sys") (r "^0.19") (d #t) (k 0)) (d (n "gtk-sys") (r "^0.8") (d #t) (k 0) (p "gtk4-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pango-sys") (r "^0.19") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1ffdn0c4m0f5yzfl9w00xhm7zhbipj5k3g1x4w9cwh0i1inf5a1c") (l "fusebox-1")))
+

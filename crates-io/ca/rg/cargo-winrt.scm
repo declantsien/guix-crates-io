@@ -1,0 +1,8 @@
+(define-module (crates-io ca rg cargo-winrt) #:use-module (crates-io))
+
+(define-public crate-cargo-winrt-0.7.0 (c (n "cargo-winrt") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "01lmdw0ij18fn95blarcmrjagxnfdz5jy2b5qpnm0ganhq3069bq")))
+
+(define-public crate-cargo-winrt-0.7.1 (c (n "cargo-winrt") (v "0.7.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "console") (r "^0.11") (k 0)) (d (n "curl") (r "^0.4.30") (d #t) (k 0)) (d (n "once_cell") (r "^1.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (f (quote ("deflate"))) (k 0)))) (h "0biz7wpzq9f8bbfv2m0msm9f9rmxspjip5anil7g2sqqb9jcy7dv")))
+
+(define-public crate-cargo-winrt-0.7.2 (c (n "cargo-winrt") (v "0.7.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "console") (r "^0.11") (k 0)) (d (n "curl") (r "^0.4.30") (d #t) (k 0)) (d (n "once_cell") (r "^1.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (f (quote ("deflate"))) (k 0)))) (h "11qj7q8kh3wqszwsdawfrlxzqnw4lxnxm7d89mq9yvhzlkh5hrxv")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io me mt memtable-macros) #:use-module (crates-io))
+
+(define-public crate-memtable-macros-0.1.0 (c (n "memtable-macros") (v "0.1.0") (d (list (d (n "darling") (r "^0.12.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "memtable-core") (r "=0.1.0") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.4") (d #t) (k 2)) (d (n "syn") (r "^1.0.53") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.35") (d #t) (k 2)) (d (n "voca_rs") (r "^1.13.0") (d #t) (k 0)))) (h "1b5xw1xfqah69s0vh1qpaxz9c7h1nhw50z3ss90fsq5x9ks8a89w")))
+
+(define-public crate-memtable-macros-0.2.0 (c (n "memtable-macros") (v "0.2.0") (d (list (d (n "darling") (r "^0.12.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "memtable-core") (r "=0.2.0") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.4") (d #t) (k 2)) (d (n "syn") (r "^1.0.53") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.35") (d #t) (k 2)) (d (n "voca_rs") (r "^1.13.0") (d #t) (k 0)))) (h "0hyl57jp5cmilqz1p7xp51nads4ak1pym9s18y7ns2fch2fn31wi")))
+

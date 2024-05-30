@@ -1,0 +1,10 @@
+(define-module (crates-io th er thermal-print) #:use-module (crates-io))
+
+(define-public crate-thermal-print-0.1.0 (c (n "thermal-print") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0.0") (f (quote ("alloc"))) (k 0)) (d (n "derive_builder") (r "^0.11.2") (k 0)) (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (k 0)) (d (n "tinybmp") (r "^0.3.3") (d #t) (k 0)))) (h "14j6alkw9s26sm5r58jvy2qxwn0dkf2im2hnp0pc13r14diqfbp9") (f (quote (("std") ("alloc"))))))
+
+(define-public crate-thermal-print-0.1.1 (c (n "thermal-print") (v "0.1.1") (d (list (d (n "bitvec") (r "^1.0.0") (f (quote ("alloc"))) (k 0)) (d (n "derive_builder") (r "^0.11.2") (k 0)) (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (k 0)) (d (n "tinybmp") (r "^0.3.3") (d #t) (k 0)))) (h "08rx821yxrryfcv1278f64azip6ig0zj04jd08y5rm25jhbn1kjg") (f (quote (("std"))))))
+
+(define-public crate-thermal-print-0.1.2 (c (n "thermal-print") (v "0.1.2") (d (list (d (n "bitvec") (r "^1.0.0") (f (quote ("alloc"))) (k 0)) (d (n "derive_builder") (r "^0.11.2") (k 0)) (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (k 0)) (d (n "tinybmp") (r "^0.3.3") (d #t) (k 0)))) (h "0c6prlig80dm598zqsd65i12z7x4l26brx8vcnlfvjnbgjwlhkjh") (f (quote (("std"))))))
+
+(define-public crate-thermal-print-0.2.0 (c (n "thermal-print") (v "0.2.0") (d (list (d (n "bitvec") (r "^1.0.1") (f (quote ("alloc"))) (k 0)) (d (n "derive_builder") (r "^0.20.0") (f (quote ("alloc"))) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-nb") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "embedded-io") (r "^0.6.1") (f (quote ("alloc"))) (o #t) (d #t) (k 0)) (d (n "nb") (r "^1.1.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.2") (k 0)) (d (n "tinybmp") (r "^0.5.0") (d #t) (k 0)))) (h "1b5zd85cpdcy0gyfdq3sp4xyc7r18sy0nx3v1xl1llhk6s7lzcry") (f (quote (("std") ("default" "embedded-hal-nb")))) (s 2) (e (quote (("embedded-io" "dep:embedded-io") ("embedded-hal-nb" "dep:embedded-hal-nb"))))))
+

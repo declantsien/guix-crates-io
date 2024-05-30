@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# v vvm) #:use-module (crates-io))
+
+(define-public crate-vvm-0.1.0 (c (n "vvm") (v "0.1.0") (d (list (d (n "bit-set") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.2.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memory-cache") (r "^0.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (d #t) (k 2)) (d (n "tetsy-bytes") (r "^0.1") (d #t) (k 0)) (d (n "tetsy-keccak-hash") (r "^0.4.0") (d #t) (k 0)) (d (n "tetsy-util-mem") (r "^0.3.0") (d #t) (k 0)) (d (n "tetsy-vm") (r "^0.1.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "0pv4xx2p5zhl8f4gfnfr9akkg0blxh8yjqz0ca7jxxq4yzb4clv1") (f (quote (("vvm-debug-tests" "vvm-debug") ("vvm-debug"))))))
+

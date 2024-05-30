@@ -1,0 +1,14 @@
+(define-module (crates-io pa ss passerine-aspen) #:use-module (crates-io))
+
+(define-public crate-passerine-aspen-0.1.0 (c (n "passerine-aspen") (v "0.1.0") (d (list (d (n "passerine") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1ilm43ikqcq5dkydxrhqqqpqqzqm71cdw61m3wqjni9rifgcxam8")))
+
+(define-public crate-passerine-aspen-0.2.0 (c (n "passerine-aspen") (v "0.2.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "passerine") (r "^0") (d #t) (k 0)) (d (n "semver") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1y1fmf2108a7pgyzhakhk0khpwlkq6rc5sgc2m060gdf33mqzvcp") (f (quote (("no_color" "colored/no-color"))))))
+
+(define-public crate-passerine-aspen-0.2.1 (c (n "passerine-aspen") (v "0.2.1") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "passerine") (r "^0") (d #t) (k 0)) (d (n "semver") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1jvyf8ds9r35gr2p9rjybnvfvinrm5ng9kg8mbzzfi48sr8hksvz") (f (quote (("no_color" "colored/no-color"))))))
+
+(define-public crate-passerine-aspen-0.3.0 (c (n "passerine-aspen") (v "0.3.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "passerine") (r "^0.8") (d #t) (k 0)) (d (n "semver") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0d5cq1bvazsaldzabq8vmvh7wmc98zl8g851ns0s8ai8pn7qwy9m") (f (quote (("no_color" "colored/no-color"))))))
+
+(define-public crate-passerine-aspen-0.4.0 (c (n "passerine-aspen") (v "0.4.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "passerine") (r "^0.9") (d #t) (k 0)) (d (n "semver") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0yzkwmin7ag9k6cnqiqw6y3mfxd9vn90gas4vw6870v5dwdfskwf") (f (quote (("no_color" "colored/no-color"))))))
+
+(define-public crate-passerine-aspen-0.5.0 (c (n "passerine-aspen") (v "0.5.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "passerine") (r "^0.9") (d #t) (k 0)) (d (n "semver") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0p9w5wvhnd24jx45k3wps2fna5vybljp6kj5y5r729wzld8hs47h") (f (quote (("no_color" "colored/no-color"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io uc kb uckb-key) #:use-module (crates-io))
+
+(define-public crate-uckb-key-0.1.0 (c (n "uckb-key") (v "0.1.0") (d (list (d (n "bech32") (r "^0.7.2") (d #t) (k 0)) (d (n "blake2b-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "faster-hex") (r "^0.4.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "property") (r "^0.3.3") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "secp256k1_kernel") (r "^0.19.0") (f (quote ("rand" "recovery"))) (d #t) (k 0) (p "secp256k1")) (d (n "slices") (r "^0.1.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "149g11fq1m14533x2mrbij6rj1fwaw6awcixv6593fk5vjkv7kdy") (f (quote (("insecure") ("default"))))))
+
+(define-public crate-uckb-key-0.1.1 (c (n "uckb-key") (v "0.1.1") (d (list (d (n "bech32") (r "^0.8.1") (d #t) (k 0)) (d (n "blake2b-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "faster-hex") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "property") (r "^0.3.3") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "secp256k1_kernel") (r "^0.20.3") (f (quote ("rand" "recovery"))) (d #t) (k 0) (p "secp256k1")) (d (n "slices") (r "^0.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "1v36s2318fby5krzddfib8w389mp6qwc1rc1yy01aqg1vj12mjrg") (f (quote (("insecure") ("default"))))))
+

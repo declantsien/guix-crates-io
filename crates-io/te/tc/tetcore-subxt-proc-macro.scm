@@ -1,0 +1,4 @@
+(define-module (crates-io te tc tetcore-subxt-proc-macro) #:use-module (crates-io))
+
+(define-public crate-tetcore-subxt-proc-macro-0.13.0 (c (n "tetcore-subxt-proc-macro") (v "0.13.0") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (d #t) (k 2) (p "tetsy-scale-codec")) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "heck") (r "^0.3.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.58") (d #t) (k 0)) (d (n "synstructure") (r "^0.12.4") (d #t) (k 0)) (d (n "tp-keyring") (r "^2.0.1") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.38") (d #t) (k 2)))) (h "1sqw06diikmyby06w131j39y3z3cfmpdjgsz5d30a18bv0ifvd6x")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mi cr micro_bevy_splash) #:use-module (crates-io))
+
+(define-public crate-micro_bevy_splash-0.1.0 (c (n "micro_bevy_splash") (v "0.1.0") (d (list (d (n "bevy_app") (r "^0.13") (d #t) (k 0)) (d (n "bevy_asset") (r "^0.13") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.13") (d #t) (k 0)) (d (n "bevy_hierarchy") (r "^0.13") (d #t) (k 0)) (d (n "bevy_input") (r "^0.13") (d #t) (k 0)) (d (n "bevy_math") (r "^0.13") (d #t) (k 0)) (d (n "bevy_render") (r "^0.13") (d #t) (k 0)) (d (n "bevy_sprite") (r "^0.13") (d #t) (k 0)) (d (n "bevy_text") (r "^0.13") (d #t) (k 0)) (d (n "bevy_time") (r "^0.13") (d #t) (k 0)) (d (n "bevy_transform") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "micro_musicbox") (r "^0.9.0") (d #t) (k 0)))) (h "06hnqggbz2jjdpbi1kryc9parygxxqldwx3bbxfwhvq1n571gd05")))
+

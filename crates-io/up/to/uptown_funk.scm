@@ -1,0 +1,8 @@
+(define-module (crates-io up to uptown_funk) #:use-module (crates-io))
+
+(define-public crate-uptown_funk-0.1.1 (c (n "uptown_funk") (v "0.1.1") (d (list (d (n "smallvec") (r "^1.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "uptown_funk_macro") (r "^0.1") (d #t) (k 0)) (d (n "wasmer") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasmtime") (r "^0.22") (o #t) (d #t) (k 0)))) (h "19n81wd6xjgjf9milsxqx2vvw272wdbz3vilp9dal4x3iwghfl2l") (f (quote (("vm-wasmtime" "wasmtime" "uptown_funk_macro/vm-wasmtime") ("vm-wasmer" "wasmer" "uptown_funk_macro/vm-wasmer" "thiserror") ("default") ("async"))))))
+
+(define-public crate-uptown_funk-0.1.2 (c (n "uptown_funk") (v "0.1.2") (d (list (d (n "smallvec") (r "^1.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "uptown_funk_macro") (r "^0.1") (d #t) (k 0)) (d (n "wasmer") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasmtime") (r "^0.22") (o #t) (d #t) (k 0)))) (h "1blvb7bvgp3vm79wwqsg87i5w2m4n96638s6xcswzc97wh3yq13g") (f (quote (("vm-wasmtime" "wasmtime" "uptown_funk_macro/vm-wasmtime") ("vm-wasmer" "wasmer" "uptown_funk_macro/vm-wasmer" "thiserror") ("default") ("async"))))))
+
+(define-public crate-uptown_funk-0.1.3 (c (n "uptown_funk") (v "0.1.3") (d (list (d (n "smallvec") (r "^1.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "uptown_funk_macro") (r "^0.1") (d #t) (k 0)) (d (n "wasmer") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasmtime") (r "^0.26") (o #t) (d #t) (k 0)))) (h "0lzflg6dnhn64gsspavgqlq1z9wvjcr7fkkxlyjlpzcfl8azgl88") (f (quote (("vm-wasmtime" "wasmtime" "uptown_funk_macro/vm-wasmtime") ("vm-wasmer" "wasmer" "uptown_funk_macro/vm-wasmer" "thiserror") ("default") ("async"))))))
+

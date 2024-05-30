@@ -1,0 +1,6 @@
+(define-module (crates-io bo un bouncer) #:use-module (crates-io))
+
+(define-public crate-bouncer-1.0.0 (c (n "bouncer") (v "1.0.0") (d (list (d (n "api") (r "^0.2.0") (d #t) (k 2)) (d (n "clippy") (r "^0.0.21") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "curl") (r "^0.4.31") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (k 0)) (d (n "redis") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("full"))) (d #t) (k 0)))) (h "19jfa3w5gqv63q4bjrl6gxsqwzp0qd6dwh7xf0jb4p5aix5cyivw") (f (quote (("dev" "clippy") ("default"))))))
+
+(define-public crate-bouncer-1.0.1 (c (n "bouncer") (v "1.0.1") (d (list (d (n "api") (r "^0.2.0") (d #t) (k 2)) (d (n "clippy") (r "^0.0.21") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "curl") (r "^0.4.31") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (k 0)) (d (n "redis") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("full"))) (d #t) (k 0)))) (h "0ppqmcaygzqdhp696brwhbqn229dvkin9r8ni9n2hddbqm9qmybz") (f (quote (("dev" "clippy") ("default"))))))
+

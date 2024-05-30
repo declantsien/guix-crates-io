@@ -1,0 +1,22 @@
+(define-module (crates-io li bf libfsntfs-sys) #:use-module (crates-io))
+
+(define-public crate-libfsntfs-sys-0.1.0 (c (n "libfsntfs-sys") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "flate2") (r "^1.0.7") (d #t) (k 1)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.13") (d #t) (k 1)) (d (n "tar") (r "^0.4.22") (d #t) (k 1)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "02cpiljq5dbai2nsj0qzxw1p39dz9w7vfrz2z7xipgd2v7jhiqb8") (f (quote (("static_link") ("default")))) (l "libfsntfs")))
+
+(define-public crate-libfsntfs-sys-0.1.1 (c (n "libfsntfs-sys") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "flate2") (r "^1.0.7") (d #t) (k 1)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.13") (d #t) (k 1)) (d (n "tar") (r "^0.4.22") (d #t) (k 1)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "0kikr38w028r97j7w9spvss7nn770xk0w4scm76rm3fnq4ivwj5p") (f (quote (("static_link") ("default")))) (l "libfsntfs")))
+
+(define-public crate-libfsntfs-sys-0.1.2 (c (n "libfsntfs-sys") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "flate2") (r "^1.0.7") (d #t) (k 1)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.13") (d #t) (k 1)) (d (n "tar") (r "^0.4.22") (d #t) (k 1)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "07jic8rk73c0dv0ic17spkk0i6cx6n1r5mq5i3f873sqfgb8gniw") (f (quote (("static_link") ("default")))) (l "libfsntfs")))
+
+(define-public crate-libfsntfs-sys-0.1.3 (c (n "libfsntfs-sys") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "flate2") (r "^1.0.7") (d #t) (k 1)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.13") (d #t) (k 1)) (d (n "tar") (r "^0.4.22") (d #t) (k 1)) (d (n "time") (r "^0.1.42") (d #t) (k 0)))) (h "0xbx9qhhr0kcnkccq84mljvvi9rp016vb6x6faq5i4yajz9av5s5") (f (quote (("static_link") ("default")))) (l "libfsntfs")))
+
+(define-public crate-libfsntfs-sys-0.2.0 (c (n "libfsntfs-sys") (v "0.2.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1.0") (d #t) (k 1)) (d (n "libyal-rs-common-build") (r "^0.2.0") (d #t) (k 1)))) (h "0npi6xir1rl0wfs3g3w62w35qyx2zbwgxawd6aik8miivfjkspgf") (f (quote (("dynamic_link") ("default"))))))
+
+(define-public crate-libfsntfs-sys-0.2.1 (c (n "libfsntfs-sys") (v "0.2.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "libyal-rs-common-build") (r "^0.2.1") (d #t) (k 1)))) (h "1dhhny6n0aadykmkddlb3wlmfcmi1x8gn66r33jx2gym6jg18lcf") (f (quote (("dynamic_link") ("default"))))))
+
+(define-public crate-libfsntfs-sys-0.2.2 (c (n "libfsntfs-sys") (v "0.2.2") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "libyal-rs-common-build") (r "^0.2.1") (d #t) (k 1)))) (h "1gxsvwk04ljkjfk1l8733whbpq1alssl78d190qpxp92xx85k636") (f (quote (("dynamic_link") ("default")))) (y #t)))
+
+(define-public crate-libfsntfs-sys-0.2.3 (c (n "libfsntfs-sys") (v "0.2.3") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "libyal-rs-common-build") (r "^0.2.1") (d #t) (k 1)))) (h "1965bwfmw9sgh8da56hb65sbqd49yhspm858wglsk6q7g91hhmdr") (f (quote (("dynamic_link") ("default"))))))
+
+(define-public crate-libfsntfs-sys-0.2.4 (c (n "libfsntfs-sys") (v "0.2.4") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "libyal-rs-common-build") (r "^0.2.4") (d #t) (k 1)))) (h "1dgwfmhb2w2d9z84pjyx57j8kwk3qhjgfpiyy3ixz5jw5675s87j") (f (quote (("dynamic_link") ("default"))))))
+
+(define-public crate-libfsntfs-sys-0.2.5 (c (n "libfsntfs-sys") (v "0.2.5") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 1)) (d (n "libyal-rs-common-build") (r "^0.2.5") (d #t) (k 1)))) (h "1psvi9dbvif2gynq4jbmldx4q9172h31n3n1p31k0k0qmg8wdx3x") (f (quote (("dynamic_link") ("default"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io my -e my-env-logger-style) #:use-module (crates-io))
+
+(define-public crate-my-env-logger-style-0.1.0 (c (n "my-env-logger-style") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10.0") (f (quote ("auto-color"))) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)))) (h "0rrarr0g1ily4k2ljr6mbn8zwwcz4yv13m8k5nglw3x82gkijk6i") (f (quote (("time" "env_logger/humantime") ("default" "time"))))))
+
+(define-public crate-my-env-logger-style-0.1.1 (c (n "my-env-logger-style") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.10.0") (f (quote ("auto-color"))) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (f (quote ("parking_lot"))) (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)))) (h "1wjn8gbmfgl8kslisgq6djjzxa836szpp6bjjr9hqnc2jryx5ipx") (f (quote (("time" "env_logger/humantime") ("default" "time")))) (s 2) (e (quote (("custom-arg-formatter" "dep:once_cell"))))))
+
+(define-public crate-my-env-logger-style-0.2.0 (c (n "my-env-logger-style") (v "0.2.0") (d (list (d (n "anstyle") (r "^1.0.6") (k 0)) (d (n "env_logger") (r "^0.11.3") (f (quote ("auto-color"))) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (f (quote ("parking_lot"))) (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)))) (h "0ndl735bplxyl1r41ccp452a0r73q4ggdbrzq04viinj8y186k5s") (f (quote (("time" "env_logger/humantime") ("default" "time")))) (s 2) (e (quote (("custom-arg-formatter" "dep:once_cell"))))))
+

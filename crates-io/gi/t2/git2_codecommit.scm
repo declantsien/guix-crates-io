@@ -1,0 +1,8 @@
+(define-module (crates-io gi t2 git2_codecommit) #:use-module (crates-io))
+
+(define-public crate-git2_codecommit-0.1.0 (c (n "git2_codecommit") (v "0.1.0") (d (list (d (n "git2") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "ring") (r "^0.7") (d #t) (k 0)) (d (n "rusoto_credential") (r "^0.5") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.4") (d #t) (k 0)))) (h "10zak8l7s1h1nx2qi7ngb4nk8gch0ray5849153i6qwn9idwyn1p")))
+
+(define-public crate-git2_codecommit-0.1.1 (c (n "git2_codecommit") (v "0.1.1") (d (list (d (n "git2") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "ring") (r "^0.9.4") (d #t) (k 0)) (d (n "rusoto_credential") (r "^0.6") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.4") (d #t) (k 0)))) (h "0ypkzap2arbc6j6nbkyfyrhvg03abyi8zpjrrk4mvs4iyidaw9jy")))
+
+(define-public crate-git2_codecommit-0.1.2 (c (n "git2_codecommit") (v "0.1.2") (d (list (d (n "git2") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "ring") (r "^0.12") (d #t) (k 0)) (d (n "rusoto_credential") (r "^0.8") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.4") (d #t) (k 0)))) (h "1l8xa4xi7qp4jn4cx95v7g93crzahzn6gc8yjk6ix9giiaghx8l9")))
+

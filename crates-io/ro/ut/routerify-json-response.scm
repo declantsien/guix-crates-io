@@ -1,0 +1,10 @@
+(define-module (crates-io ro ut routerify-json-response) #:use-module (crates-io))
+
+(define-public crate-routerify-json-response-1.0.1 (c (n "routerify-json-response") (v "1.0.1") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "routerify") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "stream-body") (r "^0.1") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "008yg114f5x5k8xyqs92a5kdfzckg7yskcqmkcsgds7d564wb0c1")))
+
+(define-public crate-routerify-json-response-1.1.0 (c (n "routerify-json-response") (v "1.1.0") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "routerify") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "stream-body") (r "^0.1") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "1vcp3k1bi0jzfk1d1wg6r8wjq4iqqpxjr6c5bjfnhq0zhirk3krv")))
+
+(define-public crate-routerify-json-response-2.0.0 (c (n "routerify-json-response") (v "2.0.0") (d (list (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-body") (r "^0.4") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("server"))) (d #t) (k 2)) (d (n "routerify") (r "^2") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0brlrr5qgww9caj1flkgz49a5srg595czcfmnl38k7f4whrpylr6")))
+
+(define-public crate-routerify-json-response-3.0.0 (c (n "routerify-json-response") (v "3.0.0") (d (list (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-body") (r "^0.4") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("server"))) (d #t) (k 2)) (d (n "routerify") (r "^3") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1ci2i5zccvnndi6v4kqic1lsx98hzlcixjnd8y3yxqx9azr1ax4k")))
+

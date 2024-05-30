@@ -1,0 +1,4 @@
+(define-module (crates-io st re streaming-platform) #:use-module (crates-io))
+
+(define-public crate-streaming-platform-0.1.0 (c (n "streaming-platform") (v "0.1.0") (d (list (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3") (f (quote ("async-await"))) (d #t) (k 0)) (d (n "hyper") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "siphasher") (r "^0.2") (d #t) (k 0)) (d (n "sp-dto") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "03x1plh6zppg18yxw9gd87sfbjp8b95yh4qyrrysl3467isz6668") (f (quote (("http" "hyper") ("default"))))))
+

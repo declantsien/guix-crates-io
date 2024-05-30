@@ -1,0 +1,18 @@
+(define-module (crates-io so la solabi) #:use-module (crates-io))
+
+(define-public crate-solabi-0.0.1 (c (n "solabi") (v "0.0.1") (d (list (d (n "ethnum") (r "^1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "sha3") (r "^0.10") (d #t) (k 0)))) (h "13vjsbxwcbip5kb2p957aziv5ldmwhkjwpxa3zm2rhlx74arliwc")))
+
+(define-public crate-solabi-0.0.2 (c (n "solabi") (v "0.0.2") (d (list (d (n "ethaddr") (r "^0.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "ethdigest") (r "^0.1") (f (quote ("keccak" "macros"))) (d #t) (k 0)) (d (n "ethnum") (r "^1") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1mi7a5mv8z609jpn9clzpvmv3bl4lv65nbasaqsfi4kqx8wqv0dr")))
+
+(define-public crate-solabi-0.0.3 (c (n "solabi") (v "0.0.3") (d (list (d (n "ethprim") (r "^0.1") (f (quote ("keccak" "serde"))) (d #t) (k 0)) (d (n "ethprim") (r "^0.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1bb1jxxx6ijp0s3zrh6l65v87m6hick53as8g7v053izpy0nlyp4") (f (quote (("macros" "ethprim/macros") ("default"))))))
+
+(define-public crate-solabi-0.0.4 (c (n "solabi") (v "0.0.4") (d (list (d (n "ethprim") (r "^0.1") (f (quote ("keccak" "serde"))) (d #t) (k 0)) (d (n "ethprim") (r "^0.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "12shaqmfn4kjlx3zymjdzsryc52h3dp4mpzpgyl2qcxj1rvr2bfk") (f (quote (("macros" "ethprim/macros") ("default"))))))
+
+(define-public crate-solabi-0.1.0 (c (n "solabi") (v "0.1.0") (d (list (d (n "ethprim") (r "^0.1") (f (quote ("keccak" "serde"))) (d #t) (k 0)) (d (n "ethprim") (r "^0.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1hmljn1izp4bfkq6pza0dh9qmjlsv3ky8px6pyc8rmj5l0d5kqyv") (f (quote (("macros" "ethprim/macros") ("default"))))))
+
+(define-public crate-solabi-0.1.1 (c (n "solabi") (v "0.1.1") (d (list (d (n "ethprim") (r "^0.1") (f (quote ("keccak" "serde"))) (d #t) (k 0)) (d (n "ethprim") (r "^0.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0805ggzazqnvci8vwzp3662j29knwl8q1d5gn7ii204jcf2qg5fv") (f (quote (("macros" "ethprim/macros") ("default"))))))
+
+(define-public crate-solabi-0.1.2 (c (n "solabi") (v "0.1.2") (d (list (d (n "ethprim") (r "^0.1") (f (quote ("keccak" "serde"))) (d #t) (k 0)) (d (n "ethprim") (r "^0.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1v7bd6gqgp3gg1rwbipci0xzshjn8w8ydrrb1z4dr6zka0c2sls7") (f (quote (("macros" "ethprim/macros") ("default"))))))
+
+(define-public crate-solabi-0.2.0 (c (n "solabi") (v "0.2.0") (d (list (d (n "ethprim") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1wivqmmphjx1kbykhrljpli8p6b0g72zc3d5ppcgr4vydmp22pm0") (f (quote (("sha3" "ethprim/sha3"))))))
+

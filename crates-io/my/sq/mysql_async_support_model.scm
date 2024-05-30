@@ -1,0 +1,12 @@
+(define-module (crates-io my sq mysql_async_support_model) #:use-module (crates-io))
+
+(define-public crate-mysql_async_support_model-0.1.0 (c (n "mysql_async_support_model") (v "0.1.0") (d (list (d (n "indexmap") (r "^1.6.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "mysql_async") (r "^0.27.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ssh_jumper") (r "^0.1.1") (d #t) (k 0)))) (h "17c5v2341mywqpjkc2apy8magn2jp52w144siailjg99yfc11a65")))
+
+(define-public crate-mysql_async_support_model-0.1.1 (c (n "mysql_async_support_model") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^1.6.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "mysql_async") (r "^0.27.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "ssh_jumper") (r "^0.1.1") (d #t) (k 0)))) (h "14qfdii3w28bhm9j5dd2qr9mjq1fkm1apgx5i8zjcqf928n8qp92")))
+
+(define-public crate-mysql_async_support_model-0.2.0 (c (n "mysql_async_support_model") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^1.6.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "mysql_async") (r "^0.27.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "ssh_jumper") (r "^0.2.0") (d #t) (k 0)))) (h "05lnff72kgzhidwhsfvajv786yp108ny0v7dipwvw45amsfqgim5")))
+
+(define-public crate-mysql_async_support_model-0.2.1 (c (n "mysql_async_support_model") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^1.6.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "mysql_async") (r "^0.27.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "ssh_jumper") (r "^0.2.0") (d #t) (k 0)))) (h "1f0afayssi4bn5k9405vpwksvr9an2i6jxjvwdi0z7iah2hj2bfl")))
+
+(define-public crate-mysql_async_support_model-0.3.0 (c (n "mysql_async_support_model") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^1.6.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "mysql_async") (r "^0.27.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "ssh_jumper") (r "^0.2.0") (d #t) (k 0)))) (h "1yyq8qisjcfsf11yzqppkiabg8616pfkhyalblmb9l2mh6pxwcp0")))
+

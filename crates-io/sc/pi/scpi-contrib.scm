@@ -1,0 +1,6 @@
+(define-module (crates-io sc pi scpi-contrib) #:use-module (crates-io))
+
+(define-public crate-scpi-contrib-1.0.0 (c (n "scpi-contrib") (v "1.0.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "document-features") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scpi") (r "=1.0.0") (f (quote ("unit-time" "unit-frequency"))) (k 0)) (d (n "scpi_derive") (r "=1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)))) (h "0dqy4gamhrw93qjyjpk3gs6q0sl5qb46kphydqaa0qr52sirplpk") (f (quote (("unproven") ("std" "scpi/std") ("default") ("alloc" "scpi/alloc"))))))
+
+(define-public crate-scpi-contrib-1.0.1 (c (n "scpi-contrib") (v "1.0.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "document-features") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scpi") (r "=1.0.1") (f (quote ("unit-time" "unit-frequency"))) (k 0)) (d (n "scpi_derive") (r "=1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)))) (h "09llz9662lf2wnfvffrm7fx8kaxjx0j923y48nb08f1fyih69m36") (f (quote (("unproven") ("std" "scpi/std") ("default") ("alloc" "scpi/alloc"))))))
+

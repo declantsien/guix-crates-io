@@ -1,0 +1,6 @@
+(define-module (crates-io ni x- nix-remote) #:use-module (crates-io))
+
+(define-public crate-nix-remote-0.1.0 (c (n "nix-remote") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.8") (d #t) (k 0)) (d (n "tagged-serde") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1vkc353pi30ilwgi98w22rdach0d8hk3925ys0hnb74dllq690g9")))
+
+(define-public crate-nix-remote-0.1.1 (c (n "nix-remote") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.66") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.8") (d #t) (k 0)) (d (n "tagged-serde") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0fv8vy71jaw7qc1jij571g7vqj2dsvqnv0waj654dj07hmqs2qwp")))
+

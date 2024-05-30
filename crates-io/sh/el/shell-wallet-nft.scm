@@ -1,0 +1,4 @@
+(define-module (crates-io sh el shell-wallet-nft) #:use-module (crates-io))
+
+(define-public crate-shell-wallet-nft-0.17.0 (c (n "shell-wallet-nft") (v "0.17.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^1.1.3") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.16.2") (d #t) (k 2)) (d (n "cw-ownable") (r "^0.5.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0.1") (d #t) (k 0)) (d (n "cw2") (r "^1.0.1") (d #t) (k 0)) (d (n "cw721") (r "^0.17.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.17.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "11py80ma1pgmcnkhcm707fa055pigvbscs474izjbcga9lkxqx8r") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces")))) (r "1.65")))
+

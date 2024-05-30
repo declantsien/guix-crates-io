@@ -1,0 +1,6 @@
+(define-module (crates-io at te atter) #:use-module (crates-io))
+
+(define-public crate-atter-0.1.0 (c (n "atter") (v "0.1.0") (d (list (d (n "bincode") (r "^0") (d #t) (k 2)) (d (n "error-chain") (r "^0") (d #t) (k 0)) (d (n "getset") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)) (d (n "url") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^0") (f (quote ("serde" "use_std" "v5" "v4"))) (d #t) (k 0)))) (h "0i01z1yxk3zbcf92l4p21nl0a86bs01853wc37i7dp1jly3yqbbb")))
+
+(define-public crate-atter-0.1.1 (c (n "atter") (v "0.1.1") (d (list (d (n "bincode") (r "^0") (d #t) (k 2)) (d (n "chrono") (r "^0") (d #t) (k 0)) (d (n "error-chain") (r "^0") (d #t) (k 0)) (d (n "getset") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0") (d #t) (k 0)) (d (n "rusqlite") (r "^0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)) (d (n "url") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^0") (f (quote ("serde" "use_std" "v5" "v4"))) (d #t) (k 0)))) (h "1zh7dck0lkif7waq8lrkcr80512kmy5gaw872q6sl0grmhrxhg57")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io es pe espeakng) #:use-module (crates-io))
+
+(define-public crate-espeakng-0.1.0 (c (n "espeakng") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "errno") (r "^0.2") (d #t) (k 0)) (d (n "espeakng-sys") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)) (d (n "zstr") (r "^0.1") (d #t) (k 0)))) (h "0j0952yl70cin0pbk034hclrmiz2b37wxbp8a0qza1x0kr85i27y")))
+
+(define-public crate-espeakng-0.1.1 (c (n "espeakng") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "errno") (r "^0.2") (d #t) (k 0)) (d (n "espeakng-sys") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)) (d (n "zstr") (r "^0.1") (d #t) (k 0)))) (h "0xdgcp7n1vigg4iia895pgnrwz77xn81qsviky4ns9ry825lpikg")))
+
+(define-public crate-espeakng-0.1.2 (c (n "espeakng") (v "0.1.2") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "errno") (r "^0.3") (d #t) (k 0)) (d (n "espeakng-sys") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "zstr") (r "^0.1") (d #t) (k 0)))) (h "187641qijxvrnhf208s7zq6gwic3kfcr52amwjip6iyq5xi32h44")))
+
+(define-public crate-espeakng-0.2.0 (c (n "espeakng") (v "0.2.0") (d (list (d (n "bitflags") (r "^2.3.3") (d #t) (k 0)) (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "errno") (r "^0.3") (d #t) (k 0)) (d (n "espeakng-sys") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "zstr") (r "^0.1") (d #t) (k 0)))) (h "1g9xicac6iar7dw0s04q736b638pjxrk4j8f71rb2pyz90v2m0zm")))
+

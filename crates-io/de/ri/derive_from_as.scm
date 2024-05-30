@@ -1,0 +1,8 @@
+(define-module (crates-io de ri derive_from_as) #:use-module (crates-io))
+
+(define-public crate-derive_from_as-0.1.0 (c (n "derive_from_as") (v "0.1.0") (d (list (d (n "from_as_file") (r "^0.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.14") (d #t) (k 0)) (d (n "syn") (r "^0.15.29") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0d5fhc7sl5773sansvhb463i6924h3dhpy35b0ryggdjmjllgf6m")))
+
+(define-public crate-derive_from_as-0.1.1 (c (n "derive_from_as") (v "0.1.1") (d (list (d (n "from_as_file") (r "^0.1.1") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.14") (d #t) (k 0)) (d (n "syn") (r "^0.15.29") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0g2zanh7kn7yiq8mnf3r8xnikb5wx3a4wy1iq53c7jqkskc1g2qq")))
+
+(define-public crate-derive_from_as-0.2.0 (c (n "derive_from_as") (v "0.2.0") (d (list (d (n "from_as_file") (r "^0.2.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.20") (d #t) (k 0)) (d (n "syn") (r "^2.0.13") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1md1vrlwp7slikaahdqjj0zn5h3f1hw66s76c1fnckpl2p9zhbr5")))
+

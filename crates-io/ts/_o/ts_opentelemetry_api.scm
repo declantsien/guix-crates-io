@@ -1,0 +1,4 @@
+(define-module (crates-io ts _o ts_opentelemetry_api) #:use-module (crates-io))
+
+(define-public crate-ts_opentelemetry_api-0.20.0-beta.1 (c (n "ts_opentelemetry_api") (v "0.20.0-beta.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("std" "sink"))) (k 0)) (d (n "indexmap") (r "^1.8") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.63") (d #t) (t "cfg(all(target_arch = \"wasm32\", not(target_os = \"wasi\")))") (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "10mssmlki3x6l83dlbzkgqnld2jvqyx86fzb3a4baipn619lk1ni") (f (quote (("trace" "pin-project-lite") ("testing" "trace") ("metrics") ("logs") ("default" "trace")))) (r "1.60")))
+

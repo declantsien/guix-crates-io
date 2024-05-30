@@ -1,0 +1,10 @@
+(define-module (crates-io lo ki loki-logger) #:use-module (crates-io))
+
+(define-public crate-loki-logger-0.1.0 (c (n "loki-logger") (v "0.1.0") (d (list (d (n "log") (r "^0.4.14") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)))) (h "17bz6i3a4mraq3f1c3577gcigqr6k28133gdy6i59hkjdvc11z5j") (f (quote (("trust-dns" "reqwest/trust-dns") ("default" "trust-dns") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-loki-logger-0.1.1 (c (n "loki-logger") (v "0.1.1") (d (list (d (n "log") (r "^0.4.14") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)))) (h "088np9v4vx2m3ifxhdd7iwkv5qzzryaa12k3dg1li6zp2m3vzd4v") (f (quote (("trust-dns" "reqwest/trust-dns") ("default" "trust-dns") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-loki-logger-0.1.2 (c (n "loki-logger") (v "0.1.2") (d (list (d (n "log") (r "^0.4.14") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1a38k5rkp8ggnlibcxalqmqkbzq120yjdy4ibnn3hjk401yvz88c") (f (quote (("trust-dns" "reqwest/trust-dns") ("default" "trust-dns") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-loki-logger-0.1.3 (c (n "loki-logger") (v "0.1.3") (d (list (d (n "log") (r "^0.4.14") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)))) (h "04ka2sj14a7l3xw3nf3jqncka2g46pq0mhv6f547s0x1h0p3wvnd") (f (quote (("trust-dns" "reqwest/trust-dns") ("default" "trust-dns") ("blocking" "reqwest/blocking"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rustbin) #:use-module (crates-io))
+
+(define-public crate-rustbin-0.6.0 (c (n "rustbin") (v "0.6.0") (d (list (d (n "bitflags") (r "^2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "1803vfq9q31w0bxz2yky9ydzx2q8ccvjrqf6q811nj0ppbg14fj7") (f (quote (("default" "json")))) (s 2) (e (quote (("json" "dep:serde_json"))))))
+
+(define-public crate-rustbin-0.7.0 (c (n "rustbin") (v "0.7.0") (d (list (d (n "bitflags") (r "^2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "1j8f0sgpqv7wqmq1v5ky5hlqbmdwag4jpldinscciv4isvmhv381") (f (quote (("default" "json")))) (s 2) (e (quote (("json" "dep:serde_json"))))))
+

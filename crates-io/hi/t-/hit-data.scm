@@ -1,0 +1,12 @@
+(define-module (crates-io hi t- hit-data) #:use-module (crates-io))
+
+(define-public crate-hit-data-0.0.1 (c (n "hit-data") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.3") (d #t) (k 0)) (d (n "mopa") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "02j37ph9fc5czdzfsifv1633fx6ar2yr125ldrb5q0dd49v3bnk2")))
+
+(define-public crate-hit-data-0.0.2 (c (n "hit-data") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.3") (d #t) (k 0)) (d (n "mopa") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1zqsp4cw27hqxa44ksk57vv9n9hmsdcrmycb654hqzq8fdyy6dll")))
+
+(define-public crate-hit-data-0.0.3 (c (n "hit-data") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.3") (d #t) (k 0)) (d (n "mopa") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1764cc94x9dh00qqvznawff5wnwiqv4l61nzlh3nh9bw2hrhg389")))
+
+(define-public crate-hit-data-0.0.4 (c (n "hit-data") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.3") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "mopa") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "00943r4lxb9ydb5ab6iybjarfk19nq7ym6rf007qlw0aj80z8p2h")))
+
+(define-public crate-hit-data-0.0.5 (c (n "hit-data") (v "0.0.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.3") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "mopa") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ja6i0hqyrbqp42rwkj464yfypibd70gkba8cav63vjfzrjbxvp9")))
+

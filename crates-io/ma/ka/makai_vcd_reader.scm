@@ -1,0 +1,4 @@
+(define-module (crates-io ma ka makai_vcd_reader) #:use-module (crates-io))
+
+(define-public crate-makai_vcd_reader-0.1.0 (c (n "makai_vcd_reader") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "humansize") (r "^2.0.0") (d #t) (k 2)) (d (n "indicatif") (r "^0.17.1") (d #t) (k 2)) (d (n "indiscriminant") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "logos") (r "^0.12.0") (d #t) (k 0)) (d (n "makai") (r "^0.1.0") (d #t) (k 0)) (d (n "makai_waveform_db") (r "^0.1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^2.3.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "1y659kagy323021bfw2syg5p2p2kn83153qksshk8xhc2ds2cm66")))
+

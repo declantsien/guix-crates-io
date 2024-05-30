@@ -1,0 +1,8 @@
+(define-module (crates-io ru fl rufl) #:use-module (crates-io))
+
+(define-public crate-rufl-0.1.1 (c (n "rufl") (v "0.1.1") (d (list (d (n "fastrand") (r "^2.0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.10.6") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (d #t) (k 0)))) (h "0jqmpvjhfq93dk94rdlywfacl1s6hf3lh7c285wjiz69z3fj9acm") (f (quote (("string") ("random") ("math") ("file") ("eventbus") ("default" "collection" "eventbus" "file" "math" "random" "string") ("collection"))))))
+
+(define-public crate-rufl-0.1.2 (c (n "rufl") (v "0.1.2") (d (list (d (n "fastrand") (r "^2.0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.10.6") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (d #t) (k 0)))) (h "0p3wqjn54zk29bz5yj75y3wm3bgjvm1lcz3ksq39mrysqyf393b8") (f (quote (("string") ("random") ("math") ("file") ("eventbus") ("default" "collection" "eventbus" "file" "math" "random" "string") ("collection"))))))
+
+(define-public crate-rufl-0.1.3 (c (n "rufl") (v "0.1.3") (d (list (d (n "fastrand") (r "^2.0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.10.6") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (d #t) (k 0)))) (h "1ynq2zmyj4a53hfj9j4ha09x3gh2550xpnnaz5iai8cfw1kxp1g7") (f (quote (("string") ("random") ("math") ("file") ("eventbus") ("default" "collection" "eventbus" "file" "math" "random" "string") ("collection"))))))
+

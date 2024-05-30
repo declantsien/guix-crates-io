@@ -1,0 +1,8 @@
+(define-module (crates-io ge ma gemachain-metrics) #:use-module (crates-io))
+
+(define-public crate-gemachain-metrics-1.8.1 (c (n "gemachain-metrics") (v "1.8.1") (d (list (d (n "env_logger") (r "^0.8.3") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.1") (d #t) (k 0)) (d (n "gethostname") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.2") (f (quote ("blocking" "rustls-tls" "json"))) (k 0)) (d (n "serial_test") (r "^0.4.0") (d #t) (k 2)))) (h "04f84qdp8milb0sv3n7j39np23zv6f32hhm99zqdc1s9jv6kaqsb")))
+
+(define-public crate-gemachain-metrics-1.8.0 (c (n "gemachain-metrics") (v "1.8.0") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.0") (d #t) (k 0)) (d (n "gethostname") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "rustls-tls" "json"))) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)))) (h "1g22lrjbsm4klq1bnijvgn3jia06fc1yx69css5s1pkccximsz0v")))
+
+(define-public crate-gemachain-metrics-1.8.2 (c (n "gemachain-metrics") (v "1.8.2") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.2") (d #t) (k 0)) (d (n "gethostname") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "rustls-tls" "json"))) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)))) (h "0ih5ahv2rk5l93kzlwapfdljq1zjl7l7mwmjkwj1ymlbvmb0yxxg")))
+

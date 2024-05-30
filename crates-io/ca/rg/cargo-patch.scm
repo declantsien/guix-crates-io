@@ -1,0 +1,60 @@
+(define-module (crates-io ca rg cargo-patch) #:use-module (crates-io))
+
+(define-public crate-cargo-patch-0.1.0 (c (n "cargo-patch") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0fhak0pkzcp12awigyijiq1kpsa4jb3i0ph6iq5nhi7xnjly0py7")))
+
+(define-public crate-cargo-patch-0.1.1 (c (n "cargo-patch") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1gzsc2fd66jnpfayrk4s8ca142ssicaxi6amdwzzapy3fzvr3kfq")))
+
+(define-public crate-cargo-patch-0.1.2 (c (n "cargo-patch") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.8") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "10gmranicmagyhwpm872d62wk2gli6gcwn3yn0xvzslpfka9f2vd")))
+
+(define-public crate-cargo-patch-0.1.3 (c (n "cargo-patch") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1ikm6ddsyjfq2zw9ld5cq9qfiw9l0fpqdxpix6jb9391pgg54f5h")))
+
+(define-public crate-cargo-patch-0.1.4 (c (n "cargo-patch") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0apfja3hjf0811g54r8drwhgc4fpj4rzmwi1aa0pcrssxwrl5r25")))
+
+(define-public crate-cargo-patch-0.1.5 (c (n "cargo-patch") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "01d3gxaya15h9ip3ka1fdgmi14wn3lipv2fcw6irq5smkk6x98xi")))
+
+(define-public crate-cargo-patch-0.1.6 (c (n "cargo-patch") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "12as23kjxyy89pm3q807l64g9pg3fjffqxv67qc3pnbpwk45bmi0")))
+
+(define-public crate-cargo-patch-0.1.7 (c (n "cargo-patch") (v "0.1.7") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.44") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1hmy45wd6yf9vzlqclz23j5r1n7syfhhjc8l1pimpz4nb7nlgka5")))
+
+(define-public crate-cargo-patch-0.1.8 (c (n "cargo-patch") (v "0.1.8") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.58") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.5") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0i548k71knqq0x1ysi8aakcv5hrqjh9a87am2nflm5bqzpj5smgb")))
+
+(define-public crate-cargo-patch-0.1.9 (c (n "cargo-patch") (v "0.1.9") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.58") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1lnrmsinlkgg14rpzda57p829va59whxkj3wdwl596skllamxs9i")))
+
+(define-public crate-cargo-patch-0.1.10 (c (n "cargo-patch") (v "0.1.10") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.59") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "16iis2cddlz8y1q6r98yc45nv7zy260qzx36zg5maf40ffsdqgr6")))
+
+(define-public crate-cargo-patch-0.1.11 (c (n "cargo-patch") (v "0.1.11") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.60") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0sk4ghrw8nhp3f8488xk7x4f63wl1jwpflnkf24gpmfj00qwp000")))
+
+(define-public crate-cargo-patch-0.1.12 (c (n "cargo-patch") (v "0.1.12") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.60") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0hmai33bjfwrrsf2qd3dvb6mpcysa1mahqwwk3i2j7iixzlcf8vm")))
+
+(define-public crate-cargo-patch-0.1.13 (c (n "cargo-patch") (v "0.1.13") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.61") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml_edit") (r "^0.13") (d #t) (k 0)))) (h "0rdg6az818cc3bv2sw8rlvkd032jm8d0yi811yxzsj2vijmvpk2g")))
+
+(define-public crate-cargo-patch-0.1.14 (c (n "cargo-patch") (v "0.1.14") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.62") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "toml_edit") (r "^0.13") (d #t) (k 0)))) (h "09syyyxiad02m55gijq9k18xrxxhqj2q0pihbwx4h9mk0vh8ncby")))
+
+(define-public crate-cargo-patch-0.1.15 (c (n "cargo-patch") (v "0.1.15") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.62") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.13") (d #t) (k 0)))) (h "1475cd98rlf7ssmr1hfn8rf9crcdprsdi3dzy37j6gi7bgp81yp8")))
+
+(define-public crate-cargo-patch-0.2.0 (c (n "cargo-patch") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.62") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.13") (d #t) (k 0)))) (h "0sc8zz5gm2xi3kw4kbb5m6a6d7ccnf9dkvggzxljis1vdy5njh1g")))
+
+(define-public crate-cargo-patch-0.2.1 (c (n "cargo-patch") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.62") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.13") (d #t) (k 0)))) (h "1z1dy03i758zzjgy28ljbpav0pjmnmf60gs2g6h3r582rhxbyl7d")))
+
+(define-public crate-cargo-patch-0.2.2 (c (n "cargo-patch") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.63") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "0m1rm6nfq37i4x7d707ma5nc3g3l4cxnfigllcc3nfb70vhi95zp")))
+
+(define-public crate-cargo-patch-0.2.3 (c (n "cargo-patch") (v "0.2.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.63") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "1kqzi50r2208b80k4avgjr49n1pgbvw8hihfk9s5ww73aycc5pfa")))
+
+(define-public crate-cargo-patch-0.2.4 (c (n "cargo-patch") (v "0.2.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.64") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "1x0b18idaps5a7c7hhfbx3db4ymj974x2fv6x4q6lnya975lcq76")))
+
+(define-public crate-cargo-patch-0.2.5 (c (n "cargo-patch") (v "0.2.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.64") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "1mx1s6wc49hn7k03k31i8mkfkyl4kzmh7gaq0z6zrqy62rhkdgf1")))
+
+(define-public crate-cargo-patch-0.2.6 (c (n "cargo-patch") (v "0.2.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.64") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "0bqa69rl515mr19lq367jpnkj89dirsf5qxpc9naafv79hj4v49y")))
+
+(define-public crate-cargo-patch-0.2.7 (c (n "cargo-patch") (v "0.2.7") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.65") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "09r7n887anjvknbfxqm6mj7qz8biwz7a9df1z223gn1x25fh9fdb")))
+
+(define-public crate-cargo-patch-0.2.8 (c (n "cargo-patch") (v "0.2.8") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.65") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "0iapyfxszfqm2cm7hj5kvk968slyzy7z1ab0m4fh052fhp4ppf3h")))
+
+(define-public crate-cargo-patch-0.2.9 (c (n "cargo-patch") (v "0.2.9") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.66") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.6") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14") (d #t) (k 0)))) (h "0ydy9jaszzz46qyl78yw3q1h3rpxsd3ng2jqqsgb65qq5a5pirsx")))
+
+(define-public crate-cargo-patch-0.3.0 (c (n "cargo-patch") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.67") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.7") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml_edit") (r "^0.15") (d #t) (k 0)))) (h "1rf5a5dnjjdxkwdpa52sc378nylp9fayfyav4lf5i5w6vmig5m75")))
+
+(define-public crate-cargo-patch-0.3.1 (c (n "cargo-patch") (v "0.3.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.70") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.7") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1rcalj8fa6nvrq8yxsgjaz2xvy6kvgfi65jkk03h8x5gxwcs0ksq")))
+
+(define-public crate-cargo-patch-0.3.2 (c (n "cargo-patch") (v "0.3.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo") (r "^0.72") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "patch") (r "^0.7") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0wms83wfrk0d6z12zs9xxrs471jabdjs4pqaqjd3fg4gbg6mkw05")))
+

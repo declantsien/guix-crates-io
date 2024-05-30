@@ -1,0 +1,4 @@
+(define-module (crates-io mi lv milvus-sdk-rust) #:use-module (crates-io))
+
+(define-public crate-milvus-sdk-rust-0.1.0 (c (n "milvus-sdk-rust") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8.2") (f (quote ("tls" "tls-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.2") (d #t) (k 1)))) (h "1w7s1r3z1j5c637kp27han566n87v7s6iaa0244qdi470w2r3qir")))
+

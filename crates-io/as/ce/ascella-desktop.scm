@@ -1,0 +1,6 @@
+(define-module (crates-io as ce ascella-desktop) #:use-module (crates-io))
+
+(define-public crate-ascella-desktop-0.5.1 (c (n "ascella-desktop") (v "0.5.1") (d (list (d (n "ascella-cli") (r "^0.5.1") (f (quote ("app"))) (d #t) (k 0)) (d (n "iced") (r "^0.4.2") (f (quote ("tokio" "glow"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.112") (d #t) (t "cfg(unix)") (k 0)) (d (n "native-dialog") (r "^0.6.2") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(windows)") (k 1)) (d (n "winit") (r "^0.26.1") (d #t) (k 0)))) (h "1va9j66r4dbwrrxjmx03qbfw6z5sqk5fmxw9gzqda2f6slqnwmj7")))
+
+(define-public crate-ascella-desktop-0.5.2 (c (n "ascella-desktop") (v "0.5.2") (d (list (d (n "ascella-cli") (r "^0.5.2") (f (quote ("app"))) (d #t) (k 0)) (d (n "iced") (r "^0.4.2") (f (quote ("tokio" "glow"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.112") (d #t) (t "cfg(unix)") (k 0)) (d (n "native-dialog") (r "^0.6.2") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(windows)") (k 1)) (d (n "winit") (r "^0.26.1") (d #t) (k 0)))) (h "0fpl4wsif9rcz45b7fd4fy1f6v41prxkzkjvv42kz5p8l21wsl8h")))
+

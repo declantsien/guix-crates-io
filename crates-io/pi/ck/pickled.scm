@@ -1,0 +1,4 @@
+(define-module (crates-io pi ck pickled) #:use-module (crates-io))
+
+(define-public crate-pickled-1.2.0 (c (n "pickled") (v "1.2.0") (d (list (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "iter-read") (r "^0.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.10") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 2)) (d (n "variantly") (r "^0.4") (o #t) (d #t) (k 0)))) (h "04fjkhx93bzafc1n4vq7iwb92hv6swfvwhki5v2rpzz2h3pj25f0") (f (quote (("default" "variantly") ("criterion-bench" "criterion")))) (s 2) (e (quote (("variantly" "dep:variantly"))))))
+

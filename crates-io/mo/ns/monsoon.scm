@@ -1,0 +1,6 @@
+(define-module (crates-io mo ns monsoon) #:use-module (crates-io))
+
+(define-public crate-monsoon-0.1.0 (c (n "monsoon") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde" "clock"))) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("gzip" "default-tls"))) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.93") (k 0)) (d (n "thiserror") (r "^1.0.38") (k 0)) (d (n "tower-service") (r "^0.3.2") (k 0)) (d (n "cli-table") (r "^0.4.7") (d #t) (k 2)) (d (n "tokio") (r "^1.26.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (k 2)) (d (n "tower") (r "^0.4.13") (f (quote ("util" "limit"))) (k 2)))) (h "0v3kyvx706mjrlyjzzlcqpzk2n7qmx50104fxiq0jpndbyqc10s1")))
+
+(define-public crate-monsoon-0.1.1 (c (n "monsoon") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde" "clock"))) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("gzip" "default-tls"))) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.93") (k 0)) (d (n "thiserror") (r "^1.0.38") (k 0)) (d (n "tower-service") (r "^0.3.2") (k 0)) (d (n "cli-table") (r "^0.4.7") (d #t) (k 2)) (d (n "tokio") (r "^1.26.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (k 2)) (d (n "tower") (r "^0.4.13") (f (quote ("util" "limit"))) (k 2)))) (h "05q9f1280nr71fa3bhiabp358yriwiaxj36swkq3i9w26wb6sr6c")))
+

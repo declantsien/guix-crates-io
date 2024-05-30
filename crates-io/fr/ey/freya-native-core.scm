@@ -1,0 +1,6 @@
+(define-module (crates-io fr ey freya-native-core) #:use-module (crates-io))
+
+(define-public crate-freya-native-core-0.2.0 (c (n "freya-native-core") (v "0.2.0") (d (list (d (n "anymap") (r "^1.0.0-beta.2") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "dioxus-core") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "shipyard") (r "^0.6.2") (f (quote ("proc" "std" "parallel"))) (k 0)) (d (n "smallvec") (r "^1.13.1") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("sync" "rt-multi-thread" "time" "macros" "full"))) (d #t) (k 2)))) (h "0igb0rkvfk93zbn8zs14xiavbfp6rnr5vjh40ig2rwvlqbiis65s")))
+
+(define-public crate-freya-native-core-0.2.1 (c (n "freya-native-core") (v "0.2.1") (d (list (d (n "anymap") (r "^1.0.0-beta.2") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "dioxus-core") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "shipyard") (r "^0.6.2") (f (quote ("proc" "std" "parallel"))) (k 0)) (d (n "smallvec") (r "^1.13.1") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("sync" "rt-multi-thread" "time" "macros" "full"))) (d #t) (k 2)))) (h "1vgpba4672yag75lqh5h9d28bsh3sh3y6vpb8kx9rwk7ryn7ilmj")))
+

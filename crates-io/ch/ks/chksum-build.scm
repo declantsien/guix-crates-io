@@ -1,0 +1,10 @@
+(define-module (crates-io ch ks chksum-build) #:use-module (crates-io))
+
+(define-public crate-chksum-build-0.0.0 (c (n "chksum-build") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.66") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (f (quote ("clock" "std"))) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1rxpvw4ny31d598cqzk300hfndnbj67kn6hdhiivrnw6hw059a0s") (f (quote (("script" "anyhow") ("info") ("default" "info" "script")))) (y #t) (r "1.56.0")))
+
+(define-public crate-chksum-build-0.0.1 (c (n "chksum-build") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.66") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (f (quote ("clock" "std"))) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "04hdz2x4h232472sxg7pqzwf9swrqg8bknbdypphl64gb860ndlk") (f (quote (("script" "anyhow") ("info") ("default" "info" "script")))) (y #t) (r "1.58.0")))
+
+(define-public crate-chksum-build-0.0.2 (c (n "chksum-build") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.66") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (f (quote ("clock" "std"))) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "02gbabdpj79clddnd2wgr732karsgm5cz41fc8icl4fia0v9iqj7") (f (quote (("script" "anyhow") ("info") ("default" "info" "script")))) (y #t) (r "1.58.0")))
+
+(define-public crate-chksum-build-0.0.3 (c (n "chksum-build") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.66") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (f (quote ("clock" "std"))) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0b0v3flkzr6s7b1crjr44cz4jw1hbnbrni1ycy6kpnz6ksicg3qg") (f (quote (("script" "anyhow") ("info") ("default" "info" "script")))) (r "1.58.0")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ya xp yaxpeax-m16c) #:use-module (crates-io))
+
+(define-public crate-yaxpeax-m16c-0.0.1 (c (n "yaxpeax-m16c") (v "0.0.1") (d (list (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "yaxpeax-arch") (r "^0.0.2") (k 0)))) (h "10zf61l46akzfw2vls5lkjhcwip7mj6i1dhqb62w1k96lgnnnmca") (f (quote (("use-serde" "yaxpeax-arch/use-serde" "serde" "serde_derive") ("std") ("default" "std" "use-serde"))))))
+
+(define-public crate-yaxpeax-m16c-0.0.2 (c (n "yaxpeax-m16c") (v "0.0.2") (d (list (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "yaxpeax-arch") (r "^0.0.3") (k 0)))) (h "1hdhx4906w3571ll4si28i0z5gkw6w1jb19j0w433sj7m1j8j900") (f (quote (("use-serde" "yaxpeax-arch/use-serde" "serde" "serde_derive") ("std") ("default" "std" "use-serde"))))))
+
+(define-public crate-yaxpeax-m16c-0.0.3 (c (n "yaxpeax-m16c") (v "0.0.3") (d (list (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "yaxpeax-arch") (r "^0.0.4") (k 0)))) (h "1zj1wnv18wgnhpqks2h0hvinq1bybxlsvnbfkwrk3xccjzrsy8dm") (f (quote (("use-serde" "yaxpeax-arch/use-serde" "serde" "serde_derive") ("std") ("default" "std" "use-serde"))))))
+
+(define-public crate-yaxpeax-m16c-0.0.4 (c (n "yaxpeax-m16c") (v "0.0.4") (d (list (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "yaxpeax-arch") (r "^0.0.5") (k 0)))) (h "0cwjbirxgnlknx7j554lc3djjafyqk5rqn4lsmbcj7jp81bf828q") (f (quote (("use-serde" "yaxpeax-arch/use-serde" "serde" "serde_derive") ("std") ("default" "std" "use-serde"))))))
+
+(define-public crate-yaxpeax-m16c-0.1.0 (c (n "yaxpeax-m16c") (v "0.1.0") (d (list (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "yaxpeax-arch") (r "^0.2.2") (k 0)))) (h "0yxyi5bqf79kk04w6cxxcd4lmdhjrw1c16rb7qcv8gnzyc6dqxgy") (f (quote (("use-serde" "yaxpeax-arch/use-serde" "serde" "serde_derive") ("std") ("default" "std" "use-serde"))))))
+

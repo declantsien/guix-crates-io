@@ -1,0 +1,16 @@
+(define-module (crates-io ca pt captcha-a) #:use-module (crates-io))
+
+(define-public crate-captcha-a-0.1.0 (c (n "captcha-a") (v "0.1.0") (d (list (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)))) (h "0bvr345x31x2298z5s9sv9pi2rgsnd7pnv7dfvrayr76agsq51ww")))
+
+(define-public crate-captcha-a-0.1.1 (c (n "captcha-a") (v "0.1.1") (d (list (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)))) (h "0svrhi6rchcai1c9x9yazgvb2sn96xbj5jqzd759a6wgz2yvbhn2")))
+
+(define-public crate-captcha-a-0.1.2 (c (n "captcha-a") (v "0.1.2") (d (list (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)))) (h "03zcqdxnka9fij4g9g27ifwh8l65ayafvz8gcqb3s30k5cn4zkg8") (f (quote (("default")))) (s 2) (e (quote (("base64" "dep:base64"))))))
+
+(define-public crate-captcha-a-0.1.3 (c (n "captcha-a") (v "0.1.3") (d (list (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)))) (h "1hn7f7ag0d3rqimyrk8ryik6v8b57cjyff64fzmqvlad3wdkhbjp") (f (quote (("default")))) (s 2) (e (quote (("base64" "dep:base64"))))))
+
+(define-public crate-captcha-a-0.1.4 (c (n "captcha-a") (v "0.1.4") (d (list (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)))) (h "1yqk34k4hrzsj894p3p7rsyyyplfqig7g7yzwndvs25d7z0gp6xx") (f (quote (("default")))) (s 2) (e (quote (("base64" "dep:base64"))))))
+
+(define-public crate-captcha-a-0.1.5 (c (n "captcha-a") (v "0.1.5") (d (list (d (n "actix-web") (r "^4") (f (quote ("macros"))) (k 2)) (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 2)))) (h "0qb90wy3pdmn1jn7sph5n5asbwgk2a7lc6zcnx1vww6fzlsjp9fh") (f (quote (("default")))) (s 2) (e (quote (("base64" "dep:base64"))))))
+
+(define-public crate-captcha-a-0.1.6 (c (n "captcha-a") (v "0.1.6") (d (list (d (n "actix-web") (r "^4") (f (quote ("macros"))) (k 2)) (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.3") (f (quote ("png"))) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 2)))) (h "0rf7wrf7rjm8m1chj7z8rqf557ah1pgyaf5agrlvvvn834vnv7zd") (f (quote (("default")))) (s 2) (e (quote (("base64" "dep:base64"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io un c- unc-abi-client) #:use-module (crates-io))
+
+(define-public crate-unc-abi-client-0.1.0 (c (n "unc-abi-client") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.5") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unc-abi-client-impl") (r "^0.1.0") (d #t) (k 0)) (d (n "unc-abi-client-macros") (r "^0.1.0") (d #t) (k 0)))) (h "13iddfcxry8nxqrqn7xn99c3as8nzw5j9bbhg1zdl3xqx69cllgi") (r "1.75.0")))
+
+(define-public crate-unc-abi-client-0.10.0 (c (n "unc-abi-client") (v "0.10.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.5") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unc-abi-client-impl") (r "^0.10.0") (d #t) (k 0)) (d (n "unc-abi-client-macros") (r "^0.10.0") (d #t) (k 0)))) (h "17g2873022xs9b83hmk14i2f8w2lxnc1mf52lafw9hv0hnbbczk7") (r "1.75.0")))
+
+(define-public crate-unc-abi-client-0.10.1 (c (n "unc-abi-client") (v "0.10.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.5") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unc-abi-client-impl") (r "^0.10.1") (d #t) (k 0)) (d (n "unc-abi-client-macros") (r "^0.10.1") (d #t) (k 0)))) (h "15x87rj8s8xdr6df31c5fpm53nk8zvpiz89icdnlz1viadqs9rzm") (r "1.75.0")))
+

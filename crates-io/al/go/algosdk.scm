@@ -1,0 +1,4 @@
+(define-module (crates-io al go algosdk) #:use-module (crates-io))
+
+(define-public crate-algosdk-1.0.0 (c (n "algosdk") (v "1.0.0") (d (list (d (n "data-encoding") (r "^2.1.2") (d #t) (k 0)) (d (n "indexmap") (r "^1.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "ring") (r "^0.16.9") (d #t) (k 0)) (d (n "rmp") (r "^0.8.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "static_assertions") (r "^0.3.4") (d #t) (k 0)))) (h "0pdr3b0cgh5dc4cmkg4wr0vlfp6yrkkhj2z2p4jcsl937k2f1h7d")))
+

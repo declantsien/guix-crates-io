@@ -1,0 +1,8 @@
+(define-module (crates-io re de redeez) #:use-module (crates-io))
+
+(define-public crate-redeez-0.1.0 (c (n "redeez") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "redis") (r "^0.22.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("rt" "signal" "time" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "1xgcq3vgvn77cmsmngjvjidblnnx3lf8nx1zajw7is1qwq8zyr5p")))
+
+(define-public crate-redeez-0.1.1 (c (n "redeez") (v "0.1.1") (d (list (d (n "redis") (r "^0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("rt" "signal" "time" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "0hygirmhpp01k3mkwgg6w4a3rpvvx38l7cqdy97p2bf258cxkfq1")))
+
+(define-public crate-redeez-0.1.2 (c (n "redeez") (v "0.1.2") (d (list (d (n "redis") (r "^0.25.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("rt" "signal" "time" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "0n71ixyp36c21jdkkayvfrzqb27kqsk34wvlkz6vbi11fjk93f3i")))
+

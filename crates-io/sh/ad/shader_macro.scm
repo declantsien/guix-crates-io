@@ -1,0 +1,14 @@
+(define-module (crates-io sh ad shader_macro) #:use-module (crates-io))
+
+(define-public crate-shader_macro-0.1.0 (c (n "shader_macro") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.40") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "parsing" "printing"))) (d #t) (k 0)) (d (n "windows") (r "^0.39.0") (f (quote ("Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Hlsl"))) (d #t) (k 0)))) (h "0p65678v7v8pjc2s1xvpmrqbb7s46qzjbmcvphmqzbq58jy920br")))
+
+(define-public crate-shader_macro-0.2.0 (c (n "shader_macro") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.40") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "parsing" "printing"))) (d #t) (k 0)) (d (n "windows") (r "^0.39.0") (f (quote ("Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Hlsl"))) (d #t) (k 0)))) (h "1q9ws9zmgb4y7gwws0n8df88ha23yp9b65zlf5gvv0k6a53bwngb")))
+
+(define-public crate-shader_macro-0.3.0 (c (n "shader_macro") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0.40") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "parsing" "printing"))) (d #t) (k 0)) (d (n "windows") (r "^0.39.0") (f (quote ("Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Hlsl"))) (d #t) (k 0)))) (h "0nnaad80g9iixl3bjs3kws24lw1qz3khglajx1fzi1qszcyvcskp")))
+
+(define-public crate-shader_macro-0.4.0 (c (n "shader_macro") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1.0.40") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "parsing" "printing"))) (d #t) (k 0)) (d (n "windows") (r "^0.39.0") (f (quote ("Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Hlsl" "Win32_System_Diagnostics_Debug"))) (d #t) (k 0)))) (h "0nglmwp2hjsdckc5cacsyng0ywd6pmig64qyzmp0wv0al89ljwfx")))
+
+(define-public crate-shader_macro-0.4.1 (c (n "shader_macro") (v "0.4.1") (d (list (d (n "proc-macro2") (r "^1.0.40") (d #t) (k 0)) (d (n "quote") (r "^1.0.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.98") (f (quote ("full" "parsing" "printing"))) (d #t) (k 0)) (d (n "windows") (r "^0.39.0") (f (quote ("Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Hlsl" "Win32_System_Diagnostics_Debug" "Win32_System_Memory"))) (d #t) (k 0)))) (h "079m2mm98b90i9qskzh2q4sxwa8sqvlv05cayz1wlnl5myxnm4ay")))
+
+(define-public crate-shader_macro-0.4.2 (c (n "shader_macro") (v "0.4.2") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("full" "parsing" "printing"))) (d #t) (k 0)) (d (n "windows") (r "^0.44.0") (f (quote ("Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Hlsl" "Win32_System_Diagnostics_Debug" "Win32_System_Memory"))) (d #t) (k 0)))) (h "1d6v59x70vb8yywq015mrpkw160vqn5np6la6sdi5i55lffslfgz")))
+

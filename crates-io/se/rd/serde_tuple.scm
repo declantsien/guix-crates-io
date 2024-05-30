@@ -1,0 +1,24 @@
+(define-module (crates-io se rd serde_tuple) #:use-module (crates-io))
+
+(define-public crate-serde_tuple-0.1.0 (c (n "serde_tuple") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "162nmbji6x2id7602hp8srkbsj26x6g0kjba56b0vgv039wj1wny")))
+
+(define-public crate-serde_tuple-0.1.2 (c (n "serde_tuple") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1052a87iifghk24llk0chlkbw7d79vf2719rwibdn4nijqmay2zg")))
+
+(define-public crate-serde_tuple-0.2.0 (c (n "serde_tuple") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "01sz4nsc4sp035gks6wk4bpizmhl6zmvp0jsrnrk6fz4ksycy4nd") (y #t)))
+
+(define-public crate-serde_tuple-0.2.1 (c (n "serde_tuple") (v "0.2.1") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0r916vi4jfawp3bk6bc1i70y5l08giifa9xyw7zqj7kf98rsrw1l")))
+
+(define-public crate-serde_tuple-0.2.2 (c (n "serde_tuple") (v "0.2.2") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1mgvs38fv0llif7mxjdf8cx8yrkdlz0qz3ahpw6gyhirzlmkh5s7")))
+
+(define-public crate-serde_tuple-0.2.3 (c (n "serde_tuple") (v "0.2.3") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1knxn25kprr4jnzpmxkbia72iks4zhfdm5q9ilmr33iv5riqsc1v")))
+
+(define-public crate-serde_tuple-0.2.4 (c (n "serde_tuple") (v "0.2.4") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1k5f7zr60hkk9xil4l89ncrjy8pqmixa6gqjckiygkj7zv1yq11q")))
+
+(define-public crate-serde_tuple-0.2.5 (c (n "serde_tuple") (v "0.2.5") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0v9fvxi4iwg54vqvmlzw902jfgiipnck0nyhi8izl43gjg3rvdda")))
+
+(define-public crate-serde_tuple-0.3.0 (c (n "serde_tuple") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^0.4.26") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "02m0qn8vcvgqqmwxmrcr63s3y5qcm1kbm47pj3j036fzzv7zrhp1")))
+
+(define-public crate-serde_tuple-0.4.0 (c (n "serde_tuple") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "078a1n9v6lmmw5cp70b91whm3s90b9x0vjqcv1gsmsvzrr0034q4")))
+
+(define-public crate-serde_tuple-0.5.0 (c (n "serde_tuple") (v "0.5.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_tuple_macros") (r "^0.5") (d #t) (k 0)))) (h "09wls1b9lm432xfq65d0j0sp6xd4569ncfda68m5mw8n2awjbw7l")))
+

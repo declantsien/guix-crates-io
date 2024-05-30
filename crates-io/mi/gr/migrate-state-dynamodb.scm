@@ -1,0 +1,4 @@
+(define-module (crates-io mi gr migrate-state-dynamodb) #:use-module (crates-io))
+
+(define-public crate-migrate-state-dynamodb-0.1.0 (c (n "migrate-state-dynamodb") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "migrate-core") (r "^0.1") (d #t) (k 2)) (d (n "migrate-state") (r "^0.1") (d #t) (k 0)) (d (n "migrate-state-test") (r "^0.1") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.47") (k 0)) (d (n "rusoto_dynamodb") (r "^0.47") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.10") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1ix1x44laf1z4p2ry38sr5lyx8r1yxkl9m5821sd22pabhg06d19") (f (quote (("rustls" "rusoto_core/rustls" "rusoto_dynamodb/rustls") ("native-tls" "rusoto_core/native-tls" "rusoto_dynamodb/native-tls") ("default" "native-tls"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io tp -e tp-election-providers) #:use-module (crates-io))
+
+(define-public crate-tp-election-providers-2.0.0 (c (n "tp-election-providers") (v "2.0.0") (d (list (d (n "arithmetic") (r "^2.0.1") (k 0)) (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "tetcore-std") (r "^2.0.1") (k 0)) (d (n "tp-npos-elections") (r "^2.0.1") (k 0)) (d (n "tp-npos-elections") (r "^2.0.1") (d #t) (k 2)) (d (n "tp-runtime") (r "^2.0.1") (d #t) (k 2)))) (h "1ksq07649xbgqap35db8zn1z8s8sk9z7yfjgxy5h4hxvmav5b2mn") (f (quote (("std" "codec/std" "tetcore-std/std" "tp-npos-elections/std" "arithmetic/std") ("runtime-benchmarks") ("default" "std"))))))
+
+(define-public crate-tp-election-providers-2.0.2 (c (n "tp-election-providers") (v "2.0.2") (d (list (d (n "arithmetic") (r "^2.0.2") (k 0)) (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-npos-elections") (r "^2.0.2") (k 0)) (d (n "tp-npos-elections") (r "^2.0.2") (d #t) (k 2)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 2)))) (h "0x4ssl7dkfcclygiwjzwigpyl8mnl4n92pb1bza05fgrnrgk8163") (f (quote (("std" "codec/std" "tetcore-std/std" "tp-npos-elections/std" "arithmetic/std") ("runtime-benchmarks") ("default" "std"))))))
+

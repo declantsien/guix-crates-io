@@ -1,0 +1,20 @@
+(define-module (crates-io fi xe fixed_width_derive) #:use-module (crates-io))
+
+(define-public crate-fixed_width_derive-0.1.0 (c (n "fixed_width_derive") (v "0.1.0") (d (list (d (n "fixed_width") (r "^0.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.6") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^0.14.2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0ijkgphwmn9a47ng3jff6vx6ncxlpwcjkdylw960pl0c8vhg49qg")))
+
+(define-public crate-fixed_width_derive-0.2.0 (c (n "fixed_width_derive") (v "0.2.0") (d (list (d (n "fixed_width") (r "^0.2.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.6") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^0.14.2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0rqckb9cscix0gdil5f5iwj0rwkjkbiwpgs8iyspzl4s1x61ygwa")))
+
+(define-public crate-fixed_width_derive-0.3.0 (c (n "fixed_width_derive") (v "0.3.0") (d (list (d (n "fixed_width") (r "^0.3.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.27") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^0.15.26") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0w5pjynmkn43nrp43hl9gh9iyy1jk481l3yrq6vgn7zgj14zv98p")))
+
+(define-public crate-fixed_width_derive-0.4.0 (c (n "fixed_width_derive") (v "0.4.0") (d (list (d (n "fixed_width") (r "^0.3.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)))) (h "0f6yhmgjrhrpz943yd2nk1f8vg263pcjqbms9x4jrvlqz60m9lzf")))
+
+(define-public crate-fixed_width_derive-0.4.1 (c (n "fixed_width_derive") (v "0.4.1") (d (list (d (n "fixed_width") (r "^0.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)))) (h "047ayg04yil979gqi9wcpilk38cpwiibpjzp2hbrhcijy2cw317k")))
+
+(define-public crate-fixed_width_derive-0.4.2 (c (n "fixed_width_derive") (v "0.4.2") (d (list (d (n "fixed_width") (r "^0.4.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)))) (h "1mqpxm1w9qzapzs2scy1m580gwwlliyys1sd40g72icjpyd40arm")))
+
+(define-public crate-fixed_width_derive-0.5.0 (c (n "fixed_width_derive") (v "0.5.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)))) (h "10gydm3xqkd0qvax54gmbk9bbhzr3yhmljdf7hd37mmyg3q3wnrb")))
+
+(define-public crate-fixed_width_derive-0.5.1 (c (n "fixed_width_derive") (v "0.5.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "110f2vdkv6bzmkk44synw0mjlsg59fzmq98isz824xlsa14892kv")))
+
+(define-public crate-fixed_width_derive-0.6.0 (c (n "fixed_width_derive") (v "0.6.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.198") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "13mjhv89y3wcbpdmfh2n0cq3q7xzchhx4hv6ckyixpbih2v6lg4n")))
+

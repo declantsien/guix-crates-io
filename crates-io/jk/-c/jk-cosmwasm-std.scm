@@ -1,0 +1,4 @@
+(define-module (crates-io jk -c jk-cosmwasm-std) #:use-module (crates-io))
+
+(define-public crate-jk-cosmwasm-std-0.16.2 (c (n "jk-cosmwasm-std") (v "0.16.2") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "cosmwasm-crypto") (r "^0.16.2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "cosmwasm-derive") (r "^0.16.2") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.1") (d #t) (k 2)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.3.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uint") (r "^0.9.0") (d #t) (k 0)))) (h "0nlwnwjzd50rzm4bv4d11s2v9vsnn3sr8n5pprfhk8miiq352k5g") (f (quote (("stargate") ("staking") ("iterator") ("default" "iterator") ("backtraces"))))))
+

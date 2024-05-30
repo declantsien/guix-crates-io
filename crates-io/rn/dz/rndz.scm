@@ -1,0 +1,6 @@
+(define-module (crates-io rn dz rndz) #:use-module (crates-io))
+
+(define-public crate-rndz-0.1.2 (c (n "rndz") (v "0.1.2") (d (list (d (n "env_logger") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.27") (d #t) (k 0)) (d (n "protobuf-codegen-pure") (r "^2") (d #t) (k 1)) (d (n "socket2") (r "^0.4") (f (quote ("all"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "0c3dvj3i558mkqlm4ciqbxh0qc5nzsyj8i0gqw03fi5a68c1xm8h") (f (quote (("server" "tokio") ("default" "client" "server" "async" "env_logger" "structopt") ("client") ("async" "tokio")))) (y #t)))
+
+(define-public crate-rndz-0.1.3 (c (n "rndz") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^2.27") (d #t) (k 0)) (d (n "protobuf-codegen-pure") (r "^2") (d #t) (k 1)) (d (n "socket2") (r "^0.4") (f (quote ("all"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "1pb1s6grm3zm2ya82nk9vkwdd5nsy6h85nzv4s34sg1q5nw3xpdb") (f (quote (("server" "tokio") ("default" "client" "server" "async" "env_logger" "structopt") ("client") ("async" "tokio"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io si ng sing_macros) #:use-module (crates-io))
+
+(define-public crate-sing_macros-0.1.0 (c (n "sing_macros") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sing_parse") (r "^0.1") (d #t) (k 0)) (d (n "sing_util") (r "^0.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0vv0py2b4dvzj28fmfh36cr2wjksklf6s48vb5lzmr0mahxw6xqr")))
+
+(define-public crate-sing_macros-0.1.1 (c (n "sing_macros") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sing_parse") (r "^0.1") (d #t) (k 0)) (d (n "sing_util") (r "^0.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1363dqlqs3jjqzrk5mvn19d10vx2f38ir7q4x902zaw9hhlxqdds")))
+
+(define-public crate-sing_macros-0.1.2 (c (n "sing_macros") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sing_parse") (r "^0.1") (d #t) (k 0)) (d (n "sing_util") (r "^0.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "14gzgx7yahp26cdp5wy95gcbmbkiv3qs3j0ncfrv61ar2daa8hmv")))
+
+(define-public crate-sing_macros-0.1.3 (c (n "sing_macros") (v "0.1.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sing_parse") (r "^0.1") (d #t) (k 0)) (d (n "sing_util") (r "^0.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0czs2n21zz2hn7af34yv5s0ww0l9sjnqqbf44mrrf0bpl663h9y1")))
+

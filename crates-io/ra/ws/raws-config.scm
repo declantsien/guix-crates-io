@@ -1,0 +1,10 @@
+(define-module (crates-io ra ws raws-config) #:use-module (crates-io))
+
+(define-public crate-raws-config-0.0.0 (c (n "raws-config") (v "0.0.0") (d (list (d (n "aws-config") (r "^1.0") (d #t) (k 0)) (d (n "aws-types") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "show") (r "^0.0.0") (d #t) (k 0) (p "raws-show")))) (h "0hbkfsvhrv67jxn7np4nylkqpl0253qxx8rj4db1yxnf0fqx7pvq")))
+
+(define-public crate-raws-config-0.0.1 (c (n "raws-config") (v "0.0.1") (d (list (d (n "aws-config") (r "^1.0") (d #t) (k 0)) (d (n "aws-types") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "show") (r "^0.0.1") (d #t) (k 0) (p "raws-show")))) (h "0ksgalk8npmwjaxidcjn7pj6w8dc20arrjzv48lxx2ns66frvawn")))
+
+(define-public crate-raws-config-0.0.2 (c (n "raws-config") (v "0.0.2") (d (list (d (n "aws-config") (r "^1.0") (d #t) (k 0)) (d (n "aws-types") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "show") (r "^0.0.2") (d #t) (k 0) (p "raws-show")))) (h "1skqjk2qzjj2lz7nl5nai1jwaipn4qf10d1wi8zgm78jp3mcd915")))
+
+(define-public crate-raws-config-0.0.3 (c (n "raws-config") (v "0.0.3") (d (list (d (n "aws-config") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-account") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-dynamodb") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-ebs") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-ec2") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-eks") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-iam") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-pricing") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-sso") (r "^1.1") (d #t) (k 0)) (d (n "aws-sdk-sts") (r "^1.1") (d #t) (k 0)) (d (n "aws-types") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "show") (r "^0.0.3") (d #t) (k 0) (p "raws-show")))) (h "14z1drr6i3q6d68d63acsczidhxhy4vqdy4q6sr0pvjysypkwzyf")))
+

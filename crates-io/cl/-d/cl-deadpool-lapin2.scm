@@ -1,0 +1,4 @@
+(define-module (crates-io cl -d cl-deadpool-lapin2) #:use-module (crates-io))
+
+(define-public crate-cl-deadpool-lapin2-0.10.0 (c (n "cl-deadpool-lapin2") (v "0.10.0") (d (list (d (n "async-executor-trait") (r "^2.1") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.11") (k 2)) (d (n "deadpool") (r "^0.9.0") (f (quote ("managed"))) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "lapin") (r "^2.0") (k 0)) (d (n "serde_1") (r "^1.0.103") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "tokio") (r "^1.0") (f (quote ("sync" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-executor-trait") (r "^2.1.0") (o #t) (d #t) (k 0)))) (h "0xcwpvblva8mb900xgfhsnrm19i3z6nv08j8nnzpwr7d7pbcn3kv") (f (quote (("serde" "deadpool/serde" "serde_1") ("rt_tokio_1" "deadpool/rt_tokio_1" "tokio-executor-trait") ("rt_async-std_1" "deadpool/rt_async-std_1" "async-executor-trait") ("default" "rt_tokio_1")))) (y #t)))
+

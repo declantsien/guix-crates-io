@@ -1,0 +1,6 @@
+(define-module (crates-io ca ff caffe2op-localresponsenormalization) #:use-module (crates-io))
+
+(define-public crate-caffe2op-localresponsenormalization-0.1.4-alpha.0 (c (n "caffe2op-localresponsenormalization") (v "0.1.4-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-types") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-version") (r "^0.1.4-alpha.0") (d #t) (k 0)))) (h "0gsi67sc97p46pyzz61j9j7h40gifmj6fb6r4p6d0dffp1hpx8vf")))
+
+(define-public crate-caffe2op-localresponsenormalization-0.1.5-alpha.0 (c (n "caffe2op-localresponsenormalization") (v "0.1.5-alpha.0") (d (list (d (n "caffe2-common") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-context") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.5-alpha.0") (d #t) (k 0)))) (h "0krcw7as3fyckswq5vix053xybma35l8jvfac8biald7pzgg2g3a")))
+

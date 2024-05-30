@@ -1,0 +1,6 @@
+(define-module (crates-io ts ea tsearch) #:use-module (crates-io))
+
+(define-public crate-tsearch-0.1.3 (c (n "tsearch") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.20.2") (d #t) (k 0)))) (h "1fx5d3y31pbwp2jn0ngz7rmzbis9bnzr80hj8nr8mk0nwrszl5v0")))
+
+(define-public crate-tsearch-0.1.10 (c (n "tsearch") (v "0.1.10") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.20.2") (d #t) (k 0)))) (h "1x3m0h9vbzv4d2j79y6hn89301j8as28f8lh1ri8w2n9yydl90ky")))
+

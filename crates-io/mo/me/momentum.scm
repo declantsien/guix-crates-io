@@ -1,0 +1,6 @@
+(define-module (crates-io mo me momentum) #:use-module (crates-io))
+
+(define-public crate-momentum-0.1.0 (c (n "momentum") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fehler") (r "^1") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "1h3gpqsbadyn3bnj96bp8hfqfc7w057kby1znnww9w6rlldwikn5")))
+
+(define-public crate-momentum-0.2.0 (c (n "momentum") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "0h6mik4hhijiachm2cji2azqx4y98g7bszcdixn5pfkhavfv07yf")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io mp ro mprocs-vt100) #:use-module (crates-io))
+
+(define-public crate-mprocs-vt100-0.1.0 (c (n "mprocs-vt100") (v "0.1.0") (d (list (d (n "itoa") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nix") (r "^0.23.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0.131") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 2)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "vte") (r "^0.10.1") (d #t) (k 0)) (d (n "vte") (r "^0.10.1") (d #t) (k 2)))) (h "0iwygkbxhplyv1x158afnihr2z1m2wlzx4g4yfbzq0hy8mfkp461")))
+
+(define-public crate-mprocs-vt100-0.1.1 (c (n "mprocs-vt100") (v "0.1.1") (d (list (d (n "itoa") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nix") (r "^0.23.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0.131") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 2)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "vte") (r "^0.10.1") (d #t) (k 0)) (d (n "vte") (r "^0.10.1") (d #t) (k 2)))) (h "1nrp5b6b9dqlfl49jpyksvgygn74b0zp34bdzz0dpkz24wf6swlm")))
+

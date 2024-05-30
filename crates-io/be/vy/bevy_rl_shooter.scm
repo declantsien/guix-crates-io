@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_rl_shooter) #:use-module (crates-io))
+
+(define-public crate-bevy_rl_shooter-0.1.2 (c (n "bevy_rl_shooter") (v "0.1.2") (d (list (d (n "bevy") (r "^0.9.0") (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.15.0") (d #t) (k 0)) (d (n "bevy_mod_raycast") (r "^0.7.0") (d #t) (k 0)) (d (n "bevy_rapier3d") (r "^0.19.0") (f (quote ("simd-stable" "debug-render"))) (d #t) (k 0)) (d (n "bevy_rl") (r "^0.9.8-beta") (d #t) (k 0)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.0.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "image") (r "^0.24.1") (d #t) (k 0)) (d (n "names") (r "^0.14.0") (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "0x0i6npr3skmx10v8iviym482f7w9sky1xcafg93y690hpa0wix6")))
+

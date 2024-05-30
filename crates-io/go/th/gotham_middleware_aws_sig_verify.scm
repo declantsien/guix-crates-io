@@ -1,0 +1,6 @@
+(define-module (crates-io go th gotham_middleware_aws_sig_verify) #:use-module (crates-io))
+
+(define-public crate-gotham_middleware_aws_sig_verify-0.1.0 (c (n "gotham_middleware_aws_sig_verify") (v "0.1.0") (d (list (d (n "aws_sig_verify") (r "^0.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "gotham") (r "^0.4") (d #t) (k 0)) (d (n "http") (r "^0.1.17") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "ring") (r ">= 0.14") (d #t) (k 2)))) (h "131lp5ilj2w1pnpk63pkx95hhq3h37w7z4k3nm45yya0s6cmhjif") (f (quote (("gotham-04" "aws_sig_verify/ring-014" "futures/use_std") ("default" "gotham-04"))))))
+
+(define-public crate-gotham_middleware_aws_sig_verify-0.2.0 (c (n "gotham_middleware_aws_sig_verify") (v "0.2.0") (d (list (d (n "aws_sig_verify") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "gotham") (r "^0.4") (d #t) (k 0)) (d (n "http") (r "^0.1.17") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "ring") (r ">=0.14") (d #t) (k 2)))) (h "0d5qc3csjxz3wl68gnhz9hhkkkb8fc85m13zwvz12q3ry3p58qh3") (f (quote (("gotham-04" "aws_sig_verify/ring-014" "futures/use_std") ("default" "gotham-04"))))))
+

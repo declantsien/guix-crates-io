@@ -1,0 +1,16 @@
+(define-module (crates-io wt tu wttu) #:use-module (crates-io))
+
+(define-public crate-wttu-0.1.0 (c (n "wttu") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_autocomplete") (r "^0.4.0") (d #t) (k 0)) (d (n "clap_complete") (r "^4.0.3") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.3") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "04na6q8b8lwf99mda5lp3pqfdbi2bvgcmyv6xy45llpmlq73jvxv")))
+
+(define-public crate-wttu-0.1.1 (c (n "wttu") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_autocomplete") (r "^0.4.0") (d #t) (k 0)) (d (n "clap_complete") (r "^4.0.3") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.3") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "1nh6gq1f8fy7ridzf88k1b2ii9z7a6qq1krnsjnaswh51wmgf2vz")))
+
+(define-public crate-wttu-0.1.2 (c (n "wttu") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "0bp19m4llsqpd2189z31h1dpav8611ayfg3biwh76i65aav2jb1v")))
+
+(define-public crate-wttu-0.1.3 (c (n "wttu") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "11y8ax3g04ihxva5y9ryplq378hsvcacci3rlw0l43442gm56l05")))
+
+(define-public crate-wttu-0.1.4 (c (n "wttu") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "139bzpby2gvl65mwd95hwaf75302yls173skwxhbhqrz2xp98aad")))
+
+(define-public crate-wttu-0.1.5 (c (n "wttu") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "0qqdi2fwaddg8vd066ay1ddd89x02l6f6d83ywrnfzp2b1pvlg1k")))
+
+(define-public crate-wttu-0.1.6 (c (n "wttu") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "01in5dp7rwql32qad6r58m9wilgrfvkcds3hfd75limdxw0jppln")))
+

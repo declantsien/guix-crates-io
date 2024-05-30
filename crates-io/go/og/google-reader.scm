@@ -1,0 +1,6 @@
+(define-module (crates-io go og google-reader) #:use-module (crates-io))
+
+(define-public crate-google-reader-0.0.1 (c (n "google-reader") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.25.3") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.8.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1wqfzy4pkjrp8cx8b1z7304nyw3nk59gim7fnfdfp1z7qkdlfyxn")))
+
+(define-public crate-google-reader-0.0.2 (c (n "google-reader") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.25.3") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.8.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0schfw2l1bil3q82g0w018a6rasqsnnazw6nss11jj9d9vhf0ix6")))
+

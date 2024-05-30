@@ -1,0 +1,6 @@
+(define-module (crates-io it er iterative_methods) #:use-module (crates-io))
+
+(define-public crate-iterative_methods-0.2.0 (c (n "iterative_methods") (v "0.2.0") (d (list (d (n "eigenvalues") (r "^0.3.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.19.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.0") (k 0)) (d (n "quickcheck") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.0") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.0") (d #t) (k 0)) (d (n "streaming-iterator") (r "^0.1.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1gmkn58nvly8n5wq40p7l1lpagyaws1fsd3a2prh0w0gwr13dfnm")))
+
+(define-public crate-iterative_methods-0.2.1 (c (n "iterative_methods") (v "0.2.1") (d (list (d (n "eigenvalues") (r "^0.3.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.19.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.0") (k 0)) (d (n "quickcheck") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.0") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.0") (d #t) (k 0)) (d (n "streaming-iterator") (r "^0.1.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "0qh0pgxamdczhby29wbkn71ccwwxh4q5qspqdf5zvk3ihklz294f")))
+

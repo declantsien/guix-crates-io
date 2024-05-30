@@ -1,0 +1,10 @@
+(define-module (crates-io as ci asciimath-unicode) #:use-module (crates-io))
+
+(define-public crate-asciimath-unicode-0.1.0 (c (n "asciimath-unicode") (v "0.1.0") (d (list (d (n "asciimath-parser") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive" "wrap_help"))) (o #t) (d #t) (k 0)) (d (n "emojis") (r "^0.5.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0iln7qkhfb95f0sy9xh6xb6nr3rg3ihjsfk9yg3zpbp2zjb23p16") (f (quote (("binary" "clap"))))))
+
+(define-public crate-asciimath-unicode-0.1.1 (c (n "asciimath-unicode") (v "0.1.1") (d (list (d (n "asciimath-parser") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive" "wrap_help"))) (o #t) (d #t) (k 0)) (d (n "emojis") (r "^0.5.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0nnjssdqc4482hf36hz0awk97kkjmgbl5jsbkzizx9l4f9n0khy1") (f (quote (("binary" "clap"))))))
+
+(define-public crate-asciimath-unicode-0.1.2 (c (n "asciimath-unicode") (v "0.1.2") (d (list (d (n "asciimath-parser") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive" "wrap_help"))) (o #t) (d #t) (k 0)) (d (n "emojis") (r "^0.5.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1mdl35vi0dmpgr71qrxnwfl3bh84yrrk9jdin51sbzj4cg3s4px1") (f (quote (("binary" "clap"))))))
+
+(define-public crate-asciimath-unicode-0.1.3 (c (n "asciimath-unicode") (v "0.1.3") (d (list (d (n "asciimath-parser") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive" "wrap_help"))) (o #t) (d #t) (k 0)) (d (n "emojis") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1asmngpvx2s7zg9gh8kxswq5icarp901gpz2rp7nyjqk4yacx92z") (f (quote (("binary" "clap"))))))
+

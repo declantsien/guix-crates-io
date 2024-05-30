@@ -1,0 +1,6 @@
+(define-module (crates-io dy na dynamic_ocl) #:use-module (crates-io))
+
+(define-public crate-dynamic_ocl-0.1.0-alpha (c (n "dynamic_ocl") (v "0.1.0-alpha") (d (list (d (n "const-cstr") (r "^0.3.0") (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.13.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.9") (o #t) (d #t) (k 0)) (d (n "tynm") (r "^0.1.1") (o #t) (d #t) (k 0)))) (h "18fl3qc4jkd98c4z1jcphq0a0a9sbh8x91nz6nwk3mmjgivpy1lx") (f (quote (("safe" "thiserror" "generic-array" "log" "tynm") ("default" "safe"))))))
+
+(define-public crate-dynamic_ocl-0.1.0-alpha.1 (c (n "dynamic_ocl") (v "0.1.0-alpha.1") (d (list (d (n "const-cstr") (r "^0.3.0") (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.13.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.9") (o #t) (d #t) (k 0)) (d (n "tynm") (r "^0.1.1") (o #t) (d #t) (k 0)))) (h "0shd6dj5zdkh1ipbn3q5h4rrq89wn733f80zknnmk0rqbvqm0qfz") (f (quote (("safe" "thiserror" "generic-array" "log" "tynm") ("default" "safe"))))))
+

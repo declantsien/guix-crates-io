@@ -1,0 +1,10 @@
+(define-module (crates-io r- ep r-epub) #:use-module (crates-io))
+
+(define-public crate-r-epub-0.1.0 (c (n "r-epub") (v "0.1.0") (d (list (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "overlapped-lists"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "zip") (r "^1.2.2") (f (quote ("deflate" "deflate64"))) (k 0)))) (h "10c46zs06122870yicq9jmcz27h198qc3cf4cz3ddpbwavb6wyv2")))
+
+(define-public crate-r-epub-0.2.0 (c (n "r-epub") (v "0.2.0") (d (list (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "overlapped-lists"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "zip") (r "^1.2.2") (f (quote ("deflate" "deflate64"))) (k 0)))) (h "0gd67zjq1flirq1byk7sk5vqbwa0v9ps4f4wiqiaqb7f66k214aa")))
+
+(define-public crate-r-epub-0.2.1 (c (n "r-epub") (v "0.2.1") (d (list (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "overlapped-lists"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "zip") (r "^1.2.2") (f (quote ("deflate" "deflate64"))) (k 0)))) (h "1jjwn46vifbl3k1waxcz9qx4c1agmdffsv5x79qijkb4h3zjlhgd")))
+
+(define-public crate-r-epub-0.2.2 (c (n "r-epub") (v "0.2.2") (d (list (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "overlapped-lists"))) (d #t) (k 0)) (d (n "scraper") (r "^0.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "zip") (r "^1.2.2") (f (quote ("deflate" "deflate64"))) (k 0)))) (h "0phwp2l5yppzgd144ii0s5m05zv2dmnbmlypgsidjhwk67bw191l")))
+

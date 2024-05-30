@@ -1,0 +1,8 @@
+(define-module (crates-io ne tg netgauze-ipfix-code-generator) #:use-module (crates-io))
+
+(define-public crate-netgauze-ipfix-code-generator-0.1.0 (c (n "netgauze-ipfix-code-generator") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "blocking"))) (d #t) (k 0)) (d (n "roxmltree") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0zcmpkc0lk16vryfg2wwfyb9adcb4nr4n76vm9dym3swhq58bgm6")))
+
+(define-public crate-netgauze-ipfix-code-generator-0.2.0 (c (n "netgauze-ipfix-code-generator") (v "0.2.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "blocking"))) (d #t) (k 0)) (d (n "roxmltree") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "01npi3iz4ppnlkiybcljraw79rhia3zqmjnvav839wxqqjlqmagq")))
+
+(define-public crate-netgauze-ipfix-code-generator-0.3.0 (c (n "netgauze-ipfix-code-generator") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "blocking"))) (d #t) (k 0)) (d (n "roxmltree") (r "^0.19") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1r10mdfvc43w7hh76c0q9p2zy66x39wka32gpdwpl0m2q7qcgxa2")))
+

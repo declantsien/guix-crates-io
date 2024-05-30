@@ -1,0 +1,4 @@
+(define-module (crates-io es p3 esp32-wroom-rp) #:use-module (crates-io))
+
+(define-public crate-esp32-wroom-rp-0.3.1 (c (n "esp32-wroom-rp") (v "0.3.1") (d (list (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.5") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (d #t) (k 0)) (d (n "defmt-rtt") (r "^0.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8.0") (d #t) (k 2)) (d (n "heapless") (r "^0.7.16") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-rtt"))) (d #t) (k 0)))) (h "01bzwk2kj7qhz9jv4a41drvcjif9qm9680pxai5wbwcf57fm0cwd") (f (quote (("defmt-warn") ("defmt-trace") ("defmt-info") ("defmt-error") ("defmt-default") ("defmt-debug") ("default" "defmt-default"))))))
+

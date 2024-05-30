@@ -1,0 +1,4 @@
+(define-module (crates-io ig d_ igd_async_std) #:use-module (crates-io))
+
+(define-public crate-igd_async_std-0.12.4 (c (n "igd_async_std") (v "0.12.4") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (o #t) (d #t) (k 0)) (d (n "attohttpc") (r "^0.19") (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "http") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 2)) (d (n "surf") (r "^2.3.2") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "xmltree") (r "^0.10") (d #t) (k 0)))) (h "1hvnldbn9y60lja5m2h7qa90q4s2bcl3zbhpqwpslk9kqj5ip2yh") (f (quote (("default") ("aio" "futures" "async-std" "surf" "bytes" "http"))))))
+

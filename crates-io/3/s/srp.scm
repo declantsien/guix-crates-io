@@ -1,0 +1,32 @@
+(define-module (crates-io #{3}# s srp) #:use-module (crates-io))
+
+(define-public crate-srp-0.1.0 (c (n "srp") (v "0.1.0") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "0ww5a9j81jiv6gdb70qra9cf5pwfm4sbp73m68masibmb1r86l93")))
+
+(define-public crate-srp-0.1.1 (c (n "srp") (v "0.1.1") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "1q2dhbrx190887da3ckr1khr5p4hxdhz659yazyx3i5a933vf7h3")))
+
+(define-public crate-srp-0.2.0 (c (n "srp") (v "0.2.0") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "sha-1") (r "^0.4") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "18nhgqm4mpasbl0zpp33xphzp8lq26vnvn4s8y45pa5889qvqidf")))
+
+(define-public crate-srp-0.2.1 (c (n "srp") (v "0.2.1") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "sha-1") (r "^0.4") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "0wh4wp00xbskvw54xiimwj108841wblxvsppfqmsxp2yyhdm7vaw")))
+
+(define-public crate-srp-0.2.2 (c (n "srp") (v "0.2.2") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "sha-1") (r "^0.4") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "1f4axv9ahs195s1mj9adl7cpfwgwn7lg2h74p65zhibkaim15j6j")))
+
+(define-public crate-srp-0.2.3 (c (n "srp") (v "0.2.3") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "sha-1") (r "^0.4") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "1zc7g4dlqr2fjq2dxjr36k7cfwd5125vmxdfbn216ivc8g4vcz62")))
+
+(define-public crate-srp-0.2.4 (c (n "srp") (v "0.2.4") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "sha-1") (r "^0.4") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "0z3rckfwpv65ssx1x9id9g0v74q93yf0131n0i1hci8jcpbnyhlh")))
+
+(define-public crate-srp-0.2.5 (c (n "srp") (v "0.2.5") (d (list (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "generic-array") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "sha-1") (r "^0.4") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 2)))) (h "0pxxm3shijmk2hbfrv20ifzp3qwyhg4yjcf1kcknhfnj6r6pi11d")))
+
+(define-public crate-srp-0.3.0 (c (n "srp") (v "0.3.0") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "02p1b4r7sbrx1fpj4b0rch4w4235z0qbgc3sd6fv8i0738ck3b8h")))
+
+(define-public crate-srp-0.4.0 (c (n "srp") (v "0.4.0") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "1qxy6vbjks52yfzlsqjk00z6qip7rmd9d4lf7109jmxf1mdmj4vb")))
+
+(define-public crate-srp-0.4.2 (c (n "srp") (v "0.4.2") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "1dl5dyb63niqy5vh7gm6v884byzaz0743ic3imx5syagf6139vlz")))
+
+(define-public crate-srp-0.4.3 (c (n "srp") (v "0.4.3") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "1sdrqahsw117amphksz03j4mqzmgivaydvj7w39fjf5vj1s0vg19")))
+
+(define-public crate-srp-0.4.1 (c (n "srp") (v "0.4.1") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "0pqpyvw20sl5y8g7k7r3a0q0m9va3b26lanihd754pyvbd0xqdkd")))
+
+(define-public crate-srp-0.5.0 (c (n "srp") (v "0.5.0") (d (list (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "sha-1") (r "^0.9") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (d #t) (k 2)))) (h "0cbwrx1s5lfjcqgj77dlk906pnw19xb41j1zb357w5b67b2hzhlz")))
+
+(define-public crate-srp-0.6.0 (c (n "srp") (v "0.6.0") (d (list (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "sha-1") (r "^0.10") (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 2)) (d (n "subtle") (r "^2.4") (d #t) (k 0)))) (h "14w1n7x2yb6gqgxfs55b5sc650ffxvqzqzxsrhai7ar9kc241pac") (r "1.56")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io i3 -l i3-lock-workspace) #:use-module (crates-io))
+
+(define-public crate-i3-lock-workspace-0.1.0 (c (n "i3-lock-workspace") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.9.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-i3ipc") (r "^0.16.0") (d #t) (k 0)))) (h "1ivzf5gncb85pjyachlkls5f1iy443xk2rhva7sw9cdys24r0w40")))
+
+(define-public crate-i3-lock-workspace-0.2.0 (c (n "i3-lock-workspace") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.9.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-i3ipc") (r "^0.16.0") (d #t) (k 0)))) (h "0gm8an0dsbizk5fxjy0876wx33hhxdqr0hc1rzq0iyj4m27lrdi9")))
+
+(define-public crate-i3-lock-workspace-0.3.0 (c (n "i3-lock-workspace") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.9.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-i3ipc") (r "^0.16.0") (d #t) (k 0)))) (h "141mxnh7andddg6vyw9jjfl5i7g2n89jphk2gyqc36p2xr36lf49")))
+
+(define-public crate-i3-lock-workspace-0.4.0 (c (n "i3-lock-workspace") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.9.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-i3ipc") (r "^0.16.0") (d #t) (k 0)))) (h "1bdbjz3xg3kz5brphnhmazh0jbmlmlz6aqwfdihh116hm8lrj804")))
+

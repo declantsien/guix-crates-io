@@ -1,0 +1,8 @@
+(define-module (crates-io an yc anychain-polkadot) #:use-module (crates-io))
+
+(define-public crate-anychain-polkadot-0.1.0 (c (n "anychain-polkadot") (v "0.1.0") (d (list (d (n "anychain-core") (r "^0.1.1") (d #t) (k 0)) (d (n "base58") (r "^0.2") (d #t) (k 0)) (d (n "ed25519-dalek-fiat") (r "^0.1.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.6.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "sp-core") (r "^24.0.0") (d #t) (k 0)))) (h "1nnxnk3kkhvlsvj8dlcbz840ms3387j0mcgzizmzw6cw5ma6lw6m")))
+
+(define-public crate-anychain-polkadot-0.1.1 (c (n "anychain-polkadot") (v "0.1.1") (d (list (d (n "anychain-core") (r "^0.1.3") (d #t) (k 0)) (d (n "base58") (r "^0.2") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^2.1.1") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.6.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "sp-core") (r "^28.0.0") (d #t) (k 0)))) (h "0vvqzcr1521j0a53ys9apgkgcr3pqlbaqlz8v1bi513f29r2xa39")))
+
+(define-public crate-anychain-polkadot-0.1.2 (c (n "anychain-polkadot") (v "0.1.2") (d (list (d (n "anychain-core") (r "^0.1.5") (d #t) (k 0)) (d (n "base58") (r "^0.2") (d #t) (k 0)) (d (n "blake2b_simd") (r "^1.0.0") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^2.1.1") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.7.1") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.6.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "sp-core") (r "^30.0.0") (d #t) (k 0)))) (h "1p7x6wla1imknwxw26s06qcvcgvggk888vyww9mxlsgn1fyw0a3s")))
+

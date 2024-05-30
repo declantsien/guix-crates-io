@@ -1,0 +1,18 @@
+(define-module (crates-io en al enalang_ir) #:use-module (crates-io))
+
+(define-public crate-enalang_ir-0.3.3 (c (n "enalang_ir") (v "0.3.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0clm9v4jnc1liplsbbl24ikh7qk7mar0ckzmj1bjzvcv8v22mnwc")))
+
+(define-public crate-enalang_ir-0.3.4 (c (n "enalang_ir") (v "0.3.4") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0936q8v80b8rlnswznrav52sak7z5w8rnkzhspl134abpnl94aac")))
+
+(define-public crate-enalang_ir-0.4.0 (c (n "enalang_ir") (v "0.4.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "ordered-float") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0dpcfi305kgsbqlxssc8hgk52wwlql4zqwj0wl2dw59c5z1a7v22")))
+
+(define-public crate-enalang_ir-0.5.0 (c (n "enalang_ir") (v "0.5.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "ordered-float") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "17jh2cs901hffkss03aq8xkkqhx6zxzs29ksx24z35arrpq4g4m5") (y #t)))
+
+(define-public crate-enalang_ir-0.5.1 (c (n "enalang_ir") (v "0.5.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "ordered-float") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0614ikw0d6r3d5i8y56lmwk4mc81x469wa95akb9ddjfki53xd47")))
+
+(define-public crate-enalang_ir-0.5.2 (c (n "enalang_ir") (v "0.5.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "ordered-float") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0r1bhhncfixq3spvp9ilk86fzvj7im1lmwplhfl4ilpmnzjwk4k0")))
+
+(define-public crate-enalang_ir-0.6.0 (c (n "enalang_ir") (v "0.6.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "ordered-float") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "13fa956cs479a8zcvayv101gs8ilp9xc9nazp1i0wdn891nldxs6")))
+
+(define-public crate-enalang_ir-0.6.1 (c (n "enalang_ir") (v "0.6.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "flexstr") (r "^0.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "ordered-float") (r "^3.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1byfji9cs85h7hblvyxihaq8swmcfncmyfs8w5kbwxwxiqszc5gb")))
+

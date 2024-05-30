@@ -1,0 +1,12 @@
+(define-module (crates-io cp u- cpu-utils) #:use-module (crates-io))
+
+(define-public crate-cpu-utils-0.7.0 (c (n "cpu-utils") (v "0.7.0") (d (list (d (n "ccp-shared") (r "^0.7.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0lwxvn98ifvlhp6iwax8bgnsxizsb22ahw49lbk9g6mbrgg64g83")))
+
+(define-public crate-cpu-utils-0.7.1 (c (n "cpu-utils") (v "0.7.1") (d (list (d (n "ccp-shared") (r "^0.7.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "059ji768jy81acw6gwj425jysfxd6dsgi4m17vx1hg96i8286y33")))
+
+(define-public crate-cpu-utils-0.8.0 (c (n "cpu-utils") (v "0.8.0") (d (list (d (n "ccp-shared") (r "^0.8.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0abxj4h11sh0j8gijxjs3m017k4mb54x5z98n7m71x3i7afc650j")))
+
+(define-public crate-cpu-utils-0.9.0 (c (n "cpu-utils") (v "0.9.0") (d (list (d (n "ccp-shared") (r "^0.9.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1nzy76zf34mzvfjcpshfisyi4sqfw4jqn1rm213pzgww6ww8kywf")))
+
+(define-public crate-cpu-utils-0.10.0 (c (n "cpu-utils") (v "0.10.0") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1mq9ihl2m12zkr3i009ykrw79qiqkinjqjw8y02qwk1z910ky3ld")))
+

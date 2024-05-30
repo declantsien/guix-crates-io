@@ -1,0 +1,4 @@
+(define-module (crates-io hd -e hd-ed25519) #:use-module (crates-io))
+
+(define-public crate-hd-ed25519-0.0.1 (c (n "hd-ed25519") (v "0.0.1") (d (list (d (n "clear_on_drop") (r "^0.2") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^1.0.0-pre.0") (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.0") (k 0)) (d (n "rand") (r "^0.5") (f (quote ("i128_support"))) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "1p8i3b9dc4pb5gjfamgqr7npsvbf8rbsk9miqci6nk8b2vci0ww5") (f (quote (("u64_backend" "curve25519-dalek/u64_backend" "ed25519-dalek/u64_backend") ("u32_backend" "curve25519-dalek/u32_backend" "ed25519-dalek/u32_backend") ("std" "curve25519-dalek/std") ("default" "std" "u64_backend") ("avx2_backend" "curve25519-dalek/avx2_backend" "ed25519-dalek/avx2_backend") ("alloc" "curve25519-dalek/alloc"))))))
+

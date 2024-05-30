@@ -1,0 +1,4 @@
+(define-module (crates-io we bp webpki-ccadb) #:use-module (crates-io))
+
+(define-public crate-webpki-ccadb-0.1.0 (c (n "webpki-ccadb") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("clock"))) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "pki-types") (r "^1") (k 0) (p "rustls-pki-types")) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls-manual-roots"))) (d #t) (k 0)) (d (n "rustls-pemfile") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 0)) (d (n "webpki") (r "^0.102") (f (quote ("alloc"))) (d #t) (k 0) (p "rustls-webpki")) (d (n "x509-parser") (r "^0.15.1") (d #t) (k 0)) (d (n "yasna") (r "^0.5.2") (d #t) (k 0)))) (h "1vq8jj07zbb7bi5f3wnrxg2bika0rfqpw1h7bny9aizw9zds7rwh")))
+

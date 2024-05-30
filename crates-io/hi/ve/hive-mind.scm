@@ -1,0 +1,24 @@
+(define-module (crates-io hi ve hive-mind) #:use-module (crates-io))
+
+(define-public crate-hive-mind-0.1.0 (c (n "hive-mind") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "07i4sh69j8zs4mhgs5h8vagmxwbm4qc1d7c42bxw8igcx0af5c8y")))
+
+(define-public crate-hive-mind-0.1.1 (c (n "hive-mind") (v "0.1.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "05723y1l1250i5bb3dx853v0kql3z0fqswylm28lyxwk4ykdnvpm")))
+
+(define-public crate-hive-mind-0.1.2 (c (n "hive-mind") (v "0.1.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "1sc0hibqqsy9bkpblc83spjh6apvzq5znr0f93blzss9f3dpf5bl")))
+
+(define-public crate-hive-mind-0.1.3 (c (n "hive-mind") (v "0.1.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "13svlidnr5cmkrh5aax5jq6na02ndrhc94q9ygj8f3qpsb4k0wrp")))
+
+(define-public crate-hive-mind-0.1.4 (c (n "hive-mind") (v "0.1.4") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "1gi1hd68807iqcpgzr2ln6kf5z86a0bym71csi630ckivlg3m3ip")))
+
+(define-public crate-hive-mind-0.1.5 (c (n "hive-mind") (v "0.1.5") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "0z4jhz7fzq3lmvgsb7897zp2q87wisagwdal2qnpmlwkfrmicdxr")))
+
+(define-public crate-hive-mind-0.1.6 (c (n "hive-mind") (v "0.1.6") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "1h93fv3ag0ha6ri51zdg0cj7q65h7cqg7vxn7vfnpk2nvdv0vkcb")))
+
+(define-public crate-hive-mind-0.1.7 (c (n "hive-mind") (v "0.1.7") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)))) (h "1m5d7y83d01szs77n1qkvr63m5mbdd10l1d90dh9gwl03a5vshc8")))
+
+(define-public crate-hive-mind-0.1.8 (c (n "hive-mind") (v "0.1.8") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0vwbq9dcs1yfhifrnhxrp8k2g92a6qni8hw1c8zy0k64mdnnhx73")))
+
+(define-public crate-hive-mind-0.1.9 (c (n "hive-mind") (v "0.1.9") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1clncfssj1qs0xnqc6fbm1iddk68nm4d6hak0y72yy3n8krw646s")))
+
+(define-public crate-hive-mind-0.1.10 (c (n "hive-mind") (v "0.1.10") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pot") (r "^3.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("rc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.46") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0ix8s7jwxfjlyw99ifarwlm2dpzp0rp0pjcpsxplgx2ix2imcjcs")))
+

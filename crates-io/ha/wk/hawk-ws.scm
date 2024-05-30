@@ -1,0 +1,4 @@
+(define-module (crates-io ha wk hawk-ws) #:use-module (crates-io))
+
+(define-public crate-hawk-ws-0.1.1 (c (n "hawk-ws") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "httparse") (r "^1.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "libz-sys") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "openssl") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "sha1") (r "^0.2") (d #t) (k 0)) (d (n "slab") (r "^0.3") (d #t) (k 0)) (d (n "term") (r "^0.4") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 2)) (d (n "url") (r "^1.5") (d #t) (k 0)))) (h "1brdl0sihzv2b4pds269wb9lkvdma8kyhw4q7slvy134xphz73d0") (f (quote (("ssl" "openssl") ("permessage-deflate" "libz-sys" "libc") ("default"))))))
+

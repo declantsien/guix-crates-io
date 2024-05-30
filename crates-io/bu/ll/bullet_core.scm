@@ -1,0 +1,6 @@
+(define-module (crates-io bu ll bullet_core) #:use-module (crates-io))
+
+(define-public crate-bullet_core-0.1.0 (c (n "bullet_core") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.6.3") (d #t) (k 0)) (d (n "lalrpop") (r "^0.13.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.13.1") (d #t) (k 0)) (d (n "math_traits") (r "^0.1.1") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "simd") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)) (d (n "tuple") (r "^0.3") (f (quote ("impl_simd"))) (d #t) (k 0)))) (h "1kh10lglhm3xjr73zwnmyj0q8vqmx1km9x99r6qv4vm8k9ycqk0d")))
+
+(define-public crate-bullet_core-0.1.1 (c (n "bullet_core") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.6.3") (d #t) (k 0)) (d (n "lalrpop") (r "^0.13.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.13.1") (d #t) (k 0)) (d (n "math_traits") (r "^0.1.1") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "simd") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)) (d (n "tuple") (r "^0.3") (f (quote ("impl_simd"))) (d #t) (k 0)))) (h "1gzjfajgx0pvimdggyl1vfg0iza92k0y0n8cqbawd2vib0qsfimp")))
+

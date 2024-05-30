@@ -1,0 +1,16 @@
+(define-module (crates-io em be embedded-graphics-web-simulator) #:use-module (crates-io))
+
+(define-public crate-embedded-graphics-web-simulator-0.1.0 (c (n "embedded-graphics-web-simulator") (v "0.1.0") (d (list (d (n "embedded-graphics") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("console" "CanvasRenderingContext2d" "Document" "Element" "HtmlCanvasElement" "Window"))) (d #t) (k 0)))) (h "0nxrmcalgjfw869vmdrljzxbcgx0gz28nrgsqb0j4z54a4srspw6") (y #t)))
+
+(define-public crate-embedded-graphics-web-simulator-0.1.1 (c (n "embedded-graphics-web-simulator") (v "0.1.1") (d (list (d (n "embedded-graphics") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("console" "CanvasRenderingContext2d" "Document" "Element" "HtmlCanvasElement" "Window"))) (d #t) (k 0)))) (h "192mx4m5q6vcidppgw49aahgj5ahb0mrd6hrcl1911h8xdsy6vrl") (y #t)))
+
+(define-public crate-embedded-graphics-web-simulator-0.1.2 (c (n "embedded-graphics-web-simulator") (v "0.1.2") (d (list (d (n "embedded-graphics") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("console" "CanvasRenderingContext2d" "Document" "Element" "HtmlCanvasElement" "Window"))) (d #t) (k 0)))) (h "0803is6n38wh1p7lwvycfsqlna4q9xq5h3hm93xbnf732qy3l89b")))
+
+(define-public crate-embedded-graphics-web-simulator-0.2.0 (c (n "embedded-graphics-web-simulator") (v "0.2.0") (d (list (d (n "embedded-graphics") (r "^0.7.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("console" "CanvasRenderingContext2d" "Document" "Element" "HtmlCanvasElement" "Window"))) (d #t) (k 0)))) (h "1rayn5g5afivr9zh1n26wwc637hwcssdvcjadxgq2cf5qmmw4nm5")))
+
+(define-public crate-embedded-graphics-web-simulator-0.2.1 (c (n "embedded-graphics-web-simulator") (v "0.2.1") (d (list (d (n "embedded-graphics") (r "^0.7.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("console" "CanvasRenderingContext2d" "Document" "Element" "HtmlCanvasElement" "Window"))) (d #t) (k 0)))) (h "1z0p1vgpxj9d3a231sbw7z87f2gg5knqfs9gmx8pvfiqcsilijrr")))
+
+(define-public crate-embedded-graphics-web-simulator-0.3.0 (c (n "embedded-graphics-web-simulator") (v "0.3.0") (d (list (d (n "embedded-graphics") (r "^0.7.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("CanvasRenderingContext2d" "console" "Document" "Element" "HtmlCanvasElement" "ImageData" "Window"))) (d #t) (k 0)))) (h "0rqzzzqzwrj5qh2d2dra6sr0sgh3azqknayfms8980239nlfsl2y")))
+
+(define-public crate-embedded-graphics-web-simulator-0.4.0 (c (n "embedded-graphics-web-simulator") (v "0.4.0") (d (list (d (n "embedded-graphics") (r "^0.8.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("CanvasRenderingContext2d" "console" "Document" "Element" "HtmlCanvasElement" "ImageData" "Window"))) (d #t) (k 0)))) (h "0gs6m4ac7pgnj3x4b60s57vf4a042lfpbian8kzgfibgbqpgk2jn")))
+

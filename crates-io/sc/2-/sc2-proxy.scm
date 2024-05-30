@@ -1,0 +1,4 @@
+(define-module (crates-io sc #{2-}# sc2-proxy) #:use-module (crates-io))
+
+(define-public crate-sc2-proxy-0.1.0 (c (n "sc2-proxy") (v "0.1.0") (d (list (d (n "bufstream") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "portpicker") (r "^0.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 0)) (d (n "protobuf") (r "^2.3.0") (f (quote ("with-bytes"))) (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "sc2-proto") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "shellexpand") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "websocket") (r "^0.22.2") (d #t) (k 0)))) (h "16w53gsl2icrcrlv08g05xhjdayh495zdr9ibq95415xdsxf5m2l")))
+

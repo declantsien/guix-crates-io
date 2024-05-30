@@ -1,0 +1,6 @@
+(define-module (crates-io zi p- zip-password-finder) #:use-module (crates-io))
+
+(define-public crate-zip-password-finder-0.5.1 (c (n "zip-password-finder") (v "0.5.1") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.15.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "zip") (r "^0.6.3") (d #t) (k 0)))) (h "1b731qczis9vs8i5dsgfsy321rm9rg5cazjxii1j8wm9jd65ygbj")))
+
+(define-public crate-zip-password-finder-0.8.0 (c (n "zip-password-finder") (v "0.8.0") (d (list (d (n "ahash") (r "^0.8.11") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("cargo_bench_support" "html_reports"))) (k 2)) (d (n "crossbeam-channel") (r "^0.5.13") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (f (quote ("reset"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "pbkdf2") (r "^0.12.2") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "zip") (r "^2.0.0") (d #t) (k 0)))) (h "1lhlm6f3babdcghb2b6pxg27lakb9p6wbky0930pzyf7szy2n9cc")))
+

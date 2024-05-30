@@ -1,0 +1,8 @@
+(define-module (crates-io ca ff caffe2-miopen) #:use-module (crates-io))
+
+(define-public crate-caffe2-miopen-0.1.3-alpha.0 (c (n "caffe2-miopen") (v "0.1.3-alpha.0") (d (list (d (n "caffe2-c10") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-context") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-types") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.3-alpha.0") (d #t) (k 0)))) (h "0njcgfymzh9c50kzliqlrclcvq00gxl9rg1rdddh38m94s7yy315")))
+
+(define-public crate-caffe2-miopen-0.1.4-alpha.0 (c (n "caffe2-miopen") (v "0.1.4-alpha.0") (d (list (d (n "caffe2-c10") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-context") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-types") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.4-alpha.0") (d #t) (k 0)))) (h "0n8i8mgmny672sgzibprg802zx8jd8353v179yjcw830j3sd8vnj")))
+
+(define-public crate-caffe2-miopen-0.1.5-alpha.0 (c (n "caffe2-miopen") (v "0.1.5-alpha.0") (d (list (d (n "caffe2-c10") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-common") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-context") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.5-alpha.0") (d #t) (k 0)))) (h "1gw4hh2zj1x0nkjyiyz4vsgv7bqi3003wdjq19d7kvc7lxlgqavb")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io xa pi xapirpc) #:use-module (crates-io))
+
+(define-public crate-xapirpc-0.2.0 (c (n "xapirpc") (v "0.2.0") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "clap") (r "^2.27.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "1xzb0aac3g621ksm1wf03q5w3zkp6h7jrra939zbh2xzi0i9362g")))
+
+(define-public crate-xapirpc-0.3.0 (c (n "xapirpc") (v "0.3.0") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "clap") (r "^2.27.1") (d #t) (k 0)) (d (n "iso8601") (r "^0.1.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "1kyp6gjgdvvfp121bkxal8xlciw98n5rb757xd1glqdqvwvkmkaq")))
+
+(define-public crate-xapirpc-0.4.0 (c (n "xapirpc") (v "0.4.0") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "clap") (r "^2.27.1") (d #t) (k 0)) (d (n "iso8601") (r "^0.1.1") (d #t) (k 0)) (d (n "preferences") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "1jllxr5rfmnlvqgcx6d6av31h4l1l8gm2mban8vrx3shaplpgvmr")))
+
+(define-public crate-xapirpc-0.5.0 (c (n "xapirpc") (v "0.5.0") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "iso8601") (r "^0.1.1") (d #t) (k 0)) (d (n "preferences") (r "^1.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "06h7fk6izrp6zp94zizy1hg3blkwnfsgv1yx8mgw2p7355qi318b")))
+
+(define-public crate-xapirpc-0.8.0 (c (n "xapirpc") (v "0.8.0") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "iso8601") (r "^0.1.1") (d #t) (k 0)) (d (n "preferences") (r "^1.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.10") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "1r6lifn8v3v7z41sc7fyz6b11mi3sp7g5qxwyj8n1cda17w2a4al")))
+
+(define-public crate-xapirpc-0.8.1 (c (n "xapirpc") (v "0.8.1") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "iso8601") (r "^0.1.1") (d #t) (k 0)) (d (n "preferences") (r "^1.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.10") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "0j53nwapp24d5r2akxqsfqpi8phnhbziq3hxg3pwzs736jhcinz9")))
+
+(define-public crate-xapirpc-0.8.2 (c (n "xapirpc") (v "0.8.2") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "iso8601") (r "^0.1.1") (d #t) (k 0)) (d (n "preferences") (r "^1.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.10") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.9.0") (d #t) (k 0)))) (h "1l2r3qk5kpyybkp2m1d58q33dj7rimz71nrx1c0p7ldf003678lm")))
+
+(define-public crate-xapirpc-0.9.0 (c (n "xapirpc") (v "0.9.0") (d (list (d (n "base64") (r "^0.9.0") (d #t) (k 0)) (d (n "iso8601") (r "^0.2.0") (d #t) (k 0)) (d (n "preferences") (r "^1.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.10") (d #t) (k 0)) (d (n "xmlrpc") (r "^0.11.0") (d #t) (k 0)))) (h "0cccbr0n89av5vhhbqlsxrxs2fg4cyk1rdzfwqrin8sz3yvvrhz8")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io na ty naty_nativefy) #:use-module (crates-io))
+
+(define-public crate-naty_nativefy-0.2.0 (c (n "naty_nativefy") (v "0.2.0") (d (list (d (n "downloader") (r "^0.2.6") (f (quote ("tui"))) (d #t) (k 0)) (d (n "naty_common") (r "^0.2.0") (d #t) (k 0)) (d (n "site_icons") (r "^0.1.13") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0i6sf5n9az1jjljxjg07wlx97js6i84ri35gn48kbr58y42m64sw")))
+
+(define-public crate-naty_nativefy-0.2.1 (c (n "naty_nativefy") (v "0.2.1") (d (list (d (n "downloader") (r "^0.2.6") (f (quote ("tui"))) (d #t) (k 0)) (d (n "naty_common") (r "^0.2.1") (d #t) (k 0)) (d (n "site_icons") (r "^0.1.13") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "1ymvg67w0ww501szhiv1q462jpks4cd1as07798s4kck4jx6sg3g")))
+
+(define-public crate-naty_nativefy-0.3.1 (c (n "naty_nativefy") (v "0.3.1") (d (list (d (n "downloader") (r "^0.2.6") (f (quote ("tui"))) (d #t) (k 0)) (d (n "naty_common") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest-wasm") (r "^0.11.0") (d #t) (k 0)) (d (n "site_icons") (r "^0.1.13") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0vg26z1d3j130crbb0qd0gy4wr616m6s1q9xilxaicx7xsh8s817")))
+
+(define-public crate-naty_nativefy-0.3.5 (c (n "naty_nativefy") (v "0.3.5") (d (list (d (n "downloader") (r "^0.2.6") (f (quote ("tui"))) (d #t) (k 0)) (d (n "naty_common") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest-wasm") (r "^0.11.0") (d #t) (k 0)) (d (n "site_icons") (r "^0.1.13") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1p712lsbn4yw8kwi3h3apis2wlik31sj4jq1aadh48cpa81li4b6")))
+
+(define-public crate-naty_nativefy-0.3.8 (c (n "naty_nativefy") (v "0.3.8") (d (list (d (n "downloader") (r "^0.2.6") (f (quote ("tui"))) (d #t) (k 0)) (d (n "naty_common") (r "^0.3.8") (d #t) (k 0)) (d (n "reqwest-wasm") (r "^0.11.0") (d #t) (k 0)) (d (n "site_icons") (r "^0.1.13") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1qgbap37rqdjx2hjz4si1dhyxa4djazh1ma4pzq9pjg1nflavp0w")))
+

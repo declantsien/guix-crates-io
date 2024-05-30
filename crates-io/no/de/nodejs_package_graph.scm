@@ -1,0 +1,4 @@
+(define-module (crates-io no de nodejs_package_graph) #:use-module (crates-io))
+
+(define-public crate-nodejs_package_graph-0.1.0 (c (n "nodejs_package_graph") (v "0.1.0") (d (list (d (n "clean-path") (r "^0.2.1") (d #t) (k 0)) (d (n "miette") (r "^7.0.0") (o #t) (d #t) (k 0)) (d (n "nodejs_package_json") (r "^0.1.0") (f (quote ("protocols"))) (d #t) (k 0)) (d (n "nodejs_package_managers") (r "^0.1.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (f (quote ("serde-1"))) (k 0)) (d (n "starbase_sandbox") (r "^0.4.0") (d #t) (k 2)) (d (n "starbase_utils") (r "^0.5.0") (f (quote ("glob" "json" "yaml"))) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "1r4dyymsgbybqzhnhcvw67zq935kbm59nidbqqydzdd4ji9152ph") (f (quote (("default")))) (s 2) (e (quote (("miette" "dep:miette" "nodejs_package_json/miette" "starbase_utils/miette"))))))
+

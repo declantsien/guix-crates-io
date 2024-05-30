@@ -1,0 +1,4 @@
+(define-module (crates-io ze no zenoh-flow-standalone-daemon) #:use-module (crates-io))
+
+(define-public crate-zenoh-flow-standalone-daemon-0.6.0-alpha (c (n "zenoh-flow-standalone-daemon") (v "0.6.0-alpha") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1.12") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "signal-hook-async-std") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "uhlc") (r "^0.6") (d #t) (k 0)) (d (n "zenoh") (r "^0.10.1-rc") (f (quote ("shared-memory"))) (d #t) (k 0)) (d (n "zenoh-flow-commons") (r "^0.6.0-alpha") (d #t) (k 0)) (d (n "zenoh-flow-daemon") (r "^0.6.0-alpha") (d #t) (k 0)))) (h "1wwvnv19znc6ww8dd4zv6zhllfd5kqylf45m6xk21xfnwp7xzwvq")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ve il veilid-bugsalot) #:use-module (crates-io))
+
+(define-public crate-veilid-bugsalot-0.1.0 (c (n "veilid-bugsalot") (v "0.1.0") (d (list (d (n "js-sys") (r "^0.3") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "stdweb0") (r "^0.4") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "stdweb")) (d (n "wasm_bindgen") (r "^0.2") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "wasm-bindgen")))) (h "1qqz8l1ki8b6qgnhfabnncflm4g745nd07c9icraqzr3vx75ivm9") (f (quote (("wasm-bindgen" "wasm_bindgen" "js-sys") ("stdweb" "stdweb0") ("default"))))))
+
+(define-public crate-veilid-bugsalot-0.2.0 (c (n "veilid-bugsalot") (v "0.2.0") (d (list (d (n "js-sys") (r "^0.3") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "libc") (r "^0") (d #t) (t "cfg(any(target_os = \"ios\", target_os = \"macos\"))") (k 0) (p "libc")) (d (n "stdweb0") (r "^0.4") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "stdweb")) (d (n "wasm_bindgen") (r "^0.2") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "wasm-bindgen")))) (h "1p4xh60f6svdc4c2z011zjl81w57pk1kd9h6r5ahqmmx2kaaqdi8") (f (quote (("wasm-bindgen" "wasm_bindgen" "js-sys") ("stdweb" "stdweb0") ("default"))))))
+

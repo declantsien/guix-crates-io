@@ -1,0 +1,6 @@
+(define-module (crates-io #{2}# jk) #:use-module (crates-io))
+
+(define-public crate-jk-0.1.0 (c (n "jk") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.64") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rexif") (r "^0.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "04kbihjx7nc1xwc8l7lkswyms4y76587qzgrgcr26i1254b0661c")))
+
+(define-public crate-jk-0.1.1 (c (n "jk") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.64") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rexif") (r "^0.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1hk11g8gx9h9mmxrwqbz7g9cn7ywsb0fwhnax82jkaqv9b1wnvii")))
+

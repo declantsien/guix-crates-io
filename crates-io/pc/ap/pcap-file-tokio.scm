@@ -1,0 +1,4 @@
+(define-module (crates-io pc ap pcap-file-tokio) #:use-module (crates-io))
+
+(define-public crate-pcap-file-tokio-0.1.0 (c (n "pcap-file-tokio") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("async_tokio"))) (d #t) (k 2)) (d (n "derive-into-owned") (r "^0.2.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pcap-file") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt" "rt-multi-thread" "fs"))) (d #t) (k 2)) (d (n "tokio-byteorder") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1rkjnpc1vnks2sdr1mz8bj1rf4xgy2i33h7l2yxsp6jz6y7g1r1y")))
+

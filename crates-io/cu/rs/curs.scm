@@ -1,0 +1,10 @@
+(define-module (crates-io cu rs curs) #:use-module (crates-io))
+
+(define-public crate-curs-0.1.0 (c (n "curs") (v "0.1.0") (d (list (d (n "http_stub") (r "^0.1.2") (d #t) (k 2)) (d (n "hyper") (r "^0.7.2") (d #t) (k 0)) (d (n "mime_guess") (r "= 1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^0.7") (d #t) (k 0)) (d (n "serde_json") (r "^0.7") (d #t) (k 0)) (d (n "serde_macros") (r "^0.7.2") (d #t) (k 0)) (d (n "url") (r "= 0.5.5") (d #t) (k 0)))) (h "0d3arwf93fiwmkiyhx3jxxs1zg0kvmp9yaa5s5lh6igxffs10lrw")))
+
+(define-public crate-curs-0.1.1 (c (n "curs") (v "0.1.1") (d (list (d (n "http_stub") (r "^0.1.2") (d #t) (k 2)) (d (n "hyper") (r "^0.7.2") (d #t) (k 0)) (d (n "mime_guess") (r "= 1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^0.7") (d #t) (k 0)) (d (n "serde_json") (r "^0.7") (d #t) (k 0)) (d (n "serde_macros") (r "^0.7.2") (d #t) (k 0)) (d (n "url") (r "= 0.5.5") (d #t) (k 0)))) (h "0bbaqm9932nhrlw666pwzx6lm13kswf96vkzs1c6ajdk3v5vc6ki")))
+
+(define-public crate-curs-0.1.2 (c (n "curs") (v "0.1.2") (d (list (d (n "http_stub") (r "^0.1.2") (d #t) (k 2)) (d (n "hyper") (r "^0.7.2") (d #t) (k 0)) (d (n "mime_guess") (r "= 1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^0.7") (d #t) (k 0)) (d (n "serde_json") (r "^0.7") (d #t) (k 0)) (d (n "serde_macros") (r "^0.7.2") (d #t) (k 0)) (d (n "url") (r "= 0.5.5") (d #t) (k 0)))) (h "0nnldxi5906pai6ggd5cgp03ixjbhs18c0zv9g4nz28iz86yv0fa")))
+
+(define-public crate-curs-0.1.3 (c (n "curs") (v "0.1.3") (d (list (d (n "http_stub") (r "^0.1.2") (d #t) (k 2)) (d (n "hyper") (r "^0.7.2") (d #t) (k 0)) (d (n "mime_guess") (r "= 1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^0.8.0") (d #t) (k 0)) (d (n "serde_json") (r "^0.8.1") (d #t) (k 0)) (d (n "serde_macros") (r "^0.8.0") (d #t) (k 2)) (d (n "url") (r "= 0.5.5") (d #t) (k 0)))) (h "1a69nvqacibvbwah8n1gy988gamfz1jx5062972iiqb5mwxsc3gh")))
+

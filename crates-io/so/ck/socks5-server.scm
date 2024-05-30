@@ -1,0 +1,30 @@
+(define-module (crates-io so ck socks5-server) #:use-module (crates-io))
+
+(define-public crate-socks5-server-0.1.0 (c (n "socks5-server") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "18819iy80fhhmh5idifj984dkpg1dpanpmfwcfg4ng7wm5h05nxw") (y #t)))
+
+(define-public crate-socks5-server-0.2.0 (c (n "socks5-server") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0mi0lg1aw8ilrzc4a1fml3k2daz9iwqqn9xz7bya3mb0wi13z0rr") (y #t)))
+
+(define-public crate-socks5-server-0.3.0 (c (n "socks5-server") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0pim9cgpw3l2gqlhnfkw3xf261f186w64ss64rk9s401ncb6b2bp") (y #t)))
+
+(define-public crate-socks5-server-0.4.0 (c (n "socks5-server") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "00pk242gfhnyz81g7ip74x6zj9a1w0aqybni6yi2xzqq3g2lpp8h") (y #t)))
+
+(define-public crate-socks5-server-0.5.0 (c (n "socks5-server") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0cihhykqx2qrfaln8rsjys1i3999xl9mxjjs6rvwjifbc2n412az") (y #t)))
+
+(define-public crate-socks5-server-0.6.0 (c (n "socks5-server") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0bwwvc845yyah1kfvma81b7yc68q5nshivrnhkj32xyc4h17hl39") (y #t)))
+
+(define-public crate-socks5-server-0.7.0 (c (n "socks5-server") (v "0.7.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "18wfs24kgazlj7g6km8kmsg5dlb78bsz3vd5wh8pw48dnhrfbg6x") (y #t)))
+
+(define-public crate-socks5-server-0.7.1 (c (n "socks5-server") (v "0.7.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1kjwpc1s2ydlm63xky7by5sd75qqd9v2yij0ishkik2fma9y4mfd") (y #t)))
+
+(define-public crate-socks5-server-0.8.0 (c (n "socks5-server") (v "0.8.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "socks5-proto") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "13zriqzjh36v71qq026pax0kggyzm156wkmclh532lvrn62z35rr") (y #t)))
+
+(define-public crate-socks5-server-0.8.2 (c (n "socks5-server") (v "0.8.2") (d (list (d (n "async-trait") (r "0.1.*") (d #t) (k 0)) (d (n "bytes") (r "1.2.*") (d #t) (k 0)) (d (n "socks5-proto") (r "0.3.*") (d #t) (k 0)) (d (n "tokio") (r "1.20.*") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "1.20.*") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1ikxgx18qy8ksp9b1gkb825v12y6mbazryg13zb5w4ig07h7yl9w") (y #t)))
+
+(define-public crate-socks5-server-0.8.3 (c (n "socks5-server") (v "0.8.3") (d (list (d (n "async-trait") (r "^0.1.63") (k 0)) (d (n "bytes") (r "^1.3.0") (f (quote ("std"))) (k 0)) (d (n "socks5-proto") (r "^0.3.3") (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("net"))) (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "08ba7mblz1iccwby0522xy90v7zcd4h06qwwr8764484myin0wnd")))
+
+(define-public crate-socks5-server-0.9.0 (c (n "socks5-server") (v "0.9.0") (d (list (d (n "async-trait") (r "^0.1.71") (k 0)) (d (n "bytes") (r "^1.4.0") (f (quote ("std"))) (k 0)) (d (n "socks5-proto") (r "^0.4.0") (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("net"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "1nxygxk07lj7db8pdrgxhg0vzp3jmhs3vv1mr7g0s4m4aj0p3lkx")))
+
+(define-public crate-socks5-server-0.10.0 (c (n "socks5-server") (v "0.10.0") (d (list (d (n "async-trait") (r "^0.1.73") (k 0)) (d (n "bytes") (r "^1.4.0") (f (quote ("std"))) (k 0)) (d (n "socks5-proto") (r "^0.4.0") (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "03dyaab0h1vp368vxnqp00c31dfc1k4dlkvbs0161ir4hzxz99db")))
+
+(define-public crate-socks5-server-0.10.1 (c (n "socks5-server") (v "0.10.1") (d (list (d (n "async-trait") (r "^0.1.79") (k 0)) (d (n "bytes") (r "^1.6.0") (f (quote ("std"))) (k 0)) (d (n "socks5-proto") (r "^0.4.1") (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("net"))) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "0ib3v3la5rv9xlf4g428fbsdrnq8i3sxsky773688rc0h5lw48sj")))
+

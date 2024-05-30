@@ -1,0 +1,16 @@
+(define-module (crates-io di pc dipc) #:use-module (crates-io))
+
+(define-public crate-dipc-0.2.0 (c (n "dipc") (v "0.2.0") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "lab") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "02pqjkklrnz3hjqli3agg6zsjp0x630y83wvi0xfq6mdd2jmm2w5")))
+
+(define-public crate-dipc-0.2.1 (c (n "dipc") (v "0.2.1") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "lab") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "164l9pg5d8db4svcql5xw6lka7dv8i1sv04z9q3h2nch59gsj1g8")))
+
+(define-public crate-dipc-0.3.0 (c (n "dipc") (v "0.3.0") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "lab") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0j9ivcl3x1629giy69qvgg1iml8ln1qkrjjc6pvsrk8fvr5m9l8x")))
+
+(define-public crate-dipc-0.3.1 (c (n "dipc") (v "0.3.1") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "lab") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1ag1bf91vqq296vdh8s2vf9cl0nrax48yxpspj5fjvpxqmf8rh8x")))
+
+(define-public crate-dipc-0.4.0 (c (n "dipc") (v "0.4.0") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "lab") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0iyn30lbadw46jc62z68ippkhgkm94fc8f8xikbm0f20fi75a584")))
+
+(define-public crate-dipc-0.5.0 (c (n "dipc") (v "0.5.0") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "lab") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0i9gz0dy22870xl50855s3mks6bxc7ralk7b3f4qzfprbw1wx8q0")))
+
+(define-public crate-dipc-1.0.0 (c (n "dipc") (v "1.0.0") (d (list (d (n "clap") (r "^4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deltae") (r "^0.3") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("libwebp" "rgb"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "lab") (r "^0.11") (d #t) (k 0)) (d (n "owo-colors") (r "^3.5") (f (quote ("supports-colors"))) (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "supports-color") (r "^2.0") (d #t) (k 0)))) (h "0ylxppx3hxh3ji2yymjhz8rywc9c6sra908px80829gzibnrf8z8")))
+

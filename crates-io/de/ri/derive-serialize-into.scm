@@ -1,0 +1,12 @@
+(define-module (crates-io de ri derive-serialize-into) #:use-module (crates-io))
+
+(define-public crate-derive-serialize-into-0.1.0 (c (n "derive-serialize-into") (v "0.1.0") (d (list (d (n "quote") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 2)) (d (n "syn") (r "^0.13.1") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 2)) (d (n "validator") (r "^0.6.3") (d #t) (k 2)))) (h "11vijxpqazkqckdpfslq3w77wxwmja7scm5a0iavyllz6wsbba6d")))
+
+(define-public crate-derive-serialize-into-0.2.0 (c (n "derive-serialize-into") (v "0.2.0") (d (list (d (n "quote") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 2)) (d (n "syn") (r "^0.13.1") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 2)) (d (n "validator") (r "^0.6.3") (d #t) (k 2)))) (h "17019hmricpahb4qcwy9ncji2wz4gw9pdbhlbg5v5c73ldfxhw1g")))
+
+(define-public crate-derive-serialize-into-0.2.1 (c (n "derive-serialize-into") (v "0.2.1") (d (list (d (n "quote") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 2)) (d (n "syn") (r "^0.13.1") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 2)) (d (n "validator") (r "^0.6.3") (d #t) (k 2)))) (h "080cbbbrdzzp8zyyyxl6rd102r0qciifdhp1q187cs5rvydn66vz")))
+
+(define-public crate-derive-serialize-into-0.3.0 (c (n "derive-serialize-into") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^0.2.10") (d #t) (k 2)) (d (n "serde") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 2)) (d (n "syn") (r "^0.13.1") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 2)) (d (n "validator") (r "^0.6.3") (d #t) (k 2)))) (h "19jr5igpyr35mv33wdcy6514syy0b7kwwxkjiydjv6d74nz2v8m3")))
+
+(define-public crate-derive-serialize-into-0.3.1 (c (n "derive-serialize-into") (v "0.3.1") (d (list (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^0.2.10") (d #t) (k 2)) (d (n "serde") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 2)) (d (n "syn") (r "^0.13.1") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 2)) (d (n "validator") (r "^0.6.3") (d #t) (k 2)))) (h "19rvwhn4i9xdscfz7hlbv5v0692v9wasm4y5bcpfyh11ks96i2yy")))
+

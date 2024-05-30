@@ -1,0 +1,4 @@
+(define-module (crates-io fs _r fs_resolver_plugin) #:use-module (crates-io))
+
+(define-public crate-fs_resolver_plugin-0.1.0 (c (n "fs_resolver_plugin") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bigdecimal") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "polywrap_core") (r "^0.1.0") (d #t) (k 0)) (d (n "polywrap_manifest") (r "^0.1.0") (d #t) (k 0)) (d (n "polywrap_msgpack") (r "^0.1.0") (d #t) (k 0)) (d (n "polywrap_plugin") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "ureq") (r "^2.3.0") (d #t) (k 0)))) (h "0ymcps7fjmm40wwyyzikd2xiamsjpfffiz5nlnbgb1prjgwp8f99")))
+

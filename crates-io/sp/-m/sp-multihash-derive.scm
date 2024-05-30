@@ -1,0 +1,6 @@
+(define-module (crates-io sp -m sp-multihash-derive) #:use-module (crates-io))
+
+(define-public crate-sp-multihash-derive-0.1.0 (c (n "sp-multihash-derive") (v "0.1.0") (d (list (d (n "pretty_assertions") (r "^0.7.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.42") (d #t) (k 0)) (d (n "synstructure") (r "^0.12.4") (d #t) (k 0)))) (h "1higcsh2wzv6zdpagxhm95xjaq6a25dcnl9kylyy687k3p2zxwjh") (f (quote (("std") ("default"))))))
+
+(define-public crate-sp-multihash-derive-0.2.0 (c (n "sp-multihash-derive") (v "0.2.0") (d (list (d (n "pretty_assertions") (r "^0.7.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.42") (d #t) (k 0)) (d (n "synstructure") (r "^0.12.4") (d #t) (k 0)))) (h "1pj5ra7xr4b9707mlgir4bpnmy3hvnn6xzaypdw8bphw0j5nwkl5") (f (quote (("std") ("default"))))))
+

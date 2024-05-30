@@ -1,0 +1,4 @@
+(define-module (crates-io tw il twilio-agnostic) #:use-module (crates-io))
+
+(define-public crate-twilio-agnostic-1.0.0 (c (n "twilio-agnostic") (v "1.0.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "http") (r "^0.2.4") (d #t) (k 0)) (d (n "hyper") (r "^0.14.9") (f (quote ("full"))) (d #t) (k 2)) (d (n "isahc") (r "^1.4.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt" "rt-multi-thread" "test-util"))) (d #t) (k 2)) (d (n "url") (r "^2.0") (d #t) (k 0)))) (h "0idma2ifl8smiz0gzkmbajimdj19g6kmz9zlpl2rldfmyykgwc4k") (f (quote (("webhook") ("voice") ("sms") ("default" "voice" "sms" "webhook"))))))
+

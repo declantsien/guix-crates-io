@@ -1,0 +1,6 @@
+(define-module (crates-io cl ip clipboard-files) #:use-module (crates-io))
+
+(define-public crate-clipboard-files-0.1.0 (c (n "clipboard-files") (v "0.1.0") (d (list (d (n "clipboard-win") (r "^4.4.1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "gtk") (r "^0.15") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc-foundation") (r "^0.1.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc_id") (r "^0.1.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "urlencoding") (r "^2.1.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1ypszi9473m9r9isfz8kjs4zvp3chl6pflq8kvgg4sq65wq4px25")))
+
+(define-public crate-clipboard-files-0.1.1 (c (n "clipboard-files") (v "0.1.1") (d (list (d (n "clipboard-win") (r "^4.4.1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "gtk") (r "^0.15") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc-foundation") (r "^0.1.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc_id") (r "^0.1.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "urlencoding") (r "^2.1.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "10z31gm8qzvzaqa36yf9w2zlzdwcj2xzilcbqnlp0jq9mw715hib")))
+

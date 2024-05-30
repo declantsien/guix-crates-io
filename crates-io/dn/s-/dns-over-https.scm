@@ -1,0 +1,4 @@
+(define-module (crates-io dn s- dns-over-https) #:use-module (crates-io))
+
+(define-public crate-dns-over-https-0.2.0 (c (n "dns-over-https") (v "0.2.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctrlc2") (r "^3") (f (quote ("tokio" "termination"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (d #t) (k 0)) (d (n "windows-service") (r "^0.7") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "07lyaq6s627l7739sw08jldxh1n5kr22g70997y2ng5mgrbmb1zi")))
+

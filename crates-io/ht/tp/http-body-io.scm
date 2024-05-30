@@ -1,0 +1,8 @@
+(define-module (crates-io ht tp http-body-io) #:use-module (crates-io))
+
+(define-public crate-http-body-io-0.1.1 (c (n "http-body-io") (v "0.1.1") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "http-body") (r "^1.0.0") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("sync" "io-std"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("sync" "io-std" "io-util" "test-util" "tokio-macros" "rt" "macros"))) (d #t) (k 2)))) (h "0hydf5n5f2i2r3ishj5mm62j5ql5zql7bajdyfh0755biyw9sfh4")))
+
+(define-public crate-http-body-io-0.2.0 (c (n "http-body-io") (v "0.2.0") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "http-body") (r "^1.0.0") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("sync" "io-std"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("sync" "io-std" "io-util" "test-util" "tokio-macros" "rt" "macros"))) (d #t) (k 2)))) (h "0ccjmbzlsnhbybx4g63xvl7js8armd819piw978rcxa06i2ic0s1")))
+
+(define-public crate-http-body-io-0.2.1 (c (n "http-body-io") (v "0.2.1") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "http-body") (r "^1.0.0") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("sync" "io-std"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("sync" "io-std" "io-util" "test-util" "tokio-macros" "rt" "macros"))) (d #t) (k 2)))) (h "0arsh75wbmfcrzxd6422hkcff2s0f75aw42zw9y8nxdqyjrpaqkz")))
+

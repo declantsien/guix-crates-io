@@ -1,0 +1,4 @@
+(define-module (crates-io mi cl miclockwork-thread-program) #:use-module (crates-io))
+
+(define-public crate-miclockwork-thread-program-0.1.0 (c (n "miclockwork-thread-program") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "miclockwork-cron") (r "=0.1.0") (d #t) (k 0)) (d (n "miclockwork-network-program") (r "=0.1.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "miclockwork-thread-program-v1") (r "=0.1.0") (d #t) (k 0)) (d (n "miclockwork-utils") (r "=0.1.0") (d #t) (k 0)) (d (n "pyth-sdk-solana") (r "^0.8.0") (d #t) (k 0)) (d (n "static-pubkey") (r "^1.0.3") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)))) (h "11y2z3vwx2zp7rjwmy0hkr05a9ghmd9c5p5p8m2bmwfib42ai2gp") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

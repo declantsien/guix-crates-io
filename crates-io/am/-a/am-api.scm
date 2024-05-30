@@ -1,0 +1,4 @@
+(define-module (crates-io am -a am-api) #:use-module (crates-io))
+
+(define-public crate-am-api-1.0.0 (c (n "am-api") (v "1.0.0") (d (list (d (n "am-api-proc-macro") (r "^1.0.0") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "celes") (r "^2.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("cookies" "json"))) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (f (quote ("serde-well-known" "macros"))) (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1rv3xnms06z981wfw5m2mc9wl8c2lx40ai4mvck2f4da9wx4c0d0") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "rustls-tls"))))))
+

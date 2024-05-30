@@ -1,0 +1,12 @@
+(define-module (crates-io ma ca macaroon) #:use-module (crates-io))
+
+(define-public crate-macaroon-0.1.0 (c (n "macaroon") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.22") (d #t) (k 0)) (d (n "serde") (r "^0.9.2") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9.2") (d #t) (k 0)) (d (n "serde_json") (r "^0.9.2") (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.0.13") (d #t) (k 0)) (d (n "time") (r "^0.1.36") (d #t) (k 2)))) (h "1ayp1vg2ld54ip6z77g12x94ivf2n8cqravmwxwmjrh8pkv33xs7") (y #t)))
+
+(define-public crate-macaroon-0.1.1 (c (n "macaroon") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.22") (d #t) (k 0)) (d (n "serde") (r "^0.9.2") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9.2") (d #t) (k 0)) (d (n "serde_json") (r "^0.9.2") (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.0.13") (d #t) (k 0)) (d (n "time") (r "^0.1.36") (d #t) (k 2)))) (h "1djq77zdgz878bjscnkc81c337q6nj8fb4ikhnfrsn2gi8i1kqkr") (y #t)))
+
+(define-public crate-macaroon-0.1.2 (c (n "macaroon") (v "0.1.2") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.3.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.22") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.1.44") (d #t) (k 2)))) (h "0a91nfsch622nfn9pcnj546xj4y0j6fpy92giaxzj6nx0n3vfrfb") (y #t)))
+
+(define-public crate-macaroon-0.2.0 (c (n "macaroon") (v "0.2.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.2.16") (d #t) (k 2)))) (h "0w0a50fwfa1g8sahcgr8wvm4rbivqchnxp9liggfm9k667lrhxml")))
+
+(define-public crate-macaroon-0.3.0 (c (n "macaroon") (v "0.3.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("parsing"))) (d #t) (k 2)))) (h "0l40q114y6ay1qzg1g08li2bqf0vh8rszljzm5c3l7fx060pf59v") (r "1.56")))
+

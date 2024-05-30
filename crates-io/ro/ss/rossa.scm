@@ -1,0 +1,6 @@
+(define-module (crates-io ro ss rossa) #:use-module (crates-io))
+
+(define-public crate-rossa-0.1.0 (c (n "rossa") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "tera") (r "^1.3.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("macros" "rt-threaded" "fs"))) (d #t) (k 0)) (d (n "warp") (r "^0.2.3") (d #t) (k 0)))) (h "0si1y32q67xax4dhbmwdph3s85i59ynbfzgb7pbfsyzkxrds3r7y")))
+
+(define-public crate-rossa-0.1.1 (c (n "rossa") (v "0.1.1") (d (list (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "tera") (r "^1.3.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("macros" "rt-threaded" "fs"))) (d #t) (k 0)) (d (n "warp") (r "^0.2.3") (d #t) (k 0)))) (h "0rmnri8qs4i7ramn2iay5iavk6s513mfd34q7kp9baif6ag3pm0k")))
+

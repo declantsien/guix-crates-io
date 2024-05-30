@@ -1,0 +1,6 @@
+(define-module (crates-io ap ub apub-actix-web) #:use-module (crates-io))
+
+(define-public crate-apub-actix-web-0.1.0 (c (n "apub-actix-web") (v "0.1.0") (d (list (d (n "actix-web") (r "^4.0.0-beta.11") (k 0)) (d (n "apub-core") (r "^0.1.0") (d #t) (k 0)) (d (n "apub-privatekey") (r "^0.1.0") (d #t) (k 0)) (d (n "apub-publickey") (r "^0.1.0") (d #t) (k 0)) (d (n "http-signature-normalization-actix") (r "^0.5.0-beta.12") (f (quote ("server" "digest"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "03dlb2wglh2zccn513vwbmh39k4f5qyk5pny1n57h6zm5s337mch")))
+
+(define-public crate-apub-actix-web-0.2.0 (c (n "apub-actix-web") (v "0.2.0") (d (list (d (n "actix-web") (r "^4.0.0-beta.12") (k 0)) (d (n "apub-core") (r "^0.2.0") (d #t) (k 0)) (d (n "apub-privatekey") (r "^0.2.0") (d #t) (k 0)) (d (n "apub-publickey") (r "^0.2.0") (d #t) (k 0)) (d (n "http-signature-normalization-actix") (r "^0.5.0-beta.12") (f (quote ("server" "digest"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "05rvncvygfds8vcc7jpgpmmrpfynh2bl8k0ylijhpiyds29skixn")))
+

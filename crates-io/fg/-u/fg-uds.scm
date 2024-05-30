@@ -1,0 +1,12 @@
+(define-module (crates-io fg -u fg-uds) #:use-module (crates-io))
+
+(define-public crate-fg-uds-0.1.0 (c (n "fg-uds") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.13") (d #t) (k 0)) (d (n "futures-glib") (r "^0.1.0") (d #t) (k 0)) (d (n "gio-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "glib-sys") (r "^0.3.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.1") (d #t) (k 0)))) (h "1qfgpl8zxlgirr8w8jwgmwpyzccci9bxwyxdfrqk0c0crh1wigfj")))
+
+(define-public crate-fg-uds-0.1.1 (c (n "fg-uds") (v "0.1.1") (d (list (d (n "bytes") (r "^0.4.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.13") (d #t) (k 0)) (d (n "futures-glib") (r "^0.2.0") (d #t) (k 0)) (d (n "gio-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "glib-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.1") (d #t) (k 0)))) (h "02j82lsd3j3skhkn4c9zgrn27bf1v29x5j86d3ydrqwda6l12yxr")))
+
+(define-public crate-fg-uds-0.1.2 (c (n "fg-uds") (v "0.1.2") (d (list (d (n "bytes") (r "^0.4.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.13") (d #t) (k 0)) (d (n "futures-glib") (r "^0.2.0") (d #t) (k 0)) (d (n "gio-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "glib-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "nix") (r "^0.9.0") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.1") (d #t) (k 0)))) (h "1cqn8pfrvaf46jsyxl1dv7sh642jn5scsdp3b755zm4kgvcl9yfy")))
+
+(define-public crate-fg-uds-0.2.0 (c (n "fg-uds") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.13") (d #t) (k 0)) (d (n "futures-glib") (r "^0.3.0") (d #t) (k 0)) (d (n "gio-sys") (r "^0.5.0") (d #t) (k 0)) (d (n "glib-sys") (r "^0.5.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "nix") (r "^0.9.0") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.1") (d #t) (k 0)))) (h "0bw0nxgq6kdrzk551p33d5l3gmd3qhp6xms8wjsp6flpq2bda9z7")))
+
+(define-public crate-fg-uds-0.3.0 (c (n "fg-uds") (v "0.3.0") (d (list (d (n "bytes") (r "^0.4.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.13") (d #t) (k 0)) (d (n "futures-glib") (r "^0.4.0") (d #t) (k 0)) (d (n "gio-sys") (r "^0.6.0") (d #t) (k 0)) (d (n "glib-sys") (r "^0.6.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "nix") (r "^0.9.0") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.1") (d #t) (k 0)))) (h "1gvpym62gn6c9rl3v7z1nig1qbf3jpwzfmvbia4dis3nyw8cd2jg")))
+

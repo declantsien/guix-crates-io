@@ -1,0 +1,6 @@
+(define-module (crates-io no lo nology-api) #:use-module (crates-io))
+
+(define-public crate-nology-api-0.0.1 (c (n "nology-api") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "0jrr5p4xz0i74ba8z29izv8qk0lw29bws0imvsnn6hxqz6y7fp63")))
+
+(define-public crate-nology-api-0.0.2 (c (n "nology-api") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0ra6x9iig7fhvqm77qbji9dfky4iik6vcw5p73p8h08l1i5vnpl6")))
+

@@ -1,0 +1,34 @@
+(define-module (crates-io di ox dioxus-use-window) #:use-module (crates-io))
+
+(define-public crate-dioxus-use-window-0.1.0 (c (n "dioxus-use-window") (v "0.1.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "1dyf3pdf0c2capp9zwbgbkhfylvbvavs143pbah70acx1gj1kl11") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.2.0 (c (n "dioxus-use-window") (v "0.2.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "1ajpy36a1wibhjzr0rhm3f50pg2wr68f4q95l9gan0qnp3q4qiv8") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.2.1 (c (n "dioxus-use-window") (v "0.2.1") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "10wik0qpcv5cnmm25dnq3sf1n8yyzbw7c89x7bj2pfwa1ybz8n4g") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.3.0 (c (n "dioxus-use-window") (v "0.3.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "0is237f831g8ylpx493msa02ld14saj4924mylq52lq4vzzf8fxh") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.3.1 (c (n "dioxus-use-window") (v "0.3.1") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "0qq8ncxk0wglvqkh3sc42nj4n1p3b9hf55r7i35c325ahz3ih8ga") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.4.0 (c (n "dioxus-use-window") (v "0.4.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "1nc77rr0fjfy4y6wh0i8g8w59c4py00szkxrkh446y48dprhl714") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.4.2 (c (n "dioxus-use-window") (v "0.4.2") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "1ihbpiz5skbzjv8gb60qnwzr31kzrh3wldwx8084bx9k1dcp8k40") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.4.3 (c (n "dioxus-use-window") (v "0.4.3") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "0hy7w0la3qc68whxnmvgvpnbrsv2dpmz3x1gs1c9dl5snrkgvy68") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.5.0 (c (n "dioxus-use-window") (v "0.5.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "UiEvent"))) (d #t) (k 0)))) (h "0shfyxph06s6lh1qb4g1hcq094vj9ghc7cc7s01k1f9lpca7g3lv") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.5.1 (c (n "dioxus-use-window") (v "0.5.1") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window"))) (d #t) (k 0)))) (h "1h5vdgamvz2x0bg704r7dk6x4lrxfwjx1rcwgyiljb49jjd31wkj") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.5.2 (c (n "dioxus-use-window") (v "0.5.2") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window"))) (d #t) (k 0)))) (h "1x1v770qczc3gg5h3klslhr600ff8dhsmkqi2xdblan8yqhjjmqh") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.6.0 (c (n "dioxus-use-window") (v "0.6.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window"))) (d #t) (k 0)))) (h "1dg3mnb2fghzzzzy4fjkhxhmqyf8ysw183bqafv8756jkaz80v0v") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.6.1 (c (n "dioxus-use-window") (v "0.6.1") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window"))) (d #t) (k 0)))) (h "15szyhmb1bpf0x3mb0fbs1i8p1ap88cpw7975yfp58280647x1xx") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.6.2 (c (n "dioxus-use-window") (v "0.6.2") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window"))) (d #t) (k 0)))) (h "0r2gmxkq79p9lc5salkg627641mxf89qinqwjp8diw6w3h4q4i99") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.6.3 (c (n "dioxus-use-window") (v "0.6.3") (d (list (d (n "dioxus") (r "^0.2.4") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (f (quote ("Window" "Document" "Element" "HtmlElement"))) (d #t) (k 0)))) (h "0y04rf6nhykkyfnvmfz77zj20nsyb1mq17isy4kk9mrpymjaqnkh") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-window-0.7.0 (c (n "dioxus-use-window") (v "0.7.0") (d (list (d (n "dioxus") (r "^0.3.2") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.61") (f (quote ("Window" "Document" "Element" "HtmlElement"))) (d #t) (k 0)))) (h "0hp5arm270l0sz6swhbk5xjf4phv9rwpfk0rb2yflv5bwhln5d3i") (f (quote (("default"))))))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io pr ov provola) #:use-module (crates-io))
+
+(define-public crate-provola-0.1.0 (c (n "provola") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0ryqf7s9s99ggm67izd5y2pmmg1gj8k7cl6yijibx29hb754d76a")))
+
+(define-public crate-provola-0.1.1 (c (n "provola") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "00kk23q5jkxj77rl8cvdgwbs4ibgkxibsqm3n2dbis45942b8mj3")))
+
+(define-public crate-provola-0.1.2 (c (n "provola") (v "0.1.2") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1") (d #t) (k 0)))) (h "1pzbd69f5nqgghq15bgfyn89mcs90mrdfrwmyb1g7797129dh74l")))
+
+(define-public crate-provola-0.1.3 (c (n "provola") (v "0.1.3") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1") (d #t) (k 0)))) (h "1q0rhjdkqa3z6zhzp2abs4igrbll2dv9jhzdjkdhylhjpwy5cz6d")))
+
+(define-public crate-provola-0.1.4 (c (n "provola") (v "0.1.4") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1.4") (d #t) (k 0)))) (h "0y5n9pnc4vcz6cv9ha56w85q07m0pv6k0zrhf2cri8qlazlj4fpv")))
+
+(define-public crate-provola-0.1.5 (c (n "provola") (v "0.1.5") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1.5") (d #t) (k 0)) (d (n "provola-googletest") (r "^0.1.5") (d #t) (k 0)) (d (n "provola-testrunners") (r "^0.1.5") (d #t) (k 0)))) (h "0cavydrg9yryj2kdzx5fgh9jmvja533v3an4ss17m5wkna6d2f8i")))
+
+(define-public crate-provola-0.1.7 (c (n "provola") (v "0.1.7") (d (list (d (n "clap") (r "^3.0.0-beta.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "provola-core") (r "^0.1.7") (d #t) (k 0)) (d (n "provola-reporters") (r "^0.1.7") (d #t) (k 0)) (d (n "provola-testrunners") (r "^0.1.7") (d #t) (k 0)))) (h "1m4s31zshb9175630bqbqvwx2mq0a0ymcnpigs2izl34j07rr9zw")))
+
+(define-public crate-provola-0.2.0 (c (n "provola") (v "0.2.0") (d (list (d (n "clap") (r "^3.0.0-rc.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_generate") (r "^3.0.0-rc.8") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "provola-core") (r "^0.2.0") (d #t) (k 0)) (d (n "provola-egui") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "provola-reporters") (r "^0.2.0") (d #t) (k 0)) (d (n "provola-testrunners") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0dykxhzx5y6aafp5w36b8wzqa0s0whnvzc80i7626xsvsb64z2pp") (f (quote (("egui" "provola-egui") ("default" "egui"))))))
+

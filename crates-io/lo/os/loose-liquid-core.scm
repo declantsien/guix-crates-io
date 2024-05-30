@@ -1,0 +1,4 @@
+(define-module (crates-io lo os loose-liquid-core) #:use-module (crates-io))
+
+(define-public crate-loose-liquid-core-0.27.0 (c (n "loose-liquid-core") (v "0.27.0") (d (list (d (n "anymap2") (r "^0.13") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "kstring") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "liquid-derive") (r "^0.27.0") (o #t) (d #t) (k 0) (p "loose-liquid-derive")) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.157") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 2)) (d (n "snapbox") (r "^0.4.12") (d #t) (k 2)) (d (n "time") (r "^0.3") (f (quote ("formatting" "macros" "parsing"))) (k 0)))) (h "02h0aw5bdj357yp9cyw68kxfggc27141v1b0y36irvm0w539bxvs") (f (quote (("derive" "liquid-derive") ("default")))) (r "1.70.0")))
+

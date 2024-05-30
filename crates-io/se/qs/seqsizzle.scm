@@ -1,0 +1,4 @@
+(define-module (crates-io se qs seqsizzle) #:use-module (crates-io))
+
+(define-public crate-seqsizzle-0.1.4 (c (n "seqsizzle") (v "0.1.4") (d (list (d (n "anyhow") (r ">=1.0.75") (d #t) (k 0)) (d (n "bio") (r ">=1") (d #t) (k 0)) (d (n "clap") (r ">=4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r ">=0.27.0") (d #t) (k 0)) (d (n "csv") (r ">=1.3.0") (d #t) (k 0)) (d (n "gcollections") (r ">=1.5.0") (d #t) (k 0)) (d (n "intervallum") (r ">=1.4.0") (d #t) (k 0)) (d (n "num-traits") (r ">=0.2.17") (d #t) (k 0)) (d (n "ratatui") (r ">=0.25.0") (d #t) (k 0)) (d (n "rayon") (r ">=1.8.0") (d #t) (k 0)) (d (n "shadow-rs") (r ">=0.26.1") (d #t) (k 0)) (d (n "shadow-rs") (r ">=0.26.1") (d #t) (k 1)) (d (n "tui-textarea") (r ">=0.3.1") (d #t) (k 0)) (d (n "uuid") (r ">=1.6.1") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1hsdizyfimyj1w5qx2myphfdmg59x1f2x2xpn60p9xc6inh4dsx5")))
+

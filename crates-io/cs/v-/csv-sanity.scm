@@ -1,0 +1,4 @@
+(define-module (crates-io cs v- csv-sanity) #:use-module (crates-io))
+
+(define-public crate-csv-sanity-0.1.0 (c (n "csv-sanity") (v "0.1.0") (d (list (d (n "clap") (r "^2.23.3") (d #t) (k 0)) (d (n "csv") (r "^0.15.0") (d #t) (k 0)) (d (n "custom_derive") (r "^0.1.7") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "maplit") (r "^0.1.4") (d #t) (k 0)) (d (n "newtype_derive") (r "^0.1.6") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.37") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.1.0") (d #t) (k 0)))) (h "0kqnyfm9k0j7fx671rx93vc2r5jj5m4gharfqdb7gafj7gphx9gn")))
+

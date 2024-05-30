@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# s sbg) #:use-module (crates-io))
+
+(define-public crate-sbg-0.0.0 (c (n "sbg") (v "0.0.0") (d (list (d (n "handlebars") (r "^1") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "url") (r "^1") (d #t) (k 2)))) (h "1209zlv1jxnxi9cbnd4108yzp8lxvxgd6zkp98vgyvhdnc8318y3")))
+
+(define-public crate-sbg-0.0.1 (c (n "sbg") (v "0.0.1") (d (list (d (n "handlebars") (r "^1") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "url") (r "^1") (d #t) (k 2)))) (h "1f7wsbvym60yx4h720rhjwvzbdbmlf35n2b342v0fjzlvd8j3947")))
+
+(define-public crate-sbg-0.0.2 (c (n "sbg") (v "0.0.2") (d (list (d (n "handlebars") (r "^1") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "url") (r "^1") (d #t) (k 2)))) (h "0rj6cadqxvr3br87pr4l657yxwnf1c63j0q7zzy5rm6rbvpcyj6d")))
+
+(define-public crate-sbg-0.0.3 (c (n "sbg") (v "0.0.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive" "deprecated"))) (d #t) (k 0)) (d (n "handlebars") (r "^4") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "1dmdl3dzgxnf8h3dlclzp65x348vyhj90x6fz8n9dpjv939fm0x3") (r "1.58")))
+

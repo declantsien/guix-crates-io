@@ -1,0 +1,4 @@
+(define-module (crates-io cr ow crows-cli) #:use-module (crates-io))
+
+(define-public crate-crows-cli-0.1.0 (c (n "crows-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "crows-service") (r "^0.1.0") (d #t) (k 0)) (d (n "crows-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "crows-wasm") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-serde") (r "^0.9") (f (quote ("json"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0l07jm50csq9l2cbgajlhza1kqlj94l3bzanb524g68x4f4afldk")))
+

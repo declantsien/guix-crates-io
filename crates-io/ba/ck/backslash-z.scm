@@ -1,0 +1,6 @@
+(define-module (crates-io ba ck backslash-z) #:use-module (crates-io))
+
+(define-public crate-backslash-z-0.1.0 (c (n "backslash-z") (v "0.1.0") (d (list (d (n "airkorea") (r "^0.3.1") (d #t) (k 0)) (d (n "daumdic") (r "^0.6.1") (d #t) (k 0)) (d (n "daummap") (r "^0.2.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "howto") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)))) (h "1lxzh4i7x55b2ddfvhkhh13p3kpyhdjgfkwkf6376g5848l083pf")))
+
+(define-public crate-backslash-z-0.2.0 (c (n "backslash-z") (v "0.2.0") (d (list (d (n "airkorea") (r "^0.4.0") (d #t) (k 0)) (d (n "daumdic") (r "^0.6.1") (d #t) (k 0)) (d (n "daummap") (r "^0.2.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "howto") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)))) (h "0f22vka340jgp86n672qbmk0zl8bgl982ppqa87f9yr4klvp32kr")))
+

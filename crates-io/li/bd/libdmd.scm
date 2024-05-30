@@ -1,0 +1,16 @@
+(define-module (crates-io li bd libdmd) #:use-module (crates-io))
+
+(define-public crate-libdmd-0.1.0 (c (n "libdmd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "cmd_lib") (r "^1.1.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "git2") (r "^0.13.22") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0fadghgd2gdsrg05pzf83m2vkal43dkac49anjzvwaj09y4kq6vv") (y #t)))
+
+(define-public crate-libdmd-0.1.1 (c (n "libdmd") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "cmd_lib") (r "^1.1.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "git2") (r "^0.13.22") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "06fy19nklbm7zsh6cvi395w2i01f1khsamh5r9jv7rzngzbh4hl6") (y #t)))
+
+(define-public crate-libdmd-0.1.2 (c (n "libdmd") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "realize") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-value") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1qivhgm88lp8kffgdkh0v7vsz07r7hzr3n5p98ynqxddljnz3rl4") (y #t)))
+
+(define-public crate-libdmd-0.1.3 (c (n "libdmd") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "realize") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-value") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0inkfl214hryirzvh0scxq9srimc2qwd6pk52zhcjk6p6fnwf7q1") (y #t)))
+
+(define-public crate-libdmd-0.1.4 (c (n "libdmd") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "realize") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-value") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1yiianss2hvgaac89aspw4jxq6zflqfdd7ppi5ihj14hiyvyr6k6") (y #t)))
+
+(define-public crate-libdmd-0.1.5 (c (n "libdmd") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1hcy2b68bq7k668kp94rbv172aanmlgs4i6fgv7g08pkhb7721f9") (y #t)))
+
+(define-public crate-libdmd-0.1.6 (c (n "libdmd") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.72") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0d71w0nsig5vc2cj7gwj0bb6k08lhsvd5f990k17qnfmif6zqh2i") (y #t)))
+

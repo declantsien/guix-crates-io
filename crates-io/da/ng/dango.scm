@@ -1,0 +1,6 @@
+(define-module (crates-io da ng dango) #:use-module (crates-io))
+
+(define-public crate-dango-0.1.0 (c (n "dango") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^3.1.9") (f (quote ("color" "std"))) (k 0)) (d (n "semver") (r "^1.0.7") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1.0.30") (k 0)) (d (n "tracing") (r "^0.1.34") (f (quote ("std"))) (k 0)) (d (n "tracing-appender") (r "^0.2.2") (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("std" "fmt" "ansi" "registry"))) (k 0)) (d (n "uninode") (r "^0.4.0") (f (quote ("yaml" "toml" "loaders" "serialize"))) (k 0)))) (h "1py03wp1l7gjyq4qzakrq4y87ykggcs81y26ba47gx4z3myc2wi9")))
+
+(define-public crate-dango-0.1.1 (c (n "dango") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.58") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^3.2.6") (f (quote ("color" "std"))) (k 0)) (d (n "semver") (r "^1.0.10") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1.0.30") (k 0)) (d (n "tracing") (r "^0.1.35") (f (quote ("std"))) (k 0)) (d (n "tracing-appender") (r "^0.2.2") (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("std" "fmt" "ansi" "registry"))) (k 0)) (d (n "uninode") (r "^0.4.2") (f (quote ("yaml" "toml" "loaders" "serialize"))) (k 0)))) (h "0b0kssfh931iafgbdhgnvqsx4cms6ljd2fvy34bzbiaqla467qlw")))
+

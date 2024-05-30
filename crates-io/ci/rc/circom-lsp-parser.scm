@@ -1,0 +1,4 @@
+(define-module (crates-io ci rc circom-lsp-parser) #:use-module (crates-io))
+
+(define-public crate-circom-lsp-parser-2.1.5 (c (n "circom-lsp-parser") (v "2.1.5") (d (list (d (n "lalrpop") (r "^0.19.9") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.9") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6.0") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6.0") (d #t) (k 1)) (d (n "num-traits") (r "^0.2.6") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.6") (d #t) (k 1)) (d (n "program_structure") (r "^2.1.5") (d #t) (k 0) (p "circom-lsp-program-structure")) (d (n "regex") (r "^1.1.2") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.0.1") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.0.1") (d #t) (k 1)) (d (n "serde") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.91") (d #t) (k 0)))) (h "0k5mahffvgdi3mbcabgyi4mnxvhqm5yhqnwp5kfnpn2l0p21c52l")))
+

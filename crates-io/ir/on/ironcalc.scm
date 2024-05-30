@@ -1,0 +1,12 @@
+(define-module (crates-io ir on ironcalc) #:use-module (crates-io))
+
+(define-public crate-ironcalc-0.0.1 (c (n "ironcalc") (v "0.0.1") (h "0fkdxs8q9lb5wvk63840lbnj8gb56cxahj6izajn7gw9zlgnzh2k")))
+
+(define-public crate-ironcalc-0.1.0 (c (n "ironcalc") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ironcalc_base") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("serde" "v4"))) (d #t) (k 2)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0ajpgy9va5d553ikrzbb48c0sdlc5rbr74bk0g6fqi659w1qj7f6")))
+
+(define-public crate-ironcalc-0.1.1 (c (n "ironcalc") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ironcalc_base") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("serde" "v4"))) (d #t) (k 2)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "13crwa4dyyppsyanxd9q4a01p14l7xznvldicinzz1mrqs3m9mpm")))
+
+(define-public crate-ironcalc-0.1.2 (c (n "ironcalc") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ironcalc_base") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("serde" "v4"))) (d #t) (k 2)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "07hb2nz90i7vr9qyps0nbs9xcfkfynb6kq8ajplmvl5wfb8xk47x")))
+
+(define-public crate-ironcalc-0.1.3 (c (n "ironcalc") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ironcalc_base") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("serde" "v4"))) (d #t) (k 2)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1s14jd9kqs8hcwsk6026fdm35ys3vmkw66swx7swj3vyjs1795pb")))
+

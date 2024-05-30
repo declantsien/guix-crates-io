@@ -1,0 +1,12 @@
+(define-module (crates-io ac ti actix-web-thiserror-derive) #:use-module (crates-io))
+
+(define-public crate-actix-web-thiserror-derive-0.1.0 (c (n "actix-web-thiserror-derive") (v "0.1.0") (d (list (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "04h00liap6b7asj4s30rrj2sd20d7vmsnnwhxvhlzkijk95g54dk")))
+
+(define-public crate-actix-web-thiserror-derive-0.1.6 (c (n "actix-web-thiserror-derive") (v "0.1.6") (d (list (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0k5klfb44c0hw075pzvr8bni1cgcwfnkxf8rk7s4ryfbcrdw4cd7")))
+
+(define-public crate-actix-web-thiserror-derive-0.1.7 (c (n "actix-web-thiserror-derive") (v "0.1.7") (d (list (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "129c6i6ndrkdr9bs85dg0cdqp55ca3fqlpihl08vhmq42pkmg43z")))
+
+(define-public crate-actix-web-thiserror-derive-0.2.0 (c (n "actix-web-thiserror-derive") (v "0.2.0") (d (list (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1rp83p9xcg9pq55hff8700b3nqmh1mk51cw09al5ar39qm2s70bh")))
+
+(define-public crate-actix-web-thiserror-derive-0.2.1 (c (n "actix-web-thiserror-derive") (v "0.2.1") (d (list (d (n "actix-web") (r "^4.3.1") (d #t) (k 0)) (d (n "arc-swap") (r "^1.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "0707xd1rzr9kajrsr87zhgv828cb036jf3n9g7g6psr7fdvjpw47")))
+

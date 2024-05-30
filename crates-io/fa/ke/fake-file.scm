@@ -1,0 +1,4 @@
+(define-module (crates-io fa ke fake-file) #:use-module (crates-io))
+
+(define-public crate-fake-file-0.1.0 (c (n "fake-file") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "proptest") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proptest") (r "^1.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1cv3pmq8yfx9zfsw1xxzpn25sslqsqg12hkqclx3lq2qj0ikjcv6") (f (quote (("default")))) (r "1.64")))
+

@@ -1,0 +1,26 @@
+(define-module (crates-io go og google-audit1) #:use-module (crates-io))
+
+(define-public crate-google-audit1-0.1.0+20130108 (c (n "google-audit1") (v "0.1.0+20130108") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "0ynzmnaq27rvzn3gj0ranh065076drzainpg65wv6gx163l9p1gh")))
+
+(define-public crate-google-audit1-0.1.1+20130108 (c (n "google-audit1") (v "0.1.1+20130108") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "0ml8zhlbfdbxidpsxd0xa0nqy1gvv65rqvw5b009n2sybjhjjm9f")))
+
+(define-public crate-google-audit1-0.1.2+20130108 (c (n "google-audit1") (v "0.1.2+20130108") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "15lxgj8ahmqxiv0kcydflii5qkgx1niqi2ln7wf0rqs7h7i2p8vg")))
+
+(define-public crate-google-audit1-0.1.3+20130108 (c (n "google-audit1") (v "0.1.3+20130108") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "12vn0i2wn14afs3v57ml7v8339hk7qx7cqba1xnlwx35bzyfpbf1")))
+
+(define-public crate-google-audit1-0.1.4+20130108 (c (n "google-audit1") (v "0.1.4+20130108") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1izsnrjfz5m6a35h8d2p8jnnixyb3x77gaj0b4a200xd72c4p620")))
+
+(define-public crate-google-audit1-0.1.5+20130108 (c (n "google-audit1") (v "0.1.5+20130108") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1vvpa8v2jka3n650p038cbrzj9q7myv90law1w2p75ajv9y2rd3l")))
+
+(define-public crate-google-audit1-0.1.6+20150419 (c (n "google-audit1") (v "0.1.6+20150419") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "0y2wm9x1l6q8in6gf7r5wgbxi01ffvr1h5nsf0y22pl8n327vky3")))
+
+(define-public crate-google-audit1-0.1.7+20150419 (c (n "google-audit1") (v "0.1.7+20150419") (d (list (d (n "hyper") (r ">= 0.4.0") (d #t) (k 0)) (d (n "json-tools") (r ">= 0.3.0") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1aafaafa7750j7yal27gyhbnpx6c60xa1khxvsp9rwa167kqzsjr")))
+
+(define-public crate-google-audit1-0.1.8+20150419 (c (n "google-audit1") (v "0.1.8+20150419") (d (list (d (n "hyper") (r ">= 0.5.2") (d #t) (k 0)) (d (n "mime") (r "^0.0.11") (d #t) (k 0)) (d (n "serde") (r ">= 0.4.1") (d #t) (k 0)) (d (n "serde_codegen") (r "*") (d #t) (k 1)) (d (n "syntex") (r "*") (d #t) (k 1)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1wlx1ly6xyc8xxhxxbzw0624kk4w9zcyrdf2afxdyz6vccmrkrnn")))
+
+(define-public crate-google-audit1-0.1.9+20150419 (c (n "google-audit1") (v "0.1.9+20150419") (d (list (d (n "hyper") (r ">= 0.6.8") (d #t) (k 0)) (d (n "mime") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r ">= 0.5.0") (d #t) (k 0)) (d (n "serde_codegen") (r "*") (d #t) (k 1)) (d (n "serde_json") (r "*") (d #t) (k 0)) (d (n "syntex") (r "*") (d #t) (k 1)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1ch5l3nfx347yl4dxwpsx8f83ddwx1hbdk6c76gr7hzk7slzras1")))
+
+(define-public crate-google-audit1-0.1.10+20150419 (c (n "google-audit1") (v "0.1.10+20150419") (d (list (d (n "hyper") (r "^0.7.0") (d #t) (k 0)) (d (n "mime") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r ">= 0.6.0") (d #t) (k 0)) (d (n "serde_codegen") (r "*") (d #t) (k 1)) (d (n "serde_json") (r ">= 0.6.0") (d #t) (k 0)) (d (n "syntex") (r "*") (d #t) (k 1)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1k21jjhds8ghzcpb26mpy9swnkhzwkxwfgbnd5nyifzd42ik6nlr")))
+
+(define-public crate-google-audit1-0.1.11+20150419 (c (n "google-audit1") (v "0.1.11+20150419") (d (list (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "mime") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r ">= 0.6.0") (d #t) (k 0)) (d (n "serde_codegen") (r ">= 0.6") (d #t) (k 1)) (d (n "serde_json") (r ">= 0.6.0") (d #t) (k 0)) (d (n "syntex") (r ">= 0.23") (d #t) (k 1)) (d (n "url") (r ">= 0.5") (d #t) (k 0)) (d (n "yup-oauth2") (r ">= 0.5.4") (d #t) (k 0)))) (h "0f6w3ll4maf6j1shshykd0jv5y86l06wkdm8c4ffvc33qivjjyiz")))
+

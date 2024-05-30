@@ -1,0 +1,4 @@
+(define-module (crates-io sh ar sharify) #:use-module (crates-io))
+
+(define-public crate-sharify-0.1.0 (c (n "sharify") (v "0.1.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "ndarray") (r "^0.14") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "nix") (r "^0.20") (d #t) (t "cfg(unix)") (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "raw_sync") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("ntdef" "winerror" "errhandlingapi" "handleapi" "memoryapi" "winbase" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1m7bnxfyiydd4spcs0r961l92pw59jcq4imvfdskr4yvv3i7vr14") (f (quote (("shared_ndarray" "ndarray") ("default" "shared_ndarray"))))))
+

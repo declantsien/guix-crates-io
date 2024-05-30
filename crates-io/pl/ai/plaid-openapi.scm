@@ -1,0 +1,14 @@
+(define-module (crates-io pl ai plaid-openapi) #:use-module (crates-io))
+
+(define-public crate-plaid-openapi-0.1.0 (c (n "plaid-openapi") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "httpclient") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1nfz91y33wbpgmbia3x12jcxpsfz2nvmh0skw9m7d82dhz0z6skj")))
+
+(define-public crate-plaid-openapi-0.1.3 (c (n "plaid-openapi") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "httpclient") (r "^0.1.13") (d #t) (k 0)) (d (n "openapi-client-generator") (r "^0.1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 2)))) (h "1xr74ghb044bbw13xfhmkib28kych2d0n4g7yginb1n2gvd9ggf4")))
+
+(define-public crate-plaid-openapi-0.1.4 (c (n "plaid-openapi") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "httpclient") (r "^0.1.13") (d #t) (k 0)) (d (n "openapi-client-generator") (r "^0.1.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 2)))) (h "0p7bz9vighrirx03lylpxh3wxd1dcl7hy1v6q60ngsvv7ml95ww6")))
+
+(define-public crate-plaid-openapi-0.1.5 (c (n "plaid-openapi") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "httpclient") (r "^0.1.13") (d #t) (k 0)) (d (n "openapi-client-generator") (r "=0.1.9") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 2)))) (h "1a41hr897401iz3c9adr92kkh0119g60wxh6a3ydv972ssn5an56")))
+
+(define-public crate-plaid-openapi-2.0.0 (c (n "plaid-openapi") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "httpclient") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 2)))) (h "0llggx1kas5109wvm5lvd5pgjqzf38pz0vr4mibhv0zrjfsjfc5b")))
+
+(define-public crate-plaid-openapi-3.0.0 (c (n "plaid-openapi") (v "3.0.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "httpclient") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 2)))) (h "1rgrh6fp494ndipk5nns2sfkfjgj71mm8fjv8dsmh8mn3a8d4a5q")))
+

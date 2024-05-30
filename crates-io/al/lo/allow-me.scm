@@ -1,0 +1,6 @@
+(define-module (crates-io al lo allow-me) #:use-module (crates-io))
+
+(define-public crate-allow-me-0.1.0 (c (n "allow-me") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.3") (d #t) (k 2)) (d (n "bytes") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proptest") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "test-case") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "01qmpbvgacw6yisckc4ikygixapqhyp5ksc491gl86s2j770zy5p")))
+
+(define-public crate-allow-me-0.1.1 (c (n "allow-me") (v "0.1.1") (d (list (d (n "assert_matches") (r "^1.3") (d #t) (k 2)) (d (n "bytes") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proptest") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "=1.0.57") (d #t) (k 2)) (d (n "test-case") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hdh8cvzkdfdcr5299jh53flh8im75ficf8qsp58s4w2256kpy04")))
+

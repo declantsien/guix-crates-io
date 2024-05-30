@@ -1,0 +1,4 @@
+(define-module (crates-io da nm danmuji) #:use-module (crates-io))
+
+(define-public crate-danmuji-0.1.0 (c (n "danmuji") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.7") (d #t) (k 0)) (d (n "diesel") (r "^1.4") (f (quote ("chrono" "r2d2" "postgres"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.14.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "hey_listen") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 0)) (d (n "r2d2") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "serenity") (r "^0.6.0") (d #t) (k 0)) (d (n "white_rabbit") (r "^0.1.1") (d #t) (k 0)))) (h "0s3b2mknl5zc16cmv8lmdc3frc7j8pmf0ghg4skwi4g87gwi5dx0")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ma x3 max32660-hal) #:use-module (crates-io))
+
+(define-public crate-max32660-hal-0.1.0 (c (n "max32660-hal") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7.4") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "max32660-pac") (r "0.1.*") (f (quote ("rt"))) (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "18w7lpyf5fz9287wrcrnp5vm3m1vqhqi2jm5r21b0bbfyn3jyp1m") (f (quote (("rt" "max32660-pac/rt") ("pkg-wlp") ("pkg-tqfn") ("doc") ("default" "rt" "pkg-tqfn"))))))
+
+(define-public crate-max32660-hal-0.1.1 (c (n "max32660-hal") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.7.4") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "max32660-pac") (r "0.1.*") (f (quote ("rt"))) (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "0j4p8fs1i6r713mc5g2ih8g2l3xray8lysv2qy6b0ch7wziprvmv") (f (quote (("rt" "max32660-pac/rt") ("pkg-wlp") ("pkg-tqfn") ("doc") ("default" "rt" "pkg-tqfn"))))))
+
+(define-public crate-max32660-hal-0.2.0 (c (n "max32660-hal") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7.4") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "0.7.*") (d #t) (k 0)) (d (n "max32660-pac") (r "0.1.*") (f (quote ("rt"))) (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "0vf3kngsph11jr7f5x5zi1r7ql6iffb59vdb5ddq3lvj9v6mswrf") (f (quote (("rt" "max32660-pac/rt") ("pkg-wlp") ("pkg-tqfn") ("doc") ("default" "rt" "pkg-tqfn"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io tr ee treelight) #:use-module (crates-io))
+
+(define-public crate-treelight-0.1.0 (c (n "treelight") (v "0.1.0") (d (list (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-cpp") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.19.2") (d #t) (k 0)) (d (n "tree-sitter-java") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-javascript") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-python") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.19.0") (d #t) (k 0)))) (h "0r4ynkgzvl6ra5qpak3g7pnidi849hsmcvg51bj1i968avvdzhc6")))
+
+(define-public crate-treelight-0.1.1 (c (n "treelight") (v "0.1.1") (d (list (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-cpp") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.19.2") (d #t) (k 0)) (d (n "tree-sitter-java") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-javascript") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-python") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.19.0") (d #t) (k 0)))) (h "00ir0h9v2x9ljddvawigpm8x2hhig4yd9y2cnwy9557kzhhljvkd")))
+
+(define-public crate-treelight-0.1.2 (c (n "treelight") (v "0.1.2") (d (list (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-cpp") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.19.2") (d #t) (k 0)) (d (n "tree-sitter-java") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-javascript") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-python") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.19.0") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.13.0") (d #t) (k 0)))) (h "0pwl31143qrkd6y3f4i1z4makg2w5n60rcjlwk54dq1nwgyf10n4")))
+
+(define-public crate-treelight-0.2.0 (c (n "treelight") (v "0.2.0") (d (list (d (n "tree-sitter") (r "^0.20.1") (d #t) (k 0)) (d (n "tree-sitter-cpp") (r "^0.20.0") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.20.1") (d #t) (k 0)) (d (n "tree-sitter-javascript") (r "^0.20.0") (d #t) (k 0)) (d (n "tree-sitter-python") (r "^0.19.1") (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20.0") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.20.0") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.14.1") (d #t) (k 0)))) (h "021vp8hdrviq6gp1nvqhynzj8b1v4z3dwanggr1wa37xb6yxanid")))
+
+(define-public crate-treelight-0.3.0 (c (n "treelight") (v "0.3.0") (d (list (d (n "cc") (r "^1.0.72") (d #t) (k 1)) (d (n "tree-sitter") (r "^0.20.4") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.20.1") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.14.1") (d #t) (k 0)))) (h "0yac14mii50zrrgv4jg7fjghpjn94wrbpqigj0ly9fb8cv1sg6z2")))
+
+(define-public crate-treelight-0.3.1 (c (n "treelight") (v "0.3.1") (d (list (d (n "cc") (r "^1.0.72") (d #t) (k 1)) (d (n "tree-sitter") (r "^0.20.4") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.20.1") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.14.1") (d #t) (k 0)))) (h "0xrl2244pxwi629ng2ry5nc6xzsgz39p0rfizm4bbfn8vn0rfixm")))
+
+(define-public crate-treelight-0.3.2 (c (n "treelight") (v "0.3.2") (d (list (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "tree-sitter") (r "^0.20.9") (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.20.1") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.15.8") (d #t) (k 0)))) (h "0im74ikxi4majayci00v0p6bsmf0952acn9lvv502rnb2caz78fs")))
+

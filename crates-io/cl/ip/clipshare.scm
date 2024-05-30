@@ -1,0 +1,8 @@
+(define-module (crates-io cl ip clipshare) #:use-module (crates-io))
+
+(define-public crate-clipshare-0.0.2 (c (n "clipshare") (v "0.0.2") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "14fadljrzljva6yp3yfkxgdmsk49p1lqk6a2yg42w48w5vgas7fd")))
+
+(define-public crate-clipshare-0.0.3 (c (n "clipshare") (v "0.0.3") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("io-std" "io-util" "macros" "net" "rt" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "17rv1c7pdnr49bs6l818amzm8k0nzg0ig3vp35fp7788p3fgsfwa")))
+
+(define-public crate-clipshare-0.0.7 (c (n "clipshare") (v "0.0.7") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rcgen") (r "^0.10.0") (d #t) (k 0)) (d (n "rustls") (r "^0.21.1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("io-std" "io-util" "macros" "net" "rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.24.0") (f (quote ("dangerous_configuration"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1lq3r7fsy5k214q3xh8f9lwm39rzcidk695qwx2n75xylz062vmk")))
+

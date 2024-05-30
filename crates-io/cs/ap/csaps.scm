@@ -1,0 +1,10 @@
+(define-module (crates-io cs ap csaps) #:use-module (crates-io))
+
+(define-public crate-csaps-0.1.0 (c (n "csaps") (v "0.1.0") (d (list (d (n "almost") (r "^0.2.0") (d #t) (k 0)) (d (n "approx") (r "^0.3.2") (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13") (f (quote ("approx"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "sprs") (r "^0.7.1") (d #t) (k 0)) (d (n "sprs-ldl") (r "^0.5.0") (d #t) (k 0)))) (h "04ysb8nqm2nm6scxg162qmhy8n5cykcqfgvyvv0p18j2xszr935r")))
+
+(define-public crate-csaps-0.2.0 (c (n "csaps") (v "0.2.0") (d (list (d (n "almost") (r "^0.2.0") (d #t) (k 0)) (d (n "approx") (r "^0.3.2") (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13") (f (quote ("approx"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "sprs") (r "^0.7.1") (d #t) (k 0)) (d (n "sprs-ldl") (r "^0.5.0") (d #t) (k 0)))) (h "0xv2dklrd7xcsk8l9y9dkqm8cjkl7lxd7hnacbb806bg40z04402")))
+
+(define-public crate-csaps-0.2.1 (c (n "csaps") (v "0.2.1") (d (list (d (n "almost") (r "^0.2.0") (d #t) (k 0)) (d (n "approx") (r "^0.3.2") (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13") (f (quote ("approx"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "sprs") (r "^0.7.1") (d #t) (k 0)) (d (n "sprs-ldl") (r "^0.5.0") (d #t) (k 0)))) (h "0vkfrn9yjwwb9p7mh1pjzid0wdbrxfkja2czh34rkx1gy4mmy80x")))
+
+(define-public crate-csaps-0.3.0 (c (n "csaps") (v "0.3.0") (d (list (d (n "almost") (r "^0.2.0") (d #t) (k 0)) (d (n "approx") (r "^0.3.2") (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.13") (f (quote ("approx"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "sprs") (r "^0.7.1") (d #t) (k 0)) (d (n "sprs-ldl") (r "^0.5.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.12") (d #t) (k 0)))) (h "02l36apcflf9ynzm2is48xzx114mmfjaafvffn3dy8ylklb1vyvb")))
+

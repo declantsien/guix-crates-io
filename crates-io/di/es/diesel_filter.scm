@@ -1,0 +1,16 @@
+(define-module (crates-io di es diesel_filter) #:use-module (crates-io))
+
+(define-public crate-diesel_filter-0.1.0 (c (n "diesel_filter") (v "0.1.0") (d (list (d (n "diesel") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "078q3qhwc4bhwaf3ar3ngf6maply3pi5hmffhw7v8nw98dlp9d7k") (f (quote (("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel"))))))
+
+(define-public crate-diesel_filter-0.1.1 (c (n "diesel_filter") (v "0.1.1") (d (list (d (n "diesel") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r ">=0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "08jdr4pnw58c8i8j927f6xf9kj5vf1gjf86vg5sph635cwlpbi5n") (f (quote (("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel"))))))
+
+(define-public crate-diesel_filter-0.1.2 (c (n "diesel_filter") (v "0.1.2") (d (list (d (n "diesel") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r ">=0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0lqw7c5cwg10jma8vmy8apic0pdjzq36ywscxj40fb1rf6x2i4q3") (f (quote (("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel") ("actix" "diesel_filter_query/actix"))))))
+
+(define-public crate-diesel_filter-1.0.0 (c (n "diesel_filter") (v "1.0.0") (d (list (d (n "diesel") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r ">=1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0kc1sh51p7y2zxqrvvxyn783rmp5mb08zf92l0ia4z766n16pv10") (f (quote (("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel") ("axum" "diesel_filter_query/axum") ("actix" "diesel_filter_query/actix"))))))
+
+(define-public crate-diesel_filter-1.0.1 (c (n "diesel_filter") (v "1.0.1") (d (list (d (n "diesel") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r ">=1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0dn8g6vsqnbqarhwcb3nmnpygiyah2j1q226chszs1bgd3pvzksd") (f (quote (("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel") ("axum" "diesel_filter_query/axum") ("actix" "diesel_filter_query/actix")))) (y #t)))
+
+(define-public crate-diesel_filter-1.0.2 (c (n "diesel_filter") (v "1.0.2") (d (list (d (n "diesel") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r ">=1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "008ppsca01nyrwx74fyss0nlxr5533g9yp0n2nk4fifgxkf3xrpm") (f (quote (("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel") ("axum" "diesel_filter_query/axum") ("actix" "diesel_filter_query/actix"))))))
+
+(define-public crate-diesel_filter-1.0.3 (c (n "diesel_filter") (v "1.0.3") (d (list (d (n "diesel") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "diesel_filter_query") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1kncbi0yv5c3h21bg85hn6jjg3jmx931v5p3fzvf3q0gy3q3pgi5") (f (quote (("utoipa" "diesel_filter_query/utoipa") ("serialize" "serde") ("rocket" "diesel_filter_query/rocket") ("pagination" "diesel") ("axum" "diesel_filter_query/axum") ("actix" "diesel_filter_query/actix"))))))
+

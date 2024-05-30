@@ -1,0 +1,4 @@
+(define-module (crates-io wo rd wordnet-ls) #:use-module (crates-io))
+
+(define-public crate-wordnet-ls-0.1.0 (c (n "wordnet-ls") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "expect-test") (r "^1.5.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-server") (r "^0.7.6") (d #t) (k 0)) (d (n "lsp-types") (r "^0.95.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "01g5kpxkpx9zxwij6dsxacbycldzmxffmplr2vys4im21np4r24d")))
+

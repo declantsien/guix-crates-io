@@ -1,0 +1,10 @@
+(define-module (crates-io lo tu lotus-utils-texture) #:use-module (crates-io))
+
+(define-public crate-lotus-utils-texture-0.1.0 (c (n "lotus-utils-texture") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "bytebuffer") (r "^2.2.0") (d #t) (k 0)) (d (n "ddsfile") (r "^0.5.2") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "lotus-lib") (r "3.*") (f (quote ("internal"))) (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "1r4sl4caj128839kamhk0sam6vf37x7yi5sq4yfc8arbjy1pfw68")))
+
+(define-public crate-lotus-utils-texture-0.1.1 (c (n "lotus-utils-texture") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "bytebuffer") (r "^2.2.0") (d #t) (k 0)) (d (n "ddsfile") (r "^0.5.2") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "lotus-lib") (r "^4.0.0") (f (quote ("internal"))) (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "049jilhvf1gha5s235jafvi9nkflzwafbrvbafs31giin1ypvaky")))
+
+(define-public crate-lotus-utils-texture-0.2.0 (c (n "lotus-utils-texture") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "bytebuffer") (r "^2.2.0") (d #t) (k 0)) (d (n "ddsfile") (r "^0.5.2") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "lotus-lib") (r "^4.0.0") (f (quote ("internal"))) (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "1pnxi0811bw32cwchydc416bqb1i8m9zg4kc3paarqz200vjxmaa")))
+
+(define-public crate-lotus-utils-texture-0.2.1 (c (n "lotus-utils-texture") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "bytebuffer") (r "^2.2.0") (d #t) (k 0)) (d (n "ddsfile") (r "^0.5.2") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "lotus-lib") (r "^4.0.1") (f (quote ("internal"))) (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "0bpkjnyzy0nwszvf03pl0bl9yh85jm5gplvqndklyqbia83z746x")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io le pt leptix_primitives) #:use-module (crates-io))
+
+(define-public crate-leptix_primitives-0.1.0 (c (n "leptix_primitives") (v "0.1.0") (d (list (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "leptos") (r "^0.6") (d #t) (k 0)) (d (n "leptos-use") (r "^0.10.4") (d #t) (k 0)) (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.92") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("CustomEventInit" "EventInit"))) (d #t) (k 0)))) (h "18ys7dim8494nfd40zkj9dhg1ar6kbp2162cib7h1918rzyjp8dx") (f (quote (("ssr" "leptos/ssr" "leptos-use/ssr") ("nightly" "leptos/nightly") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+

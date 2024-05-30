@@ -1,0 +1,8 @@
+(define-module (crates-io lu ck lucky-command) #:use-module (crates-io))
+
+(define-public crate-lucky-command-0.1.0 (c (n "lucky-command") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.11") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)))) (h "0zax946s1gskb5zp2lj2y0kx3vm16b4znj8c8229fnlv5w027mgm")))
+
+(define-public crate-lucky-command-0.2.0 (c (n "lucky-command") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "02gkjwz1sikmjbc9rr322cjl0s9nd2y16d5z2wjfkdillrkvjvl1")))
+
+(define-public crate-lucky-command-0.2.1 (c (n "lucky-command") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "0gwqapbg8cy8ijij4pshplb5c43xr63y3wa518mhdwp8wx7nmvcb")))
+

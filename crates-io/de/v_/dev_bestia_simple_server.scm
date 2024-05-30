@@ -1,0 +1,6 @@
+(define-module (crates-io de v_ dev_bestia_simple_server) #:use-module (crates-io))
+
+(define-public crate-dev_bestia_simple_server-2021.910.1336 (c (n "dev_bestia_simple_server") (v "2021.910.1336") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "http") (r "^0.2.4") (d #t) (k 0)) (d (n "httparse") (r "^1.5.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.7") (d #t) (k 0)) (d (n "time") (r "^0.3.1") (f (quote ("default" "parsing" "formatting" "macros" "std"))) (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0cg2vrpgrbk08sflmyhvfg3grn4vm0z50jk4zamvck86xs7afkba") (y #t)))
+
+(define-public crate-dev_bestia_simple_server-2021.918.1640 (c (n "dev_bestia_simple_server") (v "2021.918.1640") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "http") (r "^0.2.4") (d #t) (k 0)) (d (n "httparse") (r "^1.5.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.7") (d #t) (k 0)) (d (n "time") (r "^0.3.1") (f (quote ("default" "parsing" "formatting" "macros" "std"))) (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0pj641akw4r7mijs69w8ncypnaha73h9cm91nxqnlly7x8md48hn")))
+

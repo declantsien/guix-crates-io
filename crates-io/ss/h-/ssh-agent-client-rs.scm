@@ -1,0 +1,16 @@
+(define-module (crates-io ss h- ssh-agent-client-rs) #:use-module (crates-io))
+
+(define-public crate-ssh-agent-client-rs-0.1.0 (c (n "ssh-agent-client-rs") (v "0.1.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.5.1") (d #t) (k 0)))) (h "0mz5gnjwdrf3bk2c2a7sp8z79g5dgwckxa7fqy758cwbpd57pb4i")))
+
+(define-public crate-ssh-agent-client-rs-0.2.0 (c (n "ssh-agent-client-rs") (v "0.2.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.9") (d #t) (k 2)) (d (n "hexdump") (r "^0.1.1") (d #t) (k 0)) (d (n "signature") (r "^1.6.4") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.5.1") (f (quote ("ed25519" "dsa" "ecdsa" "rsa"))) (d #t) (k 0)))) (h "055s3pb9ahq7lkp048s2fxjh2k5ibi9jbv21jq05wfbldfcwm72n")))
+
+(define-public crate-ssh-agent-client-rs-0.3.0 (c (n "ssh-agent-client-rs") (v "0.3.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.9") (d #t) (k 2)) (d (n "hexdump") (r "^0.1.1") (d #t) (k 0)) (d (n "signature") (r "^1.6.4") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.5.1") (f (quote ("rsa" "dsa" "ed25519" "ecdsa"))) (d #t) (k 0)))) (h "0qd50fbkvg37b6rvcax9bqlip3y3lhs66cjvgmg4icrhr8698519")))
+
+(define-public crate-ssh-agent-client-rs-0.4.0 (c (n "ssh-agent-client-rs") (v "0.4.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.9") (d #t) (k 2)) (d (n "hexdump") (r "^0.1.1") (d #t) (k 0)) (d (n "signature") (r "^1.6.4") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.5.1") (f (quote ("rsa" "dsa" "ed25519" "ecdsa"))) (d #t) (k 0)))) (h "014h1k1588dv2c71jnhhhjixwbsbc3b99qwdla94ad6x19ljsh8r")))
+
+(define-public crate-ssh-agent-client-rs-0.5.0 (c (n "ssh-agent-client-rs") (v "0.5.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.9") (d #t) (k 2)) (d (n "signature") (r "^1.6.4") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.1.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.5.1") (f (quote ("rsa" "dsa" "ed25519" "ecdsa" "p256" "p384"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "0lbcir08ysnpnknzsgnzrl9sd5703j3rcfzm5vys3wkik4ff13ys")))
+
+(define-public crate-ssh-agent-client-rs-0.9.0 (c (n "ssh-agent-client-rs") (v "0.9.0") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.10") (d #t) (k 2)) (d (n "signature") (r "^2.1.0") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.2.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.6.2") (f (quote ("crypto"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1j4bqmzbrk8a4qs1dvy6n7x87n6m3nify7wph8rsqqdv6ca3jz7j")))
+
+(define-public crate-ssh-agent-client-rs-0.9.1 (c (n "ssh-agent-client-rs") (v "0.9.1") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.12") (d #t) (k 2)) (d (n "signature") (r "^2.2.0") (d #t) (k 0)) (d (n "ssh-encoding") (r "^0.2.0") (d #t) (k 0)) (d (n "ssh-key") (r "^0.6.4") (f (quote ("crypto"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "0y2d0zljv55dd9j3c310s9fs9qjvh6wka5zqadw1b40k5s57kjgv")))
+

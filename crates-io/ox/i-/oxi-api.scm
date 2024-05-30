@@ -1,0 +1,10 @@
+(define-module (crates-io ox i- oxi-api) #:use-module (crates-io))
+
+(define-public crate-oxi-api-0.3.0 (c (n "oxi-api") (v "0.3.0") (d (list (d (n "oxi-luajit") (r "^0.3.0") (d #t) (k 0)) (d (n "oxi-types") (r "^0.3.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1yr3rbwhzhn3fpw9k6q53qn6hsgpay4jgj13wlj0p3ky1y4agfhp") (f (quote (("neovim-nightly") ("neovim-0-9") ("neovim-0-8"))))))
+
+(define-public crate-oxi-api-0.4.0 (c (n "oxi-api") (v "0.4.0") (d (list (d (n "oxi-luajit") (r "^0.4.0") (d #t) (k 0)) (d (n "oxi-macros") (r "^0.4.0") (f (quote ("module"))) (d #t) (k 0)) (d (n "oxi-types") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1751rqdwk3har1kcl116xy03d5n47b8wfwk9wsg6xp4lg549jnk9") (f (quote (("neovim-nightly") ("neovim-0-9") ("neovim-0-8"))))))
+
+(define-public crate-oxi-api-0.4.1 (c (n "oxi-api") (v "0.4.1") (d (list (d (n "oxi-luajit") (r "^0.4.1") (d #t) (k 0)) (d (n "oxi-macros") (r "^0.4.1") (f (quote ("module"))) (d #t) (k 0)) (d (n "oxi-types") (r "^0.4.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "110jvhj2adjvavm2w47psd4nahzgwplcqjdpngz71iq6piq7i9yf") (f (quote (("neovim-nightly") ("neovim-0-9") ("neovim-0-8"))))))
+
+(define-public crate-oxi-api-0.4.2 (c (n "oxi-api") (v "0.4.2") (d (list (d (n "oxi-luajit") (r "^0.4.2") (d #t) (k 0)) (d (n "oxi-macros") (r "^0.4.2") (f (quote ("module"))) (d #t) (k 0)) (d (n "oxi-types") (r "^0.4.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0x7iik6imi5krakz4qz2fbc3x30krgbbvz3dh7z2jd51mwficsg9") (f (quote (("neovim-nightly") ("neovim-0-9") ("neovim-0-8"))))))
+

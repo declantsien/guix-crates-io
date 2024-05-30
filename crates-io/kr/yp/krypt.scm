@@ -1,0 +1,4 @@
+(define-module (crates-io kr yp krypt) #:use-module (crates-io))
+
+(define-public crate-krypt-0.1.0 (c (n "krypt") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "blake3") (r "^0.1.3") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "data-encoding") (r "^2.1.2") (d #t) (k 0)) (d (n "digest") (r "^0.8.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.0") (d #t) (k 0)) (d (n "hexyl") (r "^0.6.0") (d #t) (k 0)) (d (n "md-5") (r "^0.8.0") (d #t) (k 0)) (d (n "md2") (r "^0.8.0") (d #t) (k 0)) (d (n "md4") (r "^0.8.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.8.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "streebog") (r "^0.8.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.9") (d #t) (k 0)))) (h "0lxfc6xc2bjhn3ng0qrshxhavgw299a0yc1w6fshyp9hf64zigaz")))
+

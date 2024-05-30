@@ -1,0 +1,10 @@
+(define-module (crates-io tt gr ttgraph_macros) #:use-module (crates-io))
+
+(define-public crate-ttgraph_macros-0.1.0 (c (n "ttgraph_macros") (v "0.1.0") (d (list (d (n "change-case") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut" "parsing"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13") (d #t) (k 0)))) (h "1cvqnmgcgxi0il54hb5yw7yza2my43gj9l3kgw9xnphwh51mwb0w")))
+
+(define-public crate-ttgraph_macros-0.2.0 (c (n "ttgraph_macros") (v "0.2.0") (d (list (d (n "change-case") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut" "parsing"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13") (d #t) (k 0)))) (h "1rs0vqf5yxp4b49mr8r096fvmlj8qf5m1i3xvsf05w9zqyi5glj8")))
+
+(define-public crate-ttgraph_macros-0.2.1 (c (n "ttgraph_macros") (v "0.2.1") (d (list (d (n "change-case") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut" "parsing"))) (d #t) (k 0)))) (h "1qw0mvwkraxxcr7gxv174ccx2nysnka7hs5kib0p324zhr44m1fp")))
+
+(define-public crate-ttgraph_macros-0.2.2 (c (n "ttgraph_macros") (v "0.2.2") (d (list (d (n "change-case") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit" "visit-mut" "parsing"))) (d #t) (k 0)))) (h "14nh83yy22b818wf15mx78nj8rx8c2czq5cxl2448wcwd9nlizf5")))
+

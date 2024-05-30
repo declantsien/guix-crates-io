@@ -1,0 +1,22 @@
+(define-module (crates-io ko lo kolor-64) #:use-module (crates-io))
+
+(define-public crate-kolor-64-0.1.0 (c (n "kolor-64") (v "0.1.0") (d (list (d (n "glam") (r "^0.13.1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1hcvwji3zlagi0srxxg1h2bm00jfhyd5ls9f48h1kx488255ibkf") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.1 (c (n "kolor-64") (v "0.1.1") (d (list (d (n "glam") (r "^0.13.1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0ci4x4a2sl27399npq3aqpnciqnbp0x8xy0iyq037yayk41k1rwc") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.2 (c (n "kolor-64") (v "0.1.2") (d (list (d (n "glam") (r "^0.13.1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1j7jld4n14mymcsi0fb79k7wbpbxngfvpbvgm514y42hn6lhka91") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.3 (c (n "kolor-64") (v "0.1.3") (d (list (d (n "glam") (r "^0.13.1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0i03nm12rsfzc495k2k85vrm3bv9qhwzkf0ysz5pynkagh4n4k2m") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.4 (c (n "kolor-64") (v "0.1.4") (d (list (d (n "glam") (r "^0.13.1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1bxqzim9zvqq1yl12gyhsy4cn47fzb8419kn97h169g1hninmsmr") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.5 (c (n "kolor-64") (v "0.1.5") (d (list (d (n "glam") (r "^0.13.1") (k 0)) (d (n "num-traits") (r "^0.2.14") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "157qqyxvpljzl3wzmcsjkbq2sd24v43lsmwpngj1dc4yv198hwxp") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "glam/libm" "num-traits" "num-traits/libm") ("f64") ("default" "color-matrices" "f64" "std") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.6 (c (n "kolor-64") (v "0.1.6") (d (list (d (n "glam") (r "^0.17.1") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0ifi545vpf43dqz816kcx25mq2xwccyccdhxjfkqmg8wwgbcq69c") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "num-traits" "num-traits/libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std" "glam") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.7 (c (n "kolor-64") (v "0.1.7") (d (list (d (n "glam") (r "^0.17.1") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0i082j8cbblm0s37lmn53d7p067nbxpjaq7qfxji90l12d6h43gp") (f (quote (("std" "glam/std") ("serde1" "serde" "glam/serde") ("libm" "num-traits" "num-traits/libm" "glam/libm") ("f64") ("default" "color-matrices" "f64" "std" "glam") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.8 (c (n "kolor-64") (v "0.1.8") (d (list (d (n "glam") (r "^0.17.1") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0099iycy3ava0kfcv7zsbrjwm4yad5mr9ajqdsbwh0fwv8xlm25x") (f (quote (("std-glam" "std" "glam/std") ("std") ("serde1" "serde" "glam/serde") ("libm-glam" "libm" "glam/libm") ("libm" "num-traits" "num-traits/libm") ("f64") ("default" "color-matrices" "f64" "std-glam") ("color-matrices"))))))
+
+(define-public crate-kolor-64-0.1.9 (c (n "kolor-64") (v "0.1.9") (d (list (d (n "glam") (r "^0.23") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0pgic7fk33j35pw79n8qlbfgg4xxcsb4j6pg685lrb6y1p3jizsf") (f (quote (("std-glam" "std" "glam/std") ("std") ("serde1" "serde" "glam/serde") ("libm-glam" "libm" "glam/libm") ("libm" "num-traits" "num-traits/libm") ("f64") ("default" "color-matrices" "f64" "std-glam") ("color-matrices"))))))
+

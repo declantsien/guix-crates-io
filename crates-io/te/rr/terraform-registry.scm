@@ -1,0 +1,4 @@
+(define-module (crates-io te rr terraform-registry) #:use-module (crates-io))
+
+(define-public crate-terraform-registry-0.1.0 (c (n "terraform-registry") (v "0.1.0") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "miette") (r "^5.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "1hk81ks579gqmf366nrgr6xw8nkxqjgyibzriz9n8vayxrsf4dn3") (f (quote (("__cli" "clap" "miette/fancy" "tracing-subscriber" "tokio"))))))
+

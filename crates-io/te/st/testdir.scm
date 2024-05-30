@@ -1,0 +1,34 @@
+(define-module (crates-io te st testdir) #:use-module (crates-io))
+
+(define-public crate-testdir-0.1.0 (c (n "testdir") (v "0.1.0") (d (list (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "whoami") (r "^1.0.0") (d #t) (k 0)))) (h "1s3zjmj3bkv7dbd0f1qb8m6wks8wlzvcxkljdlc67wpn0qzsi7mf")))
+
+(define-public crate-testdir-0.2.0 (c (n "testdir") (v "0.2.0") (d (list (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "whoami") (r "^1.0.0") (d #t) (k 0)))) (h "0vrsv1mmgjv6plp62l6zkpgaip3m910hnj9r7n923vsarpbksqln")))
+
+(define-public crate-testdir-0.3.0 (c (n "testdir") (v "0.3.0") (d (list (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "heim") (r "^0.1.0-beta.3") (f (quote ("process"))) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "smol") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "whoami") (r "^1.0.0") (d #t) (k 0)))) (h "09abyvbyz3ygk1l9n0kf89hhmrxnczax0zqvzm6m4wcagx04f6a3")))
+
+(define-public crate-testdir-0.3.1 (c (n "testdir") (v "0.3.1") (d (list (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "heim") (r "^0.1.0-beta.3") (f (quote ("process"))) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "smol") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "whoami") (r "^1.0.0") (d #t) (k 0)))) (h "1ds91bpfknc407zy9vxqb13bf16j7vp3d2c1pyii6bynv23aidib")))
+
+(define-public crate-testdir-0.4.0 (c (n "testdir") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "heim") (r "^0.1.0-beta.3") (f (quote ("process"))) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "smol") (r "^1.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "whoami") (r "^1.0.0") (d #t) (k 0)))) (h "11c0x6p47bbsn5114f22b794xlp4h154c4iwvdrx7iqhw5baa4qw")))
+
+(define-public crate-testdir-0.5.0 (c (n "testdir") (v "0.5.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "heim") (r "^0.1.0-rc.1") (f (quote ("process"))) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "smol") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "1yd5w5h4rqmwrc8anrwa3zqyyjl68kdcydax8mrg4y188ca07bcw")))
+
+(define-public crate-testdir-0.5.1 (c (n "testdir") (v "0.5.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "heim") (r "^0.1.0-rc.1") (f (quote ("process"))) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "smol") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "1cp87wxhvnx7zwg3r4ivr9g3nd23bz9r39b8pz32zdwrjy4m3asd")))
+
+(define-public crate-testdir-0.6.0 (c (n "testdir") (v "0.6.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "psutil") (r "^3.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "0hchslajjkpbbvq7ggcr508jx4z6zh44fsi14b4rzq7n3agpm6gk")))
+
+(define-public crate-testdir-0.7.0 (c (n "testdir") (v "0.7.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "19imxjky3a1fd7pnkrfy50fnzkyafsaiba0j5mwqi1m6gsms31xf")))
+
+(define-public crate-testdir-0.7.1 (c (n "testdir") (v "0.7.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "1ir06x9w6ls8jpyrx2h9k2y0xgq05wjljs2w91cihddh2rfrs0i3")))
+
+(define-public crate-testdir-0.7.2 (c (n "testdir") (v "0.7.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "0dz1x90lfkr7rs1vfhb2ggr8xgld4sa2hrg0syg5afsiyw0ba7n3")))
+
+(define-public crate-testdir-0.7.3 (c (n "testdir") (v "0.7.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "0lpmirbzfxf1089vy2vfi23x2p1y9x8i2j28ngnimbf4wwhwjpx4")))
+
+(define-public crate-testdir-0.8.0 (c (n "testdir") (v "0.8.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "19zgghyzb71xfb7wh8x2pn4rxajwbysb8m3f3snd3cygk1b9dds8")))
+
+(define-public crate-testdir-0.8.1 (c (n "testdir") (v "0.8.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "0sfqsnh19v6jq0jwxdr2cdm8pxqd3jl8i9fysdwwglz1wyi60028")))
+
+(define-public crate-testdir-0.9.0 (c (n "testdir") (v "0.9.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "1d3wjk3582q8ksqqm0q0ihdnjpflfws4cd3sybxq3ahh1ad1iyli")))
+
+(define-public crate-testdir-0.9.1 (c (n "testdir") (v "0.9.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.55") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.14.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "sysinfo") (r "^0.26") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "whoami") (r "^1") (d #t) (k 0)))) (h "0lny0rq1fm7h7g7bipig4idfxq3bnl70mlk0pdd3y6adnqkyjygf")))
+

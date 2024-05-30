@@ -1,0 +1,6 @@
+(define-module (crates-io di s- dis-spawner-tracing) #:use-module (crates-io))
+
+(define-public crate-dis-spawner-tracing-0.1.0 (c (n "dis-spawner-tracing") (v "0.1.0") (d (list (d (n "hyper") (r "^0.14.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 0)) (d (n "tracing-stackdriver") (r "^0.3.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.7") (f (quote ("env-filter" "json" "time"))) (d #t) (k 0)))) (h "18irwv3b8izd3jynhk4wxbacyxcpf3wv9nnwy5zxw2ppx246nhqf")))
+
+(define-public crate-dis-spawner-tracing-0.1.1 (c (n "dis-spawner-tracing") (v "0.1.1") (d (list (d (n "hyper") (r "^0.14.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 0)) (d (n "tracing-stackdriver") (r "^0.3.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.7") (f (quote ("env-filter" "json" "time"))) (d #t) (k 0)))) (h "1r04hyiiakhh4dsrk70a9qaaicg2jrdf68ynn1vsqfx26lyz8ag6")))
+

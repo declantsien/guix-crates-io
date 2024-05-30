@@ -1,0 +1,6 @@
+(define-module (crates-io de lo delouse) #:use-module (crates-io))
+
+(define-public crate-delouse-0.1.4 (c (n "delouse") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "dropshot") (r "^0.9") (d #t) (k 0)) (d (n "elf") (r "^0.7") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "macros" "net" "time" "io-util"))) (d #t) (k 0)))) (h "18mi5g2b55wkwg6cc8r9zsal7gg4fg8d94hrhbpgra75j1wl9dyl")))
+
+(define-public crate-delouse-0.1.5 (c (n "delouse") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "dropshot") (r "^0.10") (d #t) (k 0)) (d (n "elf") (r "^0.7") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "macros" "net" "time" "io-util"))) (d #t) (k 0)))) (h "1pkrmglj4lkh9n2dpy7lzfazby5g5v856z3w6q8nc22czq5ccrvx")))
+

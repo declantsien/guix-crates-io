@@ -1,0 +1,10 @@
+(define-module (crates-io dm an dmanager) #:use-module (crates-io))
+
+(define-public crate-dmanager-0.1.0 (c (n "dmanager") (v "0.1.0") (d (list (d (n "dinvoke") (r "^0.1.1") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.0") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.0") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)))) (h "09gbkhg8187da05vh76csnnnhvdw5zppfg6036q5i9lq7lynzsbc")))
+
+(define-public crate-dmanager-0.1.1 (c (n "dmanager") (v "0.1.1") (d (list (d (n "dinvoke") (r "^0.1.2") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.1") (d #t) (k 0)) (d (n "dinvoke_overload") (r "^0.1.2") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.2") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.1") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)))) (h "16ba4w16904zv3h4b3ins1mcn5l3x6nr2z5lp3r650gfqqk5sbx6")))
+
+(define-public crate-dmanager-0.1.2 (c (n "dmanager") (v "0.1.2") (d (list (d (n "dinvoke") (r "^0.1.3") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.1") (d #t) (k 0)) (d (n "dinvoke_overload") (r "^0.1.3") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.2") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.2") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)))) (h "0a9vn13ivv62cjcs4jq9ifk5n3026jcsm4fkad61lk0bx6zqcc2z")))
+
+(define-public crate-dmanager-0.1.3 (c (n "dmanager") (v "0.1.3") (d (list (d (n "dinvoke") (r "^0.1.3") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.2") (d #t) (k 0)) (d (n "dinvoke_overload") (r "^0.1.4") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.2") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.3") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)))) (h "0wlkl2gh31472awflyc96gkbzb1m4jxa958f6b30digsp3ydn932")))
+

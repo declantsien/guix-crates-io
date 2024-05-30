@@ -1,0 +1,4 @@
+(define-module (crates-io pe sh peshming) #:use-module (crates-io))
+
+(define-public crate-peshming-0.4.1 (c (n "peshming") (v "0.4.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-anyhow-logger") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "fern") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prometheus") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros" "time"))) (d #t) (k 0)) (d (n "tokio-icmp-echo") (r "^0.4") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "05mrzgsnjfw6hdzzxaiid3pa1dwrabxld89nkmdfk5b6gxsq6l0q")))
+

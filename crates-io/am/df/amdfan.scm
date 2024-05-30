@@ -1,0 +1,4 @@
+(define-module (crates-io am df amdfan) #:use-module (crates-io))
+
+(define-public crate-amdfan-0.1.0 (c (n "amdfan") (v "0.1.0") (d (list (d (n "amdgpu") (r "^1.0.11") (f (quote ("gui-helper"))) (d #t) (k 0)) (d (n "amdgpu") (r "^1.0") (d #t) (k 2)) (d (n "amdgpu-config") (r "^1.0.10") (f (quote ("fan"))) (d #t) (k 0)) (d (n "amdgpu-config") (r "^1.0") (f (quote ("fan"))) (d #t) (k 2)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "gumdrop") (r "^0.8") (d #t) (k 0)) (d (n "ron") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tui") (r "^0.18.0") (d #t) (k 0)))) (h "1zlmmwbcfpqnqks4md0j6sb5yls87nwkv0p9qz6vb8zbgyx89nm8")))
+

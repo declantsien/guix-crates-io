@@ -1,0 +1,36 @@
+(define-module (crates-io rp ds rpds) #:use-module (crates-io))
+
+(define-public crate-rpds-0.0.0 (c (n "rpds") (v "0.0.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)))) (h "0hyrfvbgwkgngbp2zravbzf21m4141yhqh3jq5p826r06vd897y8") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.1.0 (c (n "rpds") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)))) (h "1zjq49mrv28cx0kq9vxgpls152vfxvxyvhkiqn1l1f0n9irsz5c9") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.2.0 (c (n "rpds") (v "0.2.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 2)))) (h "1z2xxilvyh3qmpmfda504s6zjag926i1gjrrpfwys3qdvsvkq06v") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.3.0 (c (n "rpds") (v "0.3.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "bincode") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "1fc1dxi7hzpaq33pzl2ccfp6jbmm40wmrlnasiikp9awzv0211s2") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.4.0 (c (n "rpds") (v "0.4.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "17hsjydby88k4r0d7znsaaas9z4qbn1w3sf5avz8scvvqnrlmhwr") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.5.0 (c (n "rpds") (v "0.5.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "12xdnilynklz9i6pbr2yl4a2n1ipjp8bsgag5kd0dlasg6p3a4nl") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.6.0 (c (n "rpds") (v "0.6.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "085lvg8qd9ssckryxflpyx4bs27dqlywz6fjfgdpwfcq2abmzr8f") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.7.0 (c (n "rpds") (v "0.7.0") (d (list (d (n "archery") (r "^0.3") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 2)))) (h "0fs2k9ms0bvx480bgy73ywwqfzdcx9rl50vr479knd1dynia15hi") (f (quote (("fatal-warnings"))))))
+
+(define-public crate-rpds-0.8.0 (c (n "rpds") (v "0.8.0") (d (list (d (n "archery") (r "^0.4") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "0ahvy7m9h4xd1w756mpmd9w0sqpgvm6r3fb3pxwbnm2b13z1lj2n") (f (quote (("std") ("fatal-warnings") ("default" "std"))))))
+
+(define-public crate-rpds-0.9.0 (c (n "rpds") (v "0.9.0") (d (list (d (n "archery") (r "^0.4") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "1d5dyrv7h7dihr8lf65n02cihq2z8hciisgr5q2bb8nd2jvmhzrq") (f (quote (("std") ("fatal-warnings") ("default" "std"))))))
+
+(define-public crate-rpds-0.10.0 (c (n "rpds") (v "0.10.0") (d (list (d (n "archery") (r "^0.4") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "0piilrndhqapaq9a8sl2vln1qzgcx8999j68jbhrm882xmyl2kh5") (f (quote (("std") ("fatal-warnings") ("default" "std"))))))
+
+(define-public crate-rpds-0.11.0 (c (n "rpds") (v "0.11.0") (d (list (d (n "archery") (r "^0.4") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "07w224mf96cxzrkmx07kq4d8a5vxk9qdxlkcspbbyxmmpi053vxl") (f (quote (("std") ("fatal-warnings") ("default" "std")))) (r "1.56.0")))
+
+(define-public crate-rpds-0.12.0 (c (n "rpds") (v "0.12.0") (d (list (d (n "archery") (r "^0.4.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "serde") (r "^1.0.136") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "005hz6fph4crgq2c2a270w9wqlks871znhdpwrir3yggcfljw9k6") (f (quote (("std") ("fatal-warnings") ("default" "std")))) (r "1.56.0")))
+
+(define-public crate-rpds-0.13.0 (c (n "rpds") (v "0.13.0") (d (list (d (n "archery") (r "^0.5.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.149") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "1agbdwznh48yyk8c9kghnmw0c95zn2nzd37xwnqk3hqmkdbcxmlv") (f (quote (("std") ("fatal-warnings") ("default" "std")))) (r "1.56.0")))
+
+(define-public crate-rpds-1.0.0 (c (n "rpds") (v "1.0.0") (d (list (d (n "archery") (r "^1.0.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.149") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "039521wb9x3dbmlqmbsfldjhjv28nl81l2hbplqmxyix5095liqf") (f (quote (("std") ("fatal-warnings") ("default" "std")))) (r "1.60.0")))
+
+(define-public crate-rpds-1.0.1 (c (n "rpds") (v "1.0.1") (d (list (d (n "archery") (r "^1.0.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.149") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "0d8grp8fd5ladzkrnxf4lhkh651f52y2g2xq3cj1ckfg22a4wcwr") (f (quote (("std") ("fatal-warnings") ("default" "std")))) (r "1.60.0")))
+
+(define-public crate-rpds-1.1.0 (c (n "rpds") (v "1.1.0") (d (list (d (n "archery") (r "^1.1.0") (f (quote ("triomphe"))) (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.149") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "194hjbsicmgqi3dyllqrz09mmhh597m2j9l49lr16cyfscambqd0") (f (quote (("std") ("fatal-warnings") ("default" "std")))) (r "1.60.0")))
+

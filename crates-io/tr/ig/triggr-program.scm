@@ -1,0 +1,6 @@
+(define-module (crates-io tr ig triggr-program) #:use-module (crates-io))
+
+(define-public crate-triggr-program-0.1.0 (c (n "triggr-program") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "blake3") (r "=1.3.3") (d #t) (k 0)) (d (n "solana-address-lookup-table-program") (r "=1.16.14") (d #t) (k 0)) (d (n "solana-program") (r "=1.16.14") (d #t) (k 0)) (d (n "toml_datetime") (r "=0.6.1") (d #t) (k 0)) (d (n "winnow") (r "=0.4.1") (d #t) (k 0)))) (h "00ylfsr7abzrp6qjljy4r51kmkir5chpb5nf5krjig9ipzq6ki4r") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-triggr-program-0.1.1 (c (n "triggr-program") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "solana-address-lookup-table-program") (r "=1.16.15") (d #t) (k 0)) (d (n "solana-program") (r "=1.16.15") (d #t) (k 0)))) (h "1vnkm1z7gmk34d5nb9zb7qx9fcsj0likr68rkmak2xv80j6zn14p") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

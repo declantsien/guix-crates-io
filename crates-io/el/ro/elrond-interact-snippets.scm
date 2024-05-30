@@ -1,0 +1,10 @@
+(define-module (crates-io el ro elrond-interact-snippets) #:use-module (crates-io))
+
+(define-public crate-elrond-interact-snippets-0.1.0 (c (n "elrond-interact-snippets") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "elrond-sdk-erdrs") (r "^0.2.0") (d #t) (k 0)) (d (n "elrond-wasm-debug") (r "=0.34.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "07fw9ylv7wvarxyw17z434zvhj1zyh2kvpmm4fp3ibzp6gd27x3s")))
+
+(define-public crate-elrond-interact-snippets-0.36.1 (c (n "elrond-interact-snippets") (v "0.36.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "elrond-sdk-erdrs") (r "^0.2.0") (d #t) (k 0)) (d (n "elrond-wasm-debug") (r "=0.36.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1x9nr1qv0a9kcbr2v1knxn4h40p0vk6yjhnlakwfslhalw4v3qi9")))
+
+(define-public crate-elrond-interact-snippets-0.37.0 (c (n "elrond-interact-snippets") (v "0.37.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "elrond-sdk-erdrs") (r "^0.2.0") (d #t) (k 0)) (d (n "elrond-wasm-debug") (r "=0.37.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0cv87xida81rw06898ynn2dq7d2if30w54r09q68i11xgbr7fpx2")))
+
+(define-public crate-elrond-interact-snippets-0.38.0 (c (n "elrond-interact-snippets") (v "0.38.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "elrond-sdk-erdrs") (r "^0.2.0") (d #t) (k 0)) (d (n "elrond-wasm-debug") (r "=0.38.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "154hq37qyyagw1c2dc67s921c3k97s4kkv2xm3ldj7v7q7wpjpsb")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io so la solana-jsonrpc-ws-server) #:use-module (crates-io))
+
+(define-public crate-solana-jsonrpc-ws-server-0.1.2 (c (n "solana-jsonrpc-ws-server") (v "0.1.2") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.1") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.1") (d #t) (k 0)) (d (n "solana-ws") (r "^0.1") (d #t) (k 0)))) (h "1w2wgb4c0scm5c1pwhwj1n5qs2zj8m818lgrzsjavinl7ysp9ybw") (y #t)))
+
+(define-public crate-solana-jsonrpc-ws-server-0.2.0 (c (n "solana-jsonrpc-ws-server") (v "0.2.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.2.0") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.2.0") (d #t) (k 0)) (d (n "solana-ws") (r "^0.1") (d #t) (k 0)))) (h "1rk5nij29z004sqnqylbvnjna4h5mg8bn3n00nlc16lkzzqgcm32") (y #t)))
+
+(define-public crate-solana-jsonrpc-ws-server-0.3.0 (c (n "solana-jsonrpc-ws-server") (v "0.3.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.3.0") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.3.0") (d #t) (k 0)) (d (n "solana-ws") (r "^0.1") (d #t) (k 0)))) (h "07cbrl4c9ndp7r1046a85kq7z763xdlbhmmfvvihdf1zggjyzza1") (y #t)))
+
+(define-public crate-solana-jsonrpc-ws-server-0.4.0 (c (n "solana-jsonrpc-ws-server") (v "0.4.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.4.0") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.4.0") (d #t) (k 0)) (d (n "solana-ws") (r "^0.2") (d #t) (k 0)))) (h "0p1m22gdlizq63hz1jbywby5kfjdxa65br5iahw6ghlprp0g68as") (y #t)))
+

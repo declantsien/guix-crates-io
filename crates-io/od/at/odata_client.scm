@@ -1,0 +1,4 @@
+(define-module (crates-io od at odata_client) #:use-module (crates-io))
+
+(define-public crate-odata_client-0.1.0 (c (n "odata_client") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iso8601") (r "^0.4") (d #t) (k 0)) (d (n "odata_client_codegen") (r "^0.1") (d #t) (k 0)) (d (n "odata_client_derive") (r "^0.1") (d #t) (k 0)) (d (n "odata_client_util") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1.6") (d #t) (k 0)) (d (n "tokio") (r "^1.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "uuid") (r "^0.8") (f (quote ("serde"))) (d #t) (k 0)))) (h "19l4vd7c2nc5li6ykz710n2scbs9kk8icf268lylhy74im8s0sm6")))
+

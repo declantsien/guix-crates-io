@@ -1,0 +1,4 @@
+(define-module (crates-io ce ss cess-sha2raw) #:use-module (crates-io))
+
+(define-public crate-cess-sha2raw-0.1.0 (c (n "cess-sha2raw") (v "0.1.0") (d (list (d (n "block-buffer") (r "^0.9") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "cpuid-bool") (r "^0.1.0") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "digest") (r "^0.9") (f (quote ("dev" "std"))) (d #t) (k 2)) (d (n "fake-simd") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "opaque-debug") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.2.0") (d #t) (k 2)) (d (n "sha2") (r "^0.9.1") (d #t) (k 2)) (d (n "sha2-asm") (r "^0.6") (o #t) (d #t) (k 0)))) (h "13symlqxgljy3d4bw5bsmymdpiszsbfn44b0qamqmb5vwnga6nvi") (f (quote (("default" "asm") ("asm" "sha2-asm"))))))
+

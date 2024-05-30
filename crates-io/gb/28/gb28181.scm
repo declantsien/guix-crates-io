@@ -1,0 +1,4 @@
+(define-module (crates-io gb #{28}# gb28181) #:use-module (crates-io))
+
+(define-public crate-gb28181-0.1.0 (c (n "gb28181") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.70") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0.0") (d #t) (k 0)) (d (n "bytesio") (r "^0.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "streamhub") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (d #t) (k 0)))) (h "09sc0rf26yijav2ilmp1zwp01vanhs5rdilx0vjcbml3s3f6gjx1")))
+

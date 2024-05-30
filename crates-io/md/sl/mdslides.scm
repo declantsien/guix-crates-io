@@ -1,0 +1,12 @@
+(define-module (crates-io md sl mdslides) #:use-module (crates-io))
+
+(define-public crate-mdslides-0.1.0 (c (n "mdslides") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1gwhbl6r2wjjmlcd9jqpmb74fdqv58m8p1xhh8rgy3s17fsz2ffp")))
+
+(define-public crate-mdslides-0.1.1 (c (n "mdslides") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "07mqq3iy8kqdk7pj8s5vnjihny2l2izkf68n99wpwa4cx8jly7mk")))
+
+(define-public crate-mdslides-0.2.0 (c (n "mdslides") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0zpm0f2f1wgv75wbk7kqpadd69zf3in3s1qf6qk96w5952xk41qy")))
+
+(define-public crate-mdslides-0.3.0 (c (n "mdslides") (v "0.3.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0yvbip1g80hjkyyfy4vyiz4gafxfc03276i0ir483jkk98c1jl7q")))
+
+(define-public crate-mdslides-0.4.0 (c (n "mdslides") (v "0.4.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0zy26mx2c7ajisxgd91m73jxx5fxhnrry8fximxj4q61h3pjjc65")))
+

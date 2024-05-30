@@ -1,0 +1,6 @@
+(define-module (crates-io ti nt tinted-builder) #:use-module (crates-io))
+
+(define-public crate-tinted-builder-0.1.0 (c (n "tinted-builder") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "ribboncurls") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2.0") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.23") (d #t) (k 0)) (d (n "unidecode") (r "^0.3.0") (d #t) (k 0)))) (h "1k3129rbxrkgkk452xawfcz12w7smw7k8skm0wdak2b4z8njwd3n") (r "1.74.0")))
+
+(define-public crate-tinted-builder-0.2.0 (c (n "tinted-builder") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "ribboncurls") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2.0") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.23") (d #t) (k 0)))) (h "16fzw94f3j0nsmzy7dl0ady7c1rybs7carlzb5ngnvdv508gga0x") (r "1.74.0")))
+

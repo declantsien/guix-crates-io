@@ -1,0 +1,18 @@
+(define-module (crates-io on la onlang) #:use-module (crates-io))
+
+(define-public crate-onlang-0.1.0 (c (n "onlang") (v "0.1.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0rwri3l4jajrjhzkwaaf1hgklvy6ab35qzc2dkyl866c0jqvb1mg")))
+
+(define-public crate-onlang-0.2.0 (c (n "onlang") (v "0.2.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0df03sj2j4y7nxsj73p2bsgmww1a3ik620bv7hvrn5iqn8jfg05n")))
+
+(define-public crate-onlang-0.2.1 (c (n "onlang") (v "0.2.1") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "1jrvhv35kxhmmxkv8dmz9fi0p970mk416nx5qsxfdgdn7cbpy1q5")))
+
+(define-public crate-onlang-0.2.2 (c (n "onlang") (v "0.2.2") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0301ygp5ya2lk3psyq291f54jr5j96g28q6c518l5qq3dqnysmyk")))
+
+(define-public crate-onlang-0.3.0 (c (n "onlang") (v "0.3.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "00icqkpn4karra6dq0j6159jjdzs86imn3ymjng13qb6wsh6ybnc")))
+
+(define-public crate-onlang-0.4.0 (c (n "onlang") (v "0.4.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "020d701w5n6x996x5m5k2f1hkg728xmnx1ki7p6qv6mjm5mfw290")))
+
+(define-public crate-onlang-0.5.0 (c (n "onlang") (v "0.5.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "16h9hf9nfwwc0wkqxfkiy2lyv0k2ni5wn3cxklj952phj54x2hq9")))
+
+(define-public crate-onlang-0.6.0 (c (n "onlang") (v "0.6.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "14q43bhh2lagwa3k0qp92pcrqkc9y61l7d0wdl1mpk2pcr6b6s7r")))
+

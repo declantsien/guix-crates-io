@@ -1,0 +1,6 @@
+(define-module (crates-io tr ee treescript-interpreter) #:use-module (crates-io))
+
+(define-public crate-treescript-interpreter-0.1.0 (c (n "treescript-interpreter") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "enum-map") (r "^0.5.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.6") (d #t) (k 0)) (d (n "unicode_reader") (r "^0.1.1") (d #t) (k 0)))) (h "1piqhc25pcmrwrfs40xlnypjgwx3vk0p4jdn2n4n0maxwhs9vg4l")))
+
+(define-public crate-treescript-interpreter-0.1.1 (c (n "treescript-interpreter") (v "0.1.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "enum-map") (r "^0.5.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.6") (d #t) (k 0)) (d (n "unicode_reader") (r "^0.1.1") (d #t) (k 0)))) (h "0wn97vvs8gmwvrhwb49qsdpk0ajnyk5f2fxxff89jzwrfarykwim")))
+

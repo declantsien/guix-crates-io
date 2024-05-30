@@ -1,0 +1,16 @@
+(define-module (crates-io ra tc ratchet) #:use-module (crates-io))
+
+(define-public crate-ratchet-0.1.0 (c (n "ratchet") (v "0.1.0") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "0ybaqyk0zghpvgpsy8p93wapm1wsldi81swx38dm55dzww2w2yyj")))
+
+(define-public crate-ratchet-0.1.1 (c (n "ratchet") (v "0.1.1") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "06ldpyypb77bkhmkxrglp4b6nlay3s6mi7w4ma39ldbf7m41q08b")))
+
+(define-public crate-ratchet-0.1.2 (c (n "ratchet") (v "0.1.2") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "0x2bgxnl6lsqwwx1xfplsni0341fzlx1m7jj5zgm2vnvxnq0jxvr")))
+
+(define-public crate-ratchet-1.0.0 (c (n "ratchet") (v "1.0.0") (d (list (d (n "clear_on_drop") (r "^0.2") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "1jcnddpjp4sgwg2p4wb07gxv9anz82bg1kj2i0m3rm5d62kp54w4")))
+
+(define-public crate-ratchet-1.0.1 (c (n "ratchet") (v "1.0.1") (d (list (d (n "clear_on_drop") (r "^0.2") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "1f37ml71s6mzxcaqmk3rvmvqdhv7b5r0x38iszcwqfp1wdikcwgl")))
+
+(define-public crate-ratchet-1.1.0 (c (n "ratchet") (v "1.1.0") (d (list (d (n "clear_on_drop") (r "^0.2") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "0n3b48dzln4hfdi5qd3w1krq3ag1f7lfbgayjqgpn71nm1v8jjxc")))
+
+(define-public crate-ratchet-1.2.0 (c (n "ratchet") (v "1.2.0") (d (list (d (n "clear_on_drop") (r "^0.2") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hkdf") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 2)) (d (n "sha-1") (r "^0.8") (d #t) (k 2)))) (h "19d7jyf9nngjbmgsd6f6rfy2hjhckb37dfqwwf4x7z3mfyjn5hs6")))
+

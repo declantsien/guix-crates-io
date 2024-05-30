@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-doc-l10n) #:use-module (crates-io))
+
+(define-public crate-cargo-doc-l10n-0.1.0 (c (n "cargo-doc-l10n") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.8.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "toml_edit") (r "^0.19.8") (d #t) (k 0)))) (h "0mzjx1aqac0cybhvz00zai2azs1ad39iaskwwk9nn1ccgjyplx37")))
+
+(define-public crate-cargo-doc-l10n-0.1.1 (c (n "cargo-doc-l10n") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "isolang") (r "^2.3.0") (f (quote ("local_names"))) (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.4") (f (quote ("verbatim"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.57") (d #t) (k 0)) (d (n "regex") (r "^1.8.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "toml_edit") (r "^0.19.8") (d #t) (k 0)))) (h "1ifc0qif827cpm42h9b8m7np8xgczxacwi477gc41x7swg8iv1m1")))
+

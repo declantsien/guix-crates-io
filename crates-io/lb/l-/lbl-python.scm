@@ -1,0 +1,4 @@
+(define-module (crates-io lb l- lbl-python) #:use-module (crates-io))
+
+(define-public crate-lbl-python-0.1.0 (c (n "lbl-python") (v "0.1.0") (d (list (d (n "lbl-core") (r "^0.1.0") (d #t) (k 0)) (d (n "polars") (r "^0.38.2") (f (quote ("csv" "polars-io" "parquet" "lazy" "polars-ops" "binary_encoding" "string_encoding" "strings" "regex" "partition_by" "is_in"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.3") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "pyo3-asyncio") (r "^0.20.0") (f (quote ("tokio-runtime"))) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (d #t) (k 1)) (d (n "pyo3-polars") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros" "rt-multi-thread" "sync"))) (d #t) (k 0)))) (h "0jkmkj3v32xcqak52nglzqb5dy3lx36yxm8vrprrlsvfqg86fbph")))
+

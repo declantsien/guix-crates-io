@@ -1,0 +1,10 @@
+(define-module (crates-io na pi napi-sys-ohos) #:use-module (crates-io))
+
+(define-public crate-napi-sys-ohos-0.0.1 (c (n "napi-sys-ohos") (v "0.0.1") (d (list (d (n "libloading") (r "^0.8") (d #t) (t "cfg(windows)") (k 0)))) (h "0rp1ah4w7d2nqj5jg508dkvcingnzzp67yjsvcsd08hln16l00gi") (f (quote (("ohos" "napi1") ("napi9" "napi8") ("napi8" "napi7") ("napi7" "napi6") ("napi6" "napi5") ("napi5" "napi4") ("napi4" "napi3") ("napi3" "napi2") ("napi2" "napi1") ("napi1") ("experimental")))) (r "1.65")))
+
+(define-public crate-napi-sys-ohos-1.0.0-beta.0 (c (n "napi-sys-ohos") (v "1.0.0-beta.0") (d (list (d (n "libloading") (r "^0.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "libloading") (r "^0.8") (o #t) (d #t) (k 0)))) (h "1lxbz6xaps0z08w3la0hyvfqzqs24abhp5cigj97fhlcajqb2bhd") (f (quote (("ohos" "napi8") ("napi9" "napi8") ("napi8" "napi7") ("napi7" "napi6") ("napi6" "napi5") ("napi5" "napi4") ("napi4" "napi3") ("napi3" "napi2") ("napi2" "napi1") ("napi1") ("experimental") ("dyn-symbols" "libloading")))) (r "1.65")))
+
+(define-public crate-napi-sys-ohos-1.0.0-beta.1 (c (n "napi-sys-ohos") (v "1.0.0-beta.1") (d (list (d (n "libloading") (r "^0.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "libloading") (r "^0.8") (o #t) (d #t) (k 0)))) (h "0y8v50jqh4zghhxl0msyklmfkz661i1k5bkaywv42ivmfkw0462v") (f (quote (("ohos" "napi8") ("napi9" "napi8") ("napi8" "napi7") ("napi7" "napi6") ("napi6" "napi5") ("napi5" "napi4") ("napi4" "napi3") ("napi3" "napi2") ("napi2" "napi1") ("napi1") ("experimental") ("dyn-symbols" "libloading")))) (r "1.65")))
+
+(define-public crate-napi-sys-ohos-1.0.0-beta.2 (c (n "napi-sys-ohos") (v "1.0.0-beta.2") (d (list (d (n "libloading") (r "^0.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "libloading") (r "^0.8") (o #t) (d #t) (k 0)))) (h "0ls0m4yq63rnm16wp9wxjlawj3xr7yrihhn82ph9xsikqizpcgai") (f (quote (("ohos" "napi8") ("napi9" "napi8") ("napi8" "napi7") ("napi7" "napi6") ("napi6" "napi5") ("napi5" "napi4") ("napi4" "napi3") ("napi3" "napi2") ("napi2" "napi1") ("napi1") ("experimental") ("dyn-symbols" "libloading")))) (r "1.65")))
+

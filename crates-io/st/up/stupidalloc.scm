@@ -1,0 +1,8 @@
+(define-module (crates-io st up stupidalloc) #:use-module (crates-io))
+
+(define-public crate-stupidalloc-0.1.0 (c (n "stupidalloc") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.7.1") (d #t) (k 0)) (d (n "native-dialog") (r "^0.6.4") (f (quote ("windows_dpi_awareness" "windows_visual_styles"))) (o #t) (d #t) (k 0)))) (h "0n6lc4nabbl59dfajjwzm9mxf1wwy94pxqmkm679ksjjvfy15csb") (f (quote (("interactive" "native-dialog"))))))
+
+(define-public crate-stupidalloc-0.2.0 (c (n "stupidalloc") (v "0.2.0") (d (list (d (n "allocator-api2") (r "^0.2.16") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("ahash" "inline-more"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.7.1") (d #t) (k 0)) (d (n "minifb") (r "^0.25") (o #t) (d #t) (k 0)) (d (n "native-dialog") (r "^0.6.4") (f (quote ("windows_dpi_awareness" "windows_visual_styles"))) (o #t) (d #t) (k 0)))) (h "175lgkpqxasr5kkjahyphng975dhlazpgfndck4zhfjqrij9z47v") (f (quote (("logging") ("interactive" "native-dialog") ("graphics" "minifb") ("always-graphics" "graphics"))))))
+
+(define-public crate-stupidalloc-0.2.1 (c (n "stupidalloc") (v "0.2.1") (d (list (d (n "allocator-api2") (r "^0.2.16") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("ahash" "inline-more"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.7.1") (d #t) (k 0)) (d (n "minifb") (r "^0.25") (o #t) (d #t) (k 0)) (d (n "native-dialog") (r "^0.6.4") (f (quote ("windows_dpi_awareness" "windows_visual_styles"))) (o #t) (d #t) (k 0)))) (h "18zrfpqql2lks3dgin4r0mb9vwqpnkhy3w8zjbbx01i3cbm4g3b0") (f (quote (("logging") ("interactive" "native-dialog") ("graphics" "minifb") ("always-graphics" "graphics"))))))
+

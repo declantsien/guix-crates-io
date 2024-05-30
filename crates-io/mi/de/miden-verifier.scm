@@ -1,0 +1,22 @@
+(define-module (crates-io mi de miden-verifier) #:use-module (crates-io))
+
+(define-public crate-miden-verifier-0.1.0 (c (n "miden-verifier") (v "0.1.0") (d (list (d (n "air") (r "^0.1") (k 0) (p "miden-air")) (d (n "assembly") (r "^0.1") (k 0) (p "miden-assembly")) (d (n "winterfell") (r "^0.2") (k 0) (p "winter-verifier")))) (h "1jlsmb82s592rgxm9bczg1p54vfk3l7n2j3xmcg15bbys0cbqx2p") (f (quote (("std" "air/std" "assembly/std" "winterfell/std") ("default" "std"))))))
+
+(define-public crate-miden-verifier-0.2.0 (c (n "miden-verifier") (v "0.2.0") (d (list (d (n "air") (r "^0.2") (k 0) (p "miden-air")) (d (n "assembly") (r "^0.2") (k 0) (p "miden-assembly")) (d (n "vm-core") (r "^0.2") (k 0) (p "miden-core")) (d (n "winterfell") (r "^0.4") (k 0) (p "winter-verifier")))) (h "0ci901yr420vba1zgf7hqxn0hg81jskvv16gb1aavl85a94n6swx") (f (quote (("std" "air/std" "assembly/std" "vm-core/std" "winterfell/std") ("default" "std")))) (r "1.62")))
+
+(define-public crate-miden-verifier-0.3.0 (c (n "miden-verifier") (v "0.3.0") (d (list (d (n "air") (r "^0.3") (k 0) (p "miden-air")) (d (n "assembly") (r "^0.3") (k 0) (p "miden-assembly")) (d (n "vm-core") (r "^0.3") (k 0) (p "miden-core")) (d (n "winterfell") (r "^0.4.2") (k 0) (p "winter-verifier")))) (h "12qabjbcf0xnbak7qb1xf46grgyfpipyyd15smcp7m6apnqdahnr") (f (quote (("std" "air/std" "assembly/std" "vm-core/std" "winterfell/std") ("default" "std")))) (r "1.62")))
+
+(define-public crate-miden-verifier-0.4.0 (c (n "miden-verifier") (v "0.4.0") (d (list (d (n "air") (r "^0.4") (k 0) (p "miden-air")) (d (n "vm-core") (r "^0.4") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.5") (k 0) (p "winter-verifier")))) (h "1mpha5dm8jdhz8h4n6kfnldvpw0f3rmh4phws8aabnyz82z7rs6d") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.67")))
+
+(define-public crate-miden-verifier-0.5.0 (c (n "miden-verifier") (v "0.5.0") (d (list (d (n "air") (r "^0.5") (k 0) (p "miden-air")) (d (n "vm-core") (r "^0.5") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.6") (k 0) (p "winter-verifier")))) (h "0i0pg0day23gki0gwzjwfa223y64b43p1liyagjb3bz1jnhlmsrf") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.67")))
+
+(define-public crate-miden-verifier-0.6.0 (c (n "miden-verifier") (v "0.6.0") (d (list (d (n "air") (r "^0.6") (k 0) (p "miden-air")) (d (n "vm-core") (r "^0.6") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.6") (k 0) (p "winter-verifier")))) (h "0w3gdix52rk86yg06nzddbg14pzdl568q2lnsliqylmv08rmlawl") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.67")))
+
+(define-public crate-miden-verifier-0.7.0 (c (n "miden-verifier") (v "0.7.0") (d (list (d (n "air") (r "^0.7") (k 0) (p "miden-air")) (d (n "vm-core") (r "^0.7") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.6") (k 0) (p "winter-verifier")))) (h "0gg23a2s10qxypsk2izdqby2myp7sdp5xpnggrssw4azzh60xzvk") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.67")))
+
+(define-public crate-miden-verifier-0.8.0 (c (n "miden-verifier") (v "0.8.0") (d (list (d (n "air") (r "^0.8") (k 0) (p "miden-air")) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "vm-core") (r "^0.8") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.8") (k 0) (p "winter-verifier")))) (h "0zxk7aksg5kpkbdii29fjxcllvjj875z52vifh43m2iglnv4z9c3") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.75")))
+
+(define-public crate-miden-verifier-0.9.0 (c (n "miden-verifier") (v "0.9.0") (d (list (d (n "air") (r "^0.9") (k 0) (p "miden-air")) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "vm-core") (r "^0.9") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.8") (k 0) (p "winter-verifier")))) (h "1m3h7c7qsq8bz4y4x98gj9kq6p0mabqxfppxzvh87vd5k9x38rmi") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.75")))
+
+(define-public crate-miden-verifier-0.9.1 (c (n "miden-verifier") (v "0.9.1") (d (list (d (n "air") (r "^0.9") (k 0) (p "miden-air")) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "vm-core") (r "^0.9") (k 0) (p "miden-core")) (d (n "winter-verifier") (r "^0.8") (k 0) (p "winter-verifier")))) (h "0qivk4bjzi5ilf51rxa3rl345xqa9d30kw0gpl8kvlc5h0r99xwa") (f (quote (("std" "air/std" "vm-core/std" "winter-verifier/std") ("default" "std")))) (r "1.75")))
+

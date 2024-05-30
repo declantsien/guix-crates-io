@@ -1,0 +1,4 @@
+(define-module (crates-io de su desub-json-resolver) #:use-module (crates-io))
+
+(define-public crate-desub-json-resolver-0.0.1 (c (n "desub-json-resolver") (v "0.0.1") (d (list (d (n "codec") (r "^2") (f (quote ("derive"))) (d #t) (k 0) (p "parity-scale-codec")) (d (n "desub-legacy") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "phf") (r "^0.10.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("parsing" "derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1d92f7qq6l95n7r4p1y14s64kksismm7ibmyrwdafa0pd4z6kqkp") (f (quote (("polkadot") ("default_definitions") ("default" "default_definitions"))))))
+

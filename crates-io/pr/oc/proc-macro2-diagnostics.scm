@@ -1,0 +1,10 @@
+(define-module (crates-io pr oc proc-macro2-diagnostics) #:use-module (crates-io))
+
+(define-public crate-proc-macro2-diagnostics-0.9.0 (c (n "proc-macro2-diagnostics") (v "0.9.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.1") (d #t) (k 1)) (d (n "yansi") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0pcsr4ras15j1izyn0jxhpdn6klwas9fx237sx0nlcvg5las1jjn") (f (quote (("default" "colors") ("colors" "yansi"))))))
+
+(define-public crate-proc-macro2-diagnostics-0.9.1 (c (n "proc-macro2-diagnostics") (v "0.9.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.1") (d #t) (k 1)) (d (n "yansi") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1nmazlb1dkznjds7qwms7yxhi33ajc3isji2lsgx8r3lsqk9gwjb") (f (quote (("default" "colors") ("colors" "yansi"))))))
+
+(define-public crate-proc-macro2-diagnostics-0.10.0 (c (n "proc-macro2-diagnostics") (v "0.10.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)) (d (n "yansi") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0fs9plv7xw3c986mfp5fkssladmb3gammxca60m95qhpb2ilnv30") (f (quote (("default" "colors") ("colors" "yansi"))))))
+
+(define-public crate-proc-macro2-diagnostics-0.10.1 (c (n "proc-macro2-diagnostics") (v "0.10.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)) (d (n "yansi") (r "^1.0.0-rc") (o #t) (d #t) (k 0)))) (h "1j48ipc80pykvhx6yhndfa774s58ax1h6sm6mlhf09ls76f6l1mg") (f (quote (("default" "colors") ("colors" "yansi"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io pi gm pigmnts) #:use-module (crates-io))
+
+(define-public crate-pigmnts-0.2.0 (c (n "pigmnts") (v "0.2.0") (d (list (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.50") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.30") (f (quote ("HtmlCanvasElement" "ImageData" "CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "1m6mg8pil7h482nn81skzpila69gv62aq3j4bz6ap09j9qk627ji")))
+
+(define-public crate-pigmnts-0.3.0 (c (n "pigmnts") (v "0.3.0") (d (list (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.50") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.30") (f (quote ("HtmlCanvasElement" "ImageData" "CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "1ink6jd1i88saaygqh7rxcqjs6sbqdz44v5pvnhijx6b1qhwzawh")))
+
+(define-public crate-pigmnts-0.4.0 (c (n "pigmnts") (v "0.4.0") (d (list (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.50") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.30") (f (quote ("HtmlCanvasElement" "ImageData" "CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "1mpbb5s89j4bknv34b3m6ic2ylx9qpxp1cai8g9dniskycmfk957")))
+
+(define-public crate-pigmnts-0.5.0 (c (n "pigmnts") (v "0.5.0") (d (list (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.59") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.59") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.50") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.30") (f (quote ("HtmlCanvasElement" "ImageData" "CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "15alg8xzjzlsdjmkg6n3zps2i41yyd2pkyg62km712ym62ch5rj1")))
+
+(define-public crate-pigmnts-0.6.0 (c (n "pigmnts") (v "0.6.0") (d (list (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.59") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.59") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.50") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.30") (f (quote ("HtmlCanvasElement" "ImageData" "CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "0941n6zh738ffkzkpbin7pbn8j4pgdj6lf5p1niizhp4sdlw1ab2")))
+
+(define-public crate-pigmnts-0.7.0 (c (n "pigmnts") (v "0.7.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.59") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.59") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.50") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.30") (f (quote ("HtmlCanvasElement" "ImageData" "CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "118x4w6kxy06mr5dd5zypnhf4d9pyimfkqmxcl3vyqhxqmjp9ss6")))
+

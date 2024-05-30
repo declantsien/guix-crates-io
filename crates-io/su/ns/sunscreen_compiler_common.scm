@@ -1,0 +1,6 @@
+(define-module (crates-io su ns sunscreen_compiler_common) #:use-module (crates-io))
+
+(define-public crate-sunscreen_compiler_common-0.8.0 (c (n "sunscreen_compiler_common") (v "0.8.0") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "1wlhidcsc0cf4cypvd1rzpmxj69ydd212vpnrgx0n0fr41j2pp6d") (r "1.56.0")))
+
+(define-public crate-sunscreen_compiler_common-0.8.1 (c (n "sunscreen_compiler_common") (v "0.8.1") (d (list (d (n "petgraph") (r "^0.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "1wjx3svq0aw7q100jbji7h24mnwcdyw0ws0abhm4xik8k2m8ylsh") (r "1.56.0")))
+

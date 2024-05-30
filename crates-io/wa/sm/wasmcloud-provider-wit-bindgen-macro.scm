@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmcloud-provider-wit-bindgen-macro) #:use-module (crates-io))
+
+(define-public crate-wasmcloud-provider-wit-bindgen-macro-0.1.1 (c (n "wasmcloud-provider-wit-bindgen-macro") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (k 0)) (d (n "heck") (r "^0.5") (k 0)) (d (n "proc-macro2") (r "^1") (k 0)) (d (n "quote") (r "^1") (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde_json") (r "^1") (k 0)) (d (n "syn") (r "^2") (f (quote ("parsing" "full" "visit-mut" "extra-traits"))) (k 0)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt" "env-filter"))) (k 0)) (d (n "wasmtime-wit-bindgen") (r "^19") (k 0)) (d (n "wit-parser") (r "^0.201") (k 0)) (d (n "wrpc-types") (r "^0.5") (f (quote ("serde"))) (k 0)))) (h "1p4k85rk3q0hmgln4mq5w62fl12lc5zxgswswv9kjwjz1i3rqbyr")))
+

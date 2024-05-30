@@ -1,0 +1,26 @@
+(define-module (crates-io ss b- ssb-keyfile) #:use-module (crates-io))
+
+(define-public crate-ssb-keyfile-0.1.0 (c (n "ssb-keyfile") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.6") (d #t) (k 0)) (d (n "ssb-common") (r "^0.1.0") (d #t) (k 0)))) (h "0vchrxwiv21i00k8dp681d4s00mj26m75kahxjn4r4xv9vgcxx09")))
+
+(define-public crate-ssb-keyfile-0.1.1 (c (n "ssb-keyfile") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.6") (d #t) (k 0)) (d (n "ssb-common") (r "^0.1.1") (d #t) (k 0)))) (h "0hl593cbf28dm540yrbiw2x8wbmm5p3w831riss3pnam2dr3870w")))
+
+(define-public crate-ssb-keyfile-0.1.2 (c (n "ssb-keyfile") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.10") (d #t) (k 0)) (d (n "ssb-common") (r "^0.2.3") (d #t) (k 0)))) (h "1m73xrcpcyjwwz79s5l700axv2ikd7s34anz2gmsy6ziaa0k9hir")))
+
+(define-public crate-ssb-keyfile-0.2.0 (c (n "ssb-keyfile") (v "0.2.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.10") (d #t) (k 0)) (d (n "snafu") (r "^0.6.0") (d #t) (k 0)) (d (n "ssb-crypto") (r "~0.1.4") (d #t) (k 0)))) (h "038x3mb67189vpj9a1kl0z9m3a2iyw555j591rbqzw8m9x7vb1x7")))
+
+(define-public crate-ssb-keyfile-0.3.0 (c (n "ssb-keyfile") (v "0.3.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.10") (d #t) (k 0)) (d (n "snafu") (r "^0.6.0") (d #t) (k 0)) (d (n "ssb-crypto") (r "~0.1.4") (d #t) (k 0)) (d (n "ssb-multiformats") (r "^0.2.1") (d #t) (k 0)))) (h "0ssva25mrjcvbq9s94hh37ysfaz6rp4xk53rcf7p10x5m1nkjhq0")))
+
+(define-public crate-ssb-keyfile-0.3.1 (c (n "ssb-keyfile") (v "0.3.1") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.10") (d #t) (k 0)) (d (n "snafu") (r "^0.6.0") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.1.4") (d #t) (k 0)) (d (n "ssb-multiformats") (r "^0.2.1") (d #t) (k 0)))) (h "0zzwgkn2sgw2nv09pbnppc0ljbrddx6m1yl8vk6zs2g1by073w8f")))
+
+(define-public crate-ssb-keyfile-0.4.0 (c (n "ssb-keyfile") (v "0.4.0") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.10") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.2.1") (f (quote ("b64"))) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "0a80mkxn0xs8zn4yvgzg9fx8m4fgdh2gp52gw3gk34vz81zh132m")))
+
+(define-public crate-ssb-keyfile-0.5.0 (c (n "ssb-keyfile") (v "0.5.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.2.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0z0pkliqhxznljabx3anvpj28ysiiqlwzzwrcj85zwjfsp75dykm")))
+
+(define-public crate-ssb-keyfile-0.5.1 (c (n "ssb-keyfile") (v "0.5.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.2.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "1422zb2gnnjhw0iyjck781n76zbqqlir4dqg63b7h8pm09ryf8k4")))
+
+(define-public crate-ssb-keyfile-0.5.2 (c (n "ssb-keyfile") (v "0.5.2") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.2.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "1sa7v3685dz1nma3y8cyhbcp82yp6vfrkzpq8sh5rqwmxnlwnfkn")))
+
+(define-public crate-ssb-keyfile-0.5.3 (c (n "ssb-keyfile") (v "0.5.3") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.2.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "102rx4i49djvrakq2k95w6r9r24yiq50shijmcdw93amskarp9z8")))
+
+(define-public crate-ssb-keyfile-0.5.4 (c (n "ssb-keyfile") (v "0.5.4") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "ssb-crypto") (r "^0.2.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0kah8094l6m854syjn3l0gafd06bn5p304p0jmqz3h6b1mkb9h4d")))
+

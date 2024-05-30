@@ -1,0 +1,30 @@
+(define-module (crates-io re al realsense-sys) #:use-module (crates-io))
+
+(define-public crate-realsense-sys-0.1.0 (c (n "realsense-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.42.1") (d #t) (k 1)) (d (n "failure") (r "^0.1.6") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.17") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2.8") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "0dmw4n9kahbmjj00a8mfvb0fk236yz75zhyszqyk1lmq7cmpmp8b")))
+
+(define-public crate-realsense-sys-0.1.1 (c (n "realsense-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.42.1") (d #t) (k 1)) (d (n "failure") (r "^0.1.6") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.17") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2.8") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "0r14caz3r9aff5sckg2zkr1wkbqivfmwywi5ij4b3kbalazfmn7c")))
+
+(define-public crate-realsense-sys-0.2.0 (c (n "realsense-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.42.1") (o #t) (d #t) (k 1)) (d (n "failure") (r "^0.1.6") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.17") (o #t) (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2.8") (o #t) (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "0ahyllm9wr4930x42icr6103w0qxb8p59ksvqv24jmfwnkz26f4l") (f (quote (("default") ("buildtime-bindgen" "bindgen" "pkg-config" "vcpkg"))))))
+
+(define-public crate-realsense-sys-0.2.2 (c (n "realsense-sys") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.54") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "1h9q5ff95vsqnm4pnh3s0xkq84kmbin8qbdkxhxr0d71qqzmkhkn") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-0.2.3 (c (n "realsense-sys") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.54") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "05vnqzq04yy798q3v6ba79n285frm7vynk5ahmjqlzz4yxx84cqa") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-0.2.4 (c (n "realsense-sys") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.54") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "09mgwm3k8cinfafl5p28mkgff8rqdjdznqagkhan764zk2lp9bh1") (f (quote (("doc-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-0.3.0 (c (n "realsense-sys") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.54") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "0pqfyafslwah9mmf6wwrdxqrcf2ifqmmwhh6kjzwh7rmmpndfjj9") (f (quote (("doc-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-0.3.1 (c (n "realsense-sys") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.54") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 1)) (d (n "vcpkg") (r "^0.2") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "068ma3kl8q4kp350d0bj502lwrn6plrzk5ishcmr3a9m7kdl03dd") (f (quote (("doc-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-2.44.0 (c (n "realsense-sys") (v "2.44.0") (d (list (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0mg7fp97mmlv9zhdp65pra0qrbyrvzzbs0fnjqn8p9ll65pnads7") (f (quote (("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-2.44.1 (c (n "realsense-sys") (v "2.44.1") (d (list (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "16qdp67cvw0x6anvjdw9pgig72jdljxk6qp8b0239mhkl1r813rz") (f (quote (("docs-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-2.47.0 (c (n "realsense-sys") (v "2.47.0") (d (list (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "05ybxn6i7vcrvvr1zn4jdnhn8d7cah8laqbap09aq1bxhjifcpnb") (f (quote (("docs-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-2.54.2 (c (n "realsense-sys") (v "2.54.2") (d (list (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "12dz3dnyw39cl607nh30ciyfyzv0wpmh7dl9rnasf78d3kapq5g3") (f (quote (("docs-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-2.54.2-1 (c (n "realsense-sys") (v "2.54.2-1") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1l67gg80nwsgnh2jczpiwn9c6wpyb1k7vbk50pfmpa7x37zcjc3q") (f (quote (("docs-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+
+(define-public crate-realsense-sys-2.54.3 (c (n "realsense-sys") (v "2.54.3") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0kprlxr8mmzr982lwr2yql8l70rsyizb3yyx5g12vkzji9wwlnw5") (f (quote (("docs-only") ("default") ("buildtime-bindgen" "bindgen"))))))
+

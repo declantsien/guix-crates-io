@@ -1,0 +1,14 @@
+(define-module (crates-io hi fa hifa-xml-schema) #:use-module (crates-io))
+
+(define-public crate-hifa-xml-schema-0.3.0 (c (n "hifa-xml-schema") (v "0.3.0") (d (list (d (n "hifa-xml-schema-derive") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "hifa-xml-schema-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "hifa_yaserde") (r "^0.9") (d #t) (k 2)) (d (n "hifa_yaserde_derive") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8") (d #t) (k 2)))) (h "1iv40yqhhds89fj3b29s5m6hjihfllkzvh22ycaba96ka20k6z2q")))
+
+(define-public crate-hifa-xml-schema-0.3.1 (c (n "hifa-xml-schema") (v "0.3.1") (d (list (d (n "hifa-xml-schema-derive") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "hifa-xml-schema-derive") (r "^0.3.1") (d #t) (k 2)) (d (n "hifa_yaserde") (r "^0.9.3") (d #t) (k 2)) (d (n "hifa_yaserde_derive") (r "^0.9.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8") (d #t) (k 2)))) (h "1yss45wg4fq5yfd95lylljwhml5ivmgfx1x5r98bdamvc1kff7hg")))
+
+(define-public crate-hifa-xml-schema-0.3.2 (c (n "hifa-xml-schema") (v "0.3.2") (d (list (d (n "hifa-xml-schema-derive") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "hifa-xml-schema-derive") (r "^0.3.2") (d #t) (k 2)) (d (n "hifa_yaserde") (r "^0.9.3") (d #t) (k 2)) (d (n "hifa_yaserde_derive") (r "^0.9.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8") (d #t) (k 2)))) (h "03xwf49aqds126gmh81bhv1b64swgwwv9425fjxkcph2zry7m0i4")))
+
+(define-public crate-hifa-xml-schema-0.3.3 (c (n "hifa-xml-schema") (v "0.3.3") (d (list (d (n "hifa-xml-schema-derive") (r "^0.3.3") (o #t) (d #t) (k 0)) (d (n "hifa-xml-schema-derive") (r "^0.3.3") (d #t) (k 2)) (d (n "hifa_yaserde") (r "^0.9.3") (d #t) (k 2)) (d (n "hifa_yaserde_derive") (r "^0.9.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8") (d #t) (k 2)))) (h "0y4gdfasqyj6lh0gshyj941ml70dgdx1dh2yq79svbcx2jqdz5kh")))
+
+(define-public crate-hifa-xml-schema-0.3.4 (c (n "hifa-xml-schema") (v "0.3.4") (d (list (d (n "hifa-xml-schema-derive") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "hifa-xml-schema-derive") (r "^0.3.4") (d #t) (k 2)) (d (n "hifa_yaserde") (r "^0.9.3") (d #t) (k 2)) (d (n "hifa_yaserde_derive") (r "^0.9.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8") (d #t) (k 2)))) (h "1p078b1i1bnbikmpwkgqczmiiyk52mivw3bcm9i0ari166nqdabv")))
+
+(define-public crate-hifa-xml-schema-0.3.5 (c (n "hifa-xml-schema") (v "0.3.5") (d (list (d (n "hifa-xml-schema-derive") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "hifa-xml-schema-derive") (r "^0.3.5") (d #t) (k 2)) (d (n "hifa_yaserde") (r "^0.9.3") (d #t) (k 2)) (d (n "hifa_yaserde_derive") (r "^0.9.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "xml-rs") (r "^0.8") (d #t) (k 2)))) (h "1mpkvcwwfhhz0033dkiz38y3k1498mi8kd7ld5jcdjfmph144dsw")))
+

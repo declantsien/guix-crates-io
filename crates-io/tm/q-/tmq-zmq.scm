@@ -1,0 +1,4 @@
+(define-module (crates-io tm q- tmq-zmq) #:use-module (crates-io))
+
+(define-public crate-tmq-zmq-0.9.0 (c (n "tmq-zmq") (v "0.9.0") (d (list (d (n "bitflags") (r "^0.7") (d #t) (k 0)) (d (n "clippy") (r "0.*") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "0.*") (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "libc") (r "^0.2.15") (d #t) (k 0)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "nix") (r "^0.11") (d #t) (k 2)) (d (n "quickcheck") (r "^0.6.2") (d #t) (k 2)) (d (n "rand") (r "^0.5") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "timebomb") (r "^0.1.2") (d #t) (k 2)) (d (n "tmq-zmq-sys") (r "^0.9.0") (d #t) (k 0)) (d (n "tmq-zmq-sys") (r "^0.9.0") (d #t) (k 1)))) (h "03h1zvjyaz7l7m9nd2q79ngl2pilsdhs2lp61lh9z66vjvf7axy5") (f (quote (("zmq_has") ("unstable-testing" "compiletest_rs" "unstable") ("unstable") ("default" "zmq_has"))))))
+

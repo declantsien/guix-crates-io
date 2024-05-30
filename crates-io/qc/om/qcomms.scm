@@ -1,0 +1,12 @@
+(define-module (crates-io qc om qcomms) #:use-module (crates-io))
+
+(define-public crate-qcomms-0.1.0 (c (n "qcomms") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1nf8r51jfplwcmcfq211isx7m5fhibhfp9rr0pgxs1q2wd2mzwls")))
+
+(define-public crate-qcomms-0.2.0 (c (n "qcomms") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0ij2sz70s1wx2bqakfhm6zyiqprm5yd134j3k3dxy48kwxw2bpwj") (f (quote (("obj" "tokio" "serde" "bincode") ("full" "asynct" "obj") ("default") ("asynct" "tokio" "async-trait"))))))
+
+(define-public crate-qcomms-0.3.0 (c (n "qcomms") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0hlvkbiyqspp2zdanbrnvfnckg4mi4b7k1j5khwzvq1j8yrb7py7") (f (quote (("obj" "tokio" "serde" "bincode") ("full" "asynct" "obj") ("default") ("asynct" "tokio" "async-trait"))))))
+
+(define-public crate-qcomms-1.0.0 (c (n "qcomms") (v "1.0.0") (d (list (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1ik2l3pwq1fjnz783hz31s7zpc0l4w64q8yviiikk69rsgwrcj10")))
+
+(define-public crate-qcomms-1.0.1 (c (n "qcomms") (v "1.0.1") (d (list (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "16zw00xs1h825nxy156kxnvkcj7naf931y38zbk2ih0rj83ivr2s")))
+

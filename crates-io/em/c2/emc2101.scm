@@ -1,0 +1,6 @@
+(define-module (crates-io em c2 emc2101) #:use-module (crates-io))
+
+(define-public crate-emc2101-0.2.0 (c (n "emc2101") (v "0.2.0") (d (list (d (n "defmt") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "embedded-hal-async") (r "^0.2.0-alpha.1") (o #t) (d #t) (k 0)) (d (n "fugit") (r "^0.3.6") (d #t) (k 0)) (d (n "maybe-async-cfg") (r "^0.2.3") (d #t) (k 0)))) (h "0vi3lb86jl09brhiby3vdkhagq4qw180l73k4y37c4465lndrmzn") (f (quote (("default" "blocking")))) (s 2) (e (quote (("defmt" "dep:defmt" "fugit/defmt") ("blocking" "dep:embedded-hal") ("async" "dep:embedded-hal-async")))) (r "1.65")))
+
+(define-public crate-emc2101-0.2.1 (c (n "emc2101") (v "0.2.1") (d (list (d (n "defmt") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "embedded-hal-async") (r "^0.2.0-alpha.1") (o #t) (d #t) (k 0)) (d (n "fugit") (r "^0.3.6") (d #t) (k 0)) (d (n "maybe-async-cfg") (r "^0.2.3") (d #t) (k 0)))) (h "1bj2sjcdx7rr8kjr3d1569zmpg6fymfnn92x13qnycxcn6c19yfv") (f (quote (("default" "blocking")))) (s 2) (e (quote (("defmt" "dep:defmt" "fugit/defmt") ("blocking" "dep:embedded-hal") ("async" "dep:embedded-hal-async")))) (r "1.65")))
+

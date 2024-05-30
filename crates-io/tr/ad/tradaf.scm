@@ -1,0 +1,6 @@
+(define-module (crates-io tr ad tradaf) #:use-module (crates-io))
+
+(define-public crate-tradaf-0.1.0 (c (n "tradaf") (v "0.1.0") (d (list (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-pickle") (r "^1.0") (d #t) (k 0)) (d (n "serde-transcode") (r "^1.1.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "1yiqx3gv53migh4x9qgv7nqqn94nk91fh9p8qqx0wi519a86ixyf")))
+
+(define-public crate-tradaf-0.1.1 (c (n "tradaf") (v "0.1.1") (d (list (d (n "bendy") (r "^0.3") (f (quote ("std" "serde"))) (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "json5") (r "^0.4") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-pickle") (r "^1.0") (d #t) (k 0)) (d (n "serde-transcode") (r "^1.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.10") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "zvariant") (r "^3.6") (d #t) (k 0)))) (h "08fp9az68hvr0pfisv9l9chi29k550cc1f3hiwnyf47f1i6cwb7v")))
+

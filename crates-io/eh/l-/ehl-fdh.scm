@@ -1,0 +1,4 @@
+(define-module (crates-io eh l- ehl-fdh) #:use-module (crates-io))
+
+(define-public crate-ehl-fdh-0.8.0 (c (n "ehl-fdh") (v "0.8.0") (d (list (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "num-bigint") (r "^0.7") (f (quote ("zeroize"))) (o #t) (d #t) (k 0) (p "num-bigint-dig")) (d (n "num-integer") (r "^0.1.44") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 2)) (d (n "secret_integers") (r "^0.1.6") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.2") (d #t) (k 2)) (d (n "sha2") (r "^0.9.2") (d #t) (k 2)) (d (n "sha3") (r "^0.9.1") (d #t) (k 2)) (d (n "subtle") (r "^2.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (o #t) (d #t) (k 0)))) (h "0j9paxqdib4298w2nsf30vn3hm15vfxgrhlx79gvs1lmb66l23s6") (f (quote (("std" "digest/std" "num-bigint" "thiserror") ("default" "std")))) (y #t)))
+

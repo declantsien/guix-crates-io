@@ -1,0 +1,4 @@
+(define-module (crates-io ca rg cargo_client) #:use-module (crates-io))
+
+(define-public crate-cargo_client-0.13.0 (c (n "cargo_client") (v "0.13.0") (d (list (d (n "async-trait") (r "^0.1.66") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "itoa") (r "^1.0.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json" "rustls-tls"))) (o #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (f (quote ("preserve_order"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (o #t) (d #t) (k 0)))) (h "1dgph719ba6ddwckyvpa4ackx1pn8zn9s1shvqnbsiwgp5a12j4c") (f (quote (("default" "http")))) (s 2) (e (quote (("serde" "dep:serde" "chrono/serde" "indexmap/serde" "url/serde") ("http" "dep:reqwest" "dep:serde_json" "serde" "url")))) (r "1.61.0")))
+

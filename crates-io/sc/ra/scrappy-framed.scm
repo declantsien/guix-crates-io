@@ -1,0 +1,4 @@
+(define-module (crates-io sc ra scrappy-framed) #:use-module (crates-io))
+
+(define-public crate-scrappy-framed-0.0.1 (c (n "scrappy-framed") (v "0.0.1") (d (list (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.6") (d #t) (k 0)) (d (n "scrappy-codec") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-connect") (r "^0.0.1") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "scrappy-http") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-http-test") (r "^0.0.1") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "scrappy-router") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-rt") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-server") (r "^0.0.1") (d #t) (k 2)) (d (n "scrappy-service") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-utils") (r "^0.0.1") (d #t) (k 2)))) (h "17fpyq8b2369g36s3jm7xrkh5qczzjqs5mangpnv50v3qd1b7lqz")))
+

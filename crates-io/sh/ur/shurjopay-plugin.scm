@@ -1,0 +1,6 @@
+(define-module (crates-io sh ur shurjopay-plugin) #:use-module (crates-io))
+
+(define-public crate-shurjopay-plugin-0.1.0 (c (n "shurjopay-plugin") (v "0.1.0") (d (list (d (n "assert-str") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.2") (d #t) (k 0)))) (h "1idck6jdkbmi77ka55jfdsvyfz5fk51hif7mvr9yyb9295p84kav") (r "1.63")))
+
+(define-public crate-shurjopay-plugin-0.1.1 (c (n "shurjopay-plugin") (v "0.1.1") (d (list (d (n "assert-str") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.2") (d #t) (k 0)))) (h "0fp6p02m752b5hn9mc17041mz029dkspdd3g15lrli7cg6x3r55x") (r "1.63")))
+

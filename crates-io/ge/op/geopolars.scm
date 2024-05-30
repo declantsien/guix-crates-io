@@ -1,0 +1,6 @@
+(define-module (crates-io ge op geopolars) #:use-module (crates-io))
+
+(define-public crate-geopolars-0.1.0-alpha.1 (c (n "geopolars") (v "0.1.0-alpha.1") (d (list (d (n "arrow2") (r "^0.11.2") (f (quote ("io_ipc"))) (d #t) (k 0)) (d (n "geo") (r "^0.22.1") (d #t) (k 0)) (d (n "geozero") (r "^0.9.4") (f (quote ("with-wkb"))) (d #t) (k 0)) (d (n "polars") (r "^0.21.1") (f (quote ("ipc" "dtype-u8" "dtype-i8"))) (d #t) (k 0)) (d (n "rstar") (r "^0.9.3") (d #t) (k 0)))) (h "176vbbzpryrii5gghx51lfysx1zkawayq9k9pjjlak4dn2rjkx9k")))
+
+(define-public crate-geopolars-0.1.0-alpha.3 (c (n "geopolars") (v "0.1.0-alpha.3") (d (list (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "geo") (r "^0.23") (d #t) (k 0)) (d (n "geozero") (r "^0.9.4") (f (quote ("with-wkb"))) (d #t) (k 0)) (d (n "polars") (r "^0.24") (f (quote ("dtype-u8" "dtype-i8" "ipc" "private"))) (k 0)) (d (n "proj") (r "^0.27.0") (f (quote ("geo-types" "bundled_proj"))) (o #t) (d #t) (k 0)) (d (n "rstar") (r "^0.9.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1fzfhf2lgl0485bgb6h3ln5a8740n9zjsvidb02r03pk0cqks9da") (f (quote (("default" "polars/csv-file" "polars/dtype-slim" "polars/fmt" "polars/temporal" "polars/zip_with")))) (s 2) (e (quote (("proj" "dep:proj")))) (r "1.60")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io st re streamlink) #:use-module (crates-io))
+
+(define-public crate-streamlink-0.2.2 (c (n "streamlink") (v "0.2.2") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "1ns27fb27dn87g9pnbfscgn935pgbznwk7dzndwph9drfg6ml01q")))
+
+(define-public crate-streamlink-0.2.3 (c (n "streamlink") (v "0.2.3") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "1wqp5mrcyz92ciqscm2s05a1sxa8vikai97v91a608b70md2ig74")))
+
+(define-public crate-streamlink-0.2.4 (c (n "streamlink") (v "0.2.4") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "0k5p5vxg30cij537f9gs2qqlcwxm4sf9lkdz23c45v5pmxvgkw36")))
+
+(define-public crate-streamlink-0.2.5 (c (n "streamlink") (v "0.2.5") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "1kan70bg0mrp339hkv27xbii06cxgqii28pxrqh8vy6ajbmwwnqm")))
+
+(define-public crate-streamlink-0.2.6 (c (n "streamlink") (v "0.2.6") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "0s4ayfjv1k0jg3scwl225rwmpksh8w052jvj3dxmpqpxxzz9k38l")))
+
+(define-public crate-streamlink-0.2.7 (c (n "streamlink") (v "0.2.7") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "0qky7bkcs68d2zp6c4h6x759h6cslmvnp072b3ysy38h65jagzbw")))
+
+(define-public crate-streamlink-0.3.1 (c (n "streamlink") (v "0.3.1") (d (list (d (n "clap") (r "^2.31") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.55") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.55") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7.0") (d #t) (k 0)))) (h "1gk36x06gzh2h90mc3jmakwar4sg0lqcx4w6x8w9wd6j4h2c72mw")))
+

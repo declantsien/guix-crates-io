@@ -1,0 +1,10 @@
+(define-module (crates-io li ce licenz) #:use-module (crates-io))
+
+(define-public crate-licenz-0.1.0 (c (n "licenz") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "quicli") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "11z36vdcv5w13fmi7sinhngqa6j6s76gczmvh4xg01dqccv9pfzl")))
+
+(define-public crate-licenz-0.2.0 (c (n "licenz") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "quicli") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "1jhd67k47pbk9hbg7vbpnxavbs1q34fa5ygraihaw2y9zqlk9b3m")))
+
+(define-public crate-licenz-0.3.0 (c (n "licenz") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "colored") (r "^1.7") (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.1") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "human-panic") (r "^1.0.1") (d #t) (k 0)) (d (n "quicli") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "029ispcw5psf6llah93hsicrcaaazz580gd0rlw38xvgyzzx5j6i")))
+
+(define-public crate-licenz-0.3.1 (c (n "licenz") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "colored") (r "^1.7") (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.1") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "human-panic") (r "^1.0.1") (d #t) (k 0)) (d (n "quicli") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "0151mgjhdggyzb0chdn349zbiw7f7h4aw5vhb015w2fpcpxla9ab")))
+

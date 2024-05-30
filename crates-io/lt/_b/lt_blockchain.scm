@@ -1,0 +1,4 @@
+(define-module (crates-io lt _b lt_blockchain) #:use-module (crates-io))
+
+(define-public crate-lt_blockchain-0.1.0 (c (n "lt_blockchain") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "chrono") (r "^0.4.9") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rsa") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.130") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.67") (d #t) (k 0)) (d (n "serde_with") (r "^1.10.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "sha2") (r "^0.9.6") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)) (d (n "wca") (r "^0.1.0") (d #t) (k 0)) (d (n "wtools") (r "^0.1.0") (d #t) (k 0)))) (h "1fspakpx0ja9bdr7k37yqfp0dr8dchlmrmh5m87diwx990vbw96f")))
+

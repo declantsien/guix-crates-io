@@ -1,0 +1,4 @@
+(define-module (crates-io pu ls pulsar-client) #:use-module (crates-io))
+
+(define-public crate-pulsar-client-0.0.1 (c (n "pulsar-client") (v "0.0.1") (d (list (d (n "futures-util") (r "^0.3") (k 0)) (d (n "futures-x-io") (r "^0.3") (o #t) (k 0)) (d (n "futures-x-io-timeoutable") (r "^0.3") (o #t) (k 0)) (d (n "log") (r "^0.4") (k 0)) (d (n "pulsar-binary-protocol-spec") (r "^0.0") (f (quote ("with-asynchronous"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "0k9nz8wqq6kw139x830qv46llvpglhdnsjr5wr285h556yy54sgw") (f (quote (("tokio_io" "futures-x-io/tokio_io_util" "futures-x-io-timeoutable/tokio_io") ("tokio02_io" "futures-x-io/tokio02_io_util" "futures-x-io-timeoutable/tokio02_io") ("futures_io" "futures-x-io/futures_util_io" "futures-x-io-timeoutable/futures_io") ("default" "tokio_io"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io rt l8 rtl8139-rs) #:use-module (crates-io))
+
+(define-public crate-rtl8139-rs-0.1.0 (c (n "rtl8139-rs") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (k 0)) (d (n "conquer-once") (r "^0.3.2") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.8") (f (quote ("alloc" "async-await" "sink"))) (o #t) (k 0)) (d (n "spin") (r "^0.7.0") (d #t) (k 0)) (d (n "x86_64") (r "^0.13.1") (d #t) (k 0)))) (h "1f9nd2gn44wwvb2ii7l42spwbz6japchndr6hd14a3dc16nb4kx4") (f (quote (("default" "async") ("async" "futures-util"))))))
+
+(define-public crate-rtl8139-rs-0.1.1 (c (n "rtl8139-rs") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1.0.0") (k 0)) (d (n "conquer-once") (r "^0.3.2") (k 0)) (d (n "crossbeam-queue") (r "^0.3.1") (f (quote ("alloc"))) (k 0)) (d (n "crossbeam-utils") (r "^0.8.1") (k 0)) (d (n "futures-util") (r "^0.3.8") (f (quote ("alloc" "async-await" "sink"))) (o #t) (k 0)) (d (n "spin") (r "^0.7.0") (d #t) (k 0)) (d (n "x86_64") (r "^0.13.1") (d #t) (k 0)))) (h "1c3d658pfaqas0pg9rrd9xvanv3a7ff8n0acyx0rqd68ydrhh15z") (f (quote (("default" "async") ("async" "futures-util"))))))
+
+(define-public crate-rtl8139-rs-0.1.2 (c (n "rtl8139-rs") (v "0.1.2") (d (list (d (n "cfg-if") (r "^1.0.0") (k 0)) (d (n "conquer-once") (r "^0.3.2") (k 0)) (d (n "crossbeam-queue") (r "^0.3.1") (f (quote ("alloc"))) (k 0)) (d (n "crossbeam-utils") (r "^0.8.1") (k 0)) (d (n "futures-util") (r "^0.3.8") (f (quote ("alloc" "async-await" "sink"))) (o #t) (k 0)) (d (n "spin") (r "^0.7.0") (d #t) (k 0)) (d (n "x86_64") (r "^0.13.1") (d #t) (k 0)))) (h "1n5naz3sv0ml6yf9l5dci1h3z58k9j3mm3vn7p7aj8iw5yf7l0gs") (f (quote (("default" "async") ("async" "futures-util"))))))
+

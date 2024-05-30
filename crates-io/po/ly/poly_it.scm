@@ -1,0 +1,16 @@
+(define-module (crates-io po ly poly_it) #:use-module (crates-io))
+
+(define-public crate-poly_it-0.1.0 (c (n "poly_it") (v "0.1.0") (d (list (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0yxhfmwyczi15x52mim424cy5bs43m5rxmfaihgj5hglzlvc38hd") (y #t) (s 2) (e (quote (("serde" "dep:serde")))) (r "1.70.0")))
+
+(define-public crate-poly_it-0.1.1 (c (n "poly_it") (v "0.1.1") (d (list (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "17v11yqxb7g2dvrfpayj3b620zrrqg3lzc7xflq6qxw8rmhsmxvr") (y #t) (s 2) (e (quote (("serde" "dep:serde")))) (r "1.70.0")))
+
+(define-public crate-poly_it-0.1.2 (c (n "poly_it") (v "0.1.2") (d (list (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0xz7nbjd9qbkazc7vwdh539jz4wxh87ncad9srpzgfqgc7z9asnb") (y #t) (s 2) (e (quote (("serde" "dep:serde")))) (r "1.70.0")))
+
+(define-public crate-poly_it-0.1.3 (c (n "poly_it") (v "0.1.3") (d (list (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "02zqad2cm03rlg9l6yngkrxbysj4qwib203kya5ln4w3z37w58r3") (s 2) (e (quote (("serde" "dep:serde")))) (r "1.70.0")))
+
+(define-public crate-poly_it-0.2.0 (c (n "poly_it") (v "0.2.0") (d (list (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (o #t) (d #t) (k 0)))) (h "1j4z0yxdnfpa3p624gwq7hc0jq9pnzpp4gfssyzbhqxxzm7nkqa4") (f (quote (("default" "alloc")))) (s 2) (e (quote (("tinyvec" "dep:tinyvec") ("serde" "dep:serde") ("alloc" "tinyvec?/alloc")))) (r "1.70.0")))
+
+(define-public crate-poly_it-0.2.1 (c (n "poly_it") (v "0.2.1") (d (list (d (n "arrayvec") (r "^0.7.4") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.13.2") (o #t) (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (o #t) (d #t) (k 0)))) (h "143nbr1r4mgifmh6x6h4ydgw7nbw9fh1ck388q2rl994pw09d9nk") (f (quote (("default" "alloc")))) (s 2) (e (quote (("tinyvec" "dep:tinyvec") ("smallvec" "dep:smallvec" "alloc") ("serde" "dep:serde") ("arrayvec" "dep:arrayvec") ("alloc" "tinyvec?/alloc")))) (r "1.56.0")))
+
+(define-public crate-poly_it-0.2.2 (c (n "poly_it") (v "0.2.2") (d (list (d (n "arrayvec") (r "^0.7.4") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.13.2") (o #t) (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (o #t) (d #t) (k 0)))) (h "07i84sdbfml405zlpdxqnapalpiirfizkvppn6bqb2ybgw568d5g") (f (quote (("default" "alloc")))) (s 2) (e (quote (("tinyvec" "dep:tinyvec") ("smallvec" "dep:smallvec" "alloc") ("serde" "dep:serde") ("arrayvec" "dep:arrayvec") ("alloc" "tinyvec?/alloc")))) (r "1.65.0")))
+

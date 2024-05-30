@@ -1,0 +1,4 @@
+(define-module (crates-io go og google-fit-to-sqlite) #:use-module (crates-io))
+
+(define-public crate-google-fit-to-sqlite-0.1.1 (c (n "google-fit-to-sqlite") (v "0.1.1") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "csv") (r "^1.2") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27.1") (f (quote ("serialize" "overlapped-lists"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "time") (r "^0.3") (f (quote ("parsing" "formatting" "macros" "serde"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "04ky0imrgzwqjb710rqx3qv5c59f6x47sg6g9dqwnsc0fx1by41h")))
+

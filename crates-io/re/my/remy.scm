@@ -1,0 +1,10 @@
+(define-module (crates-io re my remy) #:use-module (crates-io))
+
+(define-public crate-remy-0.0.1 (c (n "remy") (v "0.0.1") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "glob") (r "^0.2.11") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "tinyrick") (r "^0.0.9") (o #t) (d #t) (k 0)) (d (n "tinyrick_extras") (r "^0.0.3") (o #t) (d #t) (k 0)) (d (n "zip") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "0v402cl6x0i44hgbh2bxrs67m1r7pv1p87fvxbyhb43bybx4123c") (f (quote (("letmeout" "tinyrick" "tinyrick_extras" "zip" "glob"))))))
+
+(define-public crate-remy-0.0.2 (c (n "remy") (v "0.0.2") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "glob") (r "^0.2.11") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "tinyrick") (r "^0.0.9") (o #t) (d #t) (k 0)) (d (n "tinyrick_extras") (r "^0.0.3") (o #t) (d #t) (k 0)) (d (n "zip") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "0ab9k6690cgrbw0kv87q128666c55rz8qdr6411jhyjsrc55qvk6") (f (quote (("letmeout" "tinyrick" "tinyrick_extras" "zip" "glob"))))))
+
+(define-public crate-remy-0.0.3 (c (n "remy") (v "0.0.3") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "glob") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tinyrick") (r "^0.0.9") (o #t) (d #t) (k 0)) (d (n "tinyrick_extras") (r "^0.0.3") (o #t) (d #t) (k 0)) (d (n "zip") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0skh93l30mqsdd4wb2yj4b4b8wkbgm8r33ncxpkvlx6w1ngimhr0") (f (quote (("letmeout" "tinyrick" "tinyrick_extras" "zip" "glob"))))))
+
+(define-public crate-remy-0.0.4 (c (n "remy") (v "0.0.4") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "glob") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "tinyrick") (r "^0.0.9") (o #t) (d #t) (k 0)) (d (n "tinyrick_extras") (r "^0.0.3") (o #t) (d #t) (k 0)) (d (n "zip") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1aqa5fqbfs3rxq0p0q8wc88maizcxwajsc254dh95hpnr5gm7qfn") (f (quote (("letmeout" "tinyrick" "tinyrick_extras" "zip" "glob"))))))
+

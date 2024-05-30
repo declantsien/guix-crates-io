@@ -1,0 +1,6 @@
+(define-module (crates-io vp l- vpl-relying-party) #:use-module (crates-io))
+
+(define-public crate-vpl-relying-party-0.1.0 (c (n "vpl-relying-party") (v "0.1.0") (d (list (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "cid") (r "^0.7.0") (d #t) (k 0)) (d (n "multihash") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.4") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.7.4") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.7.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "02dk7kwvmrxn0fwavybv1qyxwgkvyzzygp34f45virgrrmc9aiqp") (f (quote (("test-bpf") ("no-entrypoint"))))))
+
+(define-public crate-vpl-relying-party-0.1.1 (c (n "vpl-relying-party") (v "0.1.1") (d (list (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "cid") (r "^0.7.0") (d #t) (k 0)) (d (n "multihash") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.4") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.7.4") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.7.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "19g1jwaazzwp47qkxkl3xrp72ahy6dlr9jcq8ayshrnzqlz4q1d0") (f (quote (("test-bpf") ("no-entrypoint"))))))
+

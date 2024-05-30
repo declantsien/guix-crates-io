@@ -1,0 +1,8 @@
+(define-module (crates-io re fi refind) #:use-module (crates-io))
+
+(define-public crate-refind-0.1.0 (c (n "refind") (v "0.1.0") (d (list (d (n "dunce") (r "^1.0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "libc") (r "^0.2.154") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Storage" "Win32" "Win32_Storage" "Win32_Storage_FileSystem" "Win32_Security"))) (d #t) (t "cfg(windows)") (k 0)))) (h "11768mh396s69c5gk5nhb45p9rifw1ylyg4bwl4kgiymmvsy4vh0")))
+
+(define-public crate-refind-0.1.1 (c (n "refind") (v "0.1.1") (d (list (d (n "dunce") (r "^1.0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "libc") (r "^0.2.154") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Storage" "Win32" "Win32_Storage" "Win32_Storage_FileSystem" "Win32_Security"))) (d #t) (t "cfg(windows)") (k 0)))) (h "00g34w3874c8pm0c74y8iss73ajakpjyy0wnx31gwbikygh2dy1l")))
+
+(define-public crate-refind-0.1.2 (c (n "refind") (v "0.1.2") (d (list (d (n "dunce") (r "^1.0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "libc") (r "^0.2.154") (d #t) (t "cfg(unix)") (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Storage" "Win32" "Win32_Storage" "Win32_Storage_FileSystem" "Win32_Security"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1fkzavdsl7mxr1pcwdq1393xk4jqh3zkkrard866b960y9n04c49")))
+

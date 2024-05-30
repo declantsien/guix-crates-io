@@ -1,0 +1,4 @@
+(define-module (crates-io ca me camelliakv) #:use-module (crates-io))
+
+(define-public crate-camelliakv-1.0.0 (c (n "camelliakv") (v "1.0.0") (d (list (d (n "adler32") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (f (quote ("i128"))) (d #t) (k 0)) (d (n "fibers") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1.31") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "prometrics") (r "^0.1") (d #t) (k 0)) (d (n "slog") (r "^2") (d #t) (k 0)) (d (n "trackable") (r "^1.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "fibers_global") (r "^0.1") (d #t) (k 2)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "0zsf4cb1snpd81i0h5r905w8wwzkvbd4czxsp2h27413mdljd2nb") (f (quote (("device" "futures" "fibers") ("default" "futures" "fibers"))))))
+

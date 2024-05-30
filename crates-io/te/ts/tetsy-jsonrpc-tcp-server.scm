@@ -1,0 +1,8 @@
+(define-module (crates-io te ts tetsy-jsonrpc-tcp-server) #:use-module (crates-io))
+
+(define-public crate-tetsy-jsonrpc-tcp-server-14.2.0 (c (n "tetsy-jsonrpc-tcp-server") (v "14.2.0") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-server-utils") (r "^14.2") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "07aavil7z0xjn4ifcwr41w3jgg4iap47xcq99hincgfd6rpd8w58")))
+
+(define-public crate-tetsy-jsonrpc-tcp-server-14.2.1 (c (n "tetsy-jsonrpc-tcp-server") (v "14.2.1") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-server-utils") (r "^14.2") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "0ywhs9i7v1v6s9a0m5cqighj664airbdyplfilrpwl61fvc65qrr")))
+
+(define-public crate-tetsy-jsonrpc-tcp-server-15.1.0 (c (n "tetsy-jsonrpc-tcp-server") (v "15.1.0") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-server-utils") (r "^15.1.0") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "01xgngcwkhz9x7wngydn28abadn084aasb9pgav0k96nvn3yysbp")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ne tl netlink-sys-mio-0-8) #:use-module (crates-io))
+
+(define-public crate-netlink-sys-mio-0-8-0.8.3 (c (n "netlink-sys-mio-0-8") (v "0.8.3") (d (list (d (n "async-io") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-poll" "os-ext"))) (o #t) (d #t) (k 0)) (d (n "netlink-packet-audit") (r "^0.4") (d #t) (k 2)) (d (n "tokio") (r "^1.0.1") (f (quote ("net"))) (o #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("net" "macros" "rt-multi-thread"))) (k 2)))) (h "1k8irjl59srh6jvw1dysa47q7zfmm2r9iwgx062wiq930c695fm1") (f (quote (("tokio_socket" "tokio" "futures") ("smol_socket" "async-io" "futures") ("mio_socket" "mio") ("default"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ka lo kalosm-vision) #:use-module (crates-io))
+
+(define-public crate-kalosm-vision-0.1.0 (c (n "kalosm-vision") (v "0.1.0") (d (list (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "kalosm-ocr") (r "^0.1.0") (d #t) (k 0)) (d (n "rwuerstchen") (r "^0.1.0") (d #t) (k 0)) (d (n "segment-anything-rs") (r "^0.1.0") (d #t) (k 0)))) (h "1h8cvrif6x51pqnxq0j1iqiblqkrxxwjcdrb8shh1bzyl1fbh9pj") (f (quote (("metal" "kalosm-ocr/accelerate" "rwuerstchen/accelerate" "segment-anything-rs/accelerate") ("cublas" "kalosm-ocr/cuda" "rwuerstchen/cuda" "segment-anything-rs/cuda"))))))
+
+(define-public crate-kalosm-vision-0.2.0 (c (n "kalosm-vision") (v "0.2.0") (d (list (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "kalosm-ocr") (r "^0.2.0") (d #t) (k 0)) (d (n "rwuerstchen") (r "^0.2.0") (d #t) (k 0)) (d (n "segment-anything-rs") (r "^0.2.0") (d #t) (k 0)))) (h "08jziif3052n7z5j4cxy5dcardsh6x0g9ib1imqxmlcgaplx5cpj") (f (quote (("metal" "kalosm-ocr/accelerate" "rwuerstchen/accelerate" "segment-anything-rs/accelerate") ("cublas" "kalosm-ocr/cuda" "rwuerstchen/cuda" "segment-anything-rs/cuda"))))))
+
+(define-public crate-kalosm-vision-0.2.1 (c (n "kalosm-vision") (v "0.2.1") (d (list (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "kalosm-ocr") (r "^0.2.1") (d #t) (k 0)) (d (n "rwuerstchen") (r "^0.2.1") (d #t) (k 0)) (d (n "segment-anything-rs") (r "^0.2.1") (d #t) (k 0)))) (h "159m1bkisbalb69failh2q9bnx6sf43j08841n4bv2zx3mzwi81c") (f (quote (("metal" "kalosm-ocr/accelerate" "rwuerstchen/accelerate" "segment-anything-rs/accelerate") ("cublas" "kalosm-ocr/cuda" "rwuerstchen/cuda" "segment-anything-rs/cuda"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io hi d- hid-recorder) #:use-module (crates-io))
+
+(define-public crate-hid-recorder-0.1.0 (c (n "hid-recorder") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hidreport") (r "^0.1.0") (d #t) (k 0)) (d (n "hut") (r "^0.1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "nix") (r "^0.28.0") (f (quote ("poll"))) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (f (quote ("supports-colors"))) (d #t) (k 0)))) (h "1zbjmafvfpp9a3h5pdycr15kkn91hs1kg4v3jngpr24pishd3cv4")))
+
+(define-public crate-hid-recorder-0.2.0 (c (n "hid-recorder") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hidreport") (r "^0.3.0") (d #t) (k 0)) (d (n "hut") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "nix") (r "^0.28.0") (f (quote ("poll"))) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (f (quote ("supports-colors"))) (d #t) (k 0)))) (h "1dhyb91g8laghq47d78mav26hs2xfs3p8720bxkrxlflid1v1vkv")))
+

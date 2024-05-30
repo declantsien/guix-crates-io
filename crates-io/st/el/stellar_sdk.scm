@@ -1,0 +1,12 @@
+(define-module (crates-io st el stellar_sdk) #:use-module (crates-io))
+
+(define-public crate-stellar_sdk-0.1.0 (c (n "stellar_sdk") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "1c83dz24d2yfg6sx157cazhfcfqlzg818zrdnx27mx1dr4vjyc8c")))
+
+(define-public crate-stellar_sdk-0.1.1 (c (n "stellar_sdk") (v "0.1.1") (d (list (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "0arjgqv6jxlmqxrjl4p6l082jm95iw0z4avfs78j2vc8b6qpq994")))
+
+(define-public crate-stellar_sdk-0.1.2 (c (n "stellar_sdk") (v "0.1.2") (d (list (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "0xbyqkskm1w9f8y9a7y5p6j4r3fkrwqimdzdl66pd9f3q8j19hsr")))
+
+(define-public crate-stellar_sdk-0.1.3 (c (n "stellar_sdk") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crc") (r "^3.0.0") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "nacl") (r "^0.5.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "1q6ri4hnzrl5al010jjpfw3lkv26bzfdp4yhdwi3q731rln794af")))
+
+(define-public crate-stellar_sdk-0.1.4 (c (n "stellar_sdk") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "crc") (r "^3.0.0") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "nacl") (r "^0.5.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "sodiumoxide") (r "=0.2.6") (d #t) (k 0)) (d (n "stellar-base") (r "^0.5.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "0xnjjw33sihc9n6zpargr01jr180vlzgz6iw2mndfliq5ygyv4j8") (f (quote (("default" "nacl")))) (s 2) (e (quote (("nacl" "dep:nacl"))))))
+

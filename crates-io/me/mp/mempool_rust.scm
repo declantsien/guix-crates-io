@@ -1,0 +1,6 @@
+(define-module (crates-io me mp mempool_rust) #:use-module (crates-io))
+
+(define-public crate-mempool_rust-0.1.0 (c (n "mempool_rust") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls-webpki-roots" "socks"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1040qjhz9xzm0zw620qs4d4hd052cyg1qhcbrfrfk22cxy7nwdf6")))
+
+(define-public crate-mempool_rust-0.1.1 (c (n "mempool_rust") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls-webpki-roots" "socks"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "0b2n84n5bcvpsbrcy6yvsdfd2hf16sb2ym9y7ycrdb3d1mckqqy4")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ep ic epic_util) #:use-module (crates-io))
+
+(define-public crate-epic_util-3.0.0 (c (n "epic_util") (v "3.0.0") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "grin_secp256k1zkp") (r "^0.7.5") (f (quote ("bullet-proof-sizing"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^0.8.1") (f (quote ("rolling_file_appender" "compound_policy" "size_trigger" "fixed_window_roller"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)) (d (n "zeroize") (r "^1.3.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (k 0)))) (h "0ahvsjg6ygks4jvndjbrbv1lgw0r2nrz0b6kx277bk4aq2h644m2") (y #t)))
+

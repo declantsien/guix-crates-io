@@ -1,0 +1,6 @@
+(define-module (crates-io ri me rime-tui) #:use-module (crates-io))
+
+(define-public crate-rime-tui-0.1.0 (c (n "rime-tui") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.9") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "cstr") (r "^0.2.11") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.140") (d #t) (k 0)) (d (n "librime-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "rime-api") (r "^0.2.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "x11") (r "^2.21.0") (f (quote ("xlib" "xinput"))) (d #t) (k 0)))) (h "19n200z55m54yikxfcmsg47wgrrgkm01mlb11akpwmwwq0038g99")))
+
+(define-public crate-rime-tui-0.1.1 (c (n "rime-tui") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.9") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "cstr") (r "^0.2.11") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.140") (d #t) (k 0)) (d (n "librime-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "rime-api") (r "^0.2.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "x11") (r "^2.21.0") (f (quote ("xlib" "xinput"))) (d #t) (k 0)))) (h "1vrgz4x0p5dhbvnb879ql0sbvlyakmvvixxwd00s1a9zsgqjqaqv")))
+

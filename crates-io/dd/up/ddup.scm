@@ -1,0 +1,10 @@
+(define-module (crates-io dd up ddup) #:use-module (crates-io))
+
+(define-public crate-ddup-0.0.1-alpha (c (n "ddup") (v "0.0.1-alpha") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("std" "winuser" "winioctl" "ioapiset" "errhandlingapi" "fileapi" "handleapi" "handleapi" "winnt" "ntdef" "minwindef"))) (d #t) (k 0)))) (h "081lpsx00kij699fk6v1rdw9qqkv5i762nwpsi24gvvwr3c3hx2c")))
+
+(define-public crate-ddup-0.0.2-alpha (c (n "ddup") (v "0.0.2-alpha") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("std" "winuser" "winioctl" "ioapiset" "errhandlingapi" "fileapi" "handleapi" "handleapi" "winnt" "ntdef" "minwindef"))) (d #t) (k 0)))) (h "17jdz2l88gabmfm7d24k3q6byb09a9378sjrya7c16zkpdhnjk5q")))
+
+(define-public crate-ddup-0.0.3 (c (n "ddup") (v "0.0.3") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "rayon") (r "^1.3.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("std" "winuser" "winioctl" "ioapiset" "errhandlingapi" "fileapi" "handleapi" "handleapi" "winnt" "ntdef" "minwindef"))) (d #t) (k 0)))) (h "1crnzz09n9c7qr749s23pqxz0fd9qnpbjsnw10rd76a6agibqx9s")))
+
+(define-public crate-ddup-0.0.4 (c (n "ddup") (v "0.0.4") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "rayon") (r "^1.3.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("std" "winuser" "winioctl" "ioapiset" "errhandlingapi" "fileapi" "handleapi" "handleapi" "winnt" "ntdef" "minwindef"))) (d #t) (k 0)))) (h "15vb3k0hwr69clh57smvkdd277xbqiwdb45p2yhlz8akp3x8w0cx")))
+

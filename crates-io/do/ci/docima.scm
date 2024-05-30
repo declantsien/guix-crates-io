@@ -1,0 +1,36 @@
+(define-module (crates-io do ci docima) #:use-module (crates-io))
+
+(define-public crate-docima-0.1.0 (c (n "docima") (v "0.1.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "project-root") (r "^0.2.2") (d #t) (k 0)))) (h "10a3lnc9d9as2qijy12ljajncz8p4lfb2x4951wh4n9v763qc2ni")))
+
+(define-public crate-docima-0.1.1 (c (n "docima") (v "0.1.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "project-root") (r "^0.2.2") (d #t) (k 0)))) (h "009q8qfdmcc0cpzcnlpia95pvy5rk0h1jynva47ih5h00n1kszlg")))
+
+(define-public crate-docima-0.2.0 (c (n "docima") (v "0.2.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "project-root") (r "^0.2.2") (d #t) (k 0)))) (h "02m40r5n2dp6q6z9slkq8l5825ch0xivrh8yxfvz951alz224wrj")))
+
+(define-public crate-docima-0.3.0 (c (n "docima") (v "0.3.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "project-root") (r "^0.2.2") (d #t) (k 0)))) (h "1dbr01n03dq6nwinlabsi2wxda6hysimj4f4aiqfs4f3vgqqsvv9")))
+
+(define-public crate-docima-0.4.0 (c (n "docima") (v "0.4.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "project-root") (r "^0.2.2") (d #t) (k 0)))) (h "0b4rrsbg7gjpynwk315p1fj99qcymy5775jc4drp1gm43chj6pvc")))
+
+(define-public crate-docima-0.4.1-prerelease (c (n "docima") (v "0.4.1-prerelease") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "12xry8i83x18v2bg8z74yiqbi1rad5h4h7zb1l5j6ivr3q1mxksm") (y #t)))
+
+(define-public crate-docima-0.4.1 (c (n "docima") (v "0.4.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima") (r "^0.4.1-prerelease") (d #t) (k 1)) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "0ya2cbjzwr1w3dy21y2lx63g47x6yc6inwc2b3gpfvlaik1g8h5s") (y #t)))
+
+(define-public crate-docima-0.5.0-rc.1 (c (n "docima") (v "0.5.0-rc.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.4.1-prerelease") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "00kl08v8i5bdcf7cj4ps5zk62znhibqsb4hxn2fxlfv7fh43ndx4") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.5.0 (c (n "docima") (v "0.5.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.5.0-rc.1") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "1gx7xpgadviliaq4ci4xzq9ir52zpna4xmlwsdryb4jbqcjz025a") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.6.0-prerelease (c (n "docima") (v "0.6.0-prerelease") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.5.0-rc.1") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "1h0w2fi8x3q2j9hczykmfqcra8dq0qax1v4d86r99h1j69m3yjy7") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.6.0 (c (n "docima") (v "0.6.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.6.0-prerelease") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "10b7hzq6v3klllwirwg2ghpyzly1l7lglbrfza4q93j32zf359hd") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.6.1 (c (n "docima") (v "0.6.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.6.0-prerelease") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "0c9fh5dwii673jp4fpsg926k20xzj3brvia2dcsql80y5pd11bb5") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.7.0 (c (n "docima") (v "0.7.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.6.0-prerelease") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "1dapy20bjgz6h1fcr6d0p1ivyiciqnl2kj520cagahs3pjwkbssm") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.8.0 (c (n "docima") (v "0.8.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.7.0") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "16cvs99mazpz604qpamhfc87195yik6llcw2zl3z8kc6cldq8gqk") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.8.1-builddep (c (n "docima") (v "0.8.1-builddep") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "0dn1bzgmgjmyiyrdry43xhgxm9fknrxa8jg658b5w2bi5jbszzi7") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc"))))))
+
+(define-public crate-docima-0.9.0 (c (n "docima") (v "0.9.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.8.1-builddep") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "048afybn5n4myjm97drsp738jflslhx136bkcihhigszy04sbhj8") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc")))) (y #t)))
+
+(define-public crate-docima-0.9.1 (c (n "docima") (v "0.9.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "docima_builddep") (r "^0.8.1-builddep") (d #t) (k 1) (p "docima")) (d (n "plotters") (r "^0.3.1") (d #t) (k 1)) (d (n "png") (r "^0.17.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 1)) (d (n "rand_xoshiro") (r "^0.6.0") (d #t) (k 1)))) (h "119sx6aaxspr7yhjq4pwfvn9gw92rrx2sgp92dnblmdisc09jlar") (f (quote (("not_default_overwrite") ("doc") ("build_when_doc"))))))
+

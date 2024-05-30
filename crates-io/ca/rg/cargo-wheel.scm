@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-wheel) #:use-module (crates-io))
+
+(define-public crate-cargo-wheel-0.1.0 (c (n "cargo-wheel") (v "0.1.0") (d (list (d (n "cargo") (r "^0.30") (d #t) (k 0)) (d (n "cbindgen") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "mustache") (r "^0.9") (d #t) (k 0)) (d (n "pathdiff") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "1y4x3hby3p963bjz3idw5m1316dcxgxg5qm95618cc6imqbbalxk")))
+
+(define-public crate-cargo-wheel-0.2.0 (c (n "cargo-wheel") (v "0.2.0") (d (list (d (n "cargo") (r "^0.32") (d #t) (k 0)) (d (n "cbindgen") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "mustache") (r "^0.9") (d #t) (k 0)) (d (n "pathdiff") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "1rgsxj6fidfcgsh9k0frsf07mxrjgj3wnxkn50m6xj4kwz0fk95g")))
+
+(define-public crate-cargo-wheel-0.2.1 (c (n "cargo-wheel") (v "0.2.1") (d (list (d (n "cargo") (r "^0.62.0") (d #t) (k 0)) (d (n "cbindgen") (r "^0.24.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "mustache") (r "^0.9.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "0k58crld5as5lay6kdqcy7nm3r81wv38yzkvxk34pz2b6jlx0nr2")))
+
+(define-public crate-cargo-wheel-0.2.2 (c (n "cargo-wheel") (v "0.2.2") (d (list (d (n "cargo") (r "^0.62.0") (d #t) (k 0)) (d (n "cbindgen") (r "^0.24.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "mustache") (r "^0.9.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "05y0dvgixyfn4ymihp7ni29j0imgwb7fx54jlwp2l9dyy4yi9h8x")))
+

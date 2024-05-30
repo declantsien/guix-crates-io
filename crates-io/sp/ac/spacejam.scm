@@ -1,0 +1,8 @@
+(define-module (crates-io sp ac spacejam) #:use-module (crates-io))
+
+(define-public crate-spacejam-0.1.0 (c (n "spacejam") (v "0.1.0") (d (list (d (n "bincode") (r "^1.0.1") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "1l564f4m2bjisx7vq258iq2d6ia31pnfab3f31lpqikim6x5zzv6")))
+
+(define-public crate-spacejam-0.1.1 (c (n "spacejam") (v "0.1.1") (d (list (d (n "bincode") (r "^1.0.1") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "121l75ayf46pkzfc8fszsawy6cwxbh9lkrvg9i9s5x3gjdg6cnx9")))
+
+(define-public crate-spacejam-0.1.2 (c (n "spacejam") (v "0.1.2") (d (list (d (n "bincode") (r "^1.0.1") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "1axc987jkzl1n16vfmx1f0cjyr1hqqk2agi2fwp1yk6zykagirhh")))
+

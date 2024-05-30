@@ -1,0 +1,4 @@
+(define-module (crates-io di ff differential-dataflow-master) #:use-module (crates-io))
+
+(define-public crate-differential-dataflow-master-0.13.0-dev.1 (c (n "differential-dataflow-master") (v "0.13.0-dev.1") (d (list (d (n "abomonation") (r "^0.7") (d #t) (k 0)) (d (n "abomonation_derive") (r "^0.5") (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 2)) (d (n "byteorder") (r "^1") (d #t) (k 2)) (d (n "fnv") (r "^1.0.2") (d #t) (k 0)) (d (n "graph_map") (r "^0.1") (d #t) (k 2)) (d (n "indexmap") (r "^2.1") (d #t) (k 2)) (d (n "itertools") (r "^0.7") (d #t) (k 2)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "rdkafka") (r "^0.24") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "timely-master") (r "=0.13.0-dev.1") (k 0)))) (h "19fznia87yi9v9kzhr47hzlps053k1srv6sg4b5ss81s587r97fh") (f (quote (("default" "timely-master/getopts"))))))
+

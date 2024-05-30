@@ -1,0 +1,10 @@
+(define-module (crates-io sc al scale-core) #:use-module (crates-io))
+
+(define-public crate-scale-core-0.0.1 (c (n "scale-core") (v "0.0.1") (d (list (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (o #t) (d #t) (k 0)) (d (n "scale_impl_generator") (r "^0.0.1") (d #t) (k 0)))) (h "1pdwjyqw9kw967knlanr3l7z59p2znzkphgdiiv19b6jb9lfsbcn") (f (quote (("emulate" "lazy_static" "num-bigint" "num-integer" "num-traits"))))))
+
+(define-public crate-scale-core-0.1.0 (c (n "scale-core") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (o #t) (d #t) (k 0)) (d (n "scale_impl_generator") (r "^0.1.1") (d #t) (k 0)))) (h "140qqzihggafisxa3bvqyyjp2mrb01p80ppl1qqx1y8khf4cl72d") (f (quote (("emulate" "lazy_static" "num-bigint" "num-integer" "num-traits"))))))
+
+(define-public crate-scale-core-0.1.1 (c (n "scale-core") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (o #t) (d #t) (k 0)) (d (n "scale_impl_generator") (r "^0.1.1") (d #t) (k 0)))) (h "06wr7cgcx4vnyr5zh97bfb5y7f14bxk9xw7ww7rgp29v8cszb4k3") (f (quote (("emulate" "lazy_static" "num-bigint" "num-integer" "num-traits"))))))
+
+(define-public crate-scale-core-0.1.2 (c (n "scale-core") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num-integer") (r "^0.1.43") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (o #t) (d #t) (k 0)) (d (n "scale_impl_generator") (r "^0.1.2") (d #t) (k 0)))) (h "1s3snx2b8gl2d5snss1x37pikavgq7b53l74wp67q5l92ac8sky1") (f (quote (("emulate" "lazy_static" "num-bigint" "num-integer" "num-traits"))))))
+

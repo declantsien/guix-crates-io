@@ -1,0 +1,8 @@
+(define-module (crates-io ru ne rune-core) #:use-module (crates-io))
+
+(define-public crate-rune-core-0.13.0 (c (n "rune-core") (v "0.13.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "musli") (r "^0.0.42") (o #t) (k 0)) (d (n "rune-alloc") (r "^0.13.0") (f (quote ("serde"))) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (k 0)) (d (n "twox-hash") (r "^1.6.3") (k 0)))) (h "0g650dzsgdlz38mfx6q6l1v069pb7psaqvkk8d3rk7b3ayz3rfxk") (f (quote (("std" "alloc" "rune-alloc/std") ("doc") ("default" "alloc") ("alloc" "serde/alloc" "rune-alloc/alloc")))) (r "1.70")))
+
+(define-public crate-rune-core-0.13.1 (c (n "rune-core") (v "0.13.1") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "musli") (r "^0.0.42") (o #t) (k 0)) (d (n "rune-alloc") (r "^0.13.1") (f (quote ("serde"))) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (k 0)) (d (n "twox-hash") (r "^1.6.3") (k 0)))) (h "1p95gs3ifgky8aplr8nzfl5jqyq9c8d8vjd2csqj4nmk7v3fk1i3") (f (quote (("std" "alloc" "rune-alloc/std") ("doc") ("default" "alloc") ("alloc" "serde/alloc" "rune-alloc/alloc")))) (r "1.70")))
+
+(define-public crate-rune-core-0.13.2 (c (n "rune-core") (v "0.13.2") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "musli") (r "^0.0.42") (o #t) (k 0)) (d (n "rune-alloc") (r "^0.13.2") (f (quote ("serde"))) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (k 0)) (d (n "twox-hash") (r "^1.6.3") (k 0)))) (h "08md5nx43h73j41v5yqjv9zqn363156d07cr1yprs9w6h8r9y912") (f (quote (("std" "alloc" "rune-alloc/std") ("doc") ("default" "alloc") ("alloc" "serde/alloc" "rune-alloc/alloc")))) (r "1.74")))
+

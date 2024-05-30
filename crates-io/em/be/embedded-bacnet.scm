@@ -1,0 +1,8 @@
+(define-module (crates-io em be embedded-bacnet) #:use-module (crates-io))
+
+(define-public crate-embedded-bacnet-0.1.0 (c (n "embedded-bacnet") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3.7") (k 0)) (d (n "chrono") (r "^0.4.28") (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "flagset") (r "^0.4.3") (k 0)) (d (n "log") (r "^0.4.19") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "16prak73004mzjabd1phhj9x6wxmcf7w7w5pxp86p1knknh8s04h") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "flagset/serde") ("defmt" "dep:defmt"))))))
+
+(define-public crate-embedded-bacnet-0.2.0 (c (n "embedded-bacnet") (v "0.2.0") (d (list (d (n "arrayref") (r "^0.3.7") (k 0)) (d (n "chrono") (r "^0.4.28") (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "flagset") (r "^0.4.3") (k 0)) (d (n "log") (r "^0.4.19") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "0c8wfv4y3q5aw1k17jlj50k07lhvajaizfpbpz2ml7cqz4ca96wp") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "flagset/serde") ("defmt" "dep:defmt"))))))
+
+(define-public crate-embedded-bacnet-0.3.0 (c (n "embedded-bacnet") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.28") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "0bgai9aw07888l4qbf4m8frlzlz5ajc1rhzs9md2s26nqqa3a3h5") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde") ("defmt" "dep:defmt"))))))
+

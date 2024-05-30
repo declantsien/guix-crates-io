@@ -1,0 +1,4 @@
+(define-module (crates-io en qu enqueue-email) #:use-module (crates-io))
+
+(define-public crate-enqueue-email-0.1.0 (c (n "enqueue-email") (v "0.1.0") (d (list (d (n "async-std") (r "^1.6.2") (d #t) (k 0)) (d (n "async-tls") (r "^0.7.0") (d #t) (k 0)) (d (n "cargo-tarpaulin") (r "^0.14.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "http-types") (r "^2.2.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3.4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "rustls") (r "^0.17.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)) (d (n "x11-clipboard") (r "^0.5.1") (d #t) (k 0)) (d (n "xcb") (r "^0.9.0") (d #t) (k 0)))) (h "0bg4qrxi2bjzfw51rq5nz54ckp074bn8g68x2n8j0bwjy6mx9xvl") (f (quote (("live-tests"))))))
+

@@ -1,0 +1,44 @@
+(define-module (crates-io li bc libcnb-package) #:use-module (crates-io))
+
+(define-public crate-libcnb-package-0.1.0 (c (n "libcnb-package") (v "0.1.0") (d (list (d (n "cargo_metadata") (r "^0.14.2") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.5.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "which") (r "^4.2.4") (d #t) (k 0)))) (h "044bpi940m9f2d848rwbgd092lswj73wp4g23ffpkich7grhhvm0") (r "1.58")))
+
+(define-public crate-libcnb-package-0.1.1 (c (n "libcnb-package") (v "0.1.1") (d (list (d (n "cargo_metadata") (r "^0.14.2") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.6.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "which") (r "^4.2.5") (d #t) (k 0)))) (h "032j7zb47yhprkmmglb116cb7nx2d4klzm3fz88xsq7ykqryl526") (r "1.58")))
+
+(define-public crate-libcnb-package-0.1.2 (c (n "libcnb-package") (v "0.1.2") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.7.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.2.5") (d #t) (k 0)))) (h "0lpagblccmdf5lx87wl3a2j50qzh7rjnaik8vryxjfkr07s036gy") (r "1.58")))
+
+(define-public crate-libcnb-package-0.2.0 (c (n "libcnb-package") (v "0.2.0") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.8.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.2.5") (d #t) (k 0)))) (h "1sp5cdha635jr2xxlnjym5ngcc99jwsjx986072anjw7yx0kb15c") (r "1.59")))
+
+(define-public crate-libcnb-package-0.10.0 (c (n "libcnb-package") (v "0.10.0") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.10.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.2.5") (d #t) (k 0)))) (h "18c8k052wa3bmkmknk4l1xnmm74zfdgg4cxr7mci1z554lp5y91y") (r "1.59")))
+
+(define-public crate-libcnb-package-0.11.0 (c (n "libcnb-package") (v "0.11.0") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.11.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "0m0zj5dp1i72jdabkby39yjmjm408vspm9kqlbhimb8w73b09fkp") (r "1.64")))
+
+(define-public crate-libcnb-package-0.11.1 (c (n "libcnb-package") (v "0.11.1") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.11.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "0vmjq4zi09ywg3kybza20rq0jdmr5w0sal76pyr14hklklp107da") (r "1.64")))
+
+(define-public crate-libcnb-package-0.11.2 (c (n "libcnb-package") (v "0.11.2") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.11.2") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "0ikll8spawav7ckxcrmgqwdzplfn4hm4ypikg6yc1samk42zx6xi") (r "1.64")))
+
+(define-public crate-libcnb-package-0.11.3 (c (n "libcnb-package") (v "0.11.3") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.11.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1j4blhlxdq88iyjjfr8a5fafabh7dr00h9bramj7lqah7qffm09g") (r "1.64")))
+
+(define-public crate-libcnb-package-0.11.4 (c (n "libcnb-package") (v "0.11.4") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.11.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1df5yyzv6bvx95hagzshxr17c7hrjlwwrnvdcsqdjylr5nlk9vfr") (r "1.64")))
+
+(define-public crate-libcnb-package-0.11.5 (c (n "libcnb-package") (v "0.11.5") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.11.5") (d #t) (k 0)) (d (n "toml") (r "^0.7.1") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "0nbbsrqimymsff3jxfliqr7qskshihwzi3jiizs8q1x1b39iikda") (r "1.64")))
+
+(define-public crate-libcnb-package-0.12.0 (c (n "libcnb-package") (v "0.12.0") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.12.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.1") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "1rw8cbx77rhbbcvkjk05wf6dw5ckzddgd8wqalwzfq46l8v54817") (r "1.64")))
+
+(define-public crate-libcnb-package-0.13.0 (c (n "libcnb-package") (v "0.13.0") (d (list (d (n "cargo_metadata") (r "^0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "^0.13.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.3") (k 0)) (d (n "toml") (r "^0.7.1") (d #t) (k 0)) (d (n "which") (r "^4.3.0") (d #t) (k 0)))) (h "0l84xvjvfamjmn0iwai5kh6wm1ic9r403zg3qfjcxjm14rgziy0p") (r "1.64")))
+
+(define-public crate-libcnb-package-0.14.0 (c (n "libcnb-package") (v "0.14.0") (d (list (d (n "cargo_metadata") (r "^0.17.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.14.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.3") (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "0i6ihmyw3yjkh01m3315sy31w9xcihinm4nimkqszz72wwz8qbs1") (r "1.64")))
+
+(define-public crate-libcnb-package-0.15.0 (c (n "libcnb-package") (v "0.15.0") (d (list (d (n "cargo_metadata") (r "^0.18.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.15.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.15.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^4.4.2") (d #t) (k 0)))) (h "0v54yam77qgs4fzsblg91fnrvlzr8hkdc0c91wdzgiazr4d4rvnm") (r "1.64")))
+
+(define-public crate-libcnb-package-0.16.0 (c (n "libcnb-package") (v "0.16.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.16.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.16.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "1rr5qiliz72zprdbihhqrf75ihcg6ixw22qklpqvy084p3s5dixp") (r "1.74")))
+
+(define-public crate-libcnb-package-0.17.0 (c (n "libcnb-package") (v "0.17.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.17.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.17.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "0xdz7aw360zdj6szwiy0wnfy6d9rv1350vlsi0kfkxwii4ww8klk") (r "1.74")))
+
+(define-public crate-libcnb-package-0.18.0 (c (n "libcnb-package") (v "0.18.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "indoc") (r "^2.0.4") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.18.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.18.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^6.0.0") (d #t) (k 0)))) (h "1gzrq1sss900a4rcr3ppdfbaq248vwzxshdf010v0c6ax142adnf") (r "1.76")))
+
+(define-public crate-libcnb-package-0.19.0 (c (n "libcnb-package") (v "0.19.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "indoc") (r "^2.0.4") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.19.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.19.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^6.0.0") (d #t) (k 0)))) (h "1mcp7mcvjgav188k31dsmqryajc84ljldrhmsh0jlqici3hc4y16") (r "1.76")))
+
+(define-public crate-libcnb-package-0.20.0 (c (n "libcnb-package") (v "0.20.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4.22") (d #t) (k 0)) (d (n "indoc") (r "^2.0.5") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.20.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.20.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^6.0.1") (d #t) (k 0)))) (h "1cwq2alhv3www1ffnl0vfj8xxi6xqi6zm5ipmw64qsnrl7fdjsk9") (r "1.76")))
+
+(define-public crate-libcnb-package-0.21.0 (c (n "libcnb-package") (v "0.21.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4.22") (d #t) (k 0)) (d (n "indoc") (r "^2.0.5") (d #t) (k 0)) (d (n "libcnb-common") (r "=0.21.0") (d #t) (k 0)) (d (n "libcnb-data") (r "=0.21.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)) (d (n "which") (r "^6.0.1") (d #t) (k 0)))) (h "0d5rwajh779yhb8xsg56v8737kq4jpqsrcvzq1ssh4i22519p39v") (r "1.76")))
+

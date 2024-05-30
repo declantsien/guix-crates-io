@@ -1,0 +1,4 @@
+(define-module (crates-io fu gu fuguex-concrete) #:use-module (crates-io))
+
+(define-public crate-fuguex-concrete-0.2.20 (c (n "fuguex-concrete") (v "0.2.20") (d (list (d (n "downcast-rs") (r "^1") (d #t) (k 0)) (d (n "dyn-clone") (r "^1") (d #t) (k 0)) (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "fugue") (r "^0.2") (f (quote ("fp"))) (d #t) (k 0)) (d (n "fuguex-hooks") (r "^0.2") (d #t) (k 0)) (d (n "fuguex-intrinsics") (r "^0.2") (d #t) (k 0)) (d (n "fuguex-loader") (r "^0.2") (d #t) (k 0)) (d (n "fuguex-machine") (r "^0.2") (d #t) (k 0)) (d (n "fuguex-microx") (r "^0.1") (d #t) (k 0)) (d (n "fuguex-state") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1sqz28wyg6an9p9ijxgciifvkgdg3h6mx4g3qm9ah1clnkzy1jd3")))
+

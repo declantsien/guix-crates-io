@@ -1,0 +1,4 @@
+(define-module (crates-io gr ap graphite_mc_constants) #:use-module (crates-io))
+
+(define-public crate-graphite_mc_constants-0.1.0 (c (n "graphite_mc_constants") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 1)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 1)) (d (n "graphite_binary") (r "^0.1.0") (d #t) (k 0)) (d (n "graphite_mc_protocol") (r "^0.1.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde"))) (d #t) (k 1)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "readonly") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 1)) (d (n "serde_derive") (r "^1.0") (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 1)))) (h "0ydw43dpvr9650fsxg6p4j0l0span09zzq6l5z08mgnhgz3bzs3w")))
+

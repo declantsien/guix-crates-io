@@ -1,0 +1,8 @@
+(define-module (crates-io su rr surrealdb-tikv-client-proto) #:use-module (crates-io))
+
+(define-public crate-surrealdb-tikv-client-proto-0.1.0-surreal.1 (c (n "surrealdb-tikv-client-proto") (v "0.1.0-surreal.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "grpcio") (r "^0.8") (f (quote ("secure" "prost-codec" "use-bindgen"))) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-derive") (r "^0.7") (d #t) (k 0)) (d (n "protobuf") (r "^2.8") (d #t) (k 0)) (d (n "protobuf-build") (r "^0.12") (f (quote ("grpcio-prost-codec"))) (k 1)))) (h "1lc7rjqi240hlk037agdmb7yrxqb9kk496378znxxsqpf3x7rs9i")))
+
+(define-public crate-surrealdb-tikv-client-proto-0.1.0-surreal.2 (c (n "surrealdb-tikv-client-proto") (v "0.1.0-surreal.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "grpcio") (r "^0.10") (f (quote ("boringssl" "prost-codec"))) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-derive") (r "^0.9") (d #t) (k 0)) (d (n "protobuf") (r "^2.8") (d #t) (k 0)) (d (n "protobuf-build") (r "^0.14") (f (quote ("grpcio-prost-codec"))) (k 1)))) (h "1dfsa9mzyjlq2kjg5l7n90ymrm81n6vknabnfa3a5v1iq2j3wl96")))
+
+(define-public crate-surrealdb-tikv-client-proto-0.1.1 (c (n "surrealdb-tikv-client-proto") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "grpcio") (r "^0.10") (f (quote ("boringssl" "prost-codec"))) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-derive") (r "^0.9") (d #t) (k 0)) (d (n "protobuf") (r "^2.8") (d #t) (k 0)) (d (n "protobuf-build") (r "^0.14") (f (quote ("grpcio-prost-codec"))) (k 1)))) (h "0139zsnv581gzsjlv858a14mh17cir1c1jspxvxcf66h4nfn4gg2")))
+

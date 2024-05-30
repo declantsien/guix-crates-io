@@ -1,0 +1,10 @@
+(define-module (crates-io su nd sundial) #:use-module (crates-io))
+
+(define-public crate-sundial-0.0.1 (c (n "sundial") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "pest") (r "^2.1.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1lrvcpx2ca4k6gk4gibgdhla2n4h7lzn5i6dn1cri22jrii7dyxp")))
+
+(define-public crate-sundial-0.0.2 (c (n "sundial") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "human-panic") (r "^1.0.1") (d #t) (k 0)) (d (n "pest") (r "^2.1.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "17dz1169kspxikn1dnarmplz8i3a1j4myzhx62g4qmj7snpzsj5r")))
+
+(define-public crate-sundial-0.0.3 (c (n "sundial") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "human-panic") (r "^1.0.1") (d #t) (k 0)) (d (n "pest") (r "^2.1.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0n7337rwnmcigql0wrggz192q4w79aqk4axnasfib7ywik8sdwvc")))
+
+(define-public crate-sundial-0.0.4 (c (n "sundial") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "human-panic") (r "^1.0.1") (d #t) (k 0)) (d (n "pest") (r "^2.1.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0m3c9iawjq4lpm30csv027nc80hns1sfpi8a97lnaiiqr1r2d29p")))
+

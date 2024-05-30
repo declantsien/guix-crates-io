@@ -1,0 +1,6 @@
+(define-module (crates-io yt ma ytmapi-rs) #:use-module (crates-io))
+
+(define-public crate-ytmapi-rs-0.0.1 (c (n "ytmapi-rs") (v "0.0.1") (d (list (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "const_format") (r "^0.2.31") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (d #t) (k 0)))) (h "0djxfkayn77rjzxfhm6lz9bbpx641d5w16g719mxgp0zh991a4i0")))
+
+(define-public crate-ytmapi-rs-0.0.2 (c (n "ytmapi-rs") (v "0.0.2") (d (list (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "const_format") (r "^0.2.31") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (d #t) (k 0)))) (h "1srpprkrlss0k00950y72rvrfyisznwky8451jvfczy0xxw8n8nb")))
+

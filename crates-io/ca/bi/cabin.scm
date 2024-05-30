@@ -1,0 +1,8 @@
+(define-module (crates-io ca bi cabin) #:use-module (crates-io))
+
+(define-public crate-cabin-0.1.0 (c (n "cabin") (v "0.1.0") (h "1g9b7wf9rx0prbv168kc1zl11msb9yic268ind2ln1a6gp3z8sz3")))
+
+(define-public crate-cabin-0.0.0 (c (n "cabin") (v "0.0.0") (h "03wnz2pxp38z13qssyg5wzxvlxhdqpms1ihlzypljfpcd2xvl479")))
+
+(define-public crate-cabin-0.2.0 (c (n "cabin") (v "0.2.0") (d (list (d (n "axum") (r "^0.6") (d #t) (k 2)) (d (n "bytes") (r "^1.2") (d #t) (k 0)) (d (n "cabin-macros") (r "^0.2") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-body") (r "^0.4") (d #t) (k 0)) (d (n "http-error") (r "^0.1") (d #t) (k 0)) (d (n "linkme") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "multer") (r "^2.1.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "num_cpus") (r "^1.15") (d #t) (k 0)) (d (n "once_cell") (r "^1.15") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7") (f (quote ("rt"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("std" "fmt" "ansi"))) (k 2)) (d (n "twox-hash") (r "^1.6") (d #t) (k 0)))) (h "17xpzb422ais2khm5vj19abg340q8v0q8mrrb3jfk0v8lhb284zn") (f (quote (("livereload") ("default" "livereload"))))))
+

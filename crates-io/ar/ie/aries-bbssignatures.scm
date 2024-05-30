@@ -1,0 +1,4 @@
+(define-module (crates-io ar ie aries-bbssignatures) #:use-module (crates-io))
+
+(define-public crate-aries-bbssignatures-0.1.0 (c (n "aries-bbssignatures") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "blake2") (r "^0.8") (d #t) (k 0)) (d (n "ff-zeroize") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hkdf") (r "^0.8") (d #t) (k 0)) (d (n "pairing-plus") (r "=0.19") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "subtle") (r "^2.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "zeroize") (r "^1.1") (d #t) (k 0)))) (h "006gqg8s4cqd7z24h52k01xfhj5lcl986pznkfamf8dd5yz5q3qv") (f (quote (("wasm" "serde-wasm-bindgen" "wasm-bindgen") ("default" "rayon"))))))
+

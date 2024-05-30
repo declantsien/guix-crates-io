@@ -1,0 +1,10 @@
+(define-module (crates-io ra ws raws-sso) #:use-module (crates-io))
+
+(define-public crate-raws-sso-0.0.0 (c (n "raws-sso") (v "0.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-sdk-sso") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.0") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.0") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.0") (d #t) (k 0) (p "raws-show")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "12kjqmsmjdr3nvv95s5747bz30k4snnhqw1nj9ipk9jdbh2sd9a4")))
+
+(define-public crate-raws-sso-0.0.1 (c (n "raws-sso") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-sdk-sso") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.1") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.1") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.1") (d #t) (k 0) (p "raws-show")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1m747highps62gzdqs19bbz9g2kc7zd7554dblh8r2yd4q2bfkrp")))
+
+(define-public crate-raws-sso-0.0.2 (c (n "raws-sso") (v "0.0.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-sdk-sso") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.2") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.2") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.2") (d #t) (k 0) (p "raws-show")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1rqf60n4vv13f18ad5i7vhg9afccz4bdw876p5qbw75rzi07gyc4")))
+
+(define-public crate-raws-sso-0.0.3 (c (n "raws-sso") (v "0.0.3") (d (list (d (n "aws-sdk-sso") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.3") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.3") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.3") (d #t) (k 0) (p "raws-show")))) (h "03zizzpgmjld5jn4addl9azywr1z8xhjfq5ma2vhj8jgmi72sjr9")))
+

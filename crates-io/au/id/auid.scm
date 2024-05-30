@@ -1,0 +1,14 @@
+(define-module (crates-io au id auid) #:use-module (crates-io))
+
+(define-public crate-auid-1.0.0 (c (n "auid") (v "1.0.0") (d (list (d (n "bs58") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simd-adler32") (r "^0.3.7") (d #t) (k 0)))) (h "05hi90amzrq0n8xzn4g8zp7d230rai9s9w8yyq2v645dcmar528i")))
+
+(define-public crate-auid-2.0.0 (c (n "auid") (v "2.0.0") (d (list (d (n "bs58") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "136m7k3pbc4s5aqmxwfdar0jphr6xf9awbbgy2n067c200hkhpj5")))
+
+(define-public crate-auid-2.0.1 (c (n "auid") (v "2.0.1") (d (list (d (n "bs58") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "029l8iyg3nxzzz0xskd6v6gxnik0gagpd8dlncx5fzg1qfyg8930")))
+
+(define-public crate-auid-2.1.0 (c (n "auid") (v "2.1.0") (d (list (d (n "bs58") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "15jzpvm2745jaadj8hwr2q6pnqwashayvssnaqid0d0hbzx8scbs") (f (quote (("default" "bs58" "serde"))))))
+
+(define-public crate-auid-3.0.0 (c (n "auid") (v "3.0.0") (d (list (d (n "_bs58") (r "^0.5") (o #t) (d #t) (k 0) (p "bs58")) (d (n "_data-encoding") (r "^2.4") (o #t) (d #t) (k 0) (p "data-encoding")) (d (n "_faster-hex") (r "^0.8") (f (quote ("alloc" "std"))) (o #t) (k 0) (p "faster-hex")) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "181rg4pc1yip22jc1pvc02v1dmxh8251aigb1f4yncysa5ckjq38") (f (quote (("hex" "base16") ("default" "serde" "base16" "base32" "base58" "base64") ("base64" "_data-encoding") ("base58" "_bs58") ("base32" "_data-encoding") ("base16" "_faster-hex"))))))
+
+(define-public crate-auid-3.0.1 (c (n "auid") (v "3.0.1") (d (list (d (n "_bs58") (r "^0.5") (o #t) (d #t) (k 0) (p "bs58")) (d (n "_data-encoding") (r "^2.4") (o #t) (d #t) (k 0) (p "data-encoding")) (d (n "_faster-hex") (r "^0.8") (f (quote ("alloc" "std"))) (o #t) (k 0) (p "faster-hex")) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1da367w17r992sc4p0n95gdkfzwyps6b1yn6zhi6wyc33s95vf1s") (f (quote (("hex" "base16") ("default" "serde" "base16" "base32" "base58" "base64") ("base64" "_data-encoding") ("base58" "_bs58") ("base32" "_data-encoding") ("base16" "_faster-hex"))))))
+

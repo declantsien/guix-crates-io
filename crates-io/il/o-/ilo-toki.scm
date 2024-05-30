@@ -1,0 +1,8 @@
+(define-module (crates-io il o- ilo-toki) #:use-module (crates-io))
+
+(define-public crate-ilo-toki-0.1.0 (c (n "ilo-toki") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "crossterm") (r "^0.20") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "harmony_rust_sdk") (r "^0.7.0") (f (quote ("client_native"))) (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.16") (f (quote ("crossterm"))) (k 0)) (d (n "ueberzug") (r "^0.1.0") (d #t) (k 0)))) (h "0zv3m71va50py0p8p3qcdq8iqyvbxznc1gnldxdkidj5c7x2wwcj") (y #t)))
+
+(define-public crate-ilo-toki-0.2.0 (c (n "ilo-toki") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "crossterm") (r "^0.20") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "harmony_rust_sdk") (r "^0.7.0") (f (quote ("client_native"))) (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.16") (f (quote ("crossterm"))) (k 0)) (d (n "ueberzug") (r "^0.1.0") (d #t) (k 0)))) (h "1r9kzcdgkwjj5g674p9lb94v71yrl5i0dyzl38c80m7hw89bvg4z") (y #t)))
+
+(define-public crate-ilo-toki-0.3.0 (c (n "ilo-toki") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "crossterm") (r "^0.20") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "harmony_rust_sdk") (r "^0.7.0") (f (quote ("client_native"))) (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.16") (f (quote ("crossterm"))) (k 0)) (d (n "ueberzug") (r "^0.1.0") (d #t) (k 0)))) (h "0ffwz451yvbxprvxmxmdx4ni7z6991d81fl8w0jmy03d8z48lqcw") (y #t)))
+

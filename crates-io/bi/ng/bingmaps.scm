@@ -1,0 +1,6 @@
+(define-module (crates-io bi ng bingmaps) #:use-module (crates-io))
+
+(define-public crate-bingmaps-0.0.2 (c (n "bingmaps") (v "0.0.2") (d (list (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "serde_qs") (r "^0.0.2") (d #t) (k 0)))) (h "05w9pqljag3yidln3jc0bag193gijpgq8n6zpnxadgls47f4zdwb") (f (quote (("with-openssl" "hyper-openssl") ("with-native-tls" "hyper-native-tls") ("default" "with-native-tls"))))))
+
+(define-public crate-bingmaps-0.0.3 (c (n "bingmaps") (v "0.0.3") (d (list (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "serde_qs") (r "^0.0.2") (d #t) (k 0)))) (h "121a0aiz2ryc65438l236b85jp81za1i2sgcahyd369imbf62l5j") (f (quote (("with-openssl" "hyper-openssl") ("with-native-tls" "hyper-native-tls") ("default" "with-native-tls"))))))
+

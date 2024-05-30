@@ -1,0 +1,6 @@
+(define-module (crates-io ph oe phoenix-onchain-mm) #:use-module (crates-io))
+
+(define-public crate-phoenix-onchain-mm-0.1.0 (c (n "phoenix-onchain-mm") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.26.0") (d #t) (k 0)) (d (n "phoenix-v1") (r "^0.2.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "proc-macro-crate") (r "=1.3.0") (d #t) (k 0)) (d (n "pyth-sdk") (r "^0.7.0") (d #t) (k 0)) (d (n "pyth-sdk-solana") (r "^0.7.0") (d #t) (k 0)) (d (n "toml_edit") (r "=0.18.1") (d #t) (k 0)))) (h "0s9rm413h4a0wdkcdqz9ax54hqsy95q39yhk9q45sixk43rqc9is") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-phoenix-onchain-mm-0.1.1 (c (n "phoenix-onchain-mm") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.26.0") (d #t) (k 0)) (d (n "phoenix-v1") (r "^0.2.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "proc-macro-crate") (r "=1.3.0") (d #t) (k 0)) (d (n "pyth-sdk") (r "^0.7.0") (d #t) (k 0)) (d (n "pyth-sdk-solana") (r "^0.7.0") (d #t) (k 0)) (d (n "toml_edit") (r "=0.18.1") (d #t) (k 0)))) (h "0y6fk2bmkd6jccarsnf59030cz935sz1yjlbg7s0l98w9wf4xdsm") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

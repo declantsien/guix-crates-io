@@ -1,0 +1,8 @@
+(define-module (crates-io ic ge icgeek_ic_call_client) #:use-module (crates-io))
+
+(define-public crate-icgeek_ic_call_client-0.1.0 (c (n "icgeek_ic_call_client") (v "0.1.0") (d (list (d (n "garcon") (r "^0.2.3") (d #t) (k 0)) (d (n "ic-agent") (r "^0.22.0") (d #t) (k 0)) (d (n "icgeek_ic_call_api") (r "^0.1.0") (d #t) (k 0)) (d (n "leb128") (r "^0.2.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.7") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)))) (h "0xrhlcnw4lsjc44w79rk0lr63qzjiqikip2gq6qmr7j92ymv4n2r")))
+
+(define-public crate-icgeek_ic_call_client-0.1.1 (c (n "icgeek_ic_call_client") (v "0.1.1") (d (list (d (n "backoff") (r "^0.4.0") (d #t) (k 0)) (d (n "ic-agent") (r "^0.24.1") (d #t) (k 0)) (d (n "icgeek_ic_call_api") (r "^0.1.0") (d #t) (k 0)) (d (n "leb128") (r "^0.2.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.7") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 0)))) (h "0g4hdn272xvcknr3bjzngxdq94qjbgc55v5lg9np0kp6d6fz6ac4")))
+
+(define-public crate-icgeek_ic_call_client-0.2.0 (c (n "icgeek_ic_call_client") (v "0.2.0") (d (list (d (n "backoff") (r "^0.4.0") (d #t) (k 0)) (d (n "ic-agent") (r "^0.25.0") (d #t) (k 0)) (d (n "icgeek_ic_call_api") (r "^0.2.0") (d #t) (k 0)) (d (n "leb128") (r "^0.2.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.7") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 0)))) (h "1v2xk46m9ydykfcr7ymssqkpspwdw5f93vfxcljg189msfrc25n1")))
+

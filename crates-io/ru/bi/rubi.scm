@@ -1,0 +1,6 @@
+(define-module (crates-io ru bi rubi) #:use-module (crates-io))
+
+(define-public crate-rubi-1.3.0 (c (n "rubi") (v "1.3.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (f (quote ("abigen"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "numeraire") (r "^1.3.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.26.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.86") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1vxxbx3kjjs68lz2kvvghnc9dml06y0y12kp1fhbyfk4ql7rzdwp") (f (quote (("ierc20") ("full" "ierc20") ("default") ("aid"))))))
+
+(define-public crate-rubi-1.3.1 (c (n "rubi") (v "1.3.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "ethers") (r "^0.17.0") (f (quote ("abigen"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "numeraire") (r "^1.3.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.26.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.86") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1nsg5znkawc5gssyfxgdbzjnv5jpfmywkzrhqr4cflf0bjmkhblr") (f (quote (("ierc20") ("full" "ierc20") ("default") ("aid"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io fi re fire-postgres-types) #:use-module (crates-io))
+
+(define-public crate-fire-postgres-types-0.1.0-alpha.1 (c (n "fire-postgres-types") (v "0.1.0-alpha.1") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.30") (d #t) (k 0)) (d (n "fire-protobuf") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "juniper") (r "^0.16") (o #t) (k 0)) (d (n "postgres-protocol") (r "^0.6.6") (d #t) (k 0)) (d (n "postgres-types") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0czz257caxcfgcg09yzgz7mf0bgmqqgc1b7clhlkqykkz3a9cyqz") (s 2) (e (quote (("serde" "dep:serde") ("protobuf" "dep:fire-protobuf") ("postgres" "dep:postgres-types") ("juniper" "dep:juniper") ("json" "dep:postgres-types" "postgres-types?/with-serde_json-1")))) (r "1.67")))
+

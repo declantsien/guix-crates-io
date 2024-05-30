@@ -1,0 +1,10 @@
+(define-module (crates-io ho li holium-backend) #:use-module (crates-io))
+
+(define-public crate-holium-backend-1.0.0-alpha (c (n "holium-backend") (v "1.0.0-alpha") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0np76zxf3ankwhyjgz8gvg9y8k3mnip6qm4qc8i43h1h9w9az409") (f (quote (("spans") ("extra-traits" "syn/extra-traits"))))))
+
+(define-public crate-holium-backend-1.0.0-alpha.1 (c (n "holium-backend") (v "1.0.0-alpha.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dgsjpvbxmix0gff606k9g6r1bz1czlilic8a5r3rqkharjcf6ls") (f (quote (("spans") ("extra-traits" "syn/extra-traits"))))))
+
+(define-public crate-holium-backend-1.0.0-alpha.3 (c (n "holium-backend") (v "1.0.0-alpha.3") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0s1fl48v1x3s7b5f12fd94qcnbw1qb9bhls8scn1dxlk4p9lykbp") (f (quote (("spans") ("extra-traits" "syn/extra-traits"))))))
+
+(define-public crate-holium-backend-1.0.0 (c (n "holium-backend") (v "1.0.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "198h7k4g3m47il7xxkbas80km0dpqlqslymi50960wmrqb440wll") (f (quote (("spans") ("extra-traits" "syn/extra-traits"))))))
+

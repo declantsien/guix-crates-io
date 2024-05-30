@@ -1,0 +1,4 @@
+(define-module (crates-io cp cl cpclib-wasm) #:use-module (crates-io))
+
+(define-public crate-cpclib-wasm-0.2.0 (c (n "cpclib-wasm") (v "0.2.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "cpclib-asm") (r "^0.6.0") (d #t) (k 0)) (d (n "cpclib-basic") (r "^0.6.0") (d #t) (k 0)) (d (n "cpclib-sna") (r "^0.6.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.30") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.57") (f (quote ("console" "Blob" "BlobPropertyBag" "Window" "Document" "HtmlAnchorElement" "Url"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "0bxy3h1dcc57l4vwcqm3ydx9r6d7cpqy4ki6s9gchsn7ff47r09r") (f (quote (("default" "console_error_panic_hook"))))))
+

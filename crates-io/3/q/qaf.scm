@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# q qaf) #:use-module (crates-io))
+
+(define-public crate-qaf-0.2.4 (c (n "qaf") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.1.12") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (d #t) (k 0)) (d (n "os_pipe") (r "^1.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1k5lmafjkkld7ykrgxwr9f3z037cj9y2479mg3bcsnsqd339lra8")))
+
+(define-public crate-qaf-0.2.5 (c (n "qaf") (v "0.2.5") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.1.12") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (d #t) (k 0)) (d (n "os_pipe") (r "^1.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1b0gvv5j27hab9x3wrmgp53zfnxzmb5qi05mls5p8mvka5jpff8f")))
+

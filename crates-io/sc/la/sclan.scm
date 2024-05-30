@@ -1,0 +1,6 @@
+(define-module (crates-io sc la sclan) #:use-module (crates-io))
+
+(define-public crate-sclan-0.2.0 (c (n "sclan") (v "0.2.0") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22") (d #t) (k 0)) (d (n "gethostname") (r "^0.2.2") (d #t) (k 0)) (d (n "qp2p") (r "^0.28.5") (k 0)) (d (n "textwrap") (r "^0.15") (f (quote ("unicode-width"))) (k 0)) (d (n "time") (r "^0.3.7") (f (quote ("formatting" "macros" "local-offset"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "time" "net" "macros"))) (d #t) (k 0)) (d (n "tui") (r "^0.17") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "03fa2npvsfqiq38fhzvpf6nfz4wixgzcldwincpd7kcb8p44kq90")))
+
+(define-public crate-sclan-0.3.0 (c (n "sclan") (v "0.3.0") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22") (d #t) (k 0)) (d (n "gethostname") (r "^0.2.2") (d #t) (k 0)) (d (n "qp2p") (r "^0.28.5") (k 0)) (d (n "textwrap") (r "^0.15") (f (quote ("unicode-width"))) (k 0)) (d (n "time") (r "^0.3.7") (f (quote ("formatting" "macros" "local-offset"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "time" "net" "macros" "fs" "io-util"))) (d #t) (k 0)) (d (n "tui") (r "^0.17") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "0ln8pzp6man63m880l825jrpjs7jagib7x0rgqnkbshzgcb0m80b")))
+

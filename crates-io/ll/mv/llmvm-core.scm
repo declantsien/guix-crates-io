@@ -1,0 +1,6 @@
+(define-module (crates-io ll mv llmvm-core) #:use-module (crates-io))
+
+(define-public crate-llmvm-core-1.0.0 (c (n "llmvm-core") (v "1.0.0") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "llmvm-core-lib") (r "^1.0") (d #t) (k 0)) (d (n "llmvm-protocol") (r "^1.0") (f (quote ("http-server" "stdio-server"))) (d #t) (k 0)) (d (n "llmvm-util") (r "^0.1") (f (quote ("config" "logging"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0pacayifr6f9qa3q5plkz1ix7mwa77k07yah9nvz6ffdyq44d4yg")))
+
+(define-public crate-llmvm-core-1.0.1 (c (n "llmvm-core") (v "1.0.1") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "llmvm-core-lib") (r "^1.0") (d #t) (k 0)) (d (n "llmvm-protocol") (r "^2.0") (f (quote ("http-server" "stdio-server"))) (d #t) (k 0)) (d (n "llmvm-util") (r "^0.1") (f (quote ("config" "logging"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "11hhqvn4jiagaawzk2kkvr8ccwappmcf2v667vmmgmqi37hdb6id")))
+

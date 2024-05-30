@@ -1,0 +1,20 @@
+(define-module (crates-io re vo revolt-presence) #:use-module (crates-io))
+
+(define-public crate-revolt-presence-0.0.2 (c (n "revolt-presence") (v "0.0.2") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "07qdkx25lb821w7af8b25m2xshn7gmwkl05im3x6zr9d785lr8c0") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.6.0-rc.1 (c (n "revolt-presence") (v "0.6.0-rc.1") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "0irvwls7idl0vr3wf0d42lbn4x8628rp7isnndc0yfq2qq5pmrn9") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.6.0-rc.2 (c (n "revolt-presence") (v "0.6.0-rc.2") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "1b9r45f15nqqzd5akwpzr76pbn57872wz9cga5xc24mgylfc175z") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.6.8 (c (n "revolt-presence") (v "0.6.8") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "1gzqh14h0d14ac15f4y8y9r02ss8x81maiasw1v4h6gcz3jrpx7i") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.6.9 (c (n "revolt-presence") (v "0.6.9") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "032fccjny8rj1bbjkzy5fs5xd5w20hzk9qs89dvx3qkz54y8p2h1") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.6.12 (c (n "revolt-presence") (v "0.6.12") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "0zyhac1hjzcdbf85i24xs5k45c3pv0hc07h23fc95h76h7cdawlj") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.6.13 (c (n "revolt-presence") (v "0.6.13") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "1g1sii0mzplnnrzllxrj057nxxqlzdniw05q8bhsfsrfpd1rd8is") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.7.0 (c (n "revolt-presence") (v "0.7.0") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "01f8avkylaw5fq5zqfaddiyfcwcazk8l6yqjk3r70la1l67y5vkz") (f (quote (("redis-is-patched"))))))
+
+(define-public crate-revolt-presence-0.7.1 (c (n "revolt-presence") (v "0.7.1") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "redis-kiss") (r "^0.1.4") (d #t) (k 0)))) (h "16i1g1v67zj0cygn7j30j9glqv4d0lddy0rd543mkwap1679sff3") (f (quote (("redis-is-patched"))))))
+

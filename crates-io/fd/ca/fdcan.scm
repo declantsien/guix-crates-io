@@ -1,0 +1,10 @@
+(define-module (crates-io fd ca fdcan) #:use-module (crates-io))
+
+(define-public crate-fdcan-0.1.0 (c (n "fdcan") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "embedded-can-03") (r "^0.3") (o #t) (d #t) (k 0) (p "embedded-can")) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "0gwz6aqld6djw5py8acd6najay7fizq5sx46bxikjr4w5ydi0qnm") (f (quote (("fdcan_h7") ("fdcan_g0_g4_l5"))))))
+
+(define-public crate-fdcan-0.1.1 (c (n "fdcan") (v "0.1.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "embedded-can-03") (r "^0.3") (o #t) (d #t) (k 0) (p "embedded-can")) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "1fq5xv9hi8y9hs9i3rz010krqz11cxir4cgcsjmssjzn44zc0d7d") (f (quote (("fdcan_h7") ("fdcan_g0_g4_l5"))))))
+
+(define-public crate-fdcan-0.1.2 (c (n "fdcan") (v "0.1.2") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "embedded-can-03") (r "^0.3") (o #t) (d #t) (k 0) (p "embedded-can")) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "0rf435c8kyn5nd5gvqg0igki87sspf84h2w5bd23abgvwhkw7h75") (f (quote (("fdcan_h7") ("fdcan_g0_g4_l5"))))))
+
+(define-public crate-fdcan-0.2.0 (c (n "fdcan") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "embedded-can-03") (r "^0.3") (o #t) (d #t) (k 0) (p "embedded-can")) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)) (d (n "volatile-register") (r "^0.2.1") (d #t) (k 0)))) (h "0jz359xs4sb634axqp6jsgj14p5rxr6jhgra0gnk794c191bhgsm") (f (quote (("fdcan_h7") ("fdcan_g0_g4_l5"))))))
+

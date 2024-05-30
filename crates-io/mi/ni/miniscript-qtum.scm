@@ -1,0 +1,4 @@
+(define-module (crates-io mi ni miniscript-qtum) #:use-module (crates-io))
+
+(define-public crate-miniscript-qtum-10.0.0-qtum (c (n "miniscript-qtum") (v "10.0.0-qtum") (d (list (d (n "actual-base64") (r "^0.13.0") (d #t) (k 2) (p "base64")) (d (n "actual-serde") (r "^1.0.103") (o #t) (d #t) (k 0) (p "serde")) (d (n "hashbrown") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "internals") (r "^0.1.0-qtum") (k 0) (p "qtum-private")) (d (n "qtum") (r "^0.30.0-qtum") (k 0)) (d (n "qtum") (r "^0.30.0-qtum") (f (quote ("base64"))) (d #t) (k 2)) (d (n "secp256k1") (r "^0.27.0") (f (quote ("rand-std"))) (d #t) (k 2)) (d (n "serde_test") (r "^1.0.147") (d #t) (k 2)))) (h "0k102izzqz73ibb8kb0anhapdd7yfmchsw05zaa43chr2hl7h6f5") (f (quote (("unstable") ("trace") ("std" "qtum/std" "qtum/secp-recovery") ("serde" "actual-serde" "qtum/serde") ("rand" "qtum/rand") ("no-std" "hashbrown" "qtum/no-std") ("default" "std") ("compiler") ("base64" "qtum/base64"))))))
+

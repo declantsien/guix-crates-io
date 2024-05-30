@@ -1,0 +1,22 @@
+(define-module (crates-io pr ec precis-core) #:use-module (crates-io))
+
+(define-public crate-precis-core-0.1.0 (c (n "precis-core") (v "0.1.0") (d (list (d (n "phf") (r "^0.9") (f (quote ("macros"))) (d #t) (k 0)) (d (n "precis-tools") (r "^0.1.0") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0qi1rmfa664s4rn9dq82xiab7s61im0ayzy4j0blhskhbj1rpind")))
+
+(define-public crate-precis-core-0.1.1 (c (n "precis-core") (v "0.1.1") (d (list (d (n "phf") (r "^0.9") (f (quote ("macros"))) (d #t) (k 0)) (d (n "precis-tools") (r "^0.1.0") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "1p5xz24sx4d80lijmza3g31yn2myxa966nhz19gqbj773kiipfn8") (f (quote (("download_ucd"))))))
+
+(define-public crate-precis-core-0.1.2 (c (n "precis-core") (v "0.1.2") (d (list (d (n "precis-tools") (r "^0.1.2") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.2") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0y4dxgs1vlqghhxj0888667g92f48snzds1rs7r9alwni4qw0qsx") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.3 (c (n "precis-core") (v "0.1.3") (d (list (d (n "precis-tools") (r "^0.1.3") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.3") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "1dy19198mmmxns6a3a8p6sgpbv5akp1jlnh5byrn0krf1jlcj5qm") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.4 (c (n "precis-core") (v "0.1.4") (d (list (d (n "precis-tools") (r "^0.1.4") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.4") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "1s0mk131p5nsphy9ggwgf37fmf7wv14qbylk9q5ksvlkgq5m78k7") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.5 (c (n "precis-core") (v "0.1.5") (d (list (d (n "precis-tools") (r "^0.1.4") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.4") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0jcbymjnaps3l6hnw39qbi12x019wsha33156096zjvg2jdnx9n0") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.6 (c (n "precis-core") (v "0.1.6") (d (list (d (n "precis-tools") (r "^0.1.4") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.4") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "031hp3nnkp6wbssmpjrjv9gwdibj25c25827d13az0m12kjzc6ki") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.7 (c (n "precis-core") (v "0.1.7") (d (list (d (n "precis-tools") (r "^0.1.5") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.5") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0dsdh0b3gfajxmk0yy5cj3bi4klxg5rb4lcag7idjvpznvsw4239") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.8 (c (n "precis-core") (v "0.1.8") (d (list (d (n "precis-tools") (r "^0.1.6") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.6") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0b0p5q5rvmdcg5493l2xl7vpmyp03fkkihww5ak7gmlhgyj1vv35") (f (quote (("networking" "precis-tools/networking"))))))
+
+(define-public crate-precis-core-0.1.9 (c (n "precis-core") (v "0.1.9") (d (list (d (n "precis-tools") (r "^0.1.7") (d #t) (k 1)) (d (n "precis-tools") (r "^0.1.7") (d #t) (k 2)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 1)) (d (n "ucd-parse") (r "^0.1.8") (d #t) (k 2)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0yzpkwncya7jwajfhx3j50inmqn406xk441xs5y2xhv1cg99sgnp") (f (quote (("networking" "precis-tools/networking"))))))
+

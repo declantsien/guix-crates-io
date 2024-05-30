@@ -1,0 +1,10 @@
+(define-module (crates-io r2 d2 r2d2-lapin) #:use-module (crates-io))
+
+(define-public crate-r2d2-lapin-0.1.0 (c (n "r2d2-lapin") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures-executor") (r "^0.3.5") (d #t) (k 0)) (d (n "lapin") (r "^1.2.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "r2d2") (r "^0.8.9") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("rt-threaded" "macros" "time"))) (d #t) (k 2)) (d (n "tokio-amqp") (r "^0.1.3") (d #t) (k 2)))) (h "015g95yhhphkdg95bi44mw5wrnfj15ih5szza6bl1apfmr1ngzrn")))
+
+(define-public crate-r2d2-lapin-0.2.0 (c (n "r2d2-lapin") (v "0.2.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures-executor") (r "^0.3.5") (d #t) (k 0)) (d (n "lapin") (r "^1.2.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "r2d2") (r "^0.8.9") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("rt-threaded" "macros" "time"))) (d #t) (k 2)) (d (n "tokio-amqp") (r "^0.1.3") (d #t) (k 2)))) (h "1zir54qv7fhgaxwkd6n71h3j7zbcpx54rxbyr81avvrlnkvxlbgb")))
+
+(define-public crate-r2d2-lapin-0.2.1 (c (n "r2d2-lapin") (v "0.2.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures-executor") (r "^0.3.5") (d #t) (k 0)) (d (n "lapin") (r "^1.2.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "r2d2") (r "^0.8.9") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("rt-threaded" "macros" "time"))) (d #t) (k 2)) (d (n "tokio-amqp") (r "^0.1.3") (d #t) (k 2)))) (h "06ryisk9r6pph54ww6cxay5bp95rkza5al0w2zmdw6zvqfy9899y")))
+
+(define-public crate-r2d2-lapin-0.2.2 (c (n "r2d2-lapin") (v "0.2.2") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures-executor") (r "^0.3.5") (d #t) (k 0)) (d (n "lapin") (r "^1.2.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "r2d2") (r "^0.8.9") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("rt-threaded" "macros" "time"))) (d #t) (k 2)) (d (n "tokio-amqp") (r "^0.1.3") (d #t) (k 2)))) (h "1c6xm3srwlfj038z9nw0mrl772bapp00d1ph3a4bnwc86mgfd3ri")))
+

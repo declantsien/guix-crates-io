@@ -1,0 +1,6 @@
+(define-module (crates-io te ss tesseract-one) #:use-module (crates-io))
+
+(define-public crate-tesseract-one-0.5.5 (c (n "tesseract-one") (v "0.5.5") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "125nn8nzm8q6v96rmxyw3z5rky5y61ax5qkjdr0c2h0c1lwqv2g0") (f (quote (("transports")))) (s 2) (e (quote (("transport-plt" "transports" "client" "service" "dep:async-trait") ("service" "dep:async-trait") ("client" "dep:async-trait"))))))
+
+(define-public crate-tesseract-one-0.5.6 (c (n "tesseract-one") (v "0.5.6") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "194b64fqpsafagzvdci2bxlpr83c00pylg06isr123w4xzzji55i") (f (quote (("transports")))) (s 2) (e (quote (("transport-plt" "transports" "client" "service" "dep:async-trait") ("service" "dep:async-trait") ("client" "dep:async-trait"))))))
+

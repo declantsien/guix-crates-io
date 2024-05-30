@@ -1,0 +1,4 @@
+(define-module (crates-io ro me rome_diagnostics_macros) #:use-module (crates-io))
+
+(define-public crate-rome_diagnostics_macros-0.0.1 (c (n "rome_diagnostics_macros") (v "0.0.1") (d (list (d (n "proc-macro-error") (r "^1.0.4") (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^1.0.85") (d #t) (k 0)))) (h "149syapvw17mv460akmzwmb2hv3gd2v504lgnk63wiais0k4hgnq")))
+

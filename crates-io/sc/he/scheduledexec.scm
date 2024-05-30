@@ -1,0 +1,4 @@
+(define-module (crates-io sc he scheduledexec) #:use-module (crates-io))
+
+(define-public crate-scheduledexec-0.1.0 (c (n "scheduledexec") (v "0.1.0") (d (list (d (n "axum") (r "^0.7.4") (f (quote ("macros"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("help" "derive"))) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros" "sync" "time" "process"))) (d #t) (k 0)) (d (n "tokio-listener") (r "^0.3.0") (f (quote ("axum07" "clap"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (f (quote ("sync"))) (d #t) (k 0)) (d (n "utoipa") (r "^4.2.0") (f (quote ("axum_extras"))) (o #t) (d #t) (k 0)))) (h "18m65ab2879g0zqc91743lgf1n32x0wry9siiv9sm7ap0wsrgfpk")))
+

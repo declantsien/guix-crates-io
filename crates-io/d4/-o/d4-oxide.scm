@@ -1,0 +1,12 @@
+(define-module (crates-io d4 -o d4-oxide) #:use-module (crates-io))
+
+(define-public crate-d4-oxide-0.1.0 (c (n "d4-oxide") (v "0.1.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "cxx") (r "^1.0") (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "gmp-mpfr-sys") (r "^1.6") (k 0)) (d (n "mt-kahypar-sys") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0a535ga5smhcxfvy2gg86zlbdkbr29hq4cncavi29jshadr77cpv")))
+
+(define-public crate-d4-oxide-0.2.0 (c (n "d4-oxide") (v "0.2.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "cxx") (r "^1.0") (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "gmp-mpfr-sys") (r "^1.6") (k 0)) (d (n "mt-kahypar-sys") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0p0dk89shz9pna5q80qln46pyqwmzsnpr98rlga2v7hpyql4l60d")))
+
+(define-public crate-d4-oxide-0.2.1 (c (n "d4-oxide") (v "0.2.1") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "cxx") (r "^1.0") (f (quote ("c++17"))) (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "gmp-mpfr-sys") (r "^1.6") (k 0)) (d (n "mt-kahypar-sys") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0wpvglq03jdlvyihyci4ljz6b361p5mz8vc0288m6xhinkls533d")))
+
+(define-public crate-d4-oxide-0.2.2 (c (n "d4-oxide") (v "0.2.2") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "cxx") (r "^1.0") (f (quote ("c++17"))) (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "gmp-mpfr-sys") (r "^1.6") (k 0)) (d (n "mt-kahypar-sys") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0snz0wjg8ijsscahvsj7inzfvvrlylinp4da2jrwyzpc8gqydcbi")))
+
+(define-public crate-d4-oxide-0.3.0 (c (n "d4-oxide") (v "0.3.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "cxx") (r "^1.0") (f (quote ("c++17"))) (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "gmp-mpfr-sys") (r "^1.6") (k 0)) (d (n "mt-kahypar-sys") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1v8f5ahfyn3vy0jf152pyvr2kxxl2kij9hl45rdyb3qmab13pl7a")))
+

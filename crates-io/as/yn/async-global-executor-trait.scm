@@ -1,0 +1,14 @@
+(define-module (crates-io as yn async-global-executor-trait) #:use-module (crates-io))
+
+(define-public crate-async-global-executor-trait-1.0.0 (c (n "async-global-executor-trait") (v "1.0.0") (d (list (d (n "async-global-executor") (r "^2.0") (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "executor-trait") (r "^1.0") (d #t) (k 0)))) (h "1168z5yvh584l966k1zj7argrzxwkjgyj9r4gq6ffvxzadg5xfs7") (f (quote (("tokio" "async-global-executor/tokio") ("default" "async-global-executor/default") ("async-io" "async-global-executor/async-io")))) (y #t)))
+
+(define-public crate-async-global-executor-trait-1.0.1 (c (n "async-global-executor-trait") (v "1.0.1") (d (list (d (n "async-global-executor") (r "^2.0") (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "executor-trait") (r "^1.0") (d #t) (k 0)))) (h "16ah64wmcy36g5qpdyg6fkx85fdlah77hbj845l5d1rh4zsy0cyw") (f (quote (("tokio" "async-global-executor/tokio") ("default" "async-global-executor/default") ("async-io" "async-global-executor/async-io"))))))
+
+(define-public crate-async-global-executor-trait-2.0.0 (c (n "async-global-executor-trait") (v "2.0.0") (d (list (d (n "async-global-executor") (r "^2.0") (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "executor-trait") (r "^2.0") (d #t) (k 0)))) (h "131njzqb3w4v9j9dcdm1imkq6jwj1ilgyawmprqvb1hirqlszn5y") (f (quote (("tokio" "async-global-executor/tokio") ("default" "async-global-executor/default") ("async-io" "async-global-executor/async-io")))) (y #t)))
+
+(define-public crate-async-global-executor-trait-2.0.1 (c (n "async-global-executor-trait") (v "2.0.1") (d (list (d (n "async-global-executor") (r "^2.0") (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "executor-trait") (r "^2.0") (d #t) (k 0)))) (h "0hwnl6769d6l17r99k0xzgw91mv8blkh2229pa71vkca4y6wcgm6") (f (quote (("tokio" "async-global-executor/tokio") ("default" "async-global-executor/default") ("async-io" "async-global-executor/async-io"))))))
+
+(define-public crate-async-global-executor-trait-2.0.2 (c (n "async-global-executor-trait") (v "2.0.2") (d (list (d (n "async-global-executor") (r "^2.0") (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "executor-trait") (r "^2.0") (d #t) (k 0)))) (h "1dm8869ypwbkk3a86m78bfzx56dsplji4rdg0iky5gq8gj8m588p") (f (quote (("tokio" "async-global-executor/tokio") ("default" "async-global-executor/default") ("async-io" "async-global-executor/async-io"))))))
+
+(define-public crate-async-global-executor-trait-2.1.0 (c (n "async-global-executor-trait") (v "2.1.0") (d (list (d (n "async-global-executor") (r "^2.0") (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "executor-trait") (r "^2.1") (d #t) (k 0)))) (h "0x9z3glg6m6nz4a1rw30m0ldm6h0skpq83gmrymx5zssl72i9p9k") (f (quote (("tokio" "async-global-executor/tokio") ("default" "async-global-executor/default") ("async-io" "async-global-executor/async-io")))) (r "1.56.0")))
+

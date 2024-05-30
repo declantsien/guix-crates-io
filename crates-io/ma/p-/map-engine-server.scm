@@ -1,0 +1,4 @@
+(define-module (crates-io ma p- map-engine-server) #:use-module (crates-io))
+
+(define-public crate-map-engine-server-0.1.0 (c (n "map-engine-server") (v "0.1.0") (d (list (d (n "async-std") (r "^1.6.5") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "map-engine") (r "^0.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "tide") (r "^0.16") (f (quote ("h1-server" "logger"))) (k 0)) (d (n "tide-testing") (r "^0.1") (d #t) (k 2)))) (h "1rf53bzaj03r3mz9gw1f7yivi3s0n6d1gk9bjxdjsslvj2b2chwb")))
+

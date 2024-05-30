@@ -1,0 +1,6 @@
+(define-module (crates-io ri mu rimu-value) #:use-module (crates-io))
+
+(define-public crate-rimu-value-0.1.0 (c (n "rimu-value") (v "0.1.0") (d (list (d (n "indexmap") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "rimu-ast") (r "^0.1.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.31.0") (f (quote ("serde-with-float"))) (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.31.0") (d #t) (k 0)) (d (n "ryu") (r "^1.0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.181") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "0dwmhwvqznj6xhl1xrqppcjwgdishlpkn0497k5b06zamcwyzcs3")))
+
+(define-public crate-rimu-value-0.2.0 (c (n "rimu-value") (v "0.2.0") (d (list (d (n "indexmap") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "rimu-ast") (r "^0.2.0") (d #t) (k 0)) (d (n "rimu-meta") (r "^0.2.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.31.0") (f (quote ("serde-with-float"))) (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.31.0") (d #t) (k 0)) (d (n "ryu") (r "^1.0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.181") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)))) (h "1kclkz3h7f4ip73s85qrf98rbkplm5dzsxr6an1z4sxnnjyg2azy") (r "1.70.0")))
+

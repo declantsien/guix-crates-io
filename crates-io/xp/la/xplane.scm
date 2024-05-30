@@ -1,0 +1,4 @@
+(define-module (crates-io xp la xplane) #:use-module (crates-io))
+
+(define-public crate-xplane-0.1.0-alpha.1 (c (n "xplane") (v "0.1.0-alpha.1") (d (list (d (n "libfmod") (r "~2.206") (o #t) (d #t) (k 0)) (d (n "mockall") (r "~0.12") (d #t) (k 2)) (d (n "num_enum") (r "~0.7") (d #t) (k 0)) (d (n "snafu") (r "~0.7") (d #t) (k 0)) (d (n "tailcall") (r "~0.1") (d #t) (k 0)) (d (n "xplane-sys") (r ">=4.0.109, <4.1.0") (d #t) (k 0)) (d (n "xplane-sys") (r ">=4.0.109, <4.1.0") (f (quote ("mockall"))) (d #t) (k 2)))) (h "0g2y4vjkp4ldyngi28701cc33pgg98pmk0xh1z8802viphak2krx") (f (quote (("stub-linux" "xplane-sys/stub-linux") ("XPLM400" "XPLM303" "xplane-sys/XPLM400") ("XPLM303" "XPLM302" "xplane-sys/XPLM303") ("XPLM302" "XPLM301" "xplane-sys/XPLM301") ("XPLM301" "XPLM300" "xplane-sys/XPLM301") ("XPLM300" "XPLM210" "xplane-sys/XPLM300") ("XPLM210" "xplane-sys/XPLM210")))) (s 2) (e (quote (("fmod" "dep:libfmod" "XPLM400" "xplane-sys/fmod")))) (r "1.76")))
+

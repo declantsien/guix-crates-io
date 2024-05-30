@@ -1,0 +1,6 @@
+(define-module (crates-io ni ft nifti_processing) #:use-module (crates-io))
+
+(define-public crate-nifti_processing-0.1.0 (c (n "nifti_processing") (v "0.1.0") (d (list (d (n "approx") (r "^0.5") (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "kdam") (r "^0.3.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.31") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (d #t) (k 0)) (d (n "nifti") (r "^0.15.0") (f (quote ("nalgebra_affine"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1fanfd44dimiy5yh6laa4y78wsnnclx8wjr8mnfdk5vzls71njay")))
+
+(define-public crate-nifti_processing-0.1.1 (c (n "nifti_processing") (v "0.1.1") (d (list (d (n "approx") (r "^0.5") (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "kdam") (r "^0.3.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.31") (f (quote ("std"))) (k 0)) (d (n "ndarray") (r "^0.15") (k 0)) (d (n "nifti") (r "^0.15.0") (f (quote ("nalgebra_affine"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)))) (h "1nnv9r2q6ha719kgg6z8gj9hw1bnbwblyza4842g7bgacbdpqjjn")))
+

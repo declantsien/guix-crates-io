@@ -1,0 +1,8 @@
+(define-module (crates-io po mo pomoxide) #:use-module (crates-io))
+
+(define-public crate-pomoxide-1.0.0 (c (n "pomoxide") (v "1.0.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "notify-rust") (r "^4") (d #t) (k 0)) (d (n "rodio") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.96") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)) (d (n "tui") (r "^0.10") (d #t) (k 0)))) (h "1nsbj8fwf92x0dva7xh9gwicv1l5vqiibxfsk2hwqjgzl6k7mhf8")))
+
+(define-public crate-pomoxide-1.0.1 (c (n "pomoxide") (v "1.0.1") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "notify-rust") (r "^4") (d #t) (k 0)) (d (n "rodio") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.96") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)) (d (n "tui") (r "^0.10") (d #t) (k 0)))) (h "0y01rm5gxccvlbgbbd0m0dcp3qb6b4xh1q2ifqvr0b0apbnrbszg")))
+
+(define-public crate-pomoxide-1.0.2 (c (n "pomoxide") (v "1.0.2") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "notify-rust") (r "^4") (d #t) (k 0)) (d (n "rodio") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.96") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)) (d (n "tui") (r "^0.10") (d #t) (k 0)))) (h "14r3zgrfldc7j48ngzj1rcw3mixr20rdzwk1gkzv8f4893lw2a3r")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ti ny tinysearch-cuckoofilter) #:use-module (crates-io))
+
+(define-public crate-tinysearch-cuckoofilter-0.4.0 (c (n "tinysearch-cuckoofilter") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clippy") (r "^0.0.77") (o #t) (d #t) (k 0)) (d (n "farmhash") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "fnv") (r "^1.0.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1nyg310wn945q668ap395npdlx8dhks24q2a2j9fnn64rvi2lvpb") (f (quote (("dev" "clippy") ("default"))))))
+
+(define-public crate-tinysearch-cuckoofilter-0.4.1 (c (n "tinysearch-cuckoofilter") (v "0.4.1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "clippy") (r "^0.0.77") (o #t) (d #t) (k 0)) (d (n "farmhash") (r "^1.1.5") (o #t) (d #t) (k 0)) (d (n "fnv") (r "^1.0.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 2)))) (h "04avgmvg17dkp5ys1j421dpvv4idw0cw7pqy8a49k6fsfm7sj2kg") (f (quote (("dev" "clippy") ("default"))))))
+

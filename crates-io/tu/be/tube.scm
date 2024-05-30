@@ -1,0 +1,6 @@
+(define-module (crates-io tu be tube) #:use-module (crates-io))
+
+(define-public crate-tube-0.0.1 (c (n "tube") (v "0.0.1") (d (list (d (n "clap") (r "^3.2.13") (f (quote ("derive"))) (d #t) (k 2)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "hyper") (r "^0.14.18") (f (quote ("http2" "tcp"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "simple_logger") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "06jaynypnq0j1cmjw0ivnrfyhaq1a9gq9lm5cp70xmmxpk7590cv") (f (quote (("server" "hyper/server") ("client" "hyper/client"))))))
+
+(define-public crate-tube-0.0.2 (c (n "tube") (v "0.0.2") (d (list (d (n "clap") (r "^3.2.13") (f (quote ("derive"))) (d #t) (k 2)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "hyper") (r "^0.14.18") (f (quote ("http2" "tcp"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "simple_logger") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0ysfs8ry8f0pv7viapkpjm7drx1md05s4yvnfcrv1z9ymhxvyc7r") (f (quote (("server" "hyper/server") ("client" "hyper/client"))))))
+

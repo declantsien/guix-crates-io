@@ -1,0 +1,6 @@
+(define-module (crates-io th eb theban_db_interface) #:use-module (crates-io))
+
+(define-public crate-theban_db_interface-0.1.0 (c (n "theban_db_interface") (v "0.1.0") (d (list (d (n "memrange") (r "0.1.*") (d #t) (k 0)) (d (n "quick-error") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp") (r "0.7.*") (d #t) (k 0)) (d (n "rmp-serialize") (r "0.7.*") (d #t) (k 0)) (d (n "rustc-serialize") (r "0.3.*") (d #t) (k 0)) (d (n "theban_db") (r "0.5.*") (d #t) (k 0)) (d (n "theban_db_server") (r "0.3.*") (d #t) (k 0)) (d (n "theban_interval_tree") (r "0.6.*") (d #t) (k 0)) (d (n "unix_socket") (r "0.5.*") (d #t) (k 0)))) (h "15dn0z4hy45i7s2slmpb9d45acbz8x4ks1y0d32f8lqm7gl4v7np")))
+
+(define-public crate-theban_db_interface-0.2.0 (c (n "theban_db_interface") (v "0.2.0") (d (list (d (n "memrange") (r "0.1.*") (d #t) (k 0)) (d (n "quick-error") (r "^1.0.0") (d #t) (k 0)) (d (n "rmp") (r "0.7.*") (d #t) (k 0)) (d (n "rmp-serialize") (r "0.7.*") (d #t) (k 0)) (d (n "rustc-serialize") (r "0.3.*") (d #t) (k 0)) (d (n "theban_db") (r "0.5.*") (d #t) (k 0)) (d (n "theban_db_server") (r "0.3.*") (d #t) (k 0)) (d (n "theban_interval_tree") (r "0.6.*") (d #t) (k 0)) (d (n "unix_socket") (r "0.5.*") (d #t) (k 0)))) (h "15jshn9vq2ll3iaqmh04bi7wpnhmqx734haa613s0aa93ywd77kh")))
+

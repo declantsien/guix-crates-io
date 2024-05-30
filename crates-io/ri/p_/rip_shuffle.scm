@@ -1,0 +1,6 @@
+(define-module (crates-io ri p_ rip_shuffle) #:use-module (crates-io))
+
+(define-public crate-rip_shuffle-0.1.0 (c (n "rip_shuffle") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 2)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "statrs") (r "^0.16") (d #t) (k 2)))) (h "1lv99qb1i74gwfq8nnp0qpx3d6wfqpv9zica8kxhcrk1x309byi6") (f (quote (("unsafe_algos") ("seed_with" "rand_pcg") ("prefetch") ("default" "unsafe_algos" "prefetch" "seed_with"))))))
+
+(define-public crate-rip_shuffle-0.2.0 (c (n "rip_shuffle") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 2)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "statrs") (r "^0.16") (d #t) (k 2)))) (h "0isa8g0km7q3hfh6gvfq50f6jgm7p8h5hsh3w0zpf48hc83q275n") (f (quote (("unsafe_algos") ("seed_with" "rand_pcg") ("prefetch") ("nightly_default" "default" "prefetch") ("default" "unsafe_algos" "seed_with"))))))
+

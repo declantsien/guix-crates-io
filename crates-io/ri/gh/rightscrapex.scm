@@ -1,0 +1,12 @@
+(define-module (crates-io ri gh rightscrapex) #:use-module (crates-io))
+
+(define-public crate-rightscrapex-0.1.0 (c (n "rightscrapex") (v "0.1.0") (d (list (d (n "select") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.47") (d #t) (k 0)) (d (n "stdinix") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.9") (d #t) (k 0)) (d (n "ureq") (r "^0.11.3") (d #t) (k 0)))) (h "02shwrw16v0h0y8a00zxgk645r6m80hr18x7sf2cw37v3y99pnf5")))
+
+(define-public crate-rightscrapex-0.2.0 (c (n "rightscrapex") (v "0.2.0") (d (list (d (n "oops") (r "^0.1.0") (d #t) (k 0)) (d (n "select") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.47") (d #t) (k 0)) (d (n "stdinix") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.9") (d #t) (k 0)) (d (n "ureq") (r "^0.11.3") (d #t) (k 0)))) (h "1lzhy0c58sxawvlvbpwlh22ph0x7i8ar1li8c484m4q2zk0vdwka")))
+
+(define-public crate-rightscrapex-0.3.0 (c (n "rightscrapex") (v "0.3.0") (d (list (d (n "oops") (r "^0.1.0") (d #t) (k 0)) (d (n "select") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.47") (d #t) (k 0)) (d (n "stdinix") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.9") (d #t) (k 0)) (d (n "ureq") (r "^0.11.3") (d #t) (k 0)))) (h "0s9kfj6h909ygwcnbq04w61rg7ss7hvnb12ngvxhb1k1rjrg8fz0")))
+
+(define-public crate-rightscrapex-0.4.0 (c (n "rightscrapex") (v "0.4.0") (d (list (d (n "oops") (r "^0.2.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "stdinix") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "ureq") (r "^2.0.0") (d #t) (k 0)))) (h "173az2sapx5wmgjh1im0v7hnglfqq9d7rvfiv317ncgrh4v26vk4")))
+
+(define-public crate-rightscrapex-0.4.1 (c (n "rightscrapex") (v "0.4.1") (d (list (d (n "oops") (r "^0.2.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "stdinix") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "ureq") (r "^2.0.0") (d #t) (k 0)))) (h "0hhg4a6jrbz6v2315vsai4n4kw2g3cckxljh53zrxn1s3k9i5jh7")))
+

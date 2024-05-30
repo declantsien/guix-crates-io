@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-elections) #:use-module (crates-io))
+
+(define-public crate-noble-elections-2.0.1 (c (n "noble-elections") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "hex-literal") (r "^0.3.1") (d #t) (k 2)) (d (n "noble-balances") (r "^2.0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.101") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tet-io") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "0aa0bzh94vssxcgp2fj9j0razgip0ja1h4fi1vj0vxbfi86cfjpp") (f (quote (("std" "codec/std" "tet-core/std" "tetcore-std/std" "serde" "tet-io/std" "fabric-support/std" "tp-runtime/std" "fabric-system/std") ("default" "std"))))))
+

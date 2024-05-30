@@ -1,0 +1,24 @@
+(define-module (crates-io ar ra array_map) #:use-module (crates-io))
+
+(define-public crate-array_map-0.1.0 (c (n "array_map") (v "0.1.0") (d (list (d (n "array_map_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0rkagy4yibgnmyx0q78n78bf04fn1ljavawxwbqcmxrfk48i0sgq") (f (quote (("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.2.0 (c (n "array_map") (v "0.2.0") (d (list (d (n "array_map_derive") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1j5v56pny99n9saaq3b8sk8mkyiwky3428hv1qg6k9c8aiyf45fq") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.2.1 (c (n "array_map") (v "0.2.1") (d (list (d (n "array_map_derive") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0w6mxgzhj3rr04s2n7v9c5sc3r62zcwkl3z9m3vx9cl8f7z6i725") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.2.2 (c (n "array_map") (v "0.2.2") (d (list (d (n "array_map_derive") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "19m7r3mg542vfjc6mr4kwcmdfm3q7nz7dnma1rcsa5sc2xzs0iak") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.2.3 (c (n "array_map") (v "0.2.3") (d (list (d (n "array_map_derive") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0xhwnwnfjka2wrqp1kz7k9vpv8fkbcja6jzgfn3fg71inwgaa25k") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.3.0 (c (n "array_map") (v "0.3.0") (d (list (d (n "array_map_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1g17p2pwa9g0rlnmsap3jf8xc2dbf8wqij04q80kky72v31sc3kg") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.3.1 (c (n "array_map") (v "0.3.1") (d (list (d (n "array_map_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0a1wkr8g1jdca3rldh0y4ghzgplc8pv9xjz0aandj5pr6qjqv8fr") (f (quote (("std") ("derive" "array_map_derive")))) (y #t)))
+
+(define-public crate-array_map-0.3.2 (c (n "array_map") (v "0.3.2") (d (list (d (n "array_map_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "array_map_derive") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0yzxl94j2bgphkvksm9yfyc613sjcqm6907kpva2kz06kjs6g00f") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.3.3 (c (n "array_map") (v "0.3.3") (d (list (d (n "array_map_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "array_map_derive") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "18lzya9apq1amphlhqifdb6qrmscj44b0phrr8wgp7isjb9nhn2q") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.3.4 (c (n "array_map") (v "0.3.4") (d (list (d (n "array_map_derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "array_map_derive") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0yppypvrkzkvfa4xk9pcmxz7h04mj3sl8swx20lwd3kkid6vibq5") (f (quote (("std") ("derive" "array_map_derive"))))))
+
+(define-public crate-array_map-0.4.0 (c (n "array_map") (v "0.4.0") (d (list (d (n "array_map_derive") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "array_map_derive") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0vx7c3paxygd83rncl5rpjpq1zwb1n624c5rvndgkkrfkzv8m4fq") (f (quote (("std") ("derive" "array_map_derive"))))))
+

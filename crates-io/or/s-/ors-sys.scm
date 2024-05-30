@@ -1,0 +1,16 @@
+(define-module (crates-io or s- ors-sys) #:use-module (crates-io))
+
+(define-public crate-ors-sys-0.0.2 (c (n "ors-sys") (v "0.0.2") (d (list (d (n "bindgen") (r "^0.59.1") (d #t) (k 1)))) (h "113zyfk1xgg8rw58dnd5420yi66pdvcv4k6zzdyvzsfbbmfi804r") (l "onnxruntime")))
+
+(define-public crate-ors-sys-0.0.3 (c (n "ors-sys") (v "0.0.3") (d (list (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "libloading") (r "^0.7.2") (o #t) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.1") (d #t) (k 1)) (d (n "zip") (r "^0.5") (d #t) (k 1)))) (h "048zsqh4m5lia7cmi3idr5mhbgls5y8fz8v9naz8n51fs5ljkj4y") (f (quote (("dynamic-loading" "libloading") ("default" "dynamic-loading")))) (l "onnxruntime")))
+
+(define-public crate-ors-sys-0.0.4 (c (n "ors-sys") (v "0.0.4") (d (list (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "libloading") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "1kvymq0ynii2ggnxa0bzkfkshr17210fxq2g44gmmrcxdqg43ps1") (f (quote (("dynamic-loading" "libloading") ("default" "dynamic-loading")))) (l "onnxruntime")))
+
+(define-public crate-ors-sys-0.0.5 (c (n "ors-sys") (v "0.0.5") (d (list (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "libloading") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "0nhssph6g7q6qxfshnsn4avc9b9fzzp3bkq8vmym2dr39pd5m2dp") (f (quote (("dynamic-loading" "libloading") ("default" "dynamic-loading")))) (l "onnxruntime")))
+
+(define-public crate-ors-sys-0.0.6 (c (n "ors-sys") (v "0.0.6") (d (list (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "libloading") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "0swr5npzrwhb82blsw7v1xpv402dn392dkf3zicdv72x9fkvjj0a") (f (quote (("dynamic-loading" "libloading") ("default" "dynamic-loading")))) (l "onnxruntime")))
+
+(define-public crate-ors-sys-0.0.7 (c (n "ors-sys") (v "0.0.7") (d (list (d (n "bindgen") (r "^0.60.1") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "libloading") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "1wj6mlfqmfh2vagwkl72mkx16jwvs9bsq7gz39bkmy4g1ci26ilh") (f (quote (("generate-bindings") ("dynamic-loading" "libloading") ("default" "dynamic-loading")))) (l "onnxruntime")))
+
+(define-public crate-ors-sys-0.0.8 (c (n "ors-sys") (v "0.0.8") (d (list (d (n "bindgen") (r "^0.60.1") (o #t) (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "libloading") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "1clf8y0szyb0ixslijb2xk29ij8b92yswj10rsp6ciwii4621w4x") (f (quote (("generate-bindings" "bindgen") ("dynamic-loading" "libloading") ("default" "dynamic-loading")))) (l "onnxruntime")))
+

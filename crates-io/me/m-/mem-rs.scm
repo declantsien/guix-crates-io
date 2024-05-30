@@ -1,0 +1,18 @@
+(define-module (crates-io me m- mem-rs) #:use-module (crates-io))
+
+(define-public crate-mem-rs-0.1.0 (c (n "mem-rs") (v "0.1.0") (d (list (d (n "windows") (r "^0.38.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "0ps2pp6l1s5yxmz18w9i80zzm5ns4sd7frgwzz5q1w16l9sw9qsq")))
+
+(define-public crate-mem-rs-0.1.1 (c (n "mem-rs") (v "0.1.1") (d (list (d (n "windows") (r "^0.38.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "0mvylcdjrfvh2rv8kjja6h4ywwpfykgqb0b2krj7b0xqf7xwdqkl")))
+
+(define-public crate-mem-rs-0.1.2 (c (n "mem-rs") (v "0.1.2") (d (list (d (n "windows") (r "^0.42.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "1baay446y4r2vhkzh2690jwql637ylrpqigxwpbnnm8zgk9hxaw8")))
+
+(define-public crate-mem-rs-0.1.3 (c (n "mem-rs") (v "0.1.3") (d (list (d (n "windows") (r "^0.42.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "0zl0nqpv5kq3422n8q9a20cxbmzbzzqmv9jh7y6sxz12w18paza7")))
+
+(define-public crate-mem-rs-0.1.4 (c (n "mem-rs") (v "0.1.4") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "11im6vbkcs6xyri4lkd7rccjh0rvrajqbzrlb4bg399773443sc1")))
+
+(define-public crate-mem-rs-0.1.5 (c (n "mem-rs") (v "0.1.5") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "03czaxwcdh2hw7y074wypl5ijs18dlh14jxkx45qih9bpzf4af0b")))
+
+(define-public crate-mem-rs-0.1.6 (c (n "mem-rs") (v "0.1.6") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "015d0a2281xx4f1a62klmyi9p6sa239ikh8b9bylx5kiiaxzgvdn")))
+
+(define-public crate-mem-rs-0.1.7 (c (n "mem-rs") (v "0.1.7") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Foundation" "Win32_System_Memory" "Win32_System_Diagnostics_Debug" "Win32_System_ProcessStatus" "Win32_System_Threading" "Win32_System_Console" "Win32_System_SystemServices" "Win32_System_LibraryLoader" "Win32_Security" "Win32_UI_Input_XboxController"))) (d #t) (k 0)))) (h "0y0g1lczlmx8bpi3jxyl9v991ks7shnians9y81p16ihi1bhnsbx")))
+

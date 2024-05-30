@@ -1,0 +1,8 @@
+(define-module (crates-io st re streamhist) #:use-module (crates-io))
+
+(define-public crate-streamhist-0.0.1-alpha.1 (c (n "streamhist") (v "0.0.1-alpha.1") (d (list (d (n "approx") (r "^0.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.0") (d #t) (k 2)) (d (n "rand_isaac") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.103") (f (quote ("std" "derive"))) (o #t) (k 0) (p "serde")) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "1xnvp63mlr80jvkdygykrnb9jddg1jw1qx4fvhsz8khhw9yjxd3r") (f (quote (("serde_support" "serde"))))))
+
+(define-public crate-streamhist-0.0.1-alpha.2 (c (n "streamhist") (v "0.0.1-alpha.2") (d (list (d (n "approx") (r "^0.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.0") (d #t) (k 2)) (d (n "rand_isaac") (r "^0.3.0") (d #t) (k 2)) (d (n "serde_crate") (r "^1.0.103") (f (quote ("std" "derive"))) (o #t) (k 0) (p "serde")) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "1dwikwxhrwxk1qy3z5qmf8a56invidlqvax7j30lxw0kbkrbl73c") (f (quote (("serde" "serde_crate") ("default"))))))
+
+(define-public crate-streamhist-0.0.1-alpha.3 (c (n "streamhist") (v "0.0.1-alpha.3") (d (list (d (n "approx") (r "^0.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.0") (d #t) (k 2)) (d (n "rand_isaac") (r "^0.3.0") (d #t) (k 2)) (d (n "serde_crate") (r "^1.0.103") (f (quote ("std" "derive"))) (o #t) (k 0) (p "serde")) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "0k2y8fsr2m3kwkc9ncyz3m2icny6vxx1ajyh9qwh99dlcfnz5yh2") (f (quote (("serde" "serde_crate") ("default"))))))
+

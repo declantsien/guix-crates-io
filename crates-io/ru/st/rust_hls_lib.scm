@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rust_hls_lib) #:use-module (crates-io))
+
+(define-public crate-rust_hls_lib-0.1.0 (c (n "rust_hls_lib") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "merkle_hash") (r "^3.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "12jyi4rr239zvk4r8pk392pf609gmfnh4v0fplbpplg2ridlvqz5") (y #t)))
+
+(define-public crate-rust_hls_lib-0.1.1 (c (n "rust_hls_lib") (v "0.1.1") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "merkle_hash") (r "^3.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1b6h5g4w7pgqll4bq84x5jm6w4ybiwr5cxv2r7kd5vx1wi1z03kp") (y #t)))
+

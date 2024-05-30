@@ -1,0 +1,4 @@
+(define-module (crates-io m1 #{0-}# m10-sdk-protos) #:use-module (crates-io))
+
+(define-public crate-m10-sdk-protos-0.4.0 (c (n "m10-sdk-protos") (v "0.4.0") (d (list (d (n "bytes") (r "^1") (f (quote ("serde"))) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "looking-glass") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "looking-glass-derive") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.8") (d #t) (k 0)) (d (n "prost-build") (r "^0.8") (d #t) (k 1)) (d (n "prost-types") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1") (d #t) (k 0)) (d (n "tonic") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "tonic-build") (r "^0.5") (d #t) (k 1)))) (h "1mkgsznrc7ynx2wc0fzdk5jqvkmbig9wq8g1fy7cyisn35mxgjdi") (f (quote (("server" "grpc") ("grpc" "tonic") ("dynamic2" "looking-glass" "looking-glass-derive") ("default") ("client" "grpc"))))))
+

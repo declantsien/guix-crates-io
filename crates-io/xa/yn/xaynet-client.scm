@@ -1,0 +1,4 @@
+(define-module (crates-io xa yn xaynet-client) #:use-module (crates-io))
+
+(define-public crate-xaynet-client-0.1.0 (c (n "xaynet-client") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.40") (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.10") (f (quote ("from"))) (k 0)) (d (n "reqwest") (r "^0.10.8") (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (d #t) (k 0)) (d (n "tokio-test") (r "^0.2.1") (d #t) (k 2)) (d (n "tower-test") (r "^0.3.0") (d #t) (k 2)) (d (n "tracing") (r "^0.1.19") (d #t) (k 0)) (d (n "xaynet-core") (r "^0.1.0") (d #t) (k 0)))) (h "1dvsqjksxrw6z00x2snlrxyp3w05bb5vyqq9k7ld1j0bk84z20gz") (f (quote (("rustls" "reqwest/rustls-tls") ("default" "reqwest/default-tls"))))))
+

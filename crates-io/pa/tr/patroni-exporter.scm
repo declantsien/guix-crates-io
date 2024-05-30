@@ -1,0 +1,4 @@
+(define-module (crates-io pa tr patroni-exporter) #:use-module (crates-io))
+
+(define-public crate-patroni-exporter-0.2.0 (c (n "patroni-exporter") (v "0.2.0") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "prometheus") (r "^0.9") (f (quote ("process"))) (d #t) (k 0)) (d (n "sentry") (r "^0.18") (f (quote ("with_device_info" "with_rust_info" "with_debug_meta"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^0.2.20") (f (quote ("macros" "net" "rt-core" "signal" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde"))) (d #t) (k 0)))) (h "0pakg63hsvlgmd6b1x0cvq32gr17wbg0n5nn1nv4axhz35r25is8")))
+

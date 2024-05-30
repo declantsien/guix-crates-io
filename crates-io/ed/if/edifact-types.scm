@@ -1,0 +1,14 @@
+(define-module (crates-io ed if edifact-types) #:use-module (crates-io))
+
+(define-public crate-edifact-types-0.1.0 (c (n "edifact-types") (v "0.1.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_edifact") (r "^0.1") (d #t) (k 0)))) (h "0vmgzhrl0kkrmdfbgs8lfpml1ynlx44hgh0wzalpmn9pc33pcf06") (f (quote (("default" "d00b") ("d00b"))))))
+
+(define-public crate-edifact-types-0.2.0 (c (n "edifact-types") (v "0.2.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_edifact") (r "^0.2") (d #t) (k 0)))) (h "0gcm2zfyqzqs8bb036a78kr23s72vjwah7y8xhn1xyipgbapl2p2") (f (quote (("default" "d00b" "d95b") ("d95b") ("d00b"))))))
+
+(define-public crate-edifact-types-0.3.0 (c (n "edifact-types") (v "0.3.0") (d (list (d (n "edifact-types-macros") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("parsing" "extra-traits"))) (d #t) (k 0)))) (h "1wqk3lxpprdb556xasb6gpyy5wwql2d8a3bfprv476ndhl8hmq1v") (f (quote (("default" "d00b" "d95b") ("d95b") ("d00b"))))))
+
+(define-public crate-edifact-types-0.3.1 (c (n "edifact-types") (v "0.3.1") (d (list (d (n "edifact-types-macros") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("parsing" "extra-traits"))) (d #t) (k 0)))) (h "1l2ybbjm7v4d784w3gr95kgcx5wy5p0a1rkd5yy103vp1qg09lh5") (f (quote (("default" "d00b" "d95b") ("d95b") ("d00b"))))))
+
+(define-public crate-edifact-types-0.3.2 (c (n "edifact-types") (v "0.3.2") (d (list (d (n "edifact-types-macros") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("parsing" "extra-traits"))) (d #t) (k 0)))) (h "0njh36jrsb7w798i5g2sys80xk4ggigydgk9xiv9wy9g6csxr71z") (f (quote (("default" "d00b" "d95b") ("d95b") ("d00b"))))))
+
+(define-public crate-edifact-types-0.4.0 (c (n "edifact-types") (v "0.4.0") (d (list (d (n "edifact-types-macros") (r "^0.2") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)))) (h "0xfhybzv6ri279sxg6fr2zib1zym3hap51s5isj81bv7rn26qf3y") (f (quote (("default" "d00b" "d95b") ("d95b") ("d00b"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ox id oxidd-cache) #:use-module (crates-io))
+
+(define-public crate-oxidd-cache-0.6.0 (c (n "oxidd-cache") (v "0.6.0") (d (list (d (n "allocator-api2") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "document-features") (r "^0.2") (d #t) (k 0)) (d (n "hugealloc") (r "^0.1") (o #t) (k 0)) (d (n "oxidd-core") (r "^0.6") (k 0)) (d (n "oxidd-derive") (r "^0.6") (k 2)) (d (n "oxidd-test-utils") (r "^0.1") (k 2)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (d #t) (k 2)))) (h "1qcm3bc5rih1qjm8bh89i9fwmjjkbjhfj1c3xrgnz9v9g5w4dp9q") (f (quote (("statistics") ("static_leak_check") ("parking_lot") ("lfu") ("fifo") ("direct") ("default" "direct")))) (s 2) (e (quote (("hugealloc" "dep:hugealloc" "dep:allocator-api2"))))))
+

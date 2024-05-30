@@ -1,0 +1,10 @@
+(define-module (crates-io rs -r rs-ray) #:use-module (crates-io))
+
+(define-public crate-rs-ray-0.0.1 (c (n "rs-ray") (v "0.0.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "0x8xnj05r961pcd78fcsic70alf973abr1nvinikqb4can1lx02s")))
+
+(define-public crate-rs-ray-0.0.2 (c (n "rs-ray") (v "0.0.2") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "0zsj0ympf4n98877l5qsf7fag5nf8fhlvhfhfz8ljqkv7fy10afl") (f (quote (("with_tokio" "reqwest/default-tls" "tokio") ("default"))))))
+
+(define-public crate-rs-ray-0.0.3 (c (n "rs-ray") (v "0.0.3") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "1b7ijlai68vpz7wh8g4k5d1nmbf99srn5wxhpxp9916aysn2bl3v") (f (quote (("with_tokio" "reqwest/default-tls" "tokio") ("default"))))))
+
+(define-public crate-rs-ray-0.0.4 (c (n "rs-ray") (v "0.0.4") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "1idad7cff3az11c67j9glnwr9q7py0aic7bscdnzz1rbsw9kjrn6") (f (quote (("with_tokio" "reqwest/default-tls" "tokio") ("default"))))))
+

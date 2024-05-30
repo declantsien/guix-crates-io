@@ -1,0 +1,6 @@
+(define-module (crates-io pa ra para-graph) #:use-module (crates-io))
+
+(define-public crate-para-graph-0.1.0 (c (n "para-graph") (v "0.1.0") (d (list (d (n "cc") (r "^1.0.83") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "cxx") (r "^1.0") (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (d #t) (k 1)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)))) (h "126hy0jnvxxqwscpdp6vzizy5ka5vn1n0hv2w18pd9i63643azw3")))
+
+(define-public crate-para-graph-0.1.1 (c (n "para-graph") (v "0.1.1") (d (list (d (n "cc") (r "^1.0.83") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "cxx") (r "^1.0") (d #t) (k 0)) (d (n "cxx-build") (r "^1.0") (d #t) (k 1)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "num") (r "^0.4.2") (f (quote ("num-bigint"))) (d #t) (k 0)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)))) (h "0b8ic6ix2vhw5xx4r15dzyxi56avnf2v52qzc03rnsq2587d6l3a")))
+

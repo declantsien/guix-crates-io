@@ -1,0 +1,12 @@
+(define-module (crates-io db s- dbs-address-space) #:use-module (crates-io))
+
+(define-public crate-dbs-address-space-0.1.0 (c (n "dbs-address-space") (v "0.1.0") (d (list (d (n "arc-swap") (r ">=0.4.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.39") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "vm-memory") (r "^0.7") (f (quote ("backend-mmap" "backend-atomic"))) (d #t) (k 0)) (d (n "vmm-sys-util") (r "^0.9.0") (d #t) (k 0)))) (h "1msylhi4nma5v44qgfg296avyba5sp786b8d8mi6m2mdn7w4gkcs")))
+
+(define-public crate-dbs-address-space-0.2.0 (c (n "dbs-address-space") (v "0.2.0") (d (list (d (n "arc-swap") (r ">=0.4.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.39") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "vm-memory") (r "^0.9") (f (quote ("backend-mmap" "backend-atomic"))) (d #t) (k 0)) (d (n "vmm-sys-util") (r "^0.10.0") (d #t) (k 0)))) (h "024i02ycbn77cfy6f7kb3lsvbbx6s4ihx9hb4bv52rc8q5zzqwr6")))
+
+(define-public crate-dbs-address-space-0.2.1 (c (n "dbs-address-space") (v "0.2.1") (d (list (d (n "arc-swap") (r ">=0.4.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.39") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "vm-memory") (r "^0.9") (f (quote ("backend-mmap" "backend-atomic"))) (d #t) (k 0)) (d (n "vmm-sys-util") (r "^0.10.0") (d #t) (k 0)))) (h "0na58qm367m9776a40346s04awiy3i9c2amvcx8hqh6rx6z6b94a")))
+
+(define-public crate-dbs-address-space-0.2.2 (c (n "dbs-address-space") (v "0.2.2") (d (list (d (n "arc-swap") (r ">=0.4.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.39") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "vm-memory") (r "^0.9") (f (quote ("backend-mmap" "backend-atomic"))) (d #t) (k 0)) (d (n "vmm-sys-util") (r "^0.11.0") (d #t) (k 0)))) (h "1z68aspivdvailbxs3nyl07h5af71misw4qxj72y3ylg1gf3gk3b")))
+
+(define-public crate-dbs-address-space-0.3.0 (c (n "dbs-address-space") (v "0.3.0") (d (list (d (n "arc-swap") (r ">=0.4.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2.39") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "vm-memory") (r "^0.9") (f (quote ("backend-mmap" "backend-atomic"))) (d #t) (k 0)) (d (n "vmm-sys-util") (r "^0.11.0") (d #t) (k 0)))) (h "08lkhzw5kinzg8yndjqa9yq448i47l3vvlgcs00by4ydm4l0vqlm")))
+

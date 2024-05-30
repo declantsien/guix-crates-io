@@ -1,0 +1,4 @@
+(define-module (crates-io pa ll pallet-assets-chain-extension) #:use-module (crates-io))
+
+(define-public crate-pallet-assets-chain-extension-0.1.1 (c (n "pallet-assets-chain-extension") (v "0.1.1") (d (list (d (n "ink") (r "^4.0.0") (o #t) (k 0)) (d (n "obce") (r "^0.1.0") (k 0)) (d (n "pallet-assets") (r "^24") (o #t) (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2") (f (quote ("derive"))) (k 0)))) (h "1n0bhgj71xg57zri9vyzkyjbf67prjlxnzr4ga7f3x30fb5y80in") (f (quote (("substrate-std" "std" "substrate" "obce/substrate-std" "pallet-assets/std") ("substrate" "obce/substrate" "pallet-assets") ("std" "scale-info/std" "scale/std") ("runtime-benchmarks" "obce/runtime-benchmarks" "pallet-assets/runtime-benchmarks") ("ink-std" "std" "ink-lang" "obce/ink-std" "ink/std") ("ink-lang" "obce/ink" "ink") ("default" "ink-std"))))))
+

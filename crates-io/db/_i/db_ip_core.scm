@@ -1,0 +1,10 @@
+(define-module (crates-io db _i db_ip_core) #:use-module (crates-io))
+
+(define-public crate-db_ip_core-0.2.0 (c (n "db_ip_core") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "db_ip_macros") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1c95y64a0icag4ighwcsqzggl0lmqwz5f5z1hyvm1kni42mpwzsq") (f (quote (("region" "db_ip_macros/region") ("nightly") ("ipv6") ("ipv4"))))))
+
+(define-public crate-db_ip_core-0.3.0 (c (n "db_ip_core") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "db_ip_macros") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1gjqjfjfc372rndka61l9440fbpmxldsywzmfy149nx2wkxdhn0a") (f (quote (("region" "db_ip_macros/region") ("nightly") ("ipv6") ("ipv4"))))))
+
+(define-public crate-db_ip_core-0.3.1 (c (n "db_ip_core") (v "0.3.1") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "db_ip_macros") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "15g5y4750a1xk6xw8xgg2l4fkv27k70b42x8fmixjjin6aj4am82") (f (quote (("region" "db_ip_macros/region") ("nightly") ("ipv6") ("ipv4"))))))
+
+(define-public crate-db_ip_core-0.3.2 (c (n "db_ip_core") (v "0.3.2") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "db_ip_macros") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0jdfxns5w197mby9xdqdwxcy1yl349lrw366q1qjbfh4c3a3dhrs") (f (quote (("region" "db_ip_macros/region") ("nightly") ("ipv6") ("ipv4"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ar te artemis_codegen) #:use-module (crates-io))
+
+(define-public crate-artemis_codegen-0.1.0-alpha.0 (c (n "artemis_codegen") (v "0.1.0-alpha.0") (d (list (d (n "dprint-plugin-typescript") (r "^0.9.8") (d #t) (k 0)) (d (n "graphql-parser") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "clone-impls"))) (d #t) (k 0)))) (h "1q2a6310wjw86ww04g4gz5x36v8rvcrsysd52482h0jb4w5dsq03")))
+
+(define-public crate-artemis_codegen-0.1.0 (c (n "artemis_codegen") (v "0.1.0") (d (list (d (n "dprint-plugin-typescript") (r "^0.41") (o #t) (d #t) (k 0)) (d (n "graphql-parser") (r "^0.2") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "clone-impls"))) (d #t) (k 0)))) (h "18pggsmr96v0rs6a5i48s6n46prz66fzvvfb5mnsfcmvffg2qzfp") (f (quote (("fmt-typescript" "dprint-plugin-typescript"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io we b- web-queue-server) #:use-module (crates-io))
+
+(define-public crate-web-queue-server-0.1.0 (c (n "web-queue-server") (v "0.1.0") (d (list (d (n "actix") (r "^0.10") (d #t) (k 0)) (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "actix-web-actors") (r "^3") (d #t) (k 0)) (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "web-queue-meta") (r "^0.1") (d #t) (k 0)))) (h "1ly7zz9z0yx0lnw8j2ikk2sqqz4s2rixd7hs9k21042mh3g7m7mx")))
+
+(define-public crate-web-queue-server-0.1.1 (c (n "web-queue-server") (v "0.1.1") (d (list (d (n "actix") (r "^0.10") (d #t) (k 0)) (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "actix-web-actors") (r "^3") (d #t) (k 0)) (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "web-queue-meta") (r "^0.1") (d #t) (k 0)))) (h "0jd628s11gvjxn6d24s95q74axgp541cj5mg9640sm6qnra8769r")))
+

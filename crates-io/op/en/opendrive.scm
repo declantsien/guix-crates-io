@@ -1,0 +1,4 @@
+(define-module (crates-io op en opendrive) #:use-module (crates-io))
+
+(define-public crate-opendrive-0.1.0+1.7.0 (c (n "opendrive") (v "0.1.0+1.7.0") (d (list (d (n "arbitrary") (r "^1.1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "backtrace") (r "^0.3.64") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (f (quote ("serde" "clock"))) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "paste") (r "^1.0.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "uom") (r "^0.32.0") (f (quote ("serde" "f64"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "vec1") (r "^1.8.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "0dxap68b72xr0ibn5vns4kvx4yckc1bv4yf6y2gkzdqag198dv3q") (f (quote (("workaround-sumo-roadmark-missing-color") ("workaround-sumo-issue-10301") ("workaround-sumo" "workaround-sumo-issue-10301" "workaround-sumo-roadmark-missing-color") ("fuzzing" "arbitrary"))))))
+

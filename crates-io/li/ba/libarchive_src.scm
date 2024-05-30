@@ -1,0 +1,4 @@
+(define-module (crates-io li ba libarchive_src) #:use-module (crates-io))
+
+(define-public crate-libarchive_src-0.1.0 (c (n "libarchive_src") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.63.0") (d #t) (k 1)) (d (n "bzip2-sys") (r "^0.1.11") (f (quote ("static"))) (d #t) (k 0)) (d (n "cmake") (r "^0.1.49") (d #t) (k 1)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "libz-sys") (r "^1.1.8") (f (quote ("static"))) (d #t) (k 0)) (d (n "lz4-sys") (r "^1.9.4") (d #t) (k 0)) (d (n "lzma-sys") (r "^0.1.20") (f (quote ("static"))) (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9.80") (f (quote ("vendored"))) (d #t) (t "cfg(not(target_vendor = \"apple\"))") (k 0)) (d (n "path-slash") (r "^0.2.1") (d #t) (k 1)) (d (n "zstd-sys") (r "^2.0.4") (d #t) (k 0)))) (h "05h5qah78pmkn3b4qipzvafagq0ls33b761ffm5zanwxdsqw5h9j")))
+

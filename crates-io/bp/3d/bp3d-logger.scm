@@ -1,0 +1,8 @@
+(define-module (crates-io bp #{3d}# bp3d-logger) #:use-module (crates-io))
+
+(define-public crate-bp3d-logger-1.0.0 (c (n "bp3d-logger") (v "1.0.0") (d (list (d (n "bp3d-fs") (r "^1.0.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "time") (r "^0.3.7") (f (quote ("formatting" "macros"))) (d #t) (k 0)) (d (n "time-tz") (r "^0.3.1") (f (quote ("system"))) (d #t) (k 0)))) (h "0fx3fq8qbk3mfxihnz1kj9lqy72891hrwfww2d1la2nnl3n9mqnn")))
+
+(define-public crate-bp3d-logger-1.1.0 (c (n "bp3d-logger") (v "1.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "bp3d-fs") (r "^1.0.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.3") (d #t) (k 0)) (d (n "time") (r "^0.3.7") (f (quote ("formatting" "macros"))) (d #t) (k 0)) (d (n "time-tz") (r "^0.3.1") (f (quote ("system"))) (d #t) (k 0)))) (h "16yq8g28g4pawjpxr889pl8qmn2zgzmn7lqxvshzp111gbx9hr0p")))
+
+(define-public crate-bp3d-logger-2.0.0-rc.1.0.0 (c (n "bp3d-logger") (v "2.0.0-rc.1.0.0") (d (list (d (n "bp3d-os") (r "^1.0.0-rc.1.2.1") (f (quote ("dirs" "time"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.3") (d #t) (k 0)) (d (n "time") (r "^0.3.0") (f (quote ("formatting" "macros"))) (d #t) (k 0)))) (h "0sjb7j0gaqn0nmbhpj272sc30iknqq2qvw6qzp4p13bj5gmsczgy")))
+

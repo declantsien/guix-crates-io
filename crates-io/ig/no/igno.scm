@@ -1,0 +1,6 @@
+(define-module (crates-io ig no igno) #:use-module (crates-io))
+
+(define-public crate-igno-0.1.0 (c (n "igno") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0wxf2lq60pc4rnl99kgz920q7xi40n316xd7dq3i9r8ij3m8r4bv")))
+
+(define-public crate-igno-0.1.1 (c (n "igno") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "09sb73pzv1n38c1sl5jk0fqzhhmy697n5qx3kbcwynxdwm4wqgmi")))
+

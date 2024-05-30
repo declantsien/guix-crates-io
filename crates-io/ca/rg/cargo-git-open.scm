@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-git-open) #:use-module (crates-io))
+
+(define-public crate-cargo-git-open-0.0.8 (c (n "cargo-git-open") (v "0.0.8") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "clap") (r "^4.3.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (f (quote ("openssl-sys" "https"))) (d #t) (k 0)) (d (n "open") (r "^5.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 0)))) (h "0hvmh6j5139v149h4mzmynzfc1lqizvr8xl163sscxgcz34r6y5w")))
+
+(define-public crate-cargo-git-open-0.0.9 (c (n "cargo-git-open") (v "0.0.9") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git-url-parse") (r "^0.4.4") (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (f (quote ("openssl-sys" "https"))) (d #t) (k 0)) (d (n "graphql_client") (r "^0.13.0") (f (quote ("reqwest-blocking"))) (d #t) (k 0)) (d (n "open") (r "^5.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0j9cs6glzvi6bzdkqz8a1z584lccmmcs0fdypkbx9hviw0pmv3bg")))
+

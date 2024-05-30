@@ -1,0 +1,8 @@
+(define-module (crates-io sc ri scribl_curves) #:use-module (crates-io))
+
+(define-public crate-scribl_curves-0.1.0 (c (n "scribl_curves") (v "0.1.0") (d (list (d (n "druid") (r "^0.6.0") (f (quote ("im"))) (d #t) (k 0)) (d (n "gstreamer") (r "^0.15.4") (d #t) (k 0)) (d (n "im") (r "^15.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 2)))) (h "0rs0i9dfgjfcj32bprwg6k7hiyf43s5h55k4cfrvp2lx0lqh1gm7")))
+
+(define-public crate-scribl_curves-0.3.0 (c (n "scribl_curves") (v "0.3.0") (d (list (d (n "druid") (r "^0.7") (f (quote ("im"))) (d #t) (k 0)) (d (n "gstreamer") (r "^0.16") (d #t) (k 0)) (d (n "im") (r "^15.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "proptest") (r "^0.10.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 2)))) (h "0kd7jpv9k01ip6lmmirj7m8x3q3gn82nql2b94rkabkj8s1vrjcp")))
+
+(define-public crate-scribl_curves-0.3.1 (c (n "scribl_curves") (v "0.3.1") (d (list (d (n "druid") (r "^0.7") (f (quote ("im"))) (d #t) (k 0)) (d (n "gstreamer") (r "^0.16") (d #t) (k 0)) (d (n "im") (r "^15.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "proptest") (r "^0.10.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 2)))) (h "1rdczlqv564dx7683ngggw4q417w8gn6x8y87ifm7rg3h9ajis53")))
+

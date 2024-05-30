@@ -1,0 +1,8 @@
+(define-module (crates-io et he etherscan-cli) #:use-module (crates-io))
+
+(define-public crate-etherscan-cli-0.0.1 (c (n "etherscan-cli") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ethers-core") (r "^1.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "1yhm44i97zpsbg05jb51bxhkq3cq101fksmwnj49djj9fr5zd5vs")))
+
+(define-public crate-etherscan-cli-0.0.2 (c (n "etherscan-cli") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ethers") (r "^1.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "0fk9gh0aa2cswf8v6jsjsv800lhab9dkm29jnij9xf8imzyrynhj") (r "1.65")))
+
+(define-public crate-etherscan-cli-0.0.3 (c (n "etherscan-cli") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ethers") (r "^1.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "036h75d2nibxf8kzvkfcy0ra2hhxy3bpifjfbxlw9443yk5xyzl4") (r "1.64")))
+

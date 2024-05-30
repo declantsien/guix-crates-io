@@ -1,0 +1,8 @@
+(define-module (crates-io pe rc percent-encoding-command) #:use-module (crates-io))
+
+(define-public crate-percent-encoding-command-0.1.3 (c (n "percent-encoding-command") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.7") (d #t) (k 2)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 2)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "predicates") (r "^2.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "103nnpa1py7r325lvfm80zih2y7fjbrk4l6cyn1iyi0xhfaq3033")))
+
+(define-public crate-percent-encoding-command-0.1.4 (c (n "percent-encoding-command") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.7") (d #t) (k 2)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 2)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "predicates") (r "^2.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "1b4fn8vfhbzqh8nbza29x3ws39hlibn0a83hj1cmq0d3ch5dh7lz")))
+
+(define-public crate-percent-encoding-command-0.1.5 (c (n "percent-encoding-command") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.7") (d #t) (k 2)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 2)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "predicates") (r "^2.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "04as2rds7904w4cg82mv54a5smynnxgk3yb6rgspj3zznn47g2jy")))
+

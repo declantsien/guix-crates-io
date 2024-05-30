@@ -1,0 +1,6 @@
+(define-module (crates-io fa ke fakeyou) #:use-module (crates-io))
+
+(define-public crate-fakeyou-0.1.0 (c (n "fakeyou") (v "0.1.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "cookies" "blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0m635kpqnlqzqydx724jkavkfl7p0hcgd892ws0dcjp3zr7i9d02")))
+
+(define-public crate-fakeyou-0.1.1 (c (n "fakeyou") (v "0.1.1") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "cookies" "blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1z0rmn89kq51188kxg8z87bprsxy3hjj3vlwzarzq998550g4j61")))
+

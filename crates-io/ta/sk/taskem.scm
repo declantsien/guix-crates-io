@@ -1,0 +1,4 @@
+(define-module (crates-io ta sk taskem) #:use-module (crates-io))
+
+(define-public crate-taskem-0.0.0 (c (n "taskem") (v "0.0.0") (d (list (d (n "c3p0_common") (r "^0.20") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "cron") (r "^0.6") (d #t) (k 0)) (d (n "err-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "maybe-single") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "testcontainers") (r "^0.8") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0k7wfkadc7n28lddnw1667x30pvxj61w1mz37yh3fam5x3gnqd5h")))
+

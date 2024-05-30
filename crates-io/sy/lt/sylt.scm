@@ -1,0 +1,4 @@
+(define-module (crates-io sy lt sylt) #:use-module (crates-io))
+
+(define-public crate-sylt-0.1.0 (c (n "sylt") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "gumdrop") (r "^0.8") (d #t) (k 0)) (d (n "owo-colors") (r "^2.0.0") (d #t) (k 0)) (d (n "sylt-common") (r "^0.1.0") (d #t) (k 0)) (d (n "sylt-compiler") (r "^0.1.0") (d #t) (k 0)) (d (n "sylt-machine") (r "^0.1.0") (d #t) (k 0)) (d (n "sylt-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "sylt-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "sylt-std") (r "^0.1.0") (k 0)) (d (n "sylt-tokenizer") (r "^0.1.0") (d #t) (k 0)) (d (n "sylt-typechecker") (r "^0.1.0") (d #t) (k 0)))) (h "0zk0b5x9y37dgcvjn5qv6gkhp90fr2x8n6p3ik2fln6xyh5qzs3n") (f (quote (("network" "sylt-std/network") ("lingon" "sylt-std/lingon") ("default" "lingon" "network"))))))
+

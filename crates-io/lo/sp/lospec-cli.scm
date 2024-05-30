@@ -1,0 +1,6 @@
+(define-module (crates-io lo sp lospec-cli) #:use-module (crates-io))
+
+(define-public crate-lospec-cli-0.1.0 (c (n "lospec-cli") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("full"))) (d #t) (k 0)))) (h "15rqkl7jfjiqqcx2l30rg9w974s4nsqzsl46n3rvvld1cf8kpk0v")))
+
+(define-public crate-lospec-cli-0.2.0 (c (n "lospec-cli") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("full"))) (d #t) (k 0)))) (h "1iah021mx4zpb4cbi07x3vbw50wa8sqkvkag5r4k6l5hp0v9bh6b")))
+

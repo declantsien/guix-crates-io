@@ -1,0 +1,10 @@
+(define-module (crates-io af ri afrim-wish) #:use-module (crates-io))
+
+(define-public crate-afrim-wish-0.3.0 (c (n "afrim-wish") (v "0.3.0") (d (list (d (n "afrim") (r "^0.5.0") (k 0)) (d (n "rstk") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "0ymd3xv7rp0wqgnaasz3cvxdl3k5rnfy7na5wjg2mgixa9y5f616") (f (quote (("strsim" "afrim/strsim") ("rhai" "afrim/rhai") ("inhibit" "afrim/inhibit") ("default" "strsim" "rhai"))))))
+
+(define-public crate-afrim-wish-0.3.1 (c (n "afrim-wish") (v "0.3.1") (d (list (d (n "afrim") (r "^0.5.1") (k 0)) (d (n "rstk") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1b57313fyqzbgprb4b1x4x868xwyy9djygv8fqzj78x3zzmp9247") (f (quote (("strsim" "afrim/strsim") ("rhai" "afrim/rhai") ("inhibit" "afrim/inhibit") ("default" "strsim" "rhai"))))))
+
+(define-public crate-afrim-wish-0.3.2 (c (n "afrim-wish") (v "0.3.2") (d (list (d (n "afrim") (r "^0.5.2") (k 0)) (d (n "clap") (r "^4.4.8") (d #t) (k 0)) (d (n "rstk") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1kczlnhm45jv0lgr7lkw51b42daw31m39c79k9pdw5d5g86nfky3") (f (quote (("strsim" "afrim/strsim") ("rhai" "afrim/rhai") ("inhibit" "afrim/inhibit") ("default" "strsim" "rhai"))))))
+
+(define-public crate-afrim-wish-0.4.0 (c (n "afrim-wish") (v "0.4.0") (d (list (d (n "afrim") (r "^0.6.0") (k 0)) (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (d #t) (k 0)) (d (n "rstk") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "1f6rbijxg5li5h5jvvq9jgvw9s8bkwdzf56mm2rmyvxacy6sfklm") (f (quote (("strsim" "afrim/strsim") ("rhai" "afrim/rhai") ("inhibit" "afrim/inhibit") ("default" "strsim" "rhai"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io de ss dess-examples) #:use-module (crates-io))
+
+(define-public crate-dess-examples-0.1.0 (c (n "dess-examples") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "dess-core") (r "^0.1.0") (d #t) (k 0)) (d (n "eng_fmt") (r "^0.1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.18.1") (f (quote ("extension-module" "anyhow"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.17") (d #t) (k 0)))) (h "1ffgi8svyv5kpbvviiiykpma3cprs9gixl1xx06a35h0yk0sqcq9") (s 2) (e (quote (("pyo3" "dep:pyo3" "dess-core/pyo3"))))))
+
+(define-public crate-dess-examples-0.1.1 (c (n "dess-examples") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "dess") (r "^0.1.0") (d #t) (k 0)) (d (n "eng_fmt") (r "^0.1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.18.1") (f (quote ("extension-module" "anyhow"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.17") (d #t) (k 0)))) (h "0y4c69fdg4iqjpiff5kach99anw8gyiz4h065cwlk5qa1b12sqr0") (s 2) (e (quote (("pyo3" "dep:pyo3" "dess/pyo3"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io fr ey freya-elements) #:use-module (crates-io))
+
+(define-public crate-freya-elements-0.1.0 (c (n "freya-elements") (v "0.1.0") (d (list (d (n "accesskit") (r "^0.11.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dioxus-core") (r "^0.4") (d #t) (k 0)) (d (n "dioxus-core-macro") (r "^0.4") (d #t) (k 0)) (d (n "dioxus-hooks") (r "^0.4") (d #t) (k 0)) (d (n "dioxus-native-core") (r "^0.4") (f (quote ("dioxus"))) (d #t) (k 0)) (d (n "dioxus-rsx") (r "^0.4") (f (quote ("hot_reload"))) (d #t) (k 0)) (d (n "freya-common") (r "^0.1") (d #t) (k 0)) (d (n "keyboard-types") (r "^0.6.2") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("sync" "rt-multi-thread" "time" "macros"))) (d #t) (k 0)) (d (n "torin") (r "^0.1") (d #t) (k 0)) (d (n "winit") (r "^0.28.2") (d #t) (k 0)))) (h "0ay837s1i28w9h2yx8w12vzvxgsij200zi8cndmyxxnik0nvdkrz")))
+
+(define-public crate-freya-elements-0.2.0 (c (n "freya-elements") (v "0.2.0") (d (list (d (n "dioxus-core") (r "^0.5") (d #t) (k 0)) (d (n "dioxus-rsx") (r "^0.5") (f (quote ("hot_reload"))) (d #t) (k 0)) (d (n "keyboard-types") (r "^0.7.0") (d #t) (k 0)) (d (n "torin") (r "^0.2") (d #t) (k 0)) (d (n "winit") (r "^0.29.9") (d #t) (k 0)))) (h "0dx58x3lxvymw4maj3w3lcsgfrlan03jpv39zxcqj5phdn7p95lz")))
+

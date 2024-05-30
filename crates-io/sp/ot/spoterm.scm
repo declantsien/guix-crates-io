@@ -1,0 +1,4 @@
+(define-module (crates-io sp ot spoterm) #:use-module (crates-io))
+
+(define-public crate-spoterm-0.1.0 (c (n "spoterm") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "hostname") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "log4rs") (r "^0.8.3") (d #t) (k 0)) (d (n "rpassword") (r "^3.0.2") (d #t) (k 0)) (d (n "rspotify") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.94") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "tui") (r "^0.5") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1hxbfzmrdmyw8islxah166m595zix4ba685ks6w1vcyzgkgg4vq0")))
+

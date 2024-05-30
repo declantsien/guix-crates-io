@@ -1,0 +1,6 @@
+(define-module (crates-io ar pe arpeggio-cli) #:use-module (crates-io))
+
+(define-public crate-arpeggio-cli-0.0.1 (c (n "arpeggio-cli") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.78") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1kj6sm55g7mgglh0adz94cis1ij8rlha9lxpssk374af84s2a1qj") (y #t)))
+
+(define-public crate-arpeggio-cli-0.0.2 (c (n "arpeggio-cli") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.78") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0jbp8dkylmc6bz88qgd2mv0a5x67blm3v02jnj5g93xl384qsx33") (y #t)))
+

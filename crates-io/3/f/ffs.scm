@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# f ffs) #:use-module (crates-io))
+
+(define-public crate-ffs-0.1.0 (c (n "ffs") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^2.0") (d #t) (k 0)) (d (n "fuser") (r "^0.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.51") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.18") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0b0zmypngsj9r6awqfgxn7vyxgwpw6y9r9k1anh54yn6vhdahfhf")))
+
+(define-public crate-ffs-0.1.1 (c (n "ffs") (v "0.1.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^2.0") (d #t) (k 0)) (d (n "fuser") (r "^0.8") (d #t) (k 0)) (d (n "libc") (r "^0.2.51") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.18") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "1pz2lvcmnf5wwn5n7k7xfyxyqgjzv9zgp05xc81ijvnbkm52yyl2")))
+
+(define-public crate-ffs-0.1.2 (c (n "ffs") (v "0.1.2") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^2.0") (d #t) (k 0)) (d (n "fuser") (r "^0.9") (d #t) (k 0)) (d (n "libc") (r "^0.2.51") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.18") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0vybd22gxgm2c5sg1cfm862hhz5krs48rx60sl4i5yhw17mipwwf")))
+

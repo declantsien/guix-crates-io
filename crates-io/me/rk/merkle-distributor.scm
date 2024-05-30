@@ -1,0 +1,24 @@
+(define-module (crates-io me rk merkle-distributor) #:use-module (crates-io))
+
+(define-public crate-merkle-distributor-0.2.1 (c (n "merkle-distributor") (v "0.2.1") (d (list (d (n "anchor-lang") (r "^0.16.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.16.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.0.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "vipers") (r "^1.0.0") (d #t) (k 0)))) (h "0mn3xvg5mipxxkynrmdxg3127s7z0iy3m1jc3vi86894l3r7w4l6") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.2.2 (c (n "merkle-distributor") (v "0.2.2") (d (list (d (n "anchor-lang") (r "^0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.17.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.0.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "vipers") (r "^1.2.1") (d #t) (k 0)))) (h "0qwkxbxn67v1zcfwyx9mzb6jdi0b2jzdxn52qxan6qnfm7zkd3j5") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.2.3 (c (n "merkle-distributor") (v "0.2.3") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.0.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "vipers") (r "^1.2.1") (d #t) (k 0)))) (h "1mvh7pggihxk2zgkw8sklbvdxc3687fq95109skybbxvgsh492ki") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.2.5 (c (n "merkle-distributor") (v "0.2.5") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "0yzcc7bmbh63n1q5kxm5z2wijcrjrpsxp2gi0f63dq50iyzjmbch") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.2.6 (c (n "merkle-distributor") (v "0.2.6") (d (list (d (n "anchor-lang") (r ">=0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.17.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "1cnasl0gzbk6444im86zd5m2qk7dqa4jb5ai38zzjv2iap51i213") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.3.0 (c (n "merkle-distributor") (v "0.3.0") (d (list (d (n "anchor-lang") (r "^0.22") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.22") (d #t) (k 0)) (d (n "vipers") (r "^2") (f (quote ("spl-associated-token-account"))) (d #t) (k 0)))) (h "16mpcrjq2ai5r9bp8m4n967q05sdpkc9b3h9n10k6qb1d1z1r7j2") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.3.1 (c (n "merkle-distributor") (v "0.3.1") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "vipers") (r "^2") (f (quote ("spl-associated-token-account"))) (d #t) (k 0)))) (h "1iar6ing008g7iaf35vbrzsmq0h27bf8x1zdjr9vdalr0rc72s4l") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.3.2 (c (n "merkle-distributor") (v "0.3.2") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "vipers") (r "^2") (f (quote ("spl-associated-token-account"))) (d #t) (k 0)))) (h "0llkw88fnyr83wv84bsdzc86y3ld2mas4p9nlwy8p4a0kkqx46lj") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.3.3 (c (n "merkle-distributor") (v "0.3.3") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "vipers") (r "^2") (f (quote ("spl-associated-token-account"))) (d #t) (k 0)))) (h "058zgxi720rf27c2aqms5gbzacis20d2a5gwwccrz2xghis3sjc7") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.3.4 (c (n "merkle-distributor") (v "0.3.4") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "vipers") (r "^2") (f (quote ("spl-associated-token-account"))) (d #t) (k 0)))) (h "1k3dyv63ikdvi3rn2f6h4h6cq57dy8685kciqbh4w2ijir914rj8") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-merkle-distributor-0.3.5 (c (n "merkle-distributor") (v "0.3.5") (d (list (d (n "anchor-lang") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "anchor-spl") (r ">=0.22, <=0.24") (d #t) (k 0)) (d (n "vipers") (r "^2") (f (quote ("spl-associated-token-account"))) (d #t) (k 0)))) (h "0x56764chkigim542fwf2pv15h530lhz1glmgrknrq55r3dpr3d5") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

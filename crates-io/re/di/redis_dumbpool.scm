@@ -1,0 +1,6 @@
+(define-module (crates-io re di redis_dumbpool) #:use-module (crates-io))
+
+(define-public crate-redis_dumbpool-0.1.0 (c (n "redis_dumbpool") (v "0.1.0") (d (list (d (n "async-lock") (r "^2.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "redis") (r "^0.20") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "11xjc8pp84v707ajslkwd128hzhh549l5kpsk6p725xb5qj26wcb")))
+
+(define-public crate-redis_dumbpool-0.2.0 (c (n "redis_dumbpool") (v "0.2.0") (d (list (d (n "async-lock") (r "^2.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "redis") (r "^0.20") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "09a02s5wwpyn4rpg0w1jnv80f29p0ggm5xb94mdrl0rss12vbq4z")))
+

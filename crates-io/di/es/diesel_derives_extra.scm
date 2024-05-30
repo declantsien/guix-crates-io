@@ -1,0 +1,10 @@
+(define-module (crates-io di es diesel_derives_extra) #:use-module (crates-io))
+
+(define-public crate-diesel_derives_extra-0.1.0 (c (n "diesel_derives_extra") (v "0.1.0") (d (list (d (n "clippy") (r "^0.0.150") (o #t) (d #t) (k 0)) (d (n "diesel") (r "^1.0.0-beta1") (f (quote ("postgres"))) (d #t) (k 0)) (d (n "diesel_derives_traits") (r "^0.1.0") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "0vyb99rn71nxzgd9bj0qiq588c2ndmab0ff4kw919gnar6k24sk5")))
+
+(define-public crate-diesel_derives_extra-0.1.1 (c (n "diesel_derives_extra") (v "0.1.1") (d (list (d (n "clippy") (r "^0.0.150") (o #t) (d #t) (k 0)) (d (n "diesel") (r "^1.0.0") (f (quote ("postgres"))) (d #t) (k 0)) (d (n "diesel_derives_traits") (r "^0.1.1") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "053w43bk8vaqqdbz6znhfw7grpagyn3s5h8ysavd5pl3l8xqcncg")))
+
+(define-public crate-diesel_derives_extra-0.1.2 (c (n "diesel_derives_extra") (v "0.1.2") (d (list (d (n "clippy") (r "^0.0.179") (o #t) (d #t) (k 0)) (d (n "diesel") (r "^1.0.0") (d #t) (k 0)) (d (n "diesel_derives_traits") (r "^0.1.2") (d #t) (k 0)) (d (n "diesel_logger") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "0f9kjlfa2r9gg7pwzn1n12wb5hq5hmdpc8yxmlhn85m3ydyj0gc6") (f (quote (("postgres" "diesel/postgres") ("logger" "diesel_logger") ("default" "postgres"))))))
+
+(define-public crate-diesel_derives_extra-0.2.0 (c (n "diesel_derives_extra") (v "0.2.0") (d (list (d (n "diesel") (r "^1.4.6") (d #t) (k 0)) (d (n "diesel_derives_traits") (r "^0.2.0") (d #t) (k 0)) (d (n "diesel_logger") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.69") (d #t) (k 0)))) (h "0ny1sfpk3kgh1mh8jn6ijq535qhj00cb29c7ifsvwirik6q29vf6") (f (quote (("postgres" "diesel/postgres") ("logger" "diesel_logger") ("default" "postgres"))))))
+

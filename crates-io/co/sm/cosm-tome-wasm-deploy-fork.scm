@@ -1,0 +1,4 @@
+(define-module (crates-io co sm cosm-tome-wasm-deploy-fork) #:use-module (crates-io))
+
+(define-public crate-cosm-tome-wasm-deploy-fork-0.1.0 (c (n "cosm-tome-wasm-deploy-fork") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "cosmrs") (r "^0.10.0") (f (quote ("rpc" "cosmwasm" "grpc"))) (d #t) (k 0)) (d (n "keyring") (r "^1.2.0") (o #t) (d #t) (k 0)) (d (n "mockall") (r "^0.11.2") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tonic") (r "^0.8.2") (f (quote ("transport" "prost"))) (k 0)))) (h "00p7mmm06qwmz1lccymm77jcmxvql5fk690a66dkjh259prfyr5h") (f (quote (("os_keyring" "keyring") ("mocks" "mockall"))))))
+

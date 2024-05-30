@@ -1,0 +1,6 @@
+(define-module (crates-io js lt jslt) #:use-module (crates-io))
+
+(define-public crate-jslt-0.0.1 (c (n "jslt") (v "0.0.1") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rstest") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha256") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1kmkq1ml95dpyrx50wrmc0mnlnxhfyx5kq1bz00amhjw008kj6lp")))
+
+(define-public crate-jslt-0.0.2 (c (n "jslt") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "rstest") (r "^0.18") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha256") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0ybgy8rbkdy7x0br2s11fwp7hmp842bwwfr1946b35i97bmv1zq1")))
+

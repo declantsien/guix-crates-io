@@ -1,0 +1,12 @@
+(define-module (crates-io ht tp http-body-util) #:use-module (crates-io))
+
+(define-public crate-http-body-util-0.1.0-rc.1 (c (n "http-body-util") (v "0.1.0-rc.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-body") (r "^1.0.0-rc.1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1z03ng5mngx81a07kl56drh6nns9gdyhl7l83i920dm7dkfbhxyi")))
+
+(define-public crate-http-body-util-0.1.0-rc.2 (c (n "http-body-util") (v "0.1.0-rc.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-body") (r "=1.0.0-rc.2") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "040dxjf7h414f1mka6kqd2hjghmwnp1pv0anrsis1gqlrk4mni4j")))
+
+(define-public crate-http-body-util-0.1.0-rc.3 (c (n "http-body-util") (v "0.1.0-rc.3") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.14") (f (quote ("alloc"))) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-body") (r "=1.0.0-rc.2") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1j55vhqyby7zsw6882idicxps50c4wrn9yz521q3kpdc87q15vq8")))
+
+(define-public crate-http-body-util-0.1.0 (c (n "http-body-util") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.14") (f (quote ("alloc"))) (k 0)) (d (n "http") (r "^1") (d #t) (k 0)) (d (n "http-body") (r "^1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "0h78a6jj2vky0wmgmq5f1h541cmhmlij09gw63fxl59h77mpkjs1")))
+
+(define-public crate-http-body-util-0.1.1 (c (n "http-body-util") (v "0.1.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.14") (k 2)) (d (n "http") (r "^1") (d #t) (k 0)) (d (n "http-body") (r "^1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "sync" "rt-multi-thread"))) (d #t) (k 2)))) (h "07agldas2qgcfc05ckiarlmf9vzragbda823nqhrqrc6mjrghx84") (r "1.49")))
+

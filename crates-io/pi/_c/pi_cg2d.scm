@@ -1,0 +1,8 @@
+(define-module (crates-io pi _c pi_cg2d) #:use-module (crates-io))
+
+(define-public crate-pi_cg2d-0.1.0 (c (n "pi_cg2d") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nalgebra") (r "^0.24.0") (d #t) (k 0)) (d (n "ncollide2d") (r "^0.27.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "pi_hash") (r "^0.1") (d #t) (k 0)) (d (n "pi_heap") (r "^0.1") (d #t) (k 0)) (d (n "pi_slab") (r "^0.1") (d #t) (k 0)) (d (n "pi_triangulation") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0bl5vnhdsgbvx9xhrnkp48ixdpgr9zf68x9n7ah1fah313ipxz7v")))
+
+(define-public crate-pi_cg2d-0.2.0 (c (n "pi_cg2d") (v "0.2.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30") (d #t) (k 0)) (d (n "ncollide2d") (r "^0.33") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "pi_hash") (r "^0.1") (d #t) (k 0)) (d (n "pi_heap") (r "^0.1") (d #t) (k 0)) (d (n "pi_slab") (r "^0.1") (d #t) (k 0)) (d (n "pi_triangulation") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0qrf93mr62yspaf3vyvgx293pyjf0hykkip6cjximpy4z9mrhdn3")))
+
+(define-public crate-pi_cg2d-0.3.0 (c (n "pi_cg2d") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "parry2d") (r "^0.13") (d #t) (k 0)) (d (n "pi_hash") (r "^0.1") (d #t) (k 0)) (d (n "pi_heap") (r "^0.1") (d #t) (k 0)) (d (n "pi_slab") (r "^0.1") (d #t) (k 0)) (d (n "pi_triangulation") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1hczf5h9rlwca71fzsajwgxbx7w35jc00cl8y924gwwsz8b71yac")))
+

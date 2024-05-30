@@ -1,0 +1,10 @@
+(define-module (crates-io vi z- viz-tower) #:use-module (crates-io))
+
+(define-public crate-viz-tower-0.1.1 (c (n "viz-tower") (v "0.1.1") (d (list (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("net" "rt-multi-thread" "macros" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4") (f (quote ("util"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.5") (f (quote ("limit" "request-id" "timeout"))) (d #t) (k 2)) (d (n "viz-core") (r "^0.8.1") (d #t) (k 0)))) (h "1sm0lnrd9hv2z4pgr9kb3mm5j3c4sb1m62bqlc1sy5i78gjw2461") (r "1.75")))
+
+(define-public crate-viz-tower-0.1.2 (c (n "viz-tower") (v "0.1.2") (d (list (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("net" "rt-multi-thread" "macros" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4") (f (quote ("util"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.5") (f (quote ("limit" "request-id" "timeout"))) (d #t) (k 2)) (d (n "viz-core") (r "^0.8.2") (d #t) (k 0)))) (h "0ava4lkvf9sv5455z4g04jbg9mxwpi3jzvq5s5p5jbyy7ss8swaw") (r "1.75")))
+
+(define-public crate-viz-tower-0.1.4 (c (n "viz-tower") (v "0.1.4") (d (list (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("net" "rt-multi-thread" "macros" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4") (f (quote ("util"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.5") (f (quote ("limit" "request-id" "timeout"))) (d #t) (k 2)) (d (n "viz-core") (r "^0.8.4") (d #t) (k 0)))) (h "1r0pqdvi63g8ninswpnwvfc3vbk97a4cn2b2brwls4fw12q0cc6c") (r "1.75")))
+
+(define-public crate-viz-tower-0.1.5 (c (n "viz-tower") (v "0.1.5") (d (list (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("net" "rt-multi-thread" "macros" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4") (f (quote ("util"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.5") (f (quote ("limit" "request-id" "timeout"))) (d #t) (k 2)) (d (n "viz-core") (r "^0.8.5") (d #t) (k 0)))) (h "01rs9shh2lg7447hf9sj486hd3h9226x5rc27k7fx5rzqg8hbkld") (r "1.75")))
+

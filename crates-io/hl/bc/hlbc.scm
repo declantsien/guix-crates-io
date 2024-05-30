@@ -1,0 +1,20 @@
+(define-module (crates-io hl bc hlbc) #:use-module (crates-io))
+
+(define-public crate-hlbc-0.1.0 (c (n "hlbc") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.1") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "0ky2ccibh9k4bjawgw2lzqwrmbjsfgxzqz67yx3488xxvdv8k3g2") (f (quote (("graph" "petgraph") ("default"))))))
+
+(define-public crate-hlbc-0.1.1 (c (n "hlbc") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.1") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "149anank77nhfjlgb3s8wkjjnmq598qiypffjpgvbi4z6lrrl647") (f (quote (("graph" "petgraph") ("default"))))))
+
+(define-public crate-hlbc-0.2.0 (c (n "hlbc") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.2") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)))) (h "1vkdsknrpmjvw2wk7qg81lm8r0dxlvrv0sfqc532fq1n424zaskq") (f (quote (("graph" "petgraph") ("default"))))))
+
+(define-public crate-hlbc-0.3.0 (c (n "hlbc") (v "0.3.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "17apqmw11zhp84k2k41nbqih4a6wcq3c2kk6s651mb5g644grbcg") (f (quote (("graph" "petgraph") ("default" "graph")))) (r "1.56")))
+
+(define-public crate-hlbc-0.4.0 (c (n "hlbc") (v "0.4.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0mandcmpl3dxqpnb9q53pl329q1vfjks7gm7hbn080cg10jdij10") (f (quote (("graph" "petgraph") ("default" "graph")))) (r "1.56")))
+
+(define-public crate-hlbc-0.5.0 (c (n "hlbc") (v "0.5.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0r72a0b8m57gv9y7smsk4gnapghrkamzxy1ici1v4cg31cr951lh") (f (quote (("graph" "petgraph") ("default" "graph")))) (r "1.56")))
+
+(define-public crate-hlbc-0.6.0 (c (n "hlbc") (v "0.6.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.6") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1xg4zqysnfcvxkissq01jyi1jfn2cr9lxmaab1gj85sajgg65m5a") (f (quote (("graph" "petgraph") ("default" "graph")))) (r "1.56")))
+
+(define-public crate-hlbc-0.6.1 (c (n "hlbc") (v "0.6.1") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.6") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0f05v9av9wk75k4v60dql0px5qs4mc1kv56z1ahqgqhdqq3bvyf6") (f (quote (("graph" "petgraph") ("default" "graph")))) (r "1.56")))
+
+(define-public crate-hlbc-0.7.0 (c (n "hlbc") (v "0.7.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "flexstr") (r "^0.9") (d #t) (k 0)) (d (n "fmtools") (r "^0.1") (d #t) (k 0)) (d (n "hlbc-derive") (r "^0.7") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (f (quote ("graphmap"))) (o #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1aniqp7sji1dvjsdlla1g4hrf9zlhmphgarv2qshql30lahs8gxd") (f (quote (("graph" "petgraph") ("default" "graph")))) (r "1.64")))
+

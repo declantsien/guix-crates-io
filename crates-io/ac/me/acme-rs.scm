@@ -1,0 +1,6 @@
+(define-module (crates-io ac me acme-rs) #:use-module (crates-io))
+
+(define-public crate-acme-rs-0.1.0 (c (n "acme-rs") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rouille") (r "^3.0.0") (d #t) (k 0)) (d (n "rpki") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1ki55gywws4bgrwfh1fanc61n6d77i338hdngya5lzqvxvrzl499")))
+
+(define-public crate-acme-rs-0.2.0 (c (n "acme-rs") (v "0.2.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rouille") (r "^3.0.0") (d #t) (k 0)) (d (n "rpki") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1b9qqsb9b4c1gal8yyy9z962akzsg6175sh5l2vnwk08n4v6hg5q")))
+

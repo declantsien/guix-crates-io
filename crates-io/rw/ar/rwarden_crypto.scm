@@ -1,0 +1,4 @@
+(define-module (crates-io rw ar rwarden_crypto) #:use-module (crates-io))
+
+(define-public crate-rwarden_crypto-0.0.1 (c (n "rwarden_crypto") (v "0.0.1") (d (list (d (n "aes") (r "^0.7.4") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "block-modes") (r "^0.8.1") (d #t) (k 0)) (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "generic-array") (r "^0.14.4") (d #t) (k 0)) (d (n "hkdf") (r "^0.11.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "hmac") (r "^0.11.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "pbkdf2") (r "^0.8.0") (f (quote ("std"))) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "03rxyr7vlcwj144sz3jw548252kqcp4hfnmgv4s61w5w0xqfs04a")))
+

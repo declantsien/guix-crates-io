@@ -1,0 +1,4 @@
+(define-module (crates-io cl ic clicktogether) #:use-module (crates-io))
+
+(define-public crate-clicktogether-0.3.0 (c (n "clicktogether") (v "0.3.0") (d (list (d (n "clap") (r "^4.3.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-port-flag") (r "^0.4.0") (k 0)) (d (n "crossterm") (r "^0.26") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "enigo") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("rt" "rt-multi-thread" "sync" "signal" "macros"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (f (quote ("net"))) (d #t) (k 0)) (d (n "warp") (r "^0.3") (d #t) (k 0)))) (h "0n5x33hm5m983d71zpixf00bxhyyk0wg533v085rp112a9ihry86")))
+

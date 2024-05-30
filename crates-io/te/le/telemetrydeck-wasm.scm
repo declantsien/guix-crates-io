@@ -1,0 +1,8 @@
+(define-module (crates-io te le telemetrydeck-wasm) #:use-module (crates-io))
+
+(define-public crate-telemetrydeck-wasm-0.1.0 (c (n "telemetrydeck-wasm") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("wasmbind" "serde" "clock"))) (k 0)) (d (n "reqwasm") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "wasm-bindgen"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "03gyzav4m8gfvb0bi2p0fcdipmwb7k6b2z3dpzj76nimwsmvhx7d")))
+
+(define-public crate-telemetrydeck-wasm-0.1.1 (c (n "telemetrydeck-wasm") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("wasmbind" "serde" "clock"))) (k 0)) (d (n "reqwasm") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "wasm-bindgen"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "0grz7mfsx17xjbj6gxnnr8yjblkdwsmw5qc9wsq1k1zfyzpj8x4g")))
+
+(define-public crate-telemetrydeck-wasm-0.2.0 (c (n "telemetrydeck-wasm") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("wasmbind" "serde" "clock"))) (k 0)) (d (n "reqwasm") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "wasm-bindgen"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "1ri1a8qpqz1smg5xyz1gb3jzrlk7r8in32i7abgmwc4lj6ln91b9")))
+

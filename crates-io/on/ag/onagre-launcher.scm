@@ -1,0 +1,6 @@
+(define-module (crates-io on ag onagre-launcher) #:use-module (crates-io))
+
+(define-public crate-onagre-launcher-1.2.3 (c (n "onagre-launcher") (v "1.2.3") (d (list (d (n "const_format") (r "^0.2.30") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "serde_with") (r "^2.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("io-std" "io-util"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.11") (f (quote ("io-util"))) (d #t) (k 0)))) (h "18p5zk7aws2sgj8gpgpivp3wzfhcl4z0lbcgbpkgl5mnpaghvrjn")))
+
+(define-public crate-onagre-launcher-1.2.4 (c (n "onagre-launcher") (v "1.2.4") (d (list (d (n "const_format") (r "^0.2.30") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "serde_with") (r "^2.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("io-std" "io-util"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.11") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1jw6n1bv5s22ybjyhnjjj9cnn6qdxphj9nqx0r064npph7wrx99v")))
+

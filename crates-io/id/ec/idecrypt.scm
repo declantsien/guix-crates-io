@@ -1,0 +1,6 @@
+(define-module (crates-io id ec idecrypt) #:use-module (crates-io))
+
+(define-public crate-iDecrypt-0.1.1 (c (n "iDecrypt") (v "0.1.1") (d (list (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "partialzip") (r "^1.1.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "stybulate") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "199q1cgydjmypannxjh4vw5a2fb1gg1yyjhik9lhyw5hr20n37k5") (y #t)))
+
+(define-public crate-iDecrypt-0.1.2 (c (n "iDecrypt") (v "0.1.2") (d (list (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "partialzip") (r "^1.1.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "select") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "stybulate") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "05dzid96k0wy25v9a2p8mffmqgjlmwdlyfqlnrn5xngz36a46x9g")))
+

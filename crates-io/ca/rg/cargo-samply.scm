@@ -1,0 +1,18 @@
+(define-module (crates-io ca rg cargo-samply) #:use-module (crates-io))
+
+(define-public crate-cargo-samply-0.1.0 (c (n "cargo-samply") (v "0.1.0") (d (list (d (n "cargo_toml") (r "^0.17.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "03v0ci2s43xphk1zcf9hk5xv44kkj440i74h1jfabwfl3krh8jrg")))
+
+(define-public crate-cargo-samply-0.1.1 (c (n "cargo-samply") (v "0.1.1") (d (list (d (n "cargo_toml") (r "^0.17.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1k5wzw2lzw1qi5rmjnk8qn4nwsaryaz1ll45vgrydhb6rwizdkin")))
+
+(define-public crate-cargo-samply-0.1.3 (c (n "cargo-samply") (v "0.1.3") (d (list (d (n "cargo_toml") (r "^0.17.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0dbwzij4m7h813sb9jl24s1c58d7p3f1m92zrgj76d5dls449jd4")))
+
+(define-public crate-cargo-samply-0.1.4 (c (n "cargo-samply") (v "0.1.4") (d (list (d (n "cargo_toml") (r "^0.17.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1vkxklplgv7vvl3i1pkq6bxfj9xpys8r2d8q65zq7jmyvfzcgkwf")))
+
+(define-public crate-cargo-samply-0.1.5 (c (n "cargo-samply") (v "0.1.5") (d (list (d (n "cargo_toml") (r "^0.17.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0583jr6bzixb7sifhcpm66ip96qsll2ml5rjznq3z49lyjziq9jx")))
+
+(define-public crate-cargo-samply-0.1.6 (c (n "cargo-samply") (v "0.1.6") (d (list (d (n "cargo_toml") (r "^0.17.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1l7l6imrgi4rm1mlxnh3d1bpvpkf17qz5sxqskfvm9zavi10j2vd")))
+
+(define-public crate-cargo-samply-0.2.0 (c (n "cargo-samply") (v "0.2.0") (d (list (d (n "cargo_toml") (r "^0.18.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "ocli") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "trycmd") (r "^0.14.20") (d #t) (k 2)) (d (n "which") (r "^6.0.0") (f (quote ("regex"))) (d #t) (k 2)))) (h "05jv4z86xx1vv1v23pza875mq66yq8nm5iik5rsg6dbpn65j8bxf")))
+
+(define-public crate-cargo-samply-0.2.1 (c (n "cargo-samply") (v "0.2.1") (d (list (d (n "cargo_toml") (r "^0.18.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "ocli") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "trycmd") (r "^0.14.20") (d #t) (k 2)) (d (n "which") (r "^6.0.0") (f (quote ("regex"))) (d #t) (k 2)))) (h "1w07w7arc3va1dqanf6kl8gk29aal7kmm1i6mcz5n18zi9jx4rvr")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io th re three_em_smartweave) #:use-module (crates-io))
+
+(define-public crate-three_em_smartweave-0.2.0 (c (n "three_em_smartweave") (v "0.2.0") (d (list (d (n "deno_core") (r "^0.116.0") (d #t) (k 0)) (d (n "deno_crypto") (r "^0.48.0") (d #t) (k 0)) (d (n "deno_url") (r "^0.34.0") (d #t) (k 0)) (d (n "deno_web") (r "^0.65.0") (d #t) (k 0)) (d (n "deno_webidl") (r "^0.34.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "three_em_arweave") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.10.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "v8") (r "^0.38.1") (d #t) (k 0)))) (h "0y7imh281izx8rhxqjr8mfqm8705i088vaw4xqlx81l00zb47ak6")))
+

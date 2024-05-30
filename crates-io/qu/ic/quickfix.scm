@@ -1,0 +1,10 @@
+(define-module (crates-io qu ic quickfix) #:use-module (crates-io))
+
+(define-public crate-quickfix-0.1.0 (c (n "quickfix") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (o #t) (d #t) (k 0)) (d (n "quickfix-ffi") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0zq4l6px48gwf24qf5z1ny4v43rb7qdpczbch1r7n3vyah4l3yz5") (f (quote (("default" "log") ("build-with-postgres" "quickfix-ffi/build-with-postgres") ("build-with-mysql" "quickfix-ffi/build-with-mysql")))) (s 2) (e (quote (("log" "dep:log")))) (r "1.70.0")))
+
+(define-public crate-quickfix-0.1.1 (c (n "quickfix") (v "0.1.1") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (o #t) (d #t) (k 0)) (d (n "quickfix-ffi") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1y4qpxaq429qchl52na2axnwidjyaag1g531pij9ywnb7v8ww5z1") (f (quote (("default" "log") ("build-with-postgres" "quickfix-ffi/build-with-postgres") ("build-with-mysql" "quickfix-ffi/build-with-mysql")))) (s 2) (e (quote (("log" "dep:log")))) (r "1.70.0")))
+
+(define-public crate-quickfix-0.1.3 (c (n "quickfix") (v "0.1.3") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (o #t) (d #t) (k 0)) (d (n "quickfix-ffi") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "11yv85ps4vvdrgbmy1zgr8ziq5cxq1qzznmgjqycy4bgpbhvyk58") (f (quote (("default" "log") ("build-with-postgres" "quickfix-ffi/build-with-postgres") ("build-with-mysql" "quickfix-ffi/build-with-mysql")))) (s 2) (e (quote (("log" "dep:log")))) (r "1.70.0")))
+
+(define-public crate-quickfix-0.1.4 (c (n "quickfix") (v "0.1.4") (d (list (d (n "colored") (r "^2.1.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (o #t) (d #t) (k 0)) (d (n "quickfix-ffi") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "0x1bc42syicrfpk10723cpkqagccyg8y90vahckgjwgz5nxn9vfc") (f (quote (("default" "log") ("build-with-postgres" "quickfix-ffi/build-with-postgres") ("build-with-mysql" "quickfix-ffi/build-with-mysql")))) (s 2) (e (quote (("log" "dep:log")))) (r "1.70.0")))
+

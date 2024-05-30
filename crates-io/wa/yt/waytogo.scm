@@ -1,0 +1,4 @@
+(define-module (crates-io wa yt waytogo) #:use-module (crates-io))
+
+(define-public crate-waytogo-0.1.0 (c (n "waytogo") (v "0.1.0") (d (list (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "enum-as-inner") (r "^0.5") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.24") (f (quote ("uio" "socket"))) (d #t) (k 0)) (d (n "phf") (r "^0.10") (f (quote ("macros"))) (d #t) (k 0)) (d (n "smallvec") (r "^1.8") (f (quote ("const_generics" "const_new"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("net" "macros" "rt"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (d #t) (k 0)) (d (n "waytogo-macro") (r "^0.1") (d #t) (k 0)))) (h "0740b85wgwgc9as4zcbcr15qia21ipn1fk4s4y27rl7bfza929sp")))
+

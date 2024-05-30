@@ -1,0 +1,6 @@
+(define-module (crates-io fo rg forge-types) #:use-module (crates-io))
+
+(define-public crate-forge-types-0.1.0 (c (n "forge-types") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "ergo-chain-types") (r "^0.14.1") (d #t) (k 0)) (d (n "ergo-lib") (r "^0.27.1") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_with") (r "^1.11.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1fhs847b2wyxp69i4q3f2jwnswzjxy1szs4xi9msv429yl9ibyl7")))
+
+(define-public crate-forge-types-0.2.0 (c (n "forge-types") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "ergo-chain-types") (r "^0.14.1") (d #t) (k 0)) (d (n "ergo-lib") (r "^0.27.1") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_with") (r "^1.11.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "000zn203abll00gh55lspg2piaa3xiwcgfr39s1a139cwhkqks6v")))
+

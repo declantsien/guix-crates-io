@@ -1,0 +1,4 @@
+(define-module (crates-io ha x- hax-frontend-exporter) #:use-module (crates-io))
+
+(define-public crate-hax-frontend-exporter-0.1.0-pre.1 (c (n "hax-frontend-exporter") (v "0.1.0-pre.1") (d (list (d (n "extension-traits") (r "^1.0.1") (d #t) (k 0)) (d (n "hax-adt-into") (r "=0.1.0-pre.1") (d #t) (k 0)) (d (n "hax-frontend-exporter-options") (r "=0.1.0-pre.1") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.11") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("max_level_trace" "release_max_level_warn"))) (d #t) (k 0)))) (h "1qvs040m1ck3f0v2vi1n7nxi1pkdcqbrxwj09jngdfcymj4vg93w")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io pr ox proxie) #:use-module (crates-io))
+
+(define-public crate-proxie-0.0.0 (c (n "proxie") (v "0.0.0") (h "07y6n7w594s2g2j0g5ainb40kaifslfz15wqwvgcg8m47ngiwhm5")))
+
+(define-public crate-proxie-0.0.1 (c (n "proxie") (v "0.0.1") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)))) (h "0zmnk41rsaayry0bnx61ayb2jlnwx7pmdj3wa9pdlxqh7gfps9vi") (f (quote (("enable_tokio" "tokio" "async-trait") ("enable_sync") ("enable_async_std" "async-std" "futures"))))))
+
+(define-public crate-proxie-0.0.2 (c (n "proxie") (v "0.0.2") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)))) (h "05i4940bm1gabvnc8frcf9y2k484nn7g1yqnxja9yax2a6z1klxn") (f (quote (("enable_tokio" "tokio" "async-trait") ("enable_sync") ("enable_async_std" "async-std" "futures"))))))
+
+(define-public crate-proxie-0.1.0 (c (n "proxie") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)))) (h "0m8bnjr0wwjyc7sgbngkyx5ahkrh7v4nfs235bsdgcdc41g1varr") (f (quote (("enable_tokio" "tokio" "async-trait") ("enable_sync") ("enable_async_std" "async-std" "futures"))))))
+
+(define-public crate-proxie-0.1.1 (c (n "proxie") (v "0.1.1") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)))) (h "06w4f8kkkf2z3jmn3jy4idinyn3n1azh5a5r8n95l8w79q28vc7i") (f (quote (("enable_tokio" "tokio" "async-trait") ("enable_sync") ("enable_async_std" "async-std" "futures"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ge ne generic-dns-update) #:use-module (crates-io))
+
+(define-public crate-generic-dns-update-1.1.1 (c (n "generic-dns-update") (v "1.1.1") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "xml-rs") (r "^0.1") (d #t) (k 0)))) (h "1nnv2g8x0mpxgf6cwlm5vdn0blvb6s90na3qcgv2m4b55w13gr71")))
+
+(define-public crate-generic-dns-update-1.1.2 (c (n "generic-dns-update") (v "1.1.2") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "xml-rs") (r "^0.1") (d #t) (k 0)))) (h "0dw1anwy6pcram1f0l7v79drnnnl0r3hs6c6i3lkjs0nvgnjl68g")))
+
+(define-public crate-generic-dns-update-1.1.3 (c (n "generic-dns-update") (v "1.1.3") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "xml-rs") (r "^0.1") (d #t) (k 0)))) (h "0h6x383slcph5avixpmzvc8jw48ig80r9rhdig9mzb56rf0dd44l")))
+
+(define-public crate-generic-dns-update-1.1.4 (c (n "generic-dns-update") (v "1.1.4") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "num") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "xml-rs") (r "^0.1") (d #t) (k 0)))) (h "01r5sagr524p8bw4i3fd02nwhl3aj6cd8j2yk7ldnc2kl4vx0ady")))
+

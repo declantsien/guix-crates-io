@@ -1,0 +1,4 @@
+(define-module (crates-io as tr astroport-pair-transmuter) #:use-module (crates-io))
+
+(define-public crate-astroport-pair-transmuter-1.1.1 (c (n "astroport-pair-transmuter") (v "1.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "astroport") (r "^3") (d #t) (k 0)) (d (n "astroport-native-coin-registry") (r "^1") (d #t) (k 2)) (d (n "cosmwasm-schema") (r "^1.5.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.5.0") (d #t) (k 0)) (d (n "cw-multi-test") (r "^1.0.0") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^1.2.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1") (d #t) (k 0)) (d (n "cw2") (r "^1") (d #t) (k 0)) (d (n "cw20") (r "^0.15") (d #t) (k 0)) (d (n "derivative") (r "^2") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "10585lxw8agqyki01bqd8xir9h1vvn3qki81pvp49n9dhvvx353v") (f (quote (("library"))))))
+

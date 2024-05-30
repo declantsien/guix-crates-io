@@ -1,0 +1,8 @@
+(define-module (crates-io tr an transition) #:use-module (crates-io))
+
+(define-public crate-transition-0.1.0 (c (n "transition") (v "0.1.0") (d (list (d (n "blinkrs") (r "^1.0.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.0") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.9") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "1aj0grd630sivnzk0cgrpii0yggknbw5pb98fqnjjbwnjklm7167")))
+
+(define-public crate-transition-0.1.1 (c (n "transition") (v "0.1.1") (d (list (d (n "blinkrs") (r "^1.0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.0") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.9") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "1b15gdldnbxydxpwmfsqhpw0vbnm702392w65blw80hzpaqw1x53")))
+
+(define-public crate-transition-0.1.2 (c (n "transition") (v "0.1.2") (d (list (d (n "blinkrs") (r "^2.0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.5") (d #t) (k 2)))) (h "0l1qw3m42cz4k050la5hwl9q4ccrwj267zm0w8iqqgdgba73zj92")))
+

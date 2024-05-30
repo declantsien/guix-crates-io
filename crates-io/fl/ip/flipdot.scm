@@ -1,0 +1,8 @@
+(define-module (crates-io fl ip flipdot) #:use-module (crates-io))
+
+(define-public crate-flipdot-0.6.0 (c (n "flipdot") (v "0.6.0") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "flipdot-core") (r "^0.6.0") (d #t) (k 0)) (d (n "flipdot-serial") (r "^0.6.0") (d #t) (k 0)) (d (n "flipdot-testing") (r "^0.6.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 2)) (d (n "serial") (r "^0.4.0") (d #t) (k 2)) (d (n "serial-core") (r "^0.4.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.16") (d #t) (k 0)))) (h "13brwh82msw4wwv55bnga9lq6dvngbsfrwkyvnfcswcx6mr5w4ka")))
+
+(define-public crate-flipdot-0.7.0 (c (n "flipdot") (v "0.7.0") (d (list (d (n "env_logger") (r "^0.11.2") (d #t) (k 2)) (d (n "flipdot-core") (r "^0.7.0") (d #t) (k 0)) (d (n "flipdot-serial") (r "^0.7.0") (d #t) (k 0)) (d (n "flipdot-testing") (r "^0.7.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serial") (r "^0.4.0") (d #t) (k 2)) (d (n "serial-core") (r "^0.4.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "18cp27ki7shjcxp0bswr2g6i0qib9rr4g1prr09arl49qcspxw19")))
+
+(define-public crate-flipdot-0.7.1 (c (n "flipdot") (v "0.7.1") (d (list (d (n "env_logger") (r "^0.11.2") (d #t) (k 2)) (d (n "flipdot-core") (r "^0.7.1") (d #t) (k 0)) (d (n "flipdot-serial") (r "^0.7.1") (d #t) (k 0)) (d (n "flipdot-testing") (r "^0.7.1") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serial") (r "^0.4.0") (d #t) (k 2)) (d (n "serial-core") (r "^0.4.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "1xn2hlqi1w0snhlrgmpr4rp7lbkfn32y1jisrmb6qngnfgd6k1y7")))
+

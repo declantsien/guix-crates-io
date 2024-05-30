@@ -1,0 +1,4 @@
+(define-module (crates-io jo in joindoe) #:use-module (crates-io))
+
+(define-public crate-joindoe-0.1.0 (c (n "joindoe") (v "0.1.0") (d (list (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fake") (r "^2.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rust-s3") (r "^0.32") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.6") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.9") (d #t) (k 0)))) (h "0ivf5dpzyczn176f2lyskffp5wdy8vyjc5fhwqkzkvs687asigz0")))
+

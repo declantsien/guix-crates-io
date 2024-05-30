@@ -1,0 +1,12 @@
+(define-module (crates-io se du sedum) #:use-module (crates-io))
+
+(define-public crate-sedum-0.2.46 (c (n "sedum") (v "0.2.46") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "extract-frontmatter") (r "^2.1.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3.23") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0w5cv5nl1554nn19sjvv9d7pkn63rrfwa6z0sdy4hgvri60qwa85")))
+
+(define-public crate-sedum-0.2.48 (c (n "sedum") (v "0.2.48") (d (list (d (n "extract-frontmatter") (r "^2.1.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3.23") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1zi5kjm2k7r1xijldh436wd50bzljdxvkinb84qwkc2ch1ip1kpx")))
+
+(define-public crate-sedum-0.2.49 (c (n "sedum") (v "0.2.49") (d (list (d (n "epoch-converter") (r "^0.1.1") (d #t) (k 0)) (d (n "extract-frontmatter") (r "^2.1.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3.23") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0r2vraai4c52kf8wxxqs8zy20maz3ycdhq3b58km395gk0baazih")))
+
+(define-public crate-sedum-0.2.57 (c (n "sedum") (v "0.2.57") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "epoch-converter") (r "^0.1.1") (d #t) (k 0)) (d (n "extract-frontmatter") (r "^4.1.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "13mw4a68jvczr0kbikd4zdyzrnmva1sdabkz0sk501ccf3g3samg")))
+
+(define-public crate-sedum-0.2.58 (c (n "sedum") (v "0.2.58") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "epoch-converter") (r "^0.1.1") (d #t) (k 0)) (d (n "extract-frontmatter") (r "^4.1.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1h70p4flh2khx0x3f12gjf5z50saq2wmhw22s1id8k5vyiks2sj0")))
+

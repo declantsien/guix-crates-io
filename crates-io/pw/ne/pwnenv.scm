@@ -1,0 +1,4 @@
+(define-module (crates-io pw ne pwnenv) #:use-module (crates-io))
+
+(define-public crate-pwnenv-0.1.0 (c (n "pwnenv") (v "0.1.0") (d (list (d (n "bollard") (r "^0.15.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "dockerfile") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (f (quote ("executor"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mktemp") (r "^0.5.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "snafu") (r "^0.7.5") (d #t) (k 0)) (d (n "ssh-key") (r "^0.6.1") (f (quote ("ed25519"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1pbgs25h704q3g7iac5z631y021zxvhld2pdvzm8w4rpic6bq2cp")))
+

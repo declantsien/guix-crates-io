@@ -1,0 +1,6 @@
+(define-module (crates-io ar _p ar_pe_ce) #:use-module (crates-io))
+
+(define-public crate-ar_pe_ce-0.1.0 (c (n "ar_pe_ce") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "ar_pe_ce_core") (r "^0.1.0") (d #t) (k 0)) (d (n "ar_pe_ce_macro") (r "^0.1.0") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.14") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "0qxi22spp0whkaqck2flsxdid5mj73q0g6mzgr94jl635spxvx75")))
+
+(define-public crate-ar_pe_ce-0.1.1 (c (n "ar_pe_ce") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "ar_pe_ce_core") (r "^0.1.0") (d #t) (k 0)) (d (n "ar_pe_ce_macro") (r "^0.1.1") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.14") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)))) (h "1xkx1ndq3pnd215hlx42sf2b35rfadhcmhsilzvvxizv0nw2h5bg")))
+

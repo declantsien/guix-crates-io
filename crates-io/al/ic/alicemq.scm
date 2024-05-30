@@ -1,0 +1,10 @@
+(define-module (crates-io al ic alicemq) #:use-module (crates-io))
+
+(define-public crate-alicemq-0.1.0 (c (n "alicemq") (v "0.1.0") (d (list (d (n "amqprs") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "09fsa2sr38sx9g0pwzd2z2yaaki1n1p46vckppz58lk4s8min077") (y #t) (r "1.68.0")))
+
+(define-public crate-alicemq-0.1.1 (c (n "alicemq") (v "0.1.1") (d (list (d (n "amqprs") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "09ihgkgma097l8i4kg2qqsjv1x9d4ryp9jjxdmwfwwrhxa5x7pw4") (y #t) (r "1.68.0")))
+
+(define-public crate-alicemq-0.1.2 (c (n "alicemq") (v "0.1.2") (d (list (d (n "amqprs") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0cccdhs8p1cgi9mywd2awxaarcj6aam78ywqs26n68v01qvv93r1") (r "1.68.0")))
+
+(define-public crate-alicemq-0.1.3 (c (n "alicemq") (v "0.1.3") (d (list (d (n "amqprs") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0ab0xlc5gjnns42mashdxkwdld028mf30122rw37iydgmzd9akv3") (r "1.68.0")))
+

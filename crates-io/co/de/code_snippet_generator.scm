@@ -1,0 +1,18 @@
+(define-module (crates-io co de code_snippet_generator) #:use-module (crates-io))
+
+(define-public crate-code_snippet_generator-0.1.0 (c (n "code_snippet_generator") (v "0.1.0") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "0ij24m06966q1acpz7w8zbpr4x229lm9agf0gi659n9ia8in74h4") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.1 (c (n "code_snippet_generator") (v "0.1.1") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "10ircl5f230apqna6c0n2fiipz740j4x1sp6nrqdrjks03jk9sg0") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.2 (c (n "code_snippet_generator") (v "0.1.2") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "1zp80gmhx6ahbjajmxxihcqdgij8j28gag6d31pmdq8qizzahlih") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.3 (c (n "code_snippet_generator") (v "0.1.3") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "0cqzpnv5qw4cgqpmip4fw1b8cwkkqgr9p38xgcywpdankmr34kpb") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.4 (c (n "code_snippet_generator") (v "0.1.4") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "1km06riiaw2rf55k5hy6a5gs4fg1rjq4qzb9syrdcnzy22x24xsq") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.5 (c (n "code_snippet_generator") (v "0.1.5") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "1v3dal2zm5k2wvsq1pb66dbmzd05lw0d56a6sdda3xcwxc9r7wmq") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.6 (c (n "code_snippet_generator") (v "0.1.6") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "1l2cf3vh2a3gaz0v3pqpza9w5c1mdjwm4v6pjkp9pab1wrbqwvqr") (f (quote (("html"))))))
+
+(define-public crate-code_snippet_generator-0.1.7 (c (n "code_snippet_generator") (v "0.1.7") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rustfmt-wrapper") (r "^0.1.0") (d #t) (k 0)) (d (n "synoptic") (r "^1.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (d #t) (k 0)))) (h "0z93sbhxgx5k5m0kqdg2fxk5fd31jc4yxy16d6jzp5a36ldg0hci") (f (quote (("html"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ea sy easytradeview) #:use-module (crates-io))
+
+(define-public crate-easytradeview-0.1.0 (c (n "easytradeview") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.21.0") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "015jizs4vgsl3f9v34csw1i67rmdbbw56lfhpakpl2fb4w4nqzpg")))
+
+(define-public crate-easytradeview-0.2.0 (c (n "easytradeview") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1rg84jm8i49g6wihsx2vd81n0dzlm2isnz8zhyd4k256q1phq68w")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io sc ho schoolsoft) #:use-module (crates-io))
+
+(define-public crate-schoolsoft-1.0.0-alpha.0 (c (n "schoolsoft") (v "1.0.0-alpha.0") (d (list (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "08lpr2zmlzhjz82na7hm4rzrpabwpa242bnyzmhwp7fb3jlj81ad")))
+
+(define-public crate-schoolsoft-1.0.0-alpha.1 (c (n "schoolsoft") (v "1.0.0-alpha.1") (d (list (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0i64fga51lwk8ybbbnijr7yz20wycxk0758i8l6dpfprvs9nv38d")))
+

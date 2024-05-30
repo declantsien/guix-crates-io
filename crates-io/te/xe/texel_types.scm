@@ -1,0 +1,16 @@
+(define-module (crates-io te xe texel_types) #:use-module (crates-io))
+
+(define-public crate-texel_types-1.0.0 (c (n "texel_types") (v "1.0.0") (d (list (d (n "big_enum_set") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.15.1") (o #t) (d #t) (k 0)))) (h "1mawfbq1wk3fpb31xpvsp5gc93f1919rphfs11lm3sazdjxmrc6l") (f (quote (("serde_support" "serde" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs"))))))
+
+(define-public crate-texel_types-1.0.1 (c (n "texel_types") (v "1.0.1") (d (list (d (n "big_enum_set") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.15.1") (o #t) (d #t) (k 0)))) (h "1rr0sfmjqaksnsfldwfkrk3dbf7by5s6ayr5b420ylg9mjk6bgd3") (f (quote (("serde_support" "serde" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs"))))))
+
+(define-public crate-texel_types-1.1.0 (c (n "texel_types") (v "1.1.0") (d (list (d (n "big_enum_set") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.15.1") (o #t) (d #t) (k 0)))) (h "0w322q85n2aday4wq9r9n7vcasrv87v5xh6rk400qfq1a08rwc4p") (f (quote (("serde_support" "serde" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs"))))))
+
+(define-public crate-texel_types-2.0.0 (c (n "texel_types") (v "2.0.0") (d (list (d (n "big_enum_set") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.116") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.16.1") (o #t) (d #t) (k 0)))) (h "00sd6vb2xnb1b0gkjb7nh492bfvi7lf1pvb8qnqzlc6pvxbabgqj") (f (quote (("serde_support" "serde/derive" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs"))))))
+
+(define-public crate-texel_types-2.0.1 (c (n "texel_types") (v "2.0.1") (d (list (d (n "big_enum_set") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.17") (o #t) (d #t) (k 0)))) (h "10hfgdvlih6p9n12r30506wfas3v5ijjhsvjwf1a03qjz2pjrib5") (f (quote (("serde_support" "serde/derive" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs"))))))
+
+(define-public crate-texel_types-2.0.2 (c (n "texel_types") (v "2.0.2") (d (list (d (n "big_enum_set") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.18") (o #t) (d #t) (k 0)))) (h "1pb5ff91zibzg5ps2ck8z1gb5clvkd5b6vjpf6gzqpws726zsrq0") (f (quote (("serde_support" "serde/derive" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs")))) (r "1.59")))
+
+(define-public crate-texel_types-2.0.3 (c (n "texel_types") (v "2.0.3") (d (list (d (n "big_enum_set") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "specs") (r "^0.20") (o #t) (d #t) (k 0)))) (h "1jbz596n5d1wbmwcdqyjhlcy10zzd6fj6lwcvf31z8216wqpy1a9") (f (quote (("serde_support" "serde/derive" "serde_derive" "big_enum_set/serde") ("ecs_specs" "specs")))) (r "1.59")))
+

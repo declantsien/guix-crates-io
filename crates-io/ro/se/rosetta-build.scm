@@ -1,0 +1,10 @@
+(define-module (crates-io ro se rosetta-build) #:use-module (crates-io))
+
+(define-public crate-rosetta-build-0.1.0 (c (n "rosetta-build") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tinyjson") (r "^2") (d #t) (k 0)))) (h "0zjhrxp2nyij1y3zrzjhys7dn42x94lfxfpjgj7zmz27f72fsha3") (f (quote (("rustfmt") ("default" "rustfmt"))))))
+
+(define-public crate-rosetta-build-0.1.1 (c (n "rosetta-build") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tinyjson") (r "^2") (d #t) (k 0)))) (h "1zqhpiijprpapnxgha9x4wi99wz3sld0hsqfzdp2d417y7q8qh7w") (f (quote (("rustfmt") ("default" "rustfmt"))))))
+
+(define-public crate-rosetta-build-0.1.2 (c (n "rosetta-build") (v "0.1.2") (d (list (d (n "convert_case") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tinyjson") (r "^2") (d #t) (k 0)))) (h "1ws3k7fmq3lbr6zv2fkkpi1iq2ff0lyj31yw607y5ghr7y5pnsbg") (f (quote (("rustfmt") ("default" "rustfmt"))))))
+
+(define-public crate-rosetta-build-0.1.3 (c (n "rosetta-build") (v "0.1.3") (d (list (d (n "convert_case") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tinyjson") (r "^2") (d #t) (k 0)))) (h "1zj9jxqxvy7x999mhwadg85fgg1yq3sncqw1kzcabrvsxlgil694") (f (quote (("rustfmt") ("default" "rustfmt"))))))
+

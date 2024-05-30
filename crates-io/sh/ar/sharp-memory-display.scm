@@ -1,0 +1,10 @@
+(define-module (crates-io sh ar sharp-memory-display) #:use-module (crates-io))
+
+(define-public crate-sharp-memory-display-0.1.0 (c (n "sharp-memory-display") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0.1") (k 0)) (d (n "defmt") (r "^0.3.0") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)))) (h "0f9fj5c51w2cpna51viy2vbbxvqwyfxb3gfps3dv4wznld929a4a") (f (quote (("ls027b7dh01") ("ls013b7dh05") ("ls012b7dd06") ("ls010b7dh04") ("default" "ls027b7dh01"))))))
+
+(define-public crate-sharp-memory-display-0.1.1 (c (n "sharp-memory-display") (v "0.1.1") (d (list (d (n "bitvec") (r "^1.0.1") (k 0)) (d (n "defmt") (r "^0.3.0") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)))) (h "09xdmf4md7lsxnak6k5h095y5bgvwh24wxw94a8466hqd38jlp82") (f (quote (("ls027b7dh01") ("ls013b7dh05") ("ls012b7dd06") ("ls010b7dh04") ("default" "ls027b7dh01"))))))
+
+(define-public crate-sharp-memory-display-0.2.0 (c (n "sharp-memory-display") (v "0.2.0") (d (list (d (n "bitvec") (r "^1.0.1") (k 0)) (d (n "defmt") (r "^0.3.0") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)))) (h "1y72yp272x64a9rghbfafyw0qx8fnga7bnskmckndc25fsfzvinb") (f (quote (("ls027b7dh01") ("ls013b7dh05") ("ls012b7dd06") ("ls010b7dh04") ("default" "ls027b7dh01"))))))
+
+(define-public crate-sharp-memory-display-0.3.0 (c (n "sharp-memory-display") (v "0.3.0") (d (list (d (n "bitvec") (r "^1.0.1") (k 0)) (d (n "defmt") (r "^0.3.0") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)))) (h "09wcx310jg2gkkcws2d293nlncaad58bgg5mzkk2222nmv3k0x6f") (f (quote (("ls027b7dh01") ("ls013b7dh05") ("ls012b7dd06") ("ls011b7dh03") ("ls010b7dh04") ("default" "ls027b7dh01"))))))
+

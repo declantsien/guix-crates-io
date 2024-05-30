@@ -1,0 +1,8 @@
+(define-module (crates-io po ly polyglot) #:use-module (crates-io))
+
+(define-public crate-polyglot-0.1.0 (c (n "polyglot") (v "0.1.0") (d (list (d (n "rmp-serde") (r "^0.14.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.46") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "1r64y8pi709hc92rywdkgdd7bzd7635xd7gxqc5ly49kn6cwani9") (f (quote (("toml_fmt" "toml") ("msgpack_fmt" "rmp-serde") ("json_fmt" "serde_json") ("default"))))))
+
+(define-public crate-polyglot-0.2.0 (c (n "polyglot") (v "0.2.0") (d (list (d (n "rmp-serde") (r "^0.14.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.46") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "02w4ypvw8araz3k73d2crl24kbx79cnfymiz16il03l5a5ik7958") (f (quote (("yaml_fmt" "serde_yaml") ("toml_fmt" "toml") ("msgpack_fmt" "rmp-serde") ("json_fmt" "serde_json") ("default"))))))
+
+(define-public crate-polyglot-0.2.1 (c (n "polyglot") (v "0.2.1") (d (list (d (n "rmp-serde") (r "^0.14.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.46") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "08dzmjb8s8bs03g73kxhks8sxmr13q8lhdp49xddcar7a4pqfvrk") (f (quote (("yaml_fmt" "serde_yaml") ("toml_fmt" "toml") ("msgpack_fmt" "rmp-serde") ("json_fmt" "serde_json") ("default"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io bu rn burnish) #:use-module (crates-io))
+
+(define-public crate-burnish-0.1.0 (c (n "burnish") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.10") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "rusoto_autoscaling") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_cloudwatch") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_ec2") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_elb") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_s3") (r "^0.42.0") (d #t) (k 0)) (d (n "timeago") (r "^0.2.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.3") (d #t) (k 0)))) (h "0c9a8v4vp15lbajy9sb7xhf83pzfhvg5ddbfix34xzv0jglhcilv")))
+

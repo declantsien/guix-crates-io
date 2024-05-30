@@ -1,0 +1,30 @@
+(define-module (crates-io be vy bevy_eventlistener) #:use-module (crates-io))
+
+(define-public crate-bevy_eventlistener-0.1.0 (c (n "bevy_eventlistener") (v "0.1.0") (d (list (d (n "bevy") (r "^0.10") (k 2)) (d (n "bevy_eventlistener_core") (r "^0.1") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "08plvzl8wbbzyvsai5fvrq4qnjn3zmlry86z3wmwgwwq0d8m7gmi")))
+
+(define-public crate-bevy_eventlistener-0.1.1 (c (n "bevy_eventlistener") (v "0.1.1") (d (list (d (n "bevy") (r "^0.10") (k 2)) (d (n "bevy_eventlistener_core") (r "^0.1.1") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1brwcacl5s3m5xbm0048q5yyzzsb0g440s7m8y9iax3svrl4alxc")))
+
+(define-public crate-bevy_eventlistener-0.2.0 (c (n "bevy_eventlistener") (v "0.2.0") (d (list (d (n "bevy") (r "^0.10") (k 2)) (d (n "bevy_eventlistener_core") (r "^0.2") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1dbhvivgqiijcl57m87zz0yfx1bwlsdm2bbhpmxvfqlrz6bccf2p")))
+
+(define-public crate-bevy_eventlistener-0.2.1 (c (n "bevy_eventlistener") (v "0.2.1") (d (list (d (n "bevy") (r "^0.10") (k 2)) (d (n "bevy_eventlistener_core") (r "^0.2.1") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.2.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1kbvipp6xk7h9scgf6kqfb07nhjrdphv5f0ndwcbvbgh8w6k8pij")))
+
+(define-public crate-bevy_eventlistener-0.2.2 (c (n "bevy_eventlistener") (v "0.2.2") (d (list (d (n "bevy") (r "^0.10") (k 2)) (d (n "bevy_eventlistener_core") (r "^0.2.2") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.2.2") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1isllnymg2lj4svn647qbwcbhxy48d2ia0h6naklnfzm8xz7ry8f")))
+
+(define-public crate-bevy_eventlistener-0.3.0 (c (n "bevy_eventlistener") (v "0.3.0") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.3.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0zgp4h1x6g5y54dwh8ldwrg0jkb0rl1xdi8pkgw84w9cbad74gr3")))
+
+(define-public crate-bevy_eventlistener-0.4.0 (c (n "bevy_eventlistener") (v "0.4.0") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.4.0") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.4.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0j8vdq3a4jdcrzc418fgml0vjxlck2g1dg6alpyvf95wjw4zisg1")))
+
+(define-public crate-bevy_eventlistener-0.4.1 (c (n "bevy_eventlistener") (v "0.4.1") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.4.1") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.4.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "19h10p98hp18cj8r569ka2nynmr3psrpbl3707syznhm4h0w106v")))
+
+(define-public crate-bevy_eventlistener-0.5.0 (c (n "bevy_eventlistener") (v "0.5.0") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.5.0") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1ndm1ml2w61x4zvn06f1nyqrhcrz0jxxhhg30jnzyiylx0m6k1i2")))
+
+(define-public crate-bevy_eventlistener-0.5.1 (c (n "bevy_eventlistener") (v "0.5.1") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.5.1") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.5.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0ws0g6vlpn6b8k51a718h7jlq7a69kljqxck4yyb2xayxrmrs20b")))
+
+(define-public crate-bevy_eventlistener-0.6.0 (c (n "bevy_eventlistener") (v "0.6.0") (d (list (d (n "bevy") (r "^0.12") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.6.0") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.6.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0dy4mj0h18hb682526f9ckcyk7zbj9w02wjy9nadpf1cp6v9mv41")))
+
+(define-public crate-bevy_eventlistener-0.6.1 (c (n "bevy_eventlistener") (v "0.6.1") (d (list (d (n "bevy") (r "^0.12") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.6.1") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.6.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1c690a9y7hr2xwngb48s2554hskv1y3rj7di3r8fhwixvxfy53nv")))
+
+(define-public crate-bevy_eventlistener-0.6.2 (c (n "bevy_eventlistener") (v "0.6.2") (d (list (d (n "bevy") (r "^0.12") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_eventlistener_core") (r "^0.6.2") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.6.2") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1q17idsf3h0hmwg22jm5daa554apvzp3y6jkv22im1fm6xifql5f")))
+
+(define-public crate-bevy_eventlistener-0.7.0 (c (n "bevy_eventlistener") (v "0.7.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "bevy_app") (r "^0.13") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.13") (d #t) (k 0)) (d (n "bevy_eventlistener_derive") (r "^0.7.0") (d #t) (k 0)) (d (n "bevy_hierarchy") (r "^0.13") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.13") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1l2bx86nxrcmmzg68xbjnxghr48kahn31968rp51h67qnismrmnr")))
+

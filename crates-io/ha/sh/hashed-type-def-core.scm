@@ -1,0 +1,10 @@
+(define-module (crates-io ha sh hashed-type-def-core) #:use-module (crates-io))
+
+(define-public crate-hashed-type-def-core-0.0.0 (c (n "hashed-type-def-core") (v "0.0.0") (h "0lbq5jss3bqk6kmzjk2vz0j1m9rk0g8298yvkab38iq8i0qvzcvl") (y #t)))
+
+(define-public crate-hashed-type-def-core-0.1.0 (c (n "hashed-type-def-core") (v "0.1.0") (d (list (d (n "hashed-type-def-procmacro") (r "^0.1.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.3") (o #t) (d #t) (k 0)) (d (n "rend") (r "^0.4.2") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "1ydqkbramdjq7crvd0slsdcapi7rlr3nv6ph0d7r5xqjvyli8gi6") (f (quote (("verbose4" "verbose3") ("verbose3" "verbose2") ("verbose2" "verbose1") ("verbose1") ("impl_rend" "rend") ("impl_nalgebra_sparse" "impl_nalgebra" "nalgebra/sparse") ("impl_nalgebra" "nalgebra") ("default" "verbose4"))))))
+
+(define-public crate-hashed-type-def-core-0.1.1 (c (n "hashed-type-def-core") (v "0.1.1") (d (list (d (n "hashed-type-def-procmacro") (r "^0.1.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.4") (o #t) (d #t) (k 0)) (d (n "rend") (r "^0.4.2") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "04nf8bvgr2dhcbrbx6kd0nyy32spzbd0h5mr9v2x5d2ynyhkp265") (f (quote (("verbose4" "verbose3") ("verbose3" "verbose2") ("verbose2" "verbose1") ("verbose1") ("impl_rend" "rend") ("impl_nalgebra_sparse" "impl_nalgebra" "nalgebra/sparse") ("impl_nalgebra" "nalgebra") ("default" "verbose4"))))))
+
+(define-public crate-hashed-type-def-core-0.1.2 (c (n "hashed-type-def-core") (v "0.1.2") (d (list (d (n "hashed-type-def-procmacro") (r "^0.1.2") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.4") (o #t) (d #t) (k 0)) (d (n "rend") (r "^0.4.2") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (d #t) (k 0)))) (h "1917sw26l7mh7p0fg9bfdsfpw34j84x947jaxvy5y2vwgfvdrdfb") (f (quote (("verbose4" "verbose3") ("verbose3" "verbose2") ("verbose2" "verbose1") ("verbose1") ("impl_rend" "rend") ("impl_nalgebra_sparse" "impl_nalgebra" "nalgebra/sparse") ("impl_nalgebra" "nalgebra") ("default" "verbose4"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io li ll lillinput-cli) #:use-module (crates-io))
+
+(define-public crate-lillinput-cli-0.3.0 (c (n "lillinput-cli") (v "0.3.0") (d (list (d (n "clap") (r "~3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "~1.0.1") (d #t) (k 0)) (d (n "config") (r "~0.13.2") (d #t) (k 0)) (d (n "i3ipc") (r "~0.10") (d #t) (k 0)) (d (n "lillinput") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.17") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "~1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serial_test") (r "~0.9.0") (d #t) (k 2)) (d (n "simplelog") (r "~0.12.0") (d #t) (k 0)) (d (n "strum") (r "~0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "~0.24") (d #t) (k 0)) (d (n "tempfile") (r "~3.3") (d #t) (k 2)) (d (n "xdg") (r "~2.4") (d #t) (k 0)))) (h "12xdwincnwzjqlyrd3ff2rbaw7xkl36qlywfgihsqyfvpdzbrvrd")))
+

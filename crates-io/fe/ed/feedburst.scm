@@ -1,0 +1,8 @@
+(define-module (crates-io fe ed feedburst) #:use-module (crates-io))
+
+(define-public crate-feedburst-0.3.0 (c (n "feedburst") (v "0.3.0") (d (list (d (n "app_dirs") (r "^1.1.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.25") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "open") (r "^1.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.7") (d #t) (k 0)) (d (n "syndication") (r "^0.4") (d #t) (k 0)) (d (n "xdg") (r "^2.1") (d #t) (k 0)))) (h "0jx1nkil1qg9chsr6y9a4fx8gpxzx5sk8g40viv4v7vbdvr817y6")))
+
+(define-public crate-feedburst-0.4.0 (c (n "feedburst") (v "0.4.0") (d (list (d (n "app_dirs") (r "^1.1.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.25") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.7") (d #t) (k 0)) (d (n "syndication") (r "^0.4") (d #t) (k 0)) (d (n "xdg") (r "^2.1") (d #t) (k 0)))) (h "1632pr3hpzgdxk6ab2l00jdvlziwcx4wn5ybs212d0q0mj8v73rd")))
+
+(define-public crate-feedburst-0.4.1 (c (n "feedburst") (v "0.4.1") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.25") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.7") (d #t) (k 0)) (d (n "syndication") (r "^0.4") (d #t) (k 0)) (d (n "xdg") (r "^2.1") (d #t) (k 0)))) (h "1xfpkrsfpxjdvqhl6mscq7b5rzgfg6m67wm8amgj180y9zppfl97")))
+

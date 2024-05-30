@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rustworks) #:use-module (crates-io))
+
+(define-public crate-rustworks-0.0.1 (c (n "rustworks") (v "0.0.1") (d (list (d (n "cortex-m") (r "^0.6") (d #t) (k 0)) (d (n "cortex-m-rtic") (r "^0.5") (d #t) (k 0)) (d (n "display-interface-parallel-gpio") (r "^0.6") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.6") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "embedded-text") (r "^0.4") (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "panic-halt") (r "^0.2") (d #t) (k 0)) (d (n "rtt-target") (r "^0.3") (f (quote ("cortex-m"))) (d #t) (k 0)) (d (n "st7789") (r "^0.5") (f (quote ("batch"))) (d #t) (k 0)) (d (n "stm32f7xx-hal") (r "^0.3") (f (quote ("stm32f730" "rt"))) (d #t) (k 0)))) (h "065xq0d5h3b2a57nyy8qgrnq5i513ahsc2hdbgg2lcbakci226xw")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io st ri stripe-rust-fgribreau) #:use-module (crates-io))
+
+(define-public crate-stripe-rust-fgribreau-0.4.5 (c (n "stripe-rust-fgribreau") (v "0.4.5") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hmac") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.5") (d #t) (k 0)))) (h "1v5ikvjylxhnjv58x9pqdfsvv5xq9p9jvlq49vbp3nsmlijrj2pj") (f (quote (("with-rustls" "hyper-rustls") ("with-openssl" "hyper-openssl") ("default" "with-rustls"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io to ta total-space) #:use-module (crates-io))
+
+(define-public crate-total-space-0.1.0 (c (n "total-space") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "escargot") (r "^0.5.2") (d #t) (k 2)) (d (n "hashbrown") (r "^0.11.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.8") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0.0") (d #t) (k 0)) (d (n "string_cache") (r "^0.8.1") (d #t) (k 0)) (d (n "strum") (r "^0.20.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.20.0") (d #t) (k 0)))) (h "0y8hz9r5ircfkmqqpnfvcha9fb3cc7yh1hq8xwd1vlmynnvhdcka") (y #t)))
+
+(define-public crate-total-space-0.1.1 (c (n "total-space") (v "0.1.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "escargot") (r "^0.5.2") (d #t) (k 2)) (d (n "hashbrown") (r "^0.11.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.8") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0.0") (d #t) (k 0)) (d (n "string_cache") (r "^0.8.1") (d #t) (k 0)) (d (n "strum") (r "^0.20.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.20.0") (d #t) (k 0)))) (h "0q3rmr7wmzbgjg2dn42wmiffp6757a73843danzjk4flq6zvwp92")))
+

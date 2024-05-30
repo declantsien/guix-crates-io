@@ -1,0 +1,4 @@
+(define-module (crates-io pr e- pre-rfc3243-libtw2-net) #:use-module (crates-io))
+
+(define-public crate-pre-rfc3243-libtw2-net-0.1.0 (c (n "pre-rfc3243-libtw2-net") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5.2") (d #t) (k 0)) (d (n "buffer") (r "^0.1.9") (d #t) (k 0)) (d (n "hexdump") (r "^0.1.1") (d #t) (k 2)) (d (n "itertools") (r ">=0.3.0, <0.5.0") (d #t) (k 2)) (d (n "linear-map") (r "^1.0.0") (d #t) (k 0)) (d (n "optional") (r "^0.0.12") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-common") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-huffman") (r "^0.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.4.1") (d #t) (k 2)) (d (n "void") (r ">=0.0.4, <2.0.0") (d #t) (k 0)) (d (n "warn") (r ">=0.1.1, <0.3.0") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (d #t) (k 0)) (d (n "zerocopy-derive") (r "^0.7.32") (d #t) (k 0)))) (h "1nc80xx7ksxijiw9d6nl2rcjm2y9hhmlakcmcjgyrski8557fxnx")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ey el eyelid-match-ops) #:use-module (crates-io))
+
+(define-public crate-eyelid-match-ops-0.0.0 (c (n "eyelid-match-ops") (v "0.0.0") (d (list (d (n "ark-ff") (r "^0.4.2") (d #t) (k 0)) (d (n "ark-poly") (r "^0.4.2") (d #t) (k 0)) (d (n "ark-std") (r "^0.4.0") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("cargo_bench_support" "rayon"))) (o #t) (k 0)) (d (n "eyelid-test") (r "^0.0.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)))) (h "0fkc197200i83vi9vdljjhcpy0f2r7qk9vqc9fafy5zrg22mp6g4") (f (quote (("benchmark" "criterion" "rand"))))))
+

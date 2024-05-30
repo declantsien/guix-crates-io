@@ -1,0 +1,6 @@
+(define-module (crates-io gb ac gbackup-rs) #:use-module (crates-io))
+
+(define-public crate-gbackup-rs-0.1.0 (c (n "gbackup-rs") (v "0.1.0") (d (list (d (n "clap") (r "^2.27.1") (d #t) (k 0)) (d (n "imap") (r "^2.3.0") (d #t) (k 0)) (d (n "native-tls") (r "^0.2.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.24.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1l74a9ack1zbhizjlf36rvjd4wr6ksq1is6ndbigivppnc9087v2")))
+
+(define-public crate-gbackup-rs-0.2.0 (c (n "gbackup-rs") (v "0.2.0") (d (list (d (n "chrono") (r ">=0.4.19, <0.5.0") (d #t) (k 0)) (d (n "clap") (r ">=2.27.1, <3.0.0") (d #t) (k 0)) (d (n "imap") (r ">=2.3.0, <3.0.0") (d #t) (k 0)) (d (n "mailparse") (r ">=0.13.0, <0.14.0") (d #t) (k 0)) (d (n "native-tls") (r ">=0.2.4, <0.3.0") (d #t) (k 0)) (d (n "rusqlite") (r ">=0.24.0, <0.25.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.0, <2.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "threadpool") (r ">=1.8.1, <2.0.0") (d #t) (k 0)) (d (n "toml") (r ">=0.5.6, <0.6.0") (d #t) (k 0)))) (h "0z26rwhvgwdckmcy7q46077vpk1azbnjh15qlcbydf1ky3lwychi")))
+

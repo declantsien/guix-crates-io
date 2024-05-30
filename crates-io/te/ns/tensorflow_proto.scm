@@ -1,0 +1,8 @@
+(define-module (crates-io te ns tensorflow_proto) #:use-module (crates-io))
+
+(define-public crate-tensorflow_proto-0.1.0 (c (n "tensorflow_proto") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "protobuf") (r "^2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 1)))) (h "1ckk4a5ifcp0h0zzfs97j0wn6dhm3niv5lz8ycx39fspcd452z3a")))
+
+(define-public crate-tensorflow_proto-0.2.0 (c (n "tensorflow_proto") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "17w2apbmlhl8jxcq1n73sg8xzrh1zz5c0m00yy5wamycfa3n4fzi")))
+
+(define-public crate-tensorflow_proto-0.3.0 (c (n "tensorflow_proto") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 2)) (d (n "tensorflow_proto_derive") (r "^0.1.0") (o #t) (d #t) (k 0)))) (h "012dzmhvg5rvwclpyrvg49zdihzj3qk6f6m7crsarrv6rl4gim34") (f (quote (("serde-derive" "serde" "tensorflow_proto_derive/serde") ("convert" "tensorflow_proto_derive/convert"))))))
+

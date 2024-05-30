@@ -1,0 +1,10 @@
+(define-module (crates-io pi be pibench-parser) #:use-module (crates-io))
+
+(define-public crate-pibench-parser-0.1.1 (c (n "pibench-parser") (v "0.1.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "18y1mqgx06z7l9vj43130qdxg72zzsp4qdyfqr0fjv8pfqaasrjd")))
+
+(define-public crate-pibench-parser-0.1.2 (c (n "pibench-parser") (v "0.1.2") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)))) (h "1d2fkj4nd8n57pwca5lbd458pyb0yd5r0lb91bimkpzdq0k8wzdd")))
+
+(define-public crate-pibench-parser-0.1.6 (c (n "pibench-parser") (v "0.1.6") (d (list (d (n "console_error_panic_hook") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("console"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0vx5xbdp5rgw1kqi8bw8j244x052hi8j0dfyibvn0pyf21advzzd")))
+
+(define-public crate-pibench-parser-0.1.7 (c (n "pibench-parser") (v "0.1.7") (d (list (d (n "console_error_panic_hook") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("console"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1xda8qd4vbhfkrnwr4q21v4ar1crv7njkb5dkvqvd7qb2lfxnl27")))
+

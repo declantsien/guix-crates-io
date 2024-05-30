@@ -1,0 +1,8 @@
+(define-module (crates-io sa pp sapphire-hash) #:use-module (crates-io))
+
+(define-public crate-sapphire-hash-0.1.0 (c (n "sapphire-hash") (v "0.1.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "sapphire-hash-core") (r "^0.1.0") (d #t) (k 0)) (d (n "spinoff") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "1spf9czpl2qnkn23rgz2j5mih3nbn260wpbrx53964rg2jw74hgm")))
+
+(define-public crate-sapphire-hash-0.1.1 (c (n "sapphire-hash") (v "0.1.1") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "sapphire-hash-core") (r "^0.1.0") (d #t) (k 0)) (d (n "spinoff") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "043dqqkbsq1w680s79lb2yrpv6kll4fl99caj3m2nqbghbrjw0pd")))
+
+(define-public crate-sapphire-hash-0.1.2 (c (n "sapphire-hash") (v "0.1.2") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "sapphire-hash-core") (r "^0.1.0") (d #t) (k 0)) (d (n "spinoff") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "1pqpvch4riyikhg7zylrkv5l1n3zki7fqdhxgvx8jslppx9zpb63")))
+

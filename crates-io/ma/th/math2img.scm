@@ -1,0 +1,22 @@
+(define-module (crates-io ma th math2img) #:use-module (crates-io))
+
+(define-public crate-math2img-0.1.0 (c (n "math2img") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^0.1.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "0yjdj0c2pw9w5ql1gqwfp02fs52nlyrkxw1zcpf3xvv759a4a771")))
+
+(define-public crate-math2img-0.1.1 (c (n "math2img") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^0.1.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "1p0prz4yrspx0pl064rjpxnh1591bdj28iq906wa16wz39amvqrd")))
+
+(define-public crate-math2img-0.1.2 (c (n "math2img") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^0.1.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "1i44bk98wrwl89srv45rs6dm0rqgh1c7vsq6sr2hqcdmr8czwyqk")))
+
+(define-public crate-math2img-0.1.3 (c (n "math2img") (v "0.1.3") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^1.0.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "06qi79wnr19g8w1qc8qjx65av2yjg1i97h8i23a3b6lg8d0ir6bf")))
+
+(define-public crate-math2img-0.1.4 (c (n "math2img") (v "0.1.4") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^1.0.1") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "1fsw5ps5ja7bbd63jcj3z6xs05bnmlgvxx9brli0dl7ja91wx8ms")))
+
+(define-public crate-math2img-0.1.5 (c (n "math2img") (v "0.1.5") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^2.0.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "0c2awq5skx0vriz89svijn3x0p60dzc90r9r1xb25px2w223va81")))
+
+(define-public crate-math2img-0.1.6 (c (n "math2img") (v "0.1.6") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^2.0.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "1iwh2cddl265zhii7y3c20dcvvk5ggvs1jd38djmcpja9wiqz56m")))
+
+(define-public crate-math2img-0.1.7 (c (n "math2img") (v "0.1.7") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^3.0.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "103jb7pfbrdbxrl8dg4h552gsxxwpcfyp1dihin3nak0ayqsnr04")))
+
+(define-public crate-math2img-0.1.8 (c (n "math2img") (v "0.1.8") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^3.1.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "1wzkni51h230xsjlvn55284kqgckyaspgdzpr9ld0afdyyd7rlld")))
+
+(define-public crate-math2img-0.1.9 (c (n "math2img") (v "0.1.9") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.4") (d #t) (k 0)) (d (n "mathjax_svg") (r "^3.1.2") (d #t) (k 0)) (d (n "resvg") (r "^0.37.0") (d #t) (k 0)) (d (n "rustyline") (r "^13.0.0") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.2") (d #t) (k 0)))) (h "1krk9h37gywncv1vff0awdbnpkzdpbj12n7681vpy47kd78xy8pa")))
+

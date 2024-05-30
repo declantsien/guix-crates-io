@@ -1,0 +1,4 @@
+(define-module (crates-io ts -b ts-bookkeeping) #:use-module (crates-io))
+
+(define-public crate-ts-bookkeeping-0.1.0 (c (n "ts-bookkeeping") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "heck") (r "^0.3") (d #t) (k 1)) (d (n "itertools") (r "^0.10") (d #t) (k 1)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slog") (r "^2") (d #t) (k 0)) (d (n "slog-term") (r "^2") (d #t) (k 2)) (d (n "t4rust-derive") (r "^0.3") (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.2.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tsproto-packets") (r "^0.1") (d #t) (k 0)) (d (n "tsproto-structs") (r "^0.2") (d #t) (k 1)) (d (n "tsproto-types") (r "^0.1") (d #t) (k 0)))) (h "0smp4biw1isnaqigms8bij291zmrwrdmmy7blyk6z158p8i1x7y8")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io rj #{-i}# rj-init) #:use-module (crates-io))
+
+(define-public crate-rj-init-0.1.0 (c (n "rj-init") (v "0.1.0") (d (list (d (n "app_dirs") (r "^1.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.12") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "j4rs") (r "^0.10.0") (d #t) (k 0)) (d (n "java-locator") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.22") (f (quote ("rustls-tls"))) (k 0)) (d (n "tar") (r "^0.4.26") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1n64l1bpdwik81q0yblrxzlq0vaj504z512waf7i9hnw1sij6284")))
+
+(define-public crate-rj-init-0.1.1 (c (n "rj-init") (v "0.1.1") (d (list (d (n "app_dirs") (r "^1.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.12") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "j4rs") (r "^0.10.0") (d #t) (k 0)) (d (n "java-locator") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.22") (f (quote ("rustls-tls"))) (k 0)) (d (n "tar") (r "^0.4.26") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1yhbq64ggj2ayyb4b4dm0mkmsxi41phi1wazwm14nbglla6m4pg3")))
+

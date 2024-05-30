@@ -1,0 +1,8 @@
+(define-module (crates-io cl i- cli-grep) #:use-module (crates-io))
+
+(define-public crate-cli-grep-0.1.0 (c (n "cli-grep") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^0.10.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "indicatif") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "predicates") (r "^1.0.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "08r2k6a8qvk5z3z38mdpd9qgqdrjdzbp4l2fqjdv9sg483pwqyx0")))
+
+(define-public crate-cli-grep-0.1.1 (c (n "cli-grep") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^0.10.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "indicatif") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "predicates") (r "^1.0.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "15l62llyrbjsx0mrlph4h4gmials07wsggyrnlfqg717gariczd2")))
+
+(define-public crate-cli-grep-0.1.2 (c (n "cli-grep") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^0.10.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "indicatif") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "predicates") (r "^1.0.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "05m54bk6y0g9a168wb6azbmvadqpc5ncqyrpch58a3g0phr7qncz")))
+

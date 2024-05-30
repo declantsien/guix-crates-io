@@ -1,0 +1,6 @@
+(define-module (crates-io pr e- pre-rfc3243-libtw2-gamenet-teeworlds-0-7) #:use-module (crates-io))
+
+(define-public crate-pre-rfc3243-libtw2-gamenet-teeworlds-0-7-0.1.0 (c (n "pre-rfc3243-libtw2-gamenet-teeworlds-0-7") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5.2") (d #t) (k 0)) (d (n "buffer") (r "^0.1.9") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-common") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-common") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-packer") (r "^0.1") (f (quote ("uuid"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)) (d (n "warn") (r ">=0.1.1, <0.3.0") (d #t) (k 0)))) (h "02x76h0nkfgz2djv9zn4g5lnaip8fvwfhfglhysnc36fzn9cgl9j")))
+
+(define-public crate-pre-rfc3243-libtw2-gamenet-teeworlds-0-7-0.1.1 (c (n "pre-rfc3243-libtw2-gamenet-teeworlds-0-7") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.5.2") (d #t) (k 0)) (d (n "buffer") (r "^0.1.9") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-common") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-common") (r "^0.1.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-snap") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-packer") (r "^0.1") (f (quote ("uuid"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)) (d (n "warn") (r ">=0.1.1, <0.3.0") (d #t) (k 0)))) (h "0jll3b518cxjmcrfzk72x5vi26adn2281sdm02xw7nxfgk9pliaf")))
+

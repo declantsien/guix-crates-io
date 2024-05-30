@@ -1,0 +1,20 @@
+(define-module (crates-io gi ta gitall) #:use-module (crates-io))
+
+(define-public crate-gitall-0.1.0 (c (n "gitall") (v "0.1.0") (d (list (d (n "clap") (r "~2.32.0") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.9.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "00v3h0zsbg28m803jzaa8jrhbp7kldz7fk1r9k3as9rwd06knh0b")))
+
+(define-public crate-gitall-0.1.1 (c (n "gitall") (v "0.1.1") (d (list (d (n "clap") (r "~2.32.0") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.9.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "15bm5l841kx30ai14glgmd1x1dd38ks4blkwbps63rjbhq365rk1")))
+
+(define-public crate-gitall-0.2.0 (c (n "gitall") (v "0.2.0") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.9.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1il01z5r8g03n08skhn6gcl5bwgg7vnp81z930p0ak1fdmhg8x3c")))
+
+(define-public crate-gitall-0.2.1 (c (n "gitall") (v "0.2.1") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.9.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1bdc6hl5qz2wjw1w7rpi84bnl1qdvs9kqkgpyq93m1cm3zig45nm")))
+
+(define-public crate-gitall-0.3.0 (c (n "gitall") (v "0.3.0") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.9.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "00j5gc76b1ihsw8rqab2qf0pmgphl90716bvhalfs4n6vbvp3s73")))
+
+(define-public crate-gitall-0.2.2 (c (n "gitall") (v "0.2.2") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 0)) (d (n "clap") (r "~2.32.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.9.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "13l2n2nw1z8xdj4k4vrhcbq082sciafzv58cwy2yqdn50j2dby8m")))
+
+(define-public crate-gitall-0.4.0 (c (n "gitall") (v "0.4.0") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.33.0") (d #t) (k 0)) (d (n "clap") (r "~2.33.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "rayon") (r "~1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "~1.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0xn2xfxbnqpc9g1ac9p64iis5f86bci99bpnix0m0s22xpajkysn")))
+
+(define-public crate-gitall-0.5.0 (c (n "gitall") (v "0.5.0") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.33.0") (d #t) (k 0)) (d (n "clap") (r "~2.33.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "rayon") (r "~1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "~1.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "09sc94w47zpvdkaqams99375ad5p7ywzl1sfpzrg0h4kgfzz8dv7")))
+
+(define-public crate-gitall-0.6.0 (c (n "gitall") (v "0.6.0") (d (list (d (n "atty") (r "~0.2.11") (d #t) (k 0)) (d (n "clap") (r "~2.33.0") (d #t) (k 0)) (d (n "clap") (r "~2.33.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "rayon") (r "~1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "~1.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0k7zxbxcbww298rl1cj7x9hicpqfwvz0dlsvk31z8z1f6swic2fj")))
+

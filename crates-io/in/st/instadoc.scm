@@ -1,0 +1,10 @@
+(define-module (crates-io in st instadoc) #:use-module (crates-io))
+
+(define-public crate-instadoc-0.1.0 (c (n "instadoc") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.13") (d #t) (k 0)) (d (n "deunicode") (r "^1.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "06cbiv213524dkw46s0h6481b12yssqmi1whq75a948ln4vk9vvw")))
+
+(define-public crate-instadoc-0.4.0 (c (n "instadoc") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.13") (d #t) (k 0)) (d (n "deunicode") (r "^1.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0x7vxggc8idkfgfdwgz82zwjl8nc04a1ad7ra360161413jxsdza")))
+
+(define-public crate-instadoc-0.5.4 (c (n "instadoc") (v "0.5.4") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.13") (d #t) (k 0)) (d (n "deunicode") (r "^1.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1rrqciqicm6qm0l2mx8nc0qzi5hv4w131rd3rbba6qxgw3fk89mg")))
+
+(define-public crate-instadoc-0.5.5 (c (n "instadoc") (v "0.5.5") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.13") (d #t) (k 0)) (d (n "deunicode") (r "^1.3") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15h93sp7n406lc0yp1qdrixzx5w4pljsw07axkd68sf6qg4fffd1")))
+

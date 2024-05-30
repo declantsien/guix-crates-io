@@ -1,0 +1,16 @@
+(define-module (crates-io rr pl rrplug) #:use-module (crates-io))
+
+(define-public crate-rrplug-0.1.0 (c (n "rrplug") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.61.0") (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1rdydd6j133z71qgx909dlw4bjqklqg6qax2g93cwhhgvwhhkq5k")))
+
+(define-public crate-rrplug-0.1.1 (c (n "rrplug") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.61.0") (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "14zbs9m2ahnqv2z7707ihj61zmv6pxmppcn8j1g4qjg96gdfs4vm")))
+
+(define-public crate-rrplug-2.0.0 (c (n "rrplug") (v "2.0.0") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "rrplug_proc") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0h25l3yp8n2bz3f5v60k16c8aiphsxd8pjiri6x8hwxiy7129hz5") (f (quote (("presence") ("low-engine") ("full" "convar" "concommand" "presence" "low-engine") ("default_features" "convar" "concommand") ("default" "default_features") ("convar") ("concommand"))))))
+
+(define-public crate-rrplug-2.1.0 (c (n "rrplug") (v "2.1.0") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rrplug_proc") (r "^2.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "17jjp1rzz6kbj99yfbnl1dx7algsc3ik78m5c0win1w7cznbi8kf") (f (quote (("presence") ("low-engine") ("full" "convar" "concommand" "presence" "low-engine") ("default_features" "convar" "concommand") ("default" "default_features") ("convar") ("concommand"))))))
+
+(define-public crate-rrplug-2.1.1 (c (n "rrplug") (v "2.1.1") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rrplug_proc") (r "^2.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "15a9rl8kjbfcknxndcain4samph4vigr1smvsi0hrdfp3awa49gj") (f (quote (("presence") ("low-engine") ("full" "convar" "concommand" "presence" "low-engine") ("default_features" "convar" "concommand") ("default" "default_features") ("convar") ("concommand"))))))
+
+(define-public crate-rrplug-3.0.0 (c (n "rrplug") (v "3.0.0") (d (list (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rrplug_proc") (r "^3.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "154k5mp8yp215pj81mavs32k6n9hyarcdhvhcm1qapnmq7qpz9pm") (f (quote (("full") ("default_features") ("default" "default_features"))))))
+
+(define-public crate-rrplug-4.0.0 (c (n "rrplug") (v "4.0.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rrplug_proc") (r "^4.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "windows") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_LibraryLoader" "Win32_System_SystemServices"))) (d #t) (k 0)))) (h "1gaabgcxcjln4dblmfsh4d5jbjxv6hcm7g16cl6qaxa24v6fqjxy") (f (quote (("async_engine")))) (r "1.77")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io bu il building_blocks_partition) #:use-module (crates-io))
+
+(define-public crate-building_blocks_partition-0.1.0 (c (n "building_blocks_partition") (v "0.1.0") (d (list (d (n "building_blocks_core") (r "^0.1") (d #t) (k 0)) (d (n "building_blocks_storage") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.25") (o #t) (d #t) (k 0)))) (h "1nq2x5bbb1mpm8jxbsqmgw68xizfcrzxpxapaxj34ghn2srbv8hs") (f (quote (("ncollide" "ncollide3d" "building_blocks_core/nalg") ("default" "ncollide"))))))
+
+(define-public crate-building_blocks_partition-0.2.0 (c (n "building_blocks_partition") (v "0.2.0") (d (list (d (n "building_blocks_core") (r "^0.2") (d #t) (k 0)) (d (n "building_blocks_storage") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.26") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0w2mj477rcbvgmq0vgzssmf2529ad7jsc52fz8ylgiarxzv7jr0l") (f (quote (("ncollide" "ncollide3d" "building_blocks_core/nalg") ("default"))))))
+
+(define-public crate-building_blocks_partition-0.2.1 (c (n "building_blocks_partition") (v "0.2.1") (d (list (d (n "building_blocks_core") (r "^0.2") (d #t) (k 0)) (d (n "building_blocks_storage") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "ncollide3d") (r "^0.26") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "1fws1vx5hhkpfcrbwhm6rw9vjpljq323s3qw49wygzw8115gc1qr") (f (quote (("ncollide" "ncollide3d" "building_blocks_core/nalgebra") ("default"))))))
+

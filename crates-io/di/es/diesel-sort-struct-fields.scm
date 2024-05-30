@@ -1,0 +1,10 @@
+(define-module (crates-io di es diesel-sort-struct-fields) #:use-module (crates-io))
+
+(define-public crate-diesel-sort-struct-fields-0.1.0 (c (n "diesel-sort-struct-fields") (v "0.1.0") (d (list (d (n "diesel") (r "^1") (f (quote ("postgres"))) (d #t) (k 2)) (d (n "diesel_full_text_search") (r "^1.0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("derive" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.6") (d #t) (k 2)))) (h "1wwc7gxqlkm1hlvnfz19xpzjdhj4yxyn8ramv1jcwvh9izjrvdjv")))
+
+(define-public crate-diesel-sort-struct-fields-0.1.1 (c (n "diesel-sort-struct-fields") (v "0.1.1") (d (list (d (n "diesel") (r "^1") (f (quote ("postgres"))) (d #t) (k 2)) (d (n "diesel_full_text_search") (r "^1.0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("derive" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.6") (d #t) (k 2)))) (h "10ffn29nvr1fhx523r03ganiaq9yf6i9hlryq2nrvmz9qlilqgzg")))
+
+(define-public crate-diesel-sort-struct-fields-0.1.2 (c (n "diesel-sort-struct-fields") (v "0.1.2") (d (list (d (n "diesel") (r "^1") (f (quote ("postgres"))) (d #t) (k 2)) (d (n "diesel_full_text_search") (r "^1.0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.6") (d #t) (k 2)))) (h "0nrbc1gfsq4gmq33x33gdxk771bhsahn35gr8c7dp3hvcp9xjsfm")))
+
+(define-public crate-diesel-sort-struct-fields-0.1.3 (c (n "diesel-sort-struct-fields") (v "0.1.3") (d (list (d (n "diesel") (r "^1") (f (quote ("postgres"))) (d #t) (k 2)) (d (n "diesel_full_text_search") (r "^1.0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.6") (d #t) (k 2)))) (h "1hs8as5v18v0vkv15nks4h25xy5ans4mdmf4186a72arw31kqqwk")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io po la polars-helpers) #:use-module (crates-io))
+
+(define-public crate-polars-helpers-0.1.0 (c (n "polars-helpers") (v "0.1.0") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "polars") (r "^0.36.2") (f (quote ("concat_str" "csv" "lazy" "lazy_regex" "round_series" "fmt" "dtype-date" "strings" "rolling_window" "rows" "serde" "is_in"))) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "14bfigw70rycmylcln2bhzbfnzxwdy774p9y6s4jrmby3jxr8smj") (y #t)))
+
+(define-public crate-polars-helpers-0.1.1 (c (n "polars-helpers") (v "0.1.1") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "polars") (r "^0.36.2") (f (quote ("concat_str" "csv" "lazy" "lazy_regex" "round_series" "fmt" "dtype-date" "strings" "rolling_window" "rows" "serde" "is_in"))) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("rustls-tls" "json"))) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "03bifjf7nhmp8f0mhqipr7dyh7darjmwgrp2h7kd860xh2apkilp")))
+

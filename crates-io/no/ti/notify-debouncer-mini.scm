@@ -1,0 +1,20 @@
+(define-module (crates-io no ti notify-debouncer-mini) #:use-module (crates-io))
+
+(define-public crate-notify-debouncer-mini-0.1.0 (c (n "notify-debouncer-mini") (v "0.1.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "15fnhyxnz6bh6pn5q0gilic195w6rvhk36gsq0gkbk4v1v305nmx") (f (quote (("default" "crossbeam-channel")))) (r "1.56")))
+
+(define-public crate-notify-debouncer-mini-0.1.1 (c (n "notify-debouncer-mini") (v "0.1.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1cdn982fy9h1kybvsy3zi7sjqmkclxlnczz6yqbv5jsyq7ng7fh7") (f (quote (("default" "crossbeam-channel")))) (r "1.56")))
+
+(define-public crate-notify-debouncer-mini-0.1.2 (c (n "notify-debouncer-mini") (v "0.1.2") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "04ifnh7xv0nvdy1c0blfyjhzx423zjrqccja1fh7k4bbwsr110jc") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.56")))
+
+(define-public crate-notify-debouncer-mini-0.1.3 (c (n "notify-debouncer-mini") (v "0.1.3") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1pyx360f4wl2gpxnwkf3wwxn6mjz3sd567wg3xrmi4ascv2knrmn") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.56")))
+
+(define-public crate-notify-debouncer-mini-0.2.0 (c (n "notify-debouncer-mini") (v "0.2.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^5.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0yf1nhqxq5fw3sm99vfngvwdx8mfpk7i09cja7kl2ss3vnhqwlqw") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.56")))
+
+(define-public crate-notify-debouncer-mini-0.2.1 (c (n "notify-debouncer-mini") (v "0.2.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^5.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0yq0r7dzfy81drs71g47d6z8gpjpcjn907xn3qy18jq99yi9ygp2") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.56")))
+
+(define-public crate-notify-debouncer-mini-0.3.0 (c (n "notify-debouncer-mini") (v "0.3.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "notify") (r "^6.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1w39z4z7wnyip9366x8wm2p0qg0zh6v3wmdqz2i66iagj5rf4pp5") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.60")))
+
+(define-public crate-notify-debouncer-mini-0.4.0 (c (n "notify-debouncer-mini") (v "0.4.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "notify") (r "^6.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89, <1.0.172") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "138rspgyg9hnmi8prvxx0f5y2sihmpwlq09n0yn5pfdgfc56c3ky") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.60")))
+
+(define-public crate-notify-debouncer-mini-0.4.1 (c (n "notify-debouncer-mini") (v "0.4.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0hwxdbzyx01pzwyld1dk7sc7ak5k3xkjz2l59ppwa7rajwhv4h2x") (f (quote (("default" "crossbeam") ("crossbeam" "crossbeam-channel" "notify/crossbeam-channel")))) (r "1.60")))
+

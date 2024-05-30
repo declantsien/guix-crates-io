@@ -1,0 +1,4 @@
+(define-module (crates-io sf tp sftp-filesystem) #:use-module (crates-io))
+
+(define-public crate-sftp-filesystem-0.1.0 (c (n "sftp-filesystem") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "camino") (r "^1.0.7") (d #t) (k 0)) (d (n "clap") (r "^4.0.26") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "filetime") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.25") (d #t) (k 0)) (d (n "sftp-server") (r "^0.1.0") (k 0)) (d (n "thrussh") (r "^0.33") (o #t) (d #t) (k 0)) (d (n "thrussh-keys") (r "^0.21") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0x3z030a6lm6w4w8vwascpix48k0n1ip7wf9y13ymxd261kp19p3") (f (quote (("standalone" "sftp-server/standalone" "thrussh" "thrussh-keys") ("default" "standalone"))))))
+

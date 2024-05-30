@@ -1,0 +1,8 @@
+(define-module (crates-io wa y- way-cooler-bg) #:use-module (crates-io))
+
+(define-public crate-way-cooler-bg-0.1.0 (c (n "way-cooler-bg") (v "0.1.0") (d (list (d (n "byteorder") (r ">= 0.3, < 0.6") (d #t) (k 0)) (d (n "gtk") (r "^0.1.0") (f (quote ("v3_16"))) (d #t) (k 0)) (d (n "image") (r "^0.10.3") (d #t) (k 0)) (d (n "tempfile") (r "^2.1") (d #t) (k 0)) (d (n "wayland-client") (r "^0.6.0") (f (quote ("cursor" "dlopen"))) (d #t) (k 0)) (d (n "wayland-sys") (r "^0.6.0") (f (quote ("client" "dlopen"))) (d #t) (k 0)))) (h "1jcycr2r0lqpkw0ivz5h9kx8dpc5sb6qylqfgqf20f6sdxpnkzga")))
+
+(define-public crate-way-cooler-bg-0.2.0 (c (n "way-cooler-bg") (v "0.2.0") (d (list (d (n "byteorder") (r ">= 0.3, < 0.6") (d #t) (k 0)) (d (n "clap") (r "^2.23.2") (d #t) (k 0)) (d (n "dbus") (r "^0.5.2") (d #t) (k 0)) (d (n "image") (r "^0.10.3") (d #t) (k 0)) (d (n "tempfile") (r "^2.1") (d #t) (k 0)) (d (n "wayland-client") (r "^0.6.0") (f (quote ("cursor" "dlopen"))) (d #t) (k 0)) (d (n "wayland-sys") (r "^0.6.0") (f (quote ("client" "dlopen"))) (d #t) (k 0)))) (h "0lvnjqfykk1kx7332q2s6f37mi37i7p2z8r9xsfl7mmipm4cmm6h")))
+
+(define-public crate-way-cooler-bg-0.2.1 (c (n "way-cooler-bg") (v "0.2.1") (d (list (d (n "byteorder") (r ">= 0.3, < 0.6") (d #t) (k 0)) (d (n "clap") (r "^2.23.2") (d #t) (k 0)) (d (n "dbus") (r "^0.5.2") (d #t) (k 0)) (d (n "image") (r "^0.10.3") (d #t) (k 0)) (d (n "tempfile") (r "^2.1") (d #t) (k 0)) (d (n "wayland-client") (r "^0.6.0") (f (quote ("cursor" "dlopen"))) (d #t) (k 0)) (d (n "wayland-sys") (r "^0.6.0") (f (quote ("client" "dlopen"))) (d #t) (k 0)))) (h "1k1ja6x37anzspzk50ymb1qbifbhjh2s2pgvb5a0mrc9m0pxkjvb")))
+

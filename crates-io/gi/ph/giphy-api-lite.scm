@@ -1,0 +1,8 @@
+(define-module (crates-io gi ph giphy-api-lite) #:use-module (crates-io))
+
+(define-public crate-giphy-api-lite-0.1.0 (c (n "giphy-api-lite") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "http-api-client-endpoint") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-aux") (r "^2.2") (k 0)) (d (n "serde-enum-str") (r "^0.2") (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1.0") (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (k 0)))) (h "0awbf6q5jq0g4acmncp15hrr1c9khngjzkzgs5z7mlkcibjc75fy")))
+
+(define-public crate-giphy-api-lite-0.1.1 (c (n "giphy-api-lite") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "http-api-client-endpoint") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-aux") (r "^2.2") (k 0)) (d (n "serde-enum-str") (r "^0.2") (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1.0") (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (k 0)))) (h "040a698m45x5klz8hqwa3r8gcan2ql8crh5p4n4il82q6gi2dziq")))
+
+(define-public crate-giphy-api-lite-0.1.2 (c (n "giphy-api-lite") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "http-api-client-endpoint") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("std" "derive"))) (k 0)) (d (n "serde-aux") (r "^4") (k 0)) (d (n "serde-enum-str") (r "^0.3") (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1") (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (k 0)))) (h "1d028ghayi0ap85c1502nlwnc85acbfr5amvfg21zfxvaiii003v")))
+

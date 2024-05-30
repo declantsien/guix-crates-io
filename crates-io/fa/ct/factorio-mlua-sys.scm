@@ -1,0 +1,4 @@
+(define-module (crates-io fa ct factorio-mlua-sys) #:use-module (crates-io))
+
+(define-public crate-factorio-mlua-sys-0.1.1 (c (n "factorio-mlua-sys") (v "0.1.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0") (d #t) (k 1)) (d (n "factorio-lua-src") (r ">=544.0.0, <550.0.0") (o #t) (d #t) (k 1)) (d (n "link-cplusplus") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "luajit-src") (r ">=210.4.0, <220.0.0") (o #t) (d #t) (k 1)) (d (n "luau0-src") (r "^0.5.6") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.17") (d #t) (k 1)))) (h "053k18696n6q897nl23x10cpvcl9ifri6bp2ayz4vhrc4qlwhq3i") (f (quote (("vendored" "factorio-lua-src" "luajit-src") ("module") ("luau" "luau0-src") ("luajit52" "luajit") ("luajit") ("lua54") ("lua53") ("lua52") ("lua51") ("lua-factorio" "vendored" "link-cplusplus")))) (l "lua")))
+

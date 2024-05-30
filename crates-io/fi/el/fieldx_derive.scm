@@ -1,0 +1,4 @@
+(define-module (crates-io fi el fieldx_derive) #:use-module (crates-io))
+
+(define-public crate-fieldx_derive-0.1.0 (c (n "fieldx_derive") (v "0.1.0") (d (list (d (n "darling") (r ">=0.20.7") (f (quote ("suggestions"))) (d #t) (k 0)) (d (n "delegate") (r "^0.12") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3") (d #t) (k 0)) (d (n "fieldx_derive_support") (r "^0.1.0") (d #t) (k 0)) (d (n "getset") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rust-format") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0yxkmpi7rx2zmimh7hlk4y8vkvsq7yr1i62rxn291msylgf1k5g9") (f (quote (("tracing") ("diagnostics" "darling/diagnostics")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

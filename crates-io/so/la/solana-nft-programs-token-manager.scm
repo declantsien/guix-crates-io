@@ -1,0 +1,4 @@
+(define-module (crates-io so la solana-nft-programs-token-manager) #:use-module (crates-io))
+
+(define-public crate-solana-nft-programs-token-manager-1.0.0 (c (n "solana-nft-programs-token-manager") (v "1.0.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^3.0.1") (d #t) (k 0)) (d (n "mpl-utils") (r "^0.3.1") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "solana-nft-programs-creator-standard") (r "^1.0.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "solana-program") (r "^1.10.29") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.1.2") (d #t) (k 0)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0a8asyl2kgi57500b6qrbr7rhb543rpnz3b6h05h8vks0xim9r54") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

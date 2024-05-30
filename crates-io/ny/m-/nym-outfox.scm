@@ -1,0 +1,4 @@
+(define-module (crates-io ny m- nym-outfox) #:use-module (crates-io))
+
+(define-public crate-nym-outfox-0.1.0 (c (n "nym-outfox") (v "0.1.0") (d (list (d (n "blake3") (r "^1.3") (d #t) (k 0)) (d (n "chacha20") (r "^0.9.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "curve25519-dalek") (r "^3.2") (d #t) (k 0)) (d (n "fastrand") (r "^1.8") (d #t) (k 2)) (d (n "getrandom") (r "^0.2.10") (f (quote ("js"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "sphinx-packet") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zeroize") (r "^1.5") (d #t) (k 0)))) (h "08s48j5sxklr60pw74z668860b8m3adafck2ksll52qcfc3d3fd9")))
+

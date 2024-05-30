@@ -1,0 +1,6 @@
+(define-module (crates-io ap ik apikit) #:use-module (crates-io))
+
+(define-public crate-apikit-0.1.0 (c (n "apikit") (v "0.1.0") (d (list (d (n "axum") (r "^0.6.12") (d #t) (k 0)) (d (n "miette") (r "^5.7.0") (d #t) (k 0)) (d (n "opentelemetry") (r "^0.18.0") (d #t) (k 0)) (d (n "opentelemetry-http") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.4.0") (f (quote ("trace" "request-id"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-opentelemetry") (r "^0.18.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)))) (h "0ga75nhvgny5hnxc3v2dl3fwrn1ngkppc9jb2gz1cfjn7rxwnmlj")))
+
+(define-public crate-apikit-0.2.0 (c (n "apikit") (v "0.2.0") (d (list (d (n "axum") (r "^0.6.12") (d #t) (k 0)) (d (n "miette") (r "^5.7.0") (d #t) (k 0)) (d (n "opentelemetry") (r "^0.18.0") (d #t) (k 0)) (d (n "opentelemetry-http") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.4.0") (f (quote ("trace" "request-id"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-opentelemetry") (r "^0.18.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)))) (h "1qz9vb563zjdmvpw1a6dd9dqm24xk95fqh49ad9ynr5n1hxrblfx")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ta ur tauri-webview2) #:use-module (crates-io))
+
+(define-public crate-tauri-webview2-0.1.1 (c (n "tauri-webview2") (v "0.1.1") (d (list (d (n "com") (r "^0.2.0") (d #t) (k 0)) (d (n "native-windows-gui") (r "^1.0.4") (f (quote ("high-dpi"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "webview2-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.8") (f (quote ("combaseapi" "shellapi" "winerror"))) (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("libloaderapi"))) (d #t) (k 2)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "1gwbwjdqwq3q4z5ka4c2cfzqspf1zqqdg3s2dsc8ha1kn5mci4na")))
+
+(define-public crate-tauri-webview2-0.1.2 (c (n "tauri-webview2") (v "0.1.2") (d (list (d (n "com") (r "^0.2.0") (d #t) (k 0)) (d (n "native-windows-gui") (r "^1.0.4") (f (quote ("high-dpi"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "webview2-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.8") (f (quote ("combaseapi" "shellapi" "winerror"))) (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("libloaderapi"))) (d #t) (k 2)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "1hsg3aga2lxbscxjdks6ih8cfc48ibi1dy8iy09qsq87j1zd31bn")))
+

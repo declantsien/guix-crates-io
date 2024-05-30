@@ -1,0 +1,4 @@
+(define-module (crates-io we bs websocket-async-io) #:use-module (crates-io))
+
+(define-public crate-websocket-async-io-1.0.0 (c (n "websocket-async-io") (v "1.0.0") (d (list (d (n "console_error_panic_hook") (r "^0.1") (d #t) (k 2)) (d (n "futures-channel") (r "^0.3.17") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-io") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 2)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 2)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.22") (f (quote ("BinaryType" "Blob" "ErrorEvent" "FileReader" "MessageEvent" "ProgressEvent" "WebSocket"))) (d #t) (k 0)))) (h "075mlj7h4favgnw2zmjswcy0khzp5d8jh51hmnxyxfbbysgmyfx0")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# g gwv) #:use-module (crates-io))
+
+(define-public crate-gwv-0.1.0 (c (n "gwv") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "human-panic") (r "^1.2.3") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "sha256") (r "^1.5.0") (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "1q7wcnxl455fxv5dm9jwq5mvbjvck7ar8ihir5nnq4dprs4q3a9f")))
+
+(define-public crate-gwv-0.2.0 (c (n "gwv") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "human-panic") (r "^1.2.3") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "sha256") (r "^1.5.0") (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "1vzw87cz21557mhw1pb4n535y4v5sq6csz68qpyzkdr8lfmnjng5")))
+

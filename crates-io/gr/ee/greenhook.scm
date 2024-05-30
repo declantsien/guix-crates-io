@@ -1,0 +1,10 @@
+(define-module (crates-io gr ee greenhook) #:use-module (crates-io))
+
+(define-public crate-greenhook-0.0.1 (c (n "greenhook") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (f (quote ("const-syscall"))) (d #t) (k 0)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)))) (h "1f7h2v6qvpapcgi1z9vxv9qdr7cwsj7mbk69zvqxvhyx930syq1q") (y #t)))
+
+(define-public crate-greenhook-0.0.2 (c (n "greenhook") (v "0.0.2") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (f (quote ("const-syscall"))) (d #t) (k 0)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)))) (h "1km4xy3xh7rcp91bvky4gwwzqrhwq700d94585qfnk0v80kyb2gg")))
+
+(define-public crate-greenhook-0.0.3 (c (n "greenhook") (v "0.0.3") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (f (quote ("const-syscall"))) (d #t) (k 0)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)))) (h "0awnn1ihwzprx4fj6iwnsh9y6avxy88k73mq20bgpxihlnh5z4ni")))
+
+(define-public crate-greenhook-0.0.4 (c (n "greenhook") (v "0.0.4") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (f (quote ("const-syscall"))) (d #t) (k 0)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "procfs") (r "^0.15.1") (k 0)) (d (n "resolv-conf") (r "^0.7.0") (d #t) (k 2)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)))) (h "0zg4l2r2nxgkr41s14230yp1rgngc2xwyvs20jy555zcdwxxa8z8")))
+

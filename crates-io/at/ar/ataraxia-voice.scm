@@ -1,0 +1,4 @@
+(define-module (crates-io at ar ataraxia-voice) #:use-module (crates-io))
+
+(define-public crate-ataraxia-voice-0.1.0 (c (n "ataraxia-voice") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "dotenv") (r "^0.13.0") (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.21") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("sink" "std"))) (k 0)) (d (n "reqwest") (r "^0.11.10") (d #t) (k 0)) (d (n "rtp-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.67") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "macros" "rt-multi-thread" "io-util" "process"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.1") (f (quote ("native-tls" "connect"))) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "01amacxxv7zc0ziyi1kcw6l7k9xb3rdc5k94xy7mh8g0jw0888gj")))
+

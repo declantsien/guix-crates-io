@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# f fer) #:use-module (crates-io))
+
+(define-public crate-fer-0.1.0 (c (n "fer") (v "0.1.0") (d (list (d (n "criterion") (r "^0.4") (f (quote ("cargo_bench_support"))) (k 2)) (d (n "image") (r "^0.24") (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "nix") (r "^0.26") (f (quote ("sched"))) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "resize") (r "^0.7.4") (d #t) (k 2)) (d (n "rgb") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 2)))) (h "0q2w9l757k98nsi78iwi5jcv8iqbixjgrsir1drxq2cgwhv2d4c6")))
+
+(define-public crate-fer-0.1.1 (c (n "fer") (v "0.1.1") (d (list (d (n "criterion") (r "^0.4") (f (quote ("cargo_bench_support"))) (k 2)) (d (n "image") (r "^0.24") (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "nix") (r "^0.26") (f (quote ("sched"))) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "resize") (r "^0.7.4") (d #t) (k 2)) (d (n "rgb") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 2)))) (h "10d0rq7k5pbrjpsbyr0liz8qd5i3agniqmhnrwriblqclskdn0ka")))
+

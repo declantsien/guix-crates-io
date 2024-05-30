@@ -1,0 +1,8 @@
+(define-module (crates-io lo cu locustdb-compression-utils) #:use-module (crates-io))
+
+(define-public crate-locustdb-compression-utils-0.1.0 (c (n "locustdb-compression-utils") (v "0.1.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1i62n061jg26qgdy1wpk1wrqxfwfq90dgprglrwm1ybba7d3r0wm")))
+
+(define-public crate-locustdb-compression-utils-0.1.1 (c (n "locustdb-compression-utils") (v "0.1.1") (d (list (d (n "bitbuffer") (r "^0.10") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1x7r8sr0xlkrci5mnnyq56152qcwnvm71f5j52cxnk7wv2hbbv4q")))
+
+(define-public crate-locustdb-compression-utils-0.2.0 (c (n "locustdb-compression-utils") (v "0.2.0") (d (list (d (n "bitbuffer") (r "^0.10") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pco") (r "^0.2.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1zmvp053pxc1i1ax32xwn4dq4z23y39sj0czp3vv0jkjks7d4y42")))
+

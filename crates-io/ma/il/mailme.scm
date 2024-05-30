@@ -1,0 +1,6 @@
+(define-module (crates-io ma il mailme) #:use-module (crates-io))
+
+(define-public crate-mailme-0.1.0 (c (n "mailme") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nom") (r "^6.0.0-beta1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tokio") (r "^0.3.1") (f (quote ("io-util" "io-std" "net" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.20.0") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.20") (d #t) (k 0)))) (h "1xz9v6zgpjj7j1bcmwbg45f1h50cp0ig2iqkx5xik2qqmm981qzz")))
+
+(define-public crate-mailme-0.1.1 (c (n "mailme") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nom") (r "^6.0.0-beta1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tokio") (r "^0.3.1") (f (quote ("io-util" "io-std" "net" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.20.0") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.20") (d #t) (k 0)))) (h "1zvw1pr60ibx2kpdcmf6q3rl0j36m2nrcqmihdbvx1axbzrq9n1f")))
+

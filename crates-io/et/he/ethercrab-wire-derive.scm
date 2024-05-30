@@ -1,0 +1,12 @@
+(define-module (crates-io et he ethercrab-wire-derive) #:use-module (crates-io))
+
+(define-public crate-ethercrab-wire-derive-0.1.0 (c (n "ethercrab-wire-derive") (v "0.1.0") (d (list (d (n "criterion") (r "^0.5.1") (k 0)) (d (n "proc-macro2") (r "^1.0.73") (d #t) (k 0)) (d (n "quote") (r "^1.0.34") (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full" "extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.86") (d #t) (k 2)))) (h "19849gylg51w8shd16vv587c71icl1ggv0m5xgjxy0fsmdn2qgpg")))
+
+(define-public crate-ethercrab-wire-derive-0.1.1 (c (n "ethercrab-wire-derive") (v "0.1.1") (d (list (d (n "criterion") (r "^0.5.1") (k 0)) (d (n "proc-macro2") (r "^1.0.73") (d #t) (k 0)) (d (n "quote") (r "^1.0.34") (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full" "extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.86") (d #t) (k 2)))) (h "0gfa19c261zgb24v35rfrf9dk0x4az8apb3pcd4g05bnpwc42vhp")))
+
+(define-public crate-ethercrab-wire-derive-0.1.2 (c (n "ethercrab-wire-derive") (v "0.1.2") (d (list (d (n "criterion") (r "^0.5.1") (k 0)) (d (n "proc-macro2") (r "^1.0.73") (d #t) (k 0)) (d (n "quote") (r "^1.0.34") (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full" "extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.86") (d #t) (k 2)))) (h "04qb7fbsklb44kgvwvdmkjfj4c8krhmy0n8gd0sxwqqvrrgy6ghc")))
+
+(define-public crate-ethercrab-wire-derive-0.1.3 (c (n "ethercrab-wire-derive") (v "0.1.3") (d (list (d (n "criterion") (r "^0.5.1") (k 0)) (d (n "proc-macro2") (r "^1.0.73") (d #t) (k 0)) (d (n "quote") (r "^1.0.34") (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full" "extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.86") (d #t) (k 2)))) (h "1an3cm0gwhw6pa53v57r48rmpwfgw4mkjqg0wkm7vycb3vb8x40v")))
+
+(define-public crate-ethercrab-wire-derive-0.1.4 (c (n "ethercrab-wire-derive") (v "0.1.4") (d (list (d (n "criterion") (r "^0.5.1") (k 0)) (d (n "proc-macro2") (r "^1.0.73") (d #t) (k 0)) (d (n "quote") (r "^1.0.34") (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.44") (f (quote ("full" "extra-traits"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.86") (d #t) (k 2)))) (h "0vrar5vzl17dl5f6mvydd2g865v62yi5hrnn2w5mnd0xsm98yr0z")))
+

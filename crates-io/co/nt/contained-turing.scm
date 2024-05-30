@@ -1,0 +1,4 @@
+(define-module (crates-io co nt contained-turing) #:use-module (crates-io))
+
+(define-public crate-contained-turing-0.1.4 (c (n "contained-turing") (v "0.1.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "contained-core") (r "^0.1.4") (d #t) (k 0)) (d (n "decanter") (r "^0.1.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "predicates") (r "^3.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "smart-default") (r "^0.6") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)))) (h "026hmjich0zzm9w7gsscg00qpmgpm86l4qxlrkwi07ri5cwjc3gw") (f (quote (("wasm") ("default"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ro ut route-pattern) #:use-module (crates-io))
+
+(define-public crate-route-pattern-0.1.0 (c (n "route-pattern") (v "0.1.0") (d (list (d (n "insta") (r "^1.17.1") (f (quote ("redactions" "yaml"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.1") (o #t) (d #t) (k 0)) (d (n "nom-supreme") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0s4hgqygam597vx3alcnn2ah3vpi96d62v2gdp6w9q5rbam8b11w") (f (quote (("handparser") ("default" "with-nom")))) (s 2) (e (quote (("with-nom" "dep:nom" "dep:nom-supreme"))))))
+
+(define-public crate-route-pattern-0.2.0 (c (n "route-pattern") (v "0.2.0") (d (list (d (n "insta") (r "^1.17.1") (f (quote ("redactions" "yaml"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.1") (o #t) (d #t) (k 0)) (d (n "nom-supreme") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "00vgpv1w4fkl1sch4ig9vcdnd3dnf44dclvn8qrnsravgsp1l5ga") (f (quote (("handparser") ("default" "with-nom")))) (s 2) (e (quote (("with-nom" "dep:nom" "dep:nom-supreme"))))))
+

@@ -1,0 +1,30 @@
+(define-module (crates-io dn si dnsimple) #:use-module (crates-io))
+
+(define-public crate-dnsimple-0.0.1 (c (n "dnsimple") (v "0.0.1") (d (list (d (n "hyper") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.3.4") (d #t) (k 2)) (d (n "yup-hyper-mock") (r "^1.3.0") (d #t) (k 2)))) (h "1ga438hqj791xbp762pi8cvxxv51zkv2ll4ihyggl8hlj4dpp9s5")))
+
+(define-public crate-dnsimple-0.0.2 (c (n "dnsimple") (v "0.0.2") (d (list (d (n "hyper") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 2)) (d (n "yup-hyper-mock") (r "^2.0.0") (d #t) (k 2)))) (h "18ili937wm1mbbfq9xjhwhjp1j3vh9day9ckca7gxgv8klwch9m3")))
+
+(define-public crate-dnsimple-0.1.0 (c (n "dnsimple") (v "0.1.0") (d (list (d (n "mockito") (r "^0.30.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3.0") (f (quote ("json"))) (d #t) (k 0)))) (h "1gssskgvjy2l1a3m3ziywbfcsdmj5z946q1mpbl9livn4riichqw") (y #t)))
+
+(define-public crate-dnsimple-0.1.1 (c (n "dnsimple") (v "0.1.1") (d (list (d (n "mockito") (r "^0.30.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3.0") (f (quote ("json"))) (d #t) (k 0)))) (h "150khcfp9ym20g9x6n2ll3hkgigmn14sp4099mkf367rzhh3szfc")))
+
+(define-public crate-dnsimple-0.1.2 (c (n "dnsimple") (v "0.1.2") (d (list (d (n "mockito") (r "^0.30") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (d #t) (k 0)))) (h "160g7iqppgnhzad56hiwdwdyci83irix9vppdvv0ygyx4j2swbpc")))
+
+(define-public crate-dnsimple-0.1.3 (c (n "dnsimple") (v "0.1.3") (d (list (d (n "mockito") (r "^0.30") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (d #t) (k 0)))) (h "0zza6krsd4xypacf93yzz7wmnfb243ssp6hn28swlvj0w3aip56j")))
+
+(define-public crate-dnsimple-0.2.0 (c (n "dnsimple") (v "0.2.0") (d (list (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (f (quote ("json"))) (d #t) (k 0)))) (h "0yxjh16q7b7i6pnfk6gchwjlgsafw1dnzkya90vvm8fbbchx6v5r")))
+
+(define-public crate-dnsimple-0.2.1 (c (n "dnsimple") (v "0.2.1") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (f (quote ("json"))) (d #t) (k 0)))) (h "0hx7qczraxaimvhyxngia7kzqdkxfgk7blpwq70mr2ck2vn8vpbv")))
+
+(define-public crate-dnsimple-0.3.0 (c (n "dnsimple") (v "0.3.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "04z2rqa6xvjg4bqrlswbrhcsx1a9ns8cg9s49nqvdwprz3wfm5sm")))
+
+(define-public crate-dnsimple-0.4.0 (c (n "dnsimple") (v "0.4.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "mockito") (r "^0.32") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "0pl7223zx5ma1hxh7lfn2nd9ybf2f4f6mdfsh7igr19gmwa4kwrs")))
+
+(define-public crate-dnsimple-0.5.0 (c (n "dnsimple") (v "0.5.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "mockito") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "1hqw9i2y2m37803mp327zb6jybqa129ink6dkx2y90x1mwfaalgk") (r "1.65.0")))
+
+(define-public crate-dnsimple-0.6.0 (c (n "dnsimple") (v "0.6.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "colored") (r "=2.0.0") (d #t) (k 2)) (d (n "mockito") (r "=1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "1hbl4ng4rslfz0bp9gn8igylg91ahy7x7zcmskxcfihhkw7i5gnd") (r "1.65.0")))
+
+(define-public crate-dnsimple-0.7.0 (c (n "dnsimple") (v "0.7.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "colored") (r "=2.0.0") (d #t) (k 2)) (d (n "mockito") (r "=1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "0yx52b12b1h4w1cvzqcpagjpjimjn0ra897ylw9pq11rlrfkmflc") (r "1.65.0")))
+
+(define-public crate-dnsimple-1.0.0 (c (n "dnsimple") (v "1.0.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "colored") (r "=2.0.0") (d #t) (k 2)) (d (n "mockito") (r "=1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (d #t) (k 0)))) (h "0c63q3ys4z1pfzrd90lpibv4gsjjqrm17rr654p7nlbb2wjyzfj4") (r "1.76.0")))
+

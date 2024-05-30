@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# n ndb) #:use-module (crates-io))
+
+(define-public crate-ndb-0.1.0 (c (n "ndb") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.5") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("serde_derive" "derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0jcl899fv7m0x3c16y71jn4gk0h2cjggzg0pillw6730wzfy0knj") (f (quote (("extra-traits") ("default" "capture-spantrace" "serde" "extra-traits") ("capture-spantrace")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+

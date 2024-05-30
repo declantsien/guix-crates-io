@@ -1,0 +1,10 @@
+(define-module (crates-io ft sw ftswarm) #:use-module (crates-io))
+
+(define-public crate-ftswarm-0.1.0 (c (n "ftswarm") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "ftswarm_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "ftswarm_proto") (r "^0.1.0") (d #t) (k 0)) (d (n "ftswarm_serial") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.9.0-alpha.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0r4nqwmgwscq6xz2hmjb3d1xszcyy36ln4syq9a662phfz8la70b")))
+
+(define-public crate-ftswarm-0.2.0 (c (n "ftswarm") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "ftswarm_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "ftswarm_proto") (r "^0.2.0") (d #t) (k 0)) (d (n "ftswarm_serial") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.9.0-alpha.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0caz066vfrrb44wll21hp1vhqxjv9d53lcn850qgk02d910h5yvx")))
+
+(define-public crate-ftswarm-0.2.1 (c (n "ftswarm") (v "0.2.1") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "ftswarm_macros") (r "^0.2.1") (d #t) (k 0)) (d (n "ftswarm_proto") (r "^0.2.1") (d #t) (k 0)) (d (n "ftswarm_serial") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.9.0-alpha.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1zimzm98drj6m9qifrh2fak7vmzsmq2iasp2dvg4yhg5vk3fi9ci")))
+
+(define-public crate-ftswarm-0.2.2 (c (n "ftswarm") (v "0.2.2") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "ftswarm_macros") (r "^0.2.2") (d #t) (k 0)) (d (n "ftswarm_proto") (r "^0.2.2") (d #t) (k 0)) (d (n "ftswarm_serial") (r "^0.2.2") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.9.0-alpha.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0g1k7cz7bwrmg8zk0jb38gk49vqz4jkbj0ljlpz6gp1kgd3j3kyd")))
+

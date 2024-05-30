@@ -1,0 +1,4 @@
+(define-module (crates-io am et amethyst-extra) #:use-module (crates-io))
+
+(define-public crate-amethyst-extra-0.4.0 (c (n "amethyst-extra") (v "0.4.0") (d (list (d (n "amethyst") (r "^0.9") (d #t) (k 0)) (d (n "amethyst-rhusics") (r "^0.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.4.2") (d #t) (k 0)) (d (n "derive-new") (r "^0.5") (d #t) (k 0)) (d (n "dirty") (r "^0.2") (d #t) (k 0)) (d (n "discord-rpc-client") (r "^0.2.3") (d #t) (k 0)) (d (n "fern") (r "^0.5") (f (quote ("colored"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "partial_function") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.5.5") (d #t) (k 0)) (d (n "ron") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "01zjrsii5y7vc0pa6937l6hx9qvdfc9ma2ila8nbs65ypjqn102z")))
+

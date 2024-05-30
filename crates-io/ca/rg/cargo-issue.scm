@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-issue) #:use-module (crates-io))
+
+(define-public crate-cargo-issue-0.1.2 (c (n "cargo-issue") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "issue") (r "^0.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.7") (d #t) (k 0)))) (h "0n6syvi29a4s7prj21jhpvwpwqjdsza274c4xvay9ahv2jbh3ffl")))
+
+(define-public crate-cargo-issue-0.1.4 (c (n "cargo-issue") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "issue") (r "^0.1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.7") (d #t) (k 0)))) (h "1p8n2vax608lvbcgr2m748zq999qblay4g5y4wavk7ng3kh9qwvw")))
+

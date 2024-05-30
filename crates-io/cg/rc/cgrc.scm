@@ -1,0 +1,12 @@
+(define-module (crates-io cg rc cgrc) #:use-module (crates-io))
+
+(define-public crate-cgrc-2.0.0 (c (n "cgrc") (v "2.0.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)))) (h "0frl50gx6ap4n7i9r5k11bi8lb2y1hm3v7p0d1mxzl6p84l104cx")))
+
+(define-public crate-cgrc-2.0.1 (c (n "cgrc") (v "2.0.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)))) (h "17bmm3yw6mdq6wjqn6109l5yp11myafqqidqm10m5m2m034zlkwb")))
+
+(define-public crate-cgrc-2.0.2 (c (n "cgrc") (v "2.0.2") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)))) (h "0r5yx1b2q0b5228jvd6sh2gsqpndjr75byqgi24j4sxlvl5j2n44")))
+
+(define-public crate-cgrc-2.0.3 (c (n "cgrc") (v "2.0.3") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)))) (h "0spsk9a976wm2naslwc9v3rdl5hsgi3c8b7fb411dxabpgbbpb2z")))
+
+(define-public crate-cgrc-2.0.4 (c (n "cgrc") (v "2.0.4") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)))) (h "1ap4gd5sigw3l8yn5l55wzkqlrf2da9ysr5zzi057rww2zqk5ynx")))
+

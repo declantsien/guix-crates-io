@@ -1,0 +1,4 @@
+(define-module (crates-io te xt textsynth) #:use-module (crates-io))
+
+(define-public crate-textsynth-0.1.0 (c (n "textsynth") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 2)) (d (n "arrayvec") (r "^0.7.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "bounded-integer") (r "^0.5.1") (f (quote ("serde" "types"))) (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.75") (d #t) (k 0)) (d (n "tap") (r "^1.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "0sa4i8zal7jpafm304ijny9q1yblfazyy6imgyh4q42xj5k4y55s") (f (quote (("serde_derives"))))))
+

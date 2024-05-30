@@ -1,0 +1,4 @@
+(define-module (crates-io df _l df_ls_structure) #:use-module (crates-io))
+
+(define-public crate-df_ls_structure-0.3.0-rc.1 (c (n "df_ls_structure") (v "0.3.0-rc.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "df_ls_core") (r "^0.3.0-rc.1") (d #t) (k 0)) (d (n "df_ls_diagnostics") (r "^0.3.0-rc.1") (d #t) (k 0)) (d (n "df_ls_lexical_analysis") (r "^0.3.0-rc.1") (d #t) (k 2)) (d (n "df_ls_syntax_analysis") (r "^0.3.0-rc.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "serde_path_to_error") (r "^0.1.8") (d #t) (k 0)))) (h "197vh2wcybslwpsiqw74cfljcd82bjfw01r4slszz9n11d8vi08v")))
+

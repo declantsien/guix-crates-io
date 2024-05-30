@@ -1,0 +1,24 @@
+(define-module (crates-io up on upon) #:use-module (crates-io))
+
+(define-public crate-upon-0.0.0 (c (n "upon") (v "0.0.0") (h "1gwlfckxbbj3cb9rkk7d06ifqcyb4d8838g45jcyxa1afyqpch71")))
+
+(define-public crate-upon-0.1.0 (c (n "upon") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)))) (h "0b9vmmkhjm5g1jl590ri4a2lffg4vg748fpcjnvdqn572vr7j1f7")))
+
+(define-public crate-upon-0.2.0 (c (n "upon") (v "0.2.0") (d (list (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)))) (h "05qsc88x3k6bxa0pzls33za968igwzixynrwkysqi6wykp36v3pl")))
+
+(define-public crate-upon-0.3.0 (c (n "upon") (v "0.3.0") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "0qjsiz1lg3jb9j0anlpgywwavsmcc295hkasilw0qdidjs1bm0gd") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-width") ("serde" "dep:serde"))))))
+
+(define-public crate-upon-0.4.0 (c (n "upon") (v "0.4.0") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "1hk4q6wcz4zqj8z23h9dmnwwp8jhvbq6hrk2h12kkw5myj143cg2") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-width") ("serde" "dep:serde"))))))
+
+(define-public crate-upon-0.5.0 (c (n "upon") (v "0.5.0") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0.5") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "0dbi5rzp4nbb2m30vg5gia4kr052pbcgcdk3vpy7s6nb083f8z5p") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-ident" "dep:unicode-width") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-upon-0.6.0 (c (n "upon") (v "0.6.0") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0.5") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "0d56ygdbzd661ksh1k1rmcj4am3hp94zgvqg0misflnsvr236l4q") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-ident" "dep:unicode-width") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-upon-0.7.0 (c (n "upon") (v "0.7.0") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0.5") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "150anq7q9h99a99r59f43znvqzmicap5jxspgbkjv7ak0imrr3g2") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-ident" "dep:unicode-width") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-upon-0.7.1 (c (n "upon") (v "0.7.1") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0.5") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "00ma1nrzdby09z94f8c5pcqs7fcfz10ap3ja42mxipwlwc7jda91") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-ident" "dep:unicode-width") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-upon-0.8.0 (c (n "upon") (v "0.8.0") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0.5") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "16n53vniw5l5wl69i36l2a4ipqgjqlm58gd3012vqyh9bybshfb5") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-ident" "dep:unicode-width") ("serde" "dep:serde")))) (r "1.60")))
+
+(define-public crate-upon-0.8.1 (c (n "upon") (v "0.8.1") (d (list (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0.5") (o #t) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (o #t) (d #t) (k 0)))) (h "1h0ky0lvilja2bw3337w3jyxhgajbwdafpm3m57i0kv2s40rdqlz") (f (quote (("filters") ("default" "filters" "serde" "unicode")))) (s 2) (e (quote (("unicode" "dep:unicode-ident" "dep:unicode-width") ("serde" "dep:serde")))) (r "1.60")))
+

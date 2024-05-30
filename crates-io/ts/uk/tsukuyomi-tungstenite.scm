@@ -1,0 +1,6 @@
+(define-module (crates-io ts uk tsukuyomi-tungstenite) #:use-module (crates-io))
+
+(define-public crate-tsukuyomi-tungstenite-0.1.0 (c (n "tsukuyomi-tungstenite") (v "0.1.0") (d (list (d (n "base64") (r "^0.10") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.8") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.6") (d #t) (k 0)) (d (n "tsukuyomi") (r "^0.4.0") (d #t) (k 0)) (d (n "tungstenite") (r "^0.6") (d #t) (k 0)) (d (n "version-sync") (r "^0.6") (d #t) (k 2)))) (h "1ljmfakmnzg7vg9mpvz82ii3n0hff7s7r8p0p3n5l3inmd7581lk")))
+
+(define-public crate-tsukuyomi-tungstenite-0.2.0 (c (n "tsukuyomi-tungstenite") (v "0.2.0") (d (list (d (n "base64") (r "^0.10") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "sha-1") (r "^0.8") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.6") (k 0)) (d (n "tsukuyomi") (r "^0.5.0") (d #t) (k 0)) (d (n "tsukuyomi-server") (r "^0.2.0") (d #t) (k 0)) (d (n "tungstenite") (r "^0.6") (k 0)) (d (n "version-sync") (r "^0.6") (d #t) (k 2)))) (h "09l7h4mgymxhd0w6j3aa3y0iwsx3kglfvb955wmymp31m3pvswra")))
+

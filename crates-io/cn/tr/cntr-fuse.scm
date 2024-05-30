@@ -1,0 +1,26 @@
+(define-module (crates-io cn tr cntr-fuse) #:use-module (crates-io))
+
+(define-public crate-cntr-fuse-0.3.1 (c (n "cntr-fuse") (v "0.3.1") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "05ylz74sg1nq70f7pqfk9dn6c11gg4wifypkskb4072x81dr0v3h") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.1-rev1 (c (n "cntr-fuse") (v "0.3.1-rev1") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1n0233sy3l30dczna23imimc00g1hhrxnj6lam3d3jr21s507y5d") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.2-rev1 (c (n "cntr-fuse") (v "0.3.2-rev1") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "14alzpb6q8r2r74v2pcs6dddc5jkk7pwdq8mk2rad05wryymn16b") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.2-pre1 (c (n "cntr-fuse") (v "0.3.2-pre1") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1irili1rxy7xyr67plizm56n52s9rd80pv4jg9nk9gggdj81ns28") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.2-pre2 (c (n "cntr-fuse") (v "0.3.2-pre2") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0cld9jygg2szj2kg3fxfvskgs3bscwak06d6a38bglmy0vyl0s7i") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.3 (c (n "cntr-fuse") (v "0.3.3") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "07lc9zhdmki4lh0vnb3hdshaayzkrps7ymh1k0ayn5w42gq949wp") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.4 (c (n "cntr-fuse") (v "0.3.4") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1nb4fidafw81mx306qc69yaza8s872gjh7bzh2k63mzp9mmlkqpd") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.5 (c (n "cntr-fuse") (v "0.3.5") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "03wmjr2r0zyj2dj0kchyj7yk2qg2xncx2060msbwyc1wbpc75xfm") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.3.6 (c (n "cntr-fuse") (v "0.3.6") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thread-scoped") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0302dd89p1jry634vcm5dflgjgd9876q1fpz81sp9n2qm0q84w2w") (f (quote (("libfuse"))))))
+
+(define-public crate-cntr-fuse-0.4.0 (c (n "cntr-fuse") (v "0.4.0") (d (list (d (n "cntr-fuse-abi") (r "=0.4.0") (d #t) (k 0)) (d (n "cntr-fuse-sys") (r "=0.4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.51") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)))) (h "1h7m6f4c7vwlsbvrb77nf5c7agbybl2pknnfhzc1my06vhydxahq") (f (quote (("libfuse" "cntr-fuse-sys/libfuse") ("default" "libfuse"))))))
+
+(define-public crate-cntr-fuse-0.4.1 (c (n "cntr-fuse") (v "0.4.1") (d (list (d (n "cntr-fuse-abi") (r "=0.4.1") (d #t) (k 0)) (d (n "cntr-fuse-sys") (r "=0.4.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.51") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)))) (h "17d32r6gqh1ll74ihgiw4lii07v9aradn0i4vgjk0acpxisnc25n") (f (quote (("libfuse" "cntr-fuse-sys/libfuse") ("default" "libfuse"))))))
+
+(define-public crate-cntr-fuse-0.4.2 (c (n "cntr-fuse") (v "0.4.2") (d (list (d (n "cntr-fuse-abi") (r "=0.4.1") (d #t) (k 0)) (d (n "cntr-fuse-sys") (r "=0.4.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.51") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)))) (h "1bk69lf4xliyanyc0g5jbfyamdbka9v3ibh6n72smgl90p5643s1") (f (quote (("libfuse" "cntr-fuse-sys/libfuse") ("default" "libfuse"))))))
+

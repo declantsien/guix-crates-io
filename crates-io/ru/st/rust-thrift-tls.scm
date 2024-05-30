@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust-thrift-tls) #:use-module (crates-io))
+
+(define-public crate-rust-thrift-tls-0.2.0 (c (n "rust-thrift-tls") (v "0.2.0") (d (list (d (n "filename") (r "^0.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pem-parser") (r "^0.1") (d #t) (k 2)) (d (n "rustls") (r "^0.17") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)) (d (n "thrift") (r "^0.13") (d #t) (k 0)) (d (n "webpki") (r "^0.21") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.19") (d #t) (k 0)))) (h "006gnnv3iib6lvyqymnxn4dgj95jwcvlwl99021a8wvpy0x61scz")))
+
+(define-public crate-rust-thrift-tls-0.2.1 (c (n "rust-thrift-tls") (v "0.2.1") (d (list (d (n "filename") (r "^0.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pem-parser") (r "^0.1") (d #t) (k 2)) (d (n "rustls") (r "^0.17") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)) (d (n "thrift") (r "^0.13") (d #t) (k 0)) (d (n "webpki") (r "^0.21") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.19") (d #t) (k 0)))) (h "1ksb81544sy3nmwv2kks0sklcgylma78bd7x9mwyp95d305zhcad")))
+
+(define-public crate-rust-thrift-tls-0.3.0 (c (n "rust-thrift-tls") (v "0.3.0") (d (list (d (n "filename") (r "^0.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pem-parser") (r "^0.1") (d #t) (k 2)) (d (n "rustls") (r "^0.17") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)) (d (n "thrift") (r "^0.13") (d #t) (k 0)) (d (n "webpki") (r "^0.21") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.19") (d #t) (k 0)))) (h "1064hlmr86j7z7fr9121c9ck9pjpc68l2qz9kwqxb9lfz1f705z9")))
+

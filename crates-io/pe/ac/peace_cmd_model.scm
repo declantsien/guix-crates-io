@@ -1,0 +1,6 @@
+(define-module (crates-io pe ac peace_cmd_model) #:use-module (crates-io))
+
+(define-public crate-peace_cmd_model-0.0.12 (c (n "peace_cmd_model") (v "0.0.12") (d (list (d (n "fn_graph") (r "^0.10.0") (f (quote ("async" "interruptible" "resman"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (o #t) (d #t) (k 0)) (d (n "peace_cfg") (r "^0.0.12") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.52") (d #t) (k 0)) (d (n "tynm") (r "^0.1.9") (d #t) (k 0)))) (h "10plin64pa046pxqym9vj5hp401bvcapvi7swvylrcys13j6w5sm") (f (quote (("default")))) (s 2) (e (quote (("error_reporting" "dep:miette"))))))
+
+(define-public crate-peace_cmd_model-0.0.13 (c (n "peace_cmd_model") (v "0.0.13") (d (list (d (n "fn_graph") (r "^0.12.0") (f (quote ("async" "interruptible" "resman"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (o #t) (d #t) (k 0)) (d (n "peace_cfg") (r "^0.0.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tynm") (r "^0.1.9") (d #t) (k 0)))) (h "18r6i7cg54l291kaahapqym0msl7c9amqlvyw6241220ycz770ni") (f (quote (("default")))) (s 2) (e (quote (("error_reporting" "dep:miette"))))))
+

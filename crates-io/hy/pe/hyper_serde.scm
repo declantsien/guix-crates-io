@@ -1,0 +1,54 @@
+(define-module (crates-io hy pe hyper_serde) #:use-module (crates-io))
+
+(define-public crate-hyper_serde-0.1.0 (c (n "hyper_serde") (v "0.1.0") (d (list (d (n "hyper") (r "^0.9") (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "1600rsdslsimm2cnynk9rz9dmpy7kgz3z5vg49pa6mqd4zwy0vbk")))
+
+(define-public crate-hyper_serde-0.1.1 (c (n "hyper_serde") (v "0.1.1") (d (list (d (n "cookie") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "01snxfswbb87mzgihzz4pad4k8lifrpjbj8wpzn4nmq3yh8rs3m9")))
+
+(define-public crate-hyper_serde-0.1.2 (c (n "hyper_serde") (v "0.1.2") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "15affryybc5q312bzdaxnl49j1d6lsx5g37k1swh8aq5qw3qlz07")))
+
+(define-public crate-hyper_serde-0.1.3 (c (n "hyper_serde") (v "0.1.3") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "015vnysz53pv1a0jl3f3gzl9mwaf03mw00czzpr1zmh7242rsy54")))
+
+(define-public crate-hyper_serde-0.1.4 (c (n "hyper_serde") (v "0.1.4") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "1k5v0qsv3a232c1xaihpm1xa6xrkdrl104cczs521flgcp6izmv3")))
+
+(define-public crate-hyper_serde-0.1.5 (c (n "hyper_serde") (v "0.1.5") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "0yppjcynmd5fq142qpap4cl9g6fdflnyspy1pmjhjjmv81khwxpa")))
+
+(define-public crate-hyper_serde-0.1.6 (c (n "hyper_serde") (v "0.1.6") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "0km2f3sbdrhyybxkj8asi73jmb1kmpr282h558qxw69h2xl22bap")))
+
+(define-public crate-hyper_serde-0.2.0 (c (n "hyper_serde") (v "0.2.0") (d (list (d (n "cookie") (r "^0.4") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_test") (r "^0.8") (d #t) (k 2)))) (h "09g3h5wxj300qa28hrb80y4ha448bi743xzby282dv3x8dn31vcs") (y #t)))
+
+(define-public crate-hyper_serde-0.3.0 (c (n "hyper_serde") (v "0.3.0") (d (list (d (n "cookie") (r "^0.4") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)))) (h "0a03ll5byni2mmd1ib4l07cglxal2nxrr2zs7qfns109v529gvxp") (y #t)))
+
+(define-public crate-hyper_serde-0.4.0 (c (n "hyper_serde") (v "0.4.0") (d (list (d (n "cookie") (r "^0.4") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)))) (h "0q2kcvpwx3l7v21jhcymncr70r4giipdx8bzcrshqz5g348x05gs") (y #t)))
+
+(define-public crate-hyper_serde-0.4.1 (c (n "hyper_serde") (v "0.4.1") (d (list (d (n "cookie") (r "^0.4") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)))) (h "1fkhd1a36qhih1df1b1nn54q82lbnshnz9bcvss8snbnrz7l462n") (y #t)))
+
+(define-public crate-hyper_serde-0.5.0 (c (n "hyper_serde") (v "0.5.0") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)))) (h "16hj70c4kz8nvnmf79vhk0vzr4mhryrxzkl2fihmqk9vnznmy1hr")))
+
+(define-public crate-hyper_serde-0.6.0 (c (n "hyper_serde") (v "0.6.0") (d (list (d (n "cookie") (r "^0.6") (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "078bn95bj71d93hiqbchppwic9h6snp4mffxgrcykb30ba6ws7ac")))
+
+(define-public crate-hyper_serde-0.6.1 (c (n "hyper_serde") (v "0.6.1") (d (list (d (n "cookie") (r "^0.6") (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "0c6a9j3dflnlny4ihn1ybmqqnjq8n45y6r6zpxim0wah8wyzk3k3")))
+
+(define-public crate-hyper_serde-0.5.1 (c (n "hyper_serde") (v "0.5.1") (d (list (d (n "cookie") (r "^0.2") (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "11klpllywvbi273w6k8m4iw48pssfp0ir4rd5sdz8l62fcqaj0nn")))
+
+(define-public crate-hyper_serde-0.6.2 (c (n "hyper_serde") (v "0.6.2") (d (list (d (n "cookie") (r "^0.6") (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_test") (r "^0.9") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "1fw8nz0gv0ld0z06404zhir98qpjnpcy2chrk5cnpvdgb1f9hgd4")))
+
+(define-public crate-hyper_serde-0.7.0 (c (n "hyper_serde") (v "0.7.0") (d (list (d (n "cookie") (r "^0.6") (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "0i74fy8l0jhgg9ij8m388p96gcc53gb4gz69569lwjc09x8kzr6b")))
+
+(define-public crate-hyper_serde-0.8.0 (c (n "hyper_serde") (v "0.8.0") (d (list (d (n "cookie") (r "^0.10") (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "0bnclxlwmk675h56anrmz3j855xv48335bzm5jh6pkk47x3av5q9")))
+
+(define-public crate-hyper_serde-0.9.0 (c (n "hyper_serde") (v "0.9.0") (d (list (d (n "cookie") (r "^0.11") (k 0)) (d (n "headers-ext") (r "^0.0.3") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "1ngkjlwymijlsyjy91qwl3f737n911mc2a28qfmpsvdzydvdav5g")))
+
+(define-public crate-hyper_serde-0.10.0 (c (n "hyper_serde") (v "0.10.0") (d (list (d (n "cookie") (r "^0.11") (k 0)) (d (n "headers-ext") (r "^0.0.4") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "0a00ih90q8y45ilg7ni34540c6ji4zfdx9w9f352pj45h0g6bw60")))
+
+(define-public crate-hyper_serde-0.11.0 (c (n "hyper_serde") (v "0.11.0") (d (list (d (n "cookie") (r "^0.11") (k 0)) (d (n "headers") (r "^0.2") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "1ka098dv8v8qa0qgr2cq75084s65pvpivxza5g1dwrzvgrxrpkpr")))
+
+(define-public crate-hyper_serde-0.11.1 (c (n "hyper_serde") (v "0.11.1") (d (list (d (n "cookie") (r "^0.11") (k 0)) (d (n "headers") (r "^0.2") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "1hg6yv6v69fdrb7iy0scxg5rw2nnm15lp0sk48bkk0v339rzrw1v")))
+
+(define-public crate-hyper_serde-0.12.0 (c (n "hyper_serde") (v "0.12.0") (d (list (d (n "cookie") (r "^0.11") (k 0)) (d (n "headers") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "1vn83bgq0ydbv9gnxxpqfflac91i6fd883i588qal4gf1hy2qfw4")))
+
+(define-public crate-hyper_serde-0.13.0 (c (n "hyper_serde") (v "0.13.0") (d (list (d (n "cookie") (r "^0.12") (k 0)) (d (n "headers") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "00badjfpfirzd80f30smzq807qcl69gw4xx7s56x1dzcp7ifp4s1")))
+
+(define-public crate-hyper_serde-0.13.1 (c (n "hyper_serde") (v "0.13.1") (d (list (d (n "cookie") (r "^0.16") (k 0)) (d (n "headers") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "01fryc9kijs5427j6z6cm2i7mdzpj3n5bfll9jr8fdh6alwqhhxi")))
+
+(define-public crate-hyper_serde-0.13.2 (c (n "hyper_serde") (v "0.13.2") (d (list (d (n "cookie") (r "^0.18") (k 0)) (d (n "headers") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1qdn4cdg5wfhcg7yk3qbwvvkmynfbdnjrqm243xcx69ncydz3wkv")))
+

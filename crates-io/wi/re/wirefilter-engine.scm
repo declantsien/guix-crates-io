@@ -1,0 +1,4 @@
+(define-module (crates-io wi re wirefilter-engine) #:use-module (crates-io))
+
+(define-public crate-wirefilter-engine-0.6.1 (c (n "wirefilter-engine") (v "0.6.1") (d (list (d (n "cfg-if") (r "^0.1.6") (d #t) (k 0)) (d (n "cidr") (r "^0.1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.2.5") (d #t) (k 2)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "fnv") (r "^1.0.6") (d #t) (k 0)) (d (n "indexmap") (r "^1.0.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "indoc") (r "^0.3.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 2)) (d (n "memmem") (r "^0.1.1") (d #t) (k 0)) (d (n "regex") (r "^1.0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.78") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 2)))) (h "0plk46g044c62h58jhvr6awm31gvpgdbc4v0cwsk2j49br94fh63") (f (quote (("default" "regex"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io sp hi sphincs-plus-cry4) #:use-module (crates-io))
+
+(define-public crate-sphincs-plus-cry4-0.1.0 (c (n "sphincs-plus-cry4") (v "0.1.0") (d (list (d (n "blake3") (r "^1.3.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "ecdsa") (r "^0.14.1") (o #t) (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "k256") (r "^0.11.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)))) (h "1n8d7zn4j2y68cn2l8955kmdbhlp59m1qdwycqkwgbhq1r76zcp5") (f (quote (("build-binary" "rsa" "ecdsa" "k256"))))))
+
+(define-public crate-sphincs-plus-cry4-0.1.1 (c (n "sphincs-plus-cry4") (v "0.1.1") (d (list (d (n "blake3") (r "^1.3.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "ecdsa") (r "^0.14.1") (o #t) (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "k256") (r "^0.11.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)))) (h "1pjyywbcdc0jqq490lhxplpv9pdz1ifx1rc0hsikb76sgvn7sgi4") (f (quote (("build-binary" "rsa" "ecdsa" "k256"))))))
+

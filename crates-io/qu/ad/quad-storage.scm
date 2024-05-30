@@ -1,0 +1,10 @@
+(define-module (crates-io qu ad quad-storage) #:use-module (crates-io))
+
+(define-public crate-quad-storage-0.1.0 (c (n "quad-storage") (v "0.1.0") (d (list (d (n "egui") (r "^0.13.1") (d #t) (k 2)) (d (n "egui-macroquad") (r "^0.5.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "macroquad") (r "^0.3.7") (d #t) (k 2)) (d (n "nanoserde") (r "^0.1.29") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "sapp-jsutils") (r "^0.1.5") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1ah81k2ndhyn9mqmbgwfmmhia0yk4i3jm2i3wm8j0117pa38wfn0") (y #t)))
+
+(define-public crate-quad-storage-0.1.1 (c (n "quad-storage") (v "0.1.1") (d (list (d (n "egui") (r "^0.13.1") (d #t) (k 2)) (d (n "egui-macroquad") (r "^0.5.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "macroquad") (r "^0.3.7") (d #t) (k 2)) (d (n "nanoserde") (r "^0.1.29") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "sapp-jsutils") (r "^0.1.5") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1bnmzx680w5i1y4vfyc1wv7ccq48kznvzfls1vn8d9g2b2j3nqxg") (y #t)))
+
+(define-public crate-quad-storage-0.1.2 (c (n "quad-storage") (v "0.1.2") (d (list (d (n "egui") (r "^0.13.1") (d #t) (k 2)) (d (n "egui-macroquad") (r "^0.5.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "macroquad") (r "^0.3.7") (d #t) (k 2)) (d (n "nanoserde") (r "^0.1.29") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "sapp-jsutils") (r "^0.1.5") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "06smraxby2vq0d3hsr87zvm7mgmwrmwwljy31mvqx1xqp0vwwh4w")))
+
+(define-public crate-quad-storage-0.1.3 (c (n "quad-storage") (v "0.1.3") (d (list (d (n "egui") (r "^0.13.1") (d #t) (k 2)) (d (n "egui-macroquad") (r "^0.5.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "macroquad") (r "^0.3.7") (d #t) (k 2)) (d (n "nanoserde") (r "^0.1.29") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "quad-storage-sys") (r "^0.1.0") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "03jaw7acfzdxm9zrlfdr9aivs6wcdxphi8b8bjjbbwwjqyldngp7")))
+

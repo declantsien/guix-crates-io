@@ -1,0 +1,6 @@
+(define-module (crates-io cw ra cwrap) #:use-module (crates-io))
+
+(define-public crate-cwrap-0.1.4 (c (n "cwrap") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "hostname") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "random-number") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "syslog") (r "^5.0") (d #t) (k 0)))) (h "0kr2n2nwl0pykjkky3nl6kn6gls5w6777svid2k5msnfcildpms9")))
+
+(define-public crate-cwrap-0.1.7 (c (n "cwrap") (v "0.1.7") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "hostname") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "random-number") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)) (d (n "syslog") (r "^5.0") (d #t) (k 0)))) (h "10mz4gzf6823n3x0pwv7v7ngi21zah40r1xsbmfg9k2vqbbljnjq")))
+

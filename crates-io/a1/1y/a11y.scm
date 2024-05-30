@@ -1,0 +1,12 @@
+(define-module (crates-io a1 #{1y}# a11y) #:use-module (crates-io))
+
+(define-public crate-a11y-0.1.0 (c (n "a11y") (v "0.1.0") (d (list (d (n "rigela-utils") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "win-wrap") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.54.0") (o #t) (d #t) (k 0)))) (h "1v2j34fdpf88j033fs3h0bc0zby4aqcj8gwlsxpxwxw1cnnd9v9j") (f (quote (("jab" "JabLib") ("ia2" "IAccessible2Lib" "win-wrap/msaa") ("JabLib" "rigela-utils/library") ("IAccessible2Lib" "rigela-utils/library" "windows/windows-interface"))))))
+
+(define-public crate-a11y-0.1.1 (c (n "a11y") (v "0.1.1") (d (list (d (n "rigela-utils") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "win-wrap") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.54.0") (o #t) (d #t) (k 0)))) (h "1m7kag9rnl5ybw4k66db1r5b9ph2j7jvch7lsfybxk0lhbp5y6kg") (f (quote (("jab" "JabLib") ("ia2" "IAccessible2Lib" "win-wrap/msaa") ("JabLib" "rigela-utils/library") ("IAccessible2Lib" "rigela-utils/library" "windows/windows-interface"))))))
+
+(define-public crate-a11y-0.1.2 (c (n "a11y") (v "0.1.2") (d (list (d (n "rigela-utils") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "win-wrap") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.54.0") (o #t) (d #t) (k 0)))) (h "1sfamhrz09g44a08l4aqcbbi9mdr111i03sjq002psd9s54glxma") (f (quote (("jab" "JabLib") ("ia2" "IAccessible2Lib" "win-wrap/msaa") ("JabLib" "rigela-utils/library") ("IAccessible2Lib" "rigela-utils/library" "windows/windows-interface"))))))
+
+(define-public crate-a11y-0.1.3 (c (n "a11y") (v "0.1.3") (d (list (d (n "rigela-utils") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "win-wrap") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.54.0") (o #t) (d #t) (k 0)))) (h "08r4zbqxjkkbn7iav3xhs5j0hd9gn5mxs3gyhzhzgss46y6w44dj") (f (quote (("jab" "JabLib") ("ia2" "IAccessible2Lib" "win-wrap/msaa") ("JabLib" "rigela-utils/library") ("IAccessible2Lib" "rigela-utils/library" "windows/windows-interface"))))))
+
+(define-public crate-a11y-0.1.4 (c (n "a11y") (v "0.1.4") (d (list (d (n "rigela-utils") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "win-wrap") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (o #t) (d #t) (k 0)) (d (n "windows-core") (r "^0.56.0") (o #t) (d #t) (k 0)))) (h "1vmkpilhi582yd1a1aga4qmk21q6sfwjp94m48kvl8ry64y6ll21") (f (quote (("jab" "JabLib") ("ia2" "IAccessible2Lib" "win-wrap/msaa" "windows/Win32_Foundation") ("JabLib" "rigela-utils/library") ("IAccessible2Lib" "rigela-utils/library" "windows-core"))))))
+

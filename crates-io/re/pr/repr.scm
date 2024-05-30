@@ -1,0 +1,24 @@
+(define-module (crates-io re pr repr) #:use-module (crates-io))
+
+(define-public crate-repr-0.0.0 (c (n "repr") (v "0.0.0") (d (list (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "0d728ndb34hxc9q5nvcxx3j4s7axk3w16qa8f8zw49myzxq19hyf") (r "1.62.0")))
+
+(define-public crate-repr-0.0.1 (c (n "repr") (v "0.0.1") (d (list (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "0qjfrlcb64y228kly6658jdldm4jhvjjnyhkd1qqljz9ydgm3nyp") (r "1.62.0")))
+
+(define-public crate-repr-0.0.2 (c (n "repr") (v "0.0.2") (d (list (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "0izybxlvp3mi5w4ak1p44gppjanmsdr1q7m851sfivcks0q8jvnf") (r "1.62.0")))
+
+(define-public crate-repr-0.0.3 (c (n "repr") (v "0.0.3") (d (list (d (n "regex") (r "^1.7") (f (quote ("pattern"))) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "0q1fa8zv42il8abzf9g11yfbadvmbsy728jf59lnnwlmdj0zqmyx") (r "1.62.0")))
+
+(define-public crate-repr-0.0.4 (c (n "repr") (v "0.0.4") (d (list (d (n "regex") (r "^1.7") (f (quote ("pattern"))) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "0x4wfzpizb2pnxqpnrrklbr4fcii7rv5n4ldq8p1dgikrs4zxhhc") (r "1.62.0")))
+
+(define-public crate-repr-0.0.5 (c (n "repr") (v "0.0.5") (d (list (d (n "regex") (r "^1.7") (f (quote ("pattern"))) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "1jfra9n44xqs4ibnmxs8fkn0q35aypib45wxhjw1kcarafnjs14n") (r "1.62.0")))
+
+(define-public crate-repr-0.0.6 (c (n "repr") (v "0.0.6") (d (list (d (n "regex") (r "^1.7") (f (quote ("pattern"))) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "0m4g84vifpwxycjp6qrymx1gd04n3kxxgxry11xgqxlf4dl9ih5l") (r "1.62.0")))
+
+(define-public crate-repr-0.0.7 (c (n "repr") (v "0.0.7") (d (list (d (n "regex") (r "^1.7") (f (quote ("pattern"))) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)))) (h "1mazb95l2sbica6j445kjnqf5hbpmb470zklnfksrpnl2zlcpiw0") (r "1.62.0")))
+
+(define-public crate-repr-0.0.8 (c (n "repr") (v "0.0.8") (d (list (d (n "aho-corasick") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.5.0") (o #t) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)) (d (n "unconst") (r "^0") (d #t) (k 0)))) (h "10h6r6jdryl982sgygaq5fp8fvk6p5dq9wbyx6khxl2hc2hfsgyx") (f (quote (("unicode-segment" "regex-syntax/unicode-segment") ("unicode-script" "regex-syntax/unicode-script") ("unicode-perl" "regex-syntax/unicode-perl") ("unicode-gencat" "regex-syntax/unicode-gencat") ("unicode-case" "regex-syntax/unicode-case") ("unicode-bool" "regex-syntax/unicode-bool") ("unicode-age" "regex-syntax/unicode-age") ("unicode" "unicode-age" "unicode-bool" "unicode-case" "unicode-gencat" "unicode-perl" "unicode-script" "unicode-segment" "regex-syntax/unicode") ("std") ("quotient" "aho-corasick" "memchr") ("perf-inline") ("default" "std" "perf-inline" "unicode" "regex-syntax/default")))) (r "1.62.0")))
+
+(define-public crate-repr-0.0.9 (c (n "repr") (v "0.0.9") (d (list (d (n "aho-corasick") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.5.0") (o #t) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.6") (d #t) (k 0)) (d (n "unconst") (r "^0") (d #t) (k 0)))) (h "0hcrd4j9x8vlnm4s5fbwgadlphchl2acbh5hazpxd24152w0gjdn") (f (quote (("unicode-segment" "regex-syntax/unicode-segment") ("unicode-script" "regex-syntax/unicode-script") ("unicode-perl" "regex-syntax/unicode-perl") ("unicode-gencat" "regex-syntax/unicode-gencat") ("unicode-case" "regex-syntax/unicode-case") ("unicode-bool" "regex-syntax/unicode-bool") ("unicode-age" "regex-syntax/unicode-age") ("unicode" "unicode-age" "unicode-bool" "unicode-case" "unicode-gencat" "unicode-perl" "unicode-script" "unicode-segment" "regex-syntax/unicode") ("std") ("quotient" "aho-corasick" "memchr") ("perf-inline") ("default" "std" "perf-inline" "unicode" "regex-syntax/default")))) (r "1.62.0")))
+
+(define-public crate-repr-0.0.10 (c (n "repr") (v "0.0.10") (d (list (d (n "aho-corasick") (r "^1") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.5.0") (o #t) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.7") (d #t) (k 0)) (d (n "unconst") (r "^0.9") (d #t) (k 0)))) (h "03jv2j9yv9db2kmdqxaar5dbbsjr0l9yby7y9vn93853babbpmrq") (f (quote (("unicode-segment" "regex-syntax/unicode-segment") ("unicode-script" "regex-syntax/unicode-script") ("unicode-perl" "regex-syntax/unicode-perl") ("unicode-gencat" "regex-syntax/unicode-gencat") ("unicode-case" "regex-syntax/unicode-case") ("unicode-bool" "regex-syntax/unicode-bool") ("unicode-age" "regex-syntax/unicode-age") ("unicode" "unicode-age" "unicode-bool" "unicode-case" "unicode-gencat" "unicode-perl" "unicode-script" "unicode-segment" "regex-syntax/unicode") ("std") ("quotient" "aho-corasick" "memchr") ("perf-inline") ("default" "std" "perf-inline" "unicode" "regex-syntax/default")))) (r "1.70.0")))
+

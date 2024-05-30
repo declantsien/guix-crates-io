@@ -1,0 +1,6 @@
+(define-module (crates-io ni ki nikidb) #:use-module (crates-io))
+
+(define-public crate-nikidb-0.1.0 (c (n "nikidb") (v "0.1.0") (d (list (d (n "crc") (r "^1.8") (d #t) (k 0)) (d (n "fnv") (r "^1.0.6") (d #t) (k 0)) (d (n "integer-encoding") (r "^3.0.2") (d #t) (k 0)) (d (n "lock_api") (r "^0.1.5") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "memmap") (r "^0.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.6") (d #t) (k 0)) (d (n "page_size") (r "^0.4.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "00c8b6h8n4l7xxiqp5lbm88sih1jwh1jy3hvw2kiciq8n1v7r7a6")))
+
+(define-public crate-nikidb-0.1.1 (c (n "nikidb") (v "0.1.1") (d (list (d (n "crc") (r "^1.8") (d #t) (k 0)) (d (n "fnv") (r "^1.0.6") (d #t) (k 0)) (d (n "integer-encoding") (r "^3.0.2") (d #t) (k 0)) (d (n "lock_api") (r "^0.1.5") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "memmap") (r "^0.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.6") (d #t) (k 0)) (d (n "page_size") (r "^0.4.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1a4xj0hnp25ljfwzqvv5a0qg4khcxmgjp965i0jami2pm5fx12m4")))
+

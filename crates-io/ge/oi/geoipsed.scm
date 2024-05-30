@@ -1,0 +1,4 @@
+(define-module (crates-io ge oi geoipsed) #:use-module (crates-io))
+
+(define-public crate-geoipsed-0.1.3 (c (n "geoipsed") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "camino") (r "^1.1.6") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive" "env" "unicode" "cargo"))) (d #t) (k 0)) (d (n "field_names") (r "^0.2.0") (d #t) (k 0)) (d (n "grep-cli") (r "^0.1.10") (d #t) (k 0)) (d (n "maxminddb") (r "^0.24.0") (f (quote ("mmap"))) (d #t) (k 0)) (d (n "microtemplate") (r "^1.0.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "ripline") (r "^0.1.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.4.1") (d #t) (k 0)))) (h "0860dwmgzmqj0dhz54cz30spmr9jfm5rg6qg3sawr2vza7vrm0b5")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tw il twilio_wasi) #:use-module (crates-io))
+
+(define-public crate-twilio_wasi-1.0.3 (c (n "twilio_wasi") (v "1.0.3") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "headers") (r "^0.3.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("server"))) (d #t) (k 2)) (d (n "hyper_wasi") (r "^0.15") (f (quote ("full"))) (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "test-util"))) (d #t) (k 2)) (d (n "url") (r "^2.0") (d #t) (k 0)) (d (n "wasmedge_hyper_rustls") (r "^0.1.0") (d #t) (k 0)) (d (n "wasmedge_rustls_api") (r "^0.1") (f (quote ("tokio_async"))) (d #t) (k 0)))) (h "1awdjz27g9fcjxq24a34ivyyw5splhhw7myhaq1m3kdxkcqrgy3h")))
+

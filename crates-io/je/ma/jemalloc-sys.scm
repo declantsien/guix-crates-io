@@ -1,0 +1,36 @@
+(define-module (crates-io je ma jemalloc-sys) #:use-module (crates-io))
+
+(define-public crate-jemalloc-sys-0.1.0 (c (n "jemalloc-sys") (v "0.1.0") (d (list (d (n "gcc") (r "^0.3") (d #t) (k 1)) (d (n "libc") (r "^0.2") (f (quote ("no-std"))) (d #t) (k 0)))) (h "0ir7f5ili6kpl94pdcknm83h2wbznzknz5rind7gamrbacgql72m")))
+
+(define-public crate-jemalloc-sys-0.1.1 (c (n "jemalloc-sys") (v "0.1.1") (d (list (d (n "gcc") (r "^0.3") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "1r2fmn3dam0jsxrv2xvcksrwpz7ijd2yr95phvwj95rjrnw6v4cr") (f (quote (("profiling"))))))
+
+(define-public crate-jemalloc-sys-0.1.2 (c (n "jemalloc-sys") (v "0.1.2") (d (list (d (n "gcc") (r "^0.3") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "09d5c3y3j3y1qhmbz61zgd834734d4yxmpdm2qcpbd4fqa5mbr0v") (f (quote (("profiling"))))))
+
+(define-public crate-jemalloc-sys-0.1.3 (c (n "jemalloc-sys") (v "0.1.3") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "0a188kl1pd41sxywpl1zzynzs9f9dvdx3f5a5k2faic3gr6n5ywl") (f (quote (("profiling") ("debug"))))))
+
+(define-public crate-jemalloc-sys-0.1.4 (c (n "jemalloc-sys") (v "0.1.4") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "1a9hgyafwzammwvwlji0sq1jnqwv0n6px5bs7jlssbsh638r94j7") (f (quote (("profiling") ("debug"))))))
+
+(define-public crate-jemalloc-sys-0.1.5 (c (n "jemalloc-sys") (v "0.1.5") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "096c782j9hyzw4q3cxiz0sh2ma6d94cxl8aznsjvlzcvfiwa3fjs") (f (quote (("profiling") ("debug")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.1.6 (c (n "jemalloc-sys") (v "0.1.6") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "1k1jjf64s35id8yisc76gjk40jknpkicpddka2x6z2x0i4mrqbwq") (f (quote (("profiling") ("default" "bg_thread") ("debug") ("bg_thread")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.1.7 (c (n "jemalloc-sys") (v "0.1.7") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "1pky9nal3sk8hkmi6w09ryhnprc6xh4clw4xv30c3w2ng2998jni") (f (quote (("unprefixed_malloc_on_supported_platforms") ("profiling") ("default" "bg_thread") ("debug") ("bg_thread")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.1.8 (c (n "jemalloc-sys") (v "0.1.8") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (d #t) (k 0)))) (h "1bh07rlzgg39ys1lsgnpxgvjj6blagp2h17fx267d0g3a272rimz") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("default" "bg_thread") ("debug") ("bg_thread")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.3.0 (c (n "jemalloc-sys") (v "0.3.0") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "1p1bnnj2wiqcpg7arwa9wa4fg7dx4j1ksvj61gcdyy3mwd60vvvv") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.3.1 (c (n "jemalloc-sys") (v "0.3.1") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "13kqzhdc09m4xpbsghnz6if5a95zv31lz7ldysqifxa3xr2fknks") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.3.2 (c (n "jemalloc-sys") (v "0.3.2") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "0ify9vlql01qhfxlj7d4p9jvcp90mj2h69nkbq7slccvbhzryfqd") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.5.0+5.3.0 (c (n "jemalloc-sys") (v "0.5.0+5.3.0") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "02zpd2qpm6llfd415q5r1315mgfla52vbd4m8mih63bbzbnc6mgn") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.5.1+5.3.0-patched (c (n "jemalloc-sys") (v "0.5.1+5.3.0-patched") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "0ck4fd8zlvxn9vs3xak28lwwkdxrgy8wd9f5n2f975cvc09v7hmp") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.5.2+5.3.0-patched (c (n "jemalloc-sys") (v "0.5.2+5.3.0-patched") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "fs_extra") (r "^1.1") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "1y7knl8yld42f199kxailfdr6y89nh8bfdw6r5j9bvbfkfbn6h8k") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.5.3+5.3.0-patched (c (n "jemalloc-sys") (v "0.5.3+5.3.0-patched") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "18bwwikzq2krgafq3811n1zlsrjrayk0kqmjf6smivd7drhmvggr") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+
+(define-public crate-jemalloc-sys-0.5.4+5.3.0-patched (c (n "jemalloc-sys") (v "0.5.4+5.3.0-patched") (d (list (d (n "cc") (r "^1.0.13") (d #t) (k 1)) (d (n "libc") (r "^0.2.8") (k 0)))) (h "1wpbpwhfs6wd484cdfpl0zdf441ann9wj0fypy67i8ffw531jv5c") (f (quote (("unprefixed_malloc_on_supported_platforms") ("stats") ("profiling") ("disable_initial_exec_tls") ("disable_cache_oblivious") ("default" "background_threads_runtime_support") ("debug") ("background_threads_runtime_support") ("background_threads" "background_threads_runtime_support")))) (l "jemalloc")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tw sn twsnap) #:use-module (crates-io))
+
+(define-public crate-twsnap-0.1.0 (c (n "twsnap") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "fixed") (r "^1.24.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-common") (r "^0.1.0") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-demo") (r "^0.1.0") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-ddnet") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "vek") (r "^0.16.1") (f (quote ("rgb"))) (d #t) (k 0)) (d (n "warn") (r "^0.2.1") (d #t) (k 0)))) (h "1vw3c4dikwzlmxx4pymgp8qgwk6h1bi09jsh4v53n468k5yai0rd")))
+

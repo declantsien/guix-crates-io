@@ -1,0 +1,12 @@
+(define-module (crates-io pe gm pegmd) #:use-module (crates-io))
+
+(define-public crate-pegmd-0.1.0 (c (n "pegmd") (v "0.1.0") (d (list (d (n "indoc") (r "^2") (d #t) (k 2)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)))) (h "1gx2bgw323lplihbvbcaxgxphj9vi0f00sjgmf37cv8dqn1zh6zh") (y #t)))
+
+(define-public crate-pegmd-0.2.0 (c (n "pegmd") (v "0.2.0") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0kwvp2zyzh7byj0k5a5ghp5aflhk4sn7s99r9gf0qgwkygp23hsm") (f (quote (("html") ("default")))) (s 2) (e (quote (("serde_support" "dep:serde"))))))
+
+(define-public crate-pegmd-0.2.1 (c (n "pegmd") (v "0.2.1") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0wzsqcwrb7749kwkbhzn4mai8zmqdiw4cfx0iq79zhwaizi0skxy") (f (quote (("html") ("default")))) (s 2) (e (quote (("serde_support" "dep:serde"))))))
+
+(define-public crate-pegmd-0.2.2 (c (n "pegmd") (v "0.2.2") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "02c3m1g0az0lyc0g2lbr423lkhvn0bd7f4fwlb5xh5kcbgqbgxhg") (f (quote (("html") ("default")))) (s 2) (e (quote (("serde_support" "dep:serde"))))))
+
+(define-public crate-pegmd-0.2.3 (c (n "pegmd") (v "0.2.3") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1smyll3v3m9f0wh0937pakwapr0rsqy2k8m9sqhani35fc74pgl3") (f (quote (("html") ("default")))) (s 2) (e (quote (("serde_support" "dep:serde"))))))
+

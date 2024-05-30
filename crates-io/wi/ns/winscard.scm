@@ -1,0 +1,4 @@
+(define-module (crates-io wi ns winscard) #:use-module (crates-io))
+
+(define-public crate-winscard-0.1.0 (c (n "winscard") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (f (quote ("zlib" "rust_backend"))) (k 0)) (d (n "iso7816") (r "^0.1.1") (d #t) (k 0)) (d (n "iso7816-tlv") (r "^0.4.3") (d #t) (k 0)) (d (n "picky") (r "^7.0.0-rc.8") (f (quote ("x509"))) (k 0)) (d (n "picky-asn1-x509") (r "^0.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "rsa") (r "^0.9.6") (f (quote ("hazmat" "sha1"))) (k 0)) (d (n "sha1") (r "^0.10.6") (k 0)) (d (n "time") (r "^0.3.28") (f (quote ("formatting"))) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("attributes"))) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (k 0)))) (h "0c2n8nam81ypb4knjmbv5w8nknvkizjclqcfas8rwm2yq3jp8z21") (f (quote (("std" "tracing/std"))))))
+

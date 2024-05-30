@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# p p0w) #:use-module (crates-io))
+
+(define-public crate-p0w-0.1.0 (c (n "p0w") (v "0.1.0") (d (list (d (n "blake3") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ajjf277jbnjggwdd82hmr2xfssh51ym5p0razp0kx1sy110429l")))
+
+(define-public crate-p0w-0.2.0 (c (n "p0w") (v "0.2.0") (d (list (d (n "blake3") (r "^0.3") (d #t) (k 0)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ggp93wfgipvcglzh823gfyxsq3r6f1433fsg6lxlamswvxqbbiq") (f (quote (("default" "rayon"))))))
+
+(define-public crate-p0w-0.2.1 (c (n "p0w") (v "0.2.1") (d (list (d (n "blake3") (r "^0.3") (d #t) (k 0)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1flp274hwhrv1vxpl493cy6h7m6chws7g1kkv3x8j9dh20v581xj") (f (quote (("parallel" "rayon") ("default" "parallel" "thiserror"))))))
+
+(define-public crate-p0w-0.2.2 (c (n "p0w") (v "0.2.2") (d (list (d (n "blake3") (r "^0.3") (d #t) (k 0)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1rmiw9d9j7qkdjzxsaas17sgss9hp8ld0084fajlalsb984863gk") (f (quote (("parallel" "rayon") ("default" "parallel" "thiserror"))))))
+

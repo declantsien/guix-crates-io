@@ -1,0 +1,6 @@
+(define-module (crates-io ge no genomic_interval_pipeline) #:use-module (crates-io))
+
+(define-public crate-genomic_interval_pipeline-0.1.0 (c (n "genomic_interval_pipeline") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.19") (d #t) (k 0)) (d (n "hdf5") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memrange") (r "^0.1.3") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.1") (d #t) (k 0)) (d (n "pbr") (r "^1.0.3") (d #t) (k 0)) (d (n "rust-htslib") (r "^0.35.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "theban_interval_tree") (r "^0.7.1") (d #t) (k 0)))) (h "0kflnmivax4xad8xpq6377acb91z28x718ih1r1l40inpbfv2c76")))
+
+(define-public crate-genomic_interval_pipeline-0.1.3 (c (n "genomic_interval_pipeline") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.19") (d #t) (k 0)) (d (n "hdf5") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memrange") (r "^0.1.3") (d #t) (k 0)) (d (n "ndarray") (r "^0.13.1") (d #t) (k 0)) (d (n "pbr") (r "^1.0.3") (d #t) (k 0)) (d (n "rust-htslib") (r "^0.35.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "theban_interval_tree") (r "^0.7.1") (d #t) (k 0)))) (h "0f4cx1d3inbzqck5wg3wiins8y41jwpdbzgnfywmfphawl6kjlbi")))
+

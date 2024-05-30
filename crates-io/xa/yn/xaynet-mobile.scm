@@ -1,0 +1,4 @@
+(define-module (crates-io xa yn xaynet-mobile) #:use-module (crates-io))
+
+(define-public crate-xaynet-mobile-0.1.0 (c (n "xaynet-mobile") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "ffi-support") (r "^0.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.10") (f (quote ("rustls-tls"))) (k 0)) (d (n "sodiumoxide") (r "^0.2.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^0.2.24") (f (quote ("rt-core"))) (k 0)) (d (n "tracing") (r "^0.1.22") (d #t) (k 0)) (d (n "xaynet-core") (r "^0.2.0") (d #t) (k 0)) (d (n "xaynet-sdk") (r "^0.1.0") (f (quote ("reqwest-client"))) (k 0)) (d (n "zeroize") (r "^1.2.0") (d #t) (k 0)))) (h "19ksrk7kndnj7adi580h23h5yg7zik9ppc5xlqkwp8rjjc71mxlb") (f (quote (("default"))))))
+

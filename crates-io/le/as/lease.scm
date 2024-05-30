@@ -1,0 +1,24 @@
+(define-module (crates-io le as lease) #:use-module (crates-io))
+
+(define-public crate-lease-0.1.0 (c (n "lease") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "092i24g03zx29sp62gjqbys2dbh5vhrj3sya41knddnnpzajbvvp") (f (quote (("stream" "futures-core" "async") ("async" "linked-hash-map"))))))
+
+(define-public crate-lease-0.2.0 (c (n "lease") (v "0.2.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1qbvcsxcmbj96404df7zfnxm07znldf96njxx3vd1nffw9mpx5l4") (f (quote (("default" "async") ("async" "linked-hash-map" "futures-core"))))))
+
+(define-public crate-lease-0.2.1 (c (n "lease") (v "0.2.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1wh6xxwfiimkjz2mb0lmzvl65czjh45dha60js4z6bp6rqcr905f") (f (quote (("default" "async") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.2.2 (c (n "lease") (v "0.2.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1530h46x2r90xrr9gydprpk5psay8m51kfjhps4zn7m76nyddrqb") (f (quote (("default" "async") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.2.3 (c (n "lease") (v "0.2.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "038lmazyw9m1m94imxlz0kfpws9gj5z5bijggl1j52fg9f2gzhdv") (f (quote (("default" "async") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.3.0 (c (n "lease") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "027kjwwzapdjr4mxs74xdx8hblg2lcy0rklmcvj8p3qz978yg67s") (f (quote (("default") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.3.1 (c (n "lease") (v "0.3.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0rm2npza2ig90q9lk5hij0q70vyi2plxba9pxmhs65xw0fry99m9") (f (quote (("default") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.3.2 (c (n "lease") (v "0.3.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0w3r7nzsrsn0x96z25734rq08sx1w3wb17pwmr71kzvqzlvfxl7w") (f (quote (("default") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.3.3 (c (n "lease") (v "0.3.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0yx6r527j60d99v72lhnhwv54hd6k892l1xx0fnpp1hd5r32qw7b") (f (quote (("default") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.4.0 (c (n "lease") (v "0.4.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (o #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "01w4b9zxr01m294q357ysj9hbmanrnr2byg44w9jxcqy3lb7jhwi") (f (quote (("default") ("async" "futures-core"))))))
+
+(define-public crate-lease-0.5.0 (c (n "lease") (v "0.5.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-channel") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (o #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (f (quote ("arc_lock" "send_guard"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0nafjb60asc4axw302nk64zrwrcnk7jz3xlf3bw4k21f0kjdj26b") (f (quote (("default") ("async" "futures-core" "futures-channel"))))))
+

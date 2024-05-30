@@ -1,0 +1,10 @@
+(define-module (crates-io re tr retroimg) #:use-module (crates-io))
+
+(define-public crate-retroimg-0.1.0 (c (n "retroimg") (v "0.1.0") (d (list (d (n "exoquant") (r "^0.2.0") (d #t) (k 0)) (d (n "image") (r "^0.23.12") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "snafu") (r "^0.6.10") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "00f97i457sf878kpl1h34nq5hvmaimaplsrj0bs8v1v638pkdbw5") (f (quote (("l1"))))))
+
+(define-public crate-retroimg-0.2.0 (c (n "retroimg") (v "0.2.0") (d (list (d (n "exoquant") (r "^0.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "snafu") (r "^0.7.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)))) (h "0hki78vql2d7wnhhvxzmn16c1cz4p45k5j0l3rcaj34brkxml4br") (f (quote (("l1"))))))
+
+(define-public crate-retroimg-0.3.0 (c (n "retroimg") (v "0.3.0") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "exoquant") (r "^0.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.1") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "farbfeld" "jpeg_rayon"))) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (k 0)) (d (n "snafu") (r "^0.7.0") (d #t) (k 0)))) (h "1n4lc8yzlyrnjrd282c3p9zy3sy28ajy65pj3r0x7fsnhki4nl6q") (f (quote (("l1") ("default" "cli") ("cli" "clap"))))))
+
+(define-public crate-retroimg-0.4.0 (c (n "retroimg") (v "0.4.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "exoquant") (r "^0.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.1") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "farbfeld" "jpeg_rayon"))) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "num-rational") (r "^0.4.0") (k 0)) (d (n "snafu") (r "^0.7.0") (d #t) (k 0)))) (h "1za1wwl7fnnnslbwzygrpi04aj81liwb7njb07ca3ci9l1hi8mfw") (f (quote (("default" "cli") ("cli" "clap"))))))
+

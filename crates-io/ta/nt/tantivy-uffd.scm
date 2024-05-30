@@ -1,0 +1,4 @@
+(define-module (crates-io ta nt tantivy-uffd) #:use-module (crates-io))
+
+(define-public crate-tantivy-uffd-0.1.0 (c (n "tantivy-uffd") (v "0.1.0") (d (list (d (n "ctor") (r "^0.2.6") (d #t) (k 2)) (d (n "dashmap") (r "^5.5.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "lru") (r "^0.12.2") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (f (quote ("ioctl" "mman"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tantivy") (r "^0.21.1") (k 0)) (d (n "tantivy") (r "^0.21.1") (d #t) (k 2)) (d (n "tantivy-common") (r "^0.6.0") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "sync" "macros"))) (d #t) (k 0)) (d (n "userfaultfd") (r "^0.8.1") (f (quote ("linux4_14" "linux5_7"))) (d #t) (k 0)))) (h "0znjnjr902jqk8yyjkl31kigq4x760mzgmb4305vl6n5x3awl54a")))
+

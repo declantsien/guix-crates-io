@@ -1,0 +1,4 @@
+(define-module (crates-io ru nt runtime-module-condition-caller) #:use-module (crates-io))
+
+(define-public crate-runtime-module-condition-caller-0.8.9 (c (n "runtime-module-condition-caller") (v "0.8.9") (d (list (d (n "codec") (r "^1.3.4") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0") (k 0)) (d (n "frame-system") (r "^2.0.0") (k 0)) (d (n "mock-boolean-condition") (r "^0.8.9") (k 0)) (d (n "mock-numeric-condition") (r "^0.8.9") (k 0)) (d (n "single-session-app") (r "^0.8.5") (k 0)) (d (n "sp-runtime") (r "^2.0.0") (k 0)) (d (n "sp-std") (r "^2.0.0") (k 0)))) (h "11g2vgaka4pl7zyb7hfaaixjik6br656zk6cc18r86axpyg2nm62") (f (quote (("std" "codec/std" "sp-std/std" "sp-runtime/std" "frame-support/std" "frame-system/std" "mock-numeric-condition/std" "mock-boolean-condition/std" "single-session-app/std") ("default" "std"))))))
+

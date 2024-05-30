@@ -1,0 +1,6 @@
+(define-module (crates-io cv ef cvefixer) #:use-module (crates-io))
+
+(define-public crate-cvefixer-0.8.0 (c (n "cvefixer") (v "0.8.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fastrand") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("macros" "parsing" "local-offset"))) (d #t) (k 0)))) (h "04m8fd096q89pvvphwr163rakbmk9j2221bxj365iw4804jadn4c")))
+
+(define-public crate-cvefixer-0.9.0 (c (n "cvefixer") (v "0.9.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fastrand") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("macros" "parsing" "local-offset"))) (d #t) (k 0)) (d (n "which") (r "^6.0.1") (d #t) (k 0)))) (h "1sw4xddh8hxalriad9rps18x3xk66bv8hf7v9ayv0dahy9ng6hrv")))
+

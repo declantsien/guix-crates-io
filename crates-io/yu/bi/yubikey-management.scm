@@ -1,0 +1,8 @@
+(define-module (crates-io yu bi yubikey-management) #:use-module (crates-io))
+
+(define-public crate-yubikey-management-0.0.1 (c (n "yubikey-management") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "iso7816-tlv") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "openpgp-card") (r "^0.3") (d #t) (k 0)) (d (n "openpgp-card-pcsc") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0cbx1djcdppniqkpbigg8a1wh7i7lh2v9l9dn2mckvrcyya58595")))
+
+(define-public crate-yubikey-management-0.0.2 (c (n "yubikey-management") (v "0.0.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "card-backend") (r "^0.1") (d #t) (k 0)) (d (n "card-backend-pcsc") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "iso7816-tlv") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0irql0al1gjfvk9fxiwkpwdvqznhqp1bkxzb6142a8jfm7ad4j02")))
+
+(define-public crate-yubikey-management-0.0.3 (c (n "yubikey-management") (v "0.0.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "card-backend") (r "^0.2") (d #t) (k 0)) (d (n "card-backend-pcsc") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "iso7816-tlv") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1ii8s2qxydk4ydmirnnwc2gl66gvz1ps7ian8lc6zjhfw7rq27xl")))
+

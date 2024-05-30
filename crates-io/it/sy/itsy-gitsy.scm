@@ -1,0 +1,4 @@
+(define-module (crates-io it sy itsy-gitsy) #:use-module (crates-io))
+
+(define-public crate-itsy-gitsy-0.5.0 (c (n "itsy-gitsy") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("clock"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.15.0") (d #t) (k 0)) (d (n "open") (r "^3.2.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^5.0.0") (o #t) (k 0)) (d (n "tera") (r "^1.17.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.10") (d #t) (k 0)))) (h "0q9l7nyps7iqmxbd42zwkpiiypdp4lw79djlb6wwnc321hwyjvdm") (f (quote (("highlight_fast" "syntect/default-onig") ("highlight" "syntect/default-fancy") ("default" "markdown" "highlight")))) (s 2) (e (quote (("markdown" "dep:pulldown-cmark"))))))
+

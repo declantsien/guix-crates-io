@@ -1,0 +1,6 @@
+(define-module (crates-io pw r- pwr-rs) #:use-module (crates-io))
+
+(define-public crate-pwr-rs-0.1.0 (c (n "pwr-rs") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "secp256k1") (r "^0.25.0") (f (quote ("rand" "recovery"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1rhlwd2fq7fp4mzsav196jbyiwk95anxdfv1kgihlikgcw1l12sy") (y #t) (r "1.63.0")))
+
+(define-public crate-pwr-rs-0.1.1 (c (n "pwr-rs") (v "0.1.1") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "secp256k1") (r "^0.25.0") (f (quote ("rand" "recovery"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1iz8vkf61ldzbg3bmv7y2vl1nwgi0k3j7i765db0wzhg95kph6xx") (r "1.63.0")))
+

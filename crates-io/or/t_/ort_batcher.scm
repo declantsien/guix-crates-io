@@ -1,0 +1,6 @@
+(define-module (crates-io or t_ ort_batcher) #:use-module (crates-io))
+
+(define-public crate-ort_batcher-0.1.0 (c (n "ort_batcher") (v "0.1.0") (d (list (d (n "divan") (r "^0.1.2") (d #t) (k 2)) (d (n "flume") (r "^0.11.0") (k 0)) (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "ndarray") (r "^0.15.6") (f (quote ("approx"))) (d #t) (k 2)) (d (n "ndarray-rand") (r "^0.14.0") (d #t) (k 2)) (d (n "ort") (r "^2.0.0-alpha.1") (f (quote ("ndarray"))) (k 0)) (d (n "ort") (r "^2.0.0-alpha.1") (f (quote ("download-binaries" "fetch-models" "cuda"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "1ym3083i9kbyk90qd8mllvb8f84qi45sqd56lnwxxj9wkskjbjm8")))
+
+(define-public crate-ort_batcher-0.1.1 (c (n "ort_batcher") (v "0.1.1") (d (list (d (n "divan") (r "^0.1.2") (d #t) (k 2)) (d (n "flume") (r "^0.11.0") (k 0)) (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "ndarray") (r "^0.15.6") (f (quote ("approx"))) (d #t) (k 2)) (d (n "ndarray-rand") (r "^0.14.0") (d #t) (k 2)) (d (n "ort") (r "^2.0.0-alpha.1") (f (quote ("ndarray"))) (k 0)) (d (n "ort") (r "^2.0.0-alpha.1") (f (quote ("download-binaries" "fetch-models" "cuda"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "0yq0a2mp866xg8nrknkgzvla488j3id137kyhdxdnx6vqi7akkjk")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ts tr tstr) #:use-module (crates-io))
+
+(define-public crate-tstr-0.1.0 (c (n "tstr") (v "0.1.0") (d (list (d (n "tstr_proc_macros") (r "^0.1.0") (d #t) (k 0)))) (h "1dnmgv4rv877rirqvb83k9685z5lz4nr7cqipsqk4jkzsgi7kn5r") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("nightly_const_generics" "const_generics") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics"))))))
+
+(define-public crate-tstr-0.1.1 (c (n "tstr") (v "0.1.1") (d (list (d (n "tstr_proc_macros") (r "^0.1.0") (d #t) (k 0)))) (h "1sa9yigmymjhp5n3241xdrxlgxxs6flaj7nv1bafrchxzjqmywk5") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("nightly_const_generics" "const_generics") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics"))))))
+
+(define-public crate-tstr-0.2.0 (c (n "tstr") (v "0.2.0") (d (list (d (n "tstr_proc_macros") (r "^0.2.0") (d #t) (k 0)))) (h "194gwmqr25xjk3hnpvndi11n2wzramizfb08vlpmdn2089g4vfmk") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("nightly_const_generics" "const_generics") ("min_const_generics" "tstr_proc_macros/min_const_generics") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics" "min_const_generics"))))))
+
+(define-public crate-tstr-0.2.1 (c (n "tstr") (v "0.2.1") (d (list (d (n "tstr_proc_macros") (r "^0.2.1") (d #t) (k 0)))) (h "141451xhhfa0lsz5m54dviixxkpjpx4vrwy433ql33svlrffpxyj") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("testing" "for_examples") ("rust_1_46") ("nightly_const_generics" "const_generics") ("min_const_generics" "tstr_proc_macros/min_const_generics" "rust_1_46") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics" "min_const_generics") ("cmp_traits"))))))
+
+(define-public crate-tstr-0.2.2 (c (n "tstr") (v "0.2.2") (d (list (d (n "tstr_proc_macros") (r "^0.2.2") (d #t) (k 0)))) (h "1amfaq17fifkpmgdqk4w929wfsqqcn70scjb9pq6pz1vn8cp0may") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("testing" "for_examples") ("rust_1_46") ("nightly_const_generics" "const_generics") ("min_const_generics" "tstr_proc_macros/min_const_generics" "rust_1_46") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics" "min_const_generics") ("cmp_traits"))))))
+
+(define-public crate-tstr-0.2.3 (c (n "tstr") (v "0.2.3") (d (list (d (n "tstr_proc_macros") (r "^0.2.2") (d #t) (k 0)))) (h "0zidpsrn9b4i55cz832myxi2gw3qq6imbd7kxq7yq389f54jd8yc") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("testing" "for_examples") ("rust_1_46") ("nightly_const_generics" "const_generics") ("min_const_generics" "tstr_proc_macros/min_const_generics" "rust_1_46") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics" "min_const_generics") ("cmp_traits"))))))
+
+(define-public crate-tstr-0.2.4 (c (n "tstr") (v "0.2.4") (d (list (d (n "tstr_proc_macros") (r "^0.2.2") (d #t) (k 0)))) (h "19yvgfipfrqjymvfi7cs6ipdc91f1dw2s2nxs1vf9ajby6a053kz") (f (quote (("use_syn" "tstr_proc_macros/syn_") ("testing" "for_examples") ("rust_1_46") ("nightly_const_generics" "const_generics") ("min_const_generics" "tstr_proc_macros/min_const_generics" "rust_1_46") ("for_examples") ("docsrs" "for_examples") ("const_generics" "tstr_proc_macros/const_generics" "min_const_generics") ("cmp_traits"))))))
+

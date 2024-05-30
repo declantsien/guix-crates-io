@@ -1,0 +1,6 @@
+(define-module (crates-io sp ee speedy_sourcemap) #:use-module (crates-io))
+
+(define-public crate-speedy_sourcemap-0.1.0 (c (n "speedy_sourcemap") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "rkyv") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "speedy_parcel_sourcemap") (r "^2.0.2") (d #t) (k 0)))) (h "1ck7f8pb9fhbx30cpj5sqr02m9nhycqdhadzjyfkqbmw48w5rx0x") (f (quote (("node-api" "napi" "napi-derive"))))))
+
+(define-public crate-speedy_sourcemap-0.1.2 (c (n "speedy_sourcemap") (v "0.1.2") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "rkyv") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "speedy_parcel_sourcemap") (r "^2.0.2") (d #t) (k 0)))) (h "0p16j5gn1k6p2f88smwqgfa9m35548ai6sny059jn1q5n7n4r16y") (f (quote (("node-api" "napi" "napi-derive"))))))
+

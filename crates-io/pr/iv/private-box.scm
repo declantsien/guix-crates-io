@@ -1,0 +1,36 @@
+(define-module (crates-io pr iv private-box) #:use-module (crates-io))
+
+(define-public crate-private-box-0.1.0 (c (n "private-box") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)))) (h "0hman5w4f6gfd0rr6mc1qnrdyv1y5b6xbl5ilxkyxwbjhx64sas9")))
+
+(define-public crate-private-box-0.1.1 (c (n "private-box") (v "0.1.1") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)))) (h "17ga2wislwc470n38jiw0gi6dmqnsaanhcjym2l01k466my52cz8")))
+
+(define-public crate-private-box-0.2.0 (c (n "private-box") (v "0.2.0") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)))) (h "1ql4skj1945xc56cjw6h9qcm97d24j2y57vry8x24z4girqbrkhs")))
+
+(define-public crate-private-box-0.3.0 (c (n "private-box") (v "0.3.0") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "17ddwjaf4w9kwvhnndddmvi73h5d58c4bdv9ni71nnbvj6vjy04j")))
+
+(define-public crate-private-box-0.3.1 (c (n "private-box") (v "0.3.1") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "1ll3bgfwjlsyzgn9syvm3xlq13mf7nn49cq0yhs4c2jr4iz9xskn")))
+
+(define-public crate-private-box-0.3.2 (c (n "private-box") (v "0.3.2") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "1hfhvihkr457jikx0naxwr9v8i84x311zf72si2w5hwl9px3wvzb")))
+
+(define-public crate-private-box-0.3.3 (c (n "private-box") (v "0.3.3") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "1hv67x00ikzbs4g00m5p213rigxp61yvslpfraskmhprbgpa3lbw")))
+
+(define-public crate-private-box-0.3.4 (c (n "private-box") (v "0.3.4") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "rayon") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "153j34z9dlgzs5b5svl1k905gg13y1ab24yvmx2r434m6a02k98w")))
+
+(define-public crate-private-box-0.3.5 (c (n "private-box") (v "0.3.5") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "0rbflq4mcfd9l2q120b88wsgi06kg08gy2ff13a6y4b5lfyqfbkq")))
+
+(define-public crate-private-box-0.4.0 (c (n "private-box") (v "0.4.0") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "0nzdpyffq86cakkgqhwk3vjwq9qnipa4qzz2947lir5y06a2fdf2")))
+
+(define-public crate-private-box-0.4.1 (c (n "private-box") (v "0.4.1") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "1587ifp6mm6mqzs2zm8641l0a70m332d14l1bypypy2wjlp8dk34")))
+
+(define-public crate-private-box-0.4.2 (c (n "private-box") (v "0.4.2") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "0ai1gkvgi816w1sfzjhd1pc43bnkn9qac07wym7qqk7kiyjhn3vp")))
+
+(define-public crate-private-box-0.4.3 (c (n "private-box") (v "0.4.3") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "0pg0pidbckqmir2y5krp9yz0pqvm6i7chfvc3ylmq66p7wlfnva1")))
+
+(define-public crate-private-box-0.4.4 (c (n "private-box") (v "0.4.4") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "09hf0hg602pa2s5q5fqik6pqyjv76vb2yj603ki9w7kg9vnrsinq")))
+
+(define-public crate-private-box-0.4.5 (c (n "private-box") (v "0.4.5") (d (list (d (n "arrayref") (r "^0.3.4") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 2)) (d (n "libsodium-sys") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "sodiumoxide") (r "^0.0.16") (d #t) (k 0)))) (h "1hxaf0prw2qakrj7iqsbp98zyf6nbbr3k1qw3xz4aaqgxj3grway")))
+
+(define-public crate-private-box-0.5.0 (c (n "private-box") (v "0.5.0") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 2)) (d (n "serde") (r "~1.0.90") (d #t) (k 2)) (d (n "serde_derive") (r "~1.0.90") (d #t) (k 2)) (d (n "serde_json") (r "~1.0.39") (d #t) (k 2)) (d (n "ssb-crypto") (r "~0.1.1") (d #t) (k 0)))) (h "0qv5jrb8yw4q7h4g4w6yqm12py1hg7h03j5rffxmp4ycziv5s9jz")))
+
+(define-public crate-private-box-0.6.0 (c (n "private-box") (v "0.6.0") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 2)) (d (n "serde") (r "~1.0.90") (d #t) (k 2)) (d (n "serde_derive") (r "~1.0.90") (d #t) (k 2)) (d (n "serde_json") (r "~1.0.39") (d #t) (k 2)) (d (n "ssb-crypto") (r "^0.2.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.3.0") (d #t) (k 0)))) (h "0dd175zcdxkngpljzra9l9c8ibx4jpph78mjmb1fiylf9arp7lzd")))
+

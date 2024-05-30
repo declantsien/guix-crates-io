@@ -1,0 +1,4 @@
+(define-module (crates-io ke yv keyvault-agent-azure-key-vault-keys) #:use-module (crates-io))
+
+(define-public crate-keyvault-agent-azure-key-vault-keys-0.1.0-alpha (c (n "keyvault-agent-azure-key-vault-keys") (v "0.1.0-alpha") (d (list (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "keyvault-agent-azure-auth") (r "^0.1.0-alpha") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 2)) (d (n "quoted-string") (r "^0.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("process"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("process" "macros"))) (d #t) (k 2)))) (h "1yq2lyahjic31vw1hbzm76sn1rsip3n96vhfdcg8hwk3f7g08h1x")))
+

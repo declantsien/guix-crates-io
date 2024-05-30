@@ -1,0 +1,6 @@
+(define-module (crates-io sh in shine-graph) #:use-module (crates-io))
+
+(define-public crate-shine-graph-0.1.0 (c (n "shine-graph") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.4.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.13") (d #t) (k 2)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.6") (d #t) (k 0)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "shine-graph-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "shine-store") (r "^0.2.0") (d #t) (k 0)) (d (n "shine-testutils") (r "^0.1.0") (d #t) (k 2)))) (h "1dm5qi1w6460krg7zq856fqi5jrzp38qci4gzvahh7q7a36jjhv4")))
+
+(define-public crate-shine-graph-0.2.0 (c (n "shine-graph") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "permutohedron") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "shine-graph-macro") (r "^0.2.0") (d #t) (k 0)) (d (n "shine-stdext") (r "^0.2.0") (d #t) (k 0)) (d (n "shine-testutils") (r "^0.2.0") (d #t) (k 2)))) (h "0nnza70dk0prbc8xsbxcb0rwpr40z0lm7ak1dqzf4n5qd50mb9kq")))
+

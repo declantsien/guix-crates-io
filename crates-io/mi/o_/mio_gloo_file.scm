@@ -1,0 +1,4 @@
+(define-module (crates-io mi o_ mio_gloo_file) #:use-module (crates-io))
+
+(define-public crate-mio_gloo_file-0.1.1 (c (n "mio_gloo_file") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.10") (f (quote ("wasmbind"))) (d #t) (k 2)) (d (n "futures-channel") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures_rs") (r "^0.3") (d #t) (k 2) (p "futures")) (d (n "gloo-events") (r "^0.1") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.31") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.54") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.4") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.31") (f (quote ("Blob" "File" "FileList" "FileReader" "HtmlInputElement" "BlobPropertyBag" "FilePropertyBag" "DomException"))) (d #t) (k 0)))) (h "1hk9d7n736jkmwssf8246ijxs6n5wf5ddry0dy4xs6w8l2qhnx2r") (f (quote (("futures" "futures-channel") ("default"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ar k- ark-ed-on-bls12-377-ext) #:use-module (crates-io))
+
+(define-public crate-ark-ed-on-bls12-377-ext-0.4.1 (c (n "ark-ed-on-bls12-377-ext") (v "0.4.1") (d (list (d (n "ark-algebra-test-templates") (r "^0.4.2") (k 2)) (d (n "ark-ec") (r "^0.4.2") (k 0)) (d (n "ark-ed-on-bls12-377") (r "^0.4.0") (k 0)) (d (n "ark-ff") (r "^0.4.2") (k 0)) (d (n "ark-models-ext") (r "^0.4.1") (k 0)) (d (n "ark-serialize") (r "^0.4.2") (k 2)) (d (n "ark-std") (r "^0.4.0") (k 0)))) (h "07bkmn4yghlz6p12qd7ryi3kjv0y3nx86yp6qalf3whdajvlyjjj") (f (quote (("std" "ark-ec/std" "ark-ed-on-bls12-377/std" "ark-ff/std" "ark-models-ext/std" "ark-serialize/std" "ark-std/std") ("r1cs" "ark-ed-on-bls12-377/r1cs") ("parallel" "ark-ec/parallel" "ark-ff/parallel" "ark-std/parallel") ("default" "std"))))))
+

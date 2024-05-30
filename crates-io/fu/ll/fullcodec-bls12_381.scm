@@ -1,0 +1,4 @@
+(define-module (crates-io fu ll fullcodec-bls12_381) #:use-module (crates-io))
+
+(define-public crate-fullcodec-bls12_381-0.2.0 (c (n "fullcodec-bls12_381") (v "0.2.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "canonical") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "canonical_derive") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "dusk-bytes") (r "^0.1") (k 0)) (d (n "parity-scale-codec") (r "^2.0") (f (quote ("derive"))) (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (k 0)) (d (n "sp-std") (r "^3.0.0") (k 0)) (d (n "subtle") (r "^0.2.0") (k 0) (p "fullcodec-subtle")))) (h "10mw8magjw4crlvlqi0b10kbimdq0s7cfj925lw36dd53dasm34g") (f (quote (("canon" "canonical" "canonical_derive"))))))
+

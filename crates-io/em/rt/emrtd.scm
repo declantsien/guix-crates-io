@@ -1,0 +1,4 @@
+(define-module (crates-io em rt emrtd) #:use-module (crates-io))
+
+(define-public crate-emrtd-0.0.1 (c (n "emrtd") (v "0.0.1") (d (list (d (n "aes") (r "^0.8.4") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (d #t) (k 0)) (d (n "cipher") (r "^0.4.4") (f (quote ("block-padding" "alloc"))) (d #t) (k 0)) (d (n "des") (r "^0.8.1") (d #t) (k 0)) (d (n "ecb") (r "^0.1.2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "openssl") (r "^0.10.64") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pcsc") (r "^2.8.2") (d #t) (k 0)) (d (n "rasn") (r "^0.14.0") (d #t) (k 0)) (d (n "rasn-cms") (r "^0.14.0") (d #t) (k 0)) (d (n "rasn-pkix") (r "^0.14.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1iyql88yf1ddpgw1rn1d1s2w2h6d583hy2mvxm1gl3cd91l5rdgp") (r "1.66.1")))
+

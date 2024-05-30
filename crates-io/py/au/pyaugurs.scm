@@ -1,0 +1,6 @@
+(define-module (crates-io py au pyaugurs) #:use-module (crates-io))
+
+(define-public crate-pyaugurs-0.1.0-alpha.0 (c (n "pyaugurs") (v "0.1.0-alpha.0") (d (list (d (n "augurs-core") (r "^0.1.0-alpha.0") (d #t) (k 0)) (d (n "augurs-ets") (r "^0.1.0-alpha.0") (f (quote ("mstl"))) (d #t) (k 0)) (d (n "augurs-mstl") (r "^0.1.0-alpha.0") (d #t) (k 0)) (d (n "numpy") (r "^0.19.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.1") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "pyo3-log") (r "^0.8.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("log-always"))) (d #t) (k 0)))) (h "06vy1r7nzycinrpaiwhhr671sqphlgmdsihzifii889xny8dcdd6")))
+
+(define-public crate-pyaugurs-0.1.0 (c (n "pyaugurs") (v "0.1.0") (d (list (d (n "augurs-core") (r "^0.1.0-alpha.0") (d #t) (k 0)) (d (n "augurs-ets") (r "^0.1.0-alpha.0") (f (quote ("mstl"))) (d #t) (k 0)) (d (n "augurs-mstl") (r "^0.1.0-alpha.0") (d #t) (k 0)) (d (n "numpy") (r "^0.19.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.1") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "pyo3-log") (r "^0.8.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("log-always"))) (d #t) (k 0)))) (h "0gkbq5jvzsiln3hzi9j6yn98pnv738ch1wapcqi9rb8in6l17zfd")))
+

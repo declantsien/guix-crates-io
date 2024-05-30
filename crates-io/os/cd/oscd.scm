@@ -1,0 +1,12 @@
+(define-module (crates-io os cd oscd) #:use-module (crates-io))
+
+(define-public crate-oscd-0.1.2 (c (n "oscd") (v "0.1.2") (d (list (d (n "clap") (r "^3.2.15") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "inquire") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.0.0") (d #t) (k 0)) (d (n "rosc") (r "^0.8.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.5") (d #t) (k 0)))) (h "1j2by6r64jh1mfcbdmam1yhqawxmkspmfvx2wl7sq5a4d3z9ndy6")))
+
+(define-public crate-oscd-0.1.3 (c (n "oscd") (v "0.1.3") (d (list (d (n "clap") (r "^3.2.15") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "inquire") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.0.0") (d #t) (k 0)) (d (n "rosc") (r "^0.8.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.5") (d #t) (k 0)))) (h "0li5py32pfd5mxllxshxwxr0m5cjc6v3vsa2lrhd83vhim6p1f43")))
+
+(define-public crate-oscd-0.1.4 (c (n "oscd") (v "0.1.4") (d (list (d (n "clap") (r "^3.2.15") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "inquire") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.0.0") (d #t) (k 0)) (d (n "rosc") (r "^0.8.1") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "rustyline-derive") (r "^0.8.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.5") (d #t) (k 0)))) (h "1y78g85y84l8y2xl28wzg18mq8860v4syfq6c3x3nwgdii4nmvdw")))
+
+(define-public crate-oscd-0.1.5 (c (n "oscd") (v "0.1.5") (d (list (d (n "clap") (r "^3.2.15") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "inquire") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.0.0") (d #t) (k 0)) (d (n "rosc") (r "^0.8.1") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "rustyline-derive") (r "^0.8.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.5") (d #t) (k 0)))) (h "0bj193jmbb9dczm95c5gx4j22sj6bswq7wdscn1l3ps2wbv9vm53") (y #t)))
+
+(define-public crate-oscd-0.1.6 (c (n "oscd") (v "0.1.6") (d (list (d (n "clap") (r "^3.2.15") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "inquire") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.0.0") (d #t) (k 0)) (d (n "rosc") (r "^0.8.1") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "rustyline-derive") (r "^0.8.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.5") (d #t) (k 0)))) (h "0ssg9jdgydb1zw7sd2m85ccl7gdihxqrq3xviapmd97h1hiibyxx")))
+

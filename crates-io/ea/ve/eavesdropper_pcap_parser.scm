@@ -1,0 +1,6 @@
+(define-module (crates-io ea ve eavesdropper_pcap_parser) #:use-module (crates-io))
+
+(define-public crate-eavesdropper_pcap_parser-0.1.0 (c (n "eavesdropper_pcap_parser") (v "0.1.0") (d (list (d (n "abi_stable") (r "^0.9.3") (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "diesel") (r "^1.4.6") (f (quote ("postgres" "chrono"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "eframework") (r "^0.1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.90") (d #t) (k 0)) (d (n "pcap") (r "^0.8.1") (d #t) (k 0)) (d (n "semver") (r "^0.11.0") (d #t) (k 0)))) (h "05hizypjh3gpvgliv21ajk7cj6zn3npc3ly1vvkfp2l3xalzyn0m")))
+
+(define-public crate-eavesdropper_pcap_parser-0.2.0 (c (n "eavesdropper_pcap_parser") (v "0.2.0") (d (list (d (n "abi_stable") (r "^0.9.3") (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "diesel") (r "^1.4.6") (f (quote ("postgres" "chrono"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "eframework") (r "^0.1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.90") (d #t) (k 0)) (d (n "pcap") (r "^0.8.1") (d #t) (k 0)) (d (n "semver") (r "^0.11.0") (d #t) (k 0)))) (h "1plki2brd7zns0cfd3s6ny9iwznqsdcwv2p19991wcs0g6fli87s")))
+

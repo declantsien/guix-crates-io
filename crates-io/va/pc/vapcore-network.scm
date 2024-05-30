@@ -1,0 +1,4 @@
+(define-module (crates-io va pc vapcore-network) #:use-module (crates-io))
+
+(define-public crate-vapcore-network-1.12.0 (c (n "vapcore-network") (v "1.12.0") (d (list (d (n "assert_matches") (r "^1.2") (d #t) (k 2)) (d (n "derive_more") (r "^0.14.0") (d #t) (k 0)) (d (n "ipnetwork") (r "^0.12.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "semver") (r "^0.9.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-crypto") (r "^0.4.2") (f (quote ("publickey"))) (d #t) (k 0)) (d (n "tetsy-rlp") (r "^0.4.5") (d #t) (k 0)) (d (n "tetsy-snappy") (r "^0.1") (d #t) (k 0)) (d (n "vapcore-io") (r "^1.12.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "05fw5hhr1qjpij58rc5ydd21gncqkaqlhdssrig45krj62pwg1zl")))
+

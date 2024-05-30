@@ -1,0 +1,10 @@
+(define-module (crates-io to ki tokio-process-stream) #:use-module (crates-io))
+
+(define-public crate-tokio-process-stream-0.1.0 (c (n "tokio-process-stream") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "process"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0") (f (quote ("io-util"))) (d #t) (k 0)))) (h "04gnlxaywfmspggzmk9h0hqpfdnb14jwc70cwr91rw6vajckdiax")))
+
+(define-public crate-tokio-process-stream-0.2.0 (c (n "tokio-process-stream") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.8") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "process"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.9") (f (quote ("io"))) (d #t) (k 0)))) (h "0g0r12v32fmqhvbmhhvr5yxhcwkp35hd290xlbjmm4kl5izbgqdz")))
+
+(define-public crate-tokio-process-stream-0.3.0 (c (n "tokio-process-stream") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("macros" "rt-multi-thread" "process"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.2") (f (quote ("io"))) (d #t) (k 0)))) (h "0c069p9d2nh9b6ijbppgl77ahkl8vk2167l5pjxsy79v0axwzgkg")))
+
+(define-public crate-tokio-process-stream-0.4.0 (c (n "tokio-process-stream") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("macros" "rt-multi-thread" "process"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.2") (f (quote ("io"))) (d #t) (k 0)))) (h "1f4qmhpxxrjqnlby69laadyb0j6v5fn5hp69ddcbkls6jpycf29g")))
+

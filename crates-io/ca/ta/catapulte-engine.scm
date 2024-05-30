@@ -1,0 +1,4 @@
+(define-module (crates-io ca ta catapulte-engine) #:use-module (crates-io))
+
+(define-public crate-catapulte-engine-0.1.0 (c (n "catapulte-engine") (v "0.1.0") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "handlebars") (r "^5.1.2") (d #t) (k 0)) (d (n "lettre") (r "^0.11.4") (f (quote ("builder"))) (k 0)) (d (n "metrics") (r "^0.22.3") (d #t) (k 0)) (d (n "mrml") (r "^3.1.3") (f (quote ("async" "local-loader"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "wiremock") (r "^0.6.0") (d #t) (k 2)))) (h "0n03zm33d1q7d74ab8s69cvp6ss4fdkrlqa3b30mpmq3sf32w18d")))
+

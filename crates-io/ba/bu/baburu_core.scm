@@ -1,0 +1,6 @@
+(define-module (crates-io ba bu baburu_core) #:use-module (crates-io))
+
+(define-public crate-baburu_core-0.2.0 (c (n "baburu_core") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "baburu-macros") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "redis") (r "^0.19") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0wxx8la2mgh5qnqnrqy9ch279lz332gxv70rb3s7drrbhjidadlb")))
+
+(define-public crate-baburu_core-0.2.1 (c (n "baburu_core") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "baburu-macros") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "redis") (r "^0.19") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "09crh3z641q5rqljr08h0v2abpmbii0vb3shmf3g5zgqsy0644px")))
+

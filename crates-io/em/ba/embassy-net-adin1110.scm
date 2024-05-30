@@ -1,0 +1,6 @@
+(define-module (crates-io em ba embassy-net-adin1110) #:use-module (crates-io))
+
+(define-public crate-embassy-net-adin1110-0.0.0 (c (n "embassy-net-adin1110") (v "0.0.0") (h "1p5q358kk72xkv541d2vn3vig9ha7yglm5miafmnmbf5iyphv12i")))
+
+(define-public crate-embassy-net-adin1110-0.2.0 (c (n "embassy-net-adin1110") (v "0.2.0") (d (list (d (n "bitfield") (r "^0.14.0") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 2)) (d (n "critical-section") (r "^1.1.2") (f (quote ("std"))) (d #t) (k 2)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embassy-futures") (r "^0.1.0") (d #t) (k 0)) (d (n "embassy-net-driver-channel") (r "^0.2.0") (d #t) (k 0)) (d (n "embassy-time") (r "^0.3.0") (d #t) (k 0)) (d (n "embedded-hal-1") (r "^1.0") (d #t) (k 0) (p "embedded-hal")) (d (n "embedded-hal-async") (r "^1.0") (d #t) (k 0)) (d (n "embedded-hal-bus") (r "^0.1") (f (quote ("async"))) (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("embedded-hal-async" "eh1"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "futures-test") (r "^0.3.28") (d #t) (k 2)) (d (n "heapless") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (k 0)))) (h "0666k4rggfvfaz0kd4brhfxhz0phxjasi3vsv1zqrw864hg292x8") (f (quote (("default")))) (s 2) (e (quote (("log" "dep:log") ("defmt" "dep:defmt" "embedded-hal-1/defmt-03"))))))
+

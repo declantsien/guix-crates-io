@@ -1,0 +1,4 @@
+(define-module (crates-io op td optd-datafusion-repr) #:use-module (crates-io))
+
+(define-public crate-optd-datafusion-repr-0.0.0 (c (n "optd-datafusion-repr") (v "0.0.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "arrow-schema") (r "^47.0.0") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "camelpaste") (r "^0.1") (d #t) (k 0)) (d (n "datafusion") (r "^32.0.0") (d #t) (k 0)) (d (n "datafusion-expr") (r "^32.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "optd-core") (r "^0.0.0") (d #t) (k 0)) (d (n "ordered-float") (r "^4") (d #t) (k 0)) (d (n "pretty-xmlish") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "18s6h2ayrkb77kcxpi877vximvvnq6qr5fb1xs0vw1ff61zk260k")))
+

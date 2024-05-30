@@ -1,0 +1,16 @@
+(define-module (crates-io ut mp utmp-classic) #:use-module (crates-io))
+
+(define-public crate-utmp-classic-0.1.0 (c (n "utmp-classic") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "17z1jzx0zfsgn4fbsamyx1yvqfn717g31lbxbzbfja11621jqd8m")))
+
+(define-public crate-utmp-classic-0.1.1 (c (n "utmp-classic") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "utmp-classic-raw") (r "^0.1.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "16imlrg07psk9k1nnj21mhdn92w0ikp9jblf59xj8451iscvfwyc")))
+
+(define-public crate-utmp-classic-0.1.2 (c (n "utmp-classic") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "utmp-classic-raw") (r "^0.1.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "0pvv4gvzjjnrajs9q9fv08p8d8yjz03i1an8nkvgsg6f92bcxnq7")))
+
+(define-public crate-utmp-classic-0.1.3 (c (n "utmp-classic") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "utmp-classic-raw") (r "^0.1.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "0bjxgzj6z7ph5xcdzcp0pbdzc6pybxh3l8jyik48dw55pb5hdd6y")))
+
+(define-public crate-utmp-classic-0.1.4 (c (n "utmp-classic") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "utmp-classic-raw") (r "^0.1.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "1ggv5vqslfmzggf6rizhs2f2xnc0dyas9cmsd9vknra4950gganj")))
+
+(define-public crate-utmp-classic-0.1.5 (c (n "utmp-classic") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "utmp-classic-raw") (r "^0.1.2") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "0bg3shqzxyxsys2d1x88gyykjb3rj5936f5mvwnsp3j6gjrk0f9d")))
+
+(define-public crate-utmp-classic-0.1.6 (c (n "utmp-classic") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "utmp-classic-raw") (r "^0.1.3") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.34") (d #t) (k 0)))) (h "0np8qvya8zfa30mpbxjnkiqw4jfqpv9ybv3p727npamg3576ak72")))
+

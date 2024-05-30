@@ -1,0 +1,12 @@
+(define-module (crates-io rp #{1-}# rp1-macros) #:use-module (crates-io))
+
+(define-public crate-rp1-macros-0.1.0 (c (n "rp1-macros") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "diesel_derives") (r "^1.4.1") (d #t) (k 0)) (d (n "impls") (r "^1.0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.39") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "validator") (r "^0.14.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1q9g18npl0byd7x35bnhfwlqnnkd0g2n6m99gc7997zvh26as9zn")))
+
+(define-public crate-rp1-macros-0.2.0 (c (n "rp1-macros") (v "0.2.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "diesel_derives") (r "^1.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.39") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0n1d08mh58r8vvgdsyv3k4519ilh4liy284cng8i0ypcmjhqh70r") (f (quote (("validation") ("default" "validation"))))))
+
+(define-public crate-rp1-macros-0.2.1 (c (n "rp1-macros") (v "0.2.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "diesel_derives") (r "^1.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.39") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0qvnp5r0z9dppmsmffkagknfvk4b2zn0wgg5k81kr52nlmar4zw5") (f (quote (("validation") ("default" "validation"))))))
+
+(define-public crate-rp1-macros-0.3.0 (c (n "rp1-macros") (v "0.3.0") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "darling") (r "^0.13") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "16pgszh6zwlym1s5b41jl9ssv6n1iq27105jhqmbzxhzncfvfyrb") (f (quote (("validation") ("default" "validation"))))))
+
+(define-public crate-rp1-macros-0.3.1 (c (n "rp1-macros") (v "0.3.1") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "darling") (r "^0.13") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0pk5qkpycmw2jmg8kdln9zh6w6i5n8ywbk0cql66qir8pjvycw13") (f (quote (("validation") ("default" "validation"))))))
+

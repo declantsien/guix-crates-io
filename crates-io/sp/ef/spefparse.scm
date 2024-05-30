@@ -1,0 +1,12 @@
+(define-module (crates-io sp ef spefparse) #:use-module (crates-io))
+
+(define-public crate-spefparse-0.1.0 (c (n "spefparse") (v "0.1.0") (d (list (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "pest") (r "^2.3.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.1") (d #t) (k 0)))) (h "1dyqfkqkzjqph9hiihfc34ivjvd454q8an7lwqy53ijxr6c7d2bi")))
+
+(define-public crate-spefparse-0.1.1 (c (n "spefparse") (v "0.1.1") (d (list (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "pest") (r "^2.3.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.1") (d #t) (k 0)))) (h "1dnjbghcfm09qx7p5q2jc75xxjpfg1k3p7d4yfj0v1hi9wjpii5q")))
+
+(define-public crate-spefparse-0.1.2 (c (n "spefparse") (v "0.1.2") (d (list (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "parsing-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "pest") (r "^2.3.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.1") (d #t) (k 0)))) (h "1s3v83l9apkch7fvsf09xv9316b48jmdiv5slf1xpjc8dy3wjm70")))
+
+(define-public crate-spefparse-0.2.0 (c (n "spefparse") (v "0.2.0") (d (list (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.7.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "parsing-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "pest") (r "^2.3.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.1") (d #t) (k 0)))) (h "1f8bw9jp8zrrkvia2n836jiib6jymk8kh3gx1ac4lxqchnrrhm99")))
+
+(define-public crate-spefparse-0.2.1 (c (n "spefparse") (v "0.2.1") (d (list (d (n "circular") (r "^0.3.0") (d #t) (k 0)) (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.7.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "memmem") (r "^0.1.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "tikv-jemallocator") (r "^0.5.4") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 2)))) (h "1hhmnxjynvsv5rkv8cs1p82vih2jgi5v5rirbvp4ana8a48xg8vy") (y #t)))
+

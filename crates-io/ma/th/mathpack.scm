@@ -1,0 +1,20 @@
+(define-module (crates-io ma th mathpack) #:use-module (crates-io))
+
+(define-public crate-mathpack-0.1.0 (c (n "mathpack") (v "0.1.0") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "10vrkwgizsjp9p4361dc3wp03sbpqavfrzqdrc74gfarbn0v794c")))
+
+(define-public crate-mathpack-0.1.1 (c (n "mathpack") (v "0.1.1") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "1pdk7ycwn4a969q5d4i3zr40zi4v122p1lqspmqx6yfxr35y5410")))
+
+(define-public crate-mathpack-0.1.2 (c (n "mathpack") (v "0.1.2") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "16zgbp4rqxg722x54zbzmp21m6vbl8qsarp5k0djg8nn14vz8wx4")))
+
+(define-public crate-mathpack-0.1.3 (c (n "mathpack") (v "0.1.3") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "0vbpsa20yvm2v8319ygdd6a5p80qxk68381fh12aqcqh52a4fjz7")))
+
+(define-public crate-mathpack-0.1.4 (c (n "mathpack") (v "0.1.4") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "044990ccdl3r8k9b5mwxj9qqm970ncfylm01dj1q6l9hxjv7i8x8")))
+
+(define-public crate-mathpack-0.1.5 (c (n "mathpack") (v "0.1.5") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "1lwhnlbc4kr4aghx46ri8wjalbxf2kq9lz2n82nvm2z2jicjmwnn")))
+
+(define-public crate-mathpack-0.1.6 (c (n "mathpack") (v "0.1.6") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)))) (h "0i3i8gmgh8ykzb2z0629ljahk53bxv93cair62wkm1v7yfwp7j5p")))
+
+(define-public crate-mathpack-0.1.7 (c (n "mathpack") (v "0.1.7") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "text_io") (r "^0.1.7") (d #t) (k 0)))) (h "1sbxh78nbxflbw01qldd4gjf8bhcyjwh4mpqdkq8xyw9dcqkb3gf")))
+
+(define-public crate-mathpack-0.1.8 (c (n "mathpack") (v "0.1.8") (d (list (d (n "gnuplot") (r "^0.0.31") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.18.0") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "sqlite") (r "^0.25.0") (d #t) (k 0)) (d (n "text_io") (r "^0.1.7") (d #t) (k 0)))) (h "1pa0dyi6csjh5p156c2frqx6ma0i3xrgn57ych9blkhlnr4nd1hp")))
+

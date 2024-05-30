@@ -1,0 +1,4 @@
+(define-module (crates-io nf t- nft-metadata) #:use-module (crates-io))
+
+(define-public crate-nft-metadata-1.1.0 (c (n "nft-metadata") (v "1.1.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "mpl-token-vault") (r "^0.1.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.7.11") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.7.11") (d #t) (k 2)) (d (n "spl-associated-token-account") (r "^1.0.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.1.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1h5fqsx2r6nqm7j4rrpvn6ja1sn758j6rbb3vcxalzhfqsp4kgl4") (f (quote (("test-bpf") ("no-entrypoint"))))))
+

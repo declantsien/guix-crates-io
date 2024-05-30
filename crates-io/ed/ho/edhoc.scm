@@ -1,0 +1,4 @@
+(define-module (crates-io ed ho edhoc) #:use-module (crates-io))
+
+(define-public crate-edhoc-0.1.0 (c (n "edhoc") (v "0.1.0") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "ccm") (r "^0.4.4") (d #t) (k 0)) (d (n "digest") (r "^0.8.1") (d #t) (k 0)) (d (n "hkdf") (r "^0.8.0") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.97") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_bytes") (r "^0.11.1") (f (quote ("alloc"))) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (f (quote ("alloc"))) (k 0)) (d (n "sha2") (r "^0.8.0") (k 0)) (d (n "x25519-dalek-ng") (r "^1.1.1") (f (quote ("u32_backend"))) (k 0)))) (h "1r0vv6l07g86fiqp0fc4k4adm9j9wcc8vlx9jz0dknwmf0v25jrh") (f (quote (("std" "serde/std" "serde_cbor/std" "serde_bytes/std" "x25519-dalek-ng/std" "sha2/std" "ccm/std" "hkdf/std" "digest/std") ("no_replay") ("default" "std"))))))
+

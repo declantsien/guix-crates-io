@@ -1,0 +1,6 @@
+(define-module (crates-io mo z_ moz_genai) #:use-module (crates-io))
+
+(define-public crate-moz_genai-0.1.0 (c (n "moz_genai") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "candle-core") (r "^0.3.1") (d #t) (k 0)) (d (n "candle-nn") (r "^0.3.1") (d #t) (k 0)) (d (n "candle-transformers") (r "^0.3.1") (d #t) (k 0)) (d (n "cbindgen") (r "^0.23") (d #t) (k 1)) (d (n "hf-hub") (r "^0.3.2") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokenizers") (r "^0.15.0") (f (quote ("onig"))) (d #t) (k 0)))) (h "1j2zhalgzdm27ph7xlnpxkbhldf30h844jb9d1v5kgk092nw5vsp")))
+
+(define-public crate-moz_genai-0.2.0 (c (n "moz_genai") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "candle-core") (r "^0.3.1") (d #t) (k 0)) (d (n "candle-nn") (r "^0.3.1") (d #t) (k 0)) (d (n "candle-transformers") (r "^0.3.1") (d #t) (k 0)) (d (n "cbindgen") (r "^0.23") (d #t) (k 1)) (d (n "hf-hub") (r "^0.3.2") (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokenizers") (r "^0.15.0") (f (quote ("onig"))) (d #t) (k 0)))) (h "0pc653kyb80qzcf7rqbvdpi4xlkf59nxmymhbpcfj5513ggwgbmc")))
+

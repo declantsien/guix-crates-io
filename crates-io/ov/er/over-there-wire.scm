@@ -1,0 +1,4 @@
+(define-module (crates-io ov er over-there-wire) #:use-module (crates-io))
+
+(define-public crate-over-there-wire-0.1.0-alpha.1 (c (n "over-there-wire") (v "0.1.0-alpha.1") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "futures-io") (r "^0.3.4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "over-there-auth") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "over-there-crypto") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "over-there-derive") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "over-there-utils") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.3") (d #t) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("io-util" "tcp" "udp"))) (d #t) (k 0)))) (h "07g7bzlaklv6lvdmnbwywy19z04mrzhid8xwv9kgnmfw355y438j") (y #t)))
+

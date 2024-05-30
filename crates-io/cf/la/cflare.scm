@@ -1,0 +1,6 @@
+(define-module (crates-io cf la cflare) #:use-module (crates-io))
+
+(define-public crate-cflare-0.1.0 (c (n "cflare") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "cloudflare") (r "^0.6.4") (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.105") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1dswwfpnd2ygjgs5lssygkw4kyni5972yyy6f1hw1vzzx9dwdva3")))
+
+(define-public crate-cflare-0.2.0 (c (n "cflare") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "cloudflare") (r "^0.6.4") (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.105") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0k9ipl2l0rgqd63hylw6cvs39322w9l77gwnzd1bmmz9y4df8vkg")))
+

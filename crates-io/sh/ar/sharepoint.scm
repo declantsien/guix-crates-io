@@ -1,0 +1,8 @@
+(define-module (crates-io sh ar sharepoint) #:use-module (crates-io))
+
+(define-public crate-sharepoint-0.1.0 (c (n "sharepoint") (v "0.1.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0w28a4pxclk49dq8dqyz2f1mkjsailx64xz1jibqbckika51n7hy")))
+
+(define-public crate-sharepoint-0.2.0 (c (n "sharepoint") (v "0.2.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("serde"))) (d #t) (k 0)))) (h "1sp17yjc34k6d563bbx6m86z8cld0hgmx4h2xn49ip29ldmfvc4l")))
+
+(define-public crate-sharepoint-0.3.0 (c (n "sharepoint") (v "0.3.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("serde"))) (d #t) (k 0)))) (h "0q82xphdj6h2wfaksxwngasjcdzlw1fh9168qaihrq84di1gikjx")))
+

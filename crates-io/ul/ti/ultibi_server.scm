@@ -1,0 +1,4 @@
+(define-module (crates-io ul ti ultibi_server) #:use-module (crates-io))
+
+(define-public crate-ultibi_server-0.1.6 (c (n "ultibi_server") (v "0.1.6") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "actix-web-static-files") (r "^4.0") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "static-files") (r "^0.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "ultibi_core") (r "^0.1.6") (d #t) (k 0)) (d (n "static-files") (r "^0.2.1") (d #t) (k 1)))) (h "0fvmfqabi7z9dkaisrbmyzjdrf5d1fdcbk3i4y5zmpjbfj9iys8x")))
+

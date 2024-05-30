@@ -1,0 +1,6 @@
+(define-module (crates-io im gu imgui-windows-d3d12-renderer) #:use-module (crates-io))
+
+(define-public crate-imgui-windows-d3d12-renderer-0.1.0 (c (n "imgui-windows-d3d12-renderer") (v "0.1.0") (d (list (d (n "array-init") (r "^2.0.0") (d #t) (k 2)) (d (n "imgui") (r "^0.11.0") (d #t) (k 0)) (d (n "imgui-winit-support") (r "^0.11.0") (d #t) (k 2)) (d (n "offset") (r "0.1.*") (d #t) (k 0)) (d (n "windows") (r "^0.54.0") (f (quote ("Win32_Foundation" "Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Direct3D12" "Win32_Graphics_Dxgi_Common" "Win32_Security" "Win32_System_Threading"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 2)))) (h "1hgwjsxn7qj3qp08nrb5v59jrbpq8g9k0s75bg23c3dwpkpxahwi")))
+
+(define-public crate-imgui-windows-d3d12-renderer-0.1.1 (c (n "imgui-windows-d3d12-renderer") (v "0.1.1") (d (list (d (n "array-init") (r "^2.0.0") (d #t) (k 2)) (d (n "imgui") (r "^0.11.0") (d #t) (k 0)) (d (n "imgui-winit-support") (r "^0.11.0") (d #t) (k 2)) (d (n "offset") (r "0.1.*") (d #t) (k 0)) (d (n "windows") (r "^0.54.0") (f (quote ("Win32_Foundation" "Win32_Graphics_Direct3D_Fxc" "Win32_Graphics_Direct3D12" "Win32_Graphics_Dxgi_Common" "Win32_Security" "Win32_System_Threading"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 2)))) (h "1zs7rmgqfbwa1yv852xl8wvkzzizpqb6iqi78as8j4kq4q2cbfca")))
+

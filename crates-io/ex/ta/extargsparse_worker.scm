@@ -1,0 +1,14 @@
+(define-module (crates-io ex ta extargsparse_worker) #:use-module (crates-io))
+
+(define-public crate-extargsparse_worker-0.1.0 (c (n "extargsparse_worker") (v "0.1.0") (d (list (d (n "extargsparse_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "log4rs") (r "^0.8.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "03729a1ak29a7r3gq46cc30lkzzkzqq58r11a88v81csh60pvygs")))
+
+(define-public crate-extargsparse_worker-0.1.1 (c (n "extargsparse_worker") (v "0.1.1") (d (list (d (n "extargsparse_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "log4rs") (r "^0.8.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1hgw3mxr96wlyndqrb4fg3za4p657580z6k26nf1ycj3x4gg36ay") (r "1.59.0")))
+
+(define-public crate-extargsparse_worker-0.1.2 (c (n "extargsparse_worker") (v "0.1.2") (d (list (d (n "extargsparse_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "log4rs") (r "^0.8.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "0gmvma9m96im4rx1jwq3zba2gq754vhxdlw7nz07dng0fzkbs7nc") (r "1.59.0")))
+
+(define-public crate-extargsparse_worker-0.1.4 (c (n "extargsparse_worker") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "extargsparse_codegen") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1rzdndhh3zhrwicnaq8vva1jl0wc5a1s1wdc919ix1nrcx364hm4") (r "1.59.0")))
+
+(define-public crate-extargsparse_worker-0.1.8 (c (n "extargsparse_worker") (v "0.1.8") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "extargsparse_codegen") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "0b7kg8r0af0hjp7vksgrl1aqyyjgf2vxmqkjkwhmfb4likr5zdfa") (r "1.59.0")))
+
+(define-public crate-extargsparse_worker-0.2.0 (c (n "extargsparse_worker") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "extargsparse_codegen") (r "^0.1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "0wrk6shf686nzqk3yml9cqplz8pcqqlr0z1cmcwz2qm105p380cp") (r "1.59.0")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io sp oo spools) #:use-module (crates-io))
+
+(define-public crate-spools-0.1.0 (c (n "spools") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1jqaczxlnngw8dmiy6wl9m8dri24jaa3x9aqk5zmb6hqwix7qfav")))
+
+(define-public crate-spools-0.2.0 (c (n "spools") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "06bsajacjdpifb9g5hjfkyqn4n65ng861pbdx7nm7xrskz7klz3z")))
+
+(define-public crate-spools-0.3.0 (c (n "spools") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1ghzqffnbwa3iq8pqsgnmqzxivizl89k95spxqdq2w3rn69qi6l6")))
+
+(define-public crate-spools-0.3.1 (c (n "spools") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0m61vl9jvgmgfg11s8x06w5iac1hpyk66pbhidl7msz72hf38swq")))
+
+(define-public crate-spools-0.4.0 (c (n "spools") (v "0.4.0") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "05dcf1zm0m26nbqgp05lblmf0cmm9hla7nhbkzwlsh2n84g6nji3")))
+
+(define-public crate-spools-0.4.1 (c (n "spools") (v "0.4.1") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0nw896893ndi31h50lha6s3dv9772yn3swlzg7zvgd95jb1qail1")))
+
+(define-public crate-spools-0.5.0 (c (n "spools") (v "0.5.0") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1zk44pzmbqpg0pjkqmzgccb3d45sy04jvm8939j7265514m9xszv")))
+
+(define-public crate-spools-0.5.1 (c (n "spools") (v "0.5.1") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1ik0ng7cz3m9six3asvny70rj4gfx4nsr92079vsh2rajdcfr5h0")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io li be libenclave-tools) #:use-module (crates-io))
+
+(define-public crate-libenclave-tools-0.1.0 (c (n "libenclave-tools") (v "0.1.0") (d (list (d (n "clap") (r "^2.2.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.9") (d #t) (k 0)) (d (n "num") (r "^0.1.31") (d #t) (k 0)) (d (n "serde") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_macros") (r "^0.7.0") (d #t) (k 0)) (d (n "sgx-isa") (r "^0.1.0") (d #t) (k 0)) (d (n "sgxs") (r "^0.4.0") (d #t) (k 0)) (d (n "xmas-elf") (r "^0.2.0") (d #t) (k 0)))) (h "0fmnikqxfys6dlwxslfivll25sfk245fp77468q4zkbii2ja046s")))
+
+(define-public crate-libenclave-tools-0.1.1 (c (n "libenclave-tools") (v "0.1.1") (d (list (d (n "clap") (r "^2.2.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.9") (d #t) (k 0)) (d (n "num") (r "^0.1.31") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "sgx-isa") (r "^0.1.0") (d #t) (k 0)) (d (n "sgxs") (r "^0.4.0") (d #t) (k 0)) (d (n "xmas-elf") (r "^0.3.0") (d #t) (k 0)))) (h "0iwc7r7kkxqlhhfpk2bgnvyfjn5y8917jnvrjyklcsabiv3dc2p9") (y #t)))
+
+(define-public crate-libenclave-tools-0.1.2 (c (n "libenclave-tools") (v "0.1.2") (d (list (d (n "clap") (r "^2.2.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.9") (d #t) (k 0)) (d (n "num") (r "^0.1.31") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "sgx-isa") (r "^0.1.0") (d #t) (k 0)) (d (n "sgxs") (r "^0.4.0") (d #t) (k 0)) (d (n "xmas-elf") (r "^0.3.0") (d #t) (k 0)))) (h "0pgc6g11zp0836mss86iqlsfcl6p80ay5pdgjmk0rqwnar5z54rc")))
+
+(define-public crate-libenclave-tools-0.1.3 (c (n "libenclave-tools") (v "0.1.3") (d (list (d (n "clap") (r "^2.2.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.9") (d #t) (k 0)) (d (n "num") (r "^0.1.31") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "sgx-isa") (r "^0.1.0") (d #t) (k 0)) (d (n "sgxs") (r ">= 0.4, < 0.6") (d #t) (k 0)) (d (n "xmas-elf") (r "^0.3.0") (d #t) (k 0)))) (h "0381gpccjgvj5kbgjqb26gbspip0ly22qvd2l8hnxpg114dhq5x3")))
+
+(define-public crate-libenclave-tools-0.1.4 (c (n "libenclave-tools") (v "0.1.4") (d (list (d (n "clap") (r "^2.2.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.9") (d #t) (k 0)) (d (n "num") (r "^0.1.31") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "sgx-isa") (r "^0.1.0") (d #t) (k 0)) (d (n "sgxs") (r ">= 0.4, < 0.6") (d #t) (k 0)) (d (n "xmas-elf") (r "^0.3.0") (d #t) (k 0)))) (h "05zd2isc1afznf836lq5j9pzh64mdanpxj42ic66704l4kzacy22")))
+

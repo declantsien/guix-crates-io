@@ -1,0 +1,8 @@
+(define-module (crates-io ri nc rincron_mini) #:use-module (crates-io))
+
+(define-public crate-rincron_mini-0.1.0-beta (c (n "rincron_mini") (v "0.1.0-beta") (d (list (d (n "inotify") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.3") (d #t) (k 0)))) (h "0zbh2d89vf9kzq3nzbry44wpd0wnqg59f8xbvjzgi08r077pbk4a")))
+
+(define-public crate-rincron_mini-0.2.0-beta (c (n "rincron_mini") (v "0.2.0-beta") (d (list (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "inotify") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.3.0") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1.1") (d #t) (k 0)))) (h "0faighcnbsdcsx4v51mh0rxbyv2x74aw8fcnq88gkhgkhvr5dv87")))
+
+(define-public crate-rincron_mini-0.3.0-rc1 (c (n "rincron_mini") (v "0.3.0-rc1") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "inotify") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.0") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.3.0") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1.1") (d #t) (k 0)))) (h "059izb6lqv7abrzymkbzxyvx840kkk3kqh5xyvin8yzv3n8z7mhd")))
+

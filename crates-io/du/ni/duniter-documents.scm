@@ -1,0 +1,8 @@
+(define-module (crates-io du ni duniter-documents) #:use-module (crates-io))
+
+(define-public crate-duniter-documents-0.4.1 (c (n "duniter-documents") (v "0.4.1") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "base64") (r "^0.8.0") (d #t) (k 0)) (d (n "duniter-crypto") (r "^0.1.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)))) (h "1a980yqvivj7bdxjnfigczgq7k98ivf4zkr6n3xw3nvyp8f14vfj") (f (quote (("strict"))))))
+
+(define-public crate-duniter-documents-0.7.0 (c (n "duniter-documents") (v "0.7.0") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "base64") (r "^0.8.0") (d #t) (k 0)) (d (n "duniter-crypto") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)))) (h "10xizfrarhj649l6djln7msbyszlmpvrrmm3z5vsj177jbvv8mzw") (f (quote (("strict"))))))
+
+(define-public crate-duniter-documents-0.7.1 (c (n "duniter-documents") (v "0.7.1") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "base64") (r "^0.8.0") (d #t) (k 0)) (d (n "duniter-crypto") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)))) (h "1sqgd4wp0brzzja9k2r8kzvi23gc6wgxjww8kxg2sas0bvlikv9a") (f (quote (("strict"))))))
+

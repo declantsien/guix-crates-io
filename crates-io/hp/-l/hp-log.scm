@@ -1,0 +1,10 @@
+(define-module (crates-io hp -l hp-log) #:use-module (crates-io))
+
+(define-public crate-hp-log-0.2.0 (c (n "hp-log") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)))) (h "0a78caq6pln0kxdg6b3j6ibhql5xzv8cz6mpvqqf1rljbdq2happ")))
+
+(define-public crate-hp-log-0.2.1 (c (n "hp-log") (v "0.2.1") (d (list (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)) (d (n "wincolor") (r "^1.0") (d #t) (t "cfg(windows)") (k 0)))) (h "14403mp1qn3da2lllmciv7fbhh3fbj7kr5m8a9rxa74nxm8siwms")))
+
+(define-public crate-hp-log-0.3.0 (c (n "hp-log") (v "0.3.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)) (d (n "wincolor") (r "^1.0") (d #t) (t "cfg(windows)") (k 0)))) (h "0dj9k3hcidjppc8npw2b2g5xv7m0dc9h63ymz73d9kd5jxi70db4")))
+
+(define-public crate-hp-log-0.3.1 (c (n "hp-log") (v "0.3.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "time") (r "^0.1.41") (d #t) (k 0)) (d (n "toml") (r "^0.4.10") (d #t) (k 0)) (d (n "wincolor") (r "^1.0") (d #t) (t "cfg(windows)") (k 0)))) (h "0yrsibqf5698p6i2nfvlzpkdkypjy77yv4ndg1h5g2kxh9nd08ww")))
+

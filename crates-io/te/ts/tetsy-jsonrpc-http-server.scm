@@ -1,0 +1,8 @@
+(define-module (crates-io te ts tetsy-jsonrpc-http-server) #:use-module (crates-io))
+
+(define-public crate-tetsy-jsonrpc-http-server-14.2.0 (c (n "tetsy-jsonrpc-http-server") (v "14.2.0") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-server-utils") (r "^14.2") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "1pcvh5iw2l4mvkwj5k5x85y3sddp6yxrlvhywvr5l10k08dm0qk1")))
+
+(define-public crate-tetsy-jsonrpc-http-server-14.2.1 (c (n "tetsy-jsonrpc-http-server") (v "14.2.1") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-server-utils") (r "^14.2") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "1y2xs5rxryg9r1gqj4qf2ly5s3l62x0ws470z7bwnyv1s7y1kzfn")))
+
+(define-public crate-tetsy-jsonrpc-http-server-15.1.0 (c (n "tetsy-jsonrpc-http-server") (v "15.1.0") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-server-utils") (r "^15.1.0") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "0pgg13lc9663zpmqwmpnj4dqdv0l6z9bfiyrjgq4xsbc6ymywzay")))
+

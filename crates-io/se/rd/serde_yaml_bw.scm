@@ -1,0 +1,6 @@
+(define-module (crates-io se rd serde_yaml_bw) #:use-module (crates-io))
+
+(define-public crate-serde_yaml_bw-1.0.0 (c (n "serde_yaml_bw") (v "1.0.0") (d (list (d (n "anyhow") (r ">=1.0.79, <=1.0.82") (d #t) (k 2)) (d (n "indexmap") (r ">=2.2.1, <=2.26") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "itoa") (r "^1.0") (d #t) (k 0)) (d (n "ryu") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.195, <=1.0.200") (d #t) (k 0)) (d (n "serde_derive") (r ">=1.0.195, <=1.0.200") (d #t) (k 2)) (d (n "unsafe-libyaml") (r "^0.2.11") (d #t) (k 0)))) (h "085xjfgxswaxs0cnkn7fp07n28m4j7nw8abg59ypv0lbnnhx3wpn") (r "1.64")))
+
+(define-public crate-serde_yaml_bw-1.0.1+deprecated (c (n "serde_yaml_bw") (v "1.0.1+deprecated") (d (list (d (n "anyhow") (r ">=1.0.79, <=1.0.82") (d #t) (k 2)) (d (n "indexmap") (r ">=2.2.1, <=2.26") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "itoa") (r "^1.0") (d #t) (k 0)) (d (n "ryu") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.195, <=1.0.200") (d #t) (k 0)) (d (n "serde_derive") (r ">=1.0.195, <=1.0.200") (d #t) (k 2)) (d (n "unsafe-libyaml") (r "^0.2.11") (d #t) (k 0)))) (h "0cd5zbvix5nbfj8lbs2kixjgq912px1g5h4x1w9n75laz2vdv2cf") (r "1.64")))
+

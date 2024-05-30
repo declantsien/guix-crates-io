@@ -1,0 +1,4 @@
+(define-module (crates-io sb rd sbrd-gen) #:use-module (crates-io))
+
+(define-public crate-sbrd-gen-0.1.0 (c (n "sbrd-gen") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.0") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "either") (r "^1.6.1") (d #t) (k 0)) (d (n "evalexpr") (r "^7.0.0") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "human-panic") (r "^1.0.3") (d #t) (k 0)) (d (n "human-string-filler") (r "^1.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "rt-format") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_with") (r "^1.11.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)))) (h "1i69ia99py8mm0mc805m4v8g2qzsf9m89lxhinr0z5v14nyag544")))
+

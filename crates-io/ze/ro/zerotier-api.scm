@@ -1,0 +1,6 @@
+(define-module (crates-io ze ro zerotier-api) #:use-module (crates-io))
+
+(define-public crate-zerotier-api-0.1.0 (c (n "zerotier-api") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "hex") (r "^0.4.0") (d #t) (k 0)) (d (n "salsa20") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5.2") (d #t) (k 0)))) (h "07p17035fzr7xzz48lqdspd5yi6f6i1cvdipcy3z8xwiwn8b0xi6")))
+
+(define-public crate-zerotier-api-0.1.1 (c (n "zerotier-api") (v "0.1.1") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "byteorder") (r "^1.1.0") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "hex") (r "^0.4.0") (d #t) (k 0)) (d (n "salsa20") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5.2") (d #t) (k 0)))) (h "090m99vjq2d5sff32akpywm4znnjghyjwmqhmsqbva994ibs486r")))
+

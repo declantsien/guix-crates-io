@@ -1,0 +1,6 @@
+(define-module (crates-io te x- tex-glyphs) #:use-module (crates-io))
+
+(define-public crate-tex-glyphs-0.1.0 (c (n "tex-glyphs") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8.7") (d #t) (k 0)) (d (n "array-init") (r "^2.1.0") (d #t) (k 0)) (d (n "array-init") (r "^2.1.0") (d #t) (k 1)) (d (n "env_logger") (r "^0.11") (d #t) (k 1)) (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("kv_unstable"))) (d #t) (k 1)) (d (n "log") (r "^0.4.20") (f (quote ("kv_unstable"))) (d #t) (k 2)) (d (n "phf") (r "^0.11.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (k 1)) (d (n "phf_codegen") (r "^0.11.2") (d #t) (k 1)))) (h "15y17jhbx1mwcv13bhdf5gp326p3i3snch3sakf0avv85gjaxbg0")))
+
+(define-public crate-tex-glyphs-0.1.1 (c (n "tex-glyphs") (v "0.1.1") (d (list (d (n "ahash") (r "^0.8") (d #t) (k 0)) (d (n "array-init") (r "^2.1") (d #t) (k 0)) (d (n "array-init") (r "^2") (d #t) (k 1)) (d (n "env_logger") (r "^0.11") (d #t) (k 1)) (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (f (quote ("kv_unstable"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (f (quote ("kv_unstable"))) (d #t) (k 2)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "phf") (r "^0.11") (k 1)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)))) (h "0b53s2nhl37lm94rpjinqcv6al0j6mvqrj8h38fxbw7r1xqn6wv7")))
+

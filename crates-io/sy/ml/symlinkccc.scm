@@ -1,0 +1,8 @@
+(define-module (crates-io sy ml symlinkccc) #:use-module (crates-io))
+
+(define-public crate-symlinkccc-0.2.0 (c (n "symlinkccc") (v "0.2.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)) (d (n "which") (r "^4.4") (d #t) (k 0)) (d (n "const-gen") (r "^1.3") (d #t) (k 1)))) (h "0rmz0bc1fk63sr7q34icsp7p3hnh923y8ngskp0frr38w0h4fv55")))
+
+(define-public crate-symlinkccc-1.0.1 (c (n "symlinkccc") (v "1.0.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)) (d (n "const-gen") (r "^1.3") (d #t) (k 1)))) (h "144hfqr1nbhrsjf24v41hs19m5q0c820ginfjs7bh7q3yfy6ad88")))
+
+(define-public crate-symlinkccc-1.1.0 (c (n "symlinkccc") (v "1.1.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "quick-xml") (r "^0.28.1") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)) (d (n "const-gen") (r "^1.3") (d #t) (k 1)))) (h "038yqc3c9fnz8wg959bk99c8c7wgy9rhjswhl7ms43wfjb357krf")))
+

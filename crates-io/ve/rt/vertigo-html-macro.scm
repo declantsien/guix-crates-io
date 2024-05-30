@@ -1,0 +1,6 @@
+(define-module (crates-io ve rt vertigo-html-macro) #:use-module (crates-io))
+
+(define-public crate-vertigo-html-macro-0.1.0-alpha.1 (c (n "vertigo-html-macro") (v "0.1.0-alpha.1") (d (list (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)) (d (n "vertigo") (r "^0.1.0-alpha.1") (d #t) (k 0)))) (h "111inz4pd6xabz86zm7ki18pyc9hqgdnbr0wdihh4wk9g4ydspp0")))
+
+(define-public crate-vertigo-html-macro-0.1.0-alpha.2 (c (n "vertigo-html-macro") (v "0.1.0-alpha.2") (d (list (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)) (d (n "vertigo") (r "^0.1.0-alpha.2") (d #t) (k 0)))) (h "12bqzcrka22w37q6r55ryvqiyawar7dnxzhc1jcigc70h5wm7w1k")))
+

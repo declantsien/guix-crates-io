@@ -1,0 +1,18 @@
+(define-module (crates-io sq lx sqlx-pg-migrate) #:use-module (crates-io))
+
+(define-public crate-sqlx-pg-migrate-1.0.0 (c (n "sqlx-pg-migrate") (v "1.0.0") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres" "runtime-async-std"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "16x7vxjik937w1wnf2m3kh9pgq4wd43260jzp3j84p2cj7a5h5a5")))
+
+(define-public crate-sqlx-pg-migrate-1.0.1 (c (n "sqlx-pg-migrate") (v "1.0.1") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres" "runtime-async-std"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hy16qlavqdlqglb00ay2js0xik8mq9rngk7ipy83b9k0va0cfaz")))
+
+(define-public crate-sqlx-pg-migrate-1.0.2 (c (n "sqlx-pg-migrate") (v "1.0.2") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres" "runtime-async-std"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "189w12brxh45ckvakamf708b42q1h3i1m5vzxykj0linvqy73vvq")))
+
+(define-public crate-sqlx-pg-migrate-1.0.3 (c (n "sqlx-pg-migrate") (v "1.0.3") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres" "runtime-async-std"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hpifhl4hr5ql9nwknl1ar7vbx88zwk45ys0zkyc3p2hg13av3vq")))
+
+(define-public crate-sqlx-pg-migrate-1.0.4 (c (n "sqlx-pg-migrate") (v "1.0.4") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres" "runtime-async-std"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0yw8vxap26mw5mwpnl1lwyy188i24jl1jqi3crs9zr4nvabiwgzq")))
+
+(define-public crate-sqlx-pg-migrate-1.0.5 (c (n "sqlx-pg-migrate") (v "1.0.5") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres"))) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres" "runtime-async-std-native-tls"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0r7c1dc6r7k9lvwd2lj3nyc3akv08f1v7ljiycy7d66yl98lwrk4")))
+
+(define-public crate-sqlx-pg-migrate-1.1.0 (c (n "sqlx-pg-migrate") (v "1.1.0") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.6") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres"))) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres" "runtime-async-std-native-tls"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0j5bq67icbzp1i846c5sr642qbjl84rv1qfdcpz2ryndcl6pqbdc")))
+
+(define-public crate-sqlx-pg-migrate-1.2.0 (c (n "sqlx-pg-migrate") (v "1.2.0") (d (list (d (n "async-attributes") (r "^1.1") (d #t) (k 2)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "include_dir") (r "^0.7") (f (quote ("glob"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("postgres"))) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("postgres" "runtime-async-std-native-tls"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "16w9dhzqj763pmlwzkq2sdr71b9gv9l0mjdgc5j80b442k0z6ly9")))
+

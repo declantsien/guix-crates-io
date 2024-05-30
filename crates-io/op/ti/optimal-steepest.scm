@@ -1,0 +1,4 @@
+(define-module (crates-io op ti optimal-steepest) #:use-module (crates-io))
+
+(define-public crate-optimal-steepest-0.0.0 (c (n "optimal-steepest") (v "0.0.0") (d (list (d (n "derive-getters") (r "^0.3.0") (d #t) (k 0)) (d (n "derive-num-bounded") (r "^0.0.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.16") (d #t) (k 0)) (d (n "optimal-core") (r "^0.0.0") (d #t) (k 0)) (d (n "proptest") (r "^1.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "replace_with") (r "^0.1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.185") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "streaming-iterator") (r "^0.1.9") (d #t) (k 0)) (d (n "test-strategy") (r "^0.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "0ri9sara0y4l9m2lm57p4sqixz8xhfzkm47jk51022d3gah9nrzd") (s 2) (e (quote (("serde" "dep:serde"))))))
+

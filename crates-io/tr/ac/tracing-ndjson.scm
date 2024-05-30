@@ -1,0 +1,10 @@
+(define-module (crates-io tr ac tracing-ndjson) #:use-module (crates-io))
+
+(define-public crate-tracing-ndjson-0.1.0 (c (n "tracing-ndjson") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.31") (d #t) (k 0)) (d (n "tracing-serde") (r "^0.1.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1brrf0p16k9qj3m53sqr4i0ysay2zsqqy74dm8hg613skhp83hak")))
+
+(define-public crate-tracing-ndjson-0.1.1 (c (n "tracing-ndjson") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.31") (d #t) (k 0)) (d (n "tracing-serde") (r "^0.1.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "14j9iqzn58rm1whk9qkp2dx3d6y0yyddic4jhj5w9kq8290vlg13")))
+
+(define-public crate-tracing-ndjson-0.1.2 (c (n "tracing-ndjson") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.31") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1l4nh50g1clc0x9qr2a6m3pd48lw9jgp3j9r7glv2kvbdh31c71y")))
+
+(define-public crate-tracing-ndjson-0.2.0 (c (n "tracing-ndjson") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.31") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1cnzidf28ikmaq6h2izjr5332yc3bw9sg335gr3ad30gclj0wjri")))
+

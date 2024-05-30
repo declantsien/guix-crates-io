@@ -1,0 +1,4 @@
+(define-module (crates-io po ck pocket-relay-main-server) #:use-module (crates-io))
+
+(define-public crate-pocket-relay-main-server-0.1.0 (c (n "pocket-relay-main-server") (v "0.1.0") (d (list (d (n "blaze-pk") (r "^0.6.0-alpha-6") (f (quote ("async" "blaze-ssl"))) (k 0)) (d (n "blaze-ssl-async") (r "^0.1.1") (d #t) (k 0)) (d (n "core") (r "^0.1.0") (d #t) (k 0) (p "pocket-relay-core")) (d (n "database") (r "^0.1.0") (d #t) (k 0) (p "pocket-relay-database")) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust-embed") (r "^6.4.1") (f (quote ("debug-embed"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "utils") (r "^0.1.0") (d #t) (k 0) (p "pocket-relay-utils")))) (h "1v1c5rdrdak4v0pnsrq1iya1jngjff940nvixl2791qpjyjj6lgr")))
+

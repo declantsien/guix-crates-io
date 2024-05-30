@@ -1,0 +1,6 @@
+(define-module (crates-io ac ti actix-request-hook) #:use-module (crates-io))
+
+(define-public crate-actix-request-hook-1.0.0-beta.3 (c (n "actix-request-hook") (v "1.0.0-beta.3") (d (list (d (n "actix-http") (r "^3") (d #t) (k 0)) (d (n "actix-web") (r "^4.0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.7") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.116") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1c9k2z3759krkmjj39lwyypb21pdps7ihwv3w5rg7j2620v2pk13")))
+
+(define-public crate-actix-request-hook-1.0.0-beta.4 (c (n "actix-request-hook") (v "1.0.0-beta.4") (d (list (d (n "actix-http") (r "^3") (d #t) (k 0)) (d (n "actix-web") (r "^4.0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.7") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.116") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1zpb0x6k8n484hypq9r0ai2y34hr7x7f0hga578p6yrhzx7m92gq")))
+

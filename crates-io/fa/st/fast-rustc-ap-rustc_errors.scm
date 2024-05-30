@@ -1,0 +1,4 @@
+(define-module (crates-io fa st fast-rustc-ap-rustc_errors) #:use-module (crates-io))
+
+(define-public crate-fast-rustc-ap-rustc_errors-1.0.0 (c (n "fast-rustc-ap-rustc_errors") (v "1.0.0") (d (list (d (n "annotate-snippets") (r "^0.6.1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustc_data_structures") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_data_structures")) (d (n "rustc_serialize") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-serialize")) (d (n "rustc_span") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_span")) (d (n "termcolor") (r "^1.0") (d #t) (k 0)) (d (n "termize") (r "^0.1.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("handleapi" "synchapi" "winbase"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1r71b2kwhsvdcwvkaqrkydk5z9w2m4rpdkl6wcfdgahxvfhbk6vc")))
+

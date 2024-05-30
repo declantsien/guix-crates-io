@@ -1,0 +1,16 @@
+(define-module (crates-io e2 e- e2e-test-model) #:use-module (crates-io))
+
+(define-public crate-e2e-test-model-0.1.1 (c (n "e2e-test-model") (v "0.1.1") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "08fkvq2z8n34cqqipgianhhq0hrqzzrdhwv6ds3r5mdsr3yr7ccc")))
+
+(define-public crate-e2e-test-model-0.1.2 (c (n "e2e-test-model") (v "0.1.2") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0al3l9zfyhmcb1lhbdgilzprxkmhkpsc881ln897dxxar7bsm1vp")))
+
+(define-public crate-e2e-test-model-0.1.3 (c (n "e2e-test-model") (v "0.1.3") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1vwcxg3fv6a744i08v8gjn4xhh82mwk26dkca9211s0g7dmih1sg")))
+
+(define-public crate-e2e-test-model-0.1.4 (c (n "e2e-test-model") (v "0.1.4") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1bx7dm4iv3r6wgzx5z57l96qvrwi7c2as58ibvl4n657sdjp1sls")))
+
+(define-public crate-e2e-test-model-0.2.0 (c (n "e2e-test-model") (v "0.2.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1qy94z4q56mjr6axi6k5gfqsnnrxmhd3d84bhq77nlh62l9im6vz")))
+
+(define-public crate-e2e-test-model-0.2.1 (c (n "e2e-test-model") (v "0.2.1") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "12rdxfk69q92bih2sqcrsxf0v2nxsbdjqr147gir8w00c18g95pr")))
+
+(define-public crate-e2e-test-model-0.3.0 (c (n "e2e-test-model") (v "0.3.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-rustls" "postgres" "uuid" "time"))) (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde" "formatting" "parsing"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1bh88b47vvm6a8p88krcx1ny2mywd0j1vx772ml1xfyl7l9v6dyw")))
+

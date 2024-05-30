@@ -1,0 +1,4 @@
+(define-module (crates-io on ce once_cell_serde) #:use-module (crates-io))
+
+(define-public crate-once_cell_serde-1.17.1 (c (n "once_cell_serde") (v "1.17.1") (d (list (d (n "atomic_polyfill") (r "^1") (o #t) (d #t) (k 0) (p "atomic-polyfill")) (d (n "critical_section") (r "^1") (o #t) (d #t) (k 0) (p "critical-section")) (d (n "critical_section") (r "^1.1.1") (f (quote ("std"))) (d #t) (k 2) (p "critical-section")) (d (n "crossbeam-utils") (r "^0.8.7") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "parking_lot_core") (r "^0.9.3") (o #t) (k 0)) (d (n "regex") (r "^1.2.0") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "01a2dqy4a7c6gdfa04g38s4clyq5img726fa1gyb0gsmk92wvd7h") (f (quote (("unstable") ("std" "alloc") ("race") ("parking_lot" "parking_lot_core") ("default" "std") ("critical-section" "critical_section" "atomic_polyfill") ("atomic-polyfill" "critical-section") ("alloc" "race")))) (r "1.56")))
+

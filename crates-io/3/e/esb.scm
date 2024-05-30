@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# e esb) #:use-module (crates-io))
+
+(define-public crate-esb-0.0.1 (c (n "esb") (v "0.0.1") (d (list (d (n "bbqueue") (r "^0.4.4") (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "nrf51") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "nrf52810-pac") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "nrf52832-pac") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "nrf52840-pac") (r "^0.9.0") (o #t) (d #t) (k 0)))) (h "1wjjlqhv82vlxgqhp7dcrsgwjd44j4lv0ji90yfgmlbwz8k08mmz") (f (quote (("52840" "nrf52840-pac" "bbqueue/atomic") ("52832" "nrf52832-pac" "bbqueue/atomic") ("52810" "nrf52810-pac" "bbqueue/atomic") ("51" "nrf51" "bbqueue/thumbv6"))))))
+
+(define-public crate-esb-0.1.0 (c (n "esb") (v "0.1.0") (d (list (d (n "bbqueue") (r "^0.4.8") (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "nrf51") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "nrf52810-pac") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "nrf52832-pac") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "nrf52840-pac") (r "^0.9.0") (o #t) (d #t) (k 0)))) (h "1y6xpc1psp0sd47sm60znr386dpypcbfn53nf381waywjgnisb99") (f (quote (("fast-ru") ("52840" "nrf52840-pac" "bbqueue/atomic") ("52832" "nrf52832-pac" "bbqueue/atomic") ("52810" "nrf52810-pac" "bbqueue/atomic") ("51" "nrf51" "bbqueue/thumbv6"))))))
+

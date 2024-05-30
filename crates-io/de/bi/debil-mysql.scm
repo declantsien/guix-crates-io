@@ -1,0 +1,26 @@
+(define-module (crates-io de bi debil-mysql) #:use-module (crates-io))
+
+(define-public crate-debil-mysql-0.1.0 (c (n "debil-mysql") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.1.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.21.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "12fay007jay3mp0ggqfzypx0c07x4l1diiasvf5h9rj13539slqc")))
+
+(define-public crate-debil-mysql-0.1.1 (c (n "debil-mysql") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.1.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.22.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "1riflq0xmmckm1jaryybgw5xf5mrzrgd2y2snc4jh2jq9yg9qdm5")))
+
+(define-public crate-debil-mysql-0.1.2 (c (n "debil-mysql") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.22.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "0ys4lvlqjp6kw624wgwmmw2mb59wsgvrmpfccz8dmwhqbnbrxzan")))
+
+(define-public crate-debil-mysql-0.1.3 (c (n "debil-mysql") (v "0.1.3") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.22.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "0dzszgz5bs51sk636mxsm42b77rh4shfqm4vrxxn2g6vrff2xaia")))
+
+(define-public crate-debil-mysql-0.2.0 (c (n "debil-mysql") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.2.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.22.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "1imsfxs7j2sgd4zyay0acgc5vq1z0njzkly3116lhsn5724wk4ms")))
+
+(define-public crate-debil-mysql-0.2.1 (c (n "debil-mysql") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.3.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.22.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "1d8dkxpazwp8baiskmarw9zi2ggmpmw8nlsrqp85d9hq3har4xyx")))
+
+(define-public crate-debil-mysql-0.3.0 (c (n "debil-mysql") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.3.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.23.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "1r5b9fmi1j7gyppbipm9kxyxx792wsg49r15f2ydjsjyazq8cijs")))
+
+(define-public crate-debil-mysql-0.3.1 (c (n "debil-mysql") (v "0.3.1") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.3.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.23.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "1piab7b2ymixrra4439nn225vggarcc8wsbgj03gypgwhrvwbhyf")))
+
+(define-public crate-debil-mysql-0.4.0 (c (n "debil-mysql") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.23.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("rt-core"))) (d #t) (k 0)))) (h "1li02nc9anhcx3w9lv662a0dbjrxn1lj1zgxfw47g5dzcdv4k44h")))
+
+(define-public crate-debil-mysql-0.5.0 (c (n "debil-mysql") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.26.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "0dwmlccf2snjh3wx6qp2bm4jh7jvh050bh9ndl3ii01iq5q7kln7")))
+
+(define-public crate-debil-mysql-0.5.1 (c (n "debil-mysql") (v "0.5.1") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.4.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.26.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "1l981mg86541nd9h231zn5n7k4998f1bmyvkmznpzns3l0m9m9h6")))
+
+(define-public crate-debil-mysql-0.5.2 (c (n "debil-mysql") (v "0.5.2") (d (list (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "debil") (r "^0.4.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "mysql_async") (r "^0.26.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "0xwrcm9fgj3p7pmjp2m32g53zk5fijvr0vykpyjqkl7nw3jjiidl")))
+

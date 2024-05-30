@@ -1,0 +1,4 @@
+(define-module (crates-io td ns tdns-cli) #:use-module (crates-io))
+
+(define-public crate-tdns-cli-0.0.5 (c (n "tdns-cli") (v "0.0.5") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "crypto-mac") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "resolv-conf") (r "^0.6.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1.3") (d #t) (k 0)) (d (n "tokio-udp") (r "^0.1.5") (d #t) (k 0)) (d (n "trust-dns") (r "^0.17.0") (d #t) (k 0)))) (h "1lrm4iy2f9x0pz1z087nlgmj17x085zwcjgd87ba39qm0qnhrhwj")))
+

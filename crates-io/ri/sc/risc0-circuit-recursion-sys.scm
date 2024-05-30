@@ -1,0 +1,42 @@
+(define-module (crates-io ri sc risc0-circuit-recursion-sys) #:use-module (crates-io))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.0-rc.1 (c (n "risc0-circuit-recursion-sys") (v "0.19.0-rc.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.0-rc.1") (k 1)) (d (n "risc0-core") (r "^0.19.0-rc.1") (k 0)))) (h "0kqiq28s8hpklzs6mc2ncd3hxzzgp1pfb96rx5fg36p8ln355gd3") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.0-rc.2 (c (n "risc0-circuit-recursion-sys") (v "0.19.0-rc.2") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.0-rc.2") (k 1)) (d (n "risc0-core") (r "^0.19.0-rc.2") (k 0)))) (h "031vx8bn8hbgm6fbc69r5q43vr8k56ahdwk6xw1ij2mmgvz45z6w") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.0-rc.3 (c (n "risc0-circuit-recursion-sys") (v "0.19.0-rc.3") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.0-rc.3") (k 1)) (d (n "risc0-core") (r "^0.19.0-rc.3") (k 0)))) (h "02ggkajam8dqwrz8mcxl2fm3q1cq7axcdrz30w5dsz4c606qgi3f") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.0-rc.4 (c (n "risc0-circuit-recursion-sys") (v "0.19.0-rc.4") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.0-rc.4") (k 1)) (d (n "risc0-core") (r "^0.19.0-rc.4") (k 0)))) (h "0d56kgdd9hpdqzqz88qzan0w6bd5zasid875wlylffz345ssz0l1") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.0 (c (n "risc0-circuit-recursion-sys") (v "0.19.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.0") (k 1)) (d (n "risc0-core") (r "^0.19.0") (k 0)))) (h "19zb2gdh5r3r5zf38azzfx4pf029dswh5pbl696cxbk1qqzxja98") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.1-rc.1 (c (n "risc0-circuit-recursion-sys") (v "0.19.1-rc.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.1-rc.1") (k 1)) (d (n "risc0-core") (r "^0.19.1-rc.1") (k 0)))) (h "0wx1ia6ifp1l3ysr9fmgh8xpkcqkw6izz4v0l0p0m9sylz1x17lq") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.19.1 (c (n "risc0-circuit-recursion-sys") (v "0.19.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.19.1") (k 1)) (d (n "risc0-core") (r "^0.19.1") (k 0)))) (h "0q07qfzpmrsdw9x73ckvccv6z78nckm0bcr4mrmskw11h26vnqaw") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.20.0-rc.1 (c (n "risc0-circuit-recursion-sys") (v "0.20.0-rc.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.20.0-rc.1") (k 1)) (d (n "risc0-core") (r "^0.20.0-rc.1") (k 0)))) (h "18hnmspqh1d7szmq9az9acqbfk0lzzdlq75pk7nsh25ppz5wg3r8") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.20.0-rc.2 (c (n "risc0-circuit-recursion-sys") (v "0.20.0-rc.2") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.20.0-rc.2") (k 1)) (d (n "risc0-core") (r "^0.20.0-rc.2") (k 0)))) (h "13znl296kkhbwm7gbh27xb8cxmdbi4vm95ja4hvn7pg5i9dvxrrl") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.20.0-rc.3 (c (n "risc0-circuit-recursion-sys") (v "0.20.0-rc.3") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.20.0-rc.3") (k 1)) (d (n "risc0-core") (r "^0.20.0-rc.3") (k 0)))) (h "0r5m7rp9m90p5r8cl9wg76aygf57jhq99b4r4fqjymg07gzz6pik") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.20.0-rc.4 (c (n "risc0-circuit-recursion-sys") (v "0.20.0-rc.4") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.20.0-rc.4") (k 1)) (d (n "risc0-core") (r "^0.20.0-rc.4") (k 0)))) (h "1qwys1a96kp7hk0h3j3n7hpkfm0mmwn00sf45magh2s95q53di9c") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.20.0 (c (n "risc0-circuit-recursion-sys") (v "0.20.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.20.0") (k 1)) (d (n "risc0-core") (r "^0.20.0") (k 0)))) (h "0fnysyf8z868d9yylig1q9hpl2lak9vnrmni96g7pdc9bwn1ybvg") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.20.1 (c (n "risc0-circuit-recursion-sys") (v "0.20.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.20.1") (k 1)) (d (n "risc0-core") (r "^0.20.1") (k 0)))) (h "1fjqac4hjdhiy9cb417h2dccc5z4hjvvv8rrdp5f1jlcj8ia8bxi") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.21.0-rc.1 (c (n "risc0-circuit-recursion-sys") (v "0.21.0-rc.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.21.0-rc.1") (k 1)) (d (n "risc0-core") (r "^0.21.0-rc.1") (k 0)))) (h "1k85y50wcwywb0q1r2b2r5kcp59b1ji990vhbr8rfaz6lhwh6301") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.21.0-rc.2 (c (n "risc0-circuit-recursion-sys") (v "0.21.0-rc.2") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.21.0-rc.2") (k 1)) (d (n "risc0-core") (r "^0.21.0-rc.2") (k 0)))) (h "1z2d81xlncmsfp17gkmfhg99208zgdd483b8zwwfdkfqwwy38vwg") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-0.21.0 (c (n "risc0-circuit-recursion-sys") (v "0.21.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^0.21.0") (k 1)) (d (n "risc0-core") (r "^0.21.0") (k 0)))) (h "16mq1wcdkngxiafp02yclnl3xsns2gsqf0phh8hw430fpcnbilka") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-1.0.0-rc.3 (c (n "risc0-circuit-recursion-sys") (v "1.0.0-rc.3") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^1.0.0-rc.3") (k 1)) (d (n "risc0-core") (r "^1.0.0-rc.3") (k 0)))) (h "07nizz1rzsbzc5b82xrxwhawp6nil2kwjrqvb9ld885mvpp7hj10") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-1.0.0-rc.4 (c (n "risc0-circuit-recursion-sys") (v "1.0.0-rc.4") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^1.0.0-rc.4") (k 1)) (d (n "risc0-core") (r "^1.0.0-rc.4") (k 0)))) (h "1lbkzy5sz0jbq0dj78lishgrihnp3ygvkgc27q4qr16v22n5hg9f") (f (quote (("metal") ("default") ("cuda")))) (l "risc0-circuit-recursion-sys")))
+
+(define-public crate-risc0-circuit-recursion-sys-1.0.0-rc.5 (c (n "risc0-circuit-recursion-sys") (v "1.0.0-rc.5") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^1.0.0-rc.5") (k 1)) (d (n "risc0-core") (r "^1.0.0-rc.5") (k 0)) (d (n "risc0-sys") (r "^1.0.0-rc.5") (k 0)) (d (n "sppark") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "0g7mlqymwnw3g24dabww6fv53s3q5vnsqi25z8k647imjrmhlcwd") (f (quote (("metal" "risc0-sys/metal") ("default")))) (l "risc0-circuit-recursion-sys") (s 2) (e (quote (("cuda" "dep:sppark" "risc0-sys/cuda"))))))
+
+(define-public crate-risc0-circuit-recursion-sys-1.0.0-rc.6 (c (n "risc0-circuit-recursion-sys") (v "1.0.0-rc.6") (d (list (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "risc0-build-kernel") (r "^1.0.0-rc.6") (k 1)) (d (n "risc0-core") (r "^1.0.0-rc.6") (k 0)) (d (n "risc0-sys") (r "^1.0.0-rc.6") (k 0)) (d (n "sppark") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "05vsbx90raddhjkcnaiy3glpf5kf0sh9sv0wy9mf58688cjplzxi") (f (quote (("metal" "risc0-sys/metal") ("default")))) (l "risc0-circuit-recursion-sys") (s 2) (e (quote (("cuda" "dep:sppark" "risc0-sys/cuda"))))))
+

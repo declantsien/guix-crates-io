@@ -1,0 +1,6 @@
+(define-module (crates-io em as emas_rs) #:use-module (crates-io))
+
+(define-public crate-emas_rs-0.1.0 (c (n "emas_rs") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)))) (h "1w24fpzcv1fjfid2lwwmdw3wd0nfvpyki3j6p4bdsr6k46zsr46v") (f (quote (("live-plotting")))) (y #t)))
+
+(define-public crate-emas_rs-0.1.1 (c (n "emas_rs") (v "0.1.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)))) (h "1nsnndwm9a6k61smg82x1msnfvaj3dsjrs5ra0rmzxq9xnz326cz") (f (quote (("live-plotting"))))))
+

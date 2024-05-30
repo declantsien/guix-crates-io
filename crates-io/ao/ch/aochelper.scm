@@ -1,0 +1,10 @@
+(define-module (crates-io ao ch aochelper) #:use-module (crates-io))
+
+(define-public crate-aochelper-0.1.0 (c (n "aochelper") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)))) (h "1962q9jgzn4p9s9x0cs4l3hgsafa6bsd8h9vks17karlcizdnm83")))
+
+(define-public crate-aochelper-0.2.0 (c (n "aochelper") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)))) (h "1451gcxzqa2kgzs95p73106m6p670nf4ysvzg18f0nrb83avy575") (r "1.77")))
+
+(define-public crate-aochelper-0.3.0 (c (n "aochelper") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0l6l4qgv9lpq0z2iwc4bqa08ygf8vdgyc6b9nvv4dl5hnw55iwdc") (r "1.77")))
+
+(define-public crate-aochelper-0.3.1 (c (n "aochelper") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1lpn92jd8y6jdhn0cgw3i3qxs9ix9s0j8f4mybqg0ikqkw5ya3sa") (r "1.77")))
+

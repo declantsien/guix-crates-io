@@ -1,0 +1,28 @@
+(define-module (crates-io fi x- fix-hidden-lifetime-bug-proc_macros) #:use-module (crates-io))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.1.0 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1dmz1w40fr6r5gsrxnq4av9lw4ynmw8h95rqvblhjcfj17gdws0y")))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.1.1 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1vlqwbs4yp9025f37lwxhvxzknr40g8yvyqg2dnvy62kn133dqkw")))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.0 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.0") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0l00nl2x16rpsn5sklr9df6zh25lh1kc5mn3mwaml50hjrax63sa") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.1-rc1 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.1-rc1") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "11s0kjaryldzsirq5b7fqzx0ds06j139hxc5cgcmrsgh5nd1xwkg") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.1-rc2 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.1-rc2") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1k799w1xf3caf3z14ck63krdrhgmnziahncp8dchsg6val02s5sc") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.1 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.1") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0sygfmbj2wwir0qhsifaqqbdb14g7qck4m100msc92m4bp0bwsy6") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.2-rc1 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.2-rc1") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1iszl7jjm2cqw1gwa5qvjb30jcc7zc7jm3zk8qijcmyckhcxd1dd") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.2 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.2") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0a89hkawlcxzb9l49sbf77a9y0mv2rk1j13svx1194d0969bwqys") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.3-rc1 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.3-rc1") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "16pzbgzba682bk1z6vwkh9r37pjbav9qrzwxh5d9kr4ldf0wyv1k") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.3-rc2 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.3-rc2") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1fn3dk1ziw3gfd63g3nygmrlxbjmgc674xkl3y1mm91ij9x908db") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.3 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.3") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0g5xpmzd4lkiz8ddgzy1zbsm66fqlfzkb4c15ajb4932xxrgzshb") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.4 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.4") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "18dxlrc9qbirfp57dw1j945xfzn8vv99x8xkhshvyrzg8m47g5zb") (f (quote (("showme" "bat") ("default"))))))
+
+(define-public crate-fix-hidden-lifetime-bug-proc_macros-0.2.5 (c (n "fix-hidden-lifetime-bug-proc_macros") (v "0.2.5") (d (list (d (n "bat") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1sm1rgxv2qqj9gx65q777lfv4pvy6ywdkw64qi0hgar3w4sikj74") (f (quote (("showme" "bat") ("default"))))))
+

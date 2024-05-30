@@ -1,0 +1,10 @@
+(define-module (crates-io se cr secretbox) #:use-module (crates-io))
+
+(define-public crate-secretbox-0.1.0 (c (n "secretbox") (v "0.1.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "packed_simd") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "uint") (r "^0.8") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5.2") (o #t) (d #t) (k 0)))) (h "1fd18p1zscmj1wzs67a2day8qv38771bmbc8cqsp4975xw0nhw2a") (f (quote (("simd" "packed_simd") ("default" "rand") ("curve25519" "x25519-dalek" "rand")))) (y #t)))
+
+(define-public crate-secretbox-0.1.1 (c (n "secretbox") (v "0.1.1") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "packed_simd") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "uint") (r "^0.8") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5.2") (o #t) (d #t) (k 0)))) (h "08jab155gdv6chihhrs9vvs5z4kr19h8aib4a3is9vsxffxy85f2") (f (quote (("simd" "packed_simd") ("default" "rand") ("curve25519" "x25519-dalek" "rand")))) (y #t)))
+
+(define-public crate-secretbox-0.1.2 (c (n "secretbox") (v "0.1.2") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "packed_simd") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "uint") (r "^0.8") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5.2") (o #t) (d #t) (k 0)))) (h "1iq7r2sqcmspl0c4zq7z67zl3vi6qh5mrhx1nca4y70h6jw0am55") (f (quote (("simd" "packed_simd") ("default" "rand") ("curve25519" "x25519-dalek" "rand")))) (y #t)))
+
+(define-public crate-secretbox-0.1.3 (c (n "secretbox") (v "0.1.3") (d (list (d (n "chacha20poly1305") (r "^0.9.0") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "packed_simd") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "uint") (r "^0.8") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5.2") (o #t) (d #t) (k 0)) (d (n "xsalsa20poly1305") (r "^0.8.0") (d #t) (k 0)))) (h "1dhl38kz0sbn0rmg9h631kfsrsj4d11yz49z8nb3gwmx593cvfjs") (f (quote (("unsafe-do-not-enable") ("simd" "packed_simd") ("default" "rand") ("curve25519" "x25519-dalek" "rand"))))))
+

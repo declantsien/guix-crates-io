@@ -1,0 +1,6 @@
+(define-module (crates-io tr us trusted-signing-cli) #:use-module (crates-io))
+
+(define-public crate-trusted-signing-cli-0.1.0 (c (n "trusted-signing-cli") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (d #t) (k 0)) (d (n "trauma") (r "^2.2.4") (d #t) (k 0)) (d (n "zip") (r "^0.6") (d #t) (k 0)) (d (n "zip-extensions") (r "^0.6") (d #t) (k 0)))) (h "18fzwapd4wbinsdp99yyjlbpzra9s4nf5gq7i2jf3j9f1y02yiaw")))
+
+(define-public crate-trusted-signing-cli-0.2.0 (c (n "trusted-signing-cli") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (d #t) (k 0)) (d (n "trauma") (r "^2.2.4") (d #t) (k 0)) (d (n "zip") (r "^0.6") (d #t) (k 0)) (d (n "zip-extensions") (r "^0.6") (d #t) (k 0)))) (h "1l3m3hamcrd0vyyblcxc1cnwlh75p30l2mp8a2ygbaf65vsz30j0")))
+

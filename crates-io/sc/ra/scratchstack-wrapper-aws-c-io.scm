@@ -1,0 +1,6 @@
+(define-module (crates-io sc ra scratchstack-wrapper-aws-c-io) #:use-module (crates-io))
+
+(define-public crate-scratchstack-wrapper-aws-c-io-0.1.0-alpha.5 (c (n "scratchstack-wrapper-aws-c-io") (v "0.1.0-alpha.5") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "s2n-tls-sys") (r "^0.0.18") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-c-cal") (r "=0.1.0-alpha.5") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-c-common") (r "=0.1.0-alpha.5") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-lc") (r "=0.1.0-alpha.5") (d #t) (k 0)))) (h "01hd3bmv466scjcaah3yakcg14pqga705dbsqmbfj8s1nybxnc0y") (l "aws-c-io")))
+
+(define-public crate-scratchstack-wrapper-aws-c-io-0.1.0-alpha.7 (c (n "scratchstack-wrapper-aws-c-io") (v "0.1.0-alpha.7") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "s2n-tls-sys") (r "^0.0.18") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-c-cal") (r "=0.1.0-alpha.7") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-c-common") (r "=0.1.0-alpha.7") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-lc") (r "=0.1.0-alpha.7") (d #t) (k 0)))) (h "17jqnw4rgpimp2nly3i497cmpw28jkxi7vg4mwqpmgl6bc95gj2k") (l "aws-c-io")))
+

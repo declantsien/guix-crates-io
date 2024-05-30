@@ -1,0 +1,4 @@
+(define-module (crates-io go og google-service-account-oauth-access-token) #:use-module (crates-io))
+
+(define-public crate-google-service-account-oauth-access-token-0.1.0 (c (n "google-service-account-oauth-access-token") (v "0.1.0") (d (list (d (n "arc-swap") (r "^1") (k 0)) (d (n "async-sleep") (r "^0.4") (f (quote ("timeout"))) (k 0)) (d (n "google-service-account-oauth-jwt-assertion") (r "^0.1") (f (quote ("google-service-account-json-key"))) (k 0)) (d (n "http-api-isahc-client") (r "^0.2") (k 0)) (d (n "oauth2-client") (r "^0.2") (f (quote ("with-flow"))) (k 0)) (d (n "oauth2-google") (r "^0.2") (k 0)) (d (n "once_cell") (r "^1") (k 0)) (d (n "async-sleep") (r "^0.4") (f (quote ("impl_tokio"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "15zm3fm108nqbflc13pp69712h2jdr339drsi9csjbm1lyba4lfv")))
+

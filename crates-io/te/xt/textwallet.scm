@@ -1,0 +1,4 @@
+(define-module (crates-io te xt textwallet) #:use-module (crates-io))
+
+(define-public crate-textwallet-0.1.0-alpha.0 (c (n "textwallet") (v "0.1.0-alpha.0") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "hdwallet") (r "^0.2.2") (d #t) (k 0)) (d (n "hdwallet-bitcoin") (r "^0.2.1") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "home") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "ring") (r "^0.14.6") (d #t) (k 0)) (d (n "ripemd160") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.88") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 0)) (d (n "tui") (r "^0.5.0") (d #t) (k 0)))) (h "0g3wwjq4ifshmg72853knh5psvqlj7canm8jm57fzjazlai1387y")))
+

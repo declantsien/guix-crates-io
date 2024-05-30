@@ -1,0 +1,8 @@
+(define-module (crates-io em oj emoji256) #:use-module (crates-io))
+
+(define-public crate-emoji256-0.2.0 (c (n "emoji256") (v "0.2.0") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "1jqmir1aps3qvadxam3jswl3r48v7f3g33hi4zcm0m71267z2cyr") (f (quote (("std" "alloc") ("default" "std") ("alloc"))))))
+
+(define-public crate-emoji256-0.2.1 (c (n "emoji256") (v "0.2.1") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "03yhkiv3hrkqi6wkd8lw0c586b2ak6k3viy35r30v9r2w0gri9ch") (f (quote (("std" "alloc") ("default" "std") ("alloc"))))))
+
+(define-public crate-emoji256-0.2.2 (c (n "emoji256") (v "0.2.2") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "10xplwxwgmj8az9blwkcmglpv9qi75822sn1ny8cd5pvm9jhy1v1") (f (quote (("std" "alloc") ("default" "std") ("alloc"))))))
+

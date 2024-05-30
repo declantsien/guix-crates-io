@@ -1,0 +1,24 @@
+(define-module (crates-io fl ex flex-error) #:use-module (crates-io))
+
+(define-public crate-flex-error-0.1.0 (c (n "flex-error") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "1y98m5xqn7nanqhkla6kb18lfnkkxfw12ckjzbg80w1h4hvldbwg") (f (quote (("string_tracer") ("std") ("eyre_tracer" "eyre" "std") ("default" "eyre_tracer") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.1.1 (c (n "flex-error") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "1dbgbyblcqcihpk8hlz52cdhp7791rlg71x4qzh50cg7rszcaag5") (f (quote (("std") ("full" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.1.2 (c (n "flex-error") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "170f5bsk1p6vqr2i88dlrhml8754mgkl0iw6fq8mdvhri0bk0fql") (f (quote (("std") ("full" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.2.0 (c (n "flex-error") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "1sl5jxfjz4x6mq8pp9gccn4k7cmqqkm9ngbmyz51yycj3jfmf7s3") (f (quote (("std") ("full" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.2.1 (c (n "flex-error") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "19mgay7h51117rci7zz0cs0h4qawn84ml3c4hnma6h913nw6aqxk") (f (quote (("std") ("full" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.3.0 (c (n "flex-error") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (o #t) (d #t) (k 0)))) (h "06xv1lajrhbi5na7jpl68fnc3q7cd1iwpg5zsbs08xggz63jcpq9") (f (quote (("std") ("full" "eyre_tracer" "anyhow_tracer" "serde") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.4.0 (c (n "flex-error") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (o #t) (d #t) (k 0)))) (h "1v61wsab0k4gx2myxwalfacpg26cn9ldwb7yaj2vrpczylqq2j0c") (f (quote (("std") ("full" "eyre_tracer" "anyhow_tracer" "serde") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.4.1 (c (n "flex-error") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (o #t) (d #t) (k 0)))) (h "1ks5nwy1fd85hwfkwkwy6iqaksmlsfnh8pfv3nbih4yc8lrixhpj") (f (quote (("std") ("full" "std" "eyre_tracer" "anyhow_tracer" "serde") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.4.2 (c (n "flex-error") (v "0.4.2") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "1n8d06b4z0ggaqnz9mr9gq02fc3ankrk8kym3gwlzznca5plnxfq") (f (quote (("std") ("full" "std" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.4.3 (c (n "flex-error") (v "0.4.3") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "0sn0ifxfsvmr6c95rabqdy5mji8dir8qla2fh7p5d27v96zyd39y") (f (quote (("std") ("full" "std" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+
+(define-public crate-flex-error-0.4.4 (c (n "flex-error") (v "0.4.4") (d (list (d (n "anyhow") (r "^1.0.40") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)))) (h "0ywxqij98lb1bd04xp5vs02y352g8cbc3zywl1zm04fyr69dh1n6") (f (quote (("std") ("full" "std" "eyre_tracer" "anyhow_tracer") ("eyre_tracer" "eyre" "std") ("default" "full") ("anyhow_tracer" "anyhow" "std"))))))
+

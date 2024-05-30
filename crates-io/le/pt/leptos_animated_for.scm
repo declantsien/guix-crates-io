@@ -1,0 +1,32 @@
+(define-module (crates-io le pt leptos_animated_for) #:use-module (crates-io))
+
+(define-public crate-leptos_animated_for-0.0.1 (c (n "leptos_animated_for") (v "0.0.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "leptos") (r "^0.5.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1czdj934852vrk50z94p1zyf8hwmi1gk22kfgqqsk8cqh6ad5skx") (f (quote (("ssr") ("hydrate")))) (y #t)))
+
+(define-public crate-leptos_animated_for-0.0.2 (c (n "leptos_animated_for") (v "0.0.2") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "leptos") (r "^0.5.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "0iwil1gshbh2ihwzi2qc7fb6pv0bbraljpl63lhrcwnpbcq7vcs5") (f (quote (("ssr") ("hydrate")))) (y #t)))
+
+(define-public crate-leptos_animated_for-0.0.3 (c (n "leptos_animated_for") (v "0.0.3") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "leptos") (r "^0.5.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "10g6pdvvr7kz5mzxl681ai7drfnqj9297q57xamdrlf44djkx4y8") (f (quote (("ssr")))) (y #t)))
+
+(define-public crate-leptos_animated_for-0.0.4 (c (n "leptos_animated_for") (v "0.0.4") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "leptos") (r "^0.5.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "0137yclfyy8hng9s6pl1l2gk6yfk0mmk05q8wyq1j00fk14i879b") (f (quote (("ssr"))))))
+
+(define-public crate-leptos_animated_for-0.1.0 (c (n "leptos_animated_for") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "leptos") (r "^0.5.4") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.66") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "06vk6rnc0m9ka6ydgdw87sp0r4z6258ql84as8c2438gyaq0ln8d") (f (quote (("ssr"))))))
+
+(define-public crate-leptos_animated_for-0.2.0 (c (n "leptos_animated_for") (v "0.2.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.0-beta") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.90") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.67") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1a6ysk05377ybyp90kiggdyvk31hff7na1yl9h4sj09hrcc3nnsx") (f (quote (("ssr"))))))
+
+(define-public crate-leptos_animated_for-0.3.0 (c (n "leptos_animated_for") (v "0.3.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.90") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.67") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1jp2pp5ss2f5iprbvlshvj5vvvblayh8vxygdvcvn0b4yaw0kv27") (f (quote (("ssr"))))))
+
+(define-public crate-leptos_animated_for-0.3.1 (c (n "leptos_animated_for") (v "0.3.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.5") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.90") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.67") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "08blln7wwxnb49a64vs476kya6vm286ik8qsghda6zb4vwa65jj7") (f (quote (("ssr"))))))
+
+(define-public crate-leptos_animated_for-0.4.0 (c (n "leptos_animated_for") (v "0.4.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.5") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.90") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.67") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "0ws8q6v4n97wkdz81xw1g4m7w6bfxgcm35dz71kxsjiyj0hnaa12")))
+
+(define-public crate-leptos_animated_for-0.4.1 (c (n "leptos_animated_for") (v "0.4.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.5") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.90") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.67") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1xr0sm9kxmjc47q7gfpm4f4w4k8wy8i3ghk2klf3br82d8s68ilk")))
+
+(define-public crate-leptos_animated_for-0.4.2 (c (n "leptos_animated_for") (v "0.4.2") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.6") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.68") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1js2snpm9qs5rj527mrs0rg8jqdkmxnabanvz1lbgvdx8f2gg02p")))
+
+(define-public crate-leptos_animated_for-0.4.3 (c (n "leptos_animated_for") (v "0.4.3") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.7") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.68") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1mjy0yzbb1ark776713c1v6llv9bj9wnih4zapl0hwj1w5sj203x")))
+
+(define-public crate-leptos_animated_for-0.4.4 (c (n "leptos_animated_for") (v "0.4.4") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.8") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.68") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "0fvc5fdz0arjf34xlyfjpgaccwglracdrf5zb6xvkbgs34ira6h8")))
+
+(define-public crate-leptos_animated_for-0.4.5 (c (n "leptos_animated_for") (v "0.4.5") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.9") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.92") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "0xikx1di6p1p93r5jgwigjfyy5vbgg30rqcjssqq5d01v3f178a9")))
+
+(define-public crate-leptos_animated_for-0.4.6 (c (n "leptos_animated_for") (v "0.4.6") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "leptos") (r "^0.6.11") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.92") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1ll0qvk0g05i99k2zklv6q8dzz56kivll9268d48zqhhfzm9gf3c")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io vl un vlung-analysis) #:use-module (crates-io))
+
+(define-public crate-vlung-analysis-1.0.0 (c (n "vlung-analysis") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dicom") (r "^0.6.1") (d #t) (k 0)) (d (n "dicom-pixeldata") (r "^0.2.0") (f (quote ("ndarray"))) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1fbgw743m22kv3c7q36jz04va4wfngq6xyahay4nklg0l8z0v15c")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io go do godot-rs-config) #:use-module (crates-io))
+
+(define-public crate-godot-rs-config-0.1.0 (c (n "godot-rs-config") (v "0.1.0") (h "1b5z5qpcg9b3d2630zmapdnxys5fy8lja7h0pls6ixlafgkgcq6f")))
+
+(define-public crate-godot-rs-config-0.1.1 (c (n "godot-rs-config") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "cargo-generate") (r "^0.18.4") (d #t) (k 0)) (d (n "clap") (r "^4.3.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cucumber") (r "^0.20.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("test-util" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1bmm9jnvsfsgpn5sbw40vfsw79s5kpniiwq8c569ajrcgpikzd3c")))
+
+(define-public crate-godot-rs-config-0.1.2 (c (n "godot-rs-config") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "cargo-generate") (r "^0.18.4") (d #t) (k 0)) (d (n "clap") (r "^4.3.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "cucumber") (r "^0.20.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("test-util" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "09b4w85gpbw0dz6jyvqn8zz3xmzlqp03pai51wdkmma9g7xfxjx6")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io li bi libical) #:use-module (crates-io))
+
+(define-public crate-libical-0.1.0 (c (n "libical") (v "0.1.0") (d (list (d (n "assert_fs") (r "^0.13.1") (d #t) (k 2)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "ical") (r "^0.1.1") (d #t) (k 0) (p "libical-sys")) (d (n "indoc") (r "^0.3.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.1") (d #t) (k 2)) (d (n "predicates") (r "^1.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "tempfile") (r "^3.0.5") (d #t) (k 2)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.2.7") (d #t) (k 0)))) (h "0m62aqvh7if3hxbpgrywddzwi7bncakyzjc509sh1ak36n28swvj")))
+

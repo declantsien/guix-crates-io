@@ -1,0 +1,10 @@
+(define-module (crates-io ma x6 max6675-hal) #:use-module (crates-io))
+
+(define-public crate-max6675-hal-0.3.1 (c (n "max6675-hal") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.9") (d #t) (k 2)) (d (n "simmer") (r "^0.3") (f (quote ("f32"))) (d #t) (k 0)) (d (n "ufmt") (r "^0.2") (d #t) (k 0)))) (h "0khim393s8ahw48k6aj474s45y83rjc17np2mbllg8kw9218w053") (f (quote (("std"))))))
+
+(define-public crate-max6675-hal-1.0.0-rc.1 (c (n "max6675-hal") (v "1.0.0-rc.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^1.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10") (f (quote ("eh1"))) (d #t) (k 2)) (d (n "simmer") (r "^0.3") (f (quote ("f32"))) (d #t) (k 0)) (d (n "ufmt") (r "^0.2") (d #t) (k 0)))) (h "17vi34mwqswc4crf754q4wv8jl2na1257zgn33wg7pnnc54i51y4") (f (quote (("std"))))))
+
+(define-public crate-max6675-hal-0.4.0 (c (n "max6675-hal") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("eh1"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "simmer") (r "^0.3") (f (quote ("f32"))) (d #t) (k 0)) (d (n "ufmt") (r "^0.2") (d #t) (k 0)))) (h "14gn95fppjjwf70c9fb2m76js2d16y5p0bw968ca38sal53ysb67") (f (quote (("std")))) (y #t)))
+
+(define-public crate-max6675-hal-1.0.0 (c (n "max6675-hal") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_approx_eq") (r "^1.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("eh1"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "simmer") (r "^0.3") (f (quote ("f32"))) (d #t) (k 0)) (d (n "ufmt") (r "^0.2") (d #t) (k 0)))) (h "01dz7xhadsk4iwwj885fdsiqhz9x4jlvykmg94z6d2lx6g84ya0r") (f (quote (("std"))))))
+

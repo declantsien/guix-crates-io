@@ -1,0 +1,14 @@
+(define-module (crates-io fl oa float_duration) #:use-module (crates-io))
+
+(define-public crate-float_duration-0.1.0 (c (n "float_duration") (v "0.1.0") (d (list (d (n "approx") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "0168av7ar72va6in50yv1kivx9grwrjs8lk9liwxh0rikha6vs1z") (f (quote (("default" "chrono" "time" "approx") ("all" "chrono" "time" "approx"))))))
+
+(define-public crate-float_duration-0.2.0 (c (n "float_duration") (v "0.2.0") (d (list (d (n "approx") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "0dj9fpp1p8n6rw827kbdylij2d9bcf0xmsxxgl4481935ddczisf") (f (quote (("default" "chrono" "time" "approx" "serde") ("all" "chrono" "time" "approx" "serde"))))))
+
+(define-public crate-float_duration-0.3.0 (c (n "float_duration") (v "0.3.0") (d (list (d (n "approx") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "1km7kncmby03c583yxzw3qls1qyn3h25a4vlh0fijp790hp0lhnb") (f (quote (("default" "chrono" "time" "approx" "serde") ("all" "chrono" "time" "approx" "serde"))))))
+
+(define-public crate-float_duration-0.3.1 (c (n "float_duration") (v "0.3.1") (d (list (d (n "approx") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "1by10yk6v7kfrz2fafkfc065s7np2l1b3fgmydlkgrwa5qc4pmhp") (f (quote (("nightly") ("default" "chrono" "time" "approx" "serde") ("all" "chrono" "time" "approx" "serde"))))))
+
+(define-public crate-float_duration-0.3.2 (c (n "float_duration") (v "0.3.2") (d (list (d (n "approx") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "1hgkqf4lvavzdvcf9ydnlkwyk0vd7wakjjr4jmb2cdw7hxyx9kir") (f (quote (("nightly") ("default" "chrono" "time" "approx" "serde") ("all" "chrono" "time" "approx" "serde"))))))
+
+(define-public crate-float_duration-0.3.3 (c (n "float_duration") (v "0.3.3") (d (list (d (n "approx") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "03j82y9484az37vhm3vayg7s1rw378hfd3yq4w97z3xgh8qqxvaa") (f (quote (("nightly") ("default" "chrono" "time" "approx" "serde") ("all" "chrono" "time" "approx" "serde"))))))
+

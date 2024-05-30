@@ -1,0 +1,8 @@
+(define-module (crates-io cn mo cnmo-parse) #:use-module (crates-io))
+
+(define-public crate-cnmo-parse-0.1.0 (c (n "cnmo-parse") (v "0.1.0") (d (list (d (n "base64") (r "^0.20.0") (o #t) (d #t) (k 0)) (d (n "bytebuffer") (r "^2.0.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0nzmb4z7jrl3xjvyikx230phm35czmnk7skqz13i559xlfzykq0r") (s 2) (e (quote (("serde" "dep:serde" "dep:base64") ("level_data" "dep:num-traits" "dep:num-derive"))))))
+
+(define-public crate-cnmo-parse-0.1.1 (c (n "cnmo-parse") (v "0.1.1") (d (list (d (n "base64") (r "^0.20.0") (o #t) (d #t) (k 0)) (d (n "bytebuffer") (r "^2.0.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03k0g9zl8dbb27jq1sd4cyb72bxxafh3qbnxq8j1ppxw5acw89hj") (s 2) (e (quote (("serde" "dep:serde" "dep:base64") ("level_data" "dep:num-traits" "dep:num-derive"))))))
+
+(define-public crate-cnmo-parse-0.1.2 (c (n "cnmo-parse") (v "0.1.2") (d (list (d (n "base64") (r "^0.20.0") (o #t) (d #t) (k 0)) (d (n "bytebuffer") (r "^2.0.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0cylpq6bjw99nz2140drzyk29ynv6wxkli8wysj0v8h0b7pdwlv9") (s 2) (e (quote (("serde" "dep:serde" "dep:base64") ("level_data" "dep:num-traits" "dep:num-derive"))))))
+

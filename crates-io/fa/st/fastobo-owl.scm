@@ -1,0 +1,12 @@
+(define-module (crates-io fa st fastobo-owl) #:use-module (crates-io))
+
+(define-public crate-fastobo-owl-0.1.0 (c (n "fastobo-owl") (v "0.1.0") (d (list (d (n "curie") (r "^0.0.8") (d #t) (k 0)) (d (n "fastobo") (r "^0.14.0") (f (quote ("threading"))) (k 0)) (d (n "horned-functional") (r "^0.3.1") (k 0)) (d (n "horned-owl") (r "^0.10.0") (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)))) (h "004vrr3b4jqrzx38xwis3pgk46nwwq9bzjiwhk3dcgal67r4sxak")))
+
+(define-public crate-fastobo-owl-0.1.1 (c (n "fastobo-owl") (v "0.1.1") (d (list (d (n "curie") (r "^0.0.8") (d #t) (k 0)) (d (n "fastobo") (r "^0.14.0") (f (quote ("threading"))) (k 0)) (d (n "horned-functional") (r "^0.3.2") (k 0)) (d (n "horned-owl") (r "^0.10.0") (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)))) (h "0hpvp74ld3nc6qml5xf0wy17718yp53spz7mmf6016qwdp1ywb73")))
+
+(define-public crate-fastobo-owl-0.1.2 (c (n "fastobo-owl") (v "0.1.2") (d (list (d (n "curie") (r "^0.0.8") (d #t) (k 0)) (d (n "fastobo") (r "^0.14.0") (f (quote ("threading"))) (k 0)) (d (n "horned-functional") (r "^0.3.2") (k 0)) (d (n "horned-owl") (r "^0.10.0") (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)))) (h "0q6bpqmh1m5sjjmj0i2ir7q78bysfgcm2m6f3icmqmj548c78rdx")))
+
+(define-public crate-fastobo-owl-0.2.0 (c (n "fastobo-owl") (v "0.2.0") (d (list (d (n "curie") (r "^0.1.1") (d #t) (k 0)) (d (n "fastobo") (r "^0.15.0") (f (quote ("threading"))) (k 0)) (d (n "horned-functional") (r "^0.4.0") (k 0)) (d (n "horned-owl") (r "^0.11.0") (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)))) (h "0a6j074zwl53aksc244z2ad8cmmpi8lcvk6wf0wflms9z5hjlr1n")))
+
+(define-public crate-fastobo-owl-0.2.1 (c (n "fastobo-owl") (v "0.2.1") (d (list (d (n "curie") (r "^0.1.1") (d #t) (k 0)) (d (n "fastobo") (r "^0.15.0") (f (quote ("threading"))) (k 0)) (d (n "horned-functional") (r "^0.4.0") (k 0)) (d (n "horned-owl") (r "^0.11.0") (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)))) (h "1zgm71dn5ngqjbzr0ljhhdx0w1zbgdip65s9nkzzs3f6g5pxwlyk")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io ru le rulex) #:use-module (crates-io))
+
+(define-public crate-rulex-0.1.0 (c (n "rulex") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.2.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1n504bdn3dgcp7p53hifk7yfxxvc2qfncppzkfg721yxl9fji4ks") (f (quote (("default") ("dbg"))))))
+
+(define-public crate-rulex-0.2.0 (c (n "rulex") (v "0.2.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.2.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1gpkxdydd11di8wmapdan26p1di8fzdw0chm30a2r1gw1jlravwk") (f (quote (("default") ("dbg"))))))
+
+(define-public crate-rulex-0.3.0 (c (n "rulex") (v "0.3.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.2.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1fpv74hp1j1rgjpf2dc0crqgy16ypw85pjjr1x109538k9blp7sf") (f (quote (("default") ("dbg"))))))
+
+(define-public crate-rulex-0.4.0 (c (n "rulex") (v "0.4.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.7.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1336spfqz6nm6jsfddgabz33gan2182kphhhywizdb4d16f7s8xp") (f (quote (("default") ("dbg")))) (y #t)))
+
+(define-public crate-rulex-0.4.1 (c (n "rulex") (v "0.4.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.7.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "02r5m9vxqr9m32f2wv8ydc0hxw36lzksq81pgn2w5grnamklbrn4") (f (quote (("default") ("dbg")))) (y #t)))
+
+(define-public crate-rulex-0.4.2 (c (n "rulex") (v "0.4.2") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.7.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1lmzaamx1ndnvkkqbhnkr2xjyd44vl9n78kv5ndbrx8mk41cqx64") (f (quote (("default") ("dbg")))) (y #t)))
+
+(define-public crate-rulex-0.4.3 (c (n "rulex") (v "0.4.3") (d (list (d (n "arbitrary") (r "^1.1.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.7.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1mdwj3px6z6mxhfvgvi2xzqcn5w5y49sw950fc51kn1c7gcl1h89") (f (quote (("default") ("dbg")))) (y #t)))
+
+(define-public crate-rulex-0.4.4 (c (n "rulex") (v "0.4.4") (d (list (d (n "arbitrary") (r "^1.1.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 2)) (d (n "miette") (r "^4.7.1") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1ls2fi78x3yf3g7dwq0m44sqx4004xig1a1zbqjknpr9wprrzrxw") (f (quote (("default") ("dbg"))))))
+

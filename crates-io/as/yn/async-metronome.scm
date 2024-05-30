@@ -1,0 +1,12 @@
+(define-module (crates-io as yn async-metronome) #:use-module (crates-io))
+
+(define-public crate-async-metronome-0.1.0 (c (n "async-metronome") (v "0.1.0") (d (list (d (n "async-std") (r "^1.6") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "derive_builder") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4") (d #t) (k 0)))) (h "127754702cq36f3abqmwrs3gw2ia9ssp2j5jlqnlkc57yv8madbz")))
+
+(define-public crate-async-metronome-0.1.1 (c (n "async-metronome") (v "0.1.1") (d (list (d (n "async-std") (r "^1.6") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "derive_builder") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4") (d #t) (k 0)))) (h "15hsywlcxhw671n049aj4f14rqbk574fb4kkjz0amid4rr1qxdwz")))
+
+(define-public crate-async-metronome-0.2.0 (c (n "async-metronome") (v "0.2.0") (d (list (d (n "async-metronome-attributes") (r "^0.1") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (d #t) (k 2)) (d (n "async-task") (r "^4.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9") (d #t) (k 0)) (d (n "flume") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)))) (h "07anm25mnd1isixsi4sf4qvxdgk9fqdq2yfigrs8w5kaqqnf83vn")))
+
+(define-public crate-async-metronome-0.3.0 (c (n "async-metronome") (v "0.3.0") (d (list (d (n "async-metronome-attributes") (r "^0.1") (d #t) (k 0)) (d (n "async-std") (r "^1.12") (d #t) (k 2)) (d (n "async-task") (r "^4.7") (d #t) (k 0)) (d (n "derive_builder") (r "^0.13") (d #t) (k 0)) (d (n "flume") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "pin-project") (r "^1.1") (d #t) (k 0)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)))) (h "1672rqyic2p7bknsaz7dc6a6rz6kxjgvkdl6apf71nck033i53qg")))
+
+(define-public crate-async-metronome-0.3.1 (c (n "async-metronome") (v "0.3.1") (d (list (d (n "async-metronome-attributes") (r "^0.1") (d #t) (k 0)) (d (n "async-std") (r "^1.12") (d #t) (k 2)) (d (n "async-task") (r "^4.7") (d #t) (k 0)) (d (n "derive_builder") (r "^0.13") (d #t) (k 0)) (d (n "flume") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "pin-project") (r "^1.1") (d #t) (k 0)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)))) (h "1k1hxs4vy410pk5llzmg798nq0yspgsnbmwygfgg2iks8v5c5qy5")))
+

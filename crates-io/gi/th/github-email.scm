@@ -1,0 +1,8 @@
+(define-module (crates-io gi th github-email) #:use-module (crates-io))
+
+(define-public crate-github-email-0.0.0 (c (n "github-email") (v "0.0.0") (d (list (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "07msm7gq9yqvs8zcwkkpl5ry453f58l83rbiaml96sak6j70wl1f") (f (quote (("default"))))))
+
+(define-public crate-github-email-0.1.0 (c (n "github-email") (v "0.1.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1lvmbh646myqsd17dn4h9gp5hmk8x52mksbkxnbnj3q9znfzvj9x") (f (quote (("default"))))))
+
+(define-public crate-github-email-0.2.0 (c (n "github-email") (v "0.2.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1fv3551az3mscmc2v6mzwpp4m23c300gfrhan0r54g7iaigdrc72") (f (quote (("default"))))))
+

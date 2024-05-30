@@ -1,0 +1,14 @@
+(define-module (crates-io gc om gcommit) #:use-module (crates-io))
+
+(define-public crate-gcommit-0.0.3 (c (n "gcommit") (v "0.0.3") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0292as73bb0r57ibbdd94l2xq13zmnsvmy555j4g956nbh8hpxgm")))
+
+(define-public crate-gcommit-0.0.4 (c (n "gcommit") (v "0.0.4") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "086x1ckhcp1gmk1kgzm45rp93mlmi3xz92fv5yqsli4fl1ga5d9i")))
+
+(define-public crate-gcommit-0.0.5 (c (n "gcommit") (v "0.0.5") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "091wdx83fcvdfrhqc9mwyp44cdlihjxyx6gsphqbch437xiw1lcs")))
+
+(define-public crate-gcommit-0.0.8 (c (n "gcommit") (v "0.0.8") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "088zyjflkrxnj7mwyh6100yvg69lk41a8bhfszgiiwlaad4jfrxc")))
+
+(define-public crate-gcommit-0.0.9 (c (n "gcommit") (v "0.0.9") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0g1mpwsfs41p78jdm5ml19kkrxw75zs9317kraqi7w343ngdp4vb")))
+
+(define-public crate-gcommit-0.0.10 (c (n "gcommit") (v "0.0.10") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0gh2i94z06xqzjd5bk3y8nvkwa9ayz245dzicmwk9ih260kkx7ri")))
+

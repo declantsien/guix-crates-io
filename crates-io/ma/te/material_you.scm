@@ -1,0 +1,6 @@
+(define-module (crates-io ma te material_you) #:use-module (crates-io))
+
+(define-public crate-material_you-0.1.0 (c (n "material_you") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "css-in-rust") (r "^0.5") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 0)))) (h "1dwfc0c09knrs2k4qbk7vwzdlfjbv2iql9dfz1xfqpgd87gi2dck") (y #t)))
+
+(define-public crate-material_you-0.1.1 (c (n "material_you") (v "0.1.1") (d (list (d (n "color_utilities") (r "^0.1.0") (d #t) (k 0) (p "material_rs_color_utilities")) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "css-in-rust") (r "^0.5") (d #t) (k 0)) (d (n "gloo-console") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Event" "HtmlHeadElement" "HtmlLinkElement" "HtmlStyleElement" "MouseEvent" "Node" "Window"))) (d #t) (k 0)) (d (n "yew") (r "^0.20") (d #t) (k 0)))) (h "0w2v12rq5h7763a7w73w269kv71xlb7iqgz58d4dgbxddf1qc791") (y #t)))
+

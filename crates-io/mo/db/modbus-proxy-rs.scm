@@ -1,0 +1,8 @@
+(define-module (crates-io mo db modbus-proxy-rs) #:use-module (crates-io))
+
+(define-public crate-modbus-proxy-rs-0.1.0 (c (n "modbus-proxy-rs") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "structopt") (r "^0.3.25") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("rt" "net" "macros" "io-util" "sync" "time"))) (d #t) (k 0)))) (h "1jrd6nmshk1h583hci1b516w601qihcyhc15f7qb3339aa8y9j4i") (r "1.56")))
+
+(define-public crate-modbus-proxy-rs-0.1.1 (c (n "modbus-proxy-rs") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3") (d #t) (t "cfg(all(target_env = \"musl\", target_pointer_width = \"64\"))") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.15") (f (quote ("rt" "net" "macros" "io-util" "sync" "time"))) (d #t) (k 0)))) (h "05ch2bq0zjb1745i2iipvz16mklsvzrx8hdd8wzg1rqj0z2sjqci") (r "1.56")))
+
+(define-public crate-modbus-proxy-rs-1.0.0 (c (n "modbus-proxy-rs") (v "1.0.0") (d (list (d (n "config") (r "^0.11") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3") (d #t) (t "cfg(all(target_env = \"musl\", target_pointer_width = \"64\"))") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.15") (f (quote ("rt" "net" "macros" "io-util" "sync" "time"))) (d #t) (k 0)))) (h "0kvdk184qrji5823khlc0wq84syd6wixhyxij3skwb3sb5851m6z") (r "1.56")))
+

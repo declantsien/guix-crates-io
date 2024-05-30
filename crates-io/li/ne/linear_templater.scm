@@ -1,0 +1,10 @@
+(define-module (crates-io li ne linear_templater) #:use-module (crates-io))
+
+(define-public crate-linear_templater-0.1.0 (c (n "linear_templater") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.8") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "1ib13kv587jnnw9yg1yd5pdfccgmgxqgkamhpiggj5hd2lyhcvc8")))
+
+(define-public crate-linear_templater-0.1.1 (c (n "linear_templater") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.8") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0vkfdk01z36jxkvkhs8ybr852ymrry1m2z2pcp0qn8ngaqfp1ras")))
+
+(define-public crate-linear_templater-0.1.2 (c (n "linear_templater") (v "0.1.2") (d (list (d (n "clap") (r "^4.1.8") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1wb7n20p1c04j8lfsqph822z3z0z5ar8fxbw1w6zawnns1yhn8nv")))
+
+(define-public crate-linear_templater-0.1.3 (c (n "linear_templater") (v "0.1.3") (d (list (d (n "clap") (r "^4.2.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "0j8cnphyzylgxxd3q5m6m5r0d0q0inxpjg0c62b3hhi4d3gd7mlq")))
+

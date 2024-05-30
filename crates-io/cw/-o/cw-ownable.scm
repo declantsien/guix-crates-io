@@ -1,0 +1,16 @@
+(define-module (crates-io cw -o cw-ownable) #:use-module (crates-io))
+
+(define-public crate-cw-ownable-0.1.0 (c (n "cw-ownable") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r ">=1.0.1") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0yp2dyi0y0rwrh49jw4fcz1bylcd2k8wkqz6n7w8blfh3rk8q057")))
+
+(define-public crate-cw-ownable-0.1.1 (c (n "cw-ownable") (v "0.1.1") (d (list (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.1.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r ">=1.0.1") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "10f4nqry1sx25bdlgl39gn33r1s1ldlvyc5yh48xd15k8yjxh8z0")))
+
+(define-public crate-cw-ownable-0.2.0 (c (n "cw-ownable") (v "0.2.0") (d (list (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.2.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r ">=1.0.1") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "01692p072pbq8c01pylzczndnikww8sdphcyv9f0m68k28944nh0")))
+
+(define-public crate-cw-ownable-0.3.0 (c (n "cw-ownable") (v "0.3.0") (d (list (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.2.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "141nybdkz6jvn7885jyq8lw6pxf0x3fwlxnmydl2i1l35j515y3a")))
+
+(define-public crate-cw-ownable-0.4.0 (c (n "cw-ownable") (v "0.4.0") (d (list (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-address-like") (r "^1.0.3") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.4.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "18vhqnb6yvnlmcsz2j53jyb89pc2avfgb83h9vx0ry9chz7a3ijq")))
+
+(define-public crate-cw-ownable-0.5.0 (c (n "cw-ownable") (v "0.5.0") (d (list (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-address-like") (r "^1.0.3") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.5.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1d3ld2s637rlw8i1anjvayf64jyq9gr3zwn5bn72dkv1zishrz17")))
+
+(define-public crate-cw-ownable-0.5.1 (c (n "cw-ownable") (v "0.5.1") (d (list (d (n "cosmwasm-schema") (r "^1.2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2") (d #t) (k 0)) (d (n "cw-address-like") (r "^1.0.4") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.5.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "08a3qxcdgc3z3hs075kj12y082i8kslqxn2d4x45i2y4412zng89")))
+

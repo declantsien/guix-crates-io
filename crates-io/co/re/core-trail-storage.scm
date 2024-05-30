@@ -1,0 +1,4 @@
+(define-module (crates-io co re core-trail-storage) #:use-module (crates-io))
+
+(define-public crate-core-trail-storage-0.1.0 (c (n "core-trail-storage") (v "0.1.0") (d (list (d (n "aws-config") (r "^1.1.7") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^1.17.0") (f (quote ("behavior-version-latest"))) (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (f (quote ("serde"))) (d #t) (k 0)) (d (n "md-5") (r "^0.11.0-pre.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "ring") (r "^0.17.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.3") (d #t) (k 2)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 2)))) (h "1hx2hmikzgrfj6yzmrsd8xncbw7hjzw142124x1nhixiwh11kc8n") (y #t)))
+

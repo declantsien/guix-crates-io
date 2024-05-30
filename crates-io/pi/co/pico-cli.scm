@@ -1,0 +1,6 @@
+(define-module (crates-io pi co pico-cli) #:use-module (crates-io))
+
+(define-public crate-pico-cli-0.1.0 (c (n "pico-cli") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3.21") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "gix-discover") (r "^0.22.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("editor"))) (d #t) (k 0)) (d (n "owo-colors") (r "^3.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "0mxw4vk1asvizak7bhw9xgbh49niy8w33hsdgy98ck020r1mad4m") (y #t)))
+
+(define-public crate-pico-cli-0.1.1 (c (n "pico-cli") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3.21") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "gix-discover") (r "^0.22.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("editor"))) (d #t) (k 0)) (d (n "owo-colors") (r "^3.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "1xslrvdsaay3p0dhsa42gavigzxlg5lzygqqgicxrw7kyik4zc8h") (y #t)))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io mo de models) #:use-module (crates-io))
+
+(define-public crate-models-0.0.1 (c (n "models") (v "0.0.1") (h "1xc96v1nr1ldvafw8irx1hys95q5jhq4nk6h9nbpa54ic0gwqsw1")))
+
+(define-public crate-models-0.1.0 (c (n "models") (v "0.1.0") (d (list (d (n "models-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "models-proc-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "sqlformat") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "topological-sort") (r "^0.1.0") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0vxi6mqqfir61ysvycfj8jm28f7m9llkh4rzq7y32nrbmjfq552r") (f (quote (("default" "sqlformat"))))))
+
+(define-public crate-models-0.1.1 (c (n "models") (v "0.1.1") (d (list (d (n "models-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "models-proc-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "sqlformat") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1qzq7yibvnk4klm5irg0dbw8ij1s3kkkdivbniswf7a58bdi3484") (f (quote (("default" "sqlformat"))))))
+
+(define-public crate-models-0.1.3 (c (n "models") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "models-parser") (r "^0.2.0") (d #t) (k 0)) (d (n "models-proc-macro") (r "^0.1.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (o #t) (d #t) (k 0)) (d (n "sqlformat") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "sqlx") (r "^0.5.9") (o #t) (d #t) (k 0)) (d (n "sqlx") (r "^0.5.9") (f (quote ("runtime-async-std-native-tls" "postgres"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0s0pkvjb87jb53bdha5vzr0jp8lx01xivpzx430af7gvjw3pbkfk") (f (quote (("sqlx-sqlite" "sqlx" "sqlx/sqlite" "sqlx/json") ("sqlx-postgres" "sqlx" "sqlx/postgres" "sqlx/json") ("sqlx-mysql" "sqlx" "sqlx/mysql" "sqlx/json") ("json" "serde" "serde_json") ("default" "sqlformat"))))))
+

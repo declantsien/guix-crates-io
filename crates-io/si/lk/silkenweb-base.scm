@@ -1,0 +1,18 @@
+(define-module (crates-io si lk silkenweb-base) #:use-module (crates-io))
+
+(define-public crate-silkenweb-base-0.2.0 (c (n "silkenweb-base") (v "0.2.0") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.78") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Element" "History" "Location" "Storage" "Text" "Window"))) (d #t) (k 0)))) (h "055rkn9awj8q7b212jpjg7qbbhi3glyclxx7ij4f6var8gp7ysrx")))
+
+(define-public crate-silkenweb-base-0.3.0 (c (n "silkenweb-base") (v "0.3.0") (d (list (d (n "js-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.83") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("Document" "Element" "History" "Location" "Storage" "Text" "Window"))) (d #t) (k 0)))) (h "1grkd44w6qxnzlggmdc5cqjvslx5fcs0sq454bg3xdf8aridivlg")))
+
+(define-public crate-silkenweb-base-0.4.0 (c (n "silkenweb-base") (v "0.4.0") (d (list (d (n "cssparser") (r "^0.29.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "lightningcss") (r "^1.0.0-alpha.39") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.83") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("Document" "Element" "History" "Location" "Performance" "Storage" "Text" "Window" "HtmlHeadElement" "HtmlElement"))) (d #t) (k 0)))) (h "0fdi1ibkc92ra1xhl1ib5zsdkj7mspnh1njqsq12kymzk7j36x2k")))
+
+(define-public crate-silkenweb-base-0.5.0 (c (n "silkenweb-base") (v "0.5.0") (d (list (d (n "cssparser") (r "^0.29.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "lightningcss") (r "=1.0.0-alpha.42") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.84") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("Document" "Element" "History" "Location" "Performance" "Storage" "Text" "Window" "HtmlHeadElement" "HtmlElement"))) (d #t) (k 0)))) (h "1b4lb30mxg4lwwxgkyvcsdr6gijb9plvfssxxhxr4zdhaw5793ln")))
+
+(define-public crate-silkenweb-base-0.6.0 (c (n "silkenweb-base") (v "0.6.0") (d (list (d (n "js-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("Document" "Element" "History" "Location" "Performance" "Storage" "Text" "Window" "HtmlHeadElement" "HtmlElement"))) (d #t) (k 0)))) (h "0hpmrjy9byxqwz9b38b9r92rwcm29lwvn76y72rx55mhcryspsxx")))
+
+(define-public crate-silkenweb-base-0.7.0 (c (n "silkenweb-base") (v "0.7.0") (d (list (d (n "js-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("Document" "Element" "History" "Location" "Performance" "Storage" "Text" "Window" "HtmlHeadElement" "HtmlElement"))) (d #t) (k 0)))) (h "0vgq6ymazfmmzf6j1fd9rj7461144mwq6y89s3vaay569a2qbjl3")))
+
+(define-public crate-silkenweb-base-0.7.1 (c (n "silkenweb-base") (v "0.7.1") (d (list (d (n "js-sys") (r "^0.3.65") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.88") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("Document" "Element" "History" "Location" "Performance" "Storage" "Text" "Window" "HtmlHeadElement" "HtmlElement"))) (d #t) (k 0)))) (h "1d862l1nr13dmi7r72ghm03nvnxxj47xnrsxfd8g22kg9p8l9ylf")))
+
+(define-public crate-silkenweb-base-0.8.0 (c (n "silkenweb-base") (v "0.8.0") (d (list (d (n "js-sys") (r "^0.3.65") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.88") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("Document" "Element" "History" "Location" "Performance" "Storage" "Text" "Window" "HtmlBaseElement" "HtmlHeadElement" "HtmlElement"))) (d #t) (k 0)))) (h "125929xz86l6kld5kk8ka9d8kgzd6kd4pkmypzk3cywvd0wa99y6")))
+

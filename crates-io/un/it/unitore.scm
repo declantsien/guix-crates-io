@@ -1,0 +1,4 @@
+(define-module (crates-io un it unitore) #:use-module (crates-io))
+
+(define-public crate-unitore-0.1.0 (c (n "unitore") (v "0.1.0") (d (list (d (n "feed-rs") (r "^1.4.0") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "humantime-serde") (r "^1.1.1") (d #t) (k 0)) (d (n "hyper") (r "^1.1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.6.0") (d #t) (k 0)) (d (n "hyper-util") (r "^0.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 0)) (d (n "test_tools") (r "~0.5.0") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "rt-multi-thread" "io-std" "macros"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)))) (h "0y55cy3hbxjkm6vmj7l8gmr6n9dnlvjbqd46k7wfpqfy4mx58baj") (f (quote (("full" "enabled") ("enabled") ("default" "enabled"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ed #{25}# ed25519-dalek-cosi) #:use-module (crates-io))
+
+(define-public crate-ed25519-dalek-cosi-0.1.0 (c (n "ed25519-dalek-cosi") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^2") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (f (quote ("from" "into" "deref" "deref_mut"))) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_sexpr") (r "^0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)))) (h "0pxffkbpxz4gy9gy4nhrn2fbbaj76slsrkcnfksrg1qa6hz6iy4a") (f (quote (("std" "serde/std") ("default"))))))
+

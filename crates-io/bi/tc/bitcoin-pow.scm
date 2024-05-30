@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-pow) #:use-module (crates-io))
+
+(define-public crate-bitcoin-pow-0.1.12-alpha.0 (c (n "bitcoin-pow") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-block") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-chain-consensus") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1hdhqf1yc8cngg531nz09ry1jwzqw6swdl7vzwlhiybibrc18gbr")))
+
+(define-public crate-bitcoin-pow-0.1.16-alpha.0 (c (n "bitcoin-pow") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-block") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-chain-consensus") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "0ix66zi5nxmm474pig07fvxwqwjhrgdgl9lab8qs1i12isfvwa2z")))
+

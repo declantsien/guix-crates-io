@@ -1,0 +1,4 @@
+(define-module (crates-io ju p- jup-ag-nova) #:use-module (crates-io))
+
+(define-public crate-jup-ag-nova-0.2.5 (c (n "jup-ag-nova") (v "0.2.5") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "solana-client") (r "^1.10") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.10") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1") (d #t) (k 2)) (d (n "spl-token") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0siq3vzrdw21irak244grk817flkajwixij8gi6ikz681rbl5sac") (f (quote (("no-entrypoint") ("cpi" "no-entrypoint"))))))
+

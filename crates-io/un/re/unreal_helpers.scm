@@ -1,0 +1,14 @@
+(define-module (crates-io un re unreal_helpers) #:use-module (crates-io))
+
+(define-public crate-unreal_helpers-0.1.0 (c (n "unreal_helpers") (v "0.1.0") (h "0yp0q8b6aiq996n8ayb9wnw2rf6mkj5dv3lxdh7x73z7pmimp0wi") (y #t)))
+
+(define-public crate-unreal_helpers-0.1.12 (c (n "unreal_helpers") (v "0.1.12") (d (list (d (n "bitvec") (r "^1.0.1") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0k3az48qqs747v7xymn9dwgxppm4bmfly9nkfpq1y2vbskyi4jqh") (s 2) (e (quote (("read_write" "dep:byteorder") ("path" "dep:lazy_static" "dep:regex") ("bitvec" "dep:bitvec"))))))
+
+(define-public crate-unreal_helpers-0.1.13 (c (n "unreal_helpers") (v "0.1.13") (d (list (d (n "bitvec") (r "^1.0.1") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "02pskb4dai604cnvfxnfinzsgpb19spggp8mv3ggd145cr277p7r") (s 2) (e (quote (("read_write" "dep:byteorder") ("path" "dep:lazy_static" "dep:regex") ("bitvec" "dep:bitvec"))))))
+
+(define-public crate-unreal_helpers-0.1.14 (c (n "unreal_helpers") (v "0.1.14") (d (list (d (n "bitvec") (r "^1.0.1") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0cd28p3nlxv9jkplb1n19ilc0yjk4mairhqr0blbfqn5alhnhs1n") (s 2) (e (quote (("read_write" "dep:byteorder") ("path" "dep:lazy_static" "dep:regex") ("bitvec" "dep:bitvec"))))))
+
+(define-public crate-unreal_helpers-0.1.15 (c (n "unreal_helpers") (v "0.1.15") (d (list (d (n "bitvec") (r "^1.0.1") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "10mh6gzr2p9j5gm327avsx5k65h07wiry9fms70bnv1z1lfarqyb") (s 2) (e (quote (("read_write" "dep:byteorder") ("path" "dep:lazy_static" "dep:regex") ("bitvec" "dep:bitvec"))))))
+
+(define-public crate-unreal_helpers-0.1.16 (c (n "unreal_helpers") (v "0.1.16") (d (list (d (n "bitvec") (r "^1.0.1") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0rl1cn8vh2nm8m9qmjpzsbav8d5mbcc77jc52f0v9f99bp4wxlq5") (s 2) (e (quote (("read_write" "dep:byteorder") ("path" "dep:lazy_static" "dep:regex") ("bitvec" "dep:bitvec"))))))
+

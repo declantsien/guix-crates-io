@@ -1,0 +1,4 @@
+(define-module (crates-io ic eb iceberg-catalog-rest) #:use-module (crates-io))
+
+(define-public crate-iceberg-catalog-rest-0.2.0 (c (n "iceberg-catalog-rest") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "iceberg") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mockito") (r "^1") (d #t) (k 2)) (d (n "port_scanner") (r "^0.1.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "typed-builder") (r "^0.18") (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1fx178h55cw35rnjik88aiqwg3j9h8r633x8gsn496ls5qg7rls7")))
+

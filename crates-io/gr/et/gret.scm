@@ -1,0 +1,8 @@
+(define-module (crates-io gr et gret) #:use-module (crates-io))
+
+(define-public crate-gret-0.1.0 (c (n "gret") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (d #t) (k 1)) (d (n "clap_complete") (r "^4.3.0") (d #t) (k 1)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "memchr") (r "^2.5.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)))) (h "0w24gsiyw7gjxybnv17hfrpalpm07wkspib4a7dkas4bcyjza3nn")))
+
+(define-public crate-gret-0.1.1 (c (n "gret") (v "0.1.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (d #t) (k 1)) (d (n "clap_complete") (r "^4.3.0") (d #t) (k 1)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "memchr") (r "^2.5.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)))) (h "12r8m8784n2rqyzqrxmf8dc23y2jsam2d8dkak32yzc8fb1fzl4i")))
+
+(define-public crate-gret-0.1.2 (c (n "gret") (v "0.1.2") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (d #t) (k 1)) (d (n "clap_complete") (r "^4.3.0") (d #t) (k 1)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "memchr") (r "^2.5.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)))) (h "0fzgrvnnac8l1qql9vvkpymmbz33p2689c5ygr5xa8amwysswnpv")))
+

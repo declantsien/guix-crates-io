@@ -1,0 +1,6 @@
+(define-module (crates-io cs ha cshannon) #:use-module (crates-io))
+
+(define-public crate-cshannon-0.1.0 (c (n "cshannon") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "owning_ref") (r "^0.4.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)) (d (n "test_bin") (r "^0.3.0") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.6.0") (d #t) (k 0)))) (h "0vc9srl7rcf0r72fp34b4fpv1yn9mbjskr5mijpscd9pagaa51ds")))
+
+(define-public crate-cshannon-0.1.1 (c (n "cshannon") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "owning_ref") (r "^0.4.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)) (d (n "test_bin") (r "^0.3.0") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.6.0") (d #t) (k 0)))) (h "0c5n05n3y5zc0604q37f1lgsk28mba812k808fixbxwfyb70x8yy")))
+

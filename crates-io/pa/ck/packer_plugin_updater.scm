@@ -1,0 +1,8 @@
+(define-module (crates-io pa ck packer_plugin_updater) #:use-module (crates-io))
+
+(define-public crate-packer_plugin_updater-0.1.0 (c (n "packer_plugin_updater") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.2") (d #t) (k 0)) (d (n "full_moon") (r "^0.17.0") (d #t) (k 0)) (d (n "git2") (r "^0.15") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1bh7yaqday8pq0f3cv3qinr49cyxhikrs14gfbpwxv0jvsp0nr8s")))
+
+(define-public crate-packer_plugin_updater-0.1.1 (c (n "packer_plugin_updater") (v "0.1.1") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.2") (d #t) (k 0)) (d (n "full_moon") (r "^0.17.0") (d #t) (k 0)) (d (n "git2") (r "^0.15") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0snsczcngvffnhra446q05nk6m7n5rxr026n52p7d4079vaaqymi")))
+
+(define-public crate-packer_plugin_updater-0.1.2 (c (n "packer_plugin_updater") (v "0.1.2") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.2") (d #t) (k 0)) (d (n "full_moon") (r "^0.17.0") (d #t) (k 0)) (d (n "git2") (r "^0.15") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "openssl") (r "^0.10.35") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1arar4z9p0mddsc94k5i7rkyj2qbfzy00r5ws1n2jv7dax0fjw6z")))
+

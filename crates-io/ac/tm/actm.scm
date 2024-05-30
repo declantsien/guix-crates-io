@@ -1,0 +1,4 @@
+(define-module (crates-io ac tm actm) #:use-module (crates-io))
+
+(define-public crate-actm-0.1.0 (c (n "actm") (v "0.1.0") (d (list (d (n "async-mutex") (r "^1.4.0") (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.8") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "snafu") (r "^0.7.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0lx10crn5bfyc59p1fz3gysffxv26wxcpb94j3wrs8wdia9lvrp6") (f (quote (("default" "async-std")))) (s 2) (e (quote (("async-std" "dep:async-std"))))))
+

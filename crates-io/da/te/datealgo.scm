@@ -1,0 +1,22 @@
+(define-module (crates-io da te datealgo) #:use-module (crates-io))
+
+(define-public crate-datealgo-0.0.1 (c (n "datealgo") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (d #t) (k 2)))) (h "000cwrfrx70cnz25mvkxxc2dzpx6bp64w262f2wx56f0ixcs4j36") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.0.2 (c (n "datealgo") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "0a6hbhklpi8ajcmg7kb983yl93a5yjhwpif7fnwrzbai9yj2xvyx") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.0.3 (c (n "datealgo") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "10siljqyf9aiyv017d4bdw5n9zliswq0xllp8yh974nrxqs3v71g") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.0.4 (c (n "datealgo") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.6") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "1cqri5diis4g1saqr6wvnfnnc86b4fyx0mzhdkw9cxvmr306ybaf") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.0.5 (c (n "datealgo") (v "0.0.5") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.6") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "13zqi1jpw5zzxjri0ps0lhn4aq8a0dipzaipsi284hwysa5g328k") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.0.6 (c (n "datealgo") (v "0.0.6") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.6") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "12krm4mvksgi2qcn64wsj1caz2gfnpms691f8csv618c505jaxwr") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.1.0 (c (n "datealgo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.6") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "13acmayg491bwadb4pdpkphfn3blajh3qf6bd1639dk8dhmz9md3") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.1.1 (c (n "datealgo") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.6") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "1qsyr0f8f94pfmgdajhyympr659wm7ibsyp36jc09ghig9nm45f1") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.2.0 (c (n "datealgo") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.6") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "06bnsi68axspyr9fg45affxiqb1bik2ha8svflfa6s6jnf6dwygp") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-datealgo-0.2.1 (c (n "datealgo") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "iai-callgrind") (r "^0.9.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "time") (r "^0.3.21") (f (quote ("quickcheck" "large-dates"))) (d #t) (k 2)))) (h "0iiq48afv0k67q0b1cdhdns27grlhcq9cl6z20c5nfxa7ag32q44") (f (quote (("std") ("default" "std") ("asmdump"))))))
+

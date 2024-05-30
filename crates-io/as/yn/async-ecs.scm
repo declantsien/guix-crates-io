@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-ecs) #:use-module (crates-io))
+
+(define-public crate-async-ecs-0.1.0 (c (n "async-ecs") (v "0.1.0") (d (list (d (n "asparit") (r ">=0.1.0, <0.2.0") (d #t) (k 0)) (d (n "async-ecs-derive") (r ">=0.1.0, <0.2.0") (o #t) (d #t) (k 0)) (d (n "crossbeam-queue") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "futures") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "hashbrown") (r ">=0.9.0, <0.10.0") (d #t) (k 0)) (d (n "hibitset") (r ">=0.6.0, <0.7.0") (k 0)) (d (n "log") (r ">=0.4.0, <0.5.0") (d #t) (k 0)) (d (n "mopa") (r ">=0.2.0, <0.3.0") (d #t) (k 0)) (d (n "thiserror") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.3.0, <0.4.0") (f (quote ("full" "net" "time" "rt-multi-thread"))) (d #t) (k 0)))) (h "0naaxk4kyjysx9avw5sfqmsd9zqqic5vpdi0g4fw7fkhawy7a9l0") (f (quote (("derive" "async-ecs-derive") ("default" "derive"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ta ur tauri-inliner) #:use-module (crates-io))
+
+(define-public crate-tauri-inliner-0.0.1 (c (n "tauri-inliner") (v "0.0.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dissimilar") (r "^1.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "html5ever") (r "^0.25") (d #t) (k 0)) (d (n "kuchiki") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1") (d #t) (k 2)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tiny_http") (r "^0.7") (d #t) (k 2)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0l45lz6wgsa90va80028flnsmfi9an56mq5q7bh7wgzanjp4mpj9")))
+

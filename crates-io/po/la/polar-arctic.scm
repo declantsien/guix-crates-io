@@ -1,0 +1,6 @@
+(define-module (crates-io po la polar-arctic) #:use-module (crates-io))
+
+(define-public crate-polar-arctic-0.1.0 (c (n "polar-arctic") (v "0.1.0") (d (list (d (n "arctic") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "iced") (r "^0.4") (f (quote ("tokio" "canvas" "pure"))) (d #t) (k 0)) (d (n "iced_aw") (r "^0.2") (f (quote ("card" "pure" "modal"))) (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 0)) (d (n "plotters-iced") (r "^0.3") (d #t) (k 0)) (d (n "rev_lines") (r "^0.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 0)))) (h "02f1h525w7qrj8zvzvsp02i4wpjixpgy5040j7aabpmkhwr4axas")))
+
+(define-public crate-polar-arctic-0.1.1 (c (n "polar-arctic") (v "0.1.1") (d (list (d (n "arctic") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "iced") (r "^0.4") (f (quote ("tokio" "canvas" "pure"))) (d #t) (k 0)) (d (n "iced_aw") (r "^0.2") (f (quote ("card" "pure" "modal"))) (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 0)) (d (n "plotters-iced") (r "^0.3") (d #t) (k 0)) (d (n "rev_lines") (r "^0.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1rwyl3byqrla4clds9ykcycnad350c6l85q4g13y634m0dabz61s")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io su pe superviseur-webui) #:use-module (crates-io))
+
+(define-public crate-superviseur-webui-0.1.0 (c (n "superviseur-webui") (v "0.1.0") (d (list (d (n "actix-cors") (r "^0.6.4") (d #t) (k 0)) (d (n "actix-web") (r "^4.3.1") (d #t) (k 0)) (d (n "async-graphql") (r "^5.0.6") (d #t) (k 0)) (d (n "async-graphql-actix-web") (r "^5.0.6") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "rust-embed") (r "^6.6.0") (f (quote ("debug-embed" "actix"))) (d #t) (k 0)) (d (n "superviseur-core") (r "^0.1.0") (d #t) (k 0)) (d (n "superviseur-graphql") (r "^0.1.0") (d #t) (k 0)) (d (n "superviseur-provider") (r "^0.1.0") (d #t) (k 0)) (d (n "superviseur-types") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("tokio-macros" "macros" "rt" "rt-multi-thread"))) (d #t) (k 0)))) (h "0fsfdq89klfxy5vp7y7w84am27sp3ri5psgqk5qanh16x5sxh253")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io di nk dinky) #:use-module (crates-io))
+
+(define-public crate-dinky-0.2.1 (c (n "dinky") (v "0.2.1") (d (list (d (n "atty") (r "^0.2.11") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (d #t) (k 0)) (d (n "diesel") (r "^1.4.3") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "diff") (r "^0.1.12") (d #t) (k 2)) (d (n "directories") (r "^2.0.2") (d #t) (k 0)) (d (n "docopt") (r "^1.1.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "harsh") (r "^0.1.6") (d #t) (k 0)) (d (n "iron") (r "^0.6.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "params") (r "^0.8.0") (d #t) (k 0)) (d (n "router") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)))) (h "13w39j758l31v2rwz7csybnf3rv5111gp4gdgg6b27d8bq90aaac")))
+

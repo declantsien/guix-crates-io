@@ -1,0 +1,6 @@
+(define-module (crates-io hy pr hyprkool) #:use-module (crates-io))
+
+(define-public crate-hyprkool-0.3.0 (c (n "hyprkool") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "hyprland") (r "^0.3.13") (d #t) (k 0)) (d (n "linicon") (r "^2.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (d #t) (k 0)))) (h "06lfqgj2941n4pspk1nyj24mfzycnfgvqnp2wvd38fjk1haz56wk")))
+
+(define-public crate-hyprkool-0.4.0 (c (n "hyprkool") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "hyprland") (r "^0.3.13") (d #t) (k 0)) (d (n "linicon") (r "^2.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (d #t) (k 0)))) (h "0zdr53wqbjhp7g7ykddzp86rljhb5ijllqpzs9cfwgrdhagdmp90")))
+

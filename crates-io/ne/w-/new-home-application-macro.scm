@@ -1,0 +1,10 @@
+(define-module (crates-io ne w- new-home-application-macro) #:use-module (crates-io))
+
+(define-public crate-new-home-application-macro-1.0.0 (c (n "new-home-application-macro") (v "1.0.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "new-home-application") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "syn") (r "^1.0.36") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1q3k8cwlkmbhm6ngk0xwlb5i6l1h9y9k8kivcvz1jzm4rcfpx4p1")))
+
+(define-public crate-new-home-application-macro-1.0.1 (c (n "new-home-application-macro") (v "1.0.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "new-home-application") (r "^1.0.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "syn") (r "^1.0.36") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0cp7dchs7l3ljls48iip6i5x10ijpjb9wq2wc0h7l1dhjm53slxl")))
+
+(define-public crate-new-home-application-macro-1.0.2 (c (n "new-home-application-macro") (v "1.0.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "new-home-application") (r "^1.0.2") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "syn") (r "^1.0.36") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0vahdk9c8ircyvxppwk217jn029cjc6nhgsab90qqygl3wcgfmaw")))
+
+(define-public crate-new-home-application-macro-1.1.0 (c (n "new-home-application-macro") (v "1.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "new-home-application") (r "^1.1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "syn") (r "^1.0.36") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "18d4k2blkpcfay3rgvk265fr3fn0wh93q9x4ga4q7c45zxix2a9p")))
+

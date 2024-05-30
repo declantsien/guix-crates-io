@@ -1,0 +1,18 @@
+(define-module (crates-io xt as xtaskops) #:use-module (crates-io))
+
+(define-public crate-xtaskops-0.1.0 (c (n "xtaskops") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "0y3ajin5bb04b0mnp41m5lv2hzlrpi2b2r09nnj185zi2r7cnjr9")))
+
+(define-public crate-xtaskops-0.2.0 (c (n "xtaskops") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "1d43l23aai1jslia4xbhwln9cy800kwap5zaffv59lpd70wbgq3p")))
+
+(define-public crate-xtaskops-0.2.1 (c (n "xtaskops") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "0s64wxzc4lmr5x385z9d1s69m01qwlmiliv2qqwnv6v6qc27zv83")))
+
+(define-public crate-xtaskops-0.2.2 (c (n "xtaskops") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "0jpqzd01mc512r94zpi6xlxs9dmg2f8j8wz3gcbr0xxp0wqshkyl") (f (quote (("default" "clap")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+
+(define-public crate-xtaskops-0.3.0 (c (n "xtaskops") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "0jid2mvalmy1pbqmdsrmvb330b2y1avrzw5paw77siri8cxa3i71") (f (quote (("default" "clap")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+
+(define-public crate-xtaskops-0.4.0 (c (n "xtaskops") (v "0.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "1rh960cjylajza058j13g544jk2mzkg3kl7kb7r56mnj5b98mzm8") (f (quote (("default" "clap")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+
+(define-public crate-xtaskops-0.4.1 (c (n "xtaskops") (v "0.4.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "1fackp6xgaj7mvv2cp34k01q39akdlrv97n7hxy2xyacqfhbxpwg") (f (quote (("default" "clap")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+
+(define-public crate-xtaskops-0.4.2 (c (n "xtaskops") (v "0.4.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)))) (h "12xvf8mml1hjmdsgaic8djncgwhldafc19lxxzdzrlf1pb1aak26") (f (quote (("default" "clap")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+

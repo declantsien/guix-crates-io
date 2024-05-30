@@ -1,0 +1,8 @@
+(define-module (crates-io es kf eskf) #:use-module (crates-io))
+
+(define-public crate-eskf-0.1.0 (c (n "eskf") (v "0.1.0") (d (list (d (n "approx") (r "^0.4.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.25") (d #t) (k 0)) (d (n "nalgebra") (r "^0.25") (f (quote ("serde-serialize"))) (d #t) (k 2)) (d (n "plotly") (r "^0.6.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0kznfz3hh4kqs4xd5kppshr0g8jrzlj388iks1bqgrax8zaqwpgr") (f (quote (("std" "nalgebra/std") ("full-reset") ("default" "std" "full-reset") ("cov-symmetric") ("cov-joseph"))))))
+
+(define-public crate-eskf-0.1.1 (c (n "eskf") (v "0.1.1") (d (list (d (n "approx") (r "^0.4.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.25") (d #t) (k 0)) (d (n "nalgebra") (r "^0.25") (f (quote ("serde-serialize"))) (d #t) (k 2)) (d (n "plotly") (r "^0.6.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0ans4fsfkwzjlh5g2hws75w171adjmy9swb3dy1c1rfxkyy0zk4b") (f (quote (("std" "nalgebra/std") ("full-reset") ("default" "std" "full-reset") ("cov-symmetric") ("cov-joseph"))))))
+
+(define-public crate-eskf-0.2.0 (c (n "eskf") (v "0.2.0") (d (list (d (n "approx") (r "^0.4.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.25") (d #t) (k 0)) (d (n "nalgebra") (r "^0.25") (f (quote ("serde-serialize"))) (d #t) (k 2)) (d (n "plotly") (r "^0.6.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "02lqajdz4zqk020pg3g9nab16qqldhbj1b68wlw03dllvvga3ch4") (f (quote (("std" "nalgebra/std") ("full-reset") ("default" "std" "full-reset") ("cov-symmetric") ("cov-joseph"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io gu s- gus-rs) #:use-module (crates-io))
+
+(define-public crate-gus-rs-0.1.0 (c (n "gus-rs") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.23") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "rust-ini") (r "^0.19.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("sqlite" "runtime-tokio" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1kblzhaf3471fv4hfb95dsl0r86n3mx08c79zznax401bxjn727s")))
+
+(define-public crate-gus-rs-0.1.1 (c (n "gus-rs") (v "0.1.1") (d (list (d (n "clap") (r "^4.3.23") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "rust-ini") (r "^0.19.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("sqlite" "runtime-tokio" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0vd1v96yq3cyjkvmvicnxqprw9p09n3pkq2cprk9wryl1hlidsdx")))
+

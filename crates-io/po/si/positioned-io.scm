@@ -1,0 +1,18 @@
+(define-module (crates-io po si positioned-io) #:use-module (crates-io))
+
+(define-public crate-positioned-io-0.1.0 (c (n "positioned-io") (v "0.1.0") (d (list (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "nix") (r "^0.6.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "0ljfy0ydvdf69ps20kdwmbhj8s2zjn1kr0h38hzaj7y4v4gg2n23")))
+
+(define-public crate-positioned-io-0.2.0 (c (n "positioned-io") (v "0.2.0") (d (list (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "nix") (r "^0.6.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "07wykq4zai0zxnsjqwpgvsgzgqbjqz0wkd5x2k6kazz6a5jr20k8")))
+
+(define-public crate-positioned-io-0.2.1 (c (n "positioned-io") (v "0.2.1") (d (list (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2.14") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "1ma5d3gdrssv6rr5y1rxwsma0wq78jfdfx8fjyw32fdrdzbvs3pi")))
+
+(define-public crate-positioned-io-0.2.2 (c (n "positioned-io") (v "0.2.2") (d (list (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2.14") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "1mjljc289ki5a9hybha4cczgmc4i0zip05zs0yxqswlayijsa1f4")))
+
+(define-public crate-positioned-io-0.3.0 (c (n "positioned-io") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("basetsd" "minwindef" "handleapi" "fileapi" "sysinfoapi" "memoryapi" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1n1s2xwlc4rd3nn05qfddhrs08hyxpc887dwps0mdiyfsa33cghp") (f (quote (("default" "byteorder"))))))
+
+(define-public crate-positioned-io-0.3.1 (c (n "positioned-io") (v "0.3.1") (d (list (d (n "byteorder") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("basetsd" "minwindef" "handleapi" "fileapi" "sysinfoapi" "memoryapi" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "050ifqw0flg0sfvx049fj5j8h5is5341x0fx9vrvla7myxf4if89") (f (quote (("default" "byteorder"))))))
+
+(define-public crate-positioned-io-0.3.2 (c (n "positioned-io") (v "0.3.2") (d (list (d (n "byteorder") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("basetsd" "minwindef" "handleapi" "fileapi" "sysinfoapi" "memoryapi" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0mfcppphcpxc5102iclg2x0fgkrc9zr6aksa0pkm4lnwpq404zb7") (f (quote (("default" "byteorder"))))))
+
+(define-public crate-positioned-io-0.3.3 (c (n "positioned-io") (v "0.3.3") (d (list (d (n "byteorder") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("basetsd" "minwindef" "handleapi" "fileapi" "sysinfoapi" "memoryapi" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1sdglqzfj6gn6zmcw8m2h44skgcdwbwagp7hh50dyfn7i7mzxayc") (f (quote (("default" "byteorder"))))))
+

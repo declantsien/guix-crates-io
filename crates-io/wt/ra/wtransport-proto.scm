@@ -1,0 +1,30 @@
+(define-module (crates-io wt ra wtransport-proto) #:use-module (crates-io))
+
+(define-public crate-wtransport-proto-0.1.0 (c (n "wtransport-proto") (v "0.1.0") (d (list (d (n "ls-qpack") (r "^0.1.0-alpha") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "test-case") (r "^3.1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.28.1") (k 2)))) (h "1j49di8fjvm97m87z1c5iz3kkcwkvr8vcrjx6v5yq58m7wdav659") (f (quote (("default") ("async"))))))
+
+(define-public crate-wtransport-proto-0.1.1 (c (n "wtransport-proto") (v "0.1.1") (d (list (d (n "ls-qpack") (r "^0.1.1") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "test-case") (r "^3.1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "0gzm1s8fpc4wlxmacywq6fbp0qrgsy01hxvsmm4bc2sz7649c936") (f (quote (("default") ("async"))))))
+
+(define-public crate-wtransport-proto-0.1.2 (c (n "wtransport-proto") (v "0.1.2") (d (list (d (n "ls-qpack") (r "^0.1.2") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1cd739zxmsr9gdkbvx7vzfvb95x56qf2m6zbscigrpik7mwwsv1h") (f (quote (("default") ("async"))))))
+
+(define-public crate-wtransport-proto-0.1.3 (c (n "wtransport-proto") (v "0.1.3") (d (list (d (n "ls-qpack") (r "^0.1.2") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "01cyr8nflrz85kz8rldcm89v3sim90fcp9n45628ri7fc4pmv0pz") (f (quote (("default") ("async")))) (r "1.63.0")))
+
+(define-public crate-wtransport-proto-0.1.4 (c (n "wtransport-proto") (v "0.1.4") (d (list (d (n "ls-qpack") (r "^0.1.2") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1vq5s6rvcabl9yqba0zjhzlp68q36282446rykfgppp2dk7aaq3r") (f (quote (("default") ("async")))) (r "1.63.0")))
+
+(define-public crate-wtransport-proto-0.1.5 (c (n "wtransport-proto") (v "0.1.5") (d (list (d (n "ls-qpack") (r "^0.1.3") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0m6mp31ncmbxjvz77q1y24wxh5bv68ff7mab0b318rwb121k591j") (f (quote (("default") ("async")))) (r "1.64.0")))
+
+(define-public crate-wtransport-proto-0.1.6 (c (n "wtransport-proto") (v "0.1.6") (d (list (d (n "ls-qpack") (r "^0.1.3") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0ysqscycckppfyawq4a2av9cclkdbpp4y9by4h8zn3r55zhp2k3m") (f (quote (("default") ("async")))) (r "1.64.0")))
+
+(define-public crate-wtransport-proto-0.1.7 (c (n "wtransport-proto") (v "0.1.7") (d (list (d (n "ls-qpack") (r "^0.1.3") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "18wlmaf1ddqd3blj8lzb4p97msl47mb8sqq9g95zp0326brlkpbr") (f (quote (("default") ("async")))) (r "1.64.0")))
+
+(define-public crate-wtransport-proto-0.1.8 (c (n "wtransport-proto") (v "0.1.8") (d (list (d (n "ls-qpack") (r "^0.1.3") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1rvlg7ycwrv1w87mb0gza8lg4hij9iqa0j9yr7hlszlxrkq5fffj") (f (quote (("default") ("async")))) (r "1.65.0")))
+
+(define-public crate-wtransport-proto-0.1.9 (c (n "wtransport-proto") (v "0.1.9") (d (list (d (n "ls-qpack") (r "^0.1.3") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0kqpdbg3drcajr79sy1rm4cp9rl9hfhls0ryhb16ryahc0v6z9fl") (f (quote (("default") ("async")))) (r "1.65.0")))
+
+(define-public crate-wtransport-proto-0.1.10 (c (n "wtransport-proto") (v "0.1.10") (d (list (d (n "httlib-huffman") (r "^0.3.4") (d #t) (k 0)) (d (n "octets") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0rh7v3wmv02c6iw2x7irk1pxac8xsnj4np7szachvsdadv17pg3j") (f (quote (("default") ("async")))) (r "1.70")))
+
+(define-public crate-wtransport-proto-0.1.11 (c (n "wtransport-proto") (v "0.1.11") (d (list (d (n "httlib-huffman") (r "^0.3.4") (d #t) (k 0)) (d (n "octets") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0mwzd6c42f46mr8f0wzpmm3j3q8nf322gqsp2n6732s2rjbfw6ad") (f (quote (("default") ("async")))) (r "1.70")))
+
+(define-public crate-wtransport-proto-0.1.12 (c (n "wtransport-proto") (v "0.1.12") (d (list (d (n "httlib-huffman") (r "^0.3.4") (d #t) (k 0)) (d (n "octets") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1f9y20rqkfl0jv9xgk9ay3n5hs5dsna2mzagppb2mp4x4646ajrr") (f (quote (("default") ("async")))) (r "1.70")))
+
+(define-public crate-wtransport-proto-0.1.13 (c (n "wtransport-proto") (v "0.1.13") (d (list (d (n "httlib-huffman") (r "^0.3.4") (d #t) (k 0)) (d (n "octets") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1ikp15b3zwyz6lwjgdh4ww0v99n4cc5n9645ld8fj4b98h2rkb3q") (f (quote (("default") ("async")))) (r "1.70")))
+

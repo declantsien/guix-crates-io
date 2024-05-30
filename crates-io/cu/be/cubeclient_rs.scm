@@ -1,0 +1,4 @@
+(define-module (crates-io cu be cubeclient_rs) #:use-module (crates-io))
+
+(define-public crate-cubeclient_rs-0.1.0 (c (n "cubeclient_rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "=0.4.11") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart" "rustls-tls"))) (k 0)) (d (n "reqwest-middleware") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.6") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)) (d (n "wiremock") (r "^0.5") (d #t) (k 2)))) (h "0hgvsn3h8cxcx4dnnr42x9mkpbkdl4xvlpqnv2f57nkca8mxljnr")))
+

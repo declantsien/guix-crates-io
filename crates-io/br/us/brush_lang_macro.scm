@@ -1,0 +1,4 @@
+(define-module (crates-io br us brush_lang_macro) #:use-module (crates-io))
+
+(define-public crate-brush_lang_macro-1.8.0 (c (n "brush_lang_macro") (v "1.8.0") (d (list (d (n "brush_lang_codegen") (r "^1.8.0") (k 0)) (d (n "ink_env") (r "^3.2.0") (k 2)) (d (n "ink_lang") (r "^3.2.0") (k 2)) (d (n "ink_metadata") (r "^3.2.0") (f (quote ("derive"))) (k 2)) (d (n "ink_prelude") (r "^3.2.0") (k 2)) (d (n "ink_primitives") (r "^3.2.0") (k 2)) (d (n "ink_storage") (r "^3.2.0") (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (k 2) (p "parity-scale-codec")) (d (n "scale-info") (r "^2") (f (quote ("derive"))) (k 2)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "synstructure") (r "^0.12") (d #t) (k 0)))) (h "1p9vwck9vssdvfli02q5ghfh13ssm23b2awva5b2x7zpbmmnvpds") (f (quote (("std" "brush_lang_codegen/std") ("default" "std"))))))
+

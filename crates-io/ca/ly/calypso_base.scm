@@ -1,0 +1,8 @@
+(define-module (crates-io ca ly calypso_base) #:use-module (crates-io))
+
+(define-public crate-calypso_base-0.0.0 (c (n "calypso_base") (v "0.0.0") (h "0zvh9hz0zvsxa66ifc8421c8ak1wbhlnpynpnh03cbf6n9i3whf5")))
+
+(define-public crate-calypso_base-0.1.0 (c (n "calypso_base") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (o #t) (d #t) (k 0)) (d (n "calypso_error") (r "^2.0.0") (d #t) (k 0)) (d (n "lasso") (r "^0.6.0") (f (quote ("multi-threaded"))) (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (o #t) (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.31") (d #t) (k 0)))) (h "0cihhx4fz8jjdc20jqvhxf286jmqzbk32nz4ifm5w8f253m6hmxg") (f (quote (("ui" "termcolor" "atty") ("symbol" "lazy_static" "once_cell" "lasso" "span") ("stream") ("span") ("default" "span" "stream" "symbol" "ui" "calypso_interns") ("calypso_interns" "symbol")))) (r "1.56")))
+
+(define-public crate-calypso_base-0.1.1 (c (n "calypso_base") (v "0.1.1") (d (list (d (n "atty") (r "^0.2.14") (o #t) (d #t) (k 0)) (d (n "calypso_error") (r "^2.0.0") (d #t) (k 0)) (d (n "lasso") (r "^0.6.0") (f (quote ("multi-threaded"))) (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (o #t) (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.31") (d #t) (k 0)))) (h "17z7x8sk7ach7qk4db4qyc28rd40gy2mbmgbjz98wvrfvkrjkxh1") (f (quote (("ui" "termcolor" "atty") ("symbol" "lazy_static" "once_cell" "lasso" "span") ("span") ("default" "span" "symbol" "ui" "calypso_interns") ("calypso_interns" "symbol")))) (r "1.56")))
+

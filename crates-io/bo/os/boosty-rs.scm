@@ -1,0 +1,26 @@
+(define-module (crates-io bo os boosty-rs) #:use-module (crates-io))
+
+(define-public crate-boosty-rs-0.1.0 (c (n "boosty-rs") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1wy65y633mmrllk0hl3g1yc4jbf3w8azbbc140d6ggkd7dpb66dl")))
+
+(define-public crate-boosty-rs-0.1.1 (c (n "boosty-rs") (v "0.1.1") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0jjdb0rg1l3zc4d0a9y7j0khl2k8l81pppjmfdpqhrvv5dq77sni")))
+
+(define-public crate-boosty-rs-0.1.2 (c (n "boosty-rs") (v "0.1.2") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "076d3c3fl4g9p8f1k63qkhn1aianj80ji6pfqlfqppkhj8jzvj3r")))
+
+(define-public crate-boosty-rs-0.1.3 (c (n "boosty-rs") (v "0.1.3") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "033hlzyfnliqpi3ycsr388v0mzsx7i4xbblagdq7arwp7zimz8k0")))
+
+(define-public crate-boosty-rs-0.1.4 (c (n "boosty-rs") (v "0.1.4") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0yc2fl46wc01dpdsk5ar6mx42iriamwml2qdlwm868xgx6l911jq")))
+
+(define-public crate-boosty-rs-0.1.5 (c (n "boosty-rs") (v "0.1.5") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1hs4gmrshib1469wkfmb4iz65w8m7wahhj862d56sw9hsx2wqycw")))
+
+(define-public crate-boosty-rs-0.1.6 (c (n "boosty-rs") (v "0.1.6") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1n4kxnrc2cjwjychwym4xjd3g4ys3vgq9dw4yap2xfjpbq1axs4l")))
+
+(define-public crate-boosty-rs-0.1.7 (c (n "boosty-rs") (v "0.1.7") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "13nm270ds80a6j32xwgmgf7ncjqvgvhzwg6scwvq1z14ri2gdrgr")))
+
+(define-public crate-boosty-rs-0.1.10 (c (n "boosty-rs") (v "0.1.10") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "134vfgz89dpvkya4wxnrdfjl1vbbzh160961dqwypygl9lw1s82f")))
+
+(define-public crate-boosty-rs-0.1.11 (c (n "boosty-rs") (v "0.1.11") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "05lp6yrwq4qxdx20s74jnw3mim2vhplzxifvb9viw4i1k8gc8x09")))
+
+(define-public crate-boosty-rs-0.1.12 (c (n "boosty-rs") (v "0.1.12") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1f26fs4h3xyrl7q9c3wlzmk4mscriqhsd46pwavnqpqyf8m7g14j")))
+
+(define-public crate-boosty-rs-0.2.0 (c (n "boosty-rs") (v "0.2.0") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "170v6srs3d7w0cbm2hyl0hbiqsfxydn0zqid7dqxfz5pdaz9fa4l")))
+

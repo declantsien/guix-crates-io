@@ -1,0 +1,6 @@
+(define-module (crates-io ti kv tikv-client-store) #:use-module (crates-io))
+
+(define-public crate-tikv-client-store-0.0.99 (c (n "tikv-client-store") (v "0.0.99") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "derive-new") (r "^0.5") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("compat" "async-await" "thread-pool"))) (d #t) (k 0)) (d (n "grpcio") (r "^0.8") (f (quote ("secure" "prost-codec" "use-bindgen"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tikv-client-common") (r "^0.0.99") (d #t) (k 0)) (d (n "tikv-client-proto") (r "^0.0.99") (d #t) (k 0)))) (h "0vpdvm3677vwbfd4qxy2y5sbfni479302lvdiavl9dzaab9fa323")))
+
+(define-public crate-tikv-client-store-0.1.0 (c (n "tikv-client-store") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "derive-new") (r "^0.5") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("compat" "async-await" "thread-pool"))) (d #t) (k 0)) (d (n "grpcio") (r "^0.8") (f (quote ("secure" "prost-codec" "use-bindgen"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tikv-client-common") (r "^0.1.0") (d #t) (k 0)) (d (n "tikv-client-proto") (r "^0.1.0") (d #t) (k 0)))) (h "11imd65arya111gr8cjknjrmc6bj6nzjb3j8bjc898zh1sv4icwa")))
+

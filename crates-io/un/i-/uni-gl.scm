@@ -1,0 +1,12 @@
+(define-module (crates-io un i- uni-gl) #:use-module (crates-io))
+
+(define-public crate-uni-gl-0.1.0 (c (n "uni-gl") (v "0.1.0") (d (list (d (n "gl") (r "^0.6.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "stdweb") (r "^0.4.8") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "uni-app") (r "0.1.*") (d #t) (k 2)))) (h "0xazls6arnkmzc53ic5hkax5jd5jc0ir2baspsbghv5mqaxlvfhy")))
+
+(define-public crate-uni-gl-0.1.1 (c (n "uni-gl") (v "0.1.1") (d (list (d (n "gl") (r "^0.6.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "stdweb") (r "^0.4.8") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "uni-app") (r "0.1.*") (d #t) (k 2)))) (h "1pzmk80fdi6wf12m1aciamnnasa27777dzg552xkvsig9ajw7kjd")))
+
+(define-public crate-uni-gl-0.1.2 (c (n "uni-gl") (v "0.1.2") (d (list (d (n "gl") (r "^0.6.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "stdweb") (r "^0.4.8") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "uni-app") (r "0.1.*") (d #t) (k 2)))) (h "18nvzby73g25a4sygz4x7fgz39bmidzwp9kh9k4jyzirr5faal18")))
+
+(define-public crate-uni-gl-0.2.0 (c (n "uni-gl") (v "0.2.0") (d (list (d (n "gl") (r "^0.14.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "js-sys") (r "^0.3.60") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "uni-app") (r "0.2.*") (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.83") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("HtmlCanvasElement" "WebGlRenderingContext" "WebGl2RenderingContext" "WebGlBuffer" "WebGlShader" "WebGlProgram" "WebGlVertexArrayObject" "WebGlUniformLocation" "WebGlTexture" "WebGlFramebuffer"))) (d #t) (t "wasm32-unknown-unknown") (k 0)))) (h "15i5d3ggdn1412waxhm3wra80i8dkg7hndjci5b7zcnn9a9iky4y")))
+
+(define-public crate-uni-gl-0.2.1 (c (n "uni-gl") (v "0.2.1") (d (list (d (n "gl") (r "^0.14.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "js-sys") (r "^0.3.60") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "uni-app") (r "0.2.*") (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.83") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("HtmlCanvasElement" "WebGlRenderingContext" "WebGl2RenderingContext" "WebGlBuffer" "WebGlShader" "WebGlProgram" "WebGlVertexArrayObject" "WebGlUniformLocation" "WebGlTexture" "WebGlFramebuffer"))) (d #t) (t "wasm32-unknown-unknown") (k 0)))) (h "15msm9129czn48vlw90v9xkknz9jlh6mmzxgznq6iszcscb7h714")))
+

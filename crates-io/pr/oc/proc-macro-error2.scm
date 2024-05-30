@@ -1,0 +1,6 @@
+(define-module (crates-io pr oc proc-macro-error2) #:use-module (crates-io))
+
+(define-public crate-proc-macro-error2-0.0.1 (c (n "proc-macro-error2") (v "0.0.1") (d (list (d (n "proc-macro-error2-derive") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 2)) (d (n "syn") (r "^2") (o #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.19") (f (quote ("diff"))) (d #t) (k 2)) (d (n "version_check") (r "^0.9") (d #t) (k 1)))) (h "1swjxj0rw7cvgxxfa4n8z1c739ig0fzz7gbdrq6f5np36lkk5w86") (f (quote (("syn-error" "syn") ("default" "syn-error")))) (y #t)))
+
+(define-public crate-proc-macro-error2-0.0.2 (c (n "proc-macro-error2") (v "0.0.2") (d (list (d (n "proc-macro-error2-attr") (r "^0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("full" "parsing" "extra-traits"))) (o #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 2)) (d (n "trybuild") (r "^1") (f (quote ("diff"))) (d #t) (k 2)) (d (n "version_check") (r "^0.9") (d #t) (k 1)))) (h "193blg5xgg3mnfv5idjadwz4gby9gjlcn1mjnnr3r9laadjnrs0c") (f (quote (("default" "syn")))) (y #t)))
+

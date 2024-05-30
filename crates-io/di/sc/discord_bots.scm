@@ -1,0 +1,6 @@
+(define-module (crates-io di sc discord_bots) #:use-module (crates-io))
+
+(define-public crate-discord_bots-0.1.1 (c (n "discord_bots") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.5.3") (d #t) (k 0)))) (h "1b14qgvv9cw1m3phw88hfdgqsw3inwzsnx8yqhczdg94vcsss60b")))
+
+(define-public crate-discord_bots-1.0.0 (c (n "discord_bots") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "iron") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (o #t) (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.5.3") (d #t) (k 0)))) (h "1jibs4pvhhrbismhjksnffdbrai50cbbpyizdqpx9kwg6m8fg8k1") (f (quote (("webhook" "iron" "serde_json"))))))
+

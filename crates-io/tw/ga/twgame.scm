@@ -1,0 +1,4 @@
+(define-module (crates-io tw ga twgame) #:use-module (crates-io))
+
+(define-public crate-twgame-0.1.0 (c (n "twgame") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "twgame-core") (r "^0.1.0") (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)) (d (n "twsnap") (r "^0.1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4" "serde"))) (d #t) (k 0)) (d (n "vek") (r "^0.16.1") (d #t) (k 0)))) (h "07kxa0acx9y93kr49vx079igjkiixjvfm7mc3vsl9gg405hk05h0")))
+

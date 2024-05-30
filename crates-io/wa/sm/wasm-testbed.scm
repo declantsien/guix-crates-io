@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasm-testbed) #:use-module (crates-io))
+
+(define-public crate-wasm-testbed-0.13.1 (c (n "wasm-testbed") (v "0.13.1") (d (list (d (n "codec") (r "^2.2") (d #t) (k 0) (p "parity-scale-codec")) (d (n "frame-metadata") (r "^14.0.0-rc.1") (f (quote ("v12" "v13" "v14" "std"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "sc-executor") (r "^0.9") (d #t) (k 0)) (d (n "sp-core") (r "^3.0") (d #t) (k 0)) (d (n "sp-io") (r "^3.0") (d #t) (k 0)) (d (n "sp-runtime") (r "^3.0") (d #t) (k 0)) (d (n "sp-state-machine") (r "^0.9") (d #t) (k 0)) (d (n "sp-wasm-interface") (r "^3.0") (d #t) (k 0)) (d (n "substrate-runtime-proposal-hash") (r "^0.13.0") (d #t) (k 0)) (d (n "wasm-loader") (r "^0.13.0") (d #t) (k 0)))) (h "07lc247ykgbvwkkg9iihnksy7f2p6dz3m6xvmzpdwsx0580q1wny")))
+

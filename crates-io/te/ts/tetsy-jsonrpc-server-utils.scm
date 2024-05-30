@@ -1,0 +1,8 @@
+(define-module (crates-io te ts tetsy-jsonrpc-server-utils) #:use-module (crates-io))
+
+(define-public crate-tetsy-jsonrpc-server-utils-14.2.0 (c (n "tetsy-jsonrpc-server-utils") (v "14.2.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "0banyrm6bp1gpdb5zv0vnzcm0a61qib0f9czpm5xdxrj7y0ba2gk")))
+
+(define-public crate-tetsy-jsonrpc-server-utils-14.2.1 (c (n "tetsy-jsonrpc-server-utils") (v "14.2.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^14.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "0r8mhq775cy5k6k22smi9nr7lh7vbpm7swcnnb6aiwxspwfkn32v")))
+
+(define-public crate-tetsy-jsonrpc-server-utils-15.1.0 (c (n "tetsy-jsonrpc-server-utils") (v "15.1.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "1wm8ywahyd4047a9yx3mnh5qk728wg0z4y103bnxs79sjgcgiqj7")))
+

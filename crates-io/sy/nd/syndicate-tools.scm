@@ -1,0 +1,42 @@
+(define-module (crates-io sy nd syndicate-tools) #:use-module (crates-io))
+
+(define-public crate-syndicate-tools-0.1.0 (c (n "syndicate-tools") (v "0.1.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^2") (d #t) (k 0)) (d (n "syndicate") (r "^0.23.0") (d #t) (k 0)))) (h "0nlcli2a5hn81mf4lhl8j3cniyfm8lkd3pjg3x4nci3x5h9ny42d")))
+
+(define-public crate-syndicate-tools-0.2.0 (c (n "syndicate-tools") (v "0.2.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^2") (d #t) (k 0)) (d (n "syndicate") (r "^0.24.0") (d #t) (k 0)))) (h "12nwagq10afmjrpdybp7fanar57g6hhnxff1vxxha07cwz0vl183")))
+
+(define-public crate-syndicate-tools-0.2.1 (c (n "syndicate-tools") (v "0.2.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^2.4") (d #t) (k 0)) (d (n "syndicate") (r "^0.24") (d #t) (k 0)))) (h "017x9i2y3m9yzr8h8xj4ypqdvx3maywii3lwb9spd0rasbp46yks")))
+
+(define-public crate-syndicate-tools-0.3.0 (c (n "syndicate-tools") (v "0.3.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.25.0") (d #t) (k 0)))) (h "1k1d7h1mvdm3s1ip76d7h26h2nq9a0mpr5hgbnivggfy76pgbgnw")))
+
+(define-public crate-syndicate-tools-0.4.0 (c (n "syndicate-tools") (v "0.4.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.26.0") (d #t) (k 0)))) (h "1rg6h0vqaqdljkvnm0w18llsr4iv9gprmnihjy829css3xwchy6g")))
+
+(define-public crate-syndicate-tools-0.5.0 (c (n "syndicate-tools") (v "0.5.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.27.0") (d #t) (k 0)))) (h "12qdva8qm9m67v9l6m93kq4shjlm8kc8gk4c8b7ljjssizvq4638")))
+
+(define-public crate-syndicate-tools-0.6.0 (c (n "syndicate-tools") (v "0.6.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.28.0") (d #t) (k 0)))) (h "15yd5gw7qqv3n3c30xa4s346j7r1g5px52zb2lhsc0dplnw5vwjz")))
+
+(define-public crate-syndicate-tools-0.7.0 (c (n "syndicate-tools") (v "0.7.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.28.0") (d #t) (k 0)))) (h "0w29ld4ijz2zixca4wkvvi4qcrnnkxnkykpl19dsjxpka8c207ww")))
+
+(define-public crate-syndicate-tools-0.7.1 (c (n "syndicate-tools") (v "0.7.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.28.3") (d #t) (k 0)))) (h "050sh8ak0zcf5rhphzry9kx7hl7k9v332fxirbimlasw8qfvh43s")))
+
+(define-public crate-syndicate-tools-0.8.0 (c (n "syndicate-tools") (v "0.8.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^3.0") (d #t) (k 0)) (d (n "syndicate") (r "^0.29.0") (d #t) (k 0)))) (h "058qiz1hm8c27z4zhni5ja293l499bx1g0yswh694byfqxwsbrnn")))
+
+(define-public crate-syndicate-tools-0.8.1 (c (n "syndicate-tools") (v "0.8.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^3.990") (d #t) (k 0)) (d (n "syndicate") (r "^0.29.0") (d #t) (k 0)))) (h "1a6z9cl926b1khw9aw1wg1j36rf4p81dsnnlp6gcz9jp0yil8dc2")))
+
+(define-public crate-syndicate-tools-0.9.0 (c (n "syndicate-tools") (v "0.9.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.991") (d #t) (k 0)) (d (n "syndicate") (r "^0.30.0") (d #t) (k 0)))) (h "1lyym7m9pym9jb3rbwnbvqb1cirgk64iysjp1zd55rq6x4nrw0ay")))
+
+(define-public crate-syndicate-tools-0.10.0 (c (n "syndicate-tools") (v "0.10.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.992") (d #t) (k 0)) (d (n "syndicate") (r "^0.31.0") (d #t) (k 0)))) (h "0j5ffg469mwj6j7dqp498iaiw91c40f2hfi7zpydwckzshhyz8rb")))
+
+(define-public crate-syndicate-tools-0.12.0 (c (n "syndicate-tools") (v "0.12.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.993") (d #t) (k 0)) (d (n "syndicate") (r "^0.33.0") (d #t) (k 0)))) (h "0g78v99qgnkhhnr0xjp62ki4wjlsd7ckgjp28wrc05ax2cv02qxb")))
+
+(define-public crate-syndicate-tools-0.13.0 (c (n "syndicate-tools") (v "0.13.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.994") (d #t) (k 0)) (d (n "syndicate") (r "^0.34.0") (d #t) (k 0)))) (h "1p8cr8n28w66z1kwjrbjicdarli1w024rwip8hcw9zkr9irmmxj2")))
+
+(define-public crate-syndicate-tools-0.14.0 (c (n "syndicate-tools") (v "0.14.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.994") (d #t) (k 0)) (d (n "syndicate") (r "^0.35.0") (d #t) (k 0)))) (h "1drh478x8gx9nqk0kmrsscxmxc7a1a8kqilqsjcprywlly1vv87d")))
+
+(define-public crate-syndicate-tools-0.15.0 (c (n "syndicate-tools") (v "0.15.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.995") (d #t) (k 0)) (d (n "syndicate") (r "^0.36.0") (d #t) (k 0)))) (h "041mhhxwsddcz4mzxbk01inf7csyr399002ns70arbxqwkprc320")))
+
+(define-public crate-syndicate-tools-0.16.0 (c (n "syndicate-tools") (v "0.16.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.995") (d #t) (k 0)) (d (n "syndicate") (r "^0.37.0") (d #t) (k 0)))) (h "1kn8ai921qsrfld9m39723wj6w2qim9v0clgx0n5264agkna24qz")))
+
+(define-public crate-syndicate-tools-0.17.0 (c (n "syndicate-tools") (v "0.17.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.995") (d #t) (k 0)) (d (n "syndicate") (r "^0.39.0") (d #t) (k 0)))) (h "0cqh5j6m5p9zk4zrdasbcc1pg4klfjh8szj5477vaxm870s5pxxc")))
+
+(define-public crate-syndicate-tools-0.18.0 (c (n "syndicate-tools") (v "0.18.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "noise-protocol") (r "^0.1") (d #t) (k 0)) (d (n "noise-rust-crypto") (r "^0.5") (d #t) (k 0)) (d (n "preserves") (r "^4.995") (d #t) (k 0)) (d (n "syndicate") (r "^0.40.0") (d #t) (k 0)))) (h "0ks8jk5amnq0apk6xjmimi6if1phb9v68h4hfsb28bhad1b4wi0n")))
+

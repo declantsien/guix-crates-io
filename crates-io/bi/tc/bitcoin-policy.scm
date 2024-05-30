@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-policy) #:use-module (crates-io))
+
+(define-public crate-bitcoin-policy-0.1.12-alpha.0 (c (n "bitcoin-policy") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-amt") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-coinsview") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-fees") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "04ws2xj7p6a5li7dgyj2p99aykda88dy39klg00909x7js9cniqz")))
+
+(define-public crate-bitcoin-policy-0.1.16-alpha.0 (c (n "bitcoin-policy") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-amt") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-coinsview") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-fees") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1gl0lps8h5wmi81cwd7s4mrqvd2dc7cv1lqsmpp0sj9g74ml9h50")))
+

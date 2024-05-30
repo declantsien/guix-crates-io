@@ -1,0 +1,4 @@
+(define-module (crates-io de sk deskc-typeinfer) #:use-module (crates-io))
+
+(define-public crate-deskc-typeinfer-0.0.0 (c (n "deskc-typeinfer") (v "0.0.0") (d (list (d (n "ariadne") (r "^0.1") (d #t) (k 2)) (d (n "chumsky") (r "^0.8.0") (d #t) (k 2)) (d (n "file") (r "^0.0.0") (d #t) (k 0) (p "deskc-file")) (d (n "hir") (r "^0.0.0") (d #t) (k 0) (p "deskc-hir")) (d (n "hirgen") (r "^0.0.0") (d #t) (k 2) (p "deskc-hirgen")) (d (n "lexer") (r "^0.0.0") (d #t) (k 2) (p "deskc-lexer")) (d (n "parser") (r "^0.0.0") (d #t) (k 2) (p "deskc-parser")) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "textual-diagnostics") (r "^0.0.0") (d #t) (k 0) (p "deskc-textual-diagnostics")) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "types") (r "^0.0.0") (d #t) (k 0) (p "deskc-types")))) (h "05dvg09aiw0dbwy431176a658b60l2svn9s9dc4kd1j2v82514s9")))
+

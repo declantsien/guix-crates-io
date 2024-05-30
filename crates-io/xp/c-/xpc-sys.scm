@@ -1,0 +1,26 @@
+(define-module (crates-io xp c- xpc-sys) #:use-module (crates-io))
+
+(define-public crate-xpc-sys-0.1.0-a (c (n "xpc-sys") (v "0.1.0-a") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "18615vvczgg2ix6zyw6m0vgrawbk3scs9daiq4xbq3ql26cmkg7j") (y #t)))
+
+(define-public crate-xpc-sys-0.1.0-a1 (c (n "xpc-sys") (v "0.1.0-a1") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "1g6wmvs5wwa1payddr2sp4983g13zh6ir0hmx8qym6iddkm17k47")))
+
+(define-public crate-xpc-sys-0.1.0-a2 (c (n "xpc-sys") (v "0.1.0-a2") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "1gz28d9l7mrdvqnbq4aw365sn5s02bqd9n9516xi5xqvf1mmbl7l")))
+
+(define-public crate-xpc-sys-0.1.0 (c (n "xpc-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.94") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "1npzybz8dmlyd9s0sv05qfhy8c015x9ss32bp7ib6zwp5i698pwx")))
+
+(define-public crate-xpc-sys-0.2.0 (c (n "xpc-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.94") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "0n3pij293348pk6wibjhgq68w22r0cqfp0ck9q17fy9vlcfihm8x")))
+
+(define-public crate-xpc-sys-0.3.0 (c (n "xpc-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.94") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "1hw2z84hn1fsrai01nzbc4lk9kzwqjm2b85rybxxyym11cs14vnr")))
+
+(define-public crate-xpc-sys-0.3.1 (c (n "xpc-sys") (v "0.3.1") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.94") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "1i4jpwzwc91ay0pg470vvvflxv3xvyhc0pzak01ia4m26z15kbni")))
+
+(define-public crate-xpc-sys-0.4.0 (c (n "xpc-sys") (v "0.4.0") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.94") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "1y4jdz8ggn8pcmiq95cc0s9ipanl4yqx7rm6xvi5dgn3vksiwkwf")))
+
+(define-public crate-xpc-sys-0.4.1 (c (n "xpc-sys") (v "0.4.1") (d (list (d (n "bindgen") (r "^0.60.1") (d #t) (k 1)) (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "0933l4m90vi0skl50nxnp3q3ppzr4ph7isq83362glm1sqiglian")))
+
+(define-public crate-xpc-sys-0.4.2 (c (n "xpc-sys") (v "0.4.2") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "0ksk60d4xixsk1p870n626bv3h7i1izarzpm96dp0c6fz1swcn8q")))
+
+(define-public crate-xpc-sys-0.5.0 (c (n "xpc-sys") (v "0.5.0") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "0ai96s3710n276knib57ld1fqd6c2rdny5jihp6d8a55dc568xis")))
+
+(define-public crate-xpc-sys-0.5.1 (c (n "xpc-sys") (v "0.5.1") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "xcrun") (r "^1.0.4") (d #t) (k 1)))) (h "188mh069hwfyd0vql7ipsxj5dmk40839zlrrbpzzk2mfpb9rg2sv")))
+

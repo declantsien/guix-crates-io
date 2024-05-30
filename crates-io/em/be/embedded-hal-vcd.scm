@@ -1,0 +1,6 @@
+(define-module (crates-io em be embedded-hal-vcd) #:use-module (crates-io))
+
+(define-public crate-embedded-hal-vcd-0.1.0 (c (n "embedded-hal-vcd") (v "0.1.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8.0") (d #t) (k 2)) (d (n "embedded-hal-sync-pins") (r "^0.5") (f (quote ("vcd-value"))) (d #t) (k 0)) (d (n "embedded-time") (r "^0.12") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (d #t) (k 0)))) (h "1bhsd5yvppia1sgv7dhvrc88q9q53df8v50whcx773584sl9x9f5")))
+
+(define-public crate-embedded-hal-vcd-0.2.0 (c (n "embedded-hal-vcd") (v "0.2.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.9") (d #t) (k 0)) (d (n "embedded-hal-sync-pins") (r "^0.7") (f (quote ("vcd-value"))) (d #t) (k 0)) (d (n "embedded-time") (r "^0.12") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.0") (d #t) (k 2)) (d (n "synchronized-writer") (r "^1.1") (d #t) (k 2)) (d (n "vcd") (r "^0.6") (d #t) (k 0)))) (h "0m7vmq5kl50wg6h5v3y6vj9c1aixrcmfna4lgb3rd8bq76l5ylh6")))
+

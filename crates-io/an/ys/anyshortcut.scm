@@ -1,0 +1,4 @@
+(define-module (crates-io an ys anyshortcut) #:use-module (crates-io))
+
+(define-public crate-anyshortcut-0.2.0 (c (n "anyshortcut") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^2.32") (f (quote ("color" "vec_map"))) (k 0)) (d (n "clap") (r "^2.32") (k 1)) (d (n "curl-http") (r "^0.1.0") (d #t) (k 0)) (d (n "dirs") (r "^1.0.3") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.7.8") (d #t) (k 2)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.71") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)))) (h "1klcb1qalxlx5gh3mxwp9fbns61gb2x4999hldhp2fpma6747zms")))
+

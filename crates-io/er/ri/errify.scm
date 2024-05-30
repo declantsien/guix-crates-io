@@ -1,0 +1,12 @@
+(define-module (crates-io er ri errify) #:use-module (crates-io))
+
+(define-public crate-errify-0.1.0 (c (n "errify") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "errify-macros") (r "^0.1.0") (k 0)) (d (n "eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1idczwb0i0s2mx3w06d20fzf66hj89mdi1hxnhfc3ygybj9nz0dk") (f (quote (("default" "anyhow")))) (s 2) (e (quote (("eyre" "dep:eyre" "errify-macros/eyre") ("anyhow" "dep:anyhow" "errify-macros/anyhow"))))))
+
+(define-public crate-errify-0.2.0 (c (n "errify") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "errify-macros") (r "^0.2.0") (k 0)) (d (n "eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1vykhxrqvpzlnkclmq7a4yqg7x4cm65qr1gy3chl11vv61djl1hm") (f (quote (("default" "anyhow")))) (s 2) (e (quote (("eyre" "dep:eyre" "errify-macros/eyre") ("anyhow" "dep:anyhow" "errify-macros/anyhow"))))))
+
+(define-public crate-errify-0.2.1 (c (n "errify") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "errify-macros") (r "^0.2.0") (k 0)) (d (n "eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0fjgqdlhdl3dsg12al19zq3v9ah6gri97h3nnigqhkxxz3zjj2k9") (f (quote (("default" "anyhow")))) (s 2) (e (quote (("eyre" "dep:eyre" "errify-macros/eyre") ("anyhow" "dep:anyhow" "errify-macros/anyhow"))))))
+
+(define-public crate-errify-0.2.2 (c (n "errify") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "errify-macros") (r "^0.2.1") (k 0)) (d (n "eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "13zpyjirdldjsvhg8s8dwda6ary0my75blw4vsplv3jf2g70a1qj") (f (quote (("default" "anyhow")))) (s 2) (e (quote (("eyre" "dep:eyre" "errify-macros/eyre") ("anyhow" "dep:anyhow" "errify-macros/anyhow"))))))
+
+(define-public crate-errify-0.3.0 (c (n "errify") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "errify-macros") (r "^0.3.0") (k 0)) (d (n "eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0j980cbsx4qi1k6bcpywbj9q185rj3i94zkz6vmwvy8sq31iif2b") (f (quote (("default")))) (s 2) (e (quote (("eyre" "dep:eyre") ("anyhow" "dep:anyhow"))))))
+

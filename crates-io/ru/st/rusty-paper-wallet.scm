@@ -1,0 +1,18 @@
+(define-module (crates-io ru st rusty-paper-wallet) #:use-module (crates-io))
+
+(define-public crate-rusty-paper-wallet-0.2.0 (c (n "rusty-paper-wallet") (v "0.2.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.25.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "bmp-monochrome") (r "^0.7.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)))) (h "1dphqlq5zk8n5ncxd3yn85v99h0ikvq1rdj09cs4c22732ws0q17")))
+
+(define-public crate-rusty-paper-wallet-0.3.0 (c (n "rusty-paper-wallet") (v "0.3.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.25.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "bmp-monochrome") (r "^0.7.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)))) (h "0r19k1mlp9q6fayd6zpnvsyc9697s909xg570psa2h79g0bfjnsv")))
+
+(define-public crate-rusty-paper-wallet-0.5.0 (c (n "rusty-paper-wallet") (v "0.5.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.25.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "bmp-monochrome") (r "^0.13.0") (d #t) (k 0)) (d (n "qr_code") (r "^0.17.0") (d #t) (k 0)))) (h "1fbmwh6zx1hfqpwlmyjgnxxd5ylqk5hr2fpmv8l1hcb9ljq791c1")))
+
+(define-public crate-rusty-paper-wallet-0.6.0 (c (n "rusty-paper-wallet") (v "0.6.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.25.2") (f (quote ("rand"))) (d #t) (k 0)) (d (n "qr_code") (r "^1.0.0") (f (quote ("bmp"))) (d #t) (k 0)))) (h "19zzk4wrg78xnzdbh0c1fxd4bc1q4s167l75fxpv0ymnixf5nr37")))
+
+(define-public crate-rusty-paper-wallet-0.7.0 (c (n "rusty-paper-wallet") (v "0.7.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.26") (f (quote ("rand"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maud") (r "^0.22") (d #t) (k 0)) (d (n "miniscript") (r "^5.1") (d #t) (k 0)) (d (n "qr_code") (r "^1.0.0") (f (quote ("bmp"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "07qg4wd24hjjcqhf9hga7ld0grxd3fcl9fj0g2sdbpiy3n359vgy")))
+
+(define-public crate-rusty-paper-wallet-0.8.0 (c (n "rusty-paper-wallet") (v "0.8.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.26") (f (quote ("rand"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maud") (r "^0.22") (d #t) (k 0)) (d (n "miniscript") (r "^5.1") (d #t) (k 0)) (d (n "qr_code") (r "^1.0.0") (f (quote ("bmp"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0vwfd3va8gh7nk2c71ynfwf0vsinr7yh20wf9nk41qfp96zm2cy3")))
+
+(define-public crate-rusty-paper-wallet-0.9.0 (c (n "rusty-paper-wallet") (v "0.9.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.27") (f (quote ("rand"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maud") (r "^0.22") (d #t) (k 0)) (d (n "miniscript") (r "^6.0") (d #t) (k 0)) (d (n "qr_code") (r "^1.1.0") (f (quote ("bmp"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "15drqlvs0ncpz08g7pqmg7h4j6dh2q9zrflf0k6z801sfbyqlr0r")))
+
+(define-public crate-rusty-paper-wallet-0.10.0 (c (n "rusty-paper-wallet") (v "0.10.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.28.1") (f (quote ("rand"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maud") (r "^0.22") (d #t) (k 0)) (d (n "miniscript") (r "^7.0") (d #t) (k 0)) (d (n "qr_code") (r "^1.1.0") (f (quote ("bmp"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0j798c7vbg45cfjf0g9b1fhivdb89rfgpmkgw9d1rqzay9k0b8lx")))
+

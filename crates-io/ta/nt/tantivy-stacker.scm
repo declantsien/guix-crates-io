@@ -1,0 +1,8 @@
+(define-module (crates-io ta nt tantivy-stacker) #:use-module (crates-io))
+
+(define-public crate-tantivy-stacker-0.1.0 (c (n "tantivy-stacker") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8.3") (o #t) (k 0)) (d (n "common") (r "^0.5") (d #t) (k 0) (p "tantivy-common")) (d (n "murmurhash32") (r "^0.3") (d #t) (k 0)) (d (n "proptest") (r "^1.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 2)) (d (n "zipf") (r "^7.0.0") (d #t) (k 2)))) (h "1xdc6kw1zn4x590vwvxi78gyhgia39wrmxwm7fnjdc010d3ykfb7") (f (quote (("unstable") ("compare_hash_only" "ahash"))))))
+
+(define-public crate-tantivy-stacker-0.2.0 (c (n "tantivy-stacker") (v "0.2.0") (d (list (d (n "ahash") (r "^0.8.3") (o #t) (k 0)) (d (n "common") (r "^0.6") (d #t) (k 0) (p "tantivy-common")) (d (n "murmurhash32") (r "^0.3") (d #t) (k 0)) (d (n "proptest") (r "^1.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 2)) (d (n "zipf") (r "^7.0.0") (d #t) (k 2)))) (h "0v7dck6mmq0n20xd3lzi71l96j7xvhippygnihhkzw8kaicpih5j") (f (quote (("unstable") ("compare_hash_only" "ahash"))))))
+
+(define-public crate-tantivy-stacker-0.3.0 (c (n "tantivy-stacker") (v "0.3.0") (d (list (d (n "ahash") (r "^0.8.11") (o #t) (k 0)) (d (n "common") (r "^0.7") (d #t) (k 0) (p "tantivy-common")) (d (n "murmurhash32") (r "^0.3") (d #t) (k 0)) (d (n "proptest") (r "^1.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 2)) (d (n "zipf") (r "^7.0.0") (d #t) (k 2)))) (h "1a3fjnf99q304q0xdzwkkbi3qnlraxdh7rrwkdrk5hqzb7snyvf5") (f (quote (("unstable") ("compare_hash_only" "ahash"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io in fi infini-search) #:use-module (crates-io))
+
+(define-public crate-infini-search-0.0.1 (c (n "infini-search") (v "0.0.1") (d (list (d (n "actix-web") (r "^4.2.1") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "bitflags") (r "^2.3.1") (d #t) (k 0)) (d (n "common") (r "^0.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1lzzng082mzqnwqgjsxfh4x9c1zvjbi2z85i2rwfxvnxfa873zxr") (y #t)))
+

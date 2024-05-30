@@ -1,0 +1,4 @@
+(define-module (crates-io st ee steel-lang) #:use-module (crates-io))
+
+(define-public crate-steel-lang-0.1.0 (c (n "steel-lang") (v "0.1.0") (d (list (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.10") (f (quote ("std" "derive" "unicode"))) (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.157") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (d #t) (k 0)))) (h "0kxqqa160zf7mhrvap67s91zgqhr1bgmc20h6gskgzwzfykzibd0")))
+

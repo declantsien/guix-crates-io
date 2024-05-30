@@ -1,0 +1,6 @@
+(define-module (crates-io ca tk catkin-bloom) #:use-module (crates-io))
+
+(define-public crate-catkin-bloom-0.0.1 (c (n "catkin-bloom") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.23.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1s6l9babhar97f1cbw52lzbhgvss9bij8s8xks6730g2saqrx1zm")))
+
+(define-public crate-catkin-bloom-0.0.2 (c (n "catkin-bloom") (v "0.0.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quick-xml") (r "^0.23.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0brw2ljf3bfscxvpvsig69ihksq8bnr891rf6jcfybc568mxxmcz")))
+

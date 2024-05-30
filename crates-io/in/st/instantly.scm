@@ -1,0 +1,4 @@
+(define-module (crates-io in st instantly) #:use-module (crates-io))
+
+(define-public crate-instantly-0.1.0 (c (n "instantly") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "ellipse") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "human-panic") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "surf") (r "^2.0.0-alpha") (d #t) (k 0)) (d (n "url") (r "^2.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0905vs1bq4gaaqxdl0accnjhxbd1i2ns8rgabp40mhybzmi90wr1")))
+

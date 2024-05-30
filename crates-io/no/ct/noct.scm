@@ -1,0 +1,4 @@
+(define-module (crates-io no ct noct) #:use-module (crates-io))
+
+(define-public crate-noct-0.1.0 (c (n "noct") (v "0.1.0") (d (list (d (n "core-graphics") (r "^0.18.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "pkg-config") (r "^0.3.17") (d #t) (k 1)) (d (n "serde") (r "^1.0.102") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (o #t) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.6.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "winapi") (r "^0.3.8") (f (quote ("winuser"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1cfbmhxmc7m22y0nzy8r08mqjrgmapfadap6z5g3rx30d0mixvps") (f (quote (("with_serde" "serde" "serde_derive"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io #{2}# yt) #:use-module (crates-io))
+
+(define-public crate-yt-0.1.0 (c (n "yt") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "homedir") (r "^0.2.1") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "pad") (r "^0.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "seahorse") (r "^2.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tinyget") (r "^1.0.1") (f (quote ("https"))) (d #t) (k 0)) (d (n "viuer") (r "^0.7.1") (d #t) (k 0)))) (h "06bwygd176cf5b0pkfi3bcpv2ffdgxadlix4cds9hhmala87pvsz")))
+
+(define-public crate-yt-0.1.1 (c (n "yt") (v "0.1.1") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "homedir") (r "^0.2.1") (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "pad") (r "^0.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "seahorse") (r "^2.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tinyget") (r "^1.0.1") (f (quote ("https"))) (d #t) (k 0)) (d (n "viuer") (r "^0.7.1") (d #t) (k 0)))) (h "0sfqh305lk0l1bahh2qvs3026pcgb35fyhkgcsvn9g3varfi9sjc")))
+

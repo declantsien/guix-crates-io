@@ -1,0 +1,4 @@
+(define-module (crates-io ya zi yazi-dds) #:use-module (crates-io))
+
+(define-public crate-yazi-dds-0.2.5 (c (n "yazi-dds") (v "0.2.5") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "mlua") (r "^0.9.7") (f (quote ("lua54" "vendored"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.15") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)) (d (n "uzers") (r "^0.11.3") (d #t) (t "cfg(unix)") (k 0)) (d (n "yazi-boot") (r "^0.2.5") (d #t) (k 0)) (d (n "yazi-shared") (r "^0.2.5") (d #t) (k 0)))) (h "08w5a4rlbynwgavc0pldfxczri89jqzf2lw857ijgp0q3v47w3yi")))
+

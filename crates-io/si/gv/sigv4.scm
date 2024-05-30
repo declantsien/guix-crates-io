@@ -1,0 +1,6 @@
+(define-module (crates-io si gv sigv4) #:use-module (crates-io))
+
+(define-public crate-sigv4-0.0.0 (c (n "sigv4") (v "0.0.0") (d (list (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "colored_json") (r "^2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.41") (f (quote ("rustls"))) (k 0)) (d (n "smallvec") (r "^0.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0ydnyx7dmjpwx43s1cm72rr65hayy2lal0whm5i0mfx0zz1lzqyx")))
+
+(define-public crate-sigv4-0.1.0 (c (n "sigv4") (v "0.1.0") (d (list (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "colored_json") (r "^2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.41") (f (quote ("rustls"))) (k 0)) (d (n "smallvec") (r "^0.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1d4i1vanq014gprwm7625ll5w8zj3inx4mcdafhn1y657lig98if")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io li bs libsecp256k1-rs) #:use-module (crates-io))
+
+(define-public crate-libsecp256k1-rs-0.2.0 (c (n "libsecp256k1-rs") (v "0.2.0") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 2)) (d (n "hmac-drbg") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (k 0)) (d (n "secp256k1-test") (r "^0.7") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 0)) (d (n "typenum") (r "^1.9") (d #t) (k 0)))) (h "1rvlx30bz03d3an4mixwig48cj6qyr46yqg185i7pinv1z7xjh2v")))
+
+(define-public crate-libsecp256k1-rs-0.2.1 (c (n "libsecp256k1-rs") (v "0.2.1") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 2)) (d (n "hmac-drbg") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (k 0)) (d (n "secp256k1-test") (r "^0.7") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 0)) (d (n "typenum") (r "^1.9") (d #t) (k 0)))) (h "0kgh2wcfb5ij9ml03ns6rj2v6v3xz9871wib9r4frpdvxkjnwqxb")))
+
+(define-public crate-libsecp256k1-rs-0.2.2 (c (n "libsecp256k1-rs") (v "0.2.2") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 2)) (d (n "hmac-drbg") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (k 0)) (d (n "secp256k1-test") (r "^0.7") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 0)) (d (n "typenum") (r "^1.9") (d #t) (k 0)))) (h "0p83nqinz8lph1v5rik4xhyvxxy8nr0rwzp1m1sly1jbk8jjilyh")))
+
+(define-public crate-libsecp256k1-rs-0.2.3 (c (n "libsecp256k1-rs") (v "0.2.3") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "hmac-drbg") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (k 0)) (d (n "secp256k1-test") (r "^0.7") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 0)) (d (n "typenum") (r "^1.9") (d #t) (k 0)))) (h "0pd46nhgg67h3ylwzphybwc37d4fcdwm74df2hhv4i9dr4awdh3f")))
+
+(define-public crate-libsecp256k1-rs-0.2.4 (c (n "libsecp256k1-rs") (v "0.2.4") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "digest") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "hmac-drbg") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (k 0)) (d (n "secp256k1-test") (r "^0.7") (d #t) (k 2)) (d (n "sha2") (r "^0.6") (d #t) (k 0)) (d (n "typenum") (r "^1.9") (d #t) (k 0)))) (h "0zxjp1vsbbln801pi3f8lws13n2kyhkrsljspx109x6kp7mp3nbs")))
+

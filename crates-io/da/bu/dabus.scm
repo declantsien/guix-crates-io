@@ -1,0 +1,12 @@
+(define-module (crates-io da bu dabus) #:use-module (crates-io))
+
+(define-public crate-dabus-0.4.1 (c (n "dabus") (v "0.4.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "unique-type") (r "^0.1.0") (d #t) (k 0)))) (h "00600wfz9jnrkkhq173k029ic69dj7x9gv51k40dx7iflka7fvj7")))
+
+(define-public crate-dabus-0.4.2 (c (n "dabus") (v "0.4.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "unique-type") (r "^0.1.0") (d #t) (k 0)))) (h "12yx4gnn6ah6w86i68ddi9yk3wi6jfskypp349ccv7hc6qkp2m2f")))
+
+(define-public crate-dabus-0.4.3 (c (n "dabus") (v "0.4.3") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "unique-type") (r "^0.1.0") (d #t) (k 0)))) (h "1d402h0wvvd9c6pxl26mz4cnnhgdpdm1xkc60w2j9cxyx06l3xzg")))
+
+(define-public crate-dabus-0.5.0 (c (n "dabus") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "unique-type") (r "^0.1.0") (d #t) (k 0)))) (h "11ajfkgs1mm9mw131aha8z538kk4ij7ryqlzpz2yn3x5ywskqgrj") (f (quote (("backtrace_track_values"))))))
+
+(define-public crate-dabus-0.5.1 (c (n "dabus") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "concat-idents") (r "^1.1.5") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "14lb2h9c7fc2kk38axcmmss8945564n19c40ljzi72v17wbwg7yz") (f (quote (("backtrace_track_values"))))))
+

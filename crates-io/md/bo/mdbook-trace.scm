@@ -1,0 +1,6 @@
+(define-module (crates-io md bo mdbook-trace) #:use-module (crates-io))
+
+(define-public crate-mdbook-trace-0.1.0 (c (n "mdbook-trace") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "195mc5mmfak72q2m4nbfghvm6l2jsl1fsiahff1485p63b0ykak3")))
+
+(define-public crate-mdbook-trace-0.1.1 (c (n "mdbook-trace") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "mdbook") (r "^0.4.21") (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "052j3zw7kw7dhmmwcmvnghw6jk8yv2qmcmgv3a9hzqh37hsl9g5v")))
+

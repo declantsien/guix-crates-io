@@ -1,0 +1,6 @@
+(define-module (crates-io de xt dexther_lib) #:use-module (crates-io))
+
+(define-public crate-dexther_lib-0.0.1 (c (n "dexther_lib") (v "0.0.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "google-cloud-auth") (r "^0.13.2") (d #t) (k 0)) (d (n "google-cloud-googleapis") (r "^0.12.0") (d #t) (k 0)) (d (n "google-cloud-pubsub") (r "^0.23") (d #t) (k 0)) (d (n "mongodb") (r "^2.8.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1q12wqyysq77fgxajhj4hkkdcv9242vgf65hbnj3sj0yfwbsxjcb")))
+
+(define-public crate-dexther_lib-0.0.12 (c (n "dexther_lib") (v "0.0.12") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "google-cloud-auth") (r "^0.13.2") (d #t) (k 0)) (d (n "google-cloud-googleapis") (r "^0.12.0") (d #t) (k 0)) (d (n "google-cloud-pubsub") (r "^0.23") (d #t) (k 0)) (d (n "mongodb") (r "^2.8.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0vsjs11vvldmmhjr0mds06xf9i0xyagn5h2w8vrhlbwjw6s8blkq")))
+

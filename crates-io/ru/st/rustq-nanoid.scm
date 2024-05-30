@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rustq-nanoid) #:use-module (crates-io))
+
+(define-public crate-rustq-nanoid-0.0.1-dev1 (c (n "rustq-nanoid") (v "0.0.1-dev1") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("prepush-hook" "precommit-hook" "postmerge-hook" "run-cargo-test" "run-cargo-check" "run-cargo-clippy" "run-cargo-fmt"))) (k 2)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "smartstring") (r "^1.0.1") (o #t) (d #t) (k 0)))) (h "0i1kc3hqkyfvipimpg0lv9mx9dq8lq5sb22j6q59brkfw6b5v2gr") (f (quote (("default"))))))
+
+(define-public crate-rustq-nanoid-0.0.1-dev2 (c (n "rustq-nanoid") (v "0.0.1-dev2") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("prepush-hook" "precommit-hook" "postmerge-hook" "run-cargo-test" "run-cargo-check" "run-cargo-clippy" "run-cargo-fmt"))) (k 2)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "smartstring") (r "^1.0.1") (o #t) (d #t) (k 0)))) (h "0yzs2b40dljlpq6bcp0kcgq7cw680kxgybj3anlyddl055f81m2v") (f (quote (("default"))))))
+
+(define-public crate-rustq-nanoid-0.0.1-dev3 (c (n "rustq-nanoid") (v "0.0.1-dev3") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("prepush-hook" "precommit-hook" "postmerge-hook" "run-cargo-test" "run-cargo-check" "run-cargo-clippy" "run-cargo-fmt"))) (k 2)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "smartstring") (r "^1.0.1") (o #t) (d #t) (k 0)))) (h "00gmznxm3ckj8ihbdxpq36y9fxqq4n8djiccp64hwz9vi2qlckzj") (f (quote (("default"))))))
+

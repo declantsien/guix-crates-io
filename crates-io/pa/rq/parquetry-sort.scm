@@ -1,0 +1,14 @@
+(define-module (crates-io pa rq parquetry-sort) #:use-module (crates-io))
+
+(define-public crate-parquetry-sort-0.4.0 (c (n "parquetry-sort") (v "0.4.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "parquet") (r "^47") (d #t) (k 0)) (d (n "parquetry") (r "^0.4.0") (d #t) (k 0)) (d (n "rocksdb") (r "^0.21") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1v8rpg0zsac8djx8k8839llhs935c44zksbk1wv9ayz1q8sqkmm9")))
+
+(define-public crate-parquetry-sort-0.5.0 (c (n "parquetry-sort") (v "0.5.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "parquet") (r "^48") (d #t) (k 0)) (d (n "parquetry") (r "^0.5.0") (d #t) (k 0)) (d (n "rocksdb") (r "^0.21") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "17qdssiqjwzzhx9whbgvklq6qnpw0k4vvx4qh80rq95qlrzv43ky")))
+
+(define-public crate-parquetry-sort-0.6.0 (c (n "parquetry-sort") (v "0.6.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "parquet") (r "^49") (d #t) (k 0)) (d (n "parquetry") (r "^0.6.0") (d #t) (k 0)) (d (n "rocksdb") (r "^0.21") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "051id8y6lawfc0wizbw7f5xcal971sixvzypvccq8f7jdj92acch")))
+
+(define-public crate-parquetry-sort-0.7.0 (c (n "parquetry-sort") (v "0.7.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "parquet") (r "^50") (d #t) (k 0)) (d (n "parquetry") (r "^0.7.0") (d #t) (k 0)) (d (n "rocksdb") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1hdipwmiddr0jhvk3sl3dcbpd5qymnsyvml7h03h230wl2qjab8c")))
+
+(define-public crate-parquetry-sort-0.8.0 (c (n "parquetry-sort") (v "0.8.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "parquet") (r "^51") (d #t) (k 0)) (d (n "parquetry") (r "^0.8.0") (d #t) (k 0)) (d (n "rocksdb") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0kmaqzfw6xal6616d50lf5inhbxpdld62qah043yprbxyycz4hag")))
+
+(define-public crate-parquetry-sort-0.9.0 (c (n "parquetry-sort") (v "0.9.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "parquet") (r "^51") (d #t) (k 0)) (d (n "parquetry") (r "^0.9.0") (d #t) (k 0)) (d (n "rocksdb") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0awi5cmjnrdr7p1sjpfhazsc6d0jqg4rixswgabcql5c4b5si844")))
+

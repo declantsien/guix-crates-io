@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-proxy) #:use-module (crates-io))
+
+(define-public crate-bitcoin-proxy-0.1.12-alpha.0 (c (n "bitcoin-proxy") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-network") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-service") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sock") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-subnet") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1a6sdsb3l12dbn4sr5m739a9n680j6p4i050j196579n9cw6xg31")))
+
+(define-public crate-bitcoin-proxy-0.1.16-alpha.0 (c (n "bitcoin-proxy") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-network") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-service") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sock") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-subnet") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1s7xvn1x3xq6a37hjxkaihpnaz46jjfzs7hcxczpblf68mpn6sb7")))
+

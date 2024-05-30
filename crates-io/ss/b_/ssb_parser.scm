@@ -1,0 +1,24 @@
+(define-module (crates-io ss b_ ssb_parser) #:use-module (crates-io))
+
+(define-public crate-ssb_parser-0.0.0 (c (n "ssb_parser") (v "0.0.0") (d (list (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "pest") (r "~2.1.0") (d #t) (k 0)) (d (n "pest_derive") (r "~2.1.0") (d #t) (k 0)))) (h "1v53nv3b1i2vcg96vmiqb7vfy2kixg8kpl869znl6p9rjiq0z51a")))
+
+(define-public crate-ssb_parser-0.1.0 (c (n "ssb_parser") (v "0.1.0") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)))) (h "1cqngkc6as5f1hw36ig0msqngb8wdcm894l9jy85p0y3n6brfn3d")))
+
+(define-public crate-ssb_parser-0.1.1 (c (n "ssb_parser") (v "0.1.1") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)))) (h "1yz1s3rqxybf0r0dwicw880b1h06lkylxcs0q5pqrmn45rai5ccd")))
+
+(define-public crate-ssb_parser-0.2.0 (c (n "ssb_parser") (v "0.2.0") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)))) (h "0w7v52lqhgq8prdqxzlzpvzr0fj534d4mx9jqfbdfc8h2j5n4hra")))
+
+(define-public crate-ssb_parser-0.2.1 (c (n "ssb_parser") (v "0.2.1") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)) (d (n "serde") (r "~1.0.92") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.39") (d #t) (k 2)))) (h "094pfxx3ngsbs4jm7x8m4yn76n2sm280p6bnklwhnilwz88h3377") (f (quote (("serialization" "serde") ("default" "serialization"))))))
+
+(define-public crate-ssb_parser-0.2.2 (c (n "ssb_parser") (v "0.2.2") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)) (d (n "serde") (r "~1.0.92") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.39") (d #t) (k 2)) (d (n "simple-logging") (r "~2.0.2") (d #t) (k 2)))) (h "0jqkj0w5gn62sx6jz7ai8a48rdfsbzx6fsb3iiimxmrd5bsfa9g9") (f (quote (("serialization" "serde") ("default" "serialization"))))))
+
+(define-public crate-ssb_parser-0.2.3 (c (n "ssb_parser") (v "0.2.3") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)) (d (n "serde") (r "~1.0.92") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.39") (d #t) (k 2)) (d (n "simple-logging") (r "~2.0.2") (d #t) (k 2)))) (h "0pr5b33d55p8wzbxcfhfjccg86wk83c0d978yqsrq1d3y7pjs9gz") (f (quote (("serialization" "serde") ("default" "serialization"))))))
+
+(define-public crate-ssb_parser-0.2.4 (c (n "ssb_parser") (v "0.2.4") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "regex") (r "~1.1.7") (d #t) (k 0)) (d (n "serde") (r "~1.0.94") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.39") (d #t) (k 2)) (d (n "simple-logging") (r "~2.0.2") (d #t) (k 2)))) (h "1npzxyn8h55asjan7ps5iwr9ddwwyjybk563dylbn0xw5sph23dg") (f (quote (("serialization" "serde") ("default" "serialization"))))))
+
+(define-public crate-ssb_parser-0.3.0 (c (n "ssb_parser") (v "0.3.0") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.3.0") (d #t) (k 0)) (d (n "regex") (r "~1.2.1") (d #t) (k 0)) (d (n "serde") (r "~1.0.98") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.40") (d #t) (k 2)))) (h "1c08svvaa9qv9bdhrr1fg7b90wr7dd10yzszvcbqfw1841pwiz6k") (f (quote (("serialization" "serde") ("default" "serialization"))))))
+
+(define-public crate-ssb_parser-0.3.1 (c (n "ssb_parser") (v "0.3.1") (d (list (d (n "base64") (r "~0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "regex") (r "~1.3.1") (d #t) (k 0)) (d (n "serde") (r "~1.0.100") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.40") (d #t) (k 2)))) (h "0gpg2hf1xd561s2l4qx71rnssvmwlqasnnyr4fnxlyxs9llg3bjl") (f (quote (("serialization" "serde"))))))
+
+(define-public crate-ssb_parser-0.4.0 (c (n "ssb_parser") (v "0.4.0") (d (list (d (n "base64") (r "~0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "regex") (r "~1.3.1") (d #t) (k 0)) (d (n "serde") (r "~1.0.104") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "~1.0.44") (d #t) (k 2)))) (h "0hxsk7cd0bhjncjqgf93js47nfvpciyabvzkkgvjas1mb1s2a2b5") (f (quote (("serialization" "serde"))))))
+

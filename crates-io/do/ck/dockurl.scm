@@ -1,0 +1,16 @@
+(define-module (crates-io do ck dockurl) #:use-module (crates-io))
+
+(define-public crate-dockurl-0.1.0 (c (n "dockurl") (v "0.1.0") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "0xxvmm0jlg3famrfw4x4j6m8zx6c76rz2bx0s7gvxzwc224dkw83")))
+
+(define-public crate-dockurl-0.1.1 (c (n "dockurl") (v "0.1.1") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "1a05wzl89x8n99hc1mdpgqys8qa7yz88lzp2p47fp1022ywrwvhd")))
+
+(define-public crate-dockurl-0.1.2 (c (n "dockurl") (v "0.1.2") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "1dsfy0wy372szaq7ldjd2az2w9mz2lm8sv91h4jhgbsmi8vbfmdn")))
+
+(define-public crate-dockurl-0.1.3 (c (n "dockurl") (v "0.1.3") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "0jymhf8irhfqh2z6d4q7bdkkzq5l397s0ric3skv6f6w81a07r8q")))
+
+(define-public crate-dockurl-0.1.4 (c (n "dockurl") (v "0.1.4") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "1yfavjbkqiw5aizp18qs8mabzjz9m3bc04k53p5n9af9dmhcbn25")))
+
+(define-public crate-dockurl-0.1.5 (c (n "dockurl") (v "0.1.5") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "11qr5mbl4kz0zdq6p4q3gw62cg8d20b81dy2dw3704957k5sx4p9")))
+
+(define-public crate-dockurl-0.1.6 (c (n "dockurl") (v "0.1.6") (d (list (d (n "curl") (r "^0.4.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "0jk72viavgc5m025dw990l808nk9z98dslj4mdccj71yvy1aqmhn")))
+

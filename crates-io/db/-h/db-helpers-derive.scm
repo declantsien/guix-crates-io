@@ -1,0 +1,14 @@
+(define-module (crates-io db -h db-helpers-derive) #:use-module (crates-io))
+
+(define-public crate-db-helpers-derive-0.1.0 (c (n "db-helpers-derive") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.56") (d #t) (k 2)))) (h "06fv9jqrp54qc5bb72p32c092xki1njrbvq9avzdngnpjkc57v66") (f (quote (("pg") ("default" "pg"))))))
+
+(define-public crate-db-helpers-derive-0.2.0 (c (n "db-helpers-derive") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.56") (d #t) (k 2)))) (h "0nnl66q8cg9kn42lazwgx1lw7h063mdvv657396abm2rw4n532l1") (f (quote (("pg") ("default" "pg"))))))
+
+(define-public crate-db-helpers-derive-0.3.0 (c (n "db-helpers-derive") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.56") (d #t) (k 2)))) (h "0dhdza9cn8zmlkpvr9f1qnnicp0pqnj7q10mva4i1j4w6x9m4xf5") (f (quote (("pg") ("default" "pg"))))))
+
+(define-public crate-db-helpers-derive-0.3.1 (c (n "db-helpers-derive") (v "0.3.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.56") (d #t) (k 2)))) (h "09yb8y281k985fsznpil9mm9hxl3qqwg7ccd8xjjh843fi0pkawg") (f (quote (("pg") ("default" "pg"))))))
+
+(define-public crate-db-helpers-derive-0.4.0 (c (n "db-helpers-derive") (v "0.4.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.56") (d #t) (k 2)))) (h "1mbj36yqxlkgmg2mwb324g0v6fwgra8dqj2ra7k813dzx8jfzncv") (f (quote (("pg") ("default" "pg"))))))
+
+(define-public crate-db-helpers-derive-0.5.0 (c (n "db-helpers-derive") (v "0.5.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.56") (d #t) (k 2)))) (h "1280586maq3l75b678bm0hzvbdzsf72hn19kn0ilk1biiyg7cpld") (f (quote (("pg") ("default" "pg"))))))
+

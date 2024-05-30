@@ -1,0 +1,4 @@
+(define-module (crates-io au xt auxtools) #:use-module (crates-io))
+
+(define-public crate-auxtools-0.1.0 (c (n "auxtools") (v "0.1.0") (d (list (d (n "auxtools-impl") (r ">=0.1.0, <0.2.0") (d #t) (k 0) (p "auxtools-impl")) (d (n "cc") (r ">=1.0.0, <2.0.0") (d #t) (k 1)) (d (n "dashmap") (r ">=3.11.10, <4.0.0") (d #t) (k 0)) (d (n "detour") (r ">=0.7.0, <0.8.0") (k 0)) (d (n "inventory") (r ">=0.1.0, <0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r ">=1.4.0, <2.0.0") (d #t) (k 0)) (d (n "libc") (r ">=0.2.0, <0.3.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "msgbox") (r ">=0.4.0, <0.5.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "once_cell") (r ">=1.4.0, <2.0.0") (d #t) (k 0)) (d (n "winapi") (r ">=0.3.9, <0.4.0") (f (quote ("winuser" "libloaderapi" "psapi" "processthreadsapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1133pjkqi5pvi0mghs8f7g76j1gs6bqk48xipw09kc1nmixhx253") (y #t)))
+

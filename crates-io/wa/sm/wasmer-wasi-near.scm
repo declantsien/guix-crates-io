@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-wasi-near) #:use-module (crates-io))
+
+(define-public crate-wasmer-wasi-near-1.0.1 (c (n "wasmer-wasi-near") (v "1.0.1") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "generational-arena") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "typetag") (r "^0.1") (d #t) (k 0)) (d (n "wasmer") (r "^1.0.1") (k 0) (p "wasmer-near")) (d (n "winapi") (r "^0.3") (d #t) (t "cfg(windows)") (k 0)))) (h "0shsi0jhjhc30ykxshgwzkq6pg7aflf2ikr46s2w04hy88jfl6qp") (f (quote (("logging" "tracing/log") ("disable-all-logging" "tracing/release_max_level_off" "tracing/max_level_off") ("default" "logging"))))))
+

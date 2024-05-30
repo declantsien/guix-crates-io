@@ -1,0 +1,6 @@
+(define-module (crates-io to ki tokio-pty-process-stream) #:use-module (crates-io))
+
+(define-public crate-tokio-pty-process-stream-0.1.0 (c (n "tokio-pty-process-stream") (v "0.1.0") (d (list (d (n "component-future") (r "^0.1") (d #t) (k 0)) (d (n "crossterm") (r "^0.11") (d #t) (k 2)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "snafu") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-pty-process") (r "^0.4") (d #t) (k 0)))) (h "118cbrdycmscdlxnp8yw3lasdlsy35p8vvrs1lcbilgdgi304mqx")))
+
+(define-public crate-tokio-pty-process-stream-0.2.0 (c (n "tokio-pty-process-stream") (v "0.2.0") (d (list (d (n "component-future") (r "^0.1") (d #t) (k 0)) (d (n "crossterm") (r "^0.11") (d #t) (k 2)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "snafu") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-pty-process") (r "^0.4") (d #t) (k 0)) (d (n "tokio-terminal-resize") (r "^0.1") (d #t) (k 0)))) (h "1y6ry846dszswcqvvwrpyzql3ad4fp52hb0n88qqlz4hndrkxiw7")))
+

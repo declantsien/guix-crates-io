@@ -1,0 +1,4 @@
+(define-module (crates-io ar ro arrow-lang) #:use-module (crates-io))
+
+(define-public crate-arrow-lang-0.0.1 (c (n "arrow-lang") (v "0.0.1") (d (list (d (n "aho-corasick") (r "^0.7") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "memchr") (r "^2.5") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ordered-float") (r "^3.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "roaring") (r "^0.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.29") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)))) (h "19rl7fkdvc5zd90fcc2f2xa3i2hiv3c3fkrlhgdcy7gvzq6jisy4")))
+

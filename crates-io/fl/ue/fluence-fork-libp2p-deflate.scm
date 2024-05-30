@@ -1,0 +1,12 @@
+(define-module (crates-io fl ue fluence-fork-libp2p-deflate) #:use-module (crates-io))
+
+(define-public crate-fluence-fork-libp2p-deflate-0.20.0 (c (n "fluence-fork-libp2p-deflate") (v "0.20.0") (d (list (d (n "async-std") (r "^1.6.2") (d #t) (k 2)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.20.0") (d #t) (k 0) (p "fluence-fork-libp2p-core")) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0arhiwc6r3cg0y0k47ysf5apx4wsw8vad4l1rs632xwnd9w2k3v9")))
+
+(define-public crate-fluence-fork-libp2p-deflate-0.26.0 (c (n "fluence-fork-libp2p-deflate") (v "0.26.0") (d (list (d (n "async-std") (r "^1.6.2") (d #t) (k 2)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.26.0") (d #t) (k 0) (p "fluence-fork-libp2p-core")) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "1s5x396ccp2shsx22fzgglnpaw8hjc1qkadngq0z90yyqphxg3wk")))
+
+(define-public crate-fluence-fork-libp2p-deflate-0.26.1 (c (n "fluence-fork-libp2p-deflate") (v "0.26.1") (d (list (d (n "async-std") (r "^1.6.2") (d #t) (k 2)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.26.1") (d #t) (k 0) (p "fluence-fork-libp2p-core")) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "1v63wkdbq8ff10bn8xzv046llpaj7rcvlvrn77l4hsgzjsdphzrr")))
+
+(define-public crate-fluence-fork-libp2p-deflate-0.27.1 (c (n "fluence-fork-libp2p-deflate") (v "0.27.1") (d (list (d (n "async-std") (r "^1.6.2") (d #t) (k 2)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.27.1") (d #t) (k 0) (p "fluence-fork-libp2p-core")) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "1k1lv4sqhmk6c8vp0rcc2as3ba1f3w60436sdjqarkfg0x6ln2x1")))
+
+(define-public crate-fluence-fork-libp2p-deflate-0.27.2 (c (n "fluence-fork-libp2p-deflate") (v "0.27.2") (d (list (d (n "async-std") (r "^1.6.2") (d #t) (k 2)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p-core") (r "^0.27.2") (d #t) (k 0) (p "fluence-fork-libp2p-core")) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0ih6ysibhx8n4hy3zgcpdsk5ljjmv17d26zm77knmkc0lq48yj7n")))
+

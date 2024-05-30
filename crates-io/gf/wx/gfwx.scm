@@ -1,0 +1,8 @@
+(define-module (crates-io gf wx gfwx) #:use-module (crates-io))
+
+(define-public crate-gfwx-0.1.0 (c (n "gfwx") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 2)) (d (n "criterion") (r "^0.2.5") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.0.2") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "1a9a4gsns0rhxrxkzjw7njqck9mw777s60ikp9n5jx8z65zj34qj") (f (quote (("default" "rayon" "adaptive_multithreading") ("adaptive_multithreading"))))))
+
+(define-public crate-gfwx-0.2.0 (c (n "gfwx") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 2)) (d (n "criterion") (r "^0.2.6") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "13ghd7dhsd0830a4p5880h904lm194i44fiz76q0ad2729j3rmc4") (f (quote (("default" "rayon" "adaptive_multithreading") ("adaptive_multithreading"))))))
+
+(define-public crate-gfwx-0.3.0 (c (n "gfwx") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 2)) (d (n "criterion") (r "^0.2.6") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "0iy1939gzav5k4adbzmld496hmf924g9rnzy7hgaby0h6qizff09") (f (quote (("default" "rayon" "adaptive_multithreading") ("adaptive_multithreading"))))))
+

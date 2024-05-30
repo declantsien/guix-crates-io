@@ -1,0 +1,4 @@
+(define-module (crates-io fr ac fractl_lib) #:use-module (crates-io))
+
+(define-public crate-fractl_lib-0.1.0 (c (n "fractl_lib") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.14") (o #t) (d #t) (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "cgmath") (r "^0.18") (d #t) (k 0)) (d (n "flume") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "fontdue") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.24") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "pollster") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "wgpu") (r "^0.18") (o #t) (d #t) (k 0)) (d (n "winit") (r "^0.29") (o #t) (k 0)))) (h "1dl3ak3b7p9l5xzzkmyva7salifkxx2gc25f2a8j6vfls671ddd5") (f (quote (("f64") ("f32") ("default" "f64")))) (s 2) (e (quote (("winit" "dep:winit") ("multithread" "dep:rayon") ("image" "dep:image") ("gpu" "dep:bytemuck" "bytemuck/derive" "dep:flume" "dep:pollster" "dep:wgpu"))))))
+

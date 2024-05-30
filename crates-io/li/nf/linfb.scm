@@ -1,0 +1,8 @@
+(define-module (crates-io li nf linfb) #:use-module (crates-io))
+
+(define-public crate-linfb-0.1.0 (c (n "linfb") (v "0.1.0") (d (list (d (n "memmap") (r "~0.7.0") (d #t) (k 0)) (d (n "nix") (r "~0.15.0") (d #t) (k 0)))) (h "18fcl35ssp3js3mckhjd904v2qbm8p7wv7iddmvpldbsivznnl9v")))
+
+(define-public crate-linfb-0.2.0 (c (n "linfb") (v "0.2.0") (d (list (d (n "derive_builder") (r "~0.7.2") (d #t) (k 0)) (d (n "downcast-rs") (r "~1.0.4") (d #t) (k 0)) (d (n "font-loader") (r "~0.8.0") (o #t) (d #t) (k 0)) (d (n "image") (r "~0.22.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (o #t) (d #t) (k 0)) (d (n "memmap") (r "~0.7.0") (d #t) (k 0)) (d (n "nix") (r "~0.15.0") (d #t) (k 0)) (d (n "rusttype") (r "~0.8.0") (o #t) (d #t) (k 0)) (d (n "xi-unicode") (r "~0.2") (o #t) (d #t) (k 0)))) (h "0plr72r5hf3nkvay9czfrgr1ywzjhlprxbb0xvfmp77gc6rm3hks") (f (quote (("text" "rusttype" "font-loader" "lazy_static" "xi-unicode") ("images" "image") ("default" "text" "images"))))))
+
+(define-public crate-linfb-0.2.1 (c (n "linfb") (v "0.2.1") (d (list (d (n "derive_builder") (r "~0.7.2") (d #t) (k 0)) (d (n "downcast-rs") (r "~1.0.4") (d #t) (k 0)) (d (n "font-loader") (r "~0.8.0") (o #t) (d #t) (k 0)) (d (n "image") (r "~0.22.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (o #t) (d #t) (k 0)) (d (n "memmap") (r "~0.7.0") (d #t) (k 0)) (d (n "nix") (r "~0.15.0") (d #t) (k 0)) (d (n "rusttype") (r "~0.8.0") (o #t) (d #t) (k 0)) (d (n "xi-unicode") (r "~0.2") (o #t) (d #t) (k 0)))) (h "1kwvjv4vgdgwpjg3xdnzjvwzdarfgxpnpmjhg6fvc7bp9xkzci0k") (f (quote (("text" "rusttype" "font-loader" "lazy_static" "xi-unicode") ("images" "image") ("default" "text" "images"))))))
+

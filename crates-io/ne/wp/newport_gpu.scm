@@ -1,0 +1,6 @@
+(define-module (crates-io ne wp newport_gpu) #:use-module (crates-io))
+
+(define-public crate-newport_gpu-0.0.1 (c (n "newport_gpu") (v "0.0.1") (d (list (d (n "ash") (r "^0.32.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "newport_asset") (r "^0.0.1") (d #t) (k 0)) (d (n "newport_core") (r "^0.0.1") (d #t) (k 0)) (d (n "newport_engine") (r "^0.0.1") (d #t) (k 0)) (d (n "newport_log") (r "^0.0.1") (d #t) (k 0)) (d (n "newport_math") (r "^0.0.1") (d #t) (k 0)) (d (n "newport_os") (r "^0.0.1") (d #t) (k 0)))) (h "0qyzsbgw1sa31laxz6kvydbkjs5j8yhi7d3bv1qwnwdk3hz4crld") (f (quote (("vulkan") ("default" "vulkan"))))))
+
+(define-public crate-newport_gpu-0.2.0 (c (n "newport_gpu") (v "0.2.0") (d (list (d (n "ash") (r "^0.32.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "hassle-rs") (r "^0.5.2") (d #t) (k 0)) (d (n "newport_asset") (r "^0.2.0") (d #t) (k 0)) (d (n "newport_engine") (r "^0.2.0") (d #t) (k 0)) (d (n "newport_log") (r "^0.2.0") (d #t) (k 0)) (d (n "newport_math") (r "^0.2.0") (d #t) (k 0)) (d (n "newport_os") (r "^0.2.0") (d #t) (k 0)) (d (n "newport_serde") (r "^0.2.0") (d #t) (k 0)))) (h "02avl13m2dc20y2v46xplvk4wdiir6xy6s9gid5j5dnbjjjcxwwd") (f (quote (("vulkan") ("default" "vulkan"))))))
+

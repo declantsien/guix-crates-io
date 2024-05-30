@@ -1,0 +1,6 @@
+(define-module (crates-io tu rt turtlefmt) #:use-module (crates-io))
+
+(define-public crate-turtlefmt-0.1.0 (c (n "turtlefmt") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffy") (r "^0.3") (d #t) (k 0)) (d (n "oxigraph") (r "^0.3") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tree-sitter") (r "^0.20") (d #t) (k 0)) (d (n "tree-sitter-cli") (r "^0.20") (d #t) (k 1)) (d (n "tree-sitter-cli") (r "^0.20") (d #t) (k 2)))) (h "1f1lwrqmhv0d5j5fdwdfsyjwksrjy5x156203rnaydim3s0ify34") (r "1.65.0")))
+
+(define-public crate-turtlefmt-0.1.1 (c (n "turtlefmt") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffy") (r "^0.3.0") (d #t) (k 0)) (d (n "oxigraph") (r "^0.3.22") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-cli") (r "^0.20.8") (d #t) (k 1)) (d (n "tree-sitter-cli") (r "^0.20.8") (d #t) (k 2)))) (h "0vbas2g1v0qf5kr8pk23xqlapk5d62353iydhhpyxihmzsa0jkvr") (r "1.70.0")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ma ni manifest-server) #:use-module (crates-io))
+
+(define-public crate-manifest-server-0.1.1-beta.1 (c (n "manifest-server") (v "0.1.1-beta.1") (d (list (d (n "axum") (r "^0.5.16") (d #t) (k 0)) (d (n "manifest-filter") (r "^0.1.1-beta.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "16wafdaxhrdfldqj3dvki155gkwqxpl42mvkajmmqxn0j3l7w5xc")))
+
+(define-public crate-manifest-server-0.1.1-beta.2 (c (n "manifest-server") (v "0.1.1-beta.2") (d (list (d (n "axum") (r "^0.5.16") (d #t) (k 0)) (d (n "manifest-filter") (r "^0.1.1-beta.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1zbszs4xm63nlw1a8y9smjaialdirg2m3ln5822ad1gvgimbc7a1")))
+
+(define-public crate-manifest-server-0.1.1 (c (n "manifest-server") (v "0.1.1") (d (list (d (n "axum") (r "^0.5.16") (d #t) (k 0)) (d (n "manifest-filter") (r "^0.1.1-beta.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1bdnc5lv970pqbs9byr3yzrnls1np819z1wcjiij1p16f0v72sv8")))
+
+(define-public crate-manifest-server-0.1.2 (c (n "manifest-server") (v "0.1.2") (d (list (d (n "axum") (r "^0.5.16") (d #t) (k 0)) (d (n "manifest-filter") (r "^0.1.1-beta.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1k7425n2gykvvibn9y1pl4j0yz5xfcdmnnrll2razsmank3zxaz3")))
+

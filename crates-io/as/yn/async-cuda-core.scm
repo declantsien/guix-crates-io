@@ -1,0 +1,16 @@
+(define-module (crates-io as yn async-cuda-core) #:use-module (crates-io))
+
+(define-public crate-async-cuda-core-0.1.0 (c (n "async-cuda-core") (v "0.1.0") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "14ldbp6xd4qr2w6iclkklzgbqzw3zmr0waibywy7d6k6n7s92x71")))
+
+(define-public crate-async-cuda-core-0.1.1 (c (n "async-cuda-core") (v "0.1.1") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0jcq59h74gsa9vp4aia6ipcqa29bvyq1h7qnfkdq4cir7z1lblnd")))
+
+(define-public crate-async-cuda-core-0.1.2 (c (n "async-cuda-core") (v "0.1.2") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1v4qkmn061x4p7y37qrx7mb5swzv91cwxb3lrspxs7j346dym1bi")))
+
+(define-public crate-async-cuda-core-0.1.3 (c (n "async-cuda-core") (v "0.1.3") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "19xgbp0vd5ldjsyychfybhd3hm8p1vps1law7kdb3hdv56vm6cws")))
+
+(define-public crate-async-cuda-core-0.2.0 (c (n "async-cuda-core") (v "0.2.0") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1j2hfmmg8bl6ldl07kk54cdg3by8dmd7ahnirbj9nsz057zq63p9")))
+
+(define-public crate-async-cuda-core-0.3.0 (c (n "async-cuda-core") (v "0.3.0") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "19gikvr44nidxy7h4s8y8b5zhq742ihgsvr96yihvapawkzrinlb")))
+
+(define-public crate-async-cuda-core-0.4.0 (c (n "async-cuda-core") (v "0.4.0") (d (list (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "test-util" "time"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1cwvsij2p77q7b7g33la7zdyvi1fkmzrnzyy666827ih58bk43fs")))
+

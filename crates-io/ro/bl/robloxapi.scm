@@ -1,0 +1,12 @@
+(define-module (crates-io ro bl robloxapi) #:use-module (crates-io))
+
+(define-public crate-robloxapi-0.0.1 (c (n "robloxapi") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1d02qsfj1w6zkz5w8shpjaxbm840ssrx016pich4irfq6kbjkfd3")))
+
+(define-public crate-robloxapi-0.0.11 (c (n "robloxapi") (v "0.0.11") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1pjcczdhdm55y3qvf740yknbpqd3pfnd8pp847ln27n79hm870l6")))
+
+(define-public crate-robloxapi-0.0.12 (c (n "robloxapi") (v "0.0.12") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1pnms0ikgd4hndxx2alwf6c7j4l53piy11mzbhl5sza8n5nfb812")))
+
+(define-public crate-robloxapi-0.0.13 (c (n "robloxapi") (v "0.0.13") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1i6gdz2n4m1li259c3xnk9brxp1infc51kpma8bysrg24qc4m9ch")))
+
+(define-public crate-robloxapi-0.0.14 (c (n "robloxapi") (v "0.0.14") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "122p0swa6l3dhw9pdxp0wx89b43w94p3gx4h7lscnkkii4h187pr")))
+

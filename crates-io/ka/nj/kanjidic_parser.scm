@@ -1,0 +1,10 @@
+(define-module (crates-io ka nj kanjidic_parser) #:use-module (crates-io))
+
+(define-public crate-kanjidic_parser-0.1.0 (c (n "kanjidic_parser") (v "0.1.0") (d (list (d (n "kanjidic_types") (r "^0.1.1") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "074954v3008bj4kh592g30q88894wz3ypxjac4h3si7vfk7z0qia")))
+
+(define-public crate-kanjidic_parser-0.1.1 (c (n "kanjidic_parser") (v "0.1.1") (d (list (d (n "kanjidic_types") (r "^0.1.2") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "0ng02lixxfd2dz4fq4mdym21lddw5bi8wj5qq5bizm6zrbrfj4ch")))
+
+(define-public crate-kanjidic_parser-0.1.2 (c (n "kanjidic_parser") (v "0.1.2") (d (list (d (n "kanjidic_types") (r "^0.1.3") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "0bg82ah4d780x0y7ay6d83kw0nmb87pgnl5c69bibgrw2gc27r4s")))
+
+(define-public crate-kanjidic_parser-0.1.3 (c (n "kanjidic_parser") (v "0.1.3") (d (list (d (n "kanjidic_types") (r "^0.1.4") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "0bzbs5r90dgyap19f2yiih405kxq5z12zzdz3fn8n798vd6vysbv")))
+

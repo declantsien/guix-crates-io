@@ -1,0 +1,4 @@
+(define-module (crates-io sc yl scylla-cdc) #:use-module (crates-io))
+
+(define-public crate-scylla-cdc-0.1.0 (c (n "scylla-cdc") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.48") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "scylla") (r "^0.8.1") (d #t) (k 0)) (d (n "tokio") (r "^1.1.0") (f (quote ("rt" "io-util" "net" "time" "macros" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.1.0") (f (quote ("rt" "io-util" "net" "time" "macros" "sync" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.31") (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v1"))) (d #t) (k 0)))) (h "0j44ki146dfjsd4d8vhkj6qffgj4dyg6x64d8kvk4mrrvplyp1mr")))
+

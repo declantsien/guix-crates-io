@@ -1,0 +1,4 @@
+(define-module (crates-io ba sh bash-on-atcoder) #:use-module (crates-io))
+
+(define-public crate-bash-on-atcoder-0.1.0 (c (n "bash-on-atcoder") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.33") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "curl") (r "^0.4.34") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (d #t) (k 0)) (d (n "rprompt") (r "^1.0.5") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.20") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0bjl6iz2w6nbb7gm7xh70h5048y5gq38i5a8fpppzc4s75v8hzn0")))
+

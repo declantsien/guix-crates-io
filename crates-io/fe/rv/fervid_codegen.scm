@@ -1,0 +1,6 @@
+(define-module (crates-io fe rv fervid_codegen) #:use-module (crates-io))
+
+(define-public crate-fervid_codegen-0.0.1 (c (n "fervid_codegen") (v "0.0.1") (d (list (d (n "fervid_core") (r "^0.0.1") (d #t) (k 0)) (d (n "flagset") (r "^0.4.3") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "swc_core") (r "0.75.*") (f (quote ("common_plugin_transform" "ecma_ast"))) (d #t) (k 0)) (d (n "swc_ecma_codegen") (r "0.138.*") (d #t) (k 0)) (d (n "swc_ecma_parser") (r "0.133.*") (d #t) (k 2)))) (h "0wg9j1rr8rjfy9xc4y3nzqp7cplxsspc4wl4sy4nr9q41g9bfiqz")))
+
+(define-public crate-fervid_codegen-0.1.0 (c (n "fervid_codegen") (v "0.1.0") (d (list (d (n "fervid_core") (r "^0.1") (d #t) (k 0)) (d (n "flagset") (r "^0.4.3") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "panic-message") (r "^0.3.0") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "swc_core") (r "0.86.*") (f (quote ("ecma_ast" "ecma_ast"))) (d #t) (k 0)) (d (n "swc_ecma_codegen") (r "0.146.*") (d #t) (k 0)) (d (n "swc_ecma_parser") (r "0.141.*") (d #t) (k 2)))) (h "1kks7bghpsfj61hlricg335msxrxxnr86g6mhw3kxif394h268mv")))
+

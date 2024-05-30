@@ -1,0 +1,6 @@
+(define-module (crates-io aw s- aws-bootstrap) #:use-module (crates-io))
+
+(define-public crate-aws-bootstrap-0.1.0 (c (n "aws-bootstrap") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.1") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1wrrg9zd8ariqi8xmxgql9ih6irmshxr5fn3m96fg3nid3i19cry") (y #t) (r "1.58")))
+
+(define-public crate-aws-bootstrap-0.1.1 (c (n "aws-bootstrap") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.1") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "002xflik8487jdkkl53wfkfj7x7fpqa0xq1hj7jyj19sgb2qkl1h") (r "1.58")))
+

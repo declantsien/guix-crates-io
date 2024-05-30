@@ -1,0 +1,4 @@
+(define-module (crates-io ep ic epic_p2p) #:use-module (crates-io))
+
+(define-public crate-epic_p2p-3.0.0 (c (n "epic_p2p") (v "3.0.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "enum_primitive") (r "^0.1") (d #t) (k 0)) (d (n "epic_chain") (r "^3.0.0") (d #t) (k 0)) (d (n "epic_core") (r "^3.0.0") (d #t) (k 0)) (d (n "epic_pool") (r "^3.0.0") (d #t) (k 2)) (d (n "epic_store") (r "^3.0.0") (d #t) (k 0)) (d (n "epic_util") (r "^3.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru-cache") (r "^0.1") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.5") (d #t) (k 0)))) (h "1imrhnnldpxbzp64p48drxss006045bsx3qzpq445ldjbkc498lm")))
+

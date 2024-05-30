@@ -1,0 +1,8 @@
+(define-module (crates-io ka lo kalosm-sample) #:use-module (crates-io))
+
+(define-public crate-kalosm-sample-0.1.0 (c (n "kalosm-sample") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "candle-core") (r "^0.3.1") (d #t) (k 0)) (d (n "llm-samplers") (r "=0.0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tokenizers") (r "^0.13.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "148d0cvc170a1c93qsdfy5nbbvmgkpa712lmhda6mzsqqsacv26m")))
+
+(define-public crate-kalosm-sample-0.2.0 (c (n "kalosm-sample") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "candle-core") (r "=0.3.2") (d #t) (k 0)) (d (n "llm-samplers") (r "=0.0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex-automata") (r "^0.4.5") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tokenizers") (r "^0.13.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1smd1cd66v22az66062mkkci1yy17z0c5mdsbga5p469igqmsdfj")))
+
+(define-public crate-kalosm-sample-0.2.1 (c (n "kalosm-sample") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "candle-core") (r "=0.3.2") (d #t) (k 0)) (d (n "llm-samplers") (r "=0.0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex-automata") (r "^0.4.5") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tokenizers") (r "^0.13.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "12fn1hhd8d2h2qlw6miyrmi0mhb1pw4qd1y44aivy8m3l03haj67") (f (quote (("llamacpp"))))))
+

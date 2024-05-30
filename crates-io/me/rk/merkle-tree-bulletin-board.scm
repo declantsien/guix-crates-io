@@ -1,0 +1,10 @@
+(define-module (crates-io me rk merkle-tree-bulletin-board) #:use-module (crates-io))
+
+(define-public crate-merkle-tree-bulletin-board-0.1.0 (c (n "merkle-tree-bulletin-board") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "1164ibjcfb6631rxj5mlnlxh2ngidjrl75zs8j3k7fk4kspird1n")))
+
+(define-public crate-merkle-tree-bulletin-board-0.1.1 (c (n "merkle-tree-bulletin-board") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "0y3l90w6a3xz3kzkmkbi9bs0q861hhg64516sh0np52s9nva0wvj")))
+
+(define-public crate-merkle-tree-bulletin-board-0.2.0 (c (n "merkle-tree-bulletin-board") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "0mgzjl5skvn9j9p03f6rzg6a3rs2lsg8m0yy2pvwnh9mkwdwhg71")))
+
+(define-public crate-merkle-tree-bulletin-board-0.3.0 (c (n "merkle-tree-bulletin-board") (v "0.3.0") (d (list (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "1znm2abw1si3l9121v7syrlgvfrmms3bg10f4bhywgid2rli732p")))
+

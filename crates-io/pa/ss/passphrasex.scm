@@ -1,0 +1,6 @@
+(define-module (crates-io pa ss passphrasex) #:use-module (crates-io))
+
+(define-public crate-passphrasex-0.1.0 (c (n "passphrasex") (v "0.1.0") (d (list (d (n "app_dirs2") (r "^2.5.5") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "passphrasex_common") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1snnpvrlxqx11rwc83w5qvg2na6f127l19d4gddwlg54yyl1ayjb")))
+
+(define-public crate-passphrasex-0.2.0 (c (n "passphrasex") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "app_dirs2") (r "^2.5.5") (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "passphrasex_common") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1liiz2ra45i9h9kjrr93yl9wmpkjc7c7bf8iv2d0z7rsd5155pdn")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io so la solarti-token-group-interface) #:use-module (crates-io))
+
+(define-public crate-solarti-token-group-interface-0.1.0 (c (n "solarti-token-group-interface") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.14.0") (d #t) (k 0)) (d (n "miraland-program") (r "^1.14.18") (d #t) (k 0)) (d (n "solarti-discriminator") (r "^0.1.0") (d #t) (k 0)) (d (n "solarti-pod") (r "^0.1.0") (f (quote ("borsh"))) (d #t) (k 0)) (d (n "solarti-program-error") (r "^0.3.0") (d #t) (k 0)) (d (n "solarti-type-length-value") (r "^0.3.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "0ml8cj5664pbwlnnnisz4895h424sngi021pdd8xnridq27zcjsy")))
+
+(define-public crate-solarti-token-group-interface-0.1.1 (c (n "solarti-token-group-interface") (v "0.1.1") (d (list (d (n "bytemuck") (r "^1.14.0") (d #t) (k 0)) (d (n "miraland-program") (r "^1.18.2") (d #t) (k 0)) (d (n "solarti-discriminator") (r "^0.1.5") (d #t) (k 0)) (d (n "solarti-pod") (r "^0.1.4") (f (quote ("borsh"))) (d #t) (k 0)) (d (n "solarti-program-error") (r "^0.3.5") (d #t) (k 0)) (d (n "solarti-type-length-value") (r "^0.3.4") (f (quote ("derive"))) (d #t) (k 2)))) (h "0128v0gkcrhlfz8affsw2qj8xx0qlj4pg4g3zq83c3fvfnds4m29")))
+
+(define-public crate-solarti-token-group-interface-0.1.2 (c (n "solarti-token-group-interface") (v "0.1.2") (d (list (d (n "bytemuck") (r "^1.14.0") (d #t) (k 0)) (d (n "miraland-program") (r ">=1.18.2") (d #t) (k 0)) (d (n "solarti-discriminator") (r "^0.1.5") (d #t) (k 0)) (d (n "solarti-pod") (r "^0.1.4") (f (quote ("borsh"))) (d #t) (k 0)) (d (n "solarti-program-error") (r "^0.3.5") (d #t) (k 0)) (d (n "solarti-type-length-value") (r "^0.3.4") (f (quote ("derive"))) (d #t) (k 2)))) (h "1xa3khjsfiwgc4ca3dxn2iv6vnd5xbs2y6ywjy94xzjpq673h5zd")))
+

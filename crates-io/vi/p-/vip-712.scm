@@ -1,0 +1,4 @@
+(define-module (crates-io vi p- vip-712) #:use-module (crates-io))
+
+(define-public crate-vip-712-0.1.1 (c (n "vip-712") (v "0.1.1") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "lunarity-lexer") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tetsy-keccak-hash") (r "^0.4.0") (d #t) (k 0)) (d (n "validator") (r "^0.8") (d #t) (k 0)) (d (n "validator_derive") (r "^0.8") (d #t) (k 0)) (d (n "vapabi") (r "^9.0.1") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "1fzj7hdgifc6n620n76i852z18zqvdhjl3g352970zyyszgl5day")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ch ro chrometracer) #:use-module (crates-io))
+
+(define-public crate-chrometracer-0.1.0 (c (n "chrometracer") (v "0.1.0") (d (list (d (n "chrometracer-attributes") (r "^0.1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-chrometrace") (r "^0.1.18") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "1q8nf9scy8k8s2zzdn3193kr8gvplh0r8km9iq5wx2ib1bf3p6pa")))
+
+(define-public crate-chrometracer-0.1.1 (c (n "chrometracer") (v "0.1.1") (d (list (d (n "chrometracer-attributes") (r "^0.1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "crossbeam-queue") (r "^0.3.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-chrometrace") (r "^0.1.19") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "0finslcr16lzgdscr3zzhqx7zfwm4xj3xcfs2wv8vs2cg2ixlr6m")))
+

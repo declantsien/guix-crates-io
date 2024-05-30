@@ -1,0 +1,10 @@
+(define-module (crates-io ac ti actix-web-stackdriver-middleware) #:use-module (crates-io))
+
+(define-public crate-actix-web-stackdriver-middleware-0.1.0 (c (n "actix-web-stackdriver-middleware") (v "0.1.0") (d (list (d (n "actix-web") (r "^2") (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1sa4bfx96m1j0k9r0zlbp859bba8dk1g2kwvcwclwr5p3svlsjkp")))
+
+(define-public crate-actix-web-stackdriver-middleware-0.2.0 (c (n "actix-web-stackdriver-middleware") (v "0.2.0") (d (list (d (n "actix-web") (r "^2") (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "02hp49bvh4ra06hi94fnvlcp3pzl52j9hv0vmy40hrw9h7ls5k4k")))
+
+(define-public crate-actix-web-stackdriver-middleware-0.2.1 (c (n "actix-web-stackdriver-middleware") (v "0.2.1") (d (list (d (n "actix-web") (r "^2") (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0qjzsdjxkm10dkakdns31rw6v52xnclnnjz73iag363s104gfdj8")))
+
+(define-public crate-actix-web-stackdriver-middleware-0.2.2 (c (n "actix-web-stackdriver-middleware") (v "0.2.2") (d (list (d (n "actix-web") (r "^2") (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1209fmvqmq0c3w5zmlly17jgsm00j0sy79pgjng9pknnh2bxjd55")))
+

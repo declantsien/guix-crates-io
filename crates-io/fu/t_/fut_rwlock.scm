@@ -1,0 +1,4 @@
+(define-module (crates-io fu t_ fut_rwlock) #:use-module (crates-io))
+
+(define-public crate-fut_rwlock-0.1.0 (c (n "fut_rwlock") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.16") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 2)) (d (n "instant") (r "^0.1.9") (f (quote ("wasm-bindgen" "now"))) (d #t) (k 2)) (d (n "js-function-promisify") (r "^0.2.1") (d #t) (k 2)) (d (n "js-sys") (r "^0.3.51") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 2)) (d (n "tokio") (r "^1.8.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "wasm-bindgen-futures") (r "^0.4.24") (d #t) (k 2)) (d (n "wasm-bindgen-test") (r "^0.3.24") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.51") (f (quote ("Window" "console"))) (d #t) (k 2)))) (h "1m6b0kwx165g5dbx3y1mvvfw0vdm7c3z60ibdg4hh93vjjva0qc3")))
+

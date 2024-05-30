@@ -1,0 +1,6 @@
+(define-module (crates-io su sy susy-jsonrpc-ipc-server) #:use-module (crates-io))
+
+(define-public crate-susy-jsonrpc-ipc-server-10.1.0 (c (n "susy-jsonrpc-ipc-server") (v "10.1.0") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "susy-jsonrpc-core") (r "^10.1") (d #t) (k 0)) (d (n "susy-jsonrpc-server-utils") (r "^10.1") (d #t) (k 0)) (d (n "susy-tokio-ipc") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (d #t) (t "cfg(not(windows))") (k 2)))) (h "1kxfsrsqyv84fdyyqgi6y37vj6bmv55vcmdvffkcmkdy789225gd")))
+
+(define-public crate-susy-jsonrpc-ipc-server-10.0.1 (c (n "susy-jsonrpc-ipc-server") (v "10.0.1") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "susy-jsonrpc-core") (r "^10.0") (d #t) (k 0)) (d (n "susy-jsonrpc-server-utils") (r "^10.0") (d #t) (k 0)) (d (n "susy-tokio-ipc") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (d #t) (t "cfg(not(windows))") (k 2)))) (h "00nnflchga7zynlpnh33y8hyw5zsss7yddng7jv0qi5kj1w6wywq")))
+

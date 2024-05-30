@@ -1,0 +1,6 @@
+(define-module (crates-io vv mb vvmbin) #:use-module (crates-io))
+
+(define-public crate-vvmbin-0.0.0 (c (n "vvmbin") (v "0.0.0") (h "0pv6h6iz43kr59wcv8sivl6g6i59zjq1kbwrj52p85x4wxyv9vxa") (y #t)))
+
+(define-public crate-vvmbin-0.1.0 (c (n "vvmbin") (v "0.1.0") (d (list (d (n "account-state") (r "^0.1.0") (d #t) (k 0)) (d (n "common-types") (r "^0.1.0") (f (quote ("test-helpers"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "panic-hook") (r "^0.1.0") (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "tetsy-bytes") (r "^0.1") (d #t) (k 0)) (d (n "tetsy-vm") (r "^0.1.0") (d #t) (k 0)) (d (n "vapcore") (r "^1.12.1") (f (quote ("test-helpers" "json-tests"))) (d #t) (k 0)) (d (n "vapcore-pod") (r "^0.1.0") (d #t) (k 0)) (d (n "vapcore-spec") (r "^0.1.0") (d #t) (k 0)) (d (n "vapcore-trace") (r "^0.1.0") (d #t) (k 0)) (d (n "vapjson") (r "^0.1.0") (f (quote ("test-helpers"))) (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)) (d (n "vvm") (r "^0.1.0") (d #t) (k 0)))) (h "0d85rj89205yqggvqmvdp94bi2filb90y0qr03nrc8nllp504z4i") (f (quote (("vvm-debug" "vapcore/vvm-debug-tests"))))))
+

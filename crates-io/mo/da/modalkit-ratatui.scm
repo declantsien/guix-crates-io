@@ -1,0 +1,8 @@
+(define-module (crates-io mo da modalkit-ratatui) #:use-module (crates-io))
+
+(define-public crate-modalkit-ratatui-0.0.17 (c (n "modalkit-ratatui") (v "0.0.17") (d (list (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "intervaltree") (r "^0.2.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "modalkit") (r "^0.0.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "ratatui") (r "^0.23") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1nzap3wmb80bcsa9bdl6wn5633xkjz10gb40wbfk65qa0nf5p9bw") (r "1.67")))
+
+(define-public crate-modalkit-ratatui-0.0.18 (c (n "modalkit-ratatui") (v "0.0.18") (d (list (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "intervaltree") (r "^0.2.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "modalkit") (r "^0.0.18") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "ratatui") (r "^0.23") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0aqywf5pdsks1nxgd550mxlp4ybiyhqncyx3aahn4jzwdg1kszkl") (r "1.67")))
+
+(define-public crate-modalkit-ratatui-0.0.19 (c (n "modalkit-ratatui") (v "0.0.19") (d (list (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "intervaltree") (r "^0.2.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "modalkit") (r "^0.0.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "ratatui") (r "^0.26") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "104a3hmqqzci32h1csq71dqhn2vm57hk89rj5g41lgcdbwzl4cxc") (r "1.70")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io di nv dinvoke_overload) #:use-module (crates-io))
+
+(define-public crate-dinvoke_overload-0.1.1 (c (n "dinvoke_overload") (v "0.1.1") (d (list (d (n "dinvoke") (r "^0.1.1") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.0") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.0") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)) (d (n "winproc") (r "^0.6.4") (d #t) (k 0)))) (h "0sclb9d942irgksjn9d88r56gi71qqxxi2qfwv5ljls5p1wvmag9")))
+
+(define-public crate-dinvoke_overload-0.1.2 (c (n "dinvoke_overload") (v "0.1.2") (d (list (d (n "dinvoke") (r "^0.1.2") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.1") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.2") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.1") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)) (d (n "winproc") (r "^0.6.4") (d #t) (k 0)))) (h "09ik82nznymg0sf39zcrcjl2fx8r3f8mwsa0ss196ljb3yi002lx")))
+
+(define-public crate-dinvoke_overload-0.1.3 (c (n "dinvoke_overload") (v "0.1.3") (d (list (d (n "dinvoke") (r "^0.1.3") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.1") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.2") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.2") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)) (d (n "winproc") (r "^0.6.4") (d #t) (k 0)))) (h "1i5s4idskl7lk3f9xsyln7nddkf0gj14l8p7bdm60vrzx7fj0kq7")))
+
+(define-public crate-dinvoke_overload-0.1.4 (c (n "dinvoke_overload") (v "0.1.4") (d (list (d (n "dinvoke") (r "^0.1.4") (d #t) (k 0)) (d (n "dinvoke_data") (r "^0.1.2") (d #t) (k 0)) (d (n "litcrypt2") (r "^0.1.2") (d #t) (k 0)) (d (n "manualmap") (r "^0.1.3") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "windows") (r "^0.51") (f (quote ("Win32_Foundation"))) (d #t) (k 0)) (d (n "winproc") (r "^0.6.4") (d #t) (k 0)))) (h "19qlh2vmzfgl776nzgvqkhsw6l46vvb992zvfdc55yr6740vspld")))
+

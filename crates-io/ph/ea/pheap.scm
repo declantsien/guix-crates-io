@@ -1,0 +1,8 @@
+(define-module (crates-io ph ea pheap) #:use-module (crates-io))
+
+(define-public crate-pheap-0.1.0 (c (n "pheap") (v "0.1.0") (d (list (d (n "addressable-pairing-heap") (r "^0.2.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "keyed_priority_queue") (r "^0.3.2") (d #t) (k 2)) (d (n "pairing-heap") (r "^0.1.0") (d #t) (k 2)) (d (n "priority-queue") (r "^1.1.1") (d #t) (k 2)))) (h "16gzjxn988rbr38g60aw246ghbslrzl6yl44ynvi6yibbzxd93a7")))
+
+(define-public crate-pheap-0.2.0 (c (n "pheap") (v "0.2.0") (d (list (d (n "addressable-pairing-heap") (r "^0.2.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "keyed_priority_queue") (r "^0.3.2") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "pairing-heap") (r "^0.1.0") (d #t) (k 2)) (d (n "pathfinding") (r "^2.1.5") (d #t) (k 2)) (d (n "priority-queue") (r "^1.1.1") (d #t) (k 2)))) (h "09cha0b01sy5k4f7j80r88y8rcqb36jqzpj5j2llwk9c0846brii")))
+
+(define-public crate-pheap-0.3.0 (c (n "pheap") (v "0.3.0") (d (list (d (n "addressable-pairing-heap") (r "^0.2.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "keyed_priority_queue") (r "^0.3.2") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "pairing-heap") (r "^0.1.0") (d #t) (k 2)) (d (n "pathfinding") (r "^2.1.5") (d #t) (k 2)) (d (n "priority-queue") (r "^1.1.1") (d #t) (k 2)))) (h "0m9bxnz3a2n6idi37i8q2735ap5djfvckhybqlayl2dh7hkzzzb4")))
+

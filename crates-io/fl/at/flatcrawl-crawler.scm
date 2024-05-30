@@ -1,0 +1,4 @@
+(define-module (crates-io fl at flatcrawl-crawler) #:use-module (crates-io))
+
+(define-public crate-flatcrawl-crawler-1.0.0 (c (n "flatcrawl-crawler") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.9") (d #t) (k 0)) (d (n "config") (r "^0.9.3") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.20") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "kuchiki") (r "^0.7.3") (d #t) (k 0)) (d (n "lapin-futures") (r "^0.28.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "1iv8fampg3dssj7s6wqag73h6s3x5cm26iiff6lh31a29zrj9b8w")))
+

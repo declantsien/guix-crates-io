@@ -1,0 +1,4 @@
+(define-module (crates-io ri nc rincon_connector) #:use-module (crates-io))
+
+(define-public crate-rincon_connector-0.1.0 (c (n "rincon_connector") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.11") (d #t) (k 2)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "hyper-timeout") (r "^0.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^0.8") (d #t) (k 2)) (d (n "native-tls") (r "^0.1") (d #t) (k 0)) (d (n "rincon_core") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1njg5fx0lcg89s1rkrk51j65fp26mxh79vycqg7rkjzwyq7bijbd")))
+

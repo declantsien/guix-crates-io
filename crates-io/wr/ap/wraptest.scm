@@ -1,0 +1,8 @@
+(define-module (crates-io wr ap wraptest) #:use-module (crates-io))
+
+(define-public crate-wraptest-0.1.0 (c (n "wraptest") (v "0.1.0") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.68") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.25") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2.17") (f (quote ("fmt"))) (d #t) (k 2)))) (h "1ndcx1v58qywkwjzbqbjqjbzpkd000gkhnd13dixxhq2l1gi06mi")))
+
+(define-public crate-wraptest-0.2.0 (c (n "wraptest") (v "0.2.0") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.68") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.25") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2.17") (f (quote ("fmt"))) (d #t) (k 2)))) (h "0cbqbpz7cyl0s8k25wabyh51zbz8rzh16923i1d99q6w0pwch7s5")))
+
+(define-public crate-wraptest-0.2.1 (c (n "wraptest") (v "0.2.1") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.68") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("rt" "macros" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.25") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2.17") (f (quote ("fmt"))) (d #t) (k 2)))) (h "1dnvn84kld47bnpsmzdgn3kry7m83jhm2yal68kqj0mcijb459s5")))
+

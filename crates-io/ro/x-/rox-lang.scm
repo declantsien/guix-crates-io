@@ -1,0 +1,6 @@
+(define-module (crates-io ro x- rox-lang) #:use-module (crates-io))
+
+(define-public crate-rox-lang-0.0.0 (c (n "rox-lang") (v "0.0.0") (d (list (d (n "im") (r "^14.3.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.18.1") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.18.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.10.3") (d #t) (k 2)) (d (n "text_io") (r "^0.1.7") (d #t) (k 0)))) (h "03hfxgxiqafx7cs85jk1aza9y7jnh302s8pqfcp4pv138w85m1m9") (y #t)))
+
+(define-public crate-rox-lang-0.0.1 (c (n "rox-lang") (v "0.0.1") (d (list (d (n "cranelift") (r "^0.63") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.63") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.63") (d #t) (k 0)) (d (n "cranelift-object") (r "^0.63") (d #t) (k 0)) (d (n "cranelift-simplejit") (r "^0.63") (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "im") (r "^14.3.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.18.1") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.18.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "target-lexicon") (r "^0.10.0") (d #t) (k 0)))) (h "0jldpi1jwkspgz35ngjjhjv990w81670z4ahdpxpjb3j6xilw5kh")))
+

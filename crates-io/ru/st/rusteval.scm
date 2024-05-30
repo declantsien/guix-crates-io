@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rusteval) #:use-module (crates-io))
+
+(define-public crate-rusteval-0.1.0 (c (n "rusteval") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 2)) (d (n "core-error") (r "^0.0.1-rc4") (d #t) (k 0)) (d (n "inventory") (r "^0.1.9") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (o #t) (d #t) (k 0)) (d (n "rusteval-derive") (r "^0.1") (k 0)) (d (n "rustyline") (r "^6") (d #t) (k 2)) (d (n "rustyline-derive") (r "^0.3") (d #t) (k 2)))) (h "0jx9fldzfjmsymsb0mfa7nl1pgdv8zs35zwdflc44hy9ix658k3m") (f (quote (("std" "core-error/std" "rusteval-derive/std") ("default" "std" "inventory" "lazy_static"))))))
+
+(define-public crate-rusteval-0.2.0 (c (n "rusteval") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.5") (d #t) (k 2)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "inventory") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "rusteval-derive") (r "^0.2") (k 0)) (d (n "rustyline") (r "^6") (d #t) (k 2)) (d (n "rustyline-derive") (r "^0.3") (d #t) (k 2)))) (h "15p8prx3j2llb819fsd1a1mzifrxzlizj5mc1vjawjj734ygfyhb") (f (quote (("std" "rusteval-derive/std") ("default" "std" "inventory" "lazy_static"))))))
+

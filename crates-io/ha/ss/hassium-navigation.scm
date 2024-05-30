@@ -1,0 +1,10 @@
+(define-module (crates-io ha ss hassium-navigation) #:use-module (crates-io))
+
+(define-public crate-hassium-navigation-0.1.0 (c (n "hassium-navigation") (v "0.1.0") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 0)) (d (n "hassium-core") (r "^0.1") (d #t) (k 0)) (d (n "petgraph") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spade") (r "^1.0") (d #t) (k 0)))) (h "11lb9j3ymil9r0pf3icdwsmvcd6zvinq4nnz148hv5x16i9jwljx") (f (quote (("parallel" "hassium-core/parallel" "rayon"))))))
+
+(define-public crate-hassium-navigation-0.1.1 (c (n "hassium-navigation") (v "0.1.1") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 0)) (d (n "hassium-core") (r "^0.1.1") (d #t) (k 0)) (d (n "petgraph") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spade") (r "^1.0") (d #t) (k 0)))) (h "1hcqw5f8ww16jsn6bm531zqzav0j7xvc0y3fikbqlinaw9fzqrbf") (f (quote (("parallel" "hassium-core/parallel" "rayon"))))))
+
+(define-public crate-hassium-navigation-0.1.2 (c (n "hassium-navigation") (v "0.1.2") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 0)) (d (n "hassium-core") (r "^0.1.2") (d #t) (k 0)) (d (n "petgraph") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spade") (r "^1.0") (d #t) (k 0)))) (h "11a50x6x1qqgx97fvx02hz0dhrm5y8vhd3isvp4r49rba264zjh9") (f (quote (("parallel" "hassium-core/parallel" "rayon"))))))
+
+(define-public crate-hassium-navigation-0.1.3 (c (n "hassium-navigation") (v "0.1.3") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 0)) (d (n "hassium-core") (r "^0.1.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spade") (r "^1.0") (d #t) (k 0)))) (h "0c79kqzr3sdaaq3z0jsvsy363k8kxiivyj5q2k1ysli1m9jv7hv0") (f (quote (("parallel" "hassium-core/parallel" "rayon"))))))
+

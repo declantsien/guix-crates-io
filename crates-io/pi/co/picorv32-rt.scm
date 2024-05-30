@@ -1,0 +1,10 @@
+(define-module (crates-io pi co picorv32-rt) #:use-module (crates-io))
+
+(define-public crate-picorv32-rt-0.5.0 (c (n "picorv32-rt") (v "0.5.0") (d (list (d (n "picorv32") (r "^0.1.0") (d #t) (k 0)) (d (n "picorv32-rt-macros") (r "^0.1.5") (d #t) (k 0)) (d (n "r0") (r "^0.2.2") (d #t) (k 0)) (d (n "riscv") (r "^0.5.0") (d #t) (k 0)))) (h "0qzz9p93rjr57p9awp5b9scfp3l4by8miwmm345n3954iz84ss5p") (f (quote (("interrupts-qregs" "interrupts") ("interrupts") ("inline-asm" "riscv/inline-asm" "picorv32/inline-asm") ("default" "compressed-isa") ("compressed-isa"))))))
+
+(define-public crate-picorv32-rt-0.5.1 (c (n "picorv32-rt") (v "0.5.1") (d (list (d (n "picorv32") (r "^0.1.1") (d #t) (k 0)) (d (n "picorv32-rt-macros") (r "^0.1.5") (d #t) (k 0)) (d (n "r0") (r "^0.2.2") (d #t) (k 0)) (d (n "riscv") (r "^0.5.0") (d #t) (k 0)))) (h "1429hjm7fnhmk9kgk4fzlwqgrk3vir5vs9pc0m9clgw73bcfpc3f") (f (quote (("interrupts-qregs" "interrupts") ("interrupts") ("inline-asm" "riscv/inline-asm" "picorv32/inline-asm") ("default" "compressed-isa") ("compressed-isa"))))))
+
+(define-public crate-picorv32-rt-0.5.2 (c (n "picorv32-rt") (v "0.5.2") (d (list (d (n "picorv32") (r "^0.1.2") (d #t) (k 0)) (d (n "picorv32-rt-macros") (r "^0.1.5") (d #t) (k 0)) (d (n "r0") (r "^0.2.2") (d #t) (k 0)) (d (n "riscv") (r "^0.5.0") (d #t) (k 0)))) (h "1ivwfr0vpqg84y4rfi1jlks0w5yvmbiv8hp9m9fn9mdvjb6a24gd") (f (quote (("interrupts-qregs" "interrupts") ("interrupts") ("inline-asm" "riscv/inline-asm" "picorv32/inline-asm") ("default" "compressed-isa") ("const-fn" "picorv32/const-fn") ("compressed-isa"))))))
+
+(define-public crate-picorv32-rt-0.5.3 (c (n "picorv32-rt") (v "0.5.3") (d (list (d (n "picorv32") (r "^0.1.3") (d #t) (k 0)) (d (n "picorv32-rt-macros") (r "^0.1.5") (d #t) (k 0)) (d (n "r0") (r "^0.2.2") (d #t) (k 0)) (d (n "riscv") (r "^0.5.0") (d #t) (k 0)))) (h "1wjh2r2lrzdc17gbby3mpwvbd8wckspzllkw8s9dzps0pchpnllm") (f (quote (("interrupts-qregs" "interrupts") ("interrupts") ("inline-asm" "riscv/inline-asm" "picorv32/inline-asm") ("default" "compressed-isa") ("const-fn" "picorv32/const-fn") ("compressed-isa"))))))
+

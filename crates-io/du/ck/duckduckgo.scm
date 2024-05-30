@@ -1,0 +1,8 @@
+(define-module (crates-io du ck duckduckgo) #:use-module (crates-io))
+
+(define-public crate-duckduckgo-0.1.0 (c (n "duckduckgo") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("cookies"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "1h977cd302h278rz9lvn56llld4w5c1ik8glpxz4wgwrvw4drlkh")))
+
+(define-public crate-duckduckgo-0.1.1 (c (n "duckduckgo") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("cookies"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "0239yhdd2b6qjw3g0ar4jrx8ly9vknhjfmcy9cav7aji3v32v94b")))
+
+(define-public crate-duckduckgo-0.1.2 (c (n "duckduckgo") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("cookies"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)))) (h "1d7nphgi5nhsgda4ar2qj97khs9db9pj92ivplsbrpbalndqswsn")))
+

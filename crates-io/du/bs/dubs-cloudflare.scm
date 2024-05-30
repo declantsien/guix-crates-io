@@ -1,0 +1,4 @@
+(define-module (crates-io du bs dubs-cloudflare) #:use-module (crates-io))
+
+(define-public crate-dubs-cloudflare-0.3.1 (c (n "dubs-cloudflare") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "http") (r "^0.1.18") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4") (d #t) (k 0)) (d (n "serde_with") (r "^1.3.1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "slog") (r "^2.4") (d #t) (k 0)) (d (n "slog-term") (r "^2.4") (d #t) (k 0)) (d (n "sloggers") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "19jn62l5wm2h5lvgzyckir0azn2sa6n63wxizj91pn2vvidvsij2")))
+

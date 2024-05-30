@@ -1,0 +1,6 @@
+(define-module (crates-io me mo memory-lol) #:use-module (crates-io))
+
+(define-public crate-memory-lol-0.1.0 (c (n "memory-lol") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "priority-queue") (r "^1") (d #t) (k 0)) (d (n "rocksdb") (r "^0.18") (f (quote ("snappy"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0gbdadgvpp2zj9pq3z58b7lp6lqk3sp2kgavnfgziavy5v2zm7id")))
+
+(define-public crate-memory-lol-0.2.0 (c (n "memory-lol") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "priority-queue") (r "^1") (d #t) (k 0)) (d (n "rocksdb") (r "^0.19") (f (quote ("snappy"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0x3z0rf1w02rraigkdaqz1mv22gg6k05vqvm9lz9ihkx1wp805w9")))
+

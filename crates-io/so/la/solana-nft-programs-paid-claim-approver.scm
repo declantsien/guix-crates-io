@@ -1,0 +1,4 @@
+(define-module (crates-io so la solana-nft-programs-paid-claim-approver) #:use-module (crates-io))
+
+(define-public crate-solana-nft-programs-paid-claim-approver-4.6.0 (c (n "solana-nft-programs-paid-claim-approver") (v "4.6.0") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "solana-nft-programs-payment-manager") (r "^1.1.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "solana-nft-programs-token-manager") (r "^1.0.0") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "solana-program") (r "^1.10.29") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.1.2") (d #t) (k 0)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "15sbn06y93ykkl35bgadnmg6qk7p5mbmc59n0s5rr6qnahk1hcpc") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

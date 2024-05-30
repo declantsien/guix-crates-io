@@ -1,0 +1,10 @@
+(define-module (crates-io wa it wait-for-them) #:use-module (crates-io))
+
+(define-public crate-wait-for-them-0.1.0 (c (n "wait-for-them") (v "0.1.0") (d (list (d (n "assert_cmd") (r "~0.12") (d #t) (k 2)) (d (n "async-std") (r "^1.5") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)))) (h "0xplwkhv4ibq7qjisqq6qgkpc3dhg0y8cxzg9371rmdnhvmagpik") (f (quote (("default"))))))
+
+(define-public crate-wait-for-them-0.2.0 (c (n "wait-for-them") (v "0.2.0") (d (list (d (n "assert_cmd") (r "~0.12") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("tcp" "time" "process" "dns" "rt-threaded" "macros"))) (d #t) (k 0)))) (h "0iki9mf0901z2c7livwjxibjk2i8l7i2nd3yy2wrhzmnk2l72jyj") (f (quote (("default"))))))
+
+(define-public crate-wait-for-them-0.3.1 (c (n "wait-for-them") (v "0.3.1") (d (list (d (n "assert_cmd") (r "~0.12") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("tcp" "time" "process" "dns" "rt-threaded" "macros" "blocking"))) (d #t) (k 0)))) (h "1mqjn3kbf2r22cbcwxda34pw5v935qfxilf0ax2mpksx8daa39ps") (f (quote (("ui" "indicatif") ("default"))))))
+
+(define-public crate-wait-for-them-0.4.0 (c (n "wait-for-them") (v "0.4.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "http2"))) (o #t) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.23") (f (quote ("native-tokio" "http1" "http2" "tls12"))) (o #t) (k 0)) (d (n "indicatif") (r "^0.17") (f (quote ("tokio"))) (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.25") (f (quote ("macros" "net" "process" "rt" "rt-multi-thread" "sync" "time"))) (d #t) (k 0)) (d (n "assert_cmd") (r "~2.0") (d #t) (k 2)))) (h "1zwxncw5rk97l3jyzm8wchnwrzyn4ylr85iiigs3w6cpcqlfhb1g") (f (quote (("ui" "indicatif") ("http" "hyper" "hyper-rustls") ("default" "ui" "http"))))))
+

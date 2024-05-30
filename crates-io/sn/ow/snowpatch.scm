@@ -1,0 +1,6 @@
+(define-module (crates-io sn ow snowpatch) #:use-module (crates-io))
+
+(define-public crate-snowpatch-0.2.0-beta.1 (c (n "snowpatch") (v "0.2.0-beta.1") (d (list (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "git2") (r "^0.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "0bdsx1x1pg2j527hhi8byi2vjkqpfkmab49k25z2ih5ar68hn1qd")))
+
+(define-public crate-snowpatch-0.2.0 (c (n "snowpatch") (v "0.2.0") (d (list (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "git2") (r "^0.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "1impla0p66dgy1lxd9hx57pl8ly75sgs0l930px1nqsiccdfx52c")))
+

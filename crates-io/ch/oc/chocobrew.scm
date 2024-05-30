@@ -1,0 +1,8 @@
+(define-module (crates-io ch oc chocobrew) #:use-module (crates-io))
+
+(define-public crate-chocobrew-0.1.2 (c (n "chocobrew") (v "0.1.2") (d (list (d (n "choco") (r "=0.1.2") (d #t) (k 0)) (d (n "eframe") (r "^0.25.0") (f (quote ("persistence" "default_fonts" "glow" "wayland" "x11"))) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("getrandom"))) (k 0)) (d (n "rfd") (r "^0.13.0") (d #t) (k 0)))) (h "13j3sg7ml910q87maal8mn5wqlcsl8ah5sq2pmn6whpj2i61rnb7")))
+
+(define-public crate-chocobrew-0.2.1 (c (n "chocobrew") (v "0.2.1") (d (list (d (n "choco") (r "=0.2.0") (d #t) (k 0)) (d (n "copypasta") (r "^0.10.1") (d #t) (k 0)) (d (n "eframe") (r "^0.25.0") (f (quote ("persistence" "accesskit" "default_fonts" "wgpu" "wayland" "web_screen_reader" "x11"))) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("getrandom"))) (k 0)) (d (n "rfd") (r "^0.13.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.10") (d #t) (k 0)))) (h "0cj5zraal9yg0f5y087kf92cmqkjsdblpc0b1zdz31g88qv054wm")))
+
+(define-public crate-chocobrew-0.2.2 (c (n "chocobrew") (v "0.2.2") (d (list (d (n "choco") (r "=0.2.2") (d #t) (k 0)) (d (n "copypasta") (r "^0.10.1") (d #t) (k 0)) (d (n "eframe") (r "^0.25.0") (f (quote ("persistence" "accesskit" "default_fonts" "wgpu" "wayland" "web_screen_reader" "x11"))) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("getrandom"))) (k 0)) (d (n "rfd") (r "^0.13.0") (d #t) (k 0)))) (h "15nyjfgl25lnla823n17cqqbh40yrjr81admw76vbcma57xhcf3p")))
+

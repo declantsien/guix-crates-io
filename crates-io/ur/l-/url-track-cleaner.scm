@@ -1,0 +1,14 @@
+(define-module (crates-io ur l- url-track-cleaner) #:use-module (crates-io))
+
+(define-public crate-url-track-cleaner-0.1.0 (c (n "url-track-cleaner") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "00v4i7dv4k56kwb5v0mhxqk71y1w9bz889cd7yx8apgjs4cxkxgv")))
+
+(define-public crate-url-track-cleaner-0.1.1 (c (n "url-track-cleaner") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0d1z1ip7rf583rg8jj105g5gx1jc28vc0b6ksdmcvkdgjm1hp8g3")))
+
+(define-public crate-url-track-cleaner-0.1.2 (c (n "url-track-cleaner") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1krkqga8y6m3c8wg57sc6ggyn2lvaly805cqzzgh3wk8iwzyljjh")))
+
+(define-public crate-url-track-cleaner-0.1.3 (c (n "url-track-cleaner") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1pqgv4di81dyrg0mg5y26hlk8l78vrrmqzfp7nw1jscmmbdf9v2q")))
+
+(define-public crate-url-track-cleaner-0.1.4 (c (n "url-track-cleaner") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0yy2cnmykzn3miipinrmfybi7r898685jgrlnqdkwxdlfmmsa8vg")))
+
+(define-public crate-url-track-cleaner-0.1.5 (c (n "url-track-cleaner") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0bwx7f4flssvwy1drxr4wdzzfr9dnph0jiy3jympj7wdv91nf34w")))
+

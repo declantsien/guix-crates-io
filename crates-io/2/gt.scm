@@ -1,0 +1,14 @@
+(define-module (crates-io #{2}# gt) #:use-module (crates-io))
+
+(define-public crate-gt-0.0.1 (c (n "gt") (v "0.0.1") (d (list (d (n "pgm") (r "^0.0.5") (d #t) (k 0)))) (h "117c8k02shl4d9zf77liky7fw418635dxpavp305chklbkx9ga0n")))
+
+(define-public crate-gt-0.0.5 (c (n "gt") (v "0.0.5") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "gt_proc") (r "^0.0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "pgm") (r "^0.0.6") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0ism47gp0iv7vn7vga1d99p2y7x81a0gq7ab7mmdlbnhybd5g5pd")))
+
+(define-public crate-gt-0.0.6 (c (n "gt") (v "0.0.6") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "gt_proc") (r "^0.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "pgm") (r "^0.0.6") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0wr76fs03833srzrnamjkryxczbnkgkfs3436i2svw8gs5js3c7s")))
+
+(define-public crate-gt-0.0.8 (c (n "gt") (v "0.0.8") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "gt_proc") (r "^0.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "pgm") (r "^0.0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "165dciqrlgysr9mlqm8wl7jg3ks9sfggdny3jz8hx4c4lxmxkciq")))
+
+(define-public crate-gt-0.0.9 (c (n "gt") (v "0.0.9") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "gt_proc") (r "^0.0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "pgm") (r "^0.0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0nijxk63q81gdaa63vfjxjvgz9804nn6dfxb0k1rn56af7h7bzxh")))
+
+(define-public crate-gt-0.0.10 (c (n "gt") (v "0.0.10") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "gt_proc") (r "^0.0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "pgm") (r "^0.0.8") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0pwi3msjdwg8rds9n1wk34n32c73msccq0clhsz2j4ra0d0sy8kr")))
+

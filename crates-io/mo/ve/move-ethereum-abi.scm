@@ -1,0 +1,14 @@
+(define-module (crates-io mo ve move-ethereum-abi) #:use-module (crates-io))
+
+(define-public crate-move-ethereum-abi-0.1.6 (c (n "move-ethereum-abi") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1fj67zsxbaxcki7kk2mkrk0fp9xq5d75gz81azxyb001yfl64phy") (y #t)))
+
+(define-public crate-move-ethereum-abi-0.2.0 (c (n "move-ethereum-abi") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1i9jf2hz77mqxrs12dkcas3ih5qlnns24sbd7hg5fapwv4hhz8ca") (y #t)))
+
+(define-public crate-move-ethereum-abi-0.2.1 (c (n "move-ethereum-abi") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "11rgpgii31xd3zv7fb1xhgj1qmlg2xm050vxiakn03fy0yk1phg0") (y #t)))
+
+(define-public crate-move-ethereum-abi-0.3.0 (c (n "move-ethereum-abi") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0qgh405w8643pd3y3nbxx8ji9wmwxq4xb2zi3xavcykbcxmp0nqa") (y #t)))
+
+(define-public crate-move-ethereum-abi-0.3.1 (c (n "move-ethereum-abi") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "08a7ibklznnh3jnl5ppx99n9hrd4jmq9qgz4bkk4d3xr9mii49sq") (y #t)))
+
+(define-public crate-move-ethereum-abi-0.3.2 (c (n "move-ethereum-abi") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1m5z9pczy4x9zi0cyl9g83ivxis6h24hq4af1i5ayjgisg3f39kl") (y #t)))
+

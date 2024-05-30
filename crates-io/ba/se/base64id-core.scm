@@ -1,0 +1,4 @@
+(define-module (crates-io ba se base64id-core) #:use-module (crates-io))
+
+(define-public crate-base64id-core-0.4.0-alpha.0 (c (n "base64id-core") (v "0.4.0-alpha.0") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.6") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.145") (o #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 2)) (d (n "sqlx") (r "^0.7.1") (f (quote ("macros"))) (o #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("macros" "sqlite"))) (k 2)))) (h "0kb4534591y8dhk9m6vna3c24597rppkshrzpaj5k59paxlns3jk") (f (quote (("std")))) (s 2) (e (quote (("sqlx" "dep:sqlx" "std") ("serde" "dep:serde") ("rand" "dep:rand"))))))
+

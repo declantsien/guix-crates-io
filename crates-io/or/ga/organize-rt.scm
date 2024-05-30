@@ -1,0 +1,10 @@
+(define-module (crates-io or ga organize-rt) #:use-module (crates-io))
+
+(define-public crate-organize-rt-0.9.0 (c (n "organize-rt") (v "0.9.0") (d (list (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "human-panic") (r "^1.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1sr2m50hczbzxfl3kyj3pjc5wjl2vl780kx1laj90b7i5jkkczhh")))
+
+(define-public crate-organize-rt-0.9.1 (c (n "organize-rt") (v "0.9.1") (d (list (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "human-panic") (r "^1.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0lh1n1wa7i9jh62s7m8jn0wm1wcwcnj9g1mypcppfxbm96ahcd15")))
+
+(define-public crate-organize-rt-1.0.0 (c (n "organize-rt") (v "1.0.0") (d (list (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "human-panic") (r "^1.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0aymxb7f129xlpspf8fiyn9w0alwq4c7qdwkr00qm3i7vf6qwa6q")))
+
+(define-public crate-organize-rt-1.0.1 (c (n "organize-rt") (v "1.0.1") (d (list (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "human-panic") (r "^1.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.14.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0c7mrjxl9g65j9m2qcisbwjyny7vslwyg05bjfkdcy8zvz6dxdmc")))
+

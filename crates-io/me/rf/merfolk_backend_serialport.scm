@@ -1,0 +1,4 @@
+(define-module (crates-io me rf merfolk_backend_serialport) #:use-module (crates-io))
+
+(define-public crate-merfolk_backend_serialport-0.1.0 (c (n "merfolk_backend_serialport") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.0-alpha") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "merfolk") (r "^0") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "ron") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serialport") (r "^4.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt" "rt-multi-thread" "sync" "time"))) (d #t) (k 0)))) (h "0m1inw8l5hrqwzdlcbjiyvkswijp1mar4khawbpcpxmn2ncy67bx") (f (quote (("default"))))))
+

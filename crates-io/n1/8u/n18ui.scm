@@ -1,0 +1,4 @@
+(define-module (crates-io n1 #{8u}# n18ui) #:use-module (crates-io))
+
+(define-public crate-n18ui-0.1.0 (c (n "n18ui") (v "0.1.0") (d (list (d (n "cairo-rs") (r "^0.14") (f (quote ("png" "pdf" "svg"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "gdk") (r "^0.14") (d #t) (k 0)) (d (n "glib") (r "^0.14") (d #t) (k 0)) (d (n "gtk") (r "^0.14") (f (quote ("v3_20"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "n18brush") (r "^0.1.0") (d #t) (k 0)) (d (n "n18game") (r "^0.1.0") (d #t) (k 0)) (d (n "n18hex") (r "^0.1.0") (d #t) (k 0)) (d (n "n18io") (r "^0.1.0") (d #t) (k 0)) (d (n "n18map") (r "^0.1.0") (d #t) (k 0)) (d (n "n18route") (r "^0.1.0") (d #t) (k 0)) (d (n "n18tile") (r "^0.1.0") (d #t) (k 0)) (d (n "n18token") (r "^0.1.0") (d #t) (k 0)))) (h "0nfrsr5r0g4kvhm0qq3ixfq4yclbgrsi5rljw3akjvjla4y8mpck")))
+

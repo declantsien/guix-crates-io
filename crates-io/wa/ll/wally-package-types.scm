@@ -1,0 +1,14 @@
+(define-module (crates-io wa ll wally-package-types) #:use-module (crates-io))
+
+(define-public crate-wally-package-types-1.0.0 (c (n "wally-package-types") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "full_moon") (r "^0.15.1") (f (quote ("roblox"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1b7y2370sxw5n4dgzb3bckxi21anzz04m9ly9c001grkzffwfqyc")))
+
+(define-public crate-wally-package-types-1.1.0 (c (n "wally-package-types") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "full_moon") (r "^0.15.1") (f (quote ("roblox"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1zki3ph7s8wckxm01s3q9dd5db0xmi2yykkkr48pr2jn7x404849")))
+
+(define-public crate-wally-package-types-1.1.1 (c (n "wally-package-types") (v "1.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "full_moon") (r "^0.15.1") (f (quote ("roblox"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1vm9kn2qqdavbnv5ykn2m46v5xyn3ngra0wnsm4chamg2ds6vynx")))
+
+(define-public crate-wally-package-types-1.2.1 (c (n "wally-package-types") (v "1.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "full_moon") (r "^0.18.1") (f (quote ("roblox"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "02h7dk85dwfg4qhskxl0q0bqngbmkm3nzplgp3bzcb5jywg9q55i")))
+
+(define-public crate-wally-package-types-1.3.0 (c (n "wally-package-types") (v "1.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (k 0)) (d (n "full_moon") (r "^0.19.0") (f (quote ("roblox"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "0vjzz3fzmwxd5dbn5pjai4y97sjanfqgd3xzwpjf5xg1m3qrjn9c")))
+
+(define-public crate-wally-package-types-1.3.1 (c (n "wally-package-types") (v "1.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (k 0)) (d (n "full_moon") (r "^0.19.0") (f (quote ("roblox" "stacker"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1b6c8mk4z6afz4vbfiljnm3k2g846pkghnircdnj0kmny4vlyhqy")))
+

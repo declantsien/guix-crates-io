@@ -1,0 +1,6 @@
+(define-module (crates-io mo ck mock-agones) #:use-module (crates-io))
+
+(define-public crate-mock-agones-0.1.0 (c (n "mock-agones") (v "0.1.0") (d (list (d (n "claims") (r "^0.7") (d #t) (k 2)) (d (n "fake") (r "^2.6") (d #t) (k 2)) (d (n "flume") (r "^0.10") (f (quote ("async"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (d #t) (k 0)) (d (n "tonic") (r "^0.9") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9") (d #t) (k 1)))) (h "07128a1w4pph94sxsgf3917qx9457n50ha3gzj8qhagak366r2k1")))
+
+(define-public crate-mock-agones-0.1.1 (c (n "mock-agones") (v "0.1.1") (d (list (d (n "claims") (r "^0.7") (d #t) (k 2)) (d (n "fake") (r "^2.6") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9") (d #t) (k 1)))) (h "1vgkw9nfvgph3ffgm47k1gfzvalsvb9w46vs3c2cxxks7dnfi5af")))
+

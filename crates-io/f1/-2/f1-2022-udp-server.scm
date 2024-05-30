@@ -1,0 +1,14 @@
+(define-module (crates-io f1 #{-2}# f1-2022-udp-server) #:use-module (crates-io))
+
+(define-public crate-f1-2022-udp-server-0.1.0 (c (n "f1-2022-udp-server") (v "0.1.0") (d (list (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "1h0lb7jgswdlcblm1pnk561j9ywyh9fin9hbfrxd2g9skvgbyksx")))
+
+(define-public crate-f1-2022-udp-server-0.1.1 (c (n "f1-2022-udp-server") (v "0.1.1") (d (list (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "0wwynbc8cwx2lf4zfwbrwvr0zn6a7pw6zk5mgr3iypqbs89bkdwa")))
+
+(define-public crate-f1-2022-udp-server-0.1.2 (c (n "f1-2022-udp-server") (v "0.1.2") (d (list (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "1ji3xfwywcz6nvc2gbmvwr360zmm1xh0jy2f303nb4pn9jr4w3c3")))
+
+(define-public crate-f1-2022-udp-server-0.1.3 (c (n "f1-2022-udp-server") (v "0.1.3") (d (list (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "1jxwbxp2bb2rbksxjq5ly738hdgsv6740r0nw6gwx6p3qkq01ga4")))
+
+(define-public crate-f1-2022-udp-server-0.1.4 (c (n "f1-2022-udp-server") (v "0.1.4") (d (list (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "181bajindcyxyh5sjc3q7g5lxbppxp1za3zc862xvbya5cgjfw5k")))
+
+(define-public crate-f1-2022-udp-server-0.1.5 (c (n "f1-2022-udp-server") (v "0.1.5") (d (list (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "num-derive") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)))) (h "0mp1c5zk218zls7yq87hdlx19qjq5i5nbp7lr48zh2ny42x5j5vx")))
+

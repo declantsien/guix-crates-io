@@ -1,0 +1,4 @@
+(define-module (crates-io se ar search-gwas) #:use-module (crates-io))
+
+(define-public crate-search-gwas-0.0.1 (c (n "search-gwas") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("rkyv"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (f (quote ("editor" "fuzzy-select" "history" "completion"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "prettytable") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rkyv") (r "^0.7.44") (f (quote ("archive_le"))) (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 0)))) (h "11icd902v2738hysby7vcw4g1savvmlzd9fs43hw3ig6qdjbar2m")))
+

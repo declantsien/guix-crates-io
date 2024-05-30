@@ -1,0 +1,4 @@
+(define-module (crates-io pe rc percy-vdom) #:use-module (crates-io))
+
+(define-public crate-percy-vdom-0.6.14 (c (n "percy-vdom") (v "0.6.14") (d (list (d (n "console_error_panic_hook") (r "^0.1.5") (d #t) (k 2)) (d (n "html-macro") (r "^0.1.8") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "virtual-node") (r "^0.2.7") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.33") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.2.33") (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("Comment" "Document" "Element" "HtmlElement" "EventTarget" "HtmlCollection" "Node" "NodeList" "Text" "CharacterData" "Window"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("DomTokenList" "HtmlInputElement" "Event" "MouseEvent" "InputEvent" "console"))) (d #t) (k 2)))) (h "0yj96i72wpi25pb71zaahzfylxihskk4y22rink9ra7bmff17ybl")))
+

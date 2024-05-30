@@ -1,0 +1,28 @@
+(define-module (crates-io be vy bevy_state_curves) #:use-module (crates-io))
+
+(define-public crate-bevy_state_curves-0.1.0 (c (n "bevy_state_curves") (v "0.1.0") (d (list (d (n "bevy") (r "^0.11.3") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.22.0") (d #t) (k 2)))) (h "0czfky5h2wq5si3xc7pdj9ybn7y447r5w7fhzjjwlaccl46jqza8")))
+
+(define-public crate-bevy_state_curves-0.2.0 (c (n "bevy_state_curves") (v "0.2.0") (d (list (d (n "bevy") (r "^0.11.3") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.22.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)))) (h "1ywyb7pnmdrqp35p5fl5sbxmcd27r50jdghki21wvfbgpl9sgidy")))
+
+(define-public crate-bevy_state_curves-0.2.1 (c (n "bevy_state_curves") (v "0.2.1") (d (list (d (n "bevy") (r "^0.11.3") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.22.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)))) (h "0w2zidaf7zn8jm9yf40dw9469ncxih0y95ljhh1xlgb87xvzcmn6")))
+
+(define-public crate-bevy_state_curves-0.3.1 (c (n "bevy_state_curves") (v "0.3.1") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)))) (h "01jq7qwvals1ifkjsa0kvhrs2mkh9v9acdrcjb912qfr8kp66qbb")))
+
+(define-public crate-bevy_state_curves-0.3.2 (c (n "bevy_state_curves") (v "0.3.2") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (o #t) (d #t) (k 0)))) (h "0mkzw0g8nvifhdnj6h2zswdaxxldwnvp59gz2mdr4lnvz4i0vm5f") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.3.3 (c (n "bevy_state_curves") (v "0.3.3") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (o #t) (d #t) (k 0)))) (h "0rk82jkrs0kgbl9mk7faag432c912i9qjqbbn0pn4pwjvlbl3xs9") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.3.4 (c (n "bevy_state_curves") (v "0.3.4") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "01173dcw04i405ljq3pnjl282cyhmj213y6rh7dsi22gm4ggw5v8") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.3.5 (c (n "bevy_state_curves") (v "0.3.5") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "18hld5zk09p1sk8xgabls7jirjc19vyjk2snc03nryhh2nzb54ri") (f (quote (("type_path")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.3.6 (c (n "bevy_state_curves") (v "0.3.6") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0assk33vjc2hbd0ygz5acmj65xlq5waj7hkh5ww2ay213w1jcd1y") (f (quote (("type_path")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.3.7 (c (n "bevy_state_curves") (v "0.3.7") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "vectorize") (r "^0.2.0") (o #t) (d #t) (k 0)))) (h "1963pd9n64hj22hv129cfjqsmckljaw155pn91pqdhchglyw5298") (f (quote (("type_path")))) (y #t) (s 2) (e (quote (("serde_json" "dep:vectorize") ("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.3.8 (c (n "bevy_state_curves") (v "0.3.8") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1qsg6prb9gn69w6b2yy1g88vmsirqw385lapw0mwqkwisva4k7jl") (f (quote (("type_path")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.4.0 (c (n "bevy_state_curves") (v "0.4.0") (d (list (d (n "bevy") (r "^0.12.0") (k 0)) (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.23.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0fs08i232b8vv15gh3aminl9lc3g4kk5bb2yp75b45hynzyy56j0") (f (quote (("type_path")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-bevy_state_curves-0.5.0 (c (n "bevy_state_curves") (v "0.5.0") (d (list (d (n "bevy") (r "^0.13.0") (k 0)) (d (n "bevy") (r "^0.13.0") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.25.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0y5idazlkr43v0bi7mg3f8s0aswlfllxq9pyc9xdrzpk0y302p4l") (f (quote (("type_path")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

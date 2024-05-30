@@ -1,0 +1,6 @@
+(define-module (crates-io th ru thruster-x) #:use-module (crates-io))
+
+(define-public crate-thruster-x-0.0.1 (c (n "thruster-x") (v "0.0.1") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "neon") (r "^0.3.3") (d #t) (k 0)) (d (n "neon-build") (r "^0.3.3") (d #t) (k 1)) (d (n "proc-macro2") (r "^0.4.27") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "syn") (r "^0.15.27") (f (quote ("full"))) (d #t) (k 0)) (d (n "thruster") (r "^0.9.0-alpha.2") (f (quote ("thruster_error_handling" "hyper_server"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("rt-threaded"))) (d #t) (k 0)))) (h "0gyxgnlvfxwh2r5p7q7hcvvvcawawfy00hifbzr9j214xvsgkzar")))
+
+(define-public crate-thruster-x-0.0.2 (c (n "thruster-x") (v "0.0.2") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "neon") (r "^0.3.3") (d #t) (k 0)) (d (n "neon-build") (r "^0.3.3") (d #t) (k 1)) (d (n "proc-macro2") (r "^0.4.27") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "syn") (r "^0.15.27") (f (quote ("full"))) (d #t) (k 0)) (d (n "thruster") (r "^0.9.0-alpha.2") (f (quote ("thruster_error_handling" "hyper_server"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("rt-threaded"))) (d #t) (k 0)))) (h "0szgj55hp53nb6fsbqpc94yxcr8lhmnrd1z5b16fc64j6lx9jp5l")))
+

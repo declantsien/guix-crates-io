@@ -1,0 +1,12 @@
+(define-module (crates-io li bc libcantal) #:use-module (crates-io))
+
+(define-public crate-libcantal-0.2.0 (c (n "libcantal") (v "0.2.0") (d (list (d (n "atomic") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)))) (h "1d8pcz5cq77mpkmnywjc30dcjnfvj428lvjj09swar061ph73yqa")))
+
+(define-public crate-libcantal-0.2.1 (c (n "libcantal") (v "0.2.1") (d (list (d (n "atomic") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)))) (h "0zhssp1nxsbg59wmyg1ys0bjkky2bnydb41ci9vwy08454qhsc0m")))
+
+(define-public crate-libcantal-0.3.0 (c (n "libcantal") (v "0.3.0") (d (list (d (n "atomic") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)))) (h "146akz9i2qlgywcz9xk5l98pvcndkqf5z953xp341hhd52jasrv5")))
+
+(define-public crate-libcantal-0.3.1 (c (n "libcantal") (v "0.3.1") (d (list (d (n "atomic") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)))) (h "0j2h85w086d2hq8byl4pdmgqgjh67dl2rfmndwfyhhqvkkgcanbn")))
+
+(define-public crate-libcantal-0.3.2 (c (n "libcantal") (v "0.3.2") (d (list (d (n "atomic") (r "^0.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.22") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)))) (h "02bb5b5j0k9kwfi873pl9gc54ci61pf78f2dyfmkchqkpniqhxb8")))
+

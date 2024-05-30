@@ -1,0 +1,4 @@
+(define-module (crates-io rh iz rhizomedb-runtime) #:use-module (crates-io))
+
+(define-public crate-rhizomedb-runtime-0.1.0 (c (n "rhizomedb-runtime") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (f (quote ("std" "async-await"))) (k 0)) (d (n "gloo") (r "^0.8") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "once_cell") (r "^1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("rt" "time"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("time"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1xsxj849jvh2zzg1hzm3m6qfnwv52ljmbyhnnsdggp469hfa7nrz")))
+

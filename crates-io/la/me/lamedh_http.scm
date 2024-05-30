@@ -1,0 +1,4 @@
+(define-module (crates-io la me lamedh_http) #:use-module (crates-io))
+
+(define-public crate-lamedh_http-0.3.0 (c (n "lamedh_http") (v "0.3.0") (d (list (d (n "aws_lambda_events") (r "^0.4") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "lamedh_attributes") (r "^0.3") (d #t) (k 0)) (d (n "lamedh_runtime") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "maplit") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("macros"))) (d #t) (k 2)))) (h "18pyabq487byd9hi98fl5izkrhpnzanja7pxwyxy5sz24fkaq71a")))
+

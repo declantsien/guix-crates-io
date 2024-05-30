@@ -1,0 +1,6 @@
+(define-module (crates-io ar k- ark-secq256k1) #:use-module (crates-io))
+
+(define-public crate-ark-secq256k1-0.4.0-alpha.2 (c (n "ark-secq256k1") (v "0.4.0-alpha.2") (d (list (d (n "ark-algebra-test-templates") (r "^0.4.0-alpha") (k 2)) (d (n "ark-ec") (r "^0.4.0-alpha") (k 0)) (d (n "ark-ff") (r "^0.4.0-alpha") (k 0)) (d (n "ark-r1cs-std") (r "^0.4.0-alpha") (o #t) (k 0)) (d (n "ark-relations") (r "^0.4.0-alpha") (k 2)) (d (n "ark-secp256k1") (r "^0.4.0-alpha") (d #t) (k 0)) (d (n "ark-serialize") (r "^0.4.0-alpha") (k 2)) (d (n "ark-std") (r "^0.4.0-alpha") (k 0)))) (h "0mdlg8jy6cgjlhpkwdcxx3fkih642galm887hapbxhgf75vm5h52") (f (quote (("std" "ark-std/std" "ark-ff/std" "ark-ec/std") ("r1cs" "ark-r1cs-std") ("default"))))))
+
+(define-public crate-ark-secq256k1-0.4.0 (c (n "ark-secq256k1") (v "0.4.0") (d (list (d (n "ark-ec") (r "^0.4.0") (k 0)) (d (n "ark-ff") (r "^0.4.0") (k 0)) (d (n "ark-r1cs-std") (r "^0.4.0") (o #t) (k 0)) (d (n "ark-secp256k1") (r "^0.4.0") (d #t) (k 0)) (d (n "ark-std") (r "^0.4.0") (k 0)) (d (n "ark-algebra-test-templates") (r "^0.4.0") (k 2)) (d (n "ark-relations") (r "^0.4.0") (k 2)) (d (n "ark-serialize") (r "^0.4.0") (k 2)))) (h "0yicvbcj06xm485s6i9pj38g5b2cr9cqh4z4fzsc6yrrm6kqjxx8") (f (quote (("std" "ark-std/std" "ark-ff/std" "ark-ec/std") ("r1cs" "ark-r1cs-std") ("default"))))))
+

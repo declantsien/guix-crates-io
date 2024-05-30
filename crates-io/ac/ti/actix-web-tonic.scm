@@ -1,0 +1,4 @@
+(define-module (crates-io ac ti actix-web-tonic) #:use-module (crates-io))
+
+(define-public crate-actix-web-tonic-1.0.0 (c (n "actix-web-tonic") (v "1.0.0") (d (list (d (n "actix-http") (r "^3.0.4") (d #t) (k 0)) (d (n "actix-service") (r "^2.0.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.0.1") (d #t) (k 0)) (d (n "const_format") (r "^0.2.22") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "prost") (r "^0.10") (d #t) (k 0)) (d (n "retrieve") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "to_unit") (r "^1.0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.7") (d #t) (k 0)) (d (n "tonic-build") (r "^0.7") (d #t) (k 1)))) (h "1scyqjwz2kgx6gc8p7ccbn6sp0x195sv6yqw5cxx1vlcx6q4nsvl")))
+

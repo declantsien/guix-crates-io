@@ -1,0 +1,8 @@
+(define-module (crates-io sm ol smolapps) #:use-module (crates-io))
+
+(define-public crate-smolapps-0.1.2 (c (n "smolapps") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3.4") (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (o #t) (k 0)) (d (n "smoltcp") (r "^0.6.0") (k 0)))) (h "0l9d8jscc2z8bc49w6kmli98fph7wxf29n8fma7lj15l3563k82z") (f (quote (("tftp" "smoltcp/socket-udp") ("tap" "log" "smoltcp/ethernet" "smoltcp/phy-tap_interface") ("sntp" "smoltcp/socket-udp") ("ipv4" "smoltcp/proto-ipv4") ("default" "ipv4"))))))
+
+(define-public crate-smolapps-0.1.3 (c (n "smolapps") (v "0.1.3") (d (list (d (n "byteorder") (r "^1.3.4") (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (o #t) (k 0)) (d (n "managed") (r "^0.7.1") (k 0)) (d (n "smoltcp") (r "^0.6.0") (k 0)))) (h "1rnqljd2arfvy50l9i1iv89q1qp1f5737hk082pcdbh8xq6bxy77") (f (quote (("tftp" "smoltcp/socket-udp") ("tap" "log" "smoltcp/ethernet" "smoltcp/phy-tap_interface") ("sntp" "smoltcp/socket-udp") ("ipv4" "smoltcp/proto-ipv4") ("default" "ipv4")))) (y #t)))
+
+(define-public crate-smolapps-0.1.4 (c (n "smolapps") (v "0.1.4") (d (list (d (n "byteorder") (r "^1.3.4") (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (o #t) (k 0)) (d (n "managed") (r "^0.7.1") (k 0)) (d (n "smoltcp") (r "^0.6.0") (k 0)))) (h "0g4x58am001gg37l2dvslzml385awh034whvi9ig1qr59jzfpl90") (f (quote (("tftp" "smoltcp/socket-udp") ("tap" "log" "smoltcp/ethernet" "smoltcp/phy-tap_interface") ("std" "smoltcp/std" "managed/std") ("sntp" "smoltcp/socket-udp") ("ipv4" "smoltcp/proto-ipv4") ("default" "ipv4" "sntp" "tftp"))))))
+

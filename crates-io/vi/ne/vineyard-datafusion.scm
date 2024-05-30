@@ -1,0 +1,6 @@
+(define-module (crates-io vi ne vineyard-datafusion) #:use-module (crates-io))
+
+(define-public crate-vineyard-datafusion-0.17.0 (c (n "vineyard-datafusion") (v "0.17.0") (d (list (d (n "arrow-array") (r ">=40, <44") (d #t) (k 0)) (d (n "arrow-schema") (r ">=40, <44") (d #t) (k 0)) (d (n "datafusion") (r "^28") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "spectral") (r "^0.6") (d #t) (k 2)) (d (n "vineyard") (r "^0.17.0") (d #t) (k 0)))) (h "0wh53zvj80k4p7i2w6wmhiwxwbjvg67s5sd9nqzvg2mgr67ibra5") (f (quote (("nightly") ("default" "nightly"))))))
+
+(define-public crate-vineyard-datafusion-0.17.2 (c (n "vineyard-datafusion") (v "0.17.2") (d (list (d (n "arrow-array") (r ">=40, <47") (d #t) (k 0)) (d (n "arrow-schema") (r ">=40, <47") (d #t) (k 0)) (d (n "datafusion") (r ">=28") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "spectral") (r "^0.6") (d #t) (k 2)) (d (n "vineyard") (r "^0.17.2") (d #t) (k 0)))) (h "19wmkyrwpi9n5xpb48d7bpldqp9wvijj16a6c2k3hpv03gk6hrlx") (f (quote (("nightly") ("default" "nightly"))))))
+

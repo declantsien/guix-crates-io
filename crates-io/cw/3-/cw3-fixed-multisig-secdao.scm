@@ -1,0 +1,4 @@
+(define-module (crates-io cw #{3-}# cw3-fixed-multisig-secdao) #:use-module (crates-io))
+
+(define-public crate-cw3-fixed-multisig-secdao-0.13.2 (c (n "cw3-fixed-multisig-secdao") (v "0.13.2") (d (list (d (n "cosmwasm-schema") (r "^1.0.0-beta8") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0-beta8") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.13.2") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^0.13.2") (d #t) (k 0)) (d (n "cw-utils") (r "^0.13.2") (d #t) (k 0)) (d (n "cw2") (r "^0.13.2") (d #t) (k 0)) (d (n "cw20") (r "^0.13.2") (d #t) (k 2)) (d (n "cw20-base") (r "^0.13.2") (f (quote ("library"))) (d #t) (k 2)) (d (n "cw3") (r "^0.13.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "110cmhz5k7p4xx4shgmfa5kjykf83vb51malyscnlzz5khbrpi3r") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io do te dotenv-vault) #:use-module (crates-io))
+
+(define-public crate-dotenv-vault-0.1.0 (c (n "dotenv-vault") (v "0.1.0") (d (list (d (n "aes-gcm") (r "^0.10.2") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1ldi3q0z2l0wk6k0lql3smzcrcp1d6k07rfl2vzspn9sj3sh97fa") (y #t) (r "1.64.0")))
+
+(define-public crate-dotenv-vault-0.1.1 (c (n "dotenv-vault") (v "0.1.1") (d (list (d (n "aes-gcm") (r "^0.10.2") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1kinp0scbnccmny2xc6rqpswy9lqzakyml3v8wqsf6l752blk30j") (r "1.64.0")))
+
+(define-public crate-dotenv-vault-0.1.2 (c (n "dotenv-vault") (v "0.1.2") (d (list (d (n "aes-gcm") (r "^0.10.2") (d #t) (k 0)) (d (n "argh") (r "^0.1.12") (o #t) (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (f (quote ("color-auto"))) (d #t) (k 2)) (d (n "base64") (r "^0.22.1") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serial_test") (r "^3.1.1") (d #t) (k 2)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 2)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1bwy7amr48sq80r12jkv37izvgb6m77c1qnirx4sf5c9c7msplmc") (f (quote (("default")))) (s 2) (e (quote (("cli" "dep:argh")))) (r "1.73.0")))
+

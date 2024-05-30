@@ -1,0 +1,4 @@
+(define-module (crates-io sl sg slsg) #:use-module (crates-io))
+
+(define-public crate-slsg-0.1.0 (c (n "slsg") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.13.0") (d #t) (k 0)) (d (n "latex2mathml") (r "^0.2.3") (d #t) (k 0)) (d (n "markdown") (r "=1.0.0-alpha.16") (d #t) (k 0)) (d (n "mlua") (r "^0.9.5") (f (quote ("lua54" "serialize"))) (d #t) (k 0)) (d (n "nom-bibtex") (r "^0.5") (d #t) (k 0)) (d (n "notify-debouncer-mini") (r "^0.4.1") (d #t) (k 0)) (d (n "rsass") (r "^0.28.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-tuple-vec-map") (r "^1.0.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)))) (h "1l7napr0y14v70gbcdl42dg6ds60h9wf2qpj1r0j8s6r269syv5w")))
+

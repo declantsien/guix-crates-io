@@ -1,0 +1,14 @@
+(define-module (crates-io rm w- rmw-utf8) #:use-module (crates-io))
+
+(define-public crate-rmw-utf8-0.0.1 (c (n "rmw-utf8") (v "0.0.1") (d (list (d (n "aho-corasick") (r "^0.7.18") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "huffman-compress") (r "^0.6.1") (d #t) (k 0)) (d (n "ruzstd") (r "^0.2.4") (d #t) (k 0)) (d (n "speedy") (r "^0.7.1") (d #t) (k 0)) (d (n "static_init") (r "^1.0.1") (d #t) (k 0)) (d (n "utf8-width") (r "^0.1.5") (d #t) (k 0)))) (h "1gmfd9vbfp5269rqwkxbsl0yvvy5xa5609lq0dm9r8zd6xa64sy9")))
+
+(define-public crate-rmw-utf8-0.0.2 (c (n "rmw-utf8") (v "0.0.2") (d (list (d (n "aho-corasick") (r "^0.7.18") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "huffman-compress") (r "^0.6.1") (d #t) (k 0)) (d (n "ruzstd") (r "^0.2.4") (d #t) (k 0)) (d (n "speedy") (r "^0.7.1") (d #t) (k 0)) (d (n "static_init") (r "^1.0.1") (d #t) (k 0)) (d (n "utf8-width") (r "^0.1.5") (d #t) (k 0)))) (h "0k5x27lmyn4xngm83iz8dp21hkgngx0mn60qpw9rk8cfg2mz9gw9")))
+
+(define-public crate-rmw-utf8-0.0.3 (c (n "rmw-utf8") (v "0.0.3") (d (list (d (n "aho-corasick") (r "^0.7.18") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "huffman-compress") (r "^0.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "ruzstd") (r "^0.2.4") (d #t) (k 0)) (d (n "speedy") (r "^0.7.1") (d #t) (k 0)) (d (n "utf8-width") (r "^0.1.5") (d #t) (k 0)))) (h "1ma886zrshsj90h06xy83qnv6h3gv3h3lps4by772j668jvpr2li")))
+
+(define-public crate-rmw-utf8-0.0.4 (c (n "rmw-utf8") (v "0.0.4") (d (list (d (n "aho-corasick") (r "^0.7.18") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "huffman-compress") (r "^0.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "ruzstd") (r "^0.2.4") (d #t) (k 0)) (d (n "speedy") (r "^0.8.0") (d #t) (k 0)) (d (n "utf8-width") (r "^0.1.5") (d #t) (k 0)))) (h "0fllzcjf125bbjx939fq6cvqjhwbhicp6yxnqk91nn6b9n6z4dlm")))
+
+(define-public crate-rmw-utf8-0.0.5 (c (n "rmw-utf8") (v "0.0.5") (d (list (d (n "aho-corasick") (r "^0.7.18") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "huffman-compress") (r "^0.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "ruzstd") (r "^0.2.4") (d #t) (k 0)) (d (n "speedy") (r "^0.8.0") (d #t) (k 0)) (d (n "utf8-width") (r "^0.1.5") (d #t) (k 0)))) (h "0hbq1k34w66gvwcn6gwnskfg957g7csw2z3hiiv20qs1h928nifc")))
+
+(define-public crate-rmw-utf8-0.0.6 (c (n "rmw-utf8") (v "0.0.6") (d (list (d (n "aho-corasick") (r "^0.7.18") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "huffman-compress") (r "^0.6.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "ruzstd") (r "^0.2.4") (d #t) (k 0)) (d (n "speedy") (r "^0.8.1") (d #t) (k 0)) (d (n "utf8-width") (r "^0.1.5") (d #t) (k 0)))) (h "1x5y4xs1i544g7fq5a656y8fpdhj5ah7gkajwng3bafnq83cwrna")))
+

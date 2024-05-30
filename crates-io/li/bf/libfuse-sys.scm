@@ -1,0 +1,12 @@
+(define-module (crates-io li bf libfuse-sys) #:use-module (crates-io))
+
+(define-public crate-libfuse-sys-0.1.0 (c (n "libfuse-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0pxniz1xa818phan56skr9xbx625xz1mpd77kxzr7wf5wcn12pir") (f (quote (("fuse_35") ("fuse_31") ("fuse_30") ("fuse_29") ("fuse_26") ("fuse_25") ("fuse_22") ("fuse_21") ("fuse_11") ("default"))))))
+
+(define-public crate-libfuse-sys-0.2.0 (c (n "libfuse-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0cspfkp5v4x2sa7h2030bfknfk4hxsn2v9qqqzlpxwx6jwp12ypb") (f (quote (("fuse_lowlevel") ("fuse_highlevel") ("fuse_35") ("fuse_31") ("fuse_30") ("fuse_29") ("fuse_26") ("fuse_25") ("fuse_24") ("fuse_22") ("fuse_21") ("fuse_11") ("default" "fuse_highlevel" "fuse_lowlevel"))))))
+
+(define-public crate-libfuse-sys-0.2.1 (c (n "libfuse-sys") (v "0.2.1") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1npcngaj0973j2a61q822qyc0biy8f96hwif7czp066m4d463d1p") (f (quote (("fuse_lowlevel") ("fuse_highlevel") ("fuse_35") ("fuse_31") ("fuse_30") ("fuse_29") ("fuse_26") ("fuse_25") ("fuse_24") ("fuse_22") ("fuse_21") ("fuse_11") ("default" "fuse_highlevel" "fuse_lowlevel"))))))
+
+(define-public crate-libfuse-sys-0.3.0 (c (n "libfuse-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.52") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1f0l1lyb8qwhaq8i8a33izwd11fmfcpimnphs0yq2iqkb1c3bal5") (f (quote (("fuse_lowlevel") ("fuse_highlevel") ("fuse_35") ("fuse_31") ("fuse_30") ("fuse_29") ("fuse_26") ("fuse_25") ("fuse_24") ("fuse_22") ("fuse_21") ("fuse_11") ("default" "fuse_highlevel" "fuse_lowlevel"))))))
+
+(define-public crate-libfuse-sys-0.4.0 (c (n "libfuse-sys") (v "0.4.0") (d (list (d (n "bindgen") (r "^0.60") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "086h0k0mgrkvnkl920qf489r1gz3nqx01qlw2hvd8407vvl7f8j3") (f (quote (("fuse_lowlevel") ("fuse_highlevel") ("fuse_35") ("fuse_31") ("fuse_30") ("fuse_29") ("fuse_26") ("fuse_25") ("fuse_24") ("fuse_22") ("fuse_21") ("fuse_11") ("default" "fuse_highlevel" "fuse_lowlevel"))))))
+

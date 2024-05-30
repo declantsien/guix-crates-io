@@ -1,0 +1,6 @@
+(define-module (crates-io to do todo_finder) #:use-module (crates-io))
+
+(define-public crate-todo_finder-0.1.0 (c (n "todo_finder") (v "0.1.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "todo_finder_lib") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0h73pb04hk07qi69pkfahpa2zlbaqsisyspmfcym0w8kcib5zmir")))
+
+(define-public crate-todo_finder-0.1.1 (c (n "todo_finder") (v "0.1.1") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "todo_finder_lib") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0bs8qxkggj2sim1acbkmrqhy6qcjgf4h6r23qmqp09d0r66s07a2")))
+

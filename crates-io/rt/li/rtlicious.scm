@@ -1,0 +1,6 @@
+(define-module (crates-io rt li rtlicious) #:use-module (crates-io))
+
+(define-public crate-rtlicious-0.1.0 (c (n "rtlicious") (v "0.1.0") (d (list (d (n "getset") (r "^0.1.2") (d #t) (k 0)) (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom-tracable") (r "^0.9.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.2.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)))) (h "0mp05093ibdqfxfmipl1190bplcg81lyh7r5ll20galhyiqg6dj7") (f (quote (("trace" "nom-tracable/trace") ("default"))))))
+
+(define-public crate-rtlicious-0.1.1 (c (n "rtlicious") (v "0.1.1") (d (list (d (n "getset") (r "^0.1.2") (d #t) (k 0)) (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom-tracable") (r "^0.9.1") (d #t) (k 0)) (d (n "nom_locate") (r "^4.2.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)))) (h "0ygyb029aph6ivbd1s0ig3wqcl7hvsp4dp8955lbc9vzf6n667rn") (f (quote (("trace" "nom-tracable/trace") ("default"))))))
+

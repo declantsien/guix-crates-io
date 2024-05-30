@@ -1,0 +1,20 @@
+(define-module (crates-io sa me samedec) #:use-module (crates-io))
+
+(define-public crate-samedec-0.1.0 (c (n "samedec") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.1.0") (d #t) (k 0)))) (h "1q77pla5sicdsvyb51zwm57n0knq7g43n1ad2kymcmg0ln1x9bmq")))
+
+(define-public crate-samedec-0.2.0 (c (n "samedec") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.2.0") (d #t) (k 0)))) (h "13ms1khz3h25b7fn2aiab7mimwz7jly4z4klidbyb1a7czm8f7qs")))
+
+(define-public crate-samedec-0.2.1 (c (n "samedec") (v "0.2.1") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.2.1") (d #t) (k 0)))) (h "0cgbf8bjd3a3ysxbz5fp2azcjvg7n2pyhwzamk9cjig6xs1973fg")))
+
+(define-public crate-samedec-0.2.2 (c (n "samedec") (v "0.2.2") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "std"))) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.2.1") (d #t) (k 0)))) (h "15p9cx9ib3hvxnwqj6bqg90a8d9lk8syaz8pyzrlypyzbgw66bgk")))
+
+(define-public crate-samedec-0.2.3 (c (n "samedec") (v "0.2.3") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "std"))) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.2.3") (d #t) (k 0)))) (h "1972dzkgnzkv57xiab0ha4nahbx0lmz8s3vqvfy9xd8ch0yn0z0x")))
+
+(define-public crate-samedec-0.2.4 (c (n "samedec") (v "0.2.4") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "std"))) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.2.4") (d #t) (k 0)))) (h "1lq803r9vpyn95n1yrp6dzwkvhb5zgkk6fl12l9by2mgbdj3lv5j")))
+
+(define-public crate-samedec-0.2.5 (c (n "samedec") (v "0.2.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "std"))) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("color" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.2.5") (d #t) (k 0)))) (h "0plr4lh8qb2x70m88klyi6c3r7b714gm37gk4bqk089h0jghqmpv")))
+
+(define-public crate-samedec-0.3.0 (c (n "samedec") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "std"))) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("color" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "sameold") (r "^0.3.0") (d #t) (k 0)))) (h "1hgn7nbji8i9xv49xqrzcmgvaarg35x4cf2d22qsngh5ccwyvys1")))
+
+(define-public crate-samedec-0.4.0 (c (n "samedec") (v "0.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "std"))) (k 0)) (d (n "clap") (r "=4.4.18") (f (quote ("color" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 0)) (d (n "sameold") (r "^0.4.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3") (d #t) (k 0)))) (h "10jg51hsl3qr9bnq0ckvvgbz7vls5jas3l3ivjl59hrgq5bd8hq7") (r "1.70")))
+

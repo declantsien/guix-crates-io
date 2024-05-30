@@ -1,0 +1,10 @@
+(define-module (crates-io sy n- syn-file-expand) #:use-module (crates-io))
+
+(define-public crate-syn-file-expand-0.1.0 (c (n "syn-file-expand") (v "0.1.0") (d (list (d (n "im-rc") (r "^15.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 2)) (d (n "syn") (r "^1.0.88") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.88") (f (quote ("printing"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0jcd78lj5jgwqjfvc86j17swn8imlmgfr71sb7qyph42nkqh64sf")))
+
+(define-public crate-syn-file-expand-0.1.1 (c (n "syn-file-expand") (v "0.1.1") (d (list (d (n "im-rc") (r "^15.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 2)) (d (n "syn") (r "^1.0.88") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.88") (f (quote ("printing"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0kx8ig70van76swyzbdqiikal5kn92m038i5h4fm40f6mn64kw5w")))
+
+(define-public crate-syn-file-expand-0.2.0 (c (n "syn-file-expand") (v "0.2.0") (d (list (d (n "im-rc") (r "^15.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.10") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.88") (f (quote ("full" "extra-traits" "printing"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0qrcciscdq8kqzj4ipc8i4diz1rdaiiqgh070qj1qwarlnz1q65n")))
+
+(define-public crate-syn-file-expand-0.3.0 (c (n "syn-file-expand") (v "0.3.0") (d (list (d (n "im-rc") (r "^15.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits" "printing"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1c7xi5j861r0i5hxd0vahnsdsf4dhh4vy3sjfx0c5j01m4nhvx3s")))
+

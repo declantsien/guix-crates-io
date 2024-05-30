@@ -1,0 +1,8 @@
+(define-module (crates-io en #{2t}# en2tex) #:use-module (crates-io))
+
+(define-public crate-en2tex-1.0.0 (c (n "en2tex") (v "1.0.0") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "bat") (r "^0.22.1") (f (quote ("regex-onig"))) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "question") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "blocking" "rustls-tls"))) (k 0)) (d (n "serde_json") (r "^1.0.89") (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)))) (h "0myy7mk2dr8amd8ipg6s5h71l9wc3k6g1hl4i3jm7q1fcdy826xv")))
+
+(define-public crate-en2tex-1.0.1 (c (n "en2tex") (v "1.0.1") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "bat") (r "^0.22.1") (f (quote ("regex-onig"))) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "question") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "blocking" "rustls-tls"))) (k 0)) (d (n "serde_json") (r "^1.0.89") (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)))) (h "0a4r4mdbahb93v31zj6gg7xhk7cdz5adz1865v4i6vz0w754fgw8")))
+
+(define-public crate-en2tex-1.0.2 (c (n "en2tex") (v "1.0.2") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "bat") (r "^0.22.1") (f (quote ("regex-onig"))) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "question") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "blocking" "rustls-tls"))) (k 0)) (d (n "serde_json") (r "^1.0.89") (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)))) (h "0wzcdjgdalmqbkgbbkgmhq1drfmbyzv0xwzmlblwncgs9cyy5p3m")))
+

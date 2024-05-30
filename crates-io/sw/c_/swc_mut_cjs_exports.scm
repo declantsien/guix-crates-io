@@ -1,0 +1,18 @@
+(define-module (crates-io sw c_ swc_mut_cjs_exports) #:use-module (crates-io))
+
+(define-public crate-swc_mut_cjs_exports-0.79.19 (c (n "swc_mut_cjs_exports") (v "0.79.19") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "swc_core") (r "^0.79.55") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.79.55") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.33.21") (d #t) (k 2)))) (h "0j9qv40fv5v9q4w367d580yqkdn9vppcy1dm4cs3d3if9f3ld0qd")))
+
+(define-public crate-swc_mut_cjs_exports-0.79.69 (c (n "swc_mut_cjs_exports") (v "0.79.69") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "swc_core") (r "^0.79.69") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.79.69") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.33.21") (d #t) (k 2)))) (h "00kqhb88rs32d5aqsvjfpcmjx7k864fijz0fxcsrmjm3pfhmc4pr")))
+
+(define-public crate-swc_mut_cjs_exports-0.85.0 (c (n "swc_mut_cjs_exports") (v "0.85.0") (d (list (d (n "swc_core") (r "^0.85.0") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.85.0") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.35.0") (d #t) (k 2)))) (h "062qhi3r8qvalpd4h9ymijyg1jp59812k1zgnbjjlfxwkadxsh7p")))
+
+(define-public crate-swc_mut_cjs_exports-0.86.17 (c (n "swc_mut_cjs_exports") (v "0.86.17") (d (list (d (n "swc_core") (r "^0.86.17") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.86.17") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.35.2") (d #t) (k 2)))) (h "0fwbrnz45ilx7f2gfybqa4pyybj1xm3kb1i1nb9yf0w36p7afh0f")))
+
+(define-public crate-swc_mut_cjs_exports-0.89.2 (c (n "swc_mut_cjs_exports") (v "0.89.2") (d (list (d (n "swc_core") (r "^0.89.2") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.89.2") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.35.16") (d #t) (k 2)))) (h "1rkkn8caiaqgx6cj31n1zah57zwpz1f550nckr16f3167psy8y92")))
+
+(define-public crate-swc_mut_cjs_exports-0.90.3 (c (n "swc_mut_cjs_exports") (v "0.90.3") (d (list (d (n "swc_core") (r "^0.90.3") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.90.3") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.35.17") (d #t) (k 2)))) (h "0dld5y02mq9sq15an1r80jn9a4sy7jrg4l09i13qbdw11xq64bvx")))
+
+(define-public crate-swc_mut_cjs_exports-0.90.6 (c (n "swc_mut_cjs_exports") (v "0.90.6") (d (list (d (n "swc_core") (r "^0.90.6") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.90.6") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.35.18") (d #t) (k 2)))) (h "18w3vkyrjjnf7084wqc9kkb0sxb5x1fvik5xa1d01m93l9q47s81")))
+
+(define-public crate-swc_mut_cjs_exports-0.90.24 (c (n "swc_mut_cjs_exports") (v "0.90.24") (d (list (d (n "swc_core") (r "^0.90.24") (f (quote ("ecma_ast" "ecma_visit" "swc_plugin" "ecma_utils" "swc_atoms" "ecma_plugin_transform"))) (d #t) (k 0)) (d (n "swc_core") (r "^0.90.24") (f (quote ("testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.35.21") (d #t) (k 2)))) (h "186qd7ciqwy25n8r8fgb6ahbsww3wx9l9cidqpg7d1dabnggzaiw")))
+

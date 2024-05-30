@@ -1,0 +1,14 @@
+(define-module (crates-io pl ug plugy-runtime) #:use-module (crates-io))
+
+(define-public crate-plugy-runtime-0.1.0 (c (n "plugy-runtime") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "plugy-core") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmtime") (r "^10.0.1") (d #t) (k 0)))) (h "0hp25maj3jsjsh4y1nx5q66v1pgd6v9zy3vjypi5s3w04il58ydc")))
+
+(define-public crate-plugy-runtime-0.1.1 (c (n "plugy-runtime") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-lock") (r "^2.7.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "plugy-core") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmtime") (r "^10.0.1") (d #t) (k 0)))) (h "1kv8fvxzckjjm33i5z4n6a59mf2wkg7n21llykmvkj5pzw6ir5ii")))
+
+(define-public crate-plugy-runtime-0.2.0 (c (n "plugy-runtime") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-lock") (r "^2.7.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "plugy-core") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmtime") (r "^10.0.1") (d #t) (k 0)))) (h "04fkqbfh19m7f2ajb3cf373rxpdnrcbzkf0hlscfpcsfp1gzkgm2")))
+
+(define-public crate-plugy-runtime-0.2.1 (c (n "plugy-runtime") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-lock") (r "^2.7.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.4.0") (d #t) (k 0)) (d (n "plugy-core") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmtime") (r "^10.0.1") (d #t) (k 0)))) (h "00mrzvpaj3zmyjghiw01vflv1saa1gnnzg8rvi8rnav1g682ssy0")))
+
+(define-public crate-plugy-runtime-0.3.0 (c (n "plugy-runtime") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-lock") (r "^3.2.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.5.3") (d #t) (k 0)) (d (n "plugy-core") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmtime") (r "^15.0.1") (d #t) (k 0)))) (h "0ikwlwp7jjzaahazviv1gsfqjpm4005i4sdcz35sg5qi0lpkb8fx")))
+
+(define-public crate-plugy-runtime-0.3.1 (c (n "plugy-runtime") (v "0.3.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-lock") (r "^3.2.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "dashmap") (r "^5.5.3") (d #t) (k 0)) (d (n "plugy-core") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmtime") (r "^15.0.1") (d #t) (k 0)))) (h "0s3rvy0swjkilj331zbg3kcb5h9q3lv1ra6ck66dvxrxaqqfcxs2")))
+

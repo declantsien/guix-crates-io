@@ -1,0 +1,4 @@
+(define-module (crates-io re qu requiem-multipart) #:use-module (crates-io))
+
+(define-public crate-requiem-multipart-0.2.0-r1 (c (n "requiem-multipart") (v "0.2.0-r1") (d (list (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "requiem-http") (r "^1.0.0-r1") (d #t) (k 2)) (d (n "requiem-rt") (r "^1.0.0") (d #t) (k 2)) (d (n "requiem-service") (r "^1.0.1") (d #t) (k 0)) (d (n "requiem-utils") (r "^1.0.3") (d #t) (k 0)) (d (n "requiem-web") (r "^2.0.0-r2") (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "twoway") (r "^0.2") (d #t) (k 0)))) (h "16irmhgvnmbg620ynv2ffhw0i3bhhhi47inj4wjbw3nk68dv6dyp")))
+

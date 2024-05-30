@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# f ffi) #:use-module (crates-io))
+
+(define-public crate-ffi-0.1.0 (c (n "ffi") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.75") (d #t) (k 1)) (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "command-ext") (r "^0.1.1") (d #t) (k 1)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.70") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.41") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "1ar19mg8v9ymr6cbiqdxckq4dksjjjmrma0g12fhyx6xb5x4fmbf")))
+
+(define-public crate-ffi-0.1.1 (c (n "ffi") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.70") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.41") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "0mfh7rbg7lzfvz4510z4rns3js0xnl056y10s1by2g9gaw0zxqby")))
+

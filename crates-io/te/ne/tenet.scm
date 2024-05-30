@@ -1,0 +1,10 @@
+(define-module (crates-io te ne tenet) #:use-module (crates-io))
+
+(define-public crate-tenet-0.0.1 (c (n "tenet") (v "0.0.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.131") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 0)) (d (n "sha2") (r "^0.10.0") (o #t) (d #t) (k 0)))) (h "0xkmrw5nhl75k9zab33g1k22gaaacg109z47k9f1p16y2isk47vr") (f (quote (("default" "HS256") ("HS512" "hmac" "sha2") ("HS256" "hmac" "sha2")))) (y #t)))
+
+(define-public crate-tenet-0.0.2 (c (n "tenet") (v "0.0.2") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.131") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 0)) (d (n "sha2") (r "^0.10.0") (o #t) (d #t) (k 0)))) (h "1avj7vd8mpzkgdgcw47r2105jkddp4rs17f7bxhpvx7fxfcwsgm8") (f (quote (("default" "HS256") ("HS512" "hmac" "sha2") ("HS256" "hmac" "sha2")))) (y #t)))
+
+(define-public crate-tenet-0.0.3 (c (n "tenet") (v "0.0.3") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.131") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 0)) (d (n "sha2") (r "^0.10.0") (o #t) (d #t) (k 0)))) (h "0nsabd9bilbifh146ma8gnw9x8wbsb5h2przawj77888m7pp9cmz") (f (quote (("default" "HS256") ("HS512" "hmac" "sha2") ("HS256" "hmac" "sha2"))))))
+
+(define-public crate-tenet-0.0.4 (c (n "tenet") (v "0.0.4") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "http") (r "^0.2.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.131") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 0)) (d (n "sha2") (r "^0.10.0") (o #t) (d #t) (k 0)))) (h "09d0rh60plq5ksnr86lfs600f7333hcwqgnfsf6jl6xv50jx1ibh") (f (quote (("default" "HS256") ("HS512" "hmac" "sha2") ("HS256" "hmac" "sha2"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io sh me shmem-ipc) #:use-module (crates-io))
+
+(define-public crate-shmem-ipc-0.1.0 (c (n "shmem-ipc") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "dbus") (r "^0.9") (d #t) (k 2)) (d (n "dbus-crossroads") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.85") (d #t) (k 0)) (d (n "memfd") (r "^0.3.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.3") (d #t) (k 0)))) (h "0v62nfsnl3n3vgvl93mg1i3j92i3r36k0ikms5l4337r27vgfmf7")))
+
+(define-public crate-shmem-ipc-0.2.0 (c (n "shmem-ipc") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "dbus") (r "^0.9") (d #t) (k 2)) (d (n "dbus-crossroads") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.85") (d #t) (k 0)) (d (n "memfd") (r "^0.4.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.3") (d #t) (k 0)))) (h "0jczjj6kd88krfhbnzxy4g1cqs9qinslza56rjr0s6jq3h4bqh6k")))
+
+(define-public crate-shmem-ipc-0.3.0 (c (n "shmem-ipc") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "dbus") (r "^0.9.2") (d #t) (k 2)) (d (n "dbus-crossroads") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.85") (d #t) (k 0)) (d (n "memfd") (r "^0.4.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.5.8") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.3") (d #t) (k 0)))) (h "0spji1chkliwi0lph342kp7673mzk5bcsnymzsb7mdks3pf2ab7d")))
+

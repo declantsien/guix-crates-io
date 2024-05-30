@@ -1,0 +1,6 @@
+(define-module (crates-io fn sq fnsql-macro) #:use-module (crates-io))
+
+(define-public crate-fnsql-macro-0.2.6 (c (n "fnsql-macro") (v "0.2.6") (d (list (d (n "arbitrary") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "fnsql") (r "^0.2.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (d #t) (k 2)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "09dydrfs11g84a4iaisy84gsx3gx4pd9pw5igz1b5lv96dh5vjjn") (f (quote (("with-rusqlite") ("with-postgres") ("prepare-cache") ("default") ("all" "with-rusqlite" "with-postgres" "prepare-cache"))))))
+
+(define-public crate-fnsql-macro-0.2.7 (c (n "fnsql-macro") (v "0.2.7") (d (list (d (n "arbitrary") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "fnsql") (r "^0.2.7") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (d #t) (k 2)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1m7pwqw2zklpagw6p2nvskiay8nywvs3mldn24q6v34i7z6mlh07") (f (quote (("with-rusqlite") ("with-postgres") ("prepare-cache") ("default") ("all" "with-rusqlite" "with-postgres" "prepare-cache"))))))
+

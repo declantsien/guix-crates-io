@@ -1,0 +1,22 @@
+(define-module (crates-io vo s- vos-error) #:use-module (crates-io))
+
+(define-public crate-vos-error-0.0.0 (c (n "vos-error") (v "0.0.0") (h "0xpjpli7h3d364pgmniamdr4db4g8aaabpc8klcf8mp3ixmyjj6l") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.1.0 (c (n "vos-error") (v "0.1.0") (d (list (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)))) (h "1f4ifa5gy7qk5qm0lh96bf02235vlxx64c6i6gn726j19yq685h8") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.1.1 (c (n "vos-error") (v "0.1.1") (d (list (d (n "bigdecimal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)))) (h "0lz2snj0b6hihya35hqdr75dk536ksba1dlr1gd0p7rrfgrrxmxl") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.1.2 (c (n "vos-error") (v "0.1.2") (d (list (d (n "bigdecimal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "lsp-document") (r "^0.6.0") (d #t) (k 0)) (d (n "lsp-types") (r "^0.93.2") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)))) (h "0d8w0585hnmibda8r4kiq4wwmp09cyn42rk1m5yln3c7dgkwqqkx") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.2.0 (c (n "vos-error") (v "0.2.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.2.0") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)))) (h "04sw82q5h7gvbx1wxh7xmg1v9ad0l5lwih5cs3vq77axdc1sgir7") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.2.1 (c (n "vos-error") (v "0.2.1") (d (list (d (n "bigdecimal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.2.2") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)))) (h "1vxknjjla8qxscddns828kv0fjv8sp6751a7pyxgajnw3k7pyvqs") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.2.3 (c (n "vos-error") (v "0.2.3") (d (list (d (n "bigdecimal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.3.2") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)))) (h "00kfsyzj2a4ckg4bmb4zhflc1f5jpfnf739iciaymfdy5bl1x8jl") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.3.0 (c (n "vos-error") (v "0.3.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.3.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)))) (h "1xacgh9lhp1hf95l3zmyj420n7ipcmqi8rwzq42ba5frvja9g5pj") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.3.1 (c (n "vos-error") (v "0.3.1") (d (list (d (n "bigdecimal") (r "^0.3.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.3.3") (d #t) (k 0)) (d (n "email_address") (r "^0.2.3") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)))) (h "1s1nisi2ssmpw85i8xhqj7f634y1hk8m7g241bkgjh2rivw1f1iv") (f (quote (("default"))))))
+
+(define-public crate-vos-error-0.3.2 (c (n "vos-error") (v "0.3.2") (d (list (d (n "bigdecimal") (r "^0.3.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "diagnostic") (r "^0.3.3") (d #t) (k 0)) (d (n "email_address") (r "^0.2.3") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "peginator") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)))) (h "0lh6qgxpcpa6z5f9xsqwlqq1c2x1qx68zwg9gxb1spw65sg56x59") (f (quote (("default"))))))
+

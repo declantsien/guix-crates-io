@@ -1,0 +1,28 @@
+(define-module (crates-io #{3}# c cpr) #:use-module (crates-io))
+
+(define-public crate-cpr-1.0.0 (c (n "cpr") (v "1.0.0") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0y3xs6si2k6q75h2pqsgs2jqyp5jj7c4qdf0n14q2qavcwwc7w3f")))
+
+(define-public crate-cpr-1.0.1 (c (n "cpr") (v "1.0.1") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0dwq964lmakrd8jk9g6916a160k2viakppzvsbp8nhc2iz9hyb2z")))
+
+(define-public crate-cpr-1.0.2 (c (n "cpr") (v "1.0.2") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "05g0i7fcw4psa0nnl4kih6s3cf0a9bk6632q4y5g42n8qafq77vp")))
+
+(define-public crate-cpr-1.0.3 (c (n "cpr") (v "1.0.3") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1drbrklna8r5m5l56wyzqbvfhwm39i4cgln9aaij9pc6af87rlqg")))
+
+(define-public crate-cpr-1.0.4 (c (n "cpr") (v "1.0.4") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1y4230sjlnid5q2ijg2bb0pv1cl0bcv0mc1abvq9knzql4dfd5wv")))
+
+(define-public crate-cpr-1.0.5 (c (n "cpr") (v "1.0.5") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0a5c2899hsvb9xw4y88j3cimhy4gry6p8h1g3vdrcidylcv0b2m9")))
+
+(define-public crate-cpr-1.0.6 (c (n "cpr") (v "1.0.6") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0cz7mig133f4agd0c705gki2sxmd5glz8wn2bh4bmfvlb5gzp5g1")))
+
+(define-public crate-cpr-1.0.7 (c (n "cpr") (v "1.0.7") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0gjjjj8h38njjn0kkl375g1i17b84910gsbzqk3l284vix1vgf4f")))
+
+(define-public crate-cpr-1.0.8 (c (n "cpr") (v "1.0.8") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0hmknsrc90gxsj2wv5l5bwqj1dzdj6d0nhg2r71mibn4in37m6zl")))
+
+(define-public crate-cpr-1.0.9 (c (n "cpr") (v "1.0.9") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "017z2pq0p1g781p9i0m8hg90a9wmyxa6kxsp85a2yyc7whdjsx7x")))
+
+(define-public crate-cpr-1.0.10 (c (n "cpr") (v "1.0.10") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0r79brmfm2l49zi9i71i79ar9zhx7jw9qwk0p091q1194vnh368a")))
+
+(define-public crate-cpr-1.0.11 (c (n "cpr") (v "1.0.11") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0fs6ifgw727ig0nxwx35iy996jbqrklsd3kcprj8rjy1i82wrspj")))
+
+(define-public crate-cpr-1.1.0 (c (n "cpr") (v "1.1.0") (d (list (d (n "bio") (r "^0.9") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.0") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1sg79irr0rrm7zarj4690v82pd9l3jns5pi2cnrdwb9nwww4mvc7")))
+

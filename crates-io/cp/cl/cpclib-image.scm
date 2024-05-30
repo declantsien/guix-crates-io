@@ -1,0 +1,8 @@
+(define-module (crates-io cp cl cpclib-image) #:use-module (crates-io))
+
+(define-public crate-cpclib-image-0.5.0 (c (n "cpclib-image") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.41") (d #t) (k 0)) (d (n "as-slice") (r "^0.2.1") (d #t) (k 0)) (d (n "contracts") (r "^0.6.2") (d #t) (k 0)) (d (n "cpclib-common") (r "^0.5.0") (d #t) (k 0)) (d (n "gif") (r "^0.11.2") (d #t) (k 0)) (d (n "gif-dispose") (r "^3.1.1") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)))) (h "0ll832lmr465xpin7fjh7wr9qf6v74ss1f1mn97xf6sdm9y5fdd6")))
+
+(define-public crate-cpclib-image-0.6.0 (c (n "cpclib-image") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "as-slice") (r "^0.2.1") (d #t) (k 0)) (d (n "contracts") (r "^0.6.3") (d #t) (k 0)) (d (n "cpclib-common") (r "^0.6.0") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 0)) (d (n "gif-dispose") (r "^3.1.1") (d #t) (k 0)) (d (n "image") (r "^0.24.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)))) (h "05pm3z8kkii7piiwqnjq6mdal0d5mm0waj4rdkshhc9pjyv1ydkf")))
+
+(define-public crate-cpclib-image-0.7.0 (c (n "cpclib-image") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "as-slice") (r "^0.2.1") (d #t) (k 0)) (d (n "contracts") (r "^0.6.3") (d #t) (k 0)) (d (n "cpclib-common") (r "^0.7.0") (k 0)) (d (n "gif") (r "^0.12.0") (d #t) (k 0)) (d (n "gif-dispose") (r "^4.0.0") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.178") (f (quote ("derive"))) (d #t) (k 0)))) (h "1hpjy1db7id9x8y5pkd2319nqhy57nxmjqchriw1wjrn0bcsaz3g")))
+

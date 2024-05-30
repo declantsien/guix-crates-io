@@ -1,0 +1,6 @@
+(define-module (crates-io bl og blog-db) #:use-module (crates-io))
+
+(define-public crate-blog-db-0.1.0 (c (n "blog-db") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4.2") (f (quote ("postgres" "chrono" "uuid"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.14.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.6.5") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1d67gc572qnb8qjr29z6xcgnpg9id8yhc53i4rhihdfs4kkwqqqw")))
+
+(define-public crate-blog-db-0.2.0 (c (n "blog-db") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.9") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4.3") (f (quote ("postgres" "chrono" "uuidv07"))) (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("std" "serde"))) (o #t) (d #t) (k 0)) (d (n "rocket") (r "^0.4.2") (o #t) (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4.2") (f (quote ("diesel_postgres_pool"))) (o #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "1a369vpssms4sv9932x5dmhhzinkvfxkknw807yibh1mq343xvfq") (f (quote (("server" "diesel" "rocket" "rocket_contrib" "uuid/v4" "log") ("client"))))))
+

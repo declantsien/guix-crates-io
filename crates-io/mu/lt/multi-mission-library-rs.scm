@@ -1,0 +1,8 @@
+(define-module (crates-io mu lt multi-mission-library-rs) #:use-module (crates-io))
+
+(define-public crate-multi-mission-library-rs-0.1.0 (c (n "multi-mission-library-rs") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (f (quote ("defmt-03"))) (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 0)) (d (n "stm32f4xx-hal") (r "^0.20.0") (f (quote ("stm32f411"))) (d #t) (k 0)))) (h "1c7wwd3jhnmf7gh53mrylm1k15d9l53737iqaqp26d56asyqskrz")))
+
+(define-public crate-multi-mission-library-rs-0.1.1 (c (n "multi-mission-library-rs") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (f (quote ("defmt-03"))) (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 0)) (d (n "stm32f4xx-hal") (r "^0.20.0") (f (quote ("stm32f411"))) (d #t) (k 0)))) (h "1q2m5d3yyc27rdpa0k73zvlv2mvblarpcjrykcx93rqm45sk929i")))
+
+(define-public crate-multi-mission-library-rs-0.1.2 (c (n "multi-mission-library-rs") (v "0.1.2") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (f (quote ("defmt-03"))) (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 0)) (d (n "stm32f4xx-hal") (r "^0.20.0") (f (quote ("stm32f411"))) (d #t) (k 0)))) (h "07a9xx1r1gr8fidmwwj8gjhvmb0k634w82w5bp67n9q8qn8c3x41")))
+

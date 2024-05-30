@@ -1,0 +1,20 @@
+(define-module (crates-io do fi dofigen) #:use-module (crates-io))
+
+(define-public crate-dofigen-1.0.0 (c (n "dofigen") (v "1.0.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0q4krs8794mrsk36js4p94y89498yzv28bbzz9i3np82xn44c53i") (f (quote (("default" "bin") ("bin" "clap"))))))
+
+(define-public crate-dofigen-1.0.1 (c (n "dofigen") (v "1.0.1") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "12iljf97y8n1zw5y33hh1xzxdhlhx8vj0pml5vssl3piipj7dh3j") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-1.1.0 (c (n "dofigen") (v "1.1.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0asbhkjlbd2m8sgpx0gpi0mi2cz3dkp6iakvvynzg24n7vy5nc1x") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-0.0.0 (c (n "dofigen") (v "0.0.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0g9a7y22iqm768ha38wr121bdmbwvwyw9wmy4xq02w5xn7s3w4jx") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-1.2.0-beta.1 (c (n "dofigen") (v "1.2.0-beta.1") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0q71dq4d771n9jpavqa214s50kwcqz5475vydhc9c4fdx8mbj033") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-1.2.0 (c (n "dofigen") (v "1.2.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0wngss6zw4pl2v9wzdmq1k5jzncldfh0zz3bd5w2n9sx3wj9vcvp") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-1.2.1 (c (n "dofigen") (v "1.2.1") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "16x06fs05qkgx8sfzrx5zcx16vnwrsli67j08ynzkrzy93zlghlq") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-1.3.0 (c (n "dofigen") (v "1.3.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "1ng0xb234nys0kwhzpsy2h11qs9sbvfjg6g3x7s5q5by79q9s01a") (f (quote (("cli" "clap"))))))
+
+(define-public crate-dofigen-1.4.0 (c (n "dofigen") (v "1.4.0") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "09qfn6lkxfnwq81nj5ngvgvq1q524hx6jq49lbbh9hjynhzknybs") (f (quote (("cli" "clap"))))))
+

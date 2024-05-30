@@ -1,0 +1,6 @@
+(define-module (crates-io in cr incron) #:use-module (crates-io))
+
+(define-public crate-incron-0.1.0 (c (n "incron") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "inotify") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "14k076h37sxk0h75kz5bjdi9yapkkbpcj8hpwp0mzz610fbgpwbf")))
+
+(define-public crate-incron-0.1.1 (c (n "incron") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "inotify") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "1x10jkywx2hsm0rjrnfs64hsb9q27f838wl98lp3jpdv96f6ni35")))
+

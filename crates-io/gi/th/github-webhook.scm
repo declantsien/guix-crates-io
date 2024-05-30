@@ -1,0 +1,26 @@
+(define-module (crates-io gi th github-webhook) #:use-module (crates-io))
+
+(define-public crate-github-webhook-0.1.0+v6.8.0 (c (n "github-webhook") (v "0.1.0+v6.8.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 1)) (d (n "github-webhook-type-generator") (r "^0.1.0") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.13") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "serde") (r "^1.0.151") (d #t) (k 0)))) (h "05f6v1rr65zrsy6a32ifrkcyi5ch1rl5jhpf4nir8vd4kdn2i559")))
+
+(define-public crate-github-webhook-0.2.0+v6.11.0 (c (n "github-webhook") (v "0.2.0+v6.11.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.2") (d #t) (k 1)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1566nn130l73sldffmhi43jikqnypzj1lnwhm2b541w66h2lplbx")))
+
+(define-public crate-github-webhook-0.2.1+v6.11.0 (c (n "github-webhook") (v "0.2.1+v6.11.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.2") (d #t) (k 1)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0nj4ywvisms10mshqds7l5qa7z950nymypw9x96lgms715471bd1")))
+
+(define-public crate-github-webhook-0.2.2+v6.11.0 (c (n "github-webhook") (v "0.2.2+v6.11.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.2") (d #t) (k 1)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1k6hlp36gscfzm9bfyqwwq1ax2i1l1innd8f9x4120hax911cnpi")))
+
+(define-public crate-github-webhook-0.2.4 (c (n "github-webhook") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.15.4") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.2") (d #t) (k 1)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1xkyjgqwi7xs048mn3njxpz0qbsf22krsr2z7r3zick28w2cbj71")))
+
+(define-public crate-github-webhook-0.3.0 (c (n "github-webhook") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.15.4") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 2)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0847plklkgqisny03z9kbd12qba2z1p6mvpc6y3vm3aw3bf1112d")))
+
+(define-public crate-github-webhook-0.3.1 (c (n "github-webhook") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.15.4") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 2)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0zrdwa3marsmw6d364w8pacgk0zl5cm1lf1nrfpc2dbap6c17chc")))
+
+(define-public crate-github-webhook-0.3.2 (c (n "github-webhook") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.15.4") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.3") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 2)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1wk9zx7lrp5k6rwmdphwrjaka0i2cxw0kn0187xhigyhs8nf85y4")))
+
+(define-public crate-github-webhook-0.4.0 (c (n "github-webhook") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.15.4") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.4") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 2)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "01iak7ak6abi2qjfgrhhq6vja4ay0q4a0rjqy8rh2db6zaayc8g4")))
+
+(define-public crate-github-webhook-0.5.0 (c (n "github-webhook") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.15.4") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.5") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 2)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)))) (h "06pf6bgi4lnnalaskiiwrz1isakpywxakhmf70bsalkwvaadanbx") (r "1.64.0")))
+
+(define-public crate-github-webhook-0.5.1 (c (n "github-webhook") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0.76") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.5") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "13c5kj94wzmyi4cih24lmlmvrjnxpax3iz2hhjp5brsyxjc2dd3h") (r "1.64.0")))
+
+(define-public crate-github-webhook-0.5.2 (c (n "github-webhook") (v "0.5.2") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 1)) (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 1)) (d (n "github-webhook-dts-downloader") (r "^0.5") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 2)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)))) (h "1znxdiw1s7p7xx8qq2rixj4wslz6vxmx3dkrxgj5r7cprsmwbzxl") (r "1.64.0")))
+

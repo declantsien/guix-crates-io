@@ -1,0 +1,10 @@
+(define-module (crates-io ip ld ipld-collections) #:use-module (crates-io))
+
+(define-public crate-ipld-collections-0.1.0 (c (n "ipld-collections") (v "0.1.0") (d (list (d (n "async-std") (r "^1.5.0") (d #t) (k 0)) (d (n "async-std") (r "^1.5.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "ipld-block-builder") (r "^0.3.0") (d #t) (k 0)) (d (n "libipld") (r "^0.3.0") (d #t) (k 0)) (d (n "model") (r "^0.1.2") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "0wyzyrc6rm7p5rwngp5k3h9qirz1zpmsrdf05849kg6lkdibl8jh")))
+
+(define-public crate-ipld-collections-0.1.1 (c (n "ipld-collections") (v "0.1.1") (d (list (d (n "async-std") (r "^1.5.0") (d #t) (k 0)) (d (n "async-std") (r "^1.5.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "ipld-block-builder") (r "^0.3.0") (d #t) (k 0)) (d (n "libipld") (r "^0.3.0") (d #t) (k 0)) (d (n "model") (r "^0.1.2") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "1cy6wf8pxc499wxxfwhdm00nywdn7mzxhzks2iw9vwna6b4g3i5w")))
+
+(define-public crate-ipld-collections-0.2.0 (c (n "ipld-collections") (v "0.2.0") (d (list (d (n "async-std") (r "^1.5.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "libipld") (r "^0.4.0") (f (quote ("dag-cbor" "derive"))) (k 0)) (d (n "model") (r "^0.1.2") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "0jqshf31l96yq9139f7law5zff2z5dw0bbayyz8bmwl49s0m3r6g")))
+
+(define-public crate-ipld-collections-0.3.0 (c (n "ipld-collections") (v "0.3.0") (d (list (d (n "async-std") (r "^1.6.3") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "libipld") (r "^0.7.0") (f (quote ("dag-cbor" "derive"))) (k 0)) (d (n "model") (r "^0.1.2") (d #t) (k 2)) (d (n "proptest") (r "^0.10.1") (d #t) (k 2)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "16x1add8dr39lj5zx0f978q3ail8chhwi61i5j0nqhrfwhafg8vm")))
+

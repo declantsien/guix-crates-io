@@ -1,0 +1,10 @@
+(define-module (crates-io ko mo komodo_rpc_client) #:use-module (crates-io))
+
+(define-public crate-komodo_rpc_client-0.0.1 (c (n "komodo_rpc_client") (v "0.0.1") (d (list (d (n "bitcoin") (r "^0.14.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 2)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "jsonrpc_client") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.22") (d #t) (k 0)) (d (n "testcontainers") (r "^0.3") (d #t) (k 2)))) (h "01byzzp29lx4klw9r7h13gvb5chd3bqxzd708m9j0c8wmvbwds2j")))
+
+(define-public crate-komodo_rpc_client-0.0.2 (c (n "komodo_rpc_client") (v "0.0.2") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bitcoin") (r "^0.14") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "jsonrpc_client") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1zjcab85gvcrbxdgx7pz7c0qa4vcs9b5wa6shxch36vz0x4jdcxl")))
+
+(define-public crate-komodo_rpc_client-0.1.1 (c (n "komodo_rpc_client") (v "0.1.1") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bitcoin") (r "^0.14") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "os_info") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "152k3lql43mf67knsl90jiggk76h2n3fwrcvym8rr3icsbpwdr38")))
+
+(define-public crate-komodo_rpc_client-0.1.2 (c (n "komodo_rpc_client") (v "0.1.2") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bitcoin") (r "^0.14") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "os_info") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1f611hib8dy5zl264vilwdy57h5ml8z713qj8zwpz5wm2s3lgl68")))
+

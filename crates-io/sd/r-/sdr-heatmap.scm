@@ -1,0 +1,12 @@
+(define-module (crates-io sd r- sdr-heatmap) #:use-module (crates-io))
+
+(define-public crate-sdr-heatmap-0.1.1 (c (n "sdr-heatmap") (v "0.1.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "image") (r "^0.23.2") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1w67n1g3iabk910lpzks0012i8aba1rjwy7ah6lrc011xv163nc6")))
+
+(define-public crate-sdr-heatmap-0.1.2 (c (n "sdr-heatmap") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "image") (r "^0.23.2") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1bz0np5paxvi9dwcdijd9m35ifg5b7njp1qwl63hjng48sgb2rrm")))
+
+(define-public crate-sdr-heatmap-0.1.3 (c (n "sdr-heatmap") (v "0.1.3") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.14") (d #t) (k 0)) (d (n "image") (r "^0.23.3") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "03gxfri5xh97xv0gdwi3y47qaz9vywhvhk5z3j4j4ndddx95g4sm")))
+
+(define-public crate-sdr-heatmap-0.1.4 (c (n "sdr-heatmap") (v "0.1.4") (d (list (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.14") (d #t) (k 0)) (d (n "image") (r "^0.23.5") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "proptest") (r "^0.10.0") (d #t) (k 2)) (d (n "rayon") (r "^1.3.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0nplw17bn8816pwzd4fq04jvyna7qf447lc4rwgdknxwx58mvs4f")))
+
+(define-public crate-sdr-heatmap-0.1.5 (c (n "sdr-heatmap") (v "0.1.5") (d (list (d (n "clap") (r "^2.33.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.16") (d #t) (k 0)) (d (n "image") (r "^0.23.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "proptest") (r "^0.10.0") (d #t) (k 2)) (d (n "rayon") (r "^1.3.1") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0snq1wk5qzyrmdsg0scwws8wfr5hzv21hxfqwr9wc0lprg3aw0ad")))
+

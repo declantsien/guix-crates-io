@@ -1,0 +1,12 @@
+(define-module (crates-io cs s_ css_dataset) #:use-module (crates-io))
+
+(define-public crate-css_dataset-0.1.0 (c (n "css_dataset") (v "0.1.0") (d (list (d (n "ahash") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "once_cell") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "0zmhc1933xgcgf43dx4yjq5b8s1c7halpq3pipiw19k333580lmh")))
+
+(define-public crate-css_dataset-0.1.1 (c (n "css_dataset") (v "0.1.1") (d (list (d (n "ahash") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "0vcbqvazrlns56jhvfiv2sm872cgkcav379cj74bwgv2f3v3p8di")))
+
+(define-public crate-css_dataset-0.2.0 (c (n "css_dataset") (v "0.2.0") (d (list (d (n "ahash") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "0dhj3sbfw1v59qsyk1l2qgv77z2zmrdv54rnh53vm2yvizhcrd84")))
+
+(define-public crate-css_dataset-0.2.1 (c (n "css_dataset") (v "0.2.1") (d (list (d (n "ahash") (r "^0.8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "17d06lzn61g94gflmi3q2nddxbhgmq2r7vxjriq2hwv45x9v2kn0")))
+
+(define-public crate-css_dataset-0.3.0 (c (n "css_dataset") (v "0.3.0") (d (list (d (n "ahash") (r "^0.8") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (o #t) (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "phf_codegen") (r "^0.11.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "07fpnvbmlac41h3gnm3babccnwh8scj0szqnl3ibaanqnd4lrvd0") (f (quote (("properties_shorthand" "ahash" "once_cell"))))))
+

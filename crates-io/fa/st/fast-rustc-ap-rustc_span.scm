@@ -1,0 +1,4 @@
+(define-module (crates-io fa st fast-rustc-ap-rustc_span) #:use-module (crates-io))
+
+(define-public crate-fast-rustc-ap-rustc_span-1.0.0 (c (n "fast-rustc-ap-rustc_span") (v "1.0.0") (d (list (d (n "arena") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-arena")) (d (n "cfg-if") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustc_data_structures") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_data_structures")) (d (n "rustc_index") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_index")) (d (n "rustc_macros") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_macros")) (d (n "rustc_serialize") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-serialize")) (d (n "scoped-tls") (r "^1.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.4") (d #t) (k 0)))) (h "19dr83ayfyyfbyk004vrvz4p60mh7084d2vwk2mq1hjfj9x8bi5f")))
+

@@ -1,0 +1,76 @@
+(define-module (crates-io cs v2 csv2parquet) #:use-module (crates-io))
+
+(define-public crate-csv2parquet-0.1.0 (c (n "csv2parquet") (v "0.1.0") (d (list (d (n "arrow") (r "^3.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^3.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1l135nq9gl1rg17af7wwp887nyyh11l39q441ah0gsv37jd23lx8")))
+
+(define-public crate-csv2parquet-0.1.1 (c (n "csv2parquet") (v "0.1.1") (d (list (d (n "arrow") (r "^3.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^3.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1ii9j89k28q73xm7x564wn8gcdmhj4wa6hdxmvinvwfmlpss7rfa")))
+
+(define-public crate-csv2parquet-0.1.2 (c (n "csv2parquet") (v "0.1.2") (d (list (d (n "arrow") (r "^3.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^3.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1xzv2kxz04jbhqrskd8nch1kdj346nsh6givzwkxq4y513x0anfv")))
+
+(define-public crate-csv2parquet-0.1.3 (c (n "csv2parquet") (v "0.1.3") (d (list (d (n "arrow") (r "^3.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^3.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1qsd5akq16jsr8pv7v8k62i5c3n75bqmlw2v2bwrl964m7lb68av")))
+
+(define-public crate-csv2parquet-0.1.4 (c (n "csv2parquet") (v "0.1.4") (d (list (d (n "arrow") (r "^3.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^3.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "038ncrp9xm3mh3n1ah4frp7lg7vhhlwbi6fz8fqvhn0k1v0r45bc")))
+
+(define-public crate-csv2parquet-0.2.0 (c (n "csv2parquet") (v "0.2.0") (d (list (d (n "arrow") (r "^4.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^4.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0xk8q8wjrvfg3qrxbg1pff3j2lr1550sxl9g85jirs0cbr6qa0f2")))
+
+(define-public crate-csv2parquet-0.2.1 (c (n "csv2parquet") (v "0.2.1") (d (list (d (n "arrow") (r "^5.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "parquet") (r "^5.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0bn531gfmmgaxn5nxsw87wl8zq2k8hdy4sk233fgdczzb45s6aws")))
+
+(define-public crate-csv2parquet-0.2.2 (c (n "csv2parquet") (v "0.2.2") (d (list (d (n "arrow") (r "^5.4.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "parquet") (r "^5.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0jddvbx5p43ps34vqsrnxx1qniy1f7ilmi2whyqg3g9psm9iqiq6")))
+
+(define-public crate-csv2parquet-0.2.3 (c (n "csv2parquet") (v "0.2.3") (d (list (d (n "arrow") (r "^6.2.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "parquet") (r "^6.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "062kscxmkzjfglk4xzrhb8jlwsxqj25y1mi3axxfjf08i2pl98r6")))
+
+(define-public crate-csv2parquet-0.2.4 (c (n "csv2parquet") (v "0.2.4") (d (list (d (n "arrow") (r "^9.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^9.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "152mz5ln64376k1f32mbadngfg1jna6r6y27j6fdn4cqbwsx7934")))
+
+(define-public crate-csv2parquet-0.3.0 (c (n "csv2parquet") (v "0.3.0") (d (list (d (n "arrow") (r "^12.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^12.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)))) (h "1zhyazxcay7pgdnw8w7xchrf3ly0lzpkqvkzs77zaqk32l4x8ds7")))
+
+(define-public crate-csv2parquet-0.4.0 (c (n "csv2parquet") (v "0.4.0") (d (list (d (n "arrow") (r "^19.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^19.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "0csykc36q17jcw8mlxmhzdpzqih7n0xlrgv5g86ahdaj80shmrr5")))
+
+(define-public crate-csv2parquet-0.5.0 (c (n "csv2parquet") (v "0.5.0") (d (list (d (n "arrow") (r "^23.0.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^23.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "1h2ia71dn0kwh46nxcyhzpwg6xinrz3yiar88lrgi1ap701sr9hm")))
+
+(define-public crate-csv2parquet-0.6.0 (c (n "csv2parquet") (v "0.6.0") (d (list (d (n "arrow") (r "^23.0.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^23.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "0fxpf21jdy0h784xl8c9qn7mc8iacm5dd2bwhm5jdwi8sbhgh89a")))
+
+(define-public crate-csv2parquet-0.6.1 (c (n "csv2parquet") (v "0.6.1") (d (list (d (n "arrow") (r "^30.0.1") (d #t) (k 0)) (d (n "arrow-schema") (r "^30.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^30.0.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1qd6swb9piyifh9jcxpp6jj3by6l55zci9afv0qzcm0p8mbsw5pc")))
+
+(define-public crate-csv2parquet-0.7.0 (c (n "csv2parquet") (v "0.7.0") (d (list (d (n "arrow") (r "^32.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^32.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^32.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "0i44kn9nqxh4j06hilcgiy3mwv6bhvxhggsv3xbca7knh4fd4hy5")))
+
+(define-public crate-csv2parquet-0.7.2 (c (n "csv2parquet") (v "0.7.2") (d (list (d (n "arrow") (r "^32.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^32.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^32.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1g7g7b45gb0c62qjg906sgl535dr3rgh9kg7rzzxa9az4myjsp4n")))
+
+(define-public crate-csv2parquet-0.8.0 (c (n "csv2parquet") (v "0.8.0") (d (list (d (n "arrow") (r "^34.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^34.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^34.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "01wm0pns9i80471l9zk3gnbfa3yjx76zppi7ddbazvnhaxa6kf98")))
+
+(define-public crate-csv2parquet-0.8.1 (c (n "csv2parquet") (v "0.8.1") (d (list (d (n "arrow") (r "^34.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^34.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^34.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "18g4zdx903klxzwi33p27y0ijs7s0kcz0lz8z565ijxyvk2w598h")))
+
+(define-public crate-csv2parquet-0.10.0 (c (n "csv2parquet") (v "0.10.0") (d (list (d (n "arrow") (r "^36.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^36.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.10.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^36.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "0wqhmvh5q2zflkmxc135rl0x121bwasgyw7fmfzkyzp9byzcbs91")))
+
+(define-public crate-csv2parquet-0.11.0 (c (n "csv2parquet") (v "0.11.0") (d (list (d (n "arrow") (r "^40.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^40.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.11.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^40.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0h35qc3d38h5c91li47kf7pz88j5s0xb01g7sl86kvjspb2zivk1")))
+
+(define-public crate-csv2parquet-0.12.0 (c (n "csv2parquet") (v "0.12.0") (d (list (d (n "arrow") (r "^44.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^44.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.12.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^44.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "0df9s3l6lq511mnmdcw1a98iapld47jrkh62y9vhgdhynhhhr9yv")))
+
+(define-public crate-csv2parquet-0.12.1 (c (n "csv2parquet") (v "0.12.1") (d (list (d (n "arrow") (r "^44.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^44.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^44.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "1k92ykn17cb09vvx8m4471z4h5vm07j83lvxr6j9k138b5q43qgm")))
+
+(define-public crate-csv2parquet-0.13.0 (c (n "csv2parquet") (v "0.13.0") (d (list (d (n "arrow") (r "^46.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^46.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^46.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "1jf5i4jv142bq7mdfsaz5mm1pa2ngrj244fpl8zgi35hxb8pk42b")))
+
+(define-public crate-csv2parquet-0.14.0 (c (n "csv2parquet") (v "0.14.0") (d (list (d (n "arrow") (r "^47.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^47.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.14.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^47.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "11g6afhb2qh1abdp86yxqll4wa3dqw0m2xkn25765r6f64n7cy8k")))
+
+(define-public crate-csv2parquet-0.14.1 (c (n "csv2parquet") (v "0.14.1") (d (list (d (n "arrow") (r "^47.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^47.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.14.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^47.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "08rnmfbhdq8rr2nbd1d78q9gb2ailnh92xsx9w6lvaa2d5xi6fg2")))
+
+(define-public crate-csv2parquet-0.17.0 (c (n "csv2parquet") (v "0.17.0") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "0q3hbns01ckm7ijg9nxdl3fxa6a3gaglxjb4xlsjq9gzy52gxdxp")))
+
+(define-public crate-csv2parquet-0.17.1 (c (n "csv2parquet") (v "0.17.1") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "10w3lg81zd3sr4wkgljc2alr48hjm65b6hsc3l8x8brs7mjifbgq")))
+
+(define-public crate-csv2parquet-0.17.2 (c (n "csv2parquet") (v "0.17.2") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.2") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1gvfqma5ddhca2rgig312k173jva1p97xaqqfs19n0rbh8sk9zhx")))
+
+(define-public crate-csv2parquet-0.17.3 (c (n "csv2parquet") (v "0.17.3") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "19753fv5xnh4f0lx7ccv2fd8imz0fx20y42k3gq4n15ik2q580aj")))
+
+(define-public crate-csv2parquet-0.17.4 (c (n "csv2parquet") (v "0.17.4") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.4") (d #t) (k 0)) (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "17c1vj5w8sgs1sqdiwxilj64cpv83dap6hhpkwf6j9qnh56d16hw")))
+
+(define-public crate-csv2parquet-0.17.5 (c (n "csv2parquet") (v "0.17.5") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.5") (d #t) (k 0)) (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1faawkcfgpb4gqppywb0q4zimm9d4k1rgr9chw3zlf56qlxnvdlb")))
+
+(define-public crate-csv2parquet-0.17.7 (c (n "csv2parquet") (v "0.17.7") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.7") (d #t) (k 0)) (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1vdgip6ggy2l9k8xhb3vhw5c1221ky71zhiyjng841wwwxh7an5z")))
+
+(define-public crate-csv2parquet-0.17.8 (c (n "csv2parquet") (v "0.17.8") (d (list (d (n "arrow") (r "^49.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^49.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.8") (d #t) (k 0)) (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^49.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "0j1prnmfbzhvq2mb4yvxjvpqqlk41cy4m7ljjyzrrq7s1hkp6bcg")))
+
+(define-public crate-csv2parquet-0.17.9 (c (n "csv2parquet") (v "0.17.9") (d (list (d (n "arrow") (r "^50.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^50.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.9") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^50.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "0ihg2hr69zzfx7w8qfyq3sw9np0lfpqhczvqy296frm02p7a9gj5")))
+
+(define-public crate-csv2parquet-0.17.10 (c (n "csv2parquet") (v "0.17.10") (d (list (d (n "arrow") (r "^50.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^50.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.17.10") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^50.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "0gm7nw4hbia1p16j7vpvjzap6y3hd63r9fcl3fz05f1pamp6bdp2")))
+
+(define-public crate-csv2parquet-0.18.0 (c (n "csv2parquet") (v "0.18.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^51.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "arrow-tools") (r "^0.18.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parquet") (r "^51.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0z826qnjx3kqw3ypyjvqrfllyrzv3fwrsgb9ri1l04ivabgjrxa4")))
+

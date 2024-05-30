@@ -1,0 +1,10 @@
+(define-module (crates-io re in reinda-macros) #:use-module (crates-io))
+
+(define-public crate-reinda-macros-0.0.1 (c (n "reinda-macros") (v "0.0.1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "reinda-core") (r "=0.0.1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("parsing" "proc-macro" "derive" "printing"))) (k 0)))) (h "1slb1jmyg58bjnsikzi90wlkkb19jx2wq8rih15c2hps1hjsnb12")))
+
+(define-public crate-reinda-macros-0.0.2 (c (n "reinda-macros") (v "0.0.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "flate2") (r "^1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "reinda-core") (r "=0.0.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("parsing" "proc-macro" "derive" "printing"))) (k 0)))) (h "08f3j82p1gjjvlwsirfhz9nlk1dplx1xsyhfzzkz2sl6fklz4frr") (f (quote (("hash") ("debug-is-prod" "reinda-core/debug-is-prod") ("compress" "flate2"))))))
+
+(define-public crate-reinda-macros-0.0.3 (c (n "reinda-macros") (v "0.0.3") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "flate2") (r "^1") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "reinda-core") (r "=0.0.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("parsing" "proc-macro" "derive" "printing"))) (k 0)))) (h "09cq9lj54j44ql1w303xz42crnla2mn6hr9yfpq5kj984g0cxvhg") (f (quote (("hash") ("debug-is-prod" "reinda-core/debug-is-prod") ("compress" "flate2"))))))
+
+(define-public crate-reinda-macros-0.0.4 (c (n "reinda-macros") (v "0.0.4") (d (list (d (n "brotli") (r "^5") (o #t) (d #t) (k 0)) (d (n "cfg_aliases") (r "^0.2.0") (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "litrs") (r "^0.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)))) (h "0npwj9mlnbphymmxw381f55xwk56bzz2f2b93x27b82yrm3724cb") (f (quote (("always-prod")))) (s 2) (e (quote (("compress" "dep:brotli"))))))
+

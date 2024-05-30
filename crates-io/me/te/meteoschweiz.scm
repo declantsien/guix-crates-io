@@ -1,0 +1,4 @@
+(define-module (crates-io me te meteoschweiz) #:use-module (crates-io))
+
+(define-public crate-meteoschweiz-0.1.0 (c (n "meteoschweiz") (v "0.1.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "config") (r "^0.10") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "isahc") (r "^0.9") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "scraper") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shellexpand") (r "^2") (d #t) (k 0)) (d (n "tera") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1vi01w4cpl77rrp42p3y0qihsa1yf7ajszd3vhyky4m12r2rv6kz")))
+

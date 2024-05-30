@@ -1,0 +1,14 @@
+(define-module (crates-io aq ue aqueducts-cli) #:use-module (crates-io))
+
+(define-public crate-aqueducts-cli-0.1.0 (c (n "aqueducts-cli") (v "0.1.0") (d (list (d (n "aqueducts") (r "^0.1") (f (quote ("s3" "gcs" "azure"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "00s8hm150j6li1xmab1d992n7pwd2sxvmphwsp7slhgzxz6yl1vw")))
+
+(define-public crate-aqueducts-cli-0.1.1 (c (n "aqueducts-cli") (v "0.1.1") (d (list (d (n "aqueducts") (r "^0.1") (f (quote ("s3" "gcs" "azure"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0b0x4hfysyn8gq42m6gz3vphbz917zjvf02m3xyq6cszyd9c6gw2")))
+
+(define-public crate-aqueducts-cli-0.1.2 (c (n "aqueducts-cli") (v "0.1.2") (d (list (d (n "aqueducts") (r "^0.1") (f (quote ("s3" "gcs" "azure"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1gdgdbfhr09wkij5l8p5n1i701i6sb8v48z02p7dvsxp4piwh14q")))
+
+(define-public crate-aqueducts-cli-0.2.0 (c (n "aqueducts-cli") (v "0.2.0") (d (list (d (n "aqueducts") (r "^0.2") (f (quote ("s3" "gcs" "azure" "odbc"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0sy9aq4f8psb99liqlw47sjdx3lspb5gqa6iyqfz4npwz7zbgfsi")))
+
+(define-public crate-aqueducts-cli-0.2.1 (c (n "aqueducts-cli") (v "0.2.1") (d (list (d (n "aqueducts") (r "^0.2") (f (quote ("s3" "gcs" "azure" "odbc"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1g3id8n8kph39z2a88am1prc1xdvgklfljprfvk7dzpjdmr79dq4")))
+
+(define-public crate-aqueducts-cli-0.2.2 (c (n "aqueducts-cli") (v "0.2.2") (d (list (d (n "aqueducts") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0jhl07ja8dc7zza93jwxpva6syan42k5lapnbsxyp09i5r3nmhc7") (f (quote (("s3" "aqueducts/s3") ("odbc" "aqueducts/odbc") ("gcs" "aqueducts/gcs") ("default" "s3" "gcs" "azure") ("azure" "aqueducts/azure"))))))
+

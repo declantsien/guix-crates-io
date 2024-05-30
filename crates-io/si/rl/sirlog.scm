@@ -1,0 +1,4 @@
+(define-module (crates-io si rl sirlog) #:use-module (crates-io))
+
+(define-public crate-sirlog-0.0.1 (c (n "sirlog") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.38") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "io-std" "io-util"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("test-util" "rt" "rt-multi-thread" "sync" "macros" "time"))) (k 2)))) (h "1s5kpc8ii5g5lir95sh4zgpnvhc2a3c3fril4lbx8vinw2dfl5j7") (f (quote (("default") ("archiver"))))))
+

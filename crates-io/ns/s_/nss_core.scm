@@ -1,0 +1,4 @@
+(define-module (crates-io ns s_ nss_core) #:use-module (crates-io))
+
+(define-public crate-nss_core-0.1.0 (c (n "nss_core") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.1") (d #t) (k 0)) (d (n "similar") (r "^2.2.1") (d #t) (k 0)) (d (n "testdir") (r "^0.7.3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)) (d (n "whoami") (r "^1.4.0") (d #t) (k 0)))) (h "0mrdgrf00zcaxbdn46khc0ii3d3skjld4qyvf0y8bpi1m2cb53c3") (r "1.69")))
+

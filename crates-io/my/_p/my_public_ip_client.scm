@@ -1,0 +1,14 @@
+(define-module (crates-io my _p my_public_ip_client) #:use-module (crates-io))
+
+(define-public crate-my_public_ip_client-0.1.0 (c (n "my_public_ip_client") (v "0.1.0") (d (list (d (n "my_public_ip_lib") (r "~0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "time") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "09vgrs8zq7m2kd0zx8cyn89m93nzc566r97r2bj0jrs63y35ywss")))
+
+(define-public crate-my_public_ip_client-0.2.0 (c (n "my_public_ip_client") (v "0.2.0") (d (list (d (n "my_public_ip_lib") (r "~0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "time") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0y1c9xm0cgr3zvbjd68sxqlyx9aq3lclw3vdcgg8l8kiaqnc9xxz")))
+
+(define-public crate-my_public_ip_client-0.4.0 (c (n "my_public_ip_client") (v "0.4.0") (d (list (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "my_public_ip_lib") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "time") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "12pzyx5jjvsp9fsrmnd4f2z2fgf30wra46nk5cqsx4bi8qmqna8j")))
+
+(define-public crate-my_public_ip_client-0.5.0 (c (n "my_public_ip_client") (v "0.5.0") (d (list (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "my_public_ip_lib") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "time") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0h6116zsgm4xmvm8ab45rqa30msvlazyr74s1risrr3fmbcj95xs")))
+
+(define-public crate-my_public_ip_client-0.6.0 (c (n "my_public_ip_client") (v "0.6.0") (d (list (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "my_public_ip_lib") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "time") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dz0ndwmvpdxy8919xhns2cidr1jjd5a8dlmh0whgccz566f8b5k")))
+
+(define-public crate-my_public_ip_client-0.6.1 (c (n "my_public_ip_client") (v "0.6.1") (d (list (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "my_public_ip_lib") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (k 0)) (d (n "time") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1w2dapw9b1j60g5llizlxlx0dw0ijyqqjkrx3nw4izynmcfdpx8c")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_save-erased-serde) #:use-module (crates-io))
+
+(define-public crate-bevy_save-erased-serde-0.3.25 (c (n "bevy_save-erased-serde") (v "0.3.25") (d (list (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.63") (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0cv2jd7sls218yvijixii99dpqcsj5wzrmvrd8sp85vsq50gmhbr") (f (quote (("unstable-debug") ("std" "serde/std") ("default" "std") ("alloc" "serde/alloc")))) (r "1.31")))
+
+(define-public crate-bevy_save-erased-serde-0.4.0 (c (n "bevy_save-erased-serde") (v "0.4.0") (d (list (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.63") (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0zb8lxra8z6a1gd5lv5gjlc4fjicrsadll6d1b3b104rdl40fsfg") (f (quote (("unstable-debug") ("std" "serde/std") ("default" "std") ("alloc" "serde/alloc")))) (r "1.31")))
+

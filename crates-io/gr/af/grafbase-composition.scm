@@ -1,0 +1,6 @@
+(define-module (crates-io gr af grafbase-composition) #:use-module (crates-io))
+
+(define-public crate-grafbase-composition-0.1.0 (c (n "grafbase-composition") (v "0.1.0") (d (list (d (n "async-graphql-parser") (r "^6") (d #t) (k 0)) (d (n "async-graphql-value") (r "^6") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "grafbase-federated-graph") (r "^0.1.0") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "13bryjbdcyafc21d6liy7316rs8c92rws6yc7m8skdknxvy7rcb3") (y #t)))
+
+(define-public crate-grafbase-composition-0.1.1 (c (n "grafbase-composition") (v "0.1.1") (d (list (d (n "async-graphql-parser") (r "^6") (d #t) (k 0)) (d (n "async-graphql-value") (r "^6") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "graphql-federated-graph") (r "^0.1.0") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "10cfifh6lvfxiaqhd04369swjg4gfaw5qg9h6qx7a0jz34nracjx") (y #t)))
+

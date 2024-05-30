@@ -1,0 +1,12 @@
+(define-module (crates-io st eg steg86) #:use-module (crates-io))
+
+(define-public crate-steg86-0.1.1 (c (n "steg86") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "goblin") (r "^0.2") (d #t) (k 0)) (d (n "iced-x86") (r "^1.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "063rhqlf3brva76h2apphxfw38zfxwr7v8l3j3w56wyjdw46j4f1")))
+
+(define-public crate-steg86-0.1.2 (c (n "steg86") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "goblin") (r "^0.2") (d #t) (k 0)) (d (n "iced-x86") (r "^1.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1jqmpr49pj9mvfxlan5dj70bklhgfcwiarwd0p2lp83mqjrjd6nd")))
+
+(define-public crate-steg86-0.2.0 (c (n "steg86") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "clap") (r "^3.0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "goblin") (r "^0.4") (d #t) (k 0)) (d (n "iced-x86") (r "^1.15.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0f4pbyja9dbxf7bc3qky2s5mcs5c4629hqs9hzdnh25nxw5vrjv5")))
+
+(define-public crate-steg86-0.2.1-rc.1 (c (n "steg86") (v "0.2.1-rc.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "clap") (r "^4.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "goblin") (r "^0.7") (d #t) (k 0)) (d (n "iced-x86") (r "^1.20") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "05v83ljz480qly0fl46yjf90g6lk15nrvgz8hp393p8w3mcajn2d")))
+
+(define-public crate-steg86-0.2.1 (c (n "steg86") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6") (d #t) (k 0)) (d (n "clap") (r "^4.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "goblin") (r "^0.7") (d #t) (k 0)) (d (n "iced-x86") (r "^1.20") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0hrxg83wxdplcpyfsx97j2xd196jf5fgfsf1403xbvhj7kryj4kl")))
+

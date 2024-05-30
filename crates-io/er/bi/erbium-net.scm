@@ -1,0 +1,6 @@
+(define-module (crates-io er bi erbium-net) #:use-module (crates-io))
+
+(define-public crate-erbium-net-1.0.4 (c (n "erbium-net") (v "1.0.4") (d (list (d (n "bytes") (r ">=1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("net" "os-poll"))) (d #t) (k 0)) (d (n "netlink-packet-core") (r "^0.5") (d #t) (k 0)) (d (n "netlink-packet-route") (r "^0.15") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.8") (f (quote ("tokio_socket"))) (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.8.4") (f (quote ("full"))) (d #t) (k 0)))) (h "1d2w3y3iyf5d896i8yc3sf3n50g6kx1j2g0knh0rhacsxwq66zwj")))
+
+(define-public crate-erbium-net-1.0.5 (c (n "erbium-net") (v "1.0.5") (d (list (d (n "bytes") (r ">=1.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("net" "os-poll"))) (d #t) (k 0)) (d (n "netlink-packet-core") (r ">=0.4, <=0.5") (d #t) (k 0)) (d (n "netlink-packet-route") (r ">=0.12, <=0.15") (d #t) (k 0)) (d (n "netlink-sys") (r "^0.8") (f (quote ("tokio_socket"))) (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.8.4") (f (quote ("full"))) (d #t) (k 0)))) (h "1i3vsb207rk6p8cbzffniyl61h1djq6hwi05blkyr7154wswsl5g")))
+

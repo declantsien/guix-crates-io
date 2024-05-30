@@ -1,0 +1,4 @@
+(define-module (crates-io dm xv dmxvis) #:use-module (crates-io))
+
+(define-public crate-dmxvis-0.1.0 (c (n "dmxvis") (v "0.1.0") (d (list (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "cpal") (r "^0.15.2") (d #t) (k 0)) (d (n "eframe") (r "^0.23.0") (d #t) (k 0)) (d (n "egui") (r "^0.23.0") (d #t) (k 0)) (d (n "egui_plot") (r "^0.23.0") (d #t) (k 0)) (d (n "embed-resource") (r "^2.4.0") (d #t) (k 1)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "openrgb") (r "^0.1.2") (d #t) (k 0)) (d (n "ringbuf") (r "^0.3.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serialport") (r "^4.2.2") (d #t) (k 0)) (d (n "spectrum-analyzer") (r "^1.5.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("rt-multi-thread" "net" "sync" "io-util"))) (k 0)))) (h "0xfzy1b04bgxarn6w0cslgysj3kzvif9gp1b1gm016k203k970hz")))
+

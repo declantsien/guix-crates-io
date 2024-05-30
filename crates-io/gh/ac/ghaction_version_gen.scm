@@ -1,0 +1,26 @@
+(define-module (crates-io gh ac ghaction_version_gen) #:use-module (crates-io))
+
+(define-public crate-ghaction_version_gen-0.10.0 (c (n "ghaction_version_gen") (v "0.10.0") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "1xq34fvbw9c7871h9nryxjhbad38f36id7idav4lgim4ah5yn59k")))
+
+(define-public crate-ghaction_version_gen-0.10.1 (c (n "ghaction_version_gen") (v "0.10.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "01jnkx38xdfm64wair4wjdilnm7rplxszax0i5b4fr5v2901g2hi")))
+
+(define-public crate-ghaction_version_gen-0.11.0 (c (n "ghaction_version_gen") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "11a45bp457cgzxzirpv279v0rxzqxl9s3sb8yvlqrhw0nnj6qprx")))
+
+(define-public crate-ghaction_version_gen-0.12.0 (c (n "ghaction_version_gen") (v "0.12.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.27") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0i8fbvyfihrmlpzx03jpl6hv6m488ghwqhc9g875vxgbqdqrh45k")))
+
+(define-public crate-ghaction_version_gen-0.13.0 (c (n "ghaction_version_gen") (v "0.13.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.27") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "1v83k1kripj7124fnk7cy29j5psnwv9ncyllyi7lnvilzsz4jc2k")))
+
+(define-public crate-ghaction_version_gen-0.13.1 (c (n "ghaction_version_gen") (v "0.13.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.4.0") (d #t) (k 2)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "1h261zdzf9kg3zl79qxlh0pvzp6r2j0z0k0wc1rlr6pvm62im655")))
+
+(define-public crate-ghaction_version_gen-0.13.2 (c (n "ghaction_version_gen") (v "0.13.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.4.0") (d #t) (k 2)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "01g56d58z78ax0x95rq6rc3h4kwpbawgzdz2mx178k6qlycxasgb")))
+
+(define-public crate-ghaction_version_gen-0.13.3 (c (n "ghaction_version_gen") (v "0.13.3") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.4.0") (d #t) (k 2)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "1b0m4115w84jyps878ivvy34na7nbwavg3myjl7lk8rkl0firrvq")))
+
+(define-public crate-ghaction_version_gen-0.13.4 (c (n "ghaction_version_gen") (v "0.13.4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "toml") (r "^0.8.0") (d #t) (k 0)))) (h "09sv7dkhaphmkkp3a70w9p30h6p6kkinxxp054291bl5nrxgm5hw")))
+
+(define-public crate-ghaction_version_gen-0.13.5 (c (n "ghaction_version_gen") (v "0.13.5") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "toml") (r "^0.8.2") (d #t) (k 0)))) (h "1l9mxb6ki65vq6mcd7xd9w01dm9lfbkp4s10vxvz56hqfva8vmz6")))
+
+(define-public crate-ghaction_version_gen-0.13.6 (c (n "ghaction_version_gen") (v "0.13.6") (d (list (d (n "anyhow") (r "^1.0.76") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0zff2xzrl37k85yv5ambn3ghr9k5xj2i0hldbv50rf4jfzh62pla")))
+
+(define-public crate-ghaction_version_gen-0.14.0 (c (n "ghaction_version_gen") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "configparser") (r "^3.0.4") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 2)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)))) (h "0cla5959zr4sa2azyzsjyw3kw5s8qbf1x9pb3kbv3xbjil952sk8")))
+

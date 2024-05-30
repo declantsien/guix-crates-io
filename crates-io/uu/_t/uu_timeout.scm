@@ -1,0 +1,50 @@
+(define-module (crates-io uu _t uu_timeout) #:use-module (crates-io))
+
+(define-public crate-uu_timeout-0.0.1 (c (n "uu_timeout") (v "0.0.1") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "time") (r "^0.1.40") (d #t) (k 0)) (d (n "uucore") (r "^0.0.4") (f (quote ("parse_time" "process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r "^0.0.4") (d #t) (k 0) (p "uucore_procs")))) (h "0h4kw76wvw7s45kxbh9mxv157wg1qdkmnxrczv65125x27m5k83a")))
+
+(define-public crate-uu_timeout-0.0.2 (c (n "uu_timeout") (v "0.0.2") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "time") (r "^0.1.40") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.5") (f (quote ("parse_time" "process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")))) (h "0nk5nhp0grpg0fwdm7sv9bygkbciq5lpjbw6z9lglnldgffla72m")))
+
+(define-public crate-uu_timeout-0.0.3 (c (n "uu_timeout") (v "0.0.3") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "time") (r "^0.1.40") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.6") (f (quote ("parse_time" "process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")))) (h "0n96ga0m05jqjrx3ps3kfqka4wcbx06mwgzl3h8npng605d6x7ax")))
+
+(define-public crate-uu_timeout-0.0.4 (c (n "uu_timeout") (v "0.0.4") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.7") (f (quote ("parse_time" "process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")))) (h "18r6m7hv89700yhgxsh2a1r994fldknslra9gjqawn96zkzbyw3x")))
+
+(define-public crate-uu_timeout-0.0.5 (c (n "uu_timeout") (v "0.0.5") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.8") (f (quote ("parse_time" "process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")))) (h "08qpr68wwvdzjfik7sjbg19bm2bcbpalwzv6kvl8mfr0df9x4ajq")))
+
+(define-public crate-uu_timeout-0.0.6 (c (n "uu_timeout") (v "0.0.6") (d (list (d (n "getopts") (r "^0.2.18") (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.8") (f (quote ("parse_time" "process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")))) (h "09miks2qjlh8326fyqgk6x84iwixj3q13gggpilw23f9gvkx305q")))
+
+(define-public crate-uu_timeout-0.0.7 (c (n "uu_timeout") (v "0.0.7") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "nix") (r "^0.20.0") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.9") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.6") (d #t) (k 0) (p "uucore_procs")))) (h "1v15kcji5ga7vsx7ghgihifkpllh0czzl2mcipj9qwldasyh9rxb")))
+
+(define-public crate-uu_timeout-0.0.8 (c (n "uu_timeout") (v "0.0.8") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "nix") (r "^0.20.0") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.10") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.7") (d #t) (k 0) (p "uucore_procs")))) (h "0azpkch6ap4mfb79wvshv6y7ix1d3sdhyc5p39g7348pm35z2jrv")))
+
+(define-public crate-uu_timeout-0.0.9 (c (n "uu_timeout") (v "0.0.9") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.8") (d #t) (k 0) (p "uucore_procs")))) (h "1ka5yhr31sapdhd3c3mdv1q6gqz6y0ckrb6q27yqqggkil7dgcb5")))
+
+(define-public crate-uu_timeout-0.0.12 (c (n "uu_timeout") (v "0.0.12") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.42") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.8") (d #t) (k 0) (p "uucore_procs")))) (h "0i7zn9qwc62c7yf8ynnyv32r533a6g654ji0ck16vk6nj4044gaz")))
+
+(define-public crate-uu_timeout-0.0.13 (c (n "uu_timeout") (v "0.0.13") (d (list (d (n "clap") (r "^3.1") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.121") (d #t) (k 0)) (d (n "nix") (r "^0.23.1") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1zmaglb63910nxbwzai5pl3pqs58mivxbsbqjb429a7v0g4rzfg8")))
+
+(define-public crate-uu_timeout-0.0.14 (c (n "uu_timeout") (v "0.0.14") (d (list (d (n "clap") (r "^3.1") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "nix") (r "^0.24.1") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "0407f292f3irg5842ls3k7c4szr6zvsf8kn0lib04aqc2vgw2abc")))
+
+(define-public crate-uu_timeout-0.0.15 (c (n "uu_timeout") (v "0.0.15") (d (list (d (n "clap") (r "^3.2") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.132") (d #t) (k 0)) (d (n "nix") (r "^0.25") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.15") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "16klalfh5mf6y8iqgb70ywdkr7n3imbcph1z4mk6srjw15ishljr")))
+
+(define-public crate-uu_timeout-0.0.16 (c (n "uu_timeout") (v "0.0.16") (d (list (d (n "clap") (r "^3.2") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.132") (d #t) (k 0)) (d (n "nix") (r "^0.25") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.16") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "015zzxln2i5xnsczwv4npqq8kcr0jqw3k82ahmhikjxchg2qna1k")))
+
+(define-public crate-uu_timeout-0.0.17 (c (n "uu_timeout") (v "0.0.17") (d (list (d (n "clap") (r "^4.0") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "nix") (r "^0.25") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.17") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "00h57zyjc0canj9rljbzidk2xkmsc2i3b1cw4qj17v5c75d9q0j9")))
+
+(define-public crate-uu_timeout-0.0.18 (c (n "uu_timeout") (v "0.0.18") (d (list (d (n "clap") (r "^4.2") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.140") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.18") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1xn1d80gg41g7mhqqh31jjavw7d2r313q5w1jjy99dvc9mkijf9g")))
+
+(define-public crate-uu_timeout-0.0.19 (c (n "uu_timeout") (v "0.0.19") (d (list (d (n "clap") (r "^4.3") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.144") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "031vyz0j5lqkldd1pa72sfva6rhv2p14v6dx9q3jv9mhgdamwrd3")))
+
+(define-public crate-uu_timeout-0.0.20 (c (n "uu_timeout") (v "0.0.20") (d (list (d (n "clap") (r "^4.3") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1amfsk300830k7l87anhr75g8xvw33ljh89k63ychbjwdb0aqkfn")))
+
+(define-public crate-uu_timeout-0.0.21 (c (n "uu_timeout") (v "0.0.21") (d (list (d (n "clap") (r "^4.3") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1cn57h9d2pdp2w9ii4zbx5nalmby956d3xli0v1pl0157846jrvk")))
+
+(define-public crate-uu_timeout-0.0.22 (c (n "uu_timeout") (v "0.0.22") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.149") (d #t) (k 0)) (d (n "nix") (r "^0.27") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1n8z11wy8qsf1021av7xldinivajjcj2rall7a2f5r13nykxq4k9")))
+
+(define-public crate-uu_timeout-0.0.23 (c (n "uu_timeout") (v "0.0.23") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.150") (d #t) (k 0)) (d (n "nix") (r "^0.27") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1xfijbp11nbaz747i3fzycvp56qm7s69ncd6bqmm65jsfxss10c4")))
+
+(define-public crate-uu_timeout-0.0.24 (c (n "uu_timeout") (v "0.0.24") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.152") (d #t) (k 0)) (d (n "nix") (r "^0.27") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1rwyfzlkm896gyxy8w4kqzyl191ali3wn9lnll7b05qj1j4qi4g9")))
+
+(define-public crate-uu_timeout-0.0.25 (c (n "uu_timeout") (v "0.0.25") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "nix") (r "^0.28") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "06b10vymxrhj5xz9cb1yf6p0j2814xvz04dj1bgzry7ar2iyllp4")))
+
+(define-public crate-uu_timeout-0.0.26 (c (n "uu_timeout") (v "0.0.26") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "nix") (r "^0.28") (f (quote ("signal"))) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("process" "signals"))) (d #t) (k 0) (p "uucore")))) (h "1rjbfn7ld0f4xlgdr6fhhk5p58x71mrzdza9xsrvfvyay7y39ryd")))
+

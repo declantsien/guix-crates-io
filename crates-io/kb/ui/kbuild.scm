@@ -1,0 +1,14 @@
+(define-module (crates-io kb ui kbuild) #:use-module (crates-io))
+
+(define-public crate-kbuild-0.1.0 (c (n "kbuild") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "color-print") (r "^0.3.5") (d #t) (k 0)) (d (n "inventory") (r "^0.3.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1jk68549h4xszr7ddwad5l1v147p9w77dxs4qm34ksfs3kfs6xa4")))
+
+(define-public crate-kbuild-0.1.1 (c (n "kbuild") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "color-print") (r "^0.3.5") (d #t) (k 0)) (d (n "inventory") (r "^0.3.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "0z1j94llk33qmh92030bi4ffpvs2j382hc4lh0d0690rack425qf")))
+
+(define-public crate-kbuild-0.1.2 (c (n "kbuild") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "color-print") (r "^0.3.5") (d #t) (k 0)) (d (n "inventory") (r "^0.3.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "0cmpjwc77k0ajk11kx8syxfqpahzfrppj6vpmzrlrmq6fk6zcjlv")))
+
+(define-public crate-kbuild-0.1.3 (c (n "kbuild") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "color-print") (r "^0.3.5") (d #t) (k 0)) (d (n "inventory") (r "^0.3.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)))) (h "121fq4ii923160qm7rc3jp3bz1hj8nz1nalpb6fnlfgl9dca2b0g")))
+
+(define-public crate-kbuild-0.1.4 (c (n "kbuild") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "color-print") (r "^0.3.5") (d #t) (k 0)) (d (n "inventory") (r "^0.3.15") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)))) (h "0cdlacbqbi7ahhsvlwac0p4kkfqlmdvsf9g8k0gciq55hw1i36a5")))
+
+(define-public crate-kbuild-0.1.5 (c (n "kbuild") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "color-print") (r "^0.3.5") (d #t) (k 0)) (d (n "inventory") (r "^0.3.15") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "version") (r "^3.0.0") (d #t) (k 0)))) (h "1987azipv02mrjqkya7zyy39dhx1pnj2ni46ys5g7jbz9lmzh9z0")))
+

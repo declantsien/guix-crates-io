@@ -1,0 +1,4 @@
+(define-module (crates-io bo ok book-searcher-core) #:use-module (crates-io))
+
+(define-public crate-book-searcher-core-0.9.0 (c (n "book-searcher-core") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^2.0") (d #t) (k 0)) (d (n "sysinfo") (r "^0.27") (k 0)) (d (n "tantivy") (r "^0.19") (f (quote ("mmap" "lz4-compression" "brotli-compression" "snappy-compression" "zstd-compression"))) (k 0)) (d (n "tantivy-meta-tokenizer") (r "^0.3") (d #t) (k 0)))) (h "0cz780jlgd59w9kn30zgx4zndkxklwj9qkamfxpabd1lj0sjc094") (f (quote (("pinyin" "tantivy-meta-tokenizer/pinyin") ("default"))))))
+

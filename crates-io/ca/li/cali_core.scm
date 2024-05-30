@@ -1,0 +1,6 @@
+(define-module (crates-io ca li cali_core) #:use-module (crates-io))
+
+(define-public crate-cali_core-0.2.0 (c (n "cali_core") (v "0.2.0") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.1.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("runtime-tokio-native-tls" "mysql" "chrono" "bigdecimal" "macros"))) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("rt-multi-thread" "time" "macros" "signal" "process"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)))) (h "02w8212hl47p07c28rrymc42yrbx7v6v2dh10cjppfn6jvkjw26a")))
+
+(define-public crate-cali_core-0.2.1 (c (n "cali_core") (v "0.2.1") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.1.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("runtime-tokio-native-tls" "mysql" "chrono" "bigdecimal" "macros"))) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("rt-multi-thread" "time" "macros" "signal" "process"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)))) (h "1vr3gq0bavzl358y45yajyka5zqj9nqk9c3fx751cwh57d6pbd2j")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io so cr socratic) #:use-module (crates-io))
+
+(define-public crate-socratic-0.0.1 (c (n "socratic") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "ciborium") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "ciborium-io") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.2.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "test-log") (r "^0.2.10") (f (quote ("trace"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("env-filter" "fmt"))) (k 2)))) (h "10f01wh984krrhsjmzl6r9j0xrxmcgn8v5jyyrwl38g73hpdpsyb") (f (quote (("default" "cbor") ("cbor" "ciborium" "ciborium-io"))))))
+

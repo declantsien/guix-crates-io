@@ -1,0 +1,6 @@
+(define-module (crates-io us dp usdpl) #:use-module (crates-io))
+
+(define-public crate-usdpl-0.1.0 (c (n "usdpl") (v "0.1.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "usdpl-core") (r "^0.1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.63") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.13") (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("TcpSocket"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (o #t) (d #t) (k 0)))) (h "1fnnk9cg647fp5gvf8slplnz1hix8i8ivgyxr90kgjjym6xn839c") (f (quote (("default" "console_error_panic_hook") ("decky") ("crankshaft")))) (y #t)))
+
+(define-public crate-usdpl-0.2.0 (c (n "usdpl") (v "0.2.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "usdpl-core") (r "^0.1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.13") (d #t) (k 2)) (d (n "wasm-rs-shared-channel") (r "^0.1") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("WebSocket" "MessageEvent" "ErrorEvent" "BinaryType"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (o #t) (d #t) (k 0)))) (h "0nihsk5y3r2fm7wnnc767pd94dlzy3dvgxvgcrfknh8009860a6l") (f (quote (("default" "console_error_panic_hook") ("decky") ("crankshaft")))) (y #t)))
+

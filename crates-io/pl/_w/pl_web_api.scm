@@ -1,0 +1,6 @@
+(define-module (crates-io pl _w pl_web_api) #:use-module (crates-io))
+
+(define-public crate-pl_web_api-0.1.0 (c (n "pl_web_api") (v "0.1.0") (d (list (d (n "bson") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (f (quote ("async-await"))) (k 0)) (d (n "hyper") (r "^0.13.7") (d #t) (k 0)) (d (n "mongodb") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-threaded"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "1y0rcckz0nmccazhfvalb81whs3zxwhjl1m08hdf92rs6gm2ydds")))
+
+(define-public crate-pl_web_api-0.1.1 (c (n "pl_web_api") (v "0.1.1") (d (list (d (n "bson") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (f (quote ("async-await"))) (k 0)) (d (n "hyper") (r "^0.13.7") (d #t) (k 0)) (d (n "mongodb") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-threaded"))) (d #t) (k 0)) (d (n "warp") (r "^0.2") (d #t) (k 0)))) (h "17hb3gcb9g7q9wmcchkl4m2vp1vzr13i4mj9bikjghhadahzxhza")))
+

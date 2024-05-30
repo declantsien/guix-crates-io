@@ -1,0 +1,22 @@
+(define-module (crates-io hf #{2-}# hf2-cli) #:use-module (crates-io))
+
+(define-public crate-hf2-cli-0.1.0 (c (n "hf2-cli") (v "0.1.0") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.1.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "0hrv4awi3nqbw135y9wdjiyjj46p2ng8flfsw6ms1y7qm78g8m18")))
+
+(define-public crate-hf2-cli-0.1.1 (c (n "hf2-cli") (v "0.1.1") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.1.1") (d #t) (k 0)) (d (n "hidapi") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "1i8m378x7zz29g70b2jq63hkdqk1rglv1blx1m048zgdlvvjc7c1")))
+
+(define-public crate-hf2-cli-0.1.2 (c (n "hf2-cli") (v "0.1.2") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.1.1") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "1052syg1if6l28dbggvsb046qwdr9f5sk7mbyxhfvmzwjjr8ss8j")))
+
+(define-public crate-hf2-cli-0.2.0 (c (n "hf2-cli") (v "0.2.0") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.2.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "0alzk1psnrbgpdrfhbqf353jh8x8r0p73w1rq1b4hshvfn4yrpwv")))
+
+(define-public crate-hf2-cli-0.2.1 (c (n "hf2-cli") (v "0.2.1") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.2.1") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "1m27xkhnw14km0181ydhjj3jcbk62fkjbiijxyl42pvrla9rzibb")))
+
+(define-public crate-hf2-cli-0.2.2 (c (n "hf2-cli") (v "0.2.2") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.2.2") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "0lg706qx4yfidm2wagq2bd008x1kq80xqnv0862w9kc6mrd6lmhw")))
+
+(define-public crate-hf2-cli-0.3.0 (c (n "hf2-cli") (v "0.3.0") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.3.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "1fsbbvh6amda85najscja73dm4kvkxf3ln514pmzs3k7i1qnk1xw")))
+
+(define-public crate-hf2-cli-0.3.1 (c (n "hf2-cli") (v "0.3.1") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.3.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "1rxmbpfr9w0dg8f795pcc73bd8bd4j43wi3zxv9a50mdyh14gn8g")))
+
+(define-public crate-hf2-cli-0.3.2 (c (n "hf2-cli") (v "0.3.2") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.3.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "1wb5jd1m9ihj3281685nasg2mb6gcr59xf5azfr7vicxaq4lwh8q")))
+
+(define-public crate-hf2-cli-0.3.3 (c (n "hf2-cli") (v "0.3.3") (d (list (d (n "crc-any") (r "^2.2.3") (k 0)) (d (n "hf2") (r "^0.3.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.2") (d #t) (k 0)))) (h "0k6zznn73w8i0v41agknjandv4azvfzs6nhd1zpgdh39054blkql")))
+

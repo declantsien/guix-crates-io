@@ -1,0 +1,8 @@
+(define-module (crates-io gi th github-changelist) #:use-module (crates-io))
+
+(define-public crate-github-changelist-1.0.0 (c (n "github-changelist") (v "1.0.0") (d (list (d (n "async-std") (r "^1.6.4") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "github_auth") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.32") (d #t) (k 0)) (d (n "structopt") (r "^0.3.18") (d #t) (k 0)) (d (n "surf") (r "^2.0.0-alpha.5") (d #t) (k 0)))) (h "17wwylczj2sax011985vz0lkn9yh5dsq8rviyy02q8k8cg25gw67")))
+
+(define-public crate-github-changelist-1.0.1 (c (n "github-changelist") (v "1.0.1") (d (list (d (n "async-std") (r "^1.6.4") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "github_auth") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.32") (d #t) (k 0)) (d (n "structopt") (r "^0.3.18") (d #t) (k 0)) (d (n "surf") (r "^2.0.0-alpha.5") (d #t) (k 0)))) (h "0fqhmx7vbfhjc9caqbqf54gmkikm80z3ldbd982l6w5msw8slifq")))
+
+(define-public crate-github-changelist-1.1.0 (c (n "github-changelist") (v "1.1.0") (d (list (d (n "async-std") (r "^1.6.4") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "github_auth") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.32") (d #t) (k 0)) (d (n "structopt") (r "^0.3.18") (d #t) (k 0)) (d (n "surf") (r "^2.0.0-alpha.5") (d #t) (k 0)) (d (n "whoami") (r "^0.9.0") (d #t) (k 0)))) (h "09yqcza757wvj77zsszr626ggys110lbm5a6q91j88xa0c04y74x")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# d dfs) #:use-module (crates-io))
+
+(define-public crate-dfs-0.1.0 (c (n "dfs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.10") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "036nq20wyacgd2p359i89dk9ky2ps6ibp506xv8ygb78qicc5ryf") (f (quote (("logging" "env_logger" "log") ("default" "build-binary") ("build-binary" "logging"))))))
+
+(define-public crate-dfs-0.1.1 (c (n "dfs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.10") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0h99kzggvp0fvqcw4kwxfh9an247kyfa6277fprg9807nsmca75n") (f (quote (("logging" "env_logger" "log") ("default" "build-binary") ("build-binary" "logging"))))))
+

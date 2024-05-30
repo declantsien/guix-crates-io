@@ -1,0 +1,14 @@
+(define-module (crates-io se a_ sea_orm_newtype_id_macros) #:use-module (crates-io))
+
+(define-public crate-sea_orm_newtype_id_macros-0.1.1-alpha.0 (c (n "sea_orm_newtype_id_macros") (v "0.1.1-alpha.0") (d (list (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea_orm_newtype_id_domain") (r "^0.1.1-alpha.0") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0rkh54c5f9skg4yic8hwvx3qq0vj0frgpy35xqiagv4mkw0r8p5v")))
+
+(define-public crate-sea_orm_newtype_id_macros-0.1.1-alpha.1 (c (n "sea_orm_newtype_id_macros") (v "0.1.1-alpha.1") (d (list (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea_orm_newtype_id_domain") (r "^0.1.1-alpha.1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "02vbf1hb807ydm6hlwsj4m6jxlwp6dm1qm3xj29p8g7sqzizknn7")))
+
+(define-public crate-sea_orm_newtype_id_macros-0.1.1-alpha.2 (c (n "sea_orm_newtype_id_macros") (v "0.1.1-alpha.2") (d (list (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea_orm_newtype_id_domain") (r "^0.1.1-alpha.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "04g7dcw2jlajy8rcvvjbrsvzww84c0j3ayiqrkxgmx0kl1x55n2q") (f (quote (("with_serde") ("with_async_graphql"))))))
+
+(define-public crate-sea_orm_newtype_id_macros-0.1.1-alpha.3 (c (n "sea_orm_newtype_id_macros") (v "0.1.1-alpha.3") (d (list (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea_orm_newtype_id_domain") (r "^0.1.1-alpha.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0sc7jxm8qjhk4x3ndqrxjw790c3p2vjwrzdyg1nx1sh4q0xd68bx") (f (quote (("with-serde") ("with-async-graphql"))))))
+
+(define-public crate-sea_orm_newtype_id_macros-0.1.1-alpha.4 (c (n "sea_orm_newtype_id_macros") (v "0.1.1-alpha.4") (d (list (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea_orm_newtype_id_domain") (r "^0.1.1-alpha.4") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0jwhprkxb295hbipi12ik2kg8xz3zblbq1ry4chqp3m1spx3045r") (f (quote (("with-serde") ("with-async-graphql"))))))
+
+(define-public crate-sea_orm_newtype_id_macros-0.1.2 (c (n "sea_orm_newtype_id_macros") (v "0.1.2") (d (list (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sea_orm_newtype_id_domain") (r "^0.1.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1mzff8hilxkcx36387m075g7fs4vw3k2ph6p36lmb8irrw7s0r4j") (f (quote (("with-serde") ("with-async-graphql"))))))
+

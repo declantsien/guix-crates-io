@@ -1,0 +1,4 @@
+(define-module (crates-io ip wa ipwatch) #:use-module (crates-io))
+
+(define-public crate-ipwatch-0.1.0 (c (n "ipwatch") (v "0.1.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "netlink-packet") (r "^0.1") (f (quote ("rtnetlink"))) (d #t) (k 0)) (d (n "netlink-proto") (r "^0.1") (f (quote ("rtnetlink"))) (d #t) (k 0)) (d (n "netlink-sys") (r "^0.1") (f (quote ("tokio_support"))) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.18") (d #t) (k 0)) (d (n "tokio") (r "^0.1.13") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1.7") (d #t) (k 0)))) (h "0bi6fgs7xk1g85hansi5gqvrwgcsp4cpkvgvbrvif2v0ni2wnb0p")))
+

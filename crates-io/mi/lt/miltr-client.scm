@@ -1,0 +1,4 @@
+(define-module (crates-io mi lt miltr-client) #:use-module (crates-io))
+
+(define-public crate-miltr-client-0.1.0 (c (n "miltr-client") (v "0.1.0") (d (list (d (n "asynchronous-codec") (r "^0.7.0") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "miette") (r "^7.1.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "miltr-common") (r "^0.1.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("net" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("compat"))) (d #t) (k 2)))) (h "0nhgr5a3b0wyq2rxqbdvwb9hb5cd3c0kzbllsmh64ypr4al7h29f") (f (quote (("_fuzzing")))) (r "1.75.0")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ax oh axohtml) #:use-module (crates-io))
+
+(define-public crate-axohtml-0.1.0 (c (n "axohtml") (v "0.1.0") (d (list (d (n "axohtml-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.3") (d #t) (k 0)) (d (n "strum") (r "^0.23") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)))) (h "1vnhnh5lpvs0g42xjqmjl6l2kypvs25q1ppm7wmncqc8cp4hk8zd")))
+
+(define-public crate-axohtml-0.2.0 (c (n "axohtml") (v "0.2.0") (d (list (d (n "axohtml-macros") (r "^0.2.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.3") (d #t) (k 0)) (d (n "strum") (r "^0.23") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)))) (h "0wiy7ywd7cqk79w7njz0yssipbq4n9x6cl5scsr4hzkk1x6xc2mn")))
+
+(define-public crate-axohtml-0.3.0 (c (n "axohtml") (v "0.3.0") (d (list (d (n "axohtml-macros") (r "^0.3.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.3") (d #t) (k 0)) (d (n "strum") (r "^0.23") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)))) (h "0hm5lvakpqkfq9z35s3xkpaxq010rz0avinv97kn775wx5yhzspk")))
+
+(define-public crate-axohtml-0.4.0 (c (n "axohtml") (v "0.4.0") (d (list (d (n "axohtml-macros") (r "^0.4.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.3") (d #t) (k 0)) (d (n "strum") (r "^0.23") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)))) (h "1cjvw701j2m0n4h9z5ynrjx0lzkm2i4m5cka7g02v53c1i2qnnkw")))
+
+(define-public crate-axohtml-0.4.1 (c (n "axohtml") (v "0.4.1") (d (list (d (n "axohtml-macros") (r "^0.4.1") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.13") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.3") (d #t) (k 0)) (d (n "strum") (r "^0.23") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)))) (h "14lyh853siamfn3axvfs6qxi8bym5nv24smqs8g9i2dkfcqw5fak")))
+
+(define-public crate-axohtml-0.5.0 (c (n "axohtml") (v "0.5.0") (d (list (d (n "axohtml-macros") (r "^0.5.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "language-tags") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.17") (d #t) (k 0)) (d (n "proc-macro-nested") (r "^0.1.7") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "1w3fwn9sngzlwwkgqb11ln4qmmc7b0mq6fx1g9d381323ikl9yj3")))
+

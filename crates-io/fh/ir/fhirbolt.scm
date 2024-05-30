@@ -1,0 +1,18 @@
+(define-module (crates-io fh ir fhirbolt) #:use-module (crates-io))
+
+(define-public crate-fhirbolt-0.1.0 (c (n "fhirbolt") (v "0.1.0") (d (list (d (n "fhirbolt-model") (r "^0.1.0") (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.1.0") (d #t) (k 0)))) (h "115y7vj9cyfb2g4xrr9ij2bnbk0qdjplah694smh6agk9cskxbbk") (f (quote (("r4b" "fhirbolt-model/r4b") ("r4" "fhirbolt-model/r4"))))))
+
+(define-public crate-fhirbolt-0.1.2 (c (n "fhirbolt") (v "0.1.2") (d (list (d (n "fhirbolt-model") (r "^0.1.0") (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.1.0") (d #t) (k 0)))) (h "1z1qcf6pcfs68hckjmgsg4mnkwdv1yg8061pwb4r7wpwcfr7qqnc") (f (quote (("r4b" "fhirbolt-model/r4b") ("r4" "fhirbolt-model/r4"))))))
+
+(define-public crate-fhirbolt-0.2.0 (c (n "fhirbolt") (v "0.2.0") (d (list (d (n "fhirbolt-element") (r "^0.2.0") (d #t) (k 0)) (d (n "fhirbolt-model") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.2.0") (d #t) (k 0)) (d (n "fhirbolt-shared") (r "^0.2.0") (d #t) (k 0)))) (h "03ydxapgaymd0kvz7jfn8dm5bhhc6sajn70fqny48r9002l1p6ww") (f (quote (("r4b" "fhirbolt-model/r4b" "fhirbolt-serde/r4b") ("r4" "fhirbolt-model/r4" "fhirbolt-serde/r4"))))))
+
+(define-public crate-fhirbolt-0.2.1 (c (n "fhirbolt") (v "0.2.1") (d (list (d (n "fhirbolt-element") (r "^0.2.0") (d #t) (k 0)) (d (n "fhirbolt-model") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.2.0") (d #t) (k 0)) (d (n "fhirbolt-shared") (r "^0.2.0") (d #t) (k 0)))) (h "03bra5whm4dgc9kzcl5yvyakr01hmqx1hgi6kyk3h3yll7145azq") (f (quote (("r4b" "fhirbolt-model/r4b" "fhirbolt-serde/r4b") ("r4" "fhirbolt-model/r4" "fhirbolt-serde/r4"))))))
+
+(define-public crate-fhirbolt-0.2.2 (c (n "fhirbolt") (v "0.2.2") (d (list (d (n "fhirbolt-element") (r "^0.2.0") (d #t) (k 0)) (d (n "fhirbolt-model") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.2.0") (d #t) (k 0)) (d (n "fhirbolt-shared") (r "^0.2.0") (d #t) (k 0)))) (h "1k4cws9q1f981cwk5hssy7pxzicpb0ldhdicg3qfcv1rxa5c79mn") (f (quote (("r4b" "fhirbolt-model/r4b" "fhirbolt-serde/r4b") ("r4" "fhirbolt-model/r4" "fhirbolt-serde/r4"))))))
+
+(define-public crate-fhirbolt-0.3.0 (c (n "fhirbolt") (v "0.3.0") (d (list (d (n "fhirbolt-element") (r "^0.3.0") (d #t) (k 0)) (d (n "fhirbolt-model") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.3.0") (d #t) (k 0)) (d (n "fhirbolt-shared") (r "^0.3.0") (d #t) (k 0)))) (h "00wx9rapc5mzb41z8g58v7ndys723g859dww5sa7lzidsf5q4d9m") (f (quote (("r5" "fhirbolt-model/r5" "fhirbolt-serde/r5") ("r4b" "fhirbolt-model/r4b" "fhirbolt-serde/r4b") ("r4" "fhirbolt-model/r4" "fhirbolt-serde/r4"))))))
+
+(define-public crate-fhirbolt-0.3.1 (c (n "fhirbolt") (v "0.3.1") (d (list (d (n "fhirbolt-element") (r "^0.3.0") (d #t) (k 0)) (d (n "fhirbolt-model") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.3.0") (d #t) (k 0)) (d (n "fhirbolt-shared") (r "^0.3.0") (d #t) (k 0)))) (h "0nqkfh13wxadxqdqkn9lzicpxf3zdmraja32cifph8x9galx3vdf") (f (quote (("r5" "fhirbolt-model/r5" "fhirbolt-serde/r5") ("r4b" "fhirbolt-model/r4b" "fhirbolt-serde/r4b") ("r4" "fhirbolt-model/r4" "fhirbolt-serde/r4"))))))
+
+(define-public crate-fhirbolt-0.4.0 (c (n "fhirbolt") (v "0.4.0") (d (list (d (n "fhirbolt-element") (r "^0.4.0") (d #t) (k 0)) (d (n "fhirbolt-model") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "fhirbolt-serde") (r "^0.4.0") (d #t) (k 0)) (d (n "fhirbolt-shared") (r "^0.4.0") (d #t) (k 0)))) (h "0dqr19ivyci75ax09i179bj6v4i86rg6dz8ll20lznbf2lirs97c") (f (quote (("r5" "fhirbolt-model/r5" "fhirbolt-serde/r5") ("r4b" "fhirbolt-model/r4b" "fhirbolt-serde/r4b") ("r4" "fhirbolt-model/r4" "fhirbolt-serde/r4"))))))
+

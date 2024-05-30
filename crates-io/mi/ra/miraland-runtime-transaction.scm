@@ -1,0 +1,6 @@
+(define-module (crates-io mi ra miraland-runtime-transaction) #:use-module (crates-io))
+
+(define-public crate-miraland-runtime-transaction-1.18.2 (c (n "miraland-runtime-transaction") (v "1.18.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miraland-program") (r "=1.18.2") (d #t) (k 2)) (d (n "miraland-program-runtime") (r "=1.18.2") (d #t) (k 0)) (d (n "miraland-sdk") (r "=1.18.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "10rv8gi2kgkfx2d7i8fyc0vwsm2ip3wj9syi8dd6m85wgfqjqlyz")))
+
+(define-public crate-miraland-runtime-transaction-1.18.3 (c (n "miraland-runtime-transaction") (v "1.18.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miraland-program") (r "=1.18.3") (d #t) (k 2)) (d (n "miraland-program-runtime") (r "=1.18.3") (d #t) (k 0)) (d (n "miraland-sdk") (r "=1.18.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "10jksn613q15wgvaqq0d9740j4yhm63m94fnn5fllpv9kcda2lzz")))
+

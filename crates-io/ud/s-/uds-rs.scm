@@ -1,0 +1,4 @@
+(define-module (crates-io ud s- uds-rs) #:use-module (crates-io))
+
+(define-public crate-uds-rs-0.1.0 (c (n "uds-rs") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "embedded-can") (r "^0.4.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-ext"))) (d #t) (k 0)) (d (n "nix") (r "^0.26") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-socketcan-isotp") (r "^0.1.0") (d #t) (k 0)))) (h "0vffkvb31k06x8ny5g9ijwhdn73zrz3bjhz67yc1ib6grvfnnmdf")))
+

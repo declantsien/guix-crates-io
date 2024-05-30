@@ -1,0 +1,4 @@
+(define-module (crates-io op en openkruise-rs) #:use-module (crates-io))
+
+(define-public crate-openkruise-rs-0.0.1 (c (n "openkruise-rs") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "hyper") (r "^0.14.26") (d #t) (k 2)) (d (n "k8s-openapi") (r "^0.19.0") (f (quote ("v1_27"))) (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.19.0") (f (quote ("v1_27"))) (d #t) (k 2)) (d (n "kube") (r "^0.85.0") (f (quote ("derive"))) (k 0)) (d (n "kube") (r "^0.85.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 2)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4" "fast-rng"))) (d #t) (k 2)))) (h "19kcrl2g369daz0i84mw7ssbl60m0hgvsflry6qia9d142lmd941")))
+

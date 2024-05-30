@@ -1,0 +1,6 @@
+(define-module (crates-io fi l_ fil_actor_verifreg_v9) #:use-module (crates-io))
+
+(define-public crate-fil_actor_verifreg_v9-1.0.0 (c (n "fil_actor_verifreg_v9") (v "1.0.0") (d (list (d (n "cid") (r "^0.8") (f (quote ("std"))) (k 0)) (d (n "fil_actors_runtime_v9") (r "^1.0.0") (d #t) (k 0)) (d (n "frc42_dispatch") (r "^3.0.0") (d #t) (k 0)) (d (n "fvm_ipld_blockstore") (r "^0.1") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared") (r "^2") (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1jdpvy4f34l1y7zynw0awdb2h6csmnjcgdgdb2qmidv68mb9dhxg")))
+
+(define-public crate-fil_actor_verifreg_v9-2.0.0 (c (n "fil_actor_verifreg_v9") (v "2.0.0") (d (list (d (n "cid") (r "^0.8") (f (quote ("std"))) (k 0)) (d (n "fil_actors_runtime_v9") (r "^2.0.0") (d #t) (k 0)) (d (n "frc42_dispatch") (r "^3.0.0") (d #t) (k 0)) (d (n "fvm_ipld_blockstore") (r "^0.1") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared") (r "^2") (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "14dn9q770acbs3kwlqr8zm7pmmsjykwp8y7lak0r82y70q83j4j4")))
+

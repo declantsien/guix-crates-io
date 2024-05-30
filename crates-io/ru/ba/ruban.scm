@@ -1,0 +1,10 @@
+(define-module (crates-io ru ba ruban) #:use-module (crates-io))
+
+(define-public crate-ruban-0.1.0 (c (n "ruban") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^0.10") (d #t) (k 2)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "textwrap") (r "^0.12") (d #t) (k 0)))) (h "0x3vx77mh8vj7gi63mh2cyq0zv10jcx5cf5a5kk8sjjw5yi11mvq")))
+
+(define-public crate-ruban-0.1.1 (c (n "ruban") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^0.10") (d #t) (k 2)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "textwrap") (r "^0.12") (d #t) (k 0)))) (h "1dad470pnrfycpdslgbg635pnbgy3ivapk2xk8nwnvmljrx5qxps")))
+
+(define-public crate-ruban-0.1.2 (c (n "ruban") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^0.10") (d #t) (k 2)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "textwrap") (r "^0.12") (d #t) (k 0)))) (h "16bs5msb9jli76jshq5lglbwzacnn99h8vrzwaz5vz6wwlyqy3sb")))
+
+(define-public crate-ruban-0.1.3 (c (n "ruban") (v "0.1.3") (d (list (d (n "assert_cmd") (r "^0.10") (d #t) (k 2)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "textwrap") (r "^0.12") (d #t) (k 0)))) (h "0gsfknaxb0mvwrd5qiqfm3x44ag1ingq03sic1krr5h6lcnbg6vf")))
+

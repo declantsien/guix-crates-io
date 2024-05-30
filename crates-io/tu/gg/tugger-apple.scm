@@ -1,0 +1,18 @@
+(define-module (crates-io tu gg tugger-apple) #:use-module (crates-io))
+
+(define-public crate-tugger-apple-0.1.0 (c (n "tugger-apple") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "duct") (r "^0.13") (d #t) (k 0)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "semver") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "18aa7h8lrsyc7sj7cdiph970mis2aabp69w6vn0ns2d94n4hxpqv")))
+
+(define-public crate-tugger-apple-0.2.0 (c (n "tugger-apple") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "duct") (r "^0.13") (d #t) (k 0)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "semver") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0qmzg5msj6hcq6kysfnxqvv2cgffycizg8n9zzikr2scxlwvj1aq")))
+
+(define-public crate-tugger-apple-0.3.0 (c (n "tugger-apple") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "duct") (r "^0.13") (d #t) (k 0)) (d (n "goblin") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "scroll") (r "^0.10") (d #t) (k 0)) (d (n "semver") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1dr6czm4sc9aa3403q7d0jjkvf4xymq5djk3dismpqlsca7ckkgj")))
+
+(define-public crate-tugger-apple-0.4.0 (c (n "tugger-apple") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "duct") (r "^0.13") (d #t) (k 0)) (d (n "goblin") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "scroll") (r "^0.10") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0kjlaf82fx3mdm064agmv5vnz4v7h83xdnqbwjyl0ymcal9f52hn")))
+
+(define-public crate-tugger-apple-0.5.0 (c (n "tugger-apple") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "duct") (r "^0.13") (d #t) (k 0)) (d (n "goblin") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "scroll") (r "^0.10") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0kgvj53fmrp0m8phpv37fcsbd49aahi6gnc6v4mkv1jwvy1sb6rc")))
+
+(define-public crate-tugger-apple-0.6.0 (c (n "tugger-apple") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "duct") (r "^0.13") (d #t) (k 0)) (d (n "goblin") (r "^0.5") (d #t) (k 0)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "scroll") (r "^0.11") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1xj7fkwc4rshpw16kaaqn6w4z18w69n0gwzihbf3mw0bgial049k")))
+
+(define-public crate-tugger-apple-0.7.0 (c (n "tugger-apple") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "goblin") (r "^0.5") (d #t) (k 0)) (d (n "scroll") (r "^0.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1b9aa18mmhwxdip6g9v2rjirm01fwczzpydy1swgnr36nfjia137")))
+
+(define-public crate-tugger-apple-0.8.0 (c (n "tugger-apple") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "goblin") (r "^0.6.0") (d #t) (k 0)) (d (n "scroll") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0i92pknpzwzvyi8m7hq0jhgc3r244k2925058sd0d5iyl6fjaycc")))
+

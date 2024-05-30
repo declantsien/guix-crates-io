@@ -1,0 +1,6 @@
+(define-module (crates-io in ar inarybay) #:use-module (crates-io))
+
+(define-public crate-inarybay-0.1.0 (c (n "inarybay") (v "0.1.0") (d (list (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "gc") (r "^0.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "genemichaels") (r "^0.1.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "regex") (r "^1.9.4") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("full"))) (d #t) (k 0)))) (h "1hv51i6d2jc85ykamif1k7gjaw8w5yb45i7bgp161r3z9aa159rv")))
+
+(define-public crate-inarybay-0.1.1 (c (n "inarybay") (v "0.1.1") (d (list (d (n "enum_dispatch") (r "^0.3") (d #t) (k 0)) (d (n "gc") (r "^0.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "genemichaels") (r "^0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1hac3yvr4hhgsnzlgdj9h3ccrl0mhznyn925m39k4mdx05bvjr6j")))
+

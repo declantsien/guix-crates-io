@@ -1,0 +1,4 @@
+(define-module (crates-io so la solana-test-utils) #:use-module (crates-io))
+
+(define-public crate-solana-test-utils-0.1.19 (c (n "solana-test-utils") (v "0.1.19") (d (list (d (n "anchor-lang") (r "^0.21.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.21.0") (d #t) (k 0)) (d (n "bincode") (r "^1.3.2") (d #t) (k 0)) (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rs_merkle") (r "^1.1.0") (d #t) (k 0)) (d (n "solana-program-runtime") (r "^1.9.6") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.8.0") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.9.5") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.0.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.1.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "185g30ifdv93i99m6ngd831c86xan1gwyn08sd92p5mb63wdq1jk")))
+

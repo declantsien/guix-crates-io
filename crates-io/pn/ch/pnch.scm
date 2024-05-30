@@ -1,0 +1,8 @@
+(define-module (crates-io pn ch pnch) #:use-module (crates-io))
+
+(define-public crate-pnch-0.2.0 (c (n "pnch") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)))) (h "1aj06fz98ls8iaqawl8s1ng7g4758qzbvwl1pj3p67r6j4k4y9zb")))
+
+(define-public crate-pnch-0.3.0 (c (n "pnch") (v "0.3.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)))) (h "13mak7jiwkf5b2q58pdl9w9pxlv4sjl5261yahsacp8c94n1xiah")))
+
+(define-public crate-pnch-0.4.1 (c (n "pnch") (v "0.4.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "csv") (r "^1.1.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)))) (h "0b8gn22fhyvxfi8ri6sbm5rdqy02mjkmni8x27an0pxf1cma9kz8")))
+

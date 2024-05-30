@@ -1,0 +1,24 @@
+(define-module (crates-io ca ra carapace_spec_clap) #:use-module (crates-io))
+
+(define-public crate-carapace_spec_clap-0.1.0 (c (n "carapace_spec_clap") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "1asx628a7cl503x96w4f32m64sh82nd3441pdc7736r0ls6fbman")))
+
+(define-public crate-carapace_spec_clap-0.1.3 (c (n "carapace_spec_clap") (v "0.1.3") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0zxkp084y1z9ldndi90imf3izyzafy4lpwxyblff8ja7sjxzpbqz")))
+
+(define-public crate-carapace_spec_clap-0.1.5 (c (n "carapace_spec_clap") (v "0.1.5") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "06n6hgwmd319d8cycqg9w1dh4mrpg2vbb8n7812rxx19zkp6aihx")))
+
+(define-public crate-carapace_spec_clap-0.1.6 (c (n "carapace_spec_clap") (v "0.1.6") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0xlhp71g13hc9pdgry5qc23is2vx3hmnlg4ni6cm9bwrajz9mgr5")))
+
+(define-public crate-carapace_spec_clap-0.1.7 (c (n "carapace_spec_clap") (v "0.1.7") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "1svarxrfw3wjcasyfvis3n1vk493z2s45raqdzz31qcyjsjhhpm3")))
+
+(define-public crate-carapace_spec_clap-0.1.8 (c (n "carapace_spec_clap") (v "0.1.8") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0k6ibyk1nlaf6sq054lpsq45g6qsrc6xyz76p450mv8k4gsi11l9")))
+
+(define-public crate-carapace_spec_clap-0.1.9 (c (n "carapace_spec_clap") (v "0.1.9") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0bljaxfn5rwhv3i45jx7p2i6hsxlnlz2mg5x5lkaa3fvh52bpypi")))
+
+(define-public crate-carapace_spec_clap-0.1.10 (c (n "carapace_spec_clap") (v "0.1.10") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.1.5") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "1gvykqq8wmwnipb7mkfnxq2c3gxa73dglrs4v9x01gkzqvfpprsf")))
+
+(define-public crate-carapace_spec_clap-0.1.11 (c (n "carapace_spec_clap") (v "0.1.11") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.1.5") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0scyvw2qfvnmvkj8n0h59m9snkigd58pka2mps9slhn3m754fdv4")))
+
+(define-public crate-carapace_spec_clap-0.1.12 (c (n "carapace_spec_clap") (v "0.1.12") (d (list (d (n "clap") (r "^4.3.12") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.3.2") (d #t) (k 0)) (d (n "indexmap") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "1pb140siiqbljpvpck5hldmfyadi3db3s8xhcqnf9ff2ln3bs9zf")))
+
+(define-public crate-carapace_spec_clap-1.0.0 (c (n "carapace_spec_clap") (v "1.0.0") (d (list (d (n "clap") (r "^4.5.2") (f (quote ("std"))) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "00m4mfhyvrni6qxybsj8vcqx5dn7hii78kx3vg4h9wx21qnkh6ww")))
+

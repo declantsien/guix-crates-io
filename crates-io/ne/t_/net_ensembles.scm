@@ -1,0 +1,16 @@
+(define-module (crates-io ne t_ net_ensembles) #:use-module (crates-io))
+
+(define-public crate-net_ensembles-0.1.0 (c (n "net_ensembles") (v "0.1.0") (d (list (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (d #t) (k 2)))) (h "0hi1dssd3larvr4lqs0dx3hgxd8ac1ymmapsnciw10a8vgbdp177")))
+
+(define-public crate-net_ensembles-0.2.0 (c (n "net_ensembles") (v "0.2.0") (d (list (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1hxmsvd3nwhjmsmcdgdrv2x26a6d788x6i4zlwa7zc89dpjhbkfi") (f (quote (("serde_support" "serde") ("default" "serde_support")))) (y #t)))
+
+(define-public crate-net_ensembles-0.2.1 (c (n "net_ensembles") (v "0.2.1") (d (list (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0avpwzc9f65xcqp7g8kac53ffs6zy1k1inrmdy27pvxgi4k3psyh") (f (quote (("serde_support" "serde") ("default" "serde_support"))))))
+
+(define-public crate-net_ensembles-0.2.2 (c (n "net_ensembles") (v "0.2.2") (d (list (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1sgx7c2hw2g25m3xva1x503wa4rsh3fgkn6ki182x7878jpg0pq3") (f (quote (("serde_support" "serde") ("default" "serde_support"))))))
+
+(define-public crate-net_ensembles-0.3.0 (c (n "net_ensembles") (v "0.3.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1a5y8ax8vw1vvql81s22v6rr2p41f8sy51ni5b9j29c950avrlzq") (f (quote (("serde_support" "serde") ("default" "serde_support"))))))
+
+(define-public crate-net_ensembles-0.4.0 (c (n "net_ensembles") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0gfvc8y7qj0qmcv1fyznz7f9fvzza6j1f894byvqiqs420m9p77j") (f (quote (("serde_support" "serde") ("default" "serde_support"))))))
+
+(define-public crate-net_ensembles-0.5.0 (c (n "net_ensembles") (v "0.5.0") (d (list (d (n "average") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "permutation") (r "^0.2.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (f (quote ("serde1"))) (d #t) (k 2)) (d (n "sampling") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "transpose") (r "^0.2") (d #t) (k 0)))) (h "1pmd26blsbzw2qnh3lm82fp6f6nzb4y7s5cvf51adzx550bg6lkq") (f (quote (("serde_support" "serde") ("default" "serde_support" "bootstrap") ("bootstrap" "average"))))))
+

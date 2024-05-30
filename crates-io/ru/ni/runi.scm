@@ -1,0 +1,12 @@
+(define-module (crates-io ru ni runi) #:use-module (crates-io))
+
+(define-public crate-runi-0.1.0 (c (n "runi") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "064ppy7hd46qwwsygh579wlbyawrq1qk8qzp66dwjn2mpdbcbspj")))
+
+(define-public crate-runi-0.1.1 (c (n "runi") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "13hw2yi4m72wb8mgqw4j7m2lqk53jdbmfj1l7xc6vfqc8x5wxqws")))
+
+(define-public crate-runi-0.1.2 (c (n "runi") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1pq81aa1rkc50k43v2gwcijbpz07jgik3v2wazvs3wylpfjb6qqw")))
+
+(define-public crate-runi-0.1.3 (c (n "runi") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0hhhz63kslcays55fg01yjkqwmjf65cin6y1avc9jzzb1wzvaz54")))
+
+(define-public crate-runi-0.1.4 (c (n "runi") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "00xb2x1pcmgx7hwqni9xa11g9sg01463pmicm5v6xb5fnag1bwpv")))
+

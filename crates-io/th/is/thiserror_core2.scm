@@ -1,0 +1,10 @@
+(define-module (crates-io th is thiserror_core2) #:use-module (crates-io))
+
+(define-public crate-thiserror_core2-1.0.23 (c (n "thiserror_core2") (v "1.0.23") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "core2") (r "^0.3.0-alpha.1") (k 0)) (d (n "ref-cast") (r "^1.0") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "thiserror-impl") (r "=1.0.23") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.19") (f (quote ("diff"))) (d #t) (k 2)))) (h "1qy5h2rnbsbw5gs6ninq43nj5n88636p9g6wllcaas2fijbcini0") (f (quote (("std" "core2/std") ("default" "std")))) (y #t)))
+
+(define-public crate-thiserror_core2-1.0.30 (c (n "thiserror_core2") (v "1.0.30") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "core2") (r "^0.4") (k 0)) (d (n "ref-cast") (r "^1.0") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "thiserror-impl") (r "=1.0.30") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "13g1dlsiq344v15mg830c6v1fqzfn9ns8c5lzvvfg3ky1vybm6nx") (f (quote (("std" "core2/std") ("default" "std")))) (y #t) (r "1.31")))
+
+(define-public crate-thiserror_core2-2.0.0 (c (n "thiserror_core2") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "core2") (r "^0.4") (k 0)) (d (n "ref-cast") (r "^1.0") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "thiserror_core2-impl") (r "^2.0.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "163q9j0z4k9g1ddbj0y8777p5k7dn0qwpxa5rvx4r8824mlpfv1f") (f (quote (("std" "core2/std") ("default" "std")))) (r "1.31")))
+
+(define-public crate-thiserror_core2-2.0.1 (c (n "thiserror_core2") (v "2.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "core2") (r "^0.4") (k 0)) (d (n "ref-cast") (r "^1.0") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "thiserror_core2-impl") (r "^2.0.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.49") (f (quote ("diff"))) (d #t) (k 2)))) (h "0hr2d0gb0q31nr5l4m1cx7q3hls0jmpgwc5fbqd8d83wmzjzkxir") (f (quote (("std" "core2/std") ("default" "std")))) (r "1.31")))
+

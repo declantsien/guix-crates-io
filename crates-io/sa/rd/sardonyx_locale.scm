@@ -1,0 +1,6 @@
+(define-module (crates-io sa rd sardonyx_locale) #:use-module (crates-io))
+
+(define-public crate-sardonyx_locale-0.0.1 (c (n "sardonyx_locale") (v "0.0.1") (d (list (d (n "fluent") (r "^0.7.0") (d #t) (k 0)) (d (n "sardonyx_assets") (r "^0.0.1") (d #t) (k 0)) (d (n "sardonyx_core") (r "^0.0.1") (d #t) (k 0)) (d (n "sardonyx_error") (r "^0.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_profiler") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "unic-langid") (r "^0.4") (f (quote ("macros"))) (d #t) (k 0)))) (h "1a5kivy0fimsahjnk3z4lnvnn1a1l9nqi7s8yacgh7r5l242dxbc") (f (quote (("profiler" "thread_profiler/thread_profiler")))) (y #t)))
+
+(define-public crate-sardonyx_locale-0.0.3 (c (n "sardonyx_locale") (v "0.0.3") (d (list (d (n "fluent") (r "^0.7.0") (d #t) (k 0)) (d (n "sardonyx_assets") (r ">= 0.0.3") (d #t) (k 0)) (d (n "sardonyx_core") (r ">= 0.0.3") (d #t) (k 0)) (d (n "sardonyx_error") (r ">= 0.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_profiler") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "unic-langid") (r "^0.4") (f (quote ("macros"))) (d #t) (k 0)))) (h "03z30y1gmhqmaw6xii4fc1cyj29z6mzmblz9l2b85s2vbzi00ilq") (f (quote (("profiler" "thread_profiler/thread_profiler")))) (y #t)))
+

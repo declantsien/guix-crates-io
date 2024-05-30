@@ -1,0 +1,6 @@
+(define-module (crates-io pr im prime_bench) #:use-module (crates-io))
+
+(define-public crate-prime_bench-0.1.1 (c (n "prime_bench") (v "0.1.1") (d (list (d (n "iced") (r "^0.9.0") (d #t) (k 0)) (d (n "iced_native") (r "^0.10.3") (d #t) (k 0)) (d (n "iced_wgpu") (r "^0.10.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "num_cpus") (r "^1.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "requestty") (r "^0.5.0") (d #t) (k 0)))) (h "0n7az5xl71cbf4xmaqrp1digd1f1i2hknsrjv1rk7q4rdbpm5r22")))
+
+(define-public crate-prime_bench-0.1.2 (c (n "prime_bench") (v "0.1.2") (d (list (d (n "iced") (r "^0.9.0") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.8.0") (d #t) (k 0)) (d (n "iced_native") (r "^0.10.3") (d #t) (k 0)) (d (n "iced_wgpu") (r "^0.10.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "num_cpus") (r "^1.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "requestty") (r "^0.5.0") (d #t) (k 0)))) (h "1yp0ipksh59m9dwrjsp41cfavnmfsr30b2rqm2avynhwnlva8v77")))
+

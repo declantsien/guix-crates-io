@@ -1,0 +1,6 @@
+(define-module (crates-io an ch anchor-generate-cpi-interface-mod) #:use-module (crates-io))
+
+(define-public crate-anchor-generate-cpi-interface-mod-0.3.2 (c (n "anchor-generate-cpi-interface-mod") (v "0.3.2") (d (list (d (n "anchor-idl-mod") (r "^0.3.2") (d #t) (k 0)) (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("min_const_generics" "derive"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1pqlvsbskk3gh4rasnfvg1bljzhb9r0ddgvrzmhrjkc6acd8mz8y") (f (quote (("compat-program-result-mod" "anchor-idl-mod/compat-program-result"))))))
+
+(define-public crate-anchor-generate-cpi-interface-mod-0.3.3 (c (n "anchor-generate-cpi-interface-mod") (v "0.3.3") (d (list (d (n "anchor-idl-mod") (r "^0.3.3") (d #t) (k 0)) (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("min_const_generics" "derive"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0h2b9ibvhpqc7s9jr304rm66j1z3rj9xx4sajm2glahl2nia9w8x") (f (quote (("compat-program-result-mod" "anchor-idl-mod/compat-program-result"))))))
+

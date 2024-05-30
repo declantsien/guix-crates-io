@@ -1,0 +1,8 @@
+(define-module (crates-io ba re barebones-x509) #:use-module (crates-io))
+
+(define-public crate-barebones-x509-0.5.0 (c (n "barebones-x509") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "r") (r "^0.19.1") (o #t) (d #t) (k 0) (p "rustls")) (d (n "ring") (r "^0.16.20") (k 0)) (d (n "untrusted") (r "^0.7.1") (d #t) (k 0)) (d (n "w") (r "^0.21.4") (o #t) (k 0) (p "webpki")))) (h "1svl6van5f8amz7qcp8vk59cmwp8193smkhgr27n64j9kv9v719q") (f (quote (("webpki" "w") ("std" "w/std") ("rustls" "r" "std") ("rsa" "ring/alloc") ("obsolete-unique-ids" "legacy-certificates") ("legacy-certificates") ("default" "rsa"))))))
+
+(define-public crate-barebones-x509-0.5.1 (c (n "barebones-x509") (v "0.5.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "r") (r "^0.19.1") (o #t) (d #t) (k 0) (p "rustls")) (d (n "ring") (r "^0.16.20") (k 0)) (d (n "untrusted") (r "^0.7.1") (d #t) (k 0)) (d (n "w") (r "^0.21.4") (o #t) (k 0) (p "webpki")))) (h "1jwnmsa3q2z5mi88kgzyyj888byksvwmhkccd9hmjjc391xw2yza") (f (quote (("webpki" "w") ("std" "w/std") ("rustls" "r" "std") ("rsa" "ring/alloc") ("obsolete-unique-ids" "legacy-certificates") ("legacy-certificates") ("default" "rsa"))))))
+
+(define-public crate-barebones-x509-0.5.2 (c (n "barebones-x509") (v "0.5.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "r") (r "^0.19.1") (o #t) (d #t) (k 0) (p "rustls")) (d (n "ring") (r "^0.16.20") (k 0)) (d (n "untrusted") (r "^0.7.1") (d #t) (k 0)) (d (n "w") (r "^0.21.4") (o #t) (k 0) (p "webpki")))) (h "0c5nayx55adv2sy4xkq61kj76bzhb49l0y665amvpi1jjzw0zcpz") (f (quote (("webpki" "w") ("std" "w/std") ("rustls" "r" "std") ("rsa" "ring/alloc") ("obsolete-unique-ids" "legacy-certificates") ("legacy-certificates") ("default" "rsa"))))))
+

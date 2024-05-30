@@ -1,0 +1,6 @@
+(define-module (crates-io ca rt carton-utils) #:use-module (crates-io))
+
+(define-public crate-carton-utils-0.0.0 (c (n "carton-utils") (v "0.0.0") (h "01nysvmdqvs425b158mzy82f4924mrh4b7q2zkvapzfxy0p4djcj")))
+
+(define-public crate-carton-utils-0.0.1 (c (n "carton-utils") (v "0.0.1") (d (list (d (n "async_zip") (r "^0.0.11") (f (quote ("full"))) (d #t) (k 0)) (d (n "bytes") (r "^1.3.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "infer") (r "^0.12.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0.0") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("io"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1wfdljrlvj3mp1ip30426qd7qv7m4wgaymb1nba16gdxnrh486br")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io fo rg forgedthoughts) #:use-module (crates-io))
+
+(define-public crate-forgedthoughts-0.1.0 (c (n "forgedthoughts") (v "0.1.0") (d (list (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (f (quote ("sync" "internals"))) (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0bii2zvjbsi9mv24b74qk4phzzj2mk0h14q7awf38py3v06w64yr")))
+
+(define-public crate-forgedthoughts-0.1.1 (c (n "forgedthoughts") (v "0.1.1") (d (list (d (n "colors-transform") (r "^0.2.11") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (f (quote ("sync" "internals"))) (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1mmmi0s7y1z263dw859a6188xca215jmk6vmddlf7vvhgh257z8n")))
+
+(define-public crate-forgedthoughts-0.1.2 (c (n "forgedthoughts") (v "0.1.2") (d (list (d (n "colors-transform") (r "^0.2.11") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.1") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (f (quote ("sync" "internals"))) (d #t) (k 0)) (d (n "rust-pathtracer") (r "^0.1.2") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "18aqy3hli01zghlqk7iqfsj74krqpnlh182gjrgqgizcrnx51aig")))
+
+(define-public crate-forgedthoughts-0.1.3 (c (n "forgedthoughts") (v "0.1.3") (d (list (d (n "colors-transform") (r "^0.2.11") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (f (quote ("sync" "internals"))) (d #t) (k 0)) (d (n "rust-pathtracer") (r "^0.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1bwh1aymiq9dspnpn60v79fjafzjjif2iy23ci41whz9h0hgrrc6")))
+
+(define-public crate-forgedthoughts-0.1.4 (c (n "forgedthoughts") (v "0.1.4") (d (list (d (n "colors-transform") (r "^0.2.11") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (f (quote ("sync" "internals"))) (d #t) (k 0)) (d (n "rhai-rand") (r "^0.1.5") (d #t) (k 0)) (d (n "rust-pathtracer") (r "^0.2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1dgms97vr3lir3hhh3nw9prv7wvkpsi52nysk5jfkyvbw9ny71lg")))
+
+(define-public crate-forgedthoughts-0.1.5 (c (n "forgedthoughts") (v "0.1.5") (d (list (d (n "colors-transform") (r "^0.2.11") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (f (quote ("sync" "internals"))) (d #t) (k 0)) (d (n "rhai-rand") (r "^0.1.5") (d #t) (k 0)) (d (n "rust-pathtracer") (r "^0.2.3") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1gb1as33zf8izwsk4fm48fjqi6wd9zpyrvi7hs27dcwn0r0hf6qj")))
+

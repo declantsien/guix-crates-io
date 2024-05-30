@@ -1,0 +1,4 @@
+(define-module (crates-io ma ce maceats) #:use-module (crates-io))
+
+(define-public crate-maceats-0.0.0 (c (n "maceats") (v "0.0.0") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "selectors") (r "^0.22.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.86") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1vnncy8rcw2cicb3iyhvlidy6ijdqhah074x5c99srb5az9lnaz9")))
+

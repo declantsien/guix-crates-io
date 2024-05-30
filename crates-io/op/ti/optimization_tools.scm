@@ -1,0 +1,4 @@
+(define-module (crates-io op ti optimization_tools) #:use-module (crates-io))
+
+(define-public crate-optimization_tools-0.1.0 (c (n "optimization_tools") (v "0.1.0") (d (list (d (n "derive_tools") (r "~0.8.0") (f (quote ("enabled" "default"))) (k 0)) (d (n "deterministic_rand") (r "~0.4.0") (f (quote ("default"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "iter_tools") (r "~0.4.0") (f (quote ("default"))) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "meta_tools") (r "~0.5.0") (f (quote ("meta_constructors"))) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "test_tools") (r "~0.5.0") (d #t) (k 2)))) (h "1ivajrgqz39jrnhm98qvpcspwib0d07j2vk5azynh8irlpwa9xya") (f (quote (("rapidity_9" "rapidity_8") ("rapidity_8" "rapidity_7") ("rapidity_7" "rapidity_6") ("rapidity_6") ("full" "enabled") ("enabled") ("default" "enabled"))))))
+

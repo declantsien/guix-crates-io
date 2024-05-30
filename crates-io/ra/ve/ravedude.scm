@@ -1,0 +1,20 @@
+(define-module (crates-io ra ve ravedude) #:use-module (crates-io))
+
+(define-public crate-ravedude-0.1.0 (c (n "ravedude") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "031nc95v6xj3rdah1y5shsjhx8swb8d9pkmb8jc3i5xr78yddidp")))
+
+(define-public crate-ravedude-0.1.1 (c (n "ravedude") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "1qcq2fadgdn0xxy0raviz7pjxqrqkhb73wfg1l3zsrg6wspbyx2k")))
+
+(define-public crate-ravedude-0.1.2 (c (n "ravedude") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "0s36l37965w8b3vz3xxzxd9pwwaiaz4nh59v247ssay6y0b7hy80")))
+
+(define-public crate-ravedude-0.1.3 (c (n "ravedude") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "01rf6ha4y9c4p88jn4drz6mykx4s8z8zwrbsxlyhc8qpqqi01r2a")))
+
+(define-public crate-ravedude-0.1.4 (c (n "ravedude") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "074ar3sin4b2xj2iwk42w2rb6vdkxd1qg4k1830fjwzk3fjd1vbl")))
+
+(define-public crate-ravedude-0.1.5 (c (n "ravedude") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "1ajf4ak1qssm0hxj87l1zciirhkljd76am1mm93dapgxs301cn9b")))
+
+(define-public crate-ravedude-0.1.6 (c (n "ravedude") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "1phi384j235dk4jk46v5c52d754f960gv2wshxy8wd64pqwx79ss")))
+
+(define-public crate-ravedude-0.1.7 (c (n "ravedude") (v "0.1.7") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "11zs4gm17rqv8jcanazcqyl9fj9r07x2ffqyiq55cbh7nm4cxqr1")))
+
+(define-public crate-ravedude-0.1.8 (c (n "ravedude") (v "0.1.8") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "serialport") (r "^4.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (f (quote ("color"))) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)))) (h "012s2jpynyjqqgjja7gb7lbkrmvfyhrcaaas0pb5drfcpnd8kicr")))
+

@@ -1,0 +1,28 @@
+(define-module (crates-io gr am gramatika) #:use-module (crates-io))
+
+(define-public crate-gramatika-0.1.0 (c (n "gramatika") (v "0.1.0") (d (list (d (n "gramatika-macro") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5") (o #t) (d #t) (k 0)))) (h "0jzb1shla3kvh20zacrg3jbzmil83zs4g89w10m61wri7l4n7s5c") (f (quote (("macros" "gramatika-macro" "lazy_static" "regex") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.1.1 (c (n "gramatika") (v "0.1.1") (d (list (d (n "gramatika-macro") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5") (o #t) (d #t) (k 0)))) (h "124lyl9az9isyskw46xpl13jwv91wijlj53m3v07r4vg3lhj1m19") (f (quote (("macros" "gramatika-macro" "lazy_static" "regex") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.2.0 (c (n "gramatika") (v "0.2.0") (d (list (d (n "gramatika-macro") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5") (o #t) (d #t) (k 0)))) (h "0fb8zr5h6fhh2xvx5srivyhbrvqc8scp3lyy6xbq69qk4w6jbn8h") (f (quote (("macros" "gramatika-macro" "lazy_static" "regex") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.3.0 (c (n "gramatika") (v "0.3.0") (d (list (d (n "gramatika-macro") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5") (o #t) (d #t) (k 0)))) (h "0sl50rx8m1c193w5n0xpldyimfcn9m1wrkg6zzx6391gxnxkxcr4") (f (quote (("macros" "gramatika-macro" "lazy_static" "regex") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.3.1 (c (n "gramatika") (v "0.3.1") (d (list (d (n "gramatika-macro") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5") (o #t) (d #t) (k 0)))) (h "0hgh5brm2y0bpsq9vwx16hihwj6as1v18svpdap6qxmg01mgnc1q") (f (quote (("macros" "gramatika-macro" "lazy_static" "regex") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.4.0 (c (n "gramatika") (v "0.4.0") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "12qhai0xnk1s81s8s1p377pv0xfja6rm8xpnx599snrffaz7rr8s") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.4.1 (c (n "gramatika") (v "0.4.1") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.4.1") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0dysjz99vs7hf90pkn33g21zl579xpavjfvqdgc46ql8p644drh6") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.4.2 (c (n "gramatika") (v "0.4.2") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.4.2") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0g29hj05g53c1z7ncl5d8mp2yshwphmn2kz5aclxlbwyi7gamij5") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.4.3 (c (n "gramatika") (v "0.4.3") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0n03hrj93q1mz7a7d4wj32d4gqjl05fdgi26ri8gq7g9hq4mn62q") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.5.0 (c (n "gramatika") (v "0.5.0") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1aynxs6qsbhhmp6ykwwxvnx5d7971ichpc20vb3kcv5d0wi17y3y") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.5.1 (c (n "gramatika") (v "0.5.1") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1rjwyipfzw05w87nn2zf922nrpkcf4qbh2xx5z9y148ykb4p3q5s") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.5.2 (c (n "gramatika") (v "0.5.2") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0rmrxl4brxcl6r3bd4p20a04lb9pb0nxyz877np2isps23l830di") (f (quote (("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+
+(define-public crate-gramatika-0.6.0 (c (n "gramatika") (v "0.6.0") (d (list (d (n "arcstr") (r "^1.1") (f (quote ("substr"))) (d #t) (k 0)) (d (n "gramatika-macro") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (o #t) (d #t) (k 0)) (d (n "regex-automata") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0qfa1skphdg3dn17d4rgz549xplmrir88acvxfrnqiqbpn54licg") (f (quote (("substr-source") ("macros" "gramatika-macro" "once_cell" "regex-automata") ("default" "macros"))))))
+

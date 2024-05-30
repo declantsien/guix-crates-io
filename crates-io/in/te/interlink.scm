@@ -1,0 +1,18 @@
+(define-module (crates-io in te interlink) #:use-module (crates-io))
+
+(define-public crate-interlink-0.1.0 (c (n "interlink") (v "0.1.0") (h "1idgh1jmdi53zchi53v94aj6fsf1rss630cnx8la9k4q050v6g2m")))
+
+(define-public crate-interlink-0.1.0-alpha (c (n "interlink") (v "0.1.0-alpha") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0z6ljqdssw3rrfpsvacbypf2kl0k89blmqx0pkylqqsvha6y1nyq")))
+
+(define-public crate-interlink-0.1.1 (c (n "interlink") (v "0.1.1") (d (list (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (o #t) (d #t) (k 0)) (d (n "interlink-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0xby9rs0ypjvm3mfgqq543f9nmvfndgjbhj9hrwmdnjy3xiyfwg4") (f (quote (("default" "sinks" "streams")))) (s 2) (e (quote (("streams" "dep:futures-util") ("sinks" "dep:futures-util"))))))
+
+(define-public crate-interlink-0.1.2 (c (n "interlink") (v "0.1.2") (d (list (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "interlink-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1q3mdyik838s208y9qvd2nxj10dhavykmkd8yjhy5rkhrh8l3p36") (f (quote (("default" "sinks" "streams")))) (s 2) (e (quote (("streams" "dep:futures-core") ("sinks" "dep:futures-sink"))))))
+
+(define-public crate-interlink-0.1.3 (c (n "interlink") (v "0.1.3") (d (list (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "interlink-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0hbjjf3pl5zpsx1z9ncxhljz1l7a2dyh4yqkb84v7i4nd7x2qrwm") (f (quote (("default" "sinks" "streams")))) (s 2) (e (quote (("streams" "dep:futures-core") ("sinks" "dep:futures-sink"))))))
+
+(define-public crate-interlink-0.1.4 (c (n "interlink") (v "0.1.4") (d (list (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "interlink-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1g915w8x2nbzaa2bilbnga94wcz55z5z2v7z3m2m36gfk4vfiwzq") (f (quote (("default" "sinks" "streams")))) (s 2) (e (quote (("streams" "dep:futures-core") ("sinks" "dep:futures-sink"))))))
+
+(define-public crate-interlink-0.1.5 (c (n "interlink") (v "0.1.5") (d (list (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "interlink-derive") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0vmcmbmgbrslvnp9885slc3ji2g1rdkqm6ax28zn4q5fplwamklc") (f (quote (("default" "sinks" "streams")))) (s 2) (e (quote (("streams" "dep:futures-core") ("sinks" "dep:futures-sink"))))))
+
+(define-public crate-interlink-0.1.6 (c (n "interlink") (v "0.1.6") (d (list (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "interlink-derive") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0yn6dc9mvps7xc87jrjvilhp161pqik5mixnpyln6dm1n7s90shd") (f (quote (("default" "sinks" "streams")))) (s 2) (e (quote (("streams" "dep:futures-core") ("sinks" "dep:futures-sink"))))))
+

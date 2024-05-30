@@ -1,0 +1,8 @@
+(define-module (crates-io ty po typomania) #:use-module (crates-io))
+
+(define-public crate-typomania-0.1.0 (c (n "typomania") (v "0.1.0") (d (list (d (n "bitflip") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.5") (f (quote ("derive"))) (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0l9gp8bcwf5q38qm6bsr3zyy1d1ap4k8j5abwqhxs8l6baicimya") (f (quote (("default" "rayon")))) (s 2) (e (quote (("rayon" "dep:rayon")))) (r "1.56.1")))
+
+(define-public crate-typomania-0.1.1 (c (n "typomania") (v "0.1.1") (d (list (d (n "bitflip") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.5") (f (quote ("derive"))) (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "06y6h98v31m35pscv8lsxmyz0vbbvxamxrdrk8fl39bp6kxpx4j6") (f (quote (("default" "rayon")))) (s 2) (e (quote (("rayon" "dep:rayon")))) (r "1.56.1")))
+
+(define-public crate-typomania-0.1.2 (c (n "typomania") (v "0.1.2") (d (list (d (n "bitflip") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.5") (f (quote ("derive"))) (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1vrvy6db8r616vinplrbz16gx84pkdcccn9pp12v91l4p3pw9y1q") (f (quote (("default" "rayon")))) (s 2) (e (quote (("rayon" "dep:rayon")))) (r "1.56.1")))
+

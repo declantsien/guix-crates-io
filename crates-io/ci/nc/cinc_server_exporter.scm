@@ -1,0 +1,6 @@
+(define-module (crates-io ci nc cinc_server_exporter) #:use-module (crates-io))
+
+(define-public crate-cinc_server_exporter-0.1.0 (c (n "cinc_server_exporter") (v "0.1.0") (d (list (d (n "axum") (r "^0.6.12") (d #t) (k 0)) (d (n "axum-prometheus") (r "^0.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "prometheus") (r "^0.13.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.8") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)))) (h "1zw3pp9pyb054dmacny7lsvshbihyjxlv4nhg3wjj21vzjasmlms") (r "1.71")))
+
+(define-public crate-cinc_server_exporter-0.1.5 (c (n "cinc_server_exporter") (v "0.1.5") (d (list (d (n "axum") (r "^0.6.12") (d #t) (k 0)) (d (n "axum-prometheus") (r "^0.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "prometheus") (r "^0.13.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.8") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)))) (h "0yrig70wx3ppi2izvxqzw9pfnnkfxyqmmdcf8fmzycma5v8s3if8") (r "1.69")))
+

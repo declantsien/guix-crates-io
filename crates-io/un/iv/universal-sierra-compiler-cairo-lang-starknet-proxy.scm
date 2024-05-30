@@ -1,0 +1,6 @@
+(define-module (crates-io un iv universal-sierra-compiler-cairo-lang-starknet-proxy) #:use-module (crates-io))
+
+(define-public crate-universal-sierra-compiler-cairo-lang-starknet-proxy-0.1.0 (c (n "universal-sierra-compiler-cairo-lang-starknet-proxy") (v "0.1.0") (d (list (d (n "cairo-lang-starknet") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-syntax") (r "=1.0.0-rc0") (d #t) (k 0)))) (h "0gcc8ahnkdrcffbaqiwhlmyq0fnch2by1cgdfxd3s0v4xm47ciza") (y #t)))
+
+(define-public crate-universal-sierra-compiler-cairo-lang-starknet-proxy-0.2.0 (c (n "universal-sierra-compiler-cairo-lang-starknet-proxy") (v "0.2.0") (d (list (d (n "cairo-lang-casm") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-diagnostics") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-filesystem") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-sierra") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-sierra-ap-change") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-sierra-gas") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-sierra-to-casm") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-starknet") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-syntax") (r "=1.0.0-rc0") (d #t) (k 0)) (d (n "cairo-lang-utils") (r "=1.0.0-rc0") (d #t) (k 0)))) (h "0dy9jb5w8pil1sypb89a51j8dr1463qwni053pqn5v0wbayvg3lz")))
+

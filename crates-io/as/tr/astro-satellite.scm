@@ -1,0 +1,4 @@
+(define-module (crates-io as tr astro-satellite) #:use-module (crates-io))
+
+(define-public crate-astro-satellite-1.1.0 (c (n "astro-satellite") (v "1.1.0") (d (list (d (n "astro-satellite-package") (r "^1.0.0") (d #t) (k 0)) (d (n "astroport-ibc") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^1.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.15") (d #t) (k 0)) (d (n "cw-utils") (r "^0.15") (d #t) (k 0)) (d (n "cw2") (r "^0.15") (d #t) (k 0)) (d (n "ibc-controller-package") (r "^1.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "06a909aaxplqsmxd38m5r3wxqb811x9njfmr1ddnpxlydsgpqviy") (f (quote (("neutron") ("library") ("default") ("backtraces" "cosmwasm-std/backtraces"))))))
+

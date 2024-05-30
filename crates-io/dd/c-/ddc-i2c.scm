@@ -1,0 +1,10 @@
+(define-module (crates-io dd c- ddc-i2c) #:use-module (crates-io))
+
+(define-public crate-ddc-i2c-0.1.0 (c (n "ddc-i2c") (v "0.1.0") (d (list (d (n "ddc") (r "^0.1.0") (d #t) (k 0)) (d (n "edid") (r "^0.2.0") (d #t) (k 2)) (d (n "i2c") (r "^0.1.0") (d #t) (k 0)) (d (n "i2c-linux") (r "^0.1.0") (f (quote ("i2c"))) (o #t) (d #t) (k 0)) (d (n "resize-slice") (r "^0.1.2") (d #t) (k 0)))) (h "0s8gk2cpcscriv2jpyz09k7mysnvprlpjd2la9qbj7gf3k3dfhsb") (f (quote (("with-linux-enumerate" "i2c-linux" "i2c-linux/udev") ("with-linux" "i2c-linux"))))))
+
+(define-public crate-ddc-i2c-0.2.0 (c (n "ddc-i2c") (v "0.2.0") (d (list (d (n "ddc") (r "^0.2.0") (d #t) (k 0)) (d (n "edid") (r "^0.2.0") (d #t) (k 2)) (d (n "i2c") (r "^0.1.0") (d #t) (k 0)) (d (n "i2c-linux") (r "^0.1.0") (f (quote ("i2c"))) (o #t) (d #t) (k 0)) (d (n "resize-slice") (r "^0.1.2") (d #t) (k 0)))) (h "0b3kmx920jmlymijzahd0kwp5xxx3whsj941wgirdmsxj54s800f") (f (quote (("with-linux-enumerate" "i2c-linux" "i2c-linux/udev") ("with-linux" "i2c-linux"))))))
+
+(define-public crate-ddc-i2c-0.2.1 (c (n "ddc-i2c") (v "0.2.1") (d (list (d (n "ddc") (r "^0.2.0") (d #t) (k 0)) (d (n "edid") (r "^0.2.0") (d #t) (k 2)) (d (n "i2c") (r "^0.1.0") (d #t) (k 0)) (d (n "i2c-linux") (r "^0.1.0") (f (quote ("i2c"))) (o #t) (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "resize-slice") (r "^0.1.2") (d #t) (k 0)))) (h "1hn8nscv9g3f6123iz7wf54mszn55qxy7sxk6asj3z21pmbk0l36") (f (quote (("with-linux-enumerate" "i2c-linux" "i2c-linux/udev") ("with-linux" "i2c-linux"))))))
+
+(define-public crate-ddc-i2c-0.2.2 (c (n "ddc-i2c") (v "0.2.2") (d (list (d (n "ddc") (r "^0.2") (d #t) (k 0)) (d (n "i2c") (r "^0.1") (d #t) (k 0)) (d (n "resize-slice") (r "^0.1") (d #t) (k 0)) (d (n "edid") (r "^0.3") (d #t) (k 2)) (d (n "i2c-linux") (r "^0.1") (f (quote ("i2c"))) (o #t) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "06v9w86bja1r4hklcayvkss62wqzn23hia45gc61vhfmkyn8zw8y") (f (quote (("with-linux-enumerate" "i2c-linux" "i2c-linux/udev") ("with-linux" "i2c-linux"))))))
+

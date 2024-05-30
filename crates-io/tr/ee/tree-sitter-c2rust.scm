@@ -1,0 +1,12 @@
+(define-module (crates-io tr ee tree-sitter-c2rust) #:use-module (crates-io))
+
+(define-public crate-tree-sitter-c2rust-0.20.9 (c (n "tree-sitter-c2rust") (v "0.20.9") (d (list (d (n "lazy_static") (r "^1.2.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "tree-sitter-c2rust-core") (r "^0.20.9") (d #t) (k 0)))) (h "1lm6ay72pah3i2arama81v58w0441hxhs4g1018r0dfn54zspgrj")))
+
+(define-public crate-tree-sitter-c2rust-0.20.10 (c (n "tree-sitter-c2rust") (v "0.20.10") (d (list (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "errno") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "14cdzgzpd4kq3gc1h52dmv7dlfc2b23nhd2zjfcw2c2srzcs8h7f") (r "1.65")))
+
+(define-public crate-tree-sitter-c2rust-0.20.11-pre.1 (c (n "tree-sitter-c2rust") (v "0.20.11-pre.1") (d (list (d (n "bindgen") (r "^0.66.1") (o #t) (d #t) (k 1)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "cc") (r "^1.0.79") (d #t) (k 1)) (d (n "errno") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)))) (h "1sg0m4nisndzgphp72v7kqqv5msn2a7dkm5wvlwzhgphw8cm314s") (f (quote (("capi" "errno" "libc")))) (r "1.65")))
+
+(define-public crate-tree-sitter-c2rust-0.22.4 (c (n "tree-sitter-c2rust") (v "0.22.4") (d (list (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "errno") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "wasmtime-c-api") (r "^19") (o #t) (k 0) (p "wasmtime-c-api-impl")))) (h "1jl1na2pcakzx68zsyd70wq6iy1dx1nj1cs3s7pn5f30cfrajnzb") (f (quote (("wasm" "wasmtime-c-api") ("capi" "errno" "libc")))) (r "1.65")))
+
+(define-public crate-tree-sitter-c2rust-0.22.5 (c (n "tree-sitter-c2rust") (v "0.22.5") (d (list (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "errno") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "wasmtime-c-api") (r "^19") (o #t) (k 0) (p "wasmtime-c-api-impl")))) (h "16k2a3i5659pmcqvpbgqxjawxk6k48bhqsjl5h3r6c86dy292rkv") (f (quote (("wasm" "wasmtime-c-api") ("capi" "errno" "libc")))) (r "1.65")))
+

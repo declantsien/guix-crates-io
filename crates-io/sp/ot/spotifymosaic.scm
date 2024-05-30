@@ -1,0 +1,10 @@
+(define-module (crates-io sp ot spotifymosaic) #:use-module (crates-io))
+
+(define-public crate-spotifymosaic-0.2.0 (c (n "spotifymosaic") (v "0.2.0") (d (list (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (d #t) (k 0)) (d (n "rspotify") (r "^0.11.5") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "19cx8ifgmgwgjjgncffkmb1mv2sdim6vbh6nc81zn51cw1i5rlw2")))
+
+(define-public crate-spotifymosaic-0.2.1 (c (n "spotifymosaic") (v "0.2.1") (d (list (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (d #t) (k 0)) (d (n "rspotify") (r "^0.11.5") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1qdl48lpk2fpyzczm9yskdlnbwi4y4ii4xaax95zx3r81rfcp3x0")))
+
+(define-public crate-spotifymosaic-0.2.2 (c (n "spotifymosaic") (v "0.2.2") (d (list (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (d #t) (k 0)) (d (n "rspotify") (r "^0.11.6") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1yzlw7hj4ysdz4nki0bc12sgzjzhdhbzk72ps8prrscnpy41ri7f")))
+
+(define-public crate-spotifymosaic-0.2.3 (c (n "spotifymosaic") (v "0.2.3") (d (list (d (n "clap") (r "^3.2.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "image") (r "^0.24.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (d #t) (k 0)) (d (n "rspotify") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1l0q1b70fasb5vg0hqr0sd6skv680ncghc296spwrhjnkdjkkk0a")))
+

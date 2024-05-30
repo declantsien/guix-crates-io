@@ -1,0 +1,6 @@
+(define-module (crates-io ps eu pseudoterminal) #:use-module (crates-io))
+
+(define-public crate-pseudoterminal-0.1.0 (c (n "pseudoterminal") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (f (quote ("term" "ioctl" "process" "fs"))) (d #t) (t "cfg(not(windows))") (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("process" "fs"))) (o #t) (k 0)) (d (n "windows") (r "^0.51.0") (d #t) (t "cfg(windows)") (k 0)))) (h "15dxmy1v4hrd876hp0agrf72da39fldrbgz8scgmyaynq6wd3mza") (s 2) (e (quote (("non-blocking" "dep:tokio"))))))
+
+(define-public crate-pseudoterminal-0.1.1 (c (n "pseudoterminal") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (f (quote ("term" "ioctl" "process" "fs"))) (d #t) (t "cfg(not(windows))") (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "tokio") (r "^1.32.0") (f (quote ("process" "fs"))) (o #t) (k 0)) (d (n "windows") (r "^0.51.0") (f (quote ("Win32_System_Pipes" "Win32_Foundation" "Win32_Security" "Win32_System_Console" "Win32_System_Threading"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1w20g8c8dr7zixp45vvvl15s6kh9i4b2fhhmlp0ia1cyyrd0q552") (s 2) (e (quote (("non-blocking" "dep:tokio"))))))
+

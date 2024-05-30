@@ -1,0 +1,4 @@
+(define-module (crates-io we dp wedpr_l_crypto_ot_base_ot) #:use-module (crates-io))
+
+(define-public crate-wedpr_l_crypto_ot_base_ot-0.1.0 (c (n "wedpr_l_crypto_ot_base_ot") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "curve25519-dalek") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.6.0") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "sha3") (r "^0.8") (d #t) (k 0)) (d (n "wedpr_l_crypto_hash_sha3") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_crypto_zkp_utils") (r "^1.2.0") (d #t) (k 0)) (d (n "wedpr_l_protos") (r "^1.2.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.1.0") (d #t) (k 0)))) (h "0y465y6dw9lyqhq7gpr6h17kp3bybrpiydcj8a2igvyl719yfw1c")))
+

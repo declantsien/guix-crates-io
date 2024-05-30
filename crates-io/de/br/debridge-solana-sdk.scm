@@ -1,0 +1,6 @@
+(define-module (crates-io de br debridge-solana-sdk) #:use-module (crates-io))
+
+(define-public crate-debridge-solana-sdk-1.0.0 (c (n "debridge-solana-sdk") (v "1.0.0") (d (list (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "cfg-match") (r "^0.2.1") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "env_to_array") (r "^0.1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.6") (d #t) (k 0)) (d (n "solana-program") (r "=1.14.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1rcj8pq1hssmswlbkn8r68f64r8b6xxk03mrryg3n5xrm6zcfi6d") (f (quote (("prod") ("env") ("default" "prod"))))))
+
+(define-public crate-debridge-solana-sdk-1.0.1 (c (n "debridge-solana-sdk") (v "1.0.1") (d (list (d (n "borsh") (r ">=0.9.1") (d #t) (k 0)) (d (n "cfg-match") (r "^0.2.1") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "env_to_array") (r "^0.1.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.6") (d #t) (k 0)) (d (n "solana-program") (r ">=1.14") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "123d8jlqv7m6ijg419sjpynnl01kfwkhijw2m141qc5mv9vpxjga") (f (quote (("prod") ("env") ("default" "prod"))))))
+

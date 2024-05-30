@@ -1,0 +1,4 @@
+(define-module (crates-io ch ai chainthru-primitives) #:use-module (crates-io))
+
+(define-public crate-chainthru-primitives-0.0.0-reserved (c (n "chainthru-primitives") (v "0.0.0-reserved") (d (list (d (n "alloy-primitives") (r "^0.4.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "ethers-core") (r "^2.0.11") (d #t) (k 0)) (d (n "ethers-providers") (r "^2.0.11") (f (quote ("ipc" "ws"))) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (d #t) (k 0)) (d (n "serde-aux") (r "^4.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.3") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1dd85hlwhfjwqzwi5s98r821wsyv801a5mjds1p5iv0dnczjphwn") (r "1.73.0")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rust-tunnel) #:use-module (crates-io))
+
+(define-public crate-rust-tunnel-0.1.0 (c (n "rust-tunnel") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "async-recursion") (r "^0.2") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "sosistab") (r "^0.4.33") (d #t) (k 0)) (d (n "x25519-dalek") (r "^1.1.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1h90d5cg9y1jmxm98nkphafyy0ac12nvk0ka9b15yzqw9kqh2rbi")))
+
+(define-public crate-rust-tunnel-0.1.1 (c (n "rust-tunnel") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "async-recursion") (r "^0.2") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "sosistab") (r "^0.4.35") (d #t) (k 0)) (d (n "x25519-dalek") (r "^1.1.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1zl0bc6fpck08qfx6qzbvc7y0cpx4knzssm7g7apvwnhvbsjg1y5")))
+
+(define-public crate-rust-tunnel-1.0.0 (c (n "rust-tunnel") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "async-recursion") (r "^0.2") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "sosistab") (r "^0.4.35") (d #t) (k 0)) (d (n "x25519-dalek") (r "^1.1.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "03drlvild95jff1gjzhq9jj873ah5xhsnrzaxxvap7sawvsni3a8")))
+
+(define-public crate-rust-tunnel-1.0.36 (c (n "rust-tunnel") (v "1.0.36") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "async-recursion") (r "^0.2") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "sosistab") (r "^0.4.35") (d #t) (k 0)) (d (n "x25519-dalek") (r "^1.1.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "08zax4lqnkncgbrx3lzgywr53qkjfiffgsg35rjm30mbpdqg9ak9")))
+

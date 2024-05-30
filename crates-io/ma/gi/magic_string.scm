@@ -1,0 +1,20 @@
+(define-module (crates-io ma gi magic_string) #:use-module (crates-io))
+
+(define-public crate-magic_string-0.0.0 (c (n "magic_string") (v "0.0.0") (h "1ivgxcrjfd8f7mjgil5rm8k2yf8w592kjziqysvvi7ghp3arwm1k")))
+
+(define-public crate-magic_string-0.1.0 (c (n "magic_string") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "1gcjrkbr195785knx9lci7dg96jpd5dfz5k0gxj1nyxp1bwy2gl5")))
+
+(define-public crate-magic_string-0.1.2 (c (n "magic_string") (v "0.1.2") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "0wcpq54alj6hvsdczijnb831dymcwnchr5m3kpnfyrclsic38ixb")))
+
+(define-public crate-magic_string-0.1.3 (c (n "magic_string") (v "0.1.3") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "1r5hqmhrsbzjx82767g331hwf2xl7him9f669glpwb2ffvgdq7sg") (f (quote (("node-api" "napi" "napi-derive"))))))
+
+(define-public crate-magic_string-0.2.0 (c (n "magic_string") (v "0.2.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "0acvkc7n16ykm5s4a8g6n2mlcdx5kfjqklqzcxpycxb8q02mik7z") (f (quote (("node-api" "napi" "napi-derive"))))))
+
+(define-public crate-magic_string-0.3.0 (c (n "magic_string") (v "0.3.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "15vpbfvrc7kxfr6sb8bak6bnmxm659gx19l7jxn52rvbwh1qrn1f") (f (quote (("node-api" "napi" "napi-derive"))))))
+
+(define-public crate-magic_string-0.3.1 (c (n "magic_string") (v "0.3.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "1v2hzxqkbpsdfdm4q2f4xjg1h78kwbb2wcf7wq86xh3bhr6zvc4i") (f (quote (("node-api" "napi" "napi-derive"))))))
+
+(define-public crate-magic_string-0.3.2 (c (n "magic_string") (v "0.3.2") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "15xab7k0lgz3vdhpv5n6gr27yh9kslfz3w4wqch0rmligwf9q280") (f (quote (("node-api" "napi" "napi-derive"))))))
+
+(define-public crate-magic_string-0.3.4 (c (n "magic_string") (v "0.3.4") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "napi") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "napi-derive") (r "^2.0.0-beta.5") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "vlq") (r "^0.5.1") (d #t) (k 0)))) (h "062fjfvq17qm8ymqzq4y6wk7a3fmxqq9ysg40yrcrxs3ik73703c") (f (quote (("node-api" "napi" "napi-derive"))))))
+

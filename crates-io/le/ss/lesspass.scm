@@ -1,0 +1,8 @@
+(define-module (crates-io le ss lesspass) #:use-module (crates-io))
+
+(define-public crate-lesspass-0.1.0 (c (n "lesspass") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ring") (r "^0.13") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (o #t) (d #t) (k 0)))) (h "0db2xsi3m5yikv4bl0kmxw01cxbarch3x4slpiq7w32d1cwzsggs") (f (quote (("default" "structopt"))))))
+
+(define-public crate-lesspass-0.2.0 (c (n "lesspass") (v "0.2.0") (d (list (d (n "atty") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ring") (r "^0.13") (d #t) (k 0)) (d (n "rpassword") (r "^2.1") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.2") (o #t) (d #t) (k 0)))) (h "0xls0qj98d641b8qsnbhcbmr794drb7j63z30bg7sjqaaaixnq0m") (f (quote (("default" "atty" "rpassword" "structopt"))))))
+
+(define-public crate-lesspass-0.4.0 (c (n "lesspass") (v "0.4.0") (d (list (d (n "atty") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "hmac") (r "^0.11") (d #t) (k 0)) (d (n "pbkdf2") (r "^0.9") (k 0)) (d (n "rpassword") (r "^5.0") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.9") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "uint") (r "^0.9") (k 0)))) (h "04mzhazx2yib9102hhig4nfxrdqrnmx11kc4h6ymswds46zxmfsm") (f (quote (("std") ("default" "atty" "rpassword" "std" "structopt"))))))
+

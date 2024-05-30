@@ -1,0 +1,10 @@
+(define-module (crates-io ne xt nextree) #:use-module (crates-io))
+
+(define-public crate-nextree-0.1.0 (c (n "nextree") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "1h2ixjkzdsk69r3nw5wikw7mfb8wxx7k9m5n5py3wz1im9ssb8zs")))
+
+(define-public crate-nextree-0.1.1 (c (n "nextree") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "1nc6s25a3mxs5w7yn0yv75iyn0ghpcngrpw7ghd5cgsiq68nsrfl")))
+
+(define-public crate-nextree-0.1.2 (c (n "nextree") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "1iya88iz9d8hlxgvb5pfw61pzmdjzmfbc38a1cyflnhxw63jlncj")))
+
+(define-public crate-nextree-0.1.3 (c (n "nextree") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 0)))) (h "0ckk0kvpfbf2pq94wq6zz0jby3v77n5mgldbn2cg926kvmx3gfrr")))
+

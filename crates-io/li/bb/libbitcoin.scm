@@ -1,0 +1,6 @@
+(define-module (crates-io li bb libbitcoin) #:use-module (crates-io))
+
+(define-public crate-libbitcoin-0.1.0 (c (n "libbitcoin") (v "0.1.0") (d (list (d (n "amplify") (r "^3") (d #t) (k 0)) (d (n "amplify_derive") (r "^2.4") (d #t) (k 0)) (d (n "bip39") (r "^1.0.1") (d #t) (k 0)) (d (n "bitcoin") (r "^0.27") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_with") (r "^1.5") (d #t) (k 0)) (d (n "serde_with_macros") (r "^1.4.2") (d #t) (k 0)))) (h "1xq4n87q972w4s6v6qhajsh8yg6q3s0hb4ja8yi37rchq24ifjv3")))
+
+(define-public crate-libbitcoin-0.3.0 (c (n "libbitcoin") (v "0.3.0") (d (list (d (n "amplify") (r "^3") (d #t) (k 0)) (d (n "amplify_derive") (r "^2.4") (d #t) (k 0)) (d (n "bip39") (r "^1.0.1") (d #t) (k 0)) (d (n "bitcoin") (r "^0.28.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_with") (r "^1.5") (d #t) (k 0)) (d (n "serde_with_macros") (r "^1.4.2") (d #t) (k 0)))) (h "08arcnjwk2dj91y2ysd487r5z7yj558byi2h45j8l7jm926carj6")))
+

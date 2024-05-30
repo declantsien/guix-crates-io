@@ -1,0 +1,4 @@
+(define-module (crates-io he rm hermitdb) #:use-module (crates-io))
+
+(define-public crate-hermitdb-0.1.0 (c (n "hermitdb") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.2.0") (d #t) (k 0)) (d (n "bincode") (r "^1.0.1") (f (quote ("i128"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.1.1") (d #t) (k 0)) (d (n "git2") (r "^0.7.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.6.2") (d #t) (k 2)) (d (n "ring") (r "^0.13.0-alpha") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 0)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)) (d (n "sled") (r "^0.15.17") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.1") (d #t) (k 0)) (d (n "time") (r "^0.1.39") (d #t) (k 0)))) (h "0pg1ndi9kxyqi6c9a7pnkwybfv7ay9yw5yxhm0d5d8v1w0jr3vv1")))
+

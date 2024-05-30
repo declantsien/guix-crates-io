@@ -1,0 +1,4 @@
+(define-module (crates-io fo ld fold-license) #:use-module (crates-io))
+
+(define-public crate-fold-license-1.0.0 (c (n "fold-license") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clap") (r "^3.1.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "femme") (r "^2.2.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 0)) (d (n "retrieve") (r "^1.1.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "write-to-file") (r "^1.0.2") (d #t) (k 0)))) (h "1gy4s8akdnz8a212lj3alxhaq8xwz1m3a6yz6sds8adnsndfivxw")))
+

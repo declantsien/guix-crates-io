@@ -1,0 +1,14 @@
+(define-module (crates-io sm uf smufl) #:use-module (crates-io))
+
+(define-public crate-smufl-0.1.0 (c (n "smufl") (v "0.1.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)))) (h "106j3x3gz76iqkr9hirngmgnjs19q2w6kc4lglf27fp1c4vgsh9s")))
+
+(define-public crate-smufl-0.1.1 (c (n "smufl") (v "0.1.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)))) (h "03glw33cacq14ql378zrr60ajdjdcqk1a89a5nrdnxq2pjxfpgf5")))
+
+(define-public crate-smufl-0.1.2 (c (n "smufl") (v "0.1.2") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)))) (h "0c2bs0bli2kspg4k8rlm1i4hvpakzcsqaxqr0y1dg0sn2gas1q52")))
+
+(define-public crate-smufl-0.1.3 (c (n "smufl") (v "0.1.3") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)))) (h "0klshic2zizjap1w2n7517say8p1qgzy8n9dfi2r0sqh31czqqiq")))
+
+(define-public crate-smufl-0.2.0 (c (n "smufl") (v "0.2.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (k 2)))) (h "11d8nvhkbcfn8jl6p29kwbx7ka1rgb5sxx0rpsijjb5zyfxq9jhv")))
+
+(define-public crate-smufl-0.2.1 (c (n "smufl") (v "0.2.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.157") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "codegen") (r "^0.2.0") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 2)) (d (n "insta") (r "^1.29.0") (f (quote ("ron"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 2)) (d (n "regex") (r "^1.7.2") (d #t) (k 2)) (d (n "rstest") (r "^0.17.0") (k 2)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)))) (h "04v3b8ggjafr6jqcydkqp6agfplgskiij274c67f1zdjz5wfig7s")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ax fi axfive-matrix-dicebot) #:use-module (crates-io))
+
+(define-public crate-axfive-matrix-dicebot-0.1.0 (c (n "axfive-matrix-dicebot") (v "0.1.0") (d (list (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "macros" "time" "signal"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1y3aq6gr71nsdg391g4hypzv5qz1xmaqkvb9afv2v8fzwk99mshm")))
+
+(define-public crate-axfive-matrix-dicebot-0.1.1 (c (n "axfive-matrix-dicebot") (v "0.1.1") (d (list (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "macros" "time" "signal"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1pwgnlmsvdfvhr4bgbzgiq7fyjxa7wj8jy1v5pxp78wn7gcrikvf")))
+
+(define-public crate-axfive-matrix-dicebot-0.1.2 (c (n "axfive-matrix-dicebot") (v "0.1.2") (d (list (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "macros" "time" "signal"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0b7cjk0j4i0y36v3bhblbg3xrn50nb6s9jdnd9ns2903mnczap3f")))
+

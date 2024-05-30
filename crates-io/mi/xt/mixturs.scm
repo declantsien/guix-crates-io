@@ -1,0 +1,4 @@
+(define-module (crates-io mi xt mixturs) #:use-module (crates-io))
+
+(define-public crate-mixturs-0.1.0 (c (n "mixturs") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (f (quote ("rand"))) (d #t) (k 0)) (d (n "plotters") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "plotters-backend") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "statrs-fork") (r "^0.17") (d #t) (k 0)))) (h "04758bih4n5mc3r27jzdx12cqgn40zqmqj97wxl9v4yjq803q91k") (f (quote (("default" "plot")))) (s 2) (e (quote (("serde" "nalgebra/serde-serialize" "dep:serde") ("plot" "dep:plotters" "dep:plotters-backend"))))))
+

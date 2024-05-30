@@ -1,0 +1,6 @@
+(define-module (crates-io go og google-cloud-spanner-derive) #:use-module (crates-io))
+
+(define-public crate-google-cloud-spanner-derive-0.1.0 (c (n "google-cloud-spanner-derive") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serial_test") (r "^0.9") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("rt-multi-thread"))) (d #t) (k 2)))) (h "1hi0d5zqs299hmc8623aq170v7cdhm64l0mgkwpdsx5d51p3hz3w")))
+
+(define-public crate-google-cloud-spanner-derive-0.2.0 (c (n "google-cloud-spanner-derive") (v "0.2.0") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serial_test") (r "^0.9") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("serde"))) (d #t) (k 2)) (d (n "tokio") (r "^1.32") (f (quote ("rt-multi-thread"))) (d #t) (k 2)))) (h "0w08n9410knyp5apid1r2s1pcvjgk64ga4sc00g5n4gjdajhpqvg")))
+

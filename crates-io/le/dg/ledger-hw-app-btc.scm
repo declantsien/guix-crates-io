@@ -1,0 +1,4 @@
+(define-module (crates-io le dg ledger-hw-app-btc) #:use-module (crates-io))
+
+(define-public crate-ledger-hw-app-btc-0.0.1 (c (n "ledger-hw-app-btc") (v "0.0.1") (d (list (d (n "bitcoin") (r "^0.23.0") (d #t) (k 0)) (d (n "bitcoin") (r "^0.23.0") (d #t) (k 2)) (d (n "futures-await-test") (r "^0.3.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hidapi") (r "^1.2.0") (f (quote ("linux-static-hidraw"))) (k 2)) (d (n "ledger-hw") (r "^0.0.1") (d #t) (k 0)) (d (n "ledger-hw-transport") (r "^0.0.1") (d #t) (k 0)) (d (n "ledger-hw-transport") (r "^0.0.1") (d #t) (k 2)) (d (n "ledger-hw-transport-hid") (r "^0.0.1") (d #t) (k 2)) (d (n "ledger-hw-transport-mock") (r "^0.0.1") (d #t) (k 2)) (d (n "tokio") (r "^0.2.13") (f (quote ("macros"))) (d #t) (k 2)))) (h "11wnxjkdlgk3s63qd3isi4ziyiwp757hl3d8d451qbxbhhsksvx0")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io hu go hugoenv) #:use-module (crates-io))
+
+(define-public crate-hugoenv-0.0.1 (c (n "hugoenv") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.2") (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "0qvld745rf3i5zdn386lzpymrkbka2g36n74zzwa7bjwidvkxnrc")))
+
+(define-public crate-hugoenv-0.0.2 (c (n "hugoenv") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.2") (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "1v72cx0j150ihg05ni08dlfn9gcqhasm5d6741cbsdcvnf7z3p4f")))
+
+(define-public crate-hugoenv-0.0.3 (c (n "hugoenv") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.14") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.2") (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "040xm4vsn1m4lvg9zr3pgwmsvsqn849h3lx4y653w69jykpx4fs1")))
+

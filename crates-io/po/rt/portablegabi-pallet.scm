@@ -1,0 +1,4 @@
+(define-module (crates-io po rt portablegabi-pallet) #:use-module (crates-io))
+
+(define-public crate-portablegabi-pallet-0.3.0 (c (n "portablegabi-pallet") (v "0.3.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0-rc3") (k 0)) (d (n "rstd") (r "^2.0.0-rc3") (k 0) (p "sp-std")) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sp-arithmetic") (r "^2.0.0-rc3") (k 2)) (d (n "sp-core") (r "^2.0.0-rc3") (k 2)) (d (n "sp-io") (r "^2.0.0-rc3") (k 0)) (d (n "sp-runtime") (r "^2.0.0-rc3") (k 0)) (d (n "system") (r "^2.0.0-rc3") (k 0) (p "frame-system")))) (h "1d2rjl0h4f5cp78ckv6za00ssag1z8fi5xb7bdr5h8k4ksicdifz") (f (quote (("std" "serde" "codec/std" "frame-support/std" "sp-runtime/std" "sp-io/std" "system/std") ("default" "std"))))))
+

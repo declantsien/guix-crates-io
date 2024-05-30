@@ -1,0 +1,18 @@
+(define-module (crates-io pa m- pam-client) #:use-module (crates-io))
+
+(define-public crate-pam-client-0.1.0 (c (n "pam-client") (v "0.1.0") (d (list (d (n "libc") (r "^0.2.82") (d #t) (k 0)) (d (n "pam-sys") (r "^0.5.6") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)))) (h "0sqkzkcb3qmiijnxsv4w2z3frm5pzx60vdr54ah88nbikl5fnwls") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.1.1 (c (n "pam-client") (v "0.1.1") (d (list (d (n "libc") (r "^0.2.82") (d #t) (k 0)) (d (n "pam-sys") (r "^0.5.6") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)))) (h "0j5wbks909w3cgakrz6p78hkzv30zs93dshv9wd4449q5xc7rp4g") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.1.2 (c (n "pam-client") (v "0.1.2") (d (list (d (n "libc") (r "^0.2.82") (d #t) (k 0)) (d (n "pam-sys") (r "^0.5.6") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)))) (h "1xj00xamyjsk8shdy95a11rxryjlan4x8gycphi550dm1kcdz464") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.2.0 (c (n "pam-client") (v "0.2.0") (d (list (d (n "libc") (r "^0.2.82") (d #t) (k 0)) (d (n "pam-sys") (r "^0.5.6") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)))) (h "1075dgd7rywwhy18anzrpzhw6jxwz8w1899y33hgwjqk2dmsnqw0") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.3.0 (c (n "pam-client") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pam-sys") (r "^1.0.0-alpha2") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "05bk7mfnhkq8nqnsjxdglsm2g62sj0h75kvb45mgfb81ykdqghhq") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.3.1 (c (n "pam-client") (v "0.3.1") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pam-sys") (r "^1.0.0-alpha3") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0rynxhylfax4z5fk9pv778dh05kj73wj7jkjb9h5hbwwhadhibg6") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.4.0 (c (n "pam-client") (v "0.4.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pam-sys") (r "^1.0.0-alpha3") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1hyyx6ijifrg6y4a4bc8614czlcys3grfd9v8ngqdnqr7w8iizbc") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+
+(define-public crate-pam-client-0.5.0 (c (n "pam-client") (v "0.5.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pam-sys") (r "^1.0.0-alpha3") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (o #t) (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "16mbilppl18wlb4gfv38cmrfsc0hbgf4rx9ipvmsbbd72rhpggai") (f (quote (("default" "cli") ("cli" "rpassword"))))))
+

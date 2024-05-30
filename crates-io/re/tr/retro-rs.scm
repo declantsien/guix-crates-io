@@ -1,0 +1,28 @@
+(define-module (crates-io re tr retro-rs) #:use-module (crates-io))
+
+(define-public crate-retro-rs-0.1.0 (c (n "retro-rs") (v "0.1.0") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1g4f5bwmw5bkln93qpi9gp9f71yijgrskjzn6v5b9lyg3dd85a3m") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.1 (c (n "retro-rs") (v "0.1.1") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1j1cd6yc475aif4l3zv4k3zxc2frx2idw5b26lxy3j5hpbp9z8y1") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.2 (c (n "retro-rs") (v "0.1.2") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "0i1lkn62885q5h5xynixiix1rz7bknrbsxhhld1dyhdm2ylm8wbs") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.3 (c (n "retro-rs") (v "0.1.3") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "16rg00hy3qlr3ap2sscds5y63whyxdkvbd46pgskygqf75gq2i99") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.4 (c (n "retro-rs") (v "0.1.4") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "190y224a4f1xswxnrp6zjwjc19p8z8qygb4hx7cc9lw8vxp531y8") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.5 (c (n "retro-rs") (v "0.1.5") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1jrifc6pmblss3xrgbywkc4blwwd19a87a4n515wf040d7wg16f9") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.6 (c (n "retro-rs") (v "0.1.6") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1a56zpgaha3bdgn7iwnvy4lg1wpyykjv6zig71g84rpaa577bp9l") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.7 (c (n "retro-rs") (v "0.1.7") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "06vbbvy5vgq7yf3719sxpf52ag7yb780yccpalnrkr8l4q2bh22q") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.8 (c (n "retro-rs") (v "0.1.8") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1shw7nbfjy69xd498qz4lqc8hih8z1y74vrpkmhwi1mcw9ynf6jc") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.1.9 (c (n "retro-rs") (v "0.1.9") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1zmzj3ngc72j0qxmnxfak31qcc815slhl0r3ik001hvz9vajxdk3") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.3.0 (c (n "retro-rs") (v "0.3.0") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6.1") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "0940bhvla4ifk7xa40dkan7sdq4mzx8br8jxv8ldrnh4kfknd50z") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.3.1 (c (n "retro-rs") (v "0.3.1") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6.1") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1zq8n7zfxql75x23hc2rnywzs2yl6zd23a6aml49dsrmnqa2kkry") (f (quote (("use_image" "image") ("default" "use_image"))))))
+
+(define-public crate-retro-rs-0.3.2 (c (n "retro-rs") (v "0.3.2") (d (list (d (n "image") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6.1") (d #t) (k 0)) (d (n "libretro-sys") (r "^0.1.1") (d #t) (k 0)))) (h "0symp77y9xg7jh3khcwbh620x8i13sqyzysbg2vrsjwcqi4xbmkx") (f (quote (("use_image" "image") ("default" "use_image"))))))
+

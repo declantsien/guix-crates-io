@@ -1,0 +1,4 @@
+(define-module (crates-io re se reservoir-stream) #:use-module (crates-io))
+
+(define-public crate-reservoir-stream-0.0.0 (c (n "reservoir-stream") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "chrono") (r "^0.4.29") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ethers-core") (r "^2.0.9") (d #t) (k 0)) (d (n "phyllo") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1rz9yhndax8iq30jmw2bini9g0hqhmaqnir7c1qh34mf0kq49ma2") (f (quote (("rustls-tls-webpki-roots" "phyllo/rustls-tls-webpki-roots") ("rustls-tls-native-roots" "phyllo/rustls-tls-native-roots") ("default" "rustls-tls-native-roots"))))))
+

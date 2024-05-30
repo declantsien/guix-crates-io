@@ -1,0 +1,16 @@
+(define-module (crates-io ru st rust_nickname_generater) #:use-module (crates-io))
+
+(define-public crate-rust_nickname_generater-1.0.0 (c (n "rust_nickname_generater") (v "1.0.0") (d (list (d (n "new_string_template") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "1kaqh1v9q1r1slm01dmf892r5mx8z878jhi0qm4jvhk47rskalgm") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+
+(define-public crate-rust_nickname_generater-1.0.1 (c (n "rust_nickname_generater") (v "1.0.1") (d (list (d (n "new_string_template") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "11ar6fqqf36xpxdpsvkp83npp4b1pjl5mazaxn4jcyb4n731c6m3") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+
+(define-public crate-rust_nickname_generater-1.0.2 (c (n "rust_nickname_generater") (v "1.0.2") (d (list (d (n "new_string_template") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "1ncp6qv6zlxrhfcnyybcaavpqv1jhs1m785drc99v6xavy4iiayq") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+
+(define-public crate-rust_nickname_generater-1.0.3 (c (n "rust_nickname_generater") (v "1.0.3") (d (list (d (n "new_string_template") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "06zc8kbdh4fv9anvgpsb0kvdl32nni3qdy6f37vsy5n0wmvmbhw2") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+
+(define-public crate-rust_nickname_generater-1.0.4 (c (n "rust_nickname_generater") (v "1.0.4") (d (list (d (n "new_string_template") (r "^1.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "0k8l5098a7q2xvwzc9gqj85b8nyfiknnxxg4vgvdb33w8jsbnj1g") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+
+(define-public crate-rust_nickname_generater-1.0.5 (c (n "rust_nickname_generater") (v "1.0.5") (d (list (d (n "new_string_template") (r "^1.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "1jyb8pyn0q8mwdfkx5pixbbjylzm30zzrixpygchblqn420rhgdb") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+
+(define-public crate-rust_nickname_generater-1.0.6 (c (n "rust_nickname_generater") (v "1.0.6") (d (list (d (n "new_string_template") (r "^1.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)))) (h "0nhyv1rxkmgjn83r22lzkz1xhqlp4ha1wcb1cd1dk0mfd01vyhjs") (f (quote (("example_custom_template" "custom_templates") ("default") ("custom_templates"))))))
+

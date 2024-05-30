@@ -1,0 +1,4 @@
+(define-module (crates-io tu ri turingfeeds) #:use-module (crates-io))
+
+(define-public crate-turingfeeds-1.0.0-beta.1 (c (n "turingfeeds") (v "1.0.0-beta.1") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "async-std") (r "^1.5.0") (f (quote ("attributes" "crossbeam-channel"))) (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "custom_codes") (r "^1.2.6") (d #t) (k 0)) (d (n "evmap") (r "^9.0.0-beta.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "ron") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.31.0") (d #t) (k 0)) (d (n "tai64") (r "^3.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "timelite") (r "^1.0.4") (d #t) (k 0)) (d (n "turingfeeds-helpers") (r "^1.0.0-beta.1") (d #t) (k 0)) (d (n "yansi") (r "^0.5.0") (d #t) (k 0)))) (h "0k3lanvn0cycdvk6b4prsh7lrf41caydvwy12fmlv8z3c4z2mz9f") (y #t)))
+

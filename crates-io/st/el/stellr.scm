@@ -1,0 +1,4 @@
+(define-module (crates-io st el stellr) #:use-module (crates-io))
+
+(define-public crate-stellr-0.1.0 (c (n "stellr") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 2)) (d (n "httpmock") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)) (d (n "zookeeper") (r "^0.5") (d #t) (k 0)))) (h "0bvk9c0m00dm8dycgcjhw723q5n2gsw53pjs47gwjjjncfkhwqll") (f (quote (("default" "async") ("blocking" "reqwest/blocking") ("async" "reqwest/default"))))))
+

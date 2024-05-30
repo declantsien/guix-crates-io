@@ -1,0 +1,4 @@
+(define-module (crates-io da yb daybreak) #:use-module (crates-io))
+
+(define-public crate-daybreak-0.1.0 (c (n "daybreak") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.32") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "memmap") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "1fnis9ghsvrx2ll8gfnczl25qs1c9jlx053h9vbq1ldfi195bx7f") (f (quote (("yaml_enc" "serde_yaml") ("ron_enc" "ron") ("other_errors" "anyhow") ("mmap" "memmap") ("default") ("bin_enc" "bincode" "base64"))))))
+

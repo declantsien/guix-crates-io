@@ -1,0 +1,8 @@
+(define-module (crates-io pa ti patica) #:use-module (crates-io))
+
+(define-public crate-patica-0.0.1 (c (n "patica") (v "0.0.1") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "copic_colors") (r "^0.1") (d #t) (k 2)) (d (n "pagurus") (r "^0.7.2") (f (quote ("image" "serde"))) (d #t) (k 0)) (d (n "pagurus_tui") (r "^0.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.182") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "0wfq6igaka68s7dn9zznv4s4azlj44xsplrhkwnq58m2yffvzy95")))
+
+(define-public crate-patica-0.0.2 (c (n "patica") (v "0.0.2") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "copic_colors") (r "^0.1") (d #t) (k 2)) (d (n "orfail") (r "^1.1.0") (d #t) (k 0)) (d (n "pagurus") (r "^0.7.2") (f (quote ("image" "serde"))) (d #t) (k 0)) (d (n "pagurus_tui") (r "^0.7.2") (d #t) (k 0)) (d (n "pati") (r "^0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.182") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "1vzlc7sb7ar9fk0v1yjv8hqgx4ypjixihmf4hb25qyydbdglmwhf")))
+
+(define-public crate-patica-0.0.3 (c (n "patica") (v "0.0.3") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "copic_colors") (r "^0.1") (d #t) (k 2)) (d (n "orfail") (r "^1.1.0") (d #t) (k 0)) (d (n "pagurus") (r "^0.7.2") (f (quote ("image" "serde"))) (d #t) (k 0)) (d (n "pagurus_tui") (r "^0.7.2") (d #t) (k 0)) (d (n "pati") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.182") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "01fwpij8lmmq6wp2pr344p5apjii1lj78pb0xyz2a08awlgcxid2")))
+

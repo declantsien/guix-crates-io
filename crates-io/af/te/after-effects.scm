@@ -1,0 +1,4 @@
+(define-module (crates-io af te after-effects) #:use-module (crates-io))
+
+(define-public crate-after-effects-0.1.6 (c (n "after-effects") (v "0.1.6") (d (list (d (n "after-effects-sys") (r "^0.1.6") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c_vec") (r "^2.0.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.1") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "ultraviolet") (r "^0.8.1") (f (quote ("f64"))) (o #t) (d #t) (k 0)) (d (n "widestring") (r "^0.5.1") (d #t) (k 0)))) (h "0640n90a3pyll20asygpv8285p0vy75x6qjgjnx5vqa2k5589wgm") (f (quote (("default") ("artisan-2-api" "after-effects-sys/artisan-2-api"))))))
+

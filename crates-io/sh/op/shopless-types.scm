@@ -1,0 +1,28 @@
+(define-module (crates-io sh op shopless-types) #:use-module (crates-io))
+
+(define-public crate-shopless-types-0.1.0 (c (n "shopless-types") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4") (f (quote ("postgres"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1ssbikzks3axgygb97pjbqw307ifcd8cklckfxyy1r57vyvcfgxr") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.2.0 (c (n "shopless-types") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4") (f (quote ("postgres"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1rkcdimbnf2i3ris79k8iwzlkq4ppvsv69mlj9mkbj7z5xy9a73x") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.3.0 (c (n "shopless-types") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4") (f (quote ("postgres"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (o #t) (d #t) (k 0)))) (h "0dbkxfl8dsxsxpdzh3z5mpbqzr4cmvi2xdkzvbswyg8x7n5bywdl") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.3.1 (c (n "shopless-types") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4") (f (quote ("postgres"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (o #t) (d #t) (k 0)))) (h "0d6ha4kjdqvwr7x1496pf783hrh0cjc70q8p8fn4d5zzsd60n04p") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.3.2 (c (n "shopless-types") (v "0.3.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.4") (f (quote ("postgres"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (o #t) (d #t) (k 0)))) (h "0sfw8dg0dzsz3jmdb05jviig1j6kcm9armjhbrlmak0lmz8wpymy") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.4.0 (c (n "shopless-types") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (o #t) (k 0)))) (h "04jj2gi4awn711g8f8mcywdiqc7mbgimsc64c0f3bfi712lvlm85") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.5.0 (c (n "shopless-types") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (o #t) (k 0)))) (h "1zd1zp8lcf79bwh42q3m189097af0cy677yga8hnnvccz6vjn7ag") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.6.0 (c (n "shopless-types") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.3") (f (quote ("postgres"))) (o #t) (k 0)))) (h "1k4inxskl9gliyiizianlp318ilg7il77mf3bxp7lbi0plxdlbv6") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.7.0 (c (n "shopless-types") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4.0-beta.1") (f (quote ("postgres"))) (o #t) (k 0)))) (h "1m709y8jzcmf8j26kc4yvyz8ihx2s9lbgd1vksvpfilxz22zxh4b") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.8.0 (c (n "shopless-types") (v "0.8.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres"))) (o #t) (k 0)))) (h "1549i3f79aqpr2482ypawbabnxlpliapb9b9775lhjpiyfqllxvi") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.8.1 (c (n "shopless-types") (v "0.8.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres"))) (o #t) (k 0)))) (h "1c9zclnq5n5m8mk8sz38jcdlwfnqwxvqnkxgsdps2ycgr138lhqm") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.9.0 (c (n "shopless-types") (v "0.9.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres"))) (o #t) (k 0)))) (h "174xzf0prpm0bsd2axvvxzgi32ss167hjs72c8l583sbdf5nmwbk") (f (quote (("default"))))))
+
+(define-public crate-shopless-types-0.10.0 (c (n "shopless-types") (v "0.10.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.4") (f (quote ("postgres"))) (o #t) (k 0)))) (h "1pl5ihsinm8jwzppqjsng57i1hkf2j5asxj35wfp45ggcdk8sxpb") (f (quote (("default"))))))
+

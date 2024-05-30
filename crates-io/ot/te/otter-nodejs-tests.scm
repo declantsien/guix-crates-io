@@ -1,0 +1,12 @@
+(define-module (crates-io ot te otter-nodejs-tests) #:use-module (crates-io))
+
+(define-public crate-otter-nodejs-tests-0.7.3 (c (n "otter-nodejs-tests") (v "0.7.3") (d (list (d (n "fehler") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "otter") (r "=0.7.3") (d #t) (k 0)) (d (n "otter-api-tests") (r "=0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0j7ilzgjk5xvm6shi0z8pfs88wac80mc8xjspribnqp2laz6simp")))
+
+(define-public crate-otter-nodejs-tests-1.0.0 (c (n "otter-nodejs-tests") (v "1.0.0") (d (list (d (n "fehler") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "otter") (r "=1.0.0") (d #t) (k 0)) (d (n "otter-api-tests") (r "=1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1bggnrzar7pnla48lfnybzms55vcm46jf2kwhqbkihhi072n6nl3")))
+
+(define-public crate-otter-nodejs-tests-1.1.0 (c (n "otter-nodejs-tests") (v "1.1.0") (d (list (d (n "fehler") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "otter") (r "=1.1.0") (d #t) (k 0)) (d (n "otter-api-tests") (r "=1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0w5ng6n80xyg1xfd2kw35sn1z6y3xfhqldjw3xrdmph2dzzazbs7")))
+
+(define-public crate-otter-nodejs-tests-1.2.0 (c (n "otter-nodejs-tests") (v "1.2.0") (d (list (d (n "fehler") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "otter") (r "=1.2.0") (d #t) (k 0)) (d (n "otter-api-tests") (r "=1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0df96pvb86xj99h7691p8q025zvdhlm284fw8zn09zim4r16vvga")))
+
+(define-public crate-otter-nodejs-tests-1.2.1 (c (n "otter-nodejs-tests") (v "1.2.1") (d (list (d (n "fehler") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "otter") (r "=1.2.1") (d #t) (k 0)) (d (n "otter-api-tests") (r "=1.2.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0i4xkvb49z4zjngsry17mk7x0n6v6jdrm704fs7lvy03ygzgsi77")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io cr os crossbeam-skiplist) #:use-module (crates-io))
+
+(define-public crate-crossbeam-skiplist-0.0.0 (c (n "crossbeam-skiplist") (v "0.0.0") (d (list (d (n "crossbeam") (r "^0.3.2") (d #t) (k 2)) (d (n "crossbeam-epoch") (r "^0.2.0") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 2)) (d (n "scopeguard") (r "^0.3.0") (d #t) (k 0)))) (h "0kfqm0mmb0l129mkvjq3sla5k8f6sigvigiqgl0c6gg5lkypym0m") (y #t)))
+
+(define-public crate-crossbeam-skiplist-0.1.0 (c (n "crossbeam-skiplist") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9.5") (o #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.5") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1.1.0") (k 0)))) (h "0yi2992wb90psnwbskinp2x4rz9xl7fv054yfgmjfv173vwwya5g") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (y #t) (r "1.38")))
+
+(define-public crate-crossbeam-skiplist-0.1.1 (c (n "crossbeam-skiplist") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9.5") (o #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.5") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1.1.0") (k 0)))) (h "1z221c6kqlblrhvpdfgn220nfqgf6fl2fpy59brzqyfhswhmhfl8") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (r "1.38")))
+
+(define-public crate-crossbeam-skiplist-0.1.2 (c (n "crossbeam-skiplist") (v "0.1.2") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9.17") (k 0)) (d (n "crossbeam-utils") (r "^0.8.18") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "08za2v1x7dva9g2cla0xb69zbmfqyig0adigql9ki8a3890lqxvp") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (r "1.61")))
+
+(define-public crate-crossbeam-skiplist-0.1.3 (c (n "crossbeam-skiplist") (v "0.1.3") (d (list (d (n "crossbeam-epoch") (r "^0.9.17") (k 0)) (d (n "crossbeam-utils") (r "^0.8.18") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "06qmzagqmrv4zwmrvppv6lja6lbm6hi3vv47wp32rjjq1i2dwafz") (f (quote (("std" "alloc" "crossbeam-epoch/std" "crossbeam-utils/std") ("default" "std") ("alloc" "crossbeam-epoch/alloc")))) (r "1.61")))
+

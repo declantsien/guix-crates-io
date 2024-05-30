@@ -1,0 +1,4 @@
+(define-module (crates-io st m3 stm32l4-hal) #:use-module (crates-io))
+
+(define-public crate-stm32l4-hal-0.3.0 (c (n "stm32l4-hal") (v "0.3.0") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.5.8") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.5") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.3.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.5.0") (d #t) (k 2)) (d (n "stm32l4") (r "^0.4.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "0ivr190709ddnsam36jbbkhdrfspj2i5cffns0yba9n0n7dpqk6p") (f (quote (("stm32l4x6" "stm32l4/stm32l4x6") ("stm32l4x5" "stm32l4/stm32l4x5") ("stm32l4x3" "stm32l4/stm32l4x3") ("stm32l4x2" "stm32l4/stm32l4x2") ("stm32l4x1" "stm32l4/stm32l4x1") ("rt" "stm32l4/rt"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io de ad deadpool-memcached) #:use-module (crates-io))
+
+(define-public crate-deadpool-memcached-0.1.0 (c (n "deadpool-memcached") (v "0.1.0") (d (list (d (n "async-memcached") (r "^0.1") (k 0)) (d (n "async-trait") (r "^0.1.17") (d #t) (k 0)) (d (n "deadpool") (r "^0.5.2") (f (quote ("managed"))) (k 0)) (d (n "futures") (r "^0.3.1") (f (quote ("compat"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "17r9msdhxqm992xg7qnjlandf5rhlarkcmffr510zdmbi441w3c3") (f (quote (("tcp" "async-memcached/tcp") ("default" "tcp"))))))
+
+(define-public crate-deadpool-memcached-0.1.2 (c (n "deadpool-memcached") (v "0.1.2") (d (list (d (n "async-memcached") (r "^0.1") (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.5") (f (quote ("managed"))) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("compat"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "00mmg4myrlxcgln7mkc7ps1zsp9hfdfjmv91gmglvjz2jx16mhc9") (f (quote (("tcp" "async-memcached/tcp") ("default" "tcp"))))))
+
+(define-public crate-deadpool-memcached-0.2.0 (c (n "deadpool-memcached") (v "0.2.0") (d (list (d (n "async-memcached") (r "^0.1") (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.10.0") (f (quote ("managed"))) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("compat"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net"))) (k 0)))) (h "1lfzxr29rrplin2z7zz7vb3zgljg0527mlvn322d9fz4f5d8k3wf") (f (quote (("tcp" "async-memcached/tcp") ("default" "tcp")))) (r "1.63")))
+
+(define-public crate-deadpool-memcached-0.3.0 (c (n "deadpool-memcached") (v "0.3.0") (d (list (d (n "async-memcached") (r "^0.1") (k 0)) (d (n "deadpool") (r "^0.11.0") (f (quote ("managed"))) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("compat"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net"))) (k 0)))) (h "0k3sb86yh6zc6p7abp42a9vh40vfxgp8wdxhfngisfazfblb69v3") (f (quote (("tcp" "async-memcached/tcp") ("default" "tcp")))) (r "1.75")))
+
+(define-public crate-deadpool-memcached-0.3.1 (c (n "deadpool-memcached") (v "0.3.1") (d (list (d (n "async-memcached") (r "^0.1") (k 0)) (d (n "deadpool") (r "^0.11.0") (f (quote ("managed"))) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net"))) (k 0)))) (h "1hsb8vfvy295b7mrjpdiibsyyqpsw1fkzmxnfzh5ig8xxsn34h7a") (f (quote (("tcp" "async-memcached/tcp") ("default" "tcp")))) (r "1.75")))
+
+(define-public crate-deadpool-memcached-0.3.2 (c (n "deadpool-memcached") (v "0.3.2") (d (list (d (n "async-memcached") (r "^0.1") (k 0)) (d (n "deadpool") (r "^0.12.0") (f (quote ("managed"))) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net"))) (k 0)))) (h "12z68nfwg5rji6r276a55921frxmw31995hkra4nnmwdfr638hb2") (f (quote (("tcp" "async-memcached/tcp") ("default" "tcp")))) (r "1.75")))
+

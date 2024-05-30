@@ -1,0 +1,28 @@
+(define-module (crates-io li ba libabieos-sys) #:use-module (crates-io))
+
+(define-public crate-libabieos-sys-0.1.0 (c (n "libabieos-sys") (v "0.1.0") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)))) (h "1w865f7yrzz2gilfw2gckifgyh6iq3arsazxkviv84mxi083xjsb")))
+
+(define-public crate-libabieos-sys-0.2.0 (c (n "libabieos-sys") (v "0.2.0") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)))) (h "0i7bzjpdv8ljalq4wx9lnch8yd289zap1dbq9l7bs8z9a4aw39ln")))
+
+(define-public crate-libabieos-sys-0.2.1 (c (n "libabieos-sys") (v "0.2.1") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)))) (h "1f8cch692y6kf9c2ph5mprwcfks9pdy3klkmx5w78y56q2y562bk")))
+
+(define-public crate-libabieos-sys-0.2.2 (c (n "libabieos-sys") (v "0.2.2") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)))) (h "1d9v9211v8a5xnylxmx3mxm8a6n5dnhz17mhb229a63y08mn4rgd")))
+
+(define-public crate-libabieos-sys-0.2.3 (c (n "libabieos-sys") (v "0.2.3") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)))) (h "0lhp3pjgaxh9ig6s5vaij820x1jzsml4f0sdfnijlb84ihqg7f8l")))
+
+(define-public crate-libabieos-sys-0.2.4 (c (n "libabieos-sys") (v "0.2.4") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)))) (h "17s1md9b6h1hh9pqbyf14f6lj11hbsabb842flb7kzmnaazmpr00")))
+
+(define-public crate-libabieos-sys-0.3.1 (c (n "libabieos-sys") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0x1l7a810igagn6ba5zff0kqp3r8cxa350szrdkixn75asj28220")))
+
+(define-public crate-libabieos-sys-0.3.2 (c (n "libabieos-sys") (v "0.3.2") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1s5ai5n5ib9588n982c8c9rcnc8dm694fqz701l89b6b6p4lwl52")))
+
+(define-public crate-libabieos-sys-0.3.3 (c (n "libabieos-sys") (v "0.3.3") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "054f7bjs5bllin4sp85v1jdc9w9yzvs0gh2mm2i2kwp0ya5vnprc")))
+
+(define-public crate-libabieos-sys-0.3.4 (c (n "libabieos-sys") (v "0.3.4") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1bmgqbjx20vryv18drnkjd8da4xkkylq1rva0ly3y8aijas9m48b")))
+
+(define-public crate-libabieos-sys-0.3.5 (c (n "libabieos-sys") (v "0.3.5") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0k3j07276a7gfcgd2x0h77khrrkqnn072gdzj01s5zg9v1rxriby")))
+
+(define-public crate-libabieos-sys-0.3.6 (c (n "libabieos-sys") (v "0.3.6") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sys-info") (r "^0.8") (d #t) (k 1)))) (h "06m1ilanzv4gj6yg58gmp4pr0g5y013dcsaxnah831ffy1g4knml")))
+
+(define-public crate-libabieos-sys-0.3.7 (c (n "libabieos-sys") (v "0.3.7") (d (list (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "error-chain") (r "^0.12.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "rust-embed") (r "^5.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sys-info") (r "^0.8") (d #t) (k 1)))) (h "15cw9dwyr7rqx92bkjf00cikssx68brz1p0lcgvl9b7yqzyijmqf")))
+

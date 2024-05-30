@@ -1,0 +1,10 @@
+(define-module (crates-io ga bi gabira) #:use-module (crates-io))
+
+(define-public crate-gabira-0.1.0 (c (n "gabira") (v "0.1.0") (d (list (d (n "actix-web") (r "^0.7.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.5.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)))) (h "0wv9j5qh74lpmqcmwpr6i0b6gmp4rz70hj63v40nnzhbyb0wiwch")))
+
+(define-public crate-gabira-0.1.1 (c (n "gabira") (v "0.1.1") (d (list (d (n "actix-web") (r "^0.7.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.5.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)))) (h "08namk2pmana38xd5clcwi3kfqpsqhh57aq6vr49kbwp2gwvfikm")))
+
+(define-public crate-gabira-0.1.2 (c (n "gabira") (v "0.1.2") (d (list (d (n "actix-web") (r "^0.7.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "owning_ref") (r "^0.3.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.5.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)))) (h "1i6ckbzcgc28fdm98bqcshf9nhnl1y18glqks3nc45y86ygxma50")))
+
+(define-public crate-gabira-0.1.3 (c (n "gabira") (v "0.1.3") (d (list (d (n "actix-web") (r "^0.7.3") (d #t) (k 0)) (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "owning_ref") (r "^0.3.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.5.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)))) (h "127qnf9vp3xn5cld1a8syq1j1x33vkmxdfi09jj9gh2ljmwzifks")))
+

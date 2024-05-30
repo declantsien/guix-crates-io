@@ -1,0 +1,4 @@
+(define-module (crates-io ru nk runkins_lib) #:use-module (crates-io))
+
+(define-public crate-runkins_lib-0.1.0 (c (n "runkins_lib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "envconfig") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "libc") (r "^0.2.103") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt-multi-thread" "macros" "sync" "process" "io-util" "fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("net" "sync"))) (d #t) (k 0)) (d (n "tonic") (r "^0.5") (o #t) (d #t) (k 0)))) (h "132ghyjhjafpz0ks61nbscz2j1l7djbnk3ra0a2jppyqvy8n1iph")))
+

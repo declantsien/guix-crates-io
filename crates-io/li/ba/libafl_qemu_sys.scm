@@ -1,0 +1,16 @@
+(define-module (crates-io li ba libafl_qemu_sys) #:use-module (crates-io))
+
+(define-public crate-libafl_qemu_sys-0.9.0 (c (n "libafl_qemu_sys") (v "0.9.0") (d (list (d (n "libafl_qemu_build") (r "^0.9.0") (d #t) (k 1)))) (h "1v243pjjc465prl7pn5wckc9aqf80a8szfxkxk3mqylgn1vfn7sg") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("mips") ("i386") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+
+(define-public crate-libafl_qemu_sys-0.10.0 (c (n "libafl_qemu_sys") (v "0.10.0") (d (list (d (n "libafl_qemu_build") (r "^0.10.0") (d #t) (k 1)))) (h "0fbycp0pi6v218sa6rlmb1whl09v65z32z7wddwgmvsj84q7jlp2") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("mips") ("i386") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+
+(define-public crate-libafl_qemu_sys-0.10.1 (c (n "libafl_qemu_sys") (v "0.10.1") (d (list (d (n "libafl_qemu_build") (r "^0.10.1") (d #t) (k 1)))) (h "12wd8im9l7w9rjlprmfcp7abnyhwpgvk1xxdn2ycd0r25r8wrf0r") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("mips") ("i386") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+
+(define-public crate-libafl_qemu_sys-0.11.0 (c (n "libafl_qemu_sys") (v "0.11.0") (d (list (d (n "libafl_qemu_build") (r "^0.11.0") (d #t) (k 1)))) (h "10k7kiah6aha2fjysmk8fbcrnlc82lxzzyd2r2m88jn5h38fx5wg") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("ppc") ("mips") ("i386") ("hexagon") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+
+(define-public crate-libafl_qemu_sys-0.11.1 (c (n "libafl_qemu_sys") (v "0.11.1") (d (list (d (n "libafl_qemu_build") (r "^0.11.1") (d #t) (k 1)))) (h "1z6120gxn7n62fac3qfq39mp8ymbas1iwqbqq7k995f367b3hlz1") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("ppc") ("mips") ("i386") ("hexagon") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+
+(define-public crate-libafl_qemu_sys-0.11.2 (c (n "libafl_qemu_sys") (v "0.11.2") (d (list (d (n "libafl_qemu_build") (r "^0.11.2") (d #t) (k 1)))) (h "0bxv5qh63s20mwi2r8716akr93chxbkf2r36kd17d8gzg03bj0q7") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("ppc") ("mips") ("i386") ("hexagon") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+
+(define-public crate-libafl_qemu_sys-0.12.0 (c (n "libafl_qemu_sys") (v "0.12.0") (d (list (d (n "libafl_qemu_build") (r "^0.12.0") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.7") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "pyo3") (r "^0.18") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.18") (o #t) (d #t) (k 1)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)))) (h "0881932pwbksa16xq7qnjs4274185qlzndd0rv4r1qbvdv8367z8") (f (quote (("x86_64") ("usermode") ("systemmode") ("slirp" "systemmode" "libafl_qemu_build/slirp") ("shared" "libafl_qemu_build/shared") ("python" "pyo3" "pyo3-build-config") ("ppc") ("mips") ("i386") ("hexagon") ("clippy" "libafl_qemu_build/clippy") ("be") ("arm") ("aarch64"))))))
+

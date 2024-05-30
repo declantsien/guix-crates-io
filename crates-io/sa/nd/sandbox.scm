@@ -1,0 +1,6 @@
+(define-module (crates-io sa nd sandbox) #:use-module (crates-io))
+
+(define-public crate-sandbox-0.1.0 (c (n "sandbox") (v "0.1.0") (d (list (d (n "cgmath") (r "^0.17.0") (d #t) (k 0)) (d (n "guile-scheme") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.22.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "noise") (r "^0.6.0") (d #t) (k 0)) (d (n "sheep") (r "^0.3") (d #t) (k 0)) (d (n "vulkano") (r "^0.16") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.16") (d #t) (k 0)) (d (n "vulkano-win") (r "^0.16") (d #t) (k 0)) (d (n "winit") (r "^0.19.2") (d #t) (k 0)))) (h "0rdhda14375b4idf6p2v35x3r56lqlxmj1cgvn60zjx0w5c8s97y")))
+
+(define-public crate-sandbox-0.1.1 (c (n "sandbox") (v "0.1.1") (d (list (d (n "cgmath") (r "^0.17.0") (d #t) (k 0)) (d (n "guile-scheme") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.22.4") (d #t) (k 0)) (d (n "laminar") (r "^0.3.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "noise") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sheep") (r "^0.3") (d #t) (k 0)) (d (n "vulkano") (r "^0.16") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.16") (d #t) (k 0)) (d (n "vulkano-win") (r "^0.16") (d #t) (k 0)) (d (n "winit") (r "^0.19.2") (d #t) (k 0)))) (h "0sraq3y9fwgnqz5f4mzqpipqqvminlf1f5nj46fn7fqrp6rxaisq")))
+

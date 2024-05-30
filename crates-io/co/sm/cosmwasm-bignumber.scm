@@ -1,0 +1,16 @@
+(define-module (crates-io co sm cosmwasm-bignumber) #:use-module (crates-io))
+
+(define-public crate-cosmwasm-bignumber-1.0.0 (c (n "cosmwasm-bignumber") (v "1.0.0") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^0.10.1") (d #t) (k 0)) (d (n "schemars") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "0kxgspp9679h4355nqwl6g6vfawr51gm1iqbca8v3aibabb9v7zg") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cosmwasm-bignumber-2.0.0 (c (n "cosmwasm-bignumber") (v "2.0.0") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^0.14.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.14.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "0bj32xa98mzjgi0yd8ypar7nbvb9qjd6qvcc7c9jrhjhzv02ma6b") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cosmwasm-bignumber-2.1.0 (c (n "cosmwasm-bignumber") (v "2.1.0") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^0.15.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.15.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "0bq8z88z99jxhbnp2rlrpx5wxnrz7k7zn326rd0glabkdj698p97") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cosmwasm-bignumber-2.1.1 (c (n "cosmwasm-bignumber") (v "2.1.1") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^0.15.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.15.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "01pazpdv3ziv5ahlbc79v0ifmn6xp6rxh26svsyb494dflrl7r7d") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cosmwasm-bignumber-2.2.0-rc2 (c (n "cosmwasm-bignumber") (v "2.2.0-rc2") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^0.16.0-rc2") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.0-rc2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "0knrf9n6cm16spxf5g51kz2kr2xj0xkwjvs10d4skxikilwv07p9") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cosmwasm-bignumber-2.2.0-rc3 (c (n "cosmwasm-bignumber") (v "2.2.0-rc3") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^0.16.0-rc5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.0-rc5") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "09irwdxc7yr8k4qig8ww1q85086ds8yg8bwbllq6qrl7hbhpcn89") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cosmwasm-bignumber-2.2.0 (c (n "cosmwasm-bignumber") (v "2.2.0") (d (list (d (n "bigint") (r "^4") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^0.16.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.16.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "07qnjmyyzafjkvm78rwlmlrdizlg43bgaaxwv7c4rmxks9nxx56f") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+

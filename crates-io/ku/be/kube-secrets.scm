@@ -1,0 +1,10 @@
+(define-module (crates-io ku be kube-secrets) #:use-module (crates-io))
+
+(define-public crate-kube-secrets-0.4.0 (c (n "kube-secrets") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.12.0") (f (quote ("v1_20"))) (k 0)) (d (n "kube") (r "^0.58.1") (d #t) (k 0)) (d (n "kube-runtime") (r "^0.58.1") (d #t) (k 0)) (d (n "tokio") (r "^1.8.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1vb9wd8pckmi0lgqw79qdfjyhx6d9pbs2rp86hkbl5z6d7ibslsi")))
+
+(define-public crate-kube-secrets-0.4.1 (c (n "kube-secrets") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.12.0") (f (quote ("v1_20"))) (k 0)) (d (n "kube") (r "^0.58.1") (d #t) (k 0)) (d (n "kube-runtime") (r "^0.58.1") (d #t) (k 0)) (d (n "tokio") (r "^1.8.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1qbrb3vl932gv3zm76czs08qd15h39lzx3b7mb197qwa0ywg57ln")))
+
+(define-public crate-kube-secrets-0.4.2 (c (n "kube-secrets") (v "0.4.2") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.12.0") (f (quote ("v1_20"))) (k 0)) (d (n "kube") (r "^0.58.1") (d #t) (k 0)) (d (n "kube-runtime") (r "^0.58.1") (d #t) (k 0)) (d (n "tokio") (r "^1.8.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0vh0my7gb5fwgq8fny7saqzqykkvldddx7p8lcw3g9phcy2s60va")))
+
+(define-public crate-kube-secrets-0.5.0 (c (n "kube-secrets") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "clap") (r "^3.0.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.12.0") (f (quote ("v1_20"))) (k 0)) (d (n "kube") (r "^0.58.1") (d #t) (k 0)) (d (n "kube-runtime") (r "^0.58.1") (d #t) (k 0)) (d (n "tokio") (r "^1.8.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0fa3flfcbnlw11q8vmd7hqg7x6zm0iw63sh8rpczwkvgbp6qcxd8")))
+

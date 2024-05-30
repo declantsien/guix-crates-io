@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# x xxv) #:use-module (crates-io))
+
+(define-public crate-xxv-0.1.2 (c (n "xxv") (v "0.1.2") (d (list (d (n "backtrace") (r "^0.3.35") (d #t) (k 0)) (d (n "bstr") (r "^0.2.10") (f (quote ("std"))) (k 0)) (d (n "cursive") (r "^0.14.0") (k 0)) (d (n "directories") (r "^2.0.2") (d #t) (k 0)) (d (n "rio") (r "^0.9.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.99") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "time") (r "^0.1.42") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.6") (d #t) (k 0)))) (h "05md9w89bj3m9h36kcr4viw5fsgcqm5pi5hq90p9rfcw55ykgyv5") (f (quote (("default" "cursive/ncurses-backend") ("crossterm" "cursive/crossterm-backend"))))))
+

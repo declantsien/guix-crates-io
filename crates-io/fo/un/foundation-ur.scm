@@ -1,0 +1,6 @@
+(define-module (crates-io fo un foundation-ur) #:use-module (crates-io))
+
+(define-public crate-foundation-ur-0.1.0 (c (n "foundation-ur") (v "0.1.0") (d (list (d (n "bitcoin_hashes") (r "^0.13") (k 0)) (d (n "crc") (r "^3") (d #t) (k 0)) (d (n "heapless") (r "^0.8") (k 0)) (d (n "hex") (r "^0.4.2") (f (quote ("alloc"))) (k 2)) (d (n "itertools") (r "^0.10") (k 0)) (d (n "minicbor") (r "^0.20") (f (quote ("derive"))) (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (k 0)) (d (n "rand_xoshiro") (r "^0.6") (d #t) (k 0)))) (h "1d9qcssqskvafihyhvzcyjrv8hy0gf9lnxps1m0ml3z52b6fwyy1") (f (quote (("std" "alloc") ("default" "std") ("alloc" "minicbor/alloc"))))))
+
+(define-public crate-foundation-ur-0.2.0 (c (n "foundation-ur") (v "0.2.0") (d (list (d (n "bitcoin_hashes") (r "^0.14") (k 0)) (d (n "crc") (r "^3") (d #t) (k 0)) (d (n "heapless") (r "^0.8") (k 0)) (d (n "hex") (r "^0.4.2") (f (quote ("alloc"))) (k 2)) (d (n "itertools") (r "^0.10") (k 0)) (d (n "minicbor") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (k 0)) (d (n "rand_xoshiro") (r "^0.6") (d #t) (k 0)))) (h "08p6qbl65g58xshx3vmgzqgd0pjgk3dd6w2ddli5qn6xgzifs0x8") (f (quote (("std" "alloc") ("default" "std") ("alloc" "minicbor/alloc"))))))
+

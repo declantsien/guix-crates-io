@@ -1,0 +1,10 @@
+(define-module (crates-io ro ck rocket_okapi_fork) #:use-module (crates-io))
+
+(define-public crate-rocket_okapi_fork-0.7.1 (c (n "rocket_okapi_fork") (v "0.7.1") (d (list (d (n "okapi") (r "^0.6.0") (d #t) (k 0) (p "okapi_fork")) (d (n "rocket") (r "^0.5.0-rc.1") (f (quote ("json"))) (k 0)) (d (n "rocket_okapi_codegen") (r "^0.7.1") (d #t) (k 0) (p "rocket_okapi_codegen_fork")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "17fkgvwbpgrv28vxdgagfn0i66h4d03lvmjzn11y3vzb06awkhd4")))
+
+(define-public crate-rocket_okapi_fork-0.7.2 (c (n "rocket_okapi_fork") (v "0.7.2") (d (list (d (n "okapi") (r "^0.6.0") (d #t) (k 0) (p "okapi_fork")) (d (n "rocket") (r "^0.5.0-rc.1") (f (quote ("json"))) (k 0)) (d (n "rocket_okapi_codegen") (r "^0.7.1") (d #t) (k 0) (p "rocket_okapi_codegen_fork")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "02ixlpx5phhrv432bf2hq3issj3k7w3jf971xhb883gvnshihjvy")))
+
+(define-public crate-rocket_okapi_fork-0.7.3 (c (n "rocket_okapi_fork") (v "0.7.3") (d (list (d (n "okapi") (r "^0.6.0") (d #t) (k 0) (p "okapi_fork")) (d (n "rocket") (r "^0.5.0-rc.1") (f (quote ("json"))) (k 0)) (d (n "rocket_okapi_codegen") (r "^0.7.1") (d #t) (k 0) (p "rocket_okapi_codegen_fork")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "01wviniryp608glswkdr16p5kdv2vs8yi0w4rbzzcii4knpxi89k")))
+
+(define-public crate-rocket_okapi_fork-0.7.4 (c (n "rocket_okapi_fork") (v "0.7.4") (d (list (d (n "okapi") (r "^0.6.0") (d #t) (k 0) (p "okapi_fork")) (d (n "rocket") (r "^0.5.0-rc.1") (f (quote ("json"))) (k 0)) (d (n "rocket_okapi_codegen") (r "^0.7.1") (d #t) (k 0) (p "rocket_okapi_codegen_fork")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0ih8zlcx0fs11991pcwzf6cls4y9vz3q63rm1mywrx6v9k05galk")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io te t- tet-multiaddr) #:use-module (crates-io))
+
+(define-public crate-tet-multiaddr-0.11.0 (c (n "tet-multiaddr") (v "0.11.0") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "data-encoding") (r "^2.1") (d #t) (k 0)) (d (n "multihash") (r "^0.13") (f (quote ("std" "multihash-impl" "identity"))) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "unsigned-varint") (r "^0.6") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (o #t) (k 0)))) (h "0m0jzs9qzr4zdxqxz0yhsd7rpjjn1p3m1mmdb8n6h1dhrxmqrx9m") (f (quote (("default" "url"))))))
+

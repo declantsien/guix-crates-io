@@ -1,0 +1,6 @@
+(define-module (crates-io ca bo caboose) #:use-module (crates-io))
+
+(define-public crate-caboose-0.0.0 (c (n "caboose") (v "0.0.0") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "nannou") (r "^0.18.1") (d #t) (k 2)) (d (n "nannou_egui") (r "^0.5.0") (d #t) (k 2)) (d (n "ncollide2d") (r "^0.33.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tuple") (r "^0.5.2") (d #t) (k 0)))) (h "09188zgwgdqjki1al8pcl8ga6nppld17b5ks5ixpqszan978b6sp")))
+
+(define-public crate-caboose-0.0.1 (c (n "caboose") (v "0.0.1") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "nannou") (r "^0.18.1") (d #t) (k 2)) (d (n "nannou_egui") (r "^0.5.0") (d #t) (k 2)) (d (n "ncollide2d") (r "^0.33.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tuple") (r "^0.5.2") (d #t) (k 0)))) (h "0x7djs98a7l0xxpspw91g1whr1lk91vbm9qnm43z02vp57vqxi2v")))
+

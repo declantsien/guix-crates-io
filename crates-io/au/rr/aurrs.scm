@@ -1,0 +1,4 @@
+(define-module (crates-io au rr aurrs) #:use-module (crates-io))
+
+(define-public crate-aurrs-0.1.0 (c (n "aurrs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 1)) (d (n "clap_generate") (r "^3.0.0-beta.1") (d #t) (k 1)) (d (n "dirs") (r "^3.0.0") (d #t) (k 0)) (d (n "envfile") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("cookies" "json"))) (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^1.1.1") (d #t) (k 0)))) (h "1ln3mgj4pqs97jpbliy4jrjhac6ql19lfv499az2yjy3cw0b7b3x")))
+

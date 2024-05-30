@@ -1,0 +1,10 @@
+(define-module (crates-io ar co arcon_proto) #:use-module (crates-io))
+
+(define-public crate-arcon_proto-0.1.0 (c (n "arcon_proto") (v "0.1.0") (d (list (d (n "protobuf") (r "^2.0") (d #t) (k 0)) (d (n "protoc-rust") (r "^2.0") (d #t) (k 1)))) (h "029g0pjj7gdr64j9qq36h42ai402jj9zwqwb2hnhcbk1any2ff74") (f (quote (("runtime") ("default" "runtime") ("arcc"))))))
+
+(define-public crate-arcon_proto-0.1.2 (c (n "arcon_proto") (v "0.1.2") (d (list (d (n "protobuf") (r "^2.0") (d #t) (k 0)) (d (n "protoc-rust") (r "^2.0") (d #t) (k 1)))) (h "1i3rda5z8blqz06w3x104lz6f6dyyipsl5h1zy7ikxa21877khd0") (f (quote (("operational_plane") ("default") ("arconc"))))))
+
+(define-public crate-arcon_proto-0.1.3 (c (n "arcon_proto") (v "0.1.3") (d (list (d (n "futures") (r "^0.1.16") (o #t) (d #t) (k 0)) (d (n "grpcio") (r "^0.4") (f (quote ("protobuf-codec"))) (o #t) (k 0)) (d (n "protobuf") (r "^2.0") (d #t) (k 0)) (d (n "protoc-grpcio") (r "^0.3.1") (d #t) (k 1)) (d (n "protoc-rust") (r "^2.0") (d #t) (k 1)))) (h "0v8icrwsg3hrqfjdsndjplc60brrclqg4pzfckh19hbk42wn5j23") (f (quote (("operational_plane") ("default" "arconc") ("arconc" "grpcio" "futures"))))))
+
+(define-public crate-arcon_proto-0.1.4 (c (n "arcon_proto") (v "0.1.4") (d (list (d (n "bytes") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.10") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1.10") (d #t) (k 1)) (d (n "failure") (r "^0.1.5") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1.16") (o #t) (d #t) (k 0)) (d (n "grpcio") (r "^0.4") (f (quote ("protobuf-codec"))) (o #t) (k 0)) (d (n "prost") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "prost-build") (r "^0.5") (o #t) (d #t) (k 1)) (d (n "protobuf") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "protoc-grpcio") (r "^0.3.1") (o #t) (d #t) (k 1)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (o #t) (d #t) (k 0)))) (h "0npwc1ykqgzj03334n6rwz9d9nasnzislwlpfr5720zazfl4z5k9") (f (quote (("operational_plane") ("default") ("arconc" "grpcio" "futures" "protobuf" "protoc-grpcio") ("arcon_spec" "prost" "bytes" "prost-build" "serde" "serde_json" "failure"))))))
+

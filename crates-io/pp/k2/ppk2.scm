@@ -1,0 +1,8 @@
+(define-module (crates-io pp k2 ppk2) #:use-module (crates-io))
+
+(define-public crate-ppk2-0.1.0 (c (n "ppk2") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.60") (f (quote ("backtrace"))) (d #t) (k 2)) (d (n "clap") (r "^3.2.20") (f (quote ("derive" "env"))) (d #t) (k 2)) (d (n "ctrlc") (r "^3.2.2") (d #t) (k 2)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "serialport") (r "^4.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 2)))) (h "1vv6zrcczh63a7zll2hzyz56k8sfiagmsybnfdwbzjlgaiphiwkb")))
+
+(define-public crate-ppk2-0.1.1 (c (n "ppk2") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.60") (f (quote ("backtrace"))) (d #t) (k 2)) (d (n "clap") (r "^3.2.20") (f (quote ("derive" "env"))) (d #t) (k 2)) (d (n "ctrlc") (r "^3.2.2") (d #t) (k 2)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "serialport") (r "^4.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 2)))) (h "0prykbm7xx4i3a4947p8q0pm3d5hca16c9cyj1yiybr343iv6kmy")))
+
+(define-public crate-ppk2-0.1.2 (c (n "ppk2") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.60") (f (quote ("backtrace"))) (d #t) (k 2)) (d (n "clap") (r "^3.2.20") (f (quote ("derive" "env"))) (d #t) (k 2)) (d (n "ctrlc") (r "^3.2.2") (d #t) (k 2)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "serialport") (r "^4.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (d #t) (k 2)))) (h "1iwyda8dz9b6806gkxkl8pbaxlj2avy26vr709srsxa3if79f3m3")))
+

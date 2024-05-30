@@ -1,0 +1,12 @@
+(define-module (crates-io di gi digital-logbook) #:use-module (crates-io))
+
+(define-public crate-digital-logbook-0.1.0 (c (n "digital-logbook") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)))) (h "0r5x19fpid491p8pz7x7w72qyn7v6kcyqz3cwgnfql83vlbkwg5k")))
+
+(define-public crate-digital-logbook-0.1.1 (c (n "digital-logbook") (v "0.1.1") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)))) (h "0a9c88ahga769815plmyps1pjvcx36p71pgkv2pql3a5ryiipjc1")))
+
+(define-public crate-digital-logbook-0.1.2 (c (n "digital-logbook") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "parameterized") (r "^1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)))) (h "1jh3haky8m9xvyx1ij7ixfhsd7a9gw2am4zvw1p3i1v502wzxg0k")))
+
+(define-public crate-digital-logbook-0.1.3 (c (n "digital-logbook") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "parameterized") (r "^1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0pi7l0njfrf3r57hga4k7rgq09mr73kc2l0grydacwnxwsw9xy3j")))
+
+(define-public crate-digital-logbook-0.1.4 (c (n "digital-logbook") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "parameterized") (r "^1.1.0") (d #t) (k 2)) (d (n "polars") (r "^0.35.4") (f (quote ("lazy" "temporal"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "05cf85fvws402dh2cqvhba514kqrpkp00lrl2y8ibx0h37s1xl71")))
+

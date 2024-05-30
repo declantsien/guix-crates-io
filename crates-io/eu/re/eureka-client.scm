@@ -1,0 +1,10 @@
+(define-module (crates-io eu re eureka-client) #:use-module (crates-io))
+
+(define-public crate-eureka-client-0.0.1 (c (n "eureka-client") (v "0.0.1") (d (list (d (n "itertools") (r "^0.7.4") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "1czp5x4rw0lvnrs8l7zc4snmzmv0ln5knvyqia4pv0zr9m5znp14")))
+
+(define-public crate-eureka-client-0.0.2 (c (n "eureka-client") (v "0.0.2") (d (list (d (n "itertools") (r "^0.7.4") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "1mb85wac2wy41x4v7py9is8v3h7780zi4c5dqjbnkvy4lc41m4mj")))
+
+(define-public crate-eureka-client-0.0.3 (c (n "eureka-client") (v "0.0.3") (d (list (d (n "itertools") (r "^0.7.4") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "1hwc5397a0xma4xfag3vnkfkhxbnhaqn4xhs8my1pmpza5hi60zr")))
+
+(define-public crate-eureka-client-0.0.4 (c (n "eureka-client") (v "0.0.4") (d (list (d (n "itertools") (r "^0.7.4") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "1pr5hagwb98cm5z6gga3qmavflbf6xyswmbvd38nbnr9a7mr3pdq")))
+

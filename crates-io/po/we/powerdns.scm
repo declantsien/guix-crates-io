@@ -1,0 +1,8 @@
+(define-module (crates-io po we powerdns) #:use-module (crates-io))
+
+(define-public crate-powerdns-0.1.0 (c (n "powerdns") (v "0.1.0") (d (list (d (n "dotenvy") (r "^0.15.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_with") (r "^1.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros"))) (d #t) (k 2)))) (h "07wyb18m3nzcwpnpxbcqzxlwc8263jlir65yv475kvmzy6gqhz5x")))
+
+(define-public crate-powerdns-0.1.1 (c (n "powerdns") (v "0.1.1") (d (list (d (n "addr") (r "^0.15.3") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_with") (r "^1.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros"))) (d #t) (k 2)))) (h "0pd4p34vl4awbm5dqw811jd639qhczicv89wr7da1s3mca1i7lbm")))
+
+(define-public crate-powerdns-0.2.0 (c (n "powerdns") (v "0.2.0") (d (list (d (n "addr") (r "^0.15.6") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_with") (r "^3.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros"))) (d #t) (k 2)))) (h "04b92jmyj09sq87xgmb5a59rqb7kyk7zgrbid7rkdb9jjbq06jm0")))
+

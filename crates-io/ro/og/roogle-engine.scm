@@ -1,0 +1,24 @@
+(define-module (crates-io ro og roogle-engine) #:use-module (crates-io))
+
+(define-public crate-roogle-engine-0.1.0 (c (n "roogle-engine") (v "0.1.0") (d (list (d (n "roogle-index") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1g94a6bn4bq3lyv0xjw5888h39q9mrimpydh527igidbvmprxfff")))
+
+(define-public crate-roogle-engine-0.1.1 (c (n "roogle-engine") (v "0.1.1") (d (list (d (n "nom") (r "^6.2") (d #t) (k 0)) (d (n "roogle-index") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "13nhrqndsrhijym511jvk5kjp810way8kjppwnqs2jbxhykvbjag")))
+
+(define-public crate-roogle-engine-0.1.2 (c (n "roogle-engine") (v "0.1.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-derive") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^6.2") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0538dr2n7mn5pj59rv69gybdckjzpygv8733sc7cgbjlhwcsj6z9")))
+
+(define-public crate-roogle-engine-0.1.3 (c (n "roogle-engine") (v "0.1.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-derive") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^6.2") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "101aai6grkdvy0zydg0hrd9rx68q0fj2xijjnbxw8mjp38vbwjmi")))
+
+(define-public crate-roogle-engine-0.1.4 (c (n "roogle-engine") (v "0.1.4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-derive") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^6.2") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1jvslg1hzririm5x1879shi1an9l87www5grpkc02ca1qkbx7ymb")))
+
+(define-public crate-roogle-engine-0.1.5 (c (n "roogle-engine") (v "0.1.5") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-derive") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^6.2") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1y83hv9bfmfi5i3s1h4r2272zdmqig45l7417z7skvdywpw9p776")))
+
+(define-public crate-roogle-engine-0.1.6 (c (n "roogle-engine") (v "0.1.6") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-derive") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^6.2") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1s8vfg64rdpc1ck5f3f801wz87ld6dxy553c9sbr75zm4z27dl8i")))
+
+(define-public crate-roogle-engine-0.1.7 (c (n "roogle-engine") (v "0.1.7") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-derive") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0myq7i61p769il4ghaji8d095jms5ps4c6y9b7kwsgdihaymiygr")))
+
+(define-public crate-roogle-engine-1.0.0 (c (n "roogle-engine") (v "1.0.0") (d (list (d (n "levenshtein") (r "^1.0") (d #t) (k 0)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1fin2f2bj0xq9i1jlhljvjsashas8wlxs4s2ccbrqh1qd6qxzjc7")))
+
+(define-public crate-roogle-engine-1.0.1 (c (n "roogle-engine") (v "1.0.1") (d (list (d (n "levenshtein") (r "^1.0") (d #t) (k 0)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0n17accgvgnd1ykv04w5syxrn61pycdiibz0cvcyj96r4s05h4kq")))
+
+(define-public crate-roogle-engine-1.0.2 (c (n "roogle-engine") (v "1.0.2") (d (list (d (n "levenshtein") (r "^1.0") (d #t) (k 0)) (d (n "nom") (r "^7.0") (d #t) (k 0)) (d (n "rustdoc-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1r7lj9j6snjxk9i1qmaw36114mq2pbk3kbh2am4b1k8gf41wiir9")))
+

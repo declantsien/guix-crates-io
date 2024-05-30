@@ -1,0 +1,12 @@
+(define-module (crates-io ba mb bambulab) #:use-module (crates-io))
+
+(define-public crate-bambulab-0.1.0 (c (n "bambulab") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bytes") (r "^1.5.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rumqttc") (r "^0.23.0") (f (quote ("use-native-tls"))) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1a2l8r2c37h1ifb5qnii7n37hz8khzvxc8drz7zlrqlvjs92qj7y")))
+
+(define-public crate-bambulab-0.2.0 (c (n "bambulab") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (k 0)) (d (n "paho-mqtt") (r "^0.12.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)))) (h "04ygx3cdfkk0kxl3apf0j65dfppy6x7vi7mksix27w9i8434pral")))
+
+(define-public crate-bambulab-0.3.0 (c (n "bambulab") (v "0.3.0") (d (list (d (n "futures") (r "^0.3.29") (k 0)) (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("macros" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0098zmq0jhbcvaxgimwjz023wgrnf80j4yq3i52yca07plbjhng2")))
+
+(define-public crate-bambulab-0.4.0 (c (n "bambulab") (v "0.4.0") (d (list (d (n "futures") (r "^0.3.29") (k 0)) (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)))) (h "1ii97hpf5zcqbx523a2p8fa0vnaa9cxqfqjvcfbv511sshhgh6kd")))
+
+(define-public crate-bambulab-0.4.3 (c (n "bambulab") (v "0.4.3") (d (list (d (n "futures") (r "^0.3.30") (k 0)) (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "paho-mqtt") (r "^0.12.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1vb44kjwv7jqmz9qmdqvjisjhiqmqd87xa3xcx4mxhg3k19n5194")))
+

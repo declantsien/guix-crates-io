@@ -1,0 +1,10 @@
+(define-module (crates-io cl ig clightningrpc-plugin-macros) #:use-module (crates-io))
+
+(define-public crate-clightningrpc-plugin-macros-0.3.0-beta.1 (c (n "clightningrpc-plugin-macros") (v "0.3.0-beta.1") (d (list (d (n "clightningrpc-plugin") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rstest") (r "^0.10.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "103wxwjah4ksf08w31a9qbmwgn81hg3020id1ndpa405ym836fh6")))
+
+(define-public crate-clightningrpc-plugin-macros-0.3.0-beta.2 (c (n "clightningrpc-plugin-macros") (v "0.3.0-beta.2") (d (list (d (n "clightningrpc-plugin") (r "^0.3.0-beta.2") (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rstest") (r "^0.10.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "00a5z79v0dzrw05yzzkk6wn910kxl941pjml77maf2kbiyfa445h")))
+
+(define-public crate-clightningrpc-plugin-macros-0.3.0-beta.3 (c (n "clightningrpc-plugin-macros") (v "0.3.0-beta.3") (d (list (d (n "clightningrpc-plugin") (r "^0.3.0-beta.3") (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rstest") (r "^0.10.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0n5qvwfkq4xmbnna0rp4x486rwascx29fzg90wr4i05f7gzra3h3")))
+
+(define-public crate-clightningrpc-plugin-macros-0.3.0-beta.4 (c (n "clightningrpc-plugin-macros") (v "0.3.0-beta.4") (d (list (d (n "clightningrpc-plugin") (r "^0.3.0-beta.8") (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "kproc-parser") (r "^0.0.1-beta.7") (d #t) (k 0)) (d (n "rstest") (r "^0.10.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0mbpxcq32s8wrf9rppvg9sbxjrzsfqx7j6521r3yv90mj7js90gg")))
+

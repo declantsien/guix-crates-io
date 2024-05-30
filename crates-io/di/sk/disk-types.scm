@@ -1,0 +1,12 @@
+(define-module (crates-io di sk disk-types) #:use-module (crates-io))
+
+(define-public crate-disk-types-0.1.0 (c (n "disk-types") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "libparted") (r "^0.1.3") (d #t) (k 0)) (d (n "os-detect") (r "^0.1.0") (d #t) (k 0)) (d (n "sys-mount") (r "^1.0.3") (d #t) (k 0)) (d (n "sysfs-class") (r "^0.1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1blzrsdm19sbdc00yvqhr20gg2pc56clcg2rq2y9i6zb3zyx0799")))
+
+(define-public crate-disk-types-0.1.1 (c (n "disk-types") (v "0.1.1") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "libparted") (r "^0.1.3") (d #t) (k 0)) (d (n "os-detect") (r "^0.2.1") (d #t) (k 0)) (d (n "sys-mount") (r "^1.1.0") (d #t) (k 0)) (d (n "sysfs-class") (r "^0.1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1dn8sfzl7cq77gl1864r5qfswgrppvbw9k5sj3cdyrf3byjibafj")))
+
+(define-public crate-disk-types-0.1.2 (c (n "disk-types") (v "0.1.2") (d (list (d (n "bitflags") (r "^1.0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.3") (d #t) (k 0)) (d (n "libparted") (r "^0.1.3") (d #t) (k 0)) (d (n "os-detect") (r "^0.2.1") (d #t) (k 0)) (d (n "sys-mount") (r "^1.1.0") (d #t) (k 0)) (d (n "sysfs-class") (r "^0.1.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1plrhzjx38nfwa1hpy6jq25fjdrs736j2wyn1hw43yq75rh2r1l7")))
+
+(define-public crate-disk-types-0.1.4 (c (n "disk-types") (v "0.1.4") (d (list (d (n "err-derive") (r "^0.2.4") (d #t) (k 0)) (d (n "libparted") (r "^0.1.4") (d #t) (k 0)) (d (n "os-detect") (r "^0.2.2") (d #t) (k 0)) (d (n "sys-mount") (r "^1.2.1") (d #t) (k 0)) (d (n "sysfs-class") (r "^0.1.2") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "0cv32kyqgbqhpg22vq92s4p802dvgjyj82czgnwjxi0mk7g94qss")))
+
+(define-public crate-disk-types-0.1.5 (c (n "disk-types") (v "0.1.5") (d (list (d (n "err-derive") (r "^0.2.4") (d #t) (k 0)) (d (n "libparted") (r "^0.1.4") (d #t) (k 0)) (d (n "os-detect") (r "^0.2.2") (d #t) (k 0)) (d (n "sys-mount") (r "^1.2.1") (d #t) (k 0)) (d (n "sysfs-class") (r "^0.1.2") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1xd9hs5ikxsy6xhsqp60zb8dlqldhrpw0wgr5ybx6nph25jla449")))
+

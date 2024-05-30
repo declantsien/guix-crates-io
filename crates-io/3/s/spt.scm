@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# s spt) #:use-module (crates-io))
+
+(define-public crate-spt-1.0.0 (c (n "spt") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "comfy-table") (r "^7.1.0") (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "humansize") (r "^2.1.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14.27") (f (quote ("http1" "http2" "h2" "stream"))) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.24.1") (f (quote ("http1" "http2" "rustls-native-certs"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("sync" "parking_lot" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "19swwp5q4wi5pn2b9jxc23l7ff4h9s53952mnmz0cin371lm1r8m")))
+

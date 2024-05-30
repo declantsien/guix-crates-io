@@ -1,0 +1,4 @@
+(define-module (crates-io mr vn mrvn) #:use-module (crates-io))
+
+(define-public crate-mrvn-0.1.0-alpha (c (n "mrvn") (v "0.1.0-alpha") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.14.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("stream"))) (d #t) (k 0)) (d (n "ron") (r "^0.7.1") (d #t) (k 0)) (d (n "semver") (r "^1.0.12") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0f3w1qgjkbh03bjgg27dhh95498cjp9hm1ws3f1ivcjb5385kfk4")))
+

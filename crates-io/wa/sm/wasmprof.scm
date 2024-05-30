@@ -1,0 +1,12 @@
+(define-module (crates-io wa sm wasmprof) #:use-module (crates-io))
+
+(define-public crate-wasmprof-0.1.0 (c (n "wasmprof") (v "0.1.0") (d (list (d (n "cpp_demangle") (r "^0.4.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.142") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "rustc-demangle") (r "^0.1.23") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "wasmtime") (r "^8.0.1") (d #t) (k 0)))) (h "1igpna05i85lc52dg084ws9siwjs600vdkkfm2zqxh6h1rh77z85") (f (quote (("perf-event"))))))
+
+(define-public crate-wasmprof-0.2.0 (c (n "wasmprof") (v "0.2.0") (d (list (d (n "cpp_demangle") (r "^0.4.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.142") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "rustc-demangle") (r "^0.1.23") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "wasmtime") (r "^8.0.1") (d #t) (k 0)))) (h "095fa0rwi2bbbnqls6s7g7wh7hjb6yq0hcfd2zx04wfdyygl1mgp") (f (quote (("perf-event"))))))
+
+(define-public crate-wasmprof-0.3.0 (c (n "wasmprof") (v "0.3.0") (d (list (d (n "cpp_demangle") (r "^0.4.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.142") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "rustc-demangle") (r "^0.1.23") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "wasmtime") (r ">=10.0.0, <15.0.0") (d #t) (k 0)))) (h "18ba8wkpq977aidplqqfwq22s9bv0gigxi0nf7s1mly2pxinh9pf") (f (quote (("perf-event"))))))
+
+(define-public crate-wasmprof-0.4.0 (c (n "wasmprof") (v "0.4.0") (d (list (d (n "cpp_demangle") (r "^0.4.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.142") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "rustc-demangle") (r "^0.1.23") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "wasmtime") (r ">=10.0.0, <18.0.0") (d #t) (k 0)))) (h "0hnh14zsfj1d7va4xkkzq5ndgi0b64gll0s6nynhnj23dc5vrzc1") (f (quote (("perf-event"))))))
+
+(define-public crate-wasmprof-0.5.0 (c (n "wasmprof") (v "0.5.0") (d (list (d (n "cpp_demangle") (r "^0.4.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.142") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("signal"))) (k 0)) (d (n "rustc-demangle") (r "^0.1.23") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "wasmtime") (r ">=15.0.0, <20.0.0") (d #t) (k 0)))) (h "16mf4hrr6wral319hakv240m3i1adq66kqqdjpdb9lf8qfy00iwm") (f (quote (("perf-event"))))))
+

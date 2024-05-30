@@ -1,0 +1,6 @@
+(define-module (crates-io bl oo bloock-merkletree-rs) #:use-module (crates-io))
+
+(define-public crate-bloock-merkletree-rs-0.1.0 (c (n "bloock-merkletree-rs") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "bloock-poseidon-rs") (r "^0.1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 2)))) (h "0r0bfx8yjykby621494v9ajrsfjc1zvprqhb8grm0pqh04bhg8rc")))
+
+(define-public crate-bloock-merkletree-rs-0.1.1 (c (n "bloock-merkletree-rs") (v "0.1.1") (d (list (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "bloock-poseidon-rs") (r "^0.1.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 2)))) (h "027z93asvfcmd6zy0g232gj5vh5wqp5ql6m8niy223mbl1rm1dmq")))
+

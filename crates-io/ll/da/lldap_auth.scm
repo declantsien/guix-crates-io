@@ -1,0 +1,4 @@
+(define-module (crates-io ll da lldap_auth) #:use-module (crates-io))
+
+(define-public crate-lldap_auth-0.3.0 (c (n "lldap_auth") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "curve25519-dalek") (r "^3") (d #t) (k 0)) (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "opaque-ke") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0qx5df0ckarxgpgmscsaccb88cjb96d89dqv811rd609isi6fy61") (f (quote (("opaque_server") ("opaque_client") ("js") ("default" "opaque_server" "opaque_client"))))))
+

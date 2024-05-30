@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-vm-x) #:use-module (crates-io))
+
+(define-public crate-wasmer-vm-x-2.4.1 (c (n "wasmer-vm-x") (v "2.4.1") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (k 0)) (d (n "memoffset") (r "^0.6") (d #t) (k 0)) (d (n "more-asserts") (r "^0.2") (d #t) (k 0)) (d (n "region") (r "^3.0") (d #t) (k 0)) (d (n "rkyv") (r "^0.7.20") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "wasmer-types") (r "=2.4.1") (d #t) (k 0) (p "wasmer-types-x")) (d (n "winapi") (r "^0.3") (f (quote ("winbase" "memoryapi" "errhandlingapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0zig46blfz3gfqx4a0ljr9h5vdakcjhvvmsq7qii4xhkl17arik0") (f (quote (("default"))))))
+

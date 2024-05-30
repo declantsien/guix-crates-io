@@ -1,0 +1,50 @@
+(define-module (crates-io bm a- bma-benchmark) #:use-module (crates-io))
+
+(define-public crate-bma-benchmark-0.0.1 (c (n "bma-benchmark") (v "0.0.1") (h "0hv4aldnji11ricj96x4mr9ygfimf195c8wqfxrh67fyrb92z7mn")))
+
+(define-public crate-bma-benchmark-0.0.2 (c (n "bma-benchmark") (v "0.0.2") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "14r0v8jwq1b7xfbvm6rdlgl1yx9dnqz4bzh04lqva6bjd4v9s74c")))
+
+(define-public crate-bma-benchmark-0.0.3 (c (n "bma-benchmark") (v "0.0.3") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1xqrb1461a3h30bpagyg2pyry01hzzn8w5jbvnxx1zflbqjpn6fr")))
+
+(define-public crate-bma-benchmark-0.0.4 (c (n "bma-benchmark") (v "0.0.4") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1n1fjl9cdx7wraa7aig88pv74pn3mjpkl26zxcch5lwssyxam85j")))
+
+(define-public crate-bma-benchmark-0.0.5 (c (n "bma-benchmark") (v "0.0.5") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0a8vydjsvhqgd8myq1w8hbq003rxkknp1yc6gyn0xfffhmpxqwmi")))
+
+(define-public crate-bma-benchmark-0.0.6 (c (n "bma-benchmark") (v "0.0.6") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1js2id1rs5gxhri922a6kbn7myjvkk02lfgxxk59rxv22dxxlpji")))
+
+(define-public crate-bma-benchmark-0.0.7 (c (n "bma-benchmark") (v "0.0.7") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1xg2gi7fsp0zsgangkbk453ry6xjknhalj8xh97pig2hm6v7af73")))
+
+(define-public crate-bma-benchmark-0.0.8 (c (n "bma-benchmark") (v "0.0.8") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "13yia69x6f88p2hyh4jw9hbkfhr0m4krkxglprd7m2cjc2wczr96")))
+
+(define-public crate-bma-benchmark-0.0.9 (c (n "bma-benchmark") (v "0.0.9") (d (list (d (n "bma-benchmark-proc") (r "^0.0.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "10vbichgah6bpmmslby33p5qj1avcvpppqzzqppp1wcf135brjy5")))
+
+(define-public crate-bma-benchmark-0.0.10 (c (n "bma-benchmark") (v "0.0.10") (d (list (d (n "bma-benchmark-proc") (r "^0.0.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0gprpngmnxxdzp7vszyzkzf3byln132jxzvrhz87brwhfdrx1m8h")))
+
+(define-public crate-bma-benchmark-0.0.11 (c (n "bma-benchmark") (v "0.0.11") (d (list (d (n "bma-benchmark-proc") (r "=0.0.11") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0qw90h6wypxirhklgkf5hbjangdwmpsl2zsjqmwnaykqiw7dvi0r")))
+
+(define-public crate-bma-benchmark-0.0.12 (c (n "bma-benchmark") (v "0.0.12") (d (list (d (n "bma-benchmark-proc") (r "=0.0.12") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1pznyvb9dzg7rmi6vprsnkxdq9kwjkrkkay64bwwml8dn5agv4vi")))
+
+(define-public crate-bma-benchmark-0.0.13 (c (n "bma-benchmark") (v "0.0.13") (d (list (d (n "bma-benchmark-proc") (r "=0.0.13") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "13bfdwyj0n630w4myw8qd6m9968jpm2wbgj5yymsmq04n9jgnjqj")))
+
+(define-public crate-bma-benchmark-0.0.14 (c (n "bma-benchmark") (v "0.0.14") (d (list (d (n "bma-benchmark-proc") (r "=0.0.14") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0gmg1j0m6p5blm54vdhhsrlxkps47lhih2sfm80dfa6vwr64yc8c")))
+
+(define-public crate-bma-benchmark-0.0.15 (c (n "bma-benchmark") (v "0.0.15") (d (list (d (n "bma-benchmark-proc") (r "=0.0.15") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0mwms8iw3397122n06nlck4373y62v7mi6w46dyh5klkd8d8jgpp")))
+
+(define-public crate-bma-benchmark-0.0.16 (c (n "bma-benchmark") (v "0.0.16") (d (list (d (n "bma-benchmark-proc") (r "=0.0.16") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "02rdky7m0y0kjg53rl2jb3v372aqm2mki68bhj2w1wyy3r63by5q")))
+
+(define-public crate-bma-benchmark-0.0.17 (c (n "bma-benchmark") (v "0.0.17") (d (list (d (n "bma-benchmark-proc") (r "=0.0.17") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0bxk30x9c399kh2j12fkhkizb634hkss6rqkn5sk75yjyzzrbr6z")))
+
+(define-public crate-bma-benchmark-0.0.18 (c (n "bma-benchmark") (v "0.0.18") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0s4dsvzcnrmxz2pwswj7lr4qdyj9zgw0jnqdlhk7kzbqv14gsra1")))
+
+(define-public crate-bma-benchmark-0.0.19 (c (n "bma-benchmark") (v "0.0.19") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "0fnka5y645agjy6yvdz5vz1brjlqx7w2lx10kh0w21rq71lmpgpi")))
+
+(define-public crate-bma-benchmark-0.0.20 (c (n "bma-benchmark") (v "0.0.20") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1fgza2w0yc0l2pxply6kir73w90k4yyp63p4dw1zmk0c28a84nac")))
+
+(define-public crate-bma-benchmark-0.0.21 (c (n "bma-benchmark") (v "0.0.21") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "068s428ldy5zkw7mixrp4ih3zslklv6bddz9g49im9hkqd0nmbk6")))
+
+(define-public crate-bma-benchmark-0.0.22 (c (n "bma-benchmark") (v "0.0.22") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "09cgd5m7lsknzqwxbvly4pnm794sdj7s482qjmgcbpyv3hq7yhqw")))
+
+(define-public crate-bma-benchmark-0.0.23 (c (n "bma-benchmark") (v "0.0.23") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "1b1lny0y69j9amplwv8iw4dfv7qijhr2yvsnrz8i6grsarzmsm28")))
+
+(define-public crate-bma-benchmark-0.0.24 (c (n "bma-benchmark") (v "0.0.24") (d (list (d (n "bma-benchmark-proc") (r "=0.0.18") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.17") (d #t) (k 0)))) (h "19z9sbn451d99ghlgr0rm5qjfkapppblh8dd22k4dk1kgjzl4fzx")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io de ox deoxys) #:use-module (crates-io))
+
+(define-public crate-deoxys-0.0.0 (c (n "deoxys") (v "0.0.0") (h "03wbs92rapvxwi6b4zfhf5whazbq9ihxqq85jkmih589r25nvpq3") (y #t)))
+
+(define-public crate-deoxys-0.0.1 (c (n "deoxys") (v "0.0.1") (d (list (d (n "aead") (r "^0.4") (k 0)) (d (n "aead") (r "^0.4") (f (quote ("dev"))) (k 2)) (d (n "aes") (r "^0.7.4") (f (quote ("hazmat"))) (k 0)) (d (n "hex-literal") (r "^0.3.1") (d #t) (k 2)) (d (n "subtle") (r "^2.4.0") (k 0)) (d (n "zeroize") (r "^1") (k 0)))) (h "1vy3l5p2l6155yns8c5j9qvkpyb72anx22gyl92jvdczhdcigc9f") (f (quote (("stream" "aead/stream") ("std" "aead/std" "alloc") ("heapless" "aead/heapless") ("default" "alloc") ("alloc" "aead/alloc"))))))
+
+(define-public crate-deoxys-0.0.2 (c (n "deoxys") (v "0.0.2") (d (list (d (n "aead") (r "^0.4") (k 0)) (d (n "aead") (r "^0.4") (f (quote ("dev"))) (k 2)) (d (n "aes") (r "^0.7.4") (f (quote ("hazmat"))) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "subtle") (r "=2.4") (k 0)) (d (n "zeroize") (r "=1.3") (k 0)))) (h "1dykl44cavrsg701ak4hacnn2p9rnmp05777ib1qqwd9cf5hvhia") (f (quote (("stream" "aead/stream") ("std" "aead/std" "alloc") ("heapless" "aead/heapless") ("default" "alloc") ("alloc" "aead/alloc"))))))
+
+(define-public crate-deoxys-0.1.0-pre.1 (c (n "deoxys") (v "0.1.0-pre.1") (d (list (d (n "aead") (r "=0.5.0-pre.2") (k 0)) (d (n "aead") (r "=0.5.0-pre.2") (f (quote ("dev"))) (k 2)) (d (n "aes") (r "^0.7.5") (f (quote ("hazmat"))) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "subtle") (r "^2") (k 0)) (d (n "zeroize") (r "^1") (k 0)))) (h "070b1yni1mk7pmqhbwgv15hw3cqx2qwwlqgv9m0dw878zm5bd1rd") (f (quote (("stream" "aead/stream") ("std" "aead/std" "alloc") ("heapless" "aead/heapless") ("getrandom" "aead/getrandom") ("default" "alloc") ("alloc" "aead/alloc")))) (r "1.56")))
+
+(define-public crate-deoxys-0.1.0 (c (n "deoxys") (v "0.1.0") (d (list (d (n "aead") (r "^0.5") (k 0)) (d (n "aead") (r "^0.5") (f (quote ("dev"))) (k 2)) (d (n "aes") (r "^0.8") (f (quote ("hazmat"))) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "subtle") (r "^2") (k 0)) (d (n "zeroize") (r "^1") (k 0)))) (h "12bpyygq46ixjxk4yiynm58i9kbfyf0d9f2agbc9kg8lw54klq00") (f (quote (("stream" "aead/stream") ("std" "aead/std" "alloc") ("heapless" "aead/heapless") ("getrandom" "aead/getrandom") ("default" "alloc" "getrandom") ("alloc" "aead/alloc")))) (r "1.56")))
+

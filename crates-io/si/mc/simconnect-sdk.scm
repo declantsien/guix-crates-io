@@ -1,0 +1,16 @@
+(define-module (crates-io si mc simconnect-sdk) #:use-module (crates-io))
+
+(define-public crate-simconnect-sdk-0.1.0 (c (n "simconnect-sdk") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1h3d317ncvcqbiz1ab4drdy85ig1bbqh3nsfmrb466kr4hxwrj7h") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+
+(define-public crate-simconnect-sdk-0.1.1 (c (n "simconnect-sdk") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.1.1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0ilvw19r95x99w4wsynm4wh56w5jy4wpyqm8hnzymjsq1v6vnaj5") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+
+(define-public crate-simconnect-sdk-0.1.2 (c (n "simconnect-sdk") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.1.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0jk915qbd9wcy8lg2q35ybf4a80ncvskq320m6n7wgccrzzg33n3") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+
+(define-public crate-simconnect-sdk-0.1.3 (c (n "simconnect-sdk") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.1.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "14xhvqhzwaln0h324h08j5hi7h6h96gidym025wdl9649l29dbvq") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+
+(define-public crate-simconnect-sdk-0.2.0 (c (n "simconnect-sdk") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.2.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "09vkjcs8jm9rhlg4b918vj4yhk0csywdr9np2jm0za0s4cdmh1kw") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+
+(define-public crate-simconnect-sdk-0.2.1 (c (n "simconnect-sdk") (v "0.2.1") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.2.1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1s13mxmgs84p2dckji1c5hhyjpn6fzrivrbga88vji2q0d9rcm6r") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+
+(define-public crate-simconnect-sdk-0.2.2 (c (n "simconnect-sdk") (v "0.2.2") (d (list (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "simconnect-sdk-derive") (r "=0.2.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "bindgen") (r "^0.64") (d #t) (k 1)))) (h "0w1dlmkn5n4jcvbz226a4ibbx2003lj58isj85ysc48dxz0wq5xg") (f (quote (("derive" "simconnect-sdk-derive") ("default"))))))
+

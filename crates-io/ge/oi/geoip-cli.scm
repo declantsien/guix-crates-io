@@ -1,0 +1,4 @@
+(define-module (crates-io ge oi geoip-cli) #:use-module (crates-io))
+
+(define-public crate-geoip-cli-0.1.0 (c (n "geoip-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.62") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.23") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.0") (d #t) (k 0)) (d (n "maxminddb") (r "^0.23.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("rustls" "stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.21.2") (f (quote ("dns-over-https" "dns-over-rustls" "dns-over-https-rustls"))) (d #t) (k 0)))) (h "1cx4a9hbr4k3r43lqpk79hsz08ivybg9jswlg2w5q4k8aqasxdp2")))
+

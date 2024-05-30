@@ -1,0 +1,10 @@
+(define-module (crates-io wa ll wallpapers) #:use-module (crates-io))
+
+(define-public crate-wallpapers-0.1.0 (c (n "wallpapers") (v "0.1.0") (d (list (d (n "daemonize") (r "^0.4.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "once_cell") (r "^0.2.1") (d #t) (k 0)) (d (n "wallpaper") (r "^2.0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("consoleapi" "winsvc"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0lhcfmy5m4s1jrzl7ifcq20vqrg84cw354aykmdcq76yabsfm3jh")))
+
+(define-public crate-wallpapers-0.1.1 (c (n "wallpapers") (v "0.1.1") (d (list (d (n "daemonize") (r "^0.4.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "once_cell") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.94") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "wallpaper") (r "^2.0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("consoleapi" "winsvc"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1699w6ap57519jwx593bb5rkf4r0dxwr9xzfry4q97mamj38v1x8")))
+
+(define-public crate-wallpapers-0.2.0 (c (n "wallpapers") (v "0.2.0") (d (list (d (n "daemonize") (r "^0.4.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "once_cell") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.94") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "wallpaper") (r "^2.0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("consoleapi" "winsvc"))) (d #t) (t "cfg(windows)") (k 0)))) (h "010hklwnjfywg81qi4ji9lr00m2zmpm8567snpvfb2ysbixh6dah")))
+
+(define-public crate-wallpapers-0.3.0 (c (n "wallpapers") (v "0.3.0") (d (list (d (n "daemonize") (r "^0.4.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "wallpaper") (r "^2.0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("consoleapi" "winsvc"))) (d #t) (t "cfg(windows)") (k 0)))) (h "093gy0qdpkr5bdm1mzfa175yjhwjzhjj8zy17rj7vcimqcrvkvl2")))
+

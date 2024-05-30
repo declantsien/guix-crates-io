@@ -1,0 +1,4 @@
+(define-module (crates-io da ta datagen-rs-openaddresses-plugin) #:use-module (crates-io))
+
+(define-public crate-datagen-rs-openaddresses-plugin-0.1.0 (c (n "datagen-rs-openaddresses-plugin") (v "0.1.0") (d (list (d (n "datagen-rs") (r "^0.1.0") (f (quote ("map-schema"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "log4rs") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rusqlite") (r "^0.29") (f (quote ("serde_json" "bundled"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0dwywkgh9invayyzczlhclwvlygqxwykax87is2xkkxhyjsmsppm") (s 2) (e (quote (("sqlite" "dep:rusqlite") ("log" "dep:log" "dep:log4rs"))))))
+

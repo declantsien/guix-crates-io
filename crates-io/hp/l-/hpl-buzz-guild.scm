@@ -1,0 +1,4 @@
+(define-module (crates-io hp l- hpl-buzz-guild) #:use-module (crates-io))
+
+(define-public crate-hpl-buzz-guild-0.0.1 (c (n "hpl-buzz-guild") (v "0.0.1") (d (list (d (n "anchor-lang") (r "^0.28.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "^0.28.0") (d #t) (k 0)) (d (n "hpl-events") (r "^0.1.24") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "hpl-hive-control") (r "^0.2.13") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "hpl-macros") (r "^0.0.2") (d #t) (k 0)) (d (n "hpl-nectar-staking") (r "^0.1.46") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "hpl-payment-manager") (r "^0.0.5") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "hpl-utils") (r "^0.1.11") (d #t) (k 0)) (d (n "spl-account-compression") (r "^0.2.0") (f (quote ("cpi"))) (d #t) (k 0)))) (h "054rxqzdmraycg1s79ry39lpc2kcy89nssrxd7i80p9hx4r4n14y") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

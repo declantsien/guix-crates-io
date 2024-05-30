@@ -1,0 +1,12 @@
+(define-module (crates-io sw f- swf-types) #:use-module (crates-io))
+
+(define-public crate-swf-types-0.10.0 (c (n "swf-types") (v "0.10.0") (d (list (d (n "hex") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json_v8") (r "^0.0.1") (d #t) (k 2)) (d (n "swf-fixed") (r "^0.1.4") (d #t) (k 0)) (d (n "test-generator") (r "^0.3.0") (d #t) (k 2)))) (h "0h1mbc44n9fxdr9hfb7i3v6w1jzyjzvh8ysmg58hb1j96q15gh5i") (f (quote (("use-serde" "serde" "hex") ("default" "use-serde"))))))
+
+(define-public crate-swf-types-0.11.0 (c (n "swf-types") (v "0.11.0") (d (list (d (n "hex") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json_v8") (r "^0.0.1") (d #t) (k 2)) (d (n "swf-fixed") (r "^0.1.4") (d #t) (k 0)) (d (n "test-generator") (r "^0.3.0") (d #t) (k 2)))) (h "06rkc3gad0p74v3aqyspxbvj4lfzxzysk696glsn84dy2wa6qabs") (f (quote (("use-serde" "serde" "hex") ("default" "use-serde"))))))
+
+(define-public crate-swf-types-0.12.0 (c (n "swf-types") (v "0.12.0") (d (list (d (n "hex") (r "^0.4.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json_v8") (r "^0.0.1") (d #t) (k 2)) (d (n "swf-fixed") (r "^0.1.5") (d #t) (k 0)) (d (n "test-generator") (r "^0.3.0") (d #t) (k 2)))) (h "1vcj4m9d82790q7qxby0lh21cbpr03dj5bv4bvvb9ml33226vlrm") (f (quote (("use-serde" "serde" "hex") ("default" "use-serde"))))))
+
+(define-public crate-swf-types-0.13.0 (c (n "swf-types") (v "0.13.0") (d (list (d (n "hex") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json_v8") (r "^0.1.1") (d #t) (k 2)) (d (n "swf-fixed") (r "^0.1.5") (d #t) (k 0)) (d (n "test-generator") (r "^0.3.0") (d #t) (k 2)))) (h "0kind3w77sl6iz0s6pryim6siwpggqhmf81md2x4k8wnfrb3286b") (f (quote (("use-serde" "serde" "hex") ("default" "use-serde"))))))
+
+(define-public crate-swf-types-0.14.0 (c (n "swf-types") (v "0.14.0") (d (list (d (n "hex") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json_v8") (r "^0.1.1") (d #t) (k 2)) (d (n "swf-fixed") (r "^0.1.5") (d #t) (k 0)) (d (n "test-generator") (r "^0.3.0") (d #t) (k 2)))) (h "152xqd2j4j3z0fs1cs174v1sg61pl3raax11yjrs6xkr8mqwl135") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "dep:hex")))) (r "1.60.0")))
+

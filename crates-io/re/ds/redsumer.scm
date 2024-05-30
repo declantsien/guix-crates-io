@@ -1,0 +1,6 @@
+(define-module (crates-io re ds redsumer) #:use-module (crates-io))
+
+(define-public crate-redsumer-0.4.0-beta.1 (c (n "redsumer") (v "0.4.0-beta.1") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "redis") (r "^0.25.3") (f (quote ("tokio-comp" "streams"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "structmap") (r "^0.1.6") (d #t) (k 2)) (d (n "structmap-derive") (r "^0.1.6") (d #t) (k 2)) (d (n "time") (r "^0.3.36") (f (quote ("parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (d #t) (k 0)))) (h "11z8bny934j9d345xd7bih8m91zdp0jvjjikmxcinakh0dj0kwhy") (y #t)))
+
+(define-public crate-redsumer-0.4.0 (c (n "redsumer") (v "0.4.0") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "redis") (r "^0.25.3") (f (quote ("tokio-comp" "streams"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (d #t) (k 0)))) (h "1g789ay8z19l68vfic99565cnjdjfnwr20cr89hyla0v557isr6v")))
+

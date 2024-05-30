@@ -1,0 +1,4 @@
+(define-module (crates-io ei p7 eip712) #:use-module (crates-io))
+
+(define-public crate-eip712-0.1.0 (c (n "eip712") (v "0.1.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.56") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0.79") (f (quote ("alloc"))) (k 0)) (d (n "smallvec") (r "^1.7.0") (f (quote ("union" "const_new"))) (d #t) (k 0)) (d (n "snafu") (r "^0.7.0") (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)))) (h "1s4a1p9x72d63qxs8v2647gxa82q9vq7kdzy8v8p35ciyzkmp81r") (f (quote (("std" "serde/std" "snafu/std" "serde_json/std") ("backtraces" "snafu/backtraces" "std"))))))
+

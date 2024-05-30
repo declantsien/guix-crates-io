@@ -1,0 +1,4 @@
+(define-module (crates-io bu on buongiornissimo-discord) #:use-module (crates-io))
+
+(define-public crate-buongiornissimo-discord-0.1.0 (c (n "buongiornissimo-discord") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "buongiornissimo-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serenity") (r "^0.11.5") (f (quote ("client" "gateway" "rustls_backend" "model"))) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "08jv5d7qbkplr3wvkmw5b8d1w5wksrhf504003gz5kv66hpkw9y5")))
+

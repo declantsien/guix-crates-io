@@ -1,0 +1,6 @@
+(define-module (crates-io et he ethereum_hashing) #:use-module (crates-io))
+
+(define-public crate-ethereum_hashing-1.0.0-beta.2 (c (n "ethereum_hashing") (v "1.0.0-beta.2") (d (list (d (n "cpufeatures") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.1.0") (d #t) (k 2)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.33") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)))) (h "0dfx22bn2dd48l26crjxqjrnri6fh0rywla4pyx0ss6f6ksccg93") (f (quote (("zero_hash_cache" "lazy_static") ("detect-cpufeatures" "cpufeatures") ("default" "zero_hash_cache" "detect-cpufeatures"))))))
+
+(define-public crate-ethereum_hashing-0.6.0 (c (n "ethereum_hashing") (v "0.6.0") (d (list (d (n "cpufeatures") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "rustc-hex") (r "^2") (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.33") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)))) (h "1yyyyr3nwd7wh4mfgyzwgfi4i706s39v35qiy0dgf4rc8c4b99vf") (f (quote (("zero_hash_cache" "lazy_static") ("detect-cpufeatures" "cpufeatures") ("default" "zero_hash_cache" "detect-cpufeatures"))))))
+

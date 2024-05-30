@@ -1,0 +1,22 @@
+(define-module (crates-io ru fi rufi) #:use-module (crates-io))
+
+(define-public crate-rufi-0.1.0 (c (n "rufi") (v "0.1.0") (d (list (d (n "rf-core") (r "^0.3.0") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.1.0") (d #t) (k 0)))) (h "1sal63x90g9kkd8ibknlsinij0fc0zkd3d8rr4lhsq9i7r4l3891") (f (quote (("full" "core" "distributed") ("distributed") ("default" "core" "distributed") ("core"))))))
+
+(define-public crate-rufi-0.2.0 (c (n "rufi") (v "0.2.0") (d (list (d (n "rf-core") (r "^0.3.0") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.1.0") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.3") (d #t) (k 0)))) (h "1ph4bph1r7zf80f9ki5j8i94mpwxm2dybczzbn0zh8ganpq5g94x") (f (quote (("programs") ("full" "core" "distributed" "programs") ("distributed") ("default" "core" "distributed") ("core"))))))
+
+(define-public crate-rufi-0.2.1 (c (n "rufi") (v "0.2.1") (d (list (d (n "rf-core") (r "^0.3.1") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.2.0") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.4") (d #t) (k 0)))) (h "1znk09ch0rvh41i4p2k9h63gn09jf5pimr4lqj86ibf6cgm2nswa") (f (quote (("programs") ("full" "core" "distributed" "programs") ("distributed") ("default" "core" "distributed") ("core"))))))
+
+(define-public crate-rufi-0.4.0 (c (n "rufi") (v "0.4.0") (d (list (d (n "rf-core") (r "^0.4.0") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.4.0") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.4.0") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.4") (d #t) (k 0)))) (h "16p2yf4bsx8gsyipavq2913fjvx9c51d501x80avqhf23ja3i9wp") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default" "core" "distributed") ("core"))))))
+
+(define-public crate-rufi-0.4.2 (c (n "rufi") (v "0.4.2") (d (list (d (n "rf-core") (r "^0.4.2") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.4.2") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.4.2") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.7") (d #t) (k 0)))) (h "12ddddi34dgd63dkpxn9h62nipwh7v1lb1bbhk0i6ccrjd5wdik3") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default" "core" "distributed") ("core"))))))
+
+(define-public crate-rufi-0.4.3 (c (n "rufi") (v "0.4.3") (d (list (d (n "rf-core") (r "^0.4.3") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.4.3") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.4.3") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.8") (d #t) (k 0)))) (h "0cqqkpj62lalf2ygdf8wzd2qz997714lx5swcxjy0zrsrz4dibpl") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default") ("core"))))))
+
+(define-public crate-rufi-0.5.0 (c (n "rufi") (v "0.5.0") (d (list (d (n "rf-core") (r "^0.5.0") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.5.0") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.5.0") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.9") (d #t) (k 0)))) (h "1ghkyiywfaxf8d05i0hsl99bz3x521477jmx45bhgcsq86fa54mm") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default") ("core"))))))
+
+(define-public crate-rufi-0.5.1 (c (n "rufi") (v "0.5.1") (d (list (d (n "rf-core") (r "^0.5.1") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.5.1") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.5.1") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.10") (d #t) (k 0)))) (h "18sbimalajkwj0kdnajydj6zdc0fig625m3l10y4lbn0msgzxw4a") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default") ("core"))))))
+
+(define-public crate-rufi-0.5.2 (c (n "rufi") (v "0.5.2") (d (list (d (n "rf-core") (r "^0.5.2") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.5.2") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.5.2") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.11") (d #t) (k 0)))) (h "13c34wfsfwn28kjcdbw8c17fsr9zns8ibwd7sp9h58x5by6fmff0") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default") ("core"))))))
+
+(define-public crate-rufi-0.6.0 (c (n "rufi") (v "0.6.0") (d (list (d (n "rf-core") (r "^0.6.0") (d #t) (k 0)) (d (n "rf-distributed") (r "^0.6.0") (d #t) (k 0)) (d (n "rf-distributed-impl") (r "^0.6.0") (d #t) (k 0)) (d (n "rufi_gradient") (r "^2.0.12") (d #t) (k 0)))) (h "0wd10c58wajys5892vipxz7cm44j1yljgl5m7f2r2dfn00q9ap13") (f (quote (("programs") ("impls") ("full" "core" "distributed" "impls" "programs") ("distributed") ("default") ("core"))))))
+

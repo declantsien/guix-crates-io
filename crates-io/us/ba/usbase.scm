@@ -1,0 +1,4 @@
+(define-module (crates-io us ba usbase) #:use-module (crates-io))
+
+(define-public crate-usbase-1.202307.312008 (c (n "usbase") (v "1.202307.312008") (d (list (d (n "actix-web") (r "^4.3.1") (d #t) (k 0)) (d (n "bevy_reflect") (r "^0.10.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-actix-rustls" "mysql" "json" "chrono" "decimal" "macros" "offline" "time" "sqlx-macros"))) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "usc") (r "^1.20230730.1349") (d #t) (k 0)))) (h "0mfmwadkpa9spd25ng5ihf9bg2vgvsjj7d4k01ikki52ya2a0fkm") (r "1.70")))
+

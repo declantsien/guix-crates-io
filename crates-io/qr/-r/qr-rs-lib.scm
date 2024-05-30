@@ -1,0 +1,8 @@
+(define-module (crates-io qr -r qr-rs-lib) #:use-module (crates-io))
+
+(define-public crate-qr-rs-lib-0.1.0-rc1 (c (n "qr-rs-lib") (v "0.1.0-rc1") (d (list (d (n "fast_qr") (r "^0.7.0") (f (quote ("image"))) (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "png") (r "^0.17.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0p8rqp98ii01s26k4yj2785y09nafnl8612xpdk8s3lnsx9rh1v2")))
+
+(define-public crate-qr-rs-lib-0.1.0-rc2 (c (n "qr-rs-lib") (v "0.1.0-rc2") (d (list (d (n "fast_qr") (r "^0.8.2") (f (quote ("image"))) (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "png") (r "^0.17.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0hrps53s2qmbyzb22dnba6bvh82rzdrfkifld0nk6awhj12d8mvy")))
+
+(define-public crate-qr-rs-lib-0.1.0 (c (n "qr-rs-lib") (v "0.1.0") (d (list (d (n "fast_qr") (r "^0.8.2") (f (quote ("image"))) (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "png") (r "^0.17.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "06lirgrhfznlbr53g5gzvkhjwnqr2396i7hgk1pnwrxpsp2vcz61")))
+

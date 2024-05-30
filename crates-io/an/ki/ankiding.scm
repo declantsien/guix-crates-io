@@ -1,0 +1,4 @@
+(define-module (crates-io an ki ankiding) #:use-module (crates-io))
+
+(define-public crate-ankiding-0.1.0 (c (n "ankiding") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.15") (d #t) (k 0)) (d (n "genanki-rs") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "resvg") (r "^0.29") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)) (d (n "which") (r "^4.4") (d #t) (k 0)))) (h "1blsignf7mmxkzdk49ijb5a4q3pxj8vxk94lcyl8bvg5vgz1ym6i")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io mo mb momba-explore) #:use-module (crates-io))
+
+(define-public crate-momba-explore-0.1.0 (c (n "momba-explore") (v "0.1.0") (d (list (d (n "clock-zones") (r "^0.1.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "ordered-float") (r "^2.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)))) (h "17206h2yfmvj04mwbs7whcyj6rsz0ygb7ysxx645prxzk9vx4kjv")))
+
+(define-public crate-momba-explore-0.1.1 (c (n "momba-explore") (v "0.1.1") (d (list (d (n "clock-zones") (r "^0.1.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "ordered-float") (r "^2.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "07dpfg43sbwxg6zjmng6lx9vvjpf31ij502x2zck8j9ija8s4h02")))
+

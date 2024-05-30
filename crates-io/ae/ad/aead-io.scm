@@ -1,0 +1,14 @@
+(define-module (crates-io ae ad aead-io) #:use-module (crates-io))
+
+(define-public crate-aead-io-0.1.0 (c (n "aead-io") (v "0.1.0") (d (list (d (n "aead") (r "^0.4.3") (f (quote ("stream"))) (k 0)) (d (n "aead") (r "^0.4.3") (f (quote ("alloc"))) (k 2)) (d (n "chacha20poly1305") (r "^0.9.0") (d #t) (k 2)))) (h "1f73vnmqx30v5y03zaqy2xhj36hvd11hdh8zhf5jivlvwqq7sps6") (f (quote (("std" "alloc") ("default" "std") ("alloc" "aead/alloc"))))))
+
+(define-public crate-aead-io-0.1.1 (c (n "aead-io") (v "0.1.1") (d (list (d (n "aead") (r "^0.4.3") (f (quote ("stream"))) (k 0)) (d (n "aead") (r "^0.4.3") (f (quote ("alloc"))) (k 2)) (d (n "chacha20poly1305") (r "^0.9.0") (d #t) (k 2)))) (h "066m490rhc7v2r1syk45czpv62gg1rwf1l70ix24iayrshycz58h") (f (quote (("std" "alloc") ("default" "std") ("alloc" "aead/alloc"))))))
+
+(define-public crate-aead-io-0.1.2 (c (n "aead-io") (v "0.1.2") (d (list (d (n "aead") (r "^0.4.3") (f (quote ("stream"))) (k 0)) (d (n "aead") (r "^0.4.3") (f (quote ("alloc"))) (k 2)) (d (n "chacha20poly1305") (r "^0.9.0") (d #t) (k 2)))) (h "1c0fywzcd0gd8anxq4ab3ww56aym9bn7hm4gh4nyp7bhsijlx9f3") (f (quote (("std" "alloc") ("default" "std") ("alloc" "aead/alloc"))))))
+
+(define-public crate-aead-io-0.1.3 (c (n "aead-io") (v "0.1.3") (d (list (d (n "aead") (r "^0.4.3") (f (quote ("stream"))) (k 0)) (d (n "aead") (r "^0.4.3") (f (quote ("alloc"))) (k 2)) (d (n "arrayvec") (r "^0.7.2") (o #t) (k 0)) (d (n "chacha20poly1305") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "191jysv0r908di6gwz8188chxaf4zdvzf464gilamm51bc5gbg2a") (f (quote (("std" "alloc" "aead/std" "arrayvec/std") ("default" "std" "array-buffer") ("array-buffer" "arrayvec") ("alloc" "aead/alloc"))))))
+
+(define-public crate-aead-io-0.1.4 (c (n "aead-io") (v "0.1.4") (d (list (d (n "aead") (r "^0.4.3") (f (quote ("stream"))) (k 0)) (d (n "aead") (r "^0.4.3") (f (quote ("alloc"))) (k 2)) (d (n "arrayvec") (r "^0.7.2") (o #t) (k 0)) (d (n "chacha20poly1305") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "09j44nyr67wxzky6wy14cfbsmfw6yiwsj8cqqmavzc0fcgp99zz6") (f (quote (("std" "alloc" "aead/std" "arrayvec/std") ("default" "std" "array-buffer") ("array-buffer" "arrayvec") ("alloc" "aead/alloc"))))))
+
+(define-public crate-aead-io-0.2.0 (c (n "aead-io") (v "0.2.0") (d (list (d (n "aead") (r "^0.5") (f (quote ("stream"))) (k 0)) (d (n "aead") (r "^0.5") (f (quote ("alloc"))) (k 2)) (d (n "arrayvec") (r "^0.7") (o #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)))) (h "08766kqi6lfiqmgyg699kg99k2zz2556lpd90hi6mbw7d6kq8xas") (f (quote (("std" "alloc" "aead/std" "arrayvec/std") ("default" "std" "array-buffer") ("array-buffer" "arrayvec") ("alloc" "aead/alloc"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io st ru structout) #:use-module (crates-io))
+
+(define-public crate-structout-0.1.0 (c (n "structout") (v "0.1.0") (d (list (d (n "insta") (r "^1.1.0") (d #t) (k 2)) (d (n "linked_hash_set") (r "^0.1.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.44") (f (quote ("full" "parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "1yq2hrhw7xbxq0nc8s8zkd622wkb6nwg6zb9bh12xykwxzr9f5ml")))
+
+(define-public crate-structout-0.1.1 (c (n "structout") (v "0.1.1") (d (list (d (n "insta") (r "^1.1.0") (d #t) (k 2)) (d (n "linked_hash_set") (r "^0.1.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.44") (f (quote ("full" "parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "01np53y0pmm9lhbcw0li6z4yvrm33gw5fhhj5scasralfhy99hvc")))
+
+(define-public crate-structout-0.1.2 (c (n "structout") (v "0.1.2") (d (list (d (n "insta") (r "^1.1.0") (d #t) (k 2)) (d (n "linked_hash_set") (r "^0.1.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.44") (f (quote ("full" "parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "0dl13mryhazpp150s4igbp50j8x82fjsri4pfjd9hhgqlck20hyp")))
+
+(define-public crate-structout-0.3.0 (c (n "structout") (v "0.3.0") (d (list (d (n "insta") (r "^1.1.0") (d #t) (k 2)) (d (n "linked_hash_set") (r "^0.1.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.44") (f (quote ("full" "parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "19nrws1za9qxj5sngkf5pvh6r6mr7k9l5zizl1wcl4gwfl670klk")))
+
+(define-public crate-structout-0.5.0 (c (n "structout") (v "0.5.0") (d (list (d (n "insta") (r "^1.1.0") (d #t) (k 2)) (d (n "linked_hash_set") (r "^0.1.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.44") (f (quote ("full" "parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "1a92pmkynbb7fxh4a3hx8xi1m88n8cfjgy9d98b55m1d963804fh")))
+
+(define-public crate-structout-0.6.0 (c (n "structout") (v "0.6.0") (d (list (d (n "insta") (r "^1.1.0") (d #t) (k 2)) (d (n "linked_hash_set") (r "^0.1.4") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.44") (f (quote ("full" "parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "1hri9q6zfdklz6kp9swa223k96264jrq29cfi95my67h860xaqls")))
+

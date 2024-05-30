@@ -1,0 +1,4 @@
+(define-module (crates-io pr e- pre-rfc3243-libtw2-demo) #:use-module (crates-io))
+
+(define-public crate-pre-rfc3243-libtw2-demo-0.1.0 (c (n "pre-rfc3243-libtw2-demo") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5.2") (d #t) (k 0)) (d (n "binrw") (r "^0.11.1") (d #t) (k 0)) (d (n "buffer") (r "^0.1.9") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-common") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-common") (r "^0.1.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-huffman") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-packer") (r "^0.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-snapshot") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)) (d (n "warn") (r "^0.2.1") (d #t) (k 0)))) (h "11jzfccx4mxgba7fslzbc36vcg3i7vwg80wg21vmdpx2w0h25n5q")))
+

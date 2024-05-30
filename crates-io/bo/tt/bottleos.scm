@@ -1,0 +1,8 @@
+(define-module (crates-io bo tt bottleos) #:use-module (crates-io))
+
+(define-public crate-bottleos-0.0.1 (c (n "bottleos") (v "0.0.1") (d (list (d (n "bootloader") (r "^0.9.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (f (quote ("spin_no_std"))) (d #t) (k 0)) (d (n "spin") (r "^0.5.2") (d #t) (k 0)) (d (n "uart_16550") (r "^0.2.0") (d #t) (k 0)) (d (n "volatile") (r "^0.2.6") (d #t) (k 0)) (d (n "x86_64") (r "^0.13.2") (d #t) (k 0)))) (h "0x9mragigpqndk81qsfb2x529m7hrg3966fln6226s9im189hmdp")))
+
+(define-public crate-bottleos-0.1.0-rc1 (c (n "bottleos") (v "0.1.0-rc1") (d (list (d (n "bootloader") (r "^0.9.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (f (quote ("spin_no_std"))) (d #t) (k 0)) (d (n "pc-keyboard") (r "^0.5.0") (d #t) (k 0)) (d (n "pic8259_simple") (r "^0.2.0") (d #t) (k 0)) (d (n "spin") (r "^0.5.2") (d #t) (k 0)) (d (n "uart_16550") (r "^0.2.0") (d #t) (k 0)) (d (n "volatile") (r "^0.2.6") (d #t) (k 0)) (d (n "x86_64") (r "^0.13.2") (d #t) (k 0)))) (h "1x5qax9fnhjrs95a1lnr87lbqlaiwnmq5g1jnkhyxpmnsr08bza1")))
+
+(define-public crate-bottleos-0.2.0 (c (n "bottleos") (v "0.2.0") (d (list (d (n "bootloader") (r "^0.9.11") (f (quote ("map_physical_memory"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (f (quote ("spin_no_std"))) (d #t) (k 0)) (d (n "linked_list_allocator") (r "^0.8.0") (d #t) (k 0)) (d (n "pc-keyboard") (r "^0.5.0") (d #t) (k 0)) (d (n "pic8259_simple") (r "^0.2.0") (d #t) (k 0)) (d (n "spin") (r "^0.5.2") (d #t) (k 0)) (d (n "uart_16550") (r "^0.2.0") (d #t) (k 0)) (d (n "volatile") (r "^0.2.6") (d #t) (k 0)) (d (n "x86_64") (r "^0.13.2") (d #t) (k 0)))) (h "0396d85hi68jnczpab9n5dh5f9lvgkzq425j80psfm8x6vs40k29")))
+

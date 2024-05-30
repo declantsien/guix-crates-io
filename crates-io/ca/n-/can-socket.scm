@@ -1,0 +1,16 @@
+(define-module (crates-io ca n- can-socket) #:use-module (crates-io))
+
+(define-public crate-can-socket-0.0.1-alpha1 (c (n "can-socket") (v "0.0.1-alpha1") (d (list (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1lsmndqbslbmz35bf8nf8d2zzyim5xr5fyvavncbphr3lxldyb4s")))
+
+(define-public crate-can-socket-0.0.1-alpha2 (c (n "can-socket") (v "0.0.1-alpha2") (d (list (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "15vrj7z19ccrsc5p8k74csvb49df8r6x6bqybywv9j601z2d8s51")))
+
+(define-public crate-can-socket-0.1.0 (c (n "can-socket") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0grgnyfq6shkmxan4axylhf1gs93q907liqmnn6x95bxgqz91n3j") (y #t)))
+
+(define-public crate-can-socket-0.1.1 (c (n "can-socket") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0p5liynh5f042fsjws5lkzmxbsimvfm4hb8sn2d19gwih8s69w5h") (y #t)))
+
+(define-public crate-can-socket-0.1.2 (c (n "can-socket") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0qhxxk2m4xbbsz2fg3lfz65rwl6c3sr6qs5y4mi7g044c9jbbj62") (y #t)))
+
+(define-public crate-can-socket-0.1.3 (c (n "can-socket") (v "0.1.3") (d (list (d (n "assert2") (r "^0.3.14") (d #t) (k 2)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1lc41larr2m8w838pbv4bamw8f2b4bs0kfbzilian2a01569ffx3") (y #t)))
+
+(define-public crate-can-socket-0.1.4 (c (n "can-socket") (v "0.1.4") (d (list (d (n "assert2") (r "^0.3.14") (d #t) (k 2)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "filedesc") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("net"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0vf0v5dr978spr4ddsgxprx9kmgznrg962xnf3lxlk8z54lvmhbd")))
+

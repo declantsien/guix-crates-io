@@ -1,0 +1,16 @@
+(define-module (crates-io nb d- nbd-async) #:use-module (crates-io))
+
+(define-public crate-nbd-async-0.1.0 (c (n "nbd-async") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "uds"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "uds" "macros"))) (d #t) (k 2)))) (h "0yad5wj19lb2xccw8djixs44rrv45glq21w1b5rx55mf95yz3rhb")))
+
+(define-public crate-nbd-async-0.2.0 (c (n "nbd-async") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "uds"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "uds" "macros"))) (d #t) (k 2)))) (h "0zylf0jz2cs51jf5vcjhnf2kn333z7napsb2cp8an23vxhcfmzr3")))
+
+(define-public crate-nbd-async-0.3.0 (c (n "nbd-async") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "nix") (r "^0.18") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "uds"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "uds" "macros"))) (d #t) (k 2)))) (h "11hgzg5d7nhyqx48lq71qa8k6sljm770ydlqy0p07nj58kc0560q")))
+
+(define-public crate-nbd-async-0.4.0 (c (n "nbd-async") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (k 0)) (d (n "nix") (r "^0.19") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util" "fs" "net" "rt-multi-thread" "rt" "macros"))) (d #t) (k 2)))) (h "1vrclhqsv2hmymw4cam74ri43yvc5x3751ivgj215i8p5965x0ak")))
+
+(define-public crate-nbd-async-0.4.1 (c (n "nbd-async") (v "0.4.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (k 0)) (d (n "nix") (r "^0.20") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "fs" "net" "rt-multi-thread" "rt" "macros"))) (d #t) (k 2)))) (h "080v51jdxwjgrjc6g917rnyigk08x1228bdrnd8nmplzf4jia0r7")))
+
+(define-public crate-nbd-async-0.5.0 (c (n "nbd-async") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (k 0)) (d (n "nix") (r "^0.22") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "fs" "net" "rt-multi-thread" "rt" "macros"))) (d #t) (k 2)))) (h "0imzxxz03wykbnyndmk64dcjxy05nz3qx7ysxr7s3cw5fsc4cd4v")))
+
+(define-public crate-nbd-async-0.6.0 (c (n "nbd-async") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (k 0)) (d (n "nix") (r "^0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util" "fs" "net"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "fs" "net" "rt-multi-thread" "rt" "macros"))) (d #t) (k 2)))) (h "0k2273ii8q6smnjzrmn5w796s8kwv6akhjx8qwmr31awm2f8sd8r")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io fl oe floem-window-vibrancy) #:use-module (crates-io))
+
+(define-public crate-floem-window-vibrancy-0.4.3 (c (n "floem-window-vibrancy") (v "0.4.3") (d (list (d (n "cocoa") (r "^0.25") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "floem-winit") (r "^0.29") (f (quote ("x11" "wayland" "wayland-dlopen" "wayland-csd-adwaita" "rwh_05"))) (k 2)) (d (n "objc") (r "^0.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "raw-window-handle") (r "^0.5") (d #t) (k 0)) (d (n "tao") (r "^0.25") (f (quote ("rwh_05"))) (d #t) (k 2)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_LibraryLoader" "Win32_System_SystemInformation" "Win32_Graphics_Gdi" "Win32_Graphics_Dwm" "Win32_UI_WindowsAndMessaging"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "windows-version") (r "^0.1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0b2qy2qydql8cm9npapzh3glpsha6p2c0vdrsp77qsa1sgms2ln7") (r "1.56")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io na sd nasdaq) #:use-module (crates-io))
+
+(define-public crate-nasdaq-0.1.0 (c (n "nasdaq") (v "0.1.0") (d (list (d (n "alphavantage") (r "^0.7.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "ftp") (r "^3.0.1") (d #t) (k 0)) (d (n "graplot") (r "^0.1.22") (d #t) (k 0)) (d (n "polars") (r "^0.26.1") (f (quote ("lazy" "csv-file" "strings" "temporal" "dtype-duration" "dtype-categorical" "concat_str" "rank" "lazy_regex" "rows" "polars-lazy" "algo" "search_sorted" "serde" "serde-lazy" "rolling_window" "true_div" "streaming" "sql" "random" "product" "propagate_nans" "performant" "pivot" "top_k" "cum_agg" "sort_multiple"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.7") (d #t) (k 0)) (d (n "yahoo-finance") (r "^0.3.0") (d #t) (k 0)))) (h "0yibvn0nnplm28lxx2c8hmx2kpir5a479har1h05zsk80wcplhn0")))
+

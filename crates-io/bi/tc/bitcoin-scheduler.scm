@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-scheduler) #:use-module (crates-io))
+
+(define-public crate-bitcoin-scheduler-0.1.12-alpha.0 (c (n "bitcoin-scheduler") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "multimap") (r "^0.8.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "time-point") (r "^0.1.1") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "0ysampwlpyj5xvxcvjiqwic24zywrjbv2bc790l8j9a1nnmn0j44")))
+
+(define-public crate-bitcoin-scheduler-0.1.16-alpha.0 (c (n "bitcoin-scheduler") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "multimap") (r "^0.8.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "time-point") (r "^0.1.1") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1b6c6b3d1bfmgngbg1l9iaalsh2n9zg3savhcpay9s08pbbsz59p")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io cw -v cw-voting) #:use-module (crates-io))
+
+(define-public crate-cw-voting-0.2.0 (c (n "cw-voting") (v "0.2.0") (d (list (d (n "cosmwasm-schema") (r "^0.10.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.10.0") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.10.0") (d #t) (k 0)) (d (n "cosmwasm-vm") (r "^0.10.0") (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "schemars") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "1i8q8iq140zdsklw286rp046d2kxnf384mfx0jb6blyinkqpn0jg") (f (quote (("singlepass" "cosmwasm-vm/default-singlepass") ("default" "cranelift") ("cranelift" "cosmwasm-vm/default-cranelift") ("backtraces" "cosmwasm-std/backtraces" "cosmwasm-vm/backtraces"))))))
+
+(define-public crate-cw-voting-0.10.0 (c (n "cw-voting") (v "0.10.0") (d (list (d (n "cosmwasm-schema") (r "^0.14.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^0.14.0") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.14.0") (d #t) (k 0)) (d (n "cosmwasm-vm") (r "^0.14.0") (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "0shkscrkvlncnl8xxqdq6fwgrsnrni3qbwdzpygsih9d89k1ifp0") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+

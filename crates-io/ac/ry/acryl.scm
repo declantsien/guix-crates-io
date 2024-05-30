@@ -1,0 +1,10 @@
+(define-module (crates-io ac ry acryl) #:use-module (crates-io))
+
+(define-public crate-acryl-0.3.0 (c (n "acryl") (v "0.3.0") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "blake2") (r "^0.7.1") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^1.2.3") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "sha3") (r "^0.8.0") (d #t) (k 0)))) (h "1a2ndyamb05lgfzmaf8b7m8hd9bdrh35yidvd67n0n1rmxkxn7fg")))
+
+(define-public crate-acryl-0.4.0 (c (n "acryl") (v "0.4.0") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "blake2") (r "^0.7.1") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^1.2.3") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "sha3") (r "^0.8.0") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.7.3") (d #t) (k 0)))) (h "1n0wv0csh9f7sy219jnq971352yj0axrk1kilc1vd61h6gik1hyw")))
+
+(define-public crate-acryl-0.4.1 (c (n "acryl") (v "0.4.1") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "blake2") (r "^0.7.1") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^1.2.3") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "sha3") (r "^0.8.0") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.7.3") (d #t) (k 0)))) (h "0i7hkx3kyl26k1m8yfimb1v9aqwlzbfqclh3gzqwjhs2y00hwjhz")))
+
+(define-public crate-acryl-0.4.2 (c (n "acryl") (v "0.4.2") (d (list (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "blake2") (r "^0.7.1") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^1.2.3") (d #t) (k 0)) (d (n "ed25519-dalek") (r "=1.0.0-pre.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "sha3") (r "^0.8.0") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.7.3") (d #t) (k 0)))) (h "0xkflsfw2qyghq56ggfvv9908j830n2pi2m7aax0hzar57bsdrw5")))
+

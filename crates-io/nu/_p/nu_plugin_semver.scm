@@ -1,0 +1,10 @@
+(define-module (crates-io nu _p nu_plugin_semver) #:use-module (crates-io))
+
+(define-public crate-nu_plugin_semver-0.1.0 (c (n "nu_plugin_semver") (v "0.1.0") (d (list (d (n "nu-plugin") (r "^0.89.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.89.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "0q9mqziqcrkk2lcsyyv6qh37v6kjdapnpbi3s8lrd3ww7jxv5rbz")))
+
+(define-public crate-nu_plugin_semver-0.2.0 (c (n "nu_plugin_semver") (v "0.2.0") (d (list (d (n "nu-plugin") (r "^0.90.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.90.1") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "07sjf9kd8hxx6palarydq6aavhp85jw7i0bhfbj0f70y3ymzyr82")))
+
+(define-public crate-nu_plugin_semver-0.3.0 (c (n "nu_plugin_semver") (v "0.3.0") (d (list (d (n "nu-plugin") (r "^0.93.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.93.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "09frnn3qk805vskzymrxp2a8x607nkx42gh0dx4236mnjrmpr1rn")))
+
+(define-public crate-nu_plugin_semver-0.4.0 (c (n "nu_plugin_semver") (v "0.4.0") (d (list (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-plugin-test-support") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "1yx92i3v0fbz0sq1qr5kh0ak4q2nngn0f4rclgrmk2zcsfl540mc")))
+

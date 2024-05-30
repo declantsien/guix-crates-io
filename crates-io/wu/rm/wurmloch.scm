@@ -1,0 +1,8 @@
+(define-module (crates-io wu rm wurmloch) #:use-module (crates-io))
+
+(define-public crate-wurmloch-1.0.0 (c (n "wurmloch") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1bax7ag3j4bvhsm6sx0875qidczrfh4cpdfvi4lk790dv2gk5y18")))
+
+(define-public crate-wurmloch-1.0.1 (c (n "wurmloch") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "14xfk30fr7wcjv4i6f497v64bknrim8xcj8aqgn8bsz9w77xdcfl")))
+
+(define-public crate-wurmloch-1.0.2 (c (n "wurmloch") (v "1.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "globset") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1xgwh35bljm11v9cp7cwc7cm82rj22j9a0mxdcbf6xb9kd4rm9ry")))
+

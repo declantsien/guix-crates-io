@@ -1,0 +1,10 @@
+(define-module (crates-io ex te extended-isolation-forest) #:use-module (crates-io))
+
+(define-public crate-extended-isolation-forest-0.2.0 (c (n "extended-isolation-forest") (v "0.2.0") (d (list (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1izxar7v38464y5iymadx5lc9p6qi6na1m528913k9hp0lgfadwc")))
+
+(define-public crate-extended-isolation-forest-0.2.1 (c (n "extended-isolation-forest") (v "0.2.1") (d (list (d (n "csv") (r "^1") (d #t) (k 2)) (d (n "eyre") (r "^0.6") (d #t) (k 2)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.8") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0yaf6imvxsiz0lf1m2j9mgwrjpkcdbbblrf3p9wszwck4smacqgr")))
+
+(define-public crate-extended-isolation-forest-0.2.2 (c (n "extended-isolation-forest") (v "0.2.2") (d (list (d (n "csv") (r "^1") (d #t) (k 2)) (d (n "eyre") (r "^0.6") (d #t) (k 2)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.8") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0w0igv73i64dc1jmybmn97ks18203iwribk7sxvj33a4wx644bwn")))
+
+(define-public crate-extended-isolation-forest-0.2.3 (c (n "extended-isolation-forest") (v "0.2.3") (d (list (d (n "csv") (r "^1") (d #t) (k 2)) (d (n "eyre") (r "^0.6") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.8") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0gzbswb0k6zfnnzd5jyr0hy0wbhrf8kxmzn7m5z2zbhq8skr6lfv")))
+

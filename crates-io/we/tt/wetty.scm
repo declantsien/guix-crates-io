@@ -1,0 +1,4 @@
+(define-module (crates-io we tt wetty) #:use-module (crates-io))
+
+(define-public crate-wetty-0.1.1 (c (n "wetty") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.23") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17") (d #t) (k 2)) (d (n "tungstenite") (r "^0.17") (d #t) (k 2)))) (h "09vsnp8mb0c83mbahllahv4kcclyxbf38gilw42bh65brz8xz8p5")))
+

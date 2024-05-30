@@ -1,0 +1,12 @@
+(define-module (crates-io md bo mdbook-theme) #:use-module (crates-io))
+
+(define-public crate-mdbook-theme-0.1.0 (c (n "mdbook-theme") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1jg3bhznzirnw8bilckpjgia8svgkbfi6y6hfvcpnc1jajmjpgbb")))
+
+(define-public crate-mdbook-theme-0.1.1 (c (n "mdbook-theme") (v "0.1.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0gb70v9m6kd8829xc1zqiajiashr6j1dddicqw1imfz5yrhbzad8")))
+
+(define-public crate-mdbook-theme-0.1.2 (c (n "mdbook-theme") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.10") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1pddy3pp4aqy2mb17rkhspcpkrbrbxql4wwx86mhl8jrs3dqbmmd")))
+
+(define-public crate-mdbook-theme-0.1.3 (c (n "mdbook-theme") (v "0.1.3") (d (list (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1svwvjfb2gk3xpbnw8lr2qfp4agkv2kysx2a1d3dckqladm1b2n6")))
+
+(define-public crate-mdbook-theme-0.1.4 (c (n "mdbook-theme") (v "0.1.4") (d (list (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0c73vbr2ixyiw4s5c0inf0rhclmyvpszpj20i00hds6qwmjidl88")))
+

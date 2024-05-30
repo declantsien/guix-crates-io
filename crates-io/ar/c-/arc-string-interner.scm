@@ -1,0 +1,10 @@
+(define-module (crates-io ar c- arc-string-interner) #:use-module (crates-io))
+
+(define-public crate-arc-string-interner-0.1.0 (c (n "arc-string-interner") (v "0.1.0") (d (list (d (n "fnv") (r "^1.0.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 2)))) (h "0wdv89ngmzlyi7k50k3h0rmdwiyxd2ss88hf78g10v09xn84wwxi") (f (quote (("serde_support" "serde") ("default" "serde_support") ("bench"))))))
+
+(define-public crate-arc-string-interner-0.1.1 (c (n "arc-string-interner") (v "0.1.1") (d (list (d (n "fnv") (r "^1.0.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 2)))) (h "1x1li85c4d5y1kk91j645gillamhv8dijdyjn1pn95ix4rvzp2dn") (f (quote (("serde_support" "serde") ("default" "serde_support") ("bench")))) (y #t)))
+
+(define-public crate-arc-string-interner-0.3.0-alpha1 (c (n "arc-string-interner") (v "0.3.0-alpha1") (d (list (d (n "array-init") (r "^2.0.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.0") (d #t) (k 2)) (d (n "init_with") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 2)))) (h "14x6nkqaws4cn6v7570ilaqi3zl4acqy38nrp1cqjnzm2s9si38p") (f (quote (("serde_support" "serde") ("default" "serde_support") ("bench"))))))
+
+(define-public crate-arc-string-interner-0.3.0-alpha2 (c (n "arc-string-interner") (v "0.3.0-alpha2") (d (list (d (n "array-init") (r "^2.0.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.0") (d #t) (k 2)) (d (n "init_with") (r "^1.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 2)))) (h "1vq2hxiga4rqfrsf1rss2lyv5y78m5236lr52zs1900l0bw8dq2f") (f (quote (("serde_support" "serde") ("default" "serde_support") ("bench"))))))
+

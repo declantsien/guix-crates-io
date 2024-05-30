@@ -1,0 +1,6 @@
+(define-module (crates-io mu lt multirun) #:use-module (crates-io))
+
+(define-public crate-multirun-0.3.1 (c (n "multirun") (v "0.3.1") (d (list (d (n "envsubst") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shellwords") (r "^1.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (f (quote ("io-util"))) (d #t) (k 0)))) (h "07iaxc8ybdwnxn773wgvbxhnj0m3q32bh5j5zvmbg5vamhzhhpny")))
+
+(define-public crate-multirun-0.3.2 (c (n "multirun") (v "0.3.2") (d (list (d (n "envsubst") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "path-clean") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shellwords") (r "^1.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1jzck3cy8pzarcmw9r4hlfjhvqz83b5lz29mdlwy23y04lz502cf")))
+

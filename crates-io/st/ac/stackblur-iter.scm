@@ -1,0 +1,18 @@
+(define-module (crates-io st ac stackblur-iter) #:use-module (crates-io))
+
+(define-public crate-stackblur-iter-0.1.0 (c (n "stackblur-iter") (v "0.1.0") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)))) (h "0c251fbcnvyy5g3nsmglnqpyd65l3ywxslaxnnvrsn6rkcm85snn") (y #t) (r "1.56")))
+
+(define-public crate-stackblur-iter-0.1.1 (c (n "stackblur-iter") (v "0.1.1") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "coz") (r "~0.1.3") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)))) (h "07fzslxyvvy3hqmb39dd8ynjiv48hfnrhj6l0sk71h6l01mph2db") (r "1.56")))
+
+(define-public crate-stackblur-iter-0.1.2 (c (n "stackblur-iter") (v "0.1.2") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "coz") (r "~0.1.3") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "imgref-iter") (r "~0.1.0") (d #t) (k 0)))) (h "1g3niyglbp9ckw38cwr82l6qlcbg55bgzf0na1mng31rrlfkz2gf") (r "1.56")))
+
+(define-public crate-stackblur-iter-0.1.3 (c (n "stackblur-iter") (v "0.1.3") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "coz") (r "~0.1.3") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "imgref-iter") (r "~0.1.0") (d #t) (k 0)))) (h "16zjs9b9jawvw66lnx683cv425vyw99afa96fhskfp6f6whq3scq") (r "1.56")))
+
+(define-public crate-stackblur-iter-0.1.4 (c (n "stackblur-iter") (v "0.1.4") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "iai") (r "~0.1.1") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "imgref-iter") (r "~0.3.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "unique") (r "~0.9.1") (o #t) (d #t) (k 0)))) (h "00jjqjwaazhcbiir8751ijm1dird4w7bk38pmgv15ryp3j3n0jdd") (f (quote (("simd" "imgref-iter/simd")))) (s 2) (e (quote (("rayon" "dep:rayon" "dep:unique") ("blend-srgb" "dep:blend-srgb")))) (r "1.56")))
+
+(define-public crate-stackblur-iter-0.1.5 (c (n "stackblur-iter") (v "0.1.5") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "iai") (r "~0.1.1") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "imgref-iter") (r "~0.3.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "unique") (r "~0.9.1") (o #t) (d #t) (k 0)))) (h "1b52hngnw6qy06gcsbvxm41v5v8a2zw8vdwhws1cjcayz4vg5s9b") (f (quote (("simd" "imgref-iter/simd")))) (s 2) (e (quote (("rayon" "dep:rayon" "dep:unique") ("blend-srgb" "dep:blend-srgb")))) (r "1.56")))
+
+(define-public crate-stackblur-iter-0.1.6 (c (n "stackblur-iter") (v "0.1.6") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "iai") (r "~0.1.1") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "imgref-iter") (r "~0.3.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "unique") (r "~0.9.1") (o #t) (d #t) (k 0)))) (h "01azvgng31d1m2lb0zj7adbpgkpj0ws9w6l7czvm4gklf35wwzba") (f (quote (("simd" "imgref-iter/simd")))) (s 2) (e (quote (("rayon" "dep:rayon" "dep:unique") ("blend-srgb" "dep:blend-srgb")))) (r "1.56")))
+
+(define-public crate-stackblur-iter-0.2.0 (c (n "stackblur-iter") (v "0.2.0") (d (list (d (n "blend-srgb") (r "~0.1.1") (o #t) (d #t) (k 0)) (d (n "iai") (r "~0.1.1") (d #t) (k 2)) (d (n "imgref") (r "^1.9.2") (d #t) (k 0)) (d (n "imgref-iter") (r "~0.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "unique") (r "~0.9.1") (o #t) (d #t) (k 0)))) (h "0zrymq76rq7bmhcm6icyygcazanqsckgh42ikk2hlg9d57p7navi") (f (quote (("simd" "imgref-iter/simd")))) (s 2) (e (quote (("rayon" "dep:rayon" "dep:unique") ("blend-srgb" "dep:blend-srgb")))) (r "1.63")))
+

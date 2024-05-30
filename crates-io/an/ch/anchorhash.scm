@@ -1,0 +1,10 @@
+(define-module (crates-io an ch anchorhash) #:use-module (crates-io))
+
+(define-public crate-anchorhash-0.1.0 (c (n "anchorhash") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.9.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "1iz7cnzxns9dm256pyfrd2zmhhp7s4vi6zkjal9bp41jgk8pj9j8") (f (quote (("simd") ("fastmod") ("default" "fastmod" "simd"))))))
+
+(define-public crate-anchorhash-0.2.0 (c (n "anchorhash") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.9.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "08fvvy7mjbxwy9kqqwn2wvnr6a9q41n09bs39nf5cagszs56ngny") (f (quote (("simd") ("fastmod") ("default" "fastmod" "simd"))))))
+
+(define-public crate-anchorhash-0.2.1 (c (n "anchorhash") (v "0.2.1") (d (list (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.11.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "0qi9s4vmsqnx04cwigcd37aq5wsx4a04fs1jkqdv9lqfydq88ldy") (f (quote (("simd") ("fastmod") ("default" "fastmod"))))))
+
+(define-public crate-anchorhash-0.2.2 (c (n "anchorhash") (v "0.2.2") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "1hywpw39l20f6alc2wl5bzm0l72za8n3ak8yz2agzv541sv1b8in") (f (quote (("simd") ("fastmod") ("default" "fastmod"))))))
+

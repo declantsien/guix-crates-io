@@ -1,0 +1,4 @@
+(define-module (crates-io fo xe foxear) #:use-module (crates-io))
+
+(define-public crate-foxear-0.1.0 (c (n "foxear") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bcc") (r "^0.0.32") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "cli-table") (r "^0.4") (f (quote ("csv"))) (d #t) (k 0)) (d (n "config") (r "^0.11") (f (quote ("toml"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "lockfree") (r "^0.5") (d #t) (k 0)) (d (n "nanoid") (r "^0.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)))) (h "190q60h23hf47qk1m5ri9kfigslgf8wr8b2gd321w1124n96axpw")))
+

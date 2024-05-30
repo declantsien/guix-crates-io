@@ -1,0 +1,6 @@
+(define-module (crates-io hd s_ hds_console-api) #:use-module (crates-io))
+
+(define-public crate-hds_console-api-0.6.1 (c (n "hds_console-api") (v "0.6.1") (d (list (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.12") (d #t) (k 0)) (d (n "tonic") (r "^0.10") (f (quote ("prost" "codegen" "transport"))) (k 0)) (d (n "tonic-build") (r "^0.10") (f (quote ("prost" "transport"))) (k 2)) (d (n "tracing-core") (r "^0.1.17") (d #t) (k 0)))) (h "19hnkb29pf8rxsfk1d1grv7hpi37y59jc02a7x49hm9iml9v5r8k") (f (quote (("transport" "tonic/transport")))) (r "1.64.0")))
+
+(define-public crate-hds_console-api-0.7.0 (c (n "hds_console-api") (v "0.7.0") (d (list (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.0") (d #t) (k 2)) (d (n "prost-types") (r "^0.12") (d #t) (k 0)) (d (n "tonic") (r "^0.10") (f (quote ("prost" "codegen" "transport"))) (k 0)) (d (n "tonic-build") (r "^0.10") (f (quote ("prost" "transport"))) (k 2)) (d (n "tracing-core") (r "^0.1.17") (d #t) (k 0)))) (h "0ba6mq7fy1500mgxmzqlxs5zvmliapxfzvq7fxskhp6zc8cfxcqq") (f (quote (("transport" "tonic/transport")))) (r "1.64.0")))
+

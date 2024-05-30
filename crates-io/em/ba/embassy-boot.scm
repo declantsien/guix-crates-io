@@ -1,0 +1,10 @@
+(define-module (crates-io em ba embassy-boot) #:use-module (crates-io))
+
+(define-public crate-embassy-boot-0.0.0 (c (n "embassy-boot") (v "0.0.0") (h "13s1x1z4fhw33f9jz8inz44ycv6payypbh64sz1zbmssrynmblv6")))
+
+(define-public crate-embassy-boot-0.1.0 (c (n "embassy-boot") (v "0.1.0") (h "16ryz533j5hmj3wd1m7mq59vxr9ki4f2j65ps9afi4bnx577gfbd")))
+
+(define-public crate-embassy-boot-0.1.1 (c (n "embassy-boot") (v "0.1.1") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embassy-sync") (r "^0.1.0") (d #t) (k 0)) (d (n "embedded-storage") (r "^0.3.0") (d #t) (k 0)) (d (n "embedded-storage-async") (r "^0.3.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "114y9bf5xwlp6yrrn4cshv38yxdc6fjs4vvcbldc927wp477jw94")))
+
+(define-public crate-embassy-boot-0.2.0 (c (n "embassy-boot") (v "0.2.0") (d (list (d (n "critical-section") (r "^1.1.1") (f (quote ("std"))) (d #t) (k 2)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^2") (f (quote ("digest"))) (o #t) (k 0)) (d (n "ed25519-dalek") (r "^2") (f (quote ("std" "rand_core" "digest"))) (k 2)) (d (n "embassy-embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "embassy-sync") (r "^0.5.0") (d #t) (k 0)) (d (n "embedded-storage") (r "^0.3.1") (d #t) (k 0)) (d (n "embedded-storage-async") (r "^0.4.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (f (quote ("executor"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "salty") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 2)) (d (n "signature") (r "^2.0") (k 0)))) (h "0nsyvsjz5sh9awl44f367jal210vjwgdibzxi1hsnlq5l7ds45z9") (f (quote (("_verify")))) (s 2) (e (quote (("ed25519-salty" "dep:salty" "_verify") ("ed25519-dalek" "dep:ed25519-dalek" "_verify"))))))
+

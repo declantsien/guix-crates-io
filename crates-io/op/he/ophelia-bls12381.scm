@@ -1,0 +1,4 @@
+(define-module (crates-io op he ophelia-bls12381) #:use-module (crates-io))
+
+(define-public crate-ophelia-bls12381-0.1.0 (c (n "ophelia-bls12381") (v "0.1.0") (d (list (d (n "bincode") (r "^1.1") (d #t) (k 0)) (d (n "ophelia") (r "^0.1") (d #t) (k 0)) (d (n "ophelia") (r "^0.1") (f (quote ("proptest"))) (d #t) (k 2)) (d (n "ophelia-derive") (r "^0.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.8") (d #t) (k 0)) (d (n "quickcheck_macros") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.6") (o #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 2)) (d (n "threshold_crypto") (r "^0.3") (d #t) (k 0)))) (h "1j66s9xfg7xmqvy07an578bpkg6hcd7hm0mjsyf1fwbhw7iskvgf") (f (quote (("generate" "ophelia/generate" "rand") ("default")))) (y #t)))
+

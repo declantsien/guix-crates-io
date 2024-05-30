@@ -1,0 +1,4 @@
+(define-module (crates-io ll m- llm-chain-sagemaker-endpoint) #:use-module (crates-io))
+
+(define-public crate-llm-chain-sagemaker-endpoint-0.13.0 (c (n "llm-chain-sagemaker-endpoint") (v "0.13.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "aws-config") (r "^0.56.0") (d #t) (k 0)) (d (n "aws-sdk-sagemakerruntime") (r "^0.34.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "llm-chain") (r "^0.13.0") (k 0)) (d (n "serde") (r "^1.0.183") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_with") (r "^3.2.0") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "1lvr7m48lhzjqakg8zdfvdnbx0zr7887craw0qm3nbf73lzssb6i")))
+

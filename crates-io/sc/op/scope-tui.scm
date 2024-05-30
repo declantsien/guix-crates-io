@@ -1,0 +1,4 @@
+(define-module (crates-io sc op scope-tui) #:use-module (crates-io))
+
+(define-public crate-scope-tui-0.3.0 (c (n "scope-tui") (v "0.3.0") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (o #t) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "libpulse-binding") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "libpulse-simple-binding") (r "^2.25") (o #t) (d #t) (k 0)) (d (n "ratatui") (r "^0.26") (f (quote ("all-widgets"))) (o #t) (d #t) (k 0)) (d (n "rustfft") (r "^6.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)))) (h "1ywm0c9px8njkpmd1z6y1r7d4bhdw4lhh6gnfbbscg32rpyjzjsp") (f (quote (("default" "tui" "pulseaudio")))) (s 2) (e (quote (("tui" "dep:ratatui" "dep:crossterm") ("pulseaudio" "dep:libpulse-binding" "dep:libpulse-simple-binding"))))))
+

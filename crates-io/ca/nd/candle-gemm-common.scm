@@ -1,0 +1,8 @@
+(define-module (crates-io ca nd candle-gemm-common) #:use-module (crates-io))
+
+(define-public crate-candle-gemm-common-0.15.5 (c (n "candle-gemm-common") (v "0.15.5") (d (list (d (n "dyn-stack") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "raw-cpuid") (r "^10.7") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "seq-macro") (r "^0.3") (d #t) (k 0)))) (h "198xj1b2mq9krflff6r08nvr1b8372l5zg822hd9pf8237i4r5mv") (f (quote (("std") ("nightly") ("default" "std"))))))
+
+(define-public crate-candle-gemm-common-0.15.6 (c (n "candle-gemm-common") (v "0.15.6") (d (list (d (n "dyn-stack") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "raw-cpuid") (r "^10.7") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "seq-macro") (r "^0.3") (d #t) (k 0)))) (h "1m8dw4lqgrsz0xmrbz522vvwck816bm6f5in2kpyxmzahcvxjvas") (f (quote (("std") ("nightly") ("default" "std"))))))
+
+(define-public crate-candle-gemm-common-0.16.0 (c (n "candle-gemm-common") (v "0.16.0") (d (list (d (n "dyn-stack") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "raw-cpuid") (r "^10.7") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "seq-macro") (r "^0.3") (d #t) (k 0)))) (h "020b3qzj6rh9xai7y7w63cphv2wgl132kr49xgj7379vras02g70") (f (quote (("std") ("nightly") ("default" "std"))))))
+

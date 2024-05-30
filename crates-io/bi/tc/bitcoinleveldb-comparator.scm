@@ -1,0 +1,10 @@
+(define-module (crates-io bi tc bitcoinleveldb-comparator) #:use-module (crates-io))
+
+(define-public crate-bitcoinleveldb-comparator-0.1.10-alpha.0 (c (n "bitcoinleveldb-comparator") (v "0.1.10-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.10-alpha.0") (d #t) (k 1)))) (h "0as4lsm9bs2i8wainy0mcj6hicgxn2h151yjfdpcrij94v160231")))
+
+(define-public crate-bitcoinleveldb-comparator-0.1.12-alpha.0 (c (n "bitcoinleveldb-comparator") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "036sm5p825dv7f0kps7cv39b3y3k5rriq7mq7dnz47ynaf3rqarp")))
+
+(define-public crate-bitcoinleveldb-comparator-0.1.13-alpha.0 (c (n "bitcoinleveldb-comparator") (v "0.1.13-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.13-alpha.0") (d #t) (k 1)))) (h "16ygr9li34p3x1lsaiqayrbvpz7syfld48dmb6vcnicsrnp30hc7")))
+
+(define-public crate-bitcoinleveldb-comparator-0.1.16-alpha.0 (c (n "bitcoinleveldb-comparator") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "0dwsif8b5qmbz97n3jj0gl1r68qc5sckvrbbnq5rcg9cs49zbs2h")))
+

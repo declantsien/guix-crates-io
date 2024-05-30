@@ -1,0 +1,8 @@
+(define-module (crates-io vu xt vuxt) #:use-module (crates-io))
+
+(define-public crate-vuxt-0.1.0 (c (n "vuxt") (v "0.1.0") (d (list (d (n "async-channel") (r "^2.2.1") (d #t) (k 0)) (d (n "bevy_app") (r "^0.13.2") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.13.2") (f (quote ("multi-threaded"))) (d #t) (k 0)) (d (n "bevy_tasks") (r "^0.13.2") (f (quote ("multi-threaded"))) (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (o #t) (d #t) (k 0)) (d (n "flate2") (r "^1.0.30") (o #t) (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "pollster") (r "^0.3.0") (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.6.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-chrome") (r "^0.7.2") (o #t) (d #t) (k 0)) (d (n "tracing-log") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-panic") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "vuxt_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.20.0") (d #t) (k 0)) (d (n "winit") (r "^0.30.0") (d #t) (k 0)) (d (n "winres") (r "^0.1.12") (d #t) (k 1)))) (h "0f4hrl6863kf62mqqd9vy0z92k6jnl2n5fqwza6qr3khli53vfn2") (f (quote (("windowed") ("log-to-console") ("dist" "log-to-file" "windowed") ("default" "log-to-console" "trace")))) (y #t) (s 2) (e (quote (("trace" "dep:tracing-chrome" "dep:chrono" "bevy_app/trace" "bevy_ecs/trace") ("log-to-file" "dep:flate2" "dep:chrono"))))))
+
+(define-public crate-vuxt-0.1.1 (c (n "vuxt") (v "0.1.1") (h "0av7b2r78j70s1qjbmnjrxgvxyd57i3vd6k284g105l2ii52jpxn")))
+
+(define-public crate-vuxt-0.1.2 (c (n "vuxt") (v "0.1.2") (h "0jdm37bs6nbi5l146i01y07fw0g966l6j36dlsq0h7zzl6wl0a7r")))
+

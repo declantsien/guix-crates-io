@@ -1,0 +1,22 @@
+(define-module (crates-io ju nc junction) #:use-module (crates-io))
+
+(define-public crate-junction-0.1.0 (c (n "junction") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1lw044618mjvaspn8nh8ybiqiaps0fs4ygb77vkr1z77vg2nyzf7")))
+
+(define-public crate-junction-0.1.1 (c (n "junction") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1fq0kgwbxis2i9jsjdgil6h2qj1p2wgqbvzwk6878fj80q9qjp6w")))
+
+(define-public crate-junction-0.1.2 (c (n "junction") (v "0.1.2") (d (list (d (n "scopeguard") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0gdr65kyyx59pnk6i6grbjl35ib883gc3pfy2v1dgb7n31dwdr3j")))
+
+(define-public crate-junction-0.1.3 (c (n "junction") (v "0.1.3") (d (list (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "processthreadsapi" "securitybaseapi" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0lfgl5g6b6wwdgzpp3js0mf59gbflm7860kjxk136b26b2kcl7z5")))
+
+(define-public crate-junction-0.1.4 (c (n "junction") (v "0.1.4") (d (list (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "processthreadsapi" "securitybaseapi" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0k5qzbn64mdxjksdcl20pfmrw33crh19bqv6zl61h0caqr4r22h6")))
+
+(define-public crate-junction-0.1.5 (c (n "junction") (v "0.1.5") (d (list (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "processthreadsapi" "securitybaseapi" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0zmxxsvf4wf8lrc2fkfya0z0i6gahml9g4kl9cr05zadwkp7g9m5")))
+
+(define-public crate-junction-0.2.0 (c (n "junction") (v "0.2.0") (d (list (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "processthreadsapi" "securitybaseapi" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "07dna1wj1jkw6d1z2c8jb955vnlbzknjsnfmwajapv3w10mr4fdy")))
+
+(define-public crate-junction-0.2.1 (c (n "junction") (v "0.2.1") (d (list (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "processthreadsapi" "securitybaseapi" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "11bkb5w06hq46npxvla2r5hcpxw1n11xj4bhl79p98v3gz3jrk0v")))
+
+(define-public crate-junction-1.0.0 (c (n "junction") (v "1.0.0") (d (list (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "guiddef" "handleapi" "ioapiset" "processthreadsapi" "securitybaseapi" "winbase" "winioctl" "winnt"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1jslqzx53aqpb45j96wlxnjg801jb4fhlbscs4pnm3mid46yyffa")))
+
+(define-public crate-junction-1.1.0 (c (n "junction") (v "1.1.0") (d (list (d (n "rustix") (r "=0.38.9") (d #t) (k 2)) (d (n "scopeguard") (r "^1") (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "=3.8.0") (d #t) (k 2)) (d (n "windows-sys") (r "^0.52") (f (quote ("Win32_System_Ioctl" "Win32_System_SystemServices" "Win32_Foundation" "Win32_Security" "Win32_Storage_FileSystem" "Win32_System_IO" "Win32_System_Threading"))) (t "cfg(windows)") (k 0)))) (h "1yks5q6kn6ykszdmc5zvlxfpd377r4s9vwrqaz6qc7kvkdd4370w") (f (quote (("unstable_admin") ("nightly") ("default" "unstable_admin")))) (r "1.56")))
+

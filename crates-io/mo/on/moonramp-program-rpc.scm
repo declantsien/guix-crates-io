@@ -1,0 +1,4 @@
+(define-module (crates-io mo on moonramp-program-rpc) #:use-module (crates-io))
+
+(define-public crate-moonramp-program-rpc-0.1.22 (c (n "moonramp-program-rpc") (v "0.1.22") (d (list (d (n "actix-web") (r "^4.1.0") (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.14.0") (f (quote ("macros" "server"))) (k 0)) (d (n "moonramp-core") (r "^0.1") (f (quote ("full" "wasm"))) (d #t) (k 0)) (d (n "moonramp-core") (r "^0.1") (f (quote ("full" "wasm" "sql-enable-sqlite" "test"))) (d #t) (k 2)) (d (n "moonramp-encryption") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-entity") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-http") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-lunar") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-migration") (r "^0.1") (f (quote ("testing"))) (d #t) (k 2)) (d (n "moonramp-program") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-registry") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-rpc") (r "^0.1") (d #t) (k 0)))) (h "1jbd46x6n2cxpr13x607d6vhl98j8ibscck6yxf6qrnszir9alpx")))
+

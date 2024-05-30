@@ -1,0 +1,8 @@
+(define-module (crates-io de pl deplorable) #:use-module (crates-io))
+
+(define-public crate-deplorable-0.1.0 (c (n "deplorable") (v "0.1.0") (d (list (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "curl") (r "~0.4") (d #t) (k 0)) (d (n "http") (r "~0.2") (d #t) (k 0)) (d (n "httparse") (r "^1.3.4") (d #t) (k 0)) (d (n "ring") (r "~0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "136x3hi432cxbqw2lwrh45y8b8qhixinsahw07lilzk41n4axv33")))
+
+(define-public crate-deplorable-0.1.1 (c (n "deplorable") (v "0.1.1") (d (list (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "curl") (r "~0.4") (d #t) (k 0)) (d (n "http") (r "~0.2") (d #t) (k 0)) (d (n "httparse") (r "^1.3.4") (d #t) (k 0)) (d (n "ring") (r "~0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "0ffr1c1csc82rywxm7z7xj50knf4b704adngqga8c3xy1czv3q03")))
+
+(define-public crate-deplorable-0.2.0 (c (n "deplorable") (v "0.2.0") (d (list (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "http") (r "~0.2") (d #t) (k 0)) (d (n "httparse") (r "^1.3.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "ring") (r "~0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "1ck24xlzdm9dysq77kc2hnzks1vjj436jw21wl4rfcn7wn0cml00")))
+

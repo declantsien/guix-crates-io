@@ -1,0 +1,12 @@
+(define-module (crates-io wi na winauth) #:use-module (crates-io))
+
+(define-public crate-winauth-0.0.1 (c (n "winauth") (v "0.0.1") (d (list (d (n "bitflags") (r "^0.8") (d #t) (k 0)) (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "md5") (r "^0.3.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "secur32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "1cx81rjnmmiq1ypra04xqc3afdym2zx9f978195ilfjsqjr4448g")))
+
+(define-public crate-winauth-0.0.2 (c (n "winauth") (v "0.0.2") (d (list (d (n "bitflags") (r "^0.8") (d #t) (k 0)) (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "md5") (r "^0.3.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "secur32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "1ww75yjhil6097sxdygxdf38darvi7xwbsjbmsaknyxzsq0hd0jb")))
+
+(define-public crate-winauth-0.0.3 (c (n "winauth") (v "0.0.3") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.2.0") (d #t) (k 0)) (d (n "md5") (r "^0.3.3") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winerror" "sspi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1qdc8c566yrmz8rrfn3c2lblb7w6dmsk3y44jnjzycqqph4512dj")))
+
+(define-public crate-winauth-0.0.4 (c (n "winauth") (v "0.0.4") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.2.0") (d #t) (k 0)) (d (n "md5") (r "^0.6.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winerror" "sspi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1rm54dbsw9frb0zrpkmmklg6r3599dr2vp0j102np76f1390r0lg")))
+
+(define-public crate-winauth-0.0.5 (c (n "winauth") (v "0.0.5") (d (list (d (n "base64") (r "^0.10") (d #t) (k 0)) (d (n "bitflags") (r "^1.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.2.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 2)) (d (n "hyper") (r "^0.12") (d #t) (k 2)) (d (n "hyper-tls") (r "^0.3") (d #t) (k 2)) (d (n "md5") (r "^0.6.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("winerror" "sspi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "08bhan55dkm302j0bplafg66qp682idnjf7z2mrl8dp6zp8cj0qf")))
+

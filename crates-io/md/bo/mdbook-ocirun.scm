@@ -1,0 +1,6 @@
+(define-module (crates-io md bo mdbook-ocirun) #:use-module (crates-io))
+
+(define-public crate-mdbook-ocirun-0.1.0 (c (n "mdbook-ocirun") (v "0.1.0") (d (list (d (n "anyhow") (r "1.0.*") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "clap") (r "4.*") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mdbook") (r "0.4.*") (d #t) (k 0)) (d (n "regex") (r "1.*") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (d #t) (k 0)) (d (n "serde_json") (r "1.0.*") (d #t) (k 0)) (d (n "toml") (r "^0.7.5") (d #t) (k 0)))) (h "0x9wld2s7s587jmvwcid859iaccdivsw7n58f8f41rlfzlzc2445")))
+
+(define-public crate-mdbook-ocirun-0.2.0 (c (n "mdbook-ocirun") (v "0.2.0") (d (list (d (n "anyhow") (r "1.0.*") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "clap") (r "4.*") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mdbook") (r "0.4.*") (d #t) (k 0)) (d (n "regex") (r "1.*") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (d #t) (k 0)) (d (n "serde_json") (r "1.0.*") (d #t) (k 0)) (d (n "sha256") (r "^1.4.0") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "190gii303zqh9lq9775n72aq9b8mij50yq84laxd5kg9g7635vq1")))
+

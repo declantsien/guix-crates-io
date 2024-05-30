@@ -1,0 +1,10 @@
+(define-module (crates-io po st postgres-es2) #:use-module (crates-io))
+
+(define-public crate-postgres-es2-0.2.0 (c (n "postgres-es2") (v "0.2.0") (d (list (d (n "cqrs-es2") (r "^0.2.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19.1") (f (quote ("with-serde_json-1"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4"))) (d #t) (k 2)))) (h "1w5p0f929wmhn7xijz7v4a2ar229sx0ydc7wwi2ys3wwg9z41n1a")))
+
+(define-public crate-postgres-es2-0.2.1 (c (n "postgres-es2") (v "0.2.1") (d (list (d (n "cqrs-es2") (r "^0.2.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19.1") (f (quote ("with-serde_json-1"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4"))) (d #t) (k 2)))) (h "15jwka97bhcq3bwvyjyyxrzgh2nmijqv1w58ar1244nikifk3v38")))
+
+(define-public crate-postgres-es2-0.2.2 (c (n "postgres-es2") (v "0.2.2") (d (list (d (n "cqrs-es2") (r "^0.2.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19.1") (f (quote ("with-serde_json-1"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4"))) (d #t) (k 2)))) (h "19vnp4azhbcbr330r0zw3xvc4m0xr17xhb5qghcd3vmcn9kj5by7")))
+
+(define-public crate-postgres-es2-0.2.3 (c (n "postgres-es2") (v "0.2.3") (d (list (d (n "cqrs-es2") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19.1") (f (quote ("with-serde_json-1"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4"))) (d #t) (k 2)))) (h "1af2kf4wfmnp6p67kg7bhbp7k10n4j2fzbaiziyfpk48dfriwz1d")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io te st test-collector-derive) #:use-module (crates-io))
+
+(define-public crate-test-collector-derive-0.1.0 (c (n "test-collector-derive") (v "0.1.0") (d (list (d (n "actix-web") (r "^4") (d #t) (k 2)) (d (n "inventory") (r "^0.1.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.38") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 2)) (d (n "syn") (r "^1.0.94") (f (quote ("full"))) (d #t) (k 0)) (d (n "test-collector-utils") (r "^0.1.0") (d #t) (k 0)))) (h "0qkbqh5cp3kk3yfpn3rz1fb50dsff9jfhwk3h3r5q5839nkf2q0k")))
+
+(define-public crate-test-collector-derive-0.1.2 (c (n "test-collector-derive") (v "0.1.2") (d (list (d (n "actix-web") (r "^4") (d #t) (k 2)) (d (n "inventory") (r "^0.1.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.38") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 2)) (d (n "syn") (r "^1.0.94") (f (quote ("full"))) (d #t) (k 0)) (d (n "test-collector-utils") (r "^0.1.2") (d #t) (k 0)))) (h "1qzicc08vpwgf43cgsgkfdps5zgl1rmm0q4l6p6xknrxxa76s05d")))
+

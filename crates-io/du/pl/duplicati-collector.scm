@@ -1,0 +1,6 @@
+(define-module (crates-io du pl duplicati-collector) #:use-module (crates-io))
+
+(define-public crate-duplicati-collector-0.1.3 (c (n "duplicati-collector") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "duplicati") (r "^0.3.0") (d #t) (k 0)) (d (n "envconfig") (r "^0.7") (d #t) (k 0)) (d (n "envconfig_derive") (r "^0.7") (d #t) (k 0)) (d (n "influxdb") (r "^0.2") (d #t) (k 0)) (d (n "influxdb-config") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.3") (f (quote ("compat"))) (d #t) (k 0)))) (h "1dsyh741jf456w4nx0s1gwyp0gm6lm3002jz7nhgy8swa9jah9mc")))
+
+(define-public crate-duplicati-collector-0.1.4 (c (n "duplicati-collector") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "duplicati") (r "^0.3.0") (d #t) (k 0)) (d (n "envconfig") (r "^0.7") (d #t) (k 0)) (d (n "envconfig_derive") (r "^0.7") (d #t) (k 0)) (d (n "influxdb") (r "^0.2") (d #t) (k 0)) (d (n "influxdb-config") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.3") (f (quote ("compat"))) (d #t) (k 0)))) (h "17y99zb3y14iz9i0bmdlqc8avwj91sddqdnkajnsdzxhfq5zncjw")))
+

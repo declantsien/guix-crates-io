@@ -1,0 +1,4 @@
+(define-module (crates-io gd #{32}# gd32-hal) #:use-module (crates-io))
+
+(define-public crate-gd32-hal-0.0.1 (c (n "gd32-hal") (v "0.0.1") (d (list (d (n "byteorder") (r "^1.4.3") (o #t) (k 0)) (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (k 0)) (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (f (quote ("unproven"))) (o #t) (d #t) (k 0)) (d (n "gd32f3") (r "^0.1.0-alpha.1") (o #t) (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (f (quote ("libm"))) (k 0)) (d (n "paste") (r "^1.0.4") (d #t) (k 0)))) (h "0djqj3igd5pip295fy39l891iydjcwf35ylhzl9jlj5cah7pz0h6") (f (quote (("f3rt" "gd32f3/rt") ("f303" "gd32f3/gd32f303" "f3") ("f3") ("embedded_hal" "embedded-hal"))))))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io li bs libseat) #:use-module (crates-io))
+
+(define-public crate-libseat-0.1.0 (c (n "libseat") (v "0.1.0") (d (list (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.0") (d #t) (k 0)))) (h "0im22qr2nys4g6j2d1pj8zdcxav9jy3f3dinjnvgljz4326qqvh3")))
+
+(define-public crate-libseat-0.1.1 (c (n "libseat") (v "0.1.1") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "0d5fwdq7ngxmgwl1djxmlvpby868px59hqvhsiyinicdh71v9y9n") (f (quote (("default" "custom_logger") ("custom_logger" "cc"))))))
+
+(define-public crate-libseat-0.1.2 (c (n "libseat") (v "0.1.2") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "1aym4s9d2khqpnphlly75fs2yqxh5bbpmnnxd126nbflma8whi8l") (f (quote (("default" "custom_logger") ("custom_logger" "cc")))) (y #t)))
+
+(define-public crate-libseat-0.1.3 (c (n "libseat") (v "0.1.3") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "0bqd58dxpc2cs88aq5s8xn4c31889dv18f4s1bszvs4xczf28bxy") (f (quote (("default" "custom_logger") ("custom_logger" "cc"))))))
+
+(define-public crate-libseat-0.1.4 (c (n "libseat") (v "0.1.4") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "1z46fvn7qpyvpzwnwvx3lj13amzbjsprdgq9zcsj2fi6fm7k3bam") (f (quote (("default" "custom_logger") ("custom_logger" "cc"))))))
+
+(define-public crate-libseat-0.1.5 (c (n "libseat") (v "0.1.5") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.5") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.19") (o #t) (d #t) (k 1)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "1ahif6alczrz6pvbabxkh6y0hdkl70ip417f9djyc61iyk9xppyq") (f (quote (("default" "custom_logger") ("custom_logger" "cc" "pkg-config")))) (y #t)))
+
+(define-public crate-libseat-0.1.6 (c (n "libseat") (v "0.1.6") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.6") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.19") (o #t) (d #t) (k 1)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "0796wk3199v2648wa9yvwm2y4nzc0ig86xdyisrz2spza4bfbwgh") (f (quote (("default" "custom_logger") ("custom_logger" "cc" "pkg-config")))) (y #t)))
+
+(define-public crate-libseat-0.1.7 (c (n "libseat") (v "0.1.7") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.2.7") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.7") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.19") (o #t) (d #t) (k 1)) (d (n "slog") (r "^2.7.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.8.0") (d #t) (k 2)))) (h "0j5658w1hgy8zdmq9mfxy9k3qvmpcrkrjyy1f5ybrjb2ahjmqpl4") (f (quote (("default" "custom_logger") ("custom_logger" "cc" "pkg-config"))))))
+
+(define-public crate-libseat-0.2.0 (c (n "libseat") (v "0.2.0") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.3.1") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.7") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.19") (o #t) (d #t) (k 1)))) (h "17lf3c7cxm05j806fi19kmyrrfc5bmy9cxc6pprlk2q9np92dmqb") (f (quote (("default" "custom_logger") ("custom_logger" "cc" "pkg-config")))) (y #t)))
+
+(define-public crate-libseat-0.2.1 (c (n "libseat") (v "0.2.1") (d (list (d (n "cc") (r "^1.0.68") (o #t) (d #t) (k 1)) (d (n "errno") (r "^0.3.1") (d #t) (k 0)) (d (n "libseat-sys") (r "^0.1.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.19") (o #t) (d #t) (k 1)))) (h "0zlhr75vnqcl136h60c6pzj4kcvwylr43gjcnyjp6yk0v3wav82l") (f (quote (("default" "custom_logger") ("custom_logger" "cc" "pkg-config"))))))
+

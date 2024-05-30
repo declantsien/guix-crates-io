@@ -1,0 +1,10 @@
+(define-module (crates-io gs l_ gsl_rust) #:use-module (crates-io))
+
+(define-public crate-gsl_rust-0.7.1 (c (n "gsl_rust") (v "0.7.1") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "03a1gdirp69b99n764basi3bhdlwqrm15wwwmv48spg1h5abq15y")))
+
+(define-public crate-gsl_rust-0.7.2 (c (n "gsl_rust") (v "0.7.2") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "12ikxmpvlsv1zpvnxriw1hpnyc4qg38b5hwlj2ycif1g9cpq1a73")))
+
+(define-public crate-gsl_rust-0.7.3 (c (n "gsl_rust") (v "0.7.3") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "1mx0gc6l7z6hy2aahxcp3pfhinbq20wqcrw3wq9d3hby8fkh7dpf")))
+
+(define-public crate-gsl_rust-0.7.4 (c (n "gsl_rust") (v "0.7.4") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)))) (h "0qvsnqvrr14lviz95xi55aqrddb2gi3f70cvl69ldiav9kabwbi9")))
+

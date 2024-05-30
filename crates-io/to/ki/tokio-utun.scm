@@ -1,0 +1,30 @@
+(define-module (crates-io to ki tokio-utun) #:use-module (crates-io))
+
+(define-public crate-tokio-utun-0.1.0 (c (n "tokio-utun") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.2") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0b8s0p3csdkih5fmx5jyvkb521sz1yvzwqfypvadyvkc81vbji0f")))
+
+(define-public crate-tokio-utun-0.1.1 (c (n "tokio-utun") (v "0.1.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0l0hx5p43w3a6x8323sm8x3qah32fhikkjxj15ssi33zph5pxzg5")))
+
+(define-public crate-tokio-utun-0.1.2 (c (n "tokio-utun") (v "0.1.2") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0f8qcihdgiv2p5fcmmzzsd5hm3p1zlxyliqdqny8biwh7sr3m1kj")))
+
+(define-public crate-tokio-utun-0.1.3 (c (n "tokio-utun") (v "0.1.3") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "1xjgbw3vpg2p87cw8p6pdz697x9dvnpwiwkgp3nqcq03r8sxvc08")))
+
+(define-public crate-tokio-utun-0.1.4 (c (n "tokio-utun") (v "0.1.4") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "14n83jh0cv26qzm20yc9pl63n3i0irwwm3nl54lvqpsrx2brrd6h")))
+
+(define-public crate-tokio-utun-0.1.5 (c (n "tokio-utun") (v "0.1.5") (d (list (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0rff086rlkgzwh6gr5lms8x1j7x66i32jjiaba7nzjhzikcrkkw4")))
+
+(define-public crate-tokio-utun-0.1.6 (c (n "tokio-utun") (v "0.1.6") (d (list (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "1brnk5lf4zzzi1vqkxlsa91dj3a86h5dm1y0fbnaklylxc9zcljk")))
+
+(define-public crate-tokio-utun-0.1.7 (c (n "tokio-utun") (v "0.1.7") (d (list (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0sm2nz2y6aq0gx0sk4rbrw6ag96l54pavxd0hrrwxpdns7frz3vd")))
+
+(define-public crate-tokio-utun-0.1.8 (c (n "tokio-utun") (v "0.1.8") (d (list (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "07fdxp57ddss9007rm4b7ignn48vxhpl54855c81n94rhgdddhz3")))
+
+(define-public crate-tokio-utun-0.1.9 (c (n "tokio-utun") (v "0.1.9") (d (list (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.14") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0cx70654g17yypdmsd7f9rprqmwps009j0z4yji7bjfy404fnr65")))
+
+(define-public crate-tokio-utun-0.1.10 (c (n "tokio-utun") (v "0.1.10") (d (list (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.15") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0i854kwdyh6arimvj6a70rj2kqvar715wq0m8p5g6448hqgd072q")))
+
+(define-public crate-tokio-utun-0.1.11 (c (n "tokio-utun") (v "0.1.11") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.15") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "03v2gligw2wdvdjlnsyrlm044lpbzdzdbpbkafisi7r94c4lfl2m")))
+
+(define-public crate-tokio-utun-0.2.0 (c (n "tokio-utun") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1") (d #t) (k 0)))) (h "00521lskgi0kizlmj2x5f9iqbp8l49i1pn2wfs17v4vshr7cdrk9")))
+
+(define-public crate-tokio-utun-0.2.1 (c (n "tokio-utun") (v "0.2.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "mio-utun") (r "^0.6.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1") (d #t) (k 0)))) (h "0bz9zifymiynqmh0aki3l9jvx66kgkgiv98mbk32xylaazhc8a3g")))
+

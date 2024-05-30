@@ -1,0 +1,20 @@
+(define-module (crates-io wi t- wit-text) #:use-module (crates-io))
+
+(define-public crate-wit-text-0.1.0 (c (n "wit-text") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.13.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.42") (d #t) (k 2)) (d (n "wast") (r "^3.0.4") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "1nmp51k0v7jndhgvxrxpf0ihz1z7v3x85ch1npylh77h787cbhbi")))
+
+(define-public crate-wit-text-0.1.1 (c (n "wit-text") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.14.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.42") (d #t) (k 2)) (d (n "wast") (r "^3.0.4") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "1xb3wnllvmlh3ypfg61ljviry33z9f7qm4zqd8sjaklq5h09m89a")))
+
+(define-public crate-wit-text-0.2.0 (c (n "wit-text") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.14.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.44") (d #t) (k 2)) (d (n "wast") (r "^4.0.0") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "1g0mc27anjk8c6rnx6sk4qzcc3sbs4333wyzs1msys1cpqbbnd96")))
+
+(define-public crate-wit-text-0.3.0 (c (n "wit-text") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.14.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.44") (d #t) (k 2)) (d (n "wast") (r "^5.0.0") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "0mk92l8dhcr4wb1a6jy9dc7v8y5mz0af8svwwnjzqm5a1m9ywgvy")))
+
+(define-public crate-wit-text-0.4.0 (c (n "wit-text") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.14.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.47") (d #t) (k 2)) (d (n "wast") (r "^6.0.0") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "08cz1b2k4lifarmb57a38dqdjgcv6wpi3si6wapam0arhz0db1mx")))
+
+(define-public crate-wit-text-0.5.0 (c (n "wit-text") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.15.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.51") (d #t) (k 2)) (d (n "wast") (r "^9.0") (d #t) (k 0)) (d (n "wat") (r "^1.0.10") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "1issa51fj8bgdfq122z42fcfnjdmqvb96v6kcfmm0m3l883dfbjc")))
+
+(define-public crate-wit-text-0.6.0 (c (n "wit-text") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.16.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.55") (d #t) (k 2)) (d (n "wast") (r "^17.0") (d #t) (k 0)) (d (n "wat") (r "^1.0.10") (d #t) (k 2)) (d (n "wit-writer") (r "^0.1.0") (d #t) (k 0)))) (h "0vm1axd78jz3hnmi5bxm64ln3q16crp7kxpc8zkhz4kvr5yybynk")))
+
+(define-public crate-wit-text-0.7.0 (c (n "wit-text") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.17.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.55") (d #t) (k 2)) (d (n "wast") (r "^17.0") (d #t) (k 0)) (d (n "wat") (r "^1.0.10") (d #t) (k 2)) (d (n "wit-writer") (r "^0.2.0") (d #t) (k 0)))) (h "0lkzsnqrn9f498cjkpc3m2b0ds7kyga667qrk1lj0p9al2zm3kp9")))
+
+(define-public crate-wit-text-0.8.0 (c (n "wit-text") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 2)) (d (n "walrus") (r "^0.18.0") (d #t) (k 2)) (d (n "wasmparser") (r "^0.59") (d #t) (k 2)) (d (n "wast") (r "^21.0") (d #t) (k 0)) (d (n "wat") (r "^1.0.10") (d #t) (k 2)) (d (n "wit-writer") (r "^0.2.0") (d #t) (k 0)))) (h "0pyzb0kb9d0bfd83qkl4bsb6i5yq5cyakx07ghf0yrkxqyaqwd9k")))
+

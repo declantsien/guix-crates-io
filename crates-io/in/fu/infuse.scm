@@ -1,0 +1,20 @@
+(define-module (crates-io in fu infuse) #:use-module (crates-io))
+
+(define-public crate-infuse-0.1.0 (c (n "infuse") (v "0.1.0") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlRenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window"))) (d #t) (k 0)))) (h "11ip1svw4wc08bhszxbvarj34z5rkzi0p3xnyjfx0x2mrjq9gchn")))
+
+(define-public crate-infuse-0.1.1 (c (n "infuse") (v "0.1.1") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlRenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window"))) (d #t) (k 0)))) (h "1bz6aw5jkwg1ckzjzxm16ahk36d657mq8mnw4wiasizpwgyn9j6s")))
+
+(define-public crate-infuse-0.2.0 (c (n "infuse") (v "0.2.0") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlRenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window"))) (d #t) (k 0)))) (h "1k2bn4vidrxbax7hk1a1px1fcii34ifgra32nawh5nj4rgyip322")))
+
+(define-public crate-infuse-0.2.1 (c (n "infuse") (v "0.2.1") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlRenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window"))) (d #t) (k 0)))) (h "0i030znhya0bni9047hrbw6b4wvpy30jvhmlcyidlyd2k2k2iy2b")))
+
+(define-public crate-infuse-0.3.0 (c (n "infuse") (v "0.3.0") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlRenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window"))) (d #t) (k 0)))) (h "12zqfsg6icps8hh4x61ajmfih5q6i7jdg0yyjiy9xkvs0mnzzcjf")))
+
+(define-public crate-infuse-0.3.1 (c (n "infuse") (v "0.3.1") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlRenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window" "WebGlContextAttributes"))) (d #t) (k 0)))) (h "0mp8gwnmrfsn1g36riqpk9isrv0vz3amnjnfsrbfpldh3rsdcdpb")))
+
+(define-public crate-infuse-0.4.0 (c (n "infuse") (v "0.4.0") (d (list (d (n "js-sys") (r "^0.3.20") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.43") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.4") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGl2RenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window" "WebGlContextAttributes"))) (d #t) (k 0)))) (h "0bvgakp9dzm6z60xcvp6k172jv7dx8wircpgiy2hn6ax15zq3w5f")))
+
+(define-public crate-infuse-0.5.0 (c (n "infuse") (v "0.5.0") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGl2RenderingContext" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window" "WebGlContextAttributes"))) (d #t) (k 0)))) (h "0giwwbywcpkfc3p3lklzzz95bba1cv87w8l5d6kq47akhh38729z")))
+
+(define-public crate-infuse-0.6.0 (c (n "infuse") (v "0.6.0") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Element" "HtmlCanvasElement" "WebGlBuffer" "WebGlProgram" "WebGlShader" "WebGlUniformLocation" "Window" "WebGlContextAttributes"))) (d #t) (k 0)))) (h "0w82bqx5s1bh7p7svq51vy6h43i9ram0kc674c4yslkvn8fl436n") (f (quote (("webgl2" "web-sys/WebGl2RenderingContext") ("default" "web-sys/WebGlRenderingContext"))))))
+

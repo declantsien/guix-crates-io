@@ -1,0 +1,8 @@
+(define-module (crates-io se cc seccomp-stream) #:use-module (crates-io))
+
+(define-public crate-seccomp-stream-0.1.0 (c (n "seccomp-stream") (v "0.1.0") (d (list (d (n "libc") (r "^0.2.153") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (d #t) (k 2)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "syscalls") (r "^0.6") (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread" "net"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1.15") (d #t) (k 0)))) (h "0kfamlx1iqzrz2bhkmy604lqljk0fl437pbqllqxjkscsn9k7d5h")))
+
+(define-public crate-seccomp-stream-0.2.0 (c (n "seccomp-stream") (v "0.2.0") (d (list (d (n "libc") (r "^0.2.153") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (d #t) (k 2)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "syscalls") (r "^0.6") (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread" "net"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1.15") (d #t) (k 0)))) (h "1707hz8kwnspjc904jp58gq6cj640c1zpkxcwh8c378j5piaq0g5")))
+
+(define-public crate-seccomp-stream-0.2.1 (c (n "seccomp-stream") (v "0.2.1") (d (list (d (n "libc") (r "^0.2.153") (d #t) (k 2)) (d (n "libseccomp") (r "^0.3.0") (d #t) (k 2)) (d (n "libseccomp-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "syscalls") (r "^0.6") (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread" "net"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1.15") (d #t) (k 0)))) (h "0pwl72hz6jnzbc8k9rqlrl4m1ciig8c9s0144k1c63hz5qhlpd75")))
+

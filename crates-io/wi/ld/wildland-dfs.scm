@@ -1,0 +1,6 @@
+(define-module (crates-io wi ld wildland-dfs) #:use-module (crates-io))
+
+(define-public crate-wildland-dfs-0.40.0-rc.0 (c (n "wildland-dfs") (v "0.40.0-rc.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2") (d #t) (k 0)) (d (n "wildland-corex") (r "^0.40.0-rc.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rsfs") (r "^0.4") (d #t) (k 2)) (d (n "rstest") (r "^0.16") (d #t) (k 2)))) (h "0cnqd5q3i6hzfwrn02v64k1v9zlb5xhfjvq361km4h0k3b61gfad")))
+
+(define-public crate-wildland-dfs-0.40.0 (c (n "wildland-dfs") (v "0.40.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2") (d #t) (k 0)) (d (n "wildland-corex") (r "^0.40.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "rsfs") (r "^0.4") (d #t) (k 2)) (d (n "rstest") (r "^0.16") (d #t) (k 2)))) (h "1csyvl3y8hmlmxzsfrf5bbf1dhjf9igiml9c4pb6718vksl5z5zs")))
+

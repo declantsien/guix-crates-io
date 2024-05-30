@@ -1,0 +1,4 @@
+(define-module (crates-io ko th koth) #:use-module (crates-io))
+
+(define-public crate-koth-0.1.0 (c (n "koth") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo"))) (o #t) (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "tracing-tree") (r "^0.3.0") (d #t) (k 0)))) (h "1iqvsnhncmgbh3clnaw0v8mpsswcns0qmzq1afisgba0d822qmlh") (f (quote (("required-features" "cli") ("default" "cli") ("cli" "clap"))))))
+

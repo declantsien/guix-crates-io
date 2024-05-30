@@ -1,0 +1,18 @@
+(define-module (crates-io ev m- evm-coder-procedural) #:use-module (crates-io))
+
+(define-public crate-evm-coder-procedural-0.3.2 (c (n "evm-coder-procedural") (v "0.3.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0lvl93k4gg05qcr76dzxhld4y8k6vssdsmxmb5arc2clmfqkx9g9")))
+
+(define-public crate-evm-coder-procedural-0.3.3 (c (n "evm-coder-procedural") (v "0.3.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "16xg5a4afxnmz8hv9pwpi5331p87gyb1mfvp5qwgamr6zvb39s31")))
+
+(define-public crate-evm-coder-procedural-0.3.5 (c (n "evm-coder-procedural") (v "0.3.5") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0wyazbk97gnmdz20rg2f5s7q7bc2cwpawc59x7zmgvhwz5im79s8")))
+
+(define-public crate-evm-coder-procedural-0.3.6 (c (n "evm-coder-procedural") (v "0.3.6") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0w55p2jv7jhivsffblgz4c971qazw8hx1ramd2zs9n3dqal3rk8z") (f (quote (("bondrewd"))))))
+
+(define-public crate-evm-coder-procedural-0.4.0 (c (n "evm-coder-procedural") (v "0.4.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0dq3a67kiamwigw0h5pz025r3xsyf3vhzqrmp677mp9fhxx17g65") (f (quote (("bondrewd"))))))
+
+(define-public crate-evm-coder-procedural-0.4.1 (c (n "evm-coder-procedural") (v "0.4.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0dz9r3dj9i2phrkgqh5zz8g3d0j0spxs23mnby7dzwdjd77mlpzh") (f (quote (("bondrewd"))))))
+
+(define-public crate-evm-coder-procedural-0.4.2 (c (n "evm-coder-procedural") (v "0.4.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "06kbgadv015q35b2cq8wcs68197bh96jxbws9c5khlqz7h3c28v2") (f (quote (("bondrewd"))))))
+
+(define-public crate-evm-coder-procedural-0.4.3 (c (n "evm-coder-procedural") (v "0.4.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0s9axwds6dgcnrfkaiddib41jjlp1a8zr4lcgsipk2g8dq6nddyv") (f (quote (("bondrewd"))))))
+

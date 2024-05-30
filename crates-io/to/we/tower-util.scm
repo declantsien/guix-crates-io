@@ -1,0 +1,14 @@
+(define-module (crates-io to we tower-util) #:use-module (crates-io))
+
+(define-public crate-tower-util-0.0.0 (c (n "tower-util") (v "0.0.0") (h "03rsgv090il9j0lk1wsydc5g1i7qixpyka7cbghqgcls9rnl1pfc")))
+
+(define-public crate-tower-util-0.1.0 (c (n "tower-util") (v "0.1.0") (d (list (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.12") (o #t) (d #t) (k 0)) (d (n "tokio-mock-task") (r "^0.1.1") (d #t) (k 2)) (d (n "tower") (r "^0.1.0") (d #t) (k 2)) (d (n "tower-layer") (r "^0.1.0") (d #t) (k 0)) (d (n "tower-service") (r "^0.2.0") (d #t) (k 0)) (d (n "tower-test") (r "^0.1.0") (d #t) (k 2)))) (h "1626nvwdjfbp1hqs8rrlcq4sjk50i5d0amc6ap9bag89mhpk94j7") (f (quote (("io" "tokio-io"))))))
+
+(define-public crate-tower-util-0.3.0-alpha.1 (c (n "tower-util") (v "0.3.0-alpha.1") (d (list (d (n "futures-core-preview") (r "= 0.3.0-alpha.18") (d #t) (k 0)) (d (n "futures-util-preview") (r "= 0.3.0-alpha.18") (d #t) (k 0)) (d (n "pin-project") (r "= 0.4.0-alpha.11") (f (quote ("project_attr"))) (d #t) (k 0)) (d (n "tower-layer") (r "= 0.3.0-alpha.1") (d #t) (k 0)) (d (n "tower-service") (r "= 0.3.0-alpha.1") (d #t) (k 0)))) (h "0m4ah6aqndlvijx2rqhp57b4m9fx488drpwj3ks417h4xr6qr4j6")))
+
+(define-public crate-tower-util-0.3.0-alpha.2 (c (n "tower-util") (v "0.3.0-alpha.2") (d (list (d (n "futures-core-preview") (r "= 0.3.0-alpha.19") (d #t) (k 0)) (d (n "futures-util-preview") (r "= 0.3.0-alpha.19") (d #t) (k 0)) (d (n "pin-project") (r "^0.4") (d #t) (k 0)) (d (n "tower-layer") (r "= 0.3.0-alpha.2") (d #t) (k 0)) (d (n "tower-service") (r "= 0.3.0-alpha.2") (d #t) (k 0)))) (h "0sxpkrdaqqhpj9ix6xxi6z5vj4r4axc9z9k443s7vmplhza11y5f")))
+
+(define-public crate-tower-util-0.3.0 (c (n "tower-util") (v "0.3.0") (d (list (d (n "futures-core") (r "^0.3") (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (o #t) (k 0)) (d (n "pin-project") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("stream" "sync" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.2") (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)) (d (n "tower-test") (r "^0.3") (d #t) (k 2)))) (h "0543l459l1pchjy5y1qcsfz5sl274mv8l3j2xvkamcim1s4xf0jp") (f (quote (("default" "call-all") ("call-all" "futures-util"))))))
+
+(define-public crate-tower-util-0.3.1 (c (n "tower-util") (v "0.3.1") (d (list (d (n "futures-core") (r "^0.3") (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("alloc"))) (o #t) (k 0)) (d (n "pin-project") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("stream" "sync" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.2") (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)) (d (n "tower-test") (r "^0.3") (d #t) (k 2)))) (h "0x4np2s7h891spvxaarcyainj12a7gvnh7jif9y80cvdh8ckq2fi") (f (quote (("default" "call-all") ("call-all" "futures-util"))))))
+

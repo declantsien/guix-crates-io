@@ -1,0 +1,4 @@
+(define-module (crates-io te ss tesseract-android) #:use-module (crates-io))
+
+(define-public crate-tesseract-android-0.5.6 (c (n "tesseract-android") (v "0.5.6") (d (list (d (n "tesseract-android-base") (r "^0.5.6") (d #t) (k 0)) (d (n "tesseract-android-ipc") (r "^0.5.6") (o #t) (d #t) (k 0)) (d (n "tesseract-android-transport") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "0ff5l177nkiymsb50hvidw6r2823c2a53fiylxyacv0kyinxsszb") (f (quote (("transport-all" "transport-sdk" "transport-ipc") ("default" "transport-all")))) (s 2) (e (quote (("transport-sdk" "dep:tesseract-android-transport") ("transport-ipc" "transport-sdk" "dep:tesseract-android-ipc") ("service" "tesseract-android-base/service" "tesseract-android-transport?/service" "tesseract-android-ipc?/service") ("client" "tesseract-android-base/client" "tesseract-android-transport?/client" "tesseract-android-ipc?/client"))))))
+

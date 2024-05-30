@@ -1,0 +1,14 @@
+(define-module (crates-io li nu linux-io-uring) #:use-module (crates-io))
+
+(define-public crate-linux-io-uring-0.0.1 (c (n "linux-io-uring") (v "0.0.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "linux-io-uring-sys") (r "^0.0.1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0aziw1q0xn6krz1qa8z8wcbciqg7laaxf0n7lz3kkdrwbpmp19vw")))
+
+(define-public crate-linux-io-uring-0.0.2 (c (n "linux-io-uring") (v "0.0.2") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "linux-io-uring-sys") (r "^0.0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "10rnk5fnn4pgjd54scl4mjvfjrpg1y2q85qb11qkipxf3vklh9xy") (f (quote (("sys-bindgen" "linux-io-uring-sys/bindgen"))))))
+
+(define-public crate-linux-io-uring-0.0.3 (c (n "linux-io-uring") (v "0.0.3") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "linux-io-uring-sys") (r "^0.0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0x7kw6wf9602c56n54bvd57q2r3qzgc2q38casqlmzq78r2zy4lk") (f (quote (("sys-bindgen" "linux-io-uring-sys/bindgen"))))))
+
+(define-public crate-linux-io-uring-0.0.4 (c (n "linux-io-uring") (v "0.0.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "linux-io-uring-sys") (r "^0.0.3") (d #t) (k 0)) (d (n "nix") (r "^0.15") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0ifxjnwkr4v40nk2nbcrga00dqa0n0sqfr3fhd4x73rxlghj32mz") (f (quote (("bindgen" "linux-io-uring-sys/bindgen")))) (y #t)))
+
+(define-public crate-linux-io-uring-0.0.5 (c (n "linux-io-uring") (v "0.0.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "linux-io-uring-sys") (r "^0.0.3") (d #t) (k 0)) (d (n "nix") (r "^0.15") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0bdpzrdgbivilrgxbs9bdi39jgdarnjkj79sg0rsjd6xfir69azi") (f (quote (("bindgen" "linux-io-uring-sys/bindgen"))))))
+
+(define-public crate-linux-io-uring-0.1.0 (c (n "linux-io-uring") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "iou") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "linux-io-uring-sys") (r "^0.0.4") (d #t) (k 0)) (d (n "nix") (r "^0.16") (d #t) (k 2)) (d (n "parking_lot") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "socket2") (r "^0.3") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "11fkjfdy0g2rfqf7ldahrv5vx9hxxgpnhsz53jsvrlqj2xm3h7pb") (f (quote (("unstable") ("concurrent" "parking_lot") ("bindgen" "linux-io-uring-sys/bindgen"))))))
+

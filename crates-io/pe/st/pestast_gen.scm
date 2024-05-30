@@ -1,0 +1,4 @@
+(define-module (crates-io pe st pestast_gen) #:use-module (crates-io))
+
+(define-public crate-pestast_gen-0.2.0 (c (n "pestast_gen") (v "0.2.0") (d (list (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.7.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.7") (f (quote ("grammar-extras"))) (d #t) (k 2)) (d (n "pest_generator") (r "^2.7.7") (f (quote ("grammar-extras" "export-internal" "std"))) (d #t) (k 0)) (d (n "pest_meta") (r "^2.7.7") (f (quote ("grammar-extras"))) (d #t) (k 0)) (d (n "prettyplease") (r "^0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("printing" "full" "extra-traits"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "02j79pli9j6ylzjh16wy8rj2gcfa03y8vhpqrwgvbz82gixjmgiy") (r "1.65")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sa lv salvia) #:use-module (crates-io))
+
+(define-public crate-salvia-0.1.0 (c (n "salvia") (v "0.1.0") (d (list (d (n "anymap2") (r "^0.13.0") (d #t) (k 0)) (d (n "async-recursion") (r "^0.3.2") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.50") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 2)) (d (n "bitvec") (r "^0.22.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "salvia_macro") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("rt" "sync" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("rt-multi-thread" "sync" "macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.29") (o #t) (d #t) (k 0)))) (h "06vj95i3ri7xf37bp3zbda6arq9hl20wv13kwhz9af50f67kyvhk") (f (quote (("nightly"))))))
+

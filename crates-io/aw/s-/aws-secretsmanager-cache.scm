@@ -1,0 +1,10 @@
+(define-module (crates-io aw s- aws-secretsmanager-cache) #:use-module (crates-io))
+
+(define-public crate-aws-secretsmanager-cache-0.1.0 (c (n "aws-secretsmanager-cache") (v "0.1.0") (d (list (d (n "async_once") (r "^0.2.1") (d #t) (k 2)) (d (n "aws-config") (r "^0.0.25-alpha") (d #t) (k 0)) (d (n "aws-sdk-secretsmanager") (r "^0.0.25-alpha") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "lru") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1bkncb21xmbwqxqmms1x52hqsk7h008fqkwz0028sdkya4lcf9n6")))
+
+(define-public crate-aws-secretsmanager-cache-0.2.0 (c (n "aws-secretsmanager-cache") (v "0.2.0") (d (list (d (n "async_once") (r "^0.2.1") (d #t) (k 2)) (d (n "aws-config") (r "^0.2.0") (d #t) (k 0)) (d (n "aws-sdk-secretsmanager") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "lru") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0ihr0pbvfifbdzcxia0majx7rksbiv4aawp0zcmswlpzvbzwrpbh")))
+
+(define-public crate-aws-secretsmanager-cache-0.3.0 (c (n "aws-secretsmanager-cache") (v "0.3.0") (d (list (d (n "async_once") (r "^0.2.1") (d #t) (k 2)) (d (n "aws-config") (r "^0.6.0") (d #t) (k 0)) (d (n "aws-sdk-secretsmanager") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "lru") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1nk6kglrfigm0r83x8l8p00nnjn5qahbnp9kfp3jnvl4m9h0vr8y")))
+
+(define-public crate-aws-secretsmanager-cache-0.5.0 (c (n "aws-secretsmanager-cache") (v "0.5.0") (d (list (d (n "async_once") (r "^0.2.6") (d #t) (k 2)) (d (n "aws-config") (r "^0.55.1") (d #t) (k 0)) (d (n "aws-sdk-config") (r "^0.26.0") (d #t) (k 0)) (d (n "aws-sdk-secretsmanager") (r "^0.26.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "lru") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dkyw7va1zaagfim2jm0fmgw77kg3phv9q69p6kyja6iv9rf4q0z")))
+

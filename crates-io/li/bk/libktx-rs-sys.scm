@@ -1,0 +1,20 @@
+(define-module (crates-io li bk libktx-rs-sys) #:use-module (crates-io))
+
+(define-public crate-libktx-rs-sys-0.1.40 (c (n "libktx-rs-sys") (v "0.1.40") (d (list (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1ibczjixmyc3w4ai74bngda1v91gm3jvg4fif8xd3rl7wj6n4xf0") (f (quote (("write") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("link-libstdc++") ("default" "write")))) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.2.40 (c (n "libktx-rs-sys") (v "0.2.40") (d (list (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1nv7xchxn95n258bzw22lmcbi3k6chwdf45pj3rv1xgz3hcl405g") (f (quote (("write") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("link-libstdc++") ("default" "write")))) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.2.41 (c (n "libktx-rs-sys") (v "0.2.41") (d (list (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0bmnjmlivpzi0v49ynnjz4l1xm388cr0vl1adr0cykyn29pxqkpi") (f (quote (("write") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("link-libstdc++") ("default" "write")))) (y #t) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.2.42 (c (n "libktx-rs-sys") (v "0.2.42") (d (list (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1018rvfpj35c93vsgpnqgfh4lk39b066j4qj0nflr8r3pnyf673v") (f (quote (("write") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("link-libstdc++") ("default" "write")))) (y #t) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.2.43 (c (n "libktx-rs-sys") (v "0.2.43") (d (list (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0q99ydysl36hl2yndsbad8x3rz9rvwv023ig8fvcspba7nqbkfmw") (f (quote (("write") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("link-libstdc++") ("default" "write")))) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.2.44 (c (n "libktx-rs-sys") (v "0.2.44") (d (list (d (n "bindgen") (r "^0.58") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1qsmcxgq3rmpwdb1s3mpz6bfr4awkdkpyjs32y6wc0knqj9501k6") (f (quote (("write") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("link-libstdc++") ("default" "write")))) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.3.0+v4.0.0 (c (n "libktx-rs-sys") (v "0.3.0+v4.0.0") (d (list (d (n "bindgen") (r "^0.59.0") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "log") (r "^0.4.14") (d #t) (k 0)))) (h "03msw5vzq5vaysvzj0v7grcaxcinyq0zplaacmwljswfasvvf77s") (f (quote (("write") ("static") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("default" "static" "write")))) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.3.1+v4.0.0 (c (n "libktx-rs-sys") (v "0.3.1+v4.0.0") (d (list (d (n "bindgen") (r "^0.59.0") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "log") (r "^0.4.14") (d #t) (k 0)))) (h "01aj7l3l9774pi2ap3said1jydlb3wr3rf0yj68yyn2kfkipmikq") (f (quote (("write") ("static") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("docs-only") ("default" "static" "write")))) (l "ktx")))
+
+(define-public crate-libktx-rs-sys-0.3.3+v4.0.0 (c (n "libktx-rs-sys") (v "0.3.3+v4.0.0") (d (list (d (n "bindgen") (r "^0.59.0") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1.45") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "log") (r "^0.4.14") (d #t) (k 0)))) (h "0cnb20fpdizwwkh35byns1qq4fh3rfzi1hhg2jryb5kq2pbpj7z3") (f (quote (("write") ("static") ("run-bindgen" "bindgen") ("nonfree-etc-unpack") ("docs-only") ("default" "static" "write")))) (l "ktx")))
+

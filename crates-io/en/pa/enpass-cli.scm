@@ -1,0 +1,6 @@
+(define-module (crates-io en pa enpass-cli) #:use-module (crates-io))
+
+(define-public crate-enpass-cli-0.1.0 (c (n "enpass-cli") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.5.13") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.4") (d #t) (k 0)) (d (n "rusqlcipher") (r "^0.14.9") (f (quote ("sqlcipher"))) (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.26") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)) (d (n "time") (r "^0.1.40") (d #t) (k 0)))) (h "0dmgbhiv0yccmjrxl2rshv78lgghzib3cpzj0pb4ix66mfs65rwq")))
+
+(define-public crate-enpass-cli-0.1.1 (c (n "enpass-cli") (v "0.1.1") (d (list (d (n "derive_more") (r "^0.14.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.13") (k 0)) (d (n "log") (r "^0.4.4") (d #t) (k 0)) (d (n "rusqlcipher") (r "^0.14.9") (f (quote ("sqlcipher"))) (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.26") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)) (d (n "time") (r "^0.1.40") (d #t) (k 0)))) (h "0yh9zm4jb7n3893f4w1bxwqsp62ixric23hvr4mdxx63jyyq3bsc")))
+

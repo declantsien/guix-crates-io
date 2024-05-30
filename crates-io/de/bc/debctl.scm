@@ -1,0 +1,4 @@
+(define-module (crates-io de bc debctl) #:use-module (crates-io))
+
+(define-public crate-debctl-0.1.0 (c (n "debctl") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "pest") (r "^2.7.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rstest") (r "^0.18.1") (d #t) (k 2)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)) (d (n "xpct") (r "^0.5.0") (d #t) (k 2)))) (h "1qvkwycd9mi94yp9cqz9vbafz0m5sigyjym3d7f5zpg0gjzm85q6") (r "1.70.0")))
+

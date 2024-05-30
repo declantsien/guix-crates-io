@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy-remote-devtools-plugin) #:use-module (crates-io))
+
+(define-public crate-bevy-remote-devtools-plugin-0.2.0 (c (n "bevy-remote-devtools-plugin") (v "0.2.0") (d (list (d (n "bevy") (r "^0.6") (f (quote ("trace" "bevy_render" "bevy_pbr" "dynamic"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 2)) (d (n "itoa") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libmdns") (r "^0.6") (d #t) (k 0)) (d (n "rweb") (r "^0.15") (f (quote ("openapi" "chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tracing-serde") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.1") (d #t) (k 0)))) (h "06ay9vvc6f8c0qa68p5famscwlvikdzjr84q01x6silbrdlmlwcr")))
+

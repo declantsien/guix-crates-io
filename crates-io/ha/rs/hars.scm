@@ -1,0 +1,4 @@
+(define-module (crates-io ha rs hars) #:use-module (crates-io))
+
+(define-public crate-hars-0.1.0 (c (n "hars") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "console") (r "^0.9.2") (d #t) (k 0)) (d (n "directories") (r "^2.0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("blocking" "json" "cookies"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.45") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0qf1fj25v3zq1hfkrgpla2wgdl6as0f9k3nb4rd0d2pxl4iiwvd6")))
+

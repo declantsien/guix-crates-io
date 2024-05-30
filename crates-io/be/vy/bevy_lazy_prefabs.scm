@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_lazy_prefabs) #:use-module (crates-io))
+
+(define-public crate-bevy_lazy_prefabs-0.2.0 (c (n "bevy_lazy_prefabs") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.4") (d #t) (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render"))) (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("png" "bevy_winit" "render" "bevy_wgpu"))) (k 2)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1zaia0ji3d0v3cg0p2iv79d54bv2cc96zvsxwhldnb4m3pyajg6y")))
+
+(define-public crate-bevy_lazy_prefabs-0.2.1 (c (n "bevy_lazy_prefabs") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.4") (d #t) (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render"))) (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("png" "bevy_winit" "render" "bevy_wgpu"))) (k 2)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "09vk40a4mjs5ckydb92x9jaxczqfrf5pv2132mm3a1a2yv7yvqyl")))
+

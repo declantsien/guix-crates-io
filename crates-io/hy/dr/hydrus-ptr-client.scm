@@ -1,0 +1,4 @@
+(define-module (crates-io hy dr hydrus-ptr-client) #:use-module (crates-io))
+
+(define-public crate-hydrus-ptr-client-0.1.0 (c (n "hydrus-ptr-client") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "flate2") (r "^1.0.22") (d #t) (k 0)) (d (n "futures-core") (r "^0.3.21") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.31") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.9") (d #t) (k 2)))) (h "0w6ykxcyhnnmg3j246by5nl4kqchapvzlyxacpbmv3d7icz83a5v") (f (quote (("rustls" "reqwest/rustls"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io bi om biome_project) #:use-module (crates-io))
+
+(define-public crate-biome_project-0.5.7 (c (n "biome_project") (v "0.5.7") (d (list (d (n "biome_console") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_deserialize") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_deserialize_macros") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_diagnostics") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_json_syntax") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_parser") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_rowan") (r "^0.5.7") (d #t) (k 0)) (d (n "biome_text_size") (r "^0.5.7") (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "node-semver") (r "^2.1.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)))) (h "12y69drzkrlyw8xsz8m9gl74sf5xzjcvl5iz2jrla5p00v4j2imq")))
+

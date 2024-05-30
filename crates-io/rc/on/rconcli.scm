@@ -1,0 +1,6 @@
+(define-module (crates-io rc on rconcli) #:use-module (crates-io))
+
+(define-public crate-rconcli-1.2.0 (c (n "rconcli") (v "1.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.0.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.14.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "is-terminal") (r "^0.4.12") (d #t) (k 0)) (d (n "minecraft-client-rs") (r "^0.1.3") (d #t) (k 0)) (d (n "rpassword") (r "^7.3.1") (d #t) (k 0)) (d (n "rustyline") (r "^14.0.0") (d #t) (k 0)) (d (n "yansi") (r "^1.0.1") (d #t) (k 0)))) (h "19hsn4ppg8kkypvqb7h2q1q0394x37sj821dh5kxahq5216abgr0")))
+
+(define-public crate-rconcli-1.2.1 (c (n "rconcli") (v "1.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.0.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.14.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "is-terminal") (r "^0.4.12") (d #t) (k 0)) (d (n "minecraft-client-rs") (r "^0.1.3") (d #t) (k 0)) (d (n "rpassword") (r "^7.3.1") (d #t) (k 0)) (d (n "rustyline") (r "^14.0.0") (d #t) (k 0)) (d (n "yansi") (r "^1.0.1") (d #t) (k 0)))) (h "003h51lll8shp4plbgbsxln6m628zwwda6qy6df891zhr5c056m4")))
+

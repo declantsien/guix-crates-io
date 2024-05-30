@@ -1,0 +1,14 @@
+(define-module (crates-io li se liserk-shared) #:use-module (crates-io))
+
+(define-public crate-liserk-shared-0.1.1 (c (n "liserk-shared") (v "0.1.1") (d (list (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "15fdhg6g5n1jwgs8ssr46kldnca7p6w7j9dqgng4sa46fk501m19")))
+
+(define-public crate-liserk-shared-0.1.3 (c (n "liserk-shared") (v "0.1.3") (d (list (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1ynnghcyyipqjx0d7dhpslz8074q4n2vm5fma8f9hip3adpvmh1k")))
+
+(define-public crate-liserk-shared-0.1.4 (c (n "liserk-shared") (v "0.1.4") (d (list (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "0s2zz1cpck317d1fch0gc5v55hj8w5cm8x3i5b954gcxgk25cc95")))
+
+(define-public crate-liserk-shared-0.1.5 (c (n "liserk-shared") (v "0.1.5") (d (list (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1ck3jl09wasarvh7gh3jzzknx63ndhxify0vasdw6bf6nqpc0yhj")))
+
+(define-public crate-liserk-shared-0.1.6 (c (n "liserk-shared") (v "0.1.6") (d (list (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "0bwlqbvp56llkcm6gflac6mdsbsh6h09gzh74k3kc8vgl0cpsyni")))
+
+(define-public crate-liserk-shared-0.1.7 (c (n "liserk-shared") (v "0.1.7") (d (list (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1miccwy4s7bisbpfgpdwga46q8k2kyzib7pabh66ck6ph92vcaic")))
+

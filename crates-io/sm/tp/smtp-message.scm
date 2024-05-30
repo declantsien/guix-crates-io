@@ -1,0 +1,4 @@
+(define-module (crates-io sm tp smtp-message) #:use-module (crates-io))
+
+(define-public crate-smtp-message-0.1.0 (c (n "smtp-message") (v "0.1.0") (d (list (d (n "auto_enums") (r "^0.7.4") (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "idna") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0") (d #t) (k 2)) (d (n "regex-automata") (r "^0.1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1p0nx7xridml0s82ckfdxdm5k2wd34qj26j4s77hymidpsighgz0") (f (quote (("fuzz-targets"))))))
+

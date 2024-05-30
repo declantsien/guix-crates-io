@@ -1,0 +1,8 @@
+(define-module (crates-io pi ng pingora-memory-cache) #:use-module (crates-io))
+
+(define-public crate-pingora-memory-cache-0.1.0 (c (n "pingora-memory-cache") (v "0.1.0") (d (list (d (n "TinyUFO") (r "^0.1.0") (d #t) (k 0)) (d (n "ahash") (r ">=0.8.9") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0") (d #t) (k 0)) (d (n "pingora-error") (r "^0.1.0") (d #t) (k 0)) (d (n "pingora-timeout") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)))) (h "1sd11f6nw45b11f7z7w71k217qm4wxg0j0mwqxl0x7j33shy1c7m")))
+
+(define-public crate-pingora-memory-cache-0.1.1 (c (n "pingora-memory-cache") (v "0.1.1") (d (list (d (n "TinyUFO") (r "^0.1.1") (d #t) (k 0)) (d (n "ahash") (r ">=0.8.9") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0") (d #t) (k 0)) (d (n "pingora-error") (r "^0.1.1") (d #t) (k 0)) (d (n "pingora-timeout") (r "^0.1.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)))) (h "1cgk5ps5qp2m223b9704sjkaawcsz27nddyqn119lqihrlahrs4r")))
+
+(define-public crate-pingora-memory-cache-0.2.0 (c (n "pingora-memory-cache") (v "0.2.0") (d (list (d (n "TinyUFO") (r "^0.2.0") (d #t) (k 0)) (d (n "ahash") (r ">=0.8.9") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0") (d #t) (k 0)) (d (n "pingora-error") (r "^0.2.0") (d #t) (k 0)) (d (n "pingora-timeout") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)))) (h "1h4m8r9q3lzb3zqq0dkqrm9xlgv52k0q0jxiij8q8623c966anig")))
+

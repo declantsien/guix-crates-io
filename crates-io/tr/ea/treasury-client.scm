@@ -1,0 +1,6 @@
+(define-module (crates-io tr ea treasury-client) #:use-module (crates-io))
+
+(define-public crate-treasury-client-0.1.0 (c (n "treasury-client") (v "0.1.0") (d (list (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "io-util" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "treasury-api") (r "=0.1.0") (d #t) (k 0)) (d (n "treasury-id") (r "=0.1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0jigs43dshl731skvvxr2hbxk2hv7qh0zlx6gm9zlx83q314zdsq")))
+
+(define-public crate-treasury-client-0.2.0 (c (n "treasury-client") (v "0.2.0") (d (list (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "io-util" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "treasury-api") (r "=0.2.0") (d #t) (k 0)) (d (n "treasury-id") (r "=0.1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0z33mqpzisr6czyjpz4yq19mzrkijkw13v09ds0p0aiyxxx47bzp")))
+

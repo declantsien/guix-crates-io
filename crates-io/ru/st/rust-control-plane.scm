@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust-control-plane) #:use-module (crates-io))
+
+(define-public crate-rust-control-plane-0.1.0 (c (n "rust-control-plane") (v "0.1.0") (d (list (d (n "data-plane-api") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "0rqpbk8s4ykwr6y316380p2lbi4lf608rhqlpnkbk2n4wd0f9w2d")))
+
+(define-public crate-rust-control-plane-0.1.1 (c (n "rust-control-plane") (v "0.1.1") (d (list (d (n "data-plane-api") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "0xabxp69njcq195nn69hdchghwpqc8xc2hckhc0kmn3c4afmmp6c")))
+
+(define-public crate-rust-control-plane-0.1.2 (c (n "rust-control-plane") (v "0.1.2") (d (list (d (n "data-plane-api") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1zddbhr442d7rg9nwrcmn5hlkdfic1g781mb18k5h8r5vxkj188r")))
+

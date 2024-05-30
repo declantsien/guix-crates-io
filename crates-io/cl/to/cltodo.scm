@@ -1,0 +1,8 @@
+(define-module (crates-io cl to cltodo) #:use-module (crates-io))
+
+(define-public crate-cltodo-0.1.0 (c (n "cltodo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-native-tls" "sqlite" "offline"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "17c2rj1xdq4mlja3gibbrpi74qfi12s0gp6ib4mh37cm9m73pd43")))
+
+(define-public crate-cltodo-0.1.1 (c (n "cltodo") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-native-tls" "sqlite" "offline"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "104yr3am2hls19zjqvfkxkn75m9li7vs81vhijh01vw8ah65hlsn")))
+
+(define-public crate-cltodo-0.2.0 (c (n "cltodo") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "sqlx") (r "^0.6") (f (quote ("runtime-tokio-native-tls" "sqlite" "offline"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "04ygklv3y417whysy820nif83nr36srsxkjx2ir90yk8jprg7ycr")))
+

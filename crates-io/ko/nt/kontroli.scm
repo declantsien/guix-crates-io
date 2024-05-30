@@ -1,0 +1,12 @@
+(define-module (crates-io ko nt kontroli) #:use-module (crates-io))
+
+(define-public crate-kontroli-0.1.0 (c (n "kontroli") (v "0.1.0") (d (list (d (n "colosseum") (r "^0.2") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.3") (d #t) (k 0)) (d (n "im") (r "^14.3") (d #t) (k 0)) (d (n "lazy-st") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nested-modules") (r "^0.1") (d #t) (k 0)) (d (n "nom") (r "^5.0") (d #t) (k 0)))) (h "0zn0l1vyzdi3rbr9rczvb7nz16ln54cwlpddhaa9558zh4qzcpxd")))
+
+(define-public crate-kontroli-0.1.1 (c (n "kontroli") (v "0.1.1") (d (list (d (n "colosseum") (r "^0.2") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.3") (d #t) (k 0)) (d (n "im") (r "^14.3") (d #t) (k 0)) (d (n "lazy-st") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nested-modules") (r "^0.1") (d #t) (k 0)) (d (n "nom") (r "^5.0") (d #t) (k 0)))) (h "0vhsfs10hrhkl8c0spxxsmgpny1k4sy5s40qyf7kc9mz7yvg9gwp")))
+
+(define-public crate-kontroli-0.2.0 (c (n "kontroli") (v "0.2.0") (d (list (d (n "colosseum") (r "^0.2") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "dedukti-parse") (r "^0.1") (d #t) (k 0)) (d (n "fnv") (r "^1.0.3") (d #t) (k 0)) (d (n "im") (r "^14.3") (d #t) (k 0)) (d (n "lazy-st") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nested-modules") (r "^0.2") (d #t) (k 0)))) (h "0f2krky73ai387zxc95isp227czzs8wp33gixlcy6vjirm7yiixk")))
+
+(define-public crate-kontroli-0.3.0 (c (n "kontroli") (v "0.3.0") (d (list (d (n "colosseum") (r "^0.2") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "dedukti-parse") (r "^0.2") (d #t) (k 0)) (d (n "fnv") (r "^1.0.3") (d #t) (k 0)) (d (n "im") (r "^14.3") (d #t) (k 0)) (d (n "lazy-st") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nested-modules") (r "^0.2") (d #t) (k 0)))) (h "1zvqxza1h372iy0ws2a74nvk7cp6ls7ggjv56k39y4wa6wlp2y8g")))
+
+(define-public crate-kontroli-0.4.0 (c (n "kontroli") (v "0.4.0") (d (list (d (n "colosseum") (r "^0.2.2") (d #t) (k 2)) (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "dedukti-parse") (r "^0.3.1") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "im") (r "^15.1.0") (d #t) (k 0)) (d (n "lazy-st") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nested-modules") (r "^0.2") (d #t) (k 0)))) (h "00066abidliad6yqaggs4mksghwnq5m1y22nnwsyilmc3ysfjyqj")))
+

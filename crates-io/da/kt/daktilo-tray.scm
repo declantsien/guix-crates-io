@@ -1,0 +1,4 @@
+(define-module (crates-io da kt daktilo-tray) #:use-module (crates-io))
+
+(define-public crate-daktilo-tray-0.1.0 (c (n "daktilo-tray") (v "0.1.0") (d (list (d (n "daktilo_lib") (r "^0.6.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "rdev") (r "^0.5.3") (d #t) (k 0)) (d (n "rodio") (r "^0.17.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tao") (r "^0.27.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "tray-icon") (r "^0.13.4") (d #t) (k 0)) (d (n "winres") (r "^0.1.12") (d #t) (k 1)))) (h "1yhcd157f9m6ghjkf7z0x7whssb7mkyc5gqf5yjmhdk07s0kxqm7")))
+

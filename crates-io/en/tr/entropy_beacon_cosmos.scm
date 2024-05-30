@@ -1,0 +1,24 @@
+(define-module (crates-io en tr entropy_beacon_cosmos) #:use-module (crates-io))
+
+(define-public crate-entropy_beacon_cosmos-0.1.0 (c (n "entropy_beacon_cosmos") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "1nvnw5asf1giv3wf1mqmi50lccczs390jn3dfy1csznjsqq5xjcz") (y #t)))
+
+(define-public crate-entropy_beacon_cosmos-1.0.0 (c (n "entropy_beacon_cosmos") (v "1.0.0") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "1jiyhdih4d8kjrdpjazslqm0nkyb18qv3r44q2ipfqyr8dla944c")))
+
+(define-public crate-entropy_beacon_cosmos-1.0.1 (c (n "entropy_beacon_cosmos") (v "1.0.1") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "0rri553wzsq6b9vbg3wkm3wcfvlyr81kgw67bh4yjiv3d6s78s2j")))
+
+(define-public crate-entropy_beacon_cosmos-1.1.0 (c (n "entropy_beacon_cosmos") (v "1.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "04kg2bl1c86dj47z6qkf3bvnf2z1wjfi8zji0s7c38fcm4gc5fan") (y #t) (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-1.1.1 (c (n "entropy_beacon_cosmos") (v "1.1.1") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "00sz1wqiiayxlavrlpd8z6vxfs689l36zlssnlqyikblppifw4w5") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-1.1.2 (c (n "entropy_beacon_cosmos") (v "1.1.2") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "0s342q082wifg74qnb37l5wjya7z2q2vf4j8favy7gdabbv5cla7") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-2.0.0 (c (n "entropy_beacon_cosmos") (v "2.0.0") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "0hzb947cwc4lxx3kx29802b93syy783pa1ffkcrysxfvxs05v0qr") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-2.0.1 (c (n "entropy_beacon_cosmos") (v "2.0.1") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "1zz108ksmycqhkmjfb0z2jdk20d4xl5vz7rir8paqwfknckqmlqn") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-2.0.2 (c (n "entropy_beacon_cosmos") (v "2.0.2") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "1mxlr2vxqlwmhfyy3k14gw6hzgzyw6xry3pp2nz8zzdpixhc4y5q") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-2.0.3 (c (n "entropy_beacon_cosmos") (v "2.0.3") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "12k4ylb65iwd4hi8mvpxxq38wsnsrfj2vdiprk4g27mxaxfcdw60") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+
+(define-public crate-entropy_beacon_cosmos-2.0.4 (c (n "entropy_beacon_cosmos") (v "2.0.4") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "ecvrf-rs") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "0kbcr2mcx29ydq1drm1dcvjaa2q9s6n7b7h1aaq1mbhg82zslnmy") (s 2) (e (quote (("ecvrf" "dep:ecvrf-rs"))))))
+

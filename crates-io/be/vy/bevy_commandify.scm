@@ -1,0 +1,8 @@
+(define-module (crates-io be vy bevy_commandify) #:use-module (crates-io))
+
+(define-public crate-bevy_commandify-0.1.0 (c (n "bevy_commandify") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (d #t) (k 2)) (d (n "bevy_ecs") (r "^0.12") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "parsing" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "16g7vyxy4bgzqr49v3wvik20hpn672g956j99r21wajd7vyfl11r") (f (quote (("default"))))))
+
+(define-public crate-bevy_commandify-0.2.0 (c (n "bevy_commandify") (v "0.2.0") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (d #t) (k 2)) (d (n "bevy_ecs") (r "^0.12") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "parsing" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0m6wf5p1z4hfaymp4d7p1sx5bgfd586gabrlfsna5afx73byrwm3") (f (quote (("default"))))))
+
+(define-public crate-bevy_commandify-0.3.0 (c (n "bevy_commandify") (v "0.3.0") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "bevy") (r "^0.13") (d #t) (k 2)) (d (n "bevy_ecs") (r "^0.13") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "parsing" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0874kw1l50pkp7vcvz9iw3ppinvi3vfq41jyzy8rjkgc2ymaajh3") (f (quote (("default"))))))
+

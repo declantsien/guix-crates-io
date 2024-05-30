@@ -1,0 +1,10 @@
+(define-module (crates-io fo rg forge_signer) #:use-module (crates-io))
+
+(define-public crate-forge_signer-0.1.0 (c (n "forge_signer") (v "0.1.0") (d (list (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "rand_os") (r "^0.2.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "secp256k1") (r "= 0.15.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1d37f5ij4mvcmh0c653w9zvjxf3kmrxjdm8d26q7bfg7q0qrr3pj")))
+
+(define-public crate-forge_signer-0.1.1 (c (n "forge_signer") (v "0.1.1") (d (list (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "rand_os") (r "^0.2.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "secp256k1") (r "= 0.15.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0zls4d9ib687pdfcy37s9nqq6l3rnbi7rr3gd7kvpv7mdk5dqd6d")))
+
+(define-public crate-forge_signer-0.1.2 (c (n "forge_signer") (v "0.1.2") (d (list (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "rand_os") (r "^0.2.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "secp256k1") (r "= 0.15.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "09dhcrfgdgk169224r1ighhy4170wly3m442fwlafrvfbnk9alpd")))
+
+(define-public crate-forge_signer-0.1.3 (c (n "forge_signer") (v "0.1.3") (d (list (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "rand_os") (r "^0.2.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "secp256k1") (r "= 0.15.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0is586xq1c7hwpcl678pvpxsjfmgi44aj0q7sicx5rvax6znvrrf")))
+

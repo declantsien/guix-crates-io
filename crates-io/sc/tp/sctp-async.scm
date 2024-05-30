@@ -1,0 +1,4 @@
+(define-module (crates-io sc tp sctp-async) #:use-module (crates-io))
+
+(define-public crate-sctp-async-0.0.0 (c (n "sctp-async") (v "0.0.0") (d (list (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "crc") (r "^2.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)) (d (n "util") (r "^0.5.2") (f (quote ("conn"))) (k 0) (p "webrtc-util")))) (h "11wkwapy8915j0zmagkz2ak6v4vylnn6c9bb0yv61w5vgp2xhbwd")))
+

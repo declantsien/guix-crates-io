@@ -1,0 +1,6 @@
+(define-module (crates-io ap to aptos-compression) #:use-module (crates-io))
+
+(define-public crate-aptos-compression-0.2.6 (c (n "aptos-compression") (v "0.2.6") (d (list (d (n "aptos-crypto") (r "^0.2.1") (d #t) (k 2)) (d (n "aptos-logger") (r "^0.2.6") (d #t) (k 0)) (d (n "aptos-metrics-core") (r "^0.2.6") (d #t) (k 0)) (d (n "aptos-types") (r "^0.2.1") (d #t) (k 2)) (d (n "bcs") (r "^0.1.3") (d #t) (k 2)) (d (n "lz4") (r "^1.23.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0s0d6z4mrqpxgf45ylvz76xvg1x9cvxzrf2mf56avxgd5598hd3c") (y #t)))
+
+(define-public crate-aptos-compression-0.2.7 (c (n "aptos-compression") (v "0.2.7") (d (list (d (n "aptos-crypto") (r "^0.2.1") (d #t) (k 2)) (d (n "aptos-logger") (r "^0.2.6") (d #t) (k 0)) (d (n "aptos-metrics-core") (r "^0.2.6") (d #t) (k 0)) (d (n "aptos-types") (r "^0.2.1") (d #t) (k 2)) (d (n "bcs") (r "^0.1.3") (d #t) (k 2)) (d (n "lz4") (r "^1.23.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (k 2)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1q5gc7694s74j3rhxfn0c3h1jhg32ag5vmjfmycpaysl1j9np0k4") (y #t)))
+

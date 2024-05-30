@@ -1,0 +1,8 @@
+(define-module (crates-io os mi osmium-libs-lsp-handler) #:use-module (crates-io))
+
+(define-public crate-osmium-libs-lsp-handler-0.0.1 (c (n "osmium-libs-lsp-handler") (v "0.0.1") (d (list (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "lsp-types") (r "^0.94.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (k 0)))) (h "15ivmm0k0by6ccwcrnlycf8flpr7v57jh1l8asc19ww4c9b950rp") (y #t)))
+
+(define-public crate-osmium-libs-lsp-handler-0.0.2 (c (n "osmium-libs-lsp-handler") (v "0.0.2") (d (list (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "lsp-types") (r "^0.94.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (k 0)))) (h "0dvidm8wlzbis04lcb0dpj7cjfi2xqxz2dyvrmfjscb5rwn2zjfl")))
+
+(define-public crate-osmium-libs-lsp-handler-0.0.3 (c (n "osmium-libs-lsp-handler") (v "0.0.3") (d (list (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "lsp-types") (r "^0.94.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (k 0)))) (h "1yq9dmjvb6c2a8bih3dzs30xd4npfmf1jg5a99g0cdcx94fflwj3")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ac to actori-framed) #:use-module (crates-io))
+
+(define-public crate-actori-framed-0.3.0 (c (n "actori-framed") (v "0.3.0") (d (list (d (n "actori-codec") (r "^0.2.0") (d #t) (k 0)) (d (n "actori-connect") (r "^1.0.2") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "actori-http") (r "^1.0.1") (d #t) (k 0)) (d (n "actori-router") (r "^0.2.4") (d #t) (k 0)) (d (n "actori-rt") (r "^1.0.0") (d #t) (k 0)) (d (n "actori-server") (r "^1.0.1") (d #t) (k 2)) (d (n "actori-service") (r "^1.0.5") (d #t) (k 0)) (d (n "actori-utils") (r "^1.0.6") (d #t) (k 2)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.6") (d #t) (k 0)))) (h "0415xpqm59niiimp4ld3bqfnzkl77rnnms6ddrvhw4ic0p58kr22")))
+

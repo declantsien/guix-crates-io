@@ -1,0 +1,4 @@
+(define-module (crates-io ai _k ai_kit) #:use-module (crates-io))
+
+(define-public crate-ai_kit-0.1.0 (c (n "ai_kit") (v "0.1.0") (d (list (d (n "itertools") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^0.9.5") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9.5") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "skeptic") (r "^0.11") (d #t) (k 1)) (d (n "skeptic") (r "^0.11") (d #t) (k 2)) (d (n "uuid") (r "^0.4") (f (quote ("v4"))) (d #t) (k 0)))) (h "1lrgwnnilm8p99lql2h9d9msp9yg0si35bp6sd30s03qc7sanah4") (f (quote (("with-rule" "with-constraint") ("with-planner" "with-constraint") ("with-pedigree") ("with-forward-inference" "with-planner") ("with-datum") ("with-constraint") ("unstable") ("default" "with-planner" "with-forward-inference" "with-datum" "with-rule" "with-pedigree"))))))
+

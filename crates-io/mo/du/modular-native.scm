@@ -1,0 +1,6 @@
+(define-module (crates-io mo du modular-native) #:use-module (crates-io))
+
+(define-public crate-modular-native-0.1.0 (c (n "modular-native") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "modular-rs") (r "^0.1") (d #t) (k 0)) (d (n "modular-sys") (r "^0.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "1ggba0sfm0rcvgclhhwaand5v02752fhwv6gb3ag1z447kn7h4hp")))
+
+(define-public crate-modular-native-0.1.1 (c (n "modular-native") (v "0.1.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "modular-rs") (r "^0.1") (d #t) (k 0)) (d (n "modular-sys") (r "^0.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "199x6ywbxlg7iw0z91zymxcqj8wq7jcx1ghwvr78djzasxkv13xb")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ga me game2048-rs) #:use-module (crates-io))
+
+(define-public crate-game2048-rs-0.1.0 (c (n "game2048-rs") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "cursive") (r "^0.20") (k 0)) (d (n "cursive_buffered_backend") (r "^0.6.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)))) (h "1740vn7nb27rh6axgdfsypifnkkwk0xgi3zhnv3d970idjb07c9l") (f (quote (("termion-backend" "cursive/termion-backend") ("pancurses-backend" "cursive/pancurses-backend") ("ncurses-backend" "cursive/ncurses-backend") ("default" "crossterm-backend") ("crossterm-backend" "cursive/crossterm-backend") ("blt-backend" "cursive/blt-backend"))))))
+
+(define-public crate-game2048-rs-0.1.1 (c (n "game2048-rs") (v "0.1.1") (d (list (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "cursive") (r "^0.20") (k 0)) (d (n "cursive_buffered_backend") (r "^0.6.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)))) (h "0s00wl639z506i9blbyh7rlrd4j1a1na888l70a9sswibfa1b21j") (f (quote (("termion-backend" "cursive/termion-backend") ("pancurses-backend" "cursive/pancurses-backend") ("ncurses-backend" "cursive/ncurses-backend") ("default" "crossterm-backend") ("crossterm-backend" "cursive/crossterm-backend") ("blt-backend" "cursive/blt-backend"))))))
+

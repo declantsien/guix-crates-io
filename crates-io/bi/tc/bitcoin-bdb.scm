@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-bdb) #:use-module (crates-io))
+
+(define-public crate-bitcoin-bdb-0.1.12-alpha.0 (c (n "bitcoin-bdb") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-string") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-walletdb") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinwallet-interface") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "14dakysj0k7yb9z7z6zf1vik19k1wlrsgv8shryp4jhyy0jr66as")))
+
+(define-public crate-bitcoin-bdb-0.1.16-alpha.0 (c (n "bitcoin-bdb") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-string") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-walletdb") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinwallet-interface") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "0db8jpvffxprxk2d2fymkqchkr5k3mfs6gz2ifvln6r7iw1ihdfa")))
+

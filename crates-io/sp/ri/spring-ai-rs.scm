@@ -1,0 +1,6 @@
+(define-module (crates-io sp ri spring-ai-rs) #:use-module (crates-io))
+
+(define-public crate-spring-ai-rs-0.1.0 (c (n "spring-ai-rs") (v "0.1.0") (d (list (d (n "bincode") (r "~1") (d #t) (k 0)) (d (n "itertools") (r "~0.12") (d #t) (k 0)) (d (n "lazy_static") (r "~1") (d #t) (k 0)) (d (n "libc") (r "~0.2") (d #t) (k 0)) (d (n "linkme") (r "~0.3") (d #t) (k 0)) (d (n "nalgebra") (r "~0.32") (d #t) (k 0)) (d (n "serde") (r "~1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slog") (r "~2") (d #t) (k 0)) (d (n "spring-ai-rs-macro") (r "~0.1") (d #t) (k 0)) (d (n "spring-ai-sys") (r "~0.1") (d #t) (k 0)))) (h "0ra1v3zm7n7br2hhi4ivnnzczypi6rdscz2x67ajxddpdva3s9pf")))
+
+(define-public crate-spring-ai-rs-0.1.1 (c (n "spring-ai-rs") (v "0.1.1") (d (list (d (n "bincode") (r "~1") (d #t) (k 0)) (d (n "itertools") (r "~0.12") (d #t) (k 0)) (d (n "lazy_static") (r "~1") (d #t) (k 0)) (d (n "libc") (r "~0.2") (d #t) (k 0)) (d (n "linkme") (r "~0.3") (d #t) (k 0)) (d (n "nalgebra") (r "~0.32") (d #t) (k 0)) (d (n "serde") (r "~1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slog") (r "~2") (d #t) (k 0)) (d (n "spring-ai-rs-macro") (r "~0.1") (d #t) (k 0)) (d (n "spring-ai-sys") (r "~0.1") (d #t) (k 0)))) (h "1qw1rffz2px100hxhj0f99fr8k04wvldq2ygj5bfm2qm0l64gl47")))
+

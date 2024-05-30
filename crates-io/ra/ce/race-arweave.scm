@@ -1,0 +1,4 @@
+(define-module (crates-io ra ce race-arweave) #:use-module (crates-io))
+
+(define-public crate-race-arweave-0.2.6 (c (n "race-arweave") (v "0.2.6") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "race-bundlr-sdk") (r "^0.5.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.11") (f (quote ("sync"))) (d #t) (k 0)))) (h "1hvz4hvl80bvl4dkahc9p42rsc7y6qzq17liij5ks65bjsd2v915") (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json")))) (r "1.65.0")))
+

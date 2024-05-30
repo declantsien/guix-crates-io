@@ -1,0 +1,8 @@
+(define-module (crates-io lu ru luru20-cw-ownable) #:use-module (crates-io))
+
+(define-public crate-luru20-cw-ownable-2.0.0 (c (n "luru20-cw-ownable") (v "2.0.0") (d (list (d (n "cosmwasm-schema") (r "^2.0.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^2.0.0") (d #t) (k 0)) (d (n "cw-address-like") (r "^1.0.4") (d #t) (k 0)) (d (n "cw-ownable-derive") (r "^0.5.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^2.0.0") (d #t) (k 0)) (d (n "cw-utils") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0hvgk01qxk304b9v5db5cjzcjlc31hiflisxx53gcw9ir6b8immc")))
+
+(define-public crate-luru20-cw-ownable-2.0.1 (c (n "luru20-cw-ownable") (v "2.0.1") (d (list (d (n "cosmwasm-schema") (r "^2.0.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^2.0.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^2.0.0") (d #t) (k 0)) (d (n "cw-utils") (r "^2.0.0") (d #t) (k 0)) (d (n "luru20-cw-address-like") (r "^2.0.0") (d #t) (k 0)) (d (n "luru20-cw-ownable-derive") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1y0sp787fkfj1fsk7iq6y6kyyklv6062kbb3ka2kib0yr38jj2nm")))
+
+(define-public crate-luru20-cw-ownable-2.0.2 (c (n "luru20-cw-ownable") (v "2.0.2") (d (list (d (n "cosmwasm-schema") (r "^2.0.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^2.0.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^2.0.0") (d #t) (k 0)) (d (n "cw-utils") (r "^2.0.0") (d #t) (k 0)) (d (n "luru20-cw-address-like") (r "^2.0.0") (d #t) (k 0)) (d (n "luru20-cw-ownable-derive") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1bd608wmb35w9xjzf9hcqk5wsmbrk7bwivjdwx50nw0249jj62l9")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io jo lt joltc-sys) #:use-module (crates-io))
+
+(define-public crate-joltc-sys-0.1.0+Jolt-5.0.0 (c (n "joltc-sys") (v "0.1.0+Jolt-5.0.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 1)))) (h "0g10kddlksjkfyqzqxacn4722pc510chqzjln586jh9mvxvx5zgv") (f (quote (("object-layer-u32") ("double-precision") ("default"))))))
+
+(define-public crate-joltc-sys-0.1.1+Jolt-5.0.0 (c (n "joltc-sys") (v "0.1.1+Jolt-5.0.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 1)))) (h "1a3xpl1jg0grgx8bb6vahbdai6zriv2lcf68lr0x0ps3mnawch34") (f (quote (("object-layer-u32") ("double-precision") ("default"))))))
+
+(define-public crate-joltc-sys-0.2.0+Jolt-5.0.0 (c (n "joltc-sys") (v "0.2.0+Jolt-5.0.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 1)))) (h "0h0ri02lkdhibk6lba84l54hw5nmin6fvap37w2z203a6gcfzqvi") (f (quote (("object-layer-u32") ("double-precision") ("default"))))))
+
+(define-public crate-joltc-sys-0.3.0+Jolt-5.0.0 (c (n "joltc-sys") (v "0.3.0+Jolt-5.0.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 1)))) (h "10c6mhv0jnr1bpjd8ikpl45b7fld9jq07m0p77iblvmv6b9k3wii") (f (quote (("object-layer-u32") ("double-precision") ("default"))))))
+
+(define-public crate-joltc-sys-0.3.1+Jolt-5.0.0 (c (n "joltc-sys") (v "0.3.1+Jolt-5.0.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 1)))) (h "15xjqj1ialdvwp9lg9ifznafijp8fsk25z47wqa842hwwma26vw4") (f (quote (("object-layer-u32") ("double-precision") ("default"))))))
+

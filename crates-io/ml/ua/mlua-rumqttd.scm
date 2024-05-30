@@ -1,0 +1,6 @@
+(define-module (crates-io ml ua mlua-rumqttd) #:use-module (crates-io))
+
+(define-public crate-mlua-rumqttd-0.1.0 (c (n "mlua-rumqttd") (v "0.1.0") (d (list (d (n "mlua") (r "^0.9.2") (d #t) (k 0)) (d (n "rumqttd") (r "^0.18.0") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0y5yhvav1gga73ipqdgna3xmrq6892x9aqs5l1k9cdd8242m7w9a") (f (quote (("luajit52" "mlua/luajit52" "mlua/vendored") ("luajit" "mlua/luajit" "mlua/vendored") ("lua54" "mlua/lua54" "mlua/vendored") ("lua53" "mlua/lua53" "mlua/vendored") ("lua52" "mlua/lua52" "mlua/vendored") ("lua51" "mlua/lua51" "mlua/vendored"))))))
+
+(define-public crate-mlua-rumqttd-0.1.1 (c (n "mlua-rumqttd") (v "0.1.1") (d (list (d (n "mlua") (r "^0.9.4") (d #t) (k 0)) (d (n "rumqttd") (r "^0.19.0") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "02zg3gmiq5vk2yfqvw9mv3gp5wk5664bcj3yg8yycln5k477fsjz") (f (quote (("luajit52" "mlua/luajit52" "mlua/vendored") ("luajit" "mlua/luajit" "mlua/vendored") ("lua54" "mlua/lua54" "mlua/vendored") ("lua53" "mlua/lua53" "mlua/vendored") ("lua52" "mlua/lua52" "mlua/vendored") ("lua51" "mlua/lua51" "mlua/vendored"))))))
+

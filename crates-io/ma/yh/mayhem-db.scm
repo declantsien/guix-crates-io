@@ -1,0 +1,4 @@
+(define-module (crates-io ma yh mayhem-db) #:use-module (crates-io))
+
+(define-public crate-mayhem-db-0.2.0-beta.1 (c (n "mayhem-db") (v "0.2.0-beta.1") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mayhem-migrations") (r "^0.2.0-beta.1") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "sea-orm") (r "^0.10.3") (f (quote ("sqlx-postgres" "sqlx-sqlite" "runtime-tokio" "runtime-tokio-rustls" "postgres-array" "macros" "mock"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.153") (f (quote ("derive" "serde_derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("test-util" "full"))) (d #t) (k 0)))) (h "09asbwva79as0id02dipk19xy0l72q13da3asw839n8ar6scjfq3")))
+

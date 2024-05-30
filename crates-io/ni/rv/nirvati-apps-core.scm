@@ -1,0 +1,4 @@
+(define-module (crates-io ni rv nirvati-apps-core) #:use-module (crates-io))
+
+(define-public crate-nirvati-apps-core-0.0.1 (c (n "nirvati-apps-core") (v "0.0.1") (d (list (d (n "async-graphql") (r "^7.0.3") (o #t) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.21.1") (f (quote ("v1_29"))) (d #t) (k 0)) (d (n "nirvati") (r "^0.0.1") (d #t) (k 0)) (d (n "semver") (r "^1.0.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "slugify") (r "^0.1.0") (d #t) (k 0)))) (h "13f40j001gh7a0yi1q7ny88qcry6yczw8rjm8yiffnws5mlm8902") (s 2) (e (quote (("graphql" "dep:async-graphql" "nirvati/graphql"))))))
+

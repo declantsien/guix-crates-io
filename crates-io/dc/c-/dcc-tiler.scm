@@ -1,0 +1,8 @@
+(define-module (crates-io dc c- dcc-tiler) #:use-module (crates-io))
+
+(define-public crate-dcc-tiler-0.1.0 (c (n "dcc-tiler") (v "0.1.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplesvg") (r "^0.4.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0cwz5ziigdkb01c8a9a27k6nl6fh65a3pp7cwj00hakkhcpy4iq6")))
+
+(define-public crate-dcc-tiler-0.1.1 (c (n "dcc-tiler") (v "0.1.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplesvg") (r "^0.4.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0661pixy6wyq1dcsd1z7ssdzg0zqrqlbpmjks4xhmays9czbfn9f")))
+
+(define-public crate-dcc-tiler-0.1.2 (c (n "dcc-tiler") (v "0.1.2") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rayon") (r "^1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplesvg") (r "^0.4.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1x75av94sw7h051b7blkq592h9jl88rk0a3v6c6ikybqw9gdvbr6")))
+

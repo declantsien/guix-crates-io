@@ -1,0 +1,8 @@
+(define-module (crates-io ic -v ic-verify-bls-signature) #:use-module (crates-io))
+
+(define-public crate-ic-verify-bls-signature-0.1.0 (c (n "ic-verify-bls-signature") (v "0.1.0") (d (list (d (n "bls12_381") (r "^0.7") (f (quote ("groups" "pairings" "alloc" "experimental"))) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "pairing") (r "^0.22") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1i7sfpbn55y7dgqa9wqv2igpnv7mrcfwkihc2rcn1y0c701iqfsq")))
+
+(define-public crate-ic-verify-bls-signature-0.2.0 (c (n "ic-verify-bls-signature") (v "0.2.0") (d (list (d (n "bls12_381") (r "^0.7") (f (quote ("groups" "pairings" "alloc" "experimental"))) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "pairing") (r "^0.22") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "0dyjrfpp3s5yzzmq1g2g09civgw7ja86y4y21jbh407mfn6iy3yx")))
+
+(define-public crate-ic-verify-bls-signature-0.3.0 (c (n "ic-verify-bls-signature") (v "0.3.0") (d (list (d (n "bls12_381") (r "^0.9") (f (quote ("groups" "pairings" "experimental"))) (k 0) (p "ic_bls12_381")) (d (n "hex") (r "^0.4") (o #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (o #t) (d #t) (k 0)) (d (n "pairing") (r "^0.23") (d #t) (k 0)) (d (n "rand") (r "^0.8") (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (k 0)))) (h "0ll0mlsk90p2ri4ank58ji1h49cvgcm5z62rszz24sa5q4faycal") (f (quote (("default" "alloc") ("alloc" "bls12_381/alloc" "lazy_static" "hex/alloc"))))))
+

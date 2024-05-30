@@ -1,0 +1,6 @@
+(define-module (crates-io nc lb nclbk) #:use-module (crates-io))
+
+(define-public crate-nclbk-0.0.0 (c (n "nclbk") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.76") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "httpmock") (r "^0.6.7") (d #t) (k 2)))) (h "1xllf3wv039xkni4z4y4dngxq431vr3xwwpyvhapjnnl6p14ckba")))
+
+(define-public crate-nclbk-0.0.1 (c (n "nclbk") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.76") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "httpmock") (r "^0.6.7") (d #t) (k 2)))) (h "1ylpp97gml40s8qfm5li2g1znvrwphmcwmi581l8cj297gn3m8f3")))
+

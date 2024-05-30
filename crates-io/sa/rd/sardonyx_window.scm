@@ -1,0 +1,6 @@
+(define-module (crates-io sa rd sardonyx_window) #:use-module (crates-io))
+
+(define-public crate-sardonyx_window-0.0.1 (c (n "sardonyx_window") (v "0.0.1") (d (list (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "sardonyx_config") (r "^0.0.1") (d #t) (k 0)) (d (n "sardonyx_core") (r "^0.0.1") (d #t) (k 0)) (d (n "sardonyx_error") (r "^0.0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_profiler") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "winit") (r "^0.19") (f (quote ("serde" "icon_loading"))) (d #t) (k 0)))) (h "1ygb9ng3a8aqshkan8n3qq669ksg5p4qx83pikvcihg8hvp2lx2w") (f (quote (("test-support") ("profiler" "thread_profiler/thread_profiler") ("nightly")))) (y #t)))
+
+(define-public crate-sardonyx_window-0.0.3 (c (n "sardonyx_window") (v "0.0.3") (d (list (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "sardonyx_config") (r ">= 0.0.3") (d #t) (k 0)) (d (n "sardonyx_core") (r ">= 0.0.3") (d #t) (k 0)) (d (n "sardonyx_error") (r ">= 0.0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_profiler") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "winit") (r "^0.19") (f (quote ("serde" "icon_loading"))) (d #t) (k 0)))) (h "1s6x0cd4q3n0n7sdd64jsn83pxy67qqxy76l3p9g7al96n4i5a9n") (f (quote (("test-support") ("profiler" "thread_profiler/thread_profiler") ("nightly")))) (y #t)))
+

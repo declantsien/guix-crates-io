@@ -1,0 +1,4 @@
+(define-module (crates-io tr ee tree-sitter-lint) #:use-module (crates-io))
+
+(define-public crate-tree-sitter-lint-0.0.1-dev.0 (c (n "tree-sitter-lint") (v "0.0.1-dev.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 0)) (d (n "clap") (r "^4.3.17") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 0)) (d (n "proc_macros") (r "^0.0.1-dev.0") (d #t) (k 0) (p "tree_sitter_lint_proc_macros")) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-grep") (r "^0.1.0") (d #t) (k 0) (p "tree_sitter_lint_tree-sitter-grep")) (d (n "tree-sitter-rust") (r "^0.20.3") (d #t) (k 0)))) (h "16iwgqc28lq64ll105081lija25vk1r7hswbdlm2b12vpbwkly2z") (r "1.70")))
+

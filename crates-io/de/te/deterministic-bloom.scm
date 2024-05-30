@@ -1,0 +1,4 @@
+(define-module (crates-io de te deterministic-bloom) #:use-module (crates-io))
+
+(define-public crate-deterministic-bloom-0.1.0 (c (n "deterministic-bloom") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "libipld") (r "^0.16") (f (quote ("serde-codec"))) (d #t) (k 2)) (d (n "miette") (r "^5.5") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc"))) (d #t) (k 0)) (d (n "test-strategy") (r "^0.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8") (f (quote ("xxh3"))) (d #t) (k 0)))) (h "03a9l8x013sifhshb6ys0v72mw22xcmzvfiw83iawq73j4z8g8qj") (f (quote (("test_utils" "proptest") ("default")))) (r "1.64")))
+

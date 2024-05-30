@@ -1,0 +1,4 @@
+(define-module (crates-io tt rk ttrk) #:use-module (crates-io))
+
+(define-public crate-ttrk-0.1.0 (c (n "ttrk") (v "0.1.0") (d (list (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.1") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "time") (r "^0.3.11") (f (quote ("parsing" "serde" "local-offset" "formatting" "macros" "serde-well-known"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0hbcsm90dvl3n1a3ymd89r82swrcnplz93fhravkblfrsgwi2in5")))
+

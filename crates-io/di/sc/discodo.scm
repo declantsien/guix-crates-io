@@ -1,0 +1,6 @@
+(define-module (crates-io di sc discodo) #:use-module (crates-io))
+
+(define-public crate-discodo-0.1.0 (c (n "discodo") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serenity") (r "^0.10.5") (f (quote ("client" "model"))) (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.14.0") (d #t) (k 0)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "1mhl926y7b25h2b3hd3x63gzl9cdd61bl83d5im7gja4xcwdcjyc")))
+
+(define-public crate-discodo-0.1.1 (c (n "discodo") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serenity") (r "^0.10.5") (f (quote ("client" "model"))) (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.14.0") (d #t) (k 0)) (d (n "url") (r "^2.2.1") (d #t) (k 0)))) (h "172w24yp7af0185dbmxc62bfn7fy734x6a05mybkgiy49mz1l5d8")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ne bu nebula-fbthrift-meta-v2) #:use-module (crates-io))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.1.1 (c (n "nebula-fbthrift-meta-v2") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "^0.1") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "fbthrift") (r "^0.0.1") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)))) (h "0xxahzhacd880r5b075532d8ra7nlxi55gxlg019w69kwr43k6pi")))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.1.2 (c (n "nebula-fbthrift-meta-v2") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "^0.1") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "fbthrift") (r "^0.0.2") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)))) (h "0b538mhdcrp701v7mz4ggg9bhhjfs18zwzvblrby49clhp5sncbi")))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.1.3 (c (n "nebula-fbthrift-meta-v2") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "^0.1") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "fbthrift") (r "^0.0.3") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)))) (h "0c846pwjvgwfhwm8z05043gwspc8hszzdbv5wm7xwnqhqb3lzgxc")))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.1.4 (c (n "nebula-fbthrift-meta-v2") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "^0.1") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "const-cstr") (r "^0.3") (d #t) (k 0)) (d (n "fbthrift") (r "=0.0.4") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)))) (h "0g1dk6mdx4al8i2zzh0awvrzfaqvjxk97a69sxspyyyw7hc0l0ax")))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.1.5 (c (n "nebula-fbthrift-meta-v2") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "^0.1") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "const-cstr") (r "^0.3") (d #t) (k 0)) (d (n "fbthrift") (r "=0.0.5") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)))) (h "08wajllhd3fcci33an2h977vzmlxq4rcjd7fd59i0h64mmn9jg1n")))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.2.0 (c (n "nebula-fbthrift-meta-v2") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "=0.2.0") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "const-cstr") (r "^0.3") (d #t) (k 0)) (d (n "fbthrift") (r "=0.0.6") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)))) (h "1wziby790zxhdnhwjc9x116i6yqvrhmk72lvbqxy0sja1s4w5w7r")))
+
+(define-public crate-nebula-fbthrift-meta-v2-0.3.0 (c (n "nebula-fbthrift-meta-v2") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "common") (r "=0.3.0") (k 0) (p "nebula-fbthrift-common-v2")) (d (n "const-cstr") (r "^0.3") (k 0)) (d (n "fbthrift") (r "=0.0.7") (k 0) (p "fbthrift-git")) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)))) (h "1l9li2vsddn10gadpv1fv2cqd8rviwj7jk8lw6js5r4gmk242zdq")))
+

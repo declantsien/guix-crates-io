@@ -1,0 +1,6 @@
+(define-module (crates-io wi xe wixet-bootstrap) #:use-module (crates-io))
+
+(define-public crate-wixet-bootstrap-1.0.0 (c (n "wixet-bootstrap") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.15") (d #t) (k 0)) (d (n "signal-hook-tokio") (r "^0.3.1") (f (quote ("futures-v0_3"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "03nmiz22drmj8gsh5fv3rkks7dskjc8vdkarcrsrvriq1w2bkbr0")))
+
+(define-public crate-wixet-bootstrap-1.0.1 (c (n "wixet-bootstrap") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.15") (d #t) (k 0)) (d (n "signal-hook-tokio") (r "^0.3.1") (f (quote ("futures-v0_3"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "1kczb2ys8i065a426z7l9zf28n6c95j4dxarynhmmsl1mlz6s5fc")))
+

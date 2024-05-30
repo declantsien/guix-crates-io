@@ -1,0 +1,8 @@
+(define-module (crates-io pa re pareto_front) #:use-module (crates-io))
+
+(define-public crate-pareto_front-0.1.0 (c (n "pareto_front") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "03n0b6xn32k885fjp08anw707pkpywd47sgnv6x1n5y9v30d75ha") (f (quote (("pareto_front_serde" "serde"))))))
+
+(define-public crate-pareto_front-1.0.0 (c (n "pareto_front") (v "1.0.0") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.2") (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.3") (o #t) (d #t) (k 0)))) (h "0m3mr6asa37va9sbv5wwr4snr4zmfq40640db5z0fkcl2iy0555r") (f (quote (("pareto_front_serde" "serde") ("pareto_front_concurrent" "thread_local"))))))
+
+(define-public crate-pareto_front-1.0.1 (c (n "pareto_front") (v "1.0.1") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.2") (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.3") (o #t) (d #t) (k 0)))) (h "0kv6wap25jx30adxy4bsf94f6h50rxlh53wkhc5i9hj6phlmp70b") (f (quote (("pareto_front_serde" "serde") ("pareto_front_concurrent" "thread_local"))))))
+

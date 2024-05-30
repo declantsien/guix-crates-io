@@ -1,0 +1,6 @@
+(define-module (crates-io sw c_ swc_internal_test) #:use-module (crates-io))
+
+(define-public crate-swc_internal_test-0.1.0 (c (n "swc_internal_test") (v "0.1.0") (d (list (d (n "abi_stable") (r "^0.10.2") (d #t) (k 0)) (d (n "phf") (r "^0.10.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "swc_atoms") (r "^0.2.9") (d #t) (k 0)) (d (n "swc_common") (r "^0.14.5") (f (quote ("concurrent"))) (d #t) (k 0)) (d (n "swc_ecmascript") (r "^0.85.0") (f (quote ("utils" "visit"))) (d #t) (k 0)) (d (n "swc_plugin") (r "^0.12.0") (d #t) (k 0)))) (h "17hki0mc2gmvxlb1csg2v64cm7m3b8cpgfsyn2xlpk4970y3fr1p")))
+
+(define-public crate-swc_internal_test-0.2.0 (c (n "swc_internal_test") (v "0.2.0") (d (list (d (n "abi_stable") (r "^0.10.2") (d #t) (k 0)) (d (n "phf") (r "^0.10.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "swc_atoms") (r "^0.2.9") (d #t) (k 0)) (d (n "swc_common") (r "^0.14.5") (f (quote ("concurrent"))) (d #t) (k 0)) (d (n "swc_ecmascript") (r "^0.87.0") (f (quote ("utils" "visit"))) (d #t) (k 0)) (d (n "swc_plugin") (r "^0.13.0") (d #t) (k 0)))) (h "1fvl4wjlp6wp7z7hah06mbgzw5wnszqkc01jc18gwpdhcad10az3")))
+

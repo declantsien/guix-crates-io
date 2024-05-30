@@ -1,0 +1,6 @@
+(define-module (crates-io va mp vampire_api) #:use-module (crates-io))
+
+(define-public crate-vampire_api-0.0.0 (c (n "vampire_api") (v "0.0.0") (h "01k39dl0f08p9xbkq33bpsk1amkm5ckwlkb5f99b9dk064z9dw53")))
+
+(define-public crate-vampire_api-0.0.1 (c (n "vampire_api") (v "0.0.1") (d (list (d (n "atomic-array") (r "^0.3.1") (d #t) (k 0)) (d (n "atomic-ref2") (r "^0.2.1") (d #t) (k 0)) (d (n "collections-more") (r "^0.1.4") (d #t) (k 0)) (d (n "comparator") (r "^0.2.1") (d #t) (k 0)) (d (n "dotproperties") (r "^0.1.0") (d #t) (k 0)) (d (n "file_scanner") (r "^0.2.0") (d #t) (k 0)) (d (n "flurry") (r "^0.3.1") (d #t) (k 0)) (d (n "java-properties") (r "^1.2.0") (d #t) (k 0)) (d (n "java-rand") (r "^0.2.0") (d #t) (k 0)) (d (n "java-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "java_random") (r "^0.1.3") (d #t) (k 0)) (d (n "lockfreehashmap") (r "^0.1.2") (d #t) (k 0)) (d (n "log4rs") (r "^1.0.0-alpha-2") (d #t) (k 0)) (d (n "manual_future") (r "^0.1.1") (d #t) (k 0)) (d (n "plain_enum") (r "^0.9.9") (d #t) (k 0)) (d (n "rust_runnables") (r "^0.2.0") (d #t) (k 0)) (d (n "simple-string-builder") (r "^0.2.0") (d #t) (k 0)) (d (n "steel-cent") (r "^0.2.3") (d #t) (k 0)) (d (n "timsort") (r "^0.1.2") (d #t) (k 0)))) (h "1hzam239lk5hcgqxgn8fjjdzyqslsz980gagi10yiyd71rl433zm")))
+

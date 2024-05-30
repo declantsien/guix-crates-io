@@ -1,0 +1,4 @@
+(define-module (crates-io mc ai mcai-onnxruntime) #:use-module (crates-io))
+
+(define-public crate-mcai-onnxruntime-0.0.15 (c (n "mcai-onnxruntime") (v "0.0.15") (d (list (d (n "image") (r "^0.23") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "mcai-onnxruntime-sys") (r "^0.0.15") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (d #t) (k 0)) (d (n "test-env-log") (r "^0.2") (f (quote ("trace"))) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 2)) (d (n "ureq") (r "^2.1") (o #t) (d #t) (k 0)) (d (n "ureq") (r "^2.1") (d #t) (k 2)))) (h "1s4rzmjjn4dfp15s6w3fch6628hbr6l083jqb5z8d0f9lsiqkf46") (f (quote (("model-fetching" "ureq") ("generate-bindings" "mcai-onnxruntime-sys/generate-bindings") ("disable-sys-build-script" "mcai-onnxruntime-sys/disable-sys-build-script"))))))
+

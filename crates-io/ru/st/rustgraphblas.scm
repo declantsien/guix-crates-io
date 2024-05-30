@@ -1,0 +1,34 @@
+(define-module (crates-io ru st rustgraphblas) #:use-module (crates-io))
+
+(define-public crate-rustgraphblas-0.1.0-alpha (c (n "rustgraphblas") (v "0.1.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "013jrrf3bqaf4zk99x6gaa82hnk4h85dw8va17wq5lh2m631fv6d")))
+
+(define-public crate-rustgraphblas-0.2.0-alpha (c (n "rustgraphblas") (v "0.2.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "0park01zjzc4rn95f446briqg188msd5jdx2jdpg7fknkv5x0zbg")))
+
+(define-public crate-rustgraphblas-0.3.0-alpha (c (n "rustgraphblas") (v "0.3.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "0waa2p4x9zhll67qnz31l62dfnmf976yc48dnnfgc5c32s9gryil")))
+
+(define-public crate-rustgraphblas-0.4.0-alpha (c (n "rustgraphblas") (v "0.4.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "0y2lgx4m4i00dc879slhvgxv4mjjim00s3mp0563cwibq970ldik")))
+
+(define-public crate-rustgraphblas-0.5.0-alpha (c (n "rustgraphblas") (v "0.5.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "1by5a4mn27szg5ri79x3iiw5rg5h8anyryf558qir1p37kvc2agy")))
+
+(define-public crate-rustgraphblas-0.6.0-alpha (c (n "rustgraphblas") (v "0.6.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "18l16mzq1agyfn0s384ymi1jlpwczz7l3xk5piygpsnak857vy9r")))
+
+(define-public crate-rustgraphblas-0.7.0-alpha (c (n "rustgraphblas") (v "0.7.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "1jljhxfa6ys2a7xw2arxa2bmr3vnhkhgqg9a2hmga8svicjjl6jn")))
+
+(define-public crate-rustgraphblas-0.8.0-alpha (c (n "rustgraphblas") (v "0.8.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "13m21q1b50wcpwbv956p5c1g6b41b862zbydz05gjyz405yn1fc1")))
+
+(define-public crate-rustgraphblas-0.9.0-alpha (c (n "rustgraphblas") (v "0.9.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "12mcjq2cwsc17iqj64401ldnib3m3lv7q82asabysvv7qw3rxjm2")))
+
+(define-public crate-rustgraphblas-0.10.0-alpha (c (n "rustgraphblas") (v "0.10.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "1rnh5f92ccwxz9i7bviyv7gbh14fsalxda28n49b7zgj4fj52mhq")))
+
+(define-public crate-rustgraphblas-0.11.0-alpha (c (n "rustgraphblas") (v "0.11.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "1b94y24vsscnsmghfb5m2ywsnz1fs7rwqi7yjz4i5dlqzf1bih7i")))
+
+(define-public crate-rustgraphblas-0.12.0-alpha (c (n "rustgraphblas") (v "0.12.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "0m1ahja61dq7bdc9x4hmm6wm0csnzjw0445zcz68nwm5wzyliy49")))
+
+(define-public crate-rustgraphblas-0.13.0-alpha (c (n "rustgraphblas") (v "0.13.0-alpha") (d (list (d (n "bindgen") (r "^0.53.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)))) (h "0wmjj802nvknj5a9xcrvkjswqkx2cqdyw085ac3sj5yydcqzy6g9")))
+
+(define-public crate-rustgraphblas-0.14.0-alpha (c (n "rustgraphblas") (v "0.14.0-alpha") (d (list (d (n "bindgen") (r "^0.58.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "paste") (r "^1.0.4") (d #t) (k 0)))) (h "171x4dr06kzw2s0fbfh08q6j6lqjisz3c8w99ms7cjhwhjvb8g2b")))
+
+(define-public crate-rustgraphblas-0.15.0-alpha (c (n "rustgraphblas") (v "0.15.0-alpha") (d (list (d (n "bindgen") (r "^0.58.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "paste") (r "^1.0.4") (d #t) (k 0)))) (h "1f9vsbdbq08x15q8bf65bqjzddix3f99v54va7mdwhrxli4smnlr")))
+
+(define-public crate-rustgraphblas-0.16.0-alpha (c (n "rustgraphblas") (v "0.16.0-alpha") (d (list (d (n "bindgen") (r "^0.58.1") (d #t) (k 1)) (d (n "either") (r "^1.5") (d #t) (k 0)) (d (n "enum-primitive-derive") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "paste") (r "^1.0.4") (d #t) (k 0)))) (h "0m8d8ycgf08a7p2i1sfwzfn0gc3b99nh7pv2gy0ra4afdf8vkgc5")))
+

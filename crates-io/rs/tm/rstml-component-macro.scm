@@ -1,0 +1,16 @@
+(define-module (crates-io rs tm rstml-component-macro) #:use-module (crates-io))
+
+(define-public crate-rstml-component-macro-0.1.0 (c (n "rstml-component-macro") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0gy9k39badk3ji072jc9j1zic3nvb0xidklv8xqp5vb4awqid7v2")))
+
+(define-public crate-rstml-component-macro-0.1.1 (c (n "rstml-component-macro") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1cw4yasg1m2p3j4p1x81f08z01lxndldh2irgf9vjvkf4l7fc90f")))
+
+(define-public crate-rstml-component-macro-0.1.2 (c (n "rstml-component-macro") (v "0.1.2") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1j0mp27sd9w4x1lar3xrwj998v458a5i5iqmw78b576ycnqc5mfc")))
+
+(define-public crate-rstml-component-macro-0.2.0 (c (n "rstml-component-macro") (v "0.2.0") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0h0w8fksb0cgq1nbxhky4kyjycssx5xcqp9c11hy8brgbff77d90")))
+
+(define-public crate-rstml-component-macro-0.2.1 (c (n "rstml-component-macro") (v "0.2.1") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "07ry1xd6j883yzj6d8s56r46h6fzbhslvjrs9lcv4xqqf8ddqc4i")))
+
+(define-public crate-rstml-component-macro-0.2.2 (c (n "rstml-component-macro") (v "0.2.2") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "12c0mnqv2dfbqabnsz1y8cklzis30vg8cxxvm3mwyznv5ji1ql26")))
+
+(define-public crate-rstml-component-macro-0.2.3 (c (n "rstml-component-macro") (v "0.2.3") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "rstml") (r "^0.11") (k 0)) (d (n "syn") (r "^2.0.60") (d #t) (k 0)))) (h "0153f6067486af95sj673g9fdlqbnrdd2bichzpzqfpkrxxa9n4y")))
+

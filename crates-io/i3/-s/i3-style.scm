@@ -1,0 +1,6 @@
+(define-module (crates-io i3 -s i3-style) #:use-module (crates-io))
+
+(define-public crate-i3-style-1.0.1 (c (n "i3-style") (v "1.0.1") (d (list (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "colornamer") (r "^0.1.0") (d #t) (k 0)) (d (n "includedir") (r "^0.4.0") (d #t) (k 0)) (d (n "includedir_codegen") (r "^0.4.0") (d #t) (k 1)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.1") (d #t) (k 0)) (d (n "phf") (r "^0.7.21") (d #t) (k 0)) (d (n "regex") (r "^1.0.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.1") (d #t) (k 2)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "0178jwvirqsfa8ckfn9yrpb0268cjfqb4bh85lr788v0ri1zbjfs")))
+
+(define-public crate-i3-style-1.0.2 (c (n "i3-style") (v "1.0.2") (d (list (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "colornamer") (r "^0.1.0") (d #t) (k 0)) (d (n "includedir") (r "^0.4.0") (d #t) (k 0)) (d (n "includedir_codegen") (r "^0.4.0") (d #t) (k 1)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.1") (d #t) (k 0)) (d (n "phf") (r "^0.7.21") (d #t) (k 0)) (d (n "regex") (r "^1.0.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.1") (d #t) (k 2)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1n66h34wp39gw36ha6hg67li2sl1vdvhspvaj5cv0v2d4931isvc")))
+

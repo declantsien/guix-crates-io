@@ -1,0 +1,4 @@
+(define-module (crates-io co as coasys_juniper_iron) #:use-module (crates-io))
+
+(define-public crate-coasys_juniper_iron-0.8.0 (c (n "coasys_juniper_iron") (v "0.8.0") (d (list (d (n "coasys_juniper") (r "^0.16.0") (k 0)) (d (n "coasys_juniper") (r "^0.16.0") (f (quote ("expose-test-schema"))) (d #t) (k 2)) (d (n "futures") (r "^0.3.22") (d #t) (k 0)) (d (n "iron") (r ">=0.5, <0.7") (d #t) (k 0)) (d (n "iron-test") (r "^0.6") (d #t) (k 2)) (d (n "logger") (r "^0.4") (d #t) (k 2)) (d (n "mount") (r "^0.4") (d #t) (k 2)) (d (n "percent-encoding") (r "^2.0") (d #t) (k 2)) (d (n "router") (r "^0.6") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.18") (d #t) (k 0)) (d (n "url") (r "^2.0") (d #t) (k 2)) (d (n "urlencoded") (r ">=0.5, <0.7") (d #t) (k 0)))) (h "01n507k8pj2kz32pa018rhikb0k77h37pp3nlr3l5qnimjpl21s6") (r "1.65")))
+

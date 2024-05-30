@@ -1,0 +1,8 @@
+(define-module (crates-io cl ia clia-ntex-multipart) #:use-module (crates-io))
+
+(define-public crate-clia-ntex-multipart-0.1.0 (c (n "clia-ntex-multipart") (v "0.1.0") (d (list (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "ntex") (r "^0.5.14") (d #t) (k 0)) (d (n "ntex") (r "^0.5") (f (quote ("tokio"))) (d #t) (k 2)) (d (n "twoway") (r "^0.2") (d #t) (k 0)))) (h "0w75xmm89d9pl6qrsvxk8f12mqbw7dylpsdyihivpi38jkjllnya")))
+
+(define-public crate-clia-ntex-multipart-0.2.0 (c (n "clia-ntex-multipart") (v "0.2.0") (d (list (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "ntex") (r "^0.6.0-beta.0") (d #t) (k 0)) (d (n "ntex") (r "^0.6.0-beta.0") (f (quote ("tokio"))) (d #t) (k 2)) (d (n "twoway") (r "^0.2") (d #t) (k 0)))) (h "17v3g69pqqa5kisbx6iinmfa2m4l4vw2ys19bpazc4f7j5jj00rx")))
+
+(define-public crate-clia-ntex-multipart-0.3.0 (c (n "clia-ntex-multipart") (v "0.3.0") (d (list (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "ntex") (r "^0.7.0") (d #t) (k 0)) (d (n "ntex") (r "^0.7.0") (f (quote ("tokio"))) (d #t) (k 2)) (d (n "twoway") (r "^0.2") (d #t) (k 0)))) (h "1ijq81fh6xawjx1syi1jn3zg16z362ka3figlamx2xayycdp8rrs")))
+

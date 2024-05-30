@@ -1,0 +1,12 @@
+(define-module (crates-io mw at mwatch-sdk) #:use-module (crates-io))
+
+(define-public crate-mwatch-sdk-0.1.0 (c (n "mwatch-sdk") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.5.7") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.3") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.3.1") (d #t) (k 2)) (d (n "embedded-graphics") (r "^0.4.4") (d #t) (k 0)) (d (n "mwatch-sdk-core") (r "^0.1.0") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.5.0") (d #t) (k 2)))) (h "0rsr7ip4wnc3i2wrr6hym0jb0v0np6bi7y0313sybz2zcalsainx")))
+
+(define-public crate-mwatch-sdk-0.2.0 (c (n "mwatch-sdk") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.5.7") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.3") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.3.1") (d #t) (k 2)) (d (n "embedded-graphics") (r "^0.4.4") (d #t) (k 0)) (d (n "heapless") (r "^0.4.1") (f (quote ("const-fn"))) (d #t) (k 2)) (d (n "mwatch_kernel") (r "^0.8.0") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.5.0") (d #t) (k 2)))) (h "01ni4jnd1f63cvmw7cf89gnrxnh6z635dr12l02p45jnd83pz827")))
+
+(define-public crate-mwatch-sdk-0.3.0 (c (n "mwatch-sdk") (v "0.3.0") (d (list (d (n "cortex-m") (r "^0.5.7") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.3") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.3.1") (d #t) (k 2)) (d (n "embedded-graphics") (r "^0.4.4") (d #t) (k 0)) (d (n "heapless") (r "^0.4.1") (d #t) (k 2)) (d (n "mwatch_kernel") (r "^0.9.0") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.5.0") (d #t) (k 2)))) (h "0gy61cg0alv5kdnbp17gbam1g8zm1wm6wjh6wz8rjzx1zv92c9zq")))
+
+(define-public crate-mwatch-sdk-0.4.0 (c (n "mwatch-sdk") (v "0.4.0") (d (list (d (n "cortex-m") (r "^0.5.7") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.3") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.3.1") (d #t) (k 2)) (d (n "embedded-graphics") (r "^0.4.4") (d #t) (k 0)) (d (n "heapless") (r "^0.4.1") (d #t) (k 2)) (d (n "mwatch_kernel") (r "^1.0.0") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.5.0") (d #t) (k 2)))) (h "0mqqqim4wxlrcyb9ykcswkbiykv782nwig9c89xc49rpli94y8wd") (f (quote (("panic-log"))))))
+
+(define-public crate-mwatch-sdk-0.5.0 (c (n "mwatch-sdk") (v "0.5.0") (d (list (d (n "embedded-graphics") (r "^0.7.1") (d #t) (k 0)) (d (n "heapless") (r "^0.4.1") (d #t) (k 2)) (d (n "mwatch-kernel") (r "^2.0.0") (d #t) (k 0) (p "mwatch_kernel")))) (h "1bgwd43ch8ld7nj38q0fbys39l3l89r6lb2wf11rscgkmfy2grp7") (f (quote (("panic-simple") ("panic-log") ("default" "panic-simple"))))))
+

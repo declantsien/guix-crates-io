@@ -1,0 +1,12 @@
+(define-module (crates-io un mi unmillis) #:use-module (crates-io))
+
+(define-public crate-unmillis-1.0.2 (c (n "unmillis") (v "1.0.2") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.1.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1n4h8dg0garwf15kp5qzm3dlyhliav3fv3ai81pjl8g92j5xjka2")))
+
+(define-public crate-unmillis-1.0.3 (c (n "unmillis") (v "1.0.3") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.1.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1x5svvb61xc48l60gmm0kl53mqbsj8rnr2savlil5mrasfr90h9w")))
+
+(define-public crate-unmillis-1.0.4 (c (n "unmillis") (v "1.0.4") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.1.2") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "trycmd") (r "^0.12.2") (d #t) (k 2)))) (h "0l8xr2jfdfnc39wcwb38phw25sx8110fwppa88xavvf2v0392swk")))
+
+(define-public crate-unmillis-1.0.5 (c (n "unmillis") (v "1.0.5") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.2.7") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "trycmd") (r "^0.14.10") (d #t) (k 2)))) (h "1iy7wwc1apg8sjlh7nkwrfp1xhr2gsl5brmy6vs9f7papgggcdyd")))
+
+(define-public crate-unmillis-1.0.7 (c (n "unmillis") (v "1.0.7") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.2.7") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.44") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "trycmd") (r "^0.14.10") (d #t) (k 2)))) (h "1l0k2568pm41r4a0s9d93fxjc2a9wd68d8nxdv56kcgf3qr1fv5v")))
+

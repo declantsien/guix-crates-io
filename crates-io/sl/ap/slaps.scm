@@ -1,0 +1,10 @@
+(define-module (crates-io sl ap slaps) #:use-module (crates-io))
+
+(define-public crate-slaps-0.2.0 (c (n "slaps") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "rustyline") (r "^6.2.0") (d #t) (k 0)))) (h "0k710ii41hhpi51swwwkbpgflvc1fv3q5cmjxjszsj3bh0abr49y")))
+
+(define-public crate-slaps-0.2.1 (c (n "slaps") (v "0.2.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "rustyline") (r "^6.2.0") (d #t) (k 0)))) (h "05xxq4lqcha4xi7k4rcn1b54jh85c4958rh39yb11vjdbgd7nsi7") (y #t)))
+
+(define-public crate-slaps-0.2.2 (c (n "slaps") (v "0.2.2") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "rustyline") (r "^6.2.0") (d #t) (k 0)))) (h "124n8z2lv750d79a5lh4gcv361r1flm8r13xcil5rqncd0dhd49w")))
+
+(define-public crate-slaps-0.2.3 (c (n "slaps") (v "0.2.3") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "rustyline") (r "^6.2.0") (d #t) (k 0)))) (h "1nh6n224g3vxss2cpk4i44yl56ij7iwvh9r89rlq7qbrkv8qcxxs")))
+

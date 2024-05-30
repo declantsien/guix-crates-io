@@ -1,0 +1,8 @@
+(define-module (crates-io yq -s yq-scheduler) #:use-module (crates-io))
+
+(define-public crate-yq-scheduler-0.3.0 (c (n "yq-scheduler") (v "0.3.0") (d (list (d (n "redis") (r "^0.22") (f (quote ("tokio-comp" "connection-manager"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "yq") (r "^0.3") (d #t) (k 0)))) (h "0ykf1fd0mi1nk5jsd4bin9fk9vpl4nb201lcs92yhkazchmqnn2n")))
+
+(define-public crate-yq-scheduler-0.3.1 (c (n "yq-scheduler") (v "0.3.1") (d (list (d (n "redis") (r "^0.22") (f (quote ("tokio-comp" "connection-manager"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "yq") (r "^0.3") (d #t) (k 0)))) (h "098mmq7z007h7w822v0alcvrfz4b9il1kv6jkfxxn4vblnam03gg")))
+
+(define-public crate-yq-scheduler-0.4.1 (c (n "yq-scheduler") (v "0.4.1") (d (list (d (n "redis") (r "^0.23") (f (quote ("tokio-comp" "connection-manager"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "yq") (r "^0.4") (d #t) (k 0)))) (h "12v1ymlxim8z3hsrxxz8dvfwkclvjz10kx8k323v1bgm73j14c0m")))
+

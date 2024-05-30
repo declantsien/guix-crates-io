@@ -1,0 +1,10 @@
+(define-module (crates-io un ev uneval_static) #:use-module (crates-io))
+
+(define-public crate-uneval_static-0.0.1 (c (n "uneval_static") (v "0.0.1") (d (list (d (n "phf") (r "^0.11.2") (d #t) (k 2)) (d (n "phf_codegen") (r "^0.11.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "17cc9zsc9s79lc0liri57xk2kc6yp89grdjkha8gqwp06i496n04")))
+
+(define-public crate-uneval_static-0.1.0 (c (n "uneval_static") (v "0.1.0") (d (list (d (n "phf") (r "^0.11.2") (d #t) (k 2)) (d (n "phf_codegen") (r "^0.11.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "0zgivf4zp47wdjjphlgl5jfn3dnx3v253cwc2qrwfgs4gjznlzll")))
+
+(define-public crate-uneval_static-0.1.1 (c (n "uneval_static") (v "0.1.1") (d (list (d (n "phf") (r "^0.11.2") (d #t) (k 2)) (d (n "phf_codegen") (r "^0.11.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "0iqx9zn77fd4b9xx2dy9d3p3gv9dra8cb9y5wipzrsyxlgz7i78k")))
+
+(define-public crate-uneval_static-0.1.2 (c (n "uneval_static") (v "0.1.2") (d (list (d (n "phf") (r "^0.11.2") (d #t) (k 2)) (d (n "phf_codegen") (r "^0.11.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "17q1rar0i0dx33ckarhj4khahrrdq18ysn1kbg141wbbfpqky4x6")))
+

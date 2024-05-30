@@ -1,0 +1,40 @@
+(define-module (crates-io no m- nom-supreme) #:use-module (crates-io))
+
+(define-public crate-nom-supreme-0.1.0 (c (n "nom-supreme") (v "0.1.0") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "12i5ii6zsgv4yjsgh374fc8n6ig7hcg9lq1kr5ig17j26rismpah")))
+
+(define-public crate-nom-supreme-0.1.1 (c (n "nom-supreme") (v "0.1.1") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0rylx5s5xbc5kkqwq9j4wi9fchq8kq72adzqr82q653mf8594rm0")))
+
+(define-public crate-nom-supreme-0.1.2 (c (n "nom-supreme") (v "0.1.2") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "07dbc0hbzn67216xl808200d42hg21y8nh0bi7l19n39icrg98rj")))
+
+(define-public crate-nom-supreme-0.1.3 (c (n "nom-supreme") (v "0.1.3") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0krqsrn1jdmvk932j1v1jbaxq931p0k0piisk1dwfh56q98wig61")))
+
+(define-public crate-nom-supreme-0.1.4 (c (n "nom-supreme") (v "0.1.4") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "1n3hqcj8cj7rwkx4r7l861ymrdpwy6dmhgnkrp627b75z7hh4jra")))
+
+(define-public crate-nom-supreme-0.2.0 (c (n "nom-supreme") (v "0.2.0") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "1m6216w6xw3fkb4k2s7ssrh8xdvcm4rg7824spm8j009gfbvavib")))
+
+(define-public crate-nom-supreme-0.3.0 (c (n "nom-supreme") (v "0.3.0") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.2") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "1hmzwdr5ph50lzg9vvxpwxhkhs4d964zy261jny6ii0n1iaial7q")))
+
+(define-public crate-nom-supreme-0.3.1 (c (n "nom-supreme") (v "0.3.1") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "1sbv7rm9h82zdpm2sarrk5g5sgp7njy1b6qd9nqnlp8z4g5xpr49")))
+
+(define-public crate-nom-supreme-0.4.0 (c (n "nom-supreme") (v "0.4.0") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0l9cyakycg7dk1b9bpn4nnhbmyckk3ygrd0bcgfm0lby3rchx1n0")))
+
+(define-public crate-nom-supreme-0.4.1 (c (n "nom-supreme") (v "0.4.1") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "1g63s5wr6k91dm1sl33926lzw1pnninzafw6n8j41n691arg0zm4")))
+
+(define-public crate-nom-supreme-0.4.2 (c (n "nom-supreme") (v "0.4.2") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0prkgiv4spdqgr5ak9gzd1maqxbyms7zk3kb4y5566p1nbsk6qfn")))
+
+(define-public crate-nom-supreme-0.4.3 (c (n "nom-supreme") (v "0.4.3") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0i89cchkv4m6yiv4xsvvr7vkvmcmr34lyc49iklidfxrs7imckqy")))
+
+(define-public crate-nom-supreme-0.4.4 (c (n "nom-supreme") (v "0.4.4") (d (list (d (n "cascade") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0bvi5bhzylg7v2wlkircdzkwxilqgwzrzqz3qpf7aaigc1j94fqk")))
+
+(define-public crate-nom-supreme-0.4.5 (c (n "nom-supreme") (v "0.4.5") (d (list (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "09m1y0mxyinnd2aycik3dy4qswli5nwhl2ir0v9vq80q42nzmm5c")))
+
+(define-public crate-nom-supreme-0.4.6 (c (n "nom-supreme") (v "0.4.6") (d (list (d (n "brownstone") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "1a2r0hikiv5d25rsns0qzsxnvgzjbbmr59aqggw0d3mvd2svp2z0")))
+
+(define-public crate-nom-supreme-0.5.0 (c (n "nom-supreme") (v "0.5.0") (d (list (d (n "brownstone") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r "^6.0.1") (d #t) (k 0)))) (h "0lhx7am7gr4gfn09g03sjvhf6c3a52ygqwkkx7lk0iy7f26003a3")))
+
+(define-public crate-nom-supreme-0.6.0 (c (n "nom-supreme") (v "0.6.0") (d (list (d (n "brownstone") (r "^1.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r ">=6.0.1, <8.0.0") (d #t) (k 0)))) (h "17xwc3nb26apssxvkjvyd60x816iig6w9r1vl1fvdxj835indp5a")))
+
+(define-public crate-nom-supreme-0.7.0 (c (n "nom-supreme") (v "0.7.0") (d (list (d (n "brownstone") (r "^1.0.0") (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (k 0)) (d (n "nom") (r ">=6.0.1, <8.0.0") (k 0)))) (h "1q1hgwabnmzd0hvzijrdd8g26xyn0n1c9hmbak0da6ipm0jrp41g") (f (quote (("std" "memchr/std" "nom/std") ("error" "std" "indent_write" "joinery"))))))
+
+(define-public crate-nom-supreme-0.8.0 (c (n "nom-supreme") (v "0.8.0") (d (list (d (n "brownstone") (r "^3.0.0") (d #t) (k 0)) (d (n "cool_asserts") (r "^1.0.3") (d #t) (k 2)) (d (n "indent_write") (r "^2.0.0") (d #t) (k 0)) (d (n "joinery") (r "^2.0.0") (d #t) (k 0)) (d (n "memchr") (r "^2.3.4") (d #t) (k 0)) (d (n "nom") (r ">=6.0.1, <8.0.0") (d #t) (k 0)))) (h "09xbvjqwbb7l5sfam4gzp7n93d14bp4m3zsrhxc5j68zj1naxlrb")))
+

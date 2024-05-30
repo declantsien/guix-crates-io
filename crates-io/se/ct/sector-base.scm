@@ -1,0 +1,4 @@
+(define-module (crates-io se ct sector-base) #:use-module (crates-io))
+
+(define-public crate-sector-base-0.2.0 (c (n "sector-base") (v "0.2.0") (d (list (d (n "bitvec") (r "^0.11") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "ffi-toolkit") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "paired") (r "^0.15") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.9.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "storage-proofs") (r "^0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1bim4d3xdd54vsxs8qs565jqsa9r7zqgcdf1vbv2ahzq6vvs3yvl")))
+

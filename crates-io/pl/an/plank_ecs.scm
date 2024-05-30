@@ -1,0 +1,6 @@
+(define-module (crates-io pl an plank_ecs) #:use-module (crates-io))
+
+(define-public crate-plank_ecs-0.1.0 (c (n "plank_ecs") (v "0.1.0") (d (list (d (n "entity_component") (r "^0.100.0") (k 0)) (d (n "world_dispatcher") (r "^0.100.0") (k 0)))) (h "1jds5ammcb596qipkyjrmzzgbf9j2klmhsf4cdlkwgs30k59v82g") (f (quote (("ser" "entity_component/serde") ("profiler" "world_dispatcher/profiler") ("parallel" "world_dispatcher/parallel") ("keysize32" "entity_component/keysize32") ("keysize24" "entity_component/keysize24") ("keysize20" "entity_component/keysize20") ("keysize16" "entity_component/keysize16") ("default" "keysize16") ("big_systems" "world_dispatcher/big_systems"))))))
+
+(define-public crate-plank_ecs-0.1.1 (c (n "plank_ecs") (v "0.1.1") (d (list (d (n "entity_component") (r "^0.100.0") (k 0)) (d (n "world_dispatcher") (r "^0.100.0") (k 0)))) (h "0vpymya818qkr5ncf5ifsy4q9j5ylips4bdilbpyala9rzxsbs7g") (f (quote (("ser" "entity_component/serde") ("profiler" "world_dispatcher/profiler") ("parallel" "world_dispatcher/parallel") ("keysize32" "entity_component/keysize32") ("keysize24" "entity_component/keysize24") ("keysize20" "entity_component/keysize20") ("keysize16" "entity_component/keysize16") ("default" "keysize16") ("big_systems" "world_dispatcher/big_systems"))))))
+

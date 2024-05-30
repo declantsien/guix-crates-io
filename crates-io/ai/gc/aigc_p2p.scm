@@ -1,0 +1,4 @@
+(define-module (crates-io ai gc aigc_p2p) #:use-module (crates-io))
+
+(define-public crate-aigc_p2p-5.1.2 (c (n "aigc_p2p") (v "5.1.2") (d (list (d (n "aigc_chain") (r "^5.1.2") (d #t) (k 0)) (d (n "aigc_core") (r "^5.1.2") (d #t) (k 0)) (d (n "aigc_pool") (r "^5.1.2") (d #t) (k 2)) (d (n "aigc_store") (r "^5.1.2") (d #t) (k 0)) (d (n "aigc_util") (r "^5.1.2") (d #t) (k 0)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (f (quote ("serde"))) (d #t) (k 0)) (d (n "enum_primitive") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru-cache") (r "^0.1") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "0aljxr20q10l7ms4v7v71lk0czh9fhfvv2jz1b49rr2r499mrhc0")))
+

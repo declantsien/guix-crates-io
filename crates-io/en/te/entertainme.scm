@@ -1,0 +1,6 @@
+(define-module (crates-io en te entertainme) #:use-module (crates-io))
+
+(define-public crate-entertainme-0.1.0 (c (n "entertainme") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0cw2021yyj3n6vhc1ql3v0w5q5qcgmfw69rh8d091ynaf4l6qp8m")))
+
+(define-public crate-entertainme-0.1.1 (c (n "entertainme") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "scraper") (r "^0.12.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0vzc9wm6c1p4p5231diqg1l60p89riimkczxjm4q689mxq386zgd")))
+

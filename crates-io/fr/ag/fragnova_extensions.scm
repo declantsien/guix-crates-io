@@ -1,0 +1,4 @@
+(define-module (crates-io fr ag fragnova_extensions) #:use-module (crates-io))
+
+(define-public crate-fragnova_extensions-0.1.0 (c (n "fragnova_extensions") (v "0.1.0") (d (list (d (n "ink_env") (r "^3.3") (k 0)) (d (n "ink_lang") (r "^3.3") (k 0)) (d (n "ink_prelude") (r "^3.3") (k 0)) (d (n "protos") (r "^0.1.26") (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2") (f (quote ("derive"))) (o #t) (k 0)) (d (n "sp-fragnova") (r "^0.1.0") (k 0)) (d (n "sp-io") (r "^6.0.0") (f (quote ("disable_panic_handler" "disable_oom" "disable_allocator"))) (k 0)))) (h "0gm68dbb1ldlyrkrrx8jiba0ypls00z02n2m06zykcw3akd2fyyr") (f (quote (("std" "ink_env/std" "ink_prelude/std" "scale/std" "scale-info/std" "sp-fragnova/std" "sp-io/std" "protos/std") ("default" "std"))))))
+

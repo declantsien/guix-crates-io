@@ -1,0 +1,4 @@
+(define-module (crates-io op td optd-datafusion-bridge) #:use-module (crates-io))
+
+(define-public crate-optd-datafusion-bridge-0.0.0 (c (n "optd-datafusion-bridge") (v "0.0.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "arrow-schema") (r "^47.0.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "datafusion") (r "^32.0.0") (d #t) (k 0)) (d (n "datafusion-expr") (r "^32.0.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "optd-core") (r "^0.0.0") (d #t) (k 0)) (d (n "optd-datafusion-repr") (r "^0.0.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1gjg8kghwic7n8ccq23jf6kcynasjvhabx066wg11xvm6dznnqsm")))
+

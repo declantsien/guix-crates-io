@@ -1,0 +1,6 @@
+(define-module (crates-io ar mo armory_wallet_checksum_searcher) #:use-module (crates-io))
+
+(define-public crate-armory_wallet_checksum_searcher-0.2.6 (c (n "armory_wallet_checksum_searcher") (v "0.2.6") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11.3") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "simple_logger") (r "^1.16.0") (d #t) (k 0)))) (h "0bk0pvh1swaa3j9aiwmv3990slhb6nkwkq226lm82b2z7bcw2xwc")))
+
+(define-public crate-armory_wallet_checksum_searcher-0.3.0 (c (n "armory_wallet_checksum_searcher") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11.3") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "simple_logger") (r "^1.16.0") (d #t) (k 0)))) (h "099pc8clyp5nbp9dyx80p2nj5xqkzb47lrcca2dixhmlhv5rcbk4")))
+

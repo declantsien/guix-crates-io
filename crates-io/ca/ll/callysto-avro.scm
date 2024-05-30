@@ -1,0 +1,6 @@
+(define-module (crates-io ca ll callysto-avro) #:use-module (crates-io))
+
+(define-public crate-callysto-avro-0.1.1 (c (n "callysto-avro") (v "0.1.1") (d (list (d (n "apache-avro") (r "^0.16") (d #t) (k 0)) (d (n "callysto") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "cuneiform-fields") (r "^0.1.1") (d #t) (k 0)) (d (n "futures-lite") (r "^2.1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0z1ry4ilxfaz38b40hrh0pwaw160s5wfw7d4d8r6f2lxivxvg3ia") (r "1.60")))
+
+(define-public crate-callysto-avro-0.1.2 (c (n "callysto-avro") (v "0.1.2") (d (list (d (n "apache-avro") (r "^0.16") (d #t) (k 0)) (d (n "callysto") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "cuneiform-fields") (r "^0.1.1") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "polars") (r "^0.36") (f (quote ("avro"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1hj7171icjbqckmvbvql9lxcxna1g5wm1l2dm1fdc43pnlrb03sc") (r "1.60")))
+

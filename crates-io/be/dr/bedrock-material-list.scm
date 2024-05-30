@@ -1,0 +1,6 @@
+(define-module (crates-io be dr bedrock-material-list) #:use-module (crates-io))
+
+(define-public crate-bedrock-material-list-0.1.0 (c (n "bedrock-material-list") (v "0.1.0") (d (list (d (n "bedrock-hematite-nbt") (r "^0.4.2") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "snailquote") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^1.11") (f (quote ("full"))) (d #t) (k 0)))) (h "0w6svv5lw3qnbh72vf2n48ci9dbaq1435bdkfcyv5h8kj2kc8q79")))
+
+(define-public crate-bedrock-material-list-0.2.0 (c (n "bedrock-material-list") (v "0.2.0") (d (list (d (n "bedrock-hematite-nbt") (r "^0.4.2") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "snailquote") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^1.11") (f (quote ("full"))) (d #t) (k 0)))) (h "1vi8hyy08jq06yv0qbp6228l620099a6wn6cfdlscaxd9w7gnyzp")))
+

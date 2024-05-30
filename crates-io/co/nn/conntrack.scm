@@ -1,0 +1,8 @@
+(define-module (crates-io co nn conntrack) #:use-module (crates-io))
+
+(define-public crate-conntrack-0.1.0 (c (n "conntrack") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.141") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "neli") (r "^0.6.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1fmpi27hk2ld2v56xxyg787w8jdklyzwpjgyp77knnp7wyyb76w1")))
+
+(define-public crate-conntrack-0.1.1 (c (n "conntrack") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.141") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "neli") (r "^0.6.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1snlx27p4jalx5s1r3xk6b4bcwxjyyg38z6gajvl7mr9lxhjwkr4")))
+
+(define-public crate-conntrack-0.1.2 (c (n "conntrack") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "libc") (r "^0.2.141") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "neli") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0w7mpmy66abz95f77vz3zx69kzmmn3590g4frrfy6b3gwj1n47y6")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io gy m- gym-rs) #:use-module (crates-io))
+
+(define-public crate-gym-rs-0.2.1 (c (n "gym-rs") (v "0.2.1") (d (list (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "find_folder") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "num") (r "^0.3.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.1") (d #t) (k 0)))) (h "17gya0nq8w8hq9p47fajq2c3mbkp5fap3hc4jymlba7gl7lv6fm6")))
+
+(define-public crate-gym-rs-0.3.0 (c (n "gym-rs") (v "0.3.0") (d (list (d (n "cosyne") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "derive-new") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r ">=3.9.1") (f (quote ("serde" "rand"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "sdl2") (r "^0.35") (f (quote ("bundled" "gfx"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "105v26jr6slw9h5yxbdxplsgqdhhajp6x99iy9p1fjsk66l801pi")))
+

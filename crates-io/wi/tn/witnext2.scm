@@ -1,0 +1,8 @@
+(define-module (crates-io wi tn witnext2) #:use-module (crates-io))
+
+(define-public crate-witnext2-0.1.0 (c (n "witnext2") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "id-arena") (r "^2") (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "wast") (r "^33") (o #t) (k 0)) (d (n "witx") (r "^0.10.0-beta2") (o #t) (d #t) (k 0) (p "witnext")))) (h "0k88y21cmhmrsy43g3n5p6hnk6mglvg4cbai792xjy75dqzhkhp2") (f (quote (("old-witx-compat" "witx" "wast"))))))
+
+(define-public crate-witnext2-0.1.1 (c (n "witnext2") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "id-arena") (r "^2") (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "wast") (r "^32") (o #t) (k 0)) (d (n "witx") (r "^0.10.0-beta2") (o #t) (d #t) (k 0) (p "witnext")))) (h "0q3zrsmd8s3492pmkz2zd9n4xnlrc25n391m6yhrbkkm2hxqn31y") (f (quote (("old-witx-compat" "witx" "wast"))))))
+
+(define-public crate-witnext2-0.1.2 (c (n "witnext2") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "id-arena") (r "^2") (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "wast") (r "^33") (o #t) (k 0)) (d (n "witx") (r "^0.10.0-beta3") (o #t) (d #t) (k 0) (p "witnext")))) (h "010h4bi926qs7pnki01d7y85rflhxinfwima6bqlyhk2lybqs6bv") (f (quote (("old-witx-compat" "witx" "wast"))))))
+

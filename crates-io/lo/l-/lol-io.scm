@@ -1,0 +1,4 @@
+(define-module (crates-io lo l- lol-io) #:use-module (crates-io))
+
+(define-public crate-lol-io-0.0.1 (c (n "lol-io") (v "0.0.1") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lol-macros") (r "^0.0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "trybuild") (r "^1") (d #t) (k 2)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)) (d (n "windows-sys") (r "^0.52") (f (quote ("Win32_Foundation" "Win32_Security" "Win32_Storage_FileSystem" "Win32_System_SystemInformation" "Win32_System_IO" "Win32_System_Kernel" "Win32_System_Pipes" "Win32_System_Threading" "Win32_System_SystemServices"))) (d #t) (t "cfg(windows)") (k 0)))) (h "00yq7yyvlsqbnh9ha1gsb3p9fkcc87r0gj3pd9ab1v7gf66r5ax0") (f (quote (("tracking") ("default"))))))
+

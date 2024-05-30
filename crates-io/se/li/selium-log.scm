@@ -1,0 +1,4 @@
+(define-module (crates-io se li selium-log) #:use-module (crates-io))
+
+(define-public crate-selium-log-0.1.0 (c (n "selium-log") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crc32c") (r "^0.6") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("async_tokio"))) (d #t) (k 2)) (d (n "fake") (r "^2.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "memmap2") (r "^0.9") (d #t) (k 0)) (d (n "tempfile") (r "^3.10") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("fs" "io-util" "time" "macros" "rt-multi-thread" "rt"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (d #t) (k 0)))) (h "1jl3jjfgqr0jj8n18jfva1fw6bkq62n4g5sgviyhmzwvhh9zn96n")))
+

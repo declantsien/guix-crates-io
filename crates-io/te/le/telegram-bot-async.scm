@@ -1,0 +1,4 @@
+(define-module (crates-io te le telegram-bot-async) #:use-module (crates-io))
+
+(define-public crate-telegram-bot-async-0.8.2 (c (n "telegram-bot-async") (v "0.8.2") (d (list (d (n "antidote") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.21") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures-async-stream") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.13.1") (f (quote ("runtime" "stream"))) (o #t) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "telegram-bot-async-raw") (r "= 0.8.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("full"))) (d #t) (k 0)))) (h "0wrqw4dfaldk6g42py8snf6jmprc7p7f045q2v6xhi9idrrf5dni") (f (quote (("hyper_connector" "hyper" "hyper-tls") ("default" "hyper_connector"))))))
+

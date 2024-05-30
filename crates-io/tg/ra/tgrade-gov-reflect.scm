@@ -1,0 +1,6 @@
+(define-module (crates-io tg ra tgrade-gov-reflect) #:use-module (crates-io))
+
+(define-public crate-tgrade-gov-reflect-0.6.1 (c (n "tgrade-gov-reflect") (v "0.6.1") (d (list (d (n "cosmwasm-schema") (r "^1.0.0-beta5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0-beta5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.11.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "tg-bindings") (r "^0.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0f7p8xl98nkwmjbcjqn9r6npiry9gn2ca8k7fcq3hmcrv9cbjqfx") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-tgrade-gov-reflect-0.7.0-alpha1 (c (n "tgrade-gov-reflect") (v "0.7.0-alpha1") (d (list (d (n "cosmwasm-schema") (r "^1.0.0-beta5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0-beta5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.12.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "tg-bindings") (r "^0.7.0-alpha1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "04gx487dik0cwfi5p8qim4mkkah7zwzgrij43py93hdhwk0ri80r") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+

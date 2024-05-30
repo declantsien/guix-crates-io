@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hyper-tor-connector) #:use-module (crates-io))
+
+(define-public crate-hyper-tor-connector-0.1.0 (c (n "hyper-tor-connector") (v "0.1.0") (d (list (d (n "arti-client") (r "^0.8") (f (quote ("tokio"))) (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "tcp"))) (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-socks") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "tor-rtcompat") (r "^0.8") (f (quote ("tokio"))) (o #t) (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)))) (h "1hf3c35m9aqb9mi1h49k07zwlz4p08w0p57a8vgyvpgf26fmjndx") (f (quote (("socks" "tokio-socks") ("default" "socks") ("arti" "arti-client" "tor-rtcompat"))))))
+

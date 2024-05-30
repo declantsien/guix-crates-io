@@ -1,0 +1,16 @@
+(define-module (crates-io #{2}# cw) #:use-module (crates-io))
+
+(define-public crate-cw-0.1.0 (c (n "cw") (v "0.1.0") (d (list (d (n "bytecount") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "06w5b6l28zfzcyp0sc78dxs82m8gqbb26s9916hr5ppi32xayzf1") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+
+(define-public crate-cw-0.2.0 (c (n "cw") (v "0.2.0") (d (list (d (n "bytecount") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.46") (d #t) (k 0)) (d (n "memchr") (r "^2.1.2") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "1kgdkf0c52y0n4hb1sbmixzf64k6d63lizl4ksz7mx1mmjkcnzyw") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+
+(define-public crate-cw-0.3.0 (c (n "cw") (v "0.3.0") (d (list (d (n "bytecount") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.46") (d #t) (k 0)) (d (n "memchr") (r "^2.1.2") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "1iphi3vlpgx9826hdhn16a2p5pllyjjp6kn7kxgc7vswp7988ya1") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+
+(define-public crate-cw-0.4.0 (c (n "cw") (v "0.4.0") (d (list (d (n "bytecount") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.46") (d #t) (k 0)) (d (n "memchr") (r "^2.1.2") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "10dl2v63qkx0pls8x2kxskigvdnkks3fkbpswb7jbwby3n7fmg04") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+
+(define-public crate-cw-0.5.0 (c (n "cw") (v "0.5.0") (d (list (d (n "bytecount") (r "^0.4.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3.6") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.6.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.46") (d #t) (k 0)) (d (n "memchr") (r "^2.1.2") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)))) (h "115bbdxflmmmspc2zb1jfm15k0hsnw36vhj995zpcsb60l9d7nfj") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+
+(define-public crate-cw-0.6.0 (c (n "cw") (v "0.6.0") (d (list (d (n "bytecount") (r "^0.5") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "memchr") (r "^2.1") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "1vf1h1fi3mk99js4j1zp9z9fwxq121biv1vi2xgllirdz3qwqplm") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+
+(define-public crate-cw-0.7.0 (c (n "cw") (v "0.7.0") (d (list (d (n "bstr") (r "^0.2.0") (d #t) (k 0)) (d (n "bytecount") (r "^0.5") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "memchr") (r "^2.1") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)))) (h "1qpq95bxz905186w4sk4nr5w1pa8p311rk6gc6435y9v12z75mwr") (f (quote (("runtime-dispatch-simd" "bytecount/runtime-dispatch-simd") ("generic-simd" "bytecount/generic-simd"))))))
+

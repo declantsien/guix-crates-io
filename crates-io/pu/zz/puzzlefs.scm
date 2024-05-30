@@ -1,0 +1,4 @@
+(define-module (crates-io pu zz puzzlefs) #:use-module (crates-io))
+
+(define-public crate-puzzlefs-0.1.0 (c (n "puzzlefs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.0") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "dir-diff") (r "^0.3.2") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (d #t) (k 0)) (d (n "os_pipe") (r "^1.1.2") (d #t) (k 0)) (d (n "puzzlefs-lib") (r "^0.1.0") (d #t) (k 0)) (d (n "syslog") (r "^6.0.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 2)))) (h "1gknzk3j5j5sxixs2i98v5qzqad7ciazglx320n2dkyw1mgvjhz4")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ra li ralik-repl) #:use-module (crates-io))
+
+(define-public crate-ralik-repl-0.0.1-alpha.0 (c (n "ralik-repl") (v "0.0.1-alpha.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "build-info") (r "^0.0.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "build-info-build") (r "^0.0.19") (d #t) (k 1)) (d (n "ctrlc") (r "^3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "ralik") (r "^0.0.1-alpha.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rustyline") (r "^6") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1adm7vzi542zxrkzchvnnkwqvpjgx8n42cc9sfd52szf9676swja")))
+

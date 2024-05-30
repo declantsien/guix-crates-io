@@ -1,0 +1,6 @@
+(define-module (crates-io as yn async-cmd) #:use-module (crates-io))
+
+(define-public crate-async-cmd-0.1.0 (c (n "async-cmd") (v "0.1.0") (d (list (d (n "bincode") (r "^1.1.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.58") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (f (quote ("std"))) (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.2.16") (d #t) (k 0)) (d (n "threadpool") (r "^1.7.1") (d #t) (k 0)))) (h "1gzrgcwih9wyfhwxhk06xalpyxzw1snln60yzp0473mkk29l965f") (y #t)))
+
+(define-public crate-async-cmd-0.1.1 (c (n "async-cmd") (v "0.1.1") (d (list (d (n "bincode") (r "^1.1.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.58") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (f (quote ("std"))) (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.2.16") (d #t) (k 0)) (d (n "threadpool") (r "^1.7.1") (d #t) (k 0)))) (h "07ynj1sjssic6hrwzssdkv437dghpffhivcy4yajyqpl7dcpfg79")))
+

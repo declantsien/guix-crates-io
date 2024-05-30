@@ -1,0 +1,8 @@
+(define-module (crates-io si lv silver-rs) #:use-module (crates-io))
+
+(define-public crate-silver-rs-0.1.0 (c (n "silver-rs") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "072w902r6sc793z0b479pvzj7k5hgypny4i81dyhjgai3lllv34a")))
+
+(define-public crate-silver-rs-0.1.1 (c (n "silver-rs") (v "0.1.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "18n6kac22wnxcm5x338afdnvs5a1xs3x699z5hgqy8b3jb7r79al")))
+
+(define-public crate-silver-rs-0.2.0-dev (c (n "silver-rs") (v "0.2.0-dev") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (f (quote ("runtime"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3") (d #t) (k 2)) (d (n "scoped-tls") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "0xbpjdr4k8y6n4v5bipl04p17p6dravaknzbg016vk8shm530q0w")))
+

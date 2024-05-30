@@ -1,0 +1,14 @@
+(define-module (crates-io se fr sefr) #:use-module (crates-io))
+
+(define-public crate-sefr-0.2.0 (c (n "sefr") (v "0.2.0") (d (list (d (n "crossterm") (r "^0.9.4") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5") (d #t) (k 0)))) (h "07qz6pnbvbh7gahb17v9qf92vz6zy86mb3in0xsg2qdig23y0y1z")))
+
+(define-public crate-sefr-0.2.1 (c (n "sefr") (v "0.2.1") (d (list (d (n "crossterm") (r "^0.9.4") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5") (d #t) (k 0)))) (h "0n8w7immrd3ln54bs9ymgxg35n7khnfwlsy8k84b6z0syjp0xjhm")))
+
+(define-public crate-sefr-0.2.2 (c (n "sefr") (v "0.2.2") (d (list (d (n "crossterm") (r "^0.9.4") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 0)) (d (n "minreq") (r "^1.1.2") (f (quote ("https"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5") (d #t) (k 0)))) (h "0a7aqjjwqsa8cj58isvcmmlbhsbdklzr1jdy7jbmkkn2qqkz2rcf")))
+
+(define-public crate-sefr-0.2.3 (c (n "sefr") (v "0.2.3") (d (list (d (n "crossterm") (r "^0.9.4") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 0)) (d (n "minreq") (r "^1.1.2") (f (quote ("https"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5") (d #t) (k 0)))) (h "165lnmq3dr3373is1jz47zzlpixwip5pvd5yl2vvwf51d87jhim9")))
+
+(define-public crate-sefr-0.3.0 (c (n "sefr") (v "0.3.0") (d (list (d (n "crossterm") (r "^0.9.4") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 0)) (d (n "minreq") (r "^1.1.2") (f (quote ("https"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5") (d #t) (k 0)))) (h "0gs0f5d3grljvkhrmprzwx1hpijmryf8skdb3pws0kaci1d1765v")))
+
+(define-public crate-sefr-0.3.1 (c (n "sefr") (v "0.3.1") (d (list (d (n "crossterm") (r "^0.9.4") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.11") (d #t) (k 0)) (d (n "minreq") (r "^1.1.2") (f (quote ("https"))) (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "webbrowser") (r "^0.5") (d #t) (k 0)))) (h "1lh5gnfslzdp7935zrldx6npnla10nm31ybyblvwqvfn7x9rnq5y")))
+

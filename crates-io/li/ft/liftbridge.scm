@@ -1,0 +1,8 @@
+(define-module (crates-io li ft liftbridge) #:use-module (crates-io))
+
+(define-public crate-liftbridge-0.1.0 (c (n "liftbridge") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3.0") (d #t) (k 1)))) (h "121q0jnfqxlahawsr1s00bdsijvn0w4x3acqn5l154bk1s1yx85f")))
+
+(define-public crate-liftbridge-0.1.1 (c (n "liftbridge") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3.0") (d #t) (k 1)))) (h "17q1jkmm0gp22qrfadq4hd7lxbgav71pz62c1rnp2ssy2ja2scsc")))
+
+(define-public crate-liftbridge-0.1.2 (c (n "liftbridge") (v "0.1.2") (d (list (d (n "actix-rt") (r "^1.1.1") (d #t) (k 2)) (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "lru") (r "^0.6.0") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3.0") (d #t) (k 1)))) (h "12axcjw24gi4yyyywkxjrw64qmp9755lb9r3hrvgch09bzsg6s7r")))
+

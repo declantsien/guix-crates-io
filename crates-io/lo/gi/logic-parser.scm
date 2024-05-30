@@ -1,0 +1,12 @@
+(define-module (crates-io lo gi logic-parser) #:use-module (crates-io))
+
+(define-public crate-logic-parser-0.1.0 (c (n "logic-parser") (v "0.1.0") (d (list (d (n "assert_json") (r "^0.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "1yfn9qa0076y1kyxf19ka8cm67ix5m5l5l2zlgjc94y55axdv800") (f (quote (("svg-generation") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-logic-parser-1.1.0 (c (n "logic-parser") (v "1.1.0") (d (list (d (n "assert_json") (r "^0.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "07dqdzghsayxnfqzbfb89ckly441bi1mzs60h3vdbh2dz32280dk") (f (quote (("svg-generation") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-logic-parser-1.1.1 (c (n "logic-parser") (v "1.1.1") (d (list (d (n "assert_json") (r "^0.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "1gr2rrg8h17i8r72fd7qm410z0fhyscsk94g6apg5lyffpcin1a8") (f (quote (("svg-generation") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-logic-parser-1.2.0 (c (n "logic-parser") (v "1.2.0") (d (list (d (n "assert_json") (r "^0.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "15jwbpjvdnahpyd7v9a6684i8lpg0jiwl2d7y6qizqkbcchns5yr") (f (quote (("svg-generation") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-logic-parser-1.3.0 (c (n "logic-parser") (v "1.3.0") (d (list (d (n "assert_json") (r "^0.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "0my333czlbrlhb1m53ll6kz8pcgjzv25bqwp8yy7a9bhy3yji1lp") (f (quote (("svg-generation") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io dl -o dl-openvdb-query) #:use-module (crates-io))
+
+(define-public crate-dl-openvdb-query-0.1.0 (c (n "dl-openvdb-query") (v "0.1.0") (d (list (d (n "dl-openvdb-query-sys") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "dlopen_derive") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "15l0yhnmpnwyhll5yhzwm3wfvj5pdqdi2z2zph7rqw21zxs9aj56") (f (quote (("link_lib3delight" "dl-openvdb-query-sys") ("default" "dlopen_derive" "dlopen"))))))
+
+(define-public crate-dl-openvdb-query-0.1.1 (c (n "dl-openvdb-query") (v "0.1.1") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "dl-openvdb-query-sys") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "dlopen_derive") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "0ad6kbsa8rqxghfzfp0q33bs8q9wnk4fp2n96l6mkgglyzdalys0") (f (quote (("link_lib3delight" "dl-openvdb-query-sys") ("default" "dlopen_derive" "dlopen"))))))
+
+(define-public crate-dl-openvdb-query-0.1.2 (c (n "dl-openvdb-query") (v "0.1.2") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "dl-openvdb-query-sys") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "dlopen_derive") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1wkbbjkgrvvvy0wrhf4m9h6f3k3migwxsgkgbw71aahk43xr00ij") (f (quote (("link_lib3delight" "dl-openvdb-query-sys") ("default" "dlopen_derive" "dlopen"))))))
+
+(define-public crate-dl-openvdb-query-0.1.3 (c (n "dl-openvdb-query") (v "0.1.3") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "dl-openvdb-query-sys") (r "^0.1.3") (o #t) (d #t) (k 0)) (d (n "dlopen") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "dlopen_derive") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0khgiic0bqf616sh5fgb9yabcbdcxjrb6iclpiqdhz3hiqg01yjp") (f (quote (("link_lib3delight" "dl-openvdb-query-sys") ("default" "dlopen_derive" "dlopen"))))))
+

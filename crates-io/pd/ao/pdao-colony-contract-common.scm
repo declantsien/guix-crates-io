@@ -1,0 +1,10 @@
+(define-module (crates-io pd ao pdao-colony-contract-common) #:use-module (crates-io))
+
+(define-public crate-pdao-colony-contract-common-0.0.0 (c (n "pdao-colony-contract-common") (v "0.0.0") (d (list (d (n "rust_decimal") (r "^1.25.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "127s8lm41kbr715sq0wv2gv1cx45wp19n5i2i1qsm1zcf337d5ns")))
+
+(define-public crate-pdao-colony-contract-common-0.1.0 (c (n "pdao-colony-contract-common") (v "0.1.0") (d (list (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "pdao-beacon-chain-common") (r "^0.0.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.25.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1zp5510qav0dkcyhlsq6ccmg44nri9f1wnb0jbf1yaqwx64c58fg")))
+
+(define-public crate-pdao-colony-contract-common-0.1.1 (c (n "pdao-colony-contract-common") (v "0.1.1") (d (list (d (n "borsh") (r "^0.9.3") (o #t) (d #t) (k 0)) (d (n "pdao-beacon-chain-common") (r "^0.0.1") (d #t) (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (o #t) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2.0.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "11nhzq5pgf8l9f42vshmgr1x5fvqbxffrxydng96pfxp31r63gc9") (f (quote (("polkadot" "scale" "scale-info" "pdao-beacon-chain-common/polkadot") ("near" "borsh" "pdao-beacon-chain-common/near"))))))
+
+(define-public crate-pdao-colony-contract-common-0.1.2 (c (n "pdao-colony-contract-common") (v "0.1.2") (d (list (d (n "borsh") (r "^0.9.3") (o #t) (d #t) (k 0)) (d (n "pdao-beacon-chain-common") (r "^0.1.0") (d #t) (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (o #t) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2.0.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0phs3z2l27ci4fcnl7b1f4lcsnfsx9dgf66rabp82z44czphdgmv") (f (quote (("polkadot" "scale" "scale-info" "pdao-beacon-chain-common/polkadot") ("near" "borsh" "pdao-beacon-chain-common/near") ("cosmos" "schemars"))))))
+

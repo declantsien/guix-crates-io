@@ -1,0 +1,8 @@
+(define-module (crates-io fa ce facebook-webhook) #:use-module (crates-io))
+
+(define-public crate-facebook-webhook-0.1.0 (c (n "facebook-webhook") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "hmac") (r "^0.11") (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-aux") (r "^2.2") (k 0)) (d (n "serde_json") (r "^1.0") (k 0)) (d (n "serde_qs") (r "^0.8") (k 0)) (d (n "sha-1") (r "^0.9") (k 0)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "1p6i2lgrncy573mzhhkd1scdfajbb7y9m1w16f33fzrsikqrgz0r")))
+
+(define-public crate-facebook-webhook-0.1.1 (c (n "facebook-webhook") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "hmac") (r "^0.11") (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-aux") (r "^2.2") (k 0)) (d (n "serde_json") (r "^1.0") (k 0)) (d (n "serde_qs") (r "^0.8") (k 0)) (d (n "sha-1") (r "^0.9") (k 0)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "00db21i264db6qqzs01h4s14qj1n327z3xzb8wb5m5gwz8cd870z")))
+
+(define-public crate-facebook-webhook-0.1.2 (c (n "facebook-webhook") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("std"))) (k 0)) (d (n "hmac") (r "^0.12") (k 0)) (d (n "http") (r "^0.2") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde-aux") (r "^4") (k 0)) (d (n "serde_json") (r "^1") (k 0)) (d (n "serde_qs") (r "^0.10") (k 0)) (d (n "sha-1") (r "^0.10") (k 0)) (d (n "thiserror") (r "^1") (k 0)))) (h "0ki6spfkmycs80fi9dksgjm92yx4ixansxn92hckschxi2gzvqls")))
+

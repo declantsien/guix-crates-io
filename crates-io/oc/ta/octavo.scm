@@ -1,0 +1,6 @@
+(define-module (crates-io oc ta octavo) #:use-module (crates-io))
+
+(define-public crate-octavo-0.1.0 (c (n "octavo") (v "0.1.0") (d (list (d (n "byteorder") (r "*") (d #t) (k 0)) (d (n "clap") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "num") (r "*") (o #t) (d #t) (k 0)) (d (n "rand") (r "*") (o #t) (d #t) (k 0)) (d (n "rustc-serialize") (r "*") (d #t) (k 0)))) (h "0s5cn8ig0slyzbr86q9343c9c0cpvsgl49gnivp76m1v4b16byvh") (f (quote (("unstable") ("tools" "clap") ("symmetric" "block" "stream") ("stream" "chacha20") ("ssl") ("sha3") ("sha2") ("sha1") ("rsa" "num" "rand") ("ripemd") ("public-key" "rsa") ("md5") ("md4") ("mac" "hmac") ("hmac") ("digest-safe" "sha2" "sha3") ("digest-deprecated" "md4" "md5" "ripemd" "sha1") ("digest" "digest-deprecated" "digest-safe") ("default" "digest" "crypto" "ssl" "tools") ("crypto" "symmetric" "public-key") ("chacha20") ("blowfish") ("block" "blowfish"))))))
+
+(define-public crate-octavo-0.1.1 (c (n "octavo") (v "0.1.1") (d (list (d (n "octavo-crypto") (r "^0.1.0") (d #t) (k 0)) (d (n "octavo-digest") (r "^0.1.0") (d #t) (k 0)) (d (n "octavo-kdf") (r "^0.1.0") (d #t) (k 0)) (d (n "octavo-mac") (r "^0.1.0") (d #t) (k 0)) (d (n "openssl") (r "^0.7.5") (d #t) (k 2)) (d (n "quickcheck") (r "^0.2.24") (d #t) (k 2)))) (h "024k6x379br6xp4rhl3wdvqrcqgy43dymjvn87vk77ldfj2f2fiq") (f (quote (("unstable"))))))
+

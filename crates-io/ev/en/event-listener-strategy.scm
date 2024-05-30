@@ -1,0 +1,16 @@
+(define-module (crates-io ev en event-listener-strategy) #:use-module (crates-io))
+
+(define-public crate-event-listener-strategy-0.1.0 (c (n "event-listener-strategy") (v "0.1.0") (d (list (d (n "event-listener") (r "^3") (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)))) (h "1z99km9lwya36bxhvrz4rsl3nhqhhlnnx7a2gdz4nzpa6177pj8m") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.59")))
+
+(define-public crate-event-listener-strategy-0.2.0 (c (n "event-listener-strategy") (v "0.2.0") (d (list (d (n "event-listener") (r "^3") (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)))) (h "1xa4kq2fbvkbnqz4fjdi1l3x5sh3n2hgjfhqc52lswqyrr4v1kds") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.59")))
+
+(define-public crate-event-listener-strategy-0.3.0 (c (n "event-listener-strategy") (v "0.3.0") (d (list (d (n "event-listener") (r "^3") (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)))) (h "0q0iv6l95g0qh40nqp2qjm8mrsxiwahkyixra7akdnj52cpqasyr") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.59")))
+
+(define-public crate-event-listener-strategy-0.4.0 (c (n "event-listener-strategy") (v "0.4.0") (d (list (d (n "event-listener") (r "^4.0.0") (k 0)) (d (n "futures-lite") (r "^2.0.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)))) (h "1lwprdjqp2ibbxhgm9khw7s7y7k4xiqj5i5yprqiks6mnrq4v3lm") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.59")))
+
+(define-public crate-event-listener-strategy-0.5.0 (c (n "event-listener-strategy") (v "0.5.0") (d (list (d (n "event-listener") (r "^5.0.0") (k 0)) (d (n "futures-lite") (r "^2.0.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)))) (h "148jflvjrq0zrr3dx3srv88jksj1klm4amy3b9fifjdpm75azvgy") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.60")))
+
+(define-public crate-event-listener-strategy-0.5.1 (c (n "event-listener-strategy") (v "0.5.1") (d (list (d (n "event-listener") (r "^5.0.0") (k 0)) (d (n "futures-lite") (r "^2.0.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)))) (h "1cxb9h93snr2kibwn0s5rnds0791g045i1lb8pl0s2yj4g5m2brk") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.60")))
+
+(define-public crate-event-listener-strategy-0.5.2 (c (n "event-listener-strategy") (v "0.5.2") (d (list (d (n "event-listener") (r "^5.0.0") (k 0)) (d (n "futures-lite") (r "^2.0.0") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_family = \"wasm\")") (k 2)))) (h "18f5ri227khkayhv3ndv7yl4rnasgwksl2jhwgafcxzr7324s88g") (f (quote (("std" "event-listener/std") ("default" "std")))) (r "1.60")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ji to jito-geyser-protos) #:use-module (crates-io))
+
+(define-public crate-jito-geyser-protos-0.0.1 (c (n "jito-geyser-protos") (v "0.0.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "prost") (r "^0.11.6") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "solana-account-decoder") (r "~1.14") (d #t) (k 0)) (d (n "solana-sdk") (r "~1.14") (d #t) (k 0)) (d (n "solana-transaction-status") (r "~1.14") (d #t) (k 0)) (d (n "tonic") (r "^0.8.3") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.4") (d #t) (k 1)))) (h "087qadpws812rz9bbm64l5yv885fb7xdcr137nmdipmk3jms42lj")))
+
+(define-public crate-jito-geyser-protos-0.0.2 (c (n "jito-geyser-protos") (v "0.0.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "prost") (r "^0.11.6") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "solana-account-decoder") (r "~1.14") (d #t) (k 0)) (d (n "solana-sdk") (r "~1.14") (d #t) (k 0)) (d (n "solana-transaction-status") (r "~1.14") (d #t) (k 0)) (d (n "tonic") (r "^0.8.3") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8.4") (d #t) (k 1)))) (h "0p7n00nq4r9grmszh8lgdgdzlw9bv8bidgi8gm1zwkwvylbnd0jz")))
+

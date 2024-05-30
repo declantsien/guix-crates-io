@@ -1,0 +1,28 @@
+(define-module (crates-io in cl include-postgres-sql) #:use-module (crates-io))
+
+(define-public crate-include-postgres-sql-0.1.0 (c (n "include-postgres-sql") (v "0.1.0") (d (list (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 0)))) (h "03ab8ydhj33mvpbx0w0z2dx3ry93rhdswcz1b0fs19gynmmwvdn1")))
+
+(define-public crate-include-postgres-sql-0.1.1 (c (n "include-postgres-sql") (v "0.1.1") (d (list (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 0)))) (h "15mv1pr2cyikrqvjv3sjpnnirsrx9z5w8whknidzihiq5b5nw0n9")))
+
+(define-public crate-include-postgres-sql-0.1.2 (c (n "include-postgres-sql") (v "0.1.2") (d (list (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 0)))) (h "15psfpjh6pp1bckp6laica7h60vmwzpphlq0idyg91yavsp9xfil")))
+
+(define-public crate-include-postgres-sql-0.1.3 (c (n "include-postgres-sql") (v "0.1.3") (d (list (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 0)))) (h "0yfjpc959agmbyvgjfphx3q0d1w2hi5yflw0cgr368687ijpya8f")))
+
+(define-public crate-include-postgres-sql-0.1.5 (c (n "include-postgres-sql") (v "0.1.5") (d (list (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "12dh6m25zg7gz74flmiz3crdsjx8mi15ppwf88ywvvvl0hfgsc7d") (f (quote (("tokio" "include-sql/async" "futures"))))))
+
+(define-public crate-include-postgres-sql-0.1.6 (c (n "include-postgres-sql") (v "0.1.6") (d (list (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "0a38mjn33m6l13vjz36537bjcnzmspfzs2sczz5ym5mm8v1bb5lg") (f (quote (("tokio" "include-sql/async" "futures"))))))
+
+(define-public crate-include-postgres-sql-0.1.7 (c (n "include-postgres-sql") (v "0.1.7") (d (list (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "159ismsk9vrvdfhdm0zyvrg06ycad9c7dbv4f9mv3kmsns1m3pm4") (f (quote (("tokio" "include-sql/async" "futures"))))))
+
+(define-public crate-include-postgres-sql-0.1.8 (c (n "include-postgres-sql") (v "0.1.8") (d (list (d (n "bb8-postgres") (r "^0.8") (d #t) (k 2)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "0hdf353ax85gw99g257rsl1n7klynys9s1qimbz8wdzxvvdijl73") (f (quote (("tokio" "include-sql/async" "futures"))))))
+
+(define-public crate-include-postgres-sql-0.1.9 (c (n "include-postgres-sql") (v "0.1.9") (d (list (d (n "bb8-postgres") (r "^0.8") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "0ky7vk8avfsn65w34pcb1f3idcs5q5cm22km0rvqm11la3df7p2h") (f (quote (("tokio" "include-sql/async" "futures-util"))))))
+
+(define-public crate-include-postgres-sql-0.1.10 (c (n "include-postgres-sql") (v "0.1.10") (d (list (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.2") (d #t) (k 0)) (d (n "bb8-postgres") (r "^0.8") (d #t) (k 2)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "1snjbwsn8lnfzxp2c8lc6m0na5fxg8kasy610jsmz33ilpm5lyph") (f (quote (("tokio" "include-sql/async" "futures-util"))))))
+
+(define-public crate-include-postgres-sql-0.2.0 (c (n "include-postgres-sql") (v "0.2.0") (d (list (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.3") (d #t) (k 0)) (d (n "bb8-postgres") (r "^0.8") (d #t) (k 2)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "0jwmch5lckww80s96xqc6vinazkfjjqkhq677x758z3hgzhfla73") (f (quote (("tokio" "include-sql/async" "futures-util"))))))
+
+(define-public crate-include-postgres-sql-0.2.1 (c (n "include-postgres-sql") (v "0.2.1") (d (list (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.3") (d #t) (k 0)) (d (n "bb8-postgres") (r "^0.8") (d #t) (k 2)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "09dilm1acirz1mxm1mamsak5an49lrbnsdhl4082i31z8jcsx4mf") (f (quote (("tokio" "include-sql/async" "futures-util"))))))
+
+(define-public crate-include-postgres-sql-0.2.2 (c (n "include-postgres-sql") (v "0.2.2") (d (list (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "include-sql") (r "^0.3") (d #t) (k 0)) (d (n "bb8-postgres") (r "^0.8") (d #t) (k 2)) (d (n "postgres") (r "^0.19") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 2)))) (h "1n38ilcgx0i6rgp2j6xg3nmhhw6w4wkj742hj6sz63rzbw9dxgqq") (f (quote (("tokio" "include-sql/async" "futures-util"))))))
+

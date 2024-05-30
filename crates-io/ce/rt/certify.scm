@@ -1,0 +1,22 @@
+(define-module (crates-io ce rt certify) #:use-module (crates-io))
+
+(define-public crate-certify-0.1.0 (c (n "certify") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.9") (d #t) (k 0)) (d (n "yasna") (r "^0.3") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "0r34dzwrhlknw374v59j5k8bpk55b9cwrksxrqmxcgsvbfcqqj3y")))
+
+(define-public crate-certify-0.2.0 (c (n "certify") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.9") (d #t) (k 0)) (d (n "yasna") (r "^0.3") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "14shv09hpwry78564x1fdh73qgdsgqhcfh4cgwmv7532z43dvxjg")))
+
+(define-public crate-certify-0.2.1 (c (n "certify") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.9") (d #t) (k 0)) (d (n "yasna") (r "^0.3") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "1mbkc4608lxn3f1ia2d9fns8ncskbrhvh3shw3gh019r2j0zzvzd")))
+
+(define-public crate-certify-0.2.2 (c (n "certify") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.9") (d #t) (k 0)) (d (n "yasna") (r "^0.3") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "03nyf420843iqvqjjbalg6nigzzcykcir0blwqflrhlp7lg3gr69")))
+
+(define-public crate-certify-0.3.0 (c (n "certify") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.12") (d #t) (k 0)) (d (n "yasna") (r "^0.4") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "0ya7rvhkyrpi6fnn92wrmsa6sc7x3jng0b3fs28bdl5h46amaj9v")))
+
+(define-public crate-certify-0.3.1 (c (n "certify") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.12") (d #t) (k 0)) (d (n "yasna") (r "^0.4") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "0k5nvz0gh5k1wlmzdzkz3al4rii64a159r11fplpm3a8w4dp1gxj")))
+
+(define-public crate-certify-0.4.0 (c (n "certify") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^1") (d #t) (k 0)) (d (n "rcgen") (r "^0.8") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.12") (d #t) (k 0)) (d (n "yasna") (r "^0.4") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "12dya93knb9lpr6y7m0xbiz7scgb71wsk382a95db6k9rvw6hwch")))
+
+(define-public crate-certify-0.5.0 (c (n "certify") (v "0.5.0") (d (list (d (n "pem") (r "^1.1.0") (d #t) (k 0)) (d (n "rcgen") (r "^0.10.0") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "x509-parser") (r "^0.14.0") (d #t) (k 0)) (d (n "yasna") (r "^0.5.0") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "07hkqwy4rqwl8qdmr8n3h461v85ck9ajrnzmdxjhbygf1swxl6ql") (y #t)))
+
+(define-public crate-certify-0.5.1 (c (n "certify") (v "0.5.1") (d (list (d (n "pem") (r "^1.1.0") (d #t) (k 0)) (d (n "rcgen") (r "^0.10.0") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "x509-parser") (r "^0.14.0") (d #t) (k 0)) (d (n "yasna") (r "^0.5.0") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "05npacnka3fhvn8bghc9dxba3pqcn56h9wjmfv6pwjp8sp2bsrmf")))
+
+(define-public crate-certify-0.5.2 (c (n "certify") (v "0.5.2") (d (list (d (n "pem") (r "^1.1.0") (d #t) (k 0)) (d (n "rcgen") (r "^0.10.0") (f (quote ("x509-parser"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "x509-parser") (r "^0.14.0") (d #t) (k 0)) (d (n "yasna") (r "^0.5.1") (f (quote ("bit-vec"))) (d #t) (k 0)))) (h "1rxi2ks6184pgxxr9ciswvxyss233z21cn0i3zfkhilzxjnjxlhh")))
+

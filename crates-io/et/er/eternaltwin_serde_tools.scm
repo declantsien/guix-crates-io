@@ -1,0 +1,8 @@
+(define-module (crates-io et er eternaltwin_serde_tools) #:use-module (crates-io))
+
+(define-public crate-eternaltwin_serde_tools-0.13.0 (c (n "eternaltwin_serde_tools") (v "0.13.0") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (o #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 2)))) (h "161nj7ihrlnh13mgy10lvyi2ffam86cqffx6lr7phgkb7v42ilij") (s 2) (e (quote (("http" "dep:http" "dep:reqwest")))) (r "1.61.0")))
+
+(define-public crate-eternaltwin_serde_tools-0.14.0 (c (n "eternaltwin_serde_tools") (v "0.14.0") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (o #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 2)))) (h "0nahcfvaambya8pmq1j7c9f3arid7qzwdygqzvrz5c0yxmck7lp5") (s 2) (e (quote (("http" "dep:http" "dep:reqwest")))) (r "1.77.0")))
+
+(define-public crate-eternaltwin_serde_tools-0.14.2 (c (n "eternaltwin_serde_tools") (v "0.14.2") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (o #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 2)))) (h "1v0qmf835fq3vrv3wqxfnhwjb6l2f15zybf3y14ip2xigfsvhgs4") (s 2) (e (quote (("http" "dep:http" "dep:reqwest")))) (r "1.77.0")))
+

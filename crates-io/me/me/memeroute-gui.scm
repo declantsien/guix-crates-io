@@ -1,0 +1,4 @@
+(define-module (crates-io me me memeroute-gui) #:use-module (crates-io))
+
+(define-public crate-memeroute-gui-0.1.0 (c (n "memeroute-gui") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.1") (d #t) (k 0)) (d (n "eframe") (r "^0.17.0") (f (quote ("persistence" "default_fonts"))) (d #t) (k 0)) (d (n "eyre") (r "^0.6.7") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "memedsn") (r "^0.1.0") (d #t) (k 0)) (d (n "memegeom") (r "^0.1.0") (d #t) (k 0)) (d (n "memeroute") (r "^0.1.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)))) (h "08cygv24yaf70vdflxgfn8g5g9gi89w8wh2rib1jwm5qys1kjcr1")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io hy po hypothesis-rs) #:use-module (crates-io))
+
+(define-public crate-hypothesis-rs-0.11.0 (c (n "hypothesis-rs") (v "0.11.0") (d (list (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 2)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("serde-well-known"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "08hi3k16cmqvxfvnjvapksvqcnlswi825q47q2xygxydy60p67g7")))
+

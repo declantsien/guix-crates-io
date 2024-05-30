@@ -1,0 +1,12 @@
+(define-module (crates-io rl in rlink-connector-clickhouse) #:use-module (crates-io))
+
+(define-public crate-rlink-connector-clickhouse-0.3.0 (c (n "rlink-connector-clickhouse") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "clickhouse-rs") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rlink") (r "^0.3.0") (d #t) (k 0)) (d (n "rlink-derive") (r "^0.2.3") (d #t) (k 0)))) (h "0yj9jl24iqbcq75g7bglfwk3v28xf61r2h8pll87lmk44k3pn5z8")))
+
+(define-public crate-rlink-connector-clickhouse-0.4.0 (c (n "rlink-connector-clickhouse") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "clickhouse-rs") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rlink") (r "^0.4") (d #t) (k 0)) (d (n "rlink-derive") (r "^0.2.3") (d #t) (k 0)))) (h "1rc2frs8vnf84671dc5jv2zqkfxj3vq2gxh83cyc4hmkbnwicim5")))
+
+(define-public crate-rlink-connector-clickhouse-0.5.0 (c (n "rlink-connector-clickhouse") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "clickhouse-rs") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rlink") (r "^0.5") (d #t) (k 0)) (d (n "rlink-derive") (r "^0.3") (d #t) (k 0)))) (h "0szgwf9rrn0fgk12vxyq5c9z2x6yprxgkxx6dl0ma4id35a726i1")))
+
+(define-public crate-rlink-connector-clickhouse-0.6.0 (c (n "rlink-connector-clickhouse") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "clickhouse-rs") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rlink") (r "^0.6") (d #t) (k 0)) (d (n "rlink-derive") (r "^0.3") (d #t) (k 0)))) (h "1i48dvhbhvv5p90jjigpvkpx66zbb4jh544q50sqwqsi7n9hqdcn")))
+
+(define-public crate-rlink-connector-clickhouse-0.6.1 (c (n "rlink-connector-clickhouse") (v "0.6.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "clickhouse-rs") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rlink") (r "^0.6") (d #t) (k 0)) (d (n "rlink-derive") (r "^0.3") (d #t) (k 0)))) (h "0hxlr4mycg776kvvyshil0if2i1r8rawpf3nl0mc9yhfdgi982wb")))
+

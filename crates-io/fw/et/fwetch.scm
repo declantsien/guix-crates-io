@@ -1,0 +1,8 @@
+(define-module (crates-io fw et fwetch) #:use-module (crates-io))
+
+(define-public crate-fwetch-0.1.0 (c (n "fwetch") (v "0.1.0") (d (list (d (n "actix-web") (r "^4") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "10i12d1l0xb84y37cdsx5jwc9msfqfdc1kf96ylringsz75m3dh2") (f (quote (("essential") ("default" "essential") ("all" "actix" "essential")))) (s 2) (e (quote (("actix" "dep:actix-web"))))))
+
+(define-public crate-fwetch-0.1.1 (c (n "fwetch") (v "0.1.1") (d (list (d (n "actix-web") (r "^4") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0nxjsxhfhia23n322cj1mnvgbaf5f6rrfh4yw2md2p9aw9l82nzh") (f (quote (("essential") ("default" "essential") ("all" "actix" "essential")))) (s 2) (e (quote (("actix" "dep:actix-web"))))))
+
+(define-public crate-fwetch-0.1.2 (c (n "fwetch") (v "0.1.2") (d (list (d (n "actix-web") (r "^4") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1g9y7inlsagzyyw5vcqvrch84m759nmnmlzw54axlddyjy6kb6np") (f (quote (("essential") ("default" "all") ("all" "actix" "essential")))) (s 2) (e (quote (("actix" "dep:actix-web"))))))
+

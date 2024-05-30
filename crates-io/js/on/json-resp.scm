@@ -1,0 +1,8 @@
+(define-module (crates-io js on json-resp) #:use-module (crates-io))
+
+(define-public crate-json-resp-0.1.0 (c (n "json-resp") (v "0.1.0") (d (list (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "json-resp-derive") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^3") (o #t) (d #t) (k 0)))) (h "0di3zvh0vcg9jbca7j7dhhw6f1sdyaadchf1fxlz4gvbwfiz6aji") (f (quote (("openapi" "utoipa" "json-resp-derive/openapi") ("default")))) (s 2) (e (quote (("log" "dep:log" "json-resp-derive/log"))))))
+
+(define-public crate-json-resp-0.1.1 (c (n "json-resp") (v "0.1.1") (d (list (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "json-resp-derive") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^3") (o #t) (d #t) (k 0)))) (h "0zzpbvxwvvvbmk9ksjzdbi2kfg6frb5w0mslg6wi0mmgjig3l16q") (f (quote (("openapi" "utoipa" "json-resp-derive/openapi") ("default")))) (s 2) (e (quote (("log" "dep:log" "json-resp-derive/log"))))))
+
+(define-public crate-json-resp-0.1.2 (c (n "json-resp") (v "0.1.2") (d (list (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "json-resp-derive") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^3") (o #t) (d #t) (k 0)))) (h "1l9xkrs7gwjd30s94656vmj8aifsq6qjxhycghknl6g4hkp7d7rr") (f (quote (("openapi" "utoipa" "json-resp-derive/openapi") ("default")))) (s 2) (e (quote (("log" "dep:log" "json-resp-derive/log"))))))
+

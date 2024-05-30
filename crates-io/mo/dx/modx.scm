@@ -1,0 +1,12 @@
+(define-module (crates-io mo dx modx) #:use-module (crates-io))
+
+(define-public crate-modx-0.0.1 (c (n "modx") (v "0.0.1") (d (list (d (n "dioxus") (r "^0.5.1") (f (quote ("desktop"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.58") (f (quote ("full"))) (d #t) (k 0)))) (h "12wk0vb4327iy7fp0nmjirw39gds1ki8x1jnl86dkp9vxb76nfhc")))
+
+(define-public crate-modx-0.1.0 (c (n "modx") (v "0.1.0") (d (list (d (n "dioxus") (r "^0.5.1") (f (quote ("desktop"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 2)) (d (n "syn") (r "^2.0.58") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1v8iqb39qnar9qp8rlllf7i8icvqbw763mfh8k8r64fxajplxs9d")))
+
+(define-public crate-modx-0.1.0-1 (c (n "modx") (v "0.1.0-1") (d (list (d (n "dioxus") (r "^0.5.1") (f (quote ("desktop"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 2)) (d (n "syn") (r "^2.0.58") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0nxakw59waa3zi1qq41a27q4gmhyaq7lh98ddg3cax9xq46sb5nj")))
+
+(define-public crate-modx-0.1.1 (c (n "modx") (v "0.1.1") (d (list (d (n "dioxus") (r "^0.5.1") (f (quote ("desktop"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 2)) (d (n "syn") (r "^2.0.58") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "13iq96x81pdwvmr8a0azg0fzqzi5iy7mkds27drzlf0vdcfxim7h")))
+
+(define-public crate-modx-0.1.2 (c (n "modx") (v "0.1.2") (d (list (d (n "dioxus") (r "^0.5.1") (f (quote ("desktop"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 2)) (d (n "syn") (r "^2.0.58") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "181c8bgwbvz7d09838rasc06nyrynidkd3s24hjmy5z22zs36rzq")))
+

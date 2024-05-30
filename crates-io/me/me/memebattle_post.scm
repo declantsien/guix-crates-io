@@ -1,0 +1,4 @@
+(define-module (crates-io me me memebattle_post) #:use-module (crates-io))
+
+(define-public crate-memebattle_post-0.0.1 (c (n "memebattle_post") (v "0.0.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^1.1.0") (d #t) (k 2)) (d (n "clap") (r "^4.4.18") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "edit") (r "^0.1.5") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (f (quote ("supports-colors"))) (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)) (d (n "rexpect") (r "^0.5.0") (d #t) (t "cfg(not(windows))") (k 2)) (d (n "rprompt") (r "^2.1.1") (d #t) (k 0)) (d (n "slug") (r "^0.1.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "15kkqdifjk6ykidnfx16cbmy84n560k83ls2xcpp7j2pba37q7y7") (r "1.75.0")))
+

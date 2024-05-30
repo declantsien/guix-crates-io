@@ -1,0 +1,6 @@
+(define-module (crates-io ke y- key-derive) #:use-module (crates-io))
+
+(define-public crate-key-derive-0.1.0 (c (n "key-derive") (v "0.1.0") (d (list (d (n "automod") (r "^1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "envy") (r "^0.4") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.27") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("serde_derive"))) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "1531isxk5wdz8hl287wij0fl4q201lsmzbyp1234dihwi3i6fmlh") (y #t) (r "1.70.0")))
+
+(define-public crate-key-derive-0.1.1 (c (n "key-derive") (v "0.1.1") (d (list (d (n "automod") (r "^1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "envy") (r "^0.4") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.27") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("serde_derive"))) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "0vj9xjl9w29xyra8cnygly18yy4zawqg3j3wkajk3f2s99sxay2d") (r "1.70.0")))
+

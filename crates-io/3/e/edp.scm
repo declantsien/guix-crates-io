@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# e edp) #:use-module (crates-io))
+
+(define-public crate-edp-0.1.0 (c (n "edp") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "dirs") (r "^3") (d #t) (k 0)) (d (n "eetf") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hostname") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "md-5") (r "^0.9") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "typed-builder") (r "^0.9") (d #t) (k 0)))) (h "0is3771bjzhzmrj3hd38rw1jdlav6a6r3n58s68w21w51xbfmwbc")))
+

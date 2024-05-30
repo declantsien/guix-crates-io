@@ -1,0 +1,6 @@
+(define-module (crates-io ge ma gemachain-clap-utils) #:use-module (crates-io))
+
+(define-public crate-gemachain-clap-utils-1.8.0 (c (n "gemachain-clap-utils") (v "1.8.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "gemachain-remote-wallet") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.0") (d #t) (k 0)) (d (n "rpassword") (r "^5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.8.1") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.3") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "150k4kxvq0v6slaq8417myc24jx8dfxkgswhdvvkwzsrdb72783n")))
+
+(define-public crate-gemachain-clap-utils-1.8.2 (c (n "gemachain-clap-utils") (v "1.8.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "gemachain-remote-wallet") (r "=1.8.2") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.2") (d #t) (k 0)) (d (n "rpassword") (r "^5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.8.1") (d #t) (k 0)) (d (n "uriparse") (r "^0.6.3") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1g21j2ym1a98fib28j5vx1x4g8928a94yp189b7g496ikjlg9g59")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io tc -c tc-consensus-slots) #:use-module (crates-io))
+
+(define-public crate-tc-consensus-slots-0.0.0 (c (n "tc-consensus-slots") (v "0.0.0") (h "0smpywmbalz54c7j4nsl6y3542qarsyzrrlzij0s14w3fr1qnb4f") (y #t)))
+
+(define-public crate-tc-consensus-slots-0.8.0 (c (n "tc-consensus-slots") (v "0.8.0") (d (list (d (n "arithmetic") (r "^2.0.2") (d #t) (k 0)) (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "futures") (r "^0.3.9") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "tc-client-api") (r "^2.0.0") (d #t) (k 0)) (d (n "tc-telemetry") (r "^2.0.0") (d #t) (k 0)) (d (n "tet-application-crypto") (r "^2.0.2") (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-blockchain") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-consensus") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-consensus-slots") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-inherents") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-state-machine") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-trie") (r "^2.0.2") (d #t) (k 0)))) (h "1z58l0mpv8zy8kqi2vwzd3vzr2ql3vlwa4kbbp8rj2fr4gaslsph")))
+

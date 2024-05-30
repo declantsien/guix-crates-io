@@ -1,0 +1,6 @@
+(define-module (crates-io wa sm wasm-repeated-animation-frame) #:use-module (crates-io))
+
+(define-public crate-wasm-repeated-animation-frame-0.1.0 (c (n "wasm-repeated-animation-frame") (v "0.1.0") (d (list (d (n "async-channel") (r "^2.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.66") (d #t) (k 0)) (d (n "manual_future") (r "^0.1.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.39") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.66") (f (quote ("Window" "console"))) (d #t) (k 0)))) (h "1ci4rx8p4d35cc8jyxb8q61x07wp95bnnbn139nrn5n7g8kks3h1")))
+
+(define-public crate-wasm-repeated-animation-frame-0.1.1 (c (n "wasm-repeated-animation-frame") (v "0.1.1") (d (list (d (n "async-channel") (r "^2.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.66") (d #t) (k 0)) (d (n "manual_future") (r "^0.1.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.39") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.66") (f (quote ("Window" "console"))) (d #t) (k 0)))) (h "1acr0l37mllsnx3mrwz901vf4q3apir8kg1arwhmzi3f3k6klq6s")))
+

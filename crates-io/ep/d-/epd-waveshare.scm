@@ -1,0 +1,14 @@
+(define-module (crates-io ep d- epd-waveshare) #:use-module (crates-io))
+
+(define-public crate-epd-waveshare-0.2.0 (c (n "epd-waveshare") (v "0.2.0") (d (list (d (n "embedded-graphics") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.1") (f (quote ("unproven"))) (d #t) (k 0)))) (h "1kf8900jrfzs0xlxfxv3y6n2kx02z7dcsdps40svwfyzgc18zxm4") (f (quote (("graphics" "embedded-graphics") ("epd4in2") ("epd2in9") ("epd1in54") ("default" "epd1in54" "epd2in9" "epd4in2" "graphics"))))))
+
+(define-public crate-epd-waveshare-0.3.0 (c (n "epd-waveshare") (v "0.3.0") (d (list (d (n "embedded-graphics") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.1") (f (quote ("unproven"))) (d #t) (k 0)))) (h "1b7345kn4drzilvwzhyz4y1slbkzp0xbi3av7s30xc2qfvrbq97v") (f (quote (("type_a_alternative_faster_lut") ("graphics" "embedded-graphics") ("epd4in2") ("epd2in9") ("epd1in54") ("default" "epd1in54" "epd2in9" "epd4in2" "graphics"))))))
+
+(define-public crate-epd-waveshare-0.3.1 (c (n "epd-waveshare") (v "0.3.1") (d (list (d (n "embedded-graphics") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.1") (f (quote ("unproven"))) (d #t) (k 0)))) (h "0k83c1bcdh7zfjp55c31cry2pdflw13qn2p8pp2jyx6xhb8087bn") (f (quote (("type_a_alternative_faster_lut") ("graphics" "embedded-graphics") ("epd4in2") ("epd2in9") ("epd1in54") ("default" "epd1in54" "epd2in9" "epd4in2" "graphics"))))))
+
+(define-public crate-epd-waveshare-0.3.2 (c (n "epd-waveshare") (v "0.3.2") (d (list (d (n "embedded-graphics") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.1") (f (quote ("unproven"))) (d #t) (k 0)))) (h "13yj9ank3ghqv09bz4ryfa5037ja02kn5mgymn3imiz3ndw8s8zm") (f (quote (("type_a_alternative_faster_lut") ("graphics" "embedded-graphics") ("epd4in2") ("epd2in9") ("epd1in54") ("default" "epd1in54" "epd2in9" "epd4in2" "graphics"))))))
+
+(define-public crate-epd-waveshare-0.4.0 (c (n "epd-waveshare") (v "0.4.0") (d (list (d (n "embedded-graphics") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.7") (d #t) (k 2)) (d (n "linux-embedded-hal") (r "^0.3") (d #t) (k 2)))) (h "1i67lccbb60mgz7bilk1jfp2iqaqi66c5367xc70sfddbn1qh3i5") (f (quote (("type_a_alternative_faster_lut") ("graphics" "embedded-graphics") ("default" "graphics"))))))
+
+(define-public crate-epd-waveshare-0.5.0 (c (n "epd-waveshare") (v "0.5.0") (d (list (d (n "bit_field") (r "^0.10.1") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (d #t) (k 2)) (d (n "embedded-graphics-core") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8") (d #t) (k 2)) (d (n "linux-embedded-hal") (r "^0.3") (d #t) (k 2)))) (h "1g1ba90g46zs4mws6p1b6s3dw9a3ip7q76xn8wpzzzqys472ll5m") (f (quote (("type_a_alternative_faster_lut") ("graphics" "embedded-graphics-core") ("default" "graphics"))))))
+

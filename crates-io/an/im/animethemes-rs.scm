@@ -1,0 +1,20 @@
+(define-module (crates-io an im animethemes-rs) #:use-module (crates-io))
+
+(define-public crate-animethemes-rs-0.1.0 (c (n "animethemes-rs") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.6.0") (f (quote ("macros" "test-util"))) (d #t) (k 2)))) (h "0fhn7gvmrmxaqsgk2mvhnmfz6h8dffqx4naf3644si5fn8as10x9")))
+
+(define-public crate-animethemes-rs-0.2.0 (c (n "animethemes-rs") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.6.0") (f (quote ("macros" "test-util"))) (d #t) (k 2)))) (h "0n5mc3r54crgs9abwgg1m8mv3nhayq8634mlg00d74qrg7j06sxd")))
+
+(define-public crate-animethemes-rs-0.2.1 (c (n "animethemes-rs") (v "0.2.1") (d (list (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.6.0") (f (quote ("macros" "test-util"))) (d #t) (k 2)))) (h "1bz5k75fb80sbb4aprf3s92rb3hvpp9g5js3ly3x7zbydmdy6npq")))
+
+(define-public crate-animethemes-rs-0.3.0 (c (n "animethemes-rs") (v "0.3.0") (d (list (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.6.0") (f (quote ("macros" "test-util"))) (d #t) (k 2)))) (h "05rx2s2krbhb7xfk8ync0h43gbf6qzwl6jc7304g6ib4g2gz45xp")))
+
+(define-public crate-animethemes-rs-0.4.1 (c (n "animethemes-rs") (v "0.4.1") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "test-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "0xlk4rxgg7hp3yqhnvy8jjgigiabc4damdz5f36z61nm69hgyljd")))
+
+(define-public crate-animethemes-rs-0.4.2 (c (n "animethemes-rs") (v "0.4.2") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "test-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "1l7b3kr88psxvsvf50c94py01n3b2jp384lma1lmqbsdnig0s67n")))
+
+(define-public crate-animethemes-rs-0.4.3 (c (n "animethemes-rs") (v "0.4.3") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "test-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "1ypnlmv4bv7702ng1i6k8ydrz18ashz8zs20bill6g67ssvkwlqv")))
+
+(define-public crate-animethemes-rs-0.4.4 (c (n "animethemes-rs") (v "0.4.4") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "test-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "127fjyf9180vs9clsf8pkqb7crxddj9cn3jcjpvxgnp98r185p8y")))
+
+(define-public crate-animethemes-rs-0.4.5 (c (n "animethemes-rs") (v "0.4.5") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("macros" "test-util"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "1zpbq7x2z2pkdp5wns9ryrl1lr16c429hg76h6w2q450zgh6bxjm")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io gl fw glfw_raw_window_handle_0_5_0) #:use-module (crates-io))
+
+(define-public crate-glfw_raw_window_handle_0_5_0-0.48.0 (c (n "glfw_raw_window_handle_0_5_0") (v "0.48.0") (d (list (d (n "bitflags") (r "^1.0.0") (d #t) (k 0)) (d (n "glfw-sys") (r "^4.0.0") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "objc") (r "^0.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)) (d (n "vk-sys") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("libloaderapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1byvqy245hszywhzwfxawkg5mqpacb0vqjgwm5vrmc6xlzbl6yij") (f (quote (("wayland" "glfw-sys/wayland") ("vulkan" "vk-sys") ("default" "glfw-sys") ("all" "image" "vulkan" "log" "wayland")))) (r "1.56")))
+

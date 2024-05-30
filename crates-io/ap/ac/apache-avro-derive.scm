@@ -1,0 +1,8 @@
+(define-module (crates-io ap ac apache-avro-derive) #:use-module (crates-io))
+
+(define-public crate-apache-avro-derive-0.14.0 (c (n "apache-avro-derive") (v "0.14.0") (d (list (d (n "darling") (r "^0.14.1") (k 0)) (d (n "proc-macro2") (r "^1.0.41") (k 0)) (d (n "proptest") (r "^1.0.0") (f (quote ("std"))) (k 2)) (d (n "quote") (r "^1.0.18") (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (k 2)) (d (n "serde_json") (r "^1.0.82") (f (quote ("std"))) (k 0)) (d (n "syn") (r "^1.0.96") (f (quote ("full" "fold"))) (k 0)))) (h "1f9xv1kcxgnfvbjklni24c23mghhcbwx81shgd5y4ar983zh465m")))
+
+(define-public crate-apache-avro-derive-0.15.0 (c (n "apache-avro-derive") (v "0.15.0") (d (list (d (n "darling") (r "^0.20.1") (k 0)) (d (n "proc-macro2") (r "^1.0.60") (k 0)) (d (n "proptest") (r "^1.2.0") (f (quote ("std"))) (k 2)) (d (n "quote") (r "^1.0.28") (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (k 2)) (d (n "serde_json") (r "^1.0.97") (f (quote ("std"))) (k 0)) (d (n "syn") (r "^2.0.18") (f (quote ("full" "fold"))) (k 0)))) (h "130mzarvskz8asxnnj2f76w0vizmf8yrqarjq970dfmdbdqcv1k6") (r "1.60.0")))
+
+(define-public crate-apache-avro-derive-0.16.0 (c (n "apache-avro-derive") (v "0.16.0") (d (list (d (n "darling") (r "^0.20.3") (k 0)) (d (n "proc-macro2") (r "^1.0.67") (k 0)) (d (n "proptest") (r "^1.2.0") (f (quote ("std"))) (k 2)) (d (n "quote") (r "^1.0.33") (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (k 2)) (d (n "serde_json") (r "^1.0.107") (f (quote ("std"))) (k 0)) (d (n "syn") (r "^2.0.33") (f (quote ("full" "fold"))) (k 0)))) (h "192wmrzjz1bwfiwv11979kk3dl51q50vgppn2iyph8v9048y85z3") (r "1.65.0")))
+

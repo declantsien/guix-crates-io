@@ -1,0 +1,10 @@
+(define-module (crates-io ma tt matter) #:use-module (crates-io))
+
+(define-public crate-matter-0.1.0-alpha1 (c (n "matter") (v "0.1.0-alpha1") (d (list (d (n "failure") (r "^0.1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1ihx9w43jnmjw2imqii13i8fkc8vps7f6qc922p597q5qdnivf07") (f (quote (("yaml" "serde" "serde_yaml") ("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-matter-0.1.0-alpha2 (c (n "matter") (v "0.1.0-alpha2") (d (list (d (n "failure") (r "^0.1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "toml") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1bkq593s9gn9fjxr9rb054zqkif92g9bi8ha2h29q4s4hj7h5idh") (f (quote (("yaml" "serde" "serde_yaml") ("json" "serde" "serde_json") ("default"))))))
+
+(define-public crate-matter-0.1.0-alpha3 (c (n "matter") (v "0.1.0-alpha3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "0wz6fhdhj8sxxis502m7s1fq4xw43ig7r8934izs562hpa9h1b38") (f (quote (("yaml" "serde" "serde_yaml") ("json" "serde" "serde_json") ("default" "toml" "json" "yaml"))))))
+
+(define-public crate-matter-0.1.0-alpha4 (c (n "matter") (v "0.1.0-alpha4") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)))) (h "1l0cbd5c5p8c8xk20sa7zb3a34inmfx3jbf4axwxf2kyqlwyh5pw")))
+

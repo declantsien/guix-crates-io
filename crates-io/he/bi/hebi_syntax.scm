@@ -1,0 +1,8 @@
+(define-module (crates-io he bi hebi_syntax) #:use-module (crates-io))
+
+(define-public crate-hebi_syntax-0.0.1 (c (n "hebi_syntax") (v "0.0.1") (d (list (d (n "beef") (r "^0.5.2") (d #t) (k 0)) (d (n "diag") (r "^0.0.1") (d #t) (k 0) (p "hebi_diag")) (d (n "logos") (r "^0.12.1") (d #t) (k 0)) (d (n "span") (r "^0.0.1") (d #t) (k 0) (p "hebi_span")) (d (n "stacker") (r "^0.1.15") (d #t) (k 0)) (d (n "indoc") (r "^1.0.8") (d #t) (k 2)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)))) (h "0aphky7p671bh2zw4v9aipwq0p1ll9pbydddkp5wfr0prqfdax57") (f (quote (("default" "check-recursion-limit") ("check-recursion-limit"))))))
+
+(define-public crate-hebi_syntax-0.2.0 (c (n "hebi_syntax") (v "0.2.0") (d (list (d (n "beef") (r "^0.5.2") (d #t) (k 0)) (d (n "diag") (r "^0.2.0") (d #t) (k 0) (p "hebi_diag")) (d (n "logos") (r "^0.12.1") (d #t) (k 0)) (d (n "span") (r "^0.0.1") (d #t) (k 0) (p "hebi_span")) (d (n "stacker") (r "^0.1.15") (d #t) (k 0)) (d (n "indoc") (r "^1.0.8") (d #t) (k 2)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)))) (h "0pfscs90qljcnvd4p2z7a76imvk8a09bhqzrgz12qbdjr52nkvfk") (f (quote (("default" "check_recursion_limit") ("check_recursion_limit"))))))
+
+(define-public crate-hebi_syntax-0.3.0 (c (n "hebi_syntax") (v "0.3.0") (d (list (d (n "beef") (r "^0.5.2") (d #t) (k 0)) (d (n "diag") (r "^0.2.0") (d #t) (k 0) (p "hebi_diag")) (d (n "logos") (r "^0.12.1") (d #t) (k 0)) (d (n "span") (r "^0.0.1") (d #t) (k 0) (p "hebi_span")) (d (n "stacker") (r "^0.1.15") (d #t) (k 0)) (d (n "indoc") (r "^1.0.8") (d #t) (k 2)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)))) (h "0i42v857vqm42bp5vnkm96iky5av80h6yflg0ma77hmq50ykfgih") (f (quote (("default" "check_recursion_limit") ("check_recursion_limit"))))))
+

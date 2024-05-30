@@ -1,0 +1,8 @@
+(define-module (crates-io no _m no_mangle_pub_export_c_fn) #:use-module (crates-io))
+
+(define-public crate-no_mangle_pub_export_c_fn-0.1.0 (c (n "no_mangle_pub_export_c_fn") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.34") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.132") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 2)) (d (n "syn") (r "^1.0.83") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0a14zvkxnq35m20qk0k6hvgm03dc1f5w566wz6swrikbmjcpij0m") (r "1.56.1")))
+
+(define-public crate-no_mangle_pub_export_c_fn-0.1.1 (c (n "no_mangle_pub_export_c_fn") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.34") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.132") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 2)) (d (n "syn") (r "^1.0.83") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "180xh737gxg9nb0w8wgay8c3ira5a3pd1j072v13vv2lympqadan") (r "1.56.1")))
+
+(define-public crate-no_mangle_pub_export_c_fn-0.1.2 (c (n "no_mangle_pub_export_c_fn") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1.0.34") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.132") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (d #t) (k 2)) (d (n "syn") (r "^1.0.83") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0pkpskxbqhyq1bmpz8wn115xgkmh9l80zyxp21bmcbbcmpwn4kri") (r "1.56.1")))
+

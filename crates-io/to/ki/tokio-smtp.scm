@@ -1,0 +1,8 @@
+(define-module (crates-io to ki tokio-smtp) #:use-module (crates-io))
+
+(define-public crate-tokio-smtp-0.1.0 (c (n "tokio-smtp") (v "0.1.0") (d (list (d (n "emailaddress") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "native-tls") (r "^0.1") (d #t) (k 0)) (d (n "nom") (r "^2.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tls") (r "^0.1") (d #t) (k 0)))) (h "10ngki9ca8p595b6caj8rivi8wk6sjv8ldb7xmxw3388pxskw6w9") (y #t)))
+
+(define-public crate-tokio-smtp-0.2.0 (c (n "tokio-smtp") (v "0.2.0") (d (list (d (n "emailaddress") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "native-tls") (r "^0.1") (d #t) (k 0)) (d (n "nom") (r "^2.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tls") (r "^0.1") (d #t) (k 0)))) (h "0723yyqy1qhq1j6vs4ar1a8h5yj9v3nlx2mc4qmba71yzgc29xva") (y #t)))
+
+(define-public crate-tokio-smtp-0.3.0 (c (n "tokio-smtp") (v "0.3.0") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "emailaddress") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "native-tls") (r "^0.1") (d #t) (k 0)) (d (n "nom") (r "^2.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tls") (r "^0.1") (d #t) (k 0)))) (h "0ag3slr12llkrvrg612j0pf8xyd7yz9k35s9n15mnai21svpb1kg") (y #t)))
+

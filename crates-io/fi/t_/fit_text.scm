@@ -1,0 +1,16 @@
+(define-module (crates-io fi t_ fit_text) #:use-module (crates-io))
+
+(define-public crate-fit_text-0.1.0 (c (n "fit_text") (v "0.1.0") (d (list (d (n "graphics_buffer") (r "^0.7.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.1.0") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.35.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.8.0") (d #t) (k 0)) (d (n "vector2math") (r "^0.6.0") (d #t) (k 0)))) (h "124qyh0c8cq6dca2bsj87vb4x9p0q87sa9nlay5fhxz00xibshkl") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+
+(define-public crate-fit_text-0.2.0 (c (n "fit_text") (v "0.2.0") (d (list (d (n "graphics_buffer") (r "^0.7.2") (d #t) (k 2)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.36.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.8.2") (d #t) (k 0)) (d (n "vector2math") (r "^0.6.0") (d #t) (k 0)))) (h "1plnls40g9ajj2y7lxkagrpm6d9c7yrx2n6wlpjsw0vq5fx1m7jq") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+
+(define-public crate-fit_text-0.2.1 (c (n "fit_text") (v "0.2.1") (d (list (d (n "graphics_buffer") (r "^0.7.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.36.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.8.2") (d #t) (k 0)) (d (n "vector2math") (r "^0.6.0") (d #t) (k 0)))) (h "1dfarw4ang8kz0gza4r311nkcmjwk49pff4vawk2wii3qc5ljw54") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+
+(define-public crate-fit_text-0.3.0 (c (n "fit_text") (v "0.3.0") (d (list (d (n "graphics_buffer") (r "^0.7.4") (d #t) (k 2)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.36.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "vector2math") (r "^0.8.0") (d #t) (k 0)))) (h "0w64p1v703693chc5biy26dmn1zksvnyn97ph6y85zw5q0k2q56g") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+
+(define-public crate-fit_text-0.3.1 (c (n "fit_text") (v "0.3.1") (d (list (d (n "graphics_buffer") (r "^0.7.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.40.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "vector2math") (r "^0.8.0") (d #t) (k 0)))) (h "0qn8lvsvdjnfzk6a9xr7x8z7zjfmm907w0z6c54vj5717g19wpw8") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+
+(define-public crate-fit_text-0.3.2 (c (n "fit_text") (v "0.3.2") (d (list (d (n "graphics_buffer") (r "^0.7.7") (d #t) (k 2)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.40.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "vector2math") (r "^0.13.0") (d #t) (k 0)))) (h "1dvzjy8343pm44w0jyp0qb5jxcrczas49w2vbdlrlrh6gv1v3dxc") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+
+(define-public crate-fit_text-0.3.3 (c (n "fit_text") (v "0.3.3") (d (list (d (n "graphics_buffer") (r "^0.7.7") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "piston2d-graphics") (r "^0.41.0") (o #t) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "vector2math") (r "^0.13.0") (d #t) (k 0)))) (h "1gh4mp5n1fqs4mprj5jsn79wgx6xwc1w6v1qrqbf590k4fn16gi4") (f (quote (("graphics" "piston2d-graphics") ("default" "graphics"))))))
+

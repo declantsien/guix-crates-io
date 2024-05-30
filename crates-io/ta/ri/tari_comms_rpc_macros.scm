@@ -1,0 +1,6 @@
+(define-module (crates-io ta ri tari_comms_rpc_macros) #:use-module (crates-io))
+
+(define-public crate-tari_comms_rpc_macros-0.8.1 (c (n "tari_comms_rpc_macros") (v "0.8.1") (d (list (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 2)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.38") (f (quote ("fold"))) (d #t) (k 0)) (d (n "tari_comms") (r "^0.8") (f (quote ("rpc"))) (d #t) (k 0)) (d (n "tari_test_utils") (r "^0.8") (d #t) (k 2)) (d (n "tokio") (r "^0.2.22") (d #t) (k 2)) (d (n "tokio-macros") (r "^0.2.5") (d #t) (k 2)) (d (n "tower-service") (r "^0.3.0") (d #t) (k 2)))) (h "08qivraq1lsh863g8x20hnk8i1f5lqla56aw4lwxa6nr68jpfm9x")))
+
+(define-public crate-tari_comms_rpc_macros-1.0.0-rc.5 (c (n "tari_comms_rpc_macros") (v "1.0.0-rc.5") (d (list (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 2)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.38") (f (quote ("fold" "full" "extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (d #t) (k 2)))) (h "0av3sbvf7vmxzi9sfb3cd5wihipli242cz50vz927060jhkifhb7")))
+

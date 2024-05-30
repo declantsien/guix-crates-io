@@ -1,0 +1,6 @@
+(define-module (crates-io tr ac tracing-logfmt-otel) #:use-module (crates-io))
+
+(define-public crate-tracing-logfmt-otel-0.1.0 (c (n "tracing-logfmt-otel") (v "0.1.0") (d (list (d (n "nu-ansi-term") (r "^0.49") (o #t) (d #t) (k 0)) (d (n "opentelemetry_api") (r "^0.20.0") (d #t) (k 0)) (d (n "time") (r "^0.3.7") (f (quote ("formatting"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-opentelemetry") (r "^0.21.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)))) (h "1giafszd89g1w878cpszqca06midl4l0104hd9xgv1rssymnpk1h") (s 2) (e (quote (("ansi_logs" "dep:nu-ansi-term"))))))
+
+(define-public crate-tracing-logfmt-otel-0.2.0 (c (n "tracing-logfmt-otel") (v "0.2.0") (d (list (d (n "nu-ansi-term") (r "^0.49") (o #t) (d #t) (k 0)) (d (n "opentelemetry") (r "^0.21.0") (d #t) (k 0)) (d (n "time") (r "^0.3.7") (f (quote ("formatting"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-opentelemetry") (r "^0.22.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)))) (h "1ykipz387dl1d8dpzz105fnwyx56n5gi361bvx97b4j82y3wfj79") (s 2) (e (quote (("ansi_logs" "dep:nu-ansi-term"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io en ig enigmatic) #:use-module (crates-io))
+
+(define-public crate-enigmatic-0.1.0 (c (n "enigmatic") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "ecies") (r "^0.2.3") (f (quote ("pure"))) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^7.2.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.6") (d #t) (k 0)) (d (n "simplecrypt") (r "^1.0.2") (d #t) (k 0)) (d (n "whoami") (r "^1.3.0") (d #t) (k 0)))) (h "0mcz76x9basw5j51k9k4hp2rzk77djw379dn7mr6dwyfy83l0q30")))
+
+(define-public crate-enigmatic-0.1.1 (c (n "enigmatic") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "ecies") (r "^0.2.6") (f (quote ("std" "pure"))) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^7.2.0") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "simplecrypt") (r "^1.0.2") (d #t) (k 0)) (d (n "whoami") (r "^1.4.1") (d #t) (k 0)))) (h "12dq8bzkndyz8rmj0kj65cwa35y725g6ib18zylygj7wq0nq9hr7")))
+

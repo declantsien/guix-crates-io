@@ -1,0 +1,8 @@
+(define-module (crates-io ya ns yansi-term) #:use-module (crates-io))
+
+(define-public crate-yansi-term-0.1.0 (c (n "yansi-term") (v "0.1.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3.4") (f (quote ("consoleapi" "errhandlingapi" "fileapi" "handleapi" "processenv"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1isvjdslb6vp67hj32d4wmavsvd55c25x6vadxsch4qa8x0ani3y") (f (quote (("derive_serde_style" "serde"))))))
+
+(define-public crate-yansi-term-0.1.1 (c (n "yansi-term") (v "0.1.1") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3.4") (f (quote ("consoleapi" "errhandlingapi" "fileapi" "handleapi" "processenv"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1lp5310bzh4znzn1wgzqy3wl1imsw70sjbddz9imhx2ya540s3d3") (f (quote (("derive_serde_style" "serde"))))))
+
+(define-public crate-yansi-term-0.1.2 (c (n "yansi-term") (v "0.1.2") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "regex") (r "^1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "winapi") (r "^0.3.4") (f (quote ("consoleapi" "errhandlingapi" "fileapi" "handleapi" "processenv"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1w8vjlvxba6yvidqdvxddx3crl6z66h39qxj8xi6aqayw2nk0p7y") (f (quote (("derive_serde_style" "serde"))))))
+

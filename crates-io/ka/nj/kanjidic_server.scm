@@ -1,0 +1,8 @@
+(define-module (crates-io ka nj kanjidic_server) #:use-module (crates-io))
+
+(define-public crate-kanjidic_server-0.1.0 (c (n "kanjidic_server") (v "0.1.0") (d (list (d (n "clap") (r "^3.2.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "kanjidic_types") (r "^0.1.1") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "0b7v5nf0mlhs6w25si2baciiqy2yiims9p50ar53dmvfmgkhy36c")))
+
+(define-public crate-kanjidic_server-0.1.1 (c (n "kanjidic_server") (v "0.1.1") (d (list (d (n "clap") (r "^3.2.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "kanjidic_types") (r "^0.1.3") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "1m64xj8hwaa3gqpx3p64whhnd0m6hhnjllk80cp9pb1m0hxpfm7g")))
+
+(define-public crate-kanjidic_server-0.1.2 (c (n "kanjidic_server") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "kanjidic_types") (r "^0.1.4") (d #t) (k 0)) (d (n "kradical_static") (r "^0.2.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.35") (d #t) (k 0)))) (h "040bipkkargh7m1cy118kbxl8vll58kn6zsl95xhxf2m564g7wq3")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io hu aw huawei-cloud-api-definitions-kvs) #:use-module (crates-io))
+
+(define-public crate-huawei-cloud-api-definitions-KVS-0.1.20240517 (c (n "huawei-cloud-api-definitions-KVS") (v "0.1.20240517") (d (list (d (n "chrono") (r "^0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "regress") (r "^0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "typify") (r "^0") (d #t) (k 0)))) (h "1dp014k4c233d42z70dmgrqiswkc6ngzjx4s6ybdd3v284w4mlmw") (f (quote (("full" "BatchWriteKv" "CreateTable" "DeleteKv" "DescribeTable" "GetKv" "ListTable" "PutKv" "ScanKv" "ScanSkeyKv" "UpdateKv") ("UpdateKv") ("ScanSkeyKv") ("ScanKv") ("PutKv") ("ListTable") ("GetKv") ("DescribeTable") ("DeleteKv") ("CreateTable") ("BatchWriteKv"))))))
+

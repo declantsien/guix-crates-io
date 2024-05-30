@@ -1,0 +1,12 @@
+(define-module (crates-io da to datom) #:use-module (crates-io))
+
+(define-public crate-datom-0.1.0 (c (n "datom") (v "0.1.0") (h "0rqrw18s504gnm3clmq581c51yd77cp4k200sj880fjmj926i8jv") (y #t)))
+
+(define-public crate-datom-0.1.1-pre (c (n "datom") (v "0.1.1-pre") (d (list (d (n "bigdecimal") (r "^0.2") (d #t) (k 0)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "num-bigint") (r "^0.3") (d #t) (k 0)) (d (n "sled") (r "^0.34") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1bizk21j570gnbir52f1s6ya2xqhcf8nbsc46gi43s3q2g20m861") (f (quote (("default" "sled"))))))
+
+(define-public crate-datom-0.1.1-pre2 (c (n "datom") (v "0.1.1-pre2") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "datom-bigdecimal") (r "^0.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "sled") (r "^0.34") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "057szfqiiyhbdz9prcg072hfbbmckqbbqmy6njyikf5j6z1qh31p") (f (quote (("default" "sled"))))))
+
+(define-public crate-datom-0.1.1-pre3 (c (n "datom") (v "0.1.1-pre3") (d (list (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (k 2)) (d (n "cbindgen") (r "^0.20") (o #t) (d #t) (k 1)) (d (n "datom-bigdecimal") (r "^0.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "sled") (r "^0.34") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1061yx74gnk6vq31vb7r92vaslcaihasi7lla1ynq8xnz75d3xd9") (f (quote (("default" "sled") ("c" "cbindgen"))))))
+
+(define-public crate-datom-0.1.1-pre4 (c (n "datom") (v "0.1.1-pre4") (d (list (d (n "arc-swap") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "archery") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "cargo-husky") (r "^1") (f (quote ("precommit-hook" "run-for-all" "run-cargo-check" "run-cargo-clippy" "run-cargo-fmt"))) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "datom-bigdecimal") (r "^0.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "rpds") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "sled") (r "^0.34") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1pjz521jpx3bp3w348m8vv2amrwrmmh9wiiw3715fzyqydhw6l0s") (f (quote (("redblacktreeset" "rpds" "arc-swap" "archery") ("default" "redblacktreeset" "sled"))))))
+

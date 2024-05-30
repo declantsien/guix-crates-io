@@ -1,0 +1,6 @@
+(define-module (crates-io po we powernotd) #:use-module (crates-io))
+
+(define-public crate-powernotd-1.0.0 (c (n "powernotd") (v "1.0.0") (d (list (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.2.1") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.10") (d #t) (k 1)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)))) (h "1vpwz3r351yxx5hyb9qmrk6sbfls6cvyga3r12gs538m6ncjnq41")))
+
+(define-public crate-powernotd-1.1.0 (c (n "powernotd") (v "1.1.0") (d (list (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.2.1") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.10") (d #t) (k 1)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)))) (h "03s4z5zif6ji990v8jyjjm4p49r7jy4ajpn9gjbzff1fk044hy29")))
+

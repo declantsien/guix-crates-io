@@ -1,0 +1,8 @@
+(define-module (crates-io co nv conventional-commits-next-semver) #:use-module (crates-io))
+
+(define-public crate-conventional-commits-next-semver-0.0.0 (c (n "conventional-commits-next-semver") (v "0.0.0") (h "02jqnc95l3226imrxrx3sdrpi0rf46bjjhig0fb8c60q4chsw9l1")))
+
+(define-public crate-conventional-commits-next-semver-0.1.0 (c (n "conventional-commits-next-semver") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.32") (o #t) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (o #t) (d #t) (k 0)) (d (n "conventional-commits-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.8") (d #t) (k 0)) (d (n "semver") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "0fd1hhinw38fnslvfvs03rkmi8rbfmzgq2is87pvahzg4yf6qc70") (f (quote (("cli" "anyhow" "clap" "conventional-commits-parser/serde" "semver/serde" "serde" "serde_json"))))))
+
+(define-public crate-conventional-commits-next-semver-0.1.1 (c (n "conventional-commits-next-semver") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.32") (o #t) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (o #t) (d #t) (k 0)) (d (n "conventional-commits-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.8") (d #t) (k 0)) (d (n "semver") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "16p024cv2b4h9hjyl6xfh46v1pvva7jqyghz23kggfzmxck3k55c") (f (quote (("cli" "anyhow" "clap" "conventional-commits-parser/serde" "semver/serde" "serde" "serde_json"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ce re ceres-executor) #:use-module (crates-io))
+
+(define-public crate-ceres-executor-0.1.0 (c (n "ceres-executor") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (k 0)) (d (n "ceres-std") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasmi") (r "^0") (o #t) (d #t) (k 0) (p "patract-wasmi")) (d (n "wasmtime") (r "^0.26.0") (o #t) (d #t) (k 0)))) (h "1hp3d9aj8a3n4fr0llmym7m1d1ch86g5avn822gycimq7n9vf7aw") (f (quote (("std" "ceres-std/std" "wasmtime") ("default" "wasmi"))))))
+
+(define-public crate-ceres-executor-0.2.0 (c (n "ceres-executor") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (k 0)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "ceres-std") (r "^0") (d #t) (k 0)) (d (n "ceres-support") (r "^0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parity-wasm") (r "^0.41.0") (d #t) (k 0)) (d (n "wasmi") (r "^0") (o #t) (d #t) (k 0) (p "patract-wasmi")) (d (n "wasmtime") (r "^0.26.1") (o #t) (d #t) (k 0)))) (h "0w7wcp3249aiqg38cfk0q80b0p5cm68v1027agvfq91zc89s58sg") (f (quote (("std" "hex" "wasmtime" "ceres-std/std") ("default" "wasmi"))))))
+

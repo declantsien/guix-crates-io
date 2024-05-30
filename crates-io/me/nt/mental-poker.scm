@@ -1,0 +1,4 @@
+(define-module (crates-io me nt mental-poker) #:use-module (crates-io))
+
+(define-public crate-mental-poker-0.1.0 (c (n "mental-poker") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "either") (r "^1.6") (d #t) (k 0)) (d (n "either") (r "^1.6") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "nom") (r "^7.1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 2)) (d (n "test-log") (r "^0.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "unwrap-infallible") (r "^0.1") (d #t) (k 2)))) (h "18ar2fgyi5mc30wz987ww89nnyfjg44xysphb5hkv1krzrs5yvfl")))
+

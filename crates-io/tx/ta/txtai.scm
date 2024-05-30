@@ -1,0 +1,60 @@
+(define-module (crates-io tx ta txtai) #:use-module (crates-io))
+
+(define-public crate-txtai-1.0.0 (c (n "txtai") (v "1.0.0") (d (list (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "10rhzvhirlw4zcm24kdsx9pcn4dkbywrhlfy7qq896m8nis7gzi2")))
+
+(define-public crate-txtai-2.0.0 (c (n "txtai") (v "2.0.0") (d (list (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0dfzgdss46hk72swp0lpg1s7j5ihprnzd4pvwh8l8hay8xmrnjqh")))
+
+(define-public crate-txtai-3.0.0 (c (n "txtai") (v "3.0.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0b5xq92zy2b3frdd8aw58fqn10y9qjy7hyamd1z5sj4crfs4zc9l")))
+
+(define-public crate-txtai-3.1.0 (c (n "txtai") (v "3.1.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "17x9qxv8xv9hy1gbbxrshy9gpzhbw0xz2dyz40hjn3f76vfs8h6i")))
+
+(define-public crate-txtai-3.2.0 (c (n "txtai") (v "3.2.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "08v9fp9x2h30mh0prj4pr49kfm6z49hv3r55h3d2k1v1zi06dclp")))
+
+(define-public crate-txtai-3.3.0 (c (n "txtai") (v "3.3.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "06rb6nkpygq8av8fgvr3fva3qh03r9nv8s6cdkjl3lpyb96g1nll")))
+
+(define-public crate-txtai-3.4.0 (c (n "txtai") (v "3.4.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0sbnd0x04vd5l76pn3pw7p9jcpyz529xg0jdwwp34y0gszmkb5qw")))
+
+(define-public crate-txtai-3.5.0 (c (n "txtai") (v "3.5.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "19n42v5rn03jzc64avzah8sykkgvljbg7id05scg3aw06mgrgr54")))
+
+(define-public crate-txtai-3.6.0 (c (n "txtai") (v "3.6.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0h3iffyix1gryzmz7fqmb51smqbvzfm198cysrkjbds1y0zfg5ml")))
+
+(define-public crate-txtai-3.7.0 (c (n "txtai") (v "3.7.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1hn9zxmkqmrm3xvp2srzhsrk0h63xw082awfwfxhx3mmbi6mgi3x")))
+
+(define-public crate-txtai-4.0.0 (c (n "txtai") (v "4.0.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0hir4ml9zmfrmw7v7wqbn44fqqwpa3312zh558rhmbn9fvaz6f34")))
+
+(define-public crate-txtai-4.1.0 (c (n "txtai") (v "4.1.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1id9s4ix9hchs6q90a3yvaiipa2gsav0zxkpdc80hc0il1c6ksip")))
+
+(define-public crate-txtai-4.2.0 (c (n "txtai") (v "4.2.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "02dlkx0kb5x2981qlbsqlnfn17glcygz3ac7rnigpr9fz26gv97b")))
+
+(define-public crate-txtai-4.3.0 (c (n "txtai") (v "4.3.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "04fjgkk15zbk6s2544rym0pcl6khvqlnjx3ksdxqsxrxl6kr1wyi")))
+
+(define-public crate-txtai-4.4.0 (c (n "txtai") (v "4.4.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1lymplmj08wccicihar9jyj5c16a39rysx85c2j6agqmkh1hajsw")))
+
+(define-public crate-txtai-4.5.0 (c (n "txtai") (v "4.5.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1h1hrcnsbzmd3rhdi9441x27ghy3g5mn2mk0qya2ncbrg9bw70ln")))
+
+(define-public crate-txtai-4.6.0 (c (n "txtai") (v "4.6.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0z9c8hbhz8dj9yvddi9v6zq2hf9gz8w6mdkz8wvjfp4nklk18s35")))
+
+(define-public crate-txtai-5.0.0 (c (n "txtai") (v "5.0.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0d923dr64d0h4wiqnjfz1fabsnw79dnzi8bax2gpmyrm92abbgda")))
+
+(define-public crate-txtai-5.1.0 (c (n "txtai") (v "5.1.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1lf5ky5v6rsiki3ain690agdbyhs7sja817v2mdiwi4f5g3crcax")))
+
+(define-public crate-txtai-5.2.0 (c (n "txtai") (v "5.2.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0c4kc4p86m1yl8b008518f9i61w9g5hkl6vy9vqfq4ggd13n0819")))
+
+(define-public crate-txtai-5.3.0 (c (n "txtai") (v "5.3.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1zjfs27vb3v1ijv8cwk1zdkb4k6xi69w3p5xfvxkvhr4j5spnin2")))
+
+(define-public crate-txtai-5.4.0 (c (n "txtai") (v "5.4.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "04ilapvcs93kwsiq2rll6l4gp0zys7cri96825pmy9mgj08g4bcp")))
+
+(define-public crate-txtai-5.5.0 (c (n "txtai") (v "5.5.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0nnr4246rnnnpz5qgz7laq118ypv121fvwq110pws8kmdqy8qri2")))
+
+(define-public crate-txtai-6.0.0 (c (n "txtai") (v "6.0.0") (d (list (d (n "enum-as-inner") (r "^0.3.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1rb7h2c9j3snnv0nw2ysp45x9kqxrzkf9n0vw69cgswq5ax0n8lf")))
+
+(define-public crate-txtai-6.1.0 (c (n "txtai") (v "6.1.0") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1ygd7z8mj649yagkrlqsx0rbc7cys8b31x2h089andy4j567zawk")))
+
+(define-public crate-txtai-6.2.0 (c (n "txtai") (v "6.2.0") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "04hp11vrhb5d4b3s11l4i2ik9s7ddr60h032wby47qx4nxh10ysz")))
+
+(define-public crate-txtai-6.3.0 (c (n "txtai") (v "6.3.0") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0vdvxz81689qs6r4wkxfc56s19navp85vbwj8g2fi9jnb932lchb")))
+
+(define-public crate-txtai-7.0.0 (c (n "txtai") (v "7.0.0") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "031fpql5yky68ln85zc034fs1zflhfq48wqhslyr6jhs7hn396jr")))
+
+(define-public crate-txtai-7.1.0 (c (n "txtai") (v "7.1.0") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0iivvypvhv7iz16qyzpvxhif9fvdc2avgss5l6azxvdcgy22zbws")))
+

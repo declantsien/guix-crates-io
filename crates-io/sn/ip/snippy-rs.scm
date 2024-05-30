@@ -1,0 +1,6 @@
+(define-module (crates-io sn ip snippy-rs) #:use-module (crates-io))
+
+(define-public crate-snippy-rs-1.0.0 (c (n "snippy-rs") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "arboard") (r "^3.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.2") (d #t) (k 0)) (d (n "jasondb") (r "^0.2.7") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v7"))) (d #t) (k 0)))) (h "1a89b9gyv6jaw11i3yips1s08b1y43xl8i2f1c5yyh4p8m1mhak6")))
+
+(define-public crate-snippy-rs-1.1.0 (c (n "snippy-rs") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "arboard") (r "^3.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "humphrey_json") (r "^0.2.2") (d #t) (k 0)) (d (n "jasondb") (r "^0.2.7") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v7"))) (d #t) (k 0)))) (h "1glmymjvnmrmxkwrbxr5wrpcfd10gzvxfr3i9hpq48fbchf5703z")))
+

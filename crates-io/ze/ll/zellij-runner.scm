@@ -1,0 +1,10 @@
+(define-module (crates-io ze ll zellij-runner) #:use-module (crates-io))
+
+(define-public crate-zellij-runner-0.1.0 (c (n "zellij-runner") (v "0.1.0") (d (list (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "13vl8kvrrm5zihbhn3mra1q9a8kvz4zkzqk4lsqsnkhz7nhbn06m")))
+
+(define-public crate-zellij-runner-0.2.0 (c (n "zellij-runner") (v "0.2.0") (d (list (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1vb0nkdvzpjkflihbhq1ih7xksbb1fsf65bjwr72b5mgmri2wjpc")))
+
+(define-public crate-zellij-runner-0.3.0 (c (n "zellij-runner") (v "0.3.0") (d (list (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1zflkv1kd2d0gfv7g77bjljk5kv3af4dmf6lsjy8i3a95niyiwm3")))
+
+(define-public crate-zellij-runner-0.4.0 (c (n "zellij-runner") (v "0.4.0") (d (list (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1f10r2hw2j3c73k15h0vcxb0hw6h8501lbn03ansa5hclf5q8683")))
+

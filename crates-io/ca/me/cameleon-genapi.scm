@@ -1,0 +1,24 @@
+(define-module (crates-io ca me cameleon-genapi) #:use-module (crates-io))
+
+(define-public crate-cameleon-genapi-0.1.0 (c (n "cameleon-genapi") (v "0.1.0") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^0.4.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14.1") (d #t) (k 0)) (d (n "string-interner") (r "^0.12.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "1mnxj3x898wdiahwg17vq7nhk3bj0srd19fbi8mnl8kq56sm1j4s")))
+
+(define-public crate-cameleon-genapi-0.1.1 (c (n "cameleon-genapi") (v "0.1.1") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^0.4.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14.1") (d #t) (k 0)) (d (n "string-interner") (r "^0.12.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "1f8akn09n1hplypldi66fymrzz9x2m6dzs49y9s9ljbad2zzdlvz")))
+
+(define-public crate-cameleon-genapi-0.1.4 (c (n "cameleon-genapi") (v "0.1.4") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^0.5.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14.1") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "0bx23qrir7z2ppm779rx7mz2nb9rcy33ks4qshvr18x2qgkni2sp")))
+
+(define-public crate-cameleon-genapi-0.1.5 (c (n "cameleon-genapi") (v "0.1.5") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14.1") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "1i8ipvmn4rwpxx45589h0lgx8zvfrk3pgdr5k48hc7gd8mqqrbg8")))
+
+(define-public crate-cameleon-genapi-0.1.6 (c (n "cameleon-genapi") (v "0.1.6") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "191sk5pg4vwbsirabp4x6gmdxzq1k26p9bqnfb2b00pgd7q278qf")))
+
+(define-public crate-cameleon-genapi-0.1.7 (c (n "cameleon-genapi") (v "0.1.7") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "1i4k9vixvn96sq9hz3daavzqv6w1swdr61kyaj05sjiip148n2cp")))
+
+(define-public crate-cameleon-genapi-0.1.8 (c (n "cameleon-genapi") (v "0.1.8") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "0z7j3dfspz8ggwvffsgy4jmk20ca40m1s8mm75kr1ij6598hn6rv")))
+
+(define-public crate-cameleon-genapi-0.1.9 (c (n "cameleon-genapi") (v "0.1.9") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "1k9v3i2sygk9vrx7sx7rnk4ybq6hmjnklyrphf3q5src59f4y0f7")))
+
+(define-public crate-cameleon-genapi-0.1.10 (c (n "cameleon-genapi") (v "0.1.10") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "0vh0bwp5wdc6gy7sxn82pgjvvkqnw6viz5lvrj5aas55r85cg6d2")))
+
+(define-public crate-cameleon-genapi-0.1.11 (c (n "cameleon-genapi") (v "0.1.11") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "0a3q8wl5igvma80fxrqiyalz2gxi2817iqmyg6qsndm1rdl66yaa")))
+
+(define-public crate-cameleon-genapi-0.1.12 (c (n "cameleon-genapi") (v "0.1.12") (d (list (d (n "ambassador") (r "^0.2.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.0.1") (d #t) (k 0)) (d (n "roxmltree") (r "^0.15.0") (d #t) (k 0)) (d (n "string-interner") (r "^0.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)))) (h "0vqz85gzlsi66ysbw1s6f5izqlnnlkzqzldzi3k3pw3ds279mfyr")))
+

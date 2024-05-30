@@ -1,0 +1,4 @@
+(define-module (crates-io mq tt mqttest) #:use-module (crates-io))
+
+(define-public crate-mqttest-0.2.0 (c (n "mqttest") (v "0.2.0") (d (list (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.7.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.7") (d #t) (k 0)) (d (n "mqttrs") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.1") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.2.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("io-util" "macros" "net" "rt-threaded" "sync" "stream" "time"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.3.1") (f (quote ("codec"))) (d #t) (k 0)))) (h "0nvnvxrirnzlsx1ffzflhmhi0vn94nvv68kh5hg75mwk5yxk03r6") (f (quote (("default" "cli") ("cli" "structopt" "env_logger"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ty pe typed-html-macros) #:use-module (crates-io))
+
+(define-public crate-typed-html-macros-0.1.0 (c (n "typed-html-macros") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.16.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.16.1") (d #t) (k 0)))) (h "11amrvdl5xpq3ylss4pc6p146iyhdzmvrv3wbj3m9wg5xrmfbavq")))
+
+(define-public crate-typed-html-macros-0.1.1 (c (n "typed-html-macros") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.16.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.16.1") (d #t) (k 0)) (d (n "proc-macro-hack") (r "^0.5.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.24") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "quote") (r "^0.6.10") (d #t) (k 0)) (d (n "version_check") (r "^0.1.5") (d #t) (k 1)))) (h "06nj97lvjkfqrds5nzv38mhfdwp9fmp5l99y6ck4yxxic9ii8phl")))
+
+(define-public crate-typed-html-macros-0.2.0 (c (n "typed-html-macros") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.16.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.16.1") (d #t) (k 0)) (d (n "proc-macro-hack") (r "^0.5.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.24") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "quote") (r "^0.6.10") (d #t) (k 0)) (d (n "version_check") (r "^0.1.5") (d #t) (k 1)))) (h "1fmqksr0yyw1idv19q3cmrl692vh2lg8yq4fd4kajpfrl5h899k2") (f (quote (("dodrio"))))))
+
+(define-public crate-typed-html-macros-0.2.1 (c (n "typed-html-macros") (v "0.2.1") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.0") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.0") (d #t) (k 0)) (d (n "proc-macro-hack") (r "^0.5.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.24") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "quote") (r "^0.6.10") (d #t) (k 0)) (d (n "version_check") (r "^0.9.1") (d #t) (k 1)))) (h "0x015ha5b6h6yz4rp74qy2aq9g7iyvym593rs19js9xq3nid3raz") (f (quote (("dodrio"))))))
+
+(define-public crate-typed-html-macros-0.2.2 (c (n "typed-html-macros") (v "0.2.2") (d (list (d (n "ansi_term") (r "^0.12.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.0") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.0") (d #t) (k 0)) (d (n "proc-macro-hack") (r "^0.5.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.4") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "version_check") (r "^0.9.1") (d #t) (k 1)))) (h "0mkk7888xkmsjwhynnlgsksg6mz8il3z2q05g3s4flfngshxp924") (f (quote (("dodrio"))))))
+

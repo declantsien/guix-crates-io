@@ -1,0 +1,12 @@
+(define-module (crates-io li gn lignin-html) #:use-module (crates-io))
+
+(define-public crate-lignin-html-0.0.1 (c (n "lignin-html") (v "0.0.1") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "lignin") (r "^0.0.1") (d #t) (k 0)) (d (n "take_mut") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.10.3") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "1fpd74y00ajlfa5pkixnkiib0is5m6n0pfjwil89722la1mk9680") (f (quote (("remnants" "lignin/remnants" "take_mut") ("debug" "lignin/debug"))))))
+
+(define-public crate-lignin-html-0.0.2 (c (n "lignin-html") (v "0.0.2") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "lignin") (r "^0.0.2") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.11.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0y7b4f5rnzq688xad9rccpjlwwilpzw6fgnfn7fvg5xqxdjzllca") (f (quote (("debug" "lignin/debug"))))))
+
+(define-public crate-lignin-html-0.0.3 (c (n "lignin-html") (v "0.0.3") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "lignin") (r "^0.0.3") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.12.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "04j01f7vj13ssylngz5c8xs0fcbk1ykark3ig0ry8hcwkx053knf") (f (quote (("debug" "lignin/debug"))))))
+
+(define-public crate-lignin-html-0.0.4 (c (n "lignin-html") (v "0.0.4") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "lignin") (r "^0.0.5") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.12.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "15n24xdrxmq5p30mxd3zz1h15i7lq1ndxfvma1c0yxds8577jaj3") (f (quote (("debug" "lignin/debug")))) (y #t)))
+
+(define-public crate-lignin-html-0.0.5 (c (n "lignin-html") (v "0.0.5") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "lignin") (r "^0.0.5") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.12.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0hr91bi01cbi4g1r1d4355mgv1dp0rifgnb6lrkw01hkf1587bb6") (f (quote (("debug" "lignin/debug"))))))
+

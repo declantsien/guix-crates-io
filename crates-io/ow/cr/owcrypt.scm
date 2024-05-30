@@ -1,0 +1,8 @@
+(define-module (crates-io ow cr owcrypt) #:use-module (crates-io))
+
+(define-public crate-owcrypt-0.0.1 (c (n "owcrypt") (v "0.0.1") (d (list (d (n "blake") (r "^2.0.1") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "hmac-sha256") (r "^0.1.2") (d #t) (k 0)) (d (n "hmac-sha512") (r "^0.1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "md4") (r "^0.9.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9.1") (d #t) (k 0)) (d (n "sha1") (r "^0.6.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.2") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "sm3") (r "^0.2.0") (d #t) (k 0)))) (h "0b16f04imzycina823ffkaankklsb8mrpi6vk5carvlh9f6lc0zn")))
+
+(define-public crate-owcrypt-0.0.2 (c (n "owcrypt") (v "0.0.2") (d (list (d (n "blake") (r "^2.0.1") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "hmac-sha256") (r "^0.1.2") (d #t) (k 0)) (d (n "hmac-sha512") (r "^0.1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "md4") (r "^0.9.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9.1") (d #t) (k 0)) (d (n "sha1") (r "^0.6.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.2") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "sm3") (r "^0.2.0") (d #t) (k 0)))) (h "08q7iw5wcckmdhlw1j7rzjzfjyd5ifaja7mhir4abzq1s2q4wabi")))
+
+(define-public crate-owcrypt-0.0.3 (c (n "owcrypt") (v "0.0.3") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.65") (d #t) (k 0)))) (h "1c3gxqwmnkv3fq2jnr20v607ja099y8r0bqkn2gnh8mj9wamrj5i")))
+

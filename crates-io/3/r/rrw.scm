@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# r rrw) #:use-module (crates-io))
+
+(define-public crate-rrw-0.1.0 (c (n "rrw") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("full"))) (d #t) (k 2)))) (h "1j2iv5mj4cizj7sskzqk7347y4kigb9yp6pm1crjyjbhwyw868dd")))
+
+(define-public crate-rrw-0.1.1 (c (n "rrw") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("full"))) (d #t) (k 2)))) (h "04m5rddj78j7dxh6iabba8mh7m9rf1j0ni085pbc5rj1rwl7vwxn")))
+
+(define-public crate-rrw-0.1.2 (c (n "rrw") (v "0.1.2") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("full"))) (d #t) (k 2)))) (h "17x9y7ym9km7ma3zxscnwhsc5pa3v27znlnwy14n8sklpl5z5n7y")))
+

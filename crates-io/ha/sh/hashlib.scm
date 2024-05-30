@@ -1,0 +1,4 @@
+(define-module (crates-io ha sh hashlib) #:use-module (crates-io))
+
+(define-public crate-hashlib-0.1.0 (c (n "hashlib") (v "0.1.0") (d (list (d (n "blake2b") (r "~0.4") (o #t) (d #t) (k 0) (p "blake2b_simd")) (d (n "keccak") (r "~1.4") (o #t) (d #t) (k 0) (p "tiny-keccak")) (d (n "md5") (r "~0.6") (o #t) (d #t) (k 0)) (d (n "nfhash") (r "~0.1.2") (d #t) (k 0) (p "numext-fixed-hash")) (d (n "prelude") (r "~0.1.0") (d #t) (k 0) (p "hashlib-prelude")) (d (n "sha1") (r "~0.6") (o #t) (d #t) (k 0)) (d (n "sha2") (r "~0.8") (o #t) (d #t) (k 0)))) (h "13vmjwjjdalgr5nfcw84p2wdb5f89zdms5xkfcx4f0s8w1c3lkif") (f (quote (("support-sha2" "sha2") ("support-sha1" "sha1") ("support-md5" "md5") ("support-keccak" "keccak") ("support-blake2b" "blake2b") ("support-all" "support-md5" "support-sha1" "support-sha2" "support-keccak" "support-blake2b") ("default" "support-all"))))))
+

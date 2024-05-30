@@ -1,0 +1,10 @@
+(define-module (crates-io ie ee ieee80211) #:use-module (crates-io))
+
+(define-public crate-ieee80211-0.1.0 (c (n "ieee80211") (v "0.1.0") (d (list (d (n "crc32fast") (r "^1.3.2") (k 0)) (d (n "either") (r "^1.9.0") (k 0)) (d (n "mac-parser") (r "^0.1.4") (d #t) (k 0)) (d (n "macro-bits") (r "^0.1.4") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (k 0)) (d (n "tlv-rs") (r "^0.2.3") (d #t) (k 0)))) (h "0sqicg2jwrjqdhh4pdj0ab53vy13j7hjshqbyyc05rvw3larn1lz")))
+
+(define-public crate-ieee80211-0.1.1 (c (n "ieee80211") (v "0.1.1") (d (list (d (n "crc32fast") (r "^1.3.2") (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "either") (r "^1.9.0") (k 0)) (d (n "mac-parser") (r "^0.1.4") (d #t) (k 0)) (d (n "macro-bits") (r "^0.1.4") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (k 0)) (d (n "tlv-rs") (r "^0.2.3") (d #t) (k 0)))) (h "05swya6pjwn8k4y0lq849krlhj73ix49gs65m1d58ydchrp0kkiy")))
+
+(define-public crate-ieee80211-0.1.3 (c (n "ieee80211") (v "0.1.3") (d (list (d (n "bitfield-struct") (r "^0.6.0") (d #t) (k 0)) (d (n "const_soft_float") (r "^0.1.4") (f (quote ("no_std"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "mac-parser") (r "^0.1.4") (d #t) (k 0)) (d (n "macro-bits") (r "^0.1.4") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (k 0)) (d (n "tlv-rs") (r "^0.2.3") (d #t) (k 0)))) (h "1p22arj06jr156qz3pmmvxgi67qxx8mys2hia3q4xcx8irv9z2jh") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-ieee80211-0.2.0 (c (n "ieee80211") (v "0.2.0") (d (list (d (n "bitfield-struct") (r "^0.6.0") (d #t) (k 0)) (d (n "const_soft_float") (r "^0.1.4") (f (quote ("no_std"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "mac-parser") (r "^0.1.4") (d #t) (k 0)) (d (n "macro-bits") (r "^0.1.4") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (k 0)) (d (n "tlv-rs") (r "^0.2.3") (d #t) (k 0)))) (h "1b0fyjn84f0npy84r9gqchhvb7312br43q3h31safbby9513701z") (f (quote (("std") ("default" "std"))))))
+

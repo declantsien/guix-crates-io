@@ -1,0 +1,4 @@
+(define-module (crates-io we br webrtc-tunnel) #:use-module (crates-io))
+
+(define-public crate-webrtc-tunnel-0.1.0 (c (n "webrtc-tunnel") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fern") (r "^0.6") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "humantime") (r "^2") (d #t) (k 0)) (d (n "interprocess") (r "^1.2.1") (f (quote ("tokio_support"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "net" "io-util" "time" "macros" "sync" "signal" "parking_lot"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "upgrade2webrtc") (r "^0") (f (quote ("local_sockets"))) (d #t) (k 0)))) (h "1cz7pmq24gnaph3rjrbzgp5yaxj02hxq6504x2qvqd20p5hb2fam") (f (quote (("server"))))))
+

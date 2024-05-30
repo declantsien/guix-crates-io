@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rustcities) #:use-module (crates-io))
+
+(define-public crate-rustcities-1.0.3 (c (n "rustcities") (v "1.0.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bpaf") (r "^0.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "neocities") (r "^0.9") (d #t) (k 0)) (d (n "owo-colors") (r "^3") (f (quote ("supports-colors"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("stream"))) (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "fs"))) (d #t) (k 0)))) (h "1vqkvyym7i2dxgb9wsiqvncb6w00jqhpl5wsn5wpkq1p3azd4hiv") (f (quote (("dull-color" "bpaf/dull-color") ("default" "bright-color") ("bright-color" "bpaf/bright-color"))))))
+

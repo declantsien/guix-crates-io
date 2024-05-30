@@ -1,0 +1,6 @@
+(define-module (crates-io so un soundpad-remote-client) #:use-module (crates-io))
+
+(define-public crate-soundpad-remote-client-0.1.0 (c (n "soundpad-remote-client") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "soundpad-xml") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.22.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (d #t) (k 0)))) (h "1yc96haij2zwwzj33azf5pmdq1wx93gmalwv831sq8ai2n29qn2v")))
+
+(define-public crate-soundpad-remote-client-0.2.0 (c (n "soundpad-remote-client") (v "0.2.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "soundpad-xml") (r "^0.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "windows-sys") (r "^0.42.0") (d #t) (k 0)))) (h "0fwqw1hswqby05hicjprdgjjq60abgy7mi1fjsdhpn77swa4yzhi")))
+

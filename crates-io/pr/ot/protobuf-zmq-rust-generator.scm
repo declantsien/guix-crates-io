@@ -1,0 +1,6 @@
+(define-module (crates-io pr ot protobuf-zmq-rust-generator) #:use-module (crates-io))
+
+(define-public crate-protobuf-zmq-rust-generator-0.1.0 (c (n "protobuf-zmq-rust-generator") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "path-absolutize") (r "^3.1.1") (d #t) (k 2)) (d (n "prost") (r "^0.12.3") (d #t) (k 2)) (d (n "prost-build") (r "^0.12.3") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.3") (d #t) (k 2)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt" "time" "rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "tokio-macros") (r "^2.2.0") (d #t) (k 2)) (d (n "zmq") (r "^0.10.0") (d #t) (k 2)))) (h "1cdchz0yg1nns9q5m6sfm0z7bawivyxg7s52rniiavanl38vl43y")))
+
+(define-public crate-protobuf-zmq-rust-generator-0.1.1 (c (n "protobuf-zmq-rust-generator") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "path-absolutize") (r "^3.1.1") (d #t) (k 2)) (d (n "prost") (r "^0.12.3") (d #t) (k 2)) (d (n "prost-build") (r "^0.12.3") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.3") (d #t) (k 2)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt" "time" "rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "tokio-macros") (r "^2.2.0") (d #t) (k 2)) (d (n "zmq") (r "^0.10.0") (d #t) (k 2)))) (h "0vaqkxyizilqnbmd09mzkxv0mjh678is508qwm9j59dvmbfqi8gv")))
+

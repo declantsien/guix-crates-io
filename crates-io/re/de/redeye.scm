@@ -1,0 +1,12 @@
+(define-module (crates-io re de redeye) #:use-module (crates-io))
+
+(define-public crate-redeye-0.1.0 (c (n "redeye") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "0g0064n508krvl21hbp4bg6f1a645ap45gaqjvij27f1bpz34zdw")))
+
+(define-public crate-redeye-0.1.1 (c (n "redeye") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "1b1q1b9905pd4rq8g6s3i9q9dgyg06a0qjvbkrp3fv0d3m3vxsrb")))
+
+(define-public crate-redeye-0.2.0 (c (n "redeye") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "0ci5sf5cwzr3wh6i8ff2nwf46cy92zq103qggdslrv76sj4904s6")))
+
+(define-public crate-redeye-0.2.1 (c (n "redeye") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "1z49xapvs3faw062qm40jvvcsfwdl7l8v565j5aaajqs1d0bzmd0")))
+
+(define-public crate-redeye-0.3.0 (c (n "redeye") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1gkv7xq1h404r6a73iw20x4dk40mm16nxs40j2cyjjacnq47av2z")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ra ng ranger) #:use-module (crates-io))
+
+(define-public crate-ranger-0.0.0 (c (n "ranger") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (d #t) (k 0)) (d (n "clap-markdown") (r "^0.1.3") (d #t) (k 0)) (d (n "clap_complete") (r "^4.3.2") (d #t) (k 0)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 0)) (d (n "mime") (r "^0.3.17") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "1sj4gb4kjl7iyl0lxay4rm194zxmvl0j5l5rahg66n300l46s946") (f (quote (("default"))))))
+

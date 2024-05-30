@@ -1,0 +1,4 @@
+(define-module (crates-io te xl texlang-stdlib) #:use-module (crates-io))
+
+(define-public crate-texlang-stdlib-0.1.0 (c (n "texlang-stdlib") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("clock"))) (o #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "linefeed") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "rmp-serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "texcraft-stdext") (r "^0.1.0") (d #t) (k 0)) (d (n "texlang") (r "^0.1.0") (d #t) (k 0)))) (h "1hckmjbxwv1ncl2249rvx8ibw0hw8d08sj0337bhpf1vg02sj1gg") (f (quote (("default" "time")))) (s 2) (e (quote (("time" "dep:chrono") ("serde" "dep:serde" "dep:serde_json" "dep:rmp-serde" "texcraft-stdext/serde" "texlang/serde") ("repl" "dep:linefeed"))))))
+

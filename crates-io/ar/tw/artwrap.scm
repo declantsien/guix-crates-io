@@ -1,0 +1,6 @@
+(define-module (crates-io ar tw artwrap) #:use-module (crates-io))
+
+(define-public crate-artwrap-0.1.0 (c (n "artwrap") (v "0.1.0") (d (list (d (n "async-channel") (r "^2.2") (d #t) (k 0)) (d (n "async-global-executor") (r "^2.4") (t "cfg(not(target_os = \"unknown\"))") (k 0)) (d (n "async-io") (r "^2.3") (d #t) (t "cfg(not(target_os = \"unknown\"))") (k 0)) (d (n "futures-lite") (r "^2.2") (k 0)) (d (n "gloo-timers") (r "^0.3") (f (quote ("futures"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0pzddkv41cchfiax0amyx8iqp3pkxjfilpv0g226q5nj2nr1rv4d")))
+
+(define-public crate-artwrap-0.1.1 (c (n "artwrap") (v "0.1.1") (d (list (d (n "async-channel") (r "^2.2") (d #t) (k 0)) (d (n "async-global-executor") (r "^2.4") (t "cfg(not(target_os = \"unknown\"))") (k 0)) (d (n "async-io") (r "^2.3") (d #t) (t "cfg(not(target_os = \"unknown\"))") (k 0)) (d (n "futures-lite") (r "^2.2") (k 0)) (d (n "gloo-timers") (r "^0.3") (f (quote ("futures"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1z213nq7g2hsvjgzw5wd8hb2v730bzjlc0vaydgzhmi0ip74fvvr")))
+

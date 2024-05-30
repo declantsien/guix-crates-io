@@ -1,0 +1,6 @@
+(define-module (crates-io ha pi hapi-core-near) #:use-module (crates-io))
+
+(define-public crate-hapi-core-near-0.3.0 (c (n "hapi-core-near") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "borsh") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "near-contract-standards") (r "^5.0.0-alpha.2") (d #t) (k 0)) (d (n "near-sdk") (r "^5.0.0-alpha.2") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.4.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 2)) (d (n "workspaces") (r "^0.7.0") (d #t) (k 2)))) (h "1d0bc0svcvkpfg8qz0rsy3fsimkckl32545j5qlf5j8b2a62w3xc")))
+
+(define-public crate-hapi-core-near-0.3.1 (c (n "hapi-core-near") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "borsh") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "near-contract-standards") (r "^5.0.0-alpha.2") (d #t) (k 0)) (d (n "near-sdk") (r "^5.0.0-alpha.2") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^1.4.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 2)) (d (n "workspaces") (r "^0.7.0") (d #t) (k 2)))) (h "01ip1r8hq4m6q36rcajj3rc4xbjl6235zbfs3li6l8va198w06xa")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io as yn async-encrypted-stream) #:use-module (crates-io))
+
+(define-public crate-async-encrypted-stream-0.1.0 (c (n "async-encrypted-stream") (v "0.1.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10") (f (quote ("stream"))) (d #t) (k 0)) (d (n "pbkdf2") (r "^0.12.1") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "tokio") (r "^1.23") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 2)))) (h "03ai6aky93iankrnhhwrfxgp27njllihhdazvdasjpnx41mwldga")))
+
+(define-public crate-async-encrypted-stream-0.1.1 (c (n "async-encrypted-stream") (v "0.1.1") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10") (f (quote ("stream" "std"))) (d #t) (k 0)) (d (n "pbkdf2") (r "^0.12.1") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "tokio") (r "^1.23") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0mb8xmp5s3k39al2d1aqqch860a3754a093x2szsjwdv0v53jng9")))
+
+(define-public crate-async-encrypted-stream-0.1.2 (c (n "async-encrypted-stream") (v "0.1.2") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10") (f (quote ("stream" "std"))) (d #t) (k 0)) (d (n "pbkdf2") (r "^0.12.1") (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 2)) (d (n "tokio") (r "^1.23") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1fh8i094ypdncmfl0a4if6h4i2hmpyagh7g3jd7x9k9swif8jxwv")))
+

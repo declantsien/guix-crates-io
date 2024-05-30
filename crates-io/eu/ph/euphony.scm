@@ -1,0 +1,8 @@
+(define-module (crates-io eu ph euphony) #:use-module (crates-io))
+
+(define-public crate-euphony-0.0.1 (c (n "euphony") (v "0.0.1") (h "00qmkp5j798d2j2f823n8v7i1s5zg4lzmrm0awlldygbvlcwhblc")))
+
+(define-public crate-euphony-0.1.0 (c (n "euphony") (v "0.1.0") (d (list (d (n "bach") (r "=0.0.6") (d #t) (k 0)) (d (n "euphony-buffer") (r "^0.1") (d #t) (k 0)) (d (n "euphony-command") (r "^0.1") (d #t) (k 0)) (d (n "euphony-macros") (r "^0.2") (d #t) (k 0)) (d (n "euphony-node") (r "^0.1") (f (quote ("reflect"))) (d #t) (k 2)) (d (n "euphony-samples") (r "^0.1") (d #t) (k 0)) (d (n "euphony-units") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "12gglcc5hhjrd63lk4dqzvbr6k2bvpadw7z3gpkrd2a5p1hhxd46")))
+
+(define-public crate-euphony-0.1.1 (c (n "euphony") (v "0.1.1") (d (list (d (n "bach") (r "=0.0.6") (d #t) (k 0)) (d (n "euphony-buffer") (r "^0.1") (k 0)) (d (n "euphony-command") (r "^0.1") (d #t) (k 0)) (d (n "euphony-macros") (r "^0.2") (d #t) (k 0)) (d (n "euphony-node") (r "^0.1") (f (quote ("reflect"))) (d #t) (k 2)) (d (n "euphony-samples") (r "^0.1") (d #t) (k 0)) (d (n "euphony-units") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (k 0)))) (h "0mm667qyj8j17ghy34qpfsrm5r1421vbkqv6j74cbamw13viqaxy")))
+

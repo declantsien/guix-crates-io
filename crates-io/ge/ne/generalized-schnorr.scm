@@ -1,0 +1,4 @@
+(define-module (crates-io ge ne generalized-schnorr) #:use-module (crates-io))
+
+(define-public crate-generalized-schnorr-0.1.0 (c (n "generalized-schnorr") (v "0.1.0") (d (list (d (n "ciphersuite") (r "^0.4.1") (f (quote ("alloc"))) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "multiexp") (r "^0.4") (f (quote ("batch"))) (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("std"))) (d #t) (k 2)) (d (n "std-shims") (r "^0.1.1") (k 0)) (d (n "transcript") (r "^0.3.2") (k 0) (p "flexible-transcript")) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (k 0)))) (h "1s831jiind1al4msbij7vn66lwc944q4fn4ilafydinfrdnrvqwl") (f (quote (("std" "std-shims/std" "rand_core/std" "zeroize/std" "ciphersuite/std" "multiexp/std") ("default" "std")))) (r "1.74")))
+

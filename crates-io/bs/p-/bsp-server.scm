@@ -1,0 +1,10 @@
+(define-module (crates-io bs p- bsp-server) #:use-module (crates-io))
+
+(define-public crate-bsp-server-0.1.0 (c (n "bsp-server") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "bsp-types") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)))) (h "0al530qlr4nb1snz04xy19fx2alpgvnqlvhf0618k6g3mrxaiakv")))
+
+(define-public crate-bsp-server-0.1.1 (c (n "bsp-server") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "bsp-types") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)))) (h "0cxyawwhr0z7gw6qmv002fzhf8j9yglin9h2nfhsn0xiq0x98zf1")))
+
+(define-public crate-bsp-server-0.1.2 (c (n "bsp-server") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "bsp-types") (r "^0.1.2") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)))) (h "01n6fab8dfdfpjr4p1dr6chdqqdhgn8lnm1pk5z4i93fywv4a59q")))
+
+(define-public crate-bsp-server-0.1.3 (c (n "bsp-server") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "bsp-types") (r "^0.1.2") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)))) (h "1868j0q4izmgnwwsfzchy08rximx1mackmpfpvvlg1sjcf6snczk")))
+

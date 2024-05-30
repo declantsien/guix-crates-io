@@ -1,0 +1,4 @@
+(define-module (crates-io fe st festival-gui) #:use-module (crates-io))
+
+(define-public crate-festival-gui-0.0.0 (c (n "festival-gui") (v "0.0.0") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.7") (d #t) (k 0)) (d (n "eframe") (r "^0.21.0") (f (quote ("wgpu"))) (k 0)) (d (n "egui") (r "^0.21.0") (f (quote ("default_fonts"))) (k 0)) (d (n "egui_extras") (r "^0.21.0") (f (quote ("image"))) (d #t) (k 0)) (d (n "image") (r "^0.24.5") (f (quote ("jpeg" "png"))) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shukusai") (r "^0.0.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "0zjqlqa3yvd0287h1259kj9vxdk7x5mdvqqnc82ac6jihz1hw44q")))
+

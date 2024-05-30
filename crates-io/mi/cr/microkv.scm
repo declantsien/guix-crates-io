@@ -1,0 +1,24 @@
+(define-module (crates-io mi cr microkv) #:use-module (crates-io))
+
+(define-public crate-microkv-0.1.0 (c (n "microkv") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "0ml2qc6qg4d3zdyjimb4v5g048pkg0zs8j7i647asx2lp2smb80a")))
+
+(define-public crate-microkv-0.2.0 (c (n "microkv") (v "0.2.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "19ccgrn7z7qbi9h6ivli9j80nyic8d2rjir4wbswz69gf0qxp0nr")))
+
+(define-public crate-microkv-0.2.1 (c (n "microkv") (v "0.2.1") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "1pcp7szknwbwhl7p36b42xw149yp34s267qb5h4yn97c1l9ndcfg")))
+
+(define-public crate-microkv-0.2.2 (c (n "microkv") (v "0.2.2") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "19zzcgkh088nkd7vzfsjdpxq4w094sdpwfnh7n4b4k9hqk1ffglx")))
+
+(define-public crate-microkv-0.2.3 (c (n "microkv") (v "0.2.3") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "1j8zh6653fbgwyv4igr5b55rzi7krfa389mb12iibh0hjlvirfnd")))
+
+(define-public crate-microkv-0.2.4 (c (n "microkv") (v "0.2.4") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "1kxvxznsskid3a47nj7m5w34pfdxsbff2n0czhxy5fb5x3h8va2j")))
+
+(define-public crate-microkv-0.2.5 (c (n "microkv") (v "0.2.5") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "1hxk8zb1w0fyrcwy7ifp1adlz0cmjb33npaanabq3s1sg1cppy3d")))
+
+(define-public crate-microkv-0.2.6 (c (n "microkv") (v "0.2.6") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "0hhjq22j0cv0vjh8hjy8r667xciihx1ppabfxbg1cd6apx287rqk")))
+
+(define-public crate-microkv-0.2.7 (c (n "microkv") (v "0.2.7") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "0i3d76fz2mmfgvjks4d7iy8ayiqz69ldm2r2d5xyqv4md951k3pk") (y #t)))
+
+(define-public crate-microkv-0.2.8 (c (n "microkv") (v "0.2.8") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "dirs") (r "^3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "1w2s8y98dbrm971z1n87harw9pn3cdxzcf2r7vvjfgs60qkfkinm")))
+
+(define-public crate-microkv-0.2.9 (c (n "microkv") (v "0.2.9") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "dirs") (r "^3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "secstr") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.5") (d #t) (k 0)))) (h "0lw3hs8zav0jx6n7a76i91lmlp4qnxp9qyl5qkni3xwhfd9fq9z7")))
+

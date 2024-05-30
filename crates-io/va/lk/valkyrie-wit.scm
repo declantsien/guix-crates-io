@@ -1,0 +1,8 @@
+(define-module (crates-io va lk valkyrie-wit) #:use-module (crates-io))
+
+(define-public crate-valkyrie-wit-0.0.0 (c (n "valkyrie-wit") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "id-arena") (r "^2.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.13.1") (d #t) (k 0)) (d (n "wit-bindgen-markdown") (r "^0.13.1") (d #t) (k 0)) (d (n "wit-bindgen-rust") (r "^0.13.2") (d #t) (k 0)))) (h "0a50annq6ig5sx8hfggb1yk2rgmzsas78b3vg3x3agcr3h4cvj2h") (f (quote (("default"))))))
+
+(define-public crate-valkyrie-wit-0.0.1 (c (n "valkyrie-wit") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "id-arena") (r "^2.2.1") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.13.1") (d #t) (k 0)) (d (n "wit-bindgen-csharp") (r "^0.13.1") (d #t) (k 0)) (d (n "wit-bindgen-markdown") (r "^0.13.1") (d #t) (k 0)) (d (n "wit-bindgen-rust") (r "^0.13.2") (d #t) (k 0)) (d (n "wit-bindgen-teavm-java") (r "^0.13.1") (d #t) (k 0)) (d (n "wit-component") (r "^0.17.0") (d #t) (k 0)) (d (n "wit-parser") (r "^0.12.2") (d #t) (k 0)))) (h "03bx8q5rsmss8ix9cx4k8mksi8nkic54cbn9s5hvrphcf7x0kwpp") (f (quote (("default"))))))
+
+(define-public crate-valkyrie-wit-0.0.2 (c (n "valkyrie-wit") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "nyar-wasm") (r "^0.0.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "wit-parser") (r "^0.207.0") (d #t) (k 0)))) (h "1nybq1axns0a31wppglgc112mpbp717rqwdmcmnlqwznshyaj7cl")))
+

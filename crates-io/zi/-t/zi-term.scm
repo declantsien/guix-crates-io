@@ -1,0 +1,10 @@
+(define-module (crates-io zi -t zi-term) #:use-module (crates-io))
+
+(define-public crate-zi-term-0.2.0 (c (n "zi-term") (v "0.2.0") (d (list (d (n "crossterm") (r "^0.20.0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio") (r "^1.8.1") (f (quote ("io-util" "macros" "rt" "sync" "time"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.8") (d #t) (k 0)) (d (n "zi") (r "^0.2.0") (d #t) (k 0)))) (h "0b58palyy2l1j3l28zdy2vdsa180gfw08864a2k7rzqz7cx4xd9a") (r "1.56")))
+
+(define-public crate-zi-term-0.3.0 (c (n "zi-term") (v "0.3.0") (d (list (d (n "crossterm") (r "^0.23.2") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("io-util" "macros" "rt" "sync" "time"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "zi") (r "^0.3.0") (d #t) (k 0)))) (h "0lpayz287zskjw9f8zkb3dw0prdn6wqpq3rrf09fzvdbl9a3yy0g") (r "1.56")))
+
+(define-public crate-zi-term-0.3.1 (c (n "zi-term") (v "0.3.1") (d (list (d (n "crossterm") (r "^0.23.2") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("io-util" "macros" "rt" "sync" "time"))) (d #t) (k 0)) (d (n "zi") (r "^0.3.1") (d #t) (k 0)))) (h "1ig79r521j5i7kp8kyi9wpd4l4hxgy0i1sabi4i8cqc03qhwn190") (r "1.56")))
+
+(define-public crate-zi-term-0.3.2 (c (n "zi-term") (v "0.3.2") (d (list (d (n "crossterm") (r "^0.23.2") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("io-util" "macros" "rt" "sync" "time"))) (d #t) (k 0)) (d (n "zi") (r "^0.3.2") (d #t) (k 0)))) (h "1va083hrf9p5i1w4ward5fn3j5xzycjaksdhvxyfljky0f31k9ls") (r "1.56")))
+

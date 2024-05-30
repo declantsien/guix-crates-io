@@ -1,0 +1,20 @@
+(define-module (crates-io st m3 stm32f0x0-hal) #:use-module (crates-io))
+
+(define-public crate-stm32f0x0-hal-0.1.0 (c (n "stm32f0x0-hal") (v "0.1.0") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "0gf4r66wwal6j0k3vh4sriggg06qrgr2lyh1c5872kiigziwq0i6") (f (quote (("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.1 (c (n "stm32f0x0-hal") (v "0.1.1") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "0wgpdxl64ajsfv0qhkzw4gpykjbh8ab3d4r61bjilw4rwlrs8b2f") (f (quote (("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.2 (c (n "stm32f0x0-hal") (v "0.1.2") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "00wvk77si1gb3xbfsi93hnxa81cn76h93na9ic2ssx8jckgf2m15") (f (quote (("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.3 (c (n "stm32f0x0-hal") (v "0.1.3") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "0xjnjwqbd76h8i5sqvz178a1c0v0grlj2sxxkh981sjr61rcm5vr") (f (quote (("unproven_opendrain_input") ("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.4 (c (n "stm32f0x0-hal") (v "0.1.4") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "0p1xfglma8m15y22qj41lfcbf91xxnyc4w2wqd4q19kjgr1r9m85") (f (quote (("unproven_opendrain_input") ("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.5 (c (n "stm32f0x0-hal") (v "0.1.5") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "1j4yvy6dx0izsa5b4zlxqzywcib3z0pvjvfz6wrncccvbj3mrjd4") (f (quote (("unproven_opendrain_input") ("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.6 (c (n "stm32f0x0-hal") (v "0.1.6") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "12cfhrl9ms9x0gpql2l3vgq9d973q6glhyg8p0n67bdldszp094x") (f (quote (("unproven_opendrain_input") ("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.7 (c (n "stm32f0x0-hal") (v "0.1.7") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.0") (d #t) (k 0)))) (h "0fyfqrgyd6zdhaj6s0da07si893gd4mrnb9hw0gr1jbnm2i6p35f") (f (quote (("unproven_opendrain_input") ("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+
+(define-public crate-stm32f0x0-hal-0.1.8 (c (n "stm32f0x0-hal") (v "0.1.8") (d (list (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.1.0") (d #t) (k 0)) (d (n "nb") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f0x0") (r "^0.1.1") (d #t) (k 0)))) (h "0lis74smwx3k57qamvcscgfs3rcgy20lpvsnxsn3sw0xpwkgm64q") (f (quote (("unproven_opendrain_input") ("unproven" "embedded-hal/unproven") ("rt" "stm32f0x0/rt"))))))
+

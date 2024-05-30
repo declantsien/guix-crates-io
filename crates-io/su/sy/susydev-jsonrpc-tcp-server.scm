@@ -1,0 +1,8 @@
+(define-module (crates-io su sy susydev-jsonrpc-tcp-server) #:use-module (crates-io))
+
+(define-public crate-susydev-jsonrpc-tcp-server-10.0.1 (c (n "susydev-jsonrpc-tcp-server") (v "10.0.1") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "susydev-jsonrpc-core") (r "^10.0") (d #t) (k 0)) (d (n "susydev-jsonrpc-server-utils") (r "^10.0") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "0c16fsbdqf7fcs37l0g92wzyfm7m9c163fw234sdsxdmi3wfhl59")))
+
+(define-public crate-susydev-jsonrpc-tcp-server-10.1.0 (c (n "susydev-jsonrpc-tcp-server") (v "10.1.0") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "susydev-jsonrpc-core") (r "^10.1") (d #t) (k 0)) (d (n "susydev-jsonrpc-server-utils") (r "^10.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "02qicillc4795d9i7asxiyyz6ay0fp4lya5sc06va51rjbrh6p0f")))
+
+(define-public crate-susydev-jsonrpc-tcp-server-11.0.0 (c (n "susydev-jsonrpc-tcp-server") (v "11.0.0") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7") (d #t) (k 0)) (d (n "susydev-jsonrpc-core") (r "^11.0") (d #t) (k 0)) (d (n "susydev-jsonrpc-server-utils") (r "^11.0") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "0j8wgqpxswxkgy8pjdvrr4rpaqfmxhii7dzynib870y7x8pn9lnj")))
+

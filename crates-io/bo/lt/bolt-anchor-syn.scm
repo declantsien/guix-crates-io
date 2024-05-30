@@ -1,0 +1,4 @@
+(define-module (crates-io bo lt bolt-anchor-syn) #:use-module (crates-io))
+
+(define-public crate-bolt-anchor-syn-0.29.1 (c (n "bolt-anchor-syn") (v "0.29.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bs58") (r "^0.5") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "00b18h1fpkkvar02rbk0l3r2mdcmbk9fkbwkrah5vcxs6yi7nsy7") (f (quote (("interface-instructions") ("init-if-needed") ("idl-types") ("idl-build" "idl-types" "cargo_toml") ("hash") ("event-cpi") ("anchor-debug") ("allow-missing-optionals")))) (r "1.60")))
+

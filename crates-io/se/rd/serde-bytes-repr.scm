@@ -1,0 +1,16 @@
+(define-module (crates-io se rd serde-bytes-repr) #:use-module (crates-io))
+
+(define-public crate-serde-bytes-repr-0.1.0 (c (n "serde-bytes-repr") (v "0.1.0") (d (list (d (n "base64") (r "^0.12.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 2)))) (h "16zjzm819j1ja0x3bdsbb7yqfh4b5ybzp8s8srx3gx1nncrr6kak")))
+
+(define-public crate-serde-bytes-repr-0.1.1 (c (n "serde-bytes-repr") (v "0.1.1") (d (list (d (n "base64") (r "^0.12.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 2)))) (h "0mdxaf0612kiv8isb8v4rqq2bj26pljxkjkrcqfad63dalcy1pfy")))
+
+(define-public crate-serde-bytes-repr-0.1.2 (c (n "serde-bytes-repr") (v "0.1.2") (d (list (d (n "base64") (r "^0.12.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 2)))) (h "1d1i39z5h80k1qc6c9b1wh9aispb8g73qlwwi8k40imfnvy9pyhy")))
+
+(define-public crate-serde-bytes-repr-0.1.3 (c (n "serde-bytes-repr") (v "0.1.3") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "0snwzk3wls2id4355xyxb8p8ynjhh25rn9n32bhmk2fhz73b1a4a")))
+
+(define-public crate-serde-bytes-repr-0.1.4 (c (n "serde-bytes-repr") (v "0.1.4") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "1d9kfgpailldkrlvxn53sk3inmq8d6gzacxvhwry2xhrc01x18kd")))
+
+(define-public crate-serde-bytes-repr-0.1.5 (c (n "serde-bytes-repr") (v "0.1.5") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "09f4nbryp5a5ff3c7gk5i3hg4aq0vs3gj124xlf0ha73pj0k9f4y")))
+
+(define-public crate-serde-bytes-repr-0.2.0 (c (n "serde-bytes-repr") (v "0.2.0") (d (list (d (n "base64") (r "^0.21.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 2)))) (h "0w9qc82999q9xvxn9jfc9a2y9im9wi3qzysc96mypz1dgv959dzg")))
+

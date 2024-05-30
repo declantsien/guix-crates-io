@@ -1,0 +1,4 @@
+(define-module (crates-io xr ay xray-tracing) #:use-module (crates-io))
+
+(define-public crate-xray-tracing-0.0.1 (c (n "xray-tracing") (v "0.0.1") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.30") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)))) (h "11jr3y0rlw8izj71wqb0bgbplqi675cj9fp1xdknsmiyxwwnrab1")))
+

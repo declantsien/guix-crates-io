@@ -1,0 +1,8 @@
+(define-module (crates-io mi ss mission2teegarden-b-map) #:use-module (crates-io))
+
+(define-public crate-mission2teegarden-b-map-0.0.0 (c (n "mission2teegarden-b-map") (v "0.0.0") (h "1bplzz1ng0xqrpf5hlxasyxd6c3sl4l4sb690jppvxqvphsd6bv5")))
+
+(define-public crate-mission2teegarden-b-map-0.1.0 (c (n "mission2teegarden-b-map") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "basic-toml") (r "^0.1.2") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mission2teegarden-b-models") (r "^0.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num_enum") (r "^0.6.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tiled") (r "^0.11.0") (d #t) (k 0)))) (h "0b75h0zljdgn366spjsyy7lyv4n546vird4mwb0zakzqahksy3jp") (r "1.70")))
+
+(define-public crate-mission2teegarden-b-map-0.2.0 (c (n "mission2teegarden-b-map") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "basic-toml") (r "^0.1.2") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mission2teegarden-b-models") (r "^0.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num_enum") (r "^0.6.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tiled") (r "^0.11.0") (d #t) (k 0)))) (h "0yccpkms6w33wpvy9mzig1qvykf0n81yx4p8gl66igbmk108pkvx") (r "1.70")))
+

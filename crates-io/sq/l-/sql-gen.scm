@@ -1,0 +1,14 @@
+(define-module (crates-io sq l- sql-gen) #:use-module (crates-io))
+
+(define-public crate-sql-gen-0.1.0 (c (n "sql-gen") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1qdxz6jrq2jkqp10fbm8pv5m72nlbgbsm31x2irir9zp2wk48kxm")))
+
+(define-public crate-sql-gen-0.1.1 (c (n "sql-gen") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1p1chyhm4g72gnqwq4j0k7pdpy7nk6a66skypfjqlzxvkd4d1c0y")))
+
+(define-public crate-sql-gen-0.1.2 (c (n "sql-gen") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0cgy5vlpk1kb6gwyp6dp1mv445zfnj72h58jc4108snq5nd99hq2")))
+
+(define-public crate-sql-gen-0.1.3 (c (n "sql-gen") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "167pfg6lagr7y1gnrf9q2asfs03l0yw951d51ps40x8brpa37ij0")))
+
+(define-public crate-sql-gen-0.1.4 (c (n "sql-gen") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1zx8xd2gs2qi8dg313q681xbrk17iqw48pa39b9xcl5km3h0m938")))
+
+(define-public crate-sql-gen-0.1.5 (c (n "sql-gen") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("postgres" "runtime-tokio"))) (d #t) (k 0)) (d (n "sqlx-cli") (r "^0.7") (d #t) (k 0)) (d (n "testcontainers") (r "^0.15.0") (d #t) (k 0)) (d (n "testcontainers-modules") (r "^0.3.5") (f (quote ("postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "01n5yyq4sana8il5asalyikjc1qfzbybham5ka26j6gzpss42gyy")))
+

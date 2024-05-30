@@ -1,0 +1,6 @@
+(define-module (crates-io lo ca locate-dwarf) #:use-module (crates-io))
+
+(define-public crate-locate-dwarf-0.1.0 (c (n "locate-dwarf") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "core-foundation") (r "^0.9.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-foundation-sys") (r "^0.8.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.82") (d #t) (k 0)) (d (n "object") (r "^0.23.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)))) (h "1j77xlm40l2qdnfi78wvngcs7lz18z8gp5iy2mn45196mj84yxyg")))
+
+(define-public crate-locate-dwarf-0.2.0 (c (n "locate-dwarf") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "core-foundation") (r "^0.9.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-foundation-sys") (r "^0.8.2") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.82") (d #t) (k 0)) (d (n "object") (r "^0.30.0") (d #t) (k 0)) (d (n "pdb") (r "^0.7.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (d #t) (k 0)))) (h "0qdgwns10p3avv7cwaw41wzq5xgywk33c0jngyq57kif5av78m64")))
+

@@ -1,0 +1,28 @@
+(define-module (crates-io ac _t ac_tram_types) #:use-module (crates-io))
+
+(define-public crate-ac_tram_types-0.1.0 (c (n "ac_tram_types") (v "0.1.0") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "1hsm5qwvl8c48vdqddksbsmgnri58gp176rrwy69n3pffmx50ibk")))
+
+(define-public crate-ac_tram_types-0.1.1 (c (n "ac_tram_types") (v "0.1.1") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "188qs5b413m2smf9ja8ib9mlsjv8aqjrx9i540ac57kmj0hksg3r")))
+
+(define-public crate-ac_tram_types-0.1.2 (c (n "ac_tram_types") (v "0.1.2") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "0ihd5hh4f5lsxwybxwx1v8a64n616smnlbrqq1g8svdhfki1jn9i")))
+
+(define-public crate-ac_tram_types-0.1.3 (c (n "ac_tram_types") (v "0.1.3") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "0kyjbdhws0lp3c8bb2rz3kgb627cxypmzw32sc9bpzfl5q6jg52g")))
+
+(define-public crate-ac_tram_types-0.1.4 (c (n "ac_tram_types") (v "0.1.4") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "0ck55d71zqyxj3gx4i5gvikfq67cabvmi1ajkxrbnjww87qhmmvr")))
+
+(define-public crate-ac_tram_types-0.1.5 (c (n "ac_tram_types") (v "0.1.5") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "06v5y7ywjw0cv2zb9zh8w6lqjbfkgh340ckk4ic15sicv8xhfzyc")))
+
+(define-public crate-ac_tram_types-0.1.6 (c (n "ac_tram_types") (v "0.1.6") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "0jfk6gk3gm23cnddc0xkq2rdqim5fx4gkqs2davfxwnc4zqppiv5")))
+
+(define-public crate-ac_tram_types-0.1.7 (c (n "ac_tram_types") (v "0.1.7") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "151mnx1sw4hi2fb5833f9fg0nqiqihscb9h4nxfik327j8cq4h9x")))
+
+(define-public crate-ac_tram_types-0.1.8 (c (n "ac_tram_types") (v "0.1.8") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "0d8ypr05vjnlqhj2yva7i8cl1c5yd2y9agsdkjl0cbz6bs8fqiia")))
+
+(define-public crate-ac_tram_types-0.1.9 (c (n "ac_tram_types") (v "0.1.9") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "10dvl1h1siyi6rz0iamxhvbqqixhkfqb5a86kvpa434cdczj2qgy")))
+
+(define-public crate-ac_tram_types-0.1.10 (c (n "ac_tram_types") (v "0.1.10") (d (list (d (n "async_timing_util") (r "^0.1.11") (d #t) (k 0)) (d (n "bson") (r "^2.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "1bh4337lm1087iygk0kq2x7xlpgzbzslhcdxcwrpgw8p6fl9436g")))
+
+(define-public crate-ac_tram_types-2.0.0 (c (n "ac_tram_types") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async_timing_util") (r "^0.1.14") (d #t) (k 0)) (d (n "mungos") (r "^0.4.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "typeshare") (r "^1.0.1") (d #t) (k 0)))) (h "12l4gphcl72h4fnz68c0l84dcsj8fik7inz6q93hjhvfbivhzr57")))
+
+(define-public crate-ac_tram_types-2.0.1 (c (n "ac_tram_types") (v "2.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async_timing_util") (r "^0.1.14") (d #t) (k 0)) (d (n "mungos") (r "^0.4.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "typeshare") (r "^1.0.1") (d #t) (k 0)))) (h "061x5x0zcy9m3jj1p848zgndnifwlcmpz3siwwsjgp0k0ih9alzf")))
+

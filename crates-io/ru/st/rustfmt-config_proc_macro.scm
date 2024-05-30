@@ -1,0 +1,18 @@
+(define-module (crates-io ru st rustfmt-config_proc_macro) #:use-module (crates-io))
+
+(define-public crate-rustfmt-config_proc_macro-0.1.0 (c (n "rustfmt-config_proc_macro") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^0.15") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "1b5f2v4vzszs4kbv7vimvamfngs3snik16xr2az2p7awck01xclp") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.1.1 (c (n "rustfmt-config_proc_macro") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^0.15") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "13dkm6lb1xv1m71phhhgirhi3aywhg1mh0ryq3r6gfjk4pivbaxk") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.1.2 (c (n "rustfmt-config_proc_macro") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^0.15") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "16hv6g1qkv3ca8515wfhddv5pkln737ppfvf0k98hiny3dyq1bps") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.2.0 (c (n "rustfmt-config_proc_macro") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "0vwrycfqvbjzqmaxrl89y8rc36ifdizbhhbs88hz7lrqnbykd65i") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.3.0 (c (n "rustfmt-config_proc_macro") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)))) (h "0pg24494isrrf6j9n3k7y7yl431zn8jsm90l2cw199ndclxhbzfh") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.4.0 (c (n "rustfmt-config_proc_macro") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "0k80nyfb0ch4bn2gx2k76rnsf6g7lnfsj3ccqwb2m0x8pwy5lny0") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.5.0 (c (n "rustfmt-config_proc_macro") (v "0.5.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "1i2hsb5wwi3jvlkj4l03bjn0wad2lld3zn4rkaikximy4f9191h7") (f (quote (("default") ("debug-with-rustfmt"))))))
+
+(define-public crate-rustfmt-config_proc_macro-0.5.1 (c (n "rustfmt-config_proc_macro") (v "0.5.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit"))) (d #t) (k 0)))) (h "1zklv9yliyphyccami8hzip8kgfr6azllqzjgh1ynhj5r9d9alqf") (f (quote (("default"))))))
+

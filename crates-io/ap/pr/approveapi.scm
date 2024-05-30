@@ -1,0 +1,22 @@
+(define-module (crates-io ap pr approveapi) #:use-module (crates-io))
+
+(define-public crate-approveapi-0.1.0 (c (n "approveapi") (v "0.1.0") (d (list (d (n "base64") (r "~0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "hyper") (r "~0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 2)) (d (n "url") (r "^1.5") (d #t) (k 0)))) (h "10xi4kgs2cs7qihz8zj0nifvmrmanh2jchkxv10473g0pp8i1l2z")))
+
+(define-public crate-approveapi-0.1.1 (c (n "approveapi") (v "0.1.1") (d (list (d (n "approveapi_openapi") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "14q1rizbrv39vxfachwd1933gmmh1p1ng4yaw3sdsj50v724vm8k")))
+
+(define-public crate-approveapi-0.1.2 (c (n "approveapi") (v "0.1.2") (d (list (d (n "approveapi_openapi") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "140dn7g2nlkdmk00sx48j0811gcyza1i430qii16rzi72r61a63l")))
+
+(define-public crate-approveapi-0.1.3 (c (n "approveapi") (v "0.1.3") (d (list (d (n "approveapi_openapi") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "1nilbfl6ccz78z042jn0hx3dlmq1gpv4cllp6krhjc2wiyjpkarr")))
+
+(define-public crate-approveapi-0.1.4 (c (n "approveapi") (v "0.1.4") (d (list (d (n "approveapi_openapi") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "1kp1b4mbwq9idvyrfvrjq3r760hcmp2dcag5bg51jqw1c2lyfhb2")))
+
+(define-public crate-approveapi-0.1.5 (c (n "approveapi") (v "0.1.5") (d (list (d (n "approveapi_openapi") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "14wr63kf9fc25qs46myk5d297ffj1pax5pazdmg95dwpwqzwv969")))
+
+(define-public crate-approveapi-1.0.0 (c (n "approveapi") (v "1.0.0") (d (list (d (n "approveapi_openapi") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "036nx6q84lhr3123p73088v20z10qgnyghfffn0k8m8h32s42gf9")))
+
+(define-public crate-approveapi-1.0.1 (c (n "approveapi") (v "1.0.1") (d (list (d (n "approveapi_openapi") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "04sns9xmi01ckdkb3pjj8m762ki1zdvzdxshb6fviz9h8g4d21lx")))
+
+(define-public crate-approveapi-1.0.2 (c (n "approveapi") (v "1.0.2") (d (list (d (n "approveapi_openapi") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "1cb0qija1anzssdynpmz7ibfhw776m48l4ypc3f0l397jmh9zpvc")))
+
+(define-public crate-approveapi-1.0.3 (c (n "approveapi") (v "1.0.3") (d (list (d (n "approveapi_openapi") (r "^0.1.9") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "hyper") (r "^0.12.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^0.1.15") (d #t) (k 0)))) (h "0bmw412shxmzm8nkmys7fx3rf5frcc4w8pa8bmz61qk77wz13xxv")))
+

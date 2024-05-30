@@ -1,0 +1,26 @@
+(define-module (crates-io ch in chinese_dictionary) #:use-module (crates-io))
+
+(define-public crate-chinese_dictionary-0.1.0 (c (n "chinese_dictionary") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^1.0.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "1h6h822zkgwklmby21nb6mm2qqvjm0bpkviw1pgyqyb0ipap0scd")))
+
+(define-public crate-chinese_dictionary-1.0.0 (c (n "chinese_dictionary") (v "1.0.0") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^1.0.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "193yzpv5si30r7rw6y3zvx2kicms1adzjp16a5hi3j1bmasasm98")))
+
+(define-public crate-chinese_dictionary-1.0.1 (c (n "chinese_dictionary") (v "1.0.1") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^1.0.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "0npjrf35syfmswsl2hi3b3mkvljiincsiq86zm3q40873z194is8")))
+
+(define-public crate-chinese_dictionary-1.0.2 (c (n "chinese_dictionary") (v "1.0.2") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "13i8b3cggsy0ixlzx56aflraj090hrlgai275nh914d303ynvzkx")))
+
+(define-public crate-chinese_dictionary-2.0.0 (c (n "chinese_dictionary") (v "2.0.0") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "17y9bal1n3s3nb3hk9lfz3cl2780mcb6pyiwpmbi6x41vynqs64h")))
+
+(define-public crate-chinese_dictionary-2.1.0 (c (n "chinese_dictionary") (v "2.1.0") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "1vhr7xa3lb6hfqkmpi1mdrpqbvprai6kbn3mkgp9qwi740zqnw98")))
+
+(define-public crate-chinese_dictionary-2.1.1 (c (n "chinese_dictionary") (v "2.1.1") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "1bx34mafvpj4l9azsaapn7ihy9dnv1vw7q8g36haw0946z669krd")))
+
+(define-public crate-chinese_dictionary-2.1.2 (c (n "chinese_dictionary") (v "2.1.2") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.0") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "08nh1axspbp06v717xn40vh5wza5dyl900hjvxvxa3rlrs1d65kz")))
+
+(define-public crate-chinese_dictionary-2.1.3 (c (n "chinese_dictionary") (v "2.1.3") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.4") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "0hg4s46i52js5l8yvdscyqpxr3sxqrgf3grsh43bjfc7dr8h08a1")))
+
+(define-public crate-chinese_dictionary-2.1.4 (c (n "chinese_dictionary") (v "2.1.4") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.4") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "1bsjkyqvd0z2y6k8amjl4p56crcjwd7z4bcigisifqhy9rrbv844")))
+
+(define-public crate-chinese_dictionary-2.1.5 (c (n "chinese_dictionary") (v "2.1.5") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.4") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "0ssmfzjvlhrsjlzvc0wcf61ky6ybl1v1ahils883b54yznaxw8g0")))
+
+(define-public crate-chinese_dictionary-2.1.6 (c (n "chinese_dictionary") (v "2.1.6") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "character_converter") (r "^2.1.4") (d #t) (k 0)) (d (n "chinese_detection") (r "^2.0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)))) (h "1f9frwibk38gmx7i8d2zgc2j80kbvcsgjz2psvn66jca21gp4fnc")))
+

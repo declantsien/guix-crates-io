@@ -1,0 +1,14 @@
+(define-module (crates-io ir ma irma) #:use-module (crates-io))
+
+(define-public crate-irma-0.0.0 (c (n "irma") (v "0.0.0") (d (list (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.99") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "0fy4z0qfdkn1w1qphqs237kj6sd4rj4c9yn8h34m53x6pg3x0sfs")))
+
+(define-public crate-irma-0.0.1 (c (n "irma") (v "0.0.1") (d (list (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.99") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "16jlvhjils0lwqcr932bwfd60m7jg0yz2k1lx8ypi2cmzx2cccmx")))
+
+(define-public crate-irma-0.0.2 (c (n "irma") (v "0.0.2") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pvwkn8i2z8ny081z23khw9pws3yfzjmjnpiplxvas0naw4gdcnk")))
+
+(define-public crate-irma-0.1.0 (c (n "irma") (v "0.1.0") (d (list (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0jiy0kkwcdh43fwn5qq2irsza1vlqr628gdscda05hwvkwxwddmp")))
+
+(define-public crate-irma-0.2.0 (c (n "irma") (v "0.2.0") (d (list (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1w3dvn5w0cp533is7nxpvyr7n5abi7rjbpjxfpicy9idq1f4b2dr")))
+
+(define-public crate-irma-0.2.1 (c (n "irma") (v "0.2.1") (d (list (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1lvadkxnwlzxkik27pp33myw3p2y36xb6qxnhcvjdfpwd3419sfx")))
+

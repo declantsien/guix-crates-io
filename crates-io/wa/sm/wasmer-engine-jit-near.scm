@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-engine-jit-near) #:use-module (crates-io))
+
+(define-public crate-wasmer-engine-jit-near-1.0.1 (c (n "wasmer-engine-jit-near") (v "1.0.1") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "region") (r "^2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "wasmer-compiler") (r "^1.0.1") (f (quote ("translator"))) (d #t) (k 0) (p "wasmer-compiler-near")) (d (n "wasmer-engine") (r "^1.0.1") (d #t) (k 0) (p "wasmer-engine-near")) (d (n "wasmer-types") (r "^1.0.1") (d #t) (k 0) (p "wasmer-types-near")) (d (n "wasmer-vm") (r "^1.0.1") (d #t) (k 0) (p "wasmer-vm-near")) (d (n "winapi") (r "^0.3") (f (quote ("winnt" "impl-default"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0akgy7kwj89g7nisdqlfx7zxifs2nplsis7p4zkgr2hq8iajsp3z") (f (quote (("compiler"))))))
+

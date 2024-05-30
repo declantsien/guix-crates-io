@@ -1,0 +1,6 @@
+(define-module (crates-io di vv divvunspell-bin) #:use-module (crates-io))
+
+(define-public crate-divvunspell-bin-1.0.0-beta.1 (c (n "divvunspell-bin") (v "1.0.0-beta.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "box-format") (r "^0.3") (d #t) (k 0)) (d (n "divvunspell") (r "^1.0.0-beta.1") (f (quote ("internal_convert" "compression"))) (d #t) (k 0)) (d (n "gumdrop") (r "^0.8.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "structopt") (r "^0.3.17") (d #t) (k 0)))) (h "1wrvy6pvgid7qszr8akndci5z6g6dx3167bbnwcfzygw63lgmpzv")))
+
+(define-public crate-divvunspell-bin-1.0.0 (c (n "divvunspell-bin") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "box-format") (r "^0.3.2") (f (quote ("reader"))) (k 0)) (d (n "divvunspell") (r "^1.0.0-beta.3") (f (quote ("internal_convert" "compression"))) (d #t) (k 0)) (d (n "gumdrop") (r "^0.8.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "structopt") (r "^0.3.17") (d #t) (k 0)))) (h "0n7qb97kbkl4y84c20z1pry65504xmrbbi9sxprmpfagn6jlsmq7") (f (quote (("gpt2" "divvunspell/gpt2") ("default"))))))
+

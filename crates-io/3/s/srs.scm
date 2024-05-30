@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# s srs) #:use-module (crates-io))
+
+(define-public crate-srs-0.1.0 (c (n "srs") (v "0.1.0") (d (list (d (n "cpal") (r "^0.8") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.2") (d #t) (k 0)) (d (n "docopt") (r "^1") (d #t) (k 0)) (d (n "libvpx-native-sys") (r "^4") (d #t) (k 0)) (d (n "opus") (r "^0.2") (d #t) (k 0)) (d (n "quest") (r "^0.1") (d #t) (k 0)) (d (n "sample") (r "^0.10") (d #t) (k 0)) (d (n "scrap") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "webm") (r "^1") (d #t) (k 0)))) (h "0w9yls7w78k0ikj1hvi6n9a24zqs8c2f2d93xfk3qg3qpbllxli2")))
+
+(define-public crate-srs-0.2.0 (c (n "srs") (v "0.2.0") (d (list (d (n "cpal") (r "^0.8") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.2") (d #t) (k 0)) (d (n "docopt") (r "^1") (d #t) (k 0)) (d (n "libvpx-native-sys") (r "^4") (d #t) (k 0)) (d (n "opus") (r "^0.2") (d #t) (k 0)) (d (n "quest") (r "^0.2") (d #t) (k 0)) (d (n "sample") (r "^0.10") (d #t) (k 0)) (d (n "scrap") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "webm") (r "^1") (d #t) (k 0)))) (h "02h6j96j4f3f6v7fy9k25c2cfr9p0cvawsikk8jasb83a8hac6b7")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io sv d2 svd2html) #:use-module (crates-io))
+
+(define-public crate-svd2html-0.1.0 (c (n "svd2html") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "liquid") (r "^0.26.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "svd-parser") (r "^0.14.1") (f (quote ("derive-from" "expand"))) (d #t) (k 0)))) (h "1zsqzp3jh600kl2kgaj7hfciyk6dqzifs3px4yzi4kaqjicx4sbx")))
+
+(define-public crate-svd2html-0.1.1 (c (n "svd2html") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "liquid") (r "^0.26.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "svd-parser") (r "^0.14.1") (f (quote ("derive-from" "expand"))) (d #t) (k 0)))) (h "1iwk5lrzifmxb1xhq4p23wa4x0fhnski4iymjs3ynhw7snmdrvxz")))
+
+(define-public crate-svd2html-0.1.2 (c (n "svd2html") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "liquid") (r "^0.26.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "svd-parser") (r "^0.14.1") (f (quote ("derive-from" "expand"))) (d #t) (k 0)))) (h "1b8xw1zdmlya0g3cjqj35jz6c9yjjxb5wpwl9dn3jnlinpiank73")))
+
+(define-public crate-svd2html-0.1.3 (c (n "svd2html") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "liquid") (r "^0.26.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "svd-parser") (r "^0.14.1") (f (quote ("derive-from" "expand"))) (d #t) (k 0)))) (h "1haaz6wp3dywhwkhzi05546c8f6clflz7q6912nicpisirwzw6ba")))
+

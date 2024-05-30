@@ -1,0 +1,28 @@
+(define-module (crates-io no ta notation_model) #:use-module (crates-io))
+
+(define-public crate-notation_model-0.1.0 (c (n "notation_model") (v "0.1.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1i83kzgl0wy0q3808g01wrp7h6h2qd8308arfhdchd8laviwcal8")))
+
+(define-public crate-notation_model-0.2.0 (c (n "notation_model") (v "0.2.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0czjahfp4jc7pajq6sr5xbdrrfd5yf55ba5qdb8qp96hd05knd6q")))
+
+(define-public crate-notation_model-0.3.0 (c (n "notation_model") (v "0.3.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0d0sl6x28aphdngbhgznx9kljlvp9dw5pb789bb03drh98n4xz3m")))
+
+(define-public crate-notation_model-0.3.1 (c (n "notation_model") (v "0.3.1") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.3.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1m9mlk6xi4v1s42jh58y8ibfllvv6blmvxa71qqdsfcxybdyvz07")))
+
+(define-public crate-notation_model-0.3.2 (c (n "notation_model") (v "0.3.2") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.3.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "17z270bpkilc3fp7ajzmxf8h8fg3ghx63kwcc13xv9vj6n6k0j83")))
+
+(define-public crate-notation_model-0.3.4 (c (n "notation_model") (v "0.3.4") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.3.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1danmmmz09ikcb9ywx2ipd7wqkrbvbhznxxsyggx0l38kdymnysl")))
+
+(define-public crate-notation_model-0.4.0 (c (n "notation_model") (v "0.4.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.4.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1njxrvim4vr04cb9rf2jfj5n08j9kvy0l26brq48bcd1zdfgdrf3")))
+
+(define-public crate-notation_model-0.4.1 (c (n "notation_model") (v "0.4.1") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.4.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1842a3ghp4wx92vq7vgq9m1mx3i82n0m25cwwzv8jsqzxcn20dxb")))
+
+(define-public crate-notation_model-0.4.2 (c (n "notation_model") (v "0.4.2") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.4.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0r5ywmycp8q3bwsclzid229gkvw7xpw9acjw3450ai2s8b0ph6fz")))
+
+(define-public crate-notation_model-0.4.3 (c (n "notation_model") (v "0.4.3") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1hy25n6ip6adz0c0cmcw2kzmz3bvm81862a32zbbvfipq57mzjxa")))
+
+(define-public crate-notation_model-0.4.4 (c (n "notation_model") (v "0.4.4") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.4.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "071srghm4xw8pa31w2an733x4aws5nm902pw2f6acbadr7aymp2a")))
+
+(define-public crate-notation_model-0.5.0 (c (n "notation_model") (v "0.5.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "notation_proto") (r "^0.5.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1qzbjak6xc3idsbzhwycyfn3ajmm99m8hbryq96y6qqm3i9cwvz5")))
+
+(define-public crate-notation_model-0.6.0 (c (n "notation_model") (v "0.6.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "notation_proto") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2") (f (quote ("serde" "v4"))) (d #t) (k 0)) (d (n "instant") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1j79arqrmy5w1ic8njqmxjh0rcpm2j6i74w711lhylg696g5m165")))
+

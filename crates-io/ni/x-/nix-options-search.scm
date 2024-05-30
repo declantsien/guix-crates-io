@@ -1,0 +1,8 @@
+(define-module (crates-io ni x- nix-options-search) #:use-module (crates-io))
+
+(define-public crate-nix-options-search-0.1.0 (c (n "nix-options-search") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "include-flate") (r "^0.3.0") (d #t) (k 0)) (d (n "nanohtml2text") (r "^0.1.4") (d #t) (k 0)) (d (n "nucleo") (r "^0.4.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.1") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.1") (d #t) (k 0)) (d (n "tl") (r "^0.7.8") (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (d #t) (k 0)))) (h "1qn8y52j3dl0qjyk86nhymp7dcx5xmf8x3zrc7gf314dm7sx5kcn")))
+
+(define-public crate-nix-options-search-0.2.0 (c (n "nix-options-search") (v "0.2.0") (d (list (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "html2text") (r "^0.12.4") (d #t) (k 0)) (d (n "include-flate") (r "^0.3.0") (d #t) (k 0)) (d (n "nucleo") (r "^0.4.1") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.1") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.1") (d #t) (k 0)) (d (n "tl") (r "^0.7.8") (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (d #t) (k 0)))) (h "02ww5msq13rdndijds44fk2l1qa56s29a0hbkmci358l613fcgzb")))
+
+(define-public crate-nix-options-search-0.2.1 (c (n "nix-options-search") (v "0.2.1") (d (list (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "html2text") (r "^0.12.4") (d #t) (k 0)) (d (n "include-flate") (r "^0.3.0") (d #t) (k 0)) (d (n "nucleo") (r "^0.5.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.1") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.1") (d #t) (k 0)) (d (n "tl") (r "^0.7.8") (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (d #t) (k 0)))) (h "1m4jpirg0cjmv6ql7rnmyp9dmx6hjqah7lza094vvrlzfgqzdmkq")))
+

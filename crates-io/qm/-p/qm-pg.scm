@@ -1,0 +1,14 @@
+(define-module (crates-io qm -p qm-pg) #:use-module (crates-io))
+
+(define-public crate-qm-pg-0.0.12 (c (n "qm-pg") (v "0.0.12") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "uuid" "time"))) (d #t) (k 0)))) (h "0ib9z9h0r3mwmg33la6g59vfar8rahy2vx5xfz5qskk9h12pvm8j") (r "1.75.0")))
+
+(define-public crate-qm-pg-0.0.13 (c (n "qm-pg") (v "0.0.13") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "uuid" "time"))) (d #t) (k 0)))) (h "1bbza53rl1j3my247c05ihqp2nblp9y6ds21pw3qq52vfqd0d4gd") (r "1.75.0")))
+
+(define-public crate-qm-pg-0.0.14 (c (n "qm-pg") (v "0.0.14") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "uuid" "time"))) (d #t) (k 0)))) (h "1g3pslg6665yxzz9fabiz5kh4h9z8kzm27hp32m7v6mk6y6yxa3k") (r "1.75.0")))
+
+(define-public crate-qm-pg-0.0.15 (c (n "qm-pg") (v "0.0.15") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "uuid" "time"))) (d #t) (k 0)))) (h "0vca13616i5amv9hvcphlnmlb45vr2ka528lz74f9l62xs4b5lmm") (r "1.75.0")))
+
+(define-public crate-qm-pg-0.0.16 (c (n "qm-pg") (v "0.0.16") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "sea-orm") (r "^0.12.15") (f (quote ("sqlx-postgres"))) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "uuid" "time"))) (d #t) (k 0)))) (h "162z8qiwmzncxb7vhpg11nadgg8y2haw562ns6syzzb1w9jxmwhf") (r "1.75.0")))
+
+(define-public crate-qm-pg-0.0.17 (c (n "qm-pg") (v "0.0.17") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "sea-orm") (r "^0.12.15") (f (quote ("sqlx-postgres"))) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "uuid" "time"))) (d #t) (k 0)))) (h "0g88xngsxpxywl5i8bms04ljbvba0zf9piz47sfxf98zgzgfbz8j") (r "1.75.0")))
+

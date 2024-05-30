@@ -1,0 +1,4 @@
+(define-module (crates-io id gi idgit) #:use-module (crates-io))
+
+(define-public crate-idgit-0.0.1 (c (n "idgit") (v "0.0.1") (d (list (d (n "bstr") (r "^0.2.15") (d #t) (k 0)) (d (n "cmd_lib") (r "^1.0.10") (d #t) (k 2)) (d (n "displaydoc") (r "^0.2.1") (d #t) (k 0)) (d (n "git2") (r "^0.13.18") (d #t) (k 0)) (d (n "insta") (r "^1.7.1") (d #t) (k 2)) (d (n "libgit2-sys") (r "^0.12.19") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.25") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.17") (d #t) (k 2)) (d (n "tui") (r "^0.14.0") (d #t) (k 0)) (d (n "undo") (r "^0.46.0") (d #t) (k 0)))) (h "01pdw5p9w4d8slyzhyxk49w8s1myq4adsg0nrg48rk7a1gzz3ppr")))
+

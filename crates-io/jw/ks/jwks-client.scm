@@ -1,0 +1,18 @@
+(define-module (crates-io jw ks jwks-client) #:use-module (crates-io))
+
+(define-public crate-jwks-client-0.1.1 (c (n "jwks-client") (v "0.1.1") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "ring") (r "^0.16.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "0x4kvanhj38w8008r9smrxfyk8qjr082sa6scr1flb20vqag73mr")))
+
+(define-public crate-jwks-client-0.1.2 (c (n "jwks-client") (v "0.1.2") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "ring") (r "^0.16.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "0cw1lsj0r536vfdnvs1gds31kwlj6sl8m3h55h5ydzrl4a8bsl00")))
+
+(define-public crate-jwks-client-0.1.3 (c (n "jwks-client") (v "0.1.3") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "ring") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "05gyjg3cizqcbhvr3qfb8dg792cn68993smjsqpwpfadny29rkj7")))
+
+(define-public crate-jwks-client-0.1.4 (c (n "jwks-client") (v "0.1.4") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1nn69fid39pb288j5ngccm7wh80nacylwggjx9k9mcwb5lkiidc5")))
+
+(define-public crate-jwks-client-0.1.5 (c (n "jwks-client") (v "0.1.5") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "031x9kcrabxr4c58xqavrfy95mq5fchr15igg9gbcmnj3c8vh5sr")))
+
+(define-public crate-jwks-client-0.1.6 (c (n "jwks-client") (v "0.1.6") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0hj12agnqcnfskjyd9vq1899y1z1p2ajv9cqakmnv7m9b3zyxwlm")))
+
+(define-public crate-jwks-client-0.1.8 (c (n "jwks-client") (v "0.1.8") (d (list (d (n "base64") (r "^0.10.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0llckz0ln5likp2vasnr4hxhhx2c32qqjmpflh892ivijniw3xl4")))
+
+(define-public crate-jwks-client-0.2.0 (c (n "jwks-client") (v "0.2.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.2") (d #t) (k 2)))) (h "1zsgrscdzbg3wc9as4dchkmb0s1i131q4klbz72g73rzlkh2wmgg")))
+

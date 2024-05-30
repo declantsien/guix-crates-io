@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# t tri) #:use-module (crates-io))
+
+(define-public crate-tri-0.1.0 (c (n "tri") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "diesel") (r "^0.16.0") (f (quote ("chrono" "sqlite"))) (d #t) (k 0)) (d (n "diesel_codegen") (r "^0.16.0") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.10.1") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nom") (r "^3.2.1") (f (quote ("verbose-errors"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.6.7") (d #t) (k 0)) (d (n "rayon") (r "^0.8.2") (d #t) (k 0)) (d (n "schedule") (r "^0.1.0") (d #t) (k 0)) (d (n "slack") (r "^0.19.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "1dnrzr9ahanh9w1kkjl3fzkgwm6blhvdmqia2mdfpalifxr5byj4")))
+

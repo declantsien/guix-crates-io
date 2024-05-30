@@ -1,0 +1,6 @@
+(define-module (crates-io js _d js_dom) #:use-module (crates-io))
+
+(define-public crate-js_dom-0.0.1 (c (n "js_dom") (v "0.0.1") (h "0iyxihblkmv02ahlpgpvch9dsmnxihphlx7nnd41ilphbmdj4wf6")))
+
+(define-public crate-js_dom-0.0.2 (c (n "js_dom") (v "0.0.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "gloo-console") (r "^0.2.1") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.4.3") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.78") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.31") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Window" "Document" "HtmlElement" "Node" "Text" "console" "MessageEvent" "AudioContext" "AudioDestinationNode" "AudioNode" "NodeList" "EventTarget" "EventListener" "DomTokenList" "AddEventListenerOptions" "AudioParam" "Headers" "Request" "RequestInit" "RequestMode" "Response" "NamedNodeMap" "UrlSearchParams"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (o #t) (d #t) (k 0)))) (h "0cs48l3a4hmsjkgim94iaj4h1m3m48yahl09giddpj9ajap40prn")))
+

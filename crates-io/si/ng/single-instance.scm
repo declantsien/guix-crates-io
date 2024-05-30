@@ -1,0 +1,18 @@
+(define-module (crates-io si ng single-instance) #:use-module (crates-io))
+
+(define-public crate-single-instance-0.1.0 (c (n "single-instance") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1qs9w1vqhx0qysikr4a5mqsmqwx5b4zcmsni4g8xwf0gg41jplfm")))
+
+(define-public crate-single-instance-0.1.1 (c (n "single-instance") (v "0.1.1") (d (list (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "widestring") (r "^0.2.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0jz0mni5h0lj81sxvg2yzgpx1zbbafjcpqiry44kyax8zcswf768")))
+
+(define-public crate-single-instance-0.1.2 (c (n "single-instance") (v "0.1.2") (d (list (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "widestring") (r "^0.2.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "11b3689hkr4knsd5imgncp1506n1w3s25zvaar2r6hxagaqq3kz5")))
+
+(define-public crate-single-instance-0.2.0 (c (n "single-instance") (v "0.2.0") (d (list (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "nix") (r "^0.19") (d #t) (t "cfg(unix)") (k 0)) (d (n "widestring") (r "^0.2.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0ag4aj63a4dmkk82lswc39wc7f73687754pmzpkd85nphqylpyds")))
+
+(define-public crate-single-instance-0.3.0 (c (n "single-instance") (v "0.3.0") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "nix") (r "^0.19") (d #t) (t "cfg(unix)") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.3") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0vl7fl3495772lhkz912bpv5ifl6q7knx2ylgymd2b390sc75972")))
+
+(define-public crate-single-instance-0.3.1 (c (n "single-instance") (v "0.3.1") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "nix") (r "^0.19") (d #t) (t "cfg(unix)") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.3") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0yxarnb3ws740dgp89yiv7kl9amvnzjzlsb16s15pmkf1cn7kwm3")))
+
+(define-public crate-single-instance-0.3.2 (c (n "single-instance") (v "0.3.2") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "nix") (r "^0.19") (d #t) (t "cfg(unix)") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.3") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0r0hvhfsfkgyaqfqya988mrbm5h3b4aa7wirmhwnnvdafaj3bqi3")))
+
+(define-public crate-single-instance-0.3.3 (c (n "single-instance") (v "0.3.3") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "nix") (r "^0.23.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.3") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("synchapi" "winnt" "errhandlingapi" "winerror" "handleapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0pbrr0bwnfsqfyb9j057i73r0ymjmbczjq5z7nfmqm7qj59lhds6")))
+

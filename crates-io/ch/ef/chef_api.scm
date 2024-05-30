@@ -1,0 +1,4 @@
+(define-module (crates-io ch ef chef_api) #:use-module (crates-io))
+
+(define-public crate-chef_api-0.2.0 (c (n "chef_api") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clippy") (r "^0") (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "openssl") (r "^0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^1.6") (d #t) (k 0)))) (h "1iqdqvk7yy0r49yiq2n5ax57zk0dr8vcls8gg9gm7ijzrdi83zdh") (f (quote (("dev" "clippy") ("default"))))))
+

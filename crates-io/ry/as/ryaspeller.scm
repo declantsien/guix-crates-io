@@ -1,0 +1,12 @@
+(define-module (crates-io ry as ryaspeller) #:use-module (crates-io))
+
+(define-public crate-ryaspeller-0.1.0 (c (n "ryaspeller") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)))) (h "0iw8vhnkf8zbgy22p81sb3hvx2y4ymk0g2fp2jk4cdk9bph6n0r1")))
+
+(define-public crate-ryaspeller-0.1.1 (c (n "ryaspeller") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0ai5msarzzjdvkmr8mfdqwxrj5c5nf336lc3q4grgxxhb781x393")))
+
+(define-public crate-ryaspeller-0.1.2 (c (n "ryaspeller") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1rhh0mw3smwhj43p5ly1icj4zm66dvr9khm6fm7iz7v4zgz2bwb3")))
+
+(define-public crate-ryaspeller-0.1.3 (c (n "ryaspeller") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.43") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1cf2sjcwmnbyf1kz9arw3n91az2jdmixjhlmgrzjljjbghx07wlc")))
+
+(define-public crate-ryaspeller-0.1.4 (c (n "ryaspeller") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0gb8pq6y2v2far1iqcig1907z1ncr18qb3z2n7892w2mvf3zhad3")))
+

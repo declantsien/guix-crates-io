@@ -1,0 +1,6 @@
+(define-module (crates-io do ck docker-rust-api) #:use-module (crates-io))
+
+(define-public crate-docker-rust-api-1.42.0 (c (n "docker-rust-api") (v "1.42.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_with") (r "^2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0sk8ky6qfjkflwkjkm3hxhc7p76b3jd05ihsnk99blqfl3wvgmyp")))
+
+(define-public crate-docker-rust-api-1.42.1 (c (n "docker-rust-api") (v "1.42.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_with") (r "^2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "090q8phask26zp9yykca2jgc3z6xdw4n2kp9d04ysap6mmygcnq2")))
+

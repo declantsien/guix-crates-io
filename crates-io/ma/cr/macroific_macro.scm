@@ -1,0 +1,8 @@
+(define-module (crates-io ma cr macroific_macro) #:use-module (crates-io))
+
+(define-public crate-macroific_macro-1.0.0 (c (n "macroific_macro") (v "1.0.0") (d (list (d (n "macroific_attr_parse") (r "^1") (o #t) (d #t) (k 0)) (d (n "macroific_core") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0yyn7rwz6arv2jxpzhavrd7bf8isn5zzc91in5m68m4xjsicm96r") (f (quote (("nightly" "macroific_core/nightly" "macroific_attr_parse/nightly") ("attr_parse" "macroific_attr_parse")))) (y #t) (r "1.60.0")))
+
+(define-public crate-macroific_macro-1.0.1 (c (n "macroific_macro") (v "1.0.1") (d (list (d (n "macroific_attr_parse") (r "^1") (o #t) (d #t) (k 0)) (d (n "macroific_core") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0d6k3qkzi8lza57n69hnx7z75scakxydmknsgxw8jl1zm6529rwj") (f (quote (("nightly" "macroific_core/nightly" "macroific_attr_parse/nightly") ("attr_parse" "macroific_attr_parse")))) (r "1.60.0")))
+
+(define-public crate-macroific_macro-1.1.0 (c (n "macroific_macro") (v "1.1.0") (d (list (d (n "macroific_attr_parse") (r "^1") (o #t) (d #t) (k 0)) (d (n "macroific_core") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1bpmc4dy16v0pw0jmp68cpn1ndlvbzlzwffw84g7zvfb8cqqbjdh") (f (quote (("nightly" "macroific_core/nightly" "macroific_attr_parse/nightly") ("attr_parse" "macroific_attr_parse")))) (r "1.60.0")))
+

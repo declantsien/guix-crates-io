@@ -1,0 +1,4 @@
+(define-module (crates-io li ng lingua-franca) #:use-module (crates-io))
+
+(define-public crate-lingua-franca-0.2.0 (c (n "lingua-franca") (v "0.2.0") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "git2") (r "^0.18") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "os-version") (r "^0.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.8") (d #t) (k 0)) (d (n "run_script") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 0)) (d (n "termion") (r "^2.0") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "which") (r "^5.0") (d #t) (k 0)))) (h "0yyaz0dl5j816hnnzqf8njlsb98igd9j60b6g0svhk56hf2rg2c1")))
+

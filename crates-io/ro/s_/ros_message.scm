@@ -1,0 +1,6 @@
+(define-module (crates-io ro s_ ros_message) #:use-module (crates-io))
+
+(define-public crate-ros_message-0.1.0 (c (n "ros_message") (v "0.1.0") (d (list (d (n "array-init") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.9.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.127") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "1h58y8m97nhcfbh890c0nd4j1qz5xkk3r7p76f8ihxfagxmsp77n")))
+
+(define-public crate-ros_message-0.1.1 (c (n "ros_message") (v "0.1.1") (d (list (d (n "array-init") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.9.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.127") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 2)))) (h "04g4dqvgzs3f5ybai14xn171y9s1805wgz18f9lkqqzayrkn5gzh")))
+

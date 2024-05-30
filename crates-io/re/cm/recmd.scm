@@ -1,0 +1,8 @@
+(define-module (crates-io re cm recmd) #:use-module (crates-io))
+
+(define-public crate-recmd-0.1.0 (c (n "recmd") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)))) (h "18675f99ij28dcqa2381cp298fa06fhsawa3ha3lfy6m6a5bki31")))
+
+(define-public crate-recmd-0.2.0 (c (n "recmd") (v "0.2.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "daemonize") (r "^0.5.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)))) (h "1kwhq2j5zddsz7qskj4mbslmm6jk4w8436m343ks1njvhgn1gqzz")))
+
+(define-public crate-recmd-0.3.0 (c (n "recmd") (v "0.3.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)) (d (n "daemonize") (r "^0.5.0") (d #t) (t "cfg(unix)") (k 0)))) (h "194yajf9pgmzlkhi23arpd73f0ypz1s3vq3ybqbcsqma0kbr00s3")))
+

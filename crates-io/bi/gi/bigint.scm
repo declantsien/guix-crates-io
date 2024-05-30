@@ -1,0 +1,34 @@
+(define-module (crates-io bi gi bigint) #:use-module (crates-io))
+
+(define-public crate-bigint-1.0.0 (c (n "bigint") (v "1.0.0") (d (list (d (n "heapsize") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3.12") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "rustc_version") (r "^0.1") (d #t) (k 1)))) (h "1bpnsswjj2c1mbdxf01hggcbrmph14jw44ak14m187i83gbvq493")))
+
+(define-public crate-bigint-1.0.1 (c (n "bigint") (v "1.0.1") (d (list (d (n "heapsize") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3.12") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "rustc_version") (r "^0.1") (d #t) (k 1)))) (h "1wp309kb0gg39879g9byxgdygpzyrp51c7yj44bjf671rdawi1s9")))
+
+(define-public crate-bigint-1.0.4 (c (n "bigint") (v "1.0.4") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "heapsize") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "0kz0qjy8nnjjdjlpzqz9h61ncg1jclwc0pwk2x51201ya9kawra8")))
+
+(define-public crate-bigint-1.0.5 (c (n "bigint") (v "1.0.5") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "heapsize") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "0x7xp4980p467wy5psr1sznd0m21bw37rdkb5h7dz634fpv3w6sx")))
+
+(define-public crate-bigint-2.0.0 (c (n "bigint") (v "2.0.0") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "1dlq41n331a0bg0wsmp6cy7vyljaax6z997la1bi66yiks3fd4yl")))
+
+(define-public crate-bigint-3.0.0 (c (n "bigint") (v "3.0.0") (d (list (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "131y48xhhg6430v35mwl77rzi9agvfslap6ddm6ksbb5634p61hx") (f (quote (("heapsizeof" "heapsize"))))))
+
+(define-public crate-bigint-4.0.0 (c (n "bigint") (v "4.0.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "146shv0cxbid2llq2i6ffc4xskjw652vgjww4hv3l74w32ydc5k3") (f (quote (("std" "rustc-hex") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.1.0 (c (n "bigint") (v "4.1.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "02pwhmq63xlwfs875wqh0apl6hsv9wyx2mbradhpcay3pd3xzzh5") (f (quote (("std" "rustc-hex") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.1.1 (c (n "bigint") (v "4.1.1") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "1swcp6ajr55fjw4mcp9pglzjridga115sa89vyc5m0r70ymbwi9b") (f (quote (("std" "rustc-hex") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.1.2 (c (n "bigint") (v "4.1.2") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "1w5x4c3mj1w8fviv4f1j416pv6ykjy3xa7xbrp6azp4ws0f9yv7m") (f (quote (("std" "rustc-hex") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.2.0 (c (n "bigint") (v "4.2.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)))) (h "1kazxdavkhlf4k650ib4sdwnhnm3hx61x72bxvqk03snyrp1hhjl") (f (quote (("std" "rustc-hex") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.3.0 (c (n "bigint") (v "4.3.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "cc") (r "^1.0.9") (o #t) (d #t) (k 1)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.4") (d #t) (k 2)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1qbky55g1jk9v8f8mi55fh9f94a62xw4r68v77kkrr1wy9hxk9ml") (f (quote (("std" "rustc-hex") ("heapsizeof" "heapsize" "std") ("asm" "cc"))))))
+
+(define-public crate-bigint-4.4.0 (c (n "bigint") (v "4.4.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.4") (d #t) (k 2)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "06qzl1wv2r58f32b3ygk2894i1xpl5rp4xb56shzlbw2111xw7fs") (f (quote (("std" "rustc-hex") ("serialize" "serde" "serde_derive") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.4.1 (c (n "bigint") (v "4.4.1") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.4") (d #t) (k 2)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "10njf1zmqv7j7f4pw1y24zb0jbrp5mbsfgkcgc6iaif7nc9srv7b") (f (quote (("std" "rustc-hex") ("serialize" "serde" "serde_derive") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.4.2 (c (n "bigint") (v "4.4.2") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.4") (d #t) (k 2)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "196h5dzpy1ajp9p3bc73g5112bgk033hhxmc2jl9g5cn4rxfi3s9") (f (quote (("std" "rustc-hex") ("serialize" "serde" "serde_derive") ("heapsizeof" "heapsize" "std"))))))
+
+(define-public crate-bigint-4.4.3 (c (n "bigint") (v "4.4.3") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "crunchy") (r "^0.1.5") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.4") (d #t) (k 2)) (d (n "rustc-hex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1vvxxnhk4893nvnc2sk53zzzsqp423cg8b7z5r454aq502kcis60") (f (quote (("std" "rustc-hex") ("serialize" "serde" "serde_derive") ("heapsizeof" "heapsize" "std"))))))
+

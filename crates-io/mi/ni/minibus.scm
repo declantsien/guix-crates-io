@@ -1,0 +1,6 @@
+(define-module (crates-io mi ni minibus) #:use-module (crates-io))
+
+(define-public crate-minibus-0.0.1 (c (n "minibus") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.36") (d #t) (k 0)) (d (n "inventory") (r "^0.1.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "weak-table") (r "^0.3.0") (d #t) (k 0)))) (h "07vbp5ypygl3y0bdywbnpm33y40cb84kzf07ssmw33a6j1hwgcjm")))
+
+(define-public crate-minibus-0.0.2 (c (n "minibus") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (f (quote ("attributes" "unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.36") (d #t) (k 0)) (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "inventory") (r "^0.1.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "multimap") (r "^0.8.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tide") (r "^0.13") (d #t) (k 0)) (d (n "weak-table") (r "^0.3.0") (d #t) (k 0)))) (h "0g8yflzjilpf4jmafszymmj7gkhfrnwjgj8jmgl64kvxqay71arl")))
+

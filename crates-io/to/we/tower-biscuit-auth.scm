@@ -1,0 +1,4 @@
+(define-module (crates-io to we tower-biscuit-auth) #:use-module (crates-io))
+
+(define-public crate-tower-biscuit-auth-0.1.0 (c (n "tower-biscuit-auth") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "arc-swap") (r "^1.5.0") (d #t) (k 0)) (d (n "axum") (r "^0.5.4") (d #t) (k 2)) (d (n "base64") (r "^0.13.0") (d #t) (k 2)) (d (n "biscuit-auth") (r "^2.1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "http") (r "^0.2.7") (d #t) (k 2)) (d (n "hyper") (r "^0.14.18") (f (quote ("tcp" "http1" "server"))) (d #t) (k 2)) (d (n "tokio") (r "^1.18.1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)) (d (n "tower") (r "^0.4.12") (f (quote ("filter"))) (k 0)) (d (n "tower-http") (r "^0.3.2") (f (quote ("auth"))) (d #t) (k 2)) (d (n "tower-test") (r "^0.4.0") (d #t) (k 2)))) (h "1vp2r1m58zp47df1bl0k6wmwbpgfiryj4wwxvgbw4939n0ag24f9")))
+

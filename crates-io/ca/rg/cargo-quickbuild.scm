@@ -1,0 +1,4 @@
+(define-module (crates-io ca rg cargo-quickbuild) #:use-module (crates-io))
+
+(define-public crate-cargo-quickbuild-0.0.0 (c (n "cargo-quickbuild") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "cargo") (r "^0.61.1") (d #t) (k 0)) (d (n "crypto-hash") (r "^0.3.4") (d #t) (k 0)) (d (n "filetime") (r "^0.2.16") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1q2rqa0s4wzajsv0bdxmi1ivr8qahagfgs8mj6b9qkib7sjigsms")))
+

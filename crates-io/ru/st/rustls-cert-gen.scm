@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rustls-cert-gen) #:use-module (crates-io))
+
+(define-public crate-rustls-cert-gen-0.1.0 (c (n "rustls-cert-gen") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "aws-lc-rs") (r "^1.6.0") (o #t) (d #t) (k 0)) (d (n "bpaf") (r "^0.9.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "pem") (r "^3.0.2") (d #t) (k 0)) (d (n "pki-types") (r "^1.4.1") (d #t) (k 0) (p "rustls-pki-types")) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rcgen") (r "^0.13") (f (quote ("pem"))) (k 0)) (d (n "ring") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "x509-parser") (r "^0.16") (f (quote ("verify"))) (d #t) (k 2)))) (h "1cq4lfgr0rq3j50bvpxanikhfkzyf538r9v7rdqvp57ai8fam46w") (f (quote (("default" "ring")))) (s 2) (e (quote (("ring" "dep:ring" "rcgen/ring") ("fips" "aws_lc_rs" "aws-lc-rs?/fips") ("aws_lc_rs" "dep:aws-lc-rs" "rcgen/aws_lc_rs"))))))
+

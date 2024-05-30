@@ -1,0 +1,4 @@
+(define-module (crates-io po se poseidon-primitives) #:use-module (crates-io))
+
+(define-public crate-poseidon-primitives-0.1.1 (c (n "poseidon-primitives") (v "0.1.1") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "ff") (r "^0.13") (d #t) (k 0)) (d (n "halo2_proofs") (r "^0") (d #t) (k 2) (p "halo2-axiom")) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3.0") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.3.0") (d #t) (k 0)) (d (n "subtle") (r "^2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1a16pql1r2nvs1wkkpvxskhl8gk456r5p2r9hx0rp17ayxq5bn9b") (f (quote (("short") ("print_layout" "halo2_proofs/dev-graph") ("legacy") ("default"))))))
+

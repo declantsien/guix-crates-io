@@ -1,0 +1,22 @@
+(define-module (crates-io av ri avrio_config) #:use-module (crates-io))
+
+(define-public crate-avrio_config-0.1.0 (c (n "avrio_config") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "080cmncfvlpmrsa3i6vj8lbzq89khkfvrz23iyf55xw3zlfb354m")))
+
+(define-public crate-avrio_config-0.1.1 (c (n "avrio_config") (v "0.1.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "1qyzqibdryskvmw64iljkisnrr2y3lb8b6gkkfx84bl9iqvd1cqk")))
+
+(define-public crate-avrio_config-0.1.2 (c (n "avrio_config") (v "0.1.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "18x1kl1wsl7nkiym92lm0d68mqjsb62yavmrf4q3kfif0s543fj2")))
+
+(define-public crate-avrio_config-0.2.2 (c (n "avrio_config") (v "0.2.2") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "071dica0av07ybgknfcajcq5mhfms20kx0w92q2w2lyl24w13ycq")))
+
+(define-public crate-avrio_config-0.2.3 (c (n "avrio_config") (v "0.2.3") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "1684pyh6nbkbsjvi575idds1yfsnk0wahh1kpzpp94wfvil170mr")))
+
+(define-public crate-avrio_config-0.3.0 (c (n "avrio_config") (v "0.3.0") (d (list (d (n "derefable") (r "^0.1.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "1dkflvm8ij7av27wdw0jyycgidc21061sc7iiwpjn2i0wj9139yz")))
+
+(define-public crate-avrio_config-0.3.1 (c (n "avrio_config") (v "0.3.1") (d (list (d (n "derefable") (r "^0.1.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "0ms3fqcwi742mlqaq257cbcq7khv4pzcnwrh646r22fd9z2a0rj9")))
+
+(define-public crate-avrio_config-0.3.2 (c (n "avrio_config") (v "0.3.2") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "1k1lqf8y07l0rh068q7yl7wyiikkfkcqmag2n5qiphqigsizy2bf")))
+
+(define-public crate-avrio_config-0.3.3 (c (n "avrio_config") (v "0.3.3") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "11p84prvzgcxgskm1iahkih0myn1q0vp0crs42ynzd5h6qqwwcd3")))
+
+(define-public crate-avrio_config-0.3.4 (c (n "avrio_config") (v "0.3.4") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "simple_logger") (r "^1.5.0") (d #t) (k 0)))) (h "1g4rz3i9iyirj3pr2ak6jr9vyxfkrsyf0hiyvvmxcxqiaq5lpj6c")))
+

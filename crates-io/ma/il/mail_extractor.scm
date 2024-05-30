@@ -1,0 +1,10 @@
+(define-module (crates-io ma il mail_extractor) #:use-module (crates-io))
+
+(define-public crate-mail_extractor-0.1.0 (c (n "mail_extractor") (v "0.1.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lol_html") (r "^0.1.0") (d #t) (k 0)) (d (n "mailparse") (r "^0.10.1") (d #t) (k 0)) (d (n "mime") (r "^0.3.14") (d #t) (k 0)) (d (n "mime_multipart") (r "^0.5.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1jjhkdgzk7an09b3s25lvbqifigq4jxqmaspj0sfpi136mva42zd")))
+
+(define-public crate-mail_extractor-0.1.1 (c (n "mail_extractor") (v "0.1.1") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lol_html") (r "^0.1.0") (d #t) (k 0)) (d (n "mailparse") (r "^0.10.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1h7p2iyb4zkgsxyd45krlcx6498gfj51g5cn74xrmmqgl3p3qviz")))
+
+(define-public crate-mail_extractor-0.1.2 (c (n "mail_extractor") (v "0.1.2") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lol_html") (r "^0.1.0") (d #t) (k 0)) (d (n "mailparse") (r "^0.10.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0m4nh87yib7hd26f0kzvwhgc75ddp7vghs4c3gxizal9ykar6165")))
+
+(define-public crate-mail_extractor-0.1.3 (c (n "mail_extractor") (v "0.1.3") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lol_html") (r "^0.1.0") (d #t) (k 0)) (d (n "mailparse") (r "^0.10.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "03wchhsz6bv7qn8fhmrd4ysxq5ab0yzlff05p325qx3hkk3c1zwk")))
+

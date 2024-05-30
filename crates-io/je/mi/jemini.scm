@@ -1,0 +1,6 @@
+(define-module (crates-io je mi jemini) #:use-module (crates-io))
+
+(define-public crate-jemini-0.1.0 (c (n "jemini") (v "0.1.0") (h "0pi0l0awl69gza8px5wjvd1g2rlb2ax200k08gdw7jdsb770w6q8")))
+
+(define-public crate-jemini-0.1.1 (c (n "jemini") (v "0.1.1") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "poise") (r "^0.6.1") (d #t) (k 0)) (d (n "poise") (r "^0.6.1") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "178kf3y9nx7x1vvzam0x8m9cqrlsgz9jnw8syyyhhyfvd54qbzhb")))
+

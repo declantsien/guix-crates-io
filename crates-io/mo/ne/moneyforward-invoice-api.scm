@@ -1,0 +1,6 @@
+(define-module (crates-io mo ne moneyforward-invoice-api) #:use-module (crates-io))
+
+(define-public crate-moneyforward-invoice-api-0.1.0 (c (n "moneyforward-invoice-api") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.4.3") (d #t) (k 2)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "native-tls") (r "^0.1.4") (d #t) (k 2)) (d (n "oauth2") (r "^1.1.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.11") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "url") (r "^1.5.1") (d #t) (k 2)))) (h "1pyr16w4m7z795fc3d70zvk4bqgypndlsbh9g1rg6ssmas7p85vw")))
+
+(define-public crate-moneyforward-invoice-api-0.1.1 (c (n "moneyforward-invoice-api") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.4.3") (d #t) (k 2)) (d (n "log") (r "^0.3.0") (d #t) (k 0)) (d (n "native-tls") (r "^0.1.4") (d #t) (k 2)) (d (n "oauth2") (r "^1.1.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.5.1") (d #t) (k 2)))) (h "07y6jmqf9frdi7g5ahdi5yfhs5g1rq01hb3nkibf3aggc5gm80al")))
+

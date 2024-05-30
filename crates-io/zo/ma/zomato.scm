@@ -1,0 +1,6 @@
+(define-module (crates-io zo ma zomato) #:use-module (crates-io))
+
+(define-public crate-zomato-0.1.0 (c (n "zomato") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "fmt2io") (r "^0.1") (d #t) (k 2)) (d (n "mktemp") (r "^0.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.1") (d #t) (k 0)) (d (n "scraper") (r "^0.11.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.4") (d #t) (k 2)) (d (n "tokio") (r "^0.2.8") (f (quote ("full"))) (d #t) (k 2)))) (h "1rgk8m906zdjglhia29pq25khm6syzrpa8nv74s7wd998l6yhaik") (f (quote (("debug-log"))))))
+
+(define-public crate-zomato-0.1.1 (c (n "zomato") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "fmt2io") (r "^0.1") (d #t) (k 2)) (d (n "mktemp") (r "^0.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.1") (d #t) (k 0)) (d (n "scraper") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)) (d (n "simple_logger") (r "^1.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.7") (d #t) (k 0)) (d (n "tokio") (r "^0.2.8") (f (quote ("full"))) (d #t) (k 2)))) (h "1yl16s28g0vqc01vlc9mcsq2jhz37yrzlrzvckcq4avz26957g33") (f (quote (("debug-log"))))))
+

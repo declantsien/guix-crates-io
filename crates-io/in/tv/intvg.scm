@@ -1,0 +1,12 @@
+(define-module (crates-io in tv intvg) #:use-module (crates-io))
+
+(define-public crate-intvg-0.1.0 (c (n "intvg") (v "0.1.0") (d (list (d (n "kurbo") (r "^0.9") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 0)) (d (n "usvg") (r "^0.35") (d #t) (k 0)))) (h "1gskp0abwvj3s0ffmcmlw0xariz7yqvc952wf74k6q9caln5as39")))
+
+(define-public crate-intvg-0.1.1 (c (n "intvg") (v "0.1.1") (d (list (d (n "kurbo") (r "^0.9") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 0)) (d (n "usvg") (r "^0.35") (d #t) (k 0)))) (h "0ww4jimdljg04a873m691baq0nmkbbx4v8yjhjkn6gndjvg4y61x")))
+
+(define-public crate-intvg-0.1.2 (c (n "intvg") (v "0.1.2") (d (list (d (n "build-time") (r "^0.1") (d #t) (k 0)) (d (n "kurbo") (r "^0.9") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 0)) (d (n "usvg") (r "^0.35") (d #t) (k 0)))) (h "1a5mypp8d2n0fkyran8bw6k4iz34zymc0iasdnvc51pidrc4nl8w")))
+
+(define-public crate-intvg-0.1.3 (c (n "intvg") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 1)) (d (n "kurbo") (r "^0.9") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 0)) (d (n "usvg") (r "^0.35") (d #t) (k 0)))) (h "0lsrv2fzvp6bqccr02wbyyq7qhdxrxhpsc4a1cas8yyac694rffb")))
+
+(define-public crate-intvg-0.1.5 (c (n "intvg") (v "0.1.5") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "chrono") (r "^0.4") (d #t) (k 1)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "femtovg") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "glutin") (r "^0.31") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "glutin-winit") (r "^0.4") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "kurbo") (r "^0.11") (d #t) (k 0)) (d (n "png") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "raw-window-handle") (r "^0.5") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 0)) (d (n "usvg") (r "^0.41") (d #t) (k 0)) (d (n "web_sys") (r "^0.3") (f (quote ("console" "WebGlContextAttributes"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "web-sys")) (d (n "winit") (r "^0.29") (o #t) (d #t) (k 0)))) (h "0fa6mb12clv45rak201m1sx5hvq6fvgx8yjn2ns9qa4bryw7rbpm") (f (quote (("ugl") ("ovg") ("nvg" "femtovg" "winit" "glutin" "glutin-winit" "raw-window-handle") ("ftg") ("evg_fixed" "evg") ("b2d_sfp" "b2d") ("b2d")))) (s 2) (e (quote (("evg" "dep:png"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io he ap heapbuf) #:use-module (crates-io))
+
+(define-public crate-heapbuf-0.0.1 (c (n "heapbuf") (v "0.0.1") (d (list (d (n "f128") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "half") (r "^2.4.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rw-utils") (r "^0.0.1") (f (quote ("all"))) (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)) (d (n "uintx") (r "^0.0.2") (o #t) (d #t) (k 0)))) (h "0w185z7iv9k7kl4w8lm7i777s1qzwv762xa864wlf9kkzm1rzjib") (f (quote (("uintx_support" "uintx") ("f16_support" "half") ("f128_support" "f128") ("all" "uintx_support" "f16_support" "f128_support"))))))
+
+(define-public crate-heapbuf-0.1.0 (c (n "heapbuf") (v "0.1.0") (d (list (d (n "f128") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "half") (r "^2.4.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rw-utils") (r "^0.0.1") (f (quote ("all"))) (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)) (d (n "uintx") (r "^0.1.0") (o #t) (d #t) (k 0)))) (h "0gds2lhah8bmhrssl8gwrbn7xfxjbgbcj1iaydyrvj5rwn4bxprn") (f (quote (("uintx_support" "uintx") ("f16_support" "half") ("f128_support" "f128") ("all" "uintx_support" "f16_support" "f128_support"))))))
+

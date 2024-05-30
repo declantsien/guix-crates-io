@@ -1,0 +1,8 @@
+(define-module (crates-io hi ve hiven-rs) #:use-module (crates-io))
+
+(define-public crate-hiven-rs-0.1.0 (c (n "hiven-rs") (v "0.1.0") (d (list (d (n "async-tungstenite") (r "^0.8.0") (f (quote ("tokio-runtime" "tokio-native-tls"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-value") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "176yij7zm7h2dida9vh59c0g9z1qlhix3x9xbl7b0rbki3p4447g")))
+
+(define-public crate-hiven-rs-0.1.1 (c (n "hiven-rs") (v "0.1.1") (d (list (d (n "async-tungstenite") (r "^0.8.0") (f (quote ("tokio-runtime" "tokio-native-tls"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-value") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0dwjzpj0s3vx8fdyk76mxc7k51n506qm1rqmp5pw8rc1hni3rm1x")))
+
+(define-public crate-hiven-rs-0.1.2 (c (n "hiven-rs") (v "0.1.2") (d (list (d (n "async-tungstenite") (r "^0.8.0") (f (quote ("tokio-runtime" "tokio-native-tls"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-value") (r "^0.7.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "043c0sw6jairf3z9hlip45j74pflk5gj0sw6lk9m0h227yipzdqc")))
+

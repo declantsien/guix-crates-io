@@ -1,0 +1,4 @@
+(define-module (crates-io mo rx morx) #:use-module (crates-io))
+
+(define-public crate-morx-0.1.0 (c (n "morx") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std" "serde"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "numpy") (r "^0.16") (d #t) (k 0)) (d (n "plotters") (r "^0.3.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.16") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "snafu") (r "^0.7") (f (quote ("std" "backtraces"))) (d #t) (k 0)) (d (n "tch") (r "^0.7") (d #t) (k 0)))) (h "1350qm7g7xkbkhddk6dlqgmkap8qg26zgac3bw26x7x4m56wz8nv")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io bi tc bitcoin-utils) #:use-module (crates-io))
+
+(define-public crate-bitcoin-utils-0.1.0 (c (n "bitcoin-utils") (v "0.1.0") (d (list (d (n "bitcoin") (r "=0.29.1") (d #t) (k 0)) (d (n "bitcoin-address") (r "=0.1.4") (d #t) (k 0)) (d (n "bitcoin-bech32") (r "=0.12.1") (d #t) (k 0)) (d (n "hex-utilities") (r "=0.1.4") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "sha2") (r "=0.10.5") (d #t) (k 0)) (d (n "sha256") (r "=1.0.3") (d #t) (k 0)))) (h "1b88prl71rn6s26a6c53hg65ks36hamb57zfkqypzmxys9pggd0z")))
+
+(define-public crate-bitcoin-utils-0.1.1 (c (n "bitcoin-utils") (v "0.1.1") (d (list (d (n "bitcoin") (r "=0.29.1") (d #t) (k 0)) (d (n "bitcoin-address") (r "=0.1.4") (d #t) (k 0)) (d (n "bitcoin-bech32") (r "=0.12.1") (d #t) (k 0)) (d (n "hex-utilities") (r "=0.1.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "sha2") (r "=0.10.5") (d #t) (k 0)) (d (n "sha256") (r "=1.0.3") (d #t) (k 0)))) (h "0xqji88vq86ar82h8s49kszrvxm1rwb01v11jixq3v9l16mpn4hp")))
+
+(define-public crate-bitcoin-utils-0.1.2 (c (n "bitcoin-utils") (v "0.1.2") (d (list (d (n "bitcoin") (r "=0.29.1") (d #t) (k 0)) (d (n "bitcoin-address") (r "=0.1.5") (d #t) (k 0)) (d (n "bitcoin-bech32") (r "=0.12.1") (d #t) (k 0)) (d (n "hex-utilities") (r "=0.1.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "sha2") (r "=0.10.5") (d #t) (k 0)) (d (n "sha256") (r "=1.0.3") (d #t) (k 0)))) (h "0xyfljlr1jr02k9fks9ghhrkf3v2b1hb3ymh9xz7qv1zrzyl9z60")))
+
+(define-public crate-bitcoin-utils-0.1.3 (c (n "bitcoin-utils") (v "0.1.3") (d (list (d (n "bitcoin") (r "=0.29.1") (d #t) (k 0)) (d (n "bitcoin-address") (r "=0.1.5") (d #t) (k 0)) (d (n "bitcoin-bech32") (r "=0.12.1") (d #t) (k 0)) (d (n "hex-utilities") (r "=0.1.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "sha2") (r "=0.10.5") (d #t) (k 0)) (d (n "sha256") (r "=1.0.3") (d #t) (k 0)))) (h "0za2sybr9pfi9cdignq1laq7k4qld8x61pj5cvjfs2snpz7zy9dn")))
+

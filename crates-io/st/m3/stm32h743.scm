@@ -1,0 +1,12 @@
+(define-module (crates-io st m3 stm32h743) #:use-module (crates-io))
+
+(define-public crate-stm32h743-0.1.0 (c (n "stm32h743") (v "0.1.0") (d (list (d (n "bare-metal") (r "^0.1.2") (d #t) (k 0)) (d (n "cortex-m") (r "^0.4.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.4.0") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.2.0") (d #t) (k 0)) (d (n "panic-abort") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.1.0") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "0vigdwhx4mksr0rd9sy0a97clkl6yf7a3bjpdv183pb0c3nfv2mn")))
+
+(define-public crate-stm32h743-0.1.1 (c (n "stm32h743") (v "0.1.1") (d (list (d (n "bare-metal") (r "^0.1.2") (d #t) (k 0)) (d (n "cortex-m") (r "^0.4.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.4.0") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.2.0") (d #t) (k 0)) (d (n "panic-abort") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.1.0") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "0h5ghvm5vpqvikzl0hp07q8ph4w1k91r8lsa3z2bvckjl1pjwh2r")))
+
+(define-public crate-stm32h743-0.2.0 (c (n "stm32h743") (v "0.2.0") (d (list (d (n "bare-metal") (r "^0.1.2") (d #t) (k 0)) (d (n "cortex-m") (r "^0.4.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.4.0") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.2.0") (d #t) (k 0)) (d (n "panic-abort") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.1.0") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "1h4z7cp12587sm5hm4y7k1pz9adnxmgj5ajba0y9yp4wdngpb35c")))
+
+(define-public crate-stm32h743-0.2.1 (c (n "stm32h743") (v "0.2.1") (d (list (d (n "bare-metal") (r "^0.2.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.5.1") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.5.1") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.2.0") (d #t) (k 0)) (d (n "panic-abort") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.2.0") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "13c0y1szz9viy4hzhy7l0zkji2syiamnlxzwiwzyr207m9by4lrn")))
+
+(define-public crate-stm32h743-0.2.2 (c (n "stm32h743") (v "0.2.2") (d (list (d (n "bare-metal") (r "^0.2.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.5.2") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.3.0") (d #t) (k 0)) (d (n "panic-abort") (r "^0.2.0") (d #t) (k 0)) (d (n "panic-semihosting") (r "^0.3.0") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "1kw06520zd1fry3vqyshxgpldhyyn1yj7lmnwk9hn1c70nw37pfc") (f (quote (("rt" "cortex-m-rt/device"))))))
+

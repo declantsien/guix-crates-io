@@ -1,0 +1,12 @@
+(define-module (crates-io av en avenger) #:use-module (crates-io))
+
+(define-public crate-avenger-0.0.1-a1 (c (n "avenger") (v "0.0.1-a1") (d (list (d (n "image") (r "^0.24.8") (f (quote ("png"))) (k 0)) (d (n "lyon_path") (r "^1.0.1") (f (quote ("serialization"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1nvyykvi03xm9x12kcvlri3jsvqv9d4zrn0nczv89qcis1jfryyp")))
+
+(define-public crate-avenger-0.0.2 (c (n "avenger") (v "0.0.2") (d (list (d (n "image") (r "^0.24.8") (f (quote ("png"))) (k 0)) (d (n "lyon_path") (r "^1.0.1") (f (quote ("serialization"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0gvhvqiqz6n60zlxafyr0mj4v664v3y5gwaywwajcfgiqljn2ap9")))
+
+(define-public crate-avenger-0.0.3 (c (n "avenger") (v "0.0.3") (d (list (d (n "image") (r "^0.24.8") (f (quote ("png"))) (k 0)) (d (n "lyon_path") (r "^1.0.1") (f (quote ("serialization"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.2") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "01ywscdi8z5ignv8hwa65ig15rhjch07j8q5yf5lj4w75ck2l4pz")))
+
+(define-public crate-avenger-0.0.7 (c (n "avenger") (v "0.0.7") (d (list (d (n "image") (r "^0.24.8") (f (quote ("png"))) (k 0)) (d (n "lyon_extra") (r "^1.0.1") (d #t) (k 0)) (d (n "lyon_path") (r "^1.0.1") (f (quote ("serialization"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.2") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "1rdfipizchr547jl3vwham2cvlkjqy9p3m39y33xa7lvfdb8xwh8")))
+
+(define-public crate-avenger-0.0.8 (c (n "avenger") (v "0.0.8") (d (list (d (n "image") (r "^0.24.8") (f (quote ("png"))) (k 0)) (d (n "lyon_extra") (r "^1.0.1") (d #t) (k 0)) (d (n "lyon_path") (r "^1.0.1") (f (quote ("serialization"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.2") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0924ba39a6g2q7cijgwi59pzp9nry348nswfj5gh06q01c8px9gc")))
+

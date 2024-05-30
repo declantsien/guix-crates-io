@@ -1,0 +1,6 @@
+(define-module (crates-io wo rk worker-plus-macros) #:use-module (crates-io))
+
+(define-public crate-worker-plus-macros-0.0.6 (c (n "worker-plus-macros") (v "0.0.6") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.39") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.30") (d #t) (k 0)) (d (n "wasm-bindgen-macro-support") (r "^0.2.80") (d #t) (k 0)) (d (n "worker-sys") (r "^0.0.6") (d #t) (k 0) (p "worker-plus-sys")))) (h "12rc4k8d6jxwkav3lb0hpv62ffa0qnycgr1536b2rj6zpddnx4kz")))
+
+(define-public crate-worker-plus-macros-0.0.7 (c (n "worker-plus-macros") (v "0.0.7") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.39") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.96") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.30") (d #t) (k 0)) (d (n "wasm-bindgen-macro-support") (r "^0.2.80") (d #t) (k 0)) (d (n "worker-sys") (r "^0.0.8") (d #t) (k 0) (p "worker-plus-sys")))) (h "1iacvc0zq6vqsxlqws021n4zflr66y7wy6n1wgd0g5f1pv4nlvam")))
+

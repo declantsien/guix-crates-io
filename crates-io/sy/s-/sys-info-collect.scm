@@ -1,0 +1,4 @@
+(define-module (crates-io sy s- sys-info-collect) #:use-module (crates-io))
+
+(define-public crate-sys-info-collect-0.1.0 (c (n "sys-info-collect") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ipconfig") (r "^0.3") (d #t) (t "cfg(windows)") (k 0)) (d (n "notify") (r "^5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pnet_datalink") (r "^0.33.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sysinfo") (r "^0.28.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "18qr4pfz361y74z3j94izgm0srb7lfkxlbg7ph32z1msh2jv3ysz")))
+

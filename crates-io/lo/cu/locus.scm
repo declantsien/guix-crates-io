@@ -1,0 +1,4 @@
+(define-module (crates-io lo cu locus) #:use-module (crates-io))
+
+(define-public crate-locus-0.0.0 (c (n "locus") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 1)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "pickledb") (r "^0.4.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tantivy") (r "^0.17.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "vergen") (r "^7.0.0") (d #t) (k 1)) (d (n "windmark") (r "^0.1.14") (f (quote ("logger" "auto-deduce-mime"))) (d #t) (k 0)) (d (n "yarte") (r "^0.15.6") (d #t) (k 0)) (d (n "yarte") (r "^0.15.6") (d #t) (k 1)))) (h "0051vqgwiph59sfgnpics9z2jm33hnp67azv25sxfzk13i669vp0")))
+

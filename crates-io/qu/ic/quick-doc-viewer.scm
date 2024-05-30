@@ -1,0 +1,4 @@
+(define-module (crates-io qu ic quick-doc-viewer) #:use-module (crates-io))
+
+(define-public crate-quick-doc-viewer-0.1.0 (c (n "quick-doc-viewer") (v "0.1.0") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "chardetng") (r "^0.1") (d #t) (k 0)) (d (n "comrak") (r "^0.12") (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "http-types") (r "^2") (d #t) (k 0)) (d (n "maud") (r "^0.23") (f (quote ("tide"))) (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "mime_guess") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tide") (r "^0.16.0") (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1vwbmyfh7085q6mw4zxpaw4p6cxyfjs8bkbw11067ji1pyg0xzhg")))
+

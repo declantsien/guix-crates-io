@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargolifter-web) #:use-module (crates-io))
+
+(define-public crate-cargolifter-web-0.1.0 (c (n "cargolifter-web") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "axum") (r "^0.2") (f (quote ("headers"))) (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1g9rpfvl8azm79pfx9023rs2s4jdhhxs5jzs098l17g5llpzl18a")))
+
+(define-public crate-cargolifter-web-0.1.1 (c (n "cargolifter-web") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "axum") (r "^0.2") (f (quote ("headers"))) (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1szyz86848hnzzg7j12ivnj364r72ppggyqvdgy325kda2xcj77r")))
+
+(define-public crate-cargolifter-web-0.1.2 (c (n "cargolifter-web") (v "0.1.2") (d (list (d (n "axum") (r "^0.2") (f (quote ("headers"))) (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0763lsx1z4kxf3dy233nj7g40c2sbgmyl16j9bvjshizrld5j8h6")))
+
+(define-public crate-cargolifter-web-0.2.0 (c (n "cargolifter-web") (v "0.2.0") (d (list (d (n "axum") (r "^0.2") (f (quote ("headers"))) (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0151sna35zzdifsslx0mm1i6gaj1adb1r836s6djhk9v5w5gmgfm")))
+

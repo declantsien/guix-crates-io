@@ -1,0 +1,6 @@
+(define-module (crates-io ta ra tarangam) #:use-module (crates-io))
+
+(define-public crate-tarangam-0.2.0 (c (n "tarangam") (v "0.2.0") (d (list (d (n "cairo-rs") (r "^0.9.1") (f (quote ("png"))) (d #t) (k 0)) (d (n "gdk") (r "^0.13.2") (d #t) (k 0)) (d (n "gio") (r "^0.9.1") (d #t) (k 0)) (d (n "glib") (r "^0.10.3") (d #t) (k 0)) (d (n "gtk") (r "^0.9.2") (d #t) (k 0)) (d (n "libmath") (r "^0.2.1") (d #t) (k 0)) (d (n "png") (r "^0.16.8") (d #t) (k 0)) (d (n "rand") (r "^0.8.1") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (f (quote ("rt" "rt-multi-thread" "macros" "time" "sync"))) (d #t) (k 0)))) (h "0kfqmi5srwrc15986nbxz8y8gp31v142frkmhrr1m31wn04dbsrm")))
+
+(define-public crate-tarangam-0.3.1 (c (n "tarangam") (v "0.3.1") (d (list (d (n "cairo-rs") (r "^0.15") (f (quote ("png"))) (d #t) (k 0)) (d (n "gdk") (r "^0.15") (d #t) (k 0)) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "gtk") (r "^0.15") (d #t) (k 0)) (d (n "libmath") (r "^0.2.1") (d #t) (k 0)) (d (n "png") (r "^0.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.1") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (f (quote ("rt" "rt-multi-thread" "macros" "time" "sync"))) (d #t) (k 0)))) (h "1532qrif9827pm9ljpf99mqz581kdgjpqa5m53lbb6f2ycrajlrn")))
+

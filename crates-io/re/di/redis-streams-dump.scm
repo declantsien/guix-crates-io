@@ -1,0 +1,4 @@
+(define-module (crates-io re di redis-streams-dump) #:use-module (crates-io))
+
+(define-public crate-redis-streams-dump-0.3.0 (c (n "redis-streams-dump") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (k 0)) (d (n "sea-streamer-file") (r "^0.3") (f (quote ("runtime-tokio"))) (d #t) (k 0)) (d (n "sea-streamer-redis") (r "^0.3") (f (quote ("runtime-tokio"))) (d #t) (k 0)) (d (n "sea-streamer-types") (r "^0.3.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("std" "parsing"))) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0dr8lj0va36hk12hrq2n4xiy4kab16slnwls4332zdgq6sirw1hy") (f (quote (("runtime-tokio-native-tls" "sea-streamer-redis/runtime-tokio-native-tls")))) (r "1.60")))
+

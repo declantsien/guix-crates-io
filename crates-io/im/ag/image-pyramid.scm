@@ -1,0 +1,14 @@
+(define-module (crates-io im ag image-pyramid) #:use-module (crates-io))
+
+(define-public crate-image-pyramid-0.1.1 (c (n "image-pyramid") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)))) (h "0ifzpzmm2i1fydwx9nz8nhvgf31v6i70g0i6z0lf8x1f4i4rw4b3")))
+
+(define-public crate-image-pyramid-0.2.1 (c (n "image-pyramid") (v "0.2.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.5") (d #t) (k 2)))) (h "1a9k33jv37c1s9vyxn0vsly5kg1s1r1g6fdyk34aq8ma4mgwnw12")))
+
+(define-public crate-image-pyramid-0.2.2 (c (n "image-pyramid") (v "0.2.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "image") (r "^0.25.1") (f (quote ("rayon"))) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.5") (d #t) (k 2)))) (h "1gbhh62c42ilalb3x9j7djdb9j1f4a6pykpbkpgpivsr7w4fv9l8")))
+
+(define-public crate-image-pyramid-0.3.1 (c (n "image-pyramid") (v "0.3.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "image") (r "^0.25.1") (f (quote ("rayon"))) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)) (d (n "version-sync") (r "^0.9.5") (d #t) (k 2)))) (h "0abs2yv214ix9kx4hi99q95xg8az94280bswiwhn0p8rsjxn8xkj")))
+
+(define-public crate-image-pyramid-0.4.1 (c (n "image-pyramid") (v "0.4.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "image") (r "^0.25.1") (f (quote ("rayon"))) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.5") (d #t) (k 2)))) (h "1vbqbahshjasrf33xndgd2xh3hzhl6hyl3pvnqva5m5294aqvkqy")))
+
+(define-public crate-image-pyramid-0.5.1 (c (n "image-pyramid") (v "0.5.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "image") (r "^0.25.1") (f (quote ("rayon"))) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "imageproc") (r "^0.25.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.5") (d #t) (k 2)))) (h "1b9c711w7gxyyvv64gmg2pp78k1ak4xrhjmbv55g3bhsil1fqgqb")))
+

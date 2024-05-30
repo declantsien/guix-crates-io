@@ -1,0 +1,10 @@
+(define-module (crates-io di m- dim-screen) #:use-module (crates-io))
+
+(define-public crate-dim-screen-0.1.0 (c (n "dim-screen") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 1)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.1") (d #t) (k 0)))) (h "100xawv46hw6xgi1r448wr1jf9m1ic9znq3gqc21bmky6jxj5j1z")))
+
+(define-public crate-dim-screen-0.2.0 (c (n "dim-screen") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.4.10") (d #t) (k 1)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.0") (d #t) (k 0)))) (h "0890j2rdxb11a5yvkv7hbgmipa2hflbw58rmk63msy0ch7v5mc73")))
+
+(define-public crate-dim-screen-0.2.1 (c (n "dim-screen") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.4.9") (d #t) (k 1)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.0") (d #t) (k 0)))) (h "06r1yqzpc1l3w9qq9b1xd5hqp9h0j9k8xm5qmyr589c6vwrxzva7")))
+
+(define-public crate-dim-screen-0.2.2 (c (n "dim-screen") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.4.9") (d #t) (k 1)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "smithay-client-toolkit") (r "^0.18.0") (d #t) (k 0)))) (h "0dysv2kw2msmsqs94bcvyspd7asp9a8z6jjj80xfsvzyhw2gzl59")))
+

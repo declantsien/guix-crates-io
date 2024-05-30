@@ -1,0 +1,8 @@
+(define-module (crates-io em ot emote_mapper) #:use-module (crates-io))
+
+(define-public crate-emote_mapper-0.1.0 (c (n "emote_mapper") (v "0.1.0") (d (list (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0430li8nl8ghvi4zaysian27zi16jysh1bkjv2hs06gs0q2zglry") (f (quote (("re" "regex" "lazy_static") ("default" "re"))))))
+
+(define-public crate-emote_mapper-0.1.1 (c (n "emote_mapper") (v "0.1.1") (d (list (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0dri02052rl15qpxrsv48gx9i390s2xijywpsl5662922f69d3d5") (f (quote (("re" "regex" "lazy_static") ("default" "re"))))))
+
+(define-public crate-emote_mapper-0.1.2 (c (n "emote_mapper") (v "0.1.2") (d (list (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1inmbr38vzywblkjdk3wcd6x7h58c1wysksz22gw9rc0sgpd7nbf") (f (quote (("re" "regex" "lazy_static") ("default" "re"))))))
+

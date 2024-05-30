@@ -1,0 +1,16 @@
+(define-module (crates-io gi tl gitlab-cli) #:use-module (crates-io))
+
+(define-public crate-gitlab-cli-0.1.0 (c (n "gitlab-cli") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)))) (h "00ac5b94mq49qysy8v50wm44yi05p5x876m0dy4d220h933vdv0k")))
+
+(define-public crate-gitlab-cli-0.1.1 (c (n "gitlab-cli") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)))) (h "0fbv2l12ciyw02kpd92d04lw7hc9p99fbllk31n01lcyhgpqrqsa")))
+
+(define-public crate-gitlab-cli-0.1.2 (c (n "gitlab-cli") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)))) (h "004cc6phhi7xjldffcbjkrn8ay3sj7hbnm1771qb4b3jp8w647cl")))
+
+(define-public crate-gitlab-cli-0.1.3 (c (n "gitlab-cli") (v "0.1.3") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)))) (h "0mm3rrpnw3xrfdbp1i7j7l4z3wgkri30sr85bfd1m16dmab00vqa")))
+
+(define-public crate-gitlab-cli-0.1.4 (c (n "gitlab-cli") (v "0.1.4") (d (list (d (n "open") (r "^3.0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)))) (h "0dljjybk2wyglwmgrzn65vmqdys4b2hnv18f79niiqja1sqkzzbw")))
+
+(define-public crate-gitlab-cli-0.1.5 (c (n "gitlab-cli") (v "0.1.5") (d (list (d (n "open") (r "^3.0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (f (quote ("color"))) (d #t) (k 0)) (d (n "terminal-link") (r "^0.1.0") (d #t) (k 0)))) (h "0psad50fnlrr967qn887pkgmczq946najl2vrg1s1g99dmkj58w4")))
+
+(define-public crate-gitlab-cli-0.1.6 (c (n "gitlab-cli") (v "0.1.6") (d (list (d (n "open") (r "^3.0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (f (quote ("color"))) (d #t) (k 0)) (d (n "terminal-link") (r "^0.1.0") (d #t) (k 0)))) (h "0c846wpnx19j3zw2kmd1if5xk4wd4612m1y31n149i1pfsbdfv1h")))
+

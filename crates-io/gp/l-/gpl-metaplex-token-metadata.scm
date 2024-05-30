@@ -1,0 +1,4 @@
+(define-module (crates-io gp l- gpl-metaplex-token-metadata) #:use-module (crates-io))
+
+(define-public crate-gpl-metaplex-token-metadata-0.0.1 (c (n "gpl-metaplex-token-metadata") (v "0.0.1") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "gemachain-program") (r "^1.7.11") (d #t) (k 0)) (d (n "gemachain-program-test") (r "^1.7.11") (d #t) (k 2)) (d (n "gemachain-sdk") (r "^1.7.11") (d #t) (k 2)) (d (n "gpl-metaplex-token-vault") (r "^0.0.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "gpl-token") (r "^3.1.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "07l2ivwkm2jr0gm5wpi8jai79mpi8rh87i2n0h3hmrn3pjl5dq0q") (f (quote (("test-bpf") ("no-entrypoint"))))))
+

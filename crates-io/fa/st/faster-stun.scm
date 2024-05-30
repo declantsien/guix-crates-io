@@ -1,0 +1,10 @@
+(define-module (crates-io fa st faster-stun) #:use-module (crates-io))
+
+(define-public crate-faster-stun-0.1.0 (c (n "faster-stun") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "hmac") (r "^0.10.1") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.2") (d #t) (k 0)))) (h "0i6w5x5hkzwbahxxz9kx3i0rjy9453fnchcdhy6x84ls2dd2hicq")))
+
+(define-public crate-faster-stun-1.0.0 (c (n "faster-stun") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "hmac") (r "^0.10.1") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.2") (d #t) (k 0)))) (h "0yq63w44x92py9iv4azrl255l9b7kkbibnxc2gkv4ap4pj7fjb7b")))
+
+(define-public crate-faster-stun-1.0.1 (c (n "faster-stun") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "num_enum") (r "^0.6") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)))) (h "1b79d7rka631bp0kjpklxjh0rvlj3rs4vhh9v9wb15iwy9a8c708")))
+
+(define-public crate-faster-stun-1.0.2 (c (n "faster-stun") (v "1.0.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "num_enum") (r "^0.6") (d #t) (k 0)) (d (n "sha-1") (r "^0.10.1") (d #t) (k 0)))) (h "0xw7hhiq1iq3pypyjiy95ca6hzfjlkv19lrj0cp8c2im6i56bi1g")))
+

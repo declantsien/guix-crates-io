@@ -1,0 +1,4 @@
+(define-module (crates-io th ru thrussh_pub_connect_stream) #:use-module (crates-io))
+
+(define-public crate-thrussh_pub_connect_stream-0.22.0 (c (n "thrussh_pub_connect_stream") (v "0.22.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "cryptovec") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "thrussh-keys") (r "^0.13.0") (d #t) (k 0)) (d (n "thrussh-libsodium") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("io-util" "rt-threaded" "time" "stream" "tcp" "sync" "macros"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("io-util" "rt-threaded" "time" "stream" "tcp" "sync" "macros"))) (d #t) (k 2)))) (h "1y2agzsvpdx3hpy2098vkcr3fgn0wpa8az00j9036vbknr5hl9pw") (y #t)))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io dn s- dns-bench) #:use-module (crates-io))
+
+(define-public crate-dns-bench-0.1.0 (c (n "dns-bench") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.23.0") (d #t) (k 0)))) (h "196ika5bk3sqd4sgd2kjcmnbs87ghf6c748xv9j8wh3azm4s7aav") (r "1.70.0")))
+
+(define-public crate-dns-bench-0.1.1 (c (n "dns-bench") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.23.0") (d #t) (k 0)))) (h "17gfz62fn9bd9apqy2yrjk6675b028k4gy19by0k15f161f0cax1") (r "1.70.0")))
+
+(define-public crate-dns-bench-0.1.2 (c (n "dns-bench") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.23.0") (d #t) (k 0)))) (h "15ig954cgp395p4481qmyblpzbi06vh9ijnkx35l9y85y2b9yp69") (r "1.70.0")))
+
+(define-public crate-dns-bench-0.1.3 (c (n "dns-bench") (v "0.1.3") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.23.2") (d #t) (k 0)))) (h "1fy3sf9kwmn1cfz4yn404df9yp0r2rkv3jwk71hqa4jyx8l49rik") (r "1.70.0")))
+
+(define-public crate-dns-bench-0.2.0 (c (n "dns-bench") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (d #t) (k 0)))) (h "13qp06d2fxb4bkpwk48bxczhq5gmk13fgac1f39z4jrv1hhpwhdy") (r "1.70.0")))
+
+(define-public crate-dns-bench-0.3.0 (c (n "dns-bench") (v "0.3.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (d #t) (k 0)))) (h "09wzwb8w1pmbcjqk10176lsd2agc75ixl8ny3nli6k7j71wl77av") (r "1.70.0")))
+
+(define-public crate-dns-bench-0.4.0 (c (n "dns-bench") (v "0.4.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)))) (h "12c1hzs8z8ixl6rgzzqyy8wz56f802rmxj5rbrcxn3hqygcpi5z5") (r "1.74.1")))
+
+(define-public crate-dns-bench-0.5.0 (c (n "dns-bench") (v "0.5.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "118mfwxwcf6f0sgi7a46g95z5yjg5sqgc42ydhj0k2kj5460awf7") (r "1.74.1")))
+
+(define-public crate-dns-bench-0.5.1 (c (n "dns-bench") (v "0.5.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0zi2cidb926mrry7y7jr31bpn9c2giw1b14n63qj0k4b6826j38c") (r "1.74.1")))
+

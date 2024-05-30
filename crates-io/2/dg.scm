@@ -1,0 +1,4 @@
+(define-module (crates-io #{2}# dg) #:use-module (crates-io))
+
+(define-public crate-dg-1.1.0 (c (n "dg") (v "1.1.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (o #t) (d #t) (k 0)) (d (n "git2") (r "^0.16.1") (f (quote ("vendored-libgit2" "vendored-openssl"))) (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (f (quote ("backtrace" "redactions"))) (d #t) (k 2)) (d (n "num_cpus") (r "^1.15.0") (d #t) (k 0)) (d (n "owo-colors") (r "^3.5.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.160") (d #t) (k 0)) (d (n "tabled") (r "^0.10.0") (f (quote ("color"))) (d #t) (k 0)) (d (n "trycmd") (r "^0.14.10") (d #t) (k 2)))) (h "05hfkqzplb46blly8w18af12yka1bm3d235a27j1c7qgc80n3iwg") (f (quote (("default" "cli")))) (s 2) (e (quote (("cli" "dep:eyre"))))))
+

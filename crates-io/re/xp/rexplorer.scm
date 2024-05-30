@@ -1,0 +1,8 @@
+(define-module (crates-io re xp rexplorer) #:use-module (crates-io))
+
+(define-public crate-rexplorer-0.1.0 (c (n "rexplorer") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (f (quote ("file_appender"))) (d #t) (k 0)) (d (n "ratatui") (r "^0.23.0") (f (quote ("macros" "all-widgets"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "tui-input") (r "^0.8.0") (d #t) (k 0)))) (h "1i9by8v7zi8vjhjwnb4cjbg0jb6x54ak4qy75gg7mh0kjippzigk")))
+
+(define-public crate-rexplorer-0.2.0 (c (n "rexplorer") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (f (quote ("file_appender"))) (d #t) (k 0)) (d (n "ratatui") (r "^0.23.0") (f (quote ("macros" "all-widgets"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "tui-input") (r "^0.8.0") (d #t) (k 0)))) (h "10aypad2ichjygd8lmm7i4pw25na0vpz9q3q2vi7327fmgcdw1s1")))
+
+(define-public crate-rexplorer-1.0.0 (c (n "rexplorer") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "tui-input") (r "^0.8.0") (d #t) (k 0)) (d (n "widgetui") (r "^0.2.1") (d #t) (k 0)))) (h "18q6kzkrd7yghxxng1w9y2kl30z9112i2nly2q3b260x1rirjk7s")))
+

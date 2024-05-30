@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rust-turbo) #:use-module (crates-io))
+
+(define-public crate-rust-turbo-0.1.0 (c (n "rust-turbo") (v "0.1.0") (d (list (d (n "docopt") (r "^0.6.64") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "glob") (r "^0.2.10") (d #t) (k 0)) (d (n "libc") (r "^0.1.8") (d #t) (k 0)) (d (n "log") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^0.1.30") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.14") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.4") (d #t) (k 2)) (d (n "term") (r "^0.2.7") (d #t) (k 0)) (d (n "time") (r "^0.1.25") (d #t) (k 0)))) (h "0xbwvmml86ijcmrbjml97p2aj2xa3bd2jbx0czb0isv5cwb6bnxh") (y #t)))
+
+(define-public crate-rust-turbo-0.2.0 (c (n "rust-turbo") (v "0.2.0") (d (list (d (n "docopt") (r "^0.6.64") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "glob") (r "^0.2.10") (d #t) (k 0)) (d (n "libc") (r "^0.1.8") (d #t) (k 0)) (d (n "log") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^0.1.30") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.14") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.4") (d #t) (k 2)) (d (n "term") (r "^0.2.7") (d #t) (k 0)) (d (n "time") (r "^0.1.25") (d #t) (k 0)))) (h "1d8rf913m5sabbjxadvxqjg2xvyl9065kh3k8vczsjk5i7rsz1xx") (y #t)))
+

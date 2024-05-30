@@ -1,0 +1,6 @@
+(define-module (crates-io li qu liquid-rpc) #:use-module (crates-io))
+
+(define-public crate-liquid-rpc-0.1.0 (c (n "liquid-rpc") (v "0.1.0") (d (list (d (n "bitcoin") (r "^0.18") (f (quote ("use-serde"))) (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.7.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "bitcoincore-rpc") (r "^0.7") (d #t) (k 0)) (d (n "elements") (r "^0.7.0") (f (quote ("serde-feature"))) (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "jsonrpc") (r "^0.11") (d #t) (k 0)) (d (n "liquid-rpc-json") (r "^0.1.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.12") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)))) (h "1csjsk86bj35jdwp64ngwn8nqmg1p2hardmnj5058drxfa5hqdk6")))
+
+(define-public crate-liquid-rpc-0.2.0 (c (n "liquid-rpc") (v "0.2.0") (d (list (d (n "bitcoincore-rpc") (r "^0.11") (d #t) (k 0)) (d (n "elements") (r "^0.12.0") (f (quote ("serde-feature"))) (d #t) (k 0)) (d (n "jsonrpc") (r "^0.11") (d #t) (k 0)) (d (n "liquid-rpc-json") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)))) (h "0za8rs2fdlx1q5myaf0a343r8004gqmnr0jlgnalzy61mcd0dhvj")))
+

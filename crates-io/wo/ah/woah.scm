@@ -1,0 +1,24 @@
+(define-module (crates-io wo ah woah) #:use-module (crates-io))
+
+(define-public crate-woah-0.1.8 (c (n "woah") (v "0.1.8") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "04c8zfi3h01wvpqnagb44nawjla4cn401zvx7w9k1x4km7cd1jia") (f (quote (("try_trait") ("trusted_len") ("termination_trait" "never_type") ("sum_trait" "try_trait") ("std" "either_methods") ("product_trait" "try_trait") ("nightly" "try_trait" "trusted_len" "never_type" "termination_trait" "product_trait" "sum_trait" "from_iterator_trait") ("never_type") ("from_iterator_trait" "try_trait") ("either_methods" "either/use_std") ("default" "either_methods" "std"))))))
+
+(define-public crate-woah-0.1.9 (c (n "woah") (v "0.1.9") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1x88fb2gm5rcw8v5cg0ha3l8l99d3dzppw90wxyazh0dnk8xf52a") (f (quote (("try_trait") ("trusted_len") ("termination_trait" "never_type") ("sum_trait" "try_trait") ("std" "either_methods") ("product_trait" "try_trait") ("nightly" "try_trait" "trusted_len" "never_type" "termination_trait" "product_trait" "sum_trait" "from_iterator_trait") ("never_type") ("from_iterator_trait" "try_trait") ("either_methods" "either/use_std") ("default" "either_methods" "std"))))))
+
+(define-public crate-woah-0.1.10 (c (n "woah") (v "0.1.10") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1f5dmf7lscs9y8r32qqw9qnm6zd4h8mmd2ycyicxgxb03s125ywk") (f (quote (("try_trait") ("trusted_len") ("termination_trait" "never_type") ("sum_trait" "try_trait") ("std" "either_methods") ("product_trait" "try_trait") ("nightly" "try_trait" "trusted_len" "never_type" "termination_trait" "product_trait" "sum_trait" "from_iterator_trait") ("never_type") ("from_iterator_trait" "try_trait") ("either_methods" "either/use_std") ("default" "either_methods" "std"))))))
+
+(define-public crate-woah-0.2.0 (c (n "woah") (v "0.2.0") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0sb5z8zzaxg98459p5bj4fspwrnb53wlvkr1bzij3y9yxjjix0cj") (f (quote (("std") ("nightly") ("either_methods" "either/use_std") ("default" "either_methods" "std"))))))
+
+(define-public crate-woah-0.3.0 (c (n "woah") (v "0.3.0") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "serde") (r "^1.0.127") (o #t) (d #t) (k 0)))) (h "0lbd4ddgzwdq1x359d1xgydc6q3zxc6rfcm8996wgrs7mjkmi1z2") (f (quote (("std") ("nightly") ("either_methods" "either/use_std") ("default" "either_methods" "std")))) (r "1.61.0")))
+
+(define-public crate-woah-0.4.0 (c (n "woah") (v "0.4.0") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.127") (o #t) (d #t) (k 0)))) (h "1an1igqdfl9cxs02ib1y463954p757x085hhn3vcdzfr286n3ahi") (f (quote (("std") ("nightly") ("either_methods" "either/use_std") ("default" "either_methods" "std")))) (r "1.61.0")))
+
+(define-public crate-woah-0.4.1 (c (n "woah") (v "0.4.1") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.127") (o #t) (d #t) (k 0)))) (h "0vbj3bb5xm2xr7wzznnqnbjlia7wlpslqv7d6cy226ig2ix3lf45") (f (quote (("nightly") ("default" "either" "std")))) (s 2) (e (quote (("std" "either?/use_std")))) (r "1.61.0")))
+
+(define-public crate-woah-0.4.2 (c (n "woah") (v "0.4.2") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.127") (o #t) (d #t) (k 0)))) (h "1hflmyjmqnahn453ayryin4lbv0r80qk6f60svyd87i7z31w4a29") (f (quote (("nightly") ("default" "either" "std")))) (s 2) (e (quote (("std" "either?/use_std")))) (r "1.61.0")))
+
+(define-public crate-woah-0.4.3 (c (n "woah") (v "0.4.3") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.127") (o #t) (d #t) (k 0)))) (h "1yhp0x39d2swa87dyl9rgxmlyizhvb8c7fbdpj8p8k8wvyihq3vx") (f (quote (("nightly") ("default" "either" "std")))) (y #t) (s 2) (e (quote (("std" "either?/use_std")))) (r "1.61.0")))
+
+(define-public crate-woah-0.4.4 (c (n "woah") (v "0.4.4") (d (list (d (n "either") (r "^1.5") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.127") (o #t) (d #t) (k 0)))) (h "1l7vsfcmdbq32mf26afjn3yn8pwz037gbcbq868957qybb8fim5r") (f (quote (("nightly") ("default" "either" "std")))) (s 2) (e (quote (("std" "either?/use_std")))) (r "1.61.0")))
+
+(define-public crate-woah-0.4.5 (c (n "woah") (v "0.4.5") (d (list (d (n "either") (r "^1.6.1") (o #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (o #t) (d #t) (k 0)))) (h "0cv3hfs70h5pnm0pjkg2yyhgfzkahprwbg4m3b8w91as9i9gp8r1") (f (quote (("nightly") ("default" "either" "std")))) (s 2) (e (quote (("std" "either?/use_std")))) (r "1.61.0")))
+

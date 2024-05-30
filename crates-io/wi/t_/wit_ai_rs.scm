@@ -1,0 +1,8 @@
+(define-module (crates-io wi t_ wit_ai_rs) #:use-module (crates-io))
+
+(define-public crate-wit_ai_rs-0.1.0 (c (n "wit_ai_rs") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "089l3hgmbxmy6ijkcd6sakh8967qwnxihixrmj8qshskdlxk6i70")))
+
+(define-public crate-wit_ai_rs-0.1.1 (c (n "wit_ai_rs") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "00s8zy76rvlw9s9k95z6qlsp15h9iw8f3j5jc02vlj3c3xjgxbl5")))
+
+(define-public crate-wit_ai_rs-0.2.0 (c (n "wit_ai_rs") (v "0.2.0") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.3") (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "06v5l0610c0ckwpd2072hhprymcsa185wcagcwp2k7nbprkvch12")))
+

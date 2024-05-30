@@ -1,0 +1,6 @@
+(define-module (crates-io ta sk taskmr) #:use-module (crates-io))
+
+(define-public crate-taskmr-0.1.0 (c (n "taskmr") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.27.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "tabwriter") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0p6dvclbasmr92k4q4nlvwd0939d1h1kr62j1sjdn8izi0w2piwp")))
+
+(define-public crate-taskmr-0.2.0 (c (n "taskmr") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.29.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tabwriter") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "fast-rng" "macro-diagnostics" "serde"))) (d #t) (k 0)))) (h "0zkr736pq3ylsbga0abzks21zd976zy6gawkhn6smd67zh6f2krj")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io op en openapi-to-hurl) #:use-module (crates-io))
+
+(define-public crate-openapi-to-hurl-1.0.0 (c (n "openapi-to-hurl") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.20") (d #t) (k 1)) (d (n "hurl_core") (r "^4.1.0") (d #t) (k 0)) (d (n "hurlfmt") (r "^4.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "oas3") (r "^0.4.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "stderrlog") (r "^0.6.0") (d #t) (k 0)))) (h "1s83dzr3vkigk7rq5fv9pbnkya7w4hya4bpdswwk06wpfyw4scg4")))
+

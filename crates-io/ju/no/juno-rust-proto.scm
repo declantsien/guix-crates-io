@@ -1,0 +1,14 @@
+(define-module (crates-io ju no juno-rust-proto) #:use-module (crates-io))
+
+(define-public crate-juno-rust-proto-0.1.0 (c (n "juno-rust-proto") (v "0.1.0") (d (list (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tendermint-proto") (r "=0.23.9") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("codegen" "prost"))) (o #t) (k 0)))) (h "0m4rk7h0gm8wazvyma06hvwhxmfbcvcc9v6a1bana45fx5d4n71c") (f (quote (("grpc-transport" "grpc" "tonic/transport") ("grpc" "tonic") ("default" "grpc-transport") ("cosmwasm")))) (r "1.56")))
+
+(define-public crate-juno-rust-proto-0.1.1 (c (n "juno-rust-proto") (v "0.1.1") (d (list (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tendermint-proto") (r "=0.23.9") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("codegen" "prost"))) (o #t) (k 0)))) (h "0mcx68w982lmr6m5sqgcygm6h1477wwaz0afbd8mvd53d6c1snj2") (f (quote (("grpc-transport" "grpc" "tonic/transport") ("grpc" "tonic") ("default" "grpc-transport") ("cosmwasm")))) (r "1.56")))
+
+(define-public crate-juno-rust-proto-0.1.2 (c (n "juno-rust-proto") (v "0.1.2") (d (list (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tendermint-proto") (r "=0.23.9") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("codegen" "prost"))) (o #t) (k 0)))) (h "0lw7pa0599wgv6nb5q51b0c6n8gpgq8g5xky4jdnxcy9765qlavg") (r "1.56")))
+
+(define-public crate-juno-rust-proto-0.1.3 (c (n "juno-rust-proto") (v "0.1.3") (d (list (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "tendermint-proto") (r "=0.23.9") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("codegen" "prost"))) (o #t) (k 0)))) (h "11qdj6armpxgwqiy7y853qiji8g331rh2v18xym0igsxiq6bd1vg") (r "1.56")))
+
+(define-public crate-juno-rust-proto-0.1.4 (c (n "juno-rust-proto") (v "0.1.4") (d (list (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "tendermint-proto") (r "=0.23.9") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("codegen" "prost"))) (o #t) (k 0)))) (h "0i5qwvzaizqc8jgypxjcwvdyg587xny1ln0yqixrrkxi00ard4xb") (r "1.56")))
+
+(define-public crate-juno-rust-proto-0.1.5 (c (n "juno-rust-proto") (v "0.1.5") (d (list (d (n "prost") (r "^0.11.0") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "tendermint-proto") (r "=0.23.9") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("codegen" "prost"))) (o #t) (k 0)))) (h "1lmzldi0xp40rd8qbvw0nhxhlhkax6f4mm7f7cpjcy9jkxlfzq6p") (r "1.56")))
+

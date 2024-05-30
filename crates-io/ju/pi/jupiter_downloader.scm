@@ -1,0 +1,4 @@
+(define-module (crates-io ju pi jupiter_downloader) #:use-module (crates-io))
+
+(define-public crate-jupiter_downloader-0.0.1 (c (n "jupiter_downloader") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "base64") (r "^0.13.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "jupiter_common") (r "^0.0.1") (d #t) (k 0)) (d (n "lofty") (r "^0.9.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "rss") (r "^2.0.1") (f (quote ("serde" "url"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "stt") (r "^0.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0qchv1wlxdjln4pw206y3v3181krqh400vlhj6m7iicjdvrd29za")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ca na canadensis_data_types) #:use-module (crates-io))
+
+(define-public crate-canadensis_data_types-0.1.0 (c (n "canadensis_data_types") (v "0.1.0") (d (list (d (n "canadensis_core") (r "^0.1.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.1.0") (d #t) (k 0)) (d (n "half") (r "^1.7.1") (d #t) (k 0)) (d (n "heapless") (r "^0.7.0") (d #t) (k 0)))) (h "0v32wmbcsac9147ggq9iiwppsxly5v44n7ac3l5777j3aav19l04")))
+
+(define-public crate-canadensis_data_types-0.2.0 (c (n "canadensis_data_types") (v "0.2.0") (d (list (d (n "canadensis_core") (r "^0.2.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.2.0") (d #t) (k 0)) (d (n "half") (r "^1.8") (f (quote ("zerocopy"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.6.4") (d #t) (k 2)) (d (n "zerocopy") (r "^0.6.0") (d #t) (k 0)))) (h "072d7xbvd08zv8ssl2ppy23cixmkbr842sqfhyrr37qmkb8r1vgw")))
+
+(define-public crate-canadensis_data_types-0.2.1 (c (n "canadensis_data_types") (v "0.2.1") (d (list (d (n "canadensis_core") (r "^0.2.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.2.0") (d #t) (k 0)) (d (n "half") (r "^1.8") (f (quote ("zerocopy"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.6.4") (d #t) (k 2)) (d (n "zerocopy") (r "^0.6.0") (d #t) (k 0)))) (h "12ps72wb51f1wdd0mx5s9x2pfvc5jrpflhrmba4qi89bhsgzfplc")))
+
+(define-public crate-canadensis_data_types-0.2.2 (c (n "canadensis_data_types") (v "0.2.2") (d (list (d (n "canadensis_core") (r "^0.2.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.2.0") (d #t) (k 0)) (d (n "half") (r "^1.8") (f (quote ("zerocopy"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.6.4") (d #t) (k 2)) (d (n "zerocopy") (r "^0.6.0") (d #t) (k 0)))) (h "06fpwwqdgnsgh4nk33fp5rc60j7sfn148dhx80sskw1n1nqzm0mf")))
+
+(define-public crate-canadensis_data_types-0.2.3 (c (n "canadensis_data_types") (v "0.2.3") (d (list (d (n "canadensis_core") (r "^0.2.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.2.0") (d #t) (k 0)) (d (n "half") (r "^1.8") (f (quote ("zerocopy"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.6.4") (d #t) (k 2)) (d (n "zerocopy") (r "^0.6.0") (d #t) (k 0)))) (h "163a40sqg7byaxlrjnrd8j0gsl7xq459n0d2f3lf7vwpndxsmfhm")))
+
+(define-public crate-canadensis_data_types-0.3.0 (c (n "canadensis_data_types") (v "0.3.0") (d (list (d (n "canadensis_core") (r "^0.3.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.3.0") (d #t) (k 0)) (d (n "half") (r "^2.2") (f (quote ("zerocopy"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.8.0") (d #t) (k 2)) (d (n "zerocopy") (r "^0.6.0") (d #t) (k 0)))) (h "10xmcsag1ymfv7i9h4waakqfg5hnxv3njl6gbin9qg8bq8ycmxqa")))
+
+(define-public crate-canadensis_data_types-0.3.1 (c (n "canadensis_data_types") (v "0.3.1") (d (list (d (n "canadensis_core") (r "^0.3.0") (d #t) (k 0)) (d (n "canadensis_encoding") (r "^0.3.0") (d #t) (k 0)) (d (n "half") (r "^2.2") (f (quote ("zerocopy"))) (k 0)) (d (n "heapless") (r "^0.7.7") (d #t) (k 0)) (d (n "memoffset") (r "^0.8.0") (d #t) (k 2)) (d (n "zerocopy") (r "^0.6.0") (d #t) (k 0)))) (h "1jiq6s15y2z8kldm11yfmbgfndcx6kbdds9ndmrf4xnisp514zzg")))
+

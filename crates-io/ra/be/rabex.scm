@@ -1,0 +1,4 @@
+(define-module (crates-io ra be rabex) #:use-module (crates-io))
+
+(define-public crate-rabex-0.0.3 (c (n "rabex") (v "0.0.3") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libflate") (r "^1.3.0") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.10") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.3.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.11") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "1907vyc03pnqlv1j10f3p9nvmhlb80l3ainvm4qiqsk26wwcg7l9")))
+

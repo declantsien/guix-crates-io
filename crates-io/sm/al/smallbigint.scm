@@ -1,0 +1,22 @@
+(define-module (crates-io sm al smallbigint) #:use-module (crates-io))
+
+(define-public crate-smallbigint-0.1.0 (c (n "smallbigint") (v "0.1.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)))) (h "1925zg2pjgl5axfkhsaa6974p1ah7cmvbfywyjglmfi99zamzmpc")))
+
+(define-public crate-smallbigint-0.2.0 (c (n "smallbigint") (v "0.2.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)))) (h "0x22i4bfb2l1xx3q8rag38zy2mk190r933bnx35y8rr18hnl8d8s")))
+
+(define-public crate-smallbigint-0.3.0 (c (n "smallbigint") (v "0.3.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)))) (h "10msrnn10drvyvaq6qc9vpxd110clqz0c0knl50nmw80jpxc36ii")))
+
+(define-public crate-smallbigint-0.4.0 (c (n "smallbigint") (v "0.4.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)))) (h "1scss63l6sahn9vsbihrmmlh09aj7lh6681p3mji5hi19ldc06m6")))
+
+(define-public crate-smallbigint-0.5.0 (c (n "smallbigint") (v "0.5.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)))) (h "0l9nl6hy541p5pq2db075klv95fbh9frkmgi45j84z13zjjbsl77")))
+
+(define-public crate-smallbigint-0.6.0 (c (n "smallbigint") (v "0.6.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.40") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 2)))) (h "1zbk0xx504nc1v8zgh7kx29m70r92ghcwy3xlzmr0rb3lqgyc0vh") (f (quote (("benchall") ("bench"))))))
+
+(define-public crate-smallbigint-0.7.0 (c (n "smallbigint") (v "0.7.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.40") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 2)))) (h "15smbb6aydxv6g89kcq9kdpdy00a5kdzyx0csql62picj0pqqv5s") (f (quote (("benchall") ("bench"))))))
+
+(define-public crate-smallbigint-1.0.0 (c (n "smallbigint") (v "1.0.0") (d (list (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.40") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 2)))) (h "0zd1vqv6514md07sryrlkrndsr4v9lygrl1710k7036bzg4dqwg6") (f (quote (("benchall") ("bench"))))))
+
+(define-public crate-smallbigint-1.0.1 (c (n "smallbigint") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.35") (d #t) (k 2)) (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.40") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 2)))) (h "16n8wkr7zg1dbdqnglgkx22rfa9f66skz8pg2323ffbf12m3b8hj") (f (quote (("benchall") ("bench"))))))
+
+(define-public crate-smallbigint-1.1.0 (c (n "smallbigint") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0.35") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.10") (d #t) (k 0)) (d (n "either") (r "^1.5.3") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.42") (d #t) (k 0)) (d (n "num-iter") (r "^0.1.40") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 2)))) (h "1l22lh8phdzyl326kwkbaym3da3lng2dz4z495hkh8wxh37ch21q") (f (quote (("unsafe-opt") ("default" "unsafe-opt") ("benchall") ("bench"))))))
+

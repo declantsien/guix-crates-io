@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# w wic) #:use-module (crates-io))
+
+(define-public crate-wic-0.3.0-alpha1 (c (n "wic") (v "0.3.0-alpha1") (d (list (d (n "auto-enum") (r "^0.2.0-alpha1") (d #t) (t "cfg(windows)") (k 0)) (d (n "checked-enum") (r "^0.1.1-alpha1") (d #t) (t "cfg(windows)") (k 0)) (d (n "com-wrapper") (r "^0.1.0-alpha2") (d #t) (t "cfg(windows)") (k 0)) (d (n "dcommon") (r "^0.3.0-alpha1") (d #t) (t "cfg(windows)") (k 0)) (d (n "derive-com-wrapper") (r "^0.1.0-alpha4") (d #t) (t "cfg(windows)") (k 0)) (d (n "dxgi") (r "^0.3.0-alpha4") (d #t) (t "cfg(windows)") (k 0)) (d (n "math2d") (r "^0.2.0-alpha1") (f (quote ("d2d"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.3.6") (f (quote ("dcommon" "d2d1" "winerror"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "wio") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)))) (h "1kg9zfmdxnd3zbl375akrbrwl03v26nd8w2pmqp58m3q32hlr3wp")))
+

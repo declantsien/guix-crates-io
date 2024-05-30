@@ -1,0 +1,12 @@
+(define-module (crates-io de do dedoc) #:use-module (crates-io))
+
+(define-public crate-dedoc-0.2.1 (c (n "dedoc") (v "0.2.1") (d (list (d (n "attohttpc") (r "^0.26.1") (f (quote ("tls"))) (k 0)) (d (n "html2text") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "toiletcli") (r "^0.9.4") (f (quote ("colors" "flags"))) (k 0)))) (h "0fq4532hllaxp9x1vycsaz17lns1l5kpisirgk3j43njkk8a63ia") (r "1.66")))
+
+(define-public crate-dedoc-0.2.2 (c (n "dedoc") (v "0.2.2") (d (list (d (n "attohttpc") (r "^0.26.1") (f (quote ("tls"))) (k 0)) (d (n "html2text") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toiletcli") (r "^0.10.0") (f (quote ("colors" "flags"))) (k 0)))) (h "0bzdmfc111ad9cp5svvxrq81bhrqczpvdrn1cj9yz9g085jxwj4v") (y #t) (r "1.66")))
+
+(define-public crate-dedoc-0.2.3 (c (n "dedoc") (v "0.2.3") (d (list (d (n "attohttpc") (r "^0.26.1") (f (quote ("tls"))) (k 0)) (d (n "html2text") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toiletcli") (r "^0.10.0") (f (quote ("colors" "flags"))) (k 0)))) (h "02krcgjgpgrzzp9m62cmm5kvx4ag5kzv7cppgnisjw14v9s8m1hs") (r "1.66")))
+
+(define-public crate-dedoc-0.2.4 (c (n "dedoc") (v "0.2.4") (d (list (d (n "attohttpc") (r "^0.26.1") (f (quote ("tls"))) (k 0)) (d (n "html2text") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toiletcli") (r "^0.12.0") (f (quote ("colors" "flags"))) (k 0)))) (h "03bwl4al1njp6jmmmc27z3rvzaxwmrizx0988360fzs4dj2siapc") (y #t) (r "1.66")))
+
+(define-public crate-dedoc-0.2.5 (c (n "dedoc") (v "0.2.5") (d (list (d (n "attohttpc") (r "^0.26.1") (f (quote ("tls"))) (k 0)) (d (n "html2text") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "terminal_size") (r "^0.3.0") (d #t) (k 0)) (d (n "toiletcli") (r "^0.12.0") (f (quote ("colors" "flags"))) (k 0)))) (h "1vrnnfm3343jh1644zgi7inkzi0np3r5x8pzjdsmim6n27nbw32a") (r "1.66")))
+

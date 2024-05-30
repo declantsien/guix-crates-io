@@ -1,0 +1,8 @@
+(define-module (crates-io ya mf yamf-hash) #:use-module (crates-io))
+
+(define-public crate-yamf-hash-0.1.0 (c (n "yamf-hash") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5.2") (k 0)) (d (n "blake2b_simd") (r "^0.5.11") (k 0)) (d (n "hex") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_derive") (r "^1.0") (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 0)) (d (n "varu64") (r "^0.6.2") (k 0)))) (h "1g5vxi2wdf8wzxz2niavavyicrr0qzq9ajbidlcba65ma0pa53kw") (f (quote (("std" "varu64/std" "hex/std") ("default" "std"))))))
+
+(define-public crate-yamf-hash-0.1.1 (c (n "yamf-hash") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.5.2") (k 0)) (d (n "blake2b_simd") (r "^0.5.11") (k 0)) (d (n "hex") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_derive") (r "^1.0") (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 0)) (d (n "varu64") (r "^0.6.2") (k 0)))) (h "0lk4p09bgrd71r04gnxiwhrddndv2zcy6c8z0jpsixz9d6apj8nl") (f (quote (("std" "varu64/std" "hex/std") ("default" "std"))))))
+
+(define-public crate-yamf-hash-0.1.2 (c (n "yamf-hash") (v "0.1.2") (d (list (d (n "arrayvec") (r "^0.5.2") (k 0)) (d (n "blake2b_simd") (r "^0.5.11") (k 0)) (d (n "hex") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_derive") (r "^1.0") (k 0)) (d (n "snafu") (r "^0.6.10") (k 0)) (d (n "static_assertions") (r "^0.3") (d #t) (k 0)) (d (n "varu64") (r "^0.6.2") (k 0)))) (h "04v43pmvr9ij92zpyfh7pmfdaxcymkgw5kly4ih1jgdgikhh493h") (f (quote (("std" "varu64/std" "hex/std" "snafu/std") ("default" "std"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# s sns) #:use-module (crates-io))
+
+(define-public crate-sns-0.1.1 (c (n "sns") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dfx-core") (r "^0.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.11") (f (quote ("zlib-ng"))) (k 0)) (d (n "fn-error-context") (r "^0.2.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("blocking" "json" "rustls-tls" "native-tls-vendored"))) (k 0)) (d (n "slog") (r "^2.5.2") (f (quote ("max_level_trace"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.1") (f (quote ("full"))) (d #t) (k 0)))) (h "00j2af3xlk93bj4365zd8wshy6iqqbg06vsjrj5i18mlgrj38dfc") (y #t)))
+

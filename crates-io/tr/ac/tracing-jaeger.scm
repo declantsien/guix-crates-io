@@ -1,0 +1,4 @@
+(define-module (crates-io tr ac tracing-jaeger) #:use-module (crates-io))
+
+(define-public crate-tracing-jaeger-0.1.0 (c (n "tracing-jaeger") (v "0.1.0") (d (list (d (n "futures-preview") (r "^0.3.0-alpha.19") (f (quote ("compat"))) (d #t) (k 2)) (d (n "opentelemetry") (r "^0.5.0") (d #t) (k 0)) (d (n "opentelemetry-jaeger") (r "^0.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.12") (d #t) (k 0)) (d (n "tracing-attributes") (r "^0.1.5") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.9") (d #t) (k 0)) (d (n "tracing-distributed") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.1") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.2.0") (d #t) (k 2)))) (h "1hmr95xqhasind8zr86dbqbgj51qw0flfl6yirrszww0fdqynn6z")))
+

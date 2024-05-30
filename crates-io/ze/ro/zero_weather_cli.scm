@@ -1,0 +1,10 @@
+(define-module (crates-io ze ro zero_weather_cli) #:use-module (crates-io))
+
+(define-public crate-zero_weather_cli-0.1.0 (c (n "zero_weather_cli") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.3") (f (quote ("full"))) (d #t) (k 0)))) (h "015grqcrr3p8rrqvj6nzlcqsyc33n59km7ldy18vl4xhqyqi44l3") (y #t)))
+
+(define-public crate-zero_weather_cli-0.1.1 (c (n "zero_weather_cli") (v "0.1.1") (d (list (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.3") (f (quote ("full"))) (d #t) (k 0)))) (h "068lk2sps7j5wl67zi3xbsjcrq6bbga2yx0gwh4q7mwm4qisvyg0") (y #t)))
+
+(define-public crate-zero_weather_cli-0.1.2 (c (n "zero_weather_cli") (v "0.1.2") (d (list (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.3") (f (quote ("full"))) (d #t) (k 0)))) (h "0bb5f9rzl5ci5i3js6c240cw7yq6iipmav8flvni8xapv3jsnrds") (y #t)))
+
+(define-public crate-zero_weather_cli-2.0.0 (c (n "zero_weather_cli") (v "2.0.0") (d (list (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.3") (f (quote ("full"))) (d #t) (k 0)))) (h "0zvwgr7fvw5a9lsfdmih3yyyl82mh9j6n68wylbp67xyifr971bj")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io au r- aur-rpc) #:use-module (crates-io))
+
+(define-public crate-aur-rpc-0.1.0 (c (n "aur-rpc") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "00xnlzp33lfgdlpw7a2r8x62pyklxgw5gxa73z3pi0gasps744vx")))
+
+(define-public crate-aur-rpc-0.1.1 (c (n "aur-rpc") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "0fp6qfn8zrhs7sdz1j4pw5w2kjclrqpfcw65wmzqvny7xkyipw8q")))
+
+(define-public crate-aur-rpc-0.1.2 (c (n "aur-rpc") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "05cgbval2gxryc8qyk907j5sp0ixbyxzh3z3f3qim6hvd83ncj73")))
+
+(define-public crate-aur-rpc-0.1.3 (c (n "aur-rpc") (v "0.1.3") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "1i9rpfl2cz9bsi5rrna9dkc6gcm6a5d0m64zjv2p07nyipmyinsf")))
+
+(define-public crate-aur-rpc-0.2.0 (c (n "aur-rpc") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "0f7azfsy1n5dwh3a7m4kjsrhdakf18p2ypbhqiq48p8cf97slcrn")))
+
+(define-public crate-aur-rpc-0.2.1 (c (n "aur-rpc") (v "0.2.1") (d (list (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "0l9bi4fn4ggk9na9rcrmlvfz7dgh8c98krarhgirmbnry19gggyl")))
+
+(define-public crate-aur-rpc-0.2.2 (c (n "aur-rpc") (v "0.2.2") (d (list (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1n277y1hz7z75ajylyzq8lb31v87s8r5g0y9sr86ssgkjpq83zrj") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+

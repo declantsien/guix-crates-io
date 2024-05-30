@@ -1,0 +1,12 @@
+(define-module (crates-io st d3 std3) #:use-module (crates-io))
+
+(define-public crate-std3-0.1.0 (c (n "std3") (v "0.1.0") (d (list (d (n "spin") (r "^0.9.4") (d #t) (k 0) (p "spin")))) (h "1qz71yfjrvpcyv06rirlzr40gc6nfygcgz8bpc34sm0zzvvddv83") (y #t) (r "1.57.0")))
+
+(define-public crate-std3-0.1.1 (c (n "std3") (v "0.1.1") (d (list (d (n "spin") (r "^0.9.4") (d #t) (k 0) (p "spin")))) (h "1igpbfw227c9g536ly2zx8ay9vccj730ay99vawhcc2vcljrna0w") (y #t) (r "1.57.0")))
+
+(define-public crate-std3-0.1.2 (c (n "std3") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0) (p "lazy_static")) (d (n "spin") (r "^0.9.4") (d #t) (k 0) (p "spin")) (d (n "uart_16550") (r "^0.2.18") (o #t) (d #t) (k 0) (p "uart_16550")) (d (n "volatile") (r "^0.4.5") (o #t) (d #t) (k 0) (p "volatile")) (d (n "x86_64") (r "^0.14.10") (o #t) (d #t) (k 0) (p "x86_64")))) (h "1qm1ybyph22rzlva9ph4s5x7m4cpicdzcwdc3mdjvv3mxr757c9m") (f (quote (("reexport") ("full" "x86_64" "uart_16550" "volatile" "reexport") ("default" "x86_64" "uart_16550")))) (y #t) (s 2) (e (quote (("x86_64" "dep:x86_64") ("volatile" "dep:volatile") ("uart_16550" "dep:uart_16550")))) (r "1.57.0")))
+
+(define-public crate-std3-0.1.21 (c (n "std3") (v "0.1.21") (d (list (d (n "lazy_static") (r "^1.4.0") (f (quote ("spin_no_std"))) (d #t) (k 0)) (d (n "spin") (r "^0.9.4") (d #t) (k 0) (p "spin")) (d (n "uart_16550") (r "^0.2.18") (o #t) (d #t) (k 0) (p "uart_16550")) (d (n "volatile") (r "^0.4.5") (o #t) (d #t) (k 0) (p "volatile")) (d (n "x86_64") (r "^0.14.10") (o #t) (d #t) (k 0) (p "x86_64")))) (h "0an2myjycqy92gg6rbxdvazk60apj8b9pbciciw124623p43j1ga") (f (quote (("reexport") ("full" "x86_64" "uart_16550" "volatile" "reexport") ("default" "x86_64" "uart_16550")))) (y #t) (s 2) (e (quote (("x86_64" "dep:x86_64") ("volatile" "dep:volatile") ("uart_16550" "dep:uart_16550")))) (r "1.57.0")))
+
+(define-public crate-std3-0.1.22 (c (n "std3") (v "0.1.22") (d (list (d (n "lazy_static") (r "^1.4.0") (f (quote ("spin_no_std"))) (d #t) (k 0)) (d (n "spin") (r "^0.9.4") (d #t) (k 0) (p "spin")) (d (n "uart_16550") (r "^0.2.18") (o #t) (d #t) (k 0) (p "uart_16550")) (d (n "volatile") (r "^0.4.5") (o #t) (d #t) (k 0) (p "volatile")) (d (n "x86_64") (r "^0.14.10") (o #t) (d #t) (k 0) (p "x86_64")))) (h "0k2xvm1343nlv90ifvm5gf82d4cynjrz5k0p6pva0x6sx7p17dg4") (f (quote (("reexport") ("full" "x86_64" "uart_16550" "volatile" "reexport") ("default" "x86_64" "uart_16550")))) (s 2) (e (quote (("x86_64" "dep:x86_64") ("volatile" "dep:volatile") ("uart_16550" "dep:uart_16550")))) (r "1.57.0")))
+

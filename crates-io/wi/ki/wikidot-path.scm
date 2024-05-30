@@ -1,0 +1,30 @@
+(define-module (crates-io wi ki wikidot-path) #:use-module (crates-io))
+
+(define-public crate-wikidot-path-0.0.2 (c (n "wikidot-path") (v "0.0.2") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "str-macro") (r "^0.1") (d #t) (k 2)) (d (n "wikidot-normalize") (r "^0.3") (d #t) (k 0)))) (h "04idx989rnw5hiazalmlfizw9jl19iw52qsbx9a4ms9rn1la19yk") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.0.3 (c (n "wikidot-path") (v "0.0.3") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "str-macro") (r "^0.1") (d #t) (k 2)) (d (n "wikidot-normalize") (r "^0.4") (d #t) (k 0)))) (h "1fq5zkk6rmqaginjn35lk52asyvz7jigs32nm4kldpcn6klygmxh") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.1.0 (c (n "wikidot-path") (v "0.1.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "str-macro") (r "^0.1") (d #t) (k 2)) (d (n "wikidot-normalize") (r "^0.4") (d #t) (k 0)))) (h "1ksjcb8biivgskkwg8ig9wqvgdf98yvdjvp0q6wzlb2pl9mpc0wl") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.2.0 (c (n "wikidot-path") (v "0.2.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.7") (d #t) (k 0)))) (h "1n6m8c93h097f4am250brp8hq6n2km1ai5v8ml463csby7qawx4d") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.2.2 (c (n "wikidot-path") (v "0.2.2") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.7") (d #t) (k 0)))) (h "1jh21vwryzrwvarx4idkg14ybwnbsxjr5yysabjg38c3y361rb4y") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.2.3 (c (n "wikidot-path") (v "0.2.3") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.7") (d #t) (k 0)))) (h "1y017kyypp600lflppck20sh4wi7zmgjal1ww7ghnfzsrnb1y1km") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.2.4 (c (n "wikidot-path") (v "0.2.4") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "maplit") (r "^1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.7") (d #t) (k 0)))) (h "083y9rp3qf6s6a352wdv5na8f99j7yhj7mr24645yqhbsyh1f479") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.3.0 (c (n "wikidot-path") (v "0.3.0") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.11") (d #t) (k 0)))) (h "0xaqw6ydh2y6m18rg4142i2gmsasap5x99xrb3xf7chbrvv3v2jc") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.3.1 (c (n "wikidot-path") (v "0.3.1") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.11") (d #t) (k 0)))) (h "0rba3bh9ambq4i50z19h05rq89d408p9bd8ah6cc7m5hrv6z700p") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.3.2 (c (n "wikidot-path") (v "0.3.2") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.11") (d #t) (k 0)))) (h "1byw3kwbhzc7m8299n859lnfg6ax0h4mppmn3rsfmgqjqjbc07gx") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.4.0 (c (n "wikidot-path") (v "0.4.0") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.11") (d #t) (k 0)))) (h "1p9dwpwrrlbip7in2xkfcganyi20f6ak62d5qbdxbjckb7dpkvl8") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.4.1 (c (n "wikidot-path") (v "0.4.1") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.11") (d #t) (k 0)))) (h "0pz61pzkm1xdym8c4ac4j5zw1q45nfsxsq5dz6pm448ylnir9lax") (f (quote (("serde-derive" "serde") ("default"))))))
+
+(define-public crate-wikidot-path-0.5.1 (c (n "wikidot-path") (v "0.5.1") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "unicase") (r "^2") (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0.11") (d #t) (k 0)))) (h "1lsgd5j22wh8dg5bhflkdl78rwn6b8wp42q6b86y1rda8hh97p9n")))
+
+(define-public crate-wikidot-path-0.6.0 (c (n "wikidot-path") (v "0.6.0") (d (list (d (n "maplit") (r "^1") (d #t) (k 2)) (d (n "unicase") (r "^2") (d #t) (k 0)) (d (n "wikidot-normalize") (r "^0") (d #t) (k 0)))) (h "0f739ri90q3w3ydydd6p86wvp89amp9m2w4mqdsjkidff96dbdzj")))
+

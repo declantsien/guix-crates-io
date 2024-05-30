@@ -1,0 +1,6 @@
+(define-module (crates-io ho me homedir) #:use-module (crates-io))
+
+(define-public crate-homedir-0.1.0 (c (n "homedir") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (f (quote ("user"))) (d #t) (t "cfg(unix)") (k 0)) (d (n "widestring") (r "^1.0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "windows-sys") (r "^0.48.0") (f (quote ("Win32_Security" "Win32_System_SystemServices" "Win32_System_Threading" "Win32_Foundation" "Win32_Security_Authorization" "Win32_System_Memory" "Win32_System_Registry"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1418ha28c8gqh1yrzl8ildm2daxg5q50wkk2w88bn5p8kgz07aaa") (f (quote (("check_env"))))))
+
+(define-public crate-homedir-0.2.1 (c (n "homedir") (v "0.2.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (f (quote ("user"))) (d #t) (t "cfg(unix)") (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "widestring") (r "^1.0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "windows-sys") (r "^0.48.0") (f (quote ("Win32_Foundation" "Win32_Security_Authorization" "Win32_System_Com" "Win32_System_Memory" "Win32_System_Threading" "Win32_UI_Shell"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "wmi") (r "^0.13.1") (d #t) (t "cfg(windows)") (k 0)))) (h "19fddiv6cqd7qssh7i1d9i9bbajvgdvnrbip2zy2dvx2pfl4s1r2")))
+

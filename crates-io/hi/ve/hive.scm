@@ -1,0 +1,4 @@
+(define-module (crates-io hi ve hive) #:use-module (crates-io))
+
+(define-public crate-hive-0.1.0 (c (n "hive") (v "0.1.0") (d (list (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "der-parser") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.16") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "nix") (r "^0.13") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rustls") (r "^0.15") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-fs") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-process") (r "^0.2") (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.9") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.4") (d #t) (k 0)))) (h "0n4yfrb0vipmspslvjzskabab28ijvva386qiladzj43zik7lmys")))
+

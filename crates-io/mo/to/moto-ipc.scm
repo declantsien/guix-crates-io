@@ -1,0 +1,10 @@
+(define-module (crates-io mo to moto-ipc) #:use-module (crates-io))
+
+(define-public crate-moto-ipc-0.1.0 (c (n "moto-ipc") (v "0.1.0") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "moto-sys") (r "^0.1.0") (d #t) (k 0)))) (h "13h9pz9k8y6rp08sv1i1acqc3wlg4zlj747l3ify20zvxp6f2lyj") (f (quote (("rustc-dep-of-std" "alloc" "compiler_builtins" "core" "moto-sys/rustc-dep-of-std"))))))
+
+(define-public crate-moto-ipc-0.2.0 (c (n "moto-ipc") (v "0.2.0") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "moto-sys") (r "^0.2.0") (d #t) (k 0)))) (h "0bc109l5p271dr2ig4j3yx40w7zaylv0v83i6kfc5wv3qkf4w40v") (f (quote (("rustc-dep-of-std" "alloc" "compiler_builtins" "core" "moto-sys/rustc-dep-of-std"))))))
+
+(define-public crate-moto-ipc-0.2.1 (c (n "moto-ipc") (v "0.2.1") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "moto-sys") (r "^0.2.0") (d #t) (k 0)))) (h "1cp154yy2fb7dbng1d4f93l7z152xk3jv6s11d0ivb2q27n2q2qr") (f (quote (("rustc-dep-of-std" "alloc" "compiler_builtins" "core" "moto-sys/rustc-dep-of-std"))))))
+
+(define-public crate-moto-ipc-0.2.4 (c (n "moto-ipc") (v "0.2.4") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "moto-sys") (r "^0.2.0") (d #t) (k 0)))) (h "09231x4dh4nk3ybr3xsd5fbrlmnd05zzy1klak9827dvfqy287rh") (f (quote (("rustc-dep-of-std" "alloc" "compiler_builtins" "core" "moto-sys/rustc-dep-of-std"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io fe ra fera) #:use-module (crates-io))
+
+(define-public crate-fera-0.1.0 (c (n "fera") (v "0.1.0") (d (list (d (n "fera-ext") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "fera-fun") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "fera-graph") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "fera-optional") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "fera-unionfind") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.4") (d #t) (k 2)))) (h "16snxggjmfszxl8b714k5adk318h55yq8vb8y2357layr0q4pr1y") (f (quote (("unionfind" "fera-unionfind") ("optional" "fera-optional") ("graph" "fera-graph") ("fun" "fera-fun") ("ext" "fera-ext"))))))
+
+(define-public crate-fera-0.2.0 (c (n "fera") (v "0.2.0") (d (list (d (n "fera-array") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "fera-ext") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "fera-fun") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "fera-graph") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "fera-optional") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "fera-unionfind") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "0q24zx56ma5mv3g5axvaar5w48lv26nlbs19g5lyb39vqb7lvn9i") (f (quote (("unionfind" "fera-unionfind") ("optional" "fera-optional") ("graph" "fera-graph") ("fun" "fera-fun") ("ext" "fera-ext") ("array" "fera-array"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io fi le file_integrity) #:use-module (crates-io))
+
+(define-public crate-file_integrity-0.1.0 (c (n "file_integrity") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)))) (h "1703m8p8ndrgbp477nra30iyvls12k5lf2y4zvms0kqsgcvz5gqp") (y #t)))
+
+(define-public crate-file_integrity-0.1.1 (c (n "file_integrity") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)))) (h "0gb7brg91asly3l1g7xv4is8qs66rwbzsddb2r16zxd7wamjysb6") (y #t)))
+
+(define-public crate-file_integrity-0.1.2 (c (n "file_integrity") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)))) (h "10l07s3r1sn6za6889ihww6pdx46y5v67k2k6r0d328r0karjfy6") (y #t)))
+
+(define-public crate-file_integrity-0.1.3 (c (n "file_integrity") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)))) (h "0qv24p66f8p8ikz8lizp3q5rh5g19ipy7mhy1wcvfdlcix2w0myz") (y #t)))
+
+(define-public crate-file_integrity-0.1.5 (c (n "file_integrity") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "03rqbwr016pzvyc0y21yrm266v331569vllz495wg20dyacvzhyy")))
+
+(define-public crate-file_integrity-0.1.6 (c (n "file_integrity") (v "0.1.6") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0ydsp8lfpbdi5kwl7x70gwvmiiwqgfixrv09andk96ynb7hgbl11")))
+
+(define-public crate-file_integrity-0.1.7 (c (n "file_integrity") (v "0.1.7") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "my_logger") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "11lgfzcdg81i1m1dahla04y6z75i6lvbpc12az13anp7qv44mymj")))
+

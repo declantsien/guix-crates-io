@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# c cpt) #:use-module (crates-io))
+
+(define-public crate-cpt-0.2.0 (c (n "cpt") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0.302") (d #t) (k 2)) (d (n "handlebars") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "0sc6p1mrn8270krk5kjm1alk4ydsh08hqi7d3jmib86yzn6n7np0")))
+
+(define-public crate-cpt-0.2.1 (c (n "cpt") (v "0.2.1") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0.302") (d #t) (k 2)) (d (n "handlebars") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "0h3f0808rfs0hglp5lpv6m5h654s3k4d8v016r8z81rx3wrmlq8d")))
+
+(define-public crate-cpt-0.2.2 (c (n "cpt") (v "0.2.2") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0.302") (d #t) (k 2)) (d (n "handlebars") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "1s637p4xd0kv5n6ajmhiyljj0sz3725048g9zzn5pxvz96l09b9s")))
+
+(define-public crate-cpt-0.3.0 (c (n "cpt") (v "0.3.0") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0.302") (d #t) (k 2)) (d (n "handlebars") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "0gsla1jm67k717yrm5px1xvy9pn4lxf3zdri780in07x63zirfyq")))
+
+(define-public crate-cpt-0.4.0 (c (n "cpt") (v "0.4.0") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0.302") (d #t) (k 2)) (d (n "handlebars") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "069sdy1y4n2fqb49ykda01x5by5lihkdkyh5lwhjs4qb90iszmng")))
+
+(define-public crate-cpt-0.4.1 (c (n "cpt") (v "0.4.1") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "clippy") (r "^0.0.302") (d #t) (k 2)) (d (n "handlebars") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "1c8mxal9n94c35r2y310sp9cpc9f6x75cmik2ycp1c1qy6g0v129")))
+
+(define-public crate-cpt-0.5.0 (c (n "cpt") (v "0.5.0") (d (list (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4.0.29") (d #t) (k 0)) (d (n "handlebars") (r "^5.0.0-beta.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "04m1kbd5v14mixcvi7qjjxm4p9kvc68rgldpl6ny4rfv5qzypxa3")))
+

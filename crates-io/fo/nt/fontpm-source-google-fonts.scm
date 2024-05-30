@@ -1,0 +1,6 @@
+(define-module (crates-io fo nt fontpm-source-google-fonts) #:use-module (crates-io))
+
+(define-public crate-fontpm-source-google-fonts-0.1.0 (c (n "fontpm-source-google-fonts") (v "0.1.0") (d (list (d (n "default-env") (r "^0.1.1") (d #t) (k 0)) (d (n "fontpm-api") (r "^0.1") (f (quote ("reqwest-util"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "gzip" "brotli"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "18pdnycp5wknmfafps7jnv5zjh4iz5484bgp5w9ysqg81va9fvvn")))
+
+(define-public crate-fontpm-source-google-fonts-0.2.0 (c (n "fontpm-source-google-fonts") (v "0.2.0") (d (list (d (n "default-env") (r "^0.1.1") (d #t) (k 0)) (d (n "fontpm-api") (r "^0.2") (f (quote ("reqwest-util"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "gzip" "brotli"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "06nanc1234zgja9iv62ywck85jbmlgyk44j8h5nmk7ds99dxgsnh")))
+

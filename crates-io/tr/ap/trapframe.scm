@@ -1,0 +1,42 @@
+(define-module (crates-io tr ap trapframe) #:use-module (crates-io))
+
+(define-public crate-trapframe-0.1.0 (c (n "trapframe") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.8") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "1fxr4qa54cs13cc33lvnd01lqkwmv6d4xcg0037fxvf5840ql3dz")))
+
+(define-public crate-trapframe-0.1.1 (c (n "trapframe") (v "0.1.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.8") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "03ajwl285qafpdgg0abqpdhiz2gq1qldlgsysb64v5hac9asi777")))
+
+(define-public crate-trapframe-0.1.2 (c (n "trapframe") (v "0.1.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.8") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "0q510l3xg1xn8xzz2m7wk8hfia764yppbgx8in984rkzjm69z7jl")))
+
+(define-public crate-trapframe-0.1.3 (c (n "trapframe") (v "0.1.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.9") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "046zxgcn7fr66p8l148sppska1bif10iva1s6lvkm68na64nspn9")))
+
+(define-public crate-trapframe-0.1.4 (c (n "trapframe") (v "0.1.4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.9") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "0kj5ql3rc11zzi2yx0w8vk5lc9qsq342zr5vsgg3pwf65j5jd6k8")))
+
+(define-public crate-trapframe-0.1.5 (c (n "trapframe") (v "0.1.5") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.9") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "143zpmzhch4316wb675lxd7x9l7xwfn1r9ycb3n7fax8c9z979rl")))
+
+(define-public crate-trapframe-0.1.6 (c (n "trapframe") (v "0.1.6") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.9") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "1pjkwfjc6d23snh5wykz396k2mz0wpy49kfaa06dhrcawq1y2n93")))
+
+(define-public crate-trapframe-0.1.7 (c (n "trapframe") (v "0.1.7") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.9") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "12s091327d3m5w0sdfpaq5adk5gs3p4hkd6b5ymbw7z5zi5g128y")))
+
+(define-public crate-trapframe-0.2.0 (c (n "trapframe") (v "0.2.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^7.0.3") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "0jv42bkywf7xzkf94q0ns1ridrz29czv17nlk914lg3riajnld3h")))
+
+(define-public crate-trapframe-0.3.0 (c (n "trapframe") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "0dphqmzvpphzl46wvdbp8a5d3hhm87f4mk3mhr2img24irzlc63i")))
+
+(define-public crate-trapframe-0.4.0 (c (n "trapframe") (v "0.4.0") (d (list (d (n "cortex-a") (r "^3.0") (d #t) (t "cfg(target_arch = \"aarch64\")") (k 0)) (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "1v2n8didvzxamw9skz1cyjffcsmprndkxidm5zb0a06all1nxh3l")))
+
+(define-public crate-trapframe-0.4.1 (c (n "trapframe") (v "0.4.1") (d (list (d (n "cortex-a") (r "^3.0") (d #t) (t "cfg(all(target_arch = \"aarch64\", target_os = \"none\"))") (k 0)) (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)) (d (n "riscv") (r "^0.5") (d #t) (t "cfg(any(target_arch = \"riscv32\", target_arch = \"riscv64\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)))) (h "01wmr7dc6cy7z5fd42kymcbnzvhn8cw65aqph7j4dkv13crmhh5k")))
+
+(define-public crate-trapframe-0.4.2 (c (n "trapframe") (v "0.4.2") (d (list (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)))) (h "0wc4a76jvdxp08mvvlzdad3gk26fqj9snvrbjjbxsrbdhrmxlvrr")))
+
+(define-public crate-trapframe-0.4.3 (c (n "trapframe") (v "0.4.3") (d (list (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)))) (h "0nvznwqvk6j2kdi4hhh5za9jk5zb5q150h5ccnirqf4nq2k2mvch")))
+
+(define-public crate-trapframe-0.5.0 (c (n "trapframe") (v "0.5.0") (d (list (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)))) (h "0l080zgiqjjas6bdyxxsifb9dfbs2pc6xn6kxmzwypvkav7gi320") (f (quote (("ioport_bitmap") ("default"))))))
+
+(define-public crate-trapframe-0.5.1 (c (n "trapframe") (v "0.5.1") (d (list (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)) (d (n "x86_64") (r "^0.11") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"none\"))") (k 0)))) (h "0blrsvy67vrm5c0g0c129p5jq9b4jjhzm6mivwzrds5mqapgmchl") (f (quote (("ioport_bitmap") ("default"))))))
+
+(define-public crate-trapframe-0.6.0 (c (n "trapframe") (v "0.6.0") (d (list (d (n "raw-cpuid") (r "^8.0") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "x86_64") (r "^0.12") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "0fkyvkjp881gfqj1f7cb60ynqm5bnwyc98jdij0y5i6ymr20sw8q") (f (quote (("ioport_bitmap") ("default"))))))
+
+(define-public crate-trapframe-0.7.0 (c (n "trapframe") (v "0.7.0") (d (list (d (n "raw-cpuid") (r "^9.0") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "x86_64") (r "^0.13") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "041rn06k71kpw6inbsp2wzi4znwkdgdswwjl490sx0y8ns33af73") (f (quote (("ioport_bitmap") ("default"))))))
+
+(define-public crate-trapframe-0.8.0 (c (n "trapframe") (v "0.8.0") (d (list (d (n "raw-cpuid") (r "^9.0") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "x86_64") (r "^0.14") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "1q5idk7xh5z5fkjawzwaqy9y10xadfpqv50hs79q9mjdh9aqgrs7") (f (quote (("ioport_bitmap") ("default"))))))
+
+(define-public crate-trapframe-0.9.0 (c (n "trapframe") (v "0.9.0") (d (list (d (n "raw-cpuid") (r "^10") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)) (d (n "x86_64") (r "^0.14.8") (d #t) (t "cfg(target_arch = \"x86_64\")") (k 0)))) (h "13vav330w43yibs1ay7s2rgnbqr0nq0zkfj1lkdzsnwz2rqfx1zj") (f (quote (("ioport_bitmap") ("default"))))))
+

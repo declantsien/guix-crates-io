@@ -1,0 +1,6 @@
+(define-module (crates-io ra tm ratman-types) #:use-module (crates-io))
+
+(define-public crate-ratman-types-0.3.0 (c (n "ratman-types") (v "0.3.0") (d (list (d (n "async-std") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "protobuf") (r "^2.19") (d #t) (k 0)) (d (n "protoc-rust") (r "^2.19") (d #t) (k 1)) (d (n "ratman-identity") (r "^0.6") (f (quote ("random"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "12ga8ly1mvzvkqf6bi3n7la8a0f97anibw13fg6l34h2mb3dmdh9")))
+
+(define-public crate-ratman-types-0.4.0 (c (n "ratman-types") (v "0.4.0") (d (list (d (n "async-std") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "protobuf") (r "^2.19") (o #t) (d #t) (k 0)) (d (n "protoc-rust") (r "^2.19") (o #t) (d #t) (k 1)) (d (n "ratman-identity") (r "^0.6") (f (quote ("random"))) (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "04ril43vggmpwra08w37b6lfv47407f9fv56ja0v2r8xxvaija28") (f (quote (("proto" "protobuf" "protoc-rust") ("default" "proto"))))))
+

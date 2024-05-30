@@ -1,0 +1,12 @@
+(define-module (crates-io os qu osquery-rust) #:use-module (crates-io))
+
+(define-public crate-osquery-rust-0.1.0 (c (n "osquery-rust") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.0") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "osquery-rust-codegen") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.23.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)) (d (n "thrift") (r "^0.15.0") (d #t) (k 0)))) (h "0c7z7d74f8hq6p6aaxvvvmag3yqddiln4aqr6fv829k0aava60y5") (f (quote (("macros" "osquery-rust-codegen") ("default" "macros")))) (y #t)))
+
+(define-public crate-osquery-rust-0.1.1 (c (n "osquery-rust") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.0") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "osquery-rust-codegen") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.23.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)) (d (n "thrift") (r "^0.15.0") (d #t) (k 0)))) (h "0j6lf8z8rnsldddb0l6gm5lhfxw853322nvx3sw8ybdzp3vqkksj") (f (quote (("macros" "osquery-rust-codegen") ("default" "macros")))) (y #t)))
+
+(define-public crate-osquery-rust-0.1.2 (c (n "osquery-rust") (v "0.1.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "osquery-rust-codegen") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "thrift") (r "^0.17.0") (d #t) (k 0)))) (h "1gvpsz1kz01vrplyrdgbasi1gm0h8x5x5bqz0dm9f5jkly9qywhn") (f (quote (("macros" "osquery-rust-codegen") ("default" "macros")))) (y #t)))
+
+(define-public crate-osquery-rust-0.1.3 (c (n "osquery-rust") (v "0.1.3") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "osquery-rust-codegen") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "thrift") (r "^0.17.0") (d #t) (k 0)))) (h "0fgzq9bz3hi73zxmcj5hdwpn443h34zhwxiw3mcq9hh6l8sffdjp") (f (quote (("macros" "osquery-rust-codegen") ("default" "macros")))) (y #t)))
+
+(define-public crate-osquery-rust-0.1.4 (c (n "osquery-rust") (v "0.1.4") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "osquery-rust-codegen") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "thrift") (r "^0.17.0") (d #t) (k 0)))) (h "0myhk9r8acx9ij3jiaglbf4bv62jpm28shv4nddxkqcz134d00h5") (f (quote (("macros" "osquery-rust-codegen") ("default" "macros"))))))
+

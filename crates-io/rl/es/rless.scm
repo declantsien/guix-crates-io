@@ -1,0 +1,10 @@
+(define-module (crates-io rl es rless) #:use-module (crates-io))
+
+(define-public crate-rless-0.0.1 (c (n "rless") (v "0.0.1") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.20.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "minus") (r "^4.0.2") (f (quote ("async_std_lib" "search" "static_output"))) (d #t) (k 0)))) (h "16m1va0m18xqkyb9zl79v6nhp4djzcqjlrqqxd3pxsa7r9vq7wc3") (f (quote (("build_deps" "man"))))))
+
+(define-public crate-rless-0.0.2 (c (n "rless") (v "0.0.2") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.20.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "minus") (r "^4.0.2") (f (quote ("async_std_lib" "search" "static_output"))) (d #t) (k 0)))) (h "1ijjsbcd2lfq3gfzswbp455hi8zl99fd6dkahn8vvj4r26ziqmgk") (f (quote (("build_deps" "man"))))))
+
+(define-public crate-rless-0.0.3 (c (n "rless") (v "0.0.3") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.20.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "minus") (r "^4.0.2") (f (quote ("async_std_lib" "search" "static_output"))) (d #t) (k 0)))) (h "08v7546mjmh1l16yw18xlx2rbymdi3lqqsl80x9xdaq1m03x4ln9") (f (quote (("build_deps" "man"))))))
+
+(define-public crate-rless-0.0.5 (c (n "rless") (v "0.0.5") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "crossterm") (r "^0.20.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "minus") (r "^4.0.2") (f (quote ("async_std_lib" "search" "static_output"))) (d #t) (k 0)))) (h "012c6j1kd3sip8fs6ksyw2w3jr64bf2hzaxx9y608860j5l1gsdy") (f (quote (("build_deps" "man"))))))
+

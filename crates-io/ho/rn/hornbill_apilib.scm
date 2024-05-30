@@ -1,0 +1,8 @@
+(define-module (crates-io ho rn hornbill_apilib) #:use-module (crates-io))
+
+(define-public crate-hornbill_apilib-0.1.0 (c (n "hornbill_apilib") (v "0.1.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1km7r3d0mi2dwa10jlrx0pj6anwhi55sxb9bjghy97qc84nw6w1a")))
+
+(define-public crate-hornbill_apilib-0.2.0 (c (n "hornbill_apilib") (v "0.2.0") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0cnzvpld694zzyaxbap1hcapgn7lry0r9264imchrnc67ywmmcyv")))
+
+(define-public crate-hornbill_apilib-0.3.0 (c (n "hornbill_apilib") (v "0.3.0") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "http") (r "^1.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0c9csg9pk2d5xk5105vwa3mf0alhd2dcfg7w32f76s3a3y1cfch7")))
+

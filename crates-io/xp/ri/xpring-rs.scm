@@ -1,0 +1,6 @@
+(define-module (crates-io xp ri xpring-rs) #:use-module (crates-io))
+
+(define-public crate-xpring-rs-0.0.1 (c (n "xpring-rs") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "fehler") (r "^1.0.0-alpha.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.105") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.1.1") (d #t) (k 0)) (d (n "tonic-build") (r "^0.1.1") (d #t) (k 1)))) (h "1prdni041md9iv6l20fl4nshc493nv1w7cqlasgpsx4146cwj46i") (y #t)))
+
+(define-public crate-xpring-rs-0.0.2 (c (n "xpring-rs") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "fehler") (r "^1.0.0-alpha.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.105") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.1.1") (d #t) (k 0)) (d (n "tonic-build") (r "^0.1.1") (d #t) (k 1)))) (h "15i1a714rxbcqjkikymfk1b58p0hk573k7amrb9v84ldgfpib00i") (y #t)))
+

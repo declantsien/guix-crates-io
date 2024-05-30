@@ -1,0 +1,20 @@
+(define-module (crates-io pn #{53}# pn532) #:use-module (crates-io))
+
+(define-public crate-pn532-0.1.0 (c (n "pn532") (v "0.1.0") (d (list (d (n "i2cdev") (r "^0.4.2") (d #t) (k 0)))) (h "17cfb3p155ifvfhzjwasi5si061bj63mhms7a020vy0qxk1yxm6s")))
+
+(define-public crate-pn532-0.2.0 (c (n "pn532") (v "0.2.0") (d (list (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "1a22ln3rc5gadmlcnq2d468ia03qbk4az504rr9bhgnziz8x870g") (f (quote (("msb-spi"))))))
+
+(define-public crate-pn532-0.2.1 (c (n "pn532") (v "0.2.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "012binmvfa3ccb5irankkylm595iahb0cxav03arrgicwqa4qz3p") (f (quote (("std" "serialport") ("msb-spi"))))))
+
+(define-public crate-pn532-0.2.2 (c (n "pn532") (v "0.2.2") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "1ssj23045rnpzm0qibavvm465aqd36hinyfk6qzsdkvd8c1ry0w0") (f (quote (("std" "serialport") ("msb-spi"))))))
+
+(define-public crate-pn532-0.3.0 (c (n "pn532") (v "0.3.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "00qzdsf5f65kghzf0pj16dg3qfnh1m3i0z25bpb3py9x0595kg6n") (f (quote (("std" "serialport") ("msb-spi"))))))
+
+(define-public crate-pn532-0.3.1 (c (n "pn532") (v "0.3.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "0nn3nibrcgpqncyg48iv40v6g48zp9cmh5wbbsmgmf8jzbpr7a7l") (f (quote (("std" "serialport") ("msb-spi"))))))
+
+(define-public crate-pn532-0.3.2 (c (n "pn532") (v "0.3.2") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "1nraxhj0xfzgmja0pmczgq00y9v1rn0630zirb0pnpiy2dr2bjjc") (f (quote (("std" "serialport") ("msb-spi"))))))
+
+(define-public crate-pn532-0.3.3 (c (n "pn532") (v "0.3.3") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "0zn6limcypbavwb55602m4p0p62r4b76a0q2rswakc7cb2c7j6ml") (f (quote (("std" "serialport") ("msb-spi"))))))
+
+(define-public crate-pn532-0.4.0 (c (n "pn532") (v "0.4.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "serialport") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "1hy3kdbnzg3idl13qbcg4x4vp6paqm6pydidpvk2rhl550h7ki2x") (f (quote (("std" "serialport") ("msb-spi"))))))
+

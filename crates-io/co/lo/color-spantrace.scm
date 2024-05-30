@@ -1,0 +1,20 @@
+(define-module (crates-io co lo color-spantrace) #:use-module (crates-io))
+
+(define-public crate-color-spantrace-0.1.0 (c (n "color-spantrace") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "0i6hk257x4x31jh0k4arlicwdjwj5l74006yaxxd9r4vjx8v85nf")))
+
+(define-public crate-color-spantrace-0.1.1 (c (n "color-spantrace") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "0gx9ps2wfzswjlakpvx186nrvrrqnaj7cnl9kwxxjsm172xb2jj2")))
+
+(define-public crate-color-spantrace-0.1.2 (c (n "color-spantrace") (v "0.1.2") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "0jsn6sn9ydxm83iklfn981p1j7k7s89991sm4m4ymyba404cdrkp")))
+
+(define-public crate-color-spantrace-0.1.3 (c (n "color-spantrace") (v "0.1.3") (d (list (d (n "ansi_term") (r "^0.11") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "0n2hyv752aidpc7g9rdd7qzybj66cvqznk5asd4q04lvxaqip2q5")))
+
+(define-public crate-color-spantrace-0.1.4 (c (n "color-spantrace") (v "0.1.4") (d (list (d (n "ansi_term") (r "^0.11") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "1gpmr3ykwabrnbwrzzk0r3awmn6j40knvy6kqzsfwj44l55am6ba")))
+
+(define-public crate-color-spantrace-0.1.5 (c (n "color-spantrace") (v "0.1.5") (d (list (d (n "ansi-parser") (r "^0.6.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "owo-colors") (r "^1.2.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "1hsmna978h20q5n1pxh1rcv52gsfccz68kj6kif1zw0ry28yga3z")))
+
+(define-public crate-color-spantrace-0.1.6 (c (n "color-spantrace") (v "0.1.6") (d (list (d (n "ansi-parser") (r "^0.6.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "owo-colors") (r "^1.2.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.10") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.5") (d #t) (k 2)))) (h "1lb2li71zvpxp80nck98gcqbqm3dnmp43pnlvm52z9x8livy9vmn")))
+
+(define-public crate-color-spantrace-0.2.0 (c (n "color-spantrace") (v "0.2.0") (d (list (d (n "ansi-parser") (r "^0.8") (d #t) (k 2)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "owo-colors") (r "^3.2.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.21") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.4") (d #t) (k 2)))) (h "1kldrjm5j3mzz6c84brxshnzm1qbvjglgg7c4z5xrv29jhymp9qv")))
+
+(define-public crate-color-spantrace-0.2.1 (c (n "color-spantrace") (v "0.2.1") (d (list (d (n "ansi-parser") (r "^0.8") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "owo-colors") (r "^3.2.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1.21") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.4") (d #t) (k 2)))) (h "1hkjgaqixrishwiq3lxxy1d4c3mvlv6avcj3ifwy50p3lyrf2syd") (r "1.65.0")))
+

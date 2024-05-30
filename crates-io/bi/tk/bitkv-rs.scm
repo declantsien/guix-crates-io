@@ -1,0 +1,4 @@
+(define-module (crates-io bi tk bitkv-rs) #:use-module (crates-io))
+
+(define-public crate-bitkv-rs-0.2.1 (c (n "bitkv-rs") (v "0.2.1") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "crc32fast") (r "^1.4.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam-skiplist") (r "^0.1.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "jammdb") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "prost") (r "^0.12.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "0jbajwb0pfj58alby2zjldikn1hlkdqbr9acxdwvdnha85wqp59d")))
+

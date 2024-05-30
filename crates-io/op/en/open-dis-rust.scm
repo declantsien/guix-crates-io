@@ -1,0 +1,22 @@
+(define-module (crates-io op en open-dis-rust) #:use-module (crates-io))
+
+(define-public crate-open-dis-rust-0.1.0-alpha (c (n "open-dis-rust") (v "0.1.0-alpha") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "06ls13d593l6vs4kycsz07cmyshqpyxl7aa7hbcnahgypl079km6")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.1 (c (n "open-dis-rust") (v "0.1.0-alpha.1") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "0qqj77y3i4sbmbyr4b8gp0qqkk52rgqc2s6ssxwkj5swvrx97ld7")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.2 (c (n "open-dis-rust") (v "0.1.0-alpha.2") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "0c9va6yrdvg2xjbmwg20m89h76lclf6f0qn1ljhlvfdhlvnysjgq")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.3 (c (n "open-dis-rust") (v "0.1.0-alpha.3") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "042s0pij74xxbwgw9fq6vnbs0d5ab5wm5nd8ky0sg4andrh4173l")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.4 (c (n "open-dis-rust") (v "0.1.0-alpha.4") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "03bkw45yqdhkga7wnrrqzy8ahklz3ql3yi4jb0lrhlh0knpm1z4g") (r "1.73")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.5 (c (n "open-dis-rust") (v "0.1.0-alpha.5") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "15nva391bihrbx143995m5mn5mindqn62kh48wr8khjp4557m6zg") (r "1.74")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.6 (c (n "open-dis-rust") (v "0.1.0-alpha.6") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "11jssc9i4c6ncapv1p0kkdb2cn0xm8kxqpvlsgzpxd0q5jv9664s") (r "1.74")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.7 (c (n "open-dis-rust") (v "0.1.0-alpha.7") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "1dh2hjjlvxc807394m0nsyr100iakrzs8ja9xmay2zbix6lgc26y") (r "1.74")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.8 (c (n "open-dis-rust") (v "0.1.0-alpha.8") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "0fwy95ia5ip3ai43jspmmmx63fzcnmgvp998fsbw47pri74zphbv") (r "1.74")))
+
+(define-public crate-open-dis-rust-0.1.0-alpha.9 (c (n "open-dis-rust") (v "0.1.0-alpha.9") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("codec"))) (d #t) (k 2)))) (h "05slc0rznmc1al7dxm6hbcmv3zpdapqz2l0vskh3rvr4v5ji3b37") (r "1.74")))
+

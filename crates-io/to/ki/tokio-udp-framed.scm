@@ -1,0 +1,4 @@
+(define-module (crates-io to ki tokio-udp-framed) #:use-module (crates-io))
+
+(define-public crate-tokio-udp-framed-0.1.0 (c (n "tokio-udp-framed") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-io") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "futures-sink") (r "^0.3") (d #t) (k 0)) (d (n "futures-test") (r "^0.3.5") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("full"))) (d #t) (k 0)))) (h "1yxyx15hq4v1cxf90sfajq83m7w9zzb44240rdknf3zgqb18mily")))
+

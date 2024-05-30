@@ -1,0 +1,10 @@
+(define-module (crates-io pa ck packetz) #:use-module (crates-io))
+
+(define-public crate-packetz-0.1.0 (c (n "packetz") (v "0.1.0") (d (list (d (n "tokio") (r "^1.29.0") (f (quote ("net" "io-util" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("net" "io-util" "time" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "1wda8sci1wch0g4j5518gs7dqghzdn346jnhm0h0jj51jck3zsny") (f (quote (("server") ("default" "client" "server") ("client"))))))
+
+(define-public crate-packetz-0.1.1 (c (n "packetz") (v "0.1.1") (d (list (d (n "tokio") (r "^1.29.0") (f (quote ("io-util" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("net" "io-util" "time" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "08pyx58i0hcps9h6231qf94jhlzmdcvm32cm7nhsl285r1zhz1x4") (f (quote (("server" "tokio/net") ("full" "client" "server") ("default" "client" "server") ("client" "tokio/net"))))))
+
+(define-public crate-packetz-1.0.0 (c (n "packetz") (v "1.0.0") (d (list (d (n "rustls-pemfile") (r "^1.0.3") (d #t) (k 2)) (d (n "tokio") (r "^1.29.0") (f (quote ("io-util" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("net" "io-util" "time" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-rustls") (r "^0.24.1") (o #t) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.23.1") (d #t) (k 2)))) (h "12fqqbhyfybq8nwrd9js6amrmvqxi2bl0p6j8svzr2sgmm02af3q") (f (quote (("server" "tokio/net") ("full" "client" "server" "tls") ("default" "client" "server") ("client" "tokio/net")))) (s 2) (e (quote (("tls" "dep:tokio-rustls"))))))
+
+(define-public crate-packetz-2.0.0 (c (n "packetz") (v "2.0.0") (d (list (d (n "rustls-pemfile") (r "^1.0.3") (d #t) (k 2)) (d (n "tokio") (r "^1.29.0") (f (quote ("io-util" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("net" "io-util" "time" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-rustls") (r "^0.24.1") (o #t) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.23.1") (d #t) (k 2)))) (h "1pi70a5knrqfra1aa47nb6hn3y650021zk0gx45lm875f54hqblb") (f (quote (("server" "tokio/net") ("full" "client" "server" "tls") ("default" "client" "server") ("client" "tokio/net")))) (s 2) (e (quote (("tls" "dep:tokio-rustls"))))))
+

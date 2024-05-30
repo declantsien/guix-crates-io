@@ -1,0 +1,6 @@
+(define-module (crates-io tr ac track-time) #:use-module (crates-io))
+
+(define-public crate-track-time-0.1.0 (c (n "track-time") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.5") (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1v956lbgcy2pd0yxsx5qjjyl58aw5gssyr2kznhm9w29nb6qq8vb")))
+
+(define-public crate-track-time-0.1.1 (c (n "track-time") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.5") (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0kj0djf17pcr615rq78qkiyqhxa4rs1fq59g09gzca1aisrm4zhx")))
+

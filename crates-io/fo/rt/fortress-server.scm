@@ -1,0 +1,4 @@
+(define-module (crates-io fo rt fortress-server) #:use-module (crates-io))
+
+(define-public crate-fortress-server-1.0.0 (c (n "fortress-server") (v "1.0.0") (d (list (d (n "actix-http") (r "^3.2.2") (d #t) (k 0)) (d (n "actix-web") (r "^4.2.1") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-actix-rustls"))) (d #t) (k 0)) (d (n "subtle") (r "^2.4.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0qkgr53zjh9f0mjw3hfsldsi57blg23z4mjn6n4kjddykljlikg6")))
+

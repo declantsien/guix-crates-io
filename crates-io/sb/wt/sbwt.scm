@@ -1,0 +1,8 @@
+(define-module (crates-io sb wt sbwt) #:use-module (crates-io))
+
+(define-public crate-sbwt-0.1.0 (c (n "sbwt") (v "0.1.0") (h "16z159qhlpzmgdn9hfr61axzg6isznrfaj9fpac1ww4385j0zpss")))
+
+(define-public crate-sbwt-0.1.1 (c (n "sbwt") (v "0.1.1") (h "0rzxazc5sd3zyv9fbblkdxd1x9dwvixahqf971wqlwsch2paarwq")))
+
+(define-public crate-sbwt-0.2.0 (c (n "sbwt") (v "0.2.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.4") (d #t) (k 0)) (d (n "crossbeam") (r "^0.5") (d #t) (k 0)) (d (n "embed-doc-image") (r "^0.1.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "jseqio") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 2)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "read_exact") (r "^0.0.1") (d #t) (k 0)) (d (n "simple-sds-sbwt") (r "^0.3.1") (d #t) (k 0)) (d (n "test-log") (r "^0.2") (d #t) (k 0)) (d (n "unitig_flipper") (r "^0.1.0") (d #t) (k 0)))) (h "07cg2pkqa8xcjmw56iz3hy5f43ibhxwzsgpkwql97k743c653g2d") (r "1.77")))
+

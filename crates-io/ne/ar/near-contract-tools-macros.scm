@@ -1,0 +1,28 @@
+(define-module (crates-io ne ar near-contract-tools-macros) #:use-module (crates-io))
+
+(define-public crate-near-contract-tools-macros-0.3.0 (c (n "near-contract-tools-macros") (v "0.3.0") (d (list (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (d #t) (k 0)))) (h "1v4yqw4n6axnbxni6yhi45n3ja7df8jqxpgnqpycvmja16crkw6r")))
+
+(define-public crate-near-contract-tools-macros-0.3.1 (c (n "near-contract-tools-macros") (v "0.3.1") (d (list (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (d #t) (k 0)))) (h "0lm9mdxcx63mcwl4hpd0h99sym70v44k04ggdjmksyg5mm3lsngf")))
+
+(define-public crate-near-contract-tools-macros-0.3.2 (c (n "near-contract-tools-macros") (v "0.3.2") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (d #t) (k 0)))) (h "08302i9k6d2m1d8ka3xpshqsx1x3v21q3jbv64pj8i8pd7da191y")))
+
+(define-public crate-near-contract-tools-macros-0.3.3 (c (n "near-contract-tools-macros") (v "0.3.3") (d (list (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (d #t) (k 0)))) (h "0gdhvlh77shsj9m731s7v93h4v3i3vg76s0nka50rqskhx8hsjrk")))
+
+(define-public crate-near-contract-tools-macros-0.3.4 (c (n "near-contract-tools-macros") (v "0.3.4") (d (list (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (d #t) (k 0)))) (h "11kgkkp3my48f6yyi2ca3wj00ay35w23bdabxqzmi6w09lr5qmc6")))
+
+(define-public crate-near-contract-tools-macros-0.3.5 (c (n "near-contract-tools-macros") (v "0.3.5") (d (list (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1f9p9mm5fy73m1yaz0b05vc1867s17738vwswp09n3s7dcn9i4a4")))
+
+(define-public crate-near-contract-tools-macros-0.4.0 (c (n "near-contract-tools-macros") (v "0.4.0") (d (list (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "15j8zw83g7wsjvvd5xl6f4skggnd82jagcg2lks35a0d1cgdkngp")))
+
+(define-public crate-near-contract-tools-macros-0.5.0 (c (n "near-contract-tools-macros") (v "0.5.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.2") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "1gxllixv3s0xxxxssz3z0ghdaxbw0kdca0xs5cw1fwsww9d4gdfp")))
+
+(define-public crate-near-contract-tools-macros-0.6.0 (c (n "near-contract-tools-macros") (v "0.6.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.99") (d #t) (k 0)))) (h "1vhha4bi6pg5p7lpghyw6wvbrsiinx3g79sk87l1m7403dnsqnd7")))
+
+(define-public crate-near-contract-tools-macros-0.6.1 (c (n "near-contract-tools-macros") (v "0.6.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.99") (d #t) (k 0)))) (h "12m4anjz3v0n5w5skz523gjg61wfzq3cs40mjxn5zd9pn258acbs")))
+
+(define-public crate-near-contract-tools-macros-0.7.0 (c (n "near-contract-tools-macros") (v "0.7.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.99") (d #t) (k 0)))) (h "0npnssd83y9nna3g6bkk130w9k12widiqv05y1j165kly2sryyvr")))
+
+(define-public crate-near-contract-tools-macros-0.7.1 (c (n "near-contract-tools-macros") (v "0.7.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.99") (d #t) (k 0)))) (h "04x9q49w5830prfx72m4w6pisawiqk09var4043qypd03fja9qcg")))
+
+(define-public crate-near-contract-tools-macros-0.7.2 (c (n "near-contract-tools-macros") (v "0.7.2") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.43") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.99") (d #t) (k 0)))) (h "0b3in4sqy00789p4z7ja53maa4qsgdlmxvk0n5y25d3xvz20m1xn")))
+

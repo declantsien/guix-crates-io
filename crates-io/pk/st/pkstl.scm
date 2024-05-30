@@ -1,0 +1,4 @@
+(define-module (crates-io pk st pkstl) #:use-module (crates-io))
+
+(define-public crate-pkstl-0.1.0 (c (n "pkstl") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2.0") (o #t) (d #t) (k 0)) (d (n "chacha20-poly1305-aead") (r "^0.1.2") (d #t) (k 0)) (d (n "clear_on_drop") (r "^0.2.3") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "flate2") (r "^1.0.11") (o #t) (d #t) (k 0)) (d (n "log") (r "0.4.*") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "ring") (r "^0.16.9") (d #t) (k 0)) (d (n "serde") (r "1.0.*") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.10.2") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (o #t) (d #t) (k 0)))) (h "0mpkn5h45wbqhi98i29ln212vq4pkdyafbw6dgmg55n21wna3c9q") (f (quote (("zip-sign" "flate2") ("ser" "zip-sign" "serde") ("json" "serde_json" "ser") ("default" "zip-sign") ("cbor" "serde_cbor" "ser") ("bin" "bincode" "ser"))))))
+

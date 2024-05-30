@@ -1,0 +1,4 @@
+(define-module (crates-io ha la hala-io-driver) #:use-module (crates-io))
+
+(define-public crate-hala-io-driver-0.1.2 (c (n "hala-io-driver") (v "0.1.2") (d (list (d (n "bitmask-enum") (r "^2.2.3") (d #t) (k 0)) (d (n "divan") (r "^0.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.29") (f (quote ("executor" "thread-pool"))) (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (f (quote ("executor" "thread-pool"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.8.9") (f (quote ("os-poll" "net"))) (o #t) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 2)) (d (n "timewheel") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1whsk86ny0v151kjscagfpv6z71vg9b4d9j1h76x9cf9vh4xzaih") (f (quote (("spawner" "futures") ("mio_driver" "mio" "timewheel") ("global") ("driver_ext") ("default" "mio_driver" "global" "driver_ext" "spawner"))))))
+

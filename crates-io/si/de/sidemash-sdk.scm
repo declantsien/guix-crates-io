@@ -1,0 +1,8 @@
+(define-module (crates-io si de sidemash-sdk) #:use-module (crates-io))
+
+(define-public crate-sidemash-sdk-0.1.0 (c (n "sidemash-sdk") (v "0.1.0") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "hmac") (r "^0.9.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "14yv93b9xcnkjqxbmzcba2w0n2azl57gr02ajxyp7xn7xjz7w0xn")))
+
+(define-public crate-sidemash-sdk-0.1.1 (c (n "sidemash-sdk") (v "0.1.1") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "hmac") (r "^0.9.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "05xjira6fcdi271gcfc7zdpr28af2zjpc9ai4qbhrgjszagcblgc")))
+
+(define-public crate-sidemash-sdk-0.1.0-alpha1 (c (n "sidemash-sdk") (v "0.1.0-alpha1") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "hmac") (r "^0.9.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0fvzw1493802pi3dhd64y9l11l1q4a3y41llgbv80698qlmajivr")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-tar-wasm) #:use-module (crates-io))
+
+(define-public crate-async-tar-wasm-0.4.2-wasm.1 (c (n "async-tar-wasm") (v "0.4.2-wasm.1") (d (list (d (n "async-std") (r "^1.6.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "filetime") (r "^0.2.8") (o #t) (d #t) (k 0)) (d (n "pin-project") (r "^1.0.8") (d #t) (k 0)) (d (n "async-std") (r "^1.6.0") (f (quote ("unstable" "attributes"))) (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "redox_syscall") (r "^0.2") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "xattr") (r "^0.2") (o #t) (d #t) (t "cfg(unix)") (k 0)))) (h "0i9ffkn3brdlfyhnl8csz3k026cksks683dk70mhdnvmpg5y5i9g") (f (quote (("fs" "filetime") ("default" "xattr" "fs"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ic -e ic-evm-sign) #:use-module (crates-io))
+
+(define-public crate-ic-evm-sign-0.0.1 (c (n "ic-evm-sign") (v "0.0.1") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "0jjkjrhdwamw9wpgw33d5icxkym14v32x5ww4kimb6snfw2drk30")))
+
+(define-public crate-ic-evm-sign-0.0.2 (c (n "ic-evm-sign") (v "0.0.2") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "14vm963sikjy37zkrrh7c3vsi2xigi4zwz32la9g9r5lmh6rk10z")))
+
+(define-public crate-ic-evm-sign-0.0.3 (c (n "ic-evm-sign") (v "0.0.3") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "06v60dyivr6g36bmgcmxd8zz7fi9hxi237jmlw0anxyrrk9mc99p")))
+
+(define-public crate-ic-evm-sign-0.1.0 (c (n "ic-evm-sign") (v "0.1.0") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "0aaxsfnaqglnks6fk1lfi71nb9a7y83d76zf8ijf0bf26bny41fm")))
+
+(define-public crate-ic-evm-sign-0.1.1 (c (n "ic-evm-sign") (v "0.1.1") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "1x3r5m5hzx9n7nf6w4g08ha7m6xm6fm7w8149y4710ygpq6qn1f0")))
+
+(define-public crate-ic-evm-sign-0.1.2 (c (n "ic-evm-sign") (v "0.1.2") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "0ag9hgp75a3bpshj9ip0jiwc2az09sg6fjw5d671lrrgwy4algm1")))
+
+(define-public crate-ic-evm-sign-0.1.3 (c (n "ic-evm-sign") (v "0.1.3") (d (list (d (n "candid") (r "^0.7.14") (d #t) (k 0)) (d (n "easy-hasher") (r "^2.2.1") (d #t) (k 0)) (d (n "ethereum-rlp") (r "^0.2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (f (quote ("lazy-static-context"))) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "0hrrzbsbdsjcmc80qzj61v86b7fav1s8qcc79yhc0p1fplr6wq8w")))
+

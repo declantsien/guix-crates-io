@@ -1,0 +1,8 @@
+(define-module (crates-io st og stog) #:use-module (crates-io))
+
+(define-public crate-stog-0.1.0 (c (n "stog") (v "0.1.0") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.124") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 0)) (d (n "tera") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1mm5kjzk1wp1wyllrxbd1cg0cdyv4qnncglryja9s78ahrmgh19n")))
+
+(define-public crate-stog-0.1.1 (c (n "stog") (v "0.1.1") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.138") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.24") (d #t) (k 0)) (d (n "tera") (r "^1.16.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "1003jvngdfvpbbc3v55jpj5iblqdb8xiz2pxayxcsc04wwf80n9r")))
+
+(define-public crate-stog-0.2.0 (c (n "stog") (v "0.2.0") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.138") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.24") (d #t) (k 0)) (d (n "tera") (r "^1.16.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0sh98dw6yssj16jvmc5zxhx4jdfvl0qmmdjlspmcwiq4ymbnx7k6")))
+

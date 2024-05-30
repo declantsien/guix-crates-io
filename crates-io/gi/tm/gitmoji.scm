@@ -1,0 +1,4 @@
+(define-module (crates-io gi tm gitmoji) #:use-module (crates-io))
+
+(define-public crate-gitmoji-1.0.0 (c (n "gitmoji") (v "1.0.0") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("yaml" "wrap_help"))) (d #t) (k 0)) (d (n "colored") (r "^1.9.2") (d #t) (k 0)) (d (n "confy") (r "^0.3.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.5.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "enquirer") (r "^0.3.0") (d #t) (k 0)) (d (n "json") (r "^0.12.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "spinners") (r "^1.2.0") (d #t) (k 0)))) (h "0mwg24piqba3qs2k18xahsp96awa0ghzp7jv93q1p7swvs7q7amq")))
+

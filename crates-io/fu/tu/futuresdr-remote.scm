@@ -1,0 +1,8 @@
+(define-module (crates-io fu tu futuresdr-remote) #:use-module (crates-io))
+
+(define-public crate-futuresdr-remote-0.0.1 (c (n "futuresdr-remote") (v "0.0.1") (d (list (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "futuresdr-types") (r "^0.0.9") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "tcp"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "03smv0vj9s5cc5iwskvafg9565k3pjwjq7yd3in5qg8j3mnvi4bb")))
+
+(define-public crate-futuresdr-remote-0.0.2 (c (n "futuresdr-remote") (v "0.0.2") (d (list (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "futuresdr-types") (r "^0.0.9") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "http1" "tcp"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "16nnkrhjh8nklz97ggw4jx9h8bmndnpvf2j0xwl5jcq919s105pf")))
+
+(define-public crate-futuresdr-remote-0.0.4 (c (n "futuresdr-remote") (v "0.0.4") (d (list (d (n "futuresdr-types") (r "^0.0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "02a69bsg7szpc7qgyvkp883wd66a98pzrv8g5zral0m9wzbn3xbh")))
+

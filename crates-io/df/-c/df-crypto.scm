@@ -1,0 +1,14 @@
+(define-module (crates-io df -c df-crypto) #:use-module (crates-io))
+
+(define-public crate-df-crypto-0.1.0 (c (n "df-crypto") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "sha256") (r "^1.1.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "11f7kypb2kcyhxp2jhrx5miz01x6mfws8l8s0ph5z6dpd4q6p2gj") (y #t)))
+
+(define-public crate-df-crypto-0.1.1 (c (n "df-crypto") (v "0.1.1") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "sha256") (r "^1.1.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0p9lhabqqcr88fihzh32vp2pidhlk81vgsf63wvrfmclyqqayxbr") (y #t)))
+
+(define-public crate-df-crypto-0.1.2 (c (n "df-crypto") (v "0.1.2") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "sha256") (r "^1.1.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0vx0bmwv533m7yq5hjg09c68p197cijw9a98jr05w881s5pfwi8i") (y #t)))
+
+(define-public crate-df-crypto-0.1.3 (c (n "df-crypto") (v "0.1.3") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "sha256") (r "^1.1.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1xhv7l4z453i8qcfm3jnkcwn7ywk6rzx8n2wbmm4367yps11pczx") (y #t)))
+
+(define-public crate-df-crypto-0.1.4 (c (n "df-crypto") (v "0.1.4") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "sha256") (r "^1.1.2") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1qr5vwg9ypkxrix3nvw4vbdl9z6198bg6bv4xd5dagf34pjps30d") (y #t)))
+
+(define-public crate-df-crypto-0.1.5 (c (n "df-crypto") (v "0.1.5") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "sha256") (r "^1.1.2") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1gr9ljzbivf2irchjbawafilmfp0c39qrzh328qzchsx7gwy0lz5")))
+

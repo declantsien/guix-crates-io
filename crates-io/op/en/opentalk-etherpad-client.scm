@@ -1,0 +1,8 @@
+(define-module (crates-io op en opentalk-etherpad-client) #:use-module (crates-io))
+
+(define-public crate-opentalk-etherpad-client-0.0.0 (c (n "opentalk-etherpad-client") (v "0.0.0") (h "0j0drkrrmj2hl8czm8byjfnk92x1za253j2ql79sfbxpwbvvvmb9")))
+
+(define-public crate-opentalk-etherpad-client-0.1.0 (c (n "opentalk-etherpad-client") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "cookies" "stream"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "snafu") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1zcbvjfn76fcf9f0mkb9yx1n34izrj5bz59a78ylxn6vswi8pk8s") (f (quote (("rustls-tls-native-roots" "reqwest/rustls-tls-native-roots") ("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-opentalk-etherpad-client-0.2.0 (c (n "opentalk-etherpad-client") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "cookies" "stream"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "snafu") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1d7p12z1c4nhrxl62m8a3lxmmv2gj7ip75z7ylm6fij5jpzbxzz7") (f (quote (("rustls-tls-native-roots" "reqwest/rustls-tls-native-roots") ("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("default" "native-tls"))))))
+

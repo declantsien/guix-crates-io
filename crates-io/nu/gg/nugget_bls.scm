@@ -1,0 +1,4 @@
+(define-module (crates-io nu gg nugget_bls) #:use-module (crates-io))
+
+(define-public crate-nugget_bls-0.0.1 (c (n "nugget_bls") (v "0.0.1") (d (list (d (n "ark-bls12-377") (r "^0.4") (f (quote ("curve"))) (o #t) (k 0)) (d (n "ark-bls12-381") (r "^0.4") (f (quote ("curve"))) (o #t) (k 0)) (d (n "ark-ec") (r "^0.4") (k 0)) (d (n "ark-ff") (r "^0.4") (k 0)) (d (n "ark-serialize") (r "^0.4") (f (quote ("derive"))) (k 0)) (d (n "ark-std") (r "^0.4") (k 0)) (d (n "dleq_vrf") (r "^0.0.1") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "sha2") (r "^0.10") (o #t) (k 0)))) (h "1ixyxb81nnqh3wi2am7b7lc6vc4mblhj2awksbv0clapcq9kdf98") (f (quote (("getrandom" "dleq_vrf/getrandom") ("default" "getrandom" "bls12_381" "bls12_377")))) (s 2) (e (quote (("bls12_381" "dep:ark-bls12-381" "dep:sha2") ("bls12_377" "dep:ark-bls12-377"))))))
+

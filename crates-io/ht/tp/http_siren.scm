@@ -1,0 +1,4 @@
+(define-module (crates-io ht tp http_siren) #:use-module (crates-io))
+
+(define-public crate-http_siren-0.1.0 (c (n "http_siren") (v "0.1.0") (d (list (d (n "assert2") (r "^0.3.6") (d #t) (k 2)) (d (n "axum") (r "^0.5.11") (o #t) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "headers") (r "^0.3.7") (d #t) (k 2)) (d (n "headers-core") (r "^0.2.0") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "hyper") (r "^0.14.20") (f (quote ("full"))) (d #t) (k 2)) (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 2)))) (h "0jmcs0abw67pdbldn5vc373zakqqg86i92ckhww6nsjy1xasg3jv") (s 2) (e (quote (("axum" "dep:axum"))))))
+

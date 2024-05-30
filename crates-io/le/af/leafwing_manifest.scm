@@ -1,0 +1,4 @@
+(define-module (crates-io le af leafwing_manifest) #:use-module (crates-io))
+
+(define-public crate-leafwing_manifest-0.1.0 (c (n "leafwing_manifest") (v "0.1.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_asset"))) (k 0)) (d (n "bevy") (r "^0.13") (d #t) (k 2)) (d (n "bevy_common_assets") (r "^0.10.0") (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1x8lmzz1r7lxs4l3wm3yp9mi234x5vm0q62hchrpffx70078dm66") (f (quote (("yaml" "bevy_common_assets/yaml") ("xml" "bevy_common_assets/xml") ("toml" "bevy_common_assets/toml") ("ron" "bevy_common_assets/ron") ("msgpack" "bevy_common_assets/msgpack") ("json" "bevy_common_assets/json") ("default") ("csv" "bevy_common_assets/csv") ("all_asset_loaders" "ron" "toml" "yaml" "json" "msgpack" "xml" "csv"))))))
+

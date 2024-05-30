@@ -1,0 +1,4 @@
+(define-module (crates-io en cu encue) #:use-module (crates-io))
+
+(define-public crate-encue-0.1.0 (c (n "encue") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (k 0)) (d (n "log") (r "^0.4.19") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.22.0") (f (quote ("serde" "macros" "time"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.174") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tui-logger") (r "^0.9.2") (f (quote ("ratatui" "ratatui-support"))) (k 0)))) (h "08bgl1hh795im8b14wb3alb09kj0ds6ld1y24lqp0x8qpdhb5cb2")))
+

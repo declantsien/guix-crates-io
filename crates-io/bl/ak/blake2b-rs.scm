@@ -1,0 +1,16 @@
+(define-module (crates-io bl ak blake2b-rs) #:use-module (crates-io))
+
+(define-public crate-blake2b-rs-0.1.0 (c (n "blake2b-rs") (v "0.1.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "11y4jdivcmzx3azqbgsnqpi09x7li4rc435j1w6f5q3xzl5k2q89")))
+
+(define-public crate-blake2b-rs-0.1.1 (c (n "blake2b-rs") (v "0.1.1") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1iym1skbkj4nr1jzma4mrp7xdyivqbh5pnp4c1yp2skscpng1lpj")))
+
+(define-public crate-blake2b-rs-0.1.2 (c (n "blake2b-rs") (v "0.1.2") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "16rps3k8x7maj3p5nd9cn30a5923ra4yhjw534dspqkc0lkffnl9")))
+
+(define-public crate-blake2b-rs-0.1.3 (c (n "blake2b-rs") (v "0.1.3") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0jw0xxhhr78mgri41z804i5nqx598wp0f563719g6lpwwfrap1l4") (y #t)))
+
+(define-public crate-blake2b-rs-0.1.4 (c (n "blake2b-rs") (v "0.1.4") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1awaczzbzxvsddgzaz1mlmh5j4fd61qcb6z0f9gwjpypl9kb29wm")))
+
+(define-public crate-blake2b-rs-0.1.5 (c (n "blake2b-rs") (v "0.1.5") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "11yb9yds8ksgmds9qrraasl36bfjfldv42bgl770xy8fhdif6dbf")))
+
+(define-public crate-blake2b-rs-0.2.0 (c (n "blake2b-rs") (v "0.2.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 2)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "cty") (r "^0.2.1") (d #t) (k 0)) (d (n "faster-hex") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0w977b7wqlf096aviis61wprnzwyh68y6s49509vj8bzh1jqb6m8")))
+

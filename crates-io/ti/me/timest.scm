@@ -1,0 +1,12 @@
+(define-module (crates-io ti me timest) #:use-module (crates-io))
+
+(define-public crate-timest-0.1.0 (c (n "timest") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "microxdg") (r "^0.1.0") (d #t) (k 0)) (d (n "ntp") (r "^0.5.0") (d #t) (k 0)) (d (n "recolored") (r "^1.9.3") (d #t) (k 0)) (d (n "sqlite") (r "^0.32.0") (d #t) (k 0)))) (h "0nhhf16jfdz4qlkr6g06hqqldyhlxvdp11f7szpdjmydv11r8703")))
+
+(define-public crate-timest-0.1.1 (c (n "timest") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "microxdg") (r "^0.1.0") (d #t) (k 0)) (d (n "ntp") (r "^0.5.0") (d #t) (k 0)) (d (n "recolored") (r "^1.9.3") (d #t) (k 0)) (d (n "sqlite") (r "^0.32.0") (d #t) (k 0)))) (h "0gkis4rrpca02hpi18jh8a1ylmarv4xx5cyvcfbaw51sm0bcbgi9")))
+
+(define-public crate-timest-1.0.0 (c (n "timest") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ntp") (r "^0.5.0") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "recolored") (r "^1.9.3") (d #t) (k 0)) (d (n "sqlite") (r "^0.32.0") (d #t) (k 0)))) (h "01aqcw7hjy911yc5g2ahvjipafy3hbnd3vnkj2fwhc2sjni1jhrm")))
+
+(define-public crate-timest-1.0.1 (c (n "timest") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ntp") (r "^0.5.0") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "recolored") (r "^1.9.3") (d #t) (k 0)) (d (n "sqlite") (r "^0.32.0") (d #t) (k 0)))) (h "1p24j5h3q2gfsq4vpmqy6g9midn4w8zdl070gqis945cy1c89hzk")))
+
+(define-public crate-timest-1.0.2 (c (n "timest") (v "1.0.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ntp") (r "^0.5.0") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "recolored") (r "^1.9.3") (d #t) (k 0)) (d (n "sqlite") (r "^0.32.0") (d #t) (k 0)))) (h "1lsswq7b41w369pqg44ra743p8xyg1bmv7yvi912m6maz4c0hvfd")))
+

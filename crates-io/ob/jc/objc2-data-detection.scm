@@ -1,0 +1,6 @@
+(define-module (crates-io ob jc objc2-data-detection) #:use-module (crates-io))
+
+(define-public crate-objc2-data-detection-0.2.0 (c (n "objc2-data-detection") (v "0.2.0") (d (list (d (n "objc2") (r "^0.5.1") (f (quote ("apple"))) (k 0)) (d (n "objc2-foundation") (r "^0.2.0") (d #t) (k 0)))) (h "02zrf7q1r2zf5pvb3b9mpjg2hkba8li2yasf272j0qlk5jjq4kzq") (f (quote (("unstable-docsrs") ("std" "alloc" "objc2/std") ("default" "std") ("alloc" "objc2/alloc") ("all" "DDMatch" "DataDetectionBase") ("DataDetectionBase") ("DDMatch" "objc2-foundation/NSDate" "objc2-foundation/NSString" "objc2-foundation/NSTimeZone" "objc2-foundation/NSURL")))) (r "1.60")))
+
+(define-public crate-objc2-data-detection-0.2.2 (c (n "objc2-data-detection") (v "0.2.2") (d (list (d (n "objc2") (r "^0.5.2") (k 0)) (d (n "objc2-foundation") (r "^0.2.2") (k 0)))) (h "01sbwcx28b97qyzq8r36mrxq9bcqy2103gl3kapv8yhzbsj48lpx") (f (quote (("std" "alloc" "objc2/std" "objc2-foundation/std") ("default" "std") ("alloc" "objc2/alloc" "objc2-foundation/alloc") ("all" "DDMatch" "DataDetectionBase") ("DataDetectionBase") ("DDMatch" "objc2-foundation/NSDate" "objc2-foundation/NSString" "objc2-foundation/NSTimeZone" "objc2-foundation/NSURL")))) (r "1.60")))
+

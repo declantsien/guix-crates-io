@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoinrpc-server) #:use-module (crates-io))
+
+(define-public crate-bitcoinrpc-server-0.1.12-alpha.0 (c (n "bitcoinrpc-server") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-remote") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-support") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-univalue") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinrpc-util") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1p4lix9rgcdwcpi45n9j7drv778r9nz0fkim5aryan65j1c72yy8")))
+
+(define-public crate-bitcoinrpc-server-0.1.16-alpha.0 (c (n "bitcoinrpc-server") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-remote") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-support") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-univalue") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinrpc-util") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1rihwhhd0cv4ahg31hvra7333snjg65jbai1sbxyr3jjqj22scil")))
+

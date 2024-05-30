@@ -1,0 +1,4 @@
+(define-module (crates-io su bw subwasmlib) #:use-module (crates-io))
+
+(define-public crate-subwasmlib-0.13.2 (c (n "subwasmlib") (v "0.13.2") (d (list (d (n "calm_io") (r "^0.1") (d #t) (k 0)) (d (n "color-eyre") (r "^0.5") (d #t) (k 0)) (d (n "frame-metadata") (r "^14.0.0-rc.1") (f (quote ("v12" "v13" "v14" "std"))) (d #t) (k 0)) (d (n "ipfs-hasher") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-format") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "substrate-differ") (r "^0.13.0") (d #t) (k 0)) (d (n "wasm-loader") (r "^0.13.0") (d #t) (k 0)) (d (n "wasm-testbed") (r "^0.13.1") (d #t) (k 0)))) (h "061mdx3dknn5azyfs5x1v3krr722s0nmf2a5p3wmvscsin8055y7")))
+

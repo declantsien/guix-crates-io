@@ -1,0 +1,4 @@
+(define-module (crates-io ho wt howtocards) #:use-module (crates-io))
+
+(define-public crate-howtocards-0.1.3 (c (n "howtocards") (v "0.1.3") (d (list (d (n "actix") (r "^0.7.4") (d #t) (k 0)) (d (n "actix-web") (r "0.7.*") (d #t) (k 0)) (d (n "diesel") (r "^1.3.3") (f (quote ("postgres" "r2d2"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.13.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "notify-rust") (r "^3.4.2") (d #t) (k 0)) (d (n "ron") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.20") (d #t) (k 0)) (d (n "sha2") (r "^0.7.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1s4bhr6v2ghrj7il2c6r5lq7nx23ma0i8i9zl7xfh7mj9hjpa71v")))
+

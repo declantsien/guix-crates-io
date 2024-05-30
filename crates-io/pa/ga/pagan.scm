@@ -1,0 +1,14 @@
+(define-module (crates-io pa ga pagan) #:use-module (crates-io))
+
+(define-public crate-pagan-0.0.0 (c (n "pagan") (v "0.0.0") (d (list (d (n "colored") (r "^1.5.2") (d #t) (k 0)) (d (n "gcc") (r "^0.3.54") (d #t) (k 1)) (d (n "gnuplot") (r "^0.0.24") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)))) (h "0a2lp3c7k9g7qm53z1qa4mdjh7wilw91vdkgfc83ds4f6las1l2p")))
+
+(define-public crate-pagan-0.0.1 (c (n "pagan") (v "0.0.1") (d (list (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "gcc") (r "^0.3.54") (d #t) (k 1)) (d (n "gnuplot") (r "^0.0.24") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)))) (h "0bvql931mfs2q6sbj27g0vcqaigssfg3mnm5bx3lnrfw1bld7djw")))
+
+(define-public crate-pagan-0.1.0 (c (n "pagan") (v "0.1.0") (d (list (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "gcc") (r "^0.3.54") (d #t) (k 1)) (d (n "gnuplot") (r "^0.0.24") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "simple_logger") (r "^0.5.0") (d #t) (k 2)))) (h "0fql39j5pv7d94whr3dzgdksgpg2msydpglhld3sa70lpvgvdip7")))
+
+(define-public crate-pagan-0.1.1 (c (n "pagan") (v "0.1.1") (d (list (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "gcc") (r "^0.3.54") (d #t) (k 1)) (d (n "gnuplot") (r "^0.0.24") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "simple_logger") (r "^0.5.0") (d #t) (k 2)))) (h "09nnjwrk9qbyj6irdg2lk5ln84mlll371nis29x0knq9y2vvb91h")))
+
+(define-public crate-pagan-0.2.0 (c (n "pagan") (v "0.2.0") (d (list (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "gcc") (r "^0.3.54") (d #t) (k 1)) (d (n "gnuplot") (r "^0.0.24") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "simple_logger") (r "^0.5.0") (d #t) (k 2)))) (h "1aqgxcwzwq6a3y9j7gwfm216iv56lpy254m2hld01kqpj78ij5xz")))
+
+(define-public crate-pagan-0.2.1 (c (n "pagan") (v "0.2.1") (d (list (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "gcc") (r "^0.3.54") (d #t) (k 1)) (d (n "gnuplot") (r "^0.0.24") (d #t) (k 0)) (d (n "itertools-num") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.40") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "simple_logger") (r "^0.5.0") (d #t) (k 2)))) (h "155xsav743330x144b3xy784zd4fv88i1rrk8kfd8rrfmy7l2n0z")))
+

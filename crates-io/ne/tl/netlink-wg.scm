@@ -1,0 +1,4 @@
+(define-module (crates-io ne tl netlink-wg) #:use-module (crates-io))
+
+(define-public crate-netlink-wg-0.1.0 (c (n "netlink-wg") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "bytes") (r "^0.4.11") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.13") (d #t) (k 0)) (d (n "enum_primitive") (r "^0.1.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "libc") (r "^0.2.46") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "mio") (r "^0.6.16") (d #t) (k 0)) (d (n "nix") (r "^0.12.0") (d #t) (k 0)) (d (n "nom") (r "^4.1.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 0)) (d (n "taikai") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (f (quote ("async-await-preview"))) (d #t) (k 0)) (d (n "tuple_utils") (r "^0.3.0") (d #t) (k 0)))) (h "1dsyqkr4gj59bsbpanwfkzmzsznash7g1n2ig9zhzpyzhqcbgibv")))
+

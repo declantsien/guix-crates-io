@@ -1,0 +1,6 @@
+(define-module (crates-io bi gq bigquery-client) #:use-module (crates-io))
+
+(define-public crate-bigquery-client-0.1.0-alpha (c (n "bigquery-client") (v "0.1.0-alpha") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gouth") (r "^0.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.1.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "03dc6l1hrlfdf433pvl1xl2ix9h7nrqkpsrkpwx2gw13ni0fwp4g") (y #t)))
+
+(define-public crate-bigquery-client-0.2.0-alpha (c (n "bigquery-client") (v "0.2.0-alpha") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde" "alloc" "unstable-locales"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gouth") (r "^0.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.1.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1fxb4rf1hjglxdiwhxwj043scsjkixda8ri776i2i3mi0sr5a2il")))
+

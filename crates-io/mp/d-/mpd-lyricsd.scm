@@ -1,0 +1,4 @@
+(define-module (crates-io mp d- mpd-lyricsd) #:use-module (crates-io))
+
+(define-public crate-mpd-lyricsd-0.1.0 (c (n "mpd-lyricsd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "mpd_client") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "scraper") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("rt-multi-thread" "net" "macros" "fs"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "universal-config") (r "^0.1.0") (d #t) (k 0)))) (h "1r4synaby5h1vgk0ljpvhfvli8g1ym5xydhcn500fpky7s9i2nc3")))
+

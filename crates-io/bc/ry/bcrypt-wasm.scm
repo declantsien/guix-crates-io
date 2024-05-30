@@ -1,0 +1,10 @@
+(define-module (crates-io bc ry bcrypt-wasm) #:use-module (crates-io))
+
+(define-public crate-bcrypt-wasm-0.6.1 (c (n "bcrypt-wasm") (v "0.6.1") (d (list (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "blowfish") (r "^0.4") (f (quote ("bcrypt"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (f (quote ("wasm-bindgen"))) (d #t) (k 0)))) (h "0dngvr370gr9fp37kajz5fqi4wrn15pxa12gnr9f51aggw9d6dy8")))
+
+(define-public crate-bcrypt-wasm-0.6.2 (c (n "bcrypt-wasm") (v "0.6.2") (d (list (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "blowfish") (r "^0.4") (f (quote ("bcrypt"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "getrandom") (r "^0.1.14") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)))) (h "0gl4x9v6zf3kg52f4yhwf85zqxk7zdzabhj3pl68209fmdpzm7lh")))
+
+(define-public crate-bcrypt-wasm-0.6.3 (c (n "bcrypt-wasm") (v "0.6.3") (d (list (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "blowfish") (r "^0.4") (f (quote ("bcrypt"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "getrandom") (r "^0.1.14") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)))) (h "02ycmb17ik6rjrhqc4yq8n1qkyc9kl9cw2gh1d58109b1wra6j63")))
+
+(define-public crate-bcrypt-wasm-0.7.0 (c (n "bcrypt-wasm") (v "0.7.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "blowfish") (r "^0.4") (f (quote ("bcrypt"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "getrandom") (r "^0.1.14") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)))) (h "0jgr6md1mzskwg8pkhx6vch8psiar0y207in3670j537bvd2hv7i")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io cl ou cloudwatch-logs-upload) #:use-module (crates-io))
+
+(define-public crate-cloudwatch-logs-upload-0.5.0 (c (n "cloudwatch-logs-upload") (v "0.5.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.42") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_logs") (r "^0.42") (f (quote ("rustls"))) (k 0)) (d (n "simple_logger") (r "^1.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "106vr7xwncg3wzamxd6mxhn2n0yqw7mfsha057ci3xir69lihygs")))
+
+(define-public crate-cloudwatch-logs-upload-0.6.0 (c (n "cloudwatch-logs-upload") (v "0.6.0") (d (list (d (n "fehler") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.42") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_logs") (r "^0.42") (f (quote ("rustls"))) (k 0)) (d (n "simple_logger") (r "^1.11") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1gmwm1i7729qbsz7pb9z733f2qxdpgswbxl99z45cn5ifd623qqd")))
+
+(define-public crate-cloudwatch-logs-upload-0.6.1 (c (n "cloudwatch-logs-upload") (v "0.6.1") (d (list (d (n "fehler") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_logs") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "simple_logger") (r "^1.13.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0agjnrx02m7s9vrn0cr1s8d8ym9j1vd7zj7h52m6rwg1m1rikzyf")))
+
+(define-public crate-cloudwatch-logs-upload-0.6.2 (c (n "cloudwatch-logs-upload") (v "0.6.2") (d (list (d (n "fehler") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_logs") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "simple_logger") (r "^1.13.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "09zrf84jigkxc6ravvrdayhwf105m1bsv4jcvwzazyhyq0mw2r7h")))
+

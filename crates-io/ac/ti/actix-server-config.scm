@@ -1,0 +1,12 @@
+(define-module (crates-io ac ti actix-server-config) #:use-module (crates-io))
+
+(define-public crate-actix-server-config-0.1.0 (c (n "actix-server-config") (v "0.1.0") (d (list (d (n "futures") (r "^0.1.25") (d #t) (k 0)))) (h "1ij5ixi0yxyf4wqqrgx6wizclrkplzg7hmpcgzx4rc6j7kila5c7")))
+
+(define-public crate-actix-server-config-0.1.1 (c (n "actix-server-config") (v "0.1.1") (d (list (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "rustls") (r "^0.15.2") (o #t) (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-openssl") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.9.1") (o #t) (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1") (d #t) (k 0)))) (h "03qfqv0w0bas78dl7w14j29f3wc4kmb56ba8dd18pl0bgpq071z7") (f (quote (("ssl" "tokio-openssl") ("rust-tls" "rustls" "tokio-rustls") ("default"))))))
+
+(define-public crate-actix-server-config-0.1.2 (c (n "actix-server-config") (v "0.1.2") (d (list (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "rustls") (r "^0.15.2") (o #t) (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-openssl") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.9.1") (o #t) (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1") (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2.5") (o #t) (d #t) (k 0)))) (h "0c7zp4l63n5skljbpq6j0a0avdjv6w067bdc5ca96bb8kjc38fj8") (f (quote (("uds" "tokio-uds") ("ssl" "tokio-openssl") ("rust-tls" "rustls" "tokio-rustls") ("default"))))))
+
+(define-public crate-actix-server-config-0.2.0 (c (n "actix-server-config") (v "0.2.0") (d (list (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "rustls") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-openssl") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.10.0") (o #t) (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1") (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2.5") (o #t) (d #t) (k 0)))) (h "0g0fpw5wryzgbsd46y3zl0lwjwwy2qf1qvznvcaw72b0m1z0w7za") (f (quote (("uds" "tokio-uds") ("ssl" "tokio-openssl") ("rust-tls" "rustls" "tokio-rustls") ("default"))))))
+
+(define-public crate-actix-server-config-0.3.0-alpha.1 (c (n "actix-server-config") (v "0.3.0-alpha.1") (d (list (d (n "tokio-io") (r "= 0.2.0-alpha.6") (d #t) (k 0)) (d (n "tokio-net") (r "= 0.2.0-alpha.6") (f (quote ("tcp" "uds"))) (d #t) (k 0)) (d (n "tokio-openssl") (r "^0.4.0-alpha.6") (o #t) (d #t) (k 0)))) (h "07x8580y7d8hp3mi7vxyjw7b7h47267xgsqq2hjnaqa3rrx23gf0") (f (quote (("openssl" "tokio-openssl") ("default"))))))
+

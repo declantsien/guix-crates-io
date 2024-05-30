@@ -1,0 +1,4 @@
+(define-module (crates-io wa rp warpack-formats) #:use-module (crates-io))
+
+(define-public crate-warpack-formats-0.0.1 (c (n "warpack-formats") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.26") (d #t) (k 0)) (d (n "atoi") (r "^0.3.2") (d #t) (k 0)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byte-slice-cast") (r "^0.3.5") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "rlua") (r "^0.16.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "slotmap") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.11") (d #t) (k 0)))) (h "11x5a7r8wjdw28vc2zkynx6fdrr5bymv2y9hsb57k2biwx0n5awg")))
+

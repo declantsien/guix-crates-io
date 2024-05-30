@@ -1,0 +1,20 @@
+(define-module (crates-io un c- unc-sys) #:use-module (crates-io))
+
+(define-public crate-unc-sys-0.1.0 (c (n "unc-sys") (v "0.1.0") (h "0b0w92wyjpxiy63y98bmmaiyhjzha2m507fdr67lyzagni64yrli")))
+
+(define-public crate-unc-sys-0.7.3 (c (n "unc-sys") (v "0.7.3") (h "0fwf1rz5jv3d8bgs283nvvy2vhwf98i8487sr547444lam31z2lm")))
+
+(define-public crate-unc-sys-0.7.4 (c (n "unc-sys") (v "0.7.4") (h "1g2hpfrhdkdba1jk6n0szqlj5qwn93wkml83m8c55pac0sxz2wrp")))
+
+(define-public crate-unc-sys-0.7.5 (c (n "unc-sys") (v "0.7.5") (h "1ivlld4d0lph5ying1jgmbkb4vqk97k4pzy9av65cmf63zw46pnd")))
+
+(define-public crate-unc-sys-0.9.0 (c (n "unc-sys") (v "0.9.0") (h "0gbv0h5pb18iciw791rckvicpbdifz167cjg02bcmhyyv7y3qrgx")))
+
+(define-public crate-unc-sys-2.0.0 (c (n "unc-sys") (v "2.0.0") (h "0736h9yq7b9xj70srfb1khz4hhv25j5yniw9x508qppkfzl4v13y")))
+
+(define-public crate-unc-sys-2.0.1 (c (n "unc-sys") (v "2.0.1") (h "1776spmwdb4746p1sk3pzxa6bfs270657lz46yvp50ckrq8k487j")))
+
+(define-public crate-unc-sys-2.0.2 (c (n "unc-sys") (v "2.0.2") (h "0yvrpbqv5ilplgagvjnsbkallvkdy0kzlr562dwsg2yk59d63n5m")))
+
+(define-public crate-unc-sys-2.0.3 (c (n "unc-sys") (v "2.0.3") (h "1nv8a2avzm20ny01dmjcccn58jr2d9gvyggy7dcnvp780n8qb8bw")))
+

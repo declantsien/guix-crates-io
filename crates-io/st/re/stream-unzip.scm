@@ -1,0 +1,8 @@
+(define-module (crates-io st re stream-unzip) #:use-module (crates-io))
+
+(define-public crate-stream-unzip-0.1.0 (c (n "stream-unzip") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "inflate") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "ubio") (r "^0.1.0") (d #t) (k 2)) (d (n "zip") (r "^0.6.3") (d #t) (k 2)))) (h "1khjyk6i5qjcdj1m4y0ak21n79v6fhbb08fnh8x8cifksz9z5db6")))
+
+(define-public crate-stream-unzip-0.2.0 (c (n "stream-unzip") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "inflate") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "ubio") (r "^0.1.0") (d #t) (k 2)) (d (n "zip") (r "^0.6.3") (d #t) (k 2)))) (h "1pfmdrlylia82kyfpj7rc41ww96vnrmsrnm29r0zfhppp4w73gwj")))
+
+(define-public crate-stream-unzip-0.2.1 (c (n "stream-unzip") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "inflate") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "ubio") (r "^0.1.0") (d #t) (k 2)) (d (n "zip") (r "^0.6.3") (d #t) (k 2)))) (h "0kwl4y3dm69iakr0cgp8m3ij4y86vf2k21cqcadz2l76aw730vvv")))
+

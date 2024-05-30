@@ -1,0 +1,4 @@
+(define-module (crates-io my an myanimelist-rs) #:use-module (crates-io))
+
+(define-public crate-myanimelist-rs-0.1.0 (c (n "myanimelist-rs") (v "0.1.0") (d (list (d (n "httparse") (r "^1.3.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.56") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "time") (r "^0.2.16") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("shellapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "19ng8krhyk03i3n4yivvhi7lxampqkzrm24v7qh607gs3cq6ipk1")))
+

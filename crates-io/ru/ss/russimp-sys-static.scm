@@ -1,0 +1,6 @@
+(define-module (crates-io ru ss russimp-sys-static) #:use-module (crates-io))
+
+(define-public crate-russimp-sys-static-1.0.0 (c (n "russimp-sys-static") (v "1.0.0") (d (list (d (n "bindgen") (r "^0.59") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.13") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)))) (h "0l4srwpqjdds2f4fsdcbpqn6yn3x5885ddf25ls6h6sxibpzl362") (f (quote (("static-link") ("prebuilt" "static-link") ("nozlib") ("nolibcxx") ("default" "prebuilt"))))))
+
+(define-public crate-russimp-sys-static-1.0.1 (c (n "russimp-sys-static") (v "1.0.1") (d (list (d (n "bindgen") (r "^0.59") (d #t) (k 1)) (d (n "flate2") (r "^1.0") (d #t) (k 1)) (d (n "num_cpus") (r "^1.13") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^2.4") (d #t) (k 1)))) (h "0v2z8awsqjfzmlz7p67spki831bp9h87c6rn33qfj12wd04gxq67") (f (quote (("static-link") ("prebuilt" "static-link") ("nozlib") ("nolibcxx") ("default" "prebuilt"))))))
+

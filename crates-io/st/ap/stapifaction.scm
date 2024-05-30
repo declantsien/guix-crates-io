@@ -1,0 +1,6 @@
+(define-module (crates-io st ap stapifaction) #:use-module (crates-io))
+
+(define-public crate-stapifaction-0.0.1 (c (n "stapifaction") (v "0.0.1") (d (list (d (n "erased-serde") (r "^0.4") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "stapifaction_derive") (r "^0.0.1") (o #t) (d #t) (k 0)))) (h "01xnxj7yyps48zksf3ql4ajqxfjkr6jslp37zym2q71vb8855fcq") (f (quote (("json" "serde_json") ("derive" "stapifaction_derive") ("default" "derive"))))))
+
+(define-public crate-stapifaction-0.0.2 (c (n "stapifaction") (v "0.0.2") (d (list (d (n "erased-serde") (r "^0.4") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "stapifaction_derive") (r "^0.0.2") (o #t) (d #t) (k 0)))) (h "0zs2zxz5hjngwp32lpjgml9qyxr4gzh2z9ayvsrzrp7jfh1q3rzp") (f (quote (("default" "derive")))) (s 2) (e (quote (("json" "dep:serde_json") ("derive" "dep:stapifaction_derive"))))))
+

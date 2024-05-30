@@ -1,0 +1,10 @@
+(define-module (crates-io ka os kaos) #:use-module (crates-io))
+
+(define-public crate-kaos-0.0.0 (c (n "kaos") (v "0.0.0") (h "1k4dn2gs4yimgcq5lp9k3x0g9abmmw4y2ih4f3hdin502xs2bb9j")))
+
+(define-public crate-kaos-0.1.0 (c (n "kaos") (v "0.1.0") (d (list (d (n "dissimilar") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "fail") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "humantime") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "proptest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.2") (d #t) (k 0)))) (h "0fxfnqc1g3pqvqz68dbzifcah5zkh2v02jk3m2rwqmvvfzqkyjvl") (f (quote (("diff" "dissimilar"))))))
+
+(define-public crate-kaos-0.1.1-alpha.1 (c (n "kaos") (v "0.1.1-alpha.1") (d (list (d (n "dissimilar") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "fail") (r "^0.3") (f (quote ("failpoints"))) (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "humantime") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "proptest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.2") (d #t) (k 0)))) (h "1k8abgylb31sjn86i1ck3aqhvkig6rr2p9jc7lyyxb9w5kqbn4rz") (f (quote (("diff" "dissimilar"))))))
+
+(define-public crate-kaos-0.1.1-alpha.2 (c (n "kaos") (v "0.1.1-alpha.2") (d (list (d (n "dissimilar") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "fail") (r "^0.3") (f (quote ("failpoints"))) (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "humantime") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "proptest") (r "^0.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.2") (d #t) (k 0)))) (h "196blyrzb0bhbcp57v81w2nxgkfhiskfygp63032mr01254cx56k") (f (quote (("diff" "dissimilar"))))))
+

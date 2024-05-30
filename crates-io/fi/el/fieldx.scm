@@ -1,0 +1,4 @@
+(define-module (crates-io fi el fieldx) #:use-module (crates-io))
+
+(define-public crate-fieldx-0.1.0 (c (n "fieldx") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "fieldx_derive") (r "^0.1.0") (f (quote ("tracing"))) (d #t) (k 0)) (d (n "getset") (r "^0.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "=1.0.117") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0qyl8k7z3h1w6chwixr002m8412pdbpx4743lr1r8ammjq3chrvq") (f (quote (("diagnostics" "fieldx_derive/diagnostics")))) (s 2) (e (quote (("serde" "fieldx_derive/serde" "parking_lot/serde" "dep:serde"))))))
+

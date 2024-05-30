@@ -1,0 +1,4 @@
+(define-module (crates-io sa lv salvo-captcha) #:use-module (crates-io))
+
+(define-public crate-salvo-captcha-0.1.0 (c (n "salvo-captcha") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "base64") (r ">=0.21") (d #t) (k 2)) (d (n "cacache") (r "^12.0.0") (f (quote ("tokio-runtime" "mmap"))) (o #t) (k 0)) (d (n "captcha") (r "^0.0.9") (k 0)) (d (n "easy-ext") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "salvo") (r ">=0.65") (f (quote ("affix"))) (d #t) (k 2)) (d (n "salvo_core") (r "^0.65") (d #t) (k 0)) (d (n "tempfile") (r ">=3.9") (d #t) (k 2)) (d (n "tokio") (r ">=1.35") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "0lxy2ibjkmz3402y1q9h2wslq9xnpr17lbaipcqg5li5l8d2dj87") (s 2) (e (quote (("cacache-storage" "dep:cacache" "dep:uuid")))) (r "1.75.0")))
+

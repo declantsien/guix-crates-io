@@ -1,0 +1,8 @@
+(define-module (crates-io sh in shinydir) #:use-module (crates-io))
+
+(define-public crate-shinydir-0.1.0 (c (n "shinydir") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shellexpand") (r "^2.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "xdg") (r "^2.4") (d #t) (k 0)))) (h "0mkpb4mzrrv4sgq5k568lf1vqd6z8s673whka9a81sq247dhg145") (y #t)))
+
+(define-public crate-shinydir-0.1.1 (c (n "shinydir") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shellexpand") (r "^2.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "xdg") (r "^2.4") (d #t) (k 0)))) (h "1pclp76vcalpvzbqc7wpv8rb1qzd1jq12fdhdckr88m15pngrbkx")))
+
+(define-public crate-shinydir-0.1.2 (c (n "shinydir") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "directories") (r "^4.0") (d #t) (k 0)) (d (n "regex") (r "^1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shellexpand") (r "^2.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1jyvppi4pnx80vycpg1q88f7i3yg4gc2sq0h6dl85gnfv7lpyfyh")))
+

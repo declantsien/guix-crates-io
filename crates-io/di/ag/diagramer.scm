@@ -1,0 +1,4 @@
+(define-module (crates-io di ag diagramer) #:use-module (crates-io))
+
+(define-public crate-diagramer-0.1.0 (c (n "diagramer") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.14") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (f (quote ("http2" "json" "serde_json" "uuid"))) (d #t) (k 0)) (d (n "rocket-include-tera") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "svg") (r "^0.13.0") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("macros"))) (d #t) (k 0)))) (h "0j8p9x553f30s73dpf3349y1k7dcs76ppynr5c4ziwlmy3zh1v2x") (f (quote (("svg" "render") ("server" "api") ("render") ("mermaid" "render") ("frontend" "server") ("default" "api" "frontend" "mermaid" "svg") ("client" "api") ("api"))))))
+

@@ -1,0 +1,24 @@
+(define-module (crates-io wg sl wgsl-minifier) #:use-module (crates-io))
+
+(define-public crate-wgsl-minifier-0.1.0 (c (n "wgsl-minifier") (v "0.1.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.13") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)))) (h "145rl3d3a0wbsijffihbg49y5lqk545kww6c9wn2l5x93xkjhf84")))
+
+(define-public crate-wgsl-minifier-0.1.1 (c (n "wgsl-minifier") (v "0.1.1") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.13") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)))) (h "0bfpj9m5m6cf06f1knkmhv7x64mv463rvy6szrlnbcfnd844ybfy")))
+
+(define-public crate-wgsl-minifier-0.1.2 (c (n "wgsl-minifier") (v "0.1.2") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.13") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)))) (h "122kapqizwqyv0in23pysyv45aialahjwr13w8g81lls7n8d6pi0")))
+
+(define-public crate-wgsl-minifier-0.1.4 (c (n "wgsl-minifier") (v "0.1.4") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.13") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "0w3ayp897s4p8djc8xcmymm7zz03r0immrj1km16mnrgp5qk3fzn")))
+
+(define-public crate-wgsl-minifier-0.1.5 (c (n "wgsl-minifier") (v "0.1.5") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.14") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "1v64djis24nr3zk5zd7wa8pkk31zvvp08aasjjvznlhq3rydhqmj") (y #t)))
+
+(define-public crate-wgsl-minifier-0.2.0 (c (n "wgsl-minifier") (v "0.2.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.14") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "0ppjqyif2y0x5wfvkmq2sy43wdy140ar4svfwf0qnflzrgykpq6z")))
+
+(define-public crate-wgsl-minifier-0.3.0 (c (n "wgsl-minifier") (v "0.3.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "naga") (r "^0.14") (f (quote ("clone" "wgsl-in" "wgsl-out" "spv-in" "spv-out"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "spirv-tools") (r "^0.9") (f (quote ("use-compiled-tools"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "03n6nlvnd0kllzly6ry0i8720a3714w9imq24gcic4v5wcvlr4yr") (y #t)))
+
+(define-public crate-wgsl-minifier-0.3.1 (c (n "wgsl-minifier") (v "0.3.1") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "naga") (r "^0.14") (f (quote ("clone" "wgsl-in" "wgsl-out" "spv-in" "spv-out"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "spirv-tools") (r "^0.9") (f (quote ("use-compiled-tools"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "01gzgqzrl3hbxiy4j4qlpds07cibabx4743r699l27f24j54aijv") (y #t)))
+
+(define-public crate-wgsl-minifier-0.3.2 (c (n "wgsl-minifier") (v "0.3.2") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.14") (f (quote ("clone" "wgsl-in" "wgsl-out" "spv-in" "spv-out"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "1khwi6vq36gg8rhw02mf493d02b8d0d8pb9h868fhm514crmf9hd")))
+
+(define-public crate-wgsl-minifier-0.4.0 (c (n "wgsl-minifier") (v "0.4.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.19") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "142c617yyillnklm088z8h04pb18x1ydf0fvdjbcp7w7y2hwcawy")))
+
+(define-public crate-wgsl-minifier-0.4.1 (c (n "wgsl-minifier") (v "0.4.1") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "naga") (r "^0.19") (f (quote ("clone" "wgsl-in" "wgsl-out"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "10sbadmwsbky3sscq8ypsvzccs1m8kzk9bkznnxnifaf3spwx021")))
+

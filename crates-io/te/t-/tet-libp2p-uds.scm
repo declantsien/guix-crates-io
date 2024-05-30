@@ -1,0 +1,4 @@
+(define-module (crates-io te t- tet-libp2p-uds) #:use-module (crates-io))
+
+(define-public crate-tet-libp2p-uds-0.27.0 (c (n "tet-libp2p-uds") (v "0.27.0") (d (list (d (n "async-std") (r "^1.6.2") (o #t) (d #t) (t "cfg(all(unix, not(target_os = \"emscripten\")))") (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (t "cfg(all(unix, not(target_os = \"emscripten\")))") (k 0)) (d (n "log") (r "^0.4.1") (d #t) (t "cfg(all(unix, not(target_os = \"emscripten\")))") (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (t "cfg(all(unix, not(target_os = \"emscripten\")))") (k 2)) (d (n "tet-libp2p-core") (r "^0.27.0") (d #t) (t "cfg(all(unix, not(target_os = \"emscripten\")))") (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("net"))) (o #t) (t "cfg(all(unix, not(target_os = \"emscripten\")))") (k 0)))) (h "162236vw6fch77gx88m3cnq5776r7n1xrpjq6law9fsj3xlpfki3") (f (quote (("default" "async-std"))))))
+

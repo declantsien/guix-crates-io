@@ -1,0 +1,4 @@
+(define-module (crates-io co as coasys_juniper_hyper) #:use-module (crates-io))
+
+(define-public crate-coasys_juniper_hyper-0.9.0 (c (n "coasys_juniper_hyper") (v "0.9.0") (d (list (d (n "coasys_juniper") (r "^0.16.0") (k 0)) (d (n "coasys_juniper") (r "^0.16.0") (f (quote ("expose-test-schema"))) (d #t) (k 2)) (d (n "futures") (r "^0.3.22") (d #t) (k 0)) (d (n "http-body") (r "^0.4.5") (d #t) (k 0)) (d (n "hyper") (r "^0.14.7") (f (quote ("server" "runtime"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 2)) (d (n "serde_json") (r "^1.0.18") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "url") (r "^2.0") (d #t) (k 0)))) (h "0vi9c1yhfv5n6q8llj5kjypz5w85d29h9wjrym0ls15ahbzy50m2") (r "1.65")))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io vl si vlsir) #:use-module (crates-io))
+
+(define-public crate-vlsir-0.1.1 (c (n "vlsir") (v "0.1.1") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "004hk7cjqv3gpj5vizk8z2v4hbzhwsf7j9il61fql3mhvvmh4yy5")))
+
+(define-public crate-vlsir-0.2.0-rc.1 (c (n "vlsir") (v "0.2.0-rc.1") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "09wzbx3hryi4wi4ldfmf7kp7ym9n3njmhiyzvvcwqk4h87dvqlpl")))
+
+(define-public crate-vlsir-0.2.0 (c (n "vlsir") (v "0.2.0") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "0bh6szkhy4vikdjv1130mywr5s71jmbzz18zlxdphm3kfkg4yzcq")))
+
+(define-public crate-vlsir-0.2.1 (c (n "vlsir") (v "0.2.1") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "1jnhsb0aqajjq8k1vdbcd0hb2z0yknzwnssyikwdv1b8wnim96rn")))
+
+(define-public crate-vlsir-1.0.0 (c (n "vlsir") (v "1.0.0") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "1hx7c7hxfgihhb5h9661jjhzrvhn5f8l1gzh534alkysrn7bncvl")))
+
+(define-public crate-vlsir-2.0.0 (c (n "vlsir") (v "2.0.0") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "0vkca3vw6l77n30im7q4x1mpj9p4svzwzsbr2kqj673dxvl9zz91")))
+
+(define-public crate-vlsir-3.0.0-pre.2 (c (n "vlsir") (v "3.0.0-pre.2") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "0pfc2swm4j6ld0yb48k7rsmhwdik0dy2wgm3fl3h0xfkr193i2kd")))
+
+(define-public crate-vlsir-3.0.0-pre.3 (c (n "vlsir") (v "3.0.0-pre.3") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "0jlwnpj05y65qfwzl515i9w0xc7cz8y87h0z23jz7aw4kin7zri7")))
+
+(define-public crate-vlsir-3.0.0 (c (n "vlsir") (v "3.0.0") (d (list (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.6.1") (d #t) (k 1)) (d (n "prost-types") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "0q9vp40sq98z23d55vk4vfgaspwnjbdvii476n4ffk01v6170dzp")))
+
+(define-public crate-vlsir-4.0.0 (c (n "vlsir") (v "4.0.0") (d (list (d (n "prost") (r "^0.11.8") (d #t) (k 0)) (d (n "prost-build") (r "^0.11.8") (d #t) (k 1)) (d (n "prost-types") (r "^0.11.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 1)))) (h "120z5zdknz4pgdaw3dycckdbfq3bfa8p7vyg7d02iisr6xk4c9nc")))
+

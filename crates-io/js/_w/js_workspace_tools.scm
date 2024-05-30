@@ -1,0 +1,4 @@
+(define-module (crates-io js _w js_workspace_tools) #:use-module (crates-io))
+
+(define-public crate-js_workspace_tools-0.0.1 (c (n "js_workspace_tools") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lets_find_up") (r "^0.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "path") (r "^0.0.8") (d #t) (k 0) (p "nodejs_path")) (d (n "petgraph") (r "^0.6.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)) (d (n "wax") (r "^0.3.0") (d #t) (k 0)))) (h "09xlrrvpfq77p3ab9zr9wri5v95hcsjawsvv6zf1jigswvb0ghmi") (y #t)))
+

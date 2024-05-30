@@ -1,0 +1,4 @@
+(define-module (crates-io ri nc rincon_session) #:use-module (crates-io))
+
+(define-public crate-rincon_session-0.1.0 (c (n "rincon_session") (v "0.1.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "galvanic-assert") (r "^0.8") (d #t) (k 2)) (d (n "rincon_client") (r "^0.1") (d #t) (k 0)) (d (n "rincon_connector") (r "^0.1") (d #t) (k 2)) (d (n "rincon_core") (r "^0.1") (d #t) (k 0)) (d (n "rincon_test_helper") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1ci6n6496c4ahj5bbmwm2774gki0mk8dpqvhhd1i8c5phr4qp3i6") (f (quote (("rocksdb" "rincon_client/rocksdb") ("mmfiles" "rincon_client/mmfiles") ("enterprise" "rincon_client/enterprise") ("default") ("cluster" "rincon_client/cluster"))))))
+

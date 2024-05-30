@@ -1,0 +1,8 @@
+(define-module (crates-io bu tt butter2d) #:use-module (crates-io))
+
+(define-public crate-butter2d-0.1.0 (c (n "butter2d") (v "0.1.0") (d (list (d (n "fft2d") (r "^0.1.1") (f (quote ("nalgebra"))) (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-npy") (r "^0.8.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.4") (d #t) (k 0)) (d (n "rustfft") (r "^6.1.0") (d #t) (k 0)))) (h "1mm1nasiv5gxriqy15sryrpvmlgfjwzrgjsp4rsvz7902sv2i98f") (r "1.75.0")))
+
+(define-public crate-butter2d-0.1.1 (c (n "butter2d") (v "0.1.1") (d (list (d (n "fft2d") (r "^0.1.1") (f (quote ("nalgebra"))) (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-npy") (r "^0.8.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.4") (d #t) (k 0)) (d (n "rustfft") (r "^6.1.0") (d #t) (k 0)))) (h "1cdmcy32983kmkkbgsp5bpznhhh0kdwzvarsgh2qfdr037rxfn46") (r "1.75.0")))
+
+(define-public crate-butter2d-0.1.2 (c (n "butter2d") (v "0.1.2") (d (list (d (n "fft2d") (r "^0.1.1") (f (quote ("nalgebra"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-npy") (r "^0.8.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.4") (d #t) (k 0)) (d (n "rustfft") (r "^6.1.0") (d #t) (k 0)))) (h "0646ksmi801g19zk1c82dq2bms6h2r2zlqaxkkiayrdvkcq5lclf") (r "1.77.2")))
+

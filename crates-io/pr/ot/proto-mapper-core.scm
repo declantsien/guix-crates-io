@@ -1,0 +1,8 @@
+(define-module (crates-io pr ot proto-mapper-core) #:use-module (crates-io))
+
+(define-public crate-proto-mapper-core-0.1.0 (c (n "proto-mapper-core") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "1hcn43i64d1n1rsifra04br6kj6wdvq4dd28fbwh72610xb3zd42") (f (quote (("protobuf") ("prost"))))))
+
+(define-public crate-proto-mapper-core-0.1.1 (c (n "proto-mapper-core") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "0bgnj7dncjlr2jb86x6c8zg9df4mkj3q9czg90zma7iy3wv3370s") (f (quote (("protobuf") ("prost"))))))
+
+(define-public crate-proto-mapper-core-0.1.2 (c (n "proto-mapper-core") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "colored-diff") (r "^0.2.3") (d #t) (k 2)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "0nqmk59lky4np9q95q2w0v8yl1vcwnhhm9i0xr0mby9w7fs41gjc") (f (quote (("protobuf") ("prost"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io su rq surql-definition-macros) #:use-module (crates-io))
+
+(define-public crate-surql-definition-macros-0.1.0 (c (n "surql-definition-macros") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "1qyjbm9b0fw8lh8n7mn6sayw9frr6flcqkwdyjqkc4wm1598cafg") (f (quote (("default"))))))
+
+(define-public crate-surql-definition-macros-0.2.0 (c (n "surql-definition-macros") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "surql-definition-core") (r "^0.2.0") (d #t) (k 0)) (d (n "surrealdb-core") (r "^1.4.2") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0h3ibv27v1n54hdicmybzv2v1blykmsnvbc06pfai2qn6c7fdhkk") (f (quote (("default")))) (s 2) (e (quote (("runtime_query_validation" "dep:surrealdb-core") ("compile_query_validation" "dep:surrealdb-core"))))))
+
+(define-public crate-surql-definition-macros-0.2.1 (c (n "surql-definition-macros") (v "0.2.1") (d (list (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "surql-definition-core") (r "^0.2.1") (d #t) (k 0)) (d (n "surrealdb-core") (r "^1.4.2") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0m462fgbk91fkpabjw68mxqyqd9jxdvdsapxp3qshr5kr8yhc79m") (f (quote (("default")))) (s 2) (e (quote (("runtime_query_validation" "dep:surrealdb-core") ("compile_query_validation" "dep:surrealdb-core"))))))
+

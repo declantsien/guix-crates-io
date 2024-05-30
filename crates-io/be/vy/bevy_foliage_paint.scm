@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_foliage_paint) #:use-module (crates-io))
+
+(define-public crate-bevy_foliage_paint-0.13.6 (c (n "bevy_foliage_paint") (v "0.13.6") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bevy") (r "^0.13.1") (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24.0") (d #t) (k 0)) (d (n "bevy_mod_sysfail") (r "^6.0.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "png") (r "^0.17.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)) (d (n "warbler_grass") (r "^0.6.0") (d #t) (k 0)))) (h "1j3vwqvmymiglw8npn7l4c6h91h909acy0mhnc0f12kas3q8vdnd")))
+

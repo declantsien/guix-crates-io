@@ -1,0 +1,8 @@
+(define-module (crates-io op en opencl-api) #:use-module (crates-io))
+
+(define-public crate-opencl-api-0.1.0 (c (n "opencl-api") (v "0.1.0") (d (list (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "opencl-heads") (r "^0.2.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03jr45cy6bqw5430jfnxjhw7picblsjc33rrxf0x4yb81hb069ws") (f (quote (("depr_2_0") ("depr_1_1") ("depr_1_0") ("default" "cl_2_1" "cl_2_0" "base") ("cl_3_0") ("cl_2_2") ("cl_2_1") ("cl_2_0") ("cl_1_2") ("base" "cl_1_2") ("all" "cl_1_2" "cl_2_0" "cl_2_1" "cl_2_2" "cl_3_0"))))))
+
+(define-public crate-opencl-api-0.1.1 (c (n "opencl-api") (v "0.1.1") (d (list (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "opencl-heads") (r "^0.2.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1qpiz4q1ils6wfv7d3kj2gyj3g75r3pfxy0yfd2h831ls6wx5av3") (f (quote (("depr_2_0") ("depr_1_1") ("depr_1_0") ("default" "cl_2_1" "cl_2_0" "base") ("cl_3_0") ("cl_2_2") ("cl_2_1") ("cl_2_0") ("cl_1_2") ("base" "cl_1_2") ("all" "cl_1_2" "cl_2_0" "cl_2_1" "cl_2_2" "cl_3_0"))))))
+
+(define-public crate-opencl-api-0.1.2 (c (n "opencl-api") (v "0.1.2") (d (list (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "opencl-heads") (r "^0.2.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1xhzsfiqsi9bcs0q3zh90p7qfx5vpa5kkc33qcs22kw6drw7rn7a") (f (quote (("depr_2_0") ("depr_1_1") ("depr_1_0") ("default" "cl_2_1" "cl_2_0" "base") ("cl_3_0") ("cl_2_2") ("cl_2_1") ("cl_2_0") ("cl_1_2") ("base" "cl_1_2") ("all" "cl_1_2" "cl_2_0" "cl_2_1" "cl_2_2" "cl_3_0"))))))
+

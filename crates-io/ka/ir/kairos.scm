@@ -1,0 +1,18 @@
+(define-module (crates-io ka ir kairos) #:use-module (crates-io))
+
+(define-public crate-kairos-0.0.0 (c (n "kairos") (v "0.0.0") (h "1xbh0l9j3cmncc5wjqz8z0nqhzwbj8k0s24zqb4rn2xrnjp2rlyj")))
+
+(define-public crate-kairos-0.1.0-beta-1 (c (n "kairos") (v "0.1.0-beta-1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.10") (d #t) (k 0)) (d (n "filters") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "06hc48h9nk22k3facwhqsc25vbahacgakyw3hrpw2c87c1nr8pqi") (f (quote (("with-filters" "filters") ("default"))))))
+
+(define-public crate-kairos-0.1.0-beta-2 (c (n "kairos") (v "0.1.0-beta-2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "0xw4h6p3ksc2rdahxn4f7v7r7agzw9a53dr18l1g8vaaypxwsm5y") (f (quote (("with-filters" "filters") ("default"))))))
+
+(define-public crate-kairos-0.1.0 (c (n "kairos") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "0sxsqvm8x71frbqf40lbph8rxc59mqvz0kp1ff9p2n9gb61hrcjf") (f (quote (("with-filters" "filters") ("default"))))))
+
+(define-public crate-kairos-0.1.1 (c (n "kairos") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "0z6b5609m6r9dqmiipgwa1lv7hsjp9vbp16p5sawa1j84b28qjzj") (f (quote (("with-filters" "filters") ("default"))))))
+
+(define-public crate-kairos-0.2.0 (c (n "kairos") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "00pdi68ihncb6sad3xmzqq5gr93g6q0698lbw90frr6h6ljws6dl") (f (quote (("with-filters" "filters") ("default"))))))
+
+(define-public crate-kairos-0.3.0 (c (n "kairos") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "filters") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "1xh6spg8ydwqqjpig79rlbxrhasqrlg5bb2cwa2h4kcpas4iamcw") (f (quote (("with-filters" "filters") ("default"))))))
+
+(define-public crate-kairos-0.4.0 (c (n "kairos") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "filters") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "iso8601") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "13rg9nqas3gq6a0ld2ys1dkr4p159sqaz6m59i7hpgnwfjcn0q45") (f (quote (("with-filters" "filters") ("default"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ra te rates) #:use-module (crates-io))
+
+(define-public crate-rates-0.1.0 (c (n "rates") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1yz79kxn7q7q0chvy4wjybv510lx1gg656xdy1srh8fjpxcm7a6b")))
+
+(define-public crate-rates-0.2.0 (c (n "rates") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0wa7n0jdxy0lqr147yjmpinfia5m2pc718iq35n8pj6d8fifc089")))
+
+(define-public crate-rates-0.3.0 (c (n "rates") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "08rs2qlpfsvhc1xw7d5czhjxkgwdig803wh1gzfvbz1qv4krfbr1")))
+
+(define-public crate-rates-0.4.0 (c (n "rates") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "quickxml_to_serde") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1l8x9p0j37aajr1yaf9p3ljhl82njzzmwk47nvazb0xd4lzlpgqs")))
+
+(define-public crate-rates-0.5.0 (c (n "rates") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "quickxml_to_serde") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0xh3hl90v59caffgr73ar2p0gzvh6xgf5s81hd8ji8g4vb9jjiqr")))
+
+(define-public crate-rates-0.6.0 (c (n "rates") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "quickxml_to_serde") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1108w9kykxp2hqxxlb0f5vfb8pwvi6ln4cmm4ngfwfxhay94nc51")))
+
+(define-public crate-rates-0.7.0 (c (n "rates") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0") (d #t) (k 0)) (d (n "quickxml_to_serde") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1y06calsvjic6vnj88l4501m3688yfkfbca8ix2ms0qvqx716f50")))
+

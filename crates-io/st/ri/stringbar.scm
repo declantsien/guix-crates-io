@@ -1,0 +1,8 @@
+(define-module (crates-io st ri stringbar) #:use-module (crates-io))
+
+(define-public crate-stringbar-0.1.0 (c (n "stringbar") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysinfo") (r "^0.30.11") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "09is325sv5z135razqnd2svbq0g8xx7kw34fa4qdyw0f51m2s1fh")))
+
+(define-public crate-stringbar-0.1.0-1 (c (n "stringbar") (v "0.1.0-1") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysinfo") (r "^0.30.11") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "022m2icb4yzf2w31wr3jj5f7963kb7d3hdcqlqfbilpsbrpxmrs0")))
+
+(define-public crate-stringbar-0.2.0 (c (n "stringbar") (v "0.2.0") (d (list (d (n "bittenhumans") (r "^0.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sysinfo") (r "^0.30.11") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1yg9lqj37hcrpca4l5hmhxhnvjmj9wwgr5x92mw6xc9lclkra3bs")))
+

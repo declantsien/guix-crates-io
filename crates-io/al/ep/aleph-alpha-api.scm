@@ -1,0 +1,4 @@
+(define-module (crates-io al ep aleph-alpha-api) #:use-module (crates-io))
+
+(define-public crate-aleph-alpha-api-0.1.0 (c (n "aleph-alpha-api") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 2)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokenizers") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt" "macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1ncrkd91brbwvwwzvzp66sqfb3v4my704bp7j15aazkqqqgprykh")))
+

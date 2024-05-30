@@ -1,0 +1,6 @@
+(define-module (crates-io co nv conventional-commits-changelog-generator) #:use-module (crates-io))
+
+(define-public crate-conventional-commits-changelog-generator-0.0.0 (c (n "conventional-commits-changelog-generator") (v "0.0.0") (h "0hx7fl78a6masgpbsx7s8siqkk43f0rlar279x6pbg0rbxglngmd")))
+
+(define-public crate-conventional-commits-changelog-generator-0.1.0 (c (n "conventional-commits-changelog-generator") (v "0.1.0") (d (list (d (n "cargo_toml") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "conventional-commits-next-semver") (r "^0.1.1") (d #t) (k 0)) (d (n "conventional-commits-parser") (r "^0.1.1") (d #t) (k 0)) (d (n "git2") (r "^0.13.8") (d #t) (k 0)) (d (n "indoc") (r "^1.0.2") (o #t) (d #t) (k 0)) (d (n "inventory") (r "^0.1.7") (d #t) (k 0)) (d (n "markdown-composer") (r "^0.1.0") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.4") (o #t) (k 0)) (d (n "semver") (r "^0.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0rgh1r4aa0xyncc6q66in30ng6l0kja0in33yz2d1jarih2n9wxx") (f (quote (("extractors" "extractor-cargo" "extractor-git") ("extractor-git") ("extractor-cargo" "cargo_toml") ("default" "extractors") ("cli" "indoc" "pico-args"))))))
+

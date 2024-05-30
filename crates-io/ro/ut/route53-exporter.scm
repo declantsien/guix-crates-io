@@ -1,0 +1,6 @@
+(define-module (crates-io ro ut route53-exporter) #:use-module (crates-io))
+
+(define-public crate-route53-exporter-0.1.0 (c (n "route53-exporter") (v "0.1.0") (d (list (d (n "aws-config") (r "^1.1.5") (d #t) (k 0)) (d (n "aws-sdk-route53") (r "^1.14.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "10l6c96q7ljlpimj781czs4rmjiap7mm9zpn78gvc3zg2nll5dsl")))
+
+(define-public crate-route53-exporter-0.1.1 (c (n "route53-exporter") (v "0.1.1") (d (list (d (n "aws-config") (r "^1.1.5") (d #t) (k 0)) (d (n "aws-sdk-route53") (r "^1.14.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1c1girpvsycm2y980i4x7s9cljzs7zajncrg3n2il52y4pj7zps1")))
+

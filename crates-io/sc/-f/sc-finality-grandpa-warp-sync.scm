@@ -1,0 +1,4 @@
+(define-module (crates-io sc -f sc-finality-grandpa-warp-sync) #:use-module (crates-io))
+
+(define-public crate-sc-finality-grandpa-warp-sync-0.9.0 (c (n "sc-finality-grandpa-warp-sync") (v "0.9.0") (d (list (d (n "codec") (r "^2.0.0") (d #t) (k 0) (p "parity-scale-codec")) (d (n "derive_more") (r "^0.99.11") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "sc-client-api") (r "^3.0.0") (d #t) (k 0)) (d (n "sc-finality-grandpa") (r "^0.9.0") (d #t) (k 0)) (d (n "sc-network") (r "^0.9.0") (d #t) (k 0)) (d (n "sc-service") (r "^0.9.0") (d #t) (k 0)) (d (n "sp-blockchain") (r "^3.0.0") (d #t) (k 0)) (d (n "sp-runtime") (r "^3.0.0") (d #t) (k 0)))) (h "03c2rxmdr2lwx2bj3fgknb0n190y90v01a38bv66gafbmggi3c45")))
+

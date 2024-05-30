@@ -1,0 +1,6 @@
+(define-module (crates-io do -n do-not-use-testing-rclrs) #:use-module (crates-io))
+
+(define-public crate-do-not-use-testing-rclrs-0.4.0 (c (n "do-not-use-testing-rclrs") (v "0.4.0") (d (list (d (n "ament_rs") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rosidl_runtime_rs") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "0l5d4xxdfxjina55jnw9k8yy3nzq61ff0qy8hk34d3iws4m2xkc4") (f (quote (("generate_docs") ("dyn_msg" "ament_rs" "libloading")))) (r "1.63")))
+
+(define-public crate-do-not-use-testing-rclrs-0.4.1 (c (n "do-not-use-testing-rclrs") (v "0.4.1") (d (list (d (n "ament_rs") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rosidl_runtime_rs") (r "^0.4") (d #t) (k 0) (p "do-not-use-testing-rosidl_runtime_rs")) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "00l8lw8s0q7ikykjwmjgijsvyb9j6fz8jb8ndg8qcqb3jn1d1c20") (f (quote (("generate_docs" "rosidl_runtime_rs/generate_docs") ("dyn_msg" "ament_rs" "libloading")))) (r "1.63")))
+

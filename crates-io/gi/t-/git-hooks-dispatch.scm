@@ -1,0 +1,14 @@
+(define-module (crates-io gi t- git-hooks-dispatch) #:use-module (crates-io))
+
+(define-public crate-git-hooks-dispatch-0.1.0 (c (n "git-hooks-dispatch") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "103aaqjn3qxsx9pb4cdi7hn8p091a0g7361xw8cc5yi48i080c1r")))
+
+(define-public crate-git-hooks-dispatch-0.2.0 (c (n "git-hooks-dispatch") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "0dv3rj8fb1npgx1y3k89z47f0i6xz1bjg347yz6g502qqmsncvk7")))
+
+(define-public crate-git-hooks-dispatch-0.3.0 (c (n "git-hooks-dispatch") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "1rjq5z2isxp5pr7aajkrz3wblbl0sqq19a8yl7g6cqp0kl20yg39")))
+
+(define-public crate-git-hooks-dispatch-0.4.0 (c (n "git-hooks-dispatch") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "05za3zcfiap5k96jf9y3s65gmp8b1d324wm3ivzzlxrhzps70qb0")))
+
+(define-public crate-git-hooks-dispatch-0.4.1 (c (n "git-hooks-dispatch") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "0x4fkyagdkd16br6nazvpnhdiniyqi2fwq3nfix0x7yl6hr3mgxj")))
+
+(define-public crate-git-hooks-dispatch-0.4.2 (c (n "git-hooks-dispatch") (v "0.4.2") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.10.2") (d #t) (k 2)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "03n56m2svnabd9ar2gdbsdbavq9h9dy4h4irh9ad0m1k3b9ss5hw")))
+

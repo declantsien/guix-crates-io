@@ -1,0 +1,4 @@
+(define-module (crates-io ra id raiden-api) #:use-module (crates-io))
+
+(define-public crate-raiden-api-0.1.0 (c (n "raiden-api") (v "0.1.0") (d (list (d (n "parking_lot") (r "^0.11.2") (k 0)) (d (n "raiden-blockchain") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-network-messages") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-pathfinding") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-primitives") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-state-machine") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-transition") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (k 0)) (d (n "thiserror") (r "^1.0") (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "time"))) (k 0)) (d (n "tracing") (r "^0.1.37") (k 0)) (d (n "web3") (r "^0.18.0") (f (quote ("http" "signing"))) (k 0)))) (h "0dg3fcj4j2jc7pdl4qyw4nfqgjmqfrd08fzmpl9i591nvd369j8j") (r "1.59")))
+

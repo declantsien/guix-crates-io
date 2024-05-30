@@ -1,0 +1,6 @@
+(define-module (crates-io su sy susy-jsonrpc-stdio-server) #:use-module (crates-io))
+
+(define-public crate-susy-jsonrpc-stdio-server-10.1.0 (c (n "susy-jsonrpc-stdio-server") (v "10.1.0") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "susy-jsonrpc-core") (r "^10.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.7") (d #t) (k 0)) (d (n "tokio-stdin-stdout") (r "^0.1.4") (d #t) (k 0)))) (h "0sra4zr2ayj494gnhignbpfphsa28j15dyi4dpkqi9gbps329480")))
+
+(define-public crate-susy-jsonrpc-stdio-server-10.0.1 (c (n "susy-jsonrpc-stdio-server") (v "10.0.1") (d (list (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "susy-jsonrpc-core") (r "^10.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.7") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.7") (d #t) (k 0)) (d (n "tokio-stdin-stdout") (r "^0.1.4") (d #t) (k 0)))) (h "0sinp34ilvfjky7s3fri17lkrm7b68dawnlihpa3hqsszmgifp79")))
+

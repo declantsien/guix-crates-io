@@ -1,0 +1,10 @@
+(define-module (crates-io tl si tlsimple) #:use-module (crates-io))
+
+(define-public crate-tlsimple-0.1.0 (c (n "tlsimple") (v "0.1.0") (h "119xn491rdbqxsgbc6d96mvdd39r4bi1sjqd3ssnnddqqg8gcpaw")))
+
+(define-public crate-tlsimple-0.1.2 (c (n "tlsimple") (v "0.1.2") (d (list (d (n "cc") (r "^1") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros" "time" "fs" "net" "io-util"))) (d #t) (k 0)))) (h "1n6kd7ksnls9p75xl63w6dv1nxc6xsj31rp98vrrcijhsxbm7b0k")))
+
+(define-public crate-tlsimple-0.2.0 (c (n "tlsimple") (v "0.2.0") (d (list (d (n "axum") (r "^0.6") (f (quote ("http1" "http2" "tokio"))) (k 2)) (d (n "cc") (r "^1") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "hyper") (r "^0.14") (f (quote ("tcp" "client" "http1"))) (o #t) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.24") (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "net" "io-util"))) (d #t) (k 2)) (d (n "tokio-openssl") (r "^0.6") (d #t) (k 2)) (d (n "tokio-rustls") (r "^0.24") (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (d #t) (k 2)) (d (n "webpki-roots") (r "^0.25") (d #t) (k 2)))) (h "1aifa87g2h6yxrqjzqss1wqfw2g9y0w95cyzjs9angaxq15xdz3l") (f (quote (("default" "hyper-client")))) (s 2) (e (quote (("tokio" "dep:tokio") ("hyper-client" "tokio" "dep:hyper"))))))
+
+(define-public crate-tlsimple-0.2.2 (c (n "tlsimple") (v "0.2.2") (d (list (d (n "axum") (r "^0.6") (f (quote ("http1" "http2" "tokio"))) (k 2)) (d (n "cc") (r "^1") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "hyper") (r "^0.14") (f (quote ("tcp" "client" "http1"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "net" "io-util" "macros"))) (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (d #t) (k 2)))) (h "1ahybvsd2cj54jn167hh5f9hz8ww4hhdv1cpqh68pk7816gha3ip") (f (quote (("default" "hyper-client")))) (s 2) (e (quote (("tokio" "dep:tokio") ("hyper-client" "tokio" "dep:hyper"))))))
+

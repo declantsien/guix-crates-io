@@ -1,0 +1,32 @@
+(define-module (crates-io #{3}# g gol) #:use-module (crates-io))
+
+(define-public crate-gol-0.1.0 (c (n "gol") (v "0.1.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)))) (h "1rf4310hnvy0sdlh8v530byy4axhbadshrlhc510c3vkkc5q4f6j")))
+
+(define-public crate-gol-0.1.1 (c (n "gol") (v "0.1.1") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)))) (h "1wmpmr8rxv3y4j3fj93lfr91vpr4ij7p2wbc4gnmxlw9nxlaj0jj")))
+
+(define-public crate-gol-0.1.2 (c (n "gol") (v "0.1.2") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "0kgxr9krifx497ccz526b6wl5q799ajac481a208206sksrx5xwq")))
+
+(define-public crate-gol-0.1.3 (c (n "gol") (v "0.1.3") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1ymldcvq99y23n0dx411pxwcf41i270vf59y5ljzg2zx6q8qldzi")))
+
+(define-public crate-gol-0.1.4 (c (n "gol") (v "0.1.4") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1nm5ijcy3xz53imrw785qfa0c0q33lmmmndk910dlzg60x32ix7d")))
+
+(define-public crate-gol-0.1.5 (c (n "gol") (v "0.1.5") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1m6dp3h0w975vna5qmd8m92h35y1n66xlpmfccfp31hi6wyfqgix")))
+
+(define-public crate-gol-0.1.6 (c (n "gol") (v "0.1.6") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1p448jmhpz04ik507rvbd7d6a25d832gz6v8wricvz5imkjwhba8")))
+
+(define-public crate-gol-0.1.7 (c (n "gol") (v "0.1.7") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1aq4dg3rgg3wvjfljgdp03552iaiwyfkm3j0c6rcf42wc13nqdi5")))
+
+(define-public crate-gol-0.1.8 (c (n "gol") (v "0.1.8") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1iyd47mnsfyxdc856lgpdxfggw4q7s3vajp549h1y78cpqzkna3s")))
+
+(define-public crate-gol-0.1.9 (c (n "gol") (v "0.1.9") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.16") (d #t) (k 0)) (d (n "glutin") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "1lpkghbvsa8ysjjlnp56m51sxs1zi7p0cxmw9k2vn2l3dmlciwjl")))
+
+(define-public crate-gol-0.1.10 (c (n "gol") (v "0.1.10") (d (list (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "gfx") (r "^0.16.1") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14.2") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.17") (d #t) (k 0)) (d (n "glutin") (r "^0.9.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "0kql8ca0bc031x4h09capz7wlrvn17r92xl6rmchkcp5zrjrvi7a")))
+
+(define-public crate-gol-0.1.11 (c (n "gol") (v "0.1.11") (d (list (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "gfx") (r "^0.16.1") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.14.2") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.17") (d #t) (k 0)) (d (n "glutin") (r "^0.9.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "0r4hkpjq2wr4b8rh01gma9rs74c2qgvq2r2s744jynn371j9hwga")))
+
+(define-public crate-gol-0.1.12 (c (n "gol") (v "0.1.12") (d (list (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "gfx") (r "^0.18") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.16") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.30") (d #t) (k 0)) (d (n "glutin") (r "^0.20") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "19s9d44g8vq94qalzpbhss1hny51hqijg7dd1x6hpsj58z9khlwr")))
+
+(define-public crate-gol-0.1.13 (c (n "gol") (v "0.1.13") (d (list (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "gfx") (r "^0.18") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.16") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.30") (d #t) (k 0)) (d (n "glutin") (r "^0.20") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "15vasvyjgmylk3q6y8n84cm3dp3qj41x6sk1b2rrdanzfqg0c3y8")))
+
+(define-public crate-gol-0.1.14 (c (n "gol") (v "0.1.14") (d (list (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "gfx") (r "^0.18") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.16") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.30") (d #t) (k 0)) (d (n "glutin") (r "^0.20") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^0.8") (d #t) (k 0)))) (h "0krdq7gjk06lsz63xw5cfpdr7r1ybr2kld7cypv18fwmvn8aa7kn")))
+

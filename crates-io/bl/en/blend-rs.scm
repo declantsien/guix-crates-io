@@ -1,0 +1,8 @@
+(define-module (crates-io bl en blend-rs) #:use-module (crates-io))
+
+(define-public crate-blend-rs-0.1.0 (c (n "blend-rs") (v "0.1.0") (d (list (d (n "blend-bindgen-rs") (r "^0.3.0") (d #t) (k 1)) (d (n "blend-inspect-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "hamcrest2") (r "^0.3.0") (d #t) (k 2)) (d (n "sha2") (r "^0.10.2") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "05f73ljyls6m5piqjfqxn59dyhnm78zs5pwdsw8b61r3qybj54g6") (f (quote (("blender3_0") ("blender2_9") ("blender2_7") ("all" "blender2_7" "blender2_9" "blender3_0"))))))
+
+(define-public crate-blend-rs-0.2.0 (c (n "blend-rs") (v "0.2.0") (d (list (d (n "blend-bindgen-rs") (r "^0.4.0") (d #t) (k 1)) (d (n "blend-inspect-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "hamcrest2") (r "^0.3.0") (d #t) (k 2)) (d (n "sha2") (r "^0.10.2") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "09x1qipma30zjcl3swxgf612j1rcxjm5ksp74mksnp7ih81wlrhl") (f (quote (("blender3_0") ("blender2_9") ("blender2_7") ("all" "blender2_7" "blender2_9" "blender3_0"))))))
+
+(define-public crate-blend-rs-0.3.0 (c (n "blend-rs") (v "0.3.0") (d (list (d (n "blend-bindgen-rs") (r "^0.5.0") (d #t) (k 1)) (d (n "blend-inspect-rs") (r "^0.3.0") (d #t) (k 0)) (d (n "hamcrest2") (r "^0.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0kxr486x21gjjpsv5dqldqijg7gylm6f2gfk0s831ng01x0vhp99") (f (quote (("default" "blender3_2") ("blender3_4") ("blender3_3") ("blender3_2") ("blender2_93") ("blender2_80x86") ("blender2_80") ("blender2_79") ("all" "blender2_79" "blender2_80" "blender2_80x86" "blender2_93" "blender3_2" "blender3_3" "blender3_4")))) (r "1.65")))
+

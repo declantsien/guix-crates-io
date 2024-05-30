@@ -1,0 +1,4 @@
+(define-module (crates-io ri ng ringfairy) #:use-module (crates-io))
+
+(define-public crate-ringfairy-0.1.2 (c (n "ringfairy") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "minify-html") (r "^0.15") (d #t) (k 0)) (d (n "opml") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tera") (r "^1.19") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)))) (h "0whih125yjf4prr9r7b6zz4mvff1lqhi48hy47wv8d3p8iw8annn")))
+

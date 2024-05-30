@@ -1,0 +1,10 @@
+(define-module (crates-io tr ac tracing-web) #:use-module (crates-io))
+
+(define-public crate-tracing-web-0.1.0 (c (n "tracing-web") (v "0.1.0") (d (list (d (n "js-sys") (r "^0.3.59") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("time"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.82") (k 0)) (d (n "web-sys") (r "^0.3.59") (f (quote ("console"))) (k 0)))) (h "0r40dqjn45fq5smsraly1lbk4r2rkzwhznc99gd9cmbrwfrr6ajs")))
+
+(define-public crate-tracing-web-0.1.1 (c (n "tracing-web") (v "0.1.1") (d (list (d (n "js-sys") (r "^0.3.59") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("time"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.82") (k 0)) (d (n "web-sys") (r "^0.3.59") (f (quote ("console"))) (k 0)))) (h "0ny42capcqgc4rfjsm37md1i1byxlyyf0kcnhc8rmp0p6031vxp2")))
+
+(define-public crate-tracing-web-0.1.2 (c (n "tracing-web") (v "0.1.2") (d (list (d (n "js-sys") (r "^0.3.59") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("time"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.82") (k 0)) (d (n "web-sys") (r "^0.3.59") (f (quote ("console"))) (k 0)))) (h "0971mwqpxnb7j6p68kja50dsmrs11z8lzlixkfww99ym7v2yzx8g")))
+
+(define-public crate-tracing-web-0.1.3 (c (n "tracing-web") (v "0.1.3") (d (list (d (n "js-sys") (r "^0.3.59") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("time"))) (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2.82") (k 0)) (d (n "web-sys") (r "^0.3.59") (f (quote ("console"))) (k 0)))) (h "0z7yvr0v38yacqhqb1hbawy25jhgymd7izgbj66izmgbzr0s3rmr")))
+

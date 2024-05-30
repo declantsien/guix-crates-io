@@ -1,0 +1,8 @@
+(define-module (crates-io fi nn finnhub-rs) #:use-module (crates-io))
+
+(define-public crate-finnhub-rs-0.1.0-alpha (c (n "finnhub-rs") (v "0.1.0-alpha") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "tokio") (r "^1.1") (f (quote ("full"))) (d #t) (k 0)))) (h "10yycwpnq68ww1aqnpfcvw3yixmd5mkbhlxx2kb6y3k5vzybwva3")))
+
+(define-public crate-finnhub-rs-0.1.1 (c (n "finnhub-rs") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "tokio") (r "^1.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0dxc7vak7n4yd6v4cfkk74lpgc929l4cy9knyicc0h2q9zndp8gx") (y #t)))
+
+(define-public crate-finnhub-rs-0.1.2 (c (n "finnhub-rs") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "tokio") (r "^1.1") (f (quote ("full"))) (d #t) (k 0)))) (h "116wnl882qz5np9llwj7az2ra167rnm54mvbwcq1csyqkxa0vwcz")))
+

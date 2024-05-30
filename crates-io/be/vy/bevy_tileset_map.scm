@@ -1,0 +1,8 @@
+(define-module (crates-io be vy bevy_tileset_map) #:use-module (crates-io))
+
+(define-public crate-bevy_tileset_map-0.4.0 (c (n "bevy_tileset_map") (v "0.4.0") (d (list (d (n "bevy") (r "^0.6") (k 0)) (d (n "bevy_ecs_tilemap") (r "^0.5") (k 0)) (d (n "bevy_tileset") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1dp9mxr2kf2np764gifddry3iigpkyxlgib2ssik354f0953prnp") (f (quote (("variants" "bevy_tileset/variants") ("serialization" "serde") ("default") ("auto-tile" "variants" "bevy_tileset/auto-tile"))))))
+
+(define-public crate-bevy_tileset_map-0.4.1 (c (n "bevy_tileset_map") (v "0.4.1") (d (list (d (n "bevy") (r "^0.6") (k 0)) (d (n "bevy_ecs_tilemap") (r "^0.5") (k 0)) (d (n "bevy_tileset") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0s4i7lbck1ziahv9bc21ylvxhn7v3qxxvfnkd3wazbj8h9pgk906") (f (quote (("variants" "bevy_tileset/variants") ("serialization" "serde") ("default") ("auto-tile" "variants" "bevy_tileset/auto-tile"))))))
+
+(define-public crate-bevy_tileset_map-0.5.0 (c (n "bevy_tileset_map") (v "0.5.0") (d (list (d (n "bevy") (r "^0.7") (k 0)) (d (n "bevy_ecs_tilemap") (r "^0.6") (k 0)) (d (n "bevy_tileset") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "04z5jnycjyqq9rsc3sycfzm40ywpsf7hb0pd8bi6grrbkfirm78m") (f (quote (("variants" "bevy_tileset/variants") ("serialization" "serde") ("default") ("auto-tile" "variants" "bevy_tileset/auto-tile"))))))
+

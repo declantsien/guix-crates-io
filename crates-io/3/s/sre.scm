@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# s sre) #:use-module (crates-io))
+
+(define-public crate-sre-0.1.0 (c (n "sre") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crypto_secretbox") (r "^0.1.1") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "siphasher") (r "^0.3.10") (d #t) (k 0)))) (h "1l40lmdpxg759wibc951rmm46hyv5haa8d40r1wrsrq0mb0wsj0v")))
+
+(define-public crate-sre-0.1.1 (c (n "sre") (v "0.1.1") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crypto_secretbox") (r "^0.1.1") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "siphasher") (r "^0.3.10") (d #t) (k 0)))) (h "1c0gg7yrgw0h890pr9k3s636831i0vj6m5n3li14a3d0x5sn6k4a")))
+
+(define-public crate-sre-0.1.2 (c (n "sre") (v "0.1.2") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crypto_secretbox") (r "^0.1.1") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "siphasher") (r "^0.3.10") (d #t) (k 0)))) (h "00x7g06xscpfbhvvd6xkpn27gz3jl4gpycc52qwr6msdlmldwpmg")))
+
+(define-public crate-sre-0.2.0 (c (n "sre") (v "0.2.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crypto_secretbox") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10.7") (o #t) (d #t) (k 0)) (d (n "siphasher") (r "^0.3.10") (o #t) (d #t) (k 0)))) (h "1lnvyp44bxakphzlrkwhkl8s3rcz5v545hk8zgwlsdh3w54vqnf6") (f (quote (("symm-enc" "crypto_secretbox") ("ggm-key-derive" "hmac" "sha2") ("bloom-h" "siphasher"))))))
+

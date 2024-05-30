@@ -1,0 +1,10 @@
+(define-module (crates-io ci bo ciborium) #:use-module (crates-io))
+
+(define-public crate-ciborium-0.1.0 (c (n "ciborium") (v "0.1.0") (d (list (d (n "half") (r "^1.6") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "rstest") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)))) (h "0b231mmn8706xwg2bsfjadlsl9ks0yph2jn7mb6qlz8rnshkcs6y") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-ciborium-0.2.0 (c (n "ciborium") (v "0.2.0") (d (list (d (n "ciborium-io") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ciborium-ll") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rstest") (r "^0.11") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "13vqkm88kaq8nvxhaj6qsl0gsc16rqsin014fx5902y6iib3ghdh") (f (quote (("std" "ciborium-io/std" "serde/std") ("default" "std"))))))
+
+(define-public crate-ciborium-0.2.1 (c (n "ciborium") (v "0.2.1") (d (list (d (n "ciborium-io") (r "^0.2.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ciborium-ll") (r "^0.2.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rstest") (r "^0.11") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "09p9gr3jxys51v0fzwsmxym2p7pcz9mhng2xib74lnlfqzv93zgg") (f (quote (("std" "ciborium-io/std" "serde/std") ("default" "std")))) (r "1.56")))
+
+(define-public crate-ciborium-0.2.2 (c (n "ciborium") (v "0.2.2") (d (list (d (n "ciborium-io") (r "^0.2.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ciborium-ll") (r "^0.2.2") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rstest") (r "^0.11") (d #t) (k 2)) (d (n "serde") (r "^1.0.100") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)))) (h "03hgfw4674im1pdqblcp77m7rc8x2v828si5570ga5q9dzyrzrj2") (f (quote (("std" "ciborium-io/std" "serde/std") ("default" "std")))) (r "1.58")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# g gob) #:use-module (crates-io))
+
+(define-public crate-gob-0.1.0 (c (n "gob") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "byteorder") (r "^1.2.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4.6") (d #t) (k 0)) (d (n "iovec") (r "^0.1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "owning_ref") (r "^0.3.3") (d #t) (k 0)) (d (n "partial-io") (r "^0.3.0") (f (quote ("quickcheck"))) (d #t) (k 2)) (d (n "quickcheck") (r "^0.6.2") (d #t) (k 2)) (d (n "safemem") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.39") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10.4") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.42") (d #t) (k 0)) (d (n "serde_schema") (r "^0.0.1") (d #t) (k 0)) (d (n "serde_schema_derive") (r "^0.0.1") (d #t) (k 0)))) (h "0rpz3id749lrla63ya1ml35pz23wyk8kp9s84bkikyx40mrp9c3v")))
+

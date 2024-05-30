@@ -1,0 +1,62 @@
+(define-module (crates-io se rd serde_bolt) #:use-module (crates-io))
+
+(define-public crate-serde_bolt-0.1.0 (c (n "serde_bolt") (v "0.1.0") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "02hgz3cvszj2n9slyz34x1yp122g0h0q38j47hpqfa04ybvrw4dr") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.1.1 (c (n "serde_bolt") (v "0.1.1") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "0wjzaka2vahh5dqwkg1zy6ha19cxd3yra3bgzb981qbh2c7xi934") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.1.2 (c (n "serde_bolt") (v "0.1.2") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "11872313bcn4pkc0h1rrbf8mpgny7s8g7wfilv6gzbwzncw310g3") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.1.3 (c (n "serde_bolt") (v "0.1.3") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "004n5r6didky59gc3znvmljmidw5b411f3zp7zpc1fx4hcp8px01") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.1.4 (c (n "serde_bolt") (v "0.1.4") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "0dck6y0xh39aq2xm1ffm305mskw0mia6yhbj1jvgf9b21rb1cdzs") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.1.5 (c (n "serde_bolt") (v "0.1.5") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1l21jrp4hj1s1y3j8ih0rqcdfb8hki0ahaapcigxxg50jf7fhsml") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.1.6 (c (n "serde_bolt") (v "0.1.6") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "06rgdp5c7dr8kwlqs3ibisd2n8wj3z5kn5wc6yzn8lh5j1bl4c28") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.2.0 (c (n "serde_bolt") (v "0.2.0") (d (list (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1g9qxdkdfpwnaa3kja7hxs49v2xfg2sixc608qhhkarljq020ivh") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.2.1 (c (n "serde_bolt") (v "0.2.1") (d (list (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1297g02yym9vz1yf78py37h58rf1y8qhdi49kxgjn0bvkkk4pclp") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.2.2 (c (n "serde_bolt") (v "0.2.2") (d (list (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1r9z3d5g2ff3n7n23qh5cvknrdwb1psfwl2nlv5ky5wllifbi3fn") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.2.3 (c (n "serde_bolt") (v "0.2.3") (d (list (d (n "bitcoin") (r "^0.29") (f (quote ("serde"))) (d #t) (k 2)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "0pi8ma4ly16pbbb6gqp5pakkb6zavppzqy288fq67xc35xf3ghyz") (f (quote (("std" "serde/std") ("default" "std")))) (y #t)))
+
+(define-public crate-serde_bolt-0.2.4 (c (n "serde_bolt") (v "0.2.4") (d (list (d (n "bitcoin") (r "^0.29") (f (quote ("serde"))) (d #t) (k 2)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1a26gzbxgjszwz22v6k2r1zc9qxhkshy3l7687v3kldqj93v2pzx") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.2.5 (c (n "serde_bolt") (v "0.2.5") (d (list (d (n "bitcoin") (r "^0.29") (f (quote ("serde"))) (d #t) (k 2)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "01wlk6ch0l8hm7rilxzc1qn7bi3gv4x4wgply6xg2cbkxz8jwgl1") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.2.6 (c (n "serde_bolt") (v "0.2.6") (d (list (d (n "bitcoin") (r "^0.29") (f (quote ("serde"))) (d #t) (k 2)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1xjh8ffdvahgx9p6ffzra1brw6i0pk6cq0vl717j78h4p282cacr") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.1 (c (n "serde_bolt") (v "0.3.0-beta.1") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "0ms5ymn9w57yghnmw8b9nc1rmyfniiz69c9wf348zgwhqcg2w1xx") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.2 (c (n "serde_bolt") (v "0.3.0-beta.2") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1m04n1qrpngj0h3jikqwflffwc3qhl892w2a9n9gspxpv75qqj20") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.3 (c (n "serde_bolt") (v "0.3.0-beta.3") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1dg6hzd39wv7lsdlk51hw7p0za8n72psrzzlg4lyr2hy6fv8babg") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.4 (c (n "serde_bolt") (v "0.3.0-beta.4") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1gzwi3rkvbs3z1cc2hzjblrxnnhkhm2m50hgrsi0a5zipn0v9a5w") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.5 (c (n "serde_bolt") (v "0.3.0-beta.5") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "18zbmkgvhflwn53p80hr7gb3pda5d9wyz2b3pdjb72bgxcz8klzb") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.6 (c (n "serde_bolt") (v "0.3.0-beta.6") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "0lp7hzxhn8npxmdbwpjxqq5s2vazyzzz3pyibhbzagycfjr4d4sf") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.7 (c (n "serde_bolt") (v "0.3.0-beta.7") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1z5pqnqxx9nmn26xk7qs79913nyd9kx4h7inw9sqvrr8yyfbc1pl") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.8 (c (n "serde_bolt") (v "0.3.0-beta.8") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.1") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1f59xfq1z522qs6dnxnmnxa513mxqv6j4pricmwzaiq76cxqr5wy") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.9 (c (n "serde_bolt") (v "0.3.0-beta.9") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.2") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "0dwplshm5kd7na5k2b514cmlx7fba209r8z2hhs1zhi014hg15hb") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0-beta.10 (c (n "serde_bolt") (v "0.3.0-beta.10") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.2") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1pxji2chm9vmhilkprjg61sf8dzlgms5g9vbb2wk1p9yhfg9a6k5") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.0 (c (n "serde_bolt") (v "0.3.0") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0-beta.2") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1wsgix1w64qfbvw090y4c9a3mjsi3yci2qyk2fygk444qr5mcmxp") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.1 (c (n "serde_bolt") (v "0.3.1") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1jlvpc6h8pxqzzq4jpa9d8pj9nrppk4s7ymnnn0359wl5n3dngfa") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.2 (c (n "serde_bolt") (v "0.3.2") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "18fj3n8wvf4hn19ifnsr2wx40gxkchzszm0g2x8x6bj87jh8gh1i") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std")))) (y #t)))
+
+(define-public crate-serde_bolt-0.3.3 (c (n "serde_bolt") (v "0.3.3") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "chunked-buffer") (r "^0.1.0") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "0bic8wh7db56vi6cfjkql2hrjq3c28qh7rcc95g5cbgczy1jd965") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std"))))))
+
+(define-public crate-serde_bolt-0.3.4 (c (n "serde_bolt") (v "0.3.4") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "chunked-buffer") (r "^0.2.0") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "10gnsk5cd4nl8brhlvppaby3p65dwq9mx08i0x5pbaw8p7p39xjl") (f (quote (("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std")))) (r "1.66.0")))
+
+(define-public crate-serde_bolt-0.3.5 (c (n "serde_bolt") (v "0.3.5") (d (list (d (n "bitcoin") (r "^0.29") (k 0)) (d (n "bitcoin-consensus-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "chunked-buffer") (r "^0.2.0") (d #t) (k 0)) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("alloc"))) (k 0)))) (h "1wh14qm6vrix1lly3pq0i2dspdmpxjkkk0g0i1ycd27xw1vqasxh") (f (quote (("test_utils") ("std" "bitcoin/std") ("no-std" "core2/alloc" "bitcoin/no-std") ("default" "std")))) (r "1.66.0")))
+

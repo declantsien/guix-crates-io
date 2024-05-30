@@ -1,0 +1,8 @@
+(define-module (crates-io to ki tokio-arangodb) #:use-module (crates-io))
+
+(define-public crate-tokio-arangodb-0.1.0 (c (n "tokio-arangodb") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.9") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "http") (r "^0.1.10") (d #t) (k 0)) (d (n "http-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1.1") (d #t) (k 0)))) (h "1hp77gzsbqsy39xcgl37gadx5g8ljdmd2kwqqv4mkj75sb0zwvf0")))
+
+(define-public crate-tokio-arangodb-0.2.0 (c (n "tokio-arangodb") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4.9") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "http") (r "^0.1.10") (d #t) (k 0)) (d (n "http-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1.1") (d #t) (k 0)))) (h "1bmpfb08iivq7c0sgmyvxdv9zqdgcl18g86xgmz0cl7gi0138qyl")))
+
+(define-public crate-tokio-arangodb-0.3.0 (c (n "tokio-arangodb") (v "0.3.0") (d (list (d (n "bytes") (r "^0.4.9") (d #t) (k 0)) (d (n "futures") (r "^0.1.23") (d #t) (k 0)) (d (n "http") (r "^0.1.10") (d #t) (k 0)) (d (n "http-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1.1") (d #t) (k 0)))) (h "1jlghy2mdb3hdzrddivjx0ic593w7fdlk7jx8iigp0k0whfnwl26")))
+

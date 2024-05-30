@@ -1,0 +1,6 @@
+(define-module (crates-io ru sv rusvid_effect) #:use-module (crates-io))
+
+(define-public crate-rusvid_effect-0.2.0 (c (n "rusvid_effect") (v "0.2.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "rusvid_core") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1266c67y9s5f04867gfx6qia2kjj37nwb43fyl9l5hjdidin5bs2") (f (quote (("default" "scripting")))) (s 2) (e (quote (("scripting" "dep:rhai" "rusvid_core/scripting"))))))
+
+(define-public crate-rusvid_effect-0.2.1 (c (n "rusvid_effect") (v "0.2.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "rhai") (r "^1.12.0") (o #t) (d #t) (k 0)) (d (n "rusvid_core") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1v00vbw1a1fm1q45rylrk7p9ij22jk54k4j03qcsj238lycb8qnd") (f (quote (("default" "scripting")))) (s 2) (e (quote (("scripting" "dep:rhai" "rusvid_core/scripting"))))))
+

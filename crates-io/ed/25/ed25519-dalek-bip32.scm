@@ -1,0 +1,10 @@
+(define-module (crates-io ed #{25}# ed25519-dalek-bip32) #:use-module (crates-io))
+
+(define-public crate-ed25519-dalek-bip32-0.1.0 (c (n "ed25519-dalek-bip32") (v "0.1.0") (d (list (d (n "derivation-path") (r "^0.1.1") (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.3") (f (quote ("u64_backend" "rand"))) (k 0)) (d (n "failure") (r "^0.1.8") (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hmac") (r "^0.8.1") (k 0)) (d (n "sha2") (r "^0.9.1") (k 0)))) (h "0kmnc8flamzj73i2j4vmmnfgk51kb87d0dkgzvbwjwi8k3dmv3rl") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std" "failure/std") ("default" "std"))))))
+
+(define-public crate-ed25519-dalek-bip32-0.1.1 (c (n "ed25519-dalek-bip32") (v "0.1.1") (d (list (d (n "derivation-path") (r "^0.1.3") (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (f (quote ("u64_backend" "rand"))) (k 0)) (d (n "failure") (r "^0.1.8") (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hmac") (r "^0.9.0") (k 0)) (d (n "sha2") (r "^0.9.1") (k 0)))) (h "1ws2q9688cjrj2i4nvbxcwqibzaaym19dhz66as5ljr9667k4zq5") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std" "failure/std") ("default" "std"))))))
+
+(define-public crate-ed25519-dalek-bip32-0.2.0 (c (n "ed25519-dalek-bip32") (v "0.2.0") (d (list (d (n "derivation-path") (r "^0.2.0") (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (f (quote ("u64_backend" "rand"))) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hmac") (r "^0.12.0") (k 0)) (d (n "sha2") (r "^0.10.1") (k 0)))) (h "024rlmqz8apsqlcz0ffhi6wff70hdzyf8gl7q3475f3180mfcawx") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std") ("default" "std"))))))
+
+(define-public crate-ed25519-dalek-bip32-0.3.0 (c (n "ed25519-dalek-bip32") (v "0.3.0") (d (list (d (n "derivation-path") (r "^0.2.0") (k 0)) (d (n "ed25519-dalek") (r "^2.0.0") (f (quote ("rand_core"))) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hmac") (r "^0.12.0") (k 0)) (d (n "sha2") (r "^0.10.1") (k 0)))) (h "00rg51g28xysvclz85fdr08n0lbiyxm970z7gq6rii1kn62acjbb") (f (quote (("std" "derivation-path/std" "sha2/std" "ed25519-dalek/std") ("default" "std"))))))
+

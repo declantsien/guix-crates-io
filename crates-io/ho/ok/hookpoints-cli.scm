@@ -1,0 +1,8 @@
+(define-module (crates-io ho ok hookpoints-cli) #:use-module (crates-io))
+
+(define-public crate-hookpoints-cli-0.3.0 (c (n "hookpoints-cli") (v "0.3.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0jvsn9xrpnc9b04myvi14z0v66lwq11syq1v8hfggvj9rifzvg12")))
+
+(define-public crate-hookpoints-cli-0.9.0 (c (n "hookpoints-cli") (v "0.9.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1xymrsck02q9m44cbv3c635s7v0wpj2rsahh423rbjxa20d11saz")))
+
+(define-public crate-hookpoints-cli-1.0.0 (c (n "hookpoints-cli") (v "1.0.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0fbplg881g1202jdrf9ih3y1r497igzyjfm4p4ky9yvf2dcdy21h")))
+

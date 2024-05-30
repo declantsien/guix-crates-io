@@ -1,0 +1,14 @@
+(define-module (crates-io gr ab grab_github_permalink) #:use-module (crates-io))
+
+(define-public crate-grab_github_permalink-0.1.0 (c (n "grab_github_permalink") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "html5ever") (r "^0.26.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0vqxkji194lyb5nr5pp5kn3g1mbcxvld2dhi0dinb9s6f6kyx7qz")))
+
+(define-public crate-grab_github_permalink-0.1.1 (c (n "grab_github_permalink") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0vawh38ml8s5dzva3r7fngxdafndsj6hv0kkk1qd4brwl7wig32j")))
+
+(define-public crate-grab_github_permalink-0.1.2 (c (n "grab_github_permalink") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0nrql4x0g87rp3fkak3knngdwi3k7kz8p0zxr9k4vyjx6j25yp77")))
+
+(define-public crate-grab_github_permalink-0.1.3 (c (n "grab_github_permalink") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "06zn27hbs5ap90yh3pxqx0w880r9014n926dj0gpqgwfizqy3y69")))
+
+(define-public crate-grab_github_permalink-0.1.4 (c (n "grab_github_permalink") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "07fsvyfn6r2pdq1z58z5n190ilcy8ri9p8arkrkhzw6fc9m8l6mp")))
+
+(define-public crate-grab_github_permalink-0.2.0 (c (n "grab_github_permalink") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "13mq8j5aynyn2248g7baq2jd4zpq6kvaigiaply8j0d4627a87a2")))
+

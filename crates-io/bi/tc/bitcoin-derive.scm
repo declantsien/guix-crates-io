@@ -1,0 +1,14 @@
+(define-module (crates-io bi tc bitcoin-derive) #:use-module (crates-io))
+
+(define-public crate-bitcoin-derive-0.1.7-alpha.0 (c (n "bitcoin-derive") (v "0.1.7-alpha.0") (d (list (d (n "bitcoin-imports") (r "^0.1.7-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.7-alpha.0") (d #t) (k 1)))) (h "0n4k2zw1amgsahlxp3sr7sdkpjiiv9l58k0ckf6f916ahjm29xzm")))
+
+(define-public crate-bitcoin-derive-0.1.10-alpha.0 (c (n "bitcoin-derive") (v "0.1.10-alpha.0") (d (list (d (n "bitcoin-imports") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.10-alpha.0") (d #t) (k 1)))) (h "0dhck6j1sr41w4aqfdnmp0gf6wazmrb50p1ghnq38pr9hi9d1r79")))
+
+(define-public crate-bitcoin-derive-0.1.12-alpha.0 (c (n "bitcoin-derive") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "05fki6bwk5kc5nrfqxsnhidakm9lqhn1xh0n6gw13718p0pjm8qa")))
+
+(define-public crate-bitcoin-derive-0.1.13-alpha.0 (c (n "bitcoin-derive") (v "0.1.13-alpha.0") (d (list (d (n "bitcoin-imports") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.13-alpha.0") (d #t) (k 1)))) (h "0dshjv6nr07mifpk3yay8y2c1i1599nzqr4nvy0qdc7z2w8bvl0d")))
+
+(define-public crate-bitcoin-derive-0.1.15-alpha.0 (c (n "bitcoin-derive") (v "0.1.15-alpha.0") (d (list (d (n "bitcoin-imports") (r "^0.1.15-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.15-alpha.0") (d #t) (k 1)))) (h "1ssxrwiz69fg7d7iybm596jy7ywfrwd7mvn2zqy9gfxjbxi84gnv")))
+
+(define-public crate-bitcoin-derive-0.1.16-alpha.0 (c (n "bitcoin-derive") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "16f1kyycvk6qvsxh4359qlq6g62jy820lwahhby8d3sap9m60fhh")))
+

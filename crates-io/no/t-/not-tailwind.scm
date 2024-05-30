@@ -1,0 +1,4 @@
+(define-module (crates-io no t- not-tailwind) #:use-module (crates-io))
+
+(define-public crate-not-tailwind-0.1.7 (c (n "not-tailwind") (v "0.1.7") (d (list (d (n "lightningcss") (r "^1.0.0-alpha.47") (f (quote ("visitor" "jsonschema"))) (d #t) (k 0)) (d (n "lol_html") (r "^1.2.0") (d #t) (k 0)) (d (n "minijinja") (r "^1.0.0") (f (quote ("loader" "json" "urlencode" "preserve_order" "unstable_machinery_serde"))) (d #t) (k 0)) (d (n "parcel_selectors") (r "^0.26.2") (d #t) (k 0)) (d (n "scraper") (r "^0.17.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "string_cache") (r "^0.8.7") (d #t) (k 0)) (d (n "swc_core") (r "0.83.*") (f (quote ("ecma_plugin_transform" "__parser" "ecma_codegen"))) (d #t) (k 0)) (d (n "swc_ecma_parser") (r "^0.141.0") (f (quote ("swc_ecma_visit" "debug"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.2") (d #t) (k 0)))) (h "0yncapblv0mlb1i56qwxf3ian1zakwjgpgdp094fw2yfsbx1hl1y")))
+

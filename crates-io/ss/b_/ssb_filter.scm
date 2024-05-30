@@ -1,0 +1,4 @@
+(define-module (crates-io ss b_ ssb_filter) #:use-module (crates-io))
+
+(define-public crate-ssb_filter-0.0.0 (c (n "ssb_filter") (v "0.0.0") (d (list (d (n "chrono") (r "~0.4.6") (d #t) (t "cfg(windows)") (k 1)) (d (n "embed-resource") (r "~1.1.4") (d #t) (t "cfg(windows)") (k 1)) (d (n "env_logger") (r "~0.6.0") (d #t) (k 0)) (d (n "failure") (r "~0.1.5") (o #t) (d #t) (k 0)) (d (n "gstreamer") (r "~0.12.2") (o #t) (d #t) (k 0)) (d (n "log") (r "~0.4.6") (d #t) (k 0)) (d (n "ssb_renderer") (r "^0.0.0") (d #t) (k 0)) (d (n "vapoursynth") (r "~0.2.0") (f (quote ("vapoursynth-functions" "vsscript-functions"))) (o #t) (d #t) (k 0)) (d (n "winapi") (r "~0.3.6") (o #t) (d #t) (k 0)))) (h "1crx313872sgw6b5zcxdzv15np1b368innq93qckd6gbgjy42fr8") (f (quote (("vapoursynth-interface" "vapoursynth" "failure") ("mediafoundation-interface" "winapi") ("gstreamer-interface" "gstreamer") ("default" "vapoursynth-interface"))))))
+

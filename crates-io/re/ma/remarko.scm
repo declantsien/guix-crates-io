@@ -1,0 +1,6 @@
+(define-module (crates-io re ma remarko) #:use-module (crates-io))
+
+(define-public crate-remarko-0.1.0 (c (n "remarko") (v "0.1.0") (d (list (d (n "aurelius") (r "^0.7.5") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("rt" "macros" "io-util" "process"))) (d #t) (k 0)) (d (n "wry") (r "^0.27.0") (d #t) (k 0)) (d (n "cocoa") (r "^0.24.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)))) (h "0ilk3fi2m943lqccyihr4b915kdaaarar1xrrdppvrnqwsigzz8g")))
+
+(define-public crate-remarko-0.1.1 (c (n "remarko") (v "0.1.1") (d (list (d (n "aurelius") (r "^0.7.5") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("rt" "macros" "io-util" "process"))) (d #t) (k 0)) (d (n "wry") (r "^0.27.0") (d #t) (k 0)) (d (n "cocoa") (r "^0.24.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)))) (h "1bj83nwd7x57zmwx4919v1j7z0ijs4l1y5p8zmw5v0bmm2rssciw")))
+

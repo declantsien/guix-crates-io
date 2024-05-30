@@ -1,0 +1,8 @@
+(define-module (crates-io xt er xterm-js-sys) #:use-module (crates-io))
+
+(define-public crate-xterm-js-sys-4.5.0-alpha0 (c (n "xterm-js-sys") (v "4.5.0-alpha0") (d (list (d (n "crossterm") (r "^0.17.3") (o #t) (d #t) (k 0)) (d (n "js-sys") (r "^0.3.37") (d #t) (k 0)) (d (n "tui") (r "^0.9.1") (o #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.60") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.37") (f (quote ("Element" "KeyboardEvent" "HtmlTextAreaElement"))) (d #t) (k 0)))) (h "1wv6sdlb1kfd229ds8mnj0vpv3l5d549wx60w1d2myg6y21ak8ai") (f (quote (("tui-backend" "crossterm" "tui") ("ext") ("default" "ext"))))))
+
+(define-public crate-xterm-js-sys-4.6.0-alpha0 (c (n "xterm-js-sys") (v "4.6.0-alpha0") (d (list (d (n "js-sys") (r "^0.3.37") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.63") (f (quote ("strict-macro"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.13") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.37") (f (quote ("Element" "HtmlTextAreaElement" "KeyboardEvent" "MouseEvent"))) (d #t) (k 0)))) (h "0kg1p82czgl1sc3vrsb5mrhmikwq6sy7llanarm3zlk5x4rjslwn") (f (quote (("tui-backend" "crossterm-support") ("ext") ("default" "ext") ("crossterm-support"))))))
+
+(define-public crate-xterm-js-sys-4.6.0-alpha1 (c (n "xterm-js-sys") (v "4.6.0-alpha1") (d (list (d (n "js-sys") (r "^0.3.37") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.63") (f (quote ("strict-macro"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.13") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.37") (f (quote ("Element" "HtmlTextAreaElement" "KeyboardEvent" "MouseEvent"))) (d #t) (k 0)))) (h "0wldk2rdrnj68flrxxrnddqp8ygrinj6mdqnfgnv8jnz0nkkkpgv") (f (quote (("ext") ("default" "ext") ("crossterm-support"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io as yn async-cron-scheduler) #:use-module (crates-io))
+
+(define-public crate-async-cron-scheduler-1.0.0 (c (n "async-cron-scheduler") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "cron") (r "^0.11.0") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "slotmap") (r "^1.0.6") (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 2)) (d (n "tracing") (r "^0.1.34") (o #t) (d #t) (k 0)))) (h "1srpp4lky3n9cxf1zzcv17y1ll5j2fgfngfighm3srgjbsga94cm") (f (quote (("logging" "tracing"))))))
+
+(define-public crate-async-cron-scheduler-2.0.0 (c (n "async-cron-scheduler") (v "2.0.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "cron") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "slotmap") (r "^1.0.7") (d #t) (k 0)) (d (n "smol") (r "^2.0.0") (d #t) (k 2)) (d (n "tachyonix") (r "^0.2.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)))) (h "0jmr0sq3i24nwyqs4fv23nzy9rf7ijb7w5prmidwcvkv0nl4nlb6") (y #t) (s 2) (e (quote (("logging" "dep:tracing"))))))
+
+(define-public crate-async-cron-scheduler-2.0.1 (c (n "async-cron-scheduler") (v "2.0.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "cron") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "slotmap") (r "^1.0.7") (d #t) (k 0)) (d (n "smol") (r "^2.0.0") (d #t) (k 2)) (d (n "tachyonix") (r "^0.2.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)))) (h "0n7bvgi1g7dx6gqqq1iw41cz1s2x69rawycsqwsyq2z4007slkqh") (s 2) (e (quote (("logging" "dep:tracing"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io en cr encrust) #:use-module (crates-io))
+
+(define-public crate-encrust-0.1.0 (c (n "encrust") (v "0.1.0") (d (list (d (n "chacha20") (r "^0.9.1") (d #t) (k 2)) (d (n "encrust-core") (r "^0.1.0") (k 0)) (d (n "encrust-macros") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "zeroize") (r "^1.6.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "13nnk888n253yw276x819zgy7wy2l6dzawa3w626pbjhibkwmjyk") (f (quote (("std" "encrust-core/std") ("rand" "encrust-core/rand") ("default" "macros" "rand" "std") ("all" "macros" "rand" "std")))) (s 2) (e (quote (("macros" "dep:encrust-macros" "encrust-core/macros"))))))
+
+(define-public crate-encrust-0.1.1 (c (n "encrust") (v "0.1.1") (d (list (d (n "chacha20") (r "^0.9.1") (d #t) (k 2)) (d (n "encrust-core") (r "^0.1.0") (k 0)) (d (n "encrust-macros") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "zeroize") (r "^1.6.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "1i156p7mky3cryjks08sfak7cg4vxdvy8sfnc8amkz6z5n59f9q9") (f (quote (("std" "encrust-core/std") ("rand" "encrust-core/rand") ("default" "macros" "rand" "std") ("all" "macros" "rand" "std")))) (s 2) (e (quote (("macros" "dep:encrust-macros" "encrust-core/macros"))))))
+

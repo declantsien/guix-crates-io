@@ -1,0 +1,28 @@
+(define-module (crates-io li bi libimaglog) #:use-module (crates-io))
+
+(define-public crate-libimaglog-0.6.0 (c (n "libimaglog") (v "0.6.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "0569gafpnr9k73hh6lcb35g4gpzda3s2wmjzkdip05iipcg0f176")))
+
+(define-public crate-libimaglog-0.6.2 (c (n "libimaglog") (v "0.6.2") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.2") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "0kaxy43bmyyz22mwgkvnrmikbmkfw8jw9n8l58xcdwmizavzxd0w")))
+
+(define-public crate-libimaglog-0.6.3 (c (n "libimaglog") (v "0.6.3") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "1l54q4qj7rka9f0nzdw7wmlyr0g0mdk3jla34f93119d2dkr2csv")))
+
+(define-public crate-libimaglog-0.6.4 (c (n "libimaglog") (v "0.6.4") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "15ay98220z6hyplh985868j0fl3nr3zjsqmdvhnzlyrv5gl1mgy9")))
+
+(define-public crate-libimaglog-0.7.0 (c (n "libimaglog") (v "0.7.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "06i55457h3wzvpijlvbfs0nbffxlhqvll3dqxljw24wazkavzbmz")))
+
+(define-public crate-libimaglog-0.7.1 (c (n "libimaglog") (v "0.7.1") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "1gv1m14l0q0nk29hjx8ka5304fyyla6mil7xmpmr0bvhd7h7jjcx")))
+
+(define-public crate-libimaglog-0.8.0 (c (n "libimaglog") (v "0.8.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.8.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "12hvyv23q1fk52arwpigfd0ywvyg94l66y71nbpf0rwzg37wd4c4")))
+
+(define-public crate-libimaglog-0.9.0 (c (n "libimaglog") (v "0.9.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "1gsqc3i47l4kxpzxhwficq43zsq9mcgjcz41pmr1ysk1p78519c1")))
+
+(define-public crate-libimaglog-0.9.1 (c (n "libimaglog") (v "0.9.1") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "1yjs2zi1gybg73zv99r1an3iwadg488802fbc6ja59n11rl681fi")))
+
+(define-public crate-libimaglog-0.9.2 (c (n "libimaglog") (v "0.9.2") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "1abqfydhr7i4m1k13b8p8z9g2npzgrf0z1wxskigppbvrfy9k8cf")))
+
+(define-public crate-libimaglog-0.9.3 (c (n "libimaglog") (v "0.9.3") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "0yrwxa3r7g65bxln6g5fay7jdvgwc487k6dj9hj059p0yd1hy3aq")))
+
+(define-public crate-libimaglog-0.10.0 (c (n "libimaglog") (v "0.10.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagentryutil") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "toml-query") (r "^0.9.2") (d #t) (k 0)))) (h "1w8ap9mv0hvnh75a24qvsla9wvn1z9bmm5mmqi64dw0g59s1d6yd")))
+
+(define-public crate-libimaglog-0.10.1 (c (n "libimaglog") (v "0.10.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagdiary") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagentryutil") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "toml-query") (r "^0.9.2") (d #t) (k 0)))) (h "0s0n6rnrpwmx91a5i4730lppn1fsmmp6zj0k9hqdy5lq7nlrsbp8")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ro ck rocket-gitee-pictures) #:use-module (crates-io))
+
+(define-public crate-rocket-gitee-pictures-0.0.1 (c (n "rocket-gitee-pictures") (v "0.0.1") (d (list (d (n "anyhow") (r "=1.0.42") (d #t) (k 0)) (d (n "base64") (r "=0.13.0") (d #t) (k 0)) (d (n "deadpool-redis") (r "^0.6") (f (quote ("config"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "mime-sniffer") (r "=0.1") (d #t) (k 0)) (d (n "reqwest") (r "=0.11.4") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.1") (f (quote ("tls"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1n51ia9v4hqzsh29b7ipd8yvnl1q2w1wjd09hqx4cn51s4w18qw8")))
+
+(define-public crate-rocket-gitee-pictures-0.0.2 (c (n "rocket-gitee-pictures") (v "0.0.2") (d (list (d (n "anyhow") (r "=1.0.42") (d #t) (k 0)) (d (n "base64") (r "=0.13.0") (d #t) (k 0)) (d (n "deadpool-redis") (r "^0.6") (f (quote ("config"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "mime-sniffer") (r "=0.1") (d #t) (k 0)) (d (n "reqwest") (r "=0.11.4") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.1") (f (quote ("tls"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1j3d100fm17scdsf79q9ndwfm8q5sfb74wjqaf3x8vadykgyqyqa")))
+

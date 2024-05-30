@@ -1,0 +1,4 @@
+(define-module (crates-io st re stream-deck-plugin) #:use-module (crates-io))
+
+(define-public crate-stream-deck-plugin-0.1.0 (c (n "stream-deck-plugin") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (f (quote ("futures-sink" "sink"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt-multi-thread" "time" "sync" "macros"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.21.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tungstenite") (r "^0.21.0") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1xp0i5gm6i0061zsbcc4qkl6pm7x37n34mjpbpfa1m2nhm5q22qj")))
+

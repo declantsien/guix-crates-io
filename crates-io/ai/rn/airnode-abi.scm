@@ -1,0 +1,14 @@
+(define-module (crates-io ai rn airnode-abi) #:use-module (crates-io))
+
+(define-public crate-airnode-abi-0.1.0 (c (n "airnode-abi") (v "0.1.0") (d (list (d (n "ethereum-types") (r "^0.11") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "13pbs6fp198b1y6clzbx6jmr9nvgy5y82wd0i6xgv4xjxxh5j15k")))
+
+(define-public crate-airnode-abi-0.1.1 (c (n "airnode-abi") (v "0.1.1") (d (list (d (n "ethereum-types") (r "^0.11") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1vlfh2677w4bbz91v1fp6vn1ynic1jfk833s7wn7z94rgl7xdbk3")))
+
+(define-public crate-airnode-abi-0.1.2 (c (n "airnode-abi") (v "0.1.2") (d (list (d (n "ethereum-types") (r "^0.11") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1kyp9d3ryyggnwbg3hphdbhg2k6qlxzwhr71j0crjgcjacgyhcj7")))
+
+(define-public crate-airnode-abi-0.1.4 (c (n "airnode-abi") (v "0.1.4") (d (list (d (n "ethereum-types") (r "^0.13") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "17dp7b1qz97i820x93ga1r8r5a0mhjs2qd4w02hbmj8kb0yi4c3v")))
+
+(define-public crate-airnode-abi-0.1.5 (c (n "airnode-abi") (v "0.1.5") (d (list (d (n "ethereum-types") (r "^0.12.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hw24kdymdi40ymkwdp001v3nb3ykkmcmdvm6hyhv9w53zmc2y33")))
+
+(define-public crate-airnode-abi-0.2.0 (c (n "airnode-abi") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "ethereum-types") (r "^0.12.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1897d9lkhw7ly6bibngidk93d714wi150jmdfp4d2fam0jbf4wq7")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sq la sqlarfs) #:use-module (crates-io))
+
+(define-public crate-sqlarfs-0.1.0 (c (n "sqlarfs") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (o #t) (d #t) (k 0)) (d (n "nix") (r "^0.28.0") (f (quote ("fs"))) (d #t) (k 2)) (d (n "ouroboros") (r "^0.18.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled" "blob"))) (d #t) (k 0)) (d (n "same-file") (r "^1.0.6") (d #t) (k 0)) (d (n "serial_test") (r "^3.1.1") (d #t) (k 2)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "xpct") (r "^0.5.1") (f (quote ("diff"))) (d #t) (k 2)))) (h "16gxd4jqjy1l1v25xafn0z2srh9nnsx96vc5hds05kv2wkszhn48") (f (quote (("reference-conformance-tests") ("default" "deflate")))) (s 2) (e (quote (("deflate" "dep:flate2")))) (r "1.75.0")))
+

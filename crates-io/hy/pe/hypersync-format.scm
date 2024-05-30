@@ -1,0 +1,6 @@
+(define-module (crates-io hy pe hypersync-format) #:use-module (crates-io))
+
+(define-public crate-hypersync-format-0.1.0 (c (n "hypersync-format") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "faster-hex") (r "^0.9") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_test") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "130ws0c7l7pv3fydxps90g9mgnkiw5jqfv5c9izkv6zbns3xpc27")))
+
+(define-public crate-hypersync-format-0.1.1 (c (n "hypersync-format") (v "0.1.1") (d (list (d (n "alloy-primitives") (r "^0.7.4") (d #t) (k 0)) (d (n "arrayvec") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "faster-hex") (r "^0.9") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_test") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0xj1vmaygbhyg0m6cn6b87zvmxiwvff4fldkj2gpmrbpl10zpbgn")))
+

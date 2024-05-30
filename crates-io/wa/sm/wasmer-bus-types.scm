@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-bus-types) #:use-module (crates-io))
+
+(define-public crate-wasmer-bus-types-1.1.0 (c (n "wasmer-bus-types") (v "1.1.0") (d (list (d (n "bincode") (r "^1") (o #t) (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "rkyv") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)))) (h "0xvr34l6mhccppm9qgv4kqc6c81df51c68zq4c4v4yi66smh65mc") (f (quote (("enable_yaml" "serde_yaml") ("enable_xml" "serde-xml-rs") ("enable_rkyv" "rkyv") ("enable_num_enum" "num_enum") ("enable_mpack" "rmp-serde") ("enable_json" "serde_json") ("enable_bincode" "bincode") ("default" "enable_bincode" "enable_mpack" "enable_json" "enable_yaml" "enable_xml" "enable_num_enum"))))))
+

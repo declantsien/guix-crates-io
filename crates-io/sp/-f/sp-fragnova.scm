@@ -1,0 +1,4 @@
+(define-module (crates-io sp -f sp-fragnova) #:use-module (crates-io))
+
+(define-public crate-sp-fragnova-0.1.0 (c (n "sp-fragnova") (v "0.1.0") (d (list (d (n "codec") (r "^3.0.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "hex-literal") (r "^0.3.4") (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (k 0)) (d (n "protos") (r "^0.1.21") (k 0)) (d (n "scale-info") (r "^2.0") (f (quote ("derive"))) (k 0)) (d (n "sp-core") (r "^6.0.0") (k 0)) (d (n "sp-io") (r "^6.0.0") (k 0)) (d (n "sp-runtime") (r "^6.0.0") (o #t) (d #t) (k 0)) (d (n "sp-runtime-interface") (r "^6.0.0") (k 0)) (d (n "sp-std") (r "^4.0.0-dev") (k 0)))) (h "0w6mbwjrra4m4lq02z74hspyiiqx9ympxjysil0m6jq0gb33z3h7") (f (quote (("std" "sp-core/std" "sp-io/std" "sp-std/std" "sp-runtime/std" "sp-runtime-interface/std" "codec/std" "scale-info/std" "log/std" "lazy_static" "protos/std") ("default" "std"))))))
+

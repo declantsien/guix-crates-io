@@ -1,0 +1,14 @@
+(define-module (crates-io pi lo pilot) #:use-module (crates-io))
+
+(define-public crate-pilot-0.0.1 (c (n "pilot") (v "0.0.1") (d (list (d (n "serde") (r "^1.0.119") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 2)) (d (n "serde_with") (r "^1.6.0") (d #t) (k 0)) (d (n "surf") (r "^2.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0.2") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "1mg2zwmjn8hhcadvr1wqqmqj9a31dy5q2znqlf6f0ir33zy6hhbx") (f (quote (("default"))))))
+
+(define-public crate-pilot-0.0.2 (c (n "pilot") (v "0.0.2") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9") (d #t) (k 0)) (d (n "surf") (r "^2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "0frkybfna0dpqmhipq1jykykzinnynalslbd14i09izpjzialbaq") (f (quote (("default"))))))
+
+(define-public crate-pilot-0.0.3 (c (n "pilot") (v "0.0.3") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9") (d #t) (k 0)) (d (n "surf") (r "^2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "029vrsbjvi8h0v5cwagsrvk7w2x357q3cwm2al2zba6fib84c4z6") (f (quote (("default"))))))
+
+(define-public crate-pilot-0.0.4 (c (n "pilot") (v "0.0.4") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9") (d #t) (k 0)) (d (n "surf") (r "^2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "0k22c9nww1zhp7928lm339jrfi4rx9qiwzj9zffrvg8ix8yv3zba") (f (quote (("default"))))))
+
+(define-public crate-pilot-0.0.6 (c (n "pilot") (v "0.0.6") (d (list (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("default" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.28") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "1jlvk69rwcn5h3g1ibphszsqk3d32jgybs75lrr3a32084svdmlg") (f (quote (("default"))))))
+
+(define-public crate-pilot-0.0.7 (c (n "pilot") (v "0.0.7") (d (list (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("default" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.28") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "1jzd5p8lnigqqgm1lb8zlj5y91r59mlx47vnccj7kd3ci0fijf28") (f (quote (("default"))))))
+

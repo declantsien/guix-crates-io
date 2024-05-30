@@ -1,0 +1,8 @@
+(define-module (crates-io uu id uuid-mc) #:use-module (crates-io))
+
+(define-public crate-uuid-mc-0.1.0 (c (n "uuid-mc") (v "0.1.0") (d (list (d (n "md5") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "ureq") (r "^2.6.1") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (d #t) (k 0)))) (h "0dny1drjh0h9hw1hkb33q102mdfyhbcyajg33qql2miz2g4vxfd8") (f (quote (("online" "ureq" "serde" "uuid/serde") ("offline" "md5") ("default" "offline" "online"))))))
+
+(define-public crate-uuid-mc-0.2.0 (c (n "uuid-mc") (v "0.2.0") (d (list (d (n "md5") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "ureq") (r "^2.6.1") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (d #t) (k 0)))) (h "0ljbmijgnb4p69hhdn4lzlhzlqg9cs8p0kl0y9988dp108r5197k") (f (quote (("online" "ureq" "serde" "uuid/serde") ("offline" "md5") ("default" "offline" "online"))))))
+
+(define-public crate-uuid-mc-0.3.0 (c (n "uuid-mc") (v "0.3.0") (d (list (d (n "md5") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "ureq") (r "^2.6.1") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1dzv08h68i2cb8fza5xf7rwmkylhwvh907pic8wah4z11zkp9bxl") (f (quote (("online" "ureq") ("offline" "md5") ("default" "offline" "online"))))))
+

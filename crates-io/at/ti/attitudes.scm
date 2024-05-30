@@ -1,0 +1,6 @@
+(define-module (crates-io at ti attitudes) #:use-module (crates-io))
+
+(define-public crate-attitudes-0.1.0 (c (n "attitudes") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.176") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "1van1001n1ckf9h6yy9sa3pv9r3vgxmynk9ghw15wyzvfb9ryah8")))
+
+(define-public crate-attitudes-1.0.0 (c (n "attitudes") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (f (quote ("fuzzy-select"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.176") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)))) (h "0266b8gmxfqc2x2s0i9xv0w7k6xppyf8n4rmj51jrdcs6m1q20hb")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mp l- mpl-candy-machine-nano) #:use-module (crates-io))
+
+(define-public crate-mpl-candy-machine-nano-0.1.0 (c (n "mpl-candy-machine-nano") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (d #t) (k 0)) (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.2.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solana-gateway") (r "^0.1.1") (d #t) (k 0)) (d (n "solana-program") (r "^1.9.6") (d #t) (k 0)) (d (n "spl-associated-token-account") (r "^1.0.3") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0ac16pb5ia5f0p0rgcspfxhk6rqn5w8arwgv9azj50m232ck8asa") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

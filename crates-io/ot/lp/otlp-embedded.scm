@@ -1,0 +1,4 @@
+(define-module (crates-io ot lp otlp-embedded) #:use-module (crates-io))
+
+(define-public crate-otlp-embedded-0.0.1 (c (n "otlp-embedded") (v "0.0.1") (d (list (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "rust-embed") (r "^8") (f (quote ("mime-guess"))) (d #t) (k 0)) (d (n "schnellru") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.4.1") (d #t) (k 0) (p "madsim-tonic")) (d (n "tonic-build") (r "^0.4.2") (d #t) (k 1) (p "madsim-tonic-build")) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0b78flrmiw9rmi0wssar1yj1bir7cr1g9v732is6xrkmhdb3il0r")))
+

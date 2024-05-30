@@ -1,0 +1,10 @@
+(define-module (crates-io de fi defined) #:use-module (crates-io))
+
+(define-public crate-defined-0.2.0 (c (n "defined") (v "0.2.0") (d (list (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "1zw8f7v94qqf3a3r1fpkv6222m7l4nlbpb9jsvmvirhp67a3kjac") (f (quote (("default" "serde" "sea-query")))) (s 2) (e (quote (("serde" "dep:serde") ("sea-query" "dep:sea-query"))))))
+
+(define-public crate-defined-0.2.1 (c (n "defined") (v "0.2.1") (d (list (d (n "schemars") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "003blzi0y0vz2a8rfym84d9iv2g90z5r8mn74a61c7mgwwy8gsyk") (f (quote (("default" "schemars" "serde" "sea-query")))) (s 2) (e (quote (("serde" "dep:serde") ("sea-query" "dep:sea-query") ("schemars" "dep:schemars" "dep:serde_json"))))))
+
+(define-public crate-defined-0.2.2 (c (n "defined") (v "0.2.2") (d (list (d (n "oasgen") (r "^0.18") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "0vzff93biwyrlwbqvd4vz2z3ipvwrdah1avqf59znfbxkn1dc6qh") (f (quote (("default" "schemars" "serde" "sea-query" "oasgen")))) (s 2) (e (quote (("serde" "dep:serde") ("sea-query" "dep:sea-query") ("schemars" "dep:schemars" "dep:serde_json") ("oasgen" "dep:oasgen"))))))
+
+(define-public crate-defined-0.2.3 (c (n "defined") (v "0.2.3") (d (list (d (n "oasgen") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "sea-query") (r "^0.30") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "1izjmn1rc32as7ahj8lx28svp2vqjmf8qgp4lh3mcbb8hg50k5ph") (f (quote (("default" "schemars" "serde" "sea-query" "oasgen")))) (s 2) (e (quote (("serde" "dep:serde") ("sea-query" "dep:sea-query") ("schemars" "dep:schemars" "dep:serde_json") ("oasgen" "dep:oasgen"))))))
+

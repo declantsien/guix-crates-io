@@ -1,0 +1,8 @@
+(define-module (crates-io hw ca hwcalc) #:use-module (crates-io))
+
+(define-public crate-hwcalc-0.1.0 (c (n "hwcalc") (v "0.1.0") (d (list (d (n "dirs") (r "^4.0") (o #t) (k 0)) (d (n "hwcalc_lib") (r "^0.1.0") (d #t) (k 0)) (d (n "nix") (r "^0.24") (f (quote ("fs"))) (t "cfg(unix)") (k 0)) (d (n "rustyline") (r "^10.0") (o #t) (k 0)) (d (n "rustyline-derive") (r "^0.7") (o #t) (k 0)))) (h "01j93hl78mvc35l16qdlsia0i3fkj5xm17078an9dz60m4g00s1s") (f (quote (("small_max" "hwcalc_lib/small_max") ("readline" "rustyline" "dirs" "rustyline-derive") ("default" "readline"))))))
+
+(define-public crate-hwcalc-0.1.1 (c (n "hwcalc") (v "0.1.1") (d (list (d (n "dirs") (r "^4.0") (o #t) (k 0)) (d (n "hwcalc_lib") (r "^0.1.1") (d #t) (k 0)) (d (n "nix") (r "^0.24") (f (quote ("fs"))) (t "cfg(unix)") (k 0)) (d (n "rustyline") (r "^10.0") (o #t) (k 0)) (d (n "rustyline-derive") (r "^0.7") (o #t) (k 0)))) (h "1ygq6xfv4v77g5agahfrp0mcq8p0c05g2nd3sgiqs2dx7rximxl1") (f (quote (("small_max" "hwcalc_lib/small_max") ("readline" "rustyline" "dirs" "rustyline-derive") ("default" "readline")))) (r "1.56")))
+
+(define-public crate-hwcalc-0.2.0 (c (n "hwcalc") (v "0.2.0") (d (list (d (n "dirs") (r "^4.0") (o #t) (k 0)) (d (n "hwcalc_lib") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.24") (f (quote ("fs"))) (t "cfg(unix)") (k 0)) (d (n "rustyline") (r "^10.0") (o #t) (k 0)) (d (n "rustyline-derive") (r "^0.7") (o #t) (k 0)))) (h "0pankdj7pwhcf7ikgv28dd7kmlr6k9520c0b8q2wm963ykgmq6ad") (f (quote (("small_max" "hwcalc_lib/small_max") ("readline" "rustyline" "dirs" "rustyline-derive") ("default" "readline")))) (r "1.56")))
+

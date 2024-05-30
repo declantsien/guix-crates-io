@@ -1,0 +1,10 @@
+(define-module (crates-io mo rk morkovmap) #:use-module (crates-io))
+
+(define-public crate-morkovmap-0.1.0 (c (n "morkovmap") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ril") (r "^0.9.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive" "alloc" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "07l1jca6krnkxgrykpricbldv94l8pd7gv1k6xdpdvmqclwz0y1b")))
+
+(define-public crate-morkovmap-0.2.0 (c (n "morkovmap") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ril") (r "^0.9.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive" "alloc" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "1d848pvpqmllf7wqbh19ibvkagrm5qd82786wlkf28419rlv11hg")))
+
+(define-public crate-morkovmap-0.3.0 (c (n "morkovmap") (v "0.3.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ril") (r "^0.9.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive" "alloc" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "03w4pjwx2s029c8nfbladfyi7w5jjigbzzq2vqwhcpaia6yl9y2s")))
+
+(define-public crate-morkovmap-0.4.0 (c (n "morkovmap") (v "0.4.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "ril") (r "^0.9.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive" "alloc" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (f (quote ("serde" "union"))) (d #t) (k 0)))) (h "1qy5fi0m071p49siy5vnl38rd0hmhd0p686ndmkmk382k1yn027d")))
+

@@ -1,0 +1,42 @@
+(define-module (crates-io gi t- git-conventional) #:use-module (crates-io))
+
+(define-public crate-git-conventional-0.7.0 (c (n "git-conventional") (v "0.7.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^5") (f (quote ("std"))) (k 0)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1g065ayvcbjnn52y9qibk2sfpp6crilh0z8cksxjmzmr5q354hlq")))
+
+(define-public crate-git-conventional-0.8.0 (c (n "git-conventional") (v "0.8.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^5") (f (quote ("std"))) (k 0)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1rkkiz85xkhvfinh9v4hisv4rmim45plxdh3qqlgqszncpl3cqcz")))
+
+(define-public crate-git-conventional-0.9.0 (c (n "git-conventional") (v "0.9.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^5") (f (quote ("std"))) (k 0)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "0nbw7nxxb5crq64jwkkimh6rgh024i3fh73v8jdzj09gsw1d0vw2")))
+
+(define-public crate-git-conventional-0.9.1 (c (n "git-conventional") (v "0.9.1") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^6") (d #t) (k 0)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "120yjh1p74d6v0k7lqbd7kfy27wr7qab1q94hdv2ngn2cnfkcm5i")))
+
+(define-public crate-git-conventional-0.9.2 (c (n "git-conventional") (v "0.9.2") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1qnzynd7cx4bjm1r9p1j3pqldmz7qd8sagsdwcwhrmzkllgwbfgr")))
+
+(define-public crate-git-conventional-0.10.0 (c (n "git-conventional") (v "0.10.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1fa7zxcgk0nm1asyy7hr64azb3mq9yx5ijifqsi121vfpffsdkds")))
+
+(define-public crate-git-conventional-0.10.1 (c (n "git-conventional") (v "0.10.1") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "0c1fvyd5p4339si5pzj2q9ih69xja0bfkxnfg8v9nm2k1l4y5bci")))
+
+(define-public crate-git-conventional-0.10.2 (c (n "git-conventional") (v "0.10.2") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1vvxj56jrnxy2gagy9aw8w9q4kyd16233fbwa4b0mvc5gy4lqmyc")))
+
+(define-public crate-git-conventional-0.10.3 (c (n "git-conventional") (v "0.10.3") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1hk8cvjpbjycgc1lbgz3n6fhfpp1r6lvxvpj1g4ykfrrrb7c82rj")))
+
+(define-public crate-git-conventional-0.11.0 (c (n "git-conventional") (v "0.11.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "09szy4rl1jmm91plfa3f19sxlfdgh0kb98ln2dz9dla0if5a1yxn")))
+
+(define-public crate-git-conventional-0.11.1 (c (n "git-conventional") (v "0.11.1") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "14xv04892lfrc77116s7zsy0p1aibhiw5y6vr7w3jc6w9l2v119f")))
+
+(define-public crate-git-conventional-0.11.2 (c (n "git-conventional") (v "0.11.2") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "0zqjsrxzymmwqxpa6a6cq1n6bkyi52vpas2agp21hmpp82wlm6pr")))
+
+(define-public crate-git-conventional-0.11.3 (c (n "git-conventional") (v "0.11.3") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "1fwy1n4fxyqbkjzz77mdzylv37b51p23afl7xvhq4skqljzkab05")))
+
+(define-public crate-git-conventional-0.12.0 (c (n "git-conventional") (v "0.12.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "18791ixgm5xhhskd7gg87izli3flb4vjjiyr8n1nj05fk5pzvyj6")))
+
+(define-public crate-git-conventional-0.12.1 (c (n "git-conventional") (v "0.12.1") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)))) (h "0c82g54m3kbgmgz11w942r0vk40s8sanq4kdh901bvnfpn83w0y2") (f (quote (("unstable-trace")))) (r "1.60.0")))
+
+(define-public crate-git-conventional-0.12.2 (c (n "git-conventional") (v "0.12.2") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)) (d (n "winnow") (r "^0.3.0") (d #t) (k 0)))) (h "036874xwjq51mc33aws1kcbds5zwgjgjqfhw5njd3bppyw42iwa7") (r "1.60.0")))
+
+(define-public crate-git-conventional-0.12.3 (c (n "git-conventional") (v "0.12.3") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)) (d (n "winnow") (r "^0.4.0") (d #t) (k 0)))) (h "1wsz6m3wbkz19a6wz8k2b46ry24g7gy7f4pn59whlzdl13pi2a93") (r "1.60.0")))
+
+(define-public crate-git-conventional-0.12.4 (c (n "git-conventional") (v "0.12.4") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)) (d (n "winnow") (r "^0.5.0") (d #t) (k 0)))) (h "1b1dis915rys07rlz6g5x9rsqcgqkpcxbvlvv5yn18pilsnb2gab") (r "1.65.0")))
+
+(define-public crate-git-conventional-0.12.5 (c (n "git-conventional") (v "0.12.5") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)) (d (n "winnow") (r "^0.6.0") (d #t) (k 0)))) (h "1acswygzijandbvbdz934q3bnpiz1gqqa6ka127jixlhgi3xc5i6") (r "1.73")))
+
+(define-public crate-git-conventional-0.12.6 (c (n "git-conventional") (v "0.12.6") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "unicase") (r "^2.5") (d #t) (k 0)) (d (n "winnow") (r "^0.6.0") (d #t) (k 0)))) (h "0bg7s8jrlgj028ibfv900xp8ng0i2kfihb0wxkl81k443dbgfdc0") (r "1.73")))
+

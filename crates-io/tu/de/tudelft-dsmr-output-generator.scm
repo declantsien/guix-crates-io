@@ -1,0 +1,12 @@
+(define-module (crates-io tu de tudelft-dsmr-output-generator) #:use-module (crates-io))
+
+(define-public crate-tudelft-dsmr-output-generator-0.1.0 (c (n "tudelft-dsmr-output-generator") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0spsy46yhnszcs44qk66mnfns31ww061fh3w2i95x6qq4y682y8j")))
+
+(define-public crate-tudelft-dsmr-output-generator-0.1.1 (c (n "tudelft-dsmr-output-generator") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1h0y5q95m4svlivb3k7xyd59wkvx2wfibw2jink3whkzn0n0jhcc")))
+
+(define-public crate-tudelft-dsmr-output-generator-0.1.2 (c (n "tudelft-dsmr-output-generator") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "12s7awajwxqi54l9jyamjvc64833f5pxiz6kbv3syvfrpplps4yp")))
+
+(define-public crate-tudelft-dsmr-output-generator-0.1.3 (c (n "tudelft-dsmr-output-generator") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0my2n4gmcysddqr20plqw017flsf662np1nf33b9pc0agkmyqdm4")))
+
+(define-public crate-tudelft-dsmr-output-generator-0.1.4 (c (n "tudelft-dsmr-output-generator") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0by596hylhn1jq3fzc91z88h3pisiqa1vzn9gkbxvcn67xfkb70d")))
+

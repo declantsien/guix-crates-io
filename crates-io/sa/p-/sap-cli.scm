@@ -1,0 +1,10 @@
+(define-module (crates-io sa p- sap-cli) #:use-module (crates-io))
+
+(define-public crate-sap-cli-1.0.0 (c (n "sap-cli") (v "1.0.0") (d (list (d (n "clap") (r "^4.4.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (k 0)) (d (n "sap-ast") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-interpreter") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-lexer") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-parser") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-shared") (r "^1.0.0") (d #t) (k 0)))) (h "0bbfp57zxvbdhwk55lcck39jfbb9y8wxqq3d86lz8kf0wj5j29ap")))
+
+(define-public crate-sap-cli-1.0.1 (c (n "sap-cli") (v "1.0.1") (d (list (d (n "clap") (r "^4.4.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (k 0)) (d (n "sap-ast") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-interpreter") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-lexer") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-parser") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-shared") (r "^1.0.0") (d #t) (k 0)))) (h "0y3wxp7smiwrjvhwwk8fyxxrhih9jpswdjakx4lpg6v46jq85xx8")))
+
+(define-public crate-sap-cli-1.0.2 (c (n "sap-cli") (v "1.0.2") (d (list (d (n "clap") (r "^4.4.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (k 0)) (d (n "sap-ast") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-interpreter") (r "^1.0.2") (d #t) (k 0)) (d (n "sap-lexer") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-parser") (r "^1.0.0") (d #t) (k 0)) (d (n "sap-shared") (r "^1.0.0") (d #t) (k 0)))) (h "0frij8jwq2ixmjgnm6j3wn6zj6zkkj970xi1f6dizjgiyriv9gjv")))
+
+(define-public crate-sap-cli-1.0.3 (c (n "sap-cli") (v "1.0.3") (d (list (d (n "clap") (r "^4.4.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (k 0)) (d (n "sap-ast") (r "^1.0.1") (d #t) (k 0)) (d (n "sap-interpreter") (r "^1.0.3") (d #t) (k 0)) (d (n "sap-lexer") (r "^1.0.1") (d #t) (k 0)) (d (n "sap-parser") (r "^1.0.1") (d #t) (k 0)) (d (n "sap-shared") (r "^1.0.1") (d #t) (k 0)))) (h "0dx4nw2gib5chvd1n46p2f01cj9mwpfsx0pkfad0k2lkwnsgb8iv")))
+

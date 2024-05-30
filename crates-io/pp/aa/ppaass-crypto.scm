@@ -1,0 +1,10 @@
+(define-module (crates-io pp aa ppaass-crypto) #:use-module (crates-io))
+
+(define-public crate-ppaass-crypto-0.1.0 (c (n "ppaass-crypto") (v "0.1.0") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "cipher") (r "^0.4") (d #t) (k 0)) (d (n "ecb") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rsa") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.5") (f (quote ("v4"))) (d #t) (k 2)))) (h "0bsq1sixlgpc1hyvakz1chmidqnai6a3iv22rr2k01ikyizpl9p1")))
+
+(define-public crate-ppaass-crypto-0.1.1 (c (n "ppaass-crypto") (v "0.1.1") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "cipher") (r "^0.4") (d #t) (k 0)) (d (n "ecb") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rsa") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.5") (f (quote ("v4"))) (d #t) (k 2)))) (h "09mai9f941bwch9yvgvqk4ihl2zzca3q4q2hpa9wb8s62mx9xm5m")))
+
+(define-public crate-ppaass-crypto-0.1.2 (c (n "ppaass-crypto") (v "0.1.2") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "cipher") (r "^0.4") (d #t) (k 0)) (d (n "ecb") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rsa") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.5") (f (quote ("v4"))) (d #t) (k 2)))) (h "1dmdwas0hsr5pl9pdja49zwill0mcsfgm8gm67q70019z7vj8hhm")))
+
+(define-public crate-ppaass-crypto-0.1.3 (c (n "ppaass-crypto") (v "0.1.3") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "cipher") (r "^0.4") (d #t) (k 0)) (d (n "ecb") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rsa") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.5") (f (quote ("v4"))) (d #t) (k 2)))) (h "1n0ymg6aswhihvbbaknmbz3dkhkqbkbasn5a75gqywhmjhhsw8zq")))
+

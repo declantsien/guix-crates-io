@@ -1,0 +1,6 @@
+(define-module (crates-io no ti notion-into-sqlite) #:use-module (crates-io))
+
+(define-public crate-notion-into-sqlite-0.1.0 (c (n "notion-into-sqlite") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.27.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0xywsfp8sjwy5kqsli4zyr58217jc16mlzcxl3xc5l4hgpwsi61w")))
+
+(define-public crate-notion-into-sqlite-0.1.2 (c (n "notion-into-sqlite") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.27.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1qap6dl4vckdryg0db1nivj1zk69gas2i35immfwv6fa0kilfj1l")))
+

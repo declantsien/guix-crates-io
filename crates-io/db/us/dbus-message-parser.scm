@@ -1,0 +1,28 @@
+(define-module (crates-io db us dbus-message-parser) #:use-module (crates-io))
+
+(define-public crate-dbus-message-parser-1.0.0 (c (n "dbus-message-parser") (v "1.0.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.10") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)))) (h "1kgvg1r8syilcw3piavxnvfmgqh4vfq2rg35ix8ni6sf7cjjk9cm")))
+
+(define-public crate-dbus-message-parser-2.0.0 (c (n "dbus-message-parser") (v "2.0.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)))) (h "1yc86vp3yzmlxnrnbdr2dp2j4dvzfn3fkil0id9fbjxqpqjh37wh")))
+
+(define-public crate-dbus-message-parser-2.1.0 (c (n "dbus-message-parser") (v "2.1.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)))) (h "1z1z0anpgrrxq1fx8183l8dkwyjx89yzrvpmlq9l25bz1xrmn29n")))
+
+(define-public crate-dbus-message-parser-2.2.0 (c (n "dbus-message-parser") (v "2.2.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)))) (h "1zlpkzrfwa55xvgp0h1y5jw7kp75fgv66ny8h32ka7b15r0aaq1z")))
+
+(define-public crate-dbus-message-parser-2.3.0 (c (n "dbus-message-parser") (v "2.3.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)))) (h "0nvfzqkw8kzji7g008zqf9w2nw6fdnfagykmzz1iaks3i2n4zsvr")))
+
+(define-public crate-dbus-message-parser-3.0.0 (c (n "dbus-message-parser") (v "3.0.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "0w6ih0p4s58ad43ic5adhh2ap5lrr15325gj9fw2g58psrmlsx42")))
+
+(define-public crate-dbus-message-parser-3.0.1 (c (n "dbus-message-parser") (v "3.0.1") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "1v2vglyb5mdh3djg0dgg247kbpngyld7xk991h73iqf8ypwk7xg3")))
+
+(define-public crate-dbus-message-parser-3.1.0 (c (n "dbus-message-parser") (v "3.1.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)))) (h "1dncfx78mkcv3c8xxs51d7kdggxs8gwm2cfx1w0f2wphdp9x9mwv")))
+
+(define-public crate-dbus-message-parser-4.0.1 (c (n "dbus-message-parser") (v "4.0.1") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "bytes") (r "~1.0") (d #t) (k 0)) (d (n "cfg-if") (r "~1.0") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4") (d #t) (k 0)) (d (n "regex") (r "~1.4.2") (d #t) (k 0)) (d (n "thiserror") (r "~1.0.23") (d #t) (k 0)))) (h "1aaawd5i4j1a7dy0k24lp10fwwz39ix0xabsl8n5rc8lj16ig516")))
+
+(define-public crate-dbus-message-parser-4.1.0 (c (n "dbus-message-parser") (v "4.1.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "bytes") (r "~1.0.1") (d #t) (k 0)) (d (n "cfg-if") (r "~1.0.0") (d #t) (k 0)) (d (n "criterion") (r "~0.3.4") (d #t) (k 2)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0.23") (d #t) (k 0)))) (h "1qavzrycxksr5vmlx8n9pfwcz7wlrvclykaxf0h4df4d0kx8a68g")))
+
+(define-public crate-dbus-message-parser-4.2.0 (c (n "dbus-message-parser") (v "4.2.0") (d (list (d (n "bitflags") (r "~1.2.1") (d #t) (k 0)) (d (n "bytes") (r "~1.0.1") (d #t) (k 0)) (d (n "cfg-if") (r "~1.0.0") (d #t) (k 0)) (d (n "criterion") (r "~0.3.5") (d #t) (k 2)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0.26") (d #t) (k 0)))) (h "1v6czlar4k58674v3i892b577xlgs4qazg5sapaf9q0690dvrgf2")))
+
+(define-public crate-dbus-message-parser-4.3.0 (c (n "dbus-message-parser") (v "4.3.0") (d (list (d (n "bitflags") (r "~1.3.1") (d #t) (k 0)) (d (n "bytes") (r "~1.1.0") (d #t) (k 0)) (d (n "cfg-if") (r "~1.0.0") (d #t) (k 0)) (d (n "criterion") (r "~0.3.5") (d #t) (k 2)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0.26") (d #t) (k 0)))) (h "04myzhgj5h7l8c2rcqqi31ifvrmzvcy3v6bz6c3i2j76gj8pkl5b")))
+
+(define-public crate-dbus-message-parser-4.3.1 (c (n "dbus-message-parser") (v "4.3.1") (d (list (d (n "bitflags") (r "~1.3.1") (d #t) (k 0)) (d (n "bytes") (r "~1.1.0") (d #t) (k 0)) (d (n "cfg-if") (r "~1.0.0") (d #t) (k 0)) (d (n "criterion") (r "~0.3.5") (d #t) (k 2)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "thiserror") (r "~1.0.26") (d #t) (k 0)))) (h "0l57ks4r0r8y729k0dx7ygdqsmxnxgfacj1qmcbf1xbgbgbdrjm1")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ax um axum-embed) #:use-module (crates-io))
+
+(define-public crate-axum-embed-0.1.0 (c (n "axum-embed") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "axum-core") (r "^0.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 2)) (d (n "http") (r "^1") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 2)) (d (n "mime_guess") (r "^2") (d #t) (k 0)) (d (n "rust-embed") (r "^8") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 2)) (d (n "tower-http") (r "^0.5.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0qlyxgfgk95dx527znysx8b7xsr88lq87d4hmxv8chygz2kmjy87")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io sf io sfio-rustls-config) #:use-module (crates-io))
+
+(define-public crate-sfio-rustls-config-0.1.0 (c (n "sfio-rustls-config") (v "0.1.0") (d (list (d (n "pem") (r "^2.0.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.21") (f (quote ("dangerous_configuration"))) (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.100.1") (d #t) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)) (d (n "zeroize") (r "^1.6.0") (d #t) (k 0)))) (h "0bnf4sr5fnzh6byc353cia86mwrf6wzhv2gn3n290y5snmmmqpyx")))
+
+(define-public crate-sfio-rustls-config-0.1.1 (c (n "sfio-rustls-config") (v "0.1.1") (d (list (d (n "pem") (r "^2.0.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.21") (f (quote ("dangerous_configuration"))) (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.100.1") (d #t) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)))) (h "1y6yfzn3r42dsk2hbrc231s3m6ablgnaarkvy43sscgjs03f50c7")))
+
+(define-public crate-sfio-rustls-config-0.1.2 (c (n "sfio-rustls-config") (v "0.1.2") (d (list (d (n "pem") (r "^3.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.21") (f (quote ("dangerous_configuration"))) (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.101.3") (d #t) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)))) (h "0b9qgkbwckh1ggyqjq8fncnz3c1zhxx1nsp62mhkci0pnfn2spbm")))
+
+(define-public crate-sfio-rustls-config-0.2.0 (c (n "sfio-rustls-config") (v "0.2.0") (d (list (d (n "pem") (r "^3.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.22.1") (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.102") (d #t) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)))) (h "1n52pc78ppb322305qyqj1wsp5llk2v35br18j1cn4wpfsra8lqg") (r "1.74")))
+
+(define-public crate-sfio-rustls-config-0.3.0 (c (n "sfio-rustls-config") (v "0.3.0") (d (list (d (n "pem") (r "^3.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.23") (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.102") (d #t) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)))) (h "02hv06m9lkp5iknx0jqda7xhc64pg200ipkkvx27r0sjzmpiiv7w") (r "1.74")))
+
+(define-public crate-sfio-rustls-config-0.3.1 (c (n "sfio-rustls-config") (v "0.3.1") (d (list (d (n "pem") (r "^3.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.23") (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.102") (f (quote ("std" "aws_lc_rs"))) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)))) (h "1f2pkpdvphj3rh86rspf0j3jy27lbgr5dwllqxw9ngkznfzllgg8") (r "1.74")))
+
+(define-public crate-sfio-rustls-config-0.3.2 (c (n "sfio-rustls-config") (v "0.3.2") (d (list (d (n "pem") (r "^3.0") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10.2") (f (quote ("encryption" "pkcs5" "pem" "std"))) (d #t) (k 0)) (d (n "rustls") (r "^0.23") (f (quote ("std" "logging" "tls12" "ring"))) (k 0)) (d (n "rustls-webpki") (r "^0.102") (f (quote ("std" "ring"))) (k 0)) (d (n "rx509") (r "^0.2") (d #t) (k 0)))) (h "1027hj49cyr525b1mza0jkq37zjww0srav016aw33wlcf6ldhpg7") (r "1.74")))
+

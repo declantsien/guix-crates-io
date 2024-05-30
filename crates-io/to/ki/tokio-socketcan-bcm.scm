@@ -1,0 +1,10 @@
+(define-module (crates-io to ki tokio-socketcan-bcm) #:use-module (crates-io))
+
+(define-public crate-tokio-socketcan-bcm-0.1.0 (c (n "tokio-socketcan-bcm") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "nix") (r "^0.13") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "0n5bm0bhw39b40fbnblvswv9azh70mixqlrq3515zlswl19dip1s") (f (quote (("try_from"))))))
+
+(define-public crate-tokio-socketcan-bcm-0.1.1 (c (n "tokio-socketcan-bcm") (v "0.1.1") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "nix") (r "^0.13") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "15zlav17m0x70a5z6p1j9ifsrvrmrpnvq0ylw5133x2zwlx8r024") (f (quote (("try_from"))))))
+
+(define-public crate-tokio-socketcan-bcm-0.2.0 (c (n "tokio-socketcan-bcm") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "nix") (r "^0.13") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "1mvybyj5wppdlrx566vdvnhbik0kwyqb38a11rnqm2qyrb8kq6nc") (f (quote (("try_from"))))))
+
+(define-public crate-tokio-socketcan-bcm-1.0.0 (c (n "tokio-socketcan-bcm") (v "1.0.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "nix") (r "^0.18") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("net" "macros"))) (d #t) (k 0)))) (h "0f6w9pm7cx2f7lwpygwmmk6jdzrna5f8vxnxklc07vbff782hqz8")))
+

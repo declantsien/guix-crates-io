@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_mod_gltf_patched) #:use-module (crates-io))
+
+(define-public crate-bevy_mod_gltf_patched-0.1.0 (c (n "bevy_mod_gltf_patched") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.4") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy") (r "^0.9") (f (quote ("bevy_asset" "bevy_scene" "render"))) (k 0)) (d (n "bevy") (r "^0.9") (f (quote ("bevy_winit" "x11"))) (k 2)) (d (n "gltf") (r "^1.0.0") (f (quote ("KHR_lights_punctual" "KHR_materials_unlit" "extras" "names" "utils"))) (k 0)) (d (n "percent-encoding") (r "^2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0f94rh20prm8s9vx5bqhs397cl6978ipj1gsd6qkgs2ij8ix61pf")))
+
+(define-public crate-bevy_mod_gltf_patched-0.2.0 (c (n "bevy_mod_gltf_patched") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.4") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bevy") (r "^0.10") (f (quote ("bevy_asset" "bevy_core_pipeline" "bevy_gltf" "bevy_pbr" "bevy_render" "bevy_scene"))) (k 0)) (d (n "gltf") (r "^1.0.0") (f (quote ("KHR_lights_punctual" "KHR_materials_unlit" "extras" "names" "utils"))) (k 0)) (d (n "percent-encoding") (r "^2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "bevy") (r "^0.10") (f (quote ("bevy_sprite" "bevy_winit" "x11"))) (k 2)))) (h "08pr29j0dyw6a02p479v570lyjy9zihsbpw8awgvbyn1gjqz4qa6")))
+

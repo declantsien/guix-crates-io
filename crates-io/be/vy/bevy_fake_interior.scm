@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy_fake_interior) #:use-module (crates-io))
+
+(define-public crate-bevy_fake_interior-0.0.1 (c (n "bevy_fake_interior") (v "0.0.1") (d (list (d (n "bevy") (r "^0.12.0") (f (quote ("bevy_asset" "bevy_render" "bevy_pbr"))) (k 0)) (d (n "bevy") (r "^0.12.0") (f (quote ("dynamic_linking" "file_watcher" "asset_processor" "basis-universal"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.21") (d #t) (k 2)) (d (n "bevy_panorbit_camera") (r "^0.9") (f (quote ("bevy_egui"))) (d #t) (k 2)) (d (n "bevy_spectator") (r "^0.4.0") (d #t) (k 2)))) (h "1ivznv3nqbdxldaz8c9l021wmqbn3wclibnj0fp4i3l79yyswb9k")))
+
+(define-public crate-bevy_fake_interior-0.0.2 (c (n "bevy_fake_interior") (v "0.0.2") (d (list (d (n "bevy") (r "^0.13.0") (f (quote ("bevy_asset" "bevy_render" "bevy_pbr"))) (k 0)) (d (n "bevy") (r "^0.13.0") (f (quote ("dynamic_linking" "file_watcher" "embedded_watcher" "asset_processor" "basis-universal" "jpeg" "tga" "exr" "zlib" "zstd" "ktx2"))) (d #t) (k 2)) (d (n "bevy-inspector-egui") (r "^0.23") (d #t) (k 2)) (d (n "bevy_panorbit_camera") (r "^0.17") (f (quote ("bevy_egui"))) (d #t) (k 2)) (d (n "bevy_spectator") (r "^0.5.0") (d #t) (k 2)))) (h "1d8zcnc53iihl27rnfvq61jgmjzv60shh3ik5dcmf8dg55rk6456")))
+

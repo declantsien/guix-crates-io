@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmswap2023) #:use-module (crates-io))
+
+(define-public crate-wasmswap2023-0.1.2-v2023 (c (n "wasmswap2023") (v "0.1.2-v2023") (d (list (d (n "cosmwasm-schema") (r "^1.1.3") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.1.3") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.1.3") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^1.1.3") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.16.2") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^1.0.1") (d #t) (k 0)) (d (n "cw0") (r "^0.10.3") (d #t) (k 0)) (d (n "cw2") (r "^1.0.1") (d #t) (k 0)) (d (n "cw20") (r "^1.1.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.1.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "138pc1k0ixywcpj70mk97ncgjrfss2p5bfzzzl9l3sr8j1gm9f2q") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

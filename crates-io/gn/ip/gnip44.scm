@@ -1,0 +1,4 @@
+(define-module (crates-io gn ip gnip44) #:use-module (crates-io))
+
+(define-public crate-gnip44-0.1.1 (c (n "gnip44") (v "0.1.1") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chacha20") (r "^0.9") (d #t) (k 0)) (d (n "constant_time_eq") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hkdf") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (f (quote ("global-context"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.111") (f (quote ("std" "alloc" "arbitrary_precision" "float_roundtrip" "indexmap" "preserve_order" "raw_value" "unbounded_depth"))) (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0y0yw8h6rcf5q972z81j2x4vdn6ghsrxlf7rj6zn28fygcbf0cc3")))
+

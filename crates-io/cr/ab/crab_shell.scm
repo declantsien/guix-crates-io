@@ -1,0 +1,8 @@
+(define-module (crates-io cr ab crab_shell) #:use-module (crates-io))
+
+(define-public crate-crab_shell-0.1.0 (c (n "crab_shell") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crab_env") (r "^0.1.6") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "nu-ansi-term") (r "^0.36.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "reedline") (r "^0.2.0") (d #t) (k 0)))) (h "16zixxz0j12z2b0bqijqdvfghcagq97w5hszclx61yqd13sqv344")))
+
+(define-public crate-crab_shell-0.1.1 (c (n "crab_shell") (v "0.1.1") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crab_env") (r "^0.1.10") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "nu-ansi-term") (r "^0.36.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "reedline") (r "^0.2.0") (d #t) (k 0)))) (h "0n5x3acwmmqkqn5f67hd9vigv2a2kig6qpc0bpiz3hksdg3mj9qg")))
+
+(define-public crate-crab_shell-0.1.2 (c (n "crab_shell") (v "0.1.2") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crab_env") (r "^0.1.11") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "nu-ansi-term") (r "^0.36.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "reedline") (r "^0.2.0") (d #t) (k 0)))) (h "0prwmfnk2iazaczs2cx9060sxbczyljgzdbhhvvqn8v5k9a1x379")))
+

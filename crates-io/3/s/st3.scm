@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# s st3) #:use-module (crates-io))
+
+(define-public crate-st3-0.1.0 (c (n "st3") (v "0.1.0") (d (list (d (n "cache-padded") (r "^1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "06s9s8rfdphaj64rx472xcrq42ah4c6x410vn8a8zk6l7ad2ly9j") (f (quote (("long_counter") ("default" "long_counter")))) (r "1.56")))
+
+(define-public crate-st3-0.1.1 (c (n "st3") (v "0.1.1") (d (list (d (n "cache-padded") (r "^1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "09bmd1ga092861nnav1xgynwry8ka1vj1zw9dhd3n1jyi9c10qrn") (f (quote (("long_counter") ("default" "long_counter")))) (r "1.56")))
+
+(define-public crate-st3-0.2.0 (c (n "st3") (v "0.2.0") (d (list (d (n "cache-padded") (r "^1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "09s742yry2g3mwjqg00kqxik74silzm1zgii8vmppsy9cg57p1as") (f (quote (("long_counter") ("default" "long_counter")))) (r "1.56")))
+
+(define-public crate-st3-0.3.0 (c (n "st3") (v "0.3.0") (d (list (d (n "cache-padded") (r "^1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "0jq11a0h76g9v3c2g5xim5ndh5rnmvcjlind9jm2pbrb83ax9lf9") (f (quote (("long_counter") ("default" "long_counter")))) (r "1.56")))
+
+(define-public crate-st3-0.3.1 (c (n "st3") (v "0.3.1") (d (list (d (n "cache-padded") (r "^1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "1knkp9iykl1lp47bq6kpyz9paajynyzr37700c4bh8khzcln0jiv") (f (quote (("long_counter") ("default" "long_counter")))) (r "1.56")))
+
+(define-public crate-st3-0.4.0 (c (n "st3") (v "0.4.0") (d (list (d (n "cache-padded") (r "^1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "1mh300zm365a61yz3w52d5imkdzk4vbjxgzid9y3bcs0iydx9b7d") (r "1.60")))
+
+(define-public crate-st3-0.4.1 (c (n "st3") (v "0.4.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "crossbeam-deque") (r "^0.8") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.8.14") (k 0)) (d (n "loom") (r "^0.5") (d #t) (t "cfg(st3_loom)") (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "oorandom") (r "^11.1") (d #t) (k 2)))) (h "1wbv18rg5b35wpj4ks6cdbp7mrhm4qhkmjvmh0ilv469qk7d58f5") (r "1.60")))
+

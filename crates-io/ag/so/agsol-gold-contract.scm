@@ -1,0 +1,4 @@
+(define-module (crates-io ag so agsol-gold-contract) #:use-module (crates-io))
+
+(define-public crate-agsol-gold-contract-0.0.0-alpha (c (n "agsol-gold-contract") (v "0.0.0-alpha") (d (list (d (n "agsol-borsh-schema") (r "^0.0.1") (d #t) (k 0)) (d (n "agsol-common") (r "^0.2.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "agsol-testbench") (r "^0.0.1-alpha.1") (d #t) (k 2)) (d (n "agsol-token-metadata") (r "^0.0.0-alpha") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "borsh-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "solana-program") (r "^1.9.0") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.9.0") (d #t) (k 2)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0icrfqvrpysz5j5inmrm2px6xbr5jq9sa8v50h7i4787sx6z1q4h") (f (quote (("test-bpf" "client" "num-derive" "num-traits") ("client"))))))
+

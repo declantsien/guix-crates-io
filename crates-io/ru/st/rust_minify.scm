@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust_minify) #:use-module (crates-io))
+
+(define-public crate-rust_minify-0.1.0 (c (n "rust_minify") (v "0.1.0") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0.6") (d #t) (k 2)) (d (n "once_cell") (r "^1.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.39") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (f (quote ("full" "visit" "visit-mut" "extra-traits"))) (d #t) (k 0)) (d (n "test-case") (r "^2.1.0") (d #t) (k 2)))) (h "1md2f918drk5py5474ls1pz67hxx8civsz2g6lnbw7mb0k3bjdfq")))
+
+(define-public crate-rust_minify-0.1.1 (c (n "rust_minify") (v "0.1.1") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0.6") (d #t) (k 2)) (d (n "once_cell") (r "^1.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.39") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (f (quote ("full" "visit" "visit-mut" "extra-traits"))) (d #t) (k 0)) (d (n "test-case") (r "^2.1.0") (d #t) (k 2)))) (h "0hpgw3ax1rpqf2x7qnsmxfcdfn0w3rh4kldfxfz1splqh9j0qk94")))
+
+(define-public crate-rust_minify-0.1.2 (c (n "rust_minify") (v "0.1.2") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0.6") (d #t) (k 2)) (d (n "once_cell") (r "^1.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.39") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "syn") (r "^1.0.95") (f (quote ("full" "visit" "visit-mut" "extra-traits"))) (d #t) (k 0)) (d (n "test-case") (r "^2.1.0") (d #t) (k 2)))) (h "0b99lj8al8ls2qk5vl2r0dywa4hwdfjlrri5kxxw2kpqkxcmfhdm")))
+

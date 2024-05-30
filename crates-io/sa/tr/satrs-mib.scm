@@ -1,0 +1,14 @@
+(define-module (crates-io sa tr satrs-mib) #:use-module (crates-io))
+
+(define-public crate-satrs-mib-0.1.0-alpha.0 (c (n "satrs-mib") (v "0.1.0-alpha.0") (d (list (d (n "csv") (r "^1") (o #t) (d #t) (k 0)) (d (n "satrs-core") (r "^0.1.0-alpha.0") (d #t) (k 0)) (d (n "satrs-mib-codegen") (r "^0.1.0-alpha.0") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)))) (h "1faknp3hvkq9fbkiyv4di9rynqr3fd36f8hpa8i4algddfv863sn") (f (quote (("std" "csv" "serde/std") ("default" "std")))) (r "1.61")))
+
+(define-public crate-satrs-mib-0.1.0-alpha.1 (c (n "satrs-mib") (v "0.1.0-alpha.1") (d (list (d (n "csv") (r "^1") (o #t) (d #t) (k 0)) (d (n "satrs-core") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "satrs-mib-codegen") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)))) (h "175sci527ln33j8s3h2vlcysnj591py1a7rfmclnv8kz4q56k0dz") (f (quote (("std" "csv" "serde/std") ("default" "std")))) (r "1.61")))
+
+(define-public crate-satrs-mib-0.1.0-alpha.2 (c (n "satrs-mib") (v "0.1.0-alpha.2") (d (list (d (n "csv") (r "^1") (o #t) (d #t) (k 0)) (d (n "satrs-core") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "satrs-mib-codegen") (r "^0.1.0-alpha.2") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)))) (h "1am8npcg4smffnfvw87rhw1ngg8hnjn4y2jv5df7ymbnidl3d0lb") (f (quote (("std" "csv" "serde/std") ("default" "std")))) (r "1.61")))
+
+(define-public crate-satrs-mib-0.1.0 (c (n "satrs-mib") (v "0.1.0") (d (list (d (n "csv") (r "^1") (o #t) (d #t) (k 0)) (d (n "satrs-mib-codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "satrs-shared") (r "^0.1.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)))) (h "0jp10ss8978x1p7hgnh8rf3kf8d23caa03a8p707i53gcwfmsiml") (f (quote (("std" "csv" "serde/std") ("default" "std")))) (r "1.61")))
+
+(define-public crate-satrs-mib-0.1.1 (c (n "satrs-mib") (v "0.1.1") (d (list (d (n "csv") (r "^1") (o #t) (d #t) (k 0)) (d (n "satrs-mib-codegen") (r "^0.1.1") (d #t) (k 0)) (d (n "satrs-shared") (r "^0.1.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)))) (h "0f17h43f2gys3d4jplzzx6vf1a3asrml2bqph8zadfvr8vf1irb0") (f (quote (("std" "csv" "serde/std") ("default" "std")))) (r "1.61")))
+
+(define-public crate-satrs-mib-0.1.2 (c (n "satrs-mib") (v "0.1.2") (d (list (d (n "csv") (r "^1") (o #t) (d #t) (k 0)) (d (n "satrs-mib-codegen") (r "^0.1.2") (d #t) (k 0)) (d (n "satrs-shared") (r ">=0.1.3, <0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde-hex") (r "^0.1.0") (d #t) (k 0)))) (h "1a1k9m12168zivymaab0vch2mxpmky9g3pkq00fslxmv33vba38p") (f (quote (("std" "csv" "serde/std") ("default" "std")))) (r "1.61")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io qt um qtum_hashes) #:use-module (crates-io))
+
+(define-public crate-qtum_hashes-0.12.0-qtum (c (n "qtum_hashes") (v "0.12.0-qtum") (d (list (d (n "actual-schemars") (r "<=0.8.3") (o #t) (d #t) (k 0) (p "schemars")) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "dyn-clone") (r "<=1.0.7") (o #t) (k 0)) (d (n "internals") (r "^0.1.0-qtum") (d #t) (k 0) (p "qtum-private")) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (t "wasm32-unknown-unknown") (k 2)))) (h "18dhr2jpi4ybrkyfgnlndw01xksgsz4cckhpdxm0yjm9pzfp7hqx") (f (quote (("std" "alloc" "internals/std") ("serde-std" "serde/std") ("schemars" "actual-schemars" "dyn-clone") ("default" "std") ("alloc" "internals/alloc"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io cy cl cyclic_data_types) #:use-module (crates-io))
+
+(define-public crate-cyclic_data_types-0.2.0 (c (n "cyclic_data_types") (v "0.2.0") (d (list (d (n "arraydeque") (r "^0.4") (d #t) (k 2)) (d (n "arrayvec") (r "^0.7.2") (d #t) (k 2)) (d (n "circular-queue") (r "^0.2.6") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ring_queue") (r "^0.2.0") (d #t) (k 2)) (d (n "ringbuffer") (r "^0.11.1") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 2)))) (h "0r08nk14010q81hmij7iv18va1km2z7k3sjs121if31iiay1pafc")))
+
+(define-public crate-cyclic_data_types-0.2.1 (c (n "cyclic_data_types") (v "0.2.1") (d (list (d (n "arraydeque") (r "^0.4") (d #t) (k 2)) (d (n "arrayvec") (r "^0.7.2") (d #t) (k 2)) (d (n "circular-queue") (r "^0.2.6") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ring_queue") (r "^0.2.0") (d #t) (k 2)) (d (n "ringbuffer") (r "^0.11.1") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 2)))) (h "0mxaymsx8v5qli3d3ikjgg0y27kyjq5jvwb6izjvxmg60npa2z56")))
+
+(define-public crate-cyclic_data_types-0.2.2 (c (n "cyclic_data_types") (v "0.2.2") (d (list (d (n "arraydeque") (r "^0.4") (d #t) (k 2)) (d (n "arrayvec") (r "^0.7.2") (d #t) (k 2)) (d (n "circular-queue") (r "^0.2.6") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ring_queue") (r "^0.2.0") (d #t) (k 2)) (d (n "ringbuffer") (r "^0.11.1") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 2)))) (h "1ihrk1q3a5vglnldn7szqmaj7hbc4k84syqh2w7sjav3y80y7pgd")))
+
+(define-public crate-cyclic_data_types-0.2.3 (c (n "cyclic_data_types") (v "0.2.3") (d (list (d (n "arraydeque") (r "^0.4") (d #t) (k 2)) (d (n "arrayvec") (r "^0.7.2") (d #t) (k 2)) (d (n "circular-queue") (r "^0.2.6") (d #t) (k 2)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ring_queue") (r "^0.2.0") (d #t) (k 2)) (d (n "ringbuffer") (r "^0.11.1") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 2)))) (h "17428lyl190p2jgjm8jyjbcnx8lmi5l5jf7nmy46s2y8gkqdlj5z")))
+

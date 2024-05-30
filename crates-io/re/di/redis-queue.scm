@@ -1,0 +1,6 @@
+(define-module (crates-io re di redis-queue) #:use-module (crates-io))
+
+(define-public crate-redis-queue-0.1.0 (c (n "redis-queue") (v "0.1.0") (d (list (d (n "redis") (r "^0.23") (f (quote ("aio" "connection-manager" "tokio-comp"))) (k 0)) (d (n "str-buf") (r "^3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("time"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "net" "time" "macros" "test-util"))) (k 2)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^1") (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (k 2)))) (h "1pi28k3kdx47mcj95mmli2rwbyzyiys4nqvd7s43q7yd7czs10cw") (f (quote (("manager"))))))
+
+(define-public crate-redis-queue-0.2.0 (c (n "redis-queue") (v "0.2.0") (d (list (d (n "redis") (r "^0.24") (f (quote ("aio" "connection-manager" "tokio-comp"))) (k 0)) (d (n "str-buf") (r "^3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("time"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "net" "time" "macros" "test-util"))) (k 2)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^1") (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (k 2)))) (h "1rvlzlnij39zq5fwdk2624zzpzp0iizkxrgrscazca9npvf38cxc") (f (quote (("manager"))))))
+

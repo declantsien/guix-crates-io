@@ -1,0 +1,10 @@
+(define-module (crates-io cr ea create-leptos-csr-tw) #:use-module (crates-io))
+
+(define-public crate-create-leptos-csr-tw-0.1.0 (c (n "create-leptos-csr-tw") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "05y5ymiffgwa0njrg8z3v9yp2iyvjzdn1w7n4csws83a48gci4jp") (y #t)))
+
+(define-public crate-create-leptos-csr-tw-0.2.0 (c (n "create-leptos-csr-tw") (v "0.2.0") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "copy_dir") (r "^0.1.3") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "0df3hvwpkw6d861a77nrmdripmv8s6kn717qln6bijn3b8x17ywn") (y #t)))
+
+(define-public crate-create-leptos-csr-tw-0.2.1 (c (n "create-leptos-csr-tw") (v "0.2.1") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "00zgz7zn256y82szsqc00y8m9xqw91ysmxpllwgsz6g86kgkppln") (y #t)))
+
+(define-public crate-create-leptos-csr-tw-0.2.2 (c (n "create-leptos-csr-tw") (v "0.2.2") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "1ai229s3g2bi3pygw5vylayg72flcv2437yifpzdidwmnr892xy3")))
+

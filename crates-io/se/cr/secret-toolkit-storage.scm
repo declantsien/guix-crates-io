@@ -1,0 +1,22 @@
+(define-module (crates-io se cr secret-toolkit-storage) #:use-module (crates-io))
+
+(define-public crate-secret-toolkit-storage-0.2.0 (c (n "secret-toolkit-storage") (v "0.2.0") (d (list (d (n "cosmwasm-std") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0rcgnqc2c7wwnjzbl7dm6rf253cwirl6r07rqsw4d6p1dclir43p")))
+
+(define-public crate-secret-toolkit-storage-0.3.0 (c (n "secret-toolkit-storage") (v "0.3.0") (d (list (d (n "cosmwasm-std") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0wrpw6q668900qnw205jywlh5fj46df5w03n475br0mqr348ss7v")))
+
+(define-public crate-secret-toolkit-storage-0.4.0 (c (n "secret-toolkit-storage") (v "0.4.0") (d (list (d (n "cosmwasm-std") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1jh0297ymvprzabjxhc02rg2g38cd9pmjzfiarnda47pyb5754by") (y #t)))
+
+(define-public crate-secret-toolkit-storage-0.4.1 (c (n "secret-toolkit-storage") (v "0.4.1") (d (list (d (n "cosmwasm-std") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1lsc3b1sqv5qjd2adbwyvip5n81sn5gr8xzyg2c3xbrf8wsv3nng")))
+
+(define-public crate-secret-toolkit-storage-0.4.2 (c (n "secret-toolkit-storage") (v "0.4.2") (d (list (d (n "cosmwasm-std") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1xl510g6y788cgc1ldirdiy9wa7207y890f90xdmfnpm1jqckawm")))
+
+(define-public crate-secret-toolkit-storage-0.5.0 (c (n "secret-toolkit-storage") (v "0.5.0") (d (list (d (n "cosmwasm-std") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^0.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0n10lr25vlnh9kx9r3hx7vnbvkdqrycgr1imbwzx3plxmw0nm41y")))
+
+(define-public crate-secret-toolkit-storage-0.6.0 (c (n "secret-toolkit-storage") (v "0.6.0") (d (list (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^1.0.0") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1ibgr8prbm6s5xn05ifnc1ypp362day6d3vl6c16br18769dk62l")))
+
+(define-public crate-secret-toolkit-storage-0.7.0 (c (n "secret-toolkit-storage") (v "0.7.0") (d (list (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^1.0.0") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1bhxd15dwjwzhl7vw5q51izwafkivkkzjm2abgx10rdmdkf2138y")))
+
+(define-public crate-secret-toolkit-storage-0.9.0 (c (n "secret-toolkit-storage") (v "0.9.0") (d (list (d (n "cosmwasm-std") (r "^1.1.10") (f (quote ("random"))) (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^1.1.10") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0kzgqkjd7mip616yaxyqh8c2520fl6bsdrg5z5sfipl9vgwcap7n")))
+
+(define-public crate-secret-toolkit-storage-0.10.0 (c (n "secret-toolkit-storage") (v "0.10.0") (d (list (d (n "cosmwasm-std") (r "^1.1.11") (f (quote ("random"))) (d #t) (k 0) (p "secret-cosmwasm-std")) (d (n "cosmwasm-storage") (r "^1.1.11") (d #t) (k 0) (p "secret-cosmwasm-storage")) (d (n "secret-toolkit-serialization") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "18zjk237cnjmacnrffxw1ls4misn5nrq7hri2cfsxrzki90wbs2m")))
+

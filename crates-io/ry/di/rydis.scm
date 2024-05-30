@@ -1,0 +1,14 @@
+(define-module (crates-io ry di rydis) #:use-module (crates-io))
+
+(define-public crate-rydis-0.1.0 (c (n "rydis") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "bitfield-struct") (r "^0.5.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.0") (d #t) (k 0)))) (h "15p1ydrbq2gm7gn84kc9np8pbsn4ayg5axcxrgikgdd1nc6ndn29") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+
+(define-public crate-rydis-0.1.1 (c (n "rydis") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "bitfield-struct") (r "^0.5.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.0") (d #t) (k 0)))) (h "1ypg0hhp0vl627zkhyrlydrijfvz0xid83mxr5ff2k9fg40ha9aq") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+
+(define-public crate-rydis-0.1.2 (c (n "rydis") (v "0.1.2") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "bitfield-struct") (r "^0.5.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.0") (d #t) (k 0)))) (h "0hr46mjhcr05s9qawhh4srk6wzv6jg4yvh9m0pxfqyaj2xfcymh2") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+
+(define-public crate-rydis-0.1.3 (c (n "rydis") (v "0.1.3") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "bitfield-struct") (r "^0.5.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.0") (d #t) (k 0)))) (h "1glpzkbj5525vzdr1ilj6y3njmfwpxb71c664dcngddzhlgmx71p") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+
+(define-public crate-rydis-0.1.4 (c (n "rydis") (v "0.1.4") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "bitfield-struct") (r "^0.5.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.0") (d #t) (k 0)))) (h "018ch6cyaimzp96m9jr88hnzd9s6xz7bch50jz26x8qk12aqzmbh") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+
+(define-public crate-rydis-0.1.5 (c (n "rydis") (v "0.1.5") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "bitfield-struct") (r "^0.5.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.0") (d #t) (k 0)))) (h "1f18r5c6kwalx41m69x1z5y2dk7qq70572kza88nivr1bjbfjw11") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+

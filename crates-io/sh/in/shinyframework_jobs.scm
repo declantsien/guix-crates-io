@@ -1,0 +1,8 @@
+(define-module (crates-io sh in shinyframework_jobs) #:use-module (crates-io))
+
+(define-public crate-shinyframework_jobs-0.1.0 (c (n "shinyframework_jobs") (v "0.1.0") (h "185bnipjgza5cgw6xpqgyfsrqpi10zwvjfppdb77wwdj3iq3y26j")))
+
+(define-public crate-shinyframework_jobs-0.1.1 (c (n "shinyframework_jobs") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "saffron") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "shinyframework_common") (r "^0.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.53") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("time" "rt" "macros" "parking_lot"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("io"))) (d #t) (k 0)))) (h "16lwji8h6a2km8xj8crdb09081lxaavbv90hkmfdm4112p6bp4bs")))
+
+(define-public crate-shinyframework_jobs-0.1.2 (c (n "shinyframework_jobs") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "saffron") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "shinyframework_common") (r "^0.1.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("time" "rt" "macros" "parking_lot"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("io"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "00k4mrzs8aph0rls8p084a4ycayj5ngr8a1vjqlhg266fh0i7c8z")))
+

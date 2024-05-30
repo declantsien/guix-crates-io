@@ -1,0 +1,8 @@
+(define-module (crates-io me rc mercury-cli) #:use-module (crates-io))
+
+(define-public crate-mercury-cli-0.1.0 (c (n "mercury-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.9") (d #t) (k 0)))) (h "1w5sq8xq985v7djj9d50z3c77qprw1knmm13hgwpwck7q5ikcpsb")))
+
+(define-public crate-mercury-cli-0.1.1 (c (n "mercury-cli") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.9") (d #t) (k 0)))) (h "0vkxivsaxl7dlcjjama0q15m68qv0x9caamhyb37spx8bqrwl91r")))
+
+(define-public crate-mercury-cli-0.1.3 (c (n "mercury-cli") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.9") (d #t) (k 0)))) (h "10rby6lb6ph9nf5jp9vph356kgrgkcmp34h8w4raihbnxmk86r4p")))
+

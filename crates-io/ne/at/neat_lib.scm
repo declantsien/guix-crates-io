@@ -1,0 +1,6 @@
+(define-module (crates-io ne at neat_lib) #:use-module (crates-io))
+
+(define-public crate-neat_lib-0.1.0 (c (n "neat_lib") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng" "macro-diagnostics" "serde"))) (d #t) (k 0)))) (h "058bbpwj3rywsdbwlx6n31bqdgkynpf4vmh66773132x37l327bj")))
+
+(define-public crate-neat_lib-0.1.1 (c (n "neat_lib") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng" "macro-diagnostics" "serde"))) (d #t) (k 0)))) (h "1i8xyc8ipsxbcf4zmjb7dl7j1j9rnlkmfvhxh3j7wk78h52gnz09")))
+

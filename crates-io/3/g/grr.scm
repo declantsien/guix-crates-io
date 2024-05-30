@@ -1,0 +1,18 @@
+(define-module (crates-io #{3}# g grr) #:use-module (crates-io))
+
+(define-public crate-grr-0.1.0 (c (n "grr") (v "0.1.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.7") (d #t) (k 1)) (d (n "glutin") (r "^0.12") (d #t) (k 2)))) (h "1vyahw589n62sypg4b9z2byvrm13171bida6as4k9kfwm7qwy2zl")))
+
+(define-public crate-grr-0.2.0 (c (n "grr") (v "0.2.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.7") (d #t) (k 1)) (d (n "glutin") (r "^0.12") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)))) (h "1rkywa0nl40kkrk98r5kyl5f3ansgv6mj0nfsixcp05nh36hd6x5")))
+
+(define-public crate-grr-0.3.0 (c (n "grr") (v "0.3.0") (d (list (d (n "assimp") (r "^0.3") (d #t) (k 2)) (d (n "assimp-sys") (r "^0.3") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.10") (d #t) (k 1)) (d (n "glutin") (r "^0.12") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "nalgebra-glm") (r "^0.2") (d #t) (k 2)))) (h "15sj98incr82f6l8szy0y84iawgxvvn8v8cwig4pki6m9h40myp1")))
+
+(define-public crate-grr-0.4.0 (c (n "grr") (v "0.4.0") (d (list (d (n "assimp") (r "^0.3") (d #t) (k 2)) (d (n "assimp-sys") (r "^0.3") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.10") (d #t) (k 1)) (d (n "glutin") (r "^0.19") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "nalgebra-glm") (r "^0.2") (d #t) (k 2)) (d (n "ndarray") (r "^0.12") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0y0rky37w0pn2hiysrxa15zffw5611hfmrq4kgn140092m04qyss")))
+
+(define-public crate-grr-0.5.0 (c (n "grr") (v "0.5.0") (d (list (d (n "assimp") (r "^0.3") (d #t) (k 2)) (d (n "assimp-sys") (r "^0.3") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.10") (d #t) (k 1)) (d (n "glutin") (r "^0.19") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "nalgebra-glm") (r "^0.2") (d #t) (k 2)) (d (n "ndarray") (r "^0.12") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0iphcpdaq3xsy686544vwnmg0f8wbwqkya3crr16ipjap0ii3qgf")))
+
+(define-public crate-grr-0.6.0 (c (n "grr") (v "0.6.0") (d (list (d (n "assimp") (r "^0.3") (d #t) (k 2)) (d (n "assimp-sys") (r "^0.3") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.10") (d #t) (k 1)) (d (n "glutin") (r "^0.19") (d #t) (k 2)) (d (n "image") (r "^0.20") (d #t) (k 2)) (d (n "nalgebra-glm") (r "^0.2") (d #t) (k 2)) (d (n "ndarray") (r "^0.12") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0mzz6a17a1727dcv7xylv7l3805jjdzzbh26wz8vdmbyirzar6kj")))
+
+(define-public crate-grr-0.7.0 (c (n "grr") (v "0.7.0") (d (list (d (n "assimp") (r "^0.3") (d #t) (k 2)) (d (n "assimp-sys") (r "^0.3") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.10") (d #t) (k 1)) (d (n "glutin") (r "^0.21") (d #t) (k 2)) (d (n "image") (r "^0.21") (d #t) (k 2)) (d (n "nalgebra-glm") (r "^0.4") (d #t) (k 2)) (d (n "ndarray") (r "^0.12") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0ny7fsy2qylgk9n2jw5kaap0x2ipsbhjhwm0rs8mj7sbkzv7vscw")))
+
+(define-public crate-grr-0.8.0 (c (n "grr") (v "0.8.0") (d (list (d (n "assimp") (r "^0.3") (d #t) (k 2)) (d (n "assimp-sys") (r "^0.3") (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gl_generator") (r "^0.14") (d #t) (k 1)) (d (n "glutin") (r "^0.21") (d #t) (k 2)) (d (n "image") (r "^0.23") (d #t) (k 2)) (d (n "nalgebra-glm") (r "^0.4") (d #t) (k 2)) (d (n "ndarray") (r "^0.13") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "1s13i71ragd9gck0wr9cq304saj5ick9fhzbl8gb67s6i6z880ay")))
+

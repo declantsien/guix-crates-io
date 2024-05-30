@@ -1,0 +1,6 @@
+(define-module (crates-io di ff diffusion_to) #:use-module (crates-io))
+
+(define-public crate-diffusion_to-0.1.0 (c (n "diffusion_to") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "base64") (r "^0.21.4") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread" "fs"))) (d #t) (k 0)))) (h "0b65fhzgaayijpar1l9szqd3x7mm8j8v2ks550ldll1gwii0q2qf")))
+
+(define-public crate-diffusion_to-0.2.0 (c (n "diffusion_to") (v "0.2.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "futures-timer") (r "^3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1dqswx69yylv0621hzrmapljwh0asv43kwlf6cdpxpzq6k278vc4")))
+

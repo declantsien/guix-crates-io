@@ -1,0 +1,4 @@
+(define-module (crates-io ne rr nerror) #:use-module (crates-io))
+
+(define-public crate-nerror-0.1.0 (c (n "nerror") (v "0.1.0") (d (list (d (n "bollard-next") (r "^0.15.4") (o #t) (d #t) (k 0)) (d (n "diesel") (r "^2.1.2") (o #t) (k 0)) (d (n "ntex") (r "^0.7.7") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (o #t) (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)))) (h "1vkyif7chch122x52fcqaclvnglbvdwf2l0fwvr6gbh2rpl2zzkw") (f (quote (("io") ("http_client" "io" "http" "serde_urlencoded")))) (s 2) (e (quote (("serde_yaml" "dep:serde_yaml") ("serde_urlencoded" "dep:serde_urlencoded") ("serde_json" "dep:serde_json") ("ntex" "dep:ntex") ("http" "ntex" "dep:serde_json") ("diesel" "dep:diesel") ("bollard" "dep:bollard-next"))))))
+

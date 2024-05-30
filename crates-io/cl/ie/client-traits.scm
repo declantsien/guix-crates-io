@@ -1,0 +1,4 @@
+(define-module (crates-io cl ie client-traits) #:use-module (crates-io))
+
+(define-public crate-client-traits-0.1.0 (c (n "client-traits") (v "0.1.0") (d (list (d (n "account-state") (r "^0.1.0") (d #t) (k 0)) (d (n "blockchain") (r "^0.1.0") (d #t) (k 0) (p "vapcore-blockchain")) (d (n "bytes") (r "^0.1.0") (d #t) (k 0) (p "tetsy-bytes")) (d (n "call-contract") (r "^0.1.0") (d #t) (k 0) (p "vapcore-call-contract")) (d (n "common-types") (r "^0.1.0") (d #t) (k 0)) (d (n "tetsy-kvdb") (r "^0.3.2") (d #t) (k 0)) (d (n "tetsy-registrar") (r "^0.0.1") (d #t) (k 0)) (d (n "tetsy-stats") (r "^0.1.0") (d #t) (k 0)) (d (n "tetsy-vm") (r "^0.1.0") (d #t) (k 0)) (d (n "vapcore-db") (r "^0.1.0") (d #t) (k 0)) (d (n "vapcore-miner") (r "^1.12.0") (d #t) (k 0)) (d (n "vapcore-trace") (r "^0.1.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "012fs6irzsj10092qh9vhfhj0626dkpdnvxdy1mbcj04n69cs9z9")))
+

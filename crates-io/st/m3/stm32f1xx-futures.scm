@@ -1,0 +1,4 @@
+(define-module (crates-io st m3 stm32f1xx-futures) #:use-module (crates-io))
+
+(define-public crate-stm32f1xx-futures-0.1.0 (c (n "stm32f1xx-futures") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.6.3") (d #t) (k 0)) (d (n "cortex-m-rtic") (r "^0.5.5") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.7") (k 0)) (d (n "futures-intrusive") (r "^0.3.1") (k 0)) (d (n "futures-util") (r "^0.3.7") (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "polymer-core") (r "^0.1.0") (d #t) (k 0)) (d (n "stm32f1xx-hal") (r "^0.7.0") (f (quote ("rt"))) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "05m3bwkszr17pl7ycyird77cmmskgp80nc43rnvrikn3bihn2nsl") (f (quote (("stm32f103" "stm32f1xx-hal/stm32f103") ("stm32f101" "stm32f1xx-hal/stm32f101") ("stm32f100" "stm32f1xx-hal/stm32f100") ("stm32-usbd" "stm32f1xx-hal/stm32-usbd") ("default"))))))
+

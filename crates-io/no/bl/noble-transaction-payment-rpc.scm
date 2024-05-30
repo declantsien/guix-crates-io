@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-transaction-payment-rpc) #:use-module (crates-io))
+
+(define-public crate-noble-transaction-payment-rpc-2.0.0 (c (n "noble-transaction-payment-rpc") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "noble-transaction-payment-rpc-runtime-api") (r "^2.0.0") (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core-client") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-derive") (r "^15.1.0") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-blockchain") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-rpc") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)))) (h "08igzscwhbqfh3cgfljci7a36k396x1qn0lswrr1j1a71pq0m05j")))
+

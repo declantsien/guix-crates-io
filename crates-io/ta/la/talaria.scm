@@ -1,0 +1,6 @@
+(define-module (crates-io ta la talaria) #:use-module (crates-io))
+
+(define-public crate-talaria-0.1.0 (c (n "talaria") (v "0.1.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "loom") (r "^0.7") (d #t) (t "cfg(loom)") (k 0)) (d (n "loom") (r "^0.7") (d #t) (k 2)) (d (n "pprof") (r "^0.13") (f (quote ("flamegraph" "criterion"))) (d #t) (k 2)) (d (n "shuttle") (r "^0.6") (d #t) (t "cfg(shuttle)") (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0dlfnlidz5z8393jfyxij057003gcarjyq1jjiy81vpag1128gcc")))
+
+(define-public crate-talaria-0.1.1 (c (n "talaria") (v "0.1.1") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "loom") (r "^0.7") (d #t) (t "cfg(loom)") (k 0)) (d (n "loom") (r "^0.7") (d #t) (k 2)) (d (n "pprof") (r "^0.13") (f (quote ("flamegraph" "criterion"))) (d #t) (k 2)) (d (n "shuttle") (r "^0.6") (d #t) (t "cfg(shuttle)") (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1y7m17ql8xrialinqfpwm69crhdgf6v20q2p1iz9h0pxaxwyim85")))
+

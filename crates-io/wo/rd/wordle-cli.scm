@@ -1,0 +1,6 @@
+(define-module (crates-io wo rd wordle-cli) #:use-module (crates-io))
+
+(define-public crate-wordle-cli-1.0.0 (c (n "wordle-cli") (v "1.0.0") (d (list (d (n "any_ascii") (r "^0.3.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15") (d #t) (k 0)) (d (n "diesel") (r "^1.4.8") (f (quote ("sqlite" "chrono"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.0") (d #t) (k 0)) (d (n "sys-locale") (r "^0.2.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "1l8rvf5y8wrhr71z6nwz0y9b9lip58cb02bsvkg1avp6qis9x7f0")))
+
+(define-public crate-wordle-cli-1.0.1 (c (n "wordle-cli") (v "1.0.1") (d (list (d (n "any_ascii") (r "^0.3.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15") (d #t) (k 0)) (d (n "diesel") (r "^1.4.8") (f (quote ("sqlite" "chrono"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "uuid") (r "^1.1.1") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "0fjj1yfj1cpkkwlpgcn0lakrzrpnj9dx96mhscr8apwj1siyrixm")))
+

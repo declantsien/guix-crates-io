@@ -1,0 +1,8 @@
+(define-module (crates-io ta la talap) #:use-module (crates-io))
+
+(define-public crate-talap-0.1.0 (c (n "talap") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.0") (d #t) (k 0)) (d (n "doe") (r "^0.1.29") (d #t) (k 0)) (d (n "educe") (r "^0.4.0") (f (quote ("Debug" "Clone"))) (k 0)) (d (n "hyper") (r "^0.10.0") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.3.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "slash-formatter") (r "^3.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^1.3.1") (d #t) (k 0)))) (h "1xf1rg0scvxkbr9hqmqj3dcjixfbbgqccqjkipyxi210bybp5g2b")))
+
+(define-public crate-talap-0.1.1 (c (n "talap") (v "0.1.1") (d (list (d (n "doe") (r "^0.1.29") (d #t) (k 0)) (d (n "educe") (r "^0.4.0") (f (quote ("Debug" "Clone"))) (k 0)) (d (n "hyper") (r "^0.10.0") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.3.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "slash-formatter") (r "^3.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^1.3.1") (d #t) (k 0)))) (h "07pi5hn1623zx4lzp317qw7x1nsag364bn46k23l9h0s7gvx0syn")))
+
+(define-public crate-talap-0.1.2 (c (n "talap") (v "0.1.2") (d (list (d (n "doe") (r "^0.1.29") (d #t) (k 0)) (d (n "educe") (r "^0.4.0") (f (quote ("Debug" "Clone"))) (k 0)) (d (n "hyper") (r "^0.10.0") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.3.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "slash-formatter") (r "^3.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^1.3.1") (d #t) (k 0)))) (h "1ib30zq5dwd18y8k7bwnhyy7g4n301j3j31p48r85akx9gb8xn8y")))
+

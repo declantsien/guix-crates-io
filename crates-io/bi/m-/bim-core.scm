@@ -1,0 +1,10 @@
+(define-module (crates-io bi m- bim-core) #:use-module (crates-io))
+
+(define-public crate-bim-core-0.15.0 (c (n "bim-core") (v "0.15.0") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22") (d #t) (k 0)))) (h "0g0rl6z4qf227057lfsmq5bsay071rsj6q7inxzifn4krk827wlf")))
+
+(define-public crate-bim-core-0.15.2 (c (n "bim-core") (v "0.15.2") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22") (d #t) (k 0)))) (h "1snf1ycil980zi301j6h9m5yfpgwbzcln11bp27hjfik8srb93jq")))
+
+(define-public crate-bim-core-0.15.3 (c (n "bim-core") (v "0.15.3") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22") (d #t) (k 0)))) (h "1d7fzw8hdb62rjahpi1ppp4c3z62f62xi2idjx28kbkn6hbc6zzd")))
+
+(define-public crate-bim-core-0.15.4 (c (n "bim-core") (v "0.15.4") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustls") (r "^0.20") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22") (d #t) (k 0)))) (h "156mnjj59axhb2pc7b7b5a56fvchx9wjzc9i6ixg6byw9na2fxd3")))
+

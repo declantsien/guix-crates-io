@@ -1,0 +1,4 @@
+(define-module (crates-io tr ac track-work) #:use-module (crates-io))
+
+(define-public crate-track-work-0.1.0 (c (n "track-work") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "config") (r "^0.13.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.4") (f (quote ("v4"))) (d #t) (k 0)) (d (n "windows") (r "^0.48") (f (quote ("Win32_Foundation" "Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "10ky4333xmlrc9xbaf3azdkl23lrk2zcvc2vj36li3gaz92z0si8")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io au gu augurs-changepoint) #:use-module (crates-io))
+
+(define-public crate-augurs-changepoint-0.1.2 (c (n "augurs-changepoint") (v "0.1.2") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "augurs-core") (r "^0.1.2") (d #t) (k 0)) (d (n "changepoint") (r "^0.14.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "distrs") (r "^0.2.1") (d #t) (k 0)) (d (n "iai") (r "^0.1.1") (d #t) (k 2)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "pprof") (r "^0.13.0") (f (quote ("criterion" "frame-pointer" "prost-codec"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.166") (f (quote ("derive" "derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1326cwrmpy80k31bhrffvd6zhsvmvd3dmk0ickkiddfqb5hgv7q5") (s 2) (e (quote (("serde" "dep:serde" "changepoint/serde"))))))
+

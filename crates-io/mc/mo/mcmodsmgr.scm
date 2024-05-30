@@ -1,0 +1,10 @@
+(define-module (crates-io mc mo mcmodsmgr) #:use-module (crates-io))
+
+(define-public crate-mcmodsmgr-0.0.1 (c (n "mcmodsmgr") (v "0.0.1") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "~0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "~1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1b6f9gh2d0fssjc93hd45z10hczgc26s6y2py9rpg8dla2q5zwp7") (y #t)))
+
+(define-public crate-mcmodsmgr-0.0.2 (c (n "mcmodsmgr") (v "0.0.2") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "~0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "~1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "140s6c52vmnpvklpi1kphh8plgwb0p5bzw457fsqkrawwxmc824k") (y #t)))
+
+(define-public crate-mcmodsmgr-0.0.3 (c (n "mcmodsmgr") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "~0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "~1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0v1ibmbk82kiy625hfysndmcfjjd60pj44801fdi6k4k13q8m1zw")))
+
+(define-public crate-mcmodsmgr-0.0.4 (c (n "mcmodsmgr") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "08yl1mkqffdj7afzd5a5rxphmnhqfab3g1aamiwy2qdbar8ggcyb")))
+

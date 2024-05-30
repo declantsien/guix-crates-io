@@ -1,0 +1,6 @@
+(define-module (crates-io br ew brew_outdated) #:use-module (crates-io))
+
+(define-public crate-brew_outdated-0.1.0 (c (n "brew_outdated") (v "0.1.0") (d (list (d (n "derive_more") (r "^0.99.7") (d #t) (k 0)) (d (n "fork") (r "^0.1.14") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "yansi") (r "^0.5.0") (d #t) (k 0)))) (h "0vp35q941y2fv0qjbdi4q6mzhxahxhxncjv8j3g4z8yiw30288hd")))
+
+(define-public crate-brew_outdated-0.2.0 (c (n "brew_outdated") (v "0.2.0") (d (list (d (n "derive_more") (r "^0.99.7") (d #t) (k 0)) (d (n "fork") (r "^0.1.14") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "yansi") (r "^0.5.0") (d #t) (k 0)))) (h "14af2ll3py6qnzcs2a2aah46qaf4kq929ywgd6ha43gx5nbrh8z4")))
+

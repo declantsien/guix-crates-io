@@ -1,0 +1,8 @@
+(define-module (crates-io yu bi yubikey-hmac-otp) #:use-module (crates-io))
+
+(define-public crate-yubikey-hmac-otp-0.10.0 (c (n "yubikey-hmac-otp") (v "0.10.0") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "block-modes") (r "^0.9") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rusb") (r "^0.9") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "structure") (r "^0.1") (d #t) (k 0)))) (h "0nkk9a1sbvysdad176ydyqlbk01p2sbr066wxvavgciv1skgh0wd")))
+
+(define-public crate-yubikey-hmac-otp-0.10.1 (c (n "yubikey-hmac-otp") (v "0.10.1") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "block-modes") (r "^0.9") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rusb") (r "^0.9") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "structure") (r "^0.1") (d #t) (k 0)))) (h "002kngp2jhg7ihdj87q5hwppjgyv4m9yi1040zkkab1is2mwhpq7")))
+
+(define-public crate-yubikey-hmac-otp-0.10.2 (c (n "yubikey-hmac-otp") (v "0.10.2") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "block-modes") (r "^0.9") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rusb") (r "^0.9") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "structure") (r "^0.1") (d #t) (k 0)))) (h "0ynvsdcg6fpr7hvmlbbhgp5rq495qpcn1mwc5pbxcmw66fl89lfx")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io #{2}# rn) #:use-module (crates-io))
+
+(define-public crate-rn-0.2.1 (c (n "rn") (v "0.2.1") (d (list (d (n "csv") (r "^1.0.0-beta.3") (d #t) (k 0)) (d (n "flate2") (r "^0.2.17") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "reqwest") (r "^0.6.2") (d #t) (k 0)) (d (n "rust-lzma") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "semver") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "spectral") (r "^0.6.0") (d #t) (k 2)) (d (n "tar") (r "^0.4.9") (d #t) (k 0)))) (h "13bz2raiavbzm6v9md0zmh71iqd1y31n3kas3m20hjx2wlm4p1sa")))
+
+(define-public crate-rn-0.2.2 (c (n "rn") (v "0.2.2") (d (list (d (n "csv") (r "^1.0.0-beta.3") (d #t) (k 0)) (d (n "flate2") (r "^0.2.17") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "reqwest") (r "^0.6.2") (d #t) (k 0)) (d (n "rust-lzma") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "semver") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "spectral") (r "^0.6.0") (d #t) (k 2)) (d (n "tar") (r "^0.4.9") (d #t) (k 0)))) (h "1s00bm76cpq6k7jpr4a2q7qnyck0m4rq4wv974p8gb9qs6s9k3w9")))
+

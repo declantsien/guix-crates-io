@@ -1,0 +1,20 @@
+(define-module (crates-io as tr astro-dnssd) #:use-module (crates-io))
+
+(define-public crate-astro-dnssd-0.1.0 (c (n "astro-dnssd") (v "0.1.0") (d (list (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)))) (h "0jcblx62xyh03cz7v8ll2iym79jpdzvfgyxjz8masilf2pp1s966")))
+
+(define-public crate-astro-dnssd-0.1.1 (c (n "astro-dnssd") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)))) (h "19a5g38amyav1kqsy6bg9ymicmwbr7bbkx5hgyysb4bl7lpkh1dr") (y #t)))
+
+(define-public crate-astro-dnssd-0.1.2 (c (n "astro-dnssd") (v "0.1.2") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)))) (h "0jxzjal1w33387q6lgfiygm24fsan8vsy8bfaw273bp07mk02l3r")))
+
+(define-public crate-astro-dnssd-0.1.3 (c (n "astro-dnssd") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)))) (h "02dwm0rpal7d1b7hnxdw6wsl8n7km2whixnwj8dqrx6hri6gyz0i")))
+
+(define-public crate-astro-dnssd-0.2.0 (c (n "astro-dnssd") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "libc") (r "^0.2") (o #t) (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winsock2"))) (o #t) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1zj83090zzcrwgd34s7s1rxj034aa28ar4qfl8gz868n6bkw13wf") (f (quote (("non-blocking" "winapi" "libc") ("default" "non-blocking"))))))
+
+(define-public crate-astro-dnssd-0.3.0 (c (n "astro-dnssd") (v "0.3.0") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "widestring") (r "^0.4.3") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winsock2"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1vi6k0xzpkc11skn4v2yadih9zljawmhl3iimarzas1db5i8rm9h") (f (quote (("win-bonjour") ("default"))))))
+
+(define-public crate-astro-dnssd-0.3.1 (c (n "astro-dnssd") (v "0.3.1") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "widestring") (r "^0.4.3") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winsock2"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1hzp001j5z5fa3n8zq3v4d12d3bpy3zkc6a9rmskwvzqp4iv4s9z") (f (quote (("win-bonjour") ("default"))))))
+
+(define-public crate-astro-dnssd-0.3.2 (c (n "astro-dnssd") (v "0.3.2") (d (list (d (n "env_logger") (r "^0.9.1") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "widestring") (r "^1.0.2") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winsock2"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1pkki9djlnvg203a4imxwvs5024xb33j7s13a5mia7rl1fb0m96b") (f (quote (("win-bonjour") ("default"))))))
+
+(define-public crate-astro-dnssd-0.3.4 (c (n "astro-dnssd") (v "0.3.4") (d (list (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(not(target_os = \"windows\"))") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "widestring") (r "^1.0.2") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winsock2"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0bbp0vkmn0j161rmm8i3wm58n3laqv1vk554pawrmqv70q1vay0y") (f (quote (("win-bonjour") ("default"))))))
+

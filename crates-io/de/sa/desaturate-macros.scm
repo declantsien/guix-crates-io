@@ -1,0 +1,10 @@
+(define-module (crates-io de sa desaturate-macros) #:use-module (crates-io))
+
+(define-public crate-desaturate-macros-0.0.0 (c (n "desaturate-macros") (v "0.0.0") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.49") (f (quote ("parsing" "proc-macro" "derive" "full" "visit"))) (d #t) (k 0)))) (h "0d058rxwp8j7w732zcfs2d5sy0qmyc1gcn4j6hgf6r1rh46yi291") (f (quote (("generate-non-async") ("generate-async")))) (y #t)))
+
+(define-public crate-desaturate-macros-0.0.1 (c (n "desaturate-macros") (v "0.0.1") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.49") (f (quote ("parsing" "proc-macro" "derive" "full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "04s4cvw1aad39lcm2hrx5yfxdrmmpd0rnf0x34dfv4j678i7q1qr") (f (quote (("generate-blocking") ("generate-async"))))))
+
+(define-public crate-desaturate-macros-0.0.2 (c (n "desaturate-macros") (v "0.0.2") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.49") (f (quote ("parsing" "proc-macro" "derive" "full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "1h61mb6c79yv0xpih43ccwhpg5jrxzmvkrvl4ia99ps8q1b315s9") (f (quote (("generate-blocking") ("generate-async"))))))
+
+(define-public crate-desaturate-macros-0.0.3 (c (n "desaturate-macros") (v "0.0.3") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.49") (f (quote ("parsing" "proc-macro" "derive" "full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "1fz8s2bbijaxfzlcr29szy6paf4zr9dcbhrg9wlxbq7c8yj0bc45") (f (quote (("generate-blocking") ("generate-async") ("dont-directly-import-this-crate") ("default" "dont-directly-import-this-crate"))))))
+

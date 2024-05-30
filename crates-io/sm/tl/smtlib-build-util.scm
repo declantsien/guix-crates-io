@@ -1,0 +1,6 @@
+(define-module (crates-io sm tl smtlib-build-util) #:use-module (crates-io))
+
+(define-public crate-smtlib-build-util-0.1.0 (c (n "smtlib-build-util") (v "0.1.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "miette") (r "^5.5.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.10") (f (quote ("indexmap"))) (d #t) (k 0)))) (h "0v737xzfl6lrpp363ij7qqq0bxld9q51zmizb4mjny1lpfx9rmd3")))
+
+(define-public crate-smtlib-build-util-0.1.8 (c (n "smtlib-build-util") (v "0.1.8") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "miette") (r "^5.5.0") (f (quote ("fancy"))) (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("indexmap"))) (d #t) (k 0)))) (h "145njayp7914b1hvnw4z9cvsmxz7f2qaln51bq044c5wg34asa0c")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io so na sonar_lib) #:use-module (crates-io))
+
+(define-public crate-sonar_lib-0.1.0 (c (n "sonar_lib") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (d #t) (k 0)) (d (n "pnet") (r "^0.34.0") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)))) (h "104f3sircs7j2hczn8d3p21585dckjvmnljj2gkimimzrbms92jv")))
+
+(define-public crate-sonar_lib-0.1.1 (c (n "sonar_lib") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (d #t) (k 0)) (d (n "pnet") (r "^0.34.0") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)))) (h "1csmgfb5f747a005nw9hgrx4mxckf6syrkrs7sw8g4dzvsf1lvp3")))
+
+(define-public crate-sonar_lib-0.1.2 (c (n "sonar_lib") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (d #t) (k 0)) (d (n "pnet") (r "^0.34.0") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)))) (h "0v4qkjnidipmy9r4s6h8id1c6ms93mxyab1x5394anp590yzx8va")))
+
+(define-public crate-sonar_lib-0.1.3 (c (n "sonar_lib") (v "0.1.3") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (d #t) (k 0)) (d (n "pnet") (r "^0.34.0") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)))) (h "0iybn9c8vcn5690rabqnsw2rwym767xzwbgifm0xwzlrg4kdcij0")))
+

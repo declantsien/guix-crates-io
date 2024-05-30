@@ -1,0 +1,20 @@
+(define-module (crates-io go og google-deploymentmanager2_beta1) #:use-module (crates-io))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.0+20141215 (c (n "google-deploymentmanager2_beta1") (v "0.1.0+20141215") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1qlvsiz3l7s2z7sii3178nyfq77cd77g6rvmlczp1w96bknadqqj")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.1+20141215 (c (n "google-deploymentmanager2_beta1") (v "0.1.1+20141215") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "0i11j2qfs7s7hw647jsp7i50lw6z89s9a65wsc00kb74s6003zz4")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.2+20141215 (c (n "google-deploymentmanager2_beta1") (v "0.1.2+20141215") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "13hqzpplncnyrb5sias7zsxxp7zv4vbvnhag9pbnvy5874x0mrlj")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.3+20150303 (c (n "google-deploymentmanager2_beta1") (v "0.1.3+20150303") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r "*") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "15m9h9rn775d5pjml2m3c51s6i7vqp20v9mr1mz7332r60xgnwcb")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.4+20150303 (c (n "google-deploymentmanager2_beta1") (v "0.1.4+20150303") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "11nwlqy93lc056f6i7fb2f524hjgk8j5p4cvh5k4k974z2lsx6mi")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.5+20150303 (c (n "google-deploymentmanager2_beta1") (v "0.1.5+20150303") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1ypwazshxh70xvrcg9429x3d1v5r671p6wmsmbwf45shfr6072h6")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.6+20150415 (c (n "google-deploymentmanager2_beta1") (v "0.1.6+20150415") (d (list (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1j80rs00ajgw90z7c0w4721ff71a87pb23b6p8f2p5z2w2bc2flv")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.7+20150415 (c (n "google-deploymentmanager2_beta1") (v "0.1.7+20150415") (d (list (d (n "hyper") (r ">= 0.4.0") (d #t) (k 0)) (d (n "json-tools") (r ">= 0.3.0") (d #t) (k 0)) (d (n "mime") (r "*") (d #t) (k 0)) (d (n "serde") (r ">= 0.3.0") (d #t) (k 0)) (d (n "serde_macros") (r "*") (d #t) (k 0)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "1hcky32gsp7icxk4ai5479qj6n8q5v6z94sxgd7m2gfv9b7f772y")))
+
+(define-public crate-google-deploymentmanager2_beta1-0.1.8+20150415 (c (n "google-deploymentmanager2_beta1") (v "0.1.8+20150415") (d (list (d (n "hyper") (r ">= 0.5.2") (d #t) (k 0)) (d (n "mime") (r "^0.0.11") (d #t) (k 0)) (d (n "serde") (r ">= 0.4.1") (d #t) (k 0)) (d (n "serde_codegen") (r "*") (d #t) (k 1)) (d (n "syntex") (r "*") (d #t) (k 1)) (d (n "url") (r "*") (d #t) (k 0)) (d (n "yup-oauth2") (r "*") (d #t) (k 0)))) (h "0vh9vh6g82iq4lbbm2js94g84hpdv8sh0p21q05f0cfka3icyi8z")))
+

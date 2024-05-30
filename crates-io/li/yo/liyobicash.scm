@@ -1,0 +1,4 @@
+(define-module (crates-io li yo liyobicash) #:use-module (crates-io))
+
+(define-public crate-liyobicash-0.1.0 (c (n "liyobicash") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13") (d #t) (k 0)) (d (n "rug") (r "^0.9") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "yobicrypto") (r "^0.2") (d #t) (k 0)))) (h "1lrymz9cjpg7fy8rxldca47abd5nlw1xcmvc9xj8b2nsl927fzmf") (y #t)))
+

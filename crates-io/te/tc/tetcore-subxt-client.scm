@@ -1,0 +1,4 @@
+(define-module (crates-io te tc tetcore-subxt-client) #:use-module (crates-io))
+
+(define-public crate-tetcore-subxt-client-0.5.0 (c (n "tetcore-subxt-client") (v "0.5.0") (d (list (d (n "async-std") (r "^1.8.0") (d #t) (k 0)) (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.9") (f (quote ("compat"))) (d #t) (k 0) (p "futures")) (d (n "futures01") (r "^0.1.29") (d #t) (k 0) (p "futures")) (d (n "jsonrpsee") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.13") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "tc-client-db") (r "^0.8.0") (d #t) (k 0)) (d (n "tc-network") (r "^0.8.0") (k 0)) (d (n "tc-service") (r "^0.8.0") (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tp-keyring") (r "^2.0.2") (d #t) (k 0)))) (h "0ijy1phh3v2l5d0180y30wdi41dci2gbp0c6flzdaa4yc5wkr7d6")))
+

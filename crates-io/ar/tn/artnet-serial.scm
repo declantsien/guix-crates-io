@@ -1,0 +1,6 @@
+(define-module (crates-io ar tn artnet-serial) #:use-module (crates-io))
+
+(define-public crate-artnet-serial-0.1.0 (c (n "artnet-serial") (v "0.1.0") (d (list (d (n "artnet_protocol") (r "^0.2.0") (d #t) (k 0)) (d (n "bufstream") (r "^0.1.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4.0") (d #t) (k 0)) (d (n "fern") (r "^0.5.9") (f (quote ("colored"))) (d #t) (k 0)) (d (n "get_if_addrs") (r "^0.5.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "log-panics") (r "^2.0.0") (d #t) (k 0)) (d (n "serial") (r "^0.4.0") (d #t) (k 0)))) (h "187z32a8gcg93f7nj40mpm769776kch6b7g38h5p8i1j2ws1287k")))
+
+(define-public crate-artnet-serial-0.1.1 (c (n "artnet-serial") (v "0.1.1") (d (list (d (n "artnet_protocol") (r "^0.2.0") (d #t) (k 0)) (d (n "bufstream") (r "^0.1.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4.0") (d #t) (k 0)) (d (n "fern") (r "^0.5.9") (f (quote ("colored"))) (d #t) (k 0)) (d (n "get_if_addrs") (r "^0.5.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "log-panics") (r "^2.0.0") (d #t) (k 0)) (d (n "serial") (r "^0.4.0") (d #t) (k 0)))) (h "0n6gc09s7z2n3psyasc1kaz38dafqzk3acyzsbx83gg43ffvh6lr")))
+

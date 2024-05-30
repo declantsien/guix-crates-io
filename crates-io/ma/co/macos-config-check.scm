@@ -1,0 +1,4 @@
+(define-module (crates-io ma co macos-config-check) #:use-module (crates-io))
+
+(define-public crate-macos-config-check-0.0.1-alpha.1 (c (n "macos-config-check") (v "0.0.1-alpha.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.2") (d #t) (k 2)) (d (n "clap") (r "^3.0.0-beta.2") (f (quote ("suggestions"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (f (quote ("std"))) (d #t) (k 0)) (d (n "open") (r "^1.4.0") (d #t) (k 0)) (d (n "os_info") (r "^3.0.1") (d #t) (k 0)) (d (n "phf") (r "^0.8.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "predicates") (r "^1.0.5") (d #t) (k 2)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 0)) (d (n "urlencoding") (r "^1.1.1") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "1jdz1frf1gz8caqdkph2kjriwwi3jnjgb0g7mm406z8a7f1lgm01")))
+

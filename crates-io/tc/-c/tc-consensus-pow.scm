@@ -1,0 +1,6 @@
+(define-module (crates-io tc -c tc-consensus-pow) #:use-module (crates-io))
+
+(define-public crate-tc-consensus-pow-0.0.0 (c (n "tc-consensus-pow") (v "0.0.0") (h "0b2by3fxg1sxkcn7jzaf7qkgp99l94spjddx3nspys86yli6dg0s") (y #t)))
+
+(define-public crate-tc-consensus-pow-0.8.1 (c (n "tc-consensus-pow") (v "0.8.1") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (f (quote ("compat"))) (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "prometheus-endpoint") (r "^0.8.1") (d #t) (k 0) (p "prometheus-endpoint")) (d (n "tc-client-api") (r "^2.0.0") (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-block-builder") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-blockchain") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-consensus") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-consensus-pow") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-inherents") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-timestamp") (r "^2.0.2") (d #t) (k 0)))) (h "02l5cbd4crm78pa56s64qlmfn7hq63r3xg3fibw82xi00lr0zyfz")))
+

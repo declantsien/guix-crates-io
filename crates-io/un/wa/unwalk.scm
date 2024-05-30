@@ -1,0 +1,6 @@
+(define-module (crates-io un wa unwalk) #:use-module (crates-io))
+
+(define-public crate-unwalk-0.2.0-beta0 (c (n "unwalk") (v "0.2.0-beta0") (d (list (d (n "clap") (r "= 2.31.2") (d #t) (k 0)) (d (n "failure") (r "= 0.1.1") (d #t) (k 0)) (d (n "serde") (r "= 1.0.37") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.37") (d #t) (k 0)) (d (n "structopt") (r "= 0.2.6") (d #t) (k 0)) (d (n "structopt-derive") (r "= 0.2.6") (d #t) (k 0)) (d (n "toml") (r "= 0.4.5") (d #t) (k 0)) (d (n "unwalk-base") (r "^0.2.0-beta0") (d #t) (k 0)) (d (n "unwalk-gz") (r "^0.2.0-beta0") (d #t) (k 0)) (d (n "walkdir") (r "= 2.1.4") (d #t) (k 0)))) (h "1822hzdh81v19bxy1p69sc3ml7r0gcrq231h6v6lhyx8kjvp3lgn")))
+
+(define-public crate-unwalk-0.2.0-beta1 (c (n "unwalk") (v "0.2.0-beta1") (d (list (d (n "clap") (r "= 2.31.2") (d #t) (k 0)) (d (n "failure") (r "= 0.1.1") (d #t) (k 0)) (d (n "serde") (r "= 1.0.37") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.37") (d #t) (k 0)) (d (n "structopt") (r "= 0.2.6") (d #t) (k 0)) (d (n "structopt-derive") (r "= 0.2.6") (d #t) (k 0)) (d (n "toml") (r "= 0.4.5") (d #t) (k 0)) (d (n "unwalk-base") (r "^0.2.0-beta1") (d #t) (k 0)) (d (n "unwalk-gz") (r "^0.2.0-beta1") (d #t) (k 0)) (d (n "walkdir") (r "= 2.1.4") (d #t) (k 0)))) (h "0y4cnw8z1sbxivy0plv0vj08hag8kfcbvfh7vv11hc723ap19mf4")))
+

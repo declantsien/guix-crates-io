@@ -1,0 +1,16 @@
+(define-module (crates-io cl ou cloudfront-logs) #:use-module (crates-io))
+
+(define-public crate-cloudfront-logs-0.1.0 (c (n "cloudfront-logs") (v "0.1.0") (d (list (d (n "aho-corasick") (r "^1.1.2") (d #t) (k 0)) (d (n "divan") (r "^0.1.13") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "1178nrri25g3m0k8gkd5nx7fbnskx1f9jgqnbhw9s7npcyj6n31l") (f (quote (("unsafe") ("default" "alloc" "typed" "unsafe") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+
+(define-public crate-cloudfront-logs-0.1.1 (c (n "cloudfront-logs") (v "0.1.1") (d (list (d (n "aho-corasick") (r "^1.1.2") (d #t) (k 0)) (d (n "divan") (r "^0.1.13") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "1k6m6421grhhzwq0hbir1flyq9k9lhzxz3j60p3805d34mj3gyaz") (f (quote (("unsafe") ("default" "alloc" "typed" "unsafe") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+
+(define-public crate-cloudfront-logs-0.1.2 (c (n "cloudfront-logs") (v "0.1.2") (d (list (d (n "divan") (r "^0.1.13") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "1wz23ph6nk7hf4x5wh4vgh4d3gxrx9y3a89cyaysvga1cfvqhai1") (f (quote (("unsafe") ("default" "alloc" "typed" "unsafe") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+
+(define-public crate-cloudfront-logs-0.1.3 (c (n "cloudfront-logs") (v "0.1.3") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "1ifll2sjnv0iwins5494li6bafj17rl16avsv31mkdx26j3xacgf") (f (quote (("unsafe") ("default" "alloc" "typed" "unsafe") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+
+(define-public crate-cloudfront-logs-0.2.0 (c (n "cloudfront-logs") (v "0.2.0") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "090j875yv9r8vqfm5xid7v2p4hqwdawxz4w2s3nafza9brkj2g5j") (f (quote (("default" "alloc" "typed") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+
+(define-public crate-cloudfront-logs-0.3.0 (c (n "cloudfront-logs") (v "0.3.0") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "memchr") (r "^2.7.2") (d #t) (k 0)) (d (n "time") (r "^0.3.35") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "06zf9ggv0692wrp60hadcscj0p7s0a6gar252jigm530dv6xaqay") (f (quote (("default" "alloc" "typed") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+
+(define-public crate-cloudfront-logs-0.3.1 (c (n "cloudfront-logs") (v "0.3.1") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "memchr") (r "^2.7.2") (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("parsing" "macros"))) (o #t) (d #t) (k 0)))) (h "1ygqncdwl92nl61vqfi64shnbw8cny05ddjh1800s67fvmx518k4") (f (quote (("default" "alloc" "typed") ("alloc")))) (s 2) (e (quote (("typed" "alloc" "dep:time"))))))
+

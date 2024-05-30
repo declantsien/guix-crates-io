@@ -1,0 +1,4 @@
+(define-module (crates-io gr oe groestlcoin_slices) #:use-module (crates-io))
+
+(define-public crate-groestlcoin_slices-0.7.0 (c (n "groestlcoin_slices") (v "0.7.0") (d (list (d (n "bitcoin-test-data") (r "^0.2.0") (d #t) (k 2)) (d (n "groestlcoin") (r "^0.31.0") (o #t) (d #t) (k 0)) (d (n "groestlcoin") (r "^0.31.0") (f (quote ("rand"))) (d #t) (k 2)) (d (n "groestlcoin_hashes") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "hashbrown") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "hex_lit") (r "^0.1") (f (quote ("rust_v_1_46"))) (d #t) (k 2)) (d (n "redb") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.4.0") (d #t) (k 2)))) (h "0jh9327w2bkprr28qgsf1py742nlnlx8nsvn5ckvlswybqrcj20m") (f (quote (("default")))) (s 2) (e (quote (("slice_cache" "dep:hashbrown") ("sha2" "dep:sha2") ("redb" "dep:redb") ("groestlcoin_hashes" "dep:groestlcoin_hashes") ("groestlcoin" "dep:groestlcoin" "groestlcoin_hashes"))))))
+

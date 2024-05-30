@@ -1,0 +1,6 @@
+(define-module (crates-io li bd libdns) #:use-module (crates-io))
+
+(define-public crate-libdns-0.1.0 (c (n "libdns") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.12") (f (quote ("http2" "json"))) (o #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "176fscyl69220wnr3d9v7apd4nzri9756bnpzbfjn6vaciyh5y42") (f (quote (("default" "default-tls")))) (s 2) (e (quote (("rustls-tls" "reqwest?/rustls-tls") ("native-tls-vendored" "reqwest?/native-tls-vendored") ("native-tls" "reqwest?/native-tls") ("hetzner" "serde" "dep:reqwest") ("default-tls" "reqwest?/default-tls"))))))
+
+(define-public crate-libdns-0.1.1 (c (n "libdns") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.12") (f (quote ("http2" "json"))) (o #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1bmcvrps6mrr5apzxc4j5q9axrxz52c0bj9mrpn490wjl5vp2jaa") (f (quote (("default" "default-tls")))) (s 2) (e (quote (("rustls-tls" "reqwest?/rustls-tls") ("native-tls-vendored" "reqwest?/native-tls-vendored") ("native-tls" "reqwest?/native-tls") ("hetzner" "serde" "dep:reqwest") ("default-tls" "reqwest?/default-tls"))))))
+

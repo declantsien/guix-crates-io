@@ -1,0 +1,4 @@
+(define-module (crates-io bi tw bitwarden-pin) #:use-module (crates-io))
+
+(define-public crate-bitwarden-pin-0.1.0 (c (n "bitwarden-pin") (v "0.1.0") (d (list (d (n "argon2") (r "^0.5.3") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "hkdf") (r "^0.12.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "pbkdf2") (r "^0.11.0") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "0v0yd3avz6mpg6l8rz3sjnjvlf92fnf4ss6kd5qrd9hby7wls9l8")))
+

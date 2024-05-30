@@ -1,0 +1,6 @@
+(define-module (crates-io jw ks jwks) #:use-module (crates-io))
+
+(define-public crate-jwks-0.1.2 (c (n "jwks") (v "0.1.2") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "httpmock") (r "^0.7.0-rc.1") (d #t) (k 2)) (d (n "jsonwebtoken") (r "^9.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "01mx53f750pjlvldv8n86wp5wxmnwpwp2spgqda896cpjfmpgirp")))
+
+(define-public crate-jwks-0.1.3 (c (n "jwks") (v "0.1.3") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "httpmock") (r "^0.7.0-rc.1") (d #t) (k 2)) (d (n "jsonwebtoken") (r "^9.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0hyiljaa74xd796bsmxs22gpxs1dzryjsj5cjv5ypnqxv17196dv")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# i ilc) #:use-module (crates-io))
+
+(define-public crate-ilc-0.1.0 (c (n "ilc") (v "0.1.0") (d (list (d (n "bincode") (r "^0.4.0") (d #t) (k 0)) (d (n "blist") (r "^0.0.4") (d #t) (k 0)) (d (n "chrono") (r "^0.2.18") (d #t) (k 0)) (d (n "docopt") (r "^0.6.78") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.2") (d #t) (k 0)) (d (n "glob") (r "^0.2.10") (d #t) (k 0)) (d (n "log") (r "^0.3.4") (d #t) (k 0)) (d (n "regex") (r "^0.1.46") (d #t) (k 0)) (d (n "rmp") (r "^0.7.3") (d #t) (k 0)) (d (n "rmp-serialize") (r "^0.7.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)))) (h "05vl6i8p8fj2pmjkpqfra2g59ks4r2yaxgrcf7jvqrww388fgqzb")))
+
+(define-public crate-ilc-0.1.1 (c (n "ilc") (v "0.1.1") (d (list (d (n "bincode") (r "^0.4.0") (d #t) (k 0)) (d (n "blist") (r "^0.0.4") (d #t) (k 0)) (d (n "chrono") (r "^0.2.18") (d #t) (k 0)) (d (n "docopt") (r "^0.6.78") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.2") (d #t) (k 0)) (d (n "glob") (r "^0.2.10") (d #t) (k 0)) (d (n "log") (r "^0.3.4") (d #t) (k 0)) (d (n "regex") (r "^0.1.46") (d #t) (k 0)) (d (n "rmp") (r "^0.7.3") (d #t) (k 0)) (d (n "rmp-serialize") (r "^0.7.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)))) (h "0pmj5x264yhgvjhd8q6p5hrf66dc0pi02xnx4hz3c48bk7vk7d32")))
+
+(define-public crate-ilc-0.1.2 (c (n "ilc") (v "0.1.2") (d (list (d (n "bincode") (r "^0.4.0") (d #t) (k 0)) (d (n "blist") (r "^0.0.4") (d #t) (k 0)) (d (n "chrono") (r "^0.2.18") (d #t) (k 0)) (d (n "clap") (r "^2.0.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.2") (d #t) (k 0)) (d (n "glob") (r "^0.2.10") (d #t) (k 0)) (d (n "log") (r "^0.3.4") (d #t) (k 0)) (d (n "regex") (r "^0.1.46") (d #t) (k 0)) (d (n "rmp") (r "^0.7.3") (d #t) (k 0)) (d (n "rmp-serialize") (r "^0.7.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)))) (h "0fw46gxy2wqj8b5wdlsaqnkkc6giw1pk2cvwsp6fi1fpdhz7i1vy")))
+
+(define-public crate-ilc-0.2.0 (c (n "ilc") (v "0.2.0") (d (list (d (n "ilc-cli") (r "^0.1.0") (d #t) (k 0)))) (h "1pfs7bd5p6sy14f9p81na85rbh3x90a2fjyvrn22xvdi5bnn5f0s")))
+
+(define-public crate-ilc-0.2.1 (c (n "ilc") (v "0.2.1") (d (list (d (n "ilc-base") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-cli") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-format-energymech") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-format-weechat") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-ops") (r "^0.1.0") (d #t) (k 0)))) (h "03pflz41s25p87f2s8dsyg3vyvjylkrhlvbi1s92gn3zp3hawv09")))
+
+(define-public crate-ilc-0.2.2 (c (n "ilc") (v "0.2.2") (d (list (d (n "ilc-base") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-cli") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-format-energymech") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-format-weechat") (r "^0.1.0") (d #t) (k 0)) (d (n "ilc-ops") (r "^0.1.0") (d #t) (k 0)))) (h "15m82f7mczkc0lgv94ya3ypmgpyc38hzbdnkdcgzmnmbvi8aym6x")))
+
+(define-public crate-ilc-0.3.0 (c (n "ilc") (v "0.3.0") (d (list (d (n "flate2") (r "~0.2") (d #t) (k 2)) (d (n "ilc-base") (r "~0.2") (d #t) (k 0)) (d (n "ilc-cli") (r "~0.1") (d #t) (k 0)) (d (n "ilc-format-energymech") (r "~0.2") (d #t) (k 0)) (d (n "ilc-format-weechat") (r "~0.2") (d #t) (k 0)) (d (n "ilc-ops") (r "~0.1") (d #t) (k 0)))) (h "1p91qd59divz8jxngsqcp51n5if5rlk1qp218q412lviza4i9ji6")))
+

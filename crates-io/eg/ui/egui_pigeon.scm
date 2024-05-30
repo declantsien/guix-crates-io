@@ -1,0 +1,4 @@
+(define-module (crates-io eg ui egui_pigeon) #:use-module (crates-io))
+
+(define-public crate-egui_pigeon-0.1.0 (c (n "egui_pigeon") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.9.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "egui") (r "^0.18.1") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "egui-winit") (r "^0.18") (d #t) (k 2)) (d (n "egui_demo_lib") (r "^0.18") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "pigeon-2d") (r "^0.5") (d #t) (k 0)) (d (n "pigeon-parrot") (r "^0.4") (d #t) (k 0)) (d (n "pollster") (r "^0.2") (d #t) (k 2)) (d (n "wgpu") (r "^0.13") (d #t) (k 0)) (d (n "winit") (r "^0.26") (d #t) (k 2)))) (h "0c5yb65pj51pm252xsm8rmar8kxzlniwiq9r0c2hd9qn5dsq9abj")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io si lv silverknife) #:use-module (crates-io))
+
+(define-public crate-silverknife-0.0.1 (c (n "silverknife") (v "0.0.1") (d (list (d (n "bitflags") (r "*") (d #t) (k 0)) (d (n "gl") (r "*") (o #t) (d #t) (k 0)) (d (n "image") (r "*") (o #t) (d #t) (k 0)) (d (n "libc") (r "*") (d #t) (k 0)) (d (n "nalgebra") (r "*") (d #t) (k 0)) (d (n "num") (r "*") (d #t) (k 0)) (d (n "num_cpus") (r "*") (d #t) (k 0)) (d (n "openal-rs") (r "*") (o #t) (d #t) (k 0)) (d (n "sdl2-sys") (r "*") (o #t) (d #t) (k 0)) (d (n "tar") (r "*") (d #t) (k 0)) (d (n "threadpool") (r "*") (d #t) (k 0)) (d (n "toml") (r "*") (d #t) (k 0)))) (h "0ymnqyxzypprv3q19zjy8rzwgi53h7m74ziz5n3b7q6rhxcqxrv9") (f (quote (("sdl2" "sdl2-sys") ("piston-image" "image") ("opengl" "gl") ("openal" "openal-rs") ("mac" "filesystem") ("linux" "filesystem") ("filesystem") ("default" "linux" "sdl2" "opengl" "openal" "piston-image"))))))
+

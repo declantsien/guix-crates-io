@@ -1,0 +1,6 @@
+(define-module (crates-io ce rt certstreamrs) #:use-module (crates-io))
+
+(define-public crate-certstreamrs-0.1.0 (c (n "certstreamrs") (v "0.1.0") (d (list (d (n "async-stream") (r "^0.3.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.1") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "12dnmm2yw1cqif6grr1xfzgkprdaw9bclywzycqf0s8bx6pwqds3")))
+
+(define-public crate-certstreamrs-0.1.1 (c (n "certstreamrs") (v "0.1.1") (d (list (d (n "async-stream") (r "^0.3.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.1") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "00s1fc334vcspkqrwjr30r3c7sjd0pdbip20hys94a0amqncd62y")))
+

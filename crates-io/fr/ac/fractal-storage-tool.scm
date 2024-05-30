@@ -1,0 +1,4 @@
+(define-module (crates-io fr ac fractal-storage-tool) #:use-module (crates-io))
+
+(define-public crate-fractal-storage-tool-0.2.0 (c (n "fractal-storage-tool") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "cid") (r "^0.8.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "fractal-storage-client") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "ipfs-api") (r "^0.16.0") (d #t) (k 0)) (d (n "ipfs-api-backend-hyper") (r "^0.5.0") (f (quote ("with-send-sync"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tokio") (r "^1.18.1") (f (quote ("macros" "rt" "io-std"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.5") (f (quote ("io"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1hlpyqix5silb0h651wpbrb6b067g0m9qn9mmimdsw9x0a43lv9j")))
+

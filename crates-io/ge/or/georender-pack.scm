@@ -1,0 +1,12 @@
+(define-module (crates-io ge or georender-pack) #:use-module (crates-io))
+
+(define-public crate-georender-pack-1.0.0 (c (n "georender-pack") (v "1.0.0") (d (list (d (n "desert") (r "^1.0.3") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "osm-is-area") (r "^0.1.3") (d #t) (k 0)) (d (n "osmpbf") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0dbg7bzlpvi1zbinj17sbyzqm63ww3csiwwvgkymds8a50h78zxi")))
+
+(define-public crate-georender-pack-2.0.0 (c (n "georender-pack") (v "2.0.0") (d (list (d (n "desert") (r "^1.0.3") (d #t) (k 0)) (d (n "earcutr") (r "^0.1.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "osm-is-area") (r "^0.1.3") (d #t) (k 0)) (d (n "osmpbf") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0xar4l38i8pwinq5zdbzi4fy13cxsdnvrqbhvmbf7n2nd9mk9n6d")))
+
+(define-public crate-georender-pack-2.1.0 (c (n "georender-pack") (v "2.1.0") (d (list (d (n "desert") (r "^1.0.3") (d #t) (k 0)) (d (n "earcutr") (r "^0.1.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "osm-is-area") (r "^1.0.0") (d #t) (k 0)) (d (n "osmpbf") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0mlyn771cqbf58gvj8kvmadqqcq16xsc3rk53999s7hq6b60mhx3")))
+
+(define-public crate-georender-pack-3.0.0 (c (n "georender-pack") (v "3.0.0") (d (list (d (n "desert") (r "^1.0.3") (d #t) (k 0)) (d (n "earcutr") (r "^0.1.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "osm-is-area") (r "^1.0.0") (d #t) (k 0)) (d (n "osmpbf") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0ghjkgmwc7ndv6f59y7jwqz9wc3wxas5nkg7xwncqj9d4njjpysi")))
+
+(define-public crate-georender-pack-2.1.1 (c (n "georender-pack") (v "2.1.1") (d (list (d (n "desert") (r "^1.0.3") (d #t) (k 0)) (d (n "earcutr") (r "^0.1.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "osm-is-area") (r "^1.0.0") (d #t) (k 0)) (d (n "osmpbf") (r "^0.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.7.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "09pdi59x2k1vwks61pkvpjj4zhmz3i4b2d84kqihfszp2301bngw")))
+

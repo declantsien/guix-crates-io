@@ -1,0 +1,16 @@
+(define-module (crates-io zr sc zrsclient) #:use-module (crates-io))
+
+(define-public crate-zrsclient-0.1.0 (c (n "zrsclient") (v "0.1.0") (h "06amsf9fzqz4zma3ni6j1izr3bflbzjbzbcj7ra6q7rqhhrlarxm")))
+
+(define-public crate-zrsclient-0.1.1 (c (n "zrsclient") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1yja46bfq4ffym0b6qy3fbbzj91crsl8mv6ahfkn70kllivz6784") (f (quote (("testing"))))))
+
+(define-public crate-zrsclient-0.1.2 (c (n "zrsclient") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0dyxmj86mf2s47f5zngx2wkq1kagvz5kwxp37jzffh1vbm9xc3ix") (f (quote (("testing"))))))
+
+(define-public crate-zrsclient-0.1.3 (c (n "zrsclient") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "0mh5pwrzv9ivf6snpil8a0jkyxz14d9l3l92fiwzkwcrkbzz93jg")))
+
+(define-public crate-zrsclient-0.1.4 (c (n "zrsclient") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "ws") (r "^0.9.2") (f (quote ("ssl"))) (d #t) (k 0)))) (h "1rwddqwiy9ir0a0njwf6yy4mvclnrv951bwvah9z3v5wna6svmpq")))
+
+(define-public crate-zrsclient-0.1.5 (c (n "zrsclient") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "ws") (r "^0.9.2") (f (quote ("ssl"))) (d #t) (k 0)))) (h "0f4ywby8lphj59krgzl3cfz340plx75hzg9fc7kcydcvznfi2ish")))
+
+(define-public crate-zrsclient-0.1.6 (c (n "zrsclient") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "ws") (r "^0.9.2") (f (quote ("ssl"))) (d #t) (k 0)))) (h "1q45lxqdw1mwk4rsl334l5ac32nkyiipimggj6bvwgdcmg7lxy5y")))
+

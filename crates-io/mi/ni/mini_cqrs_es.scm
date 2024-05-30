@@ -1,0 +1,6 @@
+(define-module (crates-io mi ni mini_cqrs_es) #:use-module (crates-io))
+
+(define-public crate-mini_cqrs_es-0.6.0 (c (n "mini_cqrs_es") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1rybil3i02v94qass7vpbhqra6dnil1lwg46i6njrfsmr0i98dff") (r "1.71")))
+
+(define-public crate-mini_cqrs_es-0.7.0 (c (n "mini_cqrs_es") (v "0.7.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "11d7v3aw55w190dr8xa54nimbm353q77vgv1v2rxxgbyrmq0mgzj") (r "1.71")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io au to auto-diff-ann) #:use-module (crates-io))
+
+(define-public crate-auto-diff-ann-0.5.8 (c (n "auto-diff-ann") (v "0.5.8") (d (list (d (n "auto-diff") (r "^0.5.8") (d #t) (k 0)) (d (n "auto-diff-data-pipe") (r "^0.5.8") (d #t) (k 0)) (d (n "auto-diff-data-pipe") (r "^0.5.8") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "openblas-src") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "tensor-rs") (r "^0.5.8") (d #t) (k 0)) (d (n "tensorboard-rs") (r "^0.5.8") (d #t) (k 2)))) (h "02wxmfv7a5p0zsngwmrfhky6ynb2whja3yrgfgzfcykn8jg2prxb")))
+
+(define-public crate-auto-diff-ann-0.5.9 (c (n "auto-diff-ann") (v "0.5.9") (d (list (d (n "auto-diff") (r "^0.5.9") (d #t) (k 0)) (d (n "auto-diff-data-pipe") (r "^0.5.9") (d #t) (k 0)) (d (n "auto-diff-data-pipe") (r "^0.5.9") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "openblas-src") (r "^0.10") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "tensor-rs") (r "^0.5.9") (d #t) (k 0)) (d (n "tensorboard-rs") (r "^0.5.9") (d #t) (k 2)))) (h "0vj1dkq4y31jj0c2jknv6qzhaq6rjhgwn83jkaxbz2ing6imas29")))
+

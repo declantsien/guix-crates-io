@@ -1,0 +1,8 @@
+(define-module (crates-io te ts tetsy-jsonrpc-core-client) #:use-module (crates-io))
+
+(define-public crate-tetsy-jsonrpc-core-client-14.2.0 (c (n "tetsy-jsonrpc-core-client") (v "14.2.0") (d (list (d (n "tetsy-jsonrpc-client-transports") (r "^14.2") (k 0)))) (h "1aanvm6w85i8rbdgw5jm6qr0i9f02c41m02yjjhh3vknvqplvidr") (f (quote (("ws" "tetsy-jsonrpc-client-transports/ws") ("tls" "tetsy-jsonrpc-client-transports/tls") ("ipc" "tetsy-jsonrpc-client-transports/ipc") ("http" "tetsy-jsonrpc-client-transports/http") ("arbitrary_precision" "tetsy-jsonrpc-client-transports/arbitrary_precision"))))))
+
+(define-public crate-tetsy-jsonrpc-core-client-14.2.1 (c (n "tetsy-jsonrpc-core-client") (v "14.2.1") (d (list (d (n "tetsy-jsonrpc-client-transports") (r "^14.2") (k 0)))) (h "1f4a1fdvq3j2zdrrf45iw63l1knlyaiggshpp3v1k4969hxlbhy2") (f (quote (("ws" "tetsy-jsonrpc-client-transports/ws") ("tls" "tetsy-jsonrpc-client-transports/tls") ("ipc" "tetsy-jsonrpc-client-transports/ipc") ("http" "tetsy-jsonrpc-client-transports/http") ("arbitrary_precision" "tetsy-jsonrpc-client-transports/arbitrary_precision"))))))
+
+(define-public crate-tetsy-jsonrpc-core-client-15.1.0 (c (n "tetsy-jsonrpc-core-client") (v "15.1.0") (d (list (d (n "tetsy-jsonrpc-client-transports") (r "^15.1.0") (k 0)))) (h "0mlss0767ysxx0krj0ns247p74iriqxk4sjjn45iwhj4p1lavyi7") (f (quote (("ws" "tetsy-jsonrpc-client-transports/ws") ("tls" "tetsy-jsonrpc-client-transports/tls") ("ipc" "tetsy-jsonrpc-client-transports/ipc") ("http" "tetsy-jsonrpc-client-transports/http") ("arbitrary_precision" "tetsy-jsonrpc-client-transports/arbitrary_precision"))))))
+

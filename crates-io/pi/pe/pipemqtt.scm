@@ -1,0 +1,12 @@
+(define-module (crates-io pi pe pipemqtt) #:use-module (crates-io))
+
+(define-public crate-pipemqtt-0.1.1 (c (n "pipemqtt") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.5") (d #t) (k 0)) (d (n "rumqttc") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.6.1") (f (quote ("rt" "sync"))) (d #t) (k 0)))) (h "160l99kf9b4l7haz9g1i7an5kx7a4crlw4p7rmd5nxa5l09mb4n1")))
+
+(define-public crate-pipemqtt-0.1.2 (c (n "pipemqtt") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.5") (d #t) (k 0)) (d (n "rumqttc") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.6.1") (f (quote ("rt" "sync"))) (d #t) (k 0)))) (h "1xk2npyw9qsb595z82whq8zyjlpa8i25by7mv5a6hgm96dqh13kw")))
+
+(define-public crate-pipemqtt-0.1.3 (c (n "pipemqtt") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.5") (d #t) (k 0)) (d (n "rumqttc") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.6.1") (f (quote ("rt" "sync"))) (d #t) (k 0)))) (h "0xyshzpc8h2w4yi92cipzv4j29l4xh660vb5nmp9c4hlrxsz2qg5")))
+
+(define-public crate-pipemqtt-0.1.4 (c (n "pipemqtt") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.9") (d #t) (k 0)) (d (n "rumqttc") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.6.1") (f (quote ("rt" "sync"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "15c17pr25ydrc4j49i1kbxsi6rdzmarv3l76hpalzbcxn9hims34")))
+
+(define-public crate-pipemqtt-0.1.5 (c (n "pipemqtt") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "pipebase") (r "^0.2.0") (d #t) (k 0)) (d (n "rumqttc") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.6.1") (f (quote ("rt" "sync"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "03l3w692v5zv8naw30sj481h5haxrqzrckl13d9g4p93p792bjw3")))
+

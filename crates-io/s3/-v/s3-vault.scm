@@ -1,0 +1,6 @@
+(define-module (crates-io s3 -v s3-vault) #:use-module (crates-io))
+
+(define-public crate-s3-vault-0.1.0 (c (n "s3-vault") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "glob") (r "^0.2.11") (d #t) (k 0)) (d (n "gpgme") (r "^0.6.1") (f (quote ("v1_8_0"))) (k 0)) (d (n "itertools") (r "^0.7.4") (d #t) (k 0)) (d (n "mktemp") (r "^0.3.1") (d #t) (k 0)) (d (n "s3-types") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.0") (d #t) (k 0)))) (h "1azrkn1i1hv4qs8lg7zsvh9gccvv7nmvlk1hygmj2gj6v19m57yp") (y #t)))
+
+(define-public crate-s3-vault-1.0.0 (c (n "s3-vault") (v "1.0.0") (d (list (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "glob") (r "^0.2.11") (d #t) (k 0)) (d (n "gpgme") (r "^0.7.0") (d #t) (k 0)) (d (n "itertools") (r "^0.7.4") (d #t) (k 0)) (d (n "mktemp") (r "^0.3.1") (d #t) (k 0)) (d (n "s3-types") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.24") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.0") (d #t) (k 0)))) (h "0nzzllc7pd5ac9242llrdy0mqnsyg7r8lc3g8sv0ia3g908iphfw") (y #t)))
+

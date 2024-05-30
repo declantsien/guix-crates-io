@@ -1,0 +1,4 @@
+(define-module (crates-io ck b- ckb-cli-light-client) #:use-module (crates-io))
+
+(define-public crate-ckb-cli-light-client-0.1.0 (c (n "ckb-cli-light-client") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "ckb-hash") (r "^0.105.1") (d #t) (k 0)) (d (n "ckb-jsonrpc-types") (r "^0.105.1") (d #t) (k 0)) (d (n "ckb-sdk") (r "^2.3.0") (d #t) (k 0)) (d (n "ckb-signer") (r "^0.3.0") (d #t) (k 0)) (d (n "ckb-types") (r "^0.105.1") (d #t) (k 0)) (d (n "clap") (r "^4.0.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "rpassword") (r "^7.0.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24") (f (quote ("recovery"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)))) (h "0vwq6nadqd02sfg0dmwh7xl26hiaglsdkg5wngwacb113895dh2m")))
+

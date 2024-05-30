@@ -1,0 +1,22 @@
+(define-module (crates-io mo p- mop-structs) #:use-module (crates-io))
+
+(define-public crate-mop-structs-0.0.1 (c (n "mop-structs") (v "0.0.1") (d (list (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "13yn9n83fjp4mlw2n6ji9q9h4a9rdmsbdyjh2c7xn55s9bwaqsfq") (f (quote (("parallel" "rayon"))))))
+
+(define-public crate-mop-structs-0.0.2 (c (n "mop-structs") (v "0.0.2") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "quickcheck") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1xdwpdc76qr3i1wakkjkwv11gdzwrpmmgn04fj7r9phb28wxb3hs") (f (quote (("testing" "quickcheck") ("std") ("serialization" "serde" "serde_derive") ("parallelization" "rayon") ("default" "std"))))))
+
+(define-public crate-mop-structs-0.0.3 (c (n "mop-structs") (v "0.0.3") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "mop-common") (r "^0.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "0alni3jd4njkgbvkfaw11x5m43faaybnicznvx12h28ikx2jlaqq") (f (quote (("testing" "mop-common/testing") ("std" "mop-common/std") ("serialization" "mop-common/serialization" "serde") ("parallelization" "mop-common/parallelization") ("default"))))))
+
+(define-public crate-mop-structs-0.0.4 (c (n "mop-structs") (v "0.0.4") (d (list (d (n "mop-common") (r "^0.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "1gwvm1dalzp1qpysbzalxy8n6cic66db1p7ahnw7b1071z9yn5gx") (f (quote (("testing" "mop-common/testing") ("std" "mop-common/std") ("serialization" "mop-common/serialization" "serde") ("random" "mop-common/random") ("parallelization" "mop-common/parallelization") ("default"))))))
+
+(define-public crate-mop-structs-0.0.5 (c (n "mop-structs") (v "0.0.5") (d (list (d (n "mop-common") (r "^0.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "1d476j51z7rz5jzpp191drc7cccy40wy7cqkb3hdb0sdg186lb8z") (f (quote (("vec-array") ("std" "mop-common/std") ("serde1" "mop-common/serde1" "serde") ("rayon" "mop-common/rayon") ("rand" "mop-common/rand") ("quickcheck" "mop-common/quickcheck") ("dr-matrix") ("default") ("css") ("csr-matrix" "css"))))))
+
+(define-public crate-mop-structs-0.0.6 (c (n "mop-structs") (v "0.0.6") (d (list (d (n "mop-common") (r "^0.0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "0hbjlm51bk8av5vgmh5w0ayl5wgzm8s6gjzvgn60ppvisl066qvn") (f (quote (("std" "mop-common/std") ("serde1" "mop-common/serde1" "serde") ("rayon" "mop-common/rayon") ("rand" "mop-common/rand") ("quickcheck" "mop-common/quickcheck") ("default"))))))
+
+(define-public crate-mop-structs-0.0.7 (c (n "mop-structs") (v "0.0.7") (d (list (d (n "mop-common") (r "^0.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "0lg7jdz1v7fxad8dmx4yb3lk2g2jd4wqfjivrzz5mmc1wmsxkdw3") (f (quote (("std" "mop-common/std") ("serde1" "mop-common/serde1" "serde") ("rayon" "mop-common/rayon") ("rand" "mop-common/rand") ("quickcheck" "mop-common/quickcheck") ("default"))))))
+
+(define-public crate-mop-structs-0.0.8 (c (n "mop-structs") (v "0.0.8") (d (list (d (n "mop-common-deps") (r "^0.0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "19zswvzvl203scapd01q4f38lkkzra51nx1cqpiw8capws39d5g8") (f (quote (("std" "mop-common-deps/std") ("serde1" "mop-common-deps/serde1" "serde") ("rayon" "mop-common-deps/rayon") ("rand" "mop-common-deps/rand") ("quickcheck" "mop-common-deps/quickcheck") ("default"))))))
+
+(define-public crate-mop-structs-0.0.9 (c (n "mop-structs") (v "0.0.9") (d (list (d (n "mop-common-deps") (r "^0.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "1av60cww3bqzrkp3smp8d0npb5rgprc715jzp0ffvga1hdk8nkx8") (f (quote (("std" "mop-common-deps/std") ("serde1" "mop-common-deps/serde1" "serde") ("rayon" "mop-common-deps/rayon") ("rand" "mop-common-deps/rand") ("quickcheck" "mop-common-deps/quickcheck") ("default"))))))
+
+(define-public crate-mop-structs-0.0.10 (c (n "mop-structs") (v "0.0.10") (d (list (d (n "mop-common-deps") (r "^0.0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)))) (h "0l57hr3qwsgffck6pjx32j4klf3bwkvdmfxzbqnyjp1kh61a09ja") (f (quote (("std" "mop-common-deps/std") ("serde1" "mop-common-deps/serde1" "serde") ("rayon" "mop-common-deps/rayon") ("rand" "mop-common-deps/rand") ("quickcheck" "mop-common-deps/quickcheck") ("default"))))))
+

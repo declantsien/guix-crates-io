@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-example-offchain-worker) #:use-module (crates-io))
+
+(define-public crate-noble-example-offchain-worker-2.0.1 (c (n "noble-example-offchain-worker") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "lite-json") (r "^0.1") (k 0)) (d (n "serde") (r "^1.0.101") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tet-io") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-keystore") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "1aqf83ngc1ppf7dz0v5rkmbs1zjfigk0hh5np1bw1q7s5grwvgy3") (f (quote (("std" "codec/std" "fabric-support/std" "fabric-system/std" "serde" "lite-json/std" "tet-core/std" "tet-io/std" "tp-keystore" "tp-runtime/std" "tetcore-std/std") ("default" "std"))))))
+

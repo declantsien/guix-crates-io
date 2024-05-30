@@ -1,0 +1,6 @@
+(define-module (crates-io ai ps aipster) #:use-module (crates-io))
+
+(define-public crate-aipster-1.0.0 (c (n "aipster") (v "1.0.0") (d (list (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.15.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rust-fuzzy-search") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "version-compare") (r "^0.1.1") (d #t) (k 0)) (d (n "webkit2gtk") (r "^0.18.0") (f (quote ("v2_6"))) (d #t) (k 0)))) (h "16ml7a7slxg5mssvwbc6axmgnlvc0s4azwdkf5msj3kb9xc4nyl3")))
+
+(define-public crate-aipster-2.0.0 (c (n "aipster") (v "2.0.0") (d (list (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.15.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rust-fuzzy-search") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "version-compare") (r "^0.1.1") (d #t) (k 0)) (d (n "webkit2gtk") (r "^0.18.0") (f (quote ("v2_6"))) (d #t) (k 0)))) (h "1gj8md7svnwr63mwyacjayjw5fjx7az2hl7fck3lsv49caxpy488")))
+

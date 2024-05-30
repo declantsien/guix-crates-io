@@ -1,0 +1,42 @@
+(define-module (crates-io sc -p sc-peerset) #:use-module (crates-io))
+
+(define-public crate-sc-peerset-2.0.0-alpha.2 (c (n "sc-peerset") (v "2.0.0-alpha.2") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p") (r "^0.16.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "065pkprf48z3dv91966mg7ljy4676ianm9zzk5mgpgi7i4fwxc1r")))
+
+(define-public crate-sc-peerset-2.0.0-alpha.3 (c (n "sc-peerset") (v "2.0.0-alpha.3") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p") (r "^0.16.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1s7zpzc199ggdc8kmd5y3c8i0yr4pg8xjmisgndmk9p9g1zmhnbi")))
+
+(define-public crate-sc-peerset-2.0.0-alpha.5 (c (n "sc-peerset") (v "2.0.0-alpha.5") (d (list (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libp2p") (r "^0.16.2") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "15a0jiq9bi0adl38habbd292rwggh5xba1nkrg06a36fi8nfq6x6")))
+
+(define-public crate-sc-peerset-2.0.0-alpha.6 (c (n "sc-peerset") (v "2.0.0-alpha.6") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.18.0") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-alpha.6") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1mrfwkm267vj9yfayqcvarnhl564s4adzavfbd4v9hf3d3n5pf0p")))
+
+(define-public crate-sc-peerset-2.0.0-alpha.7 (c (n "sc-peerset") (v "2.0.0-alpha.7") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.18.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-alpha.7") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "0x7ynvv3a9mfc89n6yiqkc5savi1b8l0biyyqdm8jbyyr30m6vbc")))
+
+(define-public crate-sc-peerset-2.0.0-alpha.8 (c (n "sc-peerset") (v "2.0.0-alpha.8") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.18.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-alpha.8") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1jd7cpvcwvr3k4524fv6ghlkpwcbqcybih030w0pn501hmg0vwyv")))
+
+(define-public crate-sc-peerset-2.0.0-rc1 (c (n "sc-peerset") (v "2.0.0-rc1") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.19.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-rc1") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "08vdpc069kps1jylg0g0br807wd88p82zgziy23gb67xdhbm9szb")))
+
+(define-public crate-sc-peerset-2.0.0-rc2 (c (n "sc-peerset") (v "2.0.0-rc2") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.19.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-rc2") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "14c295486bsqcqnxd9b3snzxndfh2gnv0zhmz80vxdljdnbn80i2")))
+
+(define-public crate-sc-peerset-2.0.0-rc3 (c (n "sc-peerset") (v "2.0.0-rc3") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.19.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-rc3") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "07y7c7s3mcjz96hffhci6mgi97fwspdlilwggbb3bl37ypb3xr1b")))
+
+(define-public crate-sc-peerset-2.0.0-rc4 (c (n "sc-peerset") (v "2.0.0-rc4") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.19.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-rc4") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "06fiz9x0dzyqadrvn7yvb8pl4ygx163nzpgi1l2ydydgqmwg3vf5")))
+
+(define-public crate-sc-peerset-2.0.0-rc5 (c (n "sc-peerset") (v "2.0.0-rc5") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.22.0") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-rc5") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "09q7jch8vzssyd17vxqfbl3ccywasscf31gvnbchlixaijnff1jk")))
+
+(define-public crate-sc-peerset-2.0.0-rc6 (c (n "sc-peerset") (v "2.0.0-rc6") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.23.0") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0-rc6") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "0lia19hdc09mxcfrnqwsj4b2b0p05wjc6fxlamzncqwmfn10zkd6")))
+
+(define-public crate-sc-peerset-2.0.0 (c (n "sc-peerset") (v "2.0.0") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.28.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "0jva4qsv0dlgkv3h2g32r0w76bhfw19y7di1dng59bdq5pba7ymv")))
+
+(define-public crate-sc-peerset-2.0.1 (c (n "sc-peerset") (v "2.0.1") (d (list (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "libp2p") (r "^0.28.1") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^2.0.0") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "0y8nv6h4j63c5b1imnvkm9pss10ldsvmswrjfz5zqlp5rg85zcmj")))
+
+(define-public crate-sc-peerset-3.0.0 (c (n "sc-peerset") (v "3.0.0") (d (list (d (n "futures") (r "^0.3.9") (d #t) (k 0)) (d (n "libp2p") (r "^0.34.0") (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "sp-utils") (r "^3.0.0") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1kv45b1mx926fnn929m9gbj8pm04z5mxdl1lwwws55vpir94wiff")))
+
+(define-public crate-sc-peerset-4.0.0 (c (n "sc-peerset") (v "4.0.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "libp2p") (r "^0.49.0") (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "sc-utils") (r "^4.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "1v5lnki4lhyn3vdw9q3v5z8pb59h5b7flr36z52fpkpf60j9ijmg")))
+
+(define-public crate-sc-peerset-5.0.0 (c (n "sc-peerset") (v "5.0.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "libp2p") (r "^0.49.0") (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "sc-utils") (r "^4.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "0ds7m8lki4ps3137pvjwlq9vzk20xpibixv0v4a2sr3zzkkjjqrw")))
+
+(define-public crate-sc-peerset-6.0.0 (c (n "sc-peerset") (v "6.0.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "libp2p") (r "^0.50.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "sc-utils") (r "^5.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)))) (h "083ahafy3yvil9vl2ndbncr65hhf3215b5cxyr239rl93vah557d")))
+
+(define-public crate-sc-peerset-7.0.0 (c (n "sc-peerset") (v "7.0.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "libp2p") (r "^0.50.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "sc-utils") (r "^6.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1257drks6q7xmk7y4q3wfy3r77d9254ip9d99q45p9zvp6ibfgfs")))
+
+(define-public crate-sc-peerset-8.0.0 (c (n "sc-peerset") (v "8.0.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "libp2p") (r "^0.50.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "sc-utils") (r "^7.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "wasm-timer") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0r8rb6y9dggmnsqhvjj0mk3m3ncxgnh98mg47gznq21nbk0335zw")))
+

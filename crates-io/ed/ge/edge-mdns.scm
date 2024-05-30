@@ -1,0 +1,8 @@
+(define-module (crates-io ed ge edge-mdns) #:use-module (crates-io))
+
+(define-public crate-edge-mdns-0.0.0 (c (n "edge-mdns") (v "0.0.0") (h "00698ikmqyrzfxbphrcf6nwbdz8zj4hy3532r3z9s40qg8zagc8v") (r "1.71")))
+
+(define-public crate-edge-mdns-0.1.0 (c (n "edge-mdns") (v "0.1.0") (d (list (d (n "domain") (r "^0.9.3") (f (quote ("heapless"))) (k 0)) (d (n "embassy-futures") (r "^0.1") (o #t) (k 0)) (d (n "embassy-sync") (r "^0.5") (o #t) (k 0)) (d (n "embassy-time") (r "^0.3") (o #t) (k 0)) (d (n "embedded-nal-async") (r "^0.7") (o #t) (k 0)) (d (n "embedded-nal-async-xtra") (r "^0.1.0") (o #t) (k 0)) (d (n "heapless") (r "^0.8") (k 0)) (d (n "heapless07") (r "^0.7") (d #t) (k 0) (p "heapless")) (d (n "log") (r "^0.4") (k 0)) (d (n "octseq") (r "^0.3.2") (k 0)))) (h "1qvk6vajpimzgzs60crj5nh7vk4aq1fd2az3mk324xpqn05ffv6m") (f (quote (("std" "io") ("io" "embassy-futures" "embassy-sync" "embassy-time" "embedded-nal-async" "embedded-nal-async-xtra") ("default" "io"))))))
+
+(define-public crate-edge-mdns-0.2.0 (c (n "edge-mdns") (v "0.2.0") (d (list (d (n "domain") (r "^0.9.3") (f (quote ("heapless"))) (k 0)) (d (n "embassy-futures") (r "^0.1") (o #t) (k 0)) (d (n "embassy-sync") (r "^0.5") (o #t) (k 0)) (d (n "embassy-time") (r "^0.3") (o #t) (k 0)) (d (n "embedded-nal-async") (r "^0.7") (o #t) (k 0)) (d (n "embedded-nal-async-xtra") (r "^0.2.0") (o #t) (k 0)) (d (n "heapless") (r "^0.8") (k 0)) (d (n "heapless07") (r "^0.7") (d #t) (k 0) (p "heapless")) (d (n "log") (r "^0.4") (k 0)) (d (n "octseq") (r "^0.3.2") (k 0)))) (h "1njzg5ca1hl0b4sxl21yhbis65xar3zim4ilnxap6ffybd0qn8kk") (f (quote (("std" "io") ("io" "embassy-futures" "embassy-sync" "embassy-time" "embedded-nal-async" "embedded-nal-async-xtra") ("default" "io"))))))
+

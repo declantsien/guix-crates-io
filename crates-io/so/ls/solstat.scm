@@ -1,0 +1,12 @@
+(define-module (crates-io so ls solstat) #:use-module (crates-io))
+
+(define-public crate-solstat-0.1.0 (c (n "solstat") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colour") (r "^0.6.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solang-parser") (r "^0.1.13") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "1sq34fr37382dfjb3m90afk5swlb0xjjp11mzjzqdijlsyrw7pm0")))
+
+(define-public crate-solstat-0.2.0 (c (n "solstat") (v "0.2.0") (d (list (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colour") (r "^0.6.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solang-parser") (r "^0.1.13") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0albwdy5dj780j55nzj5f7ffw0qkrsbndvjwfrlzr6dc33i9qnsh")))
+
+(define-public crate-solstat-0.3.0 (c (n "solstat") (v "0.3.0") (d (list (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colour") (r "^0.6.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solang-parser") (r "^0.1.13") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "122gbrhk9wz86dvsrqfz6rlynw095hbnjwjhsr7jf1hvsz9zxgd6")))
+
+(define-public crate-solstat-0.4.0 (c (n "solstat") (v "0.4.0") (d (list (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colour") (r "^0.6.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solang-parser") (r "^0.1.13") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "100g0yv46yxhviprnz83qa7l3np4rw1i9awr662p2hnp6388zvsb")))
+
+(define-public crate-solstat-0.5.0 (c (n "solstat") (v "0.5.0") (d (list (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colour") (r "^0.6.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solang-parser") (r "^0.1.13") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0rbwrji72sd4444mvh7fix2llhi5dkdzxfh2dcdhac9gwa3w6yx7")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io io ta iota-pow) #:use-module (crates-io))
+
+(define-public crate-iota-pow-0.1.0 (c (n "iota-pow") (v "0.1.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "iota-conversion") (r "^0.1.0") (d #t) (k 0)) (d (n "iota-crypto") (r "^0.1.0") (d #t) (k 0)) (d (n "iota-model") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0hprnfr2ql0mg42rni6s3cfz4fixq13bzcwc8zq2c8skny4sz93q")))
+
+(define-public crate-iota-pow-0.2.0 (c (n "iota-pow") (v "0.2.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "iota-conversion") (r "^0.2.0") (d #t) (k 0)) (d (n "iota-crypto") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "11hcdd8ip0dfdb70i01gybrw4fi2mbqw2yr55mcd068gb6j5hnia")))
+
+(define-public crate-iota-pow-0.4.0 (c (n "iota-pow") (v "0.4.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "iota-conversion") (r "^0.4.0") (d #t) (k 0)) (d (n "iota-crypto") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0abci398lg536gmrb9ljvizhc01as3xgi1kv7jyxggv12mk4blca") (y #t)))
+
+(define-public crate-iota-pow-0.2.1 (c (n "iota-pow") (v "0.2.1") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "iota-conversion") (r "^0.3.0") (d #t) (k 0)) (d (n "iota-crypto") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "0q3yk67iic3a0h932dd3jamb25c5ggl1w0drg67hz897ikvr609f")))
+
+(define-public crate-iota-pow-1.0.0-rc.1 (c (n "iota-pow") (v "1.0.0-rc.1") (d (list (d (n "iota-crypto") (r "^0.15.2") (f (quote ("blake2b" "digest" "curl-p" "ternary_encoding"))) (k 0)) (d (n "thiserror") (r "^1.0.37") (k 0)))) (h "11xwqb5wp61j7d8f5w989f5w0bqcbqnfv0w9v577pyirsj4w12b3")))
+
+(define-public crate-iota-pow-1.0.0-rc.2 (c (n "iota-pow") (v "1.0.0-rc.2") (d (list (d (n "instant") (r "^0.1.12") (f (quote ("wasm-bindgen"))) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "iota-crypto") (r "^0.15.3") (f (quote ("blake2b" "digest" "curl-p" "ternary_encoding"))) (k 0)) (d (n "num_cpus") (r "^1.14.0") (k 0)) (d (n "thiserror") (r "^1.0.38") (k 0)))) (h "0w754zh80wx48js65vcz718chyps8rp3ndxxyydrg27gfh6r2j9z")))
+
+(define-public crate-iota-pow-1.0.0-rc.3 (c (n "iota-pow") (v "1.0.0-rc.3") (d (list (d (n "iota-crypto") (r "^0.15.3") (f (quote ("blake2b" "digest" "curl-p" "ternary_encoding"))) (k 0)) (d (n "num_cpus") (r "^1.15.0") (k 0)) (d (n "thiserror") (r "^1.0.38") (k 0)) (d (n "instant") (r "^0.1.12") (f (quote ("wasm-bindgen"))) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "072zxqp6d1lnjx262shx8fnh5bwk51iagl75llpwd95dsvjzzcvk")))
+
+(define-public crate-iota-pow-1.0.0-rc.4 (c (n "iota-pow") (v "1.0.0-rc.4") (d (list (d (n "iota-crypto") (r "^0.15.3") (f (quote ("blake2b" "digest" "curl-p" "ternary_encoding"))) (k 0)) (d (n "num_cpus") (r "^1.15.0") (k 0)) (d (n "instant") (r "^0.1.12") (f (quote ("wasm-bindgen"))) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "1k70kn6cxm492m40p6bncrs8s5ws3gxndbl660v5dlmshc24w9s9")))
+

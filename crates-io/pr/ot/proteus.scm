@@ -1,0 +1,14 @@
+(define-module (crates-io pr ot proteus) #:use-module (crates-io))
+
+(define-public crate-proteus-0.1.0 (c (n "proteus") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "snafu") (r "^0.6.0") (d #t) (k 0)) (d (n "typetag") (r "^0.1.4") (d #t) (k 0)))) (h "0a3sddwzgllcc476fakj40a6q9c8hrmfyj5r4a5v90vg4di16sdz")))
+
+(define-public crate-proteus-0.1.1 (c (n "proteus") (v "0.1.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "snafu") (r "^0.6.0") (d #t) (k 0)) (d (n "typetag") (r "^0.1.4") (d #t) (k 0)))) (h "1adnq0395cpk67s40hiac8wz0f72h7dbh8qfr5xw7xc410j25hnh")))
+
+(define-public crate-proteus-0.2.0 (c (n "proteus") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)) (d (n "typetag") (r "^0.1.4") (d #t) (k 0)))) (h "0wfxf237rn6a19ys31bspwrw5ajvr5axizfrpz9q135hdlyx7x68")))
+
+(define-public crate-proteus-0.3.0 (c (n "proteus") (v "0.3.0") (d (list (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)) (d (n "typetag") (r "^0.1.6") (d #t) (k 0)))) (h "1n00sbmmmhxlq227k1bzjqd3k3zyl3d7k3va58hmp0lar24c2sbh")))
+
+(define-public crate-proteus-0.4.0 (c (n "proteus") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.5.2") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "typetag") (r "^0.1.6") (d #t) (k 0)))) (h "188gybrl36cbzaaf2smjs6ahf0xfp5lldj0jgx24cc34zcmqrdz4")))
+
+(define-public crate-proteus-0.5.0 (c (n "proteus") (v "0.5.0") (d (list (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "typetag") (r "^0.1.7") (d #t) (k 0)))) (h "0qn3rz1ylbqdckpip5cp9b4r4cf97d4n7fmzrbg4z29pal89d4r7")))
+

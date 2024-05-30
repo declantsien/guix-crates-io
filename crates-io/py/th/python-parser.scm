@@ -1,0 +1,6 @@
+(define-module (crates-io py th python-parser) #:use-module (crates-io))
+
+(define-public crate-python-parser-0.1.0 (c (n "python-parser") (v "0.1.0") (d (list (d (n "nom") (r "^4.0") (d #t) (k 0)) (d (n "nom_locate") (r "^0.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.4") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4") (d #t) (k 2)) (d (n "unicode-xid") (r "^0.1") (d #t) (k 0)) (d (n "unicode_names2") (r "^0.2.1") (d #t) (k 0)) (d (n "wtf8") (r "^0.0.3") (o #t) (d #t) (k 0)))) (h "09kvlr794qgfs2zfp6mzwnmsw6r4y7yqc0x0sp1p429ikchvndqi") (f (quote (("default" "bigint" "wtf8") ("bigint" "num-traits" "num-bigint"))))))
+
+(define-public crate-python-parser-0.2.0 (c (n "python-parser") (v "0.2.0") (d (list (d (n "nom") (r "^4.0") (d #t) (k 0)) (d (n "nom_locate") (r "^0.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.4") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4") (d #t) (k 2)) (d (n "unicode-xid") (r "^0.1") (d #t) (k 0)) (d (n "unicode_names2") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "wtf8") (r "^0.0.3") (o #t) (d #t) (k 0)))) (h "1phh7hs0b8ls2ysj2wfpvap9knyria8hhcb4k7lbjkcw9z8r8db8") (f (quote (("unicode-names" "unicode_names2") ("default" "bigint" "wtf8" "unicode-names") ("bigint" "num-traits" "num-bigint"))))))
+

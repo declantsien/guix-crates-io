@@ -1,0 +1,4 @@
+(define-module (crates-io md ns mdns-resolver) #:use-module (crates-io))
+
+(define-public crate-mdns-resolver-0.1.0 (c (n "mdns-resolver") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "simple-dns") (r "^0.2") (d #t) (k 0)) (d (n "socket2") (r "^0.4") (f (quote ("all"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.5") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (o #t) (d #t) (k 0)))) (h "16j23ssn1xm26k09qsl2zvns2422h0lci9cnc221afz6gsy01fi0") (f (quote (("default") ("bins" "color-eyre" "tracing-error" "tracing-subscriber"))))))
+

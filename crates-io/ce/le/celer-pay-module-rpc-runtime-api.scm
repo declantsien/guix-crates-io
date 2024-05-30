@@ -1,0 +1,6 @@
+(define-module (crates-io ce le celer-pay-module-rpc-runtime-api) #:use-module (crates-io))
+
+(define-public crate-celer-pay-module-rpc-runtime-api-0.8.8 (c (n "celer-pay-module-rpc-runtime-api") (v "0.8.8") (d (list (d (n "codec") (r "^1.3.4") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sp-api") (r "^2.0.0") (k 0)) (d (n "sp-runtime") (r "^2.0.0") (k 0)) (d (n "sp-std") (r "^2.0.0") (k 0)))) (h "1f5sj6vwxr5xq6anknyka2w0aw124mqpd0mslwnycm8siyrn0c44") (f (quote (("std" "serde" "sp-api/std" "codec/std" "sp-std/std" "sp-runtime/std") ("default" "std"))))))
+
+(define-public crate-celer-pay-module-rpc-runtime-api-0.8.9 (c (n "celer-pay-module-rpc-runtime-api") (v "0.8.9") (d (list (d (n "codec") (r "^1.3.4") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sp-api") (r "^2.0.0") (k 0)) (d (n "sp-runtime") (r "^2.0.0") (k 0)) (d (n "sp-std") (r "^2.0.0") (k 0)))) (h "0km0swyiwbyadx02qv7la859i8wg2q5bncn1cs6wnsbvd0cd3z05") (f (quote (("std" "serde" "sp-api/std" "codec/std" "sp-std/std" "sp-runtime/std") ("default" "std"))))))
+

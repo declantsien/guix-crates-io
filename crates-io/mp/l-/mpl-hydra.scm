@@ -1,0 +1,8 @@
+(define-module (crates-io mp l- mpl-hydra) #:use-module (crates-io))
+
+(define-public crate-mpl-hydra-0.4.0 (c (n "mpl-hydra") (v "0.4.0") (d (list (d (n "anchor-lang") (r "^0.25.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.25.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.6.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0s7mjd0x456iqjw8j8kxq7pvvn9q0nvmf4wqhg7m62hf2y85h9p4") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-mpl-hydra-0.3.1 (c (n "mpl-hydra") (v "0.3.1") (d (list (d (n "anchor-lang") (r "=0.26.0") (d #t) (k 0)) (d (n "anchor-spl") (r "=0.26.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.7.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solana-program") (r "=1.14.18") (d #t) (k 0)) (d (n "spl-token") (r "^3.5.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "16qa20afqfp95brvssrix4ld2ynydmix6bjn73asypb83wk5y85z") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-mpl-hydra-0.4.2 (c (n "mpl-hydra") (v "0.4.2") (d (list (d (n "anchor-lang") (r "^0.26.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.26.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.7.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solana-zk-token-sdk") (r "~1.14.13") (d #t) (k 0)) (d (n "spl-token") (r "^3.5.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0jisrwmi9hfkg53rqmp4w2xs610mqlnpxka41jy5394fml1cxsfr") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# m mmt) #:use-module (crates-io))
+
+(define-public crate-mmt-0.2.1 (c (n "mmt") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "is_copy") (r "^0.1") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0r787ajxr2zjg4d8aq39w36l77y1a0syq4wfm57vmsmsj612qgwq")))
+
+(define-public crate-mmt-0.2.2 (c (n "mmt") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "is_copy") (r "^0.1") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "06skaw3142wnmr1agkaigzbw967ms1bmwciafkaam9b1avvw3nxm")))
+
+(define-public crate-mmt-0.2.3 (c (n "mmt") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "is_copy") (r "^0.1") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1jwx340l8v3mibadn36xjdzz7da4220pppdkaa3i7izmbb4n5k4k")))
+
+(define-public crate-mmt-0.2.4 (c (n "mmt") (v "0.2.4") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dev_util") (r "^0.1") (d #t) (k 0)) (d (n "is_copy") (r "^0.1") (d #t) (k 0)) (d (n "kamadak-exif") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "025396vj6cnykm2bn72h8766x365w802zbxbxln83iwki39cy4gq")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sh ri shrink-ray) #:use-module (crates-io))
+
+(define-public crate-shrink-ray-0.1.0 (c (n "shrink-ray") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("display" "error" "from"))) (k 0)) (d (n "infer") (r "^0.15.0") (k 0)) (d (n "nix") (r "^0.27.1") (f (quote ("signal"))) (d #t) (t "cfg(target_family = \"unix\")") (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("io-util" "rt-multi-thread" "macros" "process" "fs" "signal"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "1i1wkl0li0hxr0w2q095yhh5dbxkk5ybciv1pncgib9rvbq3d178")))
+

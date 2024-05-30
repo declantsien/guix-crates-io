@@ -1,0 +1,6 @@
+(define-module (crates-io ch or chord2key) #:use-module (crates-io))
+
+(define-public crate-chord2key-0.1.0 (c (n "chord2key") (v "0.1.0") (d (list (d (n "bitvec") (r "^0.21") (f (quote ("serde"))) (d #t) (k 0)) (d (n "evdev") (r "^0.11.0") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.11.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.11.0") (d #t) (k 0)))) (h "00bxmqhmfwg87rb7srpvcqy0rq5vs23wi4y0z2h11ryzpc0ssd5b")))
+
+(define-public crate-chord2key-0.1.1 (c (n "chord2key") (v "0.1.1") (d (list (d (n "bitvec") (r "^0.21") (f (quote ("serde"))) (d #t) (k 0)) (d (n "evdev") (r "^0.11.0") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.11.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.11.0") (d #t) (k 0)))) (h "15karrxjxzxxj1v5rb5nh9jxfj39nwx3q7pshv8663am78d2ykaz")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io po ll pollenwall) #:use-module (crates-io))
+
+(define-public crate-pollenwall-0.2.0 (c (n "pollenwall") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "clap") (r "^3.0.0") (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "ipfs-api") (r "^0.14") (d #t) (k 0)) (d (n "multibase") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (d #t) (k 0)) (d (n "wallpaper") (r "^3") (f (quote ("from_url"))) (d #t) (k 0)))) (h "0jyypp0lcdck5l2km9shs2phs9ha9gr8xwfrk0arzizlg21v6mmp")))
+
+(define-public crate-pollenwall-0.2.1 (c (n "pollenwall") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "clap") (r "^3.0.0") (d #t) (k 0)) (d (n "console") (r "^0.15.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "ipfs-api") (r "^0.14") (d #t) (k 0)) (d (n "multibase") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.8") (d #t) (k 0)) (d (n "wallpaper") (r "^3") (f (quote ("from_url"))) (d #t) (k 0)))) (h "1fhbccrpk3h7d29j0lggbl9sgadvj8my42y368v5qdr203c97z74")))
+

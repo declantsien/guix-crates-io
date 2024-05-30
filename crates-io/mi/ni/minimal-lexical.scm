@@ -1,0 +1,16 @@
+(define-module (crates-io mi ni minimal-lexical) #:use-module (crates-io))
+
+(define-public crate-minimal-lexical-0.1.0 (c (n "minimal-lexical") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.4") (f (quote ("array-sizes-33-128"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "ryu") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0imrq4dv2g6a08c0m0nw87n088wgld1r68zwn9na6hkqcm7lz9fj") (f (quote (("std") ("rng" "rand_core" "rand_xorshift" "ryu") ("no_alloc" "arrayvec") ("examples") ("default" "std") ("comprehensive_float_test" "rand/std" "serde/std" "serde_derive" "std" "toml"))))))
+
+(define-public crate-minimal-lexical-0.1.1 (c (n "minimal-lexical") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.4") (f (quote ("array-sizes-33-128"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "ryu") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1k1zvd91z928my501vzf33ghachf97vib1wwdqxh96jiy9zkwh7b") (f (quote (("std") ("rng" "rand_core" "rand_xorshift" "ryu") ("no_alloc" "arrayvec") ("examples") ("default" "std") ("comprehensive_float_test" "rand/std" "serde/std" "serde_derive" "std" "toml"))))))
+
+(define-public crate-minimal-lexical-0.1.2 (c (n "minimal-lexical") (v "0.1.2") (d (list (d (n "arrayvec") (r "^0.4") (f (quote ("array-sizes-33-128"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "ryu") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1cn4r3xn9xgxsn256npj8nmkq0rfzdn8zr48w0zkrx1lxllbp5b5") (f (quote (("std") ("rng" "rand_core" "rand_xorshift" "ryu") ("no_alloc" "arrayvec") ("examples") ("default" "std") ("comprehensive_float_test" "rand/std" "serde/std" "serde_derive" "std" "toml"))))))
+
+(define-public crate-minimal-lexical-0.1.3 (c (n "minimal-lexical") (v "0.1.3") (h "0v9c06nbn61w7cdz2iihgqlppzzvn72wcvv3b2yy0s2gjx45k0qc") (f (quote (("std") ("no_alloc") ("nightly") ("lint") ("default" "std") ("compact"))))))
+
+(define-public crate-minimal-lexical-0.2.0 (c (n "minimal-lexical") (v "0.2.0") (h "002fc1gckri8dahfr674pa649vl84lbcvf2wvd3mdknqk9qxd02f") (f (quote (("std") ("nightly") ("lint") ("default" "std") ("compact") ("alloc"))))))
+
+(define-public crate-minimal-lexical-0.2.1 (c (n "minimal-lexical") (v "0.2.1") (h "16ppc5g84aijpri4jzv14rvcnslvlpphbszc7zzp6vfkddf4qdb8") (f (quote (("std") ("nightly") ("lint") ("default" "std") ("compact") ("alloc"))))))
+
+(define-public crate-minimal-lexical-0.1.4 (c (n "minimal-lexical") (v "0.1.4") (h "0xynhr97vyv5n5lls41dl7bfa3ba122lix9mqij1l7yprl6n6r4w") (f (quote (("std") ("no_alloc") ("nightly") ("lint") ("default" "std") ("compact"))))))
+

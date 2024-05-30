@@ -1,0 +1,8 @@
+(define-module (crates-io mi cr microbit-bsp) #:use-module (crates-io))
+
+(define-public crate-microbit-bsp-0.1.0 (c (n "microbit-bsp") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (d #t) (k 0)) (d (n "embassy-nrf") (r "^0.1.0") (f (quote ("nrf52833" "gpiote" "time-driver-rtc1" "nfc-pins-as-gpio"))) (k 0)) (d (n "embassy-sync") (r "^0.5") (k 0)) (d (n "embassy-time") (r "^0.3") (k 0)) (d (n "embedded-hal") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (k 0)) (d (n "lsm303agr") (r "^0.3") (d #t) (k 0)))) (h "1srnfzbk3i71d9kygbq95krfiwa9s0pp3893dzbzfjflr4gbrfvh")))
+
+(define-public crate-microbit-bsp-0.2.0 (c (n "microbit-bsp") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (d #t) (k 0)) (d (n "embassy-nrf") (r "^0.1.0") (f (quote ("nrf52833" "gpiote" "time-driver-rtc1" "nfc-pins-as-gpio" "time" "defmt"))) (d #t) (k 0)) (d (n "embassy-sync") (r "^0.5") (k 0)) (d (n "embassy-time") (r "^0.3") (k 0)) (d (n "embedded-hal") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (k 0)) (d (n "lsm303agr") (r "^0.3") (d #t) (k 0)))) (h "00nlnack70kgydygr9ml2dlih5rl3x9km75p9wz94bbc5m668b91")))
+
+(define-public crate-microbit-bsp-0.3.0 (c (n "microbit-bsp") (v "0.3.0") (d (list (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (d #t) (k 0)) (d (n "embassy-nrf") (r "^0.1.0") (f (quote ("nrf52833" "gpiote" "time-driver-rtc1" "nfc-pins-as-gpio" "time" "defmt"))) (d #t) (k 0)) (d (n "embassy-sync") (r "^0.5") (k 0)) (d (n "embassy-time") (r "^0.3") (k 0)) (d (n "embedded-hal") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (k 0)) (d (n "lsm303agr") (r "^0.3") (d #t) (k 0)))) (h "1hppj034pna3m3g34w5h85c9i2zz87lk1kbdndh22i9q5ww0kyiv")))
+

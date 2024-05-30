@@ -1,0 +1,6 @@
+(define-module (crates-io su pe super-process) #:use-module (crates-io))
+
+(define-public crate-super-process-0.0.0 (c (n "super-process") (v "0.0.0") (d (list (d (n "async-process") (r "^1.3.0") (d #t) (k 0)) (d (n "displaydoc") (r "^0.2.4") (d #t) (k 0)) (d (n "futures-lite") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.8.1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.13") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "09fsxr2pvjjd7vm9q9pjvlrmxmq9l64glqmbvyg4q681dw46q927")))
+
+(define-public crate-super-process-0.0.1 (c (n "super-process") (v "0.0.1") (d (list (d (n "async-process") (r "^2.0.1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "displaydoc") (r "^0.2.4") (d #t) (k 0)) (d (n "futures-lite") (r "^1") (d #t) (k 0)) (d (n "indexmap") (r "^1.8.1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.13") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0g6zpj5wgjgff7kkbqka7cial8byfhf1hcdff8pv8mqchhk3dyg3")))
+

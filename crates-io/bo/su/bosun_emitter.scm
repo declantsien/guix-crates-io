@@ -1,0 +1,18 @@
+(define-module (crates-io bo su bosun_emitter) #:use-module (crates-io))
+
+(define-public crate-bosun_emitter-0.0.1 (c (n "bosun_emitter") (v "0.0.1") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "16sz5wdw50xp08fxzsv6aqd5gr2f1cjc7bf3jhy6p104vqm8rihs")))
+
+(define-public crate-bosun_emitter-0.0.4 (c (n "bosun_emitter") (v "0.0.4") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.7") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "1zi5rnc4phzdx0vgbp729ywb1nbdxf8pd7vm6pzvs21j1y1an0fw")))
+
+(define-public crate-bosun_emitter-0.0.5 (c (n "bosun_emitter") (v "0.0.5") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mktemp") (r "^0.1.2") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "1xwniiazqcci0mhgy1kfkf2mf2a3w1jvbdmm0grmwv81803zyn88")))
+
+(define-public crate-bosun_emitter-0.0.6 (c (n "bosun_emitter") (v "0.0.6") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mktemp") (r "^0.1.2") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "1xvmp03g063wyh0pxv1bwpnrv9qrxcdiwjdksgch0rvn49866sbx")))
+
+(define-public crate-bosun_emitter-1.0.0 (c (n "bosun_emitter") (v "1.0.0") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mktemp") (r "^0.1.2") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "0zzwv993av5448izi1p30fbbzsabcmhw5ygrl664h7rv2sr0riic")))
+
+(define-public crate-bosun_emitter-1.0.1 (c (n "bosun_emitter") (v "1.0.1") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mktemp") (r "^0.1.2") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "1089m9ld154liamjmwvfgwj9qiiwbvnqdk68swvpn5jz15r7r7iq")))
+
+(define-public crate-bosun_emitter-1.1.0 (c (n "bosun_emitter") (v "1.1.0") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mktemp") (r "^0.1.2") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "1f2xmmyn3qrb75mbl6g7fhdkdc0grww09zlmff3ybn4bn22bjkpq")))
+
+(define-public crate-bosun_emitter-1.2.0 (c (n "bosun_emitter") (v "1.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mktemp") (r "^0.1.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.1") (d #t) (k 0)))) (h "01n0zdm36xbz424iain6nw0f0xc831j7mmq223wd650mr69cpzg5")))
+

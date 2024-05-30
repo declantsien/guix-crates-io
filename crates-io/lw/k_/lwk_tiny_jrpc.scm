@@ -1,0 +1,10 @@
+(define-module (crates-io lw k_ lwk_tiny_jrpc) #:use-module (crates-io))
+
+(define-public crate-lwk_tiny_jrpc-0.1.0 (c (n "lwk_tiny_jrpc") (v "0.1.0") (h "0r02ks4fmywdp71gxify6mlz183579r722bk2fkdnhkrm5a3r8sy")))
+
+(define-public crate-lwk_tiny_jrpc-0.2.0 (c (n "lwk_tiny_jrpc") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "jsonrpc") (r "^0.17.0") (d #t) (k 0)) (d (n "minreq") (r "^2.9") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0n4mgbpn5j4bp9c22ay6jhx4xr6vkpskac0a3l5ry6rg64nvsv4p")))
+
+(define-public crate-lwk_tiny_jrpc-0.3.0 (c (n "lwk_tiny_jrpc") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "jsonrpc") (r "^0.17.0") (f (quote ("minreq_http"))) (d #t) (k 0)) (d (n "minreq") (r "^2.9") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "07dpjqwv6sxirlma8nzsljdns2qra9l6jg7ycywm53xvrc37nbrb")))
+
+(define-public crate-lwk_tiny_jrpc-0.4.0 (c (n "lwk_tiny_jrpc") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "jsonrpc") (r "^0.17.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("charset" "http2" "macos-system-configuration" "blocking" "json" "rustls-tls"))) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0lzjcgrhb1xpdl8aqn9lp0ynbj93l7hx9xhk584amh0i7kbv4ra1")))
+

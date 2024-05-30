@@ -1,0 +1,10 @@
+(define-module (crates-io pa ss passafe) #:use-module (crates-io))
+
+(define-public crate-passafe-1.0.1 (c (n "passafe") (v "1.0.1") (d (list (d (n "bcrypt") (r "^0.10.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "magic-crypt") (r "^3.1.8") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0x2bp9wadjn2drx587fvcrgp6pn9df151g0wz9cxr2248976kpnr")))
+
+(define-public crate-passafe-1.0.2 (c (n "passafe") (v "1.0.2") (d (list (d (n "bcrypt") (r "^0.10.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "magic-crypt") (r "^3.1.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0959cc9jmp43mw28md3i24h1bqf0r252vd33033dg8q2np4cmwrw")))
+
+(define-public crate-passafe-1.0.3 (c (n "passafe") (v "1.0.3") (d (list (d (n "bcrypt") (r "^0.10.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "magic-crypt") (r "^3.1.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "09afv7s5gk0dk01rhd2pik2pyf641chl06547hdi5wf332njcnii")))
+
+(define-public crate-passafe-1.0.4 (c (n "passafe") (v "1.0.4") (d (list (d (n "bcrypt") (r "^0.10.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "magic-crypt") (r "^3.1.8") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "1injhjanhxn9dc2k7i1ph3wsqi9a3aav5zlq6w5wzmxaigj9asfv")))
+

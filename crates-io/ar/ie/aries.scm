@@ -1,0 +1,4 @@
+(define-module (crates-io ar ie aries) #:use-module (crates-io))
+
+(define-public crate-aries-0.1.0 (c (n "aries") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (d #t) (k 0)) (d (n "jwt") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "memcached-rs") (r "^0.1") (d #t) (k 0)) (d (n "mysql") (r "^6.0") (d #t) (k 0)) (d (n "postgres") (r "^0.11") (d #t) (k 0)) (d (n "r2d2") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "redis") (r "^0.5") (d #t) (k 0)) (d (n "regex") (r "^0.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "1cj532wg01msg1837by0mz7a1yjrsqzscizg15zglcpmw71r6zvn")))
+

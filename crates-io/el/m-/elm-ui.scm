@@ -1,0 +1,4 @@
+(define-module (crates-io el m- elm-ui) #:use-module (crates-io))
+
+(define-public crate-elm-ui-0.0.1-dev (c (n "elm-ui") (v "0.0.1-dev") (d (list (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (f (quote ("event-stream"))) (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("sync" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.7") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("try_into"))) (k 2)) (d (n "tokio") (r "^1.25.0") (f (quote ("sync" "rt-multi-thread" "macros" "time"))) (d #t) (k 2)) (d (n "tui") (r "^0.19.0") (d #t) (k 2)))) (h "1zxf11w2cyx7fyv27ywnjr6iyl48vxqp025xk4rm81119i87chxn")))
+

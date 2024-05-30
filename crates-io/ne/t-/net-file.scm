@@ -1,0 +1,10 @@
+(define-module (crates-io ne t- net-file) #:use-module (crates-io))
+
+(define-public crate-net-file-0.1.0 (c (n "net-file") (v "0.1.0") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1ihya00yydm9hv2blrngi9ch3iq1hkqbw1g4fsiiwbxc08vdvrc0")))
+
+(define-public crate-net-file-0.1.1 (c (n "net-file") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "jsonpath-rust") (r "^0.5.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "0i7fdm6z1jna6sivdh6n5vh6hy1hmdkprxq70qzlp0qgsdp30ci3")))
+
+(define-public crate-net-file-0.1.2 (c (n "net-file") (v "0.1.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "jsonpath-rust") (r "^0.5.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pcap") (r "^1.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "0yj9y68gzb36x9bai31rw9v7mm42438lry50fm6mr9wdvq8zg0yj")))
+
+(define-public crate-net-file-0.1.3 (c (n "net-file") (v "0.1.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "jsonpath-rust") (r "^0.5.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pcap") (r "^1.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1acjzcpcrcrbh6n764izrvmsszghmx37vqjkn9ma1kd2hyjvka2l")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sc al scal3) #:use-module (crates-io))
+
+(define-public crate-scal3-0.1.0 (c (n "scal3") (v "0.1.0") (d (list (d (n "frost-core") (r "^0.7.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "frost-p256") (r "^0.7.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "hmac") (r "^0.12.1") (d #t) (k 2)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "p256") (r "^0.13.2") (d #t) (k 0)) (d (n "postcard") (r "^1.0.8") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serdect") (r "^0.2.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "signature") (r "^2.2.0") (f (quote ("digest"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.7.0") (d #t) (k 0)))) (h "1waa03ql3l3bp1zwgmy0yhklsbsm96fmmq32b8dhbb8i4rkqkr0f")))
+

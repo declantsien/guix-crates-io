@@ -1,0 +1,4 @@
+(define-module (crates-io de ri derive_ops) #:use-module (crates-io))
+
+(define-public crate-derive_ops-0.1.0 (c (n "derive_ops") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0p5k28509ngwdkcca2dsr0g00iij9xn298w0gyvx5pvqzfnc13qd")))
+

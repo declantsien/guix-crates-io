@@ -1,0 +1,8 @@
+(define-module (crates-io wa tc watchrs) #:use-module (crates-io))
+
+(define-public crate-watchrs-0.1.0 (c (n "watchrs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.38.0") (d #t) (k 0)) (d (n "rusoto_events") (r "^0.38.0") (d #t) (k 0)) (d (n "rusoto_sns") (r "^0.38.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0aci1mqm2343bvxx2jvbyg2xsdgi8mf0spvjfsh2x62pgn220jz2")))
+
+(define-public crate-watchrs-0.2.0 (c (n "watchrs") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.38.0") (d #t) (k 0)) (d (n "rusoto_events") (r "^0.38.0") (d #t) (k 0)) (d (n "rusoto_sns") (r "^0.38.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "10h09wzmhh2k4f91mk4ps6q252dlcmhh36ijrpnyyh7446pyg20v")))
+
+(define-public crate-watchrs-0.2.1 (c (n "watchrs") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.38.0") (d #t) (k 0)) (d (n "rusoto_events") (r "^0.38.0") (d #t) (k 0)) (d (n "rusoto_sns") (r "^0.38.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0x6lp9alsc67k76ncxd7d1jg2f8rmgffp4laraxlybsv51pmshwb")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ti ny tiny-dynamo) #:use-module (crates-io))
+
+(define-public crate-tiny-dynamo-0.1.0 (c (n "tiny-dynamo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "fastly") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.11") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "12k8hb0xkv3lih7g89dry1ja301inic23sycg0b10akjznxl4f21")))
+
+(define-public crate-tiny-dynamo-0.1.2 (c (n "tiny-dynamo") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "fastly") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.11") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "01slyspvx28hhq962a4gyl9jj8n2qw90vq7a95f5arky0q15x0yj")))
+

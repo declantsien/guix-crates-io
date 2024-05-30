@@ -1,0 +1,4 @@
+(define-module (crates-io hd dw hddwiper) #:use-module (crates-io))
+
+(define-public crate-hddwiper-2.0.0 (c (n "hddwiper") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.53") (d #t) (k 0)) (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "generic-array") (r "^0.14.5") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rdrand") (r "^0.8.2") (d #t) (k 0)) (d (n "running-average") (r "^0.1.0") (d #t) (k 0)) (d (n "salsa20") (r "^0.10.2") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1w21ql4bmrr7mjghzxd8jbfzgklms9mcznysj7qv823dc6rylz03")))
+

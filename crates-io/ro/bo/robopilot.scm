@@ -1,0 +1,10 @@
+(define-module (crates-io ro bo robopilot) #:use-module (crates-io))
+
+(define-public crate-robopilot-0.2.0 (c (n "robopilot") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "device_query") (r "^0.2.8") (d #t) (k 0)) (d (n "enigo") (r "^0.0.14") (d #t) (k 0)) (d (n "process_list") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1p0gmkq45xwa8xsdg5rbiykx3badc9f3ljfgn5vsnqi0y2lxns6w") (y #t)))
+
+(define-public crate-robopilot-0.2.1 (c (n "robopilot") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "device_query") (r "^0.2.8") (d #t) (k 0)) (d (n "enigo") (r "^0.0.14") (d #t) (k 0)) (d (n "process_list") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0invyy4s13n6vdf573sb0pshw6fgm5f2d64m2s4g1z2iwcwb8abx")))
+
+(define-public crate-robopilot-0.3.1 (c (n "robopilot") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "device_query") (r "^0.2.8") (d #t) (k 0)) (d (n "enigo") (r "^0.0.14") (d #t) (k 0)) (d (n "process_list") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1gsxy5np0wpp9s783y7mrsq9vl42r5iszigs5kbbgyb6wnja45r8")))
+
+(define-public crate-robopilot-1.0.0-alpha (c (n "robopilot") (v "1.0.0-alpha") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "device_query") (r "^0.2.8") (d #t) (k 0)) (d (n "enigo") (r "^0.0.14") (d #t) (k 0)) (d (n "process_list") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "winres") (r "^0.1") (d #t) (k 1)))) (h "110i0rqxka39bzy97qpw4ygjchbhps4q27swchcsvlva123pi6xs")))
+

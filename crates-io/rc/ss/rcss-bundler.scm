@@ -1,0 +1,4 @@
+(define-module (crates-io rc ss rcss-bundler) #:use-module (crates-io))
+
+(define-public crate-rcss-bundler-0.2.0 (c (n "rcss-bundler") (v "0.2.0") (d (list (d (n "camino") (r "^1.1.6") (o #t) (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.18") (o #t) (d #t) (k 0)) (d (n "macro-visit") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (f (quote ("span-locations"))) (o #t) (d #t) (k 0)) (d (n "rcss-core") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.15") (f (quote ("full" "visit" "parsing" "extra-traits"))) (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.8.9") (o #t) (d #t) (k 0)))) (h "17f3ilriwfw1xf6kz388zx4wl2zsy9b43gb463wyqihqbnp3mnc7") (f (quote (("default" "full")))) (s 2) (e (quote (("full" "dep:cargo_metadata" "dep:camino" "dep:toml" "dep:syn" "dep:proc-macro2" "dep:macro-visit" "dep:rcss-core"))))))
+

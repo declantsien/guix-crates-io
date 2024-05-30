@@ -1,0 +1,8 @@
+(define-module (crates-io im gu imgui-vulkano-renderer-unsafe) #:use-module (crates-io))
+
+(define-public crate-imgui-vulkano-renderer-unsafe-0.5.0 (c (n "imgui-vulkano-renderer-unsafe") (v "0.5.0") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.23.8") (d #t) (k 2)) (d (n "imgui") (r "^0.6.1") (d #t) (k 0)) (d (n "imgui-winit-support") (r "^0.6.1") (d #t) (k 2)) (d (n "vulkano") (r "^0.20.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.20.0") (d #t) (k 0)) (d (n "vulkano-win") (r "^0.20.0") (d #t) (k 2)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "0zbfwrchhlgazna05jprwy3f4prl7bxij40gqwsyav6pjv84nrlg")))
+
+(define-public crate-imgui-vulkano-renderer-unsafe-0.5.1 (c (n "imgui-vulkano-renderer-unsafe") (v "0.5.1") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.23.8") (d #t) (k 2)) (d (n "imgui") (r "^0.6.1") (d #t) (k 0)) (d (n "imgui-winit-support") (r "^0.6.1") (d #t) (k 2)) (d (n "vulkano") (r "^0.20.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.20.0") (d #t) (k 0)) (d (n "vulkano-win") (r "^0.20.0") (d #t) (k 2)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "017jda8jn7k668kq4cs1f47fd8smc1np1wdvffyw1jl3c47qb290")))
+
+(define-public crate-imgui-vulkano-renderer-unsafe-0.6.1 (c (n "imgui-vulkano-renderer-unsafe") (v "0.6.1") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.23.8") (d #t) (k 2)) (d (n "imgui") (r "^0.7.0") (d #t) (k 0)) (d (n "imgui-winit-support") (r "^0.7.0") (d #t) (k 2)) (d (n "vulkano") (r "^0.20.0") (d #t) (k 0)) (d (n "vulkano-shaders") (r "^0.20.0") (d #t) (k 0)) (d (n "vulkano-win") (r "^0.20.0") (d #t) (k 2)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "0q56x4bx9dh1721ipg169ax275mkm220bqh18g2qmbs671b5hg84")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ac ti actix-web-codegen-const-routes) #:use-module (crates-io))
+
+(define-public crate-actix-web-codegen-const-routes-0.2.0 (c (n "actix-web-codegen-const-routes") (v "0.2.0") (d (list (d (n "actix-macros") (r "^0.2.4") (d #t) (k 2)) (d (n "actix-router") (r "^0.5") (d #t) (k 0)) (d (n "actix-rt") (r "^2.2") (d #t) (k 2)) (d (n "actix-test") (r "^0.1") (d #t) (k 2)) (d (n "actix-utils") (r "^3") (d #t) (k 2)) (d (n "actix-web") (r "^4") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.17") (f (quote ("alloc"))) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1") (d #t) (k 2)))) (h "0g7mkvfcbd6p9ahrq83r9pf8y0n6m3228dv6a7a82b5wgivi5mwr")))
+

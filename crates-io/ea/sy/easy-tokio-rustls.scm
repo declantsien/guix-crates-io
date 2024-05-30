@@ -1,0 +1,10 @@
+(define-module (crates-io ea sy easy-tokio-rustls) #:use-module (crates-io))
+
+(define-public crate-easy-tokio-rustls-0.1.0 (c (n "easy-tokio-rustls") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.23.3") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22.3") (d #t) (k 0)))) (h "0f7bg4awlk46vhn5r59ijhd3mkbbwzxb1a9yzy5lahrxdgrlfgb8")))
+
+(define-public crate-easy-tokio-rustls-0.1.1 (c (n "easy-tokio-rustls") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.23.3") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22.3") (d #t) (k 0)))) (h "1pwn1n4c1np7i6mxks8m1vvygnz32dnjlbn8h1546x5c45gpjc5z")))
+
+(define-public crate-easy-tokio-rustls-0.1.2 (c (n "easy-tokio-rustls") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.23.3") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22.3") (d #t) (k 0)))) (h "1x8chjfpcb330ixl66qz1iwbk155m3a8h8a5jp6axqg8jqz4ii14")))
+
+(define-public crate-easy-tokio-rustls-0.1.3 (c (n "easy-tokio-rustls") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.23.3") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22.3") (d #t) (k 0)))) (h "1p8k58yaxhx84ycrhxr1yr9pxvahpyc3ycsl83jvdx3xslbf2sy8")))
+

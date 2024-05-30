@@ -1,0 +1,10 @@
+(define-module (crates-io i_ da i_dao) #:use-module (crates-io))
+
+(define-public crate-i_dao-0.1.0 (c (n "i_dao") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "mysql") (r "^25.0.0") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^24.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "133hp1fkgk3dkc1k28gzl1i1pkw9bl5f84zlspixx47g2a7f54wf") (r "1.74")))
+
+(define-public crate-i_dao-0.1.1 (c (n "i_dao") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "mysql") (r "^25.0.0") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^24.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "1vra41c658xbq2p4cv10vx3qr4bjhwzr2xq7nixrri2lp7dfghv6") (r "1.74")))
+
+(define-public crate-i_dao-0.1.3 (c (n "i_dao") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "i_dao_proc_macro") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "mysql") (r "^25.0.0") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^24.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0camq8fnn7mjy36w3vc9j4yghashpsvsspl07br4m2kbs7wvyznl") (r "1.74")))
+
+(define-public crate-i_dao-0.1.4 (c (n "i_dao") (v "0.1.4") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "i_dao_proc_macro") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "mysql") (r "^25.0.0") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^24.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0q972gjz3h8g80b31nkylmx6qadf4d93c4bjz290l122pxxvr90a") (r "1.74")))
+

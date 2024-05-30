@@ -1,0 +1,6 @@
+(define-module (crates-io ke yv keyvaluedb-memorydb) #:use-module (crates-io))
+
+(define-public crate-keyvaluedb-memorydb-0.1.0 (c (n "keyvaluedb-memorydb") (v "0.1.0") (d (list (d (n "keyvaluedb") (r "^0.1.0") (d #t) (k 0)) (d (n "keyvaluedb-shared-tests") (r "^0.1.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt" "macros"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)))) (h "08cbfskhrlj77m0bdycrri5vjqjnkhan8bpn8vgii0v5mqjc7z8l") (f (quote (("default"))))))
+
+(define-public crate-keyvaluedb-memorydb-0.1.1 (c (n "keyvaluedb-memorydb") (v "0.1.1") (d (list (d (n "keyvaluedb") (r "^0.1.1") (d #t) (k 0)) (d (n "keyvaluedb-shared-tests") (r "^0.1.1") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt" "macros"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)) (d (n "wasm-bindgen-test") (r "^0.3.37") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)))) (h "1zy8ks16cqdr7zsdsyfqgr9zwig42xlczy10pi2pin8y0irj3032") (f (quote (("default"))))))
+

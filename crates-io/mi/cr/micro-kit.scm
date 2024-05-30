@@ -1,0 +1,8 @@
+(define-module (crates-io mi cr micro-kit) #:use-module (crates-io))
+
+(define-public crate-micro-kit-0.1.0 (c (n "micro-kit") (v "0.1.0") (d (list (d (n "iron") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.4") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.3") (d #t) (k 0)))) (h "0nzhipgw4bgd80bvr80zn8fs2snqrd7w3i5iazy0mddlsnq1nkyv")))
+
+(define-public crate-micro-kit-1.2.0 (c (n "micro-kit") (v "1.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iron") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.5") (d #t) (k 0)) (d (n "metrics") (r "^0.2") (d #t) (k 0)) (d (n "rmp") (r "^0.8") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13") (d #t) (k 0)) (d (n "router") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.3") (d #t) (k 0)))) (h "0ikl9gydcv7ham43f14zf9lkn52xg607f98h7c5x2nwsrmvf2j2s")))
+
+(define-public crate-micro-kit-1.3.0 (c (n "micro-kit") (v "1.3.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iron") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.5") (d #t) (k 0)) (d (n "metrics") (r "^0.2") (d #t) (k 0)) (d (n "router") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.3") (d #t) (k 0)))) (h "1ibf07hf2wn8drnj75mhdsalbd8d6z0vqk03m3f4fkxv2av4j575")))
+

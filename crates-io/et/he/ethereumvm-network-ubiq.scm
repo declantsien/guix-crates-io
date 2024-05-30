@@ -1,0 +1,4 @@
+(define-module (crates-io et he ethereumvm-network-ubiq) #:use-module (crates-io))
+
+(define-public crate-ethereumvm-network-ubiq-0.11.0 (c (n "ethereumvm-network-ubiq") (v "0.11.0") (d (list (d (n "ethereum-bigint") (r "^0.2") (k 0)) (d (n "ethereumvm") (r "^0.11") (k 0)) (d (n "ethereumvm-precompiled-bn128") (r "^0.11") (k 0)) (d (n "ethereumvm-precompiled-modexp") (r "^0.11") (k 0)))) (h "1gplq8v1jns3gxfrnxpgzjws91fqv270rwyqk4gj235pww7xqpak") (f (quote (("std" "ethereumvm/std") ("rust-secp256k1" "ethereumvm/rust-secp256k1" "ethereumvm-precompiled-bn128/rust-secp256k1" "ethereumvm-precompiled-modexp/rust-secp256k1") ("rlp" "ethereum-bigint/rlp") ("default" "std" "rust-secp256k1") ("c-secp256k1" "ethereumvm/c-secp256k1" "ethereumvm-precompiled-bn128/c-secp256k1" "ethereumvm-precompiled-modexp/c-secp256k1"))))))
+

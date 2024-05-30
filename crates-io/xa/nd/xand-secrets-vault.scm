@@ -1,0 +1,4 @@
+(define-module (crates-io xa nd xand-secrets-vault) #:use-module (crates-io))
+
+(define-public crate-xand-secrets-vault-0.8.2 (c (n "xand-secrets-vault") (v "0.8.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "secrecy") (r "^0.7.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.8.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "xand-secrets") (r "^0.4.2") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "matches") (r "^0.1.8") (d #t) (k 2)) (d (n "mockito") (r "^0.26.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 2)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "xand-utils") (r "^1.0.0") (d #t) (k 2)))) (h "0s8s8p7daj3ikfril75iah4n5nzmjfladlbfimxp1cksim0nxyiw")))
+

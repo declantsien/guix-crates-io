@@ -1,0 +1,14 @@
+(define-module (crates-io si mp simple_moving_average) #:use-module (crates-io))
+
+(define-public crate-simple_moving_average-0.1.0 (c (n "simple_moving_average") (v "0.1.0") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 2)) (d (n "euclid") (r "^0.22.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.29.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (d #t) (k 2)))) (h "03mll7zfj8dz12l7nbsmbvd82i59bwxfvihn1jfdgqb329b3azjb")))
+
+(define-public crate-simple_moving_average-0.1.1 (c (n "simple_moving_average") (v "0.1.1") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 2)) (d (n "euclid") (r "^0.22.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.29.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (d #t) (k 2)))) (h "1k8iv417bh2vinwf043pfxnr01pfgns838diwd5b9a7lfv5cwhvx")))
+
+(define-public crate-simple_moving_average-0.1.2 (c (n "simple_moving_average") (v "0.1.2") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 2)) (d (n "euclid") (r "^0.22.6") (d #t) (k 2)) (d (n "nalgebra") (r "^0.29.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.5.1") (d #t) (k 2)))) (h "089inq7vnlb8v74jh0q1idkk9mk008kzv6a3h9661lma10w9vlfd")))
+
+(define-public crate-simple_moving_average-1.0.0 (c (n "simple_moving_average") (v "1.0.0") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 2)) (d (n "euclid") (r "^0.22.9") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (d #t) (k 2)))) (h "0rr0sxs5djc8ylqvws421iqmhph8sg358agji4p4ylyb2z5r2k5w")))
+
+(define-public crate-simple_moving_average-1.0.1 (c (n "simple_moving_average") (v "1.0.1") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 2)) (d (n "euclid") (r "^0.22.9") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (d #t) (k 2)))) (h "10m38piy7gqy173rqz64fki57pfp1zgvvq0xxcglmcv7m1hx62ca")))
+
+(define-public crate-simple_moving_average-1.0.2 (c (n "simple_moving_average") (v "1.0.2") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 2)) (d (n "euclid") (r "^0.22.9") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.3") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (d #t) (k 2)))) (h "046k7jhiy62pvj9qb1dvbzkagmb5wj9jr7i96g80qhw5s5518jrs")))
+

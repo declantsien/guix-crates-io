@@ -1,0 +1,10 @@
+(define-module (crates-io as yn async-imap-lite) #:use-module (crates-io))
+
+(define-public crate-async-imap-lite-0.0.0 (c (n "async-imap-lite") (v "0.0.0") (h "0g6rpdwil87sdg2b992qhfhpav7ic44j9l2lc4sa9zgj5nk9bqp4")))
+
+(define-public crate-async-imap-lite-0.1.0 (c (n "async-imap-lite") (v "0.1.0") (d (list (d (n "async-io") (r "^0.1") (k 0)) (d (n "async-net") (r "^0.1") (k 0)) (d (n "async-stream-packed") (r "^0.1") (f (quote ("syncable_with_waker"))) (k 0)) (d (n "async-stream-tls-upgrader") (r "^0.1") (k 0)) (d (n "cfg-if") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 0)) (d (n "imap-patch-for-async-imap-lite") (r "^2.2") (k 0)))) (h "11436kpn19d69ganv8h93aqs3mij0ji50f647gcr7i7iniygjkj1") (f (quote (("async_tls" "async-stream-tls-upgrader/async_tls_client") ("async_native_tls" "async-stream-tls-upgrader/async_native_tls_client"))))))
+
+(define-public crate-async-imap-lite-0.1.1 (c (n "async-imap-lite") (v "0.1.1") (d (list (d (n "async-io") (r "^0.1") (k 0)) (d (n "async-net") (r "^0.1") (k 0)) (d (n "async-stream-packed") (r "^0.1") (f (quote ("syncable_with_waker" "upgradable" "tls"))) (k 0)) (d (n "async-stream-tls-upgrader") (r "^0.1") (k 0)) (d (n "cfg-if") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 0)) (d (n "imap-patch-for-async-imap-lite") (r "^2.2") (k 0)))) (h "1b213j95dvf86hx18cbhja7qwiy51njr417864wcwpshp833sd4g") (f (quote (("async_tls" "async-stream-tls-upgrader/async_tls_client") ("async_native_tls" "async-stream-tls-upgrader/async_native_tls_client"))))))
+
+(define-public crate-async-imap-lite-0.1.2 (c (n "async-imap-lite") (v "0.1.2") (d (list (d (n "async-io") (r "^0.1") (k 0)) (d (n "async-net") (r "^0.1") (k 0)) (d (n "async-stream-packed") (r "^0.1.7") (f (quote ("syncable_with_waker" "tls"))) (k 0)) (d (n "async-stream-tls-upgrader") (r "^0.1") (k 0)) (d (n "cfg-if") (r "^0.1") (k 0)) (d (n "futures-lite") (r "^0.1") (k 0)) (d (n "imap-patch-for-async-imap-lite") (r "^2.2") (k 0)))) (h "04gnfxqsmcw7vfykqmprw2k0j4wn1pb5qmn37sdf0ny8w540agh7") (f (quote (("async_tls" "async-stream-tls-upgrader/async_tls_client") ("async_native_tls" "async-stream-tls-upgrader/async_native_tls_client"))))))
+

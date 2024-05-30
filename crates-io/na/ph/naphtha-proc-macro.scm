@@ -1,0 +1,14 @@
+(define-module (crates-io na ph naphtha-proc-macro) #:use-module (crates-io))
+
+(define-public crate-naphtha-proc-macro-0.1.0 (c (n "naphtha-proc-macro") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.28") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.74") (f (quote ("parsing"))) (d #t) (k 0)))) (h "0hb2x3hizlzsvmlxb7chh2ppydkg21r4mk85dbd7n896dx0yxp8n") (f (quote (("sqlite") ("default") ("barrel-sqlite"))))))
+
+(define-public crate-naphtha-proc-macro-0.2.0 (c (n "naphtha-proc-macro") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.28") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.74") (f (quote ("parsing"))) (d #t) (k 0)))) (h "18f7jpjay7csmr9l2pbqpy4s9h2dm41ajiiv7mcm8qxg0mj4gchq") (f (quote (("sqlite") ("full" "sqlite" "barrel-full") ("default") ("barrel-sqlite") ("barrel-full" "barrel-sqlite"))))))
+
+(define-public crate-naphtha-proc-macro-0.3.0 (c (n "naphtha-proc-macro") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0.28") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.74") (f (quote ("parsing"))) (d #t) (k 0)))) (h "18s3nl6kji8z8kb0x0qc8ac12d3zlkkzlfbixfmy10qqs81dipb2") (f (quote (("sqlite") ("full" "sqlite" "barrel-full") ("default") ("barrel-sqlite") ("barrel-full" "barrel-sqlite"))))))
+
+(define-public crate-naphtha-proc-macro-0.4.0 (c (n "naphtha-proc-macro") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1.0.28") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.74") (f (quote ("parsing"))) (d #t) (k 0)))) (h "0pqkvcw45av7xkbclfzpwzs8vhk6lygqpbgp8zcap2np578l7a1q") (f (quote (("sqlite") ("mysql") ("full" "sqlite" "mysql" "barrel-full") ("default") ("barrel-sqlite") ("barrel-mysql") ("barrel-full" "barrel-sqlite" "barrel-mysql"))))))
+
+(define-public crate-naphtha-proc-macro-0.4.1 (c (n "naphtha-proc-macro") (v "0.4.1") (d (list (d (n "proc-macro2") (r "^1.0.28") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.74") (f (quote ("parsing"))) (d #t) (k 0)))) (h "0dwb59i2ihz91v1d8y9zq09in62sb1qdbg3jg7i7mxps9l6bn3fd") (f (quote (("sqlite") ("mysql") ("full" "sqlite" "mysql" "barrel-full") ("default") ("barrel-sqlite") ("barrel-mysql") ("barrel-full" "barrel-sqlite" "barrel-mysql"))))))
+
+(define-public crate-naphtha-proc-macro-0.5.0 (c (n "naphtha-proc-macro") (v "0.5.0") (d (list (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("parsing"))) (d #t) (k 0)))) (h "01h5wz45bhbivw99wxkxw17gvdybs3psi6yspm9hdqj9ism82j0k") (f (quote (("sqlite") ("pg") ("mysql") ("full" "sqlite" "mysql" "pg" "barrel-full") ("default") ("barrel-sqlite") ("barrel-pg") ("barrel-mysql") ("barrel-full" "barrel-sqlite" "barrel-mysql" "barrel-pg"))))))
+

@@ -1,0 +1,42 @@
+(define-module (crates-io ls p- lsp-server) #:use-module (crates-io))
+
+(define-public crate-lsp-server-0.1.0 (c (n "lsp-server") (v "0.1.0") (d (list (d (n "crossbeam-channel") (r "^0.3.5") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.61.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0lx0vrjqdh76c85mjw8p7swbgm36gppg2j24y4wilv04532jwqs7")))
+
+(define-public crate-lsp-server-0.2.0 (c (n "lsp-server") (v "0.2.0") (d (list (d (n "crossbeam-channel") (r "^0.3.5") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.61.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "04i06q85g9n0yp3xqpsjdksfdxa2nb8hz8mlkwyw559j1cfgp30l")))
+
+(define-public crate-lsp-server-0.3.0 (c (n "lsp-server") (v "0.3.0") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.61.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "04nvvq3vc1znwb4f55gll3hjzpkzvddclin2g6mkj8blpl2n98qb")))
+
+(define-public crate-lsp-server-0.3.1 (c (n "lsp-server") (v "0.3.1") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.63.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0sx0h32qmhlvcmf8b4i55dv7dhbmplkvmqa5px5n45cn691y10sk")))
+
+(define-public crate-lsp-server-0.3.2 (c (n "lsp-server") (v "0.3.2") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.63.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0wihdim32haj9cl6wicrj16n52gx0n8f2y4a53fw0yh2zldw7knw")))
+
+(define-public crate-lsp-server-0.3.3 (c (n "lsp-server") (v "0.3.3") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.63.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0qhczdzj7sk4sv9v1qkxgajdc830gx8fvq3wd3rszlp5xglard2k")))
+
+(define-public crate-lsp-server-0.3.4 (c (n "lsp-server") (v "0.3.4") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.63.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "15ismb89cg7b41jyvzglkwn1akcmkmygwvn79sbjb8q92f2yiz47")))
+
+(define-public crate-lsp-server-0.4.0 (c (n "lsp-server") (v "0.4.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.16.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.82.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0sn8fqb7agik2dk245ypkibskq8j2bp9ykpb1kqn9pmq47p54x7z")))
+
+(define-public crate-lsp-server-0.4.1 (c (n "lsp-server") (v "0.4.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.16.0") (d #t) (k 2)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.82.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0kmhfbfq3412fw5ynn8z4q3pfx2nxbz5mcxql9fz2fy56spsr1cw")))
+
+(define-public crate-lsp-server-0.5.0 (c (n "lsp-server") (v "0.5.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.83.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0yazajrqhz40mn1lps364ilakmy3wq78x7d75a3hnf2a1vz8vcb9")))
+
+(define-public crate-lsp-server-0.5.1 (c (n "lsp-server") (v "0.5.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.83.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "14irb3kawr5i2cx295xyw8q7pv18d52cjh3c6rd858aw5l2df9b8")))
+
+(define-public crate-lsp-server-0.5.2 (c (n "lsp-server") (v "0.5.2") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.83.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0i0424mvdilkfgyp13919xzqllsj5gf8ihbd49av68ysi5cwflf3")))
+
+(define-public crate-lsp-server-0.6.0 (c (n "lsp-server") (v "0.6.0") (d (list (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "log") (r "^0.4.3") (d #t) (k 0)) (d (n "lsp-types") (r "^0.93.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.83") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 0)))) (h "0nkp6sy5dmvishsg5rjvv3q57h87ald21zmq5506bxlwqb0p01gp")))
+
+(define-public crate-lsp-server-0.7.0 (c (n "lsp-server") (v "0.7.0") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lsp-types") (r "=0.93.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.86") (d #t) (k 0)))) (h "01ckiy4sxf1h9k33m654lisg7dbp6diyk42chv2kagqwip3v9ab8")))
+
+(define-public crate-lsp-server-0.7.1 (c (n "lsp-server") (v "0.7.1") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "=1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "005wa2l2k4mpi4g29hcjmisnf81q9wh0xy0x1zf9xp4iykbf849p")))
+
+(define-public crate-lsp-server-0.7.2 (c (n "lsp-server") (v "0.7.2") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lsp-types") (r "=0.94") (d #t) (k 2)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "19pn1mscrscgmmlwgm54d28vj1njdikcfkw2msva6b08lpjrmsip")))
+
+(define-public crate-lsp-server-0.7.3 (c (n "lsp-server") (v "0.7.3") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lsp-types") (r "=0.94") (d #t) (k 2)) (d (n "serde") (r "^1.0.156, <1.0.172") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "18n8wmd84r6ql8pg934vx2s79vd25j77s5aby5dlxysv8nm7yhbj")))
+
+(define-public crate-lsp-server-0.7.4 (c (n "lsp-server") (v "0.7.4") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lsp-types") (r "=0.94") (d #t) (k 2)) (d (n "serde") (r "^1.0.156") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0a0r6z489560026lbj17nnjdrhx3y13k09x1r2wgmvh26ggwqbdm")))
+
+(define-public crate-lsp-server-0.7.5 (c (n "lsp-server") (v "0.7.5") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lsp-types") (r "=0.94") (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "0ck78lp9rq3dci5hj7aprpg97ycv2kq65mrx7gpz1sqk969vlsgv")))
+
+(define-public crate-lsp-server-0.7.6 (c (n "lsp-server") (v "0.7.6") (d (list (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.1") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lsp-types") (r "=0.95") (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "15bhdhkinhhw5fifrpmiiqdd4hwblac40jv0n7hxidbdiyvnb3r4")))
+

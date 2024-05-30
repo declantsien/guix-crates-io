@@ -1,0 +1,10 @@
+(define-module (crates-io no ta notabena) #:use-module (crates-io))
+
+(define-public crate-notabena-0.1.0-preview (c (n "notabena") (v "0.1.0-preview") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.29.0") (f (quote ("bundled"))) (d #t) (k 0)))) (h "0mm3wv701wgm0j5z14m8kblpb79lnc07fdsdqbm3jr1il0gx1m7b")))
+
+(define-public crate-notabena-0.1.0 (c (n "notabena") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "termimad") (r "^0.26.1") (d #t) (k 0)))) (h "1vmxfzhn20vifh2nrh9bjvw9n5w6ivm7dz4dcv9nx5yxigzmrkk5")))
+
+(define-public crate-notabena-0.1.1 (c (n "notabena") (v "0.1.1") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "termimad") (r "^0.29.1") (d #t) (k 0)))) (h "1f9lb93bbffz8v46i5pkalalf2r1hpwqd3s2lsyld9qy8xhxzg3c") (y #t)))
+
+(define-public crate-notabena-0.2.0 (c (n "notabena") (v "0.2.0") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)) (d (n "termimad") (r "^0.29.1") (d #t) (k 0)))) (h "11q2s68z787lasvb4j61rva4cw15wxyapmz3604i117zpzdix29a")))
+

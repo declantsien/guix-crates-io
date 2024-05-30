@@ -1,0 +1,18 @@
+(define-module (crates-io ta ch tacho) #:use-module (crates-io))
+
+(define-public crate-tacho-0.1.0 (c (n "tacho") (v "0.1.0") (d (list (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "hdrsample") (r "^3.0.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.0") (d #t) (k 0)) (d (n "twox-hash") (r "^1.0.1") (d #t) (k 0)))) (h "1xm596gm02mix094mylb3xh052h70whyqpan9yi4pbj6dlrgpkiy")))
+
+(define-public crate-tacho-0.1.1 (c (n "tacho") (v "0.1.1") (d (list (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.11") (d #t) (k 0)) (d (n "hdrsample") (r "^3.0.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.0") (d #t) (k 0)) (d (n "twox-hash") (r "^1.0.1") (d #t) (k 0)))) (h "1hdrlk4a8fdin91ql8n30f465w5x9lxayxz7ii63abx2z2haz68y")))
+
+(define-public crate-tacho-0.2.0 (c (n "tacho") (v "0.2.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hdrsample") (r "^3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 0)) (d (n "twox-hash") (r "^1.0") (d #t) (k 0)))) (h "0zpqdhni3lgs8rlz532fl42607fmphkq2knhqh8x2865j1mbs8ad")))
+
+(define-public crate-tacho-0.3.0 (c (n "tacho") (v "0.3.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 2)) (d (n "hdrsample") (r "^3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 2)) (d (n "twox-hash") (r "^1.0") (d #t) (k 0)))) (h "1r6pq2ajlpxyhidqw073c3lrvnbn5mg9fr1wp4gcc4rjh7z3gp1y")))
+
+(define-public crate-tacho-0.3.1 (c (n "tacho") (v "0.3.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 2)) (d (n "hdrsample") (r "^3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "ordermap") (r "^0.2.10") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 2)) (d (n "twox-hash") (r "^1.0") (d #t) (k 0)))) (h "1a2af37k6p2wabkx7v39z9s7f2mbsigis7zsxaj6sz0sbk7h9zzc")))
+
+(define-public crate-tacho-0.4.0 (c (n "tacho") (v "0.4.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hdrsample") (r "^3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "ordermap") (r "^0.2.10") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 2)))) (h "17xnbzq6yg3ddy6sjy0n1wr7fyg339v5xgfwg7lygz5w8rs5rx02")))
+
+(define-public crate-tacho-0.4.1 (c (n "tacho") (v "0.4.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hdrsample") (r "^3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "ordermap") (r "^0.2.10") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 2)))) (h "131casxawgby3kjg3cfnv7nc0kdz8ga4szmm9hcw8rmxz0bhslic")))
+
+(define-public crate-tacho-0.4.2 (c (n "tacho") (v "0.4.2") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hdrsample") (r "^3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "ordermap") (r "^0.2.10") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 2)))) (h "0zayycl4vdfgj8aafd2wyiy3b6wrkrx0gparbd1yp8wn5d6wg9j2")))
+

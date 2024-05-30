@@ -1,0 +1,6 @@
+(define-module (crates-io we b- web-queue-proxy) #:use-module (crates-io))
+
+(define-public crate-web-queue-proxy-0.1.0 (c (n "web-queue-proxy") (v "0.1.0") (d (list (d (n "actix") (r "^0.10") (d #t) (k 0)) (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "actix-web-actors") (r "^3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "web-queue-meta") (r "^0.1") (d #t) (k 0)) (d (n "ws") (r "^0.9") (d #t) (k 0)))) (h "07qbxxb8499b7rm8qb0hl8d71qgffdm2msvh7wn3kapijim86zlr")))
+
+(define-public crate-web-queue-proxy-0.1.1 (c (n "web-queue-proxy") (v "0.1.1") (d (list (d (n "actix") (r "^0.10") (d #t) (k 0)) (d (n "actix-web") (r "^3") (d #t) (k 0)) (d (n "actix-web-actors") (r "^3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "web-queue-meta") (r "^0.1") (d #t) (k 0)) (d (n "ws") (r "^0.9") (d #t) (k 0)))) (h "1p13zj6xxprjswvxykp1ccmlckxjgvljg762yy0h0fskywhb8nz6")))
+

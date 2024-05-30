@@ -1,0 +1,6 @@
+(define-module (crates-io sa fe safecoin-download-utils) #:use-module (crates-io))
+
+(define-public crate-safecoin-download-utils-1.6.16 (c (n "safecoin-download-utils") (v "1.6.16") (d (list (d (n "bzip2") (r "^0.3.3") (d #t) (k 0)) (d (n "console") (r "^0.11.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("blocking" "rustls-tls" "json"))) (k 0)) (d (n "safecoin-runtime") (r "=1.6.16") (d #t) (k 0)) (d (n "safecoin-sdk") (r "=1.6.16") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)))) (h "0zqyym1by6c8x7vkahsprkdalzpqhg63y3jrlg3nrbrcskd0c9dh")))
+
+(define-public crate-safecoin-download-utils-1.6.18 (c (n "safecoin-download-utils") (v "1.6.18") (d (list (d (n "bzip2") (r "^0.3.3") (d #t) (k 0)) (d (n "console") (r "^0.11.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("blocking" "rustls-tls" "json"))) (k 0)) (d (n "safecoin-runtime") (r ">=1.6.18") (d #t) (k 0)) (d (n "safecoin-sdk") (r ">=1.6.18") (d #t) (k 0)) (d (n "tar") (r "^0.4.28") (d #t) (k 0)))) (h "1fyw699qcwz4bbdp48h056b9zanqsd0bfrvh2l1axlrrx0mcfhbb")))
+

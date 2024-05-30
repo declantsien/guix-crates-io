@@ -1,0 +1,4 @@
+(define-module (crates-io ti de tide-websockets-sink) #:use-module (crates-io))
+
+(define-public crate-tide-websockets-sink-0.3.0 (c (n "tide-websockets-sink") (v "0.3.0") (d (list (d (n "async-dup") (r "^1.2.2") (d #t) (k 0)) (d (n "async-std") (r "^1.7.0") (d #t) (k 0)) (d (n "async-std") (r "^1.7.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-tungstenite") (r "^0.10.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.12") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.8") (d #t) (k 0)) (d (n "pin-project") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.2") (d #t) (k 0)) (d (n "tide") (r "^0.16.0") (f (quote ("h1-server"))) (k 0)))) (h "0dv4kr89dxnf93299jlhs3rqw59rl9abb27i7p5xd7w4y6is6l4j")))
+

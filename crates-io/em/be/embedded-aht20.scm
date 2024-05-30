@@ -1,0 +1,6 @@
+(define-module (crates-io em be embedded-aht20) #:use-module (crates-io))
+
+(define-public crate-embedded-aht20-0.1.0 (c (n "embedded-aht20") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("eh1"))) (k 2)) (d (n "linux-embedded-hal") (r "^0.4.0") (d #t) (k 2)) (d (n "maybe-async-cfg") (r "^0.2.3") (d #t) (k 0)))) (h "1nc9vz6xlbqdfnrvb9i8qm76h4miv7qljamr1x5chskmj8q2k5ld") (f (quote (("floating-point") ("default" "floating-point") ("async"))))))
+
+(define-public crate-embedded-aht20-0.1.1 (c (n "embedded-aht20") (v "0.1.1") (d (list (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("eh1"))) (k 2)) (d (n "linux-embedded-hal") (r "^0.4.0") (d #t) (k 2)) (d (n "maybe-async-cfg") (r "^0.2.3") (d #t) (k 0)) (d (n "weather-utils") (r "^0.2.0") (f (quote ("no-std"))) (d #t) (k 0)))) (h "127ia41dnd724j7bbgxjjixkgyga6fqkrv5l750h34xs5frjbd84") (f (quote (("default") ("async"))))))
+

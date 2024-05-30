@@ -1,0 +1,8 @@
+(define-module (crates-io ws cl wsclient) #:use-module (crates-io))
+
+(define-public crate-wsclient-0.1.0 (c (n "wsclient") (v "0.1.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("sink" "std"))) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("io-std" "macros" "net" "rt-multi-thread" "time"))) (k 0)) (d (n "tokio-tungstenite") (r "^0.18.0") (f (quote ("rustls-tls-native-roots"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0vdm9h67wpca0wj7cd90xjy2r4zamhwjylq88kj6dbcbx9h2ha1c")))
+
+(define-public crate-wsclient-0.1.1 (c (n "wsclient") (v "0.1.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("sink" "std"))) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("io-std" "macros" "net" "rt-multi-thread" "time"))) (k 0)) (d (n "tokio-tungstenite") (r "^0.18.0") (f (quote ("rustls-tls-native-roots"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1dyva5qxbpag6m9jymr4l7bm40nvlpa7m7csy5xi4j1zjkjim6nf")))
+
+(define-public crate-wsclient-0.1.2 (c (n "wsclient") (v "0.1.2") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("sink" "std"))) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("io-std" "macros" "net" "rt-multi-thread" "time"))) (k 0)) (d (n "tokio-tungstenite") (r "^0.18.0") (f (quote ("rustls-tls-native-roots"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1g236l98q993nzx32jgia9i3sdv9f7454wg9s9msbar22y40lf5i")))
+

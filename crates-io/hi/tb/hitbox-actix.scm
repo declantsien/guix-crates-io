@@ -1,0 +1,6 @@
+(define-module (crates-io hi tb hitbox-actix) #:use-module (crates-io))
+
+(define-public crate-hitbox-actix-0.1.0 (c (n "hitbox-actix") (v "0.1.0") (d (list (d (n "actix") (r "^0.11") (d #t) (k 0)) (d (n "hitbox") (r "^0.1.0") (d #t) (k 0)) (d (n "hitbox-backend") (r "^0.1.0") (d #t) (k 0)) (d (n "hitbox-redis") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1f4bpfqfivqja80gi102gjbpvsdp7vh4zhp04qnqvffd860iylgr") (f (quote (("redis" "hitbox-redis") ("derive" "hitbox/derive") ("default" "redis" "derive")))) (y #t)))
+
+(define-public crate-hitbox-actix-0.1.1 (c (n "hitbox-actix") (v "0.1.1") (d (list (d (n "actix") (r "^0.10") (d #t) (k 0)) (d (n "actix-rt") (r "^1.1") (d #t) (k 2)) (d (n "hitbox") (r "^0.1") (d #t) (k 0)) (d (n "hitbox-backend") (r "^0.1") (d #t) (k 0)) (d (n "hitbox-redis") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0692sjyyzf99mz79pscyp6r45p5k9170n8qs8z7mx8dwhibfi23v") (f (quote (("redis" "hitbox-redis") ("derive" "hitbox/derive") ("default" "redis" "derive"))))))
+

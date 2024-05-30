@@ -1,0 +1,8 @@
+(define-module (crates-io pa ss passes) #:use-module (crates-io))
+
+(define-public crate-passes-0.1.0 (c (n "passes") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "is_empty") (r "^0.2.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.64") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "0wlncjlxzmnsn0b97ll135yd3w1l2vnmirc0a73ncgd7w5lcz1yc")))
+
+(define-public crate-passes-1.0.0 (c (n "passes") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "is_empty") (r "^0.2.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.64") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "03hscx86557awcmqnp4a7qzriv09zw52lx8fsr8xpxynads2zhxw")))
+
+(define-public crate-passes-1.0.1 (c (n "passes") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "is_empty") (r "^0.2.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.64") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "051hh6q0ipsqr3rmzz0wsd2rnlxnsjgc05q8sb9iqw3r0x4dr7lm")))
+

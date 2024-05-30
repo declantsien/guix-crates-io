@@ -1,0 +1,6 @@
+(define-module (crates-io ac -k ac-keystore) #:use-module (crates-io))
+
+(define-public crate-ac-keystore-0.10.0 (c (n "ac-keystore") (v "0.10.0") (d (list (d (n "array-bytes") (r "^6.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "sc-keystore") (r "^27.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sp-application-crypto") (r "^32.0.0") (d #t) (k 0)) (d (n "sp-core") (r "^30.0.0") (d #t) (k 0)) (d (n "sp-keyring") (r "^33.0.0") (d #t) (k 0)) (d (n "sp-keystore") (r "^0.36.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "094qwgpwxldv8x7ixk7x5c4sa6pghj3xik571a2c2dk0q333xdka")))
+
+(define-public crate-ac-keystore-0.10.1 (c (n "ac-keystore") (v "0.10.1") (d (list (d (n "array-bytes") (r "^6.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "sc-keystore") (r "^27.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "sp-application-crypto") (r "^32.0.0") (d #t) (k 0)) (d (n "sp-core") (r "^30.0.0") (d #t) (k 0)) (d (n "sp-keyring") (r "^33.0.0") (d #t) (k 0)) (d (n "sp-keystore") (r "^0.36.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "04fbl1xc5064fylqbxcvwxazaq2ziy07sjy6xwvk4zpwyz5vclpm")))
+

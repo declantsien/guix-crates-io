@@ -1,0 +1,4 @@
+(define-module (crates-io te nd tendermint-proto-althea) #:use-module (crates-io))
+
+(define-public crate-tendermint-proto-althea-0.23.0 (c (n "tendermint-proto-althea") (v "0.23.0") (d (list (d (n "bytes") (r "^1.0") (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde" "alloc"))) (k 0)) (d (n "flex-error") (r "^0.4.3") (k 0)) (d (n "num-derive") (r "^0.3") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "prost") (r "^0.9") (k 0)) (d (n "prost-types") (r "^0.9") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_bytes") (r "^0.11") (f (quote ("alloc"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "subtle-encoding") (r "^0.5") (f (quote ("hex" "base64" "alloc"))) (k 0)))) (h "0m5mpqz9rp0fpys79h6670aabbld861wsi03kdfh1zcac6n9vfwk") (f (quote (("std" "flex-error/std") ("eyre_tracer" "flex-error/eyre_tracer") ("default" "std" "eyre_tracer"))))))
+

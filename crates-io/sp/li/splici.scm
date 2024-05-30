@@ -1,0 +1,4 @@
+(define-module (crates-io sp li splici) #:use-module (crates-io))
+
+(define-public crate-splici-0.1.1 (c (n "splici") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "bedrs") (r "^0.1.10") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "faiquery") (r "^0.1.1") (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.26") (d #t) (k 0)) (d (n "gtftools") (r "^0.1.9") (d #t) (k 0)) (d (n "gzp") (r "^0.11.3") (f (quote ("deflate_rust"))) (k 0)) (d (n "hashbrown") (r "^0.14.0") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "noodles") (r "^0.46.0") (f (quote ("bgzf" "fasta" "core"))) (d #t) (k 0)))) (h "0grb10y2czi79h9w8g6galxv17i1q93ckgcac3925a5794richjr")))
+

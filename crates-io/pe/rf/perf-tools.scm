@@ -1,0 +1,6 @@
+(define-module (crates-io pe rf perf-tools) #:use-module (crates-io))
+
+(define-public crate-perf-tools-0.1.0 (c (n "perf-tools") (v "0.1.0") (d (list (d (n "cargo_metadata") (r "^0.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "inferno") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libflate") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-build") (r "^0.9") (d #t) (k 1)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "14wja02jhdmazn8cvsp75sisq3vyzlda0vqdrng61wig66v8a3ys")))
+
+(define-public crate-perf-tools-0.1.1 (c (n "perf-tools") (v "0.1.1") (d (list (d (n "cargo_metadata") (r "^0.14") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "inferno") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libflate") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-build") (r "^0.9") (d #t) (k 1)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0fqchm7wxm8hzdcdpb9jv4hbxgk6wbipi98m9ld29mq9awx622yv")))
+

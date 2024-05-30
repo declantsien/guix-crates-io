@@ -1,0 +1,4 @@
+(define-module (crates-io go to gotop) #:use-module (crates-io))
+
+(define-public crate-gotop-0.1.0 (c (n "gotop") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.1") (d #t) (k 0)) (d (n "crossterm") (r "^0.9.5") (d #t) (k 0)) (d (n "fern") (r "^0.5.8") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.2.0") (d #t) (k 0)) (d (n "psutil") (r "^1.5.0") (d #t) (k 0)) (d (n "size") (r "^0.1.2") (d #t) (k 0)) (d (n "structopt") (r "^0.2.16") (d #t) (k 0)) (d (n "strum") (r "^0.15.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.15.0") (d #t) (k 0)) (d (n "tui") (r "^0.6.0") (f (quote ("crossterm"))) (d #t) (k 0)))) (h "13xz8696s83x5bq8vaab29gh6w2c4v8w9xmraxr0bwsdyd91pdya")))
+

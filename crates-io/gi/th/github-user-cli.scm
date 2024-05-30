@@ -1,0 +1,4 @@
+(define-module (crates-io gi th github-user-cli) #:use-module (crates-io))
+
+(define-public crate-github-user-cli-0.1.0 (c (n "github-user-cli") (v "0.1.0") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 0)) (d (n "httpmock") (r "^0.5.2") (d #t) (k 2)) (d (n "insta") (r "^1.5.2") (d #t) (k 2)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.118") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.15") (d #t) (k 0)) (d (n "surf") (r "^2.1.0") (d #t) (k 0)))) (h "1p34mgy4rmg2iss8j0kxz8cdfbgn2swyf7gsc2np5vrag75lpcgn")))
+

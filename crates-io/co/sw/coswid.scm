@@ -1,0 +1,10 @@
+(define-module (crates-io co sw coswid) #:use-module (crates-io))
+
+(define-public crate-coswid-0.1.0 (c (n "coswid") (v "0.1.0") (d (list (d (n "ciborium") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_int_map") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_int_map_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)))) (h "0jp7bldqz5knyrydk2adbz6mm7i0i7n2k3ykn44xir85gaslmkha")))
+
+(define-public crate-coswid-0.1.1 (c (n "coswid") (v "0.1.1") (d (list (d (n "ciborium") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_int_map") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_int_map_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)))) (h "0m9rk3sj37gs72hz5pi8vm5d9r69afmzf5haqxdwaw77c39b5nsj")))
+
+(define-public crate-coswid-0.1.2 (c (n "coswid") (v "0.1.2") (d (list (d (n "ciborium") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_int_map") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_int_map_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)))) (h "1dvhgmf1mfypxrnlr1cvg8lh8qkk3wgmbg1708q9jha1j4xprc8h")))
+
+(define-public crate-coswid-0.1.3 (c (n "coswid") (v "0.1.3") (d (list (d (n "ciborium") (r "^0.1.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_int_map") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_int_map_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)))) (h "00q2lclnd6ihv7369rraljl1nbxhfffi7a6lwppy2qhb0cza9c94")))
+

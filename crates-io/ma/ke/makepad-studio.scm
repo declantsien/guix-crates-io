@@ -1,0 +1,12 @@
+(define-module (crates-io ma ke makepad-studio) #:use-module (crates-io))
+
+(define-public crate-makepad-studio-0.4.0 (c (n "makepad-studio") (v "0.4.0") (d (list (d (n "makepad-code-editor") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-file-protocol") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-file-server") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-http") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-shell") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-widgets") (r "^0.4.0") (d #t) (k 0)))) (h "0l7nrabpgjdka9l2gbrjs8bx36kz88w8jsvfz9fsvi62k883pf3m")))
+
+(define-public crate-makepad-studio-0.5.0 (c (n "makepad-studio") (v "0.5.0") (d (list (d (n "makepad-code-editor") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-file-protocol") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-file-server") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-http") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-shell") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-widgets") (r "^0.5.0") (d #t) (k 0)))) (h "0vifl3ji05apxh5p6sda5mvh4la2sv6dd8pnjc7ljrn42pakl3s3")))
+
+(define-public crate-makepad-studio-0.6.0 (c (n "makepad-studio") (v "0.6.0") (d (list (d (n "makepad-code-editor") (r "^0.6.0") (d #t) (k 0)) (d (n "makepad-file-protocol") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-file-server") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-http") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-shell") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-widgets") (r "^0.6.0") (d #t) (k 0)))) (h "1v518wmdwl05ipi77lwza56pvmdivh0zw1g5ppb00zjkmnyc91n7")))
+
+(define-public crate-makepad-studio-0.7.0 (c (n "makepad-studio") (v "0.7.0") (d (list (d (n "makepad-code-editor") (r "^0.6.0") (d #t) (k 0)) (d (n "makepad-file-protocol") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-file-server") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-http") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-shell") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-widgets") (r "^0.6.0") (d #t) (k 0)))) (h "0v04ysg4nqds5ra7ai1hklzh26rbybrfkv0sfx6sya184c1c0zk5")))
+
+(define-public crate-makepad-studio-0.8.0 (c (n "makepad-studio") (v "0.8.0") (d (list (d (n "makepad-code-editor") (r "^0.6.0") (d #t) (k 0)) (d (n "makepad-file-protocol") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-file-server") (r "^0.5.0") (d #t) (k 0)) (d (n "makepad-http") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-shell") (r "^0.4.0") (d #t) (k 0)) (d (n "makepad-widgets") (r "^0.6.0") (d #t) (k 0)))) (h "0rj59nvhaklpkscrhswx2kc780dbf9289xjj35pgsnzd6pgr8ff7")))
+

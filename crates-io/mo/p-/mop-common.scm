@@ -1,0 +1,20 @@
+(define-module (crates-io mo p- mop-common) #:use-module (crates-io))
+
+(define-public crate-mop-common-0.0.2 (c (n "mop-common") (v "0.0.2") (h "0g2063s5vcj37l2h04d1xjyjgbkgc5ynfj6lp7c0qyinr3gi3dji")))
+
+(define-public crate-mop-common-0.0.3 (c (n "mop-common") (v "0.0.3") (d (list (d (n "num-traits") (r "^0.2") (o #t) (k 0)) (d (n "quickcheck") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.5") (o #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0f33q36zdxychnn4nl6q7kkdag1j58di79ylgqx67vzdhn16z91m") (f (quote (("testing" "quickcheck" "std") ("std" "num-traits/std" "rand/std" "serde/std") ("serialization" "serde" "serde_derive") ("random" "rand") ("parallelization" "rayon" "std") ("num" "num-traits") ("default"))))))
+
+(define-public crate-mop-common-0.0.4 (c (n "mop-common") (v "0.0.4") (d (list (d (n "num-traits") (r "^0.2") (o #t) (k 0)) (d (n "quickcheck") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.5") (o #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0kcdslw4mc62wpvpc9kxg8akpbwsnyclhjv2w15jnq1h2llh4q63") (f (quote (("testing" "quickcheck") ("std" "num-traits/std" "rand/std" "serde/std") ("serialization" "serde" "serde_derive") ("random" "rand") ("parallelization" "rayon") ("num" "num-traits") ("default"))))))
+
+(define-public crate-mop-common-0.0.5 (c (n "mop-common") (v "0.0.5") (d (list (d (n "num-traits") (r "^0.2") (o #t) (k 0)) (d (n "quickcheck") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (o #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.28") (o #t) (t "wasm32-unknown-unknown") (k 0)))) (h "109vlf2accg2s184d642mvl2as42hgg4a96cy5v355fpjdrsia80") (f (quote (("wasm-bindgen1" "rand/wasm-bindgen" "wasm-bindgen") ("std" "num-traits/std" "rand/std" "serde/std" "wasm-bindgen/std") ("serde1" "serde" "serde_derive") ("default"))))))
+
+(define-public crate-mop-common-0.0.6 (c (n "mop-common") (v "0.0.6") (d (list (d (n "num-traits") (r "^0.2") (o #t) (k 0)) (d (n "quickcheck") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (o #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.28") (o #t) (t "wasm32-unknown-unknown") (k 0)))) (h "0846mdkn49c316g5f9h2w22a76c1jcbqbmk5214mlrygy4bi3nb0") (f (quote (("wasm-bindgen1" "rand/wasm-bindgen" "wasm-bindgen") ("std" "num-traits/std" "rand/std" "serde/std" "wasm-bindgen/std") ("serde1" "serde" "serde_derive") ("default"))))))
+
+(define-public crate-mop-common-0.0.7 (c (n "mop-common") (v "0.0.7") (d (list (d (n "num-traits") (r "^0.2") (o #t) (k 0)) (d (n "quickcheck") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (o #t) (k 0)) (d (n "rayon") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.28") (o #t) (t "wasm32-unknown-unknown") (k 0)))) (h "1i4jk6cs2xvzmvvha3yc52pd4h3l6kvyadjzn0w99xkmpsyaqaky") (f (quote (("wasm-bindgen1" "rand/wasm-bindgen" "wasm-bindgen") ("std" "num-traits/std" "rand/std" "serde/std" "wasm-bindgen/std") ("serde1" "serde" "serde_derive") ("default"))))))
+
+(define-public crate-mop-common-0.3.0 (c (n "mop-common") (v "0.3.0") (h "1pl0r6f6wpg7rjjc70xf3waylcipf48gqqykfns7gkawld91c7bx") (f (quote (("with-futures") ("std") ("default"))))))
+
+(define-public crate-mop-common-0.4.0 (c (n "mop-common") (v "0.4.0") (h "09qsz93mzgqfzfkqxcjw9dzy0pbwy813f56a464d1zkb3vj600xz") (f (quote (("with-futures") ("std") ("default"))))))
+
+(define-public crate-mop-common-0.5.0 (c (n "mop-common") (v "0.5.0") (h "02sg0fcdy24g86k3c7z7n6qw4nfxwzcx9hkp6jpksbq1777zlhx4") (f (quote (("with-futures") ("std") ("default"))))))
+

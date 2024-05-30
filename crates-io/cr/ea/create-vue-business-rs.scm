@@ -1,0 +1,6 @@
+(define-module (crates-io cr ea create-vue-business-rs) #:use-module (crates-io))
+
+(define-public crate-create-vue-business-rs-0.0.1 (c (n "create-vue-business-rs") (v "0.0.1") (d (list (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.3") (d #t) (k 0)) (d (n "git2") (r "^0.17.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.159") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "19jhwfyvz7n5cv98f8iqjq7syl0bx21kc3lqxxddrkdmiij8drva")))
+
+(define-public crate-create-vue-business-rs-0.0.2 (c (n "create-vue-business-rs") (v "0.0.2") (d (list (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.3") (d #t) (k 0)) (d (n "git2") (r "^0.17.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.159") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0a5gxvvvh941jx24nr25i7ja2jpafjdikjdqk1gb30czqajjwn73")))
+

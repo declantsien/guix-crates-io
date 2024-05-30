@@ -1,0 +1,8 @@
+(define-module (crates-io da o- dao-ui) #:use-module (crates-io))
+
+(define-public crate-dao-ui-0.1.0 (c (n "dao-ui") (v "0.1.0") (d (list (d (n "css-in-rust") (r "^0.5.0") (f (quote ("yew_integration"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "radix_fmt") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "wasm-logger") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.52") (d #t) (k 0)) (d (n "yew") (r "^0.18") (d #t) (k 0)))) (h "00a6hccd56drd48vqg2g7mbicb4nbnrv30qmbwwylqlf5s1s4l01") (y #t)))
+
+(define-public crate-dao-ui-0.1.1 (c (n "dao-ui") (v "0.1.1") (d (list (d (n "css-in-rust") (r "^0.5.0") (f (quote ("yew_integration"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "radix_fmt") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "wasm-logger") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.52") (d #t) (k 0)) (d (n "yew") (r "^0.18") (d #t) (k 0)))) (h "07x2qhqy3kwyjfiwyqpgbs83c4swhkh8kgwc9a092ia99z799b8r")))
+
+(define-public crate-dao-ui-0.1.2 (c (n "dao-ui") (v "0.1.2") (d (list (d (n "css-in-rust") (r "^0.5.0") (f (quote ("yew_integration"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "radix_fmt") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "wasm-logger") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.52") (d #t) (k 0)) (d (n "yew") (r "^0.18") (d #t) (k 0)))) (h "0wj27kn4n3y6g5nsjpk4fnlckwhy3dpr9502p37bi8bak9sqbpb0")))
+

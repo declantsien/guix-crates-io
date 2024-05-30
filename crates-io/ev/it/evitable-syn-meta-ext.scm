@@ -1,0 +1,14 @@
+(define-module (crates-io ev it evitable-syn-meta-ext) #:use-module (crates-io))
+
+(define-public crate-evitable-syn-meta-ext-0.1.0 (c (n "evitable-syn-meta-ext") (v "0.1.0") (d (list (d (n "ident_case") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "strsim") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0xn5qnar7b774r1dwnchldf910xjma3kqzmds8gzy50isxmxzydj") (f (quote (("suggestions" "strsim") ("diagnostics"))))))
+
+(define-public crate-evitable-syn-meta-ext-0.1.1 (c (n "evitable-syn-meta-ext") (v "0.1.1") (d (list (d (n "ident_case") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "strsim") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "13rmqdvzp72739yv3hjf3b823pf0pc3cny9q8wnvm06rnkf10qg8") (f (quote (("suggestions" "strsim") ("diagnostics"))))))
+
+(define-public crate-evitable-syn-meta-ext-0.2.0 (c (n "evitable-syn-meta-ext") (v "0.2.0") (d (list (d (n "ident_case") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "strsim") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0d0aaidkr7xilbkpa5rahxg953biab0nh85jz1my1b518p4dq762") (f (quote (("suggestions" "strsim") ("diagnostics"))))))
+
+(define-public crate-evitable-syn-meta-ext-0.3.0 (c (n "evitable-syn-meta-ext") (v "0.3.0") (d (list (d (n "ident_case") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "strsim") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1ba072xc0s87dxyp5lcvp972x37zmzppjfqrxdcz124zjpq1diym") (f (quote (("suggestions" "strsim") ("diagnostics"))))))
+
+(define-public crate-evitable-syn-meta-ext-0.4.0 (c (n "evitable-syn-meta-ext") (v "0.4.0") (d (list (d (n "ident_case") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "strsim") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1k2y96pr832gw6i87z0nlhf9dc74wccqw0fpsx835wd9ic2q8dv6") (f (quote (("suggestions" "strsim") ("diagnostics"))))))
+
+(define-public crate-evitable-syn-meta-ext-0.5.0 (c (n "evitable-syn-meta-ext") (v "0.5.0") (d (list (d (n "ident_case") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "strsim") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1c8npqgy7hajhpczii0c3acwfhbapkpawpl096sihqvffp0vwfjk") (f (quote (("suggestions" "strsim") ("diagnostics"))))))
+

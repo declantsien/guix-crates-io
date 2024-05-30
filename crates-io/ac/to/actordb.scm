@@ -1,0 +1,4 @@
+(define-module (crates-io ac to actordb) #:use-module (crates-io))
+
+(define-public crate-actordb-0.1.0 (c (n "actordb") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "prost-build") (r "^0.12") (d #t) (k 1)) (d (n "prost-types") (r "^0.12") (d #t) (k 0)) (d (n "protobuf-src") (r "^1") (d #t) (k 1)) (d (n "ractor") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "sync" "macros" "rt-multi-thread" "signal"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-glog") (r "^0.3") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 2)) (d (n "tracing-test") (r "^0.2") (d #t) (k 2)))) (h "0jdbxkndwrvrr3dm7jik99n5r268sq8rjvyawckkccscl60nphs5") (r "1.64")))
+

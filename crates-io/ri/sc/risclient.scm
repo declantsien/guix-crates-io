@@ -1,0 +1,6 @@
+(define-module (crates-io ri sc risclient) #:use-module (crates-io))
+
+(define-public crate-risclient-0.1.0 (c (n "risclient") (v "0.1.0") (d (list (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("macros" "rt" "net" "rt-multi-thread" "io-std"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "tungstenite") (r "^0.17") (f (quote ("native-tls"))) (d #t) (k 0)))) (h "1lw5ay0nw18ca2q5flkila4xbqdywzz4v22vla8w8ff1m8dgmphp")))
+
+(define-public crate-risclient-0.1.1 (c (n "risclient") (v "0.1.1") (d (list (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17") (f (quote ("macros" "rt" "net" "rt-multi-thread" "io-std"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "tungstenite") (r "^0.17") (f (quote ("native-tls"))) (d #t) (k 0)))) (h "001wpb6qbbkycqbqz1nag54hknjqwi8f1mcc9wnsbcjc8rzk0qax")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io hy dr hydroper_razen) #:use-module (crates-io))
+
+(define-public crate-hydroper_razen-0.1.5 (c (n "hydroper_razen") (v "0.1.5") (d (list (d (n "as3_parser") (r "^1") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "by_address") (r "^1.2.1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "conv") (r "^0.3.3") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "file_paths") (r "^1.0.0") (d #t) (k 0)) (d (n "hydroper_swf") (r "^0.3.0") (d #t) (k 0)) (d (n "late_format") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "smodel") (r "^1") (d #t) (k 0)))) (h "1406y4dmi54zxrsaryg34y4xx90p9qg7q8lfdrhnqcbw8ihmqxpg")))
+

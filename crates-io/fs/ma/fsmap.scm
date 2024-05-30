@@ -1,0 +1,6 @@
+(define-module (crates-io fs ma fsmap) #:use-module (crates-io))
+
+(define-public crate-fsmap-0.2.0 (c (n "fsmap") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("std"))) (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15") (d #t) (k 0)) (d (n "rustyline") (r "^14.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0vrnyx0bw7m4iilj079i6673vjskpg6iqcjp4ap0hkrq0jbks2rk") (r "1.72")))
+
+(define-public crate-fsmap-0.3.0 (c (n "fsmap") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("std"))) (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15") (d #t) (k 0)) (d (n "rustyline") (r "^14.0.0") (f (quote ("with-file-history"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tz-rs") (r "^0.6.14") (d #t) (k 0)))) (h "1q2qgh0wvs3b5ryrv9b3bnsa1l8bs3sygs03vgy9ngalmrlb496j") (r "1.72")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io le dg ledger-ethereum) #:use-module (crates-io))
+
+(define-public crate-ledger-ethereum-0.1.0 (c (n "ledger-ethereum") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "ledger-transport") (r "^0.10.0") (d #t) (k 0)) (d (n "ledger-zondax-generic") (r "^0.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "secp256k1") (r "^0.26.0") (f (quote ("bitcoin-hashes" "global-context"))) (d #t) (k 2)) (d (n "serial_test") (r "^1") (d #t) (k 2)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("keccak"))) (d #t) (k 2)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 2)))) (h "05mfx8hij7cqgv4786k4dgylp6nkx3qamc78aj02819vsl7d2b8z")))
+

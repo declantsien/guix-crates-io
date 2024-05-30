@@ -1,0 +1,6 @@
+(define-module (crates-io ma rk markov-chain) #:use-module (crates-io))
+
+(define-public crate-markov-chain-0.1.0 (c (n "markov-chain") (v "0.1.0") (d (list (d (n "clap") (r "^2.24") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "maplit") (r "^0.1.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "1q9mi9r2wvfb2ycgd0mb9jwarjav7gqmfb6w9rk8v2jh0zhyp0ab") (f (quote (("generator" "clap"))))))
+
+(define-public crate-markov-chain-0.1.1 (c (n "markov-chain") (v "0.1.1") (d (list (d (n "clap") (r "^2.24") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "maplit") (r "^0.1.4") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "0f94zzjbz5pw9lxnr9jvarkx452h147ayxhn5pdd29m4pxvkbx6j") (f (quote (("generator" "clap"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io we b3 web3-async-native-tls) #:use-module (crates-io))
+
+(define-public crate-web3-async-native-tls-0.4.0 (c (n "web3-async-native-tls") (v "0.4.0") (d (list (d (n "async-std") (r "^1.6.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.10") (d #t) (k 2)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.1") (f (quote ("io"))) (o #t) (d #t) (k 0)) (d (n "native-tls") (r "^0.2.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.9") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util"))) (o #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1fvy49bxwhf3r51mqrmwr7chb52niarskm8q6pk7yqmj6qb8sv8z") (f (quote (("vendored" "native-tls/vendored") ("runtime-tokio" "tokio") ("runtime-async-std" "futures-util") ("default" "runtime-async-std"))))))
+

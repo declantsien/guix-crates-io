@@ -1,0 +1,6 @@
+(define-module (crates-io pe ng penguin-application) #:use-module (crates-io))
+
+(define-public crate-penguin-application-0.1.0 (c (n "penguin-application") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fern") (r "^0.5") (f (quote ("colored"))) (d #t) (k 0)) (d (n "legion") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "penguin-config") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.22.2") (d #t) (k 0)))) (h "07iwn3sbifa559pjh7z4kz45f51rc18vmqbjf1lm54a6fq8k34gw") (f (quote (("time-plugin"))))))
+
+(define-public crate-penguin-application-0.1.1 (c (n "penguin-application") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "fern") (r "^0.5") (f (quote ("colored"))) (d #t) (k 0)) (d (n "legion") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "penguin-config") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.22.2") (d #t) (k 0)))) (h "02hswczngrf1vd998zndk6549yw5v7ykji2yz08nxgqzigpp15vg") (f (quote (("time-plugin"))))))
+

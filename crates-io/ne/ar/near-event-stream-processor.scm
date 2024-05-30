@@ -1,0 +1,4 @@
+(define-module (crates-io ne ar near-event-stream-processor) #:use-module (crates-io))
+
+(define-public crate-near-event-stream-processor-0.0.1 (c (n "near-event-stream-processor") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "openssl-probe") (r "^0.1.5") (d #t) (k 0)) (d (n "rdkafka") (r "^0.25") (f (quote ("cmake-build" "ssl"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tokio") (r "^1.1") (f (quote ("sync" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)))) (h "1a8fiqhyyv3rvwkrs74dkqpznc1s5nybnxwnw839jgiphr993jf1")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ni x- nix-nar) #:use-module (crates-io))
+
+(define-public crate-nix-nar-0.1.0 (c (n "nix-nar") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "insta") (r "^0.14") (d #t) (k 2)) (d (n "is_executable") (r "^1.0") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "13k10dk5ww9yxfhgxsgxmxbqgcjk7bbq8whva2567ldzl3w6ll6i")))
+
+(define-public crate-nix-nar-0.2.0 (c (n "nix-nar") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "ctor") (r "^0.1.22") (d #t) (k 2)) (d (n "ignore") (r "^0.4") (d #t) (k 2)) (d (n "insta") (r "^0.14") (d #t) (k 2)) (d (n "is_executable") (r "^1.0") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "171z6jwr99bjvidz8ngzwcj6i5aszqsp981yx4hzd1f6nkihx5fv")))
+
+(define-public crate-nix-nar-0.2.1 (c (n "nix-nar") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "ctor") (r "^0.1.22") (d #t) (k 2)) (d (n "ignore") (r "^0.4") (d #t) (k 2)) (d (n "insta") (r "^1.26") (d #t) (k 2)) (d (n "is_executable") (r "^1.0") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.3") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "00ps97vgmr3d824lnp7b84s3gb8vq5la1d46va2b7z6r70qjqh8f")))
+
+(define-public crate-nix-nar-0.3.0 (c (n "nix-nar") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "camino") (r "^1.1.6") (d #t) (k 0)) (d (n "ctor") (r "^0.2.0") (d #t) (k 2)) (d (n "ignore") (r "^0.4") (d #t) (k 2)) (d (n "insta") (r "^1.26") (d #t) (k 2)) (d (n "is_executable") (r "^1.0") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.3") (d #t) (k 2)) (d (n "symlink") (r "^0.1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1d950f6nrx33jpfilxynrg4n1nspqnyg86bas3yc8ydim1c92m6m")))
+

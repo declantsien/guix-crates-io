@@ -1,0 +1,14 @@
+(define-module (crates-io aw s- aws-codebuild-status) #:use-module (crates-io))
+
+(define-public crate-aws-codebuild-status-0.1.0 (c (n "aws-codebuild-status") (v "0.1.0") (d (list (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "rusoto_codebuild") (r "^0.39.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.39.0") (d #t) (k 0)))) (h "1wi1xqjg0plzxf4k0227hihbykrfkvrvp19kar88asfqxllqi99l")))
+
+(define-public crate-aws-codebuild-status-0.2.0 (c (n "aws-codebuild-status") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "rusoto_codebuild") (r "^0.39.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.39.0") (d #t) (k 0)))) (h "0gjgr1ibikwcmq4fyzpp901dgf7pyd02lkw9d8vhsbdr73gfvjj9")))
+
+(define-public crate-aws-codebuild-status-0.3.0 (c (n "aws-codebuild-status") (v "0.3.0") (d (list (d (n "aws-codebuild-status_derive") (r "^0.3.0") (d #t) (k 0)) (d (n "aws-codebuild-status_terminal") (r "^0.3.0") (d #t) (k 0)) (d (n "aws-codebuild-status_web") (r "^0.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "rusoto_codebuild") (r "^0.39.0") (d #t) (k 0)) (d (n "rusoto_codecommit") (r "^0.39.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.39.0") (d #t) (k 0)))) (h "17d5xx018li6ligml87m8xljy1zvrgb9sqvr8pjzm77lqxwlnkcl")))
+
+(define-public crate-aws-codebuild-status-0.4.0 (c (n "aws-codebuild-status") (v "0.4.0") (d (list (d (n "askama") (r "^0.8.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "rusoto_codebuild") (r "^0.39.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.39.0") (d #t) (k 0)))) (h "1hb8xvjna0s2y9ymi1k7wm9pzl2a0k5pcvicjl8gyz94jfa9dcd6")))
+
+(define-public crate-aws-codebuild-status-0.5.0 (c (n "aws-codebuild-status") (v "0.5.0") (d (list (d (n "askama") (r "^0.8.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "rusoto_codebuild") (r "^0.39.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.39.0") (d #t) (k 0)))) (h "0cc37yywfp52bigy4ycf80ln0jnjk87j11qzcqvzpqid8mcrf8bg")))
+
+(define-public crate-aws-codebuild-status-0.6.0 (c (n "aws-codebuild-status") (v "0.6.0") (d (list (d (n "askama") (r "^0.8.0") (d #t) (k 0)) (d (n "aws-codebuild-status_aws") (r "^0.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)))) (h "1krqnqpfsd5cr3x2xz2v6h4wpxsyazfv3r01g4rf408qd84h4z9m")))
+

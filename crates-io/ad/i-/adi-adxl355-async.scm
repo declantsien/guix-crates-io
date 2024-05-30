@@ -1,0 +1,8 @@
+(define-module (crates-io ad i- adi-adxl355-async) #:use-module (crates-io))
+
+(define-public crate-adi-adxl355-async-0.1.0 (c (n "adi-adxl355-async") (v "0.1.0") (d (list (d (n "adi-adxl355") (r "^0.1.0") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-alpha.10") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "micromath") (r "^2.0") (f (quote ("vector"))) (d #t) (k 0)))) (h "19kmibsvczvh6v93wsaynfhmn6hqj1k58b7rf378pvgpqvq7f2p5") (f (quote (("default")))) (s 2) (e (quote (("defmt" "dep:defmt" "adi-adxl355/defmt")))) (r "1.68")))
+
+(define-public crate-adi-adxl355-async-0.2.0 (c (n "adi-adxl355-async") (v "0.2.0") (d (list (d (n "adi-adxl355") (r "^0.2.0") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-rc.1") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0-rc.1") (d #t) (k 0)) (d (n "micromath") (r "^2.0") (f (quote ("vector"))) (d #t) (k 0)))) (h "07vh6wyhlbvbm35vda7d8gmyvygq2piihzkzkijiry789xd8icy8") (f (quote (("default")))) (s 2) (e (quote (("defmt" "dep:defmt" "adi-adxl355/defmt")))) (r "1.68")))
+
+(define-public crate-adi-adxl355-async-1.0.0 (c (n "adi-adxl355-async") (v "1.0.0") (d (list (d (n "adi-adxl355") (r "^1.0.0") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (d #t) (k 0)) (d (n "micromath") (r "^2.0") (f (quote ("vector"))) (d #t) (k 0)))) (h "1pn2pmbfm0x6fvznp0pi4nlgidxvj8niqz820ip9p9kxwfr7fz66") (f (quote (("default")))) (s 2) (e (quote (("defmt" "dep:defmt" "adi-adxl355/defmt")))) (r "1.75")))
+

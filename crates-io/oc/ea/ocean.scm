@@ -1,0 +1,6 @@
+(define-module (crates-io oc ea ocean) #:use-module (crates-io))
+
+(define-public crate-ocean-0.1.0 (c (n "ocean") (v "0.1.0") (d (list (d (n "filetime") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mage") (r "^0.2") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "mime_guess") (r "^1.8") (d #t) (k 0)) (d (n "quick-error") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.4") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.3") (d #t) (k 0)))) (h "0qlh1h0qd2jwivr1x7a58f4sdxdwbpv215yvnd6jd51z3r9sdb1v")))
+
+(define-public crate-ocean-0.1.1 (c (n "ocean") (v "0.1.1") (d (list (d (n "filetime") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mage") (r "^0.2") (d #t) (k 0)) (d (n "mime") (r "^0.2") (d #t) (k 0)) (d (n "mime_guess") (r "^1.8") (d #t) (k 0)) (d (n "quick-error") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.4") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.3") (d #t) (k 0)))) (h "147y2lwj5i1ywfdcc3kwdng6kvgsrc6lbp31ss9djb2sl26qwnsf")))
+

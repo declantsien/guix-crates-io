@@ -1,0 +1,16 @@
+(define-module (crates-io no st nostd-float-math-monitor) #:use-module (crates-io))
+
+(define-public crate-nostd-float-math-monitor-0.0.2 (c (n "nostd-float-math-monitor") (v "0.0.2") (d (list (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "00h7qdlp83q1nacn0xngmdab39kk2sjmf14a84nzsrsn7rjwdl1r")))
+
+(define-public crate-nostd-float-math-monitor-0.0.3 (c (n "nostd-float-math-monitor") (v "0.0.3") (d (list (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "0is56b79qy27w97z22k9vp7cv1ylv71lcs4bx6cavg7djfvqxpmj")))
+
+(define-public crate-nostd-float-math-monitor-0.0.4 (c (n "nostd-float-math-monitor") (v "0.0.4") (d (list (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "1bi4kf829171bmz4js4m582ykqh9m5m1x7h0wn0wv9pfzkpj0i36")))
+
+(define-public crate-nostd-float-math-monitor-0.0.5 (c (n "nostd-float-math-monitor") (v "0.0.5") (d (list (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "0an5x5pr0jr278hp26phsm1ysm83bca6p7xq9p7va11gwckaz0j0")))
+
+(define-public crate-nostd-float-math-monitor-0.0.6 (c (n "nostd-float-math-monitor") (v "0.0.6") (d (list (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "1g42q1vw7z8fcmg17bk4zpc9wn23y9rpfzcasaysmz7nf4la9kgq")))
+
+(define-public crate-nostd-float-math-monitor-0.0.7 (c (n "nostd-float-math-monitor") (v "0.0.7") (d (list (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "1hg2j1j5103c7a1i4wfpl6j42vxnij98xx78iczix0ym28qxmpzg")))
+
+(define-public crate-nostd-float-math-monitor-0.0.8 (c (n "nostd-float-math-monitor") (v "0.0.8") (d (list (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("cargo" "std"))) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "1i9glajjq6224a4nq4aabkv4ivzmscmb6p1523w0hs4d5p517dgc")))
+

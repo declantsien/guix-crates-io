@@ -1,0 +1,10 @@
+(define-module (crates-io to ke tokenparser) #:use-module (crates-io))
+
+(define-public crate-tokenparser-0.1.0 (c (n "tokenparser") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colors-transform") (r "^0.2.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "0cgca1ds6jk1505gwzgp7nllx3p474sgz9kmj17809f4gbqmvn80")))
+
+(define-public crate-tokenparser-0.2.0 (c (n "tokenparser") (v "0.2.0") (d (list (d (n "clap") (r "^4.0.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colors-transform") (r "^0.2.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "00j4x01qb8v68lfr9yjb74ghxh5f1yync8b14m74v9fi6mbhi435")))
+
+(define-public crate-tokenparser-0.2.1 (c (n "tokenparser") (v "0.2.1") (d (list (d (n "clap") (r "^4.0.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colors-transform") (r "^0.2.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "02r75v15hbbmbncv997nazfs0j472hdypv9577lv9i0ykp6h9j9b")))
+
+(define-public crate-tokenparser-0.2.2 (c (n "tokenparser") (v "0.2.2") (d (list (d (n "clap") (r "^4.0.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colors-transform") (r "^0.2.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "0qnw7ybvfsaxz5szj1wjjgnm14kryhhsg77c0m7hwh7s79q7z74l")))
+

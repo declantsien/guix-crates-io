@@ -1,0 +1,6 @@
+(define-module (crates-io fe rv fervid_transform) #:use-module (crates-io))
+
+(define-public crate-fervid_transform-0.0.1 (c (n "fervid_transform") (v "0.0.1") (d (list (d (n "fervid_core") (r "^0.0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "swc_core") (r "0.75.*") (f (quote ("common_plugin_transform" "ecma_ast"))) (d #t) (k 0)) (d (n "swc_ecma_codegen") (r "0.138.*") (d #t) (k 2)) (d (n "swc_ecma_parser") (r "0.133.*") (d #t) (k 2)))) (h "0rv3ilgd2b4lfl78ljrs9aa5259y3xy50lwv2dsg4ri74v25ywpx")))
+
+(define-public crate-fervid_transform-0.1.0 (c (n "fervid_transform") (v "0.1.0") (d (list (d (n "fervid_core") (r "^0.1") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "swc_core") (r "0.86.*") (f (quote ("ecma_ast" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)) (d (n "swc_ecma_codegen") (r "0.146.*") (d #t) (k 2)) (d (n "swc_ecma_parser") (r "0.141.*") (d #t) (k 2)))) (h "0nihgwm27hrfww4nfbi4iyvrkqssh2a0xcw3jamvcsav21hb83ks")))
+

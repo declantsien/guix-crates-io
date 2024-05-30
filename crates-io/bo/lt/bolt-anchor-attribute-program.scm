@@ -1,0 +1,4 @@
+(define-module (crates-io bo lt bolt-anchor-attribute-program) #:use-module (crates-io))
+
+(define-public crate-bolt-anchor-attribute-program-0.29.1 (c (n "bolt-anchor-attribute-program") (v "0.29.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bolt-anchor-syn") (r "^0.29.1") (f (quote ("idl-types"))) (d #t) (k 0)) (d (n "bs58") (r "^0.5") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0w587b9xnl5483lk4bi442zq7y4m45g0iapbcgfzms9qnq4wdsmf") (f (quote (("interface-instructions" "bolt-anchor-syn/interface-instructions") ("idl-build" "bolt-anchor-syn/idl-build") ("anchor-debug" "bolt-anchor-syn/anchor-debug")))) (r "1.60")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io rs li rslint_config) #:use-module (crates-io))
+
+(define-public crate-rslint_config-0.1.0 (c (n "rslint_config") (v "0.1.0") (d (list (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "rslint_core") (r "^0.3.0") (d #t) (k 0)) (d (n "rslint_errors") (r "^0.2.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "toml") (r "^0.5.7") (d #t) (k 0)))) (h "1l2gxaxhl17md0arw79zy72s9fvxz9fznrk7my734ywmcqs43a08") (f (quote (("schema" "schemars" "rslint_core/schema"))))))
+
+(define-public crate-rslint_config-0.2.0 (c (n "rslint_config") (v "0.2.0") (d (list (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 0)) (d (n "rslint_core") (r "^0.3.0") (d #t) (k 0)) (d (n "rslint_errors") (r "^0.2.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "toml") (r "^0.5.7") (d #t) (k 0)))) (h "1g1zr57yvg4yw89lvfzzgyg09wxdnhj3ly7fmlrbxfmm4996qimg") (f (quote (("schema" "schemars" "rslint_core/schema"))))))
+

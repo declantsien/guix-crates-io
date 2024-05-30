@@ -1,0 +1,4 @@
+(define-module (crates-io ya sh yash-builtin) #:use-module (crates-io))
+
+(define-public crate-yash-builtin-0.1.0 (c (n "yash-builtin") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "either") (r "^1.9.0") (d #t) (k 0)) (d (n "enumset") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "futures-executor") (r "^0.3.28") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (f (quote ("channel"))) (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "yash-env") (r "^0.1.0") (d #t) (k 0)) (d (n "yash-quote") (r "^1.1.1") (d #t) (k 0)) (d (n "yash-semantics") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "yash-semantics") (r "^0.1.0") (d #t) (k 2)) (d (n "yash-syntax") (r "^0.8.0") (d #t) (k 0)))) (h "04508q2axki5bsx8b0l43ds0c4dykxhb31d5rg5hc9nahfv604ji") (f (quote (("default" "yash-semantics")))) (s 2) (e (quote (("yash-semantics" "dep:yash-semantics" "dep:enumset")))) (r "1.75.0")))
+

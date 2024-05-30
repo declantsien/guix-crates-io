@@ -1,0 +1,6 @@
+(define-module (crates-io wa ll walletd_hd_key) #:use-module (crates-io))
+
+(define-public crate-walletd_hd_key-0.1.0 (c (n "walletd_hd_key") (v "0.1.0") (d (list (d (n "base58") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "ripemd") (r "^0.1.3") (k 0)) (d (n "secp256k1") (r "^0.27.0") (f (quote ("rand-std"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (k 0)) (d (n "slip44") (r "^0.1.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "walletd_mnemonics_core") (r "^0.1") (d #t) (k 0)))) (h "0b3r07i7vvis09v7vsamprswfmmry0fv2y8a0c0kwnhv8zisglf6")))
+
+(define-public crate-walletd_hd_key-0.2.0 (c (n "walletd_hd_key") (v "0.2.0") (d (list (d (n "base58") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "ripemd") (r "^0.1.3") (k 0)) (d (n "secp256k1") (r "^0.27.0") (f (quote ("rand-std"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (k 0)) (d (n "slip44") (r "^0.1.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "walletd_mnemonics_core") (r "^0.2") (d #t) (k 0)))) (h "02mmni18qh6kplckpkpxfspdbdyhd2d5ahbky0jcbms2gv8f15dx")))
+

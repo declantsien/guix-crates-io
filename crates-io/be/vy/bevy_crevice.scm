@@ -1,0 +1,8 @@
+(define-module (crates-io be vy bevy_crevice) #:use-module (crates-io))
+
+(define-public crate-bevy_crevice-0.6.0 (c (n "bevy_crevice") (v "0.6.0") (d (list (d (n "bevy-crevice-derive") (r "^0.6.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.4.1") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "glam") (r "^0.20.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)) (d (n "insta") (r "^0.16.1") (d #t) (k 2)) (d (n "mint") (r "^0.5.8") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)))) (h "0k31cjlgrfpkfnqzj88q88awvsi433khw48sw3l97xvx4fryxlq6") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-bevy_crevice-0.6.1 (c (n "bevy_crevice") (v "0.6.1") (d (list (d (n "bevy-crevice-derive") (r "^0.6.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.4.1") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "glam") (r "^0.20.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)) (d (n "insta") (r "^0.16.1") (d #t) (k 2)) (d (n "mint") (r "^0.5.8") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)))) (h "05fbs4c0i7vzkp65n8a3dzb0j5r4h6jf4bqx3mq0mnhhyxrdx166") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-bevy_crevice-0.7.0 (c (n "bevy_crevice") (v "0.7.0") (d (list (d (n "bevy-crevice-derive") (r "^0.7.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.4.1") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "glam") (r "^0.20.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)) (d (n "insta") (r "^0.16.1") (d #t) (k 2)) (d (n "mint") (r "^0.5.8") (d #t) (k 0)) (d (n "nalgebra") (r "^0.30.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)))) (h "0bj8517gcfw1c5d06c0pj0d7xbazvvsbpmgldswjrh16zf2a581x") (f (quote (("std") ("default" "std"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ll m- llm-chain-openai-compatible) #:use-module (crates-io))
+
+(define-public crate-llm-chain-openai-compatible-0.13.0 (c (n "llm-chain-openai-compatible") (v "0.13.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "async-openai") (r "^0.16.2") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "llm-chain") (r "^0.13.0") (k 0)) (d (n "qdrant-client") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 2)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tiktoken-rs") (r "^0.5.7") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (f (quote ("rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 2)))) (h "0r5a52wm5wgghf9rablak39fldfammzgnzijdi48ywpdj7y10c9z") (y #t)))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io pf c- pfc-steak) #:use-module (crates-io))
+
+(define-public crate-pfc-steak-2.1.8 (c (n "pfc-steak") (v "2.1.8") (d (list (d (n "cosmwasm-std") (r "^1.0") (d #t) (k 0)) (d (n "cw20") (r "^0.13") (d #t) (k 0)) (d (n "cw20-base") (r "^0.13") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "1x6zrf9wgmhy2glpl862a99rvgjvly3r2daabmh4c7l290p4jqx5")))
+
+(define-public crate-pfc-steak-2.1.14 (c (n "pfc-steak") (v "2.1.14") (d (list (d (n "cosmwasm-std") (r "^1.0") (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "1ab0z13y8p8lmzyaas8w7pd760srd6w3g59pfkydjff73ipmpapx")))
+
+(define-public crate-pfc-steak-2.2.4 (c (n "pfc-steak") (v "2.2.4") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "17dr5wqyky0m66yvdw5wblrijz8b83silc5835rlc3bzbajq13mm")))
+
+(define-public crate-pfc-steak-3.0.1 (c (n "pfc-steak") (v "3.0.1") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "0d4wgdckwjq347id158bqhkq1zsx2j4vqycycjgcwva6fj5n1dr5")))
+
+(define-public crate-pfc-steak-3.0.2 (c (n "pfc-steak") (v "3.0.2") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "08x2cnaa4ij1xdi0i0l8bmg2377v64sz1bwzg6pim03j0fk1ba1m")))
+
+(define-public crate-pfc-steak-3.0.8 (c (n "pfc-steak") (v "3.0.8") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "1wd3mwd5h890kbclyy1ry5aq34w4fkpri45nvdxh1hgsgphs8ygd")))
+
+(define-public crate-pfc-steak-3.0.12 (c (n "pfc-steak") (v "3.0.12") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "1s1vavam8i18fysf2nvb6lyhpffjhdzhm23kvn18df533yxzg1kg")))
+
+(define-public crate-pfc-steak-3.0.15 (c (n "pfc-steak") (v "3.0.15") (d (list (d (n "cosmwasm-schema") (r "^1.5.4") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.5.4") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw20") (r "^1.1.2") (d #t) (k 0)) (d (n "cw20-base") (r "^1.1.2") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)))) (h "1cbmj6m72jn7jf0bkbrky61zvsncca0zv5qkanvw5bfvv2zg1x87")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr ee tree_sitter_grep_ignore) #:use-module (crates-io))
+
+(define-public crate-tree_sitter_grep_ignore-0.4.20-dev.0 (c (n "tree_sitter_grep_ignore") (v "0.4.20-dev.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.0") (d #t) (k 2)) (d (n "globset") (r "^0.4.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "memchr") (r "^2.1") (d #t) (k 0)) (d (n "regex") (r "^1.1") (d #t) (k 0)) (d (n "same-file") (r "^1.0.4") (d #t) (k 0)) (d (n "thread_local") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.7") (d #t) (k 0)) (d (n "winapi-util") (r "^0.1.2") (d #t) (t "cfg(windows)") (k 0)))) (h "191in2m1kfa3g6vbr0r56yz091ypwiragdc8hl3rmdacg9jbn5kp") (f (quote (("simd-accel" "globset/simd-accel"))))))
+

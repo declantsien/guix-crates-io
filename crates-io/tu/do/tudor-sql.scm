@@ -1,0 +1,6 @@
+(define-module (crates-io tu do tudor-sql) #:use-module (crates-io))
+
+(define-public crate-tudor-sql-0.1.0 (c (n "tudor-sql") (v "0.1.0") (d (list (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nanoid") (r "^0.3.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_consume") (r "^1.0.6") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 2)) (d (n "time") (r "^0.2.23") (d #t) (k 0)) (d (n "typed-builder") (r "^0.8.0") (d #t) (k 0)))) (h "1cfyflmidakrsb2kh7wll3mw0vr6sfa0k783kz3a1c09qcl9z7al")))
+
+(define-public crate-tudor-sql-0.2.0 (c (n "tudor-sql") (v "0.2.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nanoid") (r "^0.3.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_consume") (r "^1.0.6") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 2)) (d (n "time") (r "^0.2.23") (d #t) (k 0)) (d (n "typed-builder") (r "^0.8.0") (d #t) (k 0)))) (h "1l55s16vd2ywr2v5lk0jnqvj8hba225g8dsj3pj2hbck3y8x24pn")))
+

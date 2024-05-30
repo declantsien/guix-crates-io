@@ -1,0 +1,16 @@
+(define-module (crates-io am qp amqpr) #:use-module (crates-io))
+
+(define-public crate-amqpr-0.1.0 (c (n "amqpr") (v "0.1.0") (d (list (d (n "amqpr-api") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0v5qca3adr6vvlvzdv89rp7l5gq39vdrkjkwl5brsgisqmhhsdmg")))
+
+(define-public crate-amqpr-0.1.1 (c (n "amqpr") (v "0.1.1") (d (list (d (n "amqpr-api") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "00nb2rf01v5zvkr7lvg7xhixj97l0j1npcbs4bp81p454cymhy2g")))
+
+(define-public crate-amqpr-0.1.2 (c (n "amqpr") (v "0.1.2") (d (list (d (n "amqpr-api") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0f6jx8546hzakvd9p718fibcrajxndxlvyv927s9az7r6sdwc8dv")))
+
+(define-public crate-amqpr-0.1.3 (c (n "amqpr") (v "0.1.3") (d (list (d (n "amqpr-api") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.26") (d #t) (k 2)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.7") (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0n2bmwbqk11mp81pnn67cd0g6zgsj28vp7bzh48bf9gf2qs3apdx")))
+
+(define-public crate-amqpr-0.2.0 (c (n "amqpr") (v "0.2.0") (d (list (d (n "amqpr-api") (r "^0.3") (d #t) (k 0)) (d (n "amqpr-codec") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.26") (d #t) (k 2)) (d (n "ex-futures") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.7") (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "02rjrg4bncgj1a7dy5njj068hghfw6vi82js1davlfs6zkpqfmgy")))
+
+(define-public crate-amqpr-0.2.1 (c (n "amqpr") (v "0.2.1") (d (list (d (n "amqpr-api") (r "^0.3") (d #t) (k 0)) (d (n "amqpr-codec") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.26") (d #t) (k 2)) (d (n "ex-futures") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.7") (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0iacmlqn02ss5m7lc7sjzwv302y9r0gz9lk1akwcad8wayhgaxdv")))
+
+(define-public crate-amqpr-0.2.2 (c (n "amqpr") (v "0.2.2") (d (list (d (n "amqpr-api") (r "^0.3") (d #t) (k 0)) (d (n "amqpr-codec") (r "^0.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.26") (d #t) (k 2)) (d (n "ex-futures") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "log4rs") (r "^0.7") (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "0r0k678svm602wp2rb7z5gkm3wxl9qvl526pvq0c3hwd14hdiwc9")))
+

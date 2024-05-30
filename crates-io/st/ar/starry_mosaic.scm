@@ -1,0 +1,10 @@
+(define-module (crates-io st ar starry_mosaic) #:use-module (crates-io))
+
+(define-public crate-starry_mosaic-0.1.0 (c (n "starry_mosaic") (v "0.1.0") (d (list (d (n "float-cmp") (r "^0.9.0") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "palette") (r "^0.6.0") (d #t) (k 0)) (d (n "voronoice") (r "^0.2.0") (d #t) (k 0)))) (h "04236a17k5gh34xph2k3g4np14b3g9194cxrmwm6ac1wfbvj8mx6") (f (quote (("mosaic_with_preset_coloring"))))))
+
+(define-public crate-starry_mosaic-0.2.0 (c (n "starry_mosaic") (v "0.2.0") (d (list (d (n "float-cmp") (r "^0.9.0") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "palette") (r "^0.6.0") (d #t) (k 0)) (d (n "robust") (r "^0.2.3") (d #t) (k 0)) (d (n "rstest") (r "^0.15.0") (d #t) (k 2)) (d (n "rstest_reuse") (r "^0.4.0") (d #t) (k 2)) (d (n "voronoice") (r "^0.2.0") (d #t) (k 0)))) (h "0l3wd9wyghvw4zf15ikm9g3010lwv405svmajbnlml4djqgb7k4f") (f (quote (("mosaic_with_preset_coloring"))))))
+
+(define-public crate-starry_mosaic-0.3.0 (c (n "starry_mosaic") (v "0.3.0") (d (list (d (n "float-cmp") (r "^0.9.0") (d #t) (k 0)) (d (n "image") (r "^0.24.3") (d #t) (k 0)) (d (n "palette") (r "^0.6.1") (d #t) (k 0)) (d (n "robust") (r "^0.2.3") (d #t) (k 0)) (d (n "rstest") (r "^0.15.0") (d #t) (k 2)) (d (n "rstest_reuse") (r "^0.4.0") (d #t) (k 2)) (d (n "voronoice") (r "^0.2.0") (d #t) (k 0)))) (h "1r9byw0pnz8qwpkchlparn3cmvx9pq2180ld0x2a5cq013bfqv79") (f (quote (("mosaic_with_preset_coloring"))))))
+
+(define-public crate-starry_mosaic-0.4.0 (c (n "starry_mosaic") (v "0.4.0") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "palette") (r "^0.6.1") (d #t) (k 0)) (d (n "robust") (r "^0.2.3") (d #t) (k 0)) (d (n "rstest") (r "^0.15.0") (d #t) (k 2)) (d (n "rstest_reuse") (r "^0.4.0") (d #t) (k 2)) (d (n "voronoice") (r "^0.2.0") (d #t) (k 0)))) (h "0blqkbl984y28rsqikxdbymkh22qsdgd77ayn9vfw0jigai45q68") (f (quote (("mosaic_with_preset_coloring"))))))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io mp ri mpris) #:use-module (crates-io))
+
+(define-public crate-mpris-0.1.0 (c (n "mpris") (v "0.1.0") (d (list (d (n "dbus") (r "^0.6.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "1f11imwskzqb28a3cby1qcjaf0rrr591hvdgsvd9csipwixd3k0m")))
+
+(define-public crate-mpris-1.0.0 (c (n "mpris") (v "1.0.0") (d (list (d (n "dbus") (r "^0.6.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "0szmgm4fds186gqpg6byzq6r2yny9gx0iz1cda8q8bzhjv8j90nm")))
+
+(define-public crate-mpris-1.1.0 (c (n "mpris") (v "1.1.0") (d (list (d (n "dbus") (r "^0.6.0") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "from_variants") (r "^0.3.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "04i9dki7g6z8ql44kynsywr1rlwid2019qld5af7mnf6n73jj53c")))
+
+(define-public crate-mpris-1.1.1 (c (n "mpris") (v "1.1.1") (d (list (d (n "dbus") (r "^0.6.0") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "from_variants") (r "^0.3.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "13b9by0zkjlg4a11r1c2rc6znxvibhrcz9rjhnqmldbxaglhm85q")))
+
+(define-public crate-mpris-2.0.0-rc1 (c (n "mpris") (v "2.0.0-rc1") (d (list (d (n "dbus") (r "^0.6.4") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.4.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "from_variants") (r "^0.4.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "0k64hvd1j9vmzr5sb2lnq2gjsrzgccsgmyv6mlaq0i7chw36r90x")))
+
+(define-public crate-mpris-1.1.2 (c (n "mpris") (v "1.1.2") (d (list (d (n "dbus") (r "^0.6.0") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "from_variants") (r "^0.3.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "1wxfwj4vn526r8ymgm62h5jg6dzlsiix3nsgpjbd2g7l97j211c1")))
+
+(define-public crate-mpris-2.0.0-rc2 (c (n "mpris") (v "2.0.0-rc2") (d (list (d (n "dbus") (r "^0.8.1") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.4.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "from_variants") (r "^0.4.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)))) (h "04g7qbrkwlb5l2srnan5fxd44kl9nn4dkc0pym353bv7nki6fphr")))
+
+(define-public crate-mpris-2.0.0-rc3 (c (n "mpris") (v "2.0.0-rc3") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 2)) (d (n "dbus") (r "^0.9.5") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.5.1") (d #t) (k 0)) (d (n "from_variants") (r "^0.6.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0va9mnb20jdas9zjgar4ygr0nna640qsl40fnsl6gxyfzi296m9x")))
+
+(define-public crate-mpris-2.0.0 (c (n "mpris") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "dbus") (r "^0.9.6") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.5.1") (d #t) (k 0)) (d (n "from_variants") (r "^1.0.0") (d #t) (k 0)) (d (n "termion") (r "^2.0.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0rjikhzhmbmki024drvk9k13jf5qzjpx671l8mqmr7bxs9zkfgcy") (r "1.54.0")))
+
+(define-public crate-mpris-2.0.1 (c (n "mpris") (v "2.0.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "dbus") (r "^0.9.6") (d #t) (k 0)) (d (n "derive_is_enum_variant") (r "^0.1.1") (d #t) (k 0)) (d (n "enum-kinds") (r "^0.5.1") (d #t) (k 0)) (d (n "from_variants") (r "^1.0.0") (d #t) (k 0)) (d (n "termion") (r "^2.0.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1svzblilq3kxgra63axl3wibsnl9g8p6b8q1x401wsw2lxazkkjm") (r "1.54.0")))
+

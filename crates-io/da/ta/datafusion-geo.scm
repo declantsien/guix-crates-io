@@ -1,0 +1,4 @@
+(define-module (crates-io da ta datafusion-geo) #:use-module (crates-io))
+
+(define-public crate-datafusion-geo-0.1.0 (c (n "datafusion-geo") (v "0.1.0") (d (list (d (n "arrow") (r "^50") (d #t) (k 2)) (d (n "arrow-array") (r "^50") (d #t) (k 0)) (d (n "arrow-buffer") (r "^50") (d #t) (k 0)) (d (n "arrow-schema") (r "^50") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("async_tokio"))) (d #t) (k 2)) (d (n "datafusion") (r "^36") (d #t) (k 2)) (d (n "datafusion-common") (r "^36") (d #t) (k 0)) (d (n "datafusion-expr") (r "^36") (d #t) (k 0)) (d (n "geo") (r "^0.28") (d #t) (k 0)) (d (n "geos") (r "^8.3") (f (quote ("v3_10_0" "geo"))) (o #t) (d #t) (k 0)) (d (n "geozero") (r "^0.12") (f (quote ("with-wkb"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("full"))) (d #t) (k 2)))) (h "0mfa30fp0r2glfqfshcbna2laf3dd6p6g8kpfadig9n2g66h0xk9") (s 2) (e (quote (("geos" "dep:geos" "geozero/with-geos"))))))
+

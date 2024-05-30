@@ -1,0 +1,4 @@
+(define-module (crates-io ar k- ark-bn254-zypher) #:use-module (crates-io))
+
+(define-public crate-ark-bn254-zypher-0.4.0 (c (n "ark-bn254-zypher") (v "0.4.0") (d (list (d (n "ark-algebra-bench-templates") (r "^0.4.0") (k 2)) (d (n "ark-algebra-test-templates") (r "^0.4.0") (k 2)) (d (n "ark-ec") (r "^0.4.0") (k 0) (p "ark-ec-zypher")) (d (n "ark-ff") (r "^0.4.0") (k 0) (p "ark-ff-zypher")) (d (n "ark-r1cs-std") (r "^0.4.0") (o #t) (k 0) (p "ark-r1cs-std-zypher")) (d (n "ark-relations") (r "^0.4.0") (k 2) (p "ark-relations-zypher")) (d (n "ark-serialize") (r "^0.4.0") (k 2) (p "ark-serialize-zypher")) (d (n "ark-std") (r "^0.4.0") (k 0) (p "ark-std-zypher")))) (h "1nrdpwzsbysqalkpfcs1fcgv70pg2z7cb8xl75s3ihps1b742z07") (f (quote (("scalar_field") ("r1cs" "ark-r1cs-std") ("default" "curve") ("curve" "scalar_field")))) (s 2) (e (quote (("std" "ark-std/std" "ark-ff/std" "ark-ec/std" "ark-r1cs-std?/std"))))))
+

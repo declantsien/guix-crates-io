@@ -1,0 +1,6 @@
+(define-module (crates-io mo rk morkovmap_rc) #:use-module (crates-io))
+
+(define-public crate-morkovmap_rc-0.4.0 (c (n "morkovmap_rc") (v "0.4.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "ril") (r "^0.9.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive" "alloc" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (f (quote ("serde" "union"))) (d #t) (k 0)))) (h "171014gd7c4dgyzwdwk3vmhl25z3jx662hawa7xnx8wb1iya0q59")))
+
+(define-public crate-morkovmap_rc-0.4.1 (c (n "morkovmap_rc") (v "0.4.1") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "ril") (r "^0.9.0") (f (quote ("all"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive" "alloc" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (f (quote ("serde" "union"))) (d #t) (k 0)))) (h "0aq501nywyzhcnppy077d072jp0jldxycp0hg3f4rip406jav4qn")))
+

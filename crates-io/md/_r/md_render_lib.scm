@@ -1,0 +1,4 @@
+(define-module (crates-io md _r md_render_lib) #:use-module (crates-io))
+
+(define-public crate-md_render_lib-0.1.0 (c (n "md_render_lib") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (f (quote ("color" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "gethostname") (r "^0.2") (d #t) (k 0)) (d (n "image") (r "^0.22.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "pulldown-cmark") (r "^0.6") (f (quote ("simd"))) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("gzip" "blocking"))) (o #t) (d #t) (k 0)) (d (n "syntect") (r "^3, < 3.2") (f (quote ("parsing" "assets" "dump-load"))) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "10viya81daz7n5hvhbpccdfp9yigh1k0j4qxa0a0z35s1hs0d0kl") (f (quote (("default" "reqwest"))))))
+

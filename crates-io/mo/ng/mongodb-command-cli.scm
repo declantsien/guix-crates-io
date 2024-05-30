@@ -1,0 +1,6 @@
+(define-module (crates-io mo ng mongodb-command-cli) #:use-module (crates-io))
+
+(define-public crate-mongodb-command-cli-0.1.0 (c (n "mongodb-command-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "mongodb") (r "^2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "17p9ih8xmb8j43k4nphpwvy7f8dylhky8y0s02mqpwhllglg76fc")))
+
+(define-public crate-mongodb-command-cli-0.1.1 (c (n "mongodb-command-cli") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.24") (d #t) (k 0)) (d (n "mongodb") (r "^2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0za4p6cl4bzspkwn91nf1bmcfjifxrkarwhv5d5015k3mwz6923r")))
+

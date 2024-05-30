@@ -1,0 +1,4 @@
+(define-module (crates-io ka nt kantan) #:use-module (crates-io))
+
+(define-public crate-kantan-0.1.0 (c (n "kantan") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "auto-future") (r "^1.0.0") (d #t) (k 0)) (d (n "axum") (r "^0.6.10") (d #t) (k 2)) (d (n "axum-extra") (r "^0.7.0") (f (quote ("cookie"))) (d #t) (k 2)) (d (n "axum-test") (r "^7.3.0") (d #t) (k 2)) (d (n "cookie") (r "^0.17.0") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("client" "http1" "tcp"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde-email") (r "^1.3.0") (f (quote ("serde"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("rt" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("rt" "rt-multi-thread" "time" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0qjy6kdqqrv7zlgjvi6cdmpi3cwvfwcg55jaa7fgadmdlg9jhgb4")))
+

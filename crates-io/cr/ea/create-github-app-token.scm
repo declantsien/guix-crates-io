@@ -1,0 +1,14 @@
+(define-module (crates-io cr ea create-github-app-token) #:use-module (crates-io))
+
+(define-public crate-create-github-app-token-1.0.0 (c (n "create-github-app-token") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "surf") (r "^2.3") (d #t) (k 0)) (d (n "test-case") (r "^1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0z3chfqya94m7s3mpvpwcazk7y59w0hjgfrdlq9xc0ld9vyny6s7")))
+
+(define-public crate-create-github-app-token-1.0.1 (c (n "create-github-app-token") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "surf") (r "^2.3") (d #t) (k 0)) (d (n "test-case") (r "^1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1yiaw3krmd9dpsyckcsnf9bny2bi2x2hcgcyya1vx5x1kl499x16")))
+
+(define-public crate-create-github-app-token-1.0.2 (c (n "create-github-app-token") (v "1.0.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "surf") (r "^2.3") (d #t) (k 0)) (d (n "test-case") (r "^1.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1kf17p8b2zm86ww9x5sx5rg86mg8jmv9j5gg1sfyhgjd06rk6jlx") (y #t)))
+
+(define-public crate-create-github-app-token-1.0.3 (c (n "create-github-app-token") (v "1.0.3") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "surf") (r "^2.3") (d #t) (k 0)) (d (n "test-case") (r "^1.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "01znpiqw41y631hw64k8fjxn7njyjqrq5b7kcq3935l6ckpxxhv3")))
+
+(define-public crate-create-github-app-token-2.0.0 (c (n "create-github-app-token") (v "2.0.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "surf") (r "^2.3") (d #t) (k 0)) (d (n "test-case") (r "^1.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0kjvysf2ws2fkl94apaq47m8xya08apfw2i5sgdznkbhhaw69xl9")))
+
+(define-public crate-create-github-app-token-2.0.1 (c (n "create-github-app-token") (v "2.0.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "surf") (r "^2.3") (d #t) (k 0)) (d (n "test-case") (r "^2.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1qmaa1i8g23bzq09q21mprf0n8jpflwljyw0hcb97bh7wwzr1qmk")))
+

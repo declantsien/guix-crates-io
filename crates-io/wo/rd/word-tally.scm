@@ -1,0 +1,16 @@
+(define-module (crates-io wo rd word-tally) #:use-module (crates-io))
+
+(define-public crate-word-tally-0.1.0 (c (n "word-tally") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "02ipcfp62cccqfkfv5w8xib2aav6i40v01ydq48g1irapilcgnhg")))
+
+(define-public crate-word-tally-0.2.0 (c (n "word-tally") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "0j2k6ghar7w18cxbx2hchynkwgvyas7q09v5s0js5f8ai6s40wkx")))
+
+(define-public crate-word-tally-0.3.0 (c (n "word-tally") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "06n2zzgnswcdlhsmplmjsgkj4mjf1zlfji6r2qb9p7qa1qlh8nm9")))
+
+(define-public crate-word-tally-0.3.1 (c (n "word-tally") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "0rf80kg3jjkpw7ckkya2n3fzpw31yr14kychbrp0drk8ag7l12iv")))
+
+(define-public crate-word-tally-0.3.2 (c (n "word-tally") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "1rln0cgcs43f55c0b9ijwml3hrddr67na3rxnybxnsih03k1b73a")))
+
+(define-public crate-word-tally-0.4.0 (c (n "word-tally") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "1qx7x0acym4mlgq1wdaf85qd0awywann3mkiwkcpcfn2858pmnsm")))
+
+(define-public crate-word-tally-0.5.0 (c (n "word-tally") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-stdin") (r "^0.4.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "unescaper") (r "^0.1.4") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)))) (h "1x50ijq0l435sq96m05vc4y3xl6q33jjn6wrwqx7m1i01pcg95rj")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io wf m_ wfm_cli) #:use-module (crates-io))
+
+(define-public crate-wfm_cli-0.1.0 (c (n "wfm_cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "device_query") (r "^0.2.8") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "levenshtein") (r "^1.0.5") (d #t) (k 0)) (d (n "screenshot-rs") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tesseract") (r "^0.9.0") (d #t) (k 0)) (d (n "text_io") (r "^0.1.8") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "wfm_rs") (r "^0.1.0") (d #t) (k 0)))) (h "19smb47v1xcqhwsbijaxpwmdnpl25k4jnhlf0i3l9ri8ks6lsdac")))
+

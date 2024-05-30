@@ -1,0 +1,4 @@
+(define-module (crates-io sp ri springboard) #:use-module (crates-io))
+
+(define-public crate-springboard-3.0.1 (c (n "springboard") (v "3.0.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "async-process") (r "^1.6.0") (d #t) (k 1)) (d (n "fatfs") (r "^0.3.4") (f (quote ("std" "alloc"))) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 1)) (d (n "futures-concurrency") (r "^7.0.0") (d #t) (k 1)) (d (n "gpt") (r "^3.0.0") (o #t) (d #t) (k 0)) (d (n "llvm-tools") (r "^0.1.1") (d #t) (k 1)) (d (n "mbrman") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "springboard-boot-config") (r "^3.0.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "0rkc56w8g7ncis6sr8x7svm5hfdmh53iskg7k902cz2572qmz8g4") (f (quote (("default" "bios" "uefi")))) (s 2) (e (quote (("uefi" "dep:gpt") ("bios" "dep:mbrman"))))))
+

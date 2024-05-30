@@ -1,0 +1,8 @@
+(define-module (crates-io ad af adafruit-ble-fs-client) #:use-module (crates-io))
+
+(define-public crate-adafruit-ble-fs-client-0.1.0 (c (n "adafruit-ble-fs-client") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "btleplug") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (d #t) (k 0)))) (h "1i6livnc511fzzvnlvki816z87s0308j38qfixxkd3nrsp03j6ll") (f (quote (("btleplug-provider" "btleplug") ("all-providers" "btleplug-provider"))))))
+
+(define-public crate-adafruit-ble-fs-client-0.1.1 (c (n "adafruit-ble-fs-client") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "btleplug") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (d #t) (k 0)))) (h "1f407jf3grsmfh85l9578fr5ciwq6id5srq00alg2sm9rcb17qh9") (f (quote (("btleplug-provider" "btleplug") ("all-providers" "btleplug-provider"))))))
+
+(define-public crate-adafruit-ble-fs-client-0.1.2 (c (n "adafruit-ble-fs-client") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "btleplug") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1mr2jwdk8n0x28969rvj43y7kl77nkj05sjxx52l113izv102scs") (f (quote (("btleplug-provider" "btleplug") ("all-providers" "btleplug-provider"))))))
+

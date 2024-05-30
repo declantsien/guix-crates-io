@@ -1,0 +1,10 @@
+(define-module (crates-io ni tr nitrokey3) #:use-module (crates-io))
+
+(define-public crate-nitrokey3-0.1.0 (c (n "nitrokey3") (v "0.1.0") (d (list (d (n "ctaphid") (r "^0.1.1") (d #t) (k 0)))) (h "1rqslh941kyczf25qalaak3v6vmf3c2abyka5hkpgbasixr5f110") (f (quote (("hidapi-linux-static-libusb" "ctaphid/hidapi-linux-static-libusb") ("hidapi-linux-static-hidraw" "ctaphid/hidapi-linux-static-hidraw") ("hidapi-linux-shared-libusb" "ctaphid/hidapi-linux-shared-libusb") ("hidapi-linux-shared-hidraw" "ctaphid/hidapi-linux-shared-hidraw") ("default" "hidapi-linux-shared-hidraw"))))))
+
+(define-public crate-nitrokey3-0.1.1 (c (n "nitrokey3") (v "0.1.1") (d (list (d (n "ctaphid") (r "^0.1.1") (k 0)))) (h "1a1ky6mi4lcqg0d5z0gzf44fpf2sc8r2ccxw7b0pp5rlz7pzgwdn") (f (quote (("hidapi-linux-static-libusb" "ctaphid/hidapi-linux-static-libusb") ("hidapi-linux-static-hidraw" "ctaphid/hidapi-linux-static-hidraw") ("hidapi-linux-shared-libusb" "ctaphid/hidapi-linux-shared-libusb") ("hidapi-linux-shared-hidraw" "ctaphid/hidapi-linux-shared-hidraw") ("default" "hidapi-linux-shared-hidraw"))))))
+
+(define-public crate-nitrokey3-0.2.0 (c (n "nitrokey3") (v "0.2.0") (d (list (d (n "ctaphid") (r "^0.2.0") (k 0)) (d (n "ctaphid-types") (r "^0.2.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.4.1") (k 0)))) (h "0lz14jckpsj45gl8awl11k0vahsxsjrchngxcd0mf7anp1xlclib") (f (quote (("hidapi-linux-static-libusb" "ctaphid/hidapi-linux-static-libusb") ("hidapi-linux-static-hidraw" "ctaphid/hidapi-linux-static-hidraw") ("hidapi-linux-shared-libusb" "ctaphid/hidapi-linux-shared-libusb") ("hidapi-linux-shared-hidraw" "ctaphid/hidapi-linux-shared-hidraw") ("default" "hidapi-linux-shared-hidraw"))))))
+
+(define-public crate-nitrokey3-0.3.0 (c (n "nitrokey3") (v "0.3.0") (d (list (d (n "ctaphid") (r "^0.3.0") (d #t) (k 0)) (d (n "hidapi") (r "^1.4.1") (k 0)) (d (n "hidapi") (r "^1.4.1") (f (quote ("linux-static-hidraw"))) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tap") (r "^1.0.1") (d #t) (k 0)))) (h "0g75qfwvbfl4dg3zq2pdf06n5lwhmvqnl64jmisqvynqncksh4w0")))
+

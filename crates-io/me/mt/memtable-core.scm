@@ -1,0 +1,6 @@
+(define-module (crates-io me mt memtable-core) #:use-module (crates-io))
+
+(define-public crate-memtable-core-0.1.0 (c (n "memtable-core") (v "0.1.0") (d (list (d (n "csv") (r "^1.1.6") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9.4") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)))) (h "14q5v3brhlry1vcv0lf1d42v054zx3b0qzmka6dd4vrvbw8nywc3") (f (quote (("serde-1" "serde" "serde_with") ("cell"))))))
+
+(define-public crate-memtable-core-0.2.0 (c (n "memtable-core") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3.3") (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (o #t) (d #t) (k 0)) (d (n "hashbrown") (r "^0.11.2") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_with") (r "^1.9.4") (o #t) (d #t) (k 0)) (d (n "sled") (r "^0.34.6") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)))) (h "1h7pi3z9a3nz7mypss8hq725bypy8r9dhch8s462yqfygx8qr34c") (f (quote (("std") ("sled-1" "bincode" "serde-1" "sled") ("serde-1" "serde" "serde_with" "std") ("default" "std") ("cell") ("alloc" "hashbrown"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io te rm termstyle) #:use-module (crates-io))
+
+(define-public crate-termstyle-0.1.0 (c (n "termstyle") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.10") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "1.*") (d #t) (k 0)) (d (n "serde_json") (r "1.*") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 2)) (d (n "std_prelude") (r "^0.2") (d #t) (k 0)) (d (n "tabwriter") (r "1.*") (f (quote ("ansi_formatting"))) (k 0)))) (h "0k44hzgjg935fwn8z5njl970qnd6p4pv8b5rpnhvapzd0xl1acxk")))
+
+(define-public crate-termstyle-0.1.1 (c (n "termstyle") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.10") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "1.*") (d #t) (k 0)) (d (n "serde_json") (r "1.*") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 2)) (d (n "std_prelude") (r "^0.2") (d #t) (k 0)) (d (n "tabwriter") (r "1.*") (f (quote ("ansi_formatting"))) (k 0)))) (h "1ki1bcv4v4yf5wi2lwhflx617vm2cipiaxpmyfvi08azwq7rr614")))
+
+(define-public crate-termstyle-0.1.2 (c (n "termstyle") (v "0.1.2") (d (list (d (n "ansi_term") (r "^0.10") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "1.*") (d #t) (k 0)) (d (n "serde_derive") (r "1.*") (d #t) (k 0)) (d (n "serde_json") (r "1.*") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 2)) (d (n "std_prelude") (r "^0.2") (d #t) (k 0)) (d (n "tabwriter") (r "1.*") (f (quote ("ansi_formatting"))) (k 0)))) (h "0gkxd86jvayxfvqb8g1z6bycy4w962n5jh5di38lad23hny07bw7")))
+

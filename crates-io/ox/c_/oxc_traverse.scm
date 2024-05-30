@@ -1,0 +1,6 @@
+(define-module (crates-io ox c_ oxc_traverse) #:use-module (crates-io))
+
+(define-public crate-oxc_traverse-0.13.0 (c (n "oxc_traverse") (v "0.13.0") (d (list (d (n "memoffset") (r "^0.9.1") (d #t) (k 0)) (d (n "oxc_allocator") (r "^0.13.0") (d #t) (k 0)) (d (n "oxc_ast") (r "^0.13.0") (d #t) (k 0)) (d (n "oxc_span") (r "^0.13.0") (d #t) (k 0)) (d (n "oxc_syntax") (r "^0.13.0") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.93") (d #t) (k 2)))) (h "1lv8wbk4d0pb909sh6lci4wxzrdda5jz9pkcpmcphvi1lm2nf759") (r "1.74")))
+
+(define-public crate-oxc_traverse-0.13.1 (c (n "oxc_traverse") (v "0.13.1") (d (list (d (n "memoffset") (r "^0.9.1") (d #t) (k 0)) (d (n "oxc_allocator") (r "^0.13.1") (d #t) (k 0)) (d (n "oxc_ast") (r "^0.13.1") (d #t) (k 0)) (d (n "oxc_semantic") (r "^0.13.1") (d #t) (k 0)) (d (n "oxc_span") (r "^0.13.1") (d #t) (k 0)) (d (n "oxc_syntax") (r "^0.13.1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.93") (d #t) (k 2)))) (h "136p5k59arwgrcgnmp2gwp4dyi52bgpw22nw25qf7ll4w3jshpp4") (r "1.74")))
+

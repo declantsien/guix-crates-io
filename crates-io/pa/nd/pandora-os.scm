@@ -1,0 +1,4 @@
+(define-module (crates-io pa nd pandora-os) #:use-module (crates-io))
+
+(define-public crate-pandora-os-0.1.0 (c (n "pandora-os") (v "0.1.0") (d (list (d (n "cosmwasm-bignumber") (r "^2.2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^0.16") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^0.16") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw-controllers") (r "^0.8") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.8") (d #t) (k 0)) (d (n "cw2") (r "^0.8") (d #t) (k 0)) (d (n "cw20") (r "^0.8") (d #t) (k 0)) (d (n "cw20-base") (r "^0.8") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "terra-cosmwasm") (r "^2.2.0") (d #t) (k 0)) (d (n "terraswap") (r "^2.4.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "0q8jjgr7a706mp1rhwq95h6klr26ya9zi3q89gqkcgqhyrdf8ihg") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+

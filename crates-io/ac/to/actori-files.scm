@@ -1,0 +1,4 @@
+(define-module (crates-io ac to actori-files) #:use-module (crates-io))
+
+(define-public crate-actori-files-0.2.1 (c (n "actori-files") (v "0.2.1") (d (list (d (n "actori-http") (r "^1.0.1") (d #t) (k 0)) (d (n "actori-rt") (r "^1.0.0") (d #t) (k 2)) (d (n "actori-service") (r "^1.0.5") (d #t) (k 0)) (d (n "actori-web") (r "^2.0.0") (k 0)) (d (n "actori-web") (r "^2.0.0") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.4") (d #t) (k 0)))) (h "13cqr693hvknm7bg6cqbfx5mwpicrp9hmizll636wqbh0ppk04c6")))
+

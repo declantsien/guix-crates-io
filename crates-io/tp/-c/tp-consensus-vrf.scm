@@ -1,0 +1,8 @@
+(define-module (crates-io tp -c tp-consensus-vrf) #:use-module (crates-io))
+
+(define-public crate-tp-consensus-vrf-0.8.1 (c (n "tp-consensus-vrf") (v "0.8.1") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "schnorrkel") (r "^0.9.1") (f (quote ("preaudit_deprecated" "u64_backend"))) (k 0)) (d (n "tet-core") (r "^2.0.0") (k 0)) (d (n "tetcore-std") (r "^2.0.0") (k 0)) (d (n "tp-runtime") (r "^2.0.0") (k 0)))) (h "1v9q90g3inlajxl61d0smgs1fwqzrn1134j8dvlaqblz25g9hmkx") (f (quote (("std" "codec/std" "schnorrkel/std" "tetcore-std/std" "tet-core/std" "tp-runtime/std") ("default" "std"))))))
+
+(define-public crate-tp-consensus-vrf-0.8.2 (c (n "tp-consensus-vrf") (v "0.8.2") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "schnorrkel") (r "^0.9.1") (f (quote ("preaudit_deprecated" "u64_backend"))) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "07sb35hr2zz9jw992a4y1xbykfpa90aa6xzzljs6i2v34pb156a7") (f (quote (("std" "codec/std" "schnorrkel/std" "tetcore-std/std" "tet-core/std" "tp-runtime/std") ("default" "std"))))))
+
+(define-public crate-tp-consensus-vrf-2.1.2 (c (n "tp-consensus-vrf") (v "2.1.2") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "schnorrkel") (r "^0.9.1") (f (quote ("preaudit_deprecated" "u64_backend"))) (k 0)) (d (n "tet-core") (r "^2.1.2") (k 0)) (d (n "tetcore-std") (r "^2.1.2") (k 0)) (d (n "tp-runtime") (r "^2.1.2") (k 0)))) (h "1hl88954qaxby5njqlggw5i7ck1j8fx8x189ig1x567rjxhgpwma") (f (quote (("std" "codec/std" "schnorrkel/std" "tetcore-std/std" "tet-core/std" "tp-runtime/std") ("default" "std"))))))
+

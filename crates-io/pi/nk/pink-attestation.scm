@@ -1,0 +1,4 @@
+(define-module (crates-io pi nk pink-attestation) #:use-module (crates-io))
+
+(define-public crate-pink-attestation-0.1.0 (c (n "pink-attestation") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (k 0)) (d (n "ink_env") (r "^3") (k 0)) (d (n "ink_lang") (r "^3") (k 0)) (d (n "ink_metadata") (r "^3") (f (quote ("derive"))) (o #t) (k 0)) (d (n "ink_prelude") (r "^3") (k 0)) (d (n "ink_primitives") (r "^3") (k 0)) (d (n "ink_storage") (r "^3") (k 0)) (d (n "pink-extension") (r "^0.1.14") (k 0)) (d (n "pink-extension-runtime") (r "^0.1.3") (d #t) (k 2)) (d (n "scale") (r "^3") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2") (f (quote ("derive"))) (o #t) (k 0)))) (h "0cq6n74z5hljg3w5dn3lilcrnmf40r32dr7vdd254rx94df73ahg") (f (quote (("std" "ink_primitives/std" "ink_metadata/std" "ink_storage/std" "ink_env/std" "scale/std" "scale-info/std" "pink-extension/std") ("default" "std"))))))
+

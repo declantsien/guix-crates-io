@@ -1,0 +1,8 @@
+(define-module (crates-io pa rs parse_postman_collection) #:use-module (crates-io))
+
+(define-public crate-parse_postman_collection-0.2.1 (c (n "parse_postman_collection") (v "0.2.1") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 2)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "0v8z3z1z9yamsl5gs9phk53s0j6avg1kygpid4jqckgcchqg3s1n")))
+
+(define-public crate-parse_postman_collection-0.2.2 (c (n "parse_postman_collection") (v "0.2.2") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 2)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "1wfgfnglsnn9fz2pfg1wbaqs7qrj1dyn6fa3bw1pv7x8nvm67bzq")))
+
+(define-public crate-parse_postman_collection-0.2.3 (c (n "parse_postman_collection") (v "0.2.3") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 2)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "1p6h9qvlk4ypvni57ysh2zryy0kbpxfnqjwbc1d85510hgk6ca9c")))
+

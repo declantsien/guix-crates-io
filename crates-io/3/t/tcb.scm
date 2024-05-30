@@ -1,0 +1,12 @@
+(define-module (crates-io #{3}# t tcb) #:use-module (crates-io))
+
+(define-public crate-tcb-0.1.0 (c (n "tcb") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.4.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0xln5q40s1w9zrkndrn77z0gpbrl2ykf8zb77xppq76aysgcack3")))
+
+(define-public crate-tcb-0.1.1 (c (n "tcb") (v "0.1.1") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.4.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0wxqi3vpwywhn1fzc28i3fwvia63wi2wgkh94lmjkx16bjlm29ds")))
+
+(define-public crate-tcb-0.1.20 (c (n "tcb") (v "0.1.20") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.4.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1bp0j7277r9fwhbhic8hp7flyvwji0cywvvva61gjxjvrwrz565v")))
+
+(define-public crate-tcb-0.1.201 (c (n "tcb") (v "0.1.201") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.4.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "1g151pikcdv9v9mnsy8aw78jm237p2p03i377q4c9cz2d2l6kj91")))
+
+(define-public crate-tcb-0.1.202 (c (n "tcb") (v "0.1.202") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "petgraph") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.4.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0g6xy370rqalp23ixb4fzd921v4x3kq4syl1cwfqkjij9xhmvjd6")))
+

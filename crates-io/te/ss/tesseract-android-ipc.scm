@@ -1,0 +1,4 @@
+(define-module (crates-io te ss tesseract-android-ipc) #:use-module (crates-io))
+
+(define-public crate-tesseract-android-ipc-0.5.6 (c (n "tesseract-android-ipc") (v "0.5.6") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "crabdroid") (r "^0.3.0") (d #t) (k 0)) (d (n "jni") (r "^0.20") (d #t) (k 0)) (d (n "jni_fn") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tesseract-android-base") (r "^0.5.6") (d #t) (k 0)) (d (n "tesseract-android-transport") (r "^0.5.6") (d #t) (k 0)) (d (n "tesseract-one") (r "^0.5") (d #t) (k 0)))) (h "0jdf2glmjb2gisvinvdmy74i8lzwr96sx1nqbhcsyyx8qdnalyh7") (f (quote (("service" "tesseract-one/service" "tesseract-android-transport/service")))) (s 2) (e (quote (("client" "tesseract-one/client" "tesseract-android-transport/client" "dep:async-trait" "dep:jni_fn"))))))
+

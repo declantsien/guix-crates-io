@@ -1,0 +1,12 @@
+(define-module (crates-io ca nc cancellable) #:use-module (crates-io))
+
+(define-public crate-cancellable-0.1.0 (c (n "cancellable") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt-multi-thread" "net" "macros" "time"))) (k 2)) (d (n "tokio-util") (r "^0.7.8") (k 0)))) (h "137c4lqd92xpsvxbxfh3wz0836nrrgidd1f3qg7gbj2204aqrfgr")))
+
+(define-public crate-cancellable-0.1.1 (c (n "cancellable") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt-multi-thread" "net" "macros" "time"))) (k 2)) (d (n "tokio-util") (r "^0.7.8") (k 0)))) (h "0rdxckh7xyc9f4jlmw4vkyr0giyvgdpwaycpz2mw8bms3fw0rvwl")))
+
+(define-public crate-cancellable-0.2.0 (c (n "cancellable") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt-multi-thread" "net" "macros" "time"))) (k 2)) (d (n "tokio-util") (r "^0.7.8") (k 0)))) (h "03fcmkzqsj4rjb5476b8jwhalbimzsg8q1dfqidqvpp69aj1psgl")))
+
+(define-public crate-cancellable-0.3.0 (c (n "cancellable") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt-multi-thread" "net" "macros" "time"))) (k 2)) (d (n "tokio-util") (r "^0.7.8") (k 0)))) (h "019zkrdnmvc38dpjxdklfa3g34zlybp4h0yxbm25r933frlw7drv")))
+
+(define-public crate-cancellable-0.3.1 (c (n "cancellable") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt-multi-thread" "net" "macros" "time"))) (k 2)) (d (n "tokio-util") (r "^0.7.8") (k 0)))) (h "1vcnn33gdilw97gai1dnmdad2w367qp40if5l48k13fri0wj9ygh")))
+

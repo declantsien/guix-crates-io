@@ -1,0 +1,4 @@
+(define-module (crates-io di sc discord-qr-auth) #:use-module (crates-io))
+
+(define-public crate-discord-qr-auth-0.1.0 (c (n "discord-qr-auth") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "flume") (r "^0.10.13") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.1") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)))) (h "15a0kywjxj9xc9zcph438dqain7dbzyxx7zwmpjj1cx8rb8wckwy")))
+

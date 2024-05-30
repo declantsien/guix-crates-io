@@ -1,0 +1,10 @@
+(define-module (crates-io tu on tuono) #:use-module (crates-io))
+
+(define-public crate-tuono-0.0.3 (c (n "tuono") (v "0.0.3") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "watchexec") (r "^4.0.0") (d #t) (k 0)) (d (n "watchexec-signals") (r "^3.0.0") (d #t) (k 0)) (d (n "watchexec-supervisor") (r "^2.0.0") (d #t) (k 0)))) (h "0mjk5zw57glgzyn61rvf7hbn7xb3nl5065cg9abpw9zi982avcq6")))
+
+(define-public crate-tuono-0.0.4 (c (n "tuono") (v "0.0.4") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "watchexec") (r "^4.0.0") (d #t) (k 0)) (d (n "watchexec-signals") (r "^3.0.0") (d #t) (k 0)) (d (n "watchexec-supervisor") (r "^2.0.0") (d #t) (k 0)))) (h "0aisnjvb26sxp25x63qnrf9yds58xnazv1plygchkmrwa2lgp20q")))
+
+(define-public crate-tuono-0.0.5 (c (n "tuono") (v "0.0.5") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "watchexec") (r "^4.0.0") (d #t) (k 0)) (d (n "watchexec-signals") (r "^3.0.0") (d #t) (k 0)) (d (n "watchexec-supervisor") (r "^2.0.0") (d #t) (k 0)))) (h "1cz4flmgn9wmrnxhav8iyjl3j25ma87sw4gb6cb4pnhifmx1x9cd")))
+
+(define-public crate-tuono-0.0.6 (c (n "tuono") (v "0.0.6") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "watchexec") (r "^4.0.0") (d #t) (k 0)) (d (n "watchexec-signals") (r "^3.0.0") (d #t) (k 0)) (d (n "watchexec-supervisor") (r "^2.0.0") (d #t) (k 0)))) (h "1akkjlg8187cw0cbawdir5zis0s6b2qm6svbpfksanx80cih7d5q")))
+

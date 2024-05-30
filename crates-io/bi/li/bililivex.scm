@@ -1,0 +1,4 @@
+(define-module (crates-io bi li bililivex) #:use-module (crates-io))
+
+(define-public crate-bililivex-0.1.0 (c (n "bililivex") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "bililivecmd") (r "^0.1.2") (d #t) (k 0)) (d (n "data-encoding") (r "^2.4.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "ring") (r "^0.17.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 0)))) (h "12xv3ibwc31963xqfnhibgf3hpm6jr6hq0c3z08q11vfmc2v7v77")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io fs me fsmentry-core) #:use-module (crates-io))
+
+(define-public crate-fsmentry-core-0.1.0 (c (n "fsmentry-core") (v "0.1.0") (d (list (d (n "derive-quote-to-tokens") (r "^0.1.0") (d #t) (k 0)) (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (k 0)) (d (n "quote") (r "^1.0.33") (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "parsing" "clone-impls"))) (k 0)) (d (n "syn-graphs") (r "^0.1.0") (d #t) (k 0)))) (h "1xjhpvxpmdl5snh3kf73il5qdqqfm63nlmz2w3jvjfma6l4iipks")))
+
+(define-public crate-fsmentry-core-0.1.1 (c (n "fsmentry-core") (v "0.1.1") (d (list (d (n "derive-quote-to-tokens") (r "^0.1.0") (d #t) (k 0)) (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (k 0)) (d (n "quote") (r "^1.0.33") (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "parsing" "clone-impls"))) (k 0)) (d (n "syn-graphs") (r "^0.1.0") (d #t) (k 0)))) (h "1ramxjg7vv5imgz17gl3z10jqwwimz8v0i509ypr3i7q69fbwall")))
+
+(define-public crate-fsmentry-core-0.1.2 (c (n "fsmentry-core") (v "0.1.2") (d (list (d (n "derive-quote-to-tokens") (r "^0.1.0") (d #t) (k 0)) (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (k 0)) (d (n "quote") (r "^1.0.33") (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "parsing" "clone-impls"))) (k 0)) (d (n "syn-graphs") (r "^0.1.0") (d #t) (k 0)))) (h "1p8v2m0ji46i55dma2i3j8ndzlkxrsn7pbzijsnw88k7niznybxc")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io au de auden) #:use-module (crates-io))
+
+(define-public crate-auden-0.1.0 (c (n "auden") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cpal") (r "^0.15.2") (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("nightly"))) (k 0)) (d (n "hound") (r "^3.5.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "mimalloc") (r "^0.1.39") (d #t) (k 0)) (d (n "plotly") (r "^0.8.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (k 0)))) (h "0xb19sjv3sap7rri5dn9ckjwqimassn8fgwr7b1s0n64ri4jh7jb")))
+

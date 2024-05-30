@@ -1,0 +1,14 @@
+(define-module (crates-io ob si obsidian) #:use-module (crates-io))
+
+(define-public crate-obsidian-0.1.0 (c (n "obsidian") (v "0.1.0") (h "1ffjw44vryfs6rf6w19l5mlnshdc0zp2jik8jhhxapks6i4mlw7q") (y #t)))
+
+(define-public crate-obsidian-0.1.0-alpha.1 (c (n "obsidian") (v "0.1.0-alpha.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1.14") (d #t) (k 0)) (d (n "hyper") (r "^0.12.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "tokio-fs") (r "^0.1.4") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.10") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)))) (h "1faaw49clfh93qpw4c00plvpkpm032m3fqbk1mnjd43r91nv0bgd")))
+
+(define-public crate-obsidian-0.2.0-alpha.1 (c (n "obsidian") (v "0.2.0-alpha.1") (d (list (d (n "async-std") (r "^1.4.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.22") (d #t) (k 0)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "110gwqk9ms2dd67y17a3b9fbbiy01jc4zhw6jcy0nhmvg1h94sb1")))
+
+(define-public crate-obsidian-0.2.0 (c (n "obsidian") (v "0.2.0") (d (list (d (n "async-std") (r "^1.4.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.22") (d #t) (k 0)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "0xnkj0r02v20ji4x7spvmzcb8anavjijqik17w6cz1bgz22k3la1")))
+
+(define-public crate-obsidian-0.2.1 (c (n "obsidian") (v "0.2.1") (d (list (d (n "async-std") (r "^1.4.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.22") (d #t) (k 0)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "0dyn5di4q2ijgz0q3k63v3k7k1aaazmikqr55db87ckxyn09xi26")))
+
+(define-public crate-obsidian-0.2.2 (c (n "obsidian") (v "0.2.2") (d (list (d (n "async-std") (r "^1.4.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.22") (d #t) (k 0)) (d (n "http") (r "^0.2.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "0k951h5lid76jbd2dfr06ylldz4lwfj0y2xihkczhcpi8cbf53p6")))
+

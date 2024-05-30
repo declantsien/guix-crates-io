@@ -1,0 +1,4 @@
+(define-module (crates-io fr ui fruit-salad_proc-macro-definitions) #:use-module (crates-io))
+
+(define-public crate-fruit-salad_proc-macro-definitions-0.0.1 (c (n "fruit-salad_proc-macro-definitions") (v "0.0.1") (d (list (d (n "call2-for-syn") (r "^2.0.3") (d #t) (k 0)) (d (n "debugless-unwrap") (r "^0.0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.29") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "syn") (r "^1.0.77") (f (quote ("full" "visit-mut"))) (d #t) (k 0)) (d (n "syn-mid") (r "^0.5.0") (d #t) (k 0)) (d (n "tap") (r "^1.0.1") (d #t) (k 0)) (d (n "unquote") (r "^0.0.6") (d #t) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "1pnhazbfnaa1cqdk7gkg30hmwk69sygw7wml9nbidikyi7ff9jyr")))
+

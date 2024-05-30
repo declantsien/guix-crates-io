@@ -1,0 +1,6 @@
+(define-module (crates-io ef fe effect-core) #:use-module (crates-io))
+
+(define-public crate-effect-core-0.2.2-alpha (c (n "effect-core") (v "0.2.2-alpha") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "effect-events") (r "^0.2.2-alpha") (d #t) (k 0) (p "effect-events")) (d (n "effect-util") (r "^0.2.2-alpha") (d #t) (k 0) (p "effect-util")) (d (n "glam") (r "^0.25") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.19") (d #t) (k 0)) (d (n "winit") (r "^0.29") (f (quote ("rwh_05"))) (d #t) (k 0)))) (h "1qzjn9spfv4krjr8qbynxvzlxlar01phnnlcc32r807bc6cimdj2")))
+
+(define-public crate-effect-core-0.2.6-alpha (c (n "effect-core") (v "0.2.6-alpha") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "effect-events") (r "^0.2.6-alpha") (d #t) (k 0) (p "effect-events")) (d (n "effect-util") (r "^0.2.6-alpha") (d #t) (k 0) (p "effect-util")) (d (n "glam") (r "^0.25") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "wgpu") (r "^0.19") (d #t) (k 0)) (d (n "winit") (r "^0.29") (f (quote ("rwh_05"))) (d #t) (k 0)))) (h "08y08xflzv8vmssy6v0rz91g4vd6m88s5w0iz8wmz11p834nzfj7")))
+

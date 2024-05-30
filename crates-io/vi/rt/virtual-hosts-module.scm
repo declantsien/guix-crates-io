@@ -1,0 +1,4 @@
+(define-module (crates-io vi rt virtual-hosts-module) #:use-module (crates-io))
+
+(define-public crate-virtual-hosts-module-0.2.0 (c (n "virtual-hosts-module") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "module-utils") (r "^0.2.0") (d #t) (k 0)) (d (n "pingora-core") (r "^0.2.0") (d #t) (k 0)) (d (n "pingora-proxy") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static-files-module") (r "^0.2.0") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)) (d (n "test-log") (r "=0.2.13") (d #t) (k 2)) (d (n "tokio") (r "^1") (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)) (d (n "trie-rs") (r "^0.4.0") (d #t) (k 0)))) (h "1yklyvl4bmqyfswwsjbsrwlx9amv4jzhzgrrcfawiim2yj7vad81")))
+

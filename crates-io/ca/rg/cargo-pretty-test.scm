@@ -1,0 +1,16 @@
+(define-module (crates-io ca rg cargo-pretty-test) #:use-module (crates-io))
+
+(define-public crate-cargo-pretty-test-0.1.0 (c (n "cargo-pretty-test") (v "0.1.0") (d (list (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "1q5zl9xffrjifhq66c0prgdgmdb962mfa2swv1ish2hj4rzmh36q")))
+
+(define-public crate-cargo-pretty-test-0.2.0 (c (n "cargo-pretty-test") (v "0.2.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.32") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "0vfysq30999lyhgzzb6kalghq8fq9lkdyq8pnlz206r41wagmsa3")))
+
+(define-public crate-cargo-pretty-test-0.2.1 (c (n "cargo-pretty-test") (v "0.2.1") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.32") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "1y6sz3gj3zhbvlf7mx93y27qql89lqa0mqjk7hixjhhq3cci8p5h")))
+
+(define-public crate-cargo-pretty-test-0.2.2 (c (n "cargo-pretty-test") (v "0.2.2") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.32") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "0fb5phzq0qqx07ac5a6w4kpa8rq1s515xbyvf16chzvsbyk4yd1r")))
+
+(define-public crate-cargo-pretty-test-0.2.3 (c (n "cargo-pretty-test") (v "0.2.3") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.32") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "0ff1rw984hzh4h5pdpwvyljxbkw7b1l9hx9bcbyzh0mzzlnf21il")))
+
+(define-public crate-cargo-pretty-test-0.2.4 (c (n "cargo-pretty-test") (v "0.2.4") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.33") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "0k31wfhd0mby121jiifrnji7lyr04gy7z0zhhy5aljf2gcd0azbk")))
+
+(define-public crate-cargo-pretty-test-0.2.5 (c (n "cargo-pretty-test") (v "0.2.5") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.34") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "regex-lite") (r "^0.1") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2") (d #t) (k 0)) (d (n "termtree") (r "^0.4") (d #t) (k 0)))) (h "0x5hrsjd4hp0cvi0f8djcs8bv4s8knypvqqp76689v9w0p7rxrxj") (f (quote (("no-color" "colored/no-color"))))))
+

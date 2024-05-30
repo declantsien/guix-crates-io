@@ -1,0 +1,12 @@
+(define-module (crates-io xi ap xiapi) #:use-module (crates-io))
+
+(define-public crate-xiapi-0.1.0 (c (n "xiapi") (v "0.1.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "image") (r "^0.24.2") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.6") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (f (quote ("file_locks"))) (d #t) (k 2)) (d (n "xiapi-sys") (r "^0.1.0") (d #t) (k 0)))) (h "0z2nv1wb78ysrxj3yqlwaa6m5hsz9xi44936svzwgk0cyyh5hh7z") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image")))) (r "1.59.0")))
+
+(define-public crate-xiapi-0.1.1 (c (n "xiapi") (v "0.1.1") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "image") (r "^0.24.2") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.6") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (f (quote ("file_locks"))) (d #t) (k 2)) (d (n "xiapi-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1s0p6c9xi08fwv52zzhb2j6pl5057riz0y2hlipkcpw08zxcg8i9") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image")))) (r "1.59.0")))
+
+(define-public crate-xiapi-0.1.2 (c (n "xiapi") (v "0.1.2") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "image") (r "^0.24.2") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.6") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (f (quote ("file_locks"))) (d #t) (k 2)) (d (n "xiapi-sys") (r "^0.1.1") (d #t) (k 0)))) (h "1jlb18irzvz3v178l80yhlk1wgv1hg9py51wzis00wxipz4z707v") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image")))) (r "1.59.0")))
+
+(define-public crate-xiapi-0.1.3 (c (n "xiapi") (v "0.1.3") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "image") (r "^0.24.2") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.6") (d #t) (k 0)) (d (n "serial_test") (r "^2.0.0") (f (quote ("file_locks"))) (d #t) (k 2)) (d (n "xiapi-sys") (r "^0.1.1") (d #t) (k 0)))) (h "0ixa8brsl3ww6ckp718z18xghb4i433sq6qpn1b5ii5cz79jwsx9") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image")))) (r "1.59.0")))
+
+(define-public crate-xiapi-0.1.4 (c (n "xiapi") (v "0.1.4") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "image") (r "^0.24.8") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (f (quote ("file_locks"))) (d #t) (k 2)) (d (n "xiapi-sys") (r "^0.1.2") (d #t) (k 0)))) (h "1gl52hjcls4i85x6v2fndddvw36zbxrads018z6684db4i8h6kb5") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image")))) (r "1.70.0")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ra ge ragequit) #:use-module (crates-io))
+
+(define-public crate-ragequit-0.1.0 (c (n "ragequit") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("signal"))) (d #t) (t "cfg(target_family = \"unix\")") (k 0)) (d (n "pin-project") (r "^1.0.12") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("sync" "parking_lot"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "windows-sys") (r "^0.42.0") (f (quote ("Win32_Foundation" "Win32_System_Console"))) (d #t) (t "cfg(target_family = \"windows\")") (k 0)))) (h "0snpfkpkk3zhkkrwxral34q1v7yi3kc4m3m234nwqiicgbnnc2qf")))
+
+(define-public crate-ragequit-0.1.1 (c (n "ragequit") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("signal"))) (d #t) (t "cfg(target_family = \"unix\")") (k 0)) (d (n "pin-project") (r "^1.0.12") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("sync" "parking_lot"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "windows-sys") (r "^0.42.0") (f (quote ("Win32_Foundation" "Win32_System_Console"))) (d #t) (t "cfg(target_family = \"windows\")") (k 0)))) (h "0935nd8ccmqwmc9pbf8jfc4lbhr0wl0drpkyx5rzp82mq8wsixjx")))
+

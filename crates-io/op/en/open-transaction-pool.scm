@@ -1,0 +1,4 @@
+(define-module (crates-io op en open-transaction-pool) #:use-module (crates-io))
+
+(define-public crate-open-transaction-pool-0.1.0 (c (n "open-transaction-pool") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "otx-pool") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-client") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-config") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-plugin-atomic-swap") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-plugin-dust-collector") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-pool-plugin-signer") (r "=0.1.0") (d #t) (k 0)) (d (n "otx-sdk") (r "=0.1.0") (d #t) (k 0)))) (h "09yclsrf131vir3y8wa5n9gqx399zardvbmgi794xcwf1mqy2slw")))
+

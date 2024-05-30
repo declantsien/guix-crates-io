@@ -1,0 +1,4 @@
+(define-module (crates-io sv an svanill-vault-cli) #:use-module (crates-io))
+
+(define-public crate-svanill-vault-cli-0.1.0 (c (n "svanill-vault-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "assert_cmd") (r "^1.0.1") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "confy") (r "^0.4.0") (d #t) (k 0)) (d (n "md-5") (r "^0.9.0") (d #t) (k 0)) (d (n "mockito") (r "^0.25.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "svanill-vault-openapi") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)))) (h "0w4lxmvwyk0w8cys5lfvzd5k2avrylhyg4van6skiq634pfscrk7")))
+

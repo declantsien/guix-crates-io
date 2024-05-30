@@ -1,0 +1,4 @@
+(define-module (crates-io ep po eppo) #:use-module (crates-io))
+
+(define-public crate-eppo-0.1.0 (c (n "eppo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (f (quote ("unstable-kv"))) (d #t) (k 2)) (d (n "log") (r "^0.4.21") (f (quote ("kv" "kv_serde"))) (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1f2axsvya09gszc5sc8ycn5w17z1vy8x06pbk920i7qffd32hzy3")))
+

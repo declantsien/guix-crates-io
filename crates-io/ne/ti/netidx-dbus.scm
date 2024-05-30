@@ -1,0 +1,4 @@
+(define-module (crates-io ne ti netidx-dbus) #:use-module (crates-io))
+
+(define-public crate-netidx-dbus-0.1.0 (c (n "netidx-dbus") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "dbus") (r "^0.9") (f (quote ("futures"))) (d #t) (k 0)) (d (n "dbus-tokio") (r "^0.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "netidx") (r "^0.12.3") (d #t) (k 0)) (d (n "netidx-protocols") (r "^0.12") (d #t) (k 0)) (d (n "netidx-tools-core") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1glldmqbryr1vgm2r8x5ash7sr93fvgnaihy85p3qlrbsmcgj315")))
+

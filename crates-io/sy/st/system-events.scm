@@ -1,0 +1,6 @@
+(define-module (crates-io sy st system-events) #:use-module (crates-io))
+
+(define-public crate-system-events-0.1.0 (c (n "system-events") (v "0.1.0") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "windows") (r "^0.48") (f (quote ("Win32_System_LibraryLoader" "Win32_Graphics_Gdi" "Data_Xml_Dom" "Win32_Foundation" "Win32_Security" "Win32_System_Power" "Win32_System_Threading" "Win32_System_SystemServices" "Win32_UI_WindowsAndMessaging" "Win32_UI_Shell"))) (d #t) (k 0)))) (h "014s7yzmlwipwhs37crcjy2h7bfm09jfh326hmn41kd25vxz8faf")))
+
+(define-public crate-system-events-0.1.1 (c (n "system-events") (v "0.1.1") (d (list (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "windows") (r "^0.48") (f (quote ("Win32_System_LibraryLoader" "Win32_Graphics_Gdi" "Data_Xml_Dom" "Win32_Foundation" "Win32_Security" "Win32_System_Power" "Win32_System_Threading" "Win32_System_SystemServices" "Win32_UI_WindowsAndMessaging" "Win32_UI_Shell"))) (d #t) (k 0)))) (h "14582ia0zs26qb77m4hlpn4pax3kb87wmc8083gmkjxfp0dyzfw2")))
+

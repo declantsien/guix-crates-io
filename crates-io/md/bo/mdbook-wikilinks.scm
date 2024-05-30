@@ -1,0 +1,8 @@
+(define-module (crates-io md bo mdbook-wikilinks) #:use-module (crates-io))
+
+(define-public crate-mdbook-wikilinks-0.3.4 (c (n "mdbook-wikilinks") (v "0.3.4") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "lazy-regex") (r "^2.2.1") (d #t) (k 0)) (d (n "maud") (r "^0.22.2") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "urlencoding") (r "^2.0.0") (d #t) (k 0)))) (h "1r3wy8x07rmqchplmnf2l1pa1ij0nsjjyqs0wws4pdd0f5fydbq2")))
+
+(define-public crate-mdbook-wikilinks-0.3.5 (c (n "mdbook-wikilinks") (v "0.3.5") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "lazy-regex") (r "^2.2.1") (d #t) (k 0)) (d (n "maud") (r "^0.22.2") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "urlencoding") (r "^2.0.0") (d #t) (k 0)))) (h "090xdf6kwbhgn26bmsry237hn7ikw8jm0vf4f97kac2vqf2g4l90")))
+
+(define-public crate-mdbook-wikilinks-0.4.0 (c (n "mdbook-wikilinks") (v "0.4.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "010j8zc4a95bxhrfwyb0w2hwjvg94hjqdzznjfd6abyw00j3x4wy")))
+

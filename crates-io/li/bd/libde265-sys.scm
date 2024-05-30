@@ -1,0 +1,6 @@
+(define-module (crates-io li bd libde265-sys) #:use-module (crates-io))
+
+(define-public crate-libde265-sys-0.1.0 (c (n "libde265-sys") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.2") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "const_format") (r "^0.2.32") (d #t) (k 1)) (d (n "curl") (r "^0.4.44") (d #t) (k 1)) (d (n "flate2") (r "^1.0.28") (d #t) (k 1)) (d (n "tar") (r "^0.4.40") (d #t) (k 1)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 1)))) (h "09p7gmlxcq146zvzalbirmw99hdg256pm2alifxwzipdbm7gb5hp") (f (quote (("system") ("static") ("generate-bindings") ("encoder") ("default" "system"))))))
+
+(define-public crate-libde265-sys-0.1.1 (c (n "libde265-sys") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.2") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "const_format") (r "^0.2.32") (d #t) (k 1)) (d (n "curl") (r "^0.4.44") (d #t) (k 1)) (d (n "flate2") (r "^1.0.28") (d #t) (k 1)) (d (n "tar") (r "^0.4.40") (d #t) (k 1)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 1)))) (h "0s7qjqja87q6ql75y3i2gxz6nmjv71kinrbqqkmgjkdb7lsddym6") (f (quote (("system") ("static") ("generate-bindings") ("encoder") ("default" "system"))))))
+

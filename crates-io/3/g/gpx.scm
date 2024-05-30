@@ -1,0 +1,38 @@
+(define-module (crates-io #{3}# g gpx) #:use-module (crates-io))
+
+(define-public crate-gpx-0.0.1 (c (n "gpx") (v "0.0.1") (h "0z2bihrj4b64ch84dk8x10lml3s0dmqww30a8jfc44rwl870gdby")))
+
+(define-public crate-gpx-0.1.0 (c (n "gpx") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.4.13") (d #t) (k 0)) (d (n "xml-rs") (r "^0.6") (d #t) (k 0)))) (h "10qkjray1n8nbb08yy8qdcrb30n3zx6fpl9y81z6v641v3pnxsz1")))
+
+(define-public crate-gpx-0.2.0 (c (n "gpx") (v "0.2.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.4.13") (d #t) (k 0)) (d (n "xml-rs") (r "^0.6") (d #t) (k 0)))) (h "09n6k0brwk65nwn2dfsjaslgr4cdbq94pqb7wzfzv1gy07cwbp5j")))
+
+(define-public crate-gpx-0.3.0 (c (n "gpx") (v "0.3.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.4.13") (d #t) (k 0)) (d (n "xml-rs") (r "^0.6") (d #t) (k 0)))) (h "114373m07c8z8b7vcg6ag4m922142bs8vmmfq5mp3ff8yc5bvc80")))
+
+(define-public crate-gpx-0.4.0 (c (n "gpx") (v "0.4.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.9") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "0r51qhimxy0cjbf4lr62zh9awd6gns2nwvl2nk1ad7ky00am28va")))
+
+(define-public crate-gpx-0.4.1 (c (n "gpx") (v "0.4.1") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.9") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "1m6y6pr9k1v8f9jsr27lgh0pp987lvjf0phfmsrlwvc6g1qizyr9")))
+
+(define-public crate-gpx-0.5.0 (c (n "gpx") (v "0.5.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.10") (d #t) (k 2)) (d (n "geo-types") (r "^0.2") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "09nb51ranp3r480gbrhzqj1wbrzsmfk468h71k6r20zd7hgzdk3d")))
+
+(define-public crate-gpx-0.6.0 (c (n "gpx") (v "0.6.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.10") (d #t) (k 2)) (d (n "geo-types") (r "^0.2") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "1m8cqd7pzlzija393c5fkksw94f479x5yldzk0g9d7x2m1razqv4")))
+
+(define-public crate-gpx-0.7.0 (c (n "gpx") (v "0.7.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.12") (d #t) (k 2)) (d (n "geo-types") (r "^0.4") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "15ki5cx0j6ifkl0251yl9q5nfxvm7himhm8430ad9ff5mgg38l16")))
+
+(define-public crate-gpx-0.8.0 (c (n "gpx") (v "0.8.0") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.12") (d #t) (k 2)) (d (n "geo-types") (r "^0.4") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "1kl8xp9gjx3x4a3i2bflz935x0shjchlzpwy5n3dalayal5521g3")))
+
+(define-public crate-gpx-0.8.1 (c (n "gpx") (v "0.8.1") (d (list (d (n "assert_approx_eq") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "geo") (r "^0.12") (d #t) (k 2)) (d (n "geo-types") (r "^0.4") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "1gik7cgpb415yh65z04bmskaag4bncpi9n38sccmvvjwcgqlhvyr")))
+
+(define-public crate-gpx-0.8.2 (c (n "gpx") (v "0.8.2") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "geo") (r "^0.18") (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "001fw6m4nsfynjhkjx6vmawz4g0ls10djv0jgf6hwkqjkni34xb0")))
+
+(define-public crate-gpx-0.8.3 (c (n "gpx") (v "0.8.3") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "geo") (r "^0.18") (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "1kyhbqy08qphhcp0sa22qj8737irf10k7knip4950q05df515iyn")))
+
+(define-public crate-gpx-0.8.5 (c (n "gpx") (v "0.8.5") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "geo") (r "^0.18") (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "1bpkj0yjv380x344byhdkrki642d8ss4dazz8q8jmk5gff6z2fm8") (f (quote (("use-serde" "serde" "chrono/serde" "geo-types/serde"))))))
+
+(define-public crate-gpx-0.8.6 (c (n "gpx") (v "0.8.6") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "geo") (r "^0.18") (d #t) (k 2)) (d (n "geo-types") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "parsing"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "0pnwk6ir6y3cfcn6h629f981bgl3lskprnr507yqhv46hndmj0sv") (f (quote (("use-serde" "serde" "time/serde" "geo-types/serde")))) (r "1.56")))
+
+(define-public crate-gpx-0.9.0 (c (n "gpx") (v "0.9.0") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "geo") (r "^0.25") (d #t) (k 2)) (d (n "geo-types") (r "^0.7.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "parsing"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.10") (d #t) (k 0)))) (h "1cgzcz41lfa3gldkdsniyf2pnq5m643hqb1wszk6i0yd5dwjp2md") (f (quote (("use-serde" "serde" "time/serde" "geo-types/serde")))) (r "1.65")))
+
+(define-public crate-gpx-0.9.1 (c (n "gpx") (v "0.9.1") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "geo") (r "^0.25") (d #t) (k 2)) (d (n "geo-types") (r "^0.7.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "parsing"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.10") (d #t) (k 0)))) (h "17nvwp36gzawm5a6bz0hzf84jn39almwc2mqs5vvb8mdin1nqhrb") (f (quote (("use-serde" "serde" "time/serde" "geo-types/serde")))) (r "1.65")))
+
+(define-public crate-gpx-0.10.0 (c (n "gpx") (v "0.10.0") (d (list (d (n "assert_approx_eq") (r "^1") (d #t) (k 2)) (d (n "geo") (r "^0.27") (d #t) (k 2)) (d (n "geo-types") (r "^0.7.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("formatting" "parsing"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.10") (d #t) (k 0)))) (h "167605aklj1mb1h4dcpqp7nn51288rcbvhzsfxwzp9hpi87azayg") (f (quote (("use-serde" "serde" "time/serde" "geo-types/serde")))) (r "1.67")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io un iq unique_id) #:use-module (crates-io))
+
+(define-public crate-unique_id-0.1.0 (c (n "unique_id") (v "0.1.0") (d (list (d (n "atomic_refcell") (r "^0.1.6") (d #t) (k 0)) (d (n "blob-uuid") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1kkrnqnhiyl1rbp7p5q8hrcjl66287z9a45aaqvvzj9rik54wzgz")))
+
+(define-public crate-unique_id-0.1.1 (c (n "unique_id") (v "0.1.1") (d (list (d (n "atomic_refcell") (r "^0.1.6") (d #t) (k 0)) (d (n "blob-uuid") (r "^0.3.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1y62vjiyxd7wkqj22mmmkn3qs1q3pv38ym4d03yq80pdsbwx6kp7")))
+
+(define-public crate-unique_id-0.1.2 (c (n "unique_id") (v "0.1.2") (d (list (d (n "atomic_refcell") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "blob-uuid") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "13hnnrrhbrwinzsl5kk33ns54039vypfdzkg7fm3m41hvgcpzpv8") (f (quote (("string" "blob-uuid") ("sequence" "atomic_refcell" "lazy_static") ("random" "uuid") ("default" "random" "sequence" "string"))))))
+
+(define-public crate-unique_id-0.1.3 (c (n "unique_id") (v "0.1.3") (d (list (d (n "atomic_refcell") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "blob-uuid") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "0wd4p32yzmifkdihwchv4l4bw910rdf4h7pcwa0d9sc2i1afc6in") (f (quote (("string" "blob-uuid") ("sequence" "atomic_refcell" "lazy_static") ("random" "uuid") ("default" "random" "sequence" "string"))))))
+
+(define-public crate-unique_id-0.1.4 (c (n "unique_id") (v "0.1.4") (d (list (d (n "atomic_refcell") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "blob-uuid") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.1.0") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "0ha6j63rxxmwiwq9909dkvrmq6p4zhmif1z0fjnh0jz8kr8wg8mp") (f (quote (("string" "blob-uuid") ("sequence" "atomic_refcell" "lazy_static") ("random" "uuid") ("default" "random" "sequence" "string"))))))
+
+(define-public crate-unique_id-0.1.5 (c (n "unique_id") (v "0.1.5") (d (list (d (n "blob-uuid") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.6") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4"))) (o #t) (d #t) (k 0)))) (h "1k34whjazp2vf9fbmcfy3k2iswdczczv1a6lk0vl7v5xvwwmqq5f") (f (quote (("string" "blob-uuid") ("sequence" "lazy_static") ("random" "uuid") ("default" "random" "sequence" "string"))))))
+

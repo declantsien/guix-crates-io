@@ -1,0 +1,10 @@
+(define-module (crates-io cy be cyber-std) #:use-module (crates-io))
+
+(define-public crate-cyber-std-0.1.0 (c (n "cyber-std") (v "0.1.0") (d (list (d (n "cid") (r "^0.8.0") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.0.0-beta5") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0-beta5") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw721") (r "^0.11.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (k 0)))) (h "00ansvwz9r066gvn3c1s8w69ripicpsi0sh9vaqn1m1wx9n1sggc")))
+
+(define-public crate-cyber-std-0.2.0 (c (n "cyber-std") (v "0.2.0") (d (list (d (n "cid") (r "^0.8.0") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.0.0-beta8") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0-beta8") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw721") (r "^0.13.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "1mr0c4swsydw428vx0i4a8gcdxll122hfr43y362xq4lfpqqnklz")))
+
+(define-public crate-cyber-std-0.2.1 (c (n "cyber-std") (v "0.2.1") (d (list (d (n "cid") (r "^0.8.0") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw721") (r "^0.13.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "0s0fxg6n03kvsm5qbpjdpjnn0d5702zdvbvaf9s4dxd0b1v3p81b")))
+
+(define-public crate-cyber-std-0.2.2 (c (n "cyber-std") (v "0.2.2") (d (list (d (n "cid") (r "^0.8.0") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (f (quote ("iterator"))) (d #t) (k 0)) (d (n "cw721") (r "^0.13.4") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "17a3ixa1az2fla4x503g401mbv3h7nvnijws7wfbn6d8s9rfvhis")))
+

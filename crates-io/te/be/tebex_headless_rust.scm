@@ -1,0 +1,10 @@
+(define-module (crates-io te be tebex_headless_rust) #:use-module (crates-io))
+
+(define-public crate-tebex_headless_rust-0.1.0 (c (n "tebex_headless_rust") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)))) (h "1zazz3fc723fyk74axd5kx7k3v22zr9h90gfm4mrw60piznyp9sa")))
+
+(define-public crate-tebex_headless_rust-0.1.1 (c (n "tebex_headless_rust") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)))) (h "0sb1nsnwvzc87cwkn4my3h73a82n9mfjqp35xd2ggs5zrrdfxsqp")))
+
+(define-public crate-tebex_headless_rust-0.1.2 (c (n "tebex_headless_rust") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)))) (h "1pw428x8kcwh6gakjlcy4l1dr3cinmmd2dviqwysj4k4f9i28rwa")))
+
+(define-public crate-tebex_headless_rust-0.1.3 (c (n "tebex_headless_rust") (v "0.1.3") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)))) (h "0sd4ckgigsvapr2ri63zi7s72fh86vwl8nhzh6b83jdzapl9lpk2")))
+

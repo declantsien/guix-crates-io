@@ -1,0 +1,6 @@
+(define-module (crates-io un id unidb_odbc) #:use-module (crates-io))
+
+(define-public crate-unidb_odbc-0.1.0 (c (n "unidb_odbc") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^0.11.0") (d #t) (k 0)) (d (n "odbc") (r "^0.16.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.2") (d #t) (k 0)) (d (n "r2d2") (r "^0.8.9") (d #t) (k 0)) (d (n "r2d2_odbc") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "unidb") (r "^0.4.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "1gia9g40l1h443hbxzpld8sa03nw0ksv0bw1lms6fzy9bmd3fp0s")))
+
+(define-public crate-unidb_odbc-0.1.1 (c (n "unidb_odbc") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^0.11.0") (d #t) (k 0)) (d (n "odbc") (r "^0.16.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.2") (d #t) (k 0)) (d (n "r2d2") (r "^0.8.9") (d #t) (k 0)) (d (n "r2d2_odbc") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "unidb") (r "0.4.*") (d #t) (k 0)))) (h "1ljdqdsg25q11psp8pni767n4lvv88lzhf8rzhm9m7sdfx2fr1r5")))
+

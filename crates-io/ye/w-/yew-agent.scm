@@ -1,0 +1,8 @@
+(define-module (crates-io ye w- yew-agent) #:use-module (crates-io))
+
+(define-public crate-yew-agent-0.1.0 (c (n "yew-agent") (v "0.1.0") (d (list (d (n "anymap2") (r "^0.13") (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "gloo-console") (r "^0.2") (d #t) (k 0)) (d (n "gloo-utils") (r "^0.1") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Blob" "BlobPropertyBag" "DedicatedWorkerGlobalScope" "MessageEvent" "Url" "Worker" "WorkerOptions"))) (d #t) (k 0)) (d (n "yew") (r "^0.19.3") (d #t) (k 0)))) (h "0xyaldrn52wsmnqbkfrg8sawfxvbvrz4g92bqic5d52i73f00rv1")))
+
+(define-public crate-yew-agent-0.2.0 (c (n "yew-agent") (v "0.2.0") (d (list (d (n "gloo-worker") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 2)) (d (n "yew") (r "^0.20.0") (d #t) (k 0)))) (h "02lja4zqbln0c9zf1fdvswci3z60xf13s3dhdf0j5zvzv5g7qvxh")))
+
+(define-public crate-yew-agent-0.3.0 (c (n "yew-agent") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gloo-worker") (r "^0.4") (f (quote ("futures"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 2)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "yew") (r "^0.21.0") (d #t) (k 0)) (d (n "yew-agent-macro") (r "^0.2") (d #t) (k 0)))) (h "1xc8snap55a7hjrain17sp7643iv529fbp49cld0x7gac75fl9vy") (r "1.64.0")))
+

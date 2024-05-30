@@ -1,0 +1,8 @@
+(define-module (crates-io tw it twitter_privacy) #:use-module (crates-io))
+
+(define-public crate-twitter_privacy-0.1.0 (c (n "twitter_privacy") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.13.0") (d #t) (k 0)) (d (n "egg-mode") (r "^0.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 0)) (d (n "quickcheck") (r "^0.8.0") (d #t) (k 2)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)))) (h "1a5l4jg059qc132k16www5ccr8k9hrafgmg43gvndg0m122ny89a")))
+
+(define-public crate-twitter_privacy-0.2.0 (c (n "twitter_privacy") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.14.1") (d #t) (k 0)) (d (n "egg-mode") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)))) (h "10apfalcx2jhwajqq2khj8i9jnjb1p0gp706m9cf9rj40lwfjdr1")))
+
+(define-public crate-twitter_privacy-0.3.0 (c (n "twitter_privacy") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.14.1") (d #t) (k 0)) (d (n "egg-mode") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.3.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)))) (h "1vrm59yy3jwm13848mq0dcs8dckv5wdnv3jr645fdsflp461wvvy")))
+

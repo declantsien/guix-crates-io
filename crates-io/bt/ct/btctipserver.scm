@@ -1,0 +1,4 @@
+(define-module (crates-io bt ct btctipserver) #:use-module (crates-io))
+
+(define-public crate-btctipserver-0.1.0 (c (n "btctipserver") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bdk") (r "^0.6.0") (k 0)) (d (n "bdk-macros") (r "^0.2") (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "maud") (r "^0.22.1") (d #t) (k 0)) (d (n "qr_code") (r "^1.0.0") (f (quote ("bmp"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.16") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple-server") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "00xnyq69v2bskhn5w9jc41lp8hkc75gvlwbn4789w7hi1w3y6yss") (f (quote (("electrum" "bdk/electrum") ("default" "electrum" "bdk/key-value-db"))))))
+

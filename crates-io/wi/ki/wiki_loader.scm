@@ -1,0 +1,8 @@
+(define-module (crates-io wi ki wiki_loader) #:use-module (crates-io))
+
+(define-public crate-wiki_loader-0.1.0 (c (n "wiki_loader") (v "0.1.0") (d (list (d (n "bzip2") (r "^0.4.4") (d #t) (k 0)) (d (n "fst") (r "^0.4.7") (f (quote ("levenshtein"))) (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "async-tokio"))) (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.13") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "0iwrivr7gpvajyj6g52w8ps34rihgwjyn1awhlzjrn08ffdfx5p7")))
+
+(define-public crate-wiki_loader-0.1.1 (c (n "wiki_loader") (v "0.1.1") (d (list (d (n "bzip2") (r "^0.4.4") (d #t) (k 0)) (d (n "fst") (r "^0.4.7") (f (quote ("levenshtein"))) (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "async-tokio"))) (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.13") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "1gmm6w2j5gid3j7n1jxlwd8m67h3hdnq6p3rn05nqhrn9lj138j5")))
+
+(define-public crate-wiki_loader-0.1.2 (c (n "wiki_loader") (v "0.1.2") (d (list (d (n "bzip2") (r "^0.4.4") (d #t) (k 0)) (d (n "fst") (r "^0.4.7") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize" "async-tokio"))) (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.13") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "07x4all36kfcagq8506ppnkkmyg289asj9r7w1xx136r9b2m80q9")))
+

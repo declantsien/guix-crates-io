@@ -1,0 +1,18 @@
+(define-module (crates-io su sy susy-codec) #:use-module (crates-io))
+
+(define-public crate-susy-codec-3.1.0 (c (n "susy-codec") (v "3.1.0") (d (list (d (n "arrayvec") (r "^0.4") (f (quote ("array-sizes-33-128" "array-sizes-129-255"))) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^3.1") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^3.1") (k 2)))) (h "19gqazph6pff6g4na8v21k9q32iqj0rka4cdrla0ar5yvcaj73ln") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+
+(define-public crate-susy-codec-3.2.0 (c (n "susy-codec") (v "3.2.0") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^3.1") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^3.1") (k 2)))) (h "0km1k1i1hxf8cd8yrj6afzjr7dcdzz6ba20hp0ycij1fm57srf6j") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+
+(define-public crate-susy-codec-3.4.0 (c (n "susy-codec") (v "3.4.0") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^3.3") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^3.3") (k 2)))) (h "1csqbjhvn8a4vyg4r9474fj2q5fka6flr5v0ap9rahbk09g15k6x") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+
+(define-public crate-susy-codec-3.5.0 (c (n "susy-codec") (v "3.5.0") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^3.3") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^3.3") (k 2)))) (h "1bay1zv34fj5dl98yir3bfrkbgpfgxmi8kfb145miw2yxyzl6dfr") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+
+(define-public crate-susy-codec-3.5.1 (c (n "susy-codec") (v "3.5.1") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^3.3") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^3.3") (k 2)))) (h "0kgs0raw8lmxh85bjr4ybjn8gznqklfbp2zadjglfjxda4cwbzwi") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+
+(define-public crate-susy-codec-3.1.9 (c (n "susy-codec") (v "3.1.9") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^3.1") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^3.1") (k 2)))) (h "1ygwgl4ch9b595rirmrwxa7qi7cy5iky5qcrfiphb2imx9mim3bg") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+
+(define-public crate-susy-codec-2.1.0 (c (n "susy-codec") (v "2.1.0") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0fb1wi973cjkql1yfzs2ya13wcl5vdmcskpj3lj4wv57c1brg9yc") (f (quote (("std" "serde") ("default" "std"))))))
+
+(define-public crate-susy-codec-2.2.0 (c (n "susy-codec") (v "2.2.0") (d (list (d (n "arrayvec") (r "^0.4") (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "susy-codec-derive") (r "^2.2") (o #t) (k 0)) (d (n "susy-codec-derive") (r "^2.2") (k 2)))) (h "1flb44yilvf66ghmkcjg6sph8gr9zxylqyz8sffqkwi9hivhcyr1") (f (quote (("std" "serde") ("full") ("derive" "susy-codec-derive") ("default" "std"))))))
+

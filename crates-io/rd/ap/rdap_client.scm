@@ -1,0 +1,6 @@
+(define-module (crates-io rd ap rdap_client) #:use-module (crates-io))
+
+(define-public crate-rdap_client-0.1.0 (c (n "rdap_client") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "ip_network") (r "^0.3.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ip_network_table") (r "^0.1.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1lxiz1v6bwlm4cbd4wpapqivfd3rkqrbzqf685mm6sivxs4nmv6i")))
+
+(define-public crate-rdap_client-0.2.0 (c (n "rdap_client") (v "0.2.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "ip_network") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ip_network_table") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (f (quote ("json" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0l22dwy4zvx5zj3c2d45bl1fnkbrcjsgdc0sshmchcpb24836q89")))
+

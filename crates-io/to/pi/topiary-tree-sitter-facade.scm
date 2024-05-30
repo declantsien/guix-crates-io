@@ -1,0 +1,4 @@
+(define-module (crates-io to pi topiary-tree-sitter-facade) #:use-module (crates-io))
+
+(define-public crate-topiary-tree-sitter-facade-0.4.0 (c (n "topiary-tree-sitter-facade") (v "0.4.0") (d (list (d (n "js-sys") (r "^0.3") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "topiary-web-tree-sitter-sys") (r "^0.4.0") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "tree-sitter") (r "=0.20.10") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "wasm-bindgen") (r "=0.2.91") (f (quote ("strict-macro"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 2)) (d (n "web-sys") (r "^0.3") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0g8vsy5q1pbhx8pd4p0mgii9yjk2i6m0xr2vynhbnjw4k86qfz7a")))
+

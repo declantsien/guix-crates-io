@@ -1,0 +1,6 @@
+(define-module (crates-io ma gi magic-buffer) #:use-module (crates-io))
+
+(define-public crate-magic-buffer-0.1.0 (c (n "magic-buffer") (v "0.1.0") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "mach2") (r "^0.4") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "windows-sys") (r "^0.48") (f (quote ("Win32_Foundation" "Win32_System_SystemInformation" "Win32_System_Diagnostics_Debug" "Win32_System_Memory" "Win32_Security"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0a8b6zbsnii04il7r1dhqmcfrimf769aaywdlc1x6f44jv5ywr8q")))
+
+(define-public crate-magic-buffer-0.1.1 (c (n "magic-buffer") (v "0.1.1") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "mach2") (r "^0.4") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\"))") (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "windows-sys") (r "^0.48") (f (quote ("Win32_Foundation" "Win32_System_SystemInformation" "Win32_System_Diagnostics_Debug" "Win32_System_Memory" "Win32_Security"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0bpzcrwq89cc5q8mgkmsyx39vjsqaxvaxs29qp8k04rndc7ysfh0")))
+

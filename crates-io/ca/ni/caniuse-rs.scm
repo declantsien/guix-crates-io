@@ -1,0 +1,38 @@
+(define-module (crates-io ca ni caniuse-rs) #:use-module (crates-io))
+
+(define-public crate-caniuse-rs-0.1.0 (c (n "caniuse-rs") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "1ssgsi9dkdvvcvqciji13nxmn4jfvlkh254vfsqafxp8rg68ii8c")))
+
+(define-public crate-caniuse-rs-0.1.1 (c (n "caniuse-rs") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "0kgmk64gyps3jxkjc8196vcmqc9j7pdg7dd4xdgdkr8nk70k50x8")))
+
+(define-public crate-caniuse-rs-0.1.2 (c (n "caniuse-rs") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "14l3mqzq63c957rajdkj5ww1p5b307ydq43v58crdgl5l8x916d8")))
+
+(define-public crate-caniuse-rs-0.1.3 (c (n "caniuse-rs") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "1ypsmgpdhz33skjddz959i9zjw1jxdp7a3l372xlirkhl33aijs4")))
+
+(define-public crate-caniuse-rs-0.1.4 (c (n "caniuse-rs") (v "0.1.4") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "1kzrdd15cvw8agaxr0lpaf34602agyr98vvzpw46mbc6l72w2p4f")))
+
+(define-public crate-caniuse-rs-0.1.5 (c (n "caniuse-rs") (v "0.1.5") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "14vnsd7c6bxz70xjmv5wdpn55zvvx2zwiwcnkckxzizp1mdj5dhx")))
+
+(define-public crate-caniuse-rs-0.1.6 (c (n "caniuse-rs") (v "0.1.6") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "10s356vchpqhyd124z2nfhp2d1jyf1cmnshwrx0yb1qfjcfq4xwk")))
+
+(define-public crate-caniuse-rs-0.1.7 (c (n "caniuse-rs") (v "0.1.7") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "0bzcjqkv3wxqwsj167y97xxzpckwald521fz3sag557rlxvk75a6")))
+
+(define-public crate-caniuse-rs-0.1.8 (c (n "caniuse-rs") (v "0.1.8") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "0ka2i6fk6pm0l3l9bnphc7im3975fqz9qjajqkss291ax4s6k5w2")))
+
+(define-public crate-caniuse-rs-0.1.9 (c (n "caniuse-rs") (v "0.1.9") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "09bbiw77n0bw1m5khl87z0206p1ygjzch344163bwwk16wnp4255")))
+
+(define-public crate-caniuse-rs-0.1.10 (c (n "caniuse-rs") (v "0.1.10") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "109cydzs318w4rk3fz092klsyli6rc9gpwnn40p4d9pyzkgwl2cn")))
+
+(define-public crate-caniuse-rs-0.1.11 (c (n "caniuse-rs") (v "0.1.11") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "15k8m0zjjinlflby7p66d52nysf3fias5ms57djch5wx8qb1b5a1")))
+
+(define-public crate-caniuse-rs-0.2.0 (c (n "caniuse-rs") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "09yd6qbakavz5xy5v43g1br5zc5ar7akk994slqp31qacdnb7vm5")))
+
+(define-public crate-caniuse-rs-0.2.1 (c (n "caniuse-rs") (v "0.2.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)))) (h "0mr9zz119719nf0rsz9k7x6gq81rvw28glfymb0s7czrhykkfs7v")))
+
+(define-public crate-caniuse-rs-0.3.0 (c (n "caniuse-rs") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1z8jsqa6pfxwcyf8i9nvgfgpah8m0f0yfvqxjnzb8n9vd6wj8ink")))
+
+(define-public crate-caniuse-rs-0.3.1 (c (n "caniuse-rs") (v "0.3.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0jmi99hj9pakjj2jlxs4m3n7hr6abfgafgxzsnsajh1mb3czy4g4")))
+
+(define-public crate-caniuse-rs-0.4.0 (c (n "caniuse-rs") (v "0.4.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0jn6gh13n3xn9fd3qs36iky646jiqi4j0gr73c6qb92ca02hwnw4")))
+
+(define-public crate-caniuse-rs-0.4.1 (c (n "caniuse-rs") (v "0.4.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1f64gnmdi7s31y476r5wz0al20q1wjvb65sjlwj1jj96fijjbchi")))
+

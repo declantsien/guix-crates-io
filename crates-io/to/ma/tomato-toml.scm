@@ -1,0 +1,12 @@
+(define-module (crates-io to ma tomato-toml) #:use-module (crates-io))
+
+(define-public crate-tomato-toml-0.1.0 (c (n "tomato-toml") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "1fdg9yq94q7pag8y2hkqn9igiy3ynv7g2r0l6y5xyfr8pcy1088j")))
+
+(define-public crate-tomato-toml-0.2.0 (c (n "tomato-toml") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "1r3wini8ikrzpzbgx9pgxjab5ag4gqynqi2gicr31s14ds3yh6kn")))
+
+(define-public crate-tomato-toml-0.3.0 (c (n "tomato-toml") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "toml_edit") (r "^0.14.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "0i0cw4z6nfmnm0wla65v9mwxb45kf758ghwys4a7zvf63l6n45hr")))
+
+(define-public crate-tomato-toml-0.4.0 (c (n "tomato-toml") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)) (d (n "toml_edit") (r "^0.19.8") (f (quote ("serde"))) (d #t) (k 0)))) (h "0ys1mlzmcvac5frhh6i0n5gnfcmnrswpnc8ifv9hc1q1f6srsgx6")))
+
+(define-public crate-tomato-toml-0.5.0 (c (n "tomato-toml") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)) (d (n "toml_edit") (r "^0.19.8") (f (quote ("serde"))) (d #t) (k 0)))) (h "175h9v4mz60fdq5x5n1rsi6f25anwcwmifc8g7jqal1jjlglyhqz")))
+

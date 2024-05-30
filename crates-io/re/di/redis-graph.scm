@@ -1,0 +1,20 @@
+(define-module (crates-io re di redis-graph) #:use-module (crates-io))
+
+(define-public crate-redis-graph-0.1.0 (c (n "redis-graph") (v "0.1.0") (d (list (d (n "async-std") (r ">=1.6.0, <2.0.0") (d #t) (k 2)) (d (n "futures") (r ">=0.3.5, <0.4.0") (d #t) (k 2)) (d (n "redis") (r ">=0.17.0, <0.18.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0pc6wwidf6i99xxlahfwpwdrh2kv0h9adn80njvpff80wqiw68jq")))
+
+(define-public crate-redis-graph-0.1.1 (c (n "redis-graph") (v "0.1.1") (d (list (d (n "async-std") (r ">=1.6.0, <2.0.0") (d #t) (k 2)) (d (n "futures") (r ">=0.3.5, <0.4.0") (d #t) (k 2)) (d (n "redis") (r ">=0.17.0, <0.18.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0rp6anlwiibazqjf3d0410ri2fcl0xh063kxkvwwzm6q3f3fs4ab")))
+
+(define-public crate-redis-graph-0.2.0 (c (n "redis-graph") (v "0.2.0") (d (list (d (n "async-std") (r "^1.6.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "06d2zhgfy9f3dq9clniii6ndk9knmj8iw3wvhipsay7yaqgnkdh7") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+
+(define-public crate-redis-graph-0.3.0 (c (n "redis-graph") (v "0.3.0") (d (list (d (n "async-std") (r "^1.6.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "1yhbyrmqg6gj878lg5cbqsqjkzhi5k7y9a2ywigfz5slf5rnmmwz") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+
+(define-public crate-redis-graph-0.4.0 (c (n "redis-graph") (v "0.4.0") (d (list (d (n "async-std") (r "^1.6.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.20.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "08033k1k7z12ql65rscmrvhqh1j09h2abn8j95gvk3xwqwk6iqly") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+
+(define-public crate-redis-graph-0.4.1 (c (n "redis-graph") (v "0.4.1") (d (list (d (n "async-std") (r "^1.6.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.20.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "0sjhivhnfl944wjr6dksqxvyvyy2adpskm03rwq8mfi4vf0r6skf") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+
+(define-public crate-redis-graph-0.4.2 (c (n "redis-graph") (v "0.4.2") (d (list (d (n "async-std") (r "^1.6.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.21.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "1i52rx3y5gprmqml5vcb4avz80lp9hzvi53l5n8s4zzvddz58h0c") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+
+(define-public crate-redis-graph-0.4.3 (c (n "redis-graph") (v "0.4.3") (d (list (d (n "async-std") (r "^1.8.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.22.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "192v93z3499201568cspvqbnqv3kfrgp187zdfpqy5clsmr4cbqh") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+
+(define-public crate-redis-graph-0.4.4 (c (n "redis-graph") (v "0.4.4") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("tokio1"))) (d #t) (k 2)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "redis") (r "^0.23.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (k 2)))) (h "03h58nzbi79hk2yfm73dibcz87p99lfq6x9a4r5l19kfd6vw145f") (f (quote (("tokio-comp" "redis/tokio-comp") ("default" "redis") ("async-std-comp" "redis/async-std-comp"))))))
+

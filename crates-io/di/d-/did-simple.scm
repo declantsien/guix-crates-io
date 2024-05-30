@@ -1,0 +1,10 @@
+(define-module (crates-io di d- did-simple) #:use-module (crates-io))
+
+(define-public crate-did-simple-0.0.0 (c (n "did-simple") (v "0.0.0") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "02p426nkfib7vpclxf9g3kyhmci2f53fv057h4y6f49qgw0pqicv") (r "1.76")))
+
+(define-public crate-did-simple-0.0.1-beta.0 (c (n "did-simple") (v "0.0.1-beta.0") (d (list (d (n "bs58") (r "^0.5.1") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "itertools") (r "^0.13.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1riznhggiz5lfilsj3jzp110gzk39nj5jxj18r2b17s1nvqb50v4") (f (quote (("default") ("allow-unsafe")))) (r "1.78.0")))
+
+(define-public crate-did-simple-0.0.1 (c (n "did-simple") (v "0.0.1") (d (list (d (n "bs58") (r "^0.5.1") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "itertools") (r "^0.13.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1zhhv7glpc0ml7x7a70k8yrlby8jvvsnbj94i34dwfb2m3krv2jx") (f (quote (("default") ("allow-unsafe")))) (r "1.78.0")))
+
+(define-public crate-did-simple-0.0.2 (c (n "did-simple") (v "0.0.2") (d (list (d (n "bs58") (r "^0.5.1") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "curve25519-dalek") (r "^4.1.2") (o #t) (d #t) (k 0)) (d (n "ed25519-dalek") (r "^2.1.1") (f (quote ("digest"))) (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "itertools") (r "^0.13.0") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1faxvzik0dbijzyz7q3sh5il9133hqi2k2qinv9c11rm42l0sxy8") (f (quote (("default" "ed25519" "random") ("allow-unsafe")))) (s 2) (e (quote (("random" "dep:rand_core" "ed25519-dalek?/rand_core") ("ed25519" "dep:curve25519-dalek" "dep:ed25519-dalek")))) (r "1.78.0")))
+

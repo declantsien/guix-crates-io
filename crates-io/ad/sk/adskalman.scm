@@ -1,0 +1,40 @@
+(define-module (crates-io ad sk adskalman) #:use-module (crates-io))
+
+(define-public crate-adskalman-0.1.0 (c (n "adskalman") (v "0.1.0") (d (list (d (n "approx") (r "^0.3") (k 0)) (d (n "itertools") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.21") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1is6sql3qlw2xs6azw42mx1d91pvzdlkhxhmjsq9mdqc24wm8agy") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.2.0 (c (n "adskalman") (v "0.2.0") (d (list (d (n "approx") (r "^0.3") (k 0)) (d (n "itertools") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.21") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "18g5yabx7vpyd17b9fdf7xk5nln9g56zk0r7mb3irhz7xqhqlx26") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.3.0 (c (n "adskalman") (v "0.3.0") (d (list (d (n "approx") (r "^0.3") (k 0)) (d (n "itertools") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.22") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "06yrvml7nz0dczjlybq3lm2ygz8mxp533vmyj22qv59rg2iiafv9") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.4.0 (c (n "adskalman") (v "0.4.0") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "itertools") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.23") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1wm4dyxgvi6jzi79fjjdzhqbr99a1b80l636avrnsynsgn4hza6v") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.4.1 (c (n "adskalman") (v "0.4.1") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "itertools") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.23") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "18sp4xpihlfb088ka8i5f8brsaj8yay22wh5mrjbpij75amrc1xz") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.4.2 (c (n "adskalman") (v "0.4.2") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.23") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "0czjarmnm7xpa9lg4v0jgqzfky06gwc9vm59mz972bklaxmyqdx2") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.5.0 (c (n "adskalman") (v "0.5.0") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.24") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "0adw7anhxfmblw1fv021d7lgaimb8h7f2j28zlr2z5ra7dxksz5l") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.6.0 (c (n "adskalman") (v "0.6.0") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.25") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1848lvi498i5s2751kbfj6srrj12slyp2r7akn8ka0bnnmvjmp1c") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.7.0 (c (n "adskalman") (v "0.7.0") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.26") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1zm6i79zm67pmnsr0ihr3w4rxzxhggdhakpcmlqwv98sl4mh4d0z") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.8.0 (c (n "adskalman") (v "0.8.0") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.26") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1bqyl7jc02rh7b4z27wdczhsvfiq7909hgjjlvg87zqv0zsxpcpr") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.9.0 (c (n "adskalman") (v "0.9.0") (d (list (d (n "approx") (r "^0.4") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.26") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "16nz0kkpy5q8dxqlk7p9xwz38x8x0qi96nx08dmr467yvd87j3x7") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.10.0 (c (n "adskalman") (v "0.10.0") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.27") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "0n1khm8dqn0j3fnam94kca5m3grlv37z3ym7yzzv77732qiy01zc") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.11.0 (c (n "adskalman") (v "0.11.0") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.28") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "0zrvkrv5sjglk861f2vv0sb8jqpc99wd02s3wcnn99v8xljvngd8") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.12.0 (c (n "adskalman") (v "0.12.0") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "16la5xv7zrqyhkbd80142i0vsbznyvxs9dfzq6l5sjxhv1rxllp7") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.12.1 (c (n "adskalman") (v "0.12.1") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "1myjgjw5pcrl5ah8n60vhdkm7avimz5bqiczv39qxfhkwa9cvhgp") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.13.0 (c (n "adskalman") (v "0.13.0") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.30") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "1gdzchzg9ynl2ckpl8vg5kz1ij63hj3d63g7f9q98x6m890irn1l") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.14.0 (c (n "adskalman") (v "0.14.0") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "1z72sb7s915nk0kqfw3276rz2agkxampvisb3jylyk5f96spcdkv") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.15.0 (c (n "adskalman") (v "0.15.0") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "1by12c727yb1br264mjy6jg1klprjhnsn28n5dxa7wqfks8m9c1g") (f (quote (("std" "log") ("default" "std"))))))
+
+(define-public crate-adskalman-0.15.1 (c (n "adskalman") (v "0.15.1") (d (list (d (n "approx") (r "^0.5") (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("libm"))) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "0wf7smsrdjjwy5ki9q19nkwnc52lns0f89cmwnwbdnwkk0nzs4q6") (f (quote (("std" "log") ("default" "std"))))))
+

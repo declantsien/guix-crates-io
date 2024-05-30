@@ -1,0 +1,8 @@
+(define-module (crates-io hm -r hm-remote) #:use-module (crates-io))
+
+(define-public crate-hm-remote-0.1.0 (c (n "hm-remote") (v "0.1.0") (d (list (d (n "btleplug") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros" "sync"))) (d #t) (k 0)))) (h "1rlnzgxhllhr3kzj7avgillg0qw84r8lyxxf2wsdxxlyk9c40bqf")))
+
+(define-public crate-hm-remote-0.1.1 (c (n "hm-remote") (v "0.1.1") (d (list (d (n "btleplug") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros" "sync"))) (d #t) (k 0)))) (h "0smzk4zrwijm9wmiaaxw53591fs3qxf8l9wdfjc6vj752169i8dk")))
+
+(define-public crate-hm-remote-0.1.2 (c (n "hm-remote") (v "0.1.2") (d (list (d (n "btleplug") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "crossterm") (r "^0.18") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros" "sync"))) (d #t) (k 0)))) (h "1xnw8jdy089alk71hs9dzn7iigkvhb7ksk8z4xp23iv4qw43xbrh")))
+

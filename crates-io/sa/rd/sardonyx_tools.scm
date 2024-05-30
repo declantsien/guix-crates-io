@@ -1,0 +1,4 @@
+(define-module (crates-io sa rd sardonyx_tools) #:use-module (crates-io))
+
+(define-public crate-sardonyx_tools-0.0.1 (c (n "sardonyx_tools") (v "0.0.1") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "env_proxy") (r "^0.3.1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "liquid") (r "^0.18.2") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.18") (f (quote ("rustls-tls"))) (k 0)) (d (n "ron") (r "^0.5.1") (d #t) (k 1)) (d (n "semver") (r "^0.9.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.8") (d #t) (k 1)))) (h "1cp36gbd7rkgv1sjznnmin5vr7jm8v3mbrvrkzpmfppih24v3qnj") (y #t)))
+

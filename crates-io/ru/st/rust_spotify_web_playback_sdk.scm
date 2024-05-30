@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rust_spotify_web_playback_sdk) #:use-module (crates-io))
+
+(define-public crate-rust_spotify_web_playback_sdk-0.1.0 (c (n "rust_spotify_web_playback_sdk") (v "0.1.0") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "nestify") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.6") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "02c9dqyjl8yhxfh7qfgmjrqiwlxmgjgachb8vxbfpq8mq2zwhl3k") (y #t)))
+
+(define-public crate-rust_spotify_web_playback_sdk-0.1.1 (c (n "rust_spotify_web_playback_sdk") (v "0.1.1") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "nestify") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.6") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "1n0dmnkaya70hv5x5vfiggxs5kmk7cq67r25cajwhda3nn71qgd8") (y #t)))
+
+(define-public crate-rust_spotify_web_playback_sdk-0.1.2 (c (n "rust_spotify_web_playback_sdk") (v "0.1.2") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "nestify") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.6") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "0ild8222v1c1mxxpdl033bjhrw2x12320w6qbw5zq45ddhy3xlph")))
+
+(define-public crate-rust_spotify_web_playback_sdk-0.1.3 (c (n "rust_spotify_web_playback_sdk") (v "0.1.3") (d (list (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "nestify") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.6") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "0dx5r0kcair0lnvcg0xn4iwjpzbcpk6lzfnyx834kgampx6c1bgs")))
+

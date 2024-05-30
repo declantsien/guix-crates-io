@@ -1,0 +1,8 @@
+(define-module (crates-io dr me drmem-drv-sump) #:use-module (crates-io))
+
+(define-public crate-drmem-drv-sump-0.1.0 (c (n "drmem-drv-sump") (v "0.1.0") (d (list (d (n "drmem-api") (r "^0.1") (d #t) (k 0)) (d (n "drmem-config") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "net" "io-util"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "1vqd73471a45ny2r6ny3bwmkqphkkpyg22jnja54x1ykrk8znljk")))
+
+(define-public crate-drmem-drv-sump-0.2.0 (c (n "drmem-drv-sump") (v "0.2.0") (d (list (d (n "drmem-api") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "time" "sync" "net" "io-util"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "159mh27yhqsmi1scdh1brxgkyjqivzjii1nhi4lxpjfhwwmjraa1")))
+
+(define-public crate-drmem-drv-sump-0.3.0 (c (n "drmem-drv-sump") (v "0.3.0") (d (list (d (n "drmem-api") (r "^0.3") (d #t) (k 0)) (d (n "socket2") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "macros" "time" "sync" "io-util" "net" "io-util"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "0sh94mc2ny1r1z83wvnrb2inlb9v6bbmi9k387va9kxlax69i0xh")))
+

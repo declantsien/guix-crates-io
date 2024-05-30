@@ -1,0 +1,16 @@
+(define-module (crates-io tr ie trie-rs) #:use-module (crates-io))
+
+(define-public crate-trie-rs-0.1.0 (c (n "trie-rs") (v "0.1.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "14b3x8bp4nyyjk5yrq2lxnc2iii91554kywhgsngsa05bvwa4iwc")))
+
+(define-public crate-trie-rs-0.1.1 (c (n "trie-rs") (v "0.1.1") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "1h1837si62dcs875smws9sl8sn3z3i06x84kfpssyrlmshcw15jh")))
+
+(define-public crate-trie-rs-0.2.0 (c (n "trie-rs") (v "0.2.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "1drzypbh7q8a2pd2wmjqzm0h5qwx5c2577w15wid2hmfqwk8z03n")))
+
+(define-public crate-trie-rs-0.3.0 (c (n "trie-rs") (v "0.3.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "0amw3h1ahwc08gijpw2f0rhbz664dyryj6h6mrvyxh3grxl2izl0")))
+
+(define-public crate-trie-rs-0.4.0 (c (n "trie-rs") (v "0.4.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.7") (d #t) (k 0)) (d (n "mem_dbg") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "10jg16dbsa5vgw28mlxhmbza5bvl84619dq9drwysxd9y33cyris") (f (quote (("rayon" "louds-rs/rayon")))) (s 2) (e (quote (("serde" "louds-rs/serde" "dep:serde") ("mem_dbg" "louds-rs/mem_dbg" "dep:mem_dbg"))))))
+
+(define-public crate-trie-rs-0.4.1 (c (n "trie-rs") (v "0.4.1") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.7") (d #t) (k 0)) (d (n "mem_dbg") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "0hc95d0gv2g8nxdnldzh5vi83b1mpwh7gqhmiaj96saij1j8jnsm") (f (quote (("rayon" "louds-rs/rayon")))) (y #t) (s 2) (e (quote (("serde" "louds-rs/serde" "dep:serde") ("mem_dbg" "louds-rs/mem_dbg" "dep:mem_dbg"))))))
+
+(define-public crate-trie-rs-0.4.2 (c (n "trie-rs") (v "0.4.2") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3") (d #t) (k 2)) (d (n "louds-rs") (r "^0.7") (d #t) (k 0)) (d (n "mem_dbg") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "1xp6nmjblqm1gjdq926xr8n3g2c01vmlagmy2qynrg8y195qzy7n") (f (quote (("rayon" "louds-rs/rayon")))) (s 2) (e (quote (("serde" "louds-rs/serde" "dep:serde") ("mem_dbg" "louds-rs/mem_dbg" "dep:mem_dbg"))))))
+

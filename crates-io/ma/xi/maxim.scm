@@ -1,0 +1,4 @@
+(define-module (crates-io ma xi maxim) #:use-module (crates-io))
+
+(define-public crate-maxim-0.1.0-alpha.0 (c (n "maxim") (v "0.1.0-alpha.0") (d (list (d (n "bincode") (r "^1.1.4") (d #t) (k 0)) (d (n "dashmap") (r "^1.0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rand_xoshiro") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "secc") (r "^0.0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.97") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 2)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1z2mnv729z61xn1lc6kiz7jp4rfjw82cljr7ikxpij2s39jqxnrz") (f (quote (("default" "actor-pool") ("actor-pool" "rand" "rand_xoshiro"))))))
+

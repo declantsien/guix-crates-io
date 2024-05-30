@@ -1,0 +1,20 @@
+(define-module (crates-io ch as chase) #:use-module (crates-io))
+
+(define-public crate-chase-0.1.0 (c (n "chase") (v "0.1.0") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1lw7fx7p98n5y66lqsq12s8kvac78m3mpxaysb2z9s8g2lgiskrz") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.1 (c (n "chase") (v "0.1.1") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "069hg8j9jy155cld5ddssn0hm936mqcq8cwvmdvj5l78h8dvqh9b") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.2 (c (n "chase") (v "0.1.2") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1hi9qlz9dp9d378jqkc0qlck75652klhi8bxnnvzxn1097c39c4l") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.3 (c (n "chase") (v "0.1.3") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0q8w72427n3v27jzgvqa2ggn24ypb8pw7k46gd1ia7yhmdl5gb0a") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.4 (c (n "chase") (v "0.1.4") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "0w92c747mfl5yj98xab5k6yhl1900vk2vr5y4kqbjb1yrfzkqpkk") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.5 (c (n "chase") (v "0.1.5") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "011w8skg01p2l482anyak7c305c5bqpnc4bj8b9lxxi4w1ip9wgi") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.6 (c (n "chase") (v "0.1.6") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "00lsf4bkicbi3p0yr1d07djs5cmjng3iqnkgxhaw787zck7vh96v") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.7 (c (n "chase") (v "0.1.7") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "0rvbc03vvkdqwr6vmaz04a52l1kdlc25wdmms5pkqh4cmiwm4pcc") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+
+(define-public crate-chase-0.1.8 (c (n "chase") (v "0.1.8") (d (list (d (n "clap") (r "^2.30") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "11298z06g9j7zngf83wvzg8fhgi097b2z9m6wx11l4dldzzpa68k") (f (quote (("with-serde" "serde" "serde_derive") ("stream" "futures") ("binary" "clap"))))))
+

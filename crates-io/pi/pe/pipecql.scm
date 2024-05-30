@@ -1,0 +1,20 @@
+(define-module (crates-io pi pe pipecql) #:use-module (crates-io))
+
+(define-public crate-pipecql-0.1.0 (c (n "pipecql") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.0") (d #t) (k 0)) (d (n "scylla") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0r9gjis0vr8azdjz5v3jkb4z9038lnnfgkkbpkzbky5vqdwsmcym")))
+
+(define-public crate-pipecql-0.1.1 (c (n "pipecql") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.1") (d #t) (k 0)) (d (n "scylla") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0j38c16ksswq8ycvsnrhc2rk1m5ks2cwx2rbqwic9xkrr8s2imf7")))
+
+(define-public crate-pipecql-0.1.2 (c (n "pipecql") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.2") (d #t) (k 0)) (d (n "scylla") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "02wy06hnd55ia1qz0zmgipx16msh56h5w40yxfwxnq5k2ys67fi5")))
+
+(define-public crate-pipecql-0.1.3 (c (n "pipecql") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.2") (d #t) (k 0)) (d (n "scylla") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0in00nd6ywgrlkpvxadr1d4k5kk238509z7w8panzjxcqd5xph0s")))
+
+(define-public crate-pipecql-0.1.4 (c (n "pipecql") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.5") (d #t) (k 0)) (d (n "scylla") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "11fsn3s8w29mfwa3mn3yfm88ih8dwh1sdx5vxvpjj6wyxjj455j6")))
+
+(define-public crate-pipecql-0.1.5 (c (n "pipecql") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.6") (d #t) (k 0)) (d (n "scylla") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0zfmj8n88p99xzyxv0pv3fy1aqwiyfz00na2ribym5729skgawxj")))
+
+(define-public crate-pipecql-0.2.0 (c (n "pipecql") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.6") (d #t) (k 0)) (d (n "scylla") (r "^0.2.1") (f (quote ("ssl"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0vc346vp4fwccry8p1a09566aqrwk7q28xw04l5nh7x5pxk4rl7r")))
+
+(define-public crate-pipecql-0.2.1 (c (n "pipecql") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.9") (d #t) (k 0)) (d (n "scylla") (r "^0.2.1") (f (quote ("ssl"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1icpp4n29xhhn4xdvmxpv18bikx45barp6f6scrchb8ba2lq1h42")))
+
+(define-public crate-pipecql-0.2.2 (c (n "pipecql") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "pipebase") (r "^0.2.0") (d #t) (k 0)) (d (n "scylla") (r "^0.2.1") (f (quote ("ssl"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1vjp8772x6avsykhnadb2n0pjsclgwrbjhq8lm6vpzygx3nrjd0b")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io fl at flatboat) #:use-module (crates-io))
+
+(define-public crate-flatboat-0.1.0 (c (n "flatboat") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "0avgkb6hz678prxj8w2rxkfca92yw5v09wg5yvihrkrs6f1cr0kv")))
+
+(define-public crate-flatboat-0.1.1 (c (n "flatboat") (v "0.1.1") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "0y9wf6k86jg6r8qm6p3pfzn2r63p3kl6psmbiswzn0kkbd3p7qld")))
+
+(define-public crate-flatboat-0.2.0 (c (n "flatboat") (v "0.2.0") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "1svrxhrfjyf4f440y8166vx8zxfyg3qczb2mxcqk204sapzxx2lr")))
+
+(define-public crate-flatboat-0.2.1 (c (n "flatboat") (v "0.2.1") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.1") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "1xmni329v9wc8hvzkgj9gdqkg2pbpv7xj4xd6kacqhmxgf64rvkz")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ac to actori-server) #:use-module (crates-io))
+
+(define-public crate-actori-server-1.0.1 (c (n "actori-server") (v "1.0.1") (d (list (d (n "actori-codec") (r "^0.2.0") (d #t) (k 0)) (d (n "actori-rt") (r "^1.0.0") (d #t) (k 0)) (d (n "actori-service") (r "^1.0.5") (d #t) (k 0)) (d (n "actori-utils") (r "^1.0.6") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6.7") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)))) (h "0sp1yr1j3nw41kh7pv9kk15v69xk7qq05jk36r6blmvnfjljm8k4") (f (quote (("default"))))))
+

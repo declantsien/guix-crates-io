@@ -1,0 +1,6 @@
+(define-module (crates-io ti na tina) #:use-module (crates-io))
+
+(define-public crate-tina-0.0.1 (c (n "tina") (v "0.0.1") (d (list (d (n "tina-core") (r "=0.0.1") (d #t) (k 0)) (d (n "tina-macro") (r "=0.0.1") (d #t) (k 0)))) (h "1g74x6mcfizwszk1qp4rf55xsc488w11p2vs5c08x752is7978yk")))
+
+(define-public crate-tina-0.0.2 (c (n "tina") (v "0.0.2") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "prost") (r "^0.11.9") (d #t) (k 2)) (d (n "tina-core") (r "=0.0.2") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tonic") (r "^0.9.2") (f (quote ("channel"))) (d #t) (k 2)))) (h "16yhkr150qwrfbq48v8c2vgq6nra9f9pm8jpkavpr8rd8q1varnl") (f (quote (("server-tonic" "tina-core/server-tonic") ("server-ntex" "tina-core/server-ntex") ("server-axum" "tina-core/server-axum") ("server-actix-web" "tina-core/server-actix-web") ("default" "client-nacos" "client-tonic" "server-axum" "server-tonic" "database-mongodb" "database-mysql" "database-redis") ("database-redis" "tina-core/database-redis") ("database-mysql" "tina-core/database-mysql") ("database-mongodb" "tina-core/database-mongodb") ("client-tonic" "tina-core/client-tonic") ("client-nacos" "tina-core/client-nacos"))))))
+

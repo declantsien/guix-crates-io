@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# t tag) #:use-module (crates-io))
+
+(define-public crate-tag-0.1.0 (c (n "tag") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.7.6") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.6") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "115rbkm934m3cd730lrzi17bgrapnc5bfwbwv9iz8l8563pp8z17")))
+
+(define-public crate-tag-0.2.0 (c (n "tag") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.7.6") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.6") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0acx5mc4parlx8z08b3j1ygqpixm0ary8656g0qh6hgyy2266jwz")))
+
+(define-public crate-tag-0.3.0 (c (n "tag") (v "0.3.0") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.7.6") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.6") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "1hfryl1qm8s4jjs0kccnx558n9b1cnkxslbb2fdmyscz1nkmkgaw")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io is pc ispc-downsampler) #:use-module (crates-io))
+
+(define-public crate-ispc-downsampler-0.1.0 (c (n "ispc-downsampler") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^1.0.4") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^1.0.7") (d #t) (k 0)) (d (n "ispc_rt") (r "^1.0.7") (d #t) (k 1)) (d (n "resize") (r "^0.7") (d #t) (k 2)) (d (n "stb_image") (r "^0.2.4") (d #t) (k 2)))) (h "19dvd996fffk4qrbwn7xrgblkhg51zf0ys4myfs4wx5czw5vz6wk") (f (quote (("ispc" "ispc_compile"))))))
+
+(define-public crate-ispc-downsampler-0.1.1 (c (n "ispc-downsampler") (v "0.1.1") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)) (d (n "resize") (r "^0.7") (d #t) (k 2)) (d (n "stb_image") (r "^0.2.4") (d #t) (k 2)))) (h "06avk0b3ysx6vz6waar3zd2q0989f9jjw43arvvm327c0kf44njr") (f (quote (("ispc" "ispc_compile"))))))
+
+(define-public crate-ispc-downsampler-0.2.0 (c (n "ispc-downsampler") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2.0.1") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)) (d (n "resize") (r "^0.7") (d #t) (k 2)) (d (n "stb_image") (r "^0.3.0") (d #t) (k 2)))) (h "1fhsj0vsvnm6837cgyy5ycms3l4cspg5n06nlz078bhza5gd3jpy") (f (quote (("ispc" "ispc_compile"))))))
+
+(define-public crate-ispc-downsampler-0.3.0 (c (n "ispc-downsampler") (v "0.3.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2.0.1") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)) (d (n "resize") (r "^0.8") (d #t) (k 2)) (d (n "stb_image") (r "^0.3.0") (d #t) (k 2)))) (h "1fpc4l4cgy374bx74qfhnd2hi0j32kpzdk9x7p1z3z4haq5m9bfh") (f (quote (("ispc" "ispc_compile"))))))
+

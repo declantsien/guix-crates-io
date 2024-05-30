@@ -1,0 +1,8 @@
+(define-module (crates-io di ff diff-tool) #:use-module (crates-io))
+
+(define-public crate-diff-tool-0.1.0 (c (n "diff-tool") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ratatui") (r "^0.23.0") (d #t) (k 0)))) (h "1l3483is6g7qihinm4804p1dhcbm9b7l5208qmgy80hbs66g59xc")))
+
+(define-public crate-diff-tool-0.2.0 (c (n "diff-tool") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.14.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "1v08jqwjpjfygibq9wmi07rqhsln7ccyxvzxic1yq9hwwh20yb4z")))
+
+(define-public crate-diff-tool-0.2.1 (c (n "diff-tool") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "config") (r "^0.14.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "14a144wysdajd7vv9r4cv7hy3ga2yxzb2qynmgz3r260hxbssm5i")))
+

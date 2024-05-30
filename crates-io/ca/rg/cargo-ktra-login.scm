@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-ktra-login) #:use-module (crates-io))
+
+(define-public crate-cargo-ktra-login-0.1.0 (c (n "cargo-ktra-login") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-cargo") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1is4iawwp32nanmzrp1p20fxk2c9vy9248d85g6z99v3k285milz")))
+
+(define-public crate-cargo-ktra-login-0.1.1 (c (n "cargo-ktra-login") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.65") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-cargo") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1ngkawn4m1m4a8x3sfzihn2mrxy6gp32mirbihdhfz3ai6yi3yfc")))
+
+(define-public crate-cargo-ktra-login-0.1.2 (c (n "cargo-ktra-login") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.67") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-cargo") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1czizdck10g0q15abbmy0p7x5vihx08lxmj955lkp3zf37m4xcq8")))
+
+(define-public crate-cargo-ktra-login-0.1.3 (c (n "cargo-ktra-login") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo") (r "^0.67") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-cargo") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "12sccpsjy3fva67iihvqhwi3a6nza2ynlgxrvmgml2s5pqs5d0cf") (r "1.68.2")))
+

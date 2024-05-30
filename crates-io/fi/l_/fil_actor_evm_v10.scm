@@ -1,0 +1,6 @@
+(define-module (crates-io fi l_ fil_actor_evm_v10) #:use-module (crates-io))
+
+(define-public crate-fil_actor_evm_v10-1.0.0 (c (n "fil_actor_evm_v10") (v "1.0.0") (d (list (d (n "cid") (r "^0.8") (f (quote ("std"))) (k 0)) (d (n "fil_actor_evm_shared_v10") (r "^1.0.0") (d #t) (k 0)) (d (n "frc42_dispatch") (r "^3.0.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3") (k 0) (p "fvm_shared")) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0q098h7zsfbjv9986306yajkm34fkf227v9mrmizp61vmp17s6rq")))
+
+(define-public crate-fil_actor_evm_v10-2.0.0 (c (n "fil_actor_evm_v10") (v "2.0.0") (d (list (d (n "cid") (r "^0.8") (f (quote ("std"))) (k 0)) (d (n "fil_actor_evm_shared_v10") (r "^2.0.0") (d #t) (k 0)) (d (n "frc42_dispatch") (r "^3.0.0") (d #t) (k 0)) (d (n "fvm_ipld_encoding") (r "^0.3") (d #t) (k 0)) (d (n "fvm_shared3") (r "^3.2") (k 0) (p "fvm_shared")) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0r8q902k00iqnbyi501q6msj5hih976r9byvsp49klvfy4sdy12b")))
+

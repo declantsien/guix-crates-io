@@ -1,0 +1,6 @@
+(define-module (crates-io te mp template-matching) #:use-module (crates-io))
+
+(define-public crate-template-matching-0.1.0 (c (n "template-matching") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-intrusive") (r "^0.5") (d #t) (k 0)) (d (n "image") (r "^0.24") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 2)) (d (n "imageproc") (r "^0.23") (d #t) (k 2)) (d (n "pollster") (r "^0.3") (d #t) (k 0)) (d (n "wgpu") (r "^0.16") (d #t) (k 0)))) (h "0baf73iq4dav9lb3a80w3972gvld1008cqpaj8qcqq22fnbpnck0") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image"))))))
+
+(define-public crate-template-matching-0.2.0 (c (n "template-matching") (v "0.2.0") (d (list (d (n "bytemuck") (r "^1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-intrusive") (r "^0.5") (d #t) (k 0)) (d (n "image") (r "^0.24") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 2)) (d (n "imageproc") (r "^0.23") (d #t) (k 2)) (d (n "pollster") (r "^0.3") (d #t) (k 0)) (d (n "wgpu") (r "^0.16") (d #t) (k 0)))) (h "094pawfqmj8yvymnqxd0qxsjwjn6f0v5csblqrjm45cb9l70pxvv") (f (quote (("default" "image")))) (s 2) (e (quote (("image" "dep:image"))))))
+

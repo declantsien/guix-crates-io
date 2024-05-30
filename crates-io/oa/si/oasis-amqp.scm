@@ -1,0 +1,8 @@
+(define-module (crates-io oa si oasis-amqp) #:use-module (crates-io))
+
+(define-public crate-oasis-amqp-0.1.0 (c (n "oasis-amqp") (v "0.1.0") (d (list (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "err-derive") (r "^0.2") (d #t) (k 0)) (d (n "oasis-amqp-macros") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "tokio-util") (r "^0.3") (f (quote ("codec"))) (d #t) (k 0)))) (h "01n5l66i8y5v7i84x05cllh72ff3mscxsllai0lfcfnynybpa8bq")))
+
+(define-public crate-oasis-amqp-0.2.0 (c (n "oasis-amqp") (v "0.2.0") (d (list (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "err-derive") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "oasis-amqp-macros") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("dns" "tcp"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.3") (f (quote ("codec"))) (d #t) (k 0)))) (h "05lmwb4vpzafqsxkc8cpnxa41mbjglb0d2lhd1iwxbh5jx3wqi1y")))
+
+(define-public crate-oasis-amqp-0.3.0 (c (n "oasis-amqp") (v "0.3.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "oasis-amqp-macros") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (d #t) (k 0)))) (h "1bwkyp3r5dr6qn738ajxwshw4jc0dwn8glsvqcyv8hlcjak6y2wa")))
+

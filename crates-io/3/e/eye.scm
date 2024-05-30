@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# e eye) #:use-module (crates-io))
+
+(define-public crate-eye-0.1.0 (c (n "eye") (v "0.1.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "ffimage") (r "^0.4") (d #t) (k 0)) (d (n "v4l") (r "^0.5") (o #t) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1w3f8jrr2y3cqf5jh89wpmmk0nk05hgf6k5dqdl1ag43icdblsc6") (f (quote (("default" "v4l"))))))
+
+(define-public crate-eye-0.2.0 (c (n "eye") (v "0.2.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "ffimage") (r "^0.7") (d #t) (k 0)) (d (n "jpeg-decoder") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "v4l") (r "^0.7") (o #t) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1cy7vm5wnvp6z8xy8bji5blni4101llsm65k4ji3iys20wlhp0wl") (f (quote (("jpeg" "jpeg-decoder") ("default" "jpeg" "v4l"))))))
+
+(define-public crate-eye-0.3.0 (c (n "eye") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "ffimage") (r "^0.8.2") (d #t) (k 0)) (d (n "jpeg-decoder") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "openpnp_capture") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "v4l") (r "^0.10") (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "14fwjz1sixnjsak1psxwr7c673l5r82bzwhbj5fp6q02ikvhil2w") (f (quote (("jpeg" "jpeg-decoder") ("hal-openpnp" "openpnp_capture") ("default" "jpeg"))))))
+
+(define-public crate-eye-0.3.1 (c (n "eye") (v "0.3.1") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "ffimage") (r "^0.8.2") (d #t) (k 0)) (d (n "jpeg-decoder") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "openpnp_capture") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "v4l") (r "^0.10") (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "0y54333hx23p20s8knarynj4j3vdbp1j59vl6s6sagyzhcpwicby") (f (quote (("jpeg" "jpeg-decoder") ("hal-openpnp" "openpnp_capture") ("default" "jpeg"))))))
+
+(define-public crate-eye-0.4.0 (c (n "eye") (v "0.4.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "ffimage") (r "^0.9.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 2)) (d (n "jpeg-decoder") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "uvc") (r "^0.2") (f (quote ("vendor"))) (o #t) (d #t) (k 0)) (d (n "v4l") (r "^0.12") (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "12zld42yxva0w9yjhzycmaq0k9mba8a6n29kbh7i98dw46rk3hs0") (f (quote (("jpeg" "jpeg-decoder") ("hal-uvc" "uvc") ("default" "jpeg"))))))
+
+(define-public crate-eye-0.4.1 (c (n "eye") (v "0.4.1") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "ffimage") (r "^0.9.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 2)) (d (n "jpeg-decoder") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "uvc") (r "^0.2") (f (quote ("vendor"))) (o #t) (d #t) (k 0)) (d (n "v4l") (r "^0.12") (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1k0hpa7dvalk11fl0wpckdd302dalvq6g8h99mwplxa5f7jdkznb") (f (quote (("jpeg" "jpeg-decoder") ("hal-uvc" "uvc") ("default" "jpeg"))))))
+
+(define-public crate-eye-0.5.0 (c (n "eye") (v "0.5.0") (d (list (d (n "eye-hal") (r "^0.2.0") (d #t) (k 0)) (d (n "ffimage") (r "^0.10.0") (d #t) (k 0)) (d (n "ffimage_yuv") (r "^0.10.0") (d #t) (k 0)) (d (n "glium") (r "^0.31.0") (d #t) (k 2)) (d (n "jpeg-decoder") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "05mridnnks4lbdrmx3dy6fjj7fhzmvfxwvnidkqsdhqfc9jbd9m5") (f (quote (("jpeg" "jpeg-decoder") ("default" "jpeg"))))))
+

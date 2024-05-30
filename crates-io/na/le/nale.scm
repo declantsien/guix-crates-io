@@ -1,0 +1,8 @@
+(define-module (crates-io na le nale) #:use-module (crates-io))
+
+(define-public crate-nale-0.1.0 (c (n "nale") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "seq_io") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1xq0bcl9bmr5aqgqb54fawbq1pnd3z46w6gd00j72c6vinxg8nzx")))
+
+(define-public crate-nale-0.1.1 (c (n "nale") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "seq_io") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0xrzk0x35d7kdi9y0qkwhgjs9s94jps13x8ldi6wfhc32r8nn4hq")))
+
+(define-public crate-nale-0.1.2 (c (n "nale") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "seq_io") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "12qs2lnxsq3pcili3a7pz9ywh2hd9rzn4pjg4hm6rkx4j0abdj0k")))
+

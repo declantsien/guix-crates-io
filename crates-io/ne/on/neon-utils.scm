@@ -1,0 +1,6 @@
+(define-module (crates-io ne on neon-utils) #:use-module (crates-io))
+
+(define-public crate-neon-utils-1.0.0 (c (n "neon-utils") (v "1.0.0") (d (list (d (n "atomic-take") (r "^1.0") (d #t) (k 0)) (d (n "faster-hex") (r "^0.5") (d #t) (k 0)) (d (n "firestorm") (r "^0.4.5") (d #t) (k 0)) (d (n "neon") (r "^0.8") (d #t) (k 0)) (d (n "neon-build") (r "^0.8.0") (d #t) (k 1)) (d (n "never") (r "^0.1.0") (d #t) (k 0)) (d (n "primitive-types") (r "^0.8") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.20") (f (quote ("recovery"))) (d #t) (k 0)))) (h "1c42cwqskd3l9fm2vx6cdd3bnxsb5dfifiszwqn4kr6q88mziczg")))
+
+(define-public crate-neon-utils-1.1.0 (c (n "neon-utils") (v "1.1.0") (d (list (d (n "atomic-take") (r "^1.0") (d #t) (k 0)) (d (n "faster-hex") (r "^0.5") (d #t) (k 0)) (d (n "firestorm") (r "^0.4.5") (d #t) (k 0)) (d (n "neon") (r "^0.8") (d #t) (k 0)) (d (n "neon-build") (r "^0.8.0") (d #t) (k 1)) (d (n "never") (r "^0.1.0") (d #t) (k 0)) (d (n "primitive-types") (r "^0.8") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.20") (f (quote ("recovery"))) (d #t) (k 0)))) (h "1wfsaqp42zsfpzybj2sqg86m8fvw43h52lr6nhaa8vjwa7p1w5an")))
+

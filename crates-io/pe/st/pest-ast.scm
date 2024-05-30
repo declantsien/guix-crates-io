@@ -1,0 +1,12 @@
+(define-module (crates-io pe st pest-ast) #:use-module (crates-io))
+
+(define-public crate-pest-ast-0.3.0 (c (n "pest-ast") (v "0.3.0") (d (list (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 2)) (d (n "pest_derive") (r "^2.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "single") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "10i4w7kcj4wqyz63ihic9pfm0rci0qvlakr1mcb7czxvpc2zqy6w")))
+
+(define-public crate-pest-ast-0.3.1 (c (n "pest-ast") (v "0.3.1") (d (list (d (n "from-pest") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 2)) (d (n "pest_derive") (r "^2.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "single") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "14fvvpkircw0i6l1xnhb9hrh8dnx1xpbgn0c9ry6zrpjq0xf5wvn")))
+
+(define-public crate-pest-ast-0.3.2 (c (n "pest-ast") (v "0.3.2") (d (list (d (n "from-pest") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 2)) (d (n "pest_derive") (r "^2.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "single") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1ydy05p8g4yvq9ci41w202k0nb34mybsz61vpknp4dh5jh7x7xl8")))
+
+(define-public crate-pest-ast-0.3.3 (c (n "pest-ast") (v "0.3.3") (d (list (d (n "from-pest") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 2)) (d (n "pest_derive") (r "^2.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "single") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1r172874jqbnr2m5gjbwrhk7mmiwp1445j1jdbfp35qnk5441grz")))
+
+(define-public crate-pest-ast-0.3.4 (c (n "pest-ast") (v "0.3.4") (d (list (d (n "from-pest") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "pest") (r "^2.5") (d #t) (k 2)) (d (n "pest_derive") (r "^2.5") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1nlwkyw9vxsa5p37kla58sn0fb249c2gzw6wxz8h79a8micarda0") (f (quote (("trace") ("default" "trace"))))))
+

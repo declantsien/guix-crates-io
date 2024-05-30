@@ -1,0 +1,4 @@
+(define-module (crates-io ca ir cairo-rs-colors) #:use-module (crates-io))
+
+(define-public crate-cairo-rs-colors-0.15.0 (c (n "cairo-rs-colors") (v "0.15.0") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ffi") (r "^0.14.0") (d #t) (k 0) (p "cairo-sys-rs")) (d (n "freetype-crate") (r "^0.7.0") (o #t) (d #t) (k 0) (p "freetype")) (d (n "glib") (r "^0.14.0") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.10") (d #t) (k 0)))) (h "1h32q0pml3bxk1fmyzdv0a3xi25hsr0a064dlrs2s26qdmbbgkxk") (f (quote (("xlib" "ffi/xlib") ("xcb" "ffi/xcb") ("win32-surface" "ffi/win32-surface") ("v1_16" "ffi/v1_16") ("use_glib" "glib" "ffi/use_glib") ("svg" "ffi/svg") ("script" "ffi/script") ("ps" "ffi/ps") ("png" "ffi/png") ("pdf" "ffi/pdf") ("freetype" "ffi/freetype" "freetype-crate") ("dox" "ffi/dox" "glib/dox" "freetype") ("default" "use_glib"))))))
+

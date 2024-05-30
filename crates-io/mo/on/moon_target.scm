@@ -1,0 +1,10 @@
+(define-module (crates-io mo on moon_target) #:use-module (crates-io))
+
+(define-public crate-moon_target-0.0.1 (c (n "moon_target") (v "0.0.1") (d (list (d (n "miette") (r "^5.10.0") (d #t) (k 0)) (d (n "moon_common") (r "^0.0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (f (quote ("std" "perf"))) (k 0)) (d (n "schematic") (r "^0.13.5") (f (quote ("schema"))) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "00paw3gl1lcy7mrnq63j503s5lbv1cnk4mcv0crdg6k95npp4jqv")))
+
+(define-public crate-moon_target-0.0.2 (c (n "moon_target") (v "0.0.2") (d (list (d (n "miette") (r "^7.0.0") (d #t) (k 0)) (d (n "moon_common") (r "^0.0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (f (quote ("std" "perf"))) (k 0)) (d (n "schematic") (r "^0.14.2") (f (quote ("schema"))) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "17zi6gjk29si12c680snsf2zafy7j6s6i77lba2cbnmga5mqa6v6")))
+
+(define-public crate-moon_target-0.0.3 (c (n "moon_target") (v "0.0.3") (d (list (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "moon_common") (r "^0.0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (f (quote ("std" "perf"))) (k 0)) (d (n "schematic") (r "^0.14.5") (f (quote ("schema"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1x5sasjmkrcvajz9j7a8bkkshrfxag59k77pb0gmhqhyxyrd6pzz")))
+
+(define-public crate-moon_target-0.0.4 (c (n "moon_target") (v "0.0.4") (d (list (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "moon_common") (r "^0.0.5") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (f (quote ("std" "perf"))) (k 0)) (d (n "schematic") (r "^0.15.0") (f (quote ("schema"))) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0i109a7dr7w2ka0dbzlhizv4yzmcbwbv38w5ff042fnc6da1rpn2")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io js on json_schema_test_suite) #:use-module (crates-io))
+
+(define-public crate-json_schema_test_suite-0.1.0 (c (n "json_schema_test_suite") (v "0.1.0") (d (list (d (n "json_schema_test_suite_proc_macro") (r "=0.1.0") (d #t) (k 0)) (d (n "json_schema_test_suite_test_case") (r "=0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "mockito") (r "^0") (d #t) (k 2)) (d (n "reqwest") (r "^0") (f (quote ("blocking" "json"))) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "06ip53c80b5iz9wpp91bhd85kavpphxypd47schnzs6r6plmx68m") (y #t)))
+
+(define-public crate-json_schema_test_suite-0.2.0 (c (n "json_schema_test_suite") (v "0.2.0") (d (list (d (n "json_schema_test_suite_proc_macro") (r "=0.2.0") (d #t) (k 0)) (d (n "json_schema_test_suite_test_case") (r "=0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "mockito") (r "^0") (d #t) (k 2)) (d (n "reqwest") (r "^0") (f (quote ("blocking" "json"))) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1z633ir0xxn0wsjb8mzrcqgxihzx0pga9rl1ix3q0444swmdgdby")))
+
+(define-public crate-json_schema_test_suite-0.3.0 (c (n "json_schema_test_suite") (v "0.3.0") (d (list (d (n "json_schema_test_suite_proc_macro") (r "=0.3.0") (d #t) (k 0)) (d (n "json_schema_test_suite_test_case") (r "=0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "mockito") (r "^0") (d #t) (k 2)) (d (n "reqwest") (r "^0") (f (quote ("blocking" "json"))) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0g2c6nixrq6qyffwvl5iq7cqfca05w0ik5rfx39lpk3107mrb6m5")))
+

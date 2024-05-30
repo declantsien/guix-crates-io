@@ -1,0 +1,4 @@
+(define-module (crates-io re mo remop) #:use-module (crates-io))
+
+(define-public crate-remop-0.8.0-pre0 (c (n "remop") (v "0.8.0-pre0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt" "sync" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (d #t) (k 2)))) (h "0ng9nqmvqgnb3qdyb4zy6pm2q5zy812g45cprabd0p9g5221db7m") (f (quote (("default" "serde")))) (y #t)))
+

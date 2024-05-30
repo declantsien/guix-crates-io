@@ -1,0 +1,4 @@
+(define-module (crates-io sy ph syphon) #:use-module (crates-io))
+
+(define-public crate-syphon-0.1.0 (c (n "syphon") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.27") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "hyper") (r "^0.13.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "named_tuple") (r "^0.1.3") (d #t) (k 0)) (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "snap") (r "^1") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4.3") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "tonic") (r "^0.2.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.2") (d #t) (k 1)))) (h "0mvn4nhi8ck8473z6ng3lzs205ps1riybdis0hv749mnany3vxay")))
+

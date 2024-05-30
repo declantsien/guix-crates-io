@@ -1,0 +1,14 @@
+(define-module (crates-io gi tv gitverse) #:use-module (crates-io))
+
+(define-public crate-gitverse-0.0.0-alpha (c (n "gitverse") (v "0.0.0-alpha") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "18grsza0abx1pvfq4mc7hrifpcmwvaldvl76flcx8x37njg74njd")))
+
+(define-public crate-gitverse-0.0.0-beta (c (n "gitverse") (v "0.0.0-beta") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1l0yhkf856y8q5y86292bdacal1r4pn6x9lgq7pyp48iclg6vwz3")))
+
+(define-public crate-gitverse-0.0.1-alpha (c (n "gitverse") (v "0.0.1-alpha") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "191rb0q6wgir71vrvl2nsqlknxq4ds59f4r0m3skayb318hm6avm")))
+
+(define-public crate-gitverse-0.0.1-beta (c (n "gitverse") (v "0.0.1-beta") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15102zc9a82jfq9pgp0xccxxmaxiiyk4z9znwxs33p3h63m09ijb")))
+
+(define-public crate-gitverse-0.0.1 (c (n "gitverse") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "16arjc5j48q08s8rrn1q9l45s3z8rr76hfi82pbrs8601gk64gbg")))
+
+(define-public crate-gitverse-0.0.2 (c (n "gitverse") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1hkx83z1a58b1mwvfgi1cmkg3zbfl3bk2xhnfi11j066d318j0al")))
+

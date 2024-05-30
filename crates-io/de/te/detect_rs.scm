@@ -1,0 +1,4 @@
+(define-module (crates-io de te detect_rs) #:use-module (crates-io))
+
+(define-public crate-detect_rs-0.1.0 (c (n "detect_rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "combine") (r "^4.6.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.23") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "recursion") (r "^0.5") (f (quote ("experimental"))) (d #t) (k 0)) (d (n "recursion-visualize") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)) (d (n "tokio") (r "^1.19") (f (quote ("rt" "rt-multi-thread" "fs" "macros" "io-util" "sync" "process"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0wnv6svfyp8wjw57g5w9gqjp4kacw8ny20v9c8wvczwpbw7c6xkj") (s 2) (e (quote (("viz" "dep:recursion-visualize"))))))
+

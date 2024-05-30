@@ -1,0 +1,6 @@
+(define-module (crates-io ap iv apivolve_generator_api) #:use-module (crates-io))
+
+(define-public crate-apivolve_generator_api-0.1.0 (c (n "apivolve_generator_api") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "1llplxq8073f2glssdizpniwihral7hgzchhwi4yfpqzmcp5qzmz") (f (quote (("binary" "env_logger"))))))
+
+(define-public crate-apivolve_generator_api-0.1.1 (c (n "apivolve_generator_api") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.17") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "0bng2a2hv1qrnb1rs9xdszc9lxr94w1qv0adxpd699w5xh2l5mzw")))
+

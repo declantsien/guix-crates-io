@@ -1,0 +1,10 @@
+(define-module (crates-io lt g_ ltg_push) #:use-module (crates-io))
+
+(define-public crate-ltg_push-0.1.1 (c (n "ltg_push") (v "0.1.1") (d (list (d (n "hyper") (r "^0.10.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2.2") (d #t) (k 0)) (d (n "notify") (r "^4.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.5") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.0") (d #t) (k 0)) (d (n "url") (r "^1.4.0") (d #t) (k 0)))) (h "04k3daj7fackg0yrfpa5vhyvi343hv4673w5iqi45q4csgvgb2rc")))
+
+(define-public crate-ltg_push-0.1.2 (c (n "ltg_push") (v "0.1.2") (d (list (d (n "hyper") (r "^0.10.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2.2") (d #t) (k 0)) (d (n "notify") (r "^4.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.5") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.0") (d #t) (k 0)) (d (n "url") (r "^1.4.0") (d #t) (k 0)))) (h "0nfwbycn7hqyb6rni84zvr2g11qz0sf30h5g903lbjm356r4766f")))
+
+(define-public crate-ltg_push-0.2.0 (c (n "ltg_push") (v "0.2.0") (d (list (d (n "hyper") (r "^0.10.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2.2") (d #t) (k 0)) (d (n "notify") (r "^4.0.1") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.5") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.0") (d #t) (k 0)) (d (n "url") (r "^1.4.0") (d #t) (k 0)))) (h "0d9kj0ci4418mvlc6nsdf3idra73cap83rm68f4z1i98z2nlyw30")))
+
+(define-public crate-ltg_push-0.2.1 (c (n "ltg_push") (v "0.2.1") (d (list (d (n "hyper") (r "^0.10.10") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2.2") (d #t) (k 0)) (d (n "notify") (r "^4.0.1") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.5") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7.0") (d #t) (k 0)) (d (n "url") (r "^1.4.0") (d #t) (k 0)))) (h "03kyaiyq3s52b7fzxk7jvmkmzga75mk65rlfzsaw81f26g18p2cn")))
+

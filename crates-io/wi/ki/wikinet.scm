@@ -1,0 +1,6 @@
+(define-module (crates-io wi ki wikinet) #:use-module (crates-io))
+
+(define-public crate-wikinet-0.0.0 (c (n "wikinet") (v "0.0.0") (d (list (d (n "color-eyre") (r "^0.5.11") (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (d #t) (k 0)) (d (n "html5ever") (r "^0.22") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (d #t) (k 0)) (d (n "soup") (r "^0.5.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.19") (d #t) (k 0)))) (h "0kikmwp36qmxiny5g4qb2igy0vy3higx48pq302fnlfjr1dafix9")))
+
+(define-public crate-wikinet-0.0.1 (c (n "wikinet") (v "0.0.1") (d (list (d (n "color-eyre") (r "^0.5.11") (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (d #t) (k 0)) (d (n "html5ever") (r "^0.22") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (d #t) (k 0)) (d (n "soup") (r "^0.5.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.19") (d #t) (k 0)))) (h "0gsip90jv2pmv03x19f7z5klcsaydncd0m62m8h37c226ffgvbz7")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ch ir chiru) #:use-module (crates-io))
+
+(define-public crate-chiru-0.1.0 (c (n "chiru") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tera") (r "^1") (k 0)))) (h "1q98xpr5snq45dvjkpqjfclp9whybcmzd599s82m046xcrxdb9zx") (y #t)))
+
+(define-public crate-chiru-0.4.0 (c (n "chiru") (v "0.4.0") (d (list (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tera") (r "^1") (k 0)))) (h "02qaynyiw58mx4asdgjbj1dbpn0393jn1h2ggh04pbf0c1qgk55l") (y #t)))
+
+(define-public crate-chiru-0.5.0 (c (n "chiru") (v "0.5.0") (d (list (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tera") (r "^1") (k 0)))) (h "01mwnhq9nyhq87a277f6jn9i8x0b4qd3x3fmj6bm104fbyxjcjpf") (y #t)))
+
+(define-public crate-chiru-0.6.0 (c (n "chiru") (v "0.6.0") (d (list (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tera") (r "^1") (k 0)))) (h "0afw4p92bcds8276z8j47144ghip8a8zssv8dcmw5s4aymzrch89") (y #t)))
+
+(define-public crate-chiru-0.7.0 (c (n "chiru") (v "0.7.0") (d (list (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tera") (r "^1") (k 0)))) (h "1l22xn3xq4cqa3fvz4vn9pjjzrfw1d1v78rf147pzi8p2428rjh3")))
+

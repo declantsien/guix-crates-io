@@ -1,0 +1,4 @@
+(define-module (crates-io or ml ormlitex-core) #:use-module (crates-io))
+
+(define-public crate-ormlitex-core-0.17.1 (c (n "ormlitex-core") (v "0.17.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "assert_matches") (r "^1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "ormlitex-attr") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)) (d (n "sqlparser") (r "^0.35") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde" "v4"))) (d #t) (k 2)))) (h "07k5givi3vyz6x6ky16q1msk1k8lkjynj4y6hxn5valvgwchi5xz") (f (quote (("sqlite" "sqlx/sqlite") ("runtime-tokio-rustls" "sqlx/runtime-tokio-rustls") ("postgres" "sqlx/postgres") ("mysql" "sqlx/mysql"))))))
+

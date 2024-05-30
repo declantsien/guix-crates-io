@@ -1,0 +1,14 @@
+(define-module (crates-io sp ac spacebar) #:use-module (crates-io))
+
+(define-public crate-spacebar-0.1.2 (c (n "spacebar") (v "0.1.2") (d (list (d (n "clap") (r "^2.29.4") (d #t) (k 0)) (d (n "clipboard") (r "^0.4.2") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.9") (d #t) (k 0)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)))) (h "0znrf1x5d9ypxlkl9kn2m390k2wh64iq5a3krwmrg1wsds65msda")))
+
+(define-public crate-spacebar-0.1.4 (c (n "spacebar") (v "0.1.4") (d (list (d (n "clap") (r "^2.29.4") (d #t) (k 0)) (d (n "clipboard") (r "^0.4.2") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.9") (d #t) (k 0)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)))) (h "19d9z450190kp86gc5p8rggfybndvfsxaj0dsa45k089ygzpssbm")))
+
+(define-public crate-spacebar-0.1.5 (c (n "spacebar") (v "0.1.5") (d (list (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "clipboard") (r "^0.4.6") (d #t) (k 0)) (d (n "rand") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.20") (d #t) (k 0)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)))) (h "1vij4xclcbbgxgxzv5ipdclrpb88yj2f5jbbyj1i7rzdkk7g1hw9")))
+
+(define-public crate-spacebar-0.1.6 (c (n "spacebar") (v "0.1.6") (d (list (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "clipboard") (r "^0.4.6") (d #t) (k 0)) (d (n "rand") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.20") (d #t) (k 0)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)))) (h "0hyjx7rr47w0m8bxlj26psyw2jrxbs3nqj3rz8gnavglm14lnpfc")))
+
+(define-public crate-spacebar-0.2.0 (c (n "spacebar") (v "0.2.0") (d (list (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "clipboard") (r "^0.4.6") (d #t) (k 0)) (d (n "curl") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.20") (d #t) (k 0)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)))) (h "0bvxdd4a46s9ipd6m16izsi5kyhwpikbn96yi6js1ampxbdx6hkc")))
+
+(define-public crate-spacebar-0.3.0-rc1 (c (n "spacebar") (v "0.3.0-rc1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "copypasta") (r "^0.6.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.21.0") (d #t) (k 0)) (d (n "spinners") (r "^1.2.0") (d #t) (k 0)))) (h "16wcwydd2y5nd6v9ygs1zyb0gndwqkm1sxdh188lhpisvcfzpaq7")))
+

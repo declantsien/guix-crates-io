@@ -1,0 +1,24 @@
+(define-module (crates-io vi br vibrato) #:use-module (crates-io))
+
+(define-public crate-vibrato-0.1.0 (c (n "vibrato") (v "0.1.0") (d (list (d (n "bincode") (r "^2.0.0-rc.1") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)))) (h "1205iygnq7liv2znyappb4rflvjzaz6yps7swpljh008r5p4vnm3")))
+
+(define-public crate-vibrato-0.1.1 (c (n "vibrato") (v "0.1.1") (d (list (d (n "bincode") (r "^2.0.0-rc.1") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)))) (h "0bwbaiz57d85c2nbc66hazyr4x15x1y2dlmd2vniaxvnyc76ivlk")))
+
+(define-public crate-vibrato-0.1.2 (c (n "vibrato") (v "0.1.2") (d (list (d (n "bincode") (r "^2.0.0-rc.1") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "02mwh6j843rx6m13hcg36smz1icwhx3mfqf2x2lki4nnzsid6xih")))
+
+(define-public crate-vibrato-0.2.0 (c (n "vibrato") (v "0.2.0") (d (list (d (n "bincode") (r "^2.0.0-rc.1") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.1") (d #t) (k 0)))) (h "1i7iiqjpny04fhk2a4bwx72wm6hilhx52689q200hqkzlcz7i4b5")))
+
+(define-public crate-vibrato-0.3.0 (c (n "vibrato") (v "0.3.0") (d (list (d (n "bincode") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "bincode_derive") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (d #t) (k 0)))) (h "15fzpkp44la9d5xn2qwimyrzpyy6dxywci5l2gq25ingp2v1k6xf")))
+
+(define-public crate-vibrato-0.3.1 (c (n "vibrato") (v "0.3.1") (d (list (d (n "bincode") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "bincode_derive") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (d #t) (k 0)))) (h "1nrs606488kbkg4044fnyyk2bv2qwvflgrks0d0ydhr0aiwdd0a7")))
+
+(define-public crate-vibrato-0.3.2 (c (n "vibrato") (v "0.3.2") (d (list (d (n "bincode") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "bincode_derive") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "11y6831pgc9av10vx0qn80a2c4f2gn0r09wq6g5g3k50sync7win") (f (quote (("train" "rucrf") ("default" "train")))) (r "1.63")))
+
+(define-public crate-vibrato-0.3.3 (c (n "vibrato") (v "0.3.3") (d (list (d (n "bincode") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "bincode_derive") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "0rdgcv0066fdlkdgv2wfassgrkvkgmb851q7vkx7rcfm4yc4nxl7") (f (quote (("train" "rucrf") ("default" "train")))) (r "1.63")))
+
+(define-public crate-vibrato-0.4.0 (c (n "vibrato") (v "0.4.0") (d (list (d (n "bincode") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "bincode_derive") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "1y1wl622mccvzfrdasnag8yzfaxfdmlxjr44y55wid9l05fdkppv") (f (quote (("train" "rucrf") ("default" "train")))) (r "1.63")))
+
+(define-public crate-vibrato-0.5.0 (c (n "vibrato") (v "0.5.0") (d (list (d (n "bincode") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "bincode_derive") (r "=2.0.0-rc.2") (d #t) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "1kdl3rvqflsz0fymg1wv7912aak7rk1rnbnhbpin7sj8jm8pbfqp") (f (quote (("train" "rucrf") ("default" "train")))) (r "1.63")))
+
+(define-public crate-vibrato-0.5.1 (c (n "vibrato") (v "0.5.1") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("std" "alloc" "derive"))) (k 0)) (d (n "crawdad") (r "^0.3.0") (d #t) (k 0)) (d (n "csv-core") (r "^0.1.10") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rucrf") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "08l7x5i4vadd4nkx3c8r0aahk72c9ih3hk34iy6p6xw84sdxk5fz") (f (quote (("train" "rucrf") ("default" "train")))) (r "1.65")))
+

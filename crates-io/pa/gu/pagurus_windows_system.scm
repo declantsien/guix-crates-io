@@ -1,0 +1,10 @@
+(define-module (crates-io pa gu pagurus_windows_system) #:use-module (crates-io))
+
+(define-public crate-pagurus_windows_system-0.4.0 (c (n "pagurus_windows_system") (v "0.4.0") (d (list (d (n "pagurus") (r "^0.4") (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)) (d (n "windows") (r "^0.42.0") (f (quote ("Win32_System_Com" "Win32_Foundation" "Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_System_SystemInformation" "Win32_UI_WindowsAndMessaging" "Win32_Media_Audio_XAudio2"))) (d #t) (k 0)))) (h "1hwvkwi7n3xgxldi8p0cr4wr5cqnldgrr9bcvnml7v54myv1ygfa")))
+
+(define-public crate-pagurus_windows_system-0.4.1 (c (n "pagurus_windows_system") (v "0.4.1") (d (list (d (n "pagurus") (r "^0.4") (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)) (d (n "windows") (r "^0.42.0") (f (quote ("Win32_System_Com" "Win32_Foundation" "Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_System_SystemInformation" "Win32_UI_WindowsAndMessaging" "Win32_Media_Audio_XAudio2"))) (d #t) (k 0)))) (h "0ysb0qng4fs35rkcdawc0vb6hgj0zxxqnxgpfxc39k3x29dn309j")))
+
+(define-public crate-pagurus_windows_system-0.5.0 (c (n "pagurus_windows_system") (v "0.5.0") (d (list (d (n "pagurus") (r "^0.5") (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)) (d (n "windows") (r "^0.42.0") (f (quote ("Win32_System_Com" "Win32_Foundation" "Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_System_SystemInformation" "Win32_UI_WindowsAndMessaging" "Win32_Media_Audio_XAudio2"))) (d #t) (k 0)))) (h "1xg4s7c6pp8vz7p150vx4zf1l9wjv42hbk3cj3a3iw8ji4rnzvm5")))
+
+(define-public crate-pagurus_windows_system-0.6.0 (c (n "pagurus_windows_system") (v "0.6.0") (d (list (d (n "pagurus") (r "^0.6") (d #t) (k 0)) (d (n "urlencoding") (r "^2") (d #t) (k 0)) (d (n "windows") (r "^0.42.0") (f (quote ("Win32_System_Com" "Win32_Foundation" "Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_System_SystemInformation" "Win32_UI_WindowsAndMessaging" "Win32_Media_Audio_XAudio2"))) (d #t) (k 0)))) (h "19sdpl767n5aswlc8lv8wlxyyn4krad6sxnn516yjwvgxxsqkvqm")))
+

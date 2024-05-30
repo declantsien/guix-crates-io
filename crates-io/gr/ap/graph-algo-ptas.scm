@@ -1,0 +1,4 @@
+(define-module (crates-io gr ap graph-algo-ptas) #:use-module (crates-io))
+
+(define-public crate-graph-algo-ptas-0.1.0 (c (n "graph-algo-ptas") (v "0.1.0") (d (list (d (n "arboretum-td") (r "^0.1.0") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "dot") (r "^0.1.4") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "graphviz_parser") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1z7fhw8xfld1vcxxhi4q3dk78cza92pcv27a2wfimcr84y00f17f") (f (quote (("debug_link_graph_panic_on_double_edges") ("debug_graph_generation")))) (s 2) (e (quote (("cli" "dep:clap" "dep:graphviz_parser"))))))
+

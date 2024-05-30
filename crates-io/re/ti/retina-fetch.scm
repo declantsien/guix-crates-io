@@ -1,0 +1,4 @@
+(define-module (crates-io re ti retina-fetch) #:use-module (crates-io))
+
+(define-public crate-retina-fetch-0.3.0 (c (n "retina-fetch") (v "0.3.0") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "hyper") (r "^0.14.27") (f (quote ("client" "http1" "http2" "stream"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (d #t) (k 0)) (d (n "log") (r "^0.4.2") (d #t) (k 0)) (d (n "mime") (r "^0.3.17") (d #t) (k 0)) (d (n "rstest") (r "^0.18") (d #t) (k 2)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (f (quote ("codec"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "185pnpqq4y3qmbfd6vss6ndxmlz88jls4fiyhjswvm3bd0v92lk3")))
+

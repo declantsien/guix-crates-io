@@ -1,0 +1,26 @@
+(define-module (crates-io sh or short-hex-str) #:use-module (crates-io))
+
+(define-public crate-short-hex-str-0.1.0 (c (n "short-hex-str") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1534li9ahs0xcxsyjp8vk7xa05jlx9lwbw7w9x8k9ipyyv9jjw1x") (y #t)))
+
+(define-public crate-short-hex-str-0.1.1 (c (n "short-hex-str") (v "0.1.1") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1c3vdl616sfpcqca8grb3zrr8qbgm7ndhwym6xkdqkgmahdshdgg") (y #t)))
+
+(define-public crate-short-hex-str-0.1.2 (c (n "short-hex-str") (v "0.1.2") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1vc1xaizh8w3wgnbj90sd63c5n2vphdgy29i7a7k10fds1xph25w") (y #t)))
+
+(define-public crate-short-hex-str-0.1.3 (c (n "short-hex-str") (v "0.1.3") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0ry3vgav9gmj8xlhivdhc1mj2xddc2nxvmvczw8axxxbdhl5addx") (y #t)))
+
+(define-public crate-short-hex-str-0.1.4 (c (n "short-hex-str") (v "0.1.4") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1p0fslw5vfzdwlkbinabmsxfxx0dis59gk96kkhlnv9vqa935w0v") (y #t)))
+
+(define-public crate-short-hex-str-0.1.5 (c (n "short-hex-str") (v "0.1.5") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0qf7g3rn73sval8kv37c6ng0rm44lx41l4x7dg0ir1i451lmkb6k") (y #t)))
+
+(define-public crate-short-hex-str-0.1.6 (c (n "short-hex-str") (v "0.1.6") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1183h2sbgd6r9jf8im3nbg7ydr3212cdi7rgdnp09ci6avk4hw8i") (y #t)))
+
+(define-public crate-short-hex-str-0.1.7 (c (n "short-hex-str") (v "0.1.7") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0ycvs5f9p999gvqyq5cx1f8r6nmvn4s5bgpz9ynl4qrxly4lw5lv") (y #t)))
+
+(define-public crate-short-hex-str-0.2.1 (c (n "short-hex-str") (v "0.2.1") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1hdy5q5vlgjim9v0cqsai8q9hvflpsl8hbgf90qapnxs1vcwjg6m") (y #t)))
+
+(define-public crate-short-hex-str-0.2.2 (c (n "short-hex-str") (v "0.2.2") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "01xj1s9j094ighn33622asc95y782dp7x447zabn5vzjd9h3sk1d") (y #t)))
+
+(define-public crate-short-hex-str-0.2.6 (c (n "short-hex-str") (v "0.2.6") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0mxalilf1k1xaq6fmyaf8mbnf5aiqb75i6zrjqla5vvcq683f4ys") (y #t)))
+
+(define-public crate-short-hex-str-0.2.7 (c (n "short-hex-str") (v "0.2.7") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mirai-annotations") (r "^1.12.0") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1vr9zg17kjw0qgpirbc3xcly5yl4ccymidwp3ix8wxw2sdwxzbs7") (y #t)))
+

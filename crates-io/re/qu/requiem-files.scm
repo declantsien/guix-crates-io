@@ -1,0 +1,4 @@
+(define-module (crates-io re qu requiem-files) #:use-module (crates-io))
+
+(define-public crate-requiem-files-0.2.1-r1 (c (n "requiem-files") (v "0.2.1-r1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1") (d #t) (k 0)) (d (n "requiem-http") (r "^1.0.1-r1") (d #t) (k 0)) (d (n "requiem-rt") (r "^1.0.0") (d #t) (k 2)) (d (n "requiem-service") (r "^1.0.1") (d #t) (k 0)) (d (n "requiem-web") (r "^2.0.0-r2") (k 0)) (d (n "requiem-web") (r "^2.0.0-r1") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "v_htmlescape") (r "^0.4") (d #t) (k 0)))) (h "0ylm3x3whgpdnfydrzfyh3nxykjyvagdayd43i7q03g6gbr23rg2")))
+

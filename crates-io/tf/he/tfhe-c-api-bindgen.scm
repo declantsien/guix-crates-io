@@ -1,0 +1,4 @@
+(define-module (crates-io tf he tfhe-c-api-bindgen) #:use-module (crates-io))
+
+(define-public crate-tfhe-c-api-bindgen-0.26.1 (c (n "tfhe-c-api-bindgen") (v "0.26.1") (d (list (d (n "clap") (r "^3.1") (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "indexmap") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0.88") (f (quote ("clone-impls" "extra-traits" "fold" "full" "parsing" "printing"))) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0fq63va99mr8lrnx66bqmnm5z33i1n4g7b52zzk14vy6k55zw4kc") (f (quote (("default" "clap")))) (r "1.64")))
+

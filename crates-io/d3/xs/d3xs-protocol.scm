@@ -1,0 +1,4 @@
+(define-module (crates-io d3 xs d3xs-protocol) #:use-module (crates-io))
+
+(define-public crate-d3xs-protocol-0.1.0 (c (n "d3xs-protocol") (v "0.1.0") (d (list (d (n "crypto_box") (r "^0.9.1") (f (quote ("salsa20"))) (k 0)) (d (n "data-encoding") (r "^2.4.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (t "cfg(not(target_os = \"espidf\"))") (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (k 0)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("Location" "Document" "Window" "Element" "HtmlElement" "HtmlInputElement"))) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1js8za8l6sv5bg5hfj2qkr2i2aphsy050sp98gy09yi5c2xv2nag") (f (quote (("ipc" "serde"))))))
+

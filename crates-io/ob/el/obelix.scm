@@ -1,0 +1,6 @@
+(define-module (crates-io ob el obelix) #:use-module (crates-io))
+
+(define-public crate-obelix-0.1.0 (c (n "obelix") (v "0.1.0") (d (list (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("extra-traits" "fold" "full" "parsing" "printing"))) (k 0)))) (h "18z5hs70kqyx1a7q98ijbkjsclldfilpvkn10yph3n5v39msadnp")))
+
+(define-public crate-obelix-0.2.0 (c (n "obelix") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "clap") (r "^2.33") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.55") (d #t) (k 0)) (d (n "syn") (r "^1.0.31") (f (quote ("extra-traits" "fold" "full" "parsing" "printing"))) (k 0)))) (h "0pxr1z8vv1y275i38j3f6s0rihhvaay37lx33mmdswxx84kqpwnx") (f (quote (("default" "bin") ("bin" "anyhow" "clap"))))))
+

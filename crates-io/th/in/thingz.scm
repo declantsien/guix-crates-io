@@ -1,0 +1,4 @@
+(define-module (crates-io th in thingz) #:use-module (crates-io))
+
+(define-public crate-thingz-0.0.1 (c (n "thingz") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.13") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "file-rotate") (r "^0.7.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "opendal") (r "^0.39") (d #t) (k 0)) (d (n "rumqttc") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-cron-scheduler") (r "^0.9") (d #t) (k 0)))) (h "1a9yfga1vk3rgwz9972lyb32k5vlbka35xiq7k2rfmz1xph1lrfy")))
+

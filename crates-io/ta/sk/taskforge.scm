@@ -1,0 +1,6 @@
+(define-module (crates-io ta sk taskforge) #:use-module (crates-io))
+
+(define-public crate-taskforge-0.1.0 (c (n "taskforge") (v "0.1.0") (d (list (d (n "bson") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.5.5") (d #t) (k 0)) (d (n "regex") (r "^1.0.6") (d #t) (k 0)) (d (n "rusqlite") (r "^0.15.0") (f (quote ("chrono" "serde_json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.4") (d #t) (k 0)))) (h "10ppjq9i2nhc30lrsixh4d7sp8p4rsdadd75qsff2g9mnssbv6ds")))
+
+(define-public crate-taskforge-0.2.0 (c (n "taskforge") (v "0.2.0") (d (list (d (n "bson") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)) (d (n "rusqlite") (r "^0.16.0") (f (quote ("chrono" "serde_json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.7") (d #t) (k 0)))) (h "14lf1m8l9v58b5myn2xb6rx1lpcyfl3w77mkbcw2bkm9sl50504d")))
+

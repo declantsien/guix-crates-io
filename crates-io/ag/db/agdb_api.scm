@@ -1,0 +1,14 @@
+(define-module (crates-io ag db agdb_api) #:use-module (crates-io))
+
+(define-public crate-agdb_api-0.6.4 (c (n "agdb_api") (v "0.6.4") (d (list (d (n "agdb") (r "^0.6.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "0y41x9qdcw0h45d2ynlgp7shk322b1ixnnrzlfwq6x0il21sbh13") (s 2) (e (quote (("reqwest" "dep:reqwest"))))))
+
+(define-public crate-agdb_api-0.6.5 (c (n "agdb_api") (v "0.6.5") (d (list (d (n "agdb") (r "^0.6.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "1zkblslffm9x15jv6v0rfprimqbh056pdanhpr85qqdc9ys77wrj") (s 2) (e (quote (("reqwest" "dep:reqwest"))))))
+
+(define-public crate-agdb_api-0.6.6 (c (n "agdb_api") (v "0.6.6") (d (list (d (n "agdb") (r "^0.6.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "09zkhhkw0cbc478nz6mws9yvai8k22kj0678bpk85fb1f4jkfy0d") (s 2) (e (quote (("reqwest" "dep:reqwest"))))))
+
+(define-public crate-agdb_api-0.6.7 (c (n "agdb_api") (v "0.6.7") (d (list (d (n "agdb") (r "^0.6.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "1nrcvhfpcb2x9kw1xvrnynnp4xjvzhf3bixr2qlxscxldnq5xx6k") (s 2) (e (quote (("reqwest" "dep:reqwest"))))))
+
+(define-public crate-agdb_api-0.6.8 (c (n "agdb_api") (v "0.6.8") (d (list (d (n "agdb") (r "^0.6.8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "0208g5k7iyfc8zfn4mx9dqpy6l7d3ldr1jqnacw33c5yx8n6v3fh") (s 2) (e (quote (("reqwest" "dep:reqwest"))))))
+
+(define-public crate-agdb_api-0.6.9 (c (n "agdb_api") (v "0.6.9") (d (list (d (n "agdb") (r "^0.6.9") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "utoipa") (r "^4") (d #t) (k 0)))) (h "05k2238ylm79jjw0xgar6zsparp1qhn57ij55hn5h6cwchpfz1bm") (s 2) (e (quote (("reqwest" "dep:reqwest"))))))
+

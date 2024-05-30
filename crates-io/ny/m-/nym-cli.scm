@@ -1,0 +1,4 @@
+(define-module (crates-io ny m- nym-cli) #:use-module (crates-io))
+
+(define-public crate-nym-cli-0.1.0 (c (n "nym-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.0") (d #t) (k 0)) (d (n "console") (r "^0.14.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.15.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lscolors") (r "^0.7.0") (k 0)) (d (n "nym") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.13.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.0") (d #t) (k 0)))) (h "0jiw6dvmp1q112dhj4cq3a8l8kqnxys40hzlp38rgb6nq92fsasd") (f (quote (("property-md5sum" "nym/property-md5sum") ("property-b3sum" "nym/property-b3sum") ("default" "property-b3sum" "property-md5sum"))))))
+

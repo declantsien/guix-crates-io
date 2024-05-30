@@ -1,0 +1,4 @@
+(define-module (crates-io li ng lingon) #:use-module (crates-io))
+
+(define-public crate-lingon-0.1.0 (c (n "lingon") (v "0.1.0") (d (list (d (n "cgmath") (r "^0.18.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "lewton") (r "^0.10") (d #t) (k 0)) (d (n "lingon-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "luminance") (r "^0.43.2") (d #t) (k 0)) (d (n "luminance-derive") (r "^0.6.1") (d #t) (k 0)) (d (n "luminance-glyph") (r "^0.2.0") (d #t) (k 0)) (d (n "luminance-sdl2") (r "^0.2.1") (k 0)) (d (n "luminance-windowing") (r "^0.9.3") (d #t) (k 0)) (d (n "stb_image") (r "^0.2") (d #t) (k 0)) (d (n "sungod") (r "^0.3") (d #t) (k 0)) (d (n "wav") (r "^0.6") (d #t) (k 0)))) (h "0k319nczzznq0y9h4a3q5isi83a0yqpcq3v8987dmxqgnimlcvl7") (f (quote (("default") ("bundled" "luminance-sdl2/bundled"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io de bu debug-probe) #:use-module (crates-io))
+
+(define-public crate-debug-probe-0.1.0 (c (n "debug-probe") (v "0.1.0") (d (list (d (n "arm-memory") (r "^0.1.0") (d #t) (k 0)) (d (n "bitfield") (r "^0.13.2") (d #t) (k 0)) (d (n "bitflags") (r "^1.2.0") (d #t) (k 0)) (d (n "capstone") (r "^0.6.0") (d #t) (k 0)) (d (n "coresight") (r "^0.1.0") (d #t) (k 0)) (d (n "crc") (r "^1.8.1") (d #t) (k 0)) (d (n "derivative") (r "^1.0.3") (d #t) (k 0)) (d (n "goblin") (r "^0.0.24") (d #t) (k 0)) (d (n "hexdump") (r "^0.1.0") (d #t) (k 0)) (d (n "ihex") (r "^1.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "object") (r "^0.14.0") (d #t) (k 0)) (d (n "query_interface") (r "^0.3.5") (d #t) (k 0)) (d (n "scroll") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)))) (h "0rgf10msvb4blspbr9ayrwv2rl88d00kyrvp3750s5vf0jzvmha5") (y #t)))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io sw im swimmer) #:use-module (crates-io))
+
+(define-public crate-swimmer-0.1.0 (c (n "swimmer") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.7.2") (d #t) (k 0)) (d (n "hashbrown") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.3.4") (d #t) (k 2)))) (h "1hbisd8dkjpxkxa8kjhq030cgi9qf6mqgfg76vzb46y0kj8wk67j") (f (quote (("smallvec-impls" "smallvec") ("hashbrown-impls" "hashbrown"))))))
+
+(define-public crate-swimmer-0.2.0 (c (n "swimmer") (v "0.2.0") (d (list (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "hashbrown") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "lifeguard") (r "^0.6.0") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.3.4") (d #t) (k 2)) (d (n "thread_local") (r "^0.3.6") (d #t) (k 0)))) (h "17ryrmhv7v549lgl94kj7yqga6g51rf8gadlzdggd2i5p16ysa2g") (f (quote (("smallvec-impls" "smallvec") ("hashbrown-impls" "hashbrown"))))))
+
+(define-public crate-swimmer-0.3.0 (c (n "swimmer") (v "0.3.0") (d (list (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "hashbrown") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "lifeguard") (r "^0.6.0") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.3.4") (d #t) (k 2)) (d (n "thread_local") (r "^0.3.6") (d #t) (k 0)))) (h "0mz1w4f0nn0gavmhx3mawm1nslg75ah55n0p72qw94lqj9hfygcn") (f (quote (("smallvec-impls" "smallvec") ("hashbrown-impls" "hashbrown"))))))
+

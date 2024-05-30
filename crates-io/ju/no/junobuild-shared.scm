@@ -1,0 +1,10 @@
+(define-module (crates-io ju no junobuild-shared) #:use-module (crates-io))
+
+(define-public crate-junobuild-shared-0.0.12 (c (n "junobuild-shared") (v "0.0.12") (d (list (d (n "candid") (r "^0.10.2") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.12.1") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.8.1") (d #t) (k 0)) (d (n "ic-ledger-types") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (d #t) (k 0)))) (h "1ddnzmc7gfk6vwn22g6h13lsiiv3gly2xgc0jj1jm7f5zshnnznz")))
+
+(define-public crate-junobuild-shared-0.0.13 (c (n "junobuild-shared") (v "0.0.13") (d (list (d (n "candid") (r "^0.10.2") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.12.1") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.8.1") (d #t) (k 0)) (d (n "ic-ledger-types") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (d #t) (k 0)))) (h "1dfljpb4xz692zdadczhydqg3iv0qrkfl81ri25mqz5j8rr7h04v")))
+
+(define-public crate-junobuild-shared-0.0.14 (c (n "junobuild-shared") (v "0.0.14") (d (list (d (n "candid") (r "^0.10.2") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.12.1") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.8.1") (d #t) (k 0)) (d (n "ic-ledger-types") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (d #t) (k 0)))) (h "0fcxngaid0y6n5xvn02vjwx2n4yn8x6fnryr71gl3yv85hdd5bzc")))
+
+(define-public crate-junobuild-shared-0.0.15 (c (n "junobuild-shared") (v "0.0.15") (d (list (d (n "candid") (r "^0.10.2") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.12.1") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.8.1") (d #t) (k 0)) (d (n "ic-ledger-types") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (d #t) (k 0)))) (h "0pdw4rn0khqp0ayam5na21rz6jyclfqyf4945dcf677iv8p4wb8h")))
+

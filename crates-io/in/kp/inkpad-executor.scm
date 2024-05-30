@@ -1,0 +1,4 @@
+(define-module (crates-io in kp inkpad-executor) #:use-module (crates-io))
+
+(define-public crate-inkpad-executor-0.1.0 (c (n "inkpad-executor") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (k 0)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (o #t) (d #t) (k 0)) (d (n "inkpad-std") (r "^0") (d #t) (k 0)) (d (n "inkpad-support") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parity-wasm") (r "^0.42.2") (d #t) (k 0)) (d (n "wasmi") (r "^0") (o #t) (d #t) (k 0) (p "patract-wasmi")) (d (n "wasmtime") (r "^0.26.1") (o #t) (d #t) (k 0)))) (h "1j8wnqfppx6hx2vw6qdxbb959d8in8h3l9a85sm3k24l33lfbs28") (f (quote (("std" "hex" "wasmtime" "inkpad-std/std") ("default" "wasmi"))))))
+

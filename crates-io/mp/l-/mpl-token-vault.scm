@@ -1,0 +1,8 @@
+(define-module (crates-io mp l- mpl-token-vault) #:use-module (crates-io))
+
+(define-public crate-mpl-token-vault-0.1.0 (c (n "mpl-token-vault") (v "0.1.0") (d (list (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.8.5") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0sklwan1b521dwfj2qgcylfm4hlvpa6g4kvc0wrn0sn0bgqlxpks") (f (quote (("test-bpf") ("no-entrypoint"))))))
+
+(define-public crate-mpl-token-vault-0.1.1 (c (n "mpl-token-vault") (v "0.1.1") (d (list (d (n "borsh") (r "~0.9.1") (d #t) (k 0)) (d (n "num-derive") (r "~0.3") (d #t) (k 0)) (d (n "num-traits") (r "~0.2") (d #t) (k 0)) (d (n "shank") (r "~0.0.1") (d #t) (k 0)) (d (n "solana-program") (r "~1.9.15") (d #t) (k 0)) (d (n "spl-token") (r "~3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "~1.0") (d #t) (k 0)))) (h "1phz76xgz7yxz9jv2qpy1yxjlg8qn6fp428m0k0zr4ckhscrny1n") (f (quote (("test-bpf") ("no-entrypoint"))))))
+
+(define-public crate-mpl-token-vault-0.2.0 (c (n "mpl-token-vault") (v "0.2.0") (d (list (d (n "borsh") (r "^0.9.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "shank") (r "^0.0.9") (d #t) (k 0)) (d (n "solana-program") (r "^1.10") (d #t) (k 0)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0qfcgsw8l7gqp1b851icj156czxhk8zhhyw6m27nq4a028lmmwij") (f (quote (("test-bpf") ("no-entrypoint"))))))
+

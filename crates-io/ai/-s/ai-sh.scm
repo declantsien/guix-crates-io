@@ -1,0 +1,8 @@
+(define-module (crates-io ai -s ai-sh) #:use-module (crates-io))
+
+(define-public crate-ai-sh-0.1.0 (c (n "ai-sh") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "openai-api-stream-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "044xrwxr8agh7kn4y83ajdfdfx34zxv695g1ika01lsq0vpj0gmi")))
+
+(define-public crate-ai-sh-0.1.2 (c (n "ai-sh") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "openai-api-stream-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0d0a8qf4bipbskl6gv9gcrywfxwz7maqgb61rb63qa1l9l2pqkq0")))
+
+(define-public crate-ai-sh-0.1.3 (c (n "ai-sh") (v "0.1.3") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "openai-api-stream-rs") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "07a7vk2ahmzm9gpab5lmhf54h7s2zdgv2ydivz3q89al1cjx5j53")))
+

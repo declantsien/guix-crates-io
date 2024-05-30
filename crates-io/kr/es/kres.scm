@@ -1,0 +1,6 @@
+(define-module (crates-io kr es kres) #:use-module (crates-io))
+
+(define-public crate-kres-0.1.0 (c (n "kres") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.43.1") (d #t) (k 1)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "cc") (r "^1.0.25") (d #t) (k 1)) (d (n "dnssector") (r "^0.1.2") (d #t) (k 2)) (d (n "jemallocator") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "socket2") (r "^0.3.8") (d #t) (k 0)))) (h "1gmv5frvzrr3n5884w5rpr2fwkyb873imikx7bnhll7y1mr9pvf8") (f (quote (("static") ("jemalloc" "jemallocator") ("default")))) (l "kres")))
+
+(define-public crate-kres-0.1.1 (c (n "kres") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.43.1") (d #t) (k 1)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "cc") (r "^1.0.25") (d #t) (k 1)) (d (n "dnssector") (r "^0.1.3") (d #t) (k 2)) (d (n "jemallocator") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.43") (d #t) (k 0)) (d (n "parking_lot") (r "^0.6") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "socket2") (r "^0.3.8") (d #t) (k 0)))) (h "1rv0x3q3dn716hhkw31ppk92lnsfbirnn2vsicbxq35im46sjsh8") (f (quote (("static") ("jemalloc" "jemallocator") ("default")))) (l "kres")))
+

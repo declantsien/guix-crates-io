@@ -1,0 +1,8 @@
+(define-module (crates-io bp #{-i}# bp-invoice) #:use-module (crates-io))
+
+(define-public crate-bp-invoice-0.11.0-beta.3 (c (n "bp-invoice") (v "0.11.0-beta.3") (d (list (d (n "amplify") (r "^4.5.0") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.13.0") (d #t) (k 0)) (d (n "bp-consensus") (r "^0.11.0-beta.3") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "13vysxipmdxrkfpzj1vp01is96xaidb11c5knxqj72xmhzxvfh1a") (f (quote (("serde" "serde_crate" "bp-consensus/serde") ("default") ("all")))) (r "1.67")))
+
+(define-public crate-bp-invoice-0.11.0-beta.4 (c (n "bp-invoice") (v "0.11.0-beta.4") (d (list (d (n "amplify") (r "^4.6.0") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.13.0") (d #t) (k 0)) (d (n "bp-consensus") (r "^0.11.0-beta.4") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "0am03bblfbpwzj8vlsargg3d00rd3yw4k0xzsb26a1da35w8a89v") (f (quote (("serde" "serde_crate" "bp-consensus/serde") ("default") ("all")))) (r "1.69.0")))
+
+(define-public crate-bp-invoice-0.11.0-beta.5 (c (n "bp-invoice") (v "0.11.0-beta.5") (d (list (d (n "amplify") (r "^4.6.0") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.13.0") (d #t) (k 0)) (d (n "bp-consensus") (r "^0.11.0-beta.5") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "120p9689raa5fih275ahd6vc7drwmwnw84qpnl1d0jwjza3h7vj8") (f (quote (("serde" "serde_crate" "bp-consensus/serde") ("default") ("all")))) (r "1.69.0")))
+

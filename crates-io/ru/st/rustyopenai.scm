@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rustyopenai) #:use-module (crates-io))
+
+(define-public crate-rustyopenai-0.1.0 (c (n "rustyopenai") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("stream" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_with") (r "^3.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)))) (h "172wwzy11iz1al0agxji3idhqg7bavxl1qbb2wfa41vy87pr07pa")))
+

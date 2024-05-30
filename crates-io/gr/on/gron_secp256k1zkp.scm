@@ -1,0 +1,4 @@
+(define-module (crates-io gr on gron_secp256k1zkp) #:use-module (crates-io))
+
+(define-public crate-gron_secp256k1zkp-0.7.12 (c (n "gron_secp256k1zkp") (v "0.7.12") (d (list (d (n "arrayvec") (r "^0.3") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "chrono") (r "^0.4.5") (d #t) (k 2)) (d (n "clippy") (r "^0.0") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "rand_core") (r "^0.2") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "zeroize") (r "^1.1") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "0v409wgx2vhqrhhsss2w1g72sxxwzgzldr3krywbp5iy4240sxp3") (f (quote (("unstable") ("dev" "clippy") ("default") ("bullet-proof-sizing"))))))
+

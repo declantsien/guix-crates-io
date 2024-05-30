@@ -1,0 +1,24 @@
+(define-module (crates-io ji sh jisho) #:use-module (crates-io))
+
+(define-public crate-jisho-0.1.0 (c (n "jisho") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13.0") (d #t) (k 0)))) (h "098n3l08f1lxdbhiv5b8av2mi1qr884cirdvzrrmmqd6flisf5v4")))
+
+(define-public crate-jisho-0.1.1 (c (n "jisho") (v "0.1.1") (d (list (d (n "lazy_static") (r ">=1.4.0, <2.0.0") (d #t) (k 0)) (d (n "roxmltree") (r ">=0.13.0, <0.14.0") (d #t) (k 0)))) (h "1wh83mz14kikq7ksrvw21lq6ivz23856z3h29hcq1503cwc8ygni")))
+
+(define-public crate-jisho-0.1.2 (c (n "jisho") (v "0.1.2") (d (list (d (n "lazy_static") (r ">=1.4.0, <2.0.0") (d #t) (k 0)) (d (n "roxmltree") (r ">=0.13.0, <0.14.0") (d #t) (k 0)))) (h "0iwziyxzyp7bmxj0nyzqijfj6jm78s0qbp2sqzq2fda672zh9477")))
+
+(define-public crate-jisho-0.1.3 (c (n "jisho") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.13.0") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "1azw02yqbcfjy2mlf4ly2dxwa5jvwgc9s1l46wak6hq6zh04dzyc")))
+
+(define-public crate-jisho-0.1.4 (c (n "jisho") (v "0.1.4") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.17.0") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "1wji2hrwymv461q4hqvlqh2krydd1pbh5k6agw6f2yr1zhaf1ja2")))
+
+(define-public crate-jisho-0.1.5 (c (n "jisho") (v "0.1.5") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.17.0") (d #t) (k 1)) (d (n "rustyline") (r "^10.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "0r22yvzvwxdcf5aw5lvld2dva364bz6xmlkjinvfhbck1ivbsi1g")))
+
+(define-public crate-jisho-0.1.6 (c (n "jisho") (v "0.1.6") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.17.0") (d #t) (k 1)) (d (n "rustyline") (r "^10.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "0v70p1vfsa1rqgfifcj7nwm42i8h10jzmh1x944hijlsl4144np2")))
+
+(define-public crate-jisho-0.1.7 (c (n "jisho") (v "0.1.7") (d (list (d (n "flate2") (r "^1.0.28") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 1)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "0q5k1041p3w8x4z9xhzxc6yinfi5l5ibw52p32kcqa2r686w8h5r")))
+
+(define-public crate-jisho-0.2.0 (c (n "jisho") (v "0.2.0") (d (list (d (n "flate2") (r "^1.0.28") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 1)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "rustyline") (r "^12.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "1z9xppclp01n3zxf5zkzv7d8q5d16pvr66kch6llx4hwfp7lpxzi")))
+
+(define-public crate-jisho-0.2.1 (c (n "jisho") (v "0.2.1") (d (list (d (n "flate2") (r "^1.0.28") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 1)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "rustyline") (r "^14.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "1l091d4dkaqdr8psncz4i0wfh3gl2shgpp2bfr7z4nnsyg56fap0")))
+
+(define-public crate-jisho-0.2.2 (c (n "jisho") (v "0.2.2") (d (list (d (n "flate2") (r "^1.0.28") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "roxmltree") (r "^0.19.0") (d #t) (k 1)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "rustyline") (r "^14.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "1d8hfa0d28sm0s6lbibrqgs652xfr0khjvczx3rm2zd1mlhcpgvs")))
+

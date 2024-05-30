@@ -1,0 +1,14 @@
+(define-module (crates-io mi st misty-vm) #:use-module (crates-io))
+
+(define-public crate-misty-vm-0.1.0 (c (n "misty-vm") (v "0.1.0") (d (list (d (n "misty-vm-macro") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "07xib7c88s22dk07akpbfin27jhhqlq5wjbq092kkdx890b35pzx")))
+
+(define-public crate-misty-vm-0.1.1 (c (n "misty-vm") (v "0.1.1") (d (list (d (n "misty-vm-macro") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "16dg2x9d3j3br43ch8fmjnmafiwqlcnzkb3yh4vv7xbaci8r2y8f")))
+
+(define-public crate-misty-vm-0.1.2 (c (n "misty-vm") (v "0.1.2") (d (list (d (n "misty-vm-macro") (r "^0.1.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1ahc0r0y057cvi58yvf1q11mjf8caqjqxvigw81ki2cjknspkfbi")))
+
+(define-public crate-misty-vm-0.1.3 (c (n "misty-vm") (v "0.1.3") (d (list (d (n "misty-vm-macro") (r "^0.1.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1mw4kswglrwgjd9fjx9wf82pj3qfbi29sq0n60pbsxp5djgqm0db")))
+
+(define-public crate-misty-vm-0.1.4 (c (n "misty-vm") (v "0.1.4") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "misty-vm-macro") (r "^0.1.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1g2pr4lnljd3s13kpj06g38ip087qsv4hjs5qxg4bbv93gsp4rvb")))
+
+(define-public crate-misty-vm-0.1.5 (c (n "misty-vm") (v "0.1.5") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "misty-vm-macro") (r "^0.1.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0fq83dzxlskbarjkcpb8188qspcrz2xrhjnjxwcnwsk1i87kgsxh")))
+

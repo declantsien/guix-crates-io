@@ -1,0 +1,4 @@
+(define-module (crates-io fe os feos-pets) #:use-module (crates-io))
+
+(define-public crate-feos-pets-0.1.0 (c (n "feos-pets") (v "0.1.0") (d (list (d (n "approx") (r "^0.4") (d #t) (k 2)) (d (n "feos-core") (r "^0.2") (d #t) (k 0)) (d (n "feos-dft") (r "^0.2") (d #t) (k 0)) (d (n "indexmap") (r "^1.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx"))) (d #t) (k 0)) (d (n "num-dual") (r "^0.5") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "numpy") (r "^0.16") (o #t) (d #t) (k 0)) (d (n "pyo3") (r "^0.16") (o #t) (d #t) (k 0)) (d (n "quantity") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "040dgnr1yvzqxa8apwxrwhgv192lw8hpfs32qlriyikm30828yws") (f (quote (("python" "pyo3" "quantity/python" "feos-core/python" "feos-dft/python" "numpy") ("default"))))))
+

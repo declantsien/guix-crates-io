@@ -1,0 +1,4 @@
+(define-module (crates-io ha gg haggl) #:use-module (crates-io))
+
+(define-public crate-haggl-0.1.0 (c (n "haggl") (v "0.1.0") (d (list (d (n "actix") (r "^0.13.1") (d #t) (k 0)) (d (n "actix-codec") (r "^0.5.1") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "awc") (r "^3.2.0") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "eframe") (r "^0.23.0") (f (quote ("glow"))) (k 0)) (d (n "egui") (r "^0.23.0") (d #t) (k 0)) (d (n "egui_plot") (r "^0.23.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0574flidzvvsaq5pj8j3j2a3y1kyw0x5dlqif0xnxm0qkd4gc07d")))
+

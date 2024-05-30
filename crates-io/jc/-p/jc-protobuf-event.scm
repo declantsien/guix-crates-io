@@ -1,0 +1,40 @@
+(define-module (crates-io jc -p jc-protobuf-event) #:use-module (crates-io))
+
+(define-public crate-jc-protobuf-event-1.0.20 (c (n "jc-protobuf-event") (v "1.0.20") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "0d71y3kpl93bi2pzli48n4lk9nj1ni037zwmksc4w54rb12bqa4i")))
+
+(define-public crate-jc-protobuf-event-1.0.21 (c (n "jc-protobuf-event") (v "1.0.21") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "0af6hmqx5fi98hjvivhhdzxk6mvlsj7h8k19l5zc7k06nspy83gh")))
+
+(define-public crate-jc-protobuf-event-1.0.22 (c (n "jc-protobuf-event") (v "1.0.22") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1vydlhwmnl8mvdr79dy35a2zwj1f3v1nicg7m4i1j57rzb1rvg06")))
+
+(define-public crate-jc-protobuf-event-1.0.23 (c (n "jc-protobuf-event") (v "1.0.23") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1wj04ah699wynm9iifl1138gdl8sh84q7br7wzlp3v0xrdix5ca6")))
+
+(define-public crate-jc-protobuf-event-1.0.24 (c (n "jc-protobuf-event") (v "1.0.24") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1a0warw28lychvn6w0468anhw91dh7ns8sy7gi1gyyrcn674m2k2")))
+
+(define-public crate-jc-protobuf-event-1.0.25 (c (n "jc-protobuf-event") (v "1.0.25") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1bz5dn6jahsjcn1pjvk1pszxcx8qx32jls02lrs0jw7ab4ps3b5x")))
+
+(define-public crate-jc-protobuf-event-1.0.26 (c (n "jc-protobuf-event") (v "1.0.26") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "10fkps7dzys63imr2zcwi630bhsw5wa4qnd9jgkqpdiczns3yrch")))
+
+(define-public crate-jc-protobuf-event-1.0.27 (c (n "jc-protobuf-event") (v "1.0.27") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1hcyfsi213vzc3qh8xb6bpgl4ffa5l1mryipqgjjfgi0bci8nblz")))
+
+(define-public crate-jc-protobuf-event-1.0.28 (c (n "jc-protobuf-event") (v "1.0.28") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "07fpbgnzwakknbkvz5ha56ak53dz6gjhlyfa23i82n63xjl3v2k9")))
+
+(define-public crate-jc-protobuf-event-1.0.29 (c (n "jc-protobuf-event") (v "1.0.29") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1rkkx588723qcnk0nr350grjlycv4cbf82zmjf95lr2aqczdqwx7")))
+
+(define-public crate-jc-protobuf-event-1.0.30 (c (n "jc-protobuf-event") (v "1.0.30") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "18jd9cf33kbbwxqx3924bllaymd58gizm2df9kavr2m14nkd9mz4")))
+
+(define-public crate-jc-protobuf-event-1.0.31 (c (n "jc-protobuf-event") (v "1.0.31") (d (list (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)) (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)))) (h "1zjfh8c66cid7bvmd2vimdpkalhaliyn96bwjcs5cyqjr3f96c0l")))
+
+(define-public crate-jc-protobuf-event-1.0.32 (c (n "jc-protobuf-event") (v "1.0.32") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "03n11p44maxwvg961874j43cbyfc6pm2f1dis6xh83b6pf9130sw")))
+
+(define-public crate-jc-protobuf-event-1.0.33 (c (n "jc-protobuf-event") (v "1.0.33") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "1f3h7hqy7gj72pshizn7cy46gid1pj0fgb4k6n3vz8z5y236q898")))
+
+(define-public crate-jc-protobuf-event-1.0.34 (c (n "jc-protobuf-event") (v "1.0.34") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0xlsqlfwghvi8zsblxl4l8vamakx0y5dq21s4pkfz58p6n59kfmf")))
+
+(define-public crate-jc-protobuf-event-1.0.35 (c (n "jc-protobuf-event") (v "1.0.35") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0cahybhy0av0gijf81hyvxrsfby9svx1g1rzwnmx5qsnr3xl40hx")))
+
+(define-public crate-jc-protobuf-event-1.0.36 (c (n "jc-protobuf-event") (v "1.0.36") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "1bb84ni9wx5vm5g628262rqpn4smg8zxgi3jgfmf5f3djf22l2ay")))
+
+(define-public crate-jc-protobuf-event-1.0.37 (c (n "jc-protobuf-event") (v "1.0.37") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "022ww71zvds9b135p47588jscll4wi6mpxq5k8c4pgyjdghrxnbn")))
+
+(define-public crate-jc-protobuf-event-1.0.38 (c (n "jc-protobuf-event") (v "1.0.38") (d (list (d (n "grpc-build-core") (r "^0.2.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "grpc-build") (r "^4.2.0") (d #t) (k 1)))) (h "0x9ibhkrn3nm3y05k8vx9924k3axxd2jpy6yn56fim74fi4980vb")))
+

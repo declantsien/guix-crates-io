@@ -1,0 +1,22 @@
+(define-module (crates-io si gn signify) #:use-module (crates-io))
+
+(define-public crate-signify-0.1.0 (c (n "signify") (v "0.1.0") (d (list (d (n "base64") (r "^0.2.0") (d #t) (k 0)) (d (n "byteorder") (r "^0.5.3") (d #t) (k 0)) (d (n "docopt") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)))) (h "0dfdkz9qqvf14lj74841i4v80jq12wyvipy648p3c4anzrpnfbnn")))
+
+(define-public crate-signify-0.2.0 (c (n "signify") (v "0.2.0") (d (list (d (n "base64") (r "^0.2.0") (d #t) (k 0)) (d (n "byteorder") (r "^0.5.3") (d #t) (k 0)) (d (n "docopt") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "rpassword") (r "^0.2.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)))) (h "1gafdbchllg8n9wdys47pq1arla6cdydd5r4d4x061g3m3pvjdyb")))
+
+(define-public crate-signify-0.3.0 (c (n "signify") (v "0.3.0") (d (list (d (n "base64") (r "^0.2.0") (d #t) (k 0)) (d (n "byteorder") (r "^0.5.3") (d #t) (k 0)) (d (n "docopt") (r "^0.6") (d #t) (k 0)) (d (n "error-chain") (r "^0.5.0") (d #t) (k 0)) (d (n "ring") (r "^0.4.3") (d #t) (k 0)) (d (n "rpassword") (r "^0.2.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "untrusted") (r "^0.3.1") (d #t) (k 0)))) (h "1dijm3dfy8adkgcdwa698p0330zji9dgq03pizp5ykigsk7qjs0v")))
+
+(define-public crate-signify-0.4.0 (c (n "signify") (v "0.4.0") (d (list (d (n "base64") (r "^0.2.0") (d #t) (k 0)) (d (n "byteorder") (r "^0.5.3") (d #t) (k 0)) (d (n "docopt") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "ring") (r "^0.12") (d #t) (k 0)) (d (n "rpassword") (r "^0.2.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "untrusted") (r "^0.5") (d #t) (k 0)))) (h "011jx6qyrs4m6awfc549ldpc1cyv003h3jsirn89b12cpd6fdcim")))
+
+(define-public crate-signify-0.4.1 (c (n "signify") (v "0.4.1") (d (list (d (n "base64") (r "^0.2.0") (d #t) (k 0)) (d (n "byteorder") (r "^0.5.3") (d #t) (k 0)) (d (n "docopt") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "ring") (r "^0.12") (d #t) (k 0)) (d (n "rpassword") (r "^0.2.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.19") (d #t) (k 0)) (d (n "untrusted") (r "^0.5") (d #t) (k 0)))) (h "1lm2y7va7z84wyqz80g0fy612w2cik468wl887z36g98snd533zz")))
+
+(define-public crate-signify-0.5.0 (c (n "signify") (v "0.5.0") (d (list (d (n "clap") (r "^3.0.0") (f (quote ("cargo" "derive" "std"))) (k 0)) (d (n "libsignify") (r "^0.5.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^5") (d #t) (k 0)))) (h "1bc2xni2l3z15ny0gxr5ipnmp996rmq9kh8ys6wq1mrskwg5pkxr")))
+
+(define-public crate-signify-0.5.1 (c (n "signify") (v "0.5.1") (d (list (d (n "clap") (r "^3.0.0") (f (quote ("cargo" "derive" "std"))) (k 0)) (d (n "libsignify") (r "^0.5.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^5") (d #t) (k 0)))) (h "1qhhq1smdwcblyb0dgkqpx7f36i946yhbn5a705jpv3n32q71ny8")))
+
+(define-public crate-signify-0.5.2 (c (n "signify") (v "0.5.2") (d (list (d (n "clap") (r "^3.0.0") (f (quote ("cargo" "derive" "std"))) (k 0)) (d (n "libsignify") (r "^0.5.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^5") (d #t) (k 0)))) (h "1rx3y4wi14i8001l8vzn5c033lwnsr8r2ixbjr863px8xnafjzjz")))
+
+(define-public crate-signify-0.5.3 (c (n "signify") (v "0.5.3") (d (list (d (n "clap") (r "^3.0.0") (f (quote ("cargo" "derive" "std"))) (k 0)) (d (n "libsignify") (r "^0.5.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^5") (d #t) (k 0)))) (h "0hnxbpcwh73r904989lqspny3qnq5cadjas8j2r3qhjzpyldwv4x")))
+
+(define-public crate-signify-0.6.0 (c (n "signify") (v "0.6.0") (d (list (d (n "clap") (r "^4.4.0") (f (quote ("cargo" "derive" "std"))) (k 0)) (d (n "libsignify") (r "^0.6.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rpassword") (r "^7") (k 0)))) (h "0l0n6pzb38ax2sdgvxh7ip61pxsw37jwsxpjlqw03p0qj3kw2ywl")))
+

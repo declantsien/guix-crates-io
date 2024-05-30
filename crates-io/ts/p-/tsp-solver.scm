@@ -1,0 +1,6 @@
+(define-module (crates-io ts p- tsp-solver) #:use-module (crates-io))
+
+(define-public crate-tsp-solver-0.0.0 (c (n "tsp-solver") (v "0.0.0") (d (list (d (n "ndarray") (r "^0.15.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("serde" "small_rng"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "14lj09xf2qhrfm57xj0bzb10zp4sx7ns8cwi45hy7kr49rvl1ybp") (f (quote (("default"))))))
+
+(define-public crate-tsp-solver-0.0.1 (c (n "tsp-solver") (v "0.0.1") (d (list (d (n "gen-iter") (r "^0.3.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("serde" "small_rng"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0nh3r88n60dhralx506xsbngnaq795a3wqz22wnshp3kzs7i82g8") (f (quote (("default"))))))
+

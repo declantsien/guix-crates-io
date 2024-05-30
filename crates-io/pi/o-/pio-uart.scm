@@ -1,0 +1,8 @@
+(define-module (crates-io pi o- pio-uart) #:use-module (crates-io))
+
+(define-public crate-pio-uart-0.1.0 (c (n "pio-uart") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "defmt") (r "^0.3.5") (d #t) (k 0)) (d (n "embedded-io") (r "^0.6.1") (d #t) (k 0)) (d (n "fugit") (r "^0.3.7") (d #t) (k 0)) (d (n "pio") (r "^0.2.1") (d #t) (k 0)) (d (n "pio-proc") (r "^0.2.2") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.9.1") (d #t) (k 0)))) (h "10iv67w7l28vgbk0719nx7lpi42bm6w8bray8zm33x0qk4992cwi")))
+
+(define-public crate-pio-uart-0.2.0 (c (n "pio-uart") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (d #t) (k 0)) (d (n "embedded-io") (r "^0.6.1") (d #t) (k 0)) (d (n "fugit") (r "^0.3.7") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "pio") (r "^0.2.1") (d #t) (k 0)) (d (n "pio-proc") (r "^0.2.2") (d #t) (k 0)) (d (n "rp-pico") (r "^0.8.0") (d #t) (k 2)) (d (n "rp2040-hal") (r "^0.9.1") (d #t) (k 0)))) (h "0y9i1pndsq63pyb118kv2p1qhv0vwks6q350f5f17kfnx0ccm6ip")))
+
+(define-public crate-pio-uart-0.2.1 (c (n "pio-uart") (v "0.2.1") (d (list (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (d #t) (k 0)) (d (n "embedded-io") (r "^0.6.1") (d #t) (k 0)) (d (n "fugit") (r "^0.3.7") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "pio") (r "^0.2.1") (d #t) (k 0)) (d (n "pio-proc") (r "^0.2.2") (d #t) (k 0)) (d (n "rp-pico") (r "^0.8.0") (d #t) (k 2)) (d (n "rp2040-hal") (r "^0.9.1") (d #t) (k 0)))) (h "15ac4m97w08j1g2gd6j70jdkc4jc9gfma5z2gli4sva4dizydydq")))
+

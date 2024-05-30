@@ -1,0 +1,4 @@
+(define-module (crates-io li bw libwgslirpy) #:use-module (crates-io))
+
+(define-public crate-libwgslirpy-0.2.0 (c (n "libwgslirpy") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "boringtun") (r "^0.6.0") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.0") (d #t) (k 0)) (d (n "simple-dns") (r "^0.5.3") (d #t) (k 0)) (d (n "smoltcp") (r "^0.10.0") (f (quote ("socket" "socket-tcp" "socket-udp" "std" "proto-ipv4" "proto-ipv4-fragmentation" "proto-ipv6" "fragmentation-buffer-size-65536" "assembler-max-segment-count-32" "log" "medium-ip"))) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "net" "sync" "macros" "io-util" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0dxsbs0518rmb5j15bmig47hzs1hq96215pvkbdjzq5wrjg004cl")))
+

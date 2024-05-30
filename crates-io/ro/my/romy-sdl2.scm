@@ -1,0 +1,4 @@
+(define-module (crates-io ro my romy-sdl2) #:use-module (crates-io))
+
+(define-public crate-romy-sdl2-0.32.2 (c (n "romy-sdl2") (v "0.32.2") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "c_vec") (r ">= 1.0, <= 1.3") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "sdl2-sys") (r "^0.32") (d #t) (k 0)))) (h "138qgl7ncvskyli9mj43hcqbnbq3bjrkayarzz5ssr1ziy2kks8d") (f (quote (("use_mac_framework" "sdl2-sys/use_mac_framework") ("use-pkgconfig" "sdl2-sys/use-pkgconfig") ("use-bindgen" "sdl2-sys/use-bindgen") ("unsafe_textures") ("ttf" "sdl2-sys/ttf") ("static-link" "sdl2-sys/static-link") ("mixer" "sdl2-sys/mixer") ("image" "sdl2-sys/image") ("gfx" "c_vec" "sdl2-sys/gfx") ("default") ("bundled" "sdl2-sys/bundled")))) (y #t)))
+

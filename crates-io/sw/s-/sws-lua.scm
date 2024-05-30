@@ -1,0 +1,4 @@
+(define-module (crates-io sw s- sws-lua) #:use-module (crates-io))
+
+(define-public crate-sws-lua-0.1.0 (c (n "sws-lua") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "csv") (r "^1") (d #t) (k 0)) (d (n "fs-err") (r "^2") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.9") (f (quote ("luajit" "vendored" "serialize"))) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sws-crawler") (r "^0.1") (d #t) (k 0)) (d (n "sws-scraper") (r "^0.2") (d #t) (k 0)) (d (n "texting_robots") (r "^0.2") (d #t) (k 0)))) (h "1gw2igahnnlkqdwr9mb2pd0ibagxqxg7s4fal6wymx7rr7k7h0hm")))
+

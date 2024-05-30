@@ -1,0 +1,4 @@
+(define-module (crates-io sw ap swapkit-rs) #:use-module (crates-io))
+
+(define-public crate-swapkit-rs-0.0.1 (c (n "swapkit-rs") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0") (d #t) (k 0)) (d (n "reqwest") (r "^0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (f (quote ("serde" "serde-str" "serde-float"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde-aux") (r "^4") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0") (d #t) (k 0)) (d (n "serde_with") (r "^3") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0") (d #t) (k 2)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0rskh8p58mn7678xfcgxxz7pyd7ykggb6l64zd4zpsaf86zcgr61")))
+

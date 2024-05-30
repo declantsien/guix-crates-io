@@ -1,0 +1,6 @@
+(define-module (crates-io te st test-bitcoincore-rpc) #:use-module (crates-io))
+
+(define-public crate-test-bitcoincore-rpc-0.0.0 (c (n "test-bitcoincore-rpc") (v "0.0.0") (d (list (d (n "bitcoin") (r "^0.28.1") (f (quote ("use-serde"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "jsonrpc-core") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-core-client") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-derive") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-http-server") (r "^18.0.0") (d #t) (k 0)))) (h "1zd9gr4sw4lkqv6gg1kadaxrnqj5bri1v6z8xcan49gkcq4f221j")))
+
+(define-public crate-test-bitcoincore-rpc-0.0.1 (c (n "test-bitcoincore-rpc") (v "0.0.1") (d (list (d (n "bitcoin") (r "^0.29.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "bitcoincore-rpc") (r "^0.16.0") (d #t) (k 0)) (d (n "bitcoincore-rpc-json") (r "^0.16.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "jsonrpc-core") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-core-client") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-derive") (r "^18.0.0") (d #t) (k 0)) (d (n "jsonrpc-http-server") (r "^18.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "16m7ifsz4b56m1skhqfphc00j3irg7qxap2d6n26k98vjha7p22r")))
+

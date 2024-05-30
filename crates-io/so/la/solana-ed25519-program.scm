@@ -1,0 +1,32 @@
+(define-module (crates-io so la solana-ed25519-program) #:use-module (crates-io))
+
+(define-public crate-solana-ed25519-program-1.8.1 (c (n "solana-ed25519-program") (v "1.8.1") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.1") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.1") (d #t) (k 0)))) (h "1ssmq6ri0sc00wc17v24bwvh6b5jbf3pf767mnxrf2fhdzy9ibzc")))
+
+(define-public crate-solana-ed25519-program-1.8.2 (c (n "solana-ed25519-program") (v "1.8.2") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.2") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.2") (d #t) (k 0)))) (h "0x91mipspqxg2ss1w4wl9bvwf3a4ks96xwfyjpkia504dkcwlcrx")))
+
+(define-public crate-solana-ed25519-program-1.8.3 (c (n "solana-ed25519-program") (v "1.8.3") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.3") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.3") (d #t) (k 0)))) (h "1i48nalms3yca04siaqz38rfk0rc94i0bd50z4z64ahm22vbrs21")))
+
+(define-public crate-solana-ed25519-program-1.8.4 (c (n "solana-ed25519-program") (v "1.8.4") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.4") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.4") (d #t) (k 0)))) (h "14zrnfwfjw9dg0933n5xv3mhwhwiw9bw6dxc4jddks41r4k7lg98")))
+
+(define-public crate-solana-ed25519-program-1.8.5 (c (n "solana-ed25519-program") (v "1.8.5") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.5") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.5") (d #t) (k 0)))) (h "166xyjrijbrimzkfr9k9956za4m0npvwmbx2brcs36lxbbcm1l1n")))
+
+(define-public crate-solana-ed25519-program-1.8.6 (c (n "solana-ed25519-program") (v "1.8.6") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.6") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.6") (d #t) (k 0)))) (h "0rp7amxfdk179njlr0jnqnxrmaymza0wykz18c3g2jc517ldnpqa")))
+
+(define-public crate-solana-ed25519-program-1.8.7 (c (n "solana-ed25519-program") (v "1.8.7") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.7") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.7") (d #t) (k 0)))) (h "03fbsgsbx4hfaq2y8g3pfbcmilamarjcny33jb6rz35157dhc0cn")))
+
+(define-public crate-solana-ed25519-program-1.8.8 (c (n "solana-ed25519-program") (v "1.8.8") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.8") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.8") (d #t) (k 0)))) (h "17xq5lhscdpd3ap0c9qymj9pv49303cdhaqpgzs5gk743ybwalja")))
+
+(define-public crate-solana-ed25519-program-1.8.9 (c (n "solana-ed25519-program") (v "1.8.9") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.9") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.9") (d #t) (k 0)))) (h "1p8lwny3zx4ky8axyddigramag6xivyv8411rb23r6di134vcq3a")))
+
+(define-public crate-solana-ed25519-program-1.8.10 (c (n "solana-ed25519-program") (v "1.8.10") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.10") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.10") (d #t) (k 0)))) (h "1p3n09h2wk0pvw1nv5wc3257slldqvvmpvlv9jb4fbn8qa2ad9ws")))
+
+(define-public crate-solana-ed25519-program-1.8.11 (c (n "solana-ed25519-program") (v "1.8.11") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.11") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.11") (d #t) (k 0)))) (h "1svpkvl5nk1a7c70ddbrzxlbwc8sl2ph5bk8f0w99cn4rq93f636")))
+
+(define-public crate-solana-ed25519-program-1.8.12 (c (n "solana-ed25519-program") (v "1.8.12") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.12") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.12") (d #t) (k 0)))) (h "184wfhqhgxb0074dy8rafgq123099i514zh99lpsk4178a1rn4lm")))
+
+(define-public crate-solana-ed25519-program-1.8.13 (c (n "solana-ed25519-program") (v "1.8.13") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.13") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.13") (d #t) (k 0)))) (h "1ivj3dyi6g9m48l8nl46z5zgygvlxwhjqaq0g0agszyhds0qn8zf")))
+
+(define-public crate-solana-ed25519-program-1.8.14 (c (n "solana-ed25519-program") (v "1.8.14") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.14") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.14") (d #t) (k 0)))) (h "169ybwbcw374gdr9izl4q073ycd3q76nyy6asqhbc8ib3lgrhacs")))
+
+(define-public crate-solana-ed25519-program-1.8.16 (c (n "solana-ed25519-program") (v "1.8.16") (d (list (d (n "bytemuck") (r "^1.7.2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "ed25519-dalek") (r "=1.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "solana-logger") (r "=1.8.16") (d #t) (k 2)) (d (n "solana-sdk") (r "=1.8.16") (d #t) (k 0)))) (h "1mm9r6imhpssrqz3fkr098fpfvsf0b8ac11jwyv2mkh5gx5fmkk1")))
+

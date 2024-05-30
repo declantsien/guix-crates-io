@@ -1,0 +1,4 @@
+(define-module (crates-io ai ch aichangelog) #:use-module (crates-io))
+
+(define-public crate-aichangelog-0.1.0 (c (n "aichangelog") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (d #t) (k 0)) (d (n "reqwest-eventsource") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "terminal-supports-emoji") (r "^0.1.3") (d #t) (k 0)) (d (n "tiktoken-rs") (r "^0.3.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (d #t) (k 0)))) (h "1x58x6qhg1mb7m40y8f5m2qab6k2mgk9vva33nrqkvzp4m5kpvfx")))
+

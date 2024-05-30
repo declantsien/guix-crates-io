@@ -1,0 +1,6 @@
+(define-module (crates-io di ox dioxus-resize-observer) #:use-module (crates-io))
+
+(define-public crate-dioxus-resize-observer-0.2.0-alpha.1 (c (n "dioxus-resize-observer") (v "0.2.0-alpha.1") (d (list (d (n "dioxus") (r "^0.5.0-alpha.2") (d #t) (k 0)) (d (n "dioxus-signals") (r "^0.5.0-alpha.2") (d #t) (k 0)) (d (n "dioxus-use-mounted") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "dioxus-web") (r "^0.5.0-alpha.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("ResizeObserver" "ResizeObserverEntry"))) (d #t) (k 0)))) (h "13cfnjbpmr01fq12a6b1gjpadgs7q8bl8rifi9v240qfxnip1qzb")))
+
+(define-public crate-dioxus-resize-observer-0.2.0 (c (n "dioxus-resize-observer") (v "0.2.0") (d (list (d (n "dioxus") (r "^0.5.0") (d #t) (k 0)) (d (n "dioxus-use-mounted") (r "^0.2.0") (d #t) (k 0)) (d (n "dioxus-web") (r "^0.5.0") (d #t) (k 2)) (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("Element" "DomRectReadOnly" "ResizeObserver" "ResizeObserverEntry"))) (d #t) (k 0)))) (h "0y7j6ad4a8ycd6qpxi9h0v6f8w279wwsbm3qsfvm2bs5dn1fwipb")))
+

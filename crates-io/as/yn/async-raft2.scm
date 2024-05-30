@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-raft2) #:use-module (crates-io))
+
+(define-public crate-async-raft2-0.6.1 (c (n "async-raft2") (v "0.6.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.9") (f (quote ("from"))) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "memstore") (r "^0.2.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "io-util" "macros" "rt" "rt-multi-thread" "sync" "time"))) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.4") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.10") (d #t) (k 2)))) (h "1r23wm8ff9iwfwbz4kdznsyvqg7px0xmqyrzhqmnklhrh3920a53") (f (quote (("docinclude"))))))
+

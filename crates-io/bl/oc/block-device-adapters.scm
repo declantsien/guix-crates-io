@@ -1,0 +1,4 @@
+(define-module (crates-io bl oc block-device-adapters) #:use-module (crates-io))
+
+(define-public crate-block-device-adapters-0.1.0 (c (n "block-device-adapters") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "block-device-driver") (r "^0.1") (d #t) (k 0)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "elain") (r "^0.3") (d #t) (k 0)) (d (n "embedded-io-adapters") (r "^0.6") (f (quote ("tokio-1"))) (d #t) (k 2) (p "embedded-io-adapters")) (d (n "embedded-io-async") (r "^0.6.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "rt-multi-thread" "macros" "io-util"))) (k 2)))) (h "00izfn257ag9agm7kssayfxzriiaganizkvga3ncq3cl2rfd0ywf") (s 2) (e (quote (("log" "dep:log") ("defmt" "dep:defmt")))) (r "1.75")))
+

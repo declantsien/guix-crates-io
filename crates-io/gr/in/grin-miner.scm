@@ -1,0 +1,4 @@
+(define-module (crates-io gr in grin-miner) #:use-module (crates-io))
+
+(define-public crate-grin-miner-0.4.2 (c (n "grin-miner") (v "0.4.2") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "bufstream") (r "~0.1") (d #t) (k 0)) (d (n "built") (r "^0.2") (d #t) (k 1)) (d (n "cuckoo_miner") (r "^0.4.2") (d #t) (k 0)) (d (n "cursive") (r "^0.9.0") (d #t) (k 0)) (d (n "grin_miner_config") (r "^0.4.2") (d #t) (k 0)) (d (n "grin_miner_plugin") (r "^0.4.2") (d #t) (k 0)) (d (n "grin_miner_util") (r "^0.4.2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "slog") (r "~2.1") (f (quote ("max_level_trace" "release_max_level_trace"))) (d #t) (k 0)) (d (n "term") (r "^0.4") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0zfv2ybyaakq6h8yaxd5q9pilkrgljrm8h68l5l3kj1x3m88rx5g")))
+

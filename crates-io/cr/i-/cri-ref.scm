@@ -1,0 +1,6 @@
+(define-module (crates-io cr i- cri-ref) #:use-module (crates-io))
+
+(define-public crate-cri-ref-0.0.1 (c (n "cri-ref") (v "0.0.1") (d (list (d (n "coap-message") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "coap-numbers") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "minicbor") (r "^0.18") (d #t) (k 0)) (d (n "no-std-net") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1mbnj3mfg0xp5im1yc36hw45iz3isn9clxb1frrzjspv8154flbj") (f (quote (("coap" "coap-message" "coap-numbers"))))))
+
+(define-public crate-cri-ref-0.0.2 (c (n "cri-ref") (v "0.0.2") (d (list (d (n "cbor-diag") (r "=0.1.9") (d #t) (k 0)) (d (n "coap-message") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "coap-numbers") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "minicbor") (r "^0.18") (d #t) (k 0)) (d (n "no-std-net") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0ha00r0ikc01x360piw3wji1ddhrgnrr4rz3s97jz7g57hhgqzan") (f (quote (("coap" "coap-message" "coap-numbers"))))))
+

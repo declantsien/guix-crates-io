@@ -1,0 +1,4 @@
+(define-module (crates-io te th tether-lidar2d-consolidation-rs) #:use-module (crates-io))
+
+(define-public crate-tether-lidar2d-consolidation-rs-0.3.1 (c (n "tether-lidar2d-consolidation-rs") (v "0.3.1") (d (list (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.2") (d #t) (k 0)) (d (n "petal-clustering") (r "^0.5.1") (d #t) (k 0)) (d (n "petal-neighbors") (r "^0.8.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tether-agent") (r "^0.12") (d #t) (k 0)))) (h "1xc9mva61bv3vgwz8qs52pqmbsiakagw65hi63ah3wswb7h5yl0f") (y #t)))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-dependabot-test) #:use-module (crates-io))
+
+(define-public crate-cargo-dependabot-test-0.4.10 (c (n "cargo-dependabot-test") (v "0.4.10") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1gpagsf8i01bz4ag2096kp21z4hc5mg3z325xpiycvzclw2m269h") (r "1.74.0")))
+
+(define-public crate-cargo-dependabot-test-0.4.11 (c (n "cargo-dependabot-test") (v "0.4.11") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0jdls6hxjynmc9z9zkk2h4fsliznib0yxpbb2ng9japhlssda04s") (r "1.74.0")))
+
+(define-public crate-cargo-dependabot-test-0.5.0 (c (n "cargo-dependabot-test") (v "0.5.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0xw3fx8mgbb30s8m1j7x1lgqydjsrnhbykhrcs5n2f5plm0di528") (r "1.74.0")))
+
+(define-public crate-cargo-dependabot-test-0.5.1 (c (n "cargo-dependabot-test") (v "0.5.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)))) (h "0r9fswvv2cwvkhmcxfw53rnfj72h6qn286w0nn8djdc1xmqvbi78") (r "1.74.0")))
+

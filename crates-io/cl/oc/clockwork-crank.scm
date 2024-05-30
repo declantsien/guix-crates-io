@@ -1,0 +1,8 @@
+(define-module (crates-io cl oc clockwork-crank) #:use-module (crates-io))
+
+(define-public crate-clockwork-crank-1.0.4 (c (n "clockwork-crank") (v "1.0.4") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.4") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.4") (f (quote ("cpi"))) (d #t) (k 0)))) (h "048wlgn53pmkfnsf97cyqf24g8ml05w46mhnmyqfz4f919za26fz") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-clockwork-crank-1.0.5 (c (n "clockwork-crank") (v "1.0.5") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.5") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.5") (f (quote ("cpi"))) (d #t) (k 0)))) (h "12jq6f9zy3acszli17jjk0apndc4yh290gbl9m7lsn0nmg4wdv39") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-clockwork-crank-1.0.6 (c (n "clockwork-crank") (v "1.0.6") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.6") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.6") (f (quote ("cpi"))) (d #t) (k 0)))) (h "1807psn62qwjl1bdvl3sb3mhcyzkfwyc2xkd2v2q5s00j8ishdgi") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

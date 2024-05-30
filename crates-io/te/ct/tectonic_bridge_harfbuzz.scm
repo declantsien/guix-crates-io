@@ -1,0 +1,22 @@
+(define-module (crates-io te ct tectonic_bridge_harfbuzz) #:use-module (crates-io))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.1.0 (c (n "tectonic_bridge_harfbuzz") (v "0.1.0") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r "^0.1.0") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r "^0.1.0") (d #t) (k 0)) (d (n "tectonic_dep_support") (r "^0.1.0") (d #t) (k 1)))) (h "0qahakh5aqzw4mpixwdf677l3w0n2k4lg0f35rb4pnssjjzfpwzq") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.0 (c (n "tectonic_bridge_harfbuzz") (v "0.2.0") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "0fdxg9yqbbhyd0qx60h9j489vfwif5gap5djd0jdnrc2x3vqkbcb") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.2 (c (n "tectonic_bridge_harfbuzz") (v "0.2.2") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "01f307014bndmby6prpygzkf7wxdxfrl36pvcw7s5mika7s7bw9k") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.3 (c (n "tectonic_bridge_harfbuzz") (v "0.2.3") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "1ixrjh8w2k7h577hlcr5mnh78b2b5jrrhqavq4cvlcav6yi19gip") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.4 (c (n "tectonic_bridge_harfbuzz") (v "0.2.4") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "0qvwvfr2qg5mawr435dv9gdn993prs7pgkf8p5qnnjraw1ny1q0m") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.5 (c (n "tectonic_bridge_harfbuzz") (v "0.2.5") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "1jfkdsfa6fks2q11hzkydrv8ahrsk7mrzmrklfdzn7wha0mnq4cj") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.6 (c (n "tectonic_bridge_harfbuzz") (v "0.2.6") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "039kvwr1j8iljzdyg10a8wx6va0aynkllvc5ajn4j96iq4ba9xcy") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.7 (c (n "tectonic_bridge_harfbuzz") (v "0.2.7") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "1drysksmqhzwkp6bd4b48068jqcnjkchcc8bw2dkq193glv373ib") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.8 (c (n "tectonic_bridge_harfbuzz") (v "0.2.8") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_bridge_icu") (r ">=0.2.0, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "18mn8yjrnh2dv7r40ipzj8qzqda09cn3c7dsl7134wv1whn42hvb") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+
+(define-public crate-tectonic_bridge_harfbuzz-0.2.9 (c (n "tectonic_bridge_harfbuzz") (v "0.2.9") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_graphite2") (r ">=0.2.1, <1") (d #t) (k 0)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "17mj3qks5nv0cc65h7h27j1kz3l5lib0krcai1mwdng72igmrypp") (f (quote (("external-harfbuzz")))) (l "harfbuzz")))
+

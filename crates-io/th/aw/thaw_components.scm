@@ -1,0 +1,14 @@
+(define-module (crates-io th aw thaw_components) #:use-module (crates-io))
+
+(define-public crate-thaw_components-0.0.1 (c (n "thaw_components") (v "0.0.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "leptos") (r "^0.6.9") (d #t) (k 0)) (d (n "thaw_utils") (r "^0.0.1") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1dabrk9jmflicbh0wmmi246g4ahzlim8f0af6szai02hj4b46zgv") (f (quote (("ssr" "leptos/ssr") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+
+(define-public crate-thaw_components-0.0.2 (c (n "thaw_components") (v "0.0.2") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "leptos") (r "^0.6.9") (d #t) (k 0)) (d (n "thaw_utils") (r "^0.0.1") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "03fd9jbx1d2jw5126aklgmrg5wd8xyx29a0y2998dcj6b2jz42vn") (f (quote (("ssr" "leptos/ssr") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+
+(define-public crate-thaw_components-0.0.3 (c (n "thaw_components") (v "0.0.3") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "leptos") (r "^0.6.10") (d #t) (k 0)) (d (n "thaw_utils") (r "^0.0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "07dkalxl3vjb96bzmzp6aw0fsxcmm84s0r2s3qkccvjdmy8pirik") (f (quote (("ssr" "leptos/ssr") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+
+(define-public crate-thaw_components-0.1.0 (c (n "thaw_components") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "leptos") (r "^0.6.10") (d #t) (k 0)) (d (n "thaw_utils") (r "^0.0.2") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "0r5i8l949wmjwk5x154zvil1954pqps1dxx0r765sg0g91znd9a5") (f (quote (("ssr" "leptos/ssr") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+
+(define-public crate-thaw_components-0.1.1 (c (n "thaw_components") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "leptos") (r "^0.6.10") (d #t) (k 0)) (d (n "thaw_utils") (r "^0.0.3") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "06rap3kmbbvfixbrg3d4vv538rgdc6q5c6dqm9mh043bg9ijw0vn") (f (quote (("ssr" "leptos/ssr") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+
+(define-public crate-thaw_components-0.1.2 (c (n "thaw_components") (v "0.1.2") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "leptos") (r "^0.6.10") (d #t) (k 0)) (d (n "thaw_utils") (r "^0.0.4") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.69") (f (quote ("DomRect"))) (d #t) (k 0)))) (h "1ikirjjsg7375bphn6dpchm63i2jrx1i55q3wdlvxz4c92h19dyp") (f (quote (("ssr" "leptos/ssr") ("hydrate" "leptos/hydrate") ("csr" "leptos/csr"))))))
+

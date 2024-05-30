@@ -1,0 +1,44 @@
+(define-module (crates-io mc -s mc-sgx-trts-sys) #:use-module (crates-io))
+
+(define-public crate-mc-sgx-trts-sys-0.1.0 (c (n "mc-sgx-trts-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.60.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.1.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.1.0") (d #t) (k 0)))) (h "0sf7xvgf416nadnzjd7mn8vnnvyxqp4810v5qrymg68b98i5c0as") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.2.0 (c (n "mc-sgx-trts-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.60.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.2.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.2.0") (d #t) (k 0)))) (h "1zjcb8g7lmykwc929sr0ad5y503pfcm6hl4s7r96kzf4rfcfb5i8") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.2.1 (c (n "mc-sgx-trts-sys") (v "0.2.1") (d (list (d (n "bindgen") (r "^0.60.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.2.1") (d #t) (k 0)))) (h "0ry718jarcy2xzzaydwsifmmfrw8gkwqv6qnp8in2xjj9i753hqi") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.3.0 (c (n "mc-sgx-trts-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.60.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.3.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.3.0") (d #t) (k 0)))) (h "1c69irkbi74i8nizznlnp51gwfjbgm3nx8mz142hva5rmalvdji2") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.4.0 (c (n "mc-sgx-trts-sys") (v "0.4.0") (d (list (d (n "bindgen") (r "^0.63.0") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.4.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.4.0") (d #t) (k 0)))) (h "1jamgfd2dfkllp9nqbiccwq3l3dw88nisjkzim7lx2ycnbi7j4l6") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.4.1 (c (n "mc-sgx-trts-sys") (v "0.4.1") (d (list (d (n "bindgen") (r "^0.63.0") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.4.1") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.4.1") (d #t) (k 0)))) (h "10cj4x5r6flyahybsgr11xw8c4ijmr0mbzvf205magds3qxxxj2v") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.4.2 (c (n "mc-sgx-trts-sys") (v "0.4.2") (d (list (d (n "bindgen") (r "^0.64.0") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.4.2") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.4.2") (d #t) (k 0)))) (h "1w8b6a6s0fcibf2mwmy78vj687fmwgvgnp2pk6l40hfz9qq8gmcn") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.5.0 (c (n "mc-sgx-trts-sys") (v "0.5.0") (d (list (d (n "bindgen") (r "^0.64.0") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.5.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.5.0") (d #t) (k 0)))) (h "07r8fizpkrmg84w9472b390g8q3bmyhzwp7ngq80b1zmwvc4v30n") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.6.0 (c (n "mc-sgx-trts-sys") (v "0.6.0") (d (list (d (n "bindgen") (r "^0.65.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.6.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.6.0") (d #t) (k 0)))) (h "1mf2kasnmksn6m80zq9yfa5hzdvcm2vaw6jzcqqbr5qm7b7b0fgy") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.6.1 (c (n "mc-sgx-trts-sys") (v "0.6.1") (d (list (d (n "bindgen") (r "^0.65.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.6.1") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.6.1") (d #t) (k 0)))) (h "010zwlrccc9i3zck22b99vgcdvp409ryfh60h6qi9w7yc19srl82") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.7.0 (c (n "mc-sgx-trts-sys") (v "0.7.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.7.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.7.0") (d #t) (k 0)))) (h "11p5iggmh0fm9366z574cv70n2qjy1ma7mk8zvz842w0a2v6f6az") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.7.1 (c (n "mc-sgx-trts-sys") (v "0.7.1") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.7.1") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.7.1") (d #t) (k 0)))) (h "0l00qpyiwgsmsg4sp8y95vk2d7pwymfbbfdylkk7hjyfax54hcxj") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.7.2 (c (n "mc-sgx-trts-sys") (v "0.7.2") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.7.2") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.7.2") (d #t) (k 0)))) (h "1crk7nnzpal4cdc7s4brsh8bg5zqc27n490x2zybc7nv3j4grb0z") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.7.3 (c (n "mc-sgx-trts-sys") (v "0.7.3") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.7.3") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.7.3") (d #t) (k 0)))) (h "1dk4azh6qqyjdbgx06wcblx5rd690j03g4j5na44mn58snjldlzz") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.7.4 (c (n "mc-sgx-trts-sys") (v "0.7.4") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.7.4") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.7.4") (d #t) (k 0)))) (h "02hh4f9j189afy5baxl08h47i7wy2ny6zz41a87vrn8hbplfdxzs") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.7.5 (c (n "mc-sgx-trts-sys") (v "0.7.5") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.7.5") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.7.5") (d #t) (k 0)))) (h "0m2k1k034p9i9xyig1q1zpis76n7b9jjbr0v25mxldl87wqv8i20") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.8.0 (c (n "mc-sgx-trts-sys") (v "0.8.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.8.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.8.0") (d #t) (k 0)))) (h "1q9wp52hc0fjyiv7ljb81cv1042df22qp741iw8ggi1vi6c7dpi3") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.9.0 (c (n "mc-sgx-trts-sys") (v "0.9.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.9.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.9.0") (d #t) (k 0)))) (h "0jpmcg8kdl1bgvni4p8ga12gnmq1f0v1zrkmrvbn2vacxzphvsf4") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.10.0 (c (n "mc-sgx-trts-sys") (v "0.10.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.10.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.10.0") (d #t) (k 0)))) (h "14ly4v5djqf4yw1vvricwq5g1msjmikyxfzkghj5z4qqkv5m7w6i") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.10.1 (c (n "mc-sgx-trts-sys") (v "0.10.1") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.10.1") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.10.1") (d #t) (k 0)))) (h "1c0aqb2vp9hi9b7zyhzksmkp4zam7a2a81fhgm21q5a6r6d6fr9c") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+
+(define-public crate-mc-sgx-trts-sys-0.11.0 (c (n "mc-sgx-trts-sys") (v "0.11.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "cargo-emit") (r "^0.2.1") (d #t) (k 1)) (d (n "mc-sgx-core-build") (r "=0.11.0") (d #t) (k 1)) (d (n "mc-sgx-core-sys-types") (r "=0.11.0") (d #t) (k 0)))) (h "18168j98cjip23igkhwwlqk3m44m9v8bwci30nxg59bahxh964sv") (f (quote (("sim") ("default")))) (l "sgx_trts") (r "1.62.1")))
+

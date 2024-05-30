@@ -1,0 +1,4 @@
+(define-module (crates-io r- tf r-tftpd-proxy) #:use-module (crates-io))
+
+(define-public crate-r-tftpd-proxy-0.1.0 (c (n "r-tftpd-proxy") (v "0.1.0") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "futures-core") (r "^0") (d #t) (k 0)) (d (n "httpdate") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "nix") (r "^0") (d #t) (k 0)) (d (n "reqwest") (r "^0") (f (quote ("default-tls" "gzip" "brotli" "deflate" "socks"))) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "net" "macros"))) (k 0)) (d (n "tracing") (r "^0") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1pd13qk10qlr3c6dih4c2g1pqsfsihgqi03bf7023pw7jz5mmhps") (f (quote (("legacy_rust_166"))))))
+

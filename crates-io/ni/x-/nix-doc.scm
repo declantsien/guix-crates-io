@@ -1,0 +1,14 @@
+(define-module (crates-io ni x- nix-doc) #:use-module (crates-io))
+
+(define-public crate-nix-doc-0.2.1 (c (n "nix-doc") (v "0.2.1") (d (list (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rnix") (r "^0.8.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.12.1") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "1f8w17dlr0mnwlvfs22mf3dxz1a1s6lq9pmp57yr5lwzvijhpfnf")))
+
+(define-public crate-nix-doc-0.2.2 (c (n "nix-doc") (v "0.2.2") (d (list (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rnix") (r "^0.8.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.12.1") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "1bj3j53l435i5mqigh83hw4blf8m18g3mikbhqfajnr1n6ih63gk")))
+
+(define-public crate-nix-doc-0.3.0 (c (n "nix-doc") (v "0.3.0") (d (list (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rnix") (r "^0.8.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.12.1") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "12rzv1ribzm39yx231x4hk4kb217vi0x7gikafpjrfp1mv7qyias")))
+
+(define-public crate-nix-doc-0.5.0 (c (n "nix-doc") (v "0.5.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "expect-test") (r "^1.1.0") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rnix") (r "^0.8.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "061srx9zm7g0308wm4brwis83l9kxbggapggr5l9dpyy8d59lw84")))
+
+(define-public crate-nix-doc-0.5.1 (c (n "nix-doc") (v "0.5.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "expect-test") (r "^1.1.0") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rnix") (r "^0.8.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "1n68yrahn9wx9n06za9hncah9img106mmca8h8vyd85zniinm8bp")))
+
+(define-public crate-nix-doc-0.5.3 (c (n "nix-doc") (v "0.5.3") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "colorful") (r "^0.2.1") (d #t) (k 0)) (d (n "expect-test") (r "^1.1.0") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "rnix") (r "^0.8.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "0n71k0vs09bv8n2hyxak3xagdml484biagjs35rs7p5bck65vl14")))
+

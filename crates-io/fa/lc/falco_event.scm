@@ -1,0 +1,6 @@
+(define-module (crates-io fa lc falco_event) #:use-module (crates-io))
+
+(define-public crate-falco_event-0.1.0 (c (n "falco_event") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "falco_event_derive") (r "^0.1") (d #t) (k 0)) (d (n "falco_plugin_api") (r "^0.1") (d #t) (k 0)) (d (n "hexdump") (r "^0.1.1") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1cyjssw0gi3lzwcgiv7y32qw0q81jnci1pwgbklhgg73dmvzk4bp")))
+
+(define-public crate-falco_event-0.1.1 (c (n "falco_event") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "falco_event_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "falco_plugin_api") (r "^0.1.1") (d #t) (k 0)) (d (n "hexdump") (r "^0.1.1") (d #t) (k 2)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1nxm1djb618yrfcg9dqkpcxfgr8l6nwvv80z7q5clh8k1ddbd9rk")))
+

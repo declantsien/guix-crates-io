@@ -1,0 +1,10 @@
+(define-module (crates-io de ge degenverate) #:use-module (crates-io))
+
+(define-public crate-degenverate-0.1.0 (c (n "degenverate") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)))) (h "18321m3rkq3d2p60qrxcxlcw6m33r9m38b4vfjqzk4mpmn7q847p")))
+
+(define-public crate-degenverate-0.2.0 (c (n "degenverate") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (o #t) (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)))) (h "0g49yyjcwr549wiw4nfhsj63is620ir2wbzsmpj04q0glwr2gz79") (f (quote (("preserve_order" "indexmap") ("default" "preserve_order"))))))
+
+(define-public crate-degenverate-0.2.1 (c (n "degenverate") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.7.1") (o #t) (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)))) (h "05rsfqvpk3k0c32jmgv25dby71b11n23fzy60zndpjay26a7hakq") (f (quote (("preserve_order" "indexmap") ("inject" "memchr") ("default" "inject" "preserve_order"))))))
+
+(define-public crate-degenverate-0.2.2 (c (n "degenverate") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (o #t) (d #t) (k 0)) (d (n "memchr") (r "^2.7.1") (o #t) (d #t) (k 0)) (d (n "shell-escape") (r "^0.1.5") (d #t) (k 0)))) (h "1lsrh8f02vgi94k6nlyfm78pfps9gi1a8mxjryrl3m2cy0ka9gv2") (f (quote (("preserve_order" "indexmap") ("inject" "memchr") ("default" "inject" "preserve_order"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ge ni genie-scx) #:use-module (crates-io))
+
+(define-public crate-genie-scx-1.0.0 (c (n "genie-scx") (v "1.0.0") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.17") (d #t) (k 0)) (d (n "flate2") (r "^1.0.0") (f (quote ("rust_backend"))) (k 0)) (d (n "num-derive") (r "^0.2.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (d #t) (k 0)))) (h "1jz656qvjzcynw4yha7jpl3s5m9mcsql8fjddpz717shpqf759b7")))
+
+(define-public crate-genie-scx-2.0.0 (c (n "genie-scx") (v "2.0.0") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.17") (d #t) (k 0)) (d (n "flate2") (r "^1.0.0") (f (quote ("rust_backend"))) (k 0)) (d (n "num-derive") (r "^0.2.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (d #t) (k 0)))) (h "0yxsp11v6sb7n5g5ymhzdcag8yzhvac8i836sw83hymll1b87z4a")))
+
+(define-public crate-genie-scx-3.0.0 (c (n "genie-scx") (v "3.0.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.0") (d #t) (k 0)) (d (n "genie-support") (r "^1.0.0") (f (quote ("strings"))) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.0") (d #t) (k 0)) (d (n "rgb") (r "^0.8.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.13") (d #t) (k 0)))) (h "031w28pv3vk1wl5lbnc0n58hi4k4qb9hp8hk7768f6g452a92vzy")))
+
+(define-public crate-genie-scx-4.0.0 (c (n "genie-scx") (v "4.0.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.0") (d #t) (k 0)) (d (n "genie-support") (r "^1.0.0") (f (quote ("strings"))) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2.0") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.0") (d #t) (k 0)) (d (n "rgb") (r "^0.8.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.13") (d #t) (k 0)))) (h "0b2mhjgx7lsjk9jk00lhvclyqrnqaswycrksfai5mxbj0xrqds6l")))
+

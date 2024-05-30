@@ -1,0 +1,12 @@
+(define-module (crates-io ca rg cargo-cmd) #:use-module (crates-io))
+
+(define-public crate-cargo-cmd-0.1.0 (c (n "cargo-cmd") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.78") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.78") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.13") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "1ljk6bpk9z1c0bq5scv4myj9wgdp0xdzzygh3jjv1qzcfqbf0z9s")))
+
+(define-public crate-cargo-cmd-0.2.0 (c (n "cargo-cmd") (v "0.2.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.79") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.16") (d #t) (k 0)) (d (n "toml") (r "^0.4.8") (d #t) (k 0)))) (h "1xqnlk0jhfrww49z4anbxahma2ca15i2x6acfni317y15j30sacf")))
+
+(define-public crate-cargo-cmd-0.2.1 (c (n "cargo-cmd") (v "0.2.1") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.79") (d #t) (k 0)) (d (n "structopt") (r "^0.2.12") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.16") (d #t) (k 0)) (d (n "toml") (r "^0.4.8") (d #t) (k 0)) (d (n "winapi") (r "^0.3.6") (f (quote ("handleapi" "namedpipeapi" "processenv" "synchapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1m2r96dh6nfpp7n94m1cgpz2c7hjgjm3fqccs82n0j6j5iz95m0a")))
+
+(define-public crate-cargo-cmd-0.3.0 (c (n "cargo-cmd") (v "0.3.0") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.79") (d #t) (k 0)) (d (n "structopt") (r "^0.2.12") (d #t) (k 0)) (d (n "subprocess") (r "^0.1.16") (d #t) (k 0)) (d (n "toml") (r "^0.4.8") (d #t) (k 0)) (d (n "winapi") (r "^0.3.6") (f (quote ("handleapi" "namedpipeapi" "processenv" "synchapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0i88752hid9a4l2hq2445lknm10gn62ipfynprnwfjxspparsiqj")))
+
+(define-public crate-cargo-cmd-0.3.1 (c (n "cargo-cmd") (v "0.3.1") (d (list (d (n "assert_cli") (r "^0.6.3") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.11") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.4") (d #t) (k 0)) (d (n "toml") (r "^0.5.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.8") (f (quote ("handleapi" "namedpipeapi" "processenv" "synchapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "04mx8s98ncya28vzjk5d21460r1ql9lcn2l6gkq72s4dh7z88a7f")))
+

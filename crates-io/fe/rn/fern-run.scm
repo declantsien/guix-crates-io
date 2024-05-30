@@ -1,0 +1,6 @@
+(define-module (crates-io fe rn fern-run) #:use-module (crates-io))
+
+(define-public crate-fern-run-0.0.1 (c (n "fern-run") (v "0.0.1") (d (list (d (n "assert_cmd") (r "^0.12.0") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13.1") (d #t) (k 2)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "git-version") (r "^0.3.4") (d #t) (k 0)) (d (n "ignore") (r "^0.4.12") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "snafu") (r "^0.6.3") (d #t) (k 0)))) (h "0ciccgisibpdv5ahsggxl9mmhj5s2b7z08a3azxp98rj4xj50lfw") (y #t)))
+
+(define-public crate-fern-run-0.0.2 (c (n "fern-run") (v "0.0.2") (d (list (d (n "assert_cmd") (r "^0.12.0") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13.1") (d #t) (k 2)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "ignore") (r "^0.4.12") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "snafu") (r "^0.6.3") (d #t) (k 0)))) (h "0qcdph7gnjpcksh7d7n0hglgc2rsa9s3ysd3rfc3kzp92c3jf60g")))
+

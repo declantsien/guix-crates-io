@@ -1,0 +1,6 @@
+(define-module (crates-io gr ee greenpass) #:use-module (crates-io))
+
+(define-public crate-greenpass-0.1.0 (c (n "greenpass") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.41") (d #t) (k 0)) (d (n "base45") (r "^3.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "1f88qdcfa952il5f9h5qs6rgz6rgycqlgggij4hnnv1h7y9zpjpi")))
+
+(define-public crate-greenpass-0.2.0 (c (n "greenpass") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "base45") (r "^3.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "ciborium") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^3.0.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.22") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "156jlfmj4hmpv1f83jbrvdhi098hxwj5jj5gx4di9b47m8b5kz6k")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io cr un crunner) #:use-module (crates-io))
+
+(define-public crate-crunner-0.1.0 (c (n "crunner") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ethabi") (r "^16.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "primitive-types") (r "^0.11.1") (f (quote ("impl-serde" "fp-conversion"))) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.21.3") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "web3") (r "^0.18.0") (d #t) (k 0)))) (h "1cw8vr0ri1mrvmvzchkl455j51dxmqs43ahwvn69y6pl7pjxazq4")))
+
+(define-public crate-crunner-0.1.1 (c (n "crunner") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ethabi") (r "^16.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "primitive-types") (r "^0.11.1") (f (quote ("impl-serde" "fp-conversion"))) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.21.3") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "web3") (r "^0.18.0") (d #t) (k 0)))) (h "1r78r99a0sz8wgzyz9v3a5hcr24dsv0wwpyjl0dh45n6yasi1kga")))
+

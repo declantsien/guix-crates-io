@@ -1,0 +1,16 @@
+(define-module (crates-io ru st rustduino) #:use-module (crates-io))
+
+(define-public crate-rustduino-0.1.0 (c (n "rustduino") (v "0.1.0") (d (list (d (n "const_env--value") (r "^0.1") (d #t) (k 0)))) (h "1xz4fckj2jgjabi4f20d8km0fgddih96w8ysffyb5rrg24gm3d7w")))
+
+(define-public crate-rustduino-0.1.1 (c (n "rustduino") (v "0.1.1") (d (list (d (n "bit_field") (r "^0.7.0") (d #t) (k 0)) (d (n "const_env--value") (r "^0.1") (d #t) (k 0)) (d (n "volatile") (r "^0.2.3") (d #t) (k 0)))) (h "1qwakhrric0ylgw9y6b74x1kwglcnlp9nxrw8lyh1bb2isbi4c4p")))
+
+(define-public crate-rustduino-0.1.2 (c (n "rustduino") (v "0.1.2") (d (list (d (n "bit_field") (r "^0.7.0") (d #t) (k 0)) (d (n "const_env--value") (r "^0.1") (d #t) (k 0)) (d (n "volatile") (r "^0.2.3") (d #t) (k 0)))) (h "0zr4b8y52wzfvnb3pqxycymw5s1bzqm8ccvxzgy3gfia6sbk8naf") (f (quote (("atmega328p-hal") ("atmega328p-core" "atmega328p" "atmega328p-hal") ("atmega328p") ("atmega2560p-hal") ("atmega2560p-core" "atmega2560p" "atmega2560p-hal") ("atmega2560p"))))))
+
+(define-public crate-rustduino-0.1.3 (c (n "rustduino") (v "0.1.3") (d (list (d (n "bit_field") (r "^0.7.0") (d #t) (k 0)) (d (n "const_env--value") (r "^0.1") (d #t) (k 0)) (d (n "volatile") (r "^0.2.3") (d #t) (k 0)))) (h "0xzy6y5mvwaj9jj27264khbv80pl9jbh4bw3wfsnl4kg0s73j0vv") (f (quote (("atmega328p-hal") ("atmega328p-core" "atmega328p" "atmega328p-hal") ("atmega328p") ("atmega2560p-hal") ("atmega2560p-core" "atmega2560p" "atmega2560p-hal") ("atmega2560p"))))))
+
+(define-public crate-rustduino-0.2.0 (c (n "rustduino") (v "0.2.0") (d (list (d (n "bit_field") (r "^0.7.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "const_env--value") (r "^0.1") (d #t) (k 0)) (d (n "fixed-slice-vec") (r "^0.8.0") (d #t) (k 0)) (d (n "micromath") (r "^2.0.0") (f (quote ("statistics"))) (o #t) (d #t) (k 0)) (d (n "volatile") (r "^0.2.3") (d #t) (k 0)))) (h "0jkwdpdh9b6yy55psmp95x6nvz65zpw7zwmwbypsh56hmxmvn2vx") (f (quote (("sensors" "com") ("random" "math" "sensors" "com") ("math" "micromath") ("doc") ("com") ("atmega328p") ("atmega2560p"))))))
+
+(define-public crate-rustduino-0.2.1 (c (n "rustduino") (v "0.2.1") (d (list (d (n "bit_field") (r "^0.7.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "const_env--value") (r "^0.1") (d #t) (k 0)) (d (n "fixed-slice-vec") (r "^0.8.0") (d #t) (k 0)) (d (n "micromath") (r "^2.0.0") (f (quote ("statistics"))) (o #t) (d #t) (k 0)) (d (n "volatile") (r "^0.2.3") (d #t) (k 0)))) (h "15xvwszliliqa847hb7ly1dx6agclbyqvhbsffi2l5sz7f7h3vsj") (f (quote (("sensors" "com") ("random" "math" "sensors" "com") ("math" "micromath") ("doc") ("com") ("atmega328p") ("atmega2560p"))))))
+
+(define-public crate-rustduino-0.2.2 (c (n "rustduino") (v "0.2.2") (d (list (d (n "bit_field") (r "^0.7.0") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "const_env--value") (r "^0.1") (d #t) (k 0)) (d (n "fixed-slice-vec") (r "^0.8.0") (d #t) (k 0)) (d (n "micromath") (r "^2.0.0") (f (quote ("statistics"))) (o #t) (d #t) (k 0)) (d (n "volatile") (r "^0.2.3") (d #t) (k 0)))) (h "04n2fq0z6spgrjkb7q9mvpy4fcx685q0rb7yqh3xg85wipglpzf4") (f (quote (("sensors" "com") ("random" "math" "sensors" "com") ("math" "micromath") ("doc") ("com") ("atmega328p") ("atmega2560p"))))))
+

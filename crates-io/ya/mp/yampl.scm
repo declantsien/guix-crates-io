@@ -1,0 +1,22 @@
+(define-module (crates-io ya mp yampl) #:use-module (crates-io))
+
+(define-public crate-yampl-0.0.1 (c (n "yampl") (v "0.0.1") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "0s4g27cfr3c49qcic78dlpqwy6p93vifzr1ispz1p8dglvrgikx7") (y #t)))
+
+(define-public crate-yampl-0.0.2 (c (n "yampl") (v "0.0.2") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "handlebars_misc_helpers") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "14mgqnfiipm2smymgixc22lbxi47nd5kg4fzn6l5q7bcp6114kzh") (y #t)))
+
+(define-public crate-yampl-0.0.3 (c (n "yampl") (v "0.0.3") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "1crpfcrkwn36c4nhzgy008s9h51hzlmbppw996gj398f7m8vf808") (y #t)))
+
+(define-public crate-yampl-0.0.4 (c (n "yampl") (v "0.0.4") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "15zhkcd3bpy7h8gmd732nc2jdnkh9y0s9wzmf133z8bah71i2h6h")))
+
+(define-public crate-yampl-0.0.5 (c (n "yampl") (v "0.0.5") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "1nlkgsf2sjxg575rf5p4dnsylq56k0ss09ffza2sag1hh9a0xnf0")))
+
+(define-public crate-yampl-0.0.6 (c (n "yampl") (v "0.0.6") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "17axnmbp2ikrm089c3bzd2nja0qr70avdb3r6pzf9whalabcqdl1")))
+
+(define-public crate-yampl-0.0.7 (c (n "yampl") (v "0.0.7") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "1n3rnxkpk8gb6fp38iyswf1mgfy94rx88mig20kayxipw56bjxny")))
+
+(define-public crate-yampl-0.0.8 (c (n "yampl") (v "0.0.8") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "0ya3hc7f57d7h7da63268m48f8kdang45hiccqdf1nzbbvx5384g")))
+
+(define-public crate-yampl-0.0.9 (c (n "yampl") (v "0.0.9") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "handbar") (r "^0.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "1glbqapc3hxwi28hqiqsj3xjfqwbf27sj76pa7k5bvpm7np31pfn")))
+
+(define-public crate-yampl-0.0.10 (c (n "yampl") (v "0.0.10") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "handbar") (r "^0.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.19") (d #t) (k 0)))) (h "19wkjql8pigxgy76dj0ybzzvdy70lsmdr2vrn8fnjhzfpxgfi4rx")))
+

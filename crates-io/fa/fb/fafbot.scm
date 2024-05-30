@@ -1,0 +1,4 @@
+(define-module (crates-io fa fb fafbot) #:use-module (crates-io))
+
+(define-public crate-fafbot-0.1.0 (c (n "fafbot") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("env" "string"))) (d #t) (k 0)) (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "http") (r "^0.2.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^1.2") (d #t) (k 0)) (d (n "matrix-sdk") (r "^0.6") (f (quote ("sled" "markdown" "sso-login"))) (d #t) (k 0)) (d (n "open") (r "^3.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "snafu") (r "^0.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "0wvc8d63cba1dbrczabq1jb262c02hllxny1zgn24plb5kcj1zs0")))
+

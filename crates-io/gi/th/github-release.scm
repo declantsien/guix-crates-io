@@ -1,0 +1,6 @@
+(define-module (crates-io gi th github-release) #:use-module (crates-io))
+
+(define-public crate-github-release-0.1.0 (c (n "github-release") (v "0.1.0") (d (list (d (n "clippy") (r "^0.0") (d #t) (k 2)) (d (n "dialoguer") (r "^0.1.0") (d #t) (k 0)) (d (n "directories") (r "^0.8.5") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "mkdirp") (r "^0.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 0)))) (h "0av89083w1xmq3s86lar8r92w8crl2frq2kd5qhxl9f1fmf7ziap")))
+
+(define-public crate-github-release-0.1.2 (c (n "github-release") (v "0.1.2") (d (list (d (n "clippy") (r "^0.0") (d #t) (k 2)) (d (n "dialoguer") (r "^0.1.0") (d #t) (k 0)) (d (n "directories") (r "^0.8.5") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "mkdirp") (r "^0.1.0") (d #t) (k 0)) (d (n "quicli") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 0)))) (h "0gyp3mvm14nrs3awhqjl7lbz2gwb2y54wsyfplpkfphxly3wd71a")))
+

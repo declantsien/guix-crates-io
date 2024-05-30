@@ -1,0 +1,12 @@
+(define-module (crates-io pi sc piscina) #:use-module (crates-io))
+
+(define-public crate-piscina-0.1.0 (c (n "piscina") (v "0.1.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)))) (h "1fqaaxjylhy26aywdgmza9vgy7rgb9xi0qlgdcmfyd16sz9c2ir2") (f (quote (("default"))))))
+
+(define-public crate-piscina-0.1.1 (c (n "piscina") (v "0.1.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)))) (h "1n2lq77r37iyyr9sq4b8xsla0yf3r3fkcchkl7iw67c6rrg0x0np") (f (quote (("default"))))))
+
+(define-public crate-piscina-0.1.2 (c (n "piscina") (v "0.1.2") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)))) (h "011a5md2kkqm975wcg31zbq0z989i8m64hfrazvad7vj9v00p4s5") (f (quote (("default"))))))
+
+(define-public crate-piscina-0.2.0 (c (n "piscina") (v "0.2.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)))) (h "0nf9bzc7kambnfabdfrb2gs64qyhsczh982za4948x2785xp4gdh") (f (quote (("default"))))))
+
+(define-public crate-piscina-0.2.1 (c (n "piscina") (v "0.2.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)))) (h "1x3lnh7jzfrxzifmb8h3igqk96q69d7kakz5gvjjgzws4sjnab53") (f (quote (("default"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io mi te mitex-spec) #:use-module (crates-io))
+
+(define-public crate-mitex-spec-0.2.2-rc1 (c (n "mitex-spec") (v "0.2.2-rc1") (d (list (d (n "divan") (r "^0.1.7") (d #t) (k 2)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "rkyv") (r "^0.7.42") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)))) (h "06m6grjf6lx701vlg5sp53x52zraqciha4qfmjfxzl8z5z81r4bq") (f (quote (("default" "serde" "rkyv" "rkyv-validation")))) (s 2) (e (quote (("rkyv-validation" "dep:rkyv" "rkyv/validation") ("rkyv" "dep:rkyv" "rkyv/alloc" "rkyv/archive_le"))))))
+
+(define-public crate-mitex-spec-0.2.2-rc2 (c (n "mitex-spec") (v "0.2.2-rc2") (d (list (d (n "divan") (r "^0.1.7") (d #t) (k 2)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "rkyv") (r "^0.7.42") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)))) (h "0dswy8lcfx3wy2xdkazbd760r6bpvck5plydj8yzrqda7y902fvh") (f (quote (("default" "serde" "rkyv" "rkyv-validation")))) (s 2) (e (quote (("rkyv-validation" "dep:rkyv" "rkyv/validation") ("rkyv" "dep:rkyv" "rkyv/alloc" "rkyv/archive_le"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io li gh lightyear_examples_common) #:use-module (crates-io))
+
+(define-public crate-lightyear_examples_common-0.15.1 (c (n "lightyear_examples_common") (v "0.15.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "async-compat") (r "^0.2.3") (d #t) (k 0)) (d (n "bevy") (r "^0.13") (d #t) (k 0)) (d (n "bevy-inspector-egui") (r "^0.24") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "lightyear") (r "^0.15.1") (f (quote ("steam" "webtransport" "websocket"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)))) (h "1r1l4ijjvnnkc834dm0fq3rygzq1dzacgwgrfy8lb2k5vipima82") (r "1.76")))
+

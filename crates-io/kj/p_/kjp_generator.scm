@@ -1,0 +1,8 @@
+(define-module (crates-io kj p_ kjp_generator) #:use-module (crates-io))
+
+(define-public crate-kjp_generator-0.1.0 (c (n "kjp_generator") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "kjp_generator_plugin") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 0)))) (h "19k5v1bakig0mawcrzmp61423qcij4bs73j16qwgsh04qnmm9r47")))
+
+(define-public crate-kjp_generator-0.1.1 (c (n "kjp_generator") (v "0.1.1") (d (list (d (n "clap") (r "^4.0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "kjp_generator_plugin") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 0)))) (h "17wj0rzyspmrif2s1jms642gy058qzm1c8gzlhbj6qg8fm86ywn0")))
+
+(define-public crate-kjp_generator-0.1.2 (c (n "kjp_generator") (v "0.1.2") (d (list (d (n "clap") (r "^4.0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "kjp_generator_plugin") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 0)))) (h "0yqlvlzjl985f90mbx0qp25xsg7yq8lryf17wm9w4snsi9ybnama")))
+

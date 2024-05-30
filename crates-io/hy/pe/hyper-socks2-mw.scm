@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hyper-socks2-mw) #:use-module (crates-io))
+
+(define-public crate-hyper-socks2-mw-0.4.4 (c (n "hyper-socks2-mw") (v "0.4.4") (d (list (d (n "async-socks5") (r "^0.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustls-native-certs") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "rusttls") (r "^0.17") (o #t) (d #t) (k 0) (p "rustls")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "1y64fcrclnkksz4zgnmgisxad2qmf0g4p472xfr4swahbf06fwhx") (f (quote (("tls" "hyper-tls") ("rustls" "hyper-rustls" "rusttls" "rustls-native-certs") ("default" "tls"))))))
+

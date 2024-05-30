@@ -1,0 +1,4 @@
+(define-module (crates-io ya sh yash-cli) #:use-module (crates-io))
+
+(define-public crate-yash-cli-0.1.0-alpha.1 (c (n "yash-cli") (v "0.1.0-alpha.1") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "futures-executor") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (f (quote ("channel"))) (d #t) (k 0)) (d (n "fuzed-iterator") (r "^1.0.0") (d #t) (k 2)) (d (n "nix") (r "^0.27.0") (f (quote ("fs" "process" "term"))) (d #t) (k 2)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "yash-builtin") (r "^0.1.0") (d #t) (k 0)) (d (n "yash-env") (r "^0.1.0") (d #t) (k 0)) (d (n "yash-semantics") (r "^0.1.0") (d #t) (k 0)) (d (n "yash-syntax") (r "^0.8.0") (d #t) (k 0)))) (h "15cp3rh8i6mnfgc13gp2fs30i2awfcz3ylv80gnsf9v2150jcwsi") (r "1.75.0")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io gg p- ggp-rs) #:use-module (crates-io))
+
+(define-public crate-ggp-rs-0.0.1 (c (n "ggp-rs") (v "0.0.1") (d (list (d (n "env_logger") (r "*") (d #t) (k 0)) (d (n "gdl-parser") (r "*") (d #t) (k 0)) (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rand") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "regex_macros") (r "*") (d #t) (k 0)))) (h "0izgqfp840kc0r00fnwg4h3csvzc8a8q4n0bpfd20mzr6691d03k")))
+
+(define-public crate-ggp-rs-0.0.2 (c (n "ggp-rs") (v "0.0.2") (d (list (d (n "env_logger") (r "*") (d #t) (k 0)) (d (n "gdl-parser") (r "*") (d #t) (k 0)) (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rand") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "regex_macros") (r "*") (d #t) (k 0)) (d (n "unicase") (r "*") (d #t) (k 0)))) (h "0ir8jw85xy72alaarhs6qs1p8c7hqpgar3cbnjmgvsc5c4mksh5v")))
+
+(define-public crate-ggp-rs-0.0.3 (c (n "ggp-rs") (v "0.0.3") (d (list (d (n "env_logger") (r "*") (d #t) (k 0)) (d (n "gdl-parser") (r "*") (d #t) (k 0)) (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rand") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "regex_macros") (r "*") (d #t) (k 0)) (d (n "unicase") (r "*") (d #t) (k 0)))) (h "0wan4p6gqr5vvdiw8rbcyfrfdhcw1l5iidsdjr42yql60wz4psry")))
+
+(define-public crate-ggp-rs-0.1.0 (c (n "ggp-rs") (v "0.1.0") (d (list (d (n "env_logger") (r "*") (d #t) (k 0)) (d (n "gdl-parser") (r "*") (d #t) (k 0)) (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "lazy_static") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rand") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "time") (r "*") (d #t) (k 0)) (d (n "unicase") (r "*") (d #t) (k 0)))) (h "1rwd3np700c5lynb1703bhhvi0kwkl4wr71w7hf9mg3bns64dz9x") (f (quote (("unstable"))))))
+
+(define-public crate-ggp-rs-0.1.1 (c (n "ggp-rs") (v "0.1.1") (d (list (d (n "env_logger") (r "*") (d #t) (k 0)) (d (n "gdl-parser") (r "*") (d #t) (k 0)) (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "lazy_static") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rand") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "time") (r "*") (d #t) (k 0)) (d (n "unicase") (r "*") (d #t) (k 0)))) (h "0q4pzqq8wi0hbiq3842a0dafdjgmcpsf44z5vbz6pmlhfwr96ksx") (f (quote (("unstable"))))))
+
+(define-public crate-ggp-rs-0.1.2 (c (n "ggp-rs") (v "0.1.2") (d (list (d (n "env_logger") (r "*") (d #t) (k 0)) (d (n "gdl-parser") (r "*") (d #t) (k 0)) (d (n "hyper") (r "*") (d #t) (k 0)) (d (n "lazy_static") (r "*") (d #t) (k 0)) (d (n "log") (r "*") (d #t) (k 0)) (d (n "rand") (r "*") (d #t) (k 0)) (d (n "regex") (r "*") (d #t) (k 0)) (d (n "time") (r "*") (d #t) (k 0)) (d (n "unicase") (r "*") (d #t) (k 0)))) (h "0f1kj4q6p83n7pwlfni1fs54x20x55dddc5sx1dajs7hnz9kl6n7") (f (quote (("unstable"))))))
+

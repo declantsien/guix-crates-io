@@ -1,0 +1,6 @@
+(define-module (crates-io ns fw nsfw) #:use-module (crates-io))
+
+(define-public crate-nsfw-0.1.0 (c (n "nsfw") (v "0.1.0") (d (list (d (n "image") (r "^0.24.7") (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "tokio") (r "^1.33.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "tract-onnx") (r "^0.20.21") (d #t) (k 0)))) (h "05n792srl207j4wdwr1rs9cggvsjav3k27mg9d7apf8ksnlr9b3v") (f (quote (("webp" "image/webp") ("png" "image/png") ("jpeg" "image/jpeg") ("gif" "image/gif") ("default" "jpeg" "png")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-nsfw-0.1.1 (c (n "nsfw") (v "0.1.1") (d (list (d (n "image") (r "^0.24.7") (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "tokio") (r "^1.33.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "tract-onnx") (r "^0.20.21") (d #t) (k 0)))) (h "1agwy0k81z286nrwmgmg5c2nmd1q6b9lny1i5n4k1j4g33rrjsy7") (f (quote (("webp" "image/webp") ("png" "image/png") ("jpeg" "image/jpeg") ("gif" "image/gif") ("default" "jpeg" "png")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

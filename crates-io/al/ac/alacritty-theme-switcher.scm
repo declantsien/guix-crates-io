@@ -1,0 +1,8 @@
+(define-module (crates-io al ac alacritty-theme-switcher) #:use-module (crates-io))
+
+(define-public crate-alacritty-theme-switcher-0.1.1 (c (n "alacritty-theme-switcher") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "12khnh48k5x9wc2fi1rcmrvjbbshvmga4rinjq6y8qcns89z2l7c") (r "1.75")))
+
+(define-public crate-alacritty-theme-switcher-0.1.3 (c (n "alacritty-theme-switcher") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "053rbwm3gd6nqfcsd1qdrjizjvp0zj55xdwwniqdmdvdfclsyyk4") (r "1.75")))
+
+(define-public crate-alacritty-theme-switcher-0.1.4 (c (n "alacritty-theme-switcher") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1ybn1pvnds3bbv17n21cghilw3rqjn1alqvylv3rlh36qjzrpkck") (r "1.75")))
+

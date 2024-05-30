@@ -1,0 +1,10 @@
+(define-module (crates-io so mo somo) #:use-module (crates-io))
+
+(define-public crate-somo-0.1.0 (c (n "somo") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "procfs") (r "^0.15.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "termimad") (r "^0.20") (d #t) (k 0)) (d (n "terminal_size") (r "^0.2.6") (d #t) (k 0)))) (h "0k9r7aygqb1v20kpslwclcb5b605nqs79abp6kfzs0qavzfvxj9g")))
+
+(define-public crate-somo-0.1.1 (c (n "somo") (v "0.1.1") (d (list (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "procfs") (r "^0.15.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "termimad") (r "^0.20") (d #t) (k 0)) (d (n "terminal_size") (r "^0.2.6") (d #t) (k 0)))) (h "1zwv9xnzcijmzjf4hb1bgivn1gya8xh1l9py5slid6yv9as6b9y2")))
+
+(define-public crate-somo-0.1.2 (c (n "somo") (v "0.1.2") (d (list (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "procfs") (r "^0.15.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "termimad") (r "^0.20") (d #t) (k 0)) (d (n "terminal_size") (r "^0.2.6") (d #t) (k 0)))) (h "064w96i6x2qc36a3rinm0v8i1lpgik4az7mm6wj6xwrx2h3wlcj4")))
+
+(define-public crate-somo-0.2.0 (c (n "somo") (v "0.2.0") (d (list (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "procfs") (r "^0.15.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "termimad") (r "^0.20") (d #t) (k 0)) (d (n "terminal_size") (r "^0.2.6") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0jmjgb6w9ahncjav9mbp1hc38abbgql8wfncmwdayky46a8bwnpb")))
+

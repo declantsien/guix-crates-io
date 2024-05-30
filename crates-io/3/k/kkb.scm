@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# k kkb) #:use-module (crates-io))
+
+(define-public crate-kkb-0.1.0 (c (n "kkb") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "ureq") (r "^2.8.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "wallpaper") (r "^3.2.0") (d #t) (k 0)))) (h "1nrkk831kfy7ydxbknhzi122nwxpw8agznqra0c25mpcp58af41r")))
+
+(define-public crate-kkb-0.1.1 (c (n "kkb") (v "0.1.1") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "ureq") (r "^2.8.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "wallpaper") (r "^3.2.0") (d #t) (k 0)))) (h "04pjvbqk353niwgarcjg6qdnmbji8dh6cgxgbfrzzyxbw2fi1pll")))
+

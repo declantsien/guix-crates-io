@@ -1,0 +1,18 @@
+(define-module (crates-io fo ld foldeye) #:use-module (crates-io))
+
+(define-public crate-foldeye-0.1.0 (c (n "foldeye") (v "0.1.0") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1kr4rr7xffh6r0226nh1wm5vs2s79pf54mdckzbsdlkdzjl1xzcd")))
+
+(define-public crate-foldeye-1.0.0 (c (n "foldeye") (v "1.0.0") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0iqdd4979wwqbfqwhlv3fhjgkn6zb5hydkmkvavw2m1ls91b3kib")))
+
+(define-public crate-foldeye-1.0.1 (c (n "foldeye") (v "1.0.1") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "03flz3g8ca3skhc778q02kxqiqli8h27dfz2imxf7da2z70489mf")))
+
+(define-public crate-foldeye-1.0.2 (c (n "foldeye") (v "1.0.2") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0i3yhiqcpghg4y1dzwmkhz6clh66ffnmpd5yvv6yg39mv65zagzv")))
+
+(define-public crate-foldeye-1.0.3 (c (n "foldeye") (v "1.0.3") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "19zj4vbs27wg177xwf7n8hn4x6slb24qw0cv3ic82candrg7594n")))
+
+(define-public crate-foldeye-1.0.4 (c (n "foldeye") (v "1.0.4") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "062fs79l9cjdhybhlx06hz1c7jvj82j4jk1gn4xqjzcdvz8c76vl")))
+
+(define-public crate-foldeye-1.0.5 (c (n "foldeye") (v "1.0.5") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1m923zj0w58yf6qakfbbxql2yk3b97cb2prnlnh9qdrr098mz71v")))
+
+(define-public crate-foldeye-1.0.6 (c (n "foldeye") (v "1.0.6") (d (list (d (n "differ") (r "^1.0.2") (d #t) (k 0)) (d (n "job_scheduler") (r "^1.2.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0q61m7hjmzwdk7jnh3zf48ijbygkgjrkakfpy9hwl762fxx8ya66")))
+

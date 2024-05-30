@@ -1,0 +1,12 @@
+(define-module (crates-io pl an planet_generator) #:use-module (crates-io))
+
+(define-public crate-planet_generator-0.0.1-pre-alpha (c (n "planet_generator") (v "0.0.1-pre-alpha") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "seeded_dice_roller") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "1x8r6w60gji4w5sk8b108g0qp9if3h4pvak5wgbgd24m6d4v0km9") (y #t)))
+
+(define-public crate-planet_generator-0.0.2-pre-alpha (c (n "planet_generator") (v "0.0.2-pre-alpha") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "seeded_dice_roller") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "1w8nlqrk2d84yl3hiaa4syg316gzbcpww49ipydxlq5iqi62a74n") (y #t)))
+
+(define-public crate-planet_generator-0.0.3-pre-alpha (c (n "planet_generator") (v "0.0.3-pre-alpha") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "seeded_dice_roller") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "03ig756w3szjgxx9x2yqf1f8dzvcp3azrvm0w8z3gq9xs4167s8k") (y #t)))
+
+(define-public crate-planet_generator-0.0.4-pre-alpha (c (n "planet_generator") (v "0.0.4-pre-alpha") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "seeded_dice_roller") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "smart-default") (r "^0.6.0") (d #t) (k 0)))) (h "1izrgm2q5l05bhngydv5siyraq6qisw2q1l3r5k7xc7ibijqpcdi") (y #t)))
+
+(define-public crate-planet_generator-0.0.5-pre-alpha (c (n "planet_generator") (v "0.0.5-pre-alpha") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ordered-float") (r "^4.2.0") (d #t) (k 0)) (d (n "seeded_dice_roller") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.3.3") (d #t) (k 0)) (d (n "smart-default") (r "^0.7.1") (d #t) (k 0)))) (h "0qjz058j018n9gk5y7pqa2qqnwyk7xy8pqx0rjxp7jakwyxl0jv3")))
+

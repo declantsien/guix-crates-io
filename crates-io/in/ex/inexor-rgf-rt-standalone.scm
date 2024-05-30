@@ -1,0 +1,4 @@
+(define-module (crates-io in ex inexor-rgf-rt-standalone) #:use-module (crates-io))
+
+(define-public crate-inexor-rgf-rt-standalone-0.9.1 (c (n "inexor-rgf-rt-standalone") (v "0.9.1") (d (list (d (n "actix-web") (r "^4.0") (f (quote ("rustls" "rustls"))) (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "inexor-rgf-client") (r "^0.9.1") (d #t) (k 0)) (d (n "inexor-rgf-core-model") (r "^0.9.1") (d #t) (k 0)) (d (n "inexor-rgf-rt") (r "^0.9.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std" "serde" "std" "serde"))) (d #t) (k 0)) (d (n "log4rs") (r "^1.2") (f (quote ("console_appender" "file_appender" "toml_format" "ansi_writer" "console_appender" "file_appender" "toml_format" "ansi_writer"))) (d #t) (k 0)) (d (n "tabled") (r "^0.12") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "rt" "macros" "time" "rt" "rt-multi-thread"))) (d #t) (k 0)))) (h "03fnb208kcrbkdgmssdgg8pq61im7w32s02pqm1aiaah9vkdk81w")))
+

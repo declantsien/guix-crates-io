@@ -1,0 +1,8 @@
+(define-module (crates-io tp #{-i}# tp-inherents) #:use-module (crates-io))
+
+(define-public crate-tp-inherents-2.0.1 (c (n "tp-inherents") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "parking_lot") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.1") (k 0)) (d (n "tetcore-std") (r "^2.0.1") (k 0)) (d (n "thiserror") (r "^1.0.21") (o #t) (d #t) (k 0)))) (h "0544jqpn2ng90gicq9x873gwcsl7sm61hw2w1fllyfn0nqnrh34b") (f (quote (("std" "parking_lot" "tetcore-std/std" "codec/std" "tet-core/std" "thiserror") ("default" "std"))))))
+
+(define-public crate-tp-inherents-2.0.2 (c (n "tp-inherents") (v "2.0.2") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "parking_lot") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "thiserror") (r "^1.0.21") (o #t) (d #t) (k 0)))) (h "195zzmxym0lakgj9bwmnb3ndji9l3zr9mll448sigby5paja6nxy") (f (quote (("std" "parking_lot" "tetcore-std/std" "codec/std" "tet-core/std" "thiserror") ("default" "std"))))))
+
+(define-public crate-tp-inherents-2.1.2 (c (n "tp-inherents") (v "2.1.2") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "parking_lot") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.1.2") (k 0)) (d (n "tetcore-std") (r "^2.1.2") (k 0)) (d (n "thiserror") (r "^1.0.21") (o #t) (d #t) (k 0)))) (h "1l2kximj24f1vdwf95i84zcp6l8yyndg64ahjf0dlcl3dxpc2q8b") (f (quote (("std" "parking_lot" "tetcore-std/std" "codec/std" "tet-core/std" "thiserror") ("default" "std"))))))
+

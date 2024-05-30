@@ -1,0 +1,8 @@
+(define-module (crates-io op en openglm) #:use-module (crates-io))
+
+(define-public crate-openglm-0.1.0 (c (n "openglm") (v "0.1.0") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.17.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0162b8isy89z68zxnpz0aglfwd5qvps88andigdq89rjl4wj8iid")))
+
+(define-public crate-openglm-0.1.1 (c (n "openglm") (v "0.1.1") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.17.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1sn7vw4x1fg7fw3vw9qv1sgkrv725c5p22ml14nwjhrcdv6ih8mn")))
+
+(define-public crate-openglm-0.1.2 (c (n "openglm") (v "0.1.2") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.17.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1hcjizcymal54hkhaq2g00fsfyj0zykm37lla9dy3p9jpz60a0dq")))
+

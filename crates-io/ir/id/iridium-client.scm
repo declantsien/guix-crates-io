@@ -1,0 +1,4 @@
+(define-module (crates-io ir id iridium-client) #:use-module (crates-io))
+
+(define-public crate-iridium-client-0.1.0 (c (n "iridium-client") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)) (d (n "warp") (r "^0.3") (d #t) (k 0)))) (h "1j5dwcc2vdbwwr3fhd3z3hyd62xcmwcbsmml1sqpb8nkrj4nb4gi")))
+

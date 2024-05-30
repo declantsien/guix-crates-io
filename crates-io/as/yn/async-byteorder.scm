@@ -1,0 +1,8 @@
+(define-module (crates-io as yn async-byteorder) #:use-module (crates-io))
+
+(define-public crate-async-byteorder-0.1.0 (c (n "async-byteorder") (v "0.1.0") (d (list (d (n "async-codec") (r "^0.1.1") (d #t) (k 0)) (d (n "async-codec-util") (r "^0.1.3") (d #t) (k 0)) (d (n "async-ringbuffer") (r "^0.3.0") (d #t) (k 2)) (d (n "atm-io-utils") (r "^0.2.4") (f (quote ("quickcheck"))) (d #t) (k 0)) (d (n "futures-core") (r "^0.2.0-alpha") (d #t) (k 0)) (d (n "futures-io") (r "^0.2.0-alpha") (d #t) (k 0)) (d (n "quickcheck") (r "^0.6") (d #t) (k 2)))) (h "064hk5v6p7n6jbj3nhlpxjk5cl9n5d0wsdy4l37cm6rshgp8gpmw")))
+
+(define-public crate-async-byteorder-0.2.0 (c (n "async-byteorder") (v "0.2.0") (d (list (d (n "async-codec") (r "^0.2.0") (d #t) (k 0)) (d (n "async-codec-util") (r "^0.2.0") (d #t) (k 0)) (d (n "async-ringbuffer") (r "^0.3.0") (d #t) (k 2)) (d (n "atm-io-utils") (r "^0.2.4") (f (quote ("quickcheck"))) (d #t) (k 0)) (d (n "futures-core") (r "^0.2.0-alpha") (d #t) (k 0)) (d (n "futures-io") (r "^0.2.0-alpha") (d #t) (k 0)) (d (n "quickcheck") (r "^0.6") (d #t) (k 2)))) (h "1zzhqa9dnnz0070zidsj52mlwjbqcrr690jsf4yj22hlv33lwf89")))
+
+(define-public crate-async-byteorder-0.3.0 (c (n "async-byteorder") (v "0.3.0") (d (list (d (n "async-codec") (r "^0.3.0") (d #t) (k 0)) (d (n "async-codec-util") (r "^0.3.0") (d #t) (k 0)) (d (n "async-ringbuffer") (r "^0.3.0") (d #t) (k 2)) (d (n "atm-io-utils") (r "^0.2.4") (f (quote ("quickcheck"))) (d #t) (k 0)) (d (n "futures-core") (r "^0.2.0-alpha") (d #t) (k 0)) (d (n "futures-io") (r "^0.2.0-alpha") (d #t) (k 0)) (d (n "quickcheck") (r "^0.6") (d #t) (k 2)))) (h "0ivq7jj4gqpzx51472ly8q8rsz7nsb3rmxi6ig676b9y6j8qm8sl")))
+

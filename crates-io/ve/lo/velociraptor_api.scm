@@ -1,0 +1,4 @@
+(define-module (crates-io ve lo velociraptor_api) #:use-module (crates-io))
+
+(define-public crate-velociraptor_api-0.1.0 (c (n "velociraptor_api") (v "0.1.0") (d (list (d (n "builder-pattern") (r "^0.4.2") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("std" "derive"))) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("serde_derive"))) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 0)) (d (n "tokio-stream") (r "^0.1") (k 0)) (d (n "tonic") (r "^0.9") (f (quote ("transport" "tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.9") (d #t) (k 1)))) (h "0wk4dfciaah0aa60hp8dq4f8y5pbgfdpw20ywrax45s9bvdy07sp")))
+

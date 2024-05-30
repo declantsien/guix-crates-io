@@ -1,0 +1,4 @@
+(define-module (crates-io an ol anole) #:use-module (crates-io))
+
+(define-public crate-anole-0.1.0 (c (n "anole") (v "0.1.0") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-tokio-rustls" "postgres" "mysql" "sqlite" "mssql" "time"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4" "v5"))) (d #t) (k 0)))) (h "057lk9sna1mhblddqh8byp2dfj6j8bwmbrg5aj2fghqfx82ccqg2")))
+

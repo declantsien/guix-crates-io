@@ -1,0 +1,20 @@
+(define-module (crates-io cr dt crdt-list) #:use-module (crates-io))
+
+(define-public crate-crdt-list-0.1.0 (c (n "crdt-list") (v "0.1.0") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1ja636l4abwdjc0h3df0cgw1myhhr0zz9f3g9whzlnislcca15q6") (f (quote (("arbitrary"))))))
+
+(define-public crate-crdt-list-0.1.1 (c (n "crdt-list") (v "0.1.1") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "0s6h4flrvbs37xsgya7wq3izhcyiz079wmicr7xs7kv2pzh5k9xl") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.1.2 (c (n "crdt-list") (v "0.1.2") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "0zlimi3marvzdkjrfbjprdha0f5bvr5rf33i4i76467aw014pksw") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.1.3 (c (n "crdt-list") (v "0.1.3") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "1byqn3v910db6nr47rf0m5x1i6n57g8k5b9i6h6sal4hs92h5aqm") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.1.4 (c (n "crdt-list") (v "0.1.4") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "009vdac6d35afpj6w8kpsgnzwxw6sm58aaax2hq3cma8r2pgmmmm") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.2.0 (c (n "crdt-list") (v "0.2.0") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "0nzr00k4mz4q9d35lbjvb3wwdjm33gd5nic4qi7zq364fq0c5ij4") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.3.0 (c (n "crdt-list") (v "0.3.0") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "01j9cnhy0sfr12gydrz101lp3jz0nm4myc63kfs0pyghm3fhwkp0") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.4.0 (c (n "crdt-list") (v "0.4.0") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)))) (h "0nl7w6fv326z46037wk835dpqqnzqr0n1bsy230k0wzahrnkamz2") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+
+(define-public crate-crdt-list-0.4.1 (c (n "crdt-list") (v "0.4.1") (d (list (d (n "arbitrary") (r "^1.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "arref") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "color-backtrace") (r "^0.5.1") (d #t) (k 2)) (d (n "ctor") (r "^0.1.23") (d #t) (k 2)))) (h "0yjpkn4zxsjnlra45fdk28l3yvcqbrzksd3v4md4z5nwnr4izq4p") (f (quote (("fuzzing" "rand" "arbitrary"))))))
+

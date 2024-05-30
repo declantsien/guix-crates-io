@@ -1,0 +1,6 @@
+(define-module (crates-io tw ee tweet-archive-to-markdown) #:use-module (crates-io))
+
+(define-public crate-tweet-archive-to-markdown-0.0.1 (c (n "tweet-archive-to-markdown") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "twitter-archive") (r "^0.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "0xkqp8cr2r0fp0j3my0m64359i1zn85ihfzbg11lbkrwgpgr75bl")))
+
+(define-public crate-tweet-archive-to-markdown-0.0.2 (c (n "tweet-archive-to-markdown") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "twitter-archive") (r "^0.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "14hj4wkp8lngkxqcms7hr2q0v3bhwiy1918n269cvxxzav7hcd3j")))
+

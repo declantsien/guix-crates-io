@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# r rmw) #:use-module (crates-io))
+
+(define-public crate-rmw-0.0.1 (c (n "rmw") (v "0.0.1") (d (list (d (n "aes-gcm") (r "^0.9.1") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("unstable" "attributes"))) (d #t) (k 0)) (d (n "async-tungstenite") (r "^0.13.1") (d #t) (k 0)) (d (n "blake3") (r "^0.3.7") (d #t) (k 0)) (d (n "bytes") (r "^1.0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "fern") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "koit-toml") (r "^0.2.1") (f (quote ("toml-format" "file-backend"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)))) (h "174hglwn0ms3nzg7z4sa0w4n4dwnx3iyz1l6aawgcsgrv6gk5pw8")))
+

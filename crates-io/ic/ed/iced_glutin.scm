@@ -1,0 +1,20 @@
+(define-module (crates-io ic ed iced_glutin) #:use-module (crates-io))
+
+(define-public crate-iced_glutin-0.0.0 (c (n "iced_glutin") (v "0.0.0") (h "1ky3rmliiicpixdgsckb2y1xhjaa42n3cbh840n5inmnw9kz5gy6")))
+
+(define-public crate-iced_glutin-0.1.0 (c (n "iced_glutin") (v "0.1.0") (d (list (d (n "glutin") (r ">=0.25.0, <0.26.0") (d #t) (k 0)) (d (n "iced_graphics") (r ">=0.1.0, <0.2.0") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r ">=0.3.0, <0.4.0") (d #t) (k 0)) (d (n "iced_winit") (r ">=0.2.0, <0.3.0") (d #t) (k 0)))) (h "16jnvmdxxjv8zgzw6yrvpz3mvk462ccd0d6x4g5m396apy5zvmpw") (f (quote (("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.2.0 (c (n "iced_glutin") (v "0.2.0") (d (list (d (n "glutin") (r "^0.26") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.2") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.4") (d #t) (k 0)) (d (n "iced_winit") (r "^0.3") (d #t) (k 0)))) (h "1wzgfzai3v9423208p5w8lzkzxqb95i89g4x11v64y8fvm2dms1v") (f (quote (("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.3.0 (c (n "iced_glutin") (v "0.3.0") (d (list (d (n "glutin") (r "^0.28") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.3") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.5") (d #t) (k 0)) (d (n "iced_winit") (r "^0.4") (d #t) (k 0)))) (h "19r03k4np7dkn6gvzc26q2p35dxg7ylzzz6dglmbj16k8vbmd3z1") (f (quote (("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.4.0 (c (n "iced_glutin") (v "0.4.0") (d (list (d (n "glutin") (r "^0.29") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.4") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.6") (d #t) (k 0)) (d (n "iced_winit") (r "^0.5") (f (quote ("application"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "16srv63d5zb997zj0sxhz44n22hpmhqyy5anzn9705cs6mjvk147") (f (quote (("system" "iced_winit/system") ("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.5.0 (c (n "iced_glutin") (v "0.5.0") (d (list (d (n "glutin") (r "^0.29") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.5") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.7") (d #t) (k 0)) (d (n "iced_winit") (r "^0.6") (f (quote ("application"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0871738fmyb3bask5g0zvd4zgjxqwsskca8fyk37vn8y7nfir01r") (f (quote (("system" "iced_winit/system") ("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.6.0 (c (n "iced_glutin") (v "0.6.0") (d (list (d (n "glutin") (r "^0.29") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.6") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.8") (d #t) (k 0)) (d (n "iced_winit") (r "^0.7") (f (quote ("application"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "0qgsym2wav69mlifdf6zhc1akmxd0n3gxdl0n80b6hb5b1cdvn6c") (f (quote (("trace" "iced_winit/trace") ("system" "iced_winit/system") ("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.7.0 (c (n "iced_glutin") (v "0.7.0") (d (list (d (n "glutin") (r "^0.29") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.7") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.9") (d #t) (k 0)) (d (n "iced_winit") (r "^0.8") (f (quote ("application"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "020ldwk0bn07jg5vk04nz8kjfprmvr65jsp1yr1d9yv2zhvrwk8w") (f (quote (("trace" "iced_winit/trace") ("system" "iced_winit/system") ("debug" "iced_winit/debug"))))))
+
+(define-public crate-iced_glutin-0.8.0 (c (n "iced_glutin") (v "0.8.0") (d (list (d (n "glutin") (r "^0.29") (d #t) (k 0)) (d (n "iced_graphics") (r "^0.8") (f (quote ("opengl"))) (d #t) (k 0)) (d (n "iced_native") (r "^0.10") (d #t) (k 0)) (d (n "iced_winit") (r "^0.9") (f (quote ("application"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "0lwr86k67qsrbzrkim1r9k1qwv3vmbxk5n414m8hi5fj32h7qhjw") (f (quote (("trace" "iced_winit/trace") ("system" "iced_winit/system") ("debug" "iced_winit/debug"))))))
+

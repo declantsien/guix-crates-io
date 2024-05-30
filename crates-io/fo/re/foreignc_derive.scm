@@ -1,0 +1,6 @@
+(define-module (crates-io fo re foreignc_derive) #:use-module (crates-io))
+
+(define-public crate-foreignc_derive-0.1.0 (c (n "foreignc_derive") (v "0.1.0") (d (list (d (n "foreignc_template") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "foreignc_util") (r "^0.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "01k473lx8fk9zk8z8i3qk9n9l69jfdvqvca13fxb2big4jjyq9nd") (f (quote (("template" "serde" "serde_json" "foreignc_template"))))))
+
+(define-public crate-foreignc_derive-0.1.1 (c (n "foreignc_derive") (v "0.1.1") (d (list (d (n "foreignc_template") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "foreignc_util") (r "^0.1.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.6") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1.0.7") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "1kbsq4hdjd7vv8zk3lgdf8w628bwra4wpwkmd64dl3c33gffv3kb") (f (quote (("template" "serde" "serde_json" "foreignc_template"))))))
+

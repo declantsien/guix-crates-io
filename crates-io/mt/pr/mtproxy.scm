@@ -1,0 +1,8 @@
+(define-module (crates-io mt pr mtproxy) #:use-module (crates-io))
+
+(define-public crate-mtproxy-0.0.0 (c (n "mtproxy") (v "0.0.0") (d (list (d (n "env_logger") (r "^0.5.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.3") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "slab") (r "^0.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.8") (d #t) (k 0)))) (h "14f1yhnawlknmzl9yh40jskaxjv68xgvmdfdd3jx01araih4mnkf")))
+
+(define-public crate-mtproxy-0.0.1 (c (n "mtproxy") (v "0.0.1") (d (list (d (n "bytes") (r "^0.4.7") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "rand") (r "^0.4.2") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "slab") (r "^0.4.0") (d #t) (k 0)))) (h "1mg1p5bidn1pr6m5f0hh3jadzrqq757z84x847lgsm5d97kwqj3p")))
+
+(define-public crate-mtproxy-0.0.2 (c (n "mtproxy") (v "0.0.2") (d (list (d (n "bytes") (r "^0.4.7") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "rand") (r "^0.5.0") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "slab") (r "^0.4.0") (d #t) (k 0)))) (h "01dpm1k58q2119z5251xlazym8cbpaxqpyb3csj7kwxif81yv8j3")))
+

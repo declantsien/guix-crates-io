@@ -1,0 +1,30 @@
+(define-module (crates-io mp l- mpl-utils) #:use-module (crates-io))
+
+(define-public crate-mpl-utils-0.0.1 (c (n "mpl-utils") (v "0.0.1") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.5.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)) (d (n "solana-program") (r "^1.10") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "0932psxfidhl7fdwfsh5nds712c94grw55ldiqrj1v1bqhm5ah8l") (f (quote (("default" "spl-token" "mpl-token-metadata")))) (s 2) (e (quote (("spl-token" "dep:spl-token") ("mpl-token-metadata" "dep:mpl-token-metadata"))))))
+
+(define-public crate-mpl-utils-0.0.2 (c (n "mpl-utils") (v "0.0.2") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.10") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1yvca8j9l0gj0ly14jfn0by5sjcxfb1mgqyxhf1rzvn5bipll7s5") (f (quote (("default" "spl-token")))) (s 2) (e (quote (("spl-token" "dep:spl-token"))))))
+
+(define-public crate-mpl-utils-0.0.3 (c (n "mpl-utils") (v "0.0.3") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.10") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1skxg9q24x90vylz0hwm8dnxk4dghp01f4p8gijncy13pb1cxpdv") (f (quote (("default" "spl-token")))) (s 2) (e (quote (("spl-token" "dep:spl-token"))))))
+
+(define-public crate-mpl-utils-0.0.4 (c (n "mpl-utils") (v "0.0.4") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.10") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "14awbkrzf8ms7fajsxcm2lv2v2y2ppb0rjm2xrizjly2wm6nl8yg") (f (quote (("default" "spl-token")))) (s 2) (e (quote (("spl-token" "dep:spl-token"))))))
+
+(define-public crate-mpl-utils-0.0.5 (c (n "mpl-utils") (v "0.0.5") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.10") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "19g7g74i63z2fjpfx919rlzw9yscnsq8kqz5bbnhdlwkxarnh11k") (f (quote (("token" "spl-token") ("default" "token"))))))
+
+(define-public crate-mpl-utils-0.0.6 (c (n "mpl-utils") (v "0.0.6") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.13.5") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "06h7dgp77yi6k5c67c4g5gh765nqj8irpk6h0vmd1wcjiglmq6fn") (f (quote (("token" "spl-token") ("default" "token"))))))
+
+(define-public crate-mpl-utils-0.1.0 (c (n "mpl-utils") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.13.5") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "0ri0b4miz7s7v8k180rpxw0h9vv8d5nwivj6rdm9bfhdqmj8xi3z") (f (quote (("token" "spl-token") ("default" "token"))))))
+
+(define-public crate-mpl-utils-0.2.0 (c (n "mpl-utils") (v "0.2.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "^1.14") (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "0lfvzxrf8fw3573mahgmb1c7kpb3pq9rh60fbqza9yd8rfv368c2") (f (quote (("token" "spl-token") ("default" "token"))))))
+
+(define-public crate-mpl-utils-0.3.0 (c (n "mpl-utils") (v "0.3.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "solana-program") (r "~1.14.13") (d #t) (k 0)) (d (n "spl-token-2022") (r "~0.6.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1mp5gk8cjg0rsr8pspmd89zrg2vavi0rjw610z81fsy7mw0vkk8h") (f (quote (("spl-token" "spl-token-2022") ("default" "spl-token"))))))
+
+(define-public crate-mpl-utils-0.3.1 (c (n "mpl-utils") (v "0.3.1") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "solana-program") (r ">=1.14.13, <1.17") (d #t) (k 0)) (d (n "spl-token-2022") (r ">=0.6.0, <0.7") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1j9xpwbk39mf86sdpcsvqh8qa5zmalyc1i0c7j2xa5y3ms94ybiz") (f (quote (("spl-token" "spl-token-2022") ("default" "spl-token"))))))
+
+(define-public crate-mpl-utils-0.3.2 (c (n "mpl-utils") (v "0.3.2") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "solana-program") (r ">=1.14.13, <1.17") (d #t) (k 0)) (d (n "spl-token-2022") (r ">=0.6.0, <0.9") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "1wqnj7kr0fdf6cxmnkcv1vik2q0m7sp8rvp94bl2mrskdilh7gdz") (f (quote (("spl-token")))) (y #t)))
+
+(define-public crate-mpl-utils-0.3.3 (c (n "mpl-utils") (v "0.3.3") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "solana-program") (r ">=1.14.13, <1.17") (d #t) (k 0)) (d (n "spl-token-2022") (r ">=0.6.0, <0.9") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1xqny1hd7zxap3w8hsbpzk987fmi0pkg0wkphnsy1lg3wlyak1sl") (f (quote (("spl-token" "spl-token-2022") ("default" "spl-token"))))))
+
+(define-public crate-mpl-utils-0.3.4 (c (n "mpl-utils") (v "0.3.4") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "solana-program") (r ">=1.14.13, <1.17") (d #t) (k 0)) (d (n "spl-token-2022") (r ">=0.6.0, <0.9") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1a2amz7yrip7acsqkn0mi6vn91d3177zp29nsgf4l0dkgis6ybx8") (f (quote (("spl-token" "spl-token-2022") ("default" "spl-token"))))))
+
+(define-public crate-mpl-utils-0.3.5 (c (n "mpl-utils") (v "0.3.5") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "solana-program") (r ">=1.14.13, <1.19") (d #t) (k 0)) (d (n "spl-token-2022") (r ">=0.6.0, <0.9") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "06y9jgsj7f8rsm6247v0vankbxbaglp4w8xj2555056hpwqbiqcf") (f (quote (("spl-token" "spl-token-2022") ("default" "spl-token"))))))
+

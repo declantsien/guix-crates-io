@@ -1,0 +1,4 @@
+(define-module (crates-io aw s- aws-nitro-enclaves-attestation) #:use-module (crates-io))
+
+(define-public crate-aws-nitro-enclaves-attestation-0.1.0 (c (n "aws-nitro-enclaves-attestation") (v "0.1.0") (d (list (d (n "aws-nitro-enclaves-cose") (r "^0.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.1") (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.6") (d #t) (k 0)) (d (n "serde_with") (r "^1.7.0") (f (quote ("hex"))) (d #t) (k 0)) (d (n "webpki") (r "^0.21.4") (d #t) (k 0)) (d (n "x509-parser") (r "^0.9.1") (d #t) (k 0)))) (h "1p62n85bzxv5w4z15n972zlhbn2lndmqnnbj0gcjg0p0q1578hbw")))
+

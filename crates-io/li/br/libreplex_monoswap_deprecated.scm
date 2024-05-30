@@ -1,0 +1,4 @@
+(define-module (crates-io li br libreplex_monoswap_deprecated) #:use-module (crates-io))
+
+(define-public crate-libreplex_monoswap_deprecated-0.0.0 (c (n "libreplex_monoswap_deprecated") (v "0.0.0") (d (list (d (n "anchor-lang") (r "~0.30") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "anchor-spl") (r "~0.30") (d #t) (k 0)) (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "libreplex_shared") (r "^0.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "mocha") (r "^0.1.1") (d #t) (k 2)) (d (n "mpl-token-metadata") (r "~3") (d #t) (k 0)) (d (n "solana-program") (r "~1.18") (d #t) (k 0)) (d (n "solana-program-test") (r "~1.18") (d #t) (k 2)) (d (n "solana-sdk") (r "~1.18") (d #t) (k 2)) (d (n "spl-associated-token-account") (r "^3.0.2") (d #t) (k 0)))) (h "16ac0am6p8fa2aqhvkvvgk440rapx1qwac4n99s4jrw88i0kr5d5") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

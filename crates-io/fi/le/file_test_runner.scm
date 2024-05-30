@@ -1,0 +1,20 @@
+(define-module (crates-io fi le file_test_runner) #:use-module (crates-io))
+
+(define-public crate-file_test_runner-0.1.0 (c (n "file_test_runner") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.8.4") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "16kwhi0j1c6yg0p0r0bd5qkmvx07h9xkig16rlxzhazyrgh7nrka")))
+
+(define-public crate-file_test_runner-0.2.0 (c (n "file_test_runner") (v "0.2.0") (d (list (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0ysadwjhaka4s16lss6lg27n8677ph8n1p1sl54f52wq1araqfz1")))
+
+(define-public crate-file_test_runner-0.3.0 (c (n "file_test_runner") (v "0.3.0") (d (list (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "195mwbvmb7469hb76d7s183nck9lscplxal48003w389c0m3s4fi")))
+
+(define-public crate-file_test_runner-0.4.0 (c (n "file_test_runner") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "100d17bxyx9ffyq23h6l464ljwqg0dcxdadp62q84swz1zq9wvmn")))
+
+(define-public crate-file_test_runner-0.4.1 (c (n "file_test_runner") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0jr0wvkis79qrlcyl1x2q6imvnjmzblyz6pq7p85y2nyi42b0csz")))
+
+(define-public crate-file_test_runner-0.5.0 (c (n "file_test_runner") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0l9k1nqhxn81f5lhfzi53ndb0051qw2sip1lbl75y3ph0cllsr6c")))
+
+(define-public crate-file_test_runner-0.5.1 (c (n "file_test_runner") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0399r8raqsbpilnjri1svx5dkbis4345vwwwkjl2jlc6dzddzvnm")))
+
+(define-public crate-file_test_runner-0.6.0 (c (n "file_test_runner") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0m289ximr3nbr8hmwim618v3105s4cgh5qy4sgxzw2ln54anraqy")))
+
+(define-public crate-file_test_runner-0.7.0 (c (n "file_test_runner") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1sbyq6pv3rqc8xwqa8gc5gpl2dcvqpsk034h75lc1f66qp6pyydq")))
+

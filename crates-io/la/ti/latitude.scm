@@ -1,0 +1,10 @@
+(define-module (crates-io la ti latitude) #:use-module (crates-io))
+
+(define-public crate-latitude-0.0.1 (c (n "latitude") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "barrel") (r "^0.6") (f (quote ("sqlite3" "mysql"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.4.0-beta.1") (f (quote ("runtime-tokio" "macros" "any" "mysql" "chrono" "decimal" "sqlite"))) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 2)))) (h "18va73j19i4mg1dgfikz0nbl58sis4fx6scqdij65256ghz8ldkf")))
+
+(define-public crate-latitude-0.0.2 (c (n "latitude") (v "0.0.2") (d (list (d (n "async-trait") (r ">=0.1.0, <0.2.0") (d #t) (k 0)) (d (n "barrel") (r ">=0.6.0, <0.7.0") (f (quote ("sqlite3" "mysql"))) (d #t) (k 0)) (d (n "sqlx") (r ">=0.4.1, <0.5.0") (f (quote ("runtime-tokio-rustls" "macros" "any" "mysql" "chrono" "decimal" "sqlite" "migrate"))) (k 0)) (d (n "thiserror") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (d #t) (k 2)))) (h "0ijczvwznpm17v2x8ld43l78d6rpqv5ivbbgvsj4giq25y6653s2")))
+
+(define-public crate-latitude-0.0.3 (c (n "latitude") (v "0.0.3") (d (list (d (n "async-trait") (r ">=0.1.0, <0.2.0") (d #t) (k 0)) (d (n "barrel") (r ">=0.6.0, <0.7.0") (f (quote ("sqlite3" "mysql"))) (d #t) (k 0)) (d (n "sqlx") (r ">=0.4.1, <0.5.0") (f (quote ("runtime-tokio-rustls" "macros" "any" "mysql" "chrono" "decimal" "sqlite" "migrate"))) (k 0)) (d (n "thiserror") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (d #t) (k 2)))) (h "0320msc7mlmvjqn66mkp75gh77zj3090qrayh46zhsrd7kk590yg")))
+
+(define-public crate-latitude-0.0.4 (c (n "latitude") (v "0.0.4") (d (list (d (n "async-trait") (r ">=0.1.0, <0.2.0") (d #t) (k 0)) (d (n "barrel") (r ">=0.6.0, <0.7.0") (f (quote ("sqlite3" "mysql"))) (d #t) (k 0)) (d (n "sqlx") (r ">=0.4.1, <0.5.0") (f (quote ("runtime-tokio-rustls" "macros" "any" "mysql" "chrono" "decimal" "sqlite" "migrate"))) (k 0)) (d (n "thiserror") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "tokio") (r ">=0.2.0, <0.3.0") (d #t) (k 2)))) (h "1z2wy6fs4kyyicwjzrsqw1z3jxcvw5fms8zn4lmbx02vrxzd5l5b")))
+

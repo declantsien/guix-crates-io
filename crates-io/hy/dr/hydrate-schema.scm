@@ -1,0 +1,6 @@
+(define-module (crates-io hy dr hydrate-schema) #:use-module (crates-io))
+
+(define-public crate-hydrate-schema-0.0.1 (c (n "hydrate-schema") (v "0.0.1") (d (list (d (n "ahash") (r "^0.7.4") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.69") (o #t) (d #t) (k 0)) (d (n "globwalk") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "profiling") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.85") (f (quote ("std"))) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "06vnsff4wxrwqb1pkz29rhzrrr5s0n383hhrw7zd252gj4mp4ywb")))
+
+(define-public crate-hydrate-schema-0.0.2 (c (n "hydrate-schema") (v "0.0.2") (d (list (d (n "ahash") (r "^0.7.4") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.69") (o #t) (d #t) (k 0)) (d (n "dunce") (r "^1.0.4") (d #t) (k 0)) (d (n "globwalk") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "profiling") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.85") (f (quote ("std"))) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "12yb7mxvhmda7rh1kfr2p2pgfv3a2d647gkp01zcvqg18wjfqwc8")))
+

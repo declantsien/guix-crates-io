@@ -1,0 +1,4 @@
+(define-module (crates-io de sk deskc-thirgen) #:use-module (crates-io))
+
+(define-public crate-deskc-thirgen-0.0.0 (c (n "deskc-thirgen") (v "0.0.0") (d (list (d (n "chumsky") (r "^0.8.0") (d #t) (k 2)) (d (n "file") (r "^0.0.0") (d #t) (k 0) (p "deskc-file")) (d (n "hir") (r "^0.0.0") (d #t) (k 0) (p "deskc-hir")) (d (n "hirgen") (r "^0.0.0") (d #t) (k 2) (p "deskc-hirgen")) (d (n "lexer") (r "^0.0.0") (d #t) (k 2) (p "deskc-lexer")) (d (n "parser") (r "^0.0.0") (d #t) (k 2) (p "deskc-parser")) (d (n "pretty_assertions") (r "^1.0.0") (d #t) (k 2)) (d (n "thir") (r "^0.0.0") (d #t) (k 0) (p "deskc-thir")) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "typeinfer") (r "^0.0.0") (d #t) (k 2) (p "deskc-typeinfer")) (d (n "types") (r "^0.0.0") (d #t) (k 0) (p "deskc-types")))) (h "1hphhnjf43av6dlk6zhhsvvgk8w94m3sav31jz6cp6qv3ww1pwbj")))
+

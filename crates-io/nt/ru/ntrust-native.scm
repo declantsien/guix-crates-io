@@ -1,0 +1,6 @@
+(define-module (crates-io nt ru ntrust-native) #:use-module (crates-io))
+
+(define-public crate-ntrust-native-1.0.0 (c (n "ntrust-native") (v "1.0.0") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "criterion-cycles-per-byte") (r "^0.1.2") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("sha3"))) (d #t) (k 0)))) (h "1fjwl603gw1y4x96ia0qxmh45mbidvr64civ4gqa4d0nxhpixfbz") (f (quote (("ntruhrss701" "ntruhrss") ("ntruhrss") ("ntruhps4096821" "ntruhps") ("ntruhps2048677" "ntruhps") ("ntruhps2048509" "ntruhps") ("ntruhps") ("default"))))))
+
+(define-public crate-ntrust-native-1.0.1 (c (n "ntrust-native") (v "1.0.1") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "criterion-cycles-per-byte") (r "^0.1.2") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("sha3"))) (d #t) (k 0)))) (h "03q0gk3xf3kz84h3bs0lngxz5cxzi2j5l2hjf84cqq566n6br0mm") (f (quote (("ntruhrss701" "ntruhrss") ("ntruhrss") ("ntruhps4096821" "ntruhps") ("ntruhps2048677" "ntruhps") ("ntruhps2048509" "ntruhps") ("ntruhps") ("default"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io le mo lemon-tree-derive) #:use-module (crates-io))
+
+(define-public crate-lemon-tree-derive-0.1.0 (c (n "lemon-tree-derive") (v "0.1.0") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1g6zh3rbmkly6m8zkycrzhq9yyg7k76l7l7njnd47q1h1c3375sy") (f (quote (("dump-lemon-grammar") ("dump-grammar"))))))
+
+(define-public crate-lemon-tree-derive-0.1.1 (c (n "lemon-tree-derive") (v "0.1.1") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0kqk18ki02pp0ixvv41r3pvws4pq8irkl17ky3hgwvy3m0smipf2") (f (quote (("dump-lemon-grammar") ("dump-grammar"))))))
+
+(define-public crate-lemon-tree-derive-1.0.0 (c (n "lemon-tree-derive") (v "1.0.0") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0l4cgqg62pm3d2fs7kn11bz2cdrz7562m861rs04lw30dfm7lspv") (f (quote (("dump-lemon-grammar") ("dump-grammar"))))))
+
+(define-public crate-lemon-tree-derive-1.0.1 (c (n "lemon-tree-derive") (v "1.0.1") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "11259lrhpzcy9dpj52idkyaw66bfk10hi6s6zs2dk43adggl9vxh") (f (quote (("dump-lemon-grammar") ("dump-grammar"))))))
+
+(define-public crate-lemon-tree-derive-1.0.2 (c (n "lemon-tree-derive") (v "1.0.2") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0v13v2hkhfkfaz4d94pyqqkhkh7zpjz0k8aln58f0g3x50iz9z71") (f (quote (("dump-lemon-grammar") ("dump-grammar"))))))
+
+(define-public crate-lemon-tree-derive-1.0.3 (c (n "lemon-tree-derive") (v "1.0.3") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1y6njd4nav0nqr8z34pvc7lvjbwyxyzi2mc00l9600xda3qqx412") (f (quote (("dump-lemon-grammar") ("dump-grammar") ("debug-parser-to-file"))))))
+
+(define-public crate-lemon-tree-derive-1.0.4 (c (n "lemon-tree-derive") (v "1.0.4") (d (list (d (n "lemon-mint") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0g7my5icrvipdsik46sca2h654r6b7klasgs0zrzdfcmi1jcl79f") (f (quote (("dump-lemon-grammar") ("dump-grammar") ("debug-parser-to-file"))))))
+

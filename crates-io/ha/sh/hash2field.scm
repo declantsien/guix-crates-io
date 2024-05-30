@@ -1,0 +1,8 @@
+(define-module (crates-io ha sh hash2field) #:use-module (crates-io))
+
+(define-public crate-hash2field-0.2.0 (c (n "hash2field") (v "0.2.0") (d (list (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "elliptic-curve") (r "^0.9") (f (quote ("arithmetic"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "k256") (r "^0.8") (f (quote ("expose-field"))) (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (d #t) (k 2)) (d (n "num-integer") (r "^0.1") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (d #t) (k 2)) (d (n "subtle") (r "^2.4") (d #t) (k 0)))) (h "0rpdkjlqgc3cvqy1lgz6fy41q3zj6wwyln408zc5x24sx1dmwkfa")))
+
+(define-public crate-hash2field-0.3.0 (c (n "hash2field") (v "0.3.0") (d (list (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "elliptic-curve") (r "^0.10") (f (quote ("arithmetic"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "k256") (r "^0.8") (f (quote ("expose-field"))) (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (d #t) (k 2)) (d (n "num-integer") (r "^0.1") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (d #t) (k 2)) (d (n "subtle") (r "^2.4") (d #t) (k 0)))) (h "1xaj5s8vaq38sbd4i5xy5awh18m4ag5k5mv373l4srw3p9f4gpb5")))
+
+(define-public crate-hash2field-0.4.0 (c (n "hash2field") (v "0.4.0") (d (list (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "elliptic-curve") (r "^0.11") (f (quote ("arithmetic"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "k256") (r "^0.8") (f (quote ("expose-field"))) (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (d #t) (k 2)) (d (n "num-integer") (r "^0.1") (d #t) (k 2)) (d (n "sha2") (r "^0.9") (d #t) (k 2)) (d (n "subtle") (r "^2.4") (d #t) (k 0)))) (h "1wkw1svipy8594bzhjqb0bbhb4hwk711h2yvd67fjkr9lw7923zn")))
+

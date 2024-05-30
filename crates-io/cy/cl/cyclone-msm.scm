@@ -1,0 +1,4 @@
+(define-module (crates-io cy cl cyclone-msm) #:use-module (crates-io))
+
+(define-public crate-cyclone-msm-0.1.0-pre (c (n "cyclone-msm") (v "0.1.0-pre") (d (list (d (n "argh") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "argh") (r "^0.1") (d #t) (k 2)) (d (n "ark-bls12-377") (r "=0.4.0-alpha.1") (d #t) (k 0)) (d (n "ark-ec") (r "=0.4.0-alpha.4") (k 0)) (d (n "ark-ff") (r "=0.4.0-alpha.5") (k 0)) (d (n "ark-std") (r "=0.4.0-alpha") (k 0)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "fpga") (r "^0.1.0-pre") (k 0) (p "cyclone-fpga")) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 0)) (d (n "seq-macro") (r "^0.3") (d #t) (k 0)))) (h "09j7js29zqb0mgmqq2aicdzyxlix8vfmqqnqd9h0jpzhj5wqqwcb") (f (quote (("timings") ("hw" "fpga/f1") ("demo" "argh") ("default" "hw")))) (r "1.62")))
+

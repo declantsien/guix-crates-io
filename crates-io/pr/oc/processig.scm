@@ -1,0 +1,8 @@
+(define-module (crates-io pr oc processig) #:use-module (crates-io))
+
+(define-public crate-processig-0.0.0 (c (n "processig") (v "0.0.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mazth") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "num") (r "^0.1.40") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "zpatial") (r "^0.0.0") (d #t) (k 0)))) (h "1zhhvhk9y7ag13x95zvsf9iwvbvldmiqpy0lgv8s7q9ilh7qsi8f")))
+
+(define-public crate-processig-0.0.1 (c (n "processig") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mazth") (r "^0.2.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.11.2") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "zpatial") (r "^0.0.0") (d #t) (k 0)))) (h "05kj4n02ki8sl52wcr09r53z3agkw5n0hri86ndpj13x6ds12rci")))
+
+(define-public crate-processig-0.0.2 (c (n "processig") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "image") (r "^0.20") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mazth") (r "^0.2.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.12") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "zpatial") (r "^0.0.0") (d #t) (k 0)))) (h "18assvmfw6d5dfinka6963agvi99jlqjki89jk6nvqa8881dizx6")))
+

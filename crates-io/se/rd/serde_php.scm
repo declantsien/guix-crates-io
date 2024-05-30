@@ -1,0 +1,16 @@
+(define-module (crates-io se rd serde_php) #:use-module (crates-io))
+
+(define-public crate-serde_php-0.2.0 (c (n "serde_php") (v "0.2.0") (d (list (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.4") (d #t) (k 0)))) (h "1wzd9hmlfx5psy91v93dfchy630rgp1jp14d2gmpinmbg2182r33")))
+
+(define-public crate-serde_php-0.2.1 (c (n "serde_php") (v "0.2.1") (d (list (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.4") (d #t) (k 0)))) (h "1i9060s19zzs3g3qb1srwv33qqmf3ycll98lwcqq2ypqv63ag938")))
+
+(define-public crate-serde_php-0.2.2 (c (n "serde_php") (v "0.2.2") (d (list (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.4") (d #t) (k 0)))) (h "0p5jcx6rqhraw9wf5i1w1wp6pljxv51nwzjaisjb20glygs64cj8")))
+
+(define-public crate-serde_php-0.3.0 (c (n "serde_php") (v "0.3.0") (d (list (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)))) (h "068pkyj3gz81rmqm389yl0k3p1iy3rd0nygp1k39995bkipc8zfi")))
+
+(define-public crate-serde_php-0.4.0 (c (n "serde_php") (v "0.4.0") (d (list (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)))) (h "1cbkg8fz832kpvaagbzlnbpxakfkmws8s90anmidb6a57639nf0x")))
+
+(define-public crate-serde_php-0.4.1 (c (n "serde_php") (v "0.4.1") (d (list (d (n "bson") (r "^0.14.0") (d #t) (k 2)) (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)))) (h "12jd4mq8qsfhhdqz8k3hq4m5rg6mc9059mw21l1bxf62rz4r6nb0")))
+
+(define-public crate-serde_php-0.5.0 (c (n "serde_php") (v "0.5.0") (d (list (d (n "bson") (r "^0.14.0") (d #t) (k 2)) (d (n "displaydoc") (r "^0.1.4") (d #t) (k 0)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_bytes") (r "^0.11.2") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.10") (d #t) (k 0)))) (h "1kbn1f2l8qciq1h4p8jvf2w155z33yg81zk72bqv78apk692vp6l")))
+

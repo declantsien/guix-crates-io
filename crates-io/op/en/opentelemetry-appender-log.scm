@@ -1,0 +1,10 @@
+(define-module (crates-io op en opentelemetry-appender-log) #:use-module (crates-io))
+
+(define-public crate-opentelemetry-appender-log-0.1.0 (c (n "opentelemetry-appender-log") (v "0.1.0") (d (list (d (n "log") (r "^0.4.17") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "opentelemetry_api") (r "^0.20") (f (quote ("logs"))) (d #t) (k 0)))) (h "1pvdlw8qw4y2frasbq53616qbh8ijhwaq9fa3g4kk0qv9a221n3d") (f (quote (("logs_level_enabled" "opentelemetry_api/logs_level_enabled") ("default" "logs_level_enabled")))) (r "1.60")))
+
+(define-public crate-opentelemetry-appender-log-0.2.0 (c (n "opentelemetry-appender-log") (v "0.2.0") (d (list (d (n "log") (r "^0.4.17") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "opentelemetry") (r "^0.21") (f (quote ("logs"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (d #t) (k 2)))) (h "04lmr62ha417sd6z44k6cv362pbg19bvpynq8n7nca82zi36kqnb") (f (quote (("logs_level_enabled" "opentelemetry/logs_level_enabled") ("default" "logs_level_enabled")))) (r "1.65")))
+
+(define-public crate-opentelemetry-appender-log-0.3.0 (c (n "opentelemetry-appender-log") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (f (quote ("kv_unstable" "std"))) (d #t) (k 0)) (d (n "opentelemetry") (r "^0.22") (f (quote ("logs"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (k 2)))) (h "1d79hqf7k1lyfxgnslydpf0kn0xqbw952na05vp63ay1gamsdygy") (f (quote (("logs_level_enabled" "opentelemetry/logs_level_enabled") ("default" "logs_level_enabled")))) (r "1.65")))
+
+(define-public crate-opentelemetry-appender-log-0.4.0 (c (n "opentelemetry-appender-log") (v "0.4.0") (d (list (d (n "log") (r "^0.4.21") (f (quote ("kv" "std"))) (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("kv_serde"))) (d #t) (k 2)) (d (n "opentelemetry") (r "^0.23") (f (quote ("logs"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("std"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("std" "derive"))) (k 2)) (d (n "tokio") (r "^1") (k 2)))) (h "10vi5ch1lrwdcd8zzr4v9pkm7v7kyhnlp8d2imvnrfbf8y5q4s39") (f (quote (("with-serde" "log/kv_serde" "serde") ("logs_level_enabled" "opentelemetry/logs_level_enabled") ("default" "logs_level_enabled")))) (r "1.65")))
+

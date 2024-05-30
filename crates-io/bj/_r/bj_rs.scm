@@ -1,0 +1,6 @@
+(define-module (crates-io bj _r bj_rs) #:use-module (crates-io))
+
+(define-public crate-bj_rs-0.1.0 (c (n "bj_rs") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete_command") (r "^0.5.1") (f (quote ("carapace"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.5.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("serde" "local-offset" "serde-well-known"))) (d #t) (k 0)))) (h "1ry9djzrx7wkizgf3mmfkkfjvlja9qmh8gqj6akm04h3fa4d16nv")))
+
+(define-public crate-bj_rs-0.2.0 (c (n "bj_rs") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete_command") (r "^0.5.1") (f (quote ("carapace"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.5.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("serde" "local-offset" "serde-well-known"))) (d #t) (k 0)))) (h "0jdxr0v6f0v3lw2p9hr8cz10w7vnj0cgi49f2myjgdd7pj65y870")))
+

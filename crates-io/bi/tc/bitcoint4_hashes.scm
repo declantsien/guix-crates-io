@@ -1,0 +1,4 @@
+(define-module (crates-io bi tc bitcoint4_hashes) #:use-module (crates-io))
+
+(define-public crate-bitcoint4_hashes-0.12.0 (c (n "bitcoint4_hashes") (v "0.12.0") (d (list (d (n "actual-schemars") (r "<=0.8.3") (o #t) (d #t) (k 0) (p "schemars")) (d (n "core2") (r "^0.3.0") (o #t) (k 0)) (d (n "dyn-clone") (r "<=1.0.7") (o #t) (k 0)) (d (n "internals") (r "^0.1.2") (d #t) (k 0) (p "bitcoint4-private")) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (t "wasm32-unknown-unknown") (k 2)))) (h "1n5wb8jwcr7kynx074m69mwi9iw77a56xapdfvbplag1zr6s0di4") (f (quote (("std" "alloc" "internals/std") ("serde-std" "serde/std") ("schemars" "actual-schemars" "dyn-clone") ("default" "std") ("alloc" "internals/alloc"))))))
+

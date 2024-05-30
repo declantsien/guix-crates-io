@@ -1,0 +1,8 @@
+(define-module (crates-io st ep step-machine) #:use-module (crates-io))
+
+(define-public crate-step-machine-0.1.0 (c (n "step-machine") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusty-hook") (r "^0.11") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "00g5aq2q9jcpkfc5l7mvv936sgaq6s5d17a5m0g90rj8cv6m705p")))
+
+(define-public crate-step-machine-0.1.1 (c (n "step-machine") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusty-hook") (r "^0.11") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "15g3gyapdx9qlinbk03vdxx227ybcwdcikdg6mqqf2zlwhb0hqwn")))
+
+(define-public crate-step-machine-0.2.0 (c (n "step-machine") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (d #t) (k 2)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusty-hook") (r "^0.11") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "11y1ldbvr1jlwqr2vllk9z44yw9bgx8jd83k50wz7imf7axigfqd")))
+

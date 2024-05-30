@@ -1,0 +1,20 @@
+(define-module (crates-io po lk polkatool) #:use-module (crates-io))
+
+(define-public crate-polkatool-0.1.1 (c (n "polkatool") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.1.1") (d #t) (k 0)))) (h "1d19q5r780nag7cinc18kap6kxg0z2a6wk3f3y3k99zw2h8p8hx8") (r "1.70.0")))
+
+(define-public crate-polkatool-0.2.0 (c (n "polkatool") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.2.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.2.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.2.0") (d #t) (k 0)))) (h "0ygpv8rla1g4ycwkyaz2y6pqfrjwxwpp8m159p58xgzmc4v2idln") (r "1.70.0")))
+
+(define-public crate-polkatool-0.3.0 (c (n "polkatool") (v "0.3.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.3.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.3.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.3.0") (d #t) (k 0)))) (h "0kr1s5gz20imszl64wxrsqwx7rz2m68kndhb7maghdwn2g5pd572") (r "1.70.0")))
+
+(define-public crate-polkatool-0.4.0 (c (n "polkatool") (v "0.4.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.4.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.4.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.4.0") (d #t) (k 0)))) (h "1q3scws4164lgb9c3q27riray6zcv2limgpi16dp3gyzglmr3pky") (r "1.70.0")))
+
+(define-public crate-polkatool-0.5.0 (c (n "polkatool") (v "0.5.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.5.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.5.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.5.0") (d #t) (k 0)))) (h "0yrwrp06gn9fv9dbvpk6yqq0zz6c37b1qj8kycjaqpyr2y2ghlw6") (r "1.70.0")))
+
+(define-public crate-polkatool-0.6.0 (c (n "polkatool") (v "0.6.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.6.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.6.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.6.0") (d #t) (k 0)))) (h "02sanqjbf5hclf19wgw66g3d5lkamr45g4zgk7xwf928rda68dsq") (r "1.70.0")))
+
+(define-public crate-polkatool-0.7.0 (c (n "polkatool") (v "0.7.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.7.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.7.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.7.0") (d #t) (k 0)))) (h "0ckjipp2d81nnsx66q0qvcijkrbj3ad1718kz5baynjfgh34gcva") (r "1.70.0")))
+
+(define-public crate-polkatool-0.8.0 (c (n "polkatool") (v "0.8.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.8.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.8.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.8.0") (d #t) (k 0)))) (h "1vc6lqj9dpbzhafc2li9lb0yb0y6y6kchp1iagxm0qca0l3vrfbx") (r "1.70.0")))
+
+(define-public crate-polkatool-0.9.0 (c (n "polkatool") (v "0.9.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (k 0)) (d (n "iced-x86") (r "^1.20.0") (f (quote ("code_asm"))) (d #t) (k 0)) (d (n "polkavm") (r "^0.9.0") (d #t) (k 0)) (d (n "polkavm-common") (r "^0.9.0") (d #t) (k 0)) (d (n "polkavm-linker") (r "^0.9.0") (d #t) (k 0)))) (h "1hiskqaikgiaxb9aqspn8zn19v19g97178ajnksq2dssd0483j9b") (r "1.70.0")))
+

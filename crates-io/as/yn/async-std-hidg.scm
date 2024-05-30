@@ -1,0 +1,6 @@
+(define-module (crates-io as yn async-std-hidg) #:use-module (crates-io))
+
+(define-public crate-async-std-hidg-0.1.0 (c (n "async-std-hidg") (v "0.1.0") (d (list (d (n "async-io") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "hidg-core") (r "^0.1.0") (k 0)))) (h "0xkbg6n2j2zz59jbp58ns7z3lv3472awv4yp00vv0bkx9h3d6vcr") (f (quote (("serde" "hidg-core/serde") ("phf" "hidg-core/phf") ("mouse" "hidg-core/mouse") ("keyboard" "hidg-core/keyboard") ("fromstr" "hidg-core/fromstr") ("either" "hidg-core/either") ("display" "hidg-core/display") ("default" "fromstr" "display" "phf" "keyboard" "mouse"))))))
+
+(define-public crate-async-std-hidg-0.1.1 (c (n "async-std-hidg") (v "0.1.1") (d (list (d (n "async-io") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "hidg-core") (r "^0.1.1") (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)))) (h "17wdcf5vpbwbbafqnw50lahx0g3rwyi4msiy1k2r0p6xjjsdh2i8") (f (quote (("serde" "hidg-core/serde") ("phf" "hidg-core/phf") ("mouse" "hidg-core/mouse") ("keyboard" "hidg-core/keyboard") ("fromstr" "hidg-core/fromstr") ("either" "hidg-core/either") ("display" "hidg-core/display") ("default" "fromstr" "display" "phf" "keyboard" "mouse"))))))
+

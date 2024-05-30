@@ -1,0 +1,8 @@
+(define-module (crates-io ir ox irox-safe-windows) #:use-module (crates-io))
+
+(define-public crate-irox-safe-windows-0.1.0 (c (n "irox-safe-windows") (v "0.1.0") (d (list (d (n "windows") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_Security_Credentials" "Win32_Graphics_Gdi"))) (k 0)))) (h "14l9df1y89d6kb2z6fjjbwswpb3knh3r9nci3si33r4wa92dxsjg")))
+
+(define-public crate-irox-safe-windows-0.1.1 (c (n "irox-safe-windows") (v "0.1.1") (d (list (d (n "windows") (r "^0.54.0") (f (quote ("Win32_Foundation" "Win32_Security_Credentials" "Win32_Graphics_Gdi"))) (t "cfg(windows)") (k 0)))) (h "1xqc1b3zyqqjkq5w9avix2avpv56ni8h0ja064k200a7zhcqwbla")))
+
+(define-public crate-irox-safe-windows-0.1.2 (c (n "irox-safe-windows") (v "0.1.2") (d (list (d (n "futures-lite") (r "^2.3") (f (quote ("futures-io"))) (o #t) (d #t) (k 0)) (d (n "irox-bits") (r "^0") (f (quote ("std"))) (d #t) (k 0)) (d (n "irox-log") (r "^0") (d #t) (t "cfg(windows)") (k 0)) (d (n "irox-structs") (r "^0.5") (d #t) (t "cfg(windows)") (k 0)) (d (n "irox-threading") (r "^0.2.4") (d #t) (k 2)) (d (n "irox-tools") (r "^0") (f (quote ("std"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("full"))) (d #t) (k 2)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Foundation" "Win32_Security_Credentials" "Win32_Graphics_Gdi" "Win32_System_SystemInformation" "Win32_System_IO" "Win32_Storage_FileSystem" "Win32_Security" "Win32_System_Threading"))) (t "cfg(windows)") (k 0)))) (h "08r2dihcygjznbgl8xxvlvcd6jwcv9z7s6s4xqjwccvyb279gg7c") (f (quote (("default")))) (s 2) (e (quote (("async" "dep:futures-lite"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ma pi mapillary-seq-cleanup) #:use-module (crates-io))
+
+(define-public crate-mapillary-seq-cleanup-0.1.0 (c (n "mapillary-seq-cleanup") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "geo") (r "^0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1zlmkiqnfm1076bpsjyz7md2iryqis14sv13p3dpr7jxfdb3ysr4")))
+
+(define-public crate-mapillary-seq-cleanup-0.1.1 (c (n "mapillary-seq-cleanup") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "geo") (r "^0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1gk36g3ibmrs3g2v3fl1zipd8wsvqj3agn9rg7zl7w0drv5dnlg5")))
+
+(define-public crate-mapillary-seq-cleanup-0.1.2 (c (n "mapillary-seq-cleanup") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "geo") (r "^0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "042fr7l27qbm2mk3vw4pkkhkygf9niiyvilljnp1938q64zrv4ch")))
+

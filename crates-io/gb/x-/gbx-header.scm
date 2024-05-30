@@ -1,0 +1,22 @@
+(define-module (crates-io gb x- gbx-header) #:use-module (crates-io))
+
+(define-public crate-gbx-header-0.1.0 (c (n "gbx-header") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "1j28mvw75yixy9w2v9gnbmi86wbiv1aa8y80dqafqrz0v642jd9s")))
+
+(define-public crate-gbx-header-0.1.1 (c (n "gbx-header") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "04rfi1ar05kmrrlcsybkx177289k3vq2i2qd7616w34dpll8ny2n")))
+
+(define-public crate-gbx-header-0.2.0 (c (n "gbx-header") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "1ikjvivrzximf66yndn7m64kbbg182jk8im64cxgvyry6j57cr3y")))
+
+(define-public crate-gbx-header-0.2.1 (c (n "gbx-header") (v "0.2.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "1jmj2wp4fcf9r8jyaq7plrs7xrsa7j45g18yw1rkshsqnnwbvsmr")))
+
+(define-public crate-gbx-header-0.2.2 (c (n "gbx-header") (v "0.2.2") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "1sq5pmgc0g49b7bjdihgvz319dks44xsnxzq233h2pm9v6lqhnhv")))
+
+(define-public crate-gbx-header-0.3.0 (c (n "gbx-header") (v "0.3.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "1h0ghmh0zk25zsd51hknhx8i0359209qhkfxavdl9s8f6gqk4l7n")))
+
+(define-public crate-gbx-header-0.4.0 (c (n "gbx-header") (v "0.4.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "0ppbifl7d82vvkflhkxbxkhcza1mh02maymd0aqybypwqy1z7lg9")))
+
+(define-public crate-gbx-header-0.5.0 (c (n "gbx-header") (v "0.5.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "0wczqz7nfms2bzq0z997fl2hib93ff1nm68qdfi791p3abddmr38")))
+
+(define-public crate-gbx-header-0.5.1 (c (n "gbx-header") (v "0.5.1") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "0kn8i879rgb6js6g2jg0rrx8kqn27x7zprhfcdrbw8c29baybdc6")))
+
+(define-public crate-gbx-header-0.6.0 (c (n "gbx-header") (v "0.6.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "enum-repr") (r "^0.2.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.120") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "0ls9k9jfyvd9knvjv9ydaiwqllsr5jmjrqv2l6p4hsdc3y9nypax")))
+

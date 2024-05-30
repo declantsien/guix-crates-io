@@ -1,0 +1,130 @@
+(define-module (crates-io re _s re_set-lib) #:use-module (crates-io))
+
+(define-public crate-re_set-lib-0.6.4 (c (n "re_set-lib") (v "0.6.4") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "172p9f4rmgky5agd4hv49iyvhxjcxk2kwpxwg95wq38mpwbnk9a3")))
+
+(define-public crate-re_set-lib-0.6.5 (c (n "re_set-lib") (v "0.6.5") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "165vz87720ykl4ps8iwz6jyf9blffszh995ywlfwc7zf6axjms2n")))
+
+(define-public crate-re_set-lib-0.6.6 (c (n "re_set-lib") (v "0.6.6") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0lq9fgrccx8gbqz8chkc134j0v8x380h9p45zvfx2xh49r5x9651")))
+
+(define-public crate-re_set-lib-0.6.7 (c (n "re_set-lib") (v "0.6.7") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "04f9nyi30kcdmww3lb7lpc9kmrsznjggk76vpcpl93z9bniyh58d")))
+
+(define-public crate-re_set-lib-0.6.8 (c (n "re_set-lib") (v "0.6.8") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1pg5qrnm8jhgd8r8lbnzqcfnnjghj1dz167x73a9z226ppqj8fl9")))
+
+(define-public crate-re_set-lib-0.6.9 (c (n "re_set-lib") (v "0.6.9") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1i53l0nwn5wpxpgwwlzi5yfy68rzgcvzhg1psvh3hsyddd1i1lc2")))
+
+(define-public crate-re_set-lib-0.7.0 (c (n "re_set-lib") (v "0.7.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "03f2mznyaj1g6d4nynv9qnhd7ivsiinhvw6wa5spghd299zbnn69")))
+
+(define-public crate-re_set-lib-0.7.1 (c (n "re_set-lib") (v "0.7.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1nj3cwvc8q1wgk2i1msffqckdl465iz0hrb2kxm5qpp1k8ax82f3")))
+
+(define-public crate-re_set-lib-0.7.2 (c (n "re_set-lib") (v "0.7.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0v8l2fnajl0k90gmmig1aan3h6hlzj38vwji9grpyzpmj9h4f5ml")))
+
+(define-public crate-re_set-lib-0.7.3 (c (n "re_set-lib") (v "0.7.3") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1hmjj0sag52hi6n4kcwgq6bngbi1h0xb88n3ym8a02676yvpci1v")))
+
+(define-public crate-re_set-lib-0.7.4 (c (n "re_set-lib") (v "0.7.4") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0fn3ysg7xrx0k55lqy4h2i36wafky3vn7pbh1w6g0s39vwaqhlf0")))
+
+(define-public crate-re_set-lib-0.7.5 (c (n "re_set-lib") (v "0.7.5") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "08jg8k3ixkr32akfsnph2drfpyjk7wwbs30j67xn162ascky2gad")))
+
+(define-public crate-re_set-lib-0.7.7 (c (n "re_set-lib") (v "0.7.7") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "04idx1rbn35mbrwfnxhsvpp07c76bdj2h98ns8znfr5w6kwfy7qj")))
+
+(define-public crate-re_set-lib-0.7.8 (c (n "re_set-lib") (v "0.7.8") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1cp0w7yv9xqqfiwgg4jjzz69x5hrgffcx92z22b2klk5194qpypm")))
+
+(define-public crate-re_set-lib-0.7.9 (c (n "re_set-lib") (v "0.7.9") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0ld68rwi4skrwpvc2w33l2zw372sr22q7cjiqzxzlgjh4bd96cvb")))
+
+(define-public crate-re_set-lib-0.8.0 (c (n "re_set-lib") (v "0.8.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0jikdmyhiiqrv5scjy49jprrdnprydskm7phxn3pa9bj9spwvrfr")))
+
+(define-public crate-re_set-lib-0.8.1 (c (n "re_set-lib") (v "0.8.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "03p9zbvyikpnnz5dvcqxkyafifk62f1rycnl86qzc5b8l2jabnv2")))
+
+(define-public crate-re_set-lib-0.8.2 (c (n "re_set-lib") (v "0.8.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1jrrl4fci2ipj0wv3w1skkllm6fpl7pfrv9bq13rn3vfibz11a1p")))
+
+(define-public crate-re_set-lib-0.8.3 (c (n "re_set-lib") (v "0.8.3") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1b3fsgq4b8dyyxln0mcazgrrspsmfnpkqa750p09vkmfyv44zh6b")))
+
+(define-public crate-re_set-lib-0.8.4 (c (n "re_set-lib") (v "0.8.4") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "08pv7x08mss3kqsys1j9hl3igrm782vh6cqllk21wdblrkynff96")))
+
+(define-public crate-re_set-lib-0.8.5 (c (n "re_set-lib") (v "0.8.5") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "00ridzhs8p8j0c6c9vrpzh6fjq1jcjqmy7xyp697ypsni2g6agsm")))
+
+(define-public crate-re_set-lib-0.8.6 (c (n "re_set-lib") (v "0.8.6") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1lh45vjzannlbhxqja77l696kbzv0w9rs69bx8kw9kvz6r6ilkkq")))
+
+(define-public crate-re_set-lib-0.8.7 (c (n "re_set-lib") (v "0.8.7") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0x4m064091d7z43a3z99c1znmvhgs4x497llcqshylpmpqmakfii")))
+
+(define-public crate-re_set-lib-1.0.0 (c (n "re_set-lib") (v "1.0.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1763w7bihax7xjv684mi2bh7kl5m1n560zvf0yrdbp14pzn8gxjg")))
+
+(define-public crate-re_set-lib-1.1.0 (c (n "re_set-lib") (v "1.1.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "12g264gf835ba0fk63ah85nyi0szmrri8932mg8v1w1crqimhb36")))
+
+(define-public crate-re_set-lib-1.1.1 (c (n "re_set-lib") (v "1.1.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0wyqag9jcsfymn8sp11l92qpkv4wl90afqj6m1pq82f7a0jaw846")))
+
+(define-public crate-re_set-lib-1.1.2 (c (n "re_set-lib") (v "1.1.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1nwmdb1wnahil5cq02n3110z4fzwzd2m24lalkjhj6lymyf1s7zh")))
+
+(define-public crate-re_set-lib-2.0.0 (c (n "re_set-lib") (v "2.0.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0dd0z1szcnqjliy1cnwgcpgybzmn1gax8gnjqgmp5ais6xivxjc9")))
+
+(define-public crate-re_set-lib-2.1.0 (c (n "re_set-lib") (v "2.1.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0flmh2zvzq72asrn1rkf30xy1bwa4bg49366fp4wh74vr4r3sx7f")))
+
+(define-public crate-re_set-lib-2.2.0 (c (n "re_set-lib") (v "2.2.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "05w1117m3zqrm6rvyyfiih0ivgapvlzssbs7kpxdqk43299mzm6q")))
+
+(define-public crate-re_set-lib-2.3.0 (c (n "re_set-lib") (v "2.3.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1gkjgzmix08kmw5llp0kpw8kxk1i3r7lydanayxbai0ycml0y3wi")))
+
+(define-public crate-re_set-lib-2.4.0 (c (n "re_set-lib") (v "2.4.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0nzmkav6ql3lqs1j441jzxabgi2d1xyd8bfcmgd3mz34a3p6ir3s")))
+
+(define-public crate-re_set-lib-2.4.1 (c (n "re_set-lib") (v "2.4.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1294rz3rjpqy4r27rkhlvm1iabn140apghd22bz1n53m0zbq1kdn")))
+
+(define-public crate-re_set-lib-2.4.2 (c (n "re_set-lib") (v "2.4.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0z4mxj31imambmnmnpy6mwfdfsfd10g559h6djbzbaph1djcc0mb")))
+
+(define-public crate-re_set-lib-2.5.2 (c (n "re_set-lib") (v "2.5.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0f9w7ff0zcv16sww6fyjxi5ij3pjlgpca1waqy2457yknbd630x9")))
+
+(define-public crate-re_set-lib-2.5.3 (c (n "re_set-lib") (v "2.5.3") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1fdfp53pmcbfjk2bdvvp049hh43hm4d3xvkh9yzg48k8lvm3i7pg")))
+
+(define-public crate-re_set-lib-2.7.0 (c (n "re_set-lib") (v "2.7.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1r5yymx9hiap53x6y01nax5v81j3df30nbqjsdcc71k0cyjx6q37")))
+
+(define-public crate-re_set-lib-2.8.0 (c (n "re_set-lib") (v "2.8.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "105s72wiichn8x5rd5wvgkh8zk223x7szjik1ncz6mnh40ba0gp5")))
+
+(define-public crate-re_set-lib-2.9.0 (c (n "re_set-lib") (v "2.9.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0nsx51qziq0s9dflxlwbf7z7d3fj2vdndl88qjb9lp350dna61z8")))
+
+(define-public crate-re_set-lib-2.9.1 (c (n "re_set-lib") (v "2.9.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0p9qzyny0sxadp19wk2qfk2ynkyr1bza065rs183wak7ra9p0x7h")))
+
+(define-public crate-re_set-lib-2.9.2 (c (n "re_set-lib") (v "2.9.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "09sqwz765a7anjrqqn3vr8s9m570hna72wgsik5ffg4z56hjk3lc")))
+
+(define-public crate-re_set-lib-2.10.2 (c (n "re_set-lib") (v "2.10.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0b9bmw3lpciwg1p5apr21r2z8xx9m5l7m0b66rd9yr20sywkpmxb")))
+
+(define-public crate-re_set-lib-2.11.0 (c (n "re_set-lib") (v "2.11.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0w4lh30rfyjdsmazzvm0ninpdqmjc5h8kziqawzwdgafsscc94cw")))
+
+(define-public crate-re_set-lib-2.11.1 (c (n "re_set-lib") (v "2.11.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0834kb6pmkb96ppmykgh2dh13qn5zh9x1sg8qazz1m6qdp7k81by")))
+
+(define-public crate-re_set-lib-2.11.3 (c (n "re_set-lib") (v "2.11.3") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "046cyi0dsqjb3ia0iji41jfarilpq2fyv93l61w1y1cvb201jnm7")))
+
+(define-public crate-re_set-lib-2.12.0 (c (n "re_set-lib") (v "2.12.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "16dm7l8vc88b9xr0by5zr4idxic46l4n8qrc0r84p27mqmgkwqr9")))
+
+(define-public crate-re_set-lib-2.13.0 (c (n "re_set-lib") (v "2.13.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "17x9iyf20yvbs6xbz0n8k6qgqjj8gjhsjk1qb3j438jsvv5y7bnv")))
+
+(define-public crate-re_set-lib-2.14.0 (c (n "re_set-lib") (v "2.14.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "01j7c2jhyj72n4wjg927z4iykw0is19s7isrn3lbl7y7s0544kqf")))
+
+(define-public crate-re_set-lib-2.15.0 (c (n "re_set-lib") (v "2.15.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "15m2fdf8vdyvy1f8qnwzcajsz4v21rywkl6asqbk93v8y23r2nwr")))
+
+(define-public crate-re_set-lib-2.16.0 (c (n "re_set-lib") (v "2.16.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1lj88618plxzxq74hcni772sk3barq3v475yqmrcpf57ni1gp80f")))
+
+(define-public crate-re_set-lib-2.17.0 (c (n "re_set-lib") (v "2.17.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "1k5f19mkzp579xq8d5l51j5kbvhl2cdywq4ipmas7z50wmfkbg3s")))
+
+(define-public crate-re_set-lib-3.0.0 (c (n "re_set-lib") (v "3.0.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0bhdw175bgqhg6v776qmdc3sz8b6havxhn1xby4bmf81aq5a9sfg")))
+
+(define-public crate-re_set-lib-3.1.0 (c (n "re_set-lib") (v "3.1.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "02ffz6s3jwjifvk1q52bz8vwf0rp7pyln11kgi7r4r7nj612mln9")))
+
+(define-public crate-re_set-lib-3.1.1 (c (n "re_set-lib") (v "3.1.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")))) (h "0k9wkb64x48n72vvzvnk9z64j5p386dw1il955qj7933zibmlb94")))
+
+(define-public crate-re_set-lib-3.1.2 (c (n "re_set-lib") (v "3.1.2") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)))) (h "0zr5iw6iy6aj44n1wkrcnqdsy9h9sp3fp27y9x308gxpcy4xpk1m")))
+
+(define-public crate-re_set-lib-3.1.3 (c (n "re_set-lib") (v "3.1.3") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)))) (h "1pcw54lyaiv5m70lgcm04d9mgb531as7fz5dxsq6vzpdqhr3w32a")))
+
+(define-public crate-re_set-lib-3.1.4 (c (n "re_set-lib") (v "3.1.4") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)))) (h "19y2l27fpy8y9ga0x8jy4g9i7l03jbfgk3vb9avwkkp9wzhk66xz")))
+
+(define-public crate-re_set-lib-3.1.5 (c (n "re_set-lib") (v "3.1.5") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)))) (h "00xgbzsh8i5wdg8jcjxz3sgd5z7v0l7dh6rq9wx0j24rqabhla6y")))
+
+(define-public crate-re_set-lib-3.1.6 (c (n "re_set-lib") (v "3.1.6") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)))) (h "0wyp0pzg0yfp80j4svdamxmcxy07ad144nrmi72ar649b4qp5bpr")))
+
+(define-public crate-re_set-lib-3.1.7 (c (n "re_set-lib") (v "3.1.7") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)))) (h "005z8jxxasqh61c3ixsss93801hdj1sbzcmm67aisimh5rg76xqp")))
+
+(define-public crate-re_set-lib-3.2.0 (c (n "re_set-lib") (v "3.2.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "13r4rg8r1663pf6b6pb3dz486jxkc2g9kchys27hrkjb3izccsrq")))
+
+(define-public crate-re_set-lib-3.3.0 (c (n "re_set-lib") (v "3.3.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "1p3kjsfg8fkjwffgky7p2hlwmm76080wlip73zva0k9ihx8hqqcy")))
+
+(define-public crate-re_set-lib-3.4.0 (c (n "re_set-lib") (v "3.4.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "064a5dyzx653sr1w8pjzfvdsywm4s3iqvidzk5n00vfdyjddyld9")))
+
+(define-public crate-re_set-lib-3.4.1 (c (n "re_set-lib") (v "3.4.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "dbus-crossroads") (r "^0.5.2") (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.1") (f (quote ("v4_12"))) (d #t) (k 0) (p "gtk4")) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pulse") (r "^2.0") (d #t) (k 0) (p "libpulse-binding")) (d (n "serial_test") (r "^3.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0x4c4xz70kcdfyk433wrk4fqp0jd0iqa6mfpgyhrrqzphn5gfp6j")))
+

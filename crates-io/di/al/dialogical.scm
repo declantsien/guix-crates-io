@@ -1,0 +1,40 @@
+(define-module (crates-io di al dialogical) #:use-module (crates-io))
+
+(define-public crate-dialogical-0.1.0 (c (n "dialogical") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0gxv1ba10vpyrrxadls1bw5ns11m0xs4l05yc73vmk353jpnpqc4")))
+
+(define-public crate-dialogical-0.2.0 (c (n "dialogical") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "01kin2kqqw3ag8wsj4jsix0vmwqx1nb71970m7f3h0zccq6l2qkg")))
+
+(define-public crate-dialogical-0.2.1 (c (n "dialogical") (v "0.2.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "14j303nbmlj72s7np936grw3672nfqb9gvkv94ghadi67mjgqpj3")))
+
+(define-public crate-dialogical-0.2.2 (c (n "dialogical") (v "0.2.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0p382lv2gxxlxl85kvb8lkf18gxjf0drlbanqcp8qlzz283r5qzm")))
+
+(define-public crate-dialogical-0.3.0 (c (n "dialogical") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1jn7sda4gg56f60phclf1xj9lvgnw2ipq8r88qah3m5l03b3syk7")))
+
+(define-public crate-dialogical-0.4.0 (c (n "dialogical") (v "0.4.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1281w4kilqkwpblgxdmmckffykvvsarq3ggv572m3rw9spljjkk1")))
+
+(define-public crate-dialogical-0.4.1 (c (n "dialogical") (v "0.4.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1y6l0m18sm86lnppa9pn8f70babvvl26kvrrbd49yapj3q0bx0c6")))
+
+(define-public crate-dialogical-0.4.2 (c (n "dialogical") (v "0.4.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1w72w3g0481z8b1dhpm70fangyd07cv7n3p9142qqhn3xkhx1442")))
+
+(define-public crate-dialogical-0.5.0 (c (n "dialogical") (v "0.5.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0zl9nxa74fa98bvhcqjza3qx9lgy07yd87xb64vg91g6sspz2qnb")))
+
+(define-public crate-dialogical-0.5.1 (c (n "dialogical") (v "0.5.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0z0d0psgp1iryr2fp0w91syf0pkgkj61lnizjkr2lzsdc5kw371s")))
+
+(define-public crate-dialogical-0.5.2 (c (n "dialogical") (v "0.5.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0v6lj4bvfbf9fshw7nfx97nnm1gpjw5rvnwwn6fq7ybrvv7ijrj4")))
+
+(define-public crate-dialogical-0.5.3 (c (n "dialogical") (v "0.5.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1n9sb55ld200pzisb1b94yy235p9r9v61rr86c9vhm3am7y2pbvh")))
+
+(define-public crate-dialogical-0.6.0 (c (n "dialogical") (v "0.6.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1g0zbrwflxy1wlash67dpyqjjs86x9rwij360lxcicigvwpvq2r6")))
+
+(define-public crate-dialogical-0.7.0 (c (n "dialogical") (v "0.7.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "01sk9wl8v92781k93xwf4rx6l2nqhsb694rg96r8k4aywih0qyig")))
+
+(define-public crate-dialogical-0.8.0 (c (n "dialogical") (v "0.8.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1512fcdqhm5apb2k2yg9h3a1a3ci17v0g8gk2gqz9iw1j081gq5f")))
+
+(define-public crate-dialogical-0.8.1 (c (n "dialogical") (v "0.8.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "03rb9m7yljqrdqcfk5qlxdzk198h2jwd6c4vn7v5xrsphksjd55v")))
+
+(define-public crate-dialogical-0.8.2 (c (n "dialogical") (v "0.8.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1zi4gcipjxkqpyd1iqa4rn9kg704j8vpki86rq0jxkkri62f8cr8")))
+
+(define-public crate-dialogical-0.9.0 (c (n "dialogical") (v "0.9.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0cqkzqrhkn0kn5bi4hn03b1ppm6j89jz98c22p6vcxahh4a31n6y")))
+
+(define-public crate-dialogical-0.10.0 (c (n "dialogical") (v "0.10.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1wjl9kk74yqj1vbgwy32v4capp94qf4mrxsi3hxszs65rdfv8n2s")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# b bpb) #:use-module (crates-io))
+
+(define-public crate-bpb-1.0.0 (c (n "bpb") (v "1.0.0") (d (list (d (n "ed25519-dalek") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "pbp") (r "^0.4.0") (f (quote ("dalek"))) (d #t) (k 0)) (d (n "rand") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 0)) (d (n "sha2") (r "^0.7.1") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "0s2qpands6ixvyccbhdf5c51m41ddw4z9y3sdd89xw26lajpdx2a")))
+
+(define-public crate-bpb-1.0.1 (c (n "bpb") (v "1.0.1") (d (list (d (n "ed25519-dalek") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "pbp") (r "^0.4.0") (f (quote ("dalek"))) (d #t) (k 0)) (d (n "rand") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 0)) (d (n "sha2") (r "^0.7.1") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "1b1s8zndagcnb53raqqlfl1sc9cb6ymvibapxrhw3pg4b07p9sbn")))
+
+(define-public crate-bpb-1.1.0 (c (n "bpb") (v "1.1.0") (d (list (d (n "ed25519-dalek") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "pbp") (r "^0.4.0") (f (quote ("dalek"))) (d #t) (k 0)) (d (n "rand") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.70") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 0)) (d (n "sha2") (r "^0.7.1") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "0x3x3r0x0bq18x4ycyl6v5gqg222vawifxbw0yml93arln5zb1ij")))
+

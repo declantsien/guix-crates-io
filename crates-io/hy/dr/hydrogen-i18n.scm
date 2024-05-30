@@ -1,0 +1,10 @@
+(define-module (crates-io hy dr hydrogen-i18n) #:use-module (crates-io))
+
+(define-public crate-hydrogen-i18n-1.0.0 (c (n "hydrogen-i18n") (v "1.0.0") (d (list (d (n "serde_json") (r "^1.0.99") (o #t) (d #t) (k 0)) (d (n "serenity") (r "^0.11.6") (f (quote ("builder"))) (o #t) (k 0) (p "serenity")))) (h "02rnf8c0ccr4mhgpcq3vjafrh879l9mwalld09k4x7jx3m2c2ziw") (f (quote (("default" "std")))) (s 2) (e (quote (("std" "dep:serde_json") ("serenity" "dep:serenity"))))))
+
+(define-public crate-hydrogen-i18n-1.0.1 (c (n "hydrogen-i18n") (v "1.0.1") (d (list (d (n "serde_json") (r "^1.0.99") (o #t) (d #t) (k 0)) (d (n "serenity") (r "^0.11.6") (f (quote ("builder"))) (o #t) (k 0) (p "serenity")))) (h "1i3yzz9d29pclv292rx1zvczvknjw2ghmvx0k6fs4x5ssz1gzsxz") (f (quote (("default" "std")))) (s 2) (e (quote (("std" "dep:serde_json") ("serenity" "dep:serenity"))))))
+
+(define-public crate-hydrogen-i18n-2.0.0 (c (n "hydrogen-i18n") (v "2.0.0") (d (list (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "serenity") (r "^0.12.0") (f (quote ("builder"))) (o #t) (k 0) (p "serenity")) (d (n "simd-json") (r "^0.13.7") (f (quote ("serde_impl"))) (o #t) (d #t) (k 0) (p "simd-json")) (d (n "tokio") (r "^1.35.1") (f (quote ("fs"))) (o #t) (k 0) (p "tokio")))) (h "1gqprnvqmr9zsslxf9xk80bhjv1nw3abrrpnd1iz5flf8xbj2880") (f (quote (("default")))) (s 2) (e (quote (("tokio" "dep:tokio") ("simd" "dep:simd-json") ("serenity" "dep:serenity"))))))
+
+(define-public crate-hydrogen-i18n-2.1.0 (c (n "hydrogen-i18n") (v "2.1.0") (d (list (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "serenity") (r "^0.12.0") (f (quote ("builder"))) (o #t) (k 0) (p "serenity")) (d (n "simd-json") (r "^0.13.7") (f (quote ("serde_impl"))) (o #t) (d #t) (k 0) (p "simd-json")) (d (n "tokio") (r "^1.35.1") (f (quote ("fs"))) (o #t) (k 0) (p "tokio")))) (h "14bdp1bdi4sx68zc22ry1v4pnzqwyanalqpxbpalp9mk7qwx8acq") (f (quote (("default")))) (s 2) (e (quote (("tokio" "dep:tokio") ("simd" "dep:simd-json") ("serenity" "dep:serenity")))) (r "1.75")))
+

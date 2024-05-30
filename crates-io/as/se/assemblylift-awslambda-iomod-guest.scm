@@ -1,0 +1,6 @@
+(define-module (crates-io as se assemblylift-awslambda-iomod-guest) #:use-module (crates-io))
+
+(define-public crate-assemblylift-awslambda-iomod-guest-0.1.0 (c (n "assemblylift-awslambda-iomod-guest") (v "0.1.0") (d (list (d (n "assemblylift_core_event_guest") (r "^0.1.0") (d #t) (k 0) (p "assemblylift-core-event-guest")) (d (n "assemblylift_core_guest") (r "^0.1.0") (d #t) (k 0) (p "assemblylift-core-guest")) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "paste") (r "^0.1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)))) (h "1sg8amg4hva26sl2z7rp4kx69b2a6fvnlancxfbmyji55li6c6nk")))
+
+(define-public crate-assemblylift-awslambda-iomod-guest-0.1.1 (c (n "assemblylift-awslambda-iomod-guest") (v "0.1.1") (d (list (d (n "assemblylift_core_event_guest") (r "^0.1.1") (d #t) (k 0) (p "assemblylift-core-event-guest")) (d (n "assemblylift_core_guest") (r "^0.1.0") (d #t) (k 0) (p "assemblylift-core-guest")) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "paste") (r "^0.1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)))) (h "09mvdnxf3rb05bzsz6fmjdq2sfjf00z06lzbn2qbjhp0y6v122gl")))
+

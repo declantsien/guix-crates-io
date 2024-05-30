@@ -1,0 +1,12 @@
+(define-module (crates-io sa ge sage_broker) #:use-module (crates-io))
+
+(define-public crate-sage_broker-0.1.0 (c (n "sage_broker") (v "0.1.0") (d (list (d (n "sage_mqtt") (r "^0.1.6") (d #t) (k 0)))) (h "1wil3b2pfydaw9q1si8xj17bdqyridcjrybwas5v6rqvs49ld1q1")))
+
+(define-public crate-sage_broker-0.1.1 (c (n "sage_broker") (v "0.1.1") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nanoid") (r "^0.3.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "sage_mqtt") (r "^0.2.5") (d #t) (k 0)))) (h "16ysjl9lyh6a52sz6dy2d50wd7nksy9g989xgchnv62zfp481vf1")))
+
+(define-public crate-sage_broker-0.1.2 (c (n "sage_broker") (v "0.1.2") (d (list (d (n "async-std") (r "^1.8.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "futures") (r "^0.3.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "nanoid") (r "^0.3.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "sage_mqtt") (r "^0.2.5") (d #t) (k 0)))) (h "0id03nn0lmygawiisk2jymy73i7v638hkk9sr3k1vbn0f6241z70")))
+
+(define-public crate-sage_broker-0.2.0 (c (n "sage_broker") (v "0.2.0") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.14") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "sage_mqtt") (r "^0.4") (d #t) (k 0)))) (h "11i3w5m96dx485zpi063q3ap2n50wfsdxv3wakkkckzlq0h2nfkw")))
+
+(define-public crate-sage_broker-0.3.0 (c (n "sage_broker") (v "0.3.0") (d (list (d (n "ctrlc") (r "^3.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.14") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "nanoid") (r "^0.4.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "sage_mqtt") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("sync" "rt-multi-thread" "net" "time" "macros"))) (d #t) (k 0)))) (h "18yrwzgkd9fzdgxpg6bs008rgqa3k62613n3sfsfrmnwgmfxvppy")))
+

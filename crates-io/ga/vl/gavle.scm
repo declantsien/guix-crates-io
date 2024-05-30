@@ -1,0 +1,6 @@
+(define-module (crates-io ga vl gavle) #:use-module (crates-io))
+
+(define-public crate-gavle-0.1.0 (c (n "gavle") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.6") (d #t) (k 0)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "generational-arena") (r "^0.2") (d #t) (k 0)) (d (n "glow") (r "^0.11") (d #t) (k 0)) (d (n "image") (r "^0.23") (o #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tinyvec") (r "^1") (d #t) (k 0)))) (h "032gw2qzar7vihy7i515a62zlb33xabm9a3xs4nbfqaaj6fg8qf0") (f (quote (("mipmap-generation" "image" "bytemuck")))) (y #t)))
+
+(define-public crate-gavle-0.1.1 (c (n "gavle") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.6") (d #t) (k 0)) (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "generational-arena") (r "^0.2") (d #t) (k 0)) (d (n "glow") (r "^0.11") (d #t) (k 0)) (d (n "image") (r "^0.23") (o #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tinyvec") (r "^1") (d #t) (k 0)))) (h "1frhgwv6dd06kq2am9lxl1yz3vlsy9y9f6772vif88qniy3j6mw6") (f (quote (("mipmap-generation" "image" "bytemuck"))))))
+

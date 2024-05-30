@@ -1,0 +1,10 @@
+(define-module (crates-io br ix brix_processor) #:use-module (crates-io))
+
+(define-public crate-brix_processor-0.1.0 (c (n "brix_processor") (v "0.1.0") (d (list (d (n "brix_errors") (r "^0.1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "titlecase") (r "^1.1.0") (d #t) (k 0)))) (h "00idxns0szfdhz8k7w5si7r5idhiy24yas0rjxj1b3ailp6lvgcr")))
+
+(define-public crate-brix_processor-0.1.1 (c (n "brix_processor") (v "0.1.1") (d (list (d (n "brix_errors") (r "^0.1.1") (d #t) (k 0)) (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "titlecase") (r "^1.1.0") (d #t) (k 0)))) (h "1hw7jhh3gd1xbjd0j0wyr0196l0k26sw12cmwkq7vc6b229w8pr3")))
+
+(define-public crate-brix_processor-0.1.2 (c (n "brix_processor") (v "0.1.2") (d (list (d (n "brix_errors") (r "^0.2") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "handlebars") (r "^4.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "titlecase") (r "^2") (d #t) (k 0)))) (h "0g115i1jdfzfr0dsvplfbh0jdsfwd24422fcbrp82gy0rgg6jnzp")))
+
+(define-public crate-brix_processor-0.1.3 (c (n "brix_processor") (v "0.1.3") (d (list (d (n "brix_errors") (r "^0.2") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "handlebars") (r "^4.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "titlecase") (r "^2") (d #t) (k 0)))) (h "18ck8v0z67a5nywnwbqpmcsp40sqp8g40zklb2p30fnhpqk0rb5r")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io as yn async-std-utp) #:use-module (crates-io))
+
+(define-public crate-async-std-utp-0.1.0 (c (n "async-std-utp") (v "0.1.0") (d (list (d (n "async-recursion") (r "^0.3.2") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)))) (h "0miis6pw8vg9167axly67l5hidxhifvr8dwj9aw3k25pka29v3aj") (f (quote (("unstable"))))))
+
+(define-public crate-async-std-utp-0.1.1 (c (n "async-std-utp") (v "0.1.1") (d (list (d (n "async-recursion") (r "^0.3.2") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)))) (h "0avl5d801cxbnk3m7ki37f3ici78g7ikrz84ckh3sfrq9m79zkhj") (f (quote (("unstable"))))))
+

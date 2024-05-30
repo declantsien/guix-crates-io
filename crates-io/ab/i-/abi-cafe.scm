@@ -1,0 +1,4 @@
+(define-module (crates-io ab i- abi-cafe) #:use-module (crates-io))
+
+(define-public crate-abi-cafe-0.0.0 (c (n "abi-cafe") (v "0.0.0") (d (list (d (n "built") (r "^0.5.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("cargo" "wrap_help"))) (d #t) (k 0)) (d (n "libloading") (r "^0.7.3") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde" "serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "ron") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "simplelog") (r "^0.11.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "19rjhflddnbz5iqw64i5l20yxhva4zfzix34ncf70rqdp4ymdszl") (f (quote (("parallel" "rayon") ("default"))))))
+

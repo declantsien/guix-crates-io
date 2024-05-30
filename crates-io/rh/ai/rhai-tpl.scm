@@ -1,0 +1,8 @@
+(define-module (crates-io rh ai rhai-tpl) #:use-module (crates-io))
+
+(define-public crate-rhai-tpl-0.1.0 (c (n "rhai-tpl") (v "0.1.0") (d (list (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rhai") (r "^1.15.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "0z3yh0sjlgc3355whm86z04b4992z0bkjw0dr12x8x4hc4gkrhi6")))
+
+(define-public crate-rhai-tpl-0.1.1 (c (n "rhai-tpl") (v "0.1.1") (d (list (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rhai") (r "^1.15.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "0gbnshf0bhnjlfn11aai2zyp9x0f00brmhc7s8yq96f68nw61swr")))
+
+(define-public crate-rhai-tpl-0.1.2 (c (n "rhai-tpl") (v "0.1.2") (d (list (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rhai") (r "^1.15.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "1nk25jf2hmq5c81n6gphfg6jhxp8164gg31c1yqs8b2nmgscm2aa")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io yj qy yjqyapi) #:use-module (crates-io))
+
+(define-public crate-yjqyapi-0.1.0 (c (n "yjqyapi") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.34") (d #t) (k 0)) (d (n "form_urlencoded") (r "^1.2.1") (d #t) (k 0)) (d (n "kuchikiki") (r "^0.8.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("charset" "cookies"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1fvakcngfqw8aar24pd07303xvracpl51gaa433gf1dijm2km04b")))
+

@@ -1,0 +1,28 @@
+(define-module (crates-io im pl implies) #:use-module (crates-io))
+
+(define-public crate-implies-0.2.1 (c (n "implies") (v "0.2.1") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (d #t) (k 1)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "085pdq3d6r00z4kw1ln48z4w43r98ga9sjy80xykcjb75myxcc4d") (f (quote (("python" "pyo3" "auto-init" "extension-module") ("extension-module" "pyo3/extension-module") ("default") ("auto-init" "pyo3/auto-initialize"))))))
+
+(define-public crate-implies-0.2.2 (c (n "implies") (v "0.2.2") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1qk3g560rrjq6v7riwfng4332dnddv1hmimk2z2b68pbzzzxdram") (f (quote (("python" "pyo3" "auto-init" "extension-module" "pyo3-build-config") ("extension-module" "pyo3/extension-module") ("default") ("auto-init" "pyo3/auto-initialize"))))))
+
+(define-public crate-implies-0.2.3 (c (n "implies") (v "0.2.3") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "044ysjxprm886y5rrfd8ij33yr5mqh3hkqilzkayx0p7qg8kwxww") (f (quote (("python" "pyo3" "auto-init" "extension-module" "pyo3-build-config") ("extension-module" "pyo3/extension-module") ("default") ("auto-init" "pyo3/auto-initialize"))))))
+
+(define-public crate-implies-0.2.4 (c (n "implies") (v "0.2.4") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "1rx9byhd04kaass0mfg34zrm28fm12nja92sshlz6hip37jj7xvp") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.2.6 (c (n "implies") (v "0.2.6") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "1rlvap9lw3q3n9vnxgf1rirb5kgi9wgp75vs5lr1pylvx9x1avx0") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.3.0 (c (n "implies") (v "0.3.0") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "1r910jbzy0p5k2ypia76f6s43jr7im2gvnahihqd45h49iq8nnph") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.3.1 (c (n "implies") (v "0.3.1") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "1pcypcvdw6fs7jrz8phcg7pxip3r5sazw709l1fsj0ivh77mzb5w") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.3.2 (c (n "implies") (v "0.3.2") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "0v7aza1gp5cp1jnqn46ix5ai6ll0mlasiqnbbyjnynfkk9ajml8q") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.4.0 (c (n "implies") (v "0.4.0") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "1hnn8svdsjz8cxmbnhmranl3w4w9j6cyblamyjb02papqyl94asy") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.4.1 (c (n "implies") (v "0.4.1") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "enum-iterator") (r "^1.5.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "0x79i7gw8w1ir34y9kfi542wlrwvay40wywr0dkfx2mrcwcr0p1l") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.4.3 (c (n "implies") (v "0.4.3") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "enum-iterator") (r "^1.5.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "0fangfzclag35d1q2dnxp13hcb3bhaqq4qyxll4d0w6irbj02czj") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.4.4 (c (n "implies") (v "0.4.4") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "enum-iterator") (r "^1.5.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "089lwx67rphpnrcdna3ynpdghsgcnd8m3i5n1j8fncd51i38b9c7") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+
+(define-public crate-implies-0.4.5 (c (n "implies") (v "0.4.5") (d (list (d (n "cascade") (r "^1.0.1") (d #t) (k 0)) (d (n "enum-iterator") (r "^1.5.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (o #t) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.20.0") (o #t) (d #t) (k 1)))) (h "16q9v8lz9gpgyppl4cvqqyiw7r1c7zrcjcbxw0pmbzr7jg6nhd9v") (f (quote (("python" "pyo3" "pyo3/auto-initialize" "pyo3/extension-module" "pyo3-build-config"))))))
+

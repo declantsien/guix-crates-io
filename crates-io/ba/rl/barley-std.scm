@@ -1,0 +1,10 @@
+(define-module (crates-io ba rl barley-std) #:use-module (crates-io))
+
+(define-public crate-barley-std-0.1.0 (c (n "barley-std") (v "0.1.0") (d (list (d (n "barley-interface") (r "^0.3.0") (d #t) (k 2)) (d (n "barley-runtime") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1i7c5cl7r18ga5r1pd40il4pqmk2p9q1s5yx20y80v6hcfw4k3d6")))
+
+(define-public crate-barley-std-0.2.0 (c (n "barley-std") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "barley-runtime") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1x498r2554892n7hklgfd4z5nzkwfk4fsfxbflz3b1lvdxp02226") (s 2) (e (quote (("time" "dep:tokio" "tokio?/time") ("process" "dep:tokio" "tokio?/process") ("fs" "dep:tokio" "tokio?/fs"))))))
+
+(define-public crate-barley-std-0.3.0 (c (n "barley-std") (v "0.3.0") (d (list (d (n "barley-runtime") (r "^0.5.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "16xsv3bmm9m0nac7z6y619vcac3nnpb0s8ajvswyr0zngdvabzi8") (s 2) (e (quote (("time" "dep:tokio" "tokio?/time") ("process" "dep:tokio" "tokio?/process") ("fs" "dep:tokio" "tokio?/fs"))))))
+
+(define-public crate-barley-std-0.4.0 (c (n "barley-std") (v "0.4.0") (d (list (d (n "barley-runtime") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1f0mpjncdz755fi4fhs7i2bailscwjp95q8lxzia057dwzh1k6by") (s 2) (e (quote (("time" "dep:tokio" "tokio?/time") ("process" "dep:tokio" "tokio?/process") ("fs" "dep:tokio" "tokio?/fs" "tokio?/io-util"))))))
+

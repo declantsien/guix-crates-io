@@ -1,0 +1,8 @@
+(define-module (crates-io ni mi nimiq-accounts) #:use-module (crates-io))
+
+(define-public crate-nimiq-accounts-0.0.0 (c (n "nimiq-accounts") (v "0.0.0") (h "05xlffc41kr9bv8fw3sf9bn8ffvm908vqxja6m60h9hyhx2my0wd")))
+
+(define-public crate-nimiq-accounts-0.1.0 (c (n "nimiq-accounts") (v "0.1.0") (d (list (d (n "beserial") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "nimiq-account") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-block") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-database") (r "^0.1") (f (quote ("full-nimiq"))) (d #t) (k 0)) (d (n "nimiq-hash") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-keys") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-network-primitives") (r "^0.1") (f (quote ("networks"))) (d #t) (k 0)) (d (n "nimiq-primitives") (r "^0.1") (f (quote ("coin" "networks" "policy"))) (d #t) (k 0)) (d (n "nimiq-transaction") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-tree-primitives") (r "^0.1") (d #t) (k 0)))) (h "14sy92wypck7a5bz9jv6ahz0hqn8lzcihf8dcpn8dqjl5yg6rxy2")))
+
+(define-public crate-nimiq-accounts-0.2.0 (c (n "nimiq-accounts") (v "0.2.0") (d (list (d (n "beserial") (r "^0.2") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "nimiq-account") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-block") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-database") (r "^0.2") (f (quote ("full-nimiq"))) (d #t) (k 0)) (d (n "nimiq-hash") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-keys") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-network-primitives") (r "^0.2") (f (quote ("networks"))) (d #t) (k 0)) (d (n "nimiq-primitives") (r "^0.2") (f (quote ("coin" "networks" "policy"))) (d #t) (k 0)) (d (n "nimiq-transaction") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-tree-primitives") (r "^0.2") (d #t) (k 0)))) (h "0rq43k9j2s7ng8i007sl7m0hnk0cf10nzkcikcyxh6dnwrma5q25")))
+

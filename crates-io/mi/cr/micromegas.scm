@@ -1,0 +1,10 @@
+(define-module (crates-io mi cr micromegas) #:use-module (crates-io))
+
+(define-public crate-micromegas-0.1.0 (c (n "micromegas") (v "0.1.0") (d (list (d (n "micromegas-ingestion") (r "^0.1.0") (d #t) (k 0)))) (h "1mp5wfdqj6f7iwijbf8dr2mw07f4697f77z5f0a44jvchg9862bk")))
+
+(define-public crate-micromegas-0.1.1 (c (n "micromegas") (v "0.1.1") (d (list (d (n "micromegas-ingestion") (r "^0.1.1") (d #t) (k 0)) (d (n "micromegas-telemetry") (r "^0.1.1") (d #t) (k 0)) (d (n "micromegas-telemetry-sink") (r "^0.1.1") (d #t) (k 0)) (d (n "micromegas-tracing") (r "^0.1.1") (d #t) (k 0)) (d (n "object_store") (r "^0.9.0") (f (quote ("aws"))) (d #t) (k 0)))) (h "01mjp9dmacjvnjmi5v0p77ivz1qhpfnydyj99nfsci7ymflvjrs7")))
+
+(define-public crate-micromegas-0.1.2 (c (n "micromegas") (v "0.1.2") (d (list (d (n "datafusion") (r "^37.1.0") (d #t) (k 0)) (d (n "micromegas-analytics") (r "^0.1.2") (d #t) (k 0)) (d (n "micromegas-ingestion") (r "^0.1.2") (d #t) (k 0)) (d (n "micromegas-telemetry") (r "^0.1.2") (d #t) (k 0)) (d (n "micromegas-telemetry-sink") (r "^0.1.2") (d #t) (k 0)) (d (n "micromegas-tracing") (r "^0.1.2") (d #t) (k 0)) (d (n "object_store") (r "^0.9.0") (f (quote ("aws"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "chrono" "uuid"))) (d #t) (k 0)))) (h "16sh09f0j3d4rx6v15wf69myvgmq1is1ac0mmydac39591gd6kv8")))
+
+(define-public crate-micromegas-0.1.3 (c (n "micromegas") (v "0.1.3") (d (list (d (n "datafusion") (r "^37.1.0") (d #t) (k 0)) (d (n "micromegas-analytics") (r "^0.1.3") (d #t) (k 0)) (d (n "micromegas-ingestion") (r "^0.1.3") (d #t) (k 0)) (d (n "micromegas-telemetry") (r "^0.1.3") (d #t) (k 0)) (d (n "micromegas-telemetry-sink") (r "^0.1.3") (d #t) (k 0)) (d (n "micromegas-tracing") (r "^0.1.3") (d #t) (k 0)) (d (n "object_store") (r "^0.9.0") (f (quote ("aws"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.7.4") (f (quote ("runtime-tokio" "postgres" "chrono" "uuid"))) (d #t) (k 0)))) (h "1dr5ybs0scyd0l1m21n9cmwag126mk6am06iva50y17l5c255yz3")))
+

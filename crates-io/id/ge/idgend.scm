@@ -1,0 +1,4 @@
+(define-module (crates-io id ge idgend) #:use-module (crates-io))
+
+(define-public crate-idgend-0.1.0 (c (n "idgend") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.26") (d #t) (k 1)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "hyper") (r "^0.13.4") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "num_cpus") (r "^1.12.0") (d #t) (k 0)) (d (n "prost") (r "^0.6.1") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rocksdb") (r "^0.13.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.1.1") (d #t) (k 0)) (d (n "tonic-build") (r "^0.1.1") (d #t) (k 1)))) (h "0i1clmgkixhsf6y19c2nvyps318gi7cl6q5yv07i9fah4mkd48j2")))
+

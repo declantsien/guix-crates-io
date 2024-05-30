@@ -1,0 +1,14 @@
+(define-module (crates-io er ro error-http) #:use-module (crates-io))
+
+(define-public crate-error-http-0.1.0 (c (n "error-http") (v "0.1.0") (d (list (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0hdqgbd6xpz9d1rw1sk5gfb4xb7issif2rzvm1ylbnd8n4j0rkb4") (f (quote (("rocket") ("default") ("axum")))) (y #t)))
+
+(define-public crate-error-http-0.1.1 (c (n "error-http") (v "0.1.1") (d (list (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "04sy4y7nv4ksns7xmqzlhhi1223xk7xqb0qwj8qvcqswbxijrmsc") (f (quote (("rocket") ("default") ("axum"))))))
+
+(define-public crate-error-http-0.1.2 (c (n "error-http") (v "0.1.2") (d (list (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1y13r5i9swvj5b7y5mkm5mz25dxrwg4365hap5ikhma2dq1rq5ik") (f (quote (("rocket") ("axum"))))))
+
+(define-public crate-error-http-0.2.0 (c (n "error-http") (v "0.2.0") (d (list (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0h41j0hyaf3kxgrwfhympxxb7gn6agk101wjp72cqmsgkgaf91bf") (f (quote (("rocket") ("axum"))))))
+
+(define-public crate-error-http-0.2.1 (c (n "error-http") (v "0.2.1") (d (list (d (n "actix-web") (r "^4.4.0") (d #t) (k 2)) (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1jglnwag2r2b2sx62l8v4zm2g31glybxrj39c5car56z7596xcx1") (f (quote (("rocket") ("axum") ("actix"))))))
+
+(define-public crate-error-http-0.2.2 (c (n "error-http") (v "0.2.2") (d (list (d (n "actix-web") (r "^4.4.0") (d #t) (k 2)) (d (n "axum") (r "^0.7.2") (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1b97g2vps45q6fsjzxik3h6w0vgdfxl82qyd30y0wvsixmcxjqwg") (f (quote (("rocket") ("axum") ("actix"))))))
+

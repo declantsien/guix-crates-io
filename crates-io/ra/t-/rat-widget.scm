@@ -1,0 +1,4 @@
+(define-module (crates-io ra t- rat-widget) #:use-module (crates-io))
+
+(define-public crate-rat-widget-0.9.0 (c (n "rat-widget") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("unstable-locales"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "fern") (r "^0.6") (d #t) (k 2)) (d (n "format_num_pattern") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rat-event") (r "^0.12") (d #t) (k 0)) (d (n "rat-focus") (r "^0.9") (d #t) (k 0)) (d (n "rat-ftable") (r "^0.12") (d #t) (k 0)) (d (n "rat-input") (r "^0.14") (d #t) (k 0)) (d (n "rat-scrolled") (r "^0.10") (d #t) (k 0)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-widget-ref" "unstable-rendered-line-info"))) (d #t) (k 0)))) (h "0rn7lam6g63rr3my36hvp8hg8rab47c5dkz6ml0l3ikgy1p7xg01")))
+

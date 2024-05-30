@@ -1,0 +1,6 @@
+(define-module (crates-io tu ll tull-rust) #:use-module (crates-io))
+
+(define-public crate-tull-rust-0.1.0 (c (n "tull-rust") (v "0.1.0") (d (list (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)) (d (n "warp") (r "^0.3.1") (d #t) (k 0)))) (h "1c9d97c1lian81db8rk8dnbi1ig1wv5dkij0z92y6prpg1khd6hg")))
+
+(define-public crate-tull-rust-0.2.0 (c (n "tull-rust") (v "0.2.0") (d (list (d (n "handlebars") (r "^4.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)) (d (n "warp") (r "^0.3.1") (d #t) (k 0)))) (h "10ifz6r125l0642jbwai2qsq4z85k984ai9lyp2l7a5f9i9ccfl5")))
+

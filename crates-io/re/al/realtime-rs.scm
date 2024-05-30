@@ -1,0 +1,4 @@
+(define-module (crates-io re al realtime-rs) #:use-module (crates-io))
+
+(define-public crate-realtime-rs-0.1.0 (c (n "realtime-rs") (v "0.1.0") (d (list (d (n "futures-channel") (r "^0.3.30") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (d #t) (k 0)) (d (n "go_true") (r "^0.1.1") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt" "macros" "io-std" "time" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.21.0") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("fast-rng" "v4"))) (d #t) (k 0)))) (h "1v100sdbpgi17vgxa35fxxpsf1ca8zqsli9f8m0b36cmh4diwi1w")))
+

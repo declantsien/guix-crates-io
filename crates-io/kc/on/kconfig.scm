@@ -1,0 +1,4 @@
+(define-module (crates-io kc on kconfig) #:use-module (crates-io))
+
+(define-public crate-kconfig-0.1.0 (c (n "kconfig") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "cpp") (r "^0.5") (d #t) (k 0)) (d (n "cpp_build") (r "^0.5") (d #t) (k 1)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "kconfig_impl") (r "^0.0.1") (o #t) (d #t) (k 0)) (d (n "kde_frameworks") (r "^0.2") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "qmetaobject") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "qmetaobject") (r "^0.2.7") (d #t) (k 2)) (d (n "qttypes") (r "^0.2.7") (d #t) (k 0)) (d (n "qttypes") (r "^0.2.7") (f (quote ("qtquick"))) (d #t) (k 2)) (d (n "semver") (r "^1.0") (d #t) (k 1)))) (h "15gyp0l13pm2myywhqmp9ahamk7a5mdr51iwcki5jb5dxfwcpg7z") (f (quote (("kconfigxt" "kconfig_impl") ("all" "kconfig_impl" "qmetaobject")))) (l "KF5Config")))
+

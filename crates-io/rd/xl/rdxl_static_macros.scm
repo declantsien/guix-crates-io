@@ -1,0 +1,28 @@
+(define-module (crates-io rd xl rdxl_static_macros) #:use-module (crates-io))
+
+(define-public crate-rdxl_static_macros-0.0.1 (c (n "rdxl_static_macros") (v "0.0.1") (d (list (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1amwvfnq8gidpnvlmpnw6nwrpx4k30r3ry6b3zawc306hhzl6s4m")))
+
+(define-public crate-rdxl_static_macros-0.0.2 (c (n "rdxl_static_macros") (v "0.0.2") (d (list (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0birrj2r5myxvp13mixdsp3c6vb22y2hxd6x4v468zr06g1qsqxm")))
+
+(define-public crate-rdxl_static_macros-0.0.3 (c (n "rdxl_static_macros") (v "0.0.3") (d (list (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dx1ir8i0z3p433p58bg7as7w64rnpzds5cs7sbb3zb0ms74bhi8")))
+
+(define-public crate-rdxl_static_macros-0.0.4 (c (n "rdxl_static_macros") (v "0.0.4") (d (list (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.2") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "10z5da5cfxs3qlwclrqbs3b18806k8hma1xrydnxy4fr54l1ip5n")))
+
+(define-public crate-rdxl_static_macros-0.0.5 (c (n "rdxl_static_macros") (v "0.0.5") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0l9vskv4fvnf16izq40d5b8rmknmls70xa9dc6n8w75w0f9zakpk")))
+
+(define-public crate-rdxl_static_macros-0.0.6 (c (n "rdxl_static_macros") (v "0.0.6") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1rwh18q9bs7vjsynrp706c0f5bhali1spf88xqvdzfclk67ljrfl")))
+
+(define-public crate-rdxl_static_macros-0.0.7 (c (n "rdxl_static_macros") (v "0.0.7") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "062r58a10f4r9wld2vnbm0645fmidd5fxvmwk0v2nv8s6ml4jgsy")))
+
+(define-public crate-rdxl_static_macros-0.0.8 (c (n "rdxl_static_macros") (v "0.0.8") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "04yq8s8w6bk0cf7sqvr61q5ngh9v9ky4wgwrr4wznsiw5parx1v1")))
+
+(define-public crate-rdxl_static_macros-0.0.9 (c (n "rdxl_static_macros") (v "0.0.9") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "rdxl_static") (r "^0.0.33") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "03mvayl5nkzkdx1d2b786wpgcp66g5bhyv430hhbnbn358d4paqn")))
+
+(define-public crate-rdxl_static_macros-0.0.10 (c (n "rdxl_static_macros") (v "0.0.10") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0fbrpgy5wckxw1xpxlcxwk22zkjvjm8d5ifprb78085fn85sh6dw")))
+
+(define-public crate-rdxl_static_macros-0.0.11 (c (n "rdxl_static_macros") (v "0.0.11") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1lpz9jgj190047lkl7jwr3982x2djayam0hyqjjl25fjwp2lbzh6")))
+
+(define-public crate-rdxl_static_macros-0.0.12 (c (n "rdxl_static_macros") (v "0.0.12") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0i9ic35d4lzph9c08yljzrxyvybiwh3myxjqdxqa813w7dc6p9vh")))
+
+(define-public crate-rdxl_static_macros-0.0.13 (c (n "rdxl_static_macros") (v "0.0.13") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rdxl_internals") (r "^0.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dydbsxdla3axxgx7qkjcvjy2fnyx1b0jxy1zi4z0fdijlnj0fw8")))
+

@@ -1,0 +1,52 @@
+(define-module (crates-io ao e2 aoe2-probe) #:use-module (crates-io))
+
+(define-public crate-aoe2-probe-0.1.0 (c (n "aoe2-probe") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "1wc46h22xznhrh3n4rmk1z9rkqgvgm6ymwh7vk3qcszdlxs7q80w")))
+
+(define-public crate-aoe2-probe-0.1.1 (c (n "aoe2-probe") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "1vy0fhv2nk8f8wdv39rrndz3x0yqyccc6mwkzcj6lsib39vspyj1")))
+
+(define-public crate-aoe2-probe-0.2.0 (c (n "aoe2-probe") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "049r1wqnrpnizjnkdqsam8zr7pmzzzf53lzi621xxmld040a17iz")))
+
+(define-public crate-aoe2-probe-0.2.1 (c (n "aoe2-probe") (v "0.2.1") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "1x1dg9a909mxgfl5fabxvnr5mh3lnnp0sg1frxykhgmsfjchn4dp")))
+
+(define-public crate-aoe2-probe-0.2.2 (c (n "aoe2-probe") (v "0.2.2") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "14579ghq4p9rflazrsp7yzyrinrksbm4j51arna6g1ab778m6sc3")))
+
+(define-public crate-aoe2-probe-0.2.3 (c (n "aoe2-probe") (v "0.2.3") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "1w2wpbxc8n4b7d3626z1krdkm7vpnhszgc5kv8b71byx9jbs5f5i")))
+
+(define-public crate-aoe2-probe-0.2.4 (c (n "aoe2-probe") (v "0.2.4") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "0g1a2kpbs6hp90rgfx4jcmvn6hbd19ng11485vryyn801qchqavg")))
+
+(define-public crate-aoe2-probe-0.2.5 (c (n "aoe2-probe") (v "0.2.5") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "0c37kqrnry806mngb06bh3my6j6gyld3a76z1s8sis5q5ax4z8jk")))
+
+(define-public crate-aoe2-probe-0.2.6 (c (n "aoe2-probe") (v "0.2.6") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "0hnxldbij04f6qpc3wlfbzkfnljfk3cnlrz55d6wlxjjx0bra3sd")))
+
+(define-public crate-aoe2-probe-0.2.7 (c (n "aoe2-probe") (v "0.2.7") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "16pm1afwsycncsybwh5my3m539fwqx6hgx6rb0f55132bvdmii5i")))
+
+(define-public crate-aoe2-probe-0.2.8 (c (n "aoe2-probe") (v "0.2.8") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "18bsygxmbkv3n07i8cnd8n6wjlyq9514xl37m0qa6hvsi503kp8l")))
+
+(define-public crate-aoe2-probe-0.2.9 (c (n "aoe2-probe") (v "0.2.9") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "1iavhxgwf4fb3wjsy653vmcyds5kl3ah8kfa8sz6i4446gi17ay8")))
+
+(define-public crate-aoe2-probe-0.2.10 (c (n "aoe2-probe") (v "0.2.10") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)))) (h "0afafiqkfrydd4p88fh9mznf9rpbmf3yf79yha80zqk42rr8laig")))
+
+(define-public crate-aoe2-probe-0.2.11 (c (n "aoe2-probe") (v "0.2.11") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "1ancgw28vl9qkkw6zy84572y545ypziqf2asv5yxl8vmj4jl28rr")))
+
+(define-public crate-aoe2-probe-0.2.12 (c (n "aoe2-probe") (v "0.2.12") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "1qyf6g2km348iiqmvriq1wfw6wskxf7b3jm0b5x9n1wy34nh0a39")))
+
+(define-public crate-aoe2-probe-0.2.13 (c (n "aoe2-probe") (v "0.2.13") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "1f5ij8y198zvcapq3sqs7cn6n9jyrfyb927f56slzxfhvkb01fqd")))
+
+(define-public crate-aoe2-probe-0.2.14 (c (n "aoe2-probe") (v "0.2.14") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "1lhn7l0wv9v39hzvbw1sijawr6i4zjrch7lq593sc42fbi7kdl4l")))
+
+(define-public crate-aoe2-probe-0.2.15 (c (n "aoe2-probe") (v "0.2.15") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "09q91xqjl546hs6yr9zalq300gw63j2gzf0hj86w992kacz5wz43")))
+
+(define-public crate-aoe2-probe-0.2.16 (c (n "aoe2-probe") (v "0.2.16") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "12nirhfwkhcwpv5lpxbm0h2mvfvsirx4jrl3rx2nzkizmchzbw66")))
+
+(define-public crate-aoe2-probe-0.2.17 (c (n "aoe2-probe") (v "0.2.17") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "1961jm5jcwxgch2k3aalxv279m91r0cgspv29bk891g0aaw10kz0")))
+
+(define-public crate-aoe2-probe-0.2.18 (c (n "aoe2-probe") (v "0.2.18") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)))) (h "1gcm5l4win9b4rm71f376x8w9jif0d3r51drlbmjig52zhbg9f5n")))
+
+(define-public crate-aoe2-probe-0.2.19 (c (n "aoe2-probe") (v "0.2.19") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)) (d (n "serde_repr") (r "^0.1.12") (d #t) (k 0)))) (h "042gqnvn421n6h3x7vh0ffcq8rbxyb9ds4q0cvkhr0h2vnkp0bhc")))
+
+(define-public crate-aoe2-probe-0.2.20 (c (n "aoe2-probe") (v "0.2.20") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)) (d (n "serde_repr") (r "^0.1.12") (d #t) (k 0)))) (h "0v7fm52c7l7kvk8ka9w7q7ajrm6llgzsnx15gpvwd6arlbywaqak")))
+
+(define-public crate-aoe2-probe-0.3.0 (c (n "aoe2-probe") (v "0.3.0") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.142") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 2)) (d (n "serde_repr") (r "^0.1.12") (d #t) (k 0)))) (h "11qimax7gnjn9i4ky5qk5vx8v8c98b9pmg3zhqmj9lbwqzqa6mc8")))
+
+(define-public crate-aoe2-probe-0.3.1 (c (n "aoe2-probe") (v "0.3.1") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)))) (h "13i984n2nk5sp2gpqsdnswmwvmj91fzaiazf20wwd00n9hxrk0sh")))
+

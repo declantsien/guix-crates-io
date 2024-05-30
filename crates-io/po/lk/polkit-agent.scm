@@ -1,0 +1,18 @@
+(define-module (crates-io po lk polkit-agent) #:use-module (crates-io))
+
+(define-public crate-polkit-agent-0.1.0 (c (n "polkit-agent") (v "0.1.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "gio") (r "^0") (d #t) (k 0)) (d (n "gio-sys") (r "^0") (d #t) (k 0)) (d (n "glib") (r "^0") (d #t) (k 0)) (d (n "glib-sys") (r "^0") (d #t) (k 0)) (d (n "gobject-sys") (r "^0") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0") (d #t) (k 0)) (d (n "polkit-agent-sys") (r "^0") (d #t) (k 0)) (d (n "polkit-sys") (r "^0") (d #t) (k 0)))) (h "0qlipjdz2ncc130hf3i1bgrslvxa9h0mv0xdwx5sn5kdrmh35468")))
+
+(define-public crate-polkit-agent-0.15.0 (c (n "polkit-agent") (v "0.15.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.15") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.15") (d #t) (k 0)))) (h "1lhwph8i1rzazs2am39803dm1jmbd8jnga1g58cghyma6v29kqas")))
+
+(define-public crate-polkit-agent-0.15.1 (c (n "polkit-agent") (v "0.15.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.15") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.15") (d #t) (k 0)))) (h "01flkyyyra8f5n1j5jl355k0qrp4lknd6sk5y3hpqhgy0lxnar4y")))
+
+(define-public crate-polkit-agent-0.15.2 (c (n "polkit-agent") (v "0.15.2") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.15") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.15") (d #t) (k 0)))) (h "1qm3cpndc3fmqw9swvkw8vx7zfqbpngrkqj3y64x8dv6s3wrv9k6")))
+
+(define-public crate-polkit-agent-0.15.4 (c (n "polkit-agent") (v "0.15.4") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.15") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.15") (d #t) (k 0)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.15") (d #t) (k 0)))) (h "0p87y96m75lrvmnghdbdydj8cj1faj59k8ldmdhq258pj41z0pfv") (f (quote (("dox" "polkit/dox" "ffi/dox"))))))
+
+(define-public crate-polkit-agent-0.17.0 (c (n "polkit-agent") (v "0.17.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.17") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.17") (d #t) (k 0)) (d (n "glib") (r "^0.17") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.17") (d #t) (k 0)))) (h "0d1zvck1j8d69qc1jxmgc38mhc4mb1ix2wvkhm3k2axl76ccvn3i") (f (quote (("dox" "polkit/dox" "ffi/dox"))))))
+
+(define-public crate-polkit-agent-0.17.1 (c (n "polkit-agent") (v "0.17.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.17") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.17") (d #t) (k 0)) (d (n "glib") (r "^0.17") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.17") (d #t) (k 0)))) (h "1fhkp1prjbvh08nvvlyv5dj0pn2hk48q34j56qff04r63r489is3") (f (quote (("dox" "polkit/dox" "ffi/dox"))))))
+
+(define-public crate-polkit-agent-0.19.0 (c (n "polkit-agent") (v "0.19.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "ffi") (r "^0.19") (d #t) (k 0) (p "polkit-agent-sys")) (d (n "gio") (r "^0.19") (d #t) (k 0)) (d (n "glib") (r "^0.19") (d #t) (k 0)) (d (n "libc") (r "^0") (d #t) (k 0)) (d (n "polkit") (r "^0.19") (d #t) (k 0)))) (h "19m4qhn4ckzm6adlqfj5awgqgjm1ngbxkkxnnpllz4j95w34s1zc")))
+

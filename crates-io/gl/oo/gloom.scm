@@ -1,0 +1,4 @@
+(define-module (crates-io gl oo gloom) #:use-module (crates-io))
+
+(define-public crate-gloom-0.1.0 (c (n "gloom") (v "0.1.0") (d (list (d (n "async-raft") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "metrics") (r "^0.17") (d #t) (k 0)) (d (n "metrics-exporter-prometheus") (r "^0.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.12") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-bunyan-formatter") (r "^0.2") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "tracing-log") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (f (quote ("registry" "env-filter"))) (d #t) (k 0)))) (h "13lfrjr06qx34rpchif3sparvxd1bj7fg63r7sj884mr456zy9xa")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io cl ap clap_config) #:use-module (crates-io))
+
+(define-public crate-clap_config-0.1.0 (c (n "clap_config") (v "0.1.0") (d (list (d (n "bytesize") (r "^1.3.0") (f (quote ("serde"))) (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (f (quote ("derive" "env" "string" "wrap_help"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 2)) (d (n "const_format") (r "^0.2.32") (d #t) (k 2)) (d (n "heck") (r "^0.5.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.29") (d #t) (k 2)) (d (n "syn") (r "^2.0.42") (f (quote ("full"))) (d #t) (k 0)))) (h "1mdgc9mdnidns2vj9qmbiq1m2i0biy3li1b23xfgaz9nwd3mkra6")))
+

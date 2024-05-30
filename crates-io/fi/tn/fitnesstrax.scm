@@ -1,0 +1,4 @@
+(define-module (crates-io fi tn fitnesstrax) #:use-module (crates-io))
+
+(define-public crate-fitnesstrax-0.1.0 (c (n "fitnesstrax") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dimensioned") (r "^0.7.0") (d #t) (k 0)) (d (n "emseries") (r "^0.5.0") (d #t) (k 0)) (d (n "fitnesstrax-lib") (r "^0.1.0") (d #t) (k 0)) (d (n "fluent") (r "^0.9.1") (d #t) (k 0)) (d (n "gio") (r "^0.8.1") (f (quote ("v2_44"))) (d #t) (k 0)) (d (n "glib") (r "^0.9.0") (d #t) (k 0)) (d (n "gtk") (r "^0.8.0") (f (quote ("v3_16"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tzdata") (r "^0.4.1") (d #t) (k 0)) (d (n "unic-langid") (r "^0.7.1") (d #t) (k 0)))) (h "0v80bzk2afmp11n7nlhd3f3549cxzjwjap3lap2s22k4xf1177vv")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# h hrt) #:use-module (crates-io))
+
+(define-public crate-hrt-0.1.0 (c (n "hrt") (v "0.1.0") (d (list (d (n "clap") (r "^2.33") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.3.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.99") (d #t) (k 0)))) (h "17210l8fdjjvk3iphzbdghqz7hix99k7f3bnha77963j1z4xqbml")))
+
+(define-public crate-hrt-0.1.1 (c (n "hrt") (v "0.1.1") (d (list (d (n "clap") (r "^2.33") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.3.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.99") (d #t) (k 0)))) (h "1gshinj7ms6c2hbgdfqmv1villd8279jvmbxy0h9xxk45d89khni")))
+
+(define-public crate-hrt-0.1.2 (c (n "hrt") (v "0.1.2") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "config") (r "^0.9.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.3.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.99") (d #t) (k 0)))) (h "1f4qb683i11rvk82i439wj7nfzw8wrlwrbm33ghx4fr7gzw7kwix")))
+
+(define-public crate-hrt-0.1.3 (c (n "hrt") (v "0.1.3") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "config") (r "^0.9.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.3.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.99") (d #t) (k 0)))) (h "185zmvpr8yikim6qs3mskanwp00kg6j3y9rykzql6vygs5ab5x1b")))
+

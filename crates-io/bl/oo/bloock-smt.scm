@@ -1,0 +1,4 @@
+(define-module (crates-io bl oo bloock-smt) #:use-module (crates-io))
+
+(define-public crate-bloock-smt-0.1.0 (c (n "bloock-smt") (v "0.1.0") (d (list (d (n "bitvec") (r "^0.17.4") (d #t) (k 0)) (d (n "bloock-merge") (r "^0.1.0") (f (quote ("blake2b"))) (d #t) (k 0)) (d (n "bloock-storage") (r "^0.1.0") (f (quote ("kv_hashmap" "kv_rocks"))) (d #t) (k 0)) (d (n "bloock-types") (r "^0.1.0") (f (quote ("h128" "h256"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "16ippgliqq9g7lkh2cr6lha9hlb03an6qvzip6xp1wbzhhi5rjnf") (f (quote (("kv_rocks" "bloock-storage/kv_rocks") ("kv_hashmap" "bloock-storage/kv_hashmap") ("h256" "bloock-types/h256") ("h128" "bloock-types/h128") ("default" "blake2b" "h256" "kv_rocks") ("blake2b" "bloock-merge/blake2b"))))))
+

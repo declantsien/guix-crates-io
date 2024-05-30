@@ -1,0 +1,8 @@
+(define-module (crates-io fl oc floco) #:use-module (crates-io))
+
+(define-public crate-floco-0.1.0 (c (n "floco") (v "0.1.0") (d (list (d (n "half") (r "^2.3.1") (f (quote ("num-traits"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (k 0)) (d (n "serde-json-core") (r "^0.5.1") (d #t) (k 2)))) (h "0znqywfyyjl9y2094wk41gialgfk0833yl21s4hzwfh2dfmac3r3") (f (quote (("std_serde" "serde/std") ("std_math" "num-traits/std") ("std" "std_math" "std_serde") ("libm" "num-traits/libm") ("default" "libm"))))))
+
+(define-public crate-floco-0.1.1 (c (n "floco") (v "0.1.1") (d (list (d (n "floatd") (r "^0.1.0") (d #t) (k 0)) (d (n "half") (r "^2.3.1") (f (quote ("num-traits"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (k 0)) (d (n "serde-json-core") (r "^0.5.1") (d #t) (k 2)))) (h "1w2mi40cp4076pwjndy9r9pvmlzzh2ir1qxk1zkgxxjvzp3x4111") (f (quote (("std_serde" "serde/std") ("std_math" "num-traits/std" "floatd/std") ("std" "std_math" "std_serde") ("libm" "num-traits/libm") ("default" "libm"))))))
+
+(define-public crate-floco-0.1.2 (c (n "floco") (v "0.1.2") (d (list (d (n "floatd") (r "^0.1.0") (d #t) (k 0)) (d (n "half") (r "^2.3.1") (f (quote ("num-traits"))) (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (f (quote ("libm"))) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (k 0)) (d (n "serde-json-core") (r "^0.5.1") (d #t) (k 2)))) (h "1cpnavl2rqyjmpwcy18pnvlykskx3qaggnc0wzaq9npj81lx1p7d") (f (quote (("std_serde" "serde/std") ("std_math" "num-traits/std" "floatd/std") ("std" "std_math" "std_serde") ("libm" "num-traits/libm") ("default" "libm"))))))
+

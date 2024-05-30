@@ -1,0 +1,10 @@
+(define-module (crates-io fo rg forge_wallet) #:use-module (crates-io))
+
+(define-public crate-forge_wallet-0.1.0 (c (n "forge_wallet") (v "0.1.0") (d (list (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "forge_did") (r "^0.1") (d #t) (k 0)) (d (n "forge_hasher") (r "^0.1") (d #t) (k 0)) (d (n "forge_signer") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0jwwbb2w2gz083kszcqdckpp64wyk42lgv1g4c9k3ll8w1mf8xzi")))
+
+(define-public crate-forge_wallet-0.1.1 (c (n "forge_wallet") (v "0.1.1") (d (list (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "forge_did") (r "^0.1") (d #t) (k 0)) (d (n "forge_hasher") (r "^0.1") (d #t) (k 0)) (d (n "forge_signer") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0m9z4bdrd500cyysyqqqnyh3kgwzw8ks1nzmdpcmczzyla3ws0kk")))
+
+(define-public crate-forge_wallet-0.1.2 (c (n "forge_wallet") (v "0.1.2") (d (list (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "forge_did") (r "^0.1") (d #t) (k 0)) (d (n "forge_hasher") (r "^0.1") (d #t) (k 0)) (d (n "forge_signer") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0nvc19bxj588idfznrxym37h7499cm73r8dl9i3phqpqp4ifkg81")))
+
+(define-public crate-forge_wallet-0.1.3 (c (n "forge_wallet") (v "0.1.3") (d (list (d (n "base58") (r "^0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "forge_did") (r "^0.1") (d #t) (k 0)) (d (n "forge_hasher") (r "^0.1") (d #t) (k 0)) (d (n "forge_signer") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1y1xcdgfp6qzr5k219cpdarc81w75cxjlw9sabd205d0vbn4npym")))
+

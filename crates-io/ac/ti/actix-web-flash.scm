@@ -1,0 +1,10 @@
+(define-module (crates-io ac ti actix-web-flash) #:use-module (crates-io))
+
+(define-public crate-actix-web-flash-0.1.0 (c (n "actix-web-flash") (v "0.1.0") (d (list (d (n "actix-web") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1vbricgkxpgjnk35644wcs36z6djshsb7ig745diqlrjnjyfj9r7")))
+
+(define-public crate-actix-web-flash-0.2.0 (c (n "actix-web-flash") (v "0.2.0") (d (list (d (n "actix-web") (r "^0.7") (d #t) (k 0)) (d (n "cookie") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "13xcvcvdn8k579x3s4x9g7i5p45aj3vb6b41jlwnqwrinvkjljwn")))
+
+(define-public crate-actix-web-flash-0.3.0 (c (n "actix-web-flash") (v "0.3.0") (d (list (d (n "actix-files") (r "^0.1") (d #t) (k 2)) (d (n "actix-http") (r "^0.2") (d #t) (k 0)) (d (n "actix-http-test") (r "^0.2") (d #t) (k 2)) (d (n "actix-service") (r "^0.4") (d #t) (k 0)) (d (n "actix-web") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "182pywqzlgljh52k2iq4nnq5s8bghk0d2sf0q6abc5hr8d8a7mhi")))
+
+(define-public crate-actix-web-flash-0.3.1 (c (n "actix-web-flash") (v "0.3.1") (d (list (d (n "actix-files") (r "^0.1") (d #t) (k 2)) (d (n "actix-http") (r "^0.2") (d #t) (k 0)) (d (n "actix-http-test") (r "^0.2") (d #t) (k 2)) (d (n "actix-service") (r "^0.4") (d #t) (k 0)) (d (n "actix-web") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 2)))) (h "10dw6a9vf2dwakcl7vqqsmpwsy921h62b6wxlwi1f84jpp465n9y")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io re tr retriever) #:use-module (crates-io))
+
+(define-public crate-retriever-0.0.2 (c (n "retriever") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.6") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 2)) (d (n "smallvec") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1q1k835kkc62b24krp3czb03w1fk0cj960vcjm8crwppa0j93cws")))
+
+(define-public crate-retriever-0.0.3 (c (n "retriever") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.6") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 2)) (d (n "smallvec") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 2)))) (h "1vhd1jcdpxakcd5jdsbp0kjf0iq3jrwjk3q256d8i9syb4j2bm9l")))
+

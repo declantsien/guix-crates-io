@@ -1,0 +1,14 @@
+(define-module (crates-io ne x- nex-packet) #:use-module (crates-io))
+
+(define-public crate-nex-packet-0.6.0 (c (n "nex-packet") (v "0.6.0") (d (list (d (n "nex-core") (r "^0.6.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.6.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.6.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "10p6v1kpa002mji13qi9sx5dfbckhmaw1p16pyjyipj1k8pq7azk") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+
+(define-public crate-nex-packet-0.7.0 (c (n "nex-packet") (v "0.7.0") (d (list (d (n "nex-core") (r "^0.7.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.7.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0lp0k3kq8mi0ip0zcm98xdbvj7v1jan6b56w4r6rya1lihg57aiq") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+
+(define-public crate-nex-packet-0.8.0 (c (n "nex-packet") (v "0.8.0") (d (list (d (n "nex-core") (r "^0.8.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.8.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "15ws7mcsh582l2d83hcsg17q738q4zxrv5jbapqccbi26wr2ldgj") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+
+(define-public crate-nex-packet-0.9.0 (c (n "nex-packet") (v "0.9.0") (d (list (d (n "nex-core") (r "^0.9.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.9.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.9.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0yc5acjlvhbwzxhkipmpndk0sa49i9396vnxf0n1ymi0lj21c5ka") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+
+(define-public crate-nex-packet-0.10.0 (c (n "nex-packet") (v "0.10.0") (d (list (d (n "nex-core") (r "^0.10.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.10.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "10n1w5vlvhz2saz7vrjlhfs8b529d9ccbf94wx099gsmg32zm3i7") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+
+(define-public crate-nex-packet-0.11.0 (c (n "nex-packet") (v "0.11.0") (d (list (d (n "nex-core") (r "^0.11.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.11.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0mqkrs9gn83nrnnm9w86ax3a37y4nzabixsmw3nb3b237swrrv4y") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+

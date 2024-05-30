@@ -1,0 +1,6 @@
+(define-module (crates-io me pl meplang) #:use-module (crates-io))
+
+(define-public crate-meplang-0.1.6 (c (n "meplang") (v "0.1.6") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1m9gf9pmqshcnl1a5y2zax2ccdgn2cwj079bhbly06yshdm9w9s4")))
+
+(define-public crate-meplang-0.1.7 (c (n "meplang") (v "0.1.7") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "enum-impl") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1h1nr9aq0cfh3wg8ma134p2ww32rx0v95dfdqq9kdb26fv41z3l5")))
+

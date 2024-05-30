@@ -1,0 +1,4 @@
+(define-module (crates-io gi t- git-assist) #:use-module (crates-io))
+
+(define-public crate-git-assist-0.1.0 (c (n "git-assist") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "clap") (r "^4.3.21") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git-url-parse") (r "^0.4.4") (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8.3.0") (o #t) (d #t) (k 0)) (d (n "octocrab") (r "^0.29.1") (f (quote ("stream"))) (o #t) (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "shellexpand") (r "^3.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.31.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "12ivkdx954gyj901sf9v421qrh2ynn1ijc2sblgw3lscl17vi83a") (f (quote (("github" "jsonwebtoken" "octocrab") ("default" "github"))))))
+

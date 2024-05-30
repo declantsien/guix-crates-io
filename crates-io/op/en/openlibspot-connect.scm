@@ -1,0 +1,4 @@
+(define-module (crates-io op en openlibspot-connect) #:use-module (crates-io))
+
+(define-public crate-openlibspot-connect-0.6.0 (c (n "openlibspot-connect") (v "0.6.0") (d (list (d (n "form_urlencoded") (r "^1.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "openlibspot-core") (r "^0.6.0") (d #t) (k 0)) (d (n "openlibspot-playback") (r "^0.6.0") (d #t) (k 0)) (d (n "openlibspot-protocol") (r "^0.6.0") (d #t) (k 0)) (d (n "protobuf") (r "^3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "parking_lot" "sync"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "0n66xs9gl28l2dqpn73wvsdshdxq0dprrqrqgcsh2c6gvb9cxiip") (y #t) (r "1.61")))
+

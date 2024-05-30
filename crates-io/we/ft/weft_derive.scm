@@ -1,0 +1,8 @@
+(define-module (crates-io we ft weft_derive) #:use-module (crates-io))
+
+(define-public crate-weft_derive-0.1.0 (c (n "weft_derive") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.5.13") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "html5ever") (r "^0.22.3") (d #t) (k 0)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.20") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "regex") (r "^1.0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0iawc8m4zgbm4ca2n3cbzcqxknp4ilgsc1ndq1lqvbi9mhflgvbj")))
+
+(define-public crate-weft_derive-0.1.1 (c (n "weft_derive") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "html5ever") (r "^0.24.0") (d #t) (k 0)) (d (n "kuchiki") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.20") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "regex") (r "^1.0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "1ipsq271kmb4p2msl5jlf3lapf36lk07szmbx7qa9bi22z50bsq3")))
+
+(define-public crate-weft_derive-0.1.2 (c (n "weft_derive") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "html5ever") (r "^0.26.0") (d #t) (k 0)) (d (n "kuchiki") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.0.6") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0a93lks9kg39wsf0f8z5ga3g4kp1g9fg3qppa7bjf50qvbnm890d")))
+

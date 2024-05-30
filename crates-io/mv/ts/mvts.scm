@@ -1,0 +1,12 @@
+(define-module (crates-io mv ts mvts) #:use-module (crates-io))
+
+(define-public crate-mvts-0.1.0 (c (n "mvts") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "ropey") (r "^1.2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.19") (d #t) (k 0)))) (h "01wpalwy5miy1pgd4mrq8zpv7haavw1p0h2w1c2pi5d5ijhdwq68")))
+
+(define-public crate-mvts-0.2.0 (c (n "mvts") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "ropey") (r "^1.2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.19") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1353v4djyr440jvilgmz120bqc0zqb25b7mmszm643kganw0dm8k")))
+
+(define-public crate-mvts-0.2.2 (c (n "mvts") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "ropey") (r "^1.2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.19") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0n8dlvkrrdd6waixsaqw41qqibknckgz25fjpy3c12rk95pq1bwl")))
+
+(define-public crate-mvts-0.3.0 (c (n "mvts") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "ropey") (r "^1.2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.19") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0l8490hhv8ry4in33bppfy1f4gj3s4aii85v1h2aawc4wy0xlcz4")))
+
+(define-public crate-mvts-0.4.0 (c (n "mvts") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "ropey") (r "^1.2.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.19.3") (d #t) (k 0)) (d (n "tree-sitter-typescript") (r "^0.19") (d #t) (k 0)))) (h "1ppclrbaxm85qjjm163h1hkvvy2vr0vmcbai6r9qaymanhvhifjm")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io da ta dataclot-server) #:use-module (crates-io))
+
+(define-public crate-dataclot-server-0.0.0 (c (n "dataclot-server") (v "0.0.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "datafusion") (r "^33.0") (f (quote ("simd"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "pgwire") (r "^0.16.1") (d #t) (k 0)) (d (n "query") (r "^0.0.0") (d #t) (k 0) (p "dataclot-query")) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)))) (h "0l4r0dyhx7ba1gd380kkcp38vzhawdmcgkg9ylkr5h4xpmf7grbl")))
+
+(define-public crate-dataclot-server-0.0.1 (c (n "dataclot-server") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "datafusion") (r "^33.0") (f (quote ("simd"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "pgwire") (r "^0.16.1") (d #t) (k 0)) (d (n "query") (r "^0.0.1") (d #t) (k 0) (p "dataclot-query")) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.34") (f (quote ("full"))) (d #t) (k 0)))) (h "0caq2vszykzjdmwhmmnvc5al0ari160ipmj6kpi827d1izmwfsqs")))
+

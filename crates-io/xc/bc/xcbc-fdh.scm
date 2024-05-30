@@ -1,0 +1,4 @@
+(define-module (crates-io xc bc xcbc-fdh) #:use-module (crates-io))
+
+(define-public crate-xcbc-fdh-0.9.0 (c (n "xcbc-fdh") (v "0.9.0") (d (list (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "num-bigint") (r "^0.7") (f (quote ("zeroize"))) (o #t) (d #t) (k 0) (p "num-bigint-dig")) (d (n "num-integer") (r "^0.1.44") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 2)) (d (n "secret_integers") (r "^0.1.6") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.2") (d #t) (k 2)) (d (n "sha2") (r "^0.9.2") (d #t) (k 2)) (d (n "sha3") (r "^0.9.1") (d #t) (k 2)) (d (n "subtle") (r "^2.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (o #t) (d #t) (k 0)))) (h "1rza9g9xrz7xg47ihwgfggm1yrr8n261bp436nvilrwqh9pz3c86") (f (quote (("std" "digest/std" "num-bigint" "thiserror") ("default" "std"))))))
+

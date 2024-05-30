@@ -1,0 +1,8 @@
+(define-module (crates-io sy n- syn-miette) #:use-module (crates-io))
+
+(define-public crate-syn-miette-0.1.0 (c (n "syn-miette") (v "0.1.0") (d (list (d (n "insta") (r "^1.33.0") (d #t) (k 2)) (d (n "miette") (r "^5.10.0") (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.67") (f (quote ("span-locations"))) (k 0)) (d (n "syn") (r "^2.0.37") (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("parsing" "derive" "extra-traits"))) (k 2)))) (h "06i7gpwi2gsnaji9hr5q0z12n1v85ly9ac33s24n1ahv6ihhj0k0")))
+
+(define-public crate-syn-miette-0.2.0 (c (n "syn-miette") (v "0.2.0") (d (list (d (n "ariadne") (r "^0.4.0") (d #t) (k 2)) (d (n "insta") (r "^1.36.1") (d #t) (k 2)) (d (n "miette") (r "^7.2.0") (k 0)) (d (n "miette") (r "^7.2.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.79") (f (quote ("span-locations"))) (k 0)) (d (n "ropey") (r "^1.6.1") (d #t) (k 2)) (d (n "syn") (r "^2.0.53") (k 0)) (d (n "syn") (r "^2.0.53") (f (quote ("parsing" "derive" "extra-traits" "printing"))) (k 2)))) (h "0hjhq9amy52ygalwdwgamly79q1vfpb6xl64f34y2zbmpxz36mjp")))
+
+(define-public crate-syn-miette-0.3.0 (c (n "syn-miette") (v "0.3.0") (d (list (d (n "ariadne") (r "^0.4.0") (d #t) (k 2)) (d (n "insta") (r "^1.36.1") (d #t) (k 2)) (d (n "miette") (r "^7.2.0") (k 0)) (d (n "proc-macro2") (r "^1.0.79") (f (quote ("span-locations"))) (k 0)) (d (n "ropey") (r "^1.6.1") (d #t) (k 2)) (d (n "syn") (r "^2.0.53") (k 0)) (d (n "syn") (r "^2.0.53") (f (quote ("parsing" "derive" "extra-traits" "printing"))) (k 2)))) (h "0jx2fsxpjhm25ahpl7ndmzfx1p9l7ljs1fi1impl10fzwbx2n6nx") (f (quote (("render" "miette/fancy" "miette/derive") ("default" "render")))) (r "1.70.0")))
+

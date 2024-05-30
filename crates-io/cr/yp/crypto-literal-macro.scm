@@ -1,0 +1,6 @@
+(define-module (crates-io cr yp crypto-literal-macro) #:use-module (crates-io))
+
+(define-public crate-crypto-literal-macro-0.1.0 (c (n "crypto-literal-macro") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "crypto-literal-algorithm") (r "^0.1") (d #t) (k 0)) (d (n "generic-array") (r "^0.12.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full"))) (d #t) (k 0)))) (h "1lrmr6q54x0ls6xkcrx3gnk39k9ac9flg1rqqbnhcn5mcamyzxiy")))
+
+(define-public crate-crypto-literal-macro-0.1.1 (c (n "crypto-literal-macro") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "crypto-literal-algorithm") (r "^0.1.1") (d #t) (k 0)) (d (n "generic-array") (r "^0.12.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full"))) (d #t) (k 0)))) (h "08l0028x3k30sbr6r8xkgln3cijwiza9jd6010hpqnh80zn0aqam")))
+

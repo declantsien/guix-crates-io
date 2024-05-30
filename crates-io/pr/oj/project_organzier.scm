@@ -1,0 +1,4 @@
+(define-module (crates-io pr oj project_organzier) #:use-module (crates-io))
+
+(define-public crate-project_organzier-0.1.0 (c (n "project_organzier") (v "0.1.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "console") (r "^0.15") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10") (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "fs-err") (r "^2.9.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "turbosql") (r "^0.7") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "diff") (r "^0.1") (d #t) (k 2)))) (h "0mq15k9q2w09xs16cq994zxlj4bdgf2d8k54p4sg7wf1q0cnhh99")))
+

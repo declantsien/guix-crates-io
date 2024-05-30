@@ -1,0 +1,4 @@
+(define-module (crates-io mf ek mfek-ipc) #:use-module (crates-io))
+
+(define-public crate-mfek-ipc-0.0.4-beta1 (c (n "mfek-ipc") (v "0.0.4-beta1") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (t "cfg(windows)") (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono_locale") (r "^0.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "figlet-rs") (r "^0.1") (d #t) (k 0)) (d (n "glifparser") (r "^1.2") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "test-log") (r "^0.2") (d #t) (k 2)))) (h "00ivi4c4gh54ccmhpxq27qzmfmakamb8g1b86n3bb0jnran53bcn") (f (quote (("reproducible-build"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ro re roreo-common) #:use-module (crates-io))
+
+(define-public crate-roreo-common-0.0.1 (c (n "roreo-common") (v "0.0.1") (d (list (d (n "crc32fast") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "indexmap") (r "^1.9") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "prost") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "viewit") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.4") (d #t) (k 2)) (d (n "prost-build") (r "^0.11") (o #t) (d #t) (k 1)))) (h "1bnyvy7kwz6d4w6kmzg97i2c5y1pplpc768f18kh9lizm90k2mih") (f (quote (("manifest" "prost-build" "prost" "indexmap" "parking_lot" "tracing" "crc32fast" "viewit") ("default" "manifest"))))))
+

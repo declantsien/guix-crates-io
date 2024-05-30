@@ -1,0 +1,4 @@
+(define-module (crates-io va ps vapstore-cli) #:use-module (crates-io))
+
+(define-public crate-vapstore-cli-0.1.1 (c (n "vapstore-cli") (v "0.1.1") (d (list (d (n "dir") (r "^0.1.2") (d #t) (k 0)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "num_cpus") (r "^1.6") (d #t) (k 0)) (d (n "panic-hook") (r "^0.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "tetsy-crypto") (r "^0.4.2") (f (quote ("publickey"))) (d #t) (k 0)) (d (n "vapkey") (r "^0.4.0") (d #t) (k 0)) (d (n "vapstore") (r "^0.2.1") (d #t) (k 0)))) (h "0zkr1hnkr5lxbbpk5xwsckfdn8x6hd8xxx099s8h7l5r502dfh7d")))
+

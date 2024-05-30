@@ -1,0 +1,6 @@
+(define-module (crates-io no te notemd) #:use-module (crates-io))
+
+(define-public crate-notemd-0.1.0 (c (n "notemd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "fern") (r "^0.6.1") (d #t) (k 0)) (d (n "grep") (r "^0.2.8") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tui") (r "^0.18.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)))) (h "0j40afpiqrnv2p4jfgn01mq8m7smhii8vkb0i96jyzk673ia9sck")))
+
+(define-public crate-notemd-0.2.0 (c (n "notemd") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "fern") (r "^0.6.1") (d #t) (k 0)) (d (n "grep") (r "^0.2.8") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "tui") (r "^0.18.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)))) (h "1nsnjw98n4vy9mxyfadzpqxakqqwjyyi927108n68xqwdw31q3s9")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io tc -b tc-basic-authorship) #:use-module (crates-io))
+
+(define-public crate-tc-basic-authorship-0.0.0 (c (n "tc-basic-authorship") (v "0.0.0") (h "1vv18mfjwp15y7pj2k6ihh8dl1mfx6ji4shm3z6wqgkjyw6k18p7") (y #t)))
+
+(define-public crate-tc-basic-authorship-0.8.0 (c (n "tc-basic-authorship") (v "0.8.0") (d (list (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "futures") (r "^0.3.9") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 2)) (d (n "prometheus-endpoint") (r "^0.8.1") (d #t) (k 0) (p "prometheus-endpoint")) (d (n "tc-block-builder") (r "^0.8.0") (d #t) (k 0)) (d (n "tc-client-api") (r "^2.0.0") (d #t) (k 0)) (d (n "tc-proposer-metrics") (r "^0.8.0") (d #t) (k 0)) (d (n "tc-telemetry") (r "^2.0.0") (d #t) (k 0)) (d (n "tc-transaction-pool") (r "^2.0.0") (d #t) (k 2)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-api") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-blockchain") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-consensus") (r "^0.8.2") (d #t) (k 0)) (d (n "tp-inherents") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-transaction-pool") (r "^2.0.2") (d #t) (k 0)))) (h "0lbg9kanp7jqkk3pnlc1y7dma0dlvcr6kwbsfgl1gaz8j4gx2dqx")))
+

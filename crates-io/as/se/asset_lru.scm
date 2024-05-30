@@ -1,0 +1,14 @@
+(define-module (crates-io as se asset_lru) #:use-module (crates-io))
+
+(define-public crate-asset_lru-0.0.2 (c (n "asset_lru") (v "0.0.2") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 2)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "00zj4j3r51fz0wpwi2v3n7dm7fxg824h2ngq2h1c49n8x2svg084")))
+
+(define-public crate-asset_lru-0.0.3 (c (n "asset_lru") (v "0.0.3") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 2)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "08c7659xl1cnlc3zkmc4dz14d4nm1alg9cwkyc5l2d9870i5faln")))
+
+(define-public crate-asset_lru-0.1.0 (c (n "asset_lru") (v "0.1.0") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 2)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "19xqdii3fkqm60njikrv28cfhkykx2sh2hk3s8x3gbnqmmzimq0g")))
+
+(define-public crate-asset_lru-0.1.1 (c (n "asset_lru") (v "0.1.1") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 2)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0bdkp2pcsd08hjz439jpwaai7az8hzp4py9b06xxr2wbl1m1wkkf")))
+
+(define-public crate-asset_lru-0.1.2 (c (n "asset_lru") (v "0.1.2") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 2)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "1nf6c8didhzqsy3hgkg8wfhdi5dzapbvv7bv1xdgfq4akk5yakb8")))
+
+(define-public crate-asset_lru-0.1.3 (c (n "asset_lru") (v "0.1.3") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "derive_builder") (r "^0.10.2") (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 2)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)))) (h "0psvb7sv40scih67ab7x5dv0wg58h549ddbbkvmq03430s9nsh7s")))
+

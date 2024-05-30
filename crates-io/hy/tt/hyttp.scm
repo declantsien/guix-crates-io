@@ -1,0 +1,4 @@
+(define-module (crates-io hy tt hyttp) #:use-module (crates-io))
+
+(define-public crate-hyttp-0.6.0 (c (n "hyttp") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "server" "http1" "http2" "tcp" "stream"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.5") (f (quote ("net" "rt" "rt-multi-thread" "time"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("net"))) (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "1x4ksg7iayjcm8r23zmki3bs07x3vcgzw9z5q9dyq42zxsyvs680")))
+

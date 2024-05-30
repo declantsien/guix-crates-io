@@ -1,0 +1,16 @@
+(define-module (crates-io pr oj project-origins) #:use-module (crates-io))
+
+(define-public crate-project-origins-1.0.0 (c (n "project-origins") (v "1.0.0") (d (list (d (n "dunce") (r "^1.0.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "miette") (r "^4.7.1") (d #t) (k 2)) (d (n "tokio") (r "^1.19.2") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "0xlbdv96axk06x7da6qn2qn1pqm8f6fp7ixi8pcy0g5r13q29x8j") (r "1.58.0")))
+
+(define-public crate-project-origins-1.1.0 (c (n "project-origins") (v "1.1.0") (d (list (d (n "dunce") (r "^1.0.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "miette") (r "^4.7.1") (d #t) (k 2)) (d (n "tokio") (r "^1.19.2") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "0n44pyb95arjc1zpbvzwiq81dl5nvb4mhqh0sh6vbnbk8z7mgz6x") (r "1.58.0")))
+
+(define-public crate-project-origins-1.1.1 (c (n "project-origins") (v "1.1.1") (d (list (d (n "dunce") (r "^1.0.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.19.2") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "14b3wm36qpybvzprfrg38h252blinl8x8v4xg53hbkvwq0qks3zl") (r "1.58.0")))
+
+(define-public crate-project-origins-1.2.0 (c (n "project-origins") (v "1.2.0") (d (list (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.23.1") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "0ya364x9dj72bcapvndmhv5qwyw4m3p1ddjw6hw85jk5y9bhv7k2") (r "1.58.0")))
+
+(define-public crate-project-origins-1.2.1 (c (n "project-origins") (v "1.2.1") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.33.0") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "12b0wk521jd2w7siqxbyccfq4z923bs33m8gz30gxxsh6m7b5grq") (r "1.58.0")))
+
+(define-public crate-project-origins-1.3.0 (c (n "project-origins") (v "1.3.0") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "miette") (r "^5.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.33.0") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "1lizp7dp6ddrlgh3xigl8pyai5qn8ab7lnhgwsb19ihgpyix8xm0") (r "1.58.0")))
+
+(define-public crate-project-origins-1.4.0 (c (n "project-origins") (v "1.4.0") (d (list (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 2)) (d (n "tokio") (r "^1.33.0") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("fs"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 2)))) (h "0b3cv8pgkq659y1hk0h9w6zzmafwn2nlphna24i3r1k73i5nnp3k") (r "1.58.0")))
+

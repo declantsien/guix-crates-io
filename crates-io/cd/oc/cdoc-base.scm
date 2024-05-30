@@ -1,0 +1,6 @@
+(define-module (crates-io cd oc cdoc-base) #:use-module (crates-io))
+
+(define-public crate-cdoc-base-0.10.0-alpha (c (n "cdoc-base") (v "0.10.0-alpha") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "minijinja") (r "^1.0.10") (f (quote ("loader"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.19") (o #t) (d #t) (k 0)))) (h "1hg4k9mk3n096x5z2fhxac095dmcp7m3cy0ivi18yx4vnsx6k8va") (f (quote (("wasm") ("default" "xml-rs"))))))
+
+(define-public crate-cdoc-base-0.10.0-alpha.1 (c (n "cdoc-base") (v "0.10.0-alpha.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "minijinja") (r "^1.0.10") (f (quote ("loader"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.19") (o #t) (d #t) (k 0)))) (h "061x8qm3r873kg9czss389q4bfh9xh8wdb9lbmq3py1ng7hk70f5") (f (quote (("wasm") ("default" "xml-rs"))))))
+

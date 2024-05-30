@@ -1,0 +1,6 @@
+(define-module (crates-io ag re agreed-memstore) #:use-module (crates-io))
+
+(define-public crate-agreed-memstore-1.0.0 (c (n "agreed-memstore") (v "1.0.0") (d (list (d (n "agreed") (r "^1.0.0") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync"))) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.5") (d #t) (k 0)))) (h "0895zd0mpccjy55vgjg4izxks0y1qj25hmydwd5lmy7vndc0a1v8") (f (quote (("docinclude"))))))
+
+(define-public crate-agreed-memstore-1.1.0 (c (n "agreed-memstore") (v "1.1.0") (d (list (d (n "agreed") (r "^1.1.0") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync"))) (k 0)) (d (n "tracing") (r "^0.1.26") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2.5") (d #t) (k 0)))) (h "1vb4pl36zjqyhxw7mhh26s4mv9jbds41w3wddbnfqzz6gry85y62") (f (quote (("docinclude"))))))
+

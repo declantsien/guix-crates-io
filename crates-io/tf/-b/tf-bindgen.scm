@@ -1,0 +1,4 @@
+(define-module (crates-io tf -b tf-bindgen) #:use-module (crates-io))
+
+(define-public crate-tf-bindgen-0.1.0 (c (n "tf-bindgen") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "semver") (r "^1.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tf-bindgen-cli") (r "^0.1.0") (d #t) (k 0)) (d (n "tf-bindgen-codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "tf-bindgen-core") (r "^0.1.0") (d #t) (k 0)) (d (n "tf-bindgen-schema") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)))) (h "1sxgrzk9bnrz6m9b5dfma81dmr4qgl3mr7cll7g1q18n484bq5gx")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io st ar stardetect) #:use-module (crates-io))
+
+(define-public crate-stardetect-0.1.0 (c (n "stardetect") (v "0.1.0") (d (list (d (n "geo") (r "^0.28.0") (d #t) (k 0)) (d (n "image") (r "^0.25.0") (d #t) (k 0)) (d (n "image-dwt") (r "^0.2.0") (d #t) (k 0)) (d (n "imagepipe") (r "^0.5") (d #t) (k 0)) (d (n "imageproc") (r "^0.24.0") (d #t) (k 0)) (d (n "rawloader") (r "^0.37") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "1pp89yab62az1npwl9gkx71hgq5ip2mfdgx9ka3r7agisdhiag13")))
+
+(define-public crate-stardetect-0.2.0 (c (n "stardetect") (v "0.2.0") (d (list (d (n "geo") (r "^0.28.0") (d #t) (k 0)) (d (n "image") (r "^0.25.0") (d #t) (k 0)) (d (n "image-dwt") (r "^0.2.0") (d #t) (k 0)) (d (n "imagepipe") (r "^0.5") (d #t) (k 0)) (d (n "imageproc") (r "^0.24.0") (d #t) (k 0)) (d (n "rawloader") (r "^0.37") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "02b3qmx2r6d42y0vf9sdr3i3wsb5s725111d35jvdr0alj7x77p4")))
+
+(define-public crate-stardetect-0.2.1 (c (n "stardetect") (v "0.2.1") (d (list (d (n "geo") (r "^0.28.0") (d #t) (k 0)) (d (n "image") (r "^0.25.0") (d #t) (k 0)) (d (n "image-dwt") (r "^0.3.0") (d #t) (k 0)) (d (n "imagepipe") (r "^0.5") (d #t) (k 0)) (d (n "imageproc") (r "^0.24.0") (d #t) (k 0)) (d (n "rawloader") (r "^0.37") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "187idp9md126417yv27hqyx4nzsc234xbwqam8v1ww991k8mxqws")))
+
+(define-public crate-stardetect-0.3.0 (c (n "stardetect") (v "0.3.0") (d (list (d (n "geo") (r "^0.28.0") (d #t) (k 0)) (d (n "image") (r "^0.25.0") (d #t) (k 0)) (d (n "image-dwt") (r "^0.3.2") (d #t) (k 0)) (d (n "imagepipe") (r "^0.5") (d #t) (k 0)) (d (n "imageproc") (r "^0.24.0") (d #t) (k 0)) (d (n "rawloader") (r "^0.37") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "07c8czas0m3if2hawpvifg2bk4sd034vkf2rbg8pq7q6mwxwlnar")))
+

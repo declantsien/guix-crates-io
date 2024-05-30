@@ -1,0 +1,10 @@
+(define-module (crates-io lw k_ lwk_bindings) #:use-module (crates-io))
+
+(define-public crate-lwk_bindings-0.1.0 (c (n "lwk_bindings") (v "0.1.0") (h "1qylzn3kwipjiz0qmc7lfn53zp01l6p38rcb3qqm0q2c2xmnhfab")))
+
+(define-public crate-lwk_bindings-0.2.0 (c (n "lwk_bindings") (v "0.2.0") (d (list (d (n "elements") (r "^0.24.0") (d #t) (k 0)) (d (n "lwk_common") (r "^0.3.0") (d #t) (k 0)) (d (n "lwk_signer") (r "^0.3.0") (d #t) (k 0)) (d (n "lwk_test_util") (r "^0.2.0") (d #t) (k 0)) (d (n "lwk_wollet") (r "^0.3.0") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "uniffi") (r "^0.26.1") (f (quote ("bindgen-tests"))) (d #t) (k 0)) (d (n "uniffi") (r "^0.26.1") (f (quote ("build"))) (d #t) (k 1)))) (h "1mz3z487hbks524knqyjdmvrcgngwpj9k7967650m7fqrk9gvikq") (f (quote (("foreign_bindings"))))))
+
+(define-public crate-lwk_bindings-0.3.0 (c (n "lwk_bindings") (v "0.3.0") (d (list (d (n "elements") (r "^0.24.0") (d #t) (k 0)) (d (n "lwk_common") (r "^0.4.0") (d #t) (k 0)) (d (n "lwk_signer") (r "^0.4.0") (d #t) (k 0)) (d (n "lwk_test_util") (r "^0.3.0") (d #t) (k 0)) (d (n "lwk_wollet") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "uniffi") (r "^0.26.1") (f (quote ("bindgen-tests"))) (d #t) (k 0)) (d (n "uniffi") (r "^0.26.1") (f (quote ("build"))) (d #t) (k 1)))) (h "0rldkw1fp1bijch2r1g5x149wdcp7dpaswgvhj4phcn0i5gjab3b") (f (quote (("foreign_bindings"))))))
+
+(define-public crate-lwk_bindings-0.4.0 (c (n "lwk_bindings") (v "0.4.0") (d (list (d (n "elements") (r "^0.24.0") (d #t) (k 0)) (d (n "lwk_common") (r "^0.5") (d #t) (k 0)) (d (n "lwk_signer") (r "^0.5") (d #t) (k 0)) (d (n "lwk_test_util") (r "^0.4") (d #t) (k 0)) (d (n "lwk_wollet") (r "^0.5") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "uniffi") (r "^0.26.1") (f (quote ("bindgen-tests"))) (d #t) (k 0)) (d (n "uniffi") (r "^0.26.1") (f (quote ("build"))) (d #t) (k 1)))) (h "1wzarwvrjqmalcj893dizigvrn1864zfhb4jzi1d2ky10xm3hyfw") (f (quote (("foreign_bindings"))))))
+

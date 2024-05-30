@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-wit-bindgen-host-wasmer-rust) #:use-module (crates-io))
+
+(define-public crate-linera-wit-bindgen-host-wasmer-rust-0.2.0 (c (n "linera-wit-bindgen-host-wasmer-rust") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing-lib") (r "^0.1.26") (o #t) (d #t) (k 0) (p "tracing")) (d (n "wasmer") (r "^3.0.0-rc.2") (d #t) (k 0)) (d (n "wit-bindgen-host-wasmer-rust-macro") (r "^0.2.0") (d #t) (k 0) (p "linera-wit-bindgen-host-wasmer-rust-macro")))) (h "0bxyflhvyg7pqbmynmp3bxyj1rs9vczqvp8ym9dfrf7h0wdf86mj") (f (quote (("tracing" "tracing-lib" "wit-bindgen-host-wasmer-rust-macro/tracing") ("async" "async-trait" "wit-bindgen-host-wasmer-rust-macro/async"))))))
+

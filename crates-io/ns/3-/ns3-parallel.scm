@@ -1,0 +1,12 @@
+(define-module (crates-io ns #{3-}# ns3-parallel) #:use-module (crates-io))
+
+(define-public crate-ns3-parallel-0.1.0 (c (n "ns3-parallel") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "pbr") (r "^1.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "0xxh74rzv78z90y8xzh75zsramx7rvdg4xnci42lgzx9iwgcjhzq")))
+
+(define-public crate-ns3-parallel-0.2.0 (c (n "ns3-parallel") (v "0.2.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "pbr") (r "^1.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1fyf7m55nlqg204rwldhy3dv7cas9dwdkbggzxky2s9yz6w3iyb5")))
+
+(define-public crate-ns3-parallel-0.2.1 (c (n "ns3-parallel") (v "0.2.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "pbr") (r "^1.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "12sqsdjbf5gd67cdym68abcdjyamrcyfyvpfi69190i7d5hdj3mh")))
+
+(define-public crate-ns3-parallel-0.2.2 (c (n "ns3-parallel") (v "0.2.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "pbr") (r "^1.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1w17y2x3bv6z6gncxzyyi9b051lz8svywhp54b4crxr3yhb4syhc")))
+
+(define-public crate-ns3-parallel-0.2.3 (c (n "ns3-parallel") (v "0.2.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "pbr") (r "^1.0.4") (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "1h0wrmfdwk6f5f4qcg5ia6qx3h8g56dx3nwnkbr9d24sai9wa437")))
+

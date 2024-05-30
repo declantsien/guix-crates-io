@@ -1,0 +1,4 @@
+(define-module (crates-io to we tower-cgi) #:use-module (crates-io))
+
+(define-public crate-tower-cgi-0.0.1 (c (n "tower-cgi") (v "0.0.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "httparse") (r "^1.5") (d #t) (k 0)) (d (n "hyper") (r "^0.14.16") (f (quote ("http1" "http2" "stream"))) (d #t) (k 0)) (d (n "indoc") (r "^1.0.3") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.16.1") (f (quote ("io-std" "macros" "process" "rt"))) (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("io-std" "macros" "process" "rt" "test-util"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.6.9") (f (quote ("io"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.11") (f (quote ("util"))) (d #t) (k 0)))) (h "0mzh3jxc1nmyc6z2rlamwnfsr6lpn3rdfkj1yabgw2dbxlkzcncm")))
+

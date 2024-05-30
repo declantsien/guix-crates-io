@@ -1,0 +1,4 @@
+(define-module (crates-io ad ns adns-proto) #:use-module (crates-io))
+
+(define-public crate-adns-proto-0.1.0 (c (n "adns-proto") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "constant_time_eq") (r "^0.2.5") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "hmac") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "043hnznwpb853j81mp4s3hrv3a96rcd57wwnqp8qpwlf77gyggq4") (f (quote (("tsig" "sha2" "sha1" "hmac" "constant_time_eq" "md-5") ("default" "serde" "tsig")))) (s 2) (e (quote (("serde" "dep:serde" "smallvec/serde"))))))
+

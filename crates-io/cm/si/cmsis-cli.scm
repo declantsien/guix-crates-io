@@ -1,0 +1,16 @@
+(define-module (crates-io cm si cmsis-cli) #:use-module (crates-io))
+
+(define-public crate-cmsis-cli-0.4.0 (c (n "cmsis-cli") (v "0.4.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.8.0") (d #t) (k 0)))) (h "0wbv9fk842gmlv3gw10ym3irk20ylim932v4i73zsgjs2jvfbfks")))
+
+(define-public crate-cmsis-cli-0.5.0 (c (n "cmsis-cli") (v "0.5.0") (d (list (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.5.0") (d #t) (k 0)) (d (n "directories") (r "^4") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)))) (h "1b688wy23d1zxhp36n8wzb0b6dx9aii4hjg28lfnpv9zl59cjc3p")))
+
+(define-public crate-cmsis-cli-0.6.0 (c (n "cmsis-cli") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.6.0") (d #t) (k 0)) (d (n "directories") (r "^4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)))) (h "17dgfz45xvzdchs2bgmx4s4vqs3p7icsnnqxz4h30p6qsiwlms80")))
+
+(define-public crate-cmsis-cli-0.6.1 (c (n "cmsis-cli") (v "0.6.1") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.6.1") (d #t) (k 0)) (d (n "directories") (r "^4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (f (quote ("termcolor"))) (k 0)))) (h "1acx0rl4iygw72h94x6i82spmld12pg81p0lnfzq82xn4kvlwfpw")))
+
+(define-public crate-cmsis-cli-0.6.2 (c (n "cmsis-cli") (v "0.6.2") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.6.2") (d #t) (k 0)) (d (n "directories") (r "^4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (f (quote ("termcolor"))) (k 0)))) (h "0775yvlrkj9cklmhdwbsvyfxd5r40jkyvfrn0ajwl7zbp7jjl944")))
+
+(define-public crate-cmsis-cli-0.6.3 (c (n "cmsis-cli") (v "0.6.3") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.6.2") (d #t) (k 0)) (d (n "directories") (r "^4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (f (quote ("termcolor"))) (k 0)))) (h "1zv5g4zplvrzb9ps0hi9b1hsni03flb60bfjbg7kd8ds877963zg")))
+
+(define-public crate-cmsis-cli-0.7.0 (c (n "cmsis-cli") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "cmsis-pack") (r "^0.7.0") (d #t) (k 0)) (d (n "directories") (r "^4") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "pbr") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (f (quote ("termcolor"))) (k 0)))) (h "1vx2hazn49l5ycy7k45zi06z53rq08lz2sbfjfl1i0k659m7a6dm")))
+

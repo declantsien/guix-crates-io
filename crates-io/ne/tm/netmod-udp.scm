@@ -1,0 +1,6 @@
+(define-module (crates-io ne tm netmod-udp) #:use-module (crates-io))
+
+(define-public crate-netmod-udp-0.1.0 (c (n "netmod-udp") (v "0.1.0") (d (list (d (n "async-std") (r "^1.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "identity") (r "^0.6") (d #t) (k 0) (p "ratman-identity")) (d (n "netmod") (r "^0.4") (d #t) (k 0) (p "ratman-netmod")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "task-notify") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)))) (h "1ss17qdxg6qhdzqiwvn80bfvjbzfcdfqcq3l28iclgnp86nigxxw")))
+
+(define-public crate-netmod-udp-0.2.0 (c (n "netmod-udp") (v "0.2.0") (d (list (d (n "async-std") (r "^1.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "identity") (r "^0.6") (d #t) (k 0) (p "ratman-identity")) (d (n "netmod") (r "^0.5.0") (d #t) (k 0) (p "ratman-netmod")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "task-notify") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)))) (h "1zcg32pdjjpvj0f23z2wd9gxf93h893m418i9h6ggwa7lsnj0s52")))
+

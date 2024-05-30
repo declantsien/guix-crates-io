@@ -1,0 +1,8 @@
+(define-module (crates-io tr ac tracing-dipstick) #:use-module (crates-io))
+
+(define-public crate-tracing-dipstick-0.1.0 (c (n "tracing-dipstick") (v "0.1.0") (d (list (d (n "dipstick") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log-always"))) (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (f (quote ("registry"))) (k 0)))) (h "0nl340yjvjpr012mj55z4zkhp7cgb3vvwwq2zwnwl2inlvjaspz4")))
+
+(define-public crate-tracing-dipstick-0.1.1 (c (n "tracing-dipstick") (v "0.1.1") (d (list (d (n "dipstick") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log-always"))) (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (f (quote ("registry"))) (k 0)))) (h "1n55imljzidi5509zihxdc10qdcmmczf3pqlcax96nf75y34lgn3")))
+
+(define-public crate-tracing-dipstick-0.2.0 (c (n "tracing-dipstick") (v "0.2.0") (d (list (d (n "dipstick") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log-always"))) (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("registry"))) (k 0)))) (h "1adjw9baxjilhvfab4w7svwrlxr90b14acbvzhvwg2zfyp349g58")))
+

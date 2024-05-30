@@ -1,0 +1,4 @@
+(define-module (crates-io uc si ucsi) #:use-module (crates-io))
+
+(define-public crate-ucsi-0.1.0 (c (n "ucsi") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "const_soft_float") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "gcd") (r "^2.3.0") (d #t) (k 0)))) (h "1bmbrqdr0zlxc5fsyss094y304lxmw0xy44gbrr8y3dqp4161vwv") (f (quote (("util_macros") ("typedef_macros") ("no_std") ("no_alloc") ("nightly_full" "infer_cast" "nightly") ("nightly") ("internal_utils" "fraction") ("internal_macros" "typedef_macros" "util_macros") ("infer_cast") ("full" "all_types" "internal_macros" "internal_utils" "const_soft_float" "no_std") ("fraction") ("exported_types") ("default" "exported_types" "alias_export" "no_std") ("associated_types") ("all_types" "exported_types" "associated_types") ("alias_mod") ("alias_hidden") ("alias_export") ("alias_bypass"))))))
+

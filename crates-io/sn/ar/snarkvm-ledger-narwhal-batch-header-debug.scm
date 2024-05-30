@@ -1,0 +1,4 @@
+(define-module (crates-io sn ar snarkvm-ledger-narwhal-batch-header-debug) #:use-module (crates-io))
+
+(define-public crate-snarkvm-ledger-narwhal-batch-header-debug-0.16.18 (c (n "snarkvm-ledger-narwhal-batch-header-debug") (v "0.16.18") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 2)) (d (n "console") (r "=0.16.15") (d #t) (k 0) (p "snarkvm-console")) (d (n "indexmap") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "narwhal-transmission-id") (r "=0.16.15") (d #t) (k 0) (p "snarkvm-ledger-narwhal-transmission-id")) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1r5b16f4lxc4wa4icxg4wrnhcbkpmx70c3i50wp46frdaid6qww7") (f (quote (("wasm" "console/wasm") ("test-helpers" "narwhal-transmission-id/test-helpers" "time") ("serial" "console/serial") ("default"))))))
+

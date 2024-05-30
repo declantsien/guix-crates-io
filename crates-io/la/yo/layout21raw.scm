@@ -1,0 +1,4 @@
+(define-module (crates-io la yo layout21raw) #:use-module (crates-io))
+
+(define-public crate-layout21raw-3.0.0-pre.2 (c (n "layout21raw") (v "3.0.0-pre.2") (d (list (d (n "enum_dispatch") (r "^0.3.7") (d #t) (k 0)) (d (n "gds21") (r "^3.0.0-pre.2") (o #t) (d #t) (k 0)) (d (n "layout21protos") (r "^3.0.0-pre.2") (o #t) (d #t) (k 0)) (d (n "layout21utils") (r "^3.0.0-pre.2") (d #t) (k 0)) (d (n "lef21") (r "^3.0.0-pre.2") (o #t) (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.88") (d #t) (k 0)) (d (n "slotmap") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0dvzham7sq72kdk3xvmlh1lsbqllm50s2a22awabg4vx18v0mna6") (f (quote (("proto" "layout21protos") ("lef" "lef21") ("gds" "gds21") ("default" "gds" "lef" "proto"))))))
+

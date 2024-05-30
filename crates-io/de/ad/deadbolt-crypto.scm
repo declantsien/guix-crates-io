@@ -1,0 +1,6 @@
+(define-module (crates-io de ad deadbolt-crypto) #:use-module (crates-io))
+
+(define-public crate-deadbolt-crypto-0.1.0 (c (n "deadbolt-crypto") (v "0.1.0") (d (list (d (n "aes-gcm") (r "^0.10.1") (d #t) (k 0)) (d (n "argon2") (r "^0.5.0") (d #t) (k 0)) (d (n "chacha20") (r "^0.9.1") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hkdf") (r "^0.12.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "0ilr7z1vfp0n6jr1ma1qyn91z82l588pqrz28x09vk75pvlk88gl")))
+
+(define-public crate-deadbolt-crypto-0.1.1 (c (n "deadbolt-crypto") (v "0.1.1") (d (list (d (n "aes-gcm") (r "^0.10.1") (d #t) (k 0)) (d (n "argon2") (r "^0.5.0") (d #t) (k 0)) (d (n "chacha20") (r "^0.9.1") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hkdf") (r "^0.12.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "0fq3m4vnqjkrjw0hmzm9lnr79z2aspcgnsmkpm2f8dnwgm0msh0w")))
+

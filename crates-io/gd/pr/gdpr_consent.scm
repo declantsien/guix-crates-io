@@ -1,0 +1,12 @@
+(define-module (crates-io gd pr gdpr_consent) #:use-module (crates-io))
+
+(define-public crate-gdpr_consent-0.1.0 (c (n "gdpr_consent") (v "0.1.0") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bit-set") (r "^0.5") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "bitstream-io") (r "^0.6") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)))) (h "01gx0mi2p14caz3gk0vx55zd552wp43mznqlvyxnqz4akib6pwwl")))
+
+(define-public crate-gdpr_consent-0.1.1 (c (n "gdpr_consent") (v "0.1.1") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bit-set") (r "^0.5") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "bitstream-io") (r "^0.6") (d #t) (k 0)))) (h "1yq6h0q6vnn273z5ah3ivvllxlggan57m11lchpwvkxndzj7nz6l")))
+
+(define-public crate-gdpr_consent-0.2.0 (c (n "gdpr_consent") (v "0.2.0") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bit-set") (r "^0.5") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "bitstream-io") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0708mb94nk7qhkk2hcnzz6bimwvs50zrp4gnwmrlkw4562yi22wb")))
+
+(define-public crate-gdpr_consent-0.3.0 (c (n "gdpr_consent") (v "0.3.0") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "bit-set") (r "^0.5") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "bitstream-io") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "19455aiddq23xykvv6f0phfxjak9s01jz7mi728sw76k182ba49p")))
+
+(define-public crate-gdpr_consent-0.4.0 (c (n "gdpr_consent") (v "0.4.0") (d (list (d (n "base64") (r "^0.9.2") (d #t) (k 0)) (d (n "bit-set") (r "^0.5.0") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5.0") (d #t) (k 0)) (d (n "bitstream-io") (r "^0.8.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.8.8") (d #t) (k 2)) (d (n "serde") (r "^1.0.78") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.78") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)))) (h "064hlgyqlrnppj8lym9gwmil0rjngyid2vszmkrayksk8cyny6r4")))
+

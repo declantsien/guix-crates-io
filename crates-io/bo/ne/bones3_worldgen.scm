@@ -1,0 +1,6 @@
+(define-module (crates-io bo ne bones3_worldgen) #:use-module (crates-io))
+
+(define-public crate-bones3_worldgen-0.3.0 (c (n "bones3_worldgen") (v "0.3.0") (d (list (d (n "bevy") (r "^0.10.1") (k 0)) (d (n "bones3_core") (r "^0.3.0") (d #t) (k 0)) (d (n "bones3_remesh") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "ordered-float") (r "^3.7.0") (d #t) (k 0)) (d (n "priority-queue") (r "^1.3.1") (d #t) (k 0)) (d (n "sort_by_derive") (r "^0.1.10") (d #t) (k 0)))) (h "0n1ial7kawdv559qg4yb6jhyczh7qw49rsq5wh7dzn7fh2hdj0sz") (f (quote (("meshing" "bones3_remesh") ("default"))))))
+
+(define-public crate-bones3_worldgen-0.4.0 (c (n "bones3_worldgen") (v "0.4.0") (d (list (d (n "bevy") (r "^0.11.0") (k 0)) (d (n "bones3_core") (r "^0.4.0") (d #t) (k 0)) (d (n "bones3_remesh") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "ordered-float") (r "^3.7.0") (d #t) (k 0)) (d (n "priority-queue") (r "^1.3.1") (d #t) (k 0)) (d (n "sort_by_derive") (r "^0.1.10") (d #t) (k 0)))) (h "09nnf7w8d6fnmn0vcd61difh7dci19zwvdc5j9fsw08yji4a8g5j") (f (quote (("meshing" "bones3_remesh") ("default"))))))
+

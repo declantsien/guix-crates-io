@@ -1,0 +1,8 @@
+(define-module (crates-io ne tg netgauze-serde-macros) #:use-module (crates-io))
+
+(define-public crate-netgauze-serde-macros-0.1.0 (c (n "netgauze-serde-macros") (v "0.1.0") (d (list (d (n "netgauze-locate") (r "^0.1.0") (d #t) (k 2)) (d (n "netgauze-parse-utils") (r "^0.1.0") (d #t) (k 2)) (d (n "nom") (r "^7.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1hrq99fffcr4fnrz47bglz8h8y7r9026c4flcvqsb2717q0bslid")))
+
+(define-public crate-netgauze-serde-macros-0.2.0 (c (n "netgauze-serde-macros") (v "0.2.0") (d (list (d (n "netgauze-locate") (r "^0.2.0") (d #t) (k 2)) (d (n "netgauze-parse-utils") (r "^0.2.0") (d #t) (k 2)) (d (n "nom") (r "^7.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "07a5zwa3ywbadvd9cif3y9iv9mss0gqr0glhnd7nkgyq0nv1awcn")))
+
+(define-public crate-netgauze-serde-macros-0.3.0 (c (n "netgauze-serde-macros") (v "0.3.0") (d (list (d (n "netgauze-locate") (r "^0.3.0") (d #t) (k 2)) (d (n "netgauze-parse-utils") (r "^0.3.0") (d #t) (k 2)) (d (n "nom") (r "^7.1") (f (quote ("alloc"))) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "17y0jbf7ar5fdw87lm4c2km7nqcjb78k8n119qnk6riyz7mn417j")))
+

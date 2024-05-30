@@ -1,0 +1,8 @@
+(define-module (crates-io wa mp wamp-core) #:use-module (crates-io))
+
+(define-public crate-wamp-core-0.1.0 (c (n "wamp-core") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "tungstenite") (r "^0.20.1") (f (quote ("native-tls"))) (d #t) (k 0)))) (h "1bq7qf0rda1ifbg1l009wzyk85bhd1ldpk05bgdwnpsd3brckwsd")))
+
+(define-public crate-wamp-core-0.1.1 (c (n "wamp-core") (v "0.1.1") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "tungstenite") (r "^0.20.1") (f (quote ("native-tls"))) (d #t) (k 0)))) (h "0mr6dyc9afvyrqfkrpfmh7qj4xzls96ibf2431qhzfisc4mfvzl8")))
+
+(define-public crate-wamp-core-0.1.2 (c (n "wamp-core") (v "0.1.2") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "tungstenite") (r "^0.20.1") (f (quote ("native-tls"))) (d #t) (k 0)))) (h "07cpycphb4aa1l689123xykjw468l8j1axfacp3awbkhyl01dsql")))
+

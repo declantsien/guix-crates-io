@@ -1,0 +1,34 @@
+(define-module (crates-io dy pd dypdl-heuristic-search) #:use-module (crates-io))
+
+(define-public crate-dypdl-heuristic-search-0.1.0 (c (n "dypdl-heuristic-search") (v "0.1.0") (d (list (d (n "dypdl") (r "^0.1.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "05pd61hcgavb7zjsa0mlj992brl9asd020r762c8kbmz4asyan4s")))
+
+(define-public crate-dypdl-heuristic-search-0.2.0 (c (n "dypdl-heuristic-search") (v "0.2.0") (d (list (d (n "dypdl") (r "^0.2.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "01yimf53i57yzv2865pl76jqbk16ypfzjkrkrm6zkgk4il8iam8y")))
+
+(define-public crate-dypdl-heuristic-search-0.3.0 (c (n "dypdl-heuristic-search") (v "0.3.0") (d (list (d (n "dypdl") (r "^0.3") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "0sdvb2h90vwrwfn7a944b76dbgrpymqwkjlbd3jfg4l9q20ava1a")))
+
+(define-public crate-dypdl-heuristic-search-0.3.1 (c (n "dypdl-heuristic-search") (v "0.3.1") (d (list (d (n "dypdl") (r "^0.3.1") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "1lijg3fhvma7qwsvfsw1gbg6j9xy1p4lv82sxydkq94ws6c1khjq")))
+
+(define-public crate-dypdl-heuristic-search-0.3.2 (c (n "dypdl-heuristic-search") (v "0.3.2") (d (list (d (n "dypdl") (r "^0.3.2") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "1ngfpm0p7kjyxbvjmpg8fy9bn9synhy4c6yb9hxsisms980gayzv")))
+
+(define-public crate-dypdl-heuristic-search-0.3.3 (c (n "dypdl-heuristic-search") (v "0.3.3") (d (list (d (n "dypdl") (r "^0.3.3") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "1vlr87055i6vcx7jk0l269dz9pin4kd0qlg92lfkc5kny7brk4hs")))
+
+(define-public crate-dypdl-heuristic-search-0.3.4 (c (n "dypdl-heuristic-search") (v "0.3.4") (d (list (d (n "dypdl") (r "^0.3.4") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "0kg3d6fhvgnxc0lm2cqi2pzpd0bd5wsmpizqabka6ijg8vhrhzfv")))
+
+(define-public crate-dypdl-heuristic-search-0.4.0 (c (n "dypdl-heuristic-search") (v "0.4.0") (d (list (d (n "dypdl") (r "^0.4.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "0xglw0g8d426j15656zl8vkvrg03l4x9lnm58shd2ipvvni4qs8k") (r "1.64")))
+
+(define-public crate-dypdl-heuristic-search-0.4.1 (c (n "dypdl-heuristic-search") (v "0.4.1") (d (list (d (n "dypdl") (r "^0.4.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "0npqlf39v4siglj88100qvlha89ld64iyr45c8krqqnbm3dbwpbz") (r "1.64")))
+
+(define-public crate-dypdl-heuristic-search-0.5.0 (c (n "dypdl-heuristic-search") (v "0.5.0") (d (list (d (n "dypdl") (r "^0.5.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "0nkqik6gjjwxjmr4aqz70y9np5nlrywvdy31s5ffc7swnhzvyn3k") (r "1.64")))
+
+(define-public crate-dypdl-heuristic-search-0.6.0 (c (n "dypdl-heuristic-search") (v "0.6.0") (d (list (d (n "bus") (r "^2.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^5.5") (d #t) (k 0)) (d (n "dypdl") (r "^0.6.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "1gw4fnkk4b99k4c8h0iv7v8x7sms3q83929dd001yinflsa65b0a") (r "1.65")))
+
+(define-public crate-dypdl-heuristic-search-0.6.1 (c (n "dypdl-heuristic-search") (v "0.6.1") (d (list (d (n "bus") (r "^2.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^5.5") (d #t) (k 0)) (d (n "dypdl") (r "^0.6.1") (d #t) (k 0)) (d (n "ordered-float") (r "^3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "0lbcq0iqwrzbp6n80dgr32hk777i99z51rfxgr1v31d0nnpx99md") (r "1.65")))
+
+(define-public crate-dypdl-heuristic-search-0.7.0 (c (n "dypdl-heuristic-search") (v "0.7.0") (d (list (d (n "bus") (r "^2.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^5.5") (d #t) (k 0)) (d (n "dypdl") (r "^0.7.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "13cmmmsj0yflwba3vhvl4z3yz4nzg3dvknay6nhpj2awdsd23may") (r "1.65")))
+
+(define-public crate-dypdl-heuristic-search-0.7.1 (c (n "dypdl-heuristic-search") (v "0.7.1") (d (list (d (n "bus") (r "^2.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^5.5") (d #t) (k 0)) (d (n "dypdl") (r "^0.7.1") (d #t) (k 0)) (d (n "ordered-float") (r "^3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "1mszw5nb7wrcy94x4a1m2z91i5jqmdi6cnl0xlhschlfik5c97v1") (r "1.65")))
+
+(define-public crate-dypdl-heuristic-search-0.7.2 (c (n "dypdl-heuristic-search") (v "0.7.2") (d (list (d (n "bus") (r "^2.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^5.5") (d #t) (k 0)) (d (n "dypdl") (r "^0.7.2") (d #t) (k 0)) (d (n "ordered-float") (r "^3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "02s5lpw6pcbwxdxpwpm2baj5ddgrycxfq39r5p5i607qw2a0p6p6") (r "1.65")))
+
+(define-public crate-dypdl-heuristic-search-0.7.3 (c (n "dypdl-heuristic-search") (v "0.7.3") (d (list (d (n "bus") (r "^2.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^5.5") (d #t) (k 0)) (d (n "dypdl") (r "^0.7.3") (d #t) (k 0)) (d (n "ordered-float") (r "^3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)))) (h "12fqz0d8n7qk7qz5flmfbqg4xk3h789dpdk7gs1s8r4vzzyyyn13") (r "1.65")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io dv ac dvach) #:use-module (crates-io))
+
+(define-public crate-dvach-0.1.0 (c (n "dvach") (v "0.1.0") (d (list (d (n "colored") (r "^1.6.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.5") (d #t) (k 0)) (d (n "scraper") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 0)) (d (n "structopt") (r "^0.2.14") (d #t) (k 0)) (d (n "textwrap") (r "^0.11.0") (d #t) (k 0)))) (h "03c5jbwdz485yy6nzc73hpism34bgzc2cgc661r50nbxzj31jrm3")))
+
+(define-public crate-dvach-0.1.1 (c (n "dvach") (v "0.1.1") (d (list (d (n "colored") (r "^1.9.0") (d #t) (k 0)) (d (n "cursive") (r "^0.13.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.22") (d #t) (k 0)) (d (n "scraper") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)) (d (n "textwrap") (r "^0.11.0") (d #t) (k 0)))) (h "10mh0cghr6yw0lwpknpipfc2g4viw33apa49qyavr2s5cbz02phy")))
+

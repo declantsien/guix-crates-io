@@ -1,0 +1,20 @@
+(define-module (crates-io py -m py-marshal) #:use-module (crates-io))
+
+(define-public crate-py-marshal-0.1.0 (c (n "py-marshal") (v "0.1.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "0g8cy371kg1yfxj9s3n4fdsi6rdhjd2r34dmywb3i8xlbrwgnmkx")))
+
+(define-public crate-py-marshal-0.2.0 (c (n "py-marshal") (v "0.2.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "07nbsrykhhcsjhb03l29kscb4jwjpl89xfp3y6xrsvdnbqgva656")))
+
+(define-public crate-py-marshal-0.3.0 (c (n "py-marshal") (v "0.3.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "0zvg93w0dmlzvnn3wzq8sgnj3d6m9acf55d4ryziy7fwlsqm883c")))
+
+(define-public crate-py-marshal-0.3.1 (c (n "py-marshal") (v "0.3.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "18fk94gdsmhb9lil8kl4vx55vjb9z3yknylb9jbnlq6lr8cg9qiw")))
+
+(define-public crate-py-marshal-0.3.2 (c (n "py-marshal") (v "0.3.2") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "0abb1s1gn7fbzxvf7442gcjbimk6zq8wy2c246j2nkmdlkj15vz2")))
+
+(define-public crate-py-marshal-0.3.3 (c (n "py-marshal") (v "0.3.3") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "owning_ref") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1pkjbq6rn4l0s8x3hgjwiwrj0hn2rq97696yppqvr2yr9zl3l2ai")))
+
+(define-public crate-py-marshal-0.4.0 (c (n "py-marshal") (v "0.4.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "owning_ref") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1ckpw9pg14bbjkwk605n9n5nwdq1qbqhmhq1ad74kz4hg1gkiap3")))
+
+(define-public crate-py-marshal-0.4.1 (c (n "py-marshal") (v "0.4.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "owning_ref") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0rdrzq4d3ncqnv9q8van279bak3ayxlsdpacjlv45kh8par3s66k")))
+
+(define-public crate-py-marshal-0.4.2 (c (n "py-marshal") (v "0.4.2") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.2") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^3.0") (d #t) (k 0)) (d (n "owning_ref") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0k7zxngql7sz3ikfccz7iaarpgd9467rgvrp68c85058cwgjyxhn")))
+

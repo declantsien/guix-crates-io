@@ -1,0 +1,4 @@
+(define-module (crates-io pr ic price-adapter-raw) #:use-module (crates-io))
+
+(define-public crate-price-adapter-raw-0.1.0 (c (n "price-adapter-raw") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.29") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.20.1") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1yl6lgswjgrdc21npyayimavp0dhszvm9w7k21y6kqx1ksfklij6")))
+

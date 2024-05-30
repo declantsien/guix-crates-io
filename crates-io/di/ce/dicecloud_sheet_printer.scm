@@ -1,0 +1,4 @@
+(define-module (crates-io di ce dicecloud_sheet_printer) #:use-module (crates-io))
+
+(define-public crate-dicecloud_sheet_printer-0.1.0 (c (n "dicecloud_sheet_printer") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "genpdf") (r "^0.2.0") (f (quote ("images" "hyphenation"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "owned_chars") (r "^0.3.2") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (f (quote ("hyphenation"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "157pysykyc6m2vd8ka3jgd0ascrczwkgim0hsrslvqhrp4ii580g")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ho wu howudoin) #:use-module (crates-io))
+
+(define-public crate-howudoin-0.1.0 (c (n "howudoin") (v "0.1.0") (d (list (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "0a7bk6xqlwdvcivan2cxr7y4z3gz8pgx6mvzs9kwl2ljnv2crnrq") (s 2) (e (quote (("term-line" "dep:indicatif") ("serde" "dep:serde") ("json-printer" "serde" "dep:serde_json"))))))
+
+(define-public crate-howudoin-0.1.1 (c (n "howudoin") (v "0.1.1") (d (list (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "05ds9mwxhv6vdg10jy8s6wmp5fcx6izz0q3jhb0z7wa65qy2p8m5") (s 2) (e (quote (("term-line" "dep:indicatif") ("serde" "dep:serde") ("json-printer" "serde" "dep:serde_json"))))))
+
+(define-public crate-howudoin-0.1.2 (c (n "howudoin") (v "0.1.2") (d (list (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "1cipyj8g7w1q5lkdshpcdp3yarqd8s9mwid0b7p5jyk11wl5jh7k") (s 2) (e (quote (("term-line" "dep:indicatif") ("serde" "dep:serde") ("json-printer" "serde" "dep:serde_json"))))))
+

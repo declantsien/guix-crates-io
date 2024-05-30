@@ -1,0 +1,10 @@
+(define-module (crates-io li bz libzettels) #:use-module (crates-io))
+
+(define-public crate-libzettels-0.3.0 (c (n "libzettels") (v "0.3.0") (d (list (d (n "gitignore") (r "^1.0.6") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "regex") (r "^1.3.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "08nyi9pmflkg3ws8q6mkjps2zzn55hldrdwkgjv1b5h16wdwbxzy")))
+
+(define-public crate-libzettels-0.3.1 (c (n "libzettels") (v "0.3.1") (d (list (d (n "gitignore") (r "^1.0.6") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "regex") (r "^1.3.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.11") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "09285nrclaccn5zdy41w7d5nsrpf2i1l7hcvg52n385m88byi282")))
+
+(define-public crate-libzettels-0.4.0 (c (n "libzettels") (v "0.4.0") (d (list (d (n "gitignore") (r "^1.0.6") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.12") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "1f6hg57sg3wjba50v3fja7pzssww0knchm3mf2gxczq0w008gnfn")))
+
+(define-public crate-libzettels-0.4.1 (c (n "libzettels") (v "0.4.1") (d (list (d (n "gitignore") (r "^1.0.7") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1ix266smaykwcb6qam8wa738s4nmvc52l609balj6xpyaczwigdr")))
+

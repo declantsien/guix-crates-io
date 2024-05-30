@@ -1,0 +1,8 @@
+(define-module (crates-io gi to giton) #:use-module (crates-io))
+
+(define-public crate-giton-0.0.1-beta.1 (c (n "giton") (v "0.0.1-beta.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "better-panic") (r "^0.3.0") (d #t) (k 0)) (d (n "cli") (r "^0.0.1-beta.1") (d #t) (k 0) (p "giton-cli")) (d (n "core") (r "^0.0.1-beta.1") (d #t) (k 0) (p "giton-core")) (d (n "human-panic") (r "^1.2.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)) (d (n "utils") (r "^0.0.1-beta.1") (d #t) (k 0) (p "giton-utils")))) (h "16z2s5cmyiwwnrc2bz3ssy9j4scijzjm4kidnjdhnc0ri9w5vq75")))
+
+(define-public crate-giton-0.0.1 (c (n "giton") (v "0.0.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "better-panic") (r "^0.3.0") (d #t) (k 0)) (d (n "cli") (r "^0.0.1") (d #t) (k 0) (p "giton-cli")) (d (n "core") (r "^0.0.1") (d #t) (k 0) (p "giton-core")) (d (n "human-panic") (r "^1.2.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)) (d (n "utils") (r "^0.0.1") (d #t) (k 0) (p "giton-utils")))) (h "0383c959b0rbbg6ykr0k7xm4rqnz98r230y1f2y1j4w87843mx30")))
+
+(define-public crate-giton-0.1.0 (c (n "giton") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "better-panic") (r "^0.3.0") (d #t) (k 0)) (d (n "cli") (r "^0.1.0") (d #t) (k 0) (p "giton-cli")) (d (n "core") (r "^0.1.0") (d #t) (k 0) (p "giton-core")) (d (n "human-panic") (r "^1.2.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "predicates") (r "^3.0.4") (d #t) (k 2)) (d (n "utils") (r "^0.1.0") (d #t) (k 0) (p "giton-utils")))) (h "12q3gjyid78p6n8f1p7magqinkmcp9vvzd2abm5v743haxinad28")))
+

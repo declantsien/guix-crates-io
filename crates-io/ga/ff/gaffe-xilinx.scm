@@ -1,0 +1,4 @@
+(define-module (crates-io ga ff gaffe-xilinx) #:use-module (crates-io))
+
+(define-public crate-gaffe-xilinx-0.1.0 (c (n "gaffe-xilinx") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.5.10") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "packed_struct") (r "^0.2") (d #t) (k 0)) (d (n "packed_struct_codegen") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "smart-default") (r "^0.2") (d #t) (k 0)) (d (n "structopt") (r "^0.2.8") (d #t) (k 0)) (d (n "strum") (r "^0.9") (d #t) (k 0)) (d (n "strum_macros") (r "^0.9") (d #t) (k 0)) (d (n "twoway") (r "^0.1") (d #t) (k 0)))) (h "1s8scrlaq6l3krvga094r7cllk7vx48jvspcdny7jrmip5swmh1c")))
+

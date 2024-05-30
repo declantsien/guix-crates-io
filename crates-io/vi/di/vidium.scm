@@ -1,0 +1,4 @@
+(define-module (crates-io vi di vidium) #:use-module (crates-io))
+
+(define-public crate-vidium-0.1.0 (c (n "vidium") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "chromiumoxide") (r "^0.5.0") (f (quote ("tokio-runtime"))) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "nshare") (r "^0.9.0") (f (quote ("image" "ndarray"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "tracing-timing") (r "^0.6.0") (d #t) (k 0)) (d (n "video-rs") (r "^0.2.4") (f (quote ("ndarray"))) (d #t) (k 0)))) (h "11ickh6q7kfwf5i1cgkd1wjb2ncajd5bqb4physb5d5v69wz27sv")))
+

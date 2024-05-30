@@ -1,0 +1,8 @@
+(define-module (crates-io va do vados) #:use-module (crates-io))
+
+(define-public crate-vados-0.0.1 (c (n "vados") (v "0.0.1") (d (list (d (n "askama") (r "^0.11.0") (d #t) (k 0)) (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.1") (f (quote ("simd"))) (k 0)) (d (n "serde") (r "^1.0.135") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1v9z084nsndmy8689vgq1jbxs96pws0wr396kjiz5fx81g7b2944")))
+
+(define-public crate-vados-0.0.2 (c (n "vados") (v "0.0.2") (d (list (d (n "askama") (r "^0.11.0") (d #t) (k 0)) (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "minifier") (r "^0.0.42") (f (quote ("html"))) (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.1") (f (quote ("simd"))) (k 0)) (d (n "serde") (r "^1.0.135") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1a2x7abq45mc6r4gg1gn7hpqgi9g61x386d15di82q7s1wx2y4s4")))
+
+(define-public crate-vados-0.0.3 (c (n "vados") (v "0.0.3") (d (list (d (n "askama") (r "^0.11.0") (d #t) (k 0)) (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "fast_image_resize") (r "^0.7.0") (d #t) (k 0)) (d (n "image") (r "^0.24.1") (d #t) (k 0)) (d (n "minifier") (r "^0.0.42") (f (quote ("html"))) (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.1") (f (quote ("simd"))) (k 0)) (d (n "serde") (r "^1.0.135") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "webp") (r "^0.2.1") (d #t) (k 0)))) (h "1csfq017p8hj4gz8vfsnz6iqwm35ajr2z4y2winll9msjxksnd6b")))
+

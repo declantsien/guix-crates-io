@@ -1,0 +1,12 @@
+(define-module (crates-io be vy bevy-overlay-wrapper) #:use-module (crates-io))
+
+(define-public crate-bevy-overlay-wrapper-0.1.0 (c (n "bevy-overlay-wrapper") (v "0.1.0") (d (list (d (n "bzip2") (r "^0.3") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^1") (d #t) (k 1)) (d (n "widestring") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.3") (d #t) (k 0)))) (h "02jw8irnprq7sanndlnff456rqws9f0kxmr11rjla0kcpk1a7ibv")))
+
+(define-public crate-bevy-overlay-wrapper-0.1.1 (c (n "bevy-overlay-wrapper") (v "0.1.1") (d (list (d (n "bzip2") (r "^0.3") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^1") (d #t) (k 1)) (d (n "widestring") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.3") (d #t) (k 0)))) (h "0zxsi3c8ai3nw8zbc45zyl0b5fy8kcz2ld2il6c4zrh1zaq23gci")))
+
+(define-public crate-bevy-overlay-wrapper-0.1.2 (c (n "bevy-overlay-wrapper") (v "0.1.2") (d (list (d (n "bzip2") (r "^0.3") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^1") (d #t) (k 1)) (d (n "widestring") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.3") (d #t) (k 0)))) (h "1im4a9ynws1acjndpb7ps1gl0mnc1424126nma2507iay7jn7dp7")))
+
+(define-public crate-bevy-overlay-wrapper-0.1.3 (c (n "bevy-overlay-wrapper") (v "0.1.3") (d (list (d (n "bzip2") (r "^0.3") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^1") (d #t) (k 1)) (d (n "widestring") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.3") (d #t) (k 0)))) (h "01adpr34pim7a4z5dsn3ckk3bkhddh8shii69dps3vwzwp7vjpbp")))
+
+(define-public crate-bevy-overlay-wrapper-0.1.4 (c (n "bevy-overlay-wrapper") (v "0.1.4") (d (list (d (n "bzip2") (r "^0.3") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "ureq") (r "^1") (d #t) (k 1)) (d (n "widestring") (r "^1.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.3") (d #t) (k 0)))) (h "0hpfddh9w8gkghij6a8l7hifbkynjqca5lm1y5hhnmcvzksqxnrc")))
+

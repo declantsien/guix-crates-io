@@ -1,0 +1,6 @@
+(define-module (crates-io pl at platter2) #:use-module (crates-io))
+
+(define-public crate-platter2-0.1.5 (c (n "platter2") (v "0.1.5") (d (list (d (n "futures-util") (r "^0.3.21") (k 0)) (d (n "js-sys") (r "^0.3.59") (o #t) (d #t) (k 0)) (d (n "stdweb") (r "^0.4.20") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.82") (o #t) (d #t) (k 0)) (d (n "web_sys") (r "^0.3.59") (f (quote ("XmlHttpRequest" "XmlHttpRequestEventTarget" "XmlHttpRequestResponseType"))) (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "web-sys")))) (h "01k27i6al1sfpafd5irdqi6c16559rv1nv7ixr1mz56rz11p55jm") (f (quote (("web-sys" "web_sys" "js-sys" "wasm-bindgen"))))))
+
+(define-public crate-platter2-0.1.6 (c (n "platter2") (v "0.1.6") (d (list (d (n "futures-util") (r "^0.3.21") (k 0)) (d (n "js-sys") (r "^0.3.59") (o #t) (d #t) (k 0)) (d (n "stdweb") (r "^0.4.20") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.82") (o #t) (d #t) (k 0)) (d (n "web_sys") (r "^0.3.59") (f (quote ("XmlHttpRequest" "XmlHttpRequestEventTarget" "XmlHttpRequestResponseType"))) (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0) (p "web-sys")))) (h "0pjszb2i59ms06arx5rl8hl73l4cvysyinadzsdnqy5raj8bwpp5") (f (quote (("web-sys" "web_sys" "js-sys" "wasm-bindgen"))))))
+

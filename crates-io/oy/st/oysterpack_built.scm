@@ -1,0 +1,20 @@
+(define-module (crates-io oy st oysterpack_built) #:use-module (crates-io))
+
+(define-public crate-oysterpack_built-0.1.0 (c (n "oysterpack_built") (v "0.1.0") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "built") (r "^0.3") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "semver") (r "^0.9") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "091ljh3y7196zvm4cs2l3l2rziiwjq0jbribz3afm2mdc1982jln")))
+
+(define-public crate-oysterpack_built-0.1.1 (c (n "oysterpack_built") (v "0.1.1") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "built") (r "^0.3") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "semver") (r "^0.9") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1mwcriaxfl8q3pq4vfmdn4n884vfknc32a920pjlcv15l0qwbdin")))
+
+(define-public crate-oysterpack_built-0.2.0 (c (n "oysterpack_built") (v "0.2.0") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "built") (r "^0.3") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "semver") (r "^0.9") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1m9d2fzvgbwffnm11iyvq4zhfbggxasdrb0nx78jmws011q5vd26")))
+
+(define-public crate-oysterpack_built-0.2.1 (c (n "oysterpack_built") (v "0.2.1") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "built") (r "^0.3") (d #t) (k 1)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1sbrzhjr52qgvvz3sqdy9dpa10cylnz5jf5kav4wsw0kca8n6k2v")))
+
+(define-public crate-oysterpack_built-0.2.2 (c (n "oysterpack_built") (v "0.2.2") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "built") (r "^0.3") (d #t) (k 1)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "0ig9bqbd7yylndy9chqqc605xp1sj2k297b29m08ckbfisa57fvw")))
+
+(define-public crate-oysterpack_built-0.2.3 (c (n "oysterpack_built") (v "0.2.3") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "built") (r "^0.3") (d #t) (k 1)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "065msbrz08wq4v72xjcq27ry3npa8ffzrh4b210m5ivvm9nan2ag")))
+
+(define-public crate-oysterpack_built-0.3.0 (c (n "oysterpack_built") (v "0.3.0") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "cargo") (r "^0.30") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fern") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.4") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "130j9zm4knxcfk0bl16nknqasxdbmgb6s1shrzycwr32g5138xmn")))
+
+(define-public crate-oysterpack_built-0.3.1 (c (n "oysterpack_built") (v "0.3.1") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "cargo") (r "^0.30") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fern") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.4") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "12y50hxgh6clzhrjzg648fvvlvrf7iawh3fssm05n6wc5m8zi33s")))
+
+(define-public crate-oysterpack_built-0.3.2 (c (n "oysterpack_built") (v "0.3.2") (d (list (d (n "built") (r "^0.3") (d #t) (k 0)) (d (n "cargo") (r "^0.30") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "oysterpack_testing") (r "^0.1") (d #t) (k 2)) (d (n "petgraph") (r "^0.4") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "semver") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1m3h4fx8q1biy2z8ipwrh37fp6bl5yx8q81s1wrxi15l7f05p1kw")))
+

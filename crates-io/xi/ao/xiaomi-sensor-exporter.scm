@@ -1,0 +1,8 @@
+(define-module (crates-io xi ao xiaomi-sensor-exporter) #:use-module (crates-io))
+
+(define-public crate-xiaomi-sensor-exporter-1.0.0 (c (n "xiaomi-sensor-exporter") (v "1.0.0") (d (list (d (n "bluez") (r "^0.4") (d #t) (k 0)) (d (n "bytes") (r "^1.2") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1sjyz2m5zh96yldcx2wd9nay9xaxmmsq7a92imis1qrxrr988jm0")))
+
+(define-public crate-xiaomi-sensor-exporter-1.1.0 (c (n "xiaomi-sensor-exporter") (v "1.1.0") (d (list (d (n "bluez") (r "^0.4") (d #t) (k 0)) (d (n "bytes") (r "^1.2") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1518rlh0kgzdh4ijffk6lqcq5ciifzsfw1bhm76fab0v78bysann")))
+
+(define-public crate-xiaomi-sensor-exporter-1.1.1 (c (n "xiaomi-sensor-exporter") (v "1.1.1") (d (list (d (n "bluer") (r "^0.17.0") (f (quote ("bluetoothd"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "sync" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1bi5k1i9gccgc842xhvbnxfqp12ch878an0p1c3c1iw1cfav36m9")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ai gc aigc_util) #:use-module (crates-io))
+
+(define-public crate-aigc_util-5.1.2 (c (n "aigc_util") (v "5.1.2") (d (list (d (n "aigc_secp256k1zkp") (r "^0.7.12") (f (quote ("bullet-proof-sizing"))) (d #t) (k 0)) (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^0.12") (f (quote ("rolling_file_appender" "compound_policy" "size_trigger" "fixed_window_roller"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)) (d (n "zeroize") (r "^1.1") (f (quote ("zeroize_derive"))) (d #t) (k 0)) (d (n "zip") (r "^0.5.11") (k 0)))) (h "1l9pggk3cjvffg2zd40asfbf8wfqzii392azx5slw7yldjv2vdvq")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ch ec check_brandmeister) #:use-module (crates-io))
+
+(define-public crate-check_brandmeister-0.1.0 (c (n "check_brandmeister") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "nagiosplugin") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (k 0)))) (h "1a98lyd1cyl3qyraq5yjy1gsjpi554g7w1jy4vb3w4wifnyh1cga")))
+
+(define-public crate-check_brandmeister-0.1.1 (c (n "check_brandmeister") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "nagiosplugin") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (k 0)))) (h "0i2ncqin0za7wzlrlcn0ic6asbz47j257rcjmhlnh84jzsjpsifc")))
+
+(define-public crate-check_brandmeister-0.2.0 (c (n "check_brandmeister") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-rc.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "nagiosplugin") (r "^0.5.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (k 0)))) (h "0d0xb035cr956fpjdyp1fiw6xzi5h3lbrgxw6y1p0q71iz3lm5dz") (y #t)))
+
+(define-public crate-check_brandmeister-0.2.3 (c (n "check_brandmeister") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-rc.1") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "nagiosplugin") (r "^0.5.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (k 0)))) (h "0z872c25q0ldzz3y3g3x7mij51hb6wxnh2vq99pamacpjqp03j9j")))
+
+(define-public crate-check_brandmeister-0.2.4 (c (n "check_brandmeister") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-rc.1") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "nagiosplugin") (r "^0.5.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ureq") (r "^2.3") (f (quote ("json"))) (k 0)))) (h "01j6gz5pvlglkl9iarwjyfm3qvh12k3fs5mwf2lpw1mzmjj3smyf")))
+

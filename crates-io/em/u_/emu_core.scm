@@ -1,0 +1,6 @@
+(define-module (crates-io em u_ emu_core) #:use-module (crates-io))
+
+(define-public crate-emu_core-0.1.0 (c (n "emu_core") (v "0.1.0") (d (list (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "emu_glsl") (r "^0.1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "shaderc") (r "^0.6.2") (o #t) (d #t) (k 0)) (d (n "timeit") (r "^0.1.2") (d #t) (k 2)) (d (n "wgpu") (r "^0.5.0") (d #t) (k 0)) (d (n "zerocopy") (r "^0.2.0") (d #t) (k 0)))) (h "16d5qvrkwhirhhlv91hbc99w2m10kw7vhq4nvvr76b3jx7wsfim2") (f (quote (("glsl-compile" "shaderc") ("default"))))))
+
+(define-public crate-emu_core-0.1.1 (c (n "emu_core") (v "0.1.1") (d (list (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "emu_glsl") (r "^0.1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "shaderc") (r "^0.6.2") (o #t) (d #t) (k 0)) (d (n "timeit") (r "^0.1.2") (d #t) (k 2)) (d (n "wgpu") (r "^0.5.0") (d #t) (k 0)) (d (n "zerocopy") (r "^0.2.0") (d #t) (k 0)))) (h "1rrxlpl7sx8c9bd62xsf20249w6g7n7hnbs6y0lilam419bfsf4v") (f (quote (("glsl-compile" "shaderc") ("default"))))))
+

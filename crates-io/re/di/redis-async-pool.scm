@@ -1,0 +1,14 @@
+(define-module (crates-io re di redis-async-pool) #:use-module (crates-io))
+
+(define-public crate-redis-async-pool-0.1.0 (c (n "redis-async-pool") (v "0.1.0") (d (list (d (n "async-std") (r "^1.7") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.6") (d #t) (k 0)) (d (n "redis") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "rt-threaded" "macros"))) (d #t) (k 2)))) (h "125fnm1kz4fbhdwfawrwmr907wcnml714sp8c472h9ncj43n0wwg")))
+
+(define-public crate-redis-async-pool-0.2.0 (c (n "redis-async-pool") (v "0.2.0") (d (list (d (n "async-std") (r "^1.7") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "redis") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "rt-threaded" "macros"))) (d #t) (k 2)))) (h "1mxcn5bviq8rmd95i8vzrmg06bf71azkbbjai8hp5y5vwqksd3ai")))
+
+(define-public crate-redis-async-pool-0.2.1 (c (n "redis-async-pool") (v "0.2.1") (d (list (d (n "async-std") (r "^1.7") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "redis") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "rt-threaded" "macros"))) (d #t) (k 2)))) (h "1ywwdy3qzg5h0g6brp2qyrngkq3v2y1qvgn696zm4zkaldkbl91g")))
+
+(define-public crate-redis-async-pool-0.2.2 (c (n "redis-async-pool") (v "0.2.2") (d (list (d (n "async-std") (r "^1.7") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "redis") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "rt-threaded" "macros"))) (d #t) (k 2)))) (h "0kypzznw4d1ks670k7mknnvv9qldnybczxfsqb9rwy41p84x963f")))
+
+(define-public crate-redis-async-pool-0.2.3 (c (n "redis-async-pool") (v "0.2.3") (d (list (d (n "async-std") (r "^1.7") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "redis") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "rt-threaded" "macros"))) (d #t) (k 2)))) (h "0sf1z6skhrc8rdhjcm61j5g2g2i5cw0krgxrjkavhsvzn6pij6j0")))
+
+(define-public crate-redis-async-pool-0.2.4 (c (n "redis-async-pool") (v "0.2.4") (d (list (d (n "async-std") (r "^1.7") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "deadpool") (r "^0.6") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "redis") (r "^0.17") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-core" "rt-threaded" "macros"))) (d #t) (k 2)))) (h "1y3fflcq6s08d25wd8rk9bnadcljzbiq6zsr14kvjb2rw4s8iiwj")))
+

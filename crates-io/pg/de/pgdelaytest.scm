@@ -1,0 +1,4 @@
+(define-module (crates-io pg de pgdelaytest) #:use-module (crates-io))
+
+(define-public crate-pgdelaytest-0.1.0 (c (n "pgdelaytest") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "clap") (r "^4.0.22") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "goauth") (r "^0.13.1") (d #t) (k 0)) (d (n "google-cloud-googleapis") (r "^0.6.0") (f (quote ("pubsub"))) (d #t) (k 0)) (d (n "google-cloud-pubsub") (r "^0.10.0") (f (quote ("rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.7") (d #t) (k 0)))) (h "0qw7sb56fgk23a3yjif9d0wqp61vwp9rl8d3vvg4nw40pi3j176d")))
+

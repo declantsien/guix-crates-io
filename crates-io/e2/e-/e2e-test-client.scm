@@ -1,0 +1,14 @@
+(define-module (crates-io e2 e- e2e-test-client) #:use-module (crates-io))
+
+(define-public crate-e2e-test-client-0.1.2 (c (n "e2e-test-client") (v "0.1.2") (d (list (d (n "e2e-test-model") (r "^0.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "1bvqyid0hdz1p2vc99bq4xzizzrsp0szd1lpr0xcwd4b78als8l2")))
+
+(define-public crate-e2e-test-client-0.1.3 (c (n "e2e-test-client") (v "0.1.3") (d (list (d (n "e2e-test-model") (r "^0.1.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "1ibsqjjqsks3n1gmnncaq7di7dzq65xhfna9b4wdvna4amzrkw3z")))
+
+(define-public crate-e2e-test-client-0.1.4 (c (n "e2e-test-client") (v "0.1.4") (d (list (d (n "e2e-test-model") (r "^0.1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0j0h7vbn9pffhldf858vg7k5friy8wma1hm636z59azh99s3rq5m")))
+
+(define-public crate-e2e-test-client-0.2.0 (c (n "e2e-test-client") (v "0.2.0") (d (list (d (n "e2e-test-model") (r "^0.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "1m0bry8vj65566bs0rnsphc5h6kflrb7zh7jg7qjy5a5bivkwjpm")))
+
+(define-public crate-e2e-test-client-0.2.1 (c (n "e2e-test-client") (v "0.2.1") (d (list (d (n "e2e-test-model") (r "^0.2.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "09y5ii8133yq2kg9m42mh6mfq5vqw6i8wx9894af3xgqyj66pi1y")))
+
+(define-public crate-e2e-test-client-0.3.0 (c (n "e2e-test-client") (v "0.3.0") (d (list (d (n "e2e-test-model") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2") (d #t) (k 0)) (d (n "reqwest-retry") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "1a5njp9jpfil783bdpzqvcd29pqpjyriil6857m42zy5s5p4cway")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ic u_ icu_benchmark_macros) #:use-module (crates-io))
+
+(define-public crate-icu_benchmark_macros-0.1.0 (c (n "icu_benchmark_macros") (v "0.1.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "0cg38dvx40b09p2afayykm11ny44jvny1dgmmxd76cs445gxn6k7") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+
+(define-public crate-icu_benchmark_macros-0.2.0 (c (n "icu_benchmark_macros") (v "0.2.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "1xnw1v7l2vnfcgn5x7kp6v2vac86ygjppsx4lz34a4pmgqbrdbsk") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+
+(define-public crate-icu_benchmark_macros-0.3.0 (c (n "icu_benchmark_macros") (v "0.3.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "03svlmb8030zn5cvqayjl7hvksfgbf1hgx6msr854r82nrc2pdgq") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+
+(define-public crate-icu_benchmark_macros-0.4.0 (c (n "icu_benchmark_macros") (v "0.4.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "06fc7aqmwx39hbz07mgwxgfc51pph614jb3svp3dwys0vx3wa1zd") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+
+(define-public crate-icu_benchmark_macros-0.5.0 (c (n "icu_benchmark_macros") (v "0.5.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "0pi1rc1n938crih64cb842hc55dlsg5dkizphsg4cf94yndsg6ya") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+
+(define-public crate-icu_benchmark_macros-0.6.0 (c (n "icu_benchmark_macros") (v "0.6.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "0ikbz3l7njgbhai4jkif78gkrj5qqb0aj7xrgxs3ykjycgk2j0v3") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+
+(define-public crate-icu_benchmark_macros-0.7.0 (c (n "icu_benchmark_macros") (v "0.7.0") (d (list (d (n "dhat") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_arch = \"wasm32\"))") (k 0)))) (h "1m5kx028iasb70igl7cck4rzwslx19qqxj4sf09hpjfry9b7d1kc") (f (quote (("rust_global_allocator" "dlmalloc") ("benchmark_memory" "dhat")))) (y #t)))
+

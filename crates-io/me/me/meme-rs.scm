@@ -1,0 +1,4 @@
+(define-module (crates-io me me meme-rs) #:use-module (crates-io))
+
+(define-public crate-meme-rs-0.0.1 (c (n "meme-rs") (v "0.0.1") (d (list (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "conv") (r "^0.3.3") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "imageproc") (r "^0.22.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 0)) (d (n "tokio") (r "^1.5.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "warp") (r "^0.3.1") (d #t) (k 0)))) (h "01f10glqdk4ihh0x74pbnxmj55y0mks1pbr649x1pbczd163an56")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io be vy bevy_type_registry) #:use-module (crates-io))
+
+(define-public crate-bevy_type_registry-0.1.0 (c (n "bevy_type_registry") (v "0.1.0") (d (list (d (n "bevy_app") (r "^0.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.1") (d #t) (k 0)) (d (n "bevy_property") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "18yp19xaay8dxdfcwdzi5rq4pkg50asypk8ijjad14bj0m9brl07")))
+
+(define-public crate-bevy_type_registry-0.1.3 (c (n "bevy_type_registry") (v "0.1.3") (d (list (d (n "bevy_app") (r "^0.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.1") (d #t) (k 0)) (d (n "bevy_property") (r "^0.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.10.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "01knqnw71d9zz3wz5x2pvr4fz2ikjpy72w1d0cllnqfnihidip47")))
+
+(define-public crate-bevy_type_registry-0.2.0 (c (n "bevy_type_registry") (v "0.2.0") (d (list (d (n "bevy_app") (r "^0.2") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.2") (d #t) (k 0)) (d (n "bevy_property") (r "^0.2") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1qbfr9kd1w0c5an8qqsp184l7k5hz6xv2a1za9849666r7b7g845") (f (quote (("dynamic_plugins" "bevy_app/dynamic_plugins"))))))
+
+(define-public crate-bevy_type_registry-0.2.1 (c (n "bevy_type_registry") (v "0.2.1") (d (list (d (n "bevy_app") (r "^0.2.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.2.1") (d #t) (k 0)) (d (n "bevy_property") (r "^0.2.1") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.2.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1sd8zfhpcjn2mrsidvhrcrrwxp0xbdxlilk1g8ah968vpi8khsky") (f (quote (("dynamic_plugins" "bevy_app/dynamic_plugins"))))))
+
+(define-public crate-bevy_type_registry-0.3.0 (c (n "bevy_type_registry") (v "0.3.0") (d (list (d (n "bevy_app") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_derive") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_property") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0chdlkjn4yszx5pqsb2k5wsil63m96hnv65m9j24grcpqbjnbb2a")))
+

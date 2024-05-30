@@ -1,0 +1,4 @@
+(define-module (crates-io so la solarti-token-lending-cli) #:use-module (crates-io))
+
+(define-public crate-solarti-token-lending-cli-0.2.0 (c (n "solarti-token-lending-cli") (v "0.2.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "miraland-clap-utils") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "miraland-cli-config") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "miraland-client") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "miraland-logger") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "miraland-program") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "miraland-sdk") (r "=1.14.17-rc4") (d #t) (k 0)) (d (n "solarti-token") (r "^3.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solarti-token-lending") (r "^0.2") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "10drpqqbdz7rpz8jfvgs51xza573wdmyhzfd3g5mgmj6mwz99660")))
+

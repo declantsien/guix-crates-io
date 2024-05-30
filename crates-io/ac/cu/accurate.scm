@@ -1,0 +1,10 @@
+(define-module (crates-io ac cu accurate) #:use-module (crates-io))
+
+(define-public crate-accurate-0.1.1 (c (n "accurate") (v "0.1.1") (d (list (d (n "ieee754") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)))) (h "13wkl23bq154anyajbcdap1rm1i6718pmm47phkn04h1xz0bxpxq") (f (quote (("unstable"))))))
+
+(define-public crate-accurate-0.2.1 (c (n "accurate") (v "0.2.1") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "ieee754") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 2)) (d (n "rayon") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "skeptic") (r "^0.4") (d #t) (k 1)) (d (n "skeptic") (r "^0.4") (d #t) (k 2)))) (h "1lsy7zlp912v1w0g9dhvpcpf6g9glsqfd5yd4ps56akqxpiybprs") (f (quote (("unstable") ("parallel" "rayon") ("fma") ("default" "parallel"))))))
+
+(define-public crate-accurate-0.3.0 (c (n "accurate") (v "0.3.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "criterion-plot") (r "^0.2") (d #t) (k 2)) (d (n "ieee754") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1") (o #t) (d #t) (k 0)) (d (n "rug") (r "^1.0") (d #t) (k 2)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)))) (h "0336xr7kwam8fjigigdn4gvbj6idn74k0ci8q4jsvc8yfw88brcg") (f (quote (("parallel" "rayon") ("lint" "clippy") ("fma") ("default" "parallel") ("clippy"))))))
+
+(define-public crate-accurate-0.3.1 (c (n "accurate") (v "0.3.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "criterion-plot") (r "^0.4") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "ieee754") (r "^0.2") (d #t) (k 0)) (d (n "num") (r "^0.3") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rayon") (r "^1") (o #t) (d #t) (k 0)) (d (n "rug") (r "^1.0") (d #t) (k 2)))) (h "0gn07dnxp3vcnccx001rdzxwpcqhzvcw0vmm1psnrvhqq85ry82g") (f (quote (("parallel" "rayon") ("lint" "clippy") ("fma") ("default" "parallel") ("clippy"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io pe ta peta) #:use-module (crates-io))
+
+(define-public crate-peta-0.0.1 (c (n "peta") (v "0.0.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-current-thread") (r "^0.1") (d #t) (k 0)))) (h "0y69ymlfx7245yjy0hbvf16yhfs401h718sxbgqjdsmwhq9fy57y")))
+
+(define-public crate-peta-0.0.2 (c (n "peta") (v "0.0.2") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-current-thread") (r "^0.1") (d #t) (k 0)))) (h "0xnmzrhxrsawri4xg5lhcjkdf8cw9j489hxvihd16n72gh85jcbf")))
+
+(define-public crate-peta-0.0.3 (c (n "peta") (v "0.0.3") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 2)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-current-thread") (r "^0.1") (d #t) (k 0)))) (h "14h30fyacpmzxvflbs1y05wqqwglks8mkk8ib374826z9416ijpf")))
+
+(define-public crate-peta-0.0.4 (c (n "peta") (v "0.0.4") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-current-thread") (r "^0.1") (d #t) (k 0)))) (h "0xj0amymnsvim2fshbfnglmxr6m2i0v4765sz5whq2bpq49ga0xc")))
+
+(define-public crate-peta-0.0.5 (c (n "peta") (v "0.0.5") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-current-thread") (r "^0.1") (d #t) (k 0)))) (h "1gjvcvcyzlfkbzjma3lk4l3vbxk2r5sc1mydxg0phnp3p4vc3j0w")))
+

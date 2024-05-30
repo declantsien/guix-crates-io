@@ -1,0 +1,4 @@
+(define-module (crates-io mo rp morphine) #:use-module (crates-io))
+
+(define-public crate-morphine-0.1.0 (c (n "morphine") (v "0.1.0") (d (list (d (n "bus") (r "^2.3.0") (d #t) (k 0)) (d (n "core_affinity") (r "^0.7.6") (d #t) (k 0)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.14.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.3") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)))) (h "0lzqw609h3ls0a5ldvamkzbllsfwf2j6jx8qmd7qcbq8j41s28mz")))
+

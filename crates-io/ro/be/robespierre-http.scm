@@ -1,0 +1,8 @@
+(define-module (crates-io ro be robespierre-http) #:use-module (crates-io))
+
+(define-public crate-robespierre-http-0.1.0 (c (n "robespierre-http") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.4") (f (quote ("json" "multipart"))) (k 0)) (d (n "robespierre-models") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "09xg9qs6hdsbqxz4r9ls76p8cxdzrri176pwpb0b5zcwxrvxcmvr") (f (quote (("rustls" "reqwest/rustls-tls") ("nativetls" "reqwest/native-tls") ("default" "rustls"))))))
+
+(define-public crate-robespierre-http-0.2.0 (c (n "robespierre-http") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11.4") (f (quote ("json" "multipart"))) (k 0)) (d (n "robespierre-models") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0zb97sswn54f0gwx6kgid4a6s7pnghchvcb9gpw2hbsvba6bcdy3") (f (quote (("rustls" "reqwest/rustls-tls") ("nativetls" "reqwest/native-tls") ("default" "rustls"))))))
+
+(define-public crate-robespierre-http-0.3.1 (c (n "robespierre-http") (v "0.3.1") (d (list (d (n "reqwest") (r "^0.11.4") (f (quote ("json" "multipart"))) (k 0)) (d (n "robespierre-models") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "01nr9caydn2y36l0k8z072mdxhxp42c16pvz922jlq7a0swk91gn") (f (quote (("rustls" "reqwest/rustls-tls") ("nativetls" "reqwest/native-tls") ("default" "rustls"))))))
+

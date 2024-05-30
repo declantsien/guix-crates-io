@@ -1,0 +1,22 @@
+(define-module (crates-io im ag imagescript) #:use-module (crates-io))
+
+(define-public crate-imagescript-0.0.1 (c (n "imagescript") (v "0.0.1") (h "1sm6ab1dgj3q4cacqkyw829n60d60zvg0nqhlxvcmdm0axga4i15")))
+
+(define-public crate-imagescript-0.0.2 (c (n "imagescript") (v "0.0.2") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "image") (r "^0.23.14") (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "01ziix19rzf2yxchv8x6g5ds8k5sycgwnxgyp5a976w7m5lakhp1")))
+
+(define-public crate-imagescript-0.0.3 (c (n "imagescript") (v "0.0.3") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "image") (r "^0.23.14") (f (quote ("png"))) (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "003a13429cgqqlr92yhbc7bq5xybnchwh6bldfys8a66sdhlb2fi")))
+
+(define-public crate-imagescript-0.0.4 (c (n "imagescript") (v "0.0.4") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "image") (r "^0.23.14") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "14agraaalzj2b8agbb44bq19rr92z8rn8rbnqmjai0nwamcyfmhx")))
+
+(define-public crate-imagescript-0.0.5 (c (n "imagescript") (v "0.0.5") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "gif") (r "^0.11.3") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "0l2isysgqkg9qsf6i15s6qmdxf54c4x4dihmvfnn8kvj89q0c2q1")))
+
+(define-public crate-imagescript-0.0.6 (c (n "imagescript") (v "0.0.6") (d (list (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "gif") (r "^0.11.3") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "1kwsfsqfgrh2vy2yxkjpiqq61pp1faq9g1z22wbr50ahwz5jk7xn")))
+
+(define-public crate-imagescript-0.0.7 (c (n "imagescript") (v "0.0.7") (d (list (d (n "color_quant") (r "^1.1.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "08s3zbnxa0dqwqicna2yi1xx5m8v5y62yr6ipk9rbhd5avj4pdvr")))
+
+(define-public crate-imagescript-0.0.8 (c (n "imagescript") (v "0.0.8") (d (list (d (n "color_quant") (r "^1.1.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.4.7") (d #t) (k 2)))) (h "05xrgr06a2n5ba4swsp3hjxsa0r0saddp1xrx4l9bxvr3wc4j2bv")))
+
+(define-public crate-imagescript-0.0.9 (c (n "imagescript") (v "0.0.9") (d (list (d (n "color_quant") (r "^1.1.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 2)) (d (n "image") (r "^0.24.2") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.6.1") (d #t) (k 2)) (d (n "rayon") (r "^1.5.3") (d #t) (k 2)))) (h "07xvqpv4vm3gf9njhp16ks38swlajk4ff1b8wq4736w4h0574i7n")))
+
+(define-public crate-imagescript-0.0.10 (c (n "imagescript") (v "0.0.10") (d (list (d (n "color_quant") (r "^1.1.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3.5") (f (quote ("html_reports" "real_blackbox" "cargo_bench_support"))) (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 2)) (d (n "image") (r "^0.24.2") (f (quote ("png"))) (k 2)) (d (n "libvips") (r "^1.4.3") (d #t) (k 2)) (d (n "lodepng") (r "^3.6.1") (d #t) (k 2)) (d (n "rayon") (r "^1.5.3") (d #t) (k 2)))) (h "193hq8p382rhxdvq36zf0mwd2y9p7r6xl16ii7pv8pkxp1kwrjbx")))
+

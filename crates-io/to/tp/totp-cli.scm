@@ -1,0 +1,8 @@
+(define-module (crates-io to tp totp-cli) #:use-module (crates-io))
+
+(define-public crate-totp-cli-0.1.0 (c (n "totp-cli") (v "0.1.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "basic-otp") (r "^0.1.1") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "data-encoding") (r "^2.1.1") (d #t) (k 0)) (d (n "pbr") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "0rbzfy8ck2f4xinh0lyp7nkbrwfsjaygbd4hlfm5sd06zwa9walv")))
+
+(define-public crate-totp-cli-0.2.0 (c (n "totp-cli") (v "0.2.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "basic-otp") (r "^0.1.1") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "data-encoding") (r "^2.1.1") (d #t) (k 0)) (d (n "pbr") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "1w9izc9i4fglz52gbaiq7fiyvd0ay5n4c799zxdw1lsjzi44gs12")))
+
+(define-public crate-totp-cli-0.2.1 (c (n "totp-cli") (v "0.2.1") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "basic-otp") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "data-encoding") (r "^2.1.1") (d #t) (k 0)) (d (n "pbr") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "027da9kzhy62p6wci3n80007ir8bjj846p365c0k7nmmn4n5prhk")))
+

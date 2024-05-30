@@ -1,0 +1,6 @@
+(define-module (crates-io tr ac tracing-appender-localtime) #:use-module (crates-io))
+
+(define-public crate-tracing-appender-localtime-0.2.3 (c (n "tracing-appender-localtime") (v "0.2.3") (d (list (d (n "criterion") (r "^0.3.6") (k 2)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.3.2") (f (quote ("formatting" "parsing" "local-offset"))) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("fmt" "std"))) (k 0)))) (h "02z9vl3np337014havy1cd5mmi7vb2asgmrfhs18imgv0rwph5gh") (r "1.63.0")))
+
+(define-public crate-tracing-appender-localtime-0.2.4 (c (n "tracing-appender-localtime") (v "0.2.4") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "criterion") (r "^0.3.6") (k 2)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "time") (r "^0.3.2") (f (quote ("formatting" "parsing"))) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("fmt" "std"))) (k 0)))) (h "07l4pxx484bwg6fql1gwkh6r49g18j8njc6xhiviw6n7na1cj2v7") (r "1.63.0")))
+

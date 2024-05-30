@@ -1,0 +1,4 @@
+(define-module (crates-io sk ri skribble_core) #:use-module (crates-io))
+
+(define-public crate-skribble_core-0.0.0 (c (n "skribble_core") (v "0.0.0") (d (list (d (n "colorsys") (r "^0.6") (d #t) (k 0)) (d (n "enum-ordinalize") (r "^3") (d #t) (k 0)) (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "indexmap") (r "^1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "lightningcss") (r "^1.0.0-alpha.39") (d #t) (k 0)) (d (n "parcel_sourcemap") (r "^2") (d #t) (k 0)) (d (n "readonly") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typed-builder") (r "^0.11") (d #t) (k 0)) (d (n "insta") (r "^1") (f (quote ("json"))) (d #t) (k 2)))) (h "0qyglai6sh5xclxiwgpf7x5hgrkazq7cbnvr78lfpg8h61xq24k2")))
+

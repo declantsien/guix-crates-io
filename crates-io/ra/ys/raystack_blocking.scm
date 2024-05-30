@@ -1,0 +1,8 @@
+(define-module (crates-io ra ys raystack_blocking) #:use-module (crates-io))
+
+(define-public crate-raystack_blocking-0.11.1 (c (n "raystack_blocking") (v "0.11.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "raystack") (r "^0.11.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("default-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0jj74lbhzmghs6m6acln5g32kjq9p1xai2fb1sg78c3axmq62s2w") (f (quote (("grid_csv" "raystack/grid_csv"))))))
+
+(define-public crate-raystack_blocking-0.11.2 (c (n "raystack_blocking") (v "0.11.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "raystack") (r "^0.11.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("default-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1p5pmmw6n6dw85zxb71sxv2ksbw89l61yh3h0bl1cr0sk0c92kfv") (f (quote (("grid_csv" "raystack/grid_csv"))))))
+
+(define-public crate-raystack_blocking-0.12.0 (c (n "raystack_blocking") (v "0.12.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.6") (d #t) (k 0)) (d (n "raystack") (r "^0.12") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("default-tls" "json"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1b869gr3cxdrg0vg3y7bnr7fspmb7a03yrqn0hvv1wgxjyjcwkcb") (f (quote (("grid_csv" "raystack/grid_csv"))))))
+

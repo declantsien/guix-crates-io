@@ -1,0 +1,10 @@
+(define-module (crates-io la ke lakers-ead-dispatch) #:use-module (crates-io))
+
+(define-public crate-lakers-ead-dispatch-0.4.0-alpha.1 (c (n "lakers-ead-dispatch") (v "0.4.0-alpha.1") (d (list (d (n "edhoc-consts") (r "^0.4.0-alpha.1") (d #t) (k 0) (p "lakers-shared")) (d (n "edhoc-ead-none") (r "^0.4.0-alpha.1") (o #t) (d #t) (k 0) (p "lakers-ead-none")) (d (n "edhoc-ead-zeroconf") (r "^0.4.0-alpha.1") (o #t) (d #t) (k 0) (p "lakers-ead-zeroconf")))) (h "17xryi152d5j7xrsg3ns9c4i5avykjl24lbnbfchvr3z2ikr0xp7") (f (quote (("ead-zeroconf" "edhoc-ead-zeroconf") ("ead-none" "edhoc-ead-none") ("default" "ead-none"))))))
+
+(define-public crate-lakers-ead-dispatch-0.4.0 (c (n "lakers-ead-dispatch") (v "0.4.0") (d (list (d (n "lakers-ead-none") (r "^0.4.0") (o #t) (d #t) (k 0) (p "lakers-ead-none")) (d (n "lakers-ead-zeroconf") (r "^0.4.0") (o #t) (d #t) (k 0) (p "lakers-ead-zeroconf")) (d (n "lakers-shared") (r "^0.4.0") (d #t) (k 0) (p "lakers-shared")))) (h "088zsikxlyb0ys6h37fi4l1icli4bzh2qhn71hxkviki6vq0zjzi") (f (quote (("ead-zeroconf" "lakers-ead-zeroconf") ("ead-none" "lakers-ead-none") ("default" "ead-none"))))))
+
+(define-public crate-lakers-ead-dispatch-0.4.1 (c (n "lakers-ead-dispatch") (v "0.4.1") (d (list (d (n "lakers-ead-none") (r "^0.4.1") (o #t) (d #t) (k 0) (p "lakers-ead-none")) (d (n "lakers-ead-zeroconf") (r "^0.4.1") (o #t) (d #t) (k 0) (p "lakers-ead-zeroconf")) (d (n "lakers-shared") (r "^0.4.1") (d #t) (k 0) (p "lakers-shared")))) (h "0xc8wl4dgd2i8c989qs750y9i12nimx3v7z33yakh7iy0q3c56c4") (f (quote (("ead-zeroconf" "lakers-ead-zeroconf") ("ead-none" "lakers-ead-none") ("default" "ead-none"))))))
+
+(define-public crate-lakers-ead-dispatch-0.5.0 (c (n "lakers-ead-dispatch") (v "0.5.0") (d (list (d (n "lakers-ead-authz") (r "^0.5.0") (o #t) (d #t) (k 0) (p "lakers-ead-authz")) (d (n "lakers-shared") (r "^0.5.0") (d #t) (k 0) (p "lakers-shared")))) (h "1jl05cjmihc8bx8zpiyyyx66sj3dwad6r4rmrzgif2rww1yrwfnd") (f (quote (("ead-none") ("ead-authz" "lakers-ead-authz") ("default" "ead-none"))))))
+

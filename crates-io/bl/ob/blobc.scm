@@ -1,0 +1,4 @@
+(define-module (crates-io bl ob blobc) #:use-module (crates-io))
+
+(define-public crate-blobc-0.0.1 (c (n "blobc") (v "0.0.1") (d (list (d (n "blobd-client-rs") (r "^0.0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.27") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("macros" "fs" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-sync-read-stream") (r "^0.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "0rb5mxbrnjjyabdl2fbq5y771nn8j862nxxqv9f0x6k0dw9jvk6g")))
+

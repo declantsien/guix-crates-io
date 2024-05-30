@@ -1,0 +1,10 @@
+(define-module (crates-io bi nt bintext) #:use-module (crates-io))
+
+(define-public crate-bintext-0.1.0 (c (n "bintext") (v "0.1.0") (d (list (d (n "base16") (r "^0.2.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.3") (d #t) (k 2)) (d (n "core_affinity") (r "^0.5.10") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "faster-hex") (r "^0.4.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "radix64") (r "^0.6.2") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0696l6rd4mg9q1zk2k528cw4b2k3pi9rwh2x1dzy6aa3klknjm0j") (y #t)))
+
+(define-public crate-bintext-0.1.1 (c (n "bintext") (v "0.1.1") (d (list (d (n "base16") (r "^0.2.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.3") (d #t) (k 2)) (d (n "core_affinity") (r "^0.5.10") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "faster-hex") (r "^0.4.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "radix64") (r "^0.6.2") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "09vy6s5in6mnhc2i8md67yy60lhsgmisd41h2rl2qxiyilgqpj52")))
+
+(define-public crate-bintext-0.1.2 (c (n "bintext") (v "0.1.2") (d (list (d (n "base16") (r "^0.2.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.3") (d #t) (k 2)) (d (n "core_affinity") (r "^0.5.10") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "faster-hex") (r "^0.4.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "radix64") (r "^0.6.2") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "05sir9rimx52rd5hmgb2zxp8n3r904aygdifl3cywcd2rls2qicn")))
+
+(define-public crate-bintext-0.1.3 (c (n "bintext") (v "0.1.3") (d (list (d (n "base16") (r "^0.2.1") (d #t) (k 2)) (d (n "base64") (r "^0.12.3") (d #t) (k 2)) (d (n "core_affinity") (r "^0.5.10") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "faster-hex") (r "^0.4.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "radix64") (r "^0.6.2") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0j6ivlbx5yb0z6k910zlkw2fpds57917qnkwy0vkc4gbhpmqry7k")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io dy na dynamodb-adapter) #:use-module (crates-io))
+
+(define-public crate-dynamodb-adapter-0.1.0 (c (n "dynamodb-adapter") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (o #t) (k 0)) (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "aws-config") (r "^0.48.0") (d #t) (k 2)) (d (n "aws-sdk-dynamodb") (r "^0.18.0") (d #t) (k 0)) (d (n "casbin") (r "^2.0.9") (k 0)) (d (n "casbin") (r "^2.0.9") (f (quote ("glob"))) (k 2)) (d (n "http") (r "^0.2.8") (d #t) (k 2)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.21.0") (o #t) (k 0)) (d (n "tokio") (r "^1.21.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1.9") (d #t) (k 0)))) (h "0k27sswhlczwnn8gh0x6qqfddzsfj963j0d2ppxxaiadxq3gzhs4") (f (quote (("runtime-tokio" "casbin/runtime-tokio" "tokio/rt") ("default" "runtime-tokio"))))))
+

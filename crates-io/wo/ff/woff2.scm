@@ -1,0 +1,10 @@
+(define-module (crates-io wo ff woff2) #:use-module (crates-io))
+
+(define-public crate-woff2-0.1.0 (c (n "woff2") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "brotli") (r "^3.3.3") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 2)) (d (n "four-cc") (r "^0.1.0") (d #t) (k 0)) (d (n "safer-bytes") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.15.0") (d #t) (k 2)))) (h "18r17asxa6qbld3fq3713dpxhrbma97jsfklb6ap07p647ikm052")))
+
+(define-public crate-woff2-0.1.1 (c (n "woff2") (v "0.1.1") (d (list (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "brotli") (r "^3.3.3") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 2)) (d (n "four-cc") (r "^0.1.0") (d #t) (k 0)) (d (n "safer-bytes") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.15.0") (d #t) (k 2)))) (h "0n02jm6lflcrswkf8ir5xfh6vw88lbigj6mlnylspbc4b2d4w337")))
+
+(define-public crate-woff2-0.2.1 (c (n "woff2") (v "0.2.1") (d (list (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "brotli") (r "^3.3.3") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 2)) (d (n "four-cc") (r "^0.1.0") (d #t) (k 0)) (d (n "safer-bytes") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.15.0") (d #t) (k 2)))) (h "0sgg5b48wg205syq3v5ny1dgwnw108qlyhy9h8fqnz1hs8s033wr")))
+
+(define-public crate-woff2-0.3.0 (c (n "woff2") (v "0.3.0") (d (list (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "brotli") (r "^3.3.3") (f (quote ("std"))) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 2)) (d (n "four-cc") (r "^0.1.0") (d #t) (k 0)) (d (n "safer-bytes") (r "^0.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.15.0") (d #t) (k 2)))) (h "0z65vq6a4nxb50xvba3xgjxvlmz14zv8a0i5xrgx7r3zfnmm1592")))
+

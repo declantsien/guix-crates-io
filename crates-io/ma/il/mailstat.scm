@@ -1,0 +1,4 @@
+(define-module (crates-io ma il mailstat) #:use-module (crates-io))
+
+(define-public crate-mailstat-0.1.0 (c (n "mailstat") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.2.0") (d #t) (k 0)) (d (n "email-address-parser") (r "^1.0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "himalaya-lib") (r "^0.6.0") (d #t) (k 0)) (d (n "lettre") (r "^0.10.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "plotters") (r "^0.3.4") (d #t) (k 0)) (d (n "prettytable") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0sk04iril3q1wsnivs9h2069razvpxamzcjn22z133jzjp7cryc8")))
+

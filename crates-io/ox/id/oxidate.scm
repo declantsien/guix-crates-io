@@ -1,0 +1,4 @@
+(define-module (crates-io ox id oxidate) #:use-module (crates-io))
+
+(define-public crate-oxidate-0.1.0 (c (n "oxidate") (v "0.1.0") (d (list (d (n "bigdecimal") (r "^0.3.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.5.9") (d #t) (k 0)) (d (n "litrs") (r "^0.2.3") (d #t) (k 0)) (d (n "mown") (r "^0.2.1") (d #t) (k 0)) (d (n "oxidate-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "pad") (r "^0.1.6") (d #t) (k 0)) (d (n "paste") (r "^1.0.5") (d #t) (k 0)) (d (n "peekmore") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.29") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "sealed") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "19sapmcc3app15firp7xwh0rnb6gr2f6izr10gg73b4vcpmg7w0m")))
+

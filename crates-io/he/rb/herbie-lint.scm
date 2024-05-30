@@ -1,0 +1,20 @@
+(define-module (crates-io he rb herbie-lint) #:use-module (crates-io))
+
+(define-public crate-herbie-lint-0.1.0 (c (n "herbie-lint") (v "0.1.0") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)))) (h "0vxqbjqw7cxb7lj3wf8aa835slsczl2fnb31rn3y3jwc6r1m309p") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.0 (c (n "herbie-lint") (v "1.0.0") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)))) (h "1gjh28wlbamp04zml2xdr1hba6xwnc2g10b36mxnaj0yvfa7890b") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.1 (c (n "herbie-lint") (v "1.0.1") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 0)) (d (n "itertools") (r "^0.4.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "toml") (r "^0.1.25") (d #t) (k 0)))) (h "0p51s5jy5as984w7jaic711df5viq5441q230hfqlwfbgmxw6jlz") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.2 (c (n "herbie-lint") (v "1.0.2") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 0)) (d (n "itertools") (r "^0.4.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "toml") (r "^0.1.25") (d #t) (k 0)))) (h "1c2cqwgj8yj0l245kdqg1w9jr62w2rx95b4bvnxcjx9dd5xfxnvz") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.3 (c (n "herbie-lint") (v "1.0.3") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 2)) (d (n "itertools") (r "^0.4.7") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "toml") (r "^0.1.25") (d #t) (k 0)))) (h "0s01a3lisbzjyqqgs8zwy7bn24ncy29nkycnmcpp5vimgmxkq81w") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.4 (c (n "herbie-lint") (v "1.0.4") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 2)) (d (n "itertools") (r "^0.4.7") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "toml") (r "^0.1.25") (d #t) (k 0)) (d (n "wait-timeout") (r "^0.1.0") (d #t) (k 0)))) (h "11a39hldjd3qdcl1c3wy1ci410s61zchzdi4n0m8nskbg1v6paz5") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.5 (c (n "herbie-lint") (v "1.0.5") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.0.11") (d #t) (k 2)) (d (n "itertools") (r "^0.4.7") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "toml") (r "^0.1.25") (d #t) (k 0)) (d (n "wait-timeout") (r "^0.1.0") (d #t) (k 0)))) (h "0hlyp7ivkf1qpa9nmkxji5ldiay9lvdrn9rpawbzvd8bg37nzg1k") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.6 (c (n "herbie-lint") (v "1.0.6") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.1.0") (d #t) (k 2)) (d (n "itertools") (r "^0.4.8") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "toml") (r "^0.1.27") (d #t) (k 0)) (d (n "wait-timeout") (r "^0.1.2") (d #t) (k 0)))) (h "1iw05akkhlhsxvsr10khrp5kvdamibhb5h3p6f84v59l087m2lks") (f (quote (("default"))))))
+
+(define-public crate-herbie-lint-1.0.7 (c (n "herbie-lint") (v "1.0.7") (d (list (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "compiletest_rs") (r "^0.1.0") (d #t) (k 2)) (d (n "itertools") (r "^0.4.8") (d #t) (k 0)) (d (n "rusqlite") (r "^0.6.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "toml") (r "^0.1.27") (d #t) (k 0)) (d (n "wait-timeout") (r "^0.1.2") (d #t) (k 0)))) (h "1p8j03xyfngv8scfglakhmiff0x94b8fdlq986b7yfbqyfg7j5cq") (f (quote (("default"))))))
+

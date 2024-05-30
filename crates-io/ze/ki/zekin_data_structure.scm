@@ -1,0 +1,6 @@
+(define-module (crates-io ze ki zekin_data_structure) #:use-module (crates-io))
+
+(define-public crate-zekin_data_structure-0.1.0 (c (n "zekin_data_structure") (v "0.1.0") (d (list (d (n "float-cmp") (r "^0.8.0") (d #t) (k 0)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.39") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.26") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.12") (d #t) (k 0)))) (h "0fvrlvdv0psy2wq4bvslw0026y2bjsas2zg7qy6f4n4yp8wsl5ak")))
+
+(define-public crate-zekin_data_structure-1.0.0 (c (n "zekin_data_structure") (v "1.0.0") (d (list (d (n "float-cmp") (r "^0.8.0") (d #t) (k 0)) (d (n "getset") (r "^0.1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.39") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.26") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.12") (d #t) (k 0)))) (h "127m4019hmgz0w8q6b07b2lwcx14g61fx7d78vdpd0yvknzsr85k")))
+

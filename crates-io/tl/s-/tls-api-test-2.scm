@@ -1,0 +1,4 @@
+(define-module (crates-io tl s- tls-api-test-2) #:use-module (crates-io))
+
+(define-public crate-tls-api-test-2-0.11.0 (c (n "tls-api-test-2") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pem") (r "^3.0.4") (d #t) (k 0)) (d (n "test-cert-gen") (r "=0.11.0") (k 0) (p "test-cert-gen-2")) (d (n "tls-api") (r "=0.11.0") (k 0) (p "tls-api-2")) (d (n "tokio") (r "^1.2.0") (f (quote ("net" "io-util" "rt" "rt-multi-thread"))) (o #t) (d #t) (k 0)) (d (n "webpki") (r "^0.22.0") (d #t) (k 0)))) (h "12w0byscmgj1qnkg5j4zzsbwsf0gpqcmbqjj9brls0al7dlr3m2q") (f (quote (("runtime-tokio" "tokio" "tls-api/runtime-tokio") ("runtime-async-std" "async-std" "tls-api/runtime-async-std") ("default" "runtime-tokio"))))))
+

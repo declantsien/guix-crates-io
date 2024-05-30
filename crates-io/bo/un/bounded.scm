@@ -1,0 +1,8 @@
+(define-module (crates-io bo un bounded) #:use-module (crates-io))
+
+(define-public crate-bounded-0.1.1 (c (n "bounded") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.7") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "18fr2qzci00lwyd41mz8lpqcf1f7h2vyg8cpwv0mv9322fqlkp51") (f (quote (("extra-traits" "num") ("default"))))))
+
+(define-public crate-bounded-0.1.2 (c (n "bounded") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.7") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (o #t) (d #t) (k 0)))) (h "1lj3158vgcfm4npjkqrgf30iiszsl1a4gvn4i3ibddxk38n5xw99") (f (quote (("extra-traits" "num") ("default"))))))
+
+(define-public crate-bounded-0.2.0 (c (n "bounded") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.14") (o #t) (d #t) (k 0)))) (h "1x3h3yfs5fs1drqffv9jbkf1c9sg2p2rs2ayxczdjpjfdsqns5wn") (f (quote (("saturating-sub" "num-traits") ("saturating-mul" "num-traits") ("saturating-div" "num-traits") ("saturating-add" "num-traits") ("saturating" "saturating-add" "saturating-div" "saturating-mul" "saturating-sub") ("extra-traits" "bounded" "checked" "saturating") ("default") ("checked-sub" "num-traits") ("checked-shr" "num-traits") ("checked-shl" "num-traits") ("checked-rem" "num-traits") ("checked-neg" "num-traits") ("checked-mul" "num-traits") ("checked-div" "num-traits") ("checked-add" "num-traits") ("checked" "checked-add" "checked-div" "checked-mul" "checked-neg" "checked-rem" "checked-shl" "checked-shr" "checked-sub") ("bounded" "num-traits"))))))
+

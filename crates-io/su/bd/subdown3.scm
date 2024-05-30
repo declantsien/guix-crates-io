@@ -1,0 +1,14 @@
+(define-module (crates-io su bd subdown3) #:use-module (crates-io))
+
+(define-public crate-subdown3-0.1.0 (c (n "subdown3") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "04fnfa5ixdpybm64iq258bkzdy0skz6nsxc09wc06mz8dfgxpz25")))
+
+(define-public crate-subdown3-0.2.0 (c (n "subdown3") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("blocking" "gzip" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "06rwykis01anwbxj2bpz3brnq4gfj70wijvby703x2spc21b5l87")))
+
+(define-public crate-subdown3-0.3.0 (c (n "subdown3") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (f (quote ("blocking" "gzip" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "1kwnlykzvzmx91d6ckwjr4q7schk907x2pqj1k9h4ihpmk0rjf6i")))
+
+(define-public crate-subdown3-1.0.0 (c (n "subdown3") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "gzip" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "1z38cl9f9ydsddyzjbdc6c1sqqhfncazgzwd5fmvqj0062d8haqs")))
+
+(define-public crate-subdown3-1.0.1 (c (n "subdown3") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "gzip" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "1gn5iwngpkiwly5bngkjpjyqiqd8prbp0b72m96fgca45zbpbz2v")))
+
+(define-public crate-subdown3-1.0.2 (c (n "subdown3") (v "1.0.2") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "gzip" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "1av4fryq9kcbvabd56gy09qiypwhblnaqlj01hvdy2ssn2my8qn9")))
+

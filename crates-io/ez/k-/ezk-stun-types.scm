@@ -1,0 +1,8 @@
+(define-module (crates-io ez k- ezk-stun-types) #:use-module (crates-io))
+
+(define-public crate-ezk-stun-types-0.1.0 (c (n "ezk-stun-types") (v "0.1.0") (d (list (d (n "bitfield") (r "^0.13") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "hmac") (r "^0.11") (d #t) (k 0)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha-1") (r "^0.9") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1q5r4l450bp750q3bsgp2y9zhh11wv1bh09kpy01w856ay0516sx")))
+
+(define-public crate-ezk-stun-types-0.1.1 (c (n "ezk-stun-types") (v "0.1.1") (d (list (d (n "bitfield") (r "^0.14") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0fgwhaglq7g5ia5vha4cs0vq226achb2dr8pla47vvnmmwyxh87s")))
+
+(define-public crate-ezk-stun-types-0.1.2 (c (n "ezk-stun-types") (v "0.1.2") (d (list (d (n "bitfield") (r "^0.14") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha-1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0q1wmc0avgag4f4lm864s7k7yayb0yrfknpc6b294s1n351sf5b2")))
+

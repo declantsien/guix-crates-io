@@ -1,0 +1,6 @@
+(define-module (crates-io sp fr spfr) #:use-module (crates-io))
+
+(define-public crate-spfr-0.0.3 (c (n "spfr") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "jacklog") (r "^0.0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.67") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.20") (d #t) (k 0)) (d (n "structopt") (r "^0.3.23") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 0)))) (h "1b7nl6b20jiwixz87xysxwgn69dplcrc6ysqs26grpbbiys5g41s")))
+
+(define-public crate-spfr-0.0.4 (c (n "spfr") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "jacklog") (r "^0.0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.67") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.20") (d #t) (k 0)) (d (n "structopt") (r "^0.3.23") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.20.3") (d #t) (k 0)))) (h "0f6r68h85mm030kjqb9fz61msb833paz9jr438s972fgp4nbvc3f")))
+

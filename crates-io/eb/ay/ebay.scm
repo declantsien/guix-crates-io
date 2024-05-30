@@ -1,0 +1,14 @@
+(define-module (crates-io eb ay ebay) #:use-module (crates-io))
+
+(define-public crate-ebay-0.1.0 (c (n "ebay") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "061cixqhblarqn19xrjc7d2wm6swa0hdwn2dgbbaghz0gzjwq1yr")))
+
+(define-public crate-ebay-0.1.1 (c (n "ebay") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "1yd4wx4s5da4ihgx3ydbfx9p99zy1h67km04wy37fyjcl3563fwm")))
+
+(define-public crate-ebay-0.1.2 (c (n "ebay") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "05jlj1ikxscbqpad61rhbbxc6f3ff6fl50lz4425p3m3792cp6sh")))
+
+(define-public crate-ebay-0.1.3 (c (n "ebay") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "13inq843m8bwgmys1jlv166phcgaw8z5cidv3sxs1l2ic0isbyd3")))
+
+(define-public crate-ebay-0.2.0 (c (n "ebay") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ebay_derive") (r "^0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)) (d (n "xmltree") (r "^0.8.0") (d #t) (k 0)))) (h "1hjz4cad6kjxzx2agvsv1r305wyq67bc6lqaqcscx2g3l9vrn6x2")))
+
+(define-public crate-ebay-0.1.4 (c (n "ebay") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "0bqbpxi44whj91c4jbdc4iiq063473mm6a8f94f0fdlpmc7mwax8")))
+

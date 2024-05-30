@@ -1,0 +1,8 @@
+(define-module (crates-io b3 -s b3-stable-structures) #:use-module (crates-io))
+
+(define-public crate-b3-stable-structures-0.5.7 (c (n "b3-stable-structures") (v "0.5.7") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ic-cdk") (r "^0.6.8") (d #t) (k 2)) (d (n "ic-cdk-macros") (r "^0.6.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3.1") (d #t) (k 2)))) (h "086wsbfpd0d750jvfi6w9g7x4jig9igc7vng52g43rf6529llxvg")))
+
+(define-public crate-b3-stable-structures-0.5.8 (c (n "b3-stable-structures") (v "0.5.8") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ic-cdk") (r "^0.6.8") (d #t) (k 2)) (d (n "ic-cdk-macros") (r "^0.6.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3.1") (d #t) (k 2)))) (h "0znm80cd5vz52p1hn8gss2rpfq1987id7730ch0isblqhgpdz0dv")))
+
+(define-public crate-b3-stable-structures-0.5.9 (c (n "b3-stable-structures") (v "0.5.9") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ic-cdk") (r "^0.10") (d #t) (k 2)) (d (n "ic0") (r "^0.18.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3.1") (d #t) (k 2)))) (h "1ykf8ivixn8s8ww4kn9h61kwzgph8nkg69gmaizcfqi7k6mnfjiy")))
+

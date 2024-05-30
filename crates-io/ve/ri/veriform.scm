@@ -1,0 +1,10 @@
+(define-module (crates-io ve ri veriform) #:use-module (crates-io))
+
+(define-public crate-veriform-0.0.0 (c (n "veriform") (v "0.0.0") (d (list (d (n "byteorder") (r "^0.5") (k 0)) (d (n "data-encoding") (r "^2.0.0-rc.1") (d #t) (k 2)) (d (n "leb128") (r "^0") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1pminbdn2hfzpbdhhzbs264gcyzb0p4phg99ri63fgdk214axzs8") (f (quote (("std") ("default" "std") ("bench"))))))
+
+(define-public crate-veriform-0.0.1 (c (n "veriform") (v "0.0.1") (d (list (d (n "vint64") (r "^0.2") (d #t) (k 0)))) (h "146vxs47v4mhhghsccamfqlx3bjcnpha64nf4bzyflp55khjyffj") (f (quote (("std" "alloc") ("default" "std") ("alloc"))))))
+
+(define-public crate-veriform-0.1.0 (c (n "veriform") (v "0.1.0") (d (list (d (n "digest") (r "^0.8") (k 0)) (d (n "displaydoc") (r "^0.1") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.8") (o #t) (k 0)) (d (n "tai64") (r "^3") (o #t) (k 0)) (d (n "uuid") (r "^0.8") (o #t) (k 0)) (d (n "veriform_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "vint64") (r "^1") (d #t) (k 0)))) (h "05xmhhivn1z6yrl96j7gi9ibglpbj5ss9f8qq78cjpqnnqism6jf") (f (quote (("std" "alloc") ("default" "builtins-std" "sha2" "veriform_derive") ("builtins-std" "std" "tai64/std" "uuid/std") ("builtins" "tai64" "uuid") ("alloc"))))))
+
+(define-public crate-veriform-0.2.0 (c (n "veriform") (v "0.2.0") (d (list (d (n "digest") (r "^0.8") (k 0)) (d (n "displaydoc") (r "^0.1") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.8") (o #t) (k 0)) (d (n "tai64") (r "^3") (o #t) (k 0)) (d (n "uuid") (r "^0.8") (o #t) (k 0)) (d (n "veriform_derive") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "vint64") (r "^1") (d #t) (k 0)))) (h "0gwmqpy3w1rzci312qxwxkrm49x9w14qfrg1j638mq5gr7kqhmy8") (f (quote (("std" "alloc") ("default" "builtins-std" "sha2" "veriform_derive") ("builtins-std" "std" "tai64/std" "uuid/std") ("builtins" "tai64" "uuid") ("alloc"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io #{3}# r rcx) #:use-module (crates-io))
+
+(define-public crate-rcx-0.0.0 (c (n "rcx") (v "0.0.0") (h "0i741pfp2w0xzb9jvpaz8c8qc6wzqsgxibk51lf0x83463ylbq2w")))
+
+(define-public crate-rcx-0.1.0 (c (n "rcx") (v "0.1.0") (d (list (d (n "askama") (r "^0.12") (d #t) (k 1)) (d (n "color-eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1ijd9chfvdrcdjrajaq7aghqw422s0xr06rf2i1lwwzwfx90q7ch") (f (quote (("usbtower") ("default" "usbtower")))) (s 2) (e (quote (("examples" "usbtower" "dep:color-eyre"))))))
+
+(define-public crate-rcx-0.1.1 (c (n "rcx") (v "0.1.1") (d (list (d (n "askama") (r "^0.12") (d #t) (k 1)) (d (n "color-eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0g2ylb8micsfwlgkpxzh98sjcw7wabdrmhvzv9qgwpfwya0qm40s") (f (quote (("usbtower") ("default" "usbtower")))) (s 2) (e (quote (("examples" "usbtower" "dep:color-eyre"))))))
+
+(define-public crate-rcx-0.1.2 (c (n "rcx") (v "0.1.2") (d (list (d (n "askama") (r "^0.12") (d #t) (k 1)) (d (n "color-eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "094c6gj2xfsilrlxa4f47w44crpw65kljnh3h0insdmlq0yf8zmn") (f (quote (("usbtower") ("default" "usbtower")))) (s 2) (e (quote (("examples" "usbtower" "dep:color-eyre"))))))
+
+(define-public crate-rcx-0.1.3 (c (n "rcx") (v "0.1.3") (d (list (d (n "askama") (r "^0.12") (d #t) (k 1)) (d (n "color-eyre") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0dy8aazrk4mkdsp2al0cplz0dx22gp7kz7f8irpf2hh2iv73f9xl") (f (quote (("usbtower") ("default" "usbtower")))) (s 2) (e (quote (("examples" "usbtower" "dep:color-eyre"))))))
+

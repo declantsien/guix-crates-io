@@ -1,0 +1,22 @@
+(define-module (crates-io ui ui uiuifree-text-data) #:use-module (crates-io))
+
+(define-public crate-uiuifree-text-data-0.1.0 (c (n "uiuifree-text-data") (v "0.1.0") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "0p9zbga177fkkn7l2s90b9x3j8nfj483yv9kaw6vyj4jbf8rvi9w")))
+
+(define-public crate-uiuifree-text-data-0.1.1 (c (n "uiuifree-text-data") (v "0.1.1") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "1g4672is0fdhyj6hk0cdbjh59xj0x4fflls1yp2vrr1c9k1b0dci")))
+
+(define-public crate-uiuifree-text-data-0.1.2 (c (n "uiuifree-text-data") (v "0.1.2") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "16ydi9hy1dfqb8wgjncc59qfmgg8kwfv85vm0s2lk40rwlpyfpg0")))
+
+(define-public crate-uiuifree-text-data-0.1.3 (c (n "uiuifree-text-data") (v "0.1.3") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "0dy3im8llsq1k31pshnx6h4qx2lma9pa82kpr1w14i00xw96634g")))
+
+(define-public crate-uiuifree-text-data-0.1.4 (c (n "uiuifree-text-data") (v "0.1.4") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "0kz114x47airhybh09dcxk5w421q5gwfby5zqmk4f7l408p6qzwl")))
+
+(define-public crate-uiuifree-text-data-0.1.5 (c (n "uiuifree-text-data") (v "0.1.5") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "1jl849ch5r504y140k40sjxmzppzdx4rn4rrhl2msf0zsqfd3kwl")))
+
+(define-public crate-uiuifree-text-data-0.1.6 (c (n "uiuifree-text-data") (v "0.1.6") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "1yzyyapjl1i9van9ggh72w0l511c4hn6k7vbvych6mfwzdi2swvq")))
+
+(define-public crate-uiuifree-text-data-0.1.7 (c (n "uiuifree-text-data") (v "0.1.7") (d (list (d (n "calamine") (r "^0.18.0") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "168rgq22hx7f86s4qxbjv0f529ims7q254yxf6f4vz4mimaibcqr")))
+
+(define-public crate-uiuifree-text-data-0.1.9 (c (n "uiuifree-text-data") (v "0.1.9") (d (list (d (n "calamine") (r "^0.21.2") (d #t) (k 0)) (d (n "csv") (r "^1.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "1bbr5s4s5mb6laqv4n68y8j3f4lsjxcgx5ghcpxhki3kf5j79i42")))
+
+(define-public crate-uiuifree-text-data-0.1.10 (c (n "uiuifree-text-data") (v "0.1.10") (d (list (d (n "calamine") (r "^0.21.2") (d #t) (k 0)) (d (n "csv") (r "^1.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uiuifree-normalize") (r "^0.1.1") (d #t) (k 0)))) (h "0cb3v7v3srlv6dqlb2n54r48i7y3a4zmcbr5z9zyc5fnk5ha0xah")))
+

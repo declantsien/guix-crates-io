@@ -1,0 +1,4 @@
+(define-module (crates-io li bo liboscore-cryptobackend) #:use-module (crates-io))
+
+(define-public crate-liboscore-cryptobackend-0.1.0 (c (n "liboscore-cryptobackend") (v "0.1.0") (d (list (d (n "aead") (r "^0.5") (k 0)) (d (n "aes") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "aes-gcm") (r "^0.10") (f (quote ("aes"))) (o #t) (k 0)) (d (n "ccm") (r "^0.5") (o #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10") (o #t) (k 0)) (d (n "crypto-common") (r "^0.1") (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "hkdf") (r "^0.12") (k 0)) (d (n "hmac") (r "^0.12") (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (k 0)) (d (n "typenum") (r "^1") (d #t) (k 0)))) (h "0nipwrkmsk5lqijh04bc9qm3ipj9xfn3qb77z95fvxfwfz96vc77") (f (quote (("log_cryptographic_operations_including_secret_keys" "log") ("aes-ccm" "ccm" "aes"))))))
+

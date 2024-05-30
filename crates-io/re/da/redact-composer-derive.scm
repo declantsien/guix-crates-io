@@ -1,0 +1,8 @@
+(define-module (crates-io re da redact-composer-derive) #:use-module (crates-io))
+
+(define-public crate-redact-composer-derive-0.1.0 (c (n "redact-composer-derive") (v "0.1.0") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("full"))) (d #t) (k 0)) (d (n "typetag") (r "^0.2.14") (o #t) (d #t) (k 0)) (d (n "typetag") (r "^0.2.14") (d #t) (k 2)))) (h "0v60rl5nkvmj8iaclz9jzv4w1qsg324dxbhxjrzx0ja0jni5924w") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:typetag"))))))
+
+(define-public crate-redact-composer-derive-0.1.1 (c (n "redact-composer-derive") (v "0.1.1") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("full"))) (d #t) (k 0)) (d (n "typetag") (r "^0.2.14") (o #t) (d #t) (k 0)) (d (n "typetag") (r "^0.2.14") (d #t) (k 2)))) (h "17hpripljn86yxrq2yw6j4lhc7zdysbhwzn0fnra7z5gmckrf2hi") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:typetag"))))))
+
+(define-public crate-redact-composer-derive-0.1.2 (c (n "redact-composer-derive") (v "0.1.2") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.71") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.43") (f (quote ("full"))) (d #t) (k 0)) (d (n "typetag") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 2)))) (h "0piai2nrbwbk50f5kh412lgmrq9crgdqgww9m7y7jd4l9a9f7m3l") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:typetag"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ta ur tauri_elm) #:use-module (crates-io))
+
+(define-public crate-tauri_elm-0.1.0 (c (n "tauri_elm") (v "0.1.0") (d (list (d (n "directories") (r "^4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tauri") (r "^1.2.2") (d #t) (k 0)) (d (n "tauri-build") (r "^1.2.1") (d #t) (k 1)))) (h "0f8jhphzadma9b4dbk7dhsqx9076z7xgsfvxs76h789yi1lgfjzj") (f (quote (("default" "custom-protocol") ("custom-protocol" "tauri/custom-protocol")))) (r "1.59")))
+
+(define-public crate-tauri_elm-0.1.1 (c (n "tauri_elm") (v "0.1.1") (d (list (d (n "directories") (r "^4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tauri") (r "^1.2.2") (d #t) (k 0)) (d (n "tauri-build") (r "^1.2.1") (d #t) (k 1)))) (h "1iwmgq2cx5rhyiw72jrar5swyg3655ns8midzg37hq0h998hkahd") (f (quote (("default" "custom-protocol") ("custom-protocol" "tauri/custom-protocol")))) (r "1.59")))
+
+(define-public crate-tauri_elm-0.1.2 (c (n "tauri_elm") (v "0.1.2") (d (list (d (n "directories") (r "^4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tauri") (r "^1.2.2") (d #t) (k 0)) (d (n "tauri-build") (r "^1.2.1") (d #t) (k 1)))) (h "0rqv575m59navn41g0gp2wvrw5a4dd648zrvr00dpgmbzc4qiab0") (r "1.59")))
+

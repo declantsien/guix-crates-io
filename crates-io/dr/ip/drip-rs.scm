@@ -1,0 +1,4 @@
+(define-module (crates-io dr ip drip-rs) #:use-module (crates-io))
+
+(define-public crate-drip-rs-1.0.0 (c (n "drip-rs") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.60") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.60") (d #t) (k 1)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_complete") (r "^3.2.4") (d #t) (k 0)) (d (n "clap_complete") (r "^3.2.4") (d #t) (k 1)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.0.3") (d #t) (k 0)) (d (n "question") (r "^0.2.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "03w17q4bpgzrj4rn91kgfmjg519wrgpaz6g2if5a6i3icwkdvf04")))
+

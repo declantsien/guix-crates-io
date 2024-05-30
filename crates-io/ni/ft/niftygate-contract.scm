@@ -1,0 +1,4 @@
+(define-module (crates-io ni ft niftygate-contract) #:use-module (crates-io))
+
+(define-public crate-niftygate-contract-0.8.0 (c (n "niftygate-contract") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "async-std") (r "^1.11.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "ethcontract") (r "^0.17.0") (f (quote ("derive" "ws-async-std" "ws-tls-async-std"))) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "niftygate-bindings") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tide") (r "^0.16.0") (d #t) (k 0)))) (h "1p54419yclkkqq8y1qpf4h9gci0lx9c8z6irxr5m3xhh1mgrqv8c")))
+

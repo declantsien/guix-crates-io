@@ -1,0 +1,4 @@
+(define-module (crates-io pr og progpow) #:use-module (crates-io))
+
+(define-public crate-progpow-0.1.0 (c (n "progpow") (v "0.1.0") (d (list (d (n "bigint") (r "^4.4.1") (d #t) (k 0)) (d (n "bindgen") (r "^0.37.0") (d #t) (k 1)) (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "cmake") (r "^0.1.40") (d #t) (k 1)) (d (n "dirs") (r "^1.0.3") (d #t) (k 0)) (d (n "filetime") (r "^0.2") (d #t) (k 1)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2.58") (d #t) (k 0)) (d (n "progpow_cpu") (r "^0.1.0") (d #t) (k 0)) (d (n "progpow_gpu_cuda") (r "^0.1.0") (f (quote ("cuda"))) (o #t) (d #t) (k 0) (p "stack_test_progpow_gpu")) (d (n "progpow_gpu_opencl") (r "^0.1.0") (f (quote ("opencl"))) (o #t) (d #t) (k 0) (p "stack_test_progpow_gpu")))) (h "1hpg09ikpdphp1ia7h2kq60izp9vnn43wdvndc0hjhfm8xajc327") (f (quote (("opencl" "progpow_gpu_opencl") ("cuda" "progpow_gpu_cuda"))))))
+

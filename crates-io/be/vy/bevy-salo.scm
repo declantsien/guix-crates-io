@@ -1,0 +1,6 @@
+(define-module (crates-io be vy bevy-salo) #:use-module (crates-io))
+
+(define-public crate-bevy-salo-0.1.0 (c (n "bevy-salo") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bevy_app") (r "^0.12") (o #t) (k 0)) (d (n "bevy_ecs") (r "^0.12") (k 0)) (d (n "bevy_hierarchy") (r "^0.12") (d #t) (k 0)) (d (n "postcard") (r "^1") (f (quote ("alloc" "use-std"))) (o #t) (k 0)) (d (n "ron") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "03ajza43q7xfxx5s99gdid7crwa55c6hdyf2jj7md2wb6qz479fx") (f (quote (("fs") ("default" "bevy_app" "fs")))) (y #t)))
+
+(define-public crate-bevy-salo-0.1.1 (c (n "bevy-salo") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bevy_app") (r "^0.12") (o #t) (k 0)) (d (n "bevy_ecs") (r "^0.12") (k 0)) (d (n "bevy_hierarchy") (r "^0.12") (d #t) (k 0)) (d (n "postcard") (r "^1") (f (quote ("alloc" "use-std"))) (o #t) (k 0)) (d (n "ron") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0r6im7z02p7rjz0m73ldb4cb6njw4xsdwn4s8mjr5n3bq9mal7vw") (f (quote (("fs") ("default" "bevy_app" "fs")))) (y #t)))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pa rt partition-sim) #:use-module (crates-io))
+
+(define-public crate-partition-sim-0.1.0 (c (n "partition-sim") (v "0.1.0") (d (list (d (n "axum") (r "^0.6.4") (f (quote ("http2" "headers" "macros"))) (d #t) (k 0)) (d (n "axum-macros") (r "^0.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "local-ip-address") (r "^0.5.1") (d #t) (k 0)) (d (n "openssh") (r "^0.9.9") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.13.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("fast-rng" "v4"))) (d #t) (k 0)))) (h "15xdlkkbcmqqiax8hfnlqzccyakhvzkkszdb5gb6090ba541nyll")))
+

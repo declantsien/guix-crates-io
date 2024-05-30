@@ -1,0 +1,12 @@
+(define-module (crates-io cb or cbor-smol) #:use-module (crates-io))
+
+(define-public crate-cbor-smol-0.1.0 (c (n "cbor-smol") (v "0.1.0") (d (list (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "heapless") (r "^0.5.6") (d #t) (k 0)) (d (n "heapless") (r "^0.5.6") (f (quote ("serde"))) (d #t) (k 2)) (d (n "heapless-bytes") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 2)))) (h "05f889qg4bqyd9ggc7353fm4w9b13kbb19vlm7ppawqabnnf0h8j")))
+
+(define-public crate-cbor-smol-0.2.0 (c (n "cbor-smol") (v "0.2.0") (d (list (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "heapless") (r "^0.6") (d #t) (k 0)) (d (n "heapless") (r "^0.6") (f (quote ("serde"))) (d #t) (k 2)) (d (n "heapless-bytes") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 2)))) (h "0pim6ni1sz0i9r1vlnwmxdfk2hmzfndpzq7ds4kdjfmkxiq4mzkf")))
+
+(define-public crate-cbor-smol-0.3.0 (c (n "cbor-smol") (v "0.3.0") (d (list (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "heapless") (r "^0.6") (d #t) (k 0)) (d (n "heapless") (r "^0.6") (f (quote ("serde"))) (d #t) (k 2)) (d (n "heapless-bytes") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 2)))) (h "17kis3hdwl5rsdm21vjxwip4j83dj5ad7p09p5b7h9wd6wxfr5zn")))
+
+(define-public crate-cbor-smol-0.3.1 (c (n "cbor-smol") (v "0.3.1") (d (list (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "heapless") (r "^0.6") (d #t) (k 0)) (d (n "heapless") (r "^0.6") (f (quote ("serde"))) (d #t) (k 2)) (d (n "heapless-bytes") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 2)))) (h "0p0rsn2v6s80yg6sy9hwk5npp5k1ir67k09bqvchybyplfqyzlqv") (f (quote (("log-warn") ("log-none") ("log-info") ("log-error") ("log-debug") ("log-all"))))))
+
+(define-public crate-cbor-smol-0.4.0 (c (n "cbor-smol") (v "0.4.0") (d (list (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (f (quote ("serde"))) (d #t) (k 2)) (d (n "heapless-bytes") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 2)))) (h "0jfzwm77m98qp9fqspzhiv80yhrk80i473q2avhmxz6magiy65nm") (f (quote (("log-warn") ("log-none") ("log-info") ("log-error") ("log-debug") ("log-all"))))))
+

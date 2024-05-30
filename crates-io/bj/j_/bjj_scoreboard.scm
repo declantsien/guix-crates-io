@@ -1,0 +1,8 @@
+(define-module (crates-io bj j_ bjj_scoreboard) #:use-module (crates-io))
+
+(define-public crate-bjj_scoreboard-0.1.0 (c (n "bjj_scoreboard") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "eframe") (r "^0.22.0") (d #t) (k 0)) (d (n "egui_extras") (r "^0.22.0") (f (quote ("svg"))) (d #t) (k 0)) (d (n "egui_grid") (r "^0.2.0") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "1zlipax8pzz7x888qlxpy3jl0kr2c00agxdw1afp6psmvzsjswkx")))
+
+(define-public crate-bjj_scoreboard-0.1.1 (c (n "bjj_scoreboard") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "eframe") (r "^0.22.0") (d #t) (k 0)) (d (n "egui_extras") (r "^0.22.0") (f (quote ("svg"))) (d #t) (k 0)) (d (n "egui_grid") (r "^0.2.0") (d #t) (k 0)) (d (n "rodio") (r "^0.17.1") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "12gsnck2rphaax4xkql86l3rzyir46z8l36zz20wm3n69ap3850a")))
+
+(define-public crate-bjj_scoreboard-0.1.2 (c (n "bjj_scoreboard") (v "0.1.2") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "egui-multiwin") (r "^0.1.7") (d #t) (k 0)) (d (n "egui_extras") (r "^0.22.0") (f (quote ("svg"))) (d #t) (k 0)) (d (n "fake") (r "^2.6.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)))) (h "1h91jlj7bv42q6lr3jic7j1ngvqc51n1hbn35mpagbwnlxbyq914")))
+

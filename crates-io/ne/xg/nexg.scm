@@ -1,0 +1,6 @@
+(define-module (crates-io ne xg nexg) #:use-module (crates-io))
+
+(define-public crate-nexg-0.1.0 (c (n "nexg") (v "0.1.0") (d (list (d (n "ash") (r "^0.37") (f (quote ("linked"))) (d #t) (k 0)) (d (n "ash-window") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 2)) (d (n "png") (r "^0.17.11") (d #t) (k 2)) (d (n "raw-window-handle") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "simple_logger") (r "^4.3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winit") (r "^0.28.7") (d #t) (k 2)))) (h "19z0hi88jd0k3gz3jwzw7sl7spqwlla5djgrw244gwxlxdd3ln3r") (f (quote (("window" "ash-window" "raw-window-handle") ("default" "window"))))))
+
+(define-public crate-nexg-0.1.1 (c (n "nexg") (v "0.1.1") (d (list (d (n "ash") (r "^0.37") (f (quote ("linked"))) (d #t) (k 0)) (d (n "ash-window") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "nalgebra-glm") (r "^0.18.0") (d #t) (k 2)) (d (n "png") (r "^0.17.11") (d #t) (k 2)) (d (n "raw-window-handle") (r "^0.5.2") (o #t) (d #t) (k 0)) (d (n "simple_logger") (r "^4.3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winit") (r "^0.28.7") (d #t) (k 2)))) (h "0vlnijqra0nahlnbr55ckhaqwmgninc6v87lrpqj6cdiphfh3jnw") (f (quote (("window" "ash-window" "raw-window-handle") ("default" "window"))))))
+

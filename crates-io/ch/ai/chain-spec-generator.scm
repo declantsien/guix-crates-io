@@ -1,0 +1,4 @@
+(define-module (crates-io ch ai chain-spec-generator) #:use-module (crates-io))
+
+(define-public crate-chain-spec-generator-13.0.1-beta.196 (c (n "chain-spec-generator") (v "13.0.1-beta.196") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "ipnetwork") (r "^0.17.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "insta") (r "=1.6.3") (f (quote ("redactions"))) (d #t) (k 2)) (d (n "mockall") (r "^0.9.1") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.10") (d #t) (k 2)))) (h "10kwman19vfhys31275i738pas8b22jsd1xn158v12dfc70cpf0z")))
+

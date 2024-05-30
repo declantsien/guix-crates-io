@@ -1,0 +1,8 @@
+(define-module (crates-io cu ff cufft_rust) #:use-module (crates-io))
+
+(define-public crate-cufft_rust-0.4.2 (c (n "cufft_rust") (v "0.4.2") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.24") (d #t) (t "cfg(unix)") (k 1)))) (h "0zj3yg2ff825894i2scvkvl2l0ipvf6z76dyiz3pmxv2lxcgxzpw")))
+
+(define-public crate-cufft_rust-0.5.0 (c (n "cufft_rust") (v "0.5.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.24") (d #t) (t "cfg(unix)") (k 1)))) (h "0fg32jfsy9mc3mp9y7wzpwh9f3i9bzr1qqln2hjr4d699sgh4rl0") (y #t)))
+
+(define-public crate-cufft_rust-0.6.0 (c (n "cufft_rust") (v "0.6.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "drop_guard") (r "^0.3.0") (d #t) (k 0)) (d (n "fastrand") (r "^1.6") (d #t) (k 2)) (d (n "num-complex") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.24") (d #t) (t "cfg(unix)") (k 1)))) (h "0sn26508am5777w8mmrzsfkhmvdvp0kc6wkrx6pkmzm805ifm1kj")))
+

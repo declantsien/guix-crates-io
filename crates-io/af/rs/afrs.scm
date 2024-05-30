@@ -1,0 +1,8 @@
+(define-module (crates-io af rs afrs) #:use-module (crates-io))
+
+(define-public crate-afrs-0.1.0 (c (n "afrs") (v "0.1.0") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "00iszaz02kq8ssh9amzq6d6kf1a8x0raw6q1kj5phqzwv3piiyrv") (f (quote (("bin_deps" "structopt" "serde_json")))) (y #t)))
+
+(define-public crate-afrs-0.1.1 (c (n "afrs") (v "0.1.1") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "1d0aqj5y1frn75l0i4ka0i5nc6fd32xzk8lawqf29lpg0lsvjg1n") (f (quote (("bin_deps" "structopt" "serde_json"))))))
+
+(define-public crate-afrs-0.1.2 (c (n "afrs") (v "0.1.2") (d (list (d (n "gjson") (r "^0.8.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "1df741v733zk7l1c4lnm4992wvaxf72slbqbc82bm8n77y49nx0p") (f (quote (("bin_deps" "structopt" "serde_json"))))))
+

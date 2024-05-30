@@ -1,0 +1,10 @@
+(define-module (crates-io gf x_ gfx_draping) #:use-module (crates-io))
+
+(define-public crate-gfx_draping-0.1.0 (c (n "gfx_draping") (v "0.1.0") (d (list (d (n "camera_controllers") (r "^0.22") (d #t) (k 2)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "piston_window") (r "^0.70") (d #t) (k 2)) (d (n "vecmath") (r "^0.3") (d #t) (k 2)))) (h "0si87k1bm69hy4ykdvqflprjrcyf1r7fvxiwcsl0c4dmp62aksaa")))
+
+(define-public crate-gfx_draping-0.2.0 (c (n "gfx_draping") (v "0.2.0") (d (list (d (n "camera_controllers") (r "^0.22") (d #t) (k 2)) (d (n "cgmath") (r "^0.15") (d #t) (k 2)) (d (n "fps_counter") (r "^0.2") (d #t) (k 2)) (d (n "geo") (r "^0.6") (d #t) (k 0)) (d (n "geo") (r "^0.6") (d #t) (k 2)) (d (n "geojson") (r "^0.9") (d #t) (k 2)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_text") (r "^0.18") (d #t) (k 2)) (d (n "piston_window") (r "^0.70") (d #t) (k 2)) (d (n "vecmath") (r "^0.3") (d #t) (k 2)))) (h "1h6v4jd06ri4a7g378xspylrhp863za0ri445776lb19z36ywd9v")))
+
+(define-public crate-gfx_draping-0.2.1 (c (n "gfx_draping") (v "0.2.1") (d (list (d (n "camera_controllers") (r "^0.22") (d #t) (k 2)) (d (n "cgmath") (r "^0.15") (d #t) (k 2)) (d (n "fps_counter") (r "^0.2") (d #t) (k 2)) (d (n "geo") (r "^0.6") (d #t) (k 0)) (d (n "geo") (r "^0.6") (d #t) (k 2)) (d (n "geojson") (r "^0.9") (d #t) (k 2)) (d (n "gfx") (r "^0.16") (d #t) (k 0)) (d (n "gfx_text") (r "^0.18") (d #t) (k 2)) (d (n "piston_window") (r "^0.70") (d #t) (k 2)) (d (n "vecmath") (r "^0.3") (d #t) (k 2)))) (h "0shqy0rhyp7g2rvvp45c2s0wl48kc8qfmqmvdy4zxj5104bzwd1y")))
+
+(define-public crate-gfx_draping-0.3.0 (c (n "gfx_draping") (v "0.3.0") (d (list (d (n "camera_controllers") (r "^0.22") (d #t) (k 2)) (d (n "cgmath") (r "^0.15") (d #t) (k 2)) (d (n "fps_counter") (r "^0.2") (d #t) (k 2)) (d (n "geo") (r "^0.6") (d #t) (k 0)) (d (n "geo") (r "^0.6") (d #t) (k 2)) (d (n "geojson") (r "^0.9") (d #t) (k 2)) (d (n "gfx") (r "^0.17") (d #t) (k 0)) (d (n "gfx_text") (r "^0.18") (d #t) (k 2)) (d (n "piston_window") (r "^0.70") (d #t) (k 2)) (d (n "vecmath") (r "^0.3") (d #t) (k 2)))) (h "1vhm6zk9jn65995823v8535cmwsxp5kp578xhag765d70r2bamrq")))
+

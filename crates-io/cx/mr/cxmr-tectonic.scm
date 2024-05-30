@@ -1,0 +1,4 @@
+(define-module (crates-io cx mr cxmr-tectonic) #:use-module (crates-io))
+
+(define-public crate-cxmr-tectonic-0.0.1 (c (n "cxmr-tectonic") (v "0.0.1") (d (list (d (n "bitflags") (r "^1.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "cxmr-balances") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-currency") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-exchanges") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-feeds") (r "^0.0.1") (d #t) (k 0)) (d (n "err-convert-macro") (r "^0.0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)))) (h "1ci0sk2s0p9j6q8f8w5q53wav52biirvs194dwhr5qwjr4yplvf1")))
+

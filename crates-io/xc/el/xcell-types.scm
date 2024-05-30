@@ -1,0 +1,10 @@
+(define-module (crates-io xc el xcell-types) #:use-module (crates-io))
+
+(define-public crate-xcell-types-0.0.0 (c (n "xcell-types") (v "0.0.0") (d (list (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "xcell-errors") (r "^0.1.0") (f (quote ("num" "bigdecimal" "chrono" "csscolorparser" "calamine"))) (d #t) (k 0)))) (h "18l39hjss8nkpxkwjn6nj9lrd0r9bcfdr9jsl5gfjyx733j9pfpi") (f (quote (("default"))))))
+
+(define-public crate-xcell-types-0.1.0 (c (n "xcell-types") (v "0.1.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-types") (r "^0.1.0") (d #t) (k 0)) (d (n "stream-io") (r "^0.0.0") (d #t) (k 0)) (d (n "vlq-rust") (r "^0.4.0") (d #t) (k 0)) (d (n "xcell-errors") (r "^0.1.0") (f (quote ("num" "bigdecimal" "chrono" "csscolorparser" "calamine" "serde_json"))) (d #t) (k 0)))) (h "1jr2377lf0bwaknp217kg7drhf7qvjhkalk0pwgpgn3vyiyphh9c") (f (quote (("default") ("csharp"))))))
+
+(define-public crate-xcell-types-0.2.0 (c (n "xcell-types") (v "0.2.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-types") (r "^0.1.1") (d #t) (k 0)) (d (n "stream-io") (r "^0.0.0") (d #t) (k 0)) (d (n "vlq-rust") (r "^0.4.0") (d #t) (k 0)) (d (n "xcell-errors") (r "^0.1.2") (f (quote ("num" "bigdecimal" "chrono" "csscolorparser" "calamine" "serde_json"))) (d #t) (k 0)))) (h "19m7dnaylng7qznfyxazchifa35gw5hq476y170fczh400nd6pqy") (f (quote (("default") ("csharp"))))))
+
+(define-public crate-xcell-types-0.2.1 (c (n "xcell-types") (v "0.2.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-types") (r "^0.1.1") (d #t) (k 0)) (d (n "stream-io") (r "^0.0.0") (d #t) (k 0)) (d (n "vlq-rust") (r "^0.4.0") (d #t) (k 0)) (d (n "xcell-errors") (r "^0.1.2") (f (quote ("num" "bigdecimal" "chrono" "csscolorparser" "calamine" "serde_json"))) (d #t) (k 0)))) (h "0gfszpc4xzag5bizsl80xxp26mdp6z8sk9l0fsv2qrv52618qgha") (f (quote (("default") ("csharp"))))))
+

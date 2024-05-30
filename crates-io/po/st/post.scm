@@ -1,0 +1,6 @@
+(define-module (crates-io po st post) #:use-module (crates-io))
+
+(define-public crate-post-0.1.0 (c (n "post") (v "0.1.0") (h "1rwkzwlmc8kglm1f6h98hfdx8ds4jps2799jjnhvlkfpaxyspn1x") (y #t)))
+
+(define-public crate-post-0.0.1-alpha.1 (c (n "post") (v "0.0.1-alpha.1") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.13.4") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "stream" "time" "rt-core" "sync" "io-std"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "stream" "time" "rt-core" "sync" "io-std" "process"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.3") (f (quote ("udp" "codec"))) (d #t) (k 0)) (d (n "tonic") (r "^0.3") (d #t) (k 0)) (d (n "tonic-build") (r "^0.3") (d #t) (k 1)))) (h "1lwz3vbvpx7g28jcl8h9daqwb8qifc3c1avzj3w7myya8pn94ima")))
+

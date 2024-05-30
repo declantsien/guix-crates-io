@@ -1,0 +1,38 @@
+(define-module (crates-io nd k- ndk-build) #:use-module (crates-io))
+
+(define-public crate-ndk-build-0.1.0 (c (n "ndk-build") (v "0.1.0") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "which") (r "^3.1.0") (d #t) (k 0)))) (h "06qbw3pn7mnc2n5pdh4bkvjxr0lcm2lms2p94y1racwpvqnd9bxd")))
+
+(define-public crate-ndk-build-0.1.1 (c (n "ndk-build") (v "0.1.1") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "which") (r "^3.1.0") (d #t) (k 0)))) (h "17lmw9vzcnn3jfl58i363j9vpacwal58yq51zfym9mpzl1s29qdw")))
+
+(define-public crate-ndk-build-0.1.2 (c (n "ndk-build") (v "0.1.2") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "which") (r "^4.0") (d #t) (k 0)))) (h "0zhzw89h2njls33zfy0bqicfrv66xsizg8lh4wkdajs7pzzcgqx4")))
+
+(define-public crate-ndk-build-0.1.3 (c (n "ndk-build") (v "0.1.3") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "which") (r "^4.0") (d #t) (k 0)))) (h "132hgqylq0bf79ab50lk9syhrh1i379lchx15bxkqya58y781p9h")))
+
+(define-public crate-ndk-build-0.1.4 (c (n "ndk-build") (v "0.1.4") (d (list (d (n "dirs") (r ">=2.0.2, <3.0.0") (d #t) (k 0)) (d (n "dunce") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "serde") (r ">=1.0.104, <2.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "which") (r ">=4.0.0, <5.0.0") (d #t) (k 0)))) (h "1z45xmz8gviqhxjyy0bvajzv14bdyxpxaw5iab7nk784aq52mp73")))
+
+(define-public crate-ndk-build-0.2.0 (c (n "ndk-build") (v "0.2.0") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "1y1zh0gcp5vyrmvjfspq9879b5l7255fl66ij6xm6y81pg8i974v")))
+
+(define-public crate-ndk-build-0.3.0 (c (n "ndk-build") (v "0.3.0") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "0yi37qjvl48q7lwzbckj7zpbrdjr8nw616arskvxrn8s2x8rnjp2")))
+
+(define-public crate-ndk-build-0.4.0 (c (n "ndk-build") (v "0.4.0") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "1l5pri3f0v267iq1brdfawzc152xly2dkbqw5qy6asafy6mc6gvs")))
+
+(define-public crate-ndk-build-0.4.1 (c (n "ndk-build") (v "0.4.1") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "0vxj8wmjgp34mglq56ackfg0hkhh6wmnq94a1mddkqynzp0qi0c8")))
+
+(define-public crate-ndk-build-0.4.2 (c (n "ndk-build") (v "0.4.2") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "1hxszwghary948s4skhqfiyy7ivcaxr4livr0akmzymvm2x7nqpw")))
+
+(define-public crate-ndk-build-0.4.3 (c (n "ndk-build") (v "0.4.3") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "0n96r25bfhkr8xdk0ld3nw02aiar4g9l3wrqjzj32jkl5xdsxb88")))
+
+(define-public crate-ndk-build-0.5.0 (c (n "ndk-build") (v "0.5.0") (d (list (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "dunce") (r "^1.0.1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "which") (r "^4.0.2") (d #t) (k 0)))) (h "0b37ra7i6fd50xpni86rxbld8qvm8d75drq9lllsdvbyl4k6x626")))
+
+(define-public crate-ndk-build-0.6.0 (c (n "ndk-build") (v "0.6.0") (d (list (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.23") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "which") (r "^4") (d #t) (k 0)))) (h "0k7n2w54xvgw7rijdszmlrix8d34fja7h4m4fs66wgqlxg4d768a")))
+
+(define-public crate-ndk-build-0.7.0 (c (n "ndk-build") (v "0.7.0") (d (list (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.23") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "which") (r "^4") (d #t) (k 0)))) (h "01dcb13nhwn3vr13nyvd1nq140p0g3l1z88pjwnikm8caqfqis6c")))
+
+(define-public crate-ndk-build-0.8.0 (c (n "ndk-build") (v "0.8.0") (d (list (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.23") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "which") (r "^4") (d #t) (k 0)))) (h "0kf7dfqkj0b6pmf12ahnl4hl457z8942yk6l07g4kx92521x14zl")))
+
+(define-public crate-ndk-build-0.8.1 (c (n "ndk-build") (v "0.8.1") (d (list (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.25") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "which") (r "^4") (d #t) (k 0)))) (h "0inpzaplgzf4drcb6ys15r993h6ghbwwk6pnhn847h7iym9md8m2") (y #t)))
+
+(define-public crate-ndk-build-0.9.0 (c (n "ndk-build") (v "0.9.0") (d (list (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.26") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "which") (r "^4") (d #t) (k 0)))) (h "0cf5k7v1c3qfwpsbqp1azsn3rg3arqq4imvisywn03xg38bxzhx1") (r "1.60")))
+
+(define-public crate-ndk-build-0.10.0 (c (n "ndk-build") (v "0.10.0") (d (list (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "quick-xml") (r "^0.26") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "which") (r "^4") (d #t) (k 0)))) (h "10wqcyam2rnam00039c6msksgc0r8d2lwn224nr3fwgn0vsqb0pk") (r "1.60")))
+

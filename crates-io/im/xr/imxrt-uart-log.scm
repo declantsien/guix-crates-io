@@ -1,0 +1,8 @@
+(define-module (crates-io im xr imxrt-uart-log) #:use-module (crates-io))
+
+(define-public crate-imxrt-uart-log-0.1.0 (c (n "imxrt-uart-log") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.6.2") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "imxrt-hal") (r "^0.3.0") (d #t) (k 0)) (d (n "imxrt-hal") (r "^0.3.0") (f (quote ("imxrt1062" "rt"))) (d #t) (t "thumbv7em-none-eabihf") (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)))) (h "11f7ls9fj3bbdshz6hy1gj00hjp3zrls9c8ihw0d94ay0ngv5dpz") (f (quote (("imxrt1062" "imxrt-hal/imxrt1062") ("default" "imxrt1062") ("byob"))))))
+
+(define-public crate-imxrt-uart-log-0.1.1 (c (n "imxrt-uart-log") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.6.2") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "imxrt-hal") (r "^0.3.0") (d #t) (k 0)) (d (n "imxrt-hal") (r "^0.3.0") (f (quote ("imxrt1062" "rt"))) (d #t) (t "thumbv7em-none-eabihf") (k 2)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)))) (h "1p908bhx73nnb1p7jqlxygiqyn0hjn553drc5wk5lpyj5kfmz6xb") (f (quote (("imxrt1062" "imxrt-hal/imxrt1062") ("default" "imxrt1062") ("byob"))))))
+
+(define-public crate-imxrt-uart-log-0.2.0 (c (n "imxrt-uart-log") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.6.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "imxrt-hal") (r "^0.4.0") (d #t) (k 0)) (d (n "imxrt-hal") (r "^0.4.0") (f (quote ("imxrt1062" "rt"))) (d #t) (t "thumbv7em-none-eabihf") (k 2)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)))) (h "0jzmy48yirhspkbsnx7dc8phg3s5v4xb5shdszi1gnagar6mh5av") (f (quote (("imxrt1062" "imxrt-hal/imxrt1062") ("default" "imxrt1062") ("byob"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ar c- arc-cli) #:use-module (crates-io))
+
+(define-public crate-arc-cli-0.1.0 (c (n "arc-cli") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "http") (r "^0.1.18") (d #t) (k 0)) (d (n "hyper") (r "^0.12.33") (d #t) (k 0)) (d (n "prost") (r "^0.5.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tower-grpc") (r "^0.1.0") (f (quote ("tower-hyper"))) (d #t) (k 0)) (d (n "tower-grpc-build") (r "^0.1.0") (f (quote ("tower-hyper"))) (d #t) (k 1)) (d (n "tower-hyper") (r "^0.1.1") (d #t) (k 0)) (d (n "tower-request-modifier") (r "^0.1.0") (d #t) (k 0)) (d (n "tower-service") (r "^0.2.0") (d #t) (k 0)) (d (n "tower-util") (r "^0.1.0") (d #t) (k 0)) (d (n "yansi") (r "^0.5.0") (d #t) (k 0)))) (h "0zchr125qxh3j5spfpbxv5caygx43z5y6j5g6lhp3bdr954xhj7c")))
+

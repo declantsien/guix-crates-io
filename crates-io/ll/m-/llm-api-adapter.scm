@@ -1,0 +1,16 @@
+(define-module (crates-io ll m- llm-api-adapter) #:use-module (crates-io))
+
+(define-public crate-llm-api-adapter-0.1.0 (c (n "llm-api-adapter") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "15ph6qnqg7fyqiqp27gzm4mn6hj48i17nkvq0iix9dq166k1lsag")))
+
+(define-public crate-llm-api-adapter-0.1.1 (c (n "llm-api-adapter") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1cs04gm5zz31c14vbkbw74drs5q787i0k6v6bkalvdwlgmm61s7y")))
+
+(define-public crate-llm-api-adapter-0.1.2 (c (n "llm-api-adapter") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1208lfgbmz3kwlnhwcynkpaj3139s1rwb36866az551hqc10kk5y")))
+
+(define-public crate-llm-api-adapter-0.1.3 (c (n "llm-api-adapter") (v "0.1.3") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1643jwy997q9pnn4l74dl1fcq8imh0f06fh0fl5jvh9948hbhbn2")))
+
+(define-public crate-llm-api-adapter-0.2.0 (c (n "llm-api-adapter") (v "0.2.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0lzpc6ca6s6vz2dyk861qyd7bvdw5fyg4ijgz8jhnipr9lvgh3lr")))
+
+(define-public crate-llm-api-adapter-0.2.1 (c (n "llm-api-adapter") (v "0.2.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0ay16si19pj3mvsyk4wi2qv415fqjnc928g3cyrdsvcgj6h4fgkx")))
+
+(define-public crate-llm-api-adapter-0.3.0 (c (n "llm-api-adapter") (v "0.3.0") (h "0ck87ma70wb3z16s29f0p6accdb74ax1b3jrmyaixakcbgg2ylm8")))
+

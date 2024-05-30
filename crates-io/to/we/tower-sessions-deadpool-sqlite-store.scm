@@ -1,0 +1,6 @@
+(define-module (crates-io to we tower-sessions-deadpool-sqlite-store) #:use-module (crates-io))
+
+(define-public crate-tower-sessions-deadpool-sqlite-store-0.1.0 (c (n "tower-sessions-deadpool-sqlite-store") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "deadpool") (r "^0.11.0") (d #t) (k 0)) (d (n "deadpool-sqlite") (r "^0.7.0") (f (quote ("tracing"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "tower-sessions") (r "^0.12.2") (d #t) (k 0)))) (h "1lmzykhcd2yh04b6nc8vr0jbdqnqix305av2z5y39bw12q2l8gv6")))
+
+(define-public crate-tower-sessions-deadpool-sqlite-store-0.1.1 (c (n "tower-sessions-deadpool-sqlite-store") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "deadpool") (r "^0.11.0") (d #t) (k 0)) (d (n "deadpool-sqlite") (r "^0.7.0") (f (quote ("tracing"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "tower-sessions") (r "^0.12.2") (d #t) (k 0)))) (h "1hpdvz6a1mdlz62cy7kbvmkf5djmrbx4647zjlb7g8x47czqcf9f")))
+

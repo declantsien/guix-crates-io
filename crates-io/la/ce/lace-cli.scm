@@ -1,0 +1,8 @@
+(define-module (crates-io la ce lace-cli) #:use-module (crates-io))
+
+(define-public crate-lace-cli-0.5.0 (c (n "lace-cli") (v "0.5.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "clap") (r "^4.3.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 1)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "indoc") (r "^2.0.3") (d #t) (k 2)) (d (n "lace") (r "^0.5.0") (f (quote ("formats" "ctrlc_handler"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.4") (d #t) (k 2)))) (h "1fz6jxcbb3z9zj3vv4chqiq8sda4y12kvv0n2nvwi30ab6isdgnl") (r "1.58.1")))
+
+(define-public crate-lace-cli-0.6.0 (c (n "lace-cli") (v "0.6.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "clap") (r "^4.3.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 1)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "indoc") (r "^2.0.3") (d #t) (k 2)) (d (n "lace") (r "^0.6.0") (f (quote ("formats" "ctrlc_handler"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.4") (d #t) (k 2)))) (h "0n4v76g7clhpdpgy3w5043vlx44n23kzv39gv6s05hvykfcg3g0y") (r "1.62.0")))
+
+(define-public crate-lace-cli-0.7.0 (c (n "lace-cli") (v "0.7.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "clap") (r "^4.3.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 1)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "indoc") (r "^2.0.3") (d #t) (k 2)) (d (n "lace") (r "^0.7.0") (f (quote ("formats" "ctrlc_handler"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.4") (d #t) (k 2)))) (h "1hssjplvgysic3whf50i5pk02qjpcjcxs5v085dr4djijbp2rws9") (r "1.62.0")))
+

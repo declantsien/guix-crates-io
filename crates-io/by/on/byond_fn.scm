@@ -1,0 +1,12 @@
+(define-module (crates-io by on byond_fn) #:use-module (crates-io))
+
+(define-public crate-byond_fn-0.1.0 (c (n "byond_fn") (v "0.1.0") (d (list (d (n "byond_fn_impl") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1k0cydzkvkyf7hh20gd4505szq972cdkkhd1ds71r4cnld4yy63x") (f (quote (("ffi_v2" "byond_fn_impl/ffi_v2") ("default" "json_transport") ("allow_other_arch" "byond_fn_impl/allow_other_arch")))) (s 2) (e (quote (("json_transport" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-byond_fn-0.2.0 (c (n "byond_fn") (v "0.2.0") (d (list (d (n "byond_fn_impl") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "19sldv9avgg4j11ffyjns3wj1acayldwghq3pbxkm438aaic9gia") (f (quote (("ffi_v2" "byond_fn_impl/ffi_v2") ("default" "json_transport") ("allow_other_arch" "byond_fn_impl/allow_other_arch")))) (s 2) (e (quote (("json_transport" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-byond_fn-0.3.0 (c (n "byond_fn") (v "0.3.0") (d (list (d (n "byond_fn_impl") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0vjr05vbngib05cgm6k0azr5q1cig7cdd2v2m4lbga95jrahxhry") (f (quote (("ffi_v2" "byond_fn_impl/ffi_v2") ("default" "json_transport") ("allow_other_arch" "byond_fn_impl/allow_other_arch")))) (s 2) (e (quote (("json_transport" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-byond_fn-0.4.0 (c (n "byond_fn") (v "0.4.0") (d (list (d (n "byond_fn_impl") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "030qylpxh0qcrawkdv487n27lbim84lassi0nnzdizbpmp2wal0q") (f (quote (("ffi_v2" "byond_fn_impl/ffi_v2") ("default" "json_transport") ("allow_other_arch" "byond_fn_impl/allow_other_arch")))) (s 2) (e (quote (("json_transport" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-byond_fn-0.5.1 (c (n "byond_fn") (v "0.5.1") (d (list (d (n "byond_fn_impl") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1xyhqd7d51f7pqi5jc74w66djcf8ckfnyvchnm2wi06yl55llg5b") (f (quote (("ffi_v2" "byond_fn_impl/ffi_v2") ("default" "json_transport") ("allow_other_arch" "byond_fn_impl/allow_other_arch")))) (s 2) (e (quote (("json_transport" "dep:serde" "dep:serde_json"))))))
+

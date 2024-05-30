@@ -1,0 +1,4 @@
+(define-module (crates-io bi nj binjs_io) #:use-module (crates-io))
+
+(define-public crate-binjs_io-0.2.1 (c (n "binjs_io") (v "0.2.1") (d (list (d (n "assert_matches") (r "^1.3") (d #t) (k 2)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "binjs_shared") (r "^0.1") (d #t) (k 0)) (d (n "brotli") (r "^3.1") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "derive_more") (r "^0.13.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lzw") (r "^0.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "range-encoding") (r "^0.1.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "vec_map") (r "^0.8") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "0g4wg84p0j6r79nvv416k7i61ali6zz004r88nbrg4g3icb7czmy")))
+

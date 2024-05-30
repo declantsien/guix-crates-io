@@ -1,0 +1,10 @@
+(define-module (crates-io sm al smalld_rust) #:use-module (crates-io))
+
+(define-public crate-smalld_rust-0.0.1 (c (n "smalld_rust") (v "0.0.1") (d (list (d (n "log") (r "^0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tungstenite") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("charset" "json"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1zkzk754k06fw6yhm8szk4rgl3kmcirwv28w44s2qp4k8kprjz01")))
+
+(define-public crate-smalld_rust-0.1.0 (c (n "smalld_rust") (v "0.1.0") (d (list (d (n "log") (r "^0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tungstenite") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("charset" "json"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0y5w2337mwbhsjbi38khmlnmr125142c31g57i16wn41mi506mkq")))
+
+(define-public crate-smalld_rust-0.1.1 (c (n "smalld_rust") (v "0.1.1") (d (list (d (n "log") (r "^0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tungstenite") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("charset" "json"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1hsczlp33xl8ghxvfz27wbqgwsapzx4s976p3d5m15rkqfsxqrsa")))
+
+(define-public crate-smalld_rust-0.2.0 (c (n "smalld_rust") (v "0.2.0") (d (list (d (n "log") (r "^0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tungstenite") (r "^0") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("charset" "json"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "10n2z5hl1bis3dgwa9l41inf0fpds4sdykicwf1dj0rsbn1apnjv")))
+

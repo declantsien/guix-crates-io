@@ -1,0 +1,8 @@
+(define-module (crates-io re di redis-cmd) #:use-module (crates-io))
+
+(define-public crate-redis-cmd-0.1.0 (c (n "redis-cmd") (v "0.1.0") (d (list (d (n "redis") (r "^0.23") (f (quote ("connection-manager" "cluster" "streams" "json" "tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "01iah1sqa2s0lw3wld219p7fal42avvdlpyxmmhi049qvf2flwg5") (f (quote (("single") ("default" "single") ("cluster"))))))
+
+(define-public crate-redis-cmd-0.1.1 (c (n "redis-cmd") (v "0.1.1") (d (list (d (n "redis") (r "^0.23") (f (quote ("connection-manager" "cluster" "streams" "json" "tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1jb4frsljrprmsi94vmjdd2drkvcjp2i27bqidrk7g58in2yjrj3") (f (quote (("single") ("default" "single") ("cluster"))))))
+
+(define-public crate-redis-cmd-0.1.2 (c (n "redis-cmd") (v "0.1.2") (d (list (d (n "redis") (r "^0.23") (f (quote ("connection-manager" "cluster" "streams" "json" "tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "111897bq7r7cph4cpsql2v2jx41f5s1p3k4sndffbralpgybjlck") (f (quote (("single") ("default" "single") ("cluster"))))))
+

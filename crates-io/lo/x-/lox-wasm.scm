@@ -1,0 +1,4 @@
+(define-module (crates-io lo x- lox-wasm) #:use-module (crates-io))
+
+(define-public crate-lox-wasm-0.1.0 (c (n "lox-wasm") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (f (quote ("serde" "wasmbind"))) (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1.7") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (f (quote ("js"))) (d #t) (k 0)) (d (n "js-sys") (r "^0.3.65") (d #t) (k 0)) (d (n "julianday") (r "^1.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lox-library") (r "^0.1.0") (d #t) (k 0)) (d (n "lox-zkp") (r "^0.8.0") (d #t) (k 0)) (d (n "lox_utils") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)))) (h "19wdnff1kq3hmwjgajx4xh21cgfzvzxcfnp3b7y2d7am2imy58a6")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io rs #{2-}# rs2-cache) #:use-module (crates-io))
+
+(define-public crate-rs2-cache-0.0.0 (c (n "rs2-cache") (v "0.0.0") (d (list (d (n "bzip2") (r "^0.4") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (k 0)) (d (n "osrs-bytes") (r "^0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0pp5h59nnywsbp10j184nip8kjn90l6fy1nva2marglx9x96xk8w")))
+
+(define-public crate-rs2-cache-0.1.0 (c (n "rs2-cache") (v "0.1.0") (d (list (d (n "bzip2") (r "^0.4") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.3") (f (quote ("raw_decoder"))) (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (k 0)) (d (n "osrs-bytes") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0fbrx9m3vnw58sbphcjnvxvd8zy6jzmh831s94rq5apq4invzns5")))
+
+(define-public crate-rs2-cache-0.2.0 (c (n "rs2-cache") (v "0.2.0") (d (list (d (n "bzip2") (r "^0.4") (d #t) (k 0)) (d (n "crc32fast") (r "^1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.3") (f (quote ("raw_decoder"))) (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (k 0)) (d (n "osrs-bytes") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "14igh3jkllhg6a152hnjrdb4pffsbqs8gfhaysahlxzg8f05qkqa")))
+
+(define-public crate-rs2-cache-0.3.0 (c (n "rs2-cache") (v "0.3.0") (d (list (d (n "bzip2") (r "^0.4") (d #t) (k 0)) (d (n "crc32fast") (r "^1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.3") (f (quote ("raw_decoder"))) (d #t) (k 0)) (d (n "memmap2") (r "^0.5") (d #t) (k 0)) (d (n "osrs-bytes") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1by1dy323zjzs17722j0js4lkwwnkpn1jqgk32n0xnxlg8fs9721")))
+

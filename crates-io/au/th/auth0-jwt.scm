@@ -1,0 +1,4 @@
+(define-module (crates-io au th auth0-jwt) #:use-module (crates-io))
+
+(define-public crate-auth0-jwt-0.1.0 (c (n "auth0-jwt") (v "0.1.0") (d (list (d (n "alcoholic_jwt") (r "^4091.0.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.60") (o #t) (d #t) (k 0)) (d (n "axum") (r "^0.6.1") (f (quote ("headers"))) (o #t) (d #t) (k 0)) (d (n "headers") (r "^0.3.8") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("rustls-tls" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0j38p8y66nxrp7lyqgcin4s7acaz1ddhxhf2vj5gsp3cwvirf3pk") (f (quote (("claims")))) (s 2) (e (quote (("axum" "dep:axum" "dep:headers" "dep:async-trait"))))))
+

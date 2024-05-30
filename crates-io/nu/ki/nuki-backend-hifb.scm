@@ -1,0 +1,6 @@
+(define-module (crates-io nu ki nuki-backend-hifb) #:use-module (crates-io))
+
+(define-public crate-nuki-backend-hifb-0.1.0 (c (n "nuki-backend-hifb") (v "0.1.0") (d (list (d (n "himpp") (r "^0.3") (d #t) (k 0)) (d (n "nuki") (r "^0.2") (d #t) (k 0)))) (h "06hqhd0kvn2anlcbaanvmcp0660z4ryvk2klvgix03c5bj3wfhri") (f (quote (("static-link" "himpp/static-link") ("hi3559av100" "himpp/hi3559av100" "himpp/hifb" "himpp/hitde" "himpp/mpi-sys") ("hi3531v100" "himpp/hi3531v100") ("hi3519av100" "himpp/hi3519av100") ("hi3518ev300" "himpp/hi3518ev300") ("hi3518ev200" "himpp/hi3518ev200") ("hi3516ev300" "himpp/hi3516ev300") ("hi3516ev200" "himpp/hi3516ev200") ("default"))))))
+
+(define-public crate-nuki-backend-hifb-0.2.0 (c (n "nuki-backend-hifb") (v "0.2.0") (d (list (d (n "himpp") (r "^0.3") (d #t) (k 0)) (d (n "nuki") (r "^0.3") (d #t) (k 0)))) (h "1g68ngyrgd9xhm3ar451h9xapw5mb5s0pcygfr21m982s3mvm6wx") (f (quote (("static-link" "himpp/static-link") ("hi3559av100" "himpp/hi3559av100" "himpp/hifb" "himpp/hitde" "himpp/mpi-sys") ("hi3531v100" "himpp/hi3531v100") ("hi3519av100" "himpp/hi3519av100") ("hi3518ev300" "himpp/hi3518ev300") ("hi3518ev200" "himpp/hi3518ev200") ("hi3516ev300" "himpp/hi3516ev300") ("hi3516ev200" "himpp/hi3516ev200") ("default"))))))
+

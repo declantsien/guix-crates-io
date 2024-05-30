@@ -1,0 +1,6 @@
+(define-module (crates-io pr an prandium) #:use-module (crates-io))
+
+(define-public crate-prandium-0.1.0 (c (n "prandium") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "02h5np47r9x06h0l6p7wlcdfw1lnqmdhss92kv0n93272v51kvjx")))
+
+(define-public crate-prandium-0.1.1 (c (n "prandium") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "10sa58nihxyhjjck1b0iagxfrrrl4swi9nhp1mf76nqd8m0j3kkq")))
+

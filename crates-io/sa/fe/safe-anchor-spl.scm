@@ -1,0 +1,4 @@
+(define-module (crates-io sa fe safe-anchor-spl) #:use-module (crates-io))
+
+(define-public crate-safe-anchor-spl-0.22.0 (c (n "safe-anchor-spl") (v "0.22.0") (d (list (d (n "safe-anchor-lang") (r "^0.22.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "safe-associated-token-account") (r "^1.0.10") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)) (d (n "safe-token") (r "^3.2.2") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)) (d (n "safecoin-program") (r "^1.8.12") (d #t) (k 0)) (d (n "serum_dex") (r "^0.4.0") (f (quote ("no-entrypoint"))) (o #t) (d #t) (k 0)))) (h "1ynshg5rh20mj3dwp6mbxb70bk2yzv2snq96q3r8r0h4ywqa7waa") (f (quote (("token" "safe-token") ("shmem") ("mint") ("governance") ("dex" "serum_dex") ("devnet") ("default" "mint" "token" "associated_token") ("associated_token" "safe-associated-token-account"))))))
+

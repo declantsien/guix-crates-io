@@ -1,0 +1,8 @@
+(define-module (crates-io ve lo velocity-tod) #:use-module (crates-io))
+
+(define-public crate-velocity-tod-0.1.0 (c (n "velocity-tod") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("macros" "local-offset"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "net" "io-util"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("tracing"))) (d #t) (k 0)))) (h "13hkbi6fmzgck3j30mrcs73ij5rmza6r45v5vzqx24pkf2cswrry") (y #t)))
+
+(define-public crate-velocity-tod-0.1.1 (c (n "velocity-tod") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("macros" "local-offset"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "macros" "net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("tracing"))) (d #t) (k 0)))) (h "1kwi7yzzy01vzhysbnds6a4nqim5xwgaadg0pm0r1srsxqkm7g8k") (y #t)))
+
+(define-public crate-velocity-tod-0.1.2 (c (n "velocity-tod") (v "0.1.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "time") (r "^0.3.36") (f (quote ("macros" "local-offset"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "macros" "net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("tracing"))) (d #t) (k 0)))) (h "1b1szspflbbv61v5j8vj92kd309b6bvgfs0s9nx8swp1qbxc06rl")))
+

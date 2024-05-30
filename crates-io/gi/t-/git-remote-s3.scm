@@ -1,0 +1,10 @@
+(define-module (crates-io gi t- git-remote-s3) #:use-module (crates-io))
+
+(define-public crate-git-remote-s3-0.1.1 (c (n "git-remote-s3") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^0.11") (d #t) (k 2)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_credential") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_s3") (r "^0.40.0") (f (quote ("rustls"))) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)))) (h "0fsdrx3yi2j6rxxsw1bqj121iv0m6qr0vmgpph8acni7bd0krq3i")))
+
+(define-public crate-git-remote-s3-0.1.2 (c (n "git-remote-s3") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^0.11") (d #t) (k 2)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_credential") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_s3") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)))) (h "1y8avll4n4q7x1m91jp28xam0hq8wrqbra9b9q69m2x98qmf17p8")))
+
+(define-public crate-git-remote-s3-0.1.3 (c (n "git-remote-s3") (v "0.1.3") (d (list (d (n "assert_cmd") (r "^0.11") (d #t) (k 2)) (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_credential") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_s3") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)))) (h "154jm0dacfd92jsn68zkb7nmm0ahpin4mwj5x38819bfx97jnjik")))
+
+(define-public crate-git-remote-s3-0.1.4 (c (n "git-remote-s3") (v "0.1.4") (d (list (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_credential") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_s3") (r "^0.42.0") (f (quote ("rustls"))) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^0.11") (d #t) (k 2)))) (h "1asx8c1k7jypqlakqarahdvk93n92bvjqminxxcs1p3vwcxsg8i6")))
+

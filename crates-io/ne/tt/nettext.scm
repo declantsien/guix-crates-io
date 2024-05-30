@@ -1,0 +1,26 @@
+(define-module (crates-io ne tt nettext) #:use-module (crates-io))
+
+(define-public crate-nettext-0.1.0 (c (n "nettext") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "blake2") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1iavp80xsp8w3mwpyr1kizcm263rwvff67xwaprw9ib358h5j984") (f (quote (("default" "blake2" "ed25519-dalek" "serde"))))))
+
+(define-public crate-nettext-0.1.1 (c (n "nettext") (v "0.1.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "blake2") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1w09ijch3vdsybpkg6gh372gikd0z221y7aqfpbv1mb014m53p7i") (f (quote (("default" "blake2" "ed25519-dalek" "serde"))))))
+
+(define-public crate-nettext-0.2.0 (c (n "nettext") (v "0.2.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1rfrqy2ik5rb5h3843k26glqx45mvinx5pyr0cmv62cyjd3z6zc4") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.2.1 (c (n "nettext") (v "0.2.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1gbhbddgdj2kj9bqdd9sg097pi1chpki34xwvawyzr8h978vwfh0") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.2.2 (c (n "nettext") (v "0.2.2") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "12m0avb132ng48z6br4k55ayamz5sjc9xcn1w0ib2jcsy7j9as5c") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.2.3 (c (n "nettext") (v "0.2.3") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0nypslnjd2rb23ay4bkg5pd9l388vc3ma5whcm4mypiwhvbfmrr3") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.3.0 (c (n "nettext") (v "0.3.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0kapqj4y4riac0h3p9w4yk3l828yw99rynig4xrr98gs9dlvnrqh") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.3.1 (c (n "nettext") (v "0.3.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1m5j1pbdi80v3wg1h7d5z00lj3aizpijp98v27f14j5ararmj2db") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.3.2 (c (n "nettext") (v "0.3.2") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0v6qvd71kjza7h67la5mxaar8h810lb6vvr3wvgrvzzg1mr7gimd") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.3.3 (c (n "nettext") (v "0.3.3") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "19d3d93xr4sdxkr04n2x4czrm770x06b35cw4cnlqx6rgm3k07xz") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.4.0 (c (n "nettext") (v "0.4.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "11c6kbxni1x0qzaw8h1r7q2982v8v772wf4d2m8yj0ib25saapnh") (f (quote (("default" "dryoc" "serde"))))))
+
+(define-public crate-nettext-0.4.1 (c (n "nettext") (v "0.4.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "dryoc") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "err-derive") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1hm8fjhr5hfvhh2prgwna782aqjwm4rjf4frglynaxz8s80mpjsa") (f (quote (("default" "dryoc" "serde"))))))
+

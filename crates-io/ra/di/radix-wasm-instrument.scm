@@ -1,0 +1,4 @@
+(define-module (crates-io ra di radix-wasm-instrument) #:use-module (crates-io))
+
+(define-public crate-radix-wasm-instrument-1.0.0 (c (n "radix-wasm-instrument") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "binaryen") (r "^0.12") (d #t) (k 2)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "diff") (r "^0.1") (d #t) (k 2)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "wabt") (r "^0.10.0") (d #t) (k 2)) (d (n "wasm-encoder") (r "^0.29.0") (d #t) (k 0)) (d (n "wasmi") (r "^0.29") (d #t) (k 2)) (d (n "wasmparser") (r "^0.107.0") (k 0)) (d (n "wasmprinter") (r "^0.2.59") (d #t) (k 0)) (d (n "wat") (r "^1.0.66") (d #t) (k 2)))) (h "1d3a2swy3pnsrara46ds6qq9js52xd1wl5lvbkfx6c03402i6plv") (f (quote (("std") ("ignore_custom_section") ("default" "std")))) (r "1.56.1")))
+

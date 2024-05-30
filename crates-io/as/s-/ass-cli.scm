@@ -1,0 +1,8 @@
+(define-module (crates-io as s- ass-cli) #:use-module (crates-io))
+
+(define-public crate-ass-cli-0.1.0 (c (n "ass-cli") (v "0.1.0") (d (list (d (n "ass-rs") (r "^0.8.1") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.8") (d #t) (k 0)) (d (n "ring") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)))) (h "1h7cbr44mv6pb8p1ididmm9rsgx1kk9gcgwqj0cmgfn6lklz548d")))
+
+(define-public crate-ass-cli-0.2.0 (c (n "ass-cli") (v "0.2.0") (d (list (d (n "ass-rs") (r "^2.0.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "derive_more") (r "0.15.*") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)))) (h "1z921lvywy1jlijzjnsys6s8j0c088xsxa5x52zgqw9nv6xl17sc")))
+
+(define-public crate-ass-cli-1.0.0 (c (n "ass-cli") (v "1.0.0") (d (list (d (n "ass-rs") (r "^3.0.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.15") (d #t) (k 0)) (d (n "dirs") (r "^1.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)) (d (n "termcolor") (r "^1.0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1np0d3naf2a0kl07xfd1614c7dzn2vzss1zxkakbad42f9wvh07b")))
+

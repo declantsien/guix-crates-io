@@ -1,0 +1,8 @@
+(define-module (crates-io an it aniterm) #:use-module (crates-io))
+
+(define-public crate-aniterm-0.1.0 (c (n "aniterm") (v "0.1.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.186") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0swpv31jx9ljdlv006c76j8i2hfq8rac1ghdvi53i087ljdib8yj")))
+
+(define-public crate-aniterm-0.1.1 (c (n "aniterm") (v "0.1.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.186") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1i2cgcy0zfk317b7crhn2gcw3f0g54fgnh1s0nwigyw3lrcp8zv3")))
+
+(define-public crate-aniterm-0.1.2 (c (n "aniterm") (v "0.1.2") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.186") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1nlcrsa91is3408vm693glaj0l246lll7fb1as6ymcdssa5psym9")))
+

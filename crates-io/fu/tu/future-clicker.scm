@@ -1,0 +1,6 @@
+(define-module (crates-io fu tu future-clicker) #:use-module (crates-io))
+
+(define-public crate-future-clicker-0.1.0 (c (n "future-clicker") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12") (f (quote ("arc_lock"))) (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("macros" "sync" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-test") (r "^0.2") (d #t) (k 2)))) (h "0h44qd4bxr5d33896jannnxkl7srivl267g57q76jv736n7sd3g7")))
+
+(define-public crate-future-clicker-0.1.1 (c (n "future-clicker") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12") (f (quote ("arc_lock"))) (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("macros" "sync" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-test") (r "^0.2") (d #t) (k 2)))) (h "1cwrk84pwi22ybiasvkr1jrxj5gmdy7hrk2i9vmm19brc5q0kjgr")))
+

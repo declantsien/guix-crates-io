@@ -1,0 +1,16 @@
+(define-module (crates-io zz ha zzhack) #:use-module (crates-io))
+
+(define-public crate-zzhack-0.0.1 (c (n "zzhack") (v "0.0.1") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)))) (h "1syxp4j3p4faj5cmv6r17p9v41rh62zwlqr5yaw9cl0s7ipr4f86")))
+
+(define-public crate-zzhack-0.1.0 (c (n "zzhack") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "1411zkjwnhlwi5i14ipzs7mnbymd6n2ax760gaf3jr8mjyba6gpd")))
+
+(define-public crate-zzhack-0.1.1 (c (n "zzhack") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "1xxal5qb5hnjkn25sqr44lc5zlzpjsgmfidnp36j93lg46bw01qi")))
+
+(define-public crate-zzhack-0.1.2 (c (n "zzhack") (v "0.1.2") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "04rh5mq74sa63fnip31ymyjzqfmlbkp6qf9b8zi4y99nayhwk225")))
+
+(define-public crate-zzhack-0.1.3 (c (n "zzhack") (v "0.1.3") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "1mprw5n71byzhs6salbvl7b1g046fywaz82qfx9zbxn657k86zqa")))
+
+(define-public crate-zzhack-0.1.4 (c (n "zzhack") (v "0.1.4") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "0nbxahj520vbfk3zjrxigadc8jz67pbpbpydrsmhh6aq0dp9a0sr")))
+
+(define-public crate-zzhack-0.1.5 (c (n "zzhack") (v "0.1.5") (d (list (d (n "clap") (r "^3.1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.5.0") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)))) (h "1nv9k6bgydvanjhgl09f20jdghnrp8f0xizq2clhgzrh81kbr6pb")))
+

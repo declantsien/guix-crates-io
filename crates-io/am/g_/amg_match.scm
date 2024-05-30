@@ -1,0 +1,4 @@
+(define-module (crates-io am g_ amg_match) #:use-module (crates-io))
+
+(define-public crate-amg_match-0.1.0 (c (n "amg_match") (v "0.1.0") (d (list (d (n "chrono") (r "^0") (d #t) (k 0)) (d (n "image") (r "^0") (d #t) (k 0)) (d (n "indexmap") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "nalgebra") (r "^0") (f (quote ("rand"))) (d #t) (k 0)) (d (n "nalgebra-sparse") (r "^0.9") (f (quote ("io" "serde-serialize"))) (d #t) (k 0)) (d (n "plotters") (r "^0.3.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0") (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0") (d #t) (k 0)) (d (n "strum") (r "^0") (d #t) (k 0)) (d (n "strum_macros") (r "^0") (d #t) (k 0)) (d (n "test-generator") (r "^0") (d #t) (k 2)))) (h "0ch50gl0a12w9qpab3c1d940jyi470gg2zkpj7d36j71bm4rf0p0")))
+

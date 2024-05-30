@@ -1,0 +1,6 @@
+(define-module (crates-io na ti native-to-anchor) #:use-module (crates-io))
+
+(define-public crate-native-to-anchor-0.1.0-alpha (c (n "native-to-anchor") (v "0.1.0-alpha") (d (list (d (n "anchor-syn") (r "^0.25.0") (f (quote ("idl"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0al5mz71i154jxmcrxbgdd3v4319jwl272c59c5rwgigwiv4lx60")))
+
+(define-public crate-native-to-anchor-0.1.0 (c (n "native-to-anchor") (v "0.1.0") (d (list (d (n "anchor-syn") (r "^0.25.0") (f (quote ("idl"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "0nypp2dxc2mwm2nvsm89ivrvs4w675rvkyz7gmkx2d0ssbvaf3m0")))
+

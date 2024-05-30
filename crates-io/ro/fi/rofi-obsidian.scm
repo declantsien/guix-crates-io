@@ -1,0 +1,12 @@
+(define-module (crates-io ro fi rofi-obsidian) #:use-module (crates-io))
+
+(define-public crate-rofi-obsidian-0.1.0 (c (n "rofi-obsidian") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0wdym1swckgn1pzibcvp0vlymppn7nknaimf5013pdvab5azdl90")))
+
+(define-public crate-rofi-obsidian-0.1.1 (c (n "rofi-obsidian") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "19d00l9jz714vg3v4dmiysmkgkdi6bkrkiwr3n7chcfdpxd0689a")))
+
+(define-public crate-rofi-obsidian-0.1.2 (c (n "rofi-obsidian") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1j61qlifj5gf7xxg521c3xqfwk499fqx4j4wd9lp8a7xax939iqp")))
+
+(define-public crate-rofi-obsidian-0.1.3 (c (n "rofi-obsidian") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "04lhvqdygqa6gv8jn3mp3lsvismynbm4s30a5cqg0xsshhvwdgxy")))
+
+(define-public crate-rofi-obsidian-0.1.4 (c (n "rofi-obsidian") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0vhv7y68v33h7yab8prqn9mc5rl9g6yz7msn8qmbhvacfw4qqvmk")))
+

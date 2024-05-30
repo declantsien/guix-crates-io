@@ -1,0 +1,4 @@
+(define-module (crates-io ed ge edge-voting) #:use-module (crates-io))
+
+(define-public crate-edge-voting-1.0.0 (c (n "edge-voting") (v "1.0.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0") (k 0)) (d (n "frame-system") (r "^2.0.0") (k 0)) (d (n "pallet-balances") (r "^2.0.0") (k 0)) (d (n "safe-mix") (r "^1.0") (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "sp-core") (r "^2.0.0") (k 2)) (d (n "sp-io") (r "^2.0.0") (k 2)) (d (n "sp-runtime") (r "^2.0.0") (k 0)) (d (n "sp-std") (r "^2.0.0") (k 0)))) (h "0m1g2kb0fdjilybvwkfva30sim1dnirm9qgw96jx54g7dv9a8zwf") (f (quote (("std" "serde" "safe-mix/std" "codec/std" "sp-std/std" "sp-runtime/std" "frame-support/std" "frame-system/std" "pallet-balances/std") ("default" "std"))))))
+

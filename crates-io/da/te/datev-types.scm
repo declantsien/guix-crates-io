@@ -1,0 +1,10 @@
+(define-module (crates-io da te datev-types) #:use-module (crates-io))
+
+(define-public crate-datev-types-0.1.0 (c (n "datev-types") (v "0.1.0") (d (list (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "validator") (r "^0.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)))) (h "1hv0pcz9z0wwhfl2l934ki7x0vl012aa3isbjgnbbw1dxm66gkif")))
+
+(define-public crate-datev-types-0.2.0 (c (n "datev-types") (v "0.2.0") (d (list (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "validator") (r "^0.14") (f (quote ("derive"))) (d #t) (k 0)))) (h "1f3gp2wwin9kfqaipld94y4rnllifk2jwqgp2smfxzab6i6s832m")))
+
+(define-public crate-datev-types-0.3.0 (c (n "datev-types") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "validator") (r "^0.14") (f (quote ("derive"))) (d #t) (k 0)))) (h "1kbymqi63cinsfjl0gs18cphpw9ljmdypnxrqwg8ix7f6snbqw2b")))
+
+(define-public crate-datev-types-0.4.0 (c (n "datev-types") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "validator") (r "^0.14") (f (quote ("derive"))) (d #t) (k 0)))) (h "13mmzdcmia9419l2wcqvv0iv0mscx7lxdqk20wp35plc0r6s39m5")))
+

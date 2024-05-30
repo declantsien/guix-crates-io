@@ -1,0 +1,10 @@
+(define-module (crates-io fe tc fetch-data) #:use-module (crates-io))
+
+(define-public crate-fetch-data-0.1.3 (c (n "fetch-data") (v "0.1.3") (d (list (d (n "base16ct") (r "^0.1.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ctor") (r "^0.1.22") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "1bkvgsbc58nv5g31g77vhvpbbczglhbxfyw0mllfqcjrjzrr92gv")))
+
+(define-public crate-fetch-data-0.1.4 (c (n "fetch-data") (v "0.1.4") (d (list (d (n "base16ct") (r "^0.1.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ctor") (r "^0.1.22") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "18cs6f2hfib89kkbm2i51fqi70w8innm4686fpkybbzs343skmr6")))
+
+(define-public crate-fetch-data-0.1.5 (c (n "fetch-data") (v "0.1.5") (d (list (d (n "anyinput") (r "^0.1.4") (d #t) (k 0)) (d (n "base16ct") (r "^0.1.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ctor") (r "^0.1.22") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "1vxh37xmbgnb38zdzjp8zz904j59qh7bxjgipmpm6f3rzasrr7y3")))
+
+(define-public crate-fetch-data-0.1.6 (c (n "fetch-data") (v "0.1.6") (d (list (d (n "anyinput") (r "^0.1.6") (d #t) (k 0)) (d (n "base16ct") (r "^0.1.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ctor") (r "^0.1.22") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "ureq") (r "^2.4.0") (d #t) (k 0)))) (h "0wp3y7dplab0x1hwgvma3lzrs07kaa3vg4bd20vgdmbbhh7gv7p7")))
+

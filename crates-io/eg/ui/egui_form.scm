@@ -1,0 +1,6 @@
+(define-module (crates-io eg ui egui_form) #:use-module (crates-io))
+
+(define-public crate-egui_form-0.1.0 (c (n "egui_form") (v "0.1.0") (d (list (d (n "eframe") (r "^0.27.0") (f (quote ("default"))) (k 2)) (d (n "egui") (r "^0.27.0") (k 0)) (d (n "garde") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "garde") (r "^0.18.0") (f (quote ("email" "derive"))) (d #t) (k 2)) (d (n "validator") (r "^0.18.1") (o #t) (d #t) (k 0)) (d (n "validator") (r "^0.18.1") (f (quote ("derive"))) (d #t) (k 2)))) (h "19a7vks4qn1pcv6nj3pn2ga81qd3z93lpdvmzq7n9qqjcw36jspv") (s 2) (e (quote (("validator_validator" "dep:validator") ("validator_garde" "dep:garde"))))))
+
+(define-public crate-egui_form-0.1.1 (c (n "egui_form") (v "0.1.1") (d (list (d (n "eframe") (r "^0.27.0") (f (quote ("default"))) (k 2)) (d (n "egui") (r "^0.27.0") (k 0)) (d (n "garde") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "garde") (r "^0.18.0") (f (quote ("email" "derive"))) (d #t) (k 2)) (d (n "validator") (r "^0.18.1") (o #t) (d #t) (k 0)) (d (n "validator") (r "^0.18.1") (f (quote ("derive"))) (d #t) (k 2)))) (h "1xk09k4wayzhrd49k2fbfkjjhaqqklprqnri0f96pc6n71p9mkyg") (s 2) (e (quote (("validator_validator" "dep:validator") ("validator_garde" "dep:garde"))))))
+

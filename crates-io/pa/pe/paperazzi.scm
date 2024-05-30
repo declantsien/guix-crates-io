@@ -1,0 +1,6 @@
+(define-module (crates-io pa pe paperazzi) #:use-module (crates-io))
+
+(define-public crate-paperazzi-0.1.0 (c (n "paperazzi") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.5") (f (quote ("derive" "color" "suggestions"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "select") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "webbrowser") (r "^0.8") (d #t) (k 0)))) (h "16vxn4619salv6j70ss2x77gfqmsmnxg3hbi03bs0pjkbvb0grrv")))
+
+(define-public crate-paperazzi-0.1.1 (c (n "paperazzi") (v "0.1.1") (d (list (d (n "clap") (r "^3.0.5") (f (quote ("derive" "color" "suggestions"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "select") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "webbrowser") (r "^0.8") (d #t) (k 0)))) (h "0jnddmf8w1bgcwd33z99lwpzkijy82akvm708g864hl206c8p19z")))
+

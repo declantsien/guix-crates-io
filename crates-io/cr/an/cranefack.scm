@@ -1,0 +1,14 @@
+(define-module (crates-io cr an cranefack) #:use-module (crates-io))
+
+(define-public crate-cranefack-0.1.0 (c (n "cranefack") (v "0.1.0") (d (list (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "cranelift") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-native") (r "^0.74.0") (d #t) (k 0)))) (h "13grbycr0hf218hgxjskhs4xi3aaljzlvwwk9b5lj4k9xdcjr3xc")))
+
+(define-public crate-cranefack-0.2.0 (c (n "cranefack") (v "0.2.0") (d (list (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "cranelift") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.74.0") (d #t) (k 0)) (d (n "cranelift-native") (r "^0.74.0") (d #t) (k 0)))) (h "08v70n6qg9nrkx4pj0nql6l765rqpnji04m4m9yshp8fzg29x0mw")))
+
+(define-public crate-cranefack-0.3.0 (c (n "cranefack") (v "0.3.0") (d (list (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "cranelift") (r "^0.75.0") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.75.0") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.75.0") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.75.0") (d #t) (k 0)) (d (n "cranelift-native") (r "^0.75.0") (d #t) (k 0)))) (h "1vaha7ym1xr3imywak5i6prw9yp2wwkpi6kx13l4cms39man7ks2")))
+
+(define-public crate-cranefack-0.4.0 (c (n "cranefack") (v "0.4.0") (d (list (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "cranelift") (r "^0.77.0") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.77.0") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.77.0") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.77.0") (d #t) (k 0)) (d (n "cranelift-native") (r "^0.77.0") (d #t) (k 0)))) (h "1qn82pwa4709ilb9wmcfvzwpks481n1c2aw0hqd7l8kq1c4halk1")))
+
+(define-public crate-cranefack-0.4.1 (c (n "cranefack") (v "0.4.1") (d (list (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "cranelift") (r "^0.85.1") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.85.1") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.85.1") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.85.1") (d #t) (k 0)) (d (n "cranelift-native") (r "^0.85.1") (d #t) (k 0)))) (h "01sxll0g7ndcpg05sr9m53fpk3lqn2byq6rcnvh02fd4m86rmmgf")))
+
+(define-public crate-cranefack-0.4.2 (c (n "cranefack") (v "0.4.2") (d (list (d (n "codespan-reporting") (r "^0.11") (d #t) (k 0)) (d (n "cranelift") (r "^0.93.1") (d #t) (k 0)) (d (n "cranelift-codegen") (r "^0.93.1") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.93.1") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.93.1") (d #t) (k 0)) (d (n "cranelift-native") (r "^0.93.1") (d #t) (k 0)))) (h "0q66iisllj87z635vqxnfdxlhbk02jppm15cxvsxgpxkwn85djb1")))
+

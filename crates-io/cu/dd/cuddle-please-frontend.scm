@@ -1,0 +1,4 @@
+(define-module (crates-io cu dd cuddle-please-frontend) #:use-module (crates-io))
+
+(define-public crate-cuddle-please-frontend-0.1.0 (c (n "cuddle-please-frontend") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "tracing-test") (r "^0.2") (f (quote ("no-env-filter"))) (d #t) (k 2)))) (h "02119phwcxx6qv9fd6pgz9mgm9xx7j5f9wvcp7fx59n0hv8mhcwd")))
+

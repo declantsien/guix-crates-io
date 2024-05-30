@@ -1,0 +1,6 @@
+(define-module (crates-io wa rn warnalyzer) #:use-module (crates-io))
+
+(define-public crate-warnalyzer-0.1.0 (c (n "warnalyzer") (v "0.1.0") (d (list (d (n "chashmap") (r "^2.2") (d #t) (k 0)) (d (n "intervaltree") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1v17iccrwyksl25qdzyb0kp76kxkw6lk23p38ybn2nh8wr3s4j8v")))
+
+(define-public crate-warnalyzer-0.2.0 (c (n "warnalyzer") (v "0.2.0") (d (list (d (n "chashmap") (r "^2.2") (d #t) (k 0)) (d (n "intervaltree") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits" "visit"))) (d #t) (k 0)))) (h "0ga12bv9g85wwhfaln71bhcds73frngz59mbj0y2cmvzja0d53fv")))
+

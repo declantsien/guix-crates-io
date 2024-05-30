@@ -1,0 +1,4 @@
+(define-module (crates-io dl eq dleq-serai) #:use-module (crates-io))
+
+(define-public crate-dleq-serai-0.1.0 (c (n "dleq-serai") (v "0.1.0") (d (list (d (n "blake2") (r "^0.10") (d #t) (k 2)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "group") (r "^0.12") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "k256") (r "^0.11") (f (quote ("arithmetic" "bits"))) (d #t) (k 2)) (d (n "multiexp") (r "^0.2") (f (quote ("batch"))) (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "transcript") (r "^0.1") (d #t) (k 0) (p "flexible-transcript")))) (h "1638q6z038cadhq93f5drkwrdxn62k2d5ihjnqyfjzy1f25yvq3x") (f (quote (("serialize") ("secure_capacity_difference") ("experimental" "multiexp") ("default" "secure_capacity_difference")))) (y #t)))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io rt pe rtpeeker_common) #:use-module (crates-io))
+
+(define-public crate-rtpeeker_common-0.1.0 (c (n "rtpeeker_common") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "etherparse") (r "^0.13.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "pcap") (r "^1.0.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "rtcp") (r "^0.10") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "rtp") (r "^0.9") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "webrtc-sdp") (r "^0.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "webrtc-util") (r "^0.8.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "03zywyvnm8iv0mn67w42zk4lmjwri53jkm9ppiv3dmsg4jbgx8jg")))
+

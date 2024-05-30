@@ -1,0 +1,8 @@
+(define-module (crates-io da rt dartlib) #:use-module (crates-io))
+
+(define-public crate-dartlib-0.1.0 (c (n "dartlib") (v "0.1.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "marble") (r "^15.0.7") (d #t) (k 0)) (d (n "moka") (r "^0.12.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "174y17wy0789h52d220v1h6aapvyp2lkccwyyvwqsi9pirsfh2wb")))
+
+(define-public crate-dartlib-0.2.0 (c (n "dartlib") (v "0.2.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "marble") (r "^15.0.7") (d #t) (k 0)) (d (n "moka") (r "^0.12.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "uuid") (r "^1.5.0") (d #t) (k 0)))) (h "0f8bpcqanj8g2z2g7wpxcicx3yhx0gkmc4061cq9hcnm0mgddk10")))
+
+(define-public crate-dartlib-0.3.0 (c (n "dartlib") (v "0.3.0") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "marble") (r "^15.0.7") (d #t) (k 0)) (d (n "moka") (r "^0.12.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "uuid") (r "^1.5.0") (d #t) (k 0)))) (h "104912gzdvcr856xsagj0987pajbykqm12vjkicmjdx3mfjkfpzs")))
+

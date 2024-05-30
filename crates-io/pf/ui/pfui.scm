@@ -1,0 +1,4 @@
+(define-module (crates-io pf ui pfui) #:use-module (crates-io))
+
+(define-public crate-pfui-0.1.0 (c (n "pfui") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "clap") (r "^4.0.19") (f (quote ("derive" "color"))) (d #t) (k 0)) (d (n "mpd") (r "^0.0.12") (o #t) (d #t) (k 0)) (d (n "pulse") (r "^2.0") (o #t) (d #t) (k 0) (p "libpulse-binding")) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "sway") (r "^3.0.1") (o #t) (d #t) (k 0) (p "swayipc")) (d (n "time") (r "^0.1.44") (o #t) (d #t) (k 0)))) (h "007xzr7lvq8f2pz3cva0bvfq74bn3c44q30xwfjkghxnrrdiw7nf") (f (quote (("default" "mpd" "pulseaudio" "sway")))) (s 2) (e (quote (("sway" "dep:sway") ("pulseaudio" "dep:pulse") ("mpd" "dep:mpd" "dep:time"))))))
+

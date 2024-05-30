@@ -1,0 +1,6 @@
+(define-module (crates-io ph ab phabricator-mock) #:use-module (crates-io))
+
+(define-public crate-phabricator-mock-0.0.3 (c (n "phabricator-mock") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "form_urlencoded") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.10") (f (quote ("serde-str"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2.0") (d #t) (k 0)) (d (n "wiremock") (r "^0.5.2") (d #t) (k 0)))) (h "1p6xp5w628pi147jir21zwqsfsp6bm22lnznxlp9gwjaxlkwyn5h")))
+
+(define-public crate-phabricator-mock-0.0.4 (c (n "phabricator-mock") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "form_urlencoded") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.10") (f (quote ("serde-str"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2.0") (d #t) (k 0)) (d (n "wiremock") (r "^0.5.2") (d #t) (k 0)))) (h "1qmsp9hrkg67japd19qw0p6yxc9xizy8zw4dl7gwbpq6lsanb5sf")))
+

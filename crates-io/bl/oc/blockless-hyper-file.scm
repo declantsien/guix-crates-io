@@ -1,0 +1,8 @@
+(define-module (crates-io bl oc blockless-hyper-file) #:use-module (crates-io))
+
+(define-public crate-blockless-hyper-file-0.1.0 (c (n "blockless-hyper-file") (v "0.1.0") (d (list (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "httpdate") (r "^1.0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("http1" "server" "tcp"))) (d #t) (k 2)) (d (n "percent-encoding") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("fs" "rt"))) (d #t) (k 0)))) (h "15vy95b157f3vyd3pa0qrzc7g4jiwv83jrmgxv6bp3w6w5xzc09k")))
+
+(define-public crate-blockless-hyper-file-0.1.1 (c (n "blockless-hyper-file") (v "0.1.1") (d (list (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "httpdate") (r "^1.0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("http1" "server" "tcp"))) (d #t) (k 2)) (d (n "percent-encoding") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("fs" "rt"))) (d #t) (k 0)))) (h "0xc03swrxp3dbp4171r9kis3ny9p00kjjp64nsalz09957igbz6p")))
+
+(define-public crate-blockless-hyper-file-0.1.2 (c (n "blockless-hyper-file") (v "0.1.2") (d (list (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "httpdate") (r "^1.0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("http1" "server" "tcp"))) (d #t) (k 2)) (d (n "percent-encoding") (r "^2.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("fs" "rt"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("fs" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "08lvkdn757jgxi0fcsln7qmwz97n068dqs15hxxvl2686rdx8i4l")))
+

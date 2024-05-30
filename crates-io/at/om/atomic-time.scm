@@ -1,0 +1,14 @@
+(define-module (crates-io at om atomic-time) #:use-module (crates-io))
+
+(define-public crate-atomic-time-0.1.0 (c (n "atomic-time") (v "0.1.0") (d (list (d (n "atomic") (r "^0.6") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0gnfssydpiahwg4fhnjhqc5v98sc4pglb6si2nsj2mx2wvlwcmfj") (f (quote (("std" "atomic/std") ("default" "std")))) (y #t) (r "1.56")))
+
+(define-public crate-atomic-time-0.1.1 (c (n "atomic-time") (v "0.1.1") (d (list (d (n "atomic") (r "^0.6") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "030sqdrj3svnmggc72kycizi1p12ffza9d40ir5s7v0mzx67qr35") (f (quote (("std" "atomic/std") ("default" "std")))) (y #t) (r "1.56")))
+
+(define-public crate-atomic-time-0.1.2 (c (n "atomic-time") (v "0.1.2") (d (list (d (n "atomic") (r "^0.6") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "18y28xhz8fl64k51kizmahwwbhgs25d3iqk56z6j295df91ffwgn") (f (quote (("std" "atomic/std") ("default" "std")))) (y #t) (r "1.70")))
+
+(define-public crate-atomic-time-0.1.3 (c (n "atomic-time") (v "0.1.3") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "portable-atomic") (r "^1.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1xxgdji11gbm2zhnv85s1igamahm588sn9v55mbj5ic29hs1c4qw") (f (quote (("std" "portable-atomic/std") ("nightly") ("default" "portable-atomic")))) (r "1.70")))
+
+(define-public crate-atomic-time-0.1.4 (c (n "atomic-time") (v "0.1.4") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "portable-atomic") (r "^1.6") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1h7y6668r5z6w7mxf202kmml24h49vfbl2iwqaw3cq3hcx16a91l") (f (quote (("std" "portable-atomic/std") ("default" "std")))) (r "1.70")))
+
+(define-public crate-atomic-time-0.1.5 (c (n "atomic-time") (v "0.1.5") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 2)) (d (n "portable-atomic") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "10sff2zih4sq9rnvvik0jx06am5jf2g1ar8gqwb7adshzg3ga8ln") (f (quote (("std" "portable-atomic/std" "once_cell") ("default" "std")))) (r "1.34.0")))
+

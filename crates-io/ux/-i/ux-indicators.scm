@@ -1,0 +1,4 @@
+(define-module (crates-io ux #{-i}# ux-indicators) #:use-module (crates-io))
+
+(define-public crate-ux-indicators-0.1.0 (c (n "ux-indicators") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "csv") (r "^1.1.3") (d #t) (k 2)) (d (n "cucumber_rust") (r "^0.6.8") (d #t) (k 2)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rspec") (r "^0.1.0") (d #t) (k 2)) (d (n "rust_decimal") (r "^1.7.0") (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ux-primitives") (r "^0.1") (d #t) (k 0)))) (h "12ya4nvlqzhj86n7wgy441y7jjqqcffgxcv27vkapcrjj1a59gar")))
+

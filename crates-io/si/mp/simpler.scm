@@ -1,0 +1,4 @@
+(define-module (crates-io si mp simpler) #:use-module (crates-io))
+
+(define-public crate-simpler-0.0.0 (c (n "simpler") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.10") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("color" "derive" "string"))) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "git-testament") (r "^0.2") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0") (d #t) (k 0)) (d (n "path-clean") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tide") (r "^0.16") (f (quote ("h1-server"))) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1") (d #t) (k 0)))) (h "0xfvccnqnj0iylx2nxj5zwih8vvgnm2iqc8lg9v7zf0fx93w2bw8")))
+

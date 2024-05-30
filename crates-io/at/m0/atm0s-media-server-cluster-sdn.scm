@@ -1,0 +1,4 @@
+(define-module (crates-io at m0 atm0s-media-server-cluster-sdn) #:use-module (crates-io))
+
+(define-public crate-atm0s-media-server-cluster-sdn-0.1.0 (c (n "atm0s-media-server-cluster-sdn") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12") (f (quote ("tokio1" "unstable" "attributes"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "atm0s-sdn") (r "^0.1.1") (f (quote ("all"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "cluster") (r "^0.1.0") (d #t) (k 0) (p "atm0s-media-server-cluster")) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "media-utils") (r "^0.1.0") (d #t) (k 0) (p "atm0s-media-server-utils")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "transport") (r "^0.1.0") (d #t) (k 0) (p "atm0s-media-server-transport")))) (h "0ii5najg5ry2q66vhyh51f78h296g6xgrgg2psj0iaxklhx5934d")))
+

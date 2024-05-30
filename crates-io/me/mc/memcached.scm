@@ -1,0 +1,22 @@
+(define-module (crates-io me mc memcached) #:use-module (crates-io))
+
+(define-public crate-memcached-0.1.0 (c (n "memcached") (v "0.1.0") (h "05nv5s0py17pgxn453irqd6jdprl9b4x57vdmjvbdlpk25zdn9is")))
+
+(define-public crate-memcached-0.2.0 (c (n "memcached") (v "0.2.0") (d (list (d (n "async-std") (r "^1.5") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0g99p77kzg0i58456zb43j1kzlhfkfzmf337x3kmwsjd84p96nza")))
+
+(define-public crate-memcached-0.3.0 (c (n "memcached") (v "0.3.0") (d (list (d (n "async-std") (r "^1.5") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "02c62zns5ig4dqp1ji5gdwygyhz5apa4i66ilwrgnc90x3frnbyp")))
+
+(define-public crate-memcached-0.4.0 (c (n "memcached") (v "0.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1g8lvzb9byqwvkiy3sprzhcnc8yqanm7bz3pgkcq3jzqhwg0bjd2")))
+
+(define-public crate-memcached-0.4.1 (c (n "memcached") (v "0.4.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0qw9sc3d3kj1656al1a02x4ja1c3zkj0c3dr4fv8gcbbb810mx9m")))
+
+(define-public crate-memcached-0.4.2 (c (n "memcached") (v "0.4.2") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "104azi86wlnaybjs5vn9zlmfkhh1gdnxn9f1vjl573rngawyjs3g")))
+
+(define-public crate-memcached-0.4.3 (c (n "memcached") (v "0.4.3") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "041ms3snq5s19a03f3g95h0q5nksjrmhzyflh3s2dkihr73558sx")))
+
+(define-public crate-memcached-0.4.4 (c (n "memcached") (v "0.4.4") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "05mi8fvbd0mq08sd7ayi8c4y467ygwjrnyzpdbz7cpznxymq070k")))
+
+(define-public crate-memcached-0.4.5-beta (c (n "memcached") (v "0.4.5-beta") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0x032zp77lyjvappp9dw0wzxzn6nn1f9rc3fi655qlhhxz8nialx")))
+
+(define-public crate-memcached-0.4.5-beta.2 (c (n "memcached") (v "0.4.5-beta.2") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "mobc") (r "^0.5") (f (quote ("async-std"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0xxdy8inqn2n7av1c92c4hvg6j0hvvyqwgrhb7bhz0mjbfmd8pv2")))
+

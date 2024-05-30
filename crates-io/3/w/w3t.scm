@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# w w3t) #:use-module (crates-io))
+
+(define-public crate-w3t-0.1.0 (c (n "w3t") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "argparse") (r "^0.2") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "cssparser") (r "^0.32") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "html2text") (r "^0.6") (d #t) (k 0)) (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "string_cache") (r "^0.8") (d #t) (k 0)) (d (n "termit") (r "^0.7") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "18pig8bgl4qpypjc1zfc2mqp7rghv0q3i71jr5xd1ldrl3ar2h8s")))
+
+(define-public crate-w3t-0.2.0 (c (n "w3t") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "fashion") (r "^0.2") (d #t) (k 0)) (d (n "hatmel") (r "^0.2") (d #t) (k 0)) (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "termit") (r "^0.7") (d #t) (k 0)))) (h "1c5qjn2chdjrvix86dw74hjxdwgynrnwwc569v3hgr2amcl7q6sv")))
+

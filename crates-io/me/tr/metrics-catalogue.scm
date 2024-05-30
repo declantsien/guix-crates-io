@@ -1,0 +1,12 @@
+(define-module (crates-io me tr metrics-catalogue) #:use-module (crates-io))
+
+(define-public crate-metrics-catalogue-0.1.0 (c (n "metrics-catalogue") (v "0.1.0") (d (list (d (n "metrics") (r "^0.16") (d #t) (k 0)) (d (n "metrics-catalogue-macros") (r "^0.1") (d #t) (k 0)))) (h "120alg2516djp5khkdr8k4qkljxi4wbp7mrwvkkiiixdlh9d0snr")))
+
+(define-public crate-metrics-catalogue-0.2.0 (c (n "metrics-catalogue") (v "0.2.0") (d (list (d (n "hyper") (r "^0.14") (f (quote ("server" "tcp" "http1"))) (o #t) (k 0)) (d (n "metrics") (r "^0.16") (d #t) (k 0)) (d (n "metrics-catalogue-macros") (r "^0.2") (d #t) (k 0)) (d (n "metrics-util") (r "^0.10") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)))) (h "0lv1838knznc3qvsdlzgfykjharwya6j2rwjcdrz92lzvisbb00d") (f (quote (("prometheus" "metrics-catalogue-macros/prometheus" "hyper") ("default" "prometheus"))))))
+
+(define-public crate-metrics-catalogue-0.2.1 (c (n "metrics-catalogue") (v "0.2.1") (d (list (d (n "hyper") (r "^0.14") (f (quote ("server" "tcp" "http1"))) (o #t) (k 0)) (d (n "metrics") (r "^0.16") (d #t) (k 0)) (d (n "metrics-catalogue-macros") (r "^0.2") (d #t) (k 0)) (d (n "metrics-util") (r "^0.10") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)))) (h "1ykaib30ypb0gwinfdb4chhj5mwl8lwha62lxhszpfz88i17k8a1") (f (quote (("prometheus" "metrics-catalogue-macros/prometheus" "hyper") ("default" "prometheus"))))))
+
+(define-public crate-metrics-catalogue-0.3.0 (c (n "metrics-catalogue") (v "0.3.0") (d (list (d (n "hyper") (r "^0.14") (f (quote ("server" "tcp" "http1"))) (o #t) (k 0)) (d (n "metrics") (r "^0.16") (d #t) (k 0)) (d (n "metrics-catalogue-macros") (r "^0.3") (d #t) (k 0)) (d (n "metrics-util") (r "^0.10") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)))) (h "05yfwrbgfw4sjnpzgxffwplwx1drvr3d9rwmp093mipb6fhsk07b") (f (quote (("prometheus" "metrics-catalogue-macros/prometheus" "hyper") ("default" "prometheus"))))))
+
+(define-public crate-metrics-catalogue-0.4.0 (c (n "metrics-catalogue") (v "0.4.0") (d (list (d (n "hyper") (r "^0.14") (f (quote ("server" "tcp" "http1"))) (o #t) (k 0)) (d (n "metrics") (r "^0.16") (d #t) (k 0)) (d (n "metrics-catalogue-macros") (r "^0.4") (d #t) (k 0)) (d (n "metrics-util") (r "^0.10") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)))) (h "0vzi2gf7rz08sgdf23jbwdxqs92pzmfvl11mmfg359vij9nylri0") (f (quote (("prometheus" "metrics-catalogue-macros/prometheus" "hyper") ("default" "prometheus"))))))
+

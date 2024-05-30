@@ -1,0 +1,10 @@
+(define-module (crates-io wo rk worker-plus-sys) #:use-module (crates-io))
+
+(define-public crate-worker-plus-sys-0.0.6 (c (n "worker-plus-sys") (v "0.0.6") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (f (quote ("ReadableStream" "RequestRedirect" "RequestInit" "FormData" "Blob" "BinaryType" "ErrorEvent" "MessageEvent" "CloseEvent" "ProgressEvent"))) (d #t) (k 0)))) (h "09k5b1wx2s4sj49k1zp1rw4rv8954k3wk5lg9h1y229y3fslcvh4")))
+
+(define-public crate-worker-plus-sys-0.0.6-beta (c (n "worker-plus-sys") (v "0.0.6-beta") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (f (quote ("ReadableStream" "RequestRedirect" "RequestInit" "FormData" "Blob" "BinaryType" "ErrorEvent" "MessageEvent" "CloseEvent" "ProgressEvent"))) (d #t) (k 0)))) (h "139nvid3rasqzzkfm2spkwlnsr9s99887blsw8p94q6xwkcw1zya")))
+
+(define-public crate-worker-plus-sys-0.0.7 (c (n "worker-plus-sys") (v "0.0.7") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.57") (f (quote ("ReadableStream" "RequestRedirect" "RequestInit" "FormData" "Blob" "BinaryType" "ErrorEvent" "MessageEvent" "CloseEvent" "ProgressEvent"))) (d #t) (k 0)))) (h "0x23i3lxvxv1a03b5v9v5mk1jdgx8nwfvk48gdzai25ris4kci1h")))
+
+(define-public crate-worker-plus-sys-0.0.8 (c (n "worker-plus-sys") (v "0.0.8") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.80") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("ReadableStream" "WritableStream" "RequestRedirect" "RequestInit" "FormData" "Blob" "BinaryType" "ErrorEvent" "MessageEvent" "CloseEvent" "ProgressEvent"))) (d #t) (k 0)))) (h "1myw5s9cxbsxb1avx21g7l2lnk16qyr2h4pbckxa8p1qrand7mv4")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io as yn async-reply) #:use-module (crates-io))
+
+(define-public crate-async-reply-0.1.0 (c (n "async-reply") (v "0.1.0") (d (list (d (n "async-reply-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (f (quote ("display" "error" "from"))) (k 0)))) (h "1aqxlyzwl7jrm28yamxvp2kww4isz3fil3h9d4xjk9jjg0snc769") (f (quote (("derive" "async-reply-derive") ("default" "derive"))))))
+
+(define-public crate-async-reply-0.2.0 (c (n "async-reply") (v "0.2.0") (d (list (d (n "async-reply-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.8") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (f (quote ("display" "error" "from"))) (k 0)))) (h "0pw3awvn57bhczgizgd6xd0hs18ibd89n6l8xzymqkh52vfgi0a4") (f (quote (("derive" "async-reply-derive") ("default" "derive"))))))
+
+(define-public crate-async-reply-0.2.1 (c (n "async-reply") (v "0.2.1") (d (list (d (n "async-reply-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.8") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (f (quote ("display" "error" "from"))) (k 0)))) (h "09z3yc1zpikmkdxmslszcijqxn1xdv45ss9ncb0vz2il7js7i1ch") (f (quote (("derive" "async-reply-derive") ("default" "derive"))))))
+
+(define-public crate-async-reply-0.2.2 (c (n "async-reply") (v "0.2.2") (d (list (d (n "async-reply-derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1.8") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (f (quote ("display" "error" "from"))) (k 0)))) (h "11s488yzldhv2mxrildnslca7rbgahjzjr22kf60w4rmdaimjvix") (f (quote (("derive" "async-reply-derive") ("default" "derive"))))))
+

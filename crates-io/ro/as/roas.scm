@@ -1,0 +1,12 @@
+(define-module (crates-io ro as roas) #:use-module (crates-io))
+
+(define-public crate-roas-0.1.0 (c (n "roas") (v "0.1.0") (d (list (d (n "cargo-license") (r "^0.5.1") (d #t) (k 2)) (d (n "enumset") (r "^1.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0xzs4jynpar79cwi0qpvnv37qpy8zypdsc5a2kqb5mi9j72hq87p") (f (quote (("v2") ("default" "v2"))))))
+
+(define-public crate-roas-0.2.0 (c (n "roas") (v "0.2.0") (d (list (d (n "cargo-license") (r "^0.5.1") (d #t) (k 2)) (d (n "enumset") (r "^1.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0fq79mixg0rygarjjxzh8i72kl178dyf353k5pm0q7lqz5i79ds7") (f (quote (("v3_0") ("v2") ("default" "v3_0"))))))
+
+(define-public crate-roas-0.2.1 (c (n "roas") (v "0.2.1") (d (list (d (n "cargo-license") (r "^0.5.1") (d #t) (k 2)) (d (n "enumset") (r "^1.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0syas6bby7rlwic6hm262wz4a73jwy32yjj84bpb8cmzb6j21wcp") (f (quote (("v3_0") ("v2") ("default" "v3_0"))))))
+
+(define-public crate-roas-0.2.2 (c (n "roas") (v "0.2.2") (d (list (d (n "cargo-license") (r "^0.6.1") (d #t) (k 2)) (d (n "enumset") (r "^1.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "18rlmdyy98w7m2zr43zlgg35cfgq8z1m46x93j3mll055xc5kmas") (f (quote (("v3_0") ("v2") ("default" "v3_0"))))))
+
+(define-public crate-roas-0.2.3 (c (n "roas") (v "0.2.3") (d (list (d (n "enumset") (r "^1.1.3") (d #t) (k 0)) (d (n "monostate") (r "^0.1.11") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0x83h0y0hc0yd5qz0x3wbb3vqkms4y0f2h00njzzrswsiaw1j95r") (f (quote (("v3_0") ("v2") ("default" "v3_0"))))))
+

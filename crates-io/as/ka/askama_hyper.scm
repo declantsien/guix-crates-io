@@ -1,0 +1,4 @@
+(define-module (crates-io as ka askama_hyper) #:use-module (crates-io))
+
+(define-public crate-askama_hyper-0.1.0 (c (n "askama_hyper") (v "0.1.0") (d (list (d (n "askama") (r "^0.12") (f (quote ("with-hyper"))) (k 0)) (d (n "hyper") (r "^0.14") (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client"))) (d #t) (k 2)) (d (n "mime") (r "^0.3") (d #t) (k 2)) (d (n "routerify") (r "^3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("net" "macros" "rt"))) (k 2)))) (h "01zqc1bscaj9031fzklcfj23q1l3qbb68ab0ab5s2ymcmz4il0pc") (f (quote (("urlencode" "askama/urlencode") ("serde-yaml" "askama/serde-yaml") ("serde-json" "askama/serde-json") ("num-traits" "askama/num-traits") ("markdown" "askama/markdown") ("humansize" "askama/humansize") ("default" "askama/default") ("config" "askama/config")))) (r "1.58")))
+

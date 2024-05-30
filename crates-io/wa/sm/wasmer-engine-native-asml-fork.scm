@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-engine-native-asml-fork) #:use-module (crates-io))
+
+(define-public crate-wasmer-engine-native-asml-fork-1.0.2 (c (n "wasmer-engine-native-asml-fork") (v "1.0.2") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "wasmer-compiler") (r "^1.0.2") (d #t) (k 0)) (d (n "wasmer-engine") (r "^1.0.2") (d #t) (k 0)) (d (n "wasmer-object") (r "^1.0.2") (d #t) (k 0)) (d (n "wasmer-types") (r "^1.0.2") (d #t) (k 0)) (d (n "wasmer-vm") (r "^1.0.2") (d #t) (k 0)) (d (n "which") (r "^4.0") (d #t) (k 0)))) (h "1x7zk0rs6s309vpbwlfv97cvar5iyk0yfq6d0w7gf0h29mif6rwv") (f (quote (("compiler"))))))
+

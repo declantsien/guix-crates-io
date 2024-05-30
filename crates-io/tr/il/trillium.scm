@@ -1,0 +1,56 @@
+(define-module (crates-io tr il trillium) #:use-module (crates-io))
+
+(define-public crate-trillium-0.0.1 (c (n "trillium") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.13") (d #t) (k 0)) (d (n "trillium-http") (r "^0.0.1") (d #t) (k 0)))) (h "1adm6mbz83p7qjl91v42v0gq5g8457lxlih0i1hqcxy9q4kmaa46")))
+
+(define-public crate-trillium-0.1.0 (c (n "trillium") (v "0.1.0") (d (list (d (n "async-net") (r "^1.6.0") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.1.0") (d #t) (k 0)))) (h "1x16fhbfg71c5ldniwyqnivwfp92f6hr7k9vnh9shppv5hhc0rc1")))
+
+(define-public crate-trillium-0.1.1 (c (n "trillium") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.1.0") (d #t) (k 0)))) (h "18h1q8kfkvgv2xw0a0c720vqda42l6qbj3y7xzsgkm5r58vic8hv")))
+
+(define-public crate-trillium-0.1.2 (c (n "trillium") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.1.0") (d #t) (k 0)))) (h "0x5mx73f6bi4153gl0zg6ydy1ka7xk9ld3m4g0zsw469v0g7c8v7")))
+
+(define-public crate-trillium-0.1.3 (c (n "trillium") (v "0.1.3") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.1.0") (d #t) (k 0)))) (h "0sk1dn63pval8plnwhchbkxi55x85cvkdaya215kq9cay91kyrnh")))
+
+(define-public crate-trillium-0.1.4 (c (n "trillium") (v "0.1.4") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.1.5") (d #t) (k 0)))) (h "027cnbmg0cqkl88pgv4y050wswzs0mwqh55s4fwcy6zfx9b66j85")))
+
+(define-public crate-trillium-0.1.5 (c (n "trillium") (v "0.1.5") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.1.5") (d #t) (k 0)))) (h "0vj5j5snwjsdpljc0hakajqg32xazzgf973bazp383n0yy96bwx7")))
+
+(define-public crate-trillium-0.2.0 (c (n "trillium") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "19grccmgc865d6hmyzza2x6nirhdywji80n7061w4aqpfjxqfx9x")))
+
+(define-public crate-trillium-0.2.1 (c (n "trillium") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "1hvyimzllpz4mwxmnrb4ayzfgyqk8vc3nz8lhnm6ybg2jcglf1jw")))
+
+(define-public crate-trillium-0.2.2 (c (n "trillium") (v "0.2.2") (d (list (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "1r0l80z7s8hr49hz9s1v51ysl4fdl3rx5yqcnh4l5gpkn9n02ad2")))
+
+(define-public crate-trillium-0.2.3 (c (n "trillium") (v "0.2.3") (d (list (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "0bd6iyq64k61n1k8snvz2hcc9kklpnp36y7ncczckz010jqnk1wj")))
+
+(define-public crate-trillium-0.2.4 (c (n "trillium") (v "0.2.4") (d (list (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "06mhdk8sbaq6z4rynjzry5rsak5b174np4n6vrlnj133kkpnka25")))
+
+(define-public crate-trillium-0.2.5 (c (n "trillium") (v "0.2.5") (d (list (d (n "async-trait") (r "^0.1.66") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "0w8423p0mnzvywyba5x8hcfx8mw729cswhjb1by6kl05y0jrqls1")))
+
+(define-public crate-trillium-0.2.6 (c (n "trillium") (v "0.2.6") (d (list (d (n "async-trait") (r "^0.1.66") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "0zj34lm9kh90s5bms2r6vk8sv9zc4d0wbd3jvxv4q6jjxswqnnd5")))
+
+(define-public crate-trillium-0.2.7 (c (n "trillium") (v "0.2.7") (d (list (d (n "async-trait") (r "^0.1.66") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "08nxl2swzkzlnj0rqkryfcv55b25ishrga5wmzmic6z3d6g450d6")))
+
+(define-public crate-trillium-0.2.8 (c (n "trillium") (v "0.2.8") (d (list (d (n "async-trait") (r "^0.1.66") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "trillium-http") (r "^0.2.0") (d #t) (k 0)))) (h "1s7dzl6nr1f3m96b5vxflh524zxdgw03ac02sfjvvmh8b9hd3d3r")))
+
+(define-public crate-trillium-0.2.9 (c (n "trillium") (v "0.2.9") (d (list (d (n "async-trait") (r "^0.1.66") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "trillium-http") (r "^0.3.0") (d #t) (k 0)))) (h "1adk1frj85bmg8g1j2ylhk576gk08iid523b87cxr6l1khmkj1iz")))
+
+(define-public crate-trillium-0.2.10 (c (n "trillium") (v "0.2.10") (d (list (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "futures-lite") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "trillium-http") (r "^0.3.0") (d #t) (k 0)))) (h "00f3aar7zqzc9vz6q3ppr76s1n6ib5s47m5clgjibkgszvnn8gkc")))
+
+(define-public crate-trillium-0.2.11 (c (n "trillium") (v "0.2.11") (d (list (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "futures-lite") (r "^2.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "trillium-http") (r "^0.3.5") (d #t) (k 0)))) (h "1qlz114h34jkswxk5nqb3ax9rshvp2ldjmyd8jw0qkhvxc54x4ka")))
+
+(define-public crate-trillium-0.2.12 (c (n "trillium") (v "0.2.12") (d (list (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "trillium-http") (r "^0.3.10") (d #t) (k 0)))) (h "1qlrdig6c9f7cg29rq52521619ar4q07bw92b79zfyynsbyy1wfc")))
+
+(define-public crate-trillium-0.2.13 (c (n "trillium") (v "0.2.13") (d (list (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "trillium-http") (r "^0.3.11") (d #t) (k 0)))) (h "14vqlk6pcz23jw2r4qqayc8hjavim1100c3h0f4gwv0h4skiwjlb")))
+
+(define-public crate-trillium-0.2.14 (c (n "trillium") (v "0.2.14") (d (list (d (n "async-io") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)) (d (n "trillium-http") (r "^0.3.11") (d #t) (k 0)))) (h "0gvpndbdwhw1jnyls44jfn088gdx61iknsi3x2d86pflswqs9n4b") (f (quote (("unstable" "trillium-http/unstable") ("serde" "trillium-http/serde") ("http-compat-1" "trillium-http/http-compat-1") ("http-compat" "trillium-http/http-compat")))) (y #t)))
+
+(define-public crate-trillium-0.2.15 (c (n "trillium") (v "0.2.15") (d (list (d (n "async-io") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)) (d (n "trillium-http") (r "^0.3.13") (d #t) (k 0)))) (h "0ck4wd22v1l02llmdg7mqkcqdczkjgbhm0vhlzl0nbs85dr2xmah") (f (quote (("unstable" "trillium-http/unstable") ("serde" "trillium-http/serde") ("http-compat-1" "trillium-http/http-compat-1") ("http-compat" "trillium-http/http-compat"))))))
+
+(define-public crate-trillium-0.2.16 (c (n "trillium") (v "0.2.16") (d (list (d (n "async-channel") (r "^2.1.1") (d #t) (k 2)) (d (n "async-io") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)) (d (n "trillium-http") (r "^0.3.13") (d #t) (k 0)))) (h "1h8imyjz5wbdwn1aw5jdqawamyfcc8zdh8mqi0mhnxik75dm9jmc") (f (quote (("unstable" "trillium-http/unstable") ("serde" "trillium-http/serde") ("http-compat-1" "trillium-http/http-compat-1") ("http-compat" "trillium-http/http-compat"))))))
+
+(define-public crate-trillium-0.2.17 (c (n "trillium") (v "0.2.17") (d (list (d (n "async-channel") (r "^2.1.1") (d #t) (k 2)) (d (n "async-io") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)) (d (n "trillium-http") (r "^0.3.15") (d #t) (k 0)))) (h "1cj45ynas0pmyxznk1m98d6nf0s04slrg28csd1yffphy8d3ip4l") (f (quote (("unstable" "trillium-http/unstable") ("serde" "trillium-http/serde") ("http-compat-1" "trillium-http/http-compat-1") ("http-compat" "trillium-http/http-compat"))))))
+
+(define-public crate-trillium-0.2.18 (c (n "trillium") (v "0.2.18") (d (list (d (n "async-channel") (r "^2.1.1") (d #t) (k 2)) (d (n "async-io") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)) (d (n "trillium-http") (r "^0.3.15") (d #t) (k 0)))) (h "0gk2vf77yb17yid29j6rg4kiyj6brm96hivwfrz0pdqnkxpwqbjc") (f (quote (("unstable" "trillium-http/unstable") ("serde" "trillium-http/serde") ("http-compat-1" "trillium-http/http-compat-1") ("http-compat" "trillium-http/http-compat"))))))
+
+(define-public crate-trillium-0.2.19 (c (n "trillium") (v "0.2.19") (d (list (d (n "async-channel") (r "^2.1.1") (d #t) (k 2)) (d (n "async-io") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.75") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)) (d (n "trillium-http") (r "^0.3.16") (d #t) (k 0)))) (h "1dh2q9b3z8b9rh5bs1277a74l597s038cnjca0a6yrinmh71iiq1") (f (quote (("unstable" "trillium-http/unstable") ("serde" "trillium-http/serde") ("http-compat-1" "trillium-http/http-compat-1") ("http-compat" "trillium-http/http-compat"))))))
+

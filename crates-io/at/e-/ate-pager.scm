@@ -1,0 +1,6 @@
+(define-module (crates-io at e- ate-pager) #:use-module (crates-io))
+
+(define-public crate-ate-pager-0.1.0 (c (n "ate-pager") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "cassowary") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "fern") (r "^0.6.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "finl_unicode") (r "^1.1.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "termwiz") (r "^0.19") (d #t) (k 0)) (d (n "xdg") (r "^2.4.1") (d #t) (k 0)))) (h "0r9hwn7z6iqnhhqj7w8m8nh1gidhmb27107j0mlkidiankn016s1")))
+
+(define-public crate-ate-pager-0.1.1 (c (n "ate-pager") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "cassowary") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "fern") (r "^0.6.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "finl_unicode") (r "^1.1.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "termwiz") (r "^0.19") (d #t) (k 0)) (d (n "xdg") (r "^2.4.1") (d #t) (k 0)))) (h "1q0dh9z7ddmqqknqi4cn8v2rmpyzyb4nrzkrn3q99f05py5qlsn2")))
+

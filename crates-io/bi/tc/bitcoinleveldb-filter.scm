@@ -1,0 +1,10 @@
+(define-module (crates-io bi tc bitcoinleveldb-filter) #:use-module (crates-io))
+
+(define-public crate-bitcoinleveldb-filter-0.1.10-alpha.0 (c (n "bitcoinleveldb-filter") (v "0.1.10-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.10-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.10-alpha.0") (d #t) (k 1)))) (h "0hwwpkwkgl70fgg5y4qa7szdrq2lmj8b7iw688s71z38lz43x2g5")))
+
+(define-public crate-bitcoinleveldb-filter-0.1.12-alpha.0 (c (n "bitcoinleveldb-filter") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "18ral5i0pkk5rz76my13w2cy6j4989rw604hfk2navx9zb2w57ig")))
+
+(define-public crate-bitcoinleveldb-filter-0.1.13-alpha.0 (c (n "bitcoinleveldb-filter") (v "0.1.13-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.13-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.13-alpha.0") (d #t) (k 1)))) (h "1xcvkg7hm540qygcaf2dqm5qcv4aavvbivc7vvfzj9f74ps3gs0p")))
+
+(define-public crate-bitcoinleveldb-filter-0.1.16-alpha.0 (c (n "bitcoinleveldb-filter") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-slice") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinleveldb-util") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1zh2liidz80cg7jzqyk1d6qh3s0vh5vrgpbqz2aps7kl1r05cs0s")))
+

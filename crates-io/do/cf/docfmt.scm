@@ -1,0 +1,6 @@
+(define-module (crates-io do cf docfmt) #:use-module (crates-io))
+
+(define-public crate-docfmt-0.1.0 (c (n "docfmt") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "handlebars") (r "^4.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (f (quote ("std" "release_max_level_info" "max_level_debug"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0mpv90882dhm7an5bh0pshhd7x3aapn4l0sq5n6a0sj8iamfks7c")))
+
+(define-public crate-docfmt-0.1.1 (c (n "docfmt") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "handlebars") (r "^5.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("std" "release_max_level_info" "max_level_debug"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "stderrlog") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0fywr992n2v4sbzi3nnybs5rmx5pldh0d7lm8xxhwvz8k1syjx2r")))
+

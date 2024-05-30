@@ -1,0 +1,44 @@
+(define-module (crates-io mo ck mock_gen) #:use-module (crates-io))
+
+(define-public crate-mock_gen-0.1.0 (c (n "mock_gen") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "1rfyijcd73cwajklbnnsqszhxc457jlyrz80mrgslwqdwmsfwi51")))
+
+(define-public crate-mock_gen-0.1.1 (c (n "mock_gen") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "0d4qnjc26sl3gzribw6k50324kl5bmnmrjpfrf4802wz0dai2p67")))
+
+(define-public crate-mock_gen-0.1.2 (c (n "mock_gen") (v "0.1.2") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "160ai8rp79zwrp379i69v1figzaccbdfq3s6b4sn0s6dny93r57z")))
+
+(define-public crate-mock_gen-0.1.3 (c (n "mock_gen") (v "0.1.3") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "10sv8z5ln3fb1g82iinmx1ryahn0y0yc937lgymylj3aj9ss8z5k")))
+
+(define-public crate-mock_gen-0.1.4 (c (n "mock_gen") (v "0.1.4") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "19x7riyq6syca6jrypwgr2m68amc3gl8za94z4rrh35bdrz4wdvc")))
+
+(define-public crate-mock_gen-0.1.5 (c (n "mock_gen") (v "0.1.5") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "1ha5wja25di6hammqj6sfn1zkgwmzwn8p38x84844r0izibl6330")))
+
+(define-public crate-mock_gen-0.1.6 (c (n "mock_gen") (v "0.1.6") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "0cz9q4wvf3zy1klraiq0rwl9w0i1i45v3kvvmw29gnddc7ikc0xh")))
+
+(define-public crate-mock_gen-0.1.7 (c (n "mock_gen") (v "0.1.7") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "05x45xfmdzhmy2a2415hz8s40c44k0yy4ik5f5dx8b8brkaz5ky1")))
+
+(define-public crate-mock_gen-0.1.8 (c (n "mock_gen") (v "0.1.8") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "0n98mwhm62g8k4g6bmgg9dbmna8pcy7igp7aza2yf90x6cw513ad")))
+
+(define-public crate-mock_gen-0.1.9 (c (n "mock_gen") (v "0.1.9") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "02wb9zpddjz9f2w2zwpy2s4lbwdsay355x6snwiqsxj523ipqp38")))
+
+(define-public crate-mock_gen-0.1.10 (c (n "mock_gen") (v "0.1.10") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "1qdzm9l9b686jpy0qj0nygpq7ii2pih0kps4mhxh7xrwh1ny5mx7")))
+
+(define-public crate-mock_gen-0.1.11 (c (n "mock_gen") (v "0.1.11") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "1wij59y3gc6igs4lsax7vzankw017z8q572ng92y5mfv06bpj4b6")))
+
+(define-public crate-mock_gen-0.1.12 (c (n "mock_gen") (v "0.1.12") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "1q36cyvd5saaz2cm0vlw6h5cvhyx41v85d3wfafixg48p4qxp7p4")))
+
+(define-public crate-mock_gen-0.1.13 (c (n "mock_gen") (v "0.1.13") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "14d44fa3bzrjcfnx40f6y63jrw25vijcp2sb8c48yklv5y24x955")))
+
+(define-public crate-mock_gen-0.1.15 (c (n "mock_gen") (v "0.1.15") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "189ahh3wib5qwq20fa0di9fahbf7gmagbbrb75ys5gnr756zjial")))
+
+(define-public crate-mock_gen-0.1.16 (c (n "mock_gen") (v "0.1.16") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "0l4sjwn3fjdfnq93wbjw4yi2mvfjaal4nwf5s00xc0dsk4m8n8aj")))
+
+(define-public crate-mock_gen-0.1.17 (c (n "mock_gen") (v "0.1.17") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "12n59ib89j8n1yn0yr906law2kgpp5cwszq5zs3p7gywzi5x9s5p")))
+
+(define-public crate-mock_gen-0.1.19 (c (n "mock_gen") (v "0.1.19") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "1m3x345yd60d4dvf2qz6lp7hxxzdclqgh1hyp94v5h7lgmkgpppl")))
+
+(define-public crate-mock_gen-0.1.20 (c (n "mock_gen") (v "0.1.20") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "00g0yhajw5dkj9yas6ai0qpnp1lijh70bmnrh94awpwxw0ag2jr9")))
+
+(define-public crate-mock_gen-0.1.21 (c (n "mock_gen") (v "0.1.21") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)))) (h "0ap19z8clnm2zvqa384l4q1w1zprcx8gm0a6sjxgrk1r66p5n2dw")))
+
+(define-public crate-mock_gen-0.1.22 (c (n "mock_gen") (v "0.1.22") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0mwdnn7crlgh1v6jjb4fy1jmv3zjj0ibvv17x38lw6dqi7scxlk0")))
+

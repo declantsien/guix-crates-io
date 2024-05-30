@@ -1,0 +1,8 @@
+(define-module (crates-io js on json_arg) #:use-module (crates-io))
+
+(define-public crate-json_arg-0.1.0 (c (n "json_arg") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.136") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (f (quote ("float_roundtrip" "unbounded_depth"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive" "env" "regex" "unicode" "wrap_help"))) (d #t) (k 2)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)))) (h "0jxrgnciha4n9s4nvzz6v1brby5v11pln7vny673gz5j5njsh06a")))
+
+(define-public crate-json_arg-0.1.1 (c (n "json_arg") (v "0.1.1") (d (list (d (n "serde") (r "^1.0.136") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (f (quote ("float_roundtrip" "unbounded_depth"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive" "env" "regex" "unicode" "wrap_help"))) (d #t) (k 2)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)))) (h "1w4i4asqr1ky90811m1fydpbyx0w6bm6n38nwzhzbxyvbrx50ix4")))
+
+(define-public crate-json_arg-0.2.1 (c (n "json_arg") (v "0.2.1") (d (list (d (n "clap") (r "^3.2.23") (f (quote ("derive" "env" "regex" "unicode" "wrap_help"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.136") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (f (quote ("float_roundtrip" "unbounded_depth"))) (d #t) (k 0)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.5") (d #t) (k 2)) (d (n "toml") (r "=0.5.8") (d #t) (k 0)))) (h "1mz755b7jdyp0x14fbrdfbn8ncvasi2a9diwn3kzxzbx6a85k03r")))
+

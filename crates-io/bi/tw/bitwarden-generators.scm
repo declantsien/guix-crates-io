@@ -1,0 +1,4 @@
+(define-module (crates-io bi tw bitwarden-generators) #:use-module (crates-io))
+
+(define-public crate-bitwarden-generators-0.5.0 (c (n "bitwarden-generators") (v "0.5.0") (d (list (d (n "bitwarden-crypto") (r "=0.5.0") (d #t) (k 0)) (d (n "rand") (r ">=0.8.5, <0.9") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 2)) (d (n "reqwest") (r ">=0.12, <0.13") (f (quote ("http2" "json"))) (k 0)) (d (n "schemars") (r ">=0.8.9, <0.9") (f (quote ("uuid1" "chrono"))) (d #t) (k 0)) (d (n "serde") (r ">=1.0, <2.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r ">=1.0.96, <2.0") (d #t) (k 0)) (d (n "thiserror") (r ">=1.0.40, <2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "uniffi") (r "=0.26.1") (o #t) (d #t) (k 0)) (d (n "wiremock") (r "^0.6.0") (d #t) (k 2)))) (h "18shabys3dl45axifdc6pdpwa4vmbk1q9m6c9rv75q0xfp2051zv") (s 2) (e (quote (("mobile" "dep:uniffi")))) (r "1.71")))
+

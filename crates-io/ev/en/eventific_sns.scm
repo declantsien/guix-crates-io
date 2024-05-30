@@ -1,0 +1,6 @@
+(define-module (crates-io ev en eventific_sns) #:use-module (crates-io))
+
+(define-public crate-eventific_sns-0.1.0 (c (n "eventific_sns") (v "0.1.0") (d (list (d (n "eventific") (r "^0.1.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_sns") (r "^0.40.0") (d #t) (k 0)) (d (n "slog") (r "^2.5.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "146hcjadsydmdrk5mzys1kqvvhgi4cqylavv9wf9b5i9lnlb1vn6") (f (quote (("integration_tests"))))))
+
+(define-public crate-eventific_sns-0.1.1 (c (n "eventific_sns") (v "0.1.1") (d (list (d (n "eventific") (r "^0.1.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_sns") (r "^0.40.0") (d #t) (k 0)) (d (n "slog") (r "^2.5.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "10n26i9bxhp5xdgfx5iaz6y1zf8cyn20m33vn7h9c7ddfzl8nww9") (f (quote (("integration_tests"))))))
+

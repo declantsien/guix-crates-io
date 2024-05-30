@@ -1,0 +1,8 @@
+(define-module (crates-io st ri stripe_api) #:use-module (crates-io))
+
+(define-public crate-stripe_api-0.5.7 (c (n "stripe_api") (v "0.5.7") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "15vr1wgvd3klc2hmhcrw10az6sydfx2dw90x87k47dz1rz7nxsib") (f (quote (("default") ("async"))))))
+
+(define-public crate-stripe_api-0.5.8 (c (n "stripe_api") (v "0.5.8") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "0wclzs0l645nx4lnw39gszswyqfj36z9yivaafpdxw8ykw0nnw3c") (f (quote (("default") ("async"))))))
+
+(define-public crate-stripe_api-0.5.9 (c (n "stripe_api") (v "0.5.9") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "047svqxw24a6ggi8vdyqkpwvc6mp0q1kghmrhswj5czriz4b6ksd") (f (quote (("default") ("async"))))))
+

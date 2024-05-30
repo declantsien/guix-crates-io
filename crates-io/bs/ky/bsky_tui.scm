@@ -1,0 +1,8 @@
+(define-module (crates-io bs ky bsky_tui) #:use-module (crates-io))
+
+(define-public crate-bsky_tui-0.0.1 (c (n "bsky_tui") (v "0.0.1") (d (list (d (n "atrium-api") (r "^0.4") (d #t) (k 0)) (d (n "atrium-xrpc") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "ratatui") (r "^0.22") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "seahorse") (r "^2.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0pz6qk6bblwp2x3ck4y2pzlnb84g5sw6yhabf8cz406gy5yvk8k1")))
+
+(define-public crate-bsky_tui-0.0.2 (c (n "bsky_tui") (v "0.0.2") (d (list (d (n "atrium-api") (r "^0.4") (d #t) (k 0)) (d (n "atrium-xrpc") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "ratatui") (r "^0.22") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "seahorse") (r "^2.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "webbrowser") (r "^0.8") (d #t) (k 0)))) (h "1df42r0xarrnvd15xc3bkgdv799qx6s2lhp2vzydz99rba7v1mns")))
+
+(define-public crate-bsky_tui-0.0.3 (c (n "bsky_tui") (v "0.0.3") (d (list (d (n "atrium-api") (r "^0.4") (d #t) (k 0)) (d (n "atrium-xrpc") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "ratatui") (r "^0.22") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "seahorse") (r "^2.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "webbrowser") (r "^0.8") (d #t) (k 0)))) (h "1gjixvi7k7wg3wisqkh36qmm4a1ym60gx4mj6w61w2qg21qwbm5r")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io st or storus) #:use-module (crates-io))
+
+(define-public crate-storus-0.1.0 (c (n "storus") (v "0.1.0") (d (list (d (n "grpcio") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "prost") (r "^0.12.4") (d #t) (k 0)) (d (n "protobuf") (r "^3.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.11.0") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 1)))) (h "18lrfg0m9nyfvdir8hw5b45r7a7pdr555mgay9snvnfaa5p147j6")))
+
+(define-public crate-storus-0.1.1 (c (n "storus") (v "0.1.1") (d (list (d (n "grpcio") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "prost") (r "^0.12.4") (d #t) (k 0)) (d (n "protobuf") (r "^3.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.11.0") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 1)))) (h "0zmcsdkin1hf628b1ssa90n983hpgcicxgrv54d9d16hkja6bswd")))
+
+(define-public crate-storus-0.1.2 (c (n "storus") (v "0.1.2") (d (list (d (n "grpcio") (r "^0.13.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "prost") (r "^0.12.4") (d #t) (k 0)) (d (n "protobuf") (r "^3.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.11.0") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 0)) (d (n "tonic-build") (r "^0.11.0") (d #t) (k 1)))) (h "018qxq53bhs5yz3jqm2yzp698ih41mdj938paq3sim2i3jiy673w")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io qu i- qui-vive) #:use-module (crates-io))
+
+(define-public crate-qui-vive-0.1.0 (c (n "qui-vive") (v "0.1.0") (d (list (d (n "clap") (r "^2.31") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.5.3") (d #t) (k 0)) (d (n "futures") (r "^0.1.17") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "mouscache") (r "^0.4") (d #t) (k 0)) (d (n "mouscache_derive") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "1hc5y0961ic6lm7amcrash3pk5ir9qi67y8mj4aq6jadc5yl35mr")))
+

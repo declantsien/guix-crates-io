@@ -1,0 +1,16 @@
+(define-module (crates-io pc a9 pca9539) #:use-module (crates-io))
+
+(define-public crate-pca9539-0.1.0 (c (n "pca9539") (v "0.1.0") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (o #t) (d #t) (k 0)))) (h "1qj3nv1mj074l0xk4bsak6zrx4amcfkkv104p8nsqv897j8flbm2") (f (quote (("example") ("default" "example")))) (y #t)))
+
+(define-public crate-pca9539-0.1.1 (c (n "pca9539") (v "0.1.1") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (o #t) (d #t) (k 0)))) (h "0kp8mrlmfz9zq3fm1qjv502wk43nkdx5s379dpa0riq47gsxi8w0") (f (quote (("example") ("default" "example"))))))
+
+(define-public crate-pca9539-0.1.2 (c (n "pca9539") (v "0.1.2") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (o #t) (d #t) (k 0)))) (h "1p1fwq14wd909wklaz26dfiwn50lyjw4rycvhbq1pjh9p53mrvjd") (f (quote (("example") ("default" "example"))))))
+
+(define-public crate-pca9539-0.1.3 (c (n "pca9539") (v "0.1.3") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (o #t) (d #t) (k 0)))) (h "05lpkj1gjl9a4l45ccsvf31w7b7vskns2kg0lmjl6hmc3jsrkijj") (f (quote (("example") ("default" "example"))))))
+
+(define-public crate-pca9539-0.2.0 (c (n "pca9539") (v "0.2.0") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (o #t) (d #t) (k 0)))) (h "1dj667mli1zmils960hsfhxck0iqamk8gm2cnx40gip4ac90saki") (f (quote (("strict") ("example") ("default" "example"))))))
+
+(define-public crate-pca9539-0.2.1 (c (n "pca9539") (v "0.2.1") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.8") (o #t) (d #t) (k 0)))) (h "0dfvhfs3srdd7m7qw7j9jyzhrgq16q48xd3nmbw98809gswb7kpq") (f (quote (("strict") ("example") ("default" "example"))))))
+
+(define-public crate-pca9539-0.3.0 (c (n "pca9539") (v "0.3.0") (d (list (d (n "bitmaps") (r "^3.1.0") (k 0)) (d (n "cortex-m") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "mockall") (r "^0.11.0") (d #t) (k 2)) (d (n "spin") (r "^0.9.8") (o #t) (d #t) (k 0)))) (h "1bibbcqf9zdcx9i1kfdxi1gryaspqyrg6j25qdfv1r212p9q8dyy") (f (quote (("strict") ("example") ("default" "example"))))))
+

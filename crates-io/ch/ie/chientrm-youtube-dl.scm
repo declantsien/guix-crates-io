@@ -1,0 +1,4 @@
+(define-module (crates-io ch ie chientrm-youtube-dl) #:use-module (crates-io))
+
+(define-public crate-chientrm-youtube-dl-0.9.0 (c (n "chientrm-youtube-dl") (v "0.9.0") (d (list (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("io-util" "process" "time" "fs"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "wait-timeout") (r "^0.2") (d #t) (k 0)))) (h "0ac3fhlrwqrpwkqglvf75w4v3qvvhnpbjkwb3hpsgl39wy70qryc") (f (quote (("downloader-rustls-tls" "reqwest" "tokio" "reqwest/rustls-tls") ("downloader-native-tls" "reqwest" "tokio" "reqwest/native-tls") ("default"))))))
+

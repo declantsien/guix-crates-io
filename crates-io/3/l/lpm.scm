@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# l lpm) #:use-module (crates-io))
+
+(define-public crate-lpm-0.1.0 (c (n "lpm") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.197") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "1kr54lin2fr249md94i1y05wsxvz4i6n829kcg0aikbb81kdypwa")))
+
+(define-public crate-lpm-1.0.0 (c (n "lpm") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.197") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0k2ll1g219b7pb0dkb1j8kmvj5895gbbz11857s7za04sdpk82ds")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io as yn async_ach-watch) #:use-module (crates-io))
+
+(define-public crate-async_ach-watch-0.1.0 (c (n "async_ach-watch") (v "0.1.0") (d (list (d (n "ach-cell") (r "^0.1") (d #t) (k 0)) (d (n "ach-util") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-notify") (r "^0.1") (d #t) (k 0)) (d (n "futures-test") (r "^0") (d #t) (k 2)))) (h "03wr41zm7xx5b90ihx1ikpvvd42dgsrc1sbzsahknc2kry9dks8k")))
+
+(define-public crate-async_ach-watch-0.1.1 (c (n "async_ach-watch") (v "0.1.1") (d (list (d (n "ach-util") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-cell") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-notify") (r "^0.1") (d #t) (k 0)) (d (n "futures-executor") (r "^0") (f (quote ("thread-pool"))) (d #t) (k 2)) (d (n "futures-test") (r "^0") (d #t) (k 2)))) (h "1hkvdg0ps0pb3lr99jmy04dry5wr9z8xpajhhric7ik9iiq76dkj")))
+
+(define-public crate-async_ach-watch-0.1.2 (c (n "async_ach-watch") (v "0.1.2") (d (list (d (n "ach-util") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-cell") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-notify") (r "^0.1") (d #t) (k 0)) (d (n "futures-executor") (r "^0") (f (quote ("thread-pool"))) (d #t) (k 2)) (d (n "futures-test") (r "^0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)))) (h "07bzy00k86f64xqcg7670wh2fdzamzn6f5cx7ghlr5mkmw2a4dbl")))
+
+(define-public crate-async_ach-watch-0.1.3 (c (n "async_ach-watch") (v "0.1.3") (d (list (d (n "ach-util") (r "^0.1") (d #t) (k 0)) (d (n "async-tick") (r "^0.1") (d #t) (k 0)) (d (n "async-tick") (r "^0.1") (f (quote ("std"))) (d #t) (k 2)) (d (n "async_ach-cell") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-notify") (r "^0.1") (d #t) (k 0)) (d (n "futures-executor") (r "^0") (f (quote ("thread-pool"))) (d #t) (k 2)) (d (n "futures-test") (r "^0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)))) (h "0p8w8c53i8svjqi37dwnzhajhx8p350qmaxl0fw8p9smazvikw14")))
+
+(define-public crate-async_ach-watch-0.1.4 (c (n "async_ach-watch") (v "0.1.4") (d (list (d (n "ach-util") (r "^0.1") (d #t) (k 0)) (d (n "async-tick") (r "^0.1") (d #t) (k 0)) (d (n "async-tick") (r "^0.1") (f (quote ("std"))) (d #t) (k 2)) (d (n "async_ach-cell") (r "^0.1") (d #t) (k 0)) (d (n "async_ach-notify") (r "^0.1") (d #t) (k 0)) (d (n "futures-executor") (r "^0") (f (quote ("thread-pool"))) (d #t) (k 2)) (d (n "futures-test") (r "^0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (k 0)))) (h "1n5a5af92sz8nkb2s5q5c2nfmsqbn9dfr33yxfmkbn3wvs1j8yvn")))
+

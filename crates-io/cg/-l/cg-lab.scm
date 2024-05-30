@@ -1,0 +1,6 @@
+(define-module (crates-io cg -l cg-lab) #:use-module (crates-io))
+
+(define-public crate-cg-lab-0.1.0 (c (n "cg-lab") (v "0.1.0") (d (list (d (n "cg-math") (r "^0.1.0") (d #t) (k 0)) (d (n "eframe") (r "^0.22.0") (f (quote ("accesskit" "default_fonts" "glow" "persistence"))) (k 0)) (d (n "egui") (r "^0.22.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1lzyqzix9y336vrnkdvsg8pxz0dv92gb9vbz7f3d504bw18jgs1z") (r "1.71.0")))
+
+(define-public crate-cg-lab-0.1.1 (c (n "cg-lab") (v "0.1.1") (d (list (d (n "cg-math") (r "^0.1.2") (d #t) (k 0)) (d (n "eframe") (r "^0.22.0") (f (quote ("accesskit" "default_fonts" "glow" "persistence"))) (k 0)) (d (n "egui") (r "^0.22.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "0bl9h9sm6xka349n0897xfwsx67fi13dzz38wb8gcbfqqfa36rl8") (r "1.71.0")))
+

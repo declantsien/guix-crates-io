@@ -1,0 +1,20 @@
+(define-module (crates-io sc re screeps-profiler) #:use-module (crates-io))
+
+(define-public crate-screeps-profiler-0.1.0 (c (n "screeps-profiler") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0j4lxa3hrn31kjvz400jrdsh20681f89sk36bkpr39n43058441i") (f (quote (("screeps" "screeps-game-api" "lazy_static" "serde_json") ("default"))))))
+
+(define-public crate-screeps-profiler-0.1.1 (c (n "screeps-profiler") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0cdkkzq6iciaqn5av8zwfxy4f1gccgvb2nbwcf9w8s6p8mk9p2db") (f (quote (("screeps" "screeps-game-api" "lazy_static" "serde_json") ("default"))))))
+
+(define-public crate-screeps-profiler-0.1.2 (c (n "screeps-profiler") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "15ak6mc58h23j6j8gz1b30zhry63jm4zjl75hsy9mln7azg4n75w") (f (quote (("screeps" "screeps-game-api" "lazy_static" "serde_json") ("default"))))))
+
+(define-public crate-screeps-profiler-0.1.3 (c (n "screeps-profiler") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "17hsm6ilbdqwa5zni3wknh9vjwkv85mdbp2236ccgzhgbph524hi") (f (quote (("screeps" "screeps-game-api" "lazy_static" "serde_json") ("default"))))))
+
+(define-public crate-screeps-profiler-0.1.4 (c (n "screeps-profiler") (v "0.1.4") (d (list (d (n "lazy_static") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1ng9ajwchcyr2n8gj02isxzg0s7v7q17i1hwlg79mkhqm7mix32w") (f (quote (("screeps" "screeps-game-api" "lazy_static" "serde_json") ("enabled") ("default" "enabled"))))))
+
+(define-public crate-screeps-profiler-0.1.5 (c (n "screeps-profiler") (v "0.1.5") (d (list (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0h1mhfcncp2g56qp8bd82qm4xgqbw031lyzckphxq36kyfw9alv1") (f (quote (("enabled") ("default" "enabled"))))))
+
+(define-public crate-screeps-profiler-0.1.6 (c (n "screeps-profiler") (v "0.1.6") (d (list (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1mlv9465z8pmzpggc1a9gc84c8qg3b7vwwgqfmk8ampn8ykr63y8") (f (quote (("enabled") ("default"))))))
+
+(define-public crate-screeps-profiler-0.1.7 (c (n "screeps-profiler") (v "0.1.7") (d (list (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1hpc5ckvprc21nhyw14as4kz0wvsx2kpxkv04044y2c7a0g89lrk") (f (quote (("enabled"))))))
+
+(define-public crate-screeps-profiler-0.1.8 (c (n "screeps-profiler") (v "0.1.8") (d (list (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "screeps-game-api") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "00z7mdi9w2jws4sv0imc4mg03i14818ivp3ng689nxqlfvwkgbc5") (f (quote (("enabled"))))))
+

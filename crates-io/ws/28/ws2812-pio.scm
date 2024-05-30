@@ -1,0 +1,18 @@
+(define-module (crates-io ws #{28}# ws2812-pio) #:use-module (crates-io))
+
+(define-public crate-ws2812-pio-0.1.0 (c (n "ws2812-pio") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "embedded-time") (r "^0.12.0") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.1.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.3.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "0rn3hkpzkb2clifnv0cr441yx3kn7874ygzx5jm54f5y8c8ch92a")))
+
+(define-public crate-ws2812-pio-0.2.0 (c (n "ws2812-pio") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "embedded-time") (r "^0.12.0") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.4.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "0fy0n7gdds3v5g4ckf424h701gx17lc64bm271lc1jaj0iapl4p3")))
+
+(define-public crate-ws2812-pio-0.3.0 (c (n "ws2812-pio") (v "0.3.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "embedded-time") (r "^0.12.0") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.5.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "09qxnqmq4i4l04hvpaqjz18k38x0h1cil9j9cfw87d8ahglv5j2r")))
+
+(define-public crate-ws2812-pio-0.4.0 (c (n "ws2812-pio") (v "0.4.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "fugit") (r "^0.3.5") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.6.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "0agfcwi8hsa5q3w10ccxbmkzdkrv9n6bg488izjp89ihics70sqz")))
+
+(define-public crate-ws2812-pio-0.5.0 (c (n "ws2812-pio") (v "0.5.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "fugit") (r "^0.3.5") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.7.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "1yxjrbrqxl94inkcrsrvvmfi0wh2qnmh5lm3n065kh1gzvblgnrs")))
+
+(define-public crate-ws2812-pio-0.6.0 (c (n "ws2812-pio") (v "0.6.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "fugit") (r "^0.3.5") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.8.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "13cfyfqvmfwjyjf9jp939qqn1ma80c60cqv3nc2l7qf18cxrw8bx")))
+
+(define-public crate-ws2812-pio-0.7.0 (c (n "ws2812-pio") (v "0.7.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "fugit") (r "^0.3.5") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.9.0") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "0g5v639ii77mq8j43zxkj206j6nf3979f9bxffzxpq5gcq6c2qvm")))
+
+(define-public crate-ws2812-pio-0.8.0 (c (n "ws2812-pio") (v "0.8.0") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.5") (d #t) (k 0)) (d (n "fugit") (r "^0.3.5") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "pio") (r "^0.2.0") (d #t) (k 0)) (d (n "rp2040-hal") (r "^0.10") (d #t) (k 0)) (d (n "smart-leds-trait") (r "^0.2.1") (d #t) (k 0)))) (h "0s28hxg6g23mwwmsfkz14vpnwmcrz8hq9vp3qq3bnk2qxzha90qb")))
+

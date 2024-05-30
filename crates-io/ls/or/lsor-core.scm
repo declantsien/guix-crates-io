@@ -1,0 +1,4 @@
+(define-module (crates-io ls or lsor-core) #:use-module (crates-io))
+
+(define-public crate-lsor-core-0.1.0 (c (n "lsor-core") (v "0.1.0") (d (list (d (n "async-graphql") (r "^7.0") (f (quote ("chrono" "url" "uuid"))) (d #t) (k 0)) (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "prqlc") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("chrono" "json" "macros" "postgres" "runtime-tokio-rustls" "uuid"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^1.7") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "09c42v2l3ajqz2fc3jv4gk5w18i1vwwv48msc53pfgblrp4p73x9")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io sd k- sdk-cds) #:use-module (crates-io))
+
+(define-public crate-sdk-cds-0.1.0 (c (n "sdk-cds") (v "0.1.0") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "0f0n7g6ilcsaklqbm14rjgg9rai3m8wvni0jnadi2znrwyqdv3ib")))
+
+(define-public crate-sdk-cds-0.2.0 (c (n "sdk-cds") (v "0.2.0") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "0ail8dbfhbr632hxk6bgm7gnm8crixaxbbh36w9d10rl1jzqhq7x")))
+
+(define-public crate-sdk-cds-0.3.0 (c (n "sdk-cds") (v "0.3.0") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)))) (h "0x5sx8wdmlrc9b685hn1gipzizi7wqmp4pap9qwgvi8b0kdl2zpr")))
+
+(define-public crate-sdk-cds-0.4.0 (c (n "sdk-cds") (v "0.4.0") (d (list (d (n "async-std") (r "^0.99.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.9") (f (quote ("serde"))) (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.1") (d #t) (k 0)) (d (n "http") (r "^0.1.19") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^6.0.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.22") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "surf") (r "^1.0.3") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "0l3373h59fnfpkn9ichgv68yam1r6v7c5s9pchc8xg5kd2fklxrk")))
+

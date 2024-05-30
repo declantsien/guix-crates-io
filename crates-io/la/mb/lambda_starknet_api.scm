@@ -1,0 +1,4 @@
+(define-module (crates-io la mb lambda_starknet_api) #:use-module (crates-io))
+
+(define-public crate-lambda_starknet_api-0.1.0 (c (n "lambda_starknet_api") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "cairo-lang-starknet") (r "^2.0.0-rc1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "starknet-crypto") (r "^0.5.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "11mxh7nzv20g1wlqqbccpg31zbfvc5pzsq0d6iy7xidc976cmb0q") (f (quote (("testing"))))))
+

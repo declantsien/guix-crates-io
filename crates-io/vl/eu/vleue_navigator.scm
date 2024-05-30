@@ -1,0 +1,6 @@
+(define-module (crates-io vl eu vleue_navigator) #:use-module (crates-io))
+
+(define-public crate-vleue_navigator-0.7.0 (c (n "vleue_navigator") (v "0.7.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_render" "bevy_asset"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("bevy_ui" "bevy_text" "bevy_winit" "bevy_core_pipeline" "bevy_scene" "bevy_gltf" "bevy_pbr" "bevy_sprite" "bevy_gizmos" "tonemapping_luts" "ktx2" "zstd" "multi-threaded"))) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "polyanya") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0bwjcj81cip5lwz03cplirg82xpb90lsm4fmax81y2f5l8l963qf") (f (quote (("linuxci" "bevy/x11") ("default")))) (y #t)))
+
+(define-public crate-vleue_navigator-0.7.1 (c (n "vleue_navigator") (v "0.7.1") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_render" "bevy_asset"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("bevy_ui" "bevy_text" "bevy_winit" "bevy_core_pipeline" "bevy_scene" "bevy_gltf" "bevy_pbr" "bevy_sprite" "bevy_gizmos" "tonemapping_luts" "ktx2" "zstd" "multi-threaded"))) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "polyanya") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "13a84fd4iqnf9drr8xinzkwb3rxyrzhrcpgkipjrrjakv4g6265s") (f (quote (("linuxci" "bevy/x11") ("default"))))))
+

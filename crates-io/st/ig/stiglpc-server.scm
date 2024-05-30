@@ -1,0 +1,8 @@
+(define-module (crates-io st ig stiglpc-server) #:use-module (crates-io))
+
+(define-public crate-stiglpc-server-0.1.0 (c (n "stiglpc-server") (v "0.1.0") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "actix-ws") (r "^0.2.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "rouille") (r "^3.6.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "macros"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "0fgzj7b91kazmm9lhprj1npqy9kzm71crqsld1p6az6fv2fghl94")))
+
+(define-public crate-stiglpc-server-0.1.1 (c (n "stiglpc-server") (v "0.1.1") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "actix-ws") (r "^0.2.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "rouille") (r "^3.6.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "macros"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "02pr7x5lk5bwla8sznrz34vsfadyhlr2wrwycl23d7fwic4a8yag")))
+
+(define-public crate-stiglpc-server-0.1.2 (c (n "stiglpc-server") (v "0.1.2") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "actix-ws") (r "^0.2.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "rouille") (r "^3.6.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "macros"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "12ssqa4nwa2nrz721j31kdr2inqkzqd188n00kqb0aq95jnyb7cc")))
+

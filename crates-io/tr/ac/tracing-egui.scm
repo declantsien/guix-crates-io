@@ -1,0 +1,4 @@
+(define-module (crates-io tr ac tracing-egui) #:use-module (crates-io))
+
+(define-public crate-tracing-egui-0.1.0 (c (n "tracing-egui") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("std" "clock"))) (k 0) (p "chrono")) (d (n "egui") (r "^0.13") (f (quote ("single_threaded"))) (k 0) (p "egui")) (d (n "hashbrown") (r "^0.11") (f (quote ("ahash"))) (k 0) (p "hashbrown")) (d (n "indexmap") (r "^1.7") (f (quote ("std"))) (k 0) (p "indexmap")) (d (n "once_cell") (r "^1.8") (k 0) (p "once_cell")) (d (n "parking_lot") (r "^0.11") (k 0) (p "parking_lot")) (d (n "smartstring") (r "^0.2") (o #t) (k 0) (p "smartstring")) (d (n "tracing") (r "^0.1") (k 0) (p "tracing")) (d (n "tracing-subscriber") (r "^0.2") (f (quote ("registry"))) (k 0) (p "tracing-subscriber")))) (h "0qy80y3mwr1yahhry3pabvy6lk8xy9620dvf026hgv410xyvlwvq") (f (quote (("default" "smartstring"))))))
+

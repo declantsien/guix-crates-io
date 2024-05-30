@@ -1,0 +1,4 @@
+(define-module (crates-io dw in dwindow) #:use-module (crates-io))
+
+(define-public crate-dwindow-0.3.0 (c (n "dwindow") (v "0.3.0") (d (list (d (n "dcolor") (r "^0.3.0") (d #t) (k 0)) (d (n "dinput") (r "^0.3.0") (k 0)) (d (n "dnum") (r "^0.3.0") (d #t) (k 0)) (d (n "dvec") (r "^0.3.0") (d #t) (k 0)) (d (n "gdi32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11-dl") (r "^2.14.0") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)))) (h "0kd96j131p47qn77w97bpfkx75vvv7h681q28igjl6lzfrymqbh1") (y #t)))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io pi ng pingora-timeout) #:use-module (crates-io))
+
+(define-public crate-pingora-timeout-0.1.0 (c (n "pingora-timeout") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "rt-multi-thread" "macros" "sync"))) (d #t) (k 0)))) (h "1qa7v9pl80nlnjidg8913nmvgrc6zgh9x97a123b5q9l9lcq5q8b")))
+
+(define-public crate-pingora-timeout-0.1.1 (c (n "pingora-timeout") (v "0.1.1") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "rt-multi-thread" "macros" "sync"))) (d #t) (k 0)))) (h "09gqfqvs9z4y7qqrf7n5gaz0bq4hzmc4y6x4vm70sxh19zgdnhm5")))
+
+(define-public crate-pingora-timeout-0.2.0 (c (n "pingora-timeout") (v "0.2.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("time" "rt-multi-thread" "macros" "sync"))) (d #t) (k 0)))) (h "0abqa62d092sapf4qx7iqj7dxawq03mirmnpkcp1f2ar4r64kmyf")))
+

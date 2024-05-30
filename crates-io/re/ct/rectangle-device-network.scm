@@ -1,0 +1,4 @@
+(define-module (crates-io re ct rectangle-device-network) #:use-module (crates-io))
+
+(define-public crate-rectangle-device-network-0.1.0 (c (n "rectangle-device-network") (v "0.1.0") (d (list (d (n "async-std") (r "^1.6.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "libipld") (r "^0.4.0") (d #t) (k 0)) (d (n "libp2p") (r "^0.28.1") (d #t) (k 0)) (d (n "libp2p-bitswap") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rectangle-device-blocks") (r "^0.1.0") (d #t) (k 0)) (d (n "rectangle-device-media") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0378nsdplsdwhd519xjhd7w8ivgfqc04dp16zw3fpb302p96y93k")))
+

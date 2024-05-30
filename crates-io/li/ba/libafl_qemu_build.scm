@@ -1,0 +1,16 @@
+(define-module (crates-io li ba libafl_qemu_build) #:use-module (crates-io))
+
+(define-public crate-libafl_qemu_build-0.9.0 (c (n "libafl_qemu_build") (v "0.9.0") (d (list (d (n "bindgen") (r "^0.63") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.2") (d #t) (k 0)))) (h "0m4v3n2fvqzyv862jh8cblhs3iw3sdxy98hqchifr585kgrgl46k") (f (quote (("slirp") ("clippy"))))))
+
+(define-public crate-libafl_qemu_build-0.10.0 (c (n "libafl_qemu_build") (v "0.10.0") (d (list (d (n "bindgen") (r "^0.64") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.2") (d #t) (k 0)))) (h "11lif9yqpc8473dn5qx6zhmy3kfas0pxphy02gzmzb7qhdvnr0a9") (f (quote (("slirp") ("clippy"))))))
+
+(define-public crate-libafl_qemu_build-0.10.1 (c (n "libafl_qemu_build") (v "0.10.1") (d (list (d (n "bindgen") (r "^0.64") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.2") (d #t) (k 0)))) (h "0997cijynwxlb55mm4s08x1sx1ncm83w46j2j8ic3qg2gd62lza9") (f (quote (("slirp") ("clippy"))))))
+
+(define-public crate-libafl_qemu_build-0.11.0 (c (n "libafl_qemu_build") (v "0.11.0") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.4") (d #t) (k 0)))) (h "00mybjfx7ksfb51dh25c3qfgwd80wr1p7lhc3c6y4idybg832cim") (f (quote (("slirp") ("clippy"))))))
+
+(define-public crate-libafl_qemu_build-0.11.1 (c (n "libafl_qemu_build") (v "0.11.1") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.4") (d #t) (k 0)))) (h "0y5593fvm0hg3hkgyq2kbyavj71h7zxxf7xb97lxsvf0khhawxdk") (f (quote (("slirp") ("clippy"))))))
+
+(define-public crate-libafl_qemu_build-0.11.2 (c (n "libafl_qemu_build") (v "0.11.2") (d (list (d (n "bindgen") (r "^0.68") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.4") (d #t) (k 0)))) (h "18fl10ic5k9632k63w4pqiv7s304fajyng2k5l544yw6c35dxd51") (f (quote (("slirp") ("clippy"))))))
+
+(define-public crate-libafl_qemu_build-0.12.0 (c (n "libafl_qemu_build") (v "0.12.0") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "json") (r "^0.12") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.26") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "shell-words") (r "^1.1") (d #t) (k 0)) (d (n "which") (r "^4.4") (d #t) (k 0)))) (h "0wi2dxi2qb3d7jl1jh96svqwwhjmm8na5sl52mjjqap90dnvy22g") (f (quote (("slirp") ("shared") ("clippy"))))))
+

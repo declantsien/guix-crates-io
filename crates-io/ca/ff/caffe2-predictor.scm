@@ -1,0 +1,8 @@
+(define-module (crates-io ca ff caffe2-predictor) #:use-module (crates-io))
+
+(define-public crate-caffe2-predictor-0.1.3-alpha.0 (c (n "caffe2-predictor") (v "0.1.3-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-db") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.3-alpha.0") (d #t) (k 0)))) (h "1jajpvfbnqisiqywppnw42xac48hm3gpn6lzz6znyiv9gqvdydfc")))
+
+(define-public crate-caffe2-predictor-0.1.4-alpha.0 (c (n "caffe2-predictor") (v "0.1.4-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-db") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.4-alpha.0") (d #t) (k 0)))) (h "01kq062qb2s5411clnh7qw3mvpxf17z38iqqnvqc81q5psys190m")))
+
+(define-public crate-caffe2-predictor-0.1.5-alpha.0 (c (n "caffe2-predictor") (v "0.1.5-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-db") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.5-alpha.0") (d #t) (k 0)))) (h "0bk8s00fjwlb4alchynrln9zpl40cs0g64cb5g4a4r0799s04p12")))
+

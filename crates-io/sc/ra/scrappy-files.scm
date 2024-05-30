@@ -1,0 +1,4 @@
+(define-module (crates-io sc ra scrappy-files) #:use-module (crates-io))
+
+(define-public crate-scrappy-files-0.0.1 (c (n "scrappy-files") (v "0.0.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1") (d #t) (k 0)) (d (n "scrappy") (r "^0.0.1") (k 0)) (d (n "scrappy") (r "^0.0.1") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "scrappy-http") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-rt") (r "^0.0.1") (d #t) (k 2)) (d (n "scrappy-service") (r "^0.0.1") (d #t) (k 0)) (d (n "v_htmlescape") (r "^0.4") (d #t) (k 0)))) (h "19whi149gn9yirxknmbwp4lnlf1mpw9d7brfybd12viry5zn3qva")))
+

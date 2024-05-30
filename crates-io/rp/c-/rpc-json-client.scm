@@ -1,0 +1,6 @@
+(define-module (crates-io rp c- rpc-json-client) #:use-module (crates-io))
+
+(define-public crate-rpc-json-client-0.1.0 (c (n "rpc-json-client") (v "0.1.0") (d (list (d (n "async-std") (r "^1.6.0") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "http-client") (r "^4.0.0") (d #t) (k 0)) (d (n "http-types") (r "^2.0.0") (d #t) (k 0)) (d (n "isahc") (r "^0.9") (f (quote ("http2"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "surf") (r "^2.0.0-alpha.5") (d #t) (k 0)))) (h "0wpr9bdjhin0qnhjqx053hijpjghp6bkz9h53ximqyknf093mh5s")))
+
+(define-public crate-rpc-json-client-0.1.1 (c (n "rpc-json-client") (v "0.1.1") (d (list (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "http-client") (r "^4.0.0") (d #t) (k 0)) (d (n "http-types") (r "^2.0.0") (d #t) (k 0)) (d (n "isahc") (r "^0.9") (f (quote ("http2"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "surf") (r "^2.1.0") (d #t) (k 0)))) (h "0l4ciwlzqmsw76s8832fdfid1053njcr3pc85hhabdgvlv6qvi25")))
+

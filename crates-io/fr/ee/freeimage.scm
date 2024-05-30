@@ -1,0 +1,26 @@
+(define-module (crates-io fr ee freeimage) #:use-module (crates-io))
+
+(define-public crate-freeimage-0.0.1 (c (n "freeimage") (v "0.0.1") (d (list (d (n "freeimage-sys") (r "*") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "*") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "*") (d #t) (k 0)))) (h "1ybwx86vnxv2zm776n68bghnrbj50058nyw4lxckzzwa6dv9l4ag")))
+
+(define-public crate-freeimage-0.0.2 (c (n "freeimage") (v "0.0.2") (d (list (d (n "enum_primitive") (r "0.1.*") (d #t) (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "0.2.*") (d #t) (k 0)) (d (n "num") (r "0.1.*") (d #t) (k 0)))) (h "18il1xgmam081vnzi7g6qkx05y9hcbgcpjkd2nvdilvdd8hkrf69")))
+
+(define-public crate-freeimage-0.1.0 (c (n "freeimage") (v "0.1.0") (d (list (d (n "enum_primitive") (r "0.1.*") (d #t) (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "asmjs-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "0.2.*") (d #t) (k 0)) (d (n "num") (r "0.1.*") (d #t) (k 0)))) (h "09izvb3305v1rbsnpk25lnqm13livf6z04p72w8y53bxv6wh9ivr")))
+
+(define-public crate-freeimage-0.1.1 (c (n "freeimage") (v "0.1.1") (d (list (d (n "enum_primitive") (r "0.1.*") (d #t) (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "asmjs-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "0.2.*") (d #t) (k 0)) (d (n "num") (r "0.1.*") (d #t) (k 0)))) (h "07frxajkq1zs8a0hjsi607l718napdbf65z0mfkh98b15czys11g")))
+
+(define-public crate-freeimage-0.1.2 (c (n "freeimage") (v "0.1.2") (d (list (d (n "enum_primitive") (r "0.1.*") (d #t) (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "asmjs-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "0.2.*") (d #t) (k 0)) (d (n "num") (r "0.1.*") (d #t) (k 0)))) (h "1zm8z8pfxd2ivp8khafq1ig46b3v61w6s2bh4riig73vza7bb2mj")))
+
+(define-public crate-freeimage-0.1.3 (c (n "freeimage") (v "0.1.3") (d (list (d (n "enum_primitive") (r "0.1.*") (d #t) (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "asmjs-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "0.2.*") (d #t) (k 0)) (d (n "num") (r "0.1.*") (d #t) (k 0)))) (h "0f5a7172p8hir14xn30077a6alncfaaky0g0xkgpvjqb3rbdhqb7")))
+
+(define-public crate-freeimage-0.1.4 (c (n "freeimage") (v "0.1.4") (d (list (d (n "enum_primitive") (r "0.1.*") (d #t) (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "asmjs-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "i686-apple-darwin") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-emscripten") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "wasm32-unknown-unknown") (k 0)) (d (n "freeimage-sys") (r "^0.0.1") (d #t) (t "x86_64-apple-darwin") (k 0)) (d (n "libc") (r "0.2.*") (d #t) (k 0)) (d (n "num") (r "0.1.*") (d #t) (k 0)))) (h "16ildbgkhfsb8p60wla3h3an0r9k818cl6grm0c1sjr21mrq4j70")))
+
+(define-public crate-freeimage-0.1.5 (c (n "freeimage") (v "0.1.5") (d (list (d (n "enum_primitive") (r "^0.1") (d #t) (k 0)) (d (n "freeimage-sys") (r "^3.18.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "000bvkk38qq75md08lrypqznnjhrsjhh7xhja3ar980f06yab9bc")))
+
+(define-public crate-freeimage-0.1.6 (c (n "freeimage") (v "0.1.6") (d (list (d (n "enum_primitive") (r "^0.1") (d #t) (k 0)) (d (n "freeimage-sys") (r "^3.18.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "0gh75rsc5nps1vkzm7s1svdfpxw3s4rxdq8pbambiawrkd6nbi9s")))
+
+(define-public crate-freeimage-0.2.0 (c (n "freeimage") (v "0.2.0") (d (list (d (n "freeimage-sys") (r "^3.18.0") (d #t) (k 0)))) (h "0lnfflsph28xcgvpnv85s0nhg1jv7rawk5cw7grz2n8mwnmiciap")))
+
+(define-public crate-freeimage-0.2.1 (c (n "freeimage") (v "0.2.1") (d (list (d (n "freeimage-sys") (r "^3.18.0") (d #t) (k 0)))) (h "1afa5mb1ffxhvgwz8lr758irgzya8klvpm09j3kzny1b96h9r1ic")))
+
+(define-public crate-freeimage-0.2.2 (c (n "freeimage") (v "0.2.2") (d (list (d (n "freeimage-sys") (r "^3.18.0") (d #t) (k 0)))) (h "01zm2036x60zrcjwr7cgdr76hjdkls96vzpz3r8c9jcspsdsymmx")))
+

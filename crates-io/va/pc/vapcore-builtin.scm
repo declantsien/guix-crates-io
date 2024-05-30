@@ -1,0 +1,4 @@
+(define-module (crates-io va pc vapcore-builtin) #:use-module (crates-io))
+
+(define-public crate-vapcore-builtin-0.1.0 (c (n "vapcore-builtin") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "common-types") (r "^0.1.0") (d #t) (k 0)) (d (n "eip-152") (r "^0.1.0") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num") (r "^0.1") (f (quote ("bigint"))) (k 0)) (d (n "tbn") (r "^0.4.4") (k 0)) (d (n "tetsy-bytes") (r "^0.1") (d #t) (k 0)) (d (n "tetsy-crypto") (r "^0.4.2") (f (quote ("publickey"))) (d #t) (k 0)) (d (n "tetsy-keccak-hash") (r "^0.4.0") (d #t) (k 0)) (d (n "tetsy-macros") (r "^0.1.0") (d #t) (k 2)) (d (n "vapjson") (r "^0.1.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "0rh5nqff84fqqpvcff5gspcsaagxgnhgf3lg6y0bkadx35h63rbm")))
+

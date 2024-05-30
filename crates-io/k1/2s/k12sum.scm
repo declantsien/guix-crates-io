@@ -1,0 +1,14 @@
+(define-module (crates-io k1 #{2s}# k12sum) #:use-module (crates-io))
+
+(define-public crate-k12sum-0.1.0 (c (n "k12sum") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "assert_cmd") (r "^0.12.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (k 0)) (d (n "duct") (r "^0.13.3") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "kangarootwelve_xkcp") (r "^0.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "1zli0zi16s217dnmacdl029zbhbsc9ag7k9xzwxldb5vnh9nnidv")))
+
+(define-public crate-k12sum-0.1.1 (c (n "k12sum") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "assert_cmd") (r "^0.12.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (k 0)) (d (n "duct") (r "^0.13.3") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "kangarootwelve_xkcp") (r "^0.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "0ayy9gsd5irsx2gfyr9bqibkhiwwmv4ijfylamgghrbsawyzmggr")))
+
+(define-public crate-k12sum-0.1.2 (c (n "k12sum") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (k 0)) (d (n "duct") (r "^0.13.3") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "kangarootwelve_xkcp") (r "^0.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "wild") (r "^2.0.3") (d #t) (k 0)))) (h "1mykzlm7fvf4bma5rpjh82y22x726iimg6i6d356rnsw30fp0xw7")))
+
+(define-public crate-k12sum-0.1.3 (c (n "k12sum") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (k 0)) (d (n "duct") (r "^0.13.3") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "kangarootwelve_xkcp") (r "^0.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "wild") (r "^2.0.3") (d #t) (k 0)))) (h "0a91bz89c3hg03i0gy41785ymgx78182lkhnghw35fbab7ggfkbn")))
+
+(define-public crate-k12sum-0.1.4 (c (n "k12sum") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (k 0)) (d (n "duct") (r "^0.13.3") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "kangarootwelve_xkcp") (r "^0.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "wild") (r "^2.0.3") (d #t) (k 0)))) (h "1ar7d4i0qxkz637arj9nvm7biipq6bzkpxwi8l7ffz4jajzwizm0")))
+
+(define-public crate-k12sum-0.1.5 (c (n "k12sum") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (k 0)) (d (n "duct") (r "^0.13.3") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "kangarootwelve_xkcp") (r "^0.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "wild") (r "^2.0.3") (d #t) (k 0)))) (h "1q29g2v5pghdzswz78yzb352wfqfahia3hxpxdxp5s7k1qy3jhfl")))
+

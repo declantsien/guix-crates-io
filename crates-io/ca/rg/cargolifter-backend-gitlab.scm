@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargolifter-backend-gitlab) #:use-module (crates-io))
+
+(define-public crate-cargolifter-backend-gitlab-0.1.0 (c (n "cargolifter-backend-gitlab") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1") (d #t) (k 0)))) (h "02gmz8bkvnjngkr32yqfnbmjf63mvhbcpj5hzm99h5x8vsshwa6m")))
+
+(define-public crate-cargolifter-backend-gitlab-0.2.0 (c (n "cargolifter-backend-gitlab") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "cargolifter-core") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1") (d #t) (k 0)))) (h "198zxkap5xs1gmrxs6rhgcgpggplyx3a4lx0vvikn4f0qqphjj8a")))
+

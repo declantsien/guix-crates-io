@@ -1,0 +1,4 @@
+(define-module (crates-io wc lo wcloud) #:use-module (crates-io))
+
+(define-public crate-wcloud-0.1.0 (c (n "wcloud") (v "0.1.0") (d (list (d (n "ab_glyph") (r "^0.2.20") (d #t) (k 0)) (d (n "clap") (r "^3.2.23") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "csscolorparser") (r "^0.6.2") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (d #t) (k 0)) (d (n "palette") (r "^0.6.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.164") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (o #t) (d #t) (k 0)) (d (n "woff2") (r "^0.3.0") (d #t) (k 0)))) (h "1349yjsj6y6fnva71bvwzwz44gj0kpw4vs7yhzjl52vzd2bk7dmn") (s 2) (e (quote (("visualize" "dep:serde" "dep:serde_derive" "dep:serde_json"))))))
+

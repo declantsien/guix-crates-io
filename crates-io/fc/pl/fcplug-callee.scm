@@ -1,0 +1,8 @@
+(define-module (crates-io fc pl fcplug-callee) #:use-module (crates-io))
+
+(define-public crate-fcplug-callee-0.2.2 (c (n "fcplug-callee") (v "0.2.2") (d (list (d (n "defer-lite") (r "^1.0.0") (d #t) (k 0)) (d (n "fcplug-build") (r "^0.2.1") (d #t) (k 1)) (d (n "fcplug-macros") (r "^0.2.1") (d #t) (k 0)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "protobuf") (r "^2.28.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1jb64n9syzlz0i94fpdvhk96826jxsg6jxkibaq9zc13wgdbnbna") (y #t)))
+
+(define-public crate-fcplug-callee-0.2.3 (c (n "fcplug-callee") (v "0.2.3") (d (list (d (n "defer-lite") (r "^1.0.0") (d #t) (k 0)) (d (n "fcplug-build") (r "^0.2.3") (d #t) (k 1)) (d (n "fcplug-macros") (r "^0.2.3") (d #t) (k 0)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "protobuf") (r "^2.28.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1n59qhhh30b8rl791bnhshskzd07g3mrr7x1q6rhpavg7xbxi6bq")))
+
+(define-public crate-fcplug-callee-0.2.4 (c (n "fcplug-callee") (v "0.2.4") (d (list (d (n "defer-lite") (r "^1.0.0") (d #t) (k 0)) (d (n "fcplug-build") (r "^0.2.4") (d #t) (k 1)) (d (n "fcplug-macros") (r "^0.2.4") (d #t) (k 0)) (d (n "flatbuffers") (r "^23.5.26") (d #t) (k 0)) (d (n "protobuf") (r "^2.28.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0qybsp7cc5rvpwydd0i4awf272rs13bp9xdhx9h1v1hkxcycgmvg")))
+

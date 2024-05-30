@@ -1,0 +1,16 @@
+(define-module (crates-io ca sp casper-event-standard) #:use-module (crates-io))
+
+(define-public crate-casper-event-standard-0.1.0 (c (n "casper-event-standard") (v "0.1.0") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)))) (h "0wgq51rpsg47d1rgz83f1msdndmz9sb4c8rl86g9ifx239ryympi")))
+
+(define-public crate-casper-event-standard-0.1.1 (c (n "casper-event-standard") (v "0.1.1") (d (list (d (n "casper-contract") (r "^1.4.4") (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "18gbyymq740gcbj0y8gfglfridy4kyyjs19xma39n5s0hrkr2bqq") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-casper-event-standard-0.2.0 (c (n "casper-event-standard") (v "0.2.0") (d (list (d (n "casper-contract") (r "^1.4.4") (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.2.0") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1b5jhky8bbhc8sqdrmzjks0c8606fdk0gf7bqzz5gsyjypjl2dyi") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-casper-event-standard-0.3.0 (c (n "casper-event-standard") (v "0.3.0") (d (list (d (n "casper-contract") (r "^2.0.0") (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.3.0") (d #t) (k 0)) (d (n "casper-types") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0hwdd9jklq01zzg3n4j1dljmjnn5rrc96iyfamp3jmzfhlh2h6gq") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-casper-event-standard-0.4.0 (c (n "casper-event-standard") (v "0.4.0") (d (list (d (n "casper-contract") (r "^3.0.0") (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.4.0") (d #t) (k 0)) (d (n "casper-types") (r "^3.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0vmrpgwpn7vssfr6israffsaknlbxggc757w5d8pavk9j6k79xlw") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-casper-event-standard-0.4.1 (c (n "casper-event-standard") (v "0.4.1") (d (list (d (n "casper-contract") (r "^3.0.0") (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.4.1") (d #t) (k 0)) (d (n "casper-types") (r "^3.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0fp06wmkksrddm361xg0zydnfarvkz4hrf0xfj2qscb9nrk5xm1y") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-casper-event-standard-0.5.0 (c (n "casper-event-standard") (v "0.5.0") (d (list (d (n "casper-contract") (r "^4.0.0") (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "casper-event-standard-macro") (r "^0.5.0") (d #t) (k 0)) (d (n "casper-types") (r "^4.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "047g4lwlysgbh7w16dnff9ml8br95qml4my7xvfgqjrb2kdinfja") (s 2) (e (quote (("serde" "dep:serde"))))))
+

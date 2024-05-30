@@ -1,0 +1,22 @@
+(define-module (crates-io st ab stable-diffusion-trainer) #:use-module (crates-io))
+
+(define-public crate-stable-diffusion-trainer-0.1.0 (c (n "stable-diffusion-trainer") (v "0.1.0") (d (list (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0wnvvfnwjz0nrmj617hjl232l7splzyxamq75l0wai2h4a144rlx")))
+
+(define-public crate-stable-diffusion-trainer-0.1.1 (c (n "stable-diffusion-trainer") (v "0.1.1") (d (list (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0h4f4sds8byczd81vg29mm4mikfi2v8661vc4d3lzv5mj634sqx1")))
+
+(define-public crate-stable-diffusion-trainer-0.1.2 (c (n "stable-diffusion-trainer") (v "0.1.2") (d (list (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0cmyfjfckjvkh1pf3drzn5wp32235spn0f9r5aj7llqqk9q5jfs0")))
+
+(define-public crate-stable-diffusion-trainer-0.1.3 (c (n "stable-diffusion-trainer") (v "0.1.3") (d (list (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0nbj6ydgiaqxyj7acbgyiwb60jhxrcx44wd5gqjpch2z9mv0vdy3")))
+
+(define-public crate-stable-diffusion-trainer-0.1.4 (c (n "stable-diffusion-trainer") (v "0.1.4") (d (list (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1fa5rwv9fmixm5rqj7cdkvrsiy24aybxzbh04568js2mj5zykw6l")))
+
+(define-public crate-stable-diffusion-trainer-0.1.5 (c (n "stable-diffusion-trainer") (v "0.1.5") (d (list (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "165aj3sgkxdr6rxk4vzblciv9zf2hh3h3qdbhd1qnriy8k5y9laa")))
+
+(define-public crate-stable-diffusion-trainer-0.1.6 (c (n "stable-diffusion-trainer") (v "0.1.6") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0dygiy728kib8xchm9a6qfpk5xq7mq6gs3dn12fvkrzyyvwg1ywc")))
+
+(define-public crate-stable-diffusion-trainer-0.1.7 (c (n "stable-diffusion-trainer") (v "0.1.7") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "03726c3smmm9zsbi6h0gslma1hhc4w3v039gzfgmhry1g9x1yzx6")))
+
+(define-public crate-stable-diffusion-trainer-0.1.8 (c (n "stable-diffusion-trainer") (v "0.1.8") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1nll8s3x413v32qn0rsgyyzzxfy8w63amv20n3rxdrgl66nrdaml")))
+
+(define-public crate-stable-diffusion-trainer-0.1.9 (c (n "stable-diffusion-trainer") (v "0.1.9") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "path-slash") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0g6c1d88m1nmd8h7m581kwr7yjpb3q8pizjlkg842a5bwv7rviv6")))
+

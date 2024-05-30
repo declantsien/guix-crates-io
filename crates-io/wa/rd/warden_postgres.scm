@@ -1,0 +1,4 @@
+(define-module (crates-io wa rd warden_postgres) #:use-module (crates-io))
+
+(define-public crate-warden_postgres-0.0.1 (c (n "warden_postgres") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "exitfailure") (r "^0.5") (d #t) (k 1)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libflate") (r "^0.1") (d #t) (k 0)) (d (n "libflate") (r "^0.1") (d #t) (k 1)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "path_abs") (r "^0.4.1") (d #t) (k 0)) (d (n "path_abs") (r "^0.4.1") (d #t) (k 1)) (d (n "postgres") (r "^0.15") (f (quote ("with-chrono"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.24") (d #t) (k 0)) (d (n "tar") (r "^0.4.24") (d #t) (k 1)) (d (n "warden_core") (r "^0.0.1") (d #t) (k 0)))) (h "1f935jpb8bqmmx91bk6zfv9gz2a59c6r849kksm4x469siwg5wv4")))
+

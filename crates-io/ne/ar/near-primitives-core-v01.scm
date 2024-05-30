@@ -1,0 +1,4 @@
+(define-module (crates-io ne ar near-primitives-core-v01) #:use-module (crates-io))
+
+(define-public crate-near-primitives-core-v01-0.1.0 (c (n "near-primitives-core-v01") (v "0.1.0") (d (list (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "borsh") (r "^0.9") (d #t) (k 0)) (d (n "bs58") (r "^0.4") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "near-account-id") (r "^0.1.0") (d #t) (k 0)) (d (n "num-rational") (r "^0.3.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1kf9h2v7gs4xv4jp2x2pzf9qn90rkyndfpc98xsb23nyk3p06696") (f (quote (("protocol_feature_routing_exchange_algorithm") ("protocol_feature_alt_bn128") ("default"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ma tr matrix-appservice-rs) #:use-module (crates-io))
+
+(define-public crate-matrix-appservice-rs-0.0.0 (c (n "matrix-appservice-rs") (v "0.0.0") (h "0nq5fhpfz9rc51clr8l2xppr4pfwf6dd2kynmsqyg3qvbdjjy799")))
+
+(define-public crate-matrix-appservice-rs-0.2.0 (c (n "matrix-appservice-rs") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("server" "http1" "tcp"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "ruma") (r "^0.1.0") (f (quote ("client-api" "appservice-api-s"))) (d #t) (k 0)) (d (n "ruma-client") (r "^0.5.0") (f (quote ("client-api"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "06bpvw83v7fmfpx4rqdd80s2wamysjm75spggcvfw8zphhp1mhrl")))
+
+(define-public crate-matrix-appservice-rs-0.3.0 (c (n "matrix-appservice-rs") (v "0.3.0") (d (list (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "ruma") (r "^0.1.0") (f (quote ("appservice-api-s"))) (d #t) (k 0)) (d (n "ruma-client") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)))) (h "14qq1hgp6df521lsw231pvnv552a0r8rinz0g1kjvqmsncw20r6i") (f (quote (("serve" "hyper/server" "hyper/http1" "hyper/tcp" "bytes"))))))
+
+(define-public crate-matrix-appservice-rs-0.4.0 (c (n "matrix-appservice-rs") (v "0.4.0") (d (list (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "lol_html") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "pcre2") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (o #t) (d #t) (k 0)) (d (n "ruma") (r "^0.1.0") (f (quote ("appservice-api-s"))) (d #t) (k 0)) (d (n "ruma-client") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "12k9kgm5czpxfirpgwpk9vnyhis32ga38i05ic68kx2cqi41s9gz") (f (quote (("serve" "hyper/server" "hyper/http1" "hyper/tcp" "bytes") ("default" "convert" "serve") ("convert" "lol_html" "regex" "pcre2"))))))
+

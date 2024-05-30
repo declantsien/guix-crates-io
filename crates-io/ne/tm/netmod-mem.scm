@@ -1,0 +1,10 @@
+(define-module (crates-io ne tm netmod-mem) #:use-module (crates-io))
+
+(define-public crate-netmod-mem-0.1.0 (c (n "netmod-mem") (v "0.1.0") (d (list (d (n "async-std") (r "^1.0") (f (quote ("attributes" "unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "ratman-identity") (r "^0.4") (f (quote ("digest"))) (d #t) (k 0) (p "ratman-identity")) (d (n "ratman-netmod") (r "^0.3") (d #t) (k 0) (p "ratman-netmod")))) (h "0rxqzx0knggid885d970z3ldxfllkcxzrkfcfk2iid2l05qbp7pn")))
+
+(define-public crate-netmod-mem-0.2.0 (c (n "netmod-mem") (v "0.2.0") (d (list (d (n "async-std") (r "=1.5") (f (quote ("attributes" "unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "ratman-identity") (r "^0.4") (f (quote ("digest"))) (d #t) (k 0) (p "ratman-identity")) (d (n "ratman-netmod") (r "^0.3") (d #t) (k 0) (p "ratman-netmod")))) (h "1hp6vnfq0l4sncjwlh53pl5r89mrkjhnq11caq6mapykh4xjhiw0")))
+
+(define-public crate-netmod-mem-0.3.0 (c (n "netmod-mem") (v "0.3.0") (d (list (d (n "async-std") (r "^1.0") (f (quote ("attributes" "unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "ratman-identity") (r "^0.6") (f (quote ("digest"))) (d #t) (k 0) (p "ratman-identity")) (d (n "ratman-netmod") (r "^0.4") (d #t) (k 0) (p "ratman-netmod")))) (h "0igp9883r02rswldzzwkn03nb6y4avwb7lmj3z80jjq599vldwc7")))
+
+(define-public crate-netmod-mem-0.4.0 (c (n "netmod-mem") (v "0.4.0") (d (list (d (n "async-std") (r "^1.0") (f (quote ("attributes" "unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "ratman-identity") (r "^0.6") (f (quote ("digest"))) (d #t) (k 0) (p "ratman-identity")) (d (n "ratman-netmod") (r "^0.5.0") (d #t) (k 0) (p "ratman-netmod")))) (h "1ny327rrrj0ybmcabcbapjlmwwkw3296wkrcmp59bp7myrl3sl6l")))
+

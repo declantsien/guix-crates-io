@@ -1,0 +1,4 @@
+(define-module (crates-io ze tt zettl) #:use-module (crates-io))
+
+(define-public crate-zettl-0.1.0 (c (n "zettl") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "async-recursion") (r "^0.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.14") (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 0)) (d (n "ignore") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.4.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.6") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0zmgvf3m0klafg2nnad4qvyv6vj8mk68d615g8rxlwjm3ff4hil8")))
+

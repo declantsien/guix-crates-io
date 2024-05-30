@@ -1,0 +1,8 @@
+(define-module (crates-io js on jsonrpc-async) #:use-module (crates-io))
+
+(define-public crate-jsonrpc-async-2.0.0 (c (n "jsonrpc-async") (v "2.0.0") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "base64-compat") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0kwf39lpb7clcgiynl5yq0pd49p25zkl061pwb8gn7904gkbl8x9") (f (quote (("simple_http" "base64-compat") ("default" "simple_http")))) (y #t)))
+
+(define-public crate-jsonrpc-async-2.0.1 (c (n "jsonrpc-async") (v "2.0.1") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "base64-compat") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0xw4cz2nwn2n3ilcf9gp9dzrcaz05hd3xwawhqg3jxnbq0760j2q") (f (quote (("simple_http" "base64-compat") ("default" "simple_http"))))))
+
+(define-public crate-jsonrpc-async-2.0.2 (c (n "jsonrpc-async") (v "2.0.2") (d (list (d (n "async-trait") (r "^0.1.42") (d #t) (k 0)) (d (n "base64-compat") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0rnl4ybjhf739l8qrr6kajawvxff3rxjggrw24bqgrcfs178w3m2") (f (quote (("simple_http" "base64-compat") ("default" "simple_http"))))))
+

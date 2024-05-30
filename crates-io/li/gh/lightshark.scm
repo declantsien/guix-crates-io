@@ -1,0 +1,6 @@
+(define-module (crates-io li gh lightshark) #:use-module (crates-io))
+
+(define-public crate-lightshark-0.1.2 (c (n "lightshark") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.10") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-tungstenite") (r "^0.17") (f (quote ("async-std-runtime" "async-native-tls"))) (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rmpv") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^2.2") (d #t) (k 0)))) (h "1hbng5jyp1zy7wk0z9k3s22rzfp55df8wp58wpaaxxx8zz68c36r")))
+
+(define-public crate-lightshark-0.2.0 (c (n "lightshark") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.10") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-tungstenite") (r "^0.17") (f (quote ("async-std-runtime" "async-native-tls"))) (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rmpv") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.3") (d #t) (k 0)))) (h "1rr0k1kj38zjc8r75ndkss3k50bb7b84v8bvxxdjqqqh6kxhvjph")))
+

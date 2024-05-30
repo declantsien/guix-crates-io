@@ -1,0 +1,18 @@
+(define-module (crates-io be vy bevy_bundlication) #:use-module (crates-io))
+
+(define-public crate-bevy_bundlication-0.0.1 (c (n "bevy_bundlication") (v "0.0.1") (d (list (d (n "bevy") (r "^0.12") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "renet") (r "^0.0.13") (f (quote ("bevy"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1dj641nd75aabc4ajcl6v05fn3hq657kziagxh5684fq51rxm362") (f (quote (("test") ("default" "renet")))) (s 2) (e (quote (("renet" "dep:renet"))))))
+
+(define-public crate-bevy_bundlication-0.0.2 (c (n "bevy_bundlication") (v "0.0.2") (d (list (d (n "bevy") (r "^0.12") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.0.2") (d #t) (k 0)) (d (n "bevy_renet") (r "^0.0.10") (o #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0n2grf9aw9cjfm7ykr2isyiad24az41rpc50r4i2z1qszaazb3i8") (f (quote (("test") ("default")))) (s 2) (e (quote (("renet" "dep:bevy_renet"))))))
+
+(define-public crate-bevy_bundlication-0.1.0 (c (n "bevy_bundlication") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.0.2") (d #t) (k 0)) (d (n "bevy_renet") (r "^0.0.10") (o #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "163d7bnc0gjdajvfpkl59m95jqvbs62jbs942y1072qf64v7kjia") (f (quote (("test") ("default")))) (y #t) (s 2) (e (quote (("renet" "dep:bevy_renet"))))))
+
+(define-public crate-bevy_bundlication-0.1.1 (c (n "bevy_bundlication") (v "0.1.1") (d (list (d (n "bevy") (r "^0.12") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "bevy_renet") (r "^0.0.10") (o #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0w34i2zgyc8pd9z0ijrqq70lbhirhvrrrzvf07hpn3i8fkn4p3qm") (f (quote (("test") ("default")))) (s 2) (e (quote (("renet" "dep:bevy_renet"))))))
+
+(define-public crate-bevy_bundlication-0.2.0 (c (n "bevy_bundlication") (v "0.2.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "bevy_renet") (r "^0.0.11") (o #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "09f8sp5gv4sz4dcv2bcz72pp4wqax6nw55fxbxdfka56dc55ppdn") (f (quote (("test") ("default")))) (s 2) (e (quote (("renet" "dep:bevy_renet"))))))
+
+(define-public crate-bevy_bundlication-0.3.0 (c (n "bevy_bundlication") (v "0.3.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.3.0") (d #t) (k 0)) (d (n "bevy_renet") (r "^0.0.11") (o #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1frw6j97xmq17gsig883mkjk85cdmi67n8zmgj6677zy8lc3rapv") (f (quote (("test") ("default")))) (s 2) (e (quote (("renet" "dep:bevy_renet"))))))
+
+(define-public crate-bevy_bundlication-0.4.0 (c (n "bevy_bundlication") (v "0.4.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "bevy_replicon") (r "^0.25") (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0754cn4mimsn4qlz1mvl93q433zddcs8pyc7f48a07iqlvbz4gqw")))
+
+(define-public crate-bevy_bundlication-0.5.0 (c (n "bevy_bundlication") (v "0.5.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy_bundlication_macros") (r "^0.5.0") (d #t) (k 0)) (d (n "bevy_replicon") (r "^0.26") (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0nbg97qmwdsshvcc8cm222qdagri676ahw597sh2w3s69xysbz4w")))
+

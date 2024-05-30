@@ -1,0 +1,4 @@
+(define-module (crates-io mi ka mika) #:use-module (crates-io))
+
+(define-public crate-mika-0.0.0 (c (n "mika") (v "0.0.0") (d (list (d (n "futures-util") (r "^0.3.0-alpha.15") (d #t) (k 0) (p "futures-util-preview")) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "signals") (r "^0.3.5") (d #t) (k 0) (p "futures-signals")) (d (n "simi-macros") (r "^0.2.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.45") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.3.22") (f (quote ("futures_0_3"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3.22") (f (quote ("Window" "Document" "Node" "NodeList" "DomTokenList" "Event" "MouseEvent" "InputEvent" "FocusEvent" "KeyboardEvent" "UiEvent" "WheelEvent" "EventTarget" "Element" "HtmlElement" "HtmlInputElement" "Text"))) (d #t) (k 0)))) (h "0g4m7xwz0423zjvmfc4xnlpnqbyyf20hxkzwl18hylxxymcisz0m") (f (quote (("sub-apps" "message-like-elm") ("message-like-elm"))))))
+

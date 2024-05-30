@@ -1,0 +1,6 @@
+(define-module (crates-io ca sp casperlabs-curve-token-utils) #:use-module (crates-io))
+
+(define-public crate-casperlabs-curve-token-utils-0.1.0 (c (n "casperlabs-curve-token-utils") (v "0.1.0") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casper_types_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "0w73n0nxaimkd5cy1cfv6f7r58z5han1xdms2mqcgm403f0xw0zi") (f (quote (("default" "casper-contract/std" "casper-types/std" "casper-contract/test-support"))))))
+
+(define-public crate-casperlabs-curve-token-utils-0.1.1 (c (n "casperlabs-curve-token-utils") (v "0.1.1") (d (list (d (n "casper-contract") (r "^1.4.4") (d #t) (k 0)) (d (n "casper-types") (r "^1.5.0") (d #t) (k 0)) (d (n "casper_types_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "casperlabs-contract-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "renvm-sig") (r "^0.1.1") (d #t) (k 0)))) (h "17cypxnd03l8casbcbcqqcwm72i3b234b7lmyjbx4i9q5fykiwxv") (f (quote (("default" "casper-contract/std" "casper-types/std" "casper-contract/test-support"))))))
+

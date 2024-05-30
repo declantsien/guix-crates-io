@@ -1,0 +1,6 @@
+(define-module (crates-io ru sn rusnap-exports) #:use-module (crates-io))
+
+(define-public crate-rusnap-exports-0.1.0 (c (n "rusnap-exports") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "const-hex") (r "^1.9.1") (f (quote ("hex"))) (d #t) (k 0)) (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "rusnap-utils") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)))) (h "1bqcdl2fj2wn242rli7vrrm54yhsknp56dwgiwrnk0nbnrdz46qr")))
+
+(define-public crate-rusnap-exports-0.1.1 (c (n "rusnap-exports") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "const-hex") (r "^1.9.1") (f (quote ("hex"))) (d #t) (k 0)) (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "rusnap-macros") (r "^0.1") (d #t) (k 0)) (d (n "rusnap-utils") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)))) (h "0wh6xjdjaacazn2m1q2hbils4dv6l7wk8alcdlahyawgrg8r90f2")))
+

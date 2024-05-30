@@ -1,0 +1,4 @@
+(define-module (crates-io me ka mekate-searcher-rs) #:use-module (crates-io))
+
+(define-public crate-mekate-searcher-rs-0.1.0 (c (n "mekate-searcher-rs") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "hex") (r "^0.4") (k 0)) (d (n "pretty_assertions") (r "^1.1") (f (quote ("std"))) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("default-tls" "json"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "sync" "time"))) (k 2)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "url") (r "^2.2") (k 0)) (d (n "wiremock") (r "^0.5") (k 2)))) (h "1malmg0zwk62qapgw5hpm8ajyaa949drw2iqbq4i285yl5p2linr")))
+

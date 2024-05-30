@@ -1,0 +1,32 @@
+(define-module (crates-io ac ti actix-lua) #:use-module (crates-io))
+
+(define-public crate-actix-lua-0.1.0 (c (n "actix-lua") (v "0.1.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "rlua") (r "^0.14") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "0iqg4gnl5hibliir0wilcldrswjlhx2395mikdcqfgvfwbk17q1a")))
+
+(define-public crate-actix-lua-0.1.1 (c (n "actix-lua") (v "0.1.1") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "rlua") (r "^0.14") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "1y4spdfzcxi8fnvlgppsf9mnhcg36f7mxcxlzv9kfdlbfdlzxqsl")))
+
+(define-public crate-actix-lua-0.2.0 (c (n "actix-lua") (v "0.2.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "rlua") (r "^0.14") (d #t) (k 0)) (d (n "rust-embed") (r "^3.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "0p41h4mjn24imgq31hd34rsa9bf4h7vbp1r53d0ff4v5nbn7fa0f")))
+
+(define-public crate-actix-lua-0.3.0 (c (n "actix-lua") (v "0.3.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "rlua") (r "^0.14") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "0gq7wx3knzxp3zvjqain3vhmzhvh1lfwvf7iii00mmchpncvfisw")))
+
+(define-public crate-actix-lua-0.3.1 (c (n "actix-lua") (v "0.3.1") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "rlua") (r "^0.14") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "0mx1fjykiar1qnsyj8rz1gindjmkd113pwz21bkzys1pq2zsdhnk")))
+
+(define-public crate-actix-lua-0.3.2 (c (n "actix-lua") (v "0.3.2") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.14") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "0gfj6hngir0fl4s01c736dwhkhjcp3bl7xlm060clppq7dm2kjyd")))
+
+(define-public crate-actix-lua-0.3.3 (c (n "actix-lua") (v "0.3.3") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "123jnbhd9m2rkhwzjbirhwan4dmk10m3phmcv1h4jax9qys63645")))
+
+(define-public crate-actix-lua-0.3.4 (c (n "actix-lua") (v "0.3.4") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "1dlyxsd35q37rpy6zz22l46cy6czj5h5mj4nilbq9iqrg57ih1f7")))
+
+(define-public crate-actix-lua-0.3.5 (c (n "actix-lua") (v "0.3.5") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "1fjssgchsshsrg1631r4g9pqvgnr3idz1sg4jv9khcd4b96am15b")))
+
+(define-public crate-actix-lua-0.4.0 (c (n "actix-lua") (v "0.4.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "1snfm26amf0l4c2ma8m93dgysyd0nanb9nqx9zhzm3yhqlsmxjnk")))
+
+(define-public crate-actix-lua-0.5.0 (c (n "actix-lua") (v "0.5.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "0jl2djb43rwwqdyc16pw5i73nz9l60xics0bdcifgmabai9lcsjl")))
+
+(define-public crate-actix-lua-0.5.1 (c (n "actix-lua") (v "0.5.1") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "1w74mc9pdbiz16xr220gygfs1pr0vkqv361dwj7n70clp7m7zyi8")))
+
+(define-public crate-actix-lua-0.5.2 (c (n "actix-lua") (v "0.5.2") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "0cs8pzchvy4r1vkgfhpk1psxbwcas2yafgvn789ch4qryk1844xn")))
+
+(define-public crate-actix-lua-0.6.0 (c (n "actix-lua") (v "0.6.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.15") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "1jikjym84cg4g5w05xmgzfpxbwgq304rz54ngdx9mlavbgsmlfka")))
+
+(define-public crate-actix-lua-0.7.0 (c (n "actix-lua") (v "0.7.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "futures-timer") (r "^0.1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rlua") (r "^0.16") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.6") (f (quote ("v4"))) (d #t) (k 0)))) (h "1pba7aaw958q1d8ipp16gbc3gqr6s67wp7wlm8sg1pivbcbyc94a")))
+

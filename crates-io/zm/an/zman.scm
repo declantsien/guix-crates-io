@@ -1,0 +1,22 @@
+(define-module (crates-io zm an zman) #:use-module (crates-io))
+
+(define-public crate-zman-0.1.3 (c (n "zman") (v "0.1.3") (d (list (d (n "assert_cmd") (r "^1.0.3") (d #t) (k 2)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.7") (d #t) (k 2)))) (h "0j3jc73v98vya5r1rn1yzsvxrhs8jhjsxbz4zqnnc79dcjr5qah8")))
+
+(define-public crate-zman-1.0.0 (c (n "zman") (v "1.0.0") (d (list (d (n "assert_cmd") (r "^1.0.3") (d #t) (k 2)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.7") (d #t) (k 2)))) (h "15yyq2vzs1kva9z88bvrzwbj980i87gks5f3zr99z7lqbzmx0rxf")))
+
+(define-public crate-zman-1.0.1 (c (n "zman") (v "1.0.1") (d (list (d (n "assert_cmd") (r "^1.0.3") (d #t) (k 2)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.7") (d #t) (k 2)))) (h "1wjnans0c3ci2szfcyq8zvkqdk9rxsdl8bv2g78xcsc8m0l64ivg")))
+
+(define-public crate-zman-1.0.3 (c (n "zman") (v "1.0.3") (d (list (d (n "assert_cmd") (r "^1.0.3") (d #t) (k 2)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.7") (d #t) (k 2)))) (h "0a8lflyzdpfpxdlqgimxw46nar8vwyn03fl38xhsxajq3mp9wpzs")))
+
+(define-public crate-zman-1.0.4 (c (n "zman") (v "1.0.4") (d (list (d (n "assert_cmd") (r "^1.0.3") (d #t) (k 2)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (f (quote ("suggestions"))) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^1.0.7") (d #t) (k 2)))) (h "14izxwzc6yd8gh3f95sp6g4m3kxj36yz1ccwq058rfi0wddjz71a")))
+
+(define-public crate-zman-1.0.6 (c (n "zman") (v "1.0.6") (d (list (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 2)) (d (n "chrono") (r "^0.4.18") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("suggestions" "cargo"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 2)))) (h "0ldz1vhg4nqqpp5bmlii4ccqf4pgljq0xzsia3z9vwakkmr61idk")))
+
+(define-public crate-zman-2.0.0 (c (n "zman") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4.0.29") (f (quote ("suggestions" "color" "cargo" "derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "predicates") (r "^2.1.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("macros" "formatting" "local-offset"))) (d #t) (k 0)))) (h "1pnir7hhfk4vcl5by5mjfgs6blmsk6a6jnmh5rv9vla8sax2bwlb")))
+
+(define-public crate-zman-2.0.1 (c (n "zman") (v "2.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("suggestions" "color" "cargo" "derive"))) (d #t) (k 0)) (d (n "owo-colors") (r "^3") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (f (quote ("macros" "formatting" "local-offset"))) (d #t) (k 0)))) (h "1f75jyhrgq5myrdxqn7y6z89zl60x9x6yrqsy70gbs751l0vq8p3")))
+
+(define-public crate-zman-2.0.2 (c (n "zman") (v "2.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "cargo-husky") (r "^1") (f (quote ("user-hooks"))) (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("suggestions" "color" "cargo" "derive"))) (d #t) (k 0)) (d (n "owo-colors") (r "^3") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (f (quote ("macros" "formatting" "local-offset"))) (d #t) (k 0)))) (h "16hd9p4pch5x7ym4kinhccjvwzkdg9gg9v2q2xdi1nxpvn7bprc6")))
+
+(define-public crate-zman-3.0.0 (c (n "zman") (v "3.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("suggestions" "color" "cargo" "derive"))) (d #t) (k 0)) (d (n "owo-colors") (r "^3") (d #t) (k 0)) (d (n "predicates") (r "^3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0gq40b1ysy6ba4w67z5zqbqsambw5gxy1nw0rrq2zysbwk6511c9")))
+

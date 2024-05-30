@@ -1,0 +1,4 @@
+(define-module (crates-io fa tf fatfs-embedded) #:use-module (crates-io))
+
+(define-public crate-fatfs-embedded-0.1.0 (c (n "fatfs-embedded") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "bitflags") (r "^2.4.2") (d #t) (k 0)) (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "chrono") (r "^0.4.3") (o #t) (t "cfg(target_os = \"none\")") (k 0)) (d (n "chrono") (r "^0.4.3") (o #t) (d #t) (t "cfg(not(target_os = \"none\"))") (k 0)) (d (n "cty") (r "^0.2.2") (d #t) (k 0)) (d (n "embassy-futures") (r "^0.1.1") (d #t) (k 0)) (d (n "embassy-sync") (r "^0.5.0") (f (quote ("std"))) (d #t) (t "cfg(not(target_os = \"none\"))") (k 0)) (d (n "embassy-sync") (r "^0.5.0") (d #t) (t "cfg(target_os = \"none\")") (k 0)))) (h "0m3vd9pnvq3kxxijn75ksysgkqsj0ksklc31nzg2p8xsfg1h1a70") (f (quote (("default" "chrono")))) (s 2) (e (quote (("chrono" "dep:chrono"))))))
+

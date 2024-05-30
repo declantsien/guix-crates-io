@@ -1,0 +1,6 @@
+(define-module (crates-io me rk merkletree-mintlayer) #:use-module (crates-io))
+
+(define-public crate-merkletree-mintlayer-0.1.0 (c (n "merkletree-mintlayer") (v "0.1.0") (d (list (d (n "blake2") (r "^0.10") (d #t) (k 2)) (d (n "fixed-hash") (r "^0.8") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 2)) (d (n "rstest") (r "^0.19") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1z3ah4qib8hkq96l6nif9k58jig2ydicr447k0j5wqczs88cbsd1") (s 2) (e (quote (("scale-codec" "dep:parity-scale-codec")))) (r "1.75")))
+
+(define-public crate-merkletree-mintlayer-0.1.1 (c (n "merkletree-mintlayer") (v "0.1.1") (d (list (d (n "blake2") (r "^0.10") (d #t) (k 2)) (d (n "fixed-hash") (r "^0.8") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 2)) (d (n "rstest") (r "^0.19") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "186x3m666dygd8sj5h6kgq9jp0iz4v972pnjlim1hs13n8pgjscb") (s 2) (e (quote (("scale-codec" "dep:parity-scale-codec")))) (r "1.75")))
+

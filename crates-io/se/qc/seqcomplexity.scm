@@ -1,0 +1,8 @@
+(define-module (crates-io se qc seqcomplexity) #:use-module (crates-io))
+
+(define-public crate-seqcomplexity-0.1.0 (c (n "seqcomplexity") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.0.12") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "needletail") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 0)) (d (n "tera") (r "^1.6.1") (d #t) (k 0)))) (h "17c1mkfx6m8z3w18x2vjl389n12ikirgd84lk27gbnc7y5bk8cv4")))
+
+(define-public crate-seqcomplexity-0.1.1 (c (n "seqcomplexity") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.0.12") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "needletail") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 0)) (d (n "tera") (r "^1.6.1") (d #t) (k 0)))) (h "0818sbcby4r50cpg0lf9xj9fk2p2vxbfvj0j3gl7xiwyjk4rgw7a")))
+
+(define-public crate-seqcomplexity-0.1.2 (c (n "seqcomplexity") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.0.12") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "needletail") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 0)) (d (n "tera") (r "^1.6.1") (d #t) (k 0)))) (h "05a7w24fibv48l3q0wr12w7qr0gaf2knqb5az3f0zg9lis5qxb33")))
+

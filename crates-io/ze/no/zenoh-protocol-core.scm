@@ -1,0 +1,6 @@
+(define-module (crates-io ze no zenoh-protocol-core) #:use-module (crates-io))
+
+(define-public crate-zenoh-protocol-core-0.6.0-beta.1 (c (n "zenoh-protocol-core") (v "0.6.0-beta.1") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "uhlc") (r "^0.5.1") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4"))) (d #t) (k 0)) (d (n "zenoh-core") (r "^0.6.0-beta.1") (d #t) (k 0)))) (h "1q1q4zwlciywjs28qwccw1csj1xn4blf48501ib1z4fpswwzp7kg") (f (quote (("fuzzer") ("complete_n")))) (r "1.62.1")))
+
+(define-public crate-zenoh-protocol-core-0.7.0-rc (c (n "zenoh-protocol-core") (v "0.7.0-rc") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (d #t) (k 0)) (d (n "uhlc") (r "^0.5.1") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v4"))) (d #t) (k 0)) (d (n "zenoh-core") (r "^0.7.0-rc") (d #t) (k 0)))) (h "0lrp0c9m32rrlhb1wi712py48divh755mqnsxwzw3llm43mfmwyd") (f (quote (("fuzzer") ("complete_n")))) (r "1.62.1")))
+

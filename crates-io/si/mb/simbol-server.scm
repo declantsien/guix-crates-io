@@ -1,0 +1,6 @@
+(define-module (crates-io si mb simbol-server) #:use-module (crates-io))
+
+(define-public crate-simbol-server-1.0.0 (c (n "simbol-server") (v "1.0.0") (d (list (d (n "iron") (r "^0.6") (f (quote ("native-tls-example"))) (d #t) (k 0)) (d (n "iron-cors") (r "^0.8") (d #t) (k 0)) (d (n "mount") (r "^0.4") (d #t) (k 0)) (d (n "router") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "staticfile") (r "^0.5") (d #t) (k 0)) (d (n "ws") (r "^0.7.3") (d #t) (k 0)))) (h "1qp3wb22h9v6qcmdprnymqhn2n5fcir1l7zmax45bxbsknwhrjrm")))
+
+(define-public crate-simbol-server-1.1.0 (c (n "simbol-server") (v "1.1.0") (d (list (d (n "iron") (r "^0.6") (f (quote ("native-tls-example"))) (d #t) (k 0)) (d (n "iron-cors") (r "^0.8") (d #t) (k 0)) (d (n "mount") (r "^0.4") (d #t) (k 0)) (d (n "router") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "staticfile") (r "^0.5") (d #t) (k 0)) (d (n "ws") (r "^0.7.3") (d #t) (k 0)))) (h "0xyf8cvlr9b31904vk9ss5ib1m8mr2vq34v9q3cdh2s4cbrnr3a9")))
+

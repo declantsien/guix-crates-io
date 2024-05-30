@@ -1,0 +1,6 @@
+(define-module (crates-io cy fs cyfs-raptorq) #:use-module (crates-io))
+
+(define-public crate-cyfs-raptorq-1.6.0 (c (n "cyfs-raptorq") (v "1.6.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "primal") (r "^0.3") (d #t) (k 2)) (d (n "pyo3") (r "^0.12") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0.102") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1.7") (d #t) (k 2)))) (h "1lg5p9k0hl62kql1z0ircp8y0yzpj9ls1cirsy24vwf7di8zwvir") (f (quote (("serde_support" "serde") ("python" "pyo3") ("benchmarking"))))))
+
+(define-public crate-cyfs-raptorq-1.6.1 (c (n "cyfs-raptorq") (v "1.6.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "primal") (r "^0.3") (d #t) (k 2)) (d (n "pyo3") (r "^0.12") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "serde") (r "^1.0.102") (f (quote ("std" "derive"))) (o #t) (d #t) (k 0)) (d (n "threadpool") (r "^1.7") (d #t) (k 2)))) (h "0wmnr8xa7gbmc59pijq6hx0vb6zqi6ym651p1zpv1gfzjcffm31s") (f (quote (("serde_support" "serde") ("python" "pyo3") ("benchmarking"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io te a- tea-actorx2-worker) #:use-module (crates-io))
+
+(define-public crate-tea-actorx2-worker-0.2.0-dev.16 (c (n "tea-actorx2-worker") (v "0.2.0-dev.16") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tea-actorx2-core") (r "^0.2.0-dev.16") (f (quote ("sign" "host" "worker"))) (d #t) (k 0)) (d (n "tea-codec") (r "^0.2.0-dev.16") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("rt-multi-thread" "net" "io-util" "parking_lot" "fs" "macros" "sync"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "wasmer") (r "^3.1.1") (f (quote ("tracing"))) (d #t) (k 0)) (d (n "wasmer-middlewares") (r "^3.1.1") (d #t) (k 0)))) (h "1rmq5gfgvmccgh4zxcbdv1rm1m19p1f4nldlyswc2bjwqy8l9c8d") (f (quote (("llvm" "wasmer/llvm"))))))
+

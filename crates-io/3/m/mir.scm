@@ -1,0 +1,58 @@
+(define-module (crates-io #{3}# m mir) #:use-module (crates-io))
+
+(define-public crate-mir-0.0.6 (c (n "mir") (v "0.0.6") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0il5hdiwx67l5q4j68y2g3q22rajsj0k2xxifrmizzn7xw3mlv4b")))
+
+(define-public crate-mir-0.0.7 (c (n "mir") (v "0.0.7") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1kxz4350r2dc7527w62ih6c0k68anc5a7aabyghpzwv9nqavml8q")))
+
+(define-public crate-mir-0.1.0 (c (n "mir") (v "0.1.0") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0ikpkspiz78wsf7gdv99k8zn0a540fxlk1yrmpy2iiic7mcwda7v")))
+
+(define-public crate-mir-0.1.1 (c (n "mir") (v "0.1.1") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0rv0wgxanw8c8bxjik607vf45jlbgjaq3ka18yl0glkssim8mgxd")))
+
+(define-public crate-mir-0.1.2 (c (n "mir") (v "0.1.2") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1svfmxc2lj4030wsvfbc8bfq35mi9dw0906igbva9dgr6vgg18cv")))
+
+(define-public crate-mir-0.1.3 (c (n "mir") (v "0.1.3") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0vdmr7kg0a0154mhdvf661y0n2r4yj2xmyskq25kachyax0z486m")))
+
+(define-public crate-mir-0.1.4 (c (n "mir") (v "0.1.4") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1rn97xwbyrnn1wrwd1pm1llwqjz8dc9pla594gnikzskk2pl6rvw")))
+
+(define-public crate-mir-0.1.5 (c (n "mir") (v "0.1.5") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1z9i8vkmn5sq8l3hbgjhnnbrx0jg0qwjz423lyfav9404w3n5bhi")))
+
+(define-public crate-mir-0.1.6 (c (n "mir") (v "0.1.6") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "06nbhn1gf7mrzd7xdl05lsmmcbz57l1jx51w57aarg4kqi74apsg")))
+
+(define-public crate-mir-0.1.7 (c (n "mir") (v "0.1.7") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0nx9zc0ai6ms6cri5bxld3gzmdp490gsbln4x00p99da7184w8cs")))
+
+(define-public crate-mir-0.1.8 (c (n "mir") (v "0.1.8") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "13iikmfm0pq4w8vwjhd8yydzw8ja99zfmlfpvcqpi4mx3n08x5gi")))
+
+(define-public crate-mir-0.1.9 (c (n "mir") (v "0.1.9") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1zdyfnrafc6akwfc6bqvkf6avhp99xjnrynh5ld6qyr460qbb5aq")))
+
+(define-public crate-mir-0.1.10 (c (n "mir") (v "0.1.10") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "07c05gbvkw39ij9695dzq3330p8z3q097yyv4vrzg7fvjpx6fd86")))
+
+(define-public crate-mir-0.1.11 (c (n "mir") (v "0.1.11") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1hl64lbvk91ajnnxl2wyr8nhky4i2hcq69zc10zaq7daqvqlwfvs")))
+
+(define-public crate-mir-0.1.12 (c (n "mir") (v "0.1.12") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0xqqbf90myfm3vw5k53k6430gxfmxkrr6jr7l8xxfl6527hpan1a")))
+
+(define-public crate-mir-0.1.13 (c (n "mir") (v "0.1.13") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1200.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "02y89s0v68i42axmhf43n5rxpz74z2hcd18qppvh1x3q061gk1cx")))
+
+(define-public crate-mir-0.2.0 (c (n "mir") (v "0.2.0") (d (list (d (n "git2") (r "^0.8.0") (d #t) (k 0)) (d (n "gitlab") (r "^0.1111.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.10.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "rpassword") (r "^2.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0zlwa198bnpvqnnl4afnjpqhskxdhnwix16yzvigd4l7x81dhx0m")))
+
+(define-public crate-mir-0.2.4 (c (n "mir") (v "0.2.4") (d (list (d (n "dirs") (r "^3.0.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.6") (d #t) (k 0)) (d (n "gitlab") (r "^0.1111.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.15.0") (d #t) (k 0)) (d (n "num") (r "^0.3.0") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)))) (h "0icmp5srilzfrilr04v9r68bykk9djb1gyc452yw79k7sii4hjya")))
+
+(define-public crate-mir-0.2.5 (c (n "mir") (v "0.2.5") (d (list (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.25") (d #t) (k 0)) (d (n "gitlab") (r "^0.1111.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "rpassword") (r "^6.0.1") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "1jbn04xjpfda2n48qvx6w63rxn2qljd5q3wzyibdf5i7yrgrrzvb")))
+
+(define-public crate-mir-0.2.6 (c (n "mir") (v "0.2.6") (d (list (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1111") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0dy1mna32m2pq50y1k1bajwsgz03lpix92hi35lphvpp44ai8sjr")))
+
+(define-public crate-mir-0.3.0 (c (n "mir") (v "0.3.0") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)))) (h "16vg9f62r86dlh5mhdj8lplq50mqsfvv40q4gjx5aybv79rrc7ii")))
+
+(define-public crate-mir-0.3.1 (c (n "mir") (v "0.3.1") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0b873zi240varjbkpr2mh36g9a8crqj9krzff8n8vddff3zjvq0i")))
+
+(define-public crate-mir-0.3.2 (c (n "mir") (v "0.3.2") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1d44kygjnaywa5icsna9dpqblbzbsl5dnhk4imlh1a3x8a1zf00z")))
+
+(define-public crate-mir-0.3.3 (c (n "mir") (v "0.3.3") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1clksvk88cmpiz14jk6097s9qinhawcv9inmjmqigaifb1na79nb")))
+
+(define-public crate-mir-0.4.1 (c (n "mir") (v "0.4.1") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "14gxz0jiiln8hkq7cd0f0c3g91mc04kjnhf48jzajkc1s006ag7z")))
+
+(define-public crate-mir-0.8.0 (c (n "mir") (v "0.8.0") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0v9sb2kpqha3vyvlv13r4ifgqb2xc6ga4a6nbjj2chppd7a8yxic") (y #t)))
+
+(define-public crate-mir-0.4.0 (c (n "mir") (v "0.4.0") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.14") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0g4wa1qy3fnwp788n43rplmi0mwj1h5xksqqbrw464myasxwz3rc")))
+
+(define-public crate-mir-0.5.0 (c (n "mir") (v "0.5.0") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "git2") (r "^0.15") (d #t) (k 0)) (d (n "gitlab") (r "^0.1500") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "rpassword") (r "^7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1lygjd4qz2i1vjp09jza9q0r0zqrdf28c472qjf0l1bbczya8rd4")))
+

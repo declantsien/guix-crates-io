@@ -1,0 +1,10 @@
+(define-module (crates-io de ox deoxy) #:use-module (crates-io))
+
+(define-public crate-deoxy-0.1.0 (c (n "deoxy") (v "0.1.0") (h "0wn9c43dnpcp4mg6hmx9xw5525pv02xh242fxw48a8w1h80pa09x") (y #t)))
+
+(define-public crate-deoxy-0.1.1 (c (n "deoxy") (v "0.1.1") (h "1d3fxawidiq9z26dm1d5cnb31q2ra58ffkf1izxrkri2lpwrs089") (y #t)))
+
+(define-public crate-deoxy-0.2.0 (c (n "deoxy") (v "0.2.0") (d (list (d (n "actix-web") (r "^0.7.18") (d #t) (k 0)) (d (n "deoxy-core") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 2)) (d (n "rppal") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (o #t) (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)) (d (n "uom") (r "^0.22.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "02m1wbk9jjfw3s0a7a04v6bghxjdw8wxgd82bglgy6al8vsa62ac") (f (quote (("use_serde" "deoxy-core/use_serde" "serde_derive" "serde") ("use_rppal" "rppal") ("stub") ("server" "use_serde") ("default" "server" "use_rppal")))) (y #t)))
+
+(define-public crate-deoxy-0.2.1 (c (n "deoxy") (v "0.2.1") (d (list (d (n "actix-web") (r "^0.7.18") (d #t) (k 0)) (d (n "deoxy-core") (r "^0.2.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.3.0") (d #t) (k 2)) (d (n "rppal") (r "^0.11.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.84") (o #t) (d #t) (k 0)) (d (n "termion") (r "^1.5.1") (d #t) (k 2)) (d (n "uom") (r "^0.22.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1ngdbwnp5rywr5ld1kyrwyf0gncq35h7knjs38rsi3b3s21fhq61") (f (quote (("use_serde" "deoxy-core/use_serde" "serde_derive" "serde") ("use_rppal" "rppal") ("stub") ("server" "use_serde") ("default" "server" "use_rppal")))) (y #t)))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ts _o ts_opentelemetry) #:use-module (crates-io))
+
+(define-public crate-ts_opentelemetry-0.20.0-beta.1 (c (n "ts_opentelemetry") (v "0.20.0-beta.1") (d (list (d (n "ts_opentelemetry_api") (r "^0.20.0-beta.1") (d #t) (k 0)) (d (n "ts_opentelemetry_sdk") (r "^0.20.0-beta.1") (d #t) (k 0)))) (h "0b7k3x0gjc58y36l7l091hqs95mx008l8hpj6gd8xlwsqp4630cq") (f (quote (("trace" "ts_opentelemetry_api/trace" "ts_opentelemetry_sdk/trace") ("testing" "ts_opentelemetry_api/testing" "ts_opentelemetry_sdk/testing") ("rt-tokio-current-thread" "ts_opentelemetry_sdk/rt-tokio-current-thread") ("rt-tokio" "ts_opentelemetry_sdk/rt-tokio") ("rt-async-std" "ts_opentelemetry_sdk/rt-async-std") ("metrics" "ts_opentelemetry_api/metrics" "ts_opentelemetry_sdk/metrics") ("logs" "ts_opentelemetry_sdk/logs") ("default" "trace")))) (r "1.60")))
+

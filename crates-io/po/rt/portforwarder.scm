@@ -1,0 +1,8 @@
+(define-module (crates-io po rt portforwarder) #:use-module (crates-io))
+
+(define-public crate-portForwarder-0.1.0 (c (n "portForwarder") (v "0.1.0") (d (list (d (n "ctrlc") (r "^3.3.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ipnet") (r "^2.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-poll" "net"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "0i1dqv6wd81h02ih2330gldyipk0h80zi44dglk8k4k87wmpvw78")))
+
+(define-public crate-portForwarder-0.1.1 (c (n "portForwarder") (v "0.1.1") (d (list (d (n "ctrlc") (r "^3.3.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ipnet") (r "^2.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-poll" "net"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "1sr1b1ami9wl11mi9zgww4c46w8hy7md4sgikpmycqr6y198w1d7")))
+
+(define-public crate-portForwarder-0.1.2 (c (n "portForwarder") (v "0.1.2") (d (list (d (n "ctrlc") (r "^3.3.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ipnet") (r "^2.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-poll" "net"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "15x5pf9n3qch1wdxa86l6b1r7kxxd4i7gj4r869m5ahxmnp7gmk0")))
+

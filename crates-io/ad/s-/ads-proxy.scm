@@ -1,0 +1,8 @@
+(define-module (crates-io ad s- ads-proxy) #:use-module (crates-io))
+
+(define-public crate-ads-proxy-0.9.2 (c (n "ads-proxy") (v "0.9.2") (d (list (d (n "ads") (r "^0.4.3") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "clap") (r "^4.3.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.2.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.18") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("net" "rt" "full"))) (d #t) (k 0)))) (h "0zlhm1aq8rwkrzfj434fxym2wzjrcl3mgkd82ga1x8hc1hfjdv2d")))
+
+(define-public crate-ads-proxy-0.9.4 (c (n "ads-proxy") (v "0.9.4") (d (list (d (n "ads") (r "^0.4.3") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.2.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.18") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("net" "rt" "full"))) (d #t) (k 0)))) (h "1nqxwg122w4s5gn1v291m2jkblf51kl45f1g1s76zzmf8sw6a7rc")))
+
+(define-public crate-ads-proxy-0.9.5 (c (n "ads-proxy") (v "0.9.5") (d (list (d (n "ads") (r "^0.4.3") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.2.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.18") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("net" "rt" "full"))) (d #t) (k 0)))) (h "0qfp1qcbiwslgrv62rybgnffyz9k4cvxvjginv992jmw8rj8qzbv")))
+

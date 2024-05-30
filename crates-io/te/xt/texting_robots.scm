@@ -1,0 +1,10 @@
+(define-module (crates-io te xt texting_robots) #:use-module (crates-io))
+
+(define-public crate-texting_robots-0.1.0 (c (n "texting_robots") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.55") (d #t) (k 0)) (d (n "bstr") (r "^0.2.17") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0sdnyh49qrrsdlzby847z7m3i1jdgz36rf11nx0dn66p1bbabvld")))
+
+(define-public crate-texting_robots-0.2.0 (c (n "texting_robots") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.55") (d #t) (k 0)) (d (n "bstr") (r "^0.2.17") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1h9m4zpyf7h3qy9rmbz83wjp3lnzb0v1b2l8ylz8hzwjzym28r5i")))
+
+(define-public crate-texting_robots-0.2.1 (c (n "texting_robots") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.55") (d #t) (k 0)) (d (n "bstr") (r "^0.2.17") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0z0w1317cz628qf9rgywwlddg7nb40vliv7d4yjpfi0jysa9v3l2")))
+
+(define-public crate-texting_robots-0.2.2 (c (n "texting_robots") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.55") (d #t) (k 0)) (d (n "bstr") (r "^0.2.17") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0jmvh4gdfa0h7ph5212d5sgf7sjqgdcn813fmmkjxnldl8cag0jv")))
+

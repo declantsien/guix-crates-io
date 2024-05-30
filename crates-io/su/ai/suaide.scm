@@ -1,0 +1,4 @@
+(define-module (crates-io su ai suaide) #:use-module (crates-io))
+
+(define-public crate-suaide-0.1.0 (c (n "suaide") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.15") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "config") (r "^0.10.1") (d #t) (k 0)) (d (n "confy") (r "^0.4.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6.2") (d #t) (k 0)) (d (n "diesel") (r "^1.4.5") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^1.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)))) (h "1wbxd9w5brh85y0f2xffwisy8zyi1sg3d4qrcfbxnmagc4axh9f2") (y #t)))
+

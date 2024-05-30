@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# k kt2) #:use-module (crates-io))
+
+(define-public crate-kt2-1.0.0 (c (n "kt2") (v "1.0.0") (d (list (d (n "blake3") (r "^1.4.1") (d #t) (k 0)) (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "hardlight") (r "^2.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "safe_pqc_kyber") (r "^0.6.1") (f (quote ("kyber768" "std" "rand" "zeroize"))) (d #t) (k 0)))) (h "0g57cwjqypx4scza8y007pr7az932d9q85ck0xgcsc50xx0qmwpz")))
+
+(define-public crate-kt2-1.1.0 (c (n "kt2") (v "1.1.0") (d (list (d (n "blake3") (r "^1.4.1") (d #t) (k 0)) (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "rkyv") (r "^0.7.42") (f (quote ("validation" "copy" "archive_le"))) (d #t) (k 0)) (d (n "safe_pqc_kyber") (r "^0.6.1") (f (quote ("kyber768" "std" "rand" "zeroize"))) (d #t) (k 0)))) (h "0cqfd9vrrcgkwwwnvshlkkq21753r75bz4as3b59slzsd7sfra8h")))
+
+(define-public crate-kt2-1.1.1 (c (n "kt2") (v "1.1.1") (d (list (d (n "blake3") (r "^1.4.1") (d #t) (k 0)) (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "rkyv") (r "^0.7.42") (f (quote ("validation" "copy" "archive_le"))) (d #t) (k 0)) (d (n "safe_pqc_kyber") (r "^0.6.1") (f (quote ("kyber768" "std" "rand" "zeroize"))) (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)))) (h "1sif5fgwkq0h2hz4zfvvvqlvgna7r7adx64562nly3sg8s3gp5a5")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io lo ck lockbook-shared) #:use-module (crates-io))
+
+(define-public crate-lockbook-shared-0.9.1 (c (n "lockbook-shared") (v "0.9.1") (d (list (d (n "aead") (r "^0.4.2") (d #t) (k 0)) (d (n "aes-gcm") (r "^0.9.3") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "db-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "hmac") (r "^0.11.0") (d #t) (k 0)) (d (n "http") (r "^0.2.6") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.7.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "sha2") (r "^0.9.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1.5") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0hwqm0rm9957rs8xpsjbgdxw49ykq69c60ddxdi6b7jzx19n6l2x")))
+

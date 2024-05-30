@@ -1,0 +1,4 @@
+(define-module (crates-io ca sc cascading-ui) #:use-module (crates-io))
+
+(define-public crate-cascading-ui-0.0.1 (c (n "cascading-ui") (v "0.0.1") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.47") (d #t) (k 0)) (d (n "quote") (r "^1.0.21") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.103") (f (quote ("extra-traits" "full" "parsing" "printing" "visit-mut"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.83") (d #t) (k 2)) (d (n "wasm-bindgen-test") (r "^0.3.33") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.60") (f (quote ("console" "CssStyleDeclaration" "CssStyleSheet" "Document" "Element" "Event" "EventListener" "EventTarget" "HtmlCollection" "HtmlElement" "HtmlHeadElement" "Location" "Node" "NodeList" "Window"))) (d #t) (k 2)))) (h "0qniawab4k7m81p2df22kx1as6php9bycnp55k5lpx0vxcfm98cv")))
+

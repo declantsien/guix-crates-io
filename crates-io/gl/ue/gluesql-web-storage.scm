@@ -1,0 +1,6 @@
+(define-module (crates-io gl ue gluesql-web-storage) #:use-module (crates-io))
+
+(define-public crate-gluesql-web-storage-0.14.0 (c (n "gluesql-web-storage") (v "0.14.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "gloo-storage") (r "^0.2.2") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "test-suite") (r "^0.14.0") (d #t) (k 2) (p "gluesql-test-suite")) (d (n "uuid") (r "^1.2.2") (f (quote ("v4"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.33") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.60") (d #t) (k 0)))) (h "0fg4a8r76v0r0knaima32h4bd40kxqr7438fw65l7whnfq8z67zd")))
+
+(define-public crate-gluesql-web-storage-0.15.0 (c (n "gluesql-web-storage") (v "0.15.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gloo-storage") (r "^0.2.2") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "test-suite") (r "^0.15.0") (d #t) (k 2) (p "gluesql-test-suite")) (d (n "uuid") (r "^1.2.2") (f (quote ("v4"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.33") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.60") (d #t) (k 0)))) (h "0268ymgjhlw37qp3fj30lpfadihqvjahjbp4zvfg239awll7c30w")))
+

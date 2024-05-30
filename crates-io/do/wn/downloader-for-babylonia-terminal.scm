@@ -1,0 +1,4 @@
+(define-module (crates-io do wn downloader-for-babylonia-terminal) #:use-module (crates-io))
+
+(define-public crate-downloader-for-babylonia-terminal-0.1.0 (c (n "downloader-for-babylonia-terminal") (v "0.1.0") (d (list (d (n "digest") (r "^0.10.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "sha3") (r "^0.10.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (f (quote ("rt-multi-thread" "time"))) (d #t) (k 0)))) (h "19cx1gi74w0xrvpsks6vj92vvgh4l5qdwgylrd7dnhb7zsad8p87") (f (quote (("verify" "digest") ("tui" "indicatif") ("rustls-tls" "reqwest/rustls-tls") ("default-tls" "reqwest/default-tls") ("default" "default-tls")))) (y #t)))
+

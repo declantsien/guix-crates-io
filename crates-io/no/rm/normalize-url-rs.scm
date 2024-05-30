@@ -1,0 +1,8 @@
+(define-module (crates-io no rm normalize-url-rs) #:use-module (crates-io))
+
+(define-public crate-normalize-url-rs-0.1.0 (c (n "normalize-url-rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rstest") (r "^0.16.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "02cb7nifcv0aqy85x4sx0y9jp0h2akxmq61nddzw7fjvhr3w3a1f")))
+
+(define-public crate-normalize-url-rs-0.1.1 (c (n "normalize-url-rs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rstest") (r "^0.16.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "0kfvm7y8jri014inidq9hs2v4990076drc17spc2444f7y7zk5lk")))
+
+(define-public crate-normalize-url-rs-0.2.0 (c (n "normalize-url-rs") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rstest") (r "^0.16.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "1lxdd6c6ddq2ch6bw2jv3nc8k9h7hvqhdvci41smnvzqwl0c72hz")))
+

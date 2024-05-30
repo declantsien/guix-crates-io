@@ -1,0 +1,4 @@
+(define-module (crates-io le et leetcode-tui-core) #:use-module (crates-io))
+
+(define-public crate-leetcode-tui-core-0.4.0 (c (n "leetcode-tui-core") (v "0.4.0") (d (list (d (n "color-eyre") (r "^0") (d #t) (k 0)) (d (n "crossterm") (r "^0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "fuzzy-matcher") (r "^0") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "leetcode-core") (r "^0.4.0") (d #t) (k 0)) (d (n "leetcode-tui-config") (r "^0.4.0") (d #t) (k 0)) (d (n "leetcode-tui-db") (r "^0.4.0") (d #t) (k 0)) (d (n "leetcode-tui-shared") (r "^0.4.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.23") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1zmmzl0l690ifjp3d6p7nm77c89q1yz8rf7586r1v2wwdmkrqbjv")))
+

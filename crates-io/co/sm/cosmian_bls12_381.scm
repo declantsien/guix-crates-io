@@ -1,0 +1,6 @@
+(define-module (crates-io co sm cosmian_bls12_381) #:use-module (crates-io))
+
+(define-public crate-cosmian_bls12_381-0.4.0 (c (n "cosmian_bls12_381") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.9") (k 0)) (d (n "group") (r "^0.9") (o #t) (k 0)) (d (n "pairing") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "0q2izm4xvv6vfj41ppxfaqq5ign139cawfigmlmiqry1vknmx61i") (f (quote (("pairings" "groups" "pairing") ("nightly" "subtle/nightly") ("groups" "group") ("endo") ("default" "groups" "pairings" "alloc" "endo") ("alloc" "group/alloc"))))))
+
+(define-public crate-cosmian_bls12_381-0.4.1 (c (n "cosmian_bls12_381") (v "0.4.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.9") (k 0)) (d (n "group") (r "^0.9") (o #t) (k 0)) (d (n "pairing") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "1fvfz8l4jdkc1zkzg7vqdq77y8lhflwhj2kcbfjkz7458wf2kdh9") (f (quote (("pairings" "groups" "pairing") ("nightly" "subtle/nightly") ("groups" "group") ("endo") ("default" "groups" "pairings" "alloc" "endo") ("alloc" "group/alloc"))))))
+

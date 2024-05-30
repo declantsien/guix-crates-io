@@ -1,0 +1,4 @@
+(define-module (crates-io qu ic quic-probe) #:use-module (crates-io))
+
+(define-public crate-quic-probe-0.1.0 (c (n "quic-probe") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "quinn") (r "^0.10") (d #t) (k 0)) (d (n "rustls") (r "^0.21") (f (quote ("dangerous_configuration"))) (d #t) (k 0)) (d (n "rustls-native-certs") (r "^0.6.2") (o #t) (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "signal"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.23.0") (o #t) (d #t) (k 0)))) (h "1nc79g4bhby8rpyfzk5mwczw0w4cfhbh8dbal2fcl7dcxcx792ys") (f (quote (("default" "tls-webpki-roots" "tls-native-roots")))) (s 2) (e (quote (("tls-webpki-roots" "dep:webpki-roots") ("tls-native-roots" "dep:rustls-native-certs"))))))
+

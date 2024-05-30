@@ -1,0 +1,4 @@
+(define-module (crates-io ma il mail-internals-ng) #:use-module (crates-io))
+
+(define-public crate-mail-internals-ng-0.2.4 (c (n "mail-internals-ng") (v "0.2.4") (d (list (d (n "base64") (r "^0.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "idna") (r "^0.1.4") (d #t) (k 0)) (d (n "media-type") (r "^0.4.0-unstable") (f (quote ("expose-param-utils"))) (d #t) (k 0)) (d (n "media-type-impl-utils") (r "^0.3.0-unstable") (d #t) (k 0)) (d (n "nom") (r "^3.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.0") (d #t) (k 0)) (d (n "quoted-string") (r "^0.6") (d #t) (k 0)) (d (n "quoted_printable") (r "^0.4.0") (d #t) (k 0)) (d (n "soft-ascii-string") (r "^1.0") (d #t) (k 0)) (d (n "vec1") (r "^1.0") (d #t) (k 0)))) (h "0308b3js9jcvl3ci81vkp6mh4sp1yb9piysykzl58aqx7cz7avli") (f (quote (("traceing") ("default"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io re re reredis) #:use-module (crates-io))
+
+(define-public crate-reredis-0.1.0-alpha.1 (c (n "reredis") (v "0.1.0-alpha.1") (d (list (d (n "chrono") (r "^0.4.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "murmurhash64") (r "^0.3.1") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "redis") (r "^0.12.0") (d #t) (k 2)) (d (n "signal-hook") (r "^0.1.10") (d #t) (k 0)) (d (n "threadpool") (r "^1.7.1") (d #t) (k 2)))) (h "0m3al9yrj15yq4ldszm56lhhb9gz41agcy3za75gxcz8dkvm3575")))
+
+(define-public crate-reredis-0.1.0-alpha.2 (c (n "reredis") (v "0.1.0-alpha.2") (d (list (d (n "chrono") (r "^0.4.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "murmurhash64") (r "^0.3.1") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "redis") (r "^0.12.0") (d #t) (k 2)) (d (n "signal-hook") (r "^0.1.10") (d #t) (k 0)) (d (n "threadpool") (r "^1.7.1") (d #t) (k 2)))) (h "0jwylj62q0fhpca9fs0kl4980db3sjm9x76vz8lb4pzn7y7jdzf3")))
+

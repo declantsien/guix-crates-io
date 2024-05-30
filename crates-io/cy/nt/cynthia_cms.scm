@@ -1,0 +1,4 @@
+(define-module (crates-io cy nt cynthia_cms) #:use-module (crates-io))
+
+(define-public crate-cynthia_cms-0.0.1-alpha.0 (c (n "cynthia_cms") (v "0.0.1-alpha.0") (d (list (d (n "actix-files") (r "^0.6") (d #t) (k 0)) (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "curl") (r "^0.4.44") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "handlebars") (r "^4.5.0") (d #t) (k 0)) (d (n "jsonc-parser") (r "^0.23.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "markdown") (r "^1.0.0-alpha.16") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "1m4wcgdgpxfxc4m9hi7z2lgasrjfwcycvdkh7v08f6halla23k2h") (y #t)))
+

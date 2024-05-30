@@ -1,0 +1,6 @@
+(define-module (crates-io sq lx sqlx-models-parser) #:use-module (crates-io))
+
+(define-public crate-sqlx-models-parser-0.10.1-alpha.0 (c (n "sqlx-models-parser") (v "0.10.1-alpha.0") (d (list (d (n "bigdecimal") (r "^0.3") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "simple_logger") (r "^1.9") (d #t) (k 2)))) (h "1kfhaz8cngdv89xpqiliz4f3sb500b9xwr9m0binykwvnnbn6yrj") (f (quote (("std") ("json_example" "serde_json" "serde") ("default" "std")))) (y #t)))
+
+(define-public crate-sqlx-models-parser-0.0.1 (c (n "sqlx-models-parser") (v "0.0.1") (d (list (d (n "bigdecimal") (r "^0.3") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "matches") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "simple_logger") (r "^1.9") (d #t) (k 2)))) (h "15wx2bvg427f5vyn1y8vr628740wrdpdrd3fvqh4s7kag7bmclg6") (f (quote (("std") ("json_example" "serde_json" "serde") ("default" "std"))))))
+

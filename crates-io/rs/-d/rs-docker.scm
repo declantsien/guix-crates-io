@@ -1,0 +1,40 @@
+(define-module (crates-io rs -d rs-docker) #:use-module (crates-io))
+
+(define-public crate-rs-docker-0.0.42 (c (n "rs-docker") (v "0.0.42") (d (list (d (n "openssl") (r "^0.7") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "unix_socket") (r "^0.4.6") (d #t) (k 0)))) (h "1wf7n2qzg0igvrxl93jp1phzpd7mf4cbjwa525xywim5akyyyz8p")))
+
+(define-public crate-rs-docker-0.0.43 (c (n "rs-docker") (v "0.0.43") (d (list (d (n "openssl") (r "^0.7") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "unix_socket") (r "^0.4.6") (d #t) (k 0)))) (h "01p0yfnfr55wgz4v9r4g5ar26pjalwvcfbcayc18dpd9dxkfz1wa")))
+
+(define-public crate-rs-docker-0.0.44 (c (n "rs-docker") (v "0.0.44") (d (list (d (n "openssl") (r "^0.7") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.16") (d #t) (k 0)) (d (n "unix_socket") (r "^0.4.6") (d #t) (k 0)))) (h "16yj3ys13c0xgfxv85wnn6ng9kxglainwzsjrk9y0s8n5ihp797h")))
+
+(define-public crate-rs-docker-0.0.45 (c (n "rs-docker") (v "0.0.45") (d (list (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.24") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "1ff0397vkb83jfr07xjdzz1v5sr51l7sb942i5lc2pvlcn3jfjgb")))
+
+(define-public crate-rs-docker-0.0.46 (c (n "rs-docker") (v "0.0.46") (d (list (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "04ykf77ii766r1ny5xzd8nwg37cdaysv6jxcykvjy3q17zlvfqdy")))
+
+(define-public crate-rs-docker-0.0.47 (c (n "rs-docker") (v "0.0.47") (d (list (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "19m83j9l20fk6bcarl2yaddvhnvjik92lb97mpf9f1kqmdqfgg68")))
+
+(define-public crate-rs-docker-0.0.48 (c (n "rs-docker") (v "0.0.48") (d (list (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "0j3ps1nax5ay28cgwvg93dl1xx299bz7sva71dmzk26r355izz87")))
+
+(define-public crate-rs-docker-0.0.49 (c (n "rs-docker") (v "0.0.49") (d (list (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "0kzk92d43k8db3h7hlzwsz8jjis7vgd6822a4xqz8qwa4n0784bc")))
+
+(define-public crate-rs-docker-0.0.50 (c (n "rs-docker") (v "0.0.50") (d (list (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "1rav69sw5izv0qkkrjcm47fhc1ymhc5g6mpdcl8az7xvlqqjbcxz")))
+
+(define-public crate-rs-docker-0.0.51 (c (n "rs-docker") (v "0.0.51") (d (list (d (n "openssl") (r "^0.10.16") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.37") (d #t) (k 0)) (d (n "unix_socket") (r "^0.5.0") (d #t) (k 0)))) (h "0fng572q1d6qynmq4ghb6wgmgrw58xsrq0233vjsqsq7p7w5pd1b") (f (quote (("default" "openssl"))))))
+
+(define-public crate-rs-docker-0.0.52 (c (n "rs-docker") (v "0.0.52") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "17vg60xzzr22zy9crbvazz1nsjbh3f8zkljx6lh0ac7ms8fn528h")))
+
+(define-public crate-rs-docker-0.0.53 (c (n "rs-docker") (v "0.0.53") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "1lcm9bir3mp5swwf5nh6s9sfif5mn0cknzp5j7h8k8gfw1ivjzwz")))
+
+(define-public crate-rs-docker-0.0.54 (c (n "rs-docker") (v "0.0.54") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "042bacz0i01lkickdfjmg2mb28ls7ix5blzwaj4v8xlbcx8rrz81")))
+
+(define-public crate-rs-docker-0.0.55 (c (n "rs-docker") (v "0.0.55") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "0kx9vpirczaf2lnba28h8b8dhhabqvjk2y7g5i29d5yhfy3y82pb")))
+
+(define-public crate-rs-docker-0.0.56 (c (n "rs-docker") (v "0.0.56") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "0l8wnz2jd4p8xqd8r8x7qnz9jbii2d8yd8n4hgqycsxbjcwa9w6g")))
+
+(define-public crate-rs-docker-0.0.57 (c (n "rs-docker") (v "0.0.57") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "0bjnrff15284f4301cbrmf7r77xj62lqakijck4rqd16m6ban7xl")))
+
+(define-public crate-rs-docker-0.0.58 (c (n "rs-docker") (v "0.0.58") (d (list (d (n "futures") (r "^0.1.29") (d #t) (k 0)) (d (n "hyper") (r "^0.12.34") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.17") (d #t) (k 0)))) (h "1vhch9m71kqxsnnvb7lybjhlx42287yavgzyv7ib97vn3clv1nzb")))
+
+(define-public crate-rs-docker-0.0.59 (c (n "rs-docker") (v "0.0.59") (d (list (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "hyper") (r "^0.14.9") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1.7.0") (d #t) (k 0)))) (h "1msr6cf9l2pvwigpkmgsqq4xmysdwhw32g4j7m92dcs9nhc3v84j")))
+
+(define-public crate-rs-docker-0.0.60 (c (n "rs-docker") (v "0.0.60") (d (list (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "hyper") (r "^0.14.9") (d #t) (k 0)) (d (n "hyperlocal") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1.7.0") (d #t) (k 0)))) (h "1gpr0wm39aklx1n1fp0c3vbniay0wfsjfk5v43v75jh7jqch2phd")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ma gn magnetar) #:use-module (crates-io))
+
+(define-public crate-magnetar-0.1.0 (c (n "magnetar") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "magnetar_core") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "tower-http") (r "^0.3") (f (quote ("cors" "trace"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1kfnnbn8pwciqrn1rbdjxs1azr0jrxsqnfzmjsy41vzb6za6hdlz")))
+

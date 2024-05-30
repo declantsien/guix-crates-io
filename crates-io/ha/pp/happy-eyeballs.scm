@@ -1,0 +1,8 @@
+(define-module (crates-io ha pp happy-eyeballs) #:use-module (crates-io))
+
+(define-public crate-happy-eyeballs-0.1.0 (c (n "happy-eyeballs") (v "0.1.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "polling") (r "^2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "socket2") (r "^0.5.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (d #t) (k 0)))) (h "0mklsslybxv83qsvf3m0i5lfp6sc2yps1rbg4c92px0ws589196q")))
+
+(define-public crate-happy-eyeballs-0.2.0 (c (n "happy-eyeballs") (v "0.2.0") (d (list (d (n "async-std") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "polling") (r "^2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "socket2") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (o #t) (d #t) (k 0)))) (h "048lmwy9klh19q29kz03qkh604qi0k5bw6d40bn7lyldvrb1pial") (f (quote (("std-net" "libc" "polling" "socket2") ("default" "std-net"))))))
+
+(define-public crate-happy-eyeballs-0.2.1 (c (n "happy-eyeballs") (v "0.2.1") (d (list (d (n "async-std") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "polling") (r "^2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "socket2") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "net" "rt" "time"))) (o #t) (d #t) (k 0)))) (h "07k0vq1rjifgicpz60mmwvn0d13yqy0pkfwaplw5gkj77v2yy0vb") (f (quote (("std-net" "libc" "polling" "socket2") ("default" "std-net"))))))
+

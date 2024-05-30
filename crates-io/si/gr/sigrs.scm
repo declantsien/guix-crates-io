@@ -1,0 +1,4 @@
+(define-module (crates-io si gr sigrs) #:use-module (crates-io))
+
+(define-public crate-sigrs-0.1.0 (c (n "sigrs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.3") (d #t) (k 0)) (d (n "grep") (r "^0.3.1") (d #t) (k 0)) (d (n "promkit") (r "^0.4.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (d #t) (k 0)))) (h "1nvhbimrncn7430nrvbwqjrydl7gxnvkwc3b528xnijl2gqwpz99")))
+

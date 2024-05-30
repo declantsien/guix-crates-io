@@ -1,0 +1,8 @@
+(define-module (crates-io nn sd nnsdao_sdk_basic) #:use-module (crates-io))
+
+(define-public crate-nnsdao_sdk_basic-0.1.0 (c (n "nnsdao_sdk_basic") (v "0.1.0") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "candid") (r "^0.7.4") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.1") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.5.1") (d #t) (k 0)) (d (n "ic-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)))) (h "16ig178ap5k84xha7qgmmrffr0125jc10li3ryj9hafaxfh5m1af") (y #t)))
+
+(define-public crate-nnsdao_sdk_basic-0.1.1 (c (n "nnsdao_sdk_basic") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "candid") (r "^0.7.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.1") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.5.1") (d #t) (k 0)) (d (n "ic-types") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)))) (h "0wrx55d5vydi0cbj95dg712as5jnd0axrlq1v56gyf362mkvjfvz")))
+
+(define-public crate-nnsdao_sdk_basic-0.1.2 (c (n "nnsdao_sdk_basic") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "candid") (r "^0.7.4") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5.6") (d #t) (k 0)) (d (n "ic-cdk-macros") (r "^0.5.6") (d #t) (k 0)) (d (n "ic-types") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)))) (h "1n7vhl9q7b8sawyz8swlvjpgnb2k7g0p3ckddz7k5r0rfa6w1xvk")))
+

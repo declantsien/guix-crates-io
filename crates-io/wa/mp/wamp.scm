@@ -1,0 +1,4 @@
+(define-module (crates-io wa mp wamp) #:use-module (crates-io))
+
+(define-public crate-wamp-0.1.0 (c (n "wamp") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.3") (d #t) (k 0)) (d (n "eventual") (r "^0.1.7") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rmp") (r "^0.7") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^0.7") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.7") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.7") (d #t) (k 0)) (d (n "serde_macros") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "syntex") (r "^0.39") (d #t) (k 1)) (d (n "url") (r "^1.2") (d #t) (k 0)) (d (n "ws") (r "^0.5") (d #t) (k 0)))) (h "1wknlwl736m1iydklj3p80pbcr510gavy55yqc44w15dhgv0sd8p") (f (quote (("nightly" "serde_macros") ("default" "serde_codegen"))))))
+

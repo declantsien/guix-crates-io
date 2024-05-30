@@ -1,0 +1,8 @@
+(define-module (crates-io ti nk tink-hybrid) #:use-module (crates-io))
+
+(define-public crate-tink-hybrid-0.2.3 (c (n "tink-hybrid") (v "0.2.3") (d (list (d (n "p256") (r "^0.9") (f (quote ("ecdh"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "tink-aead") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tink-core") (r "^0.2.3") (d #t) (k 0)) (d (n "tink-daead") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tink-proto") (r "^0.2") (d #t) (k 0)))) (h "11r67cmrsrjdvc62m0bvqkshcr6lh9hm9ryjgavmxkji8nwxqsdi") (f (quote (("default" "aead" "daead") ("daead" "tink-daead") ("aead" "tink-aead"))))))
+
+(define-public crate-tink-hybrid-0.2.4 (c (n "tink-hybrid") (v "0.2.4") (d (list (d (n "p256") (r "^0.9") (f (quote ("ecdh"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "tink-aead") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tink-core") (r "^0.2.3") (d #t) (k 0)) (d (n "tink-daead") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tink-proto") (r "^0.2") (d #t) (k 0)))) (h "1snig1dknzi85dnirsy56r9q6mw7f9f2vczl9pmzvl44pp0bw0d4") (f (quote (("default" "aead" "daead") ("daead" "tink-daead") ("aead" "tink-aead"))))))
+
+(define-public crate-tink-hybrid-0.2.5 (c (n "tink-hybrid") (v "0.2.5") (d (list (d (n "p256") (r "^0.11.1") (f (quote ("ecdh"))) (d #t) (k 0)) (d (n "tink-aead") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tink-core") (r "^0.2.3") (d #t) (k 0)) (d (n "tink-daead") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tink-proto") (r "^0.2") (d #t) (k 0)))) (h "1hp6hf6wmlhdjyk21adhmdqj5msr0ikyv9s7k5m7mb8lwxh1aqf6") (f (quote (("default" "aead" "daead") ("daead" "tink-daead") ("aead" "tink-aead"))))))
+

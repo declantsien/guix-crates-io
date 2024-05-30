@@ -1,0 +1,4 @@
+(define-module (crates-io we dp wedpr_s_hierarchical_deterministic_key) #:use-module (crates-io))
+
+(define-public crate-wedpr_s_hierarchical_deterministic_key-1.3.0 (c (n "wedpr_s_hierarchical_deterministic_key") (v "1.3.0") (d (list (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "wagyu-model") (r "^0.6.3") (d #t) (k 0)) (d (n "wagyu_lib") (r "^0.6.3") (d #t) (k 0) (p "wagyu-bitcoin")) (d (n "wedpr_l_common_coder_base64") (r "^1.0.0") (d #t) (k 2)) (d (n "wedpr_l_crypto_ecies_secp256k1") (r "^1.0.0") (d #t) (k 2)) (d (n "wedpr_l_crypto_hash_keccak256") (r "^1.0.0") (d #t) (k 2)) (d (n "wedpr_l_crypto_signature_secp256k1") (r "^1.0.0") (d #t) (k 2)) (d (n "wedpr_l_macros") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_l_utils") (r "^1.0.0") (d #t) (k 0)) (d (n "wedpr_s_protos") (r "^1.3.0") (d #t) (k 0)))) (h "17ir6f22vx0da5ps53lz6wrwl2k5nw0kvjhs5vlfip55rhap2sn1")))
+

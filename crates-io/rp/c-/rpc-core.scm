@@ -1,0 +1,16 @@
+(define-module (crates-io rp c- rpc-core) #:use-module (crates-io))
+
+(define-public crate-rpc-core-0.1.0 (c (n "rpc-core") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0nzjjzyzqhacp00h8p85vy5zsmvhn94ywlwlgxzz24b110225cm9") (r "1.56")))
+
+(define-public crate-rpc-core-0.2.0 (c (n "rpc-core") (v "0.2.0") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0f2pfhfyxrjyygjjvim6964w3vbc372h33x5w2iqf9kx16v1d2vn") (r "1.56")))
+
+(define-public crate-rpc-core-0.2.1 (c (n "rpc-core") (v "0.2.1") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0fzw7aar027k4xaskakjmr7lcpm4fy0ri1l0cgl2x29w104p9fm2") (r "1.56")))
+
+(define-public crate-rpc-core-0.2.2 (c (n "rpc-core") (v "0.2.2") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "12a7wpqpzr0lf5iiw20a21w20a02fr3ymrlirw8q6dqnr0j8si8p") (r "1.56")))
+
+(define-public crate-rpc-core-0.3.0 (c (n "rpc-core") (v "0.3.0") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "macros"))) (o #t) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0fylsjakk0r0racsf2yz6v2lamzb7yd6n7qdhzaskv5cbyqryjwy") (f (quote (("net" "tokio" "tokio-stream") ("full" "net") ("default")))) (r "1.56")))
+
+(define-public crate-rpc-core-0.3.1 (c (n "rpc-core") (v "0.3.1") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "macros"))) (o #t) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1gyxshfd26mzm84m286k7qpgp6n0qcxphgsasv5qw2jj4fv08fv6") (f (quote (("net" "tokio" "tokio-stream") ("full" "net") ("default")))) (r "1.56")))
+
+(define-public crate-rpc-core-0.3.2 (c (n "rpc-core") (v "0.3.2") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "macros"))) (o #t) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1y4bjq8ha7mmy49nkykcmmlirsis8pz9ng0jjkll7pqmvrf23wpg") (f (quote (("net" "tokio" "tokio-stream") ("full" "net") ("default")))) (r "1.56")))
+

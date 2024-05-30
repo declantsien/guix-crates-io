@@ -1,0 +1,18 @@
+(define-module (crates-io fr az frazzers-utils) #:use-module (crates-io))
+
+(define-public crate-frazzers-utils-0.1.0 (c (n "frazzers-utils") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)))) (h "0jpyamn8m1ifn1w387f5bls3bdbqb5cvjzf6sgp3bh44k5zbx58s")))
+
+(define-public crate-frazzers-utils-0.1.1 (c (n "frazzers-utils") (v "0.1.1") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)))) (h "155dw0hghqd39waig1hp0ii83ig0bb92zp35b34q9v23hq9gafm3")))
+
+(define-public crate-frazzers-utils-0.1.2 (c (n "frazzers-utils") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fs-err") (r "^2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0xnjpvi2kzk8qf97vm55qrwm9nbvigr4ldwhk21gar7ynljw7igf")))
+
+(define-public crate-frazzers-utils-0.2.0 (c (n "frazzers-utils") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4") (d #t) (k 0)) (d (n "fs-err") (r "^2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)))) (h "1xnm8npmxqwyrk8ybrvi7rh92lzx0kzb1vqj52d5ycjgk7w1dn8n")))
+
+(define-public crate-frazzers-utils-0.2.1 (c (n "frazzers-utils") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4") (d #t) (k 0)) (d (n "fs-err") (r "^2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)))) (h "0zhwmi12l33l1y8r06k3fh1p95v702alxxzazsdm90m19c6ykc4b")))
+
+(define-public crate-frazzers-utils-0.3.0 (c (n "frazzers-utils") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4") (d #t) (k 0)) (d (n "fs-err") (r "^2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "sqlparse") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)))) (h "1qg2gr62frn5spkyg102p5y0x5ylias6hcklmckaxal9q43khz9s")))
+
+(define-public crate-frazzers-utils-0.3.1 (c (n "frazzers-utils") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4") (d #t) (k 0)) (d (n "fs-err") (r "^2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "sqlparse") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)))) (h "1ibsbj2zvr6wjpvlrsqhyfq2bzi47xrr38ys6ffymldwxlikszs9")))
+
+(define-public crate-frazzers-utils-0.3.2 (c (n "frazzers-utils") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4") (d #t) (k 0)) (d (n "fs-err") (r "^2.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "sqlparse") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)))) (h "16isnvvhirip3rcr6l3v75fpqcfrgjdznhjkw1rb7pdb31yn84xl")))
+

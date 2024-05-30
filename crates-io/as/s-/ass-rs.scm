@@ -1,0 +1,12 @@
+(define-module (crates-io as s- ass-rs) #:use-module (crates-io))
+
+(define-public crate-ass-rs-0.8.0 (c (n "ass-rs") (v "0.8.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.8") (d #t) (k 0)) (d (n "ring") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)))) (h "11ybl5jg4rnwr65cwkfz811h0f7srx20k09bqaxmnkk1xzznwjg1")))
+
+(define-public crate-ass-rs-0.8.1 (c (n "ass-rs") (v "0.8.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.8") (d #t) (k 0)) (d (n "ring") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)))) (h "0669fri6lqnvps4v35rr5p8ay0jagsxw8pbwb9g32yks51zq89pc")))
+
+(define-public crate-ass-rs-1.0.0 (c (n "ass-rs") (v "1.0.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "mockito") (r "^0.20.0") (d #t) (k 0)) (d (n "reqwest") (r "0.9.*") (d #t) (k 0)) (d (n "ring") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)))) (h "0grw0slnamv00rkkafzg2xmgzrclapas88x4615qyfv91wrlya93")))
+
+(define-public crate-ass-rs-2.0.0 (c (n "ass-rs") (v "2.0.0") (d (list (d (n "derive_more") (r "^0.15.0") (d #t) (k 0)) (d (n "mockito") (r "^0.20.0") (d #t) (k 0)) (d (n "reqwest") (r "0.9.*") (d #t) (k 0)) (d (n "ring") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)))) (h "0bkgnwxm3m0kzjfj1yywjvmkg2ccdp863dihrh4qi4w37a7slapn")))
+
+(define-public crate-ass-rs-3.0.0 (c (n "ass-rs") (v "3.0.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.15.0") (d #t) (k 0)) (d (n "mockito") (r "^0.25") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.14.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.36") (d #t) (k 0)) (d (n "tokio-test") (r "^0.2.1") (d #t) (k 2)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1p8z1azs7gl8kwjyxlrgvxj2k81gc4mz20k5ipl0d0bk4ls4ii0d")))
+

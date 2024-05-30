@@ -1,0 +1,4 @@
+(define-module (crates-io en su ensure-mamba) #:use-module (crates-io))
+
+(define-public crate-ensure-mamba-0.1.0 (c (n "ensure-mamba") (v "0.1.0") (d (list (d (n "bzip2") (r "^0.4.4") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "expanduser") (r "^1.2.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "shellexpand") (r "^3.1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("full"))) (d #t) (k 0)) (d (n "trauma") (r "^2.2.4") (d #t) (k 0)))) (h "0swvi340k8simqx3chq0v1hiqvjp1l6x8xlx5i38r85i2km03m9n")))
+

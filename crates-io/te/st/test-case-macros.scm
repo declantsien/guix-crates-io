@@ -1,0 +1,20 @@
+(define-module (crates-io te st test-case-macros) #:use-module (crates-io))
+
+(define-public crate-test-case-macros-2.1.0 (c (n "test-case-macros") (v "2.1.0") (d (list (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0b45pdn740ybqmfjfly226cpchck8hh4pr7lr5jicqnygbs63m4d") (f (quote (("with-regex"))))))
+
+(define-public crate-test-case-macros-2.2.1 (c (n "test-case-macros") (v "2.2.1") (d (list (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0m1y1f1sbhgckcqlyfdvar65xv3q9wkg9q10371gbi3gvkp6hnf9") (f (quote (("with-regex"))))))
+
+(define-public crate-test-case-macros-2.2.2 (c (n "test-case-macros") (v "2.2.2") (d (list (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "09jvbfvz48v6ya3i25gp3lbr6ym1fz7qyp3l6bcdslwkw7v7nnz4") (f (quote (("with-regex"))))))
+
+(define-public crate-test-case-macros-3.0.0 (c (n "test-case-macros") (v "3.0.0") (d (list (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "test-case-core") (r "^3.0.0") (k 0)))) (h "142iq09pd8kwwcafm9x21ycza44a1sdm5z9hyyb1l5dyw2c6hy7k") (f (quote (("with-regex" "test-case-core/with-regex"))))))
+
+(define-public crate-test-case-macros-3.1.0 (c (n "test-case-macros") (v "3.1.0") (d (list (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "test-case-core") (r "^3.0.0") (k 0)))) (h "014l5wafp069d251c62flwyai8nv75vpjlmib2xc2m3a3i5s9fgf") (f (quote (("with-regex" "test-case-core/with-regex"))))))
+
+(define-public crate-test-case-macros-3.2.0 (c (n "test-case-macros") (v "3.2.0") (d (list (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "test-case-core") (r "^3.0.0") (k 0)))) (h "05w0wdh9rnh26jmyb025a1m18w00hlxd01wf0ya6j9q14di8wqyh") (f (quote (("with-regex" "test-case-core/with-regex"))))))
+
+(define-public crate-test-case-macros-3.2.1 (c (n "test-case-macros") (v "3.2.1") (d (list (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "test-case-core") (r "^3.2.1") (k 0)))) (h "0myjk8lg2hh34irgnq5p60d50ifwkd8vm7r20kih80car2xxgkrp") (f (quote (("with-regex" "test-case-core/with-regex"))))))
+
+(define-public crate-test-case-macros-3.3.0 (c (n "test-case-macros") (v "3.3.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "test-case-core") (r "^3.2.1") (k 0)))) (h "0lb6zajybpjvkyzm1hssbwci4770cx44nbqq3h9mgksdgbfn82sg") (f (quote (("with-regex" "test-case-core/with-regex"))))))
+
+(define-public crate-test-case-macros-3.3.1 (c (n "test-case-macros") (v "3.3.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "test-case-core") (r "^3.2.1") (k 0)))) (h "1yvgky3qax73bic6m368q04xc955p4a91mddd6b5fk7d04mfg2aw") (f (quote (("with-regex" "test-case-core/with-regex"))))))
+

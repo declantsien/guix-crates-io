@@ -1,0 +1,10 @@
+(define-module (crates-io na bo nabo) #:use-module (crates-io))
+
+(define-public crate-nabo-0.1.0 (c (n "nabo") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^2.7.0") (d #t) (k 0)) (d (n "partition") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1dqn6cw1nb05ynvyrvrsqry6l0qinjyzq1c150sjr8r1k4530apf") (f (quote (("dummy_point" "rand") ("default" "dummy_point"))))))
+
+(define-public crate-nabo-0.2.0 (c (n "nabo") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^2.7.0") (d #t) (k 0)) (d (n "partition") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0xcb169mvmd2lag0ii6ykjagw0qpmk4k8f43fsdjr6y5gi9rlx1m") (f (quote (("dummy_point" "rand") ("default" "dummy_point"))))))
+
+(define-public crate-nabo-0.2.1 (c (n "nabo") (v "0.2.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^2.7.0") (d #t) (k 0)) (d (n "partition") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0z1s91swn9l4qly6qyspkawapsznq5g8j9rsk12x2zqwmpan8fm5") (f (quote (("dummy_point" "rand") ("default" "dummy_point"))))))
+
+(define-public crate-nabo-0.3.0 (c (n "nabo") (v "0.3.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "ordered-float") (r "^3.7.0") (d #t) (k 0)) (d (n "partition") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "13r4787ijhw48ccpiqc48961pink1dsyfa7b87jgdwsagn1v485l") (f (quote (("dummy_point" "rand") ("default" "dummy_point"))))))
+

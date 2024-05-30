@@ -1,0 +1,20 @@
+(define-module (crates-io re ad read-write-set-dynamic) #:use-module (crates-io))
+
+(define-public crate-read-write-set-dynamic-0.1.2 (c (n "read-write-set-dynamic") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-binary-format") (r "^0.1.0") (d #t) (k 0) (p "mv-binary-format")) (d (n "move-bytecode-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "move-core-types") (r "^0.1.0") (d #t) (k 0) (p "mv-core-types")) (d (n "move-read-write-set-types") (r "^0.1.0") (d #t) (k 0) (p "mv-read-write-set-types")))) (h "0jx7r8mn2rgkh0ba49ldq72v9i9f9wpwgdamirj2gcfhvkja74gm") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.1.4 (c (n "read-write-set-dynamic") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.1.0") (d #t) (k 0)))) (h "076c3as9z6584qyb5fs5ww4vnwi7cyiflmky00waa7x2wivaag99") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.1.5 (c (n "read-write-set-dynamic") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.1.0") (d #t) (k 0)))) (h "069z9gnhmq92a96qv1fn4mkp104v019hm06ap0k66bxgbmjicj4r") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.1.6 (c (n "read-write-set-dynamic") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.1.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.1.0") (d #t) (k 0)))) (h "1bk57pny109nqw2ppyk0g39pfjs35agndrc00wz52b8fa3g6hys4") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.2.0 (c (n "read-write-set-dynamic") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.2.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.2.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.2.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.2.0") (d #t) (k 0)))) (h "12kl19cmzyvn6sb7w9kznlh3xs8p3jw1wvd7jyy3ah8l6x84lgzx") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.2.1 (c (n "read-write-set-dynamic") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.2.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.2.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.2.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.2.0") (d #t) (k 0)))) (h "1w735bz3p4qbq40gw8xsfrw2gxgc6wpwsc24sv393b4pvzsrm99b") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.3.0 (c (n "read-write-set-dynamic") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.3.0") (d #t) (k 0)))) (h "1bh37x08h0hrh9wcn511gja6ks22d7s7rfzrnv3b1icy6mf21v9y") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.3.1 (c (n "read-write-set-dynamic") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.3.0") (d #t) (k 0)))) (h "16q8if1196q8hhy2j1yl9w53pij7ngin2k156cgihy7vgalap75k") (y #t)))
+
+(define-public crate-read-write-set-dynamic-0.3.2 (c (n "read-write-set-dynamic") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 0)) (d (n "move-bytecode-utils") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-binary-format") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.3.0") (d #t) (k 0)) (d (n "mv-read-write-set-types") (r "^0.3.0") (d #t) (k 0)))) (h "1gzd35v4pw3s7cvicq6gpfn9p2lmm706h9345hmi8ycwzmd91b8j") (y #t)))
+

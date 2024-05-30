@@ -1,0 +1,8 @@
+(define-module (crates-io wo mb wombo) #:use-module (crates-io))
+
+(define-public crate-wombo-0.1.0 (c (n "wombo") (v "0.1.0") (d (list (d (n "futures") (r "^0.1.17") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.5.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "thread-id") (r "^3.2.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.2") (d #t) (k 2)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "0x06f1am3bsqpil3smx8kp1wz624sqgflgw03yic24f7da7v49r8")))
+
+(define-public crate-wombo-0.1.1 (c (n "wombo") (v "0.1.1") (d (list (d (n "futures") (r "^0.1.17") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.5.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "thread-id") (r "^3.2.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.2") (d #t) (k 2)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "14g9wr15axm14wym4500r38z6n1yv7al4syz6z8rrzcd3gingc5c")))
+
+(define-public crate-wombo-0.1.2 (c (n "wombo") (v "0.1.2") (d (list (d (n "futures") (r "^0.1.17") (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.5.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.1.1") (d #t) (k 0)) (d (n "thread-id") (r "^3.2.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.12") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1.2") (d #t) (k 2)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "053r0g7d9izngii74v311fnlj8zp3yvwl5hk3npn7f1c5rxydsjg")))
+

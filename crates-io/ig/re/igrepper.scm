@@ -1,0 +1,18 @@
+(define-module (crates-io ig re igrepper) #:use-module (crates-io))
+
+(define-public crate-igrepper-0.1.0 (c (n "igrepper") (v "0.1.0") (h "1b27kyz62awr675k1a49xg8wm3kxl2fw6w1dszb3l2rc01xydc0y")))
+
+(define-public crate-igrepper-1.2.0 (c (n "igrepper") (v "1.2.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.9") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "0mqvy0kgnwfgny638jp9jf8x4n7vayxp8kri55jl1088a9m0j70z")))
+
+(define-public crate-igrepper-1.3.0 (c (n "igrepper") (v "1.3.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.9") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "1lkr7g4k349sibnzgsfx627gwkyq5jj39gml02y5mg2rvha383pd")))
+
+(define-public crate-igrepper-1.3.1 (c (n "igrepper") (v "1.3.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.9") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "1p0qzd85949468c6khzvvli8qqqyd67yyl077zsqsvi59v42jpbs")))
+
+(define-public crate-igrepper-1.3.2 (c (n "igrepper") (v "1.3.2") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "1adfvimdpm4cqggg2jzg3l0bxp96rrcq15g150ldw2pa2rd20njn")))
+
+(define-public crate-igrepper-1.3.3 (c (n "igrepper") (v "1.3.3") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "0403fid8gyw0dyr1rsqsgb06wl9ymfrn3zxfk0y0j3pfgi97mmva")))
+
+(define-public crate-igrepper-1.3.4 (c (n "igrepper") (v "1.3.4") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "0vxbayyl2ynr74cxjqni8z31p88wi8gbdacxhfszq0qcaacm5pan")))
+
+(define-public crate-igrepper-1.3.5 (c (n "igrepper") (v "1.3.5") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "inotify") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2.93") (d #t) (k 0)) (d (n "ncurses") (r "^5.101.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 2)))) (h "11k6pab007q1klm9bl096w6hzh00clvsbmjngfb2l11ji9w1zflc")))
+

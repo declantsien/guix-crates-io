@@ -1,0 +1,4 @@
+(define-module (crates-io jo ur journaldb) #:use-module (crates-io))
+
+(define-public crate-journaldb-0.2.0 (c (n "journaldb") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "fastmap") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "tetsy-bytes") (r "^0.1") (d #t) (k 0)) (d (n "tetsy-hash-db") (r "^0.15.2") (d #t) (k 0)) (d (n "tetsy-keccak-hash") (r "^0.4.0") (d #t) (k 2)) (d (n "tetsy-keccak-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "tetsy-kvdb") (r "^0.3.2") (d #t) (k 0)) (d (n "tetsy-kvdb-memorydb") (r "^0.3.2") (d #t) (k 2)) (d (n "tetsy-memory-db") (r "^0.18.1") (d #t) (k 0)) (d (n "tetsy-rlp") (r "^0.4.5") (d #t) (k 0)) (d (n "tetsy-util-mem") (r "^0.3.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "1hvrw268acqazan92jn1k9bs8vz5nb2nw0h1myi56sxydsy0lsmp")))
+

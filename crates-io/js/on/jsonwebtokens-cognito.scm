@@ -1,0 +1,20 @@
+(define-module (crates-io js on jsonwebtokens-cognito) #:use-module (crates-io))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.2 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.2") (d (list (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0xkc2qjd14cs11g2s0r75lhsvg36bfkqsrv6pw26021xq8f2z1jz")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.4 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.4") (d (list (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0zlgw4drbfydn5rx7vh256gwnl31yhbqxwkb4jzmy30dn0rg63w4")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.5 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.5") (d (list (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1ym5kr0x8r1nizvbvfvy1k8c3380kcdc34n2l0aa5kklp0asv7f6")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.6 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.6") (d (list (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0kyf2r5491l46q2p3fax74j4sm2fx2ncixi7zgag4j8aqbjcirln")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.7 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.7") (d (list (d (n "async-std") (r "^1.4.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "05rvjn8220rkrxg4sq9zdl5ffjhji457jy4lp1w9sw5nrxv32xwn")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.8 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.8") (d (list (d (n "async-std") (r "^1.4.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "19yrsmb1jgb0yrdgkz916j9khcvpbgihgrsmj4xf5i0zg0xbd22m")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.9 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.9") (d (list (d (n "async-std") (r "^1.4.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "jsonwebtokens") (r "^1.0.0-alpha") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1bj6pq5fqdx36d0vsigyddiypwabl6wxghjdpsbkzvafnk53w0b4")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.0-alpha.10 (c (n "jsonwebtokens-cognito") (v "0.1.0-alpha.10") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "jsonwebtokens") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "11dz48klnh53a23s6qsknzfi849s03fd5c22ywp788n86k5nilac")))
+
+(define-public crate-jsonwebtokens-cognito-0.1.1 (c (n "jsonwebtokens-cognito") (v "0.1.1") (d (list (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "jsonwebtokens") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1facxvyvxmq2i1qmfpmgcrl3hmbv83w49f6m1zn9c0b72wdnpxkz")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mp ad mpad) #:use-module (crates-io))
+
+(define-public crate-mpad-0.1.0 (c (n "mpad") (v "0.1.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "difference") (r "^2.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "gio") (r "^0") (d #t) (k 0)) (d (n "glib") (r "^0") (d #t) (k 0)) (d (n "gtk") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "socket2") (r "^0.3.11") (d #t) (k 0)))) (h "09jcbm26xa909cb3mc2abwyysg8zxsipmpm0sva5znb216ly9f0s")))
+

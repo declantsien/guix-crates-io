@@ -1,0 +1,6 @@
+(define-module (crates-io ca ff caffeine-cf) #:use-module (crates-io))
+
+(define-public crate-caffeine-cf-0.1.2 (c (n "caffeine-cf") (v "0.1.2") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "codeforces-api") (r "^0.3.4") (f (quote ("serde_yaml"))) (d #t) (k 0)) (d (n "directories") (r "^3.0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "headless_chrome") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 0)))) (h "180bky3d87vz39kyfwhq7zhjhh5wf35d4yw15bnnnbzlbxaawmad") (f (quote (("debug-screenshot"))))))
+
+(define-public crate-caffeine-cf-0.1.3 (c (n "caffeine-cf") (v "0.1.3") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "codeforces-api") (r "^0.3.4") (f (quote ("serde_yaml"))) (d #t) (k 0)) (d (n "directories") (r "^3.0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "headless_chrome") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 0)))) (h "1h1bv6zg4wff8ypflgwsrgl26imn7ybknlnf43gnzikqz31rjzjn") (f (quote (("debug-screenshot"))))))
+

@@ -1,0 +1,28 @@
+(define-module (crates-io le pt leptos_tea) #:use-module (crates-io))
+
+(define-public crate-leptos_tea-0.1.0 (c (n "leptos_tea") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "1bhpcz8gamfq8m5v5kvxdr7gp25b1lhkmbxak5cfg4fi5wdmhh11")))
+
+(define-public crate-leptos_tea-0.1.1 (c (n "leptos_tea") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.1.1") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "1ls3z78sw4slxxsw0g0xij6h6vxw9z19fbxrm7jby5vqkpqmaqyw")))
+
+(define-public crate-leptos_tea-0.2.0 (c (n "leptos_tea") (v "0.2.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.2") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0dqa43pbhc0wwvg6nx2pq1wjd2pa6wdgbisb0q6z1d5294g6hrg6") (f (quote (("stable"))))))
+
+(define-public crate-leptos_tea-0.2.1 (c (n "leptos_tea") (v "0.2.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.2") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.2.1") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0kifnrlqik2gjsm7byrjh38ib60ddicsk1vrgfn2l7lc0ids3n3h") (f (quote (("stable"))))))
+
+(define-public crate-leptos_tea-0.2.2 (c (n "leptos_tea") (v "0.2.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.2") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.2.2") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0d1qgsb3di4694is8iksnim81cs4il3k0hypc5qzy7v2wgqv6f4c") (f (quote (("stable")))) (y #t)))
+
+(define-public crate-leptos_tea-0.2.3 (c (n "leptos_tea") (v "0.2.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.2") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.2.3") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0s62blrqw4m1bvgjn05dlhf990gbdqnim7k75c5r4lai4n8jhgi1") (f (quote (("stable"))))))
+
+(define-public crate-leptos_tea-0.3.0 (c (n "leptos_tea") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 2)) (d (n "leptos_tea_macros") (r "^0.3.0") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "1ss3jb862ykfzhvdmhn9ms3b00hmb1innr1n7gms8q8xddg86zk9") (f (quote (("stable"))))))
+
+(define-public crate-leptos_tea-0.4.0 (c (n "leptos_tea") (v "0.4.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.2") (d #t) (k 2)) (d (n "leptos_tea_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "1bxm163ncq1kcz860ip5k8nqfx0byqhvkvnslifrvn12r3bfvr16") (f (quote (("stable" "leptos/stable"))))))
+
+(define-public crate-leptos_tea-0.5.0 (c (n "leptos_tea") (v "0.5.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.3") (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.3") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.5.0") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "0qsckm5ril7i0dc8n337nsbaijs3gr6dlfz0ccddk9fi86smh3rb") (f (quote (("stable" "leptos/stable")))) (y #t)))
+
+(define-public crate-leptos_tea-0.5.1 (c (n "leptos_tea") (v "0.5.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.3") (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.3") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.5") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "08jdg8q7ccpmmhfp196bzi25w2kvv3zg7q4d6riyg2j00la014gx") (f (quote (("stable" "leptos/stable")))) (y #t)))
+
+(define-public crate-leptos_tea-0.5.2 (c (n "leptos_tea") (v "0.5.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.4") (f (quote ("nightly"))) (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.4") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.5") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "0jqdyns0kkdlcbj24cmacrgxza9sd543a6p2amh4vil2y731nskw") (f (quote (("nightly" "leptos_reactive/nightly"))))))
+
+(define-public crate-leptos_tea-0.6.0-beta.1 (c (n "leptos_tea") (v "0.6.0-beta.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.5.0-beta") (f (quote ("nightly"))) (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.5.0-beta") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.6.0-beta.1") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "10csqizmcqjr1yjdyra4pkb5pnn0jv6swj1xzx5422za2qxjx6qn") (f (quote (("nightly" "leptos_reactive/nightly"))))))
+
+(define-public crate-leptos_tea-0.6.0-rc1 (c (n "leptos_tea") (v "0.6.0-rc1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.5.0-rc1") (f (quote ("nightly"))) (d #t) (k 2)) (d (n "leptos_reactive") (r "^0.5.0-beta") (d #t) (k 0)) (d (n "leptos_tea_macros") (r "^0.6.0-rc1") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)))) (h "1x4hia92pqv1sfp76dnkx8zyjy8k8ridzbz8fd26z4nbhh0bv12s") (f (quote (("nightly" "leptos_reactive/nightly"))))))
+

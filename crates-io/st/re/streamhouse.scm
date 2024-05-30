@@ -1,0 +1,4 @@
+(define-module (crates-io st re streamhouse) #:use-module (crates-io))
+
+(define-public crate-streamhouse-0.0.1 (c (n "streamhouse") (v "0.0.1") (d (list (d (n "clickhouse") (r "^0.11.3") (f (quote ("test-util" "lz4"))) (d #t) (k 2)) (d (n "function_name") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("client" "http2" "http1" "tcp" "stream"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0.147") (f (quote ("rc" "derive"))) (d #t) (k 2)) (d (n "streamhouse-derive") (r "^0.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 2)))) (h "06p6glfqgsqcdfigpl507b3q58cm7kw1c25cg18mwr27awvz1jvw")))
+

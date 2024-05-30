@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-authorship) #:use-module (crates-io))
+
+(define-public crate-noble-authorship-2.0.1 (c (n "noble-authorship") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "impl-trait-for-tuples") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 2)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 2)) (d (n "tet-io") (r "^2.0.2") (d #t) (k 2)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-authorship") (r "^2.0.2") (k 0)) (d (n "tp-inherents") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "0nw6w79plzkyygblzjmkwxbfxawg5mds03qklgr63li385zj0sqd") (f (quote (("std" "codec/std" "tp-inherents/std" "tp-runtime/std" "tetcore-std/std" "fabric-support/std" "fabric-system/std" "tp-authorship/std") ("default" "std"))))))
+

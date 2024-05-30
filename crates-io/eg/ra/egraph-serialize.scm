@@ -1,0 +1,4 @@
+(define-module (crates-io eg ra egraph-serialize) #:use-module (crates-io))
+
+(define-public crate-egraph-serialize-0.1.0 (c (n "egraph-serialize") (v "0.1.0") (d (list (d (n "glob") (r "^0.3.1") (d #t) (k 2)) (d (n "graphviz-rust") (r "^0.6.2") (o #t) (d #t) (k 0)) (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "ordered-float") (r "^3.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive" "alloc" "rc"))) (o #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (f (quote ("preserve_order"))) (o #t) (d #t) (k 0)))) (h "00z7rjzkgc4xn2q3xi1y1qn0lg1b269gac32mqbgr744hgrm04d4") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json" "indexmap/serde" "ordered-float/serde") ("graphviz" "dep:graphviz-rust"))))))
+

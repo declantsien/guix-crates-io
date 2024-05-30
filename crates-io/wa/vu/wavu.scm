@@ -1,0 +1,4 @@
+(define-module (crates-io wa vu wavu) #:use-module (crates-io))
+
+(define-public crate-wavu-0.1.0 (c (n "wavu") (v "0.1.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.26") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.5") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.178") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "sysinfo") (r "^0.29.6") (d #t) (k 0)) (d (n "tar") (r "^0.4.39") (d #t) (k 0)) (d (n "xz2") (r "^0.1.7") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "0szagcb9kiynxglv8hwg0k1fr9vwg26hscdw6r45ya94wkb3y80d")))
+

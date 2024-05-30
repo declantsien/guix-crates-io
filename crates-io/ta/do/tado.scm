@@ -1,0 +1,8 @@
+(define-module (crates-io ta do tado) #:use-module (crates-io))
+
+(define-public crate-tado-0.1.0 (c (n "tado") (v "0.1.0") (h "1zzj7izy8y22rlxkzq951b28hs6lvwh6325ndkk9aqp15ba0sca2")))
+
+(define-public crate-tado-1.0.0 (c (n "tado") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8.6") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "oauth2") (r "^4.4.2") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1p61ii3ay13mzqarzmz7avivvywz7ghlxrhvrvchjnvd78s4sbbg") (s 2) (e (quote (("chrono" "dep:chrono" "dep:chrono-tz"))))))
+
+(define-public crate-tado-1.1.0 (c (n "tado") (v "1.1.0") (d (list (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8.6") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "oauth2") (r "^4.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1h7bjhvgnwadrqfy06sjzqb2bzmaj6wpw29hsby75spkvx0g8012") (s 2) (e (quote (("chrono" "dep:chrono" "dep:chrono-tz"))))))
+

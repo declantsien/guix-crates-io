@@ -1,0 +1,8 @@
+(define-module (crates-io ti me timedmap) #:use-module (crates-io))
+
+(define-public crate-timedmap-1.0.0 (c (n "timedmap") (v "1.0.0") (d (list (d (n "actix-rt") (r "^2.8.0") (o #t) (d #t) (k 0)) (d (n "actix-rt") (r "^2.8.0") (d #t) (k 2)) (d (n "mock_instant") (r "^0.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.28.1") (f (quote ("rt" "time"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("test-util" "rt" "time" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "01hxjrj3c1kk90gpbnafxh8rpjzxwv3zm2ja3d01nbr5figyjvsk") (f (quote (("default"))))))
+
+(define-public crate-timedmap-1.0.1 (c (n "timedmap") (v "1.0.1") (d (list (d (n "actix-rt") (r "^2.8.0") (o #t) (d #t) (k 0)) (d (n "actix-rt") (r "^2.8.0") (d #t) (k 2)) (d (n "mock_instant") (r "^0.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.28.1") (f (quote ("rt" "time"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("test-util" "rt" "time" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1zgy1f9gq5y2siiqcfjlqp4jidl5cclzfspnc9mdadmw3256qpw2") (f (quote (("default"))))))
+
+(define-public crate-timedmap-1.0.2 (c (n "timedmap") (v "1.0.2") (d (list (d (n "actix-rt") (r "^2.8.0") (o #t) (d #t) (k 0)) (d (n "actix-rt") (r "^2.8.0") (d #t) (k 2)) (d (n "mock_instant") (r "^0.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.28.1") (f (quote ("rt" "time"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("test-util" "rt" "time" "macros"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0y7p9pr76k3xkj916xgf33l2j6lqvhzjlidxh20l5la9c5rk1i0c") (f (quote (("default"))))))
+

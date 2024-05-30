@@ -1,0 +1,16 @@
+(define-module (crates-io c3 p0 c3p0_pool_mysql) #:use-module (crates-io))
+
+(define-public crate-c3p0_pool_mysql-0.8.0 (c (n "c3p0_pool_mysql") (v "0.8.0") (d (list (d (n "c3p0_common") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)))) (h "0cvfyvpk76ywqn81gi9qvq0fb1zifc7cm32wi7baqk27b66qwcws")))
+
+(define-public crate-c3p0_pool_mysql-0.8.2 (c (n "c3p0_pool_mysql") (v "0.8.2") (d (list (d (n "c3p0_common") (r "^0.8.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)))) (h "1iyfjjj3m4qb5r9fz46h83lwfzz7kfir8kafgy6siiwjla6500yw")))
+
+(define-public crate-c3p0_pool_mysql-0.9.0 (c (n "c3p0_pool_mysql") (v "0.9.0") (d (list (d (n "c3p0_common") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0pbplr7ib7fa7p15sv44gcgy9amszazjmzq3ri6i21mljxmc26ia")))
+
+(define-public crate-c3p0_pool_mysql-0.9.1 (c (n "c3p0_pool_mysql") (v "0.9.1") (d (list (d (n "c3p0_common") (r "^0.9.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1s71n34gqdw8pj43ixb7n9p5inqinsxa430db4nriyznqcpd7379")))
+
+(define-public crate-c3p0_pool_mysql-0.10.0 (c (n "c3p0_pool_mysql") (v "0.10.0") (d (list (d (n "c3p0_common") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0qlzpa9jrrpf6v76lbwqlkznx8bz7m0rsm1qwv15w1r52c1s2ljp")))
+
+(define-public crate-c3p0_pool_mysql-0.10.1 (c (n "c3p0_pool_mysql") (v "0.10.1") (d (list (d (n "c3p0_common") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "0f00h98xr3g4bw8ram951g3454b4zgca1piqkr9cqsn5a3zd505b")))
+
+(define-public crate-c3p0_pool_mysql-0.11.0 (c (n "c3p0_pool_mysql") (v "0.11.0") (d (list (d (n "c3p0_common") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mysql_client") (r "^16") (d #t) (k 0) (p "mysql")) (d (n "r2d2") (r "^0.8") (d #t) (k 0)) (d (n "r2d2_mysql") (r "^16.0") (d #t) (k 0)) (d (n "rental") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "100489yg1zr27jsn5lqzyif0mxw0jjixnbjr3rg2hlxlnnqhf6kv")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io mi di midibase) #:use-module (crates-io))
+
+(define-public crate-midibase-0.1.0 (c (n "midibase") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "midir") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "websocket") (r "^0.26") (d #t) (k 0)))) (h "1vf55zj3cbf96msqgk40apj0fhhlrccxqf5vil300irvcxsqf23k")))
+
+(define-public crate-midibase-0.2.0 (c (n "midibase") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "midir") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "websocket") (r "^0.26") (d #t) (k 0)))) (h "09iln9g4w6scsz1ninxjnlicdkar7ldxhw9g2lhi6k6hcgidp0ml")))
+
+(define-public crate-midibase-0.3.0 (c (n "midibase") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "midir") (r "^0.6") (d #t) (k 0)) (d (n "rodio") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "websocket") (r "^0.26") (d #t) (k 0)))) (h "0cicjgydfrdgn7kz6ky9zb0y650hqsbzkkk6sc50sf80b6yxkyzl")))
+

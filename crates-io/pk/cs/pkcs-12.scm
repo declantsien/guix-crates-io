@@ -1,0 +1,6 @@
+(define-module (crates-io pk cs pkcs-12) #:use-module (crates-io))
+
+(define-public crate-pkcs-12-0.3.0 (c (n "pkcs-12") (v "0.3.0") (d (list (d (n "block-modes") (r "^0.8.0") (d #t) (k 0)) (d (n "des") (r "^0.7.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.1") (d #t) (k 2)) (d (n "hmac") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rc2") (r "^0.7.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.1") (d #t) (k 0)) (d (n "yasna") (r "^0.4.0") (d #t) (k 0)))) (h "0bkzral2nsdi2p4yjcg57yx42k8cdh69hw1z5g4fk8nbn05hyv3f")))
+
+(define-public crate-pkcs-12-0.3.1 (c (n "pkcs-12") (v "0.3.1") (d (list (d (n "block-modes") (r "^0.8.0") (d #t) (k 0)) (d (n "des") (r "^0.7.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.1") (d #t) (k 2)) (d (n "hmac") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rc2") (r "^0.7.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.9.1") (d #t) (k 0)) (d (n "yasna") (r "^0.4.0") (f (quote ("std"))) (d #t) (k 0)))) (h "1zzmivs1zzg6zmkwx13vxqbk22c5gx5cn61imjagclrm87pfaib3")))
+

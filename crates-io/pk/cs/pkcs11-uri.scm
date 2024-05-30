@@ -1,0 +1,10 @@
+(define-module (crates-io pk cs pkcs11-uri) #:use-module (crates-io))
+
+(define-public crate-pkcs11-uri-0.1.0 (c (n "pkcs11-uri") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "pkcs11") (r "^0.5.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 2)) (d (n "uriparse") (r "^0.6.3") (d #t) (k 0)))) (h "0iz03rrgzwkllp3y11ngv41777079429pb85ci84m61qjvq46isz")))
+
+(define-public crate-pkcs11-uri-0.1.1 (c (n "pkcs11-uri") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "pkcs11") (r "^0.5.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 2)) (d (n "uriparse") (r "^0.6.3") (d #t) (k 0)))) (h "1xjizj85r7qf7a7f2wa2fw5v9899binnk0sgvv3w0di5ayzf1b9k")))
+
+(define-public crate-pkcs11-uri-0.1.2 (c (n "pkcs11-uri") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 2)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "pkcs11") (r "^0.5.0") (d #t) (k 0)) (d (n "rsa") (r "^0.3.0") (d #t) (k 2)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "sha2") (r "^0.9.2") (d #t) (k 2)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 2)) (d (n "uriparse") (r "^0.6.3") (d #t) (k 0)))) (h "0cpgrvlmw603rf72bnhsdvs8rf19a14kz87s4xwc7zmdwhcnhlm9")))
+
+(define-public crate-pkcs11-uri-0.1.3 (c (n "pkcs11-uri") (v "0.1.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "delog") (r "^0.1.0-alpha.3") (d #t) (k 2)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "pkcs11") (r "^0.5.0") (d #t) (k 0)) (d (n "rsa") (r "^0.3.0") (d #t) (k 2)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "sha2") (r "^0.9.2") (d #t) (k 2)) (d (n "simplelog") (r "^0.9.0") (d #t) (k 2)) (d (n "uriparse") (r "^0.6.4") (d #t) (k 0)))) (h "0nkl6l0r70cfdm1grlkwlk2g5s1sg6n80ris905np6rjmswqnvdr")))
+

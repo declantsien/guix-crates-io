@@ -1,0 +1,4 @@
+(define-module (crates-io so nm sonm) #:use-module (crates-io))
+
+(define-public crate-sonm-0.1.0 (c (n "sonm") (v "0.1.0") (d (list (d (n "actix") (r "^0.7") (d #t) (k 0)) (d (n "actix-web") (r "^0.7") (d #t) (k 0)) (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "ethereum-types") (r "^0.3") (d #t) (k 0)) (d (n "futures-await") (r "^0.1") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "rustc-hex") (r "^1.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tiny-keccak") (r "^1") (d #t) (k 0)))) (h "01fchcqflq504psjhx1jk0c0qlvaibgy1ay3vcvqa6849f4ag8wm")))
+

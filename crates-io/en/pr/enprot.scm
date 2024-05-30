@@ -1,0 +1,4 @@
+(define-module (crates-io en pr enprot) #:use-module (crates-io))
+
+(define-public crate-enprot-0.3.1 (c (n "enprot") (v "0.3.1") (d (list (d (n "aes") (r "^0.3.2") (d #t) (k 0)) (d (n "aes-gcm-siv") (r "^0.3.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^0.11") (d #t) (k 2)) (d (n "block-cipher-trait") (r "^0.6.2") (d #t) (k 0)) (d (n "botan") (r "^0.6.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 2)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "num") (r "^0.2.0") (d #t) (k 0)) (d (n "phc") (r "^0.2.0") (d #t) (k 0)) (d (n "phf") (r "^0.8.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "predicates") (r "^1.0") (d #t) (k 2)) (d (n "rpassword") (r "^2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "0fid1a6shmiba6z6s9qpd2hdrrs0plbwqr9yrzcprm87dyc5x2q3")))
+

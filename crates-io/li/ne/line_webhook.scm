@@ -1,0 +1,6 @@
+(define-module (crates-io li ne line_webhook) #:use-module (crates-io))
+
+(define-public crate-line_webhook-1.0.0 (c (n "line_webhook") (v "1.0.0") (d (list (d (n "base64") (r "~0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "~0.2") (d #t) (k 0)) (d (n "hyper") (r "~0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "~0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1grr2c38r2dvl8lqg62cx1gvg7n21bmmp9knhz0czdf4h41hspa8")))
+
+(define-public crate-line_webhook-1.0.1 (c (n "line_webhook") (v "1.0.1") (d (list (d (n "base64") (r "~0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "~0.2") (d #t) (k 0)) (d (n "hyper") (r "~0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-tls") (r "~0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "09jkmmhwalgbhx6x7bhnqkznnayqfpdjx2ndg8gnv5vcv2d2cb86")))
+

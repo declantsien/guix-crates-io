@@ -1,0 +1,16 @@
+(define-module (crates-io ka s- kas-resvg) #:use-module (crates-io))
+
+(define-public crate-kas-resvg-0.10.0 (c (n "kas-resvg") (v "0.10.0") (d (list (d (n "kas") (r "^0.10.0") (d #t) (k 0) (p "kas-core")) (d (n "resvg") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "tiny-skia") (r "^0.6.1") (d #t) (k 0)) (d (n "usvg") (r "^0.16.0") (o #t) (d #t) (k 0)))) (h "0lzr8py1qmydj21mvvhmpq9kqdad9g2mcdjrvjd2yrdp889hrbqd") (f (quote (("svg" "resvg" "usvg") ("canvas"))))))
+
+(define-public crate-kas-resvg-0.11.0 (c (n "kas-resvg") (v "0.11.0") (d (list (d (n "kas") (r "^0.11.0") (d #t) (k 0) (p "kas-core")) (d (n "resvg") (r "^0.23.0") (o #t) (d #t) (k 0)) (d (n "tiny-skia") (r "^0.6.1") (d #t) (k 0)) (d (n "usvg") (r "^0.23.0") (o #t) (d #t) (k 0)))) (h "00b28sl21i20bqmwmb9yg72wxyzklip09ww09qcxaga9ddvh51qm") (s 2) (e (quote (("svg" "dep:resvg" "dep:usvg"))))))
+
+(define-public crate-kas-resvg-0.12.0 (c (n "kas-resvg") (v "0.12.0") (d (list (d (n "kas") (r "^0.12.0") (d #t) (k 0) (p "kas-core")) (d (n "resvg") (r "^0.28.0") (o #t) (d #t) (k 0)) (d (n "tiny-skia") (r "^0.8.2") (d #t) (k 0)) (d (n "usvg") (r "^0.28.0") (o #t) (d #t) (k 0)))) (h "12xamzhapjjf23p3mnmbqi0x4i1yas0c23cwcl33xvhl7dzbwi6z") (s 2) (e (quote (("svg" "dep:resvg" "dep:usvg"))))))
+
+(define-public crate-kas-resvg-0.13.0 (c (n "kas-resvg") (v "0.13.0") (d (list (d (n "kas") (r "^0.13.0") (f (quote ("spawn"))) (d #t) (k 0) (p "kas-core")) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "resvg") (r "^0.29.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.8.2") (d #t) (k 0)) (d (n "usvg") (r "^0.29.0") (o #t) (d #t) (k 0)))) (h "19y8c4qy9w8wmn9qp05gn82a9phmvp8jmahh5xynp2416n7hlp00") (s 2) (e (quote (("svg" "dep:resvg" "dep:usvg"))))))
+
+(define-public crate-kas-resvg-0.14.0-alpha (c (n "kas-resvg") (v "0.14.0-alpha") (d (list (d (n "kas") (r "^0.14.0-alpha") (f (quote ("spawn"))) (d #t) (k 0) (p "kas-core")) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "resvg") (r "^0.35.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.10.0") (d #t) (k 0)) (d (n "usvg") (r "^0.35.0") (o #t) (d #t) (k 0)))) (h "0jay6f6n7zxphclrm3yxiqbsxf62cl0kkisz2v3sjx0qm7a0v8cy") (s 2) (e (quote (("svg" "dep:resvg" "dep:usvg"))))))
+
+(define-public crate-kas-resvg-0.14.1 (c (n "kas-resvg") (v "0.14.1") (d (list (d (n "kas") (r "^0.14.1") (f (quote ("spawn"))) (d #t) (k 0) (p "kas-core")) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.0") (d #t) (k 0)) (d (n "usvg") (r "^0.36.0") (o #t) (d #t) (k 0)))) (h "1llldrmxwz48kkmwbys57kypkfrykwkx2xlnmz73wbb3pi7251c0") (s 2) (e (quote (("svg" "dep:resvg" "dep:usvg"))))))
+
+(define-public crate-kas-resvg-0.14.2 (c (n "kas-resvg") (v "0.14.2") (d (list (d (n "kas") (r "^0.14.1") (f (quote ("spawn"))) (d #t) (k 0) (p "kas-core")) (d (n "once_cell") (r "^1.17.0") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.0") (d #t) (k 0)) (d (n "usvg") (r "^0.36.0") (o #t) (d #t) (k 0)))) (h "01z18l5smcfrwh5h5zlfdw9sxhlfzv21kn46n98yqnyidklqs8wj") (s 2) (e (quote (("svg" "dep:resvg" "dep:usvg"))))))
+

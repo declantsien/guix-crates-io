@@ -1,0 +1,26 @@
+(define-module (crates-io ru st rustque) #:use-module (crates-io))
+
+(define-public crate-rustque-1.0.0 (c (n "rustque") (v "1.0.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "10mar5965yfjakbyj08m4sj4fb678098xgcyvplqg5cjqs717cqy")))
+
+(define-public crate-rustque-1.0.1 (c (n "rustque") (v "1.0.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0zwfjpsq5m2mk1ysdx4l91xxg8lqxn2c69kkyp3qqs4smzz99zq9")))
+
+(define-public crate-rustque-1.0.2 (c (n "rustque") (v "1.0.2") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1brrlknv47011z5cl0njjk6lhknsal2clr444sncgmn08k6k515l")))
+
+(define-public crate-rustque-1.0.3 (c (n "rustque") (v "1.0.3") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "10f6ciakg779fl61is035bxr8wn99m2zmyak8l3087q5qyb0vakj")))
+
+(define-public crate-rustque-1.0.4 (c (n "rustque") (v "1.0.4") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0plldl67cwpcly0njq4fihwg3yw4rhnsgdhinc9ahr08blf9lsqh") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.0.5 (c (n "rustque") (v "1.0.5") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1kijiixm86zh34gi7pv9p17ypnx6h0pxdffmd0d0h9kf6i7spxbv") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.0.6 (c (n "rustque") (v "1.0.6") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0p9h0p1iw6pwmayvggznys3srzmvvdby4li3fs53186jcax4ax7a") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.0.7 (c (n "rustque") (v "1.0.7") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1pzya1vdcwr7rql84py3zl38m41l0fzxr7ikgy62a5mp400bg1rx") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.0.8 (c (n "rustque") (v "1.0.8") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0npq6fybh3dmx4k6fqsf1f693ws5xv1jckq6aahbp1wgn254s47h") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.0.9 (c (n "rustque") (v "1.0.9") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "15mxbraqsjw3bjs3yylfmsgkxa7yrbw7nk4b3gv9hlx5562pzifq") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.1.0 (c (n "rustque") (v "1.1.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "187y8qw6pkpl61mxa4hyjxlbd0cyqajsl88xj74idpy2q41hwl6k") (f (quote (("benchmark"))))))
+
+(define-public crate-rustque-1.1.1 (c (n "rustque") (v "1.1.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "flume") (r "^0.10.9") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "gzb_binary_69") (r "^0.2.2") (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1qy4gff1xkdssjyyjj1wdwa7i4n0ddx9r9nsxsz3m4xsjzlb889a") (f (quote (("benchmark"))))))
+

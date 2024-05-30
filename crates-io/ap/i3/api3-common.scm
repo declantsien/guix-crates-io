@@ -1,0 +1,4 @@
+(define-module (crates-io ap i3 api3-common) #:use-module (crates-io))
+
+(define-public crate-api3-common-0.0.1 (c (n "api3-common") (v "0.0.1") (d (list (d (n "borsh") (r "^0.8.2") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "ethabi") (r "^17.0.0") (d #t) (k 2)) (d (n "ethereum-types") (r "^0.13.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("keccak"))) (d #t) (k 0)) (d (n "uint") (r "^0.9.0") (d #t) (k 0)) (d (n "web3") (r "^0.18.0") (d #t) (k 2)))) (h "13lq3ylfjwdr544pvm6g4mz3i8zzn2m1ipi7lih9qishilanr0rs") (f (quote (("dummy") ("default" "dummy"))))))
+

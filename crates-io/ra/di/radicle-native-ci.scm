@@ -1,0 +1,4 @@
+(define-module (crates-io ra di radicle-native-ci) #:use-module (crates-io))
+
+(define-public crate-radicle-native-ci-0.1.0 (c (n "radicle-native-ci") (v "0.1.0") (d (list (d (n "html-page") (r "^0.1.0") (d #t) (k 0)) (d (n "radicle") (r "^0.9.0") (d #t) (k 0)) (d (n "radicle-ci-broker") (r "^0.1.0") (d #t) (k 0)) (d (n "radicle-git-ext") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "time") (r "^0.3.31") (f (quote ("formatting" "macros"))) (d #t) (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0zinpjckp94sr3pc6f940irbyx9ajplkalidbkf1mp878qh8y29v") (r "1.77.1")))
+

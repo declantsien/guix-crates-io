@@ -1,0 +1,6 @@
+(define-module (crates-io so rt sortpar) #:use-module (crates-io))
+
+(define-public crate-sortpar-0.1.0 (c (n "sortpar") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^0.9") (d #t) (k 2)) (d (n "caseless") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32") (f (quote ("color"))) (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "natord") (r "^1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "slurp") (r "^1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "version-compare") (r "^0.0") (d #t) (k 0)))) (h "0nh3i4ly5x52a8lzmskphci3ak9ll89gcs5abcw7xlfx0v7zs9qg")))
+
+(define-public crate-sortpar-0.1.1 (c (n "sortpar") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^0.9") (d #t) (k 2)) (d (n "caseless") (r "^0.2") (d #t) (k 0)) (d (n "clap") (r "^2.32") (f (quote ("color"))) (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "natord") (r "^1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "slurp") (r "^1.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "version-compare") (r "^0.0") (d #t) (k 0)))) (h "1392qfzpvxa4200lxny7cyyxq05s4rj0s6536hspwhl4d98c6pl2")))
+

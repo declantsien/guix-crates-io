@@ -1,0 +1,6 @@
+(define-module (crates-io om ni omni-sys) #:use-module (crates-io))
+
+(define-public crate-omni-sys-0.1.0 (c (n "omni-sys") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "autocxx") (r "^0.26") (d #t) (k 0)) (d (n "autocxx-build") (r "^0.26") (d #t) (k 1)) (d (n "cxx") (r "^1.0") (d #t) (k 0)) (d (n "miette") (r "^5") (f (quote ("fancy"))) (d #t) (k 1)) (d (n "regex") (r "^1.10") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0q994vsv7sml5asp5ak4i8r4a53ndhmzm2w4iw9gqda82qg6l7mr")))
+
+(define-public crate-omni-sys-0.1.1 (c (n "omni-sys") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "autocxx") (r "^0.26") (d #t) (k 0)) (d (n "autocxx-build") (r "^0.26") (d #t) (k 1)) (d (n "cxx") (r "^1.0") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "miette") (r "^5") (f (quote ("fancy"))) (d #t) (k 1)) (d (n "regex") (r "^1.10") (d #t) (k 1)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0b2cprpjskhbq892lrm2a135vmda8ziwypnpjv5yi9f7hcx9f9zb") (l "omnicore")))
+

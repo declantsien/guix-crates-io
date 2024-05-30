@@ -1,0 +1,4 @@
+(define-module (crates-io ca pt captain) #:use-module (crates-io))
+
+(define-public crate-captain-0.1.0-alpha.0 (c (n "captain") (v "0.1.0-alpha.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.9.2") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1.9.3") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.7.1") (d #t) (k 0)) (d (n "strum") (r "^0.21.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.21") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)))) (h "15c4a27sf3xmz242zmqy1b978a9imgdfsimhm20sr6qf4svry06a")))
+

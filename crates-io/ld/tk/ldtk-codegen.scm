@@ -1,0 +1,6 @@
+(define-module (crates-io ld tk ldtk-codegen) #:use-module (crates-io))
+
+(define-public crate-ldtk-codegen-0.1.0 (c (n "ldtk-codegen") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "codegen") (r "^0.2.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.178") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "0l901yjzmml126sa56dws80mnpfv1j93xz1wwkqks1lprmpzkpin")))
+
+(define-public crate-ldtk-codegen-0.1.1 (c (n "ldtk-codegen") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "codegen") (r "^0.2.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.178") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)))) (h "1cl466yrvaln3a78cwzxblfcpbhm5akf0wys5vpahhrby3dirf59")))
+

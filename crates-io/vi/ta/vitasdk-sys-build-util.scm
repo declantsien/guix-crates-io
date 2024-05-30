@@ -1,0 +1,6 @@
+(define-module (crates-io vi ta vitasdk-sys-build-util) #:use-module (crates-io))
+
+(define-public crate-vitasdk-sys-build-util-0.1.0 (c (n "vitasdk-sys-build-util") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "syn") (r "^2.0.32") (f (quote ("parsing" "full" "printing" "visit-mut" "extra-traits"))) (o #t) (k 0)) (d (n "toml") (r "^0.8.0") (f (quote ("parse"))) (k 0)))) (h "0b6xslacgvk5nk6i2sbd86swzad1dx7v0z26v5rb4rmq9hzkjiqi") (s 2) (e (quote (("link-visitor" "dep:syn"))))))
+
+(define-public crate-vitasdk-sys-build-util-0.2.0 (c (n "vitasdk-sys-build-util") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (k 0)) (d (n "quote") (r "^1.0.35") (k 0)) (d (n "serde") (r "^1.0.194") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.30") (d #t) (k 0)) (d (n "syn") (r "^2.0.46") (f (quote ("parsing" "full" "printing" "visit-mut" "extra-traits"))) (k 0)) (d (n "toml") (r "^0.8.8") (f (quote ("parse"))) (k 0)))) (h "1ywf5419w6dadgiqxr9blqvl46s10aqrn19qlwpp1j09s3zwwi25")))
+

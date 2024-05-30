@@ -1,0 +1,12 @@
+(define-module (crates-io uw uh uwuhi) #:use-module (crates-io))
+
+(define-public crate-uwuhi-0.1.0 (c (n "uwuhi") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "if-addrs") (r "^0.7.0") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "smallvec") (r "^1.9.0") (f (quote ("const_new"))) (d #t) (k 0)) (d (n "socket2") (r "^0.4.4") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6.1") (d #t) (k 0)))) (h "1m52qqa185iyx5qkdmcv4yg7wv4bnxq0y4arbbsjg11dpy5b5132")))
+
+(define-public crate-uwuhi-0.2.0 (c (n "uwuhi") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "if-addrs") (r "^0.7.0") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "smallvec") (r "^1.9.0") (f (quote ("const_new"))) (d #t) (k 0)) (d (n "socket2") (r "^0.4.4") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6.1") (d #t) (k 0)))) (h "1g9v42s8wfg96xsf3wipjf50r617c2sckmsmq5svs8i8f4zsnn71")))
+
+(define-public crate-uwuhi-0.3.0 (c (n "uwuhi") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "if-addrs") (r "^0.7.0") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "smallvec") (r "^1.9.0") (f (quote ("const_new"))) (d #t) (k 0)) (d (n "socket2") (r "^0.4.4") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6.1") (d #t) (k 0)))) (h "0xql3b6c63yxw1jghfrzvansalcpa8r9q7mgh8i4w3avxw7f02pb")))
+
+(define-public crate-uwuhi-0.4.0 (c (n "uwuhi") (v "0.4.0") (d (list (d (n "bitflags") (r "^2.3.3") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "expect-test") (r "^1.4.1") (d #t) (k 2)) (d (n "if-addrs") (r "^0.10.1") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "socket2") (r "^0.5.3") (d #t) (k 0)))) (h "1xayjvihf0l4n6wmlpznjcrj0b87fvraa709s7rj0mmjv4dj3bsw")))
+
+(define-public crate-uwuhi-0.4.1 (c (n "uwuhi") (v "0.4.1") (d (list (d (n "bitflags") (r "^2.3.3") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "expect-test") (r "^1.4.1") (d #t) (k 2)) (d (n "if-addrs") (r "^0.10.1") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "socket2") (r "^0.5.3") (d #t) (k 0)))) (h "194y87p9gzvmdc0dgi0ka7ixgz48k2b46m3wq9j6s6rklf6nb5n8")))
+

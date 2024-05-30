@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# j jtm) #:use-module (crates-io))
+
+(define-public crate-jtm-0.0.1 (c (n "jtm") (v "0.0.1") (d (list (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "hmac") (r "^0.7") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)))) (h "1gfd33hm2ggsz72kw1fhd6068smy76c5jhi810s8q879w6n6a2rk")))
+
+(define-public crate-jtm-0.0.2 (c (n "jtm") (v "0.0.2") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.7") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)))) (h "0q69zv58d8wyp5ywnml34byy8krcmqz9kds3gpbbrfjyk2fjb3i6")))
+
+(define-public crate-jtm-0.0.3 (c (n "jtm") (v "0.0.3") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.8") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "08m9inh8izfpzqr18mvmks1mjs84x0x1sq73db9km489fnr0pwaq")))
+
+(define-public crate-jtm-0.1.0 (c (n "jtm") (v "0.1.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.8") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "07j14xswrxw7ci064wd9xp00za2irn6nash1zzlvssm7n8dly466")))
+
+(define-public crate-jtm-0.1.1 (c (n "jtm") (v "0.1.1") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.8") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "0fqhckzzlqbmklh6pp93nrgylfbnxyjp8p5xa3yf08c642s1s18g")))
+
+(define-public crate-jtm-0.1.2 (c (n "jtm") (v "0.1.2") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.8") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "17zlv13nhlg27ky49hgypzm1gspniffivrwsjczhxbvznyi6sbbq")))
+
+(define-public crate-jtm-0.1.3 (c (n "jtm") (v "0.1.3") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "hmac") (r "^0.8") (d #t) (k 0)) (d (n "num-bigint-dig") (r "^0.6") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)))) (h "1dd7a7s4p7jd583rhqb69m3qxabbd1myfvj1d9iphbp7g3rq43q0")))
+

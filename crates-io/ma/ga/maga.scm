@@ -1,0 +1,12 @@
+(define-module (crates-io ma ga maga) #:use-module (crates-io))
+
+(define-public crate-maga-0.1.0 (c (n "maga") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "0msncjx1sx6zmvw5mfibwf0w5nx7cwm39px4g199mklqhggbhxig")))
+
+(define-public crate-maga-0.1.1 (c (n "maga") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "clap") (r "^3.1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "minivec") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "112lz8sczyyk30mrgfsbgm4n7vzyis7p9ib7nbrqgb9yx00hzvgc")))
+
+(define-public crate-maga-0.1.2 (c (n "maga") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "clap") (r "^3.1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "minivec") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "0b4fx3aa0qvh3581b9vsqkxizaspi7cb1f2403c0hdghjzam5lv8")))
+
+(define-public crate-maga-0.2.0 (c (n "maga") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "clap") (r "^3.1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "minivec") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rocket") (r "^0.4.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "0wixxz80hcq4jdpywbancgvcb686w55j2qif8vs49csfdcg8wxyw")))
+
+(define-public crate-maga-0.3.0 (c (n "maga") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "clap") (r "^3.1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dioxus") (r "^0.1.8") (f (quote ("desktop"))) (d #t) (k 0)) (d (n "minivec") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rocket") (r "^0.4.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "1nx5ypzsmdb0vknbdgld31xfwhrysgm775m304cqz4hsc4vlahjv")))
+

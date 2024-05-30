@@ -1,0 +1,10 @@
+(define-module (crates-io de ta detached-jws) #:use-module (crates-io))
+
+(define-public crate-detached-jws-0.1.0 (c (n "detached-jws") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "openssl") (r "^0.10.32") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)))) (h "12dil3vkk0v92qmblzlm2s5myvc5rvji9h4i58dzswq2knhmx4ab")))
+
+(define-public crate-detached-jws-0.1.1 (c (n "detached-jws") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "openssl") (r "^0.10.32") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)))) (h "1xw4yfqaqc27pmyhh86r8mlxakgls4vyan7dhm7hfcfwhrg3yizc")))
+
+(define-public crate-detached-jws-0.2.0 (c (n "detached-jws") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "openssl") (r "^0.10.32") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)))) (h "07w8v9z9vj8jf9iidvm5izxsd96md5hlhldghr2wawszyq7d8914")))
+
+(define-public crate-detached-jws-0.2.1 (c (n "detached-jws") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "openssl") (r "^0.10.32") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)))) (h "0679d5flfn2yi5zjckwl70ypiqqk9pbcp0413w3r63a0kjj9wk7l")))
+

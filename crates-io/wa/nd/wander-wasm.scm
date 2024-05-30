@@ -1,0 +1,10 @@
+(define-module (crates-io wa nd wander-wasm) #:use-module (crates-io))
+
+(define-public crate-wander-wasm-0.1.0 (c (n "wander-wasm") (v "0.1.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.4") (d #t) (k 0)) (d (n "wander") (r "^0.2.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.34") (d #t) (k 2)))) (h "1s9qzxj9qr0xmc852aw3mk6did8jif56zszlkh2wc2y8zds66qx2") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-wander-wasm-0.3.0 (c (n "wander-wasm") (v "0.3.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.4") (d #t) (k 0)) (d (n "wander") (r "^0.3.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.34") (d #t) (k 2)))) (h "1qdvakx2ys0awwa0nvwpmxggjsmji7w30apvf87hv0xvlcqjv97x") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-wander-wasm-0.4.0 (c (n "wander-wasm") (v "0.4.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.4") (d #t) (k 0)) (d (n "wander") (r "^0.4.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.34") (d #t) (k 2)))) (h "0kgq8lf6qqashvjxsa5vj6gzabryqiq9kdkxrsri44ln3r24q9v6") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-wander-wasm-0.5.0 (c (n "wander-wasm") (v "0.5.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.4") (d #t) (k 0)) (d (n "wander") (r "^0.5.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.34") (d #t) (k 2)))) (h "1n8iln0xmyz3g6v8v6x0722d99k8f5j627z884qmws0cvshjxsrx") (f (quote (("default" "console_error_panic_hook"))))))
+

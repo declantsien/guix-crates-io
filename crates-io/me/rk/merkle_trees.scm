@@ -1,0 +1,4 @@
+(define-module (crates-io me rk merkle_trees) #:use-module (crates-io))
+
+(define-public crate-merkle_trees-0.1.0 (c (n "merkle_trees") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5.1") (d #t) (k 0)) (d (n "blake2") (r "^0.8") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "generic-array") (r "^0.13.2") (d #t) (k 0)) (d (n "mimc-rs") (r "^0.0.2") (d #t) (k 2)) (d (n "num-bigint") (r "^0.2.3") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.10") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rlp") (r "^0.4.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)) (d (n "sha3") (r "^0.8") (d #t) (k 0)) (d (n "sled") (r "^0.29") (d #t) (k 2)) (d (n "unqlite") (r "^1.4.3") (d #t) (k 2)))) (h "1bd0s92y7v1c63fficifaghngny53i894mdry29hf7zd98n6in6d")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io li ce lice) #:use-module (crates-io))
+
+(define-public crate-lice-0.0.1 (c (n "lice") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)))) (h "0saf36nw2zdpl2rz31lpfg81vrda5f7y3xq8kjgzfm1wm7p0fzx9") (r "1.72")))
+
+(define-public crate-lice-0.0.2 (c (n "lice") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "09rblpazzxxaxswpkr4dxir3f53mhmqyhhpw7kp4mnh0z3db01ms") (r "1.72")))
+
+(define-public crate-lice-0.1.0 (c (n "lice") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "strsim") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1lj6hz6gk0is2zihc08ijyjmi0a1z18dcw7jy56lbla8vpndi1a0") (r "1.72")))
+
+(define-public crate-lice-0.1.1 (c (n "lice") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "merge") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "strsim") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0f7f6d11n282ch4ly7jcgaqy1hr4hawg8v7wq5gnpw10jjhpyjnd") (r "1.72")))
+
+(define-public crate-lice-0.1.2 (c (n "lice") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "merge") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "strsim") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0qq479gk5n717zyxvghbgx4r2q7qd79712vanpdhhw230vvsbzfj") (r "1.72")))
+
+(define-public crate-lice-0.1.3 (c (n "lice") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "merge") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "strsim") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1fxjhn4vwr9lz7fymz0rrahy27rfabl22fyzysc2b98w9ajrq4r4") (r "1.65")))
+
+(define-public crate-lice-0.1.4 (c (n "lice") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "merge") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "strsim") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0vrykan5l2v7wp4wgx3kan5kifyfq52gr9j8lcz7x9glnknj7r3c") (r "1.65")))
+

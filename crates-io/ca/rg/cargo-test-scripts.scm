@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-test-scripts) #:use-module (crates-io))
+
+(define-public crate-cargo-test-scripts-1.0.0 (c (n "cargo-test-scripts") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "gethostname") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde-xml-rs") (r "^0.6") (d #t) (k 0)) (d (n "toml") (r "^0") (f (quote ("parse"))) (k 0)) (d (n "xshell") (r "^0.2") (d #t) (k 0)) (d (n "git2") (r "^0.16") (d #t) (k 2)))) (h "1a30jpcxjpsrsw86xpr190bsf0i4x4aihha5x1xfjzjmmrbxsq3g")))
+
+(define-public crate-cargo-test-scripts-1.0.1 (c (n "cargo-test-scripts") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "gethostname") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde-xml-rs") (r "^0.6") (d #t) (k 0)) (d (n "toml") (r "^0") (f (quote ("parse"))) (k 0)) (d (n "xshell") (r "^0.2") (d #t) (k 0)) (d (n "git2") (r "^0.16") (d #t) (k 2)))) (h "1nsxz2dayp6h4rdpyfivynjncpj27iz5fld90i2vm96cdara5z7p")))
+
+(define-public crate-cargo-test-scripts-1.0.2 (c (n "cargo-test-scripts") (v "1.0.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "gethostname") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde-xml-rs") (r "^0.6") (d #t) (k 0)) (d (n "toml") (r "^0") (f (quote ("parse"))) (k 0)) (d (n "git2") (r "^0.16") (d #t) (k 2)))) (h "0lwqq9ww4gwbda8nibzz767anyhhd1vpbcaqg6wi0blw0xav2zh0")))
+
+(define-public crate-cargo-test-scripts-1.0.3 (c (n "cargo-test-scripts") (v "1.0.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "gethostname") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde-xml-rs") (r "^0.6") (d #t) (k 0)) (d (n "toml") (r "^0") (f (quote ("parse"))) (k 0)) (d (n "git2") (r "^0.16") (d #t) (k 2)))) (h "033zhw914sacfwh5hbvdbab6v4fmcgm2r7pxxplxx937ivm3m7im")))
+

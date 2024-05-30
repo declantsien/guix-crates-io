@@ -1,0 +1,46 @@
+(define-module (crates-io gi tq gitql) #:use-module (crates-io))
+
+(define-public crate-gitql-0.2.0 (c (n "gitql") (v "0.2.0") (d (list (d (n "git2") (r "^0.17.1") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)))) (h "0pg0wyf1chzqdmpnsg7fl1n11fhm39khxzhsk5g9xwqfzlj38pmb")))
+
+(define-public crate-gitql-0.3.0 (c (n "gitql") (v "0.3.0") (d (list (d (n "git2") (r "^0.17.1") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)))) (h "10vbxij4dlnnk821d0ngj4jsib051vn63dhp4p21nd1xm9jz0w7h")))
+
+(define-public crate-gitql-0.4.0 (c (n "gitql") (v "0.4.0") (d (list (d (n "git2") (r "^0.17.1") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)))) (h "156b850364ypwy29r4cqhnz8x6gx8a4qxp6j724qviwxcbs25pfv")))
+
+(define-public crate-gitql-0.4.1 (c (n "gitql") (v "0.4.1") (d (list (d (n "git2") (r "^0.17.1") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "termcolor") (r "^1.2.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)))) (h "0f65f0lgipzzmr6v08x1hyn9mnhpga0gqll5mnyh3wmbjn0qrlj1")))
+
+(define-public crate-gitql-0.5.0 (c (n "gitql") (v "0.5.0") (d (list (d (n "git2") (r "^0.17.1") (k 0)) (d (n "gitql-ast") (r "^0.1.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.3.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.3.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.2.0") (d #t) (k 0)))) (h "07d1rzmsk9vzl3gzrv8fb1dbd32sziw40z5mlmnhfvvisb17x3b3")))
+
+(define-public crate-gitql-0.6.0 (c (n "gitql") (v "0.6.0") (d (list (d (n "git2") (r "^0.17.1") (k 0)) (d (n "gitql-ast") (r "^0.2.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.4.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.4.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.3.0") (d #t) (k 0)))) (h "1bv439kifwczdj7f03ikhqanc5xlkaqzmfw30m4f7a5q0jvhmxhl")))
+
+(define-public crate-gitql-0.7.0 (c (n "gitql") (v "0.7.0") (d (list (d (n "git2") (r "^0.18.0") (k 0)) (d (n "gitql-ast") (r "^0.3.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.5.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.5.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.4.0") (d #t) (k 0)))) (h "077jxjclfwj5zah5p5q9knvg5cbj7ws9bk9blwj7jnyszxdpsa4c")))
+
+(define-public crate-gitql-0.7.1 (c (n "gitql") (v "0.7.1") (d (list (d (n "git2") (r "^0.18.0") (k 0)) (d (n "gitql-ast") (r "^0.4.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.6.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.6.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.5.0") (d #t) (k 0)))) (h "0yh1dizsz0l3x9yvbbbr55pfppi6f2qqf5ak4wcfkiqlf0j8r1ys")))
+
+(define-public crate-gitql-0.7.2 (c (n "gitql") (v "0.7.2") (d (list (d (n "git2") (r "^0.18.1") (k 0)) (d (n "gitql-ast") (r "^0.5.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.7.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.7.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.6.0") (d #t) (k 0)))) (h "0f8ghb6sg67y51mh1dz1a8grysqmyk88lr8iknhb89i2v6j62ph2")))
+
+(define-public crate-gitql-0.8.0 (c (n "gitql") (v "0.8.0") (d (list (d (n "git2") (r "^0.18.1") (k 0)) (d (n "gitql-ast") (r "^0.6.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.8.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.8.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.7.0") (d #t) (k 0)))) (h "1mbyjl2gmws93wwvy5dm82h1b4zzaan17padcq7qkqpdckms04ni")))
+
+(define-public crate-gitql-0.9.0 (c (n "gitql") (v "0.9.0") (d (list (d (n "git2") (r "^0.18.1") (k 0)) (d (n "gitql-ast") (r "^0.7.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.9.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.9.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.8.0") (d #t) (k 0)))) (h "06fxyjsnxqahyg6l1hzrsxahkg60dw6l1kszfzk36kjr7zai8wg0")))
+
+(define-public crate-gitql-0.10.0 (c (n "gitql") (v "0.10.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.8.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.10.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.10.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.9.0") (d #t) (k 0)) (d (n "gix") (r "^0.55.2") (f (quote ("max-performance"))) (k 0)))) (h "063m7g18gdk9nh4qvpqna17308nmbajdras358f15mxc8ng70afq")))
+
+(define-public crate-gitql-0.11.0 (c (n "gitql") (v "0.11.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.9.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.11.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.11.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.10.0") (d #t) (k 0)) (d (n "gix") (r "^0.57.0") (f (quote ("max-performance"))) (k 0)))) (h "1x7zhl1p6069bbv6q768gd3a3g8m4alr8ak88jmnmdliw2m931li")))
+
+(define-public crate-gitql-0.12.0 (c (n "gitql") (v "0.12.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.10.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.12.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.12.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.11.0") (d #t) (k 0)) (d (n "gix") (r "^0.57.0") (f (quote ("max-performance"))) (k 0)))) (h "0vkxfldc8y4k7zckv8mns3v87y0m6pdn50ylbx6hyddafgvjycx3")))
+
+(define-public crate-gitql-0.13.0 (c (n "gitql") (v "0.13.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.11.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.13.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.13.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.12.0") (d #t) (k 0)) (d (n "gix") (r "^0.58.0") (f (quote ("max-performance"))) (k 0)))) (h "0m2vd34qjc6n69n8w9vbq0gmh41b9vzf6jvn5748kiz2kfj2qxhv")))
+
+(define-public crate-gitql-0.14.0 (c (n "gitql") (v "0.14.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.12.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.14.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.14.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.13.0") (d #t) (k 0)) (d (n "gix") (r "^0.58.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1bb0ycy1gmm4s4pb937nismldj2s3129xazr52kd55y33a2dr0hc")))
+
+(define-public crate-gitql-0.15.0 (c (n "gitql") (v "0.15.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.13.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.15.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.15.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.14.0") (d #t) (k 0)) (d (n "gix") (r "^0.58.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "0da619fkv747xlwx9ihck97rd15xckz0sc8848yag0xcc0k1jzsi")))
+
+(define-public crate-gitql-0.16.0 (c (n "gitql") (v "0.16.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.14.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.16.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.16.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.15.0") (d #t) (k 0)) (d (n "gix") (r "^0.60.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1gla592z2hjpxddjd7dp1wbgh8g2mlnkvzbgfxzzcvv0mkgv18l6")))
+
+(define-public crate-gitql-0.17.0 (c (n "gitql") (v "0.17.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.15.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.17.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.17.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.16.0") (d #t) (k 0)) (d (n "gix") (r "^0.61.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "0drw6bl0g7lsjz0ccrgi5b33lwllcghd48bvv40qkqzf9gvi8cbp")))
+
+(define-public crate-gitql-0.18.0 (c (n "gitql") (v "0.18.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.16.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.17.0") (d #t) (k 0)) (d (n "gix") (r "^0.62.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1dqklaww7i7n7yqpbhcvrd23gqny1hzd26686asvyr6l9plza0p7")))
+
+(define-public crate-gitql-0.19.0 (c (n "gitql") (v "0.19.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.17.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.19.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.19.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.18.0") (d #t) (k 0)) (d (n "gix") (r "^0.62.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1lhdxyvm621p55k80l4fzrfb36mpl0z78idnbjvddchn6kfh1865")))
+
+(define-public crate-gitql-0.19.1 (c (n "gitql") (v "0.19.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.17.1") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.19.1") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.19.1") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.18.1") (d #t) (k 0)) (d (n "gix") (r "^0.62.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "12w1ardaw1gr64larzzwddc5ccspxqzn9j1v0gdzcrzyx52njv9g")))
+

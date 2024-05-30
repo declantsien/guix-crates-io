@@ -1,0 +1,4 @@
+(define-module (crates-io id ki idkit) #:use-module (crates-io))
+
+(define-public crate-idkit-0.1.0 (c (n "idkit") (v "0.1.0") (d (list (d (n "alloy-sol-types") (r "^0.6.0") (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "ring") (r "^0.17.7") (d #t) (k 0)) (d (n "ruint") (r "^1.11.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "1yj10l0q2wsqgc905nlmnlh123faz5998rsgd0yr1xlamlm7kgcc")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pl on plonky2_monolith) #:use-module (crates-io))
+
+(define-public crate-plonky2_monolith-0.1.0 (c (n "plonky2_monolith") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "jemallocator") (r "^0.5.0") (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 2)) (d (n "plonky2") (r "^0.1.4") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)) (d (n "tynm") (r "^0.1.8") (d #t) (k 2)) (d (n "unroll") (r "^0.1.5") (d #t) (k 0)))) (h "1zn0vk2amzqar9pfqkfdg31i6qzzyj8aw051pm67sfzc7s4bj4d7") (f (quote (("default-sponge-params") ("default" "default-sponge-params"))))))
+

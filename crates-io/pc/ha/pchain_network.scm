@@ -1,0 +1,4 @@
+(define-module (crates-io pc ha pchain_network) #:use-module (crates-io))
+
+(define-public crate-pchain_network-0.4.3 (c (n "pchain_network") (v "0.4.3") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64url") (r "^0.1.0") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "libp2p") (r "^0.52.1") (f (quote ("dns" "gossipsub" "identify" "ping" "tcp" "kad" "noise" "yamux" "macros" "tokio"))) (d #t) (k 0)) (d (n "libp2p-mplex") (r "^0.40.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pchain-types") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serial_test") (r "^0.5") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "sync" "macros"))) (d #t) (k 0)))) (h "0jhlkx3z076by919gjq4m5shpki6xnx3g1gmzc3dj8vd9v5v3zgj")))
+

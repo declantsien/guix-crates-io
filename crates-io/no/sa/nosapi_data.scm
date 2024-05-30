@@ -1,0 +1,4 @@
+(define-module (crates-io no sa nosapi_data) #:use-module (crates-io))
+
+(define-public crate-nosapi_data-0.1.0 (c (n "nosapi_data") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.30") (f (quote ("serde"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 2)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.7.1") (d #t) (k 2)) (d (n "pelite") (r "^0.10.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.185") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sha1_smol") (r "^1.0.0") (f (quote ("std"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "1vrd7lfab3mw1cygy3lh92k66vh0j6b6iwnnxj7dvry6n8yzd6il") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "serde/derive") ("json_schema" "dep:schemars"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io st ri strif) #:use-module (crates-io))
+
+(define-public crate-strif-0.2.0 (c (n "strif") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "bio") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rust-htslib") (r "^0.43.1") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.4") (d #t) (k 0)))) (h "0kj8dqqhygqxw8h4wwgg0nnaqrajd4dp9gxa69mi2p773nma5zva")))
+
+(define-public crate-strif-0.2.1 (c (n "strif") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "bio") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rust-htslib") (r "^0.43.1") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.4") (d #t) (k 0)))) (h "1l52xjrbzvj7n9jpahbyg105cnr7ap66zni0hdszk4zcik9d5n6c")))
+

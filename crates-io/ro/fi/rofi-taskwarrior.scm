@@ -1,0 +1,10 @@
+(define-module (crates-io ro fi rofi-taskwarrior) #:use-module (crates-io))
+
+(define-public crate-rofi-taskwarrior-0.1.0 (c (n "rofi-taskwarrior") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)))) (h "0k3f7yvfmpi71nkls3z0bk6lpxgfdd40n36waah5lrjph3cq0ybl")))
+
+(define-public crate-rofi-taskwarrior-0.1.1 (c (n "rofi-taskwarrior") (v "0.1.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)))) (h "117awwnxx4v2w4wfjjzal48mm7pb59a8mp847lv5yrkphfhssgcg")))
+
+(define-public crate-rofi-taskwarrior-0.2.0 (c (n "rofi-taskwarrior") (v "0.2.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)))) (h "166053a848fsaffsxall4hk829sj6yznn1621w26nqy7yhn2nfak")))
+
+(define-public crate-rofi-taskwarrior-0.3.0 (c (n "rofi-taskwarrior") (v "0.3.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.10.0") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)) (d (n "tap") (r "^1.0.1") (d #t) (k 0)))) (h "1kjf6vf6wmvjfl1ikrlsjg4zxwbzhrfrn8ip5zf9ry93qq4zwcas")))
+

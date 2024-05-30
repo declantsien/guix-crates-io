@@ -1,0 +1,4 @@
+(define-module (crates-io li bq libquilt) #:use-module (crates-io))
+
+(define-public crate-libquilt-0.1.1 (c (n "libquilt") (v "0.1.1") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "quilt_diff") (r "^0.1.0") (d #t) (k 0)) (d (n "quilt_graph") (r "^0.1.0") (d #t) (k 0)) (d (n "quilt_multimap") (r "^0.1.0") (d #t) (k 0)) (d (n "quilt_partition") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "sha2") (r "^0.7") (d #t) (k 0)))) (h "0mll5x451p9w88af2crq8xf8g903y999gf2rgkjsisqdnvmpvxm8")))
+

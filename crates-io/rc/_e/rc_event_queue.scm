@@ -1,0 +1,18 @@
+(define-module (crates-io rc _e rc_event_queue) #:use-module (crates-io))
+
+(define-public crate-rc_event_queue-0.2.0 (c (n "rc_event_queue") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "loom") (r "^0.5.1") (d #t) (t "cfg(loom)") (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "spin") (r "^0.9.2") (d #t) (k 0)))) (h "115jwygngkhy0k73wmdj83qx3afy90ir2gv0s04sp15gxz83g9hn") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.2.1 (c (n "rc_event_queue") (v "0.2.1") (d (list (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "spin") (r "^0.9.2") (d #t) (k 0)))) (h "1gjdp65qs0p30bm2s1bddnabrlhz71lzq8hk6cwphv1lnqgp55r6") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.2.2 (c (n "rc_event_queue") (v "0.2.2") (d (list (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "spin") (r "^0.9.2") (d #t) (k 0)))) (h "0yjsjnnhhq25l005b1sy6lxpk2xksb0mp694lmq8kv16kip8dhpa") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.3.0 (c (n "rc_event_queue") (v "0.3.0") (d (list (d (n "compiletest_rs") (r "^0.7") (d #t) (k 2)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "spin") (r "^0.9.2") (d #t) (k 0)))) (h "1lmrc4v9sbakrsrv84p7gcbqzxj7f119mlpn7jkar0cizip4jj4b") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.3.1 (c (n "rc_event_queue") (v "0.3.1") (d (list (d (n "compiletest_rs") (r "^0.7") (d #t) (k 2)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (d #t) (k 0)))) (h "00dndwzfszc1ixj2jgrr11nz44xv4l0and5swkqjcl5mcaydrg8i") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.4.0 (c (n "rc_event_queue") (v "0.4.0") (d (list (d (n "compiletest_rs") (r "^0.7") (d #t) (k 2)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (d #t) (k 0)))) (h "1gv43j6mfrqdlf1zxnk4qiq34vqdgabi2wiq20vmmm9x58rz0szp") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.4.1 (c (n "rc_event_queue") (v "0.4.1") (d (list (d (n "compiletest_rs") (r "^0.7") (d #t) (k 2)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "lock_api") (r "^0.4.5") (d #t) (k 0)) (d (n "loom") (r "^0.5.2") (d #t) (t "cfg(loom)") (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (f (quote ("std"))) (d #t) (k 0)))) (h "1f23pfcgasvjl1032ys8iyy38a3n9yk7ygbr6bwf0m19jd254yn1") (f (quote (("double_buffering"))))))
+
+(define-public crate-rc_event_queue-0.4.2 (c (n "rc_event_queue") (v "0.4.2") (d (list (d (n "compiletest_rs") (r "^0.7") (d #t) (k 2)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.1") (d #t) (k 2)) (d (n "lock_api") (r "^0.4.5") (d #t) (k 0)) (d (n "loom") (r "^0.5.2") (d #t) (t "cfg(loom)") (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (f (quote ("std"))) (d #t) (k 0)))) (h "0sr05l4h0wi6mppmbg3qj73625d2drm0ykz4x2759vdajmscfny7") (f (quote (("double_buffering"))))))
+

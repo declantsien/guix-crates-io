@@ -1,0 +1,6 @@
+(define-module (crates-io bt rf btrfsutil) #:use-module (crates-io))
+
+(define-public crate-btrfsutil-0.1.0 (c (n "btrfsutil") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.53") (d #t) (k 1)) (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 1)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "1npanfd7ggnlkbq0w2qai5kkwp6yafgrvbxf4ibhgzv41pd8nl38") (f (quote (("enable-glue-errors") ("default")))) (l "btrfsutil")))
+
+(define-public crate-btrfsutil-0.2.0 (c (n "btrfsutil") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "btrfsutil-sys") (r "^1.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "libc") (r "^0.2.75") (d #t) (k 0)) (d (n "libmount") (r "^0.1.11") (d #t) (k 2)) (d (n "loopdev") (r "^0.4") (d #t) (k 2)) (d (n "nix") (r "^0.18") (d #t) (k 2)) (d (n "tempfile") (r "^3.0.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "1z8gpjywiyf3nf5kbdkqnqa3n1bxppryjhl5prji9nxns4bdfzby") (f (quote (("enable-glue-errors") ("default"))))))
+

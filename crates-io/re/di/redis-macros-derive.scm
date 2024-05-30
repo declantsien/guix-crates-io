@@ -1,0 +1,12 @@
+(define-module (crates-io re di redis-macros-derive) #:use-module (crates-io))
+
+(define-public crate-redis-macros-derive-0.1.0 (c (n "redis-macros-derive") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (d #t) (k 0)))) (h "1vw35ccl01kaq9hair6x1a4g03xldbg3w096jhdzwk6sbjl894rk")))
+
+(define-public crate-redis-macros-derive-0.1.1 (c (n "redis-macros-derive") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "redis") (r "^0.22.2") (f (quote ("tokio-comp" "json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 2)) (d (n "syn") (r "^1.0.107") (d #t) (k 0)))) (h "1vh9c441z47lxji9v1w631xgxgjd5q3k9qpxfrwgikcmv0p383w6")))
+
+(define-public crate-redis-macros-derive-0.2.0 (c (n "redis-macros-derive") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "redis") (r "^0.22.2") (f (quote ("tokio-comp" "json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 2)) (d (n "syn") (r "^1.0.107") (d #t) (k 0)))) (h "1a6zm4f3dnafhr5809rbr2n6m2ay1c1sg6k6yqqvdqavffzn12fx")))
+
+(define-public crate-redis-macros-derive-0.2.1 (c (n "redis-macros-derive") (v "0.2.1") (d (list (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "redis") (r "^0.22.2") (f (quote ("tokio-comp" "json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 2)) (d (n "syn") (r "^1.0.107") (d #t) (k 0)))) (h "17hndwrg0s8xikw20cv0i60sp45fzi7cm42lkhs0lhyfjjg0nm9r")))
+
+(define-public crate-redis-macros-derive-0.3.0 (c (n "redis-macros-derive") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "redis") (r "^0.25") (f (quote ("tokio-comp" "json"))) (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 2)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "1x8pc4cn0dn68k9khgkpbpgkrpaaqspd761ysnxn1qiqgv3ivzld")))
+

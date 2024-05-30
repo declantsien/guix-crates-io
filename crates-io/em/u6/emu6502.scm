@@ -1,0 +1,6 @@
+(define-module (crates-io em u6 emu6502) #:use-module (crates-io))
+
+(define-public crate-emu6502-0.1.0 (c (n "emu6502") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "vm6502") (r "^0.1.0") (d #t) (k 0)))) (h "0rzhlr2lhzk082mpml3l58idzj87yl8nxcscfmlp6hnbrjvx5ah2") (f (quote (("ugly_vm" "vm6502/full_debug_printing") ("super_vm" "vm6502/ops_only" "vm6502/show_fetched" "vm6502/show_vm_instr_tick_match") ("pretty_vm" "vm6502/pretty_printing") ("defaults" "vm6502/pretty_printing") ("debug_vm" "vm6502/debug_printing"))))))
+
+(define-public crate-emu6502-0.1.1 (c (n "emu6502") (v "0.1.1") (d (list (d (n "anima6502") (r ">=0.1.0, <0.2.0") (d #t) (k 0)) (d (n "arrayvec") (r "^0.7.2") (d #t) (k 0)) (d (n "bytes") (r "^1.2.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "vm6502") (r "^0.1.0") (d #t) (k 0)))) (h "1cb1p45baxn6mhkrd77zwxzavcc9gck4cmqhfsc1h650yghpk845") (f (quote (("ugly_vm" "vm6502/full_debug_printing") ("super_vm" "vm6502/ops_only" "vm6502/show_fetched" "vm6502/show_vm_instr_tick_match") ("pretty_vm" "vm6502/pretty_printing") ("defaults" "vm6502/pretty_printing") ("debug_vm" "vm6502/debug_printing"))))))
+

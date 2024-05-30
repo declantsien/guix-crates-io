@@ -1,0 +1,6 @@
+(define-module (crates-io to ki tokio-kinetic) #:use-module (crates-io))
+
+(define-public crate-tokio-kinetic-0.1.0 (c (n "tokio-kinetic") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "kinetic-protobuf") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "protobuf") (r "^1.0.24") (d #t) (k 0)) (d (n "ring") (r "^0.6.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "1kdl2c9jlxjvhdv4brkbyc0cpjmk7s4ca3imbkpn87ly13z5jzn6")))
+
+(define-public crate-tokio-kinetic-0.1.1 (c (n "tokio-kinetic") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "kinetic-protobuf") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "protobuf") (r "^1.0.24") (d #t) (k 0)) (d (n "ring") (r "^0.6.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)))) (h "1f6888q8159yfdi9s8hasb0fkhi8mj3wr7xs2qrj3dq91z8ai2in")))
+

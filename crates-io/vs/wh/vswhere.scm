@@ -1,0 +1,4 @@
+(define-module (crates-io vs wh vswhere) #:use-module (crates-io))
+
+(define-public crate-vswhere-0.1.0 (c (n "vswhere") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "semver") (r "^0.9") (f (quote ("serde"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "serde") (r "^1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "serde_derive") (r "^1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "serde_json") (r "^1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "url") (r "^1") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("combaseapi" "knownfolders" "shlobj" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "05fqph76h1aj8xvzq7jmn1x9z4krj990gmhh24vhp079hqfpv9fj")))
+

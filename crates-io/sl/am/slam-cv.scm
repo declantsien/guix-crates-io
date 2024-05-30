@@ -1,0 +1,10 @@
+(define-module (crates-io sl am slam-cv) #:use-module (crates-io))
+
+(define-public crate-slam-cv-0.1.0 (c (n "slam-cv") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "podo-core-driver") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "simba") (r "^0.1") (d #t) (k 0)))) (h "1829f3k78wc67l14sr71l3qz3d74lzdgj34csvggvyyxzbr5w71n") (f (quote (("podo" "podo-core-driver") ("default" "serde"))))))
+
+(define-public crate-slam-cv-0.1.1 (c (n "slam-cv") (v "0.1.1") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "podo-core-driver") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "simba") (r "^0.1") (d #t) (k 0)))) (h "1gl9lyfzslc8yhxr8ss15k4h5h4j5ipqricayjhv7w7wp2p3p3h2") (f (quote (("podo" "podo-core-driver") ("default" "serde"))))))
+
+(define-public crate-slam-cv-0.1.2 (c (n "slam-cv") (v "0.1.2") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "podo-core-driver") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "simba") (r "^0.1") (d #t) (k 0)))) (h "1pgnwrgs8fsxw4zq317i4azqj66hh5vnv5d3fh4ickdb7dymcj13") (f (quote (("podo" "podo-core-driver") ("default" "serde"))))))
+
+(define-public crate-slam-cv-0.1.3 (c (n "slam-cv") (v "0.1.3") (d (list (d (n "crossbeam") (r "^0.7") (d #t) (k 0)) (d (n "cv-core") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "podo-core-driver") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "simba") (r "^0.1") (d #t) (k 0)))) (h "1c692iln5b63jirli64jpdpnsdff27zm0x229yf4k6xw8vr3pp4b") (f (quote (("podo" "podo-core-driver") ("default" "cv-core" "serde"))))))
+

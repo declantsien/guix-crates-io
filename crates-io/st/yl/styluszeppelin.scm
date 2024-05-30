@@ -1,0 +1,14 @@
+(define-module (crates-io st yl styluszeppelin) #:use-module (crates-io))
+
+(define-public crate-styluszeppelin-0.1.0 (c (n "styluszeppelin") (v "0.1.0") (d (list (d (n "alloy-primitives") (r "^0.3.1") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.3.1") (d #t) (k 0)) (d (n "stylus-proc") (r "^0.4.3") (d #t) (k 0)) (d (n "stylus-sdk") (r "^0.4.3") (f (quote ("docs"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "13fvrbqb62a8ic6p13mvzk1zc6b5j4wvnb6xsah1vk0i9y79jvy8") (f (quote (("export-abi" "stylus-sdk/export-abi"))))))
+
+(define-public crate-styluszeppelin-0.1.1 (c (n "styluszeppelin") (v "0.1.1") (d (list (d (n "alloy-primitives") (r "^0.3.1") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.3.1") (d #t) (k 0)) (d (n "stylus-proc") (r "^0.4.3") (d #t) (k 0)) (d (n "stylus-sdk") (r "^0.4.3") (f (quote ("docs"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "13bsj1ikdd0fwzpdv9v6grnb8jz2hl4inm8487z2x95qqxhx4j6v") (f (quote (("export-abi" "stylus-sdk/export-abi"))))))
+
+(define-public crate-styluszeppelin-0.1.2 (c (n "styluszeppelin") (v "0.1.2") (d (list (d (n "alloy-primitives") (r "^0.3.1") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.3.1") (d #t) (k 0)) (d (n "stylus-proc") (r "^0.4.3") (d #t) (k 0)) (d (n "stylus-sdk") (r "^0.4.3") (f (quote ("docs"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "0sw47g0fafz47qhi9imrg6wpvszanjwhc9qhipaxyfcgpr745w7c") (f (quote (("export-abi" "stylus-sdk/export-abi"))))))
+
+(define-public crate-styluszeppelin-0.1.3 (c (n "styluszeppelin") (v "0.1.3") (d (list (d (n "alloy-primitives") (r "^0.3.1") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.3.1") (d #t) (k 0)) (d (n "stylus-proc") (r "^0.4.3") (d #t) (k 0)) (d (n "stylus-sdk") (r "^0.4.3") (f (quote ("docs"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "01va8p1iq9hrf8mh1lxx7qvxsv0ccaiwbf4iwi2f357zya15byg2") (f (quote (("export-abi" "stylus-sdk/export-abi"))))))
+
+(define-public crate-styluszeppelin-0.1.4 (c (n "styluszeppelin") (v "0.1.4") (d (list (d (n "alloy-primitives") (r "^0.3.1") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.3.1") (d #t) (k 0)) (d (n "stylus-proc") (r "^0.4.3") (d #t) (k 0)) (d (n "stylus-sdk") (r "^0.4.3") (f (quote ("docs"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "1ywah8yyryz41jw4bp816q4p6chrdqc1zsgldxdy3rvafzx16y0m") (f (quote (("export-abi" "stylus-sdk/export-abi"))))))
+
+(define-public crate-styluszeppelin-0.1.5 (c (n "styluszeppelin") (v "0.1.5") (d (list (d (n "alloy-primitives") (r "^0.3.1") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.3.1") (d #t) (k 0)) (d (n "rustlearn") (r "^0.5.0") (d #t) (k 0)) (d (n "stylus-proc") (r "^0.4.3") (d #t) (k 0)) (d (n "stylus-sdk") (r "^0.4.3") (f (quote ("docs"))) (d #t) (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (k 0)))) (h "0bc2ia45d7l1q639j7sp6cl3qj595y09wdi5r0qbw32ahya84v9v") (f (quote (("export-abi" "stylus-sdk/export-abi"))))))
+

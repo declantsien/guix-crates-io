@@ -1,0 +1,6 @@
+(define-module (crates-io at sa atsamv71q21rt) #:use-module (crates-io))
+
+(define-public crate-atsamv71q21rt-0.29.0-alpha2 (c (n "atsamv71q21rt") (v "0.29.0-alpha2") (d (list (d (n "cortex-m") (r "^0.7.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (o #t) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "form") (r "^0.11.0") (d #t) (k 1)) (d (n "regex") (r "^1.10.0") (d #t) (k 1)) (d (n "svd2rust") (r "^0.29.0") (d #t) (k 1)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "0vgz4z0z99dwqr1alf436lh19la7rqz4sh063hi8w08v7xr92bkh") (f (quote (("rt" "cortex-m-rt/device")))) (r "1.70.0")))
+
+(define-public crate-atsamv71q21rt-0.29.0-alpha3 (c (n "atsamv71q21rt") (v "0.29.0-alpha3") (d (list (d (n "cortex-m") (r "^0.7.6") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "form") (r "^0.11.0") (d #t) (k 1)) (d (n "regex") (r "^1.10.0") (d #t) (k 1)) (d (n "svd2rust") (r "^0.29.0") (d #t) (k 1)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "1ggp82sijdlk15c34g4a71wcqvns1qd93zjjh91cqc1kfrw0j4mk") (f (quote (("rt" "cortex-m-rt/device")))) (r "1.70.0")))
+

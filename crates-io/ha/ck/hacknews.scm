@@ -1,0 +1,6 @@
+(define-module (crates-io ha ck hacknews) #:use-module (crates-io))
+
+(define-public crate-hacknews-0.1.0 (c (n "hacknews") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "cursive") (r "^0.16") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "00f1qh942i3mvgyfiv3x7s9i2ynqlcmzr8xddw5yxzs6jij5yqqr")))
+
+(define-public crate-hacknews-0.2.0 (c (n "hacknews") (v "0.2.0") (d (list (d (n "clap") (r "^3.0.0-beta.4") (d #t) (k 0)) (d (n "cursive") (r "^0.16") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "14ifkcr0x917m549chr4lrf1pxvgmgxjyxp59fg5qdhswaj3i0qh")))
+

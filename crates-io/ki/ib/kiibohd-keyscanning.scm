@@ -1,0 +1,12 @@
+(define-module (crates-io ki ib kiibohd-keyscanning) #:use-module (crates-io))
+
+(define-public crate-kiibohd-keyscanning-0.1.0 (c (n "kiibohd-keyscanning") (v "0.1.0") (d (list (d (n "defmt") (r "^0.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.10") (d #t) (k 0)) (d (n "kll-core") (r "^0.1.0") (o #t) (d #t) (k 0)))) (h "1zwvdifa840rlrz6bd1zaaan6fmmmr4jk42a5q6lw291jkhw5rpp") (f (quote (("default")))) (s 2) (e (quote (("kll-core" "dep:kll-core"))))))
+
+(define-public crate-kiibohd-keyscanning-0.1.1 (c (n "kiibohd-keyscanning") (v "0.1.1") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.10") (d #t) (k 0)) (d (n "kll-core") (r "^0.1") (o #t) (d #t) (k 0)))) (h "130b43k46yjfj2daikmw9sddy1hps0ng9ps1dby9jpnsdircy11i") (f (quote (("default")))) (s 2) (e (quote (("kll-core" "dep:kll-core") ("defmt" "dep:defmt" "kll-core?/defmt"))))))
+
+(define-public crate-kiibohd-keyscanning-0.1.2 (c (n "kiibohd-keyscanning") (v "0.1.2") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7.14") (d #t) (k 0)) (d (n "kll-core") (r "^0.1.5") (o #t) (d #t) (k 0)))) (h "075aqgnbh9m4pxgj7a5sigg8xs19828by99zmivbdw9nh9ixiklc") (f (quote (("default")))) (s 2) (e (quote (("kll-core" "dep:kll-core") ("defmt" "dep:defmt" "kll-core?/defmt"))))))
+
+(define-public crate-kiibohd-keyscanning-0.1.3 (c (n "kiibohd-keyscanning") (v "0.1.3") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "kll-core") (r "^0.1.7") (o #t) (d #t) (k 0)))) (h "16q7kcj4qc6p9dvlpymaxg76jp40md00is7l2g5xlvfkiq5xcma8") (f (quote (("default")))) (s 2) (e (quote (("kll-core" "dep:kll-core" "dep:heapless" "defmt") ("defmt" "dep:defmt" "kll-core?/defmt"))))))
+
+(define-public crate-kiibohd-keyscanning-0.1.4 (c (n "kiibohd-keyscanning") (v "0.1.4") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "heapless") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "kll-core") (r "^0.1.8") (o #t) (d #t) (k 0)))) (h "1qnr8q5fsxfgfrq9iwzwxj9g3rklnn6zjz4id34rrz6vmd0gbp16") (f (quote (("default")))) (s 2) (e (quote (("kll-core" "dep:kll-core" "dep:heapless" "defmt") ("defmt" "dep:defmt" "kll-core?/defmt"))))))
+

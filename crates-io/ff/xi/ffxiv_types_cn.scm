@@ -1,0 +1,6 @@
+(define-module (crates-io ff xi ffxiv_types_cn) #:use-module (crates-io))
+
+(define-public crate-ffxiv_types_cn-1.8.0 (c (n "ffxiv_types_cn") (v "1.8.0") (d (list (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)))) (h "0xr1c05r1wngl3dgyvmw9p170dihz9bm7w0p1a6267np13y385qq") (f (quote (("worlds") ("with_serde" "serde" "serde_derive") ("roles") ("races") ("non_combat_jobs") ("jobs" "combat_jobs" "non_combat_jobs" "job_classifications") ("job_classifications") ("guardians") ("default" "jobs" "roles" "data_centers" "worlds" "races" "clans" "guardians" "all_const") ("data_centers") ("combat_jobs") ("clans") ("all_const")))) (y #t)))
+
+(define-public crate-ffxiv_types_cn-1.8.1 (c (n "ffxiv_types_cn") (v "1.8.1") (d (list (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)))) (h "03h7dk7kx9jj5iadxwgqik7544q4ayg999rl6aridhd9lkl42wdm") (f (quote (("worlds") ("with_serde" "serde" "serde_derive") ("roles") ("races") ("non_combat_jobs") ("jobs" "combat_jobs" "non_combat_jobs" "job_classifications") ("job_classifications") ("guardians") ("default" "jobs" "roles" "data_centers" "worlds" "races" "clans" "guardians" "all_const") ("data_centers") ("combat_jobs") ("clans") ("all_const"))))))
+

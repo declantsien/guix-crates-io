@@ -1,0 +1,8 @@
+(define-module (crates-io je ma jemallocator-global) #:use-module (crates-io))
+
+(define-public crate-jemallocator-global-0.3.0 (c (n "jemallocator-global") (v "0.3.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3.0") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"android\", target_os = \"macos\", target_os = \"ios\", target_os = \"freebsd\", target_os = \"netbsd\", target_os = \"openbsd\"))") (k 0)) (d (n "jemallocator") (r "^0.3.0") (o #t) (d #t) (k 0)))) (h "16wnx3ibgk0xcb77q7j7p5ahj56wv0yxzibxw0mb6v97v66mvinw") (f (quote (("force_global_jemalloc" "jemallocator") ("default"))))))
+
+(define-public crate-jemallocator-global-0.3.1 (c (n "jemallocator-global") (v "0.3.1") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3.1") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"android\", target_os = \"macos\", target_os = \"ios\", target_os = \"freebsd\", target_os = \"netbsd\", target_os = \"openbsd\"))") (k 0)) (d (n "jemallocator") (r "^0.3.1") (o #t) (d #t) (k 0)))) (h "0bapv6csqsjl763j698l4a24bwyld2rai7b3ynfs3l9l3mmwdkdf") (f (quote (("force_global_jemalloc" "jemallocator") ("default"))))))
+
+(define-public crate-jemallocator-global-0.3.2 (c (n "jemallocator-global") (v "0.3.2") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3.2") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"android\", target_os = \"macos\", target_os = \"ios\", target_os = \"freebsd\", target_os = \"netbsd\", target_os = \"openbsd\"))") (k 0)) (d (n "jemallocator") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "07jqgy641spghfw4h6c5kg5fmmngk3zvpjpngiqbbj35hgg626wr") (f (quote (("force_global_jemalloc" "jemallocator") ("default"))))))
+

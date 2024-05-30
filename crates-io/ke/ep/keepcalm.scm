@@ -1,0 +1,44 @@
+(define-module (crates-io ke ep keepcalm) #:use-module (crates-io))
+
+(define-public crate-keepcalm-0.1.0 (c (n "keepcalm") (v "0.1.0") (d (list (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "0256l4bcpgd7spznjx59vimjg7ws1zxijac22a8f5m71bj068a5c") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.1 (c (n "keepcalm") (v "0.1.1") (d (list (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "1ix1bwiy99qlqjy7y4m7f6cf07w4l01lx8xkw8nzw5yj89yc4kjy") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.2 (c (n "keepcalm") (v "0.1.2") (d (list (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "0ihmgzqsxjxsrwz7xvf43d1k7315m8lr8m11sk66vcn2lkhdgdn9") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.3 (c (n "keepcalm") (v "0.1.3") (d (list (d (n "serde") (r "^1") (o #t) (d #t) (k 0)))) (h "0dhn648smgyr4rnkmqiadp8niwq5kksbsc9y0sqpf6rlsmf56hph") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.4 (c (n "keepcalm") (v "0.1.4") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "1q5x97y11zpvv198z9axrbamfjbl8fqzfv6sly472ralkh787q23") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.5 (c (n "keepcalm") (v "0.1.5") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "0ahklykhd7fmcx7k1wyb2c6140vfai7xhij0vackr8zjlhqagfxr") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.6 (c (n "keepcalm") (v "0.1.6") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "1jcc7igpdhck1yl4vmdhfx0jkp4hcjga18wkla9cgqbmny6blbhr") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.7 (c (n "keepcalm") (v "0.1.7") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "1xiam3fxfbn4062rnnm2ljg3bdj51a8dzzlip0s0l79m376r571i") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.1.8 (c (n "keepcalm") (v "0.1.8") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "1xlq42zibd05f9gr1g3nxgnh20c352ahv7yzhfbqqwzb0a4zj0n2") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.2.0 (c (n "keepcalm") (v "0.2.0") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "195qsbcxmak7537amlmv7c3bj9h2l5sxnnxvq3imbdvqq201zgx8") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.2.1 (c (n "keepcalm") (v "0.2.1") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "1z6hgh8bsambi3vqh0y9x5mm73c1533cixfj9717v951pmx76fn4") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.2.2 (c (n "keepcalm") (v "0.2.2") (d (list (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "13rm3msvrpjadyk7rvkj2sccpa48gskyakzsdkr230m7w242h8z0") (f (quote (("global_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.2.3 (c (n "keepcalm") (v "0.2.3") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "15r2q7fhc4v2kb7040cbqa5vqynm8l88k2anbfkcld0db8d4xw74") (f (quote (("global_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.2.4 (c (n "keepcalm") (v "0.2.4") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "0jnlar84vpjb92d2i5kyspxvwbz6zbdsc8lcnycybqywxi02zbyc") (f (quote (("global_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.2.5 (c (n "keepcalm") (v "0.2.5") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)))) (h "0vb828g136m88ag1rpc4v1xwlcbaf13nw5wn1hkygqddajnf7yf3") (f (quote (("global_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.3.0 (c (n "keepcalm") (v "0.3.0") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "smol") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1x5ihqfgdywbpfcypnsal0dyy9kcbsqvslsj7fkkqzk90m1qcdnn") (f (quote (("global_experimental") ("async_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.3.1 (c (n "keepcalm") (v "0.3.1") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "smol") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1zkry9ihvm8jm2ac2pvj9n601n4894kbp6mryh0zlr088qvhj1ij") (f (quote (("global_experimental") ("async_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.3.2 (c (n "keepcalm") (v "0.3.2") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "smol") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1kjnd4kgzlp0a06gjsnvsv105df06yf6fnjdz96f4n0j6rpqkbdj") (f (quote (("global_experimental") ("async_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.3.3 (c (n "keepcalm") (v "0.3.3") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "smol") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "18dnb1x76p8bzc90jzcdy408p1cg5s1a8j4hvd2blqjw8lbkrhrr") (f (quote (("global_experimental") ("async_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.3.4 (c (n "keepcalm") (v "0.3.4") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "smol") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "08y88my699671b2aim9qzv6r29xgbdxalawadmvi0mz1lxlza1w0") (f (quote (("global_experimental") ("async_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-keepcalm-0.3.5 (c (n "keepcalm") (v "0.3.5") (d (list (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "async-std") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports" "async_tokio"))) (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "smol") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("io-std" "io-util" "macros" "rt" "rt-multi-thread" "sync" "time"))) (d #t) (k 2)))) (h "0y2d6vrmrh3zf53f244bgcwhhdl74cvim22qi73i3c5v4xzdq783") (f (quote (("global_experimental") ("async_experimental")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

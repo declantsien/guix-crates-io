@@ -1,0 +1,24 @@
+(define-module (crates-io wa sm wasmtime-wiggle-macro) #:use-module (crates-io))
+
+(define-public crate-wasmtime-wiggle-macro-0.19.0 (c (n "wasmtime-wiggle-macro") (v "0.19.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.19.0") (d #t) (k 0)) (d (n "witx") (r "^0.8.5") (d #t) (k 0)))) (h "07idm7md6lf0as9cypjj7v9igva8r82342sfrq13wyk3z06yvhws")))
+
+(define-public crate-wasmtime-wiggle-macro-0.19.1 (c (n "wasmtime-wiggle-macro") (v "0.19.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.19.0") (d #t) (k 0)) (d (n "witx") (r "^0.8.5") (d #t) (k 0)))) (h "0fq17k9gyzff6prc0hanyg9084w1xziy3l47hfdgw4bwakfz52vf")))
+
+(define-public crate-wasmtime-wiggle-macro-0.20.0 (c (n "wasmtime-wiggle-macro") (v "0.20.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.20.0") (d #t) (k 0)) (d (n "witx") (r "^0.8.7") (d #t) (k 0)))) (h "0wxqz29rgr42y4iihlqgzvvhkvl8d3mlxcfvm2i9g861yjq9sq4x")))
+
+(define-public crate-wasmtime-wiggle-macro-0.21.0 (c (n "wasmtime-wiggle-macro") (v "0.21.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.21.0") (d #t) (k 0)) (d (n "witx") (r "^0.8.7") (d #t) (k 0)))) (h "0ni31827hqfwbmnvxphhsa9brci6p8aig5dlfxlmsyk3lqzfd5vw")))
+
+(define-public crate-wasmtime-wiggle-macro-0.22.0 (c (n "wasmtime-wiggle-macro") (v "0.22.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.22.0") (d #t) (k 0)) (d (n "witx") (r "^0.8.7") (d #t) (k 0)))) (h "1vq2a26d52yq9z2kx5crl1h9h7ngj7g71m3fnp1fx8knb0c0s3g6")))
+
+(define-public crate-wasmtime-wiggle-macro-0.23.0 (c (n "wasmtime-wiggle-macro") (v "0.23.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.23.0") (d #t) (k 0)) (d (n "witx") (r "^0.8.7") (d #t) (k 0)))) (h "0wq538bj228pzn0hg75xc5mh7zghfjbz6iw8fkq1iqyiqmqf4f3a")))
+
+(define-public crate-wasmtime-wiggle-macro-0.24.0 (c (n "wasmtime-wiggle-macro") (v "0.24.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.24.0") (d #t) (k 0)) (d (n "witx") (r "^0.9") (d #t) (k 0)))) (h "01qc0pibnjii62q87jf4iwk929rmn2rv65ywv5xncbbaggb2vc8v")))
+
+(define-public crate-wasmtime-wiggle-macro-0.25.0 (c (n "wasmtime-wiggle-macro") (v "0.25.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.25.0") (d #t) (k 0)) (d (n "witx") (r "^0.9.0") (d #t) (k 0)))) (h "1ncav991h3myi2vv2qc9nd4991kxdviwwdl9dipp3nz413vsc1c5") (f (quote (("default") ("async"))))))
+
+(define-public crate-wasmtime-wiggle-macro-0.26.0 (c (n "wasmtime-wiggle-macro") (v "0.26.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.26.0") (d #t) (k 0)) (d (n "witx") (r "^0.9.0") (d #t) (k 0)))) (h "0dsx6rn47ry72682kgsgkqscgcm5bra4m3bjis6wdaysn9jqnqsb") (f (quote (("default") ("async"))))))
+
+(define-public crate-wasmtime-wiggle-macro-0.27.0 (c (n "wasmtime-wiggle-macro") (v "0.27.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.27.0") (d #t) (k 0)) (d (n "witx") (r "^0.9.0") (d #t) (k 0)))) (h "1q078mznm8y233zq4vqglcafq8962kkjx2smbsdxpyvqziz4cj65") (f (quote (("default") ("async"))))))
+
+(define-public crate-wasmtime-wiggle-macro-0.26.1 (c (n "wasmtime-wiggle-macro") (v "0.26.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "wiggle-generate") (r "^0.26.1") (d #t) (k 0)) (d (n "witx") (r "^0.9.0") (d #t) (k 0)))) (h "067rjg0vf4a2pjzl8jv403bbysim7i23vmwy5ippx6yfa4pqnnsf") (f (quote (("default") ("async"))))))
+

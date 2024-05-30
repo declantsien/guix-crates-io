@@ -1,0 +1,10 @@
+(define-module (crates-io co de codes-iso-17442) #:use-module (crates-io))
+
+(define-public crate-codes-iso-17442-0.1.0 (c (n "codes-iso-17442") (v "0.1.0") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)))) (h "0wnijvjmffqlnycyrid3cmgjliqyrl0qxdb4f9jhdr5b3rdmc5sz") (f (quote (("urn" "url") ("default" "serde"))))))
+
+(define-public crate-codes-iso-17442-0.1.1 (c (n "codes-iso-17442") (v "0.1.1") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)))) (h "0ix303kbv1wcqg3w7czrkp4clirzp5fzdmlfl8a3m6gp53pb6kv3") (f (quote (("urn" "url") ("default" "serde"))))))
+
+(define-public crate-codes-iso-17442-0.1.2 (c (n "codes-iso-17442") (v "0.1.2") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-check-digits") (r "^0.1") (f (quote ("iso_7064"))) (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)))) (h "0gz3iic2qdwpavb6f747knnh4623v9k9plc4nf4692rp5afyqv4d") (f (quote (("urn" "url") ("default" "serde"))))))
+
+(define-public crate-codes-iso-17442-0.1.3 (c (n "codes-iso-17442") (v "0.1.3") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-check-digits") (r "^0.1") (f (quote ("iso_7064"))) (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (o #t) (d #t) (k 0)))) (h "10fc16jg86nby7g7af0znnwykzx572fxw2m1xgl5wam3y07qhqx5") (f (quote (("urn" "url") ("default" "serde"))))))
+

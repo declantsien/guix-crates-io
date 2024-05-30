@@ -1,0 +1,8 @@
+(define-module (crates-io cw -r cw-rules-core) #:use-module (crates-io))
+
+(define-public crate-cw-rules-core-0.1.0 (c (n "cw-rules-core") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (f (quote ("staking" "stargate"))) (d #t) (k 0)) (d (n "cw20") (r "^0.13") (d #t) (k 0)) (d (n "generic-query") (r "^0.1.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-cw-value") (r "^0.7.0") (d #t) (k 0)))) (h "0aniscm5kykvwpgqgh86jshq5fcbhkj036m59gh0gbk6y3n93d74")))
+
+(define-public crate-cw-rules-core-0.1.1 (c (n "cw-rules-core") (v "0.1.1") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (f (quote ("staking" "stargate"))) (d #t) (k 0)) (d (n "cw20") (r "^0.13") (d #t) (k 0)) (d (n "generic-query") (r "^0.1.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-cw-value") (r "^0.7.0") (d #t) (k 0)))) (h "0x3b46rp5izbf8sxlvk43n2lpz86i1xp7yvh0d4smbig9k721d05")))
+
+(define-public crate-cw-rules-core-0.1.2 (c (n "cw-rules-core") (v "0.1.2") (d (list (d (n "cosmwasm-schema") (r "^1.0.0") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.0.0") (f (quote ("staking" "stargate"))) (d #t) (k 0)) (d (n "cw20") (r "^0.13.4") (d #t) (k 0)) (d (n "generic-query") (r "^0.1.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde-cw-value") (r "^0.7.0") (d #t) (k 0)) (d (n "smart-query") (r "^0.1.0") (d #t) (k 0)))) (h "0lfr5ya5a5w5bnwcfd5k4gyrfg0k8yzrya0brizi7hc30nnmwycs")))
+

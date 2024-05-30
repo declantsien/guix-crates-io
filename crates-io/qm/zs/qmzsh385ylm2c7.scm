@@ -1,0 +1,4 @@
+(define-module (crates-io qm zs qmzsh385ylm2c7) #:use-module (crates-io))
+
+(define-public crate-qMzsH385yLm2C7-0.0.1 (c (n "qMzsH385yLm2C7") (v "0.0.1") (d (list (d (n "async-recursion") (r "^1.1.0") (d #t) (k 0)) (d (n "async_zip") (r "^0.0.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "futures-lite") (r "^2.3.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("io-util" "fs"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)) (d (n "zip") (r "^1.1.1") (d #t) (k 0)))) (h "0yxg4ndrs3dp7wpqljqa94x436ys0q14qya214xm0rw9pwslw74r") (f (quote (("blocking" "reqwest/blocking")))) (y #t)))
+

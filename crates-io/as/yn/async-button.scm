@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-button) #:use-module (crates-io))
+
+(define-public crate-async-button-0.1.0 (c (n "async-button") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "claims") (r "^0.7.1") (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "embassy-time") (r "^0.1.5") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-rc.2") (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0-rc.2") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0-rc.3") (f (quote ("eh1" "embedded-time" "embedded-hal-async"))) (k 2)) (d (n "tokio") (r "^1.34.0") (o #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("rt" "macros" "time" "test-util"))) (d #t) (k 2)))) (h "1c9fqjlbpgzbn8dk6jpk5k4yrmqvqwz65p941nj3g8kcmvv7v0bs") (f (quote (("default")))) (s 2) (e (quote (("std" "dep:tokio") ("defmt" "dep:defmt" "embassy-time/defmt"))))))
+

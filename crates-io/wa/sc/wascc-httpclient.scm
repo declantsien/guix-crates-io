@@ -1,0 +1,4 @@
+(define-module (crates-io wa sc wascc-httpclient) #:use-module (crates-io))
+
+(define-public crate-wascc-httpclient-0.1.0 (c (n "wascc-httpclient") (v "0.1.0") (d (list (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "mockito") (r "^0.25") (d #t) (k 2)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "gzip" "brotli"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "tcp" "time" "macros" "signal" "dns"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "tcp" "time" "macros" "signal" "dns" "full"))) (d #t) (k 2)) (d (n "wascc-codec") (r "^0.7.0") (d #t) (k 0)))) (h "0nw6nc3j8gs13ap979mln65c48wfmwk4kyzakg3wf48a6niiydh3") (f (quote (("static_plugin"))))))
+

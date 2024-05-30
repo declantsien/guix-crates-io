@@ -1,0 +1,4 @@
+(define-module (crates-io ed ge edge-signaling) #:use-module (crates-io))
+
+(define-public crate-edge-signaling-1.0.0 (c (n "edge-signaling") (v "1.0.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0") (k 0)) (d (n "frame-system") (r "^2.0.0") (k 0)) (d (n "pallet-balances") (r "^2.0.0") (k 0)) (d (n "safe-mix") (r "^1.0") (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "sp-core") (r "^2.0.0") (k 2)) (d (n "sp-io") (r "^2.0.0") (k 2)) (d (n "sp-runtime") (r "^2.0.0") (k 0)) (d (n "sp-std") (r "^2.0.0") (k 0)) (d (n "voting") (r "^1.0.0") (k 0) (p "edge-voting")))) (h "158yf8smsjbjiagkv25sxqcfplh07g5p8ggnz30yj770mxgs6kal") (f (quote (("std" "serde" "serde_derive" "safe-mix/std" "codec/std" "sp-std/std" "sp-runtime/std" "pallet-balances/std" "frame-support/std" "frame-system/std" "voting/std") ("default" "std"))))))
+

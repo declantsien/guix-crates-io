@@ -1,0 +1,4 @@
+(define-module (crates-io gr in gringron_store) #:use-module (crates-io))
+
+(define-public crate-gringron_store-5.2.0-beta.3 (c (n "gringron_store") (v "5.2.0-beta.3") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 2)) (d (n "croaring") (r "^0.4.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "filetime") (r "^0.2") (d #t) (k 2)) (d (n "gringron_core") (r "^5.2.0-beta.3") (d #t) (k 0)) (d (n "gringron_util") (r "^5.2.0-beta.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "lmdb-zero") (r "^0.4.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memmap") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0imxz5dnp0yjszkmjrsy89izk2r1v29bh88lcv8a56acqg0s1z98")))
+

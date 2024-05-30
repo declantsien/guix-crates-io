@@ -1,0 +1,8 @@
+(define-module (crates-io pr oc proc-hash) #:use-module (crates-io))
+
+(define-public crate-proc-hash-0.1.0 (c (n "proc-hash") (v "0.1.0") (d (list (d (n "blake2") (r "^0.10.6") (d #t) (k 0)) (d (n "docify") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.64") (d #t) (k 0)) (d (n "quote") (r "^1.0.29") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "syn") (r "^2.0.25") (d #t) (k 0)) (d (n "whirlpool") (r "^0.10.4") (d #t) (k 0)))) (h "1d3h3zbf35kib7w56zf18pfjr8yg6xkxcnzbkcc4bx3yx8kjhsx4") (y #t)))
+
+(define-public crate-proc-hash-0.1.1 (c (n "proc-hash") (v "0.1.1") (d (list (d (n "blake2") (r "^0.10.6") (d #t) (k 0)) (d (n "docify") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.64") (d #t) (k 0)) (d (n "quote") (r "^1.0.29") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "syn") (r "^2.0.25") (d #t) (k 0)) (d (n "whirlpool") (r "^0.10.4") (d #t) (k 0)))) (h "06vgg2x44a8wnnp0y4hvqd2rbi3iykchgd10629hgz45wypb3jwl")))
+
+(define-public crate-proc-hash-0.1.2 (c (n "proc-hash") (v "0.1.2") (d (list (d (n "blake2") (r "^0.10.6") (d #t) (k 0)) (d (n "docify") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.64") (d #t) (k 0)) (d (n "quote") (r "^1.0.29") (d #t) (k 0)) (d (n "sha3") (r "^0.10.8") (d #t) (k 0)) (d (n "syn") (r "^2.0.25") (d #t) (k 0)) (d (n "whirlpool") (r "^0.10.4") (d #t) (k 0)))) (h "1q1yqbpsdb0z7bd7lzjmaywl14qnxr14k8dhhh890nqxc5nq7wkh")))
+

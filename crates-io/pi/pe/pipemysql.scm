@@ -1,0 +1,22 @@
+(define-module (crates-io pi pe pipemysql) #:use-module (crates-io))
+
+(define-public crate-pipemysql-0.1.0 (c (n "pipemysql") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0kwy17fwv0ng3j7v4s5m3zz03yyv8my933xg903xy6ry6bfg6n0m")))
+
+(define-public crate-pipemysql-0.1.1 (c (n "pipemysql") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "18yl8h57rws47vbgc5a6q00vb302igzh179w6psr6nl1mc9mas8g")))
+
+(define-public crate-pipemysql-0.1.2 (c (n "pipemysql") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1sy31w57ldpa8ii9hn7hh9sapw6x5kj4w5gaca9cj1dw2balgjgy")))
+
+(define-public crate-pipemysql-0.1.3 (c (n "pipemysql") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0jsf0nkh4y4n6clgqvbk73qcdhwaxpj7va8c0g90ikqd9lk44vm7")))
+
+(define-public crate-pipemysql-0.1.4 (c (n "pipemysql") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1sr1yhql0l84nh4iny2zycgl2z6rvmgaw8xihcry6zhxxqk44c18")))
+
+(define-public crate-pipemysql-0.1.5 (c (n "pipemysql") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1w2l2d00qqb456na7c2bkz21wg76k6aiiisyvlc9id215mly9xky")))
+
+(define-public crate-pipemysql-0.2.0 (c (n "pipemysql") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0n4738hyhsjhl042g9zzggya2dh04kav742683rbaqx656s781nb")))
+
+(define-public crate-pipemysql-0.2.1 (c (n "pipemysql") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.1.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "05nsikiiysqrdg4ijk0xha85dwnmh4cyr001hpfmc2z7y1sap02j")))
+
+(define-public crate-pipemysql-0.2.2 (c (n "pipemysql") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "mysql_async") (r "^0.28.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "11z3kr9ak0mg6s43pgrw4dlzcdnxdmgb0wzl0bp31fnwp3xngqbi")))
+
+(define-public crate-pipemysql-0.2.3 (c (n "pipemysql") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "mysql_async") (r "^0.29.0") (d #t) (k 0)) (d (n "pipebase") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0ww48zx8fdaqh4c1pf01zpszkcvl2w5f18hmk6hrc45zzza3xqz5")))
+

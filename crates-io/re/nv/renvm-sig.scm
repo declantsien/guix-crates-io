@@ -1,0 +1,6 @@
+(define-module (crates-io re nv renvm-sig) #:use-module (crates-io))
+
+(define-public crate-renvm-sig-0.1.0 (c (n "renvm-sig") (v "0.1.0") (d (list (d (n "borsh") (r "^0.8.1") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.0") (f (quote ("keccak" "sha3"))) (d #t) (k 0)))) (h "1b4mp5pwi79zrgryhrcr7g5dxjf4g7cm8gkid9in9dzwlaspw369")))
+
+(define-public crate-renvm-sig-0.1.1 (c (n "renvm-sig") (v "0.1.1") (d (list (d (n "borsh") (r "^0.8.1") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rustc-hex") (r "^2.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.0") (f (quote ("keccak" "sha3"))) (d #t) (k 0)))) (h "1hrrfcy6cy6hpkl9c94xjpqxnvk2c9y1lymjbxgxvgp282wzk72z")))
+

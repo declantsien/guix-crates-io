@@ -1,0 +1,4 @@
+(define-module (crates-io ar kw arkworks-solidity-verifier) #:use-module (crates-io))
+
+(define-public crate-arkworks-solidity-verifier-0.1.0 (c (n "arkworks-solidity-verifier") (v "0.1.0") (d (list (d (n "ark-bn254") (r "^0.3.0") (f (quote ("curve"))) (k 0)) (d (n "ark-ec") (r "^0.3.0") (k 0)) (d (n "ark-ff") (r "^0.3.0") (k 0)) (d (n "ark-gm17") (r "^0.3.0") (k 0)) (d (n "ark-groth16") (r "^0.3.0") (k 0)) (d (n "ark-marlin") (r "^0.3.0") (k 0)) (d (n "ark-poly") (r "^0.3.0") (k 0)) (d (n "ark-poly-commit") (r "^0.3.0") (k 0)) (d (n "ark-snark") (r "^0.3.0") (k 0)) (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "ark-r1cs-std") (r "^0.3.0") (k 2)) (d (n "ark-relations") (r "^0.3.0") (k 2)) (d (n "ark-std") (r "^0.3.0") (k 2)) (d (n "blake2") (r "^0.9") (k 2)))) (h "1109p2w0cl4msg42dsksdicx7ak655x3m404x35nm1lplqm54mxf")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io sq li sqlite-cache) #:use-module (crates-io))
+
+(define-public crate-sqlite-cache-0.1.0 (c (n "sqlite-cache") (v "0.1.0") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusqlite") (r "^0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-test") (r "^0.2.2") (d #t) (k 2)))) (h "1y0fp3yrl7yp7xsc2yajvpwz2m8qfnzsngzdhqzcskpxb67rnsnl") (y #t)))
+
+(define-public crate-sqlite-cache-0.1.1 (c (n "sqlite-cache") (v "0.1.1") (d (list (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusqlite") (r "^0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-test") (r "^0.2.2") (d #t) (k 2)))) (h "0c0ciyd887z751gah5knycjbxdcnkksdf6g6cm6938vjk2ib9vcf") (y #t)))
+
+(define-public crate-sqlite-cache-0.1.2 (c (n "sqlite-cache") (v "0.1.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusqlite") (r "^0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-test") (r "^0.2.2") (d #t) (k 2)))) (h "0qr2igw7h61wx7vgh0hqjc0yp8fy19058gdfjfnq3byc5gdg2cxr")))
+
+(define-public crate-sqlite-cache-0.1.3 (c (n "sqlite-cache") (v "0.1.3") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "data-encoding") (r "^2.3.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rusqlite") (r "^0.27") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt" "time"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-test") (r "^0.2.2") (d #t) (k 2)))) (h "0fqpdsp3bqwswbsfmih51ijx2lh8wg7andb93f6m2xfvpsx2j901")))
+

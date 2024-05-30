@@ -1,0 +1,8 @@
+(define-module (crates-io ca ti catinator_macros) #:use-module (crates-io))
+
+(define-public crate-catinator_macros-0.1.0 (c (n "catinator_macros") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0") (d #t) (k 2)) (d (n "irc") (r "^0.15") (f (quote ("json" "tls-rust"))) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 2)) (d (n "tracing") (r "^0") (d #t) (k 2)))) (h "09m0dz8bjvcswh4rd9fwalp3h3ay4waja9jq3866dvy16x21w03v")))
+
+(define-public crate-catinator_macros-0.2.0 (c (n "catinator_macros") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0") (d #t) (k 2)) (d (n "irc") (r "^0.15") (f (quote ("json" "tls-rust"))) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 2)) (d (n "tracing") (r "^0") (d #t) (k 2)))) (h "0h01nhi8m623rf27wpliwavd4v2mgrv9k3273zfkdpkxnryrn19b")))
+
+(define-public crate-catinator_macros-0.3.0 (c (n "catinator_macros") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "futures") (r "^0") (d #t) (k 2)) (d (n "irc") (r "^0.15") (f (quote ("json" "tls-rust"))) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^1") (f (quote ("parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 2)) (d (n "tracing") (r "^0") (d #t) (k 2)))) (h "0j9wmryv57rbds1z0m89x8j2il6n983sizji5w9ywng62blfkwnh")))
+

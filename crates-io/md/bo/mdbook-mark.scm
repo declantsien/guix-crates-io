@@ -1,0 +1,6 @@
+(define-module (crates-io md bo mdbook-mark) #:use-module (crates-io))
+
+(define-public crate-mdbook-mark-0.1.0 (c (n "mdbook-mark") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.7") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1z5pafyxx4ykf027bkvlqw333s8lkvwxyx7i2ayfy5bw2r2az4xx")))
+
+(define-public crate-mdbook-mark-0.1.1 (c (n "mdbook-mark") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.7") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pfddv2i2xl88zfqmihh1m96nvj51krhj3c3x5w6cksv9wdjs3l3")))
+

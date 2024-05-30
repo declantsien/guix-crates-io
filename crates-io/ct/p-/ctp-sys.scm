@@ -1,0 +1,10 @@
+(define-module (crates-io ct p- ctp-sys) #:use-module (crates-io))
+
+(define-public crate-ctp-sys-0.1.0 (c (n "ctp-sys") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bindgen") (r "^0.69") (d #t) (k 1)))) (h "130pm2z2ddd4dj3a1hl1h2yx5d318wzs8mxm56i7vvp5f3rvmx1n") (r "1.73.0")))
+
+(define-public crate-ctp-sys-0.1.1 (c (n "ctp-sys") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bindgen") (r "^0.69") (d #t) (k 1)))) (h "004wb9ajbaafzj3dx1474zazpjmx3vqp42mlnwxkbxhp3bjz85wb") (r "1.73.0")))
+
+(define-public crate-ctp-sys-0.1.2 (c (n "ctp-sys") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bindgen") (r "^0.69") (d #t) (k 1)))) (h "0jz3d08xbgw2b3dd3n5c2fwxq76zbbxr03j32ryka9ir2jarcg1i") (r "1.73.0")))
+
+(define-public crate-ctp-sys-0.1.3 (c (n "ctp-sys") (v "0.1.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 1)) (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clang") (r "^2.0.0") (d #t) (k 1)) (d (n "clang-sys") (r "^1") (f (quote ("clang_6_0" "runtime"))) (d #t) (k 1)) (d (n "copy_to_output") (r "^2.0.0") (d #t) (k 1)) (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "encoding") (r "^0.2.33") (d #t) (k 1)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "libc") (r "^0.2.39") (k 1)) (d (n "memchr") (r "^2.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.4.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.117") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.1") (d #t) (k 0)) (d (n "time") (r "^0.1.43") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0s50fcvpyqxqw2acf63n30l4yxibzn1g40cqqgs184di437fvqqa") (r "1.73.0")))
+

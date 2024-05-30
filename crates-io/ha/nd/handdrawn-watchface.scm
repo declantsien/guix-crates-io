@@ -1,0 +1,6 @@
+(define-module (crates-io ha nd handdrawn-watchface) #:use-module (crates-io))
+
+(define-public crate-handdrawn-watchface-1.0.0 (c (n "handdrawn-watchface") (v "1.0.0") (d (list (d (n "arrayvec") (r "^0.5.1") (k 0)) (d (n "cortex-m") (r "^0.6.1") (f (quote ("inline-asm"))) (d #t) (k 0)) (d (n "cstr_core") (r "^0.1.2") (d #t) (k 0)) (d (n "cty") (r "^0.2.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "heapless") (r "^0.5.1") (d #t) (k 0)) (d (n "memchr") (r "^2") (k 0)) (d (n "pinetime-macros") (r "^2.0.0") (d #t) (k 0)) (d (n "pinetime-watchface") (r "^2.1.0") (d #t) (k 0)))) (h "02y3qh5zfx2m77xp0w5m4wpdnpy3ahq4d19lvw3xd6yb1g4z7p7v")))
+
+(define-public crate-handdrawn-watchface-2.1.1 (c (n "handdrawn-watchface") (v "2.1.1") (d (list (d (n "arrayvec") (r "^0.5.1") (k 0)) (d (n "cortex-m") (r "^0.6.1") (f (quote ("inline-asm"))) (d #t) (k 0)) (d (n "cstr_core") (r "^0.1.2") (d #t) (k 0)) (d (n "cty") (r "^0.2.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "heapless") (r "^0.5.1") (d #t) (k 0)) (d (n "memchr") (r "^2") (k 0)) (d (n "pinetime-macros") (r "^2.0.0") (d #t) (k 0)) (d (n "pinetime-watchface") (r "^2.1.1") (d #t) (k 0)))) (h "1i21mb55k1rcb8pc5vimzq0c016w09bmhv14w3vqr08v7ccxspir")))
+

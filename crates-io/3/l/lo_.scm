@@ -1,0 +1,24 @@
+(define-module (crates-io #{3}# l lo_) #:use-module (crates-io))
+
+(define-public crate-lo_-0.1.0 (c (n "lo_") (v "0.1.0") (h "0894fy8d1z1qnx26a48v1m0w5xnfahvpjpw483ncsx240fzc7v2w")))
+
+(define-public crate-lo_-0.1.1 (c (n "lo_") (v "0.1.1") (h "0vv35nrn7ibb36v81scx4iaczxxav99d6r0vdmn11912bsdc4j56")))
+
+(define-public crate-lo_-0.1.2 (c (n "lo_") (v "0.1.2") (h "02bq52cvfw8rs103b08gydah3idwyhll1163qgzf93qa5p9hl406")))
+
+(define-public crate-lo_-0.1.3 (c (n "lo_") (v "0.1.3") (d (list (d (n "regex") (r "^1.10.2") (d #t) (k 0)))) (h "179kq2313v2zva4rncr8g28yf0wqfsv5qs13xi09wzdjjykcz8zv")))
+
+(define-public crate-lo_-0.1.4 (c (n "lo_") (v "0.1.4") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "1pcbmn19i6zacqhjyx9yiy4zpm8jcjwrsgyk83x8pglkmfg9a17z") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words") ("starts_with") ("lower_first") ("intersection") ("ends_with") ("difference") ("default" "array" "string") ("contains") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "intersection" "uniq" "without"))))))
+
+(define-public crate-lo_-0.1.5 (c (n "lo_") (v "0.1.5") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "1qszbanp0ydas4zim0jncnyd08h8wfz3rcwkkd6rm4mc8drnnwh9") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words") ("starts_with") ("lower_first") ("intersection") ("ends_with") ("difference") ("default" "array" "string") ("contains") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "intersection" "uniq" "without"))))))
+
+(define-public crate-lo_-0.1.6 (c (n "lo_") (v "0.1.6") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "1vvi8qz6y2q0prlnqcvqj83hlkpbmarxwbrgaa7fq1grpss85n5w") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words") ("starts_with") ("lower_first") ("intersection") ("find") ("ends_with") ("difference") ("default" "array" "string") ("contains") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "find" "intersection" "uniq" "without"))))))
+
+(define-public crate-lo_-0.1.7 (c (n "lo_") (v "0.1.7") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "035ihdc63jsywyb4bfmvfs25wapmmz1p4v2yh70cc3p38cdlihlb") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words") ("starts_with") ("lower_first") ("intersection") ("find") ("ends_with") ("difference") ("default" "array" "string") ("contains") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "find" "intersection" "uniq" "without"))))))
+
+(define-public crate-lo_-0.1.8 (c (n "lo_") (v "0.1.8") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "15raw3c3wv4n40dc6ffkd0hballns8gbyg1jlgz8q39w9hlg6kwa") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("template") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words" "template") ("starts_with") ("lower_first") ("intersection") ("find") ("ends_with") ("difference") ("default" "array" "string") ("contains") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "find" "intersection" "uniq" "without"))))))
+
+(define-public crate-lo_-0.1.9 (c (n "lo_") (v "0.1.9") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "0yzy371kip2ww61wibzmhx485ldipy0rpbvwns6nwa8cssbngsgl") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("template") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words" "template") ("starts_with") ("lower_first") ("intersection") ("find") ("ends_with") ("difference") ("default" "array" "string" "condition") ("contains") ("condition") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "find" "intersection" "uniq" "without"))))))
+
+(define-public crate-lo_-0.1.10 (c (n "lo_") (v "0.1.10") (d (list (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)))) (h "1g2mgqz41wbm1y4h3k374rrrs1ql84gn1qq9hz3rrvjcyjy8lby2") (f (quote (("words" "regex") ("without") ("upper_first") ("uniq") ("template") ("string" "camel_case" "capitalize" "ends_with" "lower_first" "starts_with" "upper_first" "words" "template") ("starts_with") ("lower_first") ("intersection") ("find") ("ends_with") ("difference") ("default" "array" "string" "condition") ("contains") ("condition") ("chunk") ("capitalize") ("camel_case") ("array" "chunk" "contains" "difference" "find" "intersection" "uniq" "without"))))))
+

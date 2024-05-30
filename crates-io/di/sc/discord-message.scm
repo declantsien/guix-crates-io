@@ -1,0 +1,4 @@
+(define-module (crates-io di sc discord-message) #:use-module (crates-io))
+
+(define-public crate-discord-message-0.1.0 (c (n "discord-message") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1zz84xxrr4gicm00jhkcbzfnn1jx6245wzpkv1d980r9fri0c4x7")))
+

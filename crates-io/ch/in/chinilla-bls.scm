@@ -1,0 +1,6 @@
+(define-module (crates-io ch in chinilla-bls) #:use-module (crates-io))
+
+(define-public crate-chinilla-bls-0.1.15 (c (n "chinilla-bls") (v "0.1.15") (d (list (d (n "anyhow") (r "=1.0.65") (d #t) (k 0)) (d (n "bls12_381_plus") (r "=0.7.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "group") (r "=0.12.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hkdf") (r "=0.11.0") (d #t) (k 0)) (d (n "num-bigint") (r "=0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "sha2") (r "=0.9.9") (d #t) (k 0)) (d (n "tiny-bip39") (r "=1.0.0") (d #t) (k 0)))) (h "0x05i5h4iy2nxz7ab27p9rmldd1q88q37v8lajzhwbi4svwfpmk6") (y #t)))
+
+(define-public crate-chinilla-bls-0.1.16 (c (n "chinilla-bls") (v "0.1.16") (d (list (d (n "anyhow") (r "=1.0.65") (d #t) (k 0)) (d (n "bls12_381_plus") (r "=0.7.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "group") (r "=0.12.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hkdf") (r "=0.11.0") (d #t) (k 0)) (d (n "num-bigint") (r "=0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "sha2") (r "=0.9.9") (d #t) (k 0)) (d (n "tiny-bip39") (r "=1.0.0") (d #t) (k 0)))) (h "08pbv71bclkab2rwjx2pyhri3gizzjaf0j5mlp0avzx1bipz3pm3") (y #t)))
+

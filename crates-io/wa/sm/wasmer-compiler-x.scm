@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-compiler-x) #:use-module (crates-io))
+
+(define-public crate-wasmer-compiler-x-2.4.1 (c (n "wasmer-compiler-x") (v "2.4.1") (d (list (d (n "enumset") (r "^1.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "rkyv") (r "^0.7.20") (d #t) (k 0)) (d (n "smallvec") (r "^1.6") (d #t) (k 0)) (d (n "target-lexicon") (r "^0.12.2") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "wasmer-types") (r "=2.4.1") (k 0) (p "wasmer-types-x")) (d (n "wasmer-vm") (r "=2.4.1") (d #t) (k 0) (p "wasmer-vm-x")) (d (n "wasmparser") (r "^0.78") (o #t) (k 0)))) (h "1aalp8hxbbsbsslxi9xc04w3c7ik7jxmczdf1yav3sy22javpw97") (f (quote (("translator" "wasmparser") ("std" "wasmer-types/std") ("default" "std") ("core" "hashbrown" "wasmer-types/core"))))))
+

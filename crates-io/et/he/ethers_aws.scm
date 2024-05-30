@@ -1,0 +1,4 @@
+(define-module (crates-io et he ethers_aws) #:use-module (crates-io))
+
+(define-public crate-ethers_aws-0.1.0 (c (n "ethers_aws") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "aws-config") (r "^1.1.1") (d #t) (k 0)) (d (n "aws-sdk-kms") (r "^1.7.0") (d #t) (k 0)) (d (n "ethers") (r "^2.0.11") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.4") (d #t) (k 0)) (d (n "rasn") (r "^0.12.4") (d #t) (k 0)) (d (n "rasn-pkix") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.35.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "x509-certificate") (r "^0.23.1") (d #t) (k 0)))) (h "08kbn88y27mysdqr0rbbzy12i6w2lb4n8dhl1hpkiwak29a897kz")))
+

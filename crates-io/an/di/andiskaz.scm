@@ -1,0 +1,6 @@
+(define-module (crates-io an di andiskaz) #:use-module (crates-io))
+
+(define-public crate-andiskaz-0.1.0 (c (n "andiskaz") (v "0.1.0") (d (list (d (n "backtrace") (r "^0.3.54") (d #t) (k 2)) (d (n "crossterm") (r "^0.18") (d #t) (k 0)) (d (n "futures") (r "^0.3.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "tokio") (r "^1.6") (f (quote ("macros" "io-util" "io-std" "sync" "rt" "rt-multi-thread" "fs" "time"))) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.6.0") (d #t) (k 0)))) (h "0k09b7lnnq7llnvhplakhamqgi6fz3mnxb25dv9f5mj9cfjvhk9c")))
+
+(define-public crate-andiskaz-0.2.0 (c (n "andiskaz") (v "0.2.0") (d (list (d (n "backtrace") (r "^0.3.54") (d #t) (k 2)) (d (n "crossterm") (r "^0.18") (d #t) (k 0)) (d (n "futures") (r "^0.3.7") (d #t) (k 0)) (d (n "gardiz") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "tokio") (r "^1.6") (f (quote ("macros" "io-util" "io-std" "sync" "rt" "rt-multi-thread" "fs" "time"))) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.6.0") (d #t) (k 0)))) (h "0d8c1d5bfzfmqxln4ysb6d7vn50ql1j2ry765rwk3havcbgzpv87") (f (quote (("plane" "gardiz") ("default"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io aj ar ajars_server_axum) #:use-module (crates-io))
+
+(define-public crate-ajars_server_axum-0.10.0 (c (n "ajars_server_axum") (v "0.10.0") (d (list (d (n "ajars_core") (r "^0.10.0") (d #t) (k 0)) (d (n "axum") (r "^0.7") (f (quote ("json" "query"))) (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "tower") (r "^0.4") (d #t) (k 2)))) (h "014j6wf3fk3nc7h6gz4x6gs9k98g3kl64kcpcxbyjhg4q8mi15cw")))
+
+(define-public crate-ajars_server_axum-0.11.0 (c (n "ajars_server_axum") (v "0.11.0") (d (list (d (n "ajars_core") (r "^0.11.0") (d #t) (k 0)) (d (n "axum") (r "^0.7") (f (quote ("json" "query"))) (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)) (d (n "tower") (r "^0.4") (d #t) (k 2)))) (h "11cb3jlzhya5wx6g42b3bv5y06087dhkwlahya8rm3igx91qw5nl")))
+

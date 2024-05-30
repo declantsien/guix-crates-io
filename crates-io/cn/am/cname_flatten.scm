@@ -1,0 +1,4 @@
+(define-module (crates-io cn am cname_flatten) #:use-module (crates-io))
+
+(define-public crate-cname_flatten-0.1.1 (c (n "cname_flatten") (v "0.1.1") (d (list (d (n "alive_api") (r "^0.1.1") (d #t) (k 0)) (d (n "aok") (r "^0.1.3") (d #t) (k 0)) (d (n "aok") (r "^0.1.3") (d #t) (k 2)) (d (n "ifs") (r "^0.1.27") (f (quote ("fs"))) (k 0)) (d (n "ireq") (r "^0.1.7") (d #t) (k 0)) (d (n "loginit") (r "^0.1.10") (d #t) (k 2)) (d (n "rkyv") (r "^0.7.44") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "static_init") (r "^1.0.3") (d #t) (k 2)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "time" "sync"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)))) (h "1z7kp6m82xmf69h1pg8shd2v0cza69iark97zfj1b1bgjm083pzg")))
+

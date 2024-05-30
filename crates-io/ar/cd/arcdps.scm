@@ -1,0 +1,14 @@
+(define-module (crates-io ar cd arcdps) #:use-module (crates-io))
+
+(define-public crate-arcdps-0.7.0 (c (n "arcdps") (v "0.7.0") (d (list (d (n "arcdps_codegen") (r "^0.7.0") (d #t) (k 0)) (d (n "imgui") (r "^0.8.0") (d #t) (k 0) (p "arcdps-imgui")) (d (n "log") (r "^0.4.14") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)))) (h "1m9s6y4rb22flrlkd5x4zjh5lbgzczjvbacfs81rnzn939ax1hwh") (f (quote (("default" "log"))))))
+
+(define-public crate-arcdps-0.7.1 (c (n "arcdps") (v "0.7.1") (d (list (d (n "arcdps_codegen") (r "^0.7.1") (d #t) (k 0)) (d (n "imgui") (r "^0.8.0") (f (quote ("tables-api"))) (d #t) (k 0) (p "arcdps-imgui")) (d (n "log") (r "^0.4.14") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)))) (h "0phgrzixmw3prvazzywbcvx9ppb9ldj499k5p240ydgwmk0yf1wa") (f (quote (("default" "log"))))))
+
+(define-public crate-arcdps-0.8.0 (c (n "arcdps") (v "0.8.0") (d (list (d (n "arcdps_codegen") (r "^0.8.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.20") (d #t) (k 0)) (d (n "imgui") (r "^0.8.0") (f (quote ("tables-api"))) (d #t) (k 0) (p "arcdps-imgui")) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)))) (h "1z6lvf0p3srwif2q31p6hq09nkaznn7rhrs9hx3kvvr3z8psarby") (f (quote (("default" "log"))))))
+
+(define-public crate-arcdps-0.8.1 (c (n "arcdps") (v "0.8.1") (d (list (d (n "arcdps_codegen") (r "^0.8.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.20") (d #t) (k 0)) (d (n "imgui") (r "^0.8.0") (f (quote ("tables-api"))) (d #t) (k 0) (p "arcdps-imgui")) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)))) (h "06542hf28lr9zgxjhipidcc5s4mgn32apj76sc909r3s1bafqqwq") (f (quote (("default" "log"))))))
+
+(define-public crate-arcdps-0.9.0 (c (n "arcdps") (v "0.9.0") (d (list (d (n "arcdps_codegen") (r "^0.9.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.20") (d #t) (k 0)) (d (n "imgui") (r "^0.8.0") (f (quote ("tables-api"))) (o #t) (d #t) (k 0) (p "arcdps-imgui")) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)))) (h "0ffwvzf1dl6qxy21hymxkw7s7ikpf9pw5xhazkcs97m9igkf7s7j") (f (quote (("default" "imgui" "log")))) (s 2) (e (quote (("imgui" "dep:imgui" "arcdps_codegen/imgui"))))))
+
+(define-public crate-arcdps-0.10.0 (c (n "arcdps") (v "0.10.0") (d (list (d (n "arcdps_codegen") (r "^0.10.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.20") (d #t) (k 0)) (d (n "imgui") (r "^0.8.0") (f (quote ("tables-api"))) (o #t) (d #t) (k 0) (p "arcdps-imgui")) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.0") (d #t) (k 0)))) (h "02ap5vwmw7k362j4xyimh57sw4705a18571zzasngkxp7ql15vib") (f (quote (("default" "imgui" "log")))) (s 2) (e (quote (("imgui" "dep:imgui" "arcdps_codegen/imgui"))))))
+

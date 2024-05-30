@@ -1,0 +1,6 @@
+(define-module (crates-io mo ni monitor-control-win) #:use-module (crates-io))
+
+(define-public crate-monitor-control-win-0.1.0 (c (n "monitor-control-win") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "registry") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.25") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("errhandlingapi" "winuser" "winreg" "winerror" "setupapi" "impl-default" "impl-debug" "guiddef" "handleapi" "physicalmonitorenumerationapi"))) (d #t) (k 0)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "0g001h07z7ag7g22mnp8g73m9b3m3ssi9r89hlvjpahnv8jzxbzh")))
+
+(define-public crate-monitor-control-win-0.1.1 (c (n "monitor-control-win") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.5") (d #t) (k 0)) (d (n "registry") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tracing") (r "^0.1.25") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("errhandlingapi" "winuser" "winreg" "winerror" "setupapi" "impl-default" "impl-debug" "guiddef" "handleapi" "physicalmonitorenumerationapi"))) (d #t) (k 0)) (d (n "winit") (r "^0.24.0") (d #t) (k 2)))) (h "1dzlzh3bbxazvbcxs1c6lalarl9z7zmvzfvbry2bnsw03xy99mg3")))
+

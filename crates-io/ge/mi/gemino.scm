@@ -1,0 +1,16 @@
+(define-module (crates-io ge mi gemino) #:use-module (crates-io))
+
+(define-public crate-gemino-0.1.0 (c (n "gemino") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "175an1blgly42wvkghdniaffav786yh651bxw571jg77psi9482a")))
+
+(define-public crate-gemino-0.2.0 (c (n "gemino") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1p1g1gkq48qfr0baz3iac9xfhld1zf91jdr0ivx2kbnv3y8npdl4")))
+
+(define-public crate-gemino-0.3.0 (c (n "gemino") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0iiz97lyw5g75ldpsdb5c4i55ccwn7m9iq1gblj1b7jnf7ma181l")))
+
+(define-public crate-gemino-0.4.0 (c (n "gemino") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "17j1d4ni86i2l3jjwhk0wcds234wlm87x59zijlmxm59hqnc6xz7") (f (quote (("default" "clone") ("clone" "parking_lot"))))))
+
+(define-public crate-gemino-0.5.0 (c (n "gemino") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0wkjnjyv9zyiiaaly40nzq5nn0d55jknmk1dkjjg1i2828xvicks")))
+
+(define-public crate-gemino-0.6.0 (c (n "gemino") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0cfyji3kn3b23in0pjskqnp5gggl70h55np8j145jm93crhzhnsm")))
+
+(define-public crate-gemino-0.7.0 (c (n "gemino") (v "0.7.0") (d (list (d (n "event-listener") (r "^2.5") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1q6rkkb7yzp0fxrdksq3s9gh53x0bi3p8pv5czzyrlnhdc3fk8d5")))
+

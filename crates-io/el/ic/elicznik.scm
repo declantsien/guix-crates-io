@@ -1,0 +1,4 @@
+(define-module (crates-io el ic elicznik) #:use-module (crates-io))
+
+(define-public crate-elicznik-0.1.0 (c (n "elicznik") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.11") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "openssl") (r "0.10.*") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "postgres") (r "0.19.*") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)) (d (n "postgres-openssl") (r "^0.5.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("cookies"))) (d #t) (k 0)) (d (n "rust-ini") (r "^0.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.11.2") (f (quote ("paris" "ansi_term"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0bvkfn1x420kncq70l2qpv5wvcrqnp8qpnd8p8y6fyibwh2gvplx")))
+

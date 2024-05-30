@@ -1,0 +1,8 @@
+(define-module (crates-io st al stalkerware-indicators) #:use-module (crates-io))
+
+(define-public crate-stalkerware-indicators-0.1.0 (c (n "stalkerware-indicators") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clap") (r "^3.1.13") (f (quote ("derive"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)))) (h "0bpp8s8j2j5a334f7hapbkpp8320kjs8q711p4jdbv0pdbdlyr23")))
+
+(define-public crate-stalkerware-indicators-0.1.1 (c (n "stalkerware-indicators") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clap") (r "^3.1.13") (f (quote ("derive"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)))) (h "0vsva40p6gcjs21h205khdgqvmi5dg0sc6xx2qlkj3x1cszg77my")))
+
+(define-public crate-stalkerware-indicators-0.2.0 (c (n "stalkerware-indicators") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)))) (h "0z5wmzyc8pnljakm8ga6alcx80a1g8y84wisz39gh478y66y59nm")))
+

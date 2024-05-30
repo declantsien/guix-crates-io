@@ -1,0 +1,8 @@
+(define-module (crates-io bu bb bubblegum-cli-rs) #:use-module (crates-io))
+
+(define-public crate-bubblegum-cli-rs-1.0.0 (c (n "bubblegum-cli-rs") (v "1.0.0") (d (list (d (n "chashmap") (r "^2.2.2") (d #t) (k 0)) (d (n "dot_parse") (r "^0.2.0") (d #t) (k 0)) (d (n "httparse") (r "^1.7.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num_cpus") (r "^0.2") (d #t) (k 0)) (d (n "queues") (r "^1.1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)) (d (n "tungstenite") (r "^0.17.2") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0jsxz8psssxfqyl5m7v75rf4s2ppv6r2arlxlzwlsnh8av3fwsc8")))
+
+(define-public crate-bubblegum-cli-rs-1.0.1 (c (n "bubblegum-cli-rs") (v "1.0.1") (d (list (d (n "chashmap") (r "^2.2.2") (d #t) (k 0)) (d (n "dot_parse") (r "^0.2.0") (d #t) (k 0)) (d (n "httparse") (r "^1.7.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num_cpus") (r "^0.2") (d #t) (k 0)) (d (n "queues") (r "^1.1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)) (d (n "tungstenite") (r "^0.17.2") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0bvwg79zhrn9ix4n0pbr9b5w2dm1xxmicq16lvlqnlmv973qfmgg")))
+
+(define-public crate-bubblegum-cli-rs-1.0.2 (c (n "bubblegum-cli-rs") (v "1.0.2") (d (list (d (n "chashmap") (r "^2.2.2") (d #t) (k 0)) (d (n "dot_parse") (r "^0.2.0") (d #t) (k 0)) (d (n "httparse") (r "^1.7.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num_cpus") (r "^0.2") (d #t) (k 0)) (d (n "queues") (r "^1.1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8.1") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1gnw1ngklrskp2y0kp1lf5mpnd96sd2hhd8488q5bm9llcacvj8x")))
+

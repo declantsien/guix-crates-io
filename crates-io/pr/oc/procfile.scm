@@ -1,0 +1,8 @@
+(define-module (crates-io pr oc procfile) #:use-module (crates-io))
+
+(define-public crate-procfile-0.1.0 (c (n "procfile") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "dashmap") (r "^5.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1qmwij7ixbb57ygaala41qf6a8damyakbmil3rglgdyi5lvrndsw") (f (quote (("default" "rayon")))) (s 2) (e (quote (("serde" "dep:serde" "dashmap/serde") ("rayon" "dep:rayon" "dashmap/rayon"))))))
+
+(define-public crate-procfile-0.2.0 (c (n "procfile") (v "0.2.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "dashmap") (r "^5.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1hw2390k86r18gybj0r4limr0fqgnpbcpd09pck1299bl6n213hh") (f (quote (("default" "rayon")))) (s 2) (e (quote (("serde" "dep:serde" "dashmap/serde") ("rayon" "dep:rayon" "dashmap/rayon"))))))
+
+(define-public crate-procfile-0.2.1 (c (n "procfile") (v "0.2.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "dashmap") (r "^5.3.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "14nd0b1qfnhrdgyscvv1ib5j6kv7zyd82v048zggxrsh1m42i354") (f (quote (("default" "rayon")))) (s 2) (e (quote (("serde" "dep:serde" "dashmap/serde") ("rayon" "dep:rayon" "dashmap/rayon"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io bo mb bomboni_wasm_core) #:use-module (crates-io))
+
+(define-public crate-bomboni_wasm_core-0.1.54 (c (n "bomboni_wasm_core") (v "0.1.54") (d (list (d (n "bomboni_core") (r "^0.1.54") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.76") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)))) (h "1jfzfpyvy2czkkm4h9ngm0yb6khy1l6shd2jblxvc9bbbn5qbpc5") (f (quote (("js"))))))
+
+(define-public crate-bomboni_wasm_core-0.1.55 (c (n "bomboni_wasm_core") (v "0.1.55") (d (list (d (n "bomboni_core") (r "^0.1.55") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)))) (h "0jpcgn8xnimnvlkpk9jmil8hq4sfxb2zn40vh4bi5n0nfc34fdgq") (f (quote (("js"))))))
+
+(define-public crate-bomboni_wasm_core-0.1.56 (c (n "bomboni_wasm_core") (v "0.1.56") (d (list (d (n "bomboni_core") (r "^0.1.56") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.83") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "0wi42f0c5jki43pdx009wk56l1kfabidd6fpc17qzm1c1dr1gxax") (f (quote (("js"))))))
+

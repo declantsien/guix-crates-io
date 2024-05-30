@@ -1,0 +1,4 @@
+(define-module (crates-io li bw libworker) #:use-module (crates-io))
+
+(define-public crate-libworker-0.0.1 (c (n "libworker") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.50") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (k 0)) (d (n "chrono-tz") (r "^0.4") (k 0)) (d (n "edgeworker-sys") (r "^0.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.16") (d #t) (k 0)) (d (n "http") (r "^0.2.4") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.53") (d #t) (k 0)) (d (n "matchit") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.76") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.24") (d #t) (k 0)) (d (n "worker-kv") (r "^0.3.0") (d #t) (k 0)))) (h "0cy45xsgya41ripywwwk3m6hhzhcmzb2v7zyv60xrjhaan5ih6ib") (y #t)))
+

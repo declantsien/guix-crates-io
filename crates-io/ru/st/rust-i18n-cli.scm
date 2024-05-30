@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust-i18n-cli) #:use-module (crates-io))
+
+(define-public crate-rust-i18n-cli-2.3.0 (c (n "rust-i18n-cli") (v "2.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.1.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rust-i18n-extract") (r "^2.3.0") (d #t) (k 0)) (d (n "rust-i18n-support") (r "^2.3.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)))) (h "1n7vy5xx1gsjg0nv6a4yk026zcy0385md16pr3flxkj57vz7pfxc")))
+
+(define-public crate-rust-i18n-cli-2.4.0 (c (n "rust-i18n-cli") (v "2.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.1.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rust-i18n-extract") (r "^2.4.0") (d #t) (k 0)) (d (n "rust-i18n-support") (r "^2.4.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)))) (h "09k6kpvrvlz7i4v1f2bwb6zz7gdgsar2f4js5pqxd027nyjqh13d") (y #t)))
+
+(define-public crate-rust-i18n-cli-3.0.0 (c (n "rust-i18n-cli") (v "3.0.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.1.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rust-i18n-extract") (r "^3.0.0") (d #t) (k 0)) (d (n "rust-i18n-support") (r "^3.0.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)))) (h "079a8yba2m8c2vqi3gsc99f9pk3cnbfbamqw0nmgqmcdd630vagg")))
+

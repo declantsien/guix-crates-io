@@ -1,0 +1,4 @@
+(define-module (crates-io vi v_ viv_shell_gpt) #:use-module (crates-io))
+
+(define-public crate-viv_shell_gpt-0.1.0 (c (n "viv_shell_gpt") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "eventsource-stream") (r "^0.2.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("rustls-tls" "json" "stream"))) (k 0)) (d (n "schemars") (r "^0.8.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0h4dprwrm5hpd43gvvb07bgjradh5fj53w509bgrq0r35afxxn8k")))
+

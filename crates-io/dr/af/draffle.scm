@@ -1,0 +1,4 @@
+(define-module (crates-io dr af draffle) #:use-module (crates-io))
+
+(define-public crate-draffle-0.1.0 (c (n "draffle") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.17.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.17.0") (d #t) (k 0)) (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "bytemuck") (r "^1.4.0") (d #t) (k 2)) (d (n "solana-program-test") (r "^1.7.11") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.7.11") (d #t) (k 2)) (d (n "spl-associated-token-account") (r "^1.0.2") (f (quote ("no-entrypoint"))) (d #t) (k 2)) (d (n "spl-token") (r "^3.1.1") (f (quote ("no-entrypoint"))) (d #t) (k 2)))) (h "0av1kn3da1bfs9r7i4hq41281vgrx2jiy1cwcmb31qpjbrmkksk5") (f (quote (("production") ("no-idl") ("no-entrypoint") ("default" "production") ("cpi" "no-entrypoint"))))))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io bt re btree-slab) #:use-module (crates-io))
+
+(define-public crate-btree-slab-0.1.1 (c (n "btree-slab") (v "0.1.1") (d (list (d (n "cc-traits") (r "^0.3") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "staticvec") (r "^0.10") (d #t) (k 0)))) (h "00r6cgp4yqhffxhcdhccac5f0g3y5jpg8adrqd2v5par8nxk5wxa") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab" "dot"))))))
+
+(define-public crate-btree-slab-0.2.0 (c (n "btree-slab") (v "0.2.0") (d (list (d (n "cc-traits") (r "^0.4") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "staticvec") (r "^0.10") (d #t) (k 0)))) (h "04cpfzrwkri0c0ra0rbxxggpmhw145cwhs7izvh61k47v9cjs7dy") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.2.1 (c (n "btree-slab") (v "0.2.1") (d (list (d (n "cc-traits") (r "^0.4") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.6") (d #t) (k 0)))) (h "01wkks2n2gxns18v72krm6mlz5vmvsnzryrncz1isimg55qjmfk9") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.3.0 (c (n "btree-slab") (v "0.3.0") (d (list (d (n "cc-traits") (r "^0.7.3") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)))) (h "1wq9vvdycdq8flvbn4q5d7q9nwqgsm5yw1zmifqfw9mwpr8zp0dl") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.4.0 (c (n "btree-slab") (v "0.4.0") (d (list (d (n "cc-traits") (r "^0.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)))) (h "0zsh0n9b872xwl17937ccwg4wrw45z3i5gi5kqakmi3g8jddkmgn") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.5.0 (c (n "btree-slab") (v "0.5.0") (d (list (d (n "cc-traits") (r "^0.8.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)))) (h "02qjh3hjhbwlkhgh4hh4lg985pwnhjvvzk2jsj2ssyh397zavj19") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.5.1 (c (n "btree-slab") (v "0.5.1") (d (list (d (n "cc-traits") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)))) (h "11pcl8p7d8kabd8p6r2zjl9lcx9mbn3ci2k6bwqsw6viy6ymxlfb") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.6.0 (c (n "btree-slab") (v "0.6.0") (d (list (d (n "cc-traits") (r "^2.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)))) (h "03r5hwvrhzyg4nlfrnn2m2dbmgx1l8d87jwx2n65br7lpm5mab3v") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+
+(define-public crate-btree-slab-0.6.1 (c (n "btree-slab") (v "0.6.1") (d (list (d (n "cc-traits") (r "^2.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "slab") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "smallvec") (r "^1.8.0") (d #t) (k 0)))) (h "0g7imqbf9v1p643m9bl9bkpnrf15hh4qlhljm17mq1wz0b9mcavs") (f (quote (("std-slab" "slab" "cc-traits/slab") ("dot") ("default" "std-slab"))))))
+

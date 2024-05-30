@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# i ire) #:use-module (crates-io))
+
+(define-public crate-ire-0.0.1 (c (n "ire") (v "0.0.1") (d (list (d (n "aesti") (r "^0.3") (d #t) (k 0)) (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.26") (d #t) (k 0)) (d (n "cookie-factory") (r "^0.2") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 0)) (d (n "flate2") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "nom") (r "^3.2") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "sha2") (r "^0.6") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)))) (h "040038zj5a06iqym2jsy8gjmakxp35n33b5mj7d2cqlhra1h6hgd")))
+

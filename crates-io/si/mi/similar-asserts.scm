@@ -1,0 +1,18 @@
+(define-module (crates-io si mi similar-asserts) #:use-module (crates-io))
+
+(define-public crate-similar-asserts-1.0.0 (c (n "similar-asserts") (v "1.0.0") (d (list (d (n "console") (r "^0.14.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^1.3.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "0w5ri659h6v7w0dmsf0r0mmxsank43nrimwh6b4i8lsr0zc3xid5") (f (quote (("unicode" "similar/unicode") ("default" "unicode"))))))
+
+(define-public crate-similar-asserts-1.1.0 (c (n "similar-asserts") (v "1.1.0") (d (list (d (n "console") (r "^0.14.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^1.3.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "0ndmxjx7y7rmxqzs9d1bravwbvzv8016s7q5mrmilrygqwhd2sjf") (f (quote (("unicode" "similar/unicode") ("default" "unicode"))))))
+
+(define-public crate-similar-asserts-1.2.0 (c (n "similar-asserts") (v "1.2.0") (d (list (d (n "console") (r "^0.15.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^2.1.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "1789db0fm85p4zvy44b2jwdjgw6h2b51bi133kak2l1pl8qzbjb4") (f (quote (("unicode" "similar/unicode") ("default" "unicode"))))))
+
+(define-public crate-similar-asserts-1.3.0 (c (n "similar-asserts") (v "1.3.0") (d (list (d (n "console") (r "^0.15.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^2.2.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "0yzxkf063lry90j3pqw917hnhrvbiwsbi697qz5dxz984lc5kzqn") (f (quote (("unicode" "similar/unicode") ("default" "unicode"))))))
+
+(define-public crate-similar-asserts-1.4.0 (c (n "similar-asserts") (v "1.4.0") (d (list (d (n "console") (r "^0.15.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^2.2.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "1hpnx8adhizwjllq16j2i6rk96ciz111irf28cs8aymiv6fsndsn") (f (quote (("unicode" "similar/unicode") ("default" "unicode"))))))
+
+(define-public crate-similar-asserts-1.4.1 (c (n "similar-asserts") (v "1.4.1") (d (list (d (n "console") (r "^0.15.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^2.2.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "120qcv1dzplyfy9i91n5hra8ncp2kybmph0v633pzzafhazqffz0") (f (quote (("unicode" "similar/unicode") ("default" "unicode")))) (r "1.41.0")))
+
+(define-public crate-similar-asserts-1.4.2 (c (n "similar-asserts") (v "1.4.2") (d (list (d (n "console") (r "^0.15.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^2.2.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "060gzblmwpfcfxx7qh9yh2yaarldrdfkajm306gi4xbb06nl9xmv") (f (quote (("unicode" "similar/unicode") ("default" "unicode")))) (r "1.41.0")))
+
+(define-public crate-similar-asserts-1.5.0 (c (n "similar-asserts") (v "1.5.0") (d (list (d (n "console") (r "^0.15.0") (k 0)) (d (n "serde") (r "^1.0.123") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 2)) (d (n "similar") (r "^2.2.0") (f (quote ("inline"))) (d #t) (k 0)))) (h "03zwg4vy2c258v8sa13snfpz22akcqdxa49l467s3z0vgn1bnhg0") (f (quote (("unicode" "similar/unicode") ("default" "unicode")))) (r "1.46.0")))
+

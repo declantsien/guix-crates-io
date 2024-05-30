@@ -1,0 +1,4 @@
+(define-module (crates-io tr op tropobase_configuration) #:use-module (crates-io))
+
+(define-public crate-tropobase_configuration-0.1.0 (c (n "tropobase_configuration") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 1)) (d (n "schemars") (r "^0.8.16") (d #t) (k 0)) (d (n "schemars") (r "^0.8.16") (d #t) (k 1)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 1)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 2)) (d (n "validator") (r "^0.16.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "validator") (r "^0.16.1") (f (quote ("derive"))) (d #t) (k 1)))) (h "0n4vky6v56v45423k0kr4ks002cirr6mwsm49q5wkmnjnjh0j2ic") (f (quote (("postgres") ("default" "postgres")))) (y #t)))
+

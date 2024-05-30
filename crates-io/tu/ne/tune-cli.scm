@@ -1,0 +1,56 @@
+(define-module (crates-io tu ne tune-cli) #:use-module (crates-io))
+
+(define-public crate-tune-cli-0.7.0 (c (n "tune-cli") (v "0.7.0") (d (list (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.7.0") (d #t) (k 0)))) (h "06nkzw5hpjl4x641mzfk23w2ckb4x2akvhvx3dw5g1gw507l4rzr")))
+
+(define-public crate-tune-cli-0.8.0 (c (n "tune-cli") (v "0.8.0") (d (list (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.9.0") (d #t) (k 0)))) (h "1m6nf423yqdg61lni8ly2p6jgds0y5jb89y205n77dq152h02djv")))
+
+(define-public crate-tune-cli-0.9.0 (c (n "tune-cli") (v "0.9.0") (d (list (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.10.0") (d #t) (k 0)))) (h "1khflbql9b64mj0zm048dis7cn0j06ms7jx7a2xhl0qpqh9is0fp")))
+
+(define-public crate-tune-cli-0.10.0 (c (n "tune-cli") (v "0.10.0") (d (list (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.13.0") (d #t) (k 0)))) (h "1bklbj15k3dp72gmx9v8x3q6plmy2wnk56l5d72yd0iajcx432vm")))
+
+(define-public crate-tune-cli-0.11.0 (c (n "tune-cli") (v "0.11.0") (d (list (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.14.0") (d #t) (k 0)))) (h "1mczf7gzxiac386ndy3a5nxry9dnbm95pg52i6pas7lg21klis7i")))
+
+(define-public crate-tune-cli-0.12.0 (c (n "tune-cli") (v "0.12.0") (d (list (d (n "midir") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.15.0") (d #t) (k 0)))) (h "0jb9l95q1spw3rxwh1hmvvddms6as4caywfq0qwyagsc0adzlq0m")))
+
+(define-public crate-tune-cli-0.13.0 (c (n "tune-cli") (v "0.13.0") (d (list (d (n "midir") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.16.0") (d #t) (k 0)))) (h "1xr2c7xlh8dnjzkkv8gd8ls584jpmjyflq9zhdi1kjjgn6cr1mbx")))
+
+(define-public crate-tune-cli-0.14.0 (c (n "tune-cli") (v "0.14.0") (d (list (d (n "midir") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.17.0") (d #t) (k 0)))) (h "16xhaa0llc92li8rsws0y8rjnpr2cah6bksfjk6i6h4pzq6zjfvb")))
+
+(define-public crate-tune-cli-0.14.1 (c (n "tune-cli") (v "0.14.1") (d (list (d (n "midir") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.18.0") (d #t) (k 0)))) (h "1296cj53jy216ygyfnml5hwijgbkj1kzy04pz523sp9b77j5nhzr")))
+
+(define-public crate-tune-cli-0.14.2 (c (n "tune-cli") (v "0.14.2") (d (list (d (n "midir") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.19.0") (d #t) (k 0)))) (h "1srf5zd2i9vplkcy069qhjm9ylj7a9q46yd2slwygc8991qgxrbq")))
+
+(define-public crate-tune-cli-0.14.3 (c (n "tune-cli") (v "0.14.3") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.19.0") (d #t) (k 0)))) (h "0lvzblsjpyac28bsy3lnfhdw4v1k34ny9r4w8gh3d6iajpkqxqfd")))
+
+(define-public crate-tune-cli-0.15.0 (c (n "tune-cli") (v "0.15.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.21.0") (d #t) (k 0)))) (h "1q4nhf0gin0176mgvaap38hzssf3wkdl0hrn9lkdn7lgbpmhn2ig")))
+
+(define-public crate-tune-cli-0.16.0 (c (n "tune-cli") (v "0.16.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.21.1") (d #t) (k 0)))) (h "1v12cp11107kkhnxhfv8wsbnmyhmnhja1hhdrqvk95vfrds0f9mh")))
+
+(define-public crate-tune-cli-0.17.0 (c (n "tune-cli") (v "0.17.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.22.0") (d #t) (k 0)))) (h "1pza92b9skk7s2xi0m0fk3yzmnc2j6a1xkbhjr6sxl17xsvkp3fx")))
+
+(define-public crate-tune-cli-0.18.0 (c (n "tune-cli") (v "0.18.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.23.0") (d #t) (k 0)))) (h "0gl3zz6z43x42590wj9pvnjaklc14g098z1rlimw859zp9z0mivm")))
+
+(define-public crate-tune-cli-0.18.1 (c (n "tune-cli") (v "0.18.1") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.24.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.69") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.17.3") (o #t) (d #t) (k 0)))) (h "03xaz5n4sdnn57bp7ml9lh6xg8x91cdilrydbx2a13h61napbzrw") (f (quote (("build-tune-web" "wasm-bindgen" "yew"))))))
+
+(define-public crate-tune-cli-0.19.0 (c (n "tune-cli") (v "0.19.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.25.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.69") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.17.3") (o #t) (d #t) (k 0)))) (h "0l48m58qk24m1rgjlnkgpc2526w59nhg82m1nrxxkgsjsgdprr7v") (f (quote (("build-tune-web" "wasm-bindgen" "yew"))))))
+
+(define-public crate-tune-cli-0.20.0 (c (n "tune-cli") (v "0.20.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.26.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.69") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.17.3") (o #t) (d #t) (k 0)))) (h "1gcnfg5cydbfr4lc4qnf3jyv1hhlp5m22a15a98dzks0i53mx3aq") (f (quote (("build-tune-web" "wasm-bindgen" "yew"))))))
+
+(define-public crate-tune-cli-0.21.0 (c (n "tune-cli") (v "0.21.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.27.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.69") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.17.3") (o #t) (d #t) (k 0)))) (h "0n4vs43383nyygyqdpir311n29v19z6cnrqqpg061nqcgzq654lc") (f (quote (("build-tune-web" "wasm-bindgen" "yew"))))))
+
+(define-public crate-tune-cli-0.22.0 (c (n "tune-cli") (v "0.22.0") (d (list (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "structopt") (r "^0.3.13") (d #t) (k 0)) (d (n "tune") (r "^0.28.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.69") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.17.3") (o #t) (d #t) (k 0)))) (h "1dadnks8azcnmflcdnl84wyrfnyi9anq3fgxmqfy8qwq4yr8hnca") (f (quote (("build-tune-web" "wasm-bindgen" "yew")))) (r "1.56")))
+
+(define-public crate-tune-cli-0.23.0 (c (n "tune-cli") (v "0.23.0") (d (list (d (n "clap") (r "^3.0.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.29.0") (d #t) (k 0)))) (h "068nyrvx76iicbxcdxcvhjv3vs67g4d8j0yp1j411rr5mplx3mdm") (r "1.56")))
+
+(define-public crate-tune-cli-0.23.1 (c (n "tune-cli") (v "0.23.1") (d (list (d (n "clap") (r "^3.0.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.30.0") (d #t) (k 0)))) (h "0qlsp8s3d3cdvmis0psgfyjz6pdly2qn1x9900b5mdbmbd3kphb0") (r "1.56")))
+
+(define-public crate-tune-cli-0.24.0 (c (n "tune-cli") (v "0.24.0") (d (list (d (n "clap") (r "^3.0.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.31.0") (d #t) (k 0)))) (h "037d5jjp8zvcx4r0wy7xfisy17fn1r10k34w0g7nw9ss48v7f4pr") (r "1.61")))
+
+(define-public crate-tune-cli-0.25.0 (c (n "tune-cli") (v "0.25.0") (d (list (d (n "clap") (r "^3.0.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.32.0") (d #t) (k 0)))) (h "1xpf9n08gn31q5n4y0q09s5rqa7l6s69f5b93by580jajhc05959") (r "1.61")))
+
+(define-public crate-tune-cli-0.25.1 (c (n "tune-cli") (v "0.25.1") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.32.1") (d #t) (k 0)))) (h "0lacsqvilxnd2avi14bs439c38mi9cc20khhfb9izphknhb0191p") (r "1.61")))
+
+(define-public crate-tune-cli-0.26.0 (c (n "tune-cli") (v "0.26.0") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.33.0") (d #t) (k 0)))) (h "14am2lsz6rxkams7bg5qaia8bmmgsfk916qmk0xzq54j65avnq36") (r "1.61")))
+
+(define-public crate-tune-cli-0.27.0 (c (n "tune-cli") (v "0.27.0") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "midir") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.16") (d #t) (k 0)) (d (n "tune") (r "^0.34.0") (d #t) (k 0)))) (h "19ph1lq0x34fdjyqkv2hh9f11vbch59rhyrbya31rmkd00jlkjri") (r "1.66")))
+

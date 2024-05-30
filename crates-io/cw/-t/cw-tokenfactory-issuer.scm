@@ -1,0 +1,4 @@
+(define-module (crates-io cw -t cw-tokenfactory-issuer) #:use-module (crates-io))
+
+(define-public crate-cw-tokenfactory-issuer-2.3.0 (c (n "cw-tokenfactory-issuer") (v "2.3.0") (d (list (d (n "cosmwasm-schema") (r "^1.2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^1.2") (d #t) (k 0)) (d (n "cw-ownable") (r "^0.5") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1") (d #t) (k 0)) (d (n "cw2") (r "^1.1") (d #t) (k 0)) (d (n "osmosis-std") (r "^0.19.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "token-bindings") (r "^0.11.0") (d #t) (k 0)))) (h "0wnyc90j7nxj589kx6cj67qsxvvgxx65jwn9hws0g2kc5jxy63l5") (f (quote (("test-tube") ("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

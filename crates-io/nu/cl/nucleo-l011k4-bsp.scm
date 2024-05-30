@@ -1,0 +1,6 @@
+(define-module (crates-io nu cl nucleo-l011k4-bsp) #:use-module (crates-io))
+
+(define-public crate-nucleo-l011k4-bsp-0.1.1 (c (n "nucleo-l011k4-bsp") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.5.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.4") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 0)) (d (n "stm32l0x1") (r "^0.13") (d #t) (k 0)) (d (n "stm32l0x1-hal") (r "^0.7") (f (quote ("STM32L011x4" "rt"))) (d #t) (k 0)))) (h "01s9s1iqivmjslnzrcy4yjp5aq246094jprkmskjxsik33gm2zv9")))
+
+(define-public crate-nucleo-l011k4-bsp-0.2.0 (c (n "nucleo-l011k4-bsp") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.6.3") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.12") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "flash-embedded-hal") (r "^0") (d #t) (k 0)) (d (n "nb") (r "^1.0") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 0)) (d (n "stm32l0") (r "^0.11.0") (f (quote ("stm32l0x1" "rt"))) (d #t) (k 0)) (d (n "stm32l0x1-hal") (r "^0.9") (f (quote ("STM32L011x4" "rt"))) (d #t) (k 0)))) (h "0gcj4483l3r4ck0lz25bn4wjcxnk5slx2ly55jz6gk6ydnmnrks0")))
+

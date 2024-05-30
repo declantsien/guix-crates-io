@@ -1,0 +1,6 @@
+(define-module (crates-io he ro herokuru) #:use-module (crates-io))
+
+(define-public crate-herokuru-0.0.1 (c (n "herokuru") (v "0.0.1") (d (list (d (n "chrono") (r ">=0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r ">=0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r ">=1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r ">=1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "time"))) (k 2)) (d (n "url") (r ">=2.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1jhmq8jl8lwfsd5li4cikdk9yf1hx5qrq6b4w3pdyfc29j65zh5q") (f (quote (("rustls" "reqwest/rustls-tls") ("default" "reqwest/native-tls"))))))
+
+(define-public crate-herokuru-0.1.1 (c (n "herokuru") (v "0.1.1") (d (list (d (n "chrono") (r ">=0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "reqwest") (r ">=0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r ">=1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r ">=1.0") (d #t) (k 0)) (d (n "snafu") (r "^0.6.10") (f (quote ("backtraces"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "time"))) (k 2)) (d (n "url") (r ">=2.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1w3gz5r3l9dh07qnijvhnqbpzsgigc89c9g5a0d74i6s2fclbcp0") (f (quote (("rustls" "reqwest/rustls-tls") ("default" "reqwest/native-tls"))))))
+

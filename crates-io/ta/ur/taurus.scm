@@ -1,0 +1,6 @@
+(define-module (crates-io ta ur taurus) #:use-module (crates-io))
+
+(define-public crate-taurus-0.1.0 (c (n "taurus") (v "0.1.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "flame") (r "^0.1.9") (o #t) (d #t) (k 0)) (d (n "flamer") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "over") (r "^0.6.4") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "tcod") (r "^0.13") (d #t) (k 0)))) (h "1fij8bq1n1mzyc5v3dhgyn92jkc4x2s0c228yqml6iqvr47mx5vw") (f (quote (("dev" "flame" "flamer") ("default"))))))
+
+(define-public crate-taurus-0.1.1 (c (n "taurus") (v "0.1.1") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "flame") (r "^0.1.9") (o #t) (d #t) (k 0)) (d (n "flamer") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "over") (r "^0.6.4") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "tcod") (r "^0.13") (d #t) (k 0)))) (h "1h74m4cgsafbgaz79grfvwl2v5vfscj34fv00hyzbxdafvwxsiwp") (f (quote (("dev" "flame" "flamer") ("default"))))))
+

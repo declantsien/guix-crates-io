@@ -1,0 +1,4 @@
+(define-module (crates-io da ch dachannel-server) #:use-module (crates-io))
+
+(define-public crate-dachannel-server-0.1.0 (c (n "dachannel-server") (v "0.1.0") (d (list (d (n "async-channel") (r "^2") (d #t) (k 0)) (d (n "axum") (r "^0.7") (d #t) (k 0)) (d (n "dachannel") (r "^0.2") (d #t) (k 0)) (d (n "datachannel-facade") (r "^0.2") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "hyper-util") (r "^0.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("io"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.5") (f (quote ("cors" "limit"))) (d #t) (k 0)))) (h "1xkqya17w3jkmxw9q7admn0yfclhr3nls66n8wgvj9g5mywny7s3")))
+

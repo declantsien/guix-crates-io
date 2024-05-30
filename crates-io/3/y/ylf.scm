@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# y ylf) #:use-module (crates-io))
+
+(define-public crate-ylf-0.0.1 (c (n "ylf") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "1l3ywpk5cpwxr16iyi53fjzkqsc60fvax05mkx35nrfcxhmml5ar")))
+
+(define-public crate-ylf-0.0.2 (c (n "ylf") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.3.11") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "02xmcrkk7rgxggskqfy8dbq6g0li3b7zd8dsz034d8fz3ksnsvmx")))
+
+(define-public crate-ylf-0.0.3 (c (n "ylf") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.3.11") (f (quote ("derive" "cargo" "env"))) (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "0n2pxyb4rqx05m39vpnr36a42v7cz6m0q8vipmrwn8ljjny7gvxc")))
+

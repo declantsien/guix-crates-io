@@ -1,0 +1,4 @@
+(define-module (crates-io sp of spofy-core) #:use-module (crates-io))
+
+(define-public crate-spofy-core-0.1.0 (c (n "spofy-core") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.13.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.26") (d #t) (k 0)) (d (n "hyper") (r "^0.12.27") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.3.2") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (d #t) (k 0)) (d (n "serde-value") (r "^0.5.3") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.90") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "tokio") (r "^0.1.18") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)))) (h "07ls8gy5g77ixlj7zswhi9xbx0y221r0ar1y6zf93szkpx3nxy40")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io st re streamfly) #:use-module (crates-io))
+
+(define-public crate-streamfly-0.1.0 (c (n "streamfly") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-channel") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nanoid") (r "^0.4") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "s2n-quic") (r "^1") (f (quote ("unstable-provider-datagram"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1v11y9xihwmvglz2vnjyc1ihlcxpry6s8jplkpz46c85qvi6gdhz")))
+

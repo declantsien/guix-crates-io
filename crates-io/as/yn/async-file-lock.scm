@@ -1,0 +1,12 @@
+(define-module (crates-io as yn async-file-lock) #:use-module (crates-io))
+
+(define-public crate-async-file-lock-0.1.0 (c (n "async-file-lock") (v "0.1.0") (d (list (d (n "fork") (r "^0.1.18") (d #t) (k 2)) (d (n "fs3") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "blocking" "rt-core"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "0dc3vck0h0xrbv0c5z8fbwa7hfrfi9gxszlp4nljk963c3yql7iq")))
+
+(define-public crate-async-file-lock-0.1.1 (c (n "async-file-lock") (v "0.1.1") (d (list (d (n "fork") (r "^0.1.18") (d #t) (k 2)) (d (n "fs3") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "blocking" "rt-core"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "05z2hlick6z8ig7klldqx4rw2qlhwc30949wppm4d85c0wwq53v8")))
+
+(define-public crate-async-file-lock-0.1.2 (c (n "async-file-lock") (v "0.1.2") (d (list (d (n "fork") (r "^0.1.18") (d #t) (k 2)) (d (n "fs3") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "blocking" "rt-core"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "0hd05yi0daa3dc9a72zn5hg3yd6h19kf1dlv4q5y20vn5bzqwxal")))
+
+(define-public crate-async-file-lock-0.1.3 (c (n "async-file-lock") (v "0.1.3") (d (list (d (n "fork") (r "^0.1.18") (d #t) (k 2)) (d (n "fs3") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "blocking" "rt-core"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "09pkqnnaa1qm8v1hkq2zwnrl7pfvlc3an10ww0xrz8nbs517akf1")))
+
+(define-public crate-async-file-lock-0.1.4 (c (n "async-file-lock") (v "0.1.4") (d (list (d (n "fork") (r "^0.1.18") (d #t) (k 2)) (d (n "fs3") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "tokio") (r "^0.2") (f (quote ("fs" "blocking" "rt-core"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "1xa7j7bvw9byxmng6fxz4ikfkjpkxaq53y6fq3c0a66y3l7z1rf1")))
+

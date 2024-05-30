@@ -1,0 +1,4 @@
+(define-module (crates-io va de vade-signer) #:use-module (crates-io))
+
+(define-public crate-vade-signer-0.0.1 (c (n "vade-signer") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.31") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.3.5") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json" "default-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (f (quote ("preserve_order" "raw_value"))) (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "tokio") (r "=1.7.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "171axgfid6rsi3vpli8z5c3y3icjb2sl54c9jvb87ay3h758861j")))
+

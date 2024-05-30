@@ -1,0 +1,8 @@
+(define-module (crates-io sl og slog_derive) #:use-module (crates-io))
+
+(define-public crate-slog_derive-0.1.0 (c (n "slog_derive") (v "0.1.0") (d (list (d (n "erased-serde") (r "^0.3.3") (d #t) (k 2)) (d (n "quote") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "slog") (r "^2.1.0") (f (quote ("nested-values"))) (d #t) (k 2)) (d (n "slog-term") (r "^2.3.0") (d #t) (k 2)) (d (n "syn") (r "^0.12.12") (f (quote ("visit" "extra-traits"))) (d #t) (k 0)))) (h "1wrf4ypslc5rcplaxh7ap4448phzfsj10c3wz1xhw0k65khv32x3")))
+
+(define-public crate-slog_derive-0.1.1 (c (n "slog_derive") (v "0.1.1") (d (list (d (n "erased-serde") (r "^0.3.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4.20") (d #t) (k 0)) (d (n "quote") (r "^0.6.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.27") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.27") (d #t) (k 2)) (d (n "slog") (r "^2.1.0") (f (quote ("nested-values"))) (d #t) (k 2)) (d (n "slog-term") (r "^2.3.0") (d #t) (k 2)) (d (n "syn") (r "^0.15") (f (quote ("visit" "extra-traits"))) (d #t) (k 0)))) (h "13xr64gcnyxxrsrjnwl5anqcbv9bqwnibfhs1skd3q7j7i8kpzwy")))
+
+(define-public crate-slog_derive-0.2.0 (c (n "slog_derive") (v "0.2.0") (d (list (d (n "erased-serde") (r "^0.3.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "slog") (r "^2.5.0") (f (quote ("nested-values"))) (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("visit" "extra-traits"))) (d #t) (k 0)))) (h "06yi9skms3f3c4sbz4whzy13x979vhkixginzagyhlz8gizyqid9")))
+

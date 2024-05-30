@@ -1,0 +1,28 @@
+(define-module (crates-io in te integrustio) #:use-module (crates-io))
+
+(define-public crate-integrustio-0.1.0 (c (n "integrustio") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.2.1") (d #t) (k 0)) (d (n "glm") (r "^0.2.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "18880l48wqqyjgmd5b03mwdc62nmmr35akjxh55gynr1648hm737")))
+
+(define-public crate-integrustio-0.3.0 (c (n "integrustio") (v "0.3.0") (d (list (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "cryiorust") (r "^0.2.2") (d #t) (k 0)) (d (n "glm") (r "^0.2.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.46") (d #t) (k 0)))) (h "0l2yv0jzfcw9q6fblv5dlvzpnri9hdg99jzvwm2j3w81ghm6dq7l")))
+
+(define-public crate-integrustio-0.3.1 (c (n "integrustio") (v "0.3.1") (d (list (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "cryiorust") (r "^0.2.3") (d #t) (k 0)) (d (n "glm") (r "^0.2.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.46") (d #t) (k 0)))) (h "1s69lsd76b4239idv6y4jlv77yr100laydl0w6c471km5p6pkrwq")))
+
+(define-public crate-integrustio-0.3.2 (c (n "integrustio") (v "0.3.2") (d (list (d (n "criterion") (r "^0.3.1") (d #t) (k 2)) (d (n "cryiorust") (r "^0.2.3") (d #t) (k 0)) (d (n "glm") (r "^0.2.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.46") (d #t) (k 0)))) (h "1cj6244qx4jzi0wl7zmxy4znllr3ncnvci6s174fbm4ii6mfvn8d")))
+
+(define-public crate-integrustio-0.3.3 (c (n "integrustio") (v "0.3.3") (d (list (d (n "criterion") (r "^0.3.2") (d #t) (k 2)) (d (n "cryiorust") (r "^0.3.0") (d #t) (k 0)) (d (n "glm") (r "^0.2.3") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.111") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)))) (h "13yia7jr9czw4pry4h6jvjnkqzbvsr9a24mgpmnqz612zqrpb9rd")))
+
+(define-public crate-integrustio-0.3.4 (c (n "integrustio") (v "0.3.4") (d (list (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.3.0") (d #t) (k 0)) (d (n "glm") (r "^0.2.3") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)))) (h "1yd2qpqnmjrmqdlbqhxr5nd8acc8nc21kx16khkvpgqnh0jnp08k")))
+
+(define-public crate-integrustio-0.4.0 (c (n "integrustio") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.4") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0xcwgmzd8wly0kv0aljp2jsblxkj2l7nmv8b8pzfs0q323kjj178")))
+
+(define-public crate-integrustio-0.4.1 (c (n "integrustio") (v "0.4.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.4") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "04vdacvzkl88z9dzrsijwqajsy963zbgrp9bcpmxdl4bx0shfi7m")))
+
+(define-public crate-integrustio-0.4.2 (c (n "integrustio") (v "0.4.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.4.2") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "09c0j7dk56ag0bxhgvyng4z2whyixbrq343cl133wd91yrm48rdp")))
+
+(define-public crate-integrustio-0.5.0 (c (n "integrustio") (v "0.5.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.5.0") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0ixz3gqlr38bxillbq3rpwb7bp3xm73pjvynm79blsnbbsx5zvma")))
+
+(define-public crate-integrustio-0.5.1 (c (n "integrustio") (v "0.5.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.5.1") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0jb6l351pgdygnbmlf8rqhn4pwj1sslkhg2jhfcz8l4dhha5qrh1")))
+
+(define-public crate-integrustio-0.6.0 (c (n "integrustio") (v "0.6.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.6.0") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "042fnb90d9cw3q181ra11krhsbnhk058fv7dw1hngl6i947vj71g")))
+
+(define-public crate-integrustio-0.6.1 (c (n "integrustio") (v "0.6.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "cryiorust") (r "^0.6") (d #t) (k 0)) (d (n "glm") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0isvqm7hi3n1scq0blbbvwsqlbdh35rnc86bbd2wj7i511dq95kl")))
+

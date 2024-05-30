@@ -1,0 +1,4 @@
+(define-module (crates-io ne ar near-paperclip-macros) #:use-module (crates-io))
+
+(define-public crate-near-paperclip-macros-0.4.0 (c (n "near-paperclip-macros") (v "0.4.0") (d (list (d (n "heck") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "http") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r ">=0.19, <0.21") (o #t) (d #t) (k 0)) (d (n "strum_macros") (r ">=0.19, <0.21") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1i4sjjfqkpydby45hl8g2dpk89vilgflg6msipr01zl9i8xqks8w") (f (quote (("v2") ("nightly") ("actix" "heck" "http" "lazy_static" "strum" "strum_macros"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io co gn cognitive-wayland-frontend) #:use-module (crates-io))
+
+(define-public crate-cognitive-wayland-frontend-0.0.1 (c (n "cognitive-wayland-frontend") (v "0.0.1") (d (list (d (n "cognitive-graphics") (r "^0.0.1") (d #t) (k 0)) (d (n "cognitive-inputs") (r "^0.0.3") (d #t) (k 0)) (d (n "cognitive-qualia") (r "^0.0.3") (d #t) (k 0)) (d (n "dharma") (r "^0.0.1") (d #t) (k 0)) (d (n "drm-rs") (r "^0.1.2") (d #t) (k 0)) (d (n "nix") (r "^0.8.0") (d #t) (k 0)) (d (n "skylane") (r "^0.1.2") (d #t) (k 0)) (d (n "skylane_protocols") (r "^0.1.2") (d #t) (k 0)) (d (n "timber") (r "^0.0.1") (d #t) (k 0)))) (h "0jnrnqpcd3bkrvcsg12wi28niqrh9jm7rpbvs9m94gmm5rqzrd97")))
+
+(define-public crate-cognitive-wayland-frontend-0.1.0 (c (n "cognitive-wayland-frontend") (v "0.1.0") (d (list (d (n "cognitive-graphics") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-inputs") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-qualia") (r "^0.1") (d #t) (k 0)) (d (n "dharma") (r "^0.1") (d #t) (k 0)) (d (n "drm-rs") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.8") (d #t) (k 0)) (d (n "skylane") (r "^0.1") (d #t) (k 0)) (d (n "skylane_protocols") (r "^0.1") (d #t) (k 0)) (d (n "timber") (r "^0.1") (d #t) (k 0)))) (h "04bn7zxlsc9r3ibxnlqbz0rr70hsnp3433vlj1wl75a4diyqsb0q")))
+

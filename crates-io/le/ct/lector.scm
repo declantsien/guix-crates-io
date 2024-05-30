@@ -1,0 +1,4 @@
+(define-module (crates-io le ct lector) #:use-module (crates-io))
+
+(define-public crate-lector-0.1.0 (c (n "lector") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "emojis") (r "^0.6.0") (d #t) (k 0)) (d (n "mio") (r "^0.8.8") (f (quote ("os-ext" "os-poll"))) (d #t) (k 0)) (d (n "nix") (r "^0.26.2") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "ptyprocess") (r "^0.4.1") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.17") (d #t) (k 0)) (d (n "signal-hook-mio") (r "^0.2.3") (f (quote ("support-v0_8"))) (d #t) (k 0)) (d (n "similar") (r "^2.2.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "termsize") (r "^0.1.6") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (d #t) (k 0)) (d (n "vt100") (r "^0.15.2") (d #t) (k 0)) (d (n "vte") (r "^0.11.1") (d #t) (k 0)))) (h "0kg5zyw1s60zm1lslaw7gh4ry151rwga4j0y7nndm40fiqjpafmc")))
+

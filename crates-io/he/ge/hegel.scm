@@ -1,0 +1,6 @@
+(define-module (crates-io he ge hegel) #:use-module (crates-io))
+
+(define-public crate-hegel-0.1.0 (c (n "hegel") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "infer") (r "^0.9.0") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.141") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (o #t) (d #t) (k 0)))) (h "06qkwiyvlymhwcq86mszjwpiyhgp2yi9zscl4axjbq4cbv2jkp7n") (f (quote (("default")))) (s 2) (e (quote (("chrono" "dep:chrono") ("binary" "dep:tokio" "dep:serde_json"))))))
+
+(define-public crate-hegel-0.1.1 (c (n "hegel") (v "0.1.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (o #t) (d #t) (k 0)) (d (n "infer") (r "^0.9.0") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.141") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (o #t) (d #t) (k 0)))) (h "0b8i9zhmbvl8a6d7c6zv3n11gcjk55rn8b4p43rzmdjqcv7fj12h") (f (quote (("default")))) (s 2) (e (quote (("chrono" "dep:chrono") ("binary" "dep:tokio" "dep:serde_json"))))))
+

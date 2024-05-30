@@ -1,0 +1,20 @@
+(define-module (crates-io sw c_ swc_plugin_import) #:use-module (crates-io))
+
+(define-public crate-swc_plugin_import-0.1.0 (c (n "swc_plugin_import") (v "0.1.0") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "swc_core") (r "^0.59.6") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "0zd85kwhbnlkqfk0n87lfk2250f8yzqybgcy2fhvwshdag9xlcyj")))
+
+(define-public crate-swc_plugin_import-0.1.1 (c (n "swc_plugin_import") (v "0.1.1") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "swc_core") (r "^0.69.3") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "09rc2zrl246dsfqlp6nglg13c58ydpan19drp66pcrakp3v2lpma")))
+
+(define-public crate-swc_plugin_import-0.1.2 (c (n "swc_plugin_import") (v "0.1.2") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "swc_core") (r "^0.69.3") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "0lj0vy7qqg631qg9g840dk6p88ag67p526ai00sf7vfk69sispi4")))
+
+(define-public crate-swc_plugin_import-0.1.3 (c (n "swc_plugin_import") (v "0.1.3") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "swc_core") (r "^0.72.2") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "0phnv722bgds974mscqhcfidbmbgf5lzyjbp23dzxm8kfqpqw9hb")))
+
+(define-public crate-swc_plugin_import-0.1.4 (c (n "swc_plugin_import") (v "0.1.4") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "swc_core") (r "^0.74.6") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "0v3rand1n8xdyis671wqybwc6v9vn2civ434lhnam0npaqjam6fj")))
+
+(define-public crate-swc_plugin_import-0.1.5 (c (n "swc_plugin_import") (v "0.1.5") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "swc_core") (r "^0.75.30") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "1lhvgh4bb8qaljw779jlkg7w9cdss2gl99yd1717bm9lvis8f4wy")))
+
+(define-public crate-swc_plugin_import-0.1.6 (c (n "swc_plugin_import") (v "0.1.6") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "swc_core") (r "^0.75.30") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "0p1iby322mrs61510hpni97bxql5lnm08qj7jvnm66nf414ngi0v")))
+
+(define-public crate-swc_plugin_import-0.1.7 (c (n "swc_plugin_import") (v "0.1.7") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "swc_core") (r "^0.76.25") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "0yfwb0vqsalwk6dxi5sy0fw8zsyic2c6idqa6jmmpkwp2q0jh7is")))
+
+(define-public crate-swc_plugin_import-0.1.8 (c (n "swc_plugin_import") (v "0.1.8") (d (list (d (n "handlebars") (r "^4.3.3") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "swc_core") (r "^0.79.5") (f (quote ("common" "common" "ecma_ast" "ecma_visit"))) (d #t) (k 0)))) (h "08p7jdrv69f525l78hig36h9dfpns9acykcs01hqa665fchqi3cx")))
+

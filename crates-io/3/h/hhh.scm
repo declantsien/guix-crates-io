@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# h hhh) #:use-module (crates-io))
+
+(define-public crate-hhh-1.0.0 (c (n "hhh") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 0)) (d (n "termsize") (r "^0.1.6") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "trivet") (r "^2.0.2") (d #t) (k 0)))) (h "19fcc0pzr4snpqj4q4c07m08l8qsbxjsafhl047wcfpgxxwq6csx") (f (quote (("strict"))))))
+
+(define-public crate-hhh-1.0.1 (c (n "hhh") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.0") (d #t) (k 0)) (d (n "termsize") (r "^0.1.6") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "trivet") (r "^2.0.2") (d #t) (k 0)))) (h "0n161k4gm1rbi8q29cm4l3vrflvr9j1y668kfkgci2dxwfsav73v") (f (quote (("strict"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io cb or cborian) #:use-module (crates-io))
+
+(define-public crate-cborian-0.9.1 (c (n "cborian") (v "0.9.1") (d (list (d (n "byteorder") (r ">=0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "json-codec") (r ">=0.3") (d #t) (k 2)) (d (n "libc") (r ">0.1.0") (d #t) (k 0)) (d (n "quickcheck") (r ">=0.2.21") (d #t) (k 0)) (d (n "quickcheck_macros") (r ">=0.2.21") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.2.2") (d #t) (k 2)) (d (n "rustc-serialize") (r ">=0.3") (d #t) (k 2)))) (h "09j7ahmnpa9jzq0jlzlaqm92hz6aznsppbb96a91x9y73p4jgc2m")))
+
+(define-public crate-cborian-0.9.2 (c (n "cborian") (v "0.9.2") (d (list (d (n "byteorder") (r ">=0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "json-codec") (r ">=0.3") (d #t) (k 2)) (d (n "libc") (r ">0.1.0") (d #t) (k 0)) (d (n "quickcheck") (r ">=0.2.21") (d #t) (k 0)) (d (n "quickcheck_macros") (r ">=0.2.21") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.2.2") (d #t) (k 2)) (d (n "rustc-serialize") (r ">=0.3") (d #t) (k 2)))) (h "14ln78ngxw4gjyyrwp9177ya19r7rpb5vadcmpaxnjy527nfq7z7")))
+

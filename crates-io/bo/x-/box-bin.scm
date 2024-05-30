@@ -1,0 +1,4 @@
+(define-module (crates-io bo x- box-bin) #:use-module (crates-io))
+
+(define-public crate-box-bin-0.3.1 (c (n "box-bin") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "box-format") (r "^0.3.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.15") (d #t) (k 0)) (d (n "crc32fast") (r "^1.2.0") (d #t) (k 0)) (d (n "humansize") (r "^1.1.0") (d #t) (k 0)) (d (n "jwalk") (r "^0.5.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "structopt") (r "^0.3.17") (d #t) (k 0)) (d (n "textwrap") (r "^0.13.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)) (d (n "tracing") (r "^0.1.19") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.11") (f (quote ("fmt"))) (d #t) (k 0)) (d (n "wild") (r "^2.0.4") (d #t) (k 0)))) (h "0zfs88f06ng4dj8iz34l8lf04ic6ym6kyc8yaxv3mnh9is7dz02i") (f (quote (("selfextract") ("default"))))))
+

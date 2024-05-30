@@ -1,0 +1,6 @@
+(define-module (crates-io gl it glit-cli) #:use-module (crates-io))
+
+(define-public crate-glit-cli-0.1.0 (c (n "glit-cli") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.12") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "glit-core") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)))) (h "1q7hg2cs1xkpz65pgp74w5sk5kyn5mkvkrwfcpmjd4rdzaj3f737") (y #t)))
+
+(define-public crate-glit-cli-0.2.0 (c (n "glit-cli") (v "0.2.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "glit-core") (r "^0.2.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.5") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1zzyjas4chrli4hdvm24sx5v76hv83kmqk6yn6jnzqkdxhj4bpv7")))
+

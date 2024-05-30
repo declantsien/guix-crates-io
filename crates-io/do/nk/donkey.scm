@@ -1,0 +1,4 @@
+(define-module (crates-io do nk donkey) #:use-module (crates-io))
+
+(define-public crate-donkey-0.0.1 (c (n "donkey") (v "0.0.1") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "primitive-types") (r "^0.11.1") (d #t) (k 0)) (d (n "scale-info") (r "^2.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha3") (r "^0.10.1") (d #t) (k 0)) (d (n "sp-core") (r "^5.0.0") (d #t) (k 0)) (d (n "sp-runtime") (r "^5.0.0") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.8.2") (d #t) (k 0)) (d (n "tiny-hderive") (r "^0.3.0") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.9") (d #t) (k 0)))) (h "1bswgx598lx69bwj2hkgw2rlcs3vwrsk3hicsfhkdqp26qr72zs6")))
+

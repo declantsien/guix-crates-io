@@ -1,0 +1,4 @@
+(define-module (crates-io ku be kubernetes-mock) #:use-module (crates-io))
+
+(define-public crate-kubernetes-mock-0.1.0 (c (n "kubernetes-mock") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "hyper") (r "^0.14.27") (d #t) (k 0)) (d (n "k8s-openapi") (r "^0.18.0") (f (quote ("schemars"))) (o #t) (d #t) (k 0)) (d (n "kube") (r "^0.83.0") (f (quote ("runtime" "derive"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-test") (r "^0.4.0") (d #t) (k 0)))) (h "004xhda8brffyqm7lsz6a8ywx90kidsr0v1dc0pizdqga2mkj2fd") (f (quote (("default" "v1_25")))) (s 2) (e (quote (("v1_25" "k8s-openapi/v1_25" "dep:kube") ("v1_21" "k8s-openapi/v1_21" "dep:kube"))))))
+

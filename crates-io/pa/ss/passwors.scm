@@ -1,0 +1,6 @@
+(define-module (crates-io pa ss passwors) #:use-module (crates-io))
+
+(define-public crate-passwors-0.1.0 (c (n "passwors") (v "0.1.0") (d (list (d (n "argon2rs") (r "^0.2.5") (f (quote ("simd"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^0.8.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.8.4") (d #t) (k 2)) (d (n "serde_macros") (r "^0.8.4") (o #t) (d #t) (k 0)) (d (n "serde_macros") (r "^0.8.4") (d #t) (k 2)) (d (n "serde_test") (r "^0.8.4") (d #t) (k 2)))) (h "0jg644iascvsw2n91h8p3lxzary3m1pxj4zwjh2v3y7w46viygww") (f (quote (("use_serde" "serde" "serde_macros") ("use_argon2rs" "argon2rs") ("skip_unsafe_tests") ("default" "argon2rs" "serde" "serde_macros"))))))
+
+(define-public crate-passwors-0.1.1 (c (n "passwors") (v "0.1.1") (d (list (d (n "argon2rs") (r "^0.2.5") (f (quote ("simd"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^0.8.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.8.4") (d #t) (k 2)) (d (n "serde_macros") (r "^0.8.4") (o #t) (d #t) (k 0)) (d (n "serde_macros") (r "^0.8.4") (d #t) (k 2)) (d (n "serde_test") (r "^0.8.4") (d #t) (k 2)))) (h "1b6z7qph01x6jxnqhmy3zynic4g1r79cr8gzfaij51b1g5am64r7") (f (quote (("use_serde" "serde" "serde_macros") ("use_argon2rs" "argon2rs") ("skip_unsafe_tests") ("default" "argon2rs" "serde" "serde_macros"))))))
+

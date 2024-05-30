@@ -1,0 +1,4 @@
+(define-module (crates-io ln k- lnk-thrussh-agent) #:use-module (crates-io))
+
+(define-public crate-lnk-thrussh-agent-0.1.0 (c (n "lnk-thrussh-agent") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lnk-cryptovec") (r "^0.6.0") (d #t) (k 0)) (d (n "lnk-thrussh-encoding") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "smol") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.6") (f (quote ("io-util" "net" "rt-multi-thread" "time"))) (o #t) (d #t) (k 0)))) (h "0qhginb5mlpb6q5brknb3xva9sknzrbbp3b5dyg2w1cv43zw54ln") (f (quote (("tokio-agent" "tokio") ("smol-agent" "smol") ("default" "tokio-agent"))))))
+

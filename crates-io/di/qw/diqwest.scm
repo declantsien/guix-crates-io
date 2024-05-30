@@ -1,0 +1,24 @@
+(define-module (crates-io di qw diqwest) #:use-module (crates-io))
+
+(define-public crate-diqwest-0.1.0 (c (n "diqwest") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3.0") (d #t) (k 0)) (d (n "http") (r "^0.2.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.5") (d #t) (k 0)))) (h "03xdwq3vb1dlg4zji7542h0ai7lv2fpm2nax52jqx5acap8nlzx6")))
+
+(define-public crate-diqwest-0.1.1 (c (n "diqwest") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)))) (h "1yz8qh0kv81m30lwy3kq4803zgbb86pv2hg4c7xdp7rxnzcipr53")))
+
+(define-public crate-diqwest-0.1.2 (c (n "diqwest") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)))) (h "1y4wa6g9igny02hx812sl2rnvnhcpli5chghklq013sw6f7zfcxj")))
+
+(define-public crate-diqwest-1.0.0 (c (n "diqwest") (v "1.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (t "cfg(blocking)") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1p7s83cx67klb97pby0hddnp0sfxzimynpz46rand928wfrqam13") (f (quote (("default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-1.0.1 (c (n "diqwest") (v "1.0.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (t "cfg(blocking)") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0lkc0z8jpl65bs2j9lmz41zkblnrpqgbxkxl38cpkjv1daxvmkmk") (f (quote (("default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-1.1.0 (c (n "diqwest") (v "1.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0h5v0grgzffdsrn2gyk48i7l2cql0gh2xlhmb7k0bx4ariajp0kh") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("default" "reqwest/default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-1.1.1 (c (n "diqwest") (v "1.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "0ilx2qsllglwkzl0hl32fvcy2c3mwy5x9pa74gny2s0102l6jlbf") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("default" "reqwest/default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-1.2.0 (c (n "diqwest") (v "1.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "mockito") (r "^0.31") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1g2pc4dr111rqm4qm447gz06xyb3s5bcbq32bfzj7llli7dzspcg") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("default" "reqwest/default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-1.2.1 (c (n "diqwest") (v "1.2.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (d #t) (k 0)) (d (n "mockito") (r "^1.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.4") (d #t) (k 0)))) (h "09p65qahxa1ardfh97220v4gaayidzca91va07fmh59b3zz7n34m") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("default" "reqwest/default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-2.0.0 (c (n "diqwest") (v "2.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (k 0)) (d (n "mockito") (r "^1.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.4") (d #t) (k 0)))) (h "1sshyxvbfrqr24xnh4c5ivl4f8rbn49as39sv8ma68kxphvixm6a") (f (quote (("default") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-diqwest-3.0.0 (c (n "diqwest") (v "3.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "digest_auth") (r "^0.3") (k 0)) (d (n "mockito") (r "^1.4") (d #t) (k 2)) (d (n "reqwest") (r "^0.12") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.4") (d #t) (k 0)))) (h "0lqqxf0s38i8y56craf1spk6bdijc1ydhflh2fmah1kwk2da74rs") (f (quote (("default") ("blocking" "reqwest/blocking"))))))
+

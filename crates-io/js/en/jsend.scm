@@ -1,0 +1,8 @@
+(define-module (crates-io js en jsend) #:use-module (crates-io))
+
+(define-public crate-jsend-1.0.0 (c (n "jsend") (v "1.0.0") (d (list (d (n "axum") (r "^0.7.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.7.0") (f (quote ("serde" "v4"))) (d #t) (k 2)))) (h "041nj1mkaqddxwympjr5rhwjq1bhav2zlyivmrr1mzcpmacflygn") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-jsend-1.0.1 (c (n "jsend") (v "1.0.1") (d (list (d (n "axum") (r "^0.7.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.7.0") (f (quote ("serde" "v4"))) (d #t) (k 2)))) (h "1yyckklfpwh51dffcs93k8qars3d35yl585qyf256cxkvfgcxfkb") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+
+(define-public crate-jsend-1.0.2 (c (n "jsend") (v "1.0.2") (d (list (d (n "axum") (r "^0.7.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^1.7.0") (f (quote ("serde" "v4"))) (d #t) (k 2)))) (h "1c1v8mc6z1pplxj628fii70r20sbiy45bfz7zd1777dmkdgab7cz") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_json"))))))
+

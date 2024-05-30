@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_flame) #:use-module (crates-io))
+
+(define-public crate-bevy_flame-0.1.0 (c (n "bevy_flame") (v "0.1.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "bevy-inspector-egui") (r "^0.24") (d #t) (k 0)) (d (n "bevy_args") (r "^1.3") (d #t) (k 0)) (d (n "bevy_ort") (r "^0.12") (d #t) (k 0)) (d (n "bevy_panorbit_camera") (r "^0.18") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "noisy_bevy") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_qs") (r "^0.13") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Element" "HtmlElement" "Location" "Node" "Window"))) (d #t) (k 0)))) (h "037kjjw55mwwni2qib5j4i00jlhyrdllr1l8isw41s9fpyn9ga0a")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io wa ll wallp) #:use-module (crates-io))
+
+(define-public crate-wallp-0.1.0 (c (n "wallp") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.167") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.167") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)))) (h "12djz6p62kgn186px91jmncp3jq50i6mi4gdisq0h63bhpndka3h")))
+
+(define-public crate-wallp-0.1.1 (c (n "wallp") (v "0.1.1") (d (list (d (n "clap") (r "^4.3.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.167") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.167") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)))) (h "1a1nxsdnzasw95sa0ra3s744g7a9mprlyshii03qds05b4asz19z")))
+
+(define-public crate-wallp-0.1.2 (c (n "wallp") (v "0.1.2") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (f (quote ("date"))) (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.167") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.167") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)) (d (n "winit") (r "^0.28.6") (d #t) (k 0)))) (h "1asa2sdnpw6cnihayaaygl9cqmd49gk72ybp47ywa1mj9ir76amm")))
+

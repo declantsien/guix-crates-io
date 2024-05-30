@@ -1,0 +1,4 @@
+(define-module (crates-io gm or gmorph) #:use-module (crates-io))
+
+(define-public crate-gmorph-0.1.0 (c (n "gmorph") (v "0.1.0") (d (list (d (n "alga") (r "^0.9") (d #t) (k 0)) (d (n "alga_derive") (r "^0.9") (d #t) (k 0)) (d (n "modinverse") (r "^0.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.20") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "quickcheck_macros") (r "^0.8") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.10.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "179aqjnlvd5rsiz8p2nmz1fzqhblf5d7jkmry7qf6gwv9af7f83k") (f (quote (("experimental-normalize"))))))
+

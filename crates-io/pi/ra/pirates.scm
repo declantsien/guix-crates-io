@@ -1,0 +1,8 @@
+(define-module (crates-io pi ra pirates) #:use-module (crates-io))
+
+(define-public crate-pirates-0.1.0 (c (n "pirates") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "pirates_macro_lib") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("net" "io-util" "rt" "macros"))) (d #t) (k 0)))) (h "17l7xf873pynbs7si00nsb6vwwv9aic6kdm8wpj3zh9g66ry3ykv") (f (quote (("macros"))))))
+
+(define-public crate-pirates-0.1.1 (c (n "pirates") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pirates_macro_lib") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("net" "io-util" "rt" "macros"))) (d #t) (k 0)))) (h "0b5rgc1229dwqvppyp5rdl9hnnjzv5pl1yjcvdxf4k9wwkzicyga") (f (quote (("macros"))))))
+
+(define-public crate-pirates-0.1.2 (c (n "pirates") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pirates_macro_lib") (r "^0.1.0") (d #t) (k 0)) (d (n "postcard") (r "^1.0.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-pickle") (r "^1.1.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("net" "io-util" "rt" "macros" "time"))) (d #t) (k 0)))) (h "0rj7mmypmxz29qfwg3ypfihll8g3bajrypaj2j2y4pv8fb2cf5c9") (f (quote (("transport_postcard" "postcard") ("macros"))))))
+

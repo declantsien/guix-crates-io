@@ -1,0 +1,8 @@
+(define-module (crates-io tr ac tracing-rolling) #:use-module (crates-io))
+
+(define-public crate-tracing-rolling-0.1.0 (c (n "tracing-rolling") (v "0.1.0") (d (list (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("formatting" "local-offset" "macros" "parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)))) (h "16byb3cbhhvd5ihfrcka0fsqn0k6q72y9p0fwqn7mgxcxapx4050")))
+
+(define-public crate-tracing-rolling-0.2.0 (c (n "tracing-rolling") (v "0.2.0") (d (list (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("formatting" "local-offset" "macros" "parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)))) (h "10aaih218fw4k10hbbv0zxnz36hqfzq992hnlhgrmzm9zyqwjanj")))
+
+(define-public crate-tracing-rolling-0.3.0 (c (n "tracing-rolling") (v "0.3.0") (d (list (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.20") (f (quote ("formatting" "local-offset" "macros" "parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.32") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("time"))) (d #t) (k 0)))) (h "0i5y1yznsrymi4lx596d7mafy3akrmbs36l4vvjxq409bgxggpm0")))
+

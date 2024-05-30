@@ -1,0 +1,4 @@
+(define-module (crates-io ki ss kiss-xmpp) #:use-module (crates-io))
+
+(define-public crate-kiss-xmpp-0.0.1 (c (n "kiss-xmpp") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.5") (d #t) (k 0)) (d (n "die") (r "^0.2.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minidom") (r "^0.15") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "rt" "rt-multi-thread" "macros" "io-util" "io-std"))) (d #t) (k 0)) (d (n "tokio-xmpp") (r "^3.5.0") (f (quote ("tls-rust"))) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "xmpp-parsers") (r "^0.20") (d #t) (k 0)))) (h "08jy7g59w563f9v8wfwcrl9x34l54wflvakjja4mj8kw8qdhy897")))
+

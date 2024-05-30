@@ -1,0 +1,8 @@
+(define-module (crates-io mt ot mtots) #:use-module (crates-io))
+
+(define-public crate-mtots-0.1.0 (c (n "mtots") (v "0.1.0") (d (list (d (n "mtots_core") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "11a2v73cmpyjh2q1hw5c4fz2rhcnwxmqv7jivjjhcyl9avwlwd6q")))
+
+(define-public crate-mtots-0.1.1 (c (n "mtots") (v "0.1.1") (d (list (d (n "dbin") (r "^0.1.7") (d #t) (k 0)) (d (n "ggez") (r "^0.5") (d #t) (k 0)) (d (n "mint") (r "^0.5") (d #t) (k 0)) (d (n "mtots_core") (r "^0.1.1") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2") (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "three") (r "^0.4") (d #t) (k 0)))) (h "0si2wd1a1w96l70y5h0wz0ppzc237sx5smk6vrxc3dj2951blpfr")))
+
+(define-public crate-mtots-0.1.2 (c (n "mtots") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "ggez") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "hound") (r "^3.4") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.23") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "mtots_core") (r "^0.1.2") (f (quote ("line"))) (d #t) (k 0)) (d (n "rand") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (o #t) (d #t) (k 0)))) (h "0i14gsg72bmnhz8v89yqna9lxkbww8b5661y7m2imr2y2gz7bjqn") (f (quote (("gamekit" "ggez" "hound" "image") ("default" "basekit" "gamekit") ("basekit" "rand" "rand_chacha" "regex" "serde_json"))))))
+

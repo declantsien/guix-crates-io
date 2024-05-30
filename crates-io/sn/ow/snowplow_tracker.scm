@@ -1,0 +1,6 @@
+(define-module (crates-io sn ow snowplow_tracker) #:use-module (crates-io))
+
+(define-public crate-snowplow_tracker-0.1.0 (c (n "snowplow_tracker") (v "0.1.0") (d (list (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "testcontainers") (r "^0.14.0") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0zynif23y9ixn7q19kxrqfbmmxr7yk0m6pmp5wwf9q8fsk91skrx")))
+
+(define-public crate-snowplow_tracker-0.2.0 (c (n "snowplow_tracker") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "testcontainers") (r "^0.14.0") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "1rndqdfbrm9fyl79z9afhyxnlxj6q9vcs2pz5rcldajkm0hdxjn6")))
+

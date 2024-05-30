@@ -1,0 +1,26 @@
+(define-module (crates-io in te interactive-clap-derive) #:use-module (crates-io))
+
+(define-public crate-interactive-clap-derive-0.1.0 (c (n "interactive-clap-derive") (v "0.1.0") (d (list (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0lvs978wahg9zgk9ln7wiyw8wpiv3sacs0c4c6vh2nblfc2bpcxv")))
+
+(define-public crate-interactive-clap-derive-0.2.0 (c (n "interactive-clap-derive") (v "0.2.0") (d (list (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0kd6w989h2fch5p6c7zamz90akjyf1gn7brwlqwv1v9psqh7h97q")))
+
+(define-public crate-interactive-clap-derive-0.2.1 (c (n "interactive-clap-derive") (v "0.2.1") (d (list (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0ibjva4z274blwshdhnkaj0rs3mlcbkpqpa24iyqjdzd6bvwmjp9")))
+
+(define-public crate-interactive-clap-derive-0.2.2 (c (n "interactive-clap-derive") (v "0.2.2") (d (list (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "09m21hikpbxl490hpdclqdj9fqlxll6gr7brbbd3wf4kzgv07x9k")))
+
+(define-public crate-interactive-clap-derive-0.2.3 (c (n "interactive-clap-derive") (v "0.2.3") (d (list (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "02kd3w1zhkaqdj80xy3y103mf6snlrmsqan0a75pz6vcn5w0dvrc")))
+
+(define-public crate-interactive-clap-derive-0.2.4 (c (n "interactive-clap-derive") (v "0.2.4") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1vf9pn526s8275abi12gcfi68gzslg2m41dhlp71pp58k2lgdl74")))
+
+(define-public crate-interactive-clap-derive-0.2.5 (c (n "interactive-clap-derive") (v "0.2.5") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1q57q2jln8k3rb8phhj8s3rxln4ga2518kkr6v9h1vm66ypkfbkx")))
+
+(define-public crate-interactive-clap-derive-0.2.6 (c (n "interactive-clap-derive") (v "0.2.6") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1jri0cy74j3p328yax6gxd9qz8xhbhplskgy1xrnnv9qzw9ryzkz")))
+
+(define-public crate-interactive-clap-derive-0.2.7 (c (n "interactive-clap-derive") (v "0.2.7") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0ngib3hydwmjw20fgm4y57zwr94pl2wi26kvav1pj1m6z9pkncgf")))
+
+(define-public crate-interactive-clap-derive-0.2.8 (c (n "interactive-clap-derive") (v "0.2.8") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0ydix0cr7yrr7rp6cac2gm3yx6nqgrpq3imv60nnfb54nrh9pl9h")))
+
+(define-public crate-interactive-clap-derive-0.2.9 (c (n "interactive-clap-derive") (v "0.2.9") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0sqbwlg23x2ic2pq6zbfy62ilzmqsxkmvr3nlzqid3hz26siz8q9")))
+
+(define-public crate-interactive-clap-derive-0.2.10 (c (n "interactive-clap-derive") (v "0.2.10") (d (list (d (n "insta") (r "^1") (d #t) (k 2)) (d (n "prettyplease") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1xkvwrycalh2bizdk69xyklbbg3l1gxryglffx9lh1crdd58s34s")))
+

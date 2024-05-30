@@ -1,0 +1,12 @@
+(define-module (crates-io or g- org-rust-parser) #:use-module (crates-io))
+
+(define-public crate-org-rust-parser-0.1.0 (c (n "org-rust-parser") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (d #t) (k 0)) (d (n "memchr") (r "^2.5.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)))) (h "1471hy8379byyiwr5h0q078av2lyrcddvb7ynmsqiazjiqfa6cyl")))
+
+(define-public crate-org-rust-parser-0.1.1 (c (n "org-rust-parser") (v "0.1.1") (d (list (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (d #t) (k 0)) (d (n "memchr") (r "^2.5.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)))) (h "0m4f0xr9psi1d7rh7fhycpr7r57x6vqjgi6nx2bv1kdgpirqsg9z") (r "1.70")))
+
+(define-public crate-org-rust-parser-0.1.2 (c (n "org-rust-parser") (v "0.1.2") (d (list (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "regex") (r "^1.9.4") (d #t) (k 0)))) (h "1agf8k91slcnysx4jf47mwkwhp3j97k0mk9ls50ksps0zadb8pnz") (r "1.74")))
+
+(define-public crate-org-rust-parser-0.1.3 (c (n "org-rust-parser") (v "0.1.3") (d (list (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "regex") (r "^1.9.4") (d #t) (k 0)))) (h "1zz25c1sk1n0hqf4bis26rrvlx79p02z7v32pdfs48ym8ggl9rhd") (r "1.74")))
+
+(define-public crate-org-rust-parser-0.1.4 (c (n "org-rust-parser") (v "0.1.4") (d (list (d (n "bitflags") (r "^2.1.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "regex") (r "^1.9.4") (d #t) (k 0)))) (h "170692cbpr06qj9c74dph6s47m3l97gb0yh32a7k31fddadx8bqc") (r "1.74")))
+

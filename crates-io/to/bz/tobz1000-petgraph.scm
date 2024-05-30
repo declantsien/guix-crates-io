@@ -1,0 +1,4 @@
+(define-module (crates-io to bz tobz1000-petgraph) #:use-module (crates-io))
+
+(define-public crate-tobz1000-petgraph-0.5.1-tobz1000 (c (n "tobz1000-petgraph") (v "0.5.1-tobz1000") (d (list (d (n "defmac") (r "^0.1") (d #t) (k 2)) (d (n "fixedbitset") (r "^0.3.0") (k 0)) (d (n "indexmap") (r "^1.0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (k 2)) (d (n "odds") (r "^0.2.19") (d #t) (k 2)) (d (n "quickcheck") (r "^0.8") (o #t) (k 0)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "00nx0snhk6xzmcxrwa3kczzp62xp12dkqbpdx8lha1vyfn3mk2jq") (f (quote (("unstable" "generate") ("stable_graph") ("serde-1" "serde" "serde_derive") ("matrix_graph") ("graphmap") ("generate") ("default" "graphmap" "stable_graph" "matrix_graph") ("all" "unstable" "quickcheck" "matrix_graph" "stable_graph" "graphmap"))))))
+

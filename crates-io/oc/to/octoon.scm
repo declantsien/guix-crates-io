@@ -1,0 +1,4 @@
+(define-module (crates-io oc to octoon) #:use-module (crates-io))
+
+(define-public crate-octoon-0.1.0 (c (n "octoon") (v "0.1.0") (d (list (d (n "gl") (r "^0.9.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "glfw") (r "^0.25.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "image") (r "^0.20.1") (d #t) (k 0)) (d (n "octoon-math") (r "^0.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (f (quote ("stdweb"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "stdweb") (r "^0.4.10") (d #t) (k 0)) (d (n "stdweb-derive") (r "^0.5.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1bmcqczra4hziba2fx8bzjmaw9qkdj9nswxzswagaj5p11n8knyg") (y #t)))
+

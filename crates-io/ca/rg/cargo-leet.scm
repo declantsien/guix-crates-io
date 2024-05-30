@@ -1,0 +1,4 @@
+(define-module (crates-io ca rg cargo-leet) #:use-module (crates-io))
+
+(define-public crate-cargo-leet-0.2.0 (c (n "cargo-leet") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.3.3") (f (quote ("derive" "cargo"))) (o #t) (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.18") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_flat_path") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ureq") (r "^2.6") (f (quote ("json"))) (o #t) (d #t) (k 0)))) (h "0vcbnzhayhcmp3x56m03nfzqrchlf777h3p0m3i2cdhwnvd29zyf") (f (quote (("tool" "anyhow" "convert_case" "env_logger" "log" "regex" "serde_flat_path" "clap" "serde" "ureq") ("leet_env") ("default" "leet_env"))))))
+

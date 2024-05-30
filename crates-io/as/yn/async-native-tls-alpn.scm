@@ -1,0 +1,4 @@
+(define-module (crates-io as yn async-native-tls-alpn) #:use-module (crates-io))
+
+(define-public crate-async-native-tls-alpn-0.4.1-alpha.0 (c (n "async-native-tls-alpn") (v "0.4.1-alpha.0") (d (list (d (n "futures-util") (r "^0.3.1") (f (quote ("io"))) (o #t) (d #t) (k 0)) (d (n "native-tls") (r "^0.2.8") (f (quote ("alpn"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.9") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("io-util"))) (o #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)) (d (n "async-std") (r "^1.6.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "05p52h0b970kd6p3277h5qmhrcq5hn6s0zs8zxgrpl19ymf4sgp7") (f (quote (("vendored" "native-tls/vendored") ("runtime-tokio" "tokio") ("runtime-async-std" "futures-util") ("default" "runtime-async-std"))))))
+

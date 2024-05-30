@@ -1,0 +1,8 @@
+(define-module (crates-io ac ti actix-jwt-validator-middleware) #:use-module (crates-io))
+
+(define-public crate-actix-jwt-validator-middleware-0.1.0 (c (n "actix-jwt-validator-middleware") (v "0.1.0") (d (list (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix-web-httpauth") (r "^0.5.0") (d #t) (k 0)) (d (n "display_json") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "jonases-tracing-util") (r "^0.1.0") (d #t) (k 0)) (d (n "jwks-client") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)))) (h "1qnjavkrc8fxv9716kz7sbnkbrvyq2w6i7ncj9i1viv9a6kclqsz")))
+
+(define-public crate-actix-jwt-validator-middleware-0.2.0 (c (n "actix-jwt-validator-middleware") (v "0.2.0") (d (list (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix-web-httpauth") (r "^0.5.0") (d #t) (k 0)) (d (n "display_json") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "jonases-tracing-util") (r "^0.1.0") (d #t) (k 0)) (d (n "jwks-client") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)))) (h "1dksp7lp2hxgnl158ki09gxnpp7hzbnc40h9ba4pfsqhikk4jy42")))
+
+(define-public crate-actix-jwt-validator-middleware-0.3.0 (c (n "actix-jwt-validator-middleware") (v "0.3.0") (d (list (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "actix-web-httpauth") (r "^0.5.0") (d #t) (k 0)) (d (n "display_json") (r "^0.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "jonases-tracing-util") (r "^0.1.0") (d #t) (k 0)) (d (n "jwks-client") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)))) (h "1nv00plpdnc71kdbwasdwbgwrgmf3nr7n8m5l1x28wqlzwi7qvyr")))
+

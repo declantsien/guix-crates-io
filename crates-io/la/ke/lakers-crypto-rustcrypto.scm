@@ -1,0 +1,10 @@
+(define-module (crates-io la ke lakers-crypto-rustcrypto) #:use-module (crates-io))
+
+(define-public crate-lakers-crypto-rustcrypto-0.4.1 (c (n "lakers-crypto-rustcrypto") (v "0.4.1") (d (list (d (n "aead") (r "^0.5.2") (k 0)) (d (n "aes") (r "^0.8.3") (k 0)) (d (n "ccm") (r "^0.5.0") (k 0)) (d (n "hkdf") (r "^0.12.3") (k 0)) (d (n "lakers-shared") (r "^0.4.1") (d #t) (k 0) (p "lakers-shared")) (d (n "p256") (r "^0.13.2") (f (quote ("ecdh"))) (k 0)) (d (n "rand_core") (r "^0.6.4") (k 0)) (d (n "sha2") (r "^0.10.8") (k 0)))) (h "1pp9d5h9qp3657xm00nxa93z112qwxq3wva4h1qzbw6y1hgvgjx7")))
+
+(define-public crate-lakers-crypto-rustcrypto-0.5.0 (c (n "lakers-crypto-rustcrypto") (v "0.5.0") (d (list (d (n "aead") (r "^0.5.2") (k 0)) (d (n "aes") (r "^0.8.3") (k 0)) (d (n "ccm") (r "^0.5.0") (k 0)) (d (n "hkdf") (r "^0.12.3") (k 0)) (d (n "lakers-shared") (r "^0.5.0") (d #t) (k 0) (p "lakers-shared")) (d (n "p256") (r "^0.13.2") (f (quote ("ecdh"))) (k 0)) (d (n "rand_core") (r "^0.6.4") (k 0)) (d (n "sha2") (r "^0.10.8") (k 0)))) (h "1q8gw0d4lysajwn7amg1kby33sj989yb2q00ixz37zv74jci6j1r")))
+
+(define-public crate-lakers-crypto-rustcrypto-0.5.1 (c (n "lakers-crypto-rustcrypto") (v "0.5.1") (d (list (d (n "aead") (r "^0.5.2") (k 0)) (d (n "aes") (r "^0.8.3") (k 0)) (d (n "ccm") (r "^0.5.0") (k 0)) (d (n "hkdf") (r "^0.12.3") (k 0)) (d (n "lakers-shared") (r "^0.5.1") (d #t) (k 0) (p "lakers-shared")) (d (n "p256") (r "^0.13.2") (f (quote ("ecdh"))) (k 0)) (d (n "rand_core") (r "^0.6.4") (k 0)) (d (n "sha2") (r "^0.10.8") (k 0)))) (h "0fk5qh9dl6913v8cblw073mq5phba3lfjz4hypnn4w3qz9gvc8v5")))
+
+(define-public crate-lakers-crypto-rustcrypto-0.6.0 (c (n "lakers-crypto-rustcrypto") (v "0.6.0") (d (list (d (n "aead") (r "^0.5.2") (k 0)) (d (n "aes") (r "^0.8.3") (k 0)) (d (n "ccm") (r "^0.5.0") (k 0)) (d (n "hkdf") (r "^0.12.3") (k 0)) (d (n "lakers-shared") (r "^0.6.0") (d #t) (k 0) (p "lakers-shared")) (d (n "p256") (r "^0.13.2") (f (quote ("ecdh"))) (k 0)) (d (n "rand_core") (r "^0.6.4") (k 0)) (d (n "sha2") (r "^0.10.8") (k 0)))) (h "1yp90s5va5y06mj964c1ii2fkl8c4x80gd6blna1h9xgwnvjn3dj")))
+

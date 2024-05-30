@@ -1,0 +1,8 @@
+(define-module (crates-io he li helius-sdk) #:use-module (crates-io))
+
+(define-public crate-helius-sdk-0.1.0 (c (n "helius-sdk") (v "0.1.0") (d (list (d (n "derive-alias") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-enum-str") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "solana-client") (r "^1.15.2") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.15.2") (d #t) (k 0)))) (h "1hi78rj46334a0kfcfhqblw2xahpkc28j37x0kcb7w75lf8nmm85")))
+
+(define-public crate-helius-sdk-0.1.1 (c (n "helius-sdk") (v "0.1.1") (d (list (d (n "derive-alias") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-enum-str") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "solana-client") (r "^1.15.2") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.15.2") (d #t) (k 0)))) (h "0liq0ng52dj118lxh2zv03v2ln7a1vy09247n3dzmj5555y6k10l")))
+
+(define-public crate-helius-sdk-0.2.0 (c (n "helius-sdk") (v "0.2.0") (d (list (d (n "derive-alias") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-enum-str") (r "^0.3.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "solana-client") (r "^1.14.18") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.14.18") (d #t) (k 0)))) (h "1dc9bv9s1x8h5907bfgrcvw1wdfiw2b2kikbb4jzhxjr2j6wg4pf")))
+

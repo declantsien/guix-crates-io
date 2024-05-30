@@ -1,0 +1,6 @@
+(define-module (crates-io bl ac blackpool) #:use-module (crates-io))
+
+(define-public crate-blackpool-0.1.0 (c (n "blackpool") (v "0.1.0") (d (list (d (n "function_name") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (f (quote ("max_level_trace" "release_max_level_warn"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "volmark") (r "^0.1.0") (d #t) (k 0)))) (h "0cdjxfi0zvsn7a5v9fg3786bsqniq3jlxaw644lnkcm63swwmh49")))
+
+(define-public crate-blackpool-0.2.0 (c (n "blackpool") (v "0.2.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "function_name") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (f (quote ("max_level_trace" "release_max_level_warn"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 2)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "test-generator") (r "^0.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "volmark") (r "^0.1.0") (d #t) (k 0)))) (h "191ynj7wi7jz9p9iam2r5kad045pww5vsa1d8d21km07rg3v96pi") (y #t)))
+

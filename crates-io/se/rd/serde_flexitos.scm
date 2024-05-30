@@ -1,0 +1,8 @@
+(define-module (crates-io se rd serde_flexitos) #:use-module (crates-io))
+
+(define-public crate-serde_flexitos-0.1.0 (c (n "serde_flexitos") (v "0.1.0") (d (list (d (n "erased-serde") (r "^0.3") (d #t) (k 0)) (d (n "linkme") (r "^0.3") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1s0s3wyvh1ygvn0q9rgayjhcwz8sayhyxf562z4285sa8y344m5y") (f (quote (("id_trait") ("default" "id_trait"))))))
+
+(define-public crate-serde_flexitos-0.2.0 (c (n "serde_flexitos") (v "0.2.0") (d (list (d (n "erased-serde") (r "^0.4") (d #t) (k 0)) (d (n "linkme") (r "^0.3") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "01gjs606s0083xii9v3w5vjr3imnl88p06h39i743gw7wvanzv2g") (f (quote (("permissive") ("id_trait") ("default"))))))
+
+(define-public crate-serde_flexitos-0.2.1 (c (n "serde_flexitos") (v "0.2.1") (d (list (d (n "erased-serde") (r "^0.4") (d #t) (k 0)) (d (n "linkme") (r "^0.3") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0mg94aw84h5d2pkx9gfj8776macvxka8y87swp52mg6yfa4mxa8m") (f (quote (("permissive") ("id_trait") ("default"))))))
+

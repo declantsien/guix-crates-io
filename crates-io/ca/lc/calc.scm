@@ -1,0 +1,14 @@
+(define-module (crates-io ca lc calc) #:use-module (crates-io))
+
+(define-public crate-calc-0.0.2 (c (n "calc") (v "0.0.2") (h "0jycqhnylc89chb0av1lr8j1wj11lri5vmi0r7bkqy96f3dq0lgv") (y #t)))
+
+(define-public crate-calc-0.1.0 (c (n "calc") (v "0.1.0") (h "19w2hra6vaa6scs52rzq6n4n0md75va27n0yarw4v53zy41px2zj") (y #t)))
+
+(define-public crate-calc-0.2.0 (c (n "calc") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.38") (o #t) (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.4") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "rustyline") (r "^7.1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "1iwpid5c56mvjx5z6ssdi7xcw8h7h4yh2wsv9a4yxmcswj5mlp49") (f (quote (("default" "cli") ("cli" "anyhow" "rustyline" "structopt"))))))
+
+(define-public crate-calc-0.2.1 (c (n "calc") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.38") (o #t) (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.4") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "rustyline") (r "^7.1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "1sfbxj9i17acmi3mhd6bzw0jif9kddhl41jpz3l2xyd3aqv9g1s8") (f (quote (("default" "cli") ("cli" "anyhow" "rustyline" "structopt"))))))
+
+(define-public crate-calc-0.3.0 (c (n "calc") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.38") (o #t) (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.4") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-runtime-fmt") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "rustyline") (r "^7.1.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "0b0dph9p0b92sbjxkrn2js4rp7prc11syagwis5spn8bhrjb02rh") (f (quote (("default" "cli") ("cli" "anyhow" "rustyline" "structopt"))))))
+
+(define-public crate-calc-0.4.0 (c (n "calc") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.38") (o #t) (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.4") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.4") (f (quote ("lexer"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-runtime-fmt") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "rustyline") (r "^10.0.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "1nxyszrp0hd49fh1kam3yvk7m4abn3hx0873jrqb69pgwf91sn0z") (f (quote (("default" "cli") ("cli" "anyhow" "rustyline" "structopt"))))))
+

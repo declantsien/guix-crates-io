@@ -1,0 +1,4 @@
+(define-module (crates-io tw et twetch-sdk) #:use-module (crates-io))
+
+(define-public crate-twetch-sdk-0.0.1 (c (n "twetch-sdk") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bsv-wasm") (r "^1.3.4") (d #t) (k 0)) (d (n "cargo-web") (r "^0.6.26") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.53") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 2)) (d (n "utf-8") (r "^0.7.6") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.73") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.20") (d #t) (k 2)))) (h "059h91i6w2bzkz67ly95qizzhgjh6gk99y13zqi7cgnjgkimi83s")))
+

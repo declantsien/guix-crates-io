@@ -1,0 +1,6 @@
+(define-module (crates-io in kp inkpad-sandbox) #:use-module (crates-io))
+
+(define-public crate-inkpad-sandbox-0.2.0 (c (n "inkpad-sandbox") (v "0.2.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "inkpad-executor") (r "^0") (d #t) (k 0)) (d (n "inkpad-std") (r "^0") (d #t) (k 0)) (d (n "inkpad-support") (r "^0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parity-wasm") (r "^0.42.2") (d #t) (k 0)))) (h "0rig8d2545rmnp3l8rgqimn8wh3psjc6z1pbh54v5phhivi6rfff") (f (quote (("std" "inkpad-std/std" "inkpad-executor/std" "inkpad-support/std") ("default")))) (y #t)))
+
+(define-public crate-inkpad-sandbox-0.1.0 (c (n "inkpad-sandbox") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "inkpad-executor") (r "^0") (d #t) (k 0)) (d (n "inkpad-std") (r "^0") (d #t) (k 0)) (d (n "inkpad-support") (r "^0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "parity-wasm") (r "^0.42.2") (d #t) (k 0)))) (h "17a4jc6vq9k1d92n9kmdamls33llbvx2rnzj9k8k9qgggcxdb0jr") (f (quote (("std" "inkpad-std/std" "inkpad-executor/std" "inkpad-support/std") ("default"))))))
+

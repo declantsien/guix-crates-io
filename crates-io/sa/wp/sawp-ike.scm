@@ -1,0 +1,6 @@
+(define-module (crates-io sa wp sawp-ike) #:use-module (crates-io))
+
+(define-public crate-sawp-ike-0.12.0 (c (n "sawp-ike") (v "0.12.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "sawp") (r "^0.12.0") (d #t) (k 0)) (d (n "sawp-ffi") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "sawp-flags") (r "^0.12.0") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "cbindgen") (r "^0.15") (o #t) (d #t) (k 1)))) (h "09kka5fqm9fdkwa1r66m85kjk6j9yznipgpqqb7rb60naq7d40fv") (f (quote (("verbose" "sawp/verbose") ("ffi" "cbindgen" "sawp/ffi" "sawp-ffi"))))))
+
+(define-public crate-sawp-ike-0.12.1 (c (n "sawp-ike") (v "0.12.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "sawp") (r "^0.12.1") (d #t) (k 0)) (d (n "sawp-ffi") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "sawp-flags") (r "^0.12.1") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "cbindgen") (r "^0.15") (o #t) (d #t) (k 1)))) (h "1rgarqw365xdq0p8kf78pkbsv9714g9z9llpcfci9j682r6287h3") (f (quote (("verbose" "sawp/verbose") ("ffi" "cbindgen" "sawp/ffi" "sawp-ffi"))))))
+

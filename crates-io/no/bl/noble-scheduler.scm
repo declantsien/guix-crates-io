@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-scheduler) #:use-module (crates-io))
+
+(define-public crate-noble-scheduler-2.0.0 (c (n "noble-scheduler") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "fabric-benchmarking") (r "^2.0.0") (o #t) (k 0)) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "serde") (r "^1.0.101") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 2)) (d (n "tet-io") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "1dg68q016hlwgahfbnj7ja4q4g9ld2s5j0gglc1hh19ggc8wgzcm") (f (quote (("std" "serde" "codec/std" "tp-runtime/std" "fabric-benchmarking/std" "fabric-support/std" "fabric-system/std" "tet-io/std" "tetcore-std/std") ("runtime-benchmarks" "fabric-benchmarking" "fabric-support/runtime-benchmarks" "fabric-system/runtime-benchmarks") ("default" "std"))))))
+

@@ -1,0 +1,24 @@
+(define-module (crates-io go od good-ormning-runtime) #:use-module (crates-io))
+
+(define-public crate-good-ormning-runtime-0.1.0 (c (n "good-ormning-runtime") (v "0.1.0") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "034v7w4w2v999fq19vawswg9hm1vzaa7vs5xi0cdjwgvmd2mbczv") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.8 (c (n "good-ormning-runtime") (v "0.1.8") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "04v3ndvxywb4mv03lv8vgsddy5xc2amxi0lg2zp487y2d3kxaclj") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.9 (c (n "good-ormning-runtime") (v "0.1.9") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "1vrj2qjmk3w8571jy6j39c8gi6ssss14c3v8mypm8261ql0gk8d7") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.10 (c (n "good-ormning-runtime") (v "0.1.10") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "1b7z5s7iikldz137lqvk1hlhjxzl3hmyw2i3kvlshkwq26khiwnb") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.12 (c (n "good-ormning-runtime") (v "0.1.12") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "0w6nap4ggci9gspa32ayfas3nh6xlfazj61akazky2cdhgmbk18j") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.13 (c (n "good-ormning-runtime") (v "0.1.13") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "1bp82hw1711cswcadl20ajglicx5ab4c5x9c2h873f93i2d6v57k") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.14 (c (n "good-ormning-runtime") (v "0.1.14") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "0w800275fqj6isivrzsbrajp73ikhhxn6i5jq5phx6bjzgngilwk") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.15 (c (n "good-ormning-runtime") (v "0.1.15") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "1ayrznznbqk41i349wckxraj78gv1wbffvyj5nlggpl931pvf4j3") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.16 (c (n "good-ormning-runtime") (v "0.1.16") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "1iy64yr38083cvcc0dhyrx273fbfzrackqmgw2j99l8n6y2iq4sl") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.17 (c (n "good-ormning-runtime") (v "0.1.17") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "0amknb43dmijamxy9nfhac0ay8gl1b7mmm3c1pxd3s7myzyr3br4") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+
+(define-public crate-good-ormning-runtime-0.1.18 (c (n "good-ormning-runtime") (v "0.1.18") (d (list (d (n "chrono") (r "^0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r "^0") (o #t) (d #t) (k 0)) (d (n "tokio-postgres") (r "^0") (o #t) (d #t) (k 0)))) (h "1mabs2wdsfl1rgylp9kk6l2bhl7ygc6m0iphi4xvljp9cr4fmk13") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite") ("pg" "dep:tokio-postgres") ("chrono" "dep:chrono"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io sa mo samotop-with-spf) #:use-module (crates-io))
+
+(define-public crate-samotop-with-spf-0.11.0 (c (n "samotop-with-spf") (v "0.11.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-model") (r "^0.11.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.19") (f (quote ("tokio-runtime"))) (k 0)) (d (n "viaspf") (r "^0.2") (d #t) (k 0)))) (h "17bqk8i0pm72km71dlkasvpx5gazmxd8zjnd41rf0hbiwqgfx2i4")))
+
+(define-public crate-samotop-with-spf-0.12.0 (c (n "samotop-with-spf") (v "0.12.0") (d (list (d (n "async-std") (r "^1.9") (d #t) (k 0)) (d (n "async-std-resolver") (r "^0.20") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.12.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.20") (k 0)) (d (n "viaspf") (r "^0.3") (d #t) (k 0)))) (h "1snlsf9fi3v7ja41am5m7l8mzapijgn1g7465ysm1zr6asp5giml")))
+
+(define-public crate-samotop-with-spf-0.13.0-samotop-dev (c (n "samotop-with-spf") (v "0.13.0-samotop-dev") (d (list (d (n "async-std") (r "^1.9") (d #t) (k 0)) (d (n "async-std-resolver") (r "^0.20") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.13.0-samotop-dev") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.20") (k 0)) (d (n "viaspf") (r "^0.4.0-alpha.1") (d #t) (k 0)))) (h "15hvnr6njqzkhhr79baicya8ycrfjsjls8g54hx86xxgv0z1cq2r")))
+
+(define-public crate-samotop-with-spf-0.13.0 (c (n "samotop-with-spf") (v "0.13.0") (d (list (d (n "async-std") (r "^1.9") (d #t) (k 0)) (d (n "async-std-resolver") (r "^0.20") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.13.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.20") (k 0)) (d (n "viaspf") (r "^0.4.0-alpha.1") (d #t) (k 0)))) (h "00q11lfhygb1yn26k4p5mky4mm6ib8apnfci5z1sl5sqnxqdicmh")))
+
+(define-public crate-samotop-with-spf-0.13.1 (c (n "samotop-with-spf") (v "0.13.1") (d (list (d (n "async-std") (r "^1.9") (d #t) (k 0)) (d (n "async-std-resolver") (r "^0.20") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.13.0") (d #t) (k 0)) (d (n "trust-dns-resolver") (r "^0.20") (k 0)) (d (n "viaspf") (r "^0.4.0-alpha.3") (d #t) (k 0)))) (h "0m845vpg4p4s5m80698r1lzp6w8b536gwq3dfhc4s3i1vmv74pin")))
+

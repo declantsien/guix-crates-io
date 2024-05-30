@@ -1,0 +1,4 @@
+(define-module (crates-io pr ox proximity-db) #:use-module (crates-io))
+
+(define-public crate-proximity-db-0.1.1 (c (n "proximity-db") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "dashmap") (r "^3.11.4") (d #t) (k 0)) (d (n "enum-iterator") (r "^0.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "human_format") (r "^1.0.3") (d #t) (k 0)) (d (n "nalgebra") (r "^0.21.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.0") (d #t) (k 0)) (d (n "proximity") (r "^0.1.0") (d #t) (k 0)) (d (n "proximity-grpc") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "streaming-stats") (r "^0.2.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.19") (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.2.1") (d #t) (k 0)) (d (n "typenum") (r "^1.12.0") (d #t) (k 0)))) (h "19wx8c4qcn9vjlyin128r27fqkk8ssx2zb2fwz83gx31lvcph89f")))
+

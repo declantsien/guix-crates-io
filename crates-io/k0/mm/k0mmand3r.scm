@@ -1,0 +1,8 @@
+(define-module (crates-io k0 mm k0mmand3r) #:use-module (crates-io))
+
+(define-public crate-k0mmand3r-0.1.0 (c (n "k0mmand3r") (v "0.1.0") (d (list (d (n "decimal-rs") (r "^0.1.43") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "winnow") (r "^0.5.30") (d #t) (k 0)))) (h "083alwi5zpnnywzq3778zm224l1cwjp76vxvg7aaf3y45hh22yf7")))
+
+(define-public crate-k0mmand3r-0.1.2 (c (n "k0mmand3r") (v "0.1.2") (d (list (d (n "decimal-rs") (r "^0.1.43") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.14") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.39") (d #t) (k 0)) (d (n "winnow") (r "^0.5.30") (d #t) (k 0)))) (h "0jp7dd45ag7p9zy50k414b5cgfq3zanllyy9g7lzw6c5wgraga2y") (f (quote (("lang-wasm") ("lang-python" "pyo3") ("default"))))))
+
+(define-public crate-k0mmand3r-0.1.5 (c (n "k0mmand3r") (v "0.1.5") (d (list (d (n "decimal-rs") (r "^0.1.43") (f (quote ("serde"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.14") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.39") (d #t) (k 0)) (d (n "winnow") (r "^0.5.30") (d #t) (k 0)))) (h "0lnfg5mjbpsrvlj6l9vabfcrn4i1jgvcsgg5bxpffzpzkf8iybvs") (f (quote (("lang-wasm") ("lang-python" "pyo3") ("default"))))))
+

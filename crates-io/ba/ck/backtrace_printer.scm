@@ -1,0 +1,10 @@
+(define-module (crates-io ba ck backtrace_printer) #:use-module (crates-io))
+
+(define-public crate-backtrace_printer-1.0.0 (c (n "backtrace_printer") (v "1.0.0") (d (list (d (n "btparse") (r "^0.1.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (f (quote ("redactions" "yaml"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "07pyfgn390ygd4r3s1xp0sxjm02ia7ca44mqxmk1d5sa55paz3sh")))
+
+(define-public crate-backtrace_printer-1.1.0 (c (n "backtrace_printer") (v "1.1.0") (d (list (d (n "btparse") (r "^0.1.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (f (quote ("redactions" "yaml"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0nprazkj8rpfz2rv08sp6mzaslv8iy46jxrf2i7a3siqv98za0ij") (f (quote (("unstable") ("default" "unstable"))))))
+
+(define-public crate-backtrace_printer-1.2.0 (c (n "backtrace_printer") (v "1.2.0") (d (list (d (n "btparse") (r "^0.1.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (f (quote ("redactions" "yaml"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "04605ysbyq2ggw15q4z9mg3d9rf00hbk3ndcccqrna9bwipbbs09") (f (quote (("unstable") ("default" "unstable"))))))
+
+(define-public crate-backtrace_printer-1.3.0 (c (n "backtrace_printer") (v "1.3.0") (d (list (d (n "btparse-stable") (r "^0.1.1") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (f (quote ("redactions" "yaml"))) (d #t) (k 2)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1dxa8mkk47wpcfsm8a74hy6idw7h7mbncawq80v8933h3kl8vlp8") (f (quote (("default"))))))
+

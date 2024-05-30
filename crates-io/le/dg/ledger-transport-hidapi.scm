@@ -1,0 +1,4 @@
+(define-module (crates-io le dg ledger-transport-hidapi) #:use-module (crates-io))
+
+(define-public crate-ledger-transport-hidapi-0.10.0 (c (n "ledger-transport-hidapi") (v "0.10.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hidapi") (r "^2.4.1") (f (quote ("linux-static-hidraw"))) (k 0)) (d (n "ledger-transport") (r "^0.10") (d #t) (k 0)) (d (n "ledger-zondax-generic") (r "^0.10") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 2)) (d (n "serial_test") (r "^0.7.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "16c5zczzm5933kdn7inw8889607iqsacpf37bfjiy9z483akjwg2")))
+

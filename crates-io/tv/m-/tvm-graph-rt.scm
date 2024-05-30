@@ -1,0 +1,4 @@
+(define-module (crates-io tv m- tvm-graph-rt) #:use-module (crates-io))
+
+(define-public crate-tvm-graph-rt-0.1.0-alpha (c (n "tvm-graph-rt") (v "0.1.0-alpha") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libloading") (r "^0.5") (d #t) (t "cfg(not(any(target_arch = \"wasm32\", target_env = \"sgx\")))") (k 0)) (d (n "ndarray") (r "^0.12") (d #t) (k 0)) (d (n "nom") (r "^5.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tvm-macros") (r "^0.1.1-alpha") (d #t) (k 0)) (d (n "tvm-sys") (r "^0.1.1-alpha") (d #t) (k 0)))) (h "0644qmf4pck7g82ipdzlj69f16j8za9yb434kvaljiix9xwwsds6")))
+

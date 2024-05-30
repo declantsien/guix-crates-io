@@ -1,0 +1,8 @@
+(define-module (crates-io te xc texc_v3_web) #:use-module (crates-io))
+
+(define-public crate-texc_v3_web-0.1.0 (c (n "texc_v3_web") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (d #t) (k 0)) (d (n "texc_v3_compiler_conf") (r "^0.1.0") (d #t) (k 0)) (d (n "texcore") (r "^0.6.0") (f (quote ("texcreate_template"))) (d #t) (k 0)) (d (n "texcreate_repo") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zip") (r "^0.6.4") (d #t) (k 0)))) (h "161ly6is8933jblbdrhindrnvsv4h5cn5zvcjmnsnknsvmxd3iz9")))
+
+(define-public crate-texc_v3_web-0.1.1 (c (n "texc_v3_web") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (d #t) (k 0)) (d (n "texc_v3_compiler_conf") (r "^0.1.0") (d #t) (k 0)) (d (n "texcore") (r "^0.6.0") (f (quote ("texcreate_template"))) (d #t) (k 0)) (d (n "texcreate_repo") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zip") (r "^0.6.4") (d #t) (k 0)))) (h "1z5fxkrz80jwbgplza7miqla5c1j9nb1mb6wnbsbgf5v061bzyrr")))
+
+(define-public crate-texc_v3_web-0.1.2 (c (n "texc_v3_web") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.14") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (d #t) (k 0)) (d (n "texc_v3_compiler_conf") (r "^0.1.0") (d #t) (k 0)) (d (n "texcore") (r "^0.6.0") (f (quote ("texcreate_template"))) (d #t) (k 0)) (d (n "texcreate_repo") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zip") (r "^0.6.4") (d #t) (k 0)))) (h "08zjrg001vbb8nfnwnvq5ygazh5qsz4qam3vqy9k4zdcdm07fnw9")))
+

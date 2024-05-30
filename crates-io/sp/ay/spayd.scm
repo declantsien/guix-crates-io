@@ -1,0 +1,12 @@
+(define-module (crates-io sp ay spayd) #:use-module (crates-io))
+
+(define-public crate-spayd-0.1.0 (c (n "spayd") (v "0.1.0") (d (list (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.0") (d #t) (k 0)))) (h "0d3sq78wram5rpmplba35k85xycbqvpvw2hv9b19wi1s2m8k9fyg") (f (quote (("default" "crc32")))) (y #t) (s 2) (e (quote (("crc32" "dep:crc32fast"))))))
+
+(define-public crate-spayd-0.1.1 (c (n "spayd") (v "0.1.1") (d (list (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.0") (d #t) (k 0)))) (h "0bsg35p3hwlm53qp2h95kj1n6grjljwhhn1bp817nqv7ikqzqh6y") (f (quote (("default" "crc32")))) (y #t) (s 2) (e (quote (("crc32" "dep:crc32fast"))))))
+
+(define-public crate-spayd-0.1.2 (c (n "spayd") (v "0.1.2") (d (list (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.0") (d #t) (k 0)))) (h "0093cnv85y7y5vm4n0hk06shhcwc5fwa73dxbbhlnr13zn7wv3p7") (f (quote (("default" "crc32")))) (s 2) (e (quote (("crc32" "dep:crc32fast"))))))
+
+(define-public crate-spayd-0.2.0 (c (n "spayd") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "iban_validate") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "iso_currency") (r "^0.4.4") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)))) (h "0405xsn5a8xw8i5l8c8m6d0yg2i2ck2w4lm7mz3r98pbg02rgdi7") (f (quote (("default" "crc32" "chrono" "iban_validate" "iso_currency" "rust_decimal")))) (s 2) (e (quote (("crc32" "dep:crc32fast"))))))
+
+(define-public crate-spayd-0.2.1 (c (n "spayd") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "iban_validate") (r "^4.0.1") (o #t) (d #t) (k 0)) (d (n "iso_currency") (r "^0.4.4") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)))) (h "0x9nw4d8c2lwa9ca5p3n7h8vmzvkql2kh011jmd637zgy47hcy88") (f (quote (("default" "crc32" "chrono" "iban_validate" "iso_currency" "rust_decimal")))) (s 2) (e (quote (("crc32" "dep:crc32fast"))))))
+

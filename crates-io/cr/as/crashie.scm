@@ -1,0 +1,10 @@
+(define-module (crates-io cr as crashie) #:use-module (crates-io))
+
+(define-public crate-crashie-0.1.0 (c (n "crashie") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "1kjri65xjg72lgh06rih323pw69xm70xbsjz5618lzfmszda2r86") (f (quote (("posix") ("non-posix") ("default" "posix" "non-posix"))))))
+
+(define-public crate-crashie-0.2.0 (c (n "crashie") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.12") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "0dcisd0vg6g5n3g3j7ad0g8hvwb4zzk4r0mv9l1j6svn83psy7wh") (f (quote (("posix") ("non-posix") ("default" "posix" "non-posix"))))))
+
+(define-public crate-crashie-0.3.0 (c (n "crashie") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.31") (f (quote ("clock" "alloc"))) (o #t) (k 0)) (d (n "clap") (r "^4.4.12") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "18pnk0f1jzcl9j9fwckfnyx4y1bvayhvqd88xbvdw1aspm8dsfih") (f (quote (("udp-echo") ("tcp-echo") ("posix") ("non-posix") ("default" "posix" "non-posix" "tcp-echo" "http-echo" "udp-echo")))) (s 2) (e (quote (("http-echo" "dep:chrono"))))))
+
+(define-public crate-crashie-0.4.0 (c (n "crashie") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.31") (f (quote ("clock" "alloc"))) (o #t) (k 0)) (d (n "clap") (r "^4.4.12") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "1kwxsg6wpvk4wmncgh886fh2bg2vksz9acrp19dydqpqafq9sl63") (f (quote (("udp-echo") ("tcp-echo") ("posix") ("non-posix") ("default" "posix" "non-posix" "tcp-echo" "http-echo" "udp-echo")))) (s 2) (e (quote (("http-echo" "dep:chrono"))))))
+

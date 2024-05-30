@@ -1,0 +1,6 @@
+(define-module (crates-io oc to octo-influx) #:use-module (crates-io))
+
+(define-public crate-octo-influx-0.1.0 (c (n "octo-influx") (v "0.1.0") (d (list (d (n "eyre") (r "^0.6.5") (d #t) (k 0)) (d (n "influx_db_client") (r "^0.5.0") (f (quote ("rustls-tls"))) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "octopower") (r "^0.1.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0slmpf9z5hprn88jh52y9qdvz7zbn6a3igg2ckir5i1phzg4nlxc")))
+
+(define-public crate-octo-influx-0.1.1 (c (n "octo-influx") (v "0.1.1") (d (list (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "influx_db_client") (r "^0.5.1") (f (quote ("rustls-tls"))) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "octopower") (r "^0.2.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.139") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0xpynz6y9l3762hdjsi8n2j7vwzq9lmrz3skmlmyi9zi760idanq")))
+

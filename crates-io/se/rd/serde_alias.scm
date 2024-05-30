@@ -1,0 +1,6 @@
+(define-module (crates-io se rd serde_alias) #:use-module (crates-io))
+
+(define-public crate-serde_alias-0.0.1 (c (n "serde_alias") (v "0.0.1") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.35") (d #t) (k 2)))) (h "06xsjafzz7hri7hwmnjpr3ygjapfk54jsppl3q4w32wi2nn8nj6s")))
+
+(define-public crate-serde_alias-0.0.2 (c (n "serde_alias") (v "0.0.2") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.35") (d #t) (k 2)))) (h "0x44nrj73jafqnfkblwddbvbybm7gx88qsy8sxw2d4bl6s7dgr1b")))
+

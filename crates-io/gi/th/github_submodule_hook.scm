@@ -1,0 +1,4 @@
+(define-module (crates-io gi th github_submodule_hook) #:use-module (crates-io))
+
+(define-public crate-github_submodule_hook-0.1.1 (c (n "github_submodule_hook") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "base64") (r "^0.13.1") (d #t) (k 0)) (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.0.3") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "octorust") (r "^0.1.37") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0-rc.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (d #t) (k 0)) (d (n "uuid") (r "^1.2.1") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "1r99g3h6wbf8s90rivpm6pmpix4aczvmdc4dpv58rxck0wnvaha5")))
+

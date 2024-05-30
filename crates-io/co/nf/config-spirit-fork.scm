@@ -1,0 +1,4 @@
+(define-module (crates-io co nf config-spirit-fork) #:use-module (crates-io))
+
+(define-public crate-config-spirit-fork-0.1.0 (c (n "config-spirit-fork") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "float-cmp") (r "^0.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "nom") (r "^4.0.0") (d #t) (k 0)) (d (n "rust-ini") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.8") (d #t) (k 0)) (d (n "serde-hjson") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.8") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.2") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1lwcza22dl4ln1aci0k74gr9cy5q0zjbwhw3wv32hnrww51y8bqs") (f (quote (("yaml" "yaml-rust") ("json" "serde_json") ("ini" "rust-ini") ("hjson" "serde-hjson") ("default" "toml" "json" "yaml" "hjson" "ini"))))))
+

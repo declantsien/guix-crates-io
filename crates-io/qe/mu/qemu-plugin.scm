@@ -1,0 +1,12 @@
+(define-module (crates-io qe mu qemu-plugin) #:use-module (crates-io))
+
+(define-public crate-qemu-plugin-8.1.3-v2 (c (n "qemu-plugin") (v "8.1.3-v2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "qemu-plugin-sys") (r "^8.1.3-v2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)))) (h "1v3wmmrb2n6ff2h2gwkdixbmp3q0iavkgfx38ayqkv4ayihsc8n4")))
+
+(define-public crate-qemu-plugin-8.1.3-v3 (c (n "qemu-plugin") (v "8.1.3-v3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "qemu-plugin-sys") (r "^8.1.3-v3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)))) (h "02q4q3j9jpdgk34694jpshx7kpgm11dnqqs8aqj856yy22gcd677")))
+
+(define-public crate-qemu-plugin-8.1.3-v4 (c (n "qemu-plugin") (v "8.1.3-v4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "libc") (r "^0.2.152") (d #t) (t "cfg(windows)") (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "qemu-plugin-sys") (r "^8.1.3-v4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)) (d (n "windows") (r "^0.52") (f (quote ("Win32_System_WindowsProgramming" "Win32_System_LibraryLoader" "Win32_Foundation"))) (d #t) (t "cfg(windows)") (k 0)))) (h "144snx8w03niavrw52cizwd32lhrdm251cp85is49hyj5jsbxz7d") (f (quote (("unix-weak-link"))))))
+
+(define-public crate-qemu-plugin-8.2.0-v1 (c (n "qemu-plugin") (v "8.2.0-v1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "libc") (r "^0.2.152") (d #t) (t "cfg(windows)") (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "qemu-plugin-sys") (r "^8.2.0-v1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)) (d (n "windows") (r "^0.52") (f (quote ("Win32_System_WindowsProgramming" "Win32_System_LibraryLoader" "Win32_Foundation"))) (d #t) (t "cfg(windows)") (k 0)))) (h "162dcl3q1mvrva7ga9xxf2wfgzj9qmc1484kzy4drdv27wgj7xg5") (f (quote (("unix-weak-link"))))))
+
+(define-public crate-qemu-plugin-8.2.2-v0 (c (n "qemu-plugin") (v "8.2.2-v0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "libc") (r "^0.2.152") (d #t) (t "cfg(windows)") (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "qemu-plugin-sys") (r "^8.2.2-v0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)) (d (n "windows") (r "^0.52") (f (quote ("Win32_System_WindowsProgramming" "Win32_System_LibraryLoader" "Win32_Foundation"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0hf90iabigpgxdx071vq4nz0bpc301vhmlq4xjx4v30yd2dgw8xw") (f (quote (("unix-weak-link"))))))
+

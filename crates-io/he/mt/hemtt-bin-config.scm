@@ -1,0 +1,4 @@
+(define-module (crates-io he mt hemtt-bin-config) #:use-module (crates-io))
+
+(define-public crate-hemtt-bin-config-1.0.0 (c (n "hemtt-bin-config") (v "1.0.0") (d (list (d (n "git2") (r "^0.16.1") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "hemtt-bin-error") (r "^1.0.1") (d #t) (k 0)) (d (n "hemtt-config") (r "^1.0.0") (d #t) (k 0)) (d (n "hemtt-error") (r "^1.0.0") (d #t) (k 0)) (d (n "hemtt-pbo") (r "^1.0.0") (d #t) (k 0)) (d (n "hemtt-preprocessor") (r "^1.0.0") (d #t) (k 0)) (d (n "hemtt-signing") (r "^1.0.0") (d #t) (k 0)) (d (n "hemtt-version") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("attributes"))) (d #t) (k 0)))) (h "0f64msas03cljfnz1qkqmq9yiliy0m0gvdwmpnnn8473qd0mffm4") (y #t)))
+

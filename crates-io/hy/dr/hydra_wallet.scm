@@ -1,0 +1,12 @@
+(define-module (crates-io hy dr hydra_wallet) #:use-module (crates-io))
+
+(define-public crate-hydra_wallet-0.1.0 (c (n "hydra_wallet") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.21.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.21.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.2.4") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.3.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "1qrjbr0wzgaz1mnvhvircl6nvgrxjrw8fk7alpp8vrvk3px20zzp") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-hydra_wallet-0.2.0 (c (n "hydra_wallet") (v "0.2.0") (d (list (d (n "anchor-lang") (r "^0.21.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.21.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.2.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "1zq7pdij50sn2xs8070h6jzivl5miy1grlwhw9qns0pc55f5hw7b") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-hydra_wallet-0.2.1 (c (n "hydra_wallet") (v "0.2.1") (d (list (d (n "anchor-lang") (r "^0.21.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.21.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.2.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0q3l486w7j1hfm7xydjm50vlazxr35xnyaj0k4im7az7w16s57ak") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-hydra_wallet-0.2.2 (c (n "hydra_wallet") (v "0.2.2") (d (list (d (n "anchor-lang") (r "^0.21.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.21.0") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.2.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0ilxnkq20346kn72wrgip4hq2d4b7idq8s77sicrx2dd2v6pla64") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-hydra_wallet-0.2.3 (c (n "hydra_wallet") (v "0.2.3") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (d #t) (k 0)) (d (n "mpl-token-metadata") (r "^1.2.7") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)))) (h "0qv0f69yanf2zy1dgad5qyby0diclx1j9i8smip5qifkikc2wbvc") (f (quote (("test-bpf") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

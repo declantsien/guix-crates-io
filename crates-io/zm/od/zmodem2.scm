@@ -1,0 +1,6 @@
+(define-module (crates-io zm od zmodem2) #:use-module (crates-io))
+
+(define-public crate-zmodem2-0.1.0 (c (n "zmodem2") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "strum") (r "^0.25.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (d #t) (k 0)))) (h "12zypdy8inanyqkm67l8kx6zivpcr34hh47gnsf3vwc5yy9sr3nr") (f (quote (("std") ("default" "std")))) (r "1.73")))
+
+(define-public crate-zmodem2-0.1.1 (c (n "zmodem2") (v "0.1.1") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "strum") (r "^0.25.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (d #t) (k 0)))) (h "16zpqhm5afsqp170dzn1l1z7kd3d1x06z3lkvqy76fj829lnh9jz") (f (quote (("std") ("default" "std")))) (r "1.73")))
+

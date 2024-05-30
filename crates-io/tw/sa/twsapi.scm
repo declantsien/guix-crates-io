@@ -1,0 +1,4 @@
+(define-module (crates-io tw sa twsapi) #:use-module (crates-io))
+
+(define-public crate-twsapi-0.1.0 (c (n "twsapi") (v "0.1.0") (d (list (d (n "ascii") (r "^1.0.0") (d #t) (k 0)) (d (n "bigdecimal") (r "^0.1.2") (d #t) (k 0)) (d (n "bytebuffer") (r "^0.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "bzip2") (r "^0.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "float-cmp") (r "^0.8.0") (d #t) (k 0)) (d (n "from-ascii") (r "^0.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "log4rs") (r "^0.12.0") (d #t) (k 0)) (d (n "num") (r "^0.3.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "160rj6607al671n6bxfyk846jbv5jcf8hsnmddmgzss29c3hdrf0")))
+

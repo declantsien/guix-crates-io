@@ -1,0 +1,18 @@
+(define-module (crates-io ze ro zero-bounce) #:use-module (crates-io))
+
+(define-public crate-zero-bounce-0.1.0 (c (n "zero-bounce") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "0rir7k0416rd907fzw3xxs4sm7lwhfv0m6f8v31xqhppkab3g4fb") (y #t)))
+
+(define-public crate-zero-bounce-0.1.1 (c (n "zero-bounce") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "1f7q67g3zkah1r620bm5mc1y8jpfc43mqnp2smyhx7mn0j9kwaxc") (y #t)))
+
+(define-public crate-zero-bounce-0.1.2 (c (n "zero-bounce") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "0zay6jkqd6fi5716qyrxi5xmfqbgk4picchrxklkffpmf3963gdf") (y #t)))
+
+(define-public crate-zero-bounce-0.1.3 (c (n "zero-bounce") (v "0.1.3") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "1zgw25yqax9syqb4zn0dxfhw6y7ay7m65cnr5z7m8xxllrbn7sfp") (y #t)))
+
+(define-public crate-zero-bounce-0.1.4 (c (n "zero-bounce") (v "0.1.4") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "1vfvyyxn6p3142mmyn51n7fpp2pw6w81va0z8mj9zni6jr0wpvpa") (y #t)))
+
+(define-public crate-zero-bounce-0.1.5 (c (n "zero-bounce") (v "0.1.5") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "1zaphr0abv6r0bxvgy1qzy4ajs8ks1hs0pgd1n67kz4zq2mfhsd3")))
+
+(define-public crate-zero-bounce-1.0.0 (c (n "zero-bounce") (v "1.0.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "1nrzma00c4j99aa3zsz3y95li4c9zby2xy7xzkiqy2lw3c2mmi0p")))
+
+(define-public crate-zero-bounce-1.1.0 (c (n "zero-bounce") (v "1.1.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "mockito") (r "^1.0.2") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)))) (h "18l8cnnmrx73kkix7pk61j9jn03iwnz0mr4z8l56a7p1qh611ns8")))
+

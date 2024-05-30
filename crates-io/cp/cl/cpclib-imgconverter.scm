@@ -1,0 +1,6 @@
+(define-module (crates-io cp cl cpclib-imgconverter) #:use-module (crates-io))
+
+(define-public crate-cpclib-imgconverter-0.6.0 (c (n "cpclib-imgconverter") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "built") (r "^0.5.1") (f (quote ("chrono"))) (d #t) (k 1)) (d (n "cpclib") (r "^0.6.0") (f (quote ("cmdline"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "lz4") (r "^1.23.3") (d #t) (k 0)) (d (n "notify") (r "^5.0.0-pre.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)))) (h "0zvcfjlaya6mpacmppy6advf75dx93yhzq2imi83dk1xh706i7rb") (f (quote (("xferlib" "cpclib/xferlib") ("default" "xferlib"))))))
+
+(define-public crate-cpclib-imgconverter-0.7.0 (c (n "cpclib-imgconverter") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "built") (r "^0.6.1") (f (quote ("chrono"))) (d #t) (k 1)) (d (n "cpclib") (r "^0.7.0") (f (quote ("cmdline"))) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "notify") (r "^6.0.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.7.0") (d #t) (k 0)))) (h "0chdziqnbgzqfyjc4z60av92h6xxzd6l590pjr5ja39hnzdig8d1") (f (quote (("xferlib" "cpclib/xferlib") ("default" "xferlib"))))))
+

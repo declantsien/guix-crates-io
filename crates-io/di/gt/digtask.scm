@@ -1,0 +1,4 @@
+(define-module (crates-io di gt digtask) #:use-module (crates-io))
+
+(define-public crate-digtask-0.1.0 (c (n "digtask") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "async-executor") (r "^1.8.0") (d #t) (k 0)) (d (n "async-process") (r "^2.1.0") (d #t) (k 0)) (d (n "async-recursion") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indexmap") (r "^2.2.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.32") (d #t) (k 0)) (d (n "smol") (r "^2.0.0") (d #t) (k 0)) (d (n "winnow") (r "^0.6.5") (d #t) (k 0)) (d (n "winnow") (r "^0.6.5") (d #t) (k 2)))) (h "0a3ljj7ybj6pypga8yd0wlswlkn9zk1x2b0zxcrdy1bfw2xamvnq")))
+

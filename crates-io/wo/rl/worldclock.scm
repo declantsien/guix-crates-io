@@ -1,0 +1,6 @@
+(define-module (crates-io wo rl worldclock) #:use-module (crates-io))
+
+(define-public crate-worldclock-0.1.0 (c (n "worldclock") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "0zppsw87j7v34z94y9nwjdih8rs61halzqlifpzzb522msvdbwcq")))
+
+(define-public crate-worldclock-0.2.0 (c (n "worldclock") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8") (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "076az5js4sxdppmpsk5fvx1jlhfqx931kaj9rypvcym21nb6kq8l")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io go og google-privateca1-cli) #:use-module (crates-io))
+
+(define-public crate-google-privateca1-cli-5.0.3+20230105 (c (n "google-privateca1-cli") (v "5.0.3+20230105") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.0") (d #t) (k 0)) (d (n "google-clis-common") (r "^6.0") (d #t) (k 0)) (d (n "google-privateca1") (r "^5.0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.24.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "mime") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strsim") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-service") (r "^0.3.1") (d #t) (k 0)))) (h "0nrfym2wn0za72bv7lbkh150xx28n2madz2z39f8q2pfkc1z95z5")))
+

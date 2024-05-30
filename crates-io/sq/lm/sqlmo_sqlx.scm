@@ -1,0 +1,10 @@
+(define-module (crates-io sq lm sqlmo_sqlx) #:use-module (crates-io))
+
+(define-public crate-sqlmo_sqlx-0.1.0 (c (n "sqlmo_sqlx") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "sqlmo") (r "^0.13") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("runtime-tokio-rustls" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^1.22.0") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "13cj5ink3s6ml6q6cz0sx7ck223q0z7vn6g5b8qi7gfrph8b83m2")))
+
+(define-public crate-sqlmo_sqlx-0.14.0 (c (n "sqlmo_sqlx") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "sqlmo") (r "^0.14") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("runtime-tokio-rustls" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^1.22.0") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "1vdnj78nb7ivcqk9qmrwb4in7z04nw9ifvqs4ghmr7nnm2h0x7kr")))
+
+(define-public crate-sqlmo_sqlx-0.15.0 (c (n "sqlmo_sqlx") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "sqlmo") (r "^0.15") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("runtime-tokio-rustls" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "17shlcqv99svjmdsl76dv2hbb21wxz0k704afq8d2l0jb2pwn3nk")))
+
+(define-public crate-sqlmo_sqlx-0.16.1 (c (n "sqlmo_sqlx") (v "0.16.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)) (d (n "sqlx") (r "^0.7.1") (f (quote ("runtime-tokio-rustls" "postgres"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "189j1bkbmdfl4ijnrgvgs357y2hk5k5yfkxbfhm6igg7cpl4h2zx")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io fb s- fbs-build) #:use-module (crates-io))
+
+(define-public crate-fbs-build-0.1.0 (c (n "fbs-build") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.33") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.11") (f (quote ("from" "as_ref"))) (d #t) (k 0)) (d (n "fbs") (r "=0.6.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "hexf-parse") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (f (quote ("regexp"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "structopt") (r "^0.3.20") (d #t) (k 0)) (d (n "syn") (r "^1.0.46") (d #t) (k 0)) (d (n "typed-builder") (r "^0.7.0") (d #t) (k 0)))) (h "18scbkicmfrd7dgpa791gswdi17plbi9yppagxc1d2pk609w8sfx")))
+

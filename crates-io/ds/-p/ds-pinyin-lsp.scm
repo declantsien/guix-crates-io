@@ -1,0 +1,10 @@
+(define-module (crates-io ds -p ds-pinyin-lsp) #:use-module (crates-io))
+
+(define-public crate-ds-pinyin-lsp-0.1.0 (c (n "ds-pinyin-lsp") (v "0.1.0") (d (list (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "lsp-document") (r "^0.6.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-lsp") (r "^0.17.0") (d #t) (k 0)))) (h "098im7lpdzzc0njwgfsp0bclq25b6d52r0h8nm3qxgbh94s9n7px")))
+
+(define-public crate-ds-pinyin-lsp-0.2.0 (c (n "ds-pinyin-lsp") (v "0.2.0") (d (list (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "lsp-document") (r "^0.6.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-lsp") (r "^0.17.0") (d #t) (k 0)))) (h "1yrxzmjxn62wrjqijxgw2sifxvh9m4szfpr0yddg5xpcihpigqv1")))
+
+(define-public crate-ds-pinyin-lsp-0.3.0 (c (n "ds-pinyin-lsp") (v "0.3.0") (d (list (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "lsp-document") (r "^0.6.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-lsp") (r "^0.17.0") (d #t) (k 0)))) (h "1szwlzw3js9bznaamgpa674lk32dddg842qi41qa33z22w3drbj1")))
+
+(define-public crate-ds-pinyin-lsp-0.4.0 (c (n "ds-pinyin-lsp") (v "0.4.0") (d (list (d (n "dashmap") (r "^5.1.0") (d #t) (k 0)) (d (n "lsp-document") (r "^0.6.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-lsp") (r "^0.17.0") (d #t) (k 0)))) (h "0d82xf5l64rm52asa8sql8cxzj97wy2qg70p1fwyfsnl94kdq5nq")))
+

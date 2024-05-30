@@ -1,0 +1,28 @@
+(define-module (crates-io be vy bevy_life) #:use-module (crates-io))
+
+(define-public crate-bevy_life-0.1.0 (c (n "bevy_life") (v "0.1.0") (d (list (d (n "bevy") (r "^0.5") (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render" "bevy_winit" "png" "x11" "bevy_wgpu"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0n9f7f9hkblibhl6c6xn3ggz764f4idlb9nywgd1bvrg868nc1ip") (f (quote (("default" "2D" "3D") ("auto-coloring") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.2.0 (c (n "bevy_life") (v "0.2.0") (d (list (d (n "bevy") (r "^0.5") (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render" "bevy_winit" "png" "x11" "bevy_wgpu"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "02m3s4726sslw0apw71gp4j2ks716pflf174anyylvlk1pzvwjim") (f (quote (("default" "2D") ("auto-coloring") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.2.1 (c (n "bevy_life") (v "0.2.1") (d (list (d (n "bevy") (r "^0.5") (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render" "bevy_winit" "png" "x11" "bevy_wgpu"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "18chr1kqkid84bj3qf5z559zzwbya9wa68k1zvwcb5778bf3zhby") (f (quote (("default" "2D") ("auto-coloring") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.2.2 (c (n "bevy_life") (v "0.2.2") (d (list (d (n "bevy") (r "^0.5") (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render" "bevy_winit" "png" "x11" "bevy_wgpu"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1yhpv99s5mvxyd2w93lvqr715fh4ryid1kl4d9siqzkx08mbzpja") (f (quote (("default" "2D") ("auto-coloring") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.2.3 (c (n "bevy_life") (v "0.2.3") (d (list (d (n "bevy") (r "^0.5") (k 0)) (d (n "bevy") (r "^0.5") (f (quote ("render" "bevy_winit" "png" "x11" "bevy_wgpu"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1qj72n12lcdh9zfs2xnsh4gm8scchpgw6l6q0br5am8j54rpbi09") (f (quote (("default" "2D") ("auto-coloring") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.3.0 (c (n "bevy_life") (v "0.3.0") (d (list (d (n "bevy") (r "^0.6") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.6") (f (quote ("render" "bevy_winit" "x11"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1f48fc6k7pqyv319b6b87a7aalsk0f9i9pmmf0d9sg1a8rpx3460") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.3.1 (c (n "bevy_life") (v "0.3.1") (d (list (d (n "bevy") (r "^0.6") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.6") (f (quote ("render" "bevy_winit" "x11"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1sjgq81gkf972c76ds5p0crgd257c2cy9zl16nskbb1img5ca87g") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.4.0 (c (n "bevy_life") (v "0.4.0") (d (list (d (n "bevy") (r "^0.7") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.7") (f (quote ("render" "bevy_winit" "x11"))) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1qlha2168pvmh7g39cvr2sbigl0nv3hdcnmyfw9yhbn5liidzj6h") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.5.0 (c (n "bevy_life") (v "0.5.0") (d (list (d (n "bevy") (r "^0.8") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.8") (f (quote ("render" "bevy_winit" "x11" "bevy_asset"))) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1nxknqc414lq3dr843fd788pdcn5clkg8v1s20gq42gip9p1148w") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.6.0 (c (n "bevy_life") (v "0.6.0") (d (list (d (n "bevy") (r "^0.9") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.9") (f (quote ("render" "bevy_winit" "x11" "bevy_asset"))) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1c3ngy10k5mplppz1gxna23v6b976krjskxra4719vbml08jvc96") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.7.0 (c (n "bevy_life") (v "0.7.0") (d (list (d (n "bevy") (r "^0.10") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.10") (f (quote ("bevy_render" "bevy_winit" "bevy_core_pipeline" "x11" "bevy_asset" "bevy_sprite" "bevy_pbr"))) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1rzjk6yq2q5gzq02nr9bvf97m2a1yh4yjn1hdq024g4wq2iqzy7b") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.8.0 (c (n "bevy_life") (v "0.8.0") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.11") (f (quote ("bevy_render" "bevy_winit" "bevy_core_pipeline" "x11" "bevy_asset" "bevy_sprite" "bevy_pbr"))) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "16pndblgfparhnrmljf2mjncd5n3bn5cs46il03yaxync66cgysr") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+
+(define-public crate-bevy_life-0.9.0 (c (n "bevy_life") (v "0.9.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_render"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("bevy_asset" "bevy_winit" "bevy_core_pipeline" "bevy_pbr" "bevy_render" "bevy_sprite" "png" "x11" "tonemapping_luts" "multi-threaded" "dynamic_linking"))) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0ipsk37pn2fj45z87h00xp9mziiy0cc2ld12llm0a9c1jygciqd6") (f (quote (("default" "2D") ("auto-coloring" "bevy/bevy_sprite") ("3D") ("2D"))))))
+

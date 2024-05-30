@@ -1,0 +1,12 @@
+(define-module (crates-io ex tx extxyz) #:use-module (crates-io))
+
+(define-public crate-extxyz-0.1.0 (c (n "extxyz") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "grep-reader") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "winnow") (r "^0.5.39") (d #t) (k 0)))) (h "1s827gciy7h7acz7g5n9nqhjyhqxaihlzqyr824pdz4q24gvcc6n") (f (quote (("adhoc"))))))
+
+(define-public crate-extxyz-0.1.1 (c (n "extxyz") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "gchemol-gut") (r "^0.4.4") (d #t) (k 2)) (d (n "gchemol-parser") (r "^0.4.5") (d #t) (k 2)) (d (n "grep-reader") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "winnow") (r "^0.5.39") (d #t) (k 0)))) (h "18ygz7cwlv07i5ajd177gvxw4h3466snc8rm1h3kjyjfm7d55vdk") (f (quote (("adhoc"))))))
+
+(define-public crate-extxyz-0.1.2 (c (n "extxyz") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "gchemol-gut") (r "^0.4.4") (d #t) (k 2)) (d (n "gchemol-parser") (r "^0.4.5") (d #t) (k 2)) (d (n "grep-reader") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "winnow") (r "^0.5.39") (d #t) (k 0)))) (h "0zbvxpplygvwxvvrp9ww60jhxp9i6kvf91ix476pwl3kc8vf7950") (f (quote (("adhoc"))))))
+
+(define-public crate-extxyz-0.1.3 (c (n "extxyz") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "gchemol-gut") (r "^0.4.4") (d #t) (k 2)) (d (n "gchemol-parser") (r "^0.4.5") (d #t) (k 2)) (d (n "grep-reader") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "winnow") (r "^0.5.39") (d #t) (k 0)))) (h "17gdrs77x2b7xnj4a134q1zjjdqb4db40sw538kni1xgqk7vnlsc") (f (quote (("adhoc"))))))
+
+(define-public crate-extxyz-0.2.0 (c (n "extxyz") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "gchemol-gut") (r "^0.4.4") (d #t) (k 2)) (d (n "gchemol-parser") (r "^0.4.5") (d #t) (k 2)) (d (n "grep-reader") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "winnow") (r "^0.5.39") (d #t) (k 0)))) (h "04dd808mknylifk1z0bz0028hxp10bb1bjn1f42iglcjc1dl0fs5") (f (quote (("adhoc"))))))
+

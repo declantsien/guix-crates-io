@@ -1,0 +1,4 @@
+(define-module (crates-io ch ia chia-sdk-driver) #:use-module (crates-io))
+
+(define-public crate-chia-sdk-driver-0.8.0 (c (n "chia-sdk-driver") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 2)) (d (n "chia-bls") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-consensus") (r "^0.8.0") (d #t) (k 2)) (d (n "chia-protocol") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-puzzles") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-sdk-test") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-sdk-types") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-traits") (r "^0.8.0") (d #t) (k 0)) (d (n "clvm-traits") (r "^0.8.0") (d #t) (k 0)) (d (n "clvm-utils") (r "^0.8.0") (d #t) (k 0)) (d (n "clvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "09j06mm80bhjjqf1qv8ljq66w7gc90fjj84njh6v3mgvaxxs4rvg")))
+

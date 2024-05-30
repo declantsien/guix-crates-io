@@ -1,0 +1,4 @@
+(define-module (crates-io #{2}# e2) #:use-module (crates-io))
+
+(define-public crate-e2-0.1.0 (c (n "e2") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "crevice") (r "^0.8") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "glam") (r "^0.20") (f (quote ("mint"))) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "mint") (r "^0.5") (d #t) (k 0)) (d (n "pollster") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "raw-window-handle") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "typed-arena") (r "^2.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.12") (d #t) (k 0)) (d (n "wgpu_glyph") (r "^0.16") (d #t) (k 0)) (d (n "winit") (r "^0.26") (d #t) (k 2)))) (h "074f18kkvvikkabj1yl82kphqbmyjwvscm12sg63wzzjgp4yyirg")))
+

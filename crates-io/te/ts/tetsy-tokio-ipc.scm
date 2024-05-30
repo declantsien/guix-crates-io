@@ -1,0 +1,4 @@
+(define-module (crates-io te ts tetsy-tokio-ipc) #:use-module (crates-io))
+
+(define-public crate-tetsy-tokio-ipc-0.4.0 (c (n "tetsy-tokio-ipc") (v "0.4.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio-named-pipes") (r "^0.1") (d #t) (k 0)) (d (n "miow") (r "^0.3.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-named-pipes") (r "^0.1") (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winbase" "winnt" "accctrl" "aclapi" "securitybaseapi" "minwinbase" "winbase"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1jv52sg77dncnl36zam00irj55gym1jbqhmcavbfz45ga7vkpdgq")))
+

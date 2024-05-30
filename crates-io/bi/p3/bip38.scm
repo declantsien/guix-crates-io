@@ -1,0 +1,12 @@
+(define-module (crates-io bi p3 bip38) #:use-module (crates-io))
+
+(define-public crate-bip38-1.0.0 (c (n "bip38") (v "1.0.0") (d (list (d (n "aes") (r "^0.7.4") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9.1") (d #t) (k 0)) (d (n "scrypt") (r "^0.7.0") (k 0)) (d (n "secp256k1") (r "^0.20.3") (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "1h3cav120s25rqbnrkpianqv5x3asai0rcr4shlm1c9v1sshaz14")))
+
+(define-public crate-bip38-1.0.1 (c (n "bip38") (v "1.0.1") (d (list (d (n "aes") (r "^0.7.4") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9.1") (d #t) (k 0)) (d (n "scrypt") (r "^0.7.0") (k 0)) (d (n "secp256k1") (r "^0.20.3") (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "0b2jfl2qz1v0g8vs2f2nmkn9hzwbk74mwk0ng5d20p19spfbdqb4")))
+
+(define-public crate-bip38-1.0.2 (c (n "bip38") (v "1.0.2") (d (list (d (n "aes") (r "^0.7.4") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9.1") (d #t) (k 0)) (d (n "scrypt") (r "^0.7.0") (k 0)) (d (n "secp256k1") (r "^0.20.3") (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "1y67a7jv6mqbyswrlamxa0020ngi96jhdjkdsfcvc11rm380wkfs")))
+
+(define-public crate-bip38-1.1.0 (c (n "bip38") (v "1.1.0") (d (list (d (n "aes") (r "^0.7.4") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9.1") (d #t) (k 0)) (d (n "scrypt") (r "^0.7.0") (k 0)) (d (n "secp256k1") (r "^0.20.3") (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.19") (d #t) (k 0)))) (h "1r26rymydndrrxnahqn6gz8nls4lvanb5vjx2i2i39xa5b07x4cb")))
+
+(define-public crate-bip38-1.1.1 (c (n "bip38") (v "1.1.1") (d (list (d (n "aes") (r "^0.8.4") (d #t) (k 0)) (d (n "bs58") (r "^0.5.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ripemd") (r "^0.1.3") (d #t) (k 0)) (d (n "scrypt") (r "^0.11.0") (k 0)) (d (n "secp256k1") (r "^0.29.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.23") (d #t) (k 0)))) (h "0mxw6lhjdb0wh3w3yic7p5xxarsylcjv6d2nfbn9rpamk8wck98a")))
+

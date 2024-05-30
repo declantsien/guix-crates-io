@@ -1,0 +1,4 @@
+(define-module (crates-io nt h1 nth1m) #:use-module (crates-io))
+
+(define-public crate-NtH1M-0.2.4 (c (n "NtH1M") (v "0.2.4") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^3.0.10") (d #t) (k 0)) (d (n "futures") (r "^0.3.15") (d #t) (k 0)) (d (n "http") (r "^0.2.6") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (t "cfg(not(any(target_os = \"macos\", target_os = \"windows\")))") (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.8") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.122") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)))) (h "17kyrrs5lxnajci954vrbkw0b7d8ajm5k0a8lf4ghcmqp38rlhpd")))
+

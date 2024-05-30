@@ -1,0 +1,14 @@
+(define-module (crates-io ue xe uexec) #:use-module (crates-io))
+
+(define-public crate-uexec-0.0.0 (c (n "uexec") (v "0.0.0") (h "0hpir6dfha6z248n9l826l554w2bn0nm5rkyxa7rm1d2j1na9ff4")))
+
+(define-public crate-uexec-0.1.0 (c (n "uexec") (v "0.1.0") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "easy-parallel") (r "^3.1") (d #t) (k 2)) (d (n "fastrand") (r "^1.4") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)))) (h "15s5k2qy316whzln99n8zfpjd9y82nbip0ydj234pxdnm4c266jn")))
+
+(define-public crate-uexec-0.1.1 (c (n "uexec") (v "0.1.1") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "easy-parallel") (r "^3.1") (d #t) (k 2)) (d (n "fastrand") (r "^1.4") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)))) (h "0rgncqxjqanhcajc2m5dbqx9s1x374zhx7yxyh21an7k1d9s7c19")))
+
+(define-public crate-uexec-0.1.2 (c (n "uexec") (v "0.1.2") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "easy-parallel") (r "^3.1") (d #t) (k 2)) (d (n "fastrand") (r "^1.4") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)))) (h "1idrk1rniy7l9y1yx0hc8fyp5bl777l61j4r7n5l5ylxxv2bd3r9")))
+
+(define-public crate-uexec-0.1.3 (c (n "uexec") (v "0.1.3") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "easy-parallel") (r "^3.1") (d #t) (k 2)) (d (n "fastrand") (r "^1.4") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)))) (h "1h85hy0snj1547r1xwkqs61wnjwyb67saap7rlknhlxabsxz1a5q")))
+
+(define-public crate-uexec-0.1.4 (c (n "uexec") (v "0.1.4") (d (list (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "easy-parallel") (r "^3.1") (d #t) (k 2)) (d (n "fastrand") (r "^1.4") (d #t) (k 0)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "num_cpus") (r "^1.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)))) (h "1ag6h8ywr5m00321jb8g464gnr6wjjzix5p2ncqhs39kh07yriqi")))
+

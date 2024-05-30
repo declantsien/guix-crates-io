@@ -1,0 +1,4 @@
+(define-module (crates-io gn om gnome-search-provider-cartridges) #:use-module (crates-io))
+
+(define-public crate-gnome-search-provider-cartridges-0.1.0 (c (n "gnome-search-provider-cartridges") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.18.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "search-provider") (r "^0.6.0") (f (quote ("tokio" "gdk-pixbuf"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("fs" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "zbus") (r "^3.14.1") (f (quote ("tokio"))) (d #t) (k 0)))) (h "16jvj19rkzlc7ajrd1j1g9wpg1dqxsl67mr9vi0yldxa2k9s8xss")))
+

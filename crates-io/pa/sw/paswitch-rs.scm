@@ -1,0 +1,36 @@
+(define-module (crates-io pa sw paswitch-rs) #:use-module (crates-io))
+
+(define-public crate-paswitch-rs-0.1.0 (c (n "paswitch-rs") (v "0.1.0") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "0rmrbfx4qkgfammb7y8g5qk7xfm66y63g4z1if16807qr89kv1xm")))
+
+(define-public crate-paswitch-rs-0.1.1 (c (n "paswitch-rs") (v "0.1.1") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1lklqf9x9yii7imxirnm5qifwg4qhlps5552rgjgz8d3rnya70ca")))
+
+(define-public crate-paswitch-rs-0.2.0 (c (n "paswitch-rs") (v "0.2.0") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "10h0n6ryjcyrrq6gnvfy1xiykhixjivlp2995vrf7pmllybz1qk0")))
+
+(define-public crate-paswitch-rs-0.2.1 (c (n "paswitch-rs") (v "0.2.1") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.3") (d #t) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1yb6plzsvsgb0ddgh2v0pak0lvrsw86pgll5815bqjp9zb1mdjr2")))
+
+(define-public crate-paswitch-rs-0.2.3 (c (n "paswitch-rs") (v "0.2.3") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "structopt") (r "^0.3.25") (d #t) (k 0)) (d (n "strum") (r "^0.23") (d #t) (k 0)) (d (n "strum_macros") (r "^0.23") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "0iac9c98jqc7gjq5xfj0y1f3pl09kal78ri8bsf293b9hbmw3z90")))
+
+(define-public crate-paswitch-rs-0.3.0 (c (n "paswitch-rs") (v "0.3.0") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1f4x80ycm7a4xh202yyq0bl8c1qi86yy2gsmfyz0i02m9cimcx51")))
+
+(define-public crate-paswitch-rs-0.3.1 (c (n "paswitch-rs") (v "0.3.1") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "02lpaqzsw12y20li8hxcwn2pxykasaa6kyrivykm4z3wysr0g642")))
+
+(define-public crate-paswitch-rs-0.3.2 (c (n "paswitch-rs") (v "0.3.2") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "strum") (r "^0.24.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1msiavl5y1mw6xar95qfrhaxks8alxywzff9qb5chjqp1xkh922z")))
+
+(define-public crate-paswitch-rs-0.3.3 (c (n "paswitch-rs") (v "0.3.3") (d (list (d (n "quicli") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1v5hh5gghv80vyj8l8iar2lcxj0a05v95zgjnvxf87fi2xcpax24")))
+
+(define-public crate-paswitch-rs-0.3.4 (c (n "paswitch-rs") (v "0.3.4") (d (list (d (n "clap") (r "^3.2.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1h171qih204cs63ggnqbrbac343gpfkcj4nswvpmw2rhwj610h6r")))
+
+(define-public crate-paswitch-rs-0.3.5 (c (n "paswitch-rs") (v "0.3.5") (d (list (d (n "clap") (r "^4.0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "0rn5kzvayspw5065xgz8a5nx2vkgks38shx7mivbcjka0sq4l8xs")))
+
+(define-public crate-paswitch-rs-0.3.6 (c (n "paswitch-rs") (v "0.3.6") (d (list (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "0jw20j0mkd6zyjvhv8ppdl6xbsk21gfbczfz8p4hwk90yqs702sr")))
+
+(define-public crate-paswitch-rs-0.3.7 (c (n "paswitch-rs") (v "0.3.7") (d (list (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.8.2") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1spzrira6k0pkii17fw37p40yiwz2l0726y9058afxj9dadc5avk")))
+
+(define-public crate-paswitch-rs-0.3.8 (c (n "paswitch-rs") (v "0.3.8") (d (list (d (n "clap") (r "^4.3.23") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.0") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1hp54lfm23l0inyhk1rbkdppwh93g7zm8qcjhs68kg22slxk3s95")))
+
+(define-public crate-paswitch-rs-0.3.9 (c (n "paswitch-rs") (v "0.3.9") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1qrkw2h38h9nlj0f57vn5mpwwjzd9px7spihzadfg2y3x73yjscd")))
+
+(define-public crate-paswitch-rs-0.3.10 (c (n "paswitch-rs") (v "0.3.10") (d (list (d (n "clap") (r "^4.4.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.3") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1kszdjckcn6wv3jrcwk3l812cp4vyfbkwlvhlgcfw27yrhfwvvki")))
+
+(define-public crate-paswitch-rs-0.3.11 (c (n "paswitch-rs") (v "0.3.11") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.1") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "0yvddqhbldihzysl4nk5vq29s77v7l4nyjz6zda1a28jsq5z5rns")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io un sp unsplash-rs) #:use-module (crates-io))
+
+(define-public crate-unsplash-rs-0.1.0 (c (n "unsplash-rs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_url_params") (r "^0.1") (d #t) (k 0)))) (h "1bzjq95fw93w18f5dz38c1cbz5ggw682wdp1gh546q4hd4r56fsh")))
+
+(define-public crate-unsplash-rs-0.1.1 (c (n "unsplash-rs") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_url_params") (r "^0.1") (d #t) (k 0)))) (h "0a5infadjl9rj85pvlf02l36542jn3liq212287lvhsciv58y23j")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io va le valence_registry) #:use-module (crates-io))
+
+(define-public crate-valence_registry-0.2.0-alpha.1+mc.1.20.1 (c (n "valence_registry") (v "0.2.0-alpha.1+mc.1.20.1") (d (list (d (n "anyhow") (r "^1.0.70") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "bevy_app") (r "^0.11") (k 0)) (d (n "bevy_ecs") (r "^0.11") (f (quote ("multi-threaded"))) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "valence_ident") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "valence_nbt") (r "^0.6.1") (f (quote ("uuid" "serde"))) (d #t) (k 0)) (d (n "valence_protocol") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "valence_server_common") (r "^0.2.0-alpha.1") (d #t) (k 0)))) (h "133bnfqc7dk2jsy1rr9sd6lkxaljnmpv8l9gwqnkvachz21hv5q0")))
+

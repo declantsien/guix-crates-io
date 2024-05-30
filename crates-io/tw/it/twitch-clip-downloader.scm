@@ -1,0 +1,4 @@
+(define-module (crates-io tw it twitch-clip-downloader) #:use-module (crates-io))
+
+(define-public crate-twitch-clip-downloader-0.1.0 (c (n "twitch-clip-downloader") (v "0.1.0") (d (list (d (n "indicatif") (r "^0.15") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "rustls-tls" "trust-dns"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.2") (f (quote ("std" "serde"))) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "twitch-api-rs") (r "^0.1") (d #t) (k 0)))) (h "1fm24xipnlphzphfzffljgycssqa8f821fb9whlyrfg46r2149j3")))
+

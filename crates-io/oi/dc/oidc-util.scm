@@ -1,0 +1,4 @@
+(define-module (crates-io oi dc oidc-util) #:use-module (crates-io))
+
+(define-public crate-oidc-util-0.0.1 (c (n "oidc-util") (v "0.0.1") (d (list (d (n "actix-web") (r "^4.3.1") (d #t) (k 0)) (d (n "alcoholic_jwt") (r "^4091.0.0") (d #t) (k 0)) (d (n "async-graphql") (r "^5.0.9") (d #t) (k 0)) (d (n "bson") (r "^2.6.1") (d #t) (k 0)) (d (n "hub1989-error-util") (r "^0.0.1") (d #t) (k 0)) (d (n "mongodb") (r "^2.5.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "10f2r6ixwbwwb0kwv7xf1byac2n0zh5kq3y7yf8zq4ki9hc1x75y")))
+

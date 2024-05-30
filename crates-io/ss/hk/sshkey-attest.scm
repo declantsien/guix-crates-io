@@ -1,0 +1,4 @@
+(define-module (crates-io ss hk sshkey-attest) #:use-module (crates-io))
+
+(define-public crate-sshkey-attest-0.5.0 (c (n "sshkey-attest") (v "0.5.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "base64urlsafedata") (r "^0.5.0") (d #t) (k 0)) (d (n "nom") (r "^7.1") (d #t) (k 0)) (d (n "openssl") (r "^0.10.56") (d #t) (k 0)) (d (n "serde") (r "^1.0.141") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_cbor_2") (r "^0.12.0-dev") (d #t) (k 0)) (d (n "sshkeys") (r "^0.3.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "std" "fmt"))) (d #t) (k 2)) (d (n "uuid") (r "^1.1.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "webauthn-rs-core") (r "^0.5.0") (d #t) (k 0)))) (h "00jskqmrczi7msz8h65qgm85j9nm6lgaxh0p9xn1dfl7vsm5wa1l") (r "1.70.0")))
+

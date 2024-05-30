@@ -1,0 +1,4 @@
+(define-module (crates-io ar pa arpabet_cmudict) #:use-module (crates-io))
+
+(define-public crate-arpabet_cmudict-2.0.0 (c (n "arpabet_cmudict") (v "2.0.0") (d (list (d (n "arpabet_parser") (r "^2.0.0") (d #t) (k 0)) (d (n "arpabet_parser") (r "^2.0.0") (d #t) (k 1)) (d (n "arpabet_types") (r "^2.0.0") (d #t) (k 0)) (d (n "arpabet_types") (r "^2.0.0") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "expectest") (r "^0.10") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 1)) (d (n "phf") (r "^0.8") (f (quote ("macros"))) (d #t) (k 0)) (d (n "phf_codegen") (r "^0.8.0") (d #t) (k 1)) (d (n "phf_codegen") (r "^0.8.0") (d #t) (k 2)) (d (n "regex") (r "^1.0") (d #t) (k 0)))) (h "0vs4gd5nijlcg1ff8n99fq2s6m86wvi29wigljg28nsg7xclccj9")))
+

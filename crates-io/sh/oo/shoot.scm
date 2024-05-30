@@ -1,0 +1,6 @@
+(define-module (crates-io sh oo shoot) #:use-module (crates-io))
+
+(define-public crate-shoot-0.1.0 (c (n "shoot") (v "0.1.0") (d (list (d (n "clap") (r "^4.0.12") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "hw-msg") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "matrix-sdk") (r "^0.6.2") (f (quote ("e2e-encryption" "markdown" "rustls-tls" "sled"))) (k 0)) (d (n "quit") (r "^1.1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1n287qqy3lv56a6r1ka5z7qnk0z2ghsr0f7ssbqs1ykd46fjbky9")))
+
+(define-public crate-shoot-0.1.1 (c (n "shoot") (v "0.1.1") (d (list (d (n "clap") (r "^4.0.12") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "hw-msg") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "matrix-sdk") (r "^0.6.2") (f (quote ("e2e-encryption" "markdown" "rustls-tls" "sled"))) (k 0)) (d (n "quit") (r "^1.1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0sh37pvjx4823whpc9z3h7bgj2qhk2amyajlmd6p0gva3apk4irz")))
+

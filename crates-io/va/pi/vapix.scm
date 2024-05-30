@@ -1,0 +1,4 @@
+(define-module (crates-io va pi vapix) #:use-module (crates-io))
+
+(define-public crate-vapix-0.1.0 (c (n "vapix") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "digest_auth") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "pin-project") (r "^0.4") (d #t) (k 2)) (d (n "quick-xml") (r "^0.17") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "1c7i6b5gmfa7xrmglcn37621vmnx3y6yyl9liijnvn8npkv91w77") (f (quote (("default" "hyper"))))))
+

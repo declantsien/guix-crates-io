@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-dummywallet) #:use-module (crates-io))
+
+(define-public crate-bitcoin-dummywallet-0.1.12-alpha.0 (c (n "bitcoin-dummywallet") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-argsman") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-indexed-chain") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinwallet-interface") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinwallet-library") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "0mviyfr9x6sch6sqxv4gqbflcmklrp3fqxl5vdljydvbbzhi9d04")))
+
+(define-public crate-bitcoin-dummywallet-0.1.16-alpha.0 (c (n "bitcoin-dummywallet") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-argsman") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-indexed-chain") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinwallet-interface") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinwallet-library") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1sqr5w7xaxf31aj7gj0drwa8alq1wma8kr2sh2l6533r44d0ggfg")))
+

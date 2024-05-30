@@ -1,0 +1,4 @@
+(define-module (crates-io su st sustas) #:use-module (crates-io))
+
+(define-public crate-sustas-0.1.0 (c (n "sustas") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.3") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)) (d (n "time") (r "^0.3.17") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "zbus") (r "^3.4.0") (f (quote ("tokio"))) (o #t) (d #t) (k 0)))) (h "0p7vk1ry6cwbxjfa3fa14akk7jl5vjwn7ipjkfkcdcd4y4w5p0m8") (f (quote (("wifi" "zbus") ("swaybar" "serde_json") ("default" "battery" "bluetooth" "clock" "swaybar" "wifi") ("clock" "time/serde-human-readable" "tokio/time") ("bluetooth" "zbus") ("battery" "tokio/fs" "tokio/time"))))))
+

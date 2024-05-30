@@ -1,0 +1,8 @@
+(define-module (crates-io do la dolarhoy-core) #:use-module (crates-io))
+
+(define-public crate-dolarhoy-core-0.1.0 (c (n "dolarhoy-core") (v "0.1.0") (d (list (d (n "hyper") (r "^1.0.0-rc.3") (f (quote ("full"))) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.24.1") (d #t) (k 0)) (d (n "unhtml") (r "^0.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.25.1") (d #t) (k 0)))) (h "1plpb3x0pam5m3m89k7aqjck8n3nishnli9pkq1p110sq9lrwm0k")))
+
+(define-public crate-dolarhoy-core-0.2.0 (c (n "dolarhoy-core") (v "0.2.0") (d (list (d (n "hyper") (r "^1.0.0-rc.3") (f (quote ("full"))) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.24.1") (d #t) (k 0)) (d (n "unhtml") (r "^0.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.25.1") (d #t) (k 0)))) (h "07lsi10cb782n0l60z2pmyvmz28pz179w37ixhi931881b5k9qb1")))
+
+(define-public crate-dolarhoy-core-0.2.1 (c (n "dolarhoy-core") (v "0.2.1") (d (list (d (n "hyper") (r "^1.0.0-rc.3") (f (quote ("full"))) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.24.1") (d #t) (k 0)) (d (n "unhtml") (r "^0.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.25.2") (d #t) (k 0)))) (h "0jrinvq2pdljnqn59766gwryvlfai56s63qbb9f8hi3jlwv17nx6")))
+

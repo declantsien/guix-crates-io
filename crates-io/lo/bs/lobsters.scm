@@ -1,0 +1,6 @@
+(define-module (crates-io lo bs lobsters) #:use-module (crates-io))
+
+(define-public crate-lobsters-0.1.0 (c (n "lobsters") (v "0.1.0") (d (list (d (n "cookie_store") (r "^0.5.1") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "kuchiki") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.11") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)) (d (n "tokio") (r "^0.1.17") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)))) (h "1jai4v5xy2gzrldzwl7l2718jbkk7b8h96iz1qfk3vb75bjqyalz")))
+
+(define-public crate-lobsters-0.2.0 (c (n "lobsters") (v "0.2.0") (d (list (d (n "cookie_store") (r "^0.5.1") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "kuchiki") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.11") (f (quote ("rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.17") (d #t) (k 0)) (d (n "url") (r "^1.0") (d #t) (k 0)))) (h "03iabpz6xgqr5g7ajwxinfv0dj3rbk35kaayv85mv1ydwbs3d3zw")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ic rc icrc1-test-env-replica) #:use-module (crates-io))
+
+(define-public crate-icrc1-test-env-replica-0.1.0 (c (n "icrc1-test-env-replica") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "candid") (r "^0.8") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-agent") (r "^0.24.0") (d #t) (k 0)) (d (n "icrc1-test-env") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)))) (h "1ws9620skirqz40vlnlj59gxjxpx38idh9a96gnskb8y8cy9szvc") (r "1.31.0")))
+
+(define-public crate-icrc1-test-env-replica-0.1.1 (c (n "icrc1-test-env-replica") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "candid") (r "^0.9.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-agent") (r "^0.25.0") (d #t) (k 0)) (d (n "icrc1-test-env") (r "^0.1.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)))) (h "0xr7xfw5f6p5mxhph4bwz3aa8i202hd68diyvqxkrwb6sfhnq7am") (r "1.31.0")))
+
+(define-public crate-icrc1-test-env-replica-0.1.2 (c (n "icrc1-test-env-replica") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "candid") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-agent") (r "^0.31.0") (d #t) (k 0)) (d (n "icrc1-test-env") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)))) (h "1m97rmpdbxsz94xrb9gzyi08jwr5q76hifwi1420i31yrcfbymwv") (r "1.31.0")))
+

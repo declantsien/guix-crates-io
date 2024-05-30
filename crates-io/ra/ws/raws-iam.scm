@@ -1,0 +1,10 @@
+(define-module (crates-io ra ws raws-iam) #:use-module (crates-io))
+
+(define-public crate-raws-iam-0.0.0 (c (n "raws-iam") (v "0.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-sdk-iam") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.0") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.0") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.0") (d #t) (k 0) (p "raws-show")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1w8wxlybjinq47nqsdy69gbxn3kgbd4n90ngbbkav3vc47ahqzh0")))
+
+(define-public crate-raws-iam-0.0.1 (c (n "raws-iam") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-sdk-iam") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.1") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.1") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.1") (d #t) (k 0) (p "raws-show")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "19vp4hacnygixfqvlcgiyldlss4kcwzcjfdpj9v84asp8p5h5chr")))
+
+(define-public crate-raws-iam-0.0.2 (c (n "raws-iam") (v "0.0.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-sdk-iam") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.2") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.2") (d #t) (k 0) (p "raws-error")) (d (n "show") (r "^0.0.2") (d #t) (k 0) (p "raws-show")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1lm5ixkqyr7v0jc3vz4pnv3kjcq5y4lp0f0w5k2y1w7qzyiipqw4")))
+
+(define-public crate-raws-iam-0.0.3 (c (n "raws-iam") (v "0.0.3") (d (list (d (n "aws-sdk-iam") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "config") (r "^0.0.3") (d #t) (k 0) (p "raws-config")) (d (n "error") (r "^0.0.3") (d #t) (k 0) (p "raws-error")) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "show") (r "^0.0.3") (d #t) (k 0) (p "raws-show")))) (h "08yq5zfjf4lxw34q9v7lagvcqr6zfmwp6mzk3568kxw2y032sv2d")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ca rg cargo-rocketapi) #:use-module (crates-io))
+
+(define-public crate-cargo-rocketapi-1.0.0 (c (n "cargo-rocketapi") (v "1.0.0") (d (list (d (n "cargo_toml") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "openapi_rocketapi") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.1") (d #t) (k 0)) (d (n "rocket") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "simple_logger") (r "^1.3.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.5") (f (quote ("full" "derive" "printing" "parsing" "extra-traits"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.9") (d #t) (k 0)))) (h "0jd90555vczsxh5kvf5dy1z3qvg0svp0i3qv6a7qxs6frdyxwi95") (y #t)))
+

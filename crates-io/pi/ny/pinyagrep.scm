@@ -1,0 +1,6 @@
+(define-module (crates-io pi ny pinyagrep) #:use-module (crates-io))
+
+(define-public crate-pinyagrep-0.1.0 (c (n "pinyagrep") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.10") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "predicates") (r "^2.1.4") (d #t) (k 2)))) (h "0xphcx7vvrp0zn1cgl9g99pyncl3d5ncqg3w299caf4acfdb94b4")))
+
+(define-public crate-pinyagrep-0.1.1 (c (n "pinyagrep") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.10") (d #t) (k 2)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "ctrlc") (r "^3.2.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "predicates") (r "^2.1.4") (d #t) (k 2)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)))) (h "17nsfz619h039gv948gja68z99pi8x9wvqgvihyp9amirlg5ighq")))
+

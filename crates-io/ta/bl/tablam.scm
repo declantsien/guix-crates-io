@@ -1,0 +1,8 @@
+(define-module (crates-io ta bl tablam) #:use-module (crates-io))
+
+(define-public crate-tablam-0.1.0 (c (n "tablam") (v "0.1.0") (d (list (d (n "bit-vec") (r "^0.6.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (f (quote ("default"))) (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.7.0") (d #t) (k 0)))) (h "0hlikvnw6n7h1bmgs4h6gmy2pp69vcg44hc1qdxkax4cdwag09ml")))
+
+(define-public crate-tablam-0.3.1 (c (n "tablam") (v "0.3.1") (d (list (d (n "bit-vec") (r "^0.6.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (f (quote ("default"))) (d #t) (k 0)) (d (n "console") (r "^0.12.0") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "derivative") (r "^2.1.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.9") (d #t) (k 0)) (d (n "genawaiter") (r "^0.99.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.7.0") (d #t) (k 0)))) (h "0a5g9mhq16lwxbw1lzri81l4p6zln6zni7aw19pydkn7x5sh0x7k")))
+
+(define-public crate-tablam-0.3.4 (c (n "tablam") (v "0.3.4") (d (list (d (n "bit-vec") (r "^0.6.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (f (quote ("default"))) (d #t) (k 0)) (d (n "console") (r "^0.12.0") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "derivative") (r "^2.1.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.9") (d #t) (k 0)) (d (n "dyn-clone") (r "^1.0.2") (d #t) (k 0)) (d (n "genawaiter") (r "^0.99.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.7.0") (d #t) (k 0)))) (h "1bkkadmlsrn7c2x923v6n61il4an9jrbili4l7pcgwzc5x6lzf2s")))
+

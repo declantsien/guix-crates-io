@@ -1,0 +1,14 @@
+(define-module (crates-io sq lx sqlxx) #:use-module (crates-io))
+
+(define-public crate-sqlxx-0.1.0 (c (n "sqlxx") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-tokio-native-tls"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "16pcj91kl389fdlvvjaixjpmldhc9gh2ick78arlv56ic0p6d2za")))
+
+(define-public crate-sqlxx-0.1.1 (c (n "sqlxx") (v "0.1.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-tokio-native-tls"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "1vzmnmz5wzfsjjgam5jaj5zpf2pnswfk583q0m35xq8sa39b4ma8")))
+
+(define-public crate-sqlxx-0.1.2 (c (n "sqlxx") (v "0.1.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-tokio-native-tls"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "1k58zwvh8i4yqv2s4rgijns3c4yzwi39b219b0m9d9nx79bpxypi")))
+
+(define-public crate-sqlxx-0.1.3 (c (n "sqlxx") (v "0.1.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-tokio-native-tls"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "1knn0r282alwi58bd73zv742x0kghnm688r9gb6kp092k145ydqf")))
+
+(define-public crate-sqlxx-0.1.4 (c (n "sqlxx") (v "0.1.4") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-tokio-native-tls"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "0fric2b9vgwlvxhndncygwbsfy0fxgizqw496pr8yqbyb05lbv1y")))
+
+(define-public crate-sqlxx-0.1.5 (c (n "sqlxx") (v "0.1.5") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.64") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (f (quote ("postgres" "runtime-tokio-native-tls"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)))) (h "11rvpsmsivi0m9m5ajda46d1yqnjwy2yxx7gnwc6izwkvjmjdji8")))
+

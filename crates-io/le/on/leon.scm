@@ -1,0 +1,16 @@
+(define-module (crates-io le on leon) #:use-module (crates-io))
+
+(define-public crate-leon-0.0.0 (c (n "leon") (v "0.0.0") (d (list (d (n "miette") (r "^5.5.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0d3bp07022xhlhr6nx4v8vw8x4lc5s69vf7mv8k513k48v81qail") (r "1.61.0")))
+
+(define-public crate-leon-0.0.1 (c (n "leon") (v "0.0.1") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("cargo_bench_support" "real_blackbox"))) (k 2)) (d (n "miette") (r "^5.5.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2.1") (d #t) (k 2)))) (h "1l6g63xfy2m4zy7w4sd8k4lnzg23jw8fa1d1b8dgjcjcd2a3gyhs") (f (quote (("default" "miette")))) (s 2) (e (quote (("miette" "dep:miette") ("cli" "dep:clap" "miette/fancy-no-backtrace")))) (r "1.61.0")))
+
+(define-public crate-leon-1.0.0 (c (n "leon") (v "1.0.0") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (f (quote ("cargo_bench_support"))) (k 2)) (d (n "miette") (r "^5.5.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2.1") (d #t) (k 2)))) (h "1r9rrzbs8p9kg6d632rhrfm2838291aqa267ss042gd9mfqkhshf") (f (quote (("default" "miette")))) (s 2) (e (quote (("miette" "dep:miette") ("cli" "dep:clap" "miette?/fancy-no-backtrace")))) (r "1.61.0")))
+
+(define-public crate-leon-2.0.0 (c (n "leon") (v "2.0.0") (d (list (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "miette") (r "^5.8.0") (o #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "054bd3lfg037s7ca8xl3rfzir9v4gyqnp3pmmcf0hp1krljhrwil") (f (quote (("default" "miette")))) (s 2) (e (quote (("miette" "dep:miette") ("cli" "dep:clap" "miette?/fancy-no-backtrace")))) (r "1.61.0")))
+
+(define-public crate-leon-2.0.1 (c (n "leon") (v "2.0.1") (d (list (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "miette") (r "^5.9.0") (o #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "02w0fgz63r0f42sn8gqdh6g7si8wv0ny2bpz04sx8lcpzq6r5psj") (f (quote (("default" "miette")))) (s 2) (e (quote (("miette" "dep:miette") ("cli" "dep:clap" "miette" "miette?/fancy-no-backtrace")))) (r "1.61.0")))
+
+(define-public crate-leon-3.0.0 (c (n "leon") (v "3.0.0") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "miette") (r "^7.0.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "thiserror") (r "^1.0.52") (d #t) (k 0)))) (h "05xzazabb5fqzac5030kb8id50z7zg89hkglfs319ikzpi0v1hw4") (f (quote (("default" "miette")))) (s 2) (e (quote (("miette" "dep:miette") ("cli" "dep:clap" "miette" "miette?/fancy-no-backtrace")))) (r "1.61.0")))
+
+(define-public crate-leon-3.0.1 (c (n "leon") (v "3.0.1") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "miette") (r "^7.0.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "thiserror") (r "^1.0.52") (d #t) (k 0)))) (h "1cfq0p1lgf9a7az146wf9fh6rfllsisyvaxnjq2qnsw5pn9qcanq") (f (quote (("default" "miette")))) (s 2) (e (quote (("miette" "dep:miette") ("cli" "dep:clap" "miette" "miette?/fancy-no-backtrace")))) (r "1.61.0")))
+

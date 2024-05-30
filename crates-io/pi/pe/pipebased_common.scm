@@ -1,0 +1,4 @@
+(define-module (crates-io pi pe pipebased_common) #:use-module (crates-io))
+
+(define-public crate-pipebased_common-0.1.0 (c (n "pipebased_common") (v "0.1.0") (d (list (d (n "fslock") (r "^0.2.0") (d #t) (k 0)) (d (n "pipebuilder_common") (r "^0.2.2") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-build") (r "^0.9") (d #t) (k 1)) (d (n "prost-types") (r "^0.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "systemd_client") (r "^0.2.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tonic") (r "^0.6") (d #t) (k 0)) (d (n "tonic-build") (r "^0.6") (d #t) (k 1)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)) (d (n "zbus") (r "^2.0.1") (d #t) (k 0)) (d (n "zvariant") (r "^3.0.0") (d #t) (k 0)))) (h "040czk23wsriajg37j97q43gqfa4qg0ayyidyzjxplb8cjwwfd2y")))
+

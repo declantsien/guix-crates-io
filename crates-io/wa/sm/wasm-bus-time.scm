@@ -1,0 +1,10 @@
+(define-module (crates-io wa sm wasm-bus-time) #:use-module (crates-io))
+
+(define-public crate-wasm-bus-time-0.1.0 (c (n "wasm-bus-time") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "wasm-bus") (r "^0.4") (f (quote ("rt" "macros"))) (k 0)))) (h "0dbq5113hcl39a7ls24n4qwdwpfb8iyx61w7hphny5qy4vc3kkxd") (f (quote (("frontend" "wasm-bus/syscalls") ("default" "frontend"))))))
+
+(define-public crate-wasm-bus-time-0.2.0 (c (n "wasm-bus-time") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "wasm-bus") (r "^0.5") (f (quote ("rt" "macros"))) (k 0)))) (h "0al777wb1mdnf2kr4xdcdbic46sbps47whlbpqprqglw79sy9qqf") (f (quote (("frontend" "wasm-bus/syscalls") ("default" "frontend"))))))
+
+(define-public crate-wasm-bus-time-1.0.0 (c (n "wasm-bus-time") (v "1.0.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "wasm-bus") (r "^1") (f (quote ("rt" "macros"))) (k 0)))) (h "0s38gmgr84kws7dwadlzgbb4q8rwvda2gi7ziz0mxvdq80bnzwmy") (f (quote (("frontend" "wasm-bus/syscalls") ("default" "frontend"))))))
+
+(define-public crate-wasm-bus-time-1.1.0 (c (n "wasm-bus-time") (v "1.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "wasm-bus") (r "^1") (f (quote ("rt" "macros"))) (k 0)))) (h "0grf4n08k282gm575nkypy1flcqww8r0b0yg5yy1dj1p9bbr4d3x") (f (quote (("frontend" "wasm-bus/syscalls") ("default" "frontend"))))))
+

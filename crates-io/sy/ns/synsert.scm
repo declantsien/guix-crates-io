@@ -1,0 +1,4 @@
+(define-module (crates-io sy ns synsert) #:use-module (crates-io))
+
+(define-public crate-synsert-0.1.0 (c (n "synsert") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 2)) (d (n "console") (r "^0.15.7") (d #t) (k 2)) (d (n "dialoguer") (r "^0.11.0") (k 2)) (d (n "indoc") (r "^2.0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.67") (f (quote ("span-locations"))) (k 0)) (d (n "rangemap") (r "^1.4.0") (d #t) (k 0)) (d (n "ropey") (r "^1.6.0") (d #t) (k 0)) (d (n "similar") (r "^2.2.1") (f (quote ("text" "inline" "bytes"))) (d #t) (k 2)) (d (n "syn") (r "^2.0.37") (f (quote ("printing" "parsing"))) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "extra-traits" "visit"))) (k 2)))) (h "0x81ginc8sbsy024war1mrpzdvxp073srrsh6f5km006r491yhbz")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io sh rs shrs_derive_completion) #:use-module (crates-io))
+
+(define-public crate-shrs_derive_completion-0.0.2 (c (n "shrs_derive_completion") (v "0.0.2") (d (list (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.2") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1j32in7p7w3vdg1rhv2iiyzc7c0jgjfzmvjw4xz9a25y6aq3hv1i")))
+
+(define-public crate-shrs_derive_completion-0.0.3 (c (n "shrs_derive_completion") (v "0.0.3") (d (list (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.3") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0hq99hjxnm6jhqwgsnf4n80p18kj6m042ddpl1ynlm1pp66zz4xc")))
+
+(define-public crate-shrs_derive_completion-0.0.4 (c (n "shrs_derive_completion") (v "0.0.4") (d (list (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.4") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0wrmk7rd7k9yms288i5bjlk1x1r82pwqlfwb5dbhpsb62v7fw70m")))
+
+(define-public crate-shrs_derive_completion-0.0.5 (c (n "shrs_derive_completion") (v "0.0.5") (d (list (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.5") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0kw1mn161wdj8x6q6har4hrj7b2hwk2ghia8hwb3ydrfjnd2a9m0")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io ip if ipify-rs) #:use-module (crates-io))
+
+(define-public crate-ipify-rs-0.3.0 (c (n "ipify-rs") (v "0.3.0") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.1") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("socks-proxy"))) (d #t) (k 0)))) (h "05fiwa4njck6g4pwv915lsrvkh6hv41lwppkjkba7x07ns5rp6gf")))
+
+(define-public crate-ipify-rs-0.3.1 (c (n "ipify-rs") (v "0.3.1") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.1") (d #t) (k 0)) (d (n "ureq") (r "^2") (f (quote ("socks-proxy"))) (d #t) (k 0)))) (h "1id41m3r968hynq0rrgbvyayb3p9ss5zywwf8qgm5h0ih8j4ssq1")))
+
+(define-public crate-ipify-rs-0.5.0 (c (n "ipify-rs") (v "0.5.0") (d (list (d (n "clap") (r "^3.0.0-beta.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.1") (d #t) (k 0)))) (h "0yaikgpsa60k9f64yh0iljb33ybps2zlhq33vfdlal8biif5djz1")))
+
+(define-public crate-ipify-rs-0.5.1 (c (n "ipify-rs") (v "0.5.1") (d (list (d (n "clap") (r "^3.1.6") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5.1") (d #t) (k 0)))) (h "1hmwjf2pkw7l9d05frhwx410321pikighkb8i7q2j9nkwg71jjwk")))
+
+(define-public crate-ipify-rs-0.5.2 (c (n "ipify-rs") (v "0.5.2") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^3.1") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5") (d #t) (k 0)))) (h "15q1p2x0xqhwxyzkr9sgxwq4w1zircsh87j64nfxmj90shl47fjw")))
+
+(define-public crate-ipify-rs-0.6.0 (c (n "ipify-rs") (v "0.6.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^3.1") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5") (d #t) (k 0)))) (h "0079pp0gpvqmdxa7dz9vdj2w85x9mh6xjlwag6qc28ipncqxkm3j")))
+
+(define-public crate-ipify-rs-0.6.1 (c (n "ipify-rs") (v "0.6.1") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "futures") (r "^0") (d #t) (k 0)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "148zr82zs5d6b3kcrc1d2pr36fajmbrjlmx0qk5fvl3pzmkb55fq")))
+
+(define-public crate-ipify-rs-0.6.2 (c (n "ipify-rs") (v "0.6.2") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "async-std") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "futures") (r "^0") (d #t) (k 0)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "stderrlog") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("full"))) (d #t) (k 0)))) (h "1hcvkg7xnv0vyx2ldxs068p6i6b257vx42snhx7jm7nbfcs0yvgi")))
+

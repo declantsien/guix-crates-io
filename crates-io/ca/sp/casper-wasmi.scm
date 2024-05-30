@@ -1,0 +1,4 @@
+(define-module (crates-io ca sp casper-wasmi) #:use-module (crates-io))
+
+(define-public crate-casper-wasmi-0.13.2 (c (n "casper-wasmi") (v "0.13.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "casper-wasm") (r "^0.46.0") (k 0)) (d (n "casper-wasmi-core") (r "^0.2.1") (k 0)) (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "validation") (r "^0.5.0") (k 0) (p "casper-wasmi-validation")) (d (n "wabt") (r "^0.9") (d #t) (k 2)) (d (n "wast") (r "^44.0") (d #t) (k 2)) (d (n "wat") (r "^1") (d #t) (k 2)))) (h "1z47xfffby6j0wp6w7iwc9y7nrqyxwdhzxldzvc7706rgydg2mw3") (f (quote (("virtual_memory" "casper-wasmi-core/virtual_memory" "std") ("std" "casper-wasmi-core/std" "casper-wasm/std" "validation/std") ("reduced-stack-buffer" "casper-wasm/reduced-stack-buffer") ("default" "std"))))))
+

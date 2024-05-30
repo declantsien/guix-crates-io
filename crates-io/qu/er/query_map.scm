@@ -1,0 +1,16 @@
+(define-module (crates-io qu er query_map) #:use-module (crates-io))
+
+(define-public crate-query_map-0.1.0 (c (n "query_map") (v "0.1.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "13h369047d5kiq3x4390a60fs0ly4vi45b5ixijz3nyaacqbp359") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+
+(define-public crate-query_map-0.2.0 (c (n "query_map") (v "0.2.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0rgs04ciaf381qspxpylzjb6sk1qfscrd06nn7xicynll1nm0nzn") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+
+(define-public crate-query_map-0.3.0 (c (n "query_map") (v "0.3.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "01r3sly91kq4ngkqnsnvmm13i778kly6p3wbc47fmnxk823bx2y0") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+
+(define-public crate-query_map-0.4.0 (c (n "query_map") (v "0.4.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "08srggbl62myxza7mpxmxx8lsavs4x6w08zxzrc5x69dlj2336xg") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+
+(define-public crate-query_map-0.5.0 (c (n "query_map") (v "0.5.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "02f8p0sl2d5xl5kr776ddndd1sf2w0zszkc6yxkwxp6b37c14cpy") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+
+(define-public crate-query_map-0.6.0 (c (n "query_map") (v "0.6.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "01528x1azxxlk28jl056gmjwpskz5n5xqmksry299g5yqg5alra4") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+
+(define-public crate-query_map-0.7.0 (c (n "query_map") (v "0.7.0") (d (list (d (n "form_urlencoded") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("rc"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_derive") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "059spzhch4grg9dhhylj4xh0qz0ccnp8sxb3m1ck7vvl225npasy") (f (quote (("url-query" "form_urlencoded") ("serde" "serde_crate" "serde_derive") ("default"))))))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io ma pp mapped_futures) #:use-module (crates-io))
+
+(define-public crate-mapped_futures-0.1.0 (c (n "mapped_futures") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "02wljablx8yr0v5yi58gx32gv188ivkq1mhr9dm6scrkv1p0l0vi") (y #t)))
+
+(define-public crate-mapped_futures-0.1.1 (c (n "mapped_futures") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "18avfwz6ck5cyfrc1dv62c6xna877f1hpb1pk8m6yvx02j39rxii") (y #t)))
+
+(define-public crate-mapped_futures-0.1.2 (c (n "mapped_futures") (v "0.1.2") (d (list (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "0qfgd4dclcqn3mvvzq4mvy56fgcp75smjhd3jck09gfjb8ndnnab") (y #t)))
+
+(define-public crate-mapped_futures-0.1.3 (c (n "mapped_futures") (v "0.1.3") (d (list (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "03cs50kg126yscpv9nav6bp35rbn2lk3jrxs94xckdcpx0wda03g") (y #t)))
+
+(define-public crate-mapped_futures-0.1.4 (c (n "mapped_futures") (v "0.1.4") (d (list (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "0q22ivkq6jkkmpm8s6hp89lplmj1m9bzicp2g0fcz14gq4hlidcf") (y #t)))
+
+(define-public crate-mapped_futures-0.1.5 (c (n "mapped_futures") (v "0.1.5") (d (list (d (n "bisetmap") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "1fsw70dla1zr80wrwwd81v39wvhh90qv75j7mzmshn0gqksv1234")))
+
+(define-public crate-mapped_futures-0.1.6 (c (n "mapped_futures") (v "0.1.6") (d (list (d (n "bisetmap") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "1rmmcrkshk8qa7ssccyyfw0a3w7h6a5s00hs5sljn5hklrnzgrdk") (y #t)))
+
+(define-public crate-mapped_futures-0.1.7 (c (n "mapped_futures") (v "0.1.7") (d (list (d (n "bisetmap") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "0i1b95r7xydqrhfmqdmhbnj816brlw3g9gb1mxwhw3kyqv6izrnv") (y #t)))
+
+(define-public crate-mapped_futures-0.1.8 (c (n "mapped_futures") (v "0.1.8") (d (list (d (n "bisetmap") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.0") (d #t) (k 2)) (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 2)) (d (n "futures-task") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)))) (h "1yj7m89308mldy8l3lj25ag56ivxky051wqv4ywnx7zc6gvayjz2")))
+

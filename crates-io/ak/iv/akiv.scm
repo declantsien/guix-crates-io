@@ -1,0 +1,8 @@
+(define-module (crates-io ak iv akiv) #:use-module (crates-io))
+
+(define-public crate-akiv-0.1.0 (c (n "akiv") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0.2") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "rusqlite") (r "^0.25.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "textwrap") (r "^0.13.4") (d #t) (k 0)))) (h "08fl0zq807z08ci5x40ql1zrvyk2sgj17nrbq3165g3435hd6ci7")))
+
+(define-public crate-akiv-0.1.1 (c (n "akiv") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0.2") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "rusqlite") (r "^0.25.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "textwrap") (r "^0.13.4") (d #t) (k 0)))) (h "0kk3wnpf9wgvk9yfb79xwhij2yf4nrqwq8r1f29jfqr9q2svg52m")))
+
+(define-public crate-akiv-0.1.2 (c (n "akiv") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "directories") (r "^3.0.2") (d #t) (k 0)) (d (n "humantime") (r "^2.1.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.8") (d #t) (k 0)) (d (n "rusqlite") (r "^0.25.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "textwrap") (r "^0.13.4") (d #t) (k 0)))) (h "0jd8zyzlj3iy4h8s1xiajy436qf3gwdwy6vm6kiqhir3537hpxn4")))
+

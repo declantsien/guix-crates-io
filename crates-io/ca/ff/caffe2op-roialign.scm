@@ -1,0 +1,6 @@
+(define-module (crates-io ca ff caffe2op-roialign) #:use-module (crates-io))
+
+(define-public crate-caffe2op-roialign-0.1.4-alpha.0 (c (n "caffe2op-roialign") (v "0.1.4-alpha.0") (d (list (d (n "caffe2-c10") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-context") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-types") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.4-alpha.0") (d #t) (k 0)))) (h "0yjdrpd98lcq7ycj6p8mrpp8ka40c21f7qqkkxjiyxfz2qhhl9mj")))
+
+(define-public crate-caffe2op-roialign-0.1.5-alpha.0 (c (n "caffe2op-roialign") (v "0.1.5-alpha.0") (d (list (d (n "caffe2-c10") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-common") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-context") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.5-alpha.0") (d #t) (k 0)))) (h "1aj1afi1rgjgg197f7zgd8p5n06y4k9056824w1xaflhb579f4nc")))
+

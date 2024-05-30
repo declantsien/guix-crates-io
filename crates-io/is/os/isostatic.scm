@@ -1,0 +1,6 @@
+(define-module (crates-io is os isostatic) #:use-module (crates-io))
+
+(define-public crate-isostatic-0.1.0 (c (n "isostatic") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "multer") (r "^1.2") (d #t) (k 0)) (d (n "nanoid") (r "^0.3.0") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.24.0") (d #t) (k 0)) (d (n "smol") (r "^0.3.3") (f (quote ("tokio02"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0n9vnvffklbrzn335nqh09bxk8lsvi5k889bv7y5ms3nykhs3ppw")))
+
+(define-public crate-isostatic-0.1.1 (c (n "isostatic") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "multer") (r "^1.2") (d #t) (k 0)) (d (n "nanoid") (r "^0.3.0") (d #t) (k 0)) (d (n "pico-args") (r "^0.3.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.24.0") (d #t) (k 0)) (d (n "smol") (r "^0.3.3") (f (quote ("tokio02"))) (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1w36ggxdl67p8jhj7xiafnf5gks86vdr8lqkghalh4waf3xbcbgy")))
+

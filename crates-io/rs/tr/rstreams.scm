@@ -1,0 +1,4 @@
+(define-module (crates-io rs tr rstreams) #:use-module (crates-io))
+
+(define-public crate-rstreams-0.1.0 (c (n "rstreams") (v "0.1.0") (d (list (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "fork_stream") (r "^0.1.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.29") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "redb") (r "^2.0.0") (d #t) (k 0)) (d (n "samsa") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.15") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "1vgdl410i9ayzizdfh2qqgl85agggpmb9c9047q22dryxazwm5ch") (f (quote (("kafka" "samsa"))))))
+

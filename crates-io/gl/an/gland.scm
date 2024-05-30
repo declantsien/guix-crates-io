@@ -1,0 +1,6 @@
+(define-module (crates-io gl an gland) #:use-module (crates-io))
+
+(define-public crate-gland-0.3.0 (c (n "gland") (v "0.3.0") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.29") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (f (quote ("crossterm"))) (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("time" "rt"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1.14") (f (quote ("time"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.6.3") (d #t) (k 0)))) (h "0lnmzx0qdy2pzj05byzf3d7xhccvbm4mg6z5hmxd0ggqf7rahnxy") (f (quote (("event-stream" "crossterm/event-stream"))))))
+
+(define-public crate-gland-0.3.1 (c (n "gland") (v "0.3.1") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.29") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (f (quote ("crossterm"))) (d #t) (k 2)) (d (n "tokio") (r "^1.32.0") (f (quote ("time" "rt"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1.14") (f (quote ("time"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.6.3") (d #t) (k 0)))) (h "0g1zqxskwkd7cc7fa1s9hpjbp5c7vb9kgjn91qj90wz6zavkw6nm") (f (quote (("event-stream" "crossterm/event-stream"))))))
+

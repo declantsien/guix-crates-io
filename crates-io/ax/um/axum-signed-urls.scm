@@ -1,0 +1,6 @@
+(define-module (crates-io ax um axum-signed-urls) #:use-module (crates-io))
+
+(define-public crate-axum-signed-urls-0.1.0 (c (n "axum-signed-urls") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "qstring") (r "^0.7.2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 2)) (d (n "map-macro") (r "^0.2.5") (d #t) (k 2)) (d (n "rusty-hook") (r "^0.11") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1v49bm9p1fhndn6hgljayaapmcn873vidk3xaichvg7651gjs306")))
+
+(define-public crate-axum-signed-urls-0.1.1 (c (n "axum-signed-urls") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "qstring") (r "^0.7.2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 2)) (d (n "map-macro") (r "^0.2.5") (d #t) (k 2)) (d (n "rusty-hook") (r "^0.11") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0cf2i0hmdvmccz1qrc17jx6kcp6vvbchwc0f547d6vr3k1hk88i6")))
+

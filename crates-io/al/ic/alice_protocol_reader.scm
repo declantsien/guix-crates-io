@@ -1,0 +1,24 @@
+(define-module (crates-io al ic alice_protocol_reader) #:use-module (crates-io))
+
+(define-public crate-alice_protocol_reader-0.9.0 (c (n "alice_protocol_reader") (v "0.9.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "11vwzliavs15na7851k9svrcx35cmajdr0kkzlpkiwaixs2wwjm1")))
+
+(define-public crate-alice_protocol_reader-0.10.0 (c (n "alice_protocol_reader") (v "0.10.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "1khx43pzvwkb5r70h26a7y0bpx0a00zbl0bs4x9629wyxzsg1jpq")))
+
+(define-public crate-alice_protocol_reader-0.10.1 (c (n "alice_protocol_reader") (v "0.10.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "0n0l6nv5w5p5504dcpjzn8q1maxla7j0yw325p80vr7wji57mq47")))
+
+(define-public crate-alice_protocol_reader-0.11.0 (c (n "alice_protocol_reader") (v "0.11.0") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "1j36294cqrhvvdy6vxdz020aq3r85pvagzmf9l55xii4y04khd2m")))
+
+(define-public crate-alice_protocol_reader-0.11.1 (c (n "alice_protocol_reader") (v "0.11.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "0cjf9q7xlk5gy8gcwj02zs7k3ypjnb14g91bl4gvndck8bqmssra")))
+
+(define-public crate-alice_protocol_reader-0.11.2 (c (n "alice_protocol_reader") (v "0.11.2") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "00kgsfy5v1699xhsxs64k65vz6pznmchqfychjh49qpz2fpprbjb")))
+
+(define-public crate-alice_protocol_reader-0.12.0 (c (n "alice_protocol_reader") (v "0.12.0") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "1m4cmyqkiqhz24wj90plhzmvvdmrklddv6s6d3jp7z70p6srfyz3")))
+
+(define-public crate-alice_protocol_reader-0.12.1 (c (n "alice_protocol_reader") (v "0.12.1") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "1gb38w86dagz5v8s5lzsrvyl3sai3l51db8ahhiqfrv2wf1qjqxy")))
+
+(define-public crate-alice_protocol_reader-0.13.0 (c (n "alice_protocol_reader") (v "0.13.0") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "0c5p6a74i8smiikh5r2p0lvf8d8bhxyzzjcf3j1m4b4j3kr2hmbz")))
+
+(define-public crate-alice_protocol_reader-0.14.0 (c (n "alice_protocol_reader") (v "0.14.0") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "18bgcjhl7myngz4bcf8fsj57v0cgvxhviackcsmhfprr4b4n4w7q")))
+
+(define-public crate-alice_protocol_reader-0.15.0 (c (n "alice_protocol_reader") (v "0.15.0") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "temp-dir") (r "^0.1.11") (d #t) (k 2)))) (h "1z19f2zaysnblahrky3kx4nzn58wr47wzbbvcy5xvdnmafl19x13")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io gi th github-latest) #:use-module (crates-io))
+
+(define-public crate-github-latest-0.1.0 (c (n "github-latest") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "veg") (r "^0.4.8") (d #t) (k 0)))) (h "0xnp53cykk58qppdswqmj24ami3lkc6viq04z97lk6pibpvvgh25")))
+
+(define-public crate-github-latest-0.1.1 (c (n "github-latest") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "veg") (r "^0.4.8") (d #t) (k 0)))) (h "08d1vlr73xcrswnzfsf0bk1jwbqppxlcqm7k5rjl9zl7s7kcfmar")))
+
+(define-public crate-github-latest-0.2.0 (c (n "github-latest") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)) (d (n "veg") (r "^0.4.8") (d #t) (k 0)))) (h "18zil3prhl505fdk6jj4l88jis5d0fc1iz196k0b81iz6gpbdlgs")))
+
+(define-public crate-github-latest-0.2.1 (c (n "github-latest") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.25") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.3") (d #t) (k 0)) (d (n "veg") (r "^0.5.0") (d #t) (k 0)))) (h "1yfqcrrw31v99mhnm5zf3nahgb7bw27gv5i65l7prgfh62n5dvsk")))
+

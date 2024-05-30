@@ -1,0 +1,4 @@
+(define-module (crates-io so la solarti-managed-token) #:use-module (crates-io))
+
+(define-public crate-solarti-managed-token-0.1.0 (c (n "solarti-managed-token") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.52") (d #t) (k 2)) (d (n "borsh") (r "^0.9.3") (d #t) (k 0)) (d (n "shank") (r "^0.0.5") (d #t) (k 0)) (d (n "solana-program") (r "^1.14.12") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.14.12") (d #t) (k 2)) (d (n "solana-sdk") (r "^1.14.12") (d #t) (k 2)) (d (n "solarti-associated-token-account") (r "^1.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solarti-token") (r "^3.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "tokio") (r "^1.8.4") (f (quote ("full"))) (d #t) (k 2)))) (h "0vl9nrywxgsxl4v65nbsga593agj76in8f4c00qn33lfxs8njz4k") (f (quote (("test") ("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

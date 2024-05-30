@@ -1,0 +1,6 @@
+(define-module (crates-io on e- one-file-raft) #:use-module (crates-io))
+
+(define-public crate-one-file-raft-0.1.0 (c (n "one-file-raft") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.76") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.6.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.2") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "tokio") (r "^1.8") (f (quote ("fs" "io-util" "macros" "rt" "rt-multi-thread" "sync" "time"))) (k 0)))) (h "08sw6pd9341xapl0fpyc0ac7yzvcamnh3gya65vzy1cv92s2v79r")))
+
+(define-public crate-one-file-raft-0.1.1 (c (n "one-file-raft") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.76") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.6.0") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.2") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "tokio") (r "^1.8") (f (quote ("fs" "io-util" "macros" "rt" "rt-multi-thread" "sync" "time"))) (k 0)))) (h "0inz1rs6qnhk3dj0jbxz8g48y4r1ni2n3y8dhmslngf4mllxwdgz")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io fc m_ fcm_v1) #:use-module (crates-io))
+
+(define-public crate-fcm_v1-0.1.0 (c (n "fcm_v1") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "yup-oauth2") (r "^8") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)))) (h "0rdlcwcah6s1d9pc56mqyqkchlk3rhhv6xaqnnam4xv16ljzhb1f")))
+
+(define-public crate-fcm_v1-0.2.0 (c (n "fcm_v1") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "yup-oauth2") (r "^8") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)))) (h "0la30bdz72zl3hih8y5zc7sgkswvkc6fhw0b7w5h6nnyvy23dg6g") (y #t)))
+
+(define-public crate-fcm_v1-0.2.1 (c (n "fcm_v1") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.23") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "yup-oauth2") (r "=8.1") (d #t) (k 0)))) (h "0myp16q3rqla00bzl3rva9g525hblqxwsay8g5vjd0vmnl4m5px4")))
+
+(define-public crate-fcm_v1-0.3.0 (c (n "fcm_v1") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "yup-oauth2") (r "^8.3") (d #t) (k 0)))) (h "041xssdfkzkaynyc4vqrbqrwq3x1jj3y4v6v3rcggchqfvnx97pw")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io fo re forem_openapi_client) #:use-module (crates-io))
+
+(define-public crate-forem_openapi_client-1.0.0 (c (n "forem_openapi_client") (v "1.0.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_with") (r "^2.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "openapi_lib_generator") (r "^0.2.3") (k 2)))) (h "0cr1k1w6zbil3hkvm76ig27smq4w8932n53p00whvbvj24v7dzr0")))
+
+(define-public crate-forem_openapi_client-1.0.1 (c (n "forem_openapi_client") (v "1.0.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_with") (r "^2.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "openapi_lib_generator") (r "^0.2.3") (k 2)))) (h "18ni9kcdyr5y8m3r6js06a415swysn0aihp0ydz63anikksk3ci9")))
+

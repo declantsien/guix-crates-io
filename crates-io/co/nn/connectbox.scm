@@ -1,0 +1,6 @@
+(define-module (crates-io co nn connectbox) #:use-module (crates-io))
+
+(define-public crate-connectbox-0.1.0 (c (n "connectbox") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.6") (d #t) (k 2)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros"))) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "0bc1bkyvfbviiay6a14lw745ph9681siichz7lz86bqbfspn15kf")))
+
+(define-public crate-connectbox-0.1.1 (c (n "connectbox") (v "0.1.1") (d (list (d (n "color-eyre") (r "^0.6") (d #t) (k 2)) (d (n "quick-xml") (r "^0.28") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros"))) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "0irsz1qv6b8fg8j1d1gszwz4j28f0lhnnwp2223sjcrn1dagh569")))
+

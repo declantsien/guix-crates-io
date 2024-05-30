@@ -1,0 +1,8 @@
+(define-module (crates-io vt er vterm-sys) #:use-module (crates-io))
+
+(define-public crate-vterm-sys-0.0.0 (c (n "vterm-sys") (v "0.0.0") (d (list (d (n "docopt") (r "^0.6") (d #t) (k 2)) (d (n "gcc") (r "^0.3") (d #t) (k 1)) (d (n "glob") (r "^0.2.10") (d #t) (k 1)) (d (n "libc") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pty") (r "^0.1.5") (d #t) (k 2)) (d (n "regex") (r "^0.1.8") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 2)) (d (n "term") (r "^0.2") (d #t) (k 2)) (d (n "termios") (r "^0.2") (d #t) (k 2)))) (h "1mjaszbsj1nfyx3sdjrli4ffv15ya0ydbyyrcjhcc50hf8wifjqm")))
+
+(define-public crate-vterm-sys-0.0.1 (c (n "vterm-sys") (v "0.0.1") (d (list (d (n "docopt") (r "^0.6") (d #t) (k 2)) (d (n "gcc") (r "^0.3") (d #t) (k 1)) (d (n "glob") (r "^0.2.10") (d #t) (k 1)) (d (n "libc") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pty") (r "^0.1.5") (d #t) (k 2)) (d (n "regex") (r "^0.1.8") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 2)) (d (n "term") (r "^0.2") (d #t) (k 2)) (d (n "termios") (r "^0.2") (d #t) (k 2)))) (h "113ldlgi5jx9rqw1c355gg5gs4z7bxvdnz94vmvzksvjsjw5wfhj")))
+
+(define-public crate-vterm-sys-0.1.0 (c (n "vterm-sys") (v "0.1.0") (d (list (d (n "docopt") (r "^0.6") (d #t) (k 2)) (d (n "euclid") (r "^0.6.4") (d #t) (k 0)) (d (n "gcc") (r "^0.3") (d #t) (k 1)) (d (n "glob") (r "^0.2.10") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "pty") (r "^0.1.5") (d #t) (k 2)) (d (n "regex") (r "^0.1.8") (d #t) (k 2)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 2)) (d (n "term") (r "^0.2") (d #t) (k 2)) (d (n "termios") (r "^0.2") (d #t) (k 2)))) (h "0h7zq901s6783g4wpjac53whj3hvlzq2qfcyy7zjvj5d4aw63hmg")))
+

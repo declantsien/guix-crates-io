@@ -1,0 +1,4 @@
+(define-module (crates-io at te atterminal) #:use-module (crates-io))
+
+(define-public crate-atterminal-2.10.0 (c (n "atterminal") (v "2.10.0") (d (list (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "comportlist") (r "^0.1.3") (d #t) (k 0)) (d (n "eframe") (r "^0.20") (f (quote ("persistence"))) (d #t) (k 0)) (d (n "egui_extras") (r "^0.20") (d #t) (k 0)) (d (n "embed-resource") (r "^1.5.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (f (quote ("ico"))) (d #t) (k 0)) (d (n "rfd") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serialport") (r "^4.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1jw72xr01ic5v0hzs2nyayi8ryb1xbdfvbhd3fybq0gd7f1m442j") (y #t)))
+

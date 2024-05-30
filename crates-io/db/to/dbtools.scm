@@ -1,0 +1,14 @@
+(define-module (crates-io db to dbtools) #:use-module (crates-io))
+
+(define-public crate-dbtools-1.0.0 (c (n "dbtools") (v "1.0.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "openssl") (r "^0.10.28") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pnet") (r "^0.23.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "ring") (r "^0.16.11") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)))) (h "1ljlpq9rr1xdz0piwac3a7w37sgz95ncgzcswvmrravsmchxndnb")))
+
+(define-public crate-dbtools-1.0.1 (c (n "dbtools") (v "1.0.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "openssl") (r "^0.10.28") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pnet") (r "^0.28.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "ring") (r "^0.16.11") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)))) (h "1hqc9jnfmyj33lzgz39lkmkf6znw2p1wjq4f5n6md9j641yy62pa")))
+
+(define-public crate-dbtools-1.0.2 (c (n "dbtools") (v "1.0.2") (d (list (d (n "clap") (r "^3.2.22") (d #t) (k 0)) (d (n "libc") (r "^0.2.132") (d #t) (k 0)) (d (n "openssl") (r "^0.10.41") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pnet") (r "^0.28.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)))) (h "18ra74a3k50p99pjil5l9vgjlczcm4nsqxgxipqkiprxi12yqg8l")))
+
+(define-public crate-dbtools-1.0.3 (c (n "dbtools") (v "1.0.3") (d (list (d (n "clap") (r "^3.2.22") (d #t) (k 0)) (d (n "libc") (r "^0.2.132") (d #t) (k 0)) (d (n "openssl") (r "^0.10.41") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pnet") (r "^0.28.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)))) (h "1ih672h9v4fjizz7fqs0bfnalz4yn5bp0jpfax7q3a6wn2fjlgl5")))
+
+(define-public crate-dbtools-1.0.4 (c (n "dbtools") (v "1.0.4") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10.41") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pnet") (r "^0.28.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0l7bka0war3bdn0732kb6w70nsgpp13k4gb6z1hrn7saqszy3rvq")))
+
+(define-public crate-dbtools-1.0.5 (c (n "dbtools") (v "1.0.5") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "openssl") (r "^0.10.41") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "pnet") (r "^0.28.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0k17xf9xlfbk0dzqsmswg4h9yxwxikrp94jdkgl4n6h5m154ppfp")))
+

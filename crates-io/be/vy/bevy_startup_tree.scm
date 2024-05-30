@@ -1,0 +1,18 @@
+(define-module (crates-io be vy bevy_startup_tree) #:use-module (crates-io))
+
+(define-public crate-bevy_startup_tree-0.1.0 (c (n "bevy_startup_tree") (v "0.1.0") (d (list (d (n "bevy") (r "^0.9.1") (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.1.0") (d #t) (k 0)))) (h "0zn6wqj05vrpli7qg7xdfki8m0b87qvi77bhagksmwsii6fgw4xd") (y #t)))
+
+(define-public crate-bevy_startup_tree-0.1.1 (c (n "bevy_startup_tree") (v "0.1.1") (d (list (d (n "bevy") (r "^0.9.1") (k 2)) (d (n "bevy_app") (r "^0.9.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.9.1") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "delegate") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1ri5ad53js1b9q8l8ffkn9rjscjj4adf12c7ipvscgqjvz0anq98") (y #t)))
+
+(define-public crate-bevy_startup_tree-0.1.2 (c (n "bevy_startup_tree") (v "0.1.2") (d (list (d (n "bevy") (r "^0.9.1") (k 2)) (d (n "bevy_app") (r "^0.9.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.9.1") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.1.2") (d #t) (k 0)) (d (n "delegate") (r "^0.9.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1w3rp1pcpwas6a8q75fxji4l0idvdkppxl0zbxfz2ch16ip6vai7")))
+
+(define-public crate-bevy_startup_tree-0.1.3 (c (n "bevy_startup_tree") (v "0.1.3") (d (list (d (n "bevy") (r "^0.9.1") (k 2)) (d (n "bevy_app") (r "^0.9.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.9.1") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.1.2") (d #t) (k 0)) (d (n "delegate") (r "^0.9.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0wp28fbmkqwpc53y8j7l50rhb7wx89njvqryawjyawrjxv9wjlhs")))
+
+(define-public crate-bevy_startup_tree-0.2.0 (c (n "bevy_startup_tree") (v "0.2.0") (d (list (d (n "bevy") (r "^0.10.1") (k 2)) (d (n "bevy_app") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.10.1") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "delegate") (r "^0.9.0") (d #t) (k 2)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0wl1fd3yylbdy2vlf8f0ph5nh9rw86h3m8ymz0wx9vqcnlnkyhgg")))
+
+(define-public crate-bevy_startup_tree-0.3.0 (c (n "bevy_startup_tree") (v "0.3.0") (d (list (d (n "bevy") (r "^0.11") (k 2)) (d (n "bevy_app") (r "^0.11") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.11") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.3.0") (d #t) (k 0)) (d (n "delegate") (r "^0.10.0") (d #t) (k 2)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1nbx7l839pmc52zpb5v9iv121fkcclysxpxqkdyrnwpa9crjmd77")))
+
+(define-public crate-bevy_startup_tree-0.4.0 (c (n "bevy_startup_tree") (v "0.4.0") (d (list (d (n "bevy") (r "^0.12") (k 2)) (d (n "bevy_app") (r "^0.12") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "delegate") (r "^0.10.0") (d #t) (k 2)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1gpgqj1rvnvz4sf5ljdwf15yir1wvbfn0lvg6fcjxa1a5sk5wc90")))
+
+(define-public crate-bevy_startup_tree-0.4.1 (c (n "bevy_startup_tree") (v "0.4.1") (d (list (d (n "bevy") (r "^0.12") (k 2)) (d (n "bevy_app") (r "^0.12") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12") (d #t) (k 0)) (d (n "bevy_startup_tree_macros") (r "^0.4.1") (d #t) (k 0)) (d (n "delegate") (r "^0.10.0") (d #t) (k 2)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0kf80q24qnm6p4cva9011h8dbfmzck7wk9kaafaflkws21ga4q41")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io st ab stablesats-shared) #:use-module (crates-io))
+
+(define-public crate-stablesats-shared-0.1.3 (c (n "stablesats-shared") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.59") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("clock" "serde"))) (k 0)) (d (n "fred") (r "^5.1.0") (f (quote ("subscriber-client"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.26.0") (d #t) (k 0)) (d (n "rusty-money") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "066igj4jjy3aj1lx21h6wzl4y1hzbrg0g0bps21251a8dza3n466") (f (quote (("fail-on-warnings"))))))
+

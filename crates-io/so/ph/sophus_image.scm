@@ -1,0 +1,8 @@
+(define-module (crates-io so ph sophus_image) #:use-module (crates-io))
+
+(define-public crate-sophus_image-0.4.0 (c (n "sophus_image") (v "0.4.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "assertables") (r "^7.0.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15.4") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "png") (r "^0.17.11") (d #t) (k 0)) (d (n "sophus_tensor") (r "^0.4.0") (d #t) (k 0)))) (h "1bry2w45r6w28q1ddmkybj54h04wbh1r83hrvi3a00xp1i1y197a")))
+
+(define-public crate-sophus_image-0.5.0 (c (n "sophus_image") (v "0.5.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "assertables") (r "^7.0.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15.4") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "png") (r "^0.17.11") (d #t) (k 0)) (d (n "sophus_core") (r "^0.5.0") (d #t) (k 0)))) (h "19n2d5hhwb21jbzprawk409pz804igvb5bvm7cvhj9jzx7qbizlq")))
+
+(define-public crate-sophus_image-0.6.0 (c (n "sophus_image") (v "0.6.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "png") (r "^0.17") (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.0") (d #t) (k 0)))) (h "1jf4mlgrghzcphck579k898arby2sz5jszaniafr3pbh83kqfbzx")))
+

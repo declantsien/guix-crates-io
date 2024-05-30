@@ -1,0 +1,4 @@
+(define-module (crates-io me sh mesh-portal-tcp-server) #:use-module (crates-io))
+
+(define-public crate-mesh-portal-tcp-server-0.2.0-rc1 (c (n "mesh-portal-tcp-server") (v "0.2.0-rc1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "mesh-portal") (r "^0.2.0-rc1") (d #t) (k 0)) (d (n "mesh-portal-api-server") (r "^0.2.0-rc1") (d #t) (k 0)) (d (n "mesh-portal-tcp-common") (r "^0.2.0-rc1") (d #t) (k 0)) (d (n "serde") (r "^1.0.69") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "strum") (r "^0.21.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.21.1") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1fjb5yjmsczzhirrki5fz2ql44vain235k2748ykj7jk7pmqp7mz")))
+

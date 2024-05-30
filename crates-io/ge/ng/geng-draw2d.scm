@@ -1,0 +1,10 @@
+(define-module (crates-io ge ng geng-draw2d) #:use-module (crates-io))
+
+(define-public crate-geng-draw2d-0.15.0 (c (n "geng-draw2d") (v "0.15.0") (d (list (d (n "batbox-approx") (r "^0.15") (d #t) (k 0)) (d (n "batbox-color") (r "^0.15") (d #t) (k 0)) (d (n "batbox-la") (r "^0.15") (d #t) (k 0)) (d (n "batbox-lapp") (r "^0.15") (d #t) (k 0)) (d (n "geng-camera") (r "^0.15") (d #t) (k 0)) (d (n "geng-font") (r "^0.15") (d #t) (k 0)) (d (n "geng-shader") (r "^0.15") (d #t) (k 0)) (d (n "ugli") (r "^0.15") (d #t) (k 0)))) (h "0w8k253vny5s0y0q1plgp59zhf7zl4skixn3j765fsg9adlljwg6")))
+
+(define-public crate-geng-draw2d-0.16.0 (c (n "geng-draw2d") (v "0.16.0") (d (list (d (n "batbox-approx") (r "^0.16") (d #t) (k 0)) (d (n "batbox-color") (r "^0.16") (d #t) (k 0)) (d (n "batbox-la") (r "^0.16") (d #t) (k 0)) (d (n "batbox-lapp") (r "^0.16") (d #t) (k 0)) (d (n "geng-camera") (r "^0.16.0") (d #t) (k 0)) (d (n "geng-font") (r "^0.16.0") (d #t) (k 0)) (d (n "geng-shader") (r "^0.16.0") (d #t) (k 0)) (d (n "ugli") (r "^0.16.0") (d #t) (k 0)))) (h "0bmlniamj495iw9n2yi6p86hs54j8xx7frjl9g6x8da00hmj5pm7")))
+
+(define-public crate-geng-draw2d-0.17.0 (c (n "geng-draw2d") (v "0.17.0") (d (list (d (n "batbox-approx") (r "^0.16") (d #t) (k 0)) (d (n "batbox-color") (r "^0.16") (d #t) (k 0)) (d (n "batbox-la") (r "^0.16") (d #t) (k 0)) (d (n "batbox-lapp") (r "^0.16") (d #t) (k 0)) (d (n "geng-camera") (r "^0.17") (d #t) (k 0)) (d (n "geng-font") (r "^0.17") (d #t) (k 0)) (d (n "geng-shader") (r "^0.17") (d #t) (k 0)) (d (n "ugli") (r "^0.17") (d #t) (k 0)))) (h "1b8p31lzsklbbmscpf36ndkq6m1zmwwj08qaj85bcfs6qryia55l")))
+
+(define-public crate-geng-draw2d-0.17.2 (c (n "geng-draw2d") (v "0.17.2") (d (list (d (n "batbox-approx") (r "^0.16") (d #t) (k 0)) (d (n "batbox-color") (r "^0.16") (d #t) (k 0)) (d (n "batbox-la") (r "^0.16") (d #t) (k 0)) (d (n "batbox-lapp") (r "^0.16") (d #t) (k 0)) (d (n "geng-camera") (r "^0.17") (d #t) (k 0)) (d (n "geng-font") (r "^0.17") (d #t) (k 0)) (d (n "geng-shader") (r "^0.17") (d #t) (k 0)) (d (n "ugli") (r "^0.17") (d #t) (k 0)))) (h "0m6aywx142cz0mqsm3jn7fjjf73lwcm9qyqzlxblfmjygid945qv")))
+

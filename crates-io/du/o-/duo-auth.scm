@@ -1,0 +1,4 @@
+(define-module (crates-io du o- duo-auth) #:use-module (crates-io))
+
+(define-public crate-duo-auth-0.0.1 (c (n "duo-auth") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_with") (r "^3.2") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "structstruck") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("time"))) (d #t) (k 0)) (d (n "url") (r "^2.4") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1") (d #t) (k 0)))) (h "1200sf67qfl0lr9ijiwz8824ij1fq9n2phwvh5g63w75909ng2v9")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ap du apdu-dispatch) #:use-module (crates-io))
+
+(define-public crate-apdu-dispatch-0.0.0-unreleased (c (n "apdu-dispatch") (v "0.0.0-unreleased") (h "0pm3f30v85k1z1wrfarq0zy5dfmcq3cck93dsr5vv6xikassm93d")))
+
+(define-public crate-apdu-dispatch-0.1.0 (c (n "apdu-dispatch") (v "0.1.0") (d (list (d (n "delog") (r "^0.1.4") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "interchange") (r "^0.2.0") (d #t) (k 0)) (d (n "iso7816") (r "^0.1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)))) (h "05zz9psn9b6zpsz6fhk5i3bj16w5mf5s8vwdi035b98g1jgdm129") (f (quote (("std" "delog/std") ("log-warn") ("log-trace") ("log-none") ("log-info") ("log-error") ("log-debug") ("log-all") ("default"))))))
+
+(define-public crate-apdu-dispatch-0.1.1 (c (n "apdu-dispatch") (v "0.1.1") (d (list (d (n "delog") (r "^0.1.4") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "interchange") (r "^0.2.0") (d #t) (k 0)) (d (n "iso7816") (r "^0.1.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)))) (h "0n4250zwbh7p8gb204lhry9lr117zmdz4nwyh2sb0ylrjlrf3ghp") (f (quote (("std" "delog/std") ("log-warn") ("log-trace") ("log-none") ("log-info") ("log-error") ("log-debug") ("log-all") ("default"))))))
+
+(define-public crate-apdu-dispatch-0.1.2 (c (n "apdu-dispatch") (v "0.1.2") (d (list (d (n "delog") (r "^0.1.4") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "interchange") (r "^0.2.0") (d #t) (k 0)) (d (n "iso7816") (r "^0.1.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)))) (h "1yx58748z4082cy36fdp3i6yxnrg65xwyxjmklh7mcga1vilm349") (f (quote (("std" "delog/std") ("log-warn") ("log-trace") ("log-none") ("log-info") ("log-error") ("log-debug") ("log-all") ("default"))))))
+
+(define-public crate-apdu-dispatch-0.2.0 (c (n "apdu-dispatch") (v "0.2.0") (d (list (d (n "delog") (r "^0.1.4") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "interchange") (r "^0.3.0") (d #t) (k 0)) (d (n "iso7816") (r "^0.1.1") (d #t) (k 0)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)))) (h "05rw57kd9bmavhinnkww86n6r3vamlb6ma99qzq5h5fylk3m98x0") (f (quote (("std" "delog/std") ("log-warn") ("log-trace") ("log-none") ("log-info") ("log-error") ("log-debug") ("log-all") ("default"))))))
+

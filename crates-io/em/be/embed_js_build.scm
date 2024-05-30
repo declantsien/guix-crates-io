@@ -1,0 +1,12 @@
+(define-module (crates-io em be embed_js_build) #:use-module (crates-io))
+
+(define-public crate-embed_js_build-0.1.0 (c (n "embed_js_build") (v "0.1.0") (d (list (d (n "cpp_syn") (r "^0.12.0") (f (quote ("visit"))) (d #t) (k 0)) (d (n "cpp_synmap") (r "^0.3.0") (d #t) (k 0)) (d (n "embed_js_common") (r "^0.1") (d #t) (k 0)) (d (n "parity-wasm") (r "^0.17.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "0xsrnjw3xvjbn07b51q6gdigxwqxadp1ghvamcfkqsf63mj38px6")))
+
+(define-public crate-embed_js_build-0.1.1 (c (n "embed_js_build") (v "0.1.1") (d (list (d (n "cpp_syn") (r "^0.12.0") (f (quote ("visit"))) (d #t) (k 0)) (d (n "cpp_synmap") (r "^0.3.0") (d #t) (k 0)) (d (n "embed_js_common") (r "^0.1") (d #t) (k 0)) (d (n "parity-wasm") (r "^0.17.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "1sf66js3hkqq98iiln2lmjr0mawaqdrfy39xrn8w92mmzb1r3l73")))
+
+(define-public crate-embed_js_build-0.1.2 (c (n "embed_js_build") (v "0.1.2") (d (list (d (n "cpp_syn") (r "^0.12.0") (f (quote ("visit"))) (d #t) (k 0)) (d (n "cpp_synmap") (r "^0.3.0") (d #t) (k 0)) (d (n "embed_js_common") (r "^0.1") (d #t) (k 0)) (d (n "parity-wasm") (r "^0.17.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "09x6jbnzj9xcaadmmr28ayf9011axlh81kgd4ik0l0x24gvdkjs1")))
+
+(define-public crate-embed_js_build-0.1.3 (c (n "embed_js_build") (v "0.1.3") (d (list (d (n "cpp_syn") (r "^0.12.0") (f (quote ("visit"))) (d #t) (k 0)) (d (n "cpp_synmap") (r "^0.3.0") (d #t) (k 0)) (d (n "embed_js_common") (r "^0.2") (d #t) (k 0)) (d (n "parity-wasm") (r "^0.17.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "0vbwgr8icp495ar1xywdfwmg4l2k4wn2nghvc5mn3imja4k1km7c")))
+
+(define-public crate-embed_js_build-0.1.4 (c (n "embed_js_build") (v "0.1.4") (d (list (d (n "cpp_syn") (r "^0.12.0") (f (quote ("visit"))) (d #t) (k 0)) (d (n "cpp_synmap") (r "^0.3.0") (d #t) (k 0)) (d (n "embed_js_common") (r "^0.3") (d #t) (k 0)) (d (n "parity-wasm") (r "^0.17.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "0ccq53rr67c7sv31v7aj4maabcc5pxq7zpv8jz8r2w90ysv6bzi8")))
+

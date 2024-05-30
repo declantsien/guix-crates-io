@@ -1,0 +1,8 @@
+(define-module (crates-io as ci asciifire) #:use-module (crates-io))
+
+(define-public crate-asciifire-0.1.0 (c (n "asciifire") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.7") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "png") (r "^0.17.6") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "04qj7vlrx07rcjf61swc7f8k0xf4v5g95k9slgbrdkc2fxdmmgfl")))
+
+(define-public crate-asciifire-0.1.1 (c (n "asciifire") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.7") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "png") (r "^0.17.6") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "0jgh2jmwgqd4ghl6pp5q94jii346l44bbg55gsfg2ar1hl7iha95")))
+
+(define-public crate-asciifire-0.1.2 (c (n "asciifire") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.7") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.0.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "png") (r "^0.17.6") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)))) (h "1awa74mcsbgvf779c10x390vbsqamhbjxggfrb58dr8w8hqnwfy9")))
+

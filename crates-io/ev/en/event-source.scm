@@ -1,0 +1,18 @@
+(define-module (crates-io ev en event-source) #:use-module (crates-io))
+
+(define-public crate-event-source-0.1.0 (c (n "event-source") (v "0.1.0") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0gwmkpf07afp52splasc2lff2ly7fn0pq76lkigk69icnh18ys77") (y #t)))
+
+(define-public crate-event-source-0.1.1 (c (n "event-source") (v "0.1.1") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "04ad3blg9zkcmsy4hgpg1xp90nf91j387wb0a9lbz9yf4g2x51dd") (y #t)))
+
+(define-public crate-event-source-0.2.0 (c (n "event-source") (v "0.2.0") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1bz4l2gb6phsrsif9nblmxd0q6bd5vzj802bzq595vv6ik6zpb0s") (y #t)))
+
+(define-public crate-event-source-0.2.1 (c (n "event-source") (v "0.2.1") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0i304qm2gh2l0xpcpg6cvnpdpicxd9zdnixq3gxvby8zvbbzix2r") (y #t)))
+
+(define-public crate-event-source-0.3.0 (c (n "event-source") (v "0.3.0") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "sync_wrapper") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0kpc6qcpb92hhwb8yw1r116j77rwn3lamr5cz76pcbvnyphw5ali") (y #t)))
+
+(define-public crate-event-source-0.4.0 (c (n "event-source") (v "0.4.0") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "unique") (r "^0.9.1") (d #t) (k 0)))) (h "1idx30b6x6qg107hwcpddlyylnlnqbj2ivgihis48gd7l600b5a6")))
+
+(define-public crate-event-source-0.4.1 (c (n "event-source") (v "0.4.1") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "unique") (r "^0.9.1") (d #t) (k 0)))) (h "06zfhr3n3d9x819s0d5izidc2n348aamy1k7yddwlxnh8vcwnkvn")))
+
+(define-public crate-event-source-0.4.2 (c (n "event-source") (v "0.4.2") (d (list (d (n "higher-kinded-types") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "pin-list") (r "^0.1.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "sync_wrapper") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "unique") (r "^0.9.1") (d #t) (k 0)))) (h "0yx4dc7snnzk99pfsr6nzywydl9rk9716v3sicaalpzc8n6n1b54")))
+

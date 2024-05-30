@@ -1,0 +1,52 @@
+(define-module (crates-io fa st faststr) #:use-module (crates-io))
+
+(define-public crate-faststr-0.0.0 (c (n "faststr") (v "0.0.0") (h "07lgswh81mylqyz2kdwqckipwx3a98rcl3xg9zdv8ncr4qfzlpja")))
+
+(define-public crate-faststr-0.1.0 (c (n "faststr") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)))) (h "18r33af3y6y8p6q3ls7vi66jwpsrqm2c73lrfmndv7p04hwn1w5d")))
+
+(define-public crate-faststr-0.1.1 (c (n "faststr") (v "0.1.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)))) (h "0gshkzrv5yfl171cm897wgjj0ggf1vq1png5xzjqr2x0x9yqn3n3")))
+
+(define-public crate-faststr-0.1.2 (c (n "faststr") (v "0.1.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)))) (h "0sgykba9iszwis7axvsw7had8qx2y7mksxialzbnailfz02sgmww") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.1.3 (c (n "faststr") (v "0.1.3") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)))) (h "1c0b9vg0bi98c63km2z07jgxxp12x9jr897pzj1jvc86xncai0ps") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.0 (c (n "faststr") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)))) (h "109wzs79d3ji75qcc0fwvqi3sp06j4pqyilvrghrp822ikfb6apv") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.1 (c (n "faststr") (v "0.2.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)))) (h "13da6psmb3wq6ykavnl4jy6w2gr8h6673bcsbj0fwjjds6y1msbq") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.2 (c (n "faststr") (v "0.2.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)))) (h "1x2k0n9hjx51jgnfnk90756whgzflv7hmws3f9kilx3g963c0qam") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.3 (c (n "faststr") (v "0.2.3") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "07s8jfxpfyd6cw2pybrzc09d18nvry4m83da48rfji3m2jvv1vyz") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.4 (c (n "faststr") (v "0.2.4") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "0xlarn900j0ifn2ks6ymmffmyrg3rjd7qcqx77rl32pycgci6gr3") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.5 (c (n "faststr") (v "0.2.5") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "1wjbkvjzmv18n26ds912w5dihchw7ddavgdg0d4d8axzcilg4vfz") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.6 (c (n "faststr") (v "0.2.6") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "0afm2lnr7mviwmb2zvb811nbim8illlvyb2q7ncl2zdc0gw3lbq1") (f (quote (("std" "serde/std") ("default" "std")))) (y #t)))
+
+(define-public crate-faststr-0.2.7 (c (n "faststr") (v "0.2.7") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "0yf5lqmhvv3cqly6vppmz0n51xjkkmzl4bj4bsf3pzyy24jsmpxy") (f (quote (("std" "serde/std") ("default" "std")))) (y #t)))
+
+(define-public crate-faststr-0.2.8 (c (n "faststr") (v "0.2.8") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 2)))) (h "0kzmjly5g87chzv0ia5qk26yzqha6g4x9y3xadw2x6xvgs3nd78z") (f (quote (("std" "serde/std") ("default" "std"))))))
+
+(define-public crate-faststr-0.2.9 (c (n "faststr") (v "0.2.9") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.23") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "0fl7im9icw56kmcrcv6b4lk03p9ad8l093xnchbymafnakcy5090") (f (quote (("std" "serde/std") ("default" "std")))) (s 2) (e (quote (("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.10 (c (n "faststr") (v "0.2.10") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.23") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "1d7wzny0w14iwi093n73f9l5ik25wwwzj4a15hlw13fxv3pvf86w") (f (quote (("std" "serde/std") ("default" "std")))) (s 2) (e (quote (("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.11 (c (n "faststr") (v "0.2.11") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.23") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "0n8if4zivlyfq3dir9kl5kxrgaxqd2bj31qy5r4x45xd029sqki8") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.12 (c (n "faststr") (v "0.2.12") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "0pnmg8dh3qgcmcp129fyj0gj55bc4jlikcq48zkh5r8di63c5bn6") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.13 (c (n "faststr") (v "0.2.13") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "1w2hm731k5js1ly10sya4d9k1id9wkrrhycxdbzl1dxzb1wp5p7j") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (y #t) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.14 (c (n "faststr") (v "0.2.14") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "07ykbymfmps9mgfi19gk7kg4ck42wax7v113q3w1p48qshr6z1j6") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.15 (c (n "faststr") (v "0.2.15") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "0nqddlqb6jlbk2x96n3w9p8dms4crmr97w17m23jxmy8pm0i1l5q") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.16 (c (n "faststr") (v "0.2.16") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "1qy236imh1qqf56kzlfbzfpqvni73v8j5b4qvi7lrwl4y1sgyxn1") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.17 (c (n "faststr") (v "0.2.17") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.24") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "1jvfdyg0vycpl8csaa2i7sq1nnr6a6b3i1a8gl409m6nf7lldr8p") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.18 (c (n "faststr") (v "0.2.18") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.25") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "01jpypnja6x6khi4wyaw5rhzwx1s4hlchdkjwiwmhnmqyrdv6g40") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+
+(define-public crate-faststr-0.2.19 (c (n "faststr") (v "0.2.19") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itoa") (r "^1") (o #t) (d #t) (k 0)) (d (n "redis") (r "^0.25") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "simdutf8") (r "^0.1") (f (quote ("aarch64_neon"))) (d #t) (k 0)) (d (n "static_assertions") (r "^1") (d #t) (k 2)))) (h "1905gi7lf6v53rs2sgd1pf35rnnv211bm3q2m1rwinn43vsgqxgk") (f (quote (("std" "serde/std") ("serde-unsafe" "serde") ("redis-unsafe" "redis") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde") ("redis" "dep:redis" "itoa"))))))
+

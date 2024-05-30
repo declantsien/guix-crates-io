@@ -1,0 +1,6 @@
+(define-module (crates-io li bp libp2p-grpc-rs) #:use-module (crates-io))
+
+(define-public crate-libp2p-grpc-rs-0.1.1 (c (n "libp2p-grpc-rs") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libp2p") (r "^0.51") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.16") (d #t) (k 0)) (d (n "void") (r "^1.0") (d #t) (k 0)))) (h "0qzash3y3yss2zl75ijwf5027pb2nqvcjjazv8vsd2kfrw556sdw") (y #t) (r "1.65.0")))
+
+(define-public crate-libp2p-grpc-rs-0.1.2 (c (n "libp2p-grpc-rs") (v "0.1.2") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libp2p") (r "^0.51") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.16") (d #t) (k 0)) (d (n "void") (r "^1.0") (d #t) (k 0)))) (h "02l9r0in0ibqai0bh9lmx92bm0gs9gppbqc1a81avcaakxisa0gv") (r "1.65.0")))
+

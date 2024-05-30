@@ -1,0 +1,16 @@
+(define-module (crates-io rs cl rscl) #:use-module (crates-io))
+
+(define-public crate-rscl-0.1.0 (c (n "rscl") (v "0.1.0") (d (list (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0fyjljns4dqi6c18ls030i9q7sx2zphyvzdqf87nd2j4rbla6jwy")))
+
+(define-public crate-rscl-0.1.2 (c (n "rscl") (v "0.1.2") (d (list (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "073rwz9krp4d6442pdqzr3lbzb9mdhc7pv94dlglc1zp394fb5s4")))
+
+(define-public crate-rscl-0.1.4 (c (n "rscl") (v "0.1.4") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1s598ffl1zn14k1hvf1834h0a9cbwciwrqb81d530v2b4cl5pgqq")))
+
+(define-public crate-rscl-0.1.5 (c (n "rscl") (v "0.1.5") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "03vyaj2sp4vg50m534ysrlm0n7g41r8l8yajg20j2vmma3bsz7vv")))
+
+(define-public crate-rscl-0.1.6 (c (n "rscl") (v "0.1.6") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "186hqy08p8l5s6jw0q7sgc9gp9f4ipfy27lrh88pf2p7k83v1p3g")))
+
+(define-public crate-rscl-0.1.7 (c (n "rscl") (v "0.1.7") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "124iyh4894bxz82r36l0y0rzmbfaxpc21j5qi09wvpp6lcknaj0w")))
+
+(define-public crate-rscl-0.1.8 (c (n "rscl") (v "0.1.8") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.5") (d #t) (k 0)))) (h "17m6g7ia3c0fz7fj0k5az6n0ayrmqv0ly79pfvz34hvnd0d9m1d0")))
+

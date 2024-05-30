@@ -1,0 +1,8 @@
+(define-module (crates-io ln pb lnpbp_identity) #:use-module (crates-io))
+
+(define-public crate-lnpbp_identity-0.9.0-beta.1 (c (n "lnpbp_identity") (v "0.9.0-beta.1") (d (list (d (n "amplify") (r "^4.0.0-alpha.1") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.11.0") (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (d #t) (k 0)) (d (n "mnemonic") (r "^1.0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.1") (f (quote ("global-context" "rand-std"))) (d #t) (k 0)) (d (n "strict_encoding") (r "^2.0.0-alpha.2") (d #t) (k 0)))) (h "0i95ck5vpq4ky1ckbrb7z5y9hcfw8981jm2rj0qj208kflkg2hk7")))
+
+(define-public crate-lnpbp_identity-0.9.0-rc.1 (c (n "lnpbp_identity") (v "0.9.0-rc.1") (d (list (d (n "amplify") (r "^4.0.0-alpha.1") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.11.0") (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (d #t) (k 0)) (d (n "mnemonic") (r "^1.0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.2") (f (quote ("global-context" "rand-std"))) (d #t) (k 0)) (d (n "strict_encoding") (r "^0.9.0-rc.1") (d #t) (k 0)))) (h "17i431isx28p88if36hjm5acf0hbj9yladxgj5qv08c00dzy89js")))
+
+(define-public crate-lnpbp_identity-0.9.0 (c (n "lnpbp_identity") (v "0.9.0") (d (list (d (n "amplify") (r "^4.0.0-alpha.1") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.11.0") (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (d #t) (k 0)) (d (n "mnemonic") (r "^1.0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.24.2") (f (quote ("global-context" "rand-std"))) (d #t) (k 0)) (d (n "strict_encoding") (r "^0.9.0") (d #t) (k 0)))) (h "15hj6shkpkfwh3gdas32cqp1a658gfxs50jwnfzi8xbn2p8ab9kb")))
+

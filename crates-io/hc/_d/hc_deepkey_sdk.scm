@@ -1,0 +1,16 @@
+(define-module (crates-io hc _d hc_deepkey_sdk) #:use-module (crates-io))
+
+(define-public crate-hc_deepkey_sdk-0.1.0 (c (n "hc_deepkey_sdk") (v "0.1.0") (d (list (d (n "hc_deepkey_types") (r "^0.3") (d #t) (k 0)) (d (n "hdk") (r "^0.3.0-beta-dev.33") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "10wf16fbq3xliz9mkm3s8108m33br1b2vzslm7axz4a2sjk9acs3")))
+
+(define-public crate-hc_deepkey_sdk-0.2.0 (c (n "hc_deepkey_sdk") (v "0.2.0") (d (list (d (n "arbitrary") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "hc_deepkey_types") (r "^0.4") (d #t) (k 0)) (d (n "hdk") (r "^0.3.0-beta-dev.38") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "0jn5w2rz2xxhwzyhswmc8g1ch1as7v918lmfli2dyj15cd7iabhz") (f (quote (("fuzzing" "arbitrary" "hc_deepkey_types/fuzzing"))))))
+
+(define-public crate-hc_deepkey_sdk-0.3.0 (c (n "hc_deepkey_sdk") (v "0.3.0") (d (list (d (n "arbitrary") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "hc_deepkey_types") (r "^0.5") (d #t) (k 0)) (d (n "hdk") (r "^0.3.0-beta-dev.38") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "0kckaxl8pqlv00765x7wb16wkcpqhcvgnqvkxis1fbxbpw0dn73l") (f (quote (("fuzzing" "arbitrary" "hc_deepkey_types/fuzzing"))))))
+
+(define-public crate-hc_deepkey_sdk-0.4.0-dev.0 (c (n "hc_deepkey_sdk") (v "0.4.0-dev.0") (d (list (d (n "arbitrary") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "hc_deepkey_types") (r "^0.6.0-dev.0") (d #t) (k 0)) (d (n "hdk") (r "^0.3.0-beta-dev.41") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "1j20qcdqv9sxlhynykx8i2q5mbxdhg52dxw5vwnivarnlam242cm") (f (quote (("fuzzing" "arbitrary" "hc_deepkey_types/fuzzing"))))))
+
+(define-public crate-hc_deepkey_sdk-0.4.0 (c (n "hc_deepkey_sdk") (v "0.4.0") (d (list (d (n "arbitrary") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "hc_deepkey_types") (r "^0.6.0") (d #t) (k 0)) (d (n "hdk") (r "^0.3.0-beta-dev.41") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "0pals1gaaqz31r9fyg4sn7nlpm63rkz28lvx51y5hk7mx3jxpxsb") (f (quote (("fuzzing" "arbitrary" "hc_deepkey_types/fuzzing"))))))
+
+(define-public crate-hc_deepkey_sdk-0.5.0 (c (n "hc_deepkey_sdk") (v "0.5.0") (d (list (d (n "arbitrary") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "hc_deepkey_types") (r "^0.6.0") (d #t) (k 0)) (d (n "hdk") (r "^0.3.0-beta-dev.41") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "1g5w5ziba0l2mwbc60xg88gr2nfpnwrsjj1ribh92invl3c3wzlp") (f (quote (("fuzzing" "arbitrary" "hc_deepkey_types/fuzzing"))))))
+
+(define-public crate-hc_deepkey_sdk-0.6.0 (c (n "hc_deepkey_sdk") (v "0.6.0") (d (list (d (n "arbitrary") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "hc_deepkey_types") (r "^0.7") (d #t) (k 0)) (d (n "hdk") (r "^0.4.0-dev.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)))) (h "0br87wvzdkyf9y70xs8s8nb9mdjkc7q7d38xzskry89q69f37531") (f (quote (("fuzzing" "arbitrary" "hc_deepkey_types/fuzzing"))))))
+

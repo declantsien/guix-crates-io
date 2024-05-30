@@ -1,0 +1,8 @@
+(define-module (crates-io pi ju pijul-hooks) #:use-module (crates-io))
+
+(define-public crate-pijul-hooks-0.1.0 (c (n "pijul-hooks") (v "0.1.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "13vrx9wlfr2y9wx2lf6imzq54b082d9s47xqkc8m4y5z4wcqs49q")))
+
+(define-public crate-pijul-hooks-0.1.1 (c (n "pijul-hooks") (v "0.1.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "16aw28jjqaj91ndnv27frdnxvl386bqbhj1ykc70684mw9lv6xqi")))
+
+(define-public crate-pijul-hooks-0.1.2 (c (n "pijul-hooks") (v "0.1.2") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "12sp04j3cj3aqxwwnlzfcm6m55nxwh03vn2jm85mbyfm6pbn0pbv")))
+

@@ -1,0 +1,26 @@
+(define-module (crates-io ri ke riker-default) #:use-module (crates-io))
+
+(define-public crate-riker-default-0.1.0 (c (n "riker-default") (v "0.1.0") (d (list (d (n "riker") (r "^0.1.0") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.0") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.0") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.0") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.0") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.0") (d #t) (k 0)))) (h "024ls5pc4wdk179dk60845ckayjlk040dbnlxsl23xr9rffmv2nb")))
+
+(define-public crate-riker-default-0.1.1 (c (n "riker-default") (v "0.1.1") (d (list (d (n "riker") (r "^0.1.1") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.1") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.1") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.1") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.1") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.1") (d #t) (k 0)))) (h "0385nrm5j1nziqd6a2n6bc7zlaf8a755avmnzskdf26abxpgf4kl")))
+
+(define-public crate-riker-default-0.1.4 (c (n "riker-default") (v "0.1.4") (d (list (d (n "riker") (r "^0.1.4") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.4") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.4") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.4") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.4") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.4") (d #t) (k 0)))) (h "1hk8as69jjyyqpfidkchyx2hgvxs8nzaxqbj4rpv5bmxlq8lxcdm")))
+
+(define-public crate-riker-default-0.1.5 (c (n "riker-default") (v "0.1.5") (d (list (d (n "riker") (r "^0.1.5") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.5") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.5") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.5") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.5") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.5") (d #t) (k 0)))) (h "0pb1vyc97n9z6759a2brn4xxn9a3cwizf2jk6w60rzvhy7qwbypa")))
+
+(define-public crate-riker-default-0.1.6 (c (n "riker-default") (v "0.1.6") (d (list (d (n "riker") (r "^0.1.6") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.6") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.6") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.6") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.6") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.6") (d #t) (k 0)))) (h "1kfv8mmlg10x41jkk5vppskmzxc5bdq3ymxfg2c50p3pavz89csf")))
+
+(define-public crate-riker-default-0.1.7 (c (n "riker-default") (v "0.1.7") (d (list (d (n "riker") (r "^0.1.7") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.7") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.7") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.7") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.7") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.7") (d #t) (k 0)))) (h "0z7qrz4r6qlm3l0wqqy2867hg6pf3ldgmhjx4danlybfsgy2icyc")))
+
+(define-public crate-riker-default-0.1.8 (c (n "riker-default") (v "0.1.8") (d (list (d (n "riker") (r "^0.1.8") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.8") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.8") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.8") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.8") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.8") (d #t) (k 0)))) (h "0qlpy86f92glq9h8ncngwwy97aiaz3437bfwnkiccf5j1v0gpcc0")))
+
+(define-public crate-riker-default-0.1.9 (c (n "riker-default") (v "0.1.9") (d (list (d (n "riker") (r "^0.1.9") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.1.9") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.1.9") (d #t) (k 0)) (d (n "riker-log") (r "^0.1.9") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.1.9") (d #t) (k 0)) (d (n "riker-timer") (r "^0.1.9") (d #t) (k 0)))) (h "0hykfv6mrg31sr31js12ibfkv8g0nm09vn8w65fdbr12yd65spdp")))
+
+(define-public crate-riker-default-0.2.0 (c (n "riker-default") (v "0.2.0") (d (list (d (n "riker") (r "^0.2.0") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.2.0") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.2.0") (d #t) (k 0)) (d (n "riker-log") (r "^0.2.0") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.2.0") (d #t) (k 0)) (d (n "riker-timer") (r "^0.2.0") (d #t) (k 0)))) (h "0zyp74jghipchq9xrqlqgqqzrpva0n7yd6vryginvh1drl1wbzp5")))
+
+(define-public crate-riker-default-0.2.2 (c (n "riker-default") (v "0.2.2") (d (list (d (n "riker") (r "^0.2.2") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.2.2") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.2.2") (d #t) (k 0)) (d (n "riker-log") (r "^0.2.2") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.2.2") (d #t) (k 0)) (d (n "riker-timer") (r "^0.2.2") (d #t) (k 0)))) (h "0jwa75hiy2qsfwjf87i0ag98j7sna30hcsx2vwykyivgqdqxngc2")))
+
+(define-public crate-riker-default-0.2.3 (c (n "riker-default") (v "0.2.3") (d (list (d (n "riker") (r "^0.2.3") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.2.3") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.2.3") (d #t) (k 0)) (d (n "riker-log") (r "^0.2.3") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.2.3") (d #t) (k 0)) (d (n "riker-timer") (r "^0.2.3") (d #t) (k 0)))) (h "0h01wqibnf5hpvc0vhp2jp9520y91lxc32wcmz5rfff30yf9bnza")))
+
+(define-public crate-riker-default-0.2.4 (c (n "riker-default") (v "0.2.4") (d (list (d (n "riker") (r "^0.2.4") (d #t) (k 0)) (d (n "riker-deadletter") (r "^0.2.4") (d #t) (k 0)) (d (n "riker-dispatcher") (r "^0.2.4") (d #t) (k 0)) (d (n "riker-log") (r "^0.2.4") (d #t) (k 0)) (d (n "riker-mapvec") (r "^0.2.4") (d #t) (k 0)) (d (n "riker-timer") (r "^0.2.4") (d #t) (k 0)))) (h "1c9i168c4aghjkbq1by45smwwnki2ya5gf7zwknw14xlbf789f6s")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io sh ad shaderc-macro) #:use-module (crates-io))
+
+(define-public crate-shaderc-macro-0.1.0 (c (n "shaderc-macro") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pollster") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_tokenstream") (r "^0.1.2") (d #t) (k 0)) (d (n "shaderc") (r ">=0.6, <0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.64") (d #t) (k 0)) (d (n "wgpu") (r "^0.7") (d #t) (k 2)) (d (n "winit") (r "^0.24") (d #t) (k 2)))) (h "1fm97x9r7cmagkdij2s57r22xqavcs4k9l58806mi5gl7g8a4jya") (f (quote (("default") ("debug") ("build-from-source" "shaderc/build-from-source"))))))
+

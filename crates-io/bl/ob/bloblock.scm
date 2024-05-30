@@ -1,0 +1,6 @@
+(define-module (crates-io bl ob bloblock) #:use-module (crates-io))
+
+(define-public crate-bloblock-0.1.1 (c (n "bloblock") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.10.1") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (k 0)))) (h "1r6igwg6zcqqgv6qkqzlsa45fkj5wgdfcfa3apdv34njldznlimk")))
+
+(define-public crate-bloblock-0.1.2 (c (n "bloblock") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.10.1") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (k 0)))) (h "072x0rjf75a33h354i5pgzgml7zljd3392j0nigwv5csbpka3yyq")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io co de code-shape) #:use-module (crates-io))
+
+(define-public crate-code-shape-0.1.0 (c (n "code-shape") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("cargo" "derive" "env" "string" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "rust-embed") (r "^6.6.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-config") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-loader") (r "^0.20.0") (d #t) (k 0)))) (h "15c12qhyzdgahirixgvnr96xvgqrr0k3vyd4p74m3fahrl8v2vqs")))
+
+(define-public crate-code-shape-0.2.0 (c (n "code-shape") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("cargo" "derive" "env" "string" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "rust-embed") (r "^6.6.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-config") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-loader") (r "^0.20.0") (d #t) (k 0)))) (h "0slklkfpf2sykgqggp7r4j0qn6dx9gkqbz5yi3bij02v4y60p158")))
+
+(define-public crate-code-shape-0.2.1 (c (n "code-shape") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("cargo" "derive" "env" "string" "unicode" "wrap_help"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.0") (d #t) (k 0)) (d (n "rust-embed") (r "^6.6.1") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-config") (r "^0.19.0") (d #t) (k 0)) (d (n "tree-sitter-loader") (r "^0.20.0") (d #t) (k 0)))) (h "08rsik180j6vzr1a41c34j0dc3k9asz597y1p7djw12q715i4phk")))
+

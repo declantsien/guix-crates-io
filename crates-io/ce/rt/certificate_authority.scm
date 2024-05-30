@@ -1,0 +1,4 @@
+(define-module (crates-io ce rt certificate_authority) #:use-module (crates-io))
+
+(define-public crate-certificate_authority-0.1.0 (c (n "certificate_authority") (v "0.1.0") (d (list (d (n "aes-gcm-siv") (r "^0.11.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.24") (f (quote ("serde"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "config") (r "^0.13.3") (f (quote ("toml"))) (d #t) (k 0)) (d (n "pqc_kyber") (r "^0.6.0") (d #t) (k 0)) (d (n "pqcrypto-falcon") (r "^0.2.10") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)) (d (n "uuid") (r "^1.3.3") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0k5n60l60mbz5rn765ap0vp9jmifc0jry7wa83rlsxaj2ks5g7hn")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io fs ea fsearch) #:use-module (crates-io))
+
+(define-public crate-fsearch-0.0.1 (c (n "fsearch") (v "0.0.1") (d (list (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "copypasta") (r "^0.10.1") (f (quote ("wayland"))) (d #t) (k 0)) (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "exmex") (r "^0.19.0") (d #t) (k 0)) (d (n "fsearch-core") (r "^0.0.11") (d #t) (k 0)) (d (n "open") (r "^5.0.0") (d #t) (k 0)) (d (n "relm4") (r "^0.8.1") (d #t) (k 0)) (d (n "relm4-components") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "smithay-clipboard") (r "^0.7.1") (d #t) (k 0)) (d (n "time") (r "^0.3.34") (f (quote ("macros"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (d #t) (k 0)))) (h "1ahmb5vx3vz321xj9q9v4kyqgg9pv88r82pzvjmcb2r9qzs495kz")))
+

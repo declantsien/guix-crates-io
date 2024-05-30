@@ -1,0 +1,10 @@
+(define-module (crates-io k8 s- k8s-csi) #:use-module (crates-io))
+
+(define-public crate-k8s-csi-0.1.0 (c (n "k8s-csi") (v "0.1.0") (d (list (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "prost-build") (r "^0.6") (d #t) (k 1)) (d (n "prost-types") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "net"))) (d #t) (k 2)) (d (n "tonic") (r "^0.2") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.2") (f (quote ("prost" "transport"))) (k 1)) (d (n "tower") (r "^0.3") (d #t) (k 2)))) (h "0w5r855dq0r21j0p221yn0ymag2s0m0js6zz5g4rmy6jnpij6vp4")))
+
+(define-public crate-k8s-csi-0.2.0 (c (n "k8s-csi") (v "0.2.0") (d (list (d (n "prost") (r "^0.6") (d #t) (k 0)) (d (n "prost-build") (r "^0.6") (d #t) (k 1)) (d (n "prost-types") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "net"))) (d #t) (k 2)) (d (n "tonic") (r "^0.3") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.2") (f (quote ("prost" "transport"))) (k 1)) (d (n "tower") (r "^0.3") (d #t) (k 2)))) (h "04m53330dg4g1qh8642661ixj0ayv7g9xc1lfyxxdv8n3ff9i6qr")))
+
+(define-public crate-k8s-csi-0.3.0 (c (n "k8s-csi") (v "0.3.0") (d (list (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "prost-types") (r "^0.7") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "net"))) (d #t) (k 2)) (d (n "tonic") (r "^0.4") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.4") (f (quote ("prost" "transport"))) (k 1)) (d (n "tower") (r "^0.4.2") (d #t) (k 2)))) (h "1v7fnb6d1ppldy5r150x2v2q0ikp27zdrk72jjwfjr3xfl73krwm")))
+
+(define-public crate-k8s-csi-0.4.0 (c (n "k8s-csi") (v "0.4.0") (d (list (d (n "prost") (r "^0.8") (d #t) (k 0)) (d (n "prost-build") (r "^0.8") (d #t) (k 1)) (d (n "prost-types") (r "^0.8") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "net" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.5") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.5") (f (quote ("prost" "transport"))) (k 1)) (d (n "tower") (r "^0.4.2") (d #t) (k 2)))) (h "1rxd3290jz8g5q7ndqj3rk0a72cry72v0xr6zbf0n28a8d9vp52l")))
+

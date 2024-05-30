@@ -1,0 +1,8 @@
+(define-module (crates-io pu bl publish-action-p) #:use-module (crates-io))
+
+(define-public crate-publish-action-p-0.2.3 (c (n "publish-action-p") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "cargo") (r "^0.78.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0prcnb20ymnvvi6fz3scb42wgx4svsvf8minma0fb5zzi31jmcxn") (y #t)))
+
+(define-public crate-publish-action-p-0.2.4 (c (n "publish-action-p") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "cargo") (r "^0.78.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0jws6zdxykimskiinbmqdsw2qhcjbfqgss64nc3qsdiylqw283pi") (y #t)))
+
+(define-public crate-publish-action-p-0.2.5 (c (n "publish-action-p") (v "0.2.5") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "cargo") (r "^0.78.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.2") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1j7yi6gpqa2n7j68d8lpv0wf7j1b5f5k7294zxbxpn06jqkv2782")))
+

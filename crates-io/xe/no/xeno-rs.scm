@@ -1,0 +1,6 @@
+(define-module (crates-io xe no xeno-rs) #:use-module (crates-io))
+
+(define-public crate-xeno-rs-0.1.0 (c (n "xeno-rs") (v "0.1.0") (d (list (d (n "apple-dmg") (r "^0.1.0") (d #t) (k 0)))) (h "005bn71xxsnnljsdr062kqb5w780hh98qfc6w87w7ynf535nzxz9")))
+
+(define-public crate-xeno-rs-0.1.1 (c (n "xeno-rs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.68") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "apple-dmg") (r "^0.2.0") (d #t) (k 0)) (d (n "apple-xar") (r "^0.13.0") (d #t) (k 0)) (d (n "bzip2") (r "^0.4.3") (d #t) (k 0)) (d (n "cab") (r "^0.4.1") (d #t) (k 0)) (d (n "cpio_reader") (r "^0.1.1") (d #t) (k 0)) (d (n "delharc") (r "^0.4.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "lzma-rs") (r "^0.2") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "sevenz-rust") (r "^0.2.0") (f (quote ("aes256"))) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (d #t) (k 0)) (d (n "unrar") (r "^0.4.4") (d #t) (k 0)) (d (n "zip") (r "^0.6.3") (d #t) (k 0)) (d (n "zstd") (r "^0.12.1") (d #t) (k 0)))) (h "0fgi66iz9r8yc19r0va6php27av9rllh9rlrdkw5llm43fnczbkj")))
+

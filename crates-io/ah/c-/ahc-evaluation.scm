@@ -1,0 +1,6 @@
+(define-module (crates-io ah c- ahc-evaluation) #:use-module (crates-io))
+
+(define-public crate-ahc-evaluation-0.1.0 (c (n "ahc-evaluation") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "1p1n0zbd65rnsvbkpfy86qv6avri56pmd6rvhaliij5p3l5s3yv0")))
+
+(define-public crate-ahc-evaluation-0.1.1 (c (n "ahc-evaluation") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0k8m345pgjqlsis3b23m7zk7pcllicphx2k9mqv5yghj8d2pxgg6")))
+

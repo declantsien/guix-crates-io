@@ -1,0 +1,32 @@
+(define-module (crates-io ch em chemistru-elements) #:use-module (crates-io))
+
+(define-public crate-chemistru-elements-0.1.0 (c (n "chemistru-elements") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "0vlvc16sk7wf8hrr23gpynb2d6n6wp7xjmc005ydyw6pxa054vvr") (y #t)))
+
+(define-public crate-chemistru-elements-0.2.0 (c (n "chemistru-elements") (v "0.2.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "0syzwpp849380wj4yr8gcmv6544i9gi97js3sryhdhjqglmx4g06") (y #t)))
+
+(define-public crate-chemistru-elements-0.3.0 (c (n "chemistru-elements") (v "0.3.0") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "1czvbnc00csiy3w0sfbj6c57lj1bfb95fp32rkh0jiqpvvn6vq8v") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.0 (c (n "chemistru-elements") (v "0.4.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "1nzn76d1vg06wcnxdlilf74kasikf8ml2qfab0bfn3fghswfz5dm") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.1 (c (n "chemistru-elements") (v "0.4.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "0vdmc80w8i1rxdkq5ps880r3p2x4lrhbbb4f6cbzq7q2qbfa2gwy") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.2 (c (n "chemistru-elements") (v "0.4.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)))) (h "1ws8a37dxai64q61ziy5jn3pizlpmv29rngjjknqmfd42z8rm7jg") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.3 (c (n "chemistru-elements") (v "0.4.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0s383wz3dfjx2szc6a2c2nibp3ib20gxk1n8kpvk1g8yc81pidhv") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.4 (c (n "chemistru-elements") (v "0.4.4") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "1az1yr9va1bkyhh92zhx5ahlc8hbbfj8ddwf91y4ns7h9d7pwbn3") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.5 (c (n "chemistru-elements") (v "0.4.5") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "1bpfmr1616689bxi3cz17gifp61n4h1lfb25vpa60zjn8vbpr3zk") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.6 (c (n "chemistru-elements") (v "0.4.6") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "1ymh3j9948637a8yp6cdszg6ncxiw45wdfjl6kqxwq69wsw7np56") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.7 (c (n "chemistru-elements") (v "0.4.7") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "1h1yw5mr4jsp37sq3q818hv5ss7kdw3brb0r4qiivfsgsdk558rq") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.8 (c (n "chemistru-elements") (v "0.4.8") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "0f2jfcbhv6mhnxvmzfb2ilm0881kd2sc31njqsi7v8amly37i4yy") (y #t)))
+
+(define-public crate-chemistru-elements-0.4.9 (c (n "chemistru-elements") (v "0.4.9") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "1ld85d07zzay9wkr5jk7jn5279dkh2vqk36k3wlwxxs3gcxpfszf") (y #t)))
+
+(define-public crate-chemistru-elements-0.5.0 (c (n "chemistru-elements") (v "0.5.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "152a1sd0dxfrfksddkymg7kdqkd2g606lm0mv53wnk6lw5549vpy")))
+
+(define-public crate-chemistru-elements-0.6.0 (c (n "chemistru-elements") (v "0.6.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "099drnp7cxdzwaf1vrgk68qdzcamswc3ccyvm0bnq64wwd0wgqpg")))
+

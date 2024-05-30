@@ -1,0 +1,4 @@
+(define-module (crates-io do tf dotfilesctl) #:use-module (crates-io))
+
+(define-public crate-dotfilesctl-0.1.0 (c (n "dotfilesctl") (v "0.1.0") (d (list (d (n "clap") (r "^2.30") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify") (r "^4.0") (d #t) (k 0)) (d (n "notify-rust") (r "^3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "proptest") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "xdg") (r "^2.1") (d #t) (k 0)))) (h "1628pqmh1yn8rwqifp1l802ljn7jdkxdpgr7lva7iaiylq00ksfi")))
+

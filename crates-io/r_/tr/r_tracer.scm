@@ -1,0 +1,12 @@
+(define-module (crates-io r_ tr r_tracer) #:use-module (crates-io))
+
+(define-public crate-r_tracer-1.0.0 (c (n "r_tracer") (v "1.0.0") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "minifb") (r "^0.24") (d #t) (k 0)) (d (n "obj-rs") (r "^0.7.1") (d #t) (k 0)) (d (n "pk_stl") (r "^0.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "1ya5adimhxbrz19a21sl3pgnz6i5rkqbhc7gdd9ijxiv56h4vmq8")))
+
+(define-public crate-r_tracer-1.0.1 (c (n "r_tracer") (v "1.0.1") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "minifb") (r "^0.24") (d #t) (k 0)) (d (n "obj-rs") (r "^0.7.1") (d #t) (k 0)) (d (n "pk_stl") (r "^0.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "16lf8h4j0pifb5gsa9rb3sjy56wf7djhyfdj4kq0mayrwksgcysl")))
+
+(define-public crate-r_tracer-1.0.2 (c (n "r_tracer") (v "1.0.2") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "minifb") (r "^0.24") (d #t) (k 0)) (d (n "obj-rs") (r "^0.7.1") (d #t) (k 0)) (d (n "pk_stl") (r "^0.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "17b2j42mg4rf76vai666c6nnqj2b1vb30jp1yyd21vxdll6l6cgg")))
+
+(define-public crate-r_tracer-1.0.3 (c (n "r_tracer") (v "1.0.3") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "minifb") (r "^0.24") (d #t) (k 0)) (d (n "obj-rs") (r "^0.7.1") (d #t) (k 0)) (d (n "pk_stl") (r "^0.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "0h9sd1ykn2qjm1i7774vrl725v9g8ylr5611rh3cl48rsyz3dxlb")))
+
+(define-public crate-r_tracer-1.0.4 (c (n "r_tracer") (v "1.0.4") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "minifb") (r "^0.24") (d #t) (k 0)) (d (n "obj-rs") (r "^0.7.1") (d #t) (k 0)) (d (n "pk_stl") (r "^0.3.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "1fcq9hl3l27825kb3hmkcl4fv5bqps5si5y3mrkj9i6xqq1q8s7g")))
+

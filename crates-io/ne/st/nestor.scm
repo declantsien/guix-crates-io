@@ -1,0 +1,4 @@
+(define-module (crates-io ne st nestor) #:use-module (crates-io))
+
+(define-public crate-nestor-0.1.0 (c (n "nestor") (v "0.1.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1.25") (d #t) (k 0)) (d (n "futures-preview") (r "^0.3.0-alpha.12") (d #t) (k 0) (p "futures-preview")) (d (n "inventory") (r "^0.1") (d #t) (k 0)) (d (n "irc") (r "^0.13") (d #t) (k 0)) (d (n "nestor_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "state") (r "^0.4") (f (quote ("tls"))) (d #t) (k 0)) (d (n "tokio") (r "^0.1.13") (f (quote ("async-await-preview"))) (d #t) (k 0)) (d (n "tokio-async-await") (r "^0.1.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1nnbkwwbhqqc2wqlv9n0i8zzc6zxbjjksv2gkra7s309f6x12d11")))
+

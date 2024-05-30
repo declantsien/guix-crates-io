@@ -1,0 +1,10 @@
+(define-module (crates-io sy sl syslog-tracing) #:use-module (crates-io))
+
+(define-public crate-syslog-tracing-0.1.0 (c (n "syslog-tracing") (v "0.1.0") (d (list (d (n "gag") (r "^1.0") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.13") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("json"))) (d #t) (k 2)))) (h "0iz73gcyz71q64xnia4nbxwbvjplfl1wpg4bllha4nwfkwgzzyac")))
+
+(define-public crate-syslog-tracing-0.2.0 (c (n "syslog-tracing") (v "0.2.0") (d (list (d (n "gag") (r "^1.0") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt" "json"))) (k 2)))) (h "0ghrjsj0psf0rd52j66dc02dk9yj2bsg3f5kfdryidqfyrl0p29g")))
+
+(define-public crate-syslog-tracing-0.3.0 (c (n "syslog-tracing") (v "0.3.0") (d (list (d (n "gag") (r "^1.0") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt" "json"))) (k 2)))) (h "0s2p8310rysg064y2aqvy8w1mavpz5s7jvlnq9mhcsyvvi01a2rl")))
+
+(define-public crate-syslog-tracing-0.3.1 (c (n "syslog-tracing") (v "0.3.1") (d (list (d (n "gag") (r "^1.0") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 2)) (d (n "tracing-core") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt" "json"))) (k 2)))) (h "1r7ncj7nlqjw225zh26pjlbpzvqwci1rd8h9cxjvzd08yhnvqjfk")))
+

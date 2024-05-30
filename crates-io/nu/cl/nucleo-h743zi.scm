@@ -1,0 +1,8 @@
+(define-module (crates-io nu cl nucleo-h743zi) #:use-module (crates-io))
+
+(define-public crate-nucleo-h743zi-0.1.0 (c (n "nucleo-h743zi") (v "0.1.0") (d (list (d (n "cortex-m-rt") (r "^0.6.7") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2") (d #t) (k 0)) (d (n "stm32h7xx-hal") (r "^0.1") (f (quote ("stm32h7x3"))) (d #t) (k 0)))) (h "1w3zbgb1l3zb7s5m8nw50p5aag3qk1n19f5r09ycmd55ggi5ymvw")))
+
+(define-public crate-nucleo-h743zi-0.2.0 (c (n "nucleo-h743zi") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7.1") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.1") (d #t) (k 0)) (d (n "cortex-m-rtic") (r "^1.0.0") (d #t) (k 0)) (d (n "defmt") (r "^0.3.1") (d #t) (k 0)) (d (n "defmt-rtt") (r "^0.3.2") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.6") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3.0") (f (quote ("print-defmt"))) (d #t) (k 0)) (d (n "stm32h7xx-hal") (r "^0.11") (f (quote ("stm32h743v"))) (d #t) (k 0)))) (h "1v5m8yrapiyxchs311ry2qq52jkf3bi4gqdj7ngqssv2ggb5gw82")))
+
+(define-public crate-nucleo-h743zi-0.2.1 (c (n "nucleo-h743zi") (v "0.2.1") (d (list (d (n "cortex-m") (r "^0.7.7") (f (quote ("critical-section-single-core"))) (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.1") (d #t) (k 0)) (d (n "cortex-m-rtic") (r "^1.0.0") (d #t) (k 0)) (d (n "defmt") (r "^0.3.1") (d #t) (k 0)) (d (n "defmt-rtt") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.6") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3.0") (f (quote ("print-defmt"))) (d #t) (k 0)) (d (n "stm32h7xx-hal") (r "^0.13.1") (f (quote ("stm32h743v"))) (d #t) (k 0)))) (h "078jv3pcy362aqyxx53wlq6qnryqbngw6rn1p2alim5mz7w92paq")))
+

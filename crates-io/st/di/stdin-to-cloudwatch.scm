@@ -1,0 +1,8 @@
+(define-module (crates-io st di stdin-to-cloudwatch) #:use-module (crates-io))
+
+(define-public crate-stdin-to-cloudwatch-0.1.0 (c (n "stdin-to-cloudwatch") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "aws-config") (r "^1.1.5") (f (quote ("behavior-version-latest"))) (d #t) (k 0)) (d (n "aws-sdk-cloudwatchlogs") (r "^1.15.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.20.6") (f (quote ("full"))) (d #t) (k 0)))) (h "1g0gmim6zsjqz51iwj0jm7nprrvga011xss624s2cm3v7q39i304")))
+
+(define-public crate-stdin-to-cloudwatch-0.2.0 (c (n "stdin-to-cloudwatch") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "aws-config") (r "^1.1.5") (f (quote ("behavior-version-latest"))) (d #t) (k 0)) (d (n "aws-sdk-cloudwatchlogs") (r "^1.15.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.20.6") (f (quote ("full"))) (d #t) (k 0)))) (h "1r1nv9s3awi4qhld4ny1g92fgbpw73alhli8xahc0z6h4m6y9vvx")))
+
+(define-public crate-stdin-to-cloudwatch-0.3.0 (c (n "stdin-to-cloudwatch") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "aws-config") (r "^1.1.5") (f (quote ("behavior-version-latest"))) (d #t) (k 0)) (d (n "aws-sdk-cloudwatchlogs") (r "^1.15.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.20.6") (f (quote ("full"))) (d #t) (k 0)))) (h "0zl3m84z807pxlfb8m1l6svy8zhffalhbm8f6n8b215qz0jgfs63")))
+

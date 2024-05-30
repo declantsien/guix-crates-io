@@ -1,0 +1,6 @@
+(define-module (crates-io so ph sophus_core) #:use-module (crates-io))
+
+(define-public crate-sophus_core-0.5.0 (c (n "sophus_core") (v "0.5.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "assertables") (r "^7.0.1") (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1.2") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15.4") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "sleef") (r "^0.3.2") (d #t) (k 0)) (d (n "typenum") (r "^1.17.0") (f (quote ("const-generics"))) (d #t) (k 0)))) (h "0hgk8jff3v7a5rc970w61w57lbpsmacxqcha66pdv01jzjv49lg5")))
+
+(define-public crate-sophus_core-0.6.0 (c (n "sophus_core") (v "0.6.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sleef") (r "^0.3") (d #t) (k 0)) (d (n "typenum") (r "^1.17") (f (quote ("const-generics"))) (d #t) (k 0)))) (h "0nclylyg4jbcmr77b1w1jpn68crd5kv7kpa81d1bj73ff1yry5c2")))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io sm pl smpli) #:use-module (crates-io))
+
+(define-public crate-smpli-0.1.0 (c (n "smpli") (v "0.1.0") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "smpl") (r "^0.15.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0kg680dbai9rz4969jfwq6c6aglph1ja48fck2nla0nmir6lwid6")))
+
+(define-public crate-smpli-0.1.1 (c (n "smpli") (v "0.1.1") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "smpl") (r "^0.15.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "1if8k5rynxb0jg3ic7ggizpjmvr6sgnff19nsqfrrqxgc37xwngi")))
+
+(define-public crate-smpli-0.1.2 (c (n "smpli") (v "0.1.2") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "smpl") (r "^0.15.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "01qqr3iy0ckk8x5nhfwvc1ir4cmhbhj9za7f5vd5xlm2ikmr2r9d")))
+
+(define-public crate-smpli-0.1.3 (c (n "smpli") (v "0.1.3") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "smpl") (r "^0.15.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0hff8fl92qypfm7jhjma0wm0lx1wjfsrhg4w6jhg25c4cicy5z08")))
+
+(define-public crate-smpli-0.1.4 (c (n "smpli") (v "0.1.4") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "smpl") (r "^0.15.2") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "1zyrpbpsbgiyi7gs0b7kk55d5xs67a69nqqyybnyzaifc21fj4x2")))
+
+(define-public crate-smpli-0.2.0 (c (n "smpli") (v "0.2.0") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "smpl") (r "^0.16.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0znq532vfw3vfnqsdfdm43a0s4chk76j414m575gjzw0nc8z442m")))
+
+(define-public crate-smpli-0.3.0 (c (n "smpli") (v "0.3.0") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "paste") (r "^0.1.6") (d #t) (k 0)) (d (n "smpl") (r "^0.17.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "1p4sn0vrd8ksnic8vc4h1jpjf31dkpcmasdnh7yl5ns4v5rr1y7m")))
+
+(define-public crate-smpli-0.4.0 (c (n "smpli") (v "0.4.0") (d (list (d (n "derive_builder") (r "^0.7.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.2") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "irmatch") (r "^0.2.0") (d #t) (k 0)) (d (n "paste") (r "^0.1.6") (d #t) (k 0)) (d (n "smpl") (r "^0.18.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "1bq4sxkb0rxqxlccx5falrbkw3zbzqsamsyij5cbbcp0hslpn5kg")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io jr nl jrnl) #:use-module (crates-io))
+
+(define-public crate-jrnl-0.1.0 (c (n "jrnl") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "configure") (r "^0.1.1") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.28") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "1jnj7zbx71jksxwnpllllrnfjlagx7bdni69sgwhf2na6hr0qamk")))
+
+(define-public crate-jrnl-0.1.1 (c (n "jrnl") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "configure") (r "^0.1.1") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.79") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.28") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "15aqc0drlxibcix6c6h4ynljzvfip0ls8fg9xvp4xkvqayc5lh56")))
+

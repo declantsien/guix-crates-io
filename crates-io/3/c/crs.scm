@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# c crs) #:use-module (crates-io))
+
+(define-public crate-crs-0.1.0 (c (n "crs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "execute") (r "^0.2.11") (d #t) (k 0)) (d (n "fs_extra") (r "^1.2.0") (d #t) (k 0)) (d (n "git2") (r "^0.14.4") (d #t) (k 0)) (d (n "handlebars") (r "^4.3.1") (d #t) (k 0)) (d (n "inquire") (r "^0.2.1") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.75") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0r0imqyw2dc2vbq41aykmfqyipv9x1qg55sqlj6slb9k9kpc3ap6")))
+

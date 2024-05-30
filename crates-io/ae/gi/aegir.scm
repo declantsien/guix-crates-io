@@ -1,0 +1,8 @@
+(define-module (crates-io ae gi aegir) #:use-module (crates-io))
+
+(define-public crate-aegir-0.1.0 (c (n "aegir") (v "0.1.0") (d (list (d (n "either") (r "^1.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.14") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1dj4zlwigflx4lj6g8yg7wz5nymi9nzgiv5h88v6inf9y08hkslb")))
+
+(define-public crate-aegir-1.0.0 (c (n "aegir") (v "1.0.0") (d (list (d (n "aegir_compile") (r "^0.1") (d #t) (k 0)) (d (n "aegir_derive") (r "^0.2") (d #t) (k 0)) (d (n "array-init") (r "^2.0") (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "special-fun") (r "^0.2") (d #t) (k 0)))) (h "13dwdn27qkc8xjg3xlhxmc495va8vrx7q7rzw0lbinv7837s4i0r") (f (quote (("default"))))))
+
+(define-public crate-aegir-2.0.0 (c (n "aegir") (v "2.0.0") (d (list (d (n "aegir_compile") (r "^0.2") (d #t) (k 0)) (d (n "aegir_derive") (r "^0.3") (d #t) (k 0)) (d (n "array-init") (r "^2.0") (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "special-fun") (r "^0.2") (d #t) (k 0)))) (h "0a10p9kqzrlhrk9l7546hy3qdx86fjdibnlvfmzznbal6cdphnfp") (f (quote (("default")))) (r "1.66")))
+

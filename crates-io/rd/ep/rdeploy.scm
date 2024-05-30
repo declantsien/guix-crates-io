@@ -1,0 +1,4 @@
+(define-module (crates-io rd ep rdeploy) #:use-module (crates-io))
+
+(define-public crate-rdeploy-0.1.0 (c (n "rdeploy") (v "0.1.0") (d (list (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "fern") (r "^0.6.0") (d #t) (k 0)) (d (n "git2") (r "^0.13.20") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hmac") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "tide") (r "^0.16.0") (f (quote ("h1-server"))) (k 0)) (d (n "urlencoding") (r "^1.3.3") (d #t) (k 0)))) (h "1qwb52w3c950scjxk9sacv28pb4d5r02ibyqc64bn5kdwkl7637h") (y #t)))
+

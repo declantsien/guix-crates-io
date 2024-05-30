@@ -1,0 +1,14 @@
+(define-module (crates-io kf n- kfn-rs) #:use-module (crates-io))
+
+(define-public crate-kfn-rs-0.1.0-alpha (c (n "kfn-rs") (v "0.1.0-alpha") (d (list (d (n "dbg_hex") (r "^0.1.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rust-ini") (r "^0.18.0") (d #t) (k 0)))) (h "15igm283xkjb86m890svd5c2l9lflayr45vkrqxx3cdlp39f4r9b") (y #t)))
+
+(define-public crate-kfn-rs-0.1.1-alpha (c (n "kfn-rs") (v "0.1.1-alpha") (d (list (d (n "dbg_hex") (r "^0.1.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rust-ini") (r "^0.18.0") (d #t) (k 0)))) (h "1l9afhnqyxlhhsxz29108n2g53i8vi4jxbjk4wwcykl6x5idcspx")))
+
+(define-public crate-kfn-rs-0.2.0-alpha (c (n "kfn-rs") (v "0.2.0-alpha") (d (list (d (n "dbg_hex") (r "^0.1.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rodio") (r "^0.15.0") (d #t) (k 0)) (d (n "rust-ini") (r "^0.18.0") (d #t) (k 0)))) (h "0bs8n6i5sz3las619xq2x84sqkl3g0h7dakacn2g3ladzivvd95y")))
+
+(define-public crate-kfn-rs-0.3.0-alpha (c (n "kfn-rs") (v "0.3.0-alpha") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "colorsys") (r "^0.6.6") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "dbg_hex") (r "^0.1.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rodio") (r "^0.15.0") (d #t) (k 0)) (d (n "rust-ini") (r "^0.18.0") (d #t) (k 0)) (d (n "speedy2d") (r "^1.7.0") (d #t) (k 0)))) (h "1q79i2aqpng2zp071k9j4xw67x1c2wxm1plm90nrdh3kl95qnp6b")))
+
+(define-public crate-kfn-rs-0.3.1-alpha (c (n "kfn-rs") (v "0.3.1-alpha") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "colorsys") (r "^0.6.6") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "dbg_hex") (r "^0.1.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rodio") (r "^0.15.0") (d #t) (k 0)) (d (n "rust-ini") (r "^0.18.0") (d #t) (k 0)) (d (n "speedy2d") (r "^1.7.0") (d #t) (k 0)))) (h "0a4dys9xv5rjbk7j8nm3y53vvabwbl2rr6rjjn53f2n7cgz57q3s")))
+
+(define-public crate-kfn-rs-0.4.0-alpha (c (n "kfn-rs") (v "0.4.0-alpha") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "colorsys") (r "^0.6.6") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "dbg_hex") (r "^0.1.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rodio") (r "^0.15.0") (d #t) (k 0)) (d (n "rust-ini") (r "^0.18.0") (d #t) (k 0)) (d (n "speedy2d") (r "^1.7.0") (d #t) (k 0)))) (h "01n7fmmfls9rp8f3siqr0h60d1xzzhv01y786smr5lj15mpy29xf")))
+

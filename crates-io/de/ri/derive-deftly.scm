@@ -1,0 +1,22 @@
+(define-module (crates-io de ri derive-deftly) #:use-module (crates-io))
+
+(define-public crate-derive-deftly-0.9.0 (c (n "derive-deftly") (v "0.9.0") (d (list (d (n "derive-deftly-macros") (r "=0.9.0") (k 0)) (d (n "heck") (r "^0.4") (o #t) (d #t) (k 0)))) (h "04fxzi8ks5231zv2b1z5c6s6ywl27hzf0jnvvmcnvraid8fms2i4") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.9.1 (c (n "derive-deftly") (v "0.9.1") (d (list (d (n "derive-deftly-macros") (r "=0.9.1") (k 0)) (d (n "heck") (r "^0.4") (o #t) (d #t) (k 0)))) (h "1ig8qvw3kia3axpbg6wkn9fny2na7kiw6mc7jbvy35bsx5lq4q39") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.9.2 (c (n "derive-deftly") (v "0.9.2") (d (list (d (n "derive-deftly-macros") (r "=0.9.2") (k 0)) (d (n "heck") (r "^0.4") (o #t) (d #t) (k 0)))) (h "0zjrz61r3851jwk0bqzp9a0k5jdqx7xcqcr6i4dkggw2byvrfn2c") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.10.0 (c (n "derive-deftly") (v "0.10.0") (d (list (d (n "derive-deftly-macros") (r "=0.10.0") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "1ajn3n8n1hxg4zqa3y6axmm6kps6mlwsaiilqqak55wxqj8fb3zr") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.10.1 (c (n "derive-deftly") (v "0.10.1") (d (list (d (n "derive-deftly-macros") (r "=0.10.1") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "09n84bqpnasswj9gskbk3mb55b12prxb1h71vzcb95mx571jdp25") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.10.2 (c (n "derive-deftly") (v "0.10.2") (d (list (d (n "derive-deftly-macros") (r "=0.10.2") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "190ykyg9skqislc5cba5kjcnqqdfqzq5yaj69vrwhwcr5b9f0wqw") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.10.3 (c (n "derive-deftly") (v "0.10.3") (d (list (d (n "derive-deftly-macros") (r "=0.10.3") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "1845qk2c3rr8gqcbncgs4c2d4swza4z14ixkw95jwh3cwwhzpqhy") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.10.4 (c (n "derive-deftly") (v "0.10.4") (d (list (d (n "derive-deftly-macros") (r "=0.10.4") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "0dj57d5n1isscfn3bzx1c4zgsmljlcsn3mzmr2k6xmy758yg6jsn") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.10.5 (c (n "derive-deftly") (v "0.10.5") (d (list (d (n "derive-deftly-macros") (r "=0.10.5") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "07nf4z076x9r1xsbagdrw2v4vnr2jn5v3vx80nmr6a5rspy3s5rc") (f (quote (("minimal-1") ("full" "case" "expect" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+
+(define-public crate-derive-deftly-0.11.0 (c (n "derive-deftly") (v "0.11.0") (d (list (d (n "derive-deftly-macros") (r "=0.11.0") (k 0)) (d (n "heck") (r ">=0.4, <0.6") (o #t) (d #t) (k 0)))) (h "1srwzpbas3pc7b5ikhhd9pbi1l53vgx74s74z8dvk75hai482kfq") (f (quote (("minimal-1") ("meta-as-items" "derive-deftly-macros/meta-as-items") ("full" "case" "expect" "meta-as-items" "minimal-1") ("expect" "derive-deftly-macros/expect") ("default" "full") ("case" "derive-deftly-macros/case" "heck")))) (r "1.56")))
+

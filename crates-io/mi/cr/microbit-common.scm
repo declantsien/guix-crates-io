@@ -1,0 +1,14 @@
+(define-module (crates-io mi cr microbit-common) #:use-module (crates-io))
+
+(define-public crate-microbit-common-0.10.0 (c (n "microbit-common") (v "0.10.0") (d (list (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "nrf51-hal") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "nrf52833-hal") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "tiny-led-matrix") (r "^1.0.1") (d #t) (k 0)))) (h "10cqs1qfqajqzixsbdmx4hxy69ph1frg9cjy722y7f98p55qdfgf") (f (quote (("v2" "nrf52833-hal") ("v1" "nrf51-hal") ("doc"))))))
+
+(define-public crate-microbit-common-0.10.1 (c (n "microbit-common") (v "0.10.1") (d (list (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "nrf51-hal") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "nrf52833-hal") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "tiny-led-matrix") (r "^1.0.1") (d #t) (k 0)))) (h "126f7w3mrdqdjl342aakbv5b7lq3fwk6lgm7aynvh4dhqcr8gyjq") (f (quote (("v2" "nrf52833-hal") ("v1" "nrf51-hal") ("doc"))))))
+
+(define-public crate-microbit-common-0.11.0 (c (n "microbit-common") (v "0.11.0") (d (list (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "nrf51-hal") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "nrf52833-hal") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "tiny-led-matrix") (r "^1.0.1") (d #t) (k 0)))) (h "1bhh6dy15qsmqrm7yiiw66qy8kkcdm7v0v1p4ql4dj9g6khsfl5n") (f (quote (("v2" "nrf52833-hal") ("v1" "nrf51-hal") ("doc"))))))
+
+(define-public crate-microbit-common-0.12.0 (c (n "microbit-common") (v "0.12.0") (d (list (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "nrf51-hal") (r "^0.14.0") (o #t) (d #t) (k 0)) (d (n "nrf52833-hal") (r "^0.14.0") (o #t) (d #t) (k 0)) (d (n "tiny-led-matrix") (r "^1.0.1") (d #t) (k 0)))) (h "0nj69724w2rc5ggnvarlbp01i9gids433bhiq9byg6a8xhd80wwf") (f (quote (("v2" "nrf52833-hal") ("v1" "nrf51-hal") ("doc"))))))
+
+(define-public crate-microbit-common-0.13.0 (c (n "microbit-common") (v "0.13.0") (d (list (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "nrf51-hal") (r "^0.14.0") (o #t) (d #t) (k 0)) (d (n "nrf52833-hal") (r "^0.14.0") (o #t) (d #t) (k 0)) (d (n "tiny-led-matrix") (r "^1.0.1") (d #t) (k 0)))) (h "0mhjsdjzac66yaxdan7xasy33wi2hlyhzhrn8mpila743c01sra5") (f (quote (("v2" "nrf52833-hal") ("v1" "nrf51-hal") ("doc"))))))
+
+(define-public crate-microbit-common-0.14.0 (c (n "microbit-common") (v "0.14.0") (d (list (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "nrf51-hal") (r "^0.17.1") (f (quote ("rt" "xxAB-package"))) (o #t) (k 0)) (d (n "nrf52833-hal") (r "^0.17.1") (f (quote ("rt"))) (o #t) (k 0)) (d (n "tiny-led-matrix") (r "^1.0.2") (d #t) (k 0)))) (h "0jqixri0a5yyxppaxv1gzvsj4x1kfma9ama2m7c6b8gspr09yh1p") (f (quote (("v2" "nrf52833-hal") ("v1" "nrf51-hal") ("doc")))) (s 2) (e (quote (("embedded-hal-02" "nrf51-hal?/embedded-hal-02" "nrf52833-hal?/embedded-hal-02")))) (r "1.73.0")))
+

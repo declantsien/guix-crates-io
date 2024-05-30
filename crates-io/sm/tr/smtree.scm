@@ -1,0 +1,8 @@
+(define-module (crates-io sm tr smtree) #:use-module (crates-io))
+
+(define-public crate-smtree-0.1.0 (c (n "smtree") (v "0.1.0") (d (list (d (n "blake2") (r "^0.9.1") (d #t) (k 0)) (d (n "blake3") (r "^0.3.7") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "sha2") (r "^0.9.2") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "zeroize") (r "^1.2.0") (f (quote ("zeroize_derive"))) (k 0)))) (h "1a017vr4i3q5ysyqcqk9f4i9lwzc0vw910ab5ry4fcx6fk8k4hin")))
+
+(define-public crate-smtree-0.1.1 (c (n "smtree") (v "0.1.1") (d (list (d (n "blake2") (r "^0.9.1") (d #t) (k 0)) (d (n "blake3") (r "^0.3.7") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3.4") (d #t) (k 2)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "sha2") (r "^0.9.2") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "zeroize") (r "^1.2.0") (f (quote ("zeroize_derive"))) (k 0)))) (h "17n2c8ywb6nr7mv9ybwlcfvrdancbl6fsfkjqsk7rs1y17d553i0")))
+
+(define-public crate-smtree-0.1.2 (c (n "smtree") (v "0.1.2") (d (list (d (n "blake2") (r "^0.9.2") (d #t) (k 0)) (d (n "blake3") (r "^0.3.8") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "zeroize") (r "^1.4.2") (f (quote ("zeroize_derive"))) (k 0)))) (h "1za4ywz0qbcws9xfvh8zwy35pn1hs420v40zf8yjamwjv2cx8snf")))
+

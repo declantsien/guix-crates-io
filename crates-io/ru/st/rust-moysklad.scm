@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust-moysklad) #:use-module (crates-io))
+
+(define-public crate-rust-moysklad-0.1.0 (c (n "rust-moysklad") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("gzip" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "serde_with") (r "^3.6.1") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter"))) (d #t) (k 2)) (d (n "uuid") (r "^1.7.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "001j6i3v3fpm09rfqvc2zaxqqm9nmh0f2id1s0dw5m8dirz0d6w8")))
+

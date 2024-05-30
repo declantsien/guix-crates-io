@@ -1,0 +1,38 @@
+(define-module (crates-io cr ok crokey) #:use-module (crates-io))
+
+(define-public crate-crokey-0.1.0 (c (n "crokey") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)))) (h "1byj0w7mg19yakqqckffixxjdl4a0h92ll95x5lp5wmqsd9mq7xh") (r "1.56")))
+
+(define-public crate-crokey-0.2.0 (c (n "crokey") (v "0.2.0") (d (list (d (n "crokey-proc_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)))) (h "0ix0b5rkgq1kabgyf4m1br6f1bpxf2x1yb2kwjsi26iqddl2whnd") (r "1.56")))
+
+(define-public crate-crokey-0.2.1 (c (n "crokey") (v "0.2.1") (d (list (d (n "crokey-proc_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)))) (h "1ny1nnqdm8wj7xkylvsqy5jq1a32qh21ps9jbbvbl5ix6h8w0fh2") (r "1.56")))
+
+(define-public crate-crokey-0.2.2 (c (n "crokey") (v "0.2.2") (d (list (d (n "crokey-proc_macros") (r "^0.2.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)))) (h "1qp76yshly8bj5k031047d8ndll5m5kvk5kl7gpwclnq91qcflyv") (r "1.56")))
+
+(define-public crate-crokey-0.3.0 (c (n "crokey") (v "0.3.0") (d (list (d (n "crokey-proc_macros") (r "^0.2.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)))) (h "0k5acs71mg8kl0agbvhsf1l3xbgpqhvpss2fbgkbcjzw9q9ygar4") (r "1.56")))
+
+(define-public crate-crokey-0.3.1 (c (n "crokey") (v "0.3.1") (d (list (d (n "crokey-proc_macros") (r "^0.3.1") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)))) (h "1spdkcj0y15621nyzhqrrhyqj8xd18xrs4zz69z5y89l3px10hzr") (r "1.56")))
+
+(define-public crate-crokey-0.4.0 (c (n "crokey") (v "0.4.0") (d (list (d (n "crokey-proc_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "1vris8kxl3zi0g5ik4ci40g93k1bavdf52qwq62gflgqvn49c8gl") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.4.1 (c (n "crokey") (v "0.4.1") (d (list (d (n "crokey-proc_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.1") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "1y7wrapkp94dpc7pyjxpb9qczz4saf40ciqzyxgj8al3gdnv4mgx") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.4.2 (c (n "crokey") (v "0.4.2") (d (list (d (n "crokey-proc_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.1") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "1pml6c093bf4yrq9j1n0hzy5f4azh9wcdg9pj2k1jhihm8sks85r") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.4.3 (c (n "crokey") (v "0.4.3") (d (list (d (n "crokey-proc_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.1") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "1059c97qxd90rd16y27k5jl1aspr9sc0n8bxhqll8plf0zd57w9b") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.5.0 (c (n "crokey") (v "0.5.0") (d (list (d (n "crokey-proc_macros") (r "^0.4.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.24.0") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "09xh4pjl3v0axzfawjg4vlc2m2cdw6h09w26xmnqwq5iwqi04kax") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.5.1 (c (n "crokey") (v "0.5.1") (d (list (d (n "crokey-proc_macros") (r "^0.5.1") (d #t) (k 0)) (d (n "crossterm") (r "^0.24.0") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "0clp334pvz28ryzisriyxmdd8xvy1jjxn9hq783ajikhnlnx3acl") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.6.0 (c (n "crokey") (v "0.6.0") (d (list (d (n "crokey-proc_macros") (r "^0.6.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "strict") (r "^0.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "0aji6yh9bf9bn0fmyvz1a21kvlg250bibw6dqfs8ss3ih8l3bg5v") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.6.1 (c (n "crokey") (v "0.6.1") (d (list (d (n "crokey-proc_macros") (r "^0.6.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "strict") (r "^0.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "10riryl5lrrplbzry8wwpsfmss2fph5z1v2zciz7m2qw31f2w4yp") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.6.2 (c (n "crokey") (v "0.6.2") (d (list (d (n "crokey-proc_macros") (r "^0.6.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "strict") (r "^0.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "0fj1fd109bk0l733kc0bb60v31i5qd1xl6k0nmf6m9awymahfijg") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.6.3 (c (n "crokey") (v "0.6.3") (d (list (d (n "crokey-proc_macros") (r "^0.6.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "strict") (r "^0.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "0cmpay866zpxq72m4m5vh8gkb4i9sg246lmcnklzmj8dz8w0yr8i") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-0.6.4 (c (n "crokey") (v "0.6.4") (d (list (d (n "crokey-proc_macros") (r "^0.6.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "strict") (r "^0.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "0vjks719w8xsk5whp8p87h2xvbpdxpqcabbk6zp7rjwn3c9mr5x2") (f (quote (("default" "serde")))) (r "1.56")))
+
+(define-public crate-crokey-1.0.0 (c (n "crokey") (v "1.0.0") (d (list (d (n "crokey-proc_macros") (r "^0.6.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "deser-hjson") (r "^1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "strict") (r "^0.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.55") (d #t) (k 2)))) (h "0jrlyf2hv7c97iyvw899wrcwgl94xjg725nb6jq2p1n55s00k0ml") (f (quote (("default" "serde")))) (r "1.56")))
+

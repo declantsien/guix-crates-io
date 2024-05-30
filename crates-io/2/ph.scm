@@ -1,0 +1,38 @@
+(define-module (crates-io #{2}# ph) #:use-module (crates-io))
+
+(define-public crate-ph-0.1.0 (c (n "ph") (v "0.1.0") (d (list (d (n "binout") (r ">=0.1") (d #t) (k 0)) (d (n "bitm") (r ">=0.1") (d #t) (k 0)) (d (n "cpu-time") (r "^1") (d #t) (k 2)) (d (n "dyn_size_of") (r ">=0.1") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0mix4j1br2rbixghy5a4sxwjrdg02zv56js61mzgaxznlh45f1p3")))
+
+(define-public crate-ph-0.2.0 (c (n "ph") (v "0.2.0") (d (list (d (n "binout") (r ">=0.1") (d #t) (k 0)) (d (n "bitm") (r ">=0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r ">=0.3") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0nl6f1dxnwaccwbfcan8jh4vfr5xcwnir3y36aqal6xg9awfhr2w")))
+
+(define-public crate-ph-0.3.0 (c (n "ph") (v "0.3.0") (d (list (d (n "binout") (r ">=0.1") (d #t) (k 0)) (d (n "bitm") (r ">=0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r ">=0.3") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0gfm4xrkddx855apcq6akm5ykng16zqmw0szy67rr8dl4w3i27i6")))
+
+(define-public crate-ph-0.4.0 (c (n "ph") (v "0.4.0") (d (list (d (n "binout") (r ">=0.1") (d #t) (k 0)) (d (n "bitm") (r ">=0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r ">=0.3") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "19ijpkp3djhb30fvv46xj0vry781j810307zw2pzcmphl6p82ipg")))
+
+(define-public crate-ph-0.5.0 (c (n "ph") (v "0.5.0") (d (list (d (n "binout") (r ">=0.1") (d #t) (k 0)) (d (n "bitm") (r ">=0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r ">=0.3") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0ppzqs1ywf404fnbr9jjqlcn9swf9nd2dkl3791a6lcjhwdml2mm") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.6.0 (c (n "ph") (v "0.6.0") (d (list (d (n "binout") (r ">=0.2") (d #t) (k 0)) (d (n "bitm") (r ">=0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r ">=0.3") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "17ic1fbfvk27xwrqhy48azjlidfdlf3igim0gf40wgxxs9nxdwx0") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.6.1 (c (n "ph") (v "0.6.1") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0q3gw2d94qczx1nxyx9z41754nl2z4cqismj5v0jyn1m35d5bx32") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.6.2 (c (n "ph") (v "0.6.2") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1gbhd0c6a27qs5narwpdqybaz0bqmzdnsk940aa5a0fgmdks78g6") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.6.3 (c (n "ph") (v "0.6.3") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0ya0qa97lavxhxwhfdrnwgzmvgb6d5zr31689v1pcbbkg1lgslwv") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.6.4 (c (n "ph") (v "0.6.4") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1azr3h350vjm84sjmpbzbw94ms9rjapb0wi76jp734qznn876fmj") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.7.0 (c (n "ph") (v "0.7.0") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "18xv0s6i1378jzxl00wg78l4jxljy56x8drm0qb20q4hjih3rwmm") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.7.1 (c (n "ph") (v "0.7.1") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0m7z7m7wr6yc5zxm4f8l7fvrir6fx11iack43ls4cjxwcn663s21") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.7.2 (c (n "ph") (v "0.7.2") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0qc8j26vs3r1497j1wlb99y6g7glm5gs8qrf6wpmxjv3g0vz45hb") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.7.3 (c (n "ph") (v "0.7.3") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0cmizlv793gpmiqyipf16ipm4dvv596ja1qbp8kgh0cy9afwca87") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.8.0 (c (n "ph") (v "0.8.0") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1f8mhg4rd46c2qpsfd43gqr4s1x7pqlapfgaqdlkprjq5xp1wyxv") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.8.1 (c (n "ph") (v "0.8.1") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.2") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "14g9nwj0d8vd5hcbarj1xw1171wpdgznwalx5a0y50rl10pfdil8") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.8.2 (c (n "ph") (v "0.8.2") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.3") (d #t) (k 0)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "071nkwbaw9hbspsvfrcnrmrsajdffs6axwfw92j6j3k46hzpy9n8") (f (quote (("sip13") ("default" "wyhash"))))))
+
+(define-public crate-ph-0.8.3 (c (n "ph") (v "0.8.3") (d (list (d (n "binout") (r "^0.2") (d #t) (k 0)) (d (n "bitm") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "dyn_size_of") (r "^0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "wyhash") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0nz4x8v7zb31rq0krlzaq6pnq875idl6kbizcpxi2z2xax6vgdw6") (f (quote (("sip13") ("default" "wyhash"))))))
+

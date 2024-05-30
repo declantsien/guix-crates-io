@@ -1,0 +1,12 @@
+(define-module (crates-io wo rd wordl) #:use-module (crates-io))
+
+(define-public crate-wordl-0.1.4 (c (n "wordl") (v "0.1.4") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)))) (h "0vi92sfp615kb9z7r23wpkb0q0pkf7gaxhw3kcvbxzcry07qgmlk")))
+
+(define-public crate-wordl-0.1.5 (c (n "wordl") (v "0.1.5") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)))) (h "10mvrl9b01539vc7wa2j3p87pxkzgk9knhzyldally1v0xkmnxvv")))
+
+(define-public crate-wordl-0.1.6 (c (n "wordl") (v "0.1.6") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)))) (h "1vwz5n2cd9z5jvg41g3qg6f0ah0km5n04rb6xc6yby5bplvfk8k4")))
+
+(define-public crate-wordl-0.2.0 (c (n "wordl") (v "0.2.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)))) (h "1nxmxkmfmw94qwn0hj4986kwidfm1mmvnmznk393s6qm7qglv8d3")))
+
+(define-public crate-wordl-0.3.0 (c (n "wordl") (v "0.3.0") (d (list (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (f (quote ("event-stream"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.25.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.10") (d #t) (k 0)))) (h "10s0z563qb1k771gnncl1k4f732gcrdd1vlssvf5zrj61la0rqf6")))
+

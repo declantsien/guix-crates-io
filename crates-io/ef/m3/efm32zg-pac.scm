@@ -1,0 +1,10 @@
+(define-module (crates-io ef m3 efm32zg-pac) #:use-module (crates-io))
+
+(define-public crate-efm32zg-pac-0.1.1 (c (n "efm32zg-pac") (v "0.1.1") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "14phgxgxp9b5rw145b4x35m365v8ypkb2n8dwiapp5hc1fiyghh2") (f (quote (("rt" "cortex-m-rt/device") ("efm32zg222") ("efm32zg210") ("efm32zg110") ("efm32zg108") ("default" "rt"))))))
+
+(define-public crate-efm32zg-pac-0.1.2 (c (n "efm32zg-pac") (v "0.1.2") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "~1") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "~1") (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "1x16s0vcksa24vha11x8vvgkwyjncl257p9zf8yg0i7x9pj9j1br") (f (quote (("rt" "cortex-m-rt/device") ("efm32zg222") ("efm32zg210") ("efm32zg110") ("efm32zg108") ("default" "rt"))))))
+
+(define-public crate-efm32zg-pac-0.1.3 (c (n "efm32zg-pac") (v "0.1.3") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "~1") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "~1") (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "1splgx3yc43s8w828zdwlvp76lqn6r14xlwbw2a78wx6nglksdhi") (f (quote (("rt" "cortex-m-rt/device") ("efm32zg222") ("efm32zg210") ("efm32zg110") ("efm32zg108") ("default" "rt"))))))
+
+(define-public crate-efm32zg-pac-0.1.4 (c (n "efm32zg-pac") (v "0.1.4") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "~1") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "~1") (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "0217ljm6b8vxz4z1fy2kyjv8ij0sz1id094b289c2axb6ha7ysxk") (f (quote (("rt" "cortex-m-rt/device") ("efm32zg222") ("efm32zg210") ("efm32zg110") ("efm32zg108") ("default" "rt")))) (s 2) (e (quote (("critical-section" "dep:critical-section" "portable-atomic/critical-section"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ma pl maplibre-demo) #:use-module (crates-io))
+
+(define-public crate-maplibre-demo-0.1.0 (c (n "maplibre-demo") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "maplibre") (r "^0.0.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "tracing-tracy") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "tracy-client") (r "^0.12.7") (o #t) (d #t) (k 0)))) (h "1fj287jqrx4sz2ligs3jfmxlxfckph7l9dy593z5jziiq5lca0ab") (f (quote (("web-webgl" "maplibre/web-webgl") ("enable-tracing" "maplibre/enable-tracing" "tracing-subscriber" "tracing-tracy" "tracy-client")))) (y #t)))
+
+(define-public crate-maplibre-demo-0.0.3 (c (n "maplibre-demo") (v "0.0.3") (d (list (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "maplibre") (r "^0.0.3") (f (quote ("thread-safe-futures"))) (d #t) (k 0)) (d (n "maplibre-winit") (r "^0.0.3") (d #t) (k 0)) (d (n "tile-grid") (r "^0.3") (d #t) (k 0)))) (h "01ns0fcah0wpiq5ssc6zvfkdh1s9kfngjs79b3m4wcpcxvx616n7") (f (quote (("web-webgl" "maplibre/web-webgl") ("trace" "maplibre/trace") ("headless" "maplibre/headless")))) (r "1.65")))
+

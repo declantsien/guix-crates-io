@@ -1,0 +1,10 @@
+(define-module (crates-io as yn async-smtp-lite) #:use-module (crates-io))
+
+(define-public crate-async-smtp-lite-0.0.0 (c (n "async-smtp-lite") (v "0.0.0") (h "0c1p6s4cf8ndcq5izvhz2abr1c74ibmpmn1crb5dvln9dbfdak74")))
+
+(define-public crate-async-smtp-lite-0.1.0 (c (n "async-smtp-lite") (v "0.1.0") (d (list (d (n "async-stream-packed") (r "^0.1") (f (quote ("upgradable" "tls"))) (d #t) (k 0)) (d (n "async-stream-tls-upgrader") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "lettre") (r "^0.10.0-alpha") (f (quote ("builder" "smtp-transport"))) (k 0)) (d (n "nom") (r "^5") (k 0)))) (h "0c359yxh4sjl0hbdyxa6ddh4wfm8iq1gl6l1spkwzqhiifgjy5xm") (f (quote (("async_tls" "async-stream-tls-upgrader/async_tls_client") ("async_native_tls" "async-stream-tls-upgrader/async_native_tls_client"))))))
+
+(define-public crate-async-smtp-lite-0.1.1 (c (n "async-smtp-lite") (v "0.1.1") (d (list (d (n "async-stream-packed") (r "^0.1.6") (f (quote ("upgradable" "tls"))) (d #t) (k 0)) (d (n "async-stream-tls-upgrader") (r "^0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "lettre") (r "^0.10.0-alpha") (f (quote ("builder" "smtp-transport"))) (k 0)) (d (n "nom") (r "^5") (k 0)))) (h "1nnbk2f79n25h3xwfpxhzwyv0gmf6fq5ijyy1i33630pcpqc33xk") (f (quote (("async_tls" "async-stream-tls-upgrader/async_tls_client") ("async_native_tls" "async-stream-tls-upgrader/async_native_tls_client"))))))
+
+(define-public crate-async-smtp-lite-0.1.2 (c (n "async-smtp-lite") (v "0.1.2") (d (list (d (n "async-stream-packed") (r "^0.1.7") (f (quote ("tls"))) (d #t) (k 0)) (d (n "async-stream-tls-upgrader") (r "^0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (f (quote ("io"))) (k 0)) (d (n "lettre") (r "^0.10.0-alpha") (f (quote ("builder" "smtp-transport"))) (k 0)) (d (n "nom") (r "^5") (k 0)))) (h "1sfi2p2axbl23rang91n6jfpznw2nabl9s0pd2knvqik152az74r") (f (quote (("async_tls" "async-stream-tls-upgrader/async_tls_client") ("async_native_tls" "async-stream-tls-upgrader/async_native_tls_client"))))))
+

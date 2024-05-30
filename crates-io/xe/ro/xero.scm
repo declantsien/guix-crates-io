@@ -1,0 +1,4 @@
+(define-module (crates-io xe ro xero) #:use-module (crates-io))
+
+(define-public crate-xero-0.1.0 (c (n "xero") (v "0.1.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.9.14") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.15") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "serde_qs") (r "^0.0.2") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.4") (d #t) (k 0)) (d (n "xml-rs") (r "^0.6") (d #t) (k 0)))) (h "014v6wwnl4laivvl701b1xp56cszwyl2pjc3nwhsw347xn0bhszp")))
+

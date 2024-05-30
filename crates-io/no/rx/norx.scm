@@ -1,0 +1,6 @@
+(define-module (crates-io no rx norx) #:use-module (crates-io))
+
+(define-public crate-norx-0.1.0 (c (n "norx") (v "0.1.0") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.0") (k 0)) (d (n "byteorder") (r "^1.0") (k 1)) (d (n "norx-permutation") (r "^0.1.1") (k 0)) (d (n "norx-permutation") (r "^0.1.1") (k 1)) (d (n "rand") (r "^0.4") (d #t) (k 2)) (d (n "subtle") (r "^0.3") (k 0)))) (h "0k9jg08pggarx4f2dwcrjwfclzjrzwyvjqk96hq4jqc4ivni1f1i") (f (quote (("simd" "norx-permutation/simd") ("default" "W64" "L4" "P1") ("W64" "norx-permutation/W64") ("W32" "norx-permutation/W32") ("P4") ("P1") ("L6" "norx-permutation/L6") ("L4" "norx-permutation/L4"))))))
+
+(define-public crate-norx-0.1.1 (c (n "norx") (v "0.1.1") (d (list (d (n "arrayref") (r "^0.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.0") (k 0)) (d (n "byteorder") (r "^1.0") (k 1)) (d (n "if_chain") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "norx-permutation") (r "^0.1.1") (k 0)) (d (n "norx-permutation") (r "^0.1.1") (k 1)) (d (n "rand") (r "^0.5") (d #t) (k 2)) (d (n "subtle") (r "^0.6") (k 0)))) (h "1vcqs0dvhxd0f6amnjw2cv0wi3cwq7dcv1h19i6kf1f5qrf14y8j") (f (quote (("simd" "norx-permutation/simd") ("default" "W64" "L4" "P1") ("W64" "norx-permutation/W64") ("W32" "norx-permutation/W32") ("P4" "if_chain") ("P1") ("L6" "norx-permutation/L6") ("L4" "norx-permutation/L4"))))))
+

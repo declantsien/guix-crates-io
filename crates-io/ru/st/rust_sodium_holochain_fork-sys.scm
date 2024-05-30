@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust_sodium_holochain_fork-sys) #:use-module (crates-io))
+
+(define-public crate-rust_sodium_holochain_fork-sys-0.10.4 (c (n "rust_sodium_holochain_fork-sys") (v "0.10.4") (d (list (d (n "cc") (r "~1.0.9") (d #t) (k 1)) (d (n "flate2") (r "~1.0.1") (d #t) (k 1)) (d (n "http_req") (r "~0.2.1") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "~0.2.40") (d #t) (k 0)) (d (n "libc") (r "~0.2.40") (d #t) (k 1)) (d (n "pkg-config") (r "~0.3.9") (d #t) (k 1)) (d (n "rand") (r "~0.4.2") (d #t) (k 0)) (d (n "sha2") (r "~0.7.0") (d #t) (k 1)) (d (n "tar") (r "~0.4.15") (d #t) (k 1)) (d (n "unwrap") (r "~1.2.0") (d #t) (k 0)) (d (n "unwrap") (r "~1.2.0") (d #t) (k 1)) (d (n "zip") (r "~0.3.1") (d #t) (k 1)))) (h "096i5xxm16w8gk6w4im4bi4dr60vwpjy9rci4bp43hdmcxqdabf8") (l "sodium")))
+

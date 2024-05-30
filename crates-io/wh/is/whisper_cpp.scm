@@ -1,0 +1,4 @@
+(define-module (crates-io wh is whisper_cpp) #:use-module (crates-io))
+
+(define-public crate-whisper_cpp-0.2.1 (c (n "whisper_cpp") (v "0.2.1") (d (list (d (n "derive_more") (r "^0.99.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("sync" "rt"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "whisper_cpp_sys") (r "^0.2.1") (k 0)))) (h "1ipxrcga5afqb08ylfz14swx08v7l45pd8miz0dllh0lrcmnmapq") (f (quote (("openvino" "whisper_cpp_sys/openvino") ("native" "avx" "avx2" "fma" "f16c" "accel") ("metal" "whisper_cpp_sys/metal") ("hipblas" "whisper_cpp_sys/hipblas") ("fma" "whisper_cpp_sys/fma") ("f16c" "whisper_cpp_sys/f16c") ("default" "compat" "native") ("cuda" "whisper_cpp_sys/cuda") ("compat" "whisper_cpp_sys/compat") ("clblast" "whisper_cpp_sys/clblast") ("blas" "whisper_cpp_sys/blas") ("avx2" "whisper_cpp_sys/avx2") ("avx" "whisper_cpp_sys/avx") ("accel" "whisper_cpp_sys/accel"))))))
+

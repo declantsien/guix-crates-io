@@ -1,0 +1,4 @@
+(define-module (crates-io vo mi vomit-m2sync) #:use-module (crates-io))
+
+(define-public crate-vomit-m2sync-0.11.0 (c (n "vomit-m2sync") (v "0.11.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "imap") (r "^3.0.0-alpha.14") (d #t) (k 0)) (d (n "imap-proto") (r "^0") (d #t) (k 0)) (d (n "lettre") (r "^0.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memory_logger") (r "^0.1.1") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "rusqlite") (r "^0.31") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (d #t) (k 2)) (d (n "spmc") (r "^0.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vomit-m2dir") (r "^0.1") (d #t) (k 0)) (d (n "wildmatch") (r "^2.1.1") (d #t) (k 0)))) (h "1z8vmw8rc4fqjvrhdjp7vghpd2nbm63yiw5w9cgyw8dih10palqi") (f (quote (("test-full"))))))
+

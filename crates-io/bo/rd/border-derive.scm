@@ -1,0 +1,6 @@
+(define-module (crates-io bo rd border-derive) #:use-module (crates-io))
+
+(define-public crate-border-derive-0.0.5 (c (n "border-derive") (v "0.0.5") (d (list (d (n "border-core") (r "^0.0.5") (d #t) (k 2)) (d (n "border-py-gym-env") (r "^0.0.5") (d #t) (k 2)) (d (n "border-tch-agent") (r "^0.0.5") (d #t) (k 2)) (d (n "darling") (r "^0.13") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tch") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "tch") (r "^0.5.0") (d #t) (k 2)))) (h "0z5cjn9jwfv8wdw9ybmp6qz2crqaqm3cmvg7n69882vvsxqnijkm")))
+
+(define-public crate-border-derive-0.0.6 (c (n "border-derive") (v "0.0.6") (d (list (d (n "border-core") (r "^0.0.6") (d #t) (k 2)) (d (n "border-py-gym-env") (r "^0.0.6") (d #t) (k 2)) (d (n "border-tch-agent") (r "^0.0.6") (d #t) (k 2)) (d (n "darling") (r "^0.13") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tch") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "tch") (r "^0.8.0") (d #t) (k 2)))) (h "1n30kxyg5m5lwdwrzpnjc20c19iqf7a87py3yx7fi6313w7k6zyr") (f (quote (("default" "tch")))) (r "1.68.2")))
+

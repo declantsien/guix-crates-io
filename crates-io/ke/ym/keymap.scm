@@ -1,0 +1,10 @@
+(define-module (crates-io ke ym keymap) #:use-module (crates-io))
+
+(define-public crate-keymap-0.1.0 (c (n "keymap") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.26") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "termion") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 2)))) (h "1d8cxzvgv1mm9sqb5y1h09d0aidg4337ik87y07znbx89hghi62y") (f (quote (("default" "crossterm"))))))
+
+(define-public crate-keymap-0.2.0 (c (n "keymap") (v "0.2.0") (d (list (d (n "crossterm") (r "^0.26") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "termion") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 2)))) (h "0x80snpxxzrzyd1fy1bp1c00hbs6fl9wl0j0fd7ys0fgylp61zbx") (f (quote (("default" "crossterm"))))))
+
+(define-public crate-keymap-0.3.0 (c (n "keymap") (v "0.3.0") (d (list (d (n "crossterm") (r "^0.26") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "termion") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 2)))) (h "19x0lys2m3s23rhhgcld1yfffwbb403mqnay9rr97kbrcxf4cjnm") (f (quote (("default" "crossterm"))))))
+
+(define-public crate-keymap-0.4.0 (c (n "keymap") (v "0.4.0") (d (list (d (n "crossterm") (r "^0.26") (o #t) (d #t) (k 0)) (d (n "pom") (r "^3.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.25") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "termion") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 2)))) (h "1gr0w4l2s2wqiymmy65m362szdn889qafm1h0y687sdir0lfr97k") (f (quote (("default" "crossterm"))))))
+

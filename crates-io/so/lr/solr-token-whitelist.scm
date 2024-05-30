@@ -1,0 +1,8 @@
+(define-module (crates-io so lr solr-token-whitelist) #:use-module (crates-io))
+
+(define-public crate-solr-token-whitelist-1.0.0 (c (n "solr-token-whitelist") (v "1.0.0") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.6.6") (d #t) (k 0)) (d (n "spl-token") (r "^3.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "00mf7djzr3yzyfvm7cg9sqc90wgzg7nbqfgg55p1a81yzy2shfri") (f (quote (("no-entrypoint"))))))
+
+(define-public crate-solr-token-whitelist-1.0.1 (c (n "solr-token-whitelist") (v "1.0.1") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.6.6") (d #t) (k 0)) (d (n "spl-token") (r "^3.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "1900v737vinrcxa98pnrhfbr1qlhwjsb2n4qr1x24rs7b1fgjyr6") (f (quote (("no-entrypoint")))) (y #t)))
+
+(define-public crate-solr-token-whitelist-1.0.2 (c (n "solr-token-whitelist") (v "1.0.2") (d (list (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "borsh") (r "^0.9.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-program") (r "^1.6.6") (d #t) (k 0)) (d (n "spl-token") (r "^3.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "02jf2p671l6nirws89ns5gczlisc19bi34xmaplr5jcnlm8278b1") (f (quote (("no-entrypoint"))))))
+

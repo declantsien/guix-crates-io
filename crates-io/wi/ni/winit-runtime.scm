@@ -1,0 +1,6 @@
+(define-module (crates-io wi ni winit-runtime) #:use-module (crates-io))
+
+(define-public crate-winit-runtime-0.2.0-beta (c (n "winit-runtime") (v "0.2.0-beta") (d (list (d (n "async-task") (r "^4.4.0") (d #t) (k 0)) (d (n "event-source") (r "^0.1.0") (d #t) (k 0)) (d (n "futures-intrusive") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "instant") (r "^0.1.12") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "scoped-tls-hkt") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "winit") (r "^0.29.1-beta") (d #t) (k 0)))) (h "0g39qdqfgd81axc2s3cn55p442g1q4sryb03y1x5mdchd9avq3fk") (r "1.72.0")))
+
+(define-public crate-winit-runtime-0.2.0 (c (n "winit-runtime") (v "0.2.0") (d (list (d (n "async-task") (r "^4.4.0") (d #t) (k 0)) (d (n "event-source") (r "^0.4.2") (d #t) (k 0)) (d (n "futures-intrusive") (r "^0.5.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.3.0") (d #t) (k 0)) (d (n "instant") (r "^0.1.12") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "scoped-tls-hkt") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "winit") (r "^0.29.15") (d #t) (k 0)))) (h "1s4rv29666xrs3p2vp7lk5an0r9gsh88lwwm8za8kx0qzk6p3qzw") (r "1.72.0")))
+

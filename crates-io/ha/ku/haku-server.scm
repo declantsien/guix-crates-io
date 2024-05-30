@@ -1,0 +1,4 @@
+(define-module (crates-io ha ku haku-server) #:use-module (crates-io))
+
+(define-public crate-haku-server-0.1.0 (c (n "haku-server") (v "0.1.0") (d (list (d (n "actix-cors") (r "^0.5.4") (d #t) (k 0)) (d (n "actix-web") (r "^3.3.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.0") (d #t) (k 0)) (d (n "envy") (r "^0.4") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "lapin") (r "^1.2.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "sendinblue") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio-amqp") (r "^0.1.3") (d #t) (k 0)))) (h "05dzxhbjb1m359n5y4b4p0n6dax8sas179sgjqrm410nkvj34xha")))
+

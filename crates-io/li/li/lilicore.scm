@@ -1,0 +1,4 @@
+(define-module (crates-io li li lilicore) #:use-module (crates-io))
+
+(define-public crate-lilicore-0.0.1 (c (n "lilicore") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "dotenv_codegen") (r "^0.15.0") (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (d #t) (k 0)) (d (n "ignore") (r "^0.4.20") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^8.3.0") (d #t) (k 0)) (d (n "open") (r "^5.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.177") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (f (quote ("strum_macros" "derive"))) (d #t) (k 0)))) (h "06vdjp3g5nz3z2hlv6c5914im7xs98pl9q8mv1ql0an3gcf8lvn9")))
+

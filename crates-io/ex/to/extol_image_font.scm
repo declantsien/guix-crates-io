@@ -1,0 +1,4 @@
+(define-module (crates-io ex to extol_image_font) #:use-module (crates-io))
+
+(define-public crate-extol_image_font-0.4.0 (c (n "extol_image_font") (v "0.4.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_asset" "bevy_render" "bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("bevy_asset" "bevy_render" "bevy_sprite" "bevy_core_pipeline" "multi-threaded" "png" "x11" "wayland"))) (k 2)) (d (n "bevy_asset_loader") (r "^0.20.0") (f (quote ("2d"))) (d #t) (k 2)) (d (n "derive_setters") (r "^0.1.6") (d #t) (k 0)) (d (n "image") (r "^0.24.9") (f (quote ("png"))) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1xkdm3pcsqxb2qn8wh7gpi1zzl9ynz7mxz7c1gwwh7nphapsqa5h") (f (quote (("ui" "bevy/bevy_ui") ("default" "ui"))))))
+

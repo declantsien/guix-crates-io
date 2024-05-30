@@ -1,0 +1,6 @@
+(define-module (crates-io ki nd kindelia_common) #:use-module (crates-io))
+
+(define-public crate-kindelia_common-0.1.6 (c (n "kindelia_common") (v "0.1.6") (d (list (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "primitive-types") (r "^0.11.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.22.1") (f (quote ("rand-std" "recovery" "global-context"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("keccak"))) (d #t) (k 0)))) (h "1614jz97pfskqk43vw9xqahivdkjhbwgfcfsyzd7jqqq0dba6f66") (y #t)))
+
+(define-public crate-kindelia_common-0.1.7 (c (n "kindelia_common") (v "0.1.7") (d (list (d (n "bit-vec") (r "^0.6.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "primitive-types") (r "^0.11.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.22.1") (f (quote ("rand-std" "recovery" "global-context"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("keccak"))) (d #t) (k 0)))) (h "1jsl0ms0jrcfwqxybj4vynyahj0gf8ynrymga375n7jvkpm1mpmq")))
+

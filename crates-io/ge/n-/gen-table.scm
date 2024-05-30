@@ -1,0 +1,14 @@
+(define-module (crates-io ge n- gen-table) #:use-module (crates-io))
+
+(define-public crate-gen-table-0.1.0 (c (n "gen-table") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-tokio-rustls" "mysql" "chrono"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full"))) (d #t) (k 0)))) (h "0nsc8bcjqwxd4p5z5mn9m4c2yd55fv41d21h3h8ifd0536136cm0")))
+
+(define-public crate-gen-table-0.1.1 (c (n "gen-table") (v "0.1.1") (d (list (d (n "clap") (r "^4.3.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-tokio-rustls" "mysql" "chrono"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full"))) (d #t) (k 0)))) (h "01cbyasqpx85q80jwbm4jkfryxpyfq3m9cpdcgwz8p9p84cd6qgd")))
+
+(define-public crate-gen-table-0.1.2 (c (n "gen-table") (v "0.1.2") (d (list (d (n "clap") (r "^4.3.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-tokio-rustls" "mysql" "chrono"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full"))) (d #t) (k 0)))) (h "19q0s932j5r89d76kdhqwhgwmfr00z8kcbphi7qv12zsjd46jn7c")))
+
+(define-public crate-gen-table-0.1.3 (c (n "gen-table") (v "0.1.3") (d (list (d (n "clap") (r "^4.3.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-tokio-rustls" "mysql" "chrono"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1jrfnl2sn6s1hyg576gxlqgv3g2ilx0xa6h06k249j970n5zx52s")))
+
+(define-public crate-gen-table-0.1.4 (c (n "gen-table") (v "0.1.4") (d (list (d (n "clap") (r "^4.5.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-tokio-rustls" "mysql" "chrono"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "11swhkblpfyk8sw0w143vm5wpwi7j5jiabg7q7iza552r2j9h3a9")))
+
+(define-public crate-gen-table-0.1.5 (c (n "gen-table") (v "0.1.5") (d (list (d (n "clap") (r "^4.5.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sqlx") (r "^0.6.3") (f (quote ("runtime-tokio-rustls" "mysql" "chrono"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1f7af70vbmcvm2b90yi0dg3r6cjagkh9xijmlywrjlx66vmzsphp")))
+

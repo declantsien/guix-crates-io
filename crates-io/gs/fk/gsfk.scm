@@ -1,0 +1,4 @@
+(define-module (crates-io gs fk gsfk) #:use-module (crates-io))
+
+(define-public crate-gsfk-0.1.0 (c (n "gsfk") (v "0.1.0") (d (list (d (n "ash") (r "^0.37.2") (f (quote ("linked"))) (o #t) (d #t) (k 0)) (d (n "ash-window") (r "^0.12.0") (o #t) (d #t) (k 0)) (d (n "gl") (r "^0.14.0") (o #t) (d #t) (k 0)) (d (n "gl_generator") (r "^0.14.0") (d #t) (k 1)) (d (n "raw-window-handle") (r "^0.5.2") (d #t) (k 0)) (d (n "safex") (r "^0.0.5") (f (quote ("xlib"))) (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("windef" "ntdef" "winuser" "libloaderapi" "wingdi"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "winey") (r "^0.1.0") (d #t) (k 0)) (d (n "x11") (r "^2.21.0") (f (quote ("glx"))) (d #t) (t "cfg(unix)") (k 0)))) (h "10azxivnrc7935pb3y37qy0s4kf9qnhh700fjplif9kdxywgc46j") (f (quote (("vulkan" "ash" "ash-window")))) (s 2) (e (quote (("gl" "dep:gl" "safex/glx"))))))
+

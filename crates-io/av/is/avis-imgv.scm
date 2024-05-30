@@ -1,0 +1,4 @@
+(define-module (crates-io av is avis-imgv) #:use-module (crates-io))
+
+(define-public crate-avis-imgv-0.1.0 (c (n "avis-imgv") (v "0.1.0") (d (list (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "eframe") (r "^0.25.0") (d #t) (k 0)) (d (n "fast_image_resize") (r "^2.7.3") (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "qcms") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "rfd") (r "^0.11.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.17") (d #t) (k 0)) (d (n "sqlite") (r "^0.30.4") (d #t) (k 0)) (d (n "zune-jpeg") (r "^0.4.0") (d #t) (k 0)))) (h "050a7hkxnplkamlnbvwnc9n39sy8hp4vhmcnb149h4dhd2m9m2my")))
+

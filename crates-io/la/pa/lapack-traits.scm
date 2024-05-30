@@ -1,0 +1,18 @@
+(define-module (crates-io la pa lapack-traits) #:use-module (crates-io))
+
+(define-public crate-lapack-traits-0.1.0 (c (n "lapack-traits") (v "0.1.0") (d (list (d (n "alga") (r "^0.9") (d #t) (k 0)) (d (n "cblas") (r "^0.2") (d #t) (k 0)) (d (n "lapacke") (r "^0.2.0") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.2.3") (d #t) (k 0)) (d (n "openblas-src") (r "^0.7.0") (f (quote ("system"))) (k 2)))) (h "0im4a3dja7zqwvpgkb9i6640awnbqlycx288mssh65gk59y51xrj")))
+
+(define-public crate-lapack-traits-0.2.0 (c (n "lapack-traits") (v "0.2.0") (d (list (d (n "alga") (r "^0.9") (d #t) (k 0)) (d (n "cblas") (r "^0.2") (d #t) (k 0)) (d (n "lapacke") (r "^0.2.0") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.2.3") (d #t) (k 0)) (d (n "openblas-src") (r "^0.7.0") (f (quote ("system"))) (k 2)))) (h "0kls5rlmkqdf307prz8r0yzcjgr3fcps1fjnmwwh3qrjj7b7sr7b")))
+
+(define-public crate-lapack-traits-0.2.1 (c (n "lapack-traits") (v "0.2.1") (d (list (d (n "alga") (r "^0.9") (d #t) (k 0)) (d (n "cblas") (r "^0.2") (d #t) (k 0)) (d (n "lapacke") (r "^0.2.0") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.2.3") (d #t) (k 0)) (d (n "openblas-src") (r "^0.7.0") (f (quote ("system"))) (k 2)) (d (n "simba") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0swmfagy8r6xahpbkhh90c0466h02hgs5bijhclasb5qlx8b06nc")))
+
+(define-public crate-lapack-traits-0.2.2 (c (n "lapack-traits") (v "0.2.2") (d (list (d (n "alga") (r "^0.9") (d #t) (k 0)) (d (n "cblas") (r "^0.2") (d #t) (k 0)) (d (n "lapacke") (r "^0.2.0") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.2.3") (d #t) (k 0)) (d (n "openblas-src") (r "^0.7.0") (f (quote ("system"))) (k 2)) (d (n "simba") (r "^0.1") (o #t) (d #t) (k 0)))) (h "03hpdyk8mvxlyr0n5kl6km4zq3fsnnaqas80badgfxprw3mp141n")))
+
+(define-public crate-lapack-traits-0.2.3 (c (n "lapack-traits") (v "0.2.3") (d (list (d (n "alga") (r "^0.9") (d #t) (k 0)) (d (n "cblas") (r "^0.2") (d #t) (k 0)) (d (n "lapacke") (r "^0.2.0") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.2.3") (d #t) (k 0)) (d (n "openblas-src") (r "^0.7.0") (f (quote ("system"))) (k 2)) (d (n "simba") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0ll2yvjzcgi9b8v88g09qjc7jjfjzkvw1als1v1jjdqyrg8rjp6v")))
+
+(define-public crate-lapack-traits-0.3.0 (c (n "lapack-traits") (v "0.3.0") (d (list (d (n "cblas") (r "^0.4") (d #t) (k 0)) (d (n "lapacke") (r "^0.5") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "openblas-src") (r "^0.10") (f (quote ("system"))) (k 2)) (d (n "simba") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0h187awqk17yvq9cj5v97xrkwa28sdshk29aifp9871rvnn41hpn")))
+
+(define-public crate-lapack-traits-0.3.1 (c (n "lapack-traits") (v "0.3.1") (d (list (d (n "cblas") (r "^0.4") (d #t) (k 0)) (d (n "lapacke") (r "^0.5") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "openblas-src") (r "^0.10") (f (quote ("system"))) (k 2)) (d (n "simba") (r "^0.5") (o #t) (d #t) (k 0)))) (h "03n52wjb1r07rnfvxph6n7qmrbznq1vddk845ysw2a45cf2p96ag")))
+
+(define-public crate-lapack-traits-0.4.0 (c (n "lapack-traits") (v "0.4.0") (d (list (d (n "cblas") (r "^0.4") (d #t) (k 0)) (d (n "lapacke") (r "^0.5") (d #t) (k 0)) (d (n "lapacke-sys") (r "^0.1.4") (d #t) (k 2)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "openblas-src") (r "^0.10") (f (quote ("system"))) (k 2)) (d (n "simba") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0flfp9f6sximp8k71p3m3rv5krjxqs3vp1sdy5bwvv241v2jrxq7")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ft -c ft-cli) #:use-module (crates-io))
+
+(define-public crate-ft-cli-0.1.0 (c (n "ft-cli") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "fbt-lib") (r "^0.1.8") (d #t) (k 2)) (d (n "fifthtry-mdbook") (r "^0.4.8") (d #t) (k 0)) (d (n "ft-api") (r "^0.1.0") (d #t) (k 0)) (d (n "ftd") (r "^0.1.4") (f (quote ("fifthtry"))) (d #t) (k 0)) (d (n "realm-client") (r "^0.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "17g58a14ssa5r2cddl1vqn68ymd4dmybr6zkc6bgc68bycbz4qal")))
+

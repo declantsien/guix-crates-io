@@ -1,0 +1,4 @@
+(define-module (crates-io io n_ ion_shell_parser) #:use-module (crates-io))
+
+(define-public crate-ion_shell_parser-0.2.0 (c (n "ion_shell_parser") (v "0.2.0") (d (list (d (n "derive_more") (r "^0.99.17") (f (quote ("as_ref" "deref" "from" "into" "display"))) (k 0)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pest") (r "^2.7.8") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.8") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "18f708h85fs5dhal84ygklr1qllljf5v22nk77bfqiw9yzqa46ji") (f (quote (("default")))) (s 2) (e (quote (("ion_shell_parser_trace_parse_phase" "dep:tracing")))) (r "1.76.0")))
+

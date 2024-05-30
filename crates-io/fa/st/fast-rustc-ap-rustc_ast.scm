@@ -1,0 +1,4 @@
+(define-module (crates-io fa st fast-rustc-ap-rustc_ast) #:use-module (crates-io))
+
+(define-public crate-fast-rustc-ap-rustc_ast-1.0.0 (c (n "fast-rustc-ap-rustc_ast") (v "1.0.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rustc_data_structures") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_data_structures")) (d (n "rustc_index") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_index")) (d (n "rustc_lexer") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_lexer")) (d (n "rustc_macros") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_macros")) (d (n "rustc_serialize") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-serialize")) (d (n "rustc_span") (r "^1.0.0") (d #t) (k 0) (p "fast-rustc-ap-rustc_span")) (d (n "scoped-tls") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (f (quote ("union" "may_dangle"))) (d #t) (k 0)))) (h "066hmyzykmcc1nb51ligxl15fvagyc7i7zkiw7phi6cmckp8544y")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ce le celestia-core-proto) #:use-module (crates-io))
+
+(define-public crate-celestia-core-proto-0.34.0 (c (n "celestia-core-proto") (v "0.34.0") (d (list (d (n "bytes") (r "^1.0") (f (quote ("serde"))) (k 0)) (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "num-derive") (r "^0.3") (k 0)) (d (n "num-traits") (r "^0.2") (k 0)) (d (n "prost") (r "^0.12") (k 0)) (d (n "prost-types") (r "^0.12") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_bytes") (r "^0.11") (f (quote ("alloc"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 2)) (d (n "subtle-encoding") (r "^0.5") (f (quote ("hex" "base64" "alloc"))) (k 0)) (d (n "time") (r "^0.3") (f (quote ("macros" "parsing"))) (k 0)))) (h "1j7ap7a7pfq612ifbnv8bp0rdx54dmf5dvj4kmf09x424fq4xgs5")))
+

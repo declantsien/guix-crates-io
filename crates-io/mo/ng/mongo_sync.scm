@@ -1,0 +1,4 @@
+(define-module (crates-io mo ng mongo_sync) #:use-module (crates-io))
+
+(define-public crate-mongo_sync-0.1.0 (c (n "mongo_sync") (v "0.1.0") (d (list (d (n "bson") (r "^2.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "mongodb") (r "^2.0") (f (quote ("sync"))) (k 0)) (d (n "num_cpus") (r "^1.13.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (d #t) (k 0)))) (h "0lfxnsajqczf5ikcr8y9pnsk8bv865rpn1viraz3gsjpk4f26k8d")))
+

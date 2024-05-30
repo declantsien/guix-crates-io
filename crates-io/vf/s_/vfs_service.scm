@@ -1,0 +1,6 @@
+(define-module (crates-io vf s_ vfs_service) #:use-module (crates-io))
+
+(define-public crate-vfs_service-0.0.1 (c (n "vfs_service") (v "0.0.1") (d (list (d (n "dotenv") (r "^0.14.1") (d #t) (k 0)) (d (n "file_node") (r "^0.0.1") (d #t) (k 0)) (d (n "file_store") (r "^0.0.1") (d #t) (k 0)) (d (n "fuse") (r "^0.3.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.60") (d #t) (k 0)) (d (n "log") (r "^0.4.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_json") (r "^0.9.0") (d #t) (k 0)) (d (n "syslog") (r "^4.0.1") (d #t) (k 0)) (d (n "time") (r "^0.1.38") (d #t) (k 0)))) (h "10wm2lqcg3316smkqfgwlg2ch4z57gzbmg75xrwbxrqwk9gnwdy9")))
+
+(define-public crate-vfs_service-0.0.2 (c (n "vfs_service") (v "0.0.2") (d (list (d (n "dotenv") (r "^0.14.1") (d #t) (k 0)) (d (n "file_node") (r "^0.0.1") (d #t) (k 0)) (d (n "file_store") (r "^0.0.1") (d #t) (k 0)) (d (n "fuse") (r "^0.3.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.60") (d #t) (k 0)) (d (n "log") (r "^0.4.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_json") (r "^0.9.0") (d #t) (k 0)) (d (n "syslog") (r "^4.0.1") (d #t) (k 0)) (d (n "time") (r "^0.1.38") (d #t) (k 0)))) (h "179pnvnyrcxddghyqmsx6y16s2ybbsln0331qdrz54nkpqq0mvm0")))
+

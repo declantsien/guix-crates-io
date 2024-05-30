@@ -1,0 +1,4 @@
+(define-module (crates-io ya ta yatap) #:use-module (crates-io))
+
+(define-public crate-yatap-0.1.0 (c (n "yatap") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "octocrab") (r "^0.19.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.20.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 0)) (d (n "tmux_interface") (r "^0.2.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "xdg") (r "^2.4.1") (d #t) (k 0)))) (h "1ksgvpv3nh12w8kg4xfxsrnf0rlpirfrdb71k1kcq0lrx1yyfr8y")))
+

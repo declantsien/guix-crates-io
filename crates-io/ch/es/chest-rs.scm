@@ -1,0 +1,4 @@
+(define-module (crates-io ch es chest-rs) #:use-module (crates-io))
+
+(define-public crate-chest-rs-0.2.0 (c (n "chest-rs") (v "0.2.0") (d (list (d (n "async-std") (r "^1.12") (d #t) (k 0)) (d (n "better-panic") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "promptly") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("runtime-async-std" "sqlite"))) (d #t) (k 0)) (d (n "tui") (r "^0.23") (d #t) (k 0) (p "ratatui")) (d (n "tui-input") (r "^0.8") (d #t) (k 0)))) (h "122nr0pyk5xy9pvaaaix781f4xcng2g69mppyyib5qmbppl6c2gn")))
+

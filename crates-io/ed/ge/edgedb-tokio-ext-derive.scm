@@ -1,0 +1,10 @@
+(define-module (crates-io ed ge edgedb-tokio-ext-derive) #:use-module (crates-io))
+
+(define-public crate-edgedb-tokio-ext-derive-0.1.0 (c (n "edgedb-tokio-ext-derive") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("extra-traits"))) (d #t) (k 2)))) (h "1saqxc39kqixmprz27prlc7j2kdz7w6zrkpawakcmqgl0xbdf0n2")))
+
+(define-public crate-edgedb-tokio-ext-derive-0.1.1 (c (n "edgedb-tokio-ext-derive") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("extra-traits"))) (d #t) (k 2)))) (h "18vg20l2ixdlzg817khh3g39d158s57pn47bmdh0ydkkzh606i7a")))
+
+(define-public crate-edgedb-tokio-ext-derive-0.1.2 (c (n "edgedb-tokio-ext-derive") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("extra-traits"))) (d #t) (k 2)))) (h "1zp7rf5g09drjs7cz85q0gap8j89jvbhjcb9mw6bvgmnjhc6fqkv")))
+
+(define-public crate-edgedb-tokio-ext-derive-0.1.3 (c (n "edgedb-tokio-ext-derive") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("extra-traits"))) (d #t) (k 2)))) (h "164ljjcg4k422qd230d905qwy7lnnm01j21hahyz4rfmj21z8vcj")))
+

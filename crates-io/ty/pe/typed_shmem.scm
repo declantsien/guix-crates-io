@@ -1,0 +1,10 @@
+(define-module (crates-io ty pe typed_shmem) #:use-module (crates-io))
+
+(define-public crate-typed_shmem-0.1.0 (c (n "typed_shmem") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.19.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "oorandom") (r "^11.1.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("errhandlingapi" "handleapi" "memoryapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "02v75y5khaqkipiisq9n2zsmfwg27iw9wgfblm5dx2maia70gzhp")))
+
+(define-public crate-typed_shmem-0.2.0 (c (n "typed_shmem") (v "0.2.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.19.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "oorandom") (r "^11.1.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("errhandlingapi" "handleapi" "memoryapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "zerocopy") (r "^0.3.0") (d #t) (k 0)))) (h "0d12fxb31p8p7smc5dqicj74dxsxixzf56pazhw83ncwj2y6k9b1") (y #t)))
+
+(define-public crate-typed_shmem-0.2.1 (c (n "typed_shmem") (v "0.2.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.19.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "oorandom") (r "^11.1.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("errhandlingapi" "handleapi" "memoryapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "zerocopy") (r "^0.3.0") (d #t) (k 0)))) (h "1ml83ff8w5smnw26j5dmp88baq15hnjsj5jsf5av8w520gp20zzr")))
+
+(define-public crate-typed_shmem-0.3.0 (c (n "typed_shmem") (v "0.3.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.20.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "oorandom") (r "^11.1.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("errhandlingapi" "handleapi" "memoryapi" "winerror"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "zerocopy") (r "^0.4.0") (d #t) (k 0)))) (h "1nc324gc5g5g180w2banirx9rinmjvpgwi1z8y25x6h55764d1d3")))
+

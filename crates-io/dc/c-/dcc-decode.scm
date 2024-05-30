@@ -1,0 +1,4 @@
+(define-module (crates-io dc c- dcc-decode) #:use-module (crates-io))
+
+(define-public crate-dcc-decode-0.1.0 (c (n "dcc-decode") (v "0.1.0") (d (list (d (n "base45") (r "^3.0.0") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.5") (d #t) (k 0)) (d (n "flate2") (r "^1.0.20") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "ring") (r "^0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.14") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "serde_cose") (r "^0.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "x509-parser") (r "^0.9.2") (d #t) (k 0)))) (h "03bbrj8y6kfp7zkrpnfd1hk0i9amkqm8crskwapvl93lmpm4dr17")))
+

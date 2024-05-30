@@ -1,0 +1,4 @@
+(define-module (crates-io ta ur tauri-plugin-decorum) #:use-module (crates-io))
+
+(define-public crate-tauri-plugin-decorum-0.1.0 (c (n "tauri-plugin-decorum") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "cocoa") (r "^0.25.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc") (r "^0.2.7") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.17") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.13") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "17irpxy8l207nmflnzy9aq06dh45v8ifqmzn6cbl8jbzfwn38i2x") (l "tauri-plugin-decorum") (r "1.70")))
+

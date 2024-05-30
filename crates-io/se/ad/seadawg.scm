@@ -1,0 +1,8 @@
+(define-module (crates-io se ad seadawg) #:use-module (crates-io))
+
+(define-public crate-seadawg-0.1.0 (c (n "seadawg") (v "0.1.0") (d (list (d (n "byte-unit") (r "^3.1") (d #t) (k 2)) (d (n "croaring") (r "^0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "fxhash") (r "^0.2") (d #t) (k 0)) (d (n "jemalloc-ctl") (r "^0.3") (d #t) (k 2)) (d (n "jemallocator") (r "^0.3") (d #t) (k 2)) (d (n "map_vec") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "scalable_cuckoo_filter") (r "^0.1") (d #t) (k 0)))) (h "1bsz4m5k18mhb5gg7qpw8bl6cg51djw9iywfp87hw2ap5hnq24gp")))
+
+(define-public crate-seadawg-0.1.2 (c (n "seadawg") (v "0.1.2") (d (list (d (n "byte-unit") (r "^4") (d #t) (k 2)) (d (n "croaring") (r "^0.5") (d #t) (k 0)) (d (n "csv") (r "^1") (d #t) (k 2)) (d (n "fxhash") (r "^0") (d #t) (k 0)) (d (n "jemalloc-ctl") (r "^0") (d #t) (k 2)) (d (n "jemallocator") (r "^0") (d #t) (k 2)) (d (n "map_vec") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0") (d #t) (k 2)) (d (n "scalable_cuckoo_filter") (r "^0") (d #t) (k 0)))) (h "1bknh04081kxmvpmjx675ba50pfqplncmrz8ib1z8bg9sbg1lbir")))
+
+(define-public crate-seadawg-0.1.3 (c (n "seadawg") (v "0.1.3") (d (list (d (n "byte-unit") (r "^4") (d #t) (k 2)) (d (n "croaring") (r "^0.5") (d #t) (k 0)) (d (n "csv") (r "^1") (d #t) (k 2)) (d (n "fxhash") (r "^0") (d #t) (k 0)) (d (n "jemalloc-ctl") (r "^0") (d #t) (k 2)) (d (n "jemallocator") (r "^0") (d #t) (k 2)) (d (n "map_vec") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0") (d #t) (k 2)) (d (n "scalable_cuckoo_filter") (r "^0") (d #t) (k 0)))) (h "0sq36mhrv630xhz5ww4xl92zq460w1sx7l93hyjmvk7zjvgbga1a")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ya ir yair) #:use-module (crates-io))
+
+(define-public crate-yair-0.1.0 (c (n "yair") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.3") (f (quote ("yaml"))) (o #t) (d #t) (k 0)) (d (n "codespan") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "duct") (r "^0.13.4") (o #t) (d #t) (k 0)) (d (n "enumset") (r "^1.0.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "envcache") (r "^0.1.3") (d #t) (k 1)) (d (n "generational-arena") (r "^0.2.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lit") (r "^1.0.3") (d #t) (k 2)) (d (n "radix_trie") (r "^0.2.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^0.15.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)))) (h "09d3f89ah1qchlgdgvb3m2ybnpymplxkgsflwawpz0cn6ywmh50i") (f (quote (("llvm") ("io" "clap" "codespan" "codespan-reporting" "duct" "rmp-serde") ("default" "io" "llvm"))))))
+

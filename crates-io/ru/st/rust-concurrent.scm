@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust-concurrent) #:use-module (crates-io))
+
+(define-public crate-rust-concurrent-1.3.0 (c (n "rust-concurrent") (v "1.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "assert_cmd") (r "^2") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "predicates") (r "^3") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "sdkman-cli-native") (r "^0.5.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)) (d (n "which") (r "^6") (d #t) (k 0)))) (h "0qx1xvb3jp0xpj8hf2silxq3vayap413926rqb2gq2clh8zbj636")))
+

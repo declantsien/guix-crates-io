@@ -1,0 +1,6 @@
+(define-module (crates-io oa ut oauth-1a) #:use-module (crates-io))
+
+(define-public crate-oauth-1a-0.1.0 (c (n "oauth-1a") (v "0.1.0") (d (list (d (n "attohttpc") (r "^0.13.0") (d #t) (k 2)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "http-types") (r "^2.0.1") (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "sha-1") (r "^0.8.2") (d #t) (k 0)))) (h "02ywzbvdqaq0qgz1bxn2z9yxr8biyb0wvji5dsk2y8payfdbvi4g")))
+
+(define-public crate-oauth-1a-0.1.1 (c (n "oauth-1a") (v "0.1.1") (d (list (d (n "attohttpc") (r "^0.13.0") (d #t) (k 2)) (d (n "base64") (r "^0.12.1") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "http-types") (r "^2.0.1") (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.110") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "serde_with") (r "^1.4.0") (d #t) (k 0)) (d (n "sha-1") (r "^0.8.2") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "11kq0gg344012izybjgxgyaq0d7926k3pa0r95mqla6krbp2xm1f")))
+

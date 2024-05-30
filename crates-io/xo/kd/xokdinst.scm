@@ -1,0 +1,4 @@
+(define-module (crates-io xo kd xokdinst) #:use-module (crates-io))
+
+(define-public crate-xokdinst-0.8.1 (c (n "xokdinst") (v "0.8.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "directories") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "sys-info") (r "^0.5.6") (d #t) (k 0)) (d (n "tabwriter") (r "^1.1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.0.7") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0nmkmqvm7sx60vwal2xcn7an1m3rj9djl1xnr0pjimbbrafk7f09")))
+

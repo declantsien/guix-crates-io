@@ -1,0 +1,28 @@
+(define-module (crates-io li bp libpylon) #:use-module (crates-io))
+
+(define-public crate-libpylon-0.7.0 (c (n "libpylon") (v "0.7.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0ky7wrfxchjnvndjbznlm5m753jrbp4wr8ndzkdylczwm5syd412")))
+
+(define-public crate-libpylon-0.8.0 (c (n "libpylon") (v "0.8.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1yf7bxg45a3dw0jgvgcq0h6wdf1wlrx3cn132jjkaq3nx1jx0h0y") (r "1.63.0")))
+
+(define-public crate-libpylon-0.9.0 (c (n "libpylon") (v "0.9.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0hrpdcph6i7b3671qb0ib85249fh8j4j1311wd623f7bla81vbw8") (r "1.63.0")))
+
+(define-public crate-libpylon-0.10.0 (c (n "libpylon") (v "0.10.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "15mqmk02g19ndbwjmzygf7w9dry9hiingmr9w2ycf4hmhqywbjjc") (r "1.63.0")))
+
+(define-public crate-libpylon-0.11.0 (c (n "libpylon") (v "0.11.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0wzggp1xxp7ya46wm9qzwdnyjfqdb09fg1pxdna27fs5lhga1vsj") (r "1.63.0")))
+
+(define-public crate-libpylon-0.11.1 (c (n "libpylon") (v "0.11.1") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1200xd6ghz3zr4rqlfkanvd79rk5bn0px48drpmj82vq0fj81ha1") (r "1.63.0")))
+
+(define-public crate-libpylon-0.11.2 (c (n "libpylon") (v "0.11.2") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "13xbalzxy2vc8d657wkh79c1jhhrdgfjrjhirqx420fb80bfv8s3") (r "1.63.0")))
+
+(define-public crate-libpylon-0.12.0 (c (n "libpylon") (v "0.12.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "09qz55r9ypzw8prvzhm1wjvzscg7gdmirh95nn93q8kblda1jsns") (r "1.63.0")))
+
+(define-public crate-libpylon-0.13.0 (c (n "libpylon") (v "0.13.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1f7rp1mhylwg75yhh7ih82vbiph09py9czyzxp7cd9gh6qv8np8y") (r "1.63.0")))
+
+(define-public crate-libpylon-0.14.0 (c (n "libpylon") (v "0.14.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1nfpsdsxgqq5klxj0vcwhs2f1w19zfl2jq0p3b805v1kd5ha0zml") (r "1.63.0")))
+
+(define-public crate-libpylon-0.15.0 (c (n "libpylon") (v "0.15.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0c4594s2f1gkqqmb0fs3f49abmzssam78zz8a1sh25figz1a5kj1") (r "1.63.0")))
+
+(define-public crate-libpylon-0.16.0 (c (n "libpylon") (v "0.16.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1qmd2gmbx2xrn0zp5i3hp61q734hwxmclxhbv1cl4nvhm7wxdlz8") (r "1.63.0")))
+
+(define-public crate-libpylon-0.17.0 (c (n "libpylon") (v "0.17.0") (d (list (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "magic-wormhole") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "smol") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1l27hx99nck99fiv9a8z9z50y0cwvkpyad7bdi4yy2lfckrwlb2y") (r "1.63.0")))
+

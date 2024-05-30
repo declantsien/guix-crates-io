@@ -1,0 +1,6 @@
+(define-module (crates-io ce re ceres-ri) #:use-module (crates-io))
+
+(define-public crate-ceres-ri-0.1.0 (c (n "ceres-ri") (v "0.1.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "ceres-executor") (r "^0") (d #t) (k 0)) (d (n "ceres-sandbox") (r "^0") (d #t) (k 0)) (d (n "ceres-seal") (r "^0") (d #t) (k 0)) (d (n "ceres-std") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.3") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("keccak"))) (d #t) (k 0)))) (h "1vndpdyjq6xvirvp3irkx1nk4avvh4r2apg5hj6bgs0d9ybldlyj") (f (quote (("std" "ceres-seal/std" "ceres-sandbox/std" "ceres-executor/std") ("default"))))))
+
+(define-public crate-ceres-ri-0.2.0 (c (n "ceres-ri") (v "0.2.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "ceres-executor") (r "^0") (d #t) (k 0)) (d (n "ceres-sandbox") (r "^0") (d #t) (k 0)) (d (n "ceres-seal") (r "^0") (d #t) (k 0)) (d (n "ceres-std") (r "^0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.3") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.2") (f (quote ("keccak"))) (d #t) (k 0)))) (h "1a3h1wcb6l8jx4p0s6vh13j0mpl1d06fn6ciad2pmhl205cfaxin") (f (quote (("std" "ceres-seal/std" "ceres-sandbox/std" "ceres-executor/std") ("default"))))))
+

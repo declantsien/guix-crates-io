@@ -1,0 +1,10 @@
+(define-module (crates-io fl o_ flo_render_canvas) #:use-module (crates-io))
+
+(define-public crate-flo_render_canvas-0.2.0 (c (n "flo_render_canvas") (v "0.2.0") (d (list (d (n "desync") (r "^0.7") (d #t) (k 0)) (d (n "flo_canvas") (r "^0.2") (d #t) (k 0)) (d (n "flo_render") (r "^0.2") (d #t) (k 0)) (d (n "flo_stream") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lyon") (r "^0.15") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "png") (r "^0.11") (d #t) (k 2)))) (h "02mgl0f4y14x4yrj4r1k5lpwh0kxvrxyiwb09zixbs74wzkk2wlw")))
+
+(define-public crate-flo_render_canvas-0.2.1 (c (n "flo_render_canvas") (v "0.2.1") (d (list (d (n "desync") (r "^0.7") (d #t) (k 0)) (d (n "flo_canvas") (r "^0.2") (d #t) (k 0)) (d (n "flo_render") (r "^0.2") (d #t) (k 0)) (d (n "flo_stream") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lyon") (r "^0.15") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "png") (r "^0.11") (d #t) (k 2)))) (h "1n1yzpvq4z1m5faszm1g6za5g2h60fnb18bd1yiapjzlx03hk3pf")))
+
+(define-public crate-flo_render_canvas-0.3.0 (c (n "flo_render_canvas") (v "0.3.0") (d (list (d (n "desync") (r "^0.7") (d #t) (k 0)) (d (n "flo_canvas") (r "^0.3") (d #t) (k 0)) (d (n "flo_render") (r "^0.3") (d #t) (k 0)) (d (n "flo_stream") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 2)) (d (n "lyon") (r "^0.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "png") (r "^0.11") (d #t) (k 2)))) (h "0l0fzjgyk4fydb9ck4rnhd0amp5dmgchlszaj9mzjwg6afwqdgb5")))
+
+(define-public crate-flo_render_canvas-0.3.1 (c (n "flo_render_canvas") (v "0.3.1") (d (list (d (n "desync") (r "^0.7") (d #t) (k 0)) (d (n "flo_canvas") (r "^0.3") (d #t) (k 0)) (d (n "flo_render") (r "^0.3") (d #t) (k 0)) (d (n "flo_stream") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lyon") (r "^0.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 2)) (d (n "png") (r "^0.11") (d #t) (k 2)))) (h "0p5css5gby36z7sykrzzrrxaihhy9xymgs31cqc9nhk4qxsiyjzq")))
+

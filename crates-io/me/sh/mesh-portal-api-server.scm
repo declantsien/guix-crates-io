@@ -1,0 +1,6 @@
+(define-module (crates-io me sh mesh-portal-api-server) #:use-module (crates-io))
+
+(define-public crate-mesh-portal-api-server-0.0.1 (c (n "mesh-portal-api-server") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "dashmap") (r "^4.0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "mesh-portal") (r "^0.2.0-rc1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.21.1") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("serde" "v4" "wasm-bindgen"))) (d #t) (k 0)))) (h "16lmhh7mwbhqm54s1lii17dfsy80gs7cpjmqnbpff15rg5xzg56n")))
+
+(define-public crate-mesh-portal-api-server-0.2.0-rc1 (c (n "mesh-portal-api-server") (v "0.2.0-rc1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "dashmap") (r "^4.0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "mesh-portal") (r "^0.2.0-rc1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.21.1") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("serde" "v4" "wasm-bindgen"))) (d #t) (k 0)))) (h "0xbb49qirkb6g6fmhyq44mbk9qldv6gdmxip7f3zviglx59jxyjg")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io cr yp cryptenv) #:use-module (crates-io))
+
+(define-public crate-cryptenv-0.0.1 (c (n "cryptenv") (v "0.0.1") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "block-modes") (r "^0.8.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "0az5ni9f3av943j7llvxdbvwydx2a37ihxx946m3xwxwm901w4vc")))
+
+(define-public crate-cryptenv-0.0.2 (c (n "cryptenv") (v "0.0.2") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "block-modes") (r "^0.8.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rpassword") (r "^5.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "1r71klzkrqrh9n0csw8lmgbv51c099y70nyl5b8hd84flvzqds96")))
+
+(define-public crate-cryptenv-0.0.3 (c (n "cryptenv") (v "0.0.3") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "block-modes") (r "^0.8.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rpassword") (r "^5.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "0794c2dzvj3qjgrzbvmvy6vxx32bqf1xpxv3qc1f5bsc15g1gsy3")))
+
+(define-public crate-cryptenv-0.0.4 (c (n "cryptenv") (v "0.0.4") (d (list (d (n "aes") (r "^0.7.5") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "block-modes") (r "^0.8.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10.36") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rpassword") (r "^5.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)))) (h "0l2avs57srfpihbs8r433dpj2q9nk04dp4ym1rf60pr1jbk5vvl3")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io dc om dcommon) #:use-module (crates-io))
+
+(define-public crate-dcommon-0.3.0-alpha1 (c (n "dcommon") (v "0.3.0-alpha1") (d (list (d (n "auto-enum") (r "^0.2.0-alpha1") (d #t) (t "cfg(windows)") (k 0)) (d (n "checked-enum") (r "^0.1.1-alpha1") (d #t) (t "cfg(windows)") (k 0)) (d (n "com-impl") (r "^0.1.0-alpha2") (d #t) (t "cfg(windows)") (k 0)) (d (n "com-wrapper") (r "^0.1.0-alpha2") (d #t) (t "cfg(windows)") (k 0)) (d (n "derive-com-impl") (r "^0.1.0-alpha3") (d #t) (t "cfg(windows)") (k 0)) (d (n "derive-com-wrapper") (r "^0.1.0-alpha4") (d #t) (t "cfg(windows)") (k 0)) (d (n "math2d") (r "^0.2.0-alpha1") (f (quote ("d2d"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.3.6") (f (quote ("combaseapi" "d2d1" "dcommon" "objidl" "objidlbase" "oleauto" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "wio") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)))) (h "09gby4gm1045akvvhm5vxcpcm7gm54l7vzb3l4q16xcackx7znvm")))
+

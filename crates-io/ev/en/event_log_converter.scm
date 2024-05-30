@@ -1,0 +1,10 @@
+(define-module (crates-io ev en event_log_converter) #:use-module (crates-io))
+
+(define-public crate-event_log_converter-0.1.0 (c (n "event_log_converter") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "quick-xml") (r "^0.26.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)))) (h "0rafvapsnjm2q4vss4gvzvrw4dp1l9vad4qaj65hs1ha9729jppw")))
+
+(define-public crate-event_log_converter-0.1.1 (c (n "event_log_converter") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "quick-xml") (r "^0.26.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)))) (h "1h7dcf94ksjy3qkkibnknqmik5n7sxrma5n2yam995mcbq8c4kmb")))
+
+(define-public crate-event_log_converter-0.2.0 (c (n "event_log_converter") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "quick-xml") (r "^0.26.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)))) (h "0ggvxm156yv3vvr2x2lz0nzfx39dizl70k3p5zzgkfi9a1bvd7mn")))
+
+(define-public crate-event_log_converter-0.2.1 (c (n "event_log_converter") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.23") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "quick-xml") (r "^0.26.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.151") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)))) (h "0nky2kp8770pwc4im7mnr5p141nmy7czw9bxb3jagh1h0p1pijzl")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io fr ei freighter-client) #:use-module (crates-io))
+
+(define-public crate-freighter-client-0.1.0-rc (c (n "freighter-client") (v "0.1.0-rc") (d (list (d (n "anyhow") (r "^1.0.14") (d #t) (k 0)) (d (n "freighter-api-types") (r "^0.1.0-rc") (f (quote ("auth" "index" "ownership" "client"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("json"))) (k 0)) (d (n "semver") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.2") (d #t) (k 0)))) (h "1diryby8ni45i0cgqf34qpx94pn35ljbwn8lkzi0ifb2iq33ac2l")))
+
+(define-public crate-freighter-client-0.1.0-rc.1 (c (n "freighter-client") (v "0.1.0-rc.1") (d (list (d (n "anyhow") (r "^1.0.14") (d #t) (k 0)) (d (n "freighter-api-types") (r "^0.1.0-rc.1") (f (quote ("auth" "index" "ownership" "client"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("json"))) (k 0)) (d (n "semver") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.2") (d #t) (k 0)))) (h "0h4k7vikr75dzz6b190yvg4vhvh1wi2g96c52jy0pmas7b3hrfga")))
+
+(define-public crate-freighter-client-0.1.0-rc.2 (c (n "freighter-client") (v "0.1.0-rc.2") (d (list (d (n "anyhow") (r "^1.0.14") (d #t) (k 0)) (d (n "freighter-api-types") (r "=0.1.0-rc.2") (f (quote ("auth" "index" "ownership" "client"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (f (quote ("json"))) (k 0)) (d (n "semver") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.2") (d #t) (k 0)))) (h "13pryjhwghvwr14z3g6pbcj5nlslg9w2jl8ygcr7sx7ywl3rzyx3")))
+

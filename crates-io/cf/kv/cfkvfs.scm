@@ -1,0 +1,6 @@
+(define-module (crates-io cf kv cfkvfs) #:use-module (crates-io))
+
+(define-public crate-cfkvfs-0.1.0 (c (n "cfkvfs") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "lru") (r "^0.6.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "gzip" "json" "rustls-tls"))) (k 0)) (d (n "rusqlite") (r "^0.25.3") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "rusqlite_migration") (r "^0.4.2") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "1g4d7vhibh16cyicbi4i2ph58hj6gk0w0b8rfkmppg41hrkw9q7m")))
+
+(define-public crate-cfkvfs-0.1.1 (c (n "cfkvfs") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "lru") (r "^0.6.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "gzip" "json" "rustls-tls"))) (k 0)) (d (n "rusqlite") (r "^0.25.3") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "rusqlite_migration") (r "^0.4.2") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "1drqdjfl5gafcqwspf7b1kcf5mwj6rmfk8gv2wfl9pv09sq9cq83")))
+

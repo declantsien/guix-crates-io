@@ -1,0 +1,14 @@
+(define-module (crates-io ch op chopstick) #:use-module (crates-io))
+
+(define-public crate-chopstick-0.2.0 (c (n "chopstick") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "bytesize") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "=3.0.0-beta.5") (f (quote ("std" "color"))) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0h9cv41901y84n7inc2cjcb33gq2kp34kxybyh9y0sfmr9sczr98")))
+
+(define-public crate-chopstick-0.2.1 (c (n "chopstick") (v "0.2.1") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "bytesize") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "=3.0.0-beta.5") (f (quote ("std" "color"))) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0gm165swmkbs9lqh9yfpygqyhfn9lca907xhhffl0f810czh1kbw")))
+
+(define-public crate-chopstick-0.2.2 (c (n "chopstick") (v "0.2.2") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "bytesize") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("std" "color"))) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "14638704rk6mvr4x0a6w809j7zcawidh5jw07i4scf62li9d1f50")))
+
+(define-public crate-chopstick-0.2.3 (c (n "chopstick") (v "0.2.3") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "bytesize") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("std" "color"))) (k 0)) (d (n "os_str_bytes") (r "^6.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0qsb69805f0886nk1fl6fmqdnjq6dd6f4lqsa7y5f5fbdl4wcyj1")))
+
+(define-public crate-chopstick-0.2.4 (c (n "chopstick") (v "0.2.4") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "bytesize") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("std"))) (k 0)) (d (n "os_str_bytes") (r "^6.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 2)) (d (n "sysinfo") (r "^0.22") (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1jal5wmj7zbvgpcryiicidiakiq2bqazagclzyrpr8rzqbw5z0p2")))
+
+(define-public crate-chopstick-1.0.0 (c (n "chopstick") (v "1.0.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "bytesize") (r "^1.1") (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("std"))) (k 0)) (d (n "os_str_bytes") (r "^6.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3") (d #t) (k 2)) (d (n "sysinfo") (r "^0.23") (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "0432vlrli14gknwiiny6739wjgd5v2lwvmhbgw43zx63smhm7xif") (r "1.58")))
+

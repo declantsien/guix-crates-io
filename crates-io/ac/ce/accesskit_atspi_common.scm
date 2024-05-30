@@ -1,0 +1,20 @@
+(define-module (crates-io ac ce accesskit_atspi_common) #:use-module (crates-io))
+
+(define-public crate-accesskit_atspi_common-0.1.1 (c (n "accesskit_atspi_common") (v "0.1.1") (d (list (d (n "accesskit") (r "^0.12.2") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.17.0") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "0134fi3s3k3k10ba8m55dy7asdfp4llin9x381iw3v0ibcwwhnc6") (r "1.68.2")))
+
+(define-public crate-accesskit_atspi_common-0.1.2 (c (n "accesskit_atspi_common") (v "0.1.2") (d (list (d (n "accesskit") (r "^0.12.3") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.17.1") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "1wl0rj8zn684wmd55is38mii1rs7li04si5j8qcbwhwzw3infbg2") (r "1.68.2")))
+
+(define-public crate-accesskit_atspi_common-0.2.0 (c (n "accesskit_atspi_common") (v "0.2.0") (d (list (d (n "accesskit") (r "^0.12.3") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.17.1") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "0xphpc3zn880ji9zaqr9gc14if093nkyy9pi8142730c7l4vlmwk") (r "1.68.2")))
+
+(define-public crate-accesskit_atspi_common-0.3.0 (c (n "accesskit_atspi_common") (v "0.3.0") (d (list (d (n "accesskit") (r "^0.13.0") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.18.0") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "1wp2x70slhzs16jx52zs3k9b08rsr1a3vpmri24m2lnqbpq94m1x") (r "1.68.2")))
+
+(define-public crate-accesskit_atspi_common-0.4.0 (c (n "accesskit_atspi_common") (v "0.4.0") (d (list (d (n "accesskit") (r "^0.14.0") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.19.0") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "065nj7sqgk3njwslxlg4vaxh6x6i068d8c8ja192ygnzhc2xpwdk") (r "1.70")))
+
+(define-public crate-accesskit_atspi_common-0.4.1 (c (n "accesskit_atspi_common") (v "0.4.1") (d (list (d (n "accesskit") (r "^0.14.0") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.19.1") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "1gnva81dls60pli5dslcwrcgpnq5vzixflfc1ckrcql57grdcilc") (r "1.70")))
+
+(define-public crate-accesskit_atspi_common-0.4.2 (c (n "accesskit_atspi_common") (v "0.4.2") (d (list (d (n "accesskit") (r "^0.14.0") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.20.0") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "1k7shx8fdvdv7lrv4zaxh085x2pj676whzi8fg4fnvc81ir6cc2y") (r "1.70")))
+
+(define-public crate-accesskit_atspi_common-0.5.0 (c (n "accesskit_atspi_common") (v "0.5.0") (d (list (d (n "accesskit") (r "^0.14.0") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.21.0") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "0xsrdlsdfw6limhvqs4sbs6z8b9m6dpd66nqzi3w1q6fqyccpmsy") (r "1.70")))
+
+(define-public crate-accesskit_atspi_common-0.6.0 (c (n "accesskit_atspi_common") (v "0.6.0") (d (list (d (n "accesskit") (r "^0.14.0") (d #t) (k 0)) (d (n "accesskit_consumer") (r "^0.22.0") (d #t) (k 0)) (d (n "atspi-common") (r "^0.3.0") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "zvariant") (r "^3") (k 0)))) (h "0rifhqrpgd4fxggjd24yknq4wag6w3x26lj8wb81jcxfy7invh6r") (r "1.70")))
+

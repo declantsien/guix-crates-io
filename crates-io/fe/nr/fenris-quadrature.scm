@@ -1,0 +1,10 @@
+(define-module (crates-io fe nr fenris-quadrature) #:use-module (crates-io))
+
+(define-public crate-fenris-quadrature-0.0.1 (c (n "fenris-quadrature") (v "0.0.1") (d (list (d (n "embed-doc-image") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "matrixcompare") (r "^0.3.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.28") (d #t) (k 2)) (d (n "polyquad-parse") (r "^0.1") (d #t) (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)))) (h "135j8f0xgglla1rbqz9q4vkix7j22bhclgiwa8fnfg3z41izl9nv") (f (quote (("doc-images" "embed-doc-image"))))))
+
+(define-public crate-fenris-quadrature-0.0.2 (c (n "fenris-quadrature") (v "0.0.2") (d (list (d (n "embed-doc-image") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "matrixcompare") (r "^0.3.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.28") (d #t) (k 2)) (d (n "polyquad-parse") (r "^0.1") (d #t) (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)))) (h "14xz4jl6k60wcy60qhcr3b2h9vln1av0cinvhl9g7k2i7iry4hi9") (f (quote (("doc-images" "embed-doc-image"))))))
+
+(define-public crate-fenris-quadrature-0.0.3 (c (n "fenris-quadrature") (v "0.0.3") (d (list (d (n "embed-doc-image") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "matrixcompare") (r "^0.3.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.31") (d #t) (k 2)) (d (n "polyquad-parse") (r "^0.1") (d #t) (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)))) (h "1h2bwhnrv7v34m3fqsc9ns07wmcc0627k6vy8pk6kg5yy1sivv0y") (f (quote (("doc-images" "embed-doc-image"))))))
+
+(define-public crate-fenris-quadrature-0.0.4 (c (n "fenris-quadrature") (v "0.0.4") (d (list (d (n "embed-doc-image") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "matrixcompare") (r "^0.3.0") (d #t) (k 2)) (d (n "nalgebra") (r "^0.31") (d #t) (k 2)) (d (n "polyquad-parse") (r "^0.1") (d #t) (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)))) (h "10w37iy1j4q46fi0fn1znx2n5y90cwphmvfy539cpli7a1bp8vki") (f (quote (("doc-images" "embed-doc-image"))))))
+

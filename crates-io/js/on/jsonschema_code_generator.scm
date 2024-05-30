@@ -1,0 +1,14 @@
+(define-module (crates-io js on jsonschema_code_generator) #:use-module (crates-io))
+
+(define-public crate-jsonschema_code_generator-0.1.0 (c (n "jsonschema_code_generator") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.6") (d #t) (k 0)))) (h "1xa508w37vb37kri2d0kppwfmyzdhmd0nknxacjngf9fysrim6c0")))
+
+(define-public crate-jsonschema_code_generator-0.1.1 (c (n "jsonschema_code_generator") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.6") (d #t) (k 0)))) (h "1dzq7rzp43ji0yrrbkq8hw02ir292axdqlsic9bcizpvagzm813j")))
+
+(define-public crate-jsonschema_code_generator-0.2.0 (c (n "jsonschema_code_generator") (v "0.2.0") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.27") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.6") (d #t) (k 0)))) (h "1wyci380i7ihcw3kbpqzy65nya8cqd6nm5q5dp4wv2qlnpnv1wb6")))
+
+(define-public crate-jsonschema_code_generator-0.2.1 (c (n "jsonschema_code_generator") (v "0.2.1") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.27") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.6") (d #t) (k 0)))) (h "0xm3729725148wxz79zchpnbnbfrlcwrypk439pmlwmkkpyzpdv8")))
+
+(define-public crate-jsonschema_code_generator-1.0.0 (c (n "jsonschema_code_generator") (v "1.0.0") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.27") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.125") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.6") (d #t) (k 0)))) (h "0rgqiyvwr28ijjcg9napf1n5cqj3x3xyzxsy20rzgr753k6bqncx")))
+
+(define-public crate-jsonschema_code_generator-2.0.0 (c (n "jsonschema_code_generator") (v "2.0.0") (d (list (d (n "convert_case") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.27") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.7") (d #t) (k 0)))) (h "15pb991b5z9xiswj4cpvwvqmkzvk2456fv6p7rmnfd37phxcglxf")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io wi nl winlog2) #:use-module (crates-io))
+
+(define-public crate-winlog2-0.3.0 (c (n "winlog2") (v "0.3.0") (d (list (d (n "env_logger") (r "^0.10") (o #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "widestring") (r "^1") (d #t) (k 0)) (d (n "windows-sys") (r "^0.48") (f (quote ("Win32_System_EventLog"))) (d #t) (k 0)) (d (n "winreg") (r "^0.50") (d #t) (k 0)) (d (n "winres") (r "^0.1") (d #t) (k 1)))) (h "0g0365wr2f62n1jqkvgr3gsg3762xk8231i37d7jf49mip4ld0iq")))
+
+(define-public crate-winlog2-0.3.1 (c (n "winlog2") (v "0.3.1") (d (list (d (n "env_logger") (r "^0.10") (o #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "scopeguard") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "widestring") (r "^1") (d #t) (k 0)) (d (n "windows-sys") (r "^0.48") (f (quote ("Win32_System_EventLog"))) (d #t) (k 0)) (d (n "winreg") (r "^0.50") (d #t) (k 0)) (d (n "winresource") (r "^0.1") (d #t) (k 1)))) (h "05yf9gjw6ns15vmskyzsl4h61n0bjpkf8xrjd4r5257vk4qzfyz8")))
+

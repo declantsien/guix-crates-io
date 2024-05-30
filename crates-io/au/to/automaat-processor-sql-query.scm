@@ -1,0 +1,4 @@
+(define-module (crates-io au to automaat-processor-sql-query) #:use-module (crates-io))
+
+(define-public crate-automaat-processor-sql-query-0.1.0 (c (n "automaat-processor-sql-query") (v "0.1.0") (d (list (d (n "automaat-core") (r "^0.1") (d #t) (k 0)) (d (n "juniper") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "juniper") (r "^0.12") (d #t) (k 2)) (d (n "postgres") (r "^0.16.0-rc.1") (f (quote ("with-serde_json-1"))) (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlparser") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^1") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)) (d (n "version-sync") (r "^0.8") (d #t) (k 2)))) (h "1y1gg867brimarnybbyxch1gmxqb07ykbmh8i5709s49i1cchvvs")))
+

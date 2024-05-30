@@ -1,0 +1,6 @@
+(define-module (crates-io st ra strafe-plot) #:use-module (crates-io))
+
+(define-public crate-strafe-plot-0.1.0 (c (n "strafe-plot") (v "0.1.0") (d (list (d (n "nalgebra") (r "~0.32") (d #t) (k 0)) (d (n "numfmt") (r "~1") (d #t) (k 0)) (d (n "plotters") (r "~0.3") (d #t) (k 0)) (d (n "polars") (r "~0.38") (d #t) (k 0)) (d (n "r2rs-nmath") (r "~0.1") (d #t) (k 0)) (d (n "r2rs-rfit") (r "~0.1") (d #t) (k 0)) (d (n "r2rs-stats") (r "~0.1") (d #t) (k 0)) (d (n "strafe-distribution") (r "~0.1") (d #t) (k 0)) (d (n "strafe-tests") (r "~0.1") (d #t) (k 0)) (d (n "strafe-trait") (r "~0.1") (d #t) (k 0)) (d (n "strafe-type") (r "~0.1") (d #t) (k 0)))) (h "1m1agph1kxfvxshgsvpcfxbhah80qclsfvwq0fd9lqa7d6x6b3as") (y #t)))
+
+(define-public crate-strafe-plot-0.1.1 (c (n "strafe-plot") (v "0.1.1") (d (list (d (n "nalgebra") (r "~0.32") (d #t) (k 0)) (d (n "numfmt") (r "~1") (d #t) (k 0)) (d (n "plotters") (r "~0.3") (d #t) (k 0)) (d (n "polars") (r "~0.38") (d #t) (k 0)) (d (n "r2rs-nmath") (r "~0.1") (d #t) (k 0)) (d (n "r2rs-rfit") (r "~0.1") (d #t) (k 0)) (d (n "r2rs-stats") (r "~0.1") (d #t) (k 0)) (d (n "strafe-distribution") (r "~0.1") (d #t) (k 0)) (d (n "strafe-tests") (r "~0.1") (d #t) (k 0)) (d (n "strafe-trait") (r "~0.1") (d #t) (k 0)) (d (n "strafe-type") (r "~0.1") (d #t) (k 0)))) (h "11zwplki6pj1v8a3ij3xg0gxqd7v1lpr1ix2xf50xawp65fy6zrd")))
+

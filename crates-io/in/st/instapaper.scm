@@ -1,0 +1,8 @@
+(define-module (crates-io in st instapaper) #:use-module (crates-io))
+
+(define-public crate-instapaper-0.1.0 (c (n "instapaper") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.13") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "mockito") (r "^0.13") (d #t) (k 2)) (d (n "oauth1") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "0p5gmkrjdmj5d7pnfcf1w9390j1nvdg6ih47dan7ykcvs2xrzpyz")))
+
+(define-public crate-instapaper-0.1.1 (c (n "instapaper") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.13") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "mockito") (r "^0.13") (d #t) (k 2)) (d (n "oauth1") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "08lx6pmh9x1y41ks9aqa6ahiv3qaaqph5ms9b4akzrh129rg27qz")))
+
+(define-public crate-instapaper-0.1.2 (c (n "instapaper") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.13") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "mockito") (r "^0.13") (d #t) (k 2)) (d (n "oauth1") (r "^1.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "06863mnjn5vkd9pqyw7d97la7yjcfynpp5v2rfhi57gqnw51ksib")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io lo gg logged_tcp_proxy) #:use-module (crates-io))
+
+(define-public crate-logged_tcp_proxy-0.1.0 (c (n "logged_tcp_proxy") (v "0.1.0") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "logged-stream") (r "^0.2.5") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("io-util" "macros" "net" "rt-multi-thread" "time"))) (k 0)))) (h "14qnq2lqdbf2kjgdf9hm56v4a55z9ind5hhn173k5ijb13kkz7pc")))
+
+(define-public crate-logged_tcp_proxy-0.1.1 (c (n "logged_tcp_proxy") (v "0.1.1") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "logged-stream") (r "^0.2.5") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("io-util" "macros" "net" "rt-multi-thread" "time"))) (k 0)))) (h "1jiwdk6bkza7b7nv9785hzszalsvjp6hg8hgza0b8pyr827bz0a0")))
+
+(define-public crate-logged_tcp_proxy-0.1.2 (c (n "logged_tcp_proxy") (v "0.1.2") (d (list (d (n "bytes") (r "^1.5.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "logged-stream") (r "^0.3.4") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("io-util" "macros" "net" "rt-multi-thread" "time"))) (k 0)))) (h "0pfvfgxyq1g32ggfygmy7y47vig407myxxzq2idj5mhzfqbfkk20") (r "1.70.0")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io cr af craftio-rs) #:use-module (crates-io))
+
+(define-public crate-craftio-rs-0.1.0 (c (n "craftio-rs") (v "0.1.0") (d (list (d (n "aes") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "flate2") (r "^1.0") (f (quote ("zlib"))) (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "mcproto-rs") (r "^0.2.0") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("net" "io-util"))) (o #t) (d #t) (k 0)))) (h "1lchqr9ccimxcghdavdldd16d269alhshan27zqkqn86w1chv4bw") (f (quote (("tokio-io" "tokio" "async-trait") ("gat" "mcproto-rs/gat") ("futures-io" "futures" "async-trait") ("encryption" "aes") ("default" "compression" "encryption" "tokio-io") ("compression" "flate2") ("backtrace"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ha nt hanteker_cli) #:use-module (crates-io))
+
+(define-public crate-hanteker_cli-0.1.0 (c (n "hanteker_cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive" "suggestions" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1") (d #t) (k 0)) (d (n "hanteker_lib") (r "^0.1.0") (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "0qa16py5zv71vzqzir50m7rc1cr02s0c2lnsi6si8ga4nmik367k")))
+
+(define-public crate-hanteker_cli-0.2.0 (c (n "hanteker_cli") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive" "suggestions" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1") (d #t) (k 0)) (d (n "hanteker_lib") (r "^0.2.0") (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "0zvh1q88np5h93byiahb0654b6rcpj4m3890c018kx25w7nmwa36")))
+
+(define-public crate-hanteker_cli-0.3.0 (c (n "hanteker_cli") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive" "suggestions" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1") (d #t) (k 0)) (d (n "hanteker_lib") (r "^0.3.0") (f (quote ("cli"))) (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "119zqc05zlj110vmv4aydbgknq7m8s2623ii89zib30zjn2qmp9c")))
+
+(define-public crate-hanteker_cli-0.4.0 (c (n "hanteker_cli") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive" "suggestions" "wrap_help"))) (d #t) (k 0)) (d (n "clap_complete") (r "^3.1") (d #t) (k 0)) (d (n "hanteker_lib") (r "^0.4.0") (f (quote ("cli"))) (d #t) (k 0)) (d (n "libusb") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "1cx74ihrv9i1dzx0i7r6hfj1x1m6mjfvjy4q9l4wxkg8q4wwv2cy")))
+

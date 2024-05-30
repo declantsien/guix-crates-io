@@ -1,0 +1,6 @@
+(define-module (crates-io te rm termii-rust) #:use-module (crates-io))
+
+(define-public crate-termii-rust-0.1.0 (c (n "termii-rust") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.53") (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (o #t) (k 0)))) (h "0gbpk2ja4zc0paila45775gz3cfvdif2hwq9vk47hi2n9yf2122l") (f (quote (("default" "tokio/full" "reqwest/json" "async-trait") ("blocking" "reqwest/blocking" "reqwest/json"))))))
+
+(define-public crate-termii-rust-0.1.1 (c (n "termii-rust") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.53") (o #t) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (o #t) (k 0)))) (h "0cx718sh6w95kqh3r9lsvcjgrmshisigq0hasy41n69af7q5987f") (f (quote (("default" "tokio/full" "reqwest/json" "async-trait") ("blocking" "reqwest/blocking" "reqwest/json"))))))
+

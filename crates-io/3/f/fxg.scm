@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# f fxg) #:use-module (crates-io))
+
+(define-public crate-fxg-0.1.0 (c (n "fxg") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "const_format") (r "^0.2.32") (f (quote ("fmt"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14.27") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "0sm8j5lywkdkp8fnb7kjh7svv9z9cplnl2pj7abzia4hv12acclx") (f (quote (("default" "developer") ("contributor" "developer")))) (s 2) (e (quote (("developer" "dep:hyper" "dep:hyper-tls" "dep:tokio" "dep:regex"))))))
+

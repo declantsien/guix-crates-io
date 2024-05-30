@@ -1,0 +1,8 @@
+(define-module (crates-io pi ng pingora-pool) #:use-module (crates-io))
+
+(define-public crate-pingora-pool-0.1.0 (c (n "pingora-pool") (v "0.1.0") (d (list (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru") (r "^0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pingora-timeout") (r "^0.1.0") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "io-util"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "109xnfmgswcxg73pzgk1r8apcc3ighlg6p4s4fmspc2jxwxrwmml")))
+
+(define-public crate-pingora-pool-0.1.1 (c (n "pingora-pool") (v "0.1.1") (d (list (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru") (r "^0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pingora-timeout") (r "^0.1.1") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "io-util"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "1mhxmbcv06f1jdhgv4r9kdgg8bfdbdh3xqahbx8pz40c5iqqv9m2")))
+
+(define-public crate-pingora-pool-0.2.0 (c (n "pingora-pool") (v "0.2.0") (d (list (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru") (r "^0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pingora-timeout") (r "^0.2.0") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "io-util"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "07sssfr3r2sn9jhcxm0nh0653czqra8wnm1ac9khxnyryyfqa290")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ne s_ nes_core) #:use-module (crates-io))
+
+(define-public crate-nes_core-0.1.0 (c (n "nes_core") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "image") (r "^0.24.9") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0.109") (d #t) (k 2)))) (h "0a408mjnd913xpi1gyx27hkg25riibmhly9j5zlpxywkh825ma31") (y #t)))
+
+(define-public crate-nes_core-0.2.0 (c (n "nes_core") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.80") (k 0)) (d (n "bitflags") (r "^2.4.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "image") (r "^0.24.9") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (f (quote ("spin_no_std"))) (d #t) (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (f (quote ("libm"))) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0.109") (d #t) (k 2)))) (h "0d6j8l4a76drg2x00f6fgy0x07pdxzp44vl4wwyzf74nk2mwb27n")))
+

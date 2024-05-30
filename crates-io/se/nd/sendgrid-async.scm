@@ -1,0 +1,6 @@
+(define-module (crates-io se nd sendgrid-async) #:use-module (crates-io))
+
+(define-public crate-sendgrid-async-0.1.0 (c (n "sendgrid-async") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-h1") (r "^2.1") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (d #t) (k 0)) (d (n "async-tls") (r "^0.9") (f (quote ("client"))) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 0)) (d (n "http-types") (r "^2.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0zdqhfidwamhqn535lhx4yv6r8rfvfj4b6sn3i27im2yp16g5g8h")))
+
+(define-public crate-sendgrid-async-0.1.1 (c (n "sendgrid-async") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-h1") (r "^2.1") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (d #t) (k 0)) (d (n "async-tls") (r "^0.10.0") (f (quote ("client"))) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 0)) (d (n "http-types") (r "^2.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pdh1bd0bqkp15phcmnwzdvs5pbvan6x8cwa2f4bk70r4yil1p4z")))
+

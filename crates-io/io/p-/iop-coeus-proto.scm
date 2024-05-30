@@ -1,0 +1,6 @@
+(define-module (crates-io io p- iop-coeus-proto) #:use-module (crates-io))
+
+(define-public crate-iop-coeus-proto-0.0.15 (c (n "iop-coeus-proto") (v "0.0.15") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "iop-journal-proto") (r "^0.0.15") (d #t) (k 0)) (d (n "iop-keyvault") (r "^0.0.15") (d #t) (k 0)) (d (n "json-digest") (r "^0.0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.121") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "serde_str") (r "^0.1.0") (d #t) (k 0)))) (h "0sdlgl04skqv68l33qjm4amshj98kn1y8s6hkgz72b6s472p6m9p")))
+
+(define-public crate-iop-coeus-proto-0.0.16 (c (n "iop-coeus-proto") (v "0.0.16") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "iop-journal-proto") (r "^0.0.16") (d #t) (k 0)) (d (n "iop-keyvault") (r "^0.0.16") (d #t) (k 0)) (d (n "json-digest") (r "^0.0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.6") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "serde_str") (r "^0.1.0") (d #t) (k 0)))) (h "0xwy2305325bx9z9l68k7z9q0h62q42mycvpqadh637230qr1739")))
+

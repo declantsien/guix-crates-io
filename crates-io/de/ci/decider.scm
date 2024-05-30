@@ -1,0 +1,18 @@
+(define-module (crates-io de ci decider) #:use-module (crates-io))
+
+(define-public crate-decider-0.1.0 (c (n "decider") (v "0.1.0") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "09l2q5sw3va4xqxbkz4026aad0xss6m2z6ll1354ljpikjxp4da5")))
+
+(define-public crate-decider-0.1.1 (c (n "decider") (v "0.1.1") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "07qsrn0axjwdm655yang1xp7yk7sm32jawh4b15licvax0riixvx")))
+
+(define-public crate-decider-0.1.2 (c (n "decider") (v "0.1.2") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "1645i1r65vlb3mwvfgx8mfx976f30850plnrd0nfzscd3sqdgrqz")))
+
+(define-public crate-decider-0.1.3 (c (n "decider") (v "0.1.3") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "0h1h2vb5d2j8i9arryanh4126c2ph5xibpjs7xk9fzljdfxhl17v")))
+
+(define-public crate-decider-0.1.6 (c (n "decider") (v "0.1.6") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "1sxb8kmpxvsa6ilrn28da8k84m7ni61q4r3q60px7356xi1fdnn5")))
+
+(define-public crate-decider-0.1.7 (c (n "decider") (v "0.1.7") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "06r1h8rw8ipx4awn30vysvm3cqbbb0i20i890lj9bs2kgnacpnp9") (y #t)))
+
+(define-public crate-decider-0.1.8 (c (n "decider") (v "0.1.8") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "1d26x16ypq9bq69gslwhvr0c2gjxj7w9azhyhv9kqlhfw01ahpjr") (y #t)))
+
+(define-public crate-decider-0.1.9 (c (n "decider") (v "0.1.9") (d (list (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)))) (h "1zj9304zyy21b9c8r7nj02svjdnwjisjpfmkv6djg1c7dymdgjby") (y #t)))
+

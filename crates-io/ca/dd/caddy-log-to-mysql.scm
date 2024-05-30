@@ -1,0 +1,4 @@
+(define-module (crates-io ca dd caddy-log-to-mysql) #:use-module (crates-io))
+
+(define-public crate-caddy-log-to-mysql-0.1.0 (c (n "caddy-log-to-mysql") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "blake3") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.7.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-tokio-rustls" "offline" "mysql" "chrono"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-futures") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "12qb97wdqf4b5wf1rclvvf8x4a56yzg06x8ka5sdygvwlq21lqkg")))
+

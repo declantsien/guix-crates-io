@@ -1,0 +1,6 @@
+(define-module (crates-io bm p3 bmp390) #:use-module (crates-io))
+
+(define-public crate-bmp390-0.1.0 (c (n "bmp390") (v "0.1.0") (d (list (d (n "embedded-hal-async") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("eh1" "embedded-hal-async"))) (k 2)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "0jsfjapn6ii976rc4c5rpkkw82azfkwsjjjax8796ba5ksy07np0")))
+
+(define-public crate-bmp390-0.2.0 (c (n "bmp390") (v "0.2.0") (d (list (d (n "defmt") (r "^0.3.8") (d #t) (k 0)) (d (n "defmt") (r "^0.3.8") (f (quote ("unstable-test"))) (d #t) (k 2)) (d (n "embassy-time") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.10.0") (f (quote ("eh1" "embedded-hal-async"))) (k 2)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "uom") (r "^0.36.0") (f (quote ("f32" "si" "autoconvert"))) (k 0)))) (h "0718j121rgaks9i0kksv3vr685c5bdc0jy600818a78kw8n4jf73") (s 2) (e (quote (("embassy-time" "dep:embassy-time"))))))
+

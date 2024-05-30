@@ -1,0 +1,6 @@
+(define-module (crates-io do c- doc-assert) #:use-module (crates-io))
+
+(define-public crate-doc-assert-0.1.0 (c (n "doc-assert") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)))) (h "1cnf398fljqa7y2xqdp7nsqknd1nwwb1nd8z3vba5zaizavcz8pf") (f (quote (("binary" "clap" "tokio"))))))
+
+(define-public crate-doc-assert-0.1.1 (c (n "doc-assert") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "15z6sj6w76a4dwkca2f314lcajg3lkz8m13bpgv0ra510a8ji1rd") (f (quote (("binary" "clap"))))))
+

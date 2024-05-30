@@ -1,0 +1,16 @@
+(define-module (crates-io ve x- vex-rt-macros) #:use-module (crates-io))
+
+(define-public crate-vex-rt-macros-0.1.0 (c (n "vex-rt-macros") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1pbnxyndnwlhfslm3lh1bk4jpp8h2sa4d90r502dz01vd59wmq0v")))
+
+(define-public crate-vex-rt-macros-0.1.1 (c (n "vex-rt-macros") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "15y34yzih0hjdb6wjizim2jz9j33shbwvf0s97vj7w2q0gcwv8x6")))
+
+(define-public crate-vex-rt-macros-1.0.0-rc.1 (c (n "vex-rt-macros") (v "1.0.0-rc.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0v18ydqll3329cpyxpfl00v4sfb5h8vr45a5dn68gd8z5lb035lv")))
+
+(define-public crate-vex-rt-macros-1.0.0-rc.2 (c (n "vex-rt-macros") (v "1.0.0-rc.2") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1y9b9zqjg93b5zj8jzx1z5p0prks41gxd6fndqx8jg451lbrb94y")))
+
+(define-public crate-vex-rt-macros-1.0.0-rc.3 (c (n "vex-rt-macros") (v "1.0.0-rc.3") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1z5gdwsp1c6ilwbscrg0q356s76p26nmhxccr54jh36njr40ba2c")))
+
+(define-public crate-vex-rt-macros-1.0.0-rc.4 (c (n "vex-rt-macros") (v "1.0.0-rc.4") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1fgg2a2zv0lywakmj2pmghxnww8d3r3p1fvir46r0hhjzyn5b8kk")))
+
+(define-public crate-vex-rt-macros-1.0.0-rc.5 (c (n "vex-rt-macros") (v "1.0.0-rc.5") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "generics-util") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "177yd5gvijrizskzlcnh80rr93a7lmczic83agbnnrvp1ils0yjv")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io go og google-jwt-verify) #:use-module (crates-io))
+
+(define-public crate-google-jwt-verify-0.1.0 (c (n "google-jwt-verify") (v "0.1.0") (d (list (d (n "base64") (r "^0.9.1") (d #t) (k 0)) (d (n "openssl") (r "^0.10.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1kl8908d9lbfs87l8qyhxnmkydkpck34w40wqd7z48mp2famigmj")))
+
+(define-public crate-google-jwt-verify-0.2.0 (c (n "google-jwt-verify") (v "0.2.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "headers") (r "^0.3.1") (d #t) (k 0)) (d (n "openssl") (r "^0.10.28") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)))) (h "0bjvb60lvgh8ywpg32m6kkcbdysilbil9m4jcg6w6grz0h86ndqr")))
+
+(define-public crate-google-jwt-verify-0.3.0 (c (n "google-jwt-verify") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1.42") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "headers") (r "^0.3.1") (d #t) (k 0)) (d (n "openssl") (r "^0.10.28") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "0ngd86i83v4ysar7vd3klspgipgji1i76z395k199swfs0js7kmz") (f (quote (("default" "blocking") ("blocking" "reqwest/blocking") ("async" "async-trait"))))))
+

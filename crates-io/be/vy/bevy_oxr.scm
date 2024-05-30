@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_oxr) #:use-module (crates-io))
+
+(define-public crate-bevy_oxr-0.1.0 (c (n "bevy_oxr") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "ash") (r "^0.37.3") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (d #t) (k 2)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 2)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "openxr") (r "^0.17.1") (d #t) (t "cfg( target_family = \"unix\" )") (k 0)) (d (n "openxr") (r "^0.17.1") (f (quote ("static"))) (d #t) (t "cfg(not(target_family = \"unix\"))") (k 0)) (d (n "wgpu") (r "^0.17.1") (d #t) (k 0)) (d (n "wgpu-core") (r "^0.17.1") (f (quote ("vulkan"))) (d #t) (k 0)) (d (n "wgpu-hal") (r "^0.17.1") (d #t) (k 0)))) (h "0rqww08qq4c8yd1x5mgv48yv6rb3fin0dkn7r44lq6zkfz5ai62l") (f (quote (("linked" "openxr/linked") ("default" "openxr/mint" "linked"))))))
+

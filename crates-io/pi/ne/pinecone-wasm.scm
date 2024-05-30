@@ -1,0 +1,6 @@
+(define-module (crates-io pi ne pinecone-wasm) #:use-module (crates-io))
+
+(define-public crate-pinecone-wasm-0.1.0 (c (n "pinecone-wasm") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.0") (d #t) (k 0)))) (h "14g90ymrypwmg02alf5vm24fqla3ggnwgr9vvchph11w1wg61ljh") (f (quote (("http") ("default" "http")))) (y #t)))
+
+(define-public crate-pinecone-wasm-0.1.1 (c (n "pinecone-wasm") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros"))) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.0") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "04kc86wdzhpr3gsn25sy46xk8b9vczy2axqry42q4gxv8nn9q3sr") (f (quote (("wasm") ("rest") ("default" "rest")))) (y #t)))
+

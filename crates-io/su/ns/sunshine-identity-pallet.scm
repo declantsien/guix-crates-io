@@ -1,0 +1,6 @@
+(define-module (crates-io su ns sunshine-identity-pallet) #:use-module (crates-io))
+
+(define-public crate-sunshine-identity-pallet-0.1.0 (c (n "sunshine-identity-pallet") (v "0.1.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0-rc4") (k 0)) (d (n "frame-system") (r "^2.0.0-rc4") (k 0)) (d (n "orml-utilities") (r "^0.1.1") (k 0)) (d (n "sp-core") (r "^2.0.0-rc4") (k 0)) (d (n "sp-io") (r "^2.0.0-rc4") (k 0)) (d (n "sp-runtime") (r "^2.0.0-rc4") (k 0)))) (h "19g0mmmw30mwjcjndnd11i95h24wpj3wnwb52pnz1m2adkgjnmis") (f (quote (("std" "codec/std" "frame-support/std" "frame-system/std") ("default" "std"))))))
+
+(define-public crate-sunshine-identity-pallet-0.2.0 (c (n "sunshine-identity-pallet") (v "0.2.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0-rc4") (k 0)) (d (n "frame-system") (r "^2.0.0-rc4") (k 0)) (d (n "orml-utilities") (r "^0.1.1") (k 0)) (d (n "sp-core") (r "^2.0.0-rc4") (k 0)) (d (n "sp-io") (r "^2.0.0-rc4") (k 0)) (d (n "sp-runtime") (r "^2.0.0-rc4") (k 0)))) (h "0s87v2mfy5k4ymd4fs5dydfkqgqss7y6mqpgjfz5k1wmvfbjv4jp") (f (quote (("std" "codec/std" "frame-support/std" "frame-system/std") ("default" "std"))))))
+

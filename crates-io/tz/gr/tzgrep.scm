@@ -1,0 +1,8 @@
+(define-module (crates-io tz gr tzgrep) #:use-module (crates-io))
+
+(define-public crate-tzgrep-0.1.0 (c (n "tzgrep") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "bzip2") (r "^0.4.3") (d #t) (k 0)) (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "xz") (r "^0.1.0") (d #t) (k 0)) (d (n "zstd") (r "^0.11.2") (d #t) (k 0)))) (h "1dwclnkjrdnv1njp02fby6jz7a0p1m8nw52ai1b669k9mxc81a11")))
+
+(define-public crate-tzgrep-0.1.1 (c (n "tzgrep") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "bzip2") (r "^0.4.3") (d #t) (k 0)) (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "xz") (r "^0.1.0") (d #t) (k 0)) (d (n "zstd") (r "^0.11.2") (d #t) (k 0)))) (h "1pi5yacspmy3n8hq03lhqr0lrdfa6mjnr5jp9v13hbjrpbj80r30")))
+
+(define-public crate-tzgrep-0.1.2 (c (n "tzgrep") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "bzip2") (r "^0.4.4") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "xz") (r "^0.1.0") (d #t) (k 0)) (d (n "zstd") (r "^0.12.3") (d #t) (k 0)))) (h "0j05wxyxj3li5h19l7880knz172k12rz41d4awxf05qj838hs4x7")))
+

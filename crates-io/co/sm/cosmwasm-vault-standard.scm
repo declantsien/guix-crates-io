@@ -1,0 +1,6 @@
+(define-module (crates-io co sm cosmwasm-vault-standard) #:use-module (crates-io))
+
+(define-public crate-cosmwasm-vault-standard-0.1.0 (c (n "cosmwasm-vault-standard") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.1.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "cw20") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "0yr3bgh5siac7hlmvrkhajz5q7gd0dsbdl7rkxjxk5ibqbr4g26l") (f (quote (("lockup" "cw-utils") ("keeper") ("force-unlock") ("default") ("cw4626" "cw20"))))))
+
+(define-public crate-cosmwasm-vault-standard-0.1.1 (c (n "cosmwasm-vault-standard") (v "0.1.1") (d (list (d (n "cosmwasm-schema") (r ">=1.0.0, <=1.1.5") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "cw20") (r "^0.16.0") (o #t) (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (k 0)))) (h "1wkjn6ssavls2q8jy1yjbflv4y3bahhfajghnjd58b767mwdh70r") (f (quote (("lockup" "cw-utils") ("keeper") ("force-unlock") ("default") ("cw4626" "cw20"))))))
+

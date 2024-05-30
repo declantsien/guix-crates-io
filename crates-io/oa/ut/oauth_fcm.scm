@@ -1,0 +1,4 @@
+(define-module (crates-io oa ut oauth_fcm) #:use-module (crates-io))
+
+(define-public crate-oauth_fcm-0.1.0 (c (n "oauth_fcm") (v "0.1.0") (d (list (d (n "axum") (r "^0.7.5") (d #t) (k 2)) (d (n "jsonwebtoken") (r "^8.0") (d #t) (k 0)) (d (n "mockito") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.4") (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 2)))) (h "1mjxmy8rcly7sx1kgsl0syhmhvn7j2amjw2dxk1y7q4211q1kqfr")))
+

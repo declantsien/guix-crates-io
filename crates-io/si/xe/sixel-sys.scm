@@ -1,0 +1,10 @@
+(define-module (crates-io si xe sixel-sys) #:use-module (crates-io))
+
+(define-public crate-sixel-sys-0.1.0 (c (n "sixel-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.23") (d #t) (k 1)) (d (n "curl-sys") (r "^0.3.11") (o #t) (d #t) (k 0)) (d (n "gdk-pixbuf-sys") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "make-cmd") (r "^0.1.0") (d #t) (k 1)) (d (n "mozjpeg-sys") (r "^0.3.3") (o #t) (d #t) (k 0)))) (h "1vsyyp26k379vpgk0cilgyl9p61almnn88dibihar3zc5nlq9iz9") (f (quote (("python_interface") ("png") ("pixbuf" "gdk-pixbuf-sys") ("jpeg" "mozjpeg-sys") ("gd") ("curl" "curl-sys"))))))
+
+(define-public crate-sixel-sys-0.2.0 (c (n "sixel-sys") (v "0.2.0") (d (list (d (n "curl-sys") (r "^0.3.11") (o #t) (d #t) (k 0)) (d (n "gdk-pixbuf-sys") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "make-cmd") (r "^0.1.0") (d #t) (k 1)) (d (n "mozjpeg-sys") (r "^0.3.3") (o #t) (d #t) (k 0)))) (h "17vdb4lakaq3szi287wc2yc5lbg5wycmq5nc7cmy49hd4vg552lx") (f (quote (("python_interface") ("png") ("pixbuf" "gdk-pixbuf-sys") ("jpeg" "mozjpeg-sys") ("gd") ("curl" "curl-sys"))))))
+
+(define-public crate-sixel-sys-0.3.0 (c (n "sixel-sys") (v "0.3.0") (d (list (d (n "curl-sys") (r "^0.3.11") (o #t) (d #t) (k 0)) (d (n "gdk-pixbuf-sys") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "make-cmd") (r "^0.1.0") (d #t) (k 1)) (d (n "mozjpeg-sys") (r "^0.3.3") (o #t) (d #t) (k 0)))) (h "0rj55rwmc4pcz3mdzrhkninpxkx9rjkdzxclafhb38xpgmjpqplc") (f (quote (("python_interface") ("png") ("pixbuf" "gdk-pixbuf-sys") ("jpeg" "mozjpeg-sys") ("gd") ("curl" "curl-sys"))))))
+
+(define-public crate-sixel-sys-0.3.1 (c (n "sixel-sys") (v "0.3.1") (d (list (d (n "curl-sys") (r "^0.3.11") (o #t) (d #t) (k 0)) (d (n "gdk-pixbuf-sys") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "make-cmd") (r "^0.1.0") (d #t) (k 1)) (d (n "mozjpeg-sys") (r "^0.3.3") (o #t) (d #t) (k 0)))) (h "1skxz25ry792ili95zqzd10dsllxm6jp8hc4j01r3gv9ap6y0ipv") (f (quote (("python_interface") ("png") ("pixbuf" "gdk-pixbuf-sys") ("jpeg" "mozjpeg-sys") ("gd") ("curl" "curl-sys"))))))
+

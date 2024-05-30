@@ -1,0 +1,8 @@
+(define-module (crates-io tw it twitch-api-rs) #:use-module (crates-io))
+
+(define-public crate-twitch-api-rs-0.1.0 (c (n "twitch-api-rs") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "time") (r "^0.2") (f (quote ("std" "serde"))) (k 0)))) (h "1fwgj0hvzsnm9axhjq114dvm82xv79xig0sdxn4my8aw6qv8952m")))
+
+(define-public crate-twitch-api-rs-0.2.0 (c (n "twitch-api-rs") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "rustls-tls" "trust-dns"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "0q35r79mm4z81zlhmbrnkhxrwdcnzd6p0cwrmw9ig45gih6x3d86")))
+
+(define-public crate-twitch-api-rs-0.2.1 (c (n "twitch-api-rs") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "rustls-tls" "trust-dns"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "1pcbw5cbh2yl16429ff359q8n9malki30gkhx8m18242gzm2s6yf")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io an on anonymize_rs) #:use-module (crates-io))
+
+(define-public crate-anonymize_rs-0.0.1 (c (n "anonymize_rs") (v "0.0.1") (d (list (d (n "actix-web") (r "^4") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokenizers") (r "^0.13.3") (f (quote ("onig"))) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tract-onnx") (r "^0.20.7") (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "06bidd68f3g0gg6a499x973r2hhx8jw3d82j33fccssy25pzmwiw") (y #t)))
+

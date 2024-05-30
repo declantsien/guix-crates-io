@@ -1,0 +1,10 @@
+(define-module (crates-io to ki tokio-compat-02) #:use-module (crates-io))
+
+(define-public crate-tokio-compat-02-0.1.0 (c (n "tokio-compat-02") (v "0.1.0") (d (list (d (n "hyper") (r "^0.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio_02") (r "^0.2") (f (quote ("rt-threaded"))) (d #t) (k 0) (p "tokio")))) (h "1wh51nsxwdc7lqlj34jqvz7fqd45pd576hfj5hf3sxww1k9f8fnl")))
+
+(define-public crate-tokio-compat-02-0.1.1 (c (n "tokio-compat-02") (v "0.1.1") (d (list (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio_02") (r "^0.2.22") (f (quote ("rt-threaded"))) (d #t) (k 0) (p "tokio")))) (h "11swr8mc95c30pn6hrzzlcf4w1z3lqiv910900j56y3nia04sdav")))
+
+(define-public crate-tokio-compat-02-0.1.2 (c (n "tokio-compat-02") (v "0.1.2") (d (list (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.4") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("stream"))) (d #t) (k 0)) (d (n "tokio") (r "^0.3") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio_02") (r "^0.2.22") (f (quote ("rt-threaded"))) (d #t) (k 0) (p "tokio")))) (h "08kf571z4ib0nfi5x3m37384d5p7qpcfdakl5v1hcvwbkd0yqk5v")))
+
+(define-public crate-tokio-compat-02-0.2.0 (c (n "tokio-compat-02") (v "0.2.0") (d (list (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 2)) (d (n "once_cell") (r "^1.5") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio_02") (r "^0.2.22") (f (quote ("rt-threaded"))) (d #t) (k 0) (p "tokio")))) (h "01vyvimvyip9m779a3v5nvf3bm7sc9s949vs1bzqzgmp49w27m77")))
+

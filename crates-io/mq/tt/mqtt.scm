@@ -1,0 +1,10 @@
+(define-module (crates-io mq tt mqtt) #:use-module (crates-io))
+
+(define-public crate-mqtt-0.1.0 (c (n "mqtt") (v "0.1.0") (d (list (d (n "bitflags") (r "^0.7") (d #t) (k 0)) (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "nom") (r "^2.0") (d #t) (k 0)))) (h "0dvyyc1m250539f2imnpn0jsr4hd0samfi1xq7fa677i0vbsgrr7")))
+
+(define-public crate-mqtt-0.1.1 (c (n "mqtt") (v "0.1.1") (d (list (d (n "bitflags") (r "^0.7") (d #t) (k 0)) (d (n "byteorder") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "nom") (r "^2.0") (d #t) (k 0)))) (h "0md6dz23588dyph4hq2vy2rj2ijmzqk06ajhs0irfqk560anz6ns")))
+
+(define-public crate-mqtt-0.1.3 (c (n "mqtt") (v "0.1.3") (d (list (d (n "bitflags") (r "^0.9") (d #t) (k 0)) (d (n "byteorder") (r "^1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 2)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.10") (d #t) (k 0)) (d (n "itertools") (r "^0.6") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "nom") (r "^3.1") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rotor") (r "^0.6") (d #t) (k 0)) (d (n "slab") (r "^0.3") (d #t) (k 0)))) (h "15y2fj32wlmfpvjyy31p50dw9ylp373f452y0gbdz2d6axxlnpcf")))
+
+(define-public crate-mqtt-0.1.4 (c (n "mqtt") (v "0.1.4") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.1") (d #t) (k 0)) (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 2)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "nom") (r "^3.0") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rotor") (r "^0.6") (d #t) (k 0)) (d (n "slab") (r "^0.3") (d #t) (k 0)))) (h "11g842y3375kdp0h6yaq55izc8xximq216121cqvr756yac9dsdv")))
+

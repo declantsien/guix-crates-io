@@ -1,0 +1,16 @@
+(define-module (crates-io ic eo iceoryx2-bb-threadsafe) #:use-module (crates-io))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.0.4 (c (n "iceoryx2-bb-threadsafe") (v "0.0.4") (d (list (d (n "iceoryx2-bb-container") (r "^0.0.4") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.0.4") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.0.4") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.0.4") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.0.4") (d #t) (k 2)))) (h "08ad4x4q8q6jp05hd4cn3lsc513jlza6r4k23qhjc5allpgqhsca") (r "1.72.1")))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.0.5 (c (n "iceoryx2-bb-threadsafe") (v "0.0.5") (d (list (d (n "iceoryx2-bb-container") (r "^0.0.5") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.0.5") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.0.5") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.0.5") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.0.5") (d #t) (k 2)))) (h "1xrr0pgn3lmwxyqqmcg8iahq669incqdzg3rpazpy40xf9652rhq") (r "1.72.1")))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.1.0 (c (n "iceoryx2-bb-threadsafe") (v "0.1.0") (d (list (d (n "iceoryx2-bb-container") (r "^0.1.0") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.1.0") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.1.0") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.1.0") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.1.0") (d #t) (k 2)))) (h "0iw4y0nj4f7q8qwcq1mrkr4h5lky1fp796v8p6v0dh7s9mrd74vg") (r "1.72.1")))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.1.1 (c (n "iceoryx2-bb-threadsafe") (v "0.1.1") (d (list (d (n "iceoryx2-bb-container") (r "^0.1.1") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.1.1") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.1.1") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.1.1") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.1.1") (d #t) (k 2)))) (h "05088wabd4cfxqy54hxdw07mywvik28w7vpyzjyfj874mh5mp9kw") (r "1.72.1")))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.2.1 (c (n "iceoryx2-bb-threadsafe") (v "0.2.1") (d (list (d (n "iceoryx2-bb-container") (r "^0.2.1") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.2.1") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.2.1") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.2.1") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.2.1") (d #t) (k 2)))) (h "10wxirzvbghy36m6pw9dv2nbjlml7xr6sv3wqzikdx7ml2gj4xfl") (r "1.70")))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.2.2 (c (n "iceoryx2-bb-threadsafe") (v "0.2.2") (d (list (d (n "iceoryx2-bb-container") (r "^0.2.2") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.2.2") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.2.2") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.2.2") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.2.2") (d #t) (k 2)))) (h "1bx4jp0k64dkqnvn0hy1w89p58kcnhhqw5293vhmf7aw0768vb21") (r "1.70")))
+
+(define-public crate-iceoryx2-bb-threadsafe-0.3.0 (c (n "iceoryx2-bb-threadsafe") (v "0.3.0") (d (list (d (n "iceoryx2-bb-container") (r "^0.3.0") (d #t) (k 0)) (d (n "iceoryx2-bb-log") (r "^0.3.0") (d #t) (k 0)) (d (n "iceoryx2-bb-posix") (r "^0.3.0") (d #t) (k 0)) (d (n "iceoryx2-bb-testing") (r "^0.3.0") (d #t) (k 2)) (d (n "iceoryx2-pal-posix") (r "^0.3.0") (d #t) (k 2)))) (h "1y0510fjpj440ndny5birp1hxak287l31jm9h9v34dwzxc3siian") (r "1.73")))
+

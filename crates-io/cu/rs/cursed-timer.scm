@@ -1,0 +1,18 @@
+(define-module (crates-io cu rs cursed-timer) #:use-module (crates-io))
+
+(define-public crate-cursed-timer-0.1.0 (c (n "cursed-timer") (v "0.1.0") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "159qmadzq59q6r30yk1n74b3da58493q9bhgyhbcxv76yvcqs90j")))
+
+(define-public crate-cursed-timer-0.1.1 (c (n "cursed-timer") (v "0.1.1") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "1q0cryppqcdlbblp7j14ypj78si3y90nax72a1j644j4s8n1aw25")))
+
+(define-public crate-cursed-timer-0.1.2 (c (n "cursed-timer") (v "0.1.2") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "0kisx10jkci1fz6rh2dac3i0kinjn1fncwb79prv79lclzbkhr03")))
+
+(define-public crate-cursed-timer-0.2.0 (c (n "cursed-timer") (v "0.2.0") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "11h85p5qmhw6ik4h9xym9cawzkj7dm4k5jbs30jy1xacgfy1alwg")))
+
+(define-public crate-cursed-timer-0.2.1 (c (n "cursed-timer") (v "0.2.1") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "03cdl5ac9khhzq7mq2nh00ilr6a2day0irr9lsqx0wn78amlppmp")))
+
+(define-public crate-cursed-timer-0.2.2 (c (n "cursed-timer") (v "0.2.2") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "1ymfcnrbmjy4nn2p8qgsinisqdjin4sj17ky5ai4ad4fvfz4warf")))
+
+(define-public crate-cursed-timer-0.3.1 (c (n "cursed-timer") (v "0.3.1") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (o #t) (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "0wwhc7pyilfcqpmdscq1rvp93fl4x4zcbcxdfmg13ljczi71w8kp") (f (quote (("debug" "tracing" "tracing-subscriber"))))))
+
+(define-public crate-cursed-timer-0.3.3 (c (n "cursed-timer") (v "0.3.3") (d (list (d (n "cfonts") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (o #t) (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (d #t) (k 0)))) (h "1rfjqywhmlg8dffrmlcl42qhl3svkig0y11mzcal0czm85v715g2") (f (quote (("debug" "tracing" "tracing-subscriber"))))))
+

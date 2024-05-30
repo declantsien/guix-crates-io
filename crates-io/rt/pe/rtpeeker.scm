@@ -1,0 +1,4 @@
+(define-module (crates-io rt pe rtpeeker) #:use-module (crates-io))
+
+(define-public crate-rtpeeker-0.1.0 (c (n "rtpeeker") (v "0.1.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "etherparse") (r "^0.13.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "pcap") (r "^1.0.0") (f (quote ("capture-stream"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "rtpeeker_common") (r "^0.1") (d #t) (k 0)) (d (n "rust-embed") (r "^8.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "warp") (r "^0.3") (d #t) (k 0)))) (h "01wj1snv6xwi1s11kgkqs5i7sh5knr1ai3dc98xa113l443yn5y2")))
+

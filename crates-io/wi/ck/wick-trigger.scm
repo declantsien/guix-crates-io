@@ -1,0 +1,4 @@
+(define-module (crates-io wi ck wick-trigger) #:use-module (crates-io))
+
+(define-public crate-wick-trigger-0.1.0 (c (n "wick-trigger") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (f (quote ("std"))) (k 2)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "futures") (r "^0.3") (f (quote ("std"))) (k 2)) (d (n "pretty_assertions") (r "^1.3") (f (quote ("std"))) (k 2)) (d (n "reqwest") (r "~0.11.16") (k 2)) (d (n "structured-output") (r "^0.1.1") (k 0)) (d (n "test-logger") (r "^0.2.0") (d #t) (k 2) (p "wick-test-logger")) (d (n "thiserror") (r "^1.0") (k 0)) (d (n "tokio") (r "^1.33") (f (quote ("rt-multi-thread" "macros"))) (k 2)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "url") (r "^2.3") (k 0)) (d (n "wick-config") (r "^0.28.0") (k 0)) (d (n "wick-config") (r "^0.28.0") (f (quote ("v1"))) (k 2)) (d (n "wick-logger") (r "^0.4.0") (d #t) (k 2)) (d (n "wick-runtime") (r "^0.24.0") (d #t) (k 0)))) (h "0n1s7g95ziq5p3z9fxjlfh389wb7xb8gnkxd30nhf4x18mjijsga")))
+

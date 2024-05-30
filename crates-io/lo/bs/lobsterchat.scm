@@ -1,0 +1,8 @@
+(define-module (crates-io lo bs lobsterchat) #:use-module (crates-io))
+
+(define-public crate-lobsterchat-0.4.0 (c (n "lobsterchat") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "logos") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_with") (r "^2.0.0-rc.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "020j9fiziwjs6q83237nh49vdbabfzw195v4w0kjgqlqvrkg90cd") (f (quote (("minimessage") ("default"))))))
+
+(define-public crate-lobsterchat-0.4.1 (c (n "lobsterchat") (v "0.4.1") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "logos") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_with") (r "^2.0.0-rc.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1xrdh9bz6m2gamsd32vfihc5xcng58iddk695s1hn5nlncrxfdmv") (f (quote (("minimessage") ("default" "minimessage"))))))
+
+(define-public crate-lobsterchat-0.4.2 (c (n "lobsterchat") (v "0.4.2") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "logos") (r "^0.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_with") (r "^2.0.0-rc.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0f060dmrw72c6x8nr9kf2x9fw8nq9qyna5qhyjfqq1gfx37il0xy") (f (quote (("minimessage") ("default" "minimessage"))))))
+

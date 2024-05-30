@@ -1,0 +1,8 @@
+(define-module (crates-io li bi libime-history-merge) #:use-module (crates-io))
+
+(define-public crate-libime-history-merge-0.1.0 (c (n "libime-history-merge") (v "0.1.0") (d (list (d (n "libc") (r "^0.2.117") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pager") (r "^0.16.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.1.0") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "0dwidwp26dy71qn4nw8asl1skpa6pyw139xq5g4zrw5ykinxm8jk")))
+
+(define-public crate-libime-history-merge-0.2.0 (c (n "libime-history-merge") (v "0.2.0") (d (list (d (n "libc") (r "^0.2.117") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pager") (r "^0.16.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.1.0") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "1caqa47yw4mkjyd6nsq6vgq88c536vmvd8wkvjfa058p7pzzkvhw")))
+
+(define-public crate-libime-history-merge-0.3.0 (c (n "libime-history-merge") (v "0.3.0") (d (list (d (n "edit") (r "^0.1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pager") (r "^0.16.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "0pk5z8dxvz9n1dvrwrykpacpsk3wqha8z1pbczb5ijbnvvfs5928")))
+

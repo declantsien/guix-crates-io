@@ -1,0 +1,4 @@
+(define-module (crates-io rs ta rstationhub) #:use-module (crates-io))
+
+(define-public crate-rstationhub-0.0.0 (c (n "rstationhub") (v "0.0.0") (d (list (d (n "better-panic") (r "^0.2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("blocking" "json"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simple-logging") (r "^2.0.2") (d #t) (k 0)) (d (n "tui") (r "^0.16.0") (f (quote ("crossterm"))) (k 0)))) (h "0disqvk86f4kxyrsf43h6lly8ymg6nrfg0qzpb896mas90gg8mjv") (f (quote (("rustls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("geolocation") ("default" "rustls" "geolocation")))) (y #t)))
+

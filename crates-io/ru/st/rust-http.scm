@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rust-http) #:use-module (crates-io))
+
+(define-public crate-rust-http-0.1.0 (c (n "rust-http") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "futures") (r "^0.3.6") (f (quote ("async-await"))) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "route-recognizer") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-threaded"))) (d #t) (k 0)))) (h "1bk4d27c4qmwxndnpm6hc048irw772yn56s1m7939jhi2gkbyvni") (y #t)))
+
+(define-public crate-rust-http-0.2.0 (c (n "rust-http") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^0.5") (d #t) (k 0)) (d (n "futures") (r "^0.3.6") (f (quote ("async-await"))) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "route-recognizer") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros" "rt-threaded"))) (d #t) (k 0)))) (h "1wp5z6kiq4ibsk2vpmb8mazkqbz9w40ra82zdcy96abb23mfk5dh") (y #t)))
+

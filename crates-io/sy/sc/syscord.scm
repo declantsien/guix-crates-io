@@ -1,0 +1,6 @@
+(define-module (crates-io sy sc syscord) #:use-module (crates-io))
+
+(define-public crate-syscord-0.1.0 (c (n "syscord") (v "0.1.0") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1") (d #t) (k 0)) (d (n "discord-sdk") (r "^0.1") (d #t) (k 0)) (d (n "os_type") (r "^2.3") (d #t) (k 0)) (d (n "sysinfo") (r "^0.19") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "18yc3wsvnk2715s1ai9lsigq9fp7g6f8hgjxj2ia1kcr0f0k1mil")))
+
+(define-public crate-syscord-0.1.1 (c (n "syscord") (v "0.1.1") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1") (d #t) (k 0)) (d (n "discord-sdk") (r "^0.1") (d #t) (k 0)) (d (n "os_type") (r "^2.3") (d #t) (k 0)) (d (n "sysinfo") (r "^0.19") (d #t) (k 0)) (d (n "tokio") (r "^1.9") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "1biprm02jlk7rc5yl0qynk0qyqizmfj46923hnkx7cmsz7vsy6r3")))
+

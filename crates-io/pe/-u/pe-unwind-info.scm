@@ -1,0 +1,14 @@
+(define-module (crates-io pe -u pe-unwind-info) #:use-module (crates-io))
+
+(define-public crate-pe-unwind-info-0.1.0 (c (n "pe-unwind-info") (v "0.1.0") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "memmap2") (r "^0.7") (d #t) (k 2)) (d (n "object") (r "^0.31") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "1slcpyqfiylzy2kbjl39fc4m8ggl5gjpkx9zyx0zklln30gr0yrw")))
+
+(define-public crate-pe-unwind-info-0.1.1 (c (n "pe-unwind-info") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "memmap2") (r "^0.7") (d #t) (k 2)) (d (n "object") (r "^0.31") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.6") (d #t) (k 0)))) (h "089hf87c26zbh3vf8sk1rxy0mn1d58wlpq1hpar0jvpp8mi5q16v")))
+
+(define-public crate-pe-unwind-info-0.2.0 (c (n "pe-unwind-info") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "memmap2") (r "^0.7") (d #t) (k 2)) (d (n "object") (r "^0.31") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "13gmwlyk9yk3fp34yra6gqzr10sxi0prmcj9860y08km5q53ymik")))
+
+(define-public crate-pe-unwind-info-0.2.1 (c (n "pe-unwind-info") (v "0.2.1") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "memmap2") (r "^0.7") (d #t) (k 2)) (d (n "object") (r "^0.31") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (d #t) (k 0)) (d (n "zerocopy-derive") (r "^0.7.32") (d #t) (k 0)))) (h "1ry29ciwb3law2r0w4m3yfiwgzfqqsnb8ib6d6b9l06cr9h32l00")))
+
+(define-public crate-pe-unwind-info-0.2.2 (c (n "pe-unwind-info") (v "0.2.2") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "memmap2") (r "^0.7") (d #t) (k 2)) (d (n "object") (r "^0.31") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (d #t) (k 0)) (d (n "zerocopy-derive") (r "^0.7.32") (d #t) (k 0)))) (h "069g77417336avmd9mggy13la6rxjkya9fbr88n9ccsgvp0k694y")))
+
+(define-public crate-pe-unwind-info-0.2.3 (c (n "pe-unwind-info") (v "0.2.3") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "memmap2") (r "^0.7") (d #t) (k 2)) (d (n "object") (r "^0.31") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (d #t) (k 0)) (d (n "zerocopy-derive") (r "^0.7.32") (d #t) (k 0)))) (h "149qgir9f980nyvwjhxk668klvlmx5sdh5vyx2fzp3y3a0qb9hvf")))
+

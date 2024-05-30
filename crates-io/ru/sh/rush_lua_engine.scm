@@ -1,0 +1,4 @@
+(define-module (crates-io ru sh rush_lua_engine) #:use-module (crates-io))
+
+(define-public crate-rush_lua_engine-0.1.0 (c (n "rush_lua_engine") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "async-channel") (r "^1.9.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "mlua") (r "^0.9.1") (f (quote ("lua54" "vendored" "serialize" "async"))) (d #t) (k 0)) (d (n "rush_core") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "wd_tools") (r "^0.8.12") (f (quote ("point-free" "sync"))) (d #t) (k 0)))) (h "1ginl25wcw9cavjlr09vii4nynnbl8ck4syc8700ziqpl56abym4") (f (quote (("rule-flow" "rush_core"))))))
+

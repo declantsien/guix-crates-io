@@ -1,0 +1,20 @@
+(define-module (crates-io ku rl kurl) #:use-module (crates-io))
+
+(define-public crate-kurl-0.1.0 (c (n "kurl") (v "0.1.0") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0hb2vkkwqb5sb918yg1rzvb8fh4j1bzi3rv80n2mjwi6x98hpd6j")))
+
+(define-public crate-kurl-0.1.1 (c (n "kurl") (v "0.1.1") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0paxcsmsay45c6ag890wsdnbsdhmsaq17vjq73zswyjb7nr90zqp")))
+
+(define-public crate-kurl-0.1.2 (c (n "kurl") (v "0.1.2") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0c0zsd0rfhlsd6a7k50gsx8735l3296ivmbsw7v91z3arb1sx4zq")))
+
+(define-public crate-kurl-0.1.3 (c (n "kurl") (v "0.1.3") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0igpgly81dxj1c6679qy0c4klp4w1jsqnhn4g4m8f92rq09727lg")))
+
+(define-public crate-kurl-0.1.4 (c (n "kurl") (v "0.1.4") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "17zh0m2rdgw4yv7rlhd9bavlmszzwaamjw1jpqqz2mqwban3m926")))
+
+(define-public crate-kurl-0.1.5 (c (n "kurl") (v "0.1.5") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "04c6f410fp0mm0jbzj3479jpdbm3vbq480zq4x2b9aji8yz471wv")))
+
+(define-public crate-kurl-0.1.6 (c (n "kurl") (v "0.1.6") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "xmltree") (r "^0.10") (d #t) (k 0)))) (h "0cmgcja3z8x6c2r6xahr9y58byxdg2vzzxa9k70mq75mp2kfpp3w")))
+
+(define-public crate-kurl-0.2.0 (c (n "kurl") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "native-tls"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "snailquote") (r "^0.3") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)) (d (n "xmltree") (r "^0.10") (d #t) (k 0)))) (h "07rwcvmcq577xr8cpaz5cvvm75wz5i34klni5zlhk0c4kgrfl3p5")))
+
+(define-public crate-kurl-0.2.1 (c (n "kurl") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "native-tls"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "snailquote") (r "^0.3") (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.8") (d #t) (k 0)) (d (n "xmltree") (r "^0.10") (d #t) (k 0)))) (h "1mgyin4yy9f5l4rqqaksjdxaad1ls8k65hzakyi0r2ilbvag9979")))
+

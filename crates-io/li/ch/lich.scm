@@ -1,0 +1,10 @@
+(define-module (crates-io li ch lich) #:use-module (crates-io))
+
+(define-public crate-lich-0.1.0 (c (n "lich") (v "0.1.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "ring") (r "^0.9") (d #t) (k 0)) (d (n "rpassword") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "09qr3psanfi5hhwk5l7243l28c9ag74vxdcv3w1fb17b1y03lqy9") (f (quote (("serialization" "serde_derive" "serde"))))))
+
+(define-public crate-lich-0.1.1 (c (n "lich") (v "0.1.1") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "ring") (r "^0.9") (d #t) (k 0)) (d (n "rpassword") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "04r3jzam81v1xsy6mhh2331a7l5h927f0j33mgqfn9y1x06cd1v5") (f (quote (("serialization" "serde_derive" "serde"))))))
+
+(define-public crate-lich-0.1.2 (c (n "lich") (v "0.1.2") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "ring") (r "^0.9") (d #t) (k 0)) (d (n "rpassword") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "05h46ya81xmz2m3z1skxg8jadn3zhsw9c26b696yn67vmc4p1y4f") (f (quote (("serialization" "serde_derive" "serde"))))))
+
+(define-public crate-lich-0.2.0 (c (n "lich") (v "0.2.0") (d (list (d (n "clap") (r "^2.24") (d #t) (k 0)) (d (n "ring") (r "^0.9") (d #t) (k 0)) (d (n "rpassword") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2") (o #t) (d #t) (k 0)))) (h "06yblh2h514v365qnchrsiglrxq8pgj7whxcrcg88p7d4cdqqmq3") (f (quote (("serialization" "serde_derive" "serde"))))))
+

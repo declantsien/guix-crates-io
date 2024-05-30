@@ -1,0 +1,4 @@
+(define-module (crates-io rc ki rckive-genpdf) #:use-module (crates-io))
+
+(define-public crate-rckive-genpdf-0.4.0 (c (n "rckive-genpdf") (v "0.4.0") (d (list (d (n "derive_more") (r "^0.99") (f (quote ("add" "add_assign" "from" "into" "mul" "mul_assign" "sum"))) (k 0)) (d (n "float-cmp") (r "^0.9") (f (quote ("std"))) (k 2)) (d (n "hyphenation") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "hyphenation") (r "^0.8") (f (quote ("embed_en-us"))) (d #t) (k 2)) (d (n "lopdf") (r "^0.29") (f (quote ("pom_parser"))) (k 0)) (d (n "printpdf") (r "^0.5.3") (k 0)) (d (n "rusttype") (r "^0.9") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.12.3") (d #t) (k 0)))) (h "0h9rzw40v01z4rzcyn51hv7bmyyhgrq5v3kg28pg0whxl9wpd9pb") (f (quote (("pdf_comparison_tests" "images") ("images" "printpdf/embedded_images") ("default"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io lo ad loadcell) #:use-module (crates-io))
+
+(define-public crate-loadcell-0.1.0 (c (n "loadcell") (v "0.1.0") (d (list (d (n "critical-section") (r "^1.1.2") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "esp-backtrace") (r "^0.8.0") (f (quote ("esp32" "panic-handler" "exception-handler" "print-uart"))) (d #t) (k 2)) (d (n "esp-println") (r "^0.6.0") (f (quote ("esp32" "log"))) (d #t) (k 2)) (d (n "esp32-hal") (r "^0.15.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.18") (d #t) (k 2)))) (h "02lwiafwykhdf8vfhikp9s76x52l1vsn6kd79fkg1723g5aihyld") (f (quote (("esp32_interrupt" "esp32-hal") ("default"))))))
+
+(define-public crate-loadcell-0.2.0 (c (n "loadcell") (v "0.2.0") (d (list (d (n "critical-section") (r "^1.1.2") (d #t) (k 0)) (d (n "critical-section") (r "^1.1.2") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "esp-backtrace") (r "^0.8.0") (f (quote ("esp32" "panic-handler" "exception-handler" "print-uart"))) (d #t) (k 2)) (d (n "esp-println") (r "^0.6.0") (f (quote ("esp32" "log"))) (d #t) (k 2)) (d (n "esp32-hal") (r "^0.17.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.18") (d #t) (k 2)))) (h "09y6msbk1xc52yyvsab9msxvlml1mib3nbj1sxiy9m1vqlm66mzm") (f (quote (("esp32_interrupt" "esp32-hal") ("default"))))))
+

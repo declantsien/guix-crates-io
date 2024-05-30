@@ -1,0 +1,6 @@
+(define-module (crates-io ob jc objc2-accounts) #:use-module (crates-io))
+
+(define-public crate-objc2-accounts-0.0.0 (c (n "objc2-accounts") (v "0.0.0") (h "0j24w6m0pz8wqvvc6zmn4mny1qq1nbyasf6i6qc7my2dxncc4a4d")))
+
+(define-public crate-objc2-accounts-0.2.2 (c (n "objc2-accounts") (v "0.2.2") (d (list (d (n "block2") (r "^0.5.1") (o #t) (k 0)) (d (n "objc2") (r "^0.5.2") (k 0)) (d (n "objc2-foundation") (r "^0.2.2") (k 0)))) (h "02pyb1mjxa1xhvkw2lf7wv875bp60x6pjf3nlb9qkhbbpkkhv2p4") (f (quote (("default" "std") ("all" "ACAccount" "ACAccountCredential" "ACAccountStore" "ACAccountType" "ACError" "AccountsDefines" "block2") ("AccountsDefines") ("ACError" "objc2-foundation/NSString") ("ACAccountType" "objc2-foundation/NSString") ("ACAccountStore" "objc2-foundation/NSArray" "objc2-foundation/NSDictionary" "objc2-foundation/NSError" "objc2-foundation/NSString") ("ACAccountCredential" "objc2-foundation/NSDate" "objc2-foundation/NSString") ("ACAccount" "objc2-foundation/NSString")))) (s 2) (e (quote (("std" "alloc" "block2?/std" "objc2/std" "objc2-foundation/std") ("block2" "dep:block2" "objc2-foundation/block2") ("alloc" "block2?/alloc" "objc2/alloc" "objc2-foundation/alloc")))) (r "1.60")))
+

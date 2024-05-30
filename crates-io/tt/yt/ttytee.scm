@@ -1,0 +1,8 @@
+(define-module (crates-io tt yt ttytee) #:use-module (crates-io))
+
+(define-public crate-ttytee-1.0.0 (c (n "ttytee") (v "1.0.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.2") (d #t) (k 2)) (d (n "log") (r "^0.4") (f (quote ("max_level_debug" "release_max_level_warn"))) (d #t) (k 0)) (d (n "log-panics") (r "^2.1") (f (quote ("with-backtrace"))) (d #t) (k 0)) (d (n "serialport") (r "^4.2") (k 0)) (d (n "simplelog") (r "^0.12") (f (quote ("paris"))) (d #t) (k 0)))) (h "1cvbn5j7lg6pdbfvjqxbmdkyaxnbhh7zq235cym7g4lf77zdnqpc")))
+
+(define-public crate-ttytee-1.0.1 (c (n "ttytee") (v "1.0.1") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.2") (d #t) (k 2)) (d (n "log") (r "^0.4") (f (quote ("max_level_debug" "release_max_level_warn"))) (d #t) (k 0)) (d (n "log-panics") (r "^2.1") (f (quote ("with-backtrace"))) (d #t) (k 0)) (d (n "serialport") (r "^4.2") (k 0)) (d (n "simplelog") (r "^0.12") (f (quote ("paris"))) (d #t) (k 0)))) (h "1aq56bl4q79dzx4jvx7952iwysdzk4z891z7vky7b727bqs8pk8l")))
+
+(define-public crate-ttytee-1.0.2 (c (n "ttytee") (v "1.0.2") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.2") (d #t) (k 2)) (d (n "log") (r "^0.4") (f (quote ("max_level_debug" "release_max_level_warn"))) (d #t) (k 0)) (d (n "log-panics") (r "^2.1") (f (quote ("with-backtrace"))) (d #t) (k 0)) (d (n "serialport") (r "^4.2") (k 0)) (d (n "simplelog") (r "^0.12") (f (quote ("paris"))) (d #t) (k 0)))) (h "0anzn3aa4vi7jfma3agjlh1nr6kbssa0lkkxm5bq11dqh4ckilx9")))
+

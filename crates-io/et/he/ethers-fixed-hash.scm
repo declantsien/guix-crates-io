@@ -1,0 +1,4 @@
+(define-module (crates-io et he ethers-fixed-hash) #:use-module (crates-io))
+
+(define-public crate-ethers-fixed-hash-0.8.0 (c (n "ethers-fixed-hash") (v "0.8.0") (d (list (d (n "arbitrary") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.2") (o #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (o #t) (k 0)) (d (n "rand") (r "^0.8.0") (f (quote ("std_rng"))) (k 2)) (d (n "rand_xorshift") (r "^0.3.0") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.0.1") (o #t) (k 0)) (d (n "static_assertions") (r "^1.0.0") (d #t) (k 0)))) (h "07agmlmswsyar2ki47zd8k2yj1mk69awjfjyby2sdjfgqhp63nma") (f (quote (("std" "rustc-hex/std" "rand/std" "byteorder/std") ("default" "std" "rand" "rustc-hex" "byteorder") ("api-dummy")))) (r "1.56.1")))
+

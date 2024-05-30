@@ -1,0 +1,26 @@
+(define-module (crates-io ju bj jubjub) #:use-module (crates-io))
+
+(define-public crate-jubjub-0.0.0 (c (n "jubjub") (v "0.0.0") (h "08b7z6a9f2zxi8q84scxfdrvacs6bpsayj7c1v76mmmhcngvmd01")))
+
+(define-public crate-jubjub-0.1.0 (c (n "jubjub") (v "0.1.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "rand_core") (r "^0.4") (k 2)) (d (n "rand_xorshift") (r "^0.1") (k 2)) (d (n "subtle") (r "^2") (k 0)))) (h "17m3f5a4cdvfm9kdfagl0kjhxcrppdhcarjsyb2inpsjqrj8skrf") (f (quote (("std") ("nightly" "subtle/nightly") ("default" "std"))))))
+
+(define-public crate-jubjub-0.2.0 (c (n "jubjub") (v "0.2.0") (d (list (d (n "byteorder") (r "^1") (k 0)) (d (n "rand_core") (r "^0.4") (k 2)) (d (n "rand_xorshift") (r "^0.1") (k 2)) (d (n "subtle") (r "^2.1") (k 0)))) (h "0simikr8s3ng0np3k9gfjd4wpirzl65crpzwvl2838x1hy3z9pcz") (f (quote (("std") ("nightly" "subtle/nightly") ("default" "std"))))))
+
+(define-public crate-jubjub-0.3.0 (c (n "jubjub") (v "0.3.0") (d (list (d (n "bls12_381") (r "^0.1") (k 0)) (d (n "rand_core") (r "^0.5") (k 2)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "0y5rg03dcs5rzqma13dq0rpqi60z9d9kk16y96ysaygsnnrcdb5a") (f (quote (("default"))))))
+
+(define-public crate-jubjub-0.4.0 (c (n "jubjub") (v "0.4.0") (d (list (d (n "bls12_381") (r "^0.2") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.7") (k 0)) (d (n "group") (r "^0.7") (k 0)) (d (n "rand_core") (r "^0.5") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "1rlhkkm5jyn8liglciygkscgm3c1ya2j5szvf3r07623v7ldgc63") (f (quote (("default"))))))
+
+(define-public crate-jubjub-0.5.0 (c (n "jubjub") (v "0.5.0") (d (list (d (n "bitvec") (r "^0.18") (k 0)) (d (n "bls12_381") (r "^0.3") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.8") (k 0)) (d (n "group") (r "^0.8") (k 0)) (d (n "rand_core") (r "^0.5") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "0nb47ylc5w3vzkl611hklbifrb22fv9xpzij6qh5amavnx01yl3r") (f (quote (("default" "alloc") ("alloc" "group/alloc"))))))
+
+(define-public crate-jubjub-0.5.1 (c (n "jubjub") (v "0.5.1") (d (list (d (n "bitvec") (r "^0.18") (k 0)) (d (n "bls12_381") (r "^0.3.1") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.8") (k 0)) (d (n "group") (r "^0.8") (k 0)) (d (n "rand_core") (r "^0.5") (k 0)) (d (n "rand_xorshift") (r "^0.2") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "0m9cdakcw2q1dw34bwv7cy1ci6l0r4y1xqnay16kzll07fpkh1k2") (f (quote (("default" "alloc") ("alloc" "group/alloc"))))))
+
+(define-public crate-jubjub-0.6.0 (c (n "jubjub") (v "0.6.0") (d (list (d (n "bitvec") (r "^0.20") (k 0)) (d (n "bls12_381") (r "^0.4") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.9") (k 0)) (d (n "group") (r "^0.9") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_xorshift") (r "^0.3") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "1jk6crx414nghsnc4451cx0fdb65yfvpahgki7fjcyxfhpppyzjd") (f (quote (("default" "alloc") ("alloc" "group/alloc"))))))
+
+(define-public crate-jubjub-0.7.0 (c (n "jubjub") (v "0.7.0") (d (list (d (n "bitvec") (r "^0.22") (k 0)) (d (n "bls12_381") (r "^0.5") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.10") (k 0)) (d (n "group") (r "^0.10") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_xorshift") (r "^0.3") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "1vqlc1f93ys4icq7j6lrjqh5rqhrcy14vaqqxr3xn3m8dirc8gsr") (f (quote (("default" "alloc" "bits") ("bits" "ff/bits") ("alloc" "group/alloc"))))))
+
+(define-public crate-jubjub-0.8.0 (c (n "jubjub") (v "0.8.0") (d (list (d (n "bitvec") (r "^0.22") (k 0)) (d (n "bls12_381") (r "^0.6") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.11") (k 0)) (d (n "group") (r "^0.11") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_xorshift") (r "^0.3") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "0k5h710q0yf91xvlb5pzxmjlaq0s21w132fl8n8kzs6l37nbmrz2") (f (quote (("default" "alloc" "bits") ("bits" "ff/bits") ("alloc" "ff/alloc" "group/alloc"))))))
+
+(define-public crate-jubjub-0.9.0 (c (n "jubjub") (v "0.9.0") (d (list (d (n "bitvec") (r "^1") (k 0)) (d (n "bls12_381") (r "^0.7") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "ff") (r "^0.12") (k 0)) (d (n "group") (r "^0.12") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_xorshift") (r "^0.3") (k 2)) (d (n "subtle") (r "^2.2.1") (k 0)))) (h "03vvs9l22ni2zlllb59b0dcnbi6gmkv4yrh55ddwvqazk1gxyxd5") (f (quote (("default" "alloc" "bits") ("bits" "ff/bits") ("alloc" "ff/alloc" "group/alloc"))))))
+
+(define-public crate-jubjub-0.10.0 (c (n "jubjub") (v "0.10.0") (d (list (d (n "bitvec") (r "^1") (k 0)) (d (n "bls12_381") (r "^0.8") (k 0)) (d (n "ff") (r "^0.13") (k 0)) (d (n "group") (r "^0.13") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "subtle") (r "^2.2.1") (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "csv") (r ">=1.0, <1.2") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.3") (k 2)))) (h "0qbfvvr97zhy8l2bd67i9pld6k9yw6ihirm2nbngpah882kzg6c4") (f (quote (("default" "alloc" "bits") ("bits" "ff/bits") ("alloc" "ff/alloc" "group/alloc"))))))
+

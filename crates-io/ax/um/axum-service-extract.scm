@@ -1,0 +1,6 @@
+(define-module (crates-io ax um axum-service-extract) #:use-module (crates-io))
+
+(define-public crate-axum-service-extract-0.1.0 (c (n "axum-service-extract") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (k 2)) (d (n "axum") (r "^0.4") (k 0)) (d (n "axum") (r "^0.4") (f (quote ("http1"))) (k 2)) (d (n "futures-util") (r "^0.3") (f (quote ("std"))) (k 2)) (d (n "hyper") (r "^0.14") (k 2)) (d (n "isahc") (r "^1.6") (k 2)) (d (n "portpicker") (r "^0.1") (k 2)) (d (n "serde") (r "^1.0") (k 0)) (d (n "tokio") (r "^1.16") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (k 2)))) (h "0yk05rkm9vik34lhsz51qmgdybg16k6jf9rn1vr9fjlamhq3g0vk")))
+
+(define-public crate-axum-service-extract-0.2.0 (c (n "axum-service-extract") (v "0.2.0") (d (list (d (n "axum") (r "~0.5") (f (quote ("matched-path"))) (k 0)) (d (n "serde") (r "^1") (k 0)) (d (n "async-trait") (r "^0.1") (k 2)) (d (n "axum") (r "~0.5") (f (quote ("http1"))) (k 2)) (d (n "hyper") (r "^0.14") (k 2)) (d (n "isahc") (r "^1") (k 2)) (d (n "portpicker") (r "^0.1") (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (k 2)))) (h "1rn2nmjsavh4h4qimmlyf5rqp6f8k8wwccya2q5hxp4b78bv13kp")))
+

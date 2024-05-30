@@ -1,0 +1,10 @@
+(define-module (crates-io cr ys crystal_ball) #:use-module (crates-io))
+
+(define-public crate-crystal_ball-0.1.0 (c (n "crystal_ball") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.0") (d #t) (k 0)) (d (n "oidn") (r "^1.3.1") (o #t) (d #t) (k 0)) (d (n "random-fast-rng") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)))) (h "1m5qi5p11ky5pqlybgh0112lirwysdz8fq5sl28ir1kvjy13j30s")))
+
+(define-public crate-crystal_ball-0.1.1 (c (n "crystal_ball") (v "0.1.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.0") (d #t) (k 0)) (d (n "oidn") (r "^1.3.1") (o #t) (d #t) (k 0)) (d (n "random-fast-rng") (r "^0.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.5.0") (d #t) (k 0)))) (h "0vh990a8kms8848nkp4ln55q3wqjvm0g3nz997i7bl22w4rldshf")))
+
+(define-public crate-crystal_ball-0.2.0 (c (n "crystal_ball") (v "0.2.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.0") (d #t) (k 0)) (d (n "nanorand") (r "^0.5.2") (d #t) (k 0)) (d (n "oidn") (r "^1.3.1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "18c7sbxm1pm63w6lqy4wpqk98kypjj5gs89vjm54jj41lqa37xdp")))
+
+(define-public crate-crystal_ball-0.3.0 (c (n "crystal_ball") (v "0.3.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "crystal_ball_derive") (r "^0.3.0") (d #t) (k 0)) (d (n "floydrivest") (r "^0.2.4") (d #t) (k 0)) (d (n "gltf") (r "^1.0.0") (f (quote ("KHR_materials_transmission" "KHR_materials_ior" "KHR_materials_emissive_strength"))) (d #t) (k 0)) (d (n "image") (r "^0.24.8") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "nanorand") (r "^0.7.0") (f (quote ("std" "wyrand" "tls"))) (k 0)) (d (n "oidn") (r "^1.4.1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "0yfq4hsp03gy8jsbhg54s46hb8j71bxbkc69ygm40jiv362n4ds5")))
+

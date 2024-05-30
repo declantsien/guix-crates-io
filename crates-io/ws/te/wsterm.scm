@@ -1,0 +1,4 @@
+(define-module (crates-io ws te wsterm) #:use-module (crates-io))
+
+(define-public crate-wsterm-0.1.0 (c (n "wsterm") (v "0.1.0") (d (list (d (n "actix") (r "^0.13.0") (d #t) (k 0)) (d (n "actix-files") (r "^0.6.2") (d #t) (k 0)) (d (n "actix-test") (r "^0.1.1") (d #t) (k 0)) (d (n "actix-web") (r "^4.3.1") (d #t) (k 0)) (d (n "actix-web-actors") (r "^4.2.0") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "pty-process") (r "^0.3.0") (f (quote ("async"))) (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-codec") (r "^0.2.0-alpha.6") (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (d #t) (k 0)))) (h "0avssn4dikyb8wmg14cgvagbzgfj6laq3g0cn4bww21q1qvj7idk") (f (quote (("mutex_unlock"))))))
+

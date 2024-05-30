@@ -1,0 +1,4 @@
+(define-module (crates-io gl ue gluesql-csv-storage) #:use-module (crates-io))
+
+(define-public crate-gluesql-csv-storage-0.15.0 (c (n "gluesql-csv-storage") (v "0.15.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "csv") (r "^1.2.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gluesql-core") (r "^0.15.0") (d #t) (k 0)) (d (n "rust_decimal") (r "^1") (d #t) (k 2)) (d (n "rust_decimal_macros") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "test-suite") (r "^0.15.0") (d #t) (k 2) (p "gluesql-test-suite")) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "utils") (r "^0.15.0") (d #t) (k 0) (p "gluesql-utils")))) (h "0bnryv0ygsn0p1fyipajh5zvpx9pdrqcfdhzb3qjzi7v92vpnns3")))
+

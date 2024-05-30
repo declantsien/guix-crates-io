@@ -1,0 +1,10 @@
+(define-module (crates-io ty ps typst-svg) #:use-module (crates-io))
+
+(define-public crate-typst-svg-0.1.0 (c (n "typst-svg") (v "0.1.0") (h "18hcq3l26hbxjxgk6ma1qgxxp0gw4sgkirr8y3rlp7wwx6kiqffm")))
+
+(define-public crate-typst-svg-0.11.0-rc1 (c (n "typst-svg") (v "0.11.0-rc1") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "comemo") (r "^0.4") (d #t) (k 0)) (d (n "ecow") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.20.0") (d #t) (k 0)) (d (n "typst") (r "^0.11.0-rc1") (d #t) (k 0)) (d (n "typst-macros") (r "^0.11.0-rc1") (d #t) (k 0)) (d (n "typst-timing") (r "^0.11.0-rc1") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.5") (d #t) (k 0)) (d (n "xmlwriter") (r "^0.1.0") (d #t) (k 0)))) (h "0vwzd6qkq7ykd3507ww05xbza3h9s3ipggdqdzjg149m951kgwp8") (r "1.74")))
+
+(define-public crate-typst-svg-0.11.0 (c (n "typst-svg") (v "0.11.0") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "comemo") (r "^0.4") (d #t) (k 0)) (d (n "ecow") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.20.0") (d #t) (k 0)) (d (n "typst") (r "^0.11.0") (d #t) (k 0)) (d (n "typst-macros") (r "^0.11.0") (d #t) (k 0)) (d (n "typst-timing") (r "^0.11.0") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.5") (d #t) (k 0)) (d (n "xmlwriter") (r "^0.1.0") (d #t) (k 0)))) (h "0kji3yx4dz3yydmkvzgyyrm2xqdyccgv34ss8ch459gy3hxv3ncy") (r "1.74")))
+
+(define-public crate-typst-svg-0.11.1 (c (n "typst-svg") (v "0.11.1") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "comemo") (r "^0.4") (d #t) (k 0)) (d (n "ecow") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "ttf-parser") (r "^0.20.0") (d #t) (k 0)) (d (n "typst") (r "^0.11.1") (d #t) (k 0)) (d (n "typst-macros") (r "^0.11.1") (d #t) (k 0)) (d (n "typst-timing") (r "^0.11.1") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.5") (d #t) (k 0)) (d (n "xmlwriter") (r "^0.1.0") (d #t) (k 0)))) (h "0fz2maws498x19ai7h421s4jab2b6zlazq09zgm1rj3909jf7x6f") (r "1.74")))
+

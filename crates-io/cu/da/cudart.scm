@@ -1,0 +1,4 @@
+(define-module (crates-io cu da cudart) #:use-module (crates-io))
+
+(define-public crate-cudart-0.1.0 (c (n "cudart") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.38") (d #t) (k 1)) (d (n "static_assertions") (r "^0.3.1") (d #t) (k 0)))) (h "0knigg73ri88hjkgnrrb403yv7cs85rq5y0if12ss6k7j8j6ssj1") (f (quote (("gte_cuda_9_2") ("gte_cuda_9_1") ("gte_cuda_9_0") ("gte_cuda_8_0") ("gte_cuda_7_5") ("gte_cuda_7_0") ("gte_cuda_10_0") ("default") ("cuda_9_2" "gte_cuda_7_0" "gte_cuda_7_5" "gte_cuda_8_0" "gte_cuda_9_0" "gte_cuda_9_1" "gte_cuda_9_2") ("cuda_9_1" "gte_cuda_7_0" "gte_cuda_7_5" "gte_cuda_8_0" "gte_cuda_9_0" "gte_cuda_9_1") ("cuda_9_0" "gte_cuda_7_0" "gte_cuda_7_5" "gte_cuda_8_0" "gte_cuda_9_0") ("cuda_8_0" "gte_cuda_7_0" "gte_cuda_7_5" "gte_cuda_8_0") ("cuda_7_5" "gte_cuda_7_0" "gte_cuda_7_5") ("cuda_7_0" "gte_cuda_7_0") ("cuda_6_5") ("cuda_10_0" "gte_cuda_7_0" "gte_cuda_7_5" "gte_cuda_8_0" "gte_cuda_9_0" "gte_cuda_9_1" "gte_cuda_9_2" "gte_cuda_10_0"))))))
+

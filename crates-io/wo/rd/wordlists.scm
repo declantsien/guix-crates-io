@@ -1,0 +1,6 @@
+(define-module (crates-io wo rd wordlists) #:use-module (crates-io))
+
+(define-public crate-wordlists-0.1.0 (c (n "wordlists") (v "0.1.0") (d (list (d (n "bitvec") (r "^0.22.3") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "radix_fmt") (r "^1.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "0x8176vbsb1f6j2az63rlchabv5b39kcs3qz7qbnd70qz3k1v74x") (f (quote (("skeyotp") ("pgpfone") ("diceware-reinhold") ("diceware-eff-short-v2") ("diceware-eff-short-v1") ("diceware-eff-large") ("diceware-beale") ("default") ("bip-39"))))))
+
+(define-public crate-wordlists-0.2.0 (c (n "wordlists") (v "0.2.0") (d (list (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0j0g6y4sa3gvzhwvcayzbjbx4iw933c84n7aljw93fz89hs7z7m3") (f (quote (("skeyotp") ("pgpfone") ("diceware-reinhold") ("diceware-eff-short-v2") ("diceware-eff-short-v1") ("diceware-eff-large") ("diceware-beale") ("default") ("bip-39"))))))
+

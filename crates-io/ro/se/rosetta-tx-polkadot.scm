@@ -1,0 +1,8 @@
+(define-module (crates-io ro se rosetta-tx-polkadot) #:use-module (crates-io))
+
+(define-public crate-rosetta-tx-polkadot-0.1.0 (c (n "rosetta-tx-polkadot") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rosetta-config-polkadot") (r "^0.1.0") (d #t) (k 0)) (d (n "rosetta-core") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "18m9p86sc0n4wjmzlk94fqiv9igs4f1452v2frdrkva76x21znyv")))
+
+(define-public crate-rosetta-tx-polkadot-0.2.5 (c (n "rosetta-tx-polkadot") (v "0.2.5") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rosetta-config-polkadot") (r "^0.2.5") (d #t) (k 0)) (d (n "rosetta-core") (r "^0.2.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "10yn00flx01xr1sp5xk7bpqdy7lf4bj3dzhryc96knlw50v593hp")))
+
+(define-public crate-rosetta-tx-polkadot-0.4.0 (c (n "rosetta-tx-polkadot") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "parity-scale-codec") (r "^3.4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rosetta-config-polkadot") (r "^0.4.0") (d #t) (k 0)) (d (n "rosetta-core") (r "^0.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "1yybfwwh043f4cibdl3zss2mb6y1xjbvclryii653jxdcnqvw0hi")))
+

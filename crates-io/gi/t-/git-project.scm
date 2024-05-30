@@ -1,0 +1,6 @@
+(define-module (crates-io gi t- git-project) #:use-module (crates-io))
+
+(define-public crate-git-project-0.1.0 (c (n "git-project") (v "0.1.0") (d (list (d (n "auto_from") (r "^0.2.0") (d #t) (k 0)) (d (n "git2") (r "^0.7.5") (d #t) (k 0)) (d (n "itertools") (r "^0.7.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "rstest") (r "^0.2") (d #t) (k 2)) (d (n "structopt") (r "^0.2.13") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.7") (d #t) (k 0)))) (h "1py4smpj0hr2qkg3l5xd62nbsmdf7632di4knj9wjgck1ynl1smh")))
+
+(define-public crate-git-project-0.2.0 (c (n "git-project") (v "0.2.0") (d (list (d (n "auto_from") (r "^0.2.0") (d #t) (k 0)) (d (n "git2") (r "^0.7.5") (d #t) (k 0)) (d (n "itertools") (r "^0.7.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "pathdiff") (r "^0.1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "rstest") (r "^0.2") (d #t) (k 2)) (d (n "structopt") (r "^0.2.13") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.2.7") (d #t) (k 0)))) (h "14jp3yv25vifwh87mpk3fkyv64pw6y5xxn1pv5yj3863hb3396si")))
+

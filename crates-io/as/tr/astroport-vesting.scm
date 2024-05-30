@@ -1,0 +1,6 @@
+(define-module (crates-io as tr astroport-vesting) #:use-module (crates-io))
+
+(define-public crate-astroport-vesting-1.3.1 (c (n "astroport-vesting") (v "1.3.1") (d (list (d (n "astroport") (r "^2.8") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.1") (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.15") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^0.15") (d #t) (k 0)) (d (n "cw-utils") (r "^0.15") (d #t) (k 0)) (d (n "cw2") (r "^0.15") (d #t) (k 0)) (d (n "cw20") (r "^0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0wb3r9nd223qmwr812abphm817j9a99i8hgrgqblykdzhv7ygz6z") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-astroport-vesting-1.3.2 (c (n "astroport-vesting") (v "1.3.2") (d (list (d (n "astroport") (r "^3") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.1") (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-multi-test") (r "^1.0.0") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^0.15") (d #t) (k 0)) (d (n "cw-utils") (r "^0.15") (d #t) (k 0)) (d (n "cw2") (r "^0.15") (d #t) (k 0)) (d (n "cw20") (r "^0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0f007wjds7nd96ijbrk3zj357d3jc2jclsznkdciy917j1z4fshf") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

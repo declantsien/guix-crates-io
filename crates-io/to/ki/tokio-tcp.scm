@@ -1,0 +1,16 @@
+(define-module (crates-io to ki tokio-tcp) #:use-module (crates-io))
+
+(define-public crate-tokio-tcp-0.0.0 (c (n "tokio-tcp") (v "0.0.0") (h "1h4x0w65i6r4xblh0giy9izazj2vw3nrcnknk0vcwhikg27g1l87")))
+
+(define-public crate-tokio-tcp-0.1.0 (c (n "tokio-tcp") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (k 2)) (d (n "futures") (r "^0.1.19") (d #t) (k 0)) (d (n "futures2") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1.1") (d #t) (k 0)))) (h "0gw50w23y0jhcng4vfgp0hhs8rffqkldhfmshfpjrpdaa540k6zc") (f (quote (("unstable-futures" "futures2") ("default"))))))
+
+(define-public crate-tokio-tcp-0.1.1 (c (n "tokio-tcp") (v "0.1.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (k 2)) (d (n "futures") (r "^0.1.19") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1.1") (d #t) (k 0)))) (h "0rfm2x646klvdbpxm63ff7j9bgailxglch30fj5fnwgh8ydk4k2v")))
+
+(define-public crate-tokio-tcp-0.1.2 (c (n "tokio-tcp") (v "0.1.2") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (k 2)) (d (n "futures") (r "^0.1.19") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1.1") (d #t) (k 0)))) (h "04pri7gpig3p87s67jk61r1ddp0zm9jnywzn8wnnn4nxvblkblks")))
+
+(define-public crate-tokio-tcp-0.1.3 (c (n "tokio-tcp") (v "0.1.3") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (k 2)) (d (n "futures") (r "^0.1.19") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "tokio") (r "^0.1.13") (d #t) (k 2)) (d (n "tokio-io") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1.1") (d #t) (k 0)))) (h "06a15vg8bcd33ng3h9ldzlq7wl4jsw0p9qpy7v22ls5yah3b250x")))
+
+(define-public crate-tokio-tcp-0.2.0-alpha.1 (c (n "tokio-tcp") (v "0.2.0-alpha.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "futures-core-preview") (r "= 0.3.0-alpha.17") (d #t) (k 0)) (d (n "futures-util-preview") (r "= 0.3.0-alpha.17") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "tokio") (r "= 0.2.0-alpha.1") (d #t) (k 2)) (d (n "tokio-io") (r "= 0.2.0-alpha.1") (d #t) (k 0)) (d (n "tokio-reactor") (r "= 0.2.0-alpha.1") (d #t) (k 0)) (d (n "tokio-test") (r "= 0.2.0-alpha.1") (d #t) (k 2)))) (h "19h6wxz4bn1rkixa72x5d6pccyq8mz7vskfb57fljf7kbgc9qc3y") (f (quote (("async-traits"))))))
+
+(define-public crate-tokio-tcp-0.1.4 (c (n "tokio-tcp") (v "0.1.4") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (k 2)) (d (n "futures") (r "^0.1.19") (d #t) (k 0)) (d (n "iovec") (r "^0.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.14") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 2)) (d (n "tokio") (r "^0.1.13") (d #t) (k 2)) (d (n "tokio-io") (r "^0.1.6") (d #t) (k 0)) (d (n "tokio-reactor") (r "^0.1.1") (d #t) (k 0)))) (h "0whzqnkyfym1ipzznibyjl3j9281walq4n0q5xs2xdz3cvniipwq")))
+

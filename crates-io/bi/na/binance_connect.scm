@@ -1,0 +1,4 @@
+(define-module (crates-io bi na binance_connect) #:use-module (crates-io))
+
+(define-public crate-binance_connect-1.0.0 (c (n "binance_connect") (v "1.0.0") (d (list (d (n "async-std") (r "^1.12.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)) (d (n "tungstenite") (r "^0.20.0") (f (quote ("native-tls"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0377jbb532kknzxjyh3v99q9b54j4xqq47x5k5z1abf6csgyjj2b") (r "1.63.0")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pe ac peace_item_sh_sync_cmd) #:use-module (crates-io))
+
+(define-public crate-peace_item_sh_sync_cmd-0.0.10 (c (n "peace_item_sh_sync_cmd") (v "0.0.10") (d (list (d (n "chrono") (r "^0.4.24") (f (quote ("clock" "serde"))) (k 0)) (d (n "miette") (r "^5.7.0") (o #t) (d #t) (k 0)) (d (n "peace") (r "^0.0.10") (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("net" "time" "rt"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "tokio") (r "^1.27.0") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1ifrcqvdnvly102q67fp8zzlg1nzx4m3n1z0q4nyjlycfb9cdcs9") (f (quote (("output_progress" "peace/output_progress") ("error_reporting" "peace/error_reporting") ("default"))))))
+

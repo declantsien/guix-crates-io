@@ -1,0 +1,44 @@
+(define-module (crates-io ma mm mammut) #:use-module (crates-io))
+
+(define-public crate-mammut-0.1.0 (c (n "mammut") (v "0.1.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "09ns9wzv2b19vhdckv3286z1c4b7z2i9drq9wplyi8d01b51g4h5")))
+
+(define-public crate-mammut-0.2.0 (c (n "mammut") (v "0.2.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "0g4wv44x5vybkph97vd5xa8cjgxcf5jhiq2cqchwzkwssx8gvdc0")))
+
+(define-public crate-mammut-0.3.0 (c (n "mammut") (v "0.3.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "0227s983imzyry05d0iyrwm3n82ly9lnzji3mq9nrzfbmq0jg0x3")))
+
+(define-public crate-mammut-0.4.0 (c (n "mammut") (v "0.4.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "1v38vyv9r85cf87xgqmcd6k2xiyk1qkz2v8bcaqyp1zbn9s5wqa2")))
+
+(define-public crate-mammut-0.4.1 (c (n "mammut") (v "0.4.1") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "12xcji3srcrasp0kqgqd7i5m92q6jgckj6dvr7b8mkfrfbql567p")))
+
+(define-public crate-mammut-0.5.0 (c (n "mammut") (v "0.5.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "123xbq65f8az8fmjyd4fddgkibv7r9ij48rd0sk1886iih11lm7g")))
+
+(define-public crate-mammut-0.5.1 (c (n "mammut") (v "0.5.1") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "13m4wcagmpv0ikbqxfm0glzms9i4cnhnq076bbn3v969ic8wyyhj")))
+
+(define-public crate-mammut-0.5.2 (c (n "mammut") (v "0.5.2") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "1yc7qmp64kfdgzmy2i4dilkks60rmdbp1f5rv2k7hgpj61g48ldm")))
+
+(define-public crate-mammut-0.6.0 (c (n "mammut") (v "0.6.0") (d (list (d (n "chrono") (r "= 0.3.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "0wzx07ri0gsgnb1fxw8m71xd58xz979x4h05kxhbnxixkphag2ph")))
+
+(define-public crate-mammut-0.6.1 (c (n "mammut") (v "0.6.1") (d (list (d (n "chrono") (r "= 0.3.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "0bf6cz2f66kxipk3x5nijh6c6rg7na73m40i6k2chawynxrxb6qh")))
+
+(define-public crate-mammut-0.7.0 (c (n "mammut") (v "0.7.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "16h6b9bw0m1hfypgf7qpgg2xhzzkjxdzyvgnzwcs1pq35jlg1s9b")))
+
+(define-public crate-mammut-0.8.0 (c (n "mammut") (v "0.8.0") (d (list (d (n "chrono") (r "^0.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0rybqlvb3mbfhm0h1rfa1s8jvd1k8d5c0mbxiql9ljrpzvxxgsgc")))
+
+(define-public crate-mammut-0.9.0 (c (n "mammut") (v "0.9.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.10") (d #t) (k 2)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1n5b4pfgs7kqawy495hmw6wy1b6b67xg1zyj9zsp4w75jkmal1cs")))
+
+(define-public crate-mammut-0.9.1 (c (n "mammut") (v "0.9.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.10") (d #t) (k 2)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "14clahcchy1vhaxig0bidsahvhbcdxq58jf2cvilkjrn8js99gax")))
+
+(define-public crate-mammut-0.10.0-rc1 (c (n "mammut") (v "0.10.0-rc1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.10") (d #t) (k 2)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "1wzbg65m9jss5mr34xi40pg9l3v50nlmc3s3izp9knnn85ins65f")))
+
+(define-public crate-mammut-0.10.0-rc2 (c (n "mammut") (v "0.10.0-rc2") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.11") (d #t) (k 2)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "1z77q585zvbwyaa04dszxq64p0v1nnqw6961pv4pg68p925h8zki")))
+
+(define-public crate-mammut-0.10.0 (c (n "mammut") (v "0.10.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.11") (d #t) (k 2)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "1bjq172pm5dds02sq78xxmlj7dpjxdk6dgin9mvzr6ih5f9yzb8q") (y #t)))
+
+(define-public crate-mammut-0.10.1 (c (n "mammut") (v "0.10.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.11") (d #t) (k 2)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "194r9qy9836yk9icawn6hq8yih6qa81diy048jlw5887xfwhdbyy")))
+
+(define-public crate-mammut-0.11.0 (c (n "mammut") (v "0.11.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "0sczljkzyi4w9dibyd7p0yarkiv9a7s1pq0nimni25cxf1vphf6b")))
+
+(define-public crate-mammut-0.12.0 (c (n "mammut") (v "0.12.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "doc-comment") (r "^0.1") (d #t) (k 0)) (d (n "hyperx") (r "^0.13") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "1l4489zc21i3z902a6x7mfxz08xygxy15v3wz3xan4228rrggmhk")))
+
+(define-public crate-mammut-0.13.0 (c (n "mammut") (v "0.13.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 0)) (d (n "hyperx") (r "^0.15") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)) (d (n "url") (r "^1") (d #t) (k 0)))) (h "08427kaijq73z846j2nwkvjm6jf9i6hlas88qc5yr4vg4g7dcw8p")))
+

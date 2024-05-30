@@ -1,0 +1,26 @@
+(define-module (crates-io be d2 bed2gtf) #:use-module (crates-io))
+
+(define-public crate-bed2gtf-1.0.0 (c (n "bed2gtf") (v "1.0.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)))) (h "0aan338grnqdg3dnj5iilbdcvdc53pmgyqpp310m9s6ssppvrqq4")))
+
+(define-public crate-bed2gtf-1.1.0 (c (n "bed2gtf") (v "1.1.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)))) (h "0x1waaqbjkfvza060wh3ys3dydr25mbkd8zfahzv6j414iqyf2h5")))
+
+(define-public crate-bed2gtf-1.2.0 (c (n "bed2gtf") (v "1.2.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)))) (h "1in97hg6yn854zpajgfw3vv6j4n65c14g2lr5dz2b8v45xq7d6z7")))
+
+(define-public crate-bed2gtf-1.3.0 (c (n "bed2gtf") (v "1.3.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)))) (h "0kcipsdmdzchsbi255hs4q2k9213jpqvfs8dixsn6a2hdhy2yvzf")))
+
+(define-public crate-bed2gtf-1.4.0 (c (n "bed2gtf") (v "1.4.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)))) (h "1hk6qns7dmlv7p4m3ffk3b8z780nax715vsd84gam831rygdkl61")))
+
+(define-public crate-bed2gtf-1.5.0 (c (n "bed2gtf") (v "1.5.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "peak_alloc") (r "^0.2.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)))) (h "0g35m5ldynlmpq2nr16bhh5q0brx435h6842hw5vnqkmm4cp05z5")))
+
+(define-public crate-bed2gtf-1.6.0 (c (n "bed2gtf") (v "1.6.0") (d (list (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "peak_alloc") (r "^0.2.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)))) (h "0g0yj6ga0hdjyr2lxbx462f89sy2q9x2sga5rcjsbigphqdm1wi9")))
+
+(define-public crate-bed2gtf-1.7.0 (c (n "bed2gtf") (v "1.7.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.0") (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "peak_alloc") (r "^0.2.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1rrfx70sw4ryn7bc07fq35v97h5npp07wr0dyv9vywrimxv2hb6r")))
+
+(define-public crate-bed2gtf-1.8.0 (c (n "bed2gtf") (v "1.8.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "peak_alloc") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)))) (h "0xfbm82iznmy36dp246jxym06aimbcxv033gvcdav06p2rhpl2hz")))
+
+(define-public crate-bed2gtf-1.9.0 (c (n "bed2gtf") (v "1.9.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "peak_alloc") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)))) (h "09112vvqffw6ip3gna1dp2nrhs40mn2jp3hqy0idx12anbjpb77l")))
+
+(define-public crate-bed2gtf-1.9.1 (c (n "bed2gtf") (v "1.9.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^1.0.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "indoc") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "peak_alloc") (r "^0.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)))) (h "1dpmi89ypddi039hqwb7xx9q9safm24s2xqb83qvcmarq0vr5kc2")))
+
+(define-public crate-bed2gtf-1.9.2 (c (n "bed2gtf") (v "1.9.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "indoc") (r "^2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.101") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0d55fvjng6an9rfaprim09977cg645xvxmwyqcdci8lbsq1rwjan")))
+

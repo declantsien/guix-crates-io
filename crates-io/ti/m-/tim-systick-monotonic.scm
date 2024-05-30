@@ -1,0 +1,6 @@
+(define-module (crates-io ti m- tim-systick-monotonic) #:use-module (crates-io))
+
+(define-public crate-tim-systick-monotonic-0.1.0 (c (n "tim-systick-monotonic") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "rtic-monotonic") (r "^0.1.0-alpha.2") (d #t) (k 0)) (d (n "stm32f0") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "stm32l0") (r "^0.10") (o #t) (d #t) (k 0)))) (h "11xgsvs99xxba5w0smfcaiyrvylpazny8c90h7s2c6dq4gi1m0a7") (f (quote (("l0x1-tim21-tim22" "stm32l0/stm32l0x1") ("f0x1-tim15-tim17" "stm32f0/stm32f0x1") ("f0x1-tim15-tim16" "stm32f0/stm32f0x1"))))))
+
+(define-public crate-tim-systick-monotonic-0.2.0 (c (n "tim-systick-monotonic") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "rtic-monotonic") (r "^0.1.0-alpha.2") (d #t) (k 0)) (d (n "stm32f0") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "stm32h7") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "stm32l0") (r "^0.10") (o #t) (d #t) (k 0)))) (h "1hadszpjvgvhbw5k5k34vhi3i0qmvb425iripsddh6f0yjzasdcm") (f (quote (("l0x1-tim21-tim22" "stm32l0/stm32l0x1") ("h743v-tim15-tim17" "stm32h7/stm32h743v") ("f0x2-tim15-tim17" "stm32f0/stm32f0x2") ("f0x1-tim15-tim17" "stm32f0/stm32f0x1") ("f0x1-tim15-tim16" "stm32f0/stm32f0x1"))))))
+

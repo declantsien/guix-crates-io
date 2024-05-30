@@ -1,0 +1,8 @@
+(define-module (crates-io pl ot plotters-font-loader) #:use-module (crates-io))
+
+(define-public crate-plotters-font-loader-0.8.0 (c (n "plotters-font-loader") (v "0.8.0") (d (list (d (n "core-foundation") (r "^0.6") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-text") (r "^10.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.15") (d #t) (k 0)) (d (n "servo-fontconfig") (r "^0.4.0") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "wingdi"))) (t "cfg(windows)") (k 0)))) (h "02mn5f7hmz9h1di6s67y70360x1lvpgkpmybqaa5cgscd60p7rzv")))
+
+(define-public crate-plotters-font-loader-0.8.1 (c (n "plotters-font-loader") (v "0.8.1") (d (list (d (n "core-foundation") (r "^0.6") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-text") (r "^10.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.15") (d #t) (k 0)) (d (n "servo-fontconfig") (r "^0.4.0") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "wingdi"))) (t "cfg(windows)") (k 0)))) (h "0v77lr77n985v6fnkcmv1r4g8kky5wqh99j14drwyxpgbx55pv3b")))
+
+(define-public crate-plotters-font-loader-0.8.2 (c (n "plotters-font-loader") (v "0.8.2") (d (list (d (n "core-foundation") (r "^0.6") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-text") (r "^10.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.15") (d #t) (k 0)) (d (n "servo-fontconfig") (r "^0.4.0") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "wingdi"))) (t "cfg(windows)") (k 0)))) (h "0sgm95bqx69dd8r6zvd3cz8qncx0q4g3hsfajqjjli1lcyiz3lar")))
+

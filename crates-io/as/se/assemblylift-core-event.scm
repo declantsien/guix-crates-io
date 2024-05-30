@@ -1,0 +1,6 @@
+(define-module (crates-io as se assemblylift-core-event) #:use-module (crates-io))
+
+(define-public crate-assemblylift-core-event-0.1.0 (c (n "assemblylift-core-event") (v "0.1.0") (d (list (d (n "assemblylift-core-event-common") (r "^0.1.0") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("rt-core" "rt-threaded"))) (d #t) (k 0)))) (h "1njiikl82xfpjg25vds0iasyvrsscg0s6xhfh0aqsch3yfznnc41")))
+
+(define-public crate-assemblylift-core-event-0.1.1 (c (n "assemblylift-core-event") (v "0.1.1") (d (list (d (n "assemblylift-core-event-common") (r "^0.1.0") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("rt-core" "rt-threaded"))) (d #t) (k 0)))) (h "182j8ir36l9a6088hc5znkgakyinx360v24aacxjgrkpsk48m88w")))
+

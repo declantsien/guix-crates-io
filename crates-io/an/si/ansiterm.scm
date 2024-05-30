@@ -1,0 +1,6 @@
+(define-module (crates-io an si ansiterm) #:use-module (crates-io))
+
+(define-public crate-ansiterm-0.12.1 (c (n "ansiterm") (v "0.12.1") (d (list (d (n "ansi_colours") (r "^1.1.1") (o #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "regex") (r "^1.1.9") (d #t) (k 2)) (d (n "serde") (r "^1.0.90") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 2)) (d (n "winapi") (r "^0.3.4") (f (quote ("consoleapi" "errhandlingapi" "fileapi" "handleapi" "processenv"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1yiwgkqixnwi7n7rprrbhk1xg1rv0nnf0qvjfsyxr04ysiyx3xpl") (f (quote (("derive_serde_style" "serde")))) (y #t)))
+
+(define-public crate-ansiterm-0.12.2 (c (n "ansiterm") (v "0.12.2") (d (list (d (n "ansi_colours") (r "^1.1.1") (o #t) (k 0)) (d (n "doc-comment") (r "^0.3") (d #t) (k 2)) (d (n "regex") (r "^1.1.9") (d #t) (k 2)) (d (n "serde") (r "^1.0.90") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 2)) (d (n "winapi") (r "^0.3.4") (f (quote ("consoleapi" "errhandlingapi" "fileapi" "handleapi" "processenv"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1k14pywvgd829swxzji0nchk4n6yvr9xz6lkwv96v8ax77sqgdaa") (f (quote (("derive_serde_style" "serde"))))))
+

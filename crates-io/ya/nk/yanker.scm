@@ -1,0 +1,8 @@
+(define-module (crates-io ya nk yanker) #:use-module (crates-io))
+
+(define-public crate-yanker-0.1.0 (c (n "yanker") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "semver") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "109pgj2kklmv76la1l83gykiyx3fzfs5x5nsja1l0hc71c7cs0rx") (y #t)))
+
+(define-public crate-yanker-0.1.1 (c (n "yanker") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "semver") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "07yahm9nqrag9v8ysbxp46jd1aigxfll52n2gjlvzi51wma34jj1") (y #t)))
+
+(define-public crate-yanker-0.1.2 (c (n "yanker") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "semver") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros" "rt-multi-thread" "process"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "10gcwwcp9x97ipx4gqrnff0cx1lvk8kqbmzsw7pj5vh9kcsc1cwh")))
+

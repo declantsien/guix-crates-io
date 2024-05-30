@@ -1,0 +1,6 @@
+(define-module (crates-io st re stream-ws) #:use-module (crates-io))
+
+(define-public crate-stream-ws-0.1.0 (c (n "stream-ws") (v "0.1.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gloo-net") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-tungstenite") (r "^0.20") (d #t) (k 2)) (d (n "tungstenite") (r "^0.20") (o #t) (d #t) (k 0)))) (h "1qz6aj2l8am0pwlnx2112baycvm06d8h04bg70l9g4hp4x7pawwg") (s 2) (e (quote (("tungstenite" "dep:tungstenite") ("tokio" "dep:tokio") ("gloo" "dep:gloo-net"))))))
+
+(define-public crate-stream-ws-0.1.1 (c (n "stream-ws") (v "0.1.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gloo-net") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-tungstenite") (r "^0.20") (d #t) (k 2)) (d (n "tungstenite") (r "^0.20") (o #t) (d #t) (k 0)))) (h "0h00zdxd6qcx8zp7agd6xn7n2n8sbp3abl36rnwah5h9lbr3b73a") (s 2) (e (quote (("tungstenite" "dep:tungstenite") ("tokio" "dep:tokio") ("gloo" "dep:gloo-net"))))))
+

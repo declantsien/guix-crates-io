@@ -1,0 +1,4 @@
+(define-module (crates-io cr ys crystal_packing) #:use-module (crates-io))
+
+(define-public crate-crystal_packing-0.6.0 (c (n "crystal_packing") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "approx") (r "~0.3.0") (d #t) (k 2)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "itertools") (r "~0.8.0") (d #t) (k 0)) (d (n "log") (r "~0.4.8") (d #t) (k 0)) (d (n "nalgebra") (r "~0.22.0") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "~0.7.0") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "~1.0.98") (f (quote ("derive"))) (d #t) (k 0)) (d (n "svg") (r "~0.8.0") (d #t) (k 0)))) (h "0k5wkdpmfdq2mf9aj0h8gvc2sbxkhjsl9clvsikxvbiacx2z1bpq")))
+

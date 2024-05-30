@@ -1,0 +1,4 @@
+(define-module (crates-io ps li pslink-app) #:use-module (crates-io))
+
+(define-public crate-pslink-app-0.4.1-beta.2 (c (n "pslink-app") (v "0.4.1-beta.2") (d (list (d (n "enum-map") (r "^1") (d #t) (k 0)) (d (n "fluent") (r "^0.15") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "pslink-locales") (r "^0.4.1-alpha.0") (d #t) (k 0)) (d (n "pslink-shared") (r "^0.4.1-alpha.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.12") (d #t) (k 0)) (d (n "seed") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.21") (d #t) (k 0)) (d (n "strum_macros") (r "^0.21") (d #t) (k 0)) (d (n "unic-langid") (r "^0.9") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("IntersectionObserver" "IntersectionObserverInit" "IntersectionObserverEntry"))) (d #t) (k 0)))) (h "1gzizia9lrx7idpyqaxjyjckxxwxkrpdap15b8i10vvrr312qrgm")))
+

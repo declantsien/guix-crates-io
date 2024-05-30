@@ -1,0 +1,6 @@
+(define-module (crates-io lc pc lcpc-test-fields) #:use-module (crates-io))
+
+(define-public crate-lcpc-test-fields-0.1.0 (c (n "lcpc-test-fields") (v "0.1.0") (d (list (d (n "bitvec") (r "^0.22") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "ff") (r "^0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ff-derive-num") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subtle") (r "^2.2") (d #t) (k 0)))) (h "0fg4ibjac3lpi43x6j7z0997kb1f39v73ldkrsyqfwn1vmmawiy1")))
+
+(define-public crate-lcpc-test-fields-0.1.1 (c (n "lcpc-test-fields") (v "0.1.1") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "ff") (r "^0.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ff-derive-num") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "subtle") (r "^2.2") (d #t) (k 0)))) (h "1h3rnvdba9l2800scaiil3n5bbf5d8a273x5cf9gip02zs712yzg")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ro ck rocketmq-common) #:use-module (crates-io))
+
+(define-public crate-rocketmq-common-0.1.0 (c (n "rocketmq-common") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("default" "thread-pool"))) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-executor") (r "^0.3") (d #t) (k 0)) (d (n "futures-task") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0d6nvzq3zwmywbk3rnjxn1cj88x2xd1a64df0h3bzbzhzmh4mpcy")))
+

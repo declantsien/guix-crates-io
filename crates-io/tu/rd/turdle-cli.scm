@@ -1,0 +1,6 @@
+(define-module (crates-io tu rd turdle-cli) #:use-module (crates-io))
+
+(define-public crate-turdle-cli-0.1.0 (c (n "turdle-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fehler") (r "^1.0.0") (k 0)) (d (n "solana-sdk") (r "~1.14.16") (d #t) (k 0)) (d (n "tokio") (r "~1.14.1") (f (quote ("rt-multi-thread" "macros" "fs" "signal" "sync" "time" "io-util" "process"))) (k 0)) (d (n "trdelnik-client") (r "^0.1.0") (d #t) (k 0) (p "turdle-client")) (d (n "trdelnik-explorer") (r "^0.1.0") (d #t) (k 0) (p "turdle-explorer")))) (h "0krqx6s14maxm7g21kl6y6frghxj4qdjspmvplblv2k5l6xrmb7j") (r "1.59")))
+
+(define-public crate-turdle-cli-0.1.1 (c (n "turdle-cli") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.56") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fehler") (r "^1.0.0") (k 0)) (d (n "solana-sdk") (r "~1.14.16") (d #t) (k 0)) (d (n "tokio") (r "~1.14.1") (f (quote ("rt-multi-thread" "macros" "fs" "signal" "sync" "time" "io-util" "process"))) (k 0)) (d (n "trdelnik-client") (r "^0.1.0") (d #t) (k 0) (p "turdle-client")) (d (n "trdelnik-explorer") (r "^0.1.0") (d #t) (k 0) (p "turdle-explorer")))) (h "1rqzb5v0csw37r3d1i8ll6kij0ybbbhkkzi1l4pv2nfy2rscdv93") (r "1.59")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ca es caesium) #:use-module (crates-io))
+
+(define-public crate-caesium-0.1.0 (c (n "caesium") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.17") (d #t) (k 0)) (d (n "git2") (r "^0.6.8") (d #t) (k 0)) (d (n "hyper") (r "^0.11.7") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "nom") (r "^3.2.1") (d #t) (k 0)) (d (n "router") (r "^0.5.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "serde") (r "^1.0.21") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.21") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.6") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.10") (d #t) (k 0)) (d (n "toml") (r "^0.4.5") (d #t) (k 0)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "1pfak5krbd7ginqfs77mcajgj4zmzf9bvsab2qqb9v5gbg0f113q")))
+

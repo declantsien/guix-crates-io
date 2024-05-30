@@ -1,0 +1,16 @@
+(define-module (crates-io tu rb turbojpeg-sys) #:use-module (crates-io))
+
+(define-public crate-turbojpeg-sys-0.1.0 (c (n "turbojpeg-sys") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "1rjpqbpv10x49dw350a6bamydzvnhs3w6lipy3qg83lmk9c45vh3") (f (quote (("default"))))))
+
+(define-public crate-turbojpeg-sys-0.2.0 (c (n "turbojpeg-sys") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "1j9r7i3q20z9jblnp5mdpj956wwj2c1hrb1jxwz3idh3bj2xbq20") (f (quote (("require-simd") ("default" "cmake" "pkg-config" "require-simd")))) (l "turbojpeg")))
+
+(define-public crate-turbojpeg-sys-0.2.1 (c (n "turbojpeg-sys") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "189774qw11pnmqykqprkp3aqg9pm4nx45g9xq69nkq881jgnb010") (f (quote (("require-simd") ("default" "cmake" "pkg-config" "require-simd")))) (l "turbojpeg")))
+
+(define-public crate-turbojpeg-sys-0.2.2 (c (n "turbojpeg-sys") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "0avxicnn8hbyi83j1096f6l3akk5m1rj1mwmvz1glqr40rbnqxny") (f (quote (("require-simd") ("default" "cmake" "pkg-config" "require-simd")))) (l "turbojpeg")))
+
+(define-public crate-turbojpeg-sys-0.2.3 (c (n "turbojpeg-sys") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "1rmkbhgvgd9c8z0g7m4dnihnh4zxz6qp4n989cpw8v88y1aygsd1") (f (quote (("require-simd") ("default" "cmake" "pkg-config" "require-simd")))) (l "turbojpeg")))
+
+(define-public crate-turbojpeg-sys-1.0.0-pre.0 (c (n "turbojpeg-sys") (v "1.0.0-pre.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "09cl9qfidzjlq0s72m5752j3dafx6fbq8mhlaa49wg65148w30yx") (f (quote (("require-simd") ("default" "cmake" "pkg-config" "require-simd")))) (l "turbojpeg")))
+
+(define-public crate-turbojpeg-sys-1.0.0 (c (n "turbojpeg-sys") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "bindgen") (r "^0.57") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "10y9kcyy21pd43njgsknyhf7mkkjjz5yprfcaisgnydrwfnxm9iz") (f (quote (("require-simd") ("default" "cmake" "pkg-config" "require-simd")))) (l "turbojpeg")))
+

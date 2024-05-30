@@ -1,0 +1,6 @@
+(define-module (crates-io de v_ dev_bestia_html_templating) #:use-module (crates-io))
+
+(define-public crate-dev_bestia_html_templating-0.1.38 (c (n "dev_bestia_html_templating") (v "0.1.38") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dev_bestia_string_utils") (r "^0.1.19") (d #t) (k 0)) (d (n "dev_bestia_url_utf8") (r "^0.1.28") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "reader_for_microxml") (r "^2.0.1") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "073rls5w6v1kjq7xjp7rrcn94bc37s8x6ffq5q4ri9rbji3rrfcp") (y #t)))
+
+(define-public crate-dev_bestia_html_templating-0.1.41 (c (n "dev_bestia_html_templating") (v "0.1.41") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 0)) (d (n "dev_bestia_string_utils") (r "^0.1.19") (d #t) (k 0)) (d (n "dev_bestia_url_utf8") (r "^0.1.28") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "reader_for_microxml") (r "^2.0.1") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "1ypg9ii8l06y22pnyrp8i0ai12pvziljnyk3jrfiyvqs46c9c6dh")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ne ar near-rust-allocator-proxy) #:use-module (crates-io))
+
+(define-public crate-near-rust-allocator-proxy-0.2.7 (c (n "near-rust-allocator-proxy") (v "0.2.7") (d (list (d (n "arr_macro") (r "^0.1.3") (d #t) (k 0)) (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "jemalloc-sys") (r "^0.3.2") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0yfbaipw70dhdhzib10lvqja35kijlbbf1ay78prc6gb7qvjv9bl")))
+
+(define-public crate-near-rust-allocator-proxy-0.2.8 (c (n "near-rust-allocator-proxy") (v "0.2.8") (d (list (d (n "arr_macro") (r "^0.1.3") (d #t) (k 0)) (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "jemalloc-sys") (r "^0.3.2") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0wixzp4q6wjb54a9i929bqwcppfiqm5bdhqar32fzy7fgxln5ii3") (y #t)))
+
+(define-public crate-near-rust-allocator-proxy-0.2.9 (c (n "near-rust-allocator-proxy") (v "0.2.9") (d (list (d (n "arr_macro") (r "^0.1.3") (d #t) (k 0)) (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "jemalloc-sys") (r "^0.3.2") (d #t) (k 0)) (d (n "jemallocator") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "1pgca5x7m92ngvgr4n9jp2fan3mmadzg3pb7g8pw4naj1awglaqy") (y #t)))
+
+(define-public crate-near-rust-allocator-proxy-0.3.0 (c (n "near-rust-allocator-proxy") (v "0.3.0") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0n63hvwa0xfv34f9xcgfivr054yrqbiq8xrx03qlv5i3dpgyzxq2") (y #t)))
+
+(define-public crate-near-rust-allocator-proxy-0.3.1 (c (n "near-rust-allocator-proxy") (v "0.3.1") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0crvij1rk2a3gncnv7py492lp35qlxx0h769m807vrqakbyz42s7") (y #t)))
+
+(define-public crate-near-rust-allocator-proxy-0.4.0 (c (n "near-rust-allocator-proxy") (v "0.4.0") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "nix") (r ">=0.15, <=0.23") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "tikv-jemallocator") (r "^0.4.1") (d #t) (k 2)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.3") (d #t) (k 2)))) (h "196wbij18na9fmwnm6zd7na56n30a1pqi1hdhzkz59414m2xli5y") (y #t)))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io mu n_ mun_runtime_capi) #:use-module (crates-io))
+
+(define-public crate-mun_runtime_capi-0.2.0 (c (n "mun_runtime_capi") (v "0.2.0") (d (list (d (n "abi") (r "= 0.2.0") (d #t) (k 0) (p "mun_abi")) (d (n "failure") (r "^0.1.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memory") (r "= 0.1.0") (d #t) (k 0) (p "mun_memory")) (d (n "parking_lot") (r "^0.10") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "runtime") (r "= 0.2.0") (d #t) (k 0) (p "mun_runtime")) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0dbwvwn6i8sfcganmgq2pyyla96ldjfq9mggfvn5wbaa7kic7v4h")))
+
+(define-public crate-mun_runtime_capi-0.3.0 (c (n "mun_runtime_capi") (v "0.3.0") (d (list (d (n "abi") (r "=0.3.0") (d #t) (k 0) (p "mun_abi")) (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memory") (r "=0.2.0") (d #t) (k 0) (p "mun_memory")) (d (n "parking_lot") (r "^0.10") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "runtime") (r "=0.3.0") (d #t) (k 0) (p "mun_runtime")) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "16hcd8hbliza8ii23i8cmz49ccjwj9j591mc502z16hwdagdw2jj")))
+
+(define-public crate-mun_runtime_capi-0.4.0 (c (n "mun_runtime_capi") (v "0.4.0") (d (list (d (n "insta") (r "^1.12.0") (f (quote ("ron"))) (k 0)) (d (n "mun_abi") (r "^0.4.0") (d #t) (k 0)) (d (n "mun_capi_utils") (r "^0.4.0") (f (quote ("insta"))) (d #t) (k 0)) (d (n "mun_memory") (r "^0.4.0") (d #t) (k 0)) (d (n "mun_runtime") (r "^0.4.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (k 2)) (d (n "tempfile") (r "^3") (k 2)))) (h "17za9wbnsswq79gx045z7z6mg7sbkq2nx4jbqvl87ml5bvjcynib")))
+

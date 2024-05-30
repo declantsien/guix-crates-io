@@ -1,0 +1,12 @@
+(define-module (crates-io br ai brainease) #:use-module (crates-io))
+
+(define-public crate-brainease-1.0.3 (c (n "brainease") (v "1.0.3") (d (list (d (n "brainease_lexer") (r "^1") (d #t) (k 0)) (d (n "brainease_runtime") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0gp84amw03nvr2pxk75rf9pzkyszg5628y7xhnkj3svvm8sa01dy")))
+
+(define-public crate-brainease-1.0.4 (c (n "brainease") (v "1.0.4") (d (list (d (n "brainease_lexer") (r "^1") (d #t) (k 0)) (d (n "brainease_runtime") (r "^1") (d #t) (k 0)) (d (n "brainease_transpiler") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1lpn3qjfi87fybmgfbg56w1n7n20iwbqxfzb6gwnqvkmzh2lrk6j")))
+
+(define-public crate-brainease-1.0.5 (c (n "brainease") (v "1.0.5") (d (list (d (n "brainease_lexer") (r "^1") (d #t) (k 0)) (d (n "brainease_runtime") (r "^1") (d #t) (k 0)) (d (n "brainease_transpiler") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1pm8cw3m7nns6irczgb671j9cyf34ai2z6kmilv51pbgn4n0si04")))
+
+(define-public crate-brainease-1.0.6 (c (n "brainease") (v "1.0.6") (d (list (d (n "brainease_lexer") (r "^1") (d #t) (k 0)) (d (n "brainease_runtime") (r "^1") (d #t) (k 0)) (d (n "brainease_transpiler") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1lmx7gbd1zy8hg8gf3cl9yv80l91wwkxp2qq9axxmbmkgfwnw38a")))
+
+(define-public crate-brainease-1.0.8 (c (n "brainease") (v "1.0.8") (d (list (d (n "brainease_lexer") (r "^1") (d #t) (k 0)) (d (n "brainease_runtime") (r "^1") (d #t) (k 0)) (d (n "brainease_transpiler") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.9") (d #t) (k 0)))) (h "10qr0i0dz6in3nixyx7dxxl7carjvi0apdjr82nv6xm6i93j4fnk")))
+

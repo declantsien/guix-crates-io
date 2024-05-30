@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hyperliquid_rust) #:use-module (crates-io))
+
+(define-public crate-hyperliquid_rust-0.2.1 (c (n "hyperliquid_rust") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "ethers") (r "^0.17") (f (quote ("eip712" "abigen"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.20.0") (f (quote ("native-tls"))) (d #t) (k 0)))) (h "1xhcc9rfhiqc00j891370zg0wpds69dbw00smn7j0m5am9z86j68") (y #t)))
+

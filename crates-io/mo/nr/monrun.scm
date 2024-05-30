@@ -1,0 +1,6 @@
+(define-module (crates-io mo nr monrun) #:use-module (crates-io))
+
+(define-public crate-monrun-0.3.4 (c (n "monrun") (v "0.3.4") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "monitor_client") (r "^0.3.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "08dlwrlbhxqvymdjn61djpg3g203sf4fcr9maj225irrkryd69d0")))
+
+(define-public crate-monrun-0.5.0 (c (n "monrun") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "monitor_client") (r "^0.3.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "0jfbnkp21l31mizh4b6hkigr3agyyy9hfwifb2xrxywwzpvz40vs")))
+

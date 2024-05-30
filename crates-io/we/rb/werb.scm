@@ -1,0 +1,8 @@
+(define-module (crates-io we rb werb) #:use-module (crates-io))
+
+(define-public crate-werb-0.1.0 (c (n "werb") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.3.33") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.30") (d #t) (k 0)))) (h "04lw2h4lryd0jagh0ik9smyhcgzpd0b28ggq48yp2wa58v01cbaz")))
+
+(define-public crate-werb-0.1.1 (c (n "werb") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.3.33") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.30") (d #t) (k 0)))) (h "0bs37pwx5i9izpg7shgc06l1b1zi8zm1gb017n0ddykz4drjrcnk")))
+
+(define-public crate-werb-0.1.2 (c (n "werb") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.3.33") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.30") (d #t) (k 0)))) (h "07wb681v71l65c56k9c4cibqpcixm54lkwljcij96dcylkf8p99b")))
+

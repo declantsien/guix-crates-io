@@ -1,0 +1,8 @@
+(define-module (crates-io va ul vault_iam_auth) #:use-module (crates-io))
+
+(define-public crate-vault_iam_auth-0.1.0 (c (n "vault_iam_auth") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "rusoto_core") (r "^0.47.0") (d #t) (k 0)) (d (n "rusoto_signature") (r "^0.47.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (d #t) (k 2)))) (h "0992bslm0r9ldpm3xgsfwwha4f1msmcxsngk6mmv3xrjil6c1pzm") (y #t)))
+
+(define-public crate-vault_iam_auth-0.1.1 (c (n "vault_iam_auth") (v "0.1.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "rusoto_core") (r "^0.47.0") (d #t) (k 0)) (d (n "rusoto_signature") (r "^0.47.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (d #t) (k 2)))) (h "15xssgywmkf3m7k0z7hp2mls59qkf6hmyip5w5lzii0igk9ficpx") (y #t)))
+
+(define-public crate-vault_iam_auth-0.2.0 (c (n "vault_iam_auth") (v "0.2.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "rusoto_core") (r "^0.47.0") (d #t) (k 0)) (d (n "rusoto_signature") (r "^0.47.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (d #t) (k 2)))) (h "0ajn93psqn888zd6s717ai8jgms3aw0rnwrdanxffxa3lr03pjp0") (y #t)))
+

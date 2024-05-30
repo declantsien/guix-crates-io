@@ -1,0 +1,10 @@
+(define-module (crates-io li ng lingo) #:use-module (crates-io))
+
+(define-public crate-lingo-0.1.0 (c (n "lingo") (v "0.1.0") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textcat") (r "^0.1") (d #t) (k 0)))) (h "03vvrv6kkw7jnf3nq0ra4ql59aywyps743b08hmvp6vda18f64z2")))
+
+(define-public crate-lingo-0.1.1 (c (n "lingo") (v "0.1.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "tera") (r "^1") (d #t) (k 1)) (d (n "textcat") (r "^0.1") (d #t) (k 0)) (d (n "textcat") (r "^0.1") (d #t) (k 1)))) (h "12vky6sj9zbv3cw7lsbah3l5s6mlih1rhqbzszz6n8yvql7msj85")))
+
+(define-public crate-lingo-0.1.2 (c (n "lingo") (v "0.1.2") (d (list (d (n "filetime") (r "^0.2") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "rust-stemmers") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "stopwords") (r "^0.1") (d #t) (k 0)) (d (n "strum") (r "^0.20.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20.1") (d #t) (k 0)) (d (n "tera") (r "^1") (d #t) (k 1)) (d (n "textcat") (r "^0.1.5") (d #t) (k 0)) (d (n "textcat") (r "^0.1.5") (d #t) (k 1)))) (h "1v50d1cdn68yk9w04gys4qj5i766b4sxv64xd4d8x3c00lv1fvm9")))
+
+(define-public crate-lingo-0.2.0 (c (n "lingo") (v "0.2.0") (d (list (d (n "filetime") (r "^0.2") (d #t) (k 1)) (d (n "glob") (r "^0.3.0") (d #t) (k 1)) (d (n "rust-stemmers") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "stopwords") (r "^0.1") (d #t) (k 0)) (d (n "strum") (r "^0.20.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20.1") (d #t) (k 0)) (d (n "tera") (r "^1") (d #t) (k 1)) (d (n "textcat") (r "^0.3.2") (d #t) (k 0)) (d (n "textcat") (r "^0.3.2") (d #t) (k 1)))) (h "0hk2gp0bgjkc2bydy7h6m0mhmhnlkj69pskwk0xwqicgbq2lf7py")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io we av weaviate-community) #:use-module (crates-io))
+
+(define-public crate-weaviate-community-0.1.0 (c (n "weaviate-community") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1kgqz6p7xnff7cxa6wda5ik6fszz9nbpzwzl55jppi026yb1779j") (y #t)))
+
+(define-public crate-weaviate-community-0.2.0 (c (n "weaviate-community") (v "0.2.0") (d (list (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0pfyzym14mi5f47ashav1shy2l23bnjnlqk0g55j34lz1nmg1g39")))
+
+(define-public crate-weaviate-community-0.2.1 (c (n "weaviate-community") (v "0.2.1") (d (list (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0fhbi5168qxxxd26frw2g91izigi5bybcqakq37b101gbiqry1mj")))
+
+(define-public crate-weaviate-community-0.2.2 (c (n "weaviate-community") (v "0.2.2") (d (list (d (n "mockito") (r "^1.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "1id41zj2sqssiv8kscbqdmzjihrx4ss3aknvmc8z9il5v9hg828m")))
+

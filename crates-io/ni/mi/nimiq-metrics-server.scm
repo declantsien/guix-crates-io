@@ -1,0 +1,8 @@
+(define-module (crates-io ni mi nimiq-metrics-server) #:use-module (crates-io))
+
+(define-public crate-nimiq-metrics-server-0.0.0 (c (n "nimiq-metrics-server") (v "0.0.0") (h "1kybnsjbyjbf3jawjjxa2aqzdiaa48yzjx8pypqkfabm28jfig3g")))
+
+(define-public crate-nimiq-metrics-server-0.1.0 (c (n "nimiq-metrics-server") (v "0.1.0") (d (list (d (n "base64") (r "^0.10") (d #t) (k 0)) (d (n "beserial") (r "^0.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nimiq-block") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-blockchain") (r "^0.1") (f (quote ("metrics"))) (d #t) (k 0)) (d (n "nimiq-consensus") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-mempool") (r "^0.1") (d #t) (k 0)) (d (n "nimiq-network") (r "^0.1") (f (quote ("metrics"))) (d #t) (k 0)))) (h "0s98h6w86j00m0za7gpdch47r322ynwsyicqlkzj8gaik1a6h0c3")))
+
+(define-public crate-nimiq-metrics-server-0.2.0 (c (n "nimiq-metrics-server") (v "0.2.0") (d (list (d (n "base64") (r "^0.10") (d #t) (k 0)) (d (n "beserial") (r "^0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nimiq-block") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-blockchain") (r "^0.2") (f (quote ("metrics"))) (d #t) (k 0)) (d (n "nimiq-consensus") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-mempool") (r "^0.2") (d #t) (k 0)) (d (n "nimiq-network") (r "^0.2") (f (quote ("metrics"))) (d #t) (k 0)))) (h "0s1xipdgv07hg9yiwyld7p5cp3p15cpjkn9qha6gy0fvg8rkqj1h")))
+

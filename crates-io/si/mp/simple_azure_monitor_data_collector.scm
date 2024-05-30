@@ -1,0 +1,6 @@
+(define-module (crates-io si mp simple_azure_monitor_data_collector) #:use-module (crates-io))
+
+(define-public crate-simple_azure_monitor_data_collector-0.1.0 (c (n "simple_azure_monitor_data_collector") (v "0.1.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.9") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "= 0.2.0-alpha.6") (d #t) (k 2)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1qlpb2inzcxsmnqylr0ma3fgzz0a6g3d4ln56zs5xbg6m988rlzl")))
+
+(define-public crate-simple_azure_monitor_data_collector-0.1.1 (c (n "simple_azure_monitor_data_collector") (v "0.1.1") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.9") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "reqwest") (r "= 0.10.0-alpha.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "= 0.2.0-alpha.6") (d #t) (k 2)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "10adfkqj3pszaqqkrjhvdyyxkm5ncvjsm8qsydrbbsahvd9cfdgg")))
+

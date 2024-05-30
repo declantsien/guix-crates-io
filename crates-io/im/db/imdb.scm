@@ -1,0 +1,4 @@
+(define-module (crates-io im db imdb) #:use-module (crates-io))
+
+(define-public crate-imdb-0.0.1 (c (n "imdb") (v "0.0.1") (d (list (d (n "colored") (r "^1.6.0") (d #t) (k 2)) (d (n "derive_builder") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.3") (d #t) (k 2)) (d (n "glob") (r "^0.2.11") (d #t) (k 2)) (d (n "hyper") (r "^0.11.6") (d #t) (k 0)) (d (n "language-tags") (r "^0.2.2") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.0") (d #t) (k 0)) (d (n "scraper") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1.7") (d #t) (k 2)) (d (n "url") (r "^1.6.0") (d #t) (k 0)))) (h "0j4f2l90n2wwx1k51h40bi5h5r54xf29k9ad7kyj9kfqwz7i45sp") (f (quote (("serde-impls" "serde_derive" "serde"))))))
+

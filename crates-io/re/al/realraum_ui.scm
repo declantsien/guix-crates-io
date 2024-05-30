@@ -1,0 +1,4 @@
+(define-module (crates-io re al realraum_ui) #:use-module (crates-io))
+
+(define-public crate-realraum_ui-0.0.0 (c (n "realraum_ui") (v "0.0.0") (d (list (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1.7") (d #t) (k 0)) (d (n "console_log") (r "^1.0.0") (d #t) (k 0)) (d (n "gix-hash") (r "^0.11.1") (d #t) (k 0)) (d (n "gix-refspec") (r "^0.13.0") (d #t) (k 0)) (d (n "gloo-storage") (r "^0.2.2") (d #t) (k 0)) (d (n "leptos") (r "^0.3.1") (d #t) (k 0)) (d (n "leptos_router") (r "^0.3.1") (f (quote ("csr"))) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.4") (f (quote ("serde" "v4" "js"))) (d #t) (k 0)))) (h "0z2hf5c8mk0xn8hrlm8zghvy0qjqq670wqbsn3w5zdsg0lz82c5i")))
+

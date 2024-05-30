@@ -1,0 +1,6 @@
+(define-module (crates-io ad d- add-determinism) #:use-module (crates-io))
+
+(define-public crate-add-determinism-0.1.0 (c (n "add-determinism") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.12") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 2)) (d (n "indoc") (r "^2.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0mvdy7kgzs8r3y19xhz9cz1pvds9hz1v5y528qal7w0irany62i8")))
+
+(define-public crate-add-determinism-0.2.0 (c (n "add-determinism") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ctor") (r "^0.1") (d #t) (k 2)) (d (n "indoc") (r "^2.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "nix") (r "^0.28.0") (f (quote ("fs" "socket"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.20.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "time") (r "^0.3.34") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.0") (d #t) (k 0)))) (h "1dwkwdz1yl8pn6nq34hb96vcxh5cnjbf0ix893dzc1g3l7g992ds")))
+

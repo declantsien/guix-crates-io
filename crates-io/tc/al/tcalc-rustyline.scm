@@ -1,0 +1,8 @@
+(define-module (crates-io tc al tcalc-rustyline) #:use-module (crates-io))
+
+(define-public crate-tcalc-rustyline-1.0.0 (c (n "tcalc-rustyline") (v "1.0.0") (d (list (d (n "encode_unicode") (r "^0.1.3") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2.7") (d #t) (k 0)) (d (n "nix") (r "^0.7") (d #t) (t "cfg(unix)") (k 0)) (d (n "tempdir") (r "^0.3.4") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.3") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "1la27m4zpdq183m0n8ib7aacljf98rs99ckzmx4zs45dx7h5qnpc")))
+
+(define-public crate-tcalc-rustyline-1.0.1 (c (n "tcalc-rustyline") (v "1.0.1") (d (list (d (n "encode_unicode") (r "^0.1.3") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2.7") (d #t) (k 0)) (d (n "nix") (r "^0.7") (d #t) (t "cfg(unix)") (k 0)) (d (n "tempdir") (r "^0.3.4") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.3") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "193c2s1p4gpaa6d05xc2w9xrpbygk2psbmpi3p11w0lr1ja8p0nc")))
+
+(define-public crate-tcalc-rustyline-1.0.2 (c (n "tcalc-rustyline") (v "1.0.2") (d (list (d (n "dirs") (r "^2.0.1") (d #t) (k 0)) (d (n "encode_unicode") (r "^0.1.3") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2.7") (d #t) (k 0)) (d (n "nix") (r "^0.7") (d #t) (t "cfg(unix)") (k 0)) (d (n "tempdir") (r "^0.3.4") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.3") (d #t) (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)))) (h "0gdgv0795mii538j76p7kfkyqmj3yszd9hz81nbg849kbki91ipk")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io y- la y-lang) #:use-module (crates-io))
+
+(define-public crate-y-lang-0.1.0 (c (n "y-lang") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "pest") (r "^2.5") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (f (quote ("colored" "colors"))) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)))) (h "1ylsyayka6xam4mbnh7cm2520lmf8bcxj1gz2jbmxv3h46g38pgd")))
+
+(define-public crate-y-lang-0.1.1 (c (n "y-lang") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "pest") (r "^2.5") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (f (quote ("colored" "colors"))) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)))) (h "10v721p1qbfb7f53xac6j4i9kpalspf2n11f6namjsl73aq5pc2k")))
+
+(define-public crate-y-lang-0.1.2 (c (n "y-lang") (v "0.1.2") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "pest") (r "^2.5") (d #t) (k 0)) (d (n "pest_derive") (r "^2.5") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (f (quote ("colored" "colors"))) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)))) (h "0d5dm5861ykmnaqnii77v6p2yrzn00l5p0j4k4j8ys0jsdff5czw")))
+
+(define-public crate-y-lang-0.1.3 (c (n "y-lang") (v "0.1.3") (d (list (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "once_cell") (r "^1.17") (d #t) (k 0)) (d (n "pest") (r "^2.6") (d #t) (k 0)) (d (n "pest_derive") (r "^2.6") (d #t) (k 0)) (d (n "simple_logger") (r "^4.1.0") (f (quote ("colored" "colors"))) (k 0)) (d (n "unescape") (r "^0.1.0") (d #t) (k 0)))) (h "1hfv1c3ldwcv1rnxv26wxpyf1wqsbr0idpzkp3f48v620y889vcv")))
+

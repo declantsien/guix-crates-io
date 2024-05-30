@@ -1,0 +1,8 @@
+(define-module (crates-io fp m- fpm-lib) #:use-module (crates-io))
+
+(define-public crate-fpm-lib-0.6.0 (c (n "fpm-lib") (v "0.6.0") (d (list (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "fs-err") (r "^2.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "turbosql") (r "^0.7") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "diff") (r "^0.1") (d #t) (k 2)))) (h "0zdw7zx9v6c8rf6ih6d3ksmx8wjp4r1y1kddms9qchgmc8vdlz95") (y #t)))
+
+(define-public crate-fpm-lib-0.6.2 (c (n "fpm-lib") (v "0.6.2") (d (list (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "fs-err") (r "^2.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "turbosql") (r "^0.7") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "diff") (r "^0.1") (d #t) (k 2)))) (h "0igclkzq9ar91npqzz22xq5shshzry5vpq9q7mxs41ssyk858a5d") (y #t)))
+
+(define-public crate-fpm-lib-0.6.1 (c (n "fpm-lib") (v "0.6.1") (d (list (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "fs-err") (r "^2.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)) (d (n "turbosql") (r "^0.7") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "diff") (r "^0.1") (d #t) (k 2)))) (h "0rb61m08pqm9cpyn1591x5r8hk09zzrl09hinfhypij6dg53dqa0") (y #t)))
+

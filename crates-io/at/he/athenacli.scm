@@ -1,0 +1,4 @@
+(define-module (crates-io at he athenacli) #:use-module (crates-io))
+
+(define-public crate-athenacli-0.1.0 (c (n "athenacli") (v "0.1.0") (d (list (d (n "ascii_table") (r "^3.0") (d #t) (k 0)) (d (n "byte-unit") (r "^4.0") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "humantime") (r "^2.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-proxy") (r "^0.7") (d #t) (k 0)) (d (n "rusoto_athena") (r "^0.45") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.45") (d #t) (k 0)) (d (n "rusoto_signature") (r "^0.45") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r ">0.2.20") (f (quote ("macros" "rt-core" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1hpy891x7bqdmcaq8lvwlaf801zzp32nmn4ji3258nbdvvpv0j43")))
+

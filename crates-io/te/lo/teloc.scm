@@ -1,0 +1,6 @@
+(define-module (crates-io te lo teloc) #:use-module (crates-io))
+
+(define-public crate-teloc-0.1.0 (c (n "teloc") (v "0.1.0") (d (list (d (n "actix-http") (r "^2") (o #t) (d #t) (k 0)) (d (n "actix-router") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "actix-web") (r "^3") (o #t) (d #t) (k 0)) (d (n "frunk") (r "^0.3.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "pin-project") (r "^1") (o #t) (d #t) (k 0)) (d (n "teloc_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 2)))) (h "0x27ixf2dx281k6hf0gx082dh7xlbl9pidqaa46hlzy3ncbcv33x") (f (quote (("default") ("actix-support" "actix-web" "actix-http" "actix-router" "pin-project"))))))
+
+(define-public crate-teloc-0.2.0 (c (n "teloc") (v "0.2.0") (d (list (d (n "actix-http") (r "^2") (o #t) (d #t) (k 0)) (d (n "actix-router") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "actix-web") (r "^3") (o #t) (d #t) (k 0)) (d (n "frunk") (r "^0.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.1") (d #t) (k 0)) (d (n "pin-project") (r "^1") (o #t) (d #t) (k 0)) (d (n "teloc_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 2)))) (h "0m46dvqnsj51i3sxd40xa5pfqm0bzg8fw5g4ak3m78s807zrfxcc") (f (quote (("default") ("actix-support" "actix-web" "actix-http" "actix-router" "pin-project"))))))
+

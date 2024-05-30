@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_tiled_blueprints) #:use-module (crates-io))
+
+(define-public crate-bevy_tiled_blueprints-0.1.0 (c (n "bevy_tiled_blueprints") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12") (d #t) (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("bevy_ui" "bevy_asset" "bevy_text" "bevy_render" "file_watcher"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "bevy-inspector-egui") (r "^0.21") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "bevy_ecs_tilemap") (r "^0.12") (d #t) (k 0)) (d (n "bevy_egui") (r "^0.23") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 2)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tiled") (r "^0.11") (d #t) (k 0)))) (h "0k338zkvb8zmf41s4snfq3ycfxydyb3yyvjirswcq7x5mpm49ppj")))
+

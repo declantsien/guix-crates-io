@@ -1,0 +1,10 @@
+(define-module (crates-io bi ns binsec) #:use-module (crates-io))
+
+(define-public crate-binsec-0.1.0 (c (n "binsec") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "goblin") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "term-table") (r "^1.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "070icm6si5c6msn1rfpm0szzx5w16yijd1595b5ys8qqqb1rlld6")))
+
+(define-public crate-binsec-0.2.0 (c (n "binsec") (v "0.2.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "goblin") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "term-table") (r "^1.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "09k3x2w8p0icpsqzky909ms24vcsa9n3jagpdphc4ml2isspgkaw")))
+
+(define-public crate-binsec-1.0.0 (c (n "binsec") (v "1.0.0") (d (list (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "goblin") (r "^0.2.3") (d #t) (k 0)) (d (n "platforms") (r "^0.2.1") (d #t) (k 0)) (d (n "procfs") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sysctl") (r "^0.4.0") (d #t) (k 0)) (d (n "term-table") (r "^1.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "typetag") (r "^0.1") (d #t) (k 0)))) (h "0fxhzsmarydnrf126jqpwaikjv9azhmqkbps1jxriv4my60jh1ww")))
+
+(define-public crate-binsec-3.0.0 (c (n "binsec") (v "3.0.0") (d (list (d (n "byte-unit") (r "^4.0.10") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "goblin") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "yara") (r "^0.6.1") (d #t) (k 0)))) (h "0llgvd73fm4p3k5avpdy8ca2z4yqdg6ph37fsssvflm44hpnnrfx")))
+

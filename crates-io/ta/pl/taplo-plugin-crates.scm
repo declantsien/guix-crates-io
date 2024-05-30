@@ -1,0 +1,4 @@
+(define-module (crates-io ta pl taplo-plugin-crates) #:use-module (crates-io))
+
+(define-public crate-taplo-plugin-crates-0.1.0 (c (n "taplo-plugin-crates") (v "0.1.0") (d (list (d (n "arc-swap") (r "^1.5.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "crates-index") (r "^0.18.7") (f (quote ("parallel"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.10.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "smartstring") (r "=1.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "taplo") (r "^0.8.0") (d #t) (k 0)) (d (n "taplo-common") (r "^0.1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0pviwmagjlqbffrwwmd13p80wpinxhpyid7zj1a739bax5ksxhkd")))
+

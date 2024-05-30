@@ -1,0 +1,6 @@
+(define-module (crates-io al ex alexcrichton-cranelift-frontend) #:use-module (crates-io))
+
+(define-public crate-alexcrichton-cranelift-frontend-0.52.0 (c (n "alexcrichton-cranelift-frontend") (v "0.52.0") (d (list (d (n "alexcrichton-cranelift-codegen") (r "^0.52.0") (k 0)) (d (n "hashbrown") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.6") (k 0)) (d (n "smallvec") (r "^1.0.0") (d #t) (k 0)) (d (n "target-lexicon") (r "^0.10") (d #t) (k 0)))) (h "0jdmyl3aca3wz6hq7789nap1q20ngnqgy8sbm06m59n10rx2i30f") (f (quote (("std" "alexcrichton-cranelift-codegen/std") ("default" "std" "basic-blocks") ("core" "hashbrown" "alexcrichton-cranelift-codegen/core") ("basic-blocks" "alexcrichton-cranelift-codegen/basic-blocks"))))))
+
+(define-public crate-alexcrichton-cranelift-frontend-0.53.0 (c (n "alexcrichton-cranelift-frontend") (v "0.53.0") (d (list (d (n "alexcrichton-cranelift-codegen") (r "^0.53.0") (k 0)) (d (n "hashbrown") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.6") (k 0)) (d (n "smallvec") (r "^1.0.0") (d #t) (k 0)) (d (n "target-lexicon") (r "^0.10") (d #t) (k 0)))) (h "109j4xd6vg80d8wwz0ykyk3qsvzr2cw1lyh31k3sqb8gnz60bi3b") (f (quote (("std" "alexcrichton-cranelift-codegen/std") ("default" "std" "basic-blocks") ("core" "hashbrown" "alexcrichton-cranelift-codegen/core") ("basic-blocks" "alexcrichton-cranelift-codegen/basic-blocks"))))))
+

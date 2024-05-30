@@ -1,0 +1,16 @@
+(define-module (crates-io ss h- ssh-gpg-agent) #:use-module (crates-io))
+
+(define-public crate-ssh-gpg-agent-0.0.0 (c (n "ssh-gpg-agent") (v "0.0.0") (h "161nasr6qbn35qc7b4cldaix1x9m04mpys0mqz2fggilfnpb7lsd")))
+
+(define-public crate-ssh-gpg-agent-0.1.0 (c (n "ssh-gpg-agent") (v "0.1.0") (d (list (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "gpgme") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ring") (r "^0.14.6") (d #t) (k 0)) (d (n "ssh-agent") (r "^0.2.1") (d #t) (k 0)) (d (n "ssh-keys") (r "^0.1.3") (d #t) (k 0)) (d (n "untrusted") (r "^0.6") (d #t) (k 0)))) (h "03kfd4gfdifsl3z93snc44w7s0gv63vf7cf19zw81qcrap6rafv4")))
+
+(define-public crate-ssh-gpg-agent-0.1.1 (c (n "ssh-gpg-agent") (v "0.1.1") (d (list (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (k 0)) (d (n "gpgme") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ring") (r "^0.14.6") (d #t) (k 0)) (d (n "ssh-agent") (r "^0.2.1") (d #t) (k 0)) (d (n "ssh-keys") (r "^0.1.3") (d #t) (k 0)) (d (n "untrusted") (r "^0.6") (d #t) (k 0)))) (h "0zj71l25vmrvcrxa9jx5yk0fhnzb2rca7h658r2ppj97z70c214z")))
+
+(define-public crate-ssh-gpg-agent-0.1.2 (c (n "ssh-gpg-agent") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (k 0)) (d (n "gpgme") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ring") (r "^0.14.6") (d #t) (k 0)) (d (n "ssh-agent") (r "^0.2.2") (d #t) (k 0)) (d (n "ssh-keys") (r "^0.1.3") (d #t) (k 0)) (d (n "untrusted") (r "^0.6") (d #t) (k 0)))) (h "0xvdmji13qzinc8g6q561fjk82y87bgmcv75zfajfn9x67661afd")))
+
+(define-public crate-ssh-gpg-agent-0.1.3 (c (n "ssh-gpg-agent") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (k 0)) (d (n "gpgme") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ring") (r "^0.16") (f (quote ("std"))) (d #t) (k 0)) (d (n "ssh-agent") (r "^0.2.3") (f (quote ("agent"))) (d #t) (k 0)) (d (n "ssh-keys") (r "^0.1.3") (d #t) (k 0)))) (h "1nkjam4dxaxsr8bnr9102115ny7dffyqr3mcyapj00qwzkkyya13")))
+
+(define-public crate-ssh-gpg-agent-0.1.4 (c (n "ssh-gpg-agent") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "dirs") (r "^4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (k 0)) (d (n "gpgme") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ring") (r "^0.16") (f (quote ("std"))) (d #t) (k 0)) (d (n "ssh-agent-lib") (r "^0.2.5") (f (quote ("agent"))) (d #t) (k 0)) (d (n "ssh-keys") (r "^0.1.3") (d #t) (k 0)))) (h "1589vz0hmjhnzlqc2lclnbks7mcabgkv70r61ahkchc272fkaymp") (r "1.56")))
+
+(define-public crate-ssh-gpg-agent-0.1.5 (c (n "ssh-gpg-agent") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.14") (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (k 0)) (d (n "gpgme") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "openssl") (r "^0.10.39") (d #t) (k 0)) (d (n "ring") (r "^0.17") (f (quote ("std"))) (k 0)) (d (n "ssh-agent-lib") (r "^0.2.5") (f (quote ("agent"))) (d #t) (k 0)) (d (n "ssh-keys") (r "^0.1.3") (d #t) (k 0)))) (h "0278w2drwv0jjk4my8kzph70bx5kng4bkswvp1dfawz7likz7jdy") (r "1.70")))
+

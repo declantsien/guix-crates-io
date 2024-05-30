@@ -1,0 +1,12 @@
+(define-module (crates-io al sa alsaseq) #:use-module (crates-io))
+
+(define-public crate-alsaseq-0.0.90 (c (n "alsaseq") (v "0.0.90") (d (list (d (n "alsatimer") (r "^0.0.90") (d #t) (k 0)) (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ffi") (r "^0.0.90") (d #t) (k 0) (p "alsaseq-sys")) (d (n "gir-format-check") (r "^0.1") (d #t) (k 2)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (k 2)))) (h "0srw9jp5x5hlq74cjwxanpmvzfi61rk86agz5b0bx762vcs2inac") (y #t)))
+
+(define-public crate-alsaseq-0.0.92 (c (n "alsaseq") (v "0.0.92") (d (list (d (n "alsatimer") (r "^0.0.92") (d #t) (k 0)) (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ffi") (r "^0.0.92") (d #t) (k 0) (p "alsaseq-sys")) (d (n "gir-format-check") (r "^0.1") (d #t) (k 2)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (k 2)))) (h "1rxrqy2kvscjirqjcv6sdc2qrzrv047zqv3kzbxjg8jjak7grgap") (f (quote (("dox" "ffi/dox" "glib/dox" "alsatimer/dox")))) (y #t)))
+
+(define-public crate-alsaseq-0.4.0 (c (n "alsaseq") (v "0.4.0") (d (list (d (n "alsatimer") (r "^0.4.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ffi") (r "^0.4.0") (d #t) (k 0) (p "alsaseq-sys")) (d (n "gir-format-check") (r "^0.1") (d #t) (k 2)) (d (n "glib") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.17") (d #t) (k 2)))) (h "01dic5nr2g4w5ykka2w4fsawm3998qh9rx967bzkhf3dyyd4xgn1") (f (quote (("dox" "ffi/dox" "glib/dox" "alsatimer/dox"))))))
+
+(define-public crate-alsaseq-0.5.0 (c (n "alsaseq") (v "0.5.0") (d (list (d (n "alsatimer") (r "^0.5.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ffi") (r "^0.5.0") (d #t) (k 0) (p "alsaseq-sys")) (d (n "gir-format-check") (r "^0.1") (d #t) (k 2)) (d (n "glib") (r "^0.18") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r ">=0.24") (f (quote ("signal"))) (d #t) (k 2)))) (h "1d9v4s2zmswlb47650xz2fpmmrwrb7rpq61sl9kr6h2hq9y79qik")))
+
+(define-public crate-alsaseq-0.6.0 (c (n "alsaseq") (v "0.6.0") (d (list (d (n "alsatimer") (r "^0.6.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ffi") (r "^0.6.0") (d #t) (k 0) (p "alsaseq-sys")) (d (n "gir-format-check") (r "^0.1") (d #t) (k 2)) (d (n "glib") (r "^0.19") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r ">=0.24") (f (quote ("signal"))) (d #t) (k 2)))) (h "0s0mlizakp4rd6hnldy46ix5ddh3nxkd2vqfqwrzmgq0mxhjdc4a")))
+

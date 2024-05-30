@@ -1,0 +1,4 @@
+(define-module (crates-io wa rd warden_core) #:use-module (crates-io))
+
+(define-public crate-warden_core-0.0.1 (c (n "warden_core") (v "0.0.1") (d (list (d (n "blake2") (r "^0.8.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "dirs") (r "^1.0.5") (d #t) (k 0)) (d (n "either") (r "^1.5.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fraction") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "libflate") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "path_abs") (r "^0.4.1") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "tar") (r "^0.4.24") (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("v5"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.2.7") (d #t) (k 0)) (d (n "yamlette") (r "^0.0.8") (d #t) (k 0)))) (h "1zhhj7v7ad2kpywvpninw9cjwqzgx7kcx4fnwqrjqviw7aszpp0k")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io bu il buildkite-test-collector) #:use-module (crates-io))
+
+(define-public crate-buildkite-test-collector-0.1.0 (c (n "buildkite-test-collector") (v "0.1.0") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)) (d (n "ureq") (r "^2.4.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0v3kq997y66s3qwpplvdlsc6qwsfn9n40a6k46vw2xx4gywv61x9")))
+
+(define-public crate-buildkite-test-collector-0.1.1 (c (n "buildkite-test-collector") (v "0.1.1") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)) (d (n "ureq") (r "^2.4.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "19pxkf4s5gl20ar4bk9dann6mhgf488gv5d0p9yy3s9wfpqjihdh")))
+
+(define-public crate-buildkite-test-collector-0.1.2 (c (n "buildkite-test-collector") (v "0.1.2") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)) (d (n "ureq") (r "^2.4.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "uuid") (r "^1.0.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1ls1ipbdaa4d6mwcyncp095vasinpmjkf5s5m9xwafz0vgg972gx")))
+
+(define-public crate-buildkite-test-collector-0.1.3 (c (n "buildkite-test-collector") (v "0.1.3") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (d #t) (k 2)) (d (n "ureq") (r "^2.9.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "uuid") (r "^1.7.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "15i0y7gway3j4mc82nvicd5rw6zyxgl1lb4w7fvqa8ycgxfrivj0")))
+

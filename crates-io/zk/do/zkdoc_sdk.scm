@@ -1,0 +1,6 @@
+(define-module (crates-io zk do zkdoc_sdk) #:use-module (crates-io))
+
+(define-public crate-zkdoc_sdk-0.0.0 (c (n "zkdoc_sdk") (v "0.0.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "halo2_gadgets") (r "^0.2.0") (d #t) (k 0)) (d (n "halo2_proofs") (r "^0.2.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "tabbycat") (r "^0.1") (f (quote ("attributes"))) (o #t) (d #t) (k 0)))) (h "080q38gyayyzwxf68iicixrqskpf56yrz2p77c8k02f1b5qi16mg") (f (quote (("dev-graph" "halo2_proofs/dev-graph" "plotters"))))))
+
+(define-public crate-zkdoc_sdk-0.0.1 (c (n "zkdoc_sdk") (v "0.0.1") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "ff") (r "^0.12") (d #t) (k 0)) (d (n "halo2_gadgets") (r "^0.2.0") (d #t) (k 0)) (d (n "halo2_proofs") (r "^0.2.0") (d #t) (k 0)) (d (n "plotters") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "tabbycat") (r "^0.1") (f (quote ("attributes"))) (o #t) (d #t) (k 0)))) (h "06rvn0ys4afkaihga3dk32x3jjfxnyfyb7bif26wrjjdapdvg7wa") (f (quote (("dev-graph" "halo2_proofs/dev-graph" "plotters"))))))
+

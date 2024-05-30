@@ -1,0 +1,10 @@
+(define-module (crates-io ei o- eio-ghosts) #:use-module (crates-io))
+
+(define-public crate-eio-ghosts-0.1.0 (c (n "eio-ghosts") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "crypto_box") (r "^0.9.1") (f (quote ("serde" "seal" "chacha20"))) (d #t) (k 0)) (d (n "octocrab") (r "^0.34.1") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (f (quote ("json" "mtls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "0hkasvjs986qsc0bmak14q5jngp390y6x9xahn3wnpiqkbnzxjjd")))
+
+(define-public crate-eio-ghosts-0.2.0 (c (n "eio-ghosts") (v "0.2.0") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "crypto_box") (r "^0.9.1") (f (quote ("serde" "seal" "chacha20"))) (d #t) (k 0)) (d (n "octocrab") (r "^0.34.1") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (f (quote ("json" "mtls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "00gldkcd04bcczaf7aglnpy89awgd7h1x8y4vzilsi35cx5bih31")))
+
+(define-public crate-eio-ghosts-0.3.0 (c (n "eio-ghosts") (v "0.3.0") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "crypto_box") (r "^0.9.1") (f (quote ("serde" "seal" "chacha20"))) (d #t) (k 0)) (d (n "octocrab") (r "^0.34.1") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (f (quote ("json" "mtls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "1iy6mj7kw0dlry6qrc60s0y3bgkgg1cvhybikxmx4gv6m11cdak4")))
+
+(define-public crate-eio-ghosts-0.3.1 (c (n "eio-ghosts") (v "0.3.1") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "crypto_box") (r "^0.9.1") (f (quote ("serde" "seal" "chacha20"))) (d #t) (k 0)) (d (n "octocrab") (r "^0.38.0") (d #t) (k 0)) (d (n "rocket") (r "^0.5.0") (f (quote ("json" "mtls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0n589pcqz3q76mdswryv276aail5prd7lv4jbxq2hhwy37zj7c8q")))
+

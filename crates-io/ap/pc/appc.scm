@@ -1,0 +1,10 @@
+(define-module (crates-io ap pc appc) #:use-module (crates-io))
+
+(define-public crate-appc-0.0.1-dev.1 (c (n "appc") (v "0.0.1-dev.1") (d (list (d (n "error-chain") (r "^0.10") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.8") (d #t) (k 0)) (d (n "semver") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "sha2") (r "^0.5") (d #t) (k 0)))) (h "130qbg5p50f8gmcc8qg1crdpa534dhbshx1q4yn3hmyypyky3nny")))
+
+(define-public crate-appc-0.0.1-dev.2 (c (n "appc") (v "0.0.1-dev.2") (d (list (d (n "error-chain") (r "^0.10") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.8") (d #t) (k 0)) (d (n "semver") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)) (d (n "sha2") (r "^0.5") (d #t) (k 0)))) (h "02vg7lym8qy1dd5cvfy9rnnw8fbda12xm9lc610r5cadam619pib")))
+
+(define-public crate-appc-0.0.1-dev.3 (c (n "appc") (v "0.0.1-dev.3") (d (list (d (n "error-chain") (r "^0.10") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.8") (d #t) (k 0)) (d (n "parsswd") (r "^0.1") (d #t) (k 0)) (d (n "semver") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.5") (d #t) (k 0)))) (h "01mf04dsmwv0d9wiydmi4mgma85p901rfw25q42hxv3qwj1w6g98")))
+
+(define-public crate-appc-0.0.1-dev.4 (c (n "appc") (v "0.0.1-dev.4") (d (list (d (n "error-chain") (r "^0.10") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "nix") (r "^0.8") (d #t) (k 0)) (d (n "parsswd") (r "^0.1") (d #t) (k 0)) (d (n "semver") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.5") (d #t) (k 0)))) (h "1fknlf7hvpd4rf7qdn7dwzkjcgb8qmxjdyvn0fr18k8bkmkqnd9n")))
+

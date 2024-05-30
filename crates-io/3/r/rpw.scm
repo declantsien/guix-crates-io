@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# r rpw) #:use-module (crates-io))
+
+(define-public crate-rpw-0.1.0 (c (n "rpw") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "rpassword") (r "^4.0") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.5") (d #t) (k 0)) (d (n "rustyline") (r "^6.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0632bmw5lqm755higy6n6ng1q6dvna7276q7514iq9s96zd98kwf") (y #t)))
+
+(define-public crate-rpw-0.1.1 (c (n "rpw") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "dirs") (r "^3.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "rpassword") (r "^4.0") (d #t) (k 0)) (d (n "rust-argon2") (r "^0.5") (d #t) (k 0)) (d (n "rustyline") (r "^6.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "02r5np7jgmv2a26ch3n5wbas1h20vm9pjxb8047jy49saba9bkpx") (y #t)))
+

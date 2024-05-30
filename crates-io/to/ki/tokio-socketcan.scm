@@ -1,0 +1,16 @@
+(define-module (crates-io to ki tokio-socketcan) #:use-module (crates-io))
+
+(define-public crate-tokio-socketcan-0.1.0 (c (n "tokio-socketcan") (v "0.1.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "1xp779w6281cd88y5xczmzpkdnf7r7znii2x1pyfinlg6ymjvbas")))
+
+(define-public crate-tokio-socketcan-0.1.1 (c (n "tokio-socketcan") (v "0.1.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "123bqhq38g2c85h9haxw6rkcmyg2gp0k709kdbny1y0by0p5ql9k")))
+
+(define-public crate-tokio-socketcan-0.1.2 (c (n "tokio-socketcan") (v "0.1.2") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "06z1l2ljynpnl0jvr1h62fzmc6ph5v1mmb5dcwf5xkq0gc77cp2h")))
+
+(define-public crate-tokio-socketcan-0.1.3 (c (n "tokio-socketcan") (v "0.1.3") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)))) (h "037ffxaaw1qk52yjxi9iqa0qdnnl1sadhk4ba4zdrj38qgbr8vi4")))
+
+(define-public crate-tokio-socketcan-0.2.0 (c (n "tokio-socketcan") (v "0.2.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("net" "macros"))) (d #t) (k 0)))) (h "1nkj26i60s0d7lcjz3fxmdvspsg8p6bw1y47cah5gb55l776yfyb")))
+
+(define-public crate-tokio-socketcan-0.3.0 (c (n "tokio-socketcan") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.7") (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1gh6yyxc6ghv933dn70cpa6aqdibwcyp8vc73japas2m04vp3dbd")))
+
+(define-public crate-tokio-socketcan-0.3.1 (c (n "tokio-socketcan") (v "0.3.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-timer") (r "^3.0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-ext"))) (d #t) (k 0)) (d (n "socketcan") (r "^1.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1glkdmi3a2ppypgrxqafkrz4p26ihk6l4vhlw40vbg9g37vy0a7x")))
+

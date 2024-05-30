@@ -1,0 +1,10 @@
+(define-module (crates-io gi t_ git_mob_rs) #:use-module (crates-io))
+
+(define-public crate-git_mob_rs-0.1.0 (c (n "git_mob_rs") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "dirs") (r "^1.0.5") (d #t) (k 0)) (d (n "git2") (r "^0.13.18") (d #t) (k 0)) (d (n "open") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1yxlmf4m9kqj2m4kd8jd8hxwbss6jx05f76xp7blh252bb0a9dyh")))
+
+(define-public crate-git_mob_rs-0.1.1 (c (n "git_mob_rs") (v "0.1.1") (d (list (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "dirs") (r "^1.0.5") (d #t) (k 0)) (d (n "git2") (r "^0.13.18") (d #t) (k 0)) (d (n "open") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1fb2l8xh72l8ipp1asp9lk50g9qn1c5p8nj7vax0fb2isx2r6q1h")))
+
+(define-public crate-git_mob_rs-0.3.0 (c (n "git_mob_rs") (v "0.3.0") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "git2") (r "^0.16.1") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "open") (r "^3.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1fcfmw06z2vnc4l4svdwvsbfygcjyx4dd0hk7jvp0j4d0vxldm66")))
+
+(define-public crate-git_mob_rs-0.4.0 (c (n "git_mob_rs") (v "0.4.0") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "gix") (r "^0.59.0") (d #t) (k 0)) (d (n "gix-config") (r "^0.35.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "open") (r "^5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0l3ar4j0463g84abi99j2405s8x2kg44krvhy7fs93gglqfa83kx")))
+

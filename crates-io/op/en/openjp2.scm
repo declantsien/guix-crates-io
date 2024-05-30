@@ -1,0 +1,32 @@
+(define-module (crates-io op en openjp2) #:use-module (crates-io))
+
+(define-public crate-openjp2-0.1.0 (c (n "openjp2") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "1rijacaqzng9vciz4zjx9p79h84lsn20nkpd8bpbr9jc4k4lfg6y") (f (quote (("std" "log/std") ("default" "std"))))))
+
+(define-public crate-openjp2-0.2.0 (c (n "openjp2") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "0nsd0a2cbj74mlrp2psn5cmkf0vcgwmhpbplnlwvd3ljcw9hzf4r") (f (quote (("std" "log/std") ("default" "std"))))))
+
+(define-public crate-openjp2-0.3.0 (c (n "openjp2") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "0g41jpjf0y5h9lx6k4nkcbq9f9nd225q34dd4fhvvss6vawwpd8l") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.3.1 (c (n "openjp2") (v "0.3.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "19civqrjqc84cif1qsn8rgb9j9sv616s8f44iqd6y6hcbp70yjmw") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.3.2 (c (n "openjp2") (v "0.3.2") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "1sx1cnfykp286bjaw3xjgn4pnkdarsn8cv1y5ib5bjajh1wvh9k8") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.3.3 (c (n "openjp2") (v "0.3.3") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "1300f0y5nipf7y698bf668843iqr53p9xbs91yglijgz509ys8hg") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.3.4 (c (n "openjp2") (v "0.3.4") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "0n2jkac6di4yqi4lfsx40a2ms6ccyqf6n4am4ww3lcp7k4jnhcvl") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io")))) (y #t)))
+
+(define-public crate-openjp2-0.4.0 (c (n "openjp2") (v "0.4.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "09n86xbcs9nw6z7ahq5av33nqf2cmgxaj3jbk83jpxb5p87akrn0") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.4.1 (c (n "openjp2") (v "0.4.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "1klcsms8h253gvnbs9r5gpfmbf9a5mzihymnxgdgzzwpa4w1fnff") (f (quote (("std" "log/std") ("file-io" "libc") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.3.5 (c (n "openjp2") (v "0.3.5") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "14qp6f9gmx7hzr2xd507f404c3a29bsfzk8pcj34cvwlzsjq171m") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.3.6 (c (n "openjp2") (v "0.3.6") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "11y49nbhcm1cgg27n74x53lgazlq0qhghhxpqdg8vqffi0frg3j6") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.5.0 (c (n "openjp2") (v "0.5.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "03pc1w9vfcyxi4h1jg29dm3vwvz9cpinwv592k1risiijsxgiff9") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.5.1 (c (n "openjp2") (v "0.5.1") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "0bx6brh03j7mnnr5m0p9l31n4fw6ifqgvnds1w7g8mgs1m4plf9l") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io")))) (y #t)))
+
+(define-public crate-openjp2-0.5.2 (c (n "openjp2") (v "0.5.2") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "1m9460622cc599lyaf47yff1bz6sn11k9vd45363rg02vziwhzx0") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+
+(define-public crate-openjp2-0.5.3 (c (n "openjp2") (v "0.5.3") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)) (d (n "sprintf") (r "^0.1.3") (d #t) (k 0)))) (h "1wfxddysjsmdkkbmq6asa3sk4g6zadvk59q704pjyprg4c1jln2c") (f (quote (("std" "log/std") ("file-io") ("default" "std" "file-io"))))))
+

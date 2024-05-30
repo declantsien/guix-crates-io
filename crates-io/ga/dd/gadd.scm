@@ -1,0 +1,12 @@
+(define-module (crates-io ga dd gadd) #:use-module (crates-io))
+
+(define-public crate-gadd-0.1.0 (c (n "gadd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "git2") (r "^0.17.1") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9.85") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "ratatui") (r "^0.20.1") (d #t) (k 0)))) (h "1gqwgibvnr0gljxzzak34hzwkw1xwq36cc4b38brjzcarnrjps6w")))
+
+(define-public crate-gadd-0.2.0 (c (n "gadd") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "git2") (r "^0.17.1") (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "ratatui") (r "^0.20.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(windows)") (k 0)))) (h "0rawa6kgg76ywxq61w1azdv50gbk03zkv4d9xb97yc185ajpfwzw")))
+
+(define-public crate-gadd-0.3.0 (c (n "gadd") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "arboard") (r "^3.2.0") (k 0)) (d (n "crossterm") (r "^0.26.1") (k 0)) (d (n "git2") (r "^0.17.1") (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "ratatui") (r "^0.20.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(windows)") (k 0)) (d (n "wsl") (r "^0.1.0") (d #t) (k 0)))) (h "0nq8fq4kp59l87nfp4npf4hqdq46zwh7li4nksx4i9wx3ck4yv4v")))
+
+(define-public crate-gadd-0.5.0 (c (n "gadd") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.4") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (k 0)) (d (n "git2") (r "^0.17.1") (f (quote ("ssh" "https" "ssh_key_from_memory" "vendored-openssl"))) (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "ratatui") (r "^0.26.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(windows)") (k 0)))) (h "0g8p3a3hz3ixkp1rfhrcnjzsrlljimhx7wshy2567cvc693lmzls")))
+
+(define-public crate-gadd-0.4.0 (c (n "gadd") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (k 0)) (d (n "git2") (r "^0.17.1") (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "ratatui") (r "^0.20.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (t "cfg(windows)") (k 0)))) (h "1f44b8zcahy818skzvgjpb17jf7za5mlgk1w2d3gwwki01ghlhrl")))
+

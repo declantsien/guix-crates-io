@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# p pox) #:use-module (crates-io))
+
+(define-public crate-pox-0.2.0 (c (n "pox") (v "0.2.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "elf") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "libloading") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "nix") (r "^0.27") (f (quote ("process" "ptrace"))) (o #t) (d #t) (k 0)) (d (n "proc-maps") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "retour") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (o #t) (d #t) (k 0)))) (h "0dhcfslz947f4ly4bk1qfdiglrgxpf45jjjcazys460nga6qw9bz") (f (quote (("default" "locator" "rc" "monitor" "vector" "gadget")))) (s 2) (e (quote (("vector" "locator" "rc" "monitor" "dep:clap") ("rc" "dep:nix") ("monitor" "dep:tracing-subscriber") ("locator" "dep:elf" "dep:proc-maps" "dep:retour" "dep:libloading") ("gadget" "dep:clap"))))))
+

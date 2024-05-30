@@ -1,0 +1,6 @@
+(define-module (crates-io va ri varisat-checker) #:use-module (crates-io))
+
+(define-public crate-varisat-checker-0.2.1 (c (n "varisat-checker") (v "0.2.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "hashbrown") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "proptest") (r "^0.9.3") (d #t) (k 2)) (d (n "smallvec") (r "^0.6.9") (d #t) (k 0)) (d (n "varisat-dimacs") (r "= 0.2.1") (d #t) (k 0)) (d (n "varisat-formula") (r "= 0.2.1") (d #t) (k 0)) (d (n "varisat-internal-proof") (r "= 0.2.1") (d #t) (k 0)))) (h "0yqaka53s24hqjvrdwvgz2kpnbsfk63sw51xzdk9s22vwbashkd4")))
+
+(define-public crate-varisat-checker-0.2.2 (c (n "varisat-checker") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "partial_ref") (r "^0.3.1") (d #t) (k 0)) (d (n "proptest") (r "^0.10.1") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.4.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.20") (d #t) (k 0)) (d (n "varisat-dimacs") (r "=0.2.2") (d #t) (k 0)) (d (n "varisat-formula") (r "=0.2.2") (d #t) (k 0)) (d (n "varisat-formula") (r "=0.2.2") (f (quote ("internal-testing"))) (d #t) (k 2)) (d (n "varisat-internal-proof") (r "=0.2.2") (d #t) (k 0)))) (h "0fvndkgd2ypgr9rygnj0glxk0492696qw6xqysc6xv8kb5y9fp0k")))
+

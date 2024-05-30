@@ -1,0 +1,28 @@
+(define-module (crates-io li bi libimagentryutil) #:use-module (crates-io))
+
+(define-public crate-libimagentryutil-0.6.0 (c (n "libimagentryutil") (v "0.6.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "1s58hc7mszgbihl30h9ymhr8ya52n4900ab6fxis09igw2myldky")))
+
+(define-public crate-libimagentryutil-0.6.2 (c (n "libimagentryutil") (v "0.6.2") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.2") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "1yqhbyqja1x3mx8fqql5d3107jjjiw7f4hn774z9kwfp5xjfbh00")))
+
+(define-public crate-libimagentryutil-0.6.3 (c (n "libimagentryutil") (v "0.6.3") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "0m8wv8dz112i5h24amz0c27i98sgq86n2j8ic3xwbkpszzsdqnsd")))
+
+(define-public crate-libimagentryutil-0.6.4 (c (n "libimagentryutil") (v "0.6.4") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "0cchyll8wrhbqnzpmf5q2s5pn3fi9ipqnhyfxr9f4qf9zshlnr3b")))
+
+(define-public crate-libimagentryutil-0.7.0 (c (n "libimagentryutil") (v "0.7.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "1ynxg00d94x20wwwkhkf3cvf3fvwrmp4dgx113cxkhakzbjgwzl6")))
+
+(define-public crate-libimagentryutil-0.7.1 (c (n "libimagentryutil") (v "0.7.1") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.2") (d #t) (k 0)) (d (n "libimagerror") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "0ljqrcr14cj2ibsi55fs43i6pffm9gnckf606zgh26hpy77xzrlb")))
+
+(define-public crate-libimagentryutil-0.8.0 (c (n "libimagentryutil") (v "0.8.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "filters") (r "^0.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.8.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "0l101lfr23gcd56cxpkicfph5gwj9rzjkwwp3m5d5qk7n0442pll")))
+
+(define-public crate-libimagentryutil-0.9.0 (c (n "libimagentryutil") (v "0.9.0") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "filters") (r "^0.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "0pri3mf2xy715rfrzxjymw2plmrl31sfzpg590rfblwlwplrjadn")))
+
+(define-public crate-libimagentryutil-0.9.1 (c (n "libimagentryutil") (v "0.9.1") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "filters") (r "^0.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "0ah9wg986bfddrwhdzd8z5ms9g1i158i4jd7k2j6j9yr65dpzz7n")))
+
+(define-public crate-libimagentryutil-0.9.2 (c (n "libimagentryutil") (v "0.9.2") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "filters") (r "^0.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "1a3srm29v2p0f3hg4y3xrs3dmnd4rqcbp0b4zmr1100c4y3h2l2d")))
+
+(define-public crate-libimagentryutil-0.9.3 (c (n "libimagentryutil") (v "0.9.3") (d (list (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "filters") (r "^0.3") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "0x3fnxkjrypz16z0b9vvr4y9jh7pw8q6hbr6xg8wifbp4x0j7vi1")))
+
+(define-public crate-libimagentryutil-0.10.0 (c (n "libimagentryutil") (v "0.10.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "filters") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "toml-query") (r "^0.9.2") (d #t) (k 0)))) (h "1w183ajsxyqwp0jlnib8q6ph6s0gcsgj3xg3gd7hp6wl6wppkx0c")))
+
+(define-public crate-libimagentryutil-0.10.1 (c (n "libimagentryutil") (v "0.10.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "filters") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "toml-query") (r "^0.9.2") (d #t) (k 0)))) (h "1zmb6bpif2917wf1316sfzsbldg7ac20abvzqkxxl3cn1q1kb7x4")))
+

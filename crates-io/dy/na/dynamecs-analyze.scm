@@ -1,0 +1,6 @@
+(define-module (crates-io dy na dynamecs-analyze) #:use-module (crates-io))
+
+(define-public crate-dynamecs-analyze-0.0.1 (c (n "dynamecs-analyze") (v "0.0.1") (d (list (d (n "escargot") (r "^0.5.7") (d #t) (k 2)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 2)) (d (n "time") (r "^0.3.20") (f (quote ("serde" "parsing" "formatting"))) (d #t) (k 0)))) (h "10kin9w973vj8y5braj12yjilps9d4zzj9kdj3j38ipcrj3ayyb0")))
+
+(define-public crate-dynamecs-analyze-0.0.2 (c (n "dynamecs-analyze") (v "0.0.2") (d (list (d (n "escargot") (r "^0.5.7") (d #t) (k 2)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "insta") (r "^1.29.0") (d #t) (k 2)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 2)) (d (n "time") (r "^0.3.20") (f (quote ("serde" "parsing" "formatting"))) (d #t) (k 0)))) (h "0aqvcbqnc4iklqy9yg5p35gf7dpgf9mkl9yhrkr4319w55scpgz0")))
+

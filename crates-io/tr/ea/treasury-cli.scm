@@ -1,0 +1,6 @@
+(define-module (crates-io tr ea treasury-cli) #:use-module (crates-io))
+
+(define-public crate-treasury-cli-0.1.0 (c (n "treasury-cli") (v "0.1.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt" "net" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "treasury-client") (r "=0.1.0") (d #t) (k 0)) (d (n "url") (r "^2.0") (d #t) (k 0)))) (h "10cbq8y0bc2j9kiz26d7y8ykbhfpicmxx8vb3baqmp5vaxxzhv53")))
+
+(define-public crate-treasury-cli-0.2.0 (c (n "treasury-cli") (v "0.2.0") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt" "net" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "treasury-client") (r "=0.2.0") (d #t) (k 0)) (d (n "url") (r "^2.0") (d #t) (k 0)))) (h "01vv3faircqlnv2vvx79fyj619bvs2zkypxd30vd9j2vls1752mn")))
+

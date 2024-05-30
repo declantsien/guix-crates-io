@@ -1,0 +1,6 @@
+(define-module (crates-io di tt ditto) #:use-module (crates-io))
+
+(define-public crate-ditto-0.1.0 (c (n "ditto") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.1") (d #t) (k 2)) (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "clippy") (r "~0.0.187") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0h4xc76ch4zs3nh0g81i5qr610fpm7qxlilmn8l5imhbqnx8iwsq")))
+
+(define-public crate-ditto-0.2.0 (c (n "ditto") (v "0.2.0") (d (list (d (n "assert_matches") (r "^1.1") (d #t) (k 2)) (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "clippy") (r "~0.0.187") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "num") (r "^0.1") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "04nvndj6jdrxlwx12kkg1xz17srb45r14s0jvvdgga6jq966fmsh")))
+

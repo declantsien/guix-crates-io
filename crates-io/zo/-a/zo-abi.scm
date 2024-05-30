@@ -1,0 +1,18 @@
+(define-module (crates-io zo -a zo-abi) #:use-module (crates-io))
+
+(define-public crate-zo-abi-0.2.0 (c (n "zo-abi") (v "0.2.0") (d (list (d (n "anchor-lang") (r "^0.20.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r "^1.9") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "1v6p8mgxv67hjzqaz69awfd3cj74ybsz9ngqvn3fh0p31if4xk2m") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.3.0 (c (n "zo-abi") (v "0.3.0") (d (list (d (n "anchor-lang") (r "^0.20.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r "^1.9") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "1dqa1jms45v6hl69yc4cyr9y9lwb7g02c8m8mdzjs2zmwrm9i8rf") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.4.0-beta.1 (c (n "zo-abi") (v "0.4.0-beta.1") (d (list (d (n "anchor-lang") (r "^0.21.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r "^1.9") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "1fiwwnx8335rns3kzvbhf7yajgvic6zw1725iqkxvicpv3i8j0hd") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.4.0-beta.2 (c (n "zo-abi") (v "0.4.0-beta.2") (d (list (d (n "anchor-lang") (r "^0.21.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r "<=1.11") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "1z9qchazm0wzps54qdxws36d7q4bsvy4nkqhm615955lkry3vcxa") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.4.0 (c (n "zo-abi") (v "0.4.0") (d (list (d (n "anchor-lang") (r "^0.22.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r ">=1.8, <=1.11") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "0dnjvgmq1486yq25bxhn353vwv751m5g3ywx9mmrgwnmw4xbd565") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.5.0 (c (n "zo-abi") (v "0.5.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r ">=1.8, <=1.11") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "1b3ackhxb8xcbz4pjh85fsrv2pywiyh7ypa180492n5n7iasm4ix") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.6.0-beta.1 (c (n "zo-abi") (v "0.6.0-beta.1") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r ">=1.8, <=1.11") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "0l6csgj1ddvk3vp70j7plldq1skwb4h716mki8bn9121hg1wxcv6") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-zo-abi-0.6.0 (c (n "zo-abi") (v "0.6.0") (d (list (d (n "anchor-lang") (r "^0.25.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "fixed") (r ">=1.8, <=1.11") (d #t) (k 0)) (d (n "solana-program") (r "^1") (d #t) (k 0)))) (h "0z3py7792if7kjr4ssj6pfc1604n051x05vb407dbz8jbsrhr89n") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("devnet") ("default" "no-entrypoint") ("cpi" "no-entrypoint"))))))
+

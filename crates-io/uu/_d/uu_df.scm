@@ -1,0 +1,50 @@
+(define-module (crates-io uu _d uu_df) #:use-module (crates-io))
+
+(define-public crate-uu_df-0.0.1 (c (n "uu_df") (v "0.0.1") (d (list (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "number_prefix") (r "^0.2") (d #t) (k 0)) (d (n "uucore") (r "^0.0.4") (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r "^0.0.4") (d #t) (k 0) (p "uucore_procs")) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "handleapi" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1ag32hlmh4gld3qgyzrg73flb1cskqjbap285wxmvad2i4p42gi2")))
+
+(define-public crate-uu_df-0.0.2 (c (n "uu_df") (v "0.0.2") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.5") (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "handleapi" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "02rzh5i0rn0i2mkrh6bxckv2pr61b68dfn4fqq1bvaqg3fp5cr8n")))
+
+(define-public crate-uu_df-0.0.3 (c (n "uu_df") (v "0.0.3") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.6") (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "handleapi" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "00b07zn1p1ycwzkvw8hfw4iwxpq2gjn9xxiy68ibl5ca1jxw6fp4")))
+
+(define-public crate-uu_df-0.0.4 (c (n "uu_df") (v "0.0.4") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.7") (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "handleapi" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1k0v6anbk0pvpq7nwyhp84a3073d5i6hcakq0blq69bas1x9h8iw")))
+
+(define-public crate-uu_df-0.0.5 (c (n "uu_df") (v "0.0.5") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.8") (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "handleapi" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1cgrq954plk8qnz7151xzsrp4q7xmcyz5qnj8hy49irkfbb3pw0k")))
+
+(define-public crate-uu_df-0.0.6 (c (n "uu_df") (v "0.0.6") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.8") (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.5") (d #t) (k 0) (p "uucore_procs")) (d (n "winapi") (r "^0.3") (f (quote ("errhandlingapi" "fileapi" "handleapi" "winerror"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1m242hmc1j78a69hm4ni73df5kw2anqalkj3km9fs3ps7bgqwk1x")))
+
+(define-public crate-uu_df-0.0.7 (c (n "uu_df") (v "0.0.7") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.9") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.6") (d #t) (k 0) (p "uucore_procs")))) (h "1skg0ddfvjbdy5lsis2lgghcav1qkyrgba5vs8qb34kmlb59w71q")))
+
+(define-public crate-uu_df-0.0.8 (c (n "uu_df") (v "0.0.8") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.10") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.7") (d #t) (k 0) (p "uucore_procs")))) (h "0wp3643i9vm1yzvm6w291837ds46nfk0ryh6bmw2fz0j31ffjxxx")))
+
+(define-public crate-uu_df-0.0.9 (c (n "uu_df") (v "0.0.9") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.8") (d #t) (k 0) (p "uucore_procs")))) (h "0vwvfpxxinbaip22ql507jaq69by9n2gvg1g19abxg2y1vzw6b9a")))
+
+(define-public crate-uu_df-0.0.12 (c (n "uu_df") (v "0.0.12") (d (list (d (n "clap") (r "^2.33") (f (quote ("wrap_help"))) (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")) (d (n "uucore_procs") (r ">=0.0.8") (d #t) (k 0) (p "uucore_procs")))) (h "18039w4296i5yc8ibarp8ndlzj4s44ax2w6i931if99w6rdlidbk")))
+
+(define-public crate-uu_df-0.0.13 (c (n "uu_df") (v "0.0.13") (d (list (d (n "clap") (r "^3.1") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "0hr0rzclpaa1mhfk8g2fvp7pd0ysfimpdhs7vcx97w8b9hk6lj6z")))
+
+(define-public crate-uu_df-0.0.14 (c (n "uu_df") (v "0.0.14") (d (list (d (n "clap") (r "^3.1") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "number_prefix") (r "^0.4") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.11") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "06qf6xsk6hkdnwsi4xbrlnxah3p7mj8jhgqajnkz51s8h6v32ihc")))
+
+(define-public crate-uu_df-0.0.15 (c (n "uu_df") (v "0.0.15") (d (list (d (n "clap") (r "^3.2") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.15") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "10hq7zvskbxvwxmw4axca3ing36lrcrcw5ifwwk6cny46yvhhnb7")))
+
+(define-public crate-uu_df-0.0.16 (c (n "uu_df") (v "0.0.16") (d (list (d (n "clap") (r "^3.2") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.16") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "0fq4lab0v0rijxsric0kxqi19mnax4d540gi210mccsf29q3ikki")))
+
+(define-public crate-uu_df-0.0.17 (c (n "uu_df") (v "0.0.17") (d (list (d (n "clap") (r "^4.0") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.17") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "0s8gws3wq7gjvnm1q5an5gqbdc1grx71k2p3jpnmdmhp2gdq47kd")))
+
+(define-public crate-uu_df-0.0.18 (c (n "uu_df") (v "0.0.18") (d (list (d (n "clap") (r "^4.2") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.18") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "13w1rw41gy4zvm9bsh8nrryizck03v2n8kjrf17d6bqrzcp5l5bp")))
+
+(define-public crate-uu_df-0.0.19 (c (n "uu_df") (v "0.0.19") (d (list (d (n "clap") (r "^4.3") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "0kif2wb4zfmnpm9xcidg41dxgccwx9nhvzi3qpk9lrvcf2bjbw23")))
+
+(define-public crate-uu_df-0.0.20 (c (n "uu_df") (v "0.0.20") (d (list (d (n "clap") (r "^4.3") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "0kipbynzprvqx3dr3xadksix85r2dhdpacqarlsrwmshl0d8xl09")))
+
+(define-public crate-uu_df-0.0.21 (c (n "uu_df") (v "0.0.21") (d (list (d (n "clap") (r "^4.3") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "108jyccla7089lrhbisvgzs8qlaj9dzfjf8vkfrcw3adgzwr616r")))
+
+(define-public crate-uu_df-0.0.22 (c (n "uu_df") (v "0.0.22") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "1jia3202qv2q2zvki1k24mxiqs4d8dw6zdgs9gg719klpbvjzxdk")))
+
+(define-public crate-uu_df-0.0.23 (c (n "uu_df") (v "0.0.23") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "1873c6py3ryvkln66x72q8gnr18fhz56x0w36nxbxp6r2ll9sz17")))
+
+(define-public crate-uu_df-0.0.24 (c (n "uu_df") (v "0.0.24") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "1plrc52cji8ibygipcqzir7i2qh1dy2vv6jybkh6axzz21mlddhr")))
+
+(define-public crate-uu_df-0.0.25 (c (n "uu_df") (v "0.0.25") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "0d3a5wznjd3rxj5978rkrjmbj774s89qgfs17kpq0ki04bw3k50z")))
+
+(define-public crate-uu_df-0.0.26 (c (n "uu_df") (v "0.0.26") (d (list (d (n "clap") (r "^4.4") (f (quote ("wrap_help" "cargo"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)) (d (n "uucore") (r ">=0.0.19") (f (quote ("libc" "fsext"))) (d #t) (k 0) (p "uucore")))) (h "1a61jd1fgn9miri0y2gxi3c71qsyr1d36fwzm4mz91ppi4mb83rx")))
+

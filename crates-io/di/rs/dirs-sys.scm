@@ -1,0 +1,26 @@
+(define-module (crates-io di rs dirs-sys) #:use-module (crates-io))
+
+(define-public crate-dirs-sys-0.1.0 (c (n "dirs-sys") (v "0.1.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0mm1g4gcvsd6bn190vvk5sqfj6dzf4gn6nvlpfd8l55h762f4vh9")))
+
+(define-public crate-dirs-sys-0.2.0 (c (n "dirs-sys") (v "0.2.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "10bd31h49zjkzdbdmdll7ir68dvkqip2g32inbilkp9qfwgasy9k")))
+
+(define-public crate-dirs-sys-0.3.0 (c (n "dirs-sys") (v "0.3.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "045yzk662pqrhw33imjnfagzhzzkbjrflsmw32rqjwq4x812wm25")))
+
+(define-public crate-dirs-sys-0.3.1 (c (n "dirs-sys") (v "0.3.1") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1pj4x6nsj049klrc5k3k956185fnwnaxgyiw8q9bvq9rq4d63fvk")))
+
+(define-public crate-dirs-sys-0.3.2 (c (n "dirs-sys") (v "0.3.2") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0yc9xfxzmq6kahzdj28xv5wvc6l667kg796hk14jh2px6awfkma9")))
+
+(define-public crate-dirs-sys-0.3.3 (c (n "dirs-sys") (v "0.3.3") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0b8ynb5g8hjf6qndfy8l2ai0klb7k3bcjfnwv4niyzf75qwmcxwk")))
+
+(define-public crate-dirs-sys-0.3.4 (c (n "dirs-sys") (v "0.3.4") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0yyykdcmbc476z1v9m4z5jb8y91dw6kgzpkiqi2ig07xx0yv585g")))
+
+(define-public crate-dirs-sys-0.3.5 (c (n "dirs-sys") (v "0.3.5") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.3.0") (d #t) (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0ym5843xack45b1yjahrh3q2f72shnwf1dd2jncf9qsxf3sxg4wf")))
+
+(define-public crate-dirs-sys-0.3.6 (c (n "dirs-sys") (v "0.3.6") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.4") (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "102pbpcrfhvhfyfnyvmvvwpl6mfvynh170f6ima6fyinxls6bn03")))
+
+(define-public crate-dirs-sys-0.3.7 (c (n "dirs-sys") (v "0.3.7") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.4") (t "cfg(target_os = \"redox\")") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("knownfolders" "objbase" "shlobj" "winbase" "winerror"))) (d #t) (t "cfg(windows)") (k 0)))) (h "19md1cnkazham8a6kh22v12d8hh3raqahfk6yb043vrjr68is78v")))
+
+(define-public crate-dirs-sys-0.4.0 (c (n "dirs-sys") (v "0.4.0") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "redox_users") (r "^0.4") (t "cfg(target_os = \"redox\")") (k 0)) (d (n "windows-sys") (r "^0.45.0") (f (quote ("Win32_UI_Shell" "Win32_Foundation" "Win32_Globalization" "Win32_System_Com"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0jsmmfls4p79yby563xrlpckf5qxkq7yam7zqms0vxw8vc046h84")))
+
+(define-public crate-dirs-sys-0.4.1 (c (n "dirs-sys") (v "0.4.1") (d (list (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "option-ext") (r "^0.2.0") (d #t) (k 0)) (d (n "redox_users") (r "^0.4") (t "cfg(target_os = \"redox\")") (k 0)) (d (n "windows-sys") (r "^0.48.0") (f (quote ("Win32_UI_Shell" "Win32_Foundation" "Win32_Globalization" "Win32_System_Com"))) (d #t) (t "cfg(windows)") (k 0)))) (h "071jy0pvaad9lsa6mzawxrh7cmr7hsmsdxwzm7jzldfkrfjha3sj")))
+

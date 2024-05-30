@@ -1,0 +1,6 @@
+(define-module (crates-io qu ic quickner-cli) #:use-module (crates-io))
+
+(define-public crate-quickner-cli-0.0.1-alpha.1 (c (n "quickner-cli") (v "0.0.1-alpha.1") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.0") (d #t) (k 0)))) (h "1wp0ydnl4jbs1rlwl3gfcq3znz4l62f9q3wik1zzr5f1bgbl8lrj")))
+
+(define-public crate-quickner-cli-0.0.1-alpha.2 (c (n "quickner-cli") (v "0.0.1-alpha.2") (d (list (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.0") (d #t) (k 0)))) (h "1iwn9rbwmsn15yzrbqmw7l0dv03s45qiv86ghaf8ck4cbx1jkwfh")))
+

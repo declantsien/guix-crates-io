@@ -1,0 +1,36 @@
+(define-module (crates-io ly ri lyric-resolution-changer-cli) #:use-module (crates-io))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.0 (c (n "lyric-resolution-changer-cli") (v "0.2.0") (d (list (d (n "chart-file-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (d #t) (k 0)))) (h "16dnx92j3a70qkph5j1rmw1zkf2jb6ygn2lfcnz2zbh4m9lbdgim") (f (quote (("dhat-heap"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.1 (c (n "lyric-resolution-changer-cli") (v "0.2.1") (d (list (d (n "chart-file-parser") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (d #t) (k 0)))) (h "0cfla7v0f77hkjljc2cs294x9yjr7fv89y7227lw954v1bcpjzpb") (f (quote (("dhat-heap"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.2 (c (n "lyric-resolution-changer-cli") (v "0.2.2") (d (list (d (n "chart-file-parser") (r "^0.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (d #t) (k 0)))) (h "0pq42fq60x3ig1man3xxd9r8zdxzmxad8mb5xs6bi89lfl8h22xl") (f (quote (("dhat-heap"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.3 (c (n "lyric-resolution-changer-cli") (v "0.2.3") (d (list (d (n "chart-file-parser") (r "^0.2.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (d #t) (k 0)))) (h "1jfgk5bgp2pf4gdz50n1hkf28rqa7br3cx5miz9ay4zx9ki2ss6h") (f (quote (("dhat-heap"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.4 (c (n "lyric-resolution-changer-cli") (v "0.2.4") (d (list (d (n "chart-file-parser") (r "^0.2.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)))) (h "0xm4777lalb8jxlv1y91hm7i0id8mly6j5ya9zf63k8kwp6kx4wk") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.5 (c (n "lyric-resolution-changer-cli") (v "0.2.5") (d (list (d (n "chart-file-parser") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0hlwh9wvggs76gkrvsqiqaamzs836irvrv3k88vy3y50jiv5i96q") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.6 (c (n "lyric-resolution-changer-cli") (v "0.2.6") (d (list (d (n "chart-file-parser") (r "^0.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0zmq84xxbfp05wpsk275ndm2950x54p4k4s759i092999ckzp883") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.7 (c (n "lyric-resolution-changer-cli") (v "0.2.7") (d (list (d (n "chart-file-parser") (r "^0.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1y245h69r7chb9zr21hh3d0198nzh8jyqpw51pg8h4046dbb0wxv") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.8 (c (n "lyric-resolution-changer-cli") (v "0.2.8") (d (list (d (n "chart-file-parser") (r "^0.3.2") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0kfwh6plii2im2mipbk8r99li5qnbz67s23ibbhwsp70vfd9iy5c") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.9 (c (n "lyric-resolution-changer-cli") (v "0.2.9") (d (list (d (n "chart-file-parser") (r "^0.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1dmnlcph6vjn8g2z7bqlciiccfcsniavlvxz6yjl23liqigg64ka") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.10 (c (n "lyric-resolution-changer-cli") (v "0.2.10") (d (list (d (n "chart-file-parser") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1g53v5zffsvpx3rbsavcqzvmnyfkhcf9p3rhb305j3dwywq6nz8y") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.11 (c (n "lyric-resolution-changer-cli") (v "0.2.11") (d (list (d (n "chart-file-parser") (r "^0.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "17abpixa4la21vh0zdcq7isw0mhrys342hz74a09xqjrdhyvh76k") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.12 (c (n "lyric-resolution-changer-cli") (v "0.2.12") (d (list (d (n "chart-file-parser") (r "^0.4.2") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0yxlg25za2ip5yszcr8qsjd0sxsyx3cvlnj8ywmjmidwvfc980x7") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.13 (c (n "lyric-resolution-changer-cli") (v "0.2.13") (d (list (d (n "chart-file-parser") (r "^0.4.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "088yc8r6c8rf8riji7di59lg7pdb9gb2qx759kg17n7d80wpwhmh") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.14 (c (n "lyric-resolution-changer-cli") (v "0.2.14") (d (list (d (n "chart-file-parser") (r "^0.4.4") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1q3cyk84pssxymmgaqfidwcj01bm5dvg3cp4jlhc1pb0lhzi3hca") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.15 (c (n "lyric-resolution-changer-cli") (v "0.2.15") (d (list (d (n "chart-file-parser") (r "^0.4.5") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1fgxh0jkhq4abjyadnq9p6d37b7dpayx1ffdpx20dvj18vf0001g") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+
+(define-public crate-lyric-resolution-changer-cli-0.2.16 (c (n "lyric-resolution-changer-cli") (v "0.2.16") (d (list (d (n "chart-file-parser") (r "^0.4.6") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dhat") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1633y0mp3j1bbanniim743jmjg1ywaphly1bjdjzv1vw4nbrksny") (s 2) (e (quote (("dhat-heap" "dep:dhat"))))))
+

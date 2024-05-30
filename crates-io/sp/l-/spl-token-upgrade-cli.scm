@@ -1,0 +1,6 @@
+(define-module (crates-io sp l- spl-token-upgrade-cli) #:use-module (crates-io))
+
+(define-public crate-spl-token-upgrade-cli-0.0.1 (c (n "spl-token-upgrade-cli") (v "0.0.1") (h "1qqnzazz5xhviwg816ij7j9xjsbwswin5bhly0kw28gwklakqzdn")))
+
+(define-public crate-spl-token-upgrade-cli-0.1.0 (c (n "spl-token-upgrade-cli") (v "0.1.0") (d (list (d (n "clap") (r "^3") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.19") (d #t) (k 0)) (d (n "solana-clap-v3-utils") (r "^1.14.6") (d #t) (k 0)) (d (n "solana-cli-config") (r "^1.14.6") (d #t) (k 0)) (d (n "solana-client") (r "^1.14.6") (d #t) (k 0)) (d (n "solana-logger") (r "^1.14.6") (d #t) (k 0)) (d (n "solana-remote-wallet") (r "^1.14.6") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.14.6") (d #t) (k 0)) (d (n "solana-test-validator") (r "^1.14.6") (d #t) (k 2)) (d (n "spl-associated-token-account") (r "^1.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token") (r "^3.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token-2022") (r "^0.5") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token-client") (r "^0.3") (d #t) (k 0)) (d (n "spl-token-upgrade") (r "^0.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "0brcrpvmjigj1saisxr2minpfzqlsiip972p9wk7jcrrbcf158l9")))
+

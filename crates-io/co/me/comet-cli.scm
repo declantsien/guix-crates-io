@@ -1,0 +1,8 @@
+(define-module (crates-io co me comet-cli) #:use-module (crates-io))
+
+(define-public crate-comet-cli-0.1.4 (c (n "comet-cli") (v "0.1.4") (d (list (d (n "clap") (r "^2.33.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "colored") (r "^2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "env_logger") (r "^0.9.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "log") (r "^0.4.17") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "which") (r "^4.3.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1pl7rcprir5yjiv1bkl1cfz5zzzi0i7wqpvlk658lyfmm4r6jdip")))
+
+(define-public crate-comet-cli-0.1.5 (c (n "comet-cli") (v "0.1.5") (d (list (d (n "clap") (r "^2.33.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "colored") (r "^2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "env_logger") (r "^0.9.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "log") (r "^0.4.17") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "which") (r "^4.3.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "0p62by1bhjvdg4ws69fqppnnv8yd6kwq412rm9ax4h3anr1f3f9n")))
+
+(define-public crate-comet-cli-0.1.6 (c (n "comet-cli") (v "0.1.6") (d (list (d (n "clap") (r "^2.33.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "colored") (r "^2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "env_logger") (r "^0.9.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "log") (r "^0.4.17") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "which") (r "^4.3.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1swla7v691v8z52h35i1n13ls53yp1zpmb8chy0pvk3w6cm1vz01")))
+

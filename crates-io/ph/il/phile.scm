@@ -1,0 +1,12 @@
+(define-module (crates-io ph il phile) #:use-module (crates-io))
+
+(define-public crate-phile-0.1.0 (c (n "phile") (v "0.1.0") (d (list (d (n "clap") (r "^2.26.0") (d #t) (k 0)) (d (n "heck") (r "^0.2.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.4.1") (d #t) (k 2)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2.0") (d #t) (k 0)))) (h "098x47marqz2dd99h67vmhm3jfqqn16a9v4c2kj3gmvzsm0zc718")))
+
+(define-public crate-phile-0.1.1 (c (n "phile") (v "0.1.1") (d (list (d (n "clap") (r "^2.26.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "quickcheck") (r "^0.4.1") (d #t) (k 2)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2.0") (d #t) (k 0)) (d (n "unicode-xid") (r "^0.1.0") (d #t) (k 2)))) (h "17yx0v4q1qddad9yip4xi4s5if9vgjaryw7d2qrr93aqqj2h6x0i")))
+
+(define-public crate-phile-0.1.2 (c (n "phile") (v "0.1.2") (d (list (d (n "clap") (r "^2.26.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "quickcheck") (r "^0.4.1") (d #t) (k 2)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2.0") (d #t) (k 0)) (d (n "unicode-xid") (r "^0.1.0") (d #t) (k 2)))) (h "0zh5sqx8r2hkh3idy0rx2rnx0c45h59cm2lm1drynbn9fxm2xf2w")))
+
+(define-public crate-phile-0.1.3 (c (n "phile") (v "0.1.3") (d (list (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.6.3") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "quickcheck") (r "^0.4.1") (d #t) (k 2)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2.0") (d #t) (k 0)) (d (n "unicode-xid") (r "^0.1.0") (d #t) (k 2)))) (h "0kgja5sjbypn4lyjfb5li4q44855sd99cym3gvz29a4gf8sjp99p")))
+
+(define-public crate-phile-0.1.4 (c (n "phile") (v "0.1.4") (d (list (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.7.1") (d #t) (k 2)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 2)) (d (n "quickcheck") (r "^0.4.1") (d #t) (k 2)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)) (d (n "regex") (r "^0.2.2") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.2.0") (d #t) (k 0)) (d (n "unicode-xid") (r "^0.1.0") (d #t) (k 2)))) (h "1vs12660l6ym8mcbijlyf3f05h0rjcbid53i42lsgiv85804hixb")))
+

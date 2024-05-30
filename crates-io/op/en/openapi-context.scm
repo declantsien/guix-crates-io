@@ -1,0 +1,4 @@
+(define-module (crates-io op en openapi-context) #:use-module (crates-io))
+
+(define-public crate-openapi-context-0.1.0 (c (n "openapi-context") (v "0.1.0") (d (list (d (n "base64") (r "^0.10") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "headers") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "mime") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "slog") (r "^2") (f (quote ("max_level_trace" "release_max_level_debug"))) (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "101p8gsf93qxr54cp41wrwylqsamxmjxvrc0f739a2spk7hfxr3y") (f (quote (("serdejson" "serde" "serde_json") ("multipart" "mime") ("default" "serdejson"))))))
+

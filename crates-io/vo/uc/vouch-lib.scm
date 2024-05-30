@@ -1,0 +1,20 @@
+(define-module (crates-io vo uc vouch-lib) #:use-module (crates-io))
+
+(define-public crate-vouch-lib-0.1.0 (c (n "vouch-lib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1i6lls7x6pr2nb9j5kki6zm2424ppy43dfny27d76gv54an1y19x")))
+
+(define-public crate-vouch-lib-0.2.0 (c (n "vouch-lib") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0l64vnkqqjvd27xgrdk1a574ljl032hsam0npk0r6l3lwqnrzv5v")))
+
+(define-public crate-vouch-lib-0.2.1 (c (n "vouch-lib") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1agqmswvi380qn4rw0p504cvdxnaiwmm3d19lq936gki3g0l7063")))
+
+(define-public crate-vouch-lib-0.2.2 (c (n "vouch-lib") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1i5niixps1r3xkwiay40gwbll3567y1n90dbwxyd1jr55z156kd8")))
+
+(define-public crate-vouch-lib-0.2.3 (c (n "vouch-lib") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1szabcpmgnw90bjxq1xlkkjdb07rnr2prwglpycbd3icfasd5xdl")))
+
+(define-public crate-vouch-lib-0.2.4 (c (n "vouch-lib") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "1qmy2rmdh8935rjzgaqmbwy7mwxfzjn9pds7l120gmv8ig3p7zwq")))
+
+(define-public crate-vouch-lib-0.2.5 (c (n "vouch-lib") (v "0.2.5") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "0qfcnzn9j4dkxfza71xfhwqwpyir3p8x3z3sn0n111hzlrfzgrzw")))
+
+(define-public crate-vouch-lib-0.3.0 (c (n "vouch-lib") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "047g5ivxq82mivxzx866y3v5j6fpnm1977m72zbyw6i9v6cn2pjd")))
+
+(define-public crate-vouch-lib-0.3.1 (c (n "vouch-lib") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.2") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "structopt") (r "^0.3.14") (d #t) (k 0)) (d (n "url") (r "^2.1.1") (d #t) (k 0)))) (h "075lzz0ai9h1g6xjxgxw3kl8wq1y4mqyjrx0xm8hn6n1l3i9vfxs")))
+

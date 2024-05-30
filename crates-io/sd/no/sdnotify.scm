@@ -1,0 +1,12 @@
+(define-module (crates-io sd no sdnotify) #:use-module (crates-io))
+
+(define-public crate-sdnotify-0.1.0 (c (n "sdnotify") (v "0.1.0") (h "1sxmxj7qyq9mnv11wzvj2xsvdd5sprpzn77a6s47azazn9sqpvg3")))
+
+(define-public crate-sdnotify-0.1.1 (c (n "sdnotify") (v "0.1.1") (d (list (d (n "bytes") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)) (d (n "tokio-codec") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1vic41n6dqhqsqyhsrn5ldhc8g4lapcjx889qwx925ywy94cr2ar") (f (quote (("async_io" "tokio-uds" "tokio-codec" "futures" "bytes"))))))
+
+(define-public crate-sdnotify-0.1.2 (c (n "sdnotify") (v "0.1.2") (d (list (d (n "bytes") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)) (d (n "tokio-codec") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1di5wbg63wrldh6i1kxvxzglkcj6hfhls0k3i4rw4sdlcvkf32v3") (f (quote (("default" "async_io") ("async_io" "tokio-uds" "tokio-codec" "futures" "bytes"))))))
+
+(define-public crate-sdnotify-0.1.3 (c (n "sdnotify") (v "0.1.3") (d (list (d (n "bytes") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "bytes5") (r "^0.5") (o #t) (d #t) (k 0) (p "bytes")) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-codec") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tokio-util") (r "^0.3") (f (quote ("codec"))) (o #t) (d #t) (k 0)) (d (n "tokio2") (r "^0.2") (f (quote ("net" "uds" "stream"))) (o #t) (d #t) (k 0) (p "tokio")))) (h "0yianjsg5742r2kr8m8a1rvbqbnpap6l9mdsphpmd93m42n7xkki") (f (quote (("default" "async_await") ("async_io" "tokio-uds" "tokio-codec" "futures" "bytes") ("async_await" "tokio2" "tokio-util"))))))
+
+(define-public crate-sdnotify-0.2.0 (c (n "sdnotify") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)) (d (n "tokio-codec") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-uds") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "tokio1") (r "^1") (f (quote ("net"))) (o #t) (d #t) (k 0) (p "tokio")))) (h "0z4d1i101inh55461m4yd53a88q6qilvdc0a6zdapvbd41fqrmqs") (f (quote (("default" "async_await") ("async_io" "tokio-uds" "tokio-codec" "futures" "bytes") ("async_await" "tokio1"))))))
+

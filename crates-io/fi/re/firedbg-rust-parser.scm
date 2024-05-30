@@ -1,0 +1,4 @@
+(define-module (crates-io fi re firedbg-rust-parser) #:use-module (crates-io))
+
+(define-public crate-firedbg-rust-parser-1.0.0 (c (n "firedbg-rust-parser") (v "1.0.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bson") (r "^2") (d #t) (k 0)) (d (n "firedbg-protocol") (r "^1.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "sea-streamer-file") (r "^0.3") (f (quote ("runtime-tokio"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "17di4rgvjljzwzwgizpmaskq4dazcz7ap09fw96yk21kczr6ba0f")))
+

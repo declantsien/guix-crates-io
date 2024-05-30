@@ -1,0 +1,8 @@
+(define-module (crates-io di ff diffmetrik) #:use-module (crates-io))
+
+(define-public crate-diffmetrik-0.1.0 (c (n "diffmetrik") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "human_format") (r "^1.0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "snafu") (r "^0.6.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "sysctl") (r "^0.4.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "1xbbwvj1rwq12n04jvw56437jd9kx9v3k3l0irb8f2vs02yywc7c")))
+
+(define-public crate-diffmetrik-0.2.0 (c (n "diffmetrik") (v "0.2.0") (d (list (d (n "cross") (r "^0.1.16") (d #t) (k 2)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "human_format") (r "^1.0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "sysctl") (r "^0.4.0") (d #t) (k 0)))) (h "0rj07xarwqhsqviddkwf82cwq51ml7v7hgd1vfvd5dc5g8l78d6l")))
+
+(define-public crate-diffmetrik-0.3.0 (c (n "diffmetrik") (v "0.3.0") (d (list (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "human_format") (r "^1.0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "sysctl") (r "^0.4.0") (d #t) (k 0)))) (h "10xrwh9lg9hfjc8y4j6kpq3xrfmwaz2lnk0f2gpyp0r82fqddc2b")))
+

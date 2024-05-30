@@ -1,0 +1,4 @@
+(define-module (crates-io fa st fast42) #:use-module (crates-io))
+
+(define-public crate-fast42-0.0.1 (c (n "fast42") (v "0.0.1") (d (list (d (n "config") (r "^0.13.3") (d #t) (k 2)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "mockito") (r "^0.31.1") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "retainer") (r "^0.3") (d #t) (k 0)) (d (n "secrecy") (r "^0.8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full" "macros"))) (d #t) (k 0)) (d (n "tower") (r "^0.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1a0jc2y2qs099j69s7w4sdfw4l07mzb90z1hacs853ps836ylqi9") (r "1.66.0")))
+

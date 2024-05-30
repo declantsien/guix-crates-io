@@ -1,0 +1,6 @@
+(define-module (crates-io ro si rosie) #:use-module (crates-io))
+
+(define-public crate-rosie-0.1.0 (c (n "rosie") (v "0.1.0") (d (list (d (n "libc") (r "^0.2.103") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 2)) (d (n "rosie-sys") (r "^1.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)))) (h "186r6mi0vi7svzvwbcbjgw74bm6lsh3pmlsb484zka0qn5d2jdqr") (f (quote (("link_shared_librosie" "rosie-sys/link_shared_librosie") ("build_static_librosie" "rosie-sys/build_static_librosie"))))))
+
+(define-public crate-rosie-0.1.1 (c (n "rosie") (v "0.1.1") (d (list (d (n "libc") (r "^0.2.103") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.0") (d #t) (k 2)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 2)) (d (n "rosie-sys") (r "^1.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)))) (h "1nvzb485pgmass3djdrvn7igap698hy2pwrbw6di47wyl4093isv") (f (quote (("link_shared_librosie" "rosie-sys/link_shared_librosie") ("build_static_librosie" "rosie-sys/build_static_librosie"))))))
+

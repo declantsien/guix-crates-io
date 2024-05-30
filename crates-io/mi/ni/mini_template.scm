@@ -1,0 +1,6 @@
+(define-module (crates-io mi ni mini_template) #:use-module (crates-io))
+
+(define-public crate-mini_template-0.1.0 (c (n "mini_template") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mini_template_macro") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1.4") (o #t) (d #t) (k 0)))) (h "12wb5dgkayxbl9ydhhf9iyh096d0w74qhjjrwk4dl3rddv5x7lg9") (f (quote (("loop" "condition" "assign") ("default" "loop" "assign" "conditional" "regex") ("conditional" "condition") ("condition") ("assign"))))))
+
+(define-public crate-mini_template-0.1.1 (c (n "mini_template") (v "0.1.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mini_template_macro") (r "^0.1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1.4") (o #t) (d #t) (k 0)))) (h "10sgn7a234xarlglii1b5862nkp1zvab87i3mh5sgbkl7x0a16fc") (f (quote (("loop" "condition" "assign") ("default" "loop" "assign" "conditional" "regex") ("conditional" "condition") ("condition") ("assign"))))))
+

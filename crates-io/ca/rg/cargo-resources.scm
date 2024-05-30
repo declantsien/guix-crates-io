@@ -1,0 +1,16 @@
+(define-module (crates-io ca rg cargo-resources) #:use-module (crates-io))
+
+(define-public crate-cargo-resources-1.0.0 (c (n "cargo-resources") (v "1.0.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1b0pz5758sdqgbdpaj8vm5gd3g4p8l25hayn39vnlvlh8cn1kvwc")))
+
+(define-public crate-cargo-resources-1.0.1 (c (n "cargo-resources") (v "1.0.1") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1w5ca7apkviyir16c2z3cy9jlvxhzg3c428ws9k22x5b358ivw0p")))
+
+(define-public crate-cargo-resources-1.1.0 (c (n "cargo-resources") (v "1.1.0") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1sj8b62bn93mz1k02jpg6zrpw486gmv381yijm0mfqanpnsnw5za")))
+
+(define-public crate-cargo-resources-1.1.1 (c (n "cargo-resources") (v "1.1.1") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1z741mzpcigmzfr2q316xs5hbb40l0w9j243a7b5dgi3yxfn2w6i")))
+
+(define-public crate-cargo-resources-1.1.2 (c (n "cargo-resources") (v "1.1.2") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0lv0llfw719csvwn3prk39skgzrs4mxq674yh4s73ymj7ri2hpq3")))
+
+(define-public crate-cargo-resources-1.1.3 (c (n "cargo-resources") (v "1.1.3") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0fwf0zcknnqi9pdwgah0sg7rkzj3imshnpf50nimxjvln6hkbagj")))
+
+(define-public crate-cargo-resources-1.1.4 (c (n "cargo-resources") (v "1.1.4") (d (list (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1glvrscq8sx6v6g05q5gjjdcrgz8x384qna1aa3r274rp2r5ycyk")))
+

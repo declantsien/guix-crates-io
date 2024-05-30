@@ -1,0 +1,4 @@
+(define-module (crates-io pr oc procfs-thrift) #:use-module (crates-io))
+
+(define-public crate-procfs-thrift-0.1.0 (c (n "procfs-thrift") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.29") (d #t) (k 0)) (d (n "const-cstr") (r "^0.3.0") (d #t) (k 0)) (d (n "fbthrift") (r "^0.0.1") (d #t) (k 0)) (d (n "fbthrift_codegen_includer_proc_macro") (r "^0.1") (d #t) (k 0)) (d (n "fbthrift_compiler") (r "^0.1") (d #t) (k 1)) (d (n "futures") (r "^0.3.5") (f (quote ("async-await" "compat"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1r9lfa632jvm0mxfigfk98j47n19m0r4dffyzvym576wzr9s23jp")))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io ac ti activitypub) #:use-module (crates-io))
+
+(define-public crate-activitypub-0.1.0 (c (n "activitypub") (v "0.1.0") (d (list (d (n "activitystreams-derive") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1rzx5f7fnffmm0p0dqn3v091hasgv8dij4bs6a8dmna5gacl0w68")))
+
+(define-public crate-activitypub-0.1.1 (c (n "activitypub") (v "0.1.1") (d (list (d (n "activitystreams-derive") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "11rxfy233aq2j2gc383j4hx7jn51j7dmc8sb9ss4zryib9qzswxb")))
+
+(define-public crate-activitypub-0.1.2 (c (n "activitypub") (v "0.1.2") (d (list (d (n "activitystreams-derive") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "046w1x10zbjjf2104j40zcn8hmj67k0f7svhqykkg94zfhmry26h")))
+
+(define-public crate-activitypub-0.1.3 (c (n "activitypub") (v "0.1.3") (d (list (d (n "activitystreams-derive") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pgwkfbpammdf8spvdg6x1a19jgc0l2vm63n1jlnq1g4ln6a3q8f")))
+
+(define-public crate-activitypub-0.1.4 (c (n "activitypub") (v "0.1.4") (d (list (d (n "activitystreams-derive") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1nbgs8hlj1g34n8s035z5bksgy518j50z1aflva0flazf828n088")))
+
+(define-public crate-activitypub-0.1.5 (c (n "activitypub") (v "0.1.5") (d (list (d (n "activitystreams-derive") (r "^0.1.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2.3") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "09av8p215lv5wrq31mslxgiwlkd3bvr92r1wfb9ng1i7k681vcfv")))
+
+(define-public crate-activitypub-0.1.6 (c (n "activitypub") (v "0.1.6") (d (list (d (n "activitystreams-derive") (r "^0.1.1") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.1") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.2.3") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0gs0mfggs9zqda9lcb7wb9mqw6ivm51z39m2awbrf0j1gcg33zav")))
+
+(define-public crate-activitypub-0.2.0 (c (n "activitypub") (v "0.2.0") (d (list (d (n "activitystreams-derive") (r "^0.2") (d #t) (k 0)) (d (n "activitystreams-traits") (r "^0.2") (d #t) (k 0)) (d (n "activitystreams-types") (r "^0.3") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "13bia1ydkvc36q1mmwca9xdshfmi9bx4mvvrqlygdh3y2cds4f6m")))
+
+(define-public crate-activitypub-0.4.0-alpha.0 (c (n "activitypub") (v "0.4.0-alpha.0") (d (list (d (n "activitystreams") (r "^0.4.0-alpha.0") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "typetag") (r "^0.1.4") (d #t) (k 0)))) (h "17mmvhhpiwda67k0fdirdr07j3s6nrxsqy366asfidixvngp99rg")))
+
+(define-public crate-activitypub-0.4.0 (c (n "activitypub") (v "0.4.0") (h "0rnplh50ma1x72k0n3m5a7ss6adky58fdjrig8w9cxiflw1125kq")))
+

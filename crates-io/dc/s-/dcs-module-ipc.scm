@@ -1,0 +1,20 @@
+(define-module (crates-io dc s- dcs-module-ipc) #:use-module (crates-io))
+
+(define-public crate-dcs-module-ipc-0.3.0 (c (n "dcs-module-ipc") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.5") (f (quote ("lua51" "serialize"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "12pil6235c1aw2kfz4lc3yl2mm3svngvkkg09l6yd9f9xgpjvm79")))
+
+(define-public crate-dcs-module-ipc-0.3.1 (c (n "dcs-module-ipc") (v "0.3.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.5") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0zkndlc5s40gz0dsy3acjibz6pdsbvxar7id889wr80rl3rq9a4f")))
+
+(define-public crate-dcs-module-ipc-0.4.0 (c (n "dcs-module-ipc") (v "0.4.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.5") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1pxmnydjrb5jq0kh6zvryznskq6hwp2xg095h6nnad6ryvkyyjmk")))
+
+(define-public crate-dcs-module-ipc-0.5.0 (c (n "dcs-module-ipc") (v "0.5.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.6") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "05zr4h1my1155f8rbbjgapdqqap2by8mb0dl5yy1vxn68vvn1cbl")))
+
+(define-public crate-dcs-module-ipc-0.5.1 (c (n "dcs-module-ipc") (v "0.5.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.6") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0ng7v2vpvflxgypql4ivlp3bwmj50iy2r404af3kx9cw0slirk0l")))
+
+(define-public crate-dcs-module-ipc-0.5.2 (c (n "dcs-module-ipc") (v "0.5.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.6") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "07ly0h7c1hxd4w0h3rh2nyx96wyn48rfwn759rm39pblcl802i04") (r "1.56")))
+
+(define-public crate-dcs-module-ipc-0.6.0 (c (n "dcs-module-ipc") (v "0.6.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.7") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "0j0in04vf308v97d5p9wxp479msmkpzc8h11h3lsncsk386vc1xi") (r "1.56")))
+
+(define-public crate-dcs-module-ipc-0.7.0 (c (n "dcs-module-ipc") (v "0.7.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.8") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "1h5jb5ks2i5dlv5sa4q8hv8y60iavfh4y0lb7s8fsy7kwpykbs5k") (r "1.61")))
+
+(define-public crate-dcs-module-ipc-0.8.0 (c (n "dcs-module-ipc") (v "0.8.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mlua") (r "^0.9") (f (quote ("lua51" "serialize" "send"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "00lk5441g1g3cf6mxvw76wk6si0f3a1s4ybqjxkcf25110y0c0f4") (r "1.61")))
+

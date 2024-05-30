@@ -1,0 +1,12 @@
+(define-module (crates-io li tt littlewing) #:use-module (crates-io))
+
+(define-public crate-littlewing-0.3.0 (c (n "littlewing") (v "0.3.0") (d (list (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1z9s4d396iys9ffdabma5y0i06a9mqz4f1h1c0v3m7qqp8kslwzr")))
+
+(define-public crate-littlewing-0.4.0 (c (n "littlewing") (v "0.4.0") (d (list (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rustyline") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0hvi4kmqjy579pwzwfyp0dvkm6wamj0bl31b51xbjrdbwrwlaw17")))
+
+(define-public crate-littlewing-0.5.0 (c (n "littlewing") (v "0.5.0") (d (list (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "rustyline") (r "^2.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "0ixmly6gnwi9rk4iz9wnnv9w82s72kjdlyb69nh46gw46yhpvk0w")))
+
+(define-public crate-littlewing-0.6.0 (c (n "littlewing") (v "0.6.0") (d (list (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "rustyline") (r "^5.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)))) (h "1y9dm4ihyjgd2q2q0ca5xsi0c5w0iy4pv29ww5c3k3r1l0vjjl89")))
+
+(define-public crate-littlewing-0.7.0 (c (n "littlewing") (v "0.7.0") (d (list (d (n "atty") (r "^0.2.14") (o #t) (d #t) (k 0)) (d (n "dirs") (r "^3.0.0") (o #t) (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "no-std-compat") (r "^0.4.1") (f (quote ("alloc" "compat_macros"))) (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (k 0)) (d (n "rand_xorshift") (r "^0.2.0") (k 0)) (d (n "regex") (r "^1.3.9") (o #t) (d #t) (k 0)) (d (n "rustyline") (r "^6.2.0") (o #t) (d #t) (k 0)) (d (n "rustyline-derive") (r "^0.3.1") (o #t) (d #t) (k 0)))) (h "0r718c4fg9z38w5d33y21qd0qgr2cwkv5dy9f8l0q4m9l459a6cc") (f (quote (("std" "dirs" "regex" "rustyline" "rustyline-derive" "no-std-compat/std") ("default" "std" "bin") ("bin" "atty" "getopts"))))))
+

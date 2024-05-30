@@ -1,0 +1,10 @@
+(define-module (crates-io ge n- gen-rs) #:use-module (crates-io))
+
+(define-public crate-gen-rs-0.2.0 (c (n "gen-rs") (v "0.2.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "statistical") (r "^1.0.0") (d #t) (k 0)))) (h "1ksxgkn316kr7wlk5ab1qz7z7lqy5zgvj4m9s9nx9wmhly18gb93")))
+
+(define-public crate-gen-rs-0.2.1 (c (n "gen-rs") (v "0.2.1") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "statistical") (r "^1.0.0") (d #t) (k 0)))) (h "1d8ac40vdvflfy58rbvy2p5yvvsdrkyivkgz2bgfmqd1fi419n0k")))
+
+(define-public crate-gen-rs-0.2.2 (c (n "gen-rs") (v "0.2.2") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "statistical") (r "^1.0.0") (d #t) (k 0)))) (h "1v896xs8n11i0kx62373rgvfrd6sa5gmq8wqsxccbpqnwj297ain")))
+
+(define-public crate-gen-rs-0.2.3 (c (n "gen-rs") (v "0.2.3") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "statistical") (r "^1.0.0") (d #t) (k 0)))) (h "1mzy1yi3j8hzlyqpp6q8bx94zz4irxixgb292lqf3rwkmljy5mq9")))
+

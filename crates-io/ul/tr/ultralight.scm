@@ -1,0 +1,18 @@
+(define-module (crates-io ul tr ultralight) #:use-module (crates-io))
+
+(define-public crate-ultralight-0.1.0 (c (n "ultralight") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.68.0") (d #t) (k 1)) (d (n "image") (r "^0.24.0") (d #t) (k 0)))) (h "1zln4vnz136wd4iv92lcpadz6iqbqai3pwki1i4vmcl1jb10cp5f")))
+
+(define-public crate-ultralight-0.1.1 (c (n "ultralight") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.68.0") (d #t) (k 1)) (d (n "image") (r "^0.24.0") (d #t) (k 0)))) (h "10m1n16axlz7ag0mcdlmviw1lqzivz6xjc2fm7spvkjqfpsd97jp")))
+
+(define-public crate-ultralight-0.1.2 (c (n "ultralight") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.68.0") (d #t) (k 1)) (d (n "image") (r "^0.24.0") (d #t) (k 0)))) (h "1k4rgx81gxyr4mqrd08wgdn9ydsy9jzvp8bydjnifhd7ydj743p3")))
+
+(define-public crate-ultralight-0.1.3 (c (n "ultralight") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.68.1") (o #t) (d #t) (k 1)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 1)) (d (n "image") (r "^0.24.0") (k 0)))) (h "044ilywspa9lzkmnshxsdh9dz5zc0zmr3j4b5a02n7lhsglvb89j") (f (quote (("default")))) (s 2) (e (quote (("generate_bindings" "dep:bindgen"))))))
+
+(define-public crate-ultralight-0.1.4 (c (n "ultralight") (v "0.1.4") (d (list (d (n "bindgen") (r "^0.68.1") (o #t) (d #t) (k 1)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 1)) (d (n "image") (r "^0.24.0") (k 0)))) (h "1yfl51npxd3zblh0hsqnv2v6hf9sb4w0x2rhrhbaxa7z13i55zav") (f (quote (("default")))) (s 2) (e (quote (("generate_bindings" "dep:bindgen"))))))
+
+(define-public crate-ultralight-0.1.5 (c (n "ultralight") (v "0.1.5") (d (list (d (n "bindgen") (r "^0.68.1") (o #t) (d #t) (k 1)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 1)) (d (n "image") (r "^0.24.0") (k 0)) (d (n "image") (r "^0.24.0") (f (quote ("png"))) (k 2)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (o #t) (d #t) (k 0)))) (h "13ws93gy6x512dlka92n7gjspv3d1iciyz6yv1vyqm9v8jci20xi") (f (quote (("default")))) (s 2) (e (quote (("generate_bindings" "dep:bindgen") ("filewatching" "dep:notify"))))))
+
+(define-public crate-ultralight-0.1.6 (c (n "ultralight") (v "0.1.6") (d (list (d (n "bindgen") (r "^0.68.1") (o #t) (d #t) (k 1)) (d (n "fs_extra") (r "^1.3.0") (o #t) (d #t) (k 1)) (d (n "image") (r "^0.24.0") (k 0)) (d (n "image") (r "^0.24.0") (f (quote ("png"))) (k 2)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (o #t) (d #t) (k 0)) (d (n "ureq") (r "^2.9.1") (f (quote ("tls"))) (o #t) (k 1)))) (h "1myifs2hw2q9bqmfagc297n7mr6yn0yp7gnvykxmcda8ppfbqqij") (s 2) (e (quote (("requires_dll" "dep:fs_extra" "dep:ureq") ("generate_bindings" "dep:bindgen") ("filewatching" "dep:notify"))))))
+
+(define-public crate-ultralight-0.1.7 (c (n "ultralight") (v "0.1.7") (d (list (d (n "bindgen") (r "^0.68.1") (o #t) (d #t) (k 1)) (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "fs_extra") (r "^1.3.0") (o #t) (d #t) (k 1)) (d (n "hassle-rs") (r "^0.11.0") (d #t) (k 2)) (d (n "image") (r "^0.25.1") (o #t) (k 0)) (d (n "image") (r "^0.25.1") (f (quote ("png"))) (k 2)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "nohash") (r "^0.2.0") (d #t) (k 2)) (d (n "notify") (r "^6.1.1") (o #t) (d #t) (k 0)) (d (n "pollster") (r "^0.3") (d #t) (k 2)) (d (n "ureq") (r "^2.9.1") (f (quote ("tls"))) (o #t) (k 1)) (d (n "wgpu") (r "^0.19.1") (f (quote ("spirv"))) (d #t) (k 2)) (d (n "winit") (r "^0.29") (d #t) (k 2)))) (h "0d7dxmg6bbmjmk9sb2lczjhwxj4cdwvgv6gv8kwx7a4d7y34cqx3") (s 2) (e (quote (("requires_dll" "dep:fs_extra" "dep:ureq") ("image" "dep:image") ("generate_bindings" "dep:bindgen") ("filewatching" "dep:notify"))))))
+

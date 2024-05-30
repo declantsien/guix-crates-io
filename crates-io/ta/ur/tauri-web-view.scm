@@ -1,0 +1,4 @@
+(define-module (crates-io ta ur tauri-web-view) #:use-module (crates-io))
+
+(define-public crate-tauri-web-view-0.6.2 (c (n "tauri-web-view") (v "0.6.2") (d (list (d (n "actix-rt") (r "^0.2") (d #t) (k 2)) (d (n "actix-web") (r "^1.0") (d #t) (k 2)) (d (n "boxfnonce") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 2)) (d (n "grep") (r "^0.2.4") (d #t) (k 2)) (d (n "mime_guess") (r "^2.0.1") (d #t) (k 2)) (d (n "rust-embed") (r "^5.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "tauri-webview-sys") (r "^0.5") (d #t) (k 0)) (d (n "tinyfiledialogs") (r "^3.3.9") (d #t) (k 0)) (d (n "urlencoding") (r "^1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 2)))) (h "1b3zwdgprj1z5wh22ihqv4fcv12q63zh14nsl8f1vz7gyiiidzj9") (f (quote (("edge" "tauri-webview-sys/edge"))))))
+

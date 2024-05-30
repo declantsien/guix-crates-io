@@ -1,0 +1,6 @@
+(define-module (crates-io rc on rcon-toolbelt) #:use-module (crates-io))
+
+(define-public crate-rcon-toolbelt-0.1.0 (c (n "rcon-toolbelt") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rcon") (r "^0.6.0") (f (quote ("rt-tokio"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)))) (h "16q86j4q52f6f9j36jwhyz7bidxhh0vq2x2w3aj079y46sqk06j7")))
+
+(define-public crate-rcon-toolbelt-0.1.1 (c (n "rcon-toolbelt") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "line_drawing") (r "^1.0.0") (d #t) (k 0)) (d (n "linestring") (r "^0.8.0") (d #t) (k 0)) (d (n "rcon") (r "^0.6.0") (f (quote ("rt-tokio"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1pkg9kqnw1rq2dvr34k7x5x2869bqrkcm8h0lipq33zc274v8aa4")))
+

@@ -1,0 +1,38 @@
+(define-module (crates-io ng in nginx-config) #:use-module (crates-io))
+
+(define-public crate-nginx-config-0.2.0 (c (n "nginx-config") (v "0.2.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "1swpnmkij8gilng7kpm5ssj5hlzj2xiaw0x7lmic7qgs3m74g23q")))
+
+(define-public crate-nginx-config-0.2.1 (c (n "nginx-config") (v "0.2.1") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "0wl8bn0xmfn1g2wja55ij8nnydmbmz9paj5mmhg2a93qcp7vxwd3")))
+
+(define-public crate-nginx-config-0.2.2 (c (n "nginx-config") (v "0.2.2") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "08f9h9zqvlzybfh1k6x4gzy5z4dz46jyr673azrv2gwnb8wxqmpv")))
+
+(define-public crate-nginx-config-0.3.0 (c (n "nginx-config") (v "0.3.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "0m6y4ardmnz5hnwy0qilmcrpp4sazgnmhq5qgy0smq24xiysgcd4")))
+
+(define-public crate-nginx-config-0.4.0 (c (n "nginx-config") (v "0.4.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "06hnh4f99h3kzqyv6ddj8zb1fz51d3fbq8knawmwhlzkcl37q0qy")))
+
+(define-public crate-nginx-config-0.5.0 (c (n "nginx-config") (v "0.5.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "00lsp6qap9p0fw502wycbkglbrgf6nfj9278xdj8fgk6zimmiizi")))
+
+(define-public crate-nginx-config-0.6.0 (c (n "nginx-config") (v "0.6.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)))) (h "1izx5y066fsqpp09wm8f500lah6hq11qf5mq8w83gk61mxn5kvdm")))
+
+(define-public crate-nginx-config-0.7.0 (c (n "nginx-config") (v "0.7.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "1h5gf3cq1iqwi1yg4v9qhkdy5p5228rn8hlc826fr52gvsgrnqmn") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.7.1 (c (n "nginx-config") (v "0.7.1") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "17g5hz5x716h98pks0dawlfvpfgzafpp30v4l0z607hkf0h3lfpr") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.8.0 (c (n "nginx-config") (v "0.8.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "0s75bwww6jy1xjfl70128phpzivn8qw9a8cgqq91d8g57yablrdc") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.9.0 (c (n "nginx-config") (v "0.9.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "0dcwv07xam0yyxkwhq1chrldlaq3v4xmirdgrvpvylkv3js1c20s") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.10.0 (c (n "nginx-config") (v "0.10.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "04bplgbq84h9pz3k0i4rdmglf0qxmdabj0hbv03f3vv9n1mwq2zm") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.11.0 (c (n "nginx-config") (v "0.11.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "14ikcrxnl1a1r8a2ycafvk8nm9l5mxdy6w7waxx72pa73g0cs0z6") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.12.0 (c (n "nginx-config") (v "0.12.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "0swmxfzhq4q6nqmb7s6pd5nxs06cwm0rl9lsy50kasm5zkvhvlj2") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.12.1 (c (n "nginx-config") (v "0.12.1") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "1b93c1nhk7cj6iqhysz4c975mb6d651sadbyqqxfjfpyqi4709gh") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.13.0 (c (n "nginx-config") (v "0.13.0") (d (list (d (n "combine") (r "^3.0.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "0p3n1mscrz4p5k58wqcha2zr535xkxaxf20mb3403am6gysmydk3") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.13.1 (c (n "nginx-config") (v "0.13.1") (d (list (d (n "combine") (r "^3.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "1v8dwl3d39v11ffyj8j2k0jl42nys5wyzlp4hi5km3in575fh3la") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+
+(define-public crate-nginx-config-0.13.2 (c (n "nginx-config") (v "0.13.2") (d (list (d (n "combine") (r "^3.5.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "matches") (r "^0.1.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.0") (d #t) (k 2)) (d (n "strsim") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "02vbyvmya71l0p5cs83qpykghzpgfxr9rlbpf8slrsbn01wq2dpg") (f (quote (("fuzzy_errors" "strsim") ("default" "fuzzy_errors"))))))
+

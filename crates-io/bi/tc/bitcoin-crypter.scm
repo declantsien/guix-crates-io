@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-crypter) #:use-module (crates-io))
+
+(define-public crate-bitcoin-crypter-0.1.12-alpha.0 (c (n "bitcoin-crypter") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-key") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-secp256k1") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-support") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1jjpz8iija67g1vray32fq3ldg8cq0hkpdqa6yhzpnzxyinrk9fn")))
+
+(define-public crate-bitcoin-crypter-0.1.16-alpha.0 (c (n "bitcoin-crypter") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-key") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-secp256k1") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-support") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "1nzg6jq3snss372wfvdva5k2m3cd4wrl8ripjmi2skp22zkajv2s")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io fo rm formula) #:use-module (crates-io))
+
+(define-public crate-formula-0.0.1 (c (n "formula") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "chronoutil") (r "^0.2.3") (d #t) (k 0)) (d (n "pest") (r "^2.3.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)))) (h "1x9c1scjhyv9v1jmlvzzq90qj4pvyn0vzq62hx8bi109kkdphqn1")))
+
+(define-public crate-formula-0.0.2 (c (n "formula") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 0)) (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "chronoutil") (r "^0.2.3") (d #t) (k 0)) (d (n "pest") (r "^2.3.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "0i1xli7zimd3pi8zj56hlcj1cm374f3089ky8sfcphs3iqydsryl")))
+
+(define-public crate-formula-0.0.3 (c (n "formula") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("clock"))) (k 0)) (d (n "pest") (r "^2.3.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "0jbkn21wqz22d9fcdxc4isqkiyv11nwq4q68d6ljz93kbazc0nnf") (r "1.57")))
+
+(define-public crate-formula-0.1.0 (c (n "formula") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.7") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "pest") (r "^2.4.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.2") (d #t) (k 0)))) (h "0jwkbc8b58r2jhrjjl93rd569dfx4h2cgkcl4nyl6kyc452z9pjl") (r "1.59")))
+

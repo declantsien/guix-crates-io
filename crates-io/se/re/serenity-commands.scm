@@ -1,0 +1,16 @@
+(define-module (crates-io se re serenity-commands) #:use-module (crates-io))
+
+(define-public crate-serenity-commands-0.1.0 (c (n "serenity-commands") (v "0.1.0") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "1l9r2z0pkjiqkjswzbir28p0ylp4cv0bx9nkayai7ygs25pg8ap5")))
+
+(define-public crate-serenity-commands-0.2.0 (c (n "serenity-commands") (v "0.2.0") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "04z36p63205bfvfb0frffyl5yc10pgj5vc9k226ck4l7x7fmv31l")))
+
+(define-public crate-serenity-commands-0.2.1 (c (n "serenity-commands") (v "0.2.1") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "0fwdq4vjpmj77lslwx31qap6pyqqfq3r87p2bfbijs2b6b9q3d3g")))
+
+(define-public crate-serenity-commands-0.3.0 (c (n "serenity-commands") (v "0.3.0") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "0mfwprd5fvna9dikl4a7qi7pwzzgdkqyiqss93ph6nzr622lk8ys")))
+
+(define-public crate-serenity-commands-0.4.0 (c (n "serenity-commands") (v "0.4.0") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "13d593xa30ksi3ba5m8ysnrk19zh7addclf8vh92pykl6p63mwsh")))
+
+(define-public crate-serenity-commands-0.4.2 (c (n "serenity-commands") (v "0.4.2") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "1lnaq56mkjmqclm2s3axlmj6mw5yynfw5kb7d6xz5zmhfijmbdxb")))
+
+(define-public crate-serenity-commands-0.4.3 (c (n "serenity-commands") (v "0.4.3") (d (list (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (k 0)) (d (n "serenity") (r "^0.12") (f (quote ("builder"))) (d #t) (k 2)) (d (n "serenity-commands-macros") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "1qw55sfj5yydiwkd21zr24lv5kvami6ws4vbsm7c2v4cqlaxjxy8")))
+

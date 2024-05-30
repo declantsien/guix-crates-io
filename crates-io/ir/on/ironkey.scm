@@ -1,0 +1,10 @@
+(define-module (crates-io ir on ironkey) #:use-module (crates-io))
+
+(define-public crate-ironkey-0.1.0 (c (n "ironkey") (v "0.1.0") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.0") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "scanrs") (r "^0.3.0") (d #t) (k 0)))) (h "15jw7k8rcn6prvy2lpzmapqvz2f13vdmfk3qmhgl2c1k5c0n6kvw")))
+
+(define-public crate-ironkey-0.1.1 (c (n "ironkey") (v "0.1.1") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.0") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "scanrs") (r "^0.3.0") (d #t) (k 0)))) (h "1b0w1v7p3dgrdvbc96zbajiiv2gi2nsri1xlbrx4wds23qjd20yi")))
+
+(define-public crate-ironkey-0.1.2 (c (n "ironkey") (v "0.1.2") (d (list (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.0") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "scanrs") (r "^0.3.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)))) (h "1qjaxdri38f3zgkcncv3ikj0dsij35x7xmhpdfl55fcf36n2zc7n")))
+
+(define-public crate-ironkey-0.1.3 (c (n "ironkey") (v "0.1.3") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.0") (f (quote ("all-widgets"))) (d #t) (k 0)) (d (n "scanrs") (r "^0.3.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "wl-clipboard-rs") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "x11-clipboard") (r "^0.9.2") (d #t) (k 0)))) (h "0i1wy8z4xzc0wrfvrp5xg2ghw9cjbrpmhl15cyrdp1yb8fbrqjfd") (f (quote (("wayland_support" "wl-clipboard-rs"))))))
+

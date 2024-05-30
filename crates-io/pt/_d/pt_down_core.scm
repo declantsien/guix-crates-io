@@ -1,0 +1,6 @@
+(define-module (crates-io pt _d pt_down_core) #:use-module (crates-io))
+
+(define-public crate-pt_down_core-1.0.0 (c (n "pt_down_core") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "derive-error") (r "^0.0.5") (d #t) (k 0)) (d (n "epochs") (r "^0.2.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "frankenstein") (r "^0.27.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "select") (r "^0.6.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "ureq") (r "^2.7.1") (d #t) (k 0)))) (h "1ylgvqqdzksc7b9mcp9hb6xf8lbp4cypnz76sv8xnxbqqj3y0pbp")))
+
+(define-public crate-pt_down_core-1.0.1 (c (n "pt_down_core") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "derive-error") (r "^0.0.5") (d #t) (k 0)) (d (n "epochs") (r "^0.2.4") (d #t) (k 0)) (d (n "fancy-regex") (r "^0.11.0") (d #t) (k 0)) (d (n "frankenstein") (r "^0.27.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "select") (r "^0.6.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "ureq") (r "^2.7.1") (d #t) (k 0)))) (h "0y1vxksykjkdkwd9n99slxzk7nnbymm6mvfj6ain3dawzxy5v0bi")))
+

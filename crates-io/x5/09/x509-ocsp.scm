@@ -1,0 +1,10 @@
+(define-module (crates-io x5 #{09}# x509-ocsp) #:use-module (crates-io))
+
+(define-public crate-x509-ocsp-0.0.0 (c (n "x509-ocsp") (v "0.0.0") (h "0balbqvkcc8nrjxnbvwqx0dn57cmn5x5z57a14w0lz02rkwg9y87")))
+
+(define-public crate-x509-ocsp-0.1.0-pre.0 (c (n "x509-ocsp") (v "0.1.0-pre.0") (d (list (d (n "const-oid") (r "^0.9") (d #t) (k 0)) (d (n "der") (r "^0.6") (f (quote ("oid" "derive" "alloc"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.3") (d #t) (k 2)) (d (n "spki") (r "^0.6") (d #t) (k 0)) (d (n "x509-cert") (r "=0.1.0-pre.0") (d #t) (k 0)))) (h "1b50xvv9078cfps6l1g9n06l6frzpla8a7w3vsw2np8gzcsakps0") (r "1.57")))
+
+(define-public crate-x509-ocsp-0.2.0 (c (n "x509-ocsp") (v "0.2.0") (d (list (d (n "const-oid") (r "^0.9.5") (f (quote ("db"))) (k 0)) (d (n "der") (r "^0.7.8") (f (quote ("alloc" "derive" "oid"))) (d #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (o #t) (k 0)) (d (n "spki") (r "^0.7.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "x509-cert") (r "^0.2.4") (k 0)))) (h "1m0qarrpr4x14cj6aif5r1mxyh6pgz42la6hix5f8ld1blx0b3bs") (y #t) (r "1.65")))
+
+(define-public crate-x509-ocsp-0.2.1 (c (n "x509-ocsp") (v "0.2.1") (d (list (d (n "const-oid") (r "^0.9.5") (f (quote ("db"))) (k 0)) (d (n "der") (r "^0.7.8") (f (quote ("alloc" "derive" "oid"))) (d #t) (k 0)) (d (n "digest") (r "^0.10.7") (f (quote ("oid"))) (o #t) (k 0)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (o #t) (k 0)) (d (n "rsa") (r "^0.9.2") (f (quote ("sha2"))) (k 2)) (d (n "sha1") (r "^0.10.6") (f (quote ("oid"))) (k 2)) (d (n "sha2") (r "^0.10.8") (f (quote ("oid"))) (k 2)) (d (n "signature") (r "^2.1.0") (f (quote ("digest" "rand_core"))) (o #t) (k 0)) (d (n "spki") (r "^0.7.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "x509-cert") (r "^0.2.4") (k 0)))) (h "0bifrqlkpljx3048a7rajgpxfhf9jchawnfg4swfq3qzlfaycm2y") (f (quote (("std" "der/std" "x509-cert/std") ("rand" "rand_core") ("builder" "digest" "rand" "signature")))) (r "1.65")))
+

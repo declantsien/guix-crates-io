@@ -1,0 +1,8 @@
+(define-module (crates-io ou ts outsource-heap) #:use-module (crates-io))
+
+(define-public crate-outsource-heap-0.1.0 (c (n "outsource-heap") (v "0.1.0") (d (list (d (n "linked_list_allocator") (r "^0.10.1") (o #t) (k 0)) (d (n "memmap2") (r "^0.5.7") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "unwind_safe") (r "^0.1.0") (d #t) (k 0)))) (h "0x7qyrjw3z0s4m5nbvib7jvp6ggqx4xs52bpkxmb4ljkpcrs19vx") (f (quote (("file-backed" "memmap2" "linked_list_allocator") ("default" "file-backed" "bounded") ("bounded"))))))
+
+(define-public crate-outsource-heap-0.1.1 (c (n "outsource-heap") (v "0.1.1") (d (list (d (n "linked_list_allocator") (r "^0.10.1") (o #t) (k 0)) (d (n "memmap2") (r "^0.5.7") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "unwind_safe") (r "^0.1.0") (d #t) (k 0)))) (h "0m7lrydf8bvm9ppnzl8xq69wq0lrwkkvz5jfpyrv19k8q9p5hgii") (f (quote (("file-backed" "memmap2" "linked_list_allocator") ("default" "file-backed" "bounded") ("bounded"))))))
+
+(define-public crate-outsource-heap-0.1.2 (c (n "outsource-heap") (v "0.1.2") (d (list (d (n "linked_list_allocator") (r "^0.10.1") (o #t) (k 0)) (d (n "memmap2") (r "^0.5.7") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "unwind_safe") (r "^0.1.0") (d #t) (k 0)))) (h "1pc8bcaq3xj3y4lw06y3x56g94fnhv06xp0cismsim573piv5hc5") (f (quote (("file-backed" "memmap2" "linked_list_allocator") ("default" "file-backed" "bounded") ("bounded"))))))
+

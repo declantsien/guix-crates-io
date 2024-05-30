@@ -1,0 +1,8 @@
+(define-module (crates-io pa ss passkey-client) #:use-module (crates-io))
+
+(define-public crate-passkey-client-0.0.1 (c (n "passkey-client") (v "0.0.1") (h "0ny2ddmscggdxnicqdpqblvcaywjfmd13m0bkr4kxv68pfb92fiq")))
+
+(define-public crate-passkey-client-0.1.0 (c (n "passkey-client") (v "0.1.0") (d (list (d (n "ciborium") (r "^0.2") (d #t) (k 0)) (d (n "coset") (r "^0.3") (d #t) (k 0)) (d (n "coset") (r "^0.3") (d #t) (k 2)) (d (n "idna") (r "^0.2.0") (d #t) (k 0)) (d (n "passkey-authenticator") (r "^0.1.0") (d #t) (k 0)) (d (n "passkey-types") (r "^0.1.1") (d #t) (k 0)) (d (n "public-suffix") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "typeshare") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.0.0") (d #t) (k 0)))) (h "1nl7zj2klcv5lkqyrw79r07l5hya35iblcfpfrs3a4j7c0m07i3l")))
+
+(define-public crate-passkey-client-0.2.0 (c (n "passkey-client") (v "0.2.0") (d (list (d (n "ciborium") (r "^0.2") (d #t) (k 0)) (d (n "coset") (r "^0.3") (d #t) (k 0)) (d (n "coset") (r "^0.3") (d #t) (k 2)) (d (n "idna") (r "^0.5") (d #t) (k 0)) (d (n "passkey-authenticator") (r "^0.2") (d #t) (k 0)) (d (n "passkey-types") (r "^0.2") (d #t) (k 0)) (d (n "public-suffix") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "typeshare") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1p9r2h386wd6p984hf1klr4m7k5kncr9jjnkmlkpkk298yql4kgi")))
+

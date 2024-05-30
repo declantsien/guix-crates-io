@@ -1,0 +1,4 @@
+(define-module (crates-io az ur azure_sdk_storage_table_rs) #:use-module (crates-io))
+
+(define-public crate-azure_sdk_storage_table_rs-0.50.0 (c (n "azure_sdk_storage_table_rs") (v "0.50.0") (d (list (d (n "azure_sdk_core_rs") (r "^0.50.0") (d #t) (k 0)) (d (n "azure_sdk_storage_core_rs") (r "^0.50.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quick-error") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "0s455f8hi6ddal13wf8d17jgqk3gzf51i77gf60mkbai2h2vhy6k") (f (quote (("test_e2e"))))))
+

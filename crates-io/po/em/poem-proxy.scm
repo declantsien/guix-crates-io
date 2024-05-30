@@ -1,0 +1,8 @@
+(define-module (crates-io po em poem-proxy) #:use-module (crates-io))
+
+(define-public crate-poem-proxy-0.1.0 (c (n "poem-proxy") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "poem") (r "^1.3.48") (f (quote ("websocket"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.2") (d #t) (k 0)))) (h "0sdfyqdmjxrsj0qnfm70w5g37yv7i9c2w6dcqnypyqxb64pyf5ly") (r "1.65.0")))
+
+(define-public crate-poem-proxy-0.1.1 (c (n "poem-proxy") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "poem") (r "^1.3.48") (f (quote ("websocket"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.2") (d #t) (k 0)))) (h "0a3ihmmc9w60vr9m0r8vfflpzb3l7z0zrgvg2q34sklgx9snd5pn") (r "1.65.0")))
+
+(define-public crate-poem-proxy-0.2.0 (c (n "poem-proxy") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "httparse") (r "^1.8.0") (d #t) (k 0)) (d (n "poem") (r "^1.3.48") (f (quote ("websocket"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.17.2") (d #t) (k 0)))) (h "089h21rdgfmcn8ry8j1alr4wjn0gsqb754xqcgayqjgwxm2falk0") (r "1.65.0")))
+

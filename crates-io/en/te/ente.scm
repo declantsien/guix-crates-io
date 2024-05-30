@@ -1,0 +1,6 @@
+(define-module (crates-io en te ente) #:use-module (crates-io))
+
+(define-public crate-ente-0.4.0 (c (n "ente") (v "0.4.0") (d (list (d (n "clippy") (r "^0.0.133") (o #t) (d #t) (k 0)) (d (n "docopt") (r "^0.6.86") (d #t) (k 0)) (d (n "error-chain") (r "^0.7.1") (d #t) (k 0)) (d (n "rustbox") (r "^0.9.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.22") (d #t) (k 0)) (d (n "slog") (r "^1.3.2") (d #t) (k 0)) (d (n "slog-scope") (r "^0.2.2") (d #t) (k 0)) (d (n "slog-stream") (r "^1.2.0") (d #t) (k 0)) (d (n "time") (r "^0.1.35") (d #t) (k 0)))) (h "18f7kinx5m7rbgz3i089bp0xjhvh7v48knxb366x4c4lwfbkckcr") (f (quote (("default"))))))
+
+(define-public crate-ente-0.5.0 (c (n "ente") (v "0.5.0") (d (list (d (n "clippy") (r "^0.0.133") (o #t) (d #t) (k 0)) (d (n "docopt") (r "^0.6.86") (d #t) (k 0)) (d (n "error-chain") (r "^0.7.1") (d #t) (k 0)) (d (n "rustbox") (r "^0.9.0") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.22") (d #t) (k 0)) (d (n "slog") (r "^1.3.2") (d #t) (k 0)) (d (n "slog-scope") (r "^0.2.2") (d #t) (k 0)) (d (n "slog-stream") (r "^1.2.0") (d #t) (k 0)) (d (n "time") (r "^0.1.35") (d #t) (k 0)))) (h "1f4d6k86d58ampkp45hxxfqv1bk18vy0dy4jlws843gn68d7fhay") (f (quote (("default"))))))
+

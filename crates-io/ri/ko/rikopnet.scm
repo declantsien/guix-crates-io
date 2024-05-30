@@ -1,0 +1,4 @@
+(define-module (crates-io ri ko rikopnet) #:use-module (crates-io))
+
+(define-public crate-rikopnet-0.34.0 (c (n "rikopnet") (v "0.34.0") (d (list (d (n "ipnetwork") (r "^0.20.0") (o #t) (d #t) (k 0)) (d (n "pnet_base") (r "^0.34.0") (k 0)) (d (n "pnet_datalink") (r "^0.34.0") (o #t) (k 0)) (d (n "pnet_packet") (r "^0.34.0") (k 0)) (d (n "pnet_sys") (r "^0.34.0") (o #t) (k 0)) (d (n "pnet_transport") (r "^0.34.0") (o #t) (k 0)) (d (n "time") (r "^0.3.23") (d #t) (k 2)))) (h "0hlbsxvvwidgrpw38w6niq0zy7b6ahd5r6izwypvzkgqvav77vsx") (f (quote (("travis") ("std" "pnet_base/std" "pnet_sys" "pnet_datalink" "pnet_transport" "ipnetwork") ("pcap" "pnet_datalink/pcap") ("netmap" "pnet_datalink/netmap_sys" "pnet_datalink/netmap") ("default" "std") ("benchmark") ("appveyor")))) (s 2) (e (quote (("serde" "pnet_base/serde" "pnet_datalink?/serde"))))))
+

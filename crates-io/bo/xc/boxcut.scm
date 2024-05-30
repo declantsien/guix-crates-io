@@ -1,0 +1,10 @@
+(define-module (crates-io bo xc boxcut) #:use-module (crates-io))
+
+(define-public crate-boxcut-0.0.1 (c (n "boxcut") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 0)) (d (n "clap_derive") (r "^4.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.28.0") (d #t) (k 0)) (d (n "svg") (r "^0.13.0") (d #t) (k 0)))) (h "0ps7kd1ws5q9cm1pmmlz4hzpwma9ih766pdvjlc9w0pi2zwm82ji")))
+
+(define-public crate-boxcut-0.0.2 (c (n "boxcut") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (d #t) (k 0)) (d (n "clap_derive") (r "^4.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.28.0") (d #t) (k 0)) (d (n "svg") (r "^0.13.0") (d #t) (k 0)))) (h "0hy0dgj8gm7a2l4p0gznjrxxpv3p24amw81bsw2syd6l83rscn4y")))
+
+(define-public crate-boxcut-0.0.3 (c (n "boxcut") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.28.0") (d #t) (k 0)) (d (n "svg") (r "^0.13.0") (d #t) (k 0)))) (h "1mmcpcvikw7q55l0cw58mvz978nn0pimp493dn21ajs192dfs66x")))
+
+(define-public crate-boxcut-0.0.4 (c (n "boxcut") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.28.0") (d #t) (k 0)) (d (n "svg") (r "^0.13.0") (d #t) (k 0)))) (h "0mspg4q0kmd91qdm56ajkrb6g2y5rd5qk2q1l3wn9f7wzxgicxll")))
+

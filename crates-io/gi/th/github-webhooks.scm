@@ -1,0 +1,4 @@
+(define-module (crates-io gi th github-webhooks) #:use-module (crates-io))
+
+(define-public crate-github-webhooks-0.1.0-alpha.0 (c (n "github-webhooks") (v "0.1.0-alpha.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "axum") (r "^0.6") (f (quote ("macros" "headers" "tokio"))) (o #t) (d #t) (k 0)) (d (n "headers") (r "^0.3.8") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0vjgms09xdd603032vpv70q3sxvp5dkb8bglkan9m44aii54iplr") (f (quote (("default" "axum")))) (s 2) (e (quote (("axum" "dep:axum" "dep:headers" "dep:http"))))))
+

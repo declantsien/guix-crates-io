@@ -1,0 +1,8 @@
+(define-module (crates-io hy br hybrid-cli) #:use-module (crates-io))
+
+(define-public crate-hybrid-cli-0.1.0 (c (n "hybrid-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "byte-unit") (r "^5.1.4") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hybrid-api") (r "^0.1.1") (d #t) (k 0)) (d (n "subxt") (r "^0.34.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "14a7al0wggfcc89n9jir76nybadi61qd8ygc4yqkzc0p2g5rbids")))
+
+(define-public crate-hybrid-cli-0.1.2 (c (n "hybrid-cli") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "byte-unit") (r "^5.1.4") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hybrid-api") (r "^0.1.2") (d #t) (k 0)) (d (n "subxt") (r "^0.34.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1zlg6axdg5zsvv67qvmmx095gdcq8gql19xjwq6k7awas207xsmc")))
+
+(define-public crate-hybrid-cli-0.1.3 (c (n "hybrid-cli") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "byte-unit") (r "^5.1.4") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hybrid-api") (r "^0.1.3") (d #t) (k 0)) (d (n "subxt") (r "^0.34.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "060ljzvglnjckn51w45qfz6hpx3z9x388ifb0vjj7d2y8kkwpl2b")))
+

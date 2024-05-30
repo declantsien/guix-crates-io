@@ -1,0 +1,4 @@
+(define-module (crates-io pg x_ pgx_prometheus_exporter) #:use-module (crates-io))
+
+(define-public crate-pgx_prometheus_exporter-0.0.1-alpha (c (n "pgx_prometheus_exporter") (v "0.0.1-alpha") (d (list (d (n "actix-web") (r "^4.2.1") (d #t) (k 0)) (d (n "pgx") (r "^0.6.1") (d #t) (k 0)) (d (n "prometheus-client") (r "^0.19.0-alpha.2") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "pgx-tests") (r "^0.6.1") (d #t) (k 2)))) (h "1avnxh38bid4k75cvxxp65gqqwsfnrkcfmv3cnhcb45k2vkp95kw") (f (quote (("pg_test") ("pg15" "pgx/pg15" "pgx-tests/pg15") ("pg14" "pgx/pg14" "pgx-tests/pg14") ("pg13" "pgx/pg13" "pgx-tests/pg13") ("pg12" "pgx/pg12" "pgx-tests/pg12") ("pg11" "pgx/pg11" "pgx-tests/pg11") ("default" "pg14"))))))
+

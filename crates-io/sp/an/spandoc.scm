@@ -1,0 +1,16 @@
+(define-module (crates-io sp an spandoc) #:use-module (crates-io))
+
+(define-public crate-spandoc-0.1.0 (c (n "spandoc") (v "0.1.0") (d (list (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.13") (f (quote ("full" "extra-traits" "fold"))) (d #t) (k 0)))) (h "0mxw75gd62x5cyg9sqzcrdbqzq2wgm37y5wz3va5m0a07nkq9jra")))
+
+(define-public crate-spandoc-0.1.1 (c (n "spandoc") (v "0.1.1") (d (list (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.13") (f (quote ("full" "extra-traits" "fold"))) (d #t) (k 0)))) (h "1bfxp1hshydq735dawnx2mdxjnh89sqfa121d3ivhaq3a4h8wxy8")))
+
+(define-public crate-spandoc-0.1.2 (c (n "spandoc") (v "0.1.2") (d (list (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.13") (f (quote ("full" "extra-traits" "fold"))) (d #t) (k 0)))) (h "0nzkq5s1vzsnkhv9rdxvhc5r26nlf5rp8ihy7m868jfazph5b1f0")))
+
+(define-public crate-spandoc-0.1.3 (c (n "spandoc") (v "0.1.3") (d (list (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "syn") (r "^1.0.14") (f (quote ("full" "extra-traits" "fold"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.13") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 2)) (d (n "tracing-futures") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.3") (f (quote ("registry" "fmt"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.24") (d #t) (k 2)))) (h "0h96xg0pn0m27z5p3nmqgy3i4xiyqmr4kai1nysqs4ndp27sv2j3")))
+
+(define-public crate-spandoc-0.2.0 (c (n "spandoc") (v "0.2.0") (d (list (d (n "spandoc-attribute") (r "=0.1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.15") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 2)) (d (n "tracing-futures") (r "^0.2.4") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.6") (f (quote ("registry" "fmt"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.30") (d #t) (k 2)))) (h "1nxs41cis9f68sfgfg127h9q9xlryjzi9gm2hr97sipsnncpca1c")))
+
+(define-public crate-spandoc-0.2.1 (c (n "spandoc") (v "0.2.1") (d (list (d (n "spandoc-attribute") (r "=0.1.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.15") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 2)) (d (n "tracing-futures") (r "^0.2.4") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.6") (f (quote ("registry" "fmt"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.30") (d #t) (k 2)))) (h "0nvb8ai6a582j38zbkg02n47frwar3jhqj54gkpf7y15lyqnl0lc")))
+
+(define-public crate-spandoc-0.2.2 (c (n "spandoc") (v "0.2.2") (d (list (d (n "futures") (r "^0.3.21") (f (quote ("executor"))) (k 2)) (d (n "spandoc-attribute") (r "=0.1.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.15") (d #t) (k 0)) (d (n "tracing-error") (r "^0.1.2") (d #t) (k 2)) (d (n "tracing-futures") (r "^0.2.4") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.6") (f (quote ("registry" "fmt"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.30") (d #t) (k 2)))) (h "08c81wyh4k77aij9s92n4rjd1kak8874a7d4pr4aqd02dn45mv95")))
+

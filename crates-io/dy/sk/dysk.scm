@@ -1,0 +1,18 @@
+(define-module (crates-io dy sk dysk) #:use-module (crates-io))
+
+(define-public crate-dysk-2.6.0 (c (n "dysk") (v "2.6.0") (d (list (d (n "argh") (r "^0.1.7") (d #t) (k 0)) (d (n "bet") (r "^1.0.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "file-size") (r "^1.0.3") (d #t) (k 0)) (d (n "lfs-core") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termimad") (r "^0.20.5") (d #t) (k 0)))) (h "0wwzfndg1m9ns6g3jhk3kjdkmp5rqapyn5kspyka2wimiy9n52wp") (r "1.59")))
+
+(define-public crate-dysk-2.6.1 (c (n "dysk") (v "2.6.1") (d (list (d (n "argh") (r "^0.1.7") (d #t) (k 0)) (d (n "bet") (r "^1.0.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "file-size") (r "^1.0.3") (d #t) (k 0)) (d (n "lfs-core") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termimad") (r "^0.20.5") (d #t) (k 0)))) (h "0bd0ym3yynfy2yf3c43yzgbdb3ml75cn4hiz4kfi1m9hv42jqah8") (r "1.59")))
+
+(define-public crate-dysk-2.7.0 (c (n "dysk") (v "2.7.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive" "cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.3") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "dysk-cli") (r "^2.7.0") (d #t) (k 0)) (d (n "dysk-cli") (r "^2.7.0") (d #t) (k 1)))) (h "1s9sqivs5q4mp5r814i2qgr9mrfla26fyy32cj1qxps7vs29kd10") (r "1.59")))
+
+(define-public crate-dysk-2.7.1 (c (n "dysk") (v "2.7.1") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive" "cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.3") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "dysk-cli") (r "^2.7.1") (d #t) (k 0)) (d (n "dysk-cli") (r "^2.7.1") (d #t) (k 1)))) (h "1m6fxpjrbc07khmj0hc2i6rlvif4231m008jmcmmsabdxq0iix5b") (r "1.59")))
+
+(define-public crate-dysk-2.7.2 (c (n "dysk") (v "2.7.2") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive" "cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.3") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "dysk-cli") (r "^2.7.2") (d #t) (k 0)) (d (n "dysk-cli") (r "^2.7.2") (d #t) (k 1)))) (h "0fc7hrqh455nr3lbg5ix4ysn789wwcrapm1wmlscvrv86ndni2yj") (r "1.59")))
+
+(define-public crate-dysk-2.8.0 (c (n "dysk") (v "2.8.0") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive" "cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.3") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "dysk-cli") (r "^2.7.2") (d #t) (k 0)) (d (n "dysk-cli") (r "^2.7.2") (d #t) (k 1)))) (h "0xb0awlczr0q2lvdr8i3izq8q8vhqgwgkzng6dn2p7gkhirqcmqs") (r "1.59")))
+
+(define-public crate-dysk-2.8.1 (c (n "dysk") (v "2.8.1") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive" "cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.4") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "dysk-cli") (r "^2.8.1") (d #t) (k 0)) (d (n "dysk-cli") (r "^2.8.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "toml") (r "^0.7") (d #t) (k 1)))) (h "0i638ii3x34qi2bsfa5r3fqbps42kp0b3lx1d1jm9xicxy63gn5w") (r "1.70")))
+
+(define-public crate-dysk-2.8.2 (c (n "dysk") (v "2.8.2") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive" "cargo"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.4") (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.12") (d #t) (k 1)) (d (n "dysk-cli") (r "^2.8.2") (d #t) (k 0)) (d (n "dysk-cli") (r "^2.8.2") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "toml") (r "^0.7") (d #t) (k 1)))) (h "1x0vml0n94mk2g0ic151hbs6120x8myknjxblpj1v293pyn81468") (r "1.70")))
+

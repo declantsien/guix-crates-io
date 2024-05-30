@@ -1,0 +1,6 @@
+(define-module (crates-io so na sonant) #:use-module (crates-io))
+
+(define-public crate-sonant-0.1.0 (c (n "sonant") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.5") (k 0)) (d (n "byteorder") (r "^1.2") (k 0)) (d (n "colored") (r "^1.6") (d #t) (k 2)) (d (n "cpal") (r "^0.10") (d #t) (k 2)) (d (n "getrandom") (r "^0.1") (d #t) (k 2)) (d (n "libm") (r "^0.1") (d #t) (k 0)) (d (n "randomize") (r "^3.0") (d #t) (k 0)) (d (n "riff-wave") (r "^0.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1zf9l4m2zyimirlpq5jcdnnv3lm4ymfsz8qfxsg28ag59ximk89g") (f (quote (("std" "thiserror") ("default" "std"))))))
+
+(define-public crate-sonant-0.2.0 (c (n "sonant") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "byteorder") (r "^1") (k 0)) (d (n "colored") (r "^2") (d #t) (k 2)) (d (n "cpal") (r "^0.15") (d #t) (k 2)) (d (n "error-iter") (r "^0.4") (d #t) (k 2)) (d (n "getrandom") (r "^0.2") (d #t) (k 2)) (d (n "libm") (r "^0.2") (d #t) (k 0)) (d (n "randomize") (r "^5") (d #t) (k 0)) (d (n "riff-wave") (r "^0.1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (o #t) (d #t) (k 0)))) (h "0nklkif9mgnggsxq3mxx9r92bk2fkgks74dd0znriqlqflwx2fya") (f (quote (("std" "thiserror") ("default" "std"))))))
+

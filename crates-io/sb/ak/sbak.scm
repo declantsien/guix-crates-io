@@ -1,0 +1,4 @@
+(define-module (crates-io sb ak sbak) #:use-module (crates-io))
+
+(define-public crate-sbak-0.1.0 (c (n "sbak") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.7") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.5.1") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "filetime") (r "^0.2.6") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.97") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "sha3") (r "^0.8.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)))) (h "0si759y6lz98lmkdyiyv7v7isrz9mgwa19gdyr9sl1i8dgxqacjl")))
+

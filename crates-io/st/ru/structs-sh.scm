@@ -1,0 +1,12 @@
+(define-module (crates-io st ru structs-sh) #:use-module (crates-io))
+
+(define-public crate-structs-sh-0.1.0 (c (n "structs-sh") (v "0.1.0") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "003albpd337i7pbybyah7arb2slk9bxjd4f47ljlq5xsxk9vr67j")))
+
+(define-public crate-structs-sh-0.1.1 (c (n "structs-sh") (v "0.1.1") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "11hinpw6bhbnvwgv5pccamy0wr3r87yiv0m45i86lybk4bfxxzv3")))
+
+(define-public crate-structs-sh-0.1.2 (c (n "structs-sh") (v "0.1.2") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0i3b3kwm3wd18s9l6kbyzgx1nkpkb6chslp2pmd8c588k9y1ffqi")))
+
+(define-public crate-structs-sh-0.1.3 (c (n "structs-sh") (v "0.1.3") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "04rjhwfgyx63f9nd6k867fgzl6nbih0sj3lm0addlz4wbbfrwxp0")))
+
+(define-public crate-structs-sh-0.1.4 (c (n "structs-sh") (v "0.1.4") (d (list (d (n "clap") (r "^3.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4.0") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "133la5s06jqwdab5hc4qkr3j9hqjxivdvw9qxwdsrpidzwph484x")))
+

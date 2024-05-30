@@ -1,0 +1,6 @@
+(define-module (crates-io te le telegram_photo_gallery_downloader) #:use-module (crates-io))
+
+(define-public crate-telegram_photo_gallery_downloader-0.0.1 (c (n "telegram_photo_gallery_downloader") (v "0.0.1") (d (list (d (n "clap") (r "^4.4.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "19nx39ap442bx7bc53ghva9ybsx0p2rsf2lxxcbqszyvhqzlji16") (f (quote (("default" "indicatif")))) (s 2) (e (quote (("indicatif" "dep:indicatif"))))))
+
+(define-public crate-telegram_photo_gallery_downloader-0.0.2 (c (n "telegram_photo_gallery_downloader") (v "0.0.2") (d (list (d (n "clap") (r "^4.4.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1138iccrw00apfcdsgii0hqrvv72d2lhn8qxg45qb7hy402g191n") (f (quote (("default" "indicatif")))) (s 2) (e (quote (("indicatif" "dep:indicatif"))))))
+

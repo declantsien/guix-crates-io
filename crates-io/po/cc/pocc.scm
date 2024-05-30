@@ -1,0 +1,12 @@
+(define-module (crates-io po cc pocc) #:use-module (crates-io))
+
+(define-public crate-pocc-0.1.0 (c (n "pocc") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1bzdzzpqv1cc0cwzrah0mqkn2hca833ypqkqifbcx57f0g5x4s31")))
+
+(define-public crate-pocc-0.1.1 (c (n "pocc") (v "0.1.1") (d (list (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "06vb0dls20d1ssvv45pgvjh3rl9xch2ak9ln53pkpp1v6pa7hbwy")))
+
+(define-public crate-pocc-1.0.0 (c (n "pocc") (v "1.0.0") (d (list (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1iilcpzdxfm8x8s5ysy9g3rp8lk1chahrag0l2vxpd0a8vhhxp1y")))
+
+(define-public crate-pocc-1.1.0 (c (n "pocc") (v "1.1.0") (d (list (d (n "arboard") (r "^3.2.1") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "132xmxbazs3bhi660lwyai0gynn6nrs5xa74rpas351xv2a196zs")))
+
+(define-public crate-pocc-1.1.1 (c (n "pocc") (v "1.1.1") (d (list (d (n "arboard") (r "^3.2.1") (d #t) (k 0)) (d (n "base64") (r "^0.21.2") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0l7516ih2dzhsm3izyznavg2xp79hcvd15rpmv5vrn5jdbnf180g")))
+

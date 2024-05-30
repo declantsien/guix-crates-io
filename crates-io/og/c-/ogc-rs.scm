@@ -1,0 +1,6 @@
+(define-module (crates-io og c- ogc-rs) #:use-module (crates-io))
+
+(define-public crate-ogc-rs-0.1.0 (c (n "ogc-rs") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "cstr_core") (r "^0.2") (d #t) (k 0)) (d (n "glam") (r "^0.19.0") (f (quote ("libm"))) (o #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libm") (r "^0.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (k 0)) (d (n "ogc-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "voladdress") (r "^0.4") (d #t) (k 0)))) (h "0bk2zzjjsx9309w21cvzn5131xd6ayhnx00ixa1cvvkpc6v6zw1g") (f (quote (("ffi"))))))
+
+(define-public crate-ogc-rs-0.1.1 (c (n "ogc-rs") (v "0.1.1") (d (list (d (n "bit_field") (r "^0.10.1") (d #t) (k 0)) (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "cstr_core") (r "^0.2") (d #t) (k 0)) (d (n "glam") (r "^0.19.0") (f (quote ("libm"))) (o #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libm") (r "^0.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (k 0)) (d (n "ogc-sys") (r "^0.1.1") (d #t) (k 0)) (d (n "voladdress") (r "^0.4") (d #t) (k 0)))) (h "0c7vxjryzjgbc4w6nvvkdg4qf66b7gah8ig4c9mgbv8zfshryq0a") (f (quote (("mmio") ("glam_compat" "glam") ("ffi"))))))
+

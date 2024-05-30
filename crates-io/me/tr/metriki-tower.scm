@@ -1,0 +1,18 @@
+(define-module (crates-io me tr metriki-tower) #:use-module (crates-io))
+
+(define-public crate-metriki-tower-0.1.0 (c (n "metriki-tower") (v "0.1.0") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "1kz501x69ky3jmfczla4zm6qfcdjhzffyc02ghhlwba5wa51alll")))
+
+(define-public crate-metriki-tower-0.1.1 (c (n "metriki-tower") (v "0.1.1") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "12k8jrzhr67y99ysc25366j2p8220llikhj4yqxhqx4h2llf4j0q")))
+
+(define-public crate-metriki-tower-0.2.0 (c (n "metriki-tower") (v "0.2.0") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0imyz9fc71wjv3nn89f9p13hmcj6l316sapjk6j5ddymm441sabl") (f (quote (("http" "hyper"))))))
+
+(define-public crate-metriki-tower-0.2.1 (c (n "metriki-tower") (v "0.2.1") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "1hb50rixd3fk14v5ff2sivh6pq3y34wi0kj8jjpd6j5b7gzcd5m7") (f (quote (("http" "hyper"))))))
+
+(define-public crate-metriki-tower-0.2.2 (c (n "metriki-tower") (v "0.2.2") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0ssgmjpyarmw7wx0yzrlbw38iz6wnlmzhrrvxn8ilp11zhwapr1n") (f (quote (("http" "hyper"))))))
+
+(define-public crate-metriki-tower-0.2.3 (c (n "metriki-tower") (v "0.2.3") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "080mdf655mznslvxq5nvqiz887mvh3m0jsiv16rgfys0brhniqfq") (f (quote (("http" "hyper"))))))
+
+(define-public crate-metriki-tower-0.2.4 (c (n "metriki-tower") (v "0.2.4") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "metriki-core") (r "^1.0") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "072k2kn499cvl6dpgm03qxqcfvbfc118pri1aphvjja5scj1l1hi") (f (quote (("http" "hyper"))))))
+
+(define-public crate-metriki-tower-0.2.5 (c (n "metriki-tower") (v "0.2.5") (d (list (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "metriki-core") (r "^1.7") (d #t) (k 0)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "09j6g9qm5ik68bzndv4yfyywmgg1wfq2z2g1s57y8n0vq9awkgfi") (f (quote (("http" "hyper"))))))
+

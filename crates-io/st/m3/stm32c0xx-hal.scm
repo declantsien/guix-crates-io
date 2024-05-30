@@ -1,0 +1,4 @@
+(define-module (crates-io st m3 stm32c0xx-hal) #:use-module (crates-io))
+
+(define-public crate-stm32c0xx-hal-0.0.0 (c (n "stm32c0xx-hal") (v "0.0.0") (d (list (d (n "bare-metal") (r "^1.0.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.7.1") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.1") (d #t) (k 2)) (d (n "cortex-m-rtic") (r "^1.0.0") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.3.5") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.6") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "fugit") (r "^0.3.5") (d #t) (k 0)) (d (n "nb") (r "^1.0.0") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "panic-semihosting") (r "^0.5.3") (d #t) (k 2)) (d (n "stm32c0") (r "^0.0.0") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "0qjq4kw7nxqzsl8fpzmr6cs65z30na71fvy8sqj49avrh6yrgb6s") (f (quote (("stm32c0x1") ("stm32c0x0") ("i2c-nonblocking") ("i2c-blocking") ("device-selected") ("default" "i2c-blocking"))))))
+

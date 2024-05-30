@@ -1,0 +1,8 @@
+(define-module (crates-io md bo mdbook-chart) #:use-module (crates-io))
+
+(define-public crate-mdbook-chart-0.1.0 (c (n "mdbook-chart") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1b28a7mlzw6fv8q6r57fmyhn1sjxlfjf0zh8qwji8hjxps1d7snp")))
+
+(define-public crate-mdbook-chart-0.1.1 (c (n "mdbook-chart") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.6") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1d8i48z4rp55cfhqv6ivppm57ncvh2y4gljvrdmlx949a2v1kk4b")))
+
+(define-public crate-mdbook-chart-0.1.2 (c (n "mdbook-chart") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.6") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "043x4pw5kjzp1xrmscl83gqrkhjdcws5px7riwz9ih2f925q53nw")))
+

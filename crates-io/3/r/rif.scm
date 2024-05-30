@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# r rif) #:use-module (crates-io))
+
+(define-public crate-rif-0.1.0 (c (n "rif") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (o #t) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "filetime") (r "^0.2.14") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0qzxzf9ys1x7jz2cycxhfh3py51sm6i1kjw368l9n5vdi94kbm2c") (f (quote (("color" "colored") ("binary" "clap"))))))
+
+(define-public crate-rif-0.2.0 (c (n "rif") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (o #t) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (o #t) (d #t) (k 0)) (d (n "filetime") (r "^0.2.14") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0asa8cjzfg8h60avy2kxn9ggv62k3815ycn9w2n4cvcafyx7hbq0") (f (quote (("color" "colored") ("binary" "clap"))))))
+

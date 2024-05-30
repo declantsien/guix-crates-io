@@ -1,0 +1,4 @@
+(define-module (crates-io cr w- crw-client) #:use-module (crates-io))
+
+(define-public crate-crw-client-0.1.0 (c (n "crw-client") (v "0.1.0") (d (list (d (n "actix-rt") (r "^2.0.2") (d #t) (k 2)) (d (n "cosmos-sdk-proto") (r "^0.3.0") (d #t) (k 0)) (d (n "crw-types") (r "^0.1.0") (d #t) (k 0)) (d (n "crw-wallet") (r "^0.1.0") (d #t) (k 2)) (d (n "prost") (r "^0.7.0") (d #t) (k 0)) (d (n "prost-types") (r "^0.7") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.0") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.62") (d #t) (k 0)) (d (n "tonic") (r "^0.4.1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.70") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.21") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.20") (d #t) (k 2)))) (h "17acwjaii5gb9yj8wdiidwpzf1p41jsmhw5yf12y70nq5z8gvdv8") (y #t)))
+

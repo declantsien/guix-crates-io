@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust-bip39) #:use-module (crates-io))
+
+(define-public crate-rust-bip39-1.0.0 (c (n "rust-bip39") (v "1.0.0") (d (list (d (n "bitcoin_hashes") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "unicode-normalization") (r "^0.1.22") (o #t) (d #t) (k 0)) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (o #t) (d #t) (k 0)))) (h "03r7khlkb3869zhrc7lnnk9ix2g65hyfpj2p4p33g63q13aqz1kz") (f (quote (("std" "unicode-normalization" "serde/std") ("spanish") ("korean") ("japanese") ("italian") ("french") ("default" "std") ("czech") ("chinese-traditional") ("chinese-simplified") ("all-languages" "chinese-simplified" "chinese-traditional" "czech" "french" "italian" "japanese" "korean" "spanish"))))))
+

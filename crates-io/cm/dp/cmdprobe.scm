@@ -1,0 +1,4 @@
+(define-module (crates-io cm dp cmdprobe) #:use-module (crates-io))
+
+(define-public crate-cmdprobe-0.1.0 (c (n "cmdprobe") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cadence") (r "^0.29") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "jmespath") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("json" "env-filter"))) (d #t) (k 0)) (d (n "ureq") (r "^2.7") (d #t) (k 0)))) (h "02zgqhvh24qilsjy3ywfq4wp9n0q55ny6i7i91wdc8spzm5nbk9r")))
+

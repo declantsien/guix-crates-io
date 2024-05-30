@@ -1,0 +1,8 @@
+(define-module (crates-io et k- etk-4byte) #:use-module (crates-io))
+
+(define-public crate-etk-4byte-0.2.0 (c (n "etk-4byte") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18.1") (f (quote ("macros" "sync"))) (o #t) (d #t) (k 0)))) (h "081ifmwmnm139n3hyd2rsranvf2fz8l0ch0ar6a9lzh1k7p9w4s2") (f (quote (("generate" "reqwest" "tokio"))))))
+
+(define-public crate-etk-4byte-0.2.1 (c (n "etk-4byte") (v "0.2.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18.1") (f (quote ("macros" "sync"))) (o #t) (d #t) (k 0)))) (h "1cl9qxdsr2j8hs8i2jj7y4qgd1c6h15wz43kfhfnwnzg2sd0g4zs") (f (quote (("generate" "reqwest" "tokio"))))))
+
+(define-public crate-etk-4byte-0.3.0 (c (n "etk-4byte") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "brotli") (r "^3.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.18.1") (f (quote ("macros" "sync"))) (o #t) (d #t) (k 0)))) (h "0dh5q526y2s181wpv4bkp274fmi15pzqk1cl06anzdz2s2ihsnrp") (f (quote (("generate" "reqwest" "tokio"))))))
+

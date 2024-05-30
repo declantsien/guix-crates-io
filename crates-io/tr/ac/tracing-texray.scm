@@ -1,0 +1,10 @@
+(define-module (crates-io tr ac tracing-texray) #:use-module (crates-io))
+
+(define-public crate-tracing-texray-0.1.0 (c (n "tracing-texray") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "term_size") (r "^0.3.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1k4f3mxbg2j8kwr9xxsf86ggs1rvahbd5786p4kggg8mgwgaf9v2") (y #t)))
+
+(define-public crate-tracing-texray-0.1.1 (c (n "tracing-texray") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "term_size") (r "^0.3.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "0byfwck6h1asm3lpbx7h5r919xxqvwpkpmhp3a6c7ygjnfbgiyza") (y #t) (r "1.54.0")))
+
+(define-public crate-tracing-texray-0.1.2 (c (n "tracing-texray") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "term_size") (r "^0.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "03fn510x304x4gx72qn22cncw12ybh4jmz5nkwbppw3z2r7hdpzh") (r "1.54.0")))
+
+(define-public crate-tracing-texray-0.2.0 (c (n "tracing-texray") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "term_size") (r "^0.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.29") (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.5") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1z1ysrvl85inmfx7f45z4g1j30h6n139kdahf8794xpg44x99dq7") (r "1.54.0")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io wo op woopdedupe) #:use-module (crates-io))
+
+(define-public crate-woopdedupe-0.1.0 (c (n "woopdedupe") (v "0.1.0") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0rspqp7qdwydbyr24pzjyv6jhwy4brlxmqssvid236b7bqdnirfv")))
+
+(define-public crate-woopdedupe-0.1.1 (c (n "woopdedupe") (v "0.1.1") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1ad8yakram3g13dyvcpqkypmd9q6h6k486d84v134xqf9pcpri67")))
+
+(define-public crate-woopdedupe-0.1.2 (c (n "woopdedupe") (v "0.1.2") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "wax") (r "^0.5.0") (d #t) (k 0)))) (h "1zhc4l4sgmpjgdgw1x29zdsfygv69x0i95xzbqmzaxzrk8cx1vcr")))
+
+(define-public crate-woopdedupe-0.1.3 (c (n "woopdedupe") (v "0.1.3") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "wax") (r "^0.5.0") (d #t) (k 0)))) (h "1fx6yh4h1hcrg20m47sr535i6n1sch99r6pnfx2zk2bs1x5pkik7")))
+
+(define-public crate-woopdedupe-0.1.4 (c (n "woopdedupe") (v "0.1.4") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "wax") (r "^0.5.0") (d #t) (k 0)))) (h "1li0qjwassk48ndma5adp4h3lhmzfgzw7pvbrjxcsdzzj6pgkawd")))
+
+(define-public crate-woopdedupe-0.1.5 (c (n "woopdedupe") (v "0.1.5") (d (list (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "wax") (r "^0.5.0") (d #t) (k 0)))) (h "0r555l4q2lc2n5jarivvb8150k1q84hsx3ly2fq26jbav8slknn9")))
+

@@ -1,0 +1,30 @@
+(define-module (crates-io #{2}# gz) #:use-module (crates-io))
+
+(define-public crate-gz-0.0.1 (c (n "gz") (v "0.0.1") (d (list (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.1.0") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^3") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "0r2y121nvb1f2135vf6hcl0mvwdxbwd462fcdqa2jiiz44nwax7v") (y #t) (r "1.60.0")))
+
+(define-public crate-gz-0.1.0 (c (n "gz") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.1.0") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "protobuf") (r "^3") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "11dw059mcsng0qzdaj3jimj935mly0l8cnr5s7x09s915dvm453x") (y #t) (r "1.60.0")))
+
+(define-public crate-gz-0.2.0 (c (n "gz") (v "0.2.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.2.0") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "145h1yc7hys81s0r6aijx5hk0a78r2376nwrs6nmdmvq3cabhxd4") (y #t) (r "1.60.0")))
+
+(define-public crate-gz-0.2.1 (c (n "gz") (v "0.2.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.2.1") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "15hdlki9vdfjjxwcc1krakqlq4ax0ch43ik4a8f4b3impw2jn8fv") (y #t) (r "1.60.0")))
+
+(define-public crate-gz-0.3.0 (c (n "gz") (v "0.3.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.3.0") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "15kjjwfgadlbzj9r0721g36rzj9ip5i8bjz3havv5vamcfrbkxik") (r "1.60.0")))
+
+(define-public crate-gz-0.3.1 (c (n "gz") (v "0.3.1") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.3.1") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "1hplvmbyprsnjj9n5xcv7i6fvhiggcn3pkz1lnn3mn6g5cs1qzg4") (r "1.60.0")))
+
+(define-public crate-gz-0.3.2 (c (n "gz") (v "0.3.2") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.3.1") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "1k9nnr2i250zw26nj94lnfwrr1lhsnhfly27n0lsgahqjnbfxd10") (r "1.60.0")))
+
+(define-public crate-gz-0.4.0 (c (n "gz") (v "0.4.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "gz-msgs") (r "^0.4.0") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "0ws0mkv8r6hz3jpawg6p6ww5n2cpwbxmh4x4xnjsiy1fwsm4c3pp") (f (quote (("ignition" "gz-msgs/ignition")))) (r "1.60.0")))
+
+(define-public crate-gz-0.6.0 (c (n "gz") (v "0.6.0") (d (list (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "gz-msgs") (r "^0.6.0") (d #t) (k 2)) (d (n "gz-msgs-common") (r "^0.1.0") (d #t) (k 0)) (d (n "gz-transport-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 2)))) (h "1rwbjibsz3aj45hz3rmbplkl3arxx1czs87x369sr9l9sgq60rv9") (y #t) (r "1.64.0")))
+
+(define-public crate-gz-0.7.0 (c (n "gz") (v "0.7.0") (d (list (d (n "gz-msgs") (r "^0.7.0") (d #t) (k 0)) (d (n "gz-transport") (r "^0.7.0") (d #t) (k 0)))) (h "1acxns53g9alxzy2paa399lqki7i4mrmwrfd1b0lkpsy1iangmlk") (f (quote (("harmonic" "gz-msgs/harmonic" "gz-transport/harmonic") ("garden" "gz-msgs/garden" "gz-transport/garden") ("fortress" "gz-msgs/fortress" "gz-transport/fortress")))) (r "1.65.0")))
+
+(define-public crate-gz-0.7.1 (c (n "gz") (v "0.7.1") (d (list (d (n "gz-msgs") (r "^0.7.1") (d #t) (k 0)) (d (n "gz-transport") (r "^0.7.1") (d #t) (k 0)))) (h "1mq69vajlb78zndmsjw6wy1cnp4ykmbnjwgs60qbjvw5f1j8bgwz") (f (quote (("harmonic" "gz-msgs/harmonic" "gz-transport/harmonic") ("garden" "gz-msgs/garden" "gz-transport/garden") ("fortress" "gz-msgs/fortress" "gz-transport/fortress")))) (r "1.65.0")))
+
+(define-public crate-gz-0.7.2 (c (n "gz") (v "0.7.2") (d (list (d (n "gz-msgs") (r "^0.7.2") (d #t) (k 0)) (d (n "gz-transport") (r "^0.7.2") (d #t) (k 0)))) (h "1rvpfr4zrg88v3d8w5w22vragi3f2myhxh7y0xbfbvp2jqfi11a9") (f (quote (("harmonic" "gz-msgs/harmonic" "gz-transport/harmonic") ("garden" "gz-msgs/garden" "gz-transport/garden") ("fortress" "gz-msgs/fortress" "gz-transport/fortress")))) (r "1.65.0")))
+
+(define-public crate-gz-0.7.3 (c (n "gz") (v "0.7.3") (d (list (d (n "gz-msgs") (r "^0.7.3") (d #t) (k 0)) (d (n "gz-transport") (r "^0.7.3") (d #t) (k 0)))) (h "1a0cgsji6r4qm3yjfd8bl9lximk2pf4kv67rnqb913lhw11cr97z") (f (quote (("harmonic" "gz-msgs/harmonic" "gz-transport/harmonic") ("garden" "gz-msgs/garden" "gz-transport/garden") ("fortress" "gz-msgs/fortress" "gz-transport/fortress")))) (r "1.65.0")))
+
+(define-public crate-gz-0.7.4 (c (n "gz") (v "0.7.4") (d (list (d (n "gz-msgs") (r "=0.7.4") (d #t) (k 0)) (d (n "gz-transport") (r "=0.7.4") (d #t) (k 0)))) (h "1cqzfs91slz14mhfyznmk7b95mrfxwhhm57hlhmqs2318na7g1xk") (f (quote (("harmonic" "gz-msgs/harmonic" "gz-transport/harmonic") ("garden" "gz-msgs/garden" "gz-transport/garden") ("fortress" "gz-msgs/fortress" "gz-transport/fortress")))) (r "1.65.0")))
+

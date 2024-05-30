@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# w woj) #:use-module (crates-io))
+
+(define-public crate-woj-0.0.0 (c (n "woj") (v "0.0.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1915kbw7pa83vp0gd230wviahizzck3h8kh0ddlsd7ifs2chl4rh")))
+
+(define-public crate-woj-0.0.1 (c (n "woj") (v "0.0.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "06mw1vidwrkgx5p45d920sbxm20aqliywl1p6waq6h0y543f6kxr")))
+
+(define-public crate-woj-0.0.3 (c (n "woj") (v "0.0.3") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1rk7qdwbdnnkwqkh4f81akqpgssk536b3jii3wl2gvqj27wb91mi")))
+
+(define-public crate-woj-0.0.4 (c (n "woj") (v "0.0.4") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0zbqrs11hhs901ris3j5pski04kb13ar7z18j8xp0cxj7amj3f0g")))
+

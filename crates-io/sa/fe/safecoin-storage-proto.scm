@@ -1,0 +1,6 @@
+(define-module (crates-io sa fe safecoin-storage-proto) #:use-module (crates-io))
+
+(define-public crate-safecoin-storage-proto-1.6.16 (c (n "safecoin-storage-proto") (v "1.6.16") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bs58") (r "^0.3.1") (d #t) (k 0)) (d (n "prost") (r "^0.7.0") (d #t) (k 0)) (d (n "safecoin-account-decoder") (r "=1.6.16") (d #t) (k 0)) (d (n "safecoin-sdk") (r "=1.6.16") (d #t) (k 0)) (d (n "safecoin-transaction-status") (r "=1.6.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.122") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)))) (h "0bd9cjd55ac443h93qskgxb47isp8gb5q9p92pjf23cgx3gg4g66")))
+
+(define-public crate-safecoin-storage-proto-1.6.18 (c (n "safecoin-storage-proto") (v "1.6.18") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "bs58") (r "^0.3.1") (d #t) (k 0)) (d (n "prost") (r "^0.8.0") (d #t) (k 0)) (d (n "safecoin-account-decoder") (r ">=1.6.18") (d #t) (k 0)) (d (n "safecoin-sdk") (r ">=1.6.18") (d #t) (k 0)) (d (n "safecoin-transaction-status") (r "=1.6.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.122") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "tonic-build") (r "^0.5.0") (d #t) (k 1)))) (h "0380ibvkvsfbryi6fy3nwmi4v5lmmpa2wqnnxlsvkgcp6xzrkrb5")))
+

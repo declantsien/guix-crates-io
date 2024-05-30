@@ -1,0 +1,10 @@
+(define-module (crates-io cd er cder) #:use-module (crates-io))
+
+(define-public crate-cder-0.1.0 (c (n "cder") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.16") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (f (quote ("time" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1prnnfjx0zjdkkd5mqkbwqhdidr37v2a82yb69n3i6x68zwcl8ra")))
+
+(define-public crate-cder-0.1.1 (c (n "cder") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.16") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (f (quote ("time" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "18r7x3rr52xlrdihd75acqds3xqs3797fh9161m9bxc0mrzsg1a5")))
+
+(define-public crate-cder-0.2.0 (c (n "cder") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.16") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (f (quote ("time" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "1nap891d4j82j8j33mmb6qsv218x20iy81rw8nfdkhcdf342n09i")))
+
+(define-public crate-cder-0.2.1 (c (n "cder") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 2)) (d (n "once_cell") (r "^1.16") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "tokio") (r "^1.23") (f (quote ("time" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "052i3nksxrq8y5k677b1hkmkkbwfv6jfd6hvls50yy5lfj9a23yk")))
+

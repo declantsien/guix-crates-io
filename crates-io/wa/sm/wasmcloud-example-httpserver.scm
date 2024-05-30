@@ -1,0 +1,6 @@
+(define-module (crates-io wa sm wasmcloud-example-httpserver) #:use-module (crates-io))
+
+(define-public crate-wasmcloud-example-httpserver-0.1.1 (c (n "wasmcloud-example-httpserver") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasmbus-rpc") (r "^0.1") (d #t) (k 0)) (d (n "weld-codegen") (r "^0.1") (d #t) (k 1)))) (h "1f26i2k0ywrsb2n0cdx150w97nv0s024wra6p09cs4kzy1w07453") (f (quote (("guest") ("default" "guest"))))))
+
+(define-public crate-wasmcloud-example-httpserver-0.1.2 (c (n "wasmcloud-example-httpserver") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasmbus-rpc") (r "^0.1") (d #t) (k 0)) (d (n "weld-codegen") (r "^0.1") (d #t) (k 1)))) (h "079w8h5276hh3hjzw39rnfd1mjnvny71jn2j9j2ah2fpvi8lnjnc") (f (quote (("guest") ("default" "guest"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ca ps capsicum) #:use-module (crates-io))
+
+(define-public crate-capsicum-0.1.0 (c (n "capsicum") (v "0.1.0") (h "0s1ww856w38y1v63f4mv0df5mf8flpxcsjlsihmdh0i3p5nnwyzi")))
+
+(define-public crate-capsicum-0.1.1 (c (n "capsicum") (v "0.1.1") (h "156gq09pppzqm7rg54wx754saqvkmkxiks0f96snypsnbp5hhcq4")))
+
+(define-public crate-capsicum-0.1.2 (c (n "capsicum") (v "0.1.2") (d (list (d (n "libc") (r "^0.2.20") (d #t) (k 0)))) (h "0m45hp9hrwxlwy0zd778mkf7jy0r6nca0451kqj3w8xngn8y3cpq")))
+
+(define-public crate-capsicum-0.1.3 (c (n "capsicum") (v "0.1.3") (d (list (d (n "libc") (r "^0.2.20") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "02md3ppc9nr0rkpq5sv7ah65kgyc5g36kpadk588d52apbdpyp8q")))
+
+(define-public crate-capsicum-0.2.0 (c (n "capsicum") (v "0.2.0") (d (list (d (n "casper-sys") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "const-cstr") (r "^0.3.0") (d #t) (k 0)) (d (n "ctor") (r "^0.1.26") (d #t) (k 0)) (d (n "libc") (r "^0.2.138") (f (quote ("extra_traits"))) (d #t) (k 0)) (d (n "libnv") (r "^0.4.1") (f (quote ("libnv"))) (o #t) (k 0)) (d (n "libnv-sys") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "libnv-sys") (r "^0.2.0") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("ioctl" "process"))) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "0s0vmll1yzhflslv3lc2lndywv69hm4cc9b60gj5cjdyq27n452w") (f (quote (("casper" "casper-sys" "libnv" "libnv-sys")))) (r "1.62")))
+
+(define-public crate-capsicum-0.3.0 (c (n "capsicum") (v "0.3.0") (d (list (d (n "casper-sys") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "cstr") (r "^0.2.11") (d #t) (k 2)) (d (n "ctor") (r "^0.2.3") (d #t) (k 0)) (d (n "libc") (r "^0.2.138") (f (quote ("extra_traits"))) (d #t) (k 0)) (d (n "libnv") (r "^0.4.2") (f (quote ("libnv"))) (o #t) (k 0)) (d (n "libnv-sys") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "libnv-sys") (r "^0.2.1") (d #t) (k 2)) (d (n "nix") (r "^0.27.0") (f (quote ("fs" "ioctl" "process" "socket"))) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "1gg5s7arzg30dvprmq8064ai0c95dsaqz1hb5vdwzvlp26lw4xbz") (f (quote (("casper" "casper-sys" "libnv" "libnv-sys")))) (r "1.69")))
+

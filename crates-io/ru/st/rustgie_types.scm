@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rustgie_types) #:use-module (crates-io))
+
+(define-public crate-rustgie_types-0.0.1 (c (n "rustgie_types") (v "0.0.1") (d (list (d (n "serde") (r "^1.0.137") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.8") (d #t) (k 0)) (d (n "serde_with") (r "^1.14.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("serde" "serde-well-known"))) (d #t) (k 0)))) (h "147likzz704x3igyxyim8bibq4j9dp3lljfhc928w8bvfyy9ch60") (f (quote (("default"))))))
+
+(define-public crate-rustgie_types-0.1.0 (c (n "rustgie_types") (v "0.1.0") (d (list (d (n "serde") (r "^1.0.137") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.8") (d #t) (k 0)) (d (n "serde_with") (r "^1.14.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("serde" "serde-well-known"))) (d #t) (k 0)))) (h "1wb08nq72zcspfx2cr3fnvwpwfqdp96wc16lywk7jpyyp48gx3b3")))
+
+(define-public crate-rustgie_types-0.1.1 (c (n "rustgie_types") (v "0.1.1") (d (list (d (n "serde") (r "^1.0.137") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.8") (d #t) (k 0)) (d (n "serde_with") (r "^1.14.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("serde" "serde-well-known"))) (d #t) (k 0)))) (h "05pry0y3j9bvg9gks74zqwn27iw8y2dm87v9hl5mh7nis8y5h2bg")))
+
+(define-public crate-rustgie_types-0.2.0 (c (n "rustgie_types") (v "0.2.0") (d (list (d (n "enumflags2") (r "^0.7.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.9") (d #t) (k 0)) (d (n "serde_with") (r "^2.1.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "time") (r "^0.3.17") (f (quote ("serde" "serde-well-known"))) (d #t) (k 0)))) (h "182zmg5vip4nk9vppw00z0fkhwq2q80wg9hnx9lcp8sykzjszm17")))
+

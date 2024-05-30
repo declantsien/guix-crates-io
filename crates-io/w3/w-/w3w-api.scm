@@ -1,0 +1,6 @@
+(define-module (crates-io w3 w- w3w-api) #:use-module (crates-io))
+
+(define-public crate-w3w-api-0.1.0 (c (n "w3w-api") (v "0.1.0") (d (list (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "geo-types") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.20.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "ureq") (r "^2.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1x55crmjzqca96dp7klhl2dwcf8pafi1nfyypzafh40dmdpv4jxd")))
+
+(define-public crate-w3w-api-0.1.1 (c (n "w3w-api") (v "0.1.1") (d (list (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "geo-types") (r "^0.7") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.20.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "ureq") (r "^2.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0x4kfr5lfqdmd1aal1hy1047xmafwqpivl4j0izirjqcbs775ckk")))
+

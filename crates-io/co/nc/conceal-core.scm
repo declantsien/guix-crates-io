@@ -1,0 +1,4 @@
+(define-module (crates-io co nc conceal-core) #:use-module (crates-io))
+
+(define-public crate-conceal-core-0.2.0 (c (n "conceal-core") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.7") (d #t) (k 0)) (d (n "prost-build") (r "^0.7") (d #t) (k 1)) (d (n "prost-types") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "snow") (r "^0.7") (f (quote ("ring-accelerated"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("fs" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0f9yc4vx2pl21nymqzjl1xgm11k9w0a4msh5vi14dj38cgdy42f6")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io na ru narui) #:use-module (crates-io))
+
+(define-public crate-narui-0.1.0 (c (n "narui") (v "0.1.0") (d (list (d (n "cargo-husky") (r "^1.5.0") (f (quote ("precommit-hook" "run-cargo-fmt" "run-cargo-check"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 2)) (d (n "narui_core") (r "^0.1.0") (d #t) (k 0)) (d (n "narui_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "narui_widgets") (r "^0.1.0") (d #t) (k 0)) (d (n "rutter_layout") (r "^0.1.0") (d #t) (k 0)))) (h "03r2dis5yx3aij02pr0iy14mivdxy142bi2yz1jnnbl5xvy4795j") (f (quote (("debug_bounds" "narui_core/debug_bounds"))))))
+
+(define-public crate-narui-0.1.1 (c (n "narui") (v "0.1.1") (d (list (d (n "cargo-husky") (r "^1.5.0") (f (quote ("precommit-hook" "run-cargo-fmt" "run-cargo-check"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 2)) (d (n "narui_core") (r "^0.1.2") (d #t) (k 0)) (d (n "narui_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "narui_widgets") (r "^0.1.2") (d #t) (k 0)) (d (n "rutter_layout") (r "^0.1.0") (d #t) (k 0)))) (h "1jdq3npmrp5lywa494p9ybxc2na9yvj3hwdarhzfsrg5nll65y2x") (f (quote (("debug_bounds" "narui_core/debug_bounds"))))))
+

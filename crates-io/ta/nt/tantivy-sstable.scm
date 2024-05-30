@@ -1,0 +1,8 @@
+(define-module (crates-io ta nt tantivy-sstable) #:use-module (crates-io))
+
+(define-public crate-tantivy-sstable-0.1.0 (c (n "tantivy-sstable") (v "0.1.0") (d (list (d (n "common") (r "^0.5") (d #t) (k 0) (p "tantivy-common")) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "names") (r "^0.14") (d #t) (k 2)) (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "tantivy-fst") (r "^0.4") (d #t) (k 0)) (d (n "zstd") (r "^0.12") (f (quote ("experimental"))) (d #t) (k 0)))) (h "1ryx2ffa3dg929r74yknyzpppl7l0l6knjm7kf7vsr7fsd1l58zd")))
+
+(define-public crate-tantivy-sstable-0.2.0 (c (n "tantivy-sstable") (v "0.2.0") (d (list (d (n "common") (r "^0.6") (d #t) (k 0) (p "tantivy-common")) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "names") (r "^0.14") (d #t) (k 2)) (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "tantivy-fst") (r "^0.4") (d #t) (k 0)) (d (n "zstd") (r "^0.12") (f (quote ("experimental"))) (d #t) (k 0)))) (h "1pvi7imm8gmv5w1l9j36c3q8bwnv8h1n22c0xc2qx2sy7ss1n37w")))
+
+(define-public crate-tantivy-sstable-0.3.0 (c (n "tantivy-sstable") (v "0.3.0") (d (list (d (n "common") (r "^0.7") (d #t) (k 0) (p "tantivy-common")) (d (n "criterion") (r "^0.5") (k 2)) (d (n "names") (r "^0.14") (d #t) (k 2)) (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "tantivy-bitpacker") (r "^0.6") (d #t) (k 0)) (d (n "tantivy-fst") (r "^0.5") (d #t) (k 0)) (d (n "zstd") (r "^0.13") (f (quote ("experimental"))) (d #t) (k 0)))) (h "13pr857wjv5r6n07gz3nylhaqf4snjjjnllz264wk7wf5qj7i5f6")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io im pr impressionwise-rs) #:use-module (crates-io))
+
+(define-public crate-impressionwise-rs-0.0.1 (c (n "impressionwise-rs") (v "0.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("gzip" "json" "brotli" "stream" "cookies" "multipart" "rustls-tls" "rustls-tls-native-roots"))) (k 0)) (d (n "serde") (r "^1") (f (quote ("rc" "std" "alloc" "derive" "serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.25") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "18qv2lh401s065zsamlp0sxzjzvdk79k2bwz0abxjd1m50cdysnm")))
+

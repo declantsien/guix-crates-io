@@ -1,0 +1,10 @@
+(define-module (crates-io cl oc clockwork-scheduler) #:use-module (crates-io))
+
+(define-public crate-clockwork-scheduler-1.0.0 (c (n "clockwork-scheduler") (v "1.0.0") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.0") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.0") (f (quote ("cpi"))) (d #t) (k 0)))) (h "15cvkdc14n0aq8aqlshjqwyk1n2p25wzrvmy02vay1qk5wcida10") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-clockwork-scheduler-1.0.1 (c (n "clockwork-scheduler") (v "1.0.1") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.1") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.1") (f (quote ("cpi"))) (d #t) (k 0)))) (h "1f2g7xyivmm69zz3aswszchfvxckzn1x702dr5fqyw1h4yvmgpbv") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-clockwork-scheduler-1.0.2 (c (n "clockwork-scheduler") (v "1.0.2") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.2") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.2") (f (quote ("cpi"))) (d #t) (k 0)))) (h "17md6sg2n4q9gbqn5zp1sjqqrnxv3dmvrmghz206c74s87d2yn3m") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-clockwork-scheduler-1.0.3 (c (n "clockwork-scheduler") (v "1.0.3") (d (list (d (n "anchor-lang") (r "^0.25.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("alloc"))) (k 0)) (d (n "clockwork-cron") (r "^1.0.3") (d #t) (k 0)) (d (n "clockwork-pool") (r "^1.0.3") (f (quote ("cpi"))) (d #t) (k 0)))) (h "14xbizfkph58rhrvya1qp2dgpysh8ddwp84ymai0b3saxq15j8pd") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

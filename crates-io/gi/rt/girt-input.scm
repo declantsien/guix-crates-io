@@ -1,0 +1,8 @@
+(define-module (crates-io gi rt girt-input) #:use-module (crates-io))
+
+(define-public crate-girt-input-1.0.0 (c (n "girt-input") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.20.0") (d #t) (k 0)) (d (n "girt-config") (r "^1.0.0") (d #t) (k 0)) (d (n "rstest") (r "^0.6.4") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)))) (h "0mn2kbgiid76srb1h44dx1b9ld35q2mhbra425y90kf7bmcjqpx8")))
+
+(define-public crate-girt-input-2.2.0 (c (n "girt-input") (v "2.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.4") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "girt-config") (r "^2.2.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "rstest") (r "^0.12.0") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)))) (h "14hsymzjxb28krdpbm059ld4sk7ygpm8krlzrf1sidfy6vv2s36p")))
+
+(define-public crate-girt-input-2.3.0 (c (n "girt-input") (v "2.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "captur") (r "^0.1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "crossterm") (r "^0.26.1") (d #t) (k 0)) (d (n "girt-config") (r "^2.3.0") (d #t) (k 0)) (d (n "girt-runtime") (r "^2.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rstest") (r "^0.18.1") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)))) (h "1apkdzjixdpnn1f3pkxvcrvf3qdikk0qrv4kdv86y2cr7xwn2qzw")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io sm pt smpte2022-1-fec) #:use-module (crates-io))
+
+(define-public crate-smpte2022-1-fec-0.1.0 (c (n "smpte2022-1-fec") (v "0.1.0") (d (list (d (n "hex-literal") (r "^0.1") (d #t) (k 2)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "rtp-rs") (r "^0.3.0") (d #t) (k 0)) (d (n "smpte2022-1-packet") (r "^0.2.0") (d #t) (k 0)) (d (n "socket2") (r "^0.3") (d #t) (k 2)))) (h "1p90vjzgqjgrgknwpdgxpc2hp1dgaw3xz8qx5j586kdlja95lpab")))
+
+(define-public crate-smpte2022-1-fec-0.2.0 (c (n "smpte2022-1-fec") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.4.10") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "hex-literal") (r "^0.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6") (d #t) (k 2)) (d (n "mio-extras") (r "^2.0") (d #t) (k 2)) (d (n "mpeg2ts-reader") (r "^0.10") (d #t) (k 2)) (d (n "rtp-rs") (r "^0.3.0") (d #t) (k 0)) (d (n "smpte2022-1-packet") (r "^0.4") (d #t) (k 0)) (d (n "socket2") (r "^0.3") (d #t) (k 2)))) (h "1fjyx4b7wjrw0yv942x80q0c27w1khrd9i43wjdaikb4x6mvai9s")))
+
+(define-public crate-smpte2022-1-fec-0.3.0 (c (n "smpte2022-1-fec") (v "0.3.0") (d (list (d (n "arrayvec") (r "^0.5.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "hex-literal") (r "^0.2") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.7") (f (quote ("udp" "os-poll"))) (d #t) (k 2)) (d (n "mpeg2ts-reader") (r "^0.13") (d #t) (k 2)) (d (n "rtp-rs") (r "^0.5.0") (d #t) (k 0)) (d (n "smpte2022-1-packet") (r "^0.5") (d #t) (k 0)) (d (n "socket2") (r "^0.3") (d #t) (k 2)))) (h "1mrpsi8qiv49zfl8cvfk2xswq4i799n011ikz49mp06nfjvph20z")))
+

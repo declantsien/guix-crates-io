@@ -1,0 +1,8 @@
+(define-module (crates-io ru st rust-recipe) #:use-module (crates-io))
+
+(define-public crate-rust-recipe-0.1.0 (c (n "rust-recipe") (v "0.1.0") (d (list (d (n "iso8601-duration") (r "^0.2.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (o #t) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "ureq") (r "^2.9.1") (o #t) (d #t) (k 0)))) (h "162iw2qgh24104c6br97axl6ksd7bpx1k05cq60kzb1sck0c5ngb") (s 2) (e (quote (("blocking" "dep:ureq") ("async" "dep:reqwest"))))))
+
+(define-public crate-rust-recipe-0.1.1 (c (n "rust-recipe") (v "0.1.1") (d (list (d (n "iso8601-duration") (r "^0.2.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (o #t) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "ureq") (r "^2.9.1") (o #t) (d #t) (k 0)))) (h "03rhbd40cqh4w4bmw2zghhklpm5f5z025n8xhav63qlfzyj5b3b8") (s 2) (e (quote (("blocking" "dep:ureq") ("async" "dep:reqwest"))))))
+
+(define-public crate-rust-recipe-0.2.0 (c (n "rust-recipe") (v "0.2.0") (d (list (d (n "iso8601-duration") (r "^0.2.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (o #t) (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "ureq") (r "^2.9.1") (o #t) (d #t) (k 0)))) (h "126927nahxjsigmf410l4v9vhsmcmafp55w5lzp5zcbh7k5xhv1s") (s 2) (e (quote (("blocking" "dep:ureq") ("async" "dep:reqwest"))))))
+

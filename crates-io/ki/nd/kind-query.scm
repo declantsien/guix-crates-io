@@ -1,0 +1,8 @@
+(define-module (crates-io ki nd kind-query) #:use-module (crates-io))
+
+(define-public crate-kind-query-0.1.1 (c (n "kind-query") (v "0.1.1") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "kind-checker") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-parser") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-pass") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-target-hvm") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)))) (h "0w1c6pqww0rbhyyvckv1kxzqpllk3a1gasj86nk2l24xqqgxhzaw")))
+
+(define-public crate-kind-query-0.1.2 (c (n "kind-query") (v "0.1.2") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "kind-checker") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-parser") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-pass") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-target-hvm") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.2") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)))) (h "18d6isfp3d7l2m381921jdw4gh992cp11nadaxzd3w52xv36sybb")))
+
+(define-public crate-kind-query-0.1.3 (c (n "kind-query") (v "0.1.3") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "kind-checker") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-parser") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-pass") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-target-hvm") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.3") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)))) (h "1lfsnz92z0xbk0694fyqbbwc9z33a9jl42fhbqswddghl9xzbsj8")))
+

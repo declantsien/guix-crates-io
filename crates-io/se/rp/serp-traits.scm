@@ -1,0 +1,4 @@
+(define-module (crates-io se rp serp-traits) #:use-module (crates-io))
+
+(define-public crate-serp-traits-0.5.3 (c (n "serp-traits") (v "0.5.3") (d (list (d (n "codec") (r "^2.0.0") (k 0) (p "parity-scale-codec")) (d (n "fixed") (r "^1.7.0") (d #t) (k 0)) (d (n "frame-support") (r "^3.0.0") (k 0)) (d (n "funty") (r "=1.1.0") (k 0)) (d (n "impl-trait-for-tuples") (r "^0.1.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (k 0)) (d (n "orml-utilities") (r "^0.4.0") (k 0)) (d (n "serde") (r "^1.0.111") (o #t) (d #t) (k 0)) (d (n "sp-core") (r "^3.0.0") (k 0)) (d (n "sp-io") (r "^3.0.0") (k 0)) (d (n "sp-runtime") (r "^3.0.0") (k 0)) (d (n "sp-staking") (r "^3.0.0") (k 0)) (d (n "sp-std") (r "^3.0.0") (k 0)))) (h "0gmrnzb5rlanas9j4xg4ih6rh3vhyg8pdv5zrj56jd40z1gp1j8c") (f (quote (("std" "serde" "codec/std" "sp-runtime/std" "sp-io/std" "sp-std/std" "num-traits/std" "frame-support/std" "orml-utilities/std" "sp-staking/std") ("default" "std"))))))
+

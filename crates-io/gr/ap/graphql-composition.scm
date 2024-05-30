@@ -1,0 +1,10 @@
+(define-module (crates-io gr ap graphql-composition) #:use-module (crates-io))
+
+(define-public crate-graphql-composition-0.1.0 (c (n "graphql-composition") (v "0.1.0") (d (list (d (n "async-graphql-parser") (r "^6.0.9") (d #t) (k 0)) (d (n "async-graphql-value") (r "^6.0.9") (d #t) (k 0)))) (h "1pyzxwmwwgxw0fhdixbky0kgsdalbfr37pzdhp1a6pdsni91bv7x")))
+
+(define-public crate-graphql-composition-0.1.1 (c (n "graphql-composition") (v "0.1.1") (d (list (d (n "async-graphql-parser") (r "^6") (d #t) (k 0)) (d (n "async-graphql-value") (r "^6") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "graphql-federated-graph") (r "^0.1.0") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "1d3ykcz9qpn1jra63p5zv6sxyl0x2p404qf2v5xfscb98xzmnqp6")))
+
+(define-public crate-graphql-composition-0.2.0 (c (n "graphql-composition") (v "0.2.0") (d (list (d (n "async-graphql-parser") (r "^6") (d #t) (k 0)) (d (n "async-graphql-value") (r "^6") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "graphql-federated-graph") (r "^0.2.0") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "1c2lbh4d4wcrvqhb5h8q8gzssmi6px3q0hdagv7r2gddp21dv3f3")))
+
+(define-public crate-graphql-composition-0.3.0 (c (n "graphql-composition") (v "0.3.0") (d (list (d (n "async-graphql-parser") (r "^7") (d #t) (k 0)) (d (n "async-graphql-value") (r "^7") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "graphql-federated-graph") (r "^0.3.0") (d #t) (k 0)) (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "1vx9lgi27i78qkwys6xzn078w6vr4dsi8009s7vqqiw6msx8b54d")))
+

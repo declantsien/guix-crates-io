@@ -1,0 +1,14 @@
+(define-module (crates-io be vy bevy_trickfilm) #:use-module (crates-io))
+
+(define-public crate-bevy_trickfilm-0.1.0 (c (n "bevy_trickfilm") (v "0.1.0") (d (list (d (n "bevy") (r "^0.9") (f (quote ("bevy_asset" "render"))) (k 0)) (d (n "bevy") (r "^0.9") (d #t) (k 2)) (d (n "bevy_titan") (r "^0.1") (d #t) (k 2)) (d (n "ron") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0zl584bhqyqiyw7v3631mqx93lvi8c3871x3ja0qw4wq2zinbw2c")))
+
+(define-public crate-bevy_trickfilm-0.2.0 (c (n "bevy_trickfilm") (v "0.2.0") (d (list (d (n "bevy") (r "^0.10") (f (quote ("bevy_asset" "bevy_render" "bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.10") (d #t) (k 2)) (d (n "bevy_titan") (r "^0.2") (d #t) (k 2)) (d (n "ron") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1zrls9lid1njszy3j40n4gnnf36v5nkrjs9flja41570wyi5pdc8")))
+
+(define-public crate-bevy_trickfilm-0.3.0 (c (n "bevy_trickfilm") (v "0.3.0") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_asset" "bevy_render" "bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.11") (d #t) (k 2)) (d (n "bevy_titan") (r "^0.3") (d #t) (k 2)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0hp632mdlihwnmc9ic4gh67rffx9lnv65pvrpgj2x71vvs9lci60")))
+
+(define-public crate-bevy_trickfilm-0.4.0 (c (n "bevy_trickfilm") (v "0.4.0") (d (list (d (n "bevy") (r "^0.12") (f (quote ("bevy_asset" "bevy_render" "bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.12") (d #t) (k 2)) (d (n "bevy_titan") (r "^0.4") (d #t) (k 2)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "13vlpcs297dvf7clgz37v2ibfadyywdw6v2xw5z1aa7ql2kpvlfn")))
+
+(define-public crate-bevy_trickfilm-0.5.0 (c (n "bevy_trickfilm") (v "0.5.0") (d (list (d (n "bevy") (r "^0.12") (f (quote ("bevy_asset" "bevy_render" "bevy_sprite"))) (k 0)) (d (n "bevy") (r "^0.12") (f (quote ("file_watcher"))) (d #t) (k 2)) (d (n "bevy_asset_loader") (r "^0.18.0") (f (quote ("2d"))) (d #t) (k 2)) (d (n "bevy_titan") (r "^0.5") (d #t) (k 2)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1r50wvxf43dqgarsv4i9kcagqm7sf2a43q1jrbg91f52cji5zlck")))
+
+(define-public crate-bevy_trickfilm-0.6.0 (c (n "bevy_trickfilm") (v "0.6.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_asset" "bevy_sprite" "bevy_animation"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("file_watcher"))) (d #t) (k 2)) (d (n "bevy_asset_loader") (r "^0.20") (f (quote ("2d"))) (d #t) (k 2)) (d (n "bevy_titan") (r "^0.6") (d #t) (k 2)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "138n9mx7y9mv2c9xyj6v3hq6jrwcvnz1b0bakkx66blbmj3q8cax")))
+

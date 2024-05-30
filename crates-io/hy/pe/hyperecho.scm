@@ -1,0 +1,6 @@
+(define-module (crates-io hy pe hyperecho) #:use-module (crates-io))
+
+(define-public crate-hyperecho-0.2.0 (c (n "hyperecho") (v "0.2.0") (d (list (d (n "http") (r "^1.1") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^1.2") (f (quote ("server"))) (d #t) (k 0)) (d (n "hyper-util") (r "^0.1") (f (quote ("server" "tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("rt" "macros" "net"))) (d #t) (k 0)))) (h "0j38zzkrj8h90i7x9p3fj7yxkg8glndjazc2bi1aw214ckrbhajh") (f (quote (("http2" "hyper/http2" "hyper-util/http2") ("http1" "hyper/http1" "hyper-util/http1") ("default" "http1" "http2"))))))
+
+(define-public crate-hyperecho-0.2.1 (c (n "hyperecho") (v "0.2.1") (d (list (d (n "http") (r "^1.1") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^1.2") (f (quote ("server"))) (d #t) (k 0)) (d (n "hyper-util") (r "^0.1") (f (quote ("server" "tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("rt" "macros" "net"))) (d #t) (k 0)))) (h "0cqykjx0qxm6775sc7bri529hh4qvns3l2n9hy8qvn0dv0m6y2ip") (f (quote (("http2" "hyper/http2" "hyper-util/http2") ("http1" "hyper/http1" "hyper-util/http1") ("default" "http1" "http2"))))))
+

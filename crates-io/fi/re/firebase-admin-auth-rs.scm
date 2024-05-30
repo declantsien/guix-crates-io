@@ -1,0 +1,4 @@
+(define-module (crates-io fi re firebase-admin-auth-rs) #:use-module (crates-io))
+
+(define-public crate-firebase-admin-auth-rs-0.1.0 (c (n "firebase-admin-auth-rs") (v "0.1.0") (d (list (d (n "actix-cors") (r "^0.5.3") (d #t) (k 2)) (d (n "actix-files") (r "^0.6.0-beta.9") (d #t) (k 2)) (d (n "actix-web") (r "^4.0.0-beta.12") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.12") (d #t) (k 2)) (d (n "hyper") (r "^0.14.15") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.14.0") (f (quote ("rt" "time" "macros"))) (d #t) (k 0)) (d (n "wiremock") (r "^0.5") (d #t) (k 2)))) (h "0y1f677dnfxp9pmh25rj07gwjb11w1hjf71c1y4fywawf3wrsim7")))
+

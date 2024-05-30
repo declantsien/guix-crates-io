@@ -1,0 +1,4 @@
+(define-module (crates-io op en openlibspot-audio) #:use-module (crates-io))
+
+(define-public crate-openlibspot-audio-0.6.0 (c (n "openlibspot-audio") (v "0.6.0") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "ctr") (r "^0.9") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "openlibspot-core") (r "^0.6.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (f (quote ("deadlock_detection"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "parking_lot" "sync"))) (d #t) (k 0)))) (h "19bbhji053rprwwqym1dbk7zgvqqj4714flbbf12vp4v7h4qx34d") (y #t) (r "1.61")))
+

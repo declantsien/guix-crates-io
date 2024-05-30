@@ -1,0 +1,8 @@
+(define-module (crates-io st re streamlined-ntru-prime) #:use-module (crates-io))
+
+(define-public crate-streamlined-ntru-prime-0.1.0 (c (n "streamlined-ntru-prime") (v "0.1.0") (d (list (d (n "hex") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "11fyy59vs9695rfz956yplm7smk8j04gp2viiyxk2vig39sddn53") (f (quote (("testing" "serde" "serde_json" "serde_derive" "hex") ("default"))))))
+
+(define-public crate-streamlined-ntru-prime-0.1.1 (c (n "streamlined-ntru-prime") (v "0.1.1") (d (list (d (n "hex") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "0j2m6zjskvz2vdwszbqs2dvsfrx06k7l318xa7rn2rf68bc5xz5c") (f (quote (("testing" "serde" "serde_json" "serde_derive" "hex") ("default"))))))
+
+(define-public crate-streamlined-ntru-prime-0.1.2 (c (n "streamlined-ntru-prime") (v "0.1.2") (d (list (d (n "hex") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.33") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "0k7wnd59hwbh3m4wybmfszd4p56sb7alx1ql2a296i365qcfkb2b") (f (quote (("testing" "serde" "serde_json" "serde_derive" "hex") ("default"))))))
+

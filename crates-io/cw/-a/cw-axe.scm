@@ -1,0 +1,4 @@
+(define-module (crates-io cw -a cw-axe) #:use-module (crates-io))
+
+(define-public crate-cw-axe-0.1.0 (c (n "cw-axe") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "aws-config") (r "^1.1.7") (f (quote ("behavior-version-latest"))) (d #t) (k 0)) (d (n "aws-sdk-cloudwatchlogs") (r "^1.23") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "duration-str") (r "^0.8") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "humansize") (r "^2.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "shellexpand") (r "^3.1") (f (quote ("path"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml_edit") (r "^0.22") (d #t) (k 0)) (d (n "tracing") (r "^0.1.5") (d #t) (k 0)))) (h "031zm80yz6w1gxqyg2wpgp5b14viqbskhbsdfj11ifva36criszv")))
+

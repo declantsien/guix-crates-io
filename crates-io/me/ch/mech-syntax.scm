@@ -1,0 +1,14 @@
+(define-module (crates-io me ch mech-syntax) #:use-module (crates-io))
+
+(define-public crate-mech-syntax-0.0.1 (c (n "mech-syntax") (v "0.0.1") (d (list (d (n "hashbrown") (r "^0.1.8") (d #t) (k 0)) (d (n "mech-core") (r "^0.0.1") (d #t) (k 0)) (d (n "nom") (r "^4.2.2") (d #t) (k 0)))) (h "0ppscy8y8343lx4lva6ix60vsyc1zw77rkacfs854r8lz90r32mp")))
+
+(define-public crate-mech-syntax-0.0.2 (c (n "mech-syntax") (v "0.0.2") (d (list (d (n "hashbrown") (r "^0.4.0") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.54") (o #t) (d #t) (k 0)) (d (n "mech-core") (r "^0.0.2") (d #t) (k 0)) (d (n "nom") (r "^4.2.2") (d #t) (k 0)))) (h "1gz6760s8pza5c35vkz7q2hkjv4aadriaq6v07zzgr8rd3r6ldgz") (f (quote (("no-std" "mech-core/no-std" "libc") ("default"))))))
+
+(define-public crate-mech-syntax-0.0.3 (c (n "mech-syntax") (v "0.0.3") (d (list (d (n "hashbrown") (r "^0.6.0") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "mech-core") (r "^0.0.3") (d #t) (k 0)) (d (n "nom") (r "^4.2.2") (d #t) (k 0)) (d (n "rlibc") (r "= 1.0") (o #t) (d #t) (k 0)))) (h "1dnymv3h5kfvx82k3siw74bfswcdpl305q1z0b0rhqlhnxkvyrwv") (f (quote (("no-std" "mech-core/no-std" "rlibc") ("default"))))))
+
+(define-public crate-mech-syntax-0.0.4 (c (n "mech-syntax") (v "0.0.4") (d (list (d (n "hashbrown") (r "^0.7.1") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "mech-core") (r "^0.0.4") (d #t) (k 0)) (d (n "nom") (r "^5.1.1") (d #t) (k 0)) (d (n "rlibc") (r "= 1.0") (o #t) (d #t) (k 0)))) (h "0sp0387rfbmkg9chhcb523gc9a30h47m1qslwhdv5wkf4cdxf6ak") (f (quote (("no-std" "mech-core/no-std" "rlibc") ("default"))))))
+
+(define-public crate-mech-syntax-0.0.5 (c (n "mech-syntax") (v "0.0.5") (d (list (d (n "hashbrown") (r "^0.7.1") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "mech-core") (r "^0.0.5") (d #t) (k 0)) (d (n "nom") (r "^5.1.1") (d #t) (k 0)) (d (n "rlibc") (r "= 1.0") (o #t) (d #t) (k 0)))) (h "16f1daqqjj024fh8f2n5praqcagblidqd8iyqfxlgrc3099mhxf1") (f (quote (("no-std" "mech-core/no-std" "rlibc") ("default"))))))
+
+(define-public crate-mech-syntax-0.1.0 (c (n "mech-syntax") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.13.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mech-core") (r "^0.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.2") (d #t) (k 0)) (d (n "nom-unicode") (r "^0.3.0") (d #t) (k 0)) (d (n "rlibc") (r "=1.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "tower-lsp") (r "^0.17.0") (o #t) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.10.0") (d #t) (k 0)))) (h "0b8nrsvf74gjvjvna0vf2b7lvsgk5jajg6r954y3z8ahm16n4bs1") (f (quote (("no-std" "mech-core/no-std" "rlibc") ("lang-server" "tower-lsp" "tokio") ("default"))))))
+

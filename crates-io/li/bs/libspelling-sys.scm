@@ -1,0 +1,6 @@
+(define-module (crates-io li bs libspelling-sys) #:use-module (crates-io))
+
+(define-public crate-libspelling-sys-0.1.0 (c (n "libspelling-sys") (v "0.1.0") (d (list (d (n "gio") (r "^0.18") (d #t) (k 0) (p "gio-sys")) (d (n "glib") (r "^0.18") (d #t) (k 0) (p "glib-sys")) (d (n "gobject") (r "^0.18") (d #t) (k 0) (p "gobject-sys")) (d (n "gtk") (r "^0.7") (d #t) (k 0) (p "gtk4-sys")) (d (n "gtk_source") (r "^0.7") (d #t) (k 0) (p "sourceview5-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1im3gnlsx09ib1iz8f0ipr4kmiavbqyp8hjpq3mpd9jx8vcpaxip") (l "libspelling")))
+
+(define-public crate-libspelling-sys-0.2.0 (c (n "libspelling-sys") (v "0.2.0") (d (list (d (n "gio-sys") (r "^0.19") (d #t) (k 0)) (d (n "glib-sys") (r "^0.19") (d #t) (k 0)) (d (n "gobject-sys") (r "^0.19") (d #t) (k 0)) (d (n "gtk-sys") (r "^0.8") (d #t) (k 0) (p "gtk4-sys")) (d (n "gtk_source") (r "^0.8") (d #t) (k 0) (p "sourceview5-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "190va804ma2nar1b74x4smha9namcbra8c7gc5npsmv39qlfvm3n") (l "libspelling")))
+

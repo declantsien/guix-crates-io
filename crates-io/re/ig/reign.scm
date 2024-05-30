@@ -1,0 +1,12 @@
+(define-module (crates-io re ig reign) #:use-module (crates-io))
+
+(define-public crate-reign-0.1.0 (c (n "reign") (v "0.1.0") (h "072nwhys2p870mikm2hxpbzrb0q05wjlcf2a90yshf7rvg7p36vi")))
+
+(define-public crate-reign-0.1.1 (c (n "reign") (v "0.1.1") (d (list (d (n "reign_boot") (r "^0.1.1") (d #t) (k 0)))) (h "1q5wa8gg5yqn97hr2p7ff2z06vjvfq6bqqa0qgn8s5i95dw067zd")))
+
+(define-public crate-reign-0.1.2 (c (n "reign") (v "0.1.2") (d (list (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "reign_boot") (r "^0.1.2") (d #t) (k 0)) (d (n "reign_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "reign_router") (r "^0.1.2") (d #t) (k 0)) (d (n "reign_view") (r "^0.1.2") (d #t) (k 0)))) (h "1cp52qv5j693mlfi22qdifffbb005gwgniajngsgc5p7nrlpy9wy")))
+
+(define-public crate-reign-0.2.0 (c (n "reign") (v "0.2.0") (d (list (d (n "clap") (r "^3.0.0-beta.1") (o #t) (d #t) (k 0)) (d (n "reign_boot") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "reign_derive") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "reign_router") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "reign_view") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.0") (d #t) (k 2)))) (h "1rv28dfbd3p02y1s04gslzq3nlk2izd7v5szjab20b95xa69qmgq") (f (quote (("view-backend" "reign_view/view-backend" "reign_derive/view-backend" "view" "router") ("view" "reign_view" "reign_derive/view") ("session-redis" "reign_router/session-redis") ("router" "reign_router" "reign_derive/router") ("framework" "reign_boot") ("file-handlers" "reign_router/file-handlers") ("doc") ("default" "view-backend" "framework") ("cli" "clap"))))))
+
+(define-public crate-reign-0.2.1 (c (n "reign") (v "0.2.1") (d (list (d (n "clap") (r "^3.0.0-beta.1") (o #t) (d #t) (k 0)) (d (n "reign_boot") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "reign_derive") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "reign_router") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "reign_view") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.0") (d #t) (k 2)))) (h "1m3qa5953wa7dzfnh5iksxb6fdv074b5mq4j34k64lgh6q097zpv") (f (quote (("view-backend" "reign_view/view-backend" "reign_derive/view-backend" "view" "router-backend") ("view" "reign_view" "reign_derive/view") ("session-redis" "reign_router/session-redis" "router-backend") ("router-backend" "reign_router" "reign_derive/router-backend") ("framework" "reign_boot") ("file-handlers" "reign_router/file-handlers" "router-backend") ("doc") ("default" "view-backend" "framework") ("cli" "clap"))))))
+

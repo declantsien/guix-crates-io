@@ -1,0 +1,6 @@
+(define-module (crates-io qs sp qsspodcasts_rss_management) #:use-module (crates-io))
+
+(define-public crate-qsspodcasts_rss_management-0.1.0 (c (n "qsspodcasts_rss_management") (v "0.1.0") (d (list (d (n "fs_utils") (r "^0.1.0") (d #t) (k 0) (p "qsspodcasts_fs_utils")) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "path_providing") (r "^0.1.0") (d #t) (k 0) (p "qsspodcasts_path_providing")) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "rss") (r "^2.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1k0h2bisdxdwvcbhzx1489jq3687wcfrfbqp0jrrkvvk67r472jd") (r "1.70.0")))
+
+(define-public crate-qsspodcasts_rss_management-0.1.1 (c (n "qsspodcasts_rss_management") (v "0.1.1") (d (list (d (n "fs_utils") (r "^0.1.0") (d #t) (k 0) (p "qsspodcasts_fs_utils")) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "path_providing") (r "^0.1.0") (d #t) (k 0) (p "qsspodcasts_path_providing")) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "rss") (r "^2.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0i8bb9paim8x3234q6lck8wq8bf1wdr6wfz1hmcrgqycs3pvb5s0") (r "1.70.0")))
+

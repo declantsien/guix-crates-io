@@ -1,0 +1,6 @@
+(define-module (crates-io ev en eventbus_util) #:use-module (crates-io))
+
+(define-public crate-eventbus_util-0.1.0 (c (n "eventbus_util") (v "0.1.0") (d (list (d (n "actix") (r "^0.13") (d #t) (k 0)) (d (n "actix-rt") (r "^2.8") (d #t) (k 0)) (d (n "bytes") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (f (quote ("codec"))) (d #t) (k 0)))) (h "0vwk7fzbsawixjkac21v2aqwjz3cyrd3ydj8fmmr9wy0df3nrr9j")))
+
+(define-public crate-eventbus_util-0.1.1 (c (n "eventbus_util") (v "0.1.1") (d (list (d (n "actix") (r "^0.13") (d #t) (k 0)) (d (n "actix-rt") (r "^2.8") (d #t) (k 0)) (d (n "bytes") (r "^1.4") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^4") (f (quote ("threads"))) (d #t) (k 0)) (d (n "tokio-rustls") (r "^0.24") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (f (quote ("codec"))) (d #t) (k 0)))) (h "0336y99bz7dq0dksgrm3m3g56nac6ly0lcfzz69c9vm3ckpgy2sb")))
+

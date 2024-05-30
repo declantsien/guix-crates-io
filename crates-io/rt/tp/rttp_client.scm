@@ -1,0 +1,4 @@
+(define-module (crates-io rt tp rttp_client) #:use-module (crates-io))
+
+(define-public crate-rttp_client-0.1.0 (c (n "rttp_client") (v "0.1.0") (d (list (d (n "async-std") (r "^1") (o #t) (d #t) (k 0)) (d (n "base64") (r "^0.11") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "httpdate") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3") (d #t) (k 0)) (d (n "mime_guess") (r "^2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rustls") (r "^0.16") (o #t) (d #t) (k 0)) (d (n "socks") (r "^0.3") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "webpki") (r "^0.21") (o #t) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.18") (o #t) (d #t) (k 0)))) (h "0wnv87llmwirh764phgyyikkskn2rsyy0wb0abk50gnhxf75b5hk") (f (quote (("tls-rustls" "rustls" "webpki" "webpki-roots") ("tls-native" "native-tls") ("default") ("async" "async-std"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io cy be cyber-std-test) #:use-module (crates-io))
+
+(define-public crate-cyber-std-test-0.2.0 (c (n "cyber-std-test") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.0.0-beta8") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.13.2") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.13.2") (d #t) (k 0)) (d (n "cyber-std") (r "^0.2.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "1qx83y8brcyjp4lqg1dimd00psfwv5rdnwa9aj881g44pqhswhxn")))
+
+(define-public crate-cyber-std-test-0.2.1 (c (n "cyber-std-test") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.13.2") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.13.2") (d #t) (k 0)) (d (n "cyber-std") (r "^0.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "0363g9y1l24w1r171fyaf6j8fgjdlfyi33ji6m143f623igqzvrs")))
+
+(define-public crate-cyber-std-test-0.2.2 (c (n "cyber-std-test") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.0.0") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.14.0") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^0.14.0") (d #t) (k 0)) (d (n "cyber-std") (r "^0.2.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.21") (d #t) (k 0)))) (h "146a8i0i0iqpdm10snppjc68cxxalgdpwgrjczw7a41nkd8f4d64")))
+

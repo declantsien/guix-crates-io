@@ -1,0 +1,10 @@
+(define-module (crates-io st ar starlark_map) #:use-module (crates-io))
+
+(define-public crate-starlark_map-0.9.0 (c (n "starlark_map") (v "0.9.0") (d (list (d (n "allocative") (r "^0.3") (f (quote ("hashbrown"))) (d #t) (k 0)) (d (n "dupe") (r "^0.9.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.3") (f (quote ("raw"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 2)))) (h "1ajd69r6lz54p29d1zkv1n41806sqdj7qpa4izfjim8536k72ig1")))
+
+(define-public crate-starlark_map-0.10.0 (c (n "starlark_map") (v "0.10.0") (d (list (d (n "allocative") (r "^0.3") (f (quote ("hashbrown"))) (d #t) (k 0)) (d (n "dupe") (r "^0.9.0") (d #t) (k 0)) (d (n "equivalent") (r "^1.0.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.3") (f (quote ("raw"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 2)))) (h "00q6xg3i0a2vcr7kqcfmaf2xm3nvqz1akh293xslk626vlb8aw60")))
+
+(define-public crate-starlark_map-0.11.0 (c (n "starlark_map") (v "0.11.0") (d (list (d (n "allocative") (r "^0.3.1") (f (quote ("hashbrown"))) (d #t) (k 0)) (d (n "dupe") (r "^0.9.0") (d #t) (k 0)) (d (n "equivalent") (r "^1.0.0") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.3") (f (quote ("raw"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 2)))) (h "0clpmz4qv06kb81ha1zdmmgl1pqmk7493qa8irzcb2pjafdmnjsy")))
+
+(define-public crate-starlark_map-0.12.0 (c (n "starlark_map") (v "0.12.0") (d (list (d (n "allocative") (r "^0.3.2") (f (quote ("hashbrown"))) (d #t) (k 0)) (d (n "dupe") (r "^0.9.0") (d #t) (k 0)) (d (n "equivalent") (r "^1.0.0") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("raw"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 2)))) (h "1idcrgmf75lqs2amqq7b2d8gmhgjggy6943s793wxw7maf2nf0qf")))
+

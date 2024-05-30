@@ -1,0 +1,14 @@
+(define-module (crates-io lr ca lrcat-extractor) #:use-module (crates-io))
+
+(define-public crate-lrcat-extractor-0.1.0 (c (n "lrcat-extractor") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "docopt") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "peg") (r "^0.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0zpg1gip644d9p5bwhxia33h7kibvadix8ykhrcdi1bhdh9yaypf") (f (quote (("binaries" "docopt" "serde" "serde_derive"))))))
+
+(define-public crate-lrcat-extractor-0.2.0 (c (n "lrcat-extractor") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "docopt") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "peg") (r "^0.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0cxnhr37a5p9p03y19828jmgg876sr0l8s8jjr8r31gx8vrp1zps") (f (quote (("binaries" "docopt" "serde" "serde_derive"))))))
+
+(define-public crate-lrcat-extractor-0.2.1 (c (n "lrcat-extractor") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "docopt") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "peg") (r "^0.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.26.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0llhw7mjnhp4nms03f7rsspr23f4ih0dq2lx31rzagr752py6xxa") (f (quote (("binaries" "docopt" "serde" "serde_derive"))))))
+
+(define-public crate-lrcat-extractor-0.3.0 (c (n "lrcat-extractor") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "docopt") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "peg") (r "^0.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.28.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.15") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0l58wmsln3vszm2n86l2rqvq94xv4br7l50acd990xbjsi2vh9w9") (f (quote (("binaries" "docopt" "serde" "serde_derive"))))))
+
+(define-public crate-lrcat-extractor-0.4.0 (c (n "lrcat-extractor") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "docopt") (r "^1.1.1") (o #t) (d #t) (k 0)) (d (n "peg") (r "^0.7.0") (d #t) (k 0)) (d (n "rusqlite") (r "^0.29.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1d24n6qn51lvx7p65lqk4i03f4qj31bhaqv7p58y1zsn8bdqvm2k") (f (quote (("binaries" "docopt" "serde"))))))
+
+(define-public crate-lrcat-extractor-0.4.1 (c (n "lrcat-extractor") (v "0.4.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "docopt") (r "^1.1.1") (o #t) (d #t) (k 0)) (d (n "peg") (r "^0.8.1") (d #t) (k 0)) (d (n "rusqlite") (r "^0.29.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1nnra06rfwagh404nkyiaczxgawav93xghzq4498fpslsl0cy6gh") (f (quote (("binaries" "docopt" "serde"))))))
+

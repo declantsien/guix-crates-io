@@ -1,0 +1,18 @@
+(define-module (crates-io nd ar ndarray-slice) #:use-module (crates-io))
+
+(define-public crate-ndarray-slice-0.1.0 (c (n "ndarray-slice") (v "0.1.0") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)))) (h "0hvai4dc4939hc75bnbq412k4nzbfajdvkib1z5hmfp7vl1b1s5q") (f (quote (("std" "ndarray/std") ("default" "std")))) (r "1.58")))
+
+(define-public crate-ndarray-slice-0.1.1 (c (n "ndarray-slice") (v "0.1.1") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)))) (h "1r0yzbmw4h6w7jsjf8c58pw5jzbcafvbfd41859hwlpalr40y3kl") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (r "1.58")))
+
+(define-public crate-ndarray-slice-0.2.0 (c (n "ndarray-slice") (v "0.2.0") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)))) (h "0d1p9fflsb3anjhq15dzl8hyy2maa90n09d2zv1ykc23z52cv11k") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (r "1.58")))
+
+(define-public crate-ndarray-slice-0.2.1 (c (n "ndarray-slice") (v "0.2.1") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)))) (h "0iza77hbcw1zgx8xfr8c0hm2x1kaz7041y842nb2pvqd47n263fc") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (r "1.58")))
+
+(define-public crate-ndarray-slice-0.2.2 (c (n "ndarray-slice") (v "0.2.2") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "1m6mbs1igzbc6smp1apx5f51raw91rpp2iax60fvkwal2lhf4lc1") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (s 2) (e (quote (("rayon" "dep:rayon" "ndarray/rayon" "std")))) (r "1.60")))
+
+(define-public crate-ndarray-slice-0.2.3 (c (n "ndarray-slice") (v "0.2.3") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "07yrlm5k2b5g7wcxrb1cr6k38q30g6pwq3az8l8m4agdajhvkf1d") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (s 2) (e (quote (("rayon" "dep:rayon" "ndarray/rayon" "std")))) (r "1.60")))
+
+(define-public crate-ndarray-slice-0.2.4 (c (n "ndarray-slice") (v "0.2.4") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.1") (o #t) (d #t) (k 0)))) (h "05lqbkyf6p051v6fr5bgbjcfnb7cxkg6ykivgrrafcbagb3g9y44") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (s 2) (e (quote (("rayon" "dep:rayon" "ndarray/rayon" "std")))) (r "1.65.0")))
+
+(define-public crate-ndarray-slice-0.3.0 (c (n "ndarray-slice") (v "0.3.0") (d (list (d (n "ndarray") (r "^0.15.6") (k 0)) (d (n "quickcheck") (r "^1.0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1.0.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.9.0") (o #t) (d #t) (k 0)))) (h "1rbvg3v3cdaiqsvqmw858bx76zbd8xqa1nkkl30q1rq2arkajj60") (f (quote (("std" "alloc" "ndarray/std") ("default" "std") ("alloc")))) (s 2) (e (quote (("rayon" "dep:rayon" "ndarray/rayon" "std")))) (r "1.65.0")))
+

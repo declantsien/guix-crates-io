@@ -1,0 +1,4 @@
+(define-module (crates-io do ck docktor-api) #:use-module (crates-io))
+
+(define-public crate-docktor-api-0.35.2 (c (n "docktor-api") (v "0.35.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-smithy-http") (r "^0.35.2") (d #t) (k 0)) (d (n "aws-smithy-http-server") (r "^0.35.2") (d #t) (k 0)) (d (n "aws-smithy-json") (r "^0.35.2") (d #t) (k 0)) (d (n "aws-smithy-types") (r "^0.35.2") (d #t) (k 0)) (d (n "axum-core") (r "^0.1") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "tower") (r "^0.4") (d #t) (k 0)))) (h "0nvhk3yglqbbp32anmax49vg8nz8ddwaa9jrn8gqn9ilj4bdjsns") (f (quote (("rt-tokio" "aws-smithy-http/rt-tokio") ("default" "rt-tokio"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ca p- cap-sdk) #:use-module (crates-io))
+
+(define-public crate-cap-sdk-0.1.0 (c (n "cap-sdk") (v "0.1.0") (h "06glxlzm5pflq24x0yfmmlw9zbrp3gkvlryw3gklkgzsyr4d4dgq") (y #t)))
+
+(define-public crate-cap-sdk-0.1.0-alpha1 (c (n "cap-sdk") (v "0.1.0-alpha1") (d (list (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "cap-sdk-core") (r "^0.1.0-alpha1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.3.1") (d #t) (k 0)) (d (n "ic-kit") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0sydif4g9byh91c1hh9n93psncmvacghnlm9anncxq0xzmyxm7pw")))
+
+(define-public crate-cap-sdk-0.2.2 (c (n "cap-sdk") (v "0.2.2") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "cap-sdk-core") (r "^0.2.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.3.1") (d #t) (k 0)) (d (n "ic-kit") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0k6xy38qrabnmv343spzwhrj4nn0qxic06x5h14hg01cqasbbmak")))
+
+(define-public crate-cap-sdk-0.2.3 (c (n "cap-sdk") (v "0.2.3") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "cap-sdk-core") (r "^0.2.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.3.1") (d #t) (k 0)) (d (n "ic-kit") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "05wa4f7m4dbik2yvf1snsd4i3p3g90a3pyqpdklwh28gj38y6lfx")))
+
+(define-public crate-cap-sdk-0.2.4 (c (n "cap-sdk") (v "0.2.4") (d (list (d (n "async-std") (r "^1.10.0") (f (quote ("attributes"))) (d #t) (t "cfg(not(target_family = \"wasm\"))") (k 0)) (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "candid") (r "^0.7") (d #t) (k 0)) (d (n "cap-sdk-core") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "ic-cdk") (r "^0.5") (d #t) (k 0)) (d (n "ic-kit") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0d57mirq4dmvc87zdnqifrkdgi8vzic0p8rcl1vbhlz1rki4a1sw")))
+

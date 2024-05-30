@@ -1,0 +1,12 @@
+(define-module (crates-io wi nd windowed-infinity) #:use-module (crates-io))
+
+(define-public crate-windowed-infinity-0.1.0 (c (n "windowed-infinity") (v "0.1.0") (h "065fha2vx4pfr81bk192widlyb84h9i3d4qsn6aq8cjkqygdr2lw")))
+
+(define-public crate-windowed-infinity-0.1.1 (c (n "windowed-infinity") (v "0.1.1") (d (list (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (f (quote ("unsealed_read_write"))) (o #t) (k 0)))) (h "1gl9d7x8a5i3q73qamj802xfg0hykzzaxa65plj4i47zxkn8nc6w") (f (quote (("with_serde_cbor" "serde_cbor" "serde") ("std"))))))
+
+(define-public crate-windowed-infinity-0.1.2 (c (n "windowed-infinity") (v "0.1.2") (d (list (d (n "ciborium-io") (r "^0.2") (o #t) (k 0)) (d (n "ciborium-ll") (r "^0.2") (k 2)) (d (n "minicbor") (r ">=0.12, <0.16") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (f (quote ("unsealed_read_write"))) (o #t) (k 0)))) (h "1z7ly5nl39klyw04indg9r6rs7zsqi93dxjbznpkmhrxpjw9zj74") (f (quote (("with_serde_cbor" "serde_cbor" "serde") ("with_minicbor" "minicbor") ("with_ciborium" "ciborium-io") ("std"))))))
+
+(define-public crate-windowed-infinity-0.1.3 (c (n "windowed-infinity") (v "0.1.3") (d (list (d (n "ciborium-io") (r "^0.2") (o #t) (k 0)) (d (n "minicbor") (r ">=0.12, <0.16") (o #t) (k 0)) (d (n "minicbor_0_19") (r "^0.19") (o #t) (k 0) (p "minicbor")) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (f (quote ("unsealed_read_write"))) (o #t) (k 0)) (d (n "ciborium-ll") (r "^0.2") (k 2)))) (h "0ynbxg4id49iympqvq8bs9sdfs5p3vg2k1zza1xzc38my2ysm2ns") (f (quote (("with_serde_cbor" "serde_cbor" "serde") ("with_minicbor_0_19" "minicbor_0_19") ("with_minicbor" "minicbor") ("with_ciborium" "ciborium-io") ("std"))))))
+
+(define-public crate-windowed-infinity-0.1.4 (c (n "windowed-infinity") (v "0.1.4") (d (list (d (n "ciborium-io") (r "^0.2") (o #t) (k 0)) (d (n "crc") (r "^3.0") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "embedded-io") (r "^0.4") (k 0)) (d (n "minicbor") (r ">=0.12, <0.16") (o #t) (k 0)) (d (n "minicbor_0_19") (r "^0.19") (o #t) (k 0) (p "minicbor")) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (f (quote ("unsealed_read_write"))) (o #t) (k 0)) (d (n "ciborium-ll") (r "^0.2") (k 2)))) (h "0df0zcbjjcibzx36r2ilblvvqxy2y39w5cyh3ygbb7asaqfpsj69") (f (quote (("with_serde_cbor" "serde_cbor" "serde") ("with_minicbor_0_19" "minicbor_0_19") ("with_minicbor" "minicbor") ("with_embedded_io_0_4") ("with_ciborium" "ciborium-io") ("std"))))))
+

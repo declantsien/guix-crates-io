@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-singlepass-backend-fl) #:use-module (crates-io))
+
+(define-public crate-wasmer-singlepass-backend-fl-0.17.0 (c (n "wasmer-singlepass-backend-fl") (v "0.17.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "dynasm") (r "^0.5") (d #t) (k 0)) (d (n "dynasmrt") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.68") (d #t) (k 0)) (d (n "nix") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "wasmer-runtime-core") (r "^0.17.0") (d #t) (k 0) (p "wasmer-runtime-core-fl")))) (h "04psyhw86m9l8g5321ysz0a6il2wfcsfdkzcnixaypwwr042zfin") (f (quote (("deterministic-execution" "wasmer-runtime-core/deterministic-execution") ("default"))))))
+

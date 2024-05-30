@@ -1,0 +1,32 @@
+(define-module (crates-io by on byondapi-sys) #:use-module (crates-io))
+
+(define-public crate-byondapi-sys-0.1.0 (c (n "byondapi-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "tempfile") (r "^3.6.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "1clk49fng806kk5pf124prbnfa3z52zkdd28xpzl71kd4q0g5dy7") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.1.1 (c (n "byondapi-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "0xv0kjpgdw7605p392s6l2z46x95p4qkmarfhrksr6g2q5fx89r6") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.2.0 (c (n "byondapi-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "0pbpqns32va6af3v9l94s0ha2pdlpj3rp7dr2wyya1hqhv38pniv") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.3.0 (c (n "byondapi-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "1997g6gycpsw3hj3isc7yqw8km4ifkbnb93qhmxfrghvrclybbgh") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.4.0 (c (n "byondapi-sys") (v "0.4.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "1559mrbm3bddv8sl8fckx7chnnw5lcvyncghgjm7ark6xwaz8jgw") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.5.0 (c (n "byondapi-sys") (v "0.5.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "17fzlx59lmas23myfwngl3nkdczkk8954p227yndxkwm0zsnd5yr") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.6.0 (c (n "byondapi-sys") (v "0.6.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "0aaa6yli8b6r99vcld57pnn60c3y3pm8v79w5aqfbm70x8s5jpai") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.7.0 (c (n "byondapi-sys") (v "0.7.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking"))) (d #t) (k 1)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "09m3smaxrswdijglcaq4mx1z3qgvkf831nh19kgnr2wxr746naar") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.7.1 (c (n "byondapi-sys") (v "0.7.1") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)))) (h "0phb4vdijj1xgjsp4j5lddz9cwc80vzp3izwiz3ma0rzsy3fadkd") (f (quote (("default" "515-1609") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.8.0 (c (n "byondapi-sys") (v "0.8.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)))) (h "16w13bv1b6m82zrvlr4q05z5sxvwwaaaw035gsp06vx66jm7pwsv") (f (quote (("default" "515-1610") ("515-1610") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.9.0 (c (n "byondapi-sys") (v "0.9.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)))) (h "0ablx2crpbzifpxn903nkbm3ipq34dyr18fzxgyg2xg46l57gywx") (f (quote (("default" "515-1611") ("515-1611") ("515-1610") ("515-1609"))))))
+
+(define-public crate-byondapi-sys-0.10.0 (c (n "byondapi-sys") (v "0.10.0") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)))) (h "1x6pc676w2g1nf5f7g62ip5kwhykdfhqd6nj71qcqng5pbiv2nb3")))
+
+(define-public crate-byondapi-sys-0.10.1 (c (n "byondapi-sys") (v "0.10.1") (d (list (d (n "bindgen") (r "^0.66.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 1)))) (h "1jafw85dcy0qy1bi0aa228bqy64wi739qqknryyznw4yx2zmdpx2")))
+
+(define-public crate-byondapi-sys-0.11.0 (c (n "byondapi-sys") (v "0.11.0") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "libloading") (r "^0.8.1") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 1)))) (h "0whj7hz0i1ddy5pjx8w1va4ylbksqhlpvnnf6wnxq48mr0nii6cg") (f (quote (("default" "byond-515-1621") ("byond-515-1621"))))))
+
+(define-public crate-byondapi-sys-0.11.1 (c (n "byondapi-sys") (v "0.11.1") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "doxygen-rs") (r "^0.4") (d #t) (k 1)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "0s86abs6raflbz71rja4ln4g5wwdkzamqyhi3fhgckz24dz95by9") (f (quote (("default" "byond-515-1621") ("byond-515-1621"))))))
+

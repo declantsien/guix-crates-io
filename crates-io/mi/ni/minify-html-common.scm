@@ -1,0 +1,6 @@
+(define-module (crates-io mi ni minify-html-common) #:use-module (crates-io))
+
+(define-public crate-minify-html-common-0.0.1 (c (n "minify-html-common") (v "0.0.1") (d (list (d (n "aho-corasick") (r "^0.7") (d #t) (k 0)) (d (n "css-minify") (r "^0.3.1") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "minify-js") (r "^0.4.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 1)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 1)))) (h "0zqcf1bib1vyvm0wzjj96rpdapa7vldi7s6j1kpy3bplwm04isqd")))
+
+(define-public crate-minify-html-common-0.0.2 (c (n "minify-html-common") (v "0.0.2") (d (list (d (n "aho-corasick") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 1)))) (h "100p85mrv95rdrism2mbkpm9q0y25gf0kmybq08dxigxvx06nyk9")))
+

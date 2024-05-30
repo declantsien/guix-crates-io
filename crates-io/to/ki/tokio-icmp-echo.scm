@@ -1,0 +1,6 @@
+(define-module (crates-io to ki tokio-icmp-echo) #:use-module (crates-io))
+
+(define-public crate-tokio-icmp-echo-0.4.0 (c (n "tokio-icmp-echo") (v "0.4.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.7") (f (quote ("os-ext"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "socket2") (r "^0.4") (f (quote ("all"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.5") (f (quote ("rt" "time" "net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.5") (f (quote ("rt-multi-thread" "time" "macros"))) (d #t) (k 2)))) (h "08mbqqmfyvx0hw8chrfqswqa7mzxnl5271i7hj912lnm1m9yw8ka")))
+
+(define-public crate-tokio-icmp-echo-0.4.1 (c (n "tokio-icmp-echo") (v "0.4.1") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-ext"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "socket2") (r "^0.4") (f (quote ("all"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "net"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "time" "macros"))) (d #t) (k 2)))) (h "1qbp7zy6magpfd0nrgaldrskzx0agx7gk9kmsvwi9m90nqcbf8gm")))
+

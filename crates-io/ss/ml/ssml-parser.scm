@@ -1,0 +1,4 @@
+(define-module (crates-io ss ml ssml-parser) #:use-module (crates-io))
+
+(define-public crate-ssml-parser-0.1.4 (c (n "ssml-parser") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.68") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "fake") (r "^2.7.0") (f (quote ("derive" "http"))) (d #t) (k 2)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "mediatype") (r "^0.19.13") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0j8cacl2cbp89zm0sqw65xmdqp2xgwxpl0ksjxsg8gn1b65vxmds") (f (quote (("async" "async-trait"))))))
+

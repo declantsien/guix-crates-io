@@ -1,0 +1,4 @@
+(define-module (crates-io se ns sensor-tlv493d) #:use-module (crates-io))
+
+(define-public crate-sensor-tlv493d-0.1.0 (c (n "sensor-tlv493d") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.33") (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.6") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "linux-embedded-hal") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "simplelog") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "structopt") (r "^0.3.20") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.21") (o #t) (d #t) (k 0)))) (h "1hzkd8g8l7lzwdcskwl90295zyxcl3nsdcjs1i8di9dfcb08vb5m") (f (quote (("util" "linux-embedded-hal" "structopt" "simplelog" "ctrlc") ("std" "thiserror" "anyhow") ("default" "std" "util"))))))
+

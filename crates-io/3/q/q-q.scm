@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# q q-q) #:use-module (crates-io))
+
+(define-public crate-q-q-0.1.0 (c (n "q-q") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.21.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.14.4") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "termimad") (r "^0.15.0") (d #t) (k 0)))) (h "11155iwnnfb4fyzk82wk4m2m93zg3gc26kr7sajymysr5ijwj38y")))
+
+(define-public crate-q-q-0.1.1 (c (n "q-q") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.21.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "termimad") (r "^0.16.2") (d #t) (k 0)))) (h "1fbvi2d6xpmw15mnsy12ywbav1k8faibllq448v492dj5lc8qj6a")))
+
+(define-public crate-q-q-0.1.2 (c (n "q-q") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "termimad") (r "^0.20.2") (d #t) (k 0)))) (h "0zf69x60565qbg736gv0hjv6hscgc014aj4q27dbsck7mk4nwnkv")))
+

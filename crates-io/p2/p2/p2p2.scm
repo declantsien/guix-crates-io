@@ -1,0 +1,4 @@
+(define-module (crates-io p2 p2 p2p2) #:use-module (crates-io))
+
+(define-public crate-p2p2-0.0.1 (c (n "p2p2") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.51") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.17") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.11.0") (f (quote ("macros" "rt" "sync" "net" "rt-multi-thread"))) (d #t) (k 2)))) (h "1g606r9wzfzla62jd4hn5511sb3d0cw452mgl7nr55xa3vb13wbm") (f (quote (("udp") ("tcp") ("runtime-tokio" "tokio" "tokio/net") ("default" "tcp" "udp" "runtime-tokio"))))))
+

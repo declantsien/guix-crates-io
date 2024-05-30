@@ -1,0 +1,16 @@
+(define-module (crates-io au to automerge-test) #:use-module (crates-io))
+
+(define-public crate-automerge-test-0.1.0 (c (n "automerge-test") (v "0.1.0") (d (list (d (n "automerge") (r "^0.2") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.21") (f (quote ("serde"))) (d #t) (k 0)))) (h "05pgvay0kh6iwknpqcknz60kiy92ppp17wj5bb2h0wy275c5nsfd") (r "1.57.0")))
+
+(define-public crate-automerge-test-0.2.0 (c (n "automerge-test") (v "0.2.0") (d (list (d (n "automerge") (r "^0.3") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.21") (f (quote ("serde"))) (d #t) (k 0)))) (h "0pq63k2zqgcyb9l1wmx35alrh1caf48445ip0q4v27a2gq08dcwy") (r "1.57.0")))
+
+(define-public crate-automerge-test-0.3.0 (c (n "automerge-test") (v "0.3.0") (d (list (d (n "automerge") (r "^0.4.0") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.21") (f (quote ("serde"))) (d #t) (k 0)))) (h "07mkwx46a5djv38n80b62965lxpri3ynh5v36gknq0mvxpaqmwii") (r "1.57.0")))
+
+(define-public crate-automerge-test-0.4.0 (c (n "automerge-test") (v "0.4.0") (d (list (d (n "automerge") (r "^0.5.0") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.21") (f (quote ("serde"))) (d #t) (k 0)))) (h "0zagrwjp75by3nw8w3n3inw85bpsrv70fb20vlxf181g2a6wz50q") (r "1.57.0")))
+
+(define-public crate-automerge-test-0.4.1 (c (n "automerge-test") (v "0.4.1") (d (list (d (n "automerge") (r "^0.5.2") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.21") (f (quote ("serde"))) (d #t) (k 0)))) (h "1k3qagr8hr9n7158a0vllff8gz73jskkrznfm5dmd9xr8r22m5kh") (r "1.57.0")))
+
+(define-public crate-automerge-test-0.4.2 (c (n "automerge-test") (v "0.4.2") (d (list (d (n "automerge") (r "^0.5.4") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0q93da7502j7d4pdzh73bv2liw8r8sz1cjawhlgkr7jc5qvgvagl") (r "1.57.0")))
+
+(define-public crate-automerge-test-0.4.3 (c (n "automerge-test") (v "0.4.3") (d (list (d (n "automerge") (r "^0.5") (d #t) (k 0)) (d (n "decorum") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.73") (f (quote ("float_roundtrip"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0rfgk4j44jn999c1cmh053va122qa6lj4ng1bg2bn5vpns14d488") (r "1.57.0")))
+

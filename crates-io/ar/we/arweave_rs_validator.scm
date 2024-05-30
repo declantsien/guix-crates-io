@@ -1,0 +1,4 @@
+(define-module (crates-io ar we arweave_rs_validator) #:use-module (crates-io))
+
+(define-public crate-arweave_rs_validator-0.1.0 (c (n "arweave_rs_validator") (v "0.1.0") (d (list (d (n "arweave_rs_indexes") (r "^0.1.0") (d #t) (k 0)) (d (n "arweave_rs_packing") (r "^0.1.0") (d #t) (k 0)) (d (n "arweave_rs_randomx") (r "^1.2.1") (d #t) (k 0)) (d (n "arweave_rs_types") (r "^0.1.0") (d #t) (k 0)) (d (n "arweave_rs_vdf") (r "^0.1.0") (d #t) (k 0)) (d (n "base64-url") (r "^2.0.0") (d #t) (k 0)) (d (n "borsh") (r "^1.3.0") (d #t) (k 0)) (d (n "borsh-derive") (r "^1.3.0") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "openssl") (r "^0.10.57") (f (quote ("vendored"))) (d #t) (k 0)))) (h "03xdcph5d6ammb78yqmqxdx2f34hcj8xkpvcmaah1cawpkg0ix8b")))
+

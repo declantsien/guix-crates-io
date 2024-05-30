@@ -1,0 +1,4 @@
+(define-module (crates-io ch ar chargrid_graphical_gfx) #:use-module (crates-io))
+
+(define-public crate-chargrid_graphical_gfx-0.1.0 (c (n "chargrid_graphical_gfx") (v "0.1.0") (d (list (d (n "chargrid_app") (r "^0.1") (d #t) (k 0)) (d (n "chargrid_graphical_common") (r "^0.1") (d #t) (k 0)) (d (n "chargrid_input") (r "^0.1") (d #t) (k 0)) (d (n "chargrid_render") (r "^0.1") (d #t) (k 0)) (d (n "gfx") (r "^0.18") (d #t) (k 0)) (d (n "gfx_device_gl") (r "^0.16") (d #t) (k 0)) (d (n "gfx_glyph") (r "^0.16") (d #t) (k 0)) (d (n "gfx_window_glutin") (r "^0.31") (d #t) (k 0)) (d (n "glutin") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "1j66rf4pxslj2gmhylf36jsdg5a60vp8x7x3jsdkpfb4igzzrbgy") (f (quote (("serialize" "chargrid_input/serialize" "chargrid_render/serialize"))))))
+

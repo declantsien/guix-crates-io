@@ -1,0 +1,16 @@
+(define-module (crates-io ap py appy-macros) #:use-module (crates-io))
+
+(define-public crate-appy-macros-0.1.0 (c (n "appy-macros") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "06zi8gpxpajrxp6mn81il2zpliq55c4vlfv2pdpp0l93qqvd25as") (f (quote (("sdl") ("glutin"))))))
+
+(define-public crate-appy-macros-0.1.1 (c (n "appy-macros") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "0q02d0k1fghak3zjz7q221m3wwx166w6r1nb13pkx8y6pxnp3q6h") (f (quote (("sdl") ("glutin"))))))
+
+(define-public crate-appy-macros-0.1.2 (c (n "appy-macros") (v "0.1.2") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "0qxjhnvf2df0aa7pzhhaw1jrx9xc281sqnr9ghd632j0vicm69vk") (f (quote (("sdl") ("glutin"))))))
+
+(define-public crate-appy-macros-0.1.3 (c (n "appy-macros") (v "0.1.3") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1wv1x33sx4ghkdcnkwdgqqzjd2yx109x5hsl2nwcrhc4nzvddwg8") (f (quote (("sdl") ("glutin"))))))
+
+(define-public crate-appy-macros-0.1.4 (c (n "appy-macros") (v "0.1.4") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "03qnaibszm28s5hsx512c73njpj3gk77zqnk2wd2wbliz472zhsn") (f (quote (("sdl") ("glutin"))))))
+
+(define-public crate-appy-macros-0.1.5 (c (n "appy-macros") (v "0.1.5") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "0v7niqnqmq2drmqxsh12dqqgqxa1zpbsc7nqvzh9xzss9q0bjb04") (f (quote (("sdl") ("glutin"))))))
+
+(define-public crate-appy-macros-0.1.6 (c (n "appy-macros") (v "0.1.6") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-rsx") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "00q3136831cxbbbdcvg27hxq47421wj8hn62i6rp79hzwxnxc5pk") (f (quote (("sdl") ("glutin"))))))
+

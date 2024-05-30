@@ -1,0 +1,6 @@
+(define-module (crates-io ti me timex) #:use-module (crates-io))
+
+(define-public crate-timex-0.1.0-beta.1 (c (n "timex") (v "0.1.0-beta.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)))) (h "1q18lsggy1y5s40rdpxwfqf3ly72vw1xpxsrv32a21zxsdsan55h") (r "1.73")))
+
+(define-public crate-timex-0.3.0-beta.1 (c (n "timex") (v "0.3.0-beta.1") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.89") (d #t) (k 0)))) (h "0kxr9w8bfxi2fq62gljwvzwmxjsycn1p2gkrj2fsz0h1skxkfdrv") (r "1.73")))
+

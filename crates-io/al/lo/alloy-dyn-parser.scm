@@ -1,0 +1,6 @@
+(define-module (crates-io al lo alloy-dyn-parser) #:use-module (crates-io))
+
+(define-public crate-alloy-dyn-parser-0.1.0 (c (n "alloy-dyn-parser") (v "0.1.0") (d (list (d (n "alloy-dyn-abi") (r "^0.6.4") (d #t) (k 0)) (d (n "alloy-json-abi") (r "^0.6.4") (f (quote ("serde_json"))) (d #t) (k 0)) (d (n "alloy-primitives") (r "^0.6.4") (d #t) (k 0)) (d (n "alloy-sol-types") (r "^0.6.4") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "ethers") (r "^2.0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "19f4kdpqr17pgp66w7nixcim9mmgy1lc2h47s9rrf8mvfmrxd3nm")))
+
+(define-public crate-alloy-dyn-parser-0.1.1 (c (n "alloy-dyn-parser") (v "0.1.1") (d (list (d (n "alloy-dyn-abi") (r "^0.6.4") (f (quote ("eip712"))) (d #t) (k 0)) (d (n "alloy-json-abi") (r "^0.6.4") (f (quote ("serde_json"))) (d #t) (k 0)) (d (n "alloy-primitives") (r "^0.6.4") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "ethers") (r "^2.0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "1la2bmayp5mw2s816qi3c5k60ii1hjck6gm18pd6a3zbv665ih4p")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io oa ut oauth1-client) #:use-module (crates-io))
+
+(define-public crate-oauth1-client-0.1.0 (c (n "oauth1-client") (v "0.1.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "dyn-clonable") (r "^0.9.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rfc3986") (r "^0.1") (f (quote ("std"))) (d #t) (k 0) (p "percent-encoding-rfc3986")) (d (n "rsa") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.10") (f (quote ("oid"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "uuid") (r "^1.3") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "14saydrpkl5wgzm7qd7a20ls9n070xy0h9snb5lfg0l1ybb0jbaa") (f (quote (("default")))) (r "1.57.0")))
+

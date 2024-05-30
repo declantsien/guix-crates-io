@@ -1,0 +1,6 @@
+(define-module (crates-io go of goofy) #:use-module (crates-io))
+
+(define-public crate-goofy-0.1.0 (c (n "goofy") (v "0.1.0") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "cookies" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.105") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0vw0lz7fzzcmlczbi8m17iakmb0dy50rwmx023ql6yz43m3p895n")))
+
+(define-public crate-goofy-0.2.0 (c (n "goofy") (v "0.2.0") (d (list (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "cookies" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.105") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "01w4i03cg5sdkl7qncklk87wv1x8jx400f5r98aahf8j2b9nyglj")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ce le celery-rs-core) #:use-module (crates-io))
+
+(define-public crate-celery-rs-core-0.0.1 (c (n "celery-rs-core") (v "0.0.1") (d (list (d (n "amiquip") (r "^0.3.2") (d #t) (k 0)) (d (n "amq-protocol") (r "^3.0.0") (d #t) (k 0)) (d (n "hostname") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0qj7npw25m392vxxmpmf69i8qcw9wvk0zf9z39dyxn3pry2vq8ya")))
+
+(define-public crate-celery-rs-core-0.0.2 (c (n "celery-rs-core") (v "0.0.2") (d (list (d (n "amiquip") (r "^0.3.2") (d #t) (k 0)) (d (n "amq-protocol") (r "^3.0.0") (d #t) (k 0)) (d (n "hostname") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0m92w0r8vkicppjpq3amisp05429jk7fv45hlfv933zfp6ly7qkv")))
+
+(define-public crate-celery-rs-core-0.0.4 (c (n "celery-rs-core") (v "0.0.4") (d (list (d (n "amiquip") (r "^0.3.2") (d #t) (k 0)) (d (n "amq-protocol") (r "^3.0.0") (d #t) (k 0)) (d (n "hostname") (r "^0.1.5") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1k1mbmfa9ici24q0h5zx53zg7zb7663jqn5ps3zw07ky2bhnn4dh")))
+
+(define-public crate-celery-rs-core-0.0.5 (c (n "celery-rs-core") (v "0.0.5") (d (list (d (n "amiquip") (r "^0.3.2") (d #t) (k 0)) (d (n "amq-protocol") (r "^3.0.0") (d #t) (k 0)) (d (n "hostname") (r "^0.1.5") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "16g2p19ly6ls18zw4f3bp0fl1xp1n47qi7959isalij2qgni71w3")))
+
+(define-public crate-celery-rs-core-0.0.6 (c (n "celery-rs-core") (v "0.0.6") (d (list (d (n "amiquip") (r "^0.3.2") (d #t) (k 0)) (d (n "amq-protocol") (r "^3.0.0") (d #t) (k 0)) (d (n "hostname") (r "^0.1.5") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^0.2.0-alpha.6") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0jg8ira1frl6bi3g5xmsfpii25mgqj0gijl1pvblas82xxhlk2qf")))
+

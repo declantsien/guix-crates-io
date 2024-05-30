@@ -1,0 +1,24 @@
+(define-module (crates-io op en openai_api_client) #:use-module (crates-io))
+
+(define-public crate-openai_api_client-0.1.0 (c (n "openai_api_client") (v "0.1.0") (d (list (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1qc8cf7v7lfgla24srrrvrnm13zxjdbpgi52xyjh7cixly4p8qig")))
+
+(define-public crate-openai_api_client-0.1.1 (c (n "openai_api_client") (v "0.1.1") (d (list (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1zpc12yzjqsnx176jp6vch1v743096m7wsal151h31bf4w2mshfk")))
+
+(define-public crate-openai_api_client-0.1.2 (c (n "openai_api_client") (v "0.1.2") (d (list (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1450k7r4hwfzasw4dh80sp9y9ncm3zcav65k2zxsn7ign5nx66ps")))
+
+(define-public crate-openai_api_client-0.1.3 (c (n "openai_api_client") (v "0.1.3") (d (list (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "0wvvahn9kxz1p4xgc6m9ydw2fxzv1skb0f5jwq7wb7ynnav0sglq")))
+
+(define-public crate-openai_api_client-0.2.0 (c (n "openai_api_client") (v "0.2.0") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1lcry1q2bj67j2r2s082rkjz9zljlk68bbfphq4p4jkarwjqf3py")))
+
+(define-public crate-openai_api_client-0.3.0 (c (n "openai_api_client") (v "0.3.0") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "0yypdxsvl2bfaqrxk04dm69cxgl5k3gszqnkr7ixavj1chcfd5i0")))
+
+(define-public crate-openai_api_client-0.3.1 (c (n "openai_api_client") (v "0.3.1") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "0vv62wwn2qbbyrzpncbyy09mdnpbrshx8q5p27majxsa56glxs2w")))
+
+(define-public crate-openai_api_client-0.3.2 (c (n "openai_api_client") (v "0.3.2") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "0rn02h7hsjrhjm2gmqpcssc9l4rhi0kwxwp22rcai6nd36plij80")))
+
+(define-public crate-openai_api_client-0.3.3 (c (n "openai_api_client") (v "0.3.3") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "1g34003lkd70yibw4ak3xj252d7zxplskdls08lwsibv38abrxk8")))
+
+(define-public crate-openai_api_client-0.4.0 (c (n "openai_api_client") (v "0.4.0") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)))) (h "17p9agglqzwwfckfmd2j9ydmw11c8z8i98ws7dbqy293faxjlhvj")))
+
+(define-public crate-openai_api_client-0.5.0 (c (n "openai_api_client") (v "0.5.0") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "awc") (r "^3.0.1") (f (quote ("rustls"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0sgdkkali65vg754f9kna2qxm7kyggql764pzazrj33q0z12bm53")))
+

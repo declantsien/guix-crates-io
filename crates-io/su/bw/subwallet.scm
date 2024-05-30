@@ -1,0 +1,4 @@
+(define-module (crates-io su bw subwallet) #:use-module (crates-io))
+
+(define-public crate-subwallet-0.1.0 (c (n "subwallet") (v "0.1.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.0") (d #t) (k 0)) (d (n "hex-literal") (r "^0.2.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.1") (d #t) (k 0)) (d (n "rustbreak") (r "^2.0.0-rc3") (f (quote ("bin_enc"))) (d #t) (k 0)) (d (n "schnorrkel") (r "^0.9.1") (f (quote ("preaudit_deprecated" "u64_backend"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sodalite") (r "^0.3.0") (d #t) (k 0)) (d (n "sp-core") (r "^2.0.0-rc2") (d #t) (k 0)) (d (n "tiny-bip39") (r "^0.7") (d #t) (k 0)))) (h "1k306dh3hqrlc59bryja9bia3q8qygs22x14pafrvsdwzxamki45")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io vt ra vtracer-webapp) #:use-module (crates-io))
+
+(define-public crate-vtracer-webapp-0.4.0 (c (n "vtracer-webapp") (v "0.4.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "console_error_panic_hook") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "console_log") (r "^0.2") (f (quote ("color"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "visioncortex") (r "^0.6.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("CanvasRenderingContext2d" "console" "Document" "HtmlElement" "HtmlCanvasElement" "ImageData" "Window"))) (d #t) (k 0)))) (h "1yy2iqpx6mvgaca8lq7ldpqnplzkzyfap5kgwx4iazagybka1v89") (f (quote (("default" "console_error_panic_hook"))))))
+

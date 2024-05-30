@@ -1,0 +1,16 @@
+(define-module (crates-io ca ws caws) #:use-module (crates-io))
+
+(define-public crate-caws-0.1.1 (c (n "caws") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "070dvy3l3wd60g72m62g4dh4l0hidw8pqa1q2p5jz6r9s58z4169")))
+
+(define-public crate-caws-0.1.2 (c (n "caws") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0svmxryqy0gfsljwv2qbk136v85hnq77r6hz9qr7yg6055q2zy02") (f (quote (("integration"))))))
+
+(define-public crate-caws-0.1.4 (c (n "caws") (v "0.1.4") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1833kmizas8l0zr66c1bkgj46pj7i2c30bavkhxlgqrpkxabzffl") (f (quote (("integration"))))))
+
+(define-public crate-caws-0.1.5 (c (n "caws") (v "0.1.5") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1xhjkxyjsljrsq8yxibm0pw89q8q2jjxbxq0k0m2z1v2vfw7dxsg") (f (quote (("integration"))))))
+
+(define-public crate-caws-0.1.6 (c (n "caws") (v "0.1.6") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1w35hx772yc6gny5yxk0i2d3azdd8l099jk846i7034glmpipz03") (f (quote (("integration"))))))
+
+(define-public crate-caws-0.1.7 (c (n "caws") (v "0.1.7") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "09xc1s0r1xdydkjxhhxpcq386kx6h38s0f4hgkkw2gminfaamlq6") (f (quote (("integration"))))))
+
+(define-public crate-caws-0.1.8 (c (n "caws") (v "0.1.8") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.7.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0jyp8akr0ikdpq7a7m2prml9c3b2szsi97330gi608bd7bryp8ar") (f (quote (("integration"))))))
+

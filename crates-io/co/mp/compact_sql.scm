@@ -1,0 +1,10 @@
+(define-module (crates-io co mp compact_sql) #:use-module (crates-io))
+
+(define-public crate-compact_sql-0.0.1 (c (n "compact_sql") (v "0.0.1") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (k 0)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 0)))) (h "0h71yv557v9wwjmfnc6lmnaa9jl876a2a6rw6jh6wiwgmvcrrsk5") (f (quote (("pretty-errors") ("check-name-uniq")))) (r "1.56")))
+
+(define-public crate-compact_sql-0.0.2 (c (n "compact_sql") (v "0.0.2") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (k 0)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 0)))) (h "0y5v9yj488p1l4d4bzinda9vns4jv5ia9231zzvib42w62ybb8vj") (f (quote (("pretty-errors") ("check-name-uniq")))) (r "1.56")))
+
+(define-public crate-compact_sql-0.0.3 (c (n "compact_sql") (v "0.0.3") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (k 0)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 0)))) (h "1hyl30mzsp1assdbj9b9hvi5afkfhp83yr2mi6nqg3p6w2i7z7wh") (f (quote (("pretty-errors") ("check-name-uniq")))) (r "1.56")))
+
+(define-public crate-compact_sql-0.0.4 (c (n "compact_sql") (v "0.0.4") (d (list (d (n "bytes") (r "^1") (d #t) (k 2)) (d (n "compact_sql_traits") (r "^0.0.1") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread"))) (k 0)) (d (n "tokio-postgres") (r "^0.7") (d #t) (k 0)))) (h "0351a4iqbyy3pxcivmrzvkhr4zrid3406svvql5na3yph4qn30cs") (f (quote (("pretty-errors") ("check-name-uniq")))) (r "1.63")))
+

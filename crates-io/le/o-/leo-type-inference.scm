@@ -1,0 +1,10 @@
+(define-module (crates-io le o- leo-type-inference) #:use-module (crates-io))
+
+(define-public crate-leo-type-inference-1.0.5 (c (n "leo-type-inference") (v "1.0.5") (d (list (d (n "leo-ast") (r "^1.0.5") (d #t) (k 0)) (d (n "leo-grammar") (r "^1.0.5") (d #t) (k 0)) (d (n "leo-imports") (r "^1.0.5") (d #t) (k 0)) (d (n "leo-symbol-table") (r "^1.0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1kj7y7pcyx4s7yzsk86m9qid9afkdzjbjsa83zafvld36saldkmr") (y #t)))
+
+(define-public crate-leo-type-inference-1.0.6 (c (n "leo-type-inference") (v "1.0.6") (d (list (d (n "leo-ast") (r "^1.0.6") (d #t) (k 0)) (d (n "leo-grammar") (r "^1.0.6") (d #t) (k 0)) (d (n "leo-imports") (r "^1.0.6") (d #t) (k 0)) (d (n "leo-symbol-table") (r "^1.0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0k618h5mzsm3q9w5d9fvqg9fmlxf2ixgh1l64y2hyapwp6irhmgm") (y #t)))
+
+(define-public crate-leo-type-inference-1.0.7 (c (n "leo-type-inference") (v "1.0.7") (d (list (d (n "indexmap") (r "^1.6.0") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "leo-ast") (r "^1.0.7") (d #t) (k 0)) (d (n "leo-grammar") (r "^1.0.7") (d #t) (k 0)) (d (n "leo-imports") (r "^1.0.7") (d #t) (k 0)) (d (n "leo-symbol-table") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0hsvk3rnda6711fhxd88d86ygv900vs40ynnfz8qv0g4di9nsw2g") (y #t)))
+
+(define-public crate-leo-type-inference-1.0.8 (c (n "leo-type-inference") (v "1.0.8") (d (list (d (n "indexmap") (r "^1.6.1") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "leo-ast") (r "^1.0.8") (d #t) (k 0)) (d (n "leo-grammar") (r "^1.0.8") (d #t) (k 0)) (d (n "leo-imports") (r "^1.0.8") (d #t) (k 0)) (d (n "leo-symbol-table") (r "^1.0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "12pfyxh11rv71kb80hzd3dg46cz119q9ngvh1z1fmzr6fnk5zdyp") (y #t)))
+

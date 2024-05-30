@@ -1,0 +1,4 @@
+(define-module (crates-io oc to octopat) #:use-module (crates-io))
+
+(define-public crate-octopat-0.1.0 (c (n "octopat") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clipboard") (r "^0.5") (d #t) (k 0)) (d (n "colored") (r "^1.9") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6") (d #t) (k 0)) (d (n "enum-iterator") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "keyring") (r "^0.9") (d #t) (k 0)) (d (n "opener") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("rt-threaded" "macros" "sync"))) (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0zblx7wsj505q1wpcr8sbbwkgwc2whxsq6f8ppnv34xxz1kd2g82")))
+

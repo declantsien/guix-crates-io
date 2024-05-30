@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# n nse) #:use-module (crates-io))
+
+(define-public crate-nse-0.1.2 (c (n "nse") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "isahc") (r "^1.7.1") (f (quote ("nightly" "psl" "cookies" "http2" "json" "spnego" "static-curl" "text-decoding" "unstable-interceptors"))) (d #t) (k 0)) (d (n "polars") (r "^0.21.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("nightly" "serde" "serde1" "small_rng" "log" "min_const_gen"))) (d #t) (k 0)) (d (n "rayon") (r "^1.5.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 0)))) (h "1aqs6b375airx4i10rqxypdk3mrk9al60crjwhc59lzlaxbh825l")))
+

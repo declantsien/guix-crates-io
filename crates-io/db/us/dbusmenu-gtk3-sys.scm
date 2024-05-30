@@ -1,0 +1,4 @@
+(define-module (crates-io db us dbusmenu-gtk3-sys) #:use-module (crates-io))
+
+(define-public crate-dbusmenu-gtk3-sys-0.1.0 (c (n "dbusmenu-gtk3-sys") (v "0.1.0") (d (list (d (n "dbusmenu-glib") (r "^0.1.0") (d #t) (k 0) (p "dbusmenu-glib-sys")) (d (n "gdk") (r ">=0.15") (d #t) (k 0) (p "gdk-sys")) (d (n "gdk_pixbuf") (r ">=0.15") (d #t) (k 0) (p "gdk-pixbuf-sys")) (d (n "glib") (r ">=0.15") (d #t) (k 0) (p "glib-sys")) (d (n "gobject") (r ">=0.15") (d #t) (k 0) (p "gobject-sys")) (d (n "gtk") (r ">=0.15") (d #t) (k 0) (p "gtk-sys")) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "shell-words") (r "^1.0.0") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "system-deps") (r "^6") (d #t) (k 1)))) (h "1jkfrdhiygd2jvfrywhy41xl3xmn7ppci6sp9jl3h3pci9gvlc3g") (f (quote (("dox" "dbusmenu-glib/dox" "glib/dox" "gobject/dox" "gdk/dox" "gdk_pixbuf/dox" "gtk/dox")))) (l "dbusmenu-gtk3")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io ba ck background-jobs-sled-storage) #:use-module (crates-io))
+
+(define-public crate-background-jobs-sled-storage-0.1.0 (c (n "background-jobs-sled-storage") (v "0.1.0") (d (list (d (n "background-jobs-core") (r "^0.5") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sled") (r "^0.24") (d #t) (k 0)))) (h "0mc33bjn5mnff6y9r6g66vnb31gfqhdwbfd49x8n4qw3frp7bba2")))
+
+(define-public crate-background-jobs-sled-storage-0.1.1 (c (n "background-jobs-sled-storage") (v "0.1.1") (d (list (d (n "background-jobs-core") (r "^0.5") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sled") (r "^0.24") (d #t) (k 0)))) (h "1pcnzwgxwrjrc9rrvddxsk0mwm64mjzjry6cp2wiyx25sh1zjchn")))
+
+(define-public crate-background-jobs-sled-storage-0.1.2 (c (n "background-jobs-sled-storage") (v "0.1.2") (d (list (d (n "background-jobs-core") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sled") (r "^0.24") (d #t) (k 0)))) (h "18nldwnyk4vh5drbpkr4i772ad5dyrqmzd9fhjvbwxa2i5vawqa6")))
+
+(define-public crate-background-jobs-sled-storage-0.2.0 (c (n "background-jobs-sled-storage") (v "0.2.0") (d (list (d (n "background-jobs-core") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "sled-extensions") (r "^0.1") (f (quote ("bincode" "cbor"))) (d #t) (k 0)))) (h "1qa55mfakph0n2n9h9y3wic1phl00b7gxhp93c47fgfzgbwqsbwg")))
+
+(define-public crate-background-jobs-sled-storage-0.3.0 (c (n "background-jobs-sled-storage") (v "0.3.0") (d (list (d (n "background-jobs-core") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "sled-extensions") (r "^0.2") (f (quote ("bincode" "cbor"))) (d #t) (k 0)))) (h "00d404943rwrbsiigb7kh372mnm8lhwy9ziv10br77qyl24l0gh9")))
+
+(define-public crate-background-jobs-sled-storage-0.9.0 (c (n "background-jobs-sled-storage") (v "0.9.0") (d (list (d (n "actix-rt") (r "^2.0.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.24") (d #t) (k 0)) (d (n "background-jobs-core") (r "^0.9.0") (d #t) (k 0)) (d (n "bincode") (r "^1.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "1m4ydjwfra2y4hbfgz1b60315f6k7hx49az3s6im1wpxqwy9ybjm")))
+
+(define-public crate-background-jobs-sled-storage-0.9.1 (c (n "background-jobs-sled-storage") (v "0.9.1") (d (list (d (n "actix-rt") (r "^2.0.1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.24") (d #t) (k 0)) (d (n "background-jobs-core") (r "^0.9.0") (d #t) (k 0)) (d (n "bincode") (r "^1.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "198yivba2kfrsl2pxxsb76rfvsjrbi6lmy6gfz8isw2j3zry5172")))
+

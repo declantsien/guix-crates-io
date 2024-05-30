@@ -1,0 +1,6 @@
+(define-module (crates-io do ck dockerfile_generator) #:use-module (crates-io))
+
+(define-public crate-dockerfile_generator-0.1.1 (c (n "dockerfile_generator") (v "0.1.1") (d (list (d (n "config") (r "^0.10") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.8") (d #t) (k 0)) (d (n "handlebars") (r "^3.5.2") (d #t) (k 0)) (d (n "seahorse") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "terminal_color_builder") (r "^0.1.1") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.0") (d #t) (k 0)))) (h "1qaqyck411j1a9qilr4bz1i7cgqr07y7m6vd1ciik216vz82r5cl")))
+
+(define-public crate-dockerfile_generator-0.1.2 (c (n "dockerfile_generator") (v "0.1.2") (d (list (d (n "config") (r "^0.10") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "failure_derive") (r "^0.1.8") (d #t) (k 0)) (d (n "handlebars") (r "^3.5.2") (d #t) (k 0)) (d (n "seahorse") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "terminal_color_builder") (r "^0.1.1") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.0") (d #t) (k 0)))) (h "083g5v9fdqp9m8wp71ia57sia2ih3ky0y9cpfgr2zjf6mwdz67f5")))
+

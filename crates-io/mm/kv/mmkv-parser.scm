@@ -1,0 +1,6 @@
+(define-module (crates-io mm kv mmkv-parser) #:use-module (crates-io))
+
+(define-public crate-mmkv-parser-0.1.0 (c (n "mmkv-parser") (v "0.1.0") (d (list (d (n "aes") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (o #t) (d #t) (k 0)) (d (n "cfb-mode") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (o #t) (d #t) (k 0)) (d (n "clap_derive") (r "^4.5.0") (o #t) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "06xnnnlaj8vkqid763a04vm49cv74crzpgi1f4y5xwzdwnsldfnc") (f (quote (("default" "cipher") ("cipher" "aes" "cfb-mode" "byteorder" "crc32fast" "clap" "clap_derive" "clap/derive")))) (y #t)))
+
+(define-public crate-mmkv-parser-0.1.2 (c (n "mmkv-parser") (v "0.1.2") (d (list (d (n "aes") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (o #t) (d #t) (k 0)) (d (n "cfb-mode") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (o #t) (d #t) (k 0)) (d (n "clap_derive") (r "^4.5.0") (o #t) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0yc90a49ycm146v7rpz5g9cybjab5zqlil77q5l3bv52myyn94g9") (f (quote (("default" "cipher") ("cli" "clap" "clap_derive" "clap/derive") ("cipher" "aes" "cfb-mode" "byteorder" "crc32fast"))))))
+

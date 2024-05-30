@@ -1,0 +1,32 @@
+(define-module (crates-io im ag imag-grep) #:use-module (crates-io))
+
+(define-public crate-imag-grep-0.4.0 (c (n "imag-grep") (v "0.4.0") (d (list (d (n "clap") (r ">= 2.17") (d #t) (k 0)) (d (n "libimagerror") (r "^0.4.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.4.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "version") (r "^2.0.1") (d #t) (k 0)))) (h "1f2pjkkh0dqdjxydknc0fcv2adbv5nzcwk1g6yfpl7krw95al9q3")))
+
+(define-public crate-imag-grep-0.5.0 (c (n "imag-grep") (v "0.5.0") (d (list (d (n "clap") (r ">= 2.17") (d #t) (k 0)) (d (n "libimagerror") (r "^0.5.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.5.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.5.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "version") (r "^2.0.1") (d #t) (k 0)))) (h "1631rhf52g46409zyii26np23k6lpswg51z54wbs9h52z0vrdb4j")))
+
+(define-public crate-imag-grep-0.6.0 (c (n "imag-grep") (v "0.6.0") (d (list (d (n "clap") (r ">= 2.17") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "07by71ksgi58a28hjl1mwvp6h5l5czih4rwdk29xv8g7gd8i6ar1")))
+
+(define-public crate-imag-grep-0.6.2 (c (n "imag-grep") (v "0.6.2") (d (list (d (n "clap") (r ">= 2.17") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.2") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "05a7b8sdnhp426iz1xhn36h7jjmf25kf8bicnvdms08ihkwvi5hz")))
+
+(define-public crate-imag-grep-0.6.3 (c (n "imag-grep") (v "0.6.3") (d (list (d (n "clap") (r ">= 2.17") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1gh2idv1is1b8yka68zq99wbmw5m0krv4xb3hilmc9rslzrmrkg7")))
+
+(define-public crate-imag-grep-0.6.4 (c (n "imag-grep") (v "0.6.4") (d (list (d (n "clap") (r ">= 2.17") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.4") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1brpjsjp53n55abkaacn3z0py519yhy44zidw3hgihigxwdnjxxv")))
+
+(define-public crate-imag-grep-0.7.0 (c (n "imag-grep") (v "0.7.0") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1p301zc6h771lz1fdqiv7szqn9r25zh81a3y4217jrfplrigiacp")))
+
+(define-public crate-imag-grep-0.7.1 (c (n "imag-grep") (v "0.7.1") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "0y6vlw53k01l8v93qvawax2v4q2k0d5cm91babv295vm89gkhrlg")))
+
+(define-public crate-imag-grep-0.8.0 (c (n "imag-grep") (v "0.8.0") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "07kc3xymm9cmd3lhkvw1qhqpn4q3f620ijng0fa586wsx6yd5280")))
+
+(define-public crate-imag-grep-0.9.0 (c (n "imag-grep") (v "0.9.0") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0angw6j8x7lg61mfq8v589p0qhq1qwzy9mkf57bgbd4ka68y0mp5")))
+
+(define-public crate-imag-grep-0.9.1 (c (n "imag-grep") (v "0.9.1") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0szs1kxxr92hn68qgmsfmrbx5xg9q03917qqpxqpjqm7xjdhh0ii")))
+
+(define-public crate-imag-grep-0.9.2 (c (n "imag-grep") (v "0.9.2") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "15x3f0didpdl5kblbiksf50i0k8qrx075i4f9qkl11hxvzjp5vl1")))
+
+(define-public crate-imag-grep-0.9.3 (c (n "imag-grep") (v "0.9.3") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0rgh073yz041wvbclr1839sk2c3f7w2sxbb3snhm882n3xvx11gq")))
+
+(define-public crate-imag-grep-0.10.0 (c (n "imag-grep") (v "0.10.0") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "resiter") (r "^0.4.0") (d #t) (k 0)))) (h "0gdj34626xbg9xnf8mib56ng93bwdybfsb1x04asyz3ra53bxl94")))
+
+(define-public crate-imag-grep-0.10.1 (c (n "imag-grep") (v "0.10.1") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "resiter") (r "^0.4.0") (d #t) (k 0)))) (h "1swwzmhxrxqck87zic2rs37zpbhl3wd942z6yriyydw3d8ickz5x")))
+

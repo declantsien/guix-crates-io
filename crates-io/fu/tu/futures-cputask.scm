@@ -1,0 +1,6 @@
+(define-module (crates-io fu tu futures-cputask) #:use-module (crates-io))
+
+(define-public crate-futures-cputask-0.3.0-alpha.19 (c (n "futures-cputask") (v "0.3.0-alpha.19") (d (list (d (n "futures-cputask-derive") (r "^0.3.0-alpha.19") (o #t) (d #t) (k 0)) (d (n "futures-preview") (r "^0.3.0-alpha.19") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.7.1") (o #t) (d #t) (k 0)) (d (n "uvth") (r "^4.0.0") (o #t) (d #t) (k 0)))) (h "0xb01hw54iaz6zxz505bz71v96qyaax94427c56gl3klf8x55v31") (f (quote (("derive" "futures-cputask-derive") ("default" "uvth"))))))
+
+(define-public crate-futures-cputask-0.3.0 (c (n "futures-cputask") (v "0.3.0") (d (list (d (n "futures") (r "^0.3.0") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "futures-cputask-derive") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)) (d (n "threadpool") (r "^1.7.1") (o #t) (d #t) (k 0)) (d (n "uvth") (r "^4.0.0") (o #t) (d #t) (k 0)))) (h "1b4im34jlasyqfr84nlmpxg5d44y30flykm2jixyf0yjndl5ng8s") (f (quote (("derive" "futures-cputask-derive") ("default" "uvth"))))))
+

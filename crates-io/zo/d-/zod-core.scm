@@ -1,0 +1,4 @@
+(define-module (crates-io zo d- zod-core) #:use-module (crates-io))
+
+(define-public crate-zod-core-0.1.0 (c (n "zod-core") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.64") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (o #t) (d #t) (k 0)) (d (n "inventory") (r "^0.3.3") (o #t) (d #t) (k 0) (p "inventory")) (d (n "pin-project-lite") (r "^0.2.9") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.92") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("macros" "rt-multi-thread" "time"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)))) (h "1vlscs6dsvv3fcgc6rfy8sgwwb75law6nqrkiq3ngkg1b0ba7wq5") (f (quote (("rpc" "async-trait" "serde_json" "futures" "pin-project-lite" "thiserror" "tokio" "serde") ("default" "inventory" "rpc"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io so ft softether_exporter) #:use-module (crates-io))
+
+(define-public crate-softether_exporter-0.1.0 (c (n "softether_exporter") (v "0.1.0") (d (list (d (n "csv") (r "^1.0.0-beta.5") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 0)) (d (n "prometheus") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "16qs2kr34s8mkdxss0l4wsap7xm6skd38zzjq34law8g1izla4m3")))
+
+(define-public crate-softether_exporter-0.1.1 (c (n "softether_exporter") (v "0.1.1") (d (list (d (n "csv") (r "^1.0.0-beta.5") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "prometheus") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1fh5g3jwqm6fjk7d9rrbqf4zvzhycbr62q8vzdngmgx5w9hcbg4s")))
+
+(define-public crate-softether_exporter-0.1.2 (c (n "softether_exporter") (v "0.1.2") (d (list (d (n "csv") (r "^1.0.0-beta.5") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "prometheus") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1nipl8d7h6682wsl69s7v0xscqw68pilnrm0ahplnyrw5fp6i1in")))
+
+(define-public crate-softether_exporter-0.1.3 (c (n "softether_exporter") (v "0.1.3") (d (list (d (n "csv") (r "^1.0.0-beta.5") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "prometheus") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1p16mgxljpwa168m6gxx58jixj4bwjclckz2rxzsylpakf5j0ifq")))
+
+(define-public crate-softether_exporter-0.1.4 (c (n "softether_exporter") (v "0.1.4") (d (list (d (n "csv") (r "^1.0.0-beta.5") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "prometheus") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "0l7czjz7asb6c9d65dpjdrg5b6pp6p967awlqhmmms2w41zjamin")))
+
+(define-public crate-softether_exporter-0.1.5 (c (n "softether_exporter") (v "0.1.5") (d (list (d (n "csv") (r "^1.0.0-beta.5") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "prometheus") (r "^0.4.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "0j89jxx04w4apip39pa8gmmb6pqcjbw8wb3yxn21dl1k71v36aaj")))
+
+(define-public crate-softether_exporter-0.2.0 (c (n "softether_exporter") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "csv") (r "^1") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "prometheus") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "0kzimmx6a643c1hxkm6qz8yhhvskacqsk60z4f71gh1s9gv9q9rh")))
+

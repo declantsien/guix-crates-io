@@ -1,0 +1,4 @@
+(define-module (crates-io cu lq culqi_rust) #:use-module (crates-io))
+
+(define-public crate-culqi_rust-1.0.0 (c (n "culqi_rust") (v "1.0.0") (d (list (d (n "aes") (r "^0.7.4") (d #t) (k 0)) (d (n "aes-gcm") (r "^0.9.3") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "crypto") (r "^0.5.1") (d #t) (k 0)) (d (n "isahc") (r "^1.7") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "pem") (r "^1.1.1") (d #t) (k 0)) (d (n "pkcs8") (r "^0.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (d #t) (k 0)) (d (n "rsa") (r "^0.5.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "sha2") (r "^0.9.8") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "x509-parser") (r "^0.9.0") (d #t) (k 0)))) (h "0w1646kpl48jd0s6zsh2sxg7lccibqcdf1gnbki5wqw5lc30pwb0")))
+

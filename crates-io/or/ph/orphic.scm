@@ -1,0 +1,8 @@
+(define-module (crates-io or ph orphic) #:use-module (crates-io))
+
+(define-public crate-orphic-0.1.0 (c (n "orphic") (v "0.1.0") (d (list (d (n "async-openai") (r "^0.9.2") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "execute") (r "^0.2.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "substring") (r "^1.4.5") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0iyzy785iszjcimgpz2rp3zsinwq5a0dmv09nqfarg24g0xqycrf")))
+
+(define-public crate-orphic-0.1.1 (c (n "orphic") (v "0.1.1") (d (list (d (n "async-openai") (r "^0.9.2") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "execute") (r "^0.2.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "substring") (r "^1.4.5") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0yiqq50pczmajnsdp0w6wzxn9ql1l5a2pd31nq3n0xxdya9zpmwj")))
+
+(define-public crate-orphic-0.1.2 (c (n "orphic") (v "0.1.2") (d (list (d (n "async-openai") (r "^0.9.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "execute") (r "^0.2.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "substring") (r "^1.4.5") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0g1jy99nyfig5sdhhjc3dd3qk0x8vwpv8k69x5f22iv5l075fa2i")))
+

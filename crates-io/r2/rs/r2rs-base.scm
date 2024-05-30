@@ -1,0 +1,6 @@
+(define-module (crates-io r2 rs r2rs-base) #:use-module (crates-io))
+
+(define-public crate-r2rs-base-0.1.0 (c (n "r2rs-base") (v "0.1.0") (d (list (d (n "approx") (r "~0.5") (d #t) (k 2)) (d (n "itertools") (r "~0.12") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "nalgebra") (r "~0.32") (d #t) (k 0)) (d (n "num-complex") (r "~0.4") (d #t) (k 0)) (d (n "num-traits") (r "~0.2") (d #t) (k 0)) (d (n "r2rs-nmath") (r "~0.1") (d #t) (k 0)) (d (n "strafe-testing") (r "~0.1") (d #t) (k 2)) (d (n "strafe-trait") (r "~0.1") (d #t) (k 0)) (d (n "strafe-type") (r "~0.1") (d #t) (k 0)))) (h "1125b3ls8r1mbmiw5vqwcca2m39hl3isp3wfq7x4zyasvn06rz69") (f (quote (("enable_covtest")))) (y #t)))
+
+(define-public crate-r2rs-base-0.1.1 (c (n "r2rs-base") (v "0.1.1") (d (list (d (n "approx") (r "~0.5") (d #t) (k 2)) (d (n "itertools") (r "~0.12") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)) (d (n "nalgebra") (r "~0.32") (d #t) (k 0)) (d (n "num-complex") (r "~0.4") (d #t) (k 0)) (d (n "num-traits") (r "~0.2") (d #t) (k 0)) (d (n "r2rs-nmath") (r "~0.1") (d #t) (k 0)) (d (n "strafe-testing") (r "~0.1") (d #t) (k 2)) (d (n "strafe-trait") (r "~0.1") (d #t) (k 0)) (d (n "strafe-type") (r "~0.1") (d #t) (k 0)))) (h "1i0wxrk4a657h4yx1hk45p1ycgg22h7nkgbdk3zqdmnzvaf759nh") (f (quote (("enable_covtest"))))))
+

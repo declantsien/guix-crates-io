@@ -1,0 +1,6 @@
+(define-module (crates-io an ti antikoerper) #:use-module (crates-io))
+
+(define-public crate-antikoerper-0.2.0 (c (n "antikoerper") (v "0.2.0") (d (list (d (n "clap") (r "^2.1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.2") (d #t) (k 0)) (d (n "log") (r "^0.3.5") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3.18") (d #t) (k 0)) (d (n "time") (r "^0.1.34") (d #t) (k 0)) (d (n "toml") (r "^0.1.27") (d #t) (k 0)) (d (n "xdg") (r "^2.0.0") (d #t) (k 0)))) (h "11cmbzvs1ak72ifzivwxzlm0lndwzjplj3g3gv15zgxbxhdqqg65")))
+
+(define-public crate-antikoerper-0.3.0 (c (n "antikoerper") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "influxdb") (r "^0.6") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_regex") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "17r65fvc7cbqiaajf6kj1k40j9y4hxjv9xw9md6cb8qj4jv4jv75")))
+

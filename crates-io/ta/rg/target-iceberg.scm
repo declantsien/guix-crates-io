@@ -1,0 +1,4 @@
+(define-module (crates-io ta rg target-iceberg) #:use-module (crates-io))
+
+(define-public crate-target-iceberg-0.1.0 (c (n "target-iceberg") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "arrow") (r "^50.0.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dashtool-common") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "iceberg-rust") (r "^0.2") (d #t) (k 0)) (d (n "iceberg-rust-spec") (r "^0.2") (d #t) (k 0)) (d (n "jsonschema") (r "^0.17") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (f (quote ("aws" "gcp"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "singer") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1mklgi3fsr3qg2wbqi1z1k8jcf43lvlq6jbqpb9zfqh14fmib26j")))
+

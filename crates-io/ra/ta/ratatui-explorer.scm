@@ -1,0 +1,6 @@
+(define-module (crates-io ra ta ratatui-explorer) #:use-module (crates-io))
+
+(define-public crate-ratatui-explorer-0.1.0 (c (n "ratatui-explorer") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.27") (o #t) (d #t) (k 0)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-widget-ref"))) (d #t) (k 0)) (d (n "termion") (r "^3.0") (o #t) (d #t) (k 0)) (d (n "termwiz") (r "^0.22") (o #t) (d #t) (k 0)))) (h "0fcqiw3wnr1x19pcfdi98rapmmvxjp11ssh6wmrhxq121x1prcmg") (f (quote (("default" "crossterm")))) (s 2) (e (quote (("termwiz" "dep:termwiz") ("termion" "dep:termion") ("crossterm" "dep:crossterm"))))))
+
+(define-public crate-ratatui-explorer-0.1.1 (c (n "ratatui-explorer") (v "0.1.1") (d (list (d (n "crossterm") (r "^0.27") (o #t) (d #t) (k 0)) (d (n "derivative") (r "^2.2") (d #t) (k 0)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-widget-ref"))) (d #t) (k 0)) (d (n "termion") (r "^3.0") (o #t) (d #t) (k 0)) (d (n "termwiz") (r "^0.22") (o #t) (d #t) (k 0)))) (h "04dm4pikqsvhvpgglqakvbzjwyb62nxdfp6fyar8siypk0ivwgd9") (f (quote (("default" "crossterm")))) (s 2) (e (quote (("termwiz" "dep:termwiz") ("termion" "dep:termion") ("crossterm" "dep:crossterm"))))))
+

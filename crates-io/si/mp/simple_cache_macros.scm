@@ -1,0 +1,16 @@
+(define-module (crates-io si mp simple_cache_macros) #:use-module (crates-io))
+
+(define-public crate-simple_cache_macros-1.0.0-beta (c (n "simple_cache_macros") (v "1.0.0-beta") (d (list (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "simple_cache_core") (r "^1.0.0-beta") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0w7k9arxhmggn6qv2945zr442c98sspd471ds8ip1mdcfwwz0qb9")))
+
+(define-public crate-simple_cache_macros-2.0.0-beta (c (n "simple_cache_macros") (v "2.0.0-beta") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "simple_cache_core") (r "^1.0.0-beta") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "1zzd6yczwic2vvzbi7wi9rfpj1mhfw389lnjhfss9i2dqkcjkim8")))
+
+(define-public crate-simple_cache_macros-2.1.0-beta (c (n "simple_cache_macros") (v "2.1.0-beta") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "simple_cache_core") (r "^1.0.0-beta") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "1c915yahi1j141an95j4jlqn1c3wp6qfq57ap54k598y5yys4b02")))
+
+(define-public crate-simple_cache_macros-2.2.0-beta (c (n "simple_cache_macros") (v "2.2.0-beta") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "simple_cache_core") (r "^1.0.0-beta") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0zbhs7rrbg8q3y2gyvpzkp6d8nhv4xxjjd7b8ih0jpridj3n1dw8")))
+
+(define-public crate-simple_cache_macros-2.3.0-beta (c (n "simple_cache_macros") (v "2.3.0-beta") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "1cjprvsqch58m9gcmckpfj031viyxlw3mpvjvmawb7xnipz2ml7f")))
+
+(define-public crate-simple_cache_macros-2.4.0-beta (c (n "simple_cache_macros") (v "2.4.0-beta") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "1d0vbqxmv9w1p85ghphp5i37md969y1fhar2j7c6z44zmzx9kv61")))
+
+(define-public crate-simple_cache_macros-2.4.1-beta (c (n "simple_cache_macros") (v "2.4.1-beta") (d (list (d (n "darling") (r "^0.20.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.32") (d #t) (k 0)) (d (n "syn") (r "^2.0.28") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0jm93w29qcfpwpwas62piy6nvgpl46rnsa4xyf56bi7drjhvgkzc")))
+

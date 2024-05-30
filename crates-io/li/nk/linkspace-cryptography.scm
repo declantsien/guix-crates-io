@@ -1,0 +1,6 @@
+(define-module (crates-io li nk linkspace-cryptography) #:use-module (crates-io))
+
+(define-public crate-linkspace-cryptography-0.1.0 (c (n "linkspace-cryptography") (v "0.1.0") (d (list (d (n "blake3") (r "^1.3.1") (f (quote ("traits-preview"))) (d #t) (k 0)) (d (n "getrandom") (r "^0.2.7") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "k256") (r "^0.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1r10d0g0cizd2fh17ic34v0z64c61zd5g5nr0v2913fd0x5dmvy7") (f (quote (("keygen" "rand") ("default" "keygen")))) (y #t)))
+
+(define-public crate-linkspace-cryptography-0.3.0-rc1 (c (n "linkspace-cryptography") (v "0.3.0-rc1") (d (list (d (n "blake3") (r "=1.3.1") (f (quote ("traits-preview"))) (d #t) (k 0)) (d (n "getrandom") (r "^0.2.7") (f (quote ("js"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "k256") (r "^0.13.1") (f (quote ("schnorr"))) (d #t) (k 0)) (d (n "rand") (r "=0.8.5") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 2)) (d (n "rand_core") (r "=0.6.4") (d #t) (k 0)) (d (n "thiserror") (r "=1.0.40") (d #t) (k 0)))) (h "01hs8zccjdppfz1qi0bd9lyfw9bhwhmr2z3bcyjy35mavgzw6zma") (y #t)))
+

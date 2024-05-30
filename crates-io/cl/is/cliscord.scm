@@ -1,0 +1,8 @@
+(define-module (crates-io cl is cliscord) #:use-module (crates-io))
+
+(define-public crate-cliscord-0.0.1 (c (n "cliscord") (v "0.0.1") (d (list (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "dirs") (r "^3.0.1") (d #t) (k 0)) (d (n "infer") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("macros"))) (d #t) (k 0)))) (h "1f67nrckrjbl828rlrliz07nqgxcfabp72wbbmwmvwqc17r904sa") (f (quote (("token") ("filetype" "infer") ("default" "filetype" "token"))))))
+
+(define-public crate-cliscord-0.0.2 (c (n "cliscord") (v "0.0.2") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "infer") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 0)))) (h "1bnvkhszfna5kppnbachkmr8axcfqda4cx3w9349p43zfwy3s462") (f (quote (("token") ("filetype" "infer") ("default" "filetype" "token"))))))
+
+(define-public crate-cliscord-0.0.3 (c (n "cliscord") (v "0.0.3") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^4") (d #t) (k 0)) (d (n "infer") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 0)))) (h "02spjfcfga9vk6fcsbsd5y752mfvjyx8k5ajwbn0nlzki9skykkh") (f (quote (("token") ("filetype" "infer") ("default" "filetype" "token"))))))
+

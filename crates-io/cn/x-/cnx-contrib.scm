@@ -1,0 +1,4 @@
+(define-module (crates-io cn x- cnx-contrib) #:use-module (crates-io))
+
+(define-public crate-cnx-contrib-0.1.0 (c (n "cnx-contrib") (v "0.1.0") (d (list (d (n "alsa") (r "^0.5.0") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.41") (d #t) (k 0)) (d (n "async-stream") (r "^0.2") (d #t) (k 0)) (d (n "byte-unit") (r "^4.0.12") (d #t) (k 0)) (d (n "cnx") (r "^0.3.0") (d #t) (k 0)) (d (n "iwlib") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "nix") (r "^0.20.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "sioctl") (r "^0.0.1") (o #t) (d #t) (t "cfg(openbsd)") (k 0)) (d (n "tokio") (r "^1.2.0") (f (quote ("rt" "net" "time" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.5") (d #t) (k 0)) (d (n "weathernoaa") (r "^0.2.0") (d #t) (k 0)))) (h "1r4xzss3lldd5yyqaigsqpw8hp4z9cy0wp6av0fahng2wsl2hbp4") (f (quote (("wireless" "iwlib") ("volume" "alsa" "sioctl") ("default" "volume"))))))
+

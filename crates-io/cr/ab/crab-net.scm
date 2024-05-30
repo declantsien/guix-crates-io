@@ -1,0 +1,4 @@
+(define-module (crates-io cr ab crab-net) #:use-module (crates-io))
+
+(define-public crate-crab-net-0.0.1 (c (n "crab-net") (v "0.0.1") (d (list (d (n "byte-unit") (r "^4.0") (d #t) (k 0)) (d (n "clap") (r "^4.1") (d #t) (k 0)) (d (n "coarsetime") (r "^0.1") (d #t) (k 0)) (d (n "derive-new") (r "^0.5") (d #t) (k 0)) (d (n "fastrand") (r "^1.9") (d #t) (k 0)) (d (n "kanal") (r "^0.1.0-pre8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mimalloc") (r "^0.1") (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "simple_logger") (r "^4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-dtls-stream-sink") (r "^0.6") (d #t) (k 0)) (d (n "tokio-native-tls") (r "^0.3") (d #t) (k 0)))) (h "0y1bp4n8fbm6rdw76vcj7dhck9jnvn4xi1yv1nrxq6mzsv22hgdl")))
+

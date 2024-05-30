@@ -1,0 +1,8 @@
+(define-module (crates-io ne ws newsblur_api) #:use-module (crates-io))
+
+(define-public crate-newsblur_api-0.1.0 (c (n "newsblur_api") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("cookies" "json" "native-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "=0.2") (f (quote ("macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0v5i1mnbkbm02qlka00rmy2k3smgc5n2a45iq5pgn1b97l33d4yl")))
+
+(define-public crate-newsblur_api-0.1.1 (c (n "newsblur_api") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies" "json" "native-tls" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1lh5njrrk4fjc168npk1q3962dzsgmvz4fzvha46g9b83cf3jxzx")))
+
+(define-public crate-newsblur_api-0.1.2 (c (n "newsblur_api") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies" "json" "native-tls" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("macros"))) (d #t) (k 2)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "057crczrfvbss5i34gmi021hrly18q9vgxjmm8mxd92brmkicibq")))
+

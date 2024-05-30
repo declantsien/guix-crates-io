@@ -1,0 +1,4 @@
+(define-module (crates-io la th lather) #:use-module (crates-io))
+
+(define-public crate-lather-0.0.0 (c (n "lather") (v "0.0.0") (d (list (d (n "GSL") (r "^0.4.31") (d #t) (k 0)) (d (n "bencher") (r "^0.1.4") (d #t) (k 0)) (d (n "cpython") (r "^0.1.0") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "gnuplot") (r "^0.0.22") (d #t) (k 0)) (d (n "itertools") (r "^0.6.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.9.1") (d #t) (k 0)) (d (n "num-complex") (r "^0.1.40") (d #t) (k 0)) (d (n "numpy") (r "^0.2.1") (d #t) (k 0)) (d (n "png") (r "^0.9.0") (d #t) (k 0)) (d (n "quadrature") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 0)) (d (n "rayon") (r "^0.8.2") (d #t) (k 0)) (d (n "rulinalg") (r "^0.4.2") (d #t) (k 0)) (d (n "rust-ini") (r "^0.10.0") (d #t) (k 0)) (d (n "rustfft") (r "^2.0.0") (d #t) (k 0)))) (h "1gr5kz5why84ggkdfj090dq1s0ls5hiikv25wzs6bigrh3zniyrk")))
+

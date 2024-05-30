@@ -1,0 +1,10 @@
+(define-module (crates-io su do sudo-gcp) #:use-module (crates-io))
+
+(define-public crate-sudo-gcp-0.1.0 (c (n "sudo-gcp") (v "0.1.0") (h "0p42m9bqagpgv9dphq41wg5dxcjh3m71h5d5s8pyz6s0c98r9wqz")))
+
+(define-public crate-sudo-gcp-0.2.0-alpha.1 (c (n "sudo-gcp") (v "0.2.0-alpha.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.13.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "keyring") (r "^2.0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "blocking" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)))) (h "1xwkm7zrprb4afszgs22pdkbwzb4r3yynp474ix4k1rq0xl2db84")))
+
+(define-public crate-sudo-gcp-0.2.0 (c (n "sudo-gcp") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.13.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "keyring") (r "^2.0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "blocking" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)))) (h "10wpalnb68sk6dg78r586aysh16mc0xx3m603w4qabgaxwxv0qrv")))
+
+(define-public crate-sudo-gcp-0.2.1 (c (n "sudo-gcp") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.13.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "keyring") (r "^2.0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json" "blocking" "gzip"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)))) (h "0l9n7skwli958csqvkg33wr57nl73z8g8pfc0rapj69zqsb6nr20")))
+

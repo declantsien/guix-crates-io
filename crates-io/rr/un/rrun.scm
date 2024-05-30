@@ -1,0 +1,10 @@
+(define-module (crates-io rr un rrun) #:use-module (crates-io))
+
+(define-public crate-rrun-0.1.0 (c (n "rrun") (v "0.1.0") (d (list (d (n "cairo-rs") (r "^0") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "gdk") (r "^0") (d #t) (k 0)) (d (n "glib") (r "^0") (d #t) (k 0)) (d (n "gtk") (r "^0") (d #t) (k 0)) (d (n "itertools") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "0c8b6pk53nprla748mc90s82cga7fyz43wz0wnbd10w90w0ss4aq") (f (quote (("search_entry") ("default" "search_entry"))))))
+
+(define-public crate-rrun-0.2.0 (c (n "rrun") (v "0.2.0") (d (list (d (n "cairo-rs") (r "^0") (d #t) (k 0)) (d (n "clap") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "gdk") (r "^0") (d #t) (k 0)) (d (n "glib") (r "^0") (d #t) (k 0)) (d (n "gtk") (r "^0") (d #t) (k 0)) (d (n "itertools") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "06a227089mgm7ybd5q4jy12lk0ngmyccwmbhj6b0avid34iwdyc2")))
+
+(define-public crate-rrun-0.2.1 (c (n "rrun") (v "0.2.1") (d (list (d (n "cairo-rs") (r "^0") (d #t) (k 0)) (d (n "clap") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "gdk") (r "^0") (d #t) (k 0)) (d (n "glib") (r "^0") (d #t) (k 0)) (d (n "gtk") (r "^0.1.0") (f (quote ("v3_10"))) (d #t) (k 0)) (d (n "itertools") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "0jscnpl5nsabd5gjdsrawrqfgvpnknzz34g4fvyhag9f6v79s3w3")))
+
+(define-public crate-rrun-0.2.3 (c (n "rrun") (v "0.2.3") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "gdk") (r "^0.7.0") (d #t) (k 0)) (d (n "glib") (r "^0.4.1") (d #t) (k 0)) (d (n "gtk") (r "^0.3.0") (f (quote ("v3_10"))) (d #t) (k 0)) (d (n "itertools") (r "^0") (d #t) (k 0)) (d (n "log") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^0") (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "04g6s4vwjaa586nw3jap4a7mrjnbk5pmgiz0sx2sj0xjxpji0q7r")))
+

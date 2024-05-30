@@ -1,0 +1,6 @@
+(define-module (crates-io hd p- hdp-cli) #:use-module (crates-io))
+
+(define-public crate-hdp-cli-0.1.0 (c (n "hdp-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "hdp-core") (r "^0.1.0") (d #t) (k 0)) (d (n "hdp-provider") (r "^0.1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.0") (d #t) (k 0)))) (h "1b21zl3jsi1bga8vcnr4m7gxjjagb4kims8bcrc13x2405i1s57w")))
+
+(define-public crate-hdp-cli-0.2.0 (c (n "hdp-cli") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "hdp-core") (r "^0.2.0") (d #t) (k 0)) (d (n "hdp-provider") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.0") (d #t) (k 0)))) (h "1qsmgdjaiv2d2v4fiqpjnlf06zrggxb9b3p99ry7vqhjj8vvna42")))
+

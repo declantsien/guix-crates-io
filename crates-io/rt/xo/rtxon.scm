@@ -1,0 +1,8 @@
+(define-module (crates-io rt xo rtxon) #:use-module (crates-io))
+
+(define-public crate-rtxon-0.1.0 (c (n "rtxon") (v "0.1.0") (d (list (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nalgebra") (r "^0.16") (d #t) (k 0)))) (h "0v233yhmq3gyfkc28fqj1wj40fr18jywj7iiz9x4ppdik0v5pf19")))
+
+(define-public crate-rtxon-0.3.0 (c (n "rtxon") (v "0.3.0") (d (list (d (n "bvh") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nalgebra") (r "^0.16") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.9") (d #t) (k 0)) (d (n "pbr") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "raw-cpuid") (r "^6.1") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)))) (h "1y2idq3jzz3mynvh1l85j4a0k566m4yvssxplnxs43p7d4y5q4qw")))
+
+(define-public crate-rtxon-0.3.1 (c (n "rtxon") (v "0.3.1") (d (list (d (n "bvh") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "env_logger") (r "^0.6") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "image") (r "^0.21") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.9") (d #t) (k 0)) (d (n "pbr") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "raw-cpuid") (r "^6.1") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)))) (h "1wvn8sjk8sydyc5fnd579iqfqg0as232yriawa7qscdmip91f0k9")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io hc #{14}# hc14-at-rs) #:use-module (crates-io))
+
+(define-public crate-hc14-at-rs-0.2.3 (c (n "hc14-at-rs") (v "0.2.3") (d (list (d (n "alloc-cortex-m") (r "^0.4.4") (d #t) (k 0)) (d (n "at-commands") (r "^0.5.4") (d #t) (k 0)) (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 0)) (d (n "cortex-m-semihosting") (r "^0.5.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 0)) (d (n "heapless") (r "^0.7") (d #t) (k 0)) (d (n "nb") (r "^1.1.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 0)) (d (n "stm32f1xx-hal") (r "^0.10.0") (f (quote ("stm32f103" "rt"))) (d #t) (k 0)))) (h "0c29h8zafimvav81sjldbwr6hrqv56x55767n09zdsg2djidf0pj")))
+

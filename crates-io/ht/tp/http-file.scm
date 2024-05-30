@@ -1,0 +1,4 @@
+(define-module (crates-io ht tp http-file) #:use-module (crates-io))
+
+(define-public crate-http-file-0.1.0 (c (n "http-file") (v "0.1.0") (d (list (d (n "bytes") (r "^1.4") (d #t) (k 0)) (d (n "futures") (r "^0.3") (k 2)) (d (n "futures-core") (r "^0.3.25") (k 0)) (d (n "http") (r "^1") (d #t) (k 0)) (d (n "http-range-header") (r "^0.4") (d #t) (k 0)) (d (n "httpdate") (r "^1.0.2") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.4") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.2.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "tokio") (r "^1.30") (f (quote ("rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.30") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "tokio-uring") (r "^0.4") (f (quote ("bytes"))) (o #t) (d #t) (k 0)))) (h "0rb170d4dhgmnk2db9aibznpv4vy8r4k9dkbsyl6f7i9gv44xw23") (f (quote (("tokio" "tokio/fs" "tokio/io-util") ("default" "tokio")))) (s 2) (e (quote (("tokio-uring" "dep:tokio" "dep:tokio-uring"))))))
+

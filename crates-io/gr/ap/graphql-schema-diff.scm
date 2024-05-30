@@ -1,0 +1,6 @@
+(define-module (crates-io gr ap graphql-schema-diff) #:use-module (crates-io))
+
+(define-public crate-graphql-schema-diff-0.1.0 (c (n "graphql-schema-diff") (v "0.1.0") (d (list (d (n "async-graphql-parser") (r "^7") (d #t) (k 0)) (d (n "async-graphql-value") (r "^7") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive" "derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "16pfywp1jswwy3hl7ip5cr4z02mrsapwynzl9xpihijc379wyapl") (f (quote (("default" "serde"))))))
+
+(define-public crate-graphql-schema-diff-0.1.1 (c (n "graphql-schema-diff") (v "0.1.1") (d (list (d (n "async-graphql-parser") (r "^7") (d #t) (k 0)) (d (n "async-graphql-value") (r "^7") (d #t) (k 0)) (d (n "datatest-stable") (r "^0.2.3") (d #t) (k 2)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy"))) (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive" "derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 2)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "1rc84br9jw3mz747dw7yygkc1mdzlpy96d6nkcjdimhs5m0m95d7") (f (quote (("default" "serde"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pi _u pi_udp) #:use-module (crates-io))
+
+(define-public crate-pi_udp-0.1.0 (c (n "pi_udp") (v "0.1.0") (d (list (d (n "bytes") (r "^1.3") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "dashmap") (r "^4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "flume") (r "^0.10") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("net" "os-poll"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "pi_async") (r "^0.5") (d #t) (k 0)) (d (n "pi_hash") (r "^0.1") (d #t) (k 0)) (d (n "pi_slotmap") (r "^0.1") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1") (d #t) (k 0)))) (h "01z7xz5xiy1k5w9wkdvvc5ji1p7a54f40xwbjjynjvj5kq99iiv2")))
+

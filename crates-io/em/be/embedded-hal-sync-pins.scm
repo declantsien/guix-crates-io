@@ -1,0 +1,26 @@
+(define-module (crates-io em be embedded-hal-sync-pins) #:use-module (crates-io))
+
+(define-public crate-embedded-hal-sync-pins-0.1.0 (c (n "embedded-hal-sync-pins") (v "0.1.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.4") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0sg7l7djd1vspzc1xaw2c6zvf97j4pwmypgw0kbv49npxpg87jhq") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.2.0 (c (n "embedded-hal-sync-pins") (v "0.2.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.4") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0kds1vpzhpdkzkhlkx5ghjy9yr68fqryr6dz69n616asy1zkgdby") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.3.0 (c (n "embedded-hal-sync-pins") (v "0.3.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.4") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0qracpjag8814ly1bk3hyvqb41shrmb1zi45qqcv2gg1p6bnacdq") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.3.1 (c (n "embedded-hal-sync-pins") (v "0.3.1") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.4") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "02m455js1xsf5nyv1alq0zlrd1j8amigyf60ih3lqjnmjwnqgdv0") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.4.0 (c (n "embedded-hal-sync-pins") (v "0.4.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0fznyg2hg487gcv0jhfmq14m6sv1zbvx4frcpvh5yxky6xh8hisi") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.4.1 (c (n "embedded-hal-sync-pins") (v "0.4.1") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "1v53kb8ih7i383p2kl1rfdk4rscvw42p6viiqqjxzvb7x8y4nn6c") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.4.2 (c (n "embedded-hal-sync-pins") (v "0.4.2") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "18819fjprd9jpfsql6ajp071riym7wh32m0lkflyarhy0n33j11h") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.5.0 (c (n "embedded-hal-sync-pins") (v "0.5.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0619wpqg2x9jpcl8h7njgcgrnav21h6m0yk3vh97h4nppp8ym9lc") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.5.1 (c (n "embedded-hal-sync-pins") (v "0.5.1") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "1maw5dnvwfjv6767h1k4552axhb0fhyi4sabnn5cm5zvzwfbmd0w") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.5.2 (c (n "embedded-hal-sync-pins") (v "0.5.2") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.6") (d #t) (k 0)) (d (n "embedded-time") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0mvd8q5dmsq2rixl4i40pd3vm9riikmgikzwjs1jjynnf96pkyzy") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.6.0 (c (n "embedded-hal-sync-pins") (v "0.6.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.7") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "0ic3l9sam6xfqdc1k458dacd0qzz29sqf8s4mk4qcdmfafqrg8y5") (f (quote (("vcd-value" "vcd"))))))
+
+(define-public crate-embedded-hal-sync-pins-0.7.0 (c (n "embedded-hal-sync-pins") (v "0.7.0") (d (list (d (n "embedded-hal") (r "^1.0.0-alpha.9") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vcd") (r "^0.6") (o #t) (d #t) (k 0)))) (h "1a2r7b4wj1w9p0q6na6qj0yh8g3p7r0mkp83rknmsfn9gvnzzp64") (f (quote (("vcd-value" "vcd"))))))
+

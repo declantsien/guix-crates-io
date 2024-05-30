@@ -1,0 +1,4 @@
+(define-module (crates-io ce le celer-pay-module-rpc) #:use-module (crates-io))
+
+(define-public crate-celer-pay-module-rpc-0.8.8 (c (n "celer-pay-module-rpc") (v "0.8.8") (d (list (d (n "celer-pay-module-rpc-runtime-api") (r "^0.8.8") (d #t) (k 0)) (d (n "codec") (r "^1.3.4") (d #t) (k 0) (p "parity-scale-codec")) (d (n "jsonrpc-core") (r "^15.0.0") (d #t) (k 0)) (d (n "jsonrpc-core-client") (r "^15.0.0") (d #t) (k 0)) (d (n "jsonrpc-derive") (r "^15.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 2)) (d (n "sp-api") (r "^2.0.0") (d #t) (k 0)) (d (n "sp-blockchain") (r "^2.0.0") (d #t) (k 0)) (d (n "sp-core") (r "^2.0.0") (d #t) (k 0)) (d (n "sp-rpc") (r "^2.0.0") (d #t) (k 0)) (d (n "sp-runtime") (r "^2.0.0") (d #t) (k 0)) (d (n "sp-std") (r "^2.0.0") (d #t) (k 0)))) (h "06b7x5isky00581vwfc97ds3rrmc1x3yc666ryqv0zfylhpjy130")))
+

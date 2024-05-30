@@ -1,0 +1,6 @@
+(define-module (crates-io ev en eventific_sqs) #:use-module (crates-io))
+
+(define-public crate-eventific_sqs-0.1.0 (c (n "eventific_sqs") (v "0.1.0") (d (list (d (n "eventific") (r "^0.1.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_sqs") (r "^0.40.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.95") (d #t) (k 2)) (d (n "slog") (r "^2.5.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "1pc1dglg39h88b9q2sbyqygnpa1ad8if7mqnghbch1ml3v7khdg0") (f (quote (("integration_tests"))))))
+
+(define-public crate-eventific_sqs-0.1.1 (c (n "eventific_sqs") (v "0.1.1") (d (list (d (n "eventific") (r "^0.1.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "futures") (r "^0.1.28") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_sqs") (r "^0.40.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.95") (d #t) (k 2)) (d (n "slog") (r "^2.5.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1.22") (d #t) (k 0)) (d (n "uuid") (r "^0.7.4") (f (quote ("serde"))) (d #t) (k 0)))) (h "1xfm6yrl5pxp9wjhzlwx9z030iq748q0hw7p4609yzbpirzg4ij2") (f (quote (("integration_tests"))))))
+

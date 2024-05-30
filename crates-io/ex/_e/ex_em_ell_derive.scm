@@ -1,0 +1,8 @@
+(define-module (crates-io ex _e ex_em_ell_derive) #:use-module (crates-io))
+
+(define-public crate-ex_em_ell_derive-0.1.0 (c (n "ex_em_ell_derive") (v "0.1.0") (d (list (d (n "darling") (r "^0.20.6") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.49") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "086hbzbdg246yq6587idb3mcl7zw8h9q8m3qwhjlid3kyz6m7kpa")))
+
+(define-public crate-ex_em_ell_derive-0.2.0 (c (n "ex_em_ell_derive") (v "0.2.0") (d (list (d (n "darling") (r "^0.20.8") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.52") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "06vd42ggvnv49v7gbh4gyyhzz7180091f534ddbm098qpghhj9sz")))
+
+(define-public crate-ex_em_ell_derive-0.3.0 (c (n "ex_em_ell_derive") (v "0.3.0") (d (list (d (n "darling") (r "^0.20.8") (d #t) (k 0)) (d (n "heck") (r "^0.4.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.52") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "02cq7lk6x9051p4rdfn1zgcxpqg6pam3vqiz1va6q36f6b13g99z")))
+

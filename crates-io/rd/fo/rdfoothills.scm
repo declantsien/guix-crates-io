@@ -1,0 +1,6 @@
+(define-module (crates-io rd fo rdfoothills) #:use-module (crates-io))
+
+(define-public crate-rdfoothills-0.2.0 (c (n "rdfoothills") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3") (d #t) (k 0)) (d (n "infer") (r "^0.15") (d #t) (k 0)) (d (n "mediatype") (r "^0.19") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("fs" "process"))) (d #t) (k 0)))) (h "0p7z3p2hyda4m35jkahsi16z8m9xzzl2hrfamhg6w9pwj9fc9rgh")))
+
+(define-public crate-rdfoothills-0.3.0 (c (n "rdfoothills") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "git-version") (r "^0.3") (d #t) (k 0)) (d (n "infer") (r "^0.15") (d #t) (k 0)) (d (n "mediatype") (r "^0.19") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "oxrdfio") (r "^0.1.0-alpha.6") (f (quote ("async-tokio" "rdf-star"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("fs" "process"))) (d #t) (k 0)))) (h "1w5ismg05a8ys5s8krxxyl4m60vhj52c7jrvg0xfrr8cgsv2bi5a")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io cl ip clipat) #:use-module (crates-io))
+
+(define-public crate-clipat-0.1.0 (c (n "clipat") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "arboard") (r "^3.3.2") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (f (quote ("bmp"))) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "15jk7m6y6blgk9dakrlmjrn4wjfm5ccza374r0p5zpqb6b6z3nax")))
+
+(define-public crate-clipat-0.1.1 (c (n "clipat") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.81") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "arboard") (r "^3.3.2") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (f (quote ("bmp"))) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "02g6mkjqim543321xj6m3vq4x422s5khlf97yj20581qhc006qji")))
+

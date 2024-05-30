@@ -1,0 +1,26 @@
+(define-module (crates-io od ra odra-mock-vm) #:use-module (crates-io))
+
+(define-public crate-odra-mock-vm-0.0.1 (c (n "odra-mock-vm") (v "0.0.1") (d (list (d (n "odra-types") (r "^0.0.1") (d #t) (k 0)) (d (n "odra-utils") (r "^0.0.1") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "06lw50dmqpais7m61d3q3v6rg0brnpflv16q2gzdycpn8yc1bis4")))
+
+(define-public crate-odra-mock-vm-0.1.0 (c (n "odra-mock-vm") (v "0.1.0") (d (list (d (n "odra-types") (r "^0.1.0") (d #t) (k 0)) (d (n "odra-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "1bb8yn9h2y3zpqh9wszzbah26pfhwfngsnyc8r6c0psaamyqki1m")))
+
+(define-public crate-odra-mock-vm-0.2.0 (c (n "odra-mock-vm") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.2.0") (d #t) (k 0)) (d (n "odra-types") (r "^0.2.0") (d #t) (k 0)) (d (n "odra-utils") (r "^0.2.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "1iszn137z24dqxq9zjwjwy058lpc8619gq50g1wkblkb3fmmw44q")))
+
+(define-public crate-odra-mock-vm-0.3.0 (c (n "odra-mock-vm") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.3.0") (d #t) (k 0)) (d (n "odra-types") (r "^0.3.0") (d #t) (k 0)) (d (n "odra-utils") (r "^0.3.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "122qp1sld9cd33l92h6my2h7gpm6in3w49cdpk88knb1rzjnxw23")))
+
+(define-public crate-odra-mock-vm-0.3.1 (c (n "odra-mock-vm") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.3.1") (d #t) (k 0)) (d (n "odra-types") (r "^0.3.1") (d #t) (k 0)) (d (n "odra-utils") (r "^0.3.1") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "0czh2ln4pw82sici74mkk5qbf4l2yfbf8m34p2i84kfwrgl10lqh")))
+
+(define-public crate-odra-mock-vm-0.4.0 (c (n "odra-mock-vm") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.4.0") (d #t) (k 0)) (d (n "odra-types") (r "^0.4.0") (d #t) (k 0)) (d (n "odra-utils") (r "^0.4.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "1l8l7j0pzparz8s95xvnzx5dk6icha2jahy4sayz2y39s2v10ppw")))
+
+(define-public crate-odra-mock-vm-0.5.0 (c (n "odra-mock-vm") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.5.0") (d #t) (k 0)) (d (n "odra-types") (r "^0.5.0") (d #t) (k 0)) (d (n "odra-utils") (r "^0.5.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "09lix2mifnx1xl8vkh6yk1c8ijpxrq1i944vdhv7hw9kiz682n26")))
+
+(define-public crate-odra-mock-vm-0.6.0 (c (n "odra-mock-vm") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.6.0") (d #t) (k 0)) (d (n "odra-types") (r "^0.6.0") (d #t) (k 0)) (d (n "odra-utils") (r "^0.6.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "099nb3mbd68hbas8abiwihq3y63yz7hgcpzgmp8fxhbfd9c60h10")))
+
+(define-public crate-odra-mock-vm-0.7.0 (c (n "odra-mock-vm") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-types") (r "^0.7.0") (f (quote ("test-support"))) (d #t) (k 0)) (d (n "odra-utils") (r "^0.7.0") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "17hhxixj8q9q2r5yh10gqyf69czwy9rf1nv8iwh18wr74p72l63j")))
+
+(define-public crate-odra-mock-vm-0.7.1 (c (n "odra-mock-vm") (v "0.7.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "=2.0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-types") (r "^0.7.1") (f (quote ("test-support"))) (d #t) (k 0)) (d (n "odra-utils") (r "^0.7.1") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "0ssr87x2fbdck7x7769q3cnw6j6qh6aqivklshr59vwcrcblkixf")))
+
+(define-public crate-odra-mock-vm-0.6.1 (c (n "odra-mock-vm") (v "0.6.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "=2.0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.6.1") (d #t) (k 0)) (d (n "odra-types") (r "^0.6.1") (d #t) (k 0)) (d (n "odra-utils") (r "^0.6.1") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "1p1zp2a8bpx1va20a1bcva5m27f559hc8ralyhpnf93dzmmq16g6")))
+
+(define-public crate-odra-mock-vm-0.6.2 (c (n "odra-mock-vm") (v "0.6.2") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "colored") (r "=2.0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "odra-mock-vm-types") (r "^0.6.2") (d #t) (k 0)) (d (n "odra-types") (r "^0.6.2") (d #t) (k 0)) (d (n "odra-utils") (r "^0.6.2") (d #t) (k 0)) (d (n "ref_thread_local") (r "^0.1.1") (d #t) (k 0)))) (h "0500cfml3m9cfdipbnr1qg82qz7mdj8kzf629ylha58v01a4x1md")))
+

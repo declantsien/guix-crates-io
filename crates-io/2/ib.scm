@@ -1,0 +1,8 @@
+(define-module (crates-io #{2}# ib) #:use-module (crates-io))
+
+(define-public crate-ib-1.0.0 (c (n "ib") (v "1.0.0") (d (list (d (n "base64") (r "~0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.16") (d #t) (k 0)) (d (n "hyper") (r "^0.11.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "url") (r "^1.5") (d #t) (k 0)))) (h "11f06d1kqx8k6f9la8ygrmmvar9nl3wz4y9fdgdd0w5if94rsfy4")))
+
+(define-public crate-ib-2.0.0 (c (n "ib") (v "2.0.0") (d (list (d (n "base64") (r "~0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.16") (d #t) (k 0)) (d (n "hyper") (r "^0.11.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "url") (r "^1.5") (d #t) (k 0)))) (h "18bqpsfd9l3dvxh0daaxv1r04xjjaq3x1k4yaaid9543bqi5rwkp")))
+
+(define-public crate-ib-3.0.0 (c (n "ib") (v "3.0.0") (d (list (d (n "base64") (r "~0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.1.16") (d #t) (k 0)) (d (n "hyper") (r "^0.11.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 2)) (d (n "url") (r "^1.5") (d #t) (k 0)))) (h "1wh69kcrpgbrnsqw3bj2hphdwlgqfs5yx9q03hrm4n2wxa3lqbyj")))
+

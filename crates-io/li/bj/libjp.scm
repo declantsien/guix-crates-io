@@ -1,0 +1,4 @@
+(define-module (crates-io li bj libjp) #:use-module (crates-io))
+
+(define-public crate-libjp-0.1.0 (c (n "libjp") (v "0.1.0") (d (list (d (n "base64") (r "^0.9") (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diff") (r "^0.1.0") (d #t) (k 0) (p "jp_diff")) (d (n "graph") (r "^0.1.0") (d #t) (k 0) (p "jp_graph")) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "multimap") (r "^0.1.0") (d #t) (k 0) (p "jp_multimap")) (d (n "partition") (r "^0.1.0") (d #t) (k 0) (p "jp_partition")) (d (n "pretty_assertions") (r "^0.5") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.7") (d #t) (k 0)) (d (n "sha2") (r "^0.7") (d #t) (k 0)))) (h "17c74w5szf9ha0lmm0jrah8q4y03wzcb0p071sfvsj99rjafrx52") (y #t)))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io te lo teloxide-listener) #:use-module (crates-io))
+
+(define-public crate-teloxide-listener-0.1.0-beta.1 (c (n "teloxide-listener") (v "0.1.0-beta.1") (d (list (d (n "axum") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "teloxide") (r "^0.7") (k 0)) (d (n "teloxide") (r "^0.7") (f (quote ("dispatching2"))) (k 2)) (d (n "tokio") (r "^1.16") (o #t) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2.2") (o #t) (d #t) (k 0)))) (h "0waxgpni17wmk3j0qkmhpgc1dyzi3l0wvi7k06k3jrjr0prallrq") (f (quote (("webhook" "axum" "tokio" "tokio-stream" "url" "serde_json" "either") ("either" "futures-core"))))))
+

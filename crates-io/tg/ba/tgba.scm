@@ -1,0 +1,8 @@
+(define-module (crates-io tg ba tgba) #:use-module (crates-io))
+
+(define-public crate-tgba-0.1.0 (c (n "tgba") (v "0.1.0") (d (list (d (n "ambassador") (r "^0.3.1") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.6") (d #t) (k 0)))) (h "1amsmk2yzf4in1hm1d079y2j1q5476j7jnrpbc9ndkab38wfh0iz")))
+
+(define-public crate-tgba-0.2.0 (c (n "tgba") (v "0.2.0") (d (list (d (n "ambassador") (r "^0.3.2") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "meru-interface") (r "^0.2.0") (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)))) (h "0x1ahi65gnh7ahjhr7rsl87kgqckgl47fq9v02jl56f7279b0hdg")))
+
+(define-public crate-tgba-0.3.0 (c (n "tgba") (v "0.3.0") (d (list (d (n "ambassador") (r "^0.3.2") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "meru-interface") (r "^0.3.0") (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.11.2") (d #t) (k 0)) (d (n "schemars") (r "^0.8.10") (f (quote ("schemars_derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.33") (d #t) (k 0)))) (h "0xp24c99hmkgny436ys7paq2cjdbh5ar3hb6nc618rvcpxwh89xi")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io er rg errgo) #:use-module (crates-io))
+
+(define-public crate-errgo-0.1.3 (c (n "errgo") (v "0.1.3") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^2.0.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.79") (f (quote ("diff"))) (d #t) (k 2)))) (h "08y3bprgv58cw2kp8kbj22yy2736mnlimd3fm9bra3cjnnn5wl2m")))
+
+(define-public crate-errgo-0.1.4 (c (n "errgo") (v "0.1.4") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^2.0.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.79") (f (quote ("diff"))) (d #t) (k 2)))) (h "1hdzcwck1mnxhvb64657b6l4ffqqd75sz1bcs3iqjin7a3df5nkz")))
+

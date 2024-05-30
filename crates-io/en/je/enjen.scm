@@ -1,0 +1,6 @@
+(define-module (crates-io en je enjen) #:use-module (crates-io))
+
+(define-public crate-enjen-0.0.0 (c (n "enjen") (v "0.0.0") (h "1yii45pfa8l8cih9iirl7vmw5xqqsgp1bw4wzchlhgb1q6k1hfjh")))
+
+(define-public crate-enjen-0.1.0 (c (n "enjen") (v "0.1.0") (d (list (d (n "accounts") (r "^0.1.0") (o #t) (d #t) (k 0) (p "vapcore-accounts")) (d (n "accounts") (r "^0.1.0") (d #t) (k 2) (p "vapcore-accounts")) (d (n "blockchain") (r "^0.1.0") (d #t) (k 0) (p "vapcore-blockchain")) (d (n "builtin") (r "^0.1.0") (d #t) (k 0) (p "vapcore-builtin")) (d (n "bytes") (r "^0.1.0") (d #t) (k 0) (p "tetsy-bytes")) (d (n "client-traits") (r "^0.1.0") (d #t) (k 0)) (d (n "common-types") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 2)) (d (n "mashina") (r "^0.1.0") (d #t) (k 0)) (d (n "tetsy-crypto") (r "^0.4.2") (f (quote ("publickey"))) (d #t) (k 0)) (d (n "tetsy-vm") (r "^0.1.0") (d #t) (k 0)) (d (n "vapkey") (r "^0.4.0") (o #t) (d #t) (k 0)) (d (n "vapkey") (r "^0.4.0") (d #t) (k 2)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "1i5zdip4yirh3xjkhmzsj9vf7xr69v2bdscf385mmzk9k9704b7s") (f (quote (("test-helpers" "accounts" "log" "vapkey"))))))
+

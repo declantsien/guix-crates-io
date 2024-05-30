@@ -1,0 +1,6 @@
+(define-module (crates-io cr ev crevice_notan) #:use-module (crates-io))
+
+(define-public crate-crevice_notan-0.11.0 (c (n "crevice_notan") (v "0.11.0") (d (list (d (n "bytemuck") (r "^1.9.1") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "crevice_notan-derive") (r "^0.10.0") (d #t) (k 0)) (d (n "glam") (r "^0.21.2") (f (quote ("mint"))) (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.15.0") (d #t) (k 2)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)))) (h "0vcf6cvcqqmfi1xkr8cdnwybq0ag5agwhpjn5bific1gd7h6bhjf") (f (quote (("test-all-math-libraries" "cgmath" "glam" "nalgebra") ("std") ("default" "std")))) (r "1.58.0")))
+
+(define-public crate-crevice_notan-0.13.0 (c (n "crevice_notan") (v "0.13.0") (d (list (d (n "bytemuck") (r "^1.12.3") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "crevice_notan-derive") (r "^0.13.0") (d #t) (k 0)) (d (n "glam") (r "^0.24.0") (f (quote ("mint"))) (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.21.0") (d #t) (k 2)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.2") (f (quote ("mint"))) (o #t) (d #t) (k 0)))) (h "144v5lgh8wxlcf1ldhp443qf8arz26wayzvqvmwplxyflnyb5c0b") (f (quote (("test-all-math-libraries" "cgmath" "glam" "nalgebra") ("std") ("default" "std")))) (r "1.58.0")))
+

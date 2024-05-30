@@ -1,0 +1,10 @@
+(define-module (crates-io gp -a gp-allocator) #:use-module (crates-io))
+
+(define-public crate-gp-allocator-4.1.0 (c (n "gp-allocator") (v "4.1.0") (d (list (d (n "codec") (r "^3.2.2") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "log") (r "^0.4.17") (k 0)) (d (n "sp-wasm-interface-common") (r "^7.0.0") (k 0) (p "gp-wasm-interface-common")) (d (n "thiserror") (r "^1.0.30") (o #t) (d #t) (k 0)))) (h "1lk0n8vvd9s2g4ck365cvjglsh0pg9dw8gw4dkl21fphzv8rrzbv") (f (quote (("std" "codec/std" "log/std" "sp-wasm-interface-common/std" "thiserror") ("default" "std"))))))
+
+(define-public crate-gp-allocator-4.1.0-dev (c (n "gp-allocator") (v "4.1.0-dev") (d (list (d (n "codec") (r "^3.2.2") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "log") (r "^0.4.17") (k 0)) (d (n "sp-wasm-interface-common") (r "^7.0.0") (k 0) (p "gp-wasm-interface-common")) (d (n "thiserror") (r "^1.0.30") (o #t) (d #t) (k 0)))) (h "05760yc4xjlm40kmvc6lp3j28srd2bzicyd6cjxsgds7p83yvigw") (f (quote (("std" "codec/std" "log/std" "sp-wasm-interface-common/std" "thiserror") ("default" "std"))))))
+
+(define-public crate-gp-allocator-4.1.1 (c (n "gp-allocator") (v "4.1.1") (d (list (d (n "codec") (r "^3.2.2") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "log") (r "^0.4.17") (k 0)) (d (n "sp-wasm-interface-common") (r "^7.0.1") (k 0)) (d (n "thiserror") (r "^1.0.30") (o #t) (d #t) (k 0)))) (h "06rafx91nrzs69cwd79ggdhsckzyha7mid0dj0gphf2bsc3mnbh1") (f (quote (("std" "codec/std" "log/std" "sp-wasm-interface-common/std" "thiserror") ("default" "std"))))))
+
+(define-public crate-gp-allocator-4.1.2 (c (n "gp-allocator") (v "4.1.2") (d (list (d (n "codec") (r "^3.2.2") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "log") (r "^0.4.17") (k 0)) (d (n "sp-wasm-interface-common") (r "^15.0.0") (k 0)) (d (n "thiserror") (r "^1.0.30") (o #t) (d #t) (k 0)))) (h "1prvqhh3s9w3z365sqq32i8nlpl2z7w5y4ki35m9cqjkbd9b9kwk") (f (quote (("std" "codec/std" "log/std" "sp-wasm-interface-common/std" "thiserror") ("default" "std"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ht mx htmx-lsp-server) #:use-module (crates-io))
+
+(define-public crate-htmx-lsp-server-0.1.0 (c (n "htmx-lsp-server") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "htmx-lsp-util") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (f (quote ("kv_unstable" "kv_unstable_serde"))) (d #t) (k 0)) (d (n "lsp-server") (r "^0.7.2") (d #t) (k 0)) (d (n "lsp-types") (r "^0.94.0") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.173") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20.10") (d #t) (k 0)) (d (n "tree-sitter-html") (r "^0.19.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1lbv92n8n5zgci09f4f63mzzx11fjg8hrr0488b9h9xrnwxnbgk1")))
+

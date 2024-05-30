@@ -1,0 +1,10 @@
+(define-module (crates-io sh rs shrs_cd_tools) #:use-module (crates-io))
+
+(define-public crate-shrs_cd_tools-0.0.2 (c (n "shrs_cd_tools") (v "0.0.2") (d (list (d (n "anymap") (r "^0.12") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "multimap") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1iq45yf2zcinfzfiri4w2c671fr8d3xkdigyd1amdbb071a41243")))
+
+(define-public crate-shrs_cd_tools-0.0.3 (c (n "shrs_cd_tools") (v "0.0.3") (d (list (d (n "anymap") (r "^0.12") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "multimap") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "04mf8h3cwd5i8m1rddz9xjxxrl0xqb3h947rh2hhm3gw9n56x1fw")))
+
+(define-public crate-shrs_cd_tools-0.0.4 (c (n "shrs_cd_tools") (v "0.0.4") (d (list (d (n "anymap") (r "^0.12") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "multimap") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "12knv0clka30qjyjcvhi6rycjjjx2sd14bs7hwh0l3ic1vzm163g")))
+
+(define-public crate-shrs_cd_tools-0.0.5 (c (n "shrs_cd_tools") (v "0.0.5") (d (list (d (n "anymap") (r "^0.12") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "multimap") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.5") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1my27gb8vp7k4m0295888izvv6g576bnqa0w06hsmxz0q276s954")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io pa ss passphrasex_common) #:use-module (crates-io))
+
+(define-public crate-passphrasex_common-0.1.0 (c (n "passphrasex_common") (v "0.1.0") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "bip32") (r "^0.5.0") (f (quote ("alloc" "secp256k1"))) (d #t) (k 0)) (d (n "crypto_box") (r "^0.8.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom" "std"))) (d #t) (k 0)) (d (n "rust-argon2") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("serde_derive"))) (d #t) (k 0)))) (h "12r22ywdmaa1mbq111ja2m71apz97ml80g674pvd05xrvmhjkmyr")))
+
+(define-public crate-passphrasex_common-0.2.0 (c (n "passphrasex_common") (v "0.2.0") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "bip32") (r "^0.5.0") (f (quote ("alloc" "secp256k1"))) (d #t) (k 0)) (d (n "crypto_box") (r "^0.8.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.4") (f (quote ("getrandom" "std"))) (d #t) (k 0)) (d (n "rust-argon2") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("serde_derive"))) (d #t) (k 0)))) (h "1gknx5gjlf2piv78v4zs30mavdhvcnij10jqc91anqfkj0l593f6")))
+

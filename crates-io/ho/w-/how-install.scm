@@ -1,0 +1,4 @@
+(define-module (crates-io ho w- how-install) #:use-module (crates-io))
+
+(define-public crate-how-install-1.0.0 (c (n "how-install") (v "1.0.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "displaydoc") (r "^0.2.3") (d #t) (k 0)) (d (n "how-install-tealdeer") (r "^1.5.0") (d #t) (k 0)) (d (n "nix") (r "^0.24.1") (f (quote ("user"))) (k 0)) (d (n "owo-colors") (r "^3.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("rustls-tls"))) (d #t) (k 0)) (d (n "scraper") (r "^0.13.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.9.1") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0r06bxqdwljsq68icy187hdp6dxzc2nw6li18iddz50vxd8wkjhd")))
+

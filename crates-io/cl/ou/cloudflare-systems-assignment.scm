@@ -1,0 +1,10 @@
+(define-module (crates-io cl ou cloudflare-systems-assignment) #:use-module (crates-io))
+
+(define-public crate-cloudflare-systems-assignment-0.1.0 (c (n "cloudflare-systems-assignment") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "billboard") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0x1vsj89bf09g2ij296gd6g3ramvfldfngxpsylc0ynpvsn9cqxx")))
+
+(define-public crate-cloudflare-systems-assignment-0.2.0 (c (n "cloudflare-systems-assignment") (v "0.2.0") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "billboard") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1jp4w7bnh8yiwwxr2xnhzsqx8xhfg8b2igjkmcbi9i1hg5zvcrhd")))
+
+(define-public crate-cloudflare-systems-assignment-0.2.1 (c (n "cloudflare-systems-assignment") (v "0.2.1") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "billboard") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0p8fs9igy3kxy63v5pmmgv53k7lpckmixs27azpiaa4ppis08x47")))
+
+(define-public crate-cloudflare-systems-assignment-0.2.2 (c (n "cloudflare-systems-assignment") (v "0.2.2") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "billboard") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1s1p99dg59bkfcxmg0r8n85v6dzhfnc67l7jxpywizsf49b4g80v")))
+

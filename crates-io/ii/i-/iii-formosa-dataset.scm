@@ -1,0 +1,6 @@
+(define-module (crates-io ii i- iii-formosa-dataset) #:use-module (crates-io))
+
+(define-public crate-iii-formosa-dataset-0.1.0 (c (n "iii-formosa-dataset") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "json5") (r "^0.3.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "noisy_float") (r "^0.1.13") (f (quote ("serde-1"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)))) (h "0yf7gpwym978pl4wj4c8b7bzk75kx2k2wzxp7kkvv9rw53yjxy1g")))
+
+(define-public crate-iii-formosa-dataset-0.2.0 (c (n "iii-formosa-dataset") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "envy") (r "^0.4.2") (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "json5") (r "^0.3.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "noisy_float") (r "^0.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.4.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)))) (h "0k1xbb1nif21gnxzhicwq5vsyizib65d0gywrk887d97aqygjnla")))
+

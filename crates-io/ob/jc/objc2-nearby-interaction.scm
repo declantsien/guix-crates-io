@@ -1,0 +1,6 @@
+(define-module (crates-io ob jc objc2-nearby-interaction) #:use-module (crates-io))
+
+(define-public crate-objc2-nearby-interaction-0.0.0 (c (n "objc2-nearby-interaction") (v "0.0.0") (h "1vc2hl0312gl2zrxvgxd68f968p1a99bj9z01izqydz1h8q714li")))
+
+(define-public crate-objc2-nearby-interaction-0.2.2 (c (n "objc2-nearby-interaction") (v "0.2.2") (d (list (d (n "objc2") (r "^0.5.2") (k 0)) (d (n "objc2-foundation") (r "^0.2.2") (k 0)))) (h "07ja4frmb5dq2xx3fdsy50nxbnfi5wywrz37xsvn3dri5iyljl2y") (f (quote (("std" "alloc" "objc2/std" "objc2-foundation/std") ("default" "std") ("alloc" "objc2/alloc" "objc2-foundation/alloc") ("all" "NIAlgorithmConvergenceStatusReason" "NIConfiguration" "NIDeviceCapability" "NIError" "NIExport" "NINearbyObject" "NISession") ("NISession" "objc2-foundation/NSArray" "objc2-foundation/NSData" "objc2-foundation/NSError" "objc2-foundation/NSObject" "objc2-foundation/NSString") ("NINearbyObject" "objc2-foundation/NSObject") ("NIExport") ("NIError" "objc2-foundation/NSError" "objc2-foundation/NSString") ("NIDeviceCapability") ("NIConfiguration" "objc2-foundation/NSData" "objc2-foundation/NSError" "objc2-foundation/NSObject" "objc2-foundation/NSUUID") ("NIAlgorithmConvergenceStatusReason" "objc2-foundation/NSString")))) (r "1.60")))
+

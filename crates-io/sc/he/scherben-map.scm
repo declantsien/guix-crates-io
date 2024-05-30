@@ -1,0 +1,20 @@
+(define-module (crates-io sc he scherben-map) #:use-module (crates-io))
+
+(define-public crate-scherben-map-0.1.0 (c (n "scherben-map") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.8") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "threadpool-crossbeam-channel") (r "^1.8.0") (d #t) (k 0)))) (h "08nip15x17qfg3b8rj6nqpin7dmc2kbq7z94hgfr80xkzw83s0bn")))
+
+(define-public crate-scherben-map-0.1.1 (c (n "scherben-map") (v "0.1.1") (d (list (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.8") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "threadpool-crossbeam-channel") (r "^1.8.0") (d #t) (k 0)))) (h "1cv5ybp5bl8v1niskzwgga223fnnp2lj3xml06vwsfsrb144l872")))
+
+(define-public crate-scherben-map-0.1.4 (c (n "scherben-map") (v "0.1.4") (d (list (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.8.8") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "scoped_threadpool") (r "^0.1.9") (d #t) (k 0)) (d (n "threadpool-crossbeam-channel") (r "^1.8.0") (d #t) (k 0)))) (h "1clq5ndw7qklxsf1m6bjig28nd0x42l32rb7sqa8glynm17a68ip")))
+
+(define-public crate-scherben-map-0.1.5 (c (n "scherben-map") (v "0.1.5") (d (list (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")))) (h "0bxs5kcl2bymnm5d4isxjqwbkv6qzh98d9710zfdl49yyf14bxc0")))
+
+(define-public crate-scherben-map-0.1.6 (c (n "scherben-map") (v "0.1.6") (d (list (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")))) (h "0y42xa3ss5vxvg7mgd903glvsvms1nnv893b3xd37lvldzqi9l6k")))
+
+(define-public crate-scherben-map-0.1.7 (c (n "scherben-map") (v "0.1.7") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "sharded") (r "^0.1.0") (d #t) (k 2)))) (h "1i1llkz8bdjvrcdkmlxf3daamsm6x92qpw8r49ihalq6340v6jax")))
+
+(define-public crate-scherben-map-0.1.8 (c (n "scherben-map") (v "0.1.8") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "sharded") (r "^0.1.0") (d #t) (k 2)))) (h "0qpbmrlawkswhfdgxzdb87zyq1m7gqakhmvn31if93v1r87dciz1")))
+
+(define-public crate-scherben-map-0.1.9 (c (n "scherben-map") (v "0.1.9") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "sharded") (r "^0.1.0") (d #t) (k 2)))) (h "0041xcx3krhbwj0mpc0wxzp3c0z53sswcrmp6y5w01pnxhqnf1iv")))
+
+(define-public crate-scherben-map-0.1.10 (c (n "scherben-map") (v "0.1.10") (d (list (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "hashbrown") (r "^0.12.1") (f (quote ("raw" "inline-more"))) (d #t) (k 0)) (d (n "parking_lot_utils") (r "^0.12.1") (d #t) (k 0) (p "parking_lot")) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "sharded") (r "^0.1.0") (d #t) (k 2)))) (h "147f8mvslk6lpvhq129pgyiw4j22f117slf6zxk9ramr211mzqrd")))
+

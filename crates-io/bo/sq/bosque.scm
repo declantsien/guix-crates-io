@@ -1,0 +1,6 @@
+(define-module (crates-io bo sq bosque) #:use-module (crates-io))
+
+(define-public crate-bosque-0.1.0 (c (n "bosque") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.13.1") (d #t) (k 0)) (d (n "cbindgen") (r "^0.24.3") (d #t) (k 1)) (d (n "criterion") (r "^0.5.0") (d #t) (k 2)) (d (n "kiddo") (r "^2.0.2") (f (quote ("rkyv" "serialize_rkyv"))) (d #t) (k 2)) (d (n "num-format") (r "^0.4.4") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.15") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (d #t) (k 2)) (d (n "rkyv") (r "^0.7") (f (quote ("alloc" "size_64" "copy_unsafe"))) (o #t) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("alloc" "size_64" "copy_unsafe"))) (k 2)))) (h "1vp481x66w2lyp1qlci0km7dpnvfn6wv07104ywlxb7zxjysslb9") (f (quote (("uncompressed" "num-traits" "rkyv") ("default" "uncompressed"))))))
+
+(define-public crate-bosque-0.2.0 (c (n "bosque") (v "0.2.0") (d (list (d (n "cbindgen") (r "^0.24.3") (k 1)) (d (n "criterion") (r "^0.5.0") (d #t) (k 2)) (d (n "num-format") (r "^0.4.4") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 2)))) (h "16jq9h6b94y4hp3xlbgwbrx1gan83yngm9y73ysdfd66nk98kq0w") (f (quote (("sqrt-dist") ("parallel" "rayon") ("default" "parallel" "sqrt-dist"))))))
+

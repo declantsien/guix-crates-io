@@ -1,0 +1,8 @@
+(define-module (crates-io re lo relock) #:use-module (crates-io))
+
+(define-public crate-relock-0.1.0 (c (n "relock") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "futures") (r "^0.3.16") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "redis") (r "^0.21.0") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("rt" "macros" "fs" "rt-multi-thread"))) (d #t) (k 2)))) (h "0sflncyp3h7c7m14fb9zln4q7f822p2yhilqxf60jb0wd95fvq1f")))
+
+(define-public crate-relock-0.1.1 (c (n "relock") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "futures") (r "^0.3.16") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "redis") (r "^0.21.0") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("rt" "macros" "fs" "rt-multi-thread"))) (d #t) (k 2)))) (h "03lnx0b9j7vgqqr63y1apf66pg4szqjxj2h854qlrjwjg3y32gb8")))
+
+(define-public crate-relock-0.1.2 (c (n "relock") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 2)) (d (n "futures") (r "^0.3.16") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "redis") (r "^0.21.0") (f (quote ("tokio-comp"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.9.0") (f (quote ("rt" "macros" "fs" "rt-multi-thread"))) (d #t) (k 2)))) (h "0c97pxpkj066fywwi5wwnkx36byc4mnaz6smcvg48kr602xwn6n6")))
+

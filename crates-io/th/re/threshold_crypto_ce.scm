@@ -1,0 +1,4 @@
+(define-module (crates-io th re threshold_crypto_ce) #:use-module (crates-io))
+
+(define-public crate-threshold_crypto_ce-0.4.0 (c (n "threshold_crypto_ce") (v "0.4.0") (d (list (d (n "bincode") (r "^1.0.1") (d #t) (k 2)) (d (n "byteorder") (r "^1.2.7") (d #t) (k 0)) (d (n "criterion") (r "^0.2.7") (d #t) (k 2)) (d (n "errno") (r "^0.2.4") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "hex_fmt") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "memsec") (r "^0.5.4") (d #t) (k 0)) (d (n "pairing") (r "^0.19.0") (d #t) (k 0) (p "pairing_ce")) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "rand04_compat") (r "^0.1.1") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.1.1") (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.1.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 0)))) (h "0ipsya76gm87hmvmm25lc2d6m9l9qcmlv0z5z56c0yapn0v516yh")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ab us abuseipdb) #:use-module (crates-io))
+
+(define-public crate-abuseipdb-0.1.0 (c (n "abuseipdb") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonapi") (r "^0.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "~1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6") (d #t) (k 0)))) (h "0vdanbld87bvgzm3czw38cb6sxh229q9ygh1r1zgar73x38nxfk5")))
+
+(define-public crate-abuseipdb-0.2.0 (c (n "abuseipdb") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonapi") (r "^0.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.0-alpha.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "~1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2.0-alpha.6") (d #t) (k 2)))) (h "097irshqsz8g6cs970nb3hk7bl57q21fkw0snv9fr1p3m2r6c6xg")))
+
+(define-public crate-abuseipdb-0.2.1 (c (n "abuseipdb") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "jsonapi") (r "^0.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "~1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "~1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (f (quote ("full"))) (d #t) (k 2)))) (h "0dhs41z5jkdfikfw6z4nj5diqyx23hqpwq0yinnm9rnlhdk9m4dw")))
+

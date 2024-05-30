@@ -1,0 +1,24 @@
+(define-module (crates-io in t- int-enum) #:use-module (crates-io))
+
+(define-public crate-int-enum-0.1.0 (c (n "int-enum") (v "0.1.0") (d (list (d (n "int-enum-impl") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1bvvb999iakh7kxj6zpq69fd8wsrs26pisp37b30qnw0fdx9mcx3")))
+
+(define-public crate-int-enum-0.1.1 (c (n "int-enum") (v "0.1.1") (d (list (d (n "int-enum-impl") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1vws4i6kwmvxlb47q87ka0m9c9769925mvmy7mvy7r8s8lba6l15")))
+
+(define-public crate-int-enum-0.2.0 (c (n "int-enum") (v "0.2.0") (d (list (d (n "int-enum-impl") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1zzapzs4cbaxdsfza2vk0s35hva77qhpq9lb3s8gjrlb9jp94djd")))
+
+(define-public crate-int-enum-0.3.0 (c (n "int-enum") (v "0.3.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "int-enum-impl") (r "^0.3") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1a04cmdyax950pnw8c5w8smvznznmwqgkbzx03v6348pp2dl1gdg") (f (quote (("std" "int-enum-impl/std") ("serialize" "serde" "int-enum-impl/serialize") ("default" "std") ("convert" "int-enum-impl/convert") ("alloc" "int-enum-impl/alloc"))))))
+
+(define-public crate-int-enum-0.4.0 (c (n "int-enum") (v "0.4.0") (d (list (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "int-enum-impl") (r "^0.4") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "serde_crate") (r "^1") (o #t) (d #t) (k 0) (p "serde")) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0xy1jfiknkl7qjgw4v0hw4hbmxhjmg81f2nvxvk5ksdbn6r2h51b") (f (quote (("std" "int-enum-impl/std") ("serde" "serde_crate" "int-enum-impl/serde") ("default" "std") ("convert" "int-enum-impl/convert"))))))
+
+(define-public crate-int-enum-0.5.0 (c (n "int-enum") (v "0.5.0") (d (list (d (n "int-enum-impl") (r "^0.5") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0va7ckqz71w3nd5vsf50nv74la278bb6hl67wdclb6xpqhy7vy6g") (f (quote (("std" "int-enum-impl/std") ("default" "std") ("convert" "int-enum-impl/convert")))) (s 2) (e (quote (("serde" "dep:serde" "int-enum-impl/serde")))) (r "1.60")))
+
+(define-public crate-int-enum-1.0.0 (c (n "int-enum") (v "1.0.0") (d (list (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 2)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "1h45ymnhiq4kl5ywar4q4dikywl3icdrzs2vl836yalz60ljb3dn") (r "1.64")))
+
+(define-public crate-int-enum-1.0.1 (c (n "int-enum") (v "1.0.1") (d (list (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 2)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "1c4x6c1zjz4clm7dxmkqcy6f5qfgr2xsmb16ybz76j5w31fa9rmj") (r "1.64")))
+
+(define-public crate-int-enum-1.1.0 (c (n "int-enum") (v "1.1.0") (d (list (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 2)) (d (n "syn") (r "^2.0.53") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.90") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "0rc96xr8l3mn2vj2kgmrk9q3zlii0c8yhx732d2z01mllcyd8b5h") (y #t) (r "1.70")))
+
+(define-public crate-int-enum-1.1.1 (c (n "int-enum") (v "1.1.1") (d (list (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 2)) (d (n "syn") (r "^2.0.53") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.90") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "0lfgpipps9k5bbbr4kh491m0r2l9jaaym4wqs5ldbfg5q94ix6wn") (r "1.70")))
+
+(define-public crate-int-enum-1.1.2 (c (n "int-enum") (v "1.1.2") (d (list (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "proc-macro2-diagnostics") (r "^0.10.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 2)) (d (n "syn") (r "^2.0.53") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.90") (d #t) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "0a3i0jfq5lnsmpl553xs09nniwygzryk75zdkf5yrkvf3k0sjdvs") (r "1.70")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io in te interiors) #:use-module (crates-io))
+
+(define-public crate-interiors-0.1.0 (c (n "interiors") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "ctor") (r "^0.2.7") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9") (d #t) (k 2)) (d (n "full") (r "^0.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sparsetools") (r "^0.2.1") (d #t) (k 0)) (d (n "spsolve") (r "^0.1") (d #t) (k 0)) (d (n "spsolve") (r "^0.1") (f (quote ("rlu"))) (d #t) (k 2)))) (h "0fiq58wcff9hjspm1sg79vh0gwpcfwmin1ypd34k14sfmkkpbpmw")))
+
+(define-public crate-interiors-0.1.1 (c (n "interiors") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "ctor") (r "^0.2.7") (d #t) (k 2)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)) (d (n "float-cmp") (r "^0.9") (d #t) (k 2)) (d (n "full") (r "^0.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-complex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sparsetools") (r "^0.2.1") (d #t) (k 0)) (d (n "spsolve") (r "^0.1") (d #t) (k 0)) (d (n "spsolve") (r "^0.1") (f (quote ("rlu"))) (d #t) (k 2)))) (h "0ikls3wxz6688w2k7vsjzw0drk4sbhch7bamcn0ckdbbrbhwap21") (f (quote (("step-control"))))))
+

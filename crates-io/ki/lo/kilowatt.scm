@@ -1,0 +1,14 @@
+(define-module (crates-io ki lo kilowatt) #:use-module (crates-io))
+
+(define-public crate-kilowatt-0.1.0 (c (n "kilowatt") (v "0.1.0") (d (list (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "0qinic9zv2imn1zbyh9wmmfkab5195xyc8n2l4l8nf8nzpdygw6m")))
+
+(define-public crate-kilowatt-0.1.1 (c (n "kilowatt") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "0ysnznd0n7hacc0rx8q6z18ihf2gr27sqcl9krjq9fqk81qnmjga")))
+
+(define-public crate-kilowatt-0.1.2 (c (n "kilowatt") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "1ga05rxj8px5h81slhpd4a8whl4mv0jfq3v1l2sj3fpn9lq65prl")))
+
+(define-public crate-kilowatt-0.1.3 (c (n "kilowatt") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-build") (r "^0.11") (d #t) (k 1)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "1qw7s6lwzbpjn9yl81bbwvdi4bnjjxf1y9wi2dn2s2mndgi47g2s")))
+
+(define-public crate-kilowatt-0.1.4 (c (n "kilowatt") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-build") (r "^0.11") (d #t) (k 1)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "12dfmgmc32vv81jd9x4z32rk4w0i0djg421sdi3mxzys6a8x8c5j")))
+
+(define-public crate-kilowatt-0.1.5 (c (n "kilowatt") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "prost-build") (r "^0.11") (d #t) (k 1)) (d (n "prost-types") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tonic") (r "^0.8") (d #t) (k 0)) (d (n "tonic-build") (r "^0.8") (d #t) (k 1)))) (h "1qqgpgisz8qwrgyx4897zhqzzrx39fckp5fh731dbfiha1abp98b")))
+

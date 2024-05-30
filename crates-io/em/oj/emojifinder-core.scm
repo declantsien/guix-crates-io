@@ -1,0 +1,6 @@
+(define-module (crates-io em oj emojifinder-core) #:use-module (crates-io))
+
+(define-public crate-emojifinder-core-0.1.0 (c (n "emojifinder-core") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "image") (r "^0.19.0") (d #t) (k 0)) (d (n "lz4") (r "^1.23.1") (d #t) (k 0)) (d (n "nsvg") (r "^0.5.1") (d #t) (k 0)) (d (n "rayon") (r "^1.2.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (d #t) (k 0)) (d (n "trigram") (r "^0.4.4") (d #t) (k 0)))) (h "09s25sa4v1z6h5afh85rcdb42313p0m1gkiail48g94idj85crzg")))
+
+(define-public crate-emojifinder-core-0.2.0 (c (n "emojifinder-core") (v "0.2.0") (d (list (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "lz4") (r "^1.23.2") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "resvg") (r "^0.22.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.6.3") (d #t) (k 0)) (d (n "trigram") (r "^0.4.4") (d #t) (k 0)) (d (n "usvg") (r "^0.22.0") (d #t) (k 0)))) (h "1lqyhp7clx4rx6fg539qav6lhq9c3i24rxy6rba04mbfwhvm2rcv")))
+

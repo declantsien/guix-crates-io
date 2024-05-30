@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-balances) #:use-module (crates-io))
+
+(define-public crate-noble-balances-2.0.1 (c (n "noble-balances") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "fabric-benchmarking") (r "^2.0.0") (o #t) (k 0)) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "serde") (r "^1.0.101") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 2)) (d (n "tet-io") (r "^2.0.2") (d #t) (k 2)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "05zgi56kwpfsnrbr9spxjnhdnbf8y789q52jqa8i3p629qxp7vkb") (f (quote (("std" "serde" "codec/std" "tetcore-std/std" "tp-runtime/std" "fabric-benchmarking/std" "fabric-support/std" "fabric-system/std") ("runtime-benchmarks" "fabric-benchmarking") ("default" "std"))))))
+

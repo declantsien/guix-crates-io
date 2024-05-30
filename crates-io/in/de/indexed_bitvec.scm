@@ -1,0 +1,16 @@
+(define-module (crates-io in de indexed_bitvec) #:use-module (crates-io))
+
+(define-public crate-indexed_bitvec-2.0.0 (c (n "indexed_bitvec") (v "2.0.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "indexed_bitvec_core") (r "^2.0") (d #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 2)))) (h "16k2mrkm1lmgagvd3hlrs6lnnr8yhdapk7s33gwqn7qwg36mx7xp")))
+
+(define-public crate-indexed_bitvec-2.1.0 (c (n "indexed_bitvec") (v "2.1.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "indexed_bitvec_core") (r "^2.1") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "076lfky1k5csy627xjkq16v4p6x8hwba7kz8p0prkpqwbh1l8wxw")))
+
+(define-public crate-indexed_bitvec-2.2.0 (c (n "indexed_bitvec") (v "2.2.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "indexed_bitvec_core") (r "^2.2") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)))) (h "1wh5ip6d23jra2qdrln769k5zry3s83qmkk9yq00pc7gc4hdz6fh")))
+
+(define-public crate-indexed_bitvec-2.3.0 (c (n "indexed_bitvec") (v "2.3.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "indexed_bitvec_core") (r "^3.0") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.1") (d #t) (k 2)))) (h "18a86dlwc3nmxvm78gll45x51d69dgrn6s6rjj2higqd7jwh5xa9") (f (quote (("implement_heapsize" "heapsize" "indexed_bitvec_core/implement_heapsize") ("default"))))))
+
+(define-public crate-indexed_bitvec-2.4.0 (c (n "indexed_bitvec") (v "2.4.0") (d (list (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "indexed_bitvec_core") (r "^3") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.1") (d #t) (k 2)))) (h "1hbvdq4h0yib265z3s24vbb680vz7n4b1b1qp5iyj5qjjxjpzvkw") (f (quote (("implement_heapsize" "heapsize" "indexed_bitvec_core/implement_heapsize") ("default"))))))
+
+(define-public crate-indexed_bitvec-4.0.0 (c (n "indexed_bitvec") (v "4.0.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "indexed_bitvec_core") (r "^4") (d #t) (k 0)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "quickcheck") (r "^0.8") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "07a7wn3hifc36ql1aq2zgxds4vs7qv9bfirgk1bdl3svgayyw82a") (f (quote (("implement_heapsize" "heapsize") ("default")))) (y #t)))
+
+(define-public crate-indexed_bitvec-4.0.1 (c (n "indexed_bitvec") (v "4.0.1") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "heapsize") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "indexed_bitvec_core") (r "^4") (d #t) (k 0)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "quickcheck") (r "^0.8") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_xorshift") (r "^0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "0yl8i1ag7f9wph3mw5hnmlpa2fdngm8hhz69j4qn5j7bdqrycx7c") (f (quote (("implement_heapsize" "heapsize") ("default"))))))
+

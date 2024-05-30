@@ -1,0 +1,6 @@
+(define-module (crates-io sa tp satpoint-jsonrpc) #:use-module (crates-io))
+
+(define-public crate-satpoint-jsonrpc-0.16.0 (c (n "satpoint-jsonrpc") (v "0.16.0") (d (list (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "minreq") (r "^2.7.0") (f (quote ("json-using-serde" "https"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "socks") (r "^0.3.4") (o #t) (d #t) (k 0)))) (h "1j3fdysjcb101x1gjfqpywbir3qq3h4k8i6fnx6cn1fggwks08q1") (f (quote (("simple_uds") ("simple_tcp") ("simple_http" "base64") ("proxy" "socks") ("minreq_http" "base64" "minreq") ("default" "simple_http" "simple_tcp"))))))
+
+(define-public crate-satpoint-jsonrpc-0.16.1 (c (n "satpoint-jsonrpc") (v "0.16.1") (d (list (d (n "base64") (r "^0.13.0") (o #t) (d #t) (k 0)) (d (n "minreq") (r "^2.7.0") (f (quote ("json-using-serde" "https"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "socks") (r "^0.3.4") (o #t) (d #t) (k 0)))) (h "1r7x68icg0xf51is1fgd3q6pdm6v19xmgvnwf8vg3ww4slcb984g") (f (quote (("simple_uds") ("simple_tcp") ("simple_http" "base64") ("proxy" "socks") ("minreq_http" "base64" "minreq") ("default" "simple_http" "simple_tcp"))))))
+

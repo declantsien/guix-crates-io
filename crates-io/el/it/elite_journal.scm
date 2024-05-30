@@ -1,0 +1,6 @@
+(define-module (crates-io el it elite_journal) #:use-module (crates-io))
+
+(define-public crate-elite_journal-0.0.1-dev+alpha (c (n "elite_journal") (v "0.0.1-dev+alpha") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "geozero") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (o #t) (d #t) (k 0)))) (h "145c0pprva9y4r36psi726m8hz8pbm1zfr1i3zmskav5wp83j11k") (f (quote (("with-sqlx" "sqlx/runtime-async-std-native-tls") ("with-postgis-sqlx" "with-sqlx" "geozero/with-wkb" "geozero/with-postgis-sqlx"))))))
+
+(define-public crate-elite_journal-0.0.1-dev+alpha-0x01 (c (n "elite_journal") (v "0.0.1-dev+alpha-0x01") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "geozero") (r "^0.7") (d #t) (t "cfg(unix)") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (o #t) (d #t) (t "cfg(unix)") (k 0)))) (h "0k1ps4dgq0a1mpk7gdx5dnk9h4ab64z3xy41871rxa251pi6shj3") (f (quote (("with-sqlx" "sqlx/runtime-async-std-native-tls") ("with-postgis-sqlx" "with-sqlx" "geozero/with-wkb" "geozero/with-postgis-sqlx"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bo to botocore_parser) #:use-module (crates-io))
+
+(define-public crate-botocore_parser-0.1.0 (c (n "botocore_parser") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.1.6") (d #t) (k 0)) (d (n "regex") (r "^0.1.41") (d #t) (k 0)) (d (n "serde") (r "^0.6.13") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.6.13") (o #t) (d #t) (k 0)) (d (n "serde_codegen") (r "^0.6.13") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_macros") (r "^0.6.13") (o #t) (d #t) (k 0)) (d (n "syntex") (r "^0.28.0") (d #t) (k 1)))) (h "02hna08vi4xb2imykh9wminiqkrpxn989bdrcyv7yap879987y0k") (f (quote (("nightly" "serde_macros") ("default" "serde_codegen"))))))
+
+(define-public crate-botocore_parser-0.1.1 (c (n "botocore_parser") (v "0.1.1") (d (list (d (n "Inflector") (r "^0.1.6") (d #t) (k 0)) (d (n "regex") (r "^0.1.41") (d #t) (k 0)) (d (n "serde") (r "^0.6.13") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.6.13") (o #t) (d #t) (k 0)) (d (n "serde_codegen") (r "^0.6.13") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_macros") (r "^0.6.13") (o #t) (d #t) (k 0)) (d (n "syntex") (r "^0.29.0") (d #t) (k 1)))) (h "12lh93piz4mv6anxb27cz2qvr1p2xvg62h8bwsxpbmsl526fjq1r") (f (quote (("nightly" "serde_macros") ("default" "serde_codegen"))))))
+

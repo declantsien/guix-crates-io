@@ -1,0 +1,8 @@
+(define-module (crates-io tc -f tc-fetch) #:use-module (crates-io))
+
+(define-public crate-tc-fetch-0.3.0 (c (n "tc-fetch") (v "0.3.0") (d (list (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1vxirmvs0v5jhnz6898rc58i0vyb8b2v36ls3d5rx7cbkmnkdghz")))
+
+(define-public crate-tc-fetch-0.4.0 (c (n "tc-fetch") (v "0.4.0") (d (list (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "gzip" "rustls-tls"))) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0qlds5z2zsx3hk7z626i2kdlksccxz3xvz4naa5y9ggb8h72hd51")))
+
+(define-public crate-tc-fetch-0.4.1 (c (n "tc-fetch") (v "0.4.1") (d (list (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "gzip" "rustls-tls"))) (k 0)) (d (n "scoped_threadpool") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0w36wabyzd493ga92x9h5c8wql8y1i2cd7b8al8ddv30r98dq81v")))
+

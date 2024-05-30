@@ -1,0 +1,6 @@
+(define-module (crates-io az ul azul-widgets) #:use-module (crates-io))
+
+(define-public crate-azul-widgets-0.0.1 (c (n "azul-widgets") (v "0.0.1") (d (list (d (n "azul-core") (r "^0.0.1") (k 0)) (d (n "azul-css") (r "^0.0.1") (k 0)) (d (n "gleam") (r "^0.11.0") (o #t) (k 0)) (d (n "lyon") (r "^0.15.5") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_derive") (r "^1") (o #t) (k 0)) (d (n "stb_truetype") (r "^0.3.1") (o #t) (k 0)) (d (n "usvg") (r "^0.9.0") (o #t) (k 0)))) (h "1fixrdw44nw7nhhpdbddfy8a6q5rkhxywqgwxhamlj2akqj5ahym") (f (quote (("svg_parsing" "usvg" "svg" "fonts") ("svg" "lyon" "gleam") ("serde_serialization" "serde_derive" "serde") ("fonts" "stb_truetype") ("default"))))))
+
+(define-public crate-azul-widgets-0.0.2 (c (n "azul-widgets") (v "0.0.2") (d (list (d (n "azul-core") (r "^0.0.2") (f (quote ("opengl"))) (k 0)) (d (n "azul-css") (r "^0.0.1") (k 0)) (d (n "gleam") (r "^0.11.0") (o #t) (k 0)) (d (n "lyon") (r "^0.15.5") (o #t) (k 0)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_derive") (r "^1") (o #t) (k 0)) (d (n "stb_truetype") (r "^0.3.1") (o #t) (k 0)) (d (n "usvg") (r "^0.9.0") (o #t) (k 0)))) (h "1wi641ssk5j2s6jqq1cg7ybr8hd245vwji74gqfm8m39y36pdd00") (f (quote (("svg_parsing" "usvg" "svg" "fonts") ("svg" "lyon" "gleam") ("serde_serialization" "serde_derive" "serde") ("fonts" "stb_truetype") ("default"))))))
+

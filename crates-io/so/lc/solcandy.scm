@@ -1,0 +1,6 @@
+(define-module (crates-io so lc solcandy) #:use-module (crates-io))
+
+(define-public crate-solcandy-0.1.0 (c (n "solcandy") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "solana-account-decoder") (r "^1.10.0") (d #t) (k 0)) (d (n "solana-client") (r "^1.10.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.10.0") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.19") (d #t) (k 2)))) (h "195v40007mlx1cg0kwj5s2hqjq2qy0lffcrcgl7p3iq781r294y6") (s 2) (e (quote (("serde" "dep:serde"))))))
+
+(define-public crate-solcandy-0.1.1 (c (n "solcandy") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "solana-account-decoder") (r "^1.10.0") (d #t) (k 0)) (d (n "solana-client") (r "^1.10.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.10.0") (d #t) (k 0)) (d (n "solana-sdk") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.19") (d #t) (k 2)))) (h "0xbvfdry2j7965y6vv9ky6krkix3a1n9ryvz72l056pifzsv9sy3") (f (quote (("dev")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

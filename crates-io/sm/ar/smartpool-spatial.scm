@@ -1,0 +1,14 @@
+(define-module (crates-io sm ar smartpool-spatial) #:use-module (crates-io))
+
+(define-public crate-smartpool-spatial-0.1.0 (c (n "smartpool-spatial") (v "0.1.0") (d (list (d (n "atomic") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "manhattan-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.5") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "smartpool") (r "^0.1.0") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 2)))) (h "1nyqdr6mfmgzzvh42ybfl7srbzjn66rkj0v58z68kw8kl45176rl")))
+
+(define-public crate-smartpool-spatial-0.2.0 (c (n "smartpool-spatial") (v "0.2.0") (d (list (d (n "atomic") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "manhattan-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.5") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "smartpool") (r "^0.2.0") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 2)))) (h "1kv2hfl78lvk08nq92rqn0n22xy8qd5f642cv2dr78ly3jsh1jah")))
+
+(define-public crate-smartpool-spatial-0.2.1 (c (n "smartpool-spatial") (v "0.2.1") (d (list (d (n "atomic") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "manhattan-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.5") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "smartpool") (r "^0.2.1") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 2)))) (h "0rilm8hq6q2msnj1ixgwvw0gy330gfgsa1z8qbg6ckzfxx674857")))
+
+(define-public crate-smartpool-spatial-0.3.0 (c (n "smartpool-spatial") (v "0.3.0") (d (list (d (n "atomic") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "manhattan-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.5") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "smartpool") (r "^0.3.0") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 2)))) (h "0fgdh4zfw0frbnbrml5zwcfq7kvvcwy2yhq9fjd2qp6g6wjq07cn")))
+
+(define-public crate-smartpool-spatial-0.3.1 (c (n "smartpool-spatial") (v "0.3.1") (d (list (d (n "atomic") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "manhattan-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.5") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "smartpool") (r "^0.3.1") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 2)))) (h "1dr2snppnyccc3j9sxf6z368fggpqx8w9r095jy24h0z6ahwlbiz")))
+
+(define-public crate-smartpool-spatial-0.3.2 (c (n "smartpool-spatial") (v "0.3.2") (d (list (d (n "atomic") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "manhattan-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2.5") (d #t) (k 2)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "smartpool") (r "^0.3.2") (d #t) (k 0)) (d (n "stopwatch") (r "^0.0.7") (d #t) (k 2)))) (h "141hhjfx48smzvxj26wqkcc6g2x065lx1ihsjhdvfag1m3s3qbad")))
+

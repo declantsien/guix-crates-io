@@ -1,0 +1,6 @@
+(define-module (crates-io al ex alexcrichton-cranelift-module) #:use-module (crates-io))
+
+(define-public crate-alexcrichton-cranelift-module-0.52.0 (c (n "alexcrichton-cranelift-module") (v "0.52.0") (d (list (d (n "alexcrichton-cranelift-codegen") (r "^0.52.0") (k 0)) (d (n "alexcrichton-cranelift-entity") (r "^0.52.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.6") (k 0)) (d (n "thiserror") (r "^1.0.4") (d #t) (k 0)))) (h "04vw9197vwhrqr2pg678ynvm335xx03y236lw5q0zv0kdni8cjsf") (f (quote (("std" "alexcrichton-cranelift-codegen/std") ("default" "std") ("core" "hashbrown" "alexcrichton-cranelift-codegen/core"))))))
+
+(define-public crate-alexcrichton-cranelift-module-0.53.0 (c (n "alexcrichton-cranelift-module") (v "0.53.0") (d (list (d (n "alexcrichton-cranelift-codegen") (r "^0.53.0") (k 0)) (d (n "alexcrichton-cranelift-entity") (r "^0.53.0") (d #t) (k 0)) (d (n "hashbrown") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.6") (k 0)) (d (n "thiserror") (r "^1.0.4") (d #t) (k 0)))) (h "02wsvp8j0s5a3r1cvx9v7b6xigqgh4ml2zb3j3iz1j4khpvxg360") (f (quote (("std" "alexcrichton-cranelift-codegen/std") ("default" "std") ("core" "hashbrown" "alexcrichton-cranelift-codegen/core"))))))
+

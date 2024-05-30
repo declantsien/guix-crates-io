@@ -1,0 +1,12 @@
+(define-module (crates-io de no denox_wsi) #:use-module (crates-io))
+
+(define-public crate-denox_wsi-0.1.0 (c (n "denox_wsi") (v "0.1.0") (d (list (d (n "deno_core") (r "^0.168.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.1.0") (d #t) (k 0) (p "denox_webgpu")) (d (n "serde") (r "=1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "=1.24.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 0)))) (h "1xcn92yk13xij4jvg8rjlmimsr3bpq7p80mjxszg72cmqcjh04ky")))
+
+(define-public crate-denox_wsi-0.2.0 (c (n "denox_wsi") (v "0.2.0") (d (list (d (n "deno_core") (r "^0.168.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.2.0") (d #t) (k 0) (p "denox_webgpu")) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "=1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "=1.24.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 0)))) (h "0lxlld0yqlrj57fh6n8mlp76yzjzg03bpqqnjv23nyzl4y3slg2c")))
+
+(define-public crate-denox_wsi-0.2.1 (c (n "denox_wsi") (v "0.2.1") (d (list (d (n "deno_core") (r "^0.168.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.2.1") (d #t) (k 0) (p "denox_webgpu")) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "=1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "=1.24.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 0)))) (h "12sjxz0c9ldhgk37ab8a1lb12hqdndfmzsnp6bniy6nmjv4d8c9p")))
+
+(define-public crate-denox_wsi-0.3.0 (c (n "denox_wsi") (v "0.3.0") (d (list (d (n "deno_core") (r "^0.170.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.3.0") (d #t) (k 0) (p "denox_webgpu")) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "=1.24.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 0)))) (h "16wnxc7yvn7imf1mdypiwb67js51ghasm1rgr9yng1zfpf8sa7ci")))
+
+(define-public crate-denox_wsi-0.3.1 (c (n "denox_wsi") (v "0.3.1") (d (list (d (n "deno_core") (r "^0.170.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.3.1") (d #t) (k 0) (p "denox_webgpu")) (d (n "raw-window-handle") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "=1.24.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "winit") (r "^0.27.5") (d #t) (k 0)))) (h "16j6310za94gbsa52220f7zivn7pkjbvjh1nsxhfarw24143ninv")))
+

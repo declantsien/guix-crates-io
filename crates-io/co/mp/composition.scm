@@ -1,0 +1,4 @@
+(define-module (crates-io co mp composition) #:use-module (crates-io))
+
+(define-public crate-composition-0.1.0 (c (n "composition") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.8") (d #t) (k 0)) (d (n "fern") (r "^0.6") (f (quote ("colored"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "radix64") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1hx4rcywh89l59p3bs03i7hbkgh5yp14mj28g82r6g050la2j0mm")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io vo x- vox-format) #:use-module (crates-io))
+
+(define-public crate-vox-format-0.1.0 (c (n "vox-format") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "image") (r "^0.23") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mint") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.28") (o #t) (d #t) (k 0)) (d (n "palette") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-big-array") (r "^0.3") (f (quote ("const-generics"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ami9p181clx7p4in3l0big302in498f5yz25xcqd4mrpza0f75l") (f (quote (("serialize" "serde" "serde-big-array") ("full" "image" "mint" "nalgebra" "serialize") ("default"))))))
+

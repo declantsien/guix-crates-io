@@ -1,0 +1,6 @@
+(define-module (crates-io en um enum-str-derive) #:use-module (crates-io))
+
+(define-public crate-enum-str-derive-0.1.1 (c (n "enum-str-derive") (v "0.1.1") (d (list (d (n "bytes") (r "^1.4") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "postgres-protocol") (r "^0.6") (d #t) (k 2)) (d (n "postgres-types") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1d8m4gc9z00cdxcsngq55lr0i219g0ld75ycivvwb0h098hb2wrw") (f (quote (("serde") ("postgres") ("default"))))))
+
+(define-public crate-enum-str-derive-0.1.3 (c (n "enum-str-derive") (v "0.1.3") (d (list (d (n "bytes") (r "^1.4") (d #t) (k 2)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "postgres-protocol") (r "^0.6") (d #t) (k 2)) (d (n "postgres-types") (r "^0.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.56") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0.107") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "02ksrm240blgyhqzhy726ffp4nzd3il0ac3d4n7v8cg1by7d58qf") (f (quote (("serde") ("postgres") ("default"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io gi t- git-radar-rs) #:use-module (crates-io))
+
+(define-public crate-git-radar-rs-0.1.0 (c (n "git-radar-rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 0)) (d (n "git2") (r "^0") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "07jhs3wh9di43fm697rzszhl7rpfham55122v46lnhi1g37d9gah") (f (quote (("libgit" "git2") ("default" "libgit"))))))
+
+(define-public crate-git-radar-rs-0.1.1 (c (n "git-radar-rs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 0)) (d (n "git2") (r "^0") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "17r0al80xy0q7fwfpazjy1xjy4aydjfbd4gxi3ps6qynlk7fm9xv") (f (quote (("libgit" "git2") ("default" "libgit"))))))
+
+(define-public crate-git-radar-rs-0.1.2 (c (n "git-radar-rs") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "derive" "env"))) (d #t) (k 0)) (d (n "dirs") (r "^5") (d #t) (k 0)) (d (n "git2") (r "^0") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0") (d #t) (k 0)))) (h "1cf209qwx8pkimkq6gncc3bkxmxsl63i6n1if6k24hwb394rbdrz") (f (quote (("libgit" "git2") ("default" "libgit"))))))
+

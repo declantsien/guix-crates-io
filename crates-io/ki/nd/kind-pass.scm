@@ -1,0 +1,10 @@
+(define-module (crates-io ki nd kind-pass) #:use-module (crates-io))
+
+(define-public crate-kind-pass-0.1.0 (c (n "kind-pass") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "im-rc") (r "^15.1.0") (d #t) (k 0)) (d (n "kind-derive") (r "^0.1.0") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.0") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.0") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)))) (h "00qjlm2pwabw8psrp3vwzw8yi4q4igfksc8iana26cvff6d7f3wx")))
+
+(define-public crate-kind-pass-0.1.1 (c (n "kind-pass") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "im-rc") (r "^15.1.0") (d #t) (k 0)) (d (n "kind-derive") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.1") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.1") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)))) (h "168gm899gy0g4d7skms6aswhggm62piwxas547v721g5c02vaimr")))
+
+(define-public crate-kind-pass-0.1.2 (c (n "kind-pass") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "im-rc") (r "^15.1.0") (d #t) (k 0)) (d (n "kind-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.2") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.2") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)))) (h "1k9s2gzaf6w08gpmh1s4yqwzh1aqsbqgcpd6axpm4z6afv2ypxf5")))
+
+(define-public crate-kind-pass-0.1.3 (c (n "kind-pass") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "im-rc") (r "^15.1.0") (d #t) (k 0)) (d (n "kind-derive") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-report") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-span") (r "^0.1.3") (d #t) (k 0)) (d (n "kind-tree") (r "^0.1.3") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (d #t) (k 0)))) (h "11dbmlcmigqa3f9640q04cm99kbqlwv2bpy879w6ywnfl320avg8")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io wa sm wasm-webidl-bindings-text-parser) #:use-module (crates-io))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.1.0 (c (n "wasm-webidl-bindings-text-parser") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.8.0") (d #t) (k 0)))) (h "0821pnmn9mkx5cd6hfvqwdnkjz3yxb429gzwc0j0szwh5kpdws74")))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.1.1 (c (n "wasm-webidl-bindings-text-parser") (v "0.1.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.8.0") (d #t) (k 0)))) (h "0h97lsr1pvp1qcikd771dz1i2m6dz3pm0n28a89a3ybx2mz77sq2")))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.1.2 (c (n "wasm-webidl-bindings-text-parser") (v "0.1.2") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.8.0") (d #t) (k 0)))) (h "0x57bzvzjg3jwi7cj1ibckd3zj40qdldws5s323ls0ap06ngzkck")))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.5.0 (c (n "wasm-webidl-bindings-text-parser") (v "0.5.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.12.0") (d #t) (k 0)))) (h "0dkjc62jwwr0g4myj2bhc20irq7dhv4r7c65r84i672jd5nmi8il")))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.6.0 (c (n "wasm-webidl-bindings-text-parser") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.18") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.13.0") (d #t) (k 0)))) (h "0zs92sh3rl0qcw97z5bkrr1k6vm6kmf0idxk5ivyrig9qkwlg5cs")))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.7.0 (c (n "wasm-webidl-bindings-text-parser") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.18") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.14.0") (d #t) (k 0)))) (h "0k42w6j7mfcbwzp3yry7pmyjsndakvg1jcfrsyqdsvwgfrqc7xjc")))
+
+(define-public crate-wasm-webidl-bindings-text-parser-0.8.0 (c (n "wasm-webidl-bindings-text-parser") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.18") (d #t) (k 0)) (d (n "lalrpop") (r "^0.17.1") (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.17.1") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "regex") (r "^1.1.7") (d #t) (k 0)) (d (n "walrus") (r "^0.15.0") (d #t) (k 0)))) (h "0dngrrhld585pg1gba7xj8d1qk6gspr2siansy0hxickr24ab7gy")))
+

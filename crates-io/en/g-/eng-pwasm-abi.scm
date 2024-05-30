@@ -1,0 +1,10 @@
+(define-module (crates-io en g- eng-pwasm-abi) #:use-module (crates-io))
+
+(define-public crate-eng-pwasm-abi-0.2.1 (c (n "eng-pwasm-abi") (v "0.2.1") (d (list (d (n "byteorder") (r "^1.2") (k 0)) (d (n "hex-literal") (r "^0.1") (d #t) (k 2)) (d (n "parity-hash") (r "^1.2") (k 0)) (d (n "uint") (r "^0.3") (k 0)))) (h "1hw01pa4mys0g03nwzi92kvrsxa02d8lkc2i5f853wn5sy3j99gn") (f (quote (("strict") ("std" "uint/std" "byteorder/std") ("default"))))))
+
+(define-public crate-eng-pwasm-abi-0.3.0 (c (n "eng-pwasm-abi") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.2") (k 0)) (d (n "fixed-hash") (r "^0.3.0") (k 0)) (d (n "hex-literal") (r "^0.1") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.0.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (k 0)) (d (n "uint") (r "^0.6") (k 0)))) (h "1ynfwc7qskwvgy59gjdi3gadi46ijqv8pg02a9wg9mzh0sgjb2ka") (f (quote (("strict") ("std" "uint/std" "byteorder/std") ("serialize" "serde") ("hex" "rustc-hex") ("default" "serialize" "hex"))))))
+
+(define-public crate-eng-pwasm-abi-0.3.1 (c (n "eng-pwasm-abi") (v "0.3.1") (d (list (d (n "byteorder") (r "^1.2") (k 0)) (d (n "fixed-hash") (r "^0.3.0") (k 0)) (d (n "hex-literal") (r "^0.1") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.0.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (k 0)) (d (n "uint") (r "^0.6") (k 0)))) (h "0522d77sqxhh5js9mhg3yxp11l1rfbwf8fvfvsbvnxkg9ymjy0kk") (f (quote (("strict") ("std" "uint/std" "byteorder/std") ("serialize" "serde") ("hex" "rustc-hex") ("default" "serialize" "hex"))))))
+
+(define-public crate-eng-pwasm-abi-0.3.2 (c (n "eng-pwasm-abi") (v "0.3.2") (d (list (d (n "byteorder") (r "^1.2") (k 0)) (d (n "fixed-hash") (r "^0.3.0") (k 0)) (d (n "hex-literal") (r "^0.1") (d #t) (k 2)) (d (n "rustc-hex") (r "^2.0.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.89") (f (quote ("derive"))) (o #t) (k 0)) (d (n "uint") (r "^0.6") (k 0)))) (h "021cl87fb3xz312ap9aal9z5w92qzng0fdwiw7wzmqkndyxknnmd") (f (quote (("strict") ("std" "uint/std" "byteorder/std") ("serialize" "serde") ("hex" "rustc-hex") ("default" "serialize" "hex"))))))
+

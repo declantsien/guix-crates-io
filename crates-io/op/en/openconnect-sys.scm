@@ -1,0 +1,14 @@
+(define-module (crates-io op en openconnect-sys) #:use-module (crates-io))
+
+(define-public crate-openconnect-sys-0.1.0 (c (n "openconnect-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "home") (r "^0.5.9") (d #t) (k 1)))) (h "0dzmbpbam1zpzmc3b66la88ja6x11pqszjb40c608l3vd6rrz6r6") (y #t)))
+
+(define-public crate-openconnect-sys-0.1.1 (c (n "openconnect-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "home") (r "^0.5.9") (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9.101") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)) (d (n "reqwest") (r "^0.12.2") (f (quote ("multipart" "blocking" "cookies"))) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "1ibgi6y6m648rp56kyi5bzwj8lxk14sdrdgw56acnf5d9r67s329")))
+
+(define-public crate-openconnect-sys-0.1.2 (c (n "openconnect-sys") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "home") (r "^0.5.9") (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9.101") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)) (d (n "reqwest") (r "^0.12.2") (f (quote ("multipart" "blocking" "cookies"))) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "164kp1xxmlycxp53xf0w6mj9mpsnhgxgl3p2pc092plr095blrs8")))
+
+(define-public crate-openconnect-sys-0.1.3 (c (n "openconnect-sys") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "home") (r "^0.5.9") (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9.101") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)) (d (n "reqwest") (r "^0.12.2") (f (quote ("multipart" "blocking" "cookies"))) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "1rj5wf3x8v564pkyhdakxwamfwzmjqyrqagh8bynr4kn4bcbq4zq")))
+
+(define-public crate-openconnect-sys-0.1.4 (c (n "openconnect-sys") (v "0.1.4") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "home") (r "^0.5.9") (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9.101") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)) (d (n "reqwest") (r "^0.12.2") (f (quote ("multipart" "blocking" "cookies"))) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "0jhrl80h57cjkyhhxc2kyiwzs4av3d7svsbcl5fy1zq2slvwd89v")))
+
+(define-public crate-openconnect-sys-0.1.5 (c (n "openconnect-sys") (v "0.1.5") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "home") (r "^0.5.9") (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9.101") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)) (d (n "reqwest") (r "^0.12.2") (f (quote ("multipart" "blocking" "cookies"))) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (d #t) (k 1)))) (h "047xsx0iwzinqh6112ra7cwp415lgm463jva67z3ji0sdkq336fn")))
+

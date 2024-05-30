@@ -1,0 +1,10 @@
+(define-module (crates-io lm ak lmake_cargo_toml_to_md) #:use-module (crates-io))
+
+(define-public crate-lmake_cargo_toml_to_md-0.5.4 (c (n "lmake_cargo_toml_to_md") (v "0.5.4") (d (list (d (n "ansi_term") (r "^0.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.6") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0pzka2n35v1a8cg3rwfzz1ly8awvkm82h1dgrawl61b78yylzqbx") (y #t)))
+
+(define-public crate-lmake_cargo_toml_to_md-0.5.5 (c (n "lmake_cargo_toml_to_md") (v "0.5.5") (d (list (d (n "ansi_term") (r "^0.12.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.6") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0dhs48r6gf7nm8ga0ydfq6jhdxzlmr3sc2l3f05mali8whp3czxm") (y #t)))
+
+(define-public crate-lmake_cargo_toml_to_md-2020.1209.1044 (c (n "lmake_cargo_toml_to_md") (v "2020.1209.1044") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0xfzsqsblz13q27vljndxvvzazdzqdkb3n8c10l7rp7h5c5im4n8") (y #t)))
+
+(define-public crate-lmake_cargo_toml_to_md-2020.1209.1045 (c (n "lmake_cargo_toml_to_md") (v "2020.1209.1045") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "unwrap") (r "^1.2.1") (d #t) (k 0)))) (h "0p00blp4z09rafqs36smb3bgiq3k67yn3lsxwqnz69k61hzl39zw") (y #t)))
+

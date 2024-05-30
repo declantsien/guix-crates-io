@@ -1,0 +1,12 @@
+(define-module (crates-io as yn async-tcp-channel) #:use-module (crates-io))
+
+(define-public crate-async-tcp-channel-0.1.0 (c (n "async-tcp-channel") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0qbldn121hi5v7vcrigincs0y5gf5qmfkgnlw6qmdahnxzqjjh3b")))
+
+(define-public crate-async-tcp-channel-0.1.1 (c (n "async-tcp-channel") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1cs9a5cadrgw0288rlyvnixki3ihvjpwb75i8rybjyg1wzsvphrs")))
+
+(define-public crate-async-tcp-channel-0.1.2 (c (n "async-tcp-channel") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "queues") (r "^1.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0zk8wmjnisd8b1xnlm6hr65zh6dgbnvzjzpwj50h0j5dxx9qfw5y")))
+
+(define-public crate-async-tcp-channel-0.1.3 (c (n "async-tcp-channel") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "queues") (r "^1.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1wwxm68kj0pc3y3wja8062fkl3l5f9hm1vyr762pag3jyb1k4bjx")))
+
+(define-public crate-async-tcp-channel-0.1.4 (c (n "async-tcp-channel") (v "0.1.4") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "queues") (r "^1.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1gwmcb68al67k1d7qgx72a2j7zvyjpkbkksahwz0mxlnpkfffs63")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io no ma nomad-xyz-configuration) #:use-module (crates-io))
+
+(define-public crate-nomad-xyz-configuration-0.1.0-rc.1 (c (n "nomad-xyz-configuration") (v "0.1.0-rc.1") (d (list (d (n "affix") (r "^0.1.2") (d #t) (k 0)) (d (n "ethers") (r "^0.6.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.6") (d #t) (k 0)) (d (n "eyre") (r "^0.6.6") (d #t) (k 1)) (d (n "js-sys") (r "^0.3.56") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (f (quote ("serde-serialize"))) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wee_alloc") (r "^0.4.5") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "1hdfsvjwjsv7r8km8a5xkald5pgqqb122pkqd580l3dq7l038kmc")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io tr ac tracing-oslog) #:use-module (crates-io))
+
+(define-public crate-tracing-oslog-0.1.0 (c (n "tracing-oslog") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.59.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.70") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.20") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.23") (d #t) (k 0)))) (h "1nz3jm95fs6a6lm4a4cy6fqqhgs4gqi26cwhg3cb2n9hn0z1g4lf")))
+
+(define-public crate-tracing-oslog-0.1.1 (c (n "tracing-oslog") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.59.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.70") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.20") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.23") (d #t) (k 0)))) (h "1aqkfv3njnvfjgjvd4hb4sjhj9x28x8m8fnxyap0xzdgf90x7fys")))
+
+(define-public crate-tracing-oslog-0.1.2 (c (n "tracing-oslog") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.59.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.71") (d #t) (k 1)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.2") (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.21") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.1") (d #t) (k 0)))) (h "0iy8dp8fls9c24s3ilx94klxwyzpngkwfmn09cz4h8rl70iq5icv")))
+

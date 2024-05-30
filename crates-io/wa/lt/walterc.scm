@@ -1,0 +1,4 @@
+(define-module (crates-io wa lt walterc) #:use-module (crates-io))
+
+(define-public crate-walterc-0.1.8 (c (n "walterc") (v "0.1.8") (d (list (d (n "cc") (r "^1.0.79") (d #t) (k 0)) (d (n "clap") (r "^4.3.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "enquote") (r "^1.1.0") (d #t) (k 0)) (d (n "git2") (r "^0.17.2") (d #t) (k 0)) (d (n "inkwell") (r "^0.2.0") (f (quote ("llvm15-0"))) (d #t) (k 0)) (d (n "llvm-sys") (r "^150.0.7") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "pest") (r "^2.6.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.22") (d #t) (k 0)))) (h "0021z8g815jr3cxv3m7dawfwn7n1illivd8fpn7drhcv5h54iqjy") (y #t)))
+

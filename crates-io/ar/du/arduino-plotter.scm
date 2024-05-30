@@ -1,0 +1,4 @@
+(define-module (crates-io ar du arduino-plotter) #:use-module (crates-io))
+
+(define-public crate-arduino-plotter-0.1.0 (c (n "arduino-plotter") (v "0.1.0") (d (list (d (n "futures-util") (r "^0.3") (f (quote ("sink"))) (d #t) (k 0)) (d (n "parse-display") (r "^0.9") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "sync" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-websockets") (r "^0.8") (f (quote ("client" "server" "sha1_smol" "rand"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "json"))) (d #t) (k 2)))) (h "11zxm0bnhxabxbp0sbignz5lfhjqi84x05rc8f4q61f0wxmdhzsb") (r "1.70")))
+

@@ -1,0 +1,32 @@
+(define-module (crates-io sw c_ swc_ecma_transforms_macros) #:use-module (crates-io))
+
+(define-public crate-swc_ecma_transforms_macros-0.1.0 (c (n "swc_ecma_transforms_macros") (v "0.1.0") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "0hha6x656pdrncy3mrm497v0x9ncylnwy4qhp836x6gh7gkc7x7s")))
+
+(define-public crate-swc_ecma_transforms_macros-0.1.1 (c (n "swc_ecma_transforms_macros") (v "0.1.1") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "03d7c1m455yq220fasszsvm13vr2mzjhyzrlgpq7wwssf08vbh1q")))
+
+(define-public crate-swc_ecma_transforms_macros-0.1.2 (c (n "swc_ecma_transforms_macros") (v "0.1.2") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1ks5mama4xkplq029xp8dcp3zw22w7qkbm59pwrwb8cxzl73k4zz")))
+
+(define-public crate-swc_ecma_transforms_macros-0.2.0 (c (n "swc_ecma_transforms_macros") (v "0.2.0") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1p7ym0jcv6j95rwlpbg1g7khx9zplrn1bwbgcqkvpwji73kvyvji")))
+
+(define-public crate-swc_ecma_transforms_macros-0.2.1 (c (n "swc_ecma_transforms_macros") (v "0.2.1") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1g00m07nyfyc3iik0g2h1dqnc5d3zd78cciz9hbc48psc7d0ls7p")))
+
+(define-public crate-swc_ecma_transforms_macros-0.2.2 (c (n "swc_ecma_transforms_macros") (v "0.2.2") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "17ig84ds3pibahyfi7vxy7znv9zyfhwyslj2plndnnbrg0870m8c")))
+
+(define-public crate-swc_ecma_transforms_macros-0.2.3 (c (n "swc_ecma_transforms_macros") (v "0.2.3") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "13gdagszb5gigd30q682x5zv1v2clna9k7nvijnimpwqcm1dhfh6")))
+
+(define-public crate-swc_ecma_transforms_macros-0.3.0 (c (n "swc_ecma_transforms_macros") (v "0.3.0") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.2") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1vdvzkcv4ans60yqp9aa8q9y1waqcgg0lm7kvw46b74nmd52ww8q")))
+
+(define-public crate-swc_ecma_transforms_macros-0.4.0 (c (n "swc_ecma_transforms_macros") (v "0.4.0") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.4") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "189kqw0i956irwcnvkqrfvsr806dkmvwv0mifics7ggp1118p6n1")))
+
+(define-public crate-swc_ecma_transforms_macros-0.5.0 (c (n "swc_ecma_transforms_macros") (v "0.5.0") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.4") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "12ydj750vbav6x0xrjld6v0gvn94m0spkbi3nmb24jf5bs9hgygb")))
+
+(define-public crate-swc_ecma_transforms_macros-0.5.1 (c (n "swc_ecma_transforms_macros") (v "0.5.1") (d (list (d (n "pmutil") (r "^0.5.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.7") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "18n9qwl13q5p2f15ziwv257f0kx3znq85gwsix1wa7v8kg35lkcq")))
+
+(define-public crate-swc_ecma_transforms_macros-0.5.2 (c (n "swc_ecma_transforms_macros") (v "0.5.2") (d (list (d (n "pmutil") (r "^0.6.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.8") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1lpg8mmpl1qjlz0a5n9i7mbrkfjvz2s8lvvwzkckm3fpsmp4p77m")))
+
+(define-public crate-swc_ecma_transforms_macros-0.5.3 (c (n "swc_ecma_transforms_macros") (v "0.5.3") (d (list (d (n "pmutil") (r "^0.6.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.8") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1466ik15450lz13b3r0v7rb7mjjwxq1szwjwxwv3hxysjyrfm241")))
+
+(define-public crate-swc_ecma_transforms_macros-0.5.4 (c (n "swc_ecma_transforms_macros") (v "0.5.4") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.9") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "108420nvzdmqkxnfx5zpf5q948n5qacmnk7yyx7aaz9kiyw0kqqp")))
+
+(define-public crate-swc_ecma_transforms_macros-0.5.5 (c (n "swc_ecma_transforms_macros") (v "0.5.5") (d (list (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "swc_macros_common") (r "^0.3.11") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("fold" "parsing" "full"))) (d #t) (k 0)))) (h "1assn76kd11lld5vjn9i1ng7qryyspbb6cyn2zj423hymnnis2jh")))
+

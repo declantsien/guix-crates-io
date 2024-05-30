@@ -1,0 +1,16 @@
+(define-module (crates-io in te intel_tex_2) #:use-module (crates-io))
+
+(define-public crate-intel_tex_2-0.1.0 (c (n "intel_tex_2") (v "0.1.0") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^1.0.4") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^1.0.7") (d #t) (k 0)) (d (n "ispc_rt") (r "^1.0.7") (d #t) (k 1)))) (h "1byiqiv210pm1flqg612nk1djcqd2gmba0f77jwlrm5p4cwzwjvy") (f (quote (("ispc" "ispc_compile" "cc"))))))
+
+(define-public crate-intel_tex_2-0.2.0 (c (n "intel_tex_2") (v "0.2.0") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^1.0.4") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^1.0.7") (d #t) (k 0)) (d (n "ispc_rt") (r "^1.0.7") (d #t) (k 1)))) (h "0qfwn0z4jp3wvy12s74vfm6kymmrzdlqw969d9vjbdn1d5mqlv3l") (f (quote (("ispc" "ispc_compile" "cc"))))))
+
+(define-public crate-intel_tex_2-0.2.1 (c (n "intel_tex_2") (v "0.2.1") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)))) (h "1gk3123wiqzh6ycvx0nawbnja82ws34i7pga9w7jcfhm9i1xx6al") (f (quote (("ispc" "ispc_compile" "cc"))))))
+
+(define-public crate-intel_tex_2-0.2.2 (c (n "intel_tex_2") (v "0.2.2") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)))) (h "1gyccd5kjny6avsm2m8zhzn8vzjqjvkg00jkcxww1vrcsy9bi0w1") (f (quote (("ispc" "ispc_compile" "cc"))))))
+
+(define-public crate-intel_tex_2-0.3.0 (c (n "intel_tex_2") (v "0.3.0") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.24.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2.0.1") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)))) (h "19dam6v7g67wbxw9dylj2ps8spfk5vfcr3xs9lji2vr9zmj8w3j1") (f (quote (("ispc" "ispc_compile" "cc"))))))
+
+(define-public crate-intel_tex_2-0.3.1 (c (n "intel_tex_2") (v "0.3.1") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2.0.1") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)))) (h "0ds4frj30m1g2l50rl5d6hih50y7vxk3dirz8qzk0nay0842p8nj") (f (quote (("ispc" "ispc_compile" "cc")))) (y #t)))
+
+(define-public crate-intel_tex_2-0.4.0 (c (n "intel_tex_2") (v "0.4.0") (d (list (d (n "cc") (r "^1") (o #t) (d #t) (k 1)) (d (n "ddsfile") (r "^0.5.0") (d #t) (k 2)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "ispc_compile") (r "^2.0.1") (o #t) (d #t) (k 1)) (d (n "ispc_rt") (r "^2") (d #t) (k 0)) (d (n "ispc_rt") (r "^2") (d #t) (k 1)))) (h "1p5l6wby055vc410zn6jw08wi3jchc624jmjdp02ib6wd879qsdx") (f (quote (("ispc" "ispc_compile" "cc"))))))
+

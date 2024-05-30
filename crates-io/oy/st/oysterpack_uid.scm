@@ -1,0 +1,8 @@
+(define-module (crates-io oy st oysterpack_uid) #:use-module (crates-io))
+
+(define-public crate-oysterpack_uid-0.1.0 (c (n "oysterpack_uid") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "fern") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4.5") (d #t) (k 2)) (d (n "rusty_ulid") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.32") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1rl39qky2f1l7ylnl76g6mc3j0lzpl4yz6lm6c1w3fbz89basjzz") (f (quote (("serialization" "serde") ("default" "serde"))))))
+
+(define-public crate-oysterpack_uid-0.1.1 (c (n "oysterpack_uid") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "fern") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "log") (r "^0.4.5") (d #t) (k 2)) (d (n "rusty_ulid") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.32") (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "1q01ab5drcssdkhhwgz2z56isvy9cadkfz0msfbkpvd9mkq5b5c6") (f (quote (("serialization" "serde") ("default" "serde"))))))
+
+(define-public crate-oysterpack_uid-0.2.0 (c (n "oysterpack_uid") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "oysterpack_testing") (r "^0.1") (d #t) (k 2)) (d (n "rusty_ulid") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.32") (d #t) (k 2)) (d (n "uuid") (r "^0.6") (f (quote ("v4" "serde"))) (d #t) (k 2)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "0dkjq52k0nwd54c302n25aw4ygxil2vidq0lx5y7hf90ffn5l6ng")))
+

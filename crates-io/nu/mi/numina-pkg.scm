@@ -1,0 +1,6 @@
+(define-module (crates-io nu mi numina-pkg) #:use-module (crates-io))
+
+(define-public crate-numina-pkg-0.1.0 (c (n "numina-pkg") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.3.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.3.0") (f (quote ("cosmwasm_1_2"))) (d #t) (k 0)) (d (n "cw-asset") (r "^3.0.0") (d #t) (k 0)) (d (n "cw20") (r "^1.1.0") (d #t) (k 0)) (d (n "osmosis-std") (r "^0.19.1") (d #t) (k 0)) (d (n "pyth-sdk-cw") (r "^1.2.0") (d #t) (k 0)) (d (n "rhaki-cw-plus") (r "^0.6.5") (d #t) (k 0)) (d (n "serde-json-wasm") (r "^1.0.0") (d #t) (k 0)))) (h "1sqvkaykw08nv85chxgxvss7np74d8szwcdixdsf6lsxzkv834l3")))
+
+(define-public crate-numina-pkg-0.1.1 (c (n "numina-pkg") (v "0.1.1") (d (list (d (n "cosmwasm-schema") (r "^1.3.0") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.3.0") (f (quote ("cosmwasm_1_2"))) (d #t) (k 0)) (d (n "cw-asset") (r "^3.0.0") (d #t) (k 0)) (d (n "cw20") (r "^1.1.0") (d #t) (k 0)) (d (n "osmosis-std") (r "^0.19.1") (d #t) (k 0)) (d (n "pyth-sdk-cw") (r "^1.2.0") (d #t) (k 0)) (d (n "rhaki-cw-plus") (r "^0.6.10") (d #t) (k 0)) (d (n "serde-json-wasm") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)))) (h "098k58wm1h38qfa57f9jmj8vdwwfpwai40s12iy8q47mjsjin5cc")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ob s_ obs_hotkeys) #:use-module (crates-io))
+
+(define-public crate-obs_hotkeys-1.0.0 (c (n "obs_hotkeys") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "obws") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0srl4x01qpfljfi8a76wvcv3b4mdclxypy4n7ixg60q6l62cgq5j")))
+
+(define-public crate-obs_hotkeys-1.0.1 (c (n "obs_hotkeys") (v "1.0.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "obws") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1jz3s0dwd9g4ivdrdscp208gnk46rcbncd9ynfnlfng445z4haxx")))
+
+(define-public crate-obs_hotkeys-1.0.2 (c (n "obs_hotkeys") (v "1.0.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "obws") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "04rq93a81r0d94947wmnvdlz3w3d8r0sca1x141q80gqkcr0rpkw")))
+
+(define-public crate-obs_hotkeys-1.0.3 (c (n "obs_hotkeys") (v "1.0.3") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "obws") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "13fr4fzpxr0y3fq5f89pjl4lawmk39dsvijsyyr617ckr1vmw1yk")))
+

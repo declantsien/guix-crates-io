@@ -1,0 +1,4 @@
+(define-module (crates-io mo on moonramp) #:use-module (crates-io))
+
+(define-public crate-moonramp-0.1.22 (c (n "moonramp") (v "0.1.22") (d (list (d (n "actix-rt") (r "^2.7.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "moonramp-core") (r "^0.1") (f (quote ("lib" "http"))) (d #t) (k 0)) (d (n "moonramp-encryption") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-entity") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-lunar") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-migration") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-program-rpc") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-registry") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-rpc") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-sale-rpc") (r "^0.1") (d #t) (k 0)) (d (n "moonramp-wallet-rpc") (r "^0.1") (d #t) (k 0)))) (h "0530n7xzlbqbx4scfpw829lgyz0hh0xj970c49nkb4vrkmhazqi8")))
+

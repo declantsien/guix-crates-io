@@ -1,0 +1,4 @@
+(define-module (crates-io yu ua yuuang_dominators) #:use-module (crates-io))
+
+(define-public crate-yuuang_dominators-0.6.3 (c (n "yuuang_dominators") (v "0.6.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "defmac") (r "^0.2.1") (d #t) (k 2)) (d (n "fixedbitset") (r "^0.4.0") (k 0)) (d (n "indexmap") (r "^1.7") (f (quote ("std"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (k 2)) (d (n "odds") (r "^0.4.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.8") (o #t) (k 0)) (d (n "rand") (r "^0.5.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1sbispcrxnada5zg400dykmnc18svqq86hcvnn6jib2pdf74p0kn") (f (quote (("unstable" "generate") ("stable_graph") ("serde-1" "serde" "serde_derive") ("matrix_graph") ("graphmap") ("generate") ("default" "graphmap" "stable_graph" "matrix_graph") ("all" "unstable" "quickcheck" "matrix_graph" "stable_graph" "graphmap"))))))
+

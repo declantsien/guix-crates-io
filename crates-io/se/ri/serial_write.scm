@@ -1,0 +1,4 @@
+(define-module (crates-io se ri serial_write) #:use-module (crates-io))
+
+(define-public crate-serial_write-0.1.0 (c (n "serial_write") (v "0.1.0") (d (list (d (n "numtoa") (r "^0.2.4") (d #t) (k 0)) (d (n "usb-device") (r "^0.2.8") (d #t) (k 0)) (d (n "usbd-serial") (r "^0.1.1") (d #t) (k 0)) (d (n "cortex-m") (r "^0.7.4") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 2)) (d (n "embedded-time") (r "^0.12.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.21") (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "rp-pico") (r "^0.7.0") (d #t) (k 2)) (d (n "rp2040-boot2") (r "^0.2.1") (d #t) (k 2)) (d (n "rp2040-hal") (r "^0.8.0") (f (quote ("rt" "critical-section-impl"))) (d #t) (k 2)))) (h "1scb3c7k4slq1s9cwb0xvglwfpsvgwgi1j8ah3ma7nbj4fbk9ky5")))
+

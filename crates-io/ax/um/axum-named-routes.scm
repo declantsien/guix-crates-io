@@ -1,0 +1,12 @@
+(define-module (crates-io ax um axum-named-routes) #:use-module (crates-io))
+
+(define-public crate-axum-named-routes-0.1.0 (c (n "axum-named-routes") (v "0.1.0") (d (list (d (n "axum") (r "^0.5") (k 0)) (d (n "axum") (r "^0.5") (f (quote ("http1"))) (d #t) (k 2)) (d (n "futures") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0yqpjny4s5scpy4czk8r08dg1s2h6d6rybcfkms8q5iaraxlzgq5")))
+
+(define-public crate-axum-named-routes-0.2.0 (c (n "axum-named-routes") (v "0.2.0") (d (list (d (n "axum") (r "^0.6") (k 0)) (d (n "axum") (r "^0.6") (f (quote ("http1"))) (d #t) (k 2)) (d (n "futures") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "12bjxhyh9gdhkv08q3z4i0fnp4zzrn6hhycjd8b1hx1z14axibjz") (f (quote (("tokio" "axum/tokio") ("default" "tokio"))))))
+
+(define-public crate-axum-named-routes-0.2.1 (c (n "axum-named-routes") (v "0.2.1") (d (list (d (n "axum") (r "^0.6") (k 0)) (d (n "axum") (r "^0.6") (f (quote ("http1"))) (d #t) (k 2)) (d (n "futures") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "0vdmqyn0f9hh9g0nmmafk41gj5g4l0h1391cw2dk97rz6lxg4hmc") (f (quote (("tokio" "axum/tokio") ("default" "tokio"))))))
+
+(define-public crate-axum-named-routes-0.2.2 (c (n "axum-named-routes") (v "0.2.2") (d (list (d (n "axum") (r "^0.6") (k 0)) (d (n "axum") (r "^0.6") (f (quote ("http1"))) (d #t) (k 2)) (d (n "futures") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "1kzyy4cpbrnlma09aq2raf95qpa1rnhjng4bziv5gxqfbria9qw5") (f (quote (("tokio" "axum/tokio") ("default" "tokio"))))))
+
+(define-public crate-axum-named-routes-0.2.3 (c (n "axum-named-routes") (v "0.2.3") (d (list (d (n "axum") (r "^0.6") (k 0)) (d (n "axum") (r "^0.6") (f (quote ("http1"))) (d #t) (k 2)) (d (n "futures") (r "^0.3") (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tower-layer") (r "^0.3") (d #t) (k 0)) (d (n "tower-service") (r "^0.3") (d #t) (k 0)))) (h "18d16f6g13sl7r6f5g3gz6i70y9khvajrljdn2l131y774qincyb") (f (quote (("tokio" "axum/tokio") ("default" "tokio"))))))
+

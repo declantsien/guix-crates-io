@@ -1,0 +1,8 @@
+(define-module (crates-io pr in printnanny-gst-pipelines) #:use-module (crates-io))
+
+(define-public crate-printnanny-gst-pipelines-0.1.0 (c (n "printnanny-gst-pipelines") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "gst-client") (r "^0.2") (d #t) (k 0) (p "gst-client-rs")) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "printnanny-settings") (r "^0.5") (d #t) (k 0) (p "printnanny-settings")))) (h "18zcs8yq9b1shnmkwb03jy19j30arkjh2f18a5yv84wcddcxyzbn") (r "1.63")))
+
+(define-public crate-printnanny-gst-pipelines-0.2.0 (c (n "printnanny-gst-pipelines") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "gst-client") (r "^0.2") (d #t) (k 0) (p "gst-client-rs")) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "printnanny-settings") (r "^0.6") (d #t) (k 0) (p "printnanny-settings")))) (h "0r0xm68k27pa0kh525a6gglmx72pk9vxrvsiw04c2zic4ls8d0cj") (r "1.63")))
+
+(define-public crate-printnanny-gst-pipelines-0.2.1 (c (n "printnanny-gst-pipelines") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive" "cargo" "env" "wrap_help"))) (d #t) (k 0)) (d (n "gst-client") (r "^0.2") (d #t) (k 0) (p "gst-client-rs")) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "printnanny-edge-db") (r "^0.2") (d #t) (k 0)) (d (n "printnanny-nats-client") (r "^0.1.0") (d #t) (k 0)) (d (n "printnanny-settings") (r "^0.7") (d #t) (k 0) (p "printnanny-settings")) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.24") (f (quote ("full" "rt-multi-thread" "rt"))) (d #t) (k 0)))) (h "1ahszb1rqj3p9cwysqpgxvr8drwswprg92ccgpdqrwvmn6qa3gfc") (r "1.66")))
+

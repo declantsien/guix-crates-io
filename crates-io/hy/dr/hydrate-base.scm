@@ -1,0 +1,6 @@
+(define-module (crates-io hy dr hydrate-base) #:use-module (crates-io))
+
+(define-public crate-hydrate-base-0.0.1 (c (n "hydrate-base") (v "0.0.1") (d (list (d (n "ahash") (r "^0.7.4") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.69") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "const-fnv1a-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0w8fdi4cnfs347pidg3jc2wmbx0vaq8nd7qnfnhp3xskffbjngl1") (f (quote (("strip-stringhash-strings") ("default"))))))
+
+(define-public crate-hydrate-base-0.0.2 (c (n "hydrate-base") (v "0.0.2") (d (list (d (n "ahash") (r "^0.7.4") (d #t) (k 0)) (d (n "backtrace") (r "^0.3.69") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "const-fnv1a-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "uuid") (r "^0.8.2") (f (quote ("v4" "serde"))) (d #t) (k 0)))) (h "0z77z55w6yqd7cb6lkff9pb36lwkm3b5lg9d4laqjfgjisslly6s") (f (quote (("strip-stringhash-strings") ("default"))))))
+

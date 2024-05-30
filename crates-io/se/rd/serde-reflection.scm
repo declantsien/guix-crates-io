@@ -1,0 +1,22 @@
+(define-module (crates-io se rd serde-reflection) #:use-module (crates-io))
+
+(define-public crate-serde-reflection-0.0.0 (c (n "serde-reflection") (v "0.0.0") (h "13byvkjq4zyca380l144ghnd7cmla7kw0v7q9vj020jfm7sxb84d")))
+
+(define-public crate-serde-reflection-0.1.0 (c (n "serde-reflection") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.3") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "09f57l7pyz19mkaldnmzfnlkfha7blkq58ib46fcbyx2fgwmdcj1")))
+
+(define-public crate-serde-reflection-0.2.0 (c (n "serde-reflection") (v "0.2.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.3") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1zvxac59acl8xfljxqmp74hn0k2a8fkgjivdgwy77i7znx1d4c6k")))
+
+(define-public crate-serde-reflection-0.3.0 (c (n "serde-reflection") (v "0.3.0") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.3") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1rdrcxwk1ib1fb0xrxn2slwj54psaay611plb7cr81hz9fkx482q")))
+
+(define-public crate-serde-reflection-0.3.1 (c (n "serde-reflection") (v "0.3.1") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.3") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "08cy9k4xcbjsbdiqnqh6cp6qwvg5ff70a9dv49pqqq49s3j4wwnh")))
+
+(define-public crate-serde-reflection-0.3.2 (c (n "serde-reflection") (v "0.3.2") (d (list (d (n "bincode") (r "^1.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.3") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1wqpz02mfrp55vjwqmhw8158gw07wn6mbgcvs23wdsmx261s8p39")))
+
+(define-public crate-serde-reflection-0.3.3 (c (n "serde-reflection") (v "0.3.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "1cc59z7azqbgm8vis4xr1070c03vkcq7lykspfx9m32scgk7rya3")))
+
+(define-public crate-serde-reflection-0.3.4 (c (n "serde-reflection") (v "0.3.4") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "1sqxnfkxy9kjd9xbf03cfmpd9bvwm85wjhxslnm4913wdxy5izzi")))
+
+(define-public crate-serde-reflection-0.3.5 (c (n "serde-reflection") (v "0.3.5") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "1g965zn3npxrjimxzqrh4jg1i1bm735a66x86lmkm40ganx50x0n")))
+
+(define-public crate-serde-reflection-0.3.6 (c (n "serde-reflection") (v "0.3.6") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.7.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.25") (d #t) (k 0)))) (h "15cqz67kwrwhi6r51m6fkawl2028hhwdp3rpknj52an63a05ynph")))
+

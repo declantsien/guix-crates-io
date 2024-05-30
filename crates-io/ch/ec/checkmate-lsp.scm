@@ -1,0 +1,4 @@
+(define-module (crates-io ch ec checkmate-lsp) #:use-module (crates-io))
+
+(define-public crate-checkmate-lsp-0.1.0 (c (n "checkmate-lsp") (v "0.1.0") (d (list (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dashmap") (r "^5.5.0") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.25.5") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.180") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.180") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "simple-home-dir") (r "^0.1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-lsp") (r "^0.19.0") (d #t) (k 0)))) (h "0k5lvpkrllh6sgzcqzg4qvamv068vvpmhhjmzh418jnzgf7himzh")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-rbf) #:use-module (crates-io))
+
+(define-public crate-bitcoin-rbf-0.1.12-alpha.0 (c (n "bitcoin-rbf") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-amt") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-fees") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.12-alpha.0") (d #t) (k 1)))) (h "1rqmwaqnn404f4q5ypmp1f355zg0lcnnb2274vcg6s1dcwzgqqk3")))
+
+(define-public crate-bitcoin-rbf-0.1.16-alpha.0 (c (n "bitcoin-rbf") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-amt") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-fees") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-cfg") (r "^0.1.16-alpha.0") (d #t) (k 1)))) (h "18jj7rpkrfvmrqd8q95rcm9b7afwcka6g6rm1hgdjb7ydlsg2jf7")))
+

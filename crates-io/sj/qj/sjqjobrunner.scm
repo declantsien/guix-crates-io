@@ -1,0 +1,20 @@
+(define-module (crates-io sj qj sjqjobrunner) #:use-module (crates-io))
+
+(define-public crate-sjqjobrunner-0.1.1 (c (n "sjqjobrunner") (v "0.1.1") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "0nn3bv8lq283andkcwlh7h58czs4bfjxhbfibxs0wq6cm9n6af0i")))
+
+(define-public crate-sjqjobrunner-0.1.2 (c (n "sjqjobrunner") (v "0.1.2") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "00g1kwbjd75wxr9ii75yaqb0f9bfqpf90976f068xd0nm00qs6la")))
+
+(define-public crate-sjqjobrunner-0.2.1 (c (n "sjqjobrunner") (v "0.2.1") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "152y3y82d3yksjk00dn52hn3sldsfyr1vbmh4ijnw36xwwc894ld")))
+
+(define-public crate-sjqjobrunner-0.2.2 (c (n "sjqjobrunner") (v "0.2.2") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "0va6qfid74dnzmidgxncl7rs1j6z39v4a75ay1yggb7j428jz7na")))
+
+(define-public crate-sjqjobrunner-0.2.3 (c (n "sjqjobrunner") (v "0.2.3") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "162n9radawaj14jyljbkppk13l9dcf2yvylix545yhwzchyazc4y")))
+
+(define-public crate-sjqjobrunner-0.2.4 (c (n "sjqjobrunner") (v "0.2.4") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "18z0rhk8kfpsbpchqi06637w1g3d0k5gzadwvj3y93jalp691b9d")))
+
+(define-public crate-sjqjobrunner-0.2.5 (c (n "sjqjobrunner") (v "0.2.5") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "1g0kva7adfswk40658f4x7x227hbkwlmvkla9fwxmp85bwswf53w")))
+
+(define-public crate-sjqjobrunner-0.2.6 (c (n "sjqjobrunner") (v "0.2.6") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "06rq119yrgkcqhaj1vaz3ym5vv7hrpyyh36sx7xggysy0ynsgz6c")))
+
+(define-public crate-sjqjobrunner-0.2.7 (c (n "sjqjobrunner") (v "0.2.7") (d (list (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)))) (h "1gl1vaq88gn0cqg21vhr4zsgkdz1y91mwghj6dc9ip52vj0kfh47")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io to r- tor-geoip) #:use-module (crates-io))
+
+(define-public crate-tor-geoip-0.1.0 (c (n "tor-geoip") (v "0.1.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-error") (r "^0.5.2") (d #t) (k 0)))) (h "1b0wzb15dhzgf5236qr75h7g7g0q3s9hx7naslczlivnq9mh44mr") (f (quote (("full" "tor-error/full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.65")))
+
+(define-public crate-tor-geoip-0.1.1 (c (n "tor-geoip") (v "0.1.1") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-error") (r "^0.5.3") (d #t) (k 0)))) (h "1k5zsc2xaw5f7fayr3g8g59p7yikhn29vbsz9xl77ashz2ll2720") (f (quote (("full" "tor-error/full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.65")))
+
+(define-public crate-tor-geoip-0.1.2 (c (n "tor-geoip") (v "0.1.2") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-error") (r "^0.5.4") (d #t) (k 0)))) (h "1jwp6yzi69akrfvby5p948q1asrjhprsh2bw8nl3qa5l0c3v0hqb") (f (quote (("full" "tor-error/full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.65")))
+
+(define-public crate-tor-geoip-0.1.3 (c (n "tor-geoip") (v "0.1.3") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-error") (r "^0.5.5") (d #t) (k 0)))) (h "1m7jkgaq9qwi6n44bq50saz6ka9kjclrdag97vipr4y36qvwfnc6") (f (quote (("full" "tor-error/full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.70")))
+
+(define-public crate-tor-geoip-0.2.0 (c (n "tor-geoip") (v "0.2.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-error") (r "^0.6.0") (d #t) (k 0)))) (h "0c2vd686wh7zmsb4fqy34gyp5yrydnyjjq39nadrvf6qcybg4a2p") (f (quote (("full" "tor-error/full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.70")))
+
+(define-public crate-tor-geoip-0.17.0 (c (n "tor-geoip") (v "0.17.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-error") (r "^0.17.0") (d #t) (k 0)))) (h "07bja8kfiqq7cv56jg8kaww545xd2l2r0kzzk1sd8j7sk5prfg3f") (f (quote (("full" "tor-error/full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.70")))
+
+(define-public crate-tor-geoip-0.18.0 (c (n "tor-geoip") (v "0.18.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1q3nrrnxfwvm1pvwrnjj9x3hn5bbbvcymc0660v6xslli9f7rx87") (f (quote (("full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.70")))
+

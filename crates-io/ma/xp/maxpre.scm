@@ -1,0 +1,12 @@
+(define-module (crates-io ma xp maxpre) #:use-module (crates-io))
+
+(define-public crate-maxpre-0.1.0 (c (n "maxpre") (v "0.1.0") (d (list (d (n "cc") (r "^1.0.79") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 0)) (d (n "git2") (r "^0.17.1") (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "rustsat") (r "^0.1.0") (k 0)))) (h "16pr71i049h2a8a5j2q0nsqam0z0865yvx2hwprkqhv7h3wzicia") (f (quote (("optimization" "rustsat/optimization") ("multiopt" "optimization" "rustsat/multiopt") ("default" "optimization"))))))
+
+(define-public crate-maxpre-0.2.0 (c (n "maxpre") (v "0.2.0") (d (list (d (n "cc") (r "^1.0.79") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 0)) (d (n "git2") (r "^0.17.1") (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "rustsat") (r "^0.2") (k 0)))) (h "090571k63hpsah2lcyjggk7dcl19w3bc701zs8gci6bwk8c6yqmw") (f (quote (("optimization" "rustsat/optimization") ("multiopt" "optimization" "rustsat/multiopt") ("default" "optimization"))))))
+
+(define-public crate-maxpre-0.2.1 (c (n "maxpre") (v "0.2.1") (d (list (d (n "cc") (r "^1") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 0)) (d (n "git2") (r "^0") (d #t) (k 1)) (d (n "glob") (r "^0") (d #t) (k 1)) (d (n "rustsat") (r ">=0.3") (k 0)))) (h "0adfc6jfg6iag0v2mrw4kyrzljdq7wawhyvb8wg4h9wjylnlfsrc") (f (quote (("optimization" "rustsat/optimization") ("multiopt" "optimization" "rustsat/multiopt") ("default" "optimization"))))))
+
+(define-public crate-maxpre-0.2.2 (c (n "maxpre") (v "0.2.2") (d (list (d (n "cc") (r "^1") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 0)) (d (n "git2") (r "^0") (d #t) (k 1)) (d (n "glob") (r "^0") (d #t) (k 1)) (d (n "rustsat") (r "^0.5.0") (k 0)))) (h "1d3giw7pycbbg28hwrzs5hsh3fbqa3z5hpn3vw7w92ly58hvd837") (f (quote (("optimization" "rustsat/optimization") ("multiopt" "optimization" "rustsat/multiopt") ("default" "optimization")))) (y #t)))
+
+(define-public crate-maxpre-0.2.3 (c (n "maxpre") (v "0.2.3") (d (list (d (n "cc") (r "^1") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "cpu-time") (r "^1.0.0") (d #t) (k 0)) (d (n "git2") (r "^0") (d #t) (k 1)) (d (n "glob") (r "^0") (d #t) (k 1)) (d (n "rustsat") (r "^0.5.0") (k 0)))) (h "121bqhhnw7i92vnni4d31wk0apyzwsplfhjgr1hfnds3lk2awsb9") (f (quote (("optimization" "rustsat/optimization") ("multiopt" "optimization" "rustsat/multiopt") ("default" "optimization"))))))
+

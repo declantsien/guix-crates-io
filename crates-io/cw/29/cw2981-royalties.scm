@@ -1,0 +1,6 @@
+(define-module (crates-io cw #{29}# cw2981-royalties) #:use-module (crates-io))
+
+(define-public crate-cw2981-royalties-0.17.0 (c (n "cw2981-royalties") (v "0.17.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cw2") (r "^1.0.1") (d #t) (k 0)) (d (n "cw721") (r "^0.17.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.17.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "0xvasqny49c5xnc99yjywnl866y8n654304120ql6lha1c1qzqyn") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-cw2981-royalties-0.18.0 (c (n "cw2981-royalties") (v "0.18.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cw2") (r "^1.1.0") (d #t) (k 0)) (d (n "cw721") (r "^0.18.0") (d #t) (k 0)) (d (n "cw721-base") (r "^0.18.0") (f (quote ("library"))) (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "14mbc0nrgdkbdh37x5kbabv4l9iay7cg8f15dkqpzcsg61fxsp4q") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io te rm terminal-spinners) #:use-module (crates-io))
+
+(define-public crate-terminal-spinners-0.1.0 (c (n "terminal-spinners") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 1)) (d (n "crossbeam-utils") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 1)) (d (n "terminal-emoji") (r "^0.2.5") (d #t) (k 0)))) (h "0wvjk1dz26dhhmmclmam17v2hcczqw5nh5hh0pp4rc882dy35b0b") (f (quote (("print" "crossterm" "crossbeam-utils") ("default" "print"))))))
+
+(define-public crate-terminal-spinners-0.1.1 (c (n "terminal-spinners") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 1)) (d (n "crossterm") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 1)) (d (n "terminal-log-symbols") (r "^0.1.3") (d #t) (k 0)))) (h "15cyzfyznpiqfb3xg5mw9bg14yvkf59g54rd4rgx3nxh00q62gl9") (f (quote (("print" "crossterm") ("default" "print"))))))
+
+(define-public crate-terminal-spinners-0.1.2 (c (n "terminal-spinners") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 1)) (d (n "crossterm") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 1)) (d (n "terminal-log-symbols") (r "^0.1.4") (d #t) (k 0)))) (h "0nxryakiqndx10133qb3gh2s4i25ibb6s11bfm09zsbsx6r264b3") (f (quote (("print" "crossterm") ("default" "print"))))))
+
+(define-public crate-terminal-spinners-0.1.3 (c (n "terminal-spinners") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.38") (d #t) (k 1)) (d (n "crossterm") (r "^0.19.0") (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.3.2") (d #t) (k 1)) (d (n "quote") (r "^1.0.9") (d #t) (k 1)) (d (n "serde") (r "^1.0.123") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 1)) (d (n "terminal-log-symbols") (r "^0.1.4") (d #t) (k 0)))) (h "01l99cqnk9hvy25f8q42ckb2b0916629w8ddp173acllz3hyzg3b") (f (quote (("print" "crossterm") ("default" "print"))))))
+
+(define-public crate-terminal-spinners-0.2.0 (c (n "terminal-spinners") (v "0.2.0") (d (list (d (n "crossterm") (r "^0.19.0") (d #t) (k 0)) (d (n "terminal-log-symbols") (r "^0.1.5") (d #t) (k 0)) (d (n "terminal-spinner-data") (r "^0.1.0") (d #t) (k 0)))) (h "169n1bxvhf4lvdv3rhx9mi6l3yrlf773c8n8ipxwrm4qmzskg4x5")))
+
+(define-public crate-terminal-spinners-0.2.1 (c (n "terminal-spinners") (v "0.2.1") (d (list (d (n "crossterm") (r "^0.19.0") (d #t) (k 0)) (d (n "terminal-log-symbols") (r "^0.1.5") (d #t) (k 0)) (d (n "terminal-spinner-data") (r "^0.1.0") (d #t) (k 0)))) (h "1p2wlrvdaaaxq0xq9gwngkmfhxh5nxlslaq5nd2gmjg30kackgq1")))
+
+(define-public crate-terminal-spinners-0.3.0 (c (n "terminal-spinners") (v "0.3.0") (d (list (d (n "crossterm") (r "^0.19.0") (d #t) (k 0)) (d (n "terminal-log-symbols") (r "^0.1.5") (d #t) (k 0)) (d (n "terminal-spinner-data") (r "^0.1.0") (d #t) (k 0)))) (h "0qqqla9ydkkhw02bdd7jp1dkq9z8npvx7yvzz6jl144zra7qifs0")))
+
+(define-public crate-terminal-spinners-0.3.1 (c (n "terminal-spinners") (v "0.3.1") (d (list (d (n "crossterm") (r "^0.19.0") (d #t) (k 0)) (d (n "terminal-log-symbols") (r "^0.1.6") (d #t) (k 0)) (d (n "terminal-spinner-data") (r "^0.1.1") (d #t) (k 0)))) (h "01ihbyq4bf86ln97qwv9d2ifq5wlgx1k70ysva2gmih39kg0ib6j")))
+
+(define-public crate-terminal-spinners-0.3.2 (c (n "terminal-spinners") (v "0.3.2") (d (list (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "terminal-log-symbols") (r "^0.1.6") (d #t) (k 0)) (d (n "terminal-spinner-data") (r "^0.1.1") (d #t) (k 0)))) (h "14qf1qn2cm62w6h98s26wvk041fxsra9ygl28cvrjncnahyz58fq")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ar k- ark-ed-on-bls12-381-zypher) #:use-module (crates-io))
+
+(define-public crate-ark-ed-on-bls12-381-zypher-0.4.0 (c (n "ark-ed-on-bls12-381-zypher") (v "0.4.0") (d (list (d (n "ark-algebra-bench-templates") (r "^0.4.0") (k 2)) (d (n "ark-algebra-test-templates") (r "^0.4.0") (k 2)) (d (n "ark-bls12-381") (r "^0.4.0") (f (quote ("scalar_field"))) (k 0) (p "ark-bls12-381-zypher")) (d (n "ark-ec") (r "^0.4.0") (k 0) (p "ark-ec-zypher")) (d (n "ark-ff") (r "^0.4.0") (k 0) (p "ark-ff-zypher")) (d (n "ark-r1cs-std") (r "^0.4.0") (o #t) (k 0) (p "ark-r1cs-std-zypher")) (d (n "ark-relations") (r "^0.4.0") (k 2) (p "ark-relations-zypher")) (d (n "ark-serialize") (r "^0.4.0") (k 2) (p "ark-serialize-zypher")) (d (n "ark-std") (r "^0.4.0") (k 0) (p "ark-std-zypher")))) (h "195wy59ifdr69z5qrbjyv8a8p8m69jg634xlnvlq5sfmhcfld1w6") (f (quote (("std" "ark-std/std" "ark-ff/std" "ark-ec/std" "ark-bls12-381/std") ("r1cs" "ark-r1cs-std") ("default"))))))
+

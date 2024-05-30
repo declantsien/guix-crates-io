@@ -1,0 +1,14 @@
+(define-module (crates-io ad dr addr_of_enum_macro) #:use-module (crates-io))
+
+(define-public crate-addr_of_enum_macro-0.1.0 (c (n "addr_of_enum_macro") (v "0.1.0") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "template-quote") (r "^0.3.1") (d #t) (k 0)))) (h "08jk1xv6v6h12k6af6nadv06n0zbhdl2q2mh1bimgc1i5bp8fj60")))
+
+(define-public crate-addr_of_enum_macro-0.1.1 (c (n "addr_of_enum_macro") (v "0.1.1") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "template-quote") (r "^0.3.1") (d #t) (k 0)))) (h "0j0hww4c3p2ymm2fwygk3g1l1kzbk905ydydm160npv3d5kf3w9k")))
+
+(define-public crate-addr_of_enum_macro-0.1.2 (c (n "addr_of_enum_macro") (v "0.1.2") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "template-quote") (r "^0.3.1") (d #t) (k 0)))) (h "1qnrwnljvxmq1b5dyp7sj4jfvn2d9dn3iylv2s5zl4x8q9yxc0jq")))
+
+(define-public crate-addr_of_enum_macro-0.1.3 (c (n "addr_of_enum_macro") (v "0.1.3") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "template-quote") (r "^0.3.1") (d #t) (k 0)))) (h "1hczjy6madnkm9w74n76a0cwkhpsg0bsk8wyxaxybyp52p87xpwk")))
+
+(define-public crate-addr_of_enum_macro-0.1.4 (c (n "addr_of_enum_macro") (v "0.1.4") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "template-quote") (r "^0.3.1") (d #t) (k 0)))) (h "19by909vxrhnz1mxyss11qmqlghk3xgc9zf1dgpcpwkgiqd24ijv")))
+
+(define-public crate-addr_of_enum_macro-0.1.5 (c (n "addr_of_enum_macro") (v "0.1.5") (d (list (d (n "derive-syn-parse") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "printing" "extra-traits"))) (d #t) (k 0)) (d (n "template-quote") (r "^0.3.1") (d #t) (k 0)))) (h "0nxb2riy2a985la4dd3xxlhm7c7pcwia5d7lvhn352w09xcsb8ri")))
+

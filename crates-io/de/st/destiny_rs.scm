@@ -1,0 +1,6 @@
+(define-module (crates-io de st destiny_rs) #:use-module (crates-io))
+
+(define-public crate-destiny_rs-0.1.0 (c (n "destiny_rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.39") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sqlite") (r "^0.25.3") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.1") (d #t) (k 2)) (d (n "zip") (r "^0.5.11") (d #t) (k 0)))) (h "1wc11fvn2hq2hgphfrhf1mwkl6n64hmfimkr1nyg9jrcjwxw88bv")))
+
+(define-public crate-destiny_rs-0.1.1 (c (n "destiny_rs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.39") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sqlite") (r "^0.25.3") (d #t) (k 0)) (d (n "tokio") (r "^1.4.0") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.1") (d #t) (k 2)) (d (n "zip") (r "^0.5.11") (d #t) (k 0)))) (h "17mg3dw75fph4jhnk2shcy0ihhb52r2s85mj20fbmys136454wgb")))
+

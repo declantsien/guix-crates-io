@@ -1,0 +1,8 @@
+(define-module (crates-io we at weather_forecast) #:use-module (crates-io))
+
+(define-public crate-weather_forecast-0.1.0 (c (n "weather_forecast") (v "0.1.0") (d (list (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "133ganb7rql1ypqcxsddznpfnjd4ddnhfr7p4s92vd5j8lrz7jj5")))
+
+(define-public crate-weather_forecast-0.2.0 (c (n "weather_forecast") (v "0.2.0") (d (list (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "067naz4dniifpra4ch0p0fpcjb5kvw8c33hsybvdvgs0szwg1n20") (y #t)))
+
+(define-public crate-weather_forecast-0.3.0 (c (n "weather_forecast") (v "0.3.0") (d (list (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "08m1a6canyh3pf0gxa0shzpyfcv1h1q33z5zyzyf98fvvqacmp46")))
+

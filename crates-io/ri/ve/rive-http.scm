@@ -1,0 +1,10 @@
+(define-module (crates-io ri ve rive-http) #:use-module (crates-io))
+
+(define-public crate-rive-http-0.1.0 (c (n "rive-http") (v "0.1.0") (d (list (d (n "async-trait") (r "^0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "rive-models") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1f54v07wq2834dpiaygfznb7x0an1mpzn0vdrvmzil53g1gc8mws") (r "1.64")))
+
+(define-public crate-rive-http-0.1.1 (c (n "rive-http") (v "0.1.1") (d (list (d (n "async-trait") (r "^0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "rive-models") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0bflds2r866fv2dawjwz3vnhqr4n9f5jrxdihfss49682zj9p68q") (r "1.64")))
+
+(define-public crate-rive-http-1.0.0 (c (n "rive-http") (v "1.0.0") (d (list (d (n "async-trait") (r "^0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "rive-models") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0brvjisw7d5qshvlvhdci7p3l895ssif394xl0jgibaibnw66q37") (r "1.64")))
+
+(define-public crate-rive-http-1.1.0 (c (n "rive-http") (v "1.1.0") (d (list (d (n "async-trait") (r "^0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "rive-models") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1ny71vm9h8pla430105hqrpzvhh8z6a0p5691jp9469smqxd2gcx") (f (quote (("rustls-tls-webpki-roots" "reqwest/rustls-tls-webpki-roots") ("rustls-tls-native-roots" "reqwest/rustls-tls-native-roots") ("native-tls" "reqwest/native-tls") ("default" "native-tls")))) (r "1.64")))
+

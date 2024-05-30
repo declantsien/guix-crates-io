@@ -1,0 +1,10 @@
+(define-module (crates-io da ta datafusion_imu) #:use-module (crates-io))
+
+(define-public crate-datafusion_imu-0.1.0 (c (n "datafusion_imu") (v "0.1.0") (d (list (d (n "adafruit_nxp") (r "^0.1.0") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.15") (d #t) (k 2)) (d (n "micromath") (r "^2.0.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.0") (f (quote ("libm-force"))) (k 0)) (d (n "r2r") (r "^0.6.2") (d #t) (k 2)) (d (n "rppal") (r "^0.13.1") (f (quote ("hal"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1p7jh57wkpra0pi3g6nm8011hl6c61wyi6i6zw7ss5jl8kv9b7h9")))
+
+(define-public crate-datafusion_imu-0.1.1 (c (n "datafusion_imu") (v "0.1.1") (d (list (d (n "adafruit_nxp") (r "^0.1.0") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.15") (d #t) (k 2)) (d (n "micromath") (r "^2.0.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.0") (f (quote ("libm-force"))) (k 0)) (d (n "r2r") (r "^0.6.2") (d #t) (k 2)) (d (n "rppal") (r "^0.13.1") (f (quote ("hal"))) (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1xh09yi67xk5g44i39h185rpkd07h60w0q4k3028hd9gwqnp3yak")))
+
+(define-public crate-datafusion_imu-0.1.2 (c (n "datafusion_imu") (v "0.1.2") (d (list (d (n "adafruit_nxp") (r "^0.1.1") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 2)) (d (n "micromath") (r "^2.0.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.0") (f (quote ("libm-force"))) (k 0)) (d (n "rppal") (r "^0.13.1") (f (quote ("hal"))) (d #t) (k 2)))) (h "01gg8kij00w26bn8vzb198ms6f9nrs72383ncaij5qz3f8j1mk03")))
+
+(define-public crate-datafusion_imu-0.1.3 (c (n "datafusion_imu") (v "0.1.3") (d (list (d (n "adafruit_nxp") (r "^0.1.2") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 2)) (d (n "micromath") (r "^2.0.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.0") (f (quote ("libm-force"))) (k 0)) (d (n "rppal") (r "^0.13.1") (f (quote ("hal"))) (d #t) (k 2)))) (h "0mfcrxjx01179fn5d1zvfkqqk00c7j8wfyc35di4ps7gxs9fdpmy")))
+

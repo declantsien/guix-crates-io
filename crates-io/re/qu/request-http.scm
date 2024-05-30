@@ -1,0 +1,6 @@
+(define-module (crates-io re qu request-http) #:use-module (crates-io))
+
+(define-public crate-request-http-0.1.0 (c (n "request-http") (v "0.1.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0m4zcjls5i0mzxp6yvg3xqxjmg6pq70qmfad5nhypjl1kxn4s65d")))
+
+(define-public crate-request-http-0.1.1 (c (n "request-http") (v "0.1.1") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "15zxqld4nrx2s9vwdyrh9lc07h9xisi4s4ib1yga31k6a96qv0df")))
+

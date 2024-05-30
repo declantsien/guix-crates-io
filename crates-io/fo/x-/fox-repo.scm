@@ -1,0 +1,4 @@
+(define-module (crates-io fo x- fox-repo) #:use-module (crates-io))
+
+(define-public crate-fox-repo-0.1.0 (c (n "fox-repo") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "cargo_toml") (r "^0.15.2") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.1.4") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "eframe") (r "^0.22.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "minijinja") (r "^0.30.6") (d #t) (k 0)) (d (n "notify") (r "^5.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.153") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1916jh3q2ywmn78a2lazin12a1g5m4wf6z6mmalcs8slkrsqz67b")))
+

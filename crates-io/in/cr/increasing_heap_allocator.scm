@@ -1,0 +1,10 @@
+(define-module (crates-io in cr increasing_heap_allocator) #:use-module (crates-io))
+
+(define-public crate-increasing_heap_allocator-0.1.0 (c (n "increasing_heap_allocator") (v "0.1.0") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")))) (h "1yqxkxjy24grzlfikfvbv52k07gn717sihwqv8l9pk9igighyz0v") (f (quote (("rustc-dep-of-std" "core" "compiler_builtins" "alloc"))))))
+
+(define-public crate-increasing_heap_allocator-0.1.1 (c (n "increasing_heap_allocator") (v "0.1.1") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")))) (h "1dljmqqqydzl761mhi3clz68dxf5w28asli3k7dpr9nq2yx9pgdr") (f (quote (("rustc-dep-of-std" "core" "compiler_builtins" "compiler_builtins/mem" "alloc"))))))
+
+(define-public crate-increasing_heap_allocator-0.1.2 (c (n "increasing_heap_allocator") (v "0.1.2") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")))) (h "1wd8bb1pbnw43ry600hvycn31an9x1vplmipi3n6n5gkhyi91lan") (f (quote (("rustc-dep-of-std" "core" "compiler_builtins" "compiler_builtins/mem" "alloc"))))))
+
+(define-public crate-increasing_heap_allocator-0.1.3 (c (n "increasing_heap_allocator") (v "0.1.3") (d (list (d (n "alloc") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-alloc")) (d (n "compiler_builtins") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")))) (h "0a69wn3z52zng7i7yvdgjbpgnga6cf40sj1c2m2gam0b41kh92pp") (f (quote (("rustc-dep-of-std" "core" "compiler_builtins" "compiler_builtins/mem" "alloc"))))))
+

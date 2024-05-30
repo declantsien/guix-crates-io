@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# y ygw) #:use-module (crates-io))
+
+(define-public crate-ygw-0.1.0 (c (n "ygw") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.78") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.12.4") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.4") (d #t) (k 1)) (d (n "prost-types") (r "^0.12.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "1wnhyal55rxg7dqnrl082w70fbfi6y18dzbm1rz16zmhw5ql9q0w")))
+

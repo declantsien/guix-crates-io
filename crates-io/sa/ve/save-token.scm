@@ -1,0 +1,8 @@
+(define-module (crates-io sa ve save-token) #:use-module (crates-io))
+
+(define-public crate-save-token-0.1.1 (c (n "save-token") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.22") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.22") (d #t) (k 0)) (d (n "locked-voter") (r "^0.5.1") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "vipers") (r "^2.0") (d #t) (k 0)) (d (n "yi") (r "^0.3.0") (f (quote ("cpi"))) (d #t) (k 0)))) (h "1v8gl5mgfmvpyg3d685bhs10582k3hd9wl026f93q3bfiq2abg0h") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-save-token-0.1.2 (c (n "save-token") (v "0.1.2") (d (list (d (n "anchor-lang") (r "^0.22") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.22") (d #t) (k 0)) (d (n "locked-voter") (r "^0.5.1") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "proptest") (r "^1.0") (d #t) (k 2)) (d (n "vipers") (r "^2.0") (d #t) (k 0)) (d (n "yi") (r "^0.3.0") (f (quote ("cpi"))) (d #t) (k 0)))) (h "0xjwxsm933903khxzcvqh9jg5c9xzl2mb3zjh73lfzs5xg8ihxsa") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-save-token-0.1.3 (c (n "save-token") (v "0.1.3") (d (list (d (n "anchor-lang") (r "^0.22") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.22") (d #t) (k 0)) (d (n "locked-voter") (r "^0.5.1") (f (quote ("cpi"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "vipers") (r "^2.0") (d #t) (k 0)) (d (n "yi") (r "^0.3.0") (f (quote ("cpi"))) (d #t) (k 0)))) (h "1s8yzxml77snd1bfcrj22bxrzn0n91dl49mlcw42g60m8hlxymrb") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

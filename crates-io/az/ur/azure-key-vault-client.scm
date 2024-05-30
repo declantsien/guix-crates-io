@@ -1,0 +1,6 @@
+(define-module (crates-io az ur azure-key-vault-client) #:use-module (crates-io))
+
+(define-public crate-azure-key-vault-client-0.1.0 (c (n "azure-key-vault-client") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "oauth2") (r "^4") (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "ureq") (r "^2.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1x56jsg1r7w6zagzfziv369krpldwwqfykrqr2z21xaqaqfrv5ba")))
+
+(define-public crate-azure-key-vault-client-0.1.1 (c (n "azure-key-vault-client") (v "0.1.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "oauth2") (r "^4") (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "ureq") (r "^2.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0rf0hlyr14f3x4s154xmkw54jmh4n8y6lvkazbsfpphvz71z27b9")))
+

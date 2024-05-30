@@ -1,0 +1,20 @@
+(define-module (crates-io tr ai trait-variable-macros) #:use-module (crates-io))
+
+(define-public crate-trait-variable-macros-0.1.0 (c (n "trait-variable-macros") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "00ngqg8kzpldjvzh6j0ll2dmn3pnzpl086zlk813v1ijzzb81dqm")))
+
+(define-public crate-trait-variable-macros-0.2.0 (c (n "trait-variable-macros") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "00i6fb380if0la5svx91ljmjly1z9hm1glmjb5dzpm2jzcy7sphj")))
+
+(define-public crate-trait-variable-macros-0.3.0 (c (n "trait-variable-macros") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "18lgs3nmwxx2xnnmkcs41xp829xff1dr8qzjpqz5w3353bxmp8cr")))
+
+(define-public crate-trait-variable-macros-0.3.1 (c (n "trait-variable-macros") (v "0.3.1") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0lk3hkb408150hw3ch9l39rrjhxq7s3qr406rqnxnwl650bc8bfz")))
+
+(define-public crate-trait-variable-macros-0.3.2 (c (n "trait-variable-macros") (v "0.3.2") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1lip6vdj3gw89gg9ss914s6h3m15k3f59rjd7x0h4sixzzcn04gp")))
+
+(define-public crate-trait-variable-macros-0.3.3 (c (n "trait-variable-macros") (v "0.3.3") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1hv15338421wa1a7ckjc8d601db2hfbak5plcy2zaa5rg7hplsrp")))
+
+(define-public crate-trait-variable-macros-0.3.4 (c (n "trait-variable-macros") (v "0.3.4") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1qhkjjzcbw35wv1i8iiph83h9kjsdncv7xv18z6fnhyiaijfvybm")))
+
+(define-public crate-trait-variable-macros-0.3.5 (c (n "trait-variable-macros") (v "0.3.5") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1a9vwkl7536xanzsapv23xg2npilcglxfz7a00rlp0lrv6b1vb65")))
+
+(define-public crate-trait-variable-macros-0.3.6 (c (n "trait-variable-macros") (v "0.3.6") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1f7rywxr2bf7c94si5ar4ddcsvylnjicy1rqryb0jbijxqwq40x0")))
+

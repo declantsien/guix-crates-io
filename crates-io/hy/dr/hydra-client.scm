@@ -1,0 +1,12 @@
+(define-module (crates-io hy dr hydra-client) #:use-module (crates-io))
+
+(define-public crate-hydra-client-0.1.0 (c (n "hydra-client") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1dlgi864d95v96ag1disyhn5slz7fzwwa87152r72pkh6xjiz3hw")))
+
+(define-public crate-hydra-client-0.1.1 (c (n "hydra-client") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1jgww8yax23gsfjn3ynyncnmvxs8zm9mbwrxv4bkf3vwbp2hcvbl")))
+
+(define-public crate-hydra-client-0.2.0 (c (n "hydra-client") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0827rbkcr3xhw7p8rlwsn7bg26r8ml31s321d64ahixk9gc5v1al")))
+
+(define-public crate-hydra-client-0.3.0 (c (n "hydra-client") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0sfsgjwvvmvh6j37gm7bdsc81pynkcslaj1yf6g6vfs5ly1qwbf5")))
+
+(define-public crate-hydra-client-0.4.0 (c (n "hydra-client") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1krjcw26rja7455nbzigfx114njqr1ki9z3da774f67cjhaaabza")))
+

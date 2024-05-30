@@ -1,0 +1,14 @@
+(define-module (crates-io im gu imgui_presentable_derive) #:use-module (crates-io))
+
+(define-public crate-imgui_presentable_derive-0.1.0 (c (n "imgui_presentable_derive") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1hk19hqikyg6fswca8a6zxqxw9xal9bl8gzc8ladgm9mzpy0mydf")))
+
+(define-public crate-imgui_presentable_derive-0.1.1 (c (n "imgui_presentable_derive") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "04yz0jmn8i8v8h8gl3bxp08amvxyp3gvjgk5vah9k5jn7wrwblqj")))
+
+(define-public crate-imgui_presentable_derive-0.2.0 (c (n "imgui_presentable_derive") (v "0.2.0") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "14jrcfy5yki3g8pw6ha4gsp4sbqsscbka2x4lf4yjjidrw4cad1d") (f (quote (("imgui_backend") ("egui_backend") ("default" "imgui_backend"))))))
+
+(define-public crate-imgui_presentable_derive-0.2.1 (c (n "imgui_presentable_derive") (v "0.2.1") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1k6jwn7psnhwjbl3nlgwq9g8dwyw78ci94qvs7acn30i63zddc55") (f (quote (("imgui_backend") ("egui_backend") ("default" "imgui_backend"))))))
+
+(define-public crate-imgui_presentable_derive-0.3.0 (c (n "imgui_presentable_derive") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0q00cll6jy6p5s002zbkrwyk238bn1js24a85vj6zaz4j29yr4br") (f (quote (("imgui_backend") ("egui_backend") ("default"))))))
+
+(define-public crate-imgui_presentable_derive-0.4.0 (c (n "imgui_presentable_derive") (v "0.4.0") (d (list (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "03ywa8l4xw4gm4pc42sgn1l2ks4lcclzvris61579v6b5c4b58hg") (f (quote (("imgui_backend") ("egui_backend") ("default"))))))
+

@@ -1,0 +1,44 @@
+(define-module (crates-io pa ck packable) #:use-module (crates-io))
+
+(define-public crate-packable-0.1.0 (c (n "packable") (v "0.1.0") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.1.0") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "187qn3xs8z0xrsyb0fwvwxb5rrnz603hal0phf2d4gz2j6dlglxw") (f (quote (("io"))))))
+
+(define-public crate-packable-0.2.0 (c (n "packable") (v "0.2.0") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.2.0") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "151c7q00lkhpzmdl9910w66qaadx5gbv0ydwr4d893c0zrqj0li9") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.2.1 (c (n "packable") (v "0.2.1") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.2.1") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0vkdg1bc850lh3hkkvgk112fb9rjs7sn37wial97wcn391fciki0") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.3.0 (c (n "packable") (v "0.3.0") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.3.0") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "02xjmn0whwcq4jbc9c71q3gnllmdhd9i3lasnzlj9ccabxc4w8f5") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.3.1 (c (n "packable") (v "0.3.1") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.3.1") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0k1bb91m2l6xxl25w33791z4ckljm2zdn1rlan9jgl1schk9bp77") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.3.2 (c (n "packable") (v "0.3.2") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.3.2") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0rqq9bfp5hj3xv1p23vqpqbidkxvjxdm1ki2p2jmbgvw7kzn4xx4") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.3.3 (c (n "packable") (v "0.3.3") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.3.3") (k 0)) (d (n "primitive-types") (r "^0.10.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "1gpc6p6im724gjzv14wa3iyfx0yn8z79lya1p95nz0cvz908p9iv") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.4.0 (c (n "packable") (v "0.4.0") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.4.0") (k 0)) (d (n "primitive-types") (r "^0.11.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "1lv4y63hcvf5b4c2vqg3ln39cxb7iiimn00gwzy3m3wawchwybik") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.5.0 (c (n "packable") (v "0.5.0") (d (list (d (n "autocfg") (r "^1.0.1") (k 1)) (d (n "packable-derive") (r "=0.5.0") (k 0)) (d (n "primitive-types") (r "^0.11.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0m3k10xazgd4q7sszd519s73di0y04f914icw3spfk2wijl93r7z") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.6.0 (c (n "packable") (v "0.6.0") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.6.0") (k 0)) (d (n "primitive-types") (r "^0.11.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0wrzb0j0h78550kkl01qsr6x1hyi0z3vr035zivcmzb7rpzq9k4r") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.6.1 (c (n "packable") (v "0.6.1") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.6.1") (k 0)) (d (n "primitive-types") (r "^0.11.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0lzypj8hgcm78gpgpfdfsd3x07sdnqyxvlx8dk5fakwzsh1l9ay4") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.6.2 (c (n "packable") (v "0.6.2") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.6.2") (k 0)) (d (n "primitive-types") (r "^0.11.1") (o #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "1gyg4h819ycy7a4dbbh1facsv5svl8zq3c91vfpiifmn09fxmrm7") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.7.0 (c (n "packable") (v "0.7.0") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.7.0") (k 0)) (d (n "primitive-types") (r "^0.12.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "1m8crhzcq08m7hwssvvmhph189hmkly6ps973jhzniixz11kw0fq") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.8.0 (c (n "packable") (v "0.8.0") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.7.0") (k 0)) (d (n "primitive-types") (r "^0.12.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive" "std"))) (o #t) (k 0)))) (h "0brgqialrddqsg2lmb8fb1f9dg6n2w98ig9p4n3b9nfcjpg1xfqh") (f (quote (("usize") ("std") ("io" "std"))))))
+
+(define-public crate-packable-0.8.1 (c (n "packable") (v "0.8.1") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.7.0") (k 0)) (d (n "primitive-types") (r "^0.12.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (o #t) (k 0)))) (h "1qyyd6pbyqhzprsng6191z4cbsn901g4kv6hj48xd39116b97ipa") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std"))))))
+
+(define-public crate-packable-0.8.2 (c (n "packable") (v "0.8.2") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.7.0") (k 0)) (d (n "primitive-types") (r "^0.12.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (o #t) (k 0)))) (h "1y60yw0q2js5hk9kh1rij2kdp1s1wjzlkmblgbw5giix5rffb6nr") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std"))))))
+
+(define-public crate-packable-0.8.3 (c (n "packable") (v "0.8.3") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.7.0") (k 0)) (d (n "primitive-types") (r "^0.12.0") (o #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (o #t) (k 0)))) (h "1dpx4kyljg9yd7wildb01ak0y7zi2j7msj4hyxb95z4ncq49n98i") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std"))))))
+
+(define-public crate-packable-0.9.0 (c (n "packable") (v "0.9.0") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.8.0") (k 0)) (d (n "primitive-types") (r "^0.12.2") (o #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (o #t) (k 0)))) (h "0xkyfhcr80xhn2c57ly0kc2kw603f2hgw1sm0xpk6gj7wl6iir7f") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std"))))))
+
+(define-public crate-packable-0.10.0 (c (n "packable") (v "0.10.0") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "packable-derive") (r "=0.9.0") (k 0)) (d (n "primitive-types") (r "^0.12.2") (o #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (o #t) (k 0)))) (h "0gbvsj6gz3w1cv169hi1sff0sn44v4gb7g14gnlfb6wmlnkmxqxv") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std"))))))
+
+(define-public crate-packable-0.10.1 (c (n "packable") (v "0.10.1") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("ahash" "inline-more"))) (k 0)) (d (n "packable-derive") (r "=0.9.0") (k 0)) (d (n "primitive-types") (r "^0.12.2") (o #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (o #t) (k 0)))) (h "13pr1swlcklv1cz4spjfirhwiqmh03fh8di5pifm379ib9qxkfrf") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std") ("serde" "dep:serde" "hashbrown/serde"))))))
+
+(define-public crate-packable-0.11.0 (c (n "packable") (v "0.11.0") (d (list (d (n "autocfg") (r "^1.1.0") (k 1)) (d (n "hashbrown") (r "^0.14.3") (f (quote ("ahash" "inline-more"))) (k 0)) (d (n "packable-derive") (r "=0.10.0") (k 0)) (d (n "primitive-types") (r "^0.12.2") (o #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "alloc"))) (o #t) (k 0)))) (h "0gfca6yz25wn92b6pfb7m5yj9jj2sd481ip5l2qg7bz93m5rdz01") (f (quote (("usize") ("io" "std")))) (s 2) (e (quote (("std" "serde?/std" "primitive-types?/std") ("serde" "dep:serde" "hashbrown/serde"))))))
+

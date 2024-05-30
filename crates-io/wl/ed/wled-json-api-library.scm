@@ -1,0 +1,18 @@
+(define-module (crates-io wl ed wled-json-api-library) #:use-module (crates-io))
+
+(define-public crate-wled-json-api-library-0.1.0 (c (n "wled-json-api-library") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1jmi93vcc88mpdqj47xlr8z5hsyqyvzbvidvb01i7q621pmyyssc")))
+
+(define-public crate-wled-json-api-library-0.1.1 (c (n "wled-json-api-library") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0jpwv7gs588iq55qxsvd64lh77595k8syka73jpxwpz4cvqwzghs")))
+
+(define-public crate-wled-json-api-library-0.1.2 (c (n "wled-json-api-library") (v "0.1.2") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "191k3a6a6in5n9ahi1zlix9lvykgc11xkg1jrxaf4anh02darvpg")))
+
+(define-public crate-wled-json-api-library-0.1.3 (c (n "wled-json-api-library") (v "0.1.3") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1xamlxff7dxx88kzkwa838dbcqivq35c0686lh7kp6261m8882r4")))
+
+(define-public crate-wled-json-api-library-0.1.4 (c (n "wled-json-api-library") (v "0.1.4") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1499dkbllfjql9fg9sbrnrzycv5z5a0zkvrb1bb1ldg0dvgv214y")))
+
+(define-public crate-wled-json-api-library-0.1.5 (c (n "wled-json-api-library") (v "0.1.5") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0hd5i9jq78vlm0ga24wyb6g21cpmmvlizbvg8c68clxdbjcwz01l")))
+
+(define-public crate-wled-json-api-library-0.1.6 (c (n "wled-json-api-library") (v "0.1.6") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0irkljri6alxzcwh62b8css4m6c11w9fajdfs9bsjn0m03wfsn0n")))
+
+(define-public crate-wled-json-api-library-0.1.7 (c (n "wled-json-api-library") (v "0.1.7") (d (list (d (n "reqwest") (r "^0.11.22") (f (quote ("gzip" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-aux-ext") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "038653q040zxnlv9fndjr0i8lc90czzy9xhj551h3p7lhdhcvqr4")))
+

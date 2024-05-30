@@ -1,0 +1,6 @@
+(define-module (crates-io to rr torrentinfo) #:use-module (crates-io))
+
+(define-public crate-torrentinfo-0.1.0 (c (n "torrentinfo") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "number_prefix") (r "^0.2.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.45") (d #t) (k 0)) (d (n "serde_bencode") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10.4") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.45") (d #t) (k 0)) (d (n "sha-1") (r "^0.7.0") (d #t) (k 0)) (d (n "yansi") (r "^0.4.0") (d #t) (k 0)))) (h "0a79sip8b569xzr7bv4ah9gq249j3zyv8pj2m0rv77pg7ninbkvp")))
+
+(define-public crate-torrentinfo-0.1.1 (c (n "torrentinfo") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.2") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.11.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "number_prefix") (r "^0.2.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.45") (d #t) (k 0)) (d (n "serde_bencode") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10.4") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.45") (d #t) (k 0)) (d (n "sha-1") (r "^0.7.0") (d #t) (k 0)) (d (n "yansi") (r "^0.4.0") (d #t) (k 0)))) (h "1b9r1vb5sn42cdkgqv9damswadsbqplxzs095nfwsxw2h52sm813")))
+

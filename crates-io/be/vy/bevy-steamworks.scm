@@ -1,0 +1,28 @@
+(define-module (crates-io be vy bevy-steamworks) #:use-module (crates-io))
+
+(define-public crate-bevy-steamworks-0.1.0 (c (n "bevy-steamworks") (v "0.1.0") (d (list (d (n "bevy_app") (r "^0.5") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.5") (d #t) (k 0)) (d (n "bevy_log") (r "^0.5") (d #t) (k 0)) (d (n "steamworks") (r "^0.7") (d #t) (k 0)))) (h "0hn0ywypcv7sv8dsamkwr2vjipd54fx6g42by1fv4ksmw3vx27xs")))
+
+(define-public crate-bevy-steamworks-0.1.1 (c (n "bevy-steamworks") (v "0.1.1") (d (list (d (n "bevy_app") (r "^0.5") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.5") (d #t) (k 0)) (d (n "bevy_log") (r "^0.5") (d #t) (k 0)) (d (n "steamworks") (r "^0.7") (d #t) (k 0)))) (h "0qxd3jf7qqws3cs4fh15vbclgjmmdc689v0xg9fqsz0ii0nq17yv") (f (quote (("docs-only" "steamworks/docs-only") ("default"))))))
+
+(define-public crate-bevy-steamworks-0.1.2 (c (n "bevy-steamworks") (v "0.1.2") (d (list (d (n "bevy_app") (r "^0.5") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.5") (d #t) (k 0)) (d (n "bevy_log") (r "^0.5") (d #t) (k 0)) (d (n "steamworks") (r "^0.7") (d #t) (k 0)))) (h "1f823rm4qb0pc87g9kqlkpiqr5yr7akqlklcxk309jj59xwc1v4p") (f (quote (("docs-only" "steamworks/docs-only") ("default"))))))
+
+(define-public crate-bevy-steamworks-0.2.0 (c (n "bevy-steamworks") (v "0.2.0") (d (list (d (n "bevy_app") (r "^0.6") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.6") (d #t) (k 0)) (d (n "bevy_log") (r "^0.6") (d #t) (k 0)) (d (n "steamworks") (r "^0.8") (d #t) (k 0)))) (h "0dnrajh1qyni4cd9pch15crk8g12qwpr8b2548k7p24rmc070gnd") (f (quote (("docs-only" "steamworks/docs-only") ("default"))))))
+
+(define-public crate-bevy-steamworks-0.3.0 (c (n "bevy-steamworks") (v "0.3.0") (d (list (d (n "bevy") (r "^0.6") (d #t) (k 2)) (d (n "bevy_app") (r "^0.6") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.6") (d #t) (k 0)) (d (n "bevy_log") (r "^0.6") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "steamworks") (r "^0.8") (d #t) (k 0)))) (h "14xz0ka14qd5aqr2izxrndka5285y7lkjyam6lkwbpdhyl5kdrpy") (f (quote (("docs-only" "steamworks/docs-only") ("default"))))))
+
+(define-public crate-bevy-steamworks-0.4.0 (c (n "bevy-steamworks") (v "0.4.0") (d (list (d (n "bevy") (r "^0.7") (d #t) (k 2)) (d (n "bevy_app") (r "^0.7") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.7") (d #t) (k 0)) (d (n "bevy_log") (r "^0.7") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "steamworks") (r "^0.9") (d #t) (k 0)))) (h "0lcka8wrk4gaxnhq4nf2jx4awqssxknjibw9b1xx1kzmi7rhxj5q") (f (quote (("default"))))))
+
+(define-public crate-bevy-steamworks-0.5.0 (c (n "bevy-steamworks") (v "0.5.0") (d (list (d (n "bevy") (r "^0.8") (d #t) (k 2)) (d (n "bevy_app") (r "^0.8") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.8") (d #t) (k 0)) (d (n "bevy_log") (r "^0.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "steamworks") (r "^0.9") (d #t) (k 0)))) (h "1ckzg9ywa0zwknyxcjyrfca903rhw4gcx622mb30gz2zr355nvzz") (f (quote (("default"))))))
+
+(define-public crate-bevy-steamworks-0.6.0 (c (n "bevy-steamworks") (v "0.6.0") (d (list (d (n "bevy") (r "^0.9") (d #t) (k 2)) (d (n "bevy_app") (r "^0.9") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.9") (d #t) (k 0)) (d (n "bevy_log") (r "^0.9") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "steamworks") (r "^0.9") (d #t) (k 0)))) (h "0f5bx8zx58my8c8181npxykwx3jmnaxckw1ndx0bnmnpf581x4wi") (f (quote (("default"))))))
+
+(define-public crate-bevy-steamworks-0.7.0 (c (n "bevy-steamworks") (v "0.7.0") (d (list (d (n "bevy") (r "^0.10") (d #t) (k 2)) (d (n "bevy_app") (r "^0.10") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.10") (d #t) (k 0)) (d (n "bevy_log") (r "^0.10") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.10") (d #t) (k 0)) (d (n "steamworks") (r "^0.9") (d #t) (k 0)))) (h "17hcw233mmb3jgx1x272cyxsnqwvwbvfshlspj0vnfw391dhxn1f") (f (quote (("default"))))))
+
+(define-public crate-bevy-steamworks-0.8.0 (c (n "bevy-steamworks") (v "0.8.0") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 2)) (d (n "bevy_app") (r "^0.11") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.11") (d #t) (k 0)) (d (n "bevy_log") (r "^0.11") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.11") (d #t) (k 0)) (d (n "steamworks") (r "^0.10") (d #t) (k 0)))) (h "1pcm1hqm44vx2r3d01jpl7py35kbfnzbp5gd11naxnipbkndpbnz") (f (quote (("default"))))))
+
+(define-public crate-bevy-steamworks-0.9.0 (c (n "bevy-steamworks") (v "0.9.0") (d (list (d (n "bevy") (r "^0.12") (d #t) (k 2)) (d (n "bevy_app") (r "^0.12") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12") (d #t) (k 0)) (d (n "bevy_log") (r "^0.12") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.12") (d #t) (k 0)) (d (n "steamworks") (r "^0.10") (d #t) (k 0)))) (h "0safza23053xy716shmmfi0qi8hfrzffbxv1rxaabn2v9q7drg7q") (f (quote (("serde" "steamworks/serde") ("default"))))))
+
+(define-public crate-bevy-steamworks-0.10.0 (c (n "bevy-steamworks") (v "0.10.0") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 2)) (d (n "bevy_app") (r "^0.13") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.13") (d #t) (k 0)) (d (n "bevy_log") (r "^0.13") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.13") (d #t) (k 0)) (d (n "steamworks") (r "^0.11") (d #t) (k 0)))) (h "1n3prvc3sls0qcysfqjfmrinzxy03yh204l06ssvbnpqbpf6mq8x") (f (quote (("serde" "steamworks/serde") ("default"))))))
+
+(define-public crate-bevy-steamworks-0.11.0 (c (n "bevy-steamworks") (v "0.11.0") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 2)) (d (n "bevy_app") (r "^0.13") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.13") (d #t) (k 0)) (d (n "bevy_log") (r "^0.13") (d #t) (k 0)) (d (n "bevy_utils") (r "^0.13") (d #t) (k 0)) (d (n "steamworks") (r "^0.11") (d #t) (k 0)))) (h "05md35db71mb8h4cq8b49yr9hzf0bgvhqbcw8as73v3v5gbziakm") (f (quote (("serde" "steamworks/serde") ("default"))))))
+

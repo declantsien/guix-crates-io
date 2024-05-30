@@ -1,0 +1,10 @@
+(define-module (crates-io fo re forecaster) #:use-module (crates-io))
+
+(define-public crate-forecaster-0.1.0 (c (n "forecaster") (v "0.1.0") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1pm57swhgx2xgpwn60jdac73r839vwwfkb733f6dqknbm3qfa9z5")))
+
+(define-public crate-forecaster-0.1.1 (c (n "forecaster") (v "0.1.1") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)))) (h "1x5y95097c67rszp0553idmdyr3lfydy1y51y35vfbxysg4lrl98")))
+
+(define-public crate-forecaster-0.1.2 (c (n "forecaster") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0wyrhgsfynw77jd5sv00ilzd3xxyg60g94zrgh49ndv7wxrvawpj")))
+
+(define-public crate-forecaster-0.1.3 (c (n "forecaster") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.74") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1wv4h08drcr9sbi592wl2p0gx9l5zmfqm6m7qn12a64giaf260dn")))
+

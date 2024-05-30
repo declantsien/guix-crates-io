@@ -1,0 +1,4 @@
+(define-module (crates-io im ag image4-pki) #:use-module (crates-io))
+
+(define-public crate-image4-pki-0.1.0 (c (n "image4-pki") (v "0.1.0") (d (list (d (n "const-oid") (r "^0.9") (f (quote ("db"))) (d #t) (k 0)) (d (n "der") (r "^0.7") (f (quote ("oid" "std"))) (d #t) (k 0)) (d (n "ecdsa") (r "^0.16") (f (quote ("std" "der"))) (d #t) (k 0)) (d (n "p256") (r "^0.13") (d #t) (k 0)) (d (n "p384") (r "^0.13") (d #t) (k 0)) (d (n "pkcs8") (r "^0.10") (d #t) (k 0)) (d (n "rsa") (r "^0.9") (f (quote ("std" "sha1" "sha2"))) (d #t) (k 0)) (d (n "sec1") (r "^0.7") (f (quote ("pkcs8" "std"))) (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "signature") (r "^2.1") (d #t) (k 0)) (d (n "spki") (r "^0.7") (d #t) (k 0)))) (h "0fs97vjbv9g6px9sqlkjj68y3kq8h988cf1mcr607vaamvd8nqk1") (r "1.65")))
+

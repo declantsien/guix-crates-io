@@ -1,0 +1,10 @@
+(define-module (crates-io ty ps typst-syntax) #:use-module (crates-io))
+
+(define-public crate-typst-syntax-0.1.0 (c (n "typst-syntax") (v "0.1.0") (h "0s9n7w3cwp08j7zk8basxklxh0ph5hknrp0i7n4008r3sb8m9vjh")))
+
+(define-public crate-typst-syntax-0.11.0-rc1 (c (n "typst-syntax") (v "0.11.0-rc1") (d (list (d (n "comemo") (r "^0.4") (d #t) (k 0)) (d (n "ecow") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.184") (f (quote ("derive"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)) (d (n "unicode-math-class") (r "^0.1") (d #t) (k 0)) (d (n "unicode-script") (r "^0.5") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1") (d #t) (k 0)) (d (n "unscanny") (r "^0.1") (d #t) (k 0)))) (h "07br6m4x2mjp2zpzhfr26d5rjgxvsvjx94im7jl5pj5k3974h8j5") (r "1.74")))
+
+(define-public crate-typst-syntax-0.11.0 (c (n "typst-syntax") (v "0.11.0") (d (list (d (n "comemo") (r "^0.4") (d #t) (k 0)) (d (n "ecow") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.184") (f (quote ("derive"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)) (d (n "unicode-math-class") (r "^0.1") (d #t) (k 0)) (d (n "unicode-script") (r "^0.5") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1") (d #t) (k 0)) (d (n "unscanny") (r "^0.1") (d #t) (k 0)))) (h "1zkm9dbxwgmd9vkxbypxjn34am4vs7x7dsm1pr332dph32zqcz9n") (r "1.74")))
+
+(define-public crate-typst-syntax-0.11.1 (c (n "typst-syntax") (v "0.11.1") (d (list (d (n "comemo") (r "^0.4") (d #t) (k 0)) (d (n "ecow") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.184") (f (quote ("derive"))) (d #t) (k 0)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)) (d (n "unicode-math-class") (r "^0.1") (d #t) (k 0)) (d (n "unicode-script") (r "^0.5") (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1") (d #t) (k 0)) (d (n "unscanny") (r "^0.1") (d #t) (k 0)))) (h "1i20vfmdxkk0ym36rqwy15zi6965gpyl9v6vdvzv24qnykr6knz3") (r "1.74")))
+

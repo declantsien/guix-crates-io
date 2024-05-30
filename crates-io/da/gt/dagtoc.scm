@@ -1,0 +1,6 @@
+(define-module (crates-io da gt dagtoc) #:use-module (crates-io))
+
+(define-public crate-dagtoc-4.0.0 (c (n "dagtoc") (v "4.0.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive" "env"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.3.2") (d #t) (k 1)) (d (n "clap_complete_nushell") (r "^4.3.1") (d #t) (k 1)) (d (n "kdl") (r "^4.6.0") (d #t) (k 0)) (d (n "mupdf") (r "^0.4.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (f (quote ("auto-initialize"))) (d #t) (k 0)))) (h "07gpncfy1ydi737zj940k25gvzzwcw7bf935c4pl0lgzvfj53sjr")))
+
+(define-public crate-dagtoc-4.0.1 (c (n "dagtoc") (v "4.0.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive" "env"))) (d #t) (k 1)) (d (n "clap_complete") (r "^4.3.2") (d #t) (k 1)) (d (n "clap_complete_nushell") (r "^4.3.1") (d #t) (k 1)) (d (n "kdl") (r "^4.6.0") (d #t) (k 0)) (d (n "mupdf") (r "^0.4.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.2") (f (quote ("auto-initialize"))) (d #t) (k 0)))) (h "0c16k38vf48pxv860yzfnfvbkzwdqqwbhjvm83ljga2blv5ibdi5")))
+

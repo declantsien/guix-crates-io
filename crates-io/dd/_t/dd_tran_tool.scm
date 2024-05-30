@@ -1,0 +1,8 @@
+(define-module (crates-io dd _t dd_tran_tool) #:use-module (crates-io))
+
+(define-public crate-dd_tran_tool-0.1.0 (c (n "dd_tran_tool") (v "0.1.0") (d (list (d (n "baidu_trans") (r "^0.7.5") (f (quote ("aio"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0nl3p2d0il5xxxk4jsdz4ci2rgs79n96pvn6xf6kzrqxgcspxvr5")))
+
+(define-public crate-dd_tran_tool-0.1.1 (c (n "dd_tran_tool") (v "0.1.1") (d (list (d (n "baidu_trans") (r "^0.7.5") (f (quote ("aio"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1198cy03i38ccqym9ans0rv75gjvwglbnslkzkjgydg5a7kardx6")))
+
+(define-public crate-dd_tran_tool-0.1.2 (c (n "dd_tran_tool") (v "0.1.2") (d (list (d (n "baidu_trans") (r "^0.7.5") (f (quote ("aio"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1ygkhchk6lb7bh6a0b7yggxg9z51fbjfy004sldv30yfr0m315y1")))
+

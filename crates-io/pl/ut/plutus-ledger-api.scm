@@ -1,0 +1,4 @@
+(define-module (crates-io pl ut plutus-ledger-api) #:use-module (crates-io))
+
+(define-public crate-plutus-ledger-api-0.1.0 (c (n "plutus-ledger-api") (v "0.1.0") (d (list (d (n "data-encoding") (r "^2.4.0") (o #t) (d #t) (k 0)) (d (n "lbr-prelude") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "linked-hash-map") (r "~0.5.6") (d #t) (k 0)) (d (n "num-bigint") (r "~0.4") (d #t) (k 0)) (d (n "num-traits") (r "~0.2.17") (d #t) (k 0)) (d (n "proptest") (r "^1.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (f (quote ("arbitrary_precision"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "true") (r "~0.1.0") (o #t) (d #t) (k 0)))) (h "1b0wwl1xk39kw8slzm9yn55lwh8db1dxkwisqpjj8yjxl07sl1bj") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "num-bigint/serde") ("lbf" "dep:lbr-prelude" "dep:data-encoding" "dep:serde_json"))))))
+

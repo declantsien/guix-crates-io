@@ -1,0 +1,8 @@
+(define-module (crates-io pr e- pre-proc-macro) #:use-module (crates-io))
+
+(define-public crate-pre-proc-macro-0.1.0 (c (n "pre-proc-macro") (v "0.1.0") (d (list (d (n "cfg-if") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "syn") (r "^1.0.23") (f (quote ("full" "visit-mut" "extra-traits"))) (d #t) (k 0)))) (h "19a7bwn4yv0wvb7vn5a2pjzigw4jlh7kz2b8l7wkfqkzddgvi3dl")))
+
+(define-public crate-pre-proc-macro-0.2.0 (c (n "pre-proc-macro") (v "0.2.0") (d (list (d (n "cfg-if") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "syn") (r "^1.0.23") (f (quote ("full" "visit-mut" "extra-traits"))) (d #t) (k 0)))) (h "13km79bi2420aa14bkp10vqs0aqayd3yn84aadvv0faz79672a53")))
+
+(define-public crate-pre-proc-macro-0.2.1 (c (n "pre-proc-macro") (v "0.2.1") (d (list (d (n "cfg-if") (r "^0.1.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^0.1.5") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "syn") (r "^1.0.23") (f (quote ("full" "visit-mut" "extra-traits"))) (d #t) (k 0)))) (h "1qqdaqj0ai6q2z8h3sn9kk5sjj09grs4qkz7m50nnfr56npkj0x4")))
+

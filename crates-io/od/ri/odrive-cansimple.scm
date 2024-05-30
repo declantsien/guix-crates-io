@@ -1,0 +1,16 @@
+(define-module (crates-io od ri odrive-cansimple) #:use-module (crates-io))
+
+(define-public crate-odrive-cansimple-0.1.0 (c (n "odrive-cansimple") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "17b26f7slq2nx6kpr4c7awmzdmpi5lqvld0ksgaxdhb800ws63is") (f (quote (("vcan_tests"))))))
+
+(define-public crate-odrive-cansimple-0.1.1 (c (n "odrive-cansimple") (v "0.1.1") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "0xrhy9ywpxskj6pkvdxvx97q5m6akcm89995cr7m42arf37ifmzz") (f (quote (("vcan_tests"))))))
+
+(define-public crate-odrive-cansimple-0.2.0 (c (n "odrive-cansimple") (v "0.2.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "1kfjpw8rkd0039xqkhxv3v8cj45c2xpwgz1cv9fipgi21l2155z1") (f (quote (("vcan_tests"))))))
+
+(define-public crate-odrive-cansimple-0.2.1 (c (n "odrive-cansimple") (v "0.2.1") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "02j5jcrswa7aznz7ljmrymk843wddzmcdgy2097q5zr5dmy43wfi") (f (quote (("vcan_tests"))))))
+
+(define-public crate-odrive-cansimple-0.2.2 (c (n "odrive-cansimple") (v "0.2.2") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "06jz8bmw8lfwkbmqydramhhkx99v056rfas2hqs54lkrvyaqi8a4") (f (quote (("vcan_tests"))))))
+
+(define-public crate-odrive-cansimple-0.2.3 (c (n "odrive-cansimple") (v "0.2.3") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "11dj30rm6dr47vi0h8d870rasn7zlkjn0ha7j8bxr1b5s78g04rc") (f (quote (("vcan_tests"))))))
+
+(define-public crate-odrive-cansimple-0.3.0 (c (n "odrive-cansimple") (v "0.3.0") (d (list (d (n "bitflags") (r "^1.2.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "socketcan") (r "^1.7.0") (d #t) (k 0)))) (h "1sj5lljhcccjsqr7q6pl60brvy50apm858w042cms3ndfrmkbfnb") (f (quote (("vcan_tests"))))))
+

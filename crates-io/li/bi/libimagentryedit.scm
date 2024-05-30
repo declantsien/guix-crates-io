@@ -1,0 +1,36 @@
+(define-module (crates-io li bi libimagentryedit) #:use-module (crates-io))
+
+(define-public crate-libimagentryedit-0.2.0 (c (n "libimagentryedit") (v "0.2.0") (d (list (d (n "libimagerror") (r "^0.2.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.2.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.2.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.2.0") (d #t) (k 0)))) (h "0jrdrc8jxw00cv8zkdp62bgaxmxiqaqsawr6ai9xiy2an4ms2xyh")))
+
+(define-public crate-libimagentryedit-0.3.0 (c (n "libimagentryedit") (v "0.3.0") (d (list (d (n "libimagerror") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.3.0") (d #t) (k 0)))) (h "1hg01a3nkwqsxanps087hixj374mdsb07xma4v0hyk2s5mqzdbmh")))
+
+(define-public crate-libimagentryedit-0.4.0 (c (n "libimagentryedit") (v "0.4.0") (d (list (d (n "error-chain") (r "^0.10") (d #t) (k 0)) (d (n "libimagerror") (r "^0.4.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.4.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.4.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.4.0") (d #t) (k 0)))) (h "113lqslajgsa5c21hplv6rizlkhfyw82dlmmj20iawa2n3cadwkc")))
+
+(define-public crate-libimagentryedit-0.5.0 (c (n "libimagentryedit") (v "0.5.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.5.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.5.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.5.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.5.0") (d #t) (k 0)))) (h "1mcipr4l25csifrx9frbiqmhz5hrnzjcc3adc9zqzy0nhq629np7")))
+
+(define-public crate-libimagentryedit-0.6.0 (c (n "libimagentryedit") (v "0.6.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.6.0") (d #t) (k 0)))) (h "1931a1z4ly8ragghi7yvspa1fgnrmifqrjabhm9b5vcijs038jww")))
+
+(define-public crate-libimagentryedit-0.6.2 (c (n "libimagentryedit") (v "0.6.2") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.2") (d #t) (k 0)) (d (n "libimagutil") (r "^0.6.2") (d #t) (k 0)))) (h "05zwx55rwh0zhzg9yvhmjl1d8vvy58xr5mxa0kgpjdn6zcjibiv4")))
+
+(define-public crate-libimagentryedit-0.6.3 (c (n "libimagentryedit") (v "0.6.3") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.3") (d #t) (k 0)) (d (n "libimagutil") (r "^0.6.3") (d #t) (k 0)))) (h "0phd5g93qjpzgf8w9yk0dhj6akx5ia5q4d8s7fg3mi8iskvbja0z")))
+
+(define-public crate-libimagentryedit-0.6.4 (c (n "libimagentryedit") (v "0.6.4") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagrt") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagstore") (r "^0.6.4") (d #t) (k 0)) (d (n "libimagutil") (r "^0.6.4") (d #t) (k 0)))) (h "1gkp9vzgbj58arrc8br2yf51ngz65a9ksasn9m8xb9d35qj6snwh")))
+
+(define-public crate-libimagentryedit-0.7.0 (c (n "libimagentryedit") (v "0.7.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.7.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "11bd8xmxza2zy7dccxk7sppqajj81lfs6plgwfnym2h87z3mchd4")))
+
+(define-public crate-libimagentryedit-0.7.1 (c (n "libimagentryedit") (v "0.7.1") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.7.1") (d #t) (k 0)) (d (n "libimagutil") (r "^0.7.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "0vb6i238alf2qyl04w7rbz30i9a2wzpsn4606hp1hlf0hcc54xas")))
+
+(define-public crate-libimagentryedit-0.8.0 (c (n "libimagentryedit") (v "0.8.0") (d (list (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "libimagerror") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.8.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "1xm9rrlplg9ypagh7vzcj6928a58magw88p3s9d6b02fqs4qg18v")))
+
+(define-public crate-libimagentryedit-0.9.0 (c (n "libimagentryedit") (v "0.9.0") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.9.0") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "098dgn65r54x6pmr2np13pjy7qa50nvzz10gzx48km8innv9yki0")))
+
+(define-public crate-libimagentryedit-0.9.1 (c (n "libimagentryedit") (v "0.9.1") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagutil") (r "^0.9.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "13q8d0g0qib6jfr5cnbyrn9a4d3k76miii967wj63aay0623wvmz")))
+
+(define-public crate-libimagentryedit-0.9.2 (c (n "libimagentryedit") (v "0.9.2") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagutil") (r "^0.9.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "0cfvikdbzs8k4lj6ri6qk910410wk2v2njcqh87qp1hvlksj3m9k")))
+
+(define-public crate-libimagentryedit-0.9.3 (c (n "libimagentryedit") (v "0.9.3") (d (list (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "libimagerror") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagstore") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagutil") (r "^0.9.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)))) (h "18di2pmjhysp17an77xfqn6gaj4bap8zxxn8wfc2jqgy7yrg3zll")))
+
+(define-public crate-libimagentryedit-0.10.0 (c (n "libimagentryedit") (v "0.10.0") (d (list (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.10.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)))) (h "0q0mpbywxa0y1572lfrx1wd1i267mlls16dsj3798hjai8y65sbw")))
+
+(define-public crate-libimagentryedit-0.10.1 (c (n "libimagentryedit") (v "0.10.1") (d (list (d (n "error-chain") (r "^0.12.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagstore") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagutil") (r "^0.10.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)))) (h "027km3yv3ca310fq82lcpb5v2s1mdg344hzban79jypawicisbmn")))
+

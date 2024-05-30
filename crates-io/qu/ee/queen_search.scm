@@ -1,0 +1,8 @@
+(define-module (crates-io qu ee queen_search) #:use-module (crates-io))
+
+(define-public crate-queen_search-0.1.0 (c (n "queen_search") (v "0.1.0") (d (list (d (n "derive-new") (r "^0.5.9") (d #t) (k 0)) (d (n "elasticsearch") (r "^8.5.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^1.8") (f (quote ("full"))) (d #t) (k 0)))) (h "168y5c4vxhmjqq7ja7g73jvvv0sgqz2gcgr1gdk40fgcdyi9bpha")))
+
+(define-public crate-queen_search-0.2.0 (c (n "queen_search") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "derive-getters") (r "^0.2.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.5.9") (d #t) (k 0)) (d (n "elasticsearch") (r "^8.5.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^1.8") (f (quote ("full"))) (d #t) (k 0)))) (h "05i3bnykffwsi1gxvvhsgi01nhni2p3yxsmn07l5rw2kxdwdjxry")))
+
+(define-public crate-queen_search-0.2.1 (c (n "queen_search") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1.60") (d #t) (k 0)) (d (n "derive-getters") (r "^0.2.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.5.9") (d #t) (k 0)) (d (n "elasticsearch") (r "^8.5.0-alpha.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "log4rs") (r "^1.2.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 0)) (d (n "tokio") (r "^1.8") (f (quote ("full"))) (d #t) (k 0)))) (h "02fb34dmh2zzcyl4y4lrksi8j3j3ha0iawx4zmd3wbrv62hjjf2i")))
+

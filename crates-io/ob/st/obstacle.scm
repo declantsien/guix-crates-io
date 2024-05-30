@@ -1,0 +1,4 @@
+(define-module (crates-io ob st obstacle) #:use-module (crates-io))
+
+(define-public crate-obstacle-0.0.2 (c (n "obstacle") (v "0.0.2") (d (list (d (n "aws-creds") (r "^0.35.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.28") (d #t) (k 0)) (d (n "home") (r "^0.5.5") (d #t) (k 0)) (d (n "memmap2") (r "^0.7.1") (d #t) (k 0)) (d (n "object_store") (r "^0.6.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)) (d (n "uuid") (r "^1.4.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0mbw1z0kl6mla7qnyv0qqgin2x92k16d2r85ql6fs7cl02c77ix3") (f (quote (("serde-lazy") ("http" "async" "object_store/http") ("gcp" "async" "object_store/gcp") ("azure" "async" "object_store/azure") ("aws" "async" "object_store/aws") ("async"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr an transport) #:use-module (crates-io))
+
+(define-public crate-transport-0.1.0 (c (n "transport") (v "0.1.0") (d (list (d (n "byteorder") (r "~0.5.1") (d #t) (k 0)) (d (n "crossbeam") (r "~0.2.8") (d #t) (k 0)) (d (n "log") (r "~0.3.5") (d #t) (k 0)) (d (n "loggerv") (r "~0.2.0") (d #t) (k 0)) (d (n "lru_time_cache") (r "~0.3.0") (d #t) (k 0)) (d (n "maidsafe_utilities") (r "~0.4.1") (d #t) (k 0)) (d (n "nat_traversal") (r "~0.4.0") (d #t) (k 0)) (d (n "net2") (r "~0.2.22") (d #t) (k 0)) (d (n "quick-error") (r "~1.0.0") (d #t) (k 0)) (d (n "rand") (r "~0.3.14") (d #t) (k 0)) (d (n "rustc-serialize") (r "~0.3.18") (d #t) (k 0)) (d (n "socket_addr") (r "~0.1.0") (d #t) (k 0)) (d (n "url") (r "~0.5.7") (d #t) (k 0)) (d (n "void") (r "~1.0.1") (d #t) (k 0)) (d (n "w_result") (r "~0.1.2") (d #t) (k 0)))) (h "1i3zz1dlvph19ys4jqjw41xag1zqnli9hrf5dn12w9h6ld15fi0k")))
+

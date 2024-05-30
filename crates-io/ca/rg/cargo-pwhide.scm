@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-pwhide) #:use-module (crates-io))
+
+(define-public crate-cargo-pwhide-0.3.3 (c (n "cargo-pwhide") (v "0.3.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "base-62") (r "^0.1.1") (d #t) (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.23") (f (quote ("default"))) (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (f (quote ("parse"))) (o #t) (d #t) (k 0)))) (h "0cpg9pyncg4rwzsy5gs66r0zcjax8iw1wm0d69hjw60fax1gaadk") (f (quote (("lib") ("default" "cargo" "lib")))) (y #t) (s 2) (e (quote (("cargo" "dep:clap" "dep:toml"))))))
+
+(define-public crate-cargo-pwhide-0.3.4 (c (n "cargo-pwhide") (v "0.3.4") (d (list (d (n "anyhow") (r "1.0.*") (d #t) (k 0)) (d (n "base-62") (r "0.1.*") (d #t) (k 0)) (d (n "chacha20poly1305") (r "0.10.*") (d #t) (k 0)) (d (n "clap") (r "4.4.*") (f (quote ("default"))) (o #t) (d #t) (k 0)) (d (n "sha2") (r "0.10.*") (d #t) (k 0)) (d (n "toml") (r "0.7.*") (f (quote ("parse"))) (o #t) (d #t) (k 0)))) (h "1g2pmhjgnmzkqcwhipgzmqwf6mzydhzwwhmcylr6drxc3rr3zpi9") (f (quote (("lib") ("default" "cargo" "lib")))) (s 2) (e (quote (("cargo" "dep:clap" "dep:toml"))))))
+

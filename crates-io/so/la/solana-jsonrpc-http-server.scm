@@ -1,0 +1,14 @@
+(define-module (crates-io so la solana-jsonrpc-http-server) #:use-module (crates-io))
+
+(define-public crate-solana-jsonrpc-http-server-0.1.0 (c (n "solana-jsonrpc-http-server") (v "0.1.0") (d (list (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.1") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "1659jflk63cxmw0scqaq3qv3nqk6h28502dn9ajnlkd657qbmq61") (y #t)))
+
+(define-public crate-solana-jsonrpc-http-server-0.1.1 (c (n "solana-jsonrpc-http-server") (v "0.1.1") (d (list (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.1") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "1ywq2lljgchpifvgasnvp059xdrz3n2kh3hshxb8n6wif7cznfkk") (y #t)))
+
+(define-public crate-solana-jsonrpc-http-server-0.1.2 (c (n "solana-jsonrpc-http-server") (v "0.1.2") (d (list (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.1") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.1") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "079lccqsnqxjfp61x6dzlqfxkkbmhjr7nhpdrvkx2xn766678cx0") (y #t)))
+
+(define-public crate-solana-jsonrpc-http-server-0.2.0 (c (n "solana-jsonrpc-http-server") (v "0.2.0") (d (list (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.2.0") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.2.0") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "0cw5jkw9mcnn7837v6vh7dh635si0v398p0y5pv2n4z0ms1drll2") (y #t)))
+
+(define-public crate-solana-jsonrpc-http-server-0.3.0 (c (n "solana-jsonrpc-http-server") (v "0.3.0") (d (list (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.3.0") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.3.0") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "0nrapsgz7q15shkam4h8c87p2v8xfyc1m2hsjn31wwfrcwkzcngf") (y #t)))
+
+(define-public crate-solana-jsonrpc-http-server-0.4.0 (c (n "solana-jsonrpc-http-server") (v "0.4.0") (d (list (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "solana-jsonrpc-core") (r "^0.4.0") (d #t) (k 0)) (d (n "solana-jsonrpc-server-utils") (r "^0.4.0") (d #t) (k 0)) (d (n "unicase") (r "^2.0") (d #t) (k 0)))) (h "0smwinp3llb3199qqz1nhnqm55l120ri6hbf7s7c7j7s9d9vnv74") (y #t)))
+

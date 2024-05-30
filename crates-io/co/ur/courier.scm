@@ -1,0 +1,6 @@
+(define-module (crates-io co ur courier) #:use-module (crates-io))
+
+(define-public crate-courier-0.3.0 (c (n "courier") (v "0.3.0") (d (list (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.6") (d #t) (k 2)) (d (n "rocket") (r "^0.3.2") (d #t) (k 2)) (d (n "rocket_codegen") (r "^0.3.2") (d #t) (k 2)) (d (n "rocket_contrib") (r "^0.3.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "00py7h1kzr38k8z90qqmm60wa0p595smrx28hvsl6ja65bfgmsg9") (f (quote (("msgpack") ("json") ("default" "json"))))))
+
+(define-public crate-courier-0.3.1 (c (n "courier") (v "0.3.1") (d (list (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.6") (d #t) (k 2)) (d (n "rocket") (r "^0.3.2") (d #t) (k 2)) (d (n "rocket_codegen") (r "^0.3.2") (d #t) (k 2)) (d (n "rocket_contrib") (r "^0.3.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "1gbwc6wkdnd4hp9dadsy5qv4p339prngdg02d4yg47kll8bq59c6") (f (quote (("msgpack") ("json") ("default" "json"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io we at weather-underground) #:use-module (crates-io))
+
+(define-public crate-weather-underground-0.1.0 (c (n "weather-underground") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("cookies" "gzip" "json" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0gnqh6s1p3xrivaca913rw2rabdinfgxrgxkrk6dzrxpllfqrzm6")))
+
+(define-public crate-weather-underground-0.1.1 (c (n "weather-underground") (v "0.1.1") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("cookies" "gzip" "json" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "168pcb3x8nnnzl8wm978vl8p9zixydlrisd2gicg6n5rdknbns6i")))
+
+(define-public crate-weather-underground-0.1.2 (c (n "weather-underground") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies" "gzip" "json" "rustls-tls"))) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0lp5m1l912f1svk0bgdnl2fw0nvk7h1kzspyjfq9rw13r74cccb9")))
+
+(define-public crate-weather-underground-0.1.3 (c (n "weather-underground") (v "0.1.3") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies" "gzip" "json" "rustls-tls"))) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "187mmranp9b59l4f9c7cgsszgj87i5h0hc9g8was0g41xzs4xks8")))
+

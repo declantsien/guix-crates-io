@@ -1,0 +1,20 @@
+(define-module (crates-io ha ya hayami) #:use-module (crates-io))
+
+(define-public crate-hayami-0.1.0 (c (n "hayami") (v "0.1.0") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)))) (h "04p45dvjs0b6p5i0l5ahzb1dyps7fd897qaixfvd5arkp98rwnz5")))
+
+(define-public crate-hayami-0.1.1 (c (n "hayami") (v "0.1.1") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)))) (h "0hqypcv3kjpczbffw0s5vg9m5xxjnamq2k7759ip5y7g302zwwaw")))
+
+(define-public crate-hayami-0.2.0 (c (n "hayami") (v "0.2.0") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "elysees") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 2)) (d (n "im") (r "^15") (o #t) (d #t) (k 0)) (d (n "im-rc") (r "^15") (o #t) (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0lklqgq2q2bh1mdlch2m5wm3pfyjfw7zi141vzxp16bf8p4g15g1") (f (quote (("snap" "im") ("local" "im-rc") ("fast" "indexmap") ("elysees-arc" "elysees") ("default" "local" "snap" "fast" "elysees-arc"))))))
+
+(define-public crate-hayami-0.2.1 (c (n "hayami") (v "0.2.1") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "elysees") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 2)) (d (n "im") (r "^15") (o #t) (d #t) (k 0)) (d (n "im-rc") (r "^15") (o #t) (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0vq7sy632lb0ar975v73i6id39jaydkkqcd1k1d3g48qk42jh7gq") (f (quote (("snap" "im") ("local" "im-rc") ("fast" "indexmap") ("elysees-arc" "elysees") ("default" "local" "snap" "fast" "elysees-arc"))))))
+
+(define-public crate-hayami-0.3.0 (c (n "hayami") (v "0.3.0") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "elysees") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "fxhash") (r "^0.2") (d #t) (k 2)) (d (n "im") (r "^15") (o #t) (d #t) (k 0)) (d (n "im-rc") (r "^15") (o #t) (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "symbolmap-trait") (r "^0.1.1") (d #t) (k 0)))) (h "018iwd3hmhkkv8pz0jfnigsf3j6q00a0f3gkik5jf959qjimddnm") (f (quote (("snap" "im") ("local" "im-rc") ("fast" "indexmap") ("elysees-arc" "elysees") ("default" "local" "snap" "fast" "elysees-arc")))) (y #t)))
+
+(define-public crate-hayami-0.3.1 (c (n "hayami") (v "0.3.1") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (d #t) (k 0)))) (h "0479m59154plygrv3xn6mah32nz32jyq63x2kp7lld5g92r1bi7k") (y #t)))
+
+(define-public crate-hayami-0.4.0 (c (n "hayami") (v "0.4.0") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (f (quote ("testing"))) (d #t) (k 2)))) (h "1zp31skxinvp2vhmpvgywya64d9xqvi32nfph865cy4570mypg0j")))
+
+(define-public crate-hayami-0.4.1 (c (n "hayami") (v "0.4.1") (d (list (d (n "ahash") (r "^0.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (f (quote ("testing"))) (d #t) (k 2)))) (h "0hqvfg30rnkfxcqprmhyy3in8qcs2946h6bnpfg8cc8cy23smzbk")))
+
+(define-public crate-hayami-0.4.2 (c (n "hayami") (v "0.4.2") (d (list (d (n "ahash") (r "^0.8") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (d #t) (k 0)) (d (n "symbolmap-trait") (r "^0.1.1") (f (quote ("testing"))) (d #t) (k 2)))) (h "1d91vgziz8zdb85spiydijl0gdplp6zr36jw2jzhcv01hxlwi1wf")))
+

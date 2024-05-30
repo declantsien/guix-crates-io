@@ -1,0 +1,6 @@
+(define-module (crates-io fa st fast_aug) #:use-module (crates-io))
+
+(define-public crate-fast_aug-0.0.1 (c (n "fast_aug") (v "0.0.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "lipsum") (r "^0.9.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)) (d (n "unicode-segmentation") (r "^1.10.1") (d #t) (k 0)))) (h "0hbyg6rf7nwsrskw3w8bdxyjbqsp9bqdlqaaza3h5rbas2xh4nhq") (y #t)))
+
+(define-public crate-fast_aug-0.1.0 (c (n "fast_aug") (v "0.1.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "finalfusion") (r "^0.18") (d #t) (k 0)) (d (n "flamegraph") (r "^0.6") (d #t) (k 2)) (d (n "icu_locid") (r "^1.4") (d #t) (k 0)) (d (n "icu_properties") (r "^1.4") (d #t) (k 0)) (d (n "icu_provider") (r "^1.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "test-case") (r "^3.3") (d #t) (k 2)) (d (n "unicode-segmentation") (r "^1.10") (d #t) (k 0)))) (h "1bjbxivcr3gw6505k15mjlh9i15h5by911xinvnkkndy2adagr1j")))
+

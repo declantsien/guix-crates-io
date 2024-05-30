@@ -1,0 +1,4 @@
+(define-module (crates-io no de nodeinfo_fetch) #:use-module (crates-io))
+
+(define-public crate-nodeinfo_fetch-0.0.1 (c (n "nodeinfo_fetch") (v "0.0.1") (d (list (d (n "bytes") (r "^1.5.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "nodeinfo") (r "^0.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (o #t) (d #t) (k 0)) (d (n "ureq") (r "^2.8.0") (o #t) (k 0)))) (h "0ffkqspylmdzpqq4a2asy12v03jqwqs91nr2qjfiik3j46gc21p6") (f (quote (("default" "ureq")))) (s 2) (e (quote (("ureq" "dep:ureq") ("nodeinfo_fetch" "ureq" "ureq/brotli" "ureq/gzip" "ureq/flate2" "ureq/rustls" "ureq/tls" "dep:tracing-subscriber"))))))
+

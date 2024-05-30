@@ -1,0 +1,26 @@
+(define-module (crates-io ca pi capitan-lib) #:use-module (crates-io))
+
+(define-public crate-capitan-lib-0.1.0 (c (n "capitan-lib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util"))) (d #t) (k 0)))) (h "12j80hrmvmp2gr8ax1kgsw6is2k8fyspxgglx3lp4znq3c01v46y")))
+
+(define-public crate-capitan-lib-0.1.1 (c (n "capitan-lib") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util"))) (d #t) (k 0)))) (h "1sf1irfrb18h85b6mdfanrl4ibs3yyasfdp1p1yb2mznknsxj7a2")))
+
+(define-public crate-capitan-lib-0.1.2 (c (n "capitan-lib") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util"))) (d #t) (k 0)))) (h "1j71i0i5r1s57nh8wxis4jfs4ka1ja2i0s9rdjcw350f5vd4az0b")))
+
+(define-public crate-capitan-lib-0.1.3 (c (n "capitan-lib") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util"))) (d #t) (k 0)))) (h "0m0qc0aqbvxdzcvmrwlxcppd6vq8zrfwwm7ns7vwymq7anmig7vx")))
+
+(define-public crate-capitan-lib-0.1.4 (c (n "capitan-lib") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util"))) (d #t) (k 0)))) (h "04gp4j4kap705dhzdij1z36z88m022q55bmnxbylvqj9pd6j5s2y")))
+
+(define-public crate-capitan-lib-0.1.5 (c (n "capitan-lib") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "0xzj1jmgc7r47wa0kskk1fdnrgwws81diwidw4608cvns08nbm34")))
+
+(define-public crate-capitan-lib-0.1.6 (c (n "capitan-lib") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "16xsrpvpvnm6ghcqrcgf6dmg82wnn17azkckzry572n7apxy6ahv")))
+
+(define-public crate-capitan-lib-0.1.7 (c (n "capitan-lib") (v "0.1.7") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "0gcz133gy21p676cvjc4aadnc2zabvirlccian94p3yjfvssi847")))
+
+(define-public crate-capitan-lib-0.1.8 (c (n "capitan-lib") (v "0.1.8") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "14dzqi28y605r1k70yc0q3ip0yxblx27ym99m8cppfwwhqq0crhn")))
+
+(define-public crate-capitan-lib-0.2.0 (c (n "capitan-lib") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "0ysjwnikygd0qa2my2s1xxqdsk1d5gp3h008qi7rq5a5lanqri54")))
+
+(define-public crate-capitan-lib-0.2.1 (c (n "capitan-lib") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "12yafrrvafiyjbfprhhwxxbksdcg235rxvnzvq3srx6zn7y1lwdb")))
+
+(define-public crate-capitan-lib-0.3.0 (c (n "capitan-lib") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "net" "io-util" "sync"))) (d #t) (k 0)))) (h "0xlm0zy2lf330i1qs75r77qwlhxyk2fylcw7h1df5ard7rfn4s90")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io bl os blosc2-sys) #:use-module (crates-io))
+
+(define-public crate-blosc2-sys-0.2.0+2.13.2 (c (n "blosc2-sys") (v "0.2.0+2.13.2") (d (list (d (n "bindgen") (r "^0.64") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1lwqmj95j9fl6v0zd0arv7qsisqzd30iy43frn7s13bizhnd6hay") (f (quote (("use-system-blosc2") ("defaults")))) (l "blosc2")))
+
+(define-public crate-blosc2-sys-0.2.1+2.13.2 (c (n "blosc2-sys") (v "0.2.1+2.13.2") (d (list (d (n "bindgen") (r "^0.64") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1g8wyyjrragl1wj17sj5vdgg277abdlg86g4bvcr3bxpmrnsvsb4") (f (quote (("use-system-blosc2") ("defaults")))) (l "blosc2")))
+
+(define-public crate-blosc2-sys-0.2.2+2.13.2 (c (n "blosc2-sys") (v "0.2.2+2.13.2") (d (list (d (n "bindgen") (r "^0.64") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0k1b17n375gadavk9gd36dgy7ni9ybm664656sybh4cv7zcsf1ph") (f (quote (("use-system-blosc2") ("defaults")))) (l "blosc2")))
+
+(define-public crate-blosc2-sys-0.2.3+2.14.3 (c (n "blosc2-sys") (v "0.2.3+2.14.3") (d (list (d (n "bindgen") (r "^0.64") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "11dyl6xy5id59yawgkpzx3b0cq7s02p9ky72jkb3kwfbcmyvrc94") (f (quote (("static") ("shared") ("regenerate-bindings" "bindgen") ("default")))) (l "blosc2") (s 2) (e (quote (("use-system-blosc2" "dep:pkg-config"))))))
+
+(define-public crate-blosc2-sys-0.2.4+2.14.3 (c (n "blosc2-sys") (v "0.2.4+2.14.3") (d (list (d (n "bindgen") (r "^0.64") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "copy_dir") (r "^0.1.3") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "09bc835avcx9y967da8mcw3cnmjygl1dc9mdiy8zg99lard28awb") (f (quote (("static") ("shared") ("regenerate-bindings" "bindgen") ("default")))) (l "blosc2") (s 2) (e (quote (("use-system-blosc2" "dep:pkg-config"))))))
+
+(define-public crate-blosc2-sys-0.2.5+2.14.3 (c (n "blosc2-sys") (v "0.2.5+2.14.3") (d (list (d (n "bindgen") (r "^0.64") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "copy_dir") (r "^0.1.3") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "13dxz3rmbfg74ng6a0gc3bmrajpzhqvl39rf3mkcajjnksh7h51g") (f (quote (("static") ("shared") ("regenerate-bindings" "bindgen") ("default")))) (l "blosc2") (s 2) (e (quote (("use-system-blosc2" "dep:pkg-config"))))))
+
+(define-public crate-blosc2-sys-0.2.6+2.14.3 (c (n "blosc2-sys") (v "0.2.6+2.14.3") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "copy_dir") (r "^0.1.3") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "0b854dqvfm2849pc7i974ww529f6vr0jvkdy54ai4sgn7mmcs9yb") (f (quote (("static") ("shared") ("regenerate-bindings" "bindgen") ("default")))) (l "blosc2") (s 2) (e (quote (("use-system-blosc2" "dep:pkg-config"))))))
+

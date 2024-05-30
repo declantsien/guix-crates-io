@@ -1,0 +1,8 @@
+(define-module (crates-io ma ch machine-check-bitmask-switch) #:use-module (crates-io))
+
+(define-public crate-machine-check-bitmask-switch-0.2.0-alpha.1 (c (n "machine-check-bitmask-switch") (v "0.2.0-alpha.1") (d (list (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("visit-mut" "extra-traits"))) (d #t) (k 0)) (d (n "syn-path") (r "^2.0.0") (d #t) (k 0)))) (h "1smi2r5amy7470zf79p673sdybaf83azpl4k6lc36jwdn4rg4ncr") (r "1.75")))
+
+(define-public crate-machine-check-bitmask-switch-0.2.0-alpha.2 (c (n "machine-check-bitmask-switch") (v "0.2.0-alpha.2") (d (list (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("visit-mut" "extra-traits"))) (d #t) (k 0)) (d (n "syn-path") (r "^2.0.0") (d #t) (k 0)))) (h "0gyd6pmlbdlk021r37f8aw6w856gswfpq59hm942mmmz01qmnh9l") (r "1.75")))
+
+(define-public crate-machine-check-bitmask-switch-0.2.0 (c (n "machine-check-bitmask-switch") (v "0.2.0") (d (list (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("visit-mut" "extra-traits"))) (d #t) (k 0)) (d (n "syn-path") (r "^2.0.0") (d #t) (k 0)))) (h "1p572hm95bmlack0i6034k0adcd4bmjnnxldms1bh9hc4h5i4g04") (r "1.75")))
+

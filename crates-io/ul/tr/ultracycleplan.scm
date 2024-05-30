@@ -1,0 +1,4 @@
+(define-module (crates-io ul tr ultracycleplan) #:use-module (crates-io))
+
+(define-public crate-ultracycleplan-0.1.0 (c (n "ultracycleplan") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "geo-types") (r "^0.7") (d #t) (k 0)) (d (n "gpx") (r "^0.9") (d #t) (k 0)) (d (n "itertools") (r "^0.11") (d #t) (k 0)) (d (n "j4rs") (r "^0.16") (d #t) (k 0)) (d (n "json-ld") (r "^0.10") (f (quote ("reqwest"))) (d #t) (k 0)) (d (n "kml") (r "^0.8") (d #t) (k 0)) (d (n "lazy-regex") (r "^2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "select") (r "^0.6") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1jiq47fllxppz989bxkn880q4d7bvqw96z4cn1ha3hyqsf59zn4j")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io cl n- cln-grpc-plugin) #:use-module (crates-io))
+
+(define-public crate-cln-grpc-plugin-0.1.4 (c (n "cln-grpc-plugin") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cln-grpc") (r "^0.1") (f (quote ("server"))) (d #t) (k 0)) (d (n "cln-plugin") (r "^0.1") (d #t) (k 0)) (d (n "cln-rpc") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "rcgen") (r "^0.10") (f (quote ("pem" "x509-parser"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("tls" "transport"))) (d #t) (k 0)))) (h "1x78c7pmpx4i9i8a07d59qjnabvwbf8qcckzq379vasgv29jr11z")))
+
+(define-public crate-cln-grpc-plugin-0.1.5 (c (n "cln-grpc-plugin") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cln-grpc") (r "^0.1") (f (quote ("server"))) (d #t) (k 0)) (d (n "cln-plugin") (r "^0.1") (d #t) (k 0)) (d (n "cln-rpc") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "prost") (r "^0.11") (d #t) (k 0)) (d (n "rcgen") (r "^0.10") (f (quote ("pem" "x509-parser"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.8") (f (quote ("tls" "transport"))) (d #t) (k 0)))) (h "1x6vmkir7d5mkg3aha3hvh1wwrxd4w1v7axgd5m0a18xyw5a034k")))
+

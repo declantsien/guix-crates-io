@@ -1,0 +1,8 @@
+(define-module (crates-io es p3 esp32_tm1637) #:use-module (crates-io))
+
+(define-public crate-esp32_tm1637-0.1.0 (c (n "esp32_tm1637") (v "0.1.0") (d (list (d (n "esp-backtrace") (r "^0.9.0") (f (quote ("esp32" "panic-handler" "exception-handler" "print-uart"))) (d #t) (k 2)) (d (n "esp-hal") (r "^0.16.0") (f (quote ("eh1"))) (d #t) (k 2) (p "esp32-hal")) (d (n "esp-println") (r "^0.7.0") (f (quote ("esp32" "log"))) (d #t) (k 2)) (d (n "hal") (r "^1.0.0-rc.1") (d #t) (k 0) (p "embedded-hal")) (d (n "log") (r "^0.4.18") (d #t) (k 0)))) (h "00g6bml6ysf2xx6s5jxfk3yqbkr51mn6dzvsc5s6f0gkavk1k6mp") (y #t)))
+
+(define-public crate-esp32_tm1637-0.1.1 (c (n "esp32_tm1637") (v "0.1.1") (d (list (d (n "esp-backtrace") (r "^0.9.0") (f (quote ("esp32" "panic-handler" "exception-handler" "print-uart"))) (d #t) (k 2)) (d (n "esp-hal") (r "^0.16.0") (f (quote ("eh1"))) (d #t) (k 2) (p "esp32-hal")) (d (n "esp-println") (r "^0.7.0") (f (quote ("esp32" "log"))) (d #t) (k 2)) (d (n "hal") (r "^1.0.0-rc.1") (d #t) (k 0) (p "embedded-hal")) (d (n "log") (r "^0.4.18") (d #t) (k 0)))) (h "1b9ksbjbcaghsxpniyk203y45pq50hr5dc3fjxycsvbgjhffsbdk") (y #t)))
+
+(define-public crate-esp32_tm1637-0.1.2 (c (n "esp32_tm1637") (v "0.1.2") (d (list (d (n "esp-backtrace") (r "^0.9.0") (f (quote ("esp32" "panic-handler" "exception-handler" "print-uart"))) (d #t) (k 2)) (d (n "esp-hal") (r "^0.16.0") (d #t) (k 2) (p "esp32-hal")) (d (n "esp-println") (r "^0.7.0") (f (quote ("esp32" "log"))) (d #t) (k 2)) (d (n "hal") (r "^0.2.7") (f (quote ("unproven"))) (d #t) (k 0) (p "embedded-hal")) (d (n "log") (r "^0.4.18") (d #t) (k 0)))) (h "0vmj0fd6wh9impajq7nf43njg6r44pyc903370hr1p0191x73jzq") (y #t)))
+

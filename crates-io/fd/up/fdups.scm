@@ -1,0 +1,8 @@
+(define-module (crates-io fd up fdups) #:use-module (crates-io))
+
+(define-public crate-fdups-0.1.0 (c (n "fdups") (v "0.1.0") (d (list (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "lru") (r "^0.10") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)))) (h "0i760l03k23s47zz2li0lkmskcnplvbp50cvlhsmqvdviakg738p") (y #t)))
+
+(define-public crate-fdups-0.2.0-dev (c (n "fdups") (v "0.2.0-dev") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "blake2") (r "^0.10") (d #t) (k 0)) (d (n "clap") (r "^4.2") (d #t) (k 0)) (d (n "dashmap") (r "^5.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "human_bytes") (r "^0.4") (f (quote ("fast"))) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1yrk187j17lxrakbkxq5q3vllgh8phjnkcqhp8xh6sd7g78wd9cr") (y #t)))
+
+(define-public crate-fdups-0.2.1-dev (c (n "fdups") (v "0.2.1-dev") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "blake2") (r "^0.10") (d #t) (k 0)) (d (n "clap") (r "^4.2") (d #t) (k 0)) (d (n "dashmap") (r "^5.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 0)) (d (n "generic-array") (r "^0.14") (d #t) (k 0)) (d (n "human_bytes") (r "^0.4") (f (quote ("fast"))) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "term_size") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "19017q993b99nwh2c4zj4xbd3n2cbadcjh7xhdqrw42dvxfh4myx")))
+

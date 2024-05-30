@@ -1,0 +1,10 @@
+(define-module (crates-io ra wk rawkey) #:use-module (crates-io))
+
+(define-public crate-rawkey-0.1.0 (c (n "rawkey") (v "0.1.0") (d (list (d (n "readkey") (r "^0.1.5") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("winuser"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "x11") (r "^2.18.1") (f (quote ("xlib"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "0ykyf3iplbnz711rim6z3mwh1f5i5y7fiiwld9jzjjy8jwi4r7d8")))
+
+(define-public crate-rawkey-0.1.1 (c (n "rawkey") (v "0.1.1") (d (list (d (n "readkey") (r "^0.1.5") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("winuser"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "x11") (r "^2.18.1") (f (quote ("xlib"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "06v8mwg0f197jnr6wmgpylwc622zlx7zl8kkl2dkzxcmmn4rdm0c")))
+
+(define-public crate-rawkey-0.1.2 (c (n "rawkey") (v "0.1.2") (d (list (d (n "readkey") (r "^0.1.5") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("winuser"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "x11") (r "^2.18.1") (f (quote ("xlib"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "15rqwh2insa0hlijrrrmqr6lxfpkyr9w4aq0bir21f6wjfj1gv1k")))
+
+(define-public crate-rawkey-0.1.3 (c (n "rawkey") (v "0.1.3") (d (list (d (n "readkey") (r "^0.1.5") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("winuser"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "x11") (r "^2.18.1") (f (quote ("xlib"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1bgbb0pd8wbhbwib2d39x2r1m8kasw8x3w13bdb4s17g6nnfzmks")))
+

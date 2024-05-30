@@ -1,0 +1,4 @@
+(define-module (crates-io re pr reproto-languageserver) #:use-module (crates-io))
+
+(define-public crate-reproto-languageserver-0.3.36 (c (n "reproto-languageserver") (v "0.3.36") (d (list (d (n "languageserver-types") (r "^0.37") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "reproto-ast") (r "^0.3") (d #t) (k 0)) (d (n "reproto-core") (r "^0.3") (d #t) (k 0)) (d (n "reproto-env") (r "^0.3") (d #t) (k 0)) (d (n "reproto-lexer") (r "^0.3") (d #t) (k 0)) (d (n "reproto-manifest") (r "^0.3") (d #t) (k 0)) (d (n "reproto-parser") (r "^0.3") (d #t) (k 0)) (d (n "ropey") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)) (d (n "url_serde") (r "^0.2") (d #t) (k 0)))) (h "1jakv93y8wpmm34smmy1my2svfk7h1p35q6z0vhzajyk6zd29h5p")))
+

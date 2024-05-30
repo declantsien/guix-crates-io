@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# v vcc) #:use-module (crates-io))
+
+(define-public crate-vcc-0.0.0 (c (n "vcc") (v "0.0.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasm-opt") (r "^0.116.0") (d #t) (k 0)) (d (n "wasmprinter") (r "^0.2.75") (d #t) (k 0)) (d (n "wasmtime") (r "^15.0.1") (f (quote ("component-model"))) (d #t) (k 0)) (d (n "wasmtime-wasi") (r "^15.0.1") (d #t) (k 0)))) (h "07lj7wah3z3sz8lpd9w9qhipz6szs9s4hfhjprp7dmlwdm7lkdin") (f (quote (("default"))))))
+
+(define-public crate-vcc-0.0.1 (c (n "vcc") (v "0.0.1") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "nyar-error") (r "^0.1.11") (d #t) (k 0)) (d (n "wasm-opt") (r "^0.116.0") (d #t) (k 0)) (d (n "wasmprinter") (r "^0.2.75") (d #t) (k 0)) (d (n "wasmtime") (r "^15.0.1") (f (quote ("component-model"))) (d #t) (k 0)) (d (n "wasmtime-wasi") (r "^15.0.1") (d #t) (k 0)) (d (n "wax") (r "^0.6.0") (d #t) (k 0)))) (h "1rggabh6dy3nfwy508cy26b79jagyxlrwhbkwicdkkz6w9hvj3if") (f (quote (("default"))))))
+
+(define-public crate-vcc-0.0.2 (c (n "vcc") (v "0.0.2") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "js-component-bindgen") (r "^1.0.0") (d #t) (k 0)) (d (n "nyar-error") (r "^0.1.12") (d #t) (k 0)) (d (n "wasm-opt") (r "^0.116.0") (d #t) (k 0)) (d (n "wasmprinter") (r "^0.200.0") (d #t) (k 0)) (d (n "wasmtime") (r "^18.0.1") (f (quote ("component-model"))) (d #t) (k 0)) (d (n "wasmtime-wasi") (r "^18.0.1") (d #t) (k 0)) (d (n "wax") (r "^0.6.0") (d #t) (k 0)))) (h "1xj6hpj8dla00iws8vw749d4g43jl0g4cvvcn0gz5va044cbsb9l") (f (quote (("default"))))))
+

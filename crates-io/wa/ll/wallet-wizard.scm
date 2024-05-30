@@ -1,0 +1,8 @@
+(define-module (crates-io wa ll wallet-wizard) #:use-module (crates-io))
+
+(define-public crate-wallet-wizard-0.1.0 (c (n "wallet-wizard") (v "0.1.0") (d (list (d (n "bip39") (r "^2.0.0") (f (quote ("rand_core" "rand"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "hdkey") (r "^0.0.5") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prettytable") (r "^0.10.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.29.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.0") (f (quote ("keccak"))) (d #t) (k 0)))) (h "10sq0x9mzx6v1b1mw9pyzp5x4j8qk2iqlv5ms40977g5hwf13mwx") (y #t)))
+
+(define-public crate-wallet-wizard-0.1.1 (c (n "wallet-wizard") (v "0.1.1") (d (list (d (n "bip39") (r "^2.0.0") (f (quote ("rand_core" "rand"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "hdkey") (r "^0.0.5") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prettytable") (r "^0.10.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.29.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.0") (f (quote ("keccak"))) (d #t) (k 0)))) (h "1jn08i8lg3hqfjpz3sgr91spsykz5rzhcrajif1dnz1xvhg7pw9r")))
+
+(define-public crate-wallet-wizard-0.2.0 (c (n "wallet-wizard") (v "0.2.0") (d (list (d (n "bip39") (r "^2.0.0") (f (quote ("rand_core" "rand"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "hdkey") (r "^0.0.5") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prettytable") (r "^0.10.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.29.0") (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0.0") (f (quote ("keccak"))) (d #t) (k 0)))) (h "1prrdssqn9kli3dc6cpqymm3r1ngagaprd54c91jdcwm24rj0h2x")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ru st rustysignal) #:use-module (crates-io))
+
+(define-public crate-rustysignal-0.0.1 (c (n "rustysignal") (v "0.0.1") (d (list (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "0zx8jv40q0b2rjx854xpniirks0p77kfp6sr1kr4h4q48ciavyp7")))
+
+(define-public crate-rustysignal-1.0.0 (c (n "rustysignal") (v "1.0.0") (d (list (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "02g95cwha7g5lfwvjs9c79mr8n7kbxd68bp2s7cdb7ncx1vp5563")))
+
+(define-public crate-rustysignal-1.0.1 (c (n "rustysignal") (v "1.0.1") (d (list (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (f (quote ("ssl"))) (d #t) (k 0)))) (h "148126jihqw4f9jxj0nbkymn1pa351xxqg5dxy6a51bdi3408l60")))
+
+(define-public crate-rustysignal-2.0.0 (c (n "rustysignal") (v "2.0.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ws") (r "^0.8.0") (f (quote ("ssl"))) (d #t) (k 0)))) (h "1kxrip3c8fk9366gzj99kvackhsg92aaajg1wcc2qkbvvi8nbx39") (f (quote (("ssl" "ws/ssl"))))))
+
+(define-public crate-rustysignal-2.0.1 (c (n "rustysignal") (v "2.0.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ws") (r "^0.8.0") (f (quote ("ssl"))) (d #t) (k 0)))) (h "0yfcasm4aqafyyz61n1bwg6f291ysaa265jc8id3g1cxcgk748q1") (f (quote (("ssl" "ws/ssl"))))))
+
+(define-public crate-rustysignal-2.0.2 (c (n "rustysignal") (v "2.0.2") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ws") (r "^0.8.0") (f (quote ("ssl"))) (d #t) (k 0)))) (h "1f5rwmlbcn2pn5r6dwypbmasm2809iq04i60scb0s4sjknwxdjwr") (f (quote (("ssl" "ws/ssl"))))))
+

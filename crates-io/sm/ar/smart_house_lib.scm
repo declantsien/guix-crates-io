@@ -1,0 +1,8 @@
+(define-module (crates-io sm ar smart_house_lib) #:use-module (crates-io))
+
+(define-public crate-smart_house_lib-0.3.0 (c (n "smart_house_lib") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 2)) (d (n "libloading") (r "^0.7.1") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tcp_wrapper") (r "^0.2.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "udp_wrapper") (r "^0.2.1") (d #t) (k 0)))) (h "19y79xhbc17w592qx8rvfgjh0y6i90ji6cx4f2d1yn40z9bc5hlp") (r "1.56")))
+
+(define-public crate-smart_house_lib-0.3.1 (c (n "smart_house_lib") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.44") (d #t) (k 2)) (d (n "libloading") (r "^0.7.1") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tcp_wrapper") (r "^0.2.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "udp_wrapper") (r "^0.2.1") (d #t) (k 0)))) (h "0vbxcrrj4mnhawyhmzniq7zq4dpq3f59f6z7x2ds3vgf70dm3w9x") (r "1.56")))
+
+(define-public crate-smart_house_lib-0.3.2 (c (n "smart_house_lib") (v "0.3.2") (d (list (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tcp_wrapper") (r "^0.2.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "udp_wrapper") (r "^0.2.1") (d #t) (k 0)))) (h "1h967l1kxxqshmgh32wa424dqszvd4q13w88q7kqxxfy2spbnx8i") (r "1.56")))
+

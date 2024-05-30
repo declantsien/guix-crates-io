@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# t tmf) #:use-module (crates-io))
+
+(define-public crate-tmf-0.1.0 (c (n "tmf") (v "0.1.0") (d (list (d (n "document-features") (r "^0.2.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)))) (h "07bysmfzw4n7ac2bjvbwwfn49c00wsncnla9jsnpfzrj76xdh4n3") (f (quote (("triangulation") ("short_indices") ("long_indices") ("fast_trig") ("double_precision") ("byte_rw")))) (y #t)))
+
+(define-public crate-tmf-0.1.1 (c (n "tmf") (v "0.1.1") (d (list (d (n "document-features") (r "^0.2.7") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)))) (h "0fakzrgwd5jns9818scsdlkl4n07aj3ik0l0wjypka95dj43rg6s") (f (quote (("triangulation") ("short_indices") ("long_indices") ("fast_trig") ("double_precision") ("byte_rw"))))))
+
+(define-public crate-tmf-0.2.0 (c (n "tmf") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "document-features") (r "^0.2.7") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("rt" "rt-multi-thread"))) (o #t) (d #t) (k 0)))) (h "12i1calhb2rkxya0375r3mb24q3gvvw8sw963j2ivaadp6i2g8qp") (f (quote (("triangulation") ("tokio_runtime" "tokio" "lazy_static") ("short_indices") ("obj_import" "model_importer") ("model_importer") ("long_indices") ("fast_trig") ("double_precision") ("default" "obj_import") ("byte_rw"))))))
+

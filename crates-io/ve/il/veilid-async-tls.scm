@@ -1,0 +1,4 @@
+(define-module (crates-io ve il veilid-async-tls) #:use-module (crates-io))
+
+(define-public crate-veilid-async-tls-0.12.0 (c (n "veilid-async-tls") (v "0.12.0") (d (list (d (n "async-std") (r "^1.11") (f (quote ("unstable"))) (d #t) (k 2)) (d (n "futures-core") (r "^0.3.5") (d #t) (k 0)) (d (n "futures-executor") (r "^0.3.5") (d #t) (k 2)) (d (n "futures-io") (r "^0.3.5") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.5") (f (quote ("io"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "rustls") (r "^0.21") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0") (d #t) (k 0)) (d (n "rustls-webpki") (r "^0.101.4") (o #t) (d #t) (k 0)) (d (n "webpki-roots") (r "^0.22.3") (o #t) (d #t) (k 0)))) (h "1vjqln6mv5ii7p8wy9gb4lk1yr22fk5i2d31l591vfllygky0wzj") (f (quote (("server") ("early-data") ("default" "client" "server") ("client" "webpki-roots"))))))
+

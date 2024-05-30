@@ -1,0 +1,4 @@
+(define-module (crates-io al ep aleph_client) #:use-module (crates-io))
+
+(define-public crate-aleph_client-3.0.0 (c (n "aleph_client") (v "3.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.58") (d #t) (k 0)) (d (n "codec") (r "^3.0.0") (f (quote ("derive"))) (d #t) (k 0) (p "parity-scale-codec")) (d (n "contract-transcode") (r "^2.1.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "ink_metadata") (r "^4.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pallet-contracts-primitives") (r "^7.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subxt") (r "^0.25.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.21") (d #t) (k 2)))) (h "05x9zhlyx42pw17vaf4mf55508yhyy41idizy36wv1bcm43xill6") (f (quote (("liminal"))))))
+

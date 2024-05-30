@@ -1,0 +1,18 @@
+(define-module (crates-io be la belay) #:use-module (crates-io))
+
+(define-public crate-belay-0.1.0 (c (n "belay") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0y75cxcx1464d8w5n4nzhpzjph90n6i442k7pmmvmfkvi18b8bg8")))
+
+(define-public crate-belay-0.1.1 (c (n "belay") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1npgdh9d9fm3qpg7lh2zl7y4bvvz35xpfzpbpyhjyxiixhhdfzm9")))
+
+(define-public crate-belay-0.1.2 (c (n "belay") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1xy8ykbgmvql4j3x0a6sb55ib1y8vq4p2p1lll51n5m08pb5mm31")))
+
+(define-public crate-belay-0.1.3 (c (n "belay") (v "0.1.3") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0yfxas4rzarv3280w40bvjgw2nfymrjl8mb1nbwkcswblbb8qrfa")))
+
+(define-public crate-belay-0.2.0 (c (n "belay") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "0ap55dch3p3257dyflaf090yr5cs25dgzxp4mh7xyxrlmml68zdg")))
+
+(define-public crate-belay-0.3.0 (c (n "belay") (v "0.3.0") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1v1sx7rxdc2z91ya7gkmgvzgmvx9lpr8jwhjcmzz5f6n4qw7m1mv")))
+
+(define-public crate-belay-0.4.0 (c (n "belay") (v "0.4.0") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "directories") (r "^2.0") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1bssg58y4nb6d4jalg31ps2bcrd91qg36kb60gzgvc3lbfxv90cf")))
+
+(define-public crate-belay-0.5.0 (c (n "belay") (v "0.5.0") (d (list (d (n "assert_cmd") (r "^0.12") (d #t) (k 2)) (d (n "assert_fs") (r "^0.13") (d #t) (k 2)) (d (n "directories") (r "^2.0") (d #t) (k 0)) (d (n "predicates") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "0qqyp26lcngy7fmyaacphxrsq3d37qrzpqp8s2q0g33gnm7www7y")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bo ok bookbinder_common) #:use-module (crates-io))
+
+(define-public crate-bookbinder_common-0.1.0 (c (n "bookbinder_common") (v "0.1.0") (d (list (d (n "aho-corasick") (r "^0.7.13") (d #t) (k 0)) (d (n "fontdb") (r "^0.2.0") (d #t) (k 0)) (d (n "image") (r "^0.23.9") (f (quote ("png" "jpeg"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "resvg") (r "^0.11") (d #t) (k 0)) (d (n "svgtypes") (r "^0.5") (d #t) (k 0)) (d (n "temp_file_name") (r "^0.1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "usvg") (r "^0.11") (d #t) (k 0)))) (h "059la5xmccm9wi2rz1rdww7cpf6x93gqcg921f6c7nqic17qd9aq")))
+
+(define-public crate-bookbinder_common-0.1.1 (c (n "bookbinder_common") (v "0.1.1") (d (list (d (n "aho-corasick") (r "^0.7.13") (d #t) (k 0)) (d (n "fontdb") (r "^0.3") (d #t) (k 0)) (d (n "image") (r "^0.23.9") (f (quote ("png" "jpeg"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "resvg") (r "^0.12") (d #t) (k 0)) (d (n "svgtypes") (r "^0.5") (d #t) (k 0)) (d (n "temp_file_name") (r "^0.1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "usvg") (r "^0.12") (d #t) (k 0)))) (h "01c13d1g9p71j72wqrc4qrhpywhi4ll1789kxw46q1f2ci37ns8v")))
+

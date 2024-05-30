@@ -1,0 +1,4 @@
+(define-module (crates-io da ta datafusion-ethers) #:use-module (crates-io))
+
+(define-public crate-datafusion-ethers-38.0.0 (c (n "datafusion-ethers") (v "38.0.0") (d (list (d (n "alloy-core") (r "^0.7") (f (quote ("std" "dyn-abi" "json-abi" "sol-types"))) (d #t) (k 0)) (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "datafusion") (r "^38.0.0") (d #t) (k 0)) (d (n "datafusion-functions-json") (r "^0.1") (d #t) (k 2)) (d (n "ethers") (r "^2") (f (quote ("ws" "rustls"))) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "indoc") (r "^2") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "test-log") (r "^0.2") (f (quote ("trace"))) (d #t) (k 2)) (d (n "tokio") (r "^1.37.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1qvsyf84k5i68n5k8fsc2rljdw0741hnifb53l76vk8019bbjx7p")))
+

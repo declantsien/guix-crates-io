@@ -1,0 +1,10 @@
+(define-module (crates-io ma cb macbinary) #:use-module (crates-io))
+
+(define-public crate-macbinary-0.1.0-alpha (c (n "macbinary") (v "0.1.0-alpha") (d (list (d (n "crc") (r "^3.0.1") (d #t) (k 0)))) (h "19k6mjs4gkchcxk9726qwinwijc1xk8wnk6g8ncvnhd5rwaxvppg")))
+
+(define-public crate-macbinary-0.1.0 (c (n "macbinary") (v "0.1.0") (d (list (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "serde-wasm-bindgen") (r "^0.5") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "serde_bytes") (r "^0.11.9") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "0bxc5kp7an752msrw0l54sg08xg8jiwpwrvi2ayfgs2drhxfbyzn") (f (quote (("no_std" "heapless"))))))
+
+(define-public crate-macbinary-0.2.0 (c (n "macbinary") (v "0.2.0") (d (list (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "serde-wasm-bindgen") (r "^0.5") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "serde_bytes") (r "^0.11.9") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "104mgymgykb83w08j8qr8ymh8jrnmk90zabnnahrjhrbmh0rcnil") (f (quote (("no_std" "heapless"))))))
+
+(define-public crate-macbinary-0.2.1 (c (n "macbinary") (v "0.2.1") (d (list (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "serde-wasm-bindgen") (r "^0.5") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "serde_bytes") (r "^0.11.9") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (t "cfg(target_family = \"wasm\")") (k 0)))) (h "11qnzk8md29wb76yqwc2i0czy92mnkic51h02vg87j45dvq20frg") (f (quote (("no_std" "heapless"))))))
+

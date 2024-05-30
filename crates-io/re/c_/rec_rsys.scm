@@ -1,0 +1,8 @@
+(define-module (crates-io re c_ rec_rsys) #:use-module (crates-io))
+
+(define-public crate-rec_rsys-0.1.0 (c (n "rec_rsys") (v "0.1.0") (d (list (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "00k1jjbyaiwsa9j8sjq96xsnfxyrpamyqd558sl7n4i9x7zc6q0y") (f (quote (("full") ("default"))))))
+
+(define-public crate-rec_rsys-0.1.1 (c (n "rec_rsys") (v "0.1.1") (d (list (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "13cnybqh9vx5325230im0nsh29rqb3xd12319y6h3m7r5w1innzq") (f (quote (("full") ("default")))) (r "1.69")))
+
+(define-public crate-rec_rsys-1.0.0 (c (n "rec_rsys") (v "1.0.0") (d (list (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (o #t) (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)) (d (n "pprof") (r "^0.11.0") (f (quote ("flamegraph" "criterion"))) (o #t) (d #t) (t "cfg(not(windows))") (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.2") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "1kp17q85w7bm5dpas2qcx3qs4yja7qyv2indwk5v1bdqxg56x8a0") (f (quote (("full") ("default" "benchmarks") ("benchmarks" "criterion" "pprof") ("async"))))))
+

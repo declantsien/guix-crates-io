@@ -1,0 +1,4 @@
+(define-module (crates-io xe no xenopeltis-websocket) #:use-module (crates-io))
+
+(define-public crate-xenopeltis-websocket-0.1.0 (c (n "xenopeltis-websocket") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "tokio") (r "^1.16.1") (f (quote ("net" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-serde") (r "^0.8.0") (f (quote ("bincode"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.16.1") (d #t) (k 0)) (d (n "tokio-util") (r "^0.6.9") (f (quote ("codec"))) (d #t) (k 0)) (d (n "xenopeltis-common") (r "^0.2.1") (d #t) (k 0)))) (h "1rli7m5xli1cm1gkyspsgvj3428py58x3hbkvhl01ksv6396h228")))
+

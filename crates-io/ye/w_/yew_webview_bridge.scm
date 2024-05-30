@@ -1,0 +1,4 @@
+(define-module (crates-io ye w_ yew_webview_bridge) #:use-module (crates-io))
+
+(define-public crate-yew_webview_bridge-0.1.0 (c (n "yew_webview_bridge") (v "0.1.0") (d (list (d (n "dashmap") (r "^3.11.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "= 0.6.5") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.52") (d #t) (k 0)) (d (n "stdweb") (r "^0.4.20") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.62") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.12") (o #t) (d #t) (k 0)) (d (n "web-view") (r "^0.5.3") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.14") (f (quote ("std_web"))) (o #t) (k 0)))) (h "0v56qps3nhmdgmb9wnjd0xfw8hm0wgawql5r56zcdw8scqq3q7fv") (f (quote (("frontend" "yew" "wasm-bindgen-futures" "wasm-bindgen" "stdweb" "dashmap") ("default") ("backend" "web-view"))))))
+

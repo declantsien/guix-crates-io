@@ -1,0 +1,10 @@
+(define-module (crates-io cl ou clouseau_cli) #:use-module (crates-io))
+
+(define-public crate-clouseau_cli-0.3.2 (c (n "clouseau_cli") (v "0.3.2") (d (list (d (n "clouseau") (r "^0.3.2") (d #t) (k 2)) (d (n "clouseau_core") (r "^0.3.2") (d #t) (k 0)) (d (n "clouseau_pest") (r "^0.3.2") (d #t) (k 0)) (d (n "clouseau_query") (r "^0.3.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "velcro") (r "^0.5") (d #t) (k 2)))) (h "0ljc61h0mab3v0s3f855q6fjvazcbqg8qfmb57457r62hwhxhvdf")))
+
+(define-public crate-clouseau_cli-0.3.3 (c (n "clouseau_cli") (v "0.3.3") (d (list (d (n "clouseau") (r "^0.3.3") (d #t) (k 2)) (d (n "clouseau_core") (r "^0.3.3") (d #t) (k 0)) (d (n "clouseau_pest") (r "^0.3.3") (d #t) (k 0)) (d (n "clouseau_query") (r "^0.3.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "velcro") (r "^0.5") (d #t) (k 2)))) (h "010vv9srb83zmirhqn4pr6sf7032ri4w8rglfsi5bj7q2s6frkmw")))
+
+(define-public crate-clouseau_cli-0.3.4 (c (n "clouseau_cli") (v "0.3.4") (d (list (d (n "clouseau") (r "^0.3.4") (d #t) (k 2)) (d (n "clouseau_core") (r "^0.3.4") (d #t) (k 0)) (d (n "clouseau_pest") (r "^0.3.4") (d #t) (k 0)) (d (n "clouseau_query") (r "^0.3.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "velcro") (r "^0.5") (d #t) (k 2)))) (h "1rjwx42lb7kyb2ncmmajzjikb6ndvfqc3jg71yd3v7n156p1ab9j")))
+
+(define-public crate-clouseau_cli-0.3.5 (c (n "clouseau_cli") (v "0.3.5") (d (list (d (n "clouseau") (r "^0.3.5") (d #t) (k 2)) (d (n "clouseau_core") (r "^0.3.5") (d #t) (k 0)) (d (n "clouseau_pest") (r "^0.3.5") (d #t) (k 0)) (d (n "clouseau_query") (r "^0.3.5") (d #t) (k 0)) (d (n "directories") (r "^3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "velcro") (r "^0.5") (d #t) (k 2)))) (h "1ggs220dv774v0si8kp32f3yl0zzsskwalghjk0rpf4iaxb8zg4s")))
+

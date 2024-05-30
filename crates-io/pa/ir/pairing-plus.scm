@@ -1,0 +1,8 @@
+(define-module (crates-io pa ir pairing-plus) #:use-module (crates-io))
+
+(define-public crate-pairing-plus-0.17.0 (c (n "pairing-plus") (v "0.17.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "ff") (r "^0.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hkdf") (r "^0.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "0901l3578wncfq5myb4sljv0qhj5pfhxwv3gbhhngv04y10hyq4q") (f (quote (("default"))))))
+
+(define-public crate-pairing-plus-0.18.0 (c (n "pairing-plus") (v "0.18.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "ff-zeroize") (r "^0.6.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 2)) (d (n "sha3") (r "^0.8") (d #t) (k 2)) (d (n "zeroize") (r "^1.1") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "1h9m7s0jcxx719pml89kicqrqsvzjd7549yhc2h761g2359sc6g8") (f (quote (("default"))))))
+
+(define-public crate-pairing-plus-0.19.0 (c (n "pairing-plus") (v "0.19.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "ff-zeroize") (r "^0.6.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "rand_xorshift") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 2)) (d (n "sha3") (r "^0.8") (d #t) (k 2)) (d (n "zeroize") (r "^1.1") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "0qpa75gjnqnjvlxy9bdmhb5r6kycr1h9j12lqbrj0rwf5vra9kaq") (f (quote (("default"))))))
+

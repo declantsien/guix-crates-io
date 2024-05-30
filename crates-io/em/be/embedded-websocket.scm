@@ -1,0 +1,26 @@
+(define-module (crates-io em be embedded-websocket) #:use-module (crates-io))
+
+(define-public crate-embedded-websocket-0.1.0 (c (n "embedded-websocket") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.1") (k 0)) (d (n "heapless") (r "^0.4.1") (d #t) (k 0)) (d (n "httparse") (r "^1.3.3") (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.4.0") (d #t) (k 0)) (d (n "sha1") (r "^0.6.0") (d #t) (k 0)))) (h "0zd9c4cw3wch227yj3qqydmv2l5xi09llg8drc08yaq5mll9hmvq")))
+
+(define-public crate-embedded-websocket-0.1.1 (c (n "embedded-websocket") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.4") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 2)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "0v445hmamj7bqixilx4xl5ihhrk7xxs14lv7yxf5mmx9y5iv1k0m")))
+
+(define-public crate-embedded-websocket-0.1.2 (c (n "embedded-websocket") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "00jgl3xxkcv3dysd3m9kha3chcdaggcbr059wx7mc5xdc04jpp3v") (y #t)))
+
+(define-public crate-embedded-websocket-0.2.0 (c (n "embedded-websocket") (v "0.2.0") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "064p3mxhvgap70pgwjc3hnwvk8f2d2rwxy3ynn4qp85lciqbb4v1")))
+
+(define-public crate-embedded-websocket-0.3.0 (c (n "embedded-websocket") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "172g5wnjk32jk4mplhaf30dysfg6y6zhbfbpiw0ckchk2wk2v3n6")))
+
+(define-public crate-embedded-websocket-0.3.1 (c (n "embedded-websocket") (v "0.3.1") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "19vga7998ixwqyhd9k2r1ldks9b33wsj1jnq1aizbfjlbl8xgk78")))
+
+(define-public crate-embedded-websocket-0.3.2 (c (n "embedded-websocket") (v "0.3.2") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.5") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "0m1n2w9pk4liq79if9wl6y0dfbvn1w0mgfsvx6q88vqcilvc7g09")))
+
+(define-public crate-embedded-websocket-0.4.0 (c (n "embedded-websocket") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "128q715lhgr7jk5bxlzy00vk1c0zkigq9g0qbybqfvp3mapxmmcp")))
+
+(define-public crate-embedded-websocket-0.5.0 (c (n "embedded-websocket") (v "0.5.0") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "047rz6129s1bgis4wb3dsrw5idc7j3fn7c8sgwbr4fjld26yg743") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-embedded-websocket-0.6.0 (c (n "embedded-websocket") (v "0.6.0") (d (list (d (n "byteorder") (r "^1.3") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.3") (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "0rqk8b7q9yvk52zs8v1nrrga7xw8cmmkffmf1md0qrl7ga7pjfal") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-embedded-websocket-0.8.0 (c (n "embedded-websocket") (v "0.8.0") (d (list (d (n "byteorder") (r "^1.4") (k 0)) (d (n "heapless") (r "^0.5") (d #t) (k 0)) (d (n "httparse") (r "^1.4") (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "sha1") (r "^0.6") (d #t) (k 0)))) (h "0ddcdagqq0c18z0dcgpb3wb8gs0c22fjc1076cbmf8dbk304d9jq") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-embedded-websocket-0.9.3 (c (n "embedded-websocket") (v "0.9.3") (d (list (d (n "base64") (r "^0.13.1") (k 0)) (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (k 0)) (d (n "heapless") (r "^0.7.16") (k 0)) (d (n "httparse") (r "^1.8.0") (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (k 0)) (d (n "sha1") (r "^0.10.5") (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.8") (f (quote ("net" "codec"))) (d #t) (k 2)))) (h "01y4kd54f7nwqkg7i9iirpz9ghvbv3680g8qd5x8h52n59y51nf5") (f (quote (("std") ("default" "std"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ca ta cataas) #:use-module (crates-io))
+
+(define-public crate-cataas-0.0.1 (c (n "cataas") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "clap") (r "^4.0.18") (f (quote ("derive" "std" "help"))) (k 2)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "time") (r "^0.3.16") (f (quote ("serde" "parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "1zi6hq74a3jwz387369v6x2i354x5nfcs2r8a64w9i98wv1j233d")))
+
+(define-public crate-cataas-0.0.2 (c (n "cataas") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 2)) (d (n "clap") (r "^4.0.18") (f (quote ("derive" "std" "help"))) (k 2)) (d (n "reqwest") (r "^0.11.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "time") (r "^0.3.16") (f (quote ("serde" "parsing"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros"))) (d #t) (k 2)))) (h "19d750qy6bksixdhli1l6aa7f2kxfpik9m0ffc5ixy4ivwqmqy9g")))
+

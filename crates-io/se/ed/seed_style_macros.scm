@@ -1,0 +1,10 @@
+(define-module (crates-io se ed seed_style_macros) #:use-module (crates-io))
+
+(define-public crate-seed_style_macros-0.1.0 (c (n "seed_style_macros") (v "0.1.0") (d (list (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.10") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0jwlvk1v07i2pna4a5v8r9d7hwzrm6ab36ys9rxq6n9gmydkbi45")))
+
+(define-public crate-seed_style_macros-0.1.2 (c (n "seed_style_macros") (v "0.1.2") (d (list (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.10") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1bhr3sfapb1yfq1bcad8djkhpfixh4js7mqn3kg64hhbl379slc7")))
+
+(define-public crate-seed_style_macros-0.1.3 (c (n "seed_style_macros") (v "0.1.3") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "eager") (r "^0.1.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "illicit") (r "^0.9.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.10") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "seed") (r "^0.7.0") (d #t) (k 0)) (d (n "seed_hooks") (r "^0.1.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0y096cyx1p2ji28kbbqigjzw2prs26b8ph738vcx5wp6vqgv4sj8")))
+
+(define-public crate-seed_style_macros-0.1.4 (c (n "seed_style_macros") (v "0.1.4") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "eager") (r "^0.1.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "illicit") (r "^0.9.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.10") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "seed") (r "^0.7.0") (d #t) (k 0)) (d (n "seed_hooks") (r "^0.1.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "14lyzmy82s6w1h7fsrd76fix9r4h4pc8lql4cysfjsqzgryhapzk")))
+

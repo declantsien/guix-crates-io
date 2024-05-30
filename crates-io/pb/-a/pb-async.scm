@@ -1,0 +1,4 @@
+(define-module (crates-io pb -a pb-async) #:use-module (crates-io))
+
+(define-public crate-pb-async-0.1.0 (c (n "pb-async") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.13") (d #t) (k 2)) (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "failure") (r "^0.1") (k 0)) (d (n "failure_derive") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "http") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mpart-async") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 2)))) (h "1g0wzwapw7nsh6a9jqfph02dv837xk52jfp1jv1l59d83pbcgif3")))
+

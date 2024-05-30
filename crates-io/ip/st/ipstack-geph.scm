@@ -1,0 +1,4 @@
+(define-module (crates-io ip st ipstack-geph) #:use-module (crates-io))
+
+(define-public crate-ipstack-geph-0.1.0 (c (n "ipstack-geph") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "async-channel") (r "^2.3.0") (d #t) (k 0)) (d (n "async-executor") (r "^1.11.0") (d #t) (k 0)) (d (n "async-io") (r "^2.3.2") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "etherparse") (r "^0.14") (f (quote ("std"))) (k 0)) (d (n "futures-lite") (r "^2.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (k 0)) (d (n "parking_lot") (r "^0.12.2") (d #t) (k 0)) (d (n "pollster") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std" "std_rng"))) (k 0)) (d (n "thiserror") (r "^1.0") (k 0)))) (h "0f06wzf9ldja6brm82qgv1l57fr80fq4zmwhlsk827r6f2hrhylg")))
+

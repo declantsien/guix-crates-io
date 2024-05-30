@@ -1,0 +1,6 @@
+(define-module (crates-io ll m- llm-bridge) #:use-module (crates-io))
+
+(define-public crate-llm-bridge-0.1.0 (c (n "llm-bridge") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0ygbfbasp246j9cgvk8dmm59vhpc9l2wlr17w5gzac3ff7fbxzmi")))
+
+(define-public crate-llm-bridge-0.1.1 (c (n "llm-bridge") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.12.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt-multi-thread" "rt" "macros"))) (d #t) (k 2)))) (h "09683mlql903859np71v1bhkclh7rvlblg6jiy3davp478d548my")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io wa rp warp-contracts-core) #:use-module (crates-io))
+
+(define-public crate-warp-contracts-core-0.1.0 (c (n "warp-contracts-core") (v "0.1.0") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.5.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "=0.4.34") (d #t) (k 0)) (d (n "web-sys") (r "=0.3.61") (o #t) (d #t) (k 0)))) (h "0mdqg6dsr4qh4497bnai5a4s8fk8p1hhccjsk0liihvl6153qvvj") (f (quote (("debug" "web-sys/console"))))))
+
+(define-public crate-warp-contracts-core-0.1.1 (c (n "warp-contracts-core") (v "0.1.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.5.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "=0.4.34") (d #t) (k 0)) (d (n "web-sys") (r "=0.3.61") (o #t) (d #t) (k 0)))) (h "09ckrl680bnlh74vjylmravlw0pw34cys1kn4d0n768xhb9zcb66") (f (quote (("debug" "web-sys/console"))))))
+
+(define-public crate-warp-contracts-core-0.1.2 (c (n "warp-contracts-core") (v "0.1.2") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.5.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "=0.4.34") (d #t) (k 0)) (d (n "web-sys") (r "=0.3.61") (o #t) (d #t) (k 0)))) (h "1bw9g5f7rbdl6qica89w3q23h16vh4xsww1bh7cks0sysldjjif7") (f (quote (("debug" "web-sys/console"))))))
+
+(define-public crate-warp-contracts-core-0.1.3 (c (n "warp-contracts-core") (v "0.1.3") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "=0.5.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "=0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "=0.4.34") (d #t) (k 0)) (d (n "web-sys") (r "=0.3.61") (o #t) (d #t) (k 0)))) (h "1ahdww7y8yxa0q0kgx4c65k5vrwvg6c8pdfc047s2njznzgvz50k") (f (quote (("debug" "web-sys/console"))))))
+

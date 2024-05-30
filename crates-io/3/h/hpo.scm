@@ -1,0 +1,44 @@
+(define-module (crates-io #{3}# h hpo) #:use-module (crates-io))
+
+(define-public crate-hpo-0.1.0 (c (n "hpo") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "17wb3n5ycqmgi0038y98xjk46cmrnvbn61pv83mvdc5bczqxnfcb")))
+
+(define-public crate-hpo-0.2.0 (c (n "hpo") (v "0.2.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1yvpq114z4k1z7zz8hzm7xkraczjl665b6nx7y7836lzzfaxz3ch")))
+
+(define-public crate-hpo-0.3.0 (c (n "hpo") (v "0.3.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0r3ackaqy5c45p71kmxajy9zs6w207qpgnavwhcvhmk5j2pc5js0")))
+
+(define-public crate-hpo-0.3.1 (c (n "hpo") (v "0.3.1") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0fln1x9r5mni6w0ns9w99d085p91sbycqxj6mscll2375ni6ywyx")))
+
+(define-public crate-hpo-0.3.2 (c (n "hpo") (v "0.3.2") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0mxsd78yfp0fsz4kk5aygllyrw904a7vs3p5fryk7qpb4haglx35")))
+
+(define-public crate-hpo-0.4.0 (c (n "hpo") (v "0.4.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1warjfzszkv2lgg7si7bvx7mhfqqwyzdxnl4q3whvadsx1rx2b2j")))
+
+(define-public crate-hpo-0.4.1 (c (n "hpo") (v "0.4.1") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1yvaw2m61csm06xrl9imv17nwpr46s5k84arqvq1jajpb88j50im")))
+
+(define-public crate-hpo-0.4.2 (c (n "hpo") (v "0.4.2") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "1hvwmiwdi26pn95wcxld8ipfd960scqwyp3z5xpyw8n2450m0y0q")))
+
+(define-public crate-hpo-0.5.0 (c (n "hpo") (v "0.5.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0iiwcp0gwxay323dqabnf384bfhc3akl4yapi5ymn97lwx5faxh2")))
+
+(define-public crate-hpo-0.6.0 (c (n "hpo") (v "0.6.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "01yi0bg44ndandyqxngskjvn66qa3szdywx7j2ly0xwcl4smnirv")))
+
+(define-public crate-hpo-0.6.1 (c (n "hpo") (v "0.6.1") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0ph76bg288hkc5xbcjfhrhf4igk3rs7jkpckyf4k7czvhi4wfrgz")))
+
+(define-public crate-hpo-0.6.2 (c (n "hpo") (v "0.6.2") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "09ah6r9rqmab6v9rlgwxlbh4p5d7cs9sf4j56bwb68cz54z64qm9")))
+
+(define-public crate-hpo-0.6.3 (c (n "hpo") (v "0.6.3") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1afjjmc2x7wkc5fm7159nhcfw7kzbbdb8ww0njbgsgn1wd1263dw")))
+
+(define-public crate-hpo-0.7.0 (c (n "hpo") (v "0.7.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "11dnrpbavw0wzfxg6b1mzhclg7sysg6v2f9d4karg5bzls2hsvky")))
+
+(define-public crate-hpo-0.7.1 (c (n "hpo") (v "0.7.1") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1kb7hwgn6kycl59zbkpx5vlnxgpdpkshh19jcy555zykwni21q8b")))
+
+(define-public crate-hpo-0.8.0 (c (n "hpo") (v "0.8.0") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0akrgk0bjf6577gbyipmzx6lr452daanynf89jdbycn6sn862vg5")))
+
+(define-public crate-hpo-0.8.1 (c (n "hpo") (v "0.8.1") (d (list (d (n "aquamarine") (r "^0.1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1.10.0") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1yj6jnvnmjsm8rvfy09xja3jz0an3wlpcl3acdjcsr4klq067zxi")))
+
+(define-public crate-hpo-0.8.2 (c (n "hpo") (v "0.8.2") (d (list (d (n "aquamarine") (r "^0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0627l4dlyaj0k8vzkx3x2lsjnqp6gvd34ip675mq4dzj4cjv322g")))
+
+(define-public crate-hpo-0.8.3 (c (n "hpo") (v "0.8.3") (d (list (d (n "aquamarine") (r "^0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "08wcpm8h66lg7n7w63i58jzd5173g253499yf853736l8vj4naar")))
+
+(define-public crate-hpo-0.9.0 (c (n "hpo") (v "0.9.0") (d (list (d (n "aquamarine") (r "^0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "09szp34i377xlb1d20ddrlbi9gz8k4v0ckwhalxmb78z7117l80l")))
+
+(define-public crate-hpo-0.9.1 (c (n "hpo") (v "0.9.1") (d (list (d (n "aquamarine") (r "^0") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "rayon") (r "^1.6.0") (d #t) (k 2)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)) (d (n "statrs") (r "^0.16.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "00zzwnwglbvdsksvdf191nfarigv5iy20svdi6vdd5sg1y8d7yg9")))
+

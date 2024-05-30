@@ -1,0 +1,6 @@
+(define-module (crates-io th al thalo_message_store) #:use-module (crates-io))
+
+(define-public crate-thalo_message_store-0.7.0 (c (n "thalo_message_store") (v "0.7.0") (d (list (d (n "dashmap") (r "^5.5.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thalo") (r "^0.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "typed-builder") (r "^0.18.0") (d #t) (k 0)) (d (n "uuid") (r "^1.2") (d #t) (k 0)))) (h "112xdq8cd0hbxbqw84ak38xabyj45fdbl4n7ank0xr2wjv8fb06a")))
+
+(define-public crate-thalo_message_store-0.8.0 (c (n "thalo_message_store") (v "0.8.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "thalo") (r "^0.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "06y6pfnm2zagvlj3ghrbc9z032dxa7a957y4dgvj5293ns5sm51x")))
+

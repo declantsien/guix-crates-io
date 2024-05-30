@@ -1,0 +1,12 @@
+(define-module (crates-io ev m- evm-rs-emulator) #:use-module (crates-io))
+
+(define-public crate-evm-rs-emulator-0.1.0 (c (n "evm-rs-emulator") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "ethers") (r "^2.0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "mem_storage") (r "^0.1.1") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12.1") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0b94p4dlrkigy3nhmkmmsvrwnqjq70wgfv9lyskai35d1r3z33a7")))
+
+(define-public crate-evm-rs-emulator-0.1.1 (c (n "evm-rs-emulator") (v "0.1.1") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "ethers") (r "^2.0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "mem_storage") (r "^0.1.1") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12.1") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0r1239qqm49ipj1k0jm9fgxhmidx191rxy993ywglqcxqj8s0vyj")))
+
+(define-public crate-evm-rs-emulator-0.1.2 (c (n "evm-rs-emulator") (v "0.1.2") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "ethers") (r "^2.0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "mem_storage") (r "^0.1.1") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12.1") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0pzpjxaq5nwk7v9mgcalcdfzvmr5s6hryryjzjcj0hnanlf92n6i")))
+
+(define-public crate-evm-rs-emulator-0.1.3 (c (n "evm-rs-emulator") (v "0.1.3") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "ethers") (r "^2.0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "mem_storage") (r "^0.1.1") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12.1") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0n8bwsxg85vfancr2hinqrqxnq3d705rfw5k6m2f1sng5vzn0819")))
+
+(define-public crate-evm-rs-emulator-0.1.4 (c (n "evm-rs-emulator") (v "0.1.4") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "ethers") (r "^2.0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "mem_storage") (r "^0.1.1") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12.1") (d #t) (k 0)) (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0bhypjggwdrkg8gsh849mm1k6zlzs4828bbmg5qs2wqwrlgggk42")))
+

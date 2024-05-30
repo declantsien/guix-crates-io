@@ -1,0 +1,18 @@
+(define-module (crates-io so ph sophia_xml) #:use-module (crates-io))
+
+(define-public crate-sophia_xml-0.7.0 (c (n "sophia_xml") (v "0.7.0") (d (list (d (n "oxiri") (r "^0.1.1") (d #t) (k 0)) (d (n "rio_xml") (r "^0.6.0") (d #t) (k 0)) (d (n "sophia_api") (r "^0.7.0") (d #t) (k 0)) (d (n "sophia_inmem") (r "^0.7.0") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.7.0") (d #t) (k 0)) (d (n "sophia_term") (r "^0.7.0") (d #t) (k 2)))) (h "0x6pwlbm0sqhkv0alkwxnq6k5xfmvx9klry74fgpll51irppcv1y")))
+
+(define-public crate-sophia_xml-0.7.1 (c (n "sophia_xml") (v "0.7.1") (d (list (d (n "oxiri") (r "^0.1.1") (d #t) (k 0)) (d (n "rio_xml") (r "^0.6.1") (d #t) (k 0)) (d (n "sophia_api") (r "^0.7.1") (d #t) (k 0)) (d (n "sophia_inmem") (r "^0.7.1") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.7.1") (d #t) (k 0)) (d (n "sophia_term") (r "^0.7.1") (d #t) (k 2)))) (h "0l5x1vddb9ipxcv7wz00bhmcsp5hv72q81l4mxy1cirsda4w0sws")))
+
+(define-public crate-sophia_xml-0.7.2 (c (n "sophia_xml") (v "0.7.2") (d (list (d (n "oxiri") (r "^0.2.1") (d #t) (k 0)) (d (n "rio_xml") (r "^0.6.1") (d #t) (k 0)) (d (n "sophia_api") (r "^0.7.2") (d #t) (k 0)) (d (n "sophia_inmem") (r "^0.7.2") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.7.2") (d #t) (k 0)) (d (n "sophia_term") (r "^0.7.2") (d #t) (k 2)))) (h "082xxwh8pbx9zj8xq74d1a5s78nals8dkah5wq0cb8f1rrgdyr0z")))
+
+(define-public crate-sophia_xml-0.8.0-alpha.0 (c (n "sophia_xml") (v "0.8.0-alpha.0") (d (list (d (n "oxiri") (r "^0.2.2") (d #t) (k 0)) (d (n "rio_xml") (r "^0.8") (d #t) (k 0)) (d (n "sophia_api") (r "^0.8.0-alpha.0") (d #t) (k 0)) (d (n "sophia_iri") (r "^0.8.0-alpha.0") (d #t) (k 0)) (d (n "sophia_isomorphism") (r "^0.8.0-alpha.0") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.8.0-alpha.0") (d #t) (k 0)))) (h "1s6x86a33gqqd5kvsq2hq2xm9k0i07hyar5zgfhchhab1k83hmjg")))
+
+(define-public crate-sophia_xml-0.8.0-alpha.1 (c (n "sophia_xml") (v "0.8.0-alpha.1") (d (list (d (n "oxiri") (r "^0.2.2") (d #t) (k 0)) (d (n "rio_xml") (r "^0.8") (d #t) (k 0)) (d (n "sophia_api") (r "^0.8.0-alpha.1") (d #t) (k 0)) (d (n "sophia_iri") (r "^0.8.0-alpha.1") (d #t) (k 0)) (d (n "sophia_isomorphism") (r "^0.8.0-alpha.1") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.8.0-alpha.1") (d #t) (k 0)))) (h "122bgvvkxy05v4bc1xr8xbfsp0b26jw9xv022al5jnigw0v0n0f0")))
+
+(define-public crate-sophia_xml-0.8.0-alpha.2 (c (n "sophia_xml") (v "0.8.0-alpha.2") (d (list (d (n "oxiri") (r "^0.2.2") (d #t) (k 0)) (d (n "rio_xml") (r "^0.8") (d #t) (k 0)) (d (n "sophia_api") (r "^0.8.0-alpha.2") (d #t) (k 0)) (d (n "sophia_iri") (r "^0.8.0-alpha.2") (d #t) (k 0)) (d (n "sophia_isomorphism") (r "^0.8.0-alpha.2") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.8.0-alpha.2") (d #t) (k 0)))) (h "0jmqv9fl8krqybrchc7364nvph7fl7y1jy66ky64g8lghdazd9qx")))
+
+(define-public crate-sophia_xml-0.8.0-alpha.3 (c (n "sophia_xml") (v "0.8.0-alpha.3") (d (list (d (n "oxiri") (r "^0.2.2") (d #t) (k 0)) (d (n "rio_xml") (r "^0.8") (d #t) (k 0)) (d (n "sophia_api") (r "^0.8.0-alpha.3") (d #t) (k 0)) (d (n "sophia_iri") (r "^0.8.0-alpha.3") (d #t) (k 0)) (d (n "sophia_isomorphism") (r "^0.8.0-alpha.3") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.8.0-alpha.3") (d #t) (k 0)))) (h "1xwaili64cd567ksbmdkf3my4sg9vr0gx1vzravzw1gyyyfd10dq")))
+
+(define-public crate-sophia_xml-0.8.0 (c (n "sophia_xml") (v "0.8.0") (d (list (d (n "oxiri") (r "^0.2.2") (d #t) (k 0)) (d (n "rio_xml") (r "^0.8") (d #t) (k 0)) (d (n "sophia_api") (r "^0.8.0") (d #t) (k 0)) (d (n "sophia_iri") (r "^0.8.0") (d #t) (k 0)) (d (n "sophia_isomorphism") (r "^0.8.0") (d #t) (k 2)) (d (n "sophia_rio") (r "^0.8.0") (d #t) (k 0)))) (h "063m6r1kx8kal6l4iig7cwqplmkxwbp7db68vh3bhvv3w8x8pycx")))
+

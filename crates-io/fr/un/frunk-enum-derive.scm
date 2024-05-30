@@ -1,0 +1,8 @@
+(define-module (crates-io fr un frunk-enum-derive) #:use-module (crates-io))
+
+(define-public crate-frunk-enum-derive-0.2.0 (c (n "frunk-enum-derive") (v "0.2.0") (d (list (d (n "frunk_proc_macro_helpers") (r "^0.0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.27") (d #t) (k 0)) (d (n "quote") (r "^0.6.11") (d #t) (k 0)) (d (n "syn") (r "^0.15.29") (f (quote ("full"))) (d #t) (k 0)))) (h "0cidjgsgww776yrd54rralnyfyff1jlg2rdir8lbhsj1c0k43bsc")))
+
+(define-public crate-frunk-enum-derive-0.2.1 (c (n "frunk-enum-derive") (v "0.2.1") (d (list (d (n "frunk") (r "^0.3.1") (d #t) (k 2)) (d (n "frunk-enum-core") (r "^0.2.1") (d #t) (k 2)) (d (n "frunk_core") (r "^0.3.1") (d #t) (k 2)) (d (n "frunk_proc_macro_helpers") (r "^0.0.4") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "syn") (r "^0.15") (f (quote ("full"))) (d #t) (k 0)))) (h "16dpy4wp7nh84q2kvn3qdlx6wf8ksa1v8x6gs4spfsq665pyjbya")))
+
+(define-public crate-frunk-enum-derive-0.3.0 (c (n "frunk-enum-derive") (v "0.3.0") (d (list (d (n "frunk") (r "^0.4.1") (d #t) (k 2)) (d (n "frunk-enum-core") (r "^0.3.0") (d #t) (k 2)) (d (n "frunk_core") (r "^0.4.1") (d #t) (k 2)) (d (n "frunk_proc_macro_helpers") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "011b7p5n448bb0nwj925hqpza7cnx2kpc1dk388icqgkb44i7in2")))
+

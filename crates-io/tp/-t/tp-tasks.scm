@@ -1,0 +1,6 @@
+(define-module (crates-io tp -t tp-tasks) #:use-module (crates-io))
+
+(define-public crate-tp-tasks-2.0.0 (c (n "tp-tasks") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (k 2) (p "tetsy-scale-codec")) (d (n "externalities") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.1") (k 0)) (d (n "tet-io") (r "^2.0.1") (k 0)) (d (n "tetcore-std") (r "^2.0.1") (k 0)) (d (n "tp-runtime-interface") (r "^2.0.1") (k 0)))) (h "1vfdzav7r6dkx85dgjljndm5zx99nvjgkag0vbqv7k126a94y7zn") (f (quote (("std" "log" "tet-core/std" "externalities" "tet-io/std" "tp-runtime-interface/std" "tetcore-std/std") ("default" "std"))))))
+
+(define-public crate-tp-tasks-2.0.1 (c (n "tp-tasks") (v "2.0.1") (d (list (d (n "codec") (r "^2.0.1") (k 2) (p "tetsy-scale-codec")) (d (n "externalities") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tet-io") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime-interface") (r "^2.0.2") (k 0)))) (h "0xc2sq9q4v6n5hvv6rrf4dz88bnl0vqn6zhaianzkwp77vmj8qmh") (f (quote (("std" "log" "tet-core/std" "externalities" "tet-io/std" "tp-runtime-interface/std" "tetcore-std/std") ("default" "std"))))))
+

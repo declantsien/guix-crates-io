@@ -1,0 +1,8 @@
+(define-module (crates-io ma co macos-open) #:use-module (crates-io))
+
+(define-public crate-macos-open-0.0.1 (c (n "macos-open") (v "0.0.1") (d (list (d (n "core-foundation") (r "^0.6.4") (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.2") (d #t) (k 0)) (d (n "fast_escape") (r "^0.1.0") (d #t) (k 0)) (d (n "fast_fmt") (r "^0.1.3") (d #t) (k 0)) (d (n "file-metadata") (r "^0.0.2") (d #t) (k 0)) (d (n "launch-services") (r "^0.0.2") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "0bk5dpiwjhgxl2hjjwfzav3wgbxm61y5nnlvsjy12fwavm86p57g")))
+
+(define-public crate-macos-open-0.0.2 (c (n "macos-open") (v "0.0.2") (d (list (d (n "core-foundation") (r "^0.6.4") (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.2") (d #t) (k 0)) (d (n "fast_escape") (r "^0.1.0") (d #t) (k 0)) (d (n "fast_fmt") (r "^0.1.3") (d #t) (k 0)) (d (n "file-metadata") (r "^0.0.2") (d #t) (k 0)) (d (n "launch-services") (r "^0.0.2") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "16fmdr6yj76v181vbzjpnji13lf63jlbcspmgcibczqxqz5whppk")))
+
+(define-public crate-macos-open-0.0.3 (c (n "macos-open") (v "0.0.3") (d (list (d (n "core-foundation") (r "^0.6.4") (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.2") (d #t) (k 0)) (d (n "fast_escape") (r "^0.1.0") (d #t) (k 0)) (d (n "fast_fmt") (r "^0.1.3") (d #t) (k 0)) (d (n "file-metadata") (r "^0.0.2") (d #t) (k 0)) (d (n "launch-services") (r "^0.0.2") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "1i6nyvv8d38h8qxh4bm98zrll0rih56dmwdscsqs8dlsd0id139w")))
+

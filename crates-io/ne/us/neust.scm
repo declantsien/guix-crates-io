@@ -1,0 +1,4 @@
+(define-module (crates-io ne us neust) #:use-module (crates-io))
+
+(define-public crate-neust-0.0.1 (c (n "neust") (v "0.0.1") (d (list (d (n "aes") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "cfb-mode") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("cookies"))) (k 0)) (d (n "sealed") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.16") (f (quote ("macros" "rt-multi-thread"))) (k 2)))) (h "0j0qm02mjifz38w6p0lqxv0r9z6wsz15c2ifi48aikglp76p61gr") (f (quote (("wechat" "rand") ("webvpn" "aes" "cfb-mode" "hex") ("rustls-tls" "reqwest/rustls-tls") ("native-tls" "reqwest/native-tls") ("json" "reqwest/json") ("default" "native-tls"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io rm us rmus) #:use-module (crates-io))
+
+(define-public crate-rmus-0.1.2 (c (n "rmus") (v "0.1.2") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "claxon") (r "^0.4.2") (d #t) (k 0)) (d (n "cpal") (r "^0.11.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "lewton") (r "^0.10.1") (d #t) (k 0)) (d (n "minimp3") (r "^0.3.5") (d #t) (k 0)) (d (n "ogg") (r "^0.7.0") (d #t) (k 0)) (d (n "smol") (r "^0.1.18") (d #t) (k 0)))) (h "0cvj1dqk8jl0dn4rpl33jxkyig16q3nmyrrg5k14v9qzmwvb6fph")))
+
+(define-public crate-rmus-0.1.3 (c (n "rmus") (v "0.1.3") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "claxon") (r "^0.4.2") (d #t) (k 0)) (d (n "cpal") (r "^0.11.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "lewton") (r "^0.10.1") (d #t) (k 0)) (d (n "minimp3") (r "^0.3.5") (d #t) (k 0)) (d (n "ogg") (r "^0.7.0") (d #t) (k 0)) (d (n "smol") (r "^0.1.18") (d #t) (k 0)))) (h "1vi32fc8kkkasdn1876as2d4d3587ixabz46lsyzslf7vmx4f093")))
+
+(define-public crate-rmus-0.1.4 (c (n "rmus") (v "0.1.4") (d (list (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "claxon") (r "^0.4.2") (d #t) (k 0)) (d (n "cpal") (r "^0.11.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "lewton") (r "^0.10.1") (d #t) (k 0)) (d (n "minimp3") (r "^0.3.5") (d #t) (k 0)) (d (n "ogg") (r "^0.7.0") (d #t) (k 0)) (d (n "smol") (r "^0.1.18") (d #t) (k 0)))) (h "0pkvnnl8ghblcbqdpaivgjl380ag4nhqy6mnxcn7ll3kwwhlpf3s")))
+

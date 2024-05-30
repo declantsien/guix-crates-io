@@ -1,0 +1,6 @@
+(define-module (crates-io rl dd rldd) #:use-module (crates-io))
+
+(define-public crate-rldd-0.1.0 (c (n "rldd") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.9") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.138") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "memmap2") (r "^0.5.7") (d #t) (k 0)) (d (n "object") (r "^0.29.0") (f (quote ("read"))) (k 0)) (d (n "raw-cpuid") (r "^10.6.0") (d #t) (t "cfg(any(target_arch = \"x86\", target_arch = \"x86_64\"))") (k 0)) (d (n "termcolor") (r "^1.1.3") (d #t) (k 0)))) (h "1ia6r6kpb7ghc6vx24m2j7ksfzm7svjnfzvszjym63bw1w4wgcdk")))
+
+(define-public crate-rldd-0.2.0 (c (n "rldd") (v "0.2.0") (d (list (d (n "argh") (r "^0.1.9") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.5.7") (d #t) (k 0)) (d (n "object") (r "^0.29.0") (f (quote ("read"))) (k 0)) (d (n "termcolor") (r "^1.1.3") (d #t) (k 0)) (d (n "raw-cpuid") (r "^10.6.0") (d #t) (t "cfg(any(target_arch = \"x86\", target_arch = \"x86_64\"))") (k 0)) (d (n "libc") (r "^0.2.138") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"android\"))") (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (t "cfg(target_os = \"android\")") (k 2)))) (h "1cnb6rfmc0zwvakli1mmi1vz1p2qlqsk4qnsb39461c75wb8ngnp")))
+

@@ -1,0 +1,26 @@
+(define-module (crates-io ar px arpx) #:use-module (crates-io))
+
+(define-public crate-arpx-0.0.0 (c (n "arpx") (v "0.0.0") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "03mfqqbi1ns8wa61bqbrcdasi5gsw8iwa3bvb86px22dx88gpb0v")))
+
+(define-public crate-arpx-0.0.1 (c (n "arpx") (v "0.0.1") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "0vhi7czx2597vhr6a9if2z4nl8j2413r85jjmnhp401s2knn3lh7")))
+
+(define-public crate-arpx-0.0.2 (c (n "arpx") (v "0.0.2") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "0gpsnhb1ybc3a1d80jdxnqw0990vxd1d9rvc5qlgv309if1yw6k4")))
+
+(define-public crate-arpx-0.0.3 (c (n "arpx") (v "0.0.3") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "0jmggjpd8n5hxsrlgc8r94rfjfv8i3yg9z8cw9cqkxi2ck0gqiyx")))
+
+(define-public crate-arpx-0.1.0 (c (n "arpx") (v "0.1.0") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "08qzqvryx51ljnw8dg3kx5kjhlgnjlrpp360j6chq3zcbgyshix0")))
+
+(define-public crate-arpx-0.2.0 (c (n "arpx") (v "0.2.0") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "0dbn9xha06yjjbayqkc90pkpv0cxhrz5whyaq1gcahsf348ch6zv")))
+
+(define-public crate-arpx-0.3.0 (c (n "arpx") (v "0.3.0") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "0j1si7zl7nj1rjxj79f0wafbvqnflpx79k90xsa3ajikxhvhnxl0")))
+
+(define-public crate-arpx-0.3.1 (c (n "arpx") (v "0.3.1") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)))) (h "1kjnrqsdyc8dpcfg5yvx75k0pvbgksc4pq76fls9hdi5hhb69bmh")))
+
+(define-public crate-arpx-0.4.0 (c (n "arpx") (v "0.4.0") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)))) (h "06ax50r3yvv639xks5aiv34xdkjl5q3wz5hfi54aghz6rdlny1sp") (y #t)))
+
+(define-public crate-arpx-0.4.1 (c (n "arpx") (v "0.4.1") (d (list (d (n "clap") (r "^2.27.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.3") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.99") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.9") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)))) (h "09xdwyywhyjzddrnisnhiggf0whd4c278in2mlc7w2ddqlx0f8bj")))
+
+(define-public crate-arpx-0.5.0-beta.0 (c (n "arpx") (v "0.5.0-beta.0") (d (list (d (n "anyhow") (r "^1.0.55") (f (quote ("std"))) (d #t) (k 0)) (d (n "arpx_job_parser") (r "^0.1.12") (d #t) (k 0)) (d (n "clap") (r "^3.0.14") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "log4rs") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)))) (h "0ky7k2kg1vdi4fwa1sbjld6gg19ribsmrzfmhha3s2qjw14qyz0r")))
+
+(define-public crate-arpx-0.5.0 (c (n "arpx") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.55") (f (quote ("std"))) (d #t) (k 0)) (d (n "arpx_job_parser") (r "^0.1.12") (d #t) (k 0)) (d (n "clap") (r "^3.0.14") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "log4rs") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.23") (d #t) (k 0)))) (h "1dhkqmivbhi0ziynl8706xp07bx326ab33lskljq2pzlv85qwxfl")))
+

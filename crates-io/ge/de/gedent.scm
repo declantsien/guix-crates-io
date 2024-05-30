@@ -1,0 +1,4 @@
+(define-module (crates-io ge de gedent) #:use-module (crates-io))
+
+(define-public crate-gedent-0.1.0 (c (n "gedent") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.4.10") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (f (quote ("completion" "fuzzy-select"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "edit") (r "^0.1.5") (d #t) (k 0)) (d (n "include_dir") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "tera") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "15v5mc7dw32i2gsi22m4kp1bpfwwg9l49paxx2h1wyzlrjnww30g") (r "1.65.0")))
+

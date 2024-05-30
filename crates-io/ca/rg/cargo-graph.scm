@@ -1,0 +1,20 @@
+(define-module (crates-io ca rg cargo-graph) #:use-module (crates-io))
+
+(define-public crate-cargo-graph-0.1.1 (c (n "cargo-graph") (v "0.1.1") (d (list (d (n "clap") (r "~1.4") (d #t) (k 0)) (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "08jw0mn13zryz6cz29z6081gp0ikbb9a06008a7y2xyrvdxi6jzs") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default") ("debug"))))))
+
+(define-public crate-cargo-graph-0.1.2 (c (n "cargo-graph") (v "0.1.2") (d (list (d (n "ansi_term") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "clap") (r "~1.5") (d #t) (k 0)) (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "1070gqxxa4mp4hknp0qzjpvwlr1iir7b6wcly7wq04xnaybh1l44") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+
+(define-public crate-cargo-graph-0.1.3 (c (n "cargo-graph") (v "0.1.3") (d (list (d (n "ansi_term") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "clap") (r "~1.5") (d #t) (k 0)) (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "11xdkyd0xp1s613crpvrri113isxkrmv6f413zv76n8qbqkjw3pm") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+
+(define-public crate-cargo-graph-0.1.4 (c (n "cargo-graph") (v "0.1.4") (d (list (d (n "ansi_term") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "clap") (r "~1.5") (d #t) (k 0)) (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "1ainxkw025a73b87rnvw03r0v8ilg01bkzscih26yk9nq5h4jq5m") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+
+(define-public crate-cargo-graph-0.2.0 (c (n "cargo-graph") (v "0.2.0") (d (list (d (n "ansi_term") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "clap") (r "~1.5") (d #t) (k 0)) (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "1xybvp5pyfrvjb75k7gypbl9nlz7wgs3k052n86nhh9w71y42c68") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+
+(define-public crate-cargo-graph-0.2.1 (c (n "cargo-graph") (v "0.2.1") (d (list (d (n "ansi_term") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "clap") (r "~1.5") (d #t) (k 0)) (d (n "clippy") (r "~0.0") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "1p62z05f6q3jxczmhdgmqjvd29qlpdl9g6lipns2zalp11pp7h4h") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term")))) (y #t)))
+
+(define-public crate-cargo-graph-0.2.2 (c (n "cargo-graph") (v "0.2.2") (d (list (d (n "ansi_term") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "clap") (r "~2.2.1") (d #t) (k 0)) (d (n "clippy") (r "= 0.0.55") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.1.22") (d #t) (k 0)))) (h "0h1z2zkgkaip8anikjnm8hn2gdrn73fv7wsk33ipmcqg0gbvd1i4") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+
+(define-public crate-cargo-graph-0.3.0 (c (n "cargo-graph") (v "0.3.0") (d (list (d (n "ansi_term") (r "~0.9") (o #t) (d #t) (k 0)) (d (n "clap") (r "~2.11.3") (d #t) (k 0)) (d (n "clippy") (r "= 0.0.88") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.2.1") (d #t) (k 0)))) (h "10rvcjd0mk3xrrvvaiyjgnjnyki405bjnzmgpgk90n6wqi5zcn6a") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+
+(define-public crate-cargo-graph-0.3.1 (c (n "cargo-graph") (v "0.3.1") (d (list (d (n "ansi_term") (r "~0.9") (o #t) (d #t) (k 0)) (d (n "clap") (r "~2.11.3") (d #t) (k 0)) (d (n "clippy") (r "= 0.0.88") (o #t) (d #t) (k 0)) (d (n "toml") (r "~0.2.1") (d #t) (k 0)))) (h "1s2sisjj331cv9nv2p7fs1d4avygaby3j7wygn725in0qj3qrfr7") (f (quote (("unstable" "lints") ("nightly") ("lints" "nightly" "clippy") ("default" "color") ("debug") ("color" "ansi_term"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io op en open189) #:use-module (crates-io))
+
+(define-public crate-open189-0.1.0 (c (n "open189") (v "0.1.0") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.7") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_derive") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^1.2") (d #t) (k 0)))) (h "0xqijlsivgvc2dd7l3gr2qppvap7x9cmckv5qyj6lcq69snj4x63") (y #t)))
+
+(define-public crate-open189-0.1.1 (c (n "open189") (v "0.1.1") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.7") (d #t) (k 0)) (d (n "hyper") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "rustc-serialize") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_derive") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^1.2") (d #t) (k 0)))) (h "0qx351dd5zav42a9x9a5lxj4w6dx5garzymvjmjqdd43a9v2z06b")))
+

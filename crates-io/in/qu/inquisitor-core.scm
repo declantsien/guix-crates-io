@@ -1,0 +1,10 @@
+(define-module (crates-io in qu inquisitor-core) #:use-module (crates-io))
+
+(define-public crate-inquisitor-core-0.8.2 (c (n "inquisitor-core") (v "0.8.2") (d (list (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1ck184wi1jjs2mpbam0rw2skb5jspvqisa7vfhk6m235as2sdh4y")))
+
+(define-public crate-inquisitor-core-0.9.0 (c (n "inquisitor-core") (v "0.9.0") (d (list (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "11baladdg6rig1szp1s2w0ch168g411p3gk9583hf517hh21mygd")))
+
+(define-public crate-inquisitor-core-0.10.0 (c (n "inquisitor-core") (v "0.10.0") (d (list (d (n "ctrlc") (r "^3.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1dbgfs0jrirkspbq4j2wqsglhgbfrjmxflvp8xc02rgwnic80px2")))
+
+(define-public crate-inquisitor-core-0.11.0 (c (n "inquisitor-core") (v "0.11.0") (d (list (d (n "ctrlc") (r "^3.4.0") (f (quote ("termination"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "hdrhistogram") (r "^7.5.2") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("sync" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1khvbckbwxwmz14fjb2jmf3sbxxlhz3p34xpy20bwhlbhrc9cpbi")))
+

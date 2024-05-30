@@ -1,0 +1,20 @@
+(define-module (crates-io #{3}# m msi) #:use-module (crates-io))
+
+(define-public crate-msi-0.1.0 (c (n "msi") (v "0.1.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "clap") (r "^2.26") (d #t) (k 2)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "ordermap") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (d #t) (k 0)))) (h "0l5q24pf7r46ay0jxlb6n0sviqld8m5djxzcbqlch4abrbbch606")))
+
+(define-public crate-msi-0.2.0 (c (n "msi") (v "0.2.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.3.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (d #t) (k 0)))) (h "08vrcxdx1n854bzqf57nccnjz0kixjz8i7pqv3hglmagw2jxw2x2")))
+
+(define-public crate-msi-0.3.0 (c (n "msi") (v "0.3.0") (d (list (d (n "byteorder") (r ">=1.0.0, <2.0.0") (d #t) (k 0)) (d (n "cfb") (r ">=0.4.0, <0.5.0") (d #t) (k 0)) (d (n "chrono") (r ">=0.4.0, <0.5.0") (d #t) (k 2)) (d (n "clap") (r ">=2.27.0, <3.0.0") (d #t) (k 2)) (d (n "encoding") (r ">=0.2.0, <0.3.0") (d #t) (k 0)) (d (n "pest") (r ">=2.1.0, <3.0.0") (d #t) (k 2)) (d (n "pest_derive") (r ">=2.1.0, <3.0.0") (d #t) (k 2)) (d (n "uuid") (r ">=0.8.1, <0.9.0") (d #t) (k 0)))) (h "1qnz2z2w2ghxly4rv5fcgqs0gwmzflm2bkf4qihkzm3qp33d2q55")))
+
+(define-public crate-msi-0.3.1 (c (n "msi") (v "0.3.1") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 2)) (d (n "pest_derive") (r "^2.1") (d #t) (k 2)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "07j3lq54ilys9q4v4aavsfrrydy8mkl7hdb19bijlwr5n3yvmas8")))
+
+(define-public crate-msi-0.4.0 (c (n "msi") (v "0.4.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 2)) (d (n "pest_derive") (r "^2.1") (d #t) (k 2)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "1knjqmgmgy7fl713mz4dyh4g9pb7pgl27nxvga3n0a3na4sdc4sy")))
+
+(define-public crate-msi-0.5.0 (c (n "msi") (v "0.5.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.7") (d #t) (k 0)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding") (r "^0.2") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 2)) (d (n "pest_derive") (r "^2.1") (d #t) (k 2)) (d (n "time") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "145cj5yb4kh8wwncxbsvn4jgqidr5s31a1jvg4axplcw3rsac8ci")))
+
+(define-public crate-msi-0.5.1 (c (n "msi") (v "0.5.1") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.7") (d #t) (k 0)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 2)) (d (n "pest_derive") (r "^2.1") (d #t) (k 2)) (d (n "time") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0jgimxiyl0x7drxc0swdrssvdd02sfjavramlp24sfzw1z6vz9za")))
+
+(define-public crate-msi-0.6.0 (c (n "msi") (v "0.6.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.7") (d #t) (k 0)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 2)) (d (n "pest_derive") (r "^2.1") (d #t) (k 2)) (d (n "time") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0ryghrx38pklwzwh6mms5yr18fcrpg5jpn10dn8j7zwf331ly4m7")))
+
+(define-public crate-msi-0.7.0 (c (n "msi") (v "0.7.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "cfb") (r "^0.9") (d #t) (k 0)) (d (n "clap") (r "^2.27") (d #t) (k 2)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "pest") (r "^2.1") (d #t) (k 2)) (d (n "pest_derive") (r "^2.1") (d #t) (k 2)) (d (n "time") (r "^0.3") (d #t) (k 2)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "050m88gg6h4ais8gyz1pna5khkmfvy55qwdrfmrz8b1xy0228sr2")))
+

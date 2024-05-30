@@ -1,0 +1,4 @@
+(define-module (crates-io rs tr rstrpc) #:use-module (crates-io))
+
+(define-public crate-rstrpc-0.0.1 (c (n "rstrpc") (v "0.0.1") (d (list (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "hyper") (r "^0.14.10") (f (quote ("server"))) (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.21.0") (f (quote ("server"))) (d #t) (k 0)) (d (n "rstrpc-macros") (r "^0.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "ts-rs") (r "^7.1.1") (d #t) (k 0)) (d (n "typeshare") (r "^1.0.1") (d #t) (k 0)))) (h "108gasz202ffp96m33piwrcg570gjd7zshcfa1v9dz2rvk98jk8g")))
+

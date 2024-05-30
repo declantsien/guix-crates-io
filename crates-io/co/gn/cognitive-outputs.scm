@@ -1,0 +1,8 @@
+(define-module (crates-io co gn cognitive-outputs) #:use-module (crates-io))
+
+(define-public crate-cognitive-outputs-0.0.1 (c (n "cognitive-outputs") (v "0.0.1") (d (list (d (n "cognitive-graphics") (r "^0.0.1") (d #t) (k 0)) (d (n "cognitive-qualia") (r "^0.0.1") (d #t) (k 0)) (d (n "cognitive-renderer-gl") (r "^0.0.1") (d #t) (k 0)) (d (n "dharma") (r "^0.0.1") (d #t) (k 0)) (d (n "drm-rs") (r "^0.1.2") (d #t) (k 0)) (d (n "egl") (r "^0.2.6") (d #t) (k 0)) (d (n "gbm-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.18") (d #t) (k 0)) (d (n "timber") (r "^0.0.1") (d #t) (k 0)))) (h "0ifarhyljimvlw010mwx63ddnaf49nv8xpx5g42ydmr8whql7brr")))
+
+(define-public crate-cognitive-outputs-0.0.2 (c (n "cognitive-outputs") (v "0.0.2") (d (list (d (n "cognitive-graphics") (r "^0.0.1") (d #t) (k 0)) (d (n "cognitive-qualia") (r "^0.0.3") (d #t) (k 0)) (d (n "cognitive-renderer-gl") (r "^0.0.2") (d #t) (k 0)) (d (n "dharma") (r "^0.0.1") (d #t) (k 0)) (d (n "drm-rs") (r "^0.1.2") (d #t) (k 0)) (d (n "egl") (r "^0.2.6") (d #t) (k 0)) (d (n "gbm-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.18") (d #t) (k 0)) (d (n "timber") (r "^0.0.1") (d #t) (k 0)))) (h "0sf7byj2zmjwxa3xp42k0vf088laj689ws5zpghi7zwqwkvcl4ld") (f (quote (("testing"))))))
+
+(define-public crate-cognitive-outputs-0.1.0 (c (n "cognitive-outputs") (v "0.1.0") (d (list (d (n "cognitive-graphics") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-qualia") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-renderer-gl") (r "^0.1") (d #t) (k 0)) (d (n "drm-rs") (r "^0.1") (d #t) (k 0)) (d (n "egl") (r "^0.2") (d #t) (k 0)) (d (n "gbm-rs") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1flc9771r2cl2rv4xmxskxl6b0b1gfrzhvpi45jrxk6vikrsr0gv") (f (quote (("testing"))))))
+

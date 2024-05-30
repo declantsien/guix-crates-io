@@ -1,0 +1,10 @@
+(define-module (crates-io ru st rust-sike) #:use-module (crates-io))
+
+(define-public crate-rust-sike-0.1.0 (c (n "rust-sike") (v "0.1.0") (d (list (d (n "bitvec") (r "^0.15") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rug") (r "^1.6") (f (quote ("integer"))) (d #t) (k 0)) (d (n "tiny-keccak") (r "^2.0") (f (quote ("shake"))) (d #t) (k 0)))) (h "1jizm15bikwvjr5lrjfx7q3slx7rvizr9i4r4f89s0b223pvk8fw") (y #t)))
+
+(define-public crate-rust-sike-0.1.1 (c (n "rust-sike") (v "0.1.1") (d (list (d (n "bitvec") (r "^0.15") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rug") (r "^1.6") (f (quote ("integer"))) (k 0)) (d (n "tiny-keccak") (r "^2.0") (f (quote ("shake"))) (d #t) (k 0)))) (h "1cwv2vjlqsrf55609jkc9ww4kdycyyb7dp8nwgwlidz94l860fiq") (y #t)))
+
+(define-public crate-rust-sike-0.2.0 (c (n "rust-sike") (v "0.2.0") (d (list (d (n "bitvec") (r "^0.17") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "rug") (r "^1.6") (f (quote ("integer"))) (k 0)) (d (n "tiny-keccak") (r "^2.0") (f (quote ("shake"))) (d #t) (k 0)))) (h "1vpwg8aalb64308x2pzbrndh64m0hihkxy3whbs6jrgv4jnfy77i") (y #t)))
+
+(define-public crate-rust-sike-0.2.1 (c (n "rust-sike") (v "0.2.1") (d (list (d (n "bitvec") (r "^0.17") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "flamegraph") (r "^0.4") (d #t) (k 2)) (d (n "getrandom") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.4") (d #t) (k 0)) (d (n "rug") (r "^1.10") (f (quote ("integer"))) (k 0)) (d (n "sha3") (r "^0.9") (d #t) (k 0)))) (h "1wl89j3sjq7h2bx2bfjkfgdvjyhgy07mvcwasmkw5rb8z6mld2jj")))
+

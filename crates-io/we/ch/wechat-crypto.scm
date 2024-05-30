@@ -1,0 +1,8 @@
+(define-module (crates-io we ch wechat-crypto) #:use-module (crates-io))
+
+(define-public crate-wechat-crypto-0.1.0 (c (n "wechat-crypto") (v "0.1.0") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1k20ray9wkjc609w2na7z251nbnsgpk1j67b0giamqig0mh2qbgz")))
+
+(define-public crate-wechat-crypto-0.1.1 (c (n "wechat-crypto") (v "0.1.1") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1ji0x895bmpc6wrgk6yhdpjlid446r4wfwgr5m2spwypi04pqdml")))
+
+(define-public crate-wechat-crypto-0.1.2 (c (n "wechat-crypto") (v "0.1.2") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (d #t) (k 0)) (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0b4i1izqhf5m8kx3la68mfcismaxnyg23qa1dm06jk69wckvpalp")))
+

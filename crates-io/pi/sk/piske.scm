@@ -1,0 +1,8 @@
+(define-module (crates-io pi sk piske) #:use-module (crates-io))
+
+(define-public crate-piske-0.1.0 (c (n "piske") (v "0.1.0") (d (list (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "psk_std") (r "^0.1") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "sindra") (r "^0.1") (d #t) (k 0)) (d (n "tempfile") (r "^2.2.0") (d #t) (k 2)) (d (n "wee-peg") (r "^0.5") (d #t) (k 1)) (d (n "wee-rl") (r "^1.0") (d #t) (k 0)))) (h "19mzhgix2lcwsc7bfvb9dxxy48qy8dl6m3cznnkcmgb5w3m6cxi5")))
+
+(define-public crate-piske-0.1.1 (c (n "piske") (v "0.1.1") (d (list (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "psk_std") (r "^0.1") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rustyline") (r "^4.1") (d #t) (k 0)) (d (n "sindra") (r "^0.1") (d #t) (k 0)) (d (n "tempfile") (r "^2.2.0") (d #t) (k 2)) (d (n "wee-peg") (r "^0.5") (d #t) (k 1)))) (h "11nl6fmcp594cjispzljbxcfgpcmdkrbzlfnql3k2dn5idic5dy0")))
+
+(define-public crate-piske-0.1.2 (c (n "piske") (v "0.1.2") (d (list (d (n "clap") (r "^2.19.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "psk_std") (r "^0.1") (d #t) (k 0)) (d (n "quote") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "rustyline") (r "^4.1") (d #t) (k 0)) (d (n "sindra") (r "^0.1") (d #t) (k 0)) (d (n "tempfile") (r "^2.2.0") (d #t) (k 2)) (d (n "wee-peg") (r "^0.5") (d #t) (k 1)))) (h "0ycsbpsgc89zhj7f66jn6wzc1hfmdh9z7kycsgxgdbxcdsji55hz")))
+

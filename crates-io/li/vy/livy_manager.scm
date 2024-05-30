@@ -1,0 +1,8 @@
+(define-module (crates-io li vy livy_manager) #:use-module (crates-io))
+
+(define-public crate-livy_manager-0.0.0 (c (n "livy_manager") (v "0.0.0") (h "19vd1gyzy5jqn4zd4klk402pw9vxyg1acwwllr62hlb37g1dapwy")))
+
+(define-public crate-livy_manager-0.1.0 (c (n "livy_manager") (v "0.1.0") (d (list (d (n "argparse") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "ldap3") (r "^0.5") (d #t) (k 0)) (d (n "livy") (r "^0.4") (d #t) (k 0)) (d (n "percent-encoding") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "18qjrfh69n0zs14swnhcqkrvvnsscn0xf4p7fbs0ci67m038iq1n")))
+
+(define-public crate-livy_manager-0.2.0 (c (n "livy_manager") (v "0.2.0") (d (list (d (n "argparse") (r "^0.2") (d #t) (k 0)) (d (n "iron") (r "^0.6") (d #t) (k 0)) (d (n "ldap3") (r "^0.5") (d #t) (k 0)) (d (n "livy") (r "^0.5") (d #t) (k 0)) (d (n "params") (r "^0.8") (d #t) (k 0)) (d (n "persistent") (r "^0.4") (d #t) (k 0)) (d (n "router") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (f (quote ("v4"))) (d #t) (k 0)))) (h "02ckhbpw1bdvl38pgm16875hd7ga9wim6spc3qa7jwpi6sakm3cj")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pg _s pg_sgr_from_row) #:use-module (crates-io))
+
+(define-public crate-pg_sgr_from_row-0.1.0 (c (n "pg_sgr_from_row") (v "0.1.0") (d (list (d (n "postgres") (r "^0.19.7") (f (quote ("with-serde_json-1"))) (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.29") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.71") (d #t) (k 2)) (d (n "syn") (r "^2.0.23") (d #t) (k 0)) (d (n "synca") (r "^0.4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.35.1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-postgres") (r "^0.7.10") (f (quote ("with-serde_json-1"))) (d #t) (k 2)))) (h "0fp864ayx96719sirhzxxrcw1rcwih1m7pkjdi272zp0n6clf83s") (f (quote (("tokio") ("sync") ("default" "sync"))))))
+

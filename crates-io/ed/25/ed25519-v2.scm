@@ -1,0 +1,4 @@
+(define-module (crates-io ed #{25}# ed25519-v2) #:use-module (crates-io))
+
+(define-public crate-ed25519-v2-2.3.0-pre (c (n "ed25519-v2") (v "2.3.0-pre") (d (list (d (n "bincode") (r "^1") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "pkcs8") (r "=0.11.0-pre.0") (o #t) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("std"))) (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "signature") (r "=2.3.0-pre.3") (k 0)) (d (n "zeroize") (r "^1.3.0") (o #t) (k 0)))) (h "035b11z7s0wf654zzcrik9570wmnsg3waid0rly295w2qh90ihsy") (f (quote (("pem" "alloc" "pkcs8/pem") ("default" "std")))) (s 2) (e (quote (("std" "pkcs8?/std" "signature/std") ("serde_bytes" "serde" "dep:serde_bytes") ("alloc" "pkcs8?/alloc")))) (r "1.72")))
+

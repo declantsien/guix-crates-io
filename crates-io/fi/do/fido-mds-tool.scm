@@ -1,0 +1,14 @@
+(define-module (crates-io fi do fido-mds-tool) #:use-module (crates-io))
+
+(define-public crate-fido-mds-tool-0.4.2 (c (n "fido-mds-tool") (v "0.4.2") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fido-mds") (r "^0.4.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.14") (f (quote ("env-filter" "fmt"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0sspcbrh8qlzz42nxdf06dvj9nc4dp3i56hbvxk9194js844p5pw")))
+
+(define-public crate-fido-mds-tool-0.4.3 (c (n "fido-mds-tool") (v "0.4.3") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fido-mds") (r "^0.4.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.14") (f (quote ("env-filter" "fmt"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "13v9nfvfr1r0n0dlvpigmin3d4bb3sgq8bd83j6xnyx638m3fai3")))
+
+(define-public crate-fido-mds-tool-0.4.4 (c (n "fido-mds-tool") (v "0.4.4") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fido-mds") (r "^0.4.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.14") (f (quote ("env-filter" "fmt"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0fgna3iqajnjb43822wdij3x9bv884jrxkyrlpqnz517rj3hs7l7")))
+
+(define-public crate-fido-mds-tool-0.4.5 (c (n "fido-mds-tool") (v "0.4.5") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fido-mds") (r "^0.4.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.14") (f (quote ("env-filter" "fmt"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "1g6fw06jq1asmay887cmxr5qg78virhgrm3d5snk37y32nc138gv")))
+
+(define-public crate-fido-mds-tool-0.4.8 (c (n "fido-mds-tool") (v "0.4.8") (d (list (d (n "clap") (r "^3.2") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fido-mds") (r "^0.4.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.14") (f (quote ("env-filter" "fmt"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "10w5c2x2hjn0h6wrxq8zgwq4m78j9gblcx3l7xjw5ncv6qw04312")))
+
+(define-public crate-fido-mds-tool-0.5.0 (c (n "fido-mds-tool") (v "0.5.0") (d (list (d (n "clap") (r "=4.4.18") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "fido-mds") (r "^0.5.0-dev") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "native-tls"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter" "std" "fmt"))) (d #t) (k 0)) (d (n "url") (r "^2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (d #t) (k 0)))) (h "06cxlqi7jqzjx497d370hdsxcyfhxa4bdyzz37bvmnfji94b6kpd") (r "1.70.0")))
+

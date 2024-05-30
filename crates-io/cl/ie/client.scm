@@ -1,0 +1,4 @@
+(define-module (crates-io cl ie client) #:use-module (crates-io))
+
+(define-public crate-client-0.1.1-beta1 (c (n "client") (v "0.1.1-beta1") (d (list (d (n "cid") (r "^0.11.0") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.66") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "multibase") (r "^0.9.1") (d #t) (k 0)) (d (n "multihash") (r "^0.19.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.2") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.90") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.39") (d #t) (k 0)) (d (n "wasm-logger") (r "^0.2.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.66") (d #t) (k 0)) (d (n "yew") (r "^0.21.0") (f (quote ("csr"))) (d #t) (k 0)) (d (n "yew-router") (r "^0.18.0") (d #t) (k 0)))) (h "1r9v05ayph5a3xy19d1922dg5zk3ybgirm2zgfyrx40kp11p3l9n")))
+

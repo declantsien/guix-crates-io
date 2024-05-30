@@ -1,0 +1,10 @@
+(define-module (crates-io dp n_ dpn_core) #:use-module (crates-io))
+
+(define-public crate-dpn_core-0.1.0 (c (n "dpn_core") (v "0.1.0") (d (list (d (n "ethers") (r "^2.0.11") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "web3") (r "^0.19.0") (f (quote ("http-rustls-tls" "test" "signing"))) (k 0)))) (h "0k1fhpdhgbi0wcv32lpnms50ywvnmzyysl5p3vxfwi3qpir9g0gh")))
+
+(define-public crate-dpn_core-0.0.1 (c (n "dpn_core") (v "0.0.1") (d (list (d (n "ethers") (r "^2.0.11") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "web3") (r "^0.19.0") (f (quote ("http-rustls-tls" "test" "signing"))) (k 0)))) (h "0hz72cfn00d36n6zafjiabx7b4gwbajxnzccn9zmqcqx6s8qwzkr")))
+
+(define-public crate-dpn_core-0.0.2 (c (n "dpn_core") (v "0.0.2") (d (list (d (n "ethers") (r "^2.0.11") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "web3") (r "^0.19.0") (f (quote ("http-rustls-tls" "test" "signing"))) (k 0)))) (h "18llxmfyaqhr1qpacdjhzibnhkff2d7r9hw41lhq8fyz8naxf0ii")))
+
+(define-public crate-dpn_core-0.0.3 (c (n "dpn_core") (v "0.0.3") (d (list (d (n "ethers") (r "^2.0.11") (d #t) (k 0)) (d (n "num-derive") (r "^0.4.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "utoipa") (r "^4.1.0") (f (quote ("actix_extras"))) (d #t) (k 0)) (d (n "web3") (r "^0.19.0") (f (quote ("http-rustls-tls" "test" "signing"))) (k 0)))) (h "1wp8qhjds1nla2k8385gq5l6xl1c8fs2hj446qsx4hrqd0liz46g")))
+

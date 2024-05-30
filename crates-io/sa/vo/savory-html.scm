@@ -1,0 +1,4 @@
+(define-module (crates-io sa vo savory-html) #:use-module (crates-io))
+
+(define-public crate-savory-html-0.5.1 (c (n "savory-html") (v "0.5.1") (d (list (d (n "chrono") (r "^0.4.10") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "derive_rich") (r "^0.4.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.3.2") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "palette") (r "^0.4.1") (d #t) (k 0)) (d (n "paste") (r "^0.1.10") (d #t) (k 0)) (d (n "regex") (r "^1.3.4") (d #t) (k 0)) (d (n "savory-core") (r "^0.5.1") (d #t) (k 0)) (d (n "seed") (r "^0.7.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.58") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.35") (f (quote ("WheelEvent" "CompositionEvent" "HtmlInputElement" "InputEvent" "FocusEvent" "DragEvent" "DomRect" "Element" "HtmlLabelElement" "UiEvent"))) (d #t) (k 0)))) (h "1dg1ilw7cwnmw3gyyb52i3jbgv5jz29qad1q4wd50abs6g58f5yz")))
+

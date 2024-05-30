@@ -1,0 +1,12 @@
+(define-module (crates-io ml fl mlflow_rs) #:use-module (crates-io))
+
+(define-public crate-mlflow_rs-0.1.0 (c (n "mlflow_rs") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0zi3a9wl99n89w1ad6frcnl3y9l1ni593l2awdpc0w7ab6hpnrxk")))
+
+(define-public crate-mlflow_rs-0.1.1 (c (n "mlflow_rs") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0dx9ndg42bxaap965l0mv6lx2wwwv9wid6kysdia1sfzy35xq76y")))
+
+(define-public crate-mlflow_rs-0.1.2 (c (n "mlflow_rs") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "08q41syjrvx8dsij8hqm0skaby6gq0gdmv7xlf671yy182zxi5gj")))
+
+(define-public crate-mlflow_rs-0.1.3 (c (n "mlflow_rs") (v "0.1.3") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0dabaqw4fhygalz4b287aw7hqpy0wd7fpzyjjidy3fzg9a177bzs")))
+
+(define-public crate-mlflow_rs-0.1.4 (c (n "mlflow_rs") (v "0.1.4") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "ctrlc") (r "^3.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1w58xb1751v9694j9j2zcw8g47kvfksqgy3h0xkibsvcjqq50i57")))
+

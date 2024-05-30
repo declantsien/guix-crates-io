@@ -1,0 +1,10 @@
+(define-module (crates-io pa pe paper) #:use-module (crates-io))
+
+(define-public crate-paper-0.1.0 (c (n "paper") (v "0.1.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "pancurses") (r "^0.16") (f (quote ("win32"))) (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.6") (d #t) (k 0)))) (h "15n93riks5apiqq5y5vmbp9vn541sy77mjc409mcajb3fsczhznw")))
+
+(define-public crate-paper-0.2.0 (c (n "paper") (v "0.2.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "pancurses") (r "^0.16") (f (quote ("win32"))) (d #t) (k 0)) (d (n "rec") (r "^0.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.6") (d #t) (k 0)))) (h "0n2ilp1dadhdqgqq39yhim1parr4755mhx5rfwa93lq52arc8m0c")))
+
+(define-public crate-paper-0.3.0 (c (n "paper") (v "0.3.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "double") (r "^0.2.3") (d #t) (k 0)) (d (n "pancurses") (r "^0.16") (f (quote ("win32"))) (d #t) (k 0)) (d (n "rec") (r "^0.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)) (d (n "spectral") (r "^0.6.0") (d #t) (k 0)) (d (n "try_from") (r "^0.3.2") (d #t) (k 0)) (d (n "version-sync") (r "^0.6") (d #t) (k 0)))) (h "17dwbcxhs0ji9z2bz5rb7v2x2qg4p7j031azxjlw3i6w5yxhzani")))
+
+(define-public crate-paper-0.4.0 (c (n "paper") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.18.2") (d #t) (k 0)) (d (n "docuglot") (r "^0.4.0") (d #t) (k 0)) (d (n "enum-map") (r "^0.6.2") (d #t) (k 0)) (d (n "fehler") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lsp-types") (r "^0.77.0") (d #t) (k 0)) (d (n "market") (r "^0.24.0") (d #t) (k 0)) (d (n "parse-display") (r "^0.1.1") (d #t) (k 0)) (d (n "starship") (r "^0.44.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)) (d (n "url") (r "^2.0.0") (d #t) (k 0)))) (h "1rq25c493lajn4dmdh3im0219gpwcw02c8zi7bjy4p48biszk360")))
+

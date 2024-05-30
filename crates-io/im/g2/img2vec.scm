@@ -1,0 +1,54 @@
+(define-module (crates-io im g2 img2vec) #:use-module (crates-io))
+
+(define-public crate-img2vec-0.1.0 (c (n "img2vec") (v "0.1.0") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)))) (h "14npgxsi28zgfnqzb9y017dd0ai9fwd3i86n5i95p0rl19q2w00w")))
+
+(define-public crate-img2vec-0.1.1 (c (n "img2vec") (v "0.1.1") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)))) (h "14p0ijd7xnnc2axjazq4b8kjjq370gc06yg63w39nhck2xdagp4y")))
+
+(define-public crate-img2vec-0.1.2 (c (n "img2vec") (v "0.1.2") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "04hydnjgb9yq84qg7g0xkaacfnjdzyirb2zvrfw526w18a5yxr78")))
+
+(define-public crate-img2vec-0.1.3 (c (n "img2vec") (v "0.1.3") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "11rcrqkdzxg4g9f2d5r350f2n7pjn02i28aks07l9szdpilzzq6a")))
+
+(define-public crate-img2vec-0.1.4 (c (n "img2vec") (v "0.1.4") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0w33z8l0lhj78y04x6873sk4d897f3aqqa7425x4f7fjhiyvc4f7")))
+
+(define-public crate-img2vec-0.1.5 (c (n "img2vec") (v "0.1.5") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1xgpgjv7sl87jqgrgfp3wyrrmdkqsgklmm5yiq83nq8r92cjww46")))
+
+(define-public crate-img2vec-0.1.6 (c (n "img2vec") (v "0.1.6") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0wx6cdhwsfzd0injcnkvih890sk4q0w56xlsxjz351bz4w5bcl5v")))
+
+(define-public crate-img2vec-0.1.7 (c (n "img2vec") (v "0.1.7") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1yszqd72nzqrg3bm217a0w9vprh8bp9bwyj9xlk5c2k6i8ykyzq4")))
+
+(define-public crate-img2vec-0.1.8 (c (n "img2vec") (v "0.1.8") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "13h9b1dw9wg3s1ridhhqjfvzvs08spki24zq21cwll23kfm93vsp")))
+
+(define-public crate-img2vec-0.1.9 (c (n "img2vec") (v "0.1.9") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1k3jkxqpi1lqn6c7yp790y98cnyfyf2kbjsa4209bxmxc6y202ay")))
+
+(define-public crate-img2vec-0.2.0 (c (n "img2vec") (v "0.2.0") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "08arkij8fk0fzrm7fbislfvaixz6cnf949w42f5kxpvahph8z8sr")))
+
+(define-public crate-img2vec-0.2.1 (c (n "img2vec") (v "0.2.1") (d (list (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "14wi6gg9b2fqbdf4j4p53q8xp0fd12f9b75py1syqvq2prgqari7")))
+
+(define-public crate-img2vec-0.2.2 (c (n "img2vec") (v "0.2.2") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1vq546acq6alxy8l7sfj8amkic431fgagfzx85px34ypwj2ryici")))
+
+(define-public crate-img2vec-0.2.3 (c (n "img2vec") (v "0.2.3") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0mpxjhg9jjy4dbfaiiymaygvafn5p3hbljn5pin9zbjcwf4wg73w")))
+
+(define-public crate-img2vec-0.2.4 (c (n "img2vec") (v "0.2.4") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1jyagfs9xpvx50c72bd15fz96ykvzgg3z0hzlm8lmbbgk4av4x6d")))
+
+(define-public crate-img2vec-0.2.5 (c (n "img2vec") (v "0.2.5") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "00bcdf0wnhg052hl3pli4lpx01gyasrmrkyav08riy5gcph4nxfb")))
+
+(define-public crate-img2vec-0.2.6 (c (n "img2vec") (v "0.2.6") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0pzniwamiwl2yqzhd80vsnflqr93vgw9ph2w2biysfn7w2lpp0gi")))
+
+(define-public crate-img2vec-0.2.7 (c (n "img2vec") (v "0.2.7") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1w231prfvd06mcxyqlzy7n4g80pm76xinslzrbfjr34dp3n771qr")))
+
+(define-public crate-img2vec-0.2.8 (c (n "img2vec") (v "0.2.8") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0931kh5614drk4jynlpchiaffnf2kgmanfr8q3wcbid5rkd5r8mn")))
+
+(define-public crate-img2vec-0.2.9 (c (n "img2vec") (v "0.2.9") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1m2qixsdqqwwsl3nspjab6abp4vr68pp9zqqzaqrkdhhc8z6qyv9")))
+
+(define-public crate-img2vec-0.2.10 (c (n "img2vec") (v "0.2.10") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "04n6c9h664y8bs4izn60smgczc76k1mn9yvvcvsk1p72mixay1sf")))
+
+(define-public crate-img2vec-0.2.11 (c (n "img2vec") (v "0.2.11") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0fhy67pwjxklvcngc85i7snhrrlnq7vcn7ks8y3c3sihv9427kcc")))
+
+(define-public crate-img2vec-0.2.12 (c (n "img2vec") (v "0.2.12") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1k0dd72ixcijvms6aj5qpigcnh281y4gifm206islqaq4rlp75i2")))
+
+(define-public crate-img2vec-0.2.13 (c (n "img2vec") (v "0.2.13") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0z4iby2pdgmk1g5lxj4g8krbvjj065gancl9s4fn19i2zzh7ip2j")))
+
+(define-public crate-img2vec-0.2.14 (c (n "img2vec") (v "0.2.14") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "1gpjpc9jas7vdk2n1jxnvv421x2284ka3szn96dnqzjmwcibpyy9")))
+
+(define-public crate-img2vec-0.2.16 (c (n "img2vec") (v "0.2.16") (d (list (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ndarray-linalg") (r "^0.16.0") (f (quote ("openblas-system"))) (d #t) (k 0)) (d (n "sled") (r "^0.34.7") (d #t) (k 0)) (d (n "vec_security") (r "^0.1.1") (d #t) (k 0)))) (h "0pnvqgqbrd83wc095cz2qif362vyxxxfkfm85m0217pj8xmlmxqa")))
+

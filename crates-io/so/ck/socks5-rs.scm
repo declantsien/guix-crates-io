@@ -1,0 +1,14 @@
+(define-module (crates-io so ck socks5-rs) #:use-module (crates-io))
+
+(define-public crate-socks5-rs-0.2.0 (c (n "socks5-rs") (v "0.2.0") (d (list (d (n "async-std") (r "~1") (d #t) (k 0)) (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "~2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "~0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)))) (h "09d0jnfc0hwlz7np5pvm70lnfpdd5aa9j60p7kg17zlsr1i0z54g")))
+
+(define-public crate-socks5-rs-0.2.1 (c (n "socks5-rs") (v "0.2.1") (d (list (d (n "async-std") (r "~1") (d #t) (k 0)) (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "~2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "~0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)))) (h "0swmxzmsniinmhz2w4400y5nyc922iqh8858sg3l1qsmx64js5p3")))
+
+(define-public crate-socks5-rs-0.2.2 (c (n "socks5-rs") (v "0.2.2") (d (list (d (n "async-std") (r "~1") (d #t) (k 0)) (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "~2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "~0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)))) (h "0zyb5yndh5jmbh12qiw245yhnc8skq3748hwxzsq7218ld5m7lax")))
+
+(define-public crate-socks5-rs-0.2.3 (c (n "socks5-rs") (v "0.2.3") (d (list (d (n "async-std") (r "~1") (d #t) (k 0)) (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "~2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "~0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)))) (h "14fhca6725rc6vy54gcrgrfjg6g9igjc4g04f168p2cj0dfd5xyy")))
+
+(define-public crate-socks5-rs-0.2.4 (c (n "socks5-rs") (v "0.2.4") (d (list (d (n "async-std") (r "~1") (d #t) (k 0)) (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "~2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "~0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)))) (h "017vsm898qdxxj3ka8z4w3r48l9ipp7agndf19xcs4ip2b49cjjq")))
+
+(define-public crate-socks5-rs-0.2.5 (c (n "socks5-rs") (v "0.2.5") (d (list (d (n "async-std") (r "~1") (d #t) (k 0)) (d (n "bytes") (r "~0.5") (d #t) (k 0)) (d (n "chrono") (r "^0.3") (d #t) (k 0)) (d (n "clap") (r "~2.33") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "futures") (r "~0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "~1.4.0") (d #t) (k 0)) (d (n "log") (r "~0.4") (d #t) (k 0)))) (h "00g3zds1brr6yphj886nb50v5807ykjb9zgcdbhcnaic73p8id7w")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io kr ag kraglin) #:use-module (crates-io))
+
+(define-public crate-kraglin-0.1.0 (c (n "kraglin") (v "0.1.0") (d (list (d (n "bytes") (r "^1.6") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "dashu-int") (r "^0.4") (f (quote ("std" "serde"))) (k 0)) (d (n "decorum") (r "^0.3") (d #t) (k 0)) (d (n "educe") (r "^0.5") (f (quote ("Hash"))) (k 0)) (d (n "generic-tests") (r "^0.1") (f (quote ("test-tokio"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full" "tracing"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-error") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "11iczdsvdsxjmj1rjy05mqv7jkvy6jjr7mbixc9qhkf1i5dqasic")))
+

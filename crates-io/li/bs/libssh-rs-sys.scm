@@ -1,0 +1,22 @@
+(define-module (crates-io li bs libssh-rs-sys) #:use-module (crates-io))
+
+(define-public crate-libssh-rs-sys-0.1.0 (c (n "libssh-rs-sys") (v "0.1.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "^0.9.70") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0hwzq7sndilksaffmdpw24zm995agd3gii47854gjx7cmsc7q7ch") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.1.1 (c (n "libssh-rs-sys") (v "0.1.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "^0.9.70") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "18nw30f4fr64nv4d8rgkcm5hplx3rs1vc9phycn1yga9i1v31i0s") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.1.2 (c (n "libssh-rs-sys") (v "0.1.2") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "=0.9.71") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1mszdk5780a4fpvaf0q7mbpza8vg9jjjb8ym8391ax3dx56q153h") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.1.3 (c (n "libssh-rs-sys") (v "0.1.3") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "=0.9.71") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0hlackccfwq1hhjjkzkh6am583fnnqr4xxz36zjg6d7y9rfsb4nm") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.1.4 (c (n "libssh-rs-sys") (v "0.1.4") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "=0.9.71") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1hz8iia4pp1cr4byhhjiynylv4jjrc8qlqi5v84glgn5z9dgxwyg") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (y #t) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.2.0 (c (n "libssh-rs-sys") (v "0.2.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "=0.9.71") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1cwwxfx95agfmg9dfcxf5nxldapx7qzp276a6skddr6xfxgyklma") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.2.1 (c (n "libssh-rs-sys") (v "0.2.1") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "^0.9.93") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "16w04d1jwplczcc9cpiblfg0rrc0fp3skl10bbhb9amnnkgd8zvp") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.2.2 (c (n "libssh-rs-sys") (v "0.2.2") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "^0.9.93") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "18lwr3wyacxamqkcrvz83pxn9xqz43a5m4vg9nvsg0ldhlkpiw1s") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.2.3 (c (n "libssh-rs-sys") (v "0.2.3") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "^0.9.93") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1a8l7zk7y1b9ha14f6fhp3x23vixvnv8xzxya14vh7hc4h8srh9n") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+
+(define-public crate-libssh-rs-sys-0.2.4 (c (n "libssh-rs-sys") (v "0.2.4") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libz-sys") (r "^1.1") (f (quote ("libc"))) (o #t) (k 0)) (d (n "openssl-sys") (r "^0.9.93") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1iszvfxkfc4psi2vl6yvpfnqz7jxn5qdwxa1ydv3qivzjjjyqp10") (f (quote (("vendored-openssl" "openssl-sys/vendored") ("vendored" "libz-sys")))) (l "libssh")))
+

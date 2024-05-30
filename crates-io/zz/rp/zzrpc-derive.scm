@@ -1,0 +1,8 @@
+(define-module (crates-io zz rp zzrpc-derive) #:use-module (crates-io))
+
+(define-public crate-zzrpc-derive-0.1.0 (c (n "zzrpc-derive") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.22") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 2)))) (h "1xxi3cclss78cn3iqn74kks3z75mx2257wz1rjxck99mv5awxm3f")))
+
+(define-public crate-zzrpc-derive-0.1.1 (c (n "zzrpc-derive") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.1.22") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 2)) (d (n "uuid") (r "^1.2.2") (f (quote ("v4"))) (d #t) (k 0)))) (h "12751h0d90g8hrwm262xjcl8s1w46mhsmmy040x93bqc043fcy0m")))
+
+(define-public crate-zzrpc-derive-0.1.2 (c (n "zzrpc-derive") (v "0.1.2") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "visit" "extra-traits"))) (d #t) (k 2)) (d (n "uuid") (r "^1.4.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0j7102lm7qp3ynv8swkkh0cn1nfzkfala5firw6na7wyqlvk1cag")))
+

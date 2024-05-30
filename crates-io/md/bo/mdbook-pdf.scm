@@ -1,0 +1,20 @@
+(define-module (crates-io md bo mdbook-pdf) #:use-module (crates-io))
+
+(define-public crate-mdbook-pdf-0.1.0 (c (n "mdbook-pdf") (v "0.1.0") (d (list (d (n "mdbook") (r "^0.4.15") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)))) (h "17wk16i7504x6zziygq8smkzdx6d2q3lqzysnjcvvvi9ygpxf4sn")))
+
+(define-public crate-mdbook-pdf-0.1.1 (c (n "mdbook-pdf") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.15") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)))) (h "07hq2j9s889mskqw08dw8zifdgdb5sbgi5zi38gv4pm3lvblrlsq")))
+
+(define-public crate-mdbook-pdf-0.1.2 (c (n "mdbook-pdf") (v "0.1.2") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "1sdy3mj1bdspsnjryc7p97h3pw4qsahabgbg2kxwpjgd9xmkqc3a")))
+
+(define-public crate-mdbook-pdf-0.1.3 (c (n "mdbook-pdf") (v "0.1.3") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "1a2fv4dwhg9hrqgp0gsdnypiawpr873wrs0s63dlqg7cvfgp0pcy")))
+
+(define-public crate-mdbook-pdf-0.1.4 (c (n "mdbook-pdf") (v "0.1.4") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "0sa6z34l49g3d0l2cns6m60plmklyfrrivwgbrwbs0zmj0bh3nyg")))
+
+(define-public crate-mdbook-pdf-0.1.5 (c (n "mdbook-pdf") (v "0.1.5") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "16bl48ijxwmfcrpy9rc42fza2hydwcwlfpijw699d8w7z4qf1a3c")))
+
+(define-public crate-mdbook-pdf-0.1.6 (c (n "mdbook-pdf") (v "0.1.6") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "03nm56ny2ylh6zccb943gaxbhbivcdzbh9jkcrraq21iyknhjz65") (f (quote (("fetch" "mdbook-pdf-headless_chrome/fetch"))))))
+
+(define-public crate-mdbook-pdf-0.1.7 (c (n "mdbook-pdf") (v "0.1.7") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "mdbook-pdf-headless_chrome") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "09rm0h286cvri2a5cli2hlffjkjl01l8k7gz1ncwym87c7hq14dd") (f (quote (("fetch" "mdbook-pdf-headless_chrome/fetch"))))))
+
+(define-public crate-mdbook-pdf-0.1.8 (c (n "mdbook-pdf") (v "0.1.8") (d (list (d (n "env_logger") (r "^0") (d #t) (k 0)) (d (n "headless_chrome") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "mdbook") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)))) (h "15jycc63wynl5ya3mf7rvwrv5vc693hk1pxivsvd6p9k4s8n1dp5") (f (quote (("fetch" "headless_chrome/fetch"))))))
+

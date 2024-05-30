@@ -1,0 +1,14 @@
+(define-module (crates-io ca rg cargo-aws-lambda) #:use-module (crates-io))
+
+(define-public crate-cargo-aws-lambda-0.1.0 (c (n "cargo-aws-lambda") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_lambda") (r "^0.40.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)))) (h "0qn4j1x4idayyx5v7acqk0c293pivg258njfgv2ax031xildj2w5")))
+
+(define-public crate-cargo-aws-lambda-0.1.1 (c (n "cargo-aws-lambda") (v "0.1.1") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_lambda") (r "^0.40.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)))) (h "0xvf982zfiaj9p84nam93ghchxxwljkfr24bhg1fdv122dnqbrdj")))
+
+(define-public crate-cargo-aws-lambda-0.1.2 (c (n "cargo-aws-lambda") (v "0.1.2") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_lambda") (r "^0.40.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "1ikwid62i5ncdscxcvyv78hk0fm4ffp5l39gv6ib4is0fhsjb9dq")))
+
+(define-public crate-cargo-aws-lambda-0.1.3 (c (n "cargo-aws-lambda") (v "0.1.3") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.40.0") (d #t) (k 0)) (d (n "rusoto_lambda") (r "^0.40.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "1max98z75x1k6gy8hxhw1j6yf0nbyp73l3sdj8fffbpnvp9jz25s")))
+
+(define-public crate-cargo-aws-lambda-0.2.0 (c (n "cargo-aws-lambda") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_lambda") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_logs") (r "^0.42.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "0ib3psicbcgx9dbwlr9riq800hmf8yvl4490i2y42izywcg9l6pi")))
+
+(define-public crate-cargo-aws-lambda-0.3.0 (c (n "cargo-aws-lambda") (v "0.3.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_lambda") (r "^0.42.0") (d #t) (k 0)) (d (n "rusoto_logs") (r "^0.42.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)) (d (n "toml") (r "^0.5.3") (d #t) (k 0)))) (h "11dl126hj7xyp0nmfyk2jmrj1wczf9qs2k4qdq363smz8b4fqbi1")))
+

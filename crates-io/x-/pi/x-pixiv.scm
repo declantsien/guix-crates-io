@@ -1,0 +1,8 @@
+(define-module (crates-io x- pi x-pixiv) #:use-module (crates-io))
+
+(define-public crate-x-pixiv-0.1.0 (c (n "x-pixiv") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.19") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "x-pixiv-lib") (r "^0.1.0") (d #t) (k 0)))) (h "1znphm3r1vphqxwxaijdd6a7sjf70dbypq7frqbvcidlhgydqbi0")))
+
+(define-public crate-x-pixiv-0.1.1 (c (n "x-pixiv") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.19") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "x-pixiv-lib") (r "^0.1.1") (d #t) (k 0)))) (h "0d72arxrz6w04q21wkk7cvjir98y2wj92333jila093zjwzq31q5")))
+
+(define-public crate-x-pixiv-0.1.6 (c (n "x-pixiv") (v "0.1.6") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.25") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)) (d (n "tui") (r "^0.19") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (f (quote ("v4"))) (d #t) (k 0)) (d (n "x-pixiv-lib") (r "^0.1.2") (d #t) (k 0)))) (h "0vl1527i95vp01klscqqs18l6byv5dxah2cyh4b75psjc20dxsdm") (f (quote (("tui") ("default" "cli" "tui") ("cli"))))))
+

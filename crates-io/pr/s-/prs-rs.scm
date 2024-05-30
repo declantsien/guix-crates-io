@@ -1,0 +1,10 @@
+(define-module (crates-io pr s- prs-rs) #:use-module (crates-io))
+
+(define-public crate-prs-rs-0.1.0 (c (n "prs-rs") (v "0.1.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "csbindgen") (r "^1.9.0") (d #t) (k 1)) (d (n "more-asserts") (r "^0.3.1") (d #t) (k 2)) (d (n "pprof") (r "^0.13") (f (quote ("flamegraph" "criterion"))) (d #t) (t "cfg(unix)") (k 2)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 2)))) (h "14yl2dzbs6850kwgby8bx17s9z7nln1isbqbw7wzlq4rl9w4d360") (f (quote (("std") ("pgo") ("default" "std") ("c-exports"))))))
+
+(define-public crate-prs-rs-1.0.0 (c (n "prs-rs") (v "1.0.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "csbindgen") (r "^1.9.0") (d #t) (k 1)) (d (n "more-asserts") (r "^0.3.1") (d #t) (k 2)) (d (n "pprof") (r "^0.13") (f (quote ("flamegraph" "criterion"))) (d #t) (t "cfg(unix)") (k 2)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 2)))) (h "0ypvssf9kvwlinpq1bi0ki6qpz12bzlqhhi49zaa0qyqxqnzkqhl") (f (quote (("std") ("pgo") ("default" "std") ("c-exports"))))))
+
+(define-public crate-prs-rs-1.0.1 (c (n "prs-rs") (v "1.0.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "csbindgen") (r "^1.9.0") (d #t) (k 1)) (d (n "more-asserts") (r "^0.3.1") (d #t) (k 2)) (d (n "pprof") (r "^0.13") (f (quote ("flamegraph" "criterion"))) (d #t) (t "cfg(unix)") (k 2)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 2)))) (h "0syxlq8p0z60kha9jl9msvcrr231dqvqzsq6hq307r91s1pcih42") (f (quote (("std") ("pgo") ("default" "std") ("c-exports"))))))
+
+(define-public crate-prs-rs-1.0.2 (c (n "prs-rs") (v "1.0.2") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "csbindgen") (r "^1.9.0") (d #t) (k 1)) (d (n "more-asserts") (r "^0.3.1") (d #t) (k 2)) (d (n "pprof") (r "^0.13") (f (quote ("flamegraph" "criterion"))) (d #t) (t "cfg(unix)") (k 2)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 2)))) (h "1mbq25dsmvcbr48b58kwlzwz2239krly4ldb71hr6vqcrskl4dhr") (f (quote (("std") ("pgo") ("default" "std") ("c-exports"))))))
+

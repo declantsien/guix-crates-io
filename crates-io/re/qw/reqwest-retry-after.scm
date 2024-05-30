@@ -1,0 +1,8 @@
+(define-module (crates-io re qw reqwest-retry-after) #:use-module (crates-io))
+
+(define-public crate-reqwest-retry-after-0.1.0 (c (n "reqwest-retry-after") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.1") (d #t) (k 0)) (d (n "task-local-extensions") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0wg5bd3pqxv2spbxg487rzq84804gz3nkvrpg1l55dkl3mhlhs67")))
+
+(define-public crate-reqwest-retry-after-0.1.1 (c (n "reqwest-retry-after") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "httpmock") (r "^0.6") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.1") (d #t) (k 0)) (d (n "task-local-extensions") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0j1190k96mqn1pd14p31m4qa23lplvjhk3nm1gqpwwiiywldc3fq")))
+
+(define-public crate-reqwest-retry-after-0.1.2 (c (n "reqwest-retry-after") (v "0.1.2") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "httpmock") (r "^0.7.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.23") (d #t) (k 0)) (d (n "reqwest-middleware") (r "^0.2.4") (d #t) (k 0)) (d (n "task-local-extensions") (r "^0.1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1j3paaakll61hpq8v6pkw7jgmmf30603lk03i7rgv2yy1gpq6a9h")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io do ub double-ratchet-signal) #:use-module (crates-io))
+
+(define-public crate-double-ratchet-signal-0.1.3 (c (n "double-ratchet-signal") (v "0.1.3") (d (list (d (n "aes") (r "^0.6") (d #t) (k 0)) (d (n "block-modes") (r "^0.4") (d #t) (k 0)) (d (n "clear_on_drop") (r "^0.2") (d #t) (k 0)) (d (n "double-ratchet") (r "^0.1.0") (d #t) (k 0)) (d (n "double-ratchet-signal-cbc-aes256-pkcs7-compact") (r "^0.1.1") (d #t) (k 0)) (d (n "generic-array") (r "^0.12") (d #t) (k 0)) (d (n "hkdf") (r "^0.7") (d #t) (k 0)) (d (n "hmac") (r "^0.7") (d #t) (k 0)) (d (n "rand_core") (r "^0.4") (d #t) (k 0)) (d (n "rand_os") (r "^0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)) (d (n "subtle") (r "^2") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.5") (d #t) (k 0)))) (h "1flnw8f367lzj825snznbg6hiraxykx2zwscxkxmplkk33p610vm") (f (quote (("std" "double-ratchet-signal-cbc-aes256-pkcs7-compact/std") ("default" "std"))))))
+

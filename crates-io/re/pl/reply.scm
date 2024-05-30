@@ -1,0 +1,6 @@
+(define-module (crates-io re pl reply) #:use-module (crates-io))
+
+(define-public crate-reply-0.0.1-beta.1 (c (n "reply") (v "0.0.1-beta.1") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.0") (d #t) (k 0)) (d (n "duct") (r "^0.13.6") (d #t) (k 0)) (d (n "duct_sh") (r "^0.13.6") (d #t) (k 0)) (d (n "human-panic") (r "^1.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0xsrwk4nqhyqfld1ybrng39dw1wmclabf8d39py5jma4p4l2n69k")))
+
+(define-public crate-reply-0.0.1-beta.2 (c (n "reply") (v "0.0.1-beta.2") (d (list (d (n "anyhow") (r "^1.0.69") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.0") (d #t) (k 0)) (d (n "duct") (r "^0.13.6") (d #t) (k 0)) (d (n "duct_sh") (r "^0.13.6") (d #t) (k 0)) (d (n "human-panic") (r "^1.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0jmxwa6q86kkn5maxpx3slinysr3npxgw7fc43y576ss3w3jk7bd")))
+

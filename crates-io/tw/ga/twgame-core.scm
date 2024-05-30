@@ -1,0 +1,4 @@
+(define-module (crates-io tw ga twgame-core) #:use-module (crates-io))
+
+(define-public crate-twgame-core-0.1.0 (c (n "twgame-core") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "buffer") (r "^0.1.9") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-ddnet") (r "^0.1.0") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-gamenet-teeworlds-0-7") (r "^0.1.1") (d #t) (k 0)) (d (n "pre-rfc3243-libtw2-packer") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "teehistorian") (r "^0.9.0") (d #t) (k 0)) (d (n "twsnap") (r "^0.1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (d #t) (k 0)) (d (n "vek") (r "^0.16.1") (d #t) (k 0)) (d (n "warn") (r "^0.2.2") (d #t) (k 0)))) (h "1hrlaqy23n4dpm1ia54ch9f5l13fyshnmsd8j4chdqwwzfvs6pgn")))
+

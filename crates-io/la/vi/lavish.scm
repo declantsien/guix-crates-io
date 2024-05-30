@@ -1,0 +1,10 @@
+(define-module (crates-io la vi lavish) #:use-module (crates-io))
+
+(define-public crate-lavish-0.1.0 (c (n "lavish") (v "0.1.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "erased-serde") (r "^0.3.9") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.92") (d #t) (k 0)))) (h "0qvb7has5as74ay6z5sbfla1s4kkm3ji782kj8gsba3r3qvd7sis")))
+
+(define-public crate-lavish-0.2.0 (c (n "lavish") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "erased-serde") (r "^0.3.9") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.1") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.92") (d #t) (k 0)))) (h "0i3kw4gd59n1zzcv3r6xbiw32c1g8a5x8niv9hrrb64rhwpssgnj")))
+
+(define-public crate-lavish-0.3.0 (c (n "lavish") (v "0.3.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "erased-serde") (r "^0.3.9") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "rmp-serde") (r "^0.13.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.92") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.4") (d #t) (k 0)))) (h "0q2gsvi48brwsnyz9g8p1gfvzh35qnaf2yaa6n3ik6vcwkj31ayk")))
+
+(define-public crate-lavish-0.4.0 (c (n "lavish") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.6") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "netbuf") (r "^0.4.1") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.8") (d #t) (k 0)) (d (n "rmp") (r "^0.8.7") (d #t) (k 0)))) (h "0p26n3bmnhpa6fdmv9wz8b30lk94kh0rlgg59741fjfs61haz0qs")))
+

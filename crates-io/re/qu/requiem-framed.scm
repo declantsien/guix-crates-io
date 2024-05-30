@@ -1,0 +1,4 @@
+(define-module (crates-io re qu requiem-framed) #:use-module (crates-io))
+
+(define-public crate-requiem-framed-0.3.0-r1 (c (n "requiem-framed") (v "0.3.0-r1") (d (list (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^0.4.6") (d #t) (k 0)) (d (n "requiem-codec") (r "^0.2.0") (d #t) (k 0)) (d (n "requiem-connect") (r "^1.0.0") (f (quote ("openssl"))) (d #t) (k 2)) (d (n "requiem-http") (r "^1.0.1") (d #t) (k 0)) (d (n "requiem-router") (r "^0.2.1") (d #t) (k 0)) (d (n "requiem-rt") (r "^1.0.0") (d #t) (k 0)) (d (n "requiem-server") (r "^1.0.0") (d #t) (k 2)) (d (n "requiem-service") (r "^1.0.1") (d #t) (k 0)) (d (n "requiem-utils") (r "^1.0.3") (d #t) (k 2)))) (h "0blp2slkzb14dq37523x7jjcsvk3wva0wnvk6jzivhxca4m7bk5d")))
+

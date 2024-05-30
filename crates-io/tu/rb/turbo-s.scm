@@ -1,0 +1,4 @@
+(define-module (crates-io tu rb turbo-s) #:use-module (crates-io))
+
+(define-public crate-turbo-s-0.0.0 (c (n "turbo-s") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-rwlock") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.18") (f (quote ("compat"))) (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.22.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.4") (f (quote ("compat"))) (d #t) (k 0)) (d (n "ttl_cache") (r "^0.5.1") (d #t) (k 0)))) (h "0z9aq70n86an31ivqx83q1qy4dnyf2m8dj1jssl2b4i4ycb8pgvc")))
+

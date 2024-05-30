@@ -1,0 +1,4 @@
+(define-module (crates-io ge ma gemachain-entry) #:use-module (crates-io))
+
+(define-public crate-gemachain-entry-1.8.0 (c (n "gemachain-entry") (v "1.8.0") (d (list (d (n "dlopen") (r "^0.1.8") (d #t) (k 0)) (d (n "dlopen_derive") (r "^0.1.4") (d #t) (k 0)) (d (n "gemachain-logger") (r "=1.8.0") (d #t) (k 2)) (d (n "gemachain-measure") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-merkle-tree") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-metrics") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-perf") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-rayon-threadlimit") (r "=1.8.0") (d #t) (k 0)) (d (n "gemachain-sdk") (r "=1.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "matches") (r "^0.1.9") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)))) (h "1hlikhaay9gv1sq8w50p5hsygg3xvymg2qmim2yxpiqqfx6xn5cf")))
+

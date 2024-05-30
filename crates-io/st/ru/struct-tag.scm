@@ -1,0 +1,10 @@
+(define-module (crates-io st ru struct-tag) #:use-module (crates-io))
+
+(define-public crate-struct-tag-0.1.5 (c (n "struct-tag") (v "0.1.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "0iwrfalmlbvxxpp5n68g856m88h5klcn852kd9464hi27jalq65x") (f (quote (("default") ("address32" "mv-core-types/address32") ("address20" "mv-core-types/address20"))))))
+
+(define-public crate-struct-tag-0.1.6 (c (n "struct-tag") (v "0.1.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.1.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "1si0czbb2vbrpdif5zsvpgcdgbvsfi29kwyl4yw0ky93cwi3knn9") (f (quote (("default") ("address32" "mv-core-types/address32") ("address20" "mv-core-types/address20"))))))
+
+(define-public crate-struct-tag-0.2.0 (c (n "struct-tag") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "module-id") (r "^0.2.0") (d #t) (k 0)) (d (n "move-core-types") (r "^0.2.1") (d #t) (k 0) (p "mv-core-types")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "1bizy5kw70jcas7gjmaznsbn586114anb26xmamm9nrjz2cvqaj3") (f (quote (("default") ("address32" "move-core-types/address32" "module-id/address32") ("address20" "move-core-types/address20" "module-id/address20"))))))
+
+(define-public crate-struct-tag-0.2.2 (c (n "struct-tag") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "module-id") (r "^0.2.0") (d #t) (k 0)) (d (n "move-core-types") (r "^0.3.1") (d #t) (k 0) (p "mv-core-types")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "1rx9wi3li97cpm3r682q9ygw33ps19scppvbxxn04b3z4zncfv7d") (f (quote (("default") ("address32" "move-core-types/address32" "module-id/address32") ("address20" "move-core-types/address20" "module-id/address20"))))))
+

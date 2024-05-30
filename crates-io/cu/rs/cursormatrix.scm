@@ -1,0 +1,10 @@
+(define-module (crates-io cu rs cursormatrix) #:use-module (crates-io))
+
+(define-public crate-cursormatrix-0.1.0 (c (n "cursormatrix") (v "0.1.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "term") (r "^0.6") (d #t) (k 0)) (d (n "termios") (r "^0.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1r0f5zyvnw5vj7qq76zr08w3r080j4q7bvwf12ikkfa3hxy3n5d2")))
+
+(define-public crate-cursormatrix-0.2.0 (c (n "cursormatrix") (v "0.2.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "term") (r "^0.7") (d #t) (k 0)) (d (n "termios") (r "^0.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1mhlxk8i4gnkajmy7wbqqykz5g23ipk5wwgqgfxd09gga0xr7wyx")))
+
+(define-public crate-cursormatrix-0.3.0 (c (n "cursormatrix") (v "0.3.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "term") (r "^0.7") (d #t) (k 0)) (d (n "termios") (r "^0.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "04md59b2vcyyfmw5a45g428rys4ck02frsyblkvj3k7v63wq5rw3")))
+
+(define-public crate-cursormatrix-0.4.0 (c (n "cursormatrix") (v "0.4.0") (d (list (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "term") (r "^0.7") (d #t) (k 0)) (d (n "termios") (r "^0.3") (d #t) (k 0)) (d (n "unicode-normalization") (r "^0.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "0hfyj47v8ci7z4xhj765nw9g7va5lmj5np1bf3a8bgwngzc8mv2m")))
+

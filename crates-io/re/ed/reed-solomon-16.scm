@@ -1,0 +1,4 @@
+(define-module (crates-io re ed reed-solomon-16) #:use-module (crates-io))
+
+(define-public crate-reed-solomon-16-0.1.0 (c (n "reed-solomon-16") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.7.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "fixedbitset") (r "^0.4.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 2)) (d (n "readme-rustdocifier") (r "^0.1.0") (d #t) (k 1)) (d (n "reed-solomon-erasure") (r "^5.0.1") (f (quote ("simd-accel"))) (d #t) (k 2)) (d (n "reed-solomon-novelpoly") (r "^1.0.0") (d #t) (k 2)) (d (n "sha2") (r "^0.10.0") (d #t) (k 2)))) (h "0gd4q3sp1x9vwfgnyqfs9bbrwisk6i16dn0831ggc04qh5hqa1xb")))
+

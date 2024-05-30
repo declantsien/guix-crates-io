@@ -1,0 +1,6 @@
+(define-module (crates-io en gu engula-journal) #:use-module (crates-io))
+
+(define-public crate-engula-journal-0.2.0-alpha.0 (c (n "engula-journal") (v "0.2.0-alpha.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.13") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tonic") (r "^0.6") (d #t) (k 0)) (d (n "tonic-build") (r "^0.6") (d #t) (k 1)))) (h "1xy0ksm58s62z49cvxi2rgpc880gk55rilqrbi1c2gg95rzc00s5")))
+
+(define-public crate-engula-journal-0.2.0 (c (n "engula-journal") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.13") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("net"))) (d #t) (k 0)) (d (n "tonic") (r "^0.6") (d #t) (k 0)) (d (n "tonic-build") (r "^0.6") (d #t) (k 1)))) (h "1yvpikgbgc85h7wxsnl3yrkznx1sjhpyls2srsz26mbgmgihldng")))
+

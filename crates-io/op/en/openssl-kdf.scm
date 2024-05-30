@@ -1,0 +1,14 @@
+(define-module (crates-io op en openssl-kdf) #:use-module (crates-io))
+
+(define-public crate-openssl-kdf-0.1.0 (c (n "openssl-kdf") (v "0.1.0") (d (list (d (n "foreign-types") (r "^0.3.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)))) (h "090adprk1p1dk6z444cis6lc5b8dr98f0fxgfrip870xfvgz1qlv")))
+
+(define-public crate-openssl-kdf-0.2.0 (c (n "openssl-kdf") (v "0.2.0") (d (list (d (n "foreign-types") (r "^0.3.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1ssak8m82s3jwgrisx5fncb80ngvjkp5pp7a764m11a2j5b4x2p4") (f (quote (("force_custom") ("deny_custom") ("allow_custom"))))))
+
+(define-public crate-openssl-kdf-0.3.0 (c (n "openssl-kdf") (v "0.3.0") (d (list (d (n "foreign-types") (r "^0.3.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0rivh39dv26vcjafdkw3dj7mmqc54scs4hrcw8pvzhv3wigyb2jw") (f (quote (("force_custom") ("deny_custom") ("allow_custom"))))))
+
+(define-public crate-openssl-kdf-0.4.0 (c (n "openssl-kdf") (v "0.4.0") (d (list (d (n "foreign-types") (r "^0.3.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0yc0dhzmp2k8mwi9yb0n35r86pyrzkfvlyppmlzadqcn5ir0c8v2") (f (quote (("warn_custom") ("force_custom") ("deny_custom") ("allow_custom"))))))
+
+(define-public crate-openssl-kdf-0.4.1 (c (n "openssl-kdf") (v "0.4.1") (d (list (d (n "foreign-types") (r "^0.3.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "09rgq4kmvggh4csky7qx1gbgzhfhm5nsg9542san24svs2baj7rs") (f (quote (("warn_custom") ("force_custom") ("deny_custom") ("allow_custom"))))))
+
+(define-public crate-openssl-kdf-0.4.2 (c (n "openssl-kdf") (v "0.4.2") (d (list (d (n "foreign-types") (r "^0.3.1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1x61pfsji1phgf0z8wpbwnkjqmqgyxk03c1xakccc4fmvrs4pnpy") (f (quote (("warn_custom") ("force_custom") ("deny_custom") ("allow_custom"))))))
+

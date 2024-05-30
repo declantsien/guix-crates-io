@@ -1,0 +1,18 @@
+(define-module (crates-io tu gg tugger-licensing-net) #:use-module (crates-io))
+
+(define-public crate-tugger-licensing-net-0.1.0 (c (n "tugger-licensing-net") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.3") (d #t) (k 0)) (d (n "tugger-common") (r "^0.1.0-pre") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0cgjl53jbdvnah2nvxd1j8m5mz0y0m0mbjqvynpi3h0dfiixy0dx")))
+
+(define-public crate-tugger-licensing-net-0.2.0 (c (n "tugger-licensing-net") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.4") (d #t) (k 0)) (d (n "tugger-common") (r "^0.2.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.2.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0ymvpz4nykf63b9pz3z2vxgdsnfl4zsh3rv5hphwrr95khx3j779")))
+
+(define-public crate-tugger-licensing-net-0.3.0 (c (n "tugger-licensing-net") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.4") (d #t) (k 0)) (d (n "tugger-common") (r "^0.3.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.2.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0sh5hksfqaw1f08hrbfj6x6ysmlrd61wgarkcc8yycys37nny3ad")))
+
+(define-public crate-tugger-licensing-net-0.4.0 (c (n "tugger-licensing-net") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.4") (d #t) (k 0)) (d (n "tugger-common") (r "^0.4.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.3.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1ikr2hwm3fgzpw3yz2x75y56j2l7fy8a1wx2821dxindlwxqagq5")))
+
+(define-public crate-tugger-licensing-net-0.5.0 (c (n "tugger-licensing-net") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.4") (d #t) (k 0)) (d (n "tugger-common") (r "^0.4.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.4.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0bv7wldgr6njz685bwkai51fpj7sc76qh4sp75jrv3g7h7j6vgz9")))
+
+(define-public crate-tugger-licensing-net-0.6.0 (c (n "tugger-licensing-net") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.6") (d #t) (k 0)) (d (n "tugger-common") (r "^0.5.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.5.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0nfpx3mw8hvv9swfldfagdm11m0a54jfhpplg38w0fqjq3q52jln")))
+
+(define-public crate-tugger-licensing-net-0.7.0 (c (n "tugger-licensing-net") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.8") (d #t) (k 0)) (d (n "tugger-common") (r "^0.7.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.6.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1vnrcng80ps1q6lzrgq2il7v7v9rdpxbk6nz0lmnpx3qlfzwf02f")))
+
+(define-public crate-tugger-licensing-net-0.8.0 (c (n "tugger-licensing-net") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (k 0)) (d (n "spdx") (r "^0.8") (d #t) (k 0)) (d (n "tugger-common") (r "^0.8.0") (d #t) (k 2)) (d (n "tugger-licensing") (r "^0.6.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "14j97i9pbk96lwz8s2lnzbrrdkf8wrqmaq4wnl31v55y15jvm2lw")))
+

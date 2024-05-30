@@ -1,0 +1,6 @@
+(define-module (crates-io wu nd wundergraph_cli) #:use-module (crates-io))
+
+(define-public crate-wundergraph_cli-0.1.0 (c (n "wundergraph_cli") (v "0.1.0") (d (list (d (n "clap") (r "^2.27") (d #t) (k 0)) (d (n "diesel") (r "^1.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "insta") (r "^0.12") (d #t) (k 2)) (d (n "reqwest") (r "^0.9") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "17mpc7x6qf1isdk2ga587w8yn9ghn3mhvgc5450548g1d5z926md") (f (quote (("sqlite" "diesel/sqlite") ("postgres" "diesel/postgres") ("default" "postgres"))))))
+
+(define-public crate-wundergraph_cli-0.1.1 (c (n "wundergraph_cli") (v "0.1.1") (d (list (d (n "clap") (r "^2.27") (d #t) (k 0)) (d (n "diesel") (r "^1.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.15") (d #t) (k 2)) (d (n "insta") (r "^0.12") (d #t) (k 2)) (d (n "reqwest") (r "^0.9") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)))) (h "0xz68vp82rq3kdxa4sxs9yc1l468jzxhnhhw9c3nn3x7h4134ffq") (f (quote (("sqlite" "diesel/sqlite") ("postgres" "diesel/postgres") ("default" "postgres"))))))
+

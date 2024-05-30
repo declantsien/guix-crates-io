@@ -1,0 +1,6 @@
+(define-module (crates-io to rn torn) #:use-module (crates-io))
+
+(define-public crate-torn-0.1.0 (c (n "torn") (v "0.1.0") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "config") (r "^0.10") (f (quote ("toml"))) (k 0)) (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "humantime-serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "udev") (r "^0.4") (d #t) (k 0)))) (h "1vdsas2hrnc362lxqv9246b80wjv28xzi98y099096na4wvqdamx")))
+
+(define-public crate-torn-0.2.0 (c (n "torn") (v "0.2.0") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "config") (r "^0.11") (f (quote ("toml"))) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "humantime-serde") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "udev") (r "^0.6") (d #t) (k 0)))) (h "0yfyrn5a98ybbsyx5hllpscwnb9khg1rpnmbpm1rs0g8av41hp8j")))
+

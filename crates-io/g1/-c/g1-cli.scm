@@ -1,0 +1,4 @@
+(define-module (crates-io g1 -c g1-cli) #:use-module (crates-io))
+
+(define-public crate-g1-cli-0.1.0-alpha.3 (c (n "g1-cli") (v "0.1.0-alpha.3") (d (list (d (n "anyhow") (r "^1.0.25") (d #t) (k 0)) (d (n "bytes") (r "^0.5.2") (d #t) (k 0)) (d (n "directories") (r "^2.0.2") (d #t) (k 0)) (d (n "femme") (r "^1.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "g1-common") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "g1-sqlite-connection") (r "^0.1.0-alpha.3") (d #t) (k 0)) (d (n "linefeed") (r "^0.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "paw") (r "^1.0.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (f (quote ("paw"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2.4") (f (quote ("blocking" "rt-threaded" "sync"))) (k 0)))) (h "15a657i3i5lv0a0bjczk38zvkx0xnx10j6lympgvdn47vsj8295v")))
+

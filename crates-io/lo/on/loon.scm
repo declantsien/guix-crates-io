@@ -1,0 +1,18 @@
+(define-module (crates-io lo on loon) #:use-module (crates-io))
+
+(define-public crate-loon-0.1.0 (c (n "loon") (v "0.1.0") (h "12sbkna6kvb8bqm6dhv56xflr3bvri4k07cngs8hgpnjf6pkgzmb")))
+
+(define-public crate-loon-0.2.0 (c (n "loon") (v "0.2.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde-transcode") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "00akakw8g2q6jdwk131l07rl0rcipskmn3lhi7jzg0absbvx56dd")))
+
+(define-public crate-loon-0.2.1 (c (n "loon") (v "0.2.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde-transcode") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1vabi0rwfdi5wdh8rpvcq6vjdlgv3q4avp8fijd73c17rwizdl2a")))
+
+(define-public crate-loon-0.3.0 (c (n "loon") (v "0.3.0") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "14bp5d6qxg3r3q34ma801qbdihb18n7lxnkc50wwmjdzzijm5rjn") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+
+(define-public crate-loon-0.3.1 (c (n "loon") (v "0.3.1") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "0akxk2wmdahhrq6zm0lms13r31v6l391il11ylnyhf48jyalggvx") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+
+(define-public crate-loon-0.3.2 (c (n "loon") (v "0.3.2") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "144fvia4q1jag5jcr1gm9gmq2vf1mfr0zzdi37l2gfrkfp6b9spi") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+
+(define-public crate-loon-0.3.3 (c (n "loon") (v "0.3.3") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "0v975gg0jx12m14z1yr82q7xjx41qg7bi71ks11wvagjjmaaldjr") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+
+(define-public crate-loon-0.3.4 (c (n "loon") (v "0.3.4") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "strfmt") (r "^0.1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (o #t) (d #t) (k 0)))) (h "0zgbvj98n4as26wxmbbh083whv4gd6klqc8zl3pvkvznv8wcarwq") (f (quote (("yaml" "serde_yaml") ("default" "yaml"))))))
+

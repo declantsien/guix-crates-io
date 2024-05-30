@@ -1,0 +1,30 @@
+(define-module (crates-io to we tower-fallback) #:use-module (crates-io))
+
+(define-public crate-tower-fallback-0.0.0-placeholder.0 (c (n "tower-fallback") (v "0.0.0-placeholder.0") (h "086am2qnm3x9h8z1rman9hrvbj4n92m62lmprbihszfcllg8mlsi")))
+
+(define-public crate-tower-fallback-0.2.40 (c (n "tower-fallback") (v "0.2.40") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "1x1ilxgp1ymydr00psqmw84kzp1jvi2v0gqsjf9461j7k5h48yf9") (y #t)))
+
+(define-public crate-tower-fallback-0.2.41-beta.1 (c (n "tower-fallback") (v "0.2.41-beta.1") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0w6jv60ac4h53cg5jp4n096ynndl6v10j81q68vmgv2r5iig2ihc")))
+
+(define-public crate-tower-fallback-0.2.41-beta.2 (c (n "tower-fallback") (v "0.2.41-beta.2") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0qww9zzm75b3gbm4fj2g0xy42rlmpbpbbi46d87rlx9i4yzlcw1v")))
+
+(define-public crate-tower-fallback-0.2.41-beta.3 (c (n "tower-fallback") (v "0.2.41-beta.3") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "19yhacqb07qicjm51pvg2jskvra3a2db8c4102ys1c55s2p88agl")))
+
+(define-public crate-tower-fallback-0.2.41-beta.4 (c (n "tower-fallback") (v "0.2.41-beta.4") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "02jcibamz4z8vfn27f9qy6dxfb0pfgsak2hvpyv42bz0pby10wfi")))
+
+(define-public crate-tower-fallback-0.2.41-beta.5 (c (n "tower-fallback") (v "0.2.41-beta.5") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "193grgsfcw2g9xwli6f22qvqxj0rmyd4i02s81ypqakmxb8all5w")))
+
+(define-public crate-tower-fallback-0.2.41-beta.6 (c (n "tower-fallback") (v "0.2.41-beta.6") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)))) (h "038kggkinn9pvif25g8glwr9irrqnlvi3hxnkskfsi1mka21a6ax")))
+
+(define-public crate-tower-fallback-0.2.41-beta.7 (c (n "tower-fallback") (v "0.2.41-beta.7") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)))) (h "1hsn2918a3lxipyzcmkxvgvph75047fmz0lnp71yxgsmikcza9bx")))
+
+(define-public crate-tower-fallback-0.2.41-beta.8 (c (n "tower-fallback") (v "0.2.41-beta.8") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)))) (h "0dihlml4xgcsgdfgrhsrmm2g4mk9zrsw9zlas3vk7vl26cr5c4by")))
+
+(define-public crate-tower-fallback-0.2.41-beta.10 (c (n "tower-fallback") (v "0.2.41-beta.10") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)))) (h "1kacmipwdl7s3cwd7gn5i6aya6qnjg4q3wk8zhfda7j9vn1adxmh")))
+
+(define-public crate-tower-fallback-0.2.41-beta.11 (c (n "tower-fallback") (v "0.2.41-beta.11") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)) (d (n "zebra-test") (r "^1.0.0-beta.35") (d #t) (k 2)))) (h "1gjd5zw4q2bbkblv716210ddxqnv3sxdvw4b8lpyd13b71r2617c")))
+
+(define-public crate-tower-fallback-0.2.41-beta.12 (c (n "tower-fallback") (v "0.2.41-beta.12") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)) (d (n "zebra-test") (r "^1.0.0-beta.36") (d #t) (k 2)))) (h "1zrs5zh7ds1a66ml8ir2afm9g8dlbyk91lda7qqscrlrqv7a438c")))
+
+(define-public crate-tower-fallback-0.2.41-beta.13 (c (n "tower-fallback") (v "0.2.41-beta.13") (d (list (d (n "futures-core") (r "^0.3.28") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full" "tracing" "test-util"))) (d #t) (k 2)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tracing") (r "^0.1.39") (d #t) (k 0)) (d (n "zebra-test") (r "^1.0.0-beta.37") (d #t) (k 2)))) (h "1wa8q7bh5bchngr7hchk4y81r7lksha1nbw4lv53g17k9bdmr6iy")))
+

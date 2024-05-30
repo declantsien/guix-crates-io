@@ -1,0 +1,8 @@
+(define-module (crates-io re a- rea-rs-macros) #:use-module (crates-io))
+
+(define-public crate-rea-rs-macros-0.1.1 (c (n "rea-rs-macros") (v "0.1.1") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (o #t) (d #t) (k 1)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "rea-rs-low") (r "^0.1.0") (d #t) (k 0)) (d (n "rea-rs-low") (r "^0.1.0") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.2") (d #t) (k 2)) (d (n "vst") (r "^0.3") (d #t) (k 2)))) (h "0p218s6jly9328b67ql77z9nwsdfl801l2dp8a0ll64iyn3dqb6l")))
+
+(define-public crate-rea-rs-macros-0.1.2 (c (n "rea-rs-macros") (v "0.1.2") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (o #t) (d #t) (k 1)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "rea-rs-low") (r "^0.1.2") (d #t) (k 0)) (d (n "rea-rs-low") (r "^0.1.2") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.2") (d #t) (k 2)) (d (n "vst") (r "^0.3") (d #t) (k 2)))) (h "0rmbwl4bq9h3yi0f3ga3znpj2xdfrbiiisnirnbnf0q0kbmrb5mz")))
+
+(define-public crate-rea-rs-macros-0.1.31 (c (n "rea-rs-macros") (v "0.1.31") (d (list (d (n "darling") (r "^0.10.2") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "quote") (r "^1.0.2") (d #t) (k 0)) (d (n "rea-rs-low") (r "^0.1.3") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "version-sync") (r "^0.9.2") (d #t) (k 2)) (d (n "vst") (r "^0.3") (d #t) (k 2)))) (h "1vgk2ag516wm0yrr4iqci05p60mnwkxmqg3n7ckl08cc747z5kmb")))
+

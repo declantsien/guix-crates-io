@@ -1,0 +1,6 @@
+(define-module (crates-io gi ti gitice) #:use-module (crates-io))
+
+(define-public crate-gitice-2.0.3 (c (n "gitice") (v "2.0.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.3.24") (f (quote ("color" "deprecated" "derive"))) (d #t) (k 0)) (d (n "gix") (r "^0.52.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.186") (k 0)) (d (n "serde_derive") (r "^1.0.186") (d #t) (k 0)) (d (n "toml") (r "^0.7.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1wfkq3gqdryg8c2dc9fm7nr5cfwapswfpxxqbsnvjik2n89siapc")))
+
+(define-public crate-gitice-2.0.4 (c (n "gitice") (v "2.0.4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.7") (f (quote ("color" "deprecated" "derive"))) (d #t) (k 0)) (d (n "gix") (r "^0.55.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (k 0)) (d (n "serde_derive") (r "^1.0.190") (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0526y6qfls2lnyrbnskgcf09s5w4l8qrx5b20dxsbhrnvvf0fcz2")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io up st upstream) #:use-module (crates-io))
+
+(define-public crate-upstream-0.1.0 (c (n "upstream") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "block-id") (r "^0.2.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("server" "runtime" "backports" "http1" "stream"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.97") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "net" "macros"))) (d #t) (k 0)))) (h "0ld95g5mp6ss6yg2x6k178553qqacdglll71lhcahlfn4wijsm62")))
+

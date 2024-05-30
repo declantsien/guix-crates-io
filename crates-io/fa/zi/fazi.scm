@@ -1,0 +1,10 @@
+(define-module (crates-io fa zi fazi) #:use-module (crates-io))
+
+(define-public crate-fazi-0.1.0 (c (n "fazi") (v "0.1.0") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)))) (h "0cmv1vgfi6pc01l82mkbgzf92cg3a352pn0qci3386kr7n12zbr8") (f (quote (("main_entrypoint") ("default" "main_entrypoint"))))))
+
+(define-public crate-fazi-0.1.1 (c (n "fazi") (v "0.1.1") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)))) (h "1909kxvymrsr412038j9zgnvig2bhwxplci5k0z42bccli6imwgp") (f (quote (("main_entrypoint") ("default" "main_entrypoint"))))))
+
+(define-public crate-fazi-0.1.2 (c (n "fazi") (v "0.1.2") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)))) (h "0nb10mz8rhqp0fwwnlpi95bxxlm7sjw1z5fgllwl75zr1x9kh2sv") (f (quote (("main_entrypoint") ("default" "main_entrypoint"))))))
+
+(define-public crate-fazi-0.1.3 (c (n "fazi") (v "0.1.3") (d (list (d (n "clap") (r "^3.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3") (d #t) (k 0)))) (h "1x3cq1jdw74y1l6525g7ajk378j6ibfa9fin007zr26nsd9jfgpm") (f (quote (("main_entrypoint") ("default" "main_entrypoint"))))))
+

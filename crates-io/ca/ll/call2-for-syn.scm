@@ -1,0 +1,18 @@
+(define-module (crates-io ca ll call2-for-syn) #:use-module (crates-io))
+
+(define-public crate-call2-for-syn-1.0.0-preview-1 (c (n "call2-for-syn") (v "1.0.0-preview-1") (d (list (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)))) (h "1qdpdas35psyd6sc62xylms4qcm7dw4xphjnj3yvvg33v1kxb62z") (y #t)))
+
+(define-public crate-call2-for-syn-1.0.0-preview-2 (c (n "call2-for-syn") (v "1.0.0-preview-2") (d (list (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)))) (h "0hc8yimd7f8zf1r1bnzr0varx5fx9ksf0gcnzp48lsg08cpnjv5q") (y #t)))
+
+(define-public crate-call2-for-syn-1.0.0 (c (n "call2-for-syn") (v "1.0.0") (d (list (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)))) (h "0lbnyrdwa78vgza469cclh7b61x71yhk3xdxnxzqa6g5pis9m6pq") (y #t)))
+
+(define-public crate-call2-for-syn-1.0.1 (c (n "call2-for-syn") (v "1.0.1") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "13ngc0xcd17kajg5n66ginw0y4fw8zw17wc31sd8sm4x4bk7jry5") (y #t)))
+
+(define-public crate-call2-for-syn-1.0.2 (c (n "call2-for-syn") (v "1.0.2") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "rustversion") (r "^1.0.4") (d #t) (k 0)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0kxqmi3knxiz38s9dq209wbc3gb3g601faqa8yx33mn41knkkvdd")))
+
+(define-public crate-call2-for-syn-1.0.3 (c (n "call2-for-syn") (v "1.0.3") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "rustversion") (r "^1.0.4") (d #t) (k 0)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "1p3x9qi6xsk6n2xrqyw1wndq7dac0qz9fa32854kk2f31x9ismwc")))
+
+(define-public crate-call2-for-syn-2.0.3 (c (n "call2-for-syn") (v "2.0.3") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "rustversion") (r "^1.0.4") (d #t) (k 0)) (d (n "syn") (r "^1.0.14") (f (quote ("parsing"))) (k 0)) (d (n "unquote") (r "^0.0.2") (d #t) (k 2)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0cyl9xk257q0j6q2la7a2xbf6778l7vanzh30ld1kfipfs89iqdb")))
+
+(define-public crate-call2-for-syn-3.0.4 (c (n "call2-for-syn") (v "3.0.4") (d (list (d (n "cargo-husky") (r "^1.5.0") (d #t) (k 2)) (d (n "git_info") (r "^0.1.2") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.8") (d #t) (k 0)) (d (n "quote") (r "^1.0.2") (d #t) (k 2)) (d (n "syn") (r "^2.0.29") (f (quote ("parsing"))) (k 0)) (d (n "version-sync") (r "^0.9.3") (d #t) (k 2)) (d (n "wasm-bindgen-test") (r "^0.3.28") (d #t) (k 2)))) (h "1d6dzwmcfrz7qgf72960bwlf1w2s0bmznddkrc1k8bq0gvx4gr44")))
+

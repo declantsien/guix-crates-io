@@ -1,0 +1,14 @@
+(define-module (crates-io di ox dioxus-use-storage) #:use-module (crates-io))
+
+(define-public crate-dioxus-use-storage-0.1.0 (c (n "dioxus-use-storage") (v "0.1.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "Storage" "StorageEvent"))) (d #t) (k 0)))) (h "15mcizlv9dbps4qf546bd7wmm59fxqr1wgbs45ddqqmvilm6zxil") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-storage-0.2.0 (c (n "dioxus-use-storage") (v "0.2.0") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "Storage" "StorageEvent"))) (d #t) (k 0)))) (h "0syhlk20m84amajba97pvpp84z5zgmqimvdk8fvbfz0h054gxvmg") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-storage-0.2.1 (c (n "dioxus-use-storage") (v "0.2.1") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "Storage" "StorageEvent"))) (d #t) (k 0)))) (h "0cyfmd5dj5fvfdaddfvlrgi4vzqs11bri14cm7kr84hdfqckc24s") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-storage-0.2.2 (c (n "dioxus-use-storage") (v "0.2.2") (d (list (d (n "dioxus") (r "^0.1.8") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.79") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.56") (f (quote ("Window" "Storage" "StorageEvent"))) (d #t) (k 0)))) (h "1x35h9ccxn6ff2zvi5bpm7hslbc8rkipr16arky0zkrrilc2wp9h") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-storage-0.3.0 (c (n "dioxus-use-storage") (v "0.3.0") (d (list (d (n "dioxus") (r "^0.3.2") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.61") (f (quote ("Window" "Storage" "StorageEvent"))) (d #t) (k 0)))) (h "1x18qcyrlhj4c5249irk0mbl0nqjb95244qnd2iigl7xyzbv5sha") (f (quote (("default"))))))
+
+(define-public crate-dioxus-use-storage-0.3.1 (c (n "dioxus-use-storage") (v "0.3.1") (d (list (d (n "dioxus") (r "^0.3.2") (d #t) (k 0)) (d (n "gloo-events") (r "^0.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.61") (f (quote ("Window" "Storage" "StorageEvent"))) (d #t) (k 0)))) (h "09wp0j5rc7ljlffbvgb5dki8fkz0b4zdkcw6hgk2a28x8a66myh0") (f (quote (("default"))))))
+

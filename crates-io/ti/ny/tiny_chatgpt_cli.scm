@@ -1,0 +1,16 @@
+(define-module (crates-io ti ny tiny_chatgpt_cli) #:use-module (crates-io))
+
+(define-public crate-tiny_chatgpt_cli-1.0.0 (c (n "tiny_chatgpt_cli") (v "1.0.0") (d (list (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "0v4vi5w9zja3yp9zvrgb5klhahglrhkljmn4a3hv9p2y3maz1fhc")))
+
+(define-public crate-tiny_chatgpt_cli-1.1.0 (c (n "tiny_chatgpt_cli") (v "1.1.0") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "0a7x4h17w1h10ga23lgr4ivraw7rr3x9x0knn2ad2fhm5vw63l2h")))
+
+(define-public crate-tiny_chatgpt_cli-1.1.1 (c (n "tiny_chatgpt_cli") (v "1.1.1") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "1yi9s6cbxp8jvg5pcsgvhk3blc7k9xgfpbs9qzf97l7zglsgvbwl")))
+
+(define-public crate-tiny_chatgpt_cli-1.1.2 (c (n "tiny_chatgpt_cli") (v "1.1.2") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "0sdq54mg752p5qipfcii70kmjiwshhc27ggzb9140d71iijwff98")))
+
+(define-public crate-tiny_chatgpt_cli-1.1.3 (c (n "tiny_chatgpt_cli") (v "1.1.3") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "0s4yz2gvkvakm2kh4dxxmca08i1hnr2f19ma9lp34yhwask8ymm1")))
+
+(define-public crate-tiny_chatgpt_cli-2.0.0 (c (n "tiny_chatgpt_cli") (v "2.0.0") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "rustyline") (r "^13.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "0jbh7izwp1mx0s307hnlsskg34kb6qsy80w8f76cgwqz3wmw2j0m")))
+
+(define-public crate-tiny_chatgpt_cli-3.0.0 (c (n "tiny_chatgpt_cli") (v "3.0.0") (d (list (d (n "clap") (r "^4.1.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)) (d (n "os_info") (r "^3.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "rustyline") (r "^13.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)))) (h "1n2b45q4rrxqq16mkrwxsbxdcvgpswhhyycig7amvc26371hnz8w")))
+

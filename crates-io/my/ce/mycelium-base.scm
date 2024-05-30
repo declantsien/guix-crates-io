@@ -1,0 +1,22 @@
+(define-module (crates-io my ce mycelium-base) #:use-module (crates-io))
+
+(define-public crate-mycelium-base-4.8.3 (c (n "mycelium-base") (v "4.8.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "081apm3nc4k9zknhb90ih8zkxijpqlhbjkdsh46fh4a6r2djrijc")))
+
+(define-public crate-mycelium-base-4.9.0 (c (n "mycelium-base") (v "4.9.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "09fs0b247d6a22n5wcmrpqhzqdsv2cihnbl9nr9vi8s8zp6ffnmb")))
+
+(define-public crate-mycelium-base-4.15.0 (c (n "mycelium-base") (v "4.15.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "0wnzqdsjhxiwl01jig581b70hkwa9wj9aq66vfrdbnk0s8slbjma")))
+
+(define-public crate-mycelium-base-4.15.1 (c (n "mycelium-base") (v "4.15.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "0q3qz3k7sshn2898ynjsl1m0n0zy3m50m2icxg3drj1ip3jcmzzr")))
+
+(define-public crate-mycelium-base-4.15.3 (c (n "mycelium-base") (v "4.15.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "1h40svx6iz22hb9k8npdf4ysdi7i78lcr6cidqnbh49wp9zxh0p1")))
+
+(define-public crate-mycelium-base-4.16.0 (c (n "mycelium-base") (v "4.16.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "1kzzfvhraba9msnz6bl3cbz55c0xxcg2ay8a2v167qpddi4288cq")))
+
+(define-public crate-mycelium-base-5.0.0 (c (n "mycelium-base") (v "5.0.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "0gip1kvzra7wfs2gyflpkrjxd5pxfhi2zvhy5z1v8kaird7sdh56")))
+
+(define-public crate-mycelium-base-5.0.1 (c (n "mycelium-base") (v "5.0.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "0m6yq36x1b0kzllw4v74sqj83x1dfqsp0i38lwianyswlvfy52p6")))
+
+(define-public crate-mycelium-base-5.0.2 (c (n "mycelium-base") (v "5.0.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "0c5v84821d185wqfsaacwrnkbkzz5kxbli9g3jbp0wb11iipwx8b")))
+
+(define-public crate-mycelium-base-5.0.8 (c (n "mycelium-base") (v "5.0.8") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "utoipa") (r "^4") (f (quote ("actix_extras" "uuid" "chrono" "openapi_extensions"))) (d #t) (k 0)))) (h "0ywrphnwl07j4v1zdh1p396jshccjwxivf6jzwmc7im9kd4pvhds")))
+

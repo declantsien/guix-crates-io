@@ -1,0 +1,6 @@
+(define-module (crates-io sh oa shoalart) #:use-module (crates-io))
+
+(define-public crate-shoalart-0.0.99 (c (n "shoalart") (v "0.0.99") (d (list (d (n "ahash") (r "^0") (d #t) (k 0)) (d (n "crossterm") (r "^0") (d #t) (k 0)) (d (n "edge-detection") (r "^0") (d #t) (k 0)) (d (n "image") (r "^0") (d #t) (k 0)) (d (n "lz4_flex") (r "^0") (d #t) (k 0)) (d (n "rustdct") (r "^0") (d #t) (k 0)) (d (n "rusttype") (r "^0") (d #t) (k 0)) (d (n "scrap") (r "^0") (d #t) (k 0)) (d (n "structopt") (r "^0") (d #t) (k 0)) (d (n "unicode-width") (r "^0") (d #t) (k 0)))) (h "13kmwjczci7fn466pq9zwpr5zf0w49nl85sciz64y6m7pcgksk8j") (y #t)))
+
+(define-public crate-shoalart-0.0.100 (c (n "shoalart") (v "0.0.100") (d (list (d (n "ahash") (r "^0.7.6") (d #t) (k 0)) (d (n "crossterm") (r "^0.22.1") (d #t) (k 0)) (d (n "edge-detection") (r "^0.2.5") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.9.2") (d #t) (k 0)) (d (n "rustdct") (r "^0.6.0") (d #t) (k 0)) (d (n "rusttype") (r "^0.9.2") (d #t) (k 0)) (d (n "scrap") (r "^0.5.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.25") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.9") (d #t) (k 0)))) (h "19z732jy96mhi37h8nz1f4bxkrk3a789vwljyvis8dy8mff626am")))
+

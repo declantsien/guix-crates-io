@@ -1,0 +1,4 @@
+(define-module (crates-io bu ll bulletproofs-plus) #:use-module (crates-io))
+
+(define-public crate-bulletproofs-plus-0.1.0 (c (n "bulletproofs-plus") (v "0.1.0") (d (list (d (n "ciphersuite") (r "^0.3") (k 0)) (d (n "crypto-bigint") (r "^0.5") (k 0)) (d (n "ecip") (r "^0.1") (d #t) (k 0)) (d (n "multiexp") (r "^0.3") (f (quote ("batch"))) (k 0)) (d (n "pasta_curves") (r "^0.5") (f (quote ("bits" "alloc"))) (o #t) (k 0)) (d (n "pasta_curves") (r "^0.5") (f (quote ("bits" "alloc"))) (k 2)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_core") (r "^0.6") (f (quote ("getrandom"))) (d #t) (k 2)) (d (n "subtle") (r "^2.4") (k 0)) (d (n "transcript") (r "^0.3") (d #t) (k 0) (p "flexible-transcript")) (d (n "zeroize") (r "^1.5") (f (quote ("zeroize_derive"))) (k 0)))) (h "0rw6wghd33myhlm69wygv4371vzxg11sy01s0fsab583jwk0zf6s") (f (quote (("tests" "pasta_curves"))))))
+

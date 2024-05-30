@@ -1,0 +1,6 @@
+(define-module (crates-io co gn cognitive-exhibitor) #:use-module (crates-io))
+
+(define-public crate-cognitive-exhibitor-0.0.1 (c (n "cognitive-exhibitor") (v "0.0.1") (d (list (d (n "cognitive-frames") (r "^0.0.1") (d #t) (k 0)) (d (n "cognitive-frames") (r "^0.0.1") (f (quote ("testing"))) (d #t) (k 2)) (d (n "cognitive-outputs") (r "^0.0.2") (d #t) (k 0)) (d (n "cognitive-outputs") (r "^0.0.2") (f (quote ("testing"))) (d #t) (k 2)) (d (n "cognitive-qualia") (r "^0.0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "timber") (r "^0.0.1") (d #t) (k 0)))) (h "1saz5y9cj42zky7lqga3yikljdl8h3ckpra5mvhhhfad1fiha37y")))
+
+(define-public crate-cognitive-exhibitor-0.1.0 (c (n "cognitive-exhibitor") (v "0.1.0") (d (list (d (n "cognitive-frames") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-frames") (r "^0.1") (f (quote ("testing"))) (d #t) (k 2)) (d (n "cognitive-outputs") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-outputs") (r "^0.1") (f (quote ("testing"))) (d #t) (k 2)) (d (n "cognitive-qualia") (r "^0.1") (d #t) (k 0)) (d (n "cognitive-qualia") (r "^0.1") (f (quote ("testing"))) (d #t) (k 2)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "timber") (r "^0.1") (d #t) (k 0)))) (h "020220mjw67bvrdhwqqixif9wjxjqf4ps88ny78xxpz2yqcp7gv8")))
+

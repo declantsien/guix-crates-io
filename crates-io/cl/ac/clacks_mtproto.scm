@@ -1,0 +1,8 @@
+(define-module (crates-io cl ac clacks_mtproto) #:use-module (crates-io))
+
+(define-public crate-clacks_mtproto-0.0.3 (c (n "clacks_mtproto") (v "0.0.3") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clacks_tl_codegen") (r "^0.0.3") (d #t) (k 1)) (d (n "erased-serde") (r "^0.3") (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "extfmt") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "16xsg9aknacbdiaj5p6xxwjz1q0f521mf9vplflwlr6c82lvmisw")))
+
+(define-public crate-clacks_mtproto-0.0.4 (c (n "clacks_mtproto") (v "0.0.4") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clacks_tl_codegen") (r "^0.0.4") (d #t) (k 1)) (d (n "erased-serde") (r "^0.3") (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "extfmt") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "1bk7mq324d2bgmr0wqqfrlqn30myha5x2fcmqc9cm8i3h6xv4zpx")))
+
+(define-public crate-clacks_mtproto-0.0.5 (c (n "clacks_mtproto") (v "0.0.5") (d (list (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "clacks_tl_codegen") (r "^0.0.5") (d #t) (k 1)) (d (n "erased-serde") (r "^0.3") (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "extfmt") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "033vcy5mkh0m3nd73pyannpnf0kf29bysxk1d5w8y7hz1ik6h0qi")))
+

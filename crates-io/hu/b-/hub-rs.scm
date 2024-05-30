@@ -1,0 +1,10 @@
+(define-module (crates-io hu b- hub-rs) #:use-module (crates-io))
+
+(define-public crate-hub-rs-0.1.0 (c (n "hub-rs") (v "0.1.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("transport" "tls" "tls-roots" "tls-webpki-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "0fvngasicwvpcffdmim9nrlj7hix014zwnp684aygycqw9hzsiix")))
+
+(define-public crate-hub-rs-0.1.1 (c (n "hub-rs") (v "0.1.1") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("transport" "tls" "tls-roots" "tls-webpki-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "0dqw5invrl7x6bhxl4bb2cxdz9ps5mi72gpqzll7dff6jm37l8nf")))
+
+(define-public crate-hub-rs-0.1.2 (c (n "hub-rs") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("transport" "tls" "tls-roots" "tls-webpki-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "0b04qwi1nwww26q19yjxk4m3y9wx87da34fx87zjnxhzm6lr913z")))
+
+(define-public crate-hub-rs-0.1.3 (c (n "hub-rs") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.171") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("transport" "tls" "tls-roots" "tls-webpki-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "1y32qwb3w9xrqrmj6pdxicjgxv7pcqvm75ia0h7lwjydz25v453g")))
+

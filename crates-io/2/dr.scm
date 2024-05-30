@@ -1,0 +1,26 @@
+(define-module (crates-io #{2}# dr) #:use-module (crates-io))
+
+(define-public crate-dr-0.1.0 (c (n "dr") (v "0.1.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars") (r "^0.25") (d #t) (k 0)) (d (n "polars-io") (r "^0.25") (f (quote ("parquet"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.25") (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.1") (d #t) (k 0)))) (h "0ax6zbx8g0h7mrxa9aa1x7mmamhg0qf0jjfnxjd0lzc6844fyjqh") (y #t)))
+
+(define-public crate-dr-0.2.1 (c (n "dr") (v "0.2.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars") (r "^0.25") (d #t) (k 0)) (d (n "polars-io") (r "^0.25") (f (quote ("parquet"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.25") (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.1") (d #t) (k 0)))) (h "01ssjhxwxdkhg6skbv74g32h0yfnp0gyk9kdpshza2zcf4zs5jlg") (y #t)))
+
+(define-public crate-dr-0.3.0 (c (n "dr") (v "0.3.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars") (r "^0.25") (d #t) (k 0)) (d (n "polars-io") (r "^0.25") (f (quote ("parquet"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.25") (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.1") (d #t) (k 0)))) (h "18mwzyjgwcp1i1684q57l65mng5cyr0jirl8ckxschxigs1im23v") (y #t)))
+
+(define-public crate-dr-0.3.1 (c (n "dr") (v "0.3.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars") (r "^0.25") (d #t) (k 0)) (d (n "polars-io") (r "^0.25") (f (quote ("parquet"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.25") (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.1") (d #t) (k 0)))) (h "13x9qr09nm7q2wgph73pcrq826mgz8h79c74nif9sq6v2dhysifc") (y #t)))
+
+(define-public crate-dr-0.4.1 (c (n "dr") (v "0.4.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars") (r "^0.25") (f (quote ("sql" "lazy" "parquet" "decompress" "ipc" "ipc_streaming" "docs-selection"))) (d #t) (k 0)))) (h "0yrhiynmggf2216hxddv5lxya9jhxxqdj0yjjzp9g4rrvmx4g677") (y #t)))
+
+(define-public crate-dr-0.4.2 (c (n "dr") (v "0.4.2") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars") (r "^0.25") (f (quote ("sql" "lazy" "parquet" "decompress" "ipc" "ipc_streaming" "docs-selection"))) (d #t) (k 0)))) (h "14mqd5fqk5ppg8y5yabbqn4piy6dhmqx8bwiwqfbms5v641j4fja") (y #t)))
+
+(define-public crate-dr-0.5.2 (c (n "dr") (v "0.5.2") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars-core") (r "^0.26") (f (quote ("describe"))) (d #t) (k 0)) (d (n "polars-io") (r "^0.26") (f (quote ("ipc_streaming"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.26") (f (quote ("parquet" "ipc" "csv-file"))) (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.2") (d #t) (k 0)))) (h "17ck6297brk2dlyypg7fd1axrjsx55bq6vx38jw8kqqxllxh5zcr") (y #t)))
+
+(define-public crate-dr-0.5.3 (c (n "dr") (v "0.5.3") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars-core") (r "^0.26") (f (quote ("describe" "fmt"))) (d #t) (k 0)) (d (n "polars-io") (r "^0.26") (f (quote ("ipc_streaming"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.26") (f (quote ("parquet" "ipc" "csv-file"))) (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.2") (d #t) (k 0)))) (h "15wxq2dwc4d8j85qy5062pbq07cl3riy308k9g2q28vrrsg3cxfn") (y #t)))
+
+(define-public crate-dr-0.5.4 (c (n "dr") (v "0.5.4") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars-core") (r "^0.26") (f (quote ("describe" "fmt"))) (d #t) (k 0)) (d (n "polars-io") (r "^0.26") (f (quote ("ipc_streaming"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.26") (f (quote ("parquet" "ipc" "csv-file"))) (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.2") (d #t) (k 0)))) (h "10nsqjs2sia2a2njblx5ygdl21n4kibf9a4l3cxc8y8dwss09rw2") (y #t)))
+
+(define-public crate-dr-0.6.0 (c (n "dr") (v "0.6.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars-core") (r "^0.26") (f (quote ("describe" "fmt"))) (d #t) (k 0)) (d (n "polars-io") (r "^0.26") (f (quote ("ipc_streaming"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.26") (f (quote ("parquet" "ipc" "csv-file"))) (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.2") (d #t) (k 0)) (d (n "sea-query") (r "^0.28") (d #t) (k 0)))) (h "0lzbjaxyqn55lgfc2w41l8rppld8yrh01c5r6c3yk1cf5wd596v6") (y #t)))
+
+(define-public crate-dr-0.6.1 (c (n "dr") (v "0.6.1") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars-core") (r "^0.26") (f (quote ("describe" "fmt"))) (d #t) (k 0)) (d (n "polars-io") (r "^0.26") (f (quote ("ipc_streaming"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.26") (f (quote ("parquet" "ipc" "csv-file"))) (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.2") (d #t) (k 0)) (d (n "sea-query") (r "^0.28") (d #t) (k 0)))) (h "0g556w44yv297z7al32g4f51rw6d9ymcnf9pjq7hg4fad5pq4ldn") (y #t)))
+
+(define-public crate-dr-0.7.0 (c (n "dr") (v "0.7.0") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "polars-core") (r "^0.27") (f (quote ("describe" "fmt"))) (d #t) (k 0)) (d (n "polars-io") (r "^0.27") (f (quote ("ipc_streaming"))) (d #t) (k 0)) (d (n "polars-lazy") (r "^0.27") (f (quote ("parquet" "ipc" "csv-file"))) (d #t) (k 0)) (d (n "polars-sql") (r "^0.2.3") (d #t) (k 0)) (d (n "sea-query") (r "^0.28") (d #t) (k 0)))) (h "15ikzllpkp6f3pykwlqzacmv54i0jgmyjdyycl4k3qsda1x6azjb")))
+

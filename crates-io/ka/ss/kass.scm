@@ -1,0 +1,4 @@
+(define-module (crates-io ka ss kass) #:use-module (crates-io))
+
+(define-public crate-kass-0.1.0 (c (n "kass") (v "0.1.0") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "bigdecimal") (r "^0.1") (d #t) (k 0)) (d (n "cdrs") (r "^2.2.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "colored_json") (r "^2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "1j9gj3vx8cmbgqkz20dn3br4v58cl5hx36phxbmdi9621yhrlxi0")))
+

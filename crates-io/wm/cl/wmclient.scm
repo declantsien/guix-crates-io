@@ -1,0 +1,6 @@
+(define-module (crates-io wm cl wmclient) #:use-module (crates-io))
+
+(define-public crate-wmclient-0.1.0 (c (n "wmclient") (v "0.1.0") (d (list (d (n "hyper") (r "^0.14.13") (f (quote ("full"))) (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1g0m64mvaag08d8djsck79zrr355by0ji5vw653xjxshshqbiv05")))
+
+(define-public crate-wmclient-0.1.1 (c (n "wmclient") (v "0.1.1") (d (list (d (n "hyper") (r "^0.14.13") (f (quote ("full"))) (d #t) (k 0)) (d (n "lru") (r "^0.7.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0njhyi8q3yxpfdiq7f9qn03f1zcljv395w2qjfxmai0468frvqna")))
+

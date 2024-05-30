@@ -1,0 +1,8 @@
+(define-module (crates-io wa sm wasmer-inline-c) #:use-module (crates-io))
+
+(define-public crate-wasmer-inline-c-0.1.0 (c (n "wasmer-inline-c") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "inline-c-macro") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 0)) (d (n "regex") (r "^1.6") (d #t) (k 0)) (d (n "rustc_version") (r "^0.3") (d #t) (k 1)) (d (n "target-lexicon") (r "^0.11") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "042jaihd40dsb8ad6b98gyp4vn7llji1n8sjck0067gmlwnh1ig4")))
+
+(define-public crate-wasmer-inline-c-0.1.1 (c (n "wasmer-inline-c") (v "0.1.1") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 0)) (d (n "regex") (r "^1.6") (d #t) (k 0)) (d (n "rustc_version") (r "^0.3") (d #t) (k 1)) (d (n "target-lexicon") (r "^0.11") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)) (d (n "wasmer-inline-c-macro") (r "^0.1") (d #t) (k 0)))) (h "06m955ynywdss03hb5hd6hl722z7gwwypljyiqrhbp29vscmqh72")))
+
+(define-public crate-wasmer-inline-c-0.1.2 (c (n "wasmer-inline-c") (v "0.1.2") (d (list (d (n "assert_cmd") (r "^1.0") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 0)) (d (n "regex") (r "^1.6") (d #t) (k 0)) (d (n "rustc_version") (r "^0.3") (d #t) (k 1)) (d (n "target-lexicon") (r "^0.11") (d #t) (k 0)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)) (d (n "wasmer-inline-c-macro") (r "^0.1") (d #t) (k 0)))) (h "0y3pn152hh7ny4kqddb96psjp3vlc2aayw83wqpfpkk36cm7lkkw")))
+

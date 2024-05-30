@@ -1,0 +1,12 @@
+(define-module (crates-io me mo memorydb) #:use-module (crates-io))
+
+(define-public crate-memorydb-0.1.0 (c (n "memorydb") (v "0.1.0") (d (list (d (n "bigint") (r "^4.0") (d #t) (k 0)) (d (n "elastic-array") (r "^0.9") (d #t) (k 0)) (d (n "ethcore-bigint") (r "^0.2") (f (quote ("heapsizeof"))) (d #t) (k 0)) (d (n "hashdb") (r "^0.1.0") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (d #t) (k 0)) (d (n "keccak-hash") (r "^0.1.0") (d #t) (k 0)) (d (n "rlp") (r "^0.2.0") (d #t) (k 0)))) (h "0ys3b8gs7xj4875r24bymy5d6bv27qihk01adf4402iq1j2z66gp")))
+
+(define-public crate-memorydb-0.1.1 (c (n "memorydb") (v "0.1.1") (d (list (d (n "bigint") (r "^4.0") (d #t) (k 0)) (d (n "elastic-array") (r "^0.9") (d #t) (k 0)) (d (n "ethcore-bigint") (r "^0.2") (f (quote ("heapsizeof"))) (d #t) (k 0)) (d (n "hashdb") (r "^0.1.1") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (d #t) (k 0)) (d (n "keccak-hash") (r "^0.1.0") (d #t) (k 0)) (d (n "rlp") (r "^0.2.1") (d #t) (k 0)))) (h "1vlkqzcwmxgk5sjgcyr65llr4g4f5mkd6sxwds9n9iqhbr67wfq1")))
+
+(define-public crate-memorydb-0.2.1 (c (n "memorydb") (v "0.2.1") (d (list (d (n "elastic-array") (r "^0.10") (d #t) (k 0)) (d (n "ethereum-types") (r "^0.4") (d #t) (k 2)) (d (n "hashdb") (r "^0.2") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (d #t) (k 0)) (d (n "keccak-hash") (r "^0.1") (d #t) (k 2)) (d (n "keccak-hasher") (r "^0.1") (d #t) (k 2)) (d (n "plain_hasher") (r "^0.2") (k 0)) (d (n "rlp") (r "^0.2") (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 2)))) (h "0mksidgayflcv2p1979kz4xp151ziasx5l6b1qij27nm98q96b7p")))
+
+(define-public crate-memorydb-0.3.0-beta.0 (c (n "memorydb") (v "0.3.0-beta.0") (d (list (d (n "ethereum-types") (r "^0.4") (d #t) (k 2)) (d (n "hashdb") (r "^0.3.0-beta") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (d #t) (k 0)) (d (n "keccak-hash") (r "^0.1") (d #t) (k 2)) (d (n "keccak-hasher") (r "^0.1") (d #t) (k 2)) (d (n "plain_hasher") (r "^0.2") (k 0)) (d (n "rlp") (r "^0.3.0-beta") (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 2)))) (h "1k3k5vnfj5jx33vamrhrb7whgnalwisa7qjsssl4fx2vq529f0ah")))
+
+(define-public crate-memorydb-0.3.0 (c (n "memorydb") (v "0.3.0") (d (list (d (n "ethereum-types") (r "^0.4") (d #t) (k 2)) (d (n "hashdb") (r "^0.3.0") (d #t) (k 0)) (d (n "heapsize") (r "^0.4") (d #t) (k 0)) (d (n "keccak-hash") (r "^0.1") (d #t) (k 2)) (d (n "keccak-hasher") (r "^0.1") (d #t) (k 2)) (d (n "plain_hasher") (r "^0.2") (k 0)) (d (n "rlp") (r "^0.3.0") (k 0)) (d (n "tiny-keccak") (r "^1.4.2") (d #t) (k 2)))) (h "03vq51lb474h8f4hhxss11pxx9kna80hjjrwra5ibllhkynznhz1")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pi _c pi_crypto) #:use-module (crates-io))
+
+(define-public crate-pi_crypto-0.1.0 (c (n "pi_crypto") (v "0.1.0") (d (list (d (n "base64") (r "^0.12.0") (d #t) (k 2)) (d (n "hex") (r "^0.3.2") (d #t) (k 2)) (d (n "jsonwebtoken") (r "^7") (d #t) (k 0)) (d (n "libc") (r "^0.2.146") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.6") (d #t) (k 0)) (d (n "pi_hash_value") (r "^0.1") (d #t) (k 0)) (d (n "ring") (r "^0.16") (d #t) (k 0)) (d (n "rsa") (r "^0.6.1") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple_asn1") (r "^0.4") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "untrusted") (r "^0.7") (d #t) (k 0)))) (h "1k0z4l9h0alma6zhdya9v6jf2rsdl7caw4lwqkz5vnra30ybi09q") (f (quote (("bls"))))))
+

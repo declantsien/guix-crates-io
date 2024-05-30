@@ -1,0 +1,34 @@
+(define-module (crates-io mu ni munin-plugin) #:use-module (crates-io))
+
+(define-public crate-munin-plugin-0.1.0 (c (n "munin-plugin") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)))) (h "13bypira8n0vhw2zyhdq3fxvz37hx4fwg80w0pma742ncxjnrlv2")))
+
+(define-public crate-munin-plugin-0.1.1 (c (n "munin-plugin") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)))) (h "1msvxzyf9frgmzw6sfwmx21jn5zlc60c7wzcnlknbg453pqzd27q")))
+
+(define-public crate-munin-plugin-0.1.2 (c (n "munin-plugin") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)))) (h "19syk7p9ahslwi2jhgf3qkmfg9rma942ib7vbh2003brs8qxh4cj")))
+
+(define-public crate-munin-plugin-0.1.3 (c (n "munin-plugin") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)))) (h "1nam7fabz00460rgmvi34zr13w0hhr9w0lcdkpz24r9nynn3r4d1")))
+
+(define-public crate-munin-plugin-0.1.4 (c (n "munin-plugin") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)))) (h "0zrh46q7br44bgyqxp92is2qijl6xir4ydvb3bn9kicws4hmpcic")))
+
+(define-public crate-munin-plugin-0.1.5 (c (n "munin-plugin") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)))) (h "0n24rizxgm5cia71716hi4rxpd728fkhw4wj5gs00n5ab62xpfs6")))
+
+(define-public crate-munin-plugin-0.1.6 (c (n "munin-plugin") (v "0.1.6") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1h0f0wacw27w0bwhap7ll8wgzxw54v1cqlfi4b8xqmpl95xwiqx4")))
+
+(define-public crate-munin-plugin-0.1.7 (c (n "munin-plugin") (v "0.1.7") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "0a6hi6w808wl9b0zmzs38xa76n8nz28sic7zxm8gds74dbdrr7jv")))
+
+(define-public crate-munin-plugin-0.1.8 (c (n "munin-plugin") (v "0.1.8") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "107w5kvqhv4g0b4p483pv4vkqwflxqx7720zl8k31lqv5rckqc6s")))
+
+(define-public crate-munin-plugin-0.1.9 (c (n "munin-plugin") (v "0.1.9") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1r921ba6g64figspkp4y8m4davp3m9m0ys6zd9kqpg5zspkf1g91")))
+
+(define-public crate-munin-plugin-0.1.10 (c (n "munin-plugin") (v "0.1.10") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fastrand") (r "^1.7.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "08qw2kzbazk4gmfk49wd7zdnv05wmri3yv2gbaijfpzbpy4q6cni")))
+
+(define-public crate-munin-plugin-0.1.11 (c (n "munin-plugin") (v "0.1.11") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "fastrand") (r "^1.7.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "04a2ypsna8zhrll2lpwd93rf6c00qjpbgy3p3k22l6r8y4cw9qzp")))
+
+(define-public crate-munin-plugin-0.1.12 (c (n "munin-plugin") (v "0.1.12") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "fastrand") (r "^1.7.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1db60bx6qlvl6551x4rl1nvgviqvmq152nq9yp2bsylmicnyc1hj")))
+
+(define-public crate-munin-plugin-0.1.13 (c (n "munin-plugin") (v "0.1.13") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "fastrand") (r "^1.7.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1ci0lmalxd4w45hxrihb3djcfzf9jws7fizswd1cx72n9dv7x3n7")))
+
+(define-public crate-munin-plugin-0.1.14 (c (n "munin-plugin") (v "0.1.14") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fastrand") (r "^1.7.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "0qf4yz95n0lmy001g9w4z403y2cqnvf5k730a5b9wzr11nar4aap")))
+
+(define-public crate-munin-plugin-0.2.0 (c (n "munin-plugin") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "daemonize") (r "^0.4.1") (d #t) (k 0)) (d (n "fastrand") (r "^1.7.0") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "procfs") (r "^0.12.0") (d #t) (k 2)) (d (n "spin_sleep") (r "^1.1.1") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "10hlm62r8w13kkwlvh4zgpjbcgla9xsdic7z7lp96db64brj6xr9")))
+

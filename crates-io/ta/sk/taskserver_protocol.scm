@@ -1,0 +1,6 @@
+(define-module (crates-io ta sk taskserver_protocol) #:use-module (crates-io))
+
+(define-public crate-taskserver_protocol-0.1.0 (c (n "taskserver_protocol") (v "0.1.0") (d (list (d (n "bytes") (r ">= 0.3, < 0.6") (d #t) (k 0)) (d (n "chrono") (r ">= 0.4, < 0.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r ">= 0.9.0, < 0.10") (d #t) (k 0)) (d (n "serde") (r ">= 1, < 2") (d #t) (k 0)) (d (n "serde") (r ">= 1, < 2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r ">= 1, < 2") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r ">= 0.1, < 0.3") (f (quote ("io-util"))) (d #t) (k 0)))) (h "09a0zrndj08wxxzwhap0xckb8bx9w36j9x6d7m9q9bdknbdrzv33")))
+
+(define-public crate-taskserver_protocol-0.1.1 (c (n "taskserver_protocol") (v "0.1.1") (d (list (d (n "bytes") (r ">= 0.3, < 0.6") (d #t) (k 0)) (d (n "chrono") (r ">= 0.4, < 0.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "itertools") (r ">= 0.9.0, < 0.10") (d #t) (k 0)) (d (n "serde") (r ">= 1, < 2") (d #t) (k 0)) (d (n "serde") (r ">= 1, < 2") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r ">= 1, < 2") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "tokio") (r ">= 0.1, < 0.3") (f (quote ("io-util"))) (d #t) (k 0)))) (h "0gcqd61qgn7py2bxcgdmmwa62vz1r8mvbdia2b9kgncg5rgx0x20")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io no rr norris) #:use-module (crates-io))
+
+(define-public crate-norris-0.1.0 (c (n "norris") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0v37rml5vf2ibnhnkjnw1wqnpqpdabhfq823cy8i7xsr3xd6a64p")))
+
+(define-public crate-norris-0.1.1 (c (n "norris") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1dcsh4d1i0lzhq1di201lx5znxln8zzys802lqml3y3lsh2vcbcs")))
+
+(define-public crate-norris-0.1.2 (c (n "norris") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1hfysvwngqvvk2wh6dg4s4cradvr97kg8glf7vj2wvy2w5p6paqh")))
+
+(define-public crate-norris-0.1.3 (c (n "norris") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "009v7k5jxpprlfjybk5qqf9d8jbdi7a9i0mfglrvalzvfrv8p7hp")))
+

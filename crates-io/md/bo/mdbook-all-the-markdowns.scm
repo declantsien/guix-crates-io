@@ -1,0 +1,6 @@
+(define-module (crates-io md bo mdbook-all-the-markdowns) #:use-module (crates-io))
+
+(define-public crate-mdbook-all-the-markdowns-0.2.0 (c (n "mdbook-all-the-markdowns") (v "0.2.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.13") (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0wssbvg1fq6nph7zl45kjgz0qq88fam81546cz26gyp6mym2zfwr")))
+
+(define-public crate-mdbook-all-the-markdowns-0.3.0 (c (n "mdbook-all-the-markdowns") (v "0.3.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.13") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1wkb2d1vi9rspkvfxxv7jv513hi899sfzi3mrhxjb7fc9zqby6kx")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ya -r ya-runtime-wasi) #:use-module (crates-io))
+
+(define-public crate-ya-runtime-wasi-0.2.1 (c (n "ya-runtime-wasi") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "anyhow") (r "^1") (d #t) (k 1)) (d (n "env_logger") (r "^0.6") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)) (d (n "wasi-common") (r "^0.18") (d #t) (k 0)) (d (n "wasmtime") (r "^0.18") (d #t) (k 0)) (d (n "wasmtime-wasi") (r "^0.18") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 1)))) (h "15vhxkhl53552xhs30l81zclvvr5dy0j750ngyxmpgcb1wvjlpdx") (f (quote (("integration-tests"))))))
+

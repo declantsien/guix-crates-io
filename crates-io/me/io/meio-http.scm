@@ -1,0 +1,4 @@
+(define-module (crates-io me io meio-http) #:use-module (crates-io))
+
+(define-public crate-meio-http-0.41.0 (c (n "meio-http") (v "0.41.0") (d (list (d (n "anyhow") (r "^1.0.33") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "async-tungstenite") (r "^0.9.3") (f (quote ("tokio-runtime"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.11") (d #t) (k 0)) (d (n "futures") (r "^0.3.6") (d #t) (k 0)) (d (n "hyper") (r "^0.13.9") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "meio") (r "^0.41.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 0)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (d #t) (k 0)) (d (n "tungstenite") (r "^0.11.1") (d #t) (k 0)) (d (n "warp") (r "^0.2.5") (d #t) (k 0)))) (h "0mpjcgmrr9591zjahc3lkpk0d4qfa7mivbdjnlw0y9k04cpw578b")))
+

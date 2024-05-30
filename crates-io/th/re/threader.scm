@@ -1,0 +1,10 @@
+(define-module (crates-io th re threader) #:use-module (crates-io))
+
+(define-public crate-threader-0.0.1 (c (n "threader") (v "0.0.1") (d (list (d (n "crossbeam") (r "^0.7.2") (d #t) (k 0)) (d (n "flame") (r "^0.2.2") (d #t) (k 2)) (d (n "futures-preview") (r "^0.3.0-alpha.19") (d #t) (k 0)) (d (n "iovec") (r "^0.1.2") (d #t) (k 0)) (d (n "lock_api") (r "^0.3.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)))) (h "0qqjlknvs2adcs7scpisqmfpgdg230ydwd01xz8r99m3f498q5dw")))
+
+(define-public crate-threader-0.0.2 (c (n "threader") (v "0.0.2") (d (list (d (n "crossbeam") (r "^0.7.2") (d #t) (k 0)) (d (n "flame") (r "^0.2.2") (d #t) (k 2)) (d (n "futures-preview") (r "^0.3.0-alpha.19") (d #t) (k 0)) (d (n "iovec") (r "^0.1.2") (d #t) (k 0)) (d (n "lock_api") (r "^0.3.1") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)))) (h "17rldqv4wzhqa0yq9dbr6jb3wk8dly5mwri5icvm10r90zc3v5ak") (y #t)))
+
+(define-public crate-threader-0.0.3 (c (n "threader") (v "0.0.3") (d (list (d (n "crossbeam") (r "^0.7.2") (d #t) (k 0)) (d (n "flame") (r "^0.2.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)))) (h "0iqfmklkb5fdj577whmk92nznpvl6ss4frblv8bc0c0gkd9xnhw5")))
+
+(define-public crate-threader-0.0.4 (c (n "threader") (v "0.0.4") (d (list (d (n "crossbeam") (r "^0.7.2") (d #t) (k 0)) (d (n "flame") (r "^0.2.2") (d #t) (k 2)) (d (n "futures") (r "^0.3.0") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9.0") (d #t) (k 0)))) (h "0pbdfcd0sb220glm15s93w8sjqclpmp0fhdlabz19vxb6jy1njb9")))
+

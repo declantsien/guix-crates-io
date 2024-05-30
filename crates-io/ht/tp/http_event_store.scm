@@ -1,0 +1,6 @@
+(define-module (crates-io ht tp http_event_store) #:use-module (crates-io))
+
+(define-public crate-http_event_store-0.1.0 (c (n "http_event_store") (v "0.1.0") (d (list (d (n "chrono") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hyper") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.8") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "serde_macros") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.3") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "18kvfwdz2yly5p4c836x9rs93zqlpcixps431jvx4p7x0k3gy465") (f (quote (("unstable" "serde_macros") ("default" "serde_codegen"))))))
+
+(define-public crate-http_event_store-0.2.0 (c (n "http_event_store") (v "0.2.0") (d (list (d (n "chrono") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hyper") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.8") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "serde_macros") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "uuid") (r "^0.3") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1y93wc3kkzcmqng2my07gg8vzrjnlcgm6k3x6jns23nk9wyng8n7") (f (quote (("unstable" "serde_macros") ("default" "serde_codegen"))))))
+

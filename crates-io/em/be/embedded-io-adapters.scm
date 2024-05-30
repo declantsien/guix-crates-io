@@ -1,0 +1,10 @@
+(define-module (crates-io em be embedded-io-adapters) #:use-module (crates-io))
+
+(define-public crate-embedded-io-adapters-0.0.0 (c (n "embedded-io-adapters") (v "0.0.0") (h "0vrms732f8rxhgqvxl78zb10nxp46hkrwmw4xmvgd882fgw7b5m2")))
+
+(define-public crate-embedded-io-adapters-0.5.0 (c (n "embedded-io-adapters") (v "0.5.0") (d (list (d (n "embedded-io") (r "^0.5") (d #t) (k 0)) (d (n "embedded-io-async") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("std"))) (o #t) (k 0)) (d (n "tokio") (r "^1") (o #t) (k 0)))) (h "18fv5r8shbw3dnv90xrihjn8s6vjn8zjwy1612b9xr563hmz92ww") (f (quote (("std" "embedded-io/std")))) (s 2) (e (quote (("tokio-1" "std" "dep:tokio" "dep:embedded-io-async" "embedded-io-async?/std") ("futures-03" "std" "dep:futures" "dep:embedded-io-async" "embedded-io-async?/std"))))))
+
+(define-public crate-embedded-io-adapters-0.6.0 (c (n "embedded-io-adapters") (v "0.6.0") (d (list (d (n "embedded-io") (r "^0.6") (d #t) (k 0)) (d (n "embedded-io-async") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("std"))) (o #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (o #t) (k 0)))) (h "132sfzhz9m9gm8zjf94knhqz49ian7hcmcrsacmq3bhidb799apm") (f (quote (("std" "embedded-io/std")))) (s 2) (e (quote (("tokio-1" "std" "dep:tokio" "dep:embedded-io-async" "embedded-io-async?/std") ("futures-03" "std" "dep:futures" "dep:embedded-io-async" "embedded-io-async?/std"))))))
+
+(define-public crate-embedded-io-adapters-0.6.1 (c (n "embedded-io-adapters") (v "0.6.1") (d (list (d (n "embedded-io") (r "^0.6") (d #t) (k 0)) (d (n "embedded-io-async") (r "^0.6.1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (f (quote ("std"))) (o #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (o #t) (k 0)))) (h "0xf7z67drbwqsiaab27p2bq8m2sl3dn059hjycb4klj4np9aqgxh") (f (quote (("std" "embedded-io/std")))) (s 2) (e (quote (("tokio-1" "std" "dep:tokio" "dep:embedded-io-async" "embedded-io-async?/std") ("futures-03" "std" "dep:futures" "dep:embedded-io-async" "embedded-io-async?/std")))) (r "1.60")))
+

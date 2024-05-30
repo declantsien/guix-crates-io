@@ -1,0 +1,4 @@
+(define-module (crates-io ty le tyler) #:use-module (crates-io))
+
+(define-public crate-tyler-0.3.0 (c (n "tyler") (v "0.3.0") (d (list (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.119") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "morton-encoding") (r "^2.0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "proj-sys") (r "^0.23.1") (f (quote ("network"))) (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.10") (d #t) (k 0)) (d (n "subprocess") (r "^0.2.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "16csps2l3bg34gzv6szrfm8l6y5dp75j6kmin5xqfkivf3ywbwb9")))
+

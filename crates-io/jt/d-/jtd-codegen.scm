@@ -1,0 +1,12 @@
+(define-module (crates-io jt d- jtd-codegen) #:use-module (crates-io))
+
+(define-public crate-jtd-codegen-0.1.0 (c (n "jtd-codegen") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "handlebars") (r "^3.0") (d #t) (k 0)) (d (n "jtd") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.11") (d #t) (k 0)))) (h "0w9xv2hqldpxb0bm8n8inclmixjv0z3kq8zd3ijwfgkkvzzash1d")))
+
+(define-public crate-jtd-codegen-0.1.1 (c (n "jtd-codegen") (v "0.1.1") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "handlebars") (r "^3.0") (d #t) (k 0)) (d (n "jtd") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.11") (d #t) (k 0)))) (h "09q3nx13fn99nnd97z6skbcsr4qnnk1nq3zn9dbfngbxan3bqmsm")))
+
+(define-public crate-jtd-codegen-0.1.4 (c (n "jtd-codegen") (v "0.1.4") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "handlebars") (r "^3.0") (d #t) (k 0)) (d (n "jtd") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.11") (d #t) (k 0)))) (h "142sh0k36j8v4hx7ggc2hcscpa9ddzhilypqf1j0dw2rhv2dqwmg")))
+
+(define-public crate-jtd-codegen-0.1.5 (c (n "jtd-codegen") (v "0.1.5") (d (list (d (n "Inflector") (r "^0.11") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "handlebars") (r "^3.0") (d #t) (k 0)) (d (n "jtd") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.11") (d #t) (k 0)))) (h "1z4syl41cdr71gz8sdjc8xcfr9phnnijlsd37l3sjwphgvp0c7ci")))
+
+(define-public crate-jtd-codegen-0.2.0-beta.1 (c (n "jtd-codegen") (v "0.2.0-beta.1") (d (list (d (n "jtd") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "teeter_inflector") (r "^0.11.4") (d #t) (k 0) (p "Inflector")) (d (n "textwrap") (r "^0.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "14ga3s4ml1f1jvbykacfvwg29gchg33fynjy8x68g86zhsjz50jj")))
+

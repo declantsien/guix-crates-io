@@ -1,0 +1,18 @@
+(define-module (crates-io ac ti actix_telepathy_derive) #:use-module (crates-io))
+
+(define-public crate-actix_telepathy_derive-0.1.0 (c (n "actix_telepathy_derive") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (d #t) (k 0)))) (h "1c7mn528w1mfw4s603b3793hkq6mr0i7jjg1y5ywf2qbdxbf95fd")))
+
+(define-public crate-actix_telepathy_derive-0.1.1 (c (n "actix_telepathy_derive") (v "0.1.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (d #t) (k 0)))) (h "0s0jy6hfggsm6zzjs3jlnr9v3b54ysd7fjp2rlzqjv4hqwlx2ahv")))
+
+(define-public crate-actix_telepathy_derive-0.2.0 (c (n "actix_telepathy_derive") (v "0.2.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (d #t) (k 0)))) (h "1rv495gg7wdyg7xrxh1nw74hgwlr9mcr2979vc125804arn0v4ci")))
+
+(define-public crate-actix_telepathy_derive-0.3.0 (c (n "actix_telepathy_derive") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (d #t) (k 0)))) (h "0xrnz53fyx1bd2nn9f1gc753mwrx5i2mipxsaphhrp1fyz5bnzpl")))
+
+(define-public crate-actix_telepathy_derive-0.3.1 (c (n "actix_telepathy_derive") (v "0.3.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (d #t) (k 0)))) (h "1xpb3nd25gk6dkdqczk0mrcqi1yhq77jniqmsnx72r6ddnbqj3l3")))
+
+(define-public crate-actix_telepathy_derive-0.3.2 (c (n "actix_telepathy_derive") (v "0.3.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "191yafic5il5y275q96v30137l0nkdl7brmcnq3jvm617xq6k2d7")))
+
+(define-public crate-actix_telepathy_derive-0.3.3 (c (n "actix_telepathy_derive") (v "0.3.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "17sqg50v8d0jlsbpfxzpc50qhrj4f3sm39nf27i3bpjj9k6jqvwr")))
+
+(define-public crate-actix_telepathy_derive-0.3.4 (c (n "actix_telepathy_derive") (v "0.3.4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1b4h5fl0ljswffin3wydppfy9pjjvfa15hbq7s7zy4gyl2zv8cbb")))
+

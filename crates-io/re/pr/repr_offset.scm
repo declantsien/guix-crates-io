@@ -1,0 +1,16 @@
+(define-module (crates-io re pr repr_offset) #:use-module (crates-io))
+
+(define-public crate-repr_offset-0.0.1 (c (n "repr_offset") (v "0.0.1") (d (list (d (n "rustc_version") (r "^0.2.3") (d #t) (k 1)))) (h "15yjnj2z4brf2zynyg09j7sv0h7c6rbqpj6b7mckqm85wjj42xkz") (f (quote (("testing") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref"))))))
+
+(define-public crate-repr_offset-0.1.0 (c (n "repr_offset") (v "0.1.0") (d (list (d (n "repr_offset_derive") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "repr_offset_derive") (r "^0.1") (d #t) (k 2)) (d (n "rustc_version") (r "^0.2.3") (d #t) (k 1)))) (h "033waqlzlp9fvjw59k4hbs63vlarkckdyla3nwbd7d5nrdcfn9lr") (f (quote (("testing" "for_examples") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref") ("priv_expensive_test") ("for_examples") ("derive" "repr_offset_derive") ("default" "derive"))))))
+
+(define-public crate-repr_offset-0.1.1 (c (n "repr_offset") (v "0.1.1") (d (list (d (n "repr_offset_derive") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "repr_offset_derive") (r "^0.1") (d #t) (k 2)) (d (n "rustc_version") (r "^0.2.3") (d #t) (k 1)))) (h "0rd1s8nw7ri33d5ivil547klqm5s7nc7vbckfjvpl7hz1sa373m6") (f (quote (("testing" "for_examples") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref") ("priv_expensive_test") ("for_examples") ("derive" "repr_offset_derive") ("default" "derive"))))))
+
+(define-public crate-repr_offset-0.1.2 (c (n "repr_offset") (v "0.1.2") (d (list (d (n "repr_offset_derive") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "repr_offset_derive") (r "^0.1") (d #t) (k 2)) (d (n "rustc_version") (r "^0.2.3") (d #t) (k 1)))) (h "1x4d53qlf2qs2mdyksgn9flgip6b54pi680ak12hsd43in39h922") (f (quote (("testing" "for_examples") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref") ("priv_expensive_test") ("for_examples") ("derive" "repr_offset_derive") ("default" "derive"))))))
+
+(define-public crate-repr_offset-0.2.0 (c (n "repr_offset") (v "0.2.0") (d (list (d (n "repr_offset_derive") (r "=0.2.0") (o #t) (d #t) (k 0)) (d (n "repr_offset_derive") (r "=0.2.0") (d #t) (k 2)) (d (n "tstr") (r "^0.2") (d #t) (k 0)))) (h "046vbmbcmsl6wq1z3629jzkvlaz0bxiik8g5sa2hz9ingpr49g9f") (f (quote (("testing" "for_examples") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref") ("priv_expensive_test") ("for_examples") ("docsrs") ("derive" "repr_offset_derive") ("default"))))))
+
+(define-public crate-repr_offset-0.2.1 (c (n "repr_offset") (v "0.2.1") (d (list (d (n "repr_offset_derive") (r "=0.2.0") (o #t) (d #t) (k 0)) (d (n "repr_offset_derive") (r "=0.2.0") (d #t) (k 2)) (d (n "tstr") (r "^0.2") (d #t) (k 0)))) (h "04k1jjhkpicgc5b7awkv09hgnigvyn42g405lcgybf8lhbrr4gk6") (f (quote (("testing" "for_examples") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref") ("priv_expensive_test") ("for_examples") ("docsrs") ("derive" "repr_offset_derive") ("default"))))))
+
+(define-public crate-repr_offset-0.2.2 (c (n "repr_offset") (v "0.2.2") (d (list (d (n "repr_offset_derive") (r "=0.2.0") (o #t) (d #t) (k 0)) (d (n "tstr") (r "^0.2") (d #t) (k 0)) (d (n "repr_offset_derive") (r "=0.2.0") (d #t) (k 2)))) (h "1skj3cy77j7vwslnjjzgladq61z6jjvwlw89kp0zz7fjbdsp047v") (f (quote (("testing" "for_examples") ("test_nightly" "testing" "priv_raw_ref") ("priv_raw_ref") ("priv_expensive_test") ("for_examples") ("docsrs") ("derive" "repr_offset_derive") ("default"))))))
+

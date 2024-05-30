@@ -1,0 +1,12 @@
+(define-module (crates-io ca rg cargo-sym) #:use-module (crates-io))
+
+(define-public crate-cargo-sym-0.0.1 (c (n "cargo-sym") (v "0.0.1") (d (list (d (n "clap") (r "^2.16.4") (d #t) (k 0)) (d (n "goblin") (r "^0.0.5") (d #t) (k 0)) (d (n "rustc-demangle") (r "^0.1.2") (d #t) (k 0)) (d (n "toml") (r "^0.2") (d #t) (k 0)))) (h "0gzwgdr10mmagcff9amldavl1m0lfd6ndplfscay01pi14cgz9aj")))
+
+(define-public crate-cargo-sym-0.0.2 (c (n "cargo-sym") (v "0.0.2") (d (list (d (n "clap") (r "^2.16.4") (d #t) (k 0)) (d (n "goblin") (r "^0.0.5") (d #t) (k 0)) (d (n "rustc-demangle") (r "^0.1.2") (d #t) (k 0)) (d (n "toml") (r "^0.2") (d #t) (k 0)))) (h "1aic2jcc6dxzj3j1khh6pfafcri63frzfb9b2gn1ig17bnmlqh86")))
+
+(define-public crate-cargo-sym-0.0.4 (c (n "cargo-sym") (v "0.0.4") (d (list (d (n "capstone3") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.16.4") (d #t) (k 0)) (d (n "goblin") (r "^0.0.6") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "rustc-demangle") (r "^0.1.2") (d #t) (k 0)) (d (n "toml") (r "^0.2") (d #t) (k 0)) (d (n "walkdir") (r "^1.0.1") (d #t) (k 0)))) (h "17bhp3zbpfb96qvx5dkw4037imkh8p19yzc7vjfpzcf6xbhn79m6") (f (quote (("default" "capstone3/build_capstone_src_cmake") ("build_capstone_src" "capstone3/build_capstone_src"))))))
+
+(define-public crate-cargo-sym-0.0.5 (c (n "cargo-sym") (v "0.0.5") (d (list (d (n "capstone3") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.16.4") (d #t) (k 0)) (d (n "goblin") (r "^0.0.7") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "rustc-demangle") (r "^0.1.2") (d #t) (k 0)) (d (n "scroll") (r "^0.2.0") (d #t) (k 0)) (d (n "toml") (r "^0.2") (d #t) (k 0)) (d (n "walkdir") (r "^1.0.1") (d #t) (k 0)))) (h "1fhs73dmdnpijj88zzs2h5dsw9scwhgi2mi7srnb3kkn5i1q9sn4") (f (quote (("default" "capstone3/build_capstone_src_cmake") ("build_capstone_src" "capstone3/build_capstone_src"))))))
+
+(define-public crate-cargo-sym-0.0.6 (c (n "cargo-sym") (v "0.0.6") (d (list (d (n "capstone3") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.16.4") (d #t) (k 0)) (d (n "goblin") (r "^0.0.8") (d #t) (k 0)) (d (n "quick-error") (r "^1.1.0") (d #t) (k 0)) (d (n "rustc-demangle") (r "^0.1.2") (d #t) (k 0)) (d (n "scroll") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.2") (d #t) (k 0)) (d (n "walkdir") (r "^1.0.1") (d #t) (k 0)))) (h "0hb20xyc3l8yz3405lm4an6xld34zxs9fn9xa6hpfmvkf2n9bxja") (f (quote (("default" "capstone3/build_capstone_src_cmake") ("build_capstone_src" "capstone3/build_capstone_src"))))))
+

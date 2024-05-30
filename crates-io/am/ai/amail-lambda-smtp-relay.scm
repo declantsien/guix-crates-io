@@ -1,0 +1,4 @@
+(define-module (crates-io am ai amail-lambda-smtp-relay) #:use-module (crates-io))
+
+(define-public crate-amail-lambda-smtp-relay-0.1.0 (c (n "amail-lambda-smtp-relay") (v "0.1.0") (d (list (d (n "aws_lambda_events") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lambda_runtime") (r "^0.2") (d #t) (k 0)) (d (n "lettre") (r "=0.10.0-alpha.1") (f (quote ("builder" "rustls-tls" "smtp-transport"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rusoto_core") (r "^0.43.0-beta.1") (f (quote ("rustls"))) (k 0)) (d (n "rusoto_s3") (r "^0.43.0-beta.1") (f (quote ("rustls"))) (k 0)) (d (n "rustls") (r "^0.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^0.2") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.19") (d #t) (k 0)))) (h "06r7jzysfjdj9jcgmyzdan1k8fnccy0q12hnvh41b4cvha63l9jd")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ka tn katniss) #:use-module (crates-io))
+
+(define-public crate-katniss-0.0.1 (c (n "katniss") (v "0.0.1") (d (list (d (n "arrow-array") (r "^33.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^33.0.0") (d #t) (k 0)) (d (n "katniss-ingestor") (r "^0.0.1") (d #t) (k 0)) (d (n "katniss-pb2arrow") (r "^0.0.1") (d #t) (k 0)) (d (n "object_store") (r "^0.5.5") (f (quote ("gcp"))) (d #t) (k 0)) (d (n "parquet") (r "^33.0.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.8") (d #t) (k 0)) (d (n "prost-reflect") (r "^0.10.2") (d #t) (k 0)))) (h "1psk39ak88ds2fhad4cw36c1ji5vnk06dj67zbhm6bv0j1kqxc57")))
+
+(define-public crate-katniss-0.0.2 (c (n "katniss") (v "0.0.2") (d (list (d (n "arrow-array") (r "^37.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^37.0.0") (d #t) (k 0)) (d (n "katniss-ingestor") (r "^0.0.2") (d #t) (k 0)) (d (n "katniss-pb2arrow") (r "^0.0.2") (d #t) (k 0)) (d (n "object_store") (r "^0.5.6") (f (quote ("gcp"))) (d #t) (k 0)) (d (n "parquet") (r "^37.0.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.8") (d #t) (k 0)) (d (n "prost-reflect") (r "=0.10.2") (d #t) (k 0)))) (h "11npn0ygngxxrr9lsml3fcr840glnx8pwm8x6czgpzf69kf10n51")))
+
+(define-public crate-katniss-0.0.3 (c (n "katniss") (v "0.0.3") (d (list (d (n "arrow-array") (r "^37.0.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^37.0.0") (d #t) (k 0)) (d (n "katniss-ingestor") (r "^0.0.3") (d #t) (k 0)) (d (n "katniss-pb2arrow") (r "^0.0.3") (d #t) (k 0)) (d (n "object_store") (r "^0.5.6") (f (quote ("gcp"))) (d #t) (k 0)) (d (n "parquet") (r "^37.0.0") (d #t) (k 0)) (d (n "prost") (r "^0.11.8") (d #t) (k 0)) (d (n "prost-reflect") (r "=0.10.2") (d #t) (k 0)))) (h "0204lid06d22f2k8cq04wi0sba6qbl2s4369az2ir95h0cwj3acf")))
+

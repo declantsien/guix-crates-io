@@ -1,0 +1,10 @@
+(define-module (crates-io rs co rscolorq) #:use-module (crates-io))
+
+(define-public crate-rscolorq-0.1.0 (c (n "rscolorq") (v "0.1.0") (d (list (d (n "image") (r "^0.23") (f (quote ("jpeg" "png"))) (o #t) (k 0)) (d (n "palette") (r "^0.5") (f (quote ("std"))) (o #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("std"))) (k 0)) (d (n "rand_pcg") (r "^0.2") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "1gszpsa5qihdwn0j4m378j6q6ww8xg5dfciqhmmslmyn2ixpmxds") (f (quote (("palette_color" "palette") ("default" "app") ("app" "image" "palette_color" "structopt"))))))
+
+(define-public crate-rscolorq-0.1.1 (c (n "rscolorq") (v "0.1.1") (d (list (d (n "image") (r "^0.23") (f (quote ("jpeg" "png"))) (o #t) (k 0)) (d (n "palette") (r "^0.5") (f (quote ("std"))) (o #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("std"))) (k 0)) (d (n "rand_pcg") (r "^0.2") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "02naanr3v1as4r38c12k5h5raxvnlh6mlyl98hmiawf9221q26q3") (f (quote (("palette_color" "palette") ("default" "app") ("app" "image" "palette_color" "structopt"))))))
+
+(define-public crate-rscolorq-0.1.2 (c (n "rscolorq") (v "0.1.2") (d (list (d (n "image") (r "^0.23") (f (quote ("jpeg" "png"))) (o #t) (k 0)) (d (n "palette") (r "^0.5") (f (quote ("std"))) (o #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("std"))) (k 0)) (d (n "rand_pcg") (r "^0.2") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "12v3z96pa5l0yvjyplldazsgxyg4cdvraa44ascir8c1fhza01ng") (f (quote (("palette_color" "palette") ("default" "app") ("app" "image" "palette_color" "structopt"))))))
+
+(define-public crate-rscolorq-0.2.0 (c (n "rscolorq") (v "0.2.0") (d (list (d (n "image") (r "^0.23") (f (quote ("jpeg" "png"))) (o #t) (k 0)) (d (n "palette") (r "^0.5") (f (quote ("std"))) (o #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("std"))) (k 0)) (d (n "rand_pcg") (r "^0.3") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)))) (h "1gz7d2f972apb175gzj7prgzk19kg6v1pji2lsfdic2c1rn5450h") (f (quote (("palette_color" "palette") ("default" "app") ("app" "image" "palette_color" "structopt"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rusty_ytdl-cli) #:use-module (crates-io))
+
+(define-public crate-rusty_ytdl-cli-1.0.0 (c (n "rusty_ytdl-cli") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "fern") (r "^0.6.2") (f (quote ("colored"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.17.4") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rusty_ytdl") (r "^0.6.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.30") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("rt-multi-thread" "macros" "io-std"))) (d #t) (k 0)))) (h "1z3r6dbds6cwcrcypnnvfqb9w66yjl9wnj81ffh9afwyfc7zsafn")))
+

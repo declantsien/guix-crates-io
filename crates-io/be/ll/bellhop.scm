@@ -1,0 +1,8 @@
+(define-module (crates-io be ll bellhop) #:use-module (crates-io))
+
+(define-public crate-bellhop-0.0.1 (c (n "bellhop") (v "0.0.1") (h "0yirixa6b054mkazbxifrcv1xmianlf3h8w7x0x546xd9799vag7")))
+
+(define-public crate-bellhop-0.2.0 (c (n "bellhop") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.0.0") (f (quote ("chrono" "postgres" "r2d2"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.12.0") (d #t) (k 0)) (d (n "rocket") (r "^0.4.0") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4.0") (f (quote ("handlebars_templates" "serve" "diesel_postgres_pool" "json"))) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "typed-builder") (r "^0.1.1") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)) (d (n "url_serde") (r "^0.2.0") (d #t) (k 0)))) (h "07vmp85k5kc0ddvwgy06lnz67d6pb0f35rdvhavqs7nkp0wyarac")))
+
+(define-public crate-bellhop-0.2.1 (c (n "bellhop") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "diesel") (r "^1.0.0") (f (quote ("chrono" "postgres" "r2d2"))) (d #t) (k 0)) (d (n "error-chain") (r "^0.12.0") (d #t) (k 0)) (d (n "rocket") (r "^0.4.0") (d #t) (k 0)) (d (n "rocket_contrib") (r "^0.4.0") (f (quote ("handlebars_templates" "serve" "diesel_postgres_pool" "json"))) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "typed-builder") (r "^0.1.1") (d #t) (k 0)) (d (n "url") (r "^1.7.2") (d #t) (k 0)) (d (n "url_serde") (r "^0.2.0") (d #t) (k 0)))) (h "1zwaaccap7dgngpdyikhjpplv46hj804xrfhprzkqyfrf1wh7xxx")))
+

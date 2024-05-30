@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rusty-mvt) #:use-module (crates-io))
+
+(define-public crate-rusty-mvt-0.1.0 (c (n "rusty-mvt") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "axum") (r "^0.6.20") (d #t) (k 0)) (d (n "axum-macros") (r "^0.3.8") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "dotenv_codegen") (r "^0.15.0") (d #t) (k 0)) (d (n "error-chain") (r "^0.12.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prost") (r "^0.12.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "sqlx") (r "^0.7") (f (quote ("runtime-tokio" "postgres" "json"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1lv3ln7bwa5h2iv9za6qkbsh1xybsgcm6dba6zgsg287b74ypzai")))
+

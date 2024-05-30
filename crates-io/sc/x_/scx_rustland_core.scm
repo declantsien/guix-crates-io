@@ -1,0 +1,10 @@
+(define-module (crates-io sc x_ scx_rustland_core) #:use-module (crates-io))
+
+(define-public crate-scx_rustland_core-0.1.1 (c (n "scx_rustland_core") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "buddy-alloc") (r "^0.5.1") (d #t) (k 0)) (d (n "libbpf-rs") (r "^0.23") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "scx_utils") (r "^0.7") (d #t) (k 0)) (d (n "scx_utils") (r "^0.7") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2.4") (d #t) (k 1)))) (h "04qigvpy1iabzv0xq287g7y33lf0ya739rpj0kn87c4ylrfvwypb")))
+
+(define-public crate-scx_rustland_core-0.2.0 (c (n "scx_rustland_core") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "buddy-alloc") (r "^0.5.1") (d #t) (k 0)) (d (n "libbpf-rs") (r "^0.23") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "scx_utils") (r "^0.7") (d #t) (k 0)) (d (n "scx_utils") (r "^0.7") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2.4") (d #t) (k 1)))) (h "0mhz32vvbmvg55gcgqj762yzgwzwxby377lmgifd63a79ynvc55v")))
+
+(define-public crate-scx_rustland_core-0.3.0 (c (n "scx_rustland_core") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "buddy-alloc") (r "^0.5.1") (d #t) (k 0)) (d (n "libbpf-rs") (r "^0.23") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "scx_utils") (r "^0.7") (d #t) (k 0)) (d (n "scx_utils") (r "^0.7") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2.4") (d #t) (k 1)))) (h "0a3cd67xg56xmsdch1nm4vhmhy4l4npw1ywyfmyyixqk2r5aj0kl")))
+
+(define-public crate-scx_rustland_core-0.4.0 (c (n "scx_rustland_core") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "buddy-alloc") (r "^0.5.1") (d #t) (k 0)) (d (n "libbpf-rs") (r "^0.23") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "scx_utils") (r "^0.8") (d #t) (k 0)) (d (n "scx_utils") (r "^0.8") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2.4") (d #t) (k 1)))) (h "14a7f9aq8rb47lc817yn6zysvh6gp9jjldmqfwn5bcnrc5cp0cr3")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ha pi hapi-iron-oxide) #:use-module (crates-io))
+
+(define-public crate-hapi-iron-oxide-0.1.0 (c (n "hapi-iron-oxide") (v "0.1.0") (d (list (d (n "aes") (r "^0.8") (d #t) (k 0)) (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "constant_time_eq") (r "^0.2") (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "ctr") (r "^0.9") (f (quote ("std"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "pbkdf2") (r "^0.12") (f (quote ("parallel"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (d #t) (k 0)))) (h "1fiybrnfnfg736l4hr9fsa36nvaq53kjzx32139kbpxvj2vhzfzd")))
+

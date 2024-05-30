@@ -1,0 +1,12 @@
+(define-module (crates-io vi si visible_area_detection) #:use-module (crates-io))
+
+(define-public crate-visible_area_detection-0.1.0 (c (n "visible_area_detection") (v "0.1.0") (d (list (d (n "direction") (r "^0.18") (d #t) (k 0)) (d (n "grid_2d") (r "^0.15") (d #t) (k 0)) (d (n "rgb_int") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)) (d (n "shadowcast") (r "^0.8") (d #t) (k 0)))) (h "0qffq02dc8qil9f3iaj0ywvxcmppa3dbq2mbssfkgd22adwxva46")))
+
+(define-public crate-visible_area_detection-0.1.1 (c (n "visible_area_detection") (v "0.1.1") (d (list (d (n "direction") (r "^0.18") (d #t) (k 0)) (d (n "grid_2d") (r "^0.15") (d #t) (k 0)) (d (n "rgb_int") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)) (d (n "shadowcast") (r "^0.8") (d #t) (k 0)))) (h "0iq81kba370v6qdy8hqrawmwh0n79f186hb6mgk2yq4r9qr7s4b0") (f (quote (("serialize" "serde" "shadowcast/serialize" "grid_2d/serialize" "rgb_int/serialize"))))))
+
+(define-public crate-visible_area_detection-0.1.2 (c (n "visible_area_detection") (v "0.1.2") (d (list (d (n "direction") (r "^0.18") (d #t) (k 0)) (d (n "grid_2d") (r "^0.15") (d #t) (k 0)) (d (n "rgb_int") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)) (d (n "shadowcast") (r "^0.8") (d #t) (k 0)))) (h "0h3149s86kk3chr38811zrn0w4mrkli72l70c6mnklhkisk58sj5") (f (quote (("serialize" "serde" "shadowcast/serialize" "grid_2d/serialize" "rgb_int/serialize"))))))
+
+(define-public crate-visible_area_detection-0.2.0 (c (n "visible_area_detection") (v "0.2.0") (d (list (d (n "direction") (r "^0.18") (d #t) (k 0)) (d (n "grid_2d") (r "^0.15") (d #t) (k 0)) (d (n "rgb_int") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)) (d (n "shadowcast") (r "^0.8") (d #t) (k 0)))) (h "0mf2i3sgp107wcw0gj5xwxy95li9x5rmkihfkyvx0lwwnx5jds22") (f (quote (("serialize" "serde" "shadowcast/serialize" "grid_2d/serialize" "rgb_int/serialize"))))))
+
+(define-public crate-visible_area_detection-0.3.0 (c (n "visible_area_detection") (v "0.3.0") (d (list (d (n "direction") (r "^0.18") (d #t) (k 0)) (d (n "grid_2d") (r "^0.15") (d #t) (k 0)) (d (n "rgb_int") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("serde_derive"))) (o #t) (d #t) (k 0)) (d (n "shadowcast") (r "^0.8") (d #t) (k 0)))) (h "095bz5gmz31q9h6p3zxa8875rqx5y8pj901b7hi5cv0paxbigl14") (f (quote (("serialize" "serde" "shadowcast/serialize" "grid_2d/serialize" "rgb_int/serialize"))))))
+

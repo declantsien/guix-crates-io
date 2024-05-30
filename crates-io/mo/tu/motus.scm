@@ -1,0 +1,6 @@
+(define-module (crates-io mo tu motus) #:use-module (crates-io))
+
+(define-public crate-motus-0.1.0 (c (n "motus") (v "0.1.0") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.2.1") (d #t) (k 0)) (d (n "human-panic") (r "^1.1.4") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1fli4z2abxz8silv32kvmxmfx32zy6jvzga990y69p835d2l6ig9")))
+
+(define-public crate-motus-0.2.0 (c (n "motus") (v "0.2.0") (d (list (d (n "arboard") (r "^3.2.0") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "assert_json") (r "^0.1.0") (d #t) (k 2)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.2.1") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "human-panic") (r "^1.1.4") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "term-table") (r "^1.3.2") (d #t) (k 0)) (d (n "zxcvbn") (r "^2.2.2") (d #t) (k 0)))) (h "0cpasq8d1mrrg2llkvaqmfwb5gapmqnpygdpx26570wn5av29g8i")))
+

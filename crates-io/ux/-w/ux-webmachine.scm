@@ -1,0 +1,4 @@
+(define-module (crates-io ux -w ux-webmachine) #:use-module (crates-io))
+
+(define-public crate-ux-webmachine-0.1.0 (c (n "ux-webmachine") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.15") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "expectest") (r "^0.12.0") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "http") (r "^0.2.1") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("full"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "maplit") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.98") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)) (d (n "wampire") (r "^0.1.2") (d #t) (k 0)))) (h "165qm0xcd5g1gzhffv7s02wzxx6pdd0jmzsqsl4vxaxc5cfbn4ac")))
+

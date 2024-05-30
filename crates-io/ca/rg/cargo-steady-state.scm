@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-steady-state) #:use-module (crates-io))
+
+(define-public crate-cargo-steady-state-0.0.1 (c (n "cargo-steady-state") (v "0.0.1") (d (list (d (n "askama") (r "^0.12.1") (d #t) (k 0)) (d (n "dot-parser") (r "^0.1.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.27.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.4.18") (d #t) (k 0)))) (h "1cv9404qain11pqj68l852sbryz0kwq82skysd925a90ygmw67zm") (y #t)))
+
+(define-public crate-cargo-steady-state-0.0.2 (c (n "cargo-steady-state") (v "0.0.2") (d (list (d (n "askama") (r "^0.12.1") (d #t) (k 0)) (d (n "dot-parser") (r "^0.1.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.27.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)) (d (n "steady_state") (r "^0.0.13") (d #t) (k 2)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.4.18") (d #t) (k 0)))) (h "1km94g2x39a5l62vl4ghnlp6y7jbm92c1n0di0r2pch9m3a2abx0") (y #t)))
+
+(define-public crate-cargo-steady-state-0.0.3 (c (n "cargo-steady-state") (v "0.0.3") (d (list (d (n "askama") (r "^0.12.1") (d #t) (k 0)) (d (n "dot-parser") (r "^0.1.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.27.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)) (d (n "steady_state") (r "^0.0.14") (d #t) (k 2)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.4.18") (d #t) (k 0)))) (h "1cy64754zc6hq3vf742bymbfss2v9cs8a0s3qhgk2vrywhsidyrr") (y #t)))
+
+(define-public crate-cargo-steady-state-0.0.4 (c (n "cargo-steady-state") (v "0.0.4") (d (list (d (n "askama") (r "^0.12.1") (d #t) (k 0)) (d (n "dot-parser") (r "^0.1.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.27.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)) (d (n "structopt-derive") (r "^0.4.18") (d #t) (k 0)))) (h "0rj69xd30sxsgs9pf18jn1vbyqki56wdx3sxbv4pjxg6cd32pw4k")))
+

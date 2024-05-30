@@ -1,0 +1,10 @@
+(define-module (crates-io li bp libp2p-allow-block-list) #:use-module (crates-io))
+
+(define-public crate-libp2p-allow-block-list-0.1.0 (c (n "libp2p-allow-block-list") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "libp2p-core") (r "^0.39.0") (d #t) (k 0)) (d (n "libp2p-identity") (r "^0.1.0") (f (quote ("peerid"))) (d #t) (k 0)) (d (n "libp2p-swarm") (r "^0.42.0") (d #t) (k 0)) (d (n "void") (r "^1") (d #t) (k 0)))) (h "1x9zbxc5z3v1ysj4f3sk8i7l752n9r558r2i6d3vn84bcirl1id0") (r "1.62.0")))
+
+(define-public crate-libp2p-allow-block-list-0.1.1 (c (n "libp2p-allow-block-list") (v "0.1.1") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "libp2p-core") (r "^0.39.0") (d #t) (k 0)) (d (n "libp2p-identity") (r "^0.1.0") (f (quote ("peerid"))) (d #t) (k 0)) (d (n "libp2p-swarm") (r "^0.42.1") (d #t) (k 0)) (d (n "void") (r "^1") (d #t) (k 0)))) (h "0l4asgfk661fv4k28x5a3j7qhhsik9ppz0yvb121h9dwxw2sl3ai") (r "1.62.0")))
+
+(define-public crate-libp2p-allow-block-list-0.2.0 (c (n "libp2p-allow-block-list") (v "0.2.0") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "libp2p-core") (r "^0.40.0") (d #t) (k 0)) (d (n "libp2p-identity") (r "^0.2.0") (f (quote ("peerid"))) (d #t) (k 0)) (d (n "libp2p-swarm") (r "^0.43.0") (d #t) (k 0)) (d (n "libp2p-swarm-derive") (r "^0.33.0") (d #t) (k 2)) (d (n "libp2p-swarm-test") (r "^0.2.0") (d #t) (k 2)) (d (n "void") (r "^1") (d #t) (k 0)))) (h "04ck47fj863a8q97nwyidnk6qizm9zaqz8x1wb9rkgy0qmc6bd2m") (r "1.65.0")))
+
+(define-public crate-libp2p-allow-block-list-0.3.0 (c (n "libp2p-allow-block-list") (v "0.3.0") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "libp2p-core") (r "^0.41.0") (d #t) (k 0)) (d (n "libp2p-identity") (r "^0.2.7") (f (quote ("peerid"))) (d #t) (k 0)) (d (n "libp2p-swarm") (r "^0.44.0") (d #t) (k 0)) (d (n "void") (r "^1") (d #t) (k 0)))) (h "1rij19djzdfg80l6dzkjkf4h0cnagk7mvbbl7fskmf2cg65j6yqh") (r "1.73.0")))
+

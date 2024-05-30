@@ -1,0 +1,14 @@
+(define-module (crates-io wa kf wakflo-common) #:use-module (crates-io))
+
+(define-public crate-wakflo-common-0.0.1 (c (n "wakflo-common") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "slugify-rs") (r "^0.0.3") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "0g49ndii5dm0l11pg2vilihkhah369940xhfxk2xqpnc4fw1prm4")))
+
+(define-public crate-wakflo-common-0.0.2 (c (n "wakflo-common") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "0dvr55xpgr2big2fwywad0g3sq84i1gnhfykqy55yndphvhld6mq")))
+
+(define-public crate-wakflo-common-0.0.3 (c (n "wakflo-common") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "0w26fhsbkn0wbwg0y8s50lv4jflj3ssglv0liqagaw22k42yqc1w")))
+
+(define-public crate-wakflo-common-0.1.1 (c (n "wakflo-common") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "016zx2bsdfwn5ayvc8cvsfxz8i524f4qnah0606gx00xdzpgmzx8")))
+
+(define-public crate-wakflo-common-0.1.2 (c (n "wakflo-common") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "10gy26kq6c3p10c510znxm8r7h7nbbbnyc3dlarz1sl3fxgkimgi")))
+
+(define-public crate-wakflo-common-0.1.3 (c (n "wakflo-common") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.1") (d #t) (k 0)))) (h "0qyrhwp3xafy22rldvpl228hqdsbyrk3crd7zw6hsl2fszf7dbi7")))
+

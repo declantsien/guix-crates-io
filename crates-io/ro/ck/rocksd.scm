@@ -1,0 +1,4 @@
+(define-module (crates-io ro ck rocksd) #:use-module (crates-io))
+
+(define-public crate-rocksd-0.0.1 (c (n "rocksd") (v "0.0.1") (d (list (d (n "bytes") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.22") (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "protobuf") (r "^1.2") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "ring") (r "^0.7") (d #t) (k 0)) (d (n "rocksdb") (r "^0.6") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-proto") (r "^0.1") (d #t) (k 0)) (d (n "tokio-rpc") (r "^0.1") (d #t) (k 0)) (d (n "tokio-service") (r "^0.1") (d #t) (k 0)) (d (n "tokio-timer") (r "^0.1") (d #t) (k 0)))) (h "0d42lgp5bxv739zsaha2lq6s7361k0bg710dijr0nh3cp2gfv7k1")))
+

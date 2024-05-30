@@ -1,0 +1,6 @@
+(define-module (crates-io an ch anchor-idl-tulip) #:use-module (crates-io))
+
+(define-public crate-anchor-idl-tulip-0.4.0 (c (n "anchor-idl-tulip") (v "0.4.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r ">=0.24") (f (quote ("idl"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0cic4hh5s94zgwq2717pxypg6csyfdk0f54hbmv8lhhj9il9sgr2") (f (quote (("compat-program-result"))))))
+
+(define-public crate-anchor-idl-tulip-0.4.1 (c (n "anchor-idl-tulip") (v "0.4.1") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 2)) (d (n "anchor-syn") (r ">=0.24") (f (quote ("idl"))) (d #t) (k 0)) (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0gspbjdra0y5cd7lw6c8k00ykakya9dkyxl47jv0zl9lxxx2cqs1") (f (quote (("compat-program-result"))))))
+

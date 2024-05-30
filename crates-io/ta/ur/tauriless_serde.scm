@@ -1,0 +1,8 @@
+(define-module (crates-io ta ur tauriless_serde) #:use-module (crates-io))
+
+(define-public crate-tauriless_serde-0.1.0 (c (n "tauriless_serde") (v "0.1.0") (d (list (d (n "pot") (r "^3.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.4") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.0") (d #t) (k 2)))) (h "1mkc48451bcg174m44cwdm6gabhpkpmd3xzhnn6g4hw43rqrsmcf")))
+
+(define-public crate-tauriless_serde-0.2.0 (c (n "tauriless_serde") (v "0.2.0") (d (list (d (n "pot") (r "^3.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.4") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.0") (d #t) (k 2)))) (h "0dbvirg60gn4yj9fdxiixvz560bcgnn6i9jb9p5a5b37xbb0c62z")))
+
+(define-public crate-tauriless_serde-0.2.1 (c (n "tauriless_serde") (v "0.2.1") (d (list (d (n "pot") (r "^3") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0") (d #t) (k 0)) (d (n "serde-wasm-bindgen") (r "^0.6.5") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3.0") (d #t) (k 2)))) (h "0f8372718n5x61sxfwzz826hfdjcqbfmbqpxyvqk8vf4s8n9s134")))
+

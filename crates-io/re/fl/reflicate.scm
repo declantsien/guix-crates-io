@@ -1,0 +1,10 @@
+(define-module (crates-io re fl reflicate) #:use-module (crates-io))
+
+(define-public crate-reflicate-0.1.0 (c (n "reflicate") (v "0.1.0") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "blake3") (r "^1.3") (d #t) (k 0)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cdb") (r "^0.6") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0s4jf5zxi0r5l9q0hlzmcksz2iikwh2i7wnvrh3rjmdivc24n4yy")))
+
+(define-public crate-reflicate-0.2.0 (c (n "reflicate") (v "0.2.0") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "blake3") (r "^1.3") (d #t) (k 0)) (d (n "cdb") (r "^0.6") (d #t) (k 0)) (d (n "fiemap") (r "^0.1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "18kn27ii30yxakzn3idncsmknfc1xqdb7rmlqlq3s03qwgsziqr3")))
+
+(define-public crate-reflicate-0.3.0 (c (n "reflicate") (v "0.3.0") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "blake3") (r "^1.4") (d #t) (k 0)) (d (n "cdb") (r "^0.6") (d #t) (k 0)) (d (n "fiemap") (r "^0.1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "07152npxa3q9avpl34n10b53ikn789mbpa5983cilnfwkrx9r3gx")))
+
+(define-public crate-reflicate-0.3.1 (c (n "reflicate") (v "0.3.1") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "blake3") (r "^1.5") (d #t) (k 0)) (d (n "cdb") (r "^0.6") (d #t) (k 0)) (d (n "fiemap") (r "^0.1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "0ybixpji1a0k5v5l0v80xvxppni7rd24kmwchs2ap3749srkpy27")))
+

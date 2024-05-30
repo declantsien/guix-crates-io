@@ -1,0 +1,6 @@
+(define-module (crates-io s3 _t s3_tui) #:use-module (crates-io))
+
+(define-public crate-s3_tui-0.1.0 (c (n "s3_tui") (v "0.1.0") (d (list (d (n "aws-config") (r "^0.47.0") (d #t) (k 0)) (d (n "aws-sdk-dynamodb") (r "^0.17.0") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.17.0") (d #t) (k 0)) (d (n "aws-smithy-types") (r "^0.47.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.19") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.15") (f (quote ("crossterm"))) (k 0)))) (h "0s1215xh6dnikbwgbil1k9h7qjwsycs95a4vsdlh6x49arjkd4rb")))
+
+(define-public crate-s3_tui-0.1.1 (c (n "s3_tui") (v "0.1.1") (d (list (d (n "aws-config") (r "^0.47.0") (d #t) (k 0)) (d (n "aws-sdk-dynamodb") (r "^0.17.0") (d #t) (k 0)) (d (n "aws-sdk-s3") (r "^0.17.0") (d #t) (k 0)) (d (n "aws-smithy-types") (r "^0.47.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.19") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tui") (r "^0.15") (f (quote ("crossterm"))) (k 0)))) (h "1nbviy5wapg3w1jvc0hsl2kxdws09wywwcdq3kimsqc8h4jav2g7")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io pr ef prefixed-api-key) #:use-module (crates-io))
+
+(define-public crate-prefixed-api-key-0.1.0-beta.0 (c (n "prefixed-api-key") (v "0.1.0-beta.0") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "digest") (r "^0.10.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 2)))) (h "13ymm74ijbad589a7l17cbhgcrkis5y1kmjpcvfidg4sk7s92kry")))
+
+(define-public crate-prefixed-api-key-0.1.0-beta.1 (c (n "prefixed-api-key") (v "0.1.0-beta.1") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "digest") (r "^0.10.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2.36") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 2)))) (h "173mf76ydvcha5vh73zj6165dv04k9266bk3k9pxdcf6z14myskc") (f (quote (("all" "sha2")))) (s 2) (e (quote (("sha2" "dep:sha2"))))))
+
+(define-public crate-prefixed-api-key-0.1.0 (c (n "prefixed-api-key") (v "0.1.0") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "constant_time_eq") (r "^0.2.5") (d #t) (k 0)) (d (n "digest") (r "^0.10.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 2)))) (h "0vjljq742qx7x7xwb2nwhyy0n5zdgrx5ywx77lxdzhg5vls7n4cz") (f (quote (("all" "sha2")))) (s 2) (e (quote (("sha2" "dep:sha2"))))))
+
+(define-public crate-prefixed-api-key-0.2.0 (c (n "prefixed-api-key") (v "0.2.0") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "constant_time_eq") (r "^0.2.5") (d #t) (k 0)) (d (n "digest") (r "^0.10.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 2)))) (h "171aa83hngd6w7vhbk8wfnigk9a19i1gvf7fhdrbxplhchn3k8c3") (f (quote (("all" "sha2")))) (s 2) (e (quote (("sha2" "dep:sha2"))))))
+

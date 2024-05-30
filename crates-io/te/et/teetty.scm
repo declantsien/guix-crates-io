@@ -1,0 +1,16 @@
+(define-module (crates-io te et teetty) #:use-module (crates-io))
+
+(define-public crate-teetty-0.1.0 (c (n "teetty") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("derive" "std" "help" "usage" "wrap_help"))) (k 0)) (d (n "nix") (r "^0.26.1") (f (quote ("fs" "process" "term" "ioctl" "signal" "poll"))) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)))) (h "1kpdvcz8ndpg1qbk919csi5b0nc1m1c7x0bm12qaq6zksyqyhjg0")))
+
+(define-public crate-teetty-0.2.0 (c (n "teetty") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("derive" "std" "help" "usage" "wrap_help"))) (k 0)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("fs" "process" "term" "ioctl" "signal" "poll"))) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "05gm8f7z2hrzc8bcy2aa12xqrzdg5p35g1qqvi0f2cii868xw6r5")))
+
+(define-public crate-teetty-0.2.1 (c (n "teetty") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("derive" "std" "help" "usage" "wrap_help"))) (k 0)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("fs" "process" "term" "ioctl" "signal" "poll"))) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "19b5m3h6asc2vkzmyj7mvpzpifb645q1vhs9y1xaffwp5k445h3a")))
+
+(define-public crate-teetty-0.2.2 (c (n "teetty") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("derive" "std" "help" "usage" "wrap_help"))) (k 0)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("fs" "process" "term" "ioctl" "signal" "poll"))) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1xqki4p0afzch43kv9wq1gdm8hl15p7z5n94i490pwf5crhplw8j")))
+
+(define-public crate-teetty-0.2.3 (c (n "teetty") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("derive" "std" "help" "usage" "wrap_help"))) (k 0)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)) (d (n "nix") (r "^0.26.1") (f (quote ("fs" "process" "term" "ioctl" "signal" "poll"))) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1rdld2d4q3x2rmf58p7k2sx01nyzji8q84044ah8h173mzdpxqjr")))
+
+(define-public crate-teetty-0.3.0 (c (n "teetty") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("std" "help" "wrap_help" "error-context"))) (k 0)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tty-spawn") (r "=0.3.0") (d #t) (k 0)))) (h "1dw1k5kpizcii4528ndc587hphg3i222lkj2rd6z2h8fs7l39mq7") (r "1.60.0")))
+
+(define-public crate-teetty-0.3.1 (c (n "teetty") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.0.30") (f (quote ("std" "help" "wrap_help" "error-context"))) (k 0)) (d (n "insta") (r "^1.23.0") (d #t) (k 2)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)) (d (n "tty-spawn") (r "=0.3.1") (d #t) (k 0)))) (h "1z712rrdvhqq6kqswhp523p05565d27g68v8sdp50hhcm63k3w36") (r "1.60.0")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io pa st paster) #:use-module (crates-io))
+
+(define-public crate-paster-0.1.0 (c (n "paster") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (f (quote ("yaml_conf"))) (k 0)) (d (n "either") (r "^1.8") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "multipart" "native-tls-vendored"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "14dwdp1akl8qpn074gm5gax7nbhbzj6w6yhl9p4v8rwjxxnv3fv4")))
+
+(define-public crate-paster-0.1.1 (c (n "paster") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.11") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (f (quote ("yaml_conf"))) (k 0)) (d (n "either") (r "^1.8") (d #t) (k 0)) (d (n "predicates") (r "^3.0.3") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "multipart" "native-tls-vendored"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0z0s7d0d80hpnsfvfv2z75c5kwa7lh76p4c9q2ayg5fdvch4702f")))
+

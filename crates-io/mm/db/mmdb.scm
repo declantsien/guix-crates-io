@@ -1,0 +1,4 @@
+(define-module (crates-io mm db mmdb) #:use-module (crates-io))
+
+(define-public crate-mmdb-1.0.0 (c (n "mmdb") (v "1.0.0") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "mmdb_core") (r "^1.0.0") (k 0)) (d (n "msgpack") (r "^1.1.1") (o #t) (d #t) (k 0) (p "rmp-serde")) (d (n "once_cell") (r "^1.13.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "ruc") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (o #t) (d #t) (k 0)))) (h "1q0qw9319vanv601qpprwld9wzfar6ylq26ipjb85asq7jl1fv0f") (f (quote (("serde_ende") ("rocks_backend" "mmdb_core/rocks_backend") ("parity_backend" "mmdb_core/parity_backend") ("msgpack_codec" "serde_ende" "msgpack") ("json_codec" "serde_ende" "serde_json") ("default" "rocks_backend" "compress" "msgpack_codec") ("compress" "mmdb_core/compress"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ar an arangodb_events_rs) #:use-module (crates-io))
+
+(define-public crate-arangodb_events_rs-0.1.4 (c (n "arangodb_events_rs") (v "0.1.4") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (f (quote ("io"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "tcp" "http2" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "1sahl22hkbgcdjf6k36cry2cldrwsn9hn69jbl7fxg3jsqvij5y1")))
+
+(define-public crate-arangodb_events_rs-0.1.5 (c (n "arangodb_events_rs") (v "0.1.5") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (f (quote ("io"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "tcp" "http2" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "1sh6l2laz7spvg9j1c52nk64xmj7kjxdzdk9cfhm7k1cx7cmg61j") (f (quote (("async"))))))
+
+(define-public crate-arangodb_events_rs-0.1.6 (c (n "arangodb_events_rs") (v "0.1.6") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (f (quote ("io"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("client" "tcp" "http2" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 0)))) (h "07mlkz67zkpq7vzq4i4h8g7kmmcccw5db9z2cwq72f55ijmcwr1d") (f (quote (("async"))))))
+

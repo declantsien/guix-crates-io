@@ -1,0 +1,30 @@
+(define-module (crates-io en cd encdec-base) #:use-module (crates-io))
+
+(define-public crate-encdec-base-0.1.0 (c (n "encdec-base") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)))) (h "0a00n8f4028zvadpw21j5jy67n2bykp0mnwjm9qy2jij6351nid4")))
+
+(define-public crate-encdec-base-0.3.0 (c (n "encdec-base") (v "0.3.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)))) (h "02384s3vdwyaq810q2hsyv0d62s8gyyz8v2s5xn8kbdbwhzfj6fi") (f (quote (("default" "heapless")))) (s 2) (e (quote (("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.4.0 (c (n "encdec-base") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)))) (h "0m84vbcbzh5cncg4vpkiyhirpifkk166ifz3nmhyk5hc1xn75vdg") (f (quote (("default" "heapless")))) (s 2) (e (quote (("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.5.0 (c (n "encdec-base") (v "0.5.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "1v1nbwbj5a1m58p2zmpyi4x5lgzkjq8v7wz59j3985hbkfwmhbd9") (f (quote (("default" "std" "heapless")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.6.0 (c (n "encdec-base") (v "0.6.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "0b6daindd3gdfin6d0gkg6w51w2hxqzlv3ldazq4mm0v8df8i9av") (f (quote (("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.6.1 (c (n "encdec-base") (v "0.6.1") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "152h6l1sry36pcc4xi6xims0hvawvkhzrnh9l8wiqabrayf47zzh") (f (quote (("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.6.2 (c (n "encdec-base") (v "0.6.2") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "0wsm5n9077pb7c28yr3122aj7k3fg8jx3n9cjqb3z779ff7hiic8") (f (quote (("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.7.0 (c (n "encdec-base") (v "0.7.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "1lczax3k1wlwjcws0wmadqwv9rzazn2c2ilfn3c1ci4jr69jfqn3") (f (quote (("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.7.1 (c (n "encdec-base") (v "0.7.1") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "14wpm4rxggbgc6an06nn6bbbfz65y1mc0fyhcnlpwjsdvsa23df1") (f (quote (("nightly") ("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.8.0 (c (n "encdec-base") (v "0.8.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "082kwxbs1wj5srwrhr8vkj08apqa6747rasff0fzgfam9znby047") (f (quote (("nightly") ("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.8.1 (c (n "encdec-base") (v "0.8.1") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "1kc3zss6wfjhgmjm341lqfa91j1pp1gs8h1cb40rf8mi7md0cx9y") (f (quote (("nightly") ("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.8.2 (c (n "encdec-base") (v "0.8.2") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "079smqrcjmx72am5lxmhww7wv48j2lhq7dkgbqgay1vvvracwpc2") (f (quote (("nightly") ("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.8.3 (c (n "encdec-base") (v "0.8.3") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "0spvswh849hg18797yj89ff22nf7bprq1wpw9z4pznim5bzl51bz") (f (quote (("nightly") ("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+
+(define-public crate-encdec-base-0.9.0 (c (n "encdec-base") (v "0.9.0") (d (list (d (n "byteorder") (r "^1.4.3") (k 0)) (d (n "heapless") (r "^0.7.16") (o #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (k 0)) (d (n "thiserror") (r "^1.0.35") (o #t) (k 0)))) (h "02dyd5jlb9zf1zkkhjfykhparkim6f432rbaya5m8585s33y6sji") (f (quote (("nightly") ("default" "std" "alloc" "heapless") ("alloc")))) (s 2) (e (quote (("std" "dep:thiserror") ("heapless" "dep:heapless"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io mo no monotone) #:use-module (crates-io))
+
+(define-public crate-monotone-0.1.0 (c (n "monotone") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rusoto") (r "^0.22.0") (f (quote ("dynamodb"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "06c6xkqkh5b0yn93qgch8qw6s6gmbxnpc9dgai7mnakvz53pw3zi") (f (quote (("default") ("aws" "rusoto"))))))
+
+(define-public crate-monotone-0.2.0 (c (n "monotone") (v "0.2.0") (d (list (d (n "error-chain") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rusoto") (r "^0.22.0") (f (quote ("dynamodb"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "0yb1rf01bwlv30mx79sp6gp34214hwb4lkjva0mjv1av3w19ip3f") (f (quote (("default") ("aws" "rusoto"))))))
+
+(define-public crate-monotone-0.4.0 (c (n "monotone") (v "0.4.0") (d (list (d (n "error-chain") (r "^0.9.0") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "rusoto") (r "^0.23.0") (f (quote ("dynamodb"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^0.9") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9") (d #t) (k 0)) (d (n "serde_json") (r "^0.9") (d #t) (k 0)))) (h "1rckpzdvx2pwpfqzhxa3ra9f33hq5yl6l8k0qgm59baknl0xc7zq") (f (quote (("default") ("aws" "rusoto") ("all" "aws"))))))
+

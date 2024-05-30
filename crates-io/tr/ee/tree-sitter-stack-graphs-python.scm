@@ -1,0 +1,6 @@
+(define-module (crates-io tr ee tree-sitter-stack-graphs-python) #:use-module (crates-io))
+
+(define-public crate-tree-sitter-stack-graphs-python-0.0.1 (c (n "tree-sitter-stack-graphs-python") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^3") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tree-sitter-python") (r "^0.20.2") (d #t) (k 0)) (d (n "tree-sitter-stack-graphs") (r "^0.6") (d #t) (k 0)) (d (n "tree-sitter-stack-graphs") (r "^0.6") (f (quote ("cli"))) (d #t) (k 2)))) (h "1n97jy8d31dz7i8fhsn9nb9v3fa21f8ymblniw9dmjimfzjvmnyp") (f (quote (("cli" "anyhow" "clap" "tree-sitter-stack-graphs/cli"))))))
+
+(define-public crate-tree-sitter-stack-graphs-python-0.1.0 (c (n "tree-sitter-stack-graphs-python") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tree-sitter-python") (r "=0.20.4") (d #t) (k 0)) (d (n "tree-sitter-stack-graphs") (r "^0.8") (d #t) (k 0)) (d (n "tree-sitter-stack-graphs") (r "^0.8") (f (quote ("cli"))) (d #t) (k 2)))) (h "0p5i388ymxb6z9bz7iq75blvk75xwkrf3cpjckh55jiln6vp30xy") (f (quote (("cli" "anyhow" "clap" "tree-sitter-stack-graphs/cli"))))))
+

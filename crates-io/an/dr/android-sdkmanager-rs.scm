@@ -1,0 +1,16 @@
+(define-module (crates-io an dr android-sdkmanager-rs) #:use-module (crates-io))
+
+(define-public crate-android-sdkmanager-rs-0.1.1 (c (n "android-sdkmanager-rs") (v "0.1.1") (d (list (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "globalenv") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0r4k7kw9092l0835hb2vmfrl9k4hrl5c59pp9r11g7f0khz2ylla")))
+
+(define-public crate-android-sdkmanager-rs-0.2.0 (c (n "android-sdkmanager-rs") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1.1") (d #t) (k 0)) (d (n "dunce") (r "^1") (d #t) (k 0)) (d (n "globalenv") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "0am88w5pgds6m06a4bna91383v73j1n75ynhr5xwpdnp6c7hflh1")))
+
+(define-public crate-android-sdkmanager-rs-0.3.0 (c (n "android-sdkmanager-rs") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "1jaar9b254vfcz9p1dzsnsp5yq3zdz922f036qk74sfhczhjimid")))
+
+(define-public crate-android-sdkmanager-rs-0.4.0 (c (n "android-sdkmanager-rs") (v "0.4.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "19bizf31vxz57bjqq07dhqq4kv2s7j509ly0m7hi33m6j42d163s")))
+
+(define-public crate-android-sdkmanager-rs-0.5.0 (c (n "android-sdkmanager-rs") (v "0.5.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.5") (d #t) (k 0)))) (h "19prrxfdms102qc39cra6knqq4n99awx0p8lcfss346j4m4j9kgw")))
+
+(define-public crate-android-sdkmanager-rs-0.6.0 (c (n "android-sdkmanager-rs") (v "0.6.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.6") (d #t) (k 0)))) (h "13x04pz6sk899vyjh7gz9g0g85yp3h52hwpczrkfmds4zx16ifw3") (f (quote (("native-certs" "ureq/rustls-native-certs"))))))
+
+(define-public crate-android-sdkmanager-rs-0.7.0 (c (n "android-sdkmanager-rs") (v "0.7.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "roxmltree") (r "^0.14") (d #t) (k 0)) (d (n "ureq") (r "^2.4") (d #t) (k 0)) (d (n "zip") (r "^0.6") (d #t) (k 0)))) (h "0d7xgcfcw2112xkx7pkz9i93q16yy963nw9v4d04jn1vcgv0s8sx") (f (quote (("native-certs" "ureq/native-certs"))))))
+

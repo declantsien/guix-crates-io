@@ -1,0 +1,6 @@
+(define-module (crates-io fl p- flp-saml2) #:use-module (crates-io))
+
+(define-public crate-flp-saml2-0.1.0 (c (n "flp-saml2") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "04wcpk92b21dmzq3xkrfjqywf5nb98cgackkqpkrvmxq2x48mb1y")))
+
+(define-public crate-flp-saml2-0.1.1 (c (n "flp-saml2") (v "0.1.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0ngds529im2aqpdxyplw7f0jba5jbhrxh858n8nnw98gclq0cvb2")))
+

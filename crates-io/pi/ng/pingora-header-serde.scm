@@ -1,0 +1,8 @@
+(define-module (crates-io pi ng pingora-header-serde) #:use-module (crates-io))
+
+(define-public crate-pingora-header-serde-0.1.0 (c (n "pingora-header-serde") (v "0.1.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "httparse") (r "^1") (d #t) (k 0)) (d (n "pingora-error") (r "^0.1.0") (d #t) (k 0)) (d (n "pingora-http") (r "^0.1.0") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "zstd") (r "^0.9.0") (d #t) (k 0)) (d (n "zstd-safe") (r "^4.1.1") (d #t) (k 0)))) (h "1hq5lyybn98kmgl0g90gidmplqr1d6xdkg3pmhzgx15nivi0g8cp")))
+
+(define-public crate-pingora-header-serde-0.1.1 (c (n "pingora-header-serde") (v "0.1.1") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "httparse") (r "^1") (d #t) (k 0)) (d (n "pingora-error") (r "^0.1.1") (d #t) (k 0)) (d (n "pingora-http") (r "^0.1.1") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "zstd") (r "^0.9.0") (d #t) (k 0)) (d (n "zstd-safe") (r "^4.1.1") (d #t) (k 0)))) (h "1a1bl2ns3vxds7an9qm0fw3wsaskw53biimgc85lw62nyxvgrfjl")))
+
+(define-public crate-pingora-header-serde-0.2.0 (c (n "pingora-header-serde") (v "0.2.0") (d (list (d (n "bytes") (r "^1.0") (d #t) (k 0)) (d (n "http") (r "^1.0.0") (d #t) (k 0)) (d (n "httparse") (r "^1") (d #t) (k 0)) (d (n "pingora-error") (r "^0.2.0") (d #t) (k 0)) (d (n "pingora-http") (r "^0.2.0") (d #t) (k 0)) (d (n "thread_local") (r "^1.0") (d #t) (k 0)) (d (n "zstd") (r "^0.13.1") (d #t) (k 0)) (d (n "zstd-safe") (r "^7.1.0") (f (quote ("std"))) (d #t) (k 0)))) (h "0jad2d8by5s97lqf3h94f1va9kgjkn177dhha24kkbzq33mp4f31")))
+

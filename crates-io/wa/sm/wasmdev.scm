@@ -1,0 +1,18 @@
+(define-module (crates-io wa sm wasmdev) #:use-module (crates-io))
+
+(define-public crate-wasmdev-0.1.0 (c (n "wasmdev") (v "0.1.0") (h "0ygb0a67gvvgjwn6464cgzk78zdik3636jqsqa4l8pqnrh1x0215")))
+
+(define-public crate-wasmdev-0.1.1 (c (n "wasmdev") (v "0.1.1") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.1") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1bgr7c0l58c1rlk6k30cfz9iasw7d38zl62mylmvb6vwngdnpb8r") (f (quote (("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+
+(define-public crate-wasmdev-0.1.2 (c (n "wasmdev") (v "0.1.2") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.2") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.2") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "07pv6qg6qvnkkjyihrk9q9m5sq868p1izfi36f4ddi6838hjdx7v") (f (quote (("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+
+(define-public crate-wasmdev-0.1.3 (c (n "wasmdev") (v "0.1.3") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.3") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.3") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "0bmkr8nvs3k3dizf1a89nwidixbiwwmcw0cms0wmjpvvzd6rq6fx") (f (quote (("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+
+(define-public crate-wasmdev-0.1.4 (c (n "wasmdev") (v "0.1.4") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.4") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.4") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "04x3422whcnnrc4v9lqdx77f8d2g6w4xm6cs2z5d1m3j9jax9pf1") (f (quote (("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+
+(define-public crate-wasmdev-0.1.5 (c (n "wasmdev") (v "0.1.5") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.5") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.5") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1z24in0n4fsvdk3wwidaksbdnqw6a656lnwdfrij1iqbrrr4msbb") (f (quote (("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+
+(define-public crate-wasmdev-0.1.6 (c (n "wasmdev") (v "0.1.6") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.6") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.6") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "0j48pdkmn3zn6cn50kzfdwfy7cd4h14dp85f04d5hs0px9dyq6n2") (f (quote (("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+
+(define-public crate-wasmdev-0.1.7 (c (n "wasmdev") (v "0.1.7") (d (list (d (n "console_error_panic_hook") (r "^0.1.7") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "wasmdev_macro") (r "^0.1.7") (d #t) (k 0)) (d (n "wasmdev_server") (r "^0.1.7") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1g1r161v8avl10hywdk6l5lzfk3gph0xamqr17xnxfi3ad4i869x") (f (quote (("nightly" "wasmdev_server/nightly" "wasmdev_macro/nightly") ("default" "panic_hook")))) (s 2) (e (quote (("panic_hook" "dep:console_error_panic_hook"))))))
+

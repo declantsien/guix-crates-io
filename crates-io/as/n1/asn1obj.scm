@@ -1,0 +1,10 @@
+(define-module (crates-io as n1 asn1obj) #:use-module (crates-io))
+
+(define-public crate-asn1obj-0.1.0 (c (n "asn1obj") (v "0.1.0") (d (list (d (n "asn1obj_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)))) (h "14mkgvnmnrhzc5vzr8igvhbfgrq5zlk0d9r144dkbdk1vawps3vl") (r "1.59.0")))
+
+(define-public crate-asn1obj-0.1.2 (c (n "asn1obj") (v "0.1.2") (d (list (d (n "asn1obj_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)))) (h "1bi22dsavd2a6v4gcq776qkqw4s14nc741k6gb614j3yvh6zbs62") (r "1.59.0")))
+
+(define-public crate-asn1obj-0.1.4 (c (n "asn1obj") (v "0.1.4") (d (list (d (n "asn1obj_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)))) (h "1njj96gv3h8zkw862bmg3m05lply3i2vljrv2b78w6kbgya8vphw") (r "1.59.0")))
+
+(define-public crate-asn1obj-0.1.6 (c (n "asn1obj") (v "0.1.6") (d (list (d (n "asn1obj_codegen") (r "^0.1.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.5") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)))) (h "0r6wmz6x7yjqsnr19pmwgxfzdjwadgzslv6bk05gvnsni0q51hik") (r "1.59.0")))
+

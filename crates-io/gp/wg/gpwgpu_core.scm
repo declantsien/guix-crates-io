@@ -1,0 +1,4 @@
+(define-module (crates-io gp wg gpwgpu_core) #:use-module (crates-io))
+
+(define-public crate-gpwgpu_core-0.1.0 (c (n "gpwgpu_core") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "bytemuck") (r "^1.12.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "nom-supreme") (r "^0.8.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.169") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slow_primes") (r "^0.1.14") (d #t) (k 0)) (d (n "syn") (r "^2.0.33") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "wgpu") (r "^0.16.1") (d #t) (k 0)))) (h "06cqn9m9jqlkj7i7j4lri9pcr04gy3by9ygbw0cvy1f8q6azzxzq")))
+

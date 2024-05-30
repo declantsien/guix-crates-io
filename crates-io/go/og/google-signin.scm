@@ -1,0 +1,8 @@
+(define-module (crates-io go og google-signin) #:use-module (crates-io))
+
+(define-public crate-google-signin-0.2.0 (c (n "google-signin") (v "0.2.0") (d (list (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0yyx7s1fljy57rwab9r8kd31250imgx510vrkwbfxkdwp2q7n4aj") (f (quote (("with-rustls" "hyper-rustls") ("with-openssl" "hyper-openssl") ("default" "with-rustls"))))))
+
+(define-public crate-google-signin-0.2.1 (c (n "google-signin") (v "0.2.1") (d (list (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0qnc1hqyzxkznxry2n63c91sknpm6aw0mvhgdj8s8gl19k7bkfvb") (f (quote (("with-rustls" "hyper-rustls") ("with-openssl" "hyper-openssl") ("default" "with-rustls"))))))
+
+(define-public crate-google-signin-0.3.0 (c (n "google-signin") (v "0.3.0") (d (list (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-openssl") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0ihy3psk3dkp6z574m469wbb57hg6fdy9aapy126z9g9j70qhals") (f (quote (("with-rustls" "hyper-rustls") ("with-openssl" "hyper-openssl") ("default" "with-rustls"))))))
+

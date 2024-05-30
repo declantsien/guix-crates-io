@@ -1,0 +1,8 @@
+(define-module (crates-io co in coingecko) #:use-module (crates-io))
+
+(define-public crate-coingecko-0.1.0 (c (n "coingecko") (v "0.1.0") (d (list (d (n "const_format") (r "^0.2") (d #t) (k 0)) (d (n "derive_setters") (r "^0.1") (d #t) (k 0)) (d (n "fomat-macros") (r "^0.3") (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 0)) (d (n "isahc") (r "^0.9") (f (quote ("http2" "text-decoding"))) (k 0)) (d (n "rust_decimal") (r "^1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "smol") (r "^1.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0xpnibs72m59l9sgxifdx5wq7cdz041ad4kpa7a18iipx7jz4xia")))
+
+(define-public crate-coingecko-1.0.0 (c (n "coingecko") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1.6.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "0y1mpc5ln82fk0qmghh6hlj4zfy2zgyblfnxxnijfh5ryb96c8fy")))
+
+(define-public crate-coingecko-1.0.1 (c (n "coingecko") (v "1.0.1") (d (list (d (n "chrono") (r "^0.4.22") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tokio") (r "^1.6.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "184dhb55b4c7pa1bqc314v66ib4cbnij3jfl4y50p738dhs2sk5j")))
+

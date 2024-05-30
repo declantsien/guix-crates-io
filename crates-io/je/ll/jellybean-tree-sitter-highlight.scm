@@ -1,0 +1,8 @@
+(define-module (crates-io je ll jellybean-tree-sitter-highlight) #:use-module (crates-io))
+
+(define-public crate-jellybean-tree-sitter-highlight-0.20.12 (c (n "jellybean-tree-sitter-highlight") (v "0.20.12") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20") (d #t) (k 0) (p "jellybean-tree-sitter")))) (h "1312j8hndx8s104mhrp7lk16yk32mx2lm1p5ha7kwbrfviz2r8n8") (s 2) (e (quote (("serde" "dep:serde" "tree-sitter/serde")))) (r "1.65")))
+
+(define-public crate-jellybean-tree-sitter-highlight-0.20.13 (c (n "jellybean-tree-sitter-highlight") (v "0.20.13") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20") (d #t) (k 0) (p "jellybean-tree-sitter")))) (h "0ab27b37jliyjh1vmsclx0cfw4wh4sxvqcmvwyqc05fi45yagxji") (s 2) (e (quote (("serde" "dep:serde" "tree-sitter/serde")))) (r "1.65")))
+
+(define-public crate-jellybean-tree-sitter-highlight-0.20.14 (c (n "jellybean-tree-sitter-highlight") (v "0.20.14") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.20") (d #t) (k 0) (p "jellybean-tree-sitter")))) (h "0akzkf314chhsxgfs2s1zz9wg7fds8ak4gz2a4ny6804gfmc48h3") (s 2) (e (quote (("serde" "dep:serde" "tree-sitter/serde")))) (r "1.65")))
+

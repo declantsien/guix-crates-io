@@ -1,0 +1,6 @@
+(define-module (crates-io wa rp warp-devices) #:use-module (crates-io))
+
+(define-public crate-warp-devices-0.3.0 (c (n "warp-devices") (v "0.3.0") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "enum-iterator") (r "^1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "packed_simd") (r "^0.3.8") (d #t) (k 2) (p "packed_simd_2")) (d (n "rand") (r "^0.8.5") (f (quote ("simd_support"))) (d #t) (k 2)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)))) (h "086mymhna057wg2k9fvfl8zrlc5s0ylmf93r8cz367w509drdkj1")))
+
+(define-public crate-warp-devices-0.3.1 (c (n "warp-devices") (v "0.3.1") (d (list (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "enum-iterator") (r "^1.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "itertools") (r "^0.10") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5") (d #t) (k 0)) (d (n "packed_simd") (r "^0.3.8") (d #t) (k 2) (p "packed_simd_2")) (d (n "rand") (r "^0.8.5") (f (quote ("simd_support"))) (d #t) (k 2)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)))) (h "1zn9ahvl2iv0bb6hjsr8lk10x5yy827w7aqs92d4bai07v3qgssy")))
+

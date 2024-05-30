@@ -1,0 +1,6 @@
+(define-module (crates-io si tz sitzung) #:use-module (crates-io))
+
+(define-public crate-sitzung-0.1.0 (c (n "sitzung") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "clap") (r "^4.3.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (d #t) (k 0)) (d (n "skim") (r "^0.10.4") (d #t) (k 0)) (d (n "tmux_interface") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)))) (h "0wap171ar7hhsp5dibsxqhyk22m369k5kcm2b1p3vw0rv4fglih2")))
+
+(define-public crate-sitzung-0.1.1 (c (n "sitzung") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "clap") (r "^4.3.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (d #t) (k 0)) (d (n "skim") (r "^0.10.4") (d #t) (k 0)) (d (n "tmux_interface") (r "^0.3.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1mwvj4c7g021x9bbmrgrh7ka2gc1a41qf8llf5dvyx44vp067lrp")))
+

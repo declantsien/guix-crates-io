@@ -1,0 +1,8 @@
+(define-module (crates-io ev io eviolite) #:use-module (crates-io))
+
+(define-public crate-eviolite-0.0.0 (c (n "eviolite") (v "0.0.0") (h "06xb3s5kbmynxxvhzgp504amrwjdxcqac5la6cmnjfllfg0wljnm")))
+
+(define-public crate-eviolite-0.1.0 (c (n "eviolite") (v "0.1.0") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand_xoshiro") (r "^0.6") (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "ndarray") (r "^0.15") (d #t) (k 2)) (d (n "ndarray-rand") (r "^0.14") (d #t) (k 2)) (d (n "num") (r "^0.4") (d #t) (k 2)))) (h "1qfpnbxqqqgcfc2yw6pr3iy377w73x43vcsxffjig45d2x3lcssb") (s 2) (e (quote (("ndarray" "dep:ndarray" "dep:num-traits" "dep:rand_distr"))))))
+
+(define-public crate-eviolite-0.1.1 (c (n "eviolite") (v "0.1.1") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rand_xoshiro") (r "^0.6") (d #t) (k 0)) (d (n "rayon") (r "^1.6") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "ndarray") (r "^0.15") (d #t) (k 2)) (d (n "ndarray-rand") (r "^0.14") (d #t) (k 2)) (d (n "num") (r "^0.4") (d #t) (k 2)))) (h "02b2n7n33v2ycp099l6bvkkzpnihgm4hmasyxmmrf8zfccccz6nq") (s 2) (e (quote (("ndarray" "dep:ndarray" "dep:num-traits" "dep:rand_distr"))))))
+

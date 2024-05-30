@@ -1,0 +1,8 @@
+(define-module (crates-io ed li edlib_rs) #:use-module (crates-io))
+
+(define-public crate-edlib_rs-0.1.0 (c (n "edlib_rs") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "cpu-time") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "needletail") (r "^0.4") (d #t) (k 0)))) (h "187nlrgsxgzsfd9v3d7d2ln6sxakyr6k6aj3m77afpwrprxg6zyn")))
+
+(define-public crate-edlib_rs-0.1.1 (c (n "edlib_rs") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "cpu-time") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "needletail") (r "^0.4") (d #t) (k 0)))) (h "0irqms88sfwg9w6y3wcm30dcrjn9cwarvh19ninzv14zipaf4ckw")))
+
+(define-public crate-edlib_rs-0.1.2 (c (n "edlib_rs") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.55.1") (d #t) (k 1)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "cpu-time") (r "^1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("max_level_trace" "release_max_level_info"))) (d #t) (k 0)) (d (n "needletail") (r "^0.4") (d #t) (k 0)))) (h "1aqsir6ff87i1lacsv1i9mr9zq5pcjffgdlxgvz1sqkvhqrmvwrj")))
+

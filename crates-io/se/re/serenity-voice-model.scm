@@ -1,0 +1,8 @@
+(define-module (crates-io se re serenity-voice-model) #:use-module (crates-io))
+
+(define-public crate-serenity-voice-model-0.1.0 (c (n "serenity-voice-model") (v "0.1.0") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "enum_primitive") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "0ar7myl75cdrvi9l8y02f7p7yxcp0ybi40hijaxrpxwi6y1fp2hm")))
+
+(define-public crate-serenity-voice-model-0.1.1 (c (n "serenity-voice-model") (v "0.1.1") (d (list (d (n "bitflags") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "enum_primitive") (r "^0.1.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.5") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "0lj93n0wx546glkvwgr8yjsyjs5xdzcvxpx5x3hzv8lwhk4axqwb")))
+
+(define-public crate-serenity-voice-model-0.2.0 (c (n "serenity-voice-model") (v "0.2.0") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.5") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "0sz0h345as4ypmk2z7yarab6fzmbb87hdldk66rwh1sx2pv84djr")))
+

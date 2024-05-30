@@ -1,0 +1,8 @@
+(define-module (crates-io f2 #{56}# f256) #:use-module (crates-io))
+
+(define-public crate-f256-0.1.1 (c (n "f256") (v "0.1.1") (d (list (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "f256_pow10_div_pow2_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow2_div_pow10_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow2_div_pow5_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow5_div_pow2_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)))) (h "0f5qnw8lrv3qh3dh7wx5cjksjgyk5byq1j0vslgfdjzybbmi4rza") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-f256-0.1.2 (c (n "f256") (v "0.1.2") (d (list (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "f256_pow10_div_pow2_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow2_div_pow10_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow2_div_pow5_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow5_div_pow2_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)))) (h "1njzjlqwxqc3mx13dacqrf553zfzrpf85zkpv6gv21lb5fz1iims") (f (quote (("std") ("default" "std"))))))
+
+(define-public crate-f256-0.2.0 (c (n "f256") (v "0.2.0") (d (list (d (n "csv") (r "^1.1") (d #t) (k 2)) (d (n "f256_pow10_div_pow2_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow2_div_pow10_lut") (r "^0.2.0") (d #t) (k 0)) (d (n "f256_pow2_div_pow5_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "f256_pow5_div_pow2_lut") (r "^0.1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)))) (h "0lzqrlr219vf5h9ya2jvh2g1d8nj0ym1nw8vm8lkb7kjj7p8hbpv") (f (quote (("std") ("default" "std"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io go og google_pem) #:use-module (crates-io))
+
+(define-public crate-google_pem-0.1.0 (c (n "google_pem") (v "0.1.0") (d (list (d (n "atoi") (r "^2.0.0") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^9.2.0") (f (quote ("use_pem"))) (d #t) (k 0)) (d (n "memchr") (r "^2.7.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("net" "io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt"))) (d #t) (k 2)) (d (n "tokio-rustls") (r "^0.25.0") (d #t) (k 0)) (d (n "webpki-roots") (r "^0.26.0") (d #t) (k 0)))) (h "0af0m7sryh8jv6hf3fwv05141v55xsy8yfhb5iq388dwnxpzciki")))
+

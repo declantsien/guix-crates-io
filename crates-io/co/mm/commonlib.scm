@@ -1,0 +1,6 @@
+(define-module (crates-io co mm commonlib) #:use-module (crates-io))
+
+(define-public crate-commonlib-0.1.0 (c (n "commonlib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "job_scheduler_ng") (r "^2.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "0zia36gwl742qmbk6wpml2nkaan8xj754f0rqxwsfqxjk6qcw521")))
+
+(define-public crate-commonlib-0.1.1 (c (n "commonlib") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.3") (d #t) (k 0)) (d (n "job_scheduler_ng") (r "^2.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "001jq1lanplwvwi0x1fd3qvrqss940d5w4w50hcd8gyzsmbgdig3")))
+

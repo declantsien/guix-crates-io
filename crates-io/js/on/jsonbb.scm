@@ -1,0 +1,14 @@
+(define-module (crates-io js on jsonbb) #:use-module (crates-io))
+
+(define-public crate-jsonbb-0.1.0 (c (n "jsonbb") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "jsonb") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.12") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0x2gz0xrcliywc10akhv68bc6m88kvx7cjf8nmwxh37zn8bn8ds4")))
+
+(define-public crate-jsonbb-0.1.1 (c (n "jsonbb") (v "0.1.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "jsonb") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0zvvsdxly0r08wnd6rzklp53z1cwalai3lwgpdyaarhj4wq59ngg")))
+
+(define-public crate-jsonbb-0.1.2 (c (n "jsonbb") (v "0.1.2") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "jsonb") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "1ch9crldal8wn5x49ps3ckrvjp4jh7nv1dvq0xsqh7aa0wic4b8z")))
+
+(define-public crate-jsonbb-0.1.3 (c (n "jsonbb") (v "0.1.3") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "jsonb") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "06axql8ifiiflsl8mqkis31ks37gsl0n60yzhb75wanlgb0xyblf")))
+
+(define-public crate-jsonbb-0.1.4 (c (n "jsonbb") (v "0.1.4") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "jsonb") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "1371dg2kv2gma2k9vw3mz3m925790s2by26q7n06hk795v8cpkci")))
+
+(define-public crate-jsonbb-0.2.0 (c (n "jsonbb") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "jsonb") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "simd-json") (r "^0.13") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 0)))) (h "0fmp352rcdkn8src4n3mnw75njwxgi30shs06wabg102d7wf3awa")))
+

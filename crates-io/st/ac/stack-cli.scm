@@ -1,0 +1,8 @@
+(define-module (crates-io st ac stack-cli) #:use-module (crates-io))
+
+(define-public crate-stack-cli-0.1.0 (c (n "stack-cli") (v "0.1.0") (d (list (d (n "bat") (r "^0.22.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "select") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "0rldgzxjd89sxy9f41saxlg6a8lhjgsii1d346h48j57g4ph85yk")))
+
+(define-public crate-stack-cli-0.1.1 (c (n "stack-cli") (v "0.1.1") (d (list (d (n "bat") (r "^0.22.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "select") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "0sfm79hq67ifvgi22hbdbxjxf9n68xfi2x1cikmjc2c66ihacyvl")))
+
+(define-public crate-stack-cli-0.1.2 (c (n "stack-cli") (v "0.1.2") (d (list (d (n "bat") (r "^0.22.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0.25") (d #t) (k 0)) (d (n "htmlescape") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.7.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.15") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "select") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)))) (h "0w7k5pcnp8qynr3q72069hp2avja3fyr9kzcjpb1lp4bpxfrhyp7")))
+

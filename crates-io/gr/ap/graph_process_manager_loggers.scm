@@ -1,0 +1,32 @@
+(define-module (crates-io gr ap graph_process_manager_loggers) #:use-module (crates-io))
+
+(define-public crate-graph_process_manager_loggers-0.1.0 (c (n "graph_process_manager_loggers") (v "0.1.0") (d (list (d (n "graph_process_manager_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "02y5r2r4djq6hmalf4mbb8kkfj917hpcrzbfc1vqlwddp50gyfx1")))
+
+(define-public crate-graph_process_manager_loggers-0.1.1 (c (n "graph_process_manager_loggers") (v "0.1.1") (d (list (d (n "graph_process_manager_core") (r "^0.1.4") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "1mgpv40jnxkhyc8srfylfawc472s3x3ip07ks2h7f2qpxwzxnbhx")))
+
+(define-public crate-graph_process_manager_loggers-0.1.2 (c (n "graph_process_manager_loggers") (v "0.1.2") (d (list (d (n "graph_process_manager_core") (r "^0.1.6") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "0wzwia2qh2pjpv8iqf3ggpisjfnq86pvkdgckhn9c29qln22pzxx")))
+
+(define-public crate-graph_process_manager_loggers-0.1.3 (c (n "graph_process_manager_loggers") (v "0.1.3") (d (list (d (n "autour_core") (r "^0.1.1") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.6") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "0rv6amcv8wk13scgzhdl5f5lr3pmhcvnbzx8i41sydhdxhwm4i2m")))
+
+(define-public crate-graph_process_manager_loggers-0.1.4 (c (n "graph_process_manager_loggers") (v "0.1.4") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.6") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "105z01jx4s5d5cn8yri242id6jfgp5h37jgvrwhy42d8phlsi8zs")))
+
+(define-public crate-graph_process_manager_loggers-0.1.5 (c (n "graph_process_manager_loggers") (v "0.1.5") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.6") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "01nlirgmicrmwggsy53nmw5kvp3kjbp1n1i22wpha3nyjicv8xmd")))
+
+(define-public crate-graph_process_manager_loggers-0.1.6 (c (n "graph_process_manager_loggers") (v "0.1.6") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.7") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "14zk8bvqbbxnvm3cc3ng6xnp6mv6wqx1pkv0fjsqnwbmqhnqmzi4")))
+
+(define-public crate-graph_process_manager_loggers-0.1.7 (c (n "graph_process_manager_loggers") (v "0.1.7") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.7") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "07m7s9wn3b3f5iiwyyi9hvfillnidn3bw75ngvzjfy8lgaq01xbg")))
+
+(define-public crate-graph_process_manager_loggers-0.1.8 (c (n "graph_process_manager_loggers") (v "0.1.8") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.7") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "0f9hqdqva5fdp09braw2b6w9mwalbh3k9d3iykk4llcrvhr0zrds")))
+
+(define-public crate-graph_process_manager_loggers-0.1.9 (c (n "graph_process_manager_loggers") (v "0.1.9") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.9") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "0j6npxf5qdlj4nnpnzd4b6nq59hbjlcyx9vhmw967alhlv7hrp9d")))
+
+(define-public crate-graph_process_manager_loggers-0.1.10 (c (n "graph_process_manager_loggers") (v "0.1.10") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.9") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "1b3z07xjna63x0s24kypafi0fgfvqdnzfdr02as7y9mkiv9dsw6n")))
+
+(define-public crate-graph_process_manager_loggers-0.1.11 (c (n "graph_process_manager_loggers") (v "0.1.11") (d (list (d (n "autour_core") (r "^0.1.2") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.10") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "1f1kn621ix2v0zda50wns0wq98q0lrrhmcmby3j84y0jvq5v80h5")))
+
+(define-public crate-graph_process_manager_loggers-0.1.12 (c (n "graph_process_manager_loggers") (v "0.1.12") (d (list (d (n "autour_core") (r "^0.1.3") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.10") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "14ls7x6cdw8j4viw60zj27q7a00hqjg63cyrsfvn8z9w6dz1fj47")))
+
+(define-public crate-graph_process_manager_loggers-0.1.13 (c (n "graph_process_manager_loggers") (v "0.1.13") (d (list (d (n "autour_core") (r "^0.1.4") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.10") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "16ymjxlpfd7p2x9di2p1x3bs5l1ckqxx7qizj3n04zm2vc6x6j4f")))
+
+(define-public crate-graph_process_manager_loggers-0.1.14 (c (n "graph_process_manager_loggers") (v "0.1.14") (d (list (d (n "autour_core") (r "^0.1.10") (d #t) (k 0)) (d (n "graph_process_manager_core") (r "^0.1.10") (d #t) (k 0)) (d (n "graphviz_dot_builder") (r "^0.1.2") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)))) (h "1ffdl2bvis655znx5w10xppg0has952ax0zkmsqi35ssyib97alf")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mo la molasses) #:use-module (crates-io))
+
+(define-public crate-molasses-0.1.0 (c (n "molasses") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "digest") (r "^0.8") (d #t) (k 0)) (d (n "doc-comment") (r "^0.1") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.0-pre.1") (d #t) (k 0)) (d (n "hex") (r "^0.3") (d #t) (k 2)) (d (n "quickcheck") (r "^0.8") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^0.8") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "rand_core") (r "^0.3") (d #t) (k 0)) (d (n "ring") (r "^0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)) (d (n "x25519-dalek") (r "^0.4") (d #t) (k 0)))) (h "0mdl0pqy717kzwal7rxv5gywwiavbr4zrjj07642njglnkb2cj1n")))
+

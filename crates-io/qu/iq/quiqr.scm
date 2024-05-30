@@ -1,0 +1,8 @@
+(define-module (crates-io qu iq quiqr) #:use-module (crates-io))
+
+(define-public crate-quiqr-0.1.0 (c (n "quiqr") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "image") (r "^0.23.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "minifb") (r "^0.17.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "winres") (r "^0.1.11") (d #t) (t "cfg(windows)") (k 1)))) (h "1ky5jf9h9mjjl5pcl8ngldggqbd6gb9cpz2f5yrhjq267r1d5dmw")))
+
+(define-public crate-quiqr-0.1.1 (c (n "quiqr") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "image") (r "^0.23.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "minifb") (r "^0.17.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "winres") (r "^0.1.11") (d #t) (t "cfg(windows)") (k 1)))) (h "0ibynnrfcmqx0xdxiczs38x8wy5l82fxxxi77y6dh9ql2b96yw49")))
+
+(define-public crate-quiqr-0.1.2 (c (n "quiqr") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "image") (r "^0.23.8") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "minifb") (r "^0.17.0") (d #t) (k 0)) (d (n "qrcode") (r "^0.12.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "winres") (r "^0.1.11") (d #t) (t "cfg(windows)") (k 1)))) (h "0lm9zr06jzcvwzwvjfy82va02hczd1qw406dxdc2rh03nri6xsac")))
+

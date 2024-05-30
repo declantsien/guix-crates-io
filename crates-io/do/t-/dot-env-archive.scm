@@ -1,0 +1,4 @@
+(define-module (crates-io do t- dot-env-archive) #:use-module (crates-io))
+
+(define-public crate-dot-env-archive-0.1.0 (c (n "dot-env-archive") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "chrono-tz") (r "^0.8.5") (d #t) (k 0)) (d (n "clap") (r "^4.4.13") (f (quote ("derive" "env" "cargo"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "globmatch") (r "^0.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17.7") (d #t) (k 0)) (d (n "rusqlite") (r "^0.30.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt-multi-thread" "fs" "io-util"))) (d #t) (k 0)) (d (n "ulid") (r "^1.1.0") (d #t) (k 0)))) (h "08fxbivkg2r6mn8q4fwhdcripdxa7pwx82v6ddjww0cj09mmfch4")))
+

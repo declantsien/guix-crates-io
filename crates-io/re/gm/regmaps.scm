@@ -1,0 +1,4 @@
+(define-module (crates-io re gm regmaps) #:use-module (crates-io))
+
+(define-public crate-regmaps-0.0.0 (c (n "regmaps") (v "0.0.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.18") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "rust-embed") (r "^5.6.0") (f (quote ("debug-embed" "interpolate-folder-path"))) (d #t) (k 0)) (d (n "rustfmt-nightly") (r "^1.4.21") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.14") (d #t) (k 0)) (d (n "svd-parser") (r "^0.9.0") (d #t) (k 0)) (d (n "tera") (r "^1.5.0") (d #t) (k 0)))) (h "1fwx1vb80fa25x7ffddw7xw05blcn64v4p12a3npapav12ccg570") (f (quote (("rustfmt" "rustfmt-nightly") ("default"))))))
+

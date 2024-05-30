@@ -1,0 +1,8 @@
+(define-module (crates-io fu rd furdb) #:use-module (crates-io))
+
+(define-public crate-furdb-0.1.0 (c (n "furdb") (v "0.1.0") (d (list (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "10vhyl3amxmyz0ir4hjmaf0mimjxn3595mpybwq51b1x6ym763cr") (y #t)))
+
+(define-public crate-furdb-0.1.1 (c (n "furdb") (v "0.1.1") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "furdb_core") (r "^0.1.1") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0qa3m3hfxh7bpa8g6v1zsa71gla3hvqqg12gpq3dd98v4jvi0w9z") (y #t)))
+
+(define-public crate-furdb-0.1.2-alpha (c (n "furdb") (v "0.1.2-alpha") (d (list (d (n "actix-web") (r "^4") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.34") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.2.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "17nk6k78xarlaccgb0v4yi164h44l43mfnjfw9lfy2wc5k03xmw1")))
+

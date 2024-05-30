@@ -1,0 +1,8 @@
+(define-module (crates-io st ar stardust-xr-gravity) #:use-module (crates-io))
+
+(define-public crate-stardust-xr-gravity-0.1.0 (c (n "stardust-xr-gravity") (v "0.1.0") (d (list (d (n "clap") (r "^3.2.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glam") (r "^0.21.3") (f (quote ("mint"))) (d #t) (k 0)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (f (quote ("process"))) (k 0)) (d (n "stardust-xr-fusion") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "ustr") (r "^0.9.0") (d #t) (k 0)))) (h "152b8l7aj7yvr8anqya60khi4x1frr4iyqbcc48sniblsnqcrlyh")))
+
+(define-public crate-stardust-xr-gravity-0.1.1 (c (n "stardust-xr-gravity") (v "0.1.1") (d (list (d (n "clap") (r "^3.2.22") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glam") (r "^0.21.3") (f (quote ("mint"))) (d #t) (k 0)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (f (quote ("process"))) (k 0)) (d (n "stardust-xr-fusion") (r "^0.14.1") (d #t) (k 0)) (d (n "tokio") (r "^1.21.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "ustr") (r "^0.9.0") (d #t) (k 0)))) (h "01amvgi04x2pa7ds8rwvn55c5i31sr9l5a23pkf84zh0axzxmdlk")))
+
+(define-public crate-stardust-xr-gravity-0.3.0 (c (n "stardust-xr-gravity") (v "0.3.0") (d (list (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "glam") (r "^0.22.0") (f (quote ("mint"))) (d #t) (k 0)) (d (n "mint") (r "^0.5.9") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (f (quote ("process"))) (k 0)) (d (n "stardust-xr-fusion") (r "^0.25.3") (d #t) (k 0)) (d (n "tokio") (r "^1.22.0") (f (quote ("rt"))) (d #t) (k 0)) (d (n "ustr") (r "^0.9.0") (d #t) (k 0)))) (h "1ak99wacc3ripvjs8p3lbblf8n6bcg8rqqc5q3pd4r7dc8qqw98v")))
+

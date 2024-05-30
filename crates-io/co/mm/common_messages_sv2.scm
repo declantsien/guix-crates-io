@@ -1,0 +1,16 @@
+(define-module (crates-io co mm common_messages_sv2) #:use-module (crates-io))
+
+(define-public crate-common_messages_sv2-0.1.0 (c (n "common_messages_sv2") (v "0.1.0") (d (list (d (n "binary_sv2") (r "^0.1.0") (d #t) (k 0)) (d (n "const_sv2") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)))) (h "056cg0rv5lm93dqksv0djz7f2ff806xh7k88ji86gf4i7001q9sv") (f (quote (("with_serde" "binary_sv2/with_serde" "serde"))))))
+
+(define-public crate-common_messages_sv2-0.1.1 (c (n "common_messages_sv2") (v "0.1.1") (d (list (d (n "binary_sv2") (r "^0.1.2") (d #t) (k 0)) (d (n "const_sv2") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)))) (h "018idgixblsxadazzjs5kz4qmv7bwc4yb41psq1dd46ypmcrbvgy") (f (quote (("with_serde" "binary_sv2/with_serde" "serde"))))))
+
+(define-public crate-common_messages_sv2-0.1.3 (c (n "common_messages_sv2") (v "0.1.3") (d (list (d (n "binary_sv2") (r "^0.1.3") (d #t) (k 0)) (d (n "const_sv2") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)))) (h "0cp8wv2ga4y1wngm4lcr33m82f8qhzkgr0hnvrjik65dsfb73y6c") (f (quote (("with_serde" "binary_sv2/with_serde" "serde"))))))
+
+(define-public crate-common_messages_sv2-0.1.4 (c (n "common_messages_sv2") (v "0.1.4") (d (list (d (n "binary_sv2") (r "0.1.*") (d #t) (k 0)) (d (n "const_sv2") (r "0.1.*") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (o #t) (d #t) (k 0)) (d (n "quickcheck_macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)))) (h "1dmrkq9cdff46jd1wbynlv5n4vmmmi3f6qjvkxiww5124sd5dxby") (f (quote (("with_serde" "binary_sv2/with_serde" "serde") ("prop_test" "quickcheck"))))))
+
+(define-public crate-common_messages_sv2-0.1.5 (c (n "common_messages_sv2") (v "0.1.5") (d (list (d (n "binary_sv2") (r "^0.1.5") (d #t) (k 0)) (d (n "const_sv2") (r "^0.1.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (o #t) (d #t) (k 0)) (d (n "quickcheck_macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)) (d (n "serde_repr") (r "^0.1.10") (o #t) (d #t) (k 0)))) (h "1csvvpb324jswwbdqa0lsl787i7rza1fn0ifj4hnrmqxvgiqxmwf") (f (quote (("with_serde" "binary_sv2/with_serde" "serde" "serde_repr") ("prop_test" "quickcheck"))))))
+
+(define-public crate-common_messages_sv2-0.1.7 (c (n "common_messages_sv2") (v "0.1.7") (d (list (d (n "binary_sv2") (r "^0.1.5") (d #t) (k 0)) (d (n "const_sv2") (r "^0.1.1") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (o #t) (d #t) (k 0)) (d (n "quickcheck_macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)) (d (n "serde_repr") (r "^0.1.10") (o #t) (d #t) (k 0)))) (h "1qymrqjp4minky588xsilda20y39vmlmq59m63lpc3fljxprph2k") (f (quote (("with_serde" "binary_sv2/with_serde" "serde" "serde_repr") ("prop_test" "quickcheck"))))))
+
+(define-public crate-common_messages_sv2-1.0.0 (c (n "common_messages_sv2") (v "1.0.0") (d (list (d (n "binary_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "const_sv2") (r "^1.0.0") (d #t) (k 0)) (d (n "quickcheck") (r "^1.0.3") (o #t) (d #t) (k 0)) (d (n "quickcheck_macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.89") (o #t) (k 0)) (d (n "serde_repr") (r "^0.1.10") (o #t) (d #t) (k 0)))) (h "1r5jllsg19w653pn249g62ybzmrf9s6q94na2cjm1bic1p1ps03p") (f (quote (("with_serde" "binary_sv2/with_serde" "serde" "serde_repr") ("prop_test" "quickcheck"))))))
+

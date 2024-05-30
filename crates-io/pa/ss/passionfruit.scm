@@ -1,0 +1,6 @@
+(define-module (crates-io pa ss passionfruit) #:use-module (crates-io))
+
+(define-public crate-passionfruit-1.0.0 (c (n "passionfruit") (v "1.0.0") (d (list (d (n "bindet") (r "^0.3.2") (f (quote ("mime"))) (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "18662r0hkfwjbpwhmqzqpl5mxv4jnjvkrkdp9cqsisq7s8i7qi79") (r "1.62.1")))
+
+(define-public crate-passionfruit-1.1.0 (c (n "passionfruit") (v "1.1.0") (d (list (d (n "bindet") (r "^0.3.2") (f (quote ("mime"))) (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0va5fcvhfc7krrajykkrk59s5zqk9xjq653c8fj0lvhr9izcx084") (r "1.62.1")))
+

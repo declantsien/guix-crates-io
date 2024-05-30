@@ -1,0 +1,12 @@
+(define-module (crates-io wa sm wasm-typescript-definition) #:use-module (crates-io))
+
+(define-public crate-wasm-typescript-definition-0.1.0 (c (n "wasm-typescript-definition") (v "0.1.0") (d (list (d (n "quote") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 2)) (d (n "serde_derive_internals") (r "^0.23") (d #t) (k 0)) (d (n "syn") (r "= 0.13") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)))) (h "1p8csyqzwsymxvi02q0khwz3adnx5y69ic3pim12sx478fb6scyy")))
+
+(define-public crate-wasm-typescript-definition-0.1.1 (c (n "wasm-typescript-definition") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.80") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^0.15") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 2)))) (h "1xnn44v5n6522n0lvdh9jil2nifd8p41k1r0y7fznjixyn9qz0ac")))
+
+(define-public crate-wasm-typescript-definition-0.1.2 (c (n "wasm-typescript-definition") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.80") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^0.15") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 2)))) (h "1wjqwqyfijiilnnj75hm08vc97grayhlc7wbm8li007qxnsag19a")))
+
+(define-public crate-wasm-typescript-definition-0.1.3 (c (n "wasm-typescript-definition") (v "0.1.3") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.80") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^0.15") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 2)))) (h "1kddlcnj0j8s98flzqhbfqynwzxc872n1s57vq83g636axgzsjmc")))
+
+(define-public crate-wasm-typescript-definition-0.1.4 (c (n "wasm-typescript-definition") (v "0.1.4") (d (list (d (n "proc-macro2") (r "^0.4") (d #t) (k 0)) (d (n "quote") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.24") (d #t) (k 0)) (d (n "syn") (r "^0.15") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 2)))) (h "1rd2pjns0r7f7wjjsxqxch0rh70qki8mlmxbzs3qy6w8l8j52inq")))
+

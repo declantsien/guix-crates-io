@@ -1,0 +1,4 @@
+(define-module (crates-io gl og glog) #:use-module (crates-io))
+
+(define-public crate-glog-0.1.0 (c (n "glog") (v "0.1.0") (d (list (d (n "backtrace") (r "^0.3.60") (d #t) (k 0)) (d (n "bimap") (r "^0.6.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (d #t) (k 0)) (d (n "gethostname") (r "^0.2.1") (d #t) (k 0)) (d (n "if_empty") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (f (quote ("std"))) (d #t) (k 0)) (d (n "nix") (r "^0.21.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "termcolor") (r "~1.1") (d #t) (k 0)) (d (n "thread_local") (r "~1.0") (d #t) (k 0)) (d (n "whoami") (r "^1.1.2") (d #t) (k 0)) (d (n "windows") (r "^0.11.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "windows") (r "^0.11.0") (d #t) (t "cfg(windows)") (k 1)))) (h "14l4cd6glgd77l90pp33giihpklnvqjxg1s1xw88b41m434vc6lh")))
+

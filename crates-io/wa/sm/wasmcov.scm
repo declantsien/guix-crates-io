@@ -1,0 +1,16 @@
+(define-module (crates-io wa sm wasmcov) #:use-module (crates-io))
+
+(define-public crate-wasmcov-0.0.1 (c (n "wasmcov") (v "0.0.1") (d (list (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "01pimigz3liw0psx5gasxsdk1xks95n7p5sa48maddkfvidrlygx")))
+
+(define-public crate-wasmcov-0.0.2 (c (n "wasmcov") (v "0.0.2") (d (list (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0pw831ywdwcjs2d2jp2vq4656p38z5x0kkaramipa40c2cxnb7h5")))
+
+(define-public crate-wasmcov-0.0.3 (c (n "wasmcov") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "near-sdk") (r "^4.1.1") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0aa915317m1kk48m468wlkvfvdb9s961vh35si5wq9j8mdxkl76a") (s 2) (e (quote (("near" "dep:near-sdk"))))))
+
+(define-public crate-wasmcov-0.0.4 (c (n "wasmcov") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "near-sdk") (r "^4.1.1") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0zfch8lr7kk5s4bgnmr8kgy028wr63g7ckxm4m96lrab5q7xd5dy") (s 2) (e (quote (("near" "dep:near-sdk"))))))
+
+(define-public crate-wasmcov-0.0.5 (c (n "wasmcov") (v "0.0.5") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "near-sdk") (r "^4.1.1") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "01vnvhgw1dnxf14mbcv1x5j4h0s6niw9d1s71wgjl2kaycr0wsr7") (s 2) (e (quote (("near" "dep:near-sdk"))))))
+
+(define-public crate-wasmcov-0.0.6 (c (n "wasmcov") (v "0.0.6") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "near-sdk") (r "^4.1.1") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1c90bwkmafd1i9hjbyjzr21gkwzf11fz5kndjgnz7a76k0cbm33f") (s 2) (e (quote (("near" "dep:near-sdk"))))))
+
+(define-public crate-wasmcov-0.1.0 (c (n "wasmcov") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "near-sdk") (r "^4.1.1") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1xsz4isz2834vm960kcp7j6hmdsqjw7qz82nhbc7vxgwp7a035w0") (s 2) (e (quote (("near" "dep:near-sdk"))))))
+

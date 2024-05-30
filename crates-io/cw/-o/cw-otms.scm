@@ -1,0 +1,4 @@
+(define-module (crates-io cw -o cw-otms) #:use-module (crates-io))
+
+(define-public crate-cw-otms-0.1.0 (c (n "cw-otms") (v "0.1.0") (d (list (d (n "cosmwasm-schema") (r "^1.1.5") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1.5") (d #t) (k 0)) (d (n "cosmwasm-storage") (r "^1.1.3") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.16.2") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^1.0.1") (d #t) (k 0)) (d (n "cw2") (r "^1.0.1") (d #t) (k 0)) (d (n "cw20") (r "^1.0.0") (d #t) (k 0)) (d (n "cw20-base") (r "^1.0.0") (f (quote ("library"))) (d #t) (k 2)) (d (n "schemars") (r "^0.8.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0rnachffh10gq4jdvmsz70yj17n6m759lkzsgmv7xc9v9xx8pfyd") (f (quote (("library") ("backtraces" "cosmwasm-std/backtraces"))))))
+

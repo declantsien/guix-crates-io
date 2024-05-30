@@ -1,0 +1,4 @@
+(define-module (crates-io ti me timegraph-identity) #:use-module (crates-io))
+
+(define-public crate-timegraph-identity-0.1.3 (c (n "timegraph-identity") (v "0.1.3") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "bs58") (r "^0.4") (d #t) (k 0)) (d (n "getrandom") (r "^0.2.8") (f (quote ("js"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "multibase") (r "^0.8") (d #t) (k 0)) (d (n "rosetta-crypto") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xdr") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (d #t) (k 0)))) (h "1hvfl2qlwb02na7nkx4idw84z7nz2i5s9jqd1ny7562h9826g0rd")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io on eb onebm) #:use-module (crates-io))
+
+(define-public crate-onebm-0.0.1 (c (n "onebm") (v "0.0.1") (d (list (d (n "argh") (r "^0.1.7") (d #t) (k 0)) (d (n "base16ct") (r "^0.1.1") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "minisign-verify") (r "^0.2.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("blocking" "json" "gzip"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0f2iqikz347wfwg5wqp92pya06qv2n77ix8hwc93vzznbillskv6")))
+

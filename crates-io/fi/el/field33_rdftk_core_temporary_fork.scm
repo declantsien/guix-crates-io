@@ -1,0 +1,4 @@
+(define-module (crates-io fi el field33_rdftk_core_temporary_fork) #:use-module (crates-io))
+
+(define-public crate-field33_rdftk_core_temporary_fork-0.3.1 (c (n "field33_rdftk_core_temporary_fork") (v "0.3.1") (d (list (d (n "bimap") (r "^0.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "field33_rdftk_iri_temporary_fork") (r "^0.1") (d #t) (k 0)) (d (n "field33_rdftk_names_temporary_fork") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "parameterized") (r "^0.3.1") (d #t) (k 2)) (d (n "pest") (r "^2.1") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1") (d #t) (k 0)) (d (n "unique_id") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1q59xwj5b7bfy8vcd5w821ln4l3qhwgmdwghcldl6dmypi1h7m0b") (f (quote (("rdf_star") ("n3_formulae") ("default" "chrono_types" "n3_formulae" "rdf_star") ("chrono_types" "chrono"))))))
+

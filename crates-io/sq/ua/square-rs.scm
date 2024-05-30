@@ -1,0 +1,6 @@
+(define-module (crates-io sq ua square-rs) #:use-module (crates-io))
+
+(define-public crate-square-rs-0.1.0 (c (n "square-rs") (v "0.1.0") (d (list (d (n "actix-cors") (r "^0.5.0") (d #t) (k 2)) (d (n "actix-files") (r "^0.5.0") (d #t) (k 2)) (d (n "actix-web") (r "^3") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.0") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "01rx4vcacbxqx3i9h8i1ksq3rkmabifwxkxg339ilv07v9nanizj")))
+
+(define-public crate-square-rs-0.2.0 (c (n "square-rs") (v "0.2.0") (d (list (d (n "actix-cors") (r "^0.5.0") (d #t) (k 2)) (d (n "actix-files") (r "^0.5.0") (d #t) (k 2)) (d (n "actix-web") (r "^3") (d #t) (k 2)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 2)) (d (n "reqwest") (r "^0.10.0") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "02h6g8kwi799vhsbjhcjsphjm7vd6s6q4nk4vcw61fhcn3pjda64")))
+

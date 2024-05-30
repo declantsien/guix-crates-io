@@ -1,0 +1,4 @@
+(define-module (crates-io sk et sketchbook-wgpu) #:use-module (crates-io))
+
+(define-public crate-sketchbook-wgpu-0.0.1 (c (n "sketchbook-wgpu") (v "0.0.1") (d (list (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "half") (r "^1.8") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "palette") (r "^0.6") (d #t) (k 0)) (d (n "pollster") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "ringbuf") (r "^0.2") (d #t) (k 0)) (d (n "sketchbook") (r "^0.0.1") (f (quote ("std" "aspect_draw" "aspect_update" "aspect_keyboard" "aspect_mouse" "derive" "ream_single" "ream_parallel"))) (d #t) (k 0)) (d (n "wgpu") (r "^0.12") (d #t) (k 0)) (d (n "winit") (r "^0.26") (d #t) (k 0)))) (h "0chpwnybcffrqf82fcnwjyzi1k0k1j8rzg3ia90g1k8sssl7bfyc")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io ac ti actix-request-identifier) #:use-module (crates-io))
+
+(define-public crate-actix-request-identifier-0.1.0 (c (n "actix-request-identifier") (v "0.1.0") (d (list (d (n "actix-rt") (r "^1.1.0") (d #t) (k 2)) (d (n "actix-web") (r "^2.0.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (o #t) (k 0)))) (h "0ylqzyc5x5h1l7h558jz92mbjnk41p3gp62c1y0wvyzn6lq8mphc") (f (quote (("uuid-generator" "uuid") ("default" "uuid-generator"))))))
+
+(define-public crate-actix-request-identifier-0.2.0 (c (n "actix-request-identifier") (v "0.2.0") (d (list (d (n "actix-rt") (r "^1.1.0") (d #t) (k 2)) (d (n "actix-web") (r "^3.0.0") (k 0)) (d (n "bytes") (r "^0.5.4") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (o #t) (k 0)))) (h "0nmzphipys2p1drj48bz0ai0df45806bqfhpd7f84c2mr61127m8") (f (quote (("uuid-generator" "uuid") ("default" "uuid-generator"))))))
+
+(define-public crate-actix-request-identifier-4.0.0 (c (n "actix-request-identifier") (v "4.0.0") (d (list (d (n "actix-web") (r "^4.1.0") (k 0)) (d (n "actix-web") (r "^4.1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.2.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4"))) (o #t) (k 0)))) (h "00rj4ws4d48ry1qh5bgz4lhp0h9pbs3hlcf1f29wazykwri6hjvs") (f (quote (("uuid-generator" "uuid") ("default" "uuid-generator"))))))
+
+(define-public crate-actix-request-identifier-4.1.0 (c (n "actix-request-identifier") (v "4.1.0") (d (list (d (n "actix-web") (r "^4.1.0") (k 0)) (d (n "actix-web") (r "^4.1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.2.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "uuid") (r "^1.1.2") (f (quote ("v4"))) (o #t) (k 0)))) (h "0mvhkhxfaf1jx0rq90x93717v7x5jd1fz9cxyf6bi5v2h1ydw87n") (f (quote (("uuid-generator" "uuid") ("default" "uuid-generator"))))))
+
+(define-public crate-actix-request-identifier-4.2.0 (c (n "actix-request-identifier") (v "4.2.0") (d (list (d (n "actix-web") (r "^4.1.0") (k 0)) (d (n "actix-web") (r "^4.1.0") (d #t) (k 2)) (d (n "bytes") (r "^1.2.1") (d #t) (k 2)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (o #t) (k 0)))) (h "0rj1qf2a62c841bpfjmlw3rr1vavqwc3fsh1a4j2l9zm2ifn26wh") (f (quote (("uuid-v7-generator" "uuid/v7" "uuid/std") ("uuid-generator" "uuid/v4") ("default" "uuid-generator"))))))
+

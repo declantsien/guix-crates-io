@@ -1,0 +1,12 @@
+(define-module (crates-io k8 -o k8-obj-app) #:use-module (crates-io))
+
+(define-public crate-k8-obj-app-0.1.0 (c (n "k8-obj-app") (v "0.1.0") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "k8-obj-core") (r "^0.1.0") (d #t) (k 0)) (d (n "k8-obj-metadata") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4.1") (d #t) (k 0)))) (h "1wfby7jz4w8sdb7003a6zxm4h9b9fnhl1adcmvz5lczih7yxpfh8")))
+
+(define-public crate-k8-obj-app-1.0.0 (c (n "k8-obj-app") (v "1.0.0") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "k8-obj-core") (r "^1.0.0") (d #t) (k 0)) (d (n "k8-obj-metadata") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4.1") (d #t) (k 0)))) (h "1y3zx4xcsany1mh9sz7scrkncy2c006fb0nabn78lqr5g7xc8qpa")))
+
+(define-public crate-k8-obj-app-1.1.0 (c (n "k8-obj-app") (v "1.1.0") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "k8-obj-core") (r "^1.1.0") (d #t) (k 0)) (d (n "k8-obj-metadata") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4.1") (d #t) (k 0)))) (h "1ggdh8hx6p9b5a6q5wb5q2261l0p2j5b13mhv0zpv10dvga0106m")))
+
+(define-public crate-k8-obj-app-1.1.1 (c (n "k8-obj-app") (v "1.1.1") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "k8-obj-core") (r "^1.1.0") (d #t) (k 0)) (d (n "k8-obj-metadata") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4.1") (d #t) (k 0)))) (h "0h5hvr31wdv3v2p0c77n4lzikkp3n363yps5q5x4rc2b4h48z4n1")))
+
+(define-public crate-k8-obj-app-2.0.0 (c (n "k8-obj-app") (v "2.0.0") (d (list (d (n "http") (r "^0.1.15") (d #t) (k 0)) (d (n "k8-obj-core") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)) (d (n "serde_qs") (r "^0.4.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.19") (d #t) (k 0)))) (h "06c9q5f07mk7dxfl6jvva0q9dhhv3da8w4k8gwhwkpccvlsbafm1")))
+

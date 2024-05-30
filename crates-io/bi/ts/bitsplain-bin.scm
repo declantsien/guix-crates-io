@@ -1,0 +1,4 @@
+(define-module (crates-io bi ts bitsplain-bin) #:use-module (crates-io))
+
+(define-public crate-bitsplain-bin-0.1.0-alpha.1 (c (n "bitsplain-bin") (v "0.1.0-alpha.1") (d (list (d (n "bitsplain") (r "^0.1.0-alpha.1") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "config") (r "^0.13.3") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "gtk") (r "^0.5.5") (d #t) (k 0) (p "gtk4")) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "human-size") (r "^0.4.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pretty") (r "^0.11.3") (f (quote ("termcolor"))) (d #t) (k 0)) (d (n "print_bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "relm4") (r "^0.5.0-rc.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "termion") (r "^2.0.1") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (f (quote ("formatting"))) (d #t) (k 0)))) (h "0574hhsn008h6z2alybqnm486lj2kmlfn6s525nbr0ykymn6103v")))
+

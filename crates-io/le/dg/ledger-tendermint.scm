@@ -1,0 +1,8 @@
+(define-module (crates-io le dg ledger-tendermint) #:use-module (crates-io))
+
+(define-public crate-ledger-tendermint-0.3.1 (c (n "ledger-tendermint") (v "0.3.1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "ed25519-dalek") (r "^0.9.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "ledger") (r "^0.2.0") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 2)))) (h "017nln4vq4vrd4hl6sc91pfw8lsf2d9psxb2d58zvvnd9xlpasw9")))
+
+(define-public crate-ledger-tendermint-0.3.2 (c (n "ledger-tendermint") (v "0.3.2") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "ed25519-dalek") (r "^1.0.0-pre.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "ledger") (r "^0.2.3") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 2)))) (h "1yq337x1v6dq30y53wgcmy55ssng6d05j2nc5j89s9pwdjhijpcs")))
+
+(define-public crate-ledger-tendermint-0.4.0 (c (n "ledger-tendermint") (v "0.4.0") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "ed25519-dalek") (r "^1.0.0-pre.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "ledger") (r "^0.2.5") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 2)) (d (n "signatory") (r "^0.11") (f (quote ("digest" "ecdsa" "ed25519"))) (d #t) (k 0)))) (h "08wsz4bamkpfp3lz9daf86f7w65f31gyv7lkf9ypshzyy35031vr")))
+

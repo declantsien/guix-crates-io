@@ -1,0 +1,42 @@
+(define-module (crates-io cl ap clap_complete_nushell) #:use-module (crates-io))
+
+(define-public crate-clap_complete_nushell-0.1.0 (c (n "clap_complete_nushell") (v "0.1.0") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0k6fl8ddf6h6pa1qri1d9fpi3zlrwyn0qkvmqh3yzwds2fppmrb7")))
+
+(define-public crate-clap_complete_nushell-0.1.1 (c (n "clap_complete_nushell") (v "0.1.1") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "01333dqy94h2f34f12dbmp4irg11545r6ha7qa6637gz8ikbd9mk")))
+
+(define-public crate-clap_complete_nushell-0.1.2 (c (n "clap_complete_nushell") (v "0.1.2") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "190kdcblmm0byxni985ah584pg1ysgcn9v8yj07m5zndpc3ysiji")))
+
+(define-public crate-clap_complete_nushell-0.1.3 (c (n "clap_complete_nushell") (v "0.1.3") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "1pzji9aw2nqivrj87mx6zpkx66jvncp0m7fj4klcb2d0p5y9f2x2")))
+
+(define-public crate-clap_complete_nushell-0.1.4 (c (n "clap_complete_nushell") (v "0.1.4") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0yi0ds4m9qs7kddwvsyzvm3hsqsr5sja5k79a3ql1fspak26rrar")))
+
+(define-public crate-clap_complete_nushell-0.1.5 (c (n "clap_complete_nushell") (v "0.1.5") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "07r6zlxfa6ifaacxj2hc0zglw1ws64zsqgxr7k0ryfhaql3rcvb0")))
+
+(define-public crate-clap_complete_nushell-0.1.6 (c (n "clap_complete_nushell") (v "0.1.6") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "060fzni7bl4ldw7nbhxsn4q82pdc62dlhvxf7lijahakv3l88j24")))
+
+(define-public crate-clap_complete_nushell-0.1.7 (c (n "clap_complete_nushell") (v "0.1.7") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0i1251m6hzzqycss53j35r5dblbr8480qjzgczsm3xnb63klg9bq")))
+
+(define-public crate-clap_complete_nushell-0.1.8 (c (n "clap_complete_nushell") (v "0.1.8") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0fn1z87b74ndiyg20i0lncl2kkc7lkqz362rw6lhpgil6zzywv4m")))
+
+(define-public crate-clap_complete_nushell-0.1.9 (c (n "clap_complete_nushell") (v "0.1.9") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0dr4wf4i8yf6mid9zgxvry9nyhp236crqd63s4ldn291z02rpbvn")))
+
+(define-public crate-clap_complete_nushell-0.1.10 (c (n "clap_complete_nushell") (v "0.1.10") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0b15s7d9xpqjr1fpj8lmcv6nhgbhxvm0rzbh3cavv0xawvsl3yn7")))
+
+(define-public crate-clap_complete_nushell-0.1.11 (c (n "clap_complete_nushell") (v "0.1.11") (d (list (d (n "clap") (r "^4.0") (k 0)) (d (n "clap_complete") (r "^4.0") (d #t) (k 0)) (d (n "nu-cli") (r "^0.80.0") (d #t) (k 2)) (d (n "nu-command") (r "^0.80.0") (d #t) (k 2)) (d (n "nu-parser") (r "^0.80.0") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.80.0") (d #t) (k 2)) (d (n "nu-test-support") (r "^0.80.0") (d #t) (k 2)) (d (n "reedline") (r "^0.19.1") (d #t) (k 2)) (d (n "snapbox") (r "^0.4") (f (quote ("diff"))) (d #t) (k 2)))) (h "0vp6vk6zzkcwkr8b29b1xbmnip1lq1dgphzfsb24gvhq3a5vq0jx")))
+
+(define-public crate-clap_complete_nushell-4.3.0 (c (n "clap_complete_nushell") (v "4.3.0") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "nu-cli") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-command") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-parser") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-test-support") (r "^0.78.0") (d #t) (k 2)) (d (n "reedline") (r "^0.18.0") (d #t) (k 2)) (d (n "snapbox") (r "^0.4.10") (f (quote ("diff"))) (d #t) (k 2)))) (h "1z3v3d261j3kqlavahc8srw6y7biag8afzkvpq774a0lh26628f9") (r "1.64.0")))
+
+(define-public crate-clap_complete_nushell-4.3.1 (c (n "clap_complete_nushell") (v "4.3.1") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "nu-cli") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-command") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-parser") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.78.0") (d #t) (k 2)) (d (n "nu-test-support") (r "^0.78.0") (d #t) (k 2)) (d (n "reedline") (r "^0.18.0") (d #t) (k 2)) (d (n "snapbox") (r "^0.4.11") (f (quote ("diff"))) (d #t) (k 2)))) (h "1z0xangvmjrgr5q6dl4r0yydb5c86hbh4grjy3r0xk4lmh1j15g6") (r "1.64.0")))
+
+(define-public crate-clap_complete_nushell-4.3.2 (c (n "clap_complete_nushell") (v "4.3.2") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "completest") (r "^0.0.17") (f (quote ("nu"))) (d #t) (k 2)) (d (n "snapbox") (r "^0.4.11") (f (quote ("diff" "examples" "path"))) (d #t) (k 2)))) (h "11zxh3753zsjh32y92ff7p3hpvasrzm4hnxqlvsj6czdbsshx6rs") (r "1.64.0")))
+
+(define-public crate-clap_complete_nushell-4.4.0 (c (n "clap_complete_nushell") (v "4.4.0") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "completest") (r "^0.0.17") (f (quote ("nu"))) (d #t) (k 2)) (d (n "snapbox") (r "^0.4.11") (f (quote ("diff" "examples" "path"))) (d #t) (k 2)))) (h "05cd4p05p9k1dm6dnm4yh3z10riddakxpjsmmvvyjy4jrv3r6w3q") (r "1.70.0")))
+
+(define-public crate-clap_complete_nushell-4.4.1 (c (n "clap_complete_nushell") (v "4.4.1") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "completest") (r "^0.0.20") (f (quote ("nu"))) (d #t) (k 2)) (d (n "snapbox") (r "^0.4.12") (f (quote ("diff" "examples" "path"))) (d #t) (k 2)))) (h "1zn31p32p3r3dnah66q5984ws81qwi1sxn7wzcgsrah8nf72ciyz") (r "1.70.0")))
+
+(define-public crate-clap_complete_nushell-4.4.2 (c (n "clap_complete_nushell") (v "4.4.2") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "completest") (r "^0.1.0") (f (quote ("nu"))) (d #t) (k 2)) (d (n "snapbox") (r "^0.4.13") (f (quote ("diff" "examples" "path"))) (d #t) (k 2)))) (h "0c8cxng6zkc7fg1nm0ap1m6hglx2pbl9r0ggscsrc5qzgq6zg2wl") (r "1.70.0")))
+
+(define-public crate-clap_complete_nushell-4.5.0 (c (n "clap_complete_nushell") (v "4.5.0") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "completest") (r "^0.4.0") (d #t) (k 2)) (d (n "completest-nu") (r "^0.4.0") (d #t) (k 2)) (d (n "snapbox") (r "^0.4.16") (f (quote ("diff" "examples" "path"))) (d #t) (k 2)))) (h "15g28nmn21ma4adyashgnnhnqz7jv93w1gdkwh856q11qg3qmkcj") (r "1.74")))
+
+(define-public crate-clap_complete_nushell-4.5.1 (c (n "clap_complete_nushell") (v "4.5.1") (d (list (d (n "clap") (r "^4.0.0") (f (quote ("std"))) (k 0)) (d (n "clap") (r "^4.0.0") (f (quote ("std" "help"))) (k 2)) (d (n "clap_complete") (r "^4.0.0") (d #t) (k 0)) (d (n "completest") (r "^0.4.0") (d #t) (k 2)) (d (n "completest-nu") (r "^0.4.0") (d #t) (k 2)) (d (n "snapbox") (r "^0.5.0") (f (quote ("diff" "examples" "path"))) (d #t) (k 2)))) (h "1dm7wsxvdr2w98lp03220x4p2yafbv91g49380hdzrvc0a7f9l40") (r "1.74")))
+

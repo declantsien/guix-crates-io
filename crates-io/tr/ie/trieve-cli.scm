@@ -1,0 +1,4 @@
+(define-module (crates-io tr ie trieve-cli) #:use-module (crates-io))
+
+(define-public crate-trieve-cli-0.1.0 (c (n "trieve-cli") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "confy") (r "^0.6.1") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "inquire") (r "^0.7.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.152") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (f (quote ("json"))) (d #t) (k 0)))) (h "0v5mzdm1i7lxak66kxp6qm21yz5nixk1mbyprpyl5zpccdllqg5v")))
+

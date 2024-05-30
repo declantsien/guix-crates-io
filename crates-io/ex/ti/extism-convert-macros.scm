@@ -1,0 +1,8 @@
+(define-module (crates-io ex ti extism-convert-macros) #:use-module (crates-io))
+
+(define-public crate-extism-convert-macros-1.1.0 (c (n "extism-convert-macros") (v "1.1.0") (d (list (d (n "manyhow") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^3.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "0zhssnplxnxn54d6k4gci1spw13yn7d9dpk811svfil30l6cr46i") (f (quote (("extism-pdk-path") ("extism-path"))))))
+
+(define-public crate-extism-convert-macros-1.2.0 (c (n "extism-convert-macros") (v "1.2.0") (d (list (d (n "manyhow") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^3.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "19kshn44fyr1ylr6mc5by5dwjai2b27az77rpr275j000nbcz72i") (f (quote (("extism-pdk-path") ("extism-path"))))))
+
+(define-public crate-extism-convert-macros-1.3.0 (c (n "extism-convert-macros") (v "1.3.0") (d (list (d (n "manyhow") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^3.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("derive"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "1q8z13q1gb14nwpvd4jaq66v058wnw9vya1kcd4f61m4pnk2sm1g") (f (quote (("extism-pdk-path") ("extism-path"))))))
+

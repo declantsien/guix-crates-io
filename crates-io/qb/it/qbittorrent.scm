@@ -1,0 +1,8 @@
+(define-module (crates-io qb it qbittorrent) #:use-module (crates-io))
+
+(define-public crate-qbittorrent-0.1.0 (c (n "qbittorrent") (v "0.1.0") (h "08f0l66k5a6c24r8x8lg1syl3ihvbhj7brkdrp8w9rzw6bcrdpki")))
+
+(define-public crate-qbittorrent-0.1.1 (c (n "qbittorrent") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.22") (d #t) (k 0)) (d (n "derive-getters") (r "^0.1.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("serde_derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.6.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.11") (d #t) (k 0)) (d (n "tokio") (r "^0.2.9") (f (quote ("macros"))) (d #t) (k 0)))) (h "0d3iqxqg7h4x66fc51m6y8rjlwyhgi2cr10fxn858bh1hzdq5pxw")))
+
+(define-public crate-qbittorrent-0.2.0 (c (n "qbittorrent") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.22") (d #t) (k 0)) (d (n "derive-getters") (r "^0.2.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.11") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt"))) (d #t) (k 2)))) (h "0xc4i88qacfag63cjf39d8shz8f8y1yrlqj4lyysgpdq94h1shzz") (f (quote (("default")))) (s 2) (e (quote (("tokio" "dep:tokio"))))))
+

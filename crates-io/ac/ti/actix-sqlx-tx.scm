@@ -1,0 +1,4 @@
+(define-module (crates-io ac ti actix-sqlx-tx) #:use-module (crates-io))
+
+(define-public crate-actix-sqlx-tx-0.1.0 (c (n "actix-sqlx-tx") (v "0.1.0") (d (list (d (n "actix-utils") (r "^3.0.1") (d #t) (k 0)) (d (n "actix-web") (r "^4.2.1") (k 0)) (d (n "futures-core") (r "^0.3.25") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "sqlx") (r "^0.6.2") (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)))) (h "0ji22hdqmqd443lbm8pawlfxw6dccq7d8fiqg08g8rx6w0dak74d") (f (quote (("sqlite" "sqlx/sqlite") ("runtime-tokio-rustls" "sqlx/runtime-tokio-rustls") ("runtime-tokio-native-tls" "sqlx/runtime-tokio-native-tls") ("postgres" "sqlx/postgres") ("mysql" "sqlx/mysql") ("mssql" "sqlx/mssql") ("default" "runtime-tokio-rustls") ("any" "sqlx/any") ("all-databases" "any" "mssql" "mysql" "postgres" "sqlite"))))))
+

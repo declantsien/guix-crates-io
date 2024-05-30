@@ -1,0 +1,24 @@
+(define-module (crates-io li be libevent-sys) #:use-module (crates-io))
+
+(define-public crate-libevent-sys-0.1.0 (c (n "libevent-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.45") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1dwryqmdvffb7xg607rpbhi8604vjkzh3pmnqkcbjb4rldshjyqq") (l "event")))
+
+(define-public crate-libevent-sys-0.1.1 (c (n "libevent-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.45") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0cyi6ygm9g27nm971hc8gd5g6f455kxy3zy6afix79gd4c4blmi0") (l "event")))
+
+(define-public crate-libevent-sys-0.1.2 (c (n "libevent-sys") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.45") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "01bm7zbk6v9sqgl0ji7xs6mkc1fg2xhcd4ddysa82lhhzn1i8k1d") (f (quote (("static")))) (l "event")))
+
+(define-public crate-libevent-sys-0.1.3 (c (n "libevent-sys") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.45") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0nfl1c7zc5118d5r208hr5kshf5vgxy0x13q7lgkzvki0r7kvkjr") (f (quote (("static")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.0 (c (n "libevent-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.45") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0nxjrj1amhaa2f2sz1nhiyq3fxb31zb3b8kx69biy6cp81dlhz3w") (f (quote (("static")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.1 (c (n "libevent-sys") (v "0.2.1") (d (list (d (n "bindgen") (r "^0.45") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0ml6097n4dbddy776ki4jq47dn3syl4blr782dsa0y76qy54prhj") (f (quote (("static")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.2 (c (n "libevent-sys") (v "0.2.2") (d (list (d (n "bindgen") (r "^0.53") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "1simfx46nza7j3xhhk6vbp4j6gy9gvg64x0saibw2bkz9dcvhc9a") (f (quote (("verbose_build") ("threading") ("static") ("pkgconfig" "pkg-config") ("openssl_bundled" "openssl-sys/vendored" "threading") ("openssl" "openssl-sys") ("default" "pkgconfig" "openssl" "threading") ("bundled" "static" "cmake")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.3 (c (n "libevent-sys") (v "0.2.3") (d (list (d (n "bindgen") (r "^0.53") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "16pvrh7jbl8pcr4gsj41h0raxd7sfkqx6van9hd60zq8dafppsvx") (f (quote (("verbose_build") ("threading") ("static") ("pkgconfig" "pkg-config") ("openssl_bundled" "openssl-sys/vendored" "threading") ("openssl" "openssl-sys") ("default" "pkgconfig" "openssl" "threading") ("bundled" "static" "cmake")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.4 (c (n "libevent-sys") (v "0.2.4") (d (list (d (n "bindgen") (r "^0.53") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "11yxs736mq0a1483cqd6qr0llqig9dpj10zq4a66hq6f21g78xn8") (f (quote (("verbose_build") ("threading") ("static") ("pkgconfig" "pkg-config") ("openssl_bundled" "openssl-sys/vendored" "threading") ("openssl" "openssl-sys") ("default" "pkgconfig" "openssl" "threading" "buildtime_bindgen") ("bundled" "static" "cmake") ("buildtime_bindgen" "bindgen")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.5 (c (n "libevent-sys") (v "0.2.5") (d (list (d (n "bindgen") (r "^0.60") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "openssl-sys") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "0c4kwxq6gjgf5qvdb6ign8w1xfidv66lhy5wvim19am2i1ksd5nj") (f (quote (("verbose_build") ("threading") ("static") ("pkgconfig" "pkg-config") ("openssl_bundled" "openssl-sys/vendored" "threading") ("openssl" "openssl-sys") ("default" "pkgconfig" "openssl" "threading" "buildtime_bindgen") ("bundled" "static" "cmake") ("buildtime_bindgen" "bindgen")))) (l "event")))
+
+(define-public crate-libevent-sys-0.2.6 (c (n "libevent-sys") (v "0.2.6") (d (list (d (n "openssl-sys") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "bindgen") (r "^0.60") (o #t) (d #t) (k 1)) (d (n "cmake") (r "^0.1") (o #t) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3") (o #t) (d #t) (k 1)))) (h "1h9d9h70ad6h9ag0rfl3k37q8xhalisvxdd4g75d6v2rya37dvjk") (f (quote (("verbose_build") ("threading") ("static") ("pkgconfig" "pkg-config") ("openssl_bundled" "openssl-sys/vendored" "threading") ("openssl" "openssl-sys") ("default" "pkgconfig" "openssl" "threading" "buildtime_bindgen") ("bundled" "static" "cmake") ("buildtime_bindgen" "bindgen")))) (l "event")))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io mu si music-player-migration) #:use-module (crates-io))
+
+(define-public crate-music-player-migration-0.1.0 (c (n "music-player-migration") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.0") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1184p3n4pnrhsplgb613m3b7vq7k4rhkqx5bpzblhs8ih9xbcny2")))
+
+(define-public crate-music-player-migration-0.1.1 (c (n "music-player-migration") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.0") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1wjv7793ky3hkkdw51makanhi6aiy2wi0yar4cpq8llyxgl82ybw")))
+
+(define-public crate-music-player-migration-0.1.2 (c (n "music-player-migration") (v "0.1.2") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.0") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0rmq6p7286jildjs8c0y6yqslg9aa2wh9a9k8s4qf23q4z891cp2")))
+
+(define-public crate-music-player-migration-0.1.3 (c (n "music-player-migration") (v "0.1.3") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.1") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0bjdxwxcxbnkk9qknd15dzmj9sg1rjh8yvbq0r9avg7rimqmbxxd")))
+
+(define-public crate-music-player-migration-0.1.4 (c (n "music-player-migration") (v "0.1.4") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.1") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0n928cmahaij388hjjzmawhzbkx024px4ii5csirs7w0adw9jgc1")))
+
+(define-public crate-music-player-migration-0.1.5 (c (n "music-player-migration") (v "0.1.5") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.2") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1kijl54p2wjqqccfifdy43i2hgynkp13hi66rgkk0110xdkmcyd4")))
+
+(define-public crate-music-player-migration-0.1.6 (c (n "music-player-migration") (v "0.1.6") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.3") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1v61w7i8dlhz1fasmqxxsmayg8a5z3gzcpw5ywzc5y7zxn110vam")))
+
+(define-public crate-music-player-migration-0.1.8 (c (n "music-player-migration") (v "0.1.8") (d (list (d (n "clap") (r "^3.2.23") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.4") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "17cmznpnq56pggqsjw0n4qkwn0nxpk179nk5wib1s03hcrg7sisw")))
+
+(define-public crate-music-player-migration-0.1.9 (c (n "music-player-migration") (v "0.1.9") (d (list (d (n "clap") (r "^3.2.23") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "music-player-settings") (r "^0.1.4") (d #t) (k 0)) (d (n "sea-orm-migration") (r "^0.9.0") (f (quote ("runtime-tokio-rustls" "sqlx-sqlite"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "038gp8midkqr23sz666sbvfajxdmxjmc4p794zp5y9bnzvvdixq0")))
+

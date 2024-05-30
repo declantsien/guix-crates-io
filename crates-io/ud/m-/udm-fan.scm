@@ -1,0 +1,4 @@
+(define-module (crates-io ud m- udm-fan) #:use-module (crates-io))
+
+(define-public crate-udm-fan-0.1.0 (c (n "udm-fan") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.8") (f (quote ("derive" "color" "suggestions"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dns-lookup") (r "^1.0.8") (d #t) (k 0)) (d (n "ipnet") (r "^2.4.0") (d #t) (k 0)) (d (n "netrc-rs") (r "^0.1.2") (d #t) (k 0)) (d (n "pnet") (r "^0.29.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (d #t) (k 0)) (d (n "rpassword") (r "^6.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.1.0") (d #t) (k 0)) (d (n "ssh2") (r "^0.9.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0b8p549h9bzwr7l3kb86dl57cd416vaimsvrx71m7n82r8ks8fsx")))
+

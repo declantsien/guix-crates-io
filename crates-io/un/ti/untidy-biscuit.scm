@@ -1,0 +1,10 @@
+(define-module (crates-io un ti untidy-biscuit) #:use-module (crates-io))
+
+(define-public crate-untidy-biscuit-0.1.0 (c (n "untidy-biscuit") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.37") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "xattr") (r "^1.3.1") (d #t) (k 0)))) (h "1w2g6by93y20pvm2p0ml7qif8nn3sphpxsymh1kgq2n247nfmw6l") (f (quote (("xattrs") ("miscellany") ("default" "all") ("datetime") ("all" "datetime" "xattrs" "miscellany"))))))
+
+(define-public crate-untidy-biscuit-0.1.1 (c (n "untidy-biscuit") (v "0.1.1") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "xattr") (r "^1.3.1") (d #t) (k 0)))) (h "0brpidfll90rd3ldx6a9f9x4n3lcv99098ps1hb1glypg58ixqxg") (f (quote (("xattrs") ("miscellany") ("id") ("default" "all") ("datetime") ("all" "datetime" "xattrs" "id" "miscellany"))))))
+
+(define-public crate-untidy-biscuit-0.1.2 (c (n "untidy-biscuit") (v "0.1.2") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "xattr") (r "^1.3.1") (d #t) (k 0)))) (h "0dyyjslw3lzm429r4ygpd8pfgrzc5kj8q84nxrcqwq05bp32p2mr") (f (quote (("xattrs") ("miscellany") ("id") ("default" "all") ("datetime") ("all" "datetime" "xattrs" "id" "miscellany"))))))
+
+(define-public crate-untidy-biscuit-0.1.3 (c (n "untidy-biscuit") (v "0.1.3") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "xattr") (r "^1.3.1") (d #t) (k 0)))) (h "0fz78mv7axjmszp3kgb5xpa9fan6hbkp168164hakl06lqdp9bv6") (f (quote (("xattrs") ("miscellany") ("id") ("default" "all") ("datetime") ("all" "datetime" "xattrs" "id" "miscellany"))))))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io sg -s sg-sprite) #:use-module (crates-io))
+
+(define-public crate-sg-sprite-0.2.1 (c (n "sg-sprite") (v "0.2.1") (d (list (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "custom_error") (r "^1.7") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "image") (r "^0.22.2") (f (quote ("png_codec"))) (k 0)) (d (n "libflate") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)))) (h "166afln9l0fbcwkqiz0ywbpxrw9r80vw77ny5wgqd9fckwa5fcab")))
+
+(define-public crate-sg-sprite-0.2.2 (c (n "sg-sprite") (v "0.2.2") (d (list (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "custom_error") (r "^1.7") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "image") (r "^0.23.6") (f (quote ("png"))) (k 0)) (d (n "libflate") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)))) (h "1d4zvaj60zgaaqm248civgpk3s6k3yxqp3ba4zhfx7484gjl6svv")))
+
+(define-public crate-sg-sprite-0.2.3 (c (n "sg-sprite") (v "0.2.3") (d (list (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "custom_error") (r "^1.7") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 0)) (d (n "image") (r "^0.23.6") (f (quote ("png"))) (k 0)) (d (n "libflate") (r "^0.1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)))) (h "0w44p2n6ckqym4w9wgkanf2hdyvavf4rz1wjx89n68s5fh3bmyc8")))
+
+(define-public crate-sg-sprite-0.3.0 (c (n "sg-sprite") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 2)) (d (n "image") (r "^0.23.6") (f (quote ("png"))) (k 0)) (d (n "lazy_format") (r "^1.8") (d #t) (k 0)) (d (n "libflate") (r "^0.1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 2)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)))) (h "1rigq8qczwkzdx55xv47bvh6wrvr5dwhar6a4cknpn9g87fi5mcv")))
+
+(define-public crate-sg-sprite-0.3.1 (c (n "sg-sprite") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 2)) (d (n "image") (r "^0.23.6") (f (quote ("png"))) (k 0)) (d (n "lazy_format") (r "^1.8") (d #t) (k 0)) (d (n "libflate") (r "^0.1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 2)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)))) (h "0br3gn8lllvnfdf0kzcl3hdsb9ax9jjiwd1xjfzwvqbvfb3f2g17")))
+
+(define-public crate-sg-sprite-0.3.2 (c (n "sg-sprite") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 2)) (d (n "image") (r "^0.23.6") (f (quote ("png"))) (k 0)) (d (n "lazy_format") (r "^1.8") (d #t) (k 0)) (d (n "libflate") (r "^0.1.0") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 2)) (d (n "structopt") (r "^0.3.0") (d #t) (k 0)))) (h "04v5g40zsknssk5mhrdnn73hjj9gylxrasa1pfwbvjziydh2cmbi")))
+

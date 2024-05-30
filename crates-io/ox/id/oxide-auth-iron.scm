@@ -1,0 +1,8 @@
+(define-module (crates-io ox id oxide-auth-iron) #:use-module (crates-io))
+
+(define-public crate-oxide-auth-iron-0.1.0-rc.0 (c (n "oxide-auth-iron") (v "0.1.0-rc.0") (d (list (d (n "iron") (r "^0.6") (d #t) (k 0)) (d (n "oxide-auth") (r "^0.5.0-preview.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 2)) (d (n "router") (r "^0.6.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.5.1") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)))) (h "04346y57fy686fy57pv6fm8hwfcw01hd7cccjbfjkrjjxpg5m3ah")))
+
+(define-public crate-oxide-auth-iron-0.1.0 (c (n "oxide-auth-iron") (v "0.1.0") (d (list (d (n "iron") (r "^0.6") (d #t) (k 0)) (d (n "oxide-auth") (r "^0.5.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 2)) (d (n "router") (r "^0.6.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0rv5gjyb98bj6yk2iwa3ff84zssn3pvjhh4p00iy1l25jzsa9ygs")))
+
+(define-public crate-oxide-auth-iron-0.2.0 (c (n "oxide-auth-iron") (v "0.2.0") (d (list (d (n "iron") (r "^0.6") (d #t) (k 0)) (d (n "oxide-auth") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("blocking"))) (d #t) (k 2)) (d (n "router") (r "^0.6.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1qqjipy8vw0dfqma70wv28g2s62cqybbbpr891lq2i4hzdniz051")))
+

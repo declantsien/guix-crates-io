@@ -1,0 +1,44 @@
+(define-module (crates-io v8 -s v8-sys) #:use-module (crates-io))
+
+(define-public crate-v8-sys-0.1.0 (c (n "v8-sys") (v "0.1.0") (h "1vrspfqc898xfqi67wg68smf8g4mpcfr4p5jyd8j66hwj4ac426l")))
+
+(define-public crate-v8-sys-0.3.0 (c (n "v8-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.1.2") (d #t) (k 1)))) (h "1czvs3rj1fy3vfadfb07i7vcsbm3sfb9m98ccx8ys30jwfaigvx9") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.4.0 (c (n "v8-sys") (v "0.4.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.2.0") (d #t) (k 1)))) (h "1xanzjjj9pbqd1r3s8xy651sf05mmp3hizhs5y58aqp50ykq0l47") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.5.0 (c (n "v8-sys") (v "0.5.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.2.0") (d #t) (k 1)))) (h "1qba67a2pd4yig5ajf7n3icvgilqzk8z7g6sznw395lq6vxhv188") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.6.0 (c (n "v8-sys") (v "0.6.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.3.0") (d #t) (k 1)))) (h "0yn9mglvbi1i06rdh8f63j15gimxyf28inwry31b4jdfxwrj1jrv") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.7.0 (c (n "v8-sys") (v "0.7.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.3.0") (d #t) (k 1)))) (h "1x5hvn4vry8pgqz7gpr2p9lxgnavgx3lzq8qcw0c7jrwqd9pan93") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.8.0 (c (n "v8-sys") (v "0.8.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.3.0") (d #t) (k 1)))) (h "0fzfq4kgamx9k6y01qax47cx120w89w2249rhahdbg97grx2m231") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.9.0 (c (n "v8-sys") (v "0.9.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.3.0") (d #t) (k 1)))) (h "152avhbfa4a2vxvpsqgdcfsz6qci8653m7gyyc9fbwqp720655hl") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.10.0 (c (n "v8-sys") (v "0.10.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.4.0") (d #t) (k 1)))) (h "1wik31w9sxlf4h70cp1l545a5w2fkq6pyjgz2l7nx8ymv9jfmn0b") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.11.0 (c (n "v8-sys") (v "0.11.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.4.0") (d #t) (k 1)))) (h "1dp6p85czq957gapan9dci2ffr1kxzfsifxibfhl2pcw4qmgz46f") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.12.0 (c (n "v8-sys") (v "0.12.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.12.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.35") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "v8-api") (r "^0.5.0") (d #t) (k 1)))) (h "1z26pvi4qj2h601qmq7rap2mq85kiwvi8b6x8kk3srjnp1f2v25x") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.13.0 (c (n "v8-sys") (v "0.13.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.13.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.6.0") (d #t) (k 1)))) (h "0y3xmc1sck0xlvs4rm2i2i8ap2ffq6rhbv40d0hyxvblk0z8yn49") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.0 (c (n "v8-sys") (v "0.14.0") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.13.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "0a2m10bq6xv79lv1bjm735mfkr2rnqjg0wfiaiywb4q8z672xlmf") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.1 (c (n "v8-sys") (v "0.14.1") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.13.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "1mx4xjlkid5gqi5ajp3d6n6kvvpakhq99pndgpp2dmbdcrhg3hkb") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.2 (c (n "v8-sys") (v "0.14.2") (d (list (d (n "bindgen") (r "^0.19.0") (d #t) (k 1)) (d (n "clang") (r "^0.13.0") (d #t) (k 1)) (d (n "clang-sys") (r "^0.13.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "0bzjj3yjhs38p8lx6fqgx504m5p2lpq05d83a1icjb8vf08ia2n5") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.3 (c (n "v8-sys") (v "0.14.3") (d (list (d (n "bindgen") (r "^0.22.0") (d #t) (k 1)) (d (n "clang") (r "^0.14.0") (d #t) (k 1)) (d (n "clang-sys") (r "^0.14.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "1qjpd0gl0ilba4gk2ayr8k2nk3sl5hzd0rizqp727jc24rgig4rd") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.4 (c (n "v8-sys") (v "0.14.4") (d (list (d (n "bindgen") (r "^0.22.0") (d #t) (k 1)) (d (n "clang") (r "^0.15.0") (d #t) (k 1)) (d (n "clang-sys") (r "^0.14.0") (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "0yry4pm44nfc1vp50nj1hamrzx3wv0dq226ml3ah99x8ivqdgg9c") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.5 (c (n "v8-sys") (v "0.14.5") (d (list (d (n "bindgen") (r "^0.22.0") (d #t) (k 1)) (d (n "clang") (r "^0.15.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "clang-sys") (r "^0.14.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "1wlyn5p4fpxc7m7fxlnvbs5sgxsmfpx5wz7i3haky8795j9kl8bc") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.6 (c (n "v8-sys") (v "0.14.6") (d (list (d (n "bindgen") (r "^0.22.0") (d #t) (k 1)) (d (n "clang") (r "^0.15.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "clang-sys") (r "^0.14.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "1xv9rhxy1lg3kv4qidc7sdkja6c24x4ksk7m9w2rwbcnm7pd5nyh") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.14.7 (c (n "v8-sys") (v "0.14.7") (d (list (d (n "bindgen") (r "^0.22.0") (d #t) (k 1)) (d (n "clang") (r "^0.15.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "clang-sys") (r "^0.14.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "gcc") (r "^0.3.38") (d #t) (k 1)) (d (n "lazy_static") (r "^0.2.1") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.8") (d #t) (k 1)) (d (n "v8-api") (r "^0.7.0") (d #t) (k 1)))) (h "02i2aq1mkfiilg8lmb596b0fv7xamynzinxsgkpkcbsf1k77valy") (f (quote (("shared"))))))
+
+(define-public crate-v8-sys-0.15.0 (c (n "v8-sys") (v "0.15.0") (d (list (d (n "bindgen") (r "^0.47.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.28") (d #t) (k 1)) (d (n "clang") (r "^0.15.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "clang-sys") (r "^0.14.0") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 2)) (d (n "pkg-config") (r "^0.3.14") (d #t) (k 1)) (d (n "v8-api") (r "^0.8.0") (d #t) (k 1)))) (h "1f73lyy382yalrw6x5ayhq8s4q5jyyxq898mvwlv2h1lwcd0f7x7") (f (quote (("shared"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ni ft nifty-bridge) #:use-module (crates-io))
+
+(define-public crate-nifty-bridge-0.0.0 (c (n "nifty-bridge") (v "0.0.0") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "borsh") (r "^0.10") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_with") (r "^3.0") (o #t) (d #t) (k 0)) (d (n "solana-program") (r "~1.16") (d #t) (k 0)) (d (n "solana-program-test") (r "~1.16") (d #t) (k 2)) (d (n "solana-sdk") (r "~1.16") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1053nw5r910dn2v96g0y41wgn6ib9j4cz9hr48g4x38jrfchzf2l") (f (quote (("test-sbf")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde_with"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io de sk desktopd) #:use-module (crates-io))
+
+(define-public crate-desktopd-1.0.0 (c (n "desktopd") (v "1.0.0") (d (list (d (n "async-i3ipc") (r "^0.2") (f (quote ("sway"))) (d #t) (k 0)) (d (n "async-process") (r "^1.0.1") (d #t) (k 0)) (d (n "async-std") (r "^1.6") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "async-tungstenite") (r "^0.10") (f (quote ("async-std-runtime"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "notify-rust") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "skim") (r "^0.9.3") (d #t) (k 0)) (d (n "tabular") (r "^0.1.4") (d #t) (k 0)) (d (n "url") (r "^2.2.0") (d #t) (k 0)))) (h "1gl2dgd64fr10nprcxjvs9sbf2aysz4j7cw9my72rq5rqd59p8ml")))
+

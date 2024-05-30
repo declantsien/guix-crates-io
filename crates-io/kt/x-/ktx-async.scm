@@ -1,0 +1,6 @@
+(define-module (crates-io kt x- ktx-async) #:use-module (crates-io))
+
+(define-public crate-ktx-async-0.1.0 (c (n "ktx-async") (v "0.1.0") (d (list (d (n "async-stream") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "gl") (r "^0.14") (d #t) (k 2)) (d (n "glutin") (r "^0.22.0-alpha5") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.3") (f (quote ("full"))) (d #t) (k 0)))) (h "0xcgz2g6siqd4d1s0fh9c9gbr2lljmp222srvrxmsmr4l17frxvi")))
+
+(define-public crate-ktx-async-0.1.1 (c (n "ktx-async") (v "0.1.1") (d (list (d (n "async-stream") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.3") (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "gl") (r "^0.14") (d #t) (k 2)) (d (n "glutin") (r "^0.22.0-alpha5") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "tokio") (r "^0.2.3") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio") (r "^0.2.3") (f (quote ("full"))) (d #t) (k 2)))) (h "10i1nd1mb4q1clp9s95gil1r1hsm6qv7cp23fx50gs6x60bn4gz0")))
+

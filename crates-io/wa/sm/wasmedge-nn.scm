@@ -1,0 +1,16 @@
+(define-module (crates-io wa sm wasmedge-nn) #:use-module (crates-io))
+
+(define-public crate-wasmedge-nn-0.1.0 (c (n "wasmedge-nn") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "1p249hjfsd3bczriizbp7afh6d7fw3fxs19p54hf4b5a0pm0phj1")))
+
+(define-public crate-wasmedge-nn-0.2.0 (c (n "wasmedge-nn") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "1njirvhvzkaxys46x8gasyp0qrynbqf6dmydbicb8ag9haj4hr4i")))
+
+(define-public crate-wasmedge-nn-0.3.0 (c (n "wasmedge-nn") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.24") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "12vjz4755h1r6kq5g14y5gc8fja3nn3xp848fkjripd9rkyndg2n")))
+
+(define-public crate-wasmedge-nn-0.4.0 (c (n "wasmedge-nn") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "0a9slbvpz63xxn4k97p6nf40l84i4k3flfxzrd2mfmkqb91w5zn3")))
+
+(define-public crate-wasmedge-nn-0.5.0 (c (n "wasmedge-nn") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "09659pvx4j2lyai0vvsslsi1zcfyv6pby8zqzbp7rfji1abbh7d8")))
+
+(define-public crate-wasmedge-nn-0.5.1 (c (n "wasmedge-nn") (v "0.5.1") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "13hvwfqybf5mn7gcmqml9xqwk8brwxw7ikc28f1xmrpxjcwb9hdm")))
+
+(define-public crate-wasmedge-nn-0.5.2 (c (n "wasmedge-nn") (v "0.5.2") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld"))) (k 0)) (d (n "ndarray") (r "^0.15.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "wasi-nn") (r "^0.1.0") (d #t) (k 0)))) (h "1xzx279s4v03r0ry0lvkmb9wl1vc5ic203fl84rdzhxi8my0ixg6")))
+

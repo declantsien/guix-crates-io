@@ -1,0 +1,62 @@
+(define-module (crates-io co re core-foundation) #:use-module (crates-io))
+
+(define-public crate-core-foundation-0.0.1 (c (n "core-foundation") (v "0.0.1") (h "1h7birdgngybkm450j6idgx71620ckyxj8is6khd8v2ah90mcr72")))
+
+(define-public crate-core-foundation-0.0.2 (c (n "core-foundation") (v "0.0.2") (h "1xh8ybi3j96k8pvk2bsqp26yclj4big7z3nb8zqfw6zilc021j3j")))
+
+(define-public crate-core-foundation-0.1.0 (c (n "core-foundation") (v "0.1.0") (d (list (d (n "libc") (r "*") (d #t) (k 0)))) (h "0f5gp9ywy6gkx6c3ps48q7cpp4n8qafl15shpcy94vqd13s50p7l")))
+
+(define-public crate-core-foundation-0.2.0 (c (n "core-foundation") (v "0.2.0") (d (list (d (n "core-foundation-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "19429v0inr812vj03fvx49w6xx1dazqy71x05jyd0f3z70wmw9l6")))
+
+(define-public crate-core-foundation-0.2.1 (c (n "core-foundation") (v "0.2.1") (d (list (d (n "core-foundation-sys") (r "^0.2.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0qnapfg9jysambp1vm5f9fqk85zsf9l08282fn59a1am6j2admxb")))
+
+(define-public crate-core-foundation-0.2.2 (c (n "core-foundation") (v "0.2.2") (d (list (d (n "core-foundation-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1g9vxdpmnr0lz2gsv09yhqz94sl8inlsaajamrvxk69sim2d19i0")))
+
+(define-public crate-core-foundation-0.2.3 (c (n "core-foundation") (v "0.2.3") (d (list (d (n "core-foundation-sys") (r "^0.2.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0rvcn7ab5r69wvn7gby745jlpy8pirfywcdxbiypy083s93dggr5")))
+
+(define-public crate-core-foundation-0.3.0 (c (n "core-foundation") (v "0.3.0") (d (list (d (n "core-foundation-sys") (r "^0.3.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1hss3w89rnxwk75knayksbmsn59caxbynca2w5nwa4g3xfwf677m")))
+
+(define-public crate-core-foundation-0.4.0 (c (n "core-foundation") (v "0.4.0") (d (list (d (n "core-foundation-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0vy4xx5ivqwf9k2s6qr5mlxbjl0w0rg0awvjk0z0qh11ki82ln1h")))
+
+(define-public crate-core-foundation-0.4.1 (c (n "core-foundation") (v "0.4.1") (d (list (d (n "core-foundation-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0c90gxi2ik2xpw4zdbw5ylq8a1d5ksjwlhwqywppznmp7mbifbs6")))
+
+(define-public crate-core-foundation-0.4.2 (c (n "core-foundation") (v "0.4.2") (d (list (d (n "core-foundation-sys") (r "^0.4.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0ddhh1spkr66fiz4x313w85laxb4lj4hrg6i5wz8qmwkpa21yx2q")))
+
+(define-public crate-core-foundation-0.4.3 (c (n "core-foundation") (v "0.4.3") (d (list (d (n "core-foundation-sys") (r "^0.4.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "03an2czqiikvmr2xhdkqf9255kndy3r83hm6hcwfwbf414nrqgim") (f (quote (("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.4.4 (c (n "core-foundation") (v "0.4.4") (d (list (d (n "core-foundation-sys") (r "^0.4.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1iqd6aras40j3i3zmmsj5pz20g1rqwff1i7l34v02qkpahp502ar") (f (quote (("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.4.5 (c (n "core-foundation") (v "0.4.5") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.4.5") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0rfl0vgjcy8sm5ijvz7bvlk4j92flaain1wdf0cmbczkx6zy780c") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.4.6 (c (n "core-foundation") (v "0.4.6") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.4.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "03lwv9frmbmh8400maqxpzjd1wr15y6yyxfx3idx8mk8rm3zaiw0") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.5.0 (c (n "core-foundation") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.5.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "00yxc3036h6bwy2rzwklc6h5q5i3f4fyrzvlj82s1ij1q3lpcx2q") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support")))) (y #t)))
+
+(define-public crate-core-foundation-0.5.1 (c (n "core-foundation") (v "0.5.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.5.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1079vjg9x9yqmr1np5dk0zyikmc50ll0l0666rjs43d2qd0hnvi8") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.6.0 (c (n "core-foundation") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "09gcjfjwrrvkqhbv1fcz3va8rj9vddnjc0wsl2zdvpbnkv5sdjn7") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.6.1 (c (n "core-foundation") (v "0.6.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1liwhz5gz6fdrwksplkf3yxq1qgx2jvrg87hgz5wfxa3fbn34dfc") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.6.2 (c (n "core-foundation") (v "0.6.2") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1sik8zls5rj3zia9ziwq6v6svpz50f3jkdac9j6fldwac6d7nrjq") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.6.3 (c (n "core-foundation") (v "0.6.3") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "11zqyi4jcpnlwrbnqrp6mgjk3pfmz2pccwqvxlmyh8mzs3b409jf") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.6.4 (c (n "core-foundation") (v "0.6.4") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.6.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0va97wf49c8dzm9c8pgyk1jn7z21rl0bj1syf2zz5m2z2hzy1f95") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.7.0 (c (n "core-foundation") (v "0.7.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.7") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0wbias8f0m5kyn2pcksi0h58fdslams6nmf16w78fgn42dx4rljp") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.7.1 (c (n "core-foundation") (v "0.7.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.7.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "024qmb4c33ppy0fhj022x291nrlzl5n2gqs46n0cyxms85xl8qxl") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support")))) (y #t)))
+
+(define-public crate-core-foundation-0.8.0 (c (n "core-foundation") (v "0.8.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.7.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1nz6dr0g8qfm4vrg6l3dxplcb17w08ar2fazxic72jzg7fj5f4vk") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.9.0 (c (n "core-foundation") (v "0.9.0") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.8.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1yykk5i607jziwfy0f8n368cv0q4bf6zl6z42m79fibcwzkxhpiv") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.9.1 (c (n "core-foundation") (v "0.9.1") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.8.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0qhackx0i914nbhcwi6bbxnyyqqldgxc046gviak3a3f8apf528a") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.9.2 (c (n "core-foundation") (v "0.9.2") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.8.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "1cs7dya58xf4px4b1953040fpz5lm3qhf7fzv0jf94xva42y3238") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.9.3 (c (n "core-foundation") (v "0.9.3") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.8.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0ii1ihpjb30fk38gdikm5wqlkmyr8k46fh4k2r8sagz5dng7ljhr") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support"))))))
+
+(define-public crate-core-foundation-0.9.4 (c (n "core-foundation") (v "0.9.4") (d (list (d (n "chrono") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "core-foundation-sys") (r "^0.8.6") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "uuid") (r "^0.5") (o #t) (d #t) (k 0)))) (h "13zvbbj07yk3b61b8fhwfzhy35535a583irf23vlcg59j7h9bqci") (f (quote (("with-uuid" "uuid") ("with-chrono" "chrono") ("mac_os_10_8_features" "core-foundation-sys/mac_os_10_8_features") ("mac_os_10_7_support" "core-foundation-sys/mac_os_10_7_support") ("link" "core-foundation-sys/link") ("default" "link"))))))
+

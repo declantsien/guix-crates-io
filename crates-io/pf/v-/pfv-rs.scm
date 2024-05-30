@@ -1,0 +1,24 @@
+(define-module (crates-io pf v- pfv-rs) #:use-module (crates-io))
+
+(define-public crate-pfv-rs-0.1.0 (c (n "pfv-rs") (v "0.1.0") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 2)))) (h "0m7jfmz0jyn8mb0p4jr65by1ccnhxwyjix9ajgr7i337960aykx0") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.1 (c (n "pfv-rs") (v "0.1.1") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 2)))) (h "0303ra9ndxq7rjgw2zb4s3k8zskhfhd03v261hkc09i571idca8z") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.2 (c (n "pfv-rs") (v "0.1.2") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 2)))) (h "1k4waszm76wm3iqa1by7m8qwv1v5x42ybvvgpdhzkxsw2lljkipy") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.3 (c (n "pfv-rs") (v "0.1.3") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 2)))) (h "1a1m0m574hif1q9x1ghnvazy25xryndfljlhk1mxg68fxayr3zj9") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.4 (c (n "pfv-rs") (v "0.1.4") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "wav") (r "^1.0.0") (d #t) (k 2)))) (h "0h3g38iam1bdd4xhzxfd4yij9f1a63jjqinjqg3hfx9i1308812q") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.5 (c (n "pfv-rs") (v "0.1.5") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "1di750vj5dsv27c4l8zlxd462rs5bjknvjj9gf7maq4vragq5hnq") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.6 (c (n "pfv-rs") (v "0.1.6") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "15i7hcpi8vd4pmqy2zfwl30540n4rsr3hnppvlgvrmn3r0j9miiy") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.1.7 (c (n "pfv-rs") (v "0.1.7") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "0qyhnl2d114l3s49yr1068lbxi0h0615106qvc0niyrqrqc334l0") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.2.0 (c (n "pfv-rs") (v "0.2.0") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "1pyqma2xl4q5hfvh24cg1x8lwl7n9y5xjxny6msqvs2g67r8lrr7") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.2.1 (c (n "pfv-rs") (v "0.2.1") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "1wdw2xzzwgspv1p8cb29rx34nm2zmp7wz13s949pbykkpsrzdxlb") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+
+(define-public crate-pfv-rs-0.2.2 (c (n "pfv-rs") (v "0.2.2") (d (list (d (n "bitstream-io") (r "^1.6.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (o #t) (d #t) (k 0)))) (h "1vmmsp1ybkdmm8b6y7iqjqjhym8sbxq83xc9sj65hzf4ks5jbn62") (f (quote (("default" "multithreading")))) (s 2) (e (quote (("multithreading" "dep:rayon"))))))
+

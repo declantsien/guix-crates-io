@@ -1,0 +1,10 @@
+(define-module (crates-io #{2}# hn) #:use-module (crates-io))
+
+(define-public crate-hn-0.2.0 (c (n "hn") (v "0.2.0") (d (list (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "hyper") (r "^0.11.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.9") (d #t) (k 0)))) (h "09669zg14npckq0p77hfqmim21pw25ppy6qdkc78rqidf14fk6i4")))
+
+(define-public crate-hn-0.3.0 (c (n "hn") (v "0.3.0") (d (list (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "hyper") (r "^0.11.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.9") (d #t) (k 0)))) (h "0wpp07sl8bikmn79h64613qw3mhsqyixfz42mlygjf4ifwif7yj5")))
+
+(define-public crate-hn-0.3.1 (c (n "hn") (v "0.3.1") (d (list (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "hyper") (r "^0.11.1") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.2") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.9") (d #t) (k 0)))) (h "0cjha5096kx0cvb6x4lhjbvd3nkmv5byflah5xbvg00s0s2xllzz")))
+
+(define-public crate-hn-0.4.0 (c (n "hn") (v "0.4.0") (d (list (d (n "futures") (r "^0.1.14") (d #t) (k 0)) (d (n "hyper") (r "^0.11.24") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 0)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1.16") (d #t) (k 0)))) (h "11pn4nj3f4kjj6699vqwl3fblilnbxm9hznhkvr3ci7wqfiyqihv")))
+

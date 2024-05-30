@@ -1,0 +1,4 @@
+(define-module (crates-io so v- sov-modules-rollup-template) #:use-module (crates-io))
+
+(define-public crate-sov-modules-rollup-template-0.3.0 (c (n "sov-modules-rollup-template") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.71") (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.20.1") (f (quote ("jsonrpsee-types" "http-client" "server"))) (d #t) (k 0)) (d (n "sov-db") (r "^0.3") (d #t) (k 0)) (d (n "sov-modules-api") (r "^0.3") (f (quote ("native"))) (d #t) (k 0)) (d (n "sov-modules-stf-template") (r "^0.3") (f (quote ("native"))) (d #t) (k 0)) (d (n "sov-rollup-interface") (r "^0.3") (f (quote ("native"))) (d #t) (k 0)) (d (n "sov-state") (r "^0.3") (d #t) (k 0)) (d (n "sov-stf-runner") (r "^0.3") (f (quote ("native"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0hbh4qczysvkj3yi90vf1pmdzlzym82j1bl2f2y5r5ilcj572rqy")))
+

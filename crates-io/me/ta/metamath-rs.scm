@@ -1,0 +1,4 @@
+(define-module (crates-io me ta metamath-rs) #:use-module (crates-io))
+
+(define-public crate-metamath-rs-0.3.8 (c (n "metamath-rs") (v "0.3.8") (d (list (d (n "annotate-snippets") (r "^0.9") (d #t) (k 0)) (d (n "assert_matches") (r "^1.5") (d #t) (k 2)) (d (n "dot-writer") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "filetime") (r "^0.2") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (f (quote ("std" "perf"))) (k 0)) (d (n "tinyvec") (r "^1.5") (d #t) (k 0)) (d (n "typed-arena") (r "^2.0") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.14") (o #t) (d #t) (k 0)))) (h "0hwdpar82vgs346gl1fk87kwm7nf4a6n7rxdclk7b66clq7bnbx4") (f (quote (("xml" "xml-rs") ("dot" "dot-writer") ("default" "annotate-snippets/color"))))))
+

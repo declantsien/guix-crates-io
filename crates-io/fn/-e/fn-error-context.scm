@@ -1,0 +1,12 @@
+(define-module (crates-io fn -e fn-error-context) #:use-module (crates-io))
+
+(define-public crate-fn-error-context-0.1.0 (c (n "fn-error-context") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.24") (d #t) (k 2)) (d (n "version-sync") (r "^0.8.1") (d #t) (k 2)))) (h "1zmzpwk2skhwwwdhfp6v0fl7k241zd8dr6by40f6773mb4da3fvk")))
+
+(define-public crate-fn-error-context-0.1.1 (c (n "fn-error-context") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.24") (d #t) (k 2)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0i7gfrfwg10274ggjmqhw3qx44dcbzmb59q1q6h870cb3k2r42xc")))
+
+(define-public crate-fn-error-context-0.1.2 (c (n "fn-error-context") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.24") (d #t) (k 2)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0jfin99mbsi5mfm1qwsbyvq3dscfqxvxkk2hg8vhgv9prry27gkx")))
+
+(define-public crate-fn-error-context-0.2.0 (c (n "fn-error-context") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.17") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.24") (d #t) (k 2)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "1yyhzvdwfc9x6cipjknvd72jf9hg9a611xjjarx5zgmqw954wsr3")))
+
+(define-public crate-fn-error-context-0.2.1 (c (n "fn-error-context") (v "0.2.1") (d (list (d (n "proc-macro2") (r "^1.0.9") (d #t) (k 0)) (d (n "quote") (r "^1.0.3") (d #t) (k 0)) (d (n "syn") (r "^2.0.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.27") (d #t) (k 2)) (d (n "failure") (r "^0.1.7") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.24") (d #t) (k 2)) (d (n "version-sync") (r "^0.9.1") (d #t) (k 2)))) (h "0hgvpasbw8wm3yvksawvigfainli8m03fcry1i5syd3mi1ln5mic")))
+

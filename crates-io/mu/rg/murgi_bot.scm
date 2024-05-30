@@ -1,0 +1,4 @@
+(define-module (crates-io mu rg murgi_bot) #:use-module (crates-io))
+
+(define-public crate-murgi_bot-0.1.0 (c (n "murgi_bot") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("clock"))) (k 0)) (d (n "openssl") (r "^0.10.29") (f (quote ("vendored"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "rss") (r "^2.0") (d #t) (k 0)) (d (n "serenity") (r "^0.10.9") (f (quote ("client" "gateway" "standard_framework" "model" "cache" "voice" "rustls_backend"))) (d #t) (k 0)) (d (n "songbird") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.23") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2") (d #t) (k 0)))) (h "03x4bbihzpi2kh7v7dw889qa1d4sqpabjggjyrqcyqzl4vr9j4i7") (r "1.56.0")))
+

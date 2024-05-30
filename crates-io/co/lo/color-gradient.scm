@@ -1,0 +1,10 @@
+(define-module (crates-io co lo color-gradient) #:use-module (crates-io))
+
+(define-public crate-color-gradient-0.0.0 (c (n "color-gradient") (v "0.0.0") (d (list (d (n "color-core") (r "^0.1.0") (d #t) (k 0)))) (h "1qq7z6f006867kz9fp3xyvc9nz9vn2d9p33m7jl6ac2kf94m71bz") (f (quote (("strict") ("default"))))))
+
+(define-public crate-color-gradient-0.1.1 (c (n "color-gradient") (v "0.1.1") (d (list (d (n "color-core") (r "^0.1.2") (d #t) (k 0)) (d (n "float01") (r "^0.1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (o #t) (d #t) (k 0)) (d (n "svg") (r "^0.13.1") (o #t) (d #t) (k 0)))) (h "1wyr4rrm0yw3v6f8ixr3pija91jswgfn1r5r87diskhsm990vqdm") (f (quote (("strict") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "float01/serde") ("rand" "dep:rand" "color-core/rand"))))))
+
+(define-public crate-color-gradient-0.1.2 (c (n "color-gradient") (v "0.1.2") (d (list (d (n "color-core") (r "^0.1.5") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (o #t) (d #t) (k 0)) (d (n "svg") (r "^0.13.1") (o #t) (d #t) (k 0)))) (h "18nr169qyi2cvgwgj29l9qlmlz391jcbwdsbr2pwgpl7y4avv58b") (f (quote (("default" "image")))) (s 2) (e (quote (("serde" "dep:serde" "color-core/serde") ("rand" "dep:rand" "color-core/rand"))))))
+
+(define-public crate-color-gradient-0.1.3 (c (n "color-gradient") (v "0.1.3") (d (list (d (n "color-core") (r "^0.1.6") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 2)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.158") (o #t) (d #t) (k 0)) (d (n "svg") (r "^0.13.1") (o #t) (d #t) (k 0)))) (h "1yknxgcyvagywdzlbm1hjrz8rqjs5xvq84ki8m83gd4blwmd3d6y") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "color-core/serde") ("rand" "dep:rand" "color-core/rand"))))))
+

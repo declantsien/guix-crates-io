@@ -1,0 +1,20 @@
+(define-module (crates-io li bk libket) #:use-module (crates-io))
+
+(define-public crate-libket-0.1.0 (c (n "libket") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "05xaac5xmk8i4174pcjm2cxm6z9pmh627nkqhh947igr7pw7y3kl")))
+
+(define-public crate-libket-0.1.1 (c (n "libket") (v "0.1.1") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15phy821dr8285ywnpwrv5v4acxc6lgng8fqg3wycjshd1wisrqi")))
+
+(define-public crate-libket-0.2.0 (c (n "libket") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0qf58xsqgyp4b6yl6xp5g92ljq9y7478i7hcyjxhgz8fgwa964k4")))
+
+(define-public crate-libket-0.2.1 (c (n "libket") (v "0.2.1") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1fja7xj8pvcs53y06m7iv1qywh1hc1srps3dpd4ak2pcvg4dlfag")))
+
+(define-public crate-libket-0.2.2 (c (n "libket") (v "0.2.2") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "14zqhwnyrgibjdmr2g6hdpq5wwxxqrzvkpkahdc27fd7absgfsiz")))
+
+(define-public crate-libket-0.2.3 (c (n "libket") (v "0.2.3") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "113kri7mb09ni6ybjav2sb0f3cw8ni0pf8ysngnkzd9v5q01mw55")))
+
+(define-public crate-libket-0.3.0 (c (n "libket") (v "0.3.0") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "17320mkx6sz0wx5bq43gq8km4f3rczhm88zhp126rrz1z2plbkp5")))
+
+(define-public crate-libket-0.3.1 (c (n "libket") (v "0.3.1") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0rvw0r38jkcgiwwa3ld9h1f23whfplz8kx90v9xf9xjqpml4yd8f")))
+
+(define-public crate-libket-0.4.0 (c (n "libket") (v "0.4.0") (d (list (d (n "env_logger") (r "^0.11.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0q1rk3ypzjgxzb0493fk9wkbjch15pv78wy2z62v4nvgas932z8w")))
+

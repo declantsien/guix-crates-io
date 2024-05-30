@@ -1,0 +1,8 @@
+(define-module (crates-io st ac stac-validate) #:use-module (crates-io))
+
+(define-public crate-stac-validate-0.1.0 (c (n "stac-validate") (v "0.1.0") (d (list (d (n "geojson") (r "^0.24") (d #t) (k 2)) (d (n "jsonschema") (r "^0.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "stac") (r "^0.5") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "06m1jhydh01632xa6kp225wxa1a82w658p12n45d8b4j9ij41gb6")))
+
+(define-public crate-stac-validate-0.1.1 (c (n "stac-validate") (v "0.1.1") (d (list (d (n "geojson") (r "^0.24") (d #t) (k 2)) (d (n "jsonschema") (r "^0.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "stac") (r "^0.5") (d #t) (k 0)) (d (n "stac") (r "^0.5") (f (quote ("geo"))) (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1hl51hhld3icgi4v0gw0bgrqjh5r5w77vn57dyy588h9m8wipzm2")))
+
+(define-public crate-stac-validate-0.1.2 (c (n "stac-validate") (v "0.1.2") (d (list (d (n "geojson") (r "^0.24") (d #t) (k 2)) (d (n "jsonschema") (r "^0.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "stac") (r "^0.7") (d #t) (k 0)) (d (n "stac") (r "^0.7") (f (quote ("geo"))) (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1djpza7qmswc34jhips02cxq5312k8cgba3a6cfksla0azci0pqn")))
+

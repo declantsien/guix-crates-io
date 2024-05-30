@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-multisig) #:use-module (crates-io))
+
+(define-public crate-noble-multisig-2.0.0 (c (n "noble-multisig") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "fabric-benchmarking") (r "^2.0.0") (o #t) (k 0)) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "noble-balances") (r "^2.0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.101") (o #t) (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 2)) (d (n "tet-io") (r "^2.0.2") (k 0)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "1c02likmmaqvxp71gqk230d8dr2cjplzkfxq7xn2p9kq3lkdgsbq") (f (quote (("std" "serde" "codec/std" "tp-runtime/std" "fabric-support/std" "fabric-system/std" "tet-io/std" "tetcore-std/std") ("runtime-benchmarks" "fabric-benchmarking" "fabric-support/runtime-benchmarks") ("default" "std"))))))
+

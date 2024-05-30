@@ -1,0 +1,10 @@
+(define-module (crates-io sh po shpool) #:use-module (crates-io))
+
+(define-public crate-shpool-0.1.0 (c (n "shpool") (v "0.1.0") (h "01cjhfa5zrj7ka85sszswd96isdflh8svbh4r8x0z1sgyafy2c9k")))
+
+(define-public crate-shpool-0.5.0 (c (n "shpool") (v "0.5.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "libshpool") (r "^0.5.0") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("poll" "ioctl"))) (d #t) (k 2)) (d (n "ntest") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0w0cknw5ddlwax1f5l5zyim93hf61kaffj7xyxpy1660d1vq3q9y")))
+
+(define-public crate-shpool-0.6.0 (c (n "shpool") (v "0.6.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "libshpool") (r "^0.6.0") (d #t) (k 0)) (d (n "motd") (r "^0.2.0") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("poll" "ioctl"))) (d #t) (k 2)) (d (n "ntest") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "04mj4zxivzm3bvj9qg8s3147x2l60mlmfysmf49bfpxxk9plh7rf") (r "1.74")))
+
+(define-public crate-shpool-0.6.1 (c (n "shpool") (v "0.6.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 2)) (d (n "libshpool") (r "^0.6.1") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("poll" "ioctl"))) (d #t) (k 2)) (d (n "ntest") (r "^0.9") (d #t) (k 2)) (d (n "regex") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "0ypij4b7fzf49005r5q167qfhhzzvxj23fk7l8ay07ykgg4ajvs5") (r "1.74")))
+

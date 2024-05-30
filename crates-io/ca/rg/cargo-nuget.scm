@@ -1,0 +1,10 @@
+(define-module (crates-io ca rg cargo-nuget) #:use-module (crates-io))
+
+(define-public crate-cargo-nuget-0.0.1 (c (n "cargo-nuget") (v "0.0.1") (d (list (d (n "chrono") (r "~0.3") (d #t) (k 0)) (d (n "clap") (r "~2.21.0") (d #t) (k 0)) (d (n "quick-error") (r "~1.1.0") (d #t) (k 0)) (d (n "semver") (r "~0.6.0") (d #t) (k 0)) (d (n "term-painter") (r "~0.2.3") (d #t) (k 0)) (d (n "toml") (r "~0.2.1") (f (quote ("serde"))) (k 0)) (d (n "xml-rs") (r "~0.3.5") (d #t) (k 0)) (d (n "zip") (r "~0.2") (d #t) (k 0)))) (h "1h2acxg9y5j2q0akcpbml2qjb65d4fcmwz6d4yvg972gp7wmbhbk")))
+
+(define-public crate-cargo-nuget-0.0.2 (c (n "cargo-nuget") (v "0.0.2") (d (list (d (n "chrono") (r "~0.3") (d #t) (k 0)) (d (n "clap") (r "~2.21") (d #t) (k 0)) (d (n "quick-error") (r "~1.1") (d #t) (k 0)) (d (n "semver") (r "~0.6") (d #t) (k 0)) (d (n "term-painter") (r "~0.2") (d #t) (k 0)) (d (n "toml") (r "~0.2") (f (quote ("serde"))) (k 0)) (d (n "xml-rs") (r "~0.3") (d #t) (k 0)) (d (n "zip") (r "~0.2") (d #t) (k 0)))) (h "06ai1ava930fkdpfb12d2mj45hkc9n1h6rspswrzb6g2fwgn7c2w")))
+
+(define-public crate-cargo-nuget-0.0.3 (c (n "cargo-nuget") (v "0.0.3") (d (list (d (n "chrono") (r "~0.3") (d #t) (k 0)) (d (n "clap") (r "~2.21") (d #t) (k 0)) (d (n "quick-error") (r "~1.1") (d #t) (k 0)) (d (n "semver") (r "~0.6") (d #t) (k 0)) (d (n "term-painter") (r "~0.2") (d #t) (k 0)) (d (n "toml") (r "~0.2") (f (quote ("serde"))) (k 0)) (d (n "xml-rs") (r "~0.3") (d #t) (k 0)) (d (n "zip") (r "~0.2") (d #t) (k 0)))) (h "1986clhnz9c1xmk78g3jg77zg2gghbk0azzryygbx8ic69shff1n")))
+
+(define-public crate-cargo-nuget-0.1.0 (c (n "cargo-nuget") (v "0.1.0") (d (list (d (n "chrono") (r "~0.3") (d #t) (k 0)) (d (n "clap") (r "~2.21") (d #t) (k 0)) (d (n "lazy_static") (r "~0.2") (d #t) (k 0)) (d (n "log") (r "~0.3") (d #t) (k 0)) (d (n "quick-error") (r "~1.1") (d #t) (k 0)) (d (n "semver") (r "~0.6") (d #t) (k 0)) (d (n "term-painter") (r "~0.2") (d #t) (k 0)) (d (n "toml") (r "~0.2") (f (quote ("serde"))) (k 0)) (d (n "xml-rs") (r "~0.3") (d #t) (k 0)) (d (n "zip") (r "~0.2") (d #t) (k 0)))) (h "1k1d65pfg9k4fqd9yibl4qy186gf7lvb44grzc35syb372y0a6bf")))
+

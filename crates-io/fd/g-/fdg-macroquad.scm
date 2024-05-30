@@ -1,0 +1,18 @@
+(define-module (crates-io fd g- fdg-macroquad) #:use-module (crates-io))
+
+(define-public crate-fdg-macroquad-0.2.0 (c (n "fdg-macroquad") (v "0.2.0") (d (list (d (n "egui-macroquad") (r "^0.9") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0k8d76icdmyba7mfhblwzy5068v2324smn0gw5w1h8zvyqn6hk4y")))
+
+(define-public crate-fdg-macroquad-0.2.1 (c (n "fdg-macroquad") (v "0.2.1") (d (list (d (n "egui-macroquad") (r "^0.9") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.2") (f (quote ("json"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 2)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0hvgq4sqzq4608awmfiv64gacbpyyswc1jqk3saqpv1zfmi4gb3c")))
+
+(define-public crate-fdg-macroquad-0.3.0 (c (n "fdg-macroquad") (v "0.3.0") (d (list (d (n "egui-macroquad") (r "^0.9") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.4.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "18rv79qx4y83k66k7f4gpskiqn0iz43nriyf9gjp6a5p50wcw9xb")))
+
+(define-public crate-fdg-macroquad-0.3.1 (c (n "fdg-macroquad") (v "0.3.1") (d (list (d (n "egui-macroquad") (r "^0.9") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.4.0") (f (quote ("json"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "011i3cdcxwzhyyrky18czhn3943q1ag727i6l63dfqn17hq72407")))
+
+(define-public crate-fdg-macroquad-0.3.2 (c (n "fdg-macroquad") (v "0.3.2") (d (list (d (n "egui-macroquad") (r "^0.11.0") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1fxbkb2fa4flrrnsd9r3wcvia542d5irssgsyhdnyriqcai7kcck")))
+
+(define-public crate-fdg-macroquad-0.3.3 (c (n "fdg-macroquad") (v "0.3.3") (d (list (d (n "egui-macroquad") (r "^0.11") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.6") (f (quote ("json"))) (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1pq057bj6biy2n8qwpd05az8m8mcsacn6k7zbi3j2pachdrz74fa")))
+
+(define-public crate-fdg-macroquad-0.3.4 (c (n "fdg-macroquad") (v "0.3.4") (d (list (d (n "egui-macroquad") (r "^0.11") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.7") (f (quote ("json"))) (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1b4w3ff2q8k28b07ymb1m7hl1q9xm1187219i65b7j5ifg0mv30n")))
+
+(define-public crate-fdg-macroquad-0.4.0 (c (n "fdg-macroquad") (v "0.4.0") (d (list (d (n "egui-macroquad") (r "^0.11") (d #t) (k 0)) (d (n "fdg-sim") (r "^0.8") (f (quote ("json"))) (d #t) (k 0)) (d (n "macroquad") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "01f26vqpfbxr67b09ym50s8c2nl0d0hqkvgiqfx56n3l20a60p8y")))
+

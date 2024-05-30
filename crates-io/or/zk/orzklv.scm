@@ -1,0 +1,12 @@
+(define-module (crates-io or zk orzklv) #:use-module (crates-io))
+
+(define-public crate-orzklv-0.0.1 (c (n "orzklv") (v "0.0.1") (d (list (d (n "serde") (r "^1.0.196") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 2)) (d (n "teloxide") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "14lkpw1c71cx6kjhrqw3w6hwpkiicvq72gllws7vmid3a4f0q59s") (f (quote (("string") ("cli")))) (s 2) (e (quote (("telegram" "dep:teloxide" "dep:url"))))))
+
+(define-public crate-orzklv-0.0.2 (c (n "orzklv") (v "0.0.2") (d (list (d (n "serde") (r "^1.0.196") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 2)) (d (n "teloxide") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "12rcsk86rrmfgg9yq2ji7hhddsx9df7pz88vw4118rs93jyabxv8") (f (quote (("string") ("full" "telegram" "string" "cli") ("cli")))) (s 2) (e (quote (("telegram" "dep:teloxide" "dep:url"))))))
+
+(define-public crate-orzklv-0.0.3 (c (n "orzklv") (v "0.0.3") (d (list (d (n "serde") (r "^1.0.196") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 2)) (d (n "teloxide") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "0z81wqqxqp58vr1jifckdqagnr0gjkd9idsxv6xys0z5z9455kxy") (f (quote (("string") ("full" "telegram" "string" "cli") ("cli")))) (s 2) (e (quote (("telegram" "dep:teloxide" "dep:url"))))))
+
+(define-public crate-orzklv-0.0.4 (c (n "orzklv") (v "0.0.4") (d (list (d (n "async-trait") (r "^0.1.77") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 2)) (d (n "teloxide") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "150ciazsiwn0j0x39znhnivm5f3c3cfsahd9vd0x0brr0dijcq8k") (f (quote (("string") ("full" "telegram" "string" "cli") ("cli")))) (s 2) (e (quote (("telegram" "dep:teloxide" "dep:url" "dep:tokio" "dep:async-trait"))))))
+
+(define-public crate-orzklv-0.0.5 (c (n "orzklv") (v "0.0.5") (d (list (d (n "async-trait") (r "^0.1.77") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 2)) (d (n "teloxide") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "0zfs61grkj66ia80pmjhsxn7xk71f8346fmwhjipk017r8gwjyjy") (f (quote (("string") ("full" "telegram" "string" "cli") ("cli")))) (s 2) (e (quote (("telegram" "dep:teloxide" "dep:url" "dep:tokio" "dep:async-trait"))))))
+

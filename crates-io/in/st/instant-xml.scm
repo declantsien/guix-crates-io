@@ -1,0 +1,14 @@
+(define-module (crates-io in st instant-xml) #:use-module (crates-io))
+
+(define-public crate-instant-xml-0.1.0 (c (n "instant-xml") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "macros") (r "^0.1") (d #t) (k 0) (p "instant-xml-macros")) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.3") (d #t) (k 0)))) (h "1chh2gahnvdg240lp8n4gb4jxn2xqcdnqxd685gs99qc3650p0aw") (r "1.58")))
+
+(define-public crate-instant-xml-0.2.0 (c (n "instant-xml") (v "0.2.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "macros") (r "^0.2") (d #t) (k 0) (p "instant-xml-macros")) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.3") (d #t) (k 0)))) (h "149rn0b17nsmsk2fziapz7f6i8q8iv63kl9g1chf64krldk11x8k") (r "1.58")))
+
+(define-public crate-instant-xml-0.3.0 (c (n "instant-xml") (v "0.3.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "macros") (r "^0.3") (d #t) (k 0) (p "instant-xml-macros")) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.3") (d #t) (k 0)))) (h "0lcz7mmx1czb74i5i6y86gmsj4csy0748d10mff1lil2hch3r3nk") (r "1.58")))
+
+(define-public crate-instant-xml-0.3.1 (c (n "instant-xml") (v "0.3.1") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "macros") (r "^0.3") (d #t) (k 0) (p "instant-xml-macros")) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.3") (d #t) (k 0)))) (h "15lzlb78680h4d4m33y6h3916wyqmsk75l4jjccyr56k1pwc91w1") (r "1.58")))
+
+(define-public crate-instant-xml-0.3.2 (c (n "instant-xml") (v "0.3.2") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "macros") (r "^0.3.2") (d #t) (k 0) (p "instant-xml-macros")) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.3") (d #t) (k 0)))) (h "1qyx9d3gk0wscyhwq2p1ii66293mwpw27ncyxfxmdmb96rjas8pl") (r "1.58")))
+
+(define-public crate-instant-xml-0.4.0 (c (n "instant-xml") (v "0.4.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "macros") (r "^0.4.0") (d #t) (k 0) (p "instant-xml-macros")) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)) (d (n "xmlparser") (r "^0.13.3") (d #t) (k 0)))) (h "162bblf0jqksq5d1ym0agsbx521f98asgbfp47my17641md6hbpk") (r "1.61")))
+

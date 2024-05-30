@@ -1,0 +1,10 @@
+(define-module (crates-io kn ur knurdy) #:use-module (crates-io))
+
+(define-public crate-knurdy-0.1.0 (c (n "knurdy") (v "0.1.0") (d (list (d (n "ahash") (r "^0.8.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "kdl") (r "^4.5.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.23") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)))) (h "1hq024wv4c24m3hb268mc3zxjijw547viyk2w9lxlayw1p7gj08r")))
+
+(define-public crate-knurdy-0.1.1 (c (n "knurdy") (v "0.1.1") (d (list (d (n "ahash") (r "^0.8.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "kdl") (r "^4.5.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.23") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)))) (h "1ncdg7kardxvnzidibxbf51wn344d9ykm8pqq1ms89aw2j75ygx9")))
+
+(define-public crate-knurdy-0.1.2 (c (n "knurdy") (v "0.1.2") (d (list (d (n "ahash") (r "^0.8.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "kdl") (r "^4.5.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.23") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)))) (h "1wc1kf0bl3bzvhj0cyyzjpv5c87wm5imwhvkq41f0w1zf7ai4vzh")))
+
+(define-public crate-knurdy-0.2.0 (c (n "knurdy") (v "0.2.0") (d (list (d (n "ahash") (r "^0.8.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "kdl") (r "^4.5.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol_str") (r "^0.1.23") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.34") (d #t) (k 0)))) (h "0g1y0z36igv3v4zi9s62lj3q2y1pl5djr3x259fpin9cjbmnydsx")))
+

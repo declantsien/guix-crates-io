@@ -1,0 +1,12 @@
+(define-module (crates-io sc li sclink) #:use-module (crates-io))
+
+(define-public crate-sclink-0.1.0 (c (n "sclink") (v "0.1.0") (h "03mzis5z2ii64fhmvbpcrvbpindcvx22ih3zx7bxxhl5bfajic70")))
+
+(define-public crate-sclink-0.1.1 (c (n "sclink") (v "0.1.1") (d (list (d (n "borsh") (r ">=0.9.1") (d #t) (k 0)) (d (n "borsh-derive") (r ">=0.9.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.7.2") (d #t) (k 0)) (d (n "so-defi-utils") (r "^0.1.5") (d #t) (k 0)) (d (n "solana-client") (r ">=1.7") (d #t) (k 2)) (d (n "solana-program") (r ">=1.7") (d #t) (k 0)) (d (n "solana-sdk") (r ">=1.7") (d #t) (k 2)) (d (n "static-pubkey") (r "^1.0.2") (d #t) (k 0)) (d (n "type-layout") (r "^0.2.0") (d #t) (k 0)))) (h "1fzgmwk4jw6qcwbkpp58vk82zhkklciv6l72732k02y120q5pi4v")))
+
+(define-public crate-sclink-0.1.2 (c (n "sclink") (v "0.1.2") (d (list (d (n "borsh") (r ">=0.9.1") (d #t) (k 0)) (d (n "borsh-derive") (r ">=0.9.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.7.2") (d #t) (k 0)) (d (n "so-defi-utils") (r "^0.1.5") (d #t) (k 0)) (d (n "solana-client") (r ">=1.7") (d #t) (k 2)) (d (n "solana-program") (r ">=1.7") (d #t) (k 0)) (d (n "solana-sdk") (r ">=1.7") (d #t) (k 2)) (d (n "static-pubkey") (r "^1.0.2") (d #t) (k 0)) (d (n "type-layout") (r "^0.2.0") (d #t) (k 0)))) (h "1y4qh790pkp3sy0125mrplvrzj1y3wr115rk3mlxnqnsngx0mfdz")))
+
+(define-public crate-sclink-0.1.3 (c (n "sclink") (v "0.1.3") (d (list (d (n "borsh") (r ">=0.9.1") (d #t) (k 0)) (d (n "borsh-derive") (r ">=0.9.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.7.2") (d #t) (k 0)) (d (n "so-defi-utils") (r "^0.1.5") (d #t) (k 0)) (d (n "solana-client") (r ">=1.7") (d #t) (k 2)) (d (n "solana-program") (r ">=1.7") (d #t) (k 0)) (d (n "solana-sdk") (r ">=1.7") (d #t) (k 2)) (d (n "static-pubkey") (r "^1.0.2") (d #t) (k 0)) (d (n "type-layout") (r "^0.2.0") (d #t) (k 0)))) (h "14fjddrlv2sv9hv4fdlrm02vlgrk2z1cw78w70dql2g6lq8spv0s")))
+
+(define-public crate-sclink-0.1.4 (c (n "sclink") (v "0.1.4") (d (list (d (n "borsh") (r ">=0.9.1") (d #t) (k 0)) (d (n "borsh-derive") (r ">=0.9.1") (d #t) (k 0)) (d (n "bytemuck") (r "^1.7.2") (d #t) (k 0)) (d (n "so-defi-utils") (r "^0.1.6") (d #t) (k 0)) (d (n "solana-client") (r ">=1.6") (d #t) (k 2)) (d (n "solana-program") (r ">=1.6") (d #t) (k 0)) (d (n "solana-sdk") (r ">=1.6") (d #t) (k 2)) (d (n "static-pubkey") (r "^1.0.2") (d #t) (k 0)) (d (n "type-layout") (r "^0.2.0") (d #t) (k 0)))) (h "0gnwx5rpzhcmrl9la4fkr26gpbbvkvskvj502riwvwrn6a74hq02")))
+

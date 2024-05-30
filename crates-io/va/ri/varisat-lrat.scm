@@ -1,0 +1,6 @@
+(define-module (crates-io va ri varisat-lrat) #:use-module (crates-io))
+
+(define-public crate-varisat-lrat-0.2.1 (c (n "varisat-lrat") (v "0.2.1") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "itoa") (r "^0.4.4") (d #t) (k 0)) (d (n "leb128") (r "^0.2.3") (d #t) (k 0)) (d (n "proptest") (r "^0.9.3") (d #t) (k 2)) (d (n "tempfile") (r "^3.0.7") (d #t) (k 2)) (d (n "varisat") (r "= 0.2.1") (d #t) (k 2)) (d (n "varisat-checker") (r "= 0.2.1") (d #t) (k 0)) (d (n "varisat-formula") (r "= 0.2.1") (d #t) (k 0)) (d (n "varisat-formula") (r "= 0.2.1") (f (quote ("proptest-strategies" "internal-testing"))) (d #t) (k 2)))) (h "0zjpqs1mkdrwdlg1fjrpjipyxhsjjdp1cyijjqw1k724804f04dm")))
+
+(define-public crate-varisat-lrat-0.2.2 (c (n "varisat-lrat") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.32") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.32") (d #t) (k 1)) (d (n "itoa") (r "^0.4.4") (d #t) (k 0)) (d (n "leb128") (r "^0.2.4") (d #t) (k 0)) (d (n "proptest") (r "^0.10.1") (d #t) (k 2)) (d (n "tempfile") (r "^3.0.8") (d #t) (k 2)) (d (n "varisat") (r "=0.2.2") (d #t) (k 2)) (d (n "varisat-checker") (r "=0.2.2") (d #t) (k 0)) (d (n "varisat-formula") (r "=0.2.2") (d #t) (k 0)) (d (n "varisat-formula") (r "=0.2.2") (f (quote ("proptest-strategies" "internal-testing"))) (d #t) (k 2)))) (h "1gasqspdzn5jyyrpj0hx88d26nm7w39cic8l2y87bcz1aihxh7y7")))
+

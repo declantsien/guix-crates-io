@@ -1,0 +1,14 @@
+(define-module (crates-io mo du modus_ponens) #:use-module (crates-io))
+
+(define-public crate-modus_ponens-0.11.0 (c (n "modus_ponens") (v "0.11.0") (d (list (d (n "bumpalo") (r "^3.2.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.1.2") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1svjy4dyizydz8c0xr2s9igamg6k537galm5wd4lhwp601nh2h46")))
+
+(define-public crate-modus_ponens-0.11.1 (c (n "modus_ponens") (v "0.11.1") (d (list (d (n "bumpalo") (r "^3.2.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.1.2") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "19ddz6cysqlsp5svlvwiajacwxb2x5jg55i50wki2fk8y26npwj4")))
+
+(define-public crate-modus_ponens-0.11.2 (c (n "modus_ponens") (v "0.11.2") (d (list (d (n "bumpalo") (r "^3.2.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.1.2") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1jwgvn47cjns1vmrlkpyj5sy0q87q35yaj9kjdh5mbpw7cd52w4c")))
+
+(define-public crate-modus_ponens-0.11.3 (c (n "modus_ponens") (v "0.11.3") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1dl3l0c7r3awjysy95zw0ww4g4f8iwfa5w6fgx52f4kwgr80j0cx")))
+
+(define-public crate-modus_ponens-0.11.4 (c (n "modus_ponens") (v "0.11.4") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0li5w0qblyw888md3p3mk6a8r8hgfrfnb3yzxmnk5idx00b4vnpk")))
+
+(define-public crate-modus_ponens-0.11.5 (c (n "modus_ponens") (v "0.11.5") (d (list (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pest") (r "^2.1.3") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "12m3c50m2sf6q72agkkc3pmbadjr3lpwqv5nxvz6sm6v2l7kkfnz")))
+

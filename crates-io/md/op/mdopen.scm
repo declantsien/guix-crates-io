@@ -1,0 +1,10 @@
+(define-module (crates-io md op mdopen) #:use-module (crates-io))
+
+(define-public crate-mdopen-0.1.0 (c (n "mdopen") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.21.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nanotemplate") (r "^0.3.0") (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.0") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)))) (h "0cabcb0fa3zv9swddnpmkc9sql2zjgqljxgdxyy8sln2jyhms4d4")))
+
+(define-public crate-mdopen-0.2.0 (c (n "mdopen") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.21.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nanotemplate") (r "^0.3.0") (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)))) (h "1gcm03d0m91lrgnj08cinfiplccfyqwgd7j8nfy19phb01v7ai2i")))
+
+(define-public crate-mdopen-0.3.0 (c (n "mdopen") (v "0.3.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comrak") (r "^0.21.0") (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nanotemplate") (r "^0.3.0") (d #t) (k 0)) (d (n "open") (r "^5") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)))) (h "0icxcjb786mhxih73ppyh9sshfilvxm5k1nfbxywrn96sdbhx1ka")))
+
+(define-public crate-mdopen-0.4.0 (c (n "mdopen") (v "0.4.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "markdown") (r "^1.0.0-alpha.16") (d #t) (k 0)) (d (n "nanotemplate") (r "^0.3.0") (d #t) (k 0)) (d (n "open") (r "^5") (d #t) (k 0)) (d (n "percent-encoding") (r "^2") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12.0") (d #t) (k 0)))) (h "0fi2lv4fvzb9yg166dzwj884vik1aqpnb9nppl7rrb1m2qdk19xr")))
+

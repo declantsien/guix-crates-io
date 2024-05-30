@@ -1,0 +1,6 @@
+(define-module (crates-io sc ra scrapman) #:use-module (crates-io))
+
+(define-public crate-scrapman-0.1.0 (c (n "scrapman") (v "0.1.0") (d (list (d (n "fantoccini") (r "^0.17.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "json_dotpath") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)) (d (n "tokio") (r "^1.3.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1qplsp7p020b72vb9ia5pnr5lsigf7zq740g26knyirwxbp2kycf")))
+
+(define-public crate-scrapman-0.1.1 (c (n "scrapman") (v "0.1.1") (d (list (d (n "async-trait") (r "^0.1.48") (d #t) (k 0)) (d (n "fantoccini") (r "^0.17.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "json_dotpath") (r "^1.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "mockall") (r "^0.9.1") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.124") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.17") (d #t) (k 2)) (d (n "tokio") (r "^1.3.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "typetag") (r "^0.1.7") (d #t) (k 0)))) (h "092482rb1q2xr2vnw1xqb4f94swxp59pq7paaamc97jn36l31k9c")))
+

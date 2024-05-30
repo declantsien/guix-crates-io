@@ -1,0 +1,10 @@
+(define-module (crates-io av an avantis-rust-utilities) #:use-module (crates-io))
+
+(define-public crate-avantis-rust-utilities-0.1.0 (c (n "avantis-rust-utilities") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1fyhjnxp6gza1h4ddniacb5nrzkpnwlgcsabx0w2wd7q229c2bz1") (f (quote (("default" "cfg") ("cfg" "config" "strum" "serde" "anyhow"))))))
+
+(define-public crate-avantis-rust-utilities-0.1.1 (c (n "avantis-rust-utilities") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0ivzy9ai1p8fy0x9k9f55yqhjzy8mmbk207wgwxhrmlk2xqq8anw") (f (quote (("default" "cfg") ("cfg" "config" "strum" "serde" "anyhow"))))))
+
+(define-public crate-avantis-rust-utilities-0.1.2 (c (n "avantis-rust-utilities") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "000sn9bvd10z2pnrl8mz257jyky1zafs9k3rv623hz4zvv0xixyn") (f (quote (("default" "cfg") ("cfg" "config" "strum" "serde" "anyhow"))))))
+
+(define-public crate-avantis-rust-utilities-0.1.3 (c (n "avantis-rust-utilities") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "config") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "strum") (r "^0.24") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "18r8577vxwxzz8br0n1g0m7pb41zygf4xxqadavng7c58bcvfiql") (f (quote (("default" "cfg") ("cfg" "config" "strum" "serde" "anyhow"))))))
+

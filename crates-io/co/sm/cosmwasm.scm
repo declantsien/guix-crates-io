@@ -1,0 +1,36 @@
+(define-module (crates-io co sm cosmwasm) #:use-module (crates-io))
+
+(define-public crate-cosmwasm-0.1.0 (c (n "cosmwasm") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.60") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "03jrfipxxb48iif3jwgspy3076n7z941rkr5ynf1h3x2frzx1ljy") (y #t)))
+
+(define-public crate-cosmwasm-0.2.0 (c (n "cosmwasm") (v "0.2.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.60") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "0wqwjw7af22smj1zzj04qk06pq78zp35wfs6pxzcl3bl70w2a0hi") (y #t)))
+
+(define-public crate-cosmwasm-0.3.0 (c (n "cosmwasm") (v "0.3.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.60") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "0z4m3q6kb3mwdfayw641cwfiak19sb44p6n65bpdbgi1wry1iaph") (y #t)))
+
+(define-public crate-cosmwasm-0.4.0 (c (n "cosmwasm") (v "0.4.0") (d (list (d (n "serde") (r "^1.0.60") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.0") (d #t) (k 0)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "1mxagls22lbl683mx86irxvh4lx0qc8j731r0pbhhb9khgnk3gfy") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.4.1 (c (n "cosmwasm") (v "0.4.1") (d (list (d (n "serde") (r "^1.0.60") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.1") (d #t) (k 0)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "1p2yv49sgyg8hdqksl4fzxxb0s4llfv41vrf5ypi73d71zwpijry") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.4.2 (c (n "cosmwasm") (v "0.4.2") (d (list (d (n "serde") (r "^1.0.60") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.1") (d #t) (k 0)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0va81q8p5nzlj1zcri3d73r59lkic8ck5nv77yr47w3hmzq45bxa") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.5.0 (c (n "cosmwasm") (v "0.5.0") (d (list (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.1") (d #t) (k 0)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "1l3650f0q3zsa56ycjqrxg8dgn1y7sxjb6fdqaj02cvyvxan5byi") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.5.1 (c (n "cosmwasm") (v "0.5.1") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0arczz54mvnmz5cg1fgk785lajxb9v84f0cwzxvb3ddn7zv9a5s2") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.5.2 (c (n "cosmwasm") (v "0.5.2") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0fkghxshnv25pxfs483jccxf04rim52phrbb9pdnzg11584xjmvg") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.6.0 (c (n "cosmwasm") (v "0.6.0") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0c8k49ccpidyhxpjg3qsjl890d14dxjh1gpq2iyb161ss48a9lv2") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.6.1 (c (n "cosmwasm") (v "0.6.1") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0skhd16l639p2070gm507pscxx7yjr0jr0wwhyxyj5kp499l4na8") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.6.2 (c (n "cosmwasm") (v "0.6.2") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0vsbrg3j4br1gd8zsbpfzzwj63m1rcwz6ys3yi80ig9abbpiwym5") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.6.3 (c (n "cosmwasm") (v "0.6.3") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "0pbkfsq8aqfxhb40l3519jq2gr33wxz017146sdfdkin64agd0ck") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.6.4 (c (n "cosmwasm") (v "0.6.4") (d (list (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "121dd51w3qqx3rq70411sjv9jqv7lycz1rd6a0zzf7kcqy6r24dj") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.7.0 (c (n "cosmwasm") (v "0.7.0") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "016pw8kjlw8s0mfcwv16k9hn8qxbcdb5kbfbyk5kfaj2rq3lav1y") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.7.1 (c (n "cosmwasm") (v "0.7.1") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "1gfdd58lgwn1fs66df869dbk2ash9kb8lqvssnm2bzbhahwz4za3") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+
+(define-public crate-cosmwasm-0.7.2 (c (n "cosmwasm") (v "0.7.2") (d (list (d (n "base64") (r "^0.11.0") (d #t) (k 0)) (d (n "schemars") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde-json-wasm") (r "^0.1.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "snafu") (r "^0.5.0") (f (quote ("rust_1_30"))) (k 0)))) (h "1dabmwki5mjfzg6ga7y9h96lib4n6zd4zf6a690kzhzamdyww2c7") (f (quote (("backtraces" "snafu/backtraces")))) (y #t)))
+

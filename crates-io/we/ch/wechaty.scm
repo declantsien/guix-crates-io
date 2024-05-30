@@ -1,0 +1,6 @@
+(define-module (crates-io we ch wechaty) #:use-module (crates-io))
+
+(define-public crate-wechaty-0.1.0-beta.0 (c (n "wechaty") (v "0.1.0-beta.0") (d (list (d (n "actix") (r "^0.11.0-beta.2") (d #t) (k 0)) (d (n "actix-rt") (r "^2.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "wechaty-puppet-service") (r "^0.1.0-beta.0") (d #t) (k 2)) (d (n "wechaty_puppet") (r "^0.1.0-beta.0") (d #t) (k 0)))) (h "1dd50r3d6075vh8q3c8srdm7p3ryq8jcbmkspzhzqi8czd18af7v")))
+
+(define-public crate-wechaty-0.1.0-beta.1 (c (n "wechaty") (v "0.1.0-beta.1") (d (list (d (n "actix") (r "^0.11") (d #t) (k 0)) (d (n "actix-rt") (r "^2.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.8") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.2") (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)) (d (n "wechaty-puppet-service") (r "^0.1.0-beta.1") (d #t) (k 2)) (d (n "wechaty_puppet") (r "^0.1.0-beta.1") (d #t) (k 0)))) (h "12ca2pygifiiw2lj85ncbc2r3rlkl0gqidgjz7c2c7ak78kg2p67")))
+

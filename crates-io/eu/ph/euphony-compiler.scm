@@ -1,0 +1,4 @@
+(define-module (crates-io eu ph euphony-compiler) #:use-module (crates-io))
+
+(define-public crate-euphony-compiler-0.1.1 (c (n "euphony-compiler") (v "0.1.1") (d (list (d (n "blake3") (r "^1") (d #t) (k 0)) (d (n "bolero") (r "^0.7") (d #t) (k 2)) (d (n "euphony-buffer") (r "^0.1") (d #t) (k 0)) (d (n "euphony-command") (r "^0.1") (d #t) (k 0)) (d (n "euphony-dsp") (r "^0.1") (d #t) (k 0)) (d (n "euphony-graph") (r "^0.1") (d #t) (k 0)) (d (n "euphony-node") (r "^0.1") (d #t) (k 0)) (d (n "euphony-units") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (d #t) (k 0)) (d (n "rayon") (r "^1") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 2)))) (h "1hnnmvr5h96rdmzamiw1dl4rdqf05jqiz9nwf98j1a8f5bygcwi2") (f (quote (("parallel" "rayon" "euphony-graph/rayon") ("default"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# q qrg) #:use-module (crates-io))
+
+(define-public crate-qrg-0.1.0-rc1 (c (n "qrg") (v "0.1.0-rc1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "qr-rs-common") (r "^0.1.0-rc1") (d #t) (k 0)) (d (n "qr-rs-lib") (r "^0.1.0-rc1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)))) (h "1hssmd7ir67hr701ln3vws5a1n84v27cr938y610gbgag3vq3shx")))
+
+(define-public crate-qrg-0.1.0 (c (n "qrg") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "qr-rs-common") (r "^0.1.0") (d #t) (k 0)) (d (n "qr-rs-lib") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)))) (h "0qb77qwmfgy64crw4hhkl144bhn7vh7a92ifnqc7zysnrqd084dl")))
+
+(define-public crate-qrg-0.1.1 (c (n "qrg") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "qr-rs-common") (r "^0.1.0") (d #t) (k 0)) (d (n "qr-rs-lib") (r "^0.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.24.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)))) (h "1gszvq6ncaprar1wf1si4v8liwns4pk0nqg46hg9z2v10pffppnb")))
+

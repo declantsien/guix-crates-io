@@ -1,0 +1,10 @@
+(define-module (crates-io he ph heph) #:use-module (crates-io))
+
+(define-public crate-heph-0.0.0 (c (n "heph") (v "0.0.0") (h "1kp4dzzy5iaxb88bpnvjwikfbslds6cy7rgg322pv6cn0xq19z1a") (y #t)))
+
+(define-public crate-heph-0.3.0 (c (n "heph") (v "0.3.0") (d (list (d (n "crossbeam-channel") (r "^0.5.0") (f (quote ("std"))) (k 0)) (d (n "getrandom") (r "^0.2.2") (f (quote ("std"))) (o #t) (k 0)) (d (n "getrandom") (r "^0.2.2") (f (quote ("std"))) (k 2)) (d (n "heph-inbox") (r "^0.1.0") (k 0)) (d (n "libc") (r "^0.2.79") (k 0)) (d (n "log") (r "^0.4.8") (k 0)) (d (n "mio") (r "^0.7.5") (f (quote ("os-poll" "tcp" "udp" "pipe"))) (k 0)) (d (n "mio-signals") (r "^0.1.2") (k 0)) (d (n "socket2") (r "^0.4.0") (f (quote ("all"))) (k 0)) (d (n "std-logger") (r "^0.4.0") (f (quote ("log-panic" "nightly"))) (k 2)))) (h "0pknx8jx3f51lq0wiiyhp13ka4n4sa4c6rbzrl797pv5a9mziggp") (f (quote (("test" "getrandom") ("default"))))))
+
+(define-public crate-heph-0.3.1 (c (n "heph") (v "0.3.1") (d (list (d (n "crossbeam-channel") (r "^0.5.0") (f (quote ("std"))) (k 0)) (d (n "getrandom") (r "^0.2.2") (f (quote ("std"))) (o #t) (k 0)) (d (n "getrandom") (r "^0.2.2") (f (quote ("std"))) (k 2)) (d (n "heph-inbox") (r "^0.2.1") (k 0)) (d (n "libc") (r "^0.2.96") (k 0)) (d (n "log") (r "^0.4.8") (k 0)) (d (n "mio") (r "^0.7.5") (f (quote ("os-poll" "tcp" "udp" "pipe"))) (k 0)) (d (n "mio-signals") (r "^0.1.5") (k 0)) (d (n "socket2") (r "^0.4.0") (f (quote ("all"))) (k 0)) (d (n "std-logger") (r "^0.4.0") (f (quote ("log-panic" "nightly"))) (k 2)))) (h "1ca2sgqyf30sbk1xav98m2w2k0qkh8mvlbvrmikxy7ms7j18xwsc") (f (quote (("test" "getrandom") ("default"))))))
+
+(define-public crate-heph-0.4.0 (c (n "heph") (v "0.4.0") (d (list (d (n "getrandom") (r "^0.2.2") (f (quote ("std"))) (o #t) (k 0)) (d (n "getrandom") (r "^0.2.2") (f (quote ("std"))) (k 2)) (d (n "heph-inbox") (r "^0.2.1") (k 0)) (d (n "log") (r "^0.4.16") (f (quote ("kv_unstable" "kv_unstable_std"))) (k 0)) (d (n "std-logger") (r "^0.4.0") (f (quote ("log-panic" "nightly"))) (k 2)))) (h "11jy08y964g4hrisxpb3mq279bbrgr4xnhr0vfafn8gvxnk2dm9m") (f (quote (("test" "getrandom"))))))
+

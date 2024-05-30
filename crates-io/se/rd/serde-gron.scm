@@ -1,0 +1,8 @@
+(define-module (crates-io se rd serde-gron) #:use-module (crates-io))
+
+(define-public crate-serde-gron-0.1.0 (c (n "serde-gron") (v "0.1.0") (d (list (d (n "bool_ext") (r "^0.5") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1hr3smq7125qwkr7az0cf0dk36avpxqvlx7sy3j632asgmpdsjmz")))
+
+(define-public crate-serde-gron-0.1.1 (c (n "serde-gron") (v "0.1.1") (d (list (d (n "bool_ext") (r "^0.5") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0j5d4vh2x0rhqvgfmgsf65zhzwkqqly0fjxa55ccai24d00aqg85")))
+
+(define-public crate-serde-gron-0.1.2 (c (n "serde-gron") (v "0.1.2") (d (list (d (n "bool_ext") (r "^0.5") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "12raxr7bazrfw0ing3mzdanqzr93ldq2i6p7mfygfl53cvviyhdk")))
+

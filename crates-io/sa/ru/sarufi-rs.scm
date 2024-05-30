@@ -1,0 +1,4 @@
+(define-module (crates-io sa ru sarufi-rs) #:use-module (crates-io))
+
+(define-public crate-sarufi-rs-0.1.0 (c (n "sarufi-rs") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1.0.4") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "insta") (r "^1.8.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simple_logger") (r "^1.11") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^1.3.1") (f (quote ("v4"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "08dn8fgf9jqciyafnqjz7hbl4lr165871660jbsibnv2rdpr1yda")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io lo gl loglogd) #:use-module (crates-io))
+
+(define-public crate-loglogd-0.1.0 (c (n "loglogd") (v "0.1.0") (d (list (d (n "binrw") (r "^0.9.2") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "error-stack") (r "^0.1.1") (d #t) (k 0)) (d (n "nix") (r "^0.24.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("macros" "rt" "rt-multi-thread" "signal" "io-util" "net" "sync"))) (d #t) (k 0)) (d (n "tokio-uring") (r "^0.3.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.35") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "typed-builder") (r "^0.10.0") (d #t) (k 0)))) (h "04w5sv6fql5snsn5vhxzs1529hlg3af18sgy33mvzjm52wbiqnxp")))
+

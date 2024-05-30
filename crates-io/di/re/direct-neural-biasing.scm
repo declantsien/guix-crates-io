@@ -1,0 +1,18 @@
+(define-module (crates-io di re direct-neural-biasing) #:use-module (crates-io))
+
+(define-public crate-direct-neural-biasing-0.6.0 (c (n "direct-neural-biasing") (v "0.6.0") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.2.3") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "193097cxa0zjdsdr217wifwq24vn1dbjy187ijzcby7c6wbx812v")))
+
+(define-public crate-direct-neural-biasing-0.6.1 (c (n "direct-neural-biasing") (v "0.6.1") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.2.3") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "0zzi65lf0l5hd8cpsgys3j445067mqw56ai0mlhw6cgralyksy3x")))
+
+(define-public crate-direct-neural-biasing-0.6.2 (c (n "direct-neural-biasing") (v "0.6.2") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.2.3") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "127iw3nmvhlmyrzzzgvr7mz33by0apdyqwphaifd7x62dpjyqxfc")))
+
+(define-public crate-direct-neural-biasing-0.6.3 (c (n "direct-neural-biasing") (v "0.6.3") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.2.3") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "1adbdzsn3srsgmvv2az77wxzj93lnjfgx93lcvvnfa9yf8p03a58")))
+
+(define-public crate-direct-neural-biasing-0.6.4 (c (n "direct-neural-biasing") (v "0.6.4") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.2.3") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "0k0wh613azx1vx97jgzr3v41f2bc282kfblhj2vpcbw5dwf9k6v6")))
+
+(define-public crate-direct-neural-biasing-0.6.6 (c (n "direct-neural-biasing") (v "0.6.6") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.5.1") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "0agvv18bh2zzhaaidg1i0hd6bdiswqkirzqymds3pwkwqvmss7kn")))
+
+(define-public crate-direct-neural-biasing-0.6.7 (c (n "direct-neural-biasing") (v "0.6.7") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.5.1") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "0fb15w5qxd1aw807qz7g91yfrcscidw1i5kv47kay7hizwmxajgq")))
+
+(define-public crate-direct-neural-biasing-0.6.8 (c (n "direct-neural-biasing") (v "0.6.8") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.5.1") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "1pgs814yskclfy67i0rkarf2hswwk3aplgznry2hbsgh3b1w5r6h")))
+

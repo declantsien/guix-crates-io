@@ -1,0 +1,8 @@
+(define-module (crates-io ji ra jira_to_gantt) #:use-module (crates-io))
+
+(define-public crate-jira_to_gantt-1.0.0 (c (n "jira_to_gantt") (v "1.0.0") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "gantt_chart") (r "^2.0.0") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)))) (h "1jk8anhx60k53xhcav8r4qvfpgz076imqczchjb31s2srxjw4dz0")))
+
+(define-public crate-jira_to_gantt-2.0.0 (c (n "jira_to_gantt") (v "2.0.0") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "gantt_chart") (r "^2.0.0") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)))) (h "0g26k3i3i7kcra0xgwsxa87cbjc9w3j0497fph9jwax63872nsnk")))
+
+(define-public crate-jira_to_gantt-2.0.1 (c (n "jira_to_gantt") (v "2.0.1") (d (list (d (n "chrono") (r "^0.4.22") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.0.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "csv") (r "^1.1.6") (d #t) (k 0)) (d (n "easy-error") (r "^1.0.0") (d #t) (k 0)) (d (n "gantt_chart") (r "^2.0.0") (d #t) (k 0)) (d (n "json5") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (d #t) (k 0)))) (h "0zy8phnyg1wb30skxrry94y7bmki47dwmhj773gmgxx60f5lz5n3")))
+

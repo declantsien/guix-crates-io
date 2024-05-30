@@ -1,0 +1,4 @@
+(define-module (crates-io tr av travailleur) #:use-module (crates-io))
+
+(define-public crate-travailleur-0.0.1 (c (n "travailleur") (v "0.0.1") (d (list (d (n "garde") (r "^0.18.0") (o #t) (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "0liqal75jdn4nv5s3ijcg1km8rq0cmks43b15a9sfb6lh4n0536r") (f (quote (("default" "validate" "yaml")))) (s 2) (e (quote (("yaml" "dep:serde_yaml") ("validate" "dep:garde" "dep:itertools" "garde/derive"))))))
+

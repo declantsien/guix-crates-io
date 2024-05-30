@@ -1,0 +1,6 @@
+(define-module (crates-io qr -r qr-rs) #:use-module (crates-io))
+
+(define-public crate-qr-rs-0.1.0 (c (n "qr-rs") (v "0.1.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^3.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "qrcodegen") (r "^1.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.3") (d #t) (k 0)))) (h "1pblam50rwl2d4is6wk33pkraq6ndf6asrw7vpygpb0skvhmpaxl") (r "1.62.0")))
+
+(define-public crate-qr-rs-0.2.0 (c (n "qr-rs") (v "0.2.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^3.2.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10.1") (d #t) (k 0)) (d (n "directories") (r "^4.0.1") (d #t) (k 0)) (d (n "image") (r "^0.24.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "qrcodegen") (r "^1.8.0") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.3") (d #t) (k 0)))) (h "1w2ilfa50v854skyicrqs1wf19kg125qsw168ajhg3adracpf5h6") (r "1.62.0")))
+

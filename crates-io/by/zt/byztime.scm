@@ -1,0 +1,6 @@
+(define-module (crates-io by zt byztime) #:use-module (crates-io))
+
+(define-public crate-byztime-2.0.0-alpha1 (c (n "byztime") (v "2.0.0-alpha1") (d (list (d (n "byztime-sys") (r "^2.0.0-alpha1") (d #t) (k 0)) (d (n "errno") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "quickcheck_derive") (r "^0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0xycbyfgv6fp4fd5bqa2ngam2f3jqj03x8xx0z7dvviis33dbjgv") (f (quote (("with_quickcheck" "quickcheck" "rand"))))))
+
+(define-public crate-byztime-2.0.0 (c (n "byztime") (v "2.0.0") (d (list (d (n "byztime-sys") (r "^2.0.0") (d #t) (k 0)) (d (n "errno") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (d #t) (k 2)) (d (n "quickcheck_derive") (r "^0.3") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^0.9") (d #t) (k 2)) (d (n "rand") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)))) (h "0gx4iw64v01f9pzqxs34cg48rrqw1znpifbv8p954q3cacfqiqrz") (f (quote (("with_quickcheck" "quickcheck" "rand"))))))
+

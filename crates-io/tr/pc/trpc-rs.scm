@@ -1,0 +1,6 @@
+(define-module (crates-io tr pc trpc-rs) #:use-module (crates-io))
+
+(define-public crate-trpc-rs-0.0.1 (c (n "trpc-rs") (v "0.0.1") (d (list (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "trpc-rs-macros") (r "^0.0.1") (d #t) (k 0)) (d (n "ts-rs") (r "^6.2.0") (d #t) (k 0)))) (h "18412mfk84mr8v7822wsx3fkr1j9y0b9bc89b0yynbxgrvdwl2fi") (y #t)))
+
+(define-public crate-trpc-rs-0.0.2 (c (n "trpc-rs") (v "0.0.2") (d (list (d (n "axum") (r "^0.5.9") (o #t) (d #t) (k 0)) (d (n "axum") (r "^0.5.9") (d #t) (k 2)) (d (n "once_cell") (r "^1.12.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 2)) (d (n "tower-http") (r "^0.3.4") (f (quote ("cors"))) (k 2)) (d (n "trpc-rs-macros") (r "^0.0.2") (d #t) (k 0)) (d (n "ts-rs") (r "^6.2.0") (d #t) (k 0)))) (h "0cvi5hrmvsfqjhj9529av2833mkzxym6cg843bk1zx08d5a7yj2y") (f (quote (("default")))) (y #t) (s 2) (e (quote (("axum" "dep:axum"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io do ma domain-resolv) #:use-module (crates-io))
+
+(define-public crate-domain-resolv-0.4.0 (c (n "domain-resolv") (v "0.4.0") (d (list (d (n "domain-core") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "tokio-tls") (r "^0.2") (d #t) (k 2)))) (h "185avim4pdllajfb30nc6ah7in6sqkjpaw5b5b03b2m0ybxn1py5")))
+
+(define-public crate-domain-resolv-0.5.0 (c (n "domain-resolv") (v "0.5.0") (d (list (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "domain") (r "^0.5.0") (f (quote ("bytes" "smallvec" "std"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "smallvec") (r "^1.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("io-util" "macros" "tcp" "time" "udp"))) (d #t) (k 0)) (d (n "tokio-tls") (r "^0.3.0") (d #t) (k 2)))) (h "01alxndnw85vx34p4kmzkmm3wgdvss4kj1pgq4fkpmkwbqsn5xmz") (f (quote (("sync" "tokio/rt-core"))))))
+
+(define-public crate-domain-resolv-0.5.1 (c (n "domain-resolv") (v "0.5.1") (d (list (d (n "bytes") (r "^0.5.4") (d #t) (k 0)) (d (n "domain") (r "^0.5.3") (f (quote ("bytes" "smallvec" "std"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.4") (d #t) (k 0)) (d (n "native-tls") (r "^0.2") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "smallvec") (r "^1.2") (d #t) (k 0)) (d (n "tokio") (r "^0.2.13") (f (quote ("io-util" "macros" "tcp" "time" "udp"))) (d #t) (k 0)) (d (n "tokio-tls") (r "^0.3.0") (d #t) (k 2)))) (h "03yg3k5202zjm215sklgnzlfxa321bxc2xrh49ljbh8bm6yjysw3") (f (quote (("sync" "tokio/rt-core"))))))
+

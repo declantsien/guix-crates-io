@@ -1,0 +1,8 @@
+(define-module (crates-io te ss tesseract-swift-transport) #:use-module (crates-io))
+
+(define-public crate-tesseract-swift-transport-0.5.3 (c (n "tesseract-swift-transport") (v "0.5.3") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "errorcon") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tesseract-one") (r "^0.5") (d #t) (k 0)) (d (n "tesseract-swift-utils") (r "^0.5.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1q39lf4z38l4wy1nr1vahi8zrn5bbrsh4szm4zn9b2jf0y9rsqs0") (f (quote (("service" "tesseract-one/service") ("client" "tesseract-one/client"))))))
+
+(define-public crate-tesseract-swift-transport-0.5.4 (c (n "tesseract-swift-transport") (v "0.5.4") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "errorcon") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tesseract-one") (r "^0.5") (d #t) (k 0)) (d (n "tesseract-swift-utils") (r "^0.5.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1iwqjcwf2zp1lgblkdwkkdnr7ilx01qaxv3zcqshb1kjgij4lmjr") (f (quote (("service" "tesseract-one/service") ("client" "tesseract-one/client"))))))
+
+(define-public crate-tesseract-swift-transport-0.5.6 (c (n "tesseract-swift-transport") (v "0.5.6") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "errorcon") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tesseract-one") (r "^0.5") (d #t) (k 0)) (d (n "tesseract-swift-utils") (r "^0.5.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1k066rzz60gcf7xxg9wqz2l74gxyycqi86j7xn0d9gpqsr9j55ml") (f (quote (("service" "tesseract-one/service") ("client" "tesseract-one/client"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io bi nc bincode-sled) #:use-module (crates-io))
+
+(define-public crate-bincode-sled-0.0.1 (c (n "bincode-sled") (v "0.0.1") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "tantivy") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0swcqhghf2kz7qnx473nqgyqgd9l8dp1s8z9zvhdyyn5x8ns3wxw") (f (quote (("search" "tantivy") ("key-generating") ("convert"))))))
+
+(define-public crate-bincode-sled-0.0.2 (c (n "bincode-sled") (v "0.0.2") (d (list (d (n "bincode") (r "^2.0.0-rc") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "tantivy") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1rsl7fbwza9hhw1ayshlh5hr1vpsqrnjhzjxls3vkf6m1m2smknb") (f (quote (("search" "tantivy") ("key-generating") ("convert"))))))
+
+(define-public crate-bincode-sled-0.0.3 (c (n "bincode-sled") (v "0.0.3") (d (list (d (n "bincode") (r "^2.0.0-rc") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "sled") (r "^0.34") (d #t) (k 0)) (d (n "tantivy") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0yzpwlgwnc8mqxjiwj7jskf6cfbx1bzdb0b1g46h77jw20cdfhx8") (f (quote (("search" "tantivy") ("key-generating") ("convert"))))))
+

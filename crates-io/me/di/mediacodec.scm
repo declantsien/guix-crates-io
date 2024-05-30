@@ -1,0 +1,8 @@
+(define-module (crates-io me di mediacodec) #:use-module (crates-io))
+
+(define-public crate-mediacodec-0.1.0 (c (n "mediacodec") (v "0.1.0") (d (list (d (n "android_log") (r "^0.1.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "javavm") (r "^0.1.2") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "jni") (r "^0.19.0") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "log") (r "^0.4.14") (d #t) (t "cfg(target_os = \"android\")") (k 0)))) (h "0rck5p4v0clsl1c6qcgvzp5xzj5w5bvg6r4k66srxx5f7f8flj7f") (f (quote (("api29" "api28") ("api28" "api26") ("api26" "api24") ("api24"))))))
+
+(define-public crate-mediacodec-0.1.1 (c (n "mediacodec") (v "0.1.1") (d (list (d (n "android_log") (r "^0.1.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "javavm") (r "^0.1.2") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "jni") (r "^0.19.0") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "log") (r "^0.4.14") (d #t) (t "cfg(target_os = \"android\")") (k 0)))) (h "0sv6pyvk885pg1qjdxqkzhyclqbz386sc9s4y9s3kl519nf1ii8s") (f (quote (("api29" "api28") ("api28" "api26") ("api26" "api24") ("api24"))))))
+
+(define-public crate-mediacodec-0.1.2 (c (n "mediacodec") (v "0.1.2") (d (list (d (n "android_log") (r "^0.1.3") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "javavm") (r "^0.1.2") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "jni") (r "^0.19.0") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "log") (r "^0.4.14") (d #t) (t "cfg(target_os = \"android\")") (k 0)))) (h "09h9smb6x0v9v7l20pdqd7s6hr3wsbihk2kjnbcx02jihp0nfvar") (f (quote (("api29" "api28") ("api28" "api26") ("api26" "api24") ("api24"))))))
+

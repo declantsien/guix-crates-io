@@ -1,0 +1,8 @@
+(define-module (crates-io et o- eto-cli) #:use-module (crates-io))
+
+(define-public crate-eto-cli-0.2.0 (c (n "eto-cli") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "eto") (r "^0.2.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "sysinfo") (r "^0.27.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1rgag2x8ghjy10llh4sy7rbp7s6bmxkd9j8q0ixwair6z3233y8i")))
+
+(define-public crate-eto-cli-0.2.1 (c (n "eto-cli") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "eto") (r "^0.2.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "sysinfo") (r "^0.27.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0817f9bzdkq5i61pnv2jlgxaa13ym9l26r1k10w78wlks6agmdvs")))
+
+(define-public crate-eto-cli-0.2.2 (c (n "eto-cli") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.65") (d #t) (k 0)) (d (n "clap") (r "^4.0.14") (f (quote ("derive"))) (d #t) (k 0)) (d (n "eto") (r "^0.2.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "sysinfo") (r "^0.27.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.15") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "16jy2yisxlbmglr3vl20lnifzc9sx457x8wpgcfs1dl5xr76xkr0")))
+

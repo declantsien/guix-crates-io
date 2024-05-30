@@ -1,0 +1,4 @@
+(define-module (crates-io bt ct btcturk) #:use-module (crates-io))
+
+(define-public crate-btcturk-0.1.0 (c (n "btcturk") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-std") (r "^1") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "crypto-common") (r "^0.1.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "hmac") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "rust_decimal") (r "^1") (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (d #t) (k 0)) (d (n "surf") (r "^2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1kqab66y9wyhsw4ji5d7sdhkkg6v73vrpasc45121k9l3wnz3mzj")))
+

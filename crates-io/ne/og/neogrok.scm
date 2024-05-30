@@ -1,0 +1,4 @@
+(define-module (crates-io ne og neogrok) #:use-module (crates-io))
+
+(define-public crate-neogrok-1.0.0 (c (n "neogrok") (v "1.0.0") (d (list (d (n "bitflags") (r "^1.3.2") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (f (quote ("async"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mid-idpool") (r "^1.0.0") (d #t) (k 0)) (d (n "mid-net") (r "^1.0.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.15.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("rt" "rt-multi-thread" "net" "sync" "macros" "io-util"))) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)))) (h "16jfcdkg3s3gb1dkya485bmiw6fdr80x90pj5q7k7wvgsgpdd3lg")))
+

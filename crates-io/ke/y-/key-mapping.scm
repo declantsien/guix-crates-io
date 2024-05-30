@@ -1,0 +1,16 @@
+(define-module (crates-io ke y- key-mapping) #:use-module (crates-io))
+
+(define-public crate-key-mapping-0.0.0 (c (n "key-mapping") (v "0.0.0") (h "0hkw50dcgnrbjhrfx0n46mwr8nch3qr0yfmbxarz3ij6dzcyn3rg")))
+
+(define-public crate-key-mapping-0.1.0 (c (n "key-mapping") (v "0.1.0") (d (list (d (n "phf") (r "^0.11") (k 0)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)))) (h "01bjsv1pcrimacppazl1wmgxp4s25ja7cszs99i7wiymrscq6d8k") (f (quote (("std") ("default" "std")))) (r "1.77.0")))
+
+(define-public crate-key-mapping-0.2.0 (c (n "key-mapping") (v "0.2.0") (d (list (d (n "phf") (r "^0.11") (k 0)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "usbd-hid") (r "^0.7") (o #t) (d #t) (k 0)))) (h "00diiwfjhhja7wpsyyawjsy7fdpy933shn7wjslj1x0gvbpj971x") (f (quote (("std") ("default" "std")))) (r "1.77.0")))
+
+(define-public crate-key-mapping-0.2.1 (c (n "key-mapping") (v "0.2.1") (d (list (d (n "phf") (r "^0.11") (k 0)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "usbd-hid") (r "^0.7") (o #t) (d #t) (k 0)))) (h "1lap5n1gqiwpchhgpp8r0k8hc7y6vhflzwgxqw18ymqghlmhl64m") (f (quote (("std") ("default" "std")))) (r "1.77.0")))
+
+(define-public crate-key-mapping-0.2.2 (c (n "key-mapping") (v "0.2.2") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 1)) (d (n "phf") (r "^0.11") (k 0)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "usbd-hid") (r "^0.7") (o #t) (d #t) (k 0)))) (h "1ars8d8p072hkqlzjdkwdzcx8lvrm9560bsybfs4qnzy8f6791jn") (f (quote (("std") ("default" "std")))) (r "1.77.0")))
+
+(define-public crate-key-mapping-0.3.0 (c (n "key-mapping") (v "0.3.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 1)) (d (n "phf") (r "^0.11") (k 0)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "usbd-hid") (r "^0.7") (o #t) (d #t) (k 0)))) (h "05684l6qc3wsb1c475nm62p336p9hxs10ayg6d5h79r73mid015d") (f (quote (("std") ("default" "std")))) (r "1.77.0")))
+
+(define-public crate-key-mapping-0.4.0 (c (n "key-mapping") (v "0.4.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 1)) (d (n "phf") (r "^0.11") (k 0)) (d (n "phf_codegen") (r "^0.11") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "usbd-hid") (r "^0.7") (o #t) (d #t) (k 0)))) (h "015whh65p76gzi5acigyai5d6ny4l9bmzwsi8rsxm5iaakpm2r0g") (f (quote (("std") ("default" "std")))) (r "1.77.0")))
+

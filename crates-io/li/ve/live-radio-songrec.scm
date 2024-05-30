@@ -1,0 +1,4 @@
+(define-module (crates-io li ve live-radio-songrec) #:use-module (crates-io))
+
+(define-public crate-live-radio-songrec-1.0.0 (c (n "live-radio-songrec") (v "1.0.0") (d (list (d (n "base64") (r "^0.12.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "chfft") (r "^0.3.4") (d #t) (k 0)) (d (n "crc32fast") (r "^1.4.0") (d #t) (k 0)) (d (n "gettext-rs") (r "^0.7.0") (d #t) (k 0)) (d (n "infer") (r "^0.15.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.3") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "stream-download") (r "^0.5.2") (d #t) (k 0)) (d (n "tokio") (r "^1.23.1") (f (quote ("macros" "rt"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "04fja6b1jsp4b16hblha6iddsz3j54zmb9db342xcas98rlr77rw")))
+

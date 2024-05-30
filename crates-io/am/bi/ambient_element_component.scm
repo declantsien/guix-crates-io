@@ -1,0 +1,34 @@
+(define-module (crates-io am bi ambient_element_component) #:use-module (crates-io))
+
+(define-public crate-ambient_element_component-0.2.0-rc5 (c (n "ambient_element_component") (v "0.2.0-rc5") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0angspfak1zgzfhwqv3nv7fcds8fdrl03kf4swl1hjbqr2jvc6jf") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.2.0-rc6 (c (n "ambient_element_component") (v "0.2.0-rc6") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0siica6ngfn72hcf45pk7dmm9znjpc2v0ygjjinlq8mjkczz5fv9") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.2.0-rc7 (c (n "ambient_element_component") (v "0.2.0-rc7") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "15hkgrnam87zcvmkys2gzrni5lwk9dclvmsixc3hnci233ihy8i9") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.2.0-rc8 (c (n "ambient_element_component") (v "0.2.0-rc8") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "185chwf336pibms10d284fmam44ma17yjj275z4s1lmxwl1l43cd") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.2.0-rc9 (c (n "ambient_element_component") (v "0.2.0-rc9") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "07vhz5g5h6ksqgwn4cirikmrc2l2rg8h4dgw8n0dvxn54jjsas3r") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.2.0 (c (n "ambient_element_component") (v "0.2.0") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0qlccich3ms15zv59vash13m9dmpca626zj04zcjmdjf5jz75b9x") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.2.1 (c (n "ambient_element_component") (v "0.2.1") (d (list (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1lfi0p19nrxdlhl4cjkymhzbxp1b36lanhci84nw19zda99znkhy") (r "1.67.0")))
+
+(define-public crate-ambient_element_component-0.3.0-rc.2 (c (n "ambient_element_component") (v "0.3.0-rc.2") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0s099vhr291hrcvi2yqbsmwg6a0nq2v4kq4fj0qag46d0nplnhna") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.0-rc.3 (c (n "ambient_element_component") (v "0.3.0-rc.3") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0pcrfs7k8hrnkjmc7hi3f178h6n78dfv5d2hmjki694namy7nkla") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.0-rc.3a (c (n "ambient_element_component") (v "0.3.0-rc.3a") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0kap43yp05mlzm4hsf78fjjz43gxvd1ixbpfp6vw5a933bz52n2v") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.0-rc.4 (c (n "ambient_element_component") (v "0.3.0-rc.4") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0ly6is5msn6vrxm0r9m6xxa0hx1y4ijy4i9lckbl32ajghjm6f6z") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.0-rc.4a (c (n "ambient_element_component") (v "0.3.0-rc.4a") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "16a5yvij5mw4zh6fni4wifiyybypakgk5yp6ap0dsv11nzqhz7qg") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.0 (c (n "ambient_element_component") (v "0.3.0") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1mszx1fx4f76iln9z0y9n54fj5w87vdab72mkfiz0x1zz34nb3pa") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.1-rc.1 (c (n "ambient_element_component") (v "0.3.1-rc.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "06i4bmp62zbmnbwgyfnikvdpj7chgdw1z3crinc19syzravd1v36") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.1-rc.2 (c (n "ambient_element_component") (v "0.3.1-rc.2") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "16vqq5yjszgzr9qqb9k6xpc5j22f84vg2vxzc6fnzi7lcl6f2mhb") (r "1.70.0")))
+
+(define-public crate-ambient_element_component-0.3.1 (c (n "ambient_element_component") (v "0.3.1") (d (list (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1f05zb8cjyhkdjs49wag3rydm9cvx4zb445vh7qakhpsx9hr845l") (r "1.70.0")))
+

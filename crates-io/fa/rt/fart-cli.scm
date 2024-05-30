@@ -1,0 +1,4 @@
+(define-module (crates-io fa rt fart-cli) #:use-module (crates-io))
+
+(define-public crate-fart-cli-0.4.0 (c (n "fart-cli") (v "0.4.0") (d (list (d (n "assert_cmd") (r "^0.12.0") (d #t) (k 2)) (d (n "async-std") (r "^1.2.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (d #t) (k 0)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "http-service") (r "^0.4.0") (d #t) (k 0)) (d (n "notify") (r "^4.0.14") (d #t) (k 0)) (d (n "predicates") (r "^1.0.2") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.42") (d #t) (k 0)) (d (n "structopt") (r "^0.3.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "tide") (r "^0.4.0") (d #t) (k 0)))) (h "1qccq4npfjzq3kgr2b4gag5yyh84d86zma3zbng4d5xsb3ra7wax")))
+

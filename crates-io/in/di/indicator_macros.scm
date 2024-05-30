@@ -1,0 +1,12 @@
+(define-module (crates-io in di indicator_macros) #:use-module (crates-io))
+
+(define-public crate-indicator_macros-0.4.1-beta.0 (c (n "indicator_macros") (v "0.4.1-beta.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "1mv4fyqhicsbxhq1f2rhxnv45ha2xrh4ja83301l6z92iqgwy900") (r "1.67.0")))
+
+(define-public crate-indicator_macros-0.4.1 (c (n "indicator_macros") (v "0.4.1") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "0gq7z07n173fdm9ws60dg4ihqdl75rdcgz9y8akjqvgwdqj4hn58") (r "1.67.0")))
+
+(define-public crate-indicator_macros-0.4.2 (c (n "indicator_macros") (v "0.4.2") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "1x7ydxkhjkxxxippacmr5q9cmq0wssz31138kj0i3k464n97pggh") (r "1.67.0")))
+
+(define-public crate-indicator_macros-0.4.3 (c (n "indicator_macros") (v "0.4.3") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "1frfxy0050k9phfpb9a5am8qg6lyg3y8aw1409ac1mv5j2682jig") (r "1.67.0")))
+
+(define-public crate-indicator_macros-0.4.4 (c (n "indicator_macros") (v "0.4.4") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "176cldk8j7lzdrl3cdm2pmrkvz4g22ghqkyaym64ah8a6vw59yd4") (r "1.67.0")))
+

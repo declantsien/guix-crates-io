@@ -1,0 +1,10 @@
+(define-module (crates-io fi na finance_enums) #:use-module (crates-io))
+
+(define-public crate-finance_enums-0.2.0 (c (n "finance_enums") (v "0.2.0") (d (list (d (n "casey") (r "^0.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "04468rlqgh7p9sfzah3342ji4fdri5m1xabzpi7h72fpaksh6r8k")))
+
+(define-public crate-finance_enums-0.2.1 (c (n "finance_enums") (v "0.2.1") (d (list (d (n "casey") (r "^0.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "0m5bxx524j7ra3yz6p7p6vxjkc3pb0cfhp2923mb5j7xflijm5dz")))
+
+(define-public crate-finance_enums-0.2.2 (c (n "finance_enums") (v "0.2.2") (d (list (d (n "casey") (r "^0.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "0qi8p8bw1gms70rlf8rmq0k6hyxmrn4ps9xlsz7rddpsjkm65zmf")))
+
+(define-public crate-finance_enums-0.2.3 (c (n "finance_enums") (v "0.2.3") (d (list (d (n "casey") (r "^0.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "0ldg22j22p7smzbnynzk5h0q1iwamgviqiwk8dcp9j9ipnd9mcbr")))
+

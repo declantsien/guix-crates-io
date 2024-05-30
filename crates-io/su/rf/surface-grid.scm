@@ -1,0 +1,10 @@
+(define-module (crates-io su rf surface-grid) #:use-module (crates-io))
+
+(define-public crate-surface-grid-0.1.0 (c (n "surface-grid") (v "0.1.0") (d (list (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "pixels") (r "^0.13.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "static-array") (r "^0.3.0") (d #t) (k 0)) (d (n "winit") (r "^0.29.10") (f (quote ("rwh_05" "x11" "wayland" "wayland-dlopen" "wayland-csd-adwaita"))) (k 2)))) (h "0a0vv8gi6ps2fqda76v2qf1wrrv43j18sgrmymsda1hmmph7fffd")))
+
+(define-public crate-surface-grid-0.2.0 (c (n "surface-grid") (v "0.2.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "pixels") (r "^0.13.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "static-array") (r "^0.5.0") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "winit") (r "^0.29.10") (f (quote ("rwh_05" "x11" "wayland" "wayland-dlopen" "wayland-csd-adwaita"))) (k 2)))) (h "1qf1ak5qw5vlnn1vh98azhsi0867kwbdf542r8shljia65ajx628")))
+
+(define-public crate-surface-grid-0.3.0 (c (n "surface-grid") (v "0.3.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "pixels") (r "^0.13.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "static-array") (r "^0.5.0") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "winit") (r "^0.29.10") (f (quote ("rwh_05" "x11" "wayland" "wayland-dlopen" "wayland-csd-adwaita"))) (k 2)))) (h "0sdpi1i21maa6a789d36i84xww5x5g4808njxb7dqgw5g48nc164")))
+
+(define-public crate-surface-grid-0.3.1 (c (n "surface-grid") (v "0.3.1") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "pixels") (r "^0.13.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "static-array") (r "^0.5.0") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "winit") (r "^0.29.10") (f (quote ("rwh_05" "x11" "wayland" "wayland-dlopen" "wayland-csd-adwaita"))) (k 2)))) (h "0pdlpwl64d5abc6bgf36mhr671yvf1bjgfnxl5harba3p27d5v82")))
+

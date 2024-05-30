@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoinchain-notifications) #:use-module (crates-io))
+
+(define-public crate-bitcoinchain-notifications-0.1.12-alpha.0 (c (n "bitcoinchain-notifications") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-block") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sam") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-txmempool") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoinrpc-server") (r "^0.1.12-alpha.0") (d #t) (k 0)))) (h "1382shrl6abzc74683mhlcidmmx13qqn99rwlbp4c61paxc1iwc5")))
+
+(define-public crate-bitcoinchain-notifications-0.1.16-alpha.0 (c (n "bitcoinchain-notifications") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-block") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-sam") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-txmempool") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoinrpc-server") (r "^0.1.16-alpha.0") (d #t) (k 0)))) (h "06xrl7jlj4gm3z8yqnmh636w3dasswy4wz8ws2032l90rxw7s88m")))
+

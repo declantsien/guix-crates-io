@@ -1,0 +1,16 @@
+(define-module (crates-io cu rs cursive-flexi-logger-view) #:use-module (crates-io))
+
+(define-public crate-cursive-flexi-logger-view-0.1.0 (c (n "cursive-flexi-logger-view") (v "0.1.0") (d (list (d (n "arraydeque") (r "^0.4.5") (d #t) (k 0)) (d (n "cursive") (r "^0.13.0") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)))) (h "1sr21qpgwi7cwv03w9szmv7akb25q6nfxqjhp72wpbnvf7rx3ji2")))
+
+(define-public crate-cursive-flexi-logger-view-0.1.1 (c (n "cursive-flexi-logger-view") (v "0.1.1") (d (list (d (n "arraydeque") (r "^0.4.5") (d #t) (k 0)) (d (n "cursive") (r "^0.13.0") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.14.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)))) (h "0kzpmi84w207zy4pfdq37chgh4hnns6s3v11k27b247ymhmzkz6v")))
+
+(define-public crate-cursive-flexi-logger-view-0.2.0 (c (n "cursive-flexi-logger-view") (v "0.2.0") (d (list (d (n "arraydeque") (r "^0.4.5") (d #t) (k 0)) (d (n "cursive") (r "^0.14.0") (k 0)) (d (n "cursive") (r "^0.14") (d #t) (k 2)) (d (n "flexi_logger") (r "^0.14.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)))) (h "06q927pns84nq0vv1m54lyklxcfn38kwq87mial3kmk1szq4ng81")))
+
+(define-public crate-cursive-flexi-logger-view-0.2.1 (c (n "cursive-flexi-logger-view") (v "0.2.1") (d (list (d (n "arraydeque") (r "^0.4.5") (d #t) (k 0)) (d (n "cursive") (r "^0.14.0") (k 0)) (d (n "cursive") (r "^0.14.0") (d #t) (k 2)) (d (n "flexi_logger") (r "^0.15.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)))) (h "1hb8nv8jga7ny23sf7ajk28ml1clyx7afnkdcyqz2wd5gy1jjjrf")))
+
+(define-public crate-cursive-flexi-logger-view-0.3.0 (c (n "cursive-flexi-logger-view") (v "0.3.0") (d (list (d (n "arraydeque") (r "^0.4.5") (d #t) (k 0)) (d (n "cursive") (r "^0.15.0") (d #t) (k 2)) (d (n "cursive_core") (r "^0.1") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.15.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.7") (d #t) (k 0)))) (h "0l2h8jc40jmhkx2y6klyiykfysnl5w1ma6fxj57br1xaf6grscxr")))
+
+(define-public crate-cursive-flexi-logger-view-0.4.0 (c (n "cursive-flexi-logger-view") (v "0.4.0") (d (list (d (n "arraydeque") (r "^0.4.5") (d #t) (k 0)) (d (n "cursive") (r "^0.16") (d #t) (k 2)) (d (n "cursive_core") (r "^0.2") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "012bnvw7k546n98ifz4lvrfshcnzbym7h64rrwaxpxblf5x6zz65")))
+
+(define-public crate-cursive-flexi-logger-view-0.5.0 (c (n "cursive-flexi-logger-view") (v "0.5.0") (d (list (d (n "arraydeque") (r "^0.4") (d #t) (k 0)) (d (n "cursive") (r "^0.17.0") (d #t) (k 2)) (d (n "cursive_core") (r "^0.3") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.22") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "time") (r "^0.3.5") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1iq0yl00walk4yp6k9mfdzkqm12am5y0s2ls2accnjhydjp8msd9")))
+

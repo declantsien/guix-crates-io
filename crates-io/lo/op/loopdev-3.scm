@@ -1,0 +1,6 @@
+(define-module (crates-io lo op loopdev-3) #:use-module (crates-io))
+
+(define-public crate-loopdev-3-0.5.0 (c (n "loopdev-3") (v "0.5.0") (d (list (d (n "bindgen") (r "^0.68.1") (f (quote ("runtime"))) (k 1)) (d (n "errno") (r "^0.3.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 2)) (d (n "gpt") (r "^3.0.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.105") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "0f7w0j3hmhdd78w18w1nc1w5qawp0cikcv59wrj2anayx2j7r3ip") (f (quote (("direct_io"))))))
+
+(define-public crate-loopdev-3-0.5.1 (c (n "loopdev-3") (v "0.5.1") (d (list (d (n "bindgen") (r "^0.69.0") (f (quote ("runtime"))) (k 1)) (d (n "errno") (r "^0.3.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 2)) (d (n "gpt") (r "^3.0.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "libc") (r "^0.2.105") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.68") (d #t) (k 2)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)))) (h "13bfnicvk6zry6ri4a5pfzsr2jnwqg6mm0aa2blnwa94a5x7vach") (f (quote (("direct_io"))))))
+

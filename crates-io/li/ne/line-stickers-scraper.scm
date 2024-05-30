@@ -1,0 +1,6 @@
+(define-module (crates-io li ne line-stickers-scraper) #:use-module (crates-io))
+
+(define-public crate-line-stickers-scraper-0.1.0 (c (n "line-stickers-scraper") (v "0.1.0") (d (list (d (n "failure") (r "= 0.1.1") (d #t) (k 0)) (d (n "regex") (r "= 0.2.10") (d #t) (k 0)) (d (n "reqwest") (r "= 0.8.5") (d #t) (k 0)) (d (n "scraper") (r "= 0.6.0") (d #t) (k 0)) (d (n "serde") (r "= 1.0.43") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.43") (d #t) (k 0)) (d (n "structopt") (r "= 0.2.7") (d #t) (k 0)) (d (n "structopt-derive") (r "= 0.2.7") (d #t) (k 0)) (d (n "vlog") (r "= 0.1.2") (d #t) (k 0)))) (h "1njlbj539gfr94051w1829k3b3f9dhmychw44i1ljjlrw7zvrm9p")))
+
+(define-public crate-line-stickers-scraper-0.1.1 (c (n "line-stickers-scraper") (v "0.1.1") (d (list (d (n "cssparser") (r "= 0.23.6") (d #t) (k 0)) (d (n "failure") (r "= 0.1.1") (d #t) (k 0)) (d (n "regex") (r "= 0.2.10") (d #t) (k 0)) (d (n "reqwest") (r "= 0.8.5") (d #t) (k 0)) (d (n "scraper") (r "= 0.6.0") (d #t) (k 0)) (d (n "serde") (r "= 1.0.43") (d #t) (k 0)) (d (n "serde_derive") (r "= 1.0.43") (d #t) (k 0)) (d (n "structopt") (r "= 0.2.7") (d #t) (k 0)) (d (n "structopt-derive") (r "= 0.2.7") (d #t) (k 0)) (d (n "vlog") (r "= 0.1.2") (d #t) (k 0)))) (h "1dw04yjppwn487xr4f3lf9f2wg40mhz87lgglscxz24y9va2migd")))
+

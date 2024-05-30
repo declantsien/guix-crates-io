@@ -1,0 +1,20 @@
+(define-module (crates-io co m- com-croftsoft-lib-animation) #:use-module (crates-io))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.0 (c (n "com-croftsoft-lib-animation") (v "0.0.0") (d (list (d (n "com-croftsoft-lib-role") (r "^0.1.4") (d #t) (k 0)))) (h "05i10ygi4dhmgs5q68wi14r0d6rhhc4703k32s73xd6wipb8ady7")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.1 (c (n "com-croftsoft-lib-animation") (v "0.0.1") (d (list (d (n "com-croftsoft-lib-role") (r "^0.1.4") (d #t) (k 0)))) (h "1k98mafcc44bb95sw11424kihz9710cfkhsnrdcvzaqfg6wfgwam")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.2 (c (n "com-croftsoft-lib-animation") (v "0.0.2") (d (list (d (n "com-croftsoft-lib-role") (r "^0.1.4") (d #t) (k 0)))) (h "1z6csi5r3gc2sry2f3g9swdbl2yxr4fr5mp7aafh0z58cvdyb9ci")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.3 (c (n "com-croftsoft-lib-animation") (v "0.0.3") (d (list (d (n "com-croftsoft-lib-role") (r "^0.1.4") (d #t) (k 0)))) (h "1b0hcsxjfxyi99yam6sm5v4aynqkxx2cddwwdxhk46250hn6k0zb")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.4 (c (n "com-croftsoft-lib-animation") (v "0.0.4") (d (list (d (n "com-croftsoft-lib-role") (r "^0.2.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.83") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (f (quote ("CanvasRenderingContext2d"))) (d #t) (k 0)))) (h "1nhsqqr6gngmrv647jp1alvy6zln5nznmw84158v6qvp6wma5mkm")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.5 (c (n "com-croftsoft-lib-animation") (v "0.0.5") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "com-croftsoft-lib-role") (r "^0.2.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.61") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.34") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.61") (f (quote ("CanvasRenderingContext2d" "Document" "DomRect" "Element" "Event" "HtmlCanvasElement" "MouseEvent" "Window" "console"))) (d #t) (k 0)))) (h "01zym94f9mw2x1marqn5jwz7r1bm6ahfcvsbcw9z0z5xlj68qh9c")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.6 (c (n "com-croftsoft-lib-animation") (v "0.0.6") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "com-croftsoft-lib-role") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.26") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.61") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.84") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.34") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.61") (f (quote ("CanvasRenderingContext2d" "Document" "DomRect" "Element" "Event" "HtmlCanvasElement" "MouseEvent" "Window" "console"))) (d #t) (k 0)))) (h "1sx3j9kky5v9wwpk7qxpc5fcdrl925pp6bjmw951x6pgpq7cssy9")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.7 (c (n "com-croftsoft-lib-animation") (v "0.0.7") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "com-croftsoft-lib-role") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("CanvasRenderingContext2d" "Document" "DomRect" "Element" "Event" "HtmlCanvasElement" "MouseEvent" "Window" "console"))) (d #t) (k 0)))) (h "1zc8kf5giyqvr4yc14nbiqkkvjv7n41z286x8li5ksapz16c6snn")))
+
+(define-public crate-com-croftsoft-lib-animation-0.0.8 (c (n "com-croftsoft-lib-animation") (v "0.0.8") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "com-croftsoft-lib-role") (r "^0.5.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.68") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.41") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.68") (f (quote ("CanvasRenderingContext2d" "Document" "DomRect" "Element" "Event" "HtmlCanvasElement" "MouseEvent" "Window" "console"))) (d #t) (k 0)))) (h "0qfs8x57xxhz80aa6jrh5xi92dlakqpa1mms3090cbz5vppvb0c5")))
+

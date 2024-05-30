@@ -1,0 +1,10 @@
+(define-module (crates-io fo rt fortnite-api) #:use-module (crates-io))
+
+(define-public crate-fortnite-api-0.1.0 (c (n "fortnite-api") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "02kxzvlhkysm8i1qbws08j96pap67zjs82s8877bsllbf9jg3zw1")))
+
+(define-public crate-fortnite-api-0.1.1 (c (n "fortnite-api") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0di0byf9yhrshbg68n0zfihq6w49n3s6w30w6258ys2xkcjlssyw")))
+
+(define-public crate-fortnite-api-0.1.2 (c (n "fortnite-api") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.24") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0yxivyybda3f6hw85im95812fpvxwd8chrdfqgpi5l11n9dnk84s")))
+
+(define-public crate-fortnite-api-0.1.3 (c (n "fortnite-api") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "03mh7z44xr14bphkja1wpi6md1cr1j714xrmw542rnh7nm45wd12")))
+

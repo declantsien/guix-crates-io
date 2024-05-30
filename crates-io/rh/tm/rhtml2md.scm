@@ -1,0 +1,6 @@
+(define-module (crates-io rh tm rhtml2md) #:use-module (crates-io))
+
+(define-public crate-rhtml2md-0.2.13 (c (n "rhtml2md") (v "0.2.13") (d (list (d (n "html5ever") (r "^0.25.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0.3") (d #t) (k 2)) (d (n "jni") (r "^0.19.0") (t "cfg(target_os = \"android\")") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "markup5ever_rcdom") (r "^0.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "spectral") (r "^0.6.0") (d #t) (k 2)))) (h "1fn35mz82y6awc08appbbwya7jgas9vdc8pafipy4b146fi2h1pp") (y #t)))
+
+(define-public crate-rhtml2md-0.0.1 (c (n "rhtml2md") (v "0.0.1") (d (list (d (n "html5ever") (r "^0.25.1") (d #t) (k 0)) (d (n "indoc") (r "^1.0.3") (d #t) (k 2)) (d (n "jni") (r "^0.19.0") (t "cfg(target_os = \"android\")") (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "markup5ever_rcdom") (r "^0.1.0") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "regex") (r "^1.4.2") (d #t) (k 0)) (d (n "spectral") (r "^0.6.0") (d #t) (k 2)))) (h "1qh6xxzz6h4ay9vsjjfpg1m4f1nclb4lv33m0g0x3sfij3zhrz88")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ra te ratel_bandit) #:use-module (crates-io))
+
+(define-public crate-ratel_bandit-0.1.0 (c (n "ratel_bandit") (v "0.1.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2.2") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.9") (d #t) (k 0)))) (h "0yc232s5nsyg4g61x52yc7z808c6aq3jdcscmb599j9cxhy4mm7l")))
+
+(define-public crate-ratel_bandit-0.1.1 (c (n "ratel_bandit") (v "0.1.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2.2") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.9") (d #t) (k 0)))) (h "0wr61f8hfrja22jlkbpppx1g3jkf6rkyzbc4yb3j1na6sfyxlwac")))
+
+(define-public crate-ratel_bandit-0.1.2 (c (n "ratel_bandit") (v "0.1.2") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_distr") (r "^0.2.2") (d #t) (k 0)))) (h "1vzpnhdpnrmlajs16s9dn46bcm1ypjgfxi7k6yjp0bf9h68fx0f3")))
+
+(define-public crate-ratel_bandit-0.2.0 (c (n "ratel_bandit") (v "0.2.0") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "0y30w66ln2q96r1iiz0sjprwl3769avigykr0vbiwi11vz8srixh")))
+
+(define-public crate-ratel_bandit-0.2.1 (c (n "ratel_bandit") (v "0.2.1") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "0vyxdkwgvdjc71l2a3cfba5xlysyvxcbs8k5qawjzf9dj3slji0g") (y #t)))
+
+(define-public crate-ratel_bandit-0.2.2 (c (n "ratel_bandit") (v "0.2.2") (d (list (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)))) (h "1qds785d5pr2zpprvnhskvdv82vwjc1018lmbyx4x5578fw60mpr")))
+

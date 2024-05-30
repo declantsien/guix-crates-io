@@ -1,0 +1,8 @@
+(define-module (crates-io pa i- pai-inject-so) #:use-module (crates-io))
+
+(define-public crate-pai-inject-so-0.1.0 (c (n "pai-inject-so") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "check-latest") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "pai") (r "^0.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "1a1li2rk0scra9y2hfyq77anv0l1p1sq2m4a0nd6n94qgzy3f29y")))
+
+(define-public crate-pai-inject-so-0.1.1 (c (n "pai-inject-so") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "check-latest") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "pai") (r "^0.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "1r6qqgkr99w4adamsh1hm7c2nj043y45fn8bwnzbpxmj1p43wrch")))
+
+(define-public crate-pai-inject-so-0.1.2 (c (n "pai-inject-so") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "check-latest") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "pai") (r "^0.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)))) (h "0dq12yg4rsg15hb9vl6ss0ycphy2mqb73myjvyik5v3b830vc6y3")))
+

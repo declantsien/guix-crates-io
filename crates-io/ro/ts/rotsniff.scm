@@ -1,0 +1,6 @@
+(define-module (crates-io ro ts rotsniff) #:use-module (crates-io))
+
+(define-public crate-rotsniff-0.1.0 (c (n "rotsniff") (v "0.1.0") (d (list (d (n "blake2") (r "^0.10") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.26") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "memmap2") (r "^0.7") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1qfxfmpwx6vgk2la1x9hdfqil91aidinscfkysabz2l9911rj479")))
+
+(define-public crate-rotsniff-0.2.0 (c (n "rotsniff") (v "0.2.0") (d (list (d (n "blake2") (r "^0.10") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.2") (d #t) (k 0)) (d (n "digest") (r "^0.10.7") (d #t) (k 0)) (d (n "flate2") (r "^1.0.26") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1agcsdyxldmiqc2d32ikh96gxs5ab34fzviak9jrdr6aldzv5slj")))
+

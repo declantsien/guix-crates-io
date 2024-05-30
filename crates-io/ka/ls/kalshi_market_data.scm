@@ -1,0 +1,4 @@
+(define-module (crates-io ka ls kalshi_market_data) #:use-module (crates-io))
+
+(define-public crate-kalshi_market_data-0.1.0 (c (n "kalshi_market_data") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.25") (f (quote ("sink"))) (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive" "std"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.18.0") (f (quote ("native-tls" "default" "handshake" "connect"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.10") (d #t) (k 0)) (d (n "tungstenite") (r "^0.18.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "180a20ryy0wagc1hia8k21mxyx739ndfjr3f5nin1mczw9rnrxkk")))
+

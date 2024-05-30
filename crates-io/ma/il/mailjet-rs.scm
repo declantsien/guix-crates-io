@@ -1,0 +1,22 @@
+(define-module (crates-io ma il mailjet-rs) #:use-module (crates-io))
+
+(define-public crate-mailjet-rs-0.0.0 (c (n "mailjet-rs") (v "0.0.0") (d (list (d (n "http-auth-basic") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)))) (h "00q8wq5vmmz3n26n36x15cfrgv7n0xv3qgjpx86y774s0rwjvsqy")))
+
+(define-public crate-mailjet-rs-0.0.0-apiv0.0.0 (c (n "mailjet-rs") (v "0.0.0-apiv0.0.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0fih7jzy5l4srs50jv7zj2978k63h6l3bc0idjk1cmv22pava5dx")))
+
+(define-public crate-mailjet-rs-0.0.0-apiv0.1.0 (c (n "mailjet-rs") (v "0.0.0-apiv0.1.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0a60i7x8mcicgar38cbl59ddxk51mxsninb3sl5wbills46xv0p2")))
+
+(define-public crate-mailjet-rs-0.1.0 (c (n "mailjet-rs") (v "0.1.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0hbp1hqs8yrl9fis4hrnfnxfhyqbg4rvpbckq35cxp3zkzj4nb6b")))
+
+(define-public crate-mailjet-rs-0.1.1 (c (n "mailjet-rs") (v "0.1.1") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0w42mzj9w28s5f8ff0726zdrgl5gw9ryfnmapgsjqaq4997jw0nh")))
+
+(define-public crate-mailjet-rs-0.1.2 (c (n "mailjet-rs") (v "0.1.2") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.1.0") (d #t) (k 0)) (d (n "hyper") (r "^0.13") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1psqwkgqiz1dkid0ik6dg0nhrpj8hh70fgpjnxfc73sg4ip3bdf7")))
+
+(define-public crate-mailjet-rs-0.2.0 (c (n "mailjet-rs") (v "0.2.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.2") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("http2"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "10vkgj3hijlkfmb0v1rpq5vy7iwpfbilqpm0537sy7yhdrfkhpgn")))
+
+(define-public crate-mailjet-rs-0.2.1 (c (n "mailjet-rs") (v "0.2.1") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("http2"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1r92j8j175smlyi5dc1xg55k3av7lqjqpbx36ipawxb18y6szqkj")))
+
+(define-public crate-mailjet-rs-0.2.2 (c (n "mailjet-rs") (v "0.2.2") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("http2"))) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1v174hwlb4rd146akackq6vyahxvdxynbrd0d0h4giab5az18n95")))
+
+(define-public crate-mailjet-rs-0.3.0 (c (n "mailjet-rs") (v "0.3.0") (d (list (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "http-auth-basic") (r "^0.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14") (f (quote ("http2"))) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.23") (f (quote ("http2" "webpki-roots"))) (o #t) (d #t) (k 0)) (d (n "hyper-tls") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0n093dvb9sfcrhzhkz7sii29knl8hblapdw259qxnir11dbgprl6") (f (quote (("rustls" "hyper-rustls") ("default" "hyper-tls"))))))
+

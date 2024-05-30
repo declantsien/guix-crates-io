@@ -1,0 +1,26 @@
+(define-module (crates-io #{3}# a awi) #:use-module (crates-io))
+
+(define-public crate-awi-0.1.0 (c (n "awi") (v "0.1.0") (d (list (d (n "aci_png") (r "^0.5") (d #t) (k 0)) (d (n "afi") (r "^0.3") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "ami") (r "^0.5") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "19xmk2mj55cjsqf635dj3q0d7br50kgj6l988grf6frwm8ilvgkk")))
+
+(define-public crate-awi-0.1.1 (c (n "awi") (v "0.1.1") (d (list (d (n "aci_png") (r "^0.5.1") (d #t) (k 0)) (d (n "afi") (r "^0.3.1") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "ami") (r "^0.5") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1d2d237g5rd7a4ghw3cpf3iszy0ia15ll8zxr4lsxq4bnq6k9s22")))
+
+(define-public crate-awi-0.2.0 (c (n "awi") (v "0.2.0") (d (list (d (n "afi") (r "^0.3.1") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "stick") (r "^0.3") (d #t) (k 0)))) (h "0fwjf5fy8rprqkhqjzvwczbvgv946dparp5ql1pnqcjxp5m3nn15")))
+
+(define-public crate-awi-0.3.0 (c (n "awi") (v "0.3.0") (d (list (d (n "afi") (r "^0.3.2") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "1njr9yp9kwhgrcsfac7mddx3b16f4c04r1sr8849nm0yym6xpiql")))
+
+(define-public crate-awi-0.4.0 (c (n "awi") (v "0.4.0") (d (list (d (n "afi") (r "^0.4") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "07gd3rvsm20k51nr7s7yjjb8npdmby0sha99p9j24xgc90ii8vxp")))
+
+(define-public crate-awi-0.5.0 (c (n "awi") (v "0.5.0") (d (list (d (n "afi") (r "^0.5") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0hmdgxb4gbk2p32dx44zdy5cgsn79xgg4hiz5366ngnswv2h50ax")))
+
+(define-public crate-awi-0.6.0 (c (n "awi") (v "0.6.0") (d (list (d (n "afi") (r "^0.5") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "stick") (r "^0.4") (d #t) (k 0)))) (h "07cgf15g5jx66d2bwp7rnhl4lizsr1s0lgpycx4m5a25bvzv8vcl")))
+
+(define-public crate-awi-0.7.0 (c (n "awi") (v "0.7.0") (d (list (d (n "afi") (r "^0.5") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "dl_api") (r "^0.1") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_os = \"freebsd\", target_os = \"dragonfly\", target_os = \"bitrig\", target_os = \"openbsd\", target_os = \"netbsd\"))") (k 0)) (d (n "stick") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "libloaderapi" "winerror" "minwindef" "errhandlingapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "102zdbl1b41j4iv1saxm1zv2q7zhs6q3ck4ij7izg7v7bb5g5qsw")))
+
+(define-public crate-awi-0.7.1 (c (n "awi") (v "0.7.1") (d (list (d (n "afi") (r "^0.5") (d #t) (k 0)) (d (n "afi_docf") (r "^0.0") (d #t) (k 0)) (d (n "dl_api") (r "^0.2") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_os = \"freebsd\", target_os = \"dragonfly\", target_os = \"bitrig\", target_os = \"openbsd\", target_os = \"netbsd\"))") (k 0)) (d (n "stick") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "libloaderapi" "winerror" "minwindef" "errhandlingapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1l6y106sgpfc1cq4r0yfh9nmlc91h5p0dhla328l2ahg9habbp7f")))
+
+(define-public crate-awi-0.8.0 (c (n "awi") (v "0.8.0") (d (list (d (n "afi") (r "^0.7") (d #t) (k 0)) (d (n "dl_api") (r "^0.2") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"macos\", target_os = \"freebsd\", target_os = \"dragonfly\", target_os = \"bitrig\", target_os = \"openbsd\", target_os = \"netbsd\"))") (k 0)) (d (n "stick") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "libloaderapi" "winerror" "minwindef" "errhandlingapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1b9l2lkf34h6kb06z5dj7bnzy4r6n8zinx0lypxxjm0pbxpx6wxk")))
+
+(define-public crate-awi-0.9.0 (c (n "awi") (v "0.9.0") (d (list (d (n "afi") (r "=0.8.0-pre0") (d #t) (k 0)) (d (n "ami") (r "^0.13") (d #t) (k 0)) (d (n "dl_api") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "stdweb") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "stdweb-derive") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "stick") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "libloaderapi" "winerror" "minwindef" "errhandlingapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "1d1rx9ak32054k4faraxd1fi5hpcqqjf4dl3m7pkzxbwvv2pzs7m") (f (quote (("default") ("checks"))))))
+
+(define-public crate-awi-0.9.1 (c (n "awi") (v "0.9.1") (d (list (d (n "afi") (r "=0.8.0-pre0") (d #t) (k 0)) (d (n "ami") (r "^0.13") (d #t) (k 0)) (d (n "dl_api") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "stdweb") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "stdweb-derive") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "stick") (r "^0.4") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser" "libloaderapi" "winerror" "minwindef" "errhandlingapi"))) (d #t) (t "cfg(target_os = \"windows\")") (k 0)))) (h "0c3a6n506a5dvwcikwa83155pdgm7fchhjnp52c4qwgssc4b5skj") (f (quote (("default") ("checks"))))))
+

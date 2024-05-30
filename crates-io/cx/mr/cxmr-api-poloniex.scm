@@ -1,0 +1,4 @@
+(define-module (crates-io cx mr cxmr-api-poloniex) #:use-module (crates-io))
+
+(define-public crate-cxmr-api-poloniex-0.0.1 (c (n "cxmr-api-poloniex") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.21") (d #t) (k 0)) (d (n "cxmr-api") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-api-clients-errors") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-balances") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-currency") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-exchanges") (r "^0.0.1") (d #t) (k 0)) (d (n "cxmr-http-client") (r "^0.0.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hyper") (r "^0.13.1") (f (quote ("runtime" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "tokio") (r "^0.2.6") (f (quote ("full"))) (d #t) (k 2)))) (h "14xwafy9z6n34i6q5lwjxvlrfqgqlwjb53wa8pcs8wa94alijcdp")))
+

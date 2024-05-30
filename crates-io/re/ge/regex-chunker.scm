@@ -1,0 +1,10 @@
+(define-module (crates-io re ge regex-chunker) #:use-module (crates-io))
+
+(define-public crate-regex-chunker-0.1.0 (c (n "regex-chunker") (v "0.1.0") (d (list (d (n "regex") (r "^1.9") (d #t) (k 0)))) (h "0kh8xxp288xzx6hpcir4s18vbjzyarj1r1950l7y18kza8x7rfyj")))
+
+(define-public crate-regex-chunker-0.1.1 (c (n "regex-chunker") (v "0.1.1") (d (list (d (n "regex") (r "^1.9") (d #t) (k 0)))) (h "18irhqagiwbgrw9fll632p6wjx93xnjwnndvggkmfsqsly8yn14r")))
+
+(define-public crate-regex-chunker-0.2.0 (c (n "regex-chunker") (v "0.2.0") (d (list (d (n "bytes") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "fastrand") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "fastrand") (r "^2.0") (d #t) (k 2)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 2)) (d (n "tokio") (r "^1.29") (f (quote ("fs" "io-util" "macros"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("fs" "io-util" "macros" "process"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "0l5s5lps9l9zcrrrf6xs6xw1x18k7pw98ypqm1wnn748lsi81jps") (f (quote (("default")))) (s 2) (e (quote (("test" "dep:fastrand") ("async" "dep:bytes" "dep:tokio" "dep:tokio-stream" "dep:tokio-util"))))))
+
+(define-public crate-regex-chunker-0.3.0 (c (n "regex-chunker") (v "0.3.0") (d (list (d (n "bytes") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "fastrand") (r "^2.0") (o #t) (d #t) (k 0)) (d (n "fastrand") (r "^2.0") (d #t) (k 2)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 2)) (d (n "tokio") (r "^1.29") (f (quote ("fs" "io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("fs" "io-util" "macros" "process"))) (d #t) (k 2)) (d (n "tokio-stream") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "1fjbzwjygm73y5acb49xmmaj9xvj8bxcp7za64bl83m6phx26mrs") (f (quote (("default")))) (s 2) (e (quote (("test" "dep:fastrand") ("async" "dep:bytes" "dep:tokio" "dep:tokio-stream" "dep:tokio-util"))))))
+

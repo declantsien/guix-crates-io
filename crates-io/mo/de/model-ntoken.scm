@@ -1,0 +1,6 @@
+(define-module (crates-io mo de model-ntoken) #:use-module (crates-io))
+
+(define-public crate-model-ntoken-0.2.0 (c (n "model-ntoken") (v "0.2.0") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (d #t) (k 0)) (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "00cnd5cpdvmg79lal2d5lz8fm0dpa7jyiq3ky7mbz5y5wri1ib6m")))
+
+(define-public crate-model-ntoken-0.2.1 (c (n "model-ntoken") (v "0.2.1") (d (list (d (n "anchor-lang") (r "^0.24.2") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.24.2") (d #t) (k 0)) (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "bincode") (r "^1.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solana-program") (r "^1.7.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0wf1a28gj7biq5pqpqdkrm5h1w1was68ghq5n5mhm472lw9bzz4s")))
+

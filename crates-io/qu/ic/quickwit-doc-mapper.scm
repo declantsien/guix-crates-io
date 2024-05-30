@@ -1,0 +1,6 @@
+(define-module (crates-io qu ic quickwit-doc-mapper) #:use-module (crates-io))
+
+(define-public crate-quickwit-doc-mapper-0.1.0 (c (n "quickwit-doc-mapper") (v "0.1.0") (h "0kb509naqjdp0fkbbjwakxa4n5d0ckmrv8yxgd0zg5dhbjmad4sd")))
+
+(define-public crate-quickwit-doc-mapper-0.3.0 (c (n "quickwit-doc-mapper") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "dyn-clone") (r "^1.0.4") (d #t) (k 0)) (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 2)) (d (n "mockall") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 2)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)) (d (n "quickwit-proto") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tantivy") (r "^0.18.0") (f (quote ("mmap" "lz4-compression" "quickwit"))) (k 0)) (d (n "tantivy-query-grammar") (r "^0.18.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.29") (d #t) (k 0)) (d (n "typetag") (r "^0.1") (d #t) (k 0)))) (h "1h42wvl0aixqnqk9mfdpnxd0frf22dps4lsgwsvpp5gaplmifas3") (f (quote (("testsuite" "mockall"))))))
+

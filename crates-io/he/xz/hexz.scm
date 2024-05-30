@@ -1,0 +1,4 @@
+(define-module (crates-io he xz hexz) #:use-module (crates-io))
+
+(define-public crate-hexz-0.0.1 (c (n "hexz") (v "0.0.1") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "hashbrown") (r "^0.12.0") (f (quote ("ahash" "inline-more"))) (k 0)) (d (n "hecs-macros") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (f (quote ("spin_no_std"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.117") (o #t) (k 0)) (d (n "serde") (r "^1.0.117") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_test") (r "^1.0.117") (d #t) (k 2)) (d (n "spin") (r "^0.9.2") (f (quote ("mutex" "spin_mutex"))) (k 0)) (d (n "trybuild") (r "^1.0.23") (d #t) (k 2)))) (h "0rp6n9gm2a1zbcjj076y15czdiicamb8hca5ar8sfs2a90gbahpj") (f (quote (("std") ("row-serialize" "serde") ("macros" "hecs-macros" "lazy_static") ("default" "std") ("column-serialize" "serde")))) (r "1.57")))
+

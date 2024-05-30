@@ -1,0 +1,10 @@
+(define-module (crates-io do gs dogs) #:use-module (crates-io))
+
+(define-public crate-dogs-1.0.0 (c (n "dogs") (v "1.0.0") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "human_format") (r "^1.0") (d #t) (k 0)) (d (n "min-max-heap") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)))) (h "0i3qawvxb0n852d90daqjphndww76x4babylgf83v8cqdkyjfvhv")))
+
+(define-public crate-dogs-1.1.0 (c (n "dogs") (v "1.1.0") (d (list (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "human_format") (r "^1.0") (d #t) (k 0)) (d (n "min-max-heap") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)))) (h "16jsizhndanv02c042c0ndm8nn8fbadr062bz7vv9sq59mabqcwb")))
+
+(define-public crate-dogs-1.2.0 (c (n "dogs") (v "1.2.0") (d (list (d (n "bit-set") (r "^0.5.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "human_format") (r "^1.0") (d #t) (k 0)) (d (n "min-max-heap") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rl-bandit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)))) (h "02264bca0jsgb33q3xppw4k4r1ds5inzz79mdpi89iy8rxqz34sf")))
+
+(define-public crate-dogs-1.3.0 (c (n "dogs") (v "1.3.0") (d (list (d (n "bit-set") (r "^0.5.2") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "human_format") (r "^1.0") (d #t) (k 0)) (d (n "min-max-heap") (r "^1.3.0") (d #t) (k 0)) (d (n "ordered-float") (r "^2.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "rl-bandit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)))) (h "18nb7j1y0bc27wrm6hd66s9s7yg8q92z66mki82fj2vsba4q00l0")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ot he other-pocket) #:use-module (crates-io))
+
+(define-public crate-other-pocket-0.1.0 (c (n "other-pocket") (v "0.1.0") (d (list (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "hyper") (r "^0.13.7") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.3.5") (d #t) (k 2)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("macros"))) (d #t) (k 0)) (d (n "url") (r "^1.0") (d #t) (k 0)) (d (n "url_serde") (r "^0.2.0") (d #t) (k 0)))) (h "0j3q7qc4ajpxqrfpffrghf1bpk95bw54wgazz59g9q39j0gm01c0")))
+

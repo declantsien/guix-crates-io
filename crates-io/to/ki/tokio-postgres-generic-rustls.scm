@@ -1,0 +1,4 @@
+(define-module (crates-io to ki tokio-postgres-generic-rustls) #:use-module (crates-io))
+
+(define-public crate-tokio-postgres-generic-rustls-0.1.0 (c (n "tokio-postgres-generic-rustls") (v "0.1.0") (d (list (d (n "aws-lc-rs") (r "^1.7.0") (o #t) (d #t) (k 0)) (d (n "aws-lc-rs") (r "^1.7.0") (d #t) (k 2)) (d (n "ring") (r "^0.17.8") (o #t) (d #t) (k 0)) (d (n "rustls") (r "^0.23.5") (k 0)) (d (n "rustls") (r "^0.23.5") (d #t) (k 2)) (d (n "sha2") (r "^0.10.8") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (k 0)) (d (n "tokio-postgres") (r "^0.7.10") (f (quote ("runtime"))) (k 0)) (d (n "tokio-rustls") (r "^0.26.0") (k 0)) (d (n "x509-cert") (r "^0.2.5") (d #t) (k 0)))) (h "0fj14jqlnhfpvhvhlqfixbj6n5kn2khkj1vj53xnc9lvq8qqrsf8") (s 2) (e (quote (("rustcrypto" "dep:sha2") ("ring" "dep:ring") ("aws-lc-rs" "dep:aws-lc-rs"))))))
+

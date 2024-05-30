@@ -1,0 +1,6 @@
+(define-module (crates-io da sn dasn1-notation) #:use-module (crates-io))
+
+(define-public crate-dasn1-notation-0.1.0 (c (n "dasn1-notation") (v "0.1.0") (d (list (d (n "asn1-pest") (r "^0.1") (d #t) (k 0) (p "dasn1-pest")) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "derefable") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "pest") (r "^2.1.0") (d #t) (k 0)) (d (n "unwrap_to") (r "^0.1.0") (d #t) (k 0)) (d (n "variation") (r "^0.1.0") (d #t) (k 0)))) (h "0braxkpaxi189gmjmdjhyalwfqmsp4zpc35imkg8398yhlkv3zdf")))
+
+(define-public crate-dasn1-notation-0.1.1 (c (n "dasn1-notation") (v "0.1.1") (d (list (d (n "asn1-pest") (r "^0.1.1") (d #t) (k 0) (p "dasn1-pest")) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "derefable") (r "^0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "itertools") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "pest") (r "^2.1.0") (d #t) (k 0)) (d (n "unwrap_to") (r "^0.1.0") (d #t) (k 0)) (d (n "variation") (r "^0.1.0") (d #t) (k 0)))) (h "1d7z8pll6yhbsdx37my3j5ja17ksqk5q7gjaqvcpsvp078xm6d3p")))
+

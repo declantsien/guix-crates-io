@@ -1,0 +1,20 @@
+(define-module (crates-io va na vanadium) #:use-module (crates-io))
+
+(define-public crate-vanadium-0.0.1 (c (n "vanadium") (v "0.0.1") (d (list (d (n "chlorine") (r "^1") (d #t) (k 0)))) (h "1fpqpzajj6wgad3hjrm7j12i7h25pcyr55k1ps2qwar5vfin3y6l")))
+
+(define-public crate-vanadium-0.0.2 (c (n "vanadium") (v "0.0.2") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "0s76gdmrl5wk811498lj1vz2vid5cxxqrh90md4x5qa3wp16z94m") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.3 (c (n "vanadium") (v "0.0.3") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "1kh08hgckbs90gaqxrilq65m06sppjx9xiadjddr2inbmz4vymdq") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.4 (c (n "vanadium") (v "0.0.4") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "0z1ggbyph9zkg72apbxsi8q3aa69wsyqi9rwddpbggcnndkikfsa") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.5 (c (n "vanadium") (v "0.0.5") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "0cwjff90ndajcvjysyg5qnk25wjabhx4rxs4a55183lijdppdscx") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.6 (c (n "vanadium") (v "0.0.6") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "0ncnhv8qy4hc36039qqcv1rjw5psa9fxaaag5l64jhg0z3piwanp") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.7 (c (n "vanadium") (v "0.0.7") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "1hrx4dys1ifky2mf5ms88fq042vw1sjrxd74qvxvssf0m22f8xnp") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.8 (c (n "vanadium") (v "0.0.8") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "0s7vxqkvmxxyrpjd7bl0yjp6kd2id0vwdycvq6rhgmdrw5bn9d1g") (f (quote (("default" "bytemuck"))))))
+
+(define-public crate-vanadium-0.0.9 (c (n "vanadium") (v "0.0.9") (d (list (d (n "bytemuck") (r "^1") (o #t) (d #t) (k 0)) (d (n "chlorine") (r "^1") (d #t) (k 0)) (d (n "fenestroj") (r "^0.0.9") (f (quote ("consoleapi" "processenv" "winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "libc") (r "^0.2") (t "cfg(unix)") (k 0)) (d (n "tinyvec") (r "^0.3") (f (quote ("grab_spare_slice"))) (d #t) (k 0)))) (h "0gncrhkf45ylg7752k5jln8ycs0znymrqp2z30pypkyfqw7vcpbb") (f (quote (("default" "bytemuck"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ha ss hass-mqtt-discovery) #:use-module (crates-io))
+
+(define-public crate-hass-mqtt-discovery-0.1.0 (c (n "hass-mqtt-discovery") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1") (d #t) (k 2)) (d (n "nameof") (r "^1") (d #t) (k 0)) (d (n "semval") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "0bxqqr3hz67prj9mqjrzyap7qd4z5vny57dz024dr6y7xv438a3x")))
+
+(define-public crate-hass-mqtt-discovery-0.0.0 (c (n "hass-mqtt-discovery") (v "0.0.0") (d (list (d (n "assert_matches") (r "^1") (d #t) (k 2)) (d (n "nameof") (r "^1") (d #t) (k 0)) (d (n "semval") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "0i8gzskwaaf1vr87wpybys0p4bjfr9h40nzc7qm4w4hfav1cac32")))
+
+(define-public crate-hass-mqtt-discovery-0.2.0 (c (n "hass-mqtt-discovery") (v "0.2.0") (d (list (d (n "assert_matches") (r "^1") (d #t) (k 2)) (d (n "error-stack") (r "^0.2") (d #t) (k 0)) (d (n "hass-mqtt-discovery-macros") (r "^0.0.0") (d #t) (k 0)) (d (n "nameof") (r "^1") (d #t) (k 0)) (d (n "semval") (r "^0.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "0zg2a66m2clv9k2b7pzkn377awcq8d0rawiz2qgf0ziq93zfglxi")))
+

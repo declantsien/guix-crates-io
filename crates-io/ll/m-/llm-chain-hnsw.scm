@@ -1,0 +1,14 @@
+(define-module (crates-io ll m- llm-chain-hnsw) #:use-module (crates-io))
+
+(define-public crate-llm-chain-hnsw-0.11.2 (c (n "llm-chain-hnsw") (v "0.11.2") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "llm-chain") (r "^0.11.2") (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (d #t) (k 0)))) (h "06nkjhdk5jm4jdxaif8bcl0zjh2hbyfsz8rzj79wnpb3rm1182w3")))
+
+(define-public crate-llm-chain-hnsw-0.12.0 (c (n "llm-chain-hnsw") (v "0.12.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "llm-chain") (r "^0.12.0") (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (d #t) (k 0)))) (h "1b7fzxsvkd1mz7ixbmjibbf4bzxqq66l2g9zfxzlzdv6qzvkgkrq")))
+
+(define-public crate-llm-chain-hnsw-0.12.1 (c (n "llm-chain-hnsw") (v "0.12.1") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "llm-chain") (r "^0.12.1") (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 0)))) (h "1w3gav8if5zqkap9f8ya87rabk5d5nwp70hjr7x87aagh7aq1ciq")))
+
+(define-public crate-llm-chain-hnsw-0.12.2 (c (n "llm-chain-hnsw") (v "0.12.2") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "llm-chain") (r "^0.12.2") (k 0)) (d (n "serde") (r "^1.0.163") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 0)))) (h "1h5j9k19j5a3iv7aldanfbjf8lsqm66lg29dd6ygmgsg9gq98k16")))
+
+(define-public crate-llm-chain-hnsw-0.12.3 (c (n "llm-chain-hnsw") (v "0.12.3") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "llm-chain") (r "^0.12.3") (k 0)) (d (n "serde") (r "^1.0.164") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (d #t) (k 0)))) (h "1m5jvz4zv0iqwgjlvmzpj4r2rzxj69yp7gdjsnq9j85v81xpi1qh")))
+
+(define-public crate-llm-chain-hnsw-0.13.0 (c (n "llm-chain-hnsw") (v "0.13.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "llm-chain") (r "^0.13.0") (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.28.0") (d #t) (k 0)))) (h "1mx5y35dn21fpv5885533pakx0y2crq735sspwisk5x62214y09l")))
+

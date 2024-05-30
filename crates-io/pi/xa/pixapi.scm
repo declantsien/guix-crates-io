@@ -1,0 +1,6 @@
+(define-module (crates-io pi xa pixapi) #:use-module (crates-io))
+
+(define-public crate-pixapi-0.1.0 (c (n "pixapi") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "__rustls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "time") (r "^0.3.11") (f (quote ("serde-well-known"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0lkb560nf78wy1088xvch9b57vk0zf6wjz036c37bak398pz1g3d")))
+
+(define-public crate-pixapi-0.1.1 (c (n "pixapi") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "time") (r "^0.3.11") (f (quote ("serde-well-known"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1nljznnikjsv2dww0ghcl39g3v290y7d4dnjdppdbcq0nykvfsiy")))
+

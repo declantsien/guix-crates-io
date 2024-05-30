@@ -1,0 +1,6 @@
+(define-module (crates-io ch ro chrome_password) #:use-module (crates-io))
+
+(define-public crate-chrome_password-0.1.0 (c (n "chrome_password") (v "0.1.0") (d (list (d (n "aes-gcm") (r "^0.10.1") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "sqlite") (r "^0.27.0") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("dpapi" "wincrypt" "winuser"))) (d #t) (k 0)))) (h "053bg6cajfh61d46mzpjx7kcrbp8x37d62m7ah1343iz9wwp7y8h")))
+
+(define-public crate-chrome_password-0.2.0 (c (n "chrome_password") (v "0.2.0") (d (list (d (n "aes-gcm") (r "^0.10.1") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.83") (d #t) (k 0)) (d (n "sqlite") (r "^0.27.0") (d #t) (k 0)) (d (n "tabled") (r "^0.8.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("dpapi" "wincrypt" "winuser"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0m5pxshqxa4si5qlhp16ms0pchm4dsd9ff73qcj9495v2z020qzs")))
+

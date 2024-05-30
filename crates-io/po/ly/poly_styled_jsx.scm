@@ -1,0 +1,6 @@
+(define-module (crates-io po ly poly_styled_jsx) #:use-module (crates-io))
+
+(define-public crate-poly_styled_jsx-0.6.0 (c (n "poly_styled_jsx") (v "0.6.0") (d (list (d (n "easy-error") (r "^1.0.0") (d #t) (k 0)) (d (n "swc_common") (r "^0.18.7") (f (quote ("concurrent" "sourcemap"))) (d #t) (k 0)) (d (n "swc_css") (r "^0.105.0") (d #t) (k 0)) (d (n "swc_css_prefixer") (r "^0.101.0") (d #t) (k 0)) (d (n "swc_ecma_transforms_testing") (r "^0.89.0") (d #t) (k 2)) (d (n "swc_ecmascript") (r "^0.161.0") (f (quote ("parser" "minifier" "utils" "visit"))) (d #t) (k 0)) (d (n "testing") (r "^0.20.0") (d #t) (k 2)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)))) (h "003rnglsxl0z8fscfiscq39s4qb1vkz02a40pj7q4rjy0ydql32d")))
+
+(define-public crate-poly_styled_jsx-0.6.1 (c (n "poly_styled_jsx") (v "0.6.1") (d (list (d (n "easy-error") (r "^1.0.0") (d #t) (k 0)) (d (n "swc_common") (r "^0.18.7") (f (quote ("concurrent" "sourcemap"))) (d #t) (k 0)) (d (n "swc_css") (r "^0.105.0") (d #t) (k 0)) (d (n "swc_css_prefixer") (r "^0.101.0") (d #t) (k 0)) (d (n "swc_ecma_transforms_testing") (r "^0.91.0") (d #t) (k 2)) (d (n "swc_ecmascript") (r "^0.163.0") (f (quote ("parser" "minifier" "utils" "visit"))) (d #t) (k 0)) (d (n "testing") (r "^0.20.0") (d #t) (k 2)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)))) (h "001w75hghd8bf52pn7dw147j1pp8pdf5hhv810mhk7ay50x1j5q8")))
+

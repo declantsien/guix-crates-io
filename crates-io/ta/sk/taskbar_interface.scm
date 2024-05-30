@@ -1,0 +1,4 @@
+(define-module (crates-io ta sk taskbar_interface) #:use-module (crates-io))
+
+(define-public crate-taskbar_interface-0.1.0 (c (n "taskbar_interface") (v "0.1.0") (d (list (d (n "dbus") (r "^0.9") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)) (d (n "glutin") (r "^0.27") (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)) (d (n "raw-window-handle") (r "^0") (d #t) (k 0)) (d (n "windows") (r "^0.19") (d #t) (t "cfg(target_os = \"windows\")") (k 0)) (d (n "windows") (r "^0.19") (d #t) (t "cfg(target_os = \"windows\")") (k 1)) (d (n "winit") (r "^0.25") (d #t) (k 2)) (d (n "x11-dl") (r "^2") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)) (d (n "x11rb") (r "^0.9") (f (quote ("allow-unsafe-code" "dl-libxcb"))) (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)))) (h "0c5wxw313b97jvias7mg9fm8y49xd2idnqffx8i8wvqjx8y6nin1")))
+

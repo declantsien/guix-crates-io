@@ -1,0 +1,8 @@
+(define-module (crates-io st a- sta-rs) #:use-module (crates-io))
+
+(define-public crate-sta-rs-0.2.1 (c (n "sta-rs") (v "0.2.1") (d (list (d (n "adss") (r "^0.2.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "ppoprf") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "strobe-rs") (r "^0.8.1") (d #t) (k 0)) (d (n "zeroize") (r "^1.5.5") (d #t) (k 0)))) (h "1dkwc30axw4wss9yy8nic2swh12j4gki1d4xzavijrcib2dghlss") (f (quote (("star2"))))))
+
+(define-public crate-sta-rs-0.2.2 (c (n "sta-rs") (v "0.2.2") (d (list (d (n "adss") (r "^0.2.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "ppoprf") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "strobe-rs") (r "^0.8.1") (d #t) (k 0)) (d (n "zeroize") (r "^1.5.5") (d #t) (k 0)))) (h "0js8cibs4ki5n99mwjrlaw44zfz3y4wnvxjp1plzh0nv9p4jbypa") (f (quote (("star2"))))))
+
+(define-public crate-sta-rs-0.3.0 (c (n "sta-rs") (v "0.3.0") (d (list (d (n "adss") (r "^0.2.2") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "ppoprf") (r "^0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (d #t) (k 0)) (d (n "strobe-rs") (r "^0.8.1") (d #t) (k 0)) (d (n "zeroize") (r "^1.5.5") (d #t) (k 0)))) (h "09wfwhf3w4f5sw3vh090fyz1myfxnxs152w1v9ca4bzhwrwc943n") (f (quote (("star2"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io lo gi logiclib) #:use-module (crates-io))
+
+(define-public crate-logiclib-0.1.0 (c (n "logiclib") (v "0.1.0") (d (list (d (n "arcstr") (r "^1.1.4") (f (quote ("substr-usize-indices"))) (d #t) (k 0)) (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "libertyparse") (r "^0.1.4") (d #t) (k 0)) (d (n "readonly") (r "^0.2.2") (d #t) (k 0)))) (h "1l765m5cn4417wwivld7979hma1843wf8wszm1cma39c5mfhyrs7")))
+
+(define-public crate-logiclib-0.2.0 (c (n "logiclib") (v "0.2.0") (d (list (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "libertyparse") (r "^0.2.0") (d #t) (k 0)) (d (n "readonly") (r "^0.2.2") (d #t) (k 0)))) (h "0rlgixsgkxyyin7czknizkh23z7ph21vhbpnfzwkbrnv1vxg3h6y")))
+
+(define-public crate-logiclib-0.2.1 (c (n "logiclib") (v "0.2.1") (d (list (d (n "bytemuck") (r "^1.12.2") (d #t) (k 0)) (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "libertyparse") (r "^0.2.0") (d #t) (k 0)) (d (n "readonly") (r "^0.2.2") (d #t) (k 0)) (d (n "ulib") (r "^0.2.0") (d #t) (k 0)) (d (n "zeroable") (r "^0.2.0") (d #t) (k 0)))) (h "0mjnrlpx47wqnrng2cy8d6vy3567qhvams3nvri23apda9ciwbmy")))
+
+(define-public crate-logiclib-0.2.2 (c (n "logiclib") (v "0.2.2") (d (list (d (n "bytemuck") (r "^1.12.2") (d #t) (k 0)) (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "libertyparse") (r "^0.2.0") (d #t) (k 0)) (d (n "readonly") (r "^0.2.2") (d #t) (k 0)) (d (n "ulib") (r "^0.2.0") (d #t) (k 0)) (d (n "zeroable") (r "^0.2.0") (d #t) (k 0)))) (h "0p7figks83jf7wav9d8jx0jgz65l86g9ks47wjgr9q68mz2h7049")))
+
+(define-public crate-logiclib-0.2.3 (c (n "logiclib") (v "0.2.3") (d (list (d (n "bytemuck") (r "^1.12.2") (d #t) (k 0)) (d (n "clilog") (r "^0.2.3") (d #t) (k 0)) (d (n "compact_str") (r "^0.6.1") (d #t) (k 0)) (d (n "cust") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (d #t) (k 0)) (d (n "libertyparse") (r "^0.2.1") (d #t) (k 0)) (d (n "readonly") (r "^0.2.2") (d #t) (k 0)) (d (n "ulib") (r "^0.2.0") (d #t) (k 0)) (d (n "zeroable") (r "^0.2.0") (d #t) (k 0)))) (h "0a2232vdmgx41p357zf1q7qsf0f0wriyy183s156czvhd48gkqh8") (s 2) (e (quote (("cuda" "dep:cust" "ulib/cuda"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pr td prtd) #:use-module (crates-io))
+
+(define-public crate-prtd-0.1.4 (c (n "prtd") (v "0.1.4") (d (list (d (n "home") (r "^0.5.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "parrot_core") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt-multi-thread" "fs" "full" "io-util"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.15") (f (quote ("sync"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)) (d (n "tonic") (r "^0.10.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.10.2") (d #t) (k 1)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1mmj94cx7ibhsgblwjaz9jyqbg6bxhmbqg0jln641xxk3yk42jvq")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io gi to giton-core) #:use-module (crates-io))
+
+(define-public crate-giton-core-0.0.1-beta.1 (c (n "giton-core") (v "0.0.1-beta.1") (d (list (d (n "async-openai") (r "^0.17.0") (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (f (quote ("attributes" "tokio1"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "utils") (r "^0.0.1-beta.1") (d #t) (k 0) (p "giton-utils")))) (h "1kj1a1yr08056cgpamnq3fy9n4cjqp9wpfqg87mwlbwzhwywiifn")))
+
+(define-public crate-giton-core-0.0.1 (c (n "giton-core") (v "0.0.1") (d (list (d (n "async-openai") (r "^0.17.0") (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (f (quote ("attributes" "tokio1"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "comfy-table") (r "^7.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "shlex") (r "^1.2.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)) (d (n "utils") (r "^0.0.1") (d #t) (k 0) (p "giton-utils")))) (h "1a7axifrwn91a9y72nln0dk4c3d66lb4fcyhcc88rf7lx75wl2k6")))
+
+(define-public crate-giton-core-0.1.0 (c (n "giton-core") (v "0.1.0") (d (list (d (n "async-openai") (r "^0.18.2") (d #t) (k 0)) (d (n "async-std") (r "^1.12.0") (f (quote ("attributes" "tokio1"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "comfy-table") (r "^7.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "shlex") (r "^1.2.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)) (d (n "utils") (r "^0.1.0") (d #t) (k 0) (p "giton-utils")))) (h "0n8v71m3m7h5grm1ycns1l08yqz7j9ccwm78g9cr9n9y5f135awf")))
+

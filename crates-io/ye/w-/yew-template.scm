@@ -1,0 +1,44 @@
+(define-module (crates-io ye w- yew-template) #:use-module (crates-io))
+
+(define-public crate-yew-template-0.1.0 (c (n "yew-template") (v "0.1.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1391bjx96arnmrz51w82x4i3xscr365cx5x8jrzm38dyip7mrzic")))
+
+(define-public crate-yew-template-0.2.0 (c (n "yew-template") (v "0.2.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0k5k03rv4q6sg8h5xn8zp563ckdqxdp5i2fkdycnsvc5y7fl1zp8")))
+
+(define-public crate-yew-template-0.2.1 (c (n "yew-template") (v "0.2.1") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0j54wp36bgxvgck8zav6likxba18d90zrcpw16419cfxhkkfsp5c")))
+
+(define-public crate-yew-template-0.2.2 (c (n "yew-template") (v "0.2.2") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0h69dp8j5cazm8ns81npxswv13dm5v0kn1fh18lvc759j56h1svz")))
+
+(define-public crate-yew-template-0.3.0 (c (n "yew-template") (v "0.3.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0j2a3znayic0ag8j750i1x559bww332fa5pmz4n7arn6xnlmx1pf")))
+
+(define-public crate-yew-template-0.4.0 (c (n "yew-template") (v "0.4.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1nm8sdds680bbwdkp0603hnyv7hb7pkzwrk3f8g1rqvxq0w3jpa8")))
+
+(define-public crate-yew-template-0.5.0 (c (n "yew-template") (v "0.5.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0wd8l2b2v9gc0b54ghzsgnrmi4cgqss9fcjyw0gksi92fmkg1mmm")))
+
+(define-public crate-yew-template-0.5.1 (c (n "yew-template") (v "0.5.1") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1ixfxlnafn7wfcjic5ifc9isqk0cmq07nv9ads41qa1rh3hjhjh6")))
+
+(define-public crate-yew-template-0.5.2 (c (n "yew-template") (v "0.5.2") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0mx9m72831agkxzjidwmn24h0sl01jr14c4kd6z3a5j8pymxg30l")))
+
+(define-public crate-yew-template-0.6.0 (c (n "yew-template") (v "0.6.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1ivqnq9qnqh8x1c27q8s3lh4gc4bpcbkc00brbkf6ni9094132h2")))
+
+(define-public crate-yew-template-0.6.1 (c (n "yew-template") (v "0.6.1") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1azgsbqvcmghczhygsq15wn581llmg70x5b57g0dy7n6bbsm2wh8")))
+
+(define-public crate-yew-template-0.6.2 (c (n "yew-template") (v "0.6.2") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1m0c97nh3xxkc75rnmyjc8p3d8pdk2arcp61d9wh1y6kmd038fyr")))
+
+(define-public crate-yew-template-0.6.3 (c (n "yew-template") (v "0.6.3") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1c1n6xrmkippphs3phi3irpgqg0x46mwvaa646v8iv9q8xmc9587")))
+
+(define-public crate-yew-template-0.7.0 (c (n "yew-template") (v "0.7.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1vqwhlji44mri726pp3z6zm36s8jg1kncqgxzndy6g8yw0b85zl5") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.7.1 (c (n "yew-template") (v "0.7.1") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0v6dib120kd7vv5wgzr6i4sj53dyqj5praf76zjj8yia00zvgf16") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.7.2 (c (n "yew-template") (v "0.7.2") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "1lswqck6n2nmzch2lfadz4gci5iwp0xz0mb1ln3pmyjag3rwfnps") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.7.3 (c (n "yew-template") (v "0.7.3") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "11zva3bj6wbrm9ivqgggljclakix5l4f8khgcsab96i7a4zarbcj") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.8.0 (c (n "yew-template") (v "0.8.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "0jmsxy7yk29rqsa9whcxa6inglf6wfirxky5cdfbp9rjc0f3ysj2") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.8.1 (c (n "yew-template") (v "0.8.1") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.19") (d #t) (k 2)))) (h "115njh794lgz4znbdldpvbf90x4j4psh38bslykdbvc7ib3wlrfp") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.9.0 (c (n "yew-template") (v "0.9.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.20") (d #t) (k 2)))) (h "1c5hn9gyb3ja416aavy6ahq0vcmw7bhfcak5naqhad2791n9a0sk") (f (quote (("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+
+(define-public crate-yew-template-0.10.0 (c (n "yew-template") (v "0.10.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "poreader") (r "^1.1") (o #t) (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "string-tools") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "yew") (r "^0.20") (d #t) (k 2)))) (h "0xknp8gdsmq12ffsn3mxbnrmrs28ixzim6k08scrvyjr64ci0i1r") (f (quote (("log") ("i18n" "poreader") ("default" "config" "i18n") ("config" "toml" "serde"))))))
+

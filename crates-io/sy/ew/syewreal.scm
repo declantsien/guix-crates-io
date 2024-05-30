@@ -1,0 +1,4 @@
+(define-module (crates-io sy ew syewreal) #:use-module (crates-io))
+
+(define-public crate-syewreal-0.2.0 (c (n "syewreal") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.63") (d #t) (k 0)) (d (n "js-sys") (r "^0.3.60") (o #t) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "surrealdb") (r "^1.2.0") (f (quote ("protocol-ws"))) (d #t) (k 0)) (d (n "syewreal_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.33") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.60") (d #t) (k 0)) (d (n "yew") (r "^0.21") (d #t) (k 0)))) (h "13a0dvvgp7sdvlxk9k6dyybrvpjp6gasdd3q3y4ki57700xp4dml") (f (quote (("panic_on_error") ("log_traffic" "js-sys"))))))
+

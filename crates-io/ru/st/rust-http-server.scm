@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust-http-server) #:use-module (crates-io))
+
+(define-public crate-rust-http-server-0.0.1 (c (n "rust-http-server") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^2.30") (d #t) (k 0)) (d (n "cpython") (r "^0.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.0") (d #t) (k 0)) (d (n "curl") (r "^0.4.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "native-tls") (r "^0.1") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3") (d #t) (k 2)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0239pjjm9gkqj7fcncfjqnpgip8q5ndi2zriqbj8jjvm0z7k2wja") (f (quote (("wsgi") ("python"))))))
+

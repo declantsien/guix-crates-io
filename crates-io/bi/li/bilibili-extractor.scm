@@ -1,0 +1,16 @@
+(define-module (crates-io bi li bilibili-extractor) #:use-module (crates-io))
+
+(define-public crate-bilibili-extractor-0.1.0 (c (n "bilibili-extractor") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)))) (h "097mhadngbmvxy8s22jfcjc3grzxq3xvca6hfq741nxxqii24785")))
+
+(define-public crate-bilibili-extractor-0.1.1 (c (n "bilibili-extractor") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)))) (h "1723rfyzk7ik5gqjk4hvcgwz5hl0grviawyg2c13s7dk1rmi2ji6")))
+
+(define-public crate-bilibili-extractor-0.1.2 (c (n "bilibili-extractor") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)))) (h "1wdv2r19007gmkqw667pw7vk3p7fmc4i9vj6172vjkwlnyysskny")))
+
+(define-public crate-bilibili-extractor-0.1.3 (c (n "bilibili-extractor") (v "0.1.3") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)))) (h "0i1lifxrs8gwlgbqbwi6rwbrdgbq5xmqbpphsmk1fsp67jrbz2al")))
+
+(define-public crate-bilibili-extractor-1.0.0 (c (n "bilibili-extractor") (v "1.0.0") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1mljzz34zph7963g6afgrn8hmrgccvv53qpdp01g5wgarifz4yka")))
+
+(define-public crate-bilibili-extractor-1.0.1 (c (n "bilibili-extractor") (v "1.0.1") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1yb2nd39a1l4m9iz9zra1k319160y5679lzy4z5fadvwhhibvfky")))
+
+(define-public crate-bilibili-extractor-1.0.2 (c (n "bilibili-extractor") (v "1.0.2") (d (list (d (n "clap") (r "^4.4.10") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rsubs-lib") (r "^0.1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 0)) (d (n "spinners") (r "^4.1.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1iglhd6a53cm2pz6ay64c8j0v0zb4ryl2cly81mrisdbj1iy09zc")))
+

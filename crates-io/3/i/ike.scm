@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# i ike) #:use-module (crates-io))
+
+(define-public crate-ike-0.0.0 (c (n "ike") (v "0.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "egui") (r "^0.13") (d #t) (k 0)) (d (n "glam") (r "^0.17") (d #t) (k 0)) (d (n "ike-derive") (r "^0.0.0") (d #t) (k 0)) (d (n "image") (r "^0.23") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "pollster") (r "^0.2.4") (d #t) (k 0)) (d (n "simple_logger") (r "^1.13") (d #t) (k 2)) (d (n "wgpu") (r "^0.10") (d #t) (k 0)) (d (n "winit") (r "^0.25") (f (quote ("serde"))) (d #t) (k 0)))) (h "1bwrrhc7l5d8y9hf48vf4zn35694cbaql1yc9k6jwqapdqcydw4c") (f (quote (("runner") ("editor") ("default" "editor" "3d" "2d" "runner") ("3d" "image") ("2d" "image"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io sn ph snphost) #:use-module (crates-io))
+
+(define-public crate-snphost-0.1.1 (c (n "snphost") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "colorful") (r "^0.2.2") (d #t) (k 0)) (d (n "curl") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "sev") (r "^1.2.0") (f (quote ("openssl"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "1b520i249adc44kg3gp8lcjmsi7hpm9mkjvhxsr355nhj6gn1via") (r "1.56")))
+
+(define-public crate-snphost-0.1.2 (c (n "snphost") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "colorful") (r "^0.2.2") (d #t) (k 0)) (d (n "curl") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "sev") (r "^1.2.0") (f (quote ("openssl"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "1l5n18md196v9lr3563ijvljxxxhpwwhfnw5gjv2zbarh7q3qk41") (r "1.56")))
+
+(define-public crate-snphost-0.2.0 (c (n "snphost") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "colorful") (r "^0.2.2") (d #t) (k 0)) (d (n "curl") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "sev") (r "^1.2.0") (f (quote ("openssl"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "08cf12fzxywgy42gx88fcy33dalvbij7szsijv4rxvh88117f2wb") (r "1.56")))
+
+(define-public crate-snphost-0.3.0 (c (n "snphost") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "colorful") (r "^0.2.2") (d #t) (k 0)) (d (n "curl") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.139") (d #t) (k 0)) (d (n "msru") (r "^0.2.0") (d #t) (k 0)) (d (n "sev") (r "^3.0.0") (f (quote ("openssl"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (d #t) (k 0)))) (h "1xbf7svigh4nmpdbjnn3b6l5qfx0js3hzsb4mxfjnwlcd45zp4qv") (r "1.70")))
+

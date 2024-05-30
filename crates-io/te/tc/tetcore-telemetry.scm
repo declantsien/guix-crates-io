@@ -1,0 +1,6 @@
+(define-module (crates-io te tc tetcore-telemetry) #:use-module (crates-io))
+
+(define-public crate-tetcore-telemetry-0.0.0 (c (n "tetcore-telemetry") (v "0.0.0") (h "1p5m9msfqxhfmfzl98xflaffsdvqm5m6b4h561z5zswfwkawrrwv") (y #t)))
+
+(define-public crate-tetcore-telemetry-0.2.1 (c (n "tetcore-telemetry") (v "0.2.1") (d (list (d (n "actix") (r "^0.10.0") (d #t) (k 0)) (d (n "actix-http") (r "^2.0.0") (d #t) (k 0)) (d (n "actix-web") (r "^3.1.0") (d #t) (k 0)) (d (n "actix-web-actors") (r "^3.0.0") (d #t) (k 0)) (d (n "bytes") (r "^0.5.6") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11") (d #t) (k 0)) (d (n "primitive-types") (r "^0.7.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.9.18") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("raw_value"))) (d #t) (k 0)) (d (n "simple_logger") (r "^1.11.0") (d #t) (k 0)))) (h "128qa9n0mngbjkhara58ib734y36c5jq8q57hc2rvcwij7kikqcx")))
+

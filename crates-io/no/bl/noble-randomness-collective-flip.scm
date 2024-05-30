@@ -1,0 +1,4 @@
+(define-module (crates-io no bl noble-randomness-collective-flip) #:use-module (crates-io))
+
+(define-public crate-noble-randomness-collective-flip-2.0.0 (c (n "noble-randomness-collective-flip") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (f (quote ("derive"))) (k 0) (p "tetsy-scale-codec")) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "safe-mix") (r "^1.0") (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 2)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 2)) (d (n "tet-io") (r "^2.0.2") (d #t) (k 2)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "0d8vls527szwicfvb83zmzhw035jka0p9whnqcmnx2w9lqi53nwp") (f (quote (("std" "safe-mix/std" "fabric-system/std" "codec/std" "fabric-support/std" "tp-runtime/std" "tetcore-std/std") ("default" "std"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io wa i- wai-bindgen-gen-spidermonkey) #:use-module (crates-io))
+
+(define-public crate-wai-bindgen-gen-spidermonkey-0.2.0-rc.1 (c (n "wai-bindgen-gen-spidermonkey") (v "0.2.0-rc.1") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "wai-bindgen-gen-core") (r "^0.2.0-rc.1") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.8.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.80") (d #t) (k 2)))) (h "16qdcx33vgw5g6w96x7n4qxjqrflr5bbszdrmgfs3w100nxf6xi9") (r "1.64")))
+
+(define-public crate-wai-bindgen-gen-spidermonkey-0.2.0 (c (n "wai-bindgen-gen-spidermonkey") (v "0.2.0") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "wai-bindgen-gen-core") (r "^0.2.0") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.8.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.80") (d #t) (k 2)))) (h "1qgsxzyb1szwi0aydlp7iy3gy5mg9sigsagww1nvyk1vh1cdf6m8") (r "1.64")))
+
+(define-public crate-wai-bindgen-gen-spidermonkey-0.2.1 (c (n "wai-bindgen-gen-spidermonkey") (v "0.2.1") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "wai-bindgen-gen-core") (r "^0.2.1") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.8.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.80") (d #t) (k 2)))) (h "1jch5jk0v1jj5i97rr64aik34pxckash5w85immsy6jmabxng9fq") (r "1.64")))
+
+(define-public crate-wai-bindgen-gen-spidermonkey-0.2.2 (c (n "wai-bindgen-gen-spidermonkey") (v "0.2.2") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "wai-bindgen-gen-core") (r "^0.2.2") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.8.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.80") (d #t) (k 2)))) (h "0j5xf1hf2r7ip383mj9rv7pdd5bpv2a2g4wd7r1gij35dk2dkqaf") (r "1.64")))
+
+(define-public crate-wai-bindgen-gen-spidermonkey-0.2.3 (c (n "wai-bindgen-gen-spidermonkey") (v "0.2.3") (d (list (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "wai-bindgen-gen-core") (r "^0.2.3") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.8.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.80") (d #t) (k 2)))) (h "1fx4f29g2g8dszl1crlpxlynvxnfplqvpiv7dwv8ggzb0y5vysjp") (r "1.64")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io su bs subsonic-types) #:use-module (crates-io))
+
+(define-public crate-subsonic-types-0.1.0 (c (n "subsonic-types") (v "0.1.0") (d (list (d (n "ordered-float") (r "^3.4") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.2") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27") (f (quote ("serde" "serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "subsonic-types-macro") (r "^0.0.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("parsing" "macros" "serde" "formatting"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)))) (h "04nbmqna9m608192mc1m0fky0zp9nqzaq1j2iqvxk96is4nvwf04")))
+
+(define-public crate-subsonic-types-0.2.0 (c (n "subsonic-types") (v "0.2.0") (d (list (d (n "ordered-float") (r "^3.4") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.2") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27") (f (quote ("serde" "serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "subsonic-types-macro") (r "^0.0.0") (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("parsing" "macros" "serde" "formatting"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 2)))) (h "0bncwh377lxpgamxlldg5iqpn6psw9c7nlwn2j8nbprkgfsaazjh")))
+

@@ -1,0 +1,20 @@
+(define-module (crates-io wo rk workflows) #:use-module (crates-io))
+
+(define-public crate-workflows-0.1.0 (c (n "workflows") (v "0.1.0") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)))) (h "0zcf037y44f4j5vcbq1l3hkvffk49jz7iy7r9lrp7kjbg45a152w")))
+
+(define-public crate-workflows-0.1.1 (c (n "workflows") (v "0.1.1") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "1h437ng8a5mysmyrkabjk9ycpza2bidn0fvm46ifhqw059yaxylq")))
+
+(define-public crate-workflows-0.2.0 (c (n "workflows") (v "0.2.0") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "17dmkazv2a42303c39bx973xiaqys7rbg9hzbmq452c2y9kw226b")))
+
+(define-public crate-workflows-0.3.0 (c (n "workflows") (v "0.3.0") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "15904fakqbs3ablm0nisfirwacmxhw9li3nxasd7ajc4y3i0jb8y")))
+
+(define-public crate-workflows-0.3.1 (c (n "workflows") (v "0.3.1") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "0124iq0409as4f25vig2w4lmxrbvs20npk5vcppq2kzz7bfi7myf")))
+
+(define-public crate-workflows-0.4.0 (c (n "workflows") (v "0.4.0") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "0f6b7ls6i3amzl0z5zj2n9zcm5n918pqbl301qmwakgml10znhar")))
+
+(define-public crate-workflows-0.4.1 (c (n "workflows") (v "0.4.1") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "0xwig380kpnv7ii9hmz57i7bs6naym0qdpv7wnvdhszbcbchxjkz")))
+
+(define-public crate-workflows-0.4.2 (c (n "workflows") (v "0.4.2") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "1h4r7dswdwywhxm7i70a7j6g0h47wjxygc2qwibcrss613ycm4ay")))
+
+(define-public crate-workflows-0.5.0 (c (n "workflows") (v "0.5.0") (d (list (d (n "casual") (r "^0.2.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fzf-wrapped") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.190") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "which") (r "^5.0.0") (d #t) (k 0)))) (h "1cv13im4bgm7zlhy8n08mdam5dknc7mlbvc220hcp5xh4yfd996q")))
+

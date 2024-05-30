@@ -1,0 +1,8 @@
+(define-module (crates-io ty pe typedcache) #:use-module (crates-io))
+
+(define-public crate-typedcache-0.1.0 (c (n "typedcache") (v "0.1.0") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("async_tokio"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-scoped") (r "^0.2") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "16cvxzbxgy6a5r2ymaa5lz06lal0dhxxixkb9mmhygc6iy09ibk2")))
+
+(define-public crate-typedcache-0.2.0 (c (n "typedcache") (v "0.2.0") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("async_tokio"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-scoped") (r "^0.2") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0c8s9x5g4xn78q528h26hdypc5hzjl8s2nkabb953grkkk2xavzq")))
+
+(define-public crate-typedcache-0.2.1 (c (n "typedcache") (v "0.2.1") (d (list (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.4") (f (quote ("async_tokio"))) (d #t) (k 2)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-scoped") (r "^0.2") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1pksvk1c8m3s8rb0wmj3gk7yplijgmjbsgxh6gnvk6ra2yc7h7rx")))
+

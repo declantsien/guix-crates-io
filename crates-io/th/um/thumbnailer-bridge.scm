@@ -1,0 +1,8 @@
+(define-module (crates-io th um thumbnailer-bridge) #:use-module (crates-io))
+
+(define-public crate-thumbnailer-bridge-0.1.0 (c (n "thumbnailer-bridge") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "magic") (r "^0.13") (d #t) (k 0)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "rustbus") (r "^0.19") (d #t) (k 0)))) (h "1kkl4k5sb099n07k8kazigg6qk6qb5k3jsxg8pqrvkv4w85h59kq")))
+
+(define-public crate-thumbnailer-bridge-0.1.1 (c (n "thumbnailer-bridge") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "filetime") (r "^0.2") (d #t) (k 2)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "rustbus") (r "^0.19") (d #t) (k 0)) (d (n "tree_magic_mini") (r "^3.0") (d #t) (k 0)))) (h "07yskxsp6s9ggfz4r6qy5ykk6sindyqac4cm9yjzqwbai3x968n4")))
+
+(define-public crate-thumbnailer-bridge-0.1.2 (c (n "thumbnailer-bridge") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "filetime") (r "^0.2") (d #t) (k 2)) (d (n "md5") (r "^0.7") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1") (d #t) (k 0)) (d (n "rayon") (r "^1.7") (d #t) (k 0)) (d (n "rustbus") (r "^0.19") (d #t) (k 0)) (d (n "tree_magic_mini") (r "^3.0") (d #t) (k 0)))) (h "17dcd99sckyrlxzn5ma0lp9grc9fgv1v4klhdvb80j3qpc6gzr47")))
+

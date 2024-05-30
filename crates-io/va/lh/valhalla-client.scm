@@ -1,0 +1,6 @@
+(define-module (crates-io va lh valhalla-client) #:use-module (crates-io))
+
+(define-public crate-valhalla-client-0.1.0 (c (n "valhalla-client") (v "0.1.0") (d (list (d (n "geo-types") (r "^0.7.10") (d #t) (k 0)) (d (n "gpx") (r "^0.9.1") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.14") (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1hjr9rqr8y8sd80a64l79l6hdbc7lcqfc8aid046mbvy2h2zfja0") (f (quote (("default" "gpx")))) (s 2) (e (quote (("gpx" "dep:gpx"))))))
+
+(define-public crate-valhalla-client-0.1.1 (c (n "valhalla-client") (v "0.1.1") (d (list (d (n "geo-types") (r "^0.7.10") (d #t) (k 0)) (d (n "gpx") (r "^0.9.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.14") (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "02820hy57nm1hf8hvp30xdpiyzisgc83khwbqr6cs2xwrwzczipf") (f (quote (("default" "gpx")))) (s 2) (e (quote (("gpx" "dep:gpx"))))))
+

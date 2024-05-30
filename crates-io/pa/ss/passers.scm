@@ -1,0 +1,4 @@
+(define-module (crates-io pa ss passers) #:use-module (crates-io))
+
+(define-public crate-passers-0.1.0 (c (n "passers") (v "0.1.0") (d (list (d (n "arboard") (r "^3.2.0") (k 0)) (d (n "chacha20poly1305") (r "^0.10.1") (f (quote ("stream"))) (d #t) (k 0)) (d (n "lexopt") (r "^0.2.1") (d #t) (k 0)) (d (n "nix") (r "^0.25.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.17.2") (d #t) (k 0)) (d (n "owo-colors") (r "^3.5.0") (d #t) (k 0)) (d (n "path-absolutize") (r "^3.0.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "ron") (r "^0.8.0") (d #t) (k 0)) (d (n "rust-argon2") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.150") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shell-words") (r "^1.1.0") (d #t) (k 0)) (d (n "sublime_fuzzy") (r "^0.7.0") (d #t) (k 0)) (d (n "xdg") (r "^2.4.1") (d #t) (k 0)))) (h "16gwdbi3npxqjfzx99fhj1s99v2cr9f50allvscny85vbylnywx7")))
+

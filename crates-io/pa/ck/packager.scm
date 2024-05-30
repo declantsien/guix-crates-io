@@ -1,0 +1,12 @@
+(define-module (crates-io pa ck packager) #:use-module (crates-io))
+
+(define-public crate-packager-0.1.1 (c (n "packager") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("std"))) (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.13") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0i0w0c9dlq2s5knhh8j076y8813w4m9v0ablw93vnj16599r2irk") (f (quote (("default" "clang") ("clang"))))))
+
+(define-public crate-packager-0.2.0 (c (n "packager") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("std"))) (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.13") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0p52m5lnk59sh121fmwh3c4ramn8w9sffi72pwrmgznri8cg3r2s") (f (quote (("default" "clang") ("clang"))))))
+
+(define-public crate-packager-0.2.1 (c (n "packager") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("std"))) (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.13") (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "1ckzp4a880xjq0yh43wmyn4p97gbcmph8c0gnk0lfghrpcjfp8rf") (f (quote (("default" "clang") ("clang"))))))
+
+(define-public crate-packager-0.2.2 (c (n "packager") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("std"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "0lk1jdkp5h3njz8agz86q74fy5b0m56qzbz4ria4rz49vpadn0d5") (f (quote (("default" "clang") ("clang"))))))
+
+(define-public crate-packager-0.3.0 (c (n "packager") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.79") (f (quote ("std"))) (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "1myzl4jzn9bci1d7wg6scdd9cb40qdz2rx5xf2d1xf1vlb01lba9") (f (quote (("default" "clang") ("clang"))))))
+

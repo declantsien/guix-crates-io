@@ -1,0 +1,6 @@
+(define-module (crates-io sm al small-db) #:use-module (crates-io))
+
+(define-public crate-small-db-0.3.0 (c (n "small-db") (v "0.3.0") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0nbpks04kzsniq5il09b6wf5bqgqsq221ar7yyrjz9xrpwgsciwx")))
+
+(define-public crate-small-db-0.4.0 (c (n "small-db") (v "0.4.0") (d (list (d (n "backtrace") (r "^0.3") (d #t) (k 0)) (d (n "bit-vec") (r "^0.6.2") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)))) (h "0n9v6qi7j6xsd2wwa77jfmizlpnjwjzapdig70a2zgjgdips3164")))
+

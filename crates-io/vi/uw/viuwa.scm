@@ -1,0 +1,16 @@
+(define-module (crates-io vi uw viuwa) #:use-module (crates-io))
+
+(define-public crate-viuwa-0.0.42 (c (n "viuwa") (v "0.0.42") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "0.25.*") (d #t) (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "0.24.*") (d #t) (k 0)))) (h "1fz1daa1zvp0j7ygmrlcp3qjyylw4x7fqq5hii3h8yma2w6r3pjj") (y #t)))
+
+(define-public crate-viuwa-0.0.43 (c (n "viuwa") (v "0.0.43") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "0.25.*") (d #t) (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "0.24.*") (d #t) (k 0)))) (h "14kfpgp51dmp2b7r20jhxbslj0p9fxm9i9iyyq7d09804n42kiqm") (y #t)))
+
+(define-public crate-viuwa-0.0.44 (c (n "viuwa") (v "0.0.44") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "0.25.*") (d #t) (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "0.24.*") (d #t) (k 0)))) (h "0dgyjbw8y7xlvykssals4f6i52lv69dbx778q4lnpmgxs8p5dxrk")))
+
+(define-public crate-viuwa-0.0.45 (c (n "viuwa") (v "0.0.45") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "0.25.*") (d #t) (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "0.24.*") (d #t) (k 0)) (d (n "rayon") (r "1.5.*") (d #t) (t "cfg(any(unix, windows))") (k 0)))) (h "1x1j54zjjplb92hzx260jicyv407qfpjir6n3q1hjwb166b22x4v") (y #t)))
+
+(define-public crate-viuwa-0.0.46 (c (n "viuwa") (v "0.0.46") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (f (quote ("rayon"))) (o #t) (d #t) (k 0)) (d (n "rayon") (r "1.5.*") (o #t) (d #t) (k 0)))) (h "0bqw7i09bga1yvijs5hwnwg35sqdlhi6f6g44jn7f54p4z5kxnd8") (f (quote (("rayon" "rayon-resizer" "rayon-converter") ("default" "rayon")))) (y #t) (s 2) (e (quote (("rayon-resizer" "dep:rayon" "dep:ndarray") ("rayon-converter" "dep:rayon"))))))
+
+(define-public crate-viuwa-0.0.47 (c (n "viuwa") (v "0.0.47") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "^0.24.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (f (quote ("rayon"))) (o #t) (d #t) (k 0)) (d (n "rayon") (r "1.5.*") (o #t) (d #t) (k 0)))) (h "1zwhl56wd4is5hfn2d9p2hnirvpw5m7qxicg2rkmz5jwkss9rz36") (f (quote (("rayon" "rayon-resizer" "rayon-converter") ("default" "rayon")))) (s 2) (e (quote (("rayon-resizer" "dep:rayon" "dep:ndarray") ("rayon-converter" "dep:rayon"))))))
+
+(define-public crate-viuwa-0.0.50 (c (n "viuwa") (v "0.0.50") (d (list (d (n "clap") (r "4.0.*") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "crossterm") (r "0.25.*") (t "cfg(any(unix, windows))") (k 0)) (d (n "image") (r "^0.24.4") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dxt" "dds" "farbfeld" "openexr"))) (k 0)) (d (n "ndarray") (r "^0.15.6") (f (quote ("std"))) (k 0)) (d (n "rayon") (r "1.5.*") (o #t) (d #t) (k 0)))) (h "0kxigpfhc0wa3w8g7h9cmbdg4gvkgyq1gbj3ignrq6a2p5gcin0q") (f (quote (("default" "rayon")))) (s 2) (e (quote (("rayon" "dep:rayon" "ndarray/rayon" "image/jpeg_rayon"))))))
+

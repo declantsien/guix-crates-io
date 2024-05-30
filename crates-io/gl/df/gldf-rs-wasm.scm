@@ -1,0 +1,4 @@
+(define-module (crates-io gl df gldf-rs-wasm) #:use-module (crates-io))
+
+(define-public crate-gldf-rs-wasm-0.2.1 (c (n "gldf-rs-wasm") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "gldf-rs") (r "^0.2.1") (d #t) (k 0)) (d (n "gloo") (r "^0.8") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "reqwest-wasm") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.3") (d #t) (k 2)) (d (n "web-sys") (r "^0.3.50") (f (quote ("File" "DragEvent" "DataTransfer"))) (d #t) (k 0)) (d (n "yew") (r "^0.20") (f (quote ("csr"))) (d #t) (k 0)))) (h "1sf7cqklz90bdckc8vgadh000sjxbww3a7vr3d8fd0n1svh81iny")))
+

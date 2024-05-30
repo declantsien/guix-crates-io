@@ -1,0 +1,10 @@
+(define-module (crates-io wi ki wikidata-rs) #:use-module (crates-io))
+
+(define-public crate-wikidata-rs-0.0.1 (c (n "wikidata-rs") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "duckdb") (r "^0.7.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "polars") (r "^0.29.0") (f (quote ("lazy" "dtype-u8"))) (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "wikidata") (r "^0.3.0") (d #t) (k 0)))) (h "0xz5sllsnybd4fazkgr97r4h62qwy1v9l32ldn4m913wc9idp623")))
+
+(define-public crate-wikidata-rs-0.0.2 (c (n "wikidata-rs") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "duckdb") (r "^0.7.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "polars") (r "^0.30.0") (f (quote ("lazy" "dtype-u8"))) (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "wikidata") (r "^0.3.0") (d #t) (k 0)))) (h "1rgakgz3pcli3xldlbvjwdb057j5kcybkh50d0mcz51xfza1riyz")))
+
+(define-public crate-wikidata-rs-0.0.3 (c (n "wikidata-rs") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "duckdb") (r "^0.7.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "polars") (r "^0.30.0") (f (quote ("lazy" "dtype-u8"))) (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "wikidata") (r "^0.3.0") (d #t) (k 0)))) (h "0g51dl2s5bnvz1cf66y7c9h717zx6hpa99wa61bzwksfmphirr5w")))
+
+(define-public crate-wikidata-rs-0.0.4 (c (n "wikidata-rs") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "duckdb") (r "^0.7.1") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "polars") (r "^0.30.0") (f (quote ("lazy" "dtype-u8"))) (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)) (d (n "wikidata") (r "^0.3.0") (d #t) (k 0)))) (h "1j1mziqh5dwjhf7sxbhzpg9qa56ly4nzcdxjaghjf6gvvi1vm1yi")))
+

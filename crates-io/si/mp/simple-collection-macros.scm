@@ -1,0 +1,8 @@
+(define-module (crates-io si mp simple-collection-macros) #:use-module (crates-io))
+
+(define-public crate-simple-collection-macros-0.1.0 (c (n "simple-collection-macros") (v "0.1.0") (d (list (d (n "dashmap") (r "^5.4") (o #t) (d #t) (k 0)) (d (n "thincollections") (r "^0.5") (o #t) (d #t) (k 0)))) (h "01kp7hv53nl83bbq8y90cplwg82h3an7ffc5836v9m7pk03ndz6d") (f (quote (("set-macro-use-hset") ("set-macro-use-bset") ("map-macro-use-hmap") ("map-macro-use-bmap") ("default" "map-macro-use-hmap" "set-macro-use-hset")))) (s 2) (e (quote (("thincollections" "dep:thincollections") ("dashmap" "dep:dashmap"))))))
+
+(define-public crate-simple-collection-macros-0.1.1 (c (n "simple-collection-macros") (v "0.1.1") (d (list (d (n "dashmap") (r "^5.4") (o #t) (d #t) (k 0)) (d (n "thincollections") (r "^0.5") (o #t) (d #t) (k 0)))) (h "0f9kv4z4z6fgv1p8dmjysxfkbrkvxvrwlk4i56lrdavgzzjac73k") (f (quote (("set-macro-use-hset") ("set-macro-use-bset") ("map-macro-use-hmap") ("map-macro-use-bmap") ("default" "map-macro-use-hmap" "set-macro-use-hset")))) (s 2) (e (quote (("thincollections" "dep:thincollections") ("dashmap" "dep:dashmap"))))))
+
+(define-public crate-simple-collection-macros-0.1.2 (c (n "simple-collection-macros") (v "0.1.2") (d (list (d (n "dashmap") (r "^5.4") (o #t) (d #t) (k 0)) (d (n "thincollections") (r "^0.5") (o #t) (d #t) (k 0)))) (h "02rxhf1bz92hnylxgh489dgc7wvgd6capbxcqkvs4p8vnil82nmh") (f (quote (("set-macro-use-hset") ("set-macro-use-bset") ("map-macro-use-hmap") ("map-macro-use-bmap") ("default" "map-macro-use-hmap" "set-macro-use-hset")))) (s 2) (e (quote (("thincollections" "dep:thincollections") ("dashmap" "dep:dashmap"))))))
+

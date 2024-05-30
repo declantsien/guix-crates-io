@@ -1,0 +1,4 @@
+(define-module (crates-io im ap imap-patch-for-async-imap-lite) #:use-module (crates-io))
+
+(define-public crate-imap-patch-for-async-imap-lite-2.2.0 (c (n "imap-patch-for-async-imap-lite") (v "2.2.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "bufstream") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "imap-proto") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "lettre") (r "^0.9") (d #t) (k 2)) (d (n "lettre_email") (r "^0.9") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "nom") (r "^5.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "rustls-connector") (r "^0.11.0") (d #t) (k 2)))) (h "132hs7sxsr9g1za2sh6nb487xlbxgzrrq3b6n37lc9n4q1q5yja8") (f (quote (("tls" "native-tls") ("default" "tls"))))))
+

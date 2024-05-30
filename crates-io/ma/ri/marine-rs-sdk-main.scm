@@ -1,0 +1,42 @@
+(define-module (crates-io ma ri marine-rs-sdk-main) #:use-module (crates-io))
+
+(define-public crate-marine-rs-sdk-main-0.6.9 (c (n "marine-rs-sdk-main") (v "0.6.9") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "marine-macro") (r "=0.6.9") (d #t) (k 0)) (d (n "serde") (r "=1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "17gc4f0ji98p59375abflplgw3z8asv61zyjk9bv4sqa9394y645") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.6.10 (c (n "marine-rs-sdk-main") (v "0.6.10") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "marine-macro") (r "=0.6.10") (d #t) (k 0)) (d (n "serde") (r "=1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "0kyxnm8a1acpq7lx16i1bzf1bi0w89kwy1wy464ras6qjdc9pi4m") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.6.11 (c (n "marine-rs-sdk-main") (v "0.6.11") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "marine-macro") (r "=0.6.11") (d #t) (k 0)) (d (n "serde") (r "=1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "1rqasrh9va5rss1n12j08sli5np319s38gw77w4m9yxmc7rkllml") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.6.12 (c (n "marine-rs-sdk-main") (v "0.6.12") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "marine-macro") (r "=0.6.12") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "06h7njw9ysacfvkmdpgcdp60a8wrclglj9642f8rx9jwa4x7vppl") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.6.13 (c (n "marine-rs-sdk-main") (v "0.6.13") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "marine-macro") (r "=0.6.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "15h181p7alngkv8k62p9n9ydypz34inpfvhlq0cl9111270a1029") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.6.14 (c (n "marine-rs-sdk-main") (v "0.6.14") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "marine-macro") (r "=0.6.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "121h0sbna6iaccjv1lqrp3qb9n3i3zkr9rcymnldzw47rng9p78y") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.6.15 (c (n "marine-rs-sdk-main") (v "0.6.15") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "1ilr6s7jbl58xhqs835s981ighl8h1p4sl3lsbwj5kk42s065wlg") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.7.0 (c (n "marine-rs-sdk-main") (v "0.7.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^1.6.0") (d #t) (k 2)))) (h "06hyqp5x351j8hr8dcgr9p5jgy8glzdh557d5fadid0i6l4z8l87") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.7.1 (c (n "marine-rs-sdk-main") (v "0.7.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "simple_logger") (r "^2.3.0") (d #t) (k 2)))) (h "08zg8grc0vm7dqxsi6iqavxnkvgd3rif5wx3h1pbki8vc6n6wgn4") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.8.0 (c (n "marine-rs-sdk-main") (v "0.8.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)))) (h "17vrjhi2pnyd690ai7kc5k8vaiw13r5m1hfrr3k027qjc3zzwn3b") (f (quote (("logger") ("debug")))) (y #t)))
+
+(define-public crate-marine-rs-sdk-main-0.8.1 (c (n "marine-rs-sdk-main") (v "0.8.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)))) (h "1zb5mpsy6idbnr3mf82l5amjfydh6wcji1rf4fwgxz4l5ax7h5mh") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.9.0 (c (n "marine-rs-sdk-main") (v "0.9.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)))) (h "1515yrli9afk6grjk10z0ic7g1063sda44n3m6fd2d54cg61g7m6") (f (quote (("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.10.0 (c (n "marine-rs-sdk-main") (v "0.10.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.17") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (d #t) (k 0)) (d (n "simple_logger") (r "^4.0.0") (d #t) (k 2)))) (h "0y7rccb5iv2099928cr96d30hgc30ik6ikxn9y3i3bb99k3vpshi") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.10.1 (c (n "marine-rs-sdk-main") (v "0.10.1") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "1xj717935fxmncdfmkjc1zh9c1cdc4w6jhz94yjncw7gznwxyz4r") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.10.2 (c (n "marine-rs-sdk-main") (v "0.10.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "0ws613gmhsyf1nif2w29miwidk2mn450h7p97zrqpa1z4jbxbd6k") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.10.3 (c (n "marine-rs-sdk-main") (v "0.10.3") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "0mjp4wc7swcqc70ch5ain0ad4isyrfcbfr8crcf8rdfs2shfw7h3") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.11.0 (c (n "marine-rs-sdk-main") (v "0.11.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "1vwpydq7368gx44i8xrwy8dalwyj4a8dymm07gmx6nl2lbyv8gan") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.12.0 (c (n "marine-rs-sdk-main") (v "0.12.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "0yy38rk19k55w6f9d58ipqhx2mnhpyxl8kn4bsbb8x85a0091fkc") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.13.0 (c (n "marine-rs-sdk-main") (v "0.13.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "14mycscdsqg0w5a18k3mr6cwv11knjnjx51jr03bm25jl6hqgd2q") (f (quote (("marine-abi") ("logger") ("debug"))))))
+
+(define-public crate-marine-rs-sdk-main-0.14.0 (c (n "marine-rs-sdk-main") (v "0.14.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (f (quote ("std"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (d #t) (k 0)) (d (n "simple_logger") (r "^4.2.0") (d #t) (k 2)))) (h "0hg89h0l2sxymcnxkccgw3jss3ms6spcbvmbkc38nhr1zijw2y8b") (f (quote (("marine-abi") ("logger") ("debug"))))))
+

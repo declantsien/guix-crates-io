@@ -1,0 +1,8 @@
+(define-module (crates-io ap to aptos-gas) #:use-module (crates-io))
+
+(define-public crate-aptos-gas-0.2.1 (c (n "aptos-gas") (v "0.2.1") (d (list (d (n "framework") (r "^0.2.1") (d #t) (k 0) (p "aptos-framework")) (d (n "move-binary-format") (r "^0.3.1") (d #t) (k 0) (p "mv-binary-format")) (d (n "move-core-types") (r "^0.3.1") (d #t) (k 0) (p "mv-core-types")) (d (n "move-stdlib") (r "^0.3.1") (d #t) (k 0) (p "mv-stdlib")) (d (n "move-vm-types") (r "^0.3.1") (d #t) (k 0) (p "mv-vm-types")))) (h "0ng8lmbqhphfyx9c04qxyiy3s38s592k177yfynfm62vv1fpap4w") (f (quote (("testing" "move-stdlib/testing")))) (y #t)))
+
+(define-public crate-aptos-gas-0.2.6 (c (n "aptos-gas") (v "0.2.6") (d (list (d (n "framework") (r "^0.2.1") (d #t) (k 0) (p "aptos-framework")) (d (n "move-binary-format") (r "^0.3.1") (d #t) (k 0) (p "mv-binary-format")) (d (n "move-core-types") (r "^0.3.1") (d #t) (k 0) (p "mv-core-types")) (d (n "move-stdlib") (r "^0.3.1") (d #t) (k 0) (p "mv-stdlib")) (d (n "move-vm-types") (r "^0.3.1") (d #t) (k 0) (p "mv-vm-types")))) (h "0lmk1ka2983a752cbg7akpnfr5zd699p9mvqzsvw96ylrgryczfi") (f (quote (("testing" "move-stdlib/testing")))) (y #t)))
+
+(define-public crate-aptos-gas-0.2.7 (c (n "aptos-gas") (v "0.2.7") (d (list (d (n "framework") (r "^0.2.1") (d #t) (k 0) (p "aptos-framework")) (d (n "move-binary-format") (r "^0.3.1") (d #t) (k 0) (p "mv-binary-format")) (d (n "move-core-types") (r "^0.3.1") (d #t) (k 0) (p "mv-core-types")) (d (n "move-stdlib") (r "^0.3.1") (d #t) (k 0) (p "mv-stdlib")) (d (n "move-vm-types") (r "^0.3.1") (d #t) (k 0) (p "mv-vm-types")))) (h "18j519zcqbd9r137lvsxm3cm6f8xb7qgd0zfqxgvq5kzxi16z7jq") (f (quote (("testing" "move-stdlib/testing")))) (y #t)))
+

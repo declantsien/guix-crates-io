@@ -1,0 +1,4 @@
+(define-module (crates-io sc iv sciviz) #:use-module (crates-io))
+
+(define-public crate-sciviz-0.1.0 (c (n "sciviz") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.40") (d #t) (k 0)) (d (n "arrow") (r "^3.0.0") (d #t) (k 0)) (d (n "async-executor") (r "^1.0") (d #t) (k 0)) (d (n "bevy") (r "^0.5.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cgmath") (r "^0.18") (d #t) (k 0)) (d (n "env_logger") (r "^0.8.3") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.1") (d #t) (k 0)) (d (n "pollster") (r "^0.2.3") (d #t) (k 0)) (d (n "shaderc") (r "^0.7") (d #t) (k 0)) (d (n "stretch") (r "^0.3.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.24") (d #t) (k 0)) (d (n "winit") (r "^0.24.0") (d #t) (k 0)))) (h "07sqjpaz033cc7dfjnc5pyai95xgci2xbxs09pbmxq5n8ffdr605")))
+

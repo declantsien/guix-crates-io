@@ -1,0 +1,4 @@
+(define-module (crates-io in fo informalsystems-prost-build) #:use-module (crates-io))
+
+(define-public crate-informalsystems-prost-build-0.8.1 (c (n "informalsystems-prost-build") (v "0.8.1") (d (list (d (n "bytes") (r "^1") (k 0)) (d (n "env_logger") (r "^0.8") (k 2)) (d (n "heck") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "multimap") (r "^0.8") (k 0)) (d (n "petgraph") (r "^0.6") (k 0)) (d (n "prost") (r "^0.8.1") (k 0) (p "informalsystems-prost")) (d (n "prost-types") (r "^0.8.1") (k 0) (p "informalsystems-prost-types")) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "which") (r "^4") (k 1)))) (h "0n6zl4ipqx8rz7b5c9h980503s00jb856bxdnc8482qvsiqcsdma")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ip fs ipfs-embed-sqlite) #:use-module (crates-io))
+
+(define-public crate-ipfs-embed-sqlite-0.11.0 (c (n "ipfs-embed-sqlite") (v "0.11.0") (d (list (d (n "async-global-executor") (r "^2.0.2") (d #t) (k 0)) (d (n "async-io") (r "^1.3.1") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "futures") (r "^0.3.12") (k 0)) (d (n "ipfs-sqlite-block-store") (r "^0.1.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libipld") (r "^0.10.0") (k 0)) (d (n "libipld") (r "^0.10.0") (f (quote ("dag-cbor"))) (k 2)) (d (n "multihash") (r "^0.13.2") (f (quote ("blake3"))) (k 2)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "prometheus") (r "^0.11.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.23") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.2.15") (d #t) (k 2)))) (h "1fdhdgfh8p8m79bj0bhwhkg9364hy46c4qpqx3v8gxyn4xvgr9am")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ac ut acute) #:use-module (crates-io))
+
+(define-public crate-acute-0.0.1 (c (n "acute") (v "0.0.1") (d (list (d (n "acute_app") (r "^0.1.1") (d #t) (k 0)) (d (n "acute_assets") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_core") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_ecs") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_input") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_render") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_render_backend") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_scenes") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_window") (r "^0.1.0") (d #t) (k 0)))) (h "1qximh49mzx5d3xdka5w1j866rx6vq3c3fc46ddgc1bhsxv8x7gs")))
+
+(define-public crate-acute-0.0.2 (c (n "acute") (v "0.0.2") (d (list (d (n "acute_app") (r "^0.1.2") (d #t) (k 0)) (d (n "acute_assets") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_core") (r "^0.1.1") (d #t) (k 0)) (d (n "acute_ecs") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_input") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_render") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_render_backend") (r "^0.1.1") (d #t) (k 0)) (d (n "acute_scenes") (r "^0.1.0") (d #t) (k 0)) (d (n "acute_window") (r "^0.1.0") (d #t) (k 0)))) (h "0y82yx7brhfppd2imgp9hxbq4q35c8qg8krp5mq6h198mxcijmfa")))
+

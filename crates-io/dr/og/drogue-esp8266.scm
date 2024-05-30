@@ -1,0 +1,10 @@
+(define-module (crates-io dr og drogue-esp8266) #:use-module (crates-io))
+
+(define-public crate-drogue-esp8266-0.1.0 (c (n "drogue-esp8266") (v "0.1.0") (d (list (d (n "drogue-network") (r "^0.1.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.5.5") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "moveslice") (r "^2.0.1") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 0)) (d (n "no-std-net") (r "^0.4.0") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (k 0)))) (h "1fpi1gdm0damabiz0g536hvgv9miqnlzmmc7ymjivb3dhmr0dsld")))
+
+(define-public crate-drogue-esp8266-0.2.0 (c (n "drogue-esp8266") (v "0.2.0") (d (list (d (n "drogue-network") (r "^0.1.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.5.5") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "moveslice") (r "^2.0.1") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 0)) (d (n "no-std-net") (r "^0.4.0") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (k 0)))) (h "1a89n97yrxv0zrqklddiw5bp3sm9vdnvbd80xii4p1q8m4mgy3y3")))
+
+(define-public crate-drogue-esp8266-0.3.0 (c (n "drogue-esp8266") (v "0.3.0") (d (list (d (n "drogue-network") (r "^0.2.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.5.5") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "moveslice") (r "^2.0.1") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (k 0)))) (h "1whjs6fbqbax2608rarjc240w45zyq4hgijc34ip3qz6kwnjv6dm")))
+
+(define-public crate-drogue-esp8266-0.3.1 (c (n "drogue-esp8266") (v "0.3.1") (d (list (d (n "drogue-network") (r "^0.2.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.4") (d #t) (k 0)) (d (n "heapless") (r "^0.5.5") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "moveslice") (r "^2.0.1") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 0)) (d (n "nom") (r "^5.1.2") (k 0)))) (h "103sw5ps27wkpc39gazn6yl4a5mgma4f5jhjx2b78kp7vsqnqnrc") (f (quote (("2k") ("1k"))))))
+

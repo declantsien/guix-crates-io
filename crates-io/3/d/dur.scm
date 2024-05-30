@@ -1,0 +1,26 @@
+(define-module (crates-io #{3}# d dur) #:use-module (crates-io))
+
+(define-public crate-dur-0.1.0 (c (n "dur") (v "0.1.0") (d (list (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)))) (h "0v2lbnfkzv048zcdy5xdfsig0jz06zizfcnjjhgvlim8y9dqyh62") (f (quote (("std") ("default"))))))
+
+(define-public crate-dur-0.2.0 (c (n "dur") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)))) (h "0s775sdzd142nzqi4b3kpphi4m9vg58k091zs2d63qd76gk4ikl4") (f (quote (("std") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.2.1 (c (n "dur") (v "0.2.1") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)))) (h "1qvr01jy1giykvm6swjhjlqg6h1pqibzakv5nvp2ms4j066izjj5") (f (quote (("std") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.3.0 (c (n "dur") (v "0.3.0") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "1mpwnilc3a2agn4lhnfg7hwn29cwx2g2my06xnga8kiray12i8dc") (f (quote (("std") ("serde" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.3.1 (c (n "dur") (v "0.3.1") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "1d3l7m1ylqlpjh58zcm5y5disch368ij209c29jak5yvrgha8m4d") (f (quote (("std") ("serde" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.3.2 (c (n "dur") (v "0.3.2") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "1k3ghnx6246qsa7hhpvcqhqna7i6pcsyy5iiq0vcwqsjy4akik34") (f (quote (("std") ("serde" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.3.3 (c (n "dur") (v "0.3.3") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "0v0fpj796qi57dfp6rjy7b3528daw6rh3py7x5q5yvbn4ih2zc4r") (f (quote (("std") ("serde" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.3.4 (c (n "dur") (v "0.3.4") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "05g8k3ngclf4k04mb2mpqb2jj03yznal3f8rxshm47sqzjxx9630") (f (quote (("std") ("serde" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context"))))))
+
+(define-public crate-dur-0.4.0 (c (n "dur") (v "0.4.0") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "1pbgkvb00606ck0w13x1m2v99m1vfb9myk2ik28nv9nrcbp5h6jm") (f (quote (("std" "alloc") ("serde" "alloc" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context") ("alloc"))))))
+
+(define-public crate-dur-0.4.1 (c (n "dur") (v "0.4.1") (d (list (d (n "clap") (r "^4.4.6") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.189") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)))) (h "1pv3hghwhljcrdrz4jwvg86m21zf4gf50z2wj8k55v3cs0b6gl32") (f (quote (("std" "alloc") ("serde" "alloc" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context") ("alloc"))))))
+
+(define-public crate-dur-0.5.0 (c (n "dur") (v "0.5.0") (d (list (d (n "clap") (r "^4.4.14") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (k 0)) (d (n "rust_decimal") (r "^1.33.1") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.195") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 2)))) (h "1f8zqw3knbf5ai0n6ppj8kizki6r56zbcsj6ws080drp2ih3kn2v") (f (quote (("std" "alloc") ("serde" "alloc" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context") ("alloc"))))))
+
+(define-public crate-dur-0.5.1 (c (n "dur") (v "0.5.1") (d (list (d (n "clap") (r "^4.5.4") (o #t) (k 0)) (d (n "nom") (r "^7.1.3") (k 0)) (d (n "rust_decimal") (r "^1.35.0") (f (quote ("std"))) (k 0)) (d (n "serde") (r "^1.0.197") (o #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 2)))) (h "1fn3c6j6wkckgasqr64gmax63pwfs9l6gr066h1q1n5im8c6xi1b") (f (quote (("std" "alloc") ("serde" "alloc" "serde/alloc") ("default") ("clap" "std" "clap/std" "clap/error-context") ("alloc"))))))
+

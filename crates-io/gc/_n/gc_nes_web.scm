@@ -1,0 +1,12 @@
+(define-module (crates-io gc _n gc_nes_web) #:use-module (crates-io))
+
+(define-public crate-gc_nes_web-0.1.0 (c (n "gc_nes_web") (v "0.1.0") (d (list (d (n "console_error_panic_hook") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "gc_nes_core") (r "^0.1.0") (f (quote ("web-frame-format"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.2") (d #t) (k 2)) (d (n "wee_alloc") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "1c01psv145wrbjdgqgm38w09wibvd2d4z7a7zh6wr30bi05icgc3") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-gc_nes_web-0.1.1 (c (n "gc_nes_web") (v "0.1.1") (d (list (d (n "console_error_panic_hook") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "gc_nes_core") (r "^0.1.0") (f (quote ("web-frame-format"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.2") (d #t) (k 2)) (d (n "wee_alloc") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "1hkga6maivpy3y8x37qrs8g48iylhff2rfpyc21g5cd3ccs8p5yk") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-gc_nes_web-0.1.2 (c (n "gc_nes_web") (v "0.1.2") (d (list (d (n "console_error_panic_hook") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "gc_nes_core") (r "^0.1.0") (f (quote ("web-frame-format"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.2") (d #t) (k 2)) (d (n "wee_alloc") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "0d6pw8pqw1n42cpmicrfbp73zndfsza1m7lml79nvgvms2xml1j6") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-gc_nes_web-0.1.4 (c (n "gc_nes_web") (v "0.1.4") (d (list (d (n "console_error_panic_hook") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "gc_nes_core") (r "^0.1.0") (f (quote ("web-frame-format"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.2") (d #t) (k 2)) (d (n "wee_alloc") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "1vf75mysamjdrdb4kymn94saxfvw3axby5xnyljkfj0sj3wwyi9q") (f (quote (("default" "console_error_panic_hook"))))))
+
+(define-public crate-gc_nes_web-0.1.5 (c (n "gc_nes_web") (v "0.1.5") (d (list (d (n "console_error_panic_hook") (r "^0.1.1") (o #t) (d #t) (k 0)) (d (n "gc_nes_core") (r "^0.1.0") (f (quote ("web-frame-format"))) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "wasm-bindgen-test") (r "^0.2") (d #t) (k 2)) (d (n "wee_alloc") (r "^0.4.2") (o #t) (d #t) (k 0)))) (h "0hgph80jg5pk3zxz2hxrcn32w3zskp8bg9fc5dg9kbq8p023ay8b") (f (quote (("default" "console_error_panic_hook"))))))
+

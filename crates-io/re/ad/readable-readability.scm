@@ -1,0 +1,8 @@
+(define-module (crates-io re ad readable-readability) #:use-module (crates-io))
+
+(define-public crate-readable-readability-0.2.0 (c (n "readable-readability") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.9.3") (d #t) (k 2)) (d (n "html5ever") (r "^0.25.2") (d #t) (k 0)) (d (n "kuchiki") (r "^0.8.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0ybm8n4c24p6a0kccmdb472qp9hz4wvxsm7wmfyf3dcqp0dx8fjv")))
+
+(define-public crate-readable-readability-0.3.0 (c (n "readable-readability") (v "0.3.0") (d (list (d (n "env_logger") (r "^0.9.3") (d #t) (k 2)) (d (n "html5ever") (r "^0.25.2") (d #t) (k 0)) (d (n "kuchiki") (r "^0.8.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (f (quote ("std"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "00qmdikjcckns9ni6340vl7s7fl7axrk4jg0kjf02qc4rw23cjz6")))
+
+(define-public crate-readable-readability-0.4.0 (c (n "readable-readability") (v "0.4.0") (d (list (d (n "env_logger") (r "^0.9.3") (d #t) (k 2)) (d (n "html5ever") (r "^0.25.2") (d #t) (k 0)) (d (n "kuchiki") (r "^0.8.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "regex") (r "^1.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (f (quote ("std"))) (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "13caf0c5p23fnqfpi4fhw5j6ch2fg1xgl7a7n2bg5gr5ia91aw61")))
+

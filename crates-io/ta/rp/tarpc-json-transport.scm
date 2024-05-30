@@ -1,0 +1,4 @@
+(define-module (crates-io ta rp tarpc-json-transport) #:use-module (crates-io))
+
+(define-public crate-tarpc-json-transport-0.1.0 (c (n "tarpc-json-transport") (v "0.1.0") (d (list (d (n "assert_matches") (r "^1.0") (d #t) (k 2)) (d (n "futures-preview") (r "^0.3.0-alpha.18") (f (quote ("compat"))) (d #t) (k 0)) (d (n "futures-test-preview") (r "^0.3.0-alpha.18") (d #t) (k 2)) (d (n "futures_legacy") (r "^0.1") (d #t) (k 0) (p "futures")) (d (n "pin-utils") (r "^0.1.0-alpha.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (f (quote ("codec"))) (k 0)) (d (n "tokio-io") (r "^0.1") (d #t) (k 0)) (d (n "tokio-serde-json") (r "^0.2") (d #t) (k 0)) (d (n "tokio-tcp") (r "^0.1") (d #t) (k 0)))) (h "14f2p54k9w8is0g4f3swdsgd3pa2swdqwwb08f47smn1v90wf1xy")))
+

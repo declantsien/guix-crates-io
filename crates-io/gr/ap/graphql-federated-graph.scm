@@ -1,0 +1,8 @@
+(define-module (crates-io gr ap graphql-federated-graph) #:use-module (crates-io))
+
+(define-public crate-graphql-federated-graph-0.1.0 (c (n "graphql-federated-graph") (v "0.1.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "16h3s333fpyxk7wczzjwyiacmjz8iqyc6jc67xvgslbvq5jjkpdi") (f (quote (("render_sdl") ("default" "render_sdl"))))))
+
+(define-public crate-graphql-federated-graph-0.2.0 (c (n "graphql-federated-graph") (v "0.2.0") (d (list (d (n "async-graphql-parser") (r "^6") (o #t) (d #t) (k 0)) (d (n "async-graphql-value") (r "^6") (o #t) (d #t) (k 0)) (d (n "expect-test") (r "^1.4") (d #t) (k 2)) (d (n "indexmap") (r "^2") (o #t) (d #t) (k 0)) (d (n "indoc") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0wwi5cadfwvldipircgiflmppxl19jiqna3dqyxafp0w26532vm3") (f (quote (("render_sdl") ("from_sdl" "async-graphql-parser" "async-graphql-value" "indexmap") ("default" "render_sdl" "from_sdl"))))))
+
+(define-public crate-graphql-federated-graph-0.3.0 (c (n "graphql-federated-graph") (v "0.3.0") (d (list (d (n "async-graphql-parser") (r "^7") (o #t) (d #t) (k 0)) (d (n "async-graphql-value") (r "^7") (o #t) (d #t) (k 0)) (d (n "expect-test") (r "^1.4") (d #t) (k 2)) (d (n "indexmap") (r "^2") (o #t) (d #t) (k 0)) (d (n "indoc") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("preserve_order"))) (d #t) (k 2)))) (h "1q8g4m9h1mgg44145n86gk4rnr1fxilx97vvqcb4ay41z3mcyra8") (f (quote (("render_sdl") ("from_sdl" "async-graphql-parser" "async-graphql-value" "indexmap") ("default" "render_sdl" "from_sdl"))))))
+

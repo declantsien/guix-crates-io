@@ -1,0 +1,8 @@
+(define-module (crates-io au th auth0-management) #:use-module (crates-io))
+
+(define-public crate-auth0-management-0.0.1 (c (n "auth0-management") (v "0.0.1") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("macros"))) (d #t) (k 2)))) (h "0ldfszcc4aq47n1ir5p238qh8lnn9w59zvqjshmsp2ymc4b1jq7y")))
+
+(define-public crate-auth0-management-0.0.3 (c (n "auth0-management") (v "0.0.3") (d (list (d (n "async-trait") (r "^0.1.41") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("macros"))) (d #t) (k 2)))) (h "16i1ff11mpna2jrni6ywx16ps0kl3wk5pq0wf59j4xb5f0f64w0r")))
+
+(define-public crate-auth0-management-0.0.4 (c (n "auth0-management") (v "0.0.4") (d (list (d (n "async-mutex") (r "^1.4") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("macros"))) (d #t) (k 2)))) (h "1s5a5cjfrzmyhppl1hjhgw5aydm23x2sd2fprb9xv6ip0jgcxp30")))
+

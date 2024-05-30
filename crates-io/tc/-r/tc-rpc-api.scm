@@ -1,0 +1,6 @@
+(define-module (crates-io tc -r tc-rpc-api) #:use-module (crates-io))
+
+(define-public crate-tc-rpc-api-0.0.0 (c (n "tc-rpc-api") (v "0.0.0") (h "1iaz3rhnfmxk8qia0cqlv3x8r69v4bs9yz00w1jlhgp9gsgn21qa") (y #t)))
+
+(define-public crate-tc-rpc-api-0.8.0 (c (n "tc-rpc-api") (v "0.8.0") (d (list (d (n "codec") (r "^2.0.1") (d #t) (k 0) (p "tetsy-scale-codec")) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "futures") (r "^0.3.1") (f (quote ("compat"))) (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "tet-core") (r "^2.0.2") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-core-client") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-derive") (r "^15.1.0") (d #t) (k 0)) (d (n "tetsy-jsonrpc-pubsub") (r "^15.1.0") (d #t) (k 0)) (d (n "tp-chain-spec") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-rpc") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-runtime") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-transaction-pool") (r "^2.0.2") (d #t) (k 0)) (d (n "tp-version") (r "^2.0.2") (d #t) (k 0)))) (h "16qpkgmzqrrgrjhhzdvjgi697lnik9wv2shzqbk96kyhakn42pxb")))
+

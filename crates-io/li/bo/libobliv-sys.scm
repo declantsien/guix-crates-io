@@ -1,0 +1,16 @@
+(define-module (crates-io li bo libobliv-sys) #:use-module (crates-io))
+
+(define-public crate-libobliv-sys-0.1.0 (c (n "libobliv-sys") (v "0.1.0") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (d #t) (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (d #t) (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (d #t) (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (d #t) (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "0h459kgz50p91z5ck9kh106hins0ah8v9xywcy6fp0kax5kbngcl") (y #t)))
+
+(define-public crate-libobliv-sys-0.1.1 (c (n "libobliv-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (d #t) (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (d #t) (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (d #t) (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (d #t) (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "1lx8ykqmlxg49kqm20498fgdvab69ja227sf8r3rhaq4k74j3mmc") (y #t)))
+
+(define-public crate-libobliv-sys-0.1.2 (c (n "libobliv-sys") (v "0.1.2") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (d #t) (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (d #t) (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (d #t) (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (d #t) (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "1bbfjwg6s8vqg4vmm624cq7da9m7aiasdqgn99n8r227pcy6bfjz")))
+
+(define-public crate-libobliv-sys-0.1.3 (c (n "libobliv-sys") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "0sj3yxf7c4v0yp5p6qd7n3cgsgamwd9f43dyd23f59rskql5zwww")))
+
+(define-public crate-libobliv-sys-0.1.4 (c (n "libobliv-sys") (v "0.1.4") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "1ra0f40vnb98ygvqb6zqyijgh1g3fi082fw50gn472cfhd2172c4")))
+
+(define-public crate-libobliv-sys-0.1.5 (c (n "libobliv-sys") (v "0.1.5") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "0492b4xpain9nrz1nhja6laqy5cgk314a3pry3w8qfgbl1dlk21p")))
+
+(define-public crate-libobliv-sys-0.1.6 (c (n "libobliv-sys") (v "0.1.6") (d (list (d (n "bindgen") (r "^0.31.3") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 0)) (d (n "libgcrypt-sys") (r "^0.5.4") (k 1)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 0)) (d (n "libgpg-error-sys") (r "^0.2.3") (k 1)) (d (n "walkdir") (r "^2") (d #t) (k 1)))) (h "1iq3vnfxil0v5qg02jpp1qj4d1k56879wz3g1mn5cnbizvg7p341")))
+

@@ -1,0 +1,14 @@
+(define-module (crates-io ke st kestrel-cli) #:use-module (crates-io))
+
+(define-public crate-kestrel-cli-0.1.0 (c (n "kestrel-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.47") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "kestrel-crypto") (r "^0.1.0") (d #t) (k 0)) (d (n "rpassword") (r "^5.0.1") (d #t) (k 0)))) (h "119l5pz03m7ykyri9x71mzsy5dgjfkqmbl2blifhi3kcdm2h5ylf")))
+
+(define-public crate-kestrel-cli-0.9.0 (c (n "kestrel-cli") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "kestrel-crypto") (r "^0.9.0") (d #t) (k 0)) (d (n "passterm") (r "^1.1.0") (d #t) (k 0)) (d (n "zeroize") (r "^1.4.3") (d #t) (k 0)))) (h "1sk3hgk3rd8ajdjh72mnpg4wkbq5vsirlrjqy9pirgyqmdib67yk") (r "1.56")))
+
+(define-public crate-kestrel-cli-0.10.0 (c (n "kestrel-cli") (v "0.10.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "kestrel-crypto") (r "^0.10.0") (d #t) (k 0)) (d (n "passterm") (r "^1.1.6") (d #t) (k 0)) (d (n "zeroize") (r "^1") (d #t) (k 0)))) (h "1zccr61kiinrkczpmakyifrhr4jn3pfxji4v2qsca5s706xlsvsq") (r "1.59")))
+
+(define-public crate-kestrel-cli-0.10.1 (c (n "kestrel-cli") (v "0.10.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "kestrel-crypto") (r "^0.10.1") (d #t) (k 0)) (d (n "passterm") (r "^1.1.7") (d #t) (k 0)) (d (n "zeroize") (r "^1") (d #t) (k 0)))) (h "0663zc2iwsd6yr2rld21wn24a4vf5fjpbnpb2pmilhxhj7xv94g7") (r "1.59")))
+
+(define-public crate-kestrel-cli-0.11.0 (c (n "kestrel-cli") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64ct") (r "^1.6.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "kestrel-crypto") (r "^0.11.0") (d #t) (k 0)) (d (n "passterm") (r "^2.0.1") (f (quote ("secure_zero"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.6") (d #t) (k 0)))) (h "0px2nh35b95k54d6yv4d9ykgrw2pp2zb6zvy6x61rd3m2dpk3mvx")))
+
+(define-public crate-kestrel-cli-1.0.0 (c (n "kestrel-cli") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "base64ct") (r "^1.6.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "kestrel-crypto") (r "^1.0.0") (d #t) (k 0)) (d (n "passterm") (r "^2.0.3") (f (quote ("secure_zero"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.7") (d #t) (k 0)))) (h "095xxnkp1w8qhpgfxs5qjp76694fxvma7svkwrmxyvimrw0snw9n")))
+

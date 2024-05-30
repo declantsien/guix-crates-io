@@ -1,0 +1,14 @@
+(define-module (crates-io as yn async-i3ipc) #:use-module (crates-io))
+
+(define-public crate-async-i3ipc-0.1.0 (c (n "async-i3ipc") (v "0.1.0") (d (list (d (n "async-std") (r "^1.6.2") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "i3ipc-types") (r "^0.10") (f (quote ("async-std-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "09nc4gw8h6rhlqc0lizadp2rqb4b1sh8q72hk80mdc4xr00b44zm")))
+
+(define-public crate-async-i3ipc-0.2.0 (c (n "async-i3ipc") (v "0.2.0") (d (list (d (n "async-std") (r "^1.6") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "i3ipc-types") (r "^0.11") (f (quote ("async-std-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "0idhky7yq1gangsr211z6hwxlsckawjh0wjq3zfssa4zk5kilm0r") (f (quote (("sway" "i3ipc-types/sway") ("default"))))))
+
+(define-public crate-async-i3ipc-0.3.0 (c (n "async-i3ipc") (v "0.3.0") (d (list (d (n "async-std") (r "^1.8") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "i3ipc-types") (r "^0.12") (f (quote ("async-std-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "0l2f9jqicnkcb1qzv24lkzxqjcaz7n5qs0d4pik728jr5dy0cdl5") (f (quote (("sway" "i3ipc-types/sway") ("default"))))))
+
+(define-public crate-async-i3ipc-0.4.0 (c (n "async-i3ipc") (v "0.4.0") (d (list (d (n "async-std") (r "^1.8") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "i3ipc-types") (r "^0.13") (f (quote ("async-std-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "1kphfhwdjk8v32vf6vdqpw5z4qm8z0jmhq8sq0xz2j328h471jgi") (f (quote (("sway" "i3ipc-types/sway") ("default")))) (y #t)))
+
+(define-public crate-async-i3ipc-0.5.0 (c (n "async-i3ipc") (v "0.5.0") (d (list (d (n "async-std") (r "^1.8") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "i3ipc-types") (r "^0.14.0") (f (quote ("async-std-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "11969dfd3s41qzkd6s89kn2bbkgmlq54c3nx5f03kxjha8yb2yp6") (f (quote (("sway" "i3ipc-types/sway") ("default"))))))
+
+(define-public crate-async-i3ipc-0.7.0 (c (n "async-i3ipc") (v "0.7.0") (d (list (d (n "async-std") (r "^1.8") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "i3ipc-types") (r "^0.16.0") (f (quote ("async-std-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "version-sync") (r "^0.9") (d #t) (k 2)))) (h "1k6z4a1zrzkhks6j38z4mnlfimwr2408v76y8ivla8smczvhsjig") (f (quote (("sway" "i3ipc-types/sway") ("default"))))))
+

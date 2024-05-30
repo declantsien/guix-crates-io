@@ -1,0 +1,4 @@
+(define-module (crates-io fl at flatbox_assets) #:use-module (crates-io))
+
+(define-public crate-flatbox_assets-0.1.0 (c (n "flatbox_assets") (v "0.1.0") (d (list (d (n "as-any") (r "^0.3.1") (d #t) (k 0)) (d (n "flatbox_core") (r "^0.1.0") (d #t) (k 0)) (d (n "flatbox_ecs") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "lz4") (r "^1.24.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pretty-type-name") (r "^1.0.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "slotmap") (r "^1.0.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "typetag") (r "^0.2.13") (d #t) (k 0)))) (h "1sgb50ngfv72mr51w1rh0vl368g2wnfldfb2pab78rvddbiwvvla") (f (quote (("default" "ecs")))) (s 2) (e (quote (("ecs" "dep:flatbox_ecs"))))))
+

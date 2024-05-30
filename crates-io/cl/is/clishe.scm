@@ -1,0 +1,22 @@
+(define-module (crates-io cl is clishe) #:use-module (crates-io))
+
+(define-public crate-clishe-0.2.0 (c (n "clishe") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "0wkdfp2cbp7s75xmbld7akqsbvhnwhxpd1d9db651n56mpcs79rp") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.1 (c (n "clishe") (v "0.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "0q9l82983fj0gm2czm9d1hbw4yxlgnggm3m9gznc8ga8fg722hn7") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.2 (c (n "clishe") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "1vx3kfz7lmbjcg7z2nmg4s2yqdvdg0gl18f3bmdjjn96j8rp8iia") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.3 (c (n "clishe") (v "0.2.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "1hlyp0sxcxzh2s98zh5bns5ccjg3bj7vlx5ahh5g2j9vgh37bjmg") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.4 (c (n "clishe") (v "0.2.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "02yjziggnyvvjw0sb04nfblszr89pd8r9lqmx6w4cr0wz9hxxln8") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.5 (c (n "clishe") (v "0.2.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "14ii2l6ycj788lg4nbhh4hvhi0n207r4hwpbdyrmxsg4j5k895sf") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.6 (c (n "clishe") (v "0.2.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^0") (d #t) (k 0)) (d (n "rustyline") (r "^5") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "1l28i657c13q3pp3ibij49h8zmqijbh89zm8a6i712qdn5zkc00x") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.7 (c (n "clishe") (v "0.2.7") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rustyline") (r "^10") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "0x8233cd88gc6cbi5dd200p5rn0hzsfq7cq2l71lm39455as7l67") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.2.8 (c (n "clishe") (v "0.2.8") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rustyline") (r "^10") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)))) (h "063q93mzhyhh39zhsrfvy50qvmf7z9488ln0jgdxvahiqxnzgqgw") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell"))))))
+
+(define-public crate-clishe-0.3.0 (c (n "clishe") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rustyline") (r "^10") (o #t) (d #t) (k 0)) (d (n "shellwords") (r "^1") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "07w8zqqq0v1a85hmiyn40fy9mdhfz8vc2farv844nl8hcli709c1") (f (quote (("shell" "rustyline" "shellwords") ("default" "shell" "async") ("async" "async-trait"))))))
+

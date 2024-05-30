@@ -1,0 +1,4 @@
+(define-module (crates-io go og google-youtubeanalytics2-cli) #:use-module (crates-io))
+
+(define-public crate-google-youtubeanalytics2-cli-1.0.8+20181010 (c (n "google-youtubeanalytics2-cli") (v "1.0.8+20181010") (d (list (d (n "clap") (r "^2.0") (d #t) (k 0)) (d (n "google-youtubeanalytics2") (r "^1.0.8") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (d #t) (k 2)) (d (n "mime") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strsim") (r "^0.5") (d #t) (k 0)) (d (n "yup-hyper-mock") (r "^2.0") (d #t) (k 0)) (d (n "yup-oauth2") (r "^1.0") (d #t) (k 0)))) (h "154q173yfwzv5y5hfpkgnnfqnzi0dg0r93qhwip70lfzcpq65c28")))
+

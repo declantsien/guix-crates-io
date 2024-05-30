@@ -1,0 +1,16 @@
+(define-module (crates-io te ct tectonic_pdf_io) #:use-module (crates-io))
+
+(define-public crate-tectonic_pdf_io-0.1.0 (c (n "tectonic_pdf_io") (v "0.1.0") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "0ry5g6vh54i8ih8rjlz3ci7b8gi4irsllg34pv57mcwrhwcikg6x") (l "tectonic_pdf_io")))
+
+(define-public crate-tectonic_pdf_io-0.1.1 (c (n "tectonic_pdf_io") (v "0.1.1") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "19q6sls975rgfm8z6nh7jvv3zw72cy7qslppyavx1qiv3am85n6s") (l "tectonic_pdf_io")))
+
+(define-public crate-tectonic_pdf_io-0.1.2 (c (n "tectonic_pdf_io") (v "0.1.2") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "1y6lim4fmzxvq01nicd5s76fa099bbz33jfkwxcgf1zg837wyksp") (l "tectonic_pdf_io")))
+
+(define-public crate-tectonic_pdf_io-0.2.0 (c (n "tectonic_pdf_io") (v "0.2.0") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "1kgxf404i5sfkw690pjm26i5cbrsya27v53jaz3n9mn45n94abql") (l "tectonic_pdf_io")))
+
+(define-public crate-tectonic_pdf_io-0.3.0 (c (n "tectonic_pdf_io") (v "0.3.0") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "0wcxa9nzrq7cxgcic0d4ml4zbmjpr9ssyv6085sfn1w70mnd7gsm") (l "tectonic_pdf_io")))
+
+(define-public crate-tectonic_pdf_io-0.4.0 (c (n "tectonic_pdf_io") (v "0.4.0") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "0rmk31n96r299k5j2ydyqryzywn2dbfbnl1rwh0lx86zaqac9qcn") (l "tectonic_pdf_io")))
+
+(define-public crate-tectonic_pdf_io-0.4.1 (c (n "tectonic_pdf_io") (v "0.4.1") (d (list (d (n "cc") (r "^1.0.66") (d #t) (k 1)) (d (n "tectonic_bridge_core") (r ">=0.1.0, <1") (d #t) (k 0)) (d (n "tectonic_bridge_flate") (r ">=0.1.1, <1") (d #t) (k 0)) (d (n "tectonic_cfg_support") (r ">=0.1.2, <1") (d #t) (k 1)) (d (n "tectonic_dep_support") (r ">=0.1.0, <1") (d #t) (k 1)))) (h "0d3pj1q1hyn0kkh6fyw9b2z5ppwz6bck4s5236wx3a1kpp1k5irr") (l "tectonic_pdf_io")))
+

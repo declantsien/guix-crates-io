@@ -1,0 +1,4 @@
+(define-module (crates-io ca rg cargo-stylus-replay) #:use-module (crates-io))
+
+(define-public crate-cargo-stylus-replay-0.3.0 (c (n "cargo-stylus-replay") (v "0.3.0") (d (list (d (n "alloy-primitives") (r "^0.7.2") (d #t) (k 0)) (d (n "cargo-stylus-util") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "color"))) (d #t) (k 0)) (d (n "ethers") (r "^2.0.10") (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)) (d (n "function_name") (r "^0.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.148") (d #t) (k 0)) (d (n "libloading") (r "^0.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "rustc-host") (r "^0.1.7") (d #t) (k 0)) (d (n "sneks") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0qyvf9rl51vk6ksfkbz9bmzylhyjrzpmac1m813vh062nb3ab1mx")))
+

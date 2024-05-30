@@ -1,0 +1,4 @@
+(define-module (crates-io wh at what-the-struct) #:use-module (crates-io))
+
+(define-public crate-what-the-struct-0.1.0 (c (n "what-the-struct") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "async-recursion") (r "^1.0.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.53") (d #t) (k 0)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (d #t) (k 0)) (d (n "soup") (r "^0.5.1") (d #t) (k 0)) (d (n "sprawl") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.11") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1pwk7myz6ii5qr96gjn97cjd2n20vxzccrz71ymsg07jrnm508fi")))
+

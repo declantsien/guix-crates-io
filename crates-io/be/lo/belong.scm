@@ -1,0 +1,4 @@
+(define-module (crates-io be lo belong) #:use-module (crates-io))
+
+(define-public crate-belong-0.1.0 (c (n "belong") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 0)) (d (n "casual") (r "^0.1.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (f (quote ("serde"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "open") (r "^1.4.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.7.0") (d #t) (k 0)) (d (n "regex") (r "^1.3.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.51") (d #t) (k 0)) (d (n "structopt") (r "^0.3.12") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "tera") (r "^1.2.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 0)))) (h "0k405yv11sz6jz95qgdfng60wnqbb5vjmfllymd0an2mdkwmb4m2")))
+

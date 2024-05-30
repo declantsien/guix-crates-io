@@ -1,0 +1,8 @@
+(define-module (crates-io lo g- log-source) #:use-module (crates-io))
+
+(define-public crate-log-source-0.1.0 (c (n "log-source") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "async-std") (r "^1.10.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.135") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.78") (d #t) (k 0)) (d (n "tokio") (r "^1.18.2") (f (quote ("sync"))) (d #t) (k 0)))) (h "0w50vz3hszvlzrv8sq6pjcmdn0fzazxdffpr5lgqj8wzz6p1xyy0")))
+
+(define-public crate-log-source-0.1.1 (c (n "log-source") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "async-std") (r "^1.10.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)))) (h "12xcdrgj8jjxxx3ibh94bpjiwvcndlp0wnyqlk7nm5v69wlsf9jk")))
+
+(define-public crate-log-source-0.1.3 (c (n "log-source") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.53") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "async-std") (r "^1.10.0") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "flume") (r "^0.10.12") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)))) (h "1pkxm5cifwjb6fk7zk56dr2w80xd53m0kj8k9waayyhfa4a74kay")))
+

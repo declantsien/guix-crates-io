@@ -1,0 +1,4 @@
+(define-module (crates-io ka ma kamazik) #:use-module (crates-io))
+
+(define-public crate-kamazik-0.1.0 (c (n "kamazik") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "eframe") (r "^0.26.0") (f (quote ("default"))) (d #t) (k 0)) (d (n "egui_extras") (r "^0.26.0") (f (quote ("default" "image"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.1") (f (quote ("auto-color" "humantime"))) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "ruma") (r "^0.9.4") (f (quote ("client-api-c" "client-ext-client-api" "client-reqwest-rustls-native-roots"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.10") (d #t) (k 0)) (d (n "toml_edit") (r "^0.22.4") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1yygf5pim2cwvdzb482x8chszn0hxgqwk2v2j0bpina4kjffqcqr")))
+

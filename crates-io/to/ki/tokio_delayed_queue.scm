@@ -1,0 +1,8 @@
+(define-module (crates-io to ki tokio_delayed_queue) #:use-module (crates-io))
+
+(define-public crate-tokio_delayed_queue-0.1.0 (c (n "tokio_delayed_queue") (v "0.1.0") (d (list (d (n "async-condvar-fair") (r "^1.0.1") (f (quote ("parking_lot_0_12"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.2") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "test-util"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.4") (d #t) (k 2)))) (h "1mlqr00ayzwl7f9m7s2j31mlykr4apzs4c6pk06h19wzzdfr7l7q")))
+
+(define-public crate-tokio_delayed_queue-0.1.1 (c (n "tokio_delayed_queue") (v "0.1.1") (d (list (d (n "async-condvar-fair") (r "^1.0.1") (f (quote ("parking_lot_0_12"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.2") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "test-util"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.4") (d #t) (k 2)))) (h "1zrkmp90vfj447gfs3b0im8fjkxr940n2sg5f02vvp6gf756rjw2")))
+
+(define-public crate-tokio_delayed_queue-0.1.2 (c (n "tokio_delayed_queue") (v "0.1.2") (d (list (d (n "async-condvar-fair") (r "^1.0.1") (f (quote ("parking_lot_0_12"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.2") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("time"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "rt-multi-thread" "test-util"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.4") (d #t) (k 2)))) (h "0v4plmjim4b1gpr2i9l9lr51fxa8chk3w9vd5h88jgagn7rfh6jy")))
+

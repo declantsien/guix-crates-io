@@ -1,0 +1,8 @@
+(define-module (crates-io sq li sqlite-assert) #:use-module (crates-io))
+
+(define-public crate-sqlite-assert-0.0.1-alpha.1 (c (n "sqlite-assert") (v "0.0.1-alpha.1") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "flate2") (r "^1.0.26") (o #t) (d #t) (k 1)) (d (n "rusqlite") (r "^0.29.0") (d #t) (k 2)) (d (n "tar") (r "^0.4.38") (o #t) (d #t) (k 1)) (d (n "ureq") (r "^2.6.2") (o #t) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (o #t) (d #t) (k 1)))) (h "05420dfaygmfa28d1g05ydw851qazjjgmzrshbhfcla45j72040c") (f (quote (("hola") ("download-libs" "ureq" "flate2" "tar" "zip") ("default" "assert") ("assert"))))))
+
+(define-public crate-sqlite-assert-0.0.1-alpha.2 (c (n "sqlite-assert") (v "0.0.1-alpha.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "flate2") (r "^1.0.26") (o #t) (d #t) (k 1)) (d (n "rusqlite") (r "^0.29.0") (d #t) (k 2)) (d (n "tar") (r "^0.4.38") (o #t) (d #t) (k 1)) (d (n "ureq") (r "^2.6.2") (o #t) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (o #t) (d #t) (k 1)))) (h "14lpdhfy6mvkj08gdj3myjis98iv6gma6qa8hsb0a7505kv2g5pi") (f (quote (("download-libs" "ureq" "flate2" "tar" "zip") ("default" "assert") ("assert"))))))
+
+(define-public crate-sqlite-assert-0.0.1-alpha.3 (c (n "sqlite-assert") (v "0.0.1-alpha.3") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 1)) (d (n "flate2") (r "^1.0.26") (o #t) (d #t) (k 1)) (d (n "rusqlite") (r "^0.29.0") (d #t) (k 2)) (d (n "tar") (r "^0.4.38") (o #t) (d #t) (k 1)) (d (n "ureq") (r "^2.6.2") (o #t) (d #t) (k 1)) (d (n "zip") (r "^0.6.6") (o #t) (d #t) (k 1)))) (h "0h3n7avpkayi5q2ini2gxxrd9jciq9s2hchmqm1axhjsbhbjn9y4") (f (quote (("download-libs" "ureq" "flate2" "tar" "zip") ("default" "assert") ("assert"))))))
+

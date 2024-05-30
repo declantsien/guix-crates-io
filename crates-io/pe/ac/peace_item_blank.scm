@@ -1,0 +1,10 @@
+(define-module (crates-io pe ac peace_item_blank) #:use-module (crates-io))
+
+(define-public crate-peace_item_blank-0.0.10 (c (n "peace_item_blank") (v "0.0.10") (d (list (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "miette") (r "^5.7.0") (o #t) (d #t) (k 0)) (d (n "peace") (r "^0.0.10") (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0zrballhlhzb0rd5j3wbfq4s8p5q9m1dkncmpj6bwm480m85n5h0") (f (quote (("output_progress" "peace/output_progress") ("error_reporting" "peace/error_reporting") ("default"))))))
+
+(define-public crate-peace_item_blank-0.0.11 (c (n "peace_item_blank") (v "0.0.11") (d (list (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "miette") (r "^5.9.0") (o #t) (d #t) (k 0)) (d (n "peace") (r "^0.0.11") (k 0)) (d (n "serde") (r "^1.0.164") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "09s6x3dvzm5zp8g9gqzl5wzisg92ac68vmzabq44a31wiwbjdnbw") (f (quote (("output_progress" "peace/output_progress") ("error_reporting" "peace/error_reporting") ("default"))))))
+
+(define-public crate-peace_item_blank-0.0.12 (c (n "peace_item_blank") (v "0.0.12") (d (list (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (o #t) (d #t) (k 0)) (d (n "peace") (r "^0.0.12") (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.52") (d #t) (k 0)))) (h "06skk634ikfnpfm433af8k21g88zy8c6m3j149ahf4zqxi5cr3zx") (f (quote (("output_progress" "peace/output_progress") ("error_reporting" "peace/error_reporting") ("default"))))))
+
+(define-public crate-peace_item_blank-0.0.13 (c (n "peace_item_blank") (v "0.0.13") (d (list (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (o #t) (d #t) (k 0)) (d (n "peace") (r "^0.0.13") (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "07lkaxkxg4ibv4mxp6bprqqa9linqfy2jhdvkfilglid6r1sshy5") (f (quote (("output_progress" "peace/output_progress") ("error_reporting" "peace/error_reporting") ("default"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io co ll collections-fromstr) #:use-module (crates-io))
+
+(define-public crate-collections-fromstr-0.1.0 (c (n "collections-fromstr") (v "0.1.0") (d (list (d (n "assert2") (r "^0.3.5") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.13") (d #t) (k 2)) (d (n "if_chain") (r "^1.0.1") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "parse-display") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.72") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.42") (d #t) (k 2)))) (h "0fd8wz13z7kpiv0hz7xgw05jky0s7s16a5gwnh8hd4ndpzcfj25p")))
+
+(define-public crate-collections-fromstr-0.1.1 (c (n "collections-fromstr") (v "0.1.1") (d (list (d (n "assert2") (r "^0.3.5") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.13") (d #t) (k 2)) (d (n "if_chain") (r "^1.0.1") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 2)) (d (n "parse-display") (r "^0.4.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "syn") (r "^1.0.72") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.42") (d #t) (k 2)))) (h "1qf7ba57q8wlpy1ng4iwmv9acgz3rp6zh2r7yb7b36azdw7p4ab3")))
+

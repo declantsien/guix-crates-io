@@ -1,0 +1,24 @@
+(define-module (crates-io lz _c lz_cov) #:use-module (crates-io))
+
+(define-public crate-lz_cov-0.1.0 (c (n "lz_cov") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "00mlmycxjfhnl0k4kcl94vqzf8s0lrxvv26rxhbwa45l4llmp1gx")))
+
+(define-public crate-lz_cov-0.1.1 (c (n "lz_cov") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "11kwswaac9d6zw5753rklzkl9q5n52dyvx87yj69b3pz3nz1x156")))
+
+(define-public crate-lz_cov-0.1.2 (c (n "lz_cov") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0y4zdljkp0bj1yh8r9j9hsp83hmrs7xlzkchpzdk0s9gikmr7vhf")))
+
+(define-public crate-lz_cov-0.1.3 (c (n "lz_cov") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1fi24hl0nsqbh6w31k5fjhvd30wnb6lbza5rjqnmmxynhprm5v7r")))
+
+(define-public crate-lz_cov-0.1.4 (c (n "lz_cov") (v "0.1.4") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0v79wkdc0a0040ja2b5b9425zpjflyama0f5lmg2mjx2rndyykkc")))
+
+(define-public crate-lz_cov-0.1.5 (c (n "lz_cov") (v "0.1.5") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "016x7rk3qxkg3mc7lhi29xp03ikq3c558fh8sjy1ihiq8dnpig13")))
+
+(define-public crate-lz_cov-0.1.6 (c (n "lz_cov") (v "0.1.6") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "multipart"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1l1ivaxgjgd4q1i42l6f03szqmzj67aphn140wwvrgmb68w3drx6")))
+
+(define-public crate-lz_cov-0.1.7 (c (n "lz_cov") (v "0.1.7") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "multipart" "stream" "json"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.9") (f (quote ("codec"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1g4ankirr7szx94hscpbw21r83rim0g3ggyddr6bzwnn6a3kf4cg")))
+
+(define-public crate-lz_cov-0.1.8 (c (n "lz_cov") (v "0.1.8") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "multipart" "stream" "json"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.9") (f (quote ("codec"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0afgn899p2fvjzf0b79x9ygdxk41x1pahh34l5z3j0sqb6qgrypn")))
+
+(define-public crate-lz_cov-0.1.9 (c (n "lz_cov") (v "0.1.9") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "multipart" "stream" "json"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.9") (f (quote ("codec"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0fify0j1cij1l36z0x1sj5r9bg1r7c32qn5n9ga8203i9ff270iv")))
+
+(define-public crate-lz_cov-0.1.10 (c (n "lz_cov") (v "0.1.10") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "minicov") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "multipart" "stream" "json"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.9") (f (quote ("codec"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1h5aqank0frb84v58813dgg3qaq36r6vrgcfbjli9yhkb6scppws")))
+

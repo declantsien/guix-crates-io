@@ -1,0 +1,18 @@
+(define-module (crates-io js on json_diff_ng) #:use-module (crates-io))
+
+(define-public crate-json_diff_ng-0.2.0 (c (n "json_diff_ng") (v "0.2.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "02slwxqk5qp7fhdz7wr21rzxcln77rl83xl0fk4wp9nr4ax7ayk8")))
+
+(define-public crate-json_diff_ng-0.3.0-rc1 (c (n "json_diff_ng") (v "0.3.0-rc1") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "0nynhwv1vwnnwh722pa9swwbhxgj9qz6m5ldszvk53l1ncdqh585")))
+
+(define-public crate-json_diff_ng-0.3.0 (c (n "json_diff_ng") (v "0.3.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "1mibfqbqra0flglx0kxz0702f6013c7nihk8sc3xcsls271mnxjk")))
+
+(define-public crate-json_diff_ng-0.3.1 (c (n "json_diff_ng") (v "0.3.1") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "0ijx4gi71bbfr4cjkvxkhwcfghqd9m0adfb6m9drdpr44a26ydr5")))
+
+(define-public crate-json_diff_ng-0.4.0 (c (n "json_diff_ng") (v "0.4.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "0cb2cin50if2wqb11v247n5js9nhs90mhdjbz7mcnx4sz8k3zgma")))
+
+(define-public crate-json_diff_ng-0.4.1 (c (n "json_diff_ng") (v "0.4.1") (d (list (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "063pjldjk8p79zddggpl7rq6s8jij6n6fn34scvzr7hg08j9nyrq")))
+
+(define-public crate-json_diff_ng-0.5.0 (c (n "json_diff_ng") (v "0.5.0") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "0735dh6bq9xm31srdmj5anb92fna0sn67vnfw7p63zxk0k93iv3v")))
+
+(define-public crate-json_diff_ng-0.6.0-RC1 (c (n "json_diff_ng") (v "0.6.0-RC1") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "03qmf86p8vlihcglhz5shasd930r9b5swp1i3f7bfk09ps3xbbql")))
+

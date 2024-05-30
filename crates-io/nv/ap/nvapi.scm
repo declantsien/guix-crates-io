@@ -1,0 +1,18 @@
+(define-module (crates-io nv ap nvapi) #:use-module (crates-io))
+
+(define-public crate-nvapi-0.0.1 (c (n "nvapi") (v "0.0.1") (d (list (d (n "nvapi-sys") (r "^0.0.1") (d #t) (k 0)))) (h "0k3bnflp77f6mm6dgp9287if7n4400sqcrr995q39hymw7021abf")))
+
+(define-public crate-nvapi-0.0.2 (c (n "nvapi") (v "0.0.2") (d (list (d (n "nvapi-sys") (r "^0.0.2") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "1j2qvbzz2phcmrq3ps42jd391hqw0p0d9zf70z4bczs1il79fr22") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-0.0.3 (c (n "nvapi") (v "0.0.3") (d (list (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "nvapi-sys") (r "^0.0.3") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "0469nd678b4qb3rcrrpvawyb1lc20lznw30bbhcn05ib5vphrjq1") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-0.1.0 (c (n "nvapi") (v "0.1.0") (d (list (d (n "i2c") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "nvapi-sys") (r "^0.1.0") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "1yqs88c4q9jwridq8fyz6wcaqaygpf8d1ak3rc20c4g87ai5jicg") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-0.1.1 (c (n "nvapi") (v "0.1.1") (d (list (d (n "i2c") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "nvapi-sys") (r "^0.1.1") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "1m5pxh961vak6lsf81fdx8brnicm6zq67c7n64khdk20mz0p1f6r") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-0.1.2 (c (n "nvapi") (v "0.1.2") (d (list (d (n "i2c") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "nvapi-sys") (r "^0.1.1") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "03q15ww4qmhllz2wcggrhny26l468iddwc95mkncmbcj0aiicivf") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-0.1.3 (c (n "nvapi") (v "0.1.3") (d (list (d (n "i2c") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "nvapi-sys") (r "^0.1.3") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "0g40ira6m7wa08hlplc1akmkv30ag4r0lwv827mdlawbnhy2bhq2") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+
+(define-public crate-nvapi-0.1.4 (c (n "nvapi") (v "0.1.4") (d (list (d (n "i2c") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.1") (d #t) (k 0)) (d (n "nvapi-sys") (r "^0.1.3") (k 0)) (d (n "serde") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (d #t) (k 0)))) (h "0n1ikdvwr38g1lc54anjv2l96qlfwrmfm3d4s4w2qbinv26dwqvw") (f (quote (("serde_types" "serde" "serde_derive" "nvapi-sys/serde_types") ("default" "serde_types"))))))
+

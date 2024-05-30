@@ -1,0 +1,6 @@
+(define-module (crates-io da tc datcord) #:use-module (crates-io))
+
+(define-public crate-datcord-0.1.0 (c (n "datcord") (v "0.1.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("json"))) (d #t) (k 0)) (d (n "rocket") (r "=0.5.0-rc.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.12") (d #t) (k 0)))) (h "1k7kiy67gi17rwr2dp4dl1b1c9q4a4lyb97p38cbq77kzf3w9pi2")))
+
+(define-public crate-datcord-0.1.1 (c (n "datcord") (v "0.1.1") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ed25519-dalek") (r "^1.0.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("json"))) (d #t) (k 0)) (d (n "rocket") (r "=0.5.0-rc.3") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.12") (d #t) (k 0)))) (h "0az7mp6kgybpdppdvlvqcs8fwwr3q8n4m7iimlkd6inf0l5z5095")))
+

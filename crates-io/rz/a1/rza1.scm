@@ -1,0 +1,8 @@
+(define-module (crates-io rz a1 rza1) #:use-module (crates-io))
+
+(define-public crate-rza1-0.1.0 (c (n "rza1") (v "0.1.0") (d (list (d (n "bare-metal") (r "^0.1.0") (d #t) (k 0)) (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "13nqz2mhkicb41r73z9jip8zffhaqbrrr3dzi2vhhb1c9cc47bwb") (f (quote (("wdt") ("vdc5") ("usb20") ("ssif") ("spibsc") ("spdif") ("sdg") ("scux") ("scim") ("scif") ("rtc") ("rspi") ("rscan") ("romdec") ("riic") ("pwm") ("pfv") ("ostm") ("mtu2") ("mmc") ("mlb") ("lvds") ("lin") ("l2c") ("jcu") ("irda") ("intc") ("inb") ("ieb") ("gpio") ("flctl") ("ether") ("dvdec") ("dmac") ("disc") ("cpg") ("ceu") ("bsc") ("adc"))))))
+
+(define-public crate-rza1-0.1.1 (c (n "rza1") (v "0.1.1") (d (list (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "0xyhfap0g21mg975mjjgsyqpp0x7i8qxrpqi8995b4i2a6wa0787") (f (quote (("wdt") ("vdc5") ("usb20") ("ssif") ("spibsc") ("spdif") ("sdg") ("scux") ("scim") ("scif") ("rtc") ("rspi") ("rscan") ("romdec") ("riic") ("pwm") ("pfv") ("ostm") ("mtu2") ("mmc") ("mlb") ("lvds") ("lin") ("l2c") ("jcu") ("irda") ("intc") ("inb") ("ieb") ("gpio") ("flctl") ("ether") ("dvdec") ("dmac") ("disc") ("cpg") ("ceu") ("bsc") ("adc"))))))
+
+(define-public crate-rza1-0.2.0 (c (n "rza1") (v "0.2.0") (d (list (d (n "vcell") (r "^0.1.0") (d #t) (k 0)))) (h "1h7bfxqia5qjmgkl5harwwn6ifsbh0xs6k39p95vl99m94g18jdk") (f (quote (("wdt") ("vdc5") ("usb20") ("ssif") ("spibsc") ("spdif") ("sdg") ("scux") ("scim") ("scif") ("rtc") ("rspi") ("rscan") ("romdec") ("riic") ("pwm") ("pfv") ("ostm") ("mtu2") ("mmc") ("mlb") ("lvds") ("lin") ("l2c") ("jcu") ("irda") ("intc") ("inb") ("ieb") ("gpio") ("flctl") ("ether") ("dvdec") ("dmac") ("disc") ("cpg") ("ceu") ("bsc") ("adc"))))))
+

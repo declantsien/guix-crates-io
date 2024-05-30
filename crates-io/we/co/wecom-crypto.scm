@@ -1,0 +1,22 @@
+(define-module (crates-io we co wecom-crypto) #:use-module (crates-io))
+
+(define-public crate-wecom-crypto-0.1.0 (c (n "wecom-crypto") (v "0.1.0") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "083z01hk2iy4nb82mn97d4a951wi11dnyjmfbqsh9sif0l90cg29")))
+
+(define-public crate-wecom-crypto-0.1.1 (c (n "wecom-crypto") (v "0.1.1") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "1knpa91y2xvn61333dk52ywmrjlbx3g3jwhalwrngdqwcscix7sy")))
+
+(define-public crate-wecom-crypto-0.1.2 (c (n "wecom-crypto") (v "0.1.2") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "1rgmfs4133sq91vk76apbvc5gd02ldmd75b4354xpbla8b9wl5sn")))
+
+(define-public crate-wecom-crypto-0.1.3 (c (n "wecom-crypto") (v "0.1.3") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "1dgrqcjc0fmhrq8km42sfs0adis720f8ag3zw6dbqi5x6c8sh375")))
+
+(define-public crate-wecom-crypto-0.1.4 (c (n "wecom-crypto") (v "0.1.4") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "104pbg3c08cbaiqjz4ywl3y6zshld5hyf78q2gxnzkmxl33kk8wb")))
+
+(define-public crate-wecom-crypto-0.1.5 (c (n "wecom-crypto") (v "0.1.5") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "0p6yf6h5ydah876h51p2xjbnmiwfx5fm0sjwf08wbhan05zf43bz")))
+
+(define-public crate-wecom-crypto-0.1.6 (c (n "wecom-crypto") (v "0.1.6") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "0di5ps0177smfvfw32q9brvdlmsdyy9lw6wx1yzikvz7lhkj54f9")))
+
+(define-public crate-wecom-crypto-0.1.7 (c (n "wecom-crypto") (v "0.1.7") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "0bv4xqjdr76sjjsg368jzkkjnwnc1dkyzrrickaiqh1gqnqjyhn0")))
+
+(define-public crate-wecom-crypto-0.1.8 (c (n "wecom-crypto") (v "0.1.8") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)))) (h "1s2wb2h69h5arfb1gmvq0lcscvhh5k7idkbg4s3fm9z1ag3f5ghv")))
+
+(define-public crate-wecom-crypto-0.1.9 (c (n "wecom-crypto") (v "0.1.9") (d (list (d (n "aes") (r "^0.8.3") (d #t) (k 0)) (d (n "base16ct") (r "^0.2.0") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0bvcg640yrk1jdlzc04jzbg1jn3q0z7ixc78xrxpjcy1407a4944")))
+

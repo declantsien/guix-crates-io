@@ -1,0 +1,4 @@
+(define-module (crates-io be vy bevy_wonnx) #:use-module (crates-io))
+
+(define-public crate-bevy_wonnx-0.1.0 (c (n "bevy_wonnx") (v "0.1.0") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_asset" "bevy_core_pipeline" "bevy_pbr" "bevy_render" "bevy_ui" "bevy_winit" "multi-threaded" "png" "tonemapping_luts"))) (k 0)) (d (n "bevy_args") (r "^1.3") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("sync"))) (d #t) (k 0)) (d (n "wonnx") (r "^0.5") (d #t) (k 0)))) (h "01yk3m0j2cc6p6fiz56x98qs9h5pc5abqqwvnjf0k0ipyhfkbaki") (f (quote (("squeezenet" "ndarray") ("default" "squeezenet"))))))
+

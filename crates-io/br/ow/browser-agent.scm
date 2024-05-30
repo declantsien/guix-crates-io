@@ -1,0 +1,4 @@
+(define-module (crates-io br ow browser-agent) #:use-module (crates-io))
+
+(define-public crate-browser-agent-0.1.0 (c (n "browser-agent") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "async-openai") (r "^0.10.0") (d #t) (k 0)) (d (n "chromiumoxide") (r "^0.5.0") (f (quote ("tokio-runtime" "_fetcher-native-tokio"))) (k 0)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "indoc") (r "^2.0.1") (d #t) (k 0)) (d (n "tokio") (r "^1.26.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1hgjp361hha92j1wgg10gsix8w60qgi60qk9lrvnqv3137d527kx")))
+

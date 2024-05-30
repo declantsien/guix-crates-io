@@ -1,0 +1,6 @@
+(define-module (crates-io fu ti futil) #:use-module (crates-io))
+
+(define-public crate-futil-0.1.1 (c (n "futil") (v "0.1.1") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "calyx") (r "^0.1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.129") (d #t) (k 0)) (d (n "vast") (r "^0.3.0") (d #t) (k 0)))) (h "1jkyavw2b50yg7dq2wjjsb3j51injwn5facghcxny00gpb4iij25") (y #t)))
+
+(define-public crate-futil-0.1.2 (c (n "futil") (v "0.1.2") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "calyx") (r "^0.1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "quick-xml") (r "^0.22.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.129") (d #t) (k 0)) (d (n "vast") (r "^0.3.0") (d #t) (k 0)))) (h "163d7naq3h19jrgkilc1lrzk7f7fcgd75hljy5z9jqmk5ny0q82d") (y #t)))
+

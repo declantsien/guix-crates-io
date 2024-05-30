@@ -1,0 +1,4 @@
+(define-module (crates-io fl at flatbox) #:use-module (crates-io))
+
+(define-public crate-flatbox-0.1.0 (c (n "flatbox") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "flatbox_assets") (r "^0.1.0") (d #t) (k 0)) (d (n "flatbox_core") (r "^0.1.0") (d #t) (k 0)) (d (n "flatbox_ecs") (r "^0.1.0") (d #t) (k 0)) (d (n "flatbox_egui") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "flatbox_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "flatbox_physics") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "flatbox_render") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "flatbox_systems") (r "^0.1.0") (d #t) (k 0)) (d (n "pretty-type-name") (r "^1.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "00md04jz3rzw03mjd5qgjpcvr92xgl55zm21b0vyzwws4a7yydhb") (f (quote (("default" "egui" "render" "physics")))) (s 2) (e (quote (("render" "dep:flatbox_render") ("physics" "dep:flatbox_physics") ("egui" "dep:flatbox_egui"))))))
+

@@ -1,0 +1,18 @@
+(define-module (crates-io ni le nile-client-rs) #:use-module (crates-io))
+
+(define-public crate-nile-client-rs-0.0.1-alpha (c (n "nile-client-rs") (v "0.0.1-alpha") (d (list (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0mrhjyq4fw2lryl2m5blzp1qw1alfrcy957dcns7dwa0pp5pcvr3")))
+
+(define-public crate-nile-client-rs-0.0.1-alpha.1 (c (n "nile-client-rs") (v "0.0.1-alpha.1") (d (list (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "09syg0vfmbgp64pn8y2bk1mp8n67z4klj4649g6p45bvhh02bq1g")))
+
+(define-public crate-nile-client-rs-0.0.1-alpha.2 (c (n "nile-client-rs") (v "0.0.1-alpha.2") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0gbvbb1ky8glmp4q38wglp3f72pj0v5k3afp2529cs2j8v6q5zk3")))
+
+(define-public crate-nile-client-rs-0.0.1 (c (n "nile-client-rs") (v "0.0.1") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "063wksdfgpryrvs59hnwgm7svvg17mhdvav5ch70km250zxgzz1g")))
+
+(define-public crate-nile-client-rs-0.0.2 (c (n "nile-client-rs") (v "0.0.2") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "08hp9rd9wl17n5y0x7vxci39785qflg6y6ghm7i6a71ia04mbr9h")))
+
+(define-public crate-nile-client-rs-0.0.3 (c (n "nile-client-rs") (v "0.0.3") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0dp800ybv0pn8vb40mlj3ig8gkwbjz917aixj8qnq97cbs1cz1sk")))
+
+(define-public crate-nile-client-rs-0.0.4 (c (n "nile-client-rs") (v "0.0.4") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "09k8akki01wgg1dsgn78ra0xz351bi5n3mbwmqldskcmvj88d6x2")))
+
+(define-public crate-nile-client-rs-0.0.5 (c (n "nile-client-rs") (v "0.0.5") (d (list (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0bn5qqsi2hhc7x30xm61816fdbixf0km2lcpfx7b2vr2fgm9f7cs")))
+

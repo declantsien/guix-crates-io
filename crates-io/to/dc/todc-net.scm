@@ -1,0 +1,4 @@
+(define-module (crates-io to dc todc-net) #:use-module (crates-io))
+
+(define-public crate-todc-net-0.1.0 (c (n "todc-net") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1.0-rc.2") (d #t) (k 0)) (d (n "hyper") (r "^1.0.0-rc.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "pin-project") (r "^1.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.3") (d #t) (k 2)) (d (n "turmoil") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "turmoil") (r "^0.5") (d #t) (k 2)))) (h "0jlqmn5lrzyxbya6cygmnbcjiylljvqaba2qimclc3hh4nhpj236") (s 2) (e (quote (("turmoil" "dep:turmoil"))))))
+

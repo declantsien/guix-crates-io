@@ -1,0 +1,8 @@
+(define-module (crates-io bu ff buffer-unordered-weighted) #:use-module (crates-io))
+
+(define-public crate-buffer-unordered-weighted-0.1.0 (c (n "buffer-unordered-weighted") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.25") (f (quote ("std"))) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "sync" "test-util" "time"))) (d #t) (k 2)))) (h "1xza8p36s6wd9vzyjwg55fq3n514l4g59j6h2i9jf07vx2inqaws") (r "1.56")))
+
+(define-public crate-buffer-unordered-weighted-0.1.1 (c (n "buffer-unordered-weighted") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.25") (f (quote ("std"))) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "sync" "test-util" "time"))) (d #t) (k 2)))) (h "0zhpzdid8kx9b2g4a4xvax1izxi2s508kf9x9cj5yz9yhbs6lxhk") (r "1.56")))
+
+(define-public crate-buffer-unordered-weighted-0.1.2 (c (n "buffer-unordered-weighted") (v "0.1.2") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.25") (f (quote ("std"))) (k 0)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "tokio") (r "^1.21.2") (f (quote ("macros" "sync" "test-util" "time"))) (d #t) (k 2)))) (h "1d9flk88cdlkmlirv4qzi4xrck3c40rfvzr90j3wlmf5jjcz7wjm") (r "1.56")))
+

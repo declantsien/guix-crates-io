@@ -1,0 +1,4 @@
+(define-module (crates-io bm p1 bmp180-embedded-hal) #:use-module (crates-io))
+
+(define-public crate-bmp180-embedded-hal-0.1.0 (c (n "bmp180-embedded-hal") (v "0.1.0") (d (list (d (n "defmt") (r "^0.3.6") (o #t) (d #t) (k 0)) (d (n "duplicate") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (o #t) (d #t) (k 0)))) (h "136a3qcg1akyyq4zqxfc7xiryyirpg57wh73xvn6ldicby5dq8zi") (f (quote (("impl-debug") ("i-know-what-i-am-doing") ("fuzz" "blocking" "impl-debug") ("disable-arithmetic-checks") ("default" "async" "impl-debug")))) (s 2) (e (quote (("log" "dep:log") ("impl-defmt-format" "dep:defmt") ("defmt" "dep:defmt") ("blocking" "dep:embedded-hal") ("async" "dep:embedded-hal-async"))))))
+

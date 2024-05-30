@@ -1,0 +1,4 @@
+(define-module (crates-io in fe inference_core) #:use-module (crates-io))
+
+(define-public crate-inference_core-0.1.0 (c (n "inference_core") (v "0.1.0") (d (list (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "ort") (r "^2.0.0-alpha.1") (f (quote ("load-dynamic"))) (k 0)) (d (n "ort") (r "^2.0.0-alpha.1") (d #t) (t "cfg(linux)") (k 0)) (d (n "ort") (r "^2.0.0-alpha.1") (d #t) (t "cfg(macos)") (k 0)) (d (n "ort") (r "^2.0.0-alpha.1") (d #t) (t "cfg(windows)") (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "tokenizers") (r "^0.15.0") (f (quote ("progressbar" "cli" "onig" "esaxx_fast"))) (k 0)) (d (n "uniffi") (r "^0.25") (f (quote ("cli"))) (d #t) (k 0)) (d (n "uniffi") (r "^0.25") (f (quote ("build"))) (d #t) (k 1)) (d (n "uniffi") (r "^0.25") (f (quote ("bindgen-tests"))) (d #t) (k 2)) (d (n "uuid") (r "^1.5.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "1fgdx6irhj7xdmpfma584py33jpc4ack1ahicgc03h3lx6dvl4di") (f (quote (("ci"))))))
+

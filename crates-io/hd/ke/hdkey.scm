@@ -1,0 +1,14 @@
+(define-module (crates-io hd ke hdkey) #:use-module (crates-io))
+
+(define-public crate-hdkey-0.0.0-alpha.0 (c (n "hdkey") (v "0.0.0-alpha.0") (d (list (d (n "secp256k1") (r "^0.28") (d #t) (k 0)))) (h "1c0whx73prbzphvavw6yi881x374wqhjvssd4f6frj7hw0hs35fv")))
+
+(define-public crate-hdkey-0.0.1 (c (n "hdkey") (v "0.0.1") (d (list (d (n "bs58") (r "^0.5") (f (quote ("check"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "ripemd") (r "^0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "083y3nl4qz31z68h7jkacdzcq3cjzgxphv56x59b98m015xqslmv") (f (quote (("std" "secp256k1" "secp256k1/global-context") ("global-context" "std" "secp256k1/global-context") ("default" "std"))))))
+
+(define-public crate-hdkey-0.0.2 (c (n "hdkey") (v "0.0.2") (d (list (d (n "bs58") (r "^0.5") (f (quote ("check"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "ripemd") (r "^0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "0p50nilqkjjdy7anyy59swwmd297s927fwa66257pa6iqr3h6ly8") (f (quote (("std" "secp256k1" "secp256k1/global-context") ("global-context" "std" "secp256k1/global-context") ("default" "std"))))))
+
+(define-public crate-hdkey-0.0.3 (c (n "hdkey") (v "0.0.3") (d (list (d (n "bs58") (r "^0.5") (f (quote ("check"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "ripemd") (r "^0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "1dq90sxj9x6sg7pwrv533n8pdwlglnza5962wxzl4vaa28gifc7h") (f (quote (("std" "secp256k1") ("global-context" "std" "secp256k1/global-context") ("default" "std"))))))
+
+(define-public crate-hdkey-0.0.4 (c (n "hdkey") (v "0.0.4") (d (list (d (n "bs58") (r "^0.5") (f (quote ("check"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "ripemd") (r "^0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "134zp8iyq7c5snca9hlyn091fadbvcnq3zl5s3ffq1gr0cm9s80j") (f (quote (("std" "secp256k1") ("global-context" "std" "secp256k1/global-context") ("default" "std"))))))
+
+(define-public crate-hdkey-0.0.5 (c (n "hdkey") (v "0.0.5") (d (list (d (n "bs58") (r "^0.5") (f (quote ("check"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "ripemd") (r "^0.1") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28") (o #t) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "1zh371ih7rv9wl7vikmfjb269smva5nh6bvxlbzqrqqwhkncpn3x") (f (quote (("std" "secp256k1") ("global-context" "std" "secp256k1/global-context") ("default" "std"))))))
+

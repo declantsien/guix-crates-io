@@ -1,0 +1,12 @@
+(define-module (crates-io ka rm karma-p2p-webrtc) #:use-module (crates-io))
+
+(define-public crate-karma-p2p-webrtc-0.1.0 (c (n "karma-p2p-webrtc") (v "0.1.0") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "karma-p2p") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "webrtc") (r "^0.4.0") (d #t) (k 0)))) (h "0rscpqk5x5qgl6lxjx2wk7hziy8wilklz8di1hgpdgg57wyakqxq")))
+
+(define-public crate-karma-p2p-webrtc-0.1.1 (c (n "karma-p2p-webrtc") (v "0.1.1") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "karma-p2p") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "webrtc") (r "^0.4.0") (d #t) (k 0)))) (h "1z1y0f7zg93fhlp993z23jgpf4mbdpl5zfm1bp6fw1gkx53fmxxd")))
+
+(define-public crate-karma-p2p-webrtc-0.1.2 (c (n "karma-p2p-webrtc") (v "0.1.2") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "karma-p2p") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "webrtc") (r "^0.4.0") (d #t) (k 0)))) (h "1v1qja67lprn8gx32l8b9rl9xg3aqbprdhdfsh81vbnr1sn55lyv")))
+
+(define-public crate-karma-p2p-webrtc-0.1.3 (c (n "karma-p2p-webrtc") (v "0.1.3") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "karma-p2p") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "webrtc") (r "^0.4.0") (d #t) (k 0)))) (h "04n56n7ibcdrh1mvxycpdw64d8pxvc1ahh4zc3dbaikqmyr2gvzd")))
+
+(define-public crate-karma-p2p-webrtc-0.1.4 (c (n "karma-p2p-webrtc") (v "0.1.4") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "karma-p2p") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smol") (r "^1.2.5") (d #t) (k 0)) (d (n "webrtc") (r "^0.4.0") (d #t) (k 0)))) (h "018k5byygdpn76isc2s7s96xlhcrr9cw30576q3dibsjw5ix8f9h")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io wx _a wx_applet) #:use-module (crates-io))
+
+(define-public crate-wx_applet-0.0.1 (c (n "wx_applet") (v "0.0.1") (d (list (d (n "build_builder") (r "^0.0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (f (quote ("std" "serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "05yj19bf7jkfpw1hc8lnjf6y32xv89rjjjvbyphj0h10qwpcw3n6")))
+
+(define-public crate-wx_applet-0.0.2 (c (n "wx_applet") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "build_builder") (r "^0.0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (f (quote ("std" "serde"))) (d #t) (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.17") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0na37s2w75qgf50wgrkhl9v2fzyzfjhb6n1sgh40fll31d5l6av3")))
+

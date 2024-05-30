@@ -1,0 +1,6 @@
+(define-module (crates-io in te intention_tester) #:use-module (crates-io))
+
+(define-public crate-intention_tester-0.1.0 (c (n "intention_tester") (v "0.1.0") (d (list (d (n "csv") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.11") (d #t) (k 0)) (d (n "rusty-machine") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "07hv4rbs4583c797fig11if4mlgikwhjs0705ddbxph5gams6yv8")))
+
+(define-public crate-intention_tester-0.1.1 (c (n "intention_tester") (v "0.1.1") (d (list (d (n "csv") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.1") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.12") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.11") (d #t) (k 0)) (d (n "rusty-machine") (r "^0.5.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.2.10") (d #t) (k 0)))) (h "0alb1x0j51sk5d4picfz6fnkfnhmdgwmkhgiifbgfkvwlsmrglzr")))
+

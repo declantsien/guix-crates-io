@@ -1,0 +1,12 @@
+(define-module (crates-io ne w_ new_type_derive) #:use-module (crates-io))
+
+(define-public crate-new_type_derive-0.1.0 (c (n "new_type_derive") (v "0.1.0") (d (list (d (n "arrayvec") (r "^0.4.7") (f (quote ("serde-1"))) (d #t) (k 2)) (d (n "bincode") (r "^1.0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.2.5") (d #t) (k 2)))) (h "1c8vz0invbigy2gd9pzay5781z8p20bhxzkwm7bd3mzz1h3myadf") (f (quote (("default"))))))
+
+(define-public crate-new_type_derive-0.1.1 (c (n "new_type_derive") (v "0.1.1") (d (list (d (n "arrayvec") (r "^0.4.7") (f (quote ("serde-1"))) (d #t) (k 2)) (d (n "bincode") (r "^1.0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.2.5") (d #t) (k 2)))) (h "105x0w0myk456l6kgj1wiygsv27m16vz65487ylnn8xk8j67vdj8") (f (quote (("default"))))))
+
+(define-public crate-new_type_derive-0.2.0 (c (n "new_type_derive") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.4.7") (f (quote ("serde-1"))) (d #t) (k 2)) (d (n "bincode") (r "^1.0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.2.5") (d #t) (k 2)))) (h "1m4krfj6dv9b40hw2n306wrjdbscmp6vr6xi39ynala19793xc2g") (f (quote (("default")))) (y #t)))
+
+(define-public crate-new_type_derive-0.2.1 (c (n "new_type_derive") (v "0.2.1") (d (list (d (n "arrayvec") (r "^0.4.7") (f (quote ("serde-1"))) (d #t) (k 2)) (d (n "bincode") (r "^1.0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "static_assertions") (r "^0.2.5") (d #t) (k 2)))) (h "1m13pdny5bir5lsfllqwsnkjl8sg8sha2zjv9plzdhyj5a8144kf") (f (quote (("default"))))))
+
+(define-public crate-new_type_derive-0.2.2 (c (n "new_type_derive") (v "0.2.2") (d (list (d (n "arrayvec") (r "^0.4.7") (f (quote ("serde-1"))) (d #t) (k 2)) (d (n "bincode") (r "^1.0.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0.2") (d #t) (k 2)) (d (n "proptest") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.70") (d #t) (k 2)) (d (n "static_assertions") (r "^0.2.5") (d #t) (k 2)))) (h "0zyhlf7bk9m27cr97ynznrgxccp2q0nrgiprx9wh7mjjyd1p9695") (f (quote (("default"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io wa xo waxosuit-codec) #:use-module (crates-io))
+
+(define-public crate-waxosuit-codec-0.2.0 (c (n "waxosuit-codec") (v "0.2.0") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "prost") (r "^0.5.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.5.0") (d #t) (k 1)) (d (n "prost-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "1rqx5mwy8pg1460mfny4yzr7l70y9ifinsxzb2likdhcr7r6dqw1") (y #t)))
+
+(define-public crate-waxosuit-codec-0.2.1 (c (n "waxosuit-codec") (v "0.2.1") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "prost") (r "^0.5.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.5.0") (d #t) (k 1)) (d (n "prost-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "12k90cykpag5wvfhvj2b7zmdd7rbax9nf49d254bxhxcb43yw5z9") (y #t)))
+
+(define-public crate-waxosuit-codec-0.2.2 (c (n "waxosuit-codec") (v "0.2.2") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "prost") (r "^0.5.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.5.0") (d #t) (k 1)) (d (n "prost-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)))) (h "0h1sdfy36cc6yyfifb1b3zg63x643k7jb94csb0nyjz5hzpl9253") (y #t)))
+
+(define-public crate-waxosuit-codec-0.2.3 (c (n "waxosuit-codec") (v "0.2.3") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "prost") (r "^0.5.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.5.0") (d #t) (k 1)) (d (n "prost-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "1zy4n104h7jvs9sgr3iq2dz6sndx5m7knvvzc4lin2xrvg7y3ic4") (y #t)))
+
+(define-public crate-waxosuit-codec-0.2.4 (c (n "waxosuit-codec") (v "0.2.4") (d (list (d (n "bytes") (r "^0.4.12") (d #t) (k 0)) (d (n "prost") (r "^0.5.0") (d #t) (k 0)) (d (n "prost-build") (r "^0.5.0") (d #t) (k 1)) (d (n "prost-types") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.101") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)))) (h "1c0jhp2lh5qnliwkqq9rp9yj6iap9620z4dl9c7p4ls9ynacyzz6")))
+

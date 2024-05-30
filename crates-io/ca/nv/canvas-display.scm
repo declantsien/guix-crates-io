@@ -1,0 +1,8 @@
+(define-module (crates-io ca nv canvas-display) #:use-module (crates-io))
+
+(define-public crate-canvas-display-0.1.0 (c (n "canvas-display") (v "0.1.0") (d (list (d (n "embedded-graphics") (r "^0.6.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Node" "Element" "console" "CanvasRenderingContext2d" "Document" "Element" "ImageData" "HtmlCanvasElement" "HtmlElement" "Window"))) (d #t) (k 0)))) (h "1vmnb9kjlvm8vwwp7k62j8jv074i89hkr2c9xr3gjvxv83wf8lxz") (f (quote (("offscreen") ("default"))))))
+
+(define-public crate-canvas-display-0.1.1 (c (n "canvas-display") (v "0.1.1") (d (list (d (n "embedded-graphics") (r "^0.6.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Node" "Element" "console" "CanvasRenderingContext2d" "Document" "Element" "ImageData" "HtmlCanvasElement" "HtmlElement" "Window"))) (d #t) (k 0)))) (h "0n2wck3lffyfisxx5hc6r4q5nrxhpid02p2cq4pa0isndzhyr4ay") (f (quote (("offscreen") ("default"))))))
+
+(define-public crate-canvas-display-0.1.2 (c (n "canvas-display") (v "0.1.2") (d (list (d (n "embedded-graphics") (r "^0.6.2") (d #t) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Node" "Element" "console" "CanvasRenderingContext2d" "Document" "Element" "ImageData" "HtmlCanvasElement" "HtmlElement" "Window"))) (d #t) (k 0)))) (h "1l7gn8f04zv2xxlxmn3cgvh4k58r0jddqnqbijc7449nzzcac667") (f (quote (("offscreen") ("default"))))))
+

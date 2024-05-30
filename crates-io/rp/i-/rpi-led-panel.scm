@@ -1,0 +1,16 @@
+(define-module (crates-io rp i- rpi-led-panel) #:use-module (crates-io))
+
+(define-public crate-rpi-led-panel-0.1.0 (c (n "rpi-led-panel") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.7") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "memmap2") (r "^0.5.4") (d #t) (k 0)) (d (n "thread-priority") (r "^0.8.2") (d #t) (k 0)))) (h "0dygyp1fz3yaz54azh5cnfg598lngpl1xz97mnhnq5bp6fdq4cqi") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+
+(define-public crate-rpi-led-panel-0.1.1 (c (n "rpi-led-panel") (v "0.1.1") (d (list (d (n "argh") (r "^0.1.7") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "memmap2") (r "^0.5.4") (d #t) (k 0)) (d (n "thread-priority") (r "^0.8.2") (d #t) (k 0)))) (h "1dx3kcgy3mdn5m6nlf4r2fvgs01iphizsddi0k3skz2h9d26wfq8") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+
+(define-public crate-rpi-led-panel-0.2.0 (c (n "rpi-led-panel") (v "0.2.0") (d (list (d (n "argh") (r "^0.1.9") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "memmap2") (r "^0.5.7") (d #t) (k 0)) (d (n "thread-priority") (r "^0.10.0") (d #t) (k 0)))) (h "037m9wrshv3wxvdkwxj54vzcv58h7igrw2y24bc7wq4b6h9671la") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+
+(define-public crate-rpi-led-panel-0.3.0 (c (n "rpi-led-panel") (v "0.3.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.140") (d #t) (k 0)) (d (n "memmap2") (r "^0.5.10") (d #t) (k 0)) (d (n "thread-priority") (r "^0.13.1") (d #t) (k 0)))) (h "07k2zg0jwm0zgc5qnqyc8z3n705c9ifcsmasbap1k4c5269kszd1") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+
+(define-public crate-rpi-led-panel-0.4.0 (c (n "rpi-led-panel") (v "0.4.0") (d (list (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.146") (d #t) (k 0)) (d (n "memmap2") (r "^0.7.0") (d #t) (k 0)) (d (n "thread-priority") (r "^0.13.1") (d #t) (k 0)))) (h "1p7i9nqk56i5fcvbm5cvz9rpcpbs3z4rpq0mb2wk82h96jj880i0") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+
+(define-public crate-rpi-led-panel-0.5.0 (c (n "rpi-led-panel") (v "0.5.0") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.149") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.0") (d #t) (k 0)) (d (n "thread-priority") (r "^0.13.1") (d #t) (k 0)))) (h "1479zri54p21mw0ap2025imqn3zbz55ljqax4gbanljfsql44kfh") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+
+(define-public crate-rpi-led-panel-0.5.1 (c (n "rpi-led-panel") (v "0.5.1") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.151") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.3") (d #t) (k 0)) (d (n "thread-priority") (r "^0.15.1") (d #t) (k 0)))) (h "1f2izik9wn3h9nx2n4w4rx3by4cc7pfgk0gz8mdq2zjmc5p9vpf7") (f (quote (("drawing" "embedded-graphics") ("default" "drawing"))))))
+

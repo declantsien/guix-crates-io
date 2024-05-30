@@ -1,0 +1,4 @@
+(define-module (crates-io li nd lindera-dictionary-builder) #:use-module (crates-io))
+
+(define-public crate-lindera-dictionary-builder-0.31.0 (c (n "lindera-dictionary-builder") (v "0.31.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.20.0") (d #t) (k 0)) (d (n "encoding") (r "^0.2.33") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.33") (d #t) (k 0)) (d (n "encoding_rs_io") (r "^0.1.7") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "lindera-compress") (r "^0.31.0") (o #t) (d #t) (k 0)) (d (n "lindera-core") (r "^0.31.0") (d #t) (k 0)) (d (n "lindera-decompress") (r "^0.31.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "yada") (r "^0.5.1") (d #t) (k 0)))) (h "1j0q39khszsz5sn30946f01w3ywivkj74xc7qpfbxy2m8298dx0l") (f (quote (("compress" "lindera-compress"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io tr ee tree-painter) #:use-module (crates-io))
+
+(define-public crate-tree-painter-0.0.0 (c (n "tree-painter") (v "0.0.0") (d (list (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0") (k 0)) (d (n "tree-sitter-c") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "tree-sitter-commonlisp") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "tree-sitter-cpp") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "tree-sitter-cuda") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "tree-sitter-highlight") (r "^0.20") (d #t) (k 0)) (d (n "tree-sitter-javascript") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "tree-sitter-python") (r "^0.20") (o #t) (d #t) (k 0)) (d (n "tree-sitter-rust") (r "^0.20") (o #t) (d #t) (k 0)))) (h "0q8857gbv9w0vpi6pnbghjmvw93kclxlkn16bq1mqpdy43wwpbhg") (f (quote (("themes") ("default" "tree-sitter-c" "tree-sitter-commonlisp" "tree-sitter-cuda" "tree-sitter-cpp" "tree-sitter-javascript" "tree-sitter-python" "tree-sitter-rust" "themes"))))))
+

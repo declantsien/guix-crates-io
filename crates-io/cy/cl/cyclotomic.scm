@@ -1,0 +1,6 @@
+(define-module (crates-io cy cl cyclotomic) #:use-module (crates-io))
+
+(define-public crate-cyclotomic-0.1.0 (c (n "cyclotomic") (v "0.1.0") (d (list (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 0)) (d (n "combinations") (r "^0.1.0") (d #t) (k 0)) (d (n "divisors") (r "^0.2.1") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9.2") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2.2") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)))) (h "1qv9k87d3as2i66y64mmqz9qadbxchc5y17nvc0zgdmr68zy30ci")))
+
+(define-public crate-cyclotomic-0.2.0 (c (n "cyclotomic") (v "0.2.0") (d (list (d (n "antic") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "combinations") (r "^0.1.0") (d #t) (k 0)) (d (n "divisors") (r "^0.2.1") (d #t) (k 0)) (d (n "nom") (r "^6.1.2") (d #t) (k 0)) (d (n "num") (r "^0.2.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.12") (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (d #t) (k 0)) (d (n "quickcheck_macros") (r "^0.9") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rand_chacha") (r "^0.2.2") (d #t) (k 0)) (d (n "rug") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "sexp") (r "^1.1.4") (d #t) (k 0)))) (h "11bg3yiljjgcj2yg5xnqmq302zlhwifgjm48kiil65w61y8by727")))
+

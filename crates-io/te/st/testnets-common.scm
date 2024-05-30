@@ -1,0 +1,8 @@
+(define-module (crates-io te st testnets-common) #:use-module (crates-io))
+
+(define-public crate-testnets-common-0.0.0 (c (n "testnets-common") (v "0.0.0") (h "0m4aph3sc8dddpq5mspl0g8j8sv08i0yzwvmj5awm913075dv6pk")))
+
+(define-public crate-testnets-common-1.0.0 (c (n "testnets-common") (v "1.0.0") (d (list (d (n "frame-support") (r "^26.0.0") (k 0)) (d (n "polkadot-core-primitives") (r "^5.0.0") (k 0)) (d (n "rococo-runtime-constants") (r "^5.0.0") (k 0)) (d (n "smallvec") (r "^1.11.0") (d #t) (k 0)) (d (n "sp-runtime") (r "^29.0.0") (k 0)) (d (n "substrate-wasm-builder") (r "^15.0.0") (d #t) (k 1)) (d (n "westend-runtime-constants") (r "^5.0.0") (k 0)))) (h "01xihccam70gfdf46s15fvk74vh3hsswy1bcm35jndjq9haw6ghx") (f (quote (("std" "frame-support/std" "polkadot-core-primitives/std" "rococo-runtime-constants/std" "sp-runtime/std" "westend-runtime-constants/std") ("runtime-benchmarks" "frame-support/runtime-benchmarks" "sp-runtime/runtime-benchmarks") ("default" "std"))))))
+
+(define-public crate-testnets-common-2.0.0 (c (n "testnets-common") (v "2.0.0") (d (list (d (n "frame-support") (r "^27.0.0") (k 0)) (d (n "polkadot-core-primitives") (r "^6.0.0") (k 0)) (d (n "rococo-runtime-constants") (r "^6.0.0") (k 0)) (d (n "smallvec") (r "^1.11.0") (d #t) (k 0)) (d (n "sp-runtime") (r "^30.0.1") (k 0)) (d (n "substrate-wasm-builder") (r "^16.0.0") (d #t) (k 1)) (d (n "westend-runtime-constants") (r "^6.0.0") (k 0)))) (h "1y98vkwr7mchl9kwqql4kfmba7nrhygm6ri89qp0k471jkrhk1rk") (f (quote (("std" "frame-support/std" "polkadot-core-primitives/std" "rococo-runtime-constants/std" "sp-runtime/std" "westend-runtime-constants/std") ("runtime-benchmarks" "frame-support/runtime-benchmarks" "sp-runtime/runtime-benchmarks") ("default" "std"))))))
+

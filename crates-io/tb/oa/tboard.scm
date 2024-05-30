@@ -1,0 +1,6 @@
+(define-module (crates-io tb oa tboard) #:use-module (crates-io))
+
+(define-public crate-tboard-0.1.0 (c (n "tboard") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 2)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "hostname") (r "^0.3.1") (d #t) (k 0)) (d (n "prost") (r "^0.12.1") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.1") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "timens") (r "^0.1.9") (d #t) (k 2)))) (h "02jvblza2nv8h9pl2ri3qgp88m1cd6hjm5d0c4ijn74qs9w9xszi")))
+
+(define-public crate-tboard-0.1.1 (c (n "tboard") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "anyhow") (r "^1") (f (quote ("backtrace"))) (d #t) (k 2)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "clap") (r "^4.2.4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "hostname") (r "^0.3.1") (d #t) (k 0)) (d (n "prost") (r "^0.12.1") (d #t) (k 0)) (d (n "prost-build") (r "^0.12.1") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "timens") (r "^0.1.9") (d #t) (k 2)))) (h "1czn0lqprf8bdmb57r2dq87hfidss7hwyd6kz5ycklsmkbqigp1g")))
+

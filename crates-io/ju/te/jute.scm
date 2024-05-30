@@ -1,0 +1,8 @@
+(define-module (crates-io ju te jute) #:use-module (crates-io))
+
+(define-public crate-jute-0.1.0 (c (n "jute") (v "0.1.0") (h "143vxwfdj0pjrrghv1ybiaw8cda9cwi559309v9hdha7nyjlpbih") (y #t)))
+
+(define-public crate-jute-0.1.1 (c (n "jute") (v "0.1.1") (d (list (d (n "base64ct") (r "^1.6.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "ring") (r "~0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.184") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.3.28") (f (quote ("std"))) (k 0)))) (h "10migxrwb8px5parxjn05m8264s1c4xqp4d2077i54prxg1l6i9r") (f (quote (("strict")))) (y #t)))
+
+(define-public crate-jute-0.1.2 (c (n "jute") (v "0.1.2") (d (list (d (n "base64ct") (r "^1.6.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (f (quote ("alloc"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.16.0") (d #t) (k 0)) (d (n "ring") (r "~0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.184") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "time") (r "^0.3.28") (f (quote ("std"))) (k 0)))) (h "10aqqqv46p9895iw2ja9pvggdnxmdxwcklqd2i7fvpf8s8fkq1hh") (f (quote (("strict"))))))
+

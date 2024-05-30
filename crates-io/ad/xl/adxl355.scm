@@ -1,0 +1,12 @@
+(define-module (crates-io ad xl adxl355) #:use-module (crates-io))
+
+(define-public crate-adxl355-0.1.0 (c (n "adxl355") (v "0.1.0") (d (list (d (n "accelerometer") (r "^0.10.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)))) (h "1anbkcc11njnl9547w7md77cqn30xb5234hm6wahs8piz2pvw326")))
+
+(define-public crate-adxl355-0.2.0 (c (n "adxl355") (v "0.2.0") (d (list (d (n "accelerometer") (r "^0.11.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.6.2") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.12") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f1xx-hal") (r "^0.5.3") (f (quote ("stm32f103" "rt"))) (d #t) (k 2)))) (h "1lybijx0xs7bdf9ri9ydv8k3hww25zw3d78d6i3zssnib86c1i0c") (f (quote (("stm32g070") ("stm32f103"))))))
+
+(define-public crate-adxl355-0.2.1 (c (n "adxl355") (v "0.2.1") (d (list (d (n "accelerometer") (r "^0.11.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.6.2") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.12") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f1xx-hal") (r "^0.5.3") (f (quote ("stm32f103" "rt"))) (d #t) (k 2)))) (h "08zykzzlzc8l36lckvzvav2pz9a4w6fn170fwzq5kg01hqxnr7f6") (f (quote (("stm32g070") ("stm32f103"))))))
+
+(define-public crate-adxl355-0.2.2 (c (n "adxl355") (v "0.2.2") (d (list (d (n "accelerometer") (r "^0.11.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.6.2") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.12") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "nb") (r "^0.1.2") (d #t) (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f1xx-hal") (r "^0.5.3") (f (quote ("stm32f103" "rt"))) (d #t) (k 2)))) (h "07bpmsq2p7wc53yxvrm36knmp7v6gk56y5r0cf6dr2dq5mmxzwpr") (f (quote (("stm32g070") ("stm32f103"))))))
+
+(define-public crate-adxl355-0.2.3 (c (n "adxl355") (v "0.2.3") (d (list (d (n "accelerometer") (r "^0.11.0") (d #t) (k 0)) (d (n "cortex-m") (r "^0.6.2") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.6.12") (d #t) (k 2)) (d (n "embedded-hal") (r "^0.2.3") (d #t) (k 0)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f1xx-hal") (r "^0.5.3") (f (quote ("stm32f103" "rt"))) (d #t) (k 2)))) (h "1g4ibqjxrz1avpkqm7qihrq2q8dc5m310n2lsgid0g3ihavh4xx9") (f (quote (("stm32g070") ("stm32f103"))))))
+

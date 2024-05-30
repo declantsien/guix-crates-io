@@ -1,0 +1,4 @@
+(define-module (crates-io co go cogo-redis) #:use-module (crates-io))
+
+(define-public crate-cogo-redis-0.1.0 (c (n "cogo-redis") (v "0.1.0") (d (list (d (n "bitflags") (r "^1.3") (d #t) (k 0)) (d (n "btoi") (r "^0.4.2") (d #t) (k 0)) (d (n "bytes") (r "^1.0.0") (d #t) (k 0)) (d (n "cogo") (r "^0.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "either") (r "^1.5.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures-core") (r "^0.3") (f (quote ("alloc"))) (k 0)) (d (n "itoa") (r "^0.4.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0.0") (d #t) (k 0)) (d (n "simdutf8") (r "^0.1.3") (o #t) (d #t) (k 0)))) (h "0vkdbrlj3ib3hl9c81b50zmxciq62dsn4h06ghlrhdy85f9ldylv") (f (quote (("simd" "simdutf8") ("default"))))))
+

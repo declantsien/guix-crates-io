@@ -1,0 +1,6 @@
+(define-module (crates-io my ca myca) #:use-module (crates-io))
+
+(define-public crate-myca-0.1.0 (c (n "myca") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "pem") (r "^3.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rcgen") (r "^0.11.2") (f (quote ("pem" "x509-parser"))) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "rsa") (r "^0.9.2") (d #t) (k 0)) (d (n "x509-parser") (r "^0.15.1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.15.1") (f (quote ("verify"))) (d #t) (k 2)))) (h "0mlsswkl69zg1smzclz1mabcf4d8m2syiy0bl404hbcfrqhyzpr5")))
+
+(define-public crate-myca-0.2.0 (c (n "myca") (v "0.2.0") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "assert_fs") (r "^1.0.13") (d #t) (k 2)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "pem") (r "^3.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rcgen") (r "^0.11.2") (f (quote ("pem" "x509-parser"))) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "rsa") (r "^0.9.2") (d #t) (k 0)) (d (n "x509-parser") (r "^0.15.1") (d #t) (k 0)) (d (n "x509-parser") (r "^0.15.1") (f (quote ("verify"))) (d #t) (k 2)))) (h "1459j7whbxagbagjjzbbwilrsl4jf8bqmyrxbysqkg03k9fm1vln")))
+

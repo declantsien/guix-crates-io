@@ -1,0 +1,4 @@
+(define-module (crates-io xa sh xash3d-master) #:use-module (crates-io))
+
+(define-public crate-xash3d-master-0.1.0 (c (n "xash3d-master") (v "0.1.0") (d (list (d (n "ahash") (r "<0.5") (d #t) (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "blake2b_simd") (r "<0.6") (d #t) (k 0)) (d (n "chrono") (r "<0.4.27") (f (quote ("clock"))) (o #t) (k 0)) (d (n "fastrand") (r "^2.0.1") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "log") (r "<0.4.19") (d #t) (k 0)) (d (n "once_cell") (r "<1.18") (o #t) (d #t) (t "wasm32-unknown-emscripten") (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.17") (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)) (d (n "xash3d-protocol") (r "^0.1.0") (d #t) (k 0)))) (h "07vzaly788hg95c2g7wf3j6ljs3bzmbzy77jjhjsyg9srd9rb22m") (f (quote (("logtime" "chrono") ("default" "logtime")))) (r "1.56")))
+

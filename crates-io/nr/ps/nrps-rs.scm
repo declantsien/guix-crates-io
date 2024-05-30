@@ -1,0 +1,8 @@
+(define-module (crates-io nr ps nrps-rs) #:use-module (crates-io))
+
+(define-public crate-nrps-rs-0.1.0 (c (n "nrps-rs") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (d #t) (k 2)))) (h "1flsk9fqfhcl9jz4020b13crsl4q2f5x60vsnnpfn6h20xhb37bd")))
+
+(define-public crate-nrps-rs-0.2.0 (c (n "nrps-rs") (v "0.2.0") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (d #t) (k 2)))) (h "0nvyklyb3p3qsd54awylwzsxpbgxs6avsbyz960myhqxzb2vzfjw")))
+
+(define-public crate-nrps-rs-0.2.1 (c (n "nrps-rs") (v "0.2.1") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "phf") (r "^0.11.1") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "toml") (r "^0.7.2") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)) (d (n "assert_approx_eq") (r "^1.1.0") (d #t) (k 2)) (d (n "rstest") (r "^0.16.0") (d #t) (k 2)))) (h "0napx469j5zxg27y6kwpszqbyp525apsfyhiggmrgvwlk5z4h5nc")))
+

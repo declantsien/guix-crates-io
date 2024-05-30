@@ -1,0 +1,16 @@
+(define-module (crates-io yu bi yubirs-tools) #:use-module (crates-io))
+
+(define-public crate-yubirs-tools-0.1.0 (c (n "yubirs-tools") (v "0.1.0") (d (list (d (n "bdrck") (r "^0.15") (f (quote ("cli" "logging"))) (k 0)) (d (n "data-encoding") (r "^2.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "flaggy") (r "^0.1") (d #t) (k 0)) (d (n "yubirs") (r "^0.6") (f (quote ("piv"))) (k 0)))) (h "1ckjg6vrvbjcyg02d7yhm389l6wwf6gfg4mb1fj2y54wkjqx0hdl")))
+
+(define-public crate-yubirs-tools-0.1.1 (c (n "yubirs-tools") (v "0.1.1") (d (list (d (n "bdrck") (r "^0.16") (f (quote ("cli" "logging"))) (k 0)) (d (n "data-encoding") (r "^2.2") (d #t) (k 0)) (d (n "failure") (r "^0.1") (f (quote ("backtrace"))) (d #t) (k 0)) (d (n "flaggy") (r "^0.1") (d #t) (k 0)) (d (n "yubirs") (r "^0.7") (f (quote ("piv"))) (k 0)))) (h "1f940vk481qpr0wz82ynmzf0g2bkfvyr8hk9z3qy5iyi2jr7i0vp")))
+
+(define-public crate-yubirs-tools-0.2.0 (c (n "yubirs-tools") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bdrck") (r "^0.18") (f (quote ("cli" "logging"))) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 0)) (d (n "flaggy") (r "^0.2") (d #t) (k 0)) (d (n "yubirs") (r "^0.8") (f (quote ("piv"))) (k 0)))) (h "06kmgvfd8l5ai9pd1giryd2rfp3scwp893w3xz3rrd6qyfw7fwph")))
+
+(define-public crate-yubirs-tools-0.2.1 (c (n "yubirs-tools") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bdrck") (r "^0.19") (f (quote ("cli" "logging"))) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 0)) (d (n "flaggy") (r "^0.2") (d #t) (k 0)) (d (n "yubirs") (r "^0.9") (f (quote ("piv"))) (k 0)))) (h "1jv8n0nawrd7dns2zhzg02xr74z48vzq9l12yvffv39rch3yn677")))
+
+(define-public crate-yubirs-tools-0.2.2 (c (n "yubirs-tools") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bdrck") (r "^0.20") (f (quote ("cli"))) (k 0)) (d (n "clap") (r "^4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "yubirs") (r "^0.9") (f (quote ("piv"))) (k 0)))) (h "1qk9ay20h14b6nkz3762zakaf861ncrpkp6i01pcgcrfw1cp5n3g")))
+
+(define-public crate-yubirs-tools-0.2.3 (c (n "yubirs-tools") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bdrck") (r "^0.20") (f (quote ("cli"))) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "yubirs") (r "^0.9") (f (quote ("piv"))) (k 0)))) (h "00zhkdj9q6qmdxha8cl46bjq80fvg4hshhjjdwwqbbcaj3gcklxw")))
+
+(define-public crate-yubirs-tools-0.2.4 (c (n "yubirs-tools") (v "0.2.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bdrck") (r "^0.20") (f (quote ("cli"))) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "yubirs") (r "^0.9") (f (quote ("piv"))) (k 0)))) (h "12k9xb4gywjcd5fkisrwg60jqhca0q9irlgcf6vxfpv587jfgcz3")))
+

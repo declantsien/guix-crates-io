@@ -1,0 +1,26 @@
+(define-module (crates-io se ar search-provider) #:use-module (crates-io))
+
+(define-public crate-search-provider-0.1.0 (c (n "search-provider") (v "0.1.0") (d (list (d (n "dbus") (r "^0.6.4") (d #t) (k 0)) (d (n "glib") (r "^0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "09ab5ww82ry59x7f483hwlkj2v5giyxgiwi6nms90lhk1wds354b")))
+
+(define-public crate-search-provider-0.2.0 (c (n "search-provider") (v "0.2.0") (d (list (d (n "dbus") (r "^0.8") (d #t) (k 0)) (d (n "glib") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "15g6dd5qc5kp5flx68yy457q3vmpq9r8q1cf7sxsvryz4xyv5aml")))
+
+(define-public crate-search-provider-0.3.0 (c (n "search-provider") (v "0.3.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.15") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^2.0.0") (d #t) (k 0)) (d (n "zvariant") (r "^3.0.0") (d #t) (k 0)) (d (n "zvariant_derive") (r "^3.0.0") (d #t) (k 0)))) (h "05rg81a3kh8m2kdprkky0xginz4raz4gpr60g8ms53w9qv8wf2im") (f (quote (("pixbuf" "gdk-pixbuf"))))))
+
+(define-public crate-search-provider-0.4.0 (c (n "search-provider") (v "0.4.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.16") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.1.0") (d #t) (k 0)))) (h "0yc4l54ikmz60gihz2cc13nfxkifwgmsbxgwrqgb893812siajmh") (f (quote (("pixbuf" "gdk-pixbuf"))))))
+
+(define-public crate-search-provider-0.4.1 (c (n "search-provider") (v "0.4.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.16") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.1.0") (d #t) (k 0)))) (h "0s9vnxla7g27ks4xxb21rnrwy32hv0iyck83ljidv2ihzfclgzna") (f (quote (("tokio" "zbus/tokio") ("pixbuf" "gdk-pixbuf"))))))
+
+(define-public crate-search-provider-0.5.0 (c (n "search-provider") (v "0.5.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.1.0") (d #t) (k 0)))) (h "0nvc4avni56adwl55niq20yy8fcr0j9f990sx5igg64fgamnpsq6") (f (quote (("tokio" "zbus/tokio"))))))
+
+(define-public crate-search-provider-0.5.1 (c (n "search-provider") (v "0.5.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.1.0") (d #t) (k 0)))) (h "1jag6rjkzplikgdbjgcq06g90vyf10kqh6rzcwkbamdsqnmghykw") (f (quote (("tokio" "zbus/tokio"))))))
+
+(define-public crate-search-provider-0.5.2 (c (n "search-provider") (v "0.5.2") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.1") (k 0)))) (h "1xwn30gzrcn36kdrlk7wx0fsvzq7bpx7bbwm4q28j7spf9lring6") (f (quote (("tokio" "zbus/tokio") ("default" "async-std") ("async-std" "zbus/async-io"))))))
+
+(define-public crate-search-provider-0.6.0 (c (n "search-provider") (v "0.6.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.18") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.1") (k 0)))) (h "01jby7xq0dd9rafw5kgskpbxgppn4imzm71w1sdj8iy9ci4ghh9z") (f (quote (("tokio" "zbus/tokio") ("default" "async-std") ("async-std" "zbus/async-io"))))))
+
+(define-public crate-search-provider-0.7.0 (c (n "search-provider") (v "0.7.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^3.14") (k 0)))) (h "16qpg37l6lgdrfnvrwjijqr9l2yqidk9jlv97dczll1d84z1xp52") (f (quote (("tokio" "zbus/tokio") ("default" "async-std") ("async-std" "zbus/async-io"))))))
+
+(define-public crate-search-provider-0.8.0 (c (n "search-provider") (v "0.8.0") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk-pixbuf") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^4.0") (k 0)))) (h "0l1qkyx85w66fq2lx4pvsh2l4v7l1id3h65fzx2688kzdlz6sbmn") (f (quote (("tokio" "zbus/tokio") ("default" "async-std") ("async-std" "zbus/async-io"))))))
+
+(define-public crate-search-provider-0.8.1 (c (n "search-provider") (v "0.8.1") (d (list (d (n "futures-channel") (r "^0.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "gdk") (r "^0.8") (f (quote ("v4_10"))) (o #t) (d #t) (k 0) (p "gdk4")) (d (n "gdk-pixbuf") (r "^0.19") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zbus") (r "^4.0") (k 0)))) (h "1a683ndxh99sin4lr919wc8aakzgjiqlic1xglf4qs6gfpvs2prq") (f (quote (("tokio" "zbus/tokio") ("default" "async-std") ("async-std" "zbus/async-io"))))))
+

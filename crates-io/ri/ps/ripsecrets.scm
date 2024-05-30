@@ -1,0 +1,4 @@
+(define-module (crates-io ri ps ripsecrets) #:use-module (crates-io))
+
+(define-public crate-ripsecrets-0.1.8 (c (n "ripsecrets") (v "0.1.8") (d (list (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap") (r "^4.2.5") (f (quote ("derive"))) (d #t) (k 1)) (d (n "clap_mangen") (r "^0.2.15") (d #t) (k 1)) (d (n "criterion") (r "^0.3") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "grep") (r "^0.2.8") (d #t) (k 0)) (d (n "ignore") (r "^0.4.18") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "memoize") (r "^0.3.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1.2") (d #t) (k 0)))) (h "17b9ga99f5ar2a0l9l71h7mq9x36rnrfgc0qpcqgcjpcfhg6w7sf")))
+

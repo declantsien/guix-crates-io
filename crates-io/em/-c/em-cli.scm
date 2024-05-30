@@ -1,0 +1,4 @@
+(define-module (crates-io em -c em-cli) #:use-module (crates-io))
+
+(define-public crate-em-cli-0.1.0 (c (n "em-cli") (v "0.1.0") (d (list (d (n "b64-ct") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^2.2.5") (d #t) (k 0)) (d (n "crypto-hash") (r "^0.3") (d #t) (k 0)) (d (n "em-client") (r "^2.0.0") (f (quote ("client"))) (k 0)) (d (n "hyper") (r "^0.10") (k 0)) (d (n "hyper-native-tls") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "native-tls") (r "^0.1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sgx-isa") (r "^0.3") (d #t) (k 0)) (d (n "uuid") (r "^0.6.3") (f (quote ("serde"))) (d #t) (k 0)))) (h "14di024fg3dn1wjv63hk3iwc9x2bnhndc7qpd78j9wsisbba4888")))
+

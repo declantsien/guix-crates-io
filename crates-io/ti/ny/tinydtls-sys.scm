@@ -1,0 +1,8 @@
+(define-module (crates-io ti ny tinydtls-sys) #:use-module (crates-io))
+
+(define-public crate-tinydtls-sys-0.1.0+tinydtls-68f6045 (c (n "tinydtls-sys") (v "0.1.0+tinydtls-68f6045") (d (list (d (n "autotools") (r "^0.2.3") (d #t) (k 1)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.112") (d #t) (k 0)))) (h "1960zpii1y5hxlmbasla0gg06p3dc9hk25fh1zpn90smkjwnv7cj") (f (quote (("vendored" "static") ("static") ("psk") ("ecc") ("default" "vendored" "static" "ecc" "psk")))) (l "tinydtls")))
+
+(define-public crate-tinydtls-sys-0.1.1+tinydtls-c7c3ca8 (c (n "tinydtls-sys") (v "0.1.1+tinydtls-c7c3ca8") (d (list (d (n "autotools") (r "^0.2.3") (d #t) (k 1)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.112") (d #t) (k 0)))) (h "1x5693al42h9wba56s2qjnq191alidljiy045jmxl25bpm6hl59b") (f (quote (("vendored" "static") ("static") ("psk") ("ecc") ("default" "vendored" "static" "ecc" "psk")))) (l "tinydtls")))
+
+(define-public crate-tinydtls-sys-0.1.2+tinydtls-c84e36f (c (n "tinydtls-sys") (v "0.1.2+tinydtls-c84e36f") (d (list (d (n "autotools") (r "^0.2.3") (d #t) (k 1)) (d (n "bindgen") (r "^0.59.2") (d #t) (k 1)) (d (n "fs_extra") (r "^1.2") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "libc") (r "^0.2.112") (d #t) (k 0)))) (h "0y81a78qhwzmf1zgg6qqpm0wf9p4xxc4wzhwyip20h885lzsp9gc") (f (quote (("vendored" "static") ("static") ("psk") ("ecc") ("default" "vendored" "static" "ecc" "psk")))) (l "tinydtls")))
+

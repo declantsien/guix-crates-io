@@ -1,0 +1,6 @@
+(define-module (crates-io te ra tera-client-packer) #:use-module (crates-io))
+
+(define-public crate-tera-client-packer-0.1.1 (c (n "tera-client-packer") (v "0.1.1") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "1zmcnvkb2brcgc743fhym2lnmi1h9xip17lbm34kbcbpj31kilc5") (y #t)))
+
+(define-public crate-tera-client-packer-0.1.2 (c (n "tera-client-packer") (v "0.1.2") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.2") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "rayon") (r "^1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "1nb9rxpdh1mlbqvry3dmddqy1zybi977x4yvmxcyl4zsxkmkmhm2")))
+

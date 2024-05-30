@@ -1,0 +1,6 @@
+(define-module (crates-io gi fs gifski-lite) #:use-module (crates-io))
+
+(define-public crate-gifski-lite-1.0.0 (c (n "gifski-lite") (v "1.0.0") (d (list (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 0)) (d (n "gif-dispose") (r "^3.1.1") (d #t) (k 0)) (d (n "imagequant") (r "=4.0.0-beta.8") (k 0)) (d (n "imgref") (r "^1.9.1") (d #t) (k 0)) (d (n "lodepng") (r "^3.5.2") (d #t) (k 2)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "png") (r "^0.17.2") (d #t) (k 0)) (d (n "quick-error") (r "^2.0.1") (d #t) (k 0)) (d (n "resize") (r "^0.7.2") (d #t) (k 0)) (d (n "rgb") (r "^0.8.31") (d #t) (k 0)))) (h "1vkr36hi6yzkshdck9kjmdnl6vc37wbkj0zyvi65kdmn5faqkipr")))
+
+(define-public crate-gifski-lite-1.0.1 (c (n "gifski-lite") (v "1.0.1") (d (list (d (n "crossbeam-channel") (r "^0.5.2") (d #t) (k 0)) (d (n "gif") (r "^0.11.3") (d #t) (k 0)) (d (n "gif-dispose") (r "^3.1.1") (d #t) (k 0)) (d (n "imagequant") (r "=4.0.0-beta.8") (k 0)) (d (n "imgref") (r "^1.9.1") (d #t) (k 0)) (d (n "lodepng") (r "^3.5.2") (d #t) (k 2)) (d (n "natord") (r "^1.0.9") (d #t) (k 0)) (d (n "png") (r "^0.17.2") (d #t) (k 0)) (d (n "quick-error") (r "^2.0.1") (d #t) (k 0)) (d (n "resize") (r "^0.7.2") (d #t) (k 0)) (d (n "rgb") (r "^0.8.31") (d #t) (k 0)))) (h "178hzkzr311s9jrb2p1yql4vg38b2qcib9wq0v6g1vpq9786p2z0")))
+

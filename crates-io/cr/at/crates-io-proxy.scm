@@ -1,0 +1,18 @@
+(define-module (crates-io cr at crates-io-proxy) #:use-module (crates-io))
+
+(define-public crate-crates-io-proxy-0.1.0 (c (n "crates-io-proxy") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "rouille") (r "^3.3") (k 0)) (d (n "ureq") (r "^2.2") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "0m7rs40m8qii83j719z4vyk00fmpfzdvlg5dhxj43iiynhawq2pq")))
+
+(define-public crate-crates-io-proxy-0.1.1 (c (n "crates-io-proxy") (v "0.1.1") (d (list (d (n "env_logger") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "rouille") (r "^3.3") (k 0)) (d (n "ureq") (r "^2.2") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "1kyj65z5nv0480g6j9b825jzb9s0axvx5vbxrafv5jf4xkq6vh1s")))
+
+(define-public crate-crates-io-proxy-0.1.2 (c (n "crates-io-proxy") (v "0.1.2") (d (list (d (n "env_logger") (r "^0.9") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "rouille") (r "^3.6") (k 0)) (d (n "ureq") (r "^2.5") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "030hp8psi6115d2k6zxyrqdfm8d90fnnsjhr663mhyp8y02zl635")))
+
+(define-public crate-crates-io-proxy-0.1.3 (c (n "crates-io-proxy") (v "0.1.3") (d (list (d (n "env_logger") (r "^0.10") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "rouille") (r "^3.6") (k 0)) (d (n "ureq") (r "^2.6") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)))) (h "1dr61qa9rwafj0k24s73sanc8w2n15jr1kqdy3wwas8mjyq4h58z")))
+
+(define-public crate-crates-io-proxy-0.1.4 (c (n "crates-io-proxy") (v "0.1.4") (d (list (d (n "env_logger") (r "^0.10") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "rouille") (r "^3.6") (k 0)) (d (n "ureq") (r "^2.7") (d #t) (k 0)) (d (n "url") (r "^2.4") (d #t) (k 0)))) (h "1bkc45099d1vx1aab6rmr6h65gqzpvcixhx7f0apchdy66bp1mqc")))
+
+(define-public crate-crates-io-proxy-0.2.0 (c (n "crates-io-proxy") (v "0.2.0") (d (list (d (n "env_logger") (r "^0.10") (k 0)) (d (n "httpdate") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)) (d (n "ureq") (r "^2.7") (d #t) (k 0)) (d (n "url") (r "^2.4") (d #t) (k 0)))) (h "0fhlsqi1al1p4gsjl61h3kwz982bc7nlcv5xp7zp3gwlsyvk09d7")))
+
+(define-public crate-crates-io-proxy-0.2.1 (c (n "crates-io-proxy") (v "0.2.1") (d (list (d (n "env_logger") (r "^0.10") (k 0)) (d (n "httpdate") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)) (d (n "ureq") (r "^2.9") (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)))) (h "0nf2bmw9bxyj7b9c70b245wbdcnlhgng3z5qxy44bzapx233dfyq")))
+
+(define-public crate-crates-io-proxy-0.2.2 (c (n "crates-io-proxy") (v "0.2.2") (d (list (d (n "env_logger") (r "^0.11") (k 0)) (d (n "httpdate") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (f (quote ("combined-flags"))) (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)) (d (n "ureq") (r "^2.9") (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)))) (h "0f4yq85rbp3s5mw6kwywm6rbnwr80s58aqgwhgsp5gw7qcydj0lq") (f (quote (("native-certs" "ureq/native-certs"))))))
+

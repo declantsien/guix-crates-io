@@ -1,0 +1,4 @@
+(define-module (crates-io to ke tokengrams) #:use-module (crates-io))
+
+(define-public crate-tokengrams-0.3.0 (c (n "tokengrams") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "funty") (r "^2.0.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.4") (d #t) (k 0)) (d (n "pyo3") (r "^0.20.1") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "quickcheck") (r "^0.9") (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rayon-core") (r "^1.12.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "utf16_literal") (r "^0.2.1") (d #t) (k 0)))) (h "0aknlbaq3vf5a5pp02i7ajrans3p3jcq7z3pff5h7b38q4if28nb")))
+

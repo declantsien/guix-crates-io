@@ -1,0 +1,4 @@
+(define-module (crates-io dp dk dpdk-alloc) #:use-module (crates-io))
+
+(define-public crate-dpdk-alloc-0.0.1 (c (n "dpdk-alloc") (v "0.0.1") (d (list (d (n "dpdk-sys") (r "^0.0.1") (d #t) (t "cfg(any(all(any(target_os = \"android\", target_os = \"linux\"), any(target_arch = \"aarch64\", target_arch = \"arm\", target_arch = \"powerpc64\", target_arch = \"x86\", target_arch = \"x86_64\")), all(target_os = \"freebsd\", target_arch = \"x86_64\")))") (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(any(all(any(target_os = \"android\", target_os = \"linux\"), any(target_arch = \"aarch64\", target_arch = \"arm\", target_arch = \"powerpc64\", target_arch = \"x86\", target_arch = \"x86_64\")), all(target_os = \"freebsd\", target_arch = \"x86_64\")))") (k 0)))) (h "1yasgzjaxymv4hq4axnb6czxndigkic5fzr4j3r5ym3sx5frqmkh")))
+

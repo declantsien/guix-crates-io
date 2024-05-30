@@ -1,0 +1,4 @@
+(define-module (crates-io ap pt apptrail-application-events-sdk) #:use-module (crates-io))
+
+(define-public crate-apptrail-application-events-sdk-0.0.1 (c (n "apptrail-application-events-sdk") (v "0.0.1") (d (list (d (n "backoff") (r "^0.4") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 2)) (d (n "jsonschema") (r "^0.15") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.9") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1a5bfbh8rm5yfn2b3i5dssg8xv2arvp35dkxvmpqqcmv2h94favz")))
+

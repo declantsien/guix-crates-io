@@ -1,0 +1,8 @@
+(define-module (crates-io be vy bevy_wasm_touch_fix) #:use-module (crates-io))
+
+(define-public crate-bevy_wasm_touch_fix-0.1.0 (c (n "bevy_wasm_touch_fix") (v "0.1.0") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_app") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_input") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_log") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_math") (r "^0.12.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("Document" "Element" "HtmlElement" "Node" "Window" "DomRect"))) (d #t) (k 0)))) (h "0ig8aaqp3m65hnw42iyag0cc8n7b0h17vwwha5rnmd5p7x1jjw06")))
+
+(define-public crate-bevy_wasm_touch_fix-0.1.1 (c (n "bevy_wasm_touch_fix") (v "0.1.1") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_app") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_input") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_log") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_math") (r "^0.12.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("Document" "Element" "HtmlElement" "Node" "Window" "DomRect"))) (d #t) (k 0)))) (h "1n7j9izay86f9zskyzjw6zgfzyb0a128mmskpa1q57h4rhb74lmb")))
+
+(define-public crate-bevy_wasm_touch_fix-0.1.2 (c (n "bevy_wasm_touch_fix") (v "0.1.2") (d (list (d (n "bevy") (r "^0.12.0") (d #t) (k 2)) (d (n "bevy_app") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_ecs") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_input") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_log") (r "^0.12.0") (d #t) (k 0)) (d (n "bevy_math") (r "^0.12.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.65") (f (quote ("Document" "Element" "HtmlElement" "Node" "Window" "DomRect"))) (d #t) (k 0)))) (h "0qbp89wzxg97achk3pqva6i0q22gf0j02c3nk259ya22wcmvs1rf")))
+

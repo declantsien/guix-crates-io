@@ -1,0 +1,4 @@
+(define-module (crates-io uv in uvint) #:use-module (crates-io))
+
+(define-public crate-uvint-0.6.0 (c (n "uvint") (v "0.6.0") (d (list (d (n "asynchronous-codec") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "futures-executor") (r "^0.3.4") (d #t) (k 2)) (d (n "futures-io") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.4") (f (quote ("io"))) (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "nom") (r "^6") (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "tokio-util") (r "^0.6") (f (quote ("codec"))) (o #t) (d #t) (k 0)))) (h "10xr76c9rfafiwz4fxj5472d2b9927ag1d3svn5mzy076an13d7v") (f (quote (("std") ("futures" "std" "futures-io" "futures-util") ("codec" "std" "bytes" "tokio-util") ("asynchronous_codec" "std" "bytes" "asynchronous-codec"))))))
+

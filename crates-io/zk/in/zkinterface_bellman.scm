@@ -1,0 +1,10 @@
+(define-module (crates-io zk in zkinterface_bellman) #:use-module (crates-io))
+
+(define-public crate-zkinterface_bellman-1.2.0 (c (n "zkinterface_bellman") (v "1.2.0") (d (list (d (n "bellman") (r "^0.8.0") (d #t) (k 0)) (d (n "bls12_381") (r "^0.3.1") (d #t) (k 0)) (d (n "ff") (r "^0.8.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "pairing") (r "^0.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "zkinterface") (r "^1.2.0") (d #t) (k 0)))) (h "1zyn2bkfs2x4pq61phhnyqyqvng1m3dia5d4m3xr1d5abp5gj7f9") (f (quote (("zokrates" "num-bigint"))))))
+
+(define-public crate-zkinterface_bellman-1.2.1 (c (n "zkinterface_bellman") (v "1.2.1") (d (list (d (n "bellman") (r "^0.8.0") (d #t) (k 0)) (d (n "bls12_381") (r "^0.3.1") (d #t) (k 0)) (d (n "ff") (r "^0.8.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "pairing") (r "^0.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "zkinterface") (r "^1.2.1") (d #t) (k 0)))) (h "1ip1h9pv09xxj767vg74k1vhzxn1x5zw0rxdz62lh2r7v7wb2xz5") (f (quote (("zokrates" "num-bigint"))))))
+
+(define-public crate-zkinterface_bellman-1.3.0 (c (n "zkinterface_bellman") (v "1.3.0") (d (list (d (n "bellman") (r "^0.8.0") (d #t) (k 0)) (d (n "bls12_381") (r "^0.3.1") (d #t) (k 0)) (d (n "ff") (r "^0.8.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "pairing") (r "^0.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "zkinterface") (r "^1.3.0") (d #t) (k 0)))) (h "0cx8vjri1r64jl7i5jxzndd4dj8czcwmkrbf0ildy34dj9k7srzq") (f (quote (("zokrates" "num-bigint"))))))
+
+(define-public crate-zkinterface_bellman-1.3.2 (c (n "zkinterface_bellman") (v "1.3.2") (d (list (d (n "bellman") (r "^0.8.0") (d #t) (k 0)) (d (n "bls12_381") (r "^0.3.1") (d #t) (k 0)) (d (n "ff") (r "^0.8.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "pairing") (r "^0.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "zkinterface") (r "^1.3.2") (d #t) (k 0)))) (h "1wzaklhgqic9aq5ppzzgpph1kr42y8pcs25598h8nqn8xg1v55rk") (f (quote (("zokrates" "num-bigint"))))))
+

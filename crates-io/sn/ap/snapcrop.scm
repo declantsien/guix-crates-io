@@ -1,0 +1,6 @@
+(define-module (crates-io sn ap snapcrop) #:use-module (crates-io))
+
+(define-public crate-snapcrop-0.1.0 (c (n "snapcrop") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "blake3") (r "^1.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fast_image_resize") (r "^2.7.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.6") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.1") (d #t) (k 0)))) (h "0xl8xv4p216pp1y2647wv9691bv7zjjpr69356naplmaxbybrzw7")))
+
+(define-public crate-snapcrop-0.1.1 (c (n "snapcrop") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "blake3") (r "^1.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fast_image_resize") (r "^2.7.3") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.6") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.1") (d #t) (k 0)))) (h "00cvh7jdc8ybya0qfdclrz7kd3m0f7fixigjdfkji0xadhvzz89r")))
+

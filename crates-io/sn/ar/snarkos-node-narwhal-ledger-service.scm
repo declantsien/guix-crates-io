@@ -1,0 +1,4 @@
+(define-module (crates-io sn ar snarkos-node-narwhal-ledger-service) #:use-module (crates-io))
+
+(define-public crate-snarkos-node-narwhal-ledger-service-2.2.0 (c (n "snarkos-node-narwhal-ledger-service") (v "2.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "indexmap") (r "^2.0") (f (quote ("serde" "rayon"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "snarkvm") (r "=0.16.1") (f (quote ("circuit" "console" "rocks"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("macros" "rt-multi-thread"))) (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0kqdb5rz2a2f26f3a8177b9q7ll3y2w6y2i0pyk8bzy0nlm8fkqk") (f (quote (("translucent" "ledger") ("test" "mock" "translucent") ("prover") ("mock" "parking_lot" "tracing") ("ledger-write") ("ledger" "tokio" "tracing") ("default"))))))
+

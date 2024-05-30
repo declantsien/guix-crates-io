@@ -1,0 +1,6 @@
+(define-module (crates-io gi t- git-user) #:use-module (crates-io))
+
+(define-public crate-git-user-0.1.1 (c (n "git-user") (v "0.1.1") (d (list (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "console") (r "^0.14.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.9") (f (quote ("termination"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "16i4lf475hxhn5hginngh2zrzcjqq8r8rm2c0qvf46kkf0mbxwl4")))
+
+(define-public crate-git-user-0.1.2 (c (n "git-user") (v "0.1.2") (d (list (d (n "clap") (r "^3.0.0-beta.2") (d #t) (k 0)) (d (n "console") (r "^0.14.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.9") (f (quote ("termination"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.8.0") (d #t) (k 0)) (d (n "dirs") (r "^3.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum") (r "^0.20") (d #t) (k 0)) (d (n "strum_macros") (r "^0.20") (d #t) (k 0)) (d (n "toml") (r "^0.5.8") (f (quote ("preserve_order"))) (d #t) (k 0)))) (h "0ldy9npi3kph6i5090c0sv9iz78mks1h9280cglbmjs5abgh10dw")))
+

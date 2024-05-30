@@ -1,0 +1,26 @@
+(define-module (crates-io fr ap frappe) #:use-module (crates-io))
+
+(define-public crate-frappe-0.1.0 (c (n "frappe") (v "0.1.0") (d (list (d (n "either") (r "^1.0.3") (o #t) (d #t) (k 0)))) (h "0b3ysbk4914zhiv5fxs0kyq23rfgd226wfmiwzpq7bq9i3fyn4xh") (f (quote (("default" "either"))))))
+
+(define-public crate-frappe-0.2.0 (c (n "frappe") (v "0.2.0") (d (list (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r ">= 0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)))) (h "0pqzhn2yaaxhmpz75rmimxfpb9zdyx4zijih4fdk891sfh36vy7k") (f (quote (("default" "either"))))))
+
+(define-public crate-frappe-0.3.0 (c (n "frappe") (v "0.3.0") (d (list (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r ">= 0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)))) (h "1qwiqvy1m4fd58qddh9qhyhgpacglbdlkqkk3w1lvr0dma9hdwmd")))
+
+(define-public crate-frappe-0.3.1 (c (n "frappe") (v "0.3.1") (d (list (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r ">= 0.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.3.16") (d #t) (k 2)))) (h "1bsa9i4d8m9wrfpbb3z6ibmswg34lxpp4fcsc2qynzwxlzivgm03")))
+
+(define-public crate-frappe-0.4.0 (c (n "frappe") (v "0.4.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "061sdqnnqq3sibfy3vhj0kjpjmrjxz6dmyw4lvy5cxbj1242zwxx")))
+
+(define-public crate-frappe-0.4.1 (c (n "frappe") (v "0.4.1") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "04m34zw0p3fj8w8bbd51j9w1ws499ql9yyfrflxzjc3k06dw2wr0") (f (quote (("default" "either" "parking_lot"))))))
+
+(define-public crate-frappe-0.4.2 (c (n "frappe") (v "0.4.2") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "0ryfvwh28in0yhgcydkj8qniv6kic0k66m441w7j6yrik1d2f8pa") (f (quote (("default" "either" "parking_lot"))))))
+
+(define-public crate-frappe-0.4.3 (c (n "frappe") (v "0.4.3") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "1f8hdgaivqw747ld5k5zk597zj4f0zj59y2xhym91p9ia4nvcx2v") (f (quote (("default" "either" "parking_lot" "crossbeam-utils"))))))
+
+(define-public crate-frappe-0.4.4 (c (n "frappe") (v "0.4.4") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "11bdr5qf8s9fh54511784ykhvab82kxlksj98fx3sz6rh9qvyw06") (f (quote (("default" "either" "parking_lot" "crossbeam-utils"))))))
+
+(define-public crate-frappe-0.4.5 (c (n "frappe") (v "0.4.5") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "futures-preview") (r "^0.3.0-alpha.13") (o #t) (d #t) (k 0)) (d (n "lazycell") (r "^1.2.1") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "1fiibmnalb9j8vqimbzyjayd2isx3lsscm1cf1iz5ricpzb4xk9f") (f (quote (("nightly" "futures-preview") ("default" "either" "parking_lot" "crossbeam-utils" "lazycell"))))))
+
+(define-public crate-frappe-0.4.6 (c (n "frappe") (v "0.4.6") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "futures-preview") (r "^0.3.0-alpha.17") (d #t) (k 2)) (d (n "lazycell") (r "^1.2.1") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "0954911gr8lci76nj7hllxdxxjrzjafniycw518swh4pcvh47kgb") (f (quote (("nightly") ("default" "either" "parking_lot" "crossbeam-utils" "lazycell"))))))
+
+(define-public crate-frappe-0.4.7 (c (n "frappe") (v "0.4.7") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "either") (r "^1.1.0") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3.5") (d #t) (k 2)) (d (n "lazycell") (r "^1.2.1") (o #t) (d #t) (k 0)) (d (n "maybe-owned") (r "^0.3.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.6.1") (d #t) (k 2)))) (h "13xxzkyzyp1lczipf5326klp07ci5c227kzm5glqqywv5lqj2xmq") (f (quote (("nightly") ("default" "either" "parking_lot" "crossbeam-utils" "lazycell"))))))
+

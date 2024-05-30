@@ -1,0 +1,10 @@
+(define-module (crates-io ta rt tarts) #:use-module (crates-io))
+
+(define-public crate-tarts-0.1.2 (c (n "tarts") (v "0.1.2") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "06w3mfvdm2ywqhv03hkrjpii43qnr9kwrqw9qaw8a9xga4137wr7")))
+
+(define-public crate-tarts-0.1.3 (c (n "tarts") (v "0.1.3") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0zmh4h1p5bqkdjmcimr61lc3558bd5qk55fm4f26rslslgxkhzrf")))
+
+(define-public crate-tarts-0.1.4 (c (n "tarts") (v "0.1.4") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0zkgxc2jn2v6c2385ic4m5mv7s5afa6id9fgxc550mgnfghqrsbi")))
+
+(define-public crate-tarts-0.1.5 (c (n "tarts") (v "0.1.5") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "pico-args") (r "^0.5") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1nzdb0jn5yv70w5ylx1ai373k140jzx2qf9nmsgzplrvswi0s1ad")))
+

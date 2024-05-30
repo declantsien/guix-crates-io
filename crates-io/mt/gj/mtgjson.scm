@@ -1,0 +1,6 @@
+(define-module (crates-io mt gj mtgjson) #:use-module (crates-io))
+
+(define-public crate-mtgjson-0.1.0 (c (n "mtgjson") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "semver") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_path_to_error") (r "^0.1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)) (d (n "uuid") (r "^1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1d1x5h2syhdhbxmqj6n933scrp0il8jmzw979f56p6jsp7wc0v7l")))
+
+(define-public crate-mtgjson-0.2.0 (c (n "mtgjson") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "semver") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_path_to_error") (r "^0.1") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0lbadmjgfw2lglkjw7sk9gi8w14z65dhm2614y7fich1x86nviwg")))
+

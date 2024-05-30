@@ -1,0 +1,8 @@
+(define-module (crates-io mu n_ mun_syntax) #:use-module (crates-io))
+
+(define-public crate-mun_syntax-0.2.0 (c (n "mun_syntax") (v "0.2.0") (d (list (d (n "abi") (r "= 0.2.0") (d #t) (k 0) (p "mun_abi")) (d (n "drop_bomb") (r "^0.1.4") (d #t) (k 0)) (d (n "insta") (r "^0.12.0") (d #t) (k 2)) (d (n "rowan") (r "^0.6.1") (d #t) (k 0)) (d (n "smol_str") (r "^0.1.12") (f (quote ("serde"))) (d #t) (k 0)) (d (n "text_unit") (r "^0.1.6") (f (quote ("serde"))) (d #t) (k 0)) (d (n "unicode-xid") (r "^0.1.0") (d #t) (k 0)))) (h "0brzgzgzmpkhdrd1vw5vafcjrcmvzg503zfzpbjr9kgjbacvpas5")))
+
+(define-public crate-mun_syntax-0.3.0 (c (n "mun_syntax") (v "0.3.0") (d (list (d (n "abi") (r "=0.3.0") (d #t) (k 0) (p "mun_abi")) (d (n "drop_bomb") (r "^0.1.4") (d #t) (k 0)) (d (n "insta") (r "^0.16") (d #t) (k 2)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "ra_ap_text_edit") (r "^0.0.35") (d #t) (k 0)) (d (n "rowan") (r "^0.10.0") (d #t) (k 0)) (d (n "smol_str") (r "^0.1.17") (f (quote ("serde"))) (d #t) (k 0)) (d (n "text-size") (r "^1.1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "unicode-xid") (r "^0.1.0") (d #t) (k 0)))) (h "120dra11r9vgr98czk85ymrqxl4c5sr1v0pkn2hxp2wgk1i705ji")))
+
+(define-public crate-mun_syntax-0.4.0 (c (n "mun_syntax") (v "0.4.0") (d (list (d (n "drop_bomb") (r "^0.1.4") (k 0)) (d (n "insta") (r "^1.12.0") (k 2)) (d (n "itertools") (r "^0.10.0") (k 0)) (d (n "mun_abi") (r "^0.4.0") (d #t) (k 0)) (d (n "ra_ap_text_edit") (r "^0.0.142") (k 0)) (d (n "rowan") (r "^0.15.5") (k 0)) (d (n "smol_str") (r "^0.1.21") (f (quote ("serde" "std"))) (k 0)) (d (n "text-size") (r "^1.1.0") (f (quote ("serde"))) (k 0)) (d (n "unicode-xid") (r "^0.2.3") (k 0)))) (h "02dfx1x2hd7xba1mxyrkf305kl4ky8f4w3az7ldl9f0lf5a330zd")))
+

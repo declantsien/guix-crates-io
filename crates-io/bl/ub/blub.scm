@@ -1,0 +1,4 @@
+(define-module (crates-io bl ub blub) #:use-module (crates-io))
+
+(define-public crate-blub-0.0.1 (c (n "blub") (v "0.0.1") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "clap") (r "^2.31.2") (f (quote ("color" "suggestions" "vec_map"))) (d #t) (k 0)) (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "git2") (r "^0.6") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "hyper-tls") (r "^0.1.3") (d #t) (k 0)) (d (n "mdcat") (r "^0.8.0") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.1.2") (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.37") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.13") (d #t) (k 0)) (d (n "syntect") (r "^2.0.0") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "0ww67r1hh4w1bhjz4pra37xrz8wh93jk2iifdky00mrmbr1ffvxw") (y #t)))
+

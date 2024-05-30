@@ -1,0 +1,4 @@
+(define-module (crates-io x1 #{1-}# x11-keysyms) #:use-module (crates-io))
+
+(define-public crate-x11-keysyms-0.1.0 (c (n "x11-keysyms") (v "0.1.0") (h "0h1wdn50zy7b96y0i36kyynlva2b8jdnrcpjgxjmqs4pp62j4in6") (f (quote (("vietnamese") ("thai") ("technical") ("special") ("sinhala") ("publishing") ("miscellany") ("mathematical") ("latin9") ("latin8") ("latin4") ("latin3") ("latin2") ("latin1") ("korean") ("katakana") ("hebrew") ("greek") ("georgian") ("default") ("cyrillic") ("currency") ("caucasus") ("braille") ("b-keys") ("armenian") ("arabic") ("apl") ("all" "3270" "apl" "arabic" "armenian" "b-keys" "braille" "caucasus" "currency" "cyrillic" "georgian" "greek" "hebrew" "katakana" "korean" "latin1" "latin2" "latin3" "latin4" "latin8" "latin9" "mathematical" "miscellany" "publishing" "sinhala" "special" "technical" "thai" "vietnamese") ("3270"))))))
+

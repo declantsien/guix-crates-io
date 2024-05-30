@@ -1,0 +1,30 @@
+(define-module (crates-io qu ic quick-js) #:use-module (crates-io))
+
+(define-public crate-quick-js-0.1.0-alpha.4 (c (n "quick-js") (v "0.1.0-alpha.4") (d (list (d (n "libquickjs-sys") (r "^0.1.0") (d #t) (k 0)))) (h "1cq6liai87wzbaiaj315m920yj3ga4zyix8r45rjixnwi9rhh98y")))
+
+(define-public crate-quick-js-0.1.0 (c (n "quick-js") (v "0.1.0") (d (list (d (n "libquickjs-sys") (r "^0.1.0") (d #t) (k 0)))) (h "1brg8pvdl9f83lc38yvc2d1328nysykvsizl3b59xhgx4wqwxx2s")))
+
+(define-public crate-quick-js-0.2.0 (c (n "quick-js") (v "0.2.0") (d (list (d (n "libquickjs-sys") (r "^0.2.0") (d #t) (k 0)))) (h "0281069bv0iaja3wg29pkms724igkcxqy9yffawzg9azyc57ms6a")))
+
+(define-public crate-quick-js-0.2.1 (c (n "quick-js") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r "^0.3.0") (d #t) (k 0)))) (h "1di7al0cmw19il9mi47vf2rm5ap9yz0bm4a4ysmmns416aql6wy9") (f (quote (("patched" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.2.2 (c (n "quick-js") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r "^0.3.0") (d #t) (k 0)))) (h "1mx1p3y38nsrr0235vrjhq7ssg4h81f1im49f5d24ysdzcpf0v21") (f (quote (("patched" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.2.3 (c (n "quick-js") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r "^0.3.0") (d #t) (k 0)))) (h "04adpdpw05rqaczfjvz7z8vdk0yq370m0l4v3x04dk5qh7ydjs4i") (f (quote (("patched" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.3.0 (c (n "quick-js") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "1rixwhx062j0gnvb9mk39zmv4kg80w93xx2qva3wajrd1sbv5gs4") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/bignum" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.3.1 (c (n "quick-js") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r "> 0.3.0, < 0.6.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "0948h4bjs9wa3qb6s70ld2fr26dn3mk4430149lab78vhfbc1j45") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.3.2 (c (n "quick-js") (v "0.3.2") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r "> 0.3.0, < 0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "1hg17xvlj4ldjs5hrzfs6yhicfdzvgy9vbk7crs350pad78v9ij5") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.3.3 (c (n "quick-js") (v "0.3.3") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r ">0.3.0, <0.7.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "0sraczlw23dgb73vkpkg31n508v39qm7fpwcn9b490y5pcp67v09") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.3.4 (c (n "quick-js") (v "0.3.4") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r ">0.3.0, <0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "08sw44fk95pbdc9smmns48d5249792hais9s135d7ryny6wci504") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.3.6 (c (n "quick-js") (v "0.3.6") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r ">0.3.0, <0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "058cib8d02db72p1f9sr5ggg3p21f244hc8bvz5q47vlcq68xvl2") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.4.0 (c (n "quick-js") (v "0.4.0") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r ">=0.9.0, <0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "1gkx9v1nvd0vvl0ihk20ph73hqgq6lf712sa7lwamv15vglwkjdk") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+
+(define-public crate-quick-js-0.4.1 (c (n "quick-js") (v "0.4.1") (d (list (d (n "chrono") (r "^0.4.7") (o #t) (d #t) (k 0)) (d (n "libquickjs-sys") (r ">=0.9.0, <0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (o #t) (d #t) (k 0)) (d (n "num-bigint") (r "^0.2.2") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 0)))) (h "0pryv1xra4jrmp35kabaq4m5hkx70mhd0r166fdspx00rgplrjqr") (f (quote (("patched" "libquickjs-sys/patched") ("bigint" "num-bigint" "num-traits" "libquickjs-sys/patched"))))))
+

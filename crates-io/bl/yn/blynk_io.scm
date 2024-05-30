@@ -1,0 +1,14 @@
+(define-module (crates-io bl yn blynk_io) #:use-module (crates-io))
+
+(define-public crate-blynk_io-0.0.1 (c (n "blynk_io") (v "0.0.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "restruct") (r "^0.1.1") (d #t) (k 0)) (d (n "restruct_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (o #t) (d #t) (k 0)))) (h "02b2m5jzdymja2kn4s0wkd6m180r364hpsyc61j1g3jjivdcwb9l") (f (quote (("build-binary" "simple_logger"))))))
+
+(define-public crate-blynk_io-0.1.0 (c (n "blynk_io") (v "0.1.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "restruct") (r "^0.1.1") (d #t) (k 0)) (d (n "restruct_derive") (r "^0.1.1") (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (o #t) (d #t) (k 0)))) (h "1jk893gs8vf8jwm6a1gd724qxw5h7krf2lcdqsfx4ll8jz0dga1n") (f (quote (("build-binary" "simple_logger"))))))
+
+(define-public crate-blynk_io-0.1.1 (c (n "blynk_io") (v "0.1.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "restruct") (r "^0.1.2") (d #t) (k 0)) (d (n "restruct_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (o #t) (d #t) (k 0)))) (h "13iiy0ivpwsyi02bp13pmnfz1zljbxqxkdy44hpkqy5yc8fc0x2y") (f (quote (("build-binary" "simple_logger"))))))
+
+(define-public crate-blynk_io-0.1.2 (c (n "blynk_io") (v "0.1.2") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "restruct") (r "^0.1.2") (d #t) (k 0)) (d (n "restruct_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (o #t) (d #t) (k 0)))) (h "0r1wvdmgcwqnzdmm6pxr5kr101jvs32fxvl427j9in4zya3amky2") (f (quote (("build-binary" "simple_logger"))))))
+
+(define-public crate-blynk_io-0.2.0 (c (n "blynk_io") (v "0.2.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "restruct") (r "^0.1.2") (d #t) (k 0)) (d (n "restruct_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (o #t) (d #t) (k 0)))) (h "0wgvi71d6r5x0zx9b3w2wi7cvl2jdrjmk4073hmj4mizr36xzfy1") (f (quote (("build-binary" "simple_logger"))))))
+
+(define-public crate-blynk_io-0.3.0 (c (n "blynk_io") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.56") (o #t) (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num_enum") (r "^0.5.6") (d #t) (k 0)) (d (n "restruct") (r "^0.1.2") (d #t) (k 0)) (d (n "restruct_derive") (r "^0.1.2") (d #t) (k 0)) (d (n "simple_logger") (r "^2.1.0") (o #t) (d #t) (k 0)) (d (n "smol") (r "^1.2") (o #t) (d #t) (k 0)) (d (n "smol-potat") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (o #t) (d #t) (k 0)))) (h "1fislc8855f39srpqd81n6smsr1a91v6sadb215p9jj8g74zw2kq") (f (quote (("build-binary" "simple_logger") ("async" "smol" "smol-potat" "async-trait" "anyhow" "thiserror"))))))
+

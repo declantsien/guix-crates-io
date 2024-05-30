@@ -1,0 +1,6 @@
+(define-module (crates-io ay ak ayaka-script) #:use-module (crates-io))
+
+(define-public crate-ayaka-script-0.2.0 (c (n "ayaka-script") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "ayaka-primitive") (r "^0.2.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19") (o #t) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19") (f (quote ("lexer"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "trylog") (r "^0.3") (o #t) (d #t) (k 0)))) (h "0nj4js7832r0bxfg1s93ww4if4nvp3k517cc5h9ajyr3xcq086jg") (f (quote (("parser" "lalrpop-util" "lalrpop" "trylog") ("default"))))))
+
+(define-public crate-ayaka-script-0.3.0 (c (n "ayaka-script") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "ayaka-primitive") (r "^0.3.0") (d #t) (k 0)) (d (n "lalrpop") (r "^0.20") (o #t) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.20") (f (quote ("lexer"))) (o #t) (d #t) (k 0)) (d (n "regex") (r "^1") (f (quote ("unicode-perl"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "trylog") (r "^0.3") (o #t) (d #t) (k 0)))) (h "0l2vwdgq3m1fmpsv2wj5ri7rz3acwdr105dyyg8ccg2k3ci9a9b9") (f (quote (("parser" "lalrpop-util" "lalrpop" "trylog") ("default"))))))
+

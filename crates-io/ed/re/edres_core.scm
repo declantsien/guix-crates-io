@@ -1,0 +1,4 @@
+(define-module (crates-io ed re edres_core) #:use-module (crates-io))
+
+(define-public crate-edres_core-0.6.0 (c (n "edres_core") (v "0.6.0") (d (list (d (n "case") (r "^1.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.9") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (f (quote ("preserve_order"))) (o #t) (d #t) (k 0)))) (h "1fpwsamxmbr5cgk2m8r7f3y383bk8d4v02g9w3029xranc3mh2gz") (f (quote (("default")))) (s 2) (e (quote (("yaml" "dep:serde_yaml") ("toml" "dep:toml") ("json" "dep:serde_json"))))))
+

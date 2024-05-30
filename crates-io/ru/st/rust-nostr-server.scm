@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust-nostr-server) #:use-module (crates-io))
+
+(define-public crate-rust-nostr-server-0.1.0 (c (n "rust-nostr-server") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "monoio") (r "^0.2.3") (d #t) (k 0)) (d (n "nostr") (r "^0.29.0") (d #t) (k 0)) (d (n "nostr-database") (r "^0.29.0") (d #t) (k 0)) (d (n "nostr-rocksdb") (r "^0.29.0") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "speedy") (r "^0.8.7") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.21.0") (d #t) (k 0)))) (h "1wy1p8w98is2x7xnma682sp64indw030fih3xg08wmz3abqj8r5g")))
+

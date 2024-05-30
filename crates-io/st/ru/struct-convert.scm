@@ -1,0 +1,32 @@
+(define-module (crates-io st ru struct-convert) #:use-module (crates-io))
+
+(define-public crate-struct-convert-0.1.0 (c (n "struct-convert") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0lkal0f4b8j4bmhb82pgwscy3926acm6mq954971zx9p0x5fmpaf")))
+
+(define-public crate-struct-convert-0.1.1 (c (n "struct-convert") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1vv5v8pwzabzqyx19ca4pwhb2h4rkfln7dzavplhad9408s330fb")))
+
+(define-public crate-struct-convert-1.0.1 (c (n "struct-convert") (v "1.0.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0nq4qg2h0gs22pydw2625jrji2xb6rb3yas8cw9z79lmpg5bdylp")))
+
+(define-public crate-struct-convert-1.1.1 (c (n "struct-convert") (v "1.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "168qk565mzalxsxmiqcw6l7svxsgw38xahpg1a7axjv7zk5lw039")))
+
+(define-public crate-struct-convert-1.2.1 (c (n "struct-convert") (v "1.2.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1hqkpy5hm3alb2c3iscrh4w4zz6khccla0r65b02m73zwf9asish")))
+
+(define-public crate-struct-convert-1.2.2 (c (n "struct-convert") (v "1.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "124is6z7g69k9g0rdqsak5lgxym1dr1n71dc1mj34a6zxpc4y730")))
+
+(define-public crate-struct-convert-1.2.3 (c (n "struct-convert") (v "1.2.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1g80c11sc0a9vjjwx5yg8gpc6d2rz63y89fk4jc39mbbk3kdig86")))
+
+(define-public crate-struct-convert-1.2.4 (c (n "struct-convert") (v "1.2.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1633175ymzxzgv04vixh92ps6bdr4vihja03rqpkrfg6simmg4c9") (y #t)))
+
+(define-public crate-struct-convert-1.2.5 (c (n "struct-convert") (v "1.2.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "17ypjayyzvh2m5kqqzhvg6abybvi28wgzs9aycsbc0wfh13sd2fp")))
+
+(define-public crate-struct-convert-1.2.6 (c (n "struct-convert") (v "1.2.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "time") (r "^0.3.20") (d #t) (k 0)))) (h "14kz74p077qdzfxg1siwylklabwbmhsap2v0rwvq12z9i0is8c57")))
+
+(define-public crate-struct-convert-1.2.7 (c (n "struct-convert") (v "1.2.7") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "time") (r "^0.3.20") (d #t) (k 0)))) (h "1x6ppd4yal8hzcf1csrpcnxj8i2g3f2s403szpfycrl10m4ql8ym")))
+
+(define-public crate-struct-convert-1.2.8 (c (n "struct-convert") (v "1.2.8") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "time") (r "^0.3.20") (d #t) (k 0)))) (h "09s32lm0hbzb37rwdx3f96navnzqx06ck5gws1jhnylzgn450df4")))
+
+(define-public crate-struct-convert-1.2.9 (c (n "struct-convert") (v "1.2.9") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "time") (r "^0.3.20") (d #t) (k 0)))) (h "1vgwaqv4caghsjrkll83m3qvhqwhbdr87z2jfmyiddsk8w10hvwm")))
+
+(define-public crate-struct-convert-1.3.0 (c (n "struct-convert") (v "1.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "time") (r "^0.3.20") (d #t) (k 0)))) (h "03dnvqiq0hf5cyyk2767dp71nzs0g7fpim2mfnnrl4g4pi29dv41")))
+
+(define-public crate-struct-convert-1.3.1 (c (n "struct-convert") (v "1.3.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "time") (r "^0.3.20") (d #t) (k 0)))) (h "07w094vqn3dxs8bl8ridp061bxbv190cmivsa9k20zncm5npz6cd")))
+

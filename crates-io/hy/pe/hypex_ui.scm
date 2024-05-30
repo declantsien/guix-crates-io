@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hypex_ui) #:use-module (crates-io))
+
+(define-public crate-hypex_ui-0.22.0 (c (n "hypex_ui") (v "0.22.0") (d (list (d (n "eframe") (r "^0.22") (o #t) (k 0)) (d (n "eframe") (r "^0.22") (f (quote ("wgpu"))) (k 2)) (d (n "egui") (r "^0.22") (d #t) (k 0)) (d (n "egui_extras") (r "^0.22") (d #t) (k 0)) (d (n "egui_tiles") (r "^0.2") (d #t) (k 2)) (d (n "image") (r "^0.24") (f (quote ("png"))) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "re_log") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.25") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.25") (d #t) (k 0)) (d (n "sublime_fuzzy") (r "^0.7") (d #t) (k 0)))) (h "1hc943kn23nq97gsjx4gii7hjaanmp7a6ad4hdd1qzakq6xrzkq2") (f (quote (("default" "eframe")))) (s 2) (e (quote (("eframe" "dep:eframe"))))))
+

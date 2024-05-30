@@ -1,0 +1,14 @@
+(define-module (crates-io bi nc bincode-json) #:use-module (crates-io))
+
+(define-public crate-bincode-json-0.1.0 (c (n "bincode-json") (v "0.1.0") (d (list (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "indexmap") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0b5a7hk14y7i21ksn5yg8dlgnfy2ag3xr6r4ywk0vsc8684d0zfb") (y #t) (s 2) (e (quote (("preserve-order" "dep:indexmap") ("json" "dep:serde_json"))))))
+
+(define-public crate-bincode-json-0.1.1 (c (n "bincode-json") (v "0.1.1") (d (list (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "indexmap") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1djcgn2w13x333mvi4v7y7l89bqdmi88d2v38639lwsdrlpkzwzy") (y #t) (s 2) (e (quote (("preserve-order" "dep:indexmap") ("json" "dep:serde_json"))))))
+
+(define-public crate-bincode-json-0.1.2 (c (n "bincode-json") (v "0.1.2") (d (list (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "indexmap") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "16x92zvrg634yy3mc28jlbjdhws2br1zqwkjq53wgi70avki90ms") (y #t) (s 2) (e (quote (("preserve-order" "dep:indexmap") ("json" "dep:serde_json"))))))
+
+(define-public crate-bincode-json-0.1.3 (c (n "bincode-json") (v "0.1.3") (d (list (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1pfyz6c3d3h1fyci8pyg4xp2a5bsxrn09dypx07nddiy08ffdcgq") (y #t) (s 2) (e (quote (("json" "dep:serde_json" "dep:base64"))))))
+
+(define-public crate-bincode-json-0.1.4 (c (n "bincode-json") (v "0.1.4") (d (list (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "105bpi8acwr89l6fn4aj0r88gdyrdfdk0r29bmwsizlx6fkglvcs") (y #t) (s 2) (e (quote (("json" "dep:serde_json" "dep:base64"))))))
+
+(define-public crate-bincode-json-0.1.5 (c (n "bincode-json") (v "0.1.5") (d (list (d (n "base64") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^2.0.0-rc.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)))) (h "1s9cimxh6hnkpy2l8fim382vkmd6kshjmd8pdkk16cfzm8qbmi60") (y #t) (s 2) (e (quote (("json" "dep:serde_json" "dep:base64"))))))
+

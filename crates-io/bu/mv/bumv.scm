@@ -1,0 +1,10 @@
+(define-module (crates-io bu mv bumv) #:use-module (crates-io))
+
+(define-public crate-bumv-0.1.0 (c (n "bumv") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "directories-next") (r "^2.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.10") (d #t) (k 0)) (d (n "rprompt") (r "^2.0.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "19aapa4a2hbgh6yfysiiky21f3x46j4m7sf86yncamjnqs1j0a4w")))
+
+(define-public crate-bumv-0.1.1 (c (n "bumv") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "directories-next") (r "^2.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.10") (d #t) (k 0)) (d (n "rprompt") (r "^2.0.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "1vh1mjb33lg2h8hvbwzmbhs31vgvpryrvg8ffjv9yb9rjvfz8xcr")))
+
+(define-public crate-bumv-0.2.0 (c (n "bumv") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "directories-next") (r "^2.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.10") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.3") (d #t) (k 0)) (d (n "rprompt") (r "^2.0.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "12hrgl2y0acgip84hz9p8nrydbz0k7nlvf97700cj1p7gfsbdj96")))
+
+(define-public crate-bumv-0.2.1 (c (n "bumv") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "directories-next") (r "^2.0") (d #t) (k 0)) (d (n "ignore") (r "^0.4.10") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.3") (d #t) (k 0)) (d (n "rprompt") (r "^2.0.2") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "walkdir") (r "^2.3") (d #t) (k 0)))) (h "04c7dg88y37m57z8h6w8vvzkcw46wjlvdc88m8i167brrik1pjmc")))
+

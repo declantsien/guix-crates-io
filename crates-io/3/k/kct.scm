@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# k kct) #:use-module (crates-io))
+
+(define-public crate-kct-0.2.0 (c (n "kct") (v "0.2.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.17") (d #t) (k 0)) (d (n "kct_helper") (r "^0.2.0") (d #t) (k 0)) (d (n "kct_kube") (r "^0.2.0") (d #t) (k 0)) (d (n "kct_package") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tar") (r "^0.4.30") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "14pxqpvyjbjrpyfqxg7xcywa8rwl040hilwggkiy623cc13vphx6")))
+
+(define-public crate-kct-0.3.1 (c (n "kct") (v "0.3.1") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.17") (d #t) (k 0)) (d (n "kct_helper") (r "^0.3.1") (d #t) (k 0)) (d (n "kct_kube") (r "^0.3.1") (d #t) (k 0)) (d (n "kct_package") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tar") (r "^0.4.30") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "16rgdghbpnglrij03zx1x0vy1dwpns3xbpx337hps8xghpi8qim7")))
+
+(define-public crate-kct-0.4.0 (c (n "kct") (v "0.4.0") (d (list (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.17") (d #t) (k 0)) (d (n "kct_helper") (r "^0.4.0") (d #t) (k 0)) (d (n "kct_kube") (r "^0.4.0") (d #t) (k 0)) (d (n "kct_package") (r "^0.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.115") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "tar") (r "^0.4.30") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1ab4zxwfhdnm22ygrn65f9hiyglb0hrh0r0ihj9w0mnpnzhr2yvd")))
+

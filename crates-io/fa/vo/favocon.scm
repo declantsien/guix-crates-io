@@ -1,0 +1,10 @@
+(define-module (crates-io fa vo favocon) #:use-module (crates-io))
+
+(define-public crate-favocon-0.1.0 (c (n "favocon") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "console") (r "^0.7.5") (d #t) (k 0)) (d (n "ico") (r "^0.1.0") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0.1") (d #t) (k 2)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)))) (h "0w09n65mnzx2yd3zpzkkdc5kgzgzl81njfpip9c4wnvbfy1jbygq")))
+
+(define-public crate-favocon-1.0.0 (c (n "favocon") (v "1.0.0") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "console") (r "^0.7.5") (d #t) (k 0)) (d (n "ico") (r "^0.1.0") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0.1") (d #t) (k 2)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "0xkglg5dbgf0pw1lj9cysan61bgl7l8xn3h5xjyzpw86h5yjmh2k")))
+
+(define-public crate-favocon-1.0.1 (c (n "favocon") (v "1.0.1") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "console") (r "^0.7.5") (d #t) (k 0)) (d (n "ico") (r "^0.1.0") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 2)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1i0liajc1y2zn2y8gyx1f3ibgn54d025514ch64h89vggixzrykw")))
+
+(define-public crate-favocon-1.1.0 (c (n "favocon") (v "1.1.0") (d (list (d (n "assert_cmd") (r "^0.11.1") (d #t) (k 2)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "console") (r "^0.7.5") (d #t) (k 0)) (d (n "ico") (r "^0.1.0") (d #t) (k 0)) (d (n "image") (r "^0.21.1") (d #t) (k 0)) (d (n "predicates") (r "^1.0.1") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 2)) (d (n "spinners") (r "^1.0.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 0)))) (h "1lyxv29g0vm50n1dzw34zk8q7sf42cjcjmmm18klppdmczs3inv5")))
+

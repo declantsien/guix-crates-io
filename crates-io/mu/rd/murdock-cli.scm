@@ -1,0 +1,4 @@
+(define-module (crates-io mu rd murdock-cli) #:use-module (crates-io))
+
+(define-public crate-murdock-cli-0.1.0 (c (n "murdock-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^3.2.6") (f (quote ("cargo" "env"))) (d #t) (k 0)) (d (n "derive_builder") (r "^0.11.2") (d #t) (k 0)) (d (n "indexmap") (r "^1.9.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "murdock-api") (r "^1.0.0") (d #t) (k 0)) (d (n "platform-dirs") (r "^0.3.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.24") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1lf1s7wjbji69qmxmc6rx7miy20vq364762l48x7543xx4710aqq")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# h hbx) #:use-module (crates-io))
+
+(define-public crate-hbx-0.1.2 (c (n "hbx") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "atomicwrites") (r "^0.4.1") (d #t) (k 0)) (d (n "clap") (r "^4.3.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "md-5") (r "^0.10.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("rc" "derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "ssh2") (r "^0.9.4") (f (quote ("vendored-openssl"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.5.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "0gqh57bmgz0f2k19mz13p1zqv0cr51rq2wivrhmhq3lb9ahrhaqn")))
+

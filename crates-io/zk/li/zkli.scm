@@ -1,0 +1,10 @@
+(define-module (crates-io zk li zkli) #:use-module (crates-io))
+
+(define-public crate-zkli-0.1.0 (c (n "zkli") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy" "owo-colors"))) (d #t) (k 0)) (d (n "zookeeper") (r "^0.8.0") (d #t) (k 0)))) (h "1izsjkn2vwby936fi5n9bd6z8a7b577rsfr796d57plc4lryhraj")))
+
+(define-public crate-zkli-0.2.0 (c (n "zkli") (v "0.2.0") (d (list (d (n "anstyle") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy" "owo-colors"))) (d #t) (k 0)) (d (n "zookeeper") (r "^0.8.0") (d #t) (k 0)))) (h "0gkx14vydpkx5gl72qhgyczvpix9jv5hwc71x5mjsdmpmg27ah7l")))
+
+(define-public crate-zkli-0.3.0 (c (n "zkli") (v "0.3.0") (d (list (d (n "anstyle") (r "^1.0.2") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy" "owo-colors"))) (d #t) (k 0)) (d (n "zookeeper") (r "^0.8.0") (d #t) (k 0)))) (h "05nf7syla5a9dm8pqjc6kilk9bd5p71p9vv5glw47kycikrr6snq")))
+
+(define-public crate-zkli-0.3.1 (c (n "zkli") (v "0.3.1") (d (list (d (n "anstyle") (r "^1.0.2") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.4.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (f (quote ("fancy" "owo-colors"))) (d #t) (k 0)) (d (n "zookeeper") (r "^0.8.0") (d #t) (k 0)))) (h "1qya409y26a3mrxgda2cmfxx5751m70711m63q8q1mdxsnsjj1bb")))
+

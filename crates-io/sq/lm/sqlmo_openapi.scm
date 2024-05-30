@@ -1,0 +1,20 @@
+(define-module (crates-io sq lm sqlmo_openapi) #:use-module (crates-io))
+
+(define-public crate-sqlmo_openapi-0.1.0 (c (n "sqlmo_openapi") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 2)) (d (n "sqlmo") (r "^0.13") (d #t) (k 0)))) (h "079078rbws0g8m3cgiksjlf9x8sb80nxhfkhlklc2bni7yniairi")))
+
+(define-public crate-sqlmo_openapi-0.14.0 (c (n "sqlmo_openapi") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0.66") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.93") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.14") (d #t) (k 2)) (d (n "sqlmo") (r "^0.14") (d #t) (k 0)))) (h "0vyp23a0b7bzl7fqq7f1sgwbcx38h3hdrkxz76g588n3z5s48fd4")))
+
+(define-public crate-sqlmo_openapi-0.15.0 (c (n "sqlmo_openapi") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.15") (d #t) (k 0)))) (h "1jy0fxa7rjcpnl2d0svxhk6203zxhvv5vj2jl510am0hbns15kv0")))
+
+(define-public crate-sqlmo_openapi-0.16.1 (c (n "sqlmo_openapi") (v "0.16.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "1hkfg9c13frddhkpzs71x2iz2msak3laf3d973qgvqd65glika8k")))
+
+(define-public crate-sqlmo_openapi-0.16.2 (c (n "sqlmo_openapi") (v "0.16.2") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "00h29ppqdi307wfh0rvywgwizg99wjcbm00ajkr8yzb7fmhvwb5h")))
+
+(define-public crate-sqlmo_openapi-0.17.0 (c (n "sqlmo_openapi") (v "0.17.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "0q03my8xrs68sq3jm3hxqrr734azdxflvlirjwjv9xbpbd6i3hiy")))
+
+(define-public crate-sqlmo_openapi-0.17.1 (c (n "sqlmo_openapi") (v "0.17.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^3") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "1jkpch9y8nwd0asxvsxvy73ncdpfmvc0fx4pzzddizgqh1b4cvmj")))
+
+(define-public crate-sqlmo_openapi-0.18.0 (c (n "sqlmo_openapi") (v "0.18.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^4") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "0r7wybm1gdhgmwrgfvnjvh0fasly9y806hm65ykgv0fvcacrm6qy")))
+
+(define-public crate-sqlmo_openapi-0.19.0 (c (n "sqlmo_openapi") (v "0.19.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^6") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "1mcl1bss2yhisjpvj3l60v9p7plhy8f1hyf9br0m2df9rvr6376s")))
+

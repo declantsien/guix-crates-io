@@ -1,0 +1,10 @@
+(define-module (crates-io op en open-rpc-derive) #:use-module (crates-io))
+
+(define-public crate-open-rpc-derive-0.0.1 (c (n "open-rpc-derive") (v "0.0.1") (d (list (d (n "open-rpc-schema") (r "^0.0.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full" "fold" "visit" "extra-traits"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)))) (h "1mhir59c7vb6xarkwdf5abzparn4k6mc2r6y4mfhhlbyr76fzydr")))
+
+(define-public crate-open-rpc-derive-0.0.2 (c (n "open-rpc-derive") (v "0.0.2") (d (list (d (n "open-rpc-schema") (r "^0.0.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full" "fold" "visit"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)))) (h "099xrjf7sdg2qdk87a53w1paz1gfazd4y5nsgpb8sr8wrh4ib2vj")))
+
+(define-public crate-open-rpc-derive-0.0.3 (c (n "open-rpc-derive") (v "0.0.3") (d (list (d (n "open-rpc-schema") (r "^0.0.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full" "fold" "visit"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)))) (h "06c8yhxqbrix59ybzbad5n0hz9viq7lc344d8z487nq5hkdr61zm")))
+
+(define-public crate-open-rpc-derive-0.0.4 (c (n "open-rpc-derive") (v "0.0.4") (d (list (d (n "open-rpc-schema") (r "^0.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("full" "fold" "visit"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 2)))) (h "0gsfypf7jp72hzkx0b0mmlpx8s8rp2s0z93n7jl762bmaqxf0gdf")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ya ui yaui) #:use-module (crates-io))
+
+(define-public crate-yaui-0.1.0 (c (n "yaui") (v "0.1.0") (d (list (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.143") (d #t) (k 0)) (d (n "page_size") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-maps") (r "^0.3.1") (d #t) (k 0)) (d (n "ptrace-do") (r "^0.1.1") (d #t) (k 0)) (d (n "sysinfo") (r "^0.29.0") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-android") (r "^0.2.0") (d #t) (t "cfg(target_os = \"android\")") (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (o #t) (d #t) (k 0)))) (h "15lf3xdacdx9y7kg90yfnwvvvm806iq1hrpbs34cqassqs37nfxa") (f (quote (("default" "cli") ("cli" "clap" "tracing-subscriber" "sysinfo"))))))
+

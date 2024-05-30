@@ -1,0 +1,6 @@
+(define-module (crates-io da gr dagrs) #:use-module (crates-io))
+
+(define-public crate-dagrs-0.1.0 (c (n "dagrs") (v "0.1.0") (d (list (d (n "anymap2") (r "^0.13.0") (d #t) (k 0)) (d (n "bimap") (r "^0.6.1") (d #t) (k 0)) (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "deno_core") (r "^0.191.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("rt" "sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "1prxpn9fisrx1v0riygfy82gg7d1vn3i7q35a07c4lx1zi235axy")))
+
+(define-public crate-dagrs-0.2.0 (c (n "dagrs") (v "0.2.0") (d (list (d (n "anymap2") (r "^0.13.0") (d #t) (k 0)) (d (n "bimap") (r "^0.6.1") (d #t) (k 0)) (d (n "clap") (r "^4.2.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tokio") (r "^1.28") (f (quote ("rt" "sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4.5") (d #t) (k 0)))) (h "14hgpc83566in3q9l2i8va6ja2r6r7zx4vl3b36yyac9grc944yd")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# s srm) #:use-module (crates-io))
+
+(define-public crate-srm-0.3.0 (c (n "srm") (v "0.3.0") (d (list (d (n "capnp") (r "^0.9.4") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.1") (d #t) (k 0)) (d (n "ctrlc") (r "^3.1.1") (d #t) (k 0)) (d (n "hashbrown") (r "^0.1.8") (d #t) (k 0)) (d (n "humantime") (r "^1.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.48") (d #t) (k 0)) (d (n "libloading") (r "^0.5.0") (d #t) (k 0)) (d (n "lock_api") (r "^0.1.5") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (f (quote ("std"))) (d #t) (k 0)) (d (n "parking_lot") (r "^0.7.1") (d #t) (k 0)) (d (n "rayon") (r "^1.0.3") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.88") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.8") (d #t) (k 0)))) (h "1hwyh639l6ggwhqd9gk1cm7bi5hw2baj7iclwywf6s1p4dda0q02")))
+

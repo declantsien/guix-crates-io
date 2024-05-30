@@ -1,0 +1,10 @@
+(define-module (crates-io #{3}# s sbs) #:use-module (crates-io))
+
+(define-public crate-sbs-0.0.2 (c (n "sbs") (v "0.0.2") (d (list (d (n "assert_cmd") (r "^2.0.10") (d #t) (k 2)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.16.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "termimad") (r "^0.23.0") (d #t) (k 0)))) (h "1qk4hiizc29spv0041w7n9n0bq2ffilliq0m2fqm8hqm5bh4d2k4")))
+
+(define-public crate-sbs-0.0.3 (c (n "sbs") (v "0.0.3") (d (list (d (n "assert_cmd") (r "^2.0.10") (d #t) (k 2)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.16.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "termimad") (r "^0.23.0") (d #t) (k 0)))) (h "1pcpfq8afcs7yw6f2k40krq7r30bl0gz9a5j5c616wnfmgvk034g")))
+
+(define-public crate-sbs-0.0.4 (c (n "sbs") (v "0.0.4") (d (list (d (n "assert_cmd") (r "^2.0.10") (d #t) (k 2)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.16.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "termimad") (r "^0.23.0") (d #t) (k 0)))) (h "075xdz6nxjxvv8li8d993gw3jl5ippa4hfqr5313jlhlwbbyi99a")))
+
+(define-public crate-sbs-1.0.0 (c (n "sbs") (v "1.0.0") (d (list (d (n "assert_cmd") (r "^2.0.10") (d #t) (k 2)) (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.16.1") (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.16") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.21") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "termimad") (r "^0.23.0") (d #t) (k 0)))) (h "1n6q8dg1k4q8qg8ad8zqlxm60rxn757rv4rk83hlyba89l1xpbq5")))
+

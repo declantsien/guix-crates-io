@@ -1,0 +1,4 @@
+(define-module (crates-io el li ellie) #:use-module (crates-io))
+
+(define-public crate-ellie-0.1.0 (c (n "ellie") (v "0.1.0") (d (list (d (n "async-openai") (r "^0.14.0") (k 0)) (d (n "color-eyre") (r "^0.6.2") (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "duct") (r "^0.13.6") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "json-patch") (r "^1.0.0") (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (k 0)) (d (n "serde_json") (r "^1.0.105") (k 0)) (d (n "tiktoken-rs") (r "^0.5.3") (f (quote ("async-openai"))) (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("rt-multi-thread" "io-std"))) (k 0)) (d (n "toml") (r "^0.7.6") (f (quote ("parse"))) (k 0)))) (h "1vp8sybacjb5mbvajp3fw10h20g892scbik5h29wr0hq3bbdivn8") (r "1.72.0")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bi tc bitcoin-signet) #:use-module (crates-io))
+
+(define-public crate-bitcoin-signet-0.1.12-alpha.0 (c (n "bitcoin-signet") (v "0.1.12-alpha.0") (d (list (d (n "bitcoin-block") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-chain-consensus") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.12-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.12-alpha.0") (d #t) (k 0)))) (h "0nckzr9k3f00sgy9b681mzxj3d3lyzcxafrci9p0hw2dvyafif4m")))
+
+(define-public crate-bitcoin-signet-0.1.16-alpha.0 (c (n "bitcoin-signet") (v "0.1.16-alpha.0") (d (list (d (n "bitcoin-block") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-chain-consensus") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-derive") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-imports") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-primitives") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-scripting") (r "^0.1.16-alpha.0") (d #t) (k 0)) (d (n "bitcoin-tx") (r "^0.1.16-alpha.0") (d #t) (k 0)))) (h "15dq83sfzm1fk3lfh8dfhsys7h3db9mqci0lmjl0q7x3fszhsl73")))
+

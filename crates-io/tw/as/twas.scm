@@ -1,0 +1,4 @@
+(define-module (crates-io tw as twas) #:use-module (crates-io))
+
+(define-public crate-twas-1.0.0 (c (n "twas") (v "1.0.0") (d (list (d (n "bytemuck") (r "^1.13") (d #t) (k 0)) (d (n "clap") (r "^4.3") (f (quote ("std" "color" "help" "usage" "error-context" "suggestions" "derive" "unicode" "wrap_help"))) (o #t) (d #t) (k 0)) (d (n "csv") (r "^1.3") (d #t) (k 0)) (d (n "dicexp") (r "^1.1.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)) (d (n "utf8-chars") (r "^3.0.1") (d #t) (k 0)) (d (n "zip") (r "^0.6") (d #t) (k 0)))) (h "0s6c0fyr3p5lcqzxrzpcq8fcywdslzc6ybsmfd1xvxzz47fwbi7i") (f (quote (("app" "clap"))))))
+

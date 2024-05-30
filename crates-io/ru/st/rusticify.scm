@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rusticify) #:use-module (crates-io))
+
+(define-public crate-rusticify-0.1.0 (c (n "rusticify") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "bevy") (r "^0.10.0") (d #t) (k 0)) (d (n "bevy_embedded_assets") (r "^0.7.0") (d #t) (k 0)) (d (n "bevy_prototype_lyon") (r "^0.8.0") (d #t) (k 0)) (d (n "bevy_ui_borders") (r "^0.3.0") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (d #t) (k 0)) (d (n "linkify") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)) (d (n "arboard") (r "^3.2.0") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "open") (r "^4.0.1") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1i0kwbkx4w1z6n6xavjvlyb0s25zcidj3450wz7z4ld6hcbc4wzz")))
+

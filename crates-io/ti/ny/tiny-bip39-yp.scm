@@ -1,0 +1,4 @@
+(define-module (crates-io ti ny tiny-bip39-yp) #:use-module (crates-io))
+
+(define-public crate-tiny-bip39-yp-0.6.2 (c (n "tiny-bip39-yp") (v "0.6.2") (d (list (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.1.8") (d #t) (k 0)) (d (n "hex") (r "^0.3.2") (d #t) (k 2)) (d (n "hmac") (r "^0.7.0") (d #t) (k 0)) (d (n "once_cell") (r "^0.1.8") (f (quote ("parking_lot"))) (d #t) (k 0)) (d (n "pbkdf2") (r "^0.3.0") (k 0)) (d (n "rand") (r "^0.6.5") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)))) (h "1qaxiprhqc1m6hdqm4rb89nja6jd0i43awggbnmwl5xamsmaprpm") (f (quote (("spanish") ("korean") ("japanese") ("italian") ("french") ("default" "chinese-simplified" "chinese-traditional" "french" "italian" "japanese" "korean" "spanish") ("chinese-traditional") ("chinese-simplified"))))))
+

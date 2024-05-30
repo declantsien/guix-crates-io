@@ -1,0 +1,6 @@
+(define-module (crates-io ko io koios) #:use-module (crates-io))
+
+(define-public crate-koios-0.1.0 (c (n "koios") (v "0.1.0") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "eventsource-client") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "inquire") (r "^0.6") (f (quote ("console"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1vd0k74z2dv6z8vi9rknxnggnk05b8wyc3hff6jgvb10wf3hfdgr") (y #t)))
+
+(define-public crate-koios-0.1.1 (c (n "koios") (v "0.1.1") (d (list (d (n "clap") (r "^4.1.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "console") (r "^0.15.5") (d #t) (k 0)) (d (n "eventsource-client") (r "^0.11") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "inquire") (r "^0.6") (f (quote ("console"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1zkq2l80gwrm5qw5f9zg0ib7vxvidh60bgmi2wgmnbd76pzhc15i")))
+

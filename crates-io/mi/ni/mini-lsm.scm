@@ -1,0 +1,6 @@
+(define-module (crates-io mi ni mini-lsm) #:use-module (crates-io))
+
+(define-public crate-mini-lsm-0.1.0 (c (n "mini-lsm") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)))) (h "0sxnld15hns782p3mryyp7g7znc4rsdn4bihr9ib9841nk44faz2")))
+
+(define-public crate-mini-lsm-0.2.0 (c (n "mini-lsm") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "arc-swap") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4.4.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crc32fast") (r "^1.3.2") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.11") (d #t) (k 0)) (d (n "crossbeam-epoch") (r "^0.9") (d #t) (k 0)) (d (n "crossbeam-skiplist") (r "^0.1") (d #t) (k 0)) (d (n "farmhash") (r "^1") (d #t) (k 0)) (d (n "moka") (r "^0.9") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "ouroboros") (r "^0.18") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rustyline") (r "^13.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)))) (h "1mik83qimsymryip25rdf0zhqldms096wpdv0bc7xzybz9sm75c0")))
+

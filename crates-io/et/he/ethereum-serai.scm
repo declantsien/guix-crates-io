@@ -1,0 +1,4 @@
+(define-module (crates-io et he ethereum-serai) #:use-module (crates-io))
+
+(define-public crate-ethereum-serai-0.1.0 (c (n "ethereum-serai") (v "0.1.0") (d (list (d (n "ethers") (r "^2") (f (quote ("abigen" "ethers-solc"))) (k 0)) (d (n "ethers-solc") (r "^2") (d #t) (k 1)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "group") (r "^0.13") (d #t) (k 0)) (d (n "k256") (r "^0.13.1") (f (quote ("std" "arithmetic" "bits" "ecdsa"))) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "sha3") (r "^0.10") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros"))) (d #t) (k 2)))) (h "0bm1ipzx5wxpx3vldbah4kkvczs7mx70ak5y39dwjcrwnf9jh183")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io fl ur flurx) #:use-module (crates-io))
+
+(define-public crate-flurx-0.1.0 (c (n "flurx") (v "0.1.0") (d (list (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.25") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "13jajxxfhbzskwi3324ckmxr62x7spkh2agdcbc5a2jkf75ficg2")))
+
+(define-public crate-flurx-0.1.1 (c (n "flurx") (v "0.1.1") (d (list (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11.25") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1v006jzhqw14mgkkcg64qf19g6vla830l3ylr6x9yvv8fiafpr2g")))
+
+(define-public crate-flurx-0.1.2 (c (n "flurx") (v "0.1.2") (d (list (d (n "async-compat") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "pollster") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.26") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0ird21x7yrc2ayrbspsqy4hngpfr4h6nm5v28hlias8pyj30167z") (f (quote (("default")))) (s 2) (e (quote (("sync" "dep:async-compat" "dep:pollster"))))))
+
+(define-public crate-flurx-0.1.3 (c (n "flurx") (v "0.1.3") (d (list (d (n "async-compat") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "pollster") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.26") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1gpidh5aa71r514l4sppmwh0n8677mz2hf9sk3zbpaiirjs5a7rj") (f (quote (("default")))) (s 2) (e (quote (("sync" "dep:async-compat" "dep:pollster"))))))
+
+(define-public crate-flurx-0.1.4 (c (n "flurx") (v "0.1.4") (d (list (d (n "async-compat") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "pollster") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "047iv5qvb9f35bm423isgnk1fl4zihklly80ag2f0w9xayv9xh8s") (f (quote (("default")))) (s 2) (e (quote (("sync" "dep:async-compat" "dep:pollster"))))))
+
+(define-public crate-flurx-0.1.5 (c (n "flurx") (v "0.1.5") (d (list (d (n "async-compat") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "pollster") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0jrps5x3i6g86hp20bw7xpj6557arlw6bpdajh0lvh37x9s5gdy3") (f (quote (("default")))) (s 2) (e (quote (("sync" "dep:async-compat" "dep:pollster"))))))
+
+(define-public crate-flurx-0.1.6 (c (n "flurx") (v "0.1.6") (d (list (d (n "async-compat") (r "^0.2.3") (o #t) (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 2)) (d (n "pollster") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (d #t) (k 2)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0rad1fppjhdls8ggx14gbz2pliha3bp2kc1k004v36qv3cn673wj") (f (quote (("reducer") ("default-selectors") ("default")))) (s 2) (e (quote (("sync" "dep:async-compat" "dep:pollster"))))))
+

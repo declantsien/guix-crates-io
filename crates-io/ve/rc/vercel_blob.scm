@@ -1,0 +1,4 @@
+(define-module (crates-io ve rc vercel_blob) #:use-module (crates-io))
+
+(define-public crate-vercel_blob-0.1.0 (c (n "vercel_blob") (v "0.1.0") (d (list (d (n "all_asserts") (r "^2.3.1") (d #t) (k 2)) (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 2)) (d (n "mockito") (r "^1.1.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.186") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 2)) (d (n "serial_test") (r "^2.0.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("test-util" "macros"))) (d #t) (k 2)))) (h "14xx2ar9ilcqpggc0cx18dhi4yf2h893n8m7s016q5ff0zyxv7nz")))
+

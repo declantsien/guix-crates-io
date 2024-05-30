@@ -1,0 +1,6 @@
+(define-module (crates-io le xo lexoffice-cli) #:use-module (crates-io))
+
+(define-public crate-lexoffice-cli-0.1.1 (c (n "lexoffice-cli") (v "0.1.1") (d (list (d (n "edit") (r "^0.1.2") (d #t) (k 0)) (d (n "lexoffice") (r "^0.1.1") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.114") (d #t) (k 0)) (d (n "serde_any") (r "^0.5.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3.15") (d #t) (k 0)) (d (n "tokio") (r "^0.2.21") (f (quote ("stream" "fs" "io-std" "macros"))) (d #t) (k 0)))) (h "121qw2r3k5vq9zdj150fj10sq92xh25kn8x99mslzpv0q86hjwab")))
+
+(define-public crate-lexoffice-cli-0.2.0 (c (n "lexoffice-cli") (v "0.2.0") (d (list (d (n "edit") (r "^0.1.2") (d #t) (k 0)) (d (n "lexoffice") (r "^0.2.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "mime_guess") (r "^2.0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.118") (d #t) (k 0)) (d (n "serde_any") (r "^0.5.0") (f (quote ("yaml" "json"))) (k 0)) (d (n "structopt") (r "^0.3.21") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("fs" "io-std" "io-util" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.1") (d #t) (k 0)))) (h "07vzsv4byfy1n6i56gp9vi6fa2gh9ippcb5xp9wyypjj2mzgh59y")))
+

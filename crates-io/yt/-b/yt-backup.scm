@@ -1,0 +1,6 @@
+(define-module (crates-io yt -b yt-backup) #:use-module (crates-io))
+
+(define-public crate-yt-backup-0.0.1 (c (n "yt-backup") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1i3shklhd2cpmjzircj13isqij8f8213njzjwzydxqm0k6py42wy")))
+
+(define-public crate-yt-backup-0.0.2 (c (n "yt-backup") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1hx8czs6bgizwjhyn8za8xdg60bd92amgczbj0iyl40dswx4852l")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io sh el shell-gpt) #:use-module (crates-io))
+
+(define-public crate-shell-gpt-0.1.0 (c (n "shell-gpt") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "orion") (r "^0.17.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spinoff") (r "^0.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)))) (h "1la8wgzf5aikhhda21mbyr3f6sgisc6mifpyf4492pa9qmyybgp2") (y #t)))
+
+(define-public crate-shell-gpt-0.1.1 (c (n "shell-gpt") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "orion") (r "^0.17.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "spinoff") (r "^0.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "users") (r "^0.11.0") (d #t) (k 0)))) (h "0pxz59zlbclf1vdqyikqvvp1s9sk3pm7fypvccs47yayvvs98gqn")))
+

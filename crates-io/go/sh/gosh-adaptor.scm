@@ -1,0 +1,8 @@
+(define-module (crates-io go sh gosh-adaptor) #:use-module (crates-io))
+
+(define-public crate-gosh-adaptor-0.0.4 (c (n "gosh-adaptor") (v "0.0.4") (d (list (d (n "approx") (r "^0.3") (d #t) (k 2)) (d (n "gosh-core") (r "^0.0.1") (d #t) (k 0)) (d (n "gosh-model") (r "^0.0.9") (f (quote ("adhoc"))) (d #t) (k 0)) (d (n "nom") (r "^5") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "07y9n9wfrsckyp7r84i4hs43yvm591zcbdryvxls6jgj7q9gfrkh")))
+
+(define-public crate-gosh-adaptor-0.2.0 (c (n "gosh-adaptor") (v "0.2.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^2") (d #t) (k 0)) (d (n "gosh-core") (r "^0.2.0") (d #t) (k 0)) (d (n "gosh-model") (r "^0.2.0") (d #t) (k 0)) (d (n "gosh-repl") (r "^0.1.3") (d #t) (k 0)) (d (n "shlex") (r "^1") (d #t) (k 0)) (d (n "text_parser") (r "^0.3.0") (d #t) (k 0) (p "gchemol-parser")))) (h "11ijj7kxj2pfvac6jacl5251jpvnjgyblrac45nl23sg2rih0lz6") (f (quote (("adhoc"))))))
+
+(define-public crate-gosh-adaptor-0.4.1 (c (n "gosh-adaptor") (v "0.4.1") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs") (r "^2") (d #t) (k 0)) (d (n "gchemol-parser") (r "^0.5.0") (d #t) (k 0)) (d (n "gosh-core") (r "^0.2.0") (d #t) (k 0)) (d (n "gosh-database") (r "^0.2.1") (f (quote ("adhoc"))) (d #t) (k 0)) (d (n "gosh-dataset") (r "^0.2.1") (d #t) (k 0)) (d (n "gosh-model") (r "^0.2.1") (d #t) (k 0)) (d (n "gosh-repl") (r "^0.1.3") (d #t) (k 0)) (d (n "grep-reader") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shlex") (r "^1") (d #t) (k 0)) (d (n "winnow") (r "^0.6") (d #t) (k 0)))) (h "17xm303435lg1897sa9iadam64pyb9nz168yxzvmq76a9dfg6ngh") (f (quote (("adhoc"))))))
+

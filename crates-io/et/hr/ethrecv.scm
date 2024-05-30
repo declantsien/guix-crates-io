@@ -1,0 +1,4 @@
+(define-module (crates-io et hr ethrecv) #:use-module (crates-io))
+
+(define-public crate-ethrecv-0.0.1 (c (n "ethrecv") (v "0.0.1") (d (list (d (n "atomic-time") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^2.4.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "mio") (r "^0.8.11") (f (quote ("os-poll" "os-ext"))) (d #t) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "pcap") (r "^1.2.0") (d #t) (k 0)) (d (n "windows-sys") (r "^0.36.1") (f (quote ("Win32_Foundation" "Win32_System_Threading"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0192i4xjdsvgv3881dcx0zl5vvg3ldngzs2f14gf2g0grraxi3db") (f (quote (("inspect")))) (s 2) (e (quote (("idle" "dep:atomic-time" "dep:parking_lot")))) (r "1.56")))
+

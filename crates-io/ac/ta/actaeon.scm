@@ -1,0 +1,12 @@
+(define-module (crates-io ac ta actaeon) #:use-module (crates-io))
+
+(define-public crate-actaeon-0.1.1 (c (n "actaeon") (v "0.1.1") (d (list (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.7") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1mzh7wblvb7bkain0n8w6hmr8zcd6rczpq15qnx7rsyp140b3lrv")))
+
+(define-public crate-actaeon-0.1.2 (c (n "actaeon") (v "0.1.2") (d (list (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.7") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1mha3mwfyg0md1gi622195lzrwq0fvk55b9v12pff9xav673ykq6")))
+
+(define-public crate-actaeon-0.1.3 (c (n "actaeon") (v "0.1.3") (d (list (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.7") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0bpkdr59qc91kbbkdr1cwgdm4v5aljkyn4bl4xyla12g6wj6l1l9")))
+
+(define-public crate-actaeon-0.2.0 (c (n "actaeon") (v "0.2.0") (d (list (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.7") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "01z8mrm2gwkhs1gkrkmcrjc4fyfypb0sgp45nd52fma0g1l1jpd1")))
+
+(define-public crate-actaeon-0.2.1 (c (n "actaeon") (v "0.2.1") (d (list (d (n "blake3") (r "^1.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 2)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sodiumoxide") (r "^0.2.7") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "13yajph3ycqpia2zv8g26kk00dcdkdds3xvki056vhssl3271l07")))
+

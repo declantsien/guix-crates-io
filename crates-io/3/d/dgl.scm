@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# d dgl) #:use-module (crates-io))
+
+(define-public crate-dgl-0.3.0 (c (n "dgl") (v "0.3.0") (d (list (d (n "dgl-gl") (r "^0.3.0") (d #t) (k 2)) (d (n "dwindow") (r "^0.3.0") (d #t) (k 0)) (d (n "gdi32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "opengl32-sys") (r "^0.1.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "try_from") (r "^0.2.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11-dl") (r "^2.14.0") (d #t) (t "cfg(all(unix, not(target_os = \"macos\")))") (k 0)))) (h "0jf5j974pkk2xxbd8ic57f02s57lsag0ijr862hz0yl3r2h0bl03") (y #t)))
+

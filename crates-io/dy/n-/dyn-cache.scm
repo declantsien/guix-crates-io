@@ -1,0 +1,12 @@
+(define-module (crates-io dy n- dyn-cache) #:use-module (crates-io))
+
+(define-public crate-dyn-cache-0.10.0 (c (n "dyn-cache") (v "0.10.0") (d (list (d (n "downcast-rs") (r "^1.1.1") (d #t) (k 0)) (d (n "hash_hasher") (r "^2.0.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "paste") (r "^0.1.18") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 2)))) (h "193028bm2fhvm0ja8xddrvvh7ygcwiax537razfyjkd98690cwvm")))
+
+(define-public crate-dyn-cache-0.11.0 (c (n "dyn-cache") (v "0.11.0") (d (list (d (n "downcast-rs") (r "^1.1.1") (d #t) (k 0)) (d (n "hash_hasher") (r "^2.0.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.8.0") (d #t) (k 0)) (d (n "illicit") (r "^1.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.0") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 2)))) (h "00khrrpkvy52dl2vjrp3cgk8p2amh0mgir19sdrwpvzk95jfm1pz")))
+
+(define-public crate-dyn-cache-0.12.0 (c (n "dyn-cache") (v "0.12.0") (d (list (d (n "downcast-rs") (r "^1.1.1") (d #t) (k 0)) (d (n "hash_hasher") (r "^2.0.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.8.0") (d #t) (k 0)) (d (n "illicit") (r "^1.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.0") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 2)))) (h "1wbjknk39k9y9dhlc3v76knznpffclaxd572wy92q5s6bipqc87n")))
+
+(define-public crate-dyn-cache-0.12.1 (c (n "dyn-cache") (v "0.12.1") (d (list (d (n "downcast-rs") (r "^1.1.1") (d #t) (k 0)) (d (n "hash_hasher") (r "^2.0.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.9.0") (d #t) (k 0)) (d (n "illicit") (r "^1.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.0") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 2)))) (h "0sb86f1jj0xqxsksg69i03mhvjvhnh5w7pw5xsiza9a1w43ldlx8") (f (quote (("wasm-bindgen" "parking_lot/wasm-bindgen") ("default"))))))
+
+(define-public crate-dyn-cache-0.12.2 (c (n "dyn-cache") (v "0.12.2") (d (list (d (n "downcast-rs") (r "^1.1.1") (d #t) (k 0)) (d (n "hash_hasher") (r "^2.0.3") (d #t) (k 0)) (d (n "hashbrown") (r "^0.11.0") (d #t) (k 0)) (d (n "illicit") (r "^1.1.2") (d #t) (k 0)) (d (n "parking_lot") (r "^0.11.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.0") (d #t) (k 0)) (d (n "scopeguard") (r "^1") (d #t) (k 2)))) (h "1ad6vnnsrrrmm8l1n3y09q0yc2978p27rw1lll9vbqilccwklnsi") (f (quote (("wasm-bindgen" "parking_lot/wasm-bindgen") ("default"))))))
+

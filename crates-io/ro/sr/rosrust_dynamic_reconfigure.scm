@@ -1,0 +1,6 @@
+(define-module (crates-io ro sr rosrust_dynamic_reconfigure) #:use-module (crates-io))
+
+(define-public crate-rosrust_dynamic_reconfigure-0.1.0 (c (n "rosrust_dynamic_reconfigure") (v "0.1.0") (d (list (d (n "crossbeam") (r "^0.8") (f (quote ("crossbeam-channel"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("deadlock_detection"))) (d #t) (k 0)) (d (n "rosrust") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "10mq48zgn6zimc65sfqg6r9yq892ah001ynws9gic67z22lvb7qw") (f (quote (("builtin-msgs"))))))
+
+(define-public crate-rosrust_dynamic_reconfigure-0.2.0 (c (n "rosrust_dynamic_reconfigure") (v "0.2.0") (d (list (d (n "crossbeam") (r "^0.8") (f (quote ("crossbeam-channel"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (f (quote ("deadlock_detection"))) (d #t) (k 0)) (d (n "rosrust") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0zv19va20dl6vzvrjdvqd79bi3mmnd6xms5z3simsb9hw1ffsrlv") (f (quote (("builtin-msgs"))))))
+

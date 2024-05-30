@@ -1,0 +1,4 @@
+(define-module (crates-io po rt port-sundial) #:use-module (crates-io))
+
+(define-public crate-port-sundial-0.1.0 (c (n "port-sundial") (v "0.1.0") (d (list (d (n "anchor-lang") (r "^0.19.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.19.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.6") (d #t) (k 0)) (d (n "port-anchor-adaptor") (r "^0.2.8") (d #t) (k 0)) (d (n "port-variable-rate-lending-instructions") (r "^0.3.0") (d #t) (k 0)) (d (n "pyth-client") (r "^0.2.2") (d #t) (k 0)) (d (n "solana-maths") (r "^0.1.1") (d #t) (k 0)) (d (n "sundial-derives") (r "^0.1.0") (d #t) (k 0)) (d (n "vipers") (r "^1.5.5") (d #t) (k 0)))) (h "13r692li2zh9xhk494gvp6j5gln12pncvsjp6zf5qiyxjphil8zc") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

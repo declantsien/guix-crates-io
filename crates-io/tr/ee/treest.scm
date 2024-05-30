@@ -1,0 +1,4 @@
+(define-module (crates-io tr ee treest) #:use-module (crates-io))
+
+(define-public crate-treest-0.2.2 (c (n "treest") (v "0.2.2") (d (list (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.25.0") (d #t) (k 0)) (d (n "dash_conversion") (r "^0.1.0") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "lscolors") (r "^0.13.0") (k 0)) (d (n "notify") (r "^6.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (d #t) (k 0)) (d (n "signal-hook") (r "^0.3.14") (d #t) (k 0)) (d (n "tui") (r "^0.19.0") (f (quote ("crossterm" "serde"))) (d #t) (k 0)))) (h "1l1hdrxg9073l8djp21fw9pyj1imvm5js3il8b9sfsqrdphq9g9y")))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io bi tc bitcoin_blockchain) #:use-module (crates-io))
+
+(define-public crate-bitcoin_blockchain-0.9.0-alpha.1 (c (n "bitcoin_blockchain") (v "0.9.0-alpha.1") (d (list (d (n "amplify") (r "^3.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "strict_encoding") (r "^2.0.0-alpha.1") (d #t) (k 0)))) (h "13g5gcnvgfv29cv7mzjb2q5sxwwxcir8f2g5wb0ai2ha05c4j4zb") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+
+(define-public crate-bitcoin_blockchain-0.9.0-rc.1 (c (n "bitcoin_blockchain") (v "0.9.0-rc.1") (d (list (d (n "amplify") (r "^3.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "strict_encoding") (r "^0.9.0-rc.1") (d #t) (k 0)))) (h "04qsjwwhhgxf5ay2hzghg04vyahffl34qyb5wzha7jfg0i17n16i") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+
+(define-public crate-bitcoin_blockchain-0.9.0 (c (n "bitcoin_blockchain") (v "0.9.0") (d (list (d (n "amplify") (r "^3.13.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "strict_encoding") (r "^0.9.0") (d #t) (k 0)))) (h "1694vndprkjmicjy6dlb1vfyfjd21rq9m4vcpxc1h361x5q85czd") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+
+(define-public crate-bitcoin_blockchain-0.10.0-alpha.1 (c (n "bitcoin_blockchain") (v "0.10.0-alpha.1") (d (list (d (n "amplify") (r "^3.14.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "04d6vb8rz5w4vjnxp2wgaj5xw8dbbyq6w16wsx8675byb55gykwg") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+
+(define-public crate-bitcoin_blockchain-0.10.0-alpha.2 (c (n "bitcoin_blockchain") (v "0.10.0-alpha.2") (d (list (d (n "amplify") (r "^3.14.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "1j6swhnrhhs3xpn0ll7mq6d89p1f00lwdgg1bxc56wa60m1lw6xl") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+
+(define-public crate-bitcoin_blockchain-0.9.1 (c (n "bitcoin_blockchain") (v "0.9.1") (d (list (d (n "amplify") (r "^3.14.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "strict_encoding") (r "^0.9.0") (d #t) (k 0)))) (h "0cih3jqa0zv7da80qf427zw0l27zsbvbblvng7n9ili14znv0x58") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+
+(define-public crate-bitcoin_blockchain-0.10.0 (c (n "bitcoin_blockchain") (v "0.10.0") (d (list (d (n "amplify") (r "^3.14.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "serde_crate") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0) (p "serde")) (d (n "strict_encoding") (r "^0.9.0") (d #t) (k 0)))) (h "0ai4xgmabj4rinf8giqnvmkzg7rvhwaa7gzqyabd3bdlji5x9wlh") (f (quote (("serde" "serde_crate") ("default") ("all" "serde")))) (r "1.59.0")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io go og google-homegraph1-cli) #:use-module (crates-io))
+
+(define-public crate-google-homegraph1-cli-1.0.14+20200703 (c (n "google-homegraph1-cli") (v "1.0.14+20200703") (d (list (d (n "clap") (r "^2.0") (d #t) (k 0)) (d (n "google-homegraph1") (r "^1.0.14") (d #t) (k 0)) (d (n "hyper") (r "^0.10") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.6") (d #t) (k 2)) (d (n "mime") (r "^0.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "strsim") (r "^0.5") (d #t) (k 0)) (d (n "yup-hyper-mock") (r "^2.0") (d #t) (k 0)) (d (n "yup-oauth2") (r "^1.0") (k 0)))) (h "1gh0zsk9g4ba5cy5glghs4k5fa3p173glf3cfskxhahh03c1z68j") (f (quote (("rustls" "yup-oauth2/no-openssl") ("openssl" "yup-oauth2/default") ("default" "openssl"))))))
+

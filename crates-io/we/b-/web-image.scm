@@ -1,0 +1,8 @@
+(define-module (crates-io we b- web-image) #:use-module (crates-io))
+
+(define-public crate-web-image-0.0.0-reserved (c (n "web-image") (v "0.0.0-reserved") (h "16zpcw4r4sbjfaw85dsg28ll6c1h6db6bga8znq3f14r97cyzn3y")))
+
+(define-public crate-web-image-0.1.0 (c (n "web-image") (v "0.1.0") (d (list (d (n "image") (r "^0.25.0") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dds"))) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.42") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Element" "HtmlElement" "Node" "Window" "CanvasRenderingContext2d" "ImageData" "HtmlCanvasElement" "HtmlImageElement" "console" "CssStyleDeclaration" "EventTarget" "Blob" "ImageBitmap" "ImageBitmapOptions" "ColorSpaceConversion"))) (d #t) (k 0)))) (h "0zq4231zqxfxqn2x9m5vvi4s93m30ysv52mp0m4aijxwcsd7xiaq")))
+
+(define-public crate-web-image-0.2.0 (c (n "web-image") (v "0.2.0") (d (list (d (n "image") (r "^0.25.0") (f (quote ("gif" "jpeg" "ico" "png" "pnm" "tga" "tiff" "webp" "bmp" "hdr" "dds"))) (k 0)) (d (n "js-sys") (r "^0.3") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.91") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.42") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Document" "Element" "HtmlElement" "Node" "Window" "CanvasRenderingContext2d" "ImageData" "HtmlCanvasElement" "HtmlImageElement" "console" "CssStyleDeclaration" "EventTarget" "Blob" "ImageBitmap" "ImageBitmapOptions" "ColorSpaceConversion"))) (d #t) (k 0)))) (h "0mikpkcrw962w97imhi42hl20grbvx9l97hnvf6nrfysxi0k59kh")))
+

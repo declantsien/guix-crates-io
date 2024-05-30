@@ -1,0 +1,6 @@
+(define-module (crates-io ad ve adventure-rusoto-sqs) #:use-module (crates-io))
+
+(define-public crate-adventure-rusoto-sqs-0.3.0 (c (n "adventure-rusoto-sqs") (v "0.3.0") (d (list (d (n "adventure") (r "^0.4.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.1") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.40") (k 0)) (d (n "rusoto_sqs") (r "^0.40") (k 0)) (d (n "sha2") (r "^0.7.1") (d #t) (k 0)))) (h "1w1as9q3pfiryvzbv7jx94c7krdf62gwgskhybszzmwplr22k17v") (f (quote (("rustls" "rusoto_core/rustls" "rusoto_sqs/rustls") ("native-tls" "rusoto_core/native-tls" "rusoto_sqs/native-tls") ("default" "native-tls"))))))
+
+(define-public crate-adventure-rusoto-sqs-0.4.0 (c (n "adventure-rusoto-sqs") (v "0.4.0") (d (list (d (n "adventure") (r "^0.5.0") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "regex") (r "^1.3.1") (d #t) (k 2)) (d (n "rusoto_core") (r "^0.42.0") (k 0)) (d (n "rusoto_sqs") (r "^0.42.0") (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)))) (h "1z51plgw231nndbgl96r9wmrymlzrfbi5gdmqf14z84nrxwjy3bf") (f (quote (("rustls" "rusoto_core/rustls" "rusoto_sqs/rustls") ("native-tls" "rusoto_core/native-tls" "rusoto_sqs/native-tls") ("default" "native-tls"))))))
+

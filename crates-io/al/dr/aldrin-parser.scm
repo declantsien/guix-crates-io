@@ -1,0 +1,12 @@
+(define-module (crates-io al dr aldrin-parser) #:use-module (crates-io))
+
+(define-public crate-aldrin-parser-0.1.0 (c (n "aldrin-parser") (v "0.1.0") (d (list (d (n "heck") (r "^0.4.1") (k 0)) (d (n "pest") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "pest_derive") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "strsim") (r "^0.10.0") (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (k 0)) (d (n "unicode-width") (r "^0.1.11") (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (k 0)))) (h "0bs969qz51mxqqh9mvigh4sn84a0si047lxiqfwaz1iv6wk5wibm") (r "1.70.0")))
+
+(define-public crate-aldrin-parser-0.2.0 (c (n "aldrin-parser") (v "0.2.0") (d (list (d (n "heck") (r "^0.4.1") (k 0)) (d (n "pest") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "pest_derive") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "strsim") (r "^0.10.0") (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (k 0)) (d (n "unicode-width") (r "^0.1.11") (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (k 0)))) (h "08im48w73kzl2fp2dp4sw58j87acdb9ignnb8rnpysr9xb1ms64v") (r "1.70.0")))
+
+(define-public crate-aldrin-parser-0.3.0 (c (n "aldrin-parser") (v "0.3.0") (d (list (d (n "heck") (r "^0.4.1") (k 0)) (d (n "pest") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "pest_derive") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "strsim") (r "^0.10.0") (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (k 0)) (d (n "unicode-width") (r "^0.1.11") (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (k 0)))) (h "0sdvcm5rk09kl83ch16bn8p4pcwhs8pslzj57xbszkfvqd01jmbf") (r "1.70.0")))
+
+(define-public crate-aldrin-parser-0.4.0 (c (n "aldrin-parser") (v "0.4.0") (d (list (d (n "heck") (r "^0.4.1") (k 0)) (d (n "pest") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "pest_derive") (r "^2.7.5") (f (quote ("std"))) (k 0)) (d (n "strsim") (r "^0.10.0") (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (k 0)) (d (n "unicode-width") (r "^0.1.11") (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (k 0)))) (h "15ah91pw83p8nkbi7gpmr7sz7macy3iw0872417iy05rhaxhmp3h") (r "1.70.0")))
+
+(define-public crate-aldrin-parser-0.5.0 (c (n "aldrin-parser") (v "0.5.0") (d (list (d (n "heck") (r "^0.4.1") (k 0)) (d (n "pest") (r "^2.7.10") (f (quote ("std"))) (k 0)) (d (n "pest_derive") (r "^2.7.10") (f (quote ("std"))) (k 0)) (d (n "strsim") (r "^0.10.0") (k 0)) (d (n "unicode-segmentation") (r "^1.10.1") (k 0)) (d (n "unicode-width") (r "^0.1.11") (k 0)) (d (n "uuid") (r "^1.6.1") (f (quote ("v4"))) (k 0)))) (h "1623vhwk7piighds49ssnl7cg0614is537k9zrskvih4zm9ngzw5") (r "1.70.0")))
+

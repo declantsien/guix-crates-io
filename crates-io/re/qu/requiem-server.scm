@@ -1,0 +1,4 @@
+(define-module (crates-io re qu requiem-server) #:use-module (crates-io))
+
+(define-public crate-requiem-server-1.0.1 (c (n "requiem-server") (v "1.0.1") (d (list (d (n "bytes") (r "^0.5") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6.7") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11") (d #t) (k 0)) (d (n "requiem-codec") (r "^0.2.0") (d #t) (k 0)) (d (n "requiem-rt") (r "^1.0.0") (d #t) (k 0)) (d (n "requiem-service") (r "^1.0.1") (d #t) (k 0)) (d (n "requiem-utils") (r "^1.0.4") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)))) (h "07jidwnwgj790j3qy6ka3g1rcaaly3m0zab3n0dn8dqhdqc83hx1") (f (quote (("default"))))))
+

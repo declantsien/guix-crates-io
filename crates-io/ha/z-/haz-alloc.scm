@@ -1,0 +1,16 @@
+(define-module (crates-io ha z- haz-alloc) #:use-module (crates-io))
+
+(define-public crate-haz-alloc-0.1.0 (c (n "haz-alloc") (v "0.1.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "haz-alloc-core") (r "^0.1") (d #t) (k 0)) (d (n "haz-alloc-internal") (r "^0.0.1") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "19n1wgk8zk2csmhfdg2rb9dgrv5rim0qb3irzzgziapdxq1zxmb8")))
+
+(define-public crate-haz-alloc-0.1.1 (c (n "haz-alloc") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "haz-alloc-core") (r "^0.1") (d #t) (k 0)) (d (n "haz-alloc-internal") (r "^0.0.1") (d #t) (k 2)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1vd8a6n99mg87pi08pl8b8ks48xm86pja2k9g4chwkhcnmczm9p8")))
+
+(define-public crate-haz-alloc-0.1.2 (c (n "haz-alloc") (v "0.1.2") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "haz-alloc-core") (r "^0.2") (d #t) (k 0)) (d (n "haz-alloc-internal") (r "^0.0.1") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0hk3x3zksh8bm3gfcr3pr276wpszms8r0c1fpbl168li4bz4h451") (y #t)))
+
+(define-public crate-haz-alloc-0.2.0 (c (n "haz-alloc") (v "0.2.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "haz-alloc-core") (r "^0.2") (d #t) (k 0)) (d (n "haz-alloc-internal") (r "^0.0.1") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1yfg1l7mbn2l4b21a3mp5isfcacva5vwh0iyb3saj0hsfmsdrcr3")))
+
+(define-public crate-haz-alloc-0.2.1 (c (n "haz-alloc") (v "0.2.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "haz-alloc-core") (r "^0.2") (d #t) (k 0)) (d (n "haz-alloc-internal") (r "^0.0.1") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0wlbg4j23wnhs4vqh7qxjy1w3fsrlsxr28n6ah66hgypdr6ghyjf")))
+
+(define-public crate-haz-alloc-0.3.0 (c (n "haz-alloc") (v "0.3.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "haz-alloc-core") (r "^0.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "11hp2x3ipa1ic29nl52wrd5pg9fphb8vpxb468729jq8shi0yxgg")))
+
+(define-public crate-haz-alloc-0.3.1 (c (n "haz-alloc") (v "0.3.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "errno") (r "^0.3") (t "cfg(unix)") (k 0)) (d (n "haz-alloc-core") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("memoryapi" "winnt" "sysinfoapi" "synchapi" "processthreadsapi" "fibersapi"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0q32hrcv7g79ci2d0zqjidgpr8j806g13kwf9qg27l140bn4lpxv")))
+

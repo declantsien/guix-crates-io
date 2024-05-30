@@ -1,0 +1,10 @@
+(define-module (crates-io rw th rwth_cli) #:use-module (crates-io))
+
+(define-public crate-rwth_cli-0.1.1 (c (n "rwth_cli") (v "0.1.1") (d (list (d (n "ansi_term") (r "^0.11.0") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.8.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.76") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.76") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.27") (d #t) (k 0)) (d (n "toml") (r "^0.4.6") (d #t) (k 0)))) (h "1jxzzy3idxcq1pi4s9pz4ychcywzsfzxa8agnlsyzardxwayq2a9")))
+
+(define-public crate-rwth_cli-0.0.2 (c (n "rwth_cli") (v "0.0.2") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "1wcniqr3yql6k1i0dj76qkx4fgszjsg8cmv8ly7447mr2vzd7cly")))
+
+(define-public crate-rwth_cli-0.1.2 (c (n "rwth_cli") (v "0.1.2") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "0mqix2i3lhiyzapjwjqarjdkpnd4wxwijspr6gfg4ml8gy02wz7b")))
+
+(define-public crate-rwth_cli-0.1.3 (c (n "rwth_cli") (v "0.1.3") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.1") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.44") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "05pdpdkan0g5668k3nkrh6yww4wjqgzgnvs1xq5p1xks6dg6j69c")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io gs t- gst-plugin-vosk) #:use-module (crates-io))
+
+(define-public crate-gst-plugin-vosk-0.1.0 (c (n "gst-plugin-vosk") (v "0.1.0") (d (list (d (n "async-tungstenite") (r "^0.17") (f (quote ("tokio" "tokio-runtime" "tokio-native-tls"))) (d #t) (k 0)) (d (n "atomic_refcell") (r "^0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gst") (r "^0.18") (d #t) (k 0) (p "gstreamer")) (d (n "gst-base") (r "^0.18") (d #t) (k 0) (p "gstreamer-base")) (d (n "gst-plugin-version-helper") (r "^0.7") (d #t) (k 1)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("rt-multi-thread" "time"))) (d #t) (k 0)))) (h "0c92lgr4k0raak167p919ijv12410d4sg0p4y3vk3xi5j8ciq5d6") (f (quote (("static" "gst/v1_14") ("capi"))))))
+

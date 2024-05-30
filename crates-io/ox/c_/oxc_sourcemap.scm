@@ -1,0 +1,20 @@
+(define-module (crates-io ox c_ oxc_sourcemap) #:use-module (crates-io))
+
+(define-public crate-oxc_sourcemap-0.11.0 (c (n "oxc_sourcemap") (v "0.11.0") (d (list (d (n "base64-simd") (r "^0.7") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "1car6ygyrlsnbkqnn9sh421j5dc1xc9lv58k3z3506lf72b6aaqf") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.11.1 (c (n "oxc_sourcemap") (v "0.11.1") (d (list (d (n "base64-simd") (r "^0.7") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0l2r3lrx9722c9jkzgs45krsxbfz1la02yyl3csai33ihh6vk87c") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.12.1 (c (n "oxc_sourcemap") (v "0.12.1") (d (list (d (n "base64-simd") (r "^0.7") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "1fxvibs8qzqpg0v043d195w3f8a11is7rh22wyjqi83pcb5hrzqc") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.12.2 (c (n "oxc_sourcemap") (v "0.12.2") (d (list (d (n "base64-simd") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0441wcj7n52mj7nagacb8znwwhiqdxmqzxvwiznp81bpp0y77cs0") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.12.3 (c (n "oxc_sourcemap") (v "0.12.3") (d (list (d (n "base64-simd") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0zb28kxb5l1qnc6asg1fblhilldp6n2irz84afssvqa092zzxw4l") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.12.4 (c (n "oxc_sourcemap") (v "0.12.4") (d (list (d (n "base64-simd") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "1qr57ny9pjjdk2qdzrrij5q68dfqk26y28h9vk56m0w1jw631zvc") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.12.5 (c (n "oxc_sourcemap") (v "0.12.5") (d (list (d (n "base64-simd") (r "^0.8") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)))) (h "1541fbqy3pzcmr5k5nr4cm00m8zszzny5q7vfdbbs8d5fnylji1x") (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.13.0 (c (n "oxc_sourcemap") (v "0.13.0") (d (list (d (n "base64-simd") (r "^0.8") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)))) (h "06i7v4fwfhzxr1sz9ga9mkp9458ywn06l0h8k97siimzjnzjd1na") (f (quote (("default")))) (s 2) (e (quote (("concurrent" "dep:rayon")))) (r "1.74")))
+
+(define-public crate-oxc_sourcemap-0.13.1 (c (n "oxc_sourcemap") (v "0.13.1") (d (list (d (n "base64-simd") (r "^0.8") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)))) (h "03acw5nsi9yv31z83yi0vhpv1ksfarc6ymndzcwf0qi53g2khxk8") (f (quote (("default")))) (s 2) (e (quote (("concurrent" "dep:rayon")))) (r "1.74")))
+

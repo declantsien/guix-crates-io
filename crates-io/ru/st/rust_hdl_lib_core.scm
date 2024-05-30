@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rust_hdl_lib_core) #:use-module (crates-io))
+
+(define-public crate-rust_hdl_lib_core-0.44.1 (c (n "rust_hdl_lib_core") (v "0.44.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "array-init") (r "^2.0.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.1") (d #t) (k 0)) (d (n "embed-doc-image") (r "^0.1.4") (d #t) (k 0)) (d (n "evalexpr") (r "^6.3.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "petgraph") (r "^0.6.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.5.4") (d #t) (k 0)) (d (n "rust_hdl_lib_macros") (r "^0.44.0") (d #t) (k 0)) (d (n "seq-macro") (r "^0.3.1") (d #t) (k 0)) (d (n "substring") (r "^1") (d #t) (k 0)) (d (n "svg") (r "^0.10.0") (d #t) (k 0)) (d (n "vcd") (r "^0.6.1") (d #t) (k 0)))) (h "0q6d25qbpvqlwxk5kkkxf7y8z3lk4sjn5wkh4yaf5fnb7kw6zb3y")))
+

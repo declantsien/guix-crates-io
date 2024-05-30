@@ -1,0 +1,8 @@
+(define-module (crates-io re vm revmenu) #:use-module (crates-io))
+
+(define-public crate-revmenu-0.1.0 (c (n "revmenu") (v "0.1.0") (d (list (d (n "clap") (r "^2.29.4") (d #t) (k 0)) (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "itertools") (r "^0.7.7") (d #t) (k 0)) (d (n "nom") (r "^4.0.0-beta1") (d #t) (k 0)))) (h "06093syf1zclf0c6cq8yjhv3dxwn5rl3d524wf016shmhn5jaq25")))
+
+(define-public crate-revmenu-0.1.1 (c (n "revmenu") (v "0.1.1") (d (list (d (n "clap") (r "^2.29.4") (d #t) (k 0)) (d (n "clippy") (r "0.0.*") (o #t) (d #t) (k 0)) (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "im") (r "^9.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.7.7") (d #t) (k 0)) (d (n "nom") (r "^4.0.0-beta2") (d #t) (k 0)))) (h "1a9h8mxa1yf7123aq5jg6air8qspba09y6173d0fdkgdlkwdv0ch") (f (quote (("unstable" "clippy"))))))
+
+(define-public crate-revmenu-0.1.2 (c (n "revmenu") (v "0.1.2") (d (list (d (n "clap") (r "^2.29.4") (d #t) (k 0)) (d (n "clippy") (r "0.0.*") (o #t) (d #t) (k 0)) (d (n "colored") (r "^1.6.0") (d #t) (k 0)) (d (n "console") (r "^0.6.1") (d #t) (k 0)) (d (n "exitcode") (r "^1.1.2") (d #t) (k 0)) (d (n "failure") (r "^0.1.1") (d #t) (k 0)) (d (n "im") (r "^9.0.0") (d #t) (k 0)) (d (n "itertools") (r "^0.7.7") (d #t) (k 0)) (d (n "nom") (r "^4.0.0-beta2") (d #t) (k 0)))) (h "09yyyb4p2kf7zs8ivafgk34z42ncmw2ms9asi4vaprbhxi8w8q08") (f (quote (("unstable" "clippy"))))))
+

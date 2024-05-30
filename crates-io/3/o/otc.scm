@@ -1,0 +1,18 @@
+(define-module (crates-io #{3}# o otc) #:use-module (crates-io))
+
+(define-public crate-otc-0.1.0 (c (n "otc") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "120m1v8hlb39511kypv8kq4svj08jz544dnl6kimwl384gigw4la") (y #t)))
+
+(define-public crate-otc-0.1.1 (c (n "otc") (v "0.1.1") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "1pphqmy2rf5kcr5qigvc698mbszc5x1myvn8lgd5vwsqvz9ml0zp") (y #t)))
+
+(define-public crate-otc-0.1.2 (c (n "otc") (v "0.1.2") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "1gbfpqmzx3ahw8wqrp7h0r2nd05kn0qcmm5ba593v5p1308hp5xh") (y #t)))
+
+(define-public crate-otc-0.1.3 (c (n "otc") (v "0.1.3") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs") (r "^0.0.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "152p96w7kffspzw9j67rngc1iak8ig0jjm7dv25bsy1b548kbscm") (y #t)))
+
+(define-public crate-otc-0.1.4 (c (n "otc") (v "0.1.4") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs") (r "^0.0.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "1zbj4xd08yjqh4l67lklfhgylpyszpck9kiljz1nvrr3jshq5qgn")))
+
+(define-public crate-otc-0.1.5 (c (n "otc") (v "0.1.5") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs") (r "^0.0.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "08qb874crinaal8hhm2fvid3bdr38dmr44hqnh6svm3ra7ax9qgz")))
+
+(define-public crate-otc-0.1.6 (c (n "otc") (v "0.1.6") (d (list (d (n "bat") (r "^0.23.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs") (r "^0.0.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)))) (h "1wp5lxwc76ayp0iiy45pc3p7rn9dfnzig2d9h9a27alf2qinc50c")))
+
+(define-public crate-otc-0.1.7 (c (n "otc") (v "0.1.7") (d (list (d (n "bat") (r "^0.23.0") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "fs") (r "^0.0.5") (d #t) (k 0)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 0)) (d (n "spinners") (r "^4.1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24.3") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("std"))) (d #t) (k 0)))) (h "1xdbw0562ynck2wypgf7pc6w609q0qhp5llicqczc1xl60f1adxh")))
+

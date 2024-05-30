@@ -1,0 +1,24 @@
+(define-module (crates-io #{2}# mn) #:use-module (crates-io))
+
+(define-public crate-mn-0.1.0 (c (n "mn") (v "0.1.0") (d (list (d (n "app_dirs") (r "^1.2.1") (d #t) (k 0)) (d (n "bat") (r "^0.9.0") (d #t) (k 0)) (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "064pmzp8agpz39hxx1d9bm1im7q3a7zq65iaqafxdzg4agzssbs8")))
+
+(define-public crate-mn-0.1.1 (c (n "mn") (v "0.1.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "0vqq2xsm8hm8svxrln433bhx97p01f51bljqfrh35ryb88387pkx")))
+
+(define-public crate-mn-0.1.2 (c (n "mn") (v "0.1.2") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "0l395pikvkn0xdn3lqbjnkgpppli2r3xvr1parv8kqpldkg9i87w")))
+
+(define-public crate-mn-0.1.3 (c (n "mn") (v "0.1.3") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "1svx6vnx8hav3xbccn2sm24vfp15pwa8csma4wf83sxl74sqwsaq")))
+
+(define-public crate-mn-0.1.4 (c (n "mn") (v "0.1.4") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "0ykayvzfq996rlpwh44fxkczcs1v1qm84irn980kffw4hsw9dhhg")))
+
+(define-public crate-mn-0.1.5 (c (n "mn") (v "0.1.5") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "1xhyrvk7f0dn9qw62xhycgsl0fwalq9hfwv4lh69ndiis9wr8ra5")))
+
+(define-public crate-mn-0.1.6 (c (n "mn") (v "0.1.6") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "1gv4cfx5w3csw5wlvggdlqpj0425x3i2spyb36dbx8x95s25p307")))
+
+(define-public crate-mn-0.1.7 (c (n "mn") (v "0.1.7") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "0ky9b3l9ix9kryrqqwvii0h6lnw9kslks6m58vscilzblgdailzz")))
+
+(define-public crate-mn-0.1.8 (c (n "mn") (v "0.1.8") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "1aql4f8iqbqzlymbhz3qpalca2zjs3gcg3jrv8hfix6xz510ll8k")))
+
+(define-public crate-mn-0.2.0 (c (n "mn") (v "0.2.0") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "clap") (r "^2.23") (d #t) (k 1)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 1)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "02vk8bh577cnq3qkac6nyq5jkrljjh2r17l049h5qq3hg4if0h2f")))
+
+(define-public crate-mn-0.2.1 (c (n "mn") (v "0.2.1") (d (list (d (n "clap") (r "^2.32.0") (d #t) (k 0)) (d (n "colored") (r "^1.7.0") (d #t) (k 0)) (d (n "directories") (r "^1.0.2") (d #t) (k 0)) (d (n "man") (r "^0.3.0") (d #t) (k 0)) (d (n "open") (r "^1.2.2") (d #t) (k 0)) (d (n "prettyprint") (r "^0.3.0") (d #t) (k 0)))) (h "1y4chd4ffz9yx6g592bv15zj6qckygmh7d98csda9wqz7vpd7ga9")))
+

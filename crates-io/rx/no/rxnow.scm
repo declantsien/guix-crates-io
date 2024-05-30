@@ -1,0 +1,14 @@
+(define-module (crates-io rx no rxnow) #:use-module (crates-io))
+
+(define-public crate-rxnow-0.0.0 (c (n "rxnow") (v "0.0.0") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive" "unicode" "env" "wrap_help" "string"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "iocore") (r "^0.1.10") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (f (quote ("use_std" "pattern" "logging"))) (d #t) (k 0)))) (h "1408mmmzlxg0z3f7q39bvk1vy538fz7qi2y34avwix0ic21gcyrq")))
+
+(define-public crate-rxnow-0.0.1 (c (n "rxnow") (v "0.0.1") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive" "unicode" "env" "wrap_help" "string"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "iocore") (r "^0.1.10") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (f (quote ("use_std" "pattern" "logging"))) (d #t) (k 0)))) (h "0b5v5q65l30dx7r3j9qgazzh5ylqd1gyxl75a3f0r1vfaxdri7nl")))
+
+(define-public crate-rxnow-0.0.2 (c (n "rxnow") (v "0.0.2") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive" "unicode" "env" "wrap_help" "string"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "iocore") (r "^0.1.10") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (f (quote ("use_std" "pattern" "logging"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0a6vm0ic0gbs1h75mx8qqf5acwmvy9m9z01bf3lqcbh9s914flms")))
+
+(define-public crate-rxnow-0.0.3 (c (n "rxnow") (v "0.0.3") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive" "unicode" "env" "wrap_help" "string"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "iocore") (r "^0.100.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (f (quote ("use_std" "pattern" "logging"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0qywyi8j8cqr9mqf770b42hcap520g7nkkdswkd758jb51iicq8b")))
+
+(define-public crate-rxnow-0.0.4 (c (n "rxnow") (v "0.0.4") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive" "unicode" "env" "wrap_help" "string"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "iocore") (r "^0.100.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (f (quote ("use_std" "pattern" "logging"))) (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "0lq787ap2aqvss05dz455x4962p0flknc6p2kpl1laaw22sy2yf1")))
+
+(define-public crate-rxnow-0.0.5 (c (n "rxnow") (v "0.0.5") (d (list (d (n "clap") (r "^4.4.6") (f (quote ("derive" "unicode" "env" "wrap_help" "string"))) (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "iocore") (r "^0.100.1") (d #t) (k 0)) (d (n "regex") (r "^1.9.6") (f (quote ("use_std" "pattern" "logging"))) (d #t) (k 0)) (d (n "strip-ansi-escapes") (r "^0.2.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "153dd08hllk80ydibadh08xmjmk1n539nd4glk32s71h6r3q9l0g")))
+

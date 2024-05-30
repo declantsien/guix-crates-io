@@ -1,0 +1,12 @@
+(define-module (crates-io #{3}# b bfc) #:use-module (crates-io))
+
+(define-public crate-bfc-1.7.0 (c (n "bfc") (v "1.7.0") (d (list (d (n "ansi_term") (r "^0.9") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.4") (d #t) (k 0)) (d (n "llvm-sys") (r "^0.3") (d #t) (k 0)) (d (n "matches") (r "^0.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "tempfile") (r "^2.1") (d #t) (k 0)))) (h "0vj6lkm2l80pzrxqkj6c4bb09mh87j7cdblz07gm14w1v8i6ihbs")))
+
+(define-public crate-bfc-1.9.0 (c (n "bfc") (v "1.9.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "itertools") (r "^0.9") (d #t) (k 0)) (d (n "llvm-sys") (r "^100.0.0") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "1hj9i24xxkvjcjmglshf4rv687yammf9smlzh214fnhmm1a63z42")))
+
+(define-public crate-bfc-1.10.0 (c (n "bfc") (v "1.10.0") (d (list (d (n "ariadne") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("cargo" "string" "wrap_help"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "llvm-sys") (r "^130.0.5") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "07yr46naw4g5m0iax0cvkxq3fkckwkp1v762wl4aspr34bvpa3nv") (r "1.64.0")))
+
+(define-public crate-bfc-1.11.0 (c (n "bfc") (v "1.11.0") (d (list (d (n "ariadne") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("cargo" "string" "wrap_help"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "llvm-sys") (r "^130.0.5") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "1gdq4fqxxd8sr259q7pm1q0akfxw2dph3ynkl7q9lrddg80j7rvq") (r "1.64.0")))
+
+(define-public crate-bfc-1.12.0 (c (n "bfc") (v "1.12.0") (d (list (d (n "ariadne") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.3.4") (f (quote ("cargo" "string" "wrap_help"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "llvm-sys") (r "^130.0.5") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "quickcheck") (r "^0.9.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 0)))) (h "0x5r2l4762rkwzpf0rkh71vi3cxywg3f56sldn8libc7dcw4zn1p") (r "1.64.0")))
+

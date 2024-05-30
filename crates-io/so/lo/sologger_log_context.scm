@@ -1,0 +1,8 @@
+(define-module (crates-io so lo sologger_log_context) #:use-module (crates-io))
+
+(define-public crate-sologger_log_context-0.1.0 (c (n "sologger_log_context") (v "0.1.0") (d (list (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "regex") (r "^1.9.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("serde_derive" "derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "05n6igrbh1a406rbsz64n7w7g50w9a0grm1vrn1wbzb3lj55zg7a")))
+
+(define-public crate-sologger_log_context-0.1.1 (c (n "sologger_log_context") (v "0.1.1") (d (list (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("serde_derive" "derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "1fsmzqz75l4hc88j4m3b13pvcpi5wsz6phaj0n2d5vv82h2qllrx")))
+
+(define-public crate-sologger_log_context-0.1.2 (c (n "sologger_log_context") (v "0.1.2") (d (list (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("serde_derive" "derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "0wc1alsly5rj8k7wrgfvpfn1165kmvb70d5d3vrfndbhjlvmpd9y")))
+

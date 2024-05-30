@@ -1,0 +1,10 @@
+(define-module (crates-io en db endbasic-sdl) #:use-module (crates-io))
+
+(define-public crate-endbasic-sdl-0.8.0 (c (n "endbasic-sdl") (v "0.8.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "endbasic-std") (r "^0.8.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures-lite") (r "^1.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "sdl2") (r "^0.34") (f (quote ("ttf"))) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "04b9qqfavxn4x6lh3w6hnwsylz3rj9bcbmjv43q1hy7yl3mhnyxh")))
+
+(define-public crate-endbasic-sdl-0.8.1 (c (n "endbasic-sdl") (v "0.8.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "endbasic-std") (r "^0.8.1") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures-lite") (r "^1.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "sdl2") (r "^0.34") (f (quote ("ttf"))) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "0lxhh93lxyw5k9xs03fvx3xypsj52akh2kx6mvv811wvxa2nn73w")))
+
+(define-public crate-endbasic-sdl-0.9.0 (c (n "endbasic-sdl") (v "0.9.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "endbasic-std") (r "^0.9.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures-lite") (r "^1.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "sdl2") (r "^0.34") (f (quote ("ttf"))) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "07xr63kis2h08fqz0mjphxgxzr6x9a3k7bvw0a00fkjd8ns004mi")))
+
+(define-public crate-endbasic-sdl-0.10.0 (c (n "endbasic-sdl") (v "0.10.0") (d (list (d (n "async-channel") (r "^1.5") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "endbasic-core") (r "^0.10.0") (d #t) (k 0)) (d (n "endbasic-std") (r "^0.10.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "futures-lite") (r "^1.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "sdl2") (r "^0.35") (f (quote ("ttf"))) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "19rqar3mzbwibb0zgkw3x5jpwdf56g359831r03hq49l141cz278")))
+

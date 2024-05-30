@@ -1,0 +1,8 @@
+(define-module (crates-io sa mo samotop-smime) #:use-module (crates-io))
+
+(define-public crate-samotop-smime-0.12.0 (c (n "samotop-smime") (v "0.12.0") (d (list (d (n "async-macros") (r "^2.0") (d #t) (k 0)) (d (n "async-process") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9") (d #t) (k 0)) (d (n "futures-await-test") (r "^0.3") (d #t) (k 2)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.12.0") (d #t) (k 0)))) (h "0b209i8albjrkn52l2jjg7x1xivrngxx3czh206k6dkig81v5zvb")))
+
+(define-public crate-samotop-smime-0.13.0-samotop-dev (c (n "samotop-smime") (v "0.13.0-samotop-dev") (d (list (d (n "async-macros") (r "^2.0") (d #t) (k 0)) (d (n "async-process") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.13.0-samotop-dev") (d #t) (k 0)))) (h "0f8ccmhhxni1k1fyskjs9jp88gshs04ckcp0i8yhd2cpj8rayfv3")))
+
+(define-public crate-samotop-smime-0.13.0 (c (n "samotop-smime") (v "0.13.0") (d (list (d (n "async-macros") (r "^2.0") (d #t) (k 0)) (d (n "async-process") (r "^1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pin-project") (r "^1.0") (d #t) (k 0)) (d (n "samotop-core") (r "^0.13.0") (d #t) (k 0)))) (h "11lzwfq3lgba8f3n51mm0ybhhrdgxv83mw9f6nmwz3kfp30v63c3")))
+

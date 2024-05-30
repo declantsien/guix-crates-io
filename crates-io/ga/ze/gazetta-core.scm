@@ -1,0 +1,18 @@
+(define-module (crates-io ga ze gazetta-core) #:use-module (crates-io))
+
+(define-public crate-gazetta-core-0.1.0 (c (n "gazetta-core") (v "0.1.0") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 0)) (d (n "horrorshow") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.2") (d #t) (k 0)))) (h "09gyh0xz3pxk4igjfxdg4hjav6a0vfb3jksl4nam9cwwb5l35ndy")))
+
+(define-public crate-gazetta-core-0.1.1 (c (n "gazetta-core") (v "0.1.1") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 0)) (d (n "horrorshow") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.2") (d #t) (k 0)))) (h "0kk4ja7mc2869pwp37q6l4jnnimp7via6nh8zh9b4wza9gak6fdy")))
+
+(define-public crate-gazetta-core-0.1.2 (c (n "gazetta-core") (v "0.1.2") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 0)) (d (n "horrorshow") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^0.1") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.2") (d #t) (k 0)))) (h "13371c6sb4gvfz0fcrb9xli1ippv701krlk4dx39nrhw8yy7dxv7")))
+
+(define-public crate-gazetta-core-0.1.3 (c (n "gazetta-core") (v "0.1.3") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 0)) (d (n "horrorshow") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.2") (d #t) (k 0)))) (h "0xzmmril4nxwyqq0hss4i7q4vv1m49zv0mbkjsh7aph6g4bs0kgn")))
+
+(define-public crate-gazetta-core-0.2.0 (c (n "gazetta-core") (v "0.2.0") (d (list (d (n "chrono") (r "^0.2") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 0)) (d (n "horrorshow") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^0.2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.2") (d #t) (k 0)))) (h "1zagq63ddvjli8jd6aq12g4xy26d3lf141xamwrgpfsr9zwaxr7n")))
+
+(define-public crate-gazetta-core-0.2.1 (c (n "gazetta-core") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "glob") (r "^0.2") (d #t) (k 0)) (d (n "horrorshow") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.7") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "17piqacbpm2bya7sidxlb49x56xbvy3523fpq5qwgk2gqxprx8ja")))
+
+(define-public crate-gazetta-core-0.3.0 (c (n "gazetta-core") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "horrorshow") (r "^0.7") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1ndmpl8qqqjgbym2a8pkf5wsrh114qxb5c65wm0dbzavij05ypik")))
+
+(define-public crate-gazetta-core-0.3.1 (c (n "gazetta-core") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "horrorshow") (r "^0.8.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "str_stack") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "yaml-rust") (r "^0.4") (d #t) (k 0)))) (h "1lx0xb5zf4rprd8kx6vrf9iv3v036s11y1lwhnrnh78d612d69sm")))
+

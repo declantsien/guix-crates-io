@@ -1,0 +1,8 @@
+(define-module (crates-io ca ff caffe2op-fullyconnected) #:use-module (crates-io))
+
+(define-public crate-caffe2op-fullyconnected-0.1.3-alpha.0 (c (n "caffe2op-fullyconnected") (v "0.1.3-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-math") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.3-alpha.0") (d #t) (k 0)))) (h "03wd9y93xzjhpkng65piflxs1sd3jl1k09w8v0nabm6723lgn2s5")))
+
+(define-public crate-caffe2op-fullyconnected-0.1.4-alpha.0 (c (n "caffe2op-fullyconnected") (v "0.1.4-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-math") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.4-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.4-alpha.0") (d #t) (k 0)))) (h "0yd36s2v77wcj43mx9crlqx2ywyrkm8r4ia2w5sagbj4l78x39km")))
+
+(define-public crate-caffe2op-fullyconnected-0.1.5-alpha.0 (c (n "caffe2op-fullyconnected") (v "0.1.5-alpha.0") (d (list (d (n "caffe2-context") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-imports") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-math") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-operator") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-tensor") (r "^0.1.5-alpha.0") (d #t) (k 0)) (d (n "caffe2-util") (r "^0.1.5-alpha.0") (d #t) (k 0)))) (h "1lm87vlqr4v6d7szi5d13j03i5has54733fsn9317svc2l5fxqmc")))
+

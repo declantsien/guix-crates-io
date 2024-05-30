@@ -1,0 +1,10 @@
+(define-module (crates-io si te sitemapper) #:use-module (crates-io))
+
+(define-public crate-sitemapper-0.0.1 (c (n "sitemapper") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "headless_chrome") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "scraper") (r "^0.14.0") (d #t) (k 0)) (d (n "sitemap") (r "^0.4.1") (d #t) (k 0)))) (h "03q2yds3dqgy8kldpanygq4ng28s2ssb5ax7irw39z3fk1fsliqb")))
+
+(define-public crate-sitemapper-0.0.2 (c (n "sitemapper") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "headless_chrome") (r "^1.0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "scraper") (r "^0.14.0") (d #t) (k 0)) (d (n "sitemap") (r "^0.4.1") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0712nrdzawxmq1liy2p1jjyq90g4z4y3fs2g1322f9fmmx57h216")))
+
+(define-public crate-sitemapper-0.0.3 (c (n "sitemapper") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.23") (d #t) (k 0)) (d (n "clap") (r "^4.0.32") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "headless_chrome") (r "^1.0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "scraper") (r "^0.15.0") (d #t) (k 0)) (d (n "sitemap") (r "^0.4.1") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0gnrj1wx6vfmyzjd6dcsb2y6bqy2rsif8cg7dlsha0sccmqbf2h9")))
+
+(define-public crate-sitemapper-0.0.4 (c (n "sitemapper") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "headless_chrome") (r "^1.0.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "scraper") (r "^0.18.1") (d #t) (k 0)) (d (n "sitemap") (r "^0.4.1") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "10bs1sbw1gmga804nwgynarbg79yawjymzd05jv3b4hh6plc4jmi")))
+

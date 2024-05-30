@@ -1,0 +1,20 @@
+(define-module (crates-io ra di radix64) #:use-module (crates-io))
+
+(define-public crate-radix64-0.1.0 (c (n "radix64") (v "0.1.0") (h "1hl7nrpdf88wdh2daa74bcxx0c885fq2bnq38j6cficmc1am5bqn")))
+
+(define-public crate-radix64-0.2.0 (c (n "radix64") (v "0.2.0") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "100xh37ayp52bwbxlk6lnjy46qp8vgb0gc58bj9nmz9g4bfnpkkd") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.3.0 (c (n "radix64") (v "0.3.0") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "0gl98ki35s8fkf4j9wkl6i3m02mnq75qa6b8ck5bdq2n4j636anj") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.4.0 (c (n "radix64") (v "0.4.0") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "1jgrrcrhmg1sckyng1pjfpjbbd0hz0pw0i28ncafkq8g38jjls46") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.5.0 (c (n "radix64") (v "0.5.0") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "1n1d6zdf5mp48pia27bzncpb7zh3zd67gz7baaf1fiwclsk0nz99") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.5.1 (c (n "radix64") (v "0.5.1") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "1vkcas7ymz34dgnqpvkzaz1vnd01bjx8p779p1nkqhgz8bc4mgx4") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.6.0 (c (n "radix64") (v "0.6.0") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "1wkz9nkcns4py4r6m3xwqnmyjbhhyphahxx1wlaw3rwnq2ik0sbw") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.6.1 (c (n "radix64") (v "0.6.1") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "0zgzd5qvv6pc30p8izifa24f509h1fwanbbircylnb07bd5hrxam") (f (quote (("simd") ("default" "simd"))))))
+
+(define-public crate-radix64-0.6.2 (c (n "radix64") (v "0.6.2") (d (list (d (n "arrayref") (r "^0.3.5") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 2)) (d (n "cfg-if") (r "^0.1.9") (d #t) (k 0)) (d (n "criterion") (r "^0.2.11") (d #t) (k 2)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^0.9.4") (d #t) (k 2)) (d (n "rand") (r "^0.6.5") (d #t) (k 2)))) (h "1vib6k6yx2fyy1sab0lalmp47zr6hnlybnpnyds3mgn3cpx1i5wr") (f (quote (("simd") ("default" "simd"))))))
+

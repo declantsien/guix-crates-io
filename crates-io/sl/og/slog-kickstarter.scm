@@ -1,0 +1,6 @@
+(define-module (crates-io sl og slog-kickstarter) #:use-module (crates-io))
+
+(define-public crate-slog-kickstarter-0.1.0 (c (n "slog-kickstarter") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 2)) (d (n "slog") (r "^2.5.2") (d #t) (k 0)) (d (n "slog-async") (r "^2.5.0") (d #t) (k 0)) (d (n "slog-envlogger") (r "^2.2.0") (d #t) (k 0)) (d (n "slog-json") (r "^2.3.0") (d #t) (k 0)) (d (n "slog-scope") (r "^4.3.0") (d #t) (k 2)) (d (n "slog-stdlog") (r "^4.0.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.6.0") (d #t) (k 0)))) (h "0aard74skzcrymlbdk352pxk89wh00gq83pbxz05a112700v5ddc")))
+
+(define-public crate-slog-kickstarter-0.2.0 (c (n "slog-kickstarter") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.13") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 2)) (d (n "slog") (r "^2.5.2") (d #t) (k 0)) (d (n "slog-async") (r "^2.5.0") (d #t) (k 0)) (d (n "slog-envlogger") (r "^2.2.0") (d #t) (k 0)) (d (n "slog-json") (r "^2.3.0") (d #t) (k 0)) (d (n "slog-scope") (r "^4.3.0") (d #t) (k 2)) (d (n "slog-stdlog") (r "^4.0.0") (d #t) (k 0)) (d (n "slog-term") (r "^2.6.0") (d #t) (k 0)))) (h "07vgwka370yxri5d9fqz46l6ik6vf2mizvb53pjg8jfnjwhkh0ii")))
+

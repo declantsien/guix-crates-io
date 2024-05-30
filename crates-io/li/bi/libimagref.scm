@@ -1,0 +1,6 @@
+(define-module (crates-io li bi libimagref) #:use-module (crates-io))
+
+(define-public crate-libimagref-0.2.0 (c (n "libimagref") (v "0.2.0") (d (list (d (n "itertools") (r "^0.4") (d #t) (k 0)) (d (n "libimagentrylist") (r "^0.2.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.2.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.2.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "semver") (r "^0.2") (d #t) (k 0)) (d (n "toml") (r "0.2.*") (d #t) (k 0)) (d (n "version") (r "^2.0.1") (d #t) (k 0)) (d (n "walkdir") (r "^0.1.5") (d #t) (k 0)))) (h "17mq3grr57n4c8d4zi0kcyf1rwiyjhwc1xcvpf499qchk0zq0w73")))
+
+(define-public crate-libimagref-0.3.0 (c (n "libimagref") (v "0.3.0") (d (list (d (n "itertools") (r "^0.5") (d #t) (k 0)) (d (n "libimagentrylist") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagerror") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagstore") (r "^0.3.0") (d #t) (k 0)) (d (n "libimagutil") (r "^0.3.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "rust-crypto") (r "^0.2") (d #t) (k 0)) (d (n "semver") (r "^0.5") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "version") (r "^2.0.1") (d #t) (k 0)) (d (n "walkdir") (r "1.0.*") (d #t) (k 0)))) (h "1m9wgc464vfddqvxw58f885qn4zh47sffnmj7q1cl2q6jdach23b")))
+

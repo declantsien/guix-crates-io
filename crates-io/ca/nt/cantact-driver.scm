@@ -1,0 +1,16 @@
+(define-module (crates-io ca nt cantact-driver) #:use-module (crates-io))
+
+(define-public crate-cantact-driver-0.0.1 (c (n "cantact-driver") (v "0.0.1") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0fzh2jayagdfsjhf47958dz00x8llb2hfsjv3f8hiy5igk0ldskf") (f (quote (("python" "pyo3"))))))
+
+(define-public crate-cantact-driver-0.0.2 (c (n "cantact-driver") (v "0.0.2") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "167vqrmlvqjq2iqr88gbr53n9ppl11zhbdv3bcqy03rm209kai2a") (f (quote (("python" "pyo3"))))))
+
+(define-public crate-cantact-driver-0.0.5 (c (n "cantact-driver") (v "0.0.5") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0vjnwl4ffb9z2la66vpzdlqszmgdizcaq2hxkh7l1lgh406gyi3k") (f (quote (("python" "pyo3"))))))
+
+(define-public crate-cantact-driver-0.0.6 (c (n "cantact-driver") (v "0.0.6") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0hzyrnq23nyfn6q1saqk9rbwdxqq5ga0fk8zfqimsjxi49y3a6wj") (f (quote (("python" "pyo3"))))))
+
+(define-public crate-cantact-driver-0.0.7 (c (n "cantact-driver") (v "0.0.7") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1kgwmbs31iqx6fq34lh8y5pxia0j72p4bhhwiq27crrn837jzrdb") (f (quote (("python" "pyo3"))))))
+
+(define-public crate-cantact-driver-0.1.0 (c (n "cantact-driver") (v "0.1.0") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0wsdvqy2lspwm017n310x5r7czx18ri2c52a5zsipbsnb4ah2bgn") (f (quote (("python" "pyo3"))))))
+
+(define-public crate-cantact-driver-0.1.2 (c (n "cantact-driver") (v "0.1.2") (d (list (d (n "crossbeam-channel") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "libusb1-sys") (r "^0.3") (d #t) (k 0)) (d (n "pyo3") (r "^0.10.1") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "06pfb0wh4lyyniccmca144f5gabkngvrg4axmypy8xq0zq57bkxh") (f (quote (("python" "pyo3"))))))
+

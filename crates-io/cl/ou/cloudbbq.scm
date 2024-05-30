@@ -1,0 +1,10 @@
+(define-module (crates-io cl ou cloudbbq) #:use-module (crates-io))
+
+(define-public crate-cloudbbq-0.1.0 (c (n "cloudbbq") (v "0.1.0") (d (list (d (n "bluez-async") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "1dqlpjm5xjxvwf1kn6mq75qn32axhhfpgmqi1pd3a8xqfwwra08d")))
+
+(define-public crate-cloudbbq-0.1.1 (c (n "cloudbbq") (v "0.1.1") (d (list (d (n "bluez-async") (r "^0.3.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "0nqiy4y6rzlmx3xspn3xngjm4yf3c9np4pdb769jf71dx02zqxav")))
+
+(define-public crate-cloudbbq-0.2.0 (c (n "cloudbbq") (v "0.2.0") (d (list (d (n "bluez-async") (r "^0.3.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (d #t) (k 2)) (d (n "futures") (r "^0.3.13") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.23") (d #t) (k 0)) (d (n "tokio") (r "^1.0.1") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)) (d (n "uuid") (r "^0.8.1") (d #t) (k 0)))) (h "1345v7whjq50djg93hj9bw2w25ys7i73wshnigm8bm77cwnz9vzv")))
+
+(define-public crate-cloudbbq-0.3.0 (c (n "cloudbbq") (v "0.3.0") (d (list (d (n "bluez-async") (r "^0.7.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (d #t) (k 0)) (d (n "eyre") (r "^0.6.5") (d #t) (k 2)) (d (n "pretty_env_logger") (r "^0.4.0") (d #t) (k 2)) (d (n "tokio") (r "^1.18.4") (f (quote ("macros" "rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "1nfnd4b6m8ji4rd6fpvby0mzawxrwl9hmgp3havyawzc6bgr47pp")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io de fi definitely-not-piet-direct2d-please-ignore) #:use-module (crates-io))
+
+(define-public crate-definitely-not-piet-direct2d-please-ignore-0.6.0 (c (n "definitely-not-piet-direct2d-please-ignore") (v "0.6.0") (d (list (d (n "associative-cache") (r "^1.0.1") (d #t) (k 0)) (d (n "dwrote") (r "^0.11.0") (k 0)) (d (n "piet") (r "=0.6.0") (d #t) (k 0)) (d (n "utf16_lit") (r "^2.0.2") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("d2d1" "d2d1_1" "d2d1effects" "d2dbasetypes" "dcommon" "d3d11" "dxgi" "winnls"))) (d #t) (k 0)) (d (n "wio") (r "^0.2.2") (d #t) (k 0)) (d (n "piet") (r "=0.6.0") (f (quote ("samples"))) (d #t) (k 2)) (d (n "piet-common") (r "=0.6.0") (f (quote ("png"))) (d #t) (k 2)))) (h "1bcrk3rxphgi534m9rzhqjizx5hdhpm1gs08pdw4bd8gh8nln6mf") (y #t)))
+

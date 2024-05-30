@@ -1,0 +1,12 @@
+(define-module (crates-io no tp notp) #:use-module (crates-io))
+
+(define-public crate-notp-1.1.0 (c (n "notp") (v "1.1.0") (d (list (d (n "base32") (r "^0.4.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "magic-crypt") (r "^2.1.10") (d #t) (k 0)) (d (n "oath") (r "^0.10.2") (d #t) (k 0)) (d (n "ring") (r "^0.16.12") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "0gzdfbywgygi0g6gsc74kacdj798240sf2gkr0adhzdcb76pwlmq")))
+
+(define-public crate-notp-1.1.1 (c (n "notp") (v "1.1.1") (d (list (d (n "base32") (r "^0.4.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "magic-crypt") (r "^2.1.10") (d #t) (k 0)) (d (n "oath") (r "^0.10.2") (d #t) (k 0)) (d (n "ring") (r "^0.16.12") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1s6ki8m22qnzfkz1d7gx0vwma82k2y3527s9b790wvlp3gmqm861")))
+
+(define-public crate-notp-1.1.2 (c (n "notp") (v "1.1.2") (d (list (d (n "base32") (r "^0.4.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "magic-crypt") (r "^2.1.10") (d #t) (k 0)) (d (n "oath") (r "^0.10.2") (d #t) (k 0)) (d (n "ring") (r "^0.16.12") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "1p05f0096hma63p9d7psy2v136918qjqxqb1j4qfy9v4scigx52h")))
+
+(define-public crate-notp-2.0.0 (c (n "notp") (v "2.0.0") (d (list (d (n "base32") (r "^0.4.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "kv") (r "^0.20.2") (d #t) (k 0)) (d (n "magic-crypt") (r "^2.1.10") (d #t) (k 0)) (d (n "oath") (r "^0.10.2") (d #t) (k 0)) (d (n "ring") (r "^0.16.12") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "12z114sa4xdgx3zwj3jia8mkl1rq14xawmxj1hij3w1mqcp175pi")))
+
+(define-public crate-notp-2.1.0 (c (n "notp") (v "2.1.0") (d (list (d (n "base32") (r "^0.4.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "kv") (r "^0.20.2") (o #t) (d #t) (k 0)) (d (n "magic-crypt") (r "^3.0.0") (d #t) (k 0)) (d (n "oath") (r "^0.10.2") (d #t) (k 0)) (d (n "ring") (r "^0.16.12") (d #t) (k 0)) (d (n "rpassword") (r "^4.0.5") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "02chwiphphc2v6z9dpl29h8yvlc70bqrcqp0mqf1mh3mm27rns6p") (f (quote (("kv-store" "kv") ("default" "kv-store"))))))
+

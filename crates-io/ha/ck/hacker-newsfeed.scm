@@ -1,0 +1,4 @@
+(define-module (crates-io ha ck hacker-newsfeed) #:use-module (crates-io))
+
+(define-public crate-hacker-newsfeed-1.0.0 (c (n "hacker-newsfeed") (v "1.0.0") (d (list (d (n "eframe") (r "^0.21.3") (d #t) (k 0)) (d (n "egui_extras") (r "^0.21.0") (f (quote ("image" "svg"))) (d #t) (k 0)) (d (n "ehttp") (r "^0.2.0") (d #t) (k 0)) (d (n "image") (r "^0.24.5") (f (quote ("ico" "png" "webp" "jpeg"))) (k 0)) (d (n "poll-promise") (r "^0.2.0") (d #t) (k 0)) (d (n "scraper") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.92") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (f (quote ("serde"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 0)) (d (n "url") (r "^2.3.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1y92chfpwvigiqsmr2m6vzy8l5f629qcbfjcv6yg45kv5ikpakvl")))
+

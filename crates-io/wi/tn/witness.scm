@@ -1,0 +1,8 @@
+(define-module (crates-io wi tn witness) #:use-module (crates-io))
+
+(define-public crate-witness-0.1.0 (c (n "witness") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^3.1.8") (f (quote ("derive" "env" "color"))) (d #t) (k 0)) (d (n "notify") (r "^4.0.17") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros" "process" "io-util" "io-std" "sync" "net" "time" "signal"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.10") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1m2vjnc66mgiiwn2l0ph87f0icz6qcjm4xfvpc11jgsmdg5hng8b")))
+
+(define-public crate-witness-0.2.0 (c (n "witness") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^3.1.8") (f (quote ("derive" "env" "color"))) (d #t) (k 0)) (d (n "notify") (r "^4.0.17") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros" "process" "io-util" "io-std" "sync" "net" "time" "signal"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.10") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0m8bwzx011fdss46ygpmf1jf7w1z5dakypc13j2ryv7xl8fxqyz5")))
+
+(define-public crate-witness-0.3.0 (c (n "witness") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.56") (d #t) (k 0)) (d (n "clap") (r "^3.1.8") (f (quote ("derive" "env" "color"))) (d #t) (k 0)) (d (n "notify") (r "^4.0.17") (d #t) (k 0)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros" "process" "io-util" "io-std" "sync" "net" "time" "signal"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.32") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.10") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0p63imbvqsbbn804ndnpc09993iydjzillrag1dchlk4rcsk8686")))
+

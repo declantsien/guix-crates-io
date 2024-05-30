@@ -1,0 +1,28 @@
+(define-module (crates-io in pu inputbot) #:use-module (crates-io))
+
+(define-public crate-inputbot-0.1.0 (c (n "inputbot") (v "0.1.0") (d (list (d (n "user32-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "03xq7v215bcxar3g7kl2xwd2lrjfsbj7nvvyxbvqjvyp95ils56i")))
+
+(define-public crate-inputbot-0.1.1 (c (n "inputbot") (v "0.1.1") (d (list (d (n "user32-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "13b0c3kkh3kbxzlqrkljcny3mphnq2p0rz4dpiwlshpif4jmk4ia")))
+
+(define-public crate-inputbot-0.1.2 (c (n "inputbot") (v "0.1.2") (d (list (d (n "user32-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "0ig8k890xzy9ngprwzzardi4q78m0x1njcrvdb9g6p23fj6igg3f")))
+
+(define-public crate-inputbot-0.2.0 (c (n "inputbot") (v "0.2.0") (d (list (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1md62q2bgya7d83l1yk9xffhk44g3icd54ncv82i50ng09cfjbmr")))
+
+(define-public crate-inputbot-0.2.1 (c (n "inputbot") (v "0.2.1") (d (list (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.14.0") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "020js503ajl7mmi729dk6hwi6wmvlk7hli14c2lmk9anfw8qrp15")))
+
+(define-public crate-inputbot-0.2.2 (c (n "inputbot") (v "0.2.2") (d (list (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.14.0") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1r0vsf6qrhvl660ylhz8jqq2c3xs6sriwlg3sam417g3bhgrmvhr")))
+
+(define-public crate-inputbot-0.2.3 (c (n "inputbot") (v "0.2.3") (d (list (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.14.0") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1fap6nrclf506pxndc389vw3w7as9xfp129l8j9nlzlxqwz8wyaa")))
+
+(define-public crate-inputbot-0.3.0 (c (n "inputbot") (v "0.3.0") (d (list (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.14.0") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "127bksw4fvnsjz9kcklcmchavxv9ayd7lqp6ng58j2c3x6qaj156")))
+
+(define-public crate-inputbot-0.3.1 (c (n "inputbot") (v "0.3.1") (d (list (d (n "lazy_static") (r "^0.2.11") (d #t) (k 0)) (d (n "user32-sys") (r "^0.2.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.17.0") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1rqf1j8g17zgi5wcg6a449vhabqm8al74ly760rkbh96chn31b4j")))
+
+(define-public crate-inputbot-0.4.0 (c (n "inputbot") (v "0.4.0") (d (list (d (n "lazy_static") (r "^0.2.11") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.17.0") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "15syzr3imnsnvqh80r9vdqqqi0szgbz5jyinmv7mnvh8il9rmjx8")))
+
+(define-public crate-inputbot-0.5.0 (c (n "inputbot") (v "0.5.0") (d (list (d (n "input") (r "^0.5.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "libc") (r "^0.2.72") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "once_cell") (r "^1.4.0") (d #t) (k 0)) (d (n "uinput") (r "^0.1.3") (t "cfg(target_os = \"linux\")") (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.18.2") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "0262pch31v37dsgcn9c0gbvjnj524gq2hwyzjkjqbxqg3m7lx60k")))
+
+(define-public crate-inputbot-0.5.1 (c (n "inputbot") (v "0.5.1") (d (list (d (n "input") (r "^0.6.0") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "libc") (r "^0.2.101") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "nix") (r "^0.22.1") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "uinput") (r "^0.1.3") (t "cfg(target_os = \"linux\")") (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.18.2") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1122lki137nngz79yvpd4vf4jivjmis5zbl7y0fyw2gzva205jcb")))
+
+(define-public crate-inputbot-0.6.0 (c (n "inputbot") (v "0.6.0") (d (list (d (n "input") (r "^0.7.1") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "libc") (r "^0.2.113") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "nix") (r "^0.24.1") (d #t) (t "cfg(target_os = \"linux\")") (k 0)) (d (n "once_cell") (r "^1.9.0") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "strum_macros") (r "^0.25.2") (d #t) (k 0)) (d (n "uinput") (r "^0.1.3") (t "cfg(target_os = \"linux\")") (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("winuser"))) (d #t) (t "cfg(windows)") (k 0)) (d (n "x11") (r "^2.19.1") (f (quote ("xlib" "xtest"))) (d #t) (t "cfg(target_os = \"linux\")") (k 0)))) (h "1bv2hkkx95g4601681586xv4qybvqbxlaz4k3c2hv8i6nhqvj35l")))
+

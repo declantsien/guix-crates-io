@@ -1,0 +1,12 @@
+(define-module (crates-io sa fe safecoin-secp256k1-program) #:use-module (crates-io))
+
+(define-public crate-safecoin-secp256k1-program-1.6.16 (c (n "safecoin-secp256k1-program") (v "1.6.16") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "safecoin-logger") (r "=1.6.16") (d #t) (k 0)) (d (n "safecoin-sdk") (r "=1.6.16") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)))) (h "1r18qfacd04xdq3xfrxzncs5n31s6ra5w5h77pvnwhkm3a1wal8l")))
+
+(define-public crate-safecoin-secp256k1-program-1.6.18 (c (n "safecoin-secp256k1-program") (v "1.6.18") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.5.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "safecoin-logger") (r "=1.6.18") (d #t) (k 0)) (d (n "safecoin-sdk") (r "=1.6.18") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)))) (h "1nvhmdmbnh78f87q3979rqv5w3yz2vkxq6app7n1l20s50bsylih")))
+
+(define-public crate-safecoin-secp256k1-program-1.6.19 (c (n "safecoin-secp256k1-program") (v "1.6.19") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "digest") (r "^0.9.0") (d #t) (k 0)) (d (n "libsecp256k1") (r "^0.3.5") (d #t) (k 0)) (d (n "rand") (r "^0.7.0") (d #t) (k 0)) (d (n "safecoin-logger") (r ">=1.6.18") (d #t) (k 0)) (d (n "safecoin-sdk") (r ">=1.6.18") (d #t) (k 0)) (d (n "sha3") (r "^0.9.1") (d #t) (k 0)))) (h "07mx8zfnrjx9pc1hwilxp4cx97rkhk2avwpa96kz1bzhl2y9n481")))
+
+(define-public crate-safecoin-secp256k1-program-1.7.17 (c (n "safecoin-secp256k1-program") (v "1.7.17") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 2)) (d (n "libsecp256k1") (r "^0.5.0") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "safecoin-logger") (r "=1.7.17") (d #t) (k 2)) (d (n "safecoin-sdk") (r "=1.7.17") (d #t) (k 0)))) (h "15xkr8z4d6vmgzn2dsf93213xm2kl6vlvr5j4qd280fvl9f6vjbx")))
+
+(define-public crate-safecoin-secp256k1-program-1.8.12 (c (n "safecoin-secp256k1-program") (v "1.8.12") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 2)) (d (n "libsecp256k1") (r "^0.5.0") (d #t) (k 2)) (d (n "rand") (r "^0.7.0") (d #t) (k 2)) (d (n "safecoin-logger") (r "=1.8.12") (d #t) (k 2)) (d (n "safecoin-sdk") (r "=1.8.12") (d #t) (k 0)))) (h "0f9v63d220964yivr4iyzzvigi9a286566lldjyg1vyjz25ll4ws")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io bz te bzte) #:use-module (crates-io))
+
+(define-public crate-bzte-0.1.0 (c (n "bzte") (v "0.1.0") (d (list (d (n "ark-bls12-381") (r "^0.3.0") (d #t) (k 0)) (d (n "ark-crypto-primitives") (r "^0.3.0") (d #t) (k 0)) (d (n "ark-ec") (r "^0.3.0") (d #t) (k 0)) (d (n "ark-ff") (r "^0.3.0") (d #t) (k 0)) (d (n "ark-serialize") (r "^0.3.0") (d #t) (k 0)) (d (n "ark-std") (r "^0.3.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.1") (d #t) (k 0)))) (h "15gvyjy389fk4211bp9zn3za2rrb3x9v7pclgk3yn1k2xl2s4gky")))
+
+(define-public crate-bzte-0.1.1 (c (n "bzte") (v "0.1.1") (d (list (d (n "ark-bls12-381") (r "^0.4.0") (d #t) (k 0)) (d (n "ark-crypto-primitives") (r "^0.4.0") (d #t) (k 0)) (d (n "ark-ec") (r "^0.4.0") (d #t) (k 0)) (d (n "ark-ff") (r "^0.4.0") (d #t) (k 0)) (d (n "ark-serialize") (r "^0.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "ark-std") (r "^0.4.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)))) (h "1n0frp5h7h31c05nvh8300a5751fgc3spwdhdrm1bmkz6gjjbb8s")))
+

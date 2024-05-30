@@ -1,0 +1,4 @@
+(define-module (crates-io di al dialtone_test_util) #:use-module (crates-io))
+
+(define-public crate-dialtone_test_util-0.1.0 (c (n "dialtone_test_util") (v "0.1.0") (d (list (d (n "axum") (r "^0.5.5") (f (quote ("headers"))) (d #t) (k 0)) (d (n "const_format") (r "^0.2.21") (d #t) (k 0)) (d (n "dialtone_axum") (r "^0.1.0") (d #t) (k 0)) (d (n "dialtone_common") (r "^0.1.0") (d #t) (k 0)) (d (n "dialtone_reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "dialtone_sqlx") (r "^0.1.0") (d #t) (k 0)) (d (n "sqlx") (r "^0.5") (f (quote ("runtime-tokio-rustls" "postgres" "chrono" "macros" "json" "offline"))) (d #t) (k 0)) (d (n "testcontainers") (r "^0.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "0svzd5hi9jdsyl0iarzr9shwri7cafs407kdmfd2hs562rg8hksr")))
+

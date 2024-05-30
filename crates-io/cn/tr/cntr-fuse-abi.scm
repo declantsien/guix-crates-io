@@ -1,0 +1,6 @@
+(define-module (crates-io cn tr cntr-fuse-abi) #:use-module (crates-io))
+
+(define-public crate-cntr-fuse-abi-0.4.0 (c (n "cntr-fuse-abi") (v "0.4.0") (h "1p42vbhcirrm6020yb5v8lljygylv5j4j25a9bgpb1cnhkjixi9l") (f (quote (("default" "abi-7-26") ("abi-7-9") ("abi-7-26" "abi-7-25") ("abi-7-25" "abi-7-24") ("abi-7-24" "abi-7-23") ("abi-7-23" "abi-7-22") ("abi-7-22" "abi-7-21") ("abi-7-21" "abi-7-19") ("abi-7-19" "abi-7-18") ("abi-7-18" "abi-7-17") ("abi-7-17" "abi-7-16") ("abi-7-16" "abi-7-15") ("abi-7-15" "abi-7-14") ("abi-7-14" "abi-7-13") ("abi-7-13" "abi-7-12") ("abi-7-12" "abi-7-11") ("abi-7-11" "abi-7-10") ("abi-7-10" "abi-7-9"))))))
+
+(define-public crate-cntr-fuse-abi-0.4.1 (c (n "cntr-fuse-abi") (v "0.4.1") (h "0pd2sapwqw1w7gmv34c0i1h1zh7ck3s22x9cv1i04yx5m3afr9ly") (f (quote (("default" "abi-7-26") ("abi-7-9") ("abi-7-26" "abi-7-25") ("abi-7-25" "abi-7-24") ("abi-7-24" "abi-7-23") ("abi-7-23" "abi-7-22") ("abi-7-22" "abi-7-21") ("abi-7-21" "abi-7-19") ("abi-7-19" "abi-7-18") ("abi-7-18" "abi-7-17") ("abi-7-17" "abi-7-16") ("abi-7-16" "abi-7-15") ("abi-7-15" "abi-7-14") ("abi-7-14" "abi-7-13") ("abi-7-13" "abi-7-12") ("abi-7-12" "abi-7-11") ("abi-7-11" "abi-7-10") ("abi-7-10" "abi-7-9"))))))
+

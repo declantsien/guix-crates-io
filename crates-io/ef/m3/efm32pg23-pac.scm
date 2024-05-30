@@ -1,0 +1,10 @@
+(define-module (crates-io ef m3 efm32pg23-pac) #:use-module (crates-io))
+
+(define-public crate-efm32pg23-pac-0.1.1 (c (n "efm32pg23-pac") (v "0.1.1") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "0mbj259xxd24hiyd8gnr6hc20q0idivd1qrcbrsxaw0rcf68wz8k") (f (quote (("rt" "cortex-m-rt/device") ("efm32pg23b310") ("efm32pg23b210") ("efm32pg23b200") ("default" "rt"))))))
+
+(define-public crate-efm32pg23-pac-0.1.2 (c (n "efm32pg23-pac") (v "0.1.2") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "~1") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "~1") (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "1zc6sdmgjbq3j8kc38g0s2vvag5vq35xyxr34x54fmgy14ig92ix") (f (quote (("rt" "cortex-m-rt/device") ("efm32pg23b310") ("efm32pg23b210") ("efm32pg23b200") ("default" "rt"))))))
+
+(define-public crate-efm32pg23-pac-0.1.3 (c (n "efm32pg23-pac") (v "0.1.3") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "~1") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "~1") (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "10jq164yw5n4p5ysh6myxpm82larm1mahgc6f7bb8xhmh7529rsj") (f (quote (("rt" "cortex-m-rt/device") ("efm32pg23b310") ("efm32pg23b210") ("efm32pg23b200") ("default" "rt"))))))
+
+(define-public crate-efm32pg23-pac-0.1.4 (c (n "efm32pg23-pac") (v "0.1.4") (d (list (d (n "cortex-m") (r "~0.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "~0.7") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "~1") (o #t) (d #t) (k 0)) (d (n "portable-atomic") (r "~1") (k 0)) (d (n "vcell") (r "~0.1") (d #t) (k 0)))) (h "0vnk6jlyrkfl7mh48zamw8sgf662r7v5p1ygpsv8azr6q8nn1zxj") (f (quote (("rt" "cortex-m-rt/device") ("efm32pg23b310") ("efm32pg23b210") ("efm32pg23b200") ("default" "rt")))) (s 2) (e (quote (("critical-section" "dep:critical-section"))))))
+

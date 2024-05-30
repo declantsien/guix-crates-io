@@ -1,0 +1,10 @@
+(define-module (crates-io rs da rsdate) #:use-module (crates-io))
+
+(define-public crate-rsdate-0.1.0 (c (n "rsdate") (v "0.1.0") (d (list (d (n "assert_cmd") (r "^2") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pico-args") (r "^0.4.2") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 2)) (d (n "rsntp") (r "^2.0") (k 0)) (d (n "syslog") (r "^5.0") (d #t) (k 0)))) (h "00dbx2bp0ygw8vhpyy4wxgv58nqwbdwnnx3g2yi0m2bdslmx3ggl")))
+
+(define-public crate-rsdate-0.3.0 (c (n "rsdate") (v "0.3.0") (d (list (d (n "assert_cmd") (r "^2") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pico-args") (r "^0.4.2") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 2)) (d (n "rsntp") (r "^2.0") (k 0)) (d (n "syslog") (r "^5.0") (d #t) (k 0)))) (h "16vknybds2v881f6zqi9ixqj8y23l09qfah67qs8hx7nsjd94cs2")))
+
+(define-public crate-rsdate-0.4.0 (c (n "rsdate") (v "0.4.0") (d (list (d (n "assert_cmd") (r "^2") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "pico-args") (r "^0.4.2") (d #t) (k 0)) (d (n "predicates") (r "^2") (d #t) (k 2)) (d (n "rsntp") (r "^2.0") (k 0)) (d (n "syslog") (r "^6, >=6.0.1") (d #t) (k 0)))) (h "03b3jc9k9gadaizigkl6crfb134g25g133f7cz4s2id1bzpwcq11")))
+
+(define-public crate-rsdate-0.5.0 (c (n "rsdate") (v "0.5.0") (d (list (d (n "assert_cmd") (r "^2.0.4") (d #t) (k 2)) (d (n "env_logger") (r "^0.9.0") (k 0)) (d (n "libc") (r "^0.2.126") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pico-args") (r "^0.5.0") (d #t) (k 0)) (d (n "predicates") (r "^2.1.1") (d #t) (k 2)) (d (n "rsntp") (r "^3.0.1") (f (quote ("time"))) (k 0)) (d (n "syslog") (r "^6.0.1") (d #t) (k 0)) (d (n "time") (r "^0.3.11") (f (quote ("local-offset"))) (d #t) (k 0)))) (h "0a5w2dd70hhcjxkvsf9xc7x3h8bl45whvr3hldaqqj9iib1bpbbz")))
+

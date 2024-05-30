@@ -1,0 +1,14 @@
+(define-module (crates-io by o- byo-graphql) #:use-module (crates-io))
+
+(define-public crate-byo-graphql-0.1.0 (c (n "byo-graphql") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 0)))) (h "0hy7ifrx741g1hq4kfhqcwshyyxsym2yh531jdp8f5yy5cgaq211")))
+
+(define-public crate-byo-graphql-0.1.1 (c (n "byo-graphql") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 0)))) (h "0py088awqdwrz6bdmi8aa7avprpw5vdkrn2dzd4spgdm6np4iw3x")))
+
+(define-public crate-byo-graphql-0.1.2 (c (n "byo-graphql") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "06cbjhi9h3jsdfbm7kd922xp1qvksa249lar2lw482m6p63fkjxb")))
+
+(define-public crate-byo-graphql-0.1.3 (c (n "byo-graphql") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r "^0.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1l9d4079k0c2hppl9rfqbyrjcgp2vzhdsdf65b87b22r1zjrbx9r")))
+
+(define-public crate-byo-graphql-0.1.4 (c (n "byo-graphql") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0lgh8njsh3pf9ki3ylq1zmh8mn8zs1ssa6wwfvczsd4ia7l341np")))
+
+(define-public crate-byo-graphql-0.2.0 (c (n "byo-graphql") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0xhl9mfchrlx7k131w2pqhx6pag0p4dp6zj9b2si3iwh0i912lfr")))
+

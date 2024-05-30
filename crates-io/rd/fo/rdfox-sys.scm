@@ -1,0 +1,8 @@
+(define-module (crates-io rd fo rdfox-sys) #:use-module (crates-io))
+
+(define-public crate-rdfox-sys-0.0.1 (c (n "rdfox-sys") (v "0.0.1") (d (list (d (n "bindgen") (r "^0.69.2") (d #t) (k 1)) (d (n "curl") (r "^0.4.43") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "1y02ky56i0yrz369qflm864mzrwm3sm15il7w0xgv522q3vfbv72") (f (quote (("rdfox-dylib") ("rdfox-7-0a") ("rdfox-6-3b") ("rdfox-6-3a") ("rdfox-6-2") ("default" "rdfox-7-0a" "rdfox-dylib")))) (l "RDFox-static") (r "1.70")))
+
+(define-public crate-rdfox-sys-0.0.2 (c (n "rdfox-sys") (v "0.0.2") (d (list (d (n "bindgen") (r "^0.69.2") (d #t) (k 1)) (d (n "curl") (r "^0.4.44") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "0gkkj1mzhbkyss5qqhcw1hv2zvzaip3b08p2nmk60cygvxpcnpqx") (f (quote (("rdfox-dylib") ("rdfox-7-0a") ("rdfox-6-3b") ("rdfox-6-3a") ("rdfox-6-2") ("default" "rdfox-7-0a" "rdfox-dylib")))) (l "RDFox-static") (r "1.70")))
+
+(define-public crate-rdfox-sys-0.0.3 (c (n "rdfox-sys") (v "0.0.3") (d (list (d (n "bindgen") (r "^0.69.2") (d #t) (k 1)) (d (n "curl") (r "^0.4.44") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "zip") (r "^0.6.2") (d #t) (k 1)))) (h "10nv63rr8g09i89wgby8s6j7lqf1fp3n27wgi2nrnv6vdvbphm1n") (f (quote (("rdfox-dylib") ("rdfox-7-0a") ("rdfox-6-3b") ("rdfox-6-3a") ("rdfox-6-2") ("default" "rdfox-7-0a" "rdfox-dylib")))) (l "RDFox-static") (r "1.70")))
+

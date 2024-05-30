@@ -1,0 +1,4 @@
+(define-module (crates-io wa sm wasmer-bus) #:use-module (crates-io))
+
+(define-public crate-wasmer-bus-1.1.0 (c (n "wasmer-bus") (v "1.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "base64") (r "^0.13") (d #t) (k 0)) (d (n "cooked-waker") (r "^5") (o #t) (d #t) (k 0)) (d (n "derivative") (r "^2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "sync"))) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "wasi") (r "^0.11") (d #t) (k 0) (p "wasix")) (d (n "wasmer-bus-macros") (r "^1") (o #t) (d #t) (k 0)) (d (n "wasmer-bus-types") (r "^1") (d #t) (k 0)))) (h "14zzmxpcm5jzpijq78v16f7fby4cqgf14100yb0kwx4w6y5i5jdh") (f (quote (("sys" "tokio/full") ("rt" "cooked-waker") ("macros" "wasmer-bus-macros") ("default" "macros" "rt"))))))
+

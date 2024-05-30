@@ -1,0 +1,14 @@
+(define-module (crates-io ra tm ratman-netmod) #:use-module (crates-io))
+
+(define-public crate-ratman-netmod-0.1.0 (c (n "ratman-netmod") (v "0.1.0") (d (list (d (n "async-std") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "conjoiner") (r "^1.0") (d #t) (k 0) (p "conjoiner-engine")) (d (n "identity") (r "^0.1") (f (quote ("digest"))) (d #t) (k 0) (p "ratman-identity")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.5") (d #t) (k 0)))) (h "1cny56f36n4sbjhs87h08kg7c3hj4zhnz9pbpgwpy9p9yfk5g6mj")))
+
+(define-public crate-ratman-netmod-0.2.0 (c (n "ratman-netmod") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "conjoiner") (r "^1.0") (d #t) (k 0) (p "conjoiner-engine")) (d (n "identity") (r "^0.2") (f (quote ("digest"))) (d #t) (k 0) (p "ratman-identity")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.5") (d #t) (k 0)))) (h "0cj1frc8dgf6z6ppfbxajfpbghg7xbig2ixmgdaa35n91jk63zsk")))
+
+(define-public crate-ratman-netmod-0.3.0 (c (n "ratman-netmod") (v "0.3.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "conjoiner") (r "^1.0") (d #t) (k 0) (p "conjoiner-engine")) (d (n "identity") (r "^0.3") (f (quote ("digest" "random"))) (d #t) (k 0) (p "ratman-identity")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.5") (d #t) (k 0)))) (h "13qw5j1kr7b8d2pivc19vvw61gva5kb6dy9mwn81002bvm3y613y")))
+
+(define-public crate-ratman-netmod-0.4.0 (c (n "ratman-netmod") (v "0.4.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "conjoiner") (r "^1.0") (d #t) (k 0) (p "conjoiner-engine")) (d (n "identity") (r "^0.4") (f (quote ("digest" "random"))) (d #t) (k 0) (p "ratman-identity")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.5") (d #t) (k 0)))) (h "1hrgm7gz94ws4riim3fdfllrh3wwmpwcwspc9injlks6iv8j8m6k")))
+
+(define-public crate-ratman-netmod-0.5.0 (c (n "ratman-netmod") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "conjoiner") (r "^1.0") (d #t) (k 0) (p "conjoiner-engine")) (d (n "identity") (r "^0.6.0") (f (quote ("digest" "random"))) (d #t) (k 0) (p "ratman-identity")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.5") (d #t) (k 0)))) (h "0p9mk9zhh9w5b50ivknygrhmsqld9lmicf61mmgfi4scbplgjmrn")))
+
+(define-public crate-ratman-netmod-0.5.1 (c (n "ratman-netmod") (v "0.5.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "conjoiner") (r "^1.0") (d #t) (k 0) (p "conjoiner-engine")) (d (n "identity") (r "^0.6.0") (f (quote ("digest" "random"))) (d #t) (k 0) (p "ratman-identity")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twox-hash") (r "^1.5") (d #t) (k 0)))) (h "1hp00nmjzpd7wrljs66gqqii37szqb5x49lf827garg4kr0wjykw")))
+

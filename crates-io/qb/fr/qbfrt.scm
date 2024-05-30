@@ -1,0 +1,4 @@
+(define-module (crates-io qb fr qbfrt) #:use-module (crates-io))
+
+(define-public crate-qbfrt-0.1.0 (c (n "qbfrt") (v "0.1.0") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "figlet-rs") (r "^0.1.5") (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_bencode") (r "^0.2.4") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.14") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_rusqlite") (r "^0.35.0") (d #t) (k 0)))) (h "1i88r7nr80pjab3iksra0fddf6s6x2i4l3cbkpnzdic4k1kbgxrd")))
+

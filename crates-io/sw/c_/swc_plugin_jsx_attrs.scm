@@ -1,0 +1,6 @@
+(define-module (crates-io sw c_ swc_plugin_jsx_attrs) #:use-module (crates-io))
+
+(define-public crate-swc_plugin_jsx_attrs-0.1.0 (c (n "swc_plugin_jsx_attrs") (v "0.1.0") (d (list (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "swc_core") (r "0.78.*") (f (quote ("cached" "common" "ecma_ast" "ecma_plugin_transform" "ecma_utils" "ecma_visit"))) (d #t) (k 0)) (d (n "swc_core") (r "0.78.*") (f (quote ("ecma_codegen" "ecma_parser" "testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.33.13") (d #t) (k 2)))) (h "0kg3h3id89ikkqbc6cmfk25kphbmbp3sh941ci7vq53bbz6pz60z")))
+
+(define-public crate-swc_plugin_jsx_attrs-0.2.0 (c (n "swc_plugin_jsx_attrs") (v "0.2.0") (d (list (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "swc_core") (r "0.78.*") (f (quote ("cached" "common" "ecma_ast" "ecma_plugin_transform" "ecma_utils" "ecma_visit"))) (d #t) (k 0)) (d (n "swc_core") (r "0.78.*") (f (quote ("ecma_codegen" "ecma_parser" "testing_transform"))) (d #t) (k 2)) (d (n "testing") (r "^0.33.13") (d #t) (k 2)))) (h "1xr6hzs4s5m9zgx6j6rww4lirfhyk3d7h9sgsgiczg5c0sxdr9d0")))
+

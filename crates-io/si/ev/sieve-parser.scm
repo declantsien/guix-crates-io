@@ -1,0 +1,6 @@
+(define-module (crates-io si ev sieve-parser) #:use-module (crates-io))
+
+(define-public crate-sieve-parser-0.1.1 (c (n "sieve-parser") (v "0.1.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "pest") (r "^2.7.4") (f (quote ("pretty-print"))) (d #t) (k 0)) (d (n "pest-test") (r "^0.1.6") (d #t) (k 2)) (d (n "pest_derive") (r "^2.7.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "176xiigcjdmg3q4s7c9q9aif45y8j77llvl107gh2yzd47l6x65a")))
+
+(define-public crate-sieve-parser-0.1.2 (c (n "sieve-parser") (v "0.1.2") (d (list (d (n "atty") (r "^0.2.14") (o #t) (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "pest") (r "^2.7.4") (f (quote ("pretty-print"))) (d #t) (k 0)) (d (n "pest-test") (r "^0.1.6") (d #t) (k 2)) (d (n "pest_derive") (r "^2.7.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.189") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (o #t) (d #t) (k 0)))) (h "1g90adr7lj1633ym4b2bz0m7b8yp8488i8l0b7q12z7xxix8kc0b") (s 2) (e (quote (("cli" "dep:atty" "dep:clap" "dep:serde_json"))))))
+

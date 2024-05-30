@@ -1,0 +1,8 @@
+(define-module (crates-io fl ou flour) #:use-module (crates-io))
+
+(define-public crate-flour-1.0.0 (c (n "flour") (v "1.0.0") (d (list (d (n "bytestream") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.136") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)))) (h "1chnxi547gr4zyabd5r66cby3gx0xpxmkfqksj1pipyz2k3inz50")))
+
+(define-public crate-flour-2.0.0-pre1 (c (n "flour") (v "2.0.0-pre1") (d (list (d (n "bytestream") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "semver") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-semver") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0h3hmj7v0f4h4zjpvdd148ibjmw41wblvp7anqnin88hdnhqy8wy")))
+
+(define-public crate-flour-2.0.0 (c (n "flour") (v "2.0.0") (d (list (d (n "bytestream") (r "^0.4.0") (d #t) (k 0)) (d (n "clap") (r "^3.1.6") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8") (d #t) (k 0)) (d (n "json_comments") (r "^0.2") (d #t) (k 0)) (d (n "semver") (r "^1.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-semver") (r "^0.2.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0rw45sdk8bkzbncimh20rkhxxz7xd42hlzgcf5rbfjp9m67w11va") (f (quote (("modder_qol") ("default" "modder_qol")))) (s 2) (e (quote (("clap" "dep:clap"))))))
+

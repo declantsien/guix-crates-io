@@ -1,0 +1,4 @@
+(define-module (crates-io st ac stacks-core) #:use-module (crates-io))
+
+(define-public crate-stacks-core-0.1.0 (c (n "stacks-core") (v "0.1.0") (d (list (d (n "bdk") (r "^0.28.1") (f (quote ("keys-bip39" "bip39"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "~1.8.4") (d #t) (k 0)) (d (n "ripemd") (r "^0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha2") (r "^0.10.7") (d #t) (k 0)) (d (n "strum") (r "^0.25.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)))) (h "0nh54d664zb0ka46q0vhs3z413hc3zbrxprhkgzksybgm8g3291d")))
+

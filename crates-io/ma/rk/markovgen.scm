@@ -1,0 +1,6 @@
+(define-module (crates-io ma rk markovgen) #:use-module (crates-io))
+
+(define-public crate-markovgen-0.1.0 (c (n "markovgen") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "flamegraph") (r "^0.6.5") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "smartstring") (r "^1.0.1") (d #t) (k 0)))) (h "1i34y35fi6p3gqjqq13c3j4klj5mfa0ibl6yxqiba9nnd279fgld") (f (quote (("cli_no_print"))))))
+
+(define-public crate-markovgen-0.2.0 (c (n "markovgen") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "cargo-edit") (r "^0.12.2") (d #t) (k 2)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "flamegraph") (r "^0.6.5") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive" "rc"))) (o #t) (d #t) (k 0)) (d (n "smartstring") (r "^1.0.1") (d #t) (k 0)))) (h "0hdinshf86c982yw8wi6jqm5cbi3iyxrbl6frmpvyhdfnfnvvb83") (f (quote (("cli_no_print")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

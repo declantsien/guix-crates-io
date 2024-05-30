@@ -1,0 +1,16 @@
+(define-module (crates-io #{3}# o oxd) #:use-module (crates-io))
+
+(define-public crate-oxd-0.1.0 (c (n "oxd") (v "0.1.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "1h0gkiw69fibjirf19fmdka1rb819i78md0pfj36yjyaggsxmamm")))
+
+(define-public crate-oxd-0.1.1 (c (n "oxd") (v "0.1.1") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "16w1dsbb4fvajs4pblwya7x5sd8bnvg2y36fkia7fx6vyc2hhwyl")))
+
+(define-public crate-oxd-0.1.2 (c (n "oxd") (v "0.1.2") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "1bdjk9a54bakg3mxghh6gvla5wi44wx3g7j7xsg57d230pfw2f0f")))
+
+(define-public crate-oxd-0.1.3 (c (n "oxd") (v "0.1.3") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "1qn8s1a03a9mg9195j42z4x448r0yhk7bgsk9qz9n47mcfq94xk9")))
+
+(define-public crate-oxd-0.1.4 (c (n "oxd") (v "0.1.4") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "112d7ylmg0pzxsypn8nik0b1yzrwssjl4m1n3j6dkkxprvmqp1zx")))
+
+(define-public crate-oxd-0.1.5 (c (n "oxd") (v "0.1.5") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "00wxvvm4i97xx6vm7p01ka7rdkmj4z6bb7f42mdzbg9qqi95plbr")))
+
+(define-public crate-oxd-0.1.6 (c (n "oxd") (v "0.1.6") (d (list (d (n "clap") (r "^4.0.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rodio") (r "^0.16.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 0)))) (h "1i9zizn99ga0h3c7fvm7k68c9x1w8d6w9gvyybadl88n6fgdviny")))
+

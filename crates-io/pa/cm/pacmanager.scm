@@ -1,0 +1,12 @@
+(define-module (crates-io pa cm pacmanager) #:use-module (crates-io))
+
+(define-public crate-pacmanager-0.1.0 (c (n "pacmanager") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "pacmanager_wrapper") (r "^0.1.1") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "16hrmnm153mdswxkj5pxc5ayfhqn8j7bgqxx2vfwfjhmd6fjd1jd")))
+
+(define-public crate-pacmanager-0.1.1 (c (n "pacmanager") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "pacmanager_wrapper") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "0i2z4c6dn22yvhcfxsnkqn3pga4mrfx19ii5afw52b31bxzp3p4h")))
+
+(define-public crate-pacmanager-0.2.0 (c (n "pacmanager") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "pacmanager_wrapper") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "whatadistro") (r "^0.1.0") (d #t) (k 0)))) (h "1jyk9nhxfmm3ys1i4mp0yh40wr6593r4jss7b48alzacnqw8zr5p")))
+
+(define-public crate-pacmanager-0.2.1 (c (n "pacmanager") (v "0.2.1") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "pacmanager_wrapper") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "whatadistro") (r "^0.1.0") (d #t) (k 0)))) (h "1ayq4x77f3flbacafzgjzjy735m2ql2z9zvy96avyp056zd81528") (y #t)))
+
+(define-public crate-pacmanager-0.2.2 (c (n "pacmanager") (v "0.2.2") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "pacmanager_wrapper") (r "^0.2.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "whatadistro") (r "^0.1.0") (d #t) (k 0)))) (h "0kzs5ac6p9ikk7xkpgf1d6mcl1mrqal78ifr8px49s0xzi5jq1n7")))
+

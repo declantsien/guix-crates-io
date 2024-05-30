@@ -1,0 +1,10 @@
+(define-module (crates-io th un thunderstore-api) #:use-module (crates-io))
+
+(define-public crate-thunderstore-api-1.0.0 (c (n "thunderstore-api") (v "1.0.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0sr46i8rd7ixa14dn1mnl15zmr4q6j122pl1d6qg7r09nr8n4cqz") (y #t) (r "1.63")))
+
+(define-public crate-thunderstore-api-2.0.0 (c (n "thunderstore-api") (v "2.0.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0yr90xw4qm2pj17cpb26y70x93q8m7pb4c4fq3il3a4d42rihanz") (y #t) (r "1.63")))
+
+(define-public crate-thunderstore-api-0.3.0 (c (n "thunderstore-api") (v "0.3.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ts-rs") (r "^6.2") (o #t) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0akbicaa7n43rkmzxpmf6my7hr50ab9amw55arpawi3109dhqqb8") (r "1.63")))
+
+(define-public crate-thunderstore-api-0.4.0 (c (n "thunderstore-api") (v "0.4.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ts-rs") (r "^6.2") (f (quote ("serde-compat" "format" "uuid-impl"))) (o #t) (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0rdg657p95rc2skjwq9zrwjb5d7h85z90iwcs14nnxg6g9gq8riv") (r "1.63")))
+

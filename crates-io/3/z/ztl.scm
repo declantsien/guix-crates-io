@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# z ztl) #:use-module (crates-io))
+
+(define-public crate-ztl-0.1.0 (c (n "ztl") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "askama") (r "^0.9") (d #t) (k 0)) (d (n "async-std") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slug") (r "^0.1.4") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "1lkr3vgxiy4kp7s05s5cv4mkv8hr83k8aisr724wgn5vpcvyvsiy")))
+
+(define-public crate-ztl-0.2.0 (c (n "ztl") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "askama") (r "^0.9") (d #t) (k 0)) (d (n "async-std") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slug") (r "^0.1.4") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "0r3rdjj6qvpyjpwymn12jjx89f64686h25l5k7cp7xb45zfhwyd7")))
+
+(define-public crate-ztl-0.2.1 (c (n "ztl") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "askama") (r "^0.9") (d #t) (k 0)) (d (n "async-std") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "confy") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "slug") (r "^0.1.4") (d #t) (k 0)) (d (n "uuid") (r "^0.8") (f (quote ("v4"))) (d #t) (k 0)))) (h "039q5wznks8sqcws0a326fr4bf97vb5c2l71d2hf5fgi3zhhlyk0")))
+

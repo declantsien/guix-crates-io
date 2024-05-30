@@ -1,0 +1,12 @@
+(define-module (crates-io st #{77}# st7789_rs) #:use-module (crates-io))
+
+(define-public crate-st7789_rs-0.1.1 (c (n "st7789_rs") (v "0.1.1") (d (list (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "rppal") (r "^0.16.1") (f (quote ("hal"))) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.3") (d #t) (k 0)) (d (n "spidev") (r "^0.6.0") (d #t) (k 0)))) (h "1xqjhz7f2x45iby0w5s3a4qp4gwddl1q2kpq56s1xf64z0cjc68s")))
+
+(define-public crate-st7789_rs-0.1.2 (c (n "st7789_rs") (v "0.1.2") (d (list (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "rppal") (r "^0.16.1") (f (quote ("hal"))) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.3") (d #t) (k 0)) (d (n "spidev") (r "^0.6.0") (d #t) (k 0)))) (h "05fqa5pni9dxbpvpp3rx47r5mganjdakwhlp28k7agfqha59m62v")))
+
+(define-public crate-st7789_rs-0.1.3 (c (n "st7789_rs") (v "0.1.3") (d (list (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "rppal") (r "^0.16.1") (f (quote ("hal"))) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.3") (d #t) (k 0)) (d (n "spidev") (r "^0.6.0") (d #t) (k 0)))) (h "0m7c1rs8dgkgi4sr1n4yrjhyafhkxvmnmjbhbdh5nmry1ndwqg1l")))
+
+(define-public crate-st7789_rs-0.1.4 (c (n "st7789_rs") (v "0.1.4") (d (list (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "rppal") (r "^0.16.1") (f (quote ("hal"))) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.3") (d #t) (k 0)) (d (n "spidev") (r "^0.6.0") (d #t) (k 0)))) (h "1gs2n1a8m2bmlncdv2nw2q62f9bd9jacw912hifw7s0cndjl365r")))
+
+(define-public crate-st7789_rs-0.1.5 (c (n "st7789_rs") (v "0.1.5") (d (list (d (n "ctrlc") (r "^3.4.2") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "imageproc") (r "^0.23.0") (d #t) (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "rppal") (r "^0.16.1") (f (quote ("hal"))) (d #t) (k 0)) (d (n "rusttype") (r "^0.9.3") (d #t) (k 0)) (d (n "spidev") (r "^0.6.0") (d #t) (k 0)))) (h "0ypffx5kazw24ii99478idz3w43v8bvcff0xsslq56ijd29msjqy")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ra id raiden-blockchain) #:use-module (crates-io))
+
+(define-public crate-raiden-blockchain-0.1.0 (c (n "raiden-blockchain") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.51") (k 0)) (d (n "derive_more") (r "^0.99.11") (k 0)) (d (n "ecies") (r "^0.2.0") (d #t) (k 0)) (d (n "ethabi") (r "^16.0.0") (k 0)) (d (n "ethsign") (r "^0.8.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "raiden-primitives") (r "^0.1.0") (d #t) (k 0)) (d (n "raiden-state-machine") (r "^0.1.0") (f (quote ("storage"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.59") (k 0)) (d (n "thiserror") (r "^1.0") (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("sync" "macros" "time"))) (k 0)) (d (n "tracing") (r "^0.1.37") (k 0)) (d (n "web3") (r "^0.18.0") (f (quote ("http" "signing"))) (k 0)))) (h "069b9wylqbja41mvjvrjn8iq96ya9j1gd9xk3vyahl5hg1yqz9bv") (r "1.59")))
+

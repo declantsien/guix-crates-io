@@ -1,0 +1,6 @@
+(define-module (crates-io sc at scatternotes) #:use-module (crates-io))
+
+(define-public crate-scatternotes-0.1.1 (c (n "scatternotes") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "termfmt") (r "^0.2.1") (d #t) (k 0)))) (h "1my8lqw19iahbxfa975rsvh861h1ywxbwr63q1i0qyk20vj5pwrg")))
+
+(define-public crate-scatternotes-0.1.2 (c (n "scatternotes") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "clap") (r "^4.5.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.113") (d #t) (k 0)) (d (n "termfmt") (r "^0.2.1") (d #t) (k 0)))) (h "06annfpvxx9szpr7sm4py76sqrxvyd9zxy60p8vycvwbgc7x6h07")))
+

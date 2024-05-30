@@ -1,0 +1,8 @@
+(define-module (crates-io mi ne minecraft-launcher-api) #:use-module (crates-io))
+
+(define-public crate-minecraft-launcher-api-0.1.0 (c (n "minecraft-launcher-api") (v "0.1.0") (d (list (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0560r85n0jf3s9vgglgh1mj7n7x50j55f8m6gzif59iy23rq5flm") (y #t)))
+
+(define-public crate-minecraft-launcher-api-0.1.1 (c (n "minecraft-launcher-api") (v "0.1.1") (d (list (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "169llx10d24aq9493knm7rd9n7jgfhyghm61g2578964d1gnral4") (y #t)))
+
+(define-public crate-minecraft-launcher-api-0.2.0 (c (n "minecraft-launcher-api") (v "0.2.0") (d (list (d (n "futures") (r "^0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.10.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.57") (d #t) (k 0)) (d (n "tokio") (r "^0.2.22") (f (quote ("full"))) (d #t) (k 0)) (d (n "uuid") (r "^0.8.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1sfgi8jmp466a9jn0z68f1n4yxvg717f0ky93msi0bj709w7igij") (y #t)))
+

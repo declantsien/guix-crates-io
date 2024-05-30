@@ -1,0 +1,8 @@
+(define-module (crates-io xa nd xand-secrets-local-file) #:use-module (crates-io))
+
+(define-public crate-xand-secrets-local-file-0.3.0-beta.23 (c (n "xand-secrets-local-file") (v "0.3.0-beta.23") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "xand-secrets") (r "^0.4.2-beta.38") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 2)))) (h "0px68i83c5h2fps6vwably5sivy90yv39sg7a0x36v09fvnqfnh1")))
+
+(define-public crate-xand-secrets-local-file-0.3.1-beta.30 (c (n "xand-secrets-local-file") (v "0.3.1-beta.30") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "xand-secrets") (r "^0.4.2") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 2)))) (h "017mdadd6bc7zmyl1hm2wnkkmkpkd6z561b4zka040jwz8wb22mr")))
+
+(define-public crate-xand-secrets-local-file-0.3.1 (c (n "xand-secrets-local-file") (v "0.3.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.13") (d #t) (k 0)) (d (n "xand-secrets") (r "^0.4.2") (d #t) (k 0)) (d (n "matches") (r "^0.1.8") (d #t) (k 2)) (d (n "tempfile") (r "^3.1") (d #t) (k 2)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 2)))) (h "12jc78yh773q8n3z91wvvpf76a5fba9c4ql4cj5q9bp77nix4c3g")))
+

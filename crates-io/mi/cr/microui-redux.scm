@@ -1,0 +1,8 @@
+(define-module (crates-io mi cr microui-redux) #:use-module (crates-io))
+
+(define-public crate-microui-redux-0.1.0 (c (n "microui-redux") (v "0.1.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "glow") (r "^0.13.0") (d #t) (k 2)) (d (n "rs-math3d") (r "^0.9.21") (d #t) (k 0)) (d (n "sdl2") (r "^0.36.0") (d #t) (k 2)))) (h "0zl60z42aqmzlk3pbkdcbz05vna0kxmpck37z6lj82wnpikzbb52")))
+
+(define-public crate-microui-redux-0.2.0 (c (n "microui-redux") (v "0.2.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "fontdue") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "glow") (r "^0.13.0") (d #t) (k 2)) (d (n "png") (r "^0.17.11") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rs-math3d") (r "^0.9.21") (d #t) (k 0)) (d (n "sdl2") (r "^0.36.0") (d #t) (k 2)))) (h "0rirkpbrdv0k345xsk0mcm2hypp4hd5g1bpvl8j29s7w67yp493a") (f (quote (("save-to-rust") ("default" "builder" "save-to-rust")))) (y #t) (s 2) (e (quote (("png_source" "dep:png") ("builder" "dep:fontdue" "dep:png"))))))
+
+(define-public crate-microui-redux-0.2.1 (c (n "microui-redux") (v "0.2.1") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "fontdue") (r "^0.8.0") (o #t) (d #t) (k 0)) (d (n "glow") (r "^0.13.0") (d #t) (k 2)) (d (n "png") (r "^0.17.11") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rs-math3d") (r "^0.9.21") (d #t) (k 0)) (d (n "sdl2") (r "^0.36.0") (d #t) (k 2)))) (h "0hyl9xp8lbv3jamaip0ls0lczy6v28yskvz7sbfgqh4cwbarf5d5") (f (quote (("save-to-rust") ("default" "builder" "save-to-rust")))) (s 2) (e (quote (("png_source" "dep:png") ("builder" "dep:fontdue" "dep:png"))))))
+

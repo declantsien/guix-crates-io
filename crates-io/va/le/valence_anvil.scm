@@ -1,0 +1,8 @@
+(define-module (crates-io va le valence_anvil) #:use-module (crates-io))
+
+(define-public crate-valence_anvil-0.0.1 (c (n "valence_anvil") (v "0.0.1") (h "0cv11qkq1xpvf2d2ndxywgjhfkk27ss8qzsdyfncg096ykkwqvmz")))
+
+(define-public crate-valence_anvil-0.2.0-alpha.1+mc.1.20.1 (c (n "valence_anvil") (v "0.2.0-alpha.1+mc.1.20.1") (d (list (d (n "bevy_app") (r "^0.11") (k 0)) (d (n "bevy_ecs") (r "^0.11") (f (quote ("multi-threaded"))) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "lru") (r "^0.10.0") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "valence_server") (r "^0.2.0-alpha.1") (d #t) (k 0)))) (h "0bjyspng2mp0dyxxyx901h8qqxp3zl2s13yhb2hd2d1yrv1zl1jk")))
+
+(define-public crate-valence_anvil-0.1.0 (c (n "valence_anvil") (v "0.1.0") (d (list (d (n "bevy_app") (r "^0.11") (o #t) (k 0)) (d (n "bevy_ecs") (r "^0.11") (f (quote ("multi-threaded"))) (o #t) (k 0)) (d (n "bitfield-struct") (r "^0.5.3") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "flate2") (r "^1.0.24") (d #t) (k 0)) (d (n "flume") (r "^0.11.0") (o #t) (d #t) (k 0)) (d (n "lru") (r "^0.12.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "valence_nbt") (r "^0.8.0") (f (quote ("uuid" "binary"))) (d #t) (k 0)) (d (n "valence_server") (r "^0.2.0-alpha.1") (o #t) (d #t) (k 0)))) (h "17dx0jxhz3s7df4d0ld452gwbmfl693v5nadx0sydv0z7a577kj0") (s 2) (e (quote (("parsing" "dep:valence_server") ("bevy_plugin" "dep:bevy_app" "dep:bevy_ecs" "dep:flume" "parsing"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io im ag imag-git) #:use-module (crates-io))
+
+(define-public crate-imag-git-0.8.0 (c (n "imag-git") (v "0.8.0") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.8.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.8.0") (d #t) (k 0)) (d (n "log") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.6") (d #t) (k 0)))) (h "1ww9bjnrjfksw6mj738fzlr4i5sqi0xy8kcy74y1rr5j4ws64ip6")))
+
+(define-public crate-imag-git-0.9.0 (c (n "imag-git") (v "0.9.0") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "1kxxn70k8ps3b0hj3i8sgfp9xwykdvyzaqjv8mzspb374a1xv9sm")))
+
+(define-public crate-imag-git-0.9.1 (c (n "imag-git") (v "0.9.1") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "0592h43ji1hm381my78wfrp1d92c98wwns292i0ai09h51qrnmrj")))
+
+(define-public crate-imag-git-0.9.2 (c (n "imag-git") (v "0.9.2") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "11bflfws2a0dkpk0fp0lia4kybs5nbr691s118ic0hxx7igcxaps")))
+
+(define-public crate-imag-git-0.9.3 (c (n "imag-git") (v "0.9.3") (d (list (d (n "clap") (r "^2.29") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "libimagerror") (r "^0.9.3") (d #t) (k 0)) (d (n "libimagrt") (r "^0.9.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "toml") (r "^0.4") (d #t) (k 0)) (d (n "toml-query") (r "^0.8") (d #t) (k 0)))) (h "1rkcnysp32lpviwp48zw1k2vgdaqw36mjpdaqp9vj9ak7wkjsmrc")))
+
+(define-public crate-imag-git-0.10.0 (c (n "imag-git") (v "0.10.0") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.0") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "toml-query") (r "^0.9.2") (d #t) (k 0)))) (h "1bdh0nfn0lh7libda5xg3hkb0n4wgk03qmlgsl47bii7v93w8jll")))
+
+(define-public crate-imag-git-0.10.1 (c (n "imag-git") (v "0.10.1") (d (list (d (n "clap") (r "^2.33.0") (f (quote ("color" "suggestions" "wrap_help"))) (k 0)) (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "libimagerror") (r "^0.10.1") (d #t) (k 0)) (d (n "libimagrt") (r "^0.10.1") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "toml") (r "^0.5.1") (d #t) (k 0)) (d (n "toml-query") (r "^0.9.2") (d #t) (k 0)))) (h "1mvl84dh3vjysagh4134s18zypgpq8am2j6gn309c5gl98kd7h3z")))
+

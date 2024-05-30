@@ -1,0 +1,20 @@
+(define-module (crates-io fr os frost-rerandomized) #:use-module (crates-io))
+
+(define-public crate-frost-rerandomized-0.1.0 (c (n "frost-rerandomized") (v "0.1.0") (d (list (d (n "frost-core") (r "^0.1.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "0aamcfb8xsvlk6rs7gfy02pqdd68yp5rvh5fxip6jnnqm1g52c9p") (f (quote (("test-impl" "frost-core/test-impl") ("nightly") ("default"))))))
+
+(define-public crate-frost-rerandomized-0.2.0 (c (n "frost-rerandomized") (v "0.2.0") (d (list (d (n "frost-core") (r "^0.2.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "0y218hq367jjaryr584chlpxyf7r4d24skxl9z10kidm3z4ybw47") (f (quote (("test-impl" "frost-core/test-impl") ("nightly") ("default"))))))
+
+(define-public crate-frost-rerandomized-0.3.0 (c (n "frost-rerandomized") (v "0.3.0") (d (list (d (n "frost-core") (r "^0.3.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "1444hl36bx3vza03sxlrkzl8s1pkq3619nzpa1d1jxiyq7b8znm1") (f (quote (("test-impl" "frost-core/test-impl") ("nightly") ("default"))))))
+
+(define-public crate-frost-rerandomized-0.4.0 (c (n "frost-rerandomized") (v "0.4.0") (d (list (d (n "frost-core") (r "^0.4.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "0xvysc92dzyr2wsayl2kv2ck0mz8wi68c4lg4psy3jkc373i1kdj") (f (quote (("test-impl" "frost-core/test-impl") ("nightly") ("default"))))))
+
+(define-public crate-frost-rerandomized-0.5.0 (c (n "frost-rerandomized") (v "0.5.0") (d (list (d (n "frost-core") (r "^0.5.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "16npw4wsdqcblgi3sc7p0014ncll6pb3d5c34hb2yjd62n2vb17z") (f (quote (("test-impl" "frost-core/test-impl") ("nightly") ("default"))))))
+
+(define-public crate-frost-rerandomized-0.6.0 (c (n "frost-rerandomized") (v "0.6.0") (d (list (d (n "frost-core") (r "^0.6.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "0shkpkz1dmvsc87p6l9msq3yykj1y0wihak51iik131dj0f3qyy4") (f (quote (("test-impl" "frost-core/test-impl") ("nightly") ("default"))))))
+
+(define-public crate-frost-rerandomized-0.7.0 (c (n "frost-rerandomized") (v "0.7.0") (d (list (d (n "derive-getters") (r "^0.3.0") (d #t) (k 0)) (d (n "document-features") (r "^0.2.7") (d #t) (k 0)) (d (n "frost-core") (r "^0.7.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "1blpvcm4dqp0zb1p8ph338pmd93hlal4fj765bsh0l6gjffl0i9b") (f (quote (("test-impl" "frost-core/test-impl") ("serialization" "serde" "frost-core/serialization") ("serde" "frost-core/serde") ("nightly") ("default" "serialization"))))))
+
+(define-public crate-frost-rerandomized-1.0.0-rc.0 (c (n "frost-rerandomized") (v "1.0.0-rc.0") (d (list (d (n "derive-getters") (r "^0.3.0") (d #t) (k 0)) (d (n "document-features") (r "^0.2.7") (d #t) (k 0)) (d (n "frost-core") (r "^1.0.0-rc.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "1qnihnmhpr7mjv3fc14p0y6krh3srvc4lxflw78jn9i7bx2g1jdb") (f (quote (("test-impl" "frost-core/test-impl") ("serialization" "serde" "frost-core/serialization") ("serde" "frost-core/serde") ("nightly") ("default" "serialization" "cheater-detection") ("cheater-detection" "frost-core/cheater-detection"))))))
+
+(define-public crate-frost-rerandomized-1.0.0 (c (n "frost-rerandomized") (v "1.0.0") (d (list (d (n "derive-getters") (r "^0.3.0") (d #t) (k 0)) (d (n "document-features") (r "^0.2.7") (d #t) (k 0)) (d (n "frost-core") (r "^1.0.0") (f (quote ("internals"))) (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "02vb6382x346yfl7n35hl93mc0yh6qwrmz8f97dh1400x9c8ziaj") (f (quote (("test-impl" "frost-core/test-impl") ("serialization" "serde" "frost-core/serialization") ("serde" "frost-core/serde") ("nightly") ("default" "serialization" "cheater-detection") ("cheater-detection" "frost-core/cheater-detection"))))))
+

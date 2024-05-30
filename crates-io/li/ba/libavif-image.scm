@@ -1,0 +1,34 @@
+(define-module (crates-io li ba libavif-image) #:use-module (crates-io))
+
+(define-public crate-libavif-image-0.1.0 (c (n "libavif-image") (v "0.1.0") (d (list (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "libavif") (r "^0.1") (d #t) (k 0)))) (h "1f4yxvk5s850pgzj3zlvypphdw0qw51zp6f16hi3z39ivh1xm0wr")))
+
+(define-public crate-libavif-image-0.1.1 (c (n "libavif-image") (v "0.1.1") (d (list (d (n "image") (r "^0.23") (d #t) (k 0)) (d (n "libavif") (r "^0.1") (d #t) (k 0)))) (h "03gsvgivrhkf771g4v36fcw9m45zlhvlkpnxm9gc9nn6dzp3yisf")))
+
+(define-public crate-libavif-image-0.1.2 (c (n "libavif-image") (v "0.1.2") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "image") (r "^0.23") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.1.2") (k 0)))) (h "1k41a5ddglj8f585bnd9ikgy4fibffn6sm90d4f01jkfgc5narrc") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom") ("__internal_aom_generic_target" "libavif/__internal_aom_generic_target"))))))
+
+(define-public crate-libavif-image-0.2.0 (c (n "libavif-image") (v "0.2.0") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "image") (r "^0.23") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.2.0") (k 0)))) (h "1rlinwry66ri9rynnxha8dcmhk9jfr0nafpcha45ijmf92lp64d6") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom") ("__internal_aom_generic_target" "libavif/__internal_aom_generic_target"))))))
+
+(define-public crate-libavif-image-0.3.0 (c (n "libavif-image") (v "0.3.0") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "image") (r "^0.23") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.3.0") (k 0)))) (h "1w32z40y3sj4wk19fzhhwwb62hgkb7d04ga0zwd0as2mgl90qdjz") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom") ("__internal_aom_generic_target" "libavif/__internal_aom_generic_target"))))))
+
+(define-public crate-libavif-image-0.4.0 (c (n "libavif-image") (v "0.4.0") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "image") (r "^0.23") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.4.0") (k 0)))) (h "0f570d3a652266y7xb7ky04kb46aiqxlcxa5qq23lm4fakb8qn1z") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom"))))))
+
+(define-public crate-libavif-image-0.5.0 (c (n "libavif-image") (v "0.5.0") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "image") (r "^0.23") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.5.0") (k 0)))) (h "1r80c64yqkjlakl5gkrs6l99izjj91357da0dw18vbg981fqkbzr") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom"))))))
+
+(define-public crate-libavif-image-0.6.0 (c (n "libavif-image") (v "0.6.0") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "libavif") (r "^0.6.0") (k 0)))) (h "0hhbva5sb1cjkicps3h3kxg6j8agrndgb1lq6jy7ky6lj3sxdd6b") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom"))))))
+
+(define-public crate-libavif-image-0.6.1 (c (n "libavif-image") (v "0.6.1") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "libavif") (r "^0.7.0") (k 0)))) (h "0c0pdj0a2ba6855xrfxdzzbl16gr3n0najl8yxfmzq72j28rhj0p") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom"))))))
+
+(define-public crate-libavif-image-0.7.0 (c (n "libavif-image") (v "0.7.0") (d (list (d (n "image") (r "^0.23") (k 0)) (d (n "libavif") (r "^0.8.0") (k 0)))) (h "1l50q1mxf6gpk5zx5c634zpg9v5cbdr310h67f8d1dxjfva94rnw") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom"))))))
+
+(define-public crate-libavif-image-0.8.0 (c (n "libavif-image") (v "0.8.0") (d (list (d (n "image") (r "^0.24") (k 0)) (d (n "image") (r "^0.24") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.9.0") (k 0)))) (h "0w2vqxzshadq31rdm7xm980iipjcqdzfj692fpyhpx0xf2lz24wn") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom"))))))
+
+(define-public crate-libavif-image-0.9.0 (c (n "libavif-image") (v "0.9.0") (d (list (d (n "image") (r "^0.24") (k 0)) (d (n "image") (r "^0.24") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.10.0") (k 0)))) (h "16jn8dr005024sl7af7zji4scmn72r5p59inadmjh3v83yvm716z") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom")))) (r "1.56")))
+
+(define-public crate-libavif-image-0.10.0 (c (n "libavif-image") (v "0.10.0") (d (list (d (n "image") (r "^0.24") (k 0)) (d (n "image") (r "^0.24") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.11.0") (k 0)))) (h "18gi4dnc1f0j8rqi3parmmwwwcnnb0vb4n7pr2x60ldij1av7h0f") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom")))) (r "1.56")))
+
+(define-public crate-libavif-image-0.11.0 (c (n "libavif-image") (v "0.11.0") (d (list (d (n "image") (r "^0.24") (k 0)) (d (n "image") (r "^0.24") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.12.0") (k 0)))) (h "19cr9zsw4i6jkrb0kx7xv66waf8q7nqnm2s259f5bmmzblcg5b80") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom")))) (r "1.63")))
+
+(define-public crate-libavif-image-0.12.0 (c (n "libavif-image") (v "0.12.0") (d (list (d (n "image") (r "^0.24") (k 0)) (d (n "image") (r "^0.24") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.13.0") (k 0)))) (h "1rxjham6vwnsk0sip0cvn67wcaxn1513qb6nrvp0gsprprcd6xwd") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom")))) (r "1.63")))
+
+(define-public crate-libavif-image-0.13.0 (c (n "libavif-image") (v "0.13.0") (d (list (d (n "image") (r "^0.25") (k 0)) (d (n "image") (r "^0.25") (f (quote ("jpeg"))) (k 2)) (d (n "libavif") (r "^0.13.0") (k 0)))) (h "0am89bpdfwb74dv1c0kc6xvhmjv3riifxj3bbbjr6kij1zx41ijn") (f (quote (("default" "codec-dav1d" "codec-rav1e") ("codec-rav1e" "libavif/codec-rav1e") ("codec-dav1d" "libavif/codec-dav1d") ("codec-aom" "libavif/codec-aom")))) (r "1.63")))
+

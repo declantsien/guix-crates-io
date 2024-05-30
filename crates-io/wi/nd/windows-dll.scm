@@ -1,0 +1,22 @@
+(define-module (crates-io wi nd windows-dll) #:use-module (crates-io))
+
+(define-public crate-windows-dll-0.1.0 (c (n "windows-dll") (v "0.1.0") (d (list (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.1.0") (d #t) (k 0)))) (h "04pl371c308dww97d7jdsd1p916v065j2ai0ag68jfwb7abal57p")))
+
+(define-public crate-windows-dll-0.1.1 (c (n "windows-dll") (v "0.1.1") (d (list (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.1.1") (d #t) (k 0)))) (h "17k00xsbwn9azk26xkmf3qrsxwa42krw99nhln4vzap2nwj1yq6m")))
+
+(define-public crate-windows-dll-0.2.0 (c (n "windows-dll") (v "0.2.0") (d (list (d (n "once_cell") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.2.0") (d #t) (k 0)))) (h "1gig5sayp52awwy42a817d5i62ax25693dbq9iaggr7rqf99srns")))
+
+(define-public crate-windows-dll-0.2.1 (c (n "windows-dll") (v "0.2.1") (d (list (d (n "once_cell") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.2.0") (d #t) (k 0)))) (h "0dl09my49r0qy2pv7bhfgzhkqabgim91pk2rlykh086p7bajlmfm") (y #t)))
+
+(define-public crate-windows-dll-0.2.2 (c (n "windows-dll") (v "0.2.2") (d (list (d (n "once_cell") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.2.2") (d #t) (k 0)))) (h "1dq25z02wxpv5wig4p8lr3ai0f73yji1mi8s253v3w27kmj5wn1g")))
+
+(define-public crate-windows-dll-0.2.3 (c (n "windows-dll") (v "0.2.3") (d (list (d (n "once_cell") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.2.2") (d #t) (k 0)))) (h "14qr9q6a9b4l257ksi155znz4z56yc0l5irdfylzjv9jyyzifz9j")))
+
+(define-public crate-windows-dll-0.2.4 (c (n "windows-dll") (v "0.2.4") (d (list (d (n "once_cell") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "winapi") (r "^0.3.7") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.2.4") (d #t) (k 0)))) (h "0c4dk1fs9wj9cj3gzs470wi878skixml5npc0w378z9fcaymy291")))
+
+(define-public crate-windows-dll-0.3.0 (c (n "windows-dll") (v "0.3.0") (d (list (d (n "minifb") (r "^0.19") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.3.0") (d #t) (k 0)))) (h "1ci62kaj3j11gmcvqza1wwm2w1fwsmrbfwl1vzflixysd5a5v4p7")))
+
+(define-public crate-windows-dll-0.4.0 (c (n "windows-dll") (v "0.4.0") (d (list (d (n "minifb") (r "^0.22") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (o #t) (d #t) (k 0)) (d (n "windows") (r ">=0.33, <=0.35") (f (quote ("Win32_Foundation" "Win32_System_LibraryLoader"))) (o #t) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.4.0") (d #t) (k 0)))) (h "1krmibqpq3y8797h9anfpy9ldbwpw6vnyc0rdyyynvh4z45cg148") (f (quote (("default" "winapi"))))))
+
+(define-public crate-windows-dll-0.4.1 (c (n "windows-dll") (v "0.4.1") (d (list (d (n "minifb") (r "^0.22") (d #t) (k 2)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winapi") (r "^0.3") (f (quote ("ntdef" "minwindef" "winerror" "libloaderapi" "winuser"))) (o #t) (d #t) (k 0)) (d (n "windows") (r ">=0.33, <=0.35") (f (quote ("Win32_Foundation" "Win32_System_LibraryLoader"))) (o #t) (d #t) (k 0)) (d (n "windows-dll-codegen") (r "^0.4.0") (d #t) (k 0)))) (h "0mambcc3pdydcd0zkqf33yjjyayjwmsiksi0ayfm1b9asf3y5588") (f (quote (("default" "winapi"))))))
+

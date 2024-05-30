@@ -1,0 +1,4 @@
+(define-module (crates-io co re core_bluetooth) #:use-module (crates-io))
+
+(define-public crate-core_bluetooth-0.1.0 (c (n "core_bluetooth") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.28") (d #t) (k 2)) (d (n "async-std") (r "^1.5.0") (f (quote ("unstable"))) (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (d #t) (k 2)) (d (n "clap") (r "^3.0.0-beta.1") (d #t) (k 2)) (d (n "enumflags2") (r "^0.6") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.2") (d #t) (k 2)) (d (n "hex-literal") (r "^0.2.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "macaddr") (r "^1.0.1") (d #t) (k 2)) (d (n "objc") (r "^0.2.7") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9.55") (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)))) (h "0n8043l6bhazwvig8rsn39nic5yszif7mfhws1dx5mjjkfj13ksw") (f (quote (("async_std_unstable" "async-std"))))))
+

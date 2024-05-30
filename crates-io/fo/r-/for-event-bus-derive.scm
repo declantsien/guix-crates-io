@@ -1,0 +1,10 @@
+(define-module (crates-io fo r- for-event-bus-derive) #:use-module (crates-io))
+
+(define-public crate-for-event-bus-derive-0.1.0 (c (n "for-event-bus-derive") (v "0.1.0") (d (list (d (n "custom-utils") (r "^0.10.14") (f (quote ("derive"))) (d #t) (k 2)) (d (n "prettyplease") (r "^0.2.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit"))) (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0sp0g83pnh8j6qa7bxm4r45z99wbzsm1x62nc1lxgkvsibvpnz2h")))
+
+(define-public crate-for-event-bus-derive-0.1.1 (c (n "for-event-bus-derive") (v "0.1.1") (d (list (d (n "custom-utils") (r "^0.10.14") (f (quote ("derive"))) (d #t) (k 2)) (d (n "prettyplease") (r "^0.2.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit"))) (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1nz6w8x0hcwvr2jzp3fcfz0fn9bwymjm57s32grryz5p1rjrz081")))
+
+(define-public crate-for-event-bus-derive-0.1.2 (c (n "for-event-bus-derive") (v "0.1.2") (d (list (d (n "custom-utils") (r "^0.10.14") (f (quote ("derive"))) (d #t) (k 2)) (d (n "prettyplease") (r "^0.2.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit"))) (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1qcgiwn4npr8gpk73hx1rmmh6yv3ir2q9hy1szy7zwv4yr135b4p")))
+
+(define-public crate-for-event-bus-derive-0.1.3 (c (n "for-event-bus-derive") (v "0.1.3") (d (list (d (n "custom-utils") (r "^0.10.14") (f (quote ("derive"))) (d #t) (k 2)) (d (n "prettyplease") (r "^0.2.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit"))) (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 2)))) (h "149bxv1fv2pprn3sd30ah5sg39akhi9gvi2vjk7scmnf9c6sz6y9")))
+

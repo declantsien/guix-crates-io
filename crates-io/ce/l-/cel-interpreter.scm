@@ -1,0 +1,22 @@
+(define-module (crates-io ce l- cel-interpreter) #:use-module (crates-io))
+
+(define-public crate-cel-interpreter-0.1.1 (c (n "cel-interpreter") (v "0.1.1") (d (list (d (n "cel-parser") (r "^0.1.1") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0ygj8dzdvgl7bll7srqyiraddihagcmxf5fzlsvkdjxzfv9pdvby")))
+
+(define-public crate-cel-interpreter-0.2.0 (c (n "cel-interpreter") (v "0.2.0") (d (list (d (n "cel-parser") (r "^0.2.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "094zzf2cnhn3f3z7jawwamd54rklfx7y6fwz40smwj4w6wfxz933")))
+
+(define-public crate-cel-interpreter-0.1.3-alpha.0 (c (n "cel-interpreter") (v "0.1.3-alpha.0") (d (list (d (n "cel-parser") (r "^0.1.3-alpha.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "07129q8xxl0dvvghr5g0hbv3izwzhycngh8d1ykzfibnq0jn8709") (y #t)))
+
+(define-public crate-cel-interpreter-0.3.0 (c (n "cel-interpreter") (v "0.3.0") (d (list (d (n "cel-parser") (r "^0.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1rp19p6icprsqpl5mfkmkj2qplsz3x4pcgxg7zvfq5zx113li1l5")))
+
+(define-public crate-cel-interpreter-0.4.0 (c (n "cel-interpreter") (v "0.4.0") (d (list (d (n "cel-parser") (r "^0.5.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1y5cw1bmnbc3szb4kgp7nw4h0i3ggnmdnn2g26zwnxnz9a2g5kjv")))
+
+(define-public crate-cel-interpreter-0.4.1 (c (n "cel-interpreter") (v "0.4.1") (d (list (d (n "cel-parser") (r "^0.5.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0r833zc7lbhgp87gpbs8lgijc0kmbwkx6kz5fmbdyvij02p2mzlk")))
+
+(define-public crate-cel-interpreter-0.5.0 (c (n "cel-interpreter") (v "0.5.0") (d (list (d (n "cel-parser") (r "^0.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "13jnbw78b2mq7bzczdnrai27c9ld4b98nxf0jiad9b4bq5rcq7hj")))
+
+(define-public crate-cel-interpreter-0.6.0 (c (n "cel-interpreter") (v "0.6.0") (d (list (d (n "cel-parser") (r "^0.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.14") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1045nfl4a3034krvmyyaxy57aml0rnbrfd48n6bix4lbq6fp06dz")))
+
+(define-public crate-cel-interpreter-0.6.1 (c (n "cel-interpreter") (v "0.6.1") (d (list (d (n "cel-parser") (r "^0.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.14") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "15523if1cgg8nkbz5mwflfpmg6a4br7xq74iakg577jq0gcl3zmh")))
+
+(define-public crate-cel-interpreter-0.7.0 (c (n "cel-interpreter") (v "0.7.0") (d (list (d (n "cel-parser") (r "^0.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.26") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.14") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0r29jg0is56b9k1k6an2ggb8rc03dqs70rgh0ahari9pjg4ripch")))
+

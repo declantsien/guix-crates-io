@@ -1,0 +1,10 @@
+(define-module (crates-io st rm strm-privacy-driver) #:use-module (crates-io))
+
+(define-public crate-strm-privacy-driver-0.1.0 (c (n "strm-privacy-driver") (v "0.1.0") (d (list (d (n "avro-rs") (r "^0.13.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 0)))) (h "1kjjlnnwpb0s9qpal61374xdzbahc95s5lcg6ls95ckxbdilpkhc")))
+
+(define-public crate-strm-privacy-driver-0.1.1 (c (n "strm-privacy-driver") (v "0.1.1") (d (list (d (n "avro-rs") (r "^0.13.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "160qc5rr2bds26j2qxbzpk5bs0r45q8xvz9mds87mh0ssmza6v2n")))
+
+(define-public crate-strm-privacy-driver-0.2.0 (c (n "strm-privacy-driver") (v "0.2.0") (d (list (d (n "avro-rs") (r "^0.13.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "104np1xs3i8pi2dcin5zrymh39cqsjvc3a88zxmh358nf5sp01wp")))
+
+(define-public crate-strm-privacy-driver-1.0.1 (c (n "strm-privacy-driver") (v "1.0.1") (d (list (d (n "avro-rs") (r "^0.13.0") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.136") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1qxv5waqaplw0wp8xvq6dgwlh5zxlri1lqj5nnpik2cw84vzhh0x")))
+

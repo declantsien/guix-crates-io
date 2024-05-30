@@ -1,0 +1,14 @@
+(define-module (crates-io up wo upwork-wlroots-bridge) #:use-module (crates-io))
+
+(define-public crate-upwork-wlroots-bridge-0.1.0 (c (n "upwork-wlroots-bridge") (v "0.1.0") (d (list (d (n "async-process") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zbus") (r "^3.6.2") (d #t) (k 0)))) (h "1j0lsikl6bcvqzqmviyx9ykxr7nk3a1gaxrh39ihk21p50wm5m6n")))
+
+(define-public crate-upwork-wlroots-bridge-0.1.1 (c (n "upwork-wlroots-bridge") (v "0.1.1") (d (list (d (n "async-process") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zbus") (r "^3.6.2") (d #t) (k 0)))) (h "1lw0bnw452mm3xs0syv6ijfjdy3blf1q5q6ha5am9c86vdsjsdcg")))
+
+(define-public crate-upwork-wlroots-bridge-0.1.2 (c (n "upwork-wlroots-bridge") (v "0.1.2") (d (list (d (n "async-process") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zbus") (r "^3.6.2") (d #t) (k 0)))) (h "07xc32hlw4f50yy5ka6g9sqrz0hlwxakzvpv547z31ikqya2rig3")))
+
+(define-public crate-upwork-wlroots-bridge-0.1.3 (c (n "upwork-wlroots-bridge") (v "0.1.3") (d (list (d (n "async-process") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zbus") (r "^3.6.2") (d #t) (k 0)))) (h "06xk8f0m608jqb8y5dajhz7dx6r3blzapvbbbvbgdc386krnz10r")))
+
+(define-public crate-upwork-wlroots-bridge-0.1.4 (c (n "upwork-wlroots-bridge") (v "0.1.4") (d (list (d (n "async-process") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zbus") (r "^3.6.2") (d #t) (k 0)))) (h "0lwrp8glzli970y90f54ccqqnp1wcymyrz7qf9xw1xdm74ywdawz")))
+
+(define-public crate-upwork-wlroots-bridge-0.1.5 (c (n "upwork-wlroots-bridge") (v "0.1.5") (d (list (d (n "async-process") (r "^1.6.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.29") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures-lite") (r "^1.12.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.0") (d #t) (k 0)) (d (n "tokio") (r "^1.23.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zbus") (r "^3.6.2") (d #t) (k 0)))) (h "0vzhgpfda01jv0g8l5nzmy0fk260igqysp0fvcb9j5ixj3f7dd48")))
+

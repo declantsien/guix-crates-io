@@ -1,0 +1,12 @@
+(define-module (crates-io da rw darwin-webkit) #:use-module (crates-io))
+
+(define-public crate-darwin-webkit-0.1.0 (c (n "darwin-webkit") (v "0.1.0") (d (list (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "cocoa") (r "^0.18.4") (d #t) (k 0)) (d (n "core-graphics") (r "^0.17.3") (d #t) (k 0)) (d (n "dispatch") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (k 0)) (d (n "objc") (r "^0.2.5") (d #t) (k 0)))) (h "1jkmzxwy1d9laa7gxh1wns1k6118d4b71l39nimll3728src7b8l")))
+
+(define-public crate-darwin-webkit-0.1.1 (c (n "darwin-webkit") (v "0.1.1") (d (list (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "cocoa") (r "^0.18.4") (d #t) (k 0)) (d (n "core-graphics") (r "^0.17.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "dispatch") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (k 0)) (d (n "objc") (r "^0.2.5") (d #t) (k 0)))) (h "15widv3h2nkg7srs03r1b45p3358ss1nakyd3kkwgiyhjj7r1nxh")))
+
+(define-public crate-darwin-webkit-0.1.2 (c (n "darwin-webkit") (v "0.1.2") (d (list (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "cocoa") (r "^0.18.4") (d #t) (k 0)) (d (n "core-graphics") (r "^0.17.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "dispatch") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (k 0)) (d (n "objc") (r "^0.2.5") (d #t) (k 0)))) (h "16mycd5ljqzqbbyh99zx676rphzisrb0af6bijlkss3f1izpinw3")))
+
+(define-public crate-darwin-webkit-0.1.3 (c (n "darwin-webkit") (v "0.1.3") (d (list (d (n "block") (r "^0.1.6") (d #t) (k 0)) (d (n "cocoa") (r "^0.18.4") (d #t) (k 0)) (d (n "core-graphics") (r "^0.17.3") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "dispatch") (r "^0.2.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (k 0)) (d (n "objc") (r "^0.2.5") (d #t) (k 0)))) (h "0627b724h1970wgygkpabjby79ydw78irhkc0srfghyqi0aiq07w")))
+
+(define-public crate-darwin-webkit-0.2.0 (c (n "darwin-webkit") (v "0.2.0") (d (list (d (n "block") (r "^0.1.6") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "cocoa") (r "^0.25.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "core-graphics") (r "^0.23.1") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "dispatch") (r "^0.2.0") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "libc") (r "^0.2.45") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "objc") (r "^0.2.5") (d #t) (t "cfg(target_os = \"macos\")") (k 0)))) (h "1vs0n5i0k7qlcrk63p6zv90yhj5pfdq5vgb9mf18j2hk7hy5jlmn")))
+

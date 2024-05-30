@@ -1,0 +1,4 @@
+(define-module (crates-io xc om xcommonlib) #:use-module (crates-io))
+
+(define-public crate-xCommonLib-0.1.0 (c (n "xCommonLib") (v "0.1.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "protobuf") (r "^3.2.0") (d #t) (k 0)) (d (n "protobuf-parse") (r "^3.2.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "time") (r "^0.3.21") (f (quote ("local-offset"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "067bw87vfp5yv2k6y5dzazygys20v9200r7dcd6rw4c4kjswxrfy") (y #t)))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io po is poisson_reconstruction) #:use-module (crates-io))
+
+(define-public crate-poisson_reconstruction-0.1.0 (c (n "poisson_reconstruction") (v "0.1.0") (d (list (d (n "bevy") (r "^0.9") (d #t) (k 2)) (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (d #t) (k 0)) (d (n "nalgebra-sparse") (r "^0.8") (d #t) (k 0)) (d (n "parry3d-f64") (r "^0.12") (d #t) (k 0)) (d (n "ply-rs") (r "^0.1") (d #t) (k 2)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0f9m00wlrh50gh4y13nj8743kh089218an28iyw7z38fvbvmi1f0") (f (quote (("serde-serialize" "nalgebra/serde-serialize" "serde"))))))
+
+(define-public crate-poisson_reconstruction-0.2.0 (c (n "poisson_reconstruction") (v "0.2.0") (d (list (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (d #t) (k 0)) (d (n "nalgebra-sparse") (r "^0.9") (d #t) (k 0)) (d (n "parry3d-f64") (r "^0.13") (d #t) (k 0)) (d (n "rayon") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "bevy") (r "^0.9") (d #t) (k 2)) (d (n "ply-rs") (r "^0.1") (d #t) (k 2)))) (h "1119a4awdrwcpa8qhmcqsms606ap18lr2vnbaji8hr4hzr6fkdd0") (f (quote (("serde-serialize" "nalgebra/serde-serialize" "serde"))))))
+

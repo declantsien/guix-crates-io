@@ -1,0 +1,12 @@
+(define-module (crates-io di sc discord_interaction) #:use-module (crates-io))
+
+(define-public crate-discord_interaction-0.0.1 (c (n "discord_interaction") (v "0.0.1") (d (list (d (n "serde") (r "=1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)))) (h "19h1z0s17rpsy2a60iywz2af06irsa0pd7nwa2kyawg8b74h3yg8") (y #t)))
+
+(define-public crate-discord_interaction-0.0.2 (c (n "discord_interaction") (v "0.0.2") (d (list (d (n "serde") (r "=1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)))) (h "0hjh9rm30y22997r91vvw85rd2qflw0b0kk80hpaachq7cqfiqcj")))
+
+(define-public crate-discord_interaction-0.0.3 (c (n "discord_interaction") (v "0.0.3") (d (list (d (n "ed25519-dalek") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lambda_http") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "=1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)))) (h "0wbahpnqxkd9skhh8i0br07jfmsh9d9jkakjchhzjy48fqmijpm6")))
+
+(define-public crate-discord_interaction-0.0.4 (c (n "discord_interaction") (v "0.0.4") (d (list (d (n "ed25519-dalek") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lambda_http") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)))) (h "1lviphwl7zkvrg757g5m3jzf5p3dp0ihh8cf256aga8b900lds3y")))
+
+(define-public crate-discord_interaction-0.0.5 (c (n "discord_interaction") (v "0.0.5") (d (list (d (n "ed25519-dalek") (r "^2.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lambda_http") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("log"))) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("fmt"))) (k 0)))) (h "0py6kw3k75x9d4a6v4x3k6j1b4h7wkjxanjbfhyrcn80avjz1hid")))
+

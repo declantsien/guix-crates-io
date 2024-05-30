@@ -1,0 +1,4 @@
+(define-module (crates-io ru st rustique) #:use-module (crates-io))
+
+(define-public crate-rustique-0.1.0 (c (n "rustique") (v "0.1.0") (d (list (d (n "clap") (r "^4.4.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cliclack") (r "^0.1.9") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "miette") (r "^5.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-graceful-shutdown") (r "^0.14.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 0)))) (h "1a6m8d01788043qgfzgqxnl6dfj2wcr6b034rf358078zgp7xlcz")))
+

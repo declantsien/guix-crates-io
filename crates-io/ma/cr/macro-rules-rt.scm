@@ -1,0 +1,6 @@
+(define-module (crates-io ma cr macro-rules-rt) #:use-module (crates-io))
+
+(define-public crate-macro-rules-rt-0.1.0 (c (n "macro-rules-rt") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.55") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "structmeta") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.13") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3.0") (d #t) (k 2)))) (h "0slv1gj3qs6i37hlwgfmhw1w6j1apzffrqg7ja2z32bpnnly6kqb")))
+
+(define-public crate-macro-rules-rt-0.1.1 (c (n "macro-rules-rt") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.55") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "structmeta") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.13") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.70") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3.0") (d #t) (k 2)))) (h "007ih9m5p79djxpnbl4fcqkwra9xfz725nj0wbv8884pzbm9apsw")))
+

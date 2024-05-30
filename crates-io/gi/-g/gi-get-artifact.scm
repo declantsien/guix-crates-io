@@ -1,0 +1,4 @@
+(define-module (crates-io gi -g gi-get-artifact) #:use-module (crates-io))
+
+(define-public crate-gi-get-artifact-0.1.0 (c (n "gi-get-artifact") (v "0.1.0") (d (list (d (n "async-compression") (r "^0.3.14") (f (quote ("futures-io"))) (d #t) (k 0)) (d (n "async-tar") (r "^0.4.2") (d #t) (k 0)) (d (n "async_zip") (r "^0.0.7") (d #t) (k 0)) (d (n "clap") (r "^3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "futures-async-stream") (r "^0.2") (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("stream"))) (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.3") (f (quote ("compat"))) (d #t) (k 0)))) (h "0v6idfz3p7a2rhrbxhcdj2qzl0mcpbslr3gnwy9xc4lgj7rrp344")))
+

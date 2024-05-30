@@ -1,0 +1,4 @@
+(define-module (crates-io co ns consul-client) #:use-module (crates-io))
+
+(define-public crate-consul-client-0.1.0-alpha.0 (c (n "consul-client") (v "0.1.0-alpha.0") (d (list (d (n "camino") (r "^1.1.4") (f (quote ("serde1"))) (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (f (quote ("h2" "http1" "http2" "server" "tcp" "stream" "client"))) (d #t) (k 0)) (d (n "hyper-rustls") (r "^0.24.0") (f (quote ("http2"))) (d #t) (k 0)) (d (n "rustls") (r "^0.21.0") (d #t) (k 0)) (d (n "rustls-pemfile") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "serde_with") (r "^2.3.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "webpki") (r "^0.22.0") (f (quote ("std"))) (d #t) (k 0)))) (h "0j77vflvqrc989zzckrc7acj8gsmq0g4x638d1v6r4yclsb4c4x2")))
+

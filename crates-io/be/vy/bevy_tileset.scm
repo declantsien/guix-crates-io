@@ -1,0 +1,18 @@
+(define-module (crates-io be vy bevy_tileset) #:use-module (crates-io))
+
+(define-public crate-bevy_tileset-0.2.0 (c (n "bevy_tileset") (v "0.2.0") (d (list (d (n "bevy") (r "^0.5") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.2") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.2") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "112fh4wbqgcc38y0i28r16hw2xqxalmgi6l33bwj6q9ay0mibar5") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.3.0 (c (n "bevy_tileset") (v "0.3.0") (d (list (d (n "bevy") (r "^0.6") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.3") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.3") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "0ldzvvdh8rpa2bn45879r6xkhss5y4h30jq8hzda0n21if0cs8q6") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.3.1 (c (n "bevy_tileset") (v "0.3.1") (d (list (d (n "bevy") (r "^0.6") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.3") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.3") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "1k055vv7fpc94f4didhc1864jvv9vxyqx2hkaw7sxva7r3ypzyqv") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.4.0 (c (n "bevy_tileset") (v "0.4.0") (d (list (d (n "bevy") (r "^0.7") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.4") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.4") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "0mq887q0z28517s06k20nbgjiz2z9in2z849arsvph6avqph6lyl") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.5.0 (c (n "bevy_tileset") (v "0.5.0") (d (list (d (n "bevy") (r "^0.8") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.5") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.5") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "0q8vj4f8fg22f5w8b0b8wnj73qkcaqgqdgzccaz9kc4ixw5z1i3d") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.6.0 (c (n "bevy_tileset") (v "0.6.0") (d (list (d (n "bevy") (r "^0.9") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.6") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.6") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "1m97sigsp1y4n0pizf4p5k34cqsx0cylby0wz8q7hmiipv8bwqwh") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.7.0 (c (n "bevy_tileset") (v "0.7.0") (d (list (d (n "bevy") (r "^0.10") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.7") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.7") (d #t) (k 0)) (d (n "ron") (r "^0.7") (d #t) (k 2)))) (h "03wgy5p5jdjqfh4figk0m2s60wvc146h3r9saw8syn9xwgh3sg44") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+
+(define-public crate-bevy_tileset-0.8.0 (c (n "bevy_tileset") (v "0.8.0") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 2)) (d (n "bevy_tileset_core") (r "^0.8") (d #t) (k 0)) (d (n "bevy_tileset_tiles") (r "^0.8") (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 2)))) (h "0ah9v4zji6cv8h0nywi6z6pqc27lyn45qi7ncfpf8fsx08xq2y0h") (f (quote (("variants" "bevy_tileset_core/variants") ("default") ("auto-tile" "variants" "bevy_tileset_core/auto-tile"))))))
+

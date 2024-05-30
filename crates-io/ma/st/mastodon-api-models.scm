@@ -1,0 +1,4 @@
+(define-module (crates-io ma st mastodon-api-models) #:use-module (crates-io))
+
+(define-public crate-mastodon-api-models-0.1.0 (c (n "mastodon-api-models") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 1)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "derive-getters") (r "^0.1.0") (d #t) (k 0)) (d (n "derive_builder") (r "^0.9") (d #t) (k 0)) (d (n "fehler") (r "^1.0") (d #t) (k 1)) (d (n "getset") (r "^0.1.0") (d #t) (k 0)) (d (n "isolang") (r "^1.0") (f (quote ("serde_serialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 1)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "url") (r "^2.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "1rin7268axdibnnjg8w74z0kls00m1p2likv9r7pmsfqj4zhkd3g")))
+

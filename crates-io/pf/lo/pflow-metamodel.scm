@@ -1,0 +1,8 @@
+(define-module (crates-io pf lo pflow-metamodel) #:use-module (crates-io))
+
+(define-public crate-pflow-metamodel-0.1.0 (c (n "pflow-metamodel") (v "0.1.0") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cjson") (r "^0.1.2") (d #t) (k 0)) (d (n "filetime") (r "^0.2.23") (d #t) (k 0)) (d (n "libipld") (r "^0.16.0") (d #t) (k 0)) (d (n "multibase") (r "^0.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "178aql386bqbyrkjvhkzrkhdgw6gy8284pr03r3b68npn0igcvkl") (y #t)))
+
+(define-public crate-pflow-metamodel-0.1.1 (c (n "pflow-metamodel") (v "0.1.1") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "cjson") (r "^0.1.2") (d #t) (k 0)) (d (n "filetime") (r "^0.2.23") (d #t) (k 0)) (d (n "libipld") (r "^0.16.0") (d #t) (k 0)) (d (n "multibase") (r "^0.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "170lmsgqaxk02m72sgp4w6fnrm14gf0zaml6vd3ikslsnw1xbndq") (y #t)))
+
+(define-public crate-pflow-metamodel-0.1.2 (c (n "pflow-metamodel") (v "0.1.2") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "brotli") (r "^3.4.0") (d #t) (k 0)) (d (n "cjson") (r "^0.1.2") (d #t) (k 0)) (d (n "libipld") (r "^0.16.0") (d #t) (k 0)) (d (n "multibase") (r "^0.9.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "04v21d13mh791k6f7843yrjw73whpnapbb2f46c84jcrp0097lps")))
+

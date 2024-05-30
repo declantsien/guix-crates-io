@@ -1,0 +1,6 @@
+(define-module (crates-io su ns sunshine-faucet-pallet) #:use-module (crates-io))
+
+(define-public crate-sunshine-faucet-pallet-0.1.0 (c (n "sunshine-faucet-pallet") (v "0.1.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0-rc4") (k 0)) (d (n "frame-system") (r "^2.0.0-rc4") (k 0)) (d (n "pallet-balances") (r "^2.0.0-rc4") (k 0)) (d (n "sp-core") (r "^2.0.0-rc4") (k 0)) (d (n "sp-io") (r "^2.0.0-rc4") (k 0)) (d (n "sp-runtime") (r "^2.0.0-rc4") (k 0)))) (h "09gpmk1ynssbpvf21bzc34k9m45jxw254s4mp5msb66pnckd6rdn") (f (quote (("std" "codec/std" "frame-support/std" "frame-system/std" "pallet-balances/std") ("default" "std"))))))
+
+(define-public crate-sunshine-faucet-pallet-0.2.0 (c (n "sunshine-faucet-pallet") (v "0.2.0") (d (list (d (n "codec") (r "^1.3.0") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "frame-support") (r "^2.0.0-rc4") (k 0)) (d (n "frame-system") (r "^2.0.0-rc4") (k 0)) (d (n "pallet-balances") (r "^2.0.0-rc4") (k 0)) (d (n "sp-core") (r "^2.0.0-rc4") (k 0)) (d (n "sp-io") (r "^2.0.0-rc4") (k 0)) (d (n "sp-runtime") (r "^2.0.0-rc4") (k 0)))) (h "02f1wiq5cngx42lzb0a76z5hk5k3dlnygnfd23hmz2zbah2lsaqp") (f (quote (("std" "codec/std" "frame-support/std" "frame-system/std" "pallet-balances/std") ("default" "std"))))))
+

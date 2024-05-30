@@ -1,0 +1,6 @@
+(define-module (crates-io as tr astroport-maker) #:use-module (crates-io))
+
+(define-public crate-astroport-maker-1.3.1 (c (n "astroport-maker") (v "1.3.1") (d (list (d (n "astro-satellite-package") (r "^0") (d #t) (k 0)) (d (n "astroport") (r "^2.8") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-multi-test") (r "^0.15") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^0.15") (d #t) (k 0)) (d (n "cw2") (r "^0.15") (d #t) (k 0)) (d (n "cw20") (r "^0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1bzn1xz7pgg7wpkcbgpnzy9x824kkpm62rk1v49pviz301fkwh4j") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+
+(define-public crate-astroport-maker-1.4.0 (c (n "astroport-maker") (v "1.4.0") (d (list (d (n "astro-satellite-package") (r "^1") (d #t) (k 0)) (d (n "astroport") (r "^3.10") (d #t) (k 0)) (d (n "cosmwasm-schema") (r "^1.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.1") (d #t) (k 0)) (d (n "cw-multi-test") (r "^1.0.0") (d #t) (k 2)) (d (n "cw-storage-plus") (r "^0.15") (d #t) (k 0)) (d (n "cw2") (r "^0.15") (d #t) (k 0)) (d (n "cw20") (r "^0.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "11aldyd560wsw32h9mg1ckbv3x6s9bmkv24h93dphspxix179knx") (f (quote (("backtraces" "cosmwasm-std/backtraces"))))))
+

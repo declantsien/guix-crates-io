@@ -1,0 +1,4 @@
+(define-module (crates-io pe xa pexacoin) #:use-module (crates-io))
+
+(define-public crate-pexacoin-0.1.0 (c (n "pexacoin") (v "0.1.0") (d (list (d (n "bech32") (r "^0.7.1") (d #t) (k 0)) (d (n "bitcoin_hashes") (r "^0.7") (d #t) (k 0)) (d (n "bitcoinconsensus") (r "^0.17") (o #t) (d #t) (k 0)) (d (n "byteorder") (r "^1.2") (d #t) (k 0)) (d (n "hex") (r "= 0.3.2") (d #t) (k 0)) (d (n "secp256k1") (r "^0.15") (d #t) (k 0)) (d (n "secp256k1") (r "^0.15") (f (quote ("rand"))) (d #t) (k 2)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "< 1.0.99") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "06h9qxd34my2vjqggpf3pp6jy4wa0ymyck2h62z69v1nhd8r8vyp") (f (quote (("use-serde" "serde" "bitcoin_hashes/serde") ("unstable") ("fuzztarget" "secp256k1/fuzztarget" "bitcoin_hashes/fuzztarget"))))))
+

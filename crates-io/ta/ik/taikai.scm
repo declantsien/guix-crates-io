@@ -1,0 +1,4 @@
+(define-module (crates-io ta ik taikai) #:use-module (crates-io))
+
+(define-public crate-taikai-0.1.0 (c (n "taikai") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.2.7") (d #t) (k 2)) (d (n "encoding_rs") (r "^0.8.13") (d #t) (k 0)) (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "itertools") (r "^0.7.11") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 2)) (d (n "nom") (r "^4.1.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^0.4.24") (d #t) (k 0)) (d (n "quote") (r "^0.6.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.80") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8.7") (d #t) (k 0)) (d (n "syn") (r "^0.15.21") (d #t) (k 0)) (d (n "tuple_utils") (r "^0.3.0") (d #t) (k 2)))) (h "0q3q28ind9dc1lwfrafgah9c5gbnnyh8mdcj886n7hpqv2fxikkz")))
+

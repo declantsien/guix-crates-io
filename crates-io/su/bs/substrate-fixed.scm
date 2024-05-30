@@ -1,0 +1,4 @@
+(define-module (crates-io su bs substrate-fixed) #:use-module (crates-io))
+
+(define-public crate-substrate-fixed-0.5.9 (c (n "substrate-fixed") (v "0.5.9") (d (list (d (n "approx") (r "^0.3.0") (d #t) (k 2)) (d (n "az") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "codec") (r "^3.6.1") (f (quote ("derive" "max-encoded-len"))) (k 0) (p "parity-scale-codec")) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "half") (r "^1.4") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 2)) (d (n "rand") (r "^0.7") (k 2)) (d (n "rand_xoshiro") (r "^0.4") (d #t) (k 2)) (d (n "scale-info") (r "^2.5.0") (f (quote ("derive"))) (k 0)) (d (n "serde") (r "^1.0.60") (o #t) (k 0)) (d (n "typenum") (r "^1.16.0") (f (quote ("derive_scale"))) (d #t) (k 0) (p "substrate-typenum")))) (h "08h6gwf15mpalp3hj4bgczramg554c5aqnzmn332xwb89wmvm0rf") (f (quote (("std" "codec/std" "serde/std" "scale-info/std") ("fail-on-warnings") ("f16" "half"))))))
+

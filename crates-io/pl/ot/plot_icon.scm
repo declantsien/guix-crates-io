@@ -1,0 +1,10 @@
+(define-module (crates-io pl ot plot_icon) #:use-module (crates-io))
+
+(define-public crate-plot_icon-0.1.2 (c (n "plot_icon") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "palette") (r "^0.6.0") (d #t) (k 0)) (d (n "png") (r "^0.16.8") (d #t) (k 0)) (d (n "svg") (r "^0.10.0") (d #t) (k 0)))) (h "1nbazi7iaks67cg5y7vk980cww9clzifwxccn0f5i08bdi3ka7br")))
+
+(define-public crate-plot_icon-0.1.3 (c (n "plot_icon") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.42") (d #t) (k 0)) (d (n "base58") (r "^0.1.0") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "palette") (r "^0.6.0") (d #t) (k 0)) (d (n "png") (r "^0.16.8") (d #t) (k 0)) (d (n "svg") (r "^0.10.0") (d #t) (k 0)))) (h "0vrkgq3cyli3xlsh8vvmjlvariqd0pywh9gjw76ddd564i9rklgd")))
+
+(define-public crate-plot_icon-0.2.0 (c (n "plot_icon") (v "0.2.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.0") (f (quote ("ico"))) (o #t) (k 0)) (d (n "palette") (r "^0.6.0") (f (quote ("std"))) (k 0)) (d (n "png") (r "^0.17.3") (o #t) (d #t) (k 0)) (d (n "svg") (r "^0.10.0") (o #t) (d #t) (k 0)))) (h "0644d9da6c3r5p1diwglxfnn8vkr5mki3w3z3dkiz8f812617ljd") (f (quote (("vec" "hex" "svg") ("pix" "image" "png") ("default" "pix" "vec"))))))
+
+(define-public crate-plot_icon-0.3.0 (c (n "plot_icon") (v "0.3.0") (d (list (d (n "blake2-rfc") (r "^0.2.18") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (o #t) (d #t) (k 0)) (d (n "image") (r "^0.24.0") (f (quote ("ico"))) (o #t) (k 0)) (d (n "palette") (r "^0.6.0") (f (quote ("std"))) (k 0)) (d (n "png") (r "^0.17.3") (o #t) (d #t) (k 0)) (d (n "svg") (r "^0.13.0") (o #t) (d #t) (k 0)))) (h "1ymm6x0kbbcgg2w58z6058d058za9wdg9w32jdahfl4smkka14kb") (f (quote (("vec" "hex" "svg") ("pix" "image" "png") ("default" "pix" "vec"))))))
+

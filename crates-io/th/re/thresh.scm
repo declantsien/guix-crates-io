@@ -1,0 +1,4 @@
+(define-module (crates-io th re thresh) #:use-module (crates-io))
+
+(define-public crate-thresh-0.0.1 (c (n "thresh") (v "0.0.1") (d (list (d (n "actix-cors") (r "^0.2.0") (d #t) (k 0)) (d (n "actix-files") (r "^0.2.2") (d #t) (k 0)) (d (n "actix-rt") (r "^1.1.1") (d #t) (k 0)) (d (n "actix-web") (r "^2.0.0") (d #t) (k 0)) (d (n "actix-web-httpauth") (r "^0.4.1") (d #t) (k 0)) (d (n "async-std") (r "^1.6.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 0)) (d (n "jsonwebtoken") (r "^7.1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "11sfgsa2hwc5ycgjhakv7fbsx90bpb6zjh4qnm8lw1xlwivrgdia")))
+

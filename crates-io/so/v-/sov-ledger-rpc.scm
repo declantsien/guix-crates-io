@@ -1,0 +1,4 @@
+(define-module (crates-io so v- sov-ledger-rpc) #:use-module (crates-io))
+
+(define-public crate-sov-ledger-rpc-0.3.0 (c (n "sov-ledger-rpc") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "futures") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.20.1") (f (quote ("jsonrpsee-types"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "sov-modules-api") (r "^0.3") (f (quote ("native"))) (o #t) (d #t) (k 0)) (d (n "sov-rollup-interface") (r "^0.3") (f (quote ("native"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full" "full"))) (d #t) (k 2)))) (h "0jr2fbw0i1ip7p7aqqpk181z9d9hpl3lgvg96gcnqr235qb7s1lv") (f (quote (("server" "anyhow" "futures" "jsonrpsee/server" "sov-modules-api") ("default" "client" "server") ("client" "jsonrpsee/client" "jsonrpsee/macros"))))))
+

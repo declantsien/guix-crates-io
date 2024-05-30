@@ -1,0 +1,6 @@
+(define-module (crates-io #{3}# m mpn) #:use-module (crates-io))
+
+(define-public crate-mpn-0.2.0 (c (n "mpn") (v "0.2.0") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.4") (d #t) (k 0)) (d (n "filetime") (r "^0.1") (d #t) (k 0)) (d (n "mp4parse") (r "^0.17.0") (d #t) (k 0)) (d (n "no_color") (r "^0.1") (d #t) (k 0)) (d (n "predicates") (r "^3") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 2)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.4") (d #t) (k 2)))) (h "0sc5npan3zmqb6cphw0dysmyap0s4lqyhv1548p3s9v1sypxrc4z")))
+
+(define-public crate-mpn-0.2.1 (c (n "mpn") (v "0.2.1") (d (list (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.4") (d #t) (k 0)) (d (n "filetime") (r "^0.1") (d #t) (k 0)) (d (n "mp4parse") (r "^0.17.0") (d #t) (k 0)) (d (n "no_color") (r "^0.1") (d #t) (k 0)) (d (n "predicates") (r "^3") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 2)) (d (n "tempfile") (r "^3.8") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)) (d (n "url") (r "^2.4") (d #t) (k 2)))) (h "04vy17zgzvdd52256lmx1d5iqpg9b71jvqw81jdk48gzcgxg5l1g")))
+

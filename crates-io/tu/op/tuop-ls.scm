@@ -1,0 +1,34 @@
+(define-module (crates-io tu op tuop-ls) #:use-module (crates-io))
+
+(define-public crate-tuop-ls-0.1.0 (c (n "tuop-ls") (v "0.1.0") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1wj35rn1yi4lwlx6agr3gp9nsy0w2b507kng0wzmm0h2w2j52aa2")))
+
+(define-public crate-tuop-ls-0.1.1 (c (n "tuop-ls") (v "0.1.1") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1icyqahr3p6qz495dizjsl3jzdfxf7sqqw4vvwlzdhjjcm4wjikc")))
+
+(define-public crate-tuop-ls-0.1.2 (c (n "tuop-ls") (v "0.1.2") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0720vjrzpwr4aykf69wnmkmsbz6ky2jj3avqqi2aw2ldhhjkr2xb")))
+
+(define-public crate-tuop-ls-0.1.3 (c (n "tuop-ls") (v "0.1.3") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "18ik9n5myvnnzdiv1kn530fp96f2sgbbp6qhhfimsg4bhggri4a9")))
+
+(define-public crate-tuop-ls-0.1.4 (c (n "tuop-ls") (v "0.1.4") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1x3sw5cjb5b3xv1qrn5bz3kngwc3v11zzcwgpcmyxlia0gspjwgy")))
+
+(define-public crate-tuop-ls-0.1.5 (c (n "tuop-ls") (v "0.1.5") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "06y40jcd1r0g6wlg3pin3hr5k0rfq4ag7ykv7l7m9pzhfisym7xd")))
+
+(define-public crate-tuop-ls-0.1.6 (c (n "tuop-ls") (v "0.1.6") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1d3xh1ibvz583gf3mi3ca994pf08k8vdbvzh0jcv21d5fp59q4ig")))
+
+(define-public crate-tuop-ls-0.1.7 (c (n "tuop-ls") (v "0.1.7") (d (list (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "1jw4il4bzladn727p4q81wxx283sdc7g62wfbnwjavkksy00lkpy")))
+
+(define-public crate-tuop-ls-0.2.0 (c (n "tuop-ls") (v "0.2.0") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "file-size") (r "^1") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "19i4iw4hmh49306acf85fhkl5i5gv929gm9d8r7gcbkxrp86cpns")))
+
+(define-public crate-tuop-ls-0.2.1 (c (n "tuop-ls") (v "0.2.1") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0j2dfgv0c1gmlz0hhjril1zpnilhjypbhr39wxkifhnnpjbfj6mi")))
+
+(define-public crate-tuop-ls-0.2.2 (c (n "tuop-ls") (v "0.2.2") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "17289va8rzb8d3mfx562r80idc9l478m8vp341jrp1ijxq78jwmd")))
+
+(define-public crate-tuop-ls-0.2.3 (c (n "tuop-ls") (v "0.2.3") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "015jihjdblpr7yz2d3qlnd55j80hmb4nfghrm3yj7g1gs521m22g")))
+
+(define-public crate-tuop-ls-0.2.4 (c (n "tuop-ls") (v "0.2.4") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "030d53rgn11qmfr7mdc7h16d750m0w68ssszlpaac3hspjbl5bpb")))
+
+(define-public crate-tuop-ls-0.2.5 (c (n "tuop-ls") (v "0.2.5") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "0y8hcg8zfpzwxbyrz4yjmy516fwhqdxn2vv35nx2rjhh6gvqwilk")))
+
+(define-public crate-tuop-ls-0.2.6 (c (n "tuop-ls") (v "0.2.6") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "1gq6fs4knv0b15d47g6bb07fgzcvp7kf3mir0bh54j7jbhrxgbx8")))
+
+(define-public crate-tuop-ls-0.2.7 (c (n "tuop-ls") (v "0.2.7") (d (list (d (n "clap") (r "^3.1.8") (d #t) (k 0)) (d (n "comrak") (r "^0.12.1") (d #t) (k 0)) (d (n "concat-with") (r "^0.2") (d #t) (k 0)) (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "html-minifier") (r "^3") (d #t) (k 0)) (d (n "lazy-static-include") (r "^3.1.1") (d #t) (k 0)) (d (n "path-absolutize") (r "^3") (f (quote ("once_cell_cache"))) (d #t) (k 0)) (d (n "terminal_size") (r "^0.1") (d #t) (k 0)))) (h "002074briwkqm4xrnwmq9m8pav0kn2rmw4j649i49y8iwzb5n0aa")))
+

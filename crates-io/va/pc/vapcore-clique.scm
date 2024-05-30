@@ -1,0 +1,6 @@
+(define-module (crates-io va pc vapcore-clique) #:use-module (crates-io))
+
+(define-public crate-vapcore-clique-0.0.0 (c (n "vapcore-clique") (v "0.0.0") (h "1bg7mg749cbdzfx6ml9dw8zjbw2v7rx8gfd561vjqwr04avq521c")))
+
+(define-public crate-vapcore-clique-0.1.0 (c (n "vapcore-clique") (v "0.1.0") (d (list (d (n "client-traits") (r "^0.1.0") (d #t) (k 0)) (d (n "common-types") (r "^0.1.0") (d #t) (k 0)) (d (n "enjen") (r "^0.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "lru-cache") (r "^0.1") (d #t) (k 0)) (d (n "mashina") (r "^0.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 0)) (d (n "state-db") (r "^0.1.0") (d #t) (k 2)) (d (n "tetsy-crypto") (r "^0.4.2") (f (quote ("publickey"))) (d #t) (k 0)) (d (n "tetsy-keccak-hash") (r "^0.4.0") (d #t) (k 0)) (d (n "tetsy-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "tetsy-rlp") (r "^0.4.5") (d #t) (k 0)) (d (n "tetsy-unexpected") (r "^0.1.0") (d #t) (k 0)) (d (n "time-utils") (r "^0.1.0") (d #t) (k 0)) (d (n "vapjson") (r "^0.1.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "1wgpwbykaqad6sq97war0q1bkzyknq4r9481hj7dzsrv6xy4vplz")))
+

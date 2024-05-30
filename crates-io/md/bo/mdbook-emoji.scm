@@ -1,0 +1,10 @@
+(define-module (crates-io md bo mdbook-emoji) #:use-module (crates-io))
+
+(define-public crate-mdbook-emoji-0.1.0 (c (n "mdbook-emoji") (v "0.1.0") (d (list (d (n "emojis") (r "^0.1.2") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (k 0)) (d (n "pulldown-cmark") (r "^0.7.2") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^4.0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)))) (h "0l9xs9d15jnpqbbylj41mf0dw7nc6gsvqww9dik7kvfn9p6xgix7")))
+
+(define-public crate-mdbook-emoji-0.1.1 (c (n "mdbook-emoji") (v "0.1.1") (d (list (d (n "emojis") (r "^0.1.2") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (k 0)) (d (n "pulldown-cmark") (r "^0.7.2") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^4.0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)))) (h "1gc3kzr6fvp7pfr03aihn4p3vncphr1p7w8bflfysj6z7526r6fr")))
+
+(define-public crate-mdbook-emoji-0.2.0 (c (n "mdbook-emoji") (v "0.2.0") (d (list (d (n "emojis") (r "^0.1.2") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (k 0)) (d (n "pulldown-cmark") (r "^0.7.2") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^4.0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)))) (h "0r5wwgj0vv7w07zf67m54l4rfxcd3dd2dgm68as7hfh31q58kmxm")))
+
+(define-public crate-mdbook-emoji-0.2.1 (c (n "mdbook-emoji") (v "0.2.1") (d (list (d (n "emojis") (r "^0.1.2") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (k 0)) (d (n "pulldown-cmark") (r "^0.7.2") (d #t) (k 0)) (d (n "pulldown-cmark-to-cmark") (r "^4.0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "semver") (r "^1.0.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.66") (d #t) (k 0)) (d (n "structopt") (r "^0.3.22") (d #t) (k 0)))) (h "0k8dw5m34daaxf3xs6f0wbqh698nprppn56zmw1h9rzgglc99k30")))
+

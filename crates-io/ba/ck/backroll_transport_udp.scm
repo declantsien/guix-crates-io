@@ -1,0 +1,12 @@
+(define-module (crates-io ba ck backroll_transport_udp) #:use-module (crates-io))
+
+(define-public crate-backroll_transport_udp-0.1.0 (c (n "backroll_transport_udp") (v "0.1.0") (d (list (d (n "async-channel") (r "^1.6") (d #t) (k 0)) (d (n "async-net") (r "^1.6.0") (d #t) (k 0)) (d (n "backroll_transport") (r "^0.1") (d #t) (k 0)) (d (n "bevy_tasks") (r "^0.5") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0pniw7fvxgs150nd7y23r8421459x17nczcsjwiz6zkcvcfcs0k7")))
+
+(define-public crate-backroll_transport_udp-0.2.0 (c (n "backroll_transport_udp") (v "0.2.0") (d (list (d (n "async-channel") (r "^1.6") (d #t) (k 0)) (d (n "async-net") (r "^1.6.0") (d #t) (k 0)) (d (n "backroll_transport") (r "^0.2") (d #t) (k 0)) (d (n "bevy_tasks") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "serial_test") (r "^0.5") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "03hbj0ycnxbajz07zy7ynxq9yksz8cj7nq0rk40f9js4fix7b9iv")))
+
+(define-public crate-backroll_transport_udp-0.4.0 (c (n "backroll_transport_udp") (v "0.4.0") (d (list (d (n "async-channel") (r "^1.6") (d #t) (k 0)) (d (n "async-net") (r "^1.6.0") (d #t) (k 0)) (d (n "backroll_transport") (r "^0.2") (d #t) (k 0)) (d (n "bevy_tasks") (r "^0.7") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0d73vrc8zhxfnc311vscpa0ljsmpgdd5w8yy38qg15hqdn1jhqss")))
+
+(define-public crate-backroll_transport_udp-0.5.0 (c (n "backroll_transport_udp") (v "0.5.0") (d (list (d (n "async-channel") (r "^1.6") (d #t) (k 0)) (d (n "async-net") (r "^1.6.0") (d #t) (k 0)) (d (n "backroll_transport") (r "^0.2") (d #t) (k 0)) (d (n "bevy_tasks") (r "^0.8") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "serial_test") (r "^0.6") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1j8ksaas0n1lqh28v7rfwl7pg6jb13zdmlcscky5j01p7zbjzmg6")))
+
+(define-public crate-backroll_transport_udp-0.6.0 (c (n "backroll_transport_udp") (v "0.6.0") (d (list (d (n "async-channel") (r "^1.6") (d #t) (k 0)) (d (n "async-net") (r "^1.6.0") (d #t) (k 0)) (d (n "backroll_transport") (r "^0.2") (d #t) (k 0)) (d (n "bevy_tasks") (r "^0.9") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "serial_test") (r "^0.9") (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0n0y0gzhlwb12cmih4xm7aqyh880ivp2ji05zpbrxr0bvmhi28zj")))
+

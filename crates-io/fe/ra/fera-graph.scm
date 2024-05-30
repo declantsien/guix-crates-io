@@ -1,0 +1,8 @@
+(define-module (crates-io fe ra fera-graph) #:use-module (crates-io))
+
+(define-public crate-fera-graph-0.1.0 (c (n "fera-graph") (v "0.1.0") (d (list (d (n "fera-fun") (r "^0.1") (d #t) (k 0)) (d (n "fera-optional") (r "^0.1") (d #t) (k 0)) (d (n "fera-unionfind") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 2)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.4.1") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "version-sync") (r "^0.4") (d #t) (k 2)))) (h "13dbvyck2bv8k4xm1yrz6kjrsysv4yv61xkj46x1b4c64s0g0zfj")))
+
+(define-public crate-fera-graph-0.1.1 (c (n "fera-graph") (v "0.1.1") (d (list (d (n "fera-fun") (r "^0.1") (d #t) (k 0)) (d (n "fera-optional") (r "^0.1") (d #t) (k 0)) (d (n "fera-unionfind") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 2)) (d (n "num-traits") (r "^0.1") (d #t) (k 0)) (d (n "quickcheck") (r "^0.5") (o #t) (k 0)) (d (n "rand") (r "^0.3") (d #t) (k 0)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "09nzkm1jcqzz0x8rb9290x5g7r61l78jnv60mjmbhqv3jww5hi6b")))
+
+(define-public crate-fera-graph-0.2.0 (c (n "fera-graph") (v "0.2.0") (d (list (d (n "fera-fun") (r "^0.1") (d #t) (k 0)) (d (n "fera-optional") (r "^0.2") (d #t) (k 0)) (d (n "fera-unionfind") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 2)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "quickcheck") (r "^0.7") (o #t) (k 0)) (d (n "rand") (r "^0.5") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2") (d #t) (k 1)) (d (n "version-sync") (r "^0.5") (d #t) (k 2)))) (h "05sw4dwlggxh7qcwcimm4v5vi1dcsbp5x4h77n44ybhav9pi74wg") (f (quote (("nightly"))))))
+

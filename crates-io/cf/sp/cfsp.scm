@@ -1,0 +1,6 @@
+(define-module (crates-io cf sp cfsp) #:use-module (crates-io))
+
+(define-public crate-cfsp-1.0.0 (c (n "cfsp") (v "1.0.0") (d (list (d (n "bitflags") (r "^2.3.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "cesu8") (r "^1.1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "paste") (r "^1.0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)))) (h "05kh05bdb271dmmj447mb8vasxibbkibqxljdjcq3b8jlzz4ca5q")))
+
+(define-public crate-cfsp-1.0.1 (c (n "cfsp") (v "1.0.1") (d (list (d (n "bitflags") (r "^2.3.3") (f (quote ("serde"))) (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "cesu8") (r "^1.1.0") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "paste") (r "^1.0.13") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.43") (d #t) (k 0)))) (h "1pqaj8pqkpan057apw2l8lklg14wmsb5wq4fs8fv0gnymll31wgp")))
+

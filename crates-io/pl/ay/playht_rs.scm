@@ -1,0 +1,10 @@
+(define-module (crates-io pl ay playht_rs) #:use-module (crates-io))
+
+(define-public crate-playht_rs-0.0.1 (c (n "playht_rs") (v "0.0.1") (d (list (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "=1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0l651pvm6cxp5ms1r42xvnk93hcfpcr0vy08vzprx0sv0m5100zd")))
+
+(define-public crate-playht_rs-0.0.2 (c (n "playht_rs") (v "0.0.2") (d (list (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "=1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "023yc4lwjm5aij067l2d65mj4ljzavmidjagp61zkpxk52bv09py")))
+
+(define-public crate-playht_rs-0.1.0 (c (n "playht_rs") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart" "stream"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "=1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "0cc1ni38ck7rn4p20dm0m71g7g599c06gxxk0ik2x541zzbjxcgi")))
+
+(define-public crate-playht_rs-0.2.0 (c (n "playht_rs") (v "0.2.0") (d (list (d (n "bytes") (r "^1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart" "stream"))) (d #t) (k 0)) (d (n "rodio") (r "^0.17.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "=1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (d #t) (k 0)))) (h "06lh6qfr6l8nq6yw26yily46ch6ci4wd6w0ydzywh8ck5wdvliqh")))
+

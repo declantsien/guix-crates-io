@@ -1,0 +1,6 @@
+(define-module (crates-io tr an transhader) #:use-module (crates-io))
+
+(define-public crate-transhader-0.1.0 (c (n "transhader") (v "0.1.0") (d (list (d (n "naga") (r "^0.19.2") (d #t) (k 0)) (d (n "ron") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0r1l9jj40h9bbmmnryyla2dprlaz2gvhvkdb3a9ls4j289pcylz6") (f (quote (("to-wgsl" "naga/wgsl-out") ("to-spv" "naga/spv-out") ("to-msl" "naga/msl-out") ("to-hlsl" "naga/hlsl-out") ("to-glsl" "naga/glsl-out") ("from-wgsl" "naga/wgsl-in") ("from-spv" "naga/spv-in") ("from-glsl" "naga/glsl-in") ("default"))))))
+
+(define-public crate-transhader-0.1.1 (c (n "transhader") (v "0.1.1") (d (list (d (n "naga") (r "^0.19.2") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "0gkfkg7dxgq8adb3i0pqkvfv2zyw4511m3gkifdg41ph0d061dlx") (f (quote (("to-wgsl" "naga/wgsl-out") ("to-spv" "naga/spv-out") ("to-msl" "naga/msl-out") ("to-hlsl" "naga/hlsl-out") ("to-glsl" "naga/glsl-out") ("from-wgsl" "naga/wgsl-in") ("from-spv" "naga/spv-in") ("from-glsl" "naga/glsl-in") ("default" "from-glsl" "from-spv" "from-wgsl" "to-glsl" "to-hlsl" "to-msl" "to-spv" "to-wgsl"))))))
+

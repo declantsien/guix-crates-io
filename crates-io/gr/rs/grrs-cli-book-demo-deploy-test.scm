@@ -1,0 +1,6 @@
+(define-module (crates-io gr rs grrs-cli-book-demo-deploy-test) #:use-module (crates-io))
+
+(define-public crate-grrs-cli-book-demo-deploy-test-0.1.0 (c (n "grrs-cli-book-demo-deploy-test") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)))) (h "18ikl1inmrhfs5b8mawblcg7b8yvswdw5p7m8g9d8sjlf3gjch6x")))
+
+(define-public crate-grrs-cli-book-demo-deploy-test-0.1.1 (c (n "grrs-cli-book-demo-deploy-test") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.58") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "assert_fs") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^3.2.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.16.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "predicates") (r "^2.1") (d #t) (k 2)))) (h "1nzgqgii00gdr9km5k4cp8s98km1lsi8njy2sd1q0r02qxdkqk3m")))
+

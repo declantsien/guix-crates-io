@@ -1,0 +1,6 @@
+(define-module (crates-io ma rp marpc) #:use-module (crates-io))
+
+(define-public crate-marpc-0.1.0 (c (n "marpc") (v "0.1.0") (d (list (d (n "inventory") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "marpc-macros") (r "=0.1.0") (d #t) (k 0)) (d (n "pollster") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("rt" "macros" "net" "io-util"))) (d #t) (k 2)))) (h "07c3lzqgak8sdf17330l8pi11j7p0b8sj97y0nrvmsr9xz5sqd3b") (f (quote (("server" "inventory" "marpc-macros/server") ("client" "marpc-macros/client"))))))
+
+(define-public crate-marpc-0.2.0 (c (n "marpc") (v "0.2.0") (d (list (d (n "inventory") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "marpc-macros") (r "=0.2.0") (d #t) (k 0)) (d (n "pollster") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29") (f (quote ("rt" "macros" "net" "io-util"))) (d #t) (k 2)))) (h "1735z7212ji2pnahcmsiv9j4fl3pgjpsr7v2b63ilz8679rg185q") (f (quote (("server" "inventory" "marpc-macros/server") ("client" "marpc-macros/client"))))))
+

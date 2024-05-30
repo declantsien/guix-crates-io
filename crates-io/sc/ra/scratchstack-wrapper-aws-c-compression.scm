@@ -1,0 +1,8 @@
+(define-module (crates-io sc ra scratchstack-wrapper-aws-c-compression) #:use-module (crates-io))
+
+(define-public crate-scratchstack-wrapper-aws-c-compression-0.1.0-alpha.5 (c (n "scratchstack-wrapper-aws-c-compression") (v "0.1.0-alpha.5") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "scratchstack-wrapper-aws-c-common") (r "=0.1.0-alpha.5") (d #t) (k 0)) (d (n "test-log") (r "^0.2") (d #t) (k 2)))) (h "0h1wggzk9nvzv6rm06r8psid5vdv0sx53n7g7dyir0w72fak55jq")))
+
+(define-public crate-scratchstack-wrapper-aws-c-compression-0.1.0-alpha.6 (c (n "scratchstack-wrapper-aws-c-compression") (v "0.1.0-alpha.6") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.3") (d #t) (k 2)) (d (n "scratchstack-wrapper-aws-c-common") (r "=0.1.0-alpha.5") (d #t) (k 0)) (d (n "test-log") (r "^0.2") (d #t) (k 2)))) (h "0hfqw03546nyd05nrv55r4sm2gp2rqs3x0yfgbbm8frmf4ab7hvp") (l "aws-c-compression")))
+
+(define-public crate-scratchstack-wrapper-aws-c-compression-0.1.0-alpha.7 (c (n "scratchstack-wrapper-aws-c-compression") (v "0.1.0-alpha.7") (d (list (d (n "bindgen") (r "^0.61") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "scratchstack-wrapper-aws-c-common") (r "=0.1.0-alpha.7") (d #t) (k 0)))) (h "0im866zg119nkilcslwxmaascgbmn6zs2gcdcyi8ryp273ci8dn7") (l "aws-c-compression")))
+

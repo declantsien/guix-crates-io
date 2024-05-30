@@ -1,0 +1,8 @@
+(define-module (crates-io ge ma gemachain-config-program) #:use-module (crates-io))
+
+(define-public crate-gemachain-config-program-1.8.1 (c (n "gemachain-config-program") (v "1.8.1") (d (list (d (n "bincode") (r "^1.3.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (f (quote ("serde"))) (d #t) (k 0)) (d (n "gemachain-logger") (r "=1.8.1") (d #t) (k 2)) (d (n "gemachain-sdk") (r "=1.8.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.122") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)))) (h "1ggbprd724nmjg3ybh45jvji5r27cd6lk5j7a5ka7hsxmcc2ys8v")))
+
+(define-public crate-gemachain-config-program-1.8.0 (c (n "gemachain-config-program") (v "1.8.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (f (quote ("serde"))) (d #t) (k 0)) (d (n "gemachain-logger") (r "=1.8.0") (d #t) (k 2)) (d (n "gemachain-sdk") (r "=1.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)))) (h "0m7wbp7lk0q66igzkkkp1zb7ydimkrq5cy7y1v3z0lbf2r297x2f")))
+
+(define-public crate-gemachain-config-program-1.8.2 (c (n "gemachain-config-program") (v "1.8.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.11") (f (quote ("serde"))) (d #t) (k 0)) (d (n "gemachain-logger") (r "=1.8.2") (d #t) (k 2)) (d (n "gemachain-sdk") (r "=1.8.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)))) (h "1x8nrc25hl2hqw041bm9vhqpnkhpz1mnmpc7556xd9giy9p8lsmb")))
+

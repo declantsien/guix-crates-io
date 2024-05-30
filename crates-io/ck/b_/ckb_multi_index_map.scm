@@ -1,0 +1,8 @@
+(define-module (crates-io ck b_ ckb_multi_index_map) #:use-module (crates-io))
+
+(define-public crate-ckb_multi_index_map-0.0.1 (c (n "ckb_multi_index_map") (v "0.0.1") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "criterion") (r "^0.5.0") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0ak69y0ss4zyxxlabgqh70cy6p604hywyj696i3gr16b7l6a1nra") (r "1.62")))
+
+(define-public crate-ckb_multi_index_map-0.0.2 (c (n "ckb_multi_index_map") (v "0.0.2") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "criterion") (r "^0.5.0") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "12zkrn6wg11qvbx8cxcm8hjzn0a8mgf0nfxa1zisiyfrvwihihjk") (r "1.62")))
+
+(define-public crate-ckb_multi_index_map-0.0.3 (c (n "ckb_multi_index_map") (v "0.0.3") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "criterion") (r "^0.5.0") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "014dlc4z806zwc6zairrwys98ry5f6y1zbzxf9vl27zc955bp828") (r "1.62")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io pl us pluser) #:use-module (crates-io))
+
+(define-public crate-pluser-3.0.0 (c (n "pluser") (v "3.0.0") (d (list (d (n "accumulate") (r "^3.0.0") (f (quote ("ink-as-dependency"))) (k 0)) (d (n "ink_env") (r "^3.0.0") (k 0)) (d (n "ink_lang") (r "^3.0.0") (k 0)) (d (n "ink_metadata") (r "^3.0.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "ink_primitives") (r "^3.0.0") (k 0)) (d (n "ink_storage") (r "^3.0.0") (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2") (f (quote ("derive"))) (o #t) (k 0)))) (h "0dcxgs0hr6abgzmq3kbsv4fn2m2lb9i441vdgq0v9prwj3bcglqb") (f (quote (("std" "ink_primitives/std" "ink_metadata/std" "ink_env/std" "ink_storage/std" "ink_lang/std" "scale/std" "scale-info/std" "accumulate/std") ("ink-as-dependency") ("default" "std"))))))
+

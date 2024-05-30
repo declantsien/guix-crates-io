@@ -1,0 +1,14 @@
+(define-module (crates-io mq tt mqtt-analyzer) #:use-module (crates-io))
+
+(define-public crate-mqtt-analyzer-1.0.0 (c (n "mqtt-analyzer") (v "1.0.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "hex") (r "^0.3.1") (d #t) (k 0)) (d (n "rumqtt") (r "^0.31.0") (d #t) (k 0)))) (h "00g6jfay8yxwngjad385swmqqd9iajvn03hy9i8p9s4wcmrcmqxi") (y #t)))
+
+(define-public crate-mqtt-analyzer-0.1.0 (c (n "mqtt-analyzer") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "hex") (r "^0.3.1") (d #t) (k 0)) (d (n "rumqtt") (r "^0.31.0") (d #t) (k 0)))) (h "106xxprfgcxvswz6p9gdam89gczxq1axr09fhp39dwr3qwp22hrj")))
+
+(define-public crate-mqtt-analyzer-0.2.0 (c (n "mqtt-analyzer") (v "0.2.0") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "hex") (r "^0.3.1") (d #t) (k 0)) (d (n "rumqtt") (r "^0.31.0") (d #t) (k 0)))) (h "11g5wxdgpmxxri3dnl3m6qvdkvlm5s2k1vvfqfhp38cim57ki7hf")))
+
+(define-public crate-mqtt-analyzer-0.2.1 (c (n "mqtt-analyzer") (v "0.2.1") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "hex") (r "^0.3.1") (d #t) (k 0)) (d (n "rumqtt") (r "^0.31.0") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0fynxmhib45jrlg226cnwv2lfrcgaf12wdm5zf6f3qjr02j732g6")))
+
+(define-public crate-mqtt-analyzer-0.3.0 (c (n "mqtt-analyzer") (v "0.3.0") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "circular-queue") (r "^0.2.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3.1") (d #t) (k 0)) (d (n "mqtt311") (r "^0.2") (d #t) (k 0)) (d (n "rumqtt") (r "^0.31.0") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "tui") (r "^0.5") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0grr1m39hjlzjaib6pp0d6lw74kcnllrnbvq18h16qkixa8jz51f")))
+
+(define-public crate-mqtt-analyzer-0.3.1 (c (n "mqtt-analyzer") (v "0.3.1") (d (list (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "circular-queue") (r "^0.2.2") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "colored") (r "^1.8") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.3.1") (d #t) (k 0)) (d (n "mqtt311") (r "^0.2") (d #t) (k 0)) (d (n "rumqtt") (r "^0.31.0") (d #t) (k 0)) (d (n "termion") (r "^1.5") (d #t) (k 0)) (d (n "tui") (r "^0.5") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^0.7") (f (quote ("v4"))) (d #t) (k 0)))) (h "0h1nvm1kqrg5nn66l6n30vm26mqvdnhpcnv4j4p8vz9xbih6jm1d")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io pr ob probabilistic_data_structures) #:use-module (crates-io))
+
+(define-public crate-probabilistic_data_structures-0.0.1 (c (n "probabilistic_data_structures") (v "0.0.1") (d (list (d (n "better-panic") (r "^0.1.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "dialoguer") (r "^0.4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "term_size") (r "^0.3.1") (d #t) (k 0)))) (h "04z5jwvjk7wyb5din9qjr6xaff40vpl2qd0cgd46n030yx3gfz17") (y #t)))
+
+(define-public crate-probabilistic_data_structures-0.1.0 (c (n "probabilistic_data_structures") (v "0.1.0") (d (list (d (n "better-panic") (r "^0.1.2") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2.33") (d #t) (k 0)) (d (n "dialoguer") (r "^0.4.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.6.1") (d #t) (k 2)) (d (n "structopt") (r "^0.2") (d #t) (k 0)) (d (n "term_size") (r "^0.3.1") (d #t) (k 0)))) (h "11y1gjpqkad3gjpi8f22w50jv95lawg76sac0wi0zvr72ccqmlql")))
+

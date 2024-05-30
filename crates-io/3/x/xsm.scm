@@ -1,0 +1,8 @@
+(define-module (crates-io #{3}# x xsm) #:use-module (crates-io))
+
+(define-public crate-xsm-0.1.0 (c (n "xsm") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "fred") (r "^6.3.0") (d #t) (k 0)) (d (n "gethostname") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 0)) (d (n "xxai-msgpacker") (r "^0.4.4") (d #t) (k 0)))) (h "0wkhsssjc3k55j3k8npj12a6la737cd8yma5a387x5bqz6l7fl8v")))
+
+(define-public crate-xsm-0.1.1 (c (n "xsm") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "fred") (r "^6.3.0") (d #t) (k 0)) (d (n "gethostname") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 0)) (d (n "xxai-msgpacker") (r "^0.4.4") (d #t) (k 0)))) (h "0j27caw45pcvny6lm6vln0j5j71w8a8p09xqq039zwl60lc5s8di")))
+
+(define-public crate-xsm-0.1.2 (c (n "xsm") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "frand") (r "^0.7.3") (d #t) (k 0)) (d (n "fred") (r "^6.3.0") (d #t) (k 0)) (d (n "gethostname") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("macros" "rt" "rt-multi-thread" "time"))) (d #t) (k 0)) (d (n "xxai-msgpacker") (r "^0.4.4") (d #t) (k 0)))) (h "05xw88sx67462lr9r5fly4mv3k7sfk3zh7a2fn6wmixilmyrpmrj")))
+

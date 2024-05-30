@@ -1,0 +1,12 @@
+(define-module (crates-io ba dm badm) #:use-module (crates-io))
+
+(define-public crate-badm-0.2.0 (c (n "badm") (v "0.2.0") (d (list (d (n "dirs") (r "^2.0.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "1cassp4h3nf42yc1l51q32zhs5s9i4xydnrlm8id6zwjsyvwp5ph")))
+
+(define-public crate-badm-0.4.2 (c (n "badm") (v "0.4.2") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 2)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.4") (d #t) (k 0)))) (h "18dbci3fx1g5z6ci24mcz2p0aca7vdld3zy6g174j9aam54x6sj8")))
+
+(define-public crate-badm-0.4.0 (c (n "badm") (v "0.4.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 2)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.4") (d #t) (k 0)))) (h "1kn5940354phlf7amv4zfxyshx61a3m3qxa6333nwgn8fnxssg6q")))
+
+(define-public crate-badm-0.4.1 (c (n "badm") (v "0.4.1") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 2)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.2.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.4") (d #t) (k 0)))) (h "096a708q53vgfxhvkdw4y3rdr63h0vwgkcfznxqpifjlmwdcg3d9")))
+
+(define-public crate-badm-0.5.0 (c (n "badm") (v "0.5.0") (d (list (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 0)) (d (n "dirs") (r "^2.0.2") (d #t) (k 2)) (d (n "failure") (r "^0.1.6") (d #t) (k 0)) (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.102") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.102") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)) (d (n "toml") (r "^0.5.4") (d #t) (k 0)))) (h "09xhmq5sjkw3zgywpkppgrvz0blh8p532zj7vjb6xmm3s218zy1c")))
+

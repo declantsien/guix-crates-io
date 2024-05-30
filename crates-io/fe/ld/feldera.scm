@@ -1,0 +1,4 @@
+(define-module (crates-io fe ld feldera) #:use-module (crates-io))
+
+(define-public crate-feldera-0.0.1 (c (n "feldera") (v "0.0.1") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0") (d #t) (k 0)) (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "indicatif-log-bridge") (r "^0.2.2") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "stream" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "similar") (r "^2.3.0") (d #t) (k 0)))) (h "1b0ckmsvxgdhx3wx678q3522yc3khfjrqrm0n19pvkqww9yapf37")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mt ot mtotp) #:use-module (crates-io))
+
+(define-public crate-mtotp-0.1.0 (c (n "mtotp") (v "0.1.0") (d (list (d (n "base32") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11") (d #t) (k 0)) (d (n "dirs") (r "^5.0") (d #t) (k 0)) (d (n "hmac") (r "^0.12") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "sea-orm") (r "^0.12") (f (quote ("sqlx-sqlite" "runtime-tokio-rustls" "macros"))) (d #t) (k 0)) (d (n "sha1") (r "^0.10") (d #t) (k 0)) (d (n "tokio") (r "^1.33") (f (quote ("io-std" "rt-multi-thread" "rt" "fs" "sync" "tokio-macros" "time" "macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4") (d #t) (k 0)) (d (n "uuid") (r "^1.4") (f (quote ("v4"))) (d #t) (k 0)))) (h "1m3gfr2zp7nm3hy1v3lsnhzgdx0zp7ly35353ay9wach3lyy24lp")))
+

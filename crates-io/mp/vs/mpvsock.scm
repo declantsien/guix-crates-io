@@ -1,0 +1,6 @@
+(define-module (crates-io mp vs mpvsock) #:use-module (crates-io))
+
+(define-public crate-mpvsock-0.1.0 (c (n "mpvsock") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "clap") (r "^2") (o #t) (d #t) (k 0)) (d (n "edwardium_logger") (r "^1.2.0") (f (quote ("colored_stderr_output"))) (o #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "03c5dby8if4pny1ivlx1d9phi9f3ijizsq7fsz3i7lxxc48w77mr") (f (quote (("default" "cli_app") ("cli_app" "clap" "anyhow" "edwardium_logger"))))))
+
+(define-public crate-mpvsock-0.2.0 (c (n "mpvsock") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "clap") (r "^2") (o #t) (d #t) (k 0)) (d (n "edwardium_logger") (r "^1.2.0") (f (quote ("colored_stderr_output"))) (o #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0s7vvn8fb4iw79lczksxxfkm8qxr5xvnsbbjmlxynwilx4y5gkq5") (f (quote (("default" "cli_app") ("cli_app" "clap" "anyhow" "edwardium_logger"))))))
+

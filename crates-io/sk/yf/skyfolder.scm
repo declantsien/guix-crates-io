@@ -1,0 +1,4 @@
+(define-module (crates-io sk yf skyfolder) #:use-module (crates-io))
+
+(define-public crate-skyfolder-0.1.0 (c (n "skyfolder") (v "0.1.0") (d (list (d (n "askama") (r "^0.12.0") (d #t) (k 0)) (d (n "askama_axum") (r "^0.3.0") (d #t) (k 0)) (d (n "axum") (r "^0.6.18") (f (quote ("macros"))) (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4.3.0") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "get_if_addrs") (r "^0.5.3") (d #t) (k 0)) (d (n "hyper") (r "^0.14.26") (d #t) (k 0)) (d (n "tikv-jemallocator") (r "^0.5") (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("macros" "rt-multi-thread" "signal" "sync" "full"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (d #t) (k 0)))) (h "10vbhl1k9a07awg0k3laflrqixvdxgy6q09mhrdy76g6azfzyyiv")))
+

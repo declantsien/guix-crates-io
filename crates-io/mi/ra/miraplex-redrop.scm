@@ -1,0 +1,4 @@
+(define-module (crates-io mi ra miraplex-redrop) #:use-module (crates-io))
+
+(define-public crate-miraplex-redrop-0.1.1 (c (n "miraplex-redrop") (v "0.1.1") (d (list (d (n "anchor-lang") (r "^0.27.0") (d #t) (k 0) (p "solarti-anchor-lang")) (d (n "anchor-spl") (r "^0.27.0") (d #t) (k 0) (p "solarti-anchor-spl")) (d (n "miraland-program") (r "=1.14.17-rc5") (d #t) (k 0)) (d (n "miraplex-token-metadata") (r "^1.7.1") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solarti-associated-token-account") (r "^1.1.6") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "solarti-token") (r "^3.5.4") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "toml_datetime") (r "=0.6.1") (d #t) (k 0)))) (h "1rfpqq9546lzzb995avd4fp3c9c93q0wiwmr8mvvvh7qp4yglc8v") (f (quote (("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

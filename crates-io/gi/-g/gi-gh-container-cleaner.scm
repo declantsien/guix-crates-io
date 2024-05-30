@@ -1,0 +1,4 @@
+(define-module (crates-io gi -g gi-gh-container-cleaner) #:use-module (crates-io))
+
+(define-public crate-gi-gh-container-cleaner-0.1.0 (c (n "gi-gh-container-cleaner") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (f (quote ("max_level_debug" "release_max_level_info" "serde" "sval" "value-bag"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.13") (f (quote ("json" "native-tls" "tokio-native-tls"))) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.91") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "structopt") (r "^0.3.26") (f (quote ("color"))) (d #t) (k 0)) (d (n "tokio") (r "^1.24.1") (f (quote ("full"))) (d #t) (k 0)))) (h "10dyr6b9s6m51k64y2cp7y2rcpk9zmj23lvlqr0nn7c33d16xz2c")))
+

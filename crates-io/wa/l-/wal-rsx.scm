@@ -1,0 +1,10 @@
+(define-module (crates-io wa l- wal-rsx) #:use-module (crates-io))
+
+(define-public crate-wal-rsx-0.1.0 (c (n "wal-rsx") (v "0.1.0") (d (list (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("DragEvent" "MouseEvent"))) (d #t) (k 2)))) (h "01b90s38ycx7p5h6q02kjqpx4jnxdla0c470j1jynwzg7g9ibagl")))
+
+(define-public crate-wal-rsx-0.1.1 (c (n "wal-rsx") (v "0.1.1") (d (list (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("DragEvent" "MouseEvent"))) (d #t) (k 2)))) (h "0ms09zg7gdhd8a9wd9fhfd8hh4085bps16hjwmjd8axdn6187a0n")))
+
+(define-public crate-wal-rsx-0.1.2 (c (n "wal-rsx") (v "0.1.2") (d (list (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("DragEvent" "MouseEvent"))) (d #t) (k 2)))) (h "1ll01mk0wbly530inbkqqpz88kihb368s1x0ns0vl071vk5a11fs")))
+
+(define-public crate-wal-rsx-0.1.3 (c (n "wal-rsx") (v "0.1.3") (d (list (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)) (d (n "web-sys") (r "^0.3") (f (quote ("DragEvent" "MouseEvent"))) (d #t) (k 2)))) (h "1zdfp1v5jnzwplnajar35v2m7kgi6mvxbd8m1cxwd6gmpr8dwss9")))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io sp ig spigotfly) #:use-module (crates-io))
+
+(define-public crate-spigotfly-0.1.0 (c (n "spigotfly") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)))) (h "1hzcarcl33z5rvwkdbi5ns7xhl4w5c11w1imsxfas5jwjmf6vl5c") (y #t)))
+
+(define-public crate-spigotfly-0.1.1 (c (n "spigotfly") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)))) (h "18wirg5shjgzsyh2wm4myrnld7d7bzrwaj0ssds2fyh9mix5wdxb") (y #t)))
+
+(define-public crate-spigotfly-0.1.2 (c (n "spigotfly") (v "0.1.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)))) (h "0c33s9k4nmr9nh2kakaf9nn8xyp91375965iw09lrpb4yljmnqsz") (y #t)))
+
+(define-public crate-spigotfly-0.1.2-rc.1 (c (n "spigotfly") (v "0.1.2-rc.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)))) (h "1svykxk0zbi9hm05i09d8xgp0vy3qd7h1d3pmdf82jg5dfnm2xlz")))
+
+(define-public crate-spigotfly-0.1.3 (c (n "spigotfly") (v "0.1.3") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)))) (h "04w3mwpvrgrv4q31867iprf6wdzws9f027jkv4yflqxjn6crg72q")))
+

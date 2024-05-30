@@ -1,0 +1,4 @@
+(define-module (crates-io te nc tencent-qcloud-cos-rs) #:use-module (crates-io))
+
+(define-public crate-tencent-qcloud-cos-rs-0.1.0 (c (n "tencent-qcloud-cos-rs") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "mime") (r "^0.3.16") (d #t) (k 0)) (d (n "quick-xml") (r "^0.23") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sha1") (r "^0.10.1") (d #t) (k 0)) (d (n "tokio") (r "^1.2.0") (d #t) (k 0)) (d (n "urlencoding") (r "^2.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.2.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0aka9lay2ajz6h1icmasa21f8cxfk407ba5zq8n27xzfpzmr9fbb")))
+

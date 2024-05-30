@@ -1,0 +1,8 @@
+(define-module (crates-io li bf libflo_dynamic_event) #:use-module (crates-io))
+
+(define-public crate-libflo_dynamic_event-0.1.0 (c (n "libflo_dynamic_event") (v "0.1.0") (d (list (d (n "error-chain") (r "^0.7") (d #t) (k 0)) (d (n "libflo_module") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.8") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "serde_macros") (r "^0.8") (o #t) (d #t) (k 0)))) (h "0vqpb76s2pql21sgypn0irdydrckqmn75xrpr8z49zci2gb67h4q") (f (quote (("unstable" "serde_macros") ("default" "serde_codegen"))))))
+
+(define-public crate-libflo_dynamic_event-0.1.1 (c (n "libflo_dynamic_event") (v "0.1.1") (d (list (d (n "error-chain") (r "^0.7") (d #t) (k 0)) (d (n "libflo_module") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.8") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "serde_macros") (r "^0.8") (o #t) (d #t) (k 0)))) (h "115nawx8ikd4ypsd6iznb8m67snb8w3c1x2mc3h5f4iri5n5a9c2") (f (quote (("unstable" "serde_macros") ("default" "serde_codegen"))))))
+
+(define-public crate-libflo_dynamic_event-0.1.2 (c (n "libflo_dynamic_event") (v "0.1.2") (d (list (d (n "error-chain") (r "^0.7") (d #t) (k 0)) (d (n "libflo_module") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^0.8") (d #t) (k 0)) (d (n "serde_codegen") (r "^0.8") (o #t) (d #t) (k 1)) (d (n "serde_json") (r "^0.8") (d #t) (k 0)) (d (n "serde_macros") (r "^0.8") (o #t) (d #t) (k 0)))) (h "17p0hgs4qb7f2vjfg9zgv7bgqzhdzfjk72naxphxi9i6il1hrl0x") (f (quote (("unstable" "serde_macros") ("default" "serde_codegen"))))))
+

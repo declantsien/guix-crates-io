@@ -1,0 +1,10 @@
+(define-module (crates-io qs yn qsync) #:use-module (crates-io))
+
+(define-public crate-qsync-0.1.0 (c (n "qsync") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.14.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "qsync-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.75") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "043b84raq9sknd5706rhvq2w429saknrafl5ngznvwdj7nmxc1rs")))
+
+(define-public crate-qsync-0.1.1 (c (n "qsync") (v "0.1.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.14.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "qsync-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.7.1") (d #t) (k 0)) (d (n "syn") (r "^1.0.75") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0435ziff1w7xkq87ny3y6hvya097i0ky03rssckh2fhg3pv0cad5")))
+
+(define-public crate-qsync-1.0.0 (c (n "qsync") (v "1.0.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.14.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "qsync-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1cxz4nmqvrx1pz2vicp27gpqsa2y5mp3h12w548llzb0hm6crc29")))
+
+(define-public crate-qsync-1.0.1 (c (n "qsync") (v "1.0.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.14.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "qsync-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits" "parsing"))) (d #t) (k 0)) (d (n "walkdir") (r "^2.3.3") (d #t) (k 0)))) (h "1iqy6bm8dv6yzmflkawk6dj8339gp8fwg605njgj8lllfldvyybs")))
+

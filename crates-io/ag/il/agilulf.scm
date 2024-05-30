@@ -1,0 +1,4 @@
+(define-module (crates-io ag il agilulf) #:use-module (crates-io))
+
+(define-public crate-agilulf-0.1.0 (c (n "agilulf") (v "0.1.0") (d (list (d (n "agilulf_fs") (r "^0.1.0") (d #t) (k 0)) (d (n "agilulf_protocol") (r "^0.1.0") (d #t) (k 0)) (d (n "agilulf_skiplist") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.6.2") (d #t) (k 0)) (d (n "futures-preview") (r "= 0.3.0-alpha.17") (f (quote ("async-await" "nightly"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.60") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "quick-error") (r "^1.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "romio") (r "^0.3.0-alpha.9") (d #t) (k 0)))) (h "18ns6dzvji49lirqx2y1r2phi0dzrwxs801lxd3vf046sjbb46ii")))
+

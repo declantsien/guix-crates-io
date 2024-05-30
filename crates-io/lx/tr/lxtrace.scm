@@ -1,0 +1,4 @@
+(define-module (crates-io lx tr lxtrace) #:use-module (crates-io))
+
+(define-public crate-lxtrace-0.1.0 (c (n "lxtrace") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.14") (d #t) (k 0)) (d (n "cpp_demangle") (r "^0.2.13") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.2") (d #t) (k 0)) (d (n "libc") (r "^0.2.65") (d #t) (k 0)) (d (n "nix") (r "^0.16.0") (d #t) (k 0)) (d (n "pest") (r "^2.1.2") (d #t) (k 0)) (d (n "pest_derive") (r "^2.1.0") (d #t) (k 0)) (d (n "rstack") (r "^0.3.1") (f (quote ("unwind"))) (k 0)) (d (n "rustc-demangle") (r "^0.1.16") (d #t) (k 0)) (d (n "serde") (r "^1.0.101") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.41") (d #t) (k 0)) (d (n "structopt") (r "^0.3.3") (d #t) (k 0)) (d (n "tiny-nix-ipc") (r "^0.1.1") (f (quote ("ser_json"))) (d #t) (k 0)))) (h "116m64286sa69flr69m2qcy3zsl2irmx5nscak01pkzmaab8v61y")))
+

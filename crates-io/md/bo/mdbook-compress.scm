@@ -1,0 +1,8 @@
+(define-module (crates-io md bo mdbook-compress) #:use-module (crates-io))
+
+(define-public crate-mdbook-compress-0.1.0 (c (n "mdbook-compress") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "ego-tree") (r "^0.6.2") (d #t) (k 0)) (d (n "genpdf") (r "^0.2.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.25") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)) (d (n "scraper") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)))) (h "08ac3z24djd6yjdwz7r42j45y7jvaymajvg2y15q4hfwcbxlxsr0")))
+
+(define-public crate-mdbook-compress-0.2.0 (c (n "mdbook-compress") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "ego-tree") (r "^0.6.2") (d #t) (k 0)) (d (n "genpdf") (r "^0.2.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.25") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)) (d (n "scraper") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^5.0.0") (d #t) (k 0)))) (h "0csy57hpmjk60kglncm7fllr6mv8v0hx85i175wlb85gd64ycj6g")))
+
+(define-public crate-mdbook-compress-0.2.1 (c (n "mdbook-compress") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "ego-tree") (r "^0.6.2") (d #t) (k 0)) (d (n "genpdf") (r "^0.2.0") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.25") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9.2") (k 0)) (d (n "scraper") (r "^0.14.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syntect") (r "^5.0.0") (f (quote ("plist-load"))) (d #t) (k 0)))) (h "11wmr2vz6f1anakrbk487fihrh07wzs3y9gsh8i8qh3snfsk5ci8")))
+

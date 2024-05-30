@@ -1,0 +1,10 @@
+(define-module (crates-io te le telegraph-api-rs) #:use-module (crates-io))
+
+(define-public crate-telegraph-api-rs-0.1.0 (c (n "telegraph-api-rs") (v "0.1.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 2)))) (h "0s28j8a8xwjxksgf10m4ws785pzvg70whg2d85imxxbx2c0pw4xq")))
+
+(define-public crate-telegraph-api-rs-0.1.1 (c (n "telegraph-api-rs") (v "0.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 2)))) (h "07f89fcnzw4rdhvwa16lahpc5fa31554izvvik5cpffcfhxjji6f")))
+
+(define-public crate-telegraph-api-rs-0.1.2 (c (n "telegraph-api-rs") (v "0.1.2") (d (list (d (n "mime_guess") (r "^2.0.4") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 2)))) (h "00y94dm1igr62bwp1vl9z7bw2f19m2a8im1vrviyb75lvvbx75f8") (f (quote (("upload" "mime_guess") ("default" "upload"))))))
+
+(define-public crate-telegraph-api-rs-0.2.0 (c (n "telegraph-api-rs") (v "0.2.0") (d (list (d (n "mime_guess") (r "^2.0.4") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking" "json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_urlencoded") (r "^0.7.1") (d #t) (k 2)))) (h "0rs0p5my7f76q9ranrpbpvb0zd8lqjkj7nggqci1y826wck1hbir") (f (quote (("upload" "mime_guess") ("default" "upload"))))))
+

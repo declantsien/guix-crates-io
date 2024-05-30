@@ -1,0 +1,12 @@
+(define-module (crates-io ic bc icbc) #:use-module (crates-io))
+
+(define-public crate-icbc-0.1.0 (c (n "icbc") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "icb") (r "^0.1") (d #t) (k 0)))) (h "1ijlmccl8fhy96kfdrr08cqar5qsxkim857wzm45vhna6kxas74x")))
+
+(define-public crate-icbc-0.2.0 (c (n "icbc") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "icb") (r "^0.2") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)) (d (n "tui") (r "^0.8.0") (f (quote ("termion"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1vgzsg738p4k199q3v3y2qv7hm9jjpalmqxjgkzrvlqx90brni9i")))
+
+(define-public crate-icbc-0.2.1 (c (n "icbc") (v "0.2.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "icb") (r "^0.2") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)) (d (n "tui") (r "^0.8.0") (f (quote ("termion"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1r29q1wvr52kf2zdlgams498h05sd1aks0vlmwb1awj70l4d9m6b")))
+
+(define-public crate-icbc-0.2.2 (c (n "icbc") (v "0.2.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "icb") (r "^0.2.2") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)) (d (n "tui") (r "^0.8.0") (f (quote ("termion"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "0r3aqbpby6xpv6ndrixfdqs3ijr2ls6gg6zfvcizcl3mhh7sn2dp")))
+
+(define-public crate-icbc-0.2.3 (c (n "icbc") (v "0.2.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^2") (f (quote ("yaml"))) (d #t) (k 0)) (d (n "crossbeam-utils") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "icb") (r "^0.2.2") (d #t) (k 0)) (d (n "termion") (r "^1") (d #t) (k 0)) (d (n "tui") (r "^0.8.0") (f (quote ("termion"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1i74j1xp5pj4bdkgi5x6hpw1l33fav4fczyy9wi6zpjvsds7w09k")))
+

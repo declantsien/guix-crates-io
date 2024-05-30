@@ -1,0 +1,4 @@
+(define-module (crates-io go xo goxoy-p2p) #:use-module (crates-io))
+
+(define-public crate-goxoy-p2p-0.1.0 (c (n "goxoy-p2p") (v "0.1.0") (d (list (d (n "bs58") (r "^0.5.0") (d #t) (k 0)) (d (n "colored") (r "^1.8.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.1") (d #t) (k 0)) (d (n "goxoy-address-parser") (r "^0.0.9") (d #t) (k 0)) (d (n "goxoy-key-value") (r "^0.1.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "sha256") (r "^1.4.0") (d #t) (k 0)) (d (n "tungstenite") (r "^0.20.1") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1c38ka21l0h4y0sqn9sw8w3yn7vy76fakr8y6bxkws3dg18kfjjc")))
+

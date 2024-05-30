@@ -1,0 +1,4 @@
+(define-module (crates-io st ra strategy-vaults) #:use-module (crates-io))
+
+(define-public crate-strategy-vaults-0.0.1 (c (n "strategy-vaults") (v "0.0.1") (d (list (d (n "anchor-lang") (r "^0.22.1") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.22.1") (d #t) (k 0)) (d (n "arrayref") (r "^0.3.6") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "solana-farm-sdk") (r "^0.0.1") (d #t) (k 0)) (d (n "solana-program") (r "^1.9.2") (d #t) (k 0)) (d (n "solana-program-test") (r "^1.9.2") (d #t) (k 2)) (d (n "spl-token") (r "^3.2.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "spl-token-swap") (r "^2.1.0") (f (quote ("no-entrypoint"))) (d #t) (k 0)) (d (n "vipers") (r "^2.0.1") (d #t) (k 0)))) (h "06vj4wjsy87qz3v8kr72x01sy4yd86hyn9bfhdrphg18vq53d4n7") (f (quote (("no-idl") ("no-entrypoint") ("default" "RDM-STAKE-LP-COMPOUND") ("cpi" "no-entrypoint") ("RDM-STAKE-LP-COMPOUND"))))))
+

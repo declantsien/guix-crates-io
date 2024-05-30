@@ -1,0 +1,12 @@
+(define-module (crates-io ip fs ipfs-server) #:use-module (crates-io))
+
+(define-public crate-ipfs-server-0.1.0 (c (n "ipfs-server") (v "0.1.0") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rust-ipfs") (r "^0.3.0-alpha.5") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0kdg9w1513cyvcgnylwhgddap8f1vrwfmn166rn5wrss4slwj5n2") (r "1.60")))
+
+(define-public crate-ipfs-server-0.1.1 (c (n "ipfs-server") (v "0.1.1") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rust-ipfs") (r "^0.3.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "zeroize") (r "^1") (d #t) (k 0)))) (h "1cirgmrcc16xh0jrxsyyiy57q3a78vkdpmqacv43fkgk84q2i62g") (r "1.60")))
+
+(define-public crate-ipfs-server-0.1.2 (c (n "ipfs-server") (v "0.1.2") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rust-ipfs") (r "^0.3.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "zeroize") (r "^1") (d #t) (k 0)))) (h "0rmq556dsrqf8c73sd5f4z61r6ry7jlaglcznffrgfvmzazrdxbf") (r "1.60")))
+
+(define-public crate-ipfs-server-0.1.3 (c (n "ipfs-server") (v "0.1.3") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rust-ipfs") (r "^0.3.5") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "zeroize") (r "^1") (d #t) (k 0)))) (h "1k5b09d069vnlzflva1fgdm62zpir48h0fvzpgyv3v1r5mkvhk79") (r "1.60")))
+
+(define-public crate-ipfs-server-0.1.4 (c (n "ipfs-server") (v "0.1.4") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rust-ipfs") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "zeroize") (r "^1") (d #t) (k 0)))) (h "0pjprd3rx5z9kdsy1q3jsf4w7v8wwmszf05z4fw9m6fwdg9bibpz") (r "1.67")))
+

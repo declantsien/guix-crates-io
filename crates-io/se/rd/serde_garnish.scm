@@ -1,0 +1,8 @@
+(define-module (crates-io se rd serde_garnish) #:use-module (crates-io))
+
+(define-public crate-serde_garnish-0.1.0 (c (n "serde_garnish") (v "0.1.0") (d (list (d (n "garnish_lang_compiler") (r "^0.0.2-alpha") (d #t) (k 0)) (d (n "garnish_lang_runtime") (r "^0.0.2-alpha") (d #t) (k 0)) (d (n "garnish_lang_simple_data") (r "^0.0.2-alpha") (d #t) (k 0)) (d (n "garnish_lang_traits") (r "^0.0.2-alpha") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)))) (h "0b978j5p3gwy60fkjvc35lxyw4qmmg1r5sicz16w4lci45s8y31z")))
+
+(define-public crate-serde_garnish-0.2.0 (c (n "serde_garnish") (v "0.2.0") (d (list (d (n "garnish_lang_compiler") (r "^0.0.4-alpha") (d #t) (k 2)) (d (n "garnish_lang_runtime") (r "^0.0.4-alpha") (d #t) (k 2)) (d (n "garnish_lang_simple_data") (r "^0.0.4-alpha") (d #t) (k 2)) (d (n "garnish_lang_traits") (r "^0.0.4-alpha") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)))) (h "0k4qqc6kqdngv9812dhdhazglj5y2w47pssvkpg96lmp6jh9qy29")))
+
+(define-public crate-serde_garnish-0.3.0 (c (n "serde_garnish") (v "0.3.0") (d (list (d (n "garnish_lang_compiler") (r "^0.0.5-alpha") (d #t) (k 2)) (d (n "garnish_lang_runtime") (r "^0.0.5-alpha") (d #t) (k 2)) (d (n "garnish_lang_simple_data") (r "^0.0.5-alpha") (d #t) (k 2)) (d (n "garnish_lang_traits") (r "^0.0.5-alpha") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (d #t) (k 0)))) (h "0469vdj8zy1d3pl3linyhfzp0mgwj9ph4vls8akycwngqq48il9k")))
+

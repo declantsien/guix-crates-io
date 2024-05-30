@@ -1,0 +1,6 @@
+(define-module (crates-io po ls polsim) #:use-module (crates-io))
+
+(define-public crate-polsim-0.1.1 (c (n "polsim") (v "0.1.1") (d (list (d (n "assert_approx_eq") (r "~1.0.0") (d #t) (k 2)) (d (n "error-chain") (r "~0.12.0") (d #t) (k 0)) (d (n "num") (r "~0.2.0") (d #t) (k 0)) (d (n "polarization") (r "~0.1") (d #t) (k 0)) (d (n "prettytable-rs") (r "~0.8.0") (d #t) (k 0)) (d (n "proptest") (r "~0.8.6") (d #t) (k 2)) (d (n "quicli") (r "~0.3.0") (d #t) (k 0)) (d (n "serde") (r "~1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "~1.0.0") (d #t) (k 0)) (d (n "toml") (r "~0.4.6") (d #t) (k 0)))) (h "1pa9vbil1p5vp0qcd14qqcrbdbm4hfralaj1fzm62h61apn3753z")))
+
+(define-public crate-polsim-0.1.2 (c (n "polsim") (v "0.1.2") (d (list (d (n "assert_approx_eq") (r "~1.0.0") (d #t) (k 2)) (d (n "error-chain") (r "~0.12.0") (d #t) (k 0)) (d (n "num") (r "~0.2.0") (d #t) (k 0)) (d (n "polarization") (r "~0.2") (d #t) (k 0)) (d (n "prettytable-rs") (r "~0.8.0") (d #t) (k 0)) (d (n "proptest") (r "~0.8.6") (d #t) (k 2)) (d (n "quicli") (r "~0.3.0") (d #t) (k 0)) (d (n "serde") (r "~1.0.0") (d #t) (k 0)) (d (n "serde_derive") (r "~1.0.0") (d #t) (k 0)) (d (n "toml") (r "~0.4.6") (d #t) (k 0)))) (h "03q7h2wyn86prh69pwqngixqp3gsxkyr2ly5jmr6rb6m97w12n6z")))
+

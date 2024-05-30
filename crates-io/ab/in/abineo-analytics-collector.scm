@@ -1,0 +1,4 @@
+(define-module (crates-io ab in abineo-analytics-collector) #:use-module (crates-io))
+
+(define-public crate-abineo-analytics-collector-0.1.0 (c (n "abineo-analytics-collector") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 0)) (d (n "phf") (r "^0.11.2") (d #t) (k 1)) (d (n "phf_codegen") (r "^0.11.2") (d #t) (k 1)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (d #t) (k 2)) (d (n "scc") (r "^2.0.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.105") (d #t) (k 1)) (d (n "thiserror") (r "^1.0.48") (d #t) (k 0)) (d (n "uaparser") (r "^0.6.1") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (f (quote ("serde"))) (d #t) (k 0)))) (h "0zvq31fcngilq4lbj28455c5vx0cgacrix7h624hfnx5qkqfagkh")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ne ko nekoslife) #:use-module (crates-io))
+
+(define-public crate-nekoslife-0.2.0 (c (n "nekoslife") (v "0.2.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "0qh8601c4pl72l8lhdzpbsvww0fphwn9bihgqzcwd0byznddz0vq") (f (quote (("sfw") ("rustls-tls" "reqwest/rustls-tls") ("nsfw") ("native-tls" "reqwest/native-tls") ("default-tls" "reqwest/default-tls") ("default" "default-tls" "sfw" "nsfw") ("blocking" "reqwest/blocking"))))))
+
+(define-public crate-nekoslife-0.2.1 (c (n "nekoslife") (v "0.2.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "08h2xy6mp997q2x6qn2jjagd1sp43sphzg8mgw30hgwmdyl82f0a") (f (quote (("sfw") ("rustls-tls" "reqwest/rustls-tls") ("nsfw") ("native-tls" "reqwest/native-tls") ("default-tls" "reqwest/default-tls") ("default" "default-tls" "sfw" "nsfw") ("blocking" "reqwest/blocking"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io te st test-strategy) #:use-module (crates-io))
+
+(define-public crate-test-strategy-0.1.0 (c (n "test-strategy") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("visit" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.35") (d #t) (k 2)))) (h "11nq7bvnpfndbrhy86i9sr5insfidgr5lz3f8vvg82vsfbaqb1ip")))
+
+(define-public crate-test-strategy-0.1.1 (c (n "test-strategy") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "proptest") (r "^0.10") (d #t) (k 2)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.54") (f (quote ("visit" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.35") (d #t) (k 2)))) (h "1a0qbpw298diyibzl5vfwfr941v7iz8nd06827l1cd14d4y9ca13")))
+
+(define-public crate-test-strategy-0.1.2 (c (n "test-strategy") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "structmeta") (r "^0.1.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.65") (f (quote ("visit" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.41") (d #t) (k 2)))) (h "0slyl1jjnq7zbmn342xyrwz1kmzacaiydljfvshqq43w38r2dir2")))
+
+(define-public crate-test-strategy-0.2.0 (c (n "test-strategy") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0.33") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "structmeta") (r "^0.1.4") (d #t) (k 0)) (d (n "syn") (r "^1.0.82") (f (quote ("visit" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.53") (d #t) (k 2)))) (h "1yjgbnh24g3jsyxhc1q26qp8dz4i06jnd4fbsn1rdr28l1f352y1")))
+
+(define-public crate-test-strategy-0.2.1 (c (n "test-strategy") (v "0.2.1") (d (list (d (n "proc-macro2") (r "^1.0.33") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.10") (d #t) (k 0)) (d (n "structmeta") (r "^0.1.4") (d #t) (k 0)) (d (n "syn") (r "^1.0.82") (f (quote ("visit" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.53") (d #t) (k 2)))) (h "105lxqs0vnqff5821sgns8q1scvrwfx1yw6iz7i7nr862j6l1mk2")))
+
+(define-public crate-test-strategy-0.3.0 (c (n "test-strategy") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "proptest") (r "^1.0.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "structmeta") (r "^0.1.5") (d #t) (k 0)) (d (n "syn") (r "^1.0.107") (f (quote ("visit" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.75") (d #t) (k 2)))) (h "0jkbr50pnddfh0r2ca0ac8cga1i89mb5npqmnvq15yhdbkwqqd31")))
+
+(define-public crate-test-strategy-0.3.1 (c (n "test-strategy") (v "0.3.1") (d (list (d (n "proc-macro2") (r "^1.0.55") (d #t) (k 0)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "structmeta") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.13") (f (quote ("visit" "full" "extra-traits"))) (d #t) (k 0)) (d (n "tokio") (r "^1.28.1") (f (quote ("rt-multi-thread"))) (d #t) (k 2)) (d (n "trybuild") (r "^1.0.80") (d #t) (k 2)))) (h "1nf11267xdcflg1ir25na0s8mbrwh9f0zmzykg88l8jlhn01qdmq")))
+

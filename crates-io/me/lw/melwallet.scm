@@ -1,0 +1,8 @@
+(define-module (crates-io me lw melwallet) #:use-module (crates-io))
+
+(define-public crate-melwallet-0.1.0 (c (n "melwallet") (v "0.1.0") (d (list (d (n "bytes") (r "^1.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "melstructs") (r "^0.3.2") (d #t) (k 0)) (d (n "melvm") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1") (d #t) (k 0)) (d (n "stdcode") (r "^0.1.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tmelcrypt") (r "^0.2.7") (d #t) (k 0)))) (h "19yb09x526s68phf5qi92jynyvvf1zphjqm5iqgm92yb34axv06n")))
+
+(define-public crate-melwallet-0.1.1 (c (n "melwallet") (v "0.1.1") (d (list (d (n "bytes") (r "^1.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "melstructs") (r "^0.3.2") (d #t) (k 0)) (d (n "melvm") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1") (d #t) (k 0)) (d (n "stdcode") (r "^0.1.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tmelcrypt") (r "^0.2.7") (d #t) (k 0)))) (h "0b85p1snfqx9lvsvxhj9i7n29nnhs0m0n6lgy140p5jm96fysgnh")))
+
+(define-public crate-melwallet-0.1.2 (c (n "melwallet") (v "0.1.2") (d (list (d (n "bytes") (r "^1.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "melstructs") (r "^0.3.2") (d #t) (k 0)) (d (n "melvm") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^1") (d #t) (k 0)) (d (n "stdcode") (r "^0.1.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tmelcrypt") (r "^0.2.7") (d #t) (k 0)))) (h "1msj3kr7mkr6njk4bga54k2s4lllg2rs5hznlgyg0abd0iv5hbjf")))
+

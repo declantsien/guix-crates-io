@@ -1,0 +1,8 @@
+(define-module (crates-io os cq oscq_rs) #:use-module (crates-io))
+
+(define-public crate-oscq_rs-0.0.1-pre (c (n "oscq_rs") (v "0.0.1-pre") (d (list (d (n "hyper") (r "^1.0.0-rc.3") (f (quote ("full"))) (d #t) (k 0)) (d (n "rosc") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1ncw4v38yxlg4gig7ir68mjn04qkas6c0l3f7szb00x75a89zm4q")))
+
+(define-public crate-oscq_rs-0.0.2 (c (n "oscq_rs") (v "0.0.2") (d (list (d (n "hyper") (r "^1.0.0-rc.3") (f (quote ("full"))) (d #t) (k 0)) (d (n "rosc") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "zeroconf") (r "^0.10.5") (d #t) (k 0)))) (h "1xd1d88qxjv16cgkpaihs7x39736gmkglh3b49437hjlylcc5kyz")))
+
+(define-public crate-oscq_rs-0.0.3 (c (n "oscq_rs") (v "0.0.3") (d (list (d (n "hyper") (r "^1.0.0-rc.4") (f (quote ("full"))) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.12") (d #t) (k 0)) (d (n "rosc") (r "^0.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.159") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.95") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "zeroconf") (r "^0.10.5") (d #t) (k 0)))) (h "03by5ccjppgbh5nhbdp9b3zbwysz77v8dnnbc73fva95x7j8cx5m")))
+

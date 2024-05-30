@@ -1,0 +1,6 @@
+(define-module (crates-io wi th with_postgres_ready) #:use-module (crates-io))
+
+(define-public crate-with_postgres_ready-0.1.0 (c (n "with_postgres_ready") (v "0.1.0") (d (list (d (n "dockertest") (r "^0.3.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "test-log") (r "^0.2.12") (f (quote ("trace"))) (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("log"))) (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "0lx79967vf0b9iz7j6rcws4bc7n9h5cf1mc7ynw0zf29w47b4gnq")))
+
+(define-public crate-with_postgres_ready-0.1.1 (c (n "with_postgres_ready") (v "0.1.1") (d (list (d (n "dockertest") (r "^0.3.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "test-log") (r "^0.2.12") (f (quote ("trace"))) (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)) (d (n "tokio-postgres") (r "^0.7.8") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (f (quote ("log"))) (d #t) (k 2)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 2)))) (h "1652659gyapqdlji8wjdcmlw9k1nkmmdhwgd3wckp3icvr750q4p")))
+

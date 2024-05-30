@@ -1,0 +1,6 @@
+(define-module (crates-io mt im mtime-travel) #:use-module (crates-io))
+
+(define-public crate-mtime-travel-0.0.1 (c (n "mtime-travel") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.76") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.5.0") (d #t) (k 0)) (d (n "filetime") (r "^0.2.23") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "195a508kg1yj86w9qccqdz8nyf2nkdygyfs1bik5znpsk0py2013")))
+
+(define-public crate-mtime-travel-0.1.0 (c (n "mtime-travel") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.76") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "data-encoding") (r "^2.5.0") (d #t) (k 0)) (d (n "filetime") (r "^0.2.23") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.4.0") (d #t) (k 0)))) (h "1m79xd6x4p66ms0sj9dzmprwx1kmvjjy26v728wfxqk84n1skz88")))
+

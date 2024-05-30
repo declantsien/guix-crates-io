@@ -1,0 +1,4 @@
+(define-module (crates-io te ns tensorman) #:use-module (crates-io))
+
+(define-public crate-tensorman-0.1.0 (c (n "tensorman") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.19") (d #t) (k 0)) (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "bollard") (r "^0.3") (f (quote ("tls"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "dirs") (r "^2.0") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "fern") (r "^0.5") (d #t) (k 0)) (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "nix") (r "^0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tabular") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.3") (d #t) (k 0)) (d (n "tokio") (r "^0.1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)) (d (n "xdg") (r "^2.2") (d #t) (k 0)))) (h "0fivfq140ac0g8a1jqfajyv11vkwx43c41z9vp809vyqp693x52l")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io co mf comfy-bounded-ints) #:use-module (crates-io))
+
+(define-public crate-comfy-bounded-ints-0.1.0 (c (n "comfy-bounded-ints") (v "0.1.0") (d (list (d (n "no-panic") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "0k6ynb25s56gbhr2fsxqlzryc86s5ca0p5i7pbnwj5amcccz1q1p") (f (quote (("div_assign_zero") ("default")))) (s 2) (e (quote (("serde_json" "dep:serde_json") ("serde" "dep:serde") ("no_panic" "dep:no-panic"))))))
+
+(define-public crate-comfy-bounded-ints-0.1.1 (c (n "comfy-bounded-ints") (v "0.1.1") (d (list (d (n "no-panic") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "1nbz1avwn2rr6mcckk97zhvjnq37barzlv36712xnnwxbr1gd6gm") (f (quote (("div_assign_zero") ("default")))) (s 2) (e (quote (("serde_json" "dep:serde_json") ("serde" "dep:serde") ("no_panic" "dep:no-panic"))))))
+
+(define-public crate-comfy-bounded-ints-0.2.0 (c (n "comfy-bounded-ints") (v "0.2.0") (d (list (d (n "no-panic") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)))) (h "102pj00ghyksvr5b5ls0r3alg6xlrc20f54xpggwgpjhslzmxbvb") (f (quote (("div_assign_zero") ("default")))) (s 2) (e (quote (("serde_json" "dep:serde_json") ("serde" "dep:serde") ("no_panic" "dep:no-panic"))))))
+
+(define-public crate-comfy-bounded-ints-0.2.1 (c (n "comfy-bounded-ints") (v "0.2.1") (d (list (d (n "no-panic") (r "^0.1.30") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (o #t) (d #t) (k 0)))) (h "06bqhmgvj8dcyczfpkbng89qw8m9k36xrpkhr9pyhm9vg27pwqxr") (f (quote (("div_assign_zero") ("default")))) (s 2) (e (quote (("serde_json" "dep:serde_json") ("serde" "dep:serde") ("no_panic" "dep:no-panic"))))))
+

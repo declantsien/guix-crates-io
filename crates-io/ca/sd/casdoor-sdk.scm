@@ -1,0 +1,18 @@
+(define-module (crates-io ca sd casdoor-sdk) #:use-module (crates-io))
+
+(define-public crate-casdoor-sdk-1.503.0 (c (n "casdoor-sdk") (v "1.503.0") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "18gdd0jx0j6ml20nhfa4ridklgwn3dp8d5xisv1qgglf38wk098h")))
+
+(define-public crate-casdoor-sdk-1.504.0 (c (n "casdoor-sdk") (v "1.504.0") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1fp2nl3ikd0h83r97fw534xy2ngvb3i3xg86c2z7m25ml4p6sgfr")))
+
+(define-public crate-casdoor-sdk-1.504.1 (c (n "casdoor-sdk") (v "1.504.1") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0z9az3wq75h2mziak5l3as5ky7sc7zfxvnw2bh1qiw5nrgxd75ln")))
+
+(define-public crate-casdoor-sdk-1.504.2 (c (n "casdoor-sdk") (v "1.504.2") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1p9xl9s3ismx115ms4gzwqdsv0dwamwqk4qpx0zpi7slpnichnvz")))
+
+(define-public crate-casdoor-sdk-2.0.0 (c (n "casdoor-sdk") (v "2.0.0") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0zyklwkd2h47ypwjjh4skkf92wlwia2b4zndicnigjl5ff68gjyc")))
+
+(define-public crate-casdoor-sdk-2.0.1 (c (n "casdoor-sdk") (v "2.0.1") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0ld8p3q299b568ndhkwk0hscwmm3zpj5zzn7bmjmlqfbc8s2f331")))
+
+(define-public crate-casdoor-sdk-2.0.3 (c (n "casdoor-sdk") (v "2.0.3") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1iw31yjn0wradfa4b4n72ws94yssblxmsmsw3svl5rim08gpyl6k")))
+
+(define-public crate-casdoor-sdk-2.0.4 (c (n "casdoor-sdk") (v "2.0.4") (d (list (d (n "reqwest") (r "^0.12.3") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0xgrl3l203qcf6h0gghbpzc9cdg8r9ayvqh8qjbd8z5fmakwla5g")))
+

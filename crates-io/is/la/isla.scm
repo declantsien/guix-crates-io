@@ -1,0 +1,6 @@
+(define-module (crates-io is la isla) #:use-module (crates-io))
+
+(define-public crate-isla-0.1.0 (c (n "isla") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "isla-axiomatic") (r "^0.1.0") (d #t) (k 0)) (d (n "isla-cat") (r "^0.1.0") (d #t) (k 0)) (d (n "isla-lib") (r "^0.1.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "1c3hla3y4d7wyk0lffs839ppjd5c61hbhz35l32zip880p0qnjya")))
+
+(define-public crate-isla-0.2.0 (c (n "isla") (v "0.2.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "crossbeam") (r "^0.7.3") (d #t) (k 0)) (d (n "getopts") (r "^0.2.21") (d #t) (k 0)) (d (n "isla-axiomatic") (r "^0.2.0") (d #t) (k 0)) (d (n "isla-cat") (r "^0.2.0") (d #t) (k 0)) (d (n "isla-lib") (r "^0.2.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.10.1") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.104") (d #t) (k 0)) (d (n "sha2") (r "^0.8.1") (d #t) (k 0)) (d (n "toml") (r "^0.5.5") (d #t) (k 0)))) (h "1gvbl8pndjvjarp47hv278zi77cf7zzr9fg8ldjjl3v3rrhrm93l")))
+

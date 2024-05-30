@@ -1,0 +1,6 @@
+(define-module (crates-io op en opentalk-client-shared-impl) #:use-module (crates-io))
+
+(define-public crate-opentalk-client-shared-impl-0.9.0-alpha (c (n "opentalk-client-shared-impl") (v "0.9.0-alpha") (d (list (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "opentalk-proc-macro-fields-helper") (r "^0.9.0-alpha") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)))) (h "02y0r9s5mbr86221am2pm94s7v847ff9j8ym2m9i6fcq38ackalq")))
+
+(define-public crate-opentalk-client-shared-impl-0.9.0 (c (n "opentalk-client-shared-impl") (v "0.9.0") (d (list (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "opentalk-proc-macro-fields-helper") (r "^0.9.0") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("extra-traits" "parsing"))) (d #t) (k 0)))) (h "1qv1r4vclimrnil3q2vh5s8kwzbsglas33nrqm4xc1bxzzpfab6w")))
+

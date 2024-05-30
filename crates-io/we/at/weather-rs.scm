@@ -1,0 +1,6 @@
+(define-module (crates-io we at weather-rs) #:use-module (crates-io))
+
+(define-public crate-weather-rs-1.0.0 (c (n "weather-rs") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "clap") (r "^3.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "confy") (r "^0.4.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0qm7m6kg3wm55901yb51knxzvyxkqn94fp58w2f0ic7gasz3pr36")))
+
+(define-public crate-weather-rs-1.1.0 (c (n "weather-rs") (v "1.1.0") (d (list (d (n "clap") (r "^4.0.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-eyre") (r "^0.6.2") (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "geolocation") (r "^0.2.1") (d #t) (k 0)) (d (n "public-ip") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.10") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0b03x52an70i197q96pgd9fbd1gqgq0xk8nali896m2pvc4jc6jw")))
+

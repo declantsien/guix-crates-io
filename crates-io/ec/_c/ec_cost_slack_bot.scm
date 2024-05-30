@@ -1,0 +1,8 @@
+(define-module (crates-io ec _c ec_cost_slack_bot) #:use-module (crates-io))
+
+(define-public crate-ec_cost_slack_bot-0.1.0 (c (n "ec_cost_slack_bot") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("env"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.144") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)))) (h "0dair95rq8m8xk4prgm8k2l011hamahzvpzd373jk4bbhnvskl2c")))
+
+(define-public crate-ec_cost_slack_bot-0.1.1 (c (n "ec_cost_slack_bot") (v "0.1.1") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("env"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.144") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "thousands") (r "^0.2.0") (d #t) (k 0)))) (h "0nxnplqcazapq0jld04wxbbj3mhqyyk1mh4g3ymnn05pfv0spkwh")))
+
+(define-public crate-ec_cost_slack_bot-0.1.2 (c (n "ec_cost_slack_bot") (v "0.1.2") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.17") (f (quote ("env"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.144") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "thousands") (r "^0.2.0") (d #t) (k 0)))) (h "1csaysxn6nwha58fqsl0d7gzgjhjchcb2xwrjpg19rm08cw07dla")))
+

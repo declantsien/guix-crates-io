@@ -1,0 +1,10 @@
+(define-module (crates-io mc -q mc-query) #:use-module (crates-io))
+
+(define-public crate-mc-query-0.1.0 (c (n "mc-query") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bytes") (r "^1.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0ffx89l86wbxdyvir8v3khxcwb31kqr1ggzdys7rm584xlbxcwch")))
+
+(define-public crate-mc-query-0.2.0 (c (n "mc-query") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.56") (d #t) (k 0)) (d (n "bytes") (r "^1.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.140") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.20.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0v9q2mg0zqj1957v5b0w8mhbiqwh7pajk67nkp4s8qn50nwwmq9x")))
+
+(define-public crate-mc-query-1.0.0 (c (n "mc-query") (v "1.0.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1h0rgrxwwxjxmc5r6mzgh2j8pb8ik95g51g1jx1dw68h18a60dbc")))
+
+(define-public crate-mc-query-1.0.1 (c (n "mc-query") (v "1.0.1") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1cdyjfhkhg1g9pk5wk4zsdkavsn8jmhf6gbrq8nlnwlrg8xihkzm")))
+

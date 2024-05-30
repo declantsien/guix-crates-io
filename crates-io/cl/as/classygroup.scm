@@ -1,0 +1,12 @@
+(define-module (crates-io cl as classygroup) #:use-module (crates-io))
+
+(define-public crate-classygroup-0.0.1 (c (n "classygroup") (v "0.0.1") (d (list (d (n "blake2") (r "^0.8.0") (d #t) (k 0)) (d (n "criterion") (r ">= 0.2") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 2)))) (h "0pb8f9xvnhlyndj174iyxy3bzwqms3nglq13fkwji4w5i9b2chya")))
+
+(define-public crate-classygroup-0.0.2 (c (n "classygroup") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bacteria") (r "^0.0.8") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "criterion") (r ">= 0.2") (d #t) (k 2)) (d (n "gmp-mpfr-sys") (r "^1.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "rug") (r "^1.3.0") (d #t) (k 0)))) (h "0mssd4chp6cy5qv39994qslycagbrv1z2ix4b1c75vv14xfik64x")))
+
+(define-public crate-classygroup-0.0.3 (c (n "classygroup") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bacteria") (r "^0.0.8") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "criterion") (r ">= 0.2") (d #t) (k 2)) (d (n "gmp-mpfr-sys") (r "^1.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "mohan") (r "0.0.*") (d #t) (k 0)) (d (n "rand") (r "0.*") (d #t) (k 2)) (d (n "rug") (r "^1.3.0") (d #t) (k 0)))) (h "05d3p43bk7g18zhgr99ch77vhkib1j6rcpdppwy8f5lnr7q7c2jh")))
+
+(define-public crate-classygroup-0.0.4 (c (n "classygroup") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bacteria") (r "^0.0.8") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "criterion") (r ">= 0.2") (d #t) (k 2)) (d (n "gmp-mpfr-sys") (r "^1.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "mohan") (r "0.0.*") (d #t) (k 0)) (d (n "rand") (r "0.*") (d #t) (k 2)) (d (n "rug") (r "^1.3.0") (d #t) (k 0)))) (h "1vamlbrz7bxa7gz1wymp0fvs9ca3z4hpy3di1y0p4fw6z5wb00rl")))
+
+(define-public crate-classygroup-0.0.5 (c (n "classygroup") (v "0.0.5") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bacteria") (r "^0.0.8") (d #t) (k 0)) (d (n "bit-vec") (r "^0.5") (d #t) (k 0)) (d (n "criterion") (r ">= 0.2") (d #t) (k 2)) (d (n "gmp-mpfr-sys") (r "^1.1.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "mohan") (r "0.0.*") (d #t) (k 0)) (d (n "rand") (r "0.*") (d #t) (k 2)) (d (n "rug") (r "^1.3.0") (d #t) (k 0)))) (h "14is0fkbjfl4gm2zzkzbfzrjbrzgpyqviwy0vrxkl180p09ysf6x")))
+

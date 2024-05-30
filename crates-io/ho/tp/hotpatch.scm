@@ -1,0 +1,8 @@
+(define-module (crates-io ho tp hotpatch) #:use-module (crates-io))
+
+(define-public crate-hotpatch-0.1.0 (c (n "hotpatch") (v "0.1.0") (d (list (d (n "hotpatch_macros") (r "^0.1.0") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.0") (d #t) (k 0)) (d (n "variadic_generics") (r "^0.1.0") (d #t) (k 0)))) (h "122kkgxxd1j45l5r2159qa3slfqmchd52zaxrbasywl104afqq9p") (f (quote (("redirect-main" "hotpatch_macros/redirect-main") ("large-signatures") ("default") ("allow-main" "hotpatch_macros/allow-main"))))))
+
+(define-public crate-hotpatch-0.2.0 (c (n "hotpatch") (v "0.2.0") (d (list (d (n "hotpatch_macros") (r "^0.2.0") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.0") (d #t) (k 0)) (d (n "variadic_generics") (r "^0.1.0") (d #t) (k 0)))) (h "0a5ckzcsiihgr1hb4hqdrrw6cv67lg85rjq268p63slhjrz05qbl") (f (quote (("redirect-main" "hotpatch_macros/redirect-main") ("large-signatures") ("default") ("allow-main" "hotpatch_macros/allow-main"))))))
+
+(define-public crate-hotpatch-0.3.0 (c (n "hotpatch") (v "0.3.0") (d (list (d (n "hotpatch_macros") (r "^0.3.0") (d #t) (k 0)) (d (n "libloading") (r "^0.6") (d #t) (k 0)) (d (n "once_cell") (r "^1.5.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.2.0") (d #t) (k 0)) (d (n "variadic_generics") (r "^0.1.0") (d #t) (k 0)))) (h "1km41zcppy8gxziax7jdznva7lw6ms9h2fg75nmysf2pcahysgfa") (f (quote (("redirect-main" "hotpatch_macros/redirect-main") ("large-signatures") ("default") ("allow-main" "hotpatch_macros/allow-main"))))))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io uv m_ uvm_cli) #:use-module (crates-io))
+
+(define-public crate-uvm_cli-0.1.0 (c (n "uvm_cli") (v "0.1.0") (d (list (d (n "cli_core") (r "^0.1.0") (d #t) (k 0)) (d (n "console") (r "^0.9.1") (d #t) (k 0)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "uvm_core") (r "^0.9.0") (d #t) (k 0)))) (h "1bb8n7a7fz4qpa2kh57y0jqhg8zmrhpcfiwn24xx1q3mqqis98lv")))
+
+(define-public crate-uvm_cli-0.2.0 (c (n "uvm_cli") (v "0.2.0") (d (list (d (n "cli_core") (r "^0.1.0") (d #t) (k 0)) (d (n "console") (r "^0.9.1") (d #t) (k 0)) (d (n "docopt") (r "^1.0") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17.1") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "uvm_core") (r "^0.10.0") (d #t) (k 0)))) (h "1d076csg44c2v2smimn2d5hvrl0khiy96mh1495986kmlpp1nqxq")))
+
+(define-public crate-uvm_cli-0.3.0 (c (n "uvm_cli") (v "0.3.0") (d (list (d (n "console") (r "^0.9.1") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "uvm_core") (r "^0.10.0") (d #t) (k 0)))) (h "0q1dqylv8xvn8z58krsw3si3714kr6jj5j9mx3xxh5fpvqx56ddh")))
+
+(define-public crate-uvm_cli-0.4.0 (c (n "uvm_cli") (v "0.4.0") (d (list (d (n "console") (r "^0.9.1") (d #t) (k 0)) (d (n "flexi_logger") (r "^0.17.1") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "log") (r "^0.4.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)))) (h "06k0mya143y69hws7p36jy2d8hlkj49w2q02l8ywqyv6m91kwvja")))
+

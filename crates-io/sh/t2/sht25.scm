@@ -1,0 +1,10 @@
+(define-module (crates-io sh t2 sht25) #:use-module (crates-io))
+
+(define-public crate-sht25-0.1.0-alpha.1 (c (n "sht25") (v "0.1.0-alpha.1") (d (list (d (n "cortex-m-rt") (r "^0.7.0") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.3") (d #t) (k 2)) (d (n "embedded-hal-async") (r "=0.1.0-alpha.1") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "0ln1vkgj248k3xh8k52j9kprgw1h88a4cgb29bcbjiag4hjrvyyc")))
+
+(define-public crate-sht25-0.1.0-alpha.2 (c (n "sht25") (v "0.1.0-alpha.2") (d (list (d (n "cortex-m-rt") (r "^0.7.0") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.3") (d #t) (k 2)) (d (n "embedded-hal-async") (r "=0.1.0-alpha.1") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "00652pzj6dgzj7i50x9x1hw8mjnbmlvj5684llb5jchfs84q8636")))
+
+(define-public crate-sht25-0.1.0-alpha.3 (c (n "sht25") (v "0.1.0-alpha.3") (d (list (d (n "cortex-m") (r "^0.7.6") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7.0") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.3") (d #t) (k 2)) (d (n "embedded-hal") (r "^1.0.0-alpha.7") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)) (d (n "stm32f4xx-hal") (r "^0.13.2") (f (quote ("stm32f429"))) (d #t) (k 2)))) (h "0xqq95lfa3hqm29a0xgyc67l52569816hrcab6z0lnshp5hm6xz1")))
+
+(define-public crate-sht25-0.2.0 (c (n "sht25") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7.6") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7.0") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "embedded-hal") (r "^1.0") (d #t) (k 0)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)) (d (n "stm32f4xx-hal") (r "^0.20") (f (quote ("stm32f429"))) (d #t) (k 2)))) (h "06rlkjs8dcgnv4gc98z0yc48a91r8k6hdl02s8047ssdk07dxmar")))
+

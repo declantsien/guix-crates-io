@@ -1,0 +1,4 @@
+(define-module (crates-io ar k- ark-ed-on-bls12-381-bandersnatch-ext) #:use-module (crates-io))
+
+(define-public crate-ark-ed-on-bls12-381-bandersnatch-ext-0.4.1 (c (n "ark-ed-on-bls12-381-bandersnatch-ext") (v "0.4.1") (d (list (d (n "ark-algebra-test-templates") (r "^0.4.2") (k 2)) (d (n "ark-ec") (r "^0.4.2") (k 0)) (d (n "ark-ed-on-bls12-381-bandersnatch") (r "^0.4.0") (k 0)) (d (n "ark-ff") (r "^0.4.2") (k 0)) (d (n "ark-models-ext") (r "^0.4.1") (k 0)) (d (n "ark-serialize") (r "^0.4.2") (k 2)) (d (n "ark-std") (r "^0.4.0") (k 0)))) (h "0ij32a7fk65f4vc2bqqiw8ckpaf5mnhi2pxyikzhg6mlmkqqalfi") (f (quote (("std" "ark-ec/std" "ark-ed-on-bls12-381-bandersnatch/std" "ark-ff/std" "ark-models-ext/std" "ark-serialize/std" "ark-std/std") ("r1cs" "ark-ed-on-bls12-381-bandersnatch/r1cs") ("parallel" "ark-ec/parallel" "ark-ff/parallel" "ark-std/parallel") ("default" "std"))))))
+

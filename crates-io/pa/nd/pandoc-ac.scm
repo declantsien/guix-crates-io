@@ -1,0 +1,8 @@
+(define-module (crates-io pa nd pandoc-ac) #:use-module (crates-io))
+
+(define-public crate-pandoc-ac-0.1.0 (c (n "pandoc-ac") (v "0.1.0") (d (list (d (n "failure") (r "^0.1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "pandoc") (r "^0.7.0") (d #t) (k 2)) (d (n "pandoc_ast") (r "^0.7.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.80") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.33") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)))) (h "1zlhydwki0wx31wb0gbxv06wrpaai7vzv8317q7mn7ks07iq90ha")))
+
+(define-public crate-pandoc-ac-0.2.0 (c (n "pandoc-ac") (v "0.2.0") (d (list (d (n "failure") (r "^0.1.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "pandoc") (r "^0.7.0") (d #t) (k 2)) (d (n "pandoc_ast") (r "^0.7.2") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.5.1") (d #t) (k 2)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)))) (h "1hn4msxx1mc4gcw8s22cazdjb4qxhd4mi22nb09j774swk5mffir")))
+
+(define-public crate-pandoc-ac-0.3.0 (c (n "pandoc-ac") (v "0.3.0") (d (list (d (n "lazy_static") (r "^1.2.0") (d #t) (k 0)) (d (n "pandoc") (r "^0.8.4") (d #t) (k 2)) (d (n "pandoc_ast") (r "^0.8") (d #t) (k 0)) (d (n "pretty_assertions") (r "^0.7.2") (d #t) (k 2)) (d (n "regex") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.84") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.34") (d #t) (k 2)) (d (n "tempfile") (r "^3.0") (d #t) (k 2)))) (h "0zazhw6rsl4zgwijckghz8aj40r713wjds98ypal3wcz15y75i6k")))
+

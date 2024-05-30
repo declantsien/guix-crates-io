@@ -1,0 +1,4 @@
+(define-module (crates-io ch ro chroot-deploy) #:use-module (crates-io))
+
+(define-public crate-chroot-deploy-0.1.0 (c (n "chroot-deploy") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.68") (d #t) (k 1)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.1.1") (o #t) (d #t) (k 0)) (d (n "fs4") (r "^0.7") (f (quote ("tokio"))) (k 0)) (d (n "futures-util") (r "^0.3.30") (f (quote ("async-await-macro" "std"))) (k 0)) (d (n "grev") (r "^0.1.3") (d #t) (k 1)) (d (n "tar") (r "^0.4.40") (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 2)) (d (n "tokio") (r "^1.0") (f (quote ("fs" "io-util" "macros" "process" "rt" "time"))) (k 0)) (d (n "xz2") (r "^0.1.7") (k 0)))) (h "1r27c4gck4ca6dmb60fyxnj0nbx5x6irpmlxxfjhbv9pkbhzav6g")))
+

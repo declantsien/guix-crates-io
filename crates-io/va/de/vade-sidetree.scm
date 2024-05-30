@@ -1,0 +1,4 @@
+(define-module (crates-io va de vade-sidetree) #:use-module (crates-io))
+
+(define-public crate-vade-sidetree-0.0.3 (c (n "vade-sidetree") (v "0.0.3") (d (list (d (n "async-trait") (r "^0.1.31") (d #t) (k 0)) (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "regex") (r "^1.3.7") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.5.1") (d #t) (k 2)) (d (n "sha2") (r "^0.9.5") (d #t) (k 0)) (d (n "tokio") (r "=1.7.1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "vade") (r "^0.1.0") (d #t) (k 0)) (d (n "vade-sidetree-client") (r "^0.1.0") (d #t) (k 0)))) (h "0ynzgipyyvp3w64a2z1xqm3l6skbq2d27b9a9gp6lh3v4acjs5yb")))
+

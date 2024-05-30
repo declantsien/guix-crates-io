@@ -1,0 +1,10 @@
+(define-module (crates-io js av jsave) #:use-module (crates-io))
+
+(define-public crate-jsave-0.1.0 (c (n "jsave") (v "0.1.0") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1bs3dmgjlhfbfsazzr39xzhd2smjw6dcqcn7sch3wwac2j4jcc4b")))
+
+(define-public crate-jsave-0.1.1 (c (n "jsave") (v "0.1.1") (d (list (d (n "parking_lot") (r "^0.12") (f (quote ("send_guard"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "016szxlc1h7bh3bvwmswmdm7rbwz550sd3781m31jgs743fhsrhr")))
+
+(define-public crate-jsave-0.2.0 (c (n "jsave") (v "0.2.0") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1g766pzmk44b9k4phbm1gpvphiihxssgyb96acm4f8jmc33kchdx") (f (quote (("unbounded_depth" "serde_json/unbounded_depth") ("send_guard" "parking_lot/send_guard") ("pretty") ("preserve_order" "serde_json/preserve_order") ("float_roundtrip" "serde_json/float_roundtrip") ("default") ("arbitrary_precision" "serde_json/arbitrary_precision")))) (r "1.59")))
+
+(define-public crate-jsave-0.2.1 (c (n "jsave") (v "0.2.1") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "00z765v2kchwwi68rjid1afpk0vg47wa0d7848a2mx80iy0i9ar3") (f (quote (("unbounded_depth" "serde_json/unbounded_depth") ("send_guard" "parking_lot/send_guard") ("pretty") ("preserve_order" "serde_json/preserve_order") ("float_roundtrip" "serde_json/float_roundtrip") ("default") ("arbitrary_precision" "serde_json/arbitrary_precision")))) (r "1.59")))
+

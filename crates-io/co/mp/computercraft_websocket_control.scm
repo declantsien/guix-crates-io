@@ -1,0 +1,6 @@
+(define-module (crates-io co mp computercraft_websocket_control) #:use-module (crates-io))
+
+(define-public crate-computercraft_websocket_control-0.1.0 (c (n "computercraft_websocket_control") (v "0.1.0") (d (list (d (n "axum") (r "^0.6.19") (f (quote ("macros" "headers" "ws"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "stupid_utils") (r "^0.2.4") (d #t) (k 0)) (d (n "stupid_utils") (r "^0.2.4") (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0dbyj0c0dp877wgjhmkx9mnzf137wcnncy6fzfr5z9biyg65dg5l")))
+
+(define-public crate-computercraft_websocket_control-0.1.1 (c (n "computercraft_websocket_control") (v "0.1.1") (d (list (d (n "axum") (r "^0.6.19") (f (quote ("macros" "headers" "ws"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "stupid_utils") (r "^0.2.4") (d #t) (k 0)) (d (n "stupid_utils") (r "^0.2.4") (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0i1x64w67h0xby76x6s9034q6lldvadxppkx5n241ya0cx95ywxi")))
+

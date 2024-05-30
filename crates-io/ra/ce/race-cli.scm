@@ -1,0 +1,4 @@
+(define-module (crates-io ra ce race-cli) #:use-module (crates-io))
+
+(define-public crate-race-cli-0.0.4 (c (n "race-cli") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.64") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "clap") (r "^4.0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.16.1") (f (quote ("http-client"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)) (d (n "race-core") (r ">=0.0.3") (d #t) (k 0)) (d (n "race-env") (r ">=0.0.4") (d #t) (k 0)) (d (n "race-transport") (r "^0.0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0.0") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0ij0dp1cr4qpcq08p06ainn4l16cfigfqxl5r49pacmn80casarc") (r "1.65.0")))
+

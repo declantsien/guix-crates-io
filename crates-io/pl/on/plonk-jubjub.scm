@@ -1,0 +1,6 @@
+(define-module (crates-io pl on plonk-jubjub) #:use-module (crates-io))
+
+(define-public crate-plonk-jubjub-0.1.0 (c (n "plonk-jubjub") (v "0.1.0") (d (list (d (n "blake2") (r "^0.9") (d #t) (k 2)) (d (n "canonical") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "canonical_derive") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "dusk-bytes") (r "^0.1") (d #t) (k 0)) (d (n "parity-subtle") (r "^0.1") (d #t) (k 0)) (d (n "plonk-bls12_381") (r "^0.1") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_xorshift") (r "^0.3") (k 2)))) (h "0f3vjagb2bf1w86svm4m1vwknqms9f41d88ksa3jxzxazdzvsc8f") (f (quote (("std" "plonk-bls12_381/default") ("default" "std") ("canon" "canonical" "canonical_derive" "plonk-bls12_381/canon"))))))
+
+(define-public crate-plonk-jubjub-0.2.0 (c (n "plonk-jubjub") (v "0.2.0") (d (list (d (n "blake2") (r "^0.9") (d #t) (k 2)) (d (n "canonical") (r "^0.6") (o #t) (k 0)) (d (n "canonical_derive") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "dusk-bytes") (r "^0.1") (k 0)) (d (n "parity-subtle") (r "^0.1.1") (k 0)) (d (n "plonk-bls12_381") (r "^0.2") (k 0)) (d (n "rand_core") (r "^0.6") (k 0)) (d (n "rand_xorshift") (r "^0.1") (k 2) (p "parity_rand_xorshift")))) (h "0yazd78bs6vva3w8ayq8d9djg1qm78y2hpnn4qkr294rss921zsx")))
+

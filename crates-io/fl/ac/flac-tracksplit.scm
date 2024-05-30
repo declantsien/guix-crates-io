@@ -1,0 +1,4 @@
+(define-module (crates-io fl ac flac-tracksplit) #:use-module (crates-io))
+
+(define-public crate-flac-tracksplit-0.1.0 (c (n "flac-tracksplit") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "bytesize") (r "^1.2.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.2.7") (f (quote ("derive"))) (d #t) (k 0)) (d (n "int-conv") (r "^0.1.4") (d #t) (k 0)) (d (n "metaflac") (r "^0.2.5") (d #t) (k 0)) (d (n "more-asserts") (r "^0.3.1") (d #t) (k 0)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "symphonia-bundle-flac") (r "^0.5.2") (d #t) (k 0)) (d (n "symphonia-core") (r "^0.5.2") (d #t) (k 0)) (d (n "symphonia-utils-xiph") (r "^0.5.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-indicatif") (r "^0.3.4") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "14vl6dc478r89dy99g4hz0f7kcndwyr4nmzcb6k9z51zg6fx8mi5")))
+

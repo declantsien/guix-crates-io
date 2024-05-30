@@ -1,0 +1,4 @@
+(define-module (crates-io th al thalo_cli) #:use-module (crates-io))
+
+(define-public crate-thalo_cli-0.8.0 (c (n "thalo_cli") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.18.1") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive" "env"))) (d #t) (k 0)) (d (n "libc") (r "^0.2.150") (d #t) (k 0)) (d (n "owo-colors") (r "^3.5.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thalo") (r "^0.8.0") (d #t) (k 0)) (d (n "thalo_runtime") (r "^0.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1.20") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.10") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "wasm-metadata") (r "^0.10.13") (d #t) (k 0)) (d (n "wit-component") (r "^0.18.2") (d #t) (k 0)))) (h "19fy84z7x01amz4bd4p4bmcizmq26ly3pl4lj8kkf9rm16nihqq9")))
+

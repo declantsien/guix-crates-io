@@ -1,0 +1,32 @@
+(define-module (crates-io sp ot spotify) #:use-module (crates-io))
+
+(define-public crate-spotify-0.1.0 (c (n "spotify") (v "0.1.0") (d (list (d (n "json") (r "^0.11.0") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1f4gxa26dr2k2zqdlkdnx54ga4fxqxwi019jwqj983lf13l4dbv5")))
+
+(define-public crate-spotify-0.2.0 (c (n "spotify") (v "0.2.0") (d (list (d (n "json") (r "^0.11.1") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "0sbfgd62133zb2v4jgykirfjhc26qk9n7x2kcfdfym2lj3syxcqp")))
+
+(define-public crate-spotify-0.3.0 (c (n "spotify") (v "0.3.0") (d (list (d (n "json") (r "^0.11.1") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.5") (d #t) (k 1)) (d (n "skeptic") (r "^0.5") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "0f51l46jr3v0g91ld3bjj4dfwnz09428chx1axjp0x6isy3iihq2")))
+
+(define-public crate-spotify-0.4.0 (c (n "spotify") (v "0.4.0") (d (list (d (n "json") (r "^0.11.1") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.5") (d #t) (k 1)) (d (n "skeptic") (r "^0.5") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "0pl5sp47rd5g4j9953c5hi2xv2gn4hpqzc8f0nsvc922cc5gab23")))
+
+(define-public crate-spotify-0.5.0 (c (n "spotify") (v "0.5.0") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.5") (d #t) (k 1)) (d (n "skeptic") (r "^0.5") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1ddh57zbc0bq0bhf6b9cyfaq0abzb6vzp5gbm7y3dgs9s5qynrs6")))
+
+(define-public crate-spotify-0.5.1 (c (n "spotify") (v "0.5.1") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.5") (d #t) (k 1)) (d (n "skeptic") (r "^0.5") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1wybpnwza1ff69azxdfypbhm80l9a9iywr0wkpf7cyy8qkhln3fh")))
+
+(define-public crate-spotify-0.5.2 (c (n "spotify") (v "0.5.2") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.6.1") (d #t) (k 1)) (d (n "skeptic") (r "^0.6.1") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "0103amq7jcclrywj5x9vlwrwjm5y51mjbc6jnhklg74x18r7kjl4")))
+
+(define-public crate-spotify-0.6.0 (c (n "spotify") (v "0.6.0") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.6.1") (d #t) (k 1)) (d (n "skeptic") (r "^0.6.1") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1flzd8q5p1r7bdih6m6xzwdkk7z16hymih57c1z60jxnpqflnpym")))
+
+(define-public crate-spotify-0.6.1 (c (n "spotify") (v "0.6.1") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.1.0") (d #t) (k 0)) (d (n "skeptic") (r "^0.6.1") (d #t) (k 1)) (d (n "skeptic") (r "^0.6.1") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "0rz363klglp8lnny7cinkz3hhybqqaia14la5x3myv4yixp0xapp")))
+
+(define-public crate-spotify-0.6.2 (c (n "spotify") (v "0.6.2") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.5.1") (d #t) (k 0)) (d (n "skeptic") (r "^0.9.0") (d #t) (k 1)) (d (n "skeptic") (r "^0.9.0") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "04nr4q98m57kmbl9s5nvhph04vklr2j9aciwrkxw8bzyf7qanlmw")))
+
+(define-public crate-spotify-0.7.0 (c (n "spotify") (v "0.7.0") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.5.1") (d #t) (k 0)) (d (n "skeptic") (r "^0.9.0") (d #t) (k 1)) (d (n "skeptic") (r "^0.9.0") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1xbrxpyvrlbyzc0xrk4imj3455nzqnwvkdhbz6vk6vvk801zk2y9")))
+
+(define-public crate-spotify-0.7.1 (c (n "spotify") (v "0.7.1") (d (list (d (n "json") (r "^0.11.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.5.1") (d #t) (k 0)) (d (n "skeptic") (r "^0.9.0") (d #t) (k 1)) (d (n "skeptic") (r "^0.9.0") (d #t) (k 2)) (d (n "time") (r "^0.1.35") (d #t) (k 0)) (d (n "winapi") (r "^0.2.8") (d #t) (k 0)))) (h "1db12jmjc83s9l3nyd6jvy1ya8v2cn9iwrpdfgnz7n65ksy69h6d")))
+
+(define-public crate-spotify-0.8.0 (c (n "spotify") (v "0.8.0") (d (list (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (d #t) (k 0)))) (h "1m2wjp1qybzywy5l6n7rdm52n9dx8571rc1g1sf9b46r01ppv1l4")))
+
+(define-public crate-spotify-0.8.1 (c (n "spotify") (v "0.8.1") (d (list (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("tlhelp32"))) (d #t) (k 0)))) (h "1kxvbbyrqdz6figf2prqy997pqg9lvym87mi0pfgy36qdkd23n0f")))
+
+(define-public crate-spotify-0.8.2 (c (n "spotify") (v "0.8.2") (d (list (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.9") (d #t) (k 0)) (d (n "skeptic") (r "^0.13") (d #t) (k 1)) (d (n "skeptic") (r "^0.13") (d #t) (k 2)) (d (n "time") (r "^0.1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("tlhelp32"))) (d #t) (k 0)))) (h "1605kdl4ykw0km2795mgq66hjn3zxqm8wy09yvnmmcmb9xn2d9zv")))
+

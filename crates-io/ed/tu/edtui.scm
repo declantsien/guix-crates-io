@@ -1,0 +1,20 @@
+(define-module (crates-io ed tu edtui) #:use-module (crates-io))
+
+(define-public crate-edtui-0.1.0 (c (n "edtui") (v "0.1.0") (d (list (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "ratatui") (r "^0.24") (d #t) (k 0)))) (h "0rx1xhazj1bxv1wavkizpp29v4y1ybiwhjpak8ybmgq3imyyaimj") (y #t)))
+
+(define-public crate-edtui-0.2.0 (c (n "edtui") (v "0.2.0") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.25") (d #t) (k 0)))) (h "19k0rq329i11y17ryrhyvlqfb1cjj0c0livw8r1chfv3xqkvy1i6") (f (quote (("default" "arboard")))) (y #t) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.2.1 (c (n "edtui") (v "0.2.1") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.25") (d #t) (k 0)))) (h "099s2a1gj3wgyi6ammwx1g0sdnsm63mz173jb8a5pd2i2264jisl") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.2.2 (c (n "edtui") (v "0.2.2") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.25") (d #t) (k 0)))) (h "0ys163x4srfl6z35jxqq4n0knrxkr1h4zr99la0kk470nf449fxh") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.3.0 (c (n "edtui") (v "0.3.0") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.26") (d #t) (k 0)))) (h "1f59scgcrgrypqazhimdjng6s2v6a2maa63n9al9hjzlqiq6v1nv") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.3.1 (c (n "edtui") (v "0.3.1") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.26") (d #t) (k 0)))) (h "0m7dg4k8a15n61pj4hljgks3jkjqvzsgw1ypq4ypyf2djzxn7193") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.3.2 (c (n "edtui") (v "0.3.2") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.26") (d #t) (k 0)))) (h "1spc9yg3iaygdl9rmv1njk93904gp2fb1zfbx37gkgkrjr8rlj44") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.3.3 (c (n "edtui") (v "0.3.3") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1.3") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.26") (d #t) (k 0)))) (h "18m4szmpncj3hhj0md3jha0xk49hi347s8jc082zpr8zp8g6yb0i") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+
+(define-public crate-edtui-0.3.4 (c (n "edtui") (v "0.3.4") (d (list (d (n "arboard") (r "^3.3.0") (o #t) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "jagged") (r "^0.1.3") (d #t) (k 0) (p "edtui-jagged")) (d (n "ratatui") (r "^0.26") (d #t) (k 0)))) (h "1lclj7ya3v8azbv569m9pp3ab3rkr02x3wk167x7my8crj98b6rg") (f (quote (("default" "arboard")))) (s 2) (e (quote (("arboard" "dep:arboard"))))))
+

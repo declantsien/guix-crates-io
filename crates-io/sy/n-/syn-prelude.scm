@@ -1,0 +1,28 @@
+(define-module (crates-io sy n- syn-prelude) #:use-module (crates-io))
+
+(define-public crate-syn-prelude-0.1.0 (c (n "syn-prelude") (v "0.1.0") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.0") (d #t) (k 0)))) (h "00fh30vvixf3nzc7gn4r89kjfvdby6z2cca3ffyalwb38pppns1x")))
+
+(define-public crate-syn-prelude-0.1.1 (c (n "syn-prelude") (v "0.1.1") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.0") (d #t) (k 0)))) (h "1g0ywclvnb2wy20s89xkip2cfwz86zmvvcl1l6hlvgqnc96jxlnc")))
+
+(define-public crate-syn-prelude-0.1.2 (c (n "syn-prelude") (v "0.1.2") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.0") (d #t) (k 0)))) (h "0zn60dik1sa2ddp1plm1k0d3gkp23ngbr6a8mgi15lyda3xk5pf6")))
+
+(define-public crate-syn-prelude-0.1.3 (c (n "syn-prelude") (v "0.1.3") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.0") (d #t) (k 0)))) (h "0q34vf585dwgx2xvgvkrvz2wvszb4aa3yrwr35swfwwky384nljs")))
+
+(define-public crate-syn-prelude-0.1.4 (c (n "syn-prelude") (v "0.1.4") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.1") (d #t) (k 0)))) (h "1wa2b9s9hsmna793z0426wvb7vv5lkri2iw91dj34dpi862d5p01")))
+
+(define-public crate-syn-prelude-0.1.5 (c (n "syn-prelude") (v "0.1.5") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.1") (d #t) (k 0)))) (h "0gqa1y22pnhqv4n9zw3frvpshnrzrd3amymp4xipx6w1aw28z1d4")))
+
+(define-public crate-syn-prelude-0.1.6 (c (n "syn-prelude") (v "0.1.6") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.1") (d #t) (k 0)))) (h "142gmfr6xy7997z20f8dzsmwf89r4l55nqcfkjf50q84cl570ccs")))
+
+(define-public crate-syn-prelude-0.1.7 (c (n "syn-prelude") (v "0.1.7") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.2") (d #t) (k 0)))) (h "1mx1qhs56nca8s6rmjdms97j84i3vsf8y5wrpy8pl2xwc653jd2m")))
+
+(define-public crate-syn-prelude-0.1.8 (c (n "syn-prelude") (v "0.1.8") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.2") (d #t) (k 0)))) (h "1mbllihah3awca4danq2wiy84kqc7yiak9gg9jb6m0ic71p2ww2g")))
+
+(define-public crate-syn-prelude-0.1.9 (c (n "syn-prelude") (v "0.1.9") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.2") (d #t) (k 0)))) (h "138k0p68k0x92k29q3srv451i66z556wshzdvjdm8mwk05ihg27m")))
+
+(define-public crate-syn-prelude-0.1.10 (c (n "syn-prelude") (v "0.1.10") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.3") (d #t) (k 0)))) (h "1jb0n5zafk7l21n05iy0xr86sn365zs6mmnzb6kzz3fy1gaknwzd")))
+
+(define-public crate-syn-prelude-0.1.11 (c (n "syn-prelude") (v "0.1.11") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.3") (d #t) (k 0)))) (h "0xgnz19d3w8v885aci2659vm0bwzqd2q0s95bx0a5218w5hl4x9l")))
+
+(define-public crate-syn-prelude-0.1.12 (c (n "syn-prelude") (v "0.1.12") (d (list (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "syn-prelude-macros") (r "^0.1.3") (d #t) (k 0)))) (h "18xwlcnyz72g3dcap9j45nj8widld15jxbvlryxq2shvyn5bwi6i")))
+

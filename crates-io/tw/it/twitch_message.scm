@@ -1,0 +1,8 @@
+(define-module (crates-io tw it twitch_message) #:use-module (crates-io))
+
+(define-public crate-twitch_message-0.1.0 (c (n "twitch_message") (v "0.1.0") (d (list (d (n "hashbrown") (r "^0.13.2") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1l1hsrb8qd3rh4m8qcn36qh13ynhsa0ddgw815ikkag0njr5mfhd") (f (quote (("sync") ("std" "ping") ("ping") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "hashbrown/serde") ("parking_lot" "dep:parking_lot") ("hashbrown" "dep:hashbrown"))))))
+
+(define-public crate-twitch_message-0.1.1 (c (n "twitch_message") (v "0.1.1") (d (list (d (n "hashbrown") (r "^0.13.2") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0zr44ishdb11i1lbx3pis6rcb5a4mfqkb4bk7vsd06f1a8r1k0cb") (f (quote (("sync") ("std" "ping") ("ping") ("default")))) (s 2) (e (quote (("serde" "dep:serde" "hashbrown/serde") ("parking_lot" "dep:parking_lot") ("hashbrown" "dep:hashbrown"))))))
+
+(define-public crate-twitch_message-0.1.2 (c (n "twitch_message") (v "0.1.2") (d (list (d (n "hashbrown") (r "^0.13.2") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0.68") (d #t) (k 2)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 2)) (d (n "simple_env_load") (r "^0.2.0") (d #t) (k 2)))) (h "0ibrwa0f64dbxvpjcifvz1p2ysl32xrca9d960am6fxy136a1qqs") (f (quote (("sync") ("std" "ping") ("ping")))) (s 2) (e (quote (("serde" "dep:serde" "hashbrown/serde") ("parking_lot" "dep:parking_lot") ("hashbrown" "dep:hashbrown"))))))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io fi g_ fig_cli) #:use-module (crates-io))
+
+(define-public crate-fig_cli-0.1.0 (c (n "fig_cli") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "currency_rs_isotoxal") (r "^1.1.3") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "0s2177ihwfd6wf7fvfczbkl3q422xlfgs1qx8yb24hp2j06dn8gl")))
+
+(define-public crate-fig_cli-0.1.1 (c (n "fig_cli") (v "0.1.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "currency_rs_isotoxal") (r "^1.1.3") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "14jvf1wgzq4k9sjda5yyimcmmwwfg47s3p4l0036jx8fng8mainm")))
+
+(define-public crate-fig_cli-0.1.11 (c (n "fig_cli") (v "0.1.11") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^3.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "currency_rs_isotoxal") (r "^1.1.3") (d #t) (k 0)) (d (n "rustyline") (r "^11.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.160") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "toml") (r "^0.7.3") (d #t) (k 0)))) (h "1yi3ph8bbl0fpxv9j3ava8lgqx6q2h2h1l9hlwnr5pbp54cbfaj7")))
+

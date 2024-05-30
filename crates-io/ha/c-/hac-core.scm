@@ -1,0 +1,4 @@
+(define-module (crates-io ha c- hac-core) #:use-module (crates-io))
+
+(define-public crate-hac-core-0.1.0 (c (n "hac-core") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "hac-config") (r "^0.1.0") (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.1") (f (quote ("all-widgets" "crossterm"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "ropey") (r "^1.6.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.22.5") (d #t) (k 0)) (d (n "tree-sitter-json") (r "^0.21") (d #t) (k 0)))) (h "0pivg7dh5r9gqs9m6cjdqjp6zg62z6z84bqj9j29314ngy64zc2s")))
+

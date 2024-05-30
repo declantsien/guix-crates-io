@@ -1,0 +1,6 @@
+(define-module (crates-io st ar stark-curve) #:use-module (crates-io))
+
+(define-public crate-stark-curve-0.1.0 (c (n "stark-curve") (v "0.1.0") (d (list (d (n "ff") (r "^0.13") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "primeorder") (r "^0.13") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_dev") (r "^0.1") (d #t) (k 2)) (d (n "starknet-curve") (r "^0.1") (d #t) (k 2)) (d (n "starknet-ff") (r "^0.2") (d #t) (k 2)) (d (n "subtle") (r "^2") (d #t) (k 0)) (d (n "zeroize") (r "^1.5") (d #t) (k 0)))) (h "1k6vbiikfr8m6njr3kb0xjyq597bcfbqypyy7qbnf1hk643j4mzk")))
+
+(define-public crate-stark-curve-0.1.1 (c (n "stark-curve") (v "0.1.1") (d (list (d (n "ff") (r "^0.13") (f (quote ("derive"))) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3") (d #t) (k 0)) (d (n "primeorder") (r "^0.13") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_dev") (r "^0.1") (d #t) (k 2)) (d (n "starknet-curve") (r "^0.1") (d #t) (k 2)) (d (n "starknet-ff") (r "^0.2") (d #t) (k 2)) (d (n "subtle") (r "^2") (k 0)) (d (n "zeroize") (r "^1.5") (k 0)))) (h "088swj0x3q09lycz1w9qppv4jb0xx8cdnmc34kpkh11si5mfvzqk")))
+

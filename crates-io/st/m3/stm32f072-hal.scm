@@ -1,0 +1,4 @@
+(define-module (crates-io st m3 stm32f072-hal) #:use-module (crates-io))
+
+(define-public crate-stm32f072-hal-0.6.5 (c (n "stm32f072-hal") (v "0.6.5") (d (list (d (n "bare-metal") (r "^0.2.4") (f (quote ("const-fn"))) (d #t) (k 0)) (d (n "cast") (r "^0.2.2") (k 0)) (d (n "cortex-m") (r "^0.5.8") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.6.5") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.2") (f (quote ("unproven"))) (d #t) (k 0)) (d (n "ina260") (r "^0.2.3") (d #t) (k 2)) (d (n "nb") (r "^0.1.1") (d #t) (k 0)) (d (n "numtoa") (r "^0.2.3") (d #t) (k 2)) (d (n "panic-halt") (r "^0.2.0") (d #t) (k 2)) (d (n "stm32f0") (r "^0.4.0") (f (quote ("stm32f0x2" "rt"))) (d #t) (k 0)) (d (n "void") (r "^1.0.2") (k 0)))) (h "1gv1fjz2mp5l4vl1ibqp5bgl36ajdwwibr03xsj5lbw1d0dwbpw2") (f (quote (("rt") ("default" "rt"))))))
+

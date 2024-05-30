@@ -1,0 +1,4 @@
+(define-module (crates-io kv ar kvarn-tokio-uring) #:use-module (crates-io))
+
+(define-public crate-kvarn-tokio-uring-0.4.0-alpha1 (c (n "kvarn-tokio-uring") (v "0.4.0-alpha1") (d (list (d (n "bytes") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.26") (f (quote ("std"))) (k 0)) (d (n "iai") (r "^0.1.1") (d #t) (k 2)) (d (n "io-uring") (r "^0.6.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.80") (d #t) (k 0)) (d (n "nix") (r "^0.26.1") (d #t) (k 2)) (d (n "slab") (r "^0.4.2") (d #t) (k 0)) (d (n "socket2") (r "^0.4.4") (f (quote ("all"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.2.0") (d #t) (k 2)) (d (n "tokio") (r "^1.2") (f (quote ("net" "rt" "sync"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (d #t) (k 2)) (d (n "tokio-test") (r "^0.4.2") (d #t) (k 2)))) (h "1pynd7kcq8xylp4jpdchcm52yn59p4ibvql6hby05mp0hp1il7db")))
+

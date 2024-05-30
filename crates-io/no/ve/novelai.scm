@@ -1,0 +1,4 @@
+(define-module (crates-io no ve novelai) #:use-module (crates-io))
+
+(define-public crate-novelai-0.1.0 (c (n "novelai") (v "0.1.0") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "blake2") (r "^0.10.4") (d #t) (k 0)) (d (n "colored") (r "^2.0.0") (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "rpassword") (r "^7.0.0") (d #t) (k 0)) (d (n "rust-argon2") (r "^1.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.85") (d #t) (k 0)) (d (n "serde_with_macros") (r "^2.0.0") (d #t) (k 0)) (d (n "termion") (r "^1.5.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.33") (d #t) (k 0)) (d (n "tokio") (r "^1.20.1") (f (quote ("full"))) (d #t) (k 0)))) (h "1si1smqq0b3y987ynpflsj7bv9lan6a63qiv20950d7kc6hkkxkm") (y #t)))
+

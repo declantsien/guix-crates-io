@@ -1,0 +1,10 @@
+(define-module (crates-io gr ap grapevine) #:use-module (crates-io))
+
+(define-public crate-grapevine-0.1.0 (c (n "grapevine") (v "0.1.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (d #t) (k 0)) (d (n "hhmmss") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "message-io") (r "^0.11.1") (d #t) (k 0)) (d (n "petname") (r "^1.1.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "0bwk2qdz7cbg04s59bijrvgirv0bcza3gsk5xjycf5d375bps7fp")))
+
+(define-public crate-grapevine-0.1.1 (c (n "grapevine") (v "0.1.1") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (d #t) (k 0)) (d (n "hhmmss") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "message-io") (r "^0.11.1") (d #t) (k 0)) (d (n "petname") (r "^1.1.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "1wy3lw0x2zgp7cxx8j86v8zxnksh7pfdjpjakmnh4llllli5afsr")))
+
+(define-public crate-grapevine-0.1.2 (c (n "grapevine") (v "0.1.2") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (d #t) (k 0)) (d (n "hhmmss") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "message-io") (r "^0.11.1") (d #t) (k 0)) (d (n "petname") (r "^1.1.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1456ypijadqz2shhbj3rqifybm2gh8xgizzw1nkyagw0mzq8iirv")))
+
+(define-public crate-grapevine-0.1.3 (c (n "grapevine") (v "0.1.3") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.1.1") (d #t) (k 0)) (d (n "hhmmss") (r "^0.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "message-io") (r "^0.11.1") (d #t) (k 0)) (d (n "petname") (r "^1.1.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)))) (h "1wv1gj1frgkpvs72x8k09qhbg71icp6ccr50p4qcwjnkbgjscplx")))
+

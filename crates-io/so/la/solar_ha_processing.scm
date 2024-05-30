@@ -1,0 +1,6 @@
+(define-module (crates-io so la solar_ha_processing) #:use-module (crates-io))
+
+(define-public crate-solar_ha_processing-0.1.0 (c (n "solar_ha_processing") (v "0.1.0") (d (list (d (n "astro") (r "^2.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "fastblur") (r "^0.1.1") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "imageproc") (r "^0.22.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "sun") (r "^0.2.0") (d #t) (k 0)))) (h "01ihz2pcb7zxg1p10kaj6l78vvv550bb47n8iq8mb7wyd5sja871") (y #t)))
+
+(define-public crate-solar_ha_processing-0.2.0 (c (n "solar_ha_processing") (v "0.2.0") (d (list (d (n "astro") (r "^2.0.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "fastblur") (r "^0.1.1") (d #t) (k 0)) (d (n "image") (r "^0.23.14") (d #t) (k 0)) (d (n "imageproc") (r "^0.22.0") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)) (d (n "sciimg") (r "^0.1.3") (d #t) (k 0)) (d (n "sun") (r "^0.2.0") (d #t) (k 0)))) (h "1gi56jw4v6ypaj7r5zq433dkqp8wdq8x5xvnj1yq20h9vxr8x9j9") (y #t)))
+

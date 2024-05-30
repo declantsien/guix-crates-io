@@ -1,0 +1,28 @@
+(define-module (crates-io ed di eddie) #:use-module (crates-io))
+
+(define-public crate-eddie-0.1.0 (c (n "eddie") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "0lk862rdv5ixrndlwvr65vp53mgc6nipvk97bmzqaycnipl69753")))
+
+(define-public crate-eddie-0.2.0 (c (n "eddie") (v "0.2.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "0sj33m01w6i0s7bp8sw1d413fs8bkrhf4b22488sn4sbxqbwyran")))
+
+(define-public crate-eddie-0.2.1 (c (n "eddie") (v "0.2.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "1x7ycp4bwi53r1a6gsqznc13kg9xdrbipgw93qp94xxavcd3sx5w")))
+
+(define-public crate-eddie-0.2.2 (c (n "eddie") (v "0.2.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "140wn4l6p5xfp0cjmh4nlqn60z4slqly4slszj4v6lcjkqscskhh")))
+
+(define-public crate-eddie-0.2.3 (c (n "eddie") (v "0.2.3") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "1629qlj674671lfqli3qa1any4s2i0za5aq27vxp2xk7sr1gd3m2")))
+
+(define-public crate-eddie-0.2.4 (c (n "eddie") (v "0.2.4") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "1qc9k571pi8gyp0l27vami4b0489d4adxjwi1ypvmm1xhx6cy5nk")))
+
+(define-public crate-eddie-0.2.5 (c (n "eddie") (v "0.2.5") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "0myiwbmqzg2afx5bswdqjqqnxyqq223gi4sfsn54d4455s3fq8z9")))
+
+(define-public crate-eddie-0.3.0 (c (n "eddie") (v "0.3.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "0xqpkx10rn23fqbjqai70bcd0ycn3hr2p8my2fhrlcrdqcqkfzx5")))
+
+(define-public crate-eddie-0.3.1 (c (n "eddie") (v "0.3.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "1gk0gsr6m5a3b8x8jskc34dfik9b0s2k28j30x4i3niq3d5g9xvj")))
+
+(define-public crate-eddie-0.3.2 (c (n "eddie") (v "0.3.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "1yyrr4xak56n36wrzm0jzqzpsy12kw336xpmbk0153d7yjld9rc6")))
+
+(define-public crate-eddie-0.4.0 (c (n "eddie") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "1gh3l0mnns1hxabkc9kc4nl32jhnawg71rqgnc42jbc7f54krvap")))
+
+(define-public crate-eddie-0.4.1 (c (n "eddie") (v "0.4.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "11jyk8ywx1wc0sq3i4s5b9as9lsgid65hq21dzspjhb2zfls0h8c")))
+
+(define-public crate-eddie-0.4.2 (c (n "eddie") (v "0.4.2") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "distance") (r "^0.4") (d #t) (k 2)) (d (n "edit-distance") (r "^2.1.0") (d #t) (k 2)) (d (n "natural") (r "^0.3") (d #t) (k 2)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "strsim") (r "^0.9") (d #t) (k 2)) (d (n "txtdist") (r "^0.2") (d #t) (k 2)))) (h "06h5yw78d01f2gck795glnkzvws2k1dp7a4r55ix22hr7cc3db8j")))
+

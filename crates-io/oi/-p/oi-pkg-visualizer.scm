@@ -1,0 +1,6 @@
+(define-module (crates-io oi -p oi-pkg-visualizer) #:use-module (crates-io))
+
+(define-public crate-oi-pkg-visualizer-1.0.0 (c (n "oi-pkg-visualizer") (v "1.0.0") (d (list (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "oi-pkg-checker-core") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.4") (f (quote ("cors"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "1f3gdmcw4v60akncg2haa2d6g5wqlqvzlcb6bwqpdw9cgk9pwca0")))
+
+(define-public crate-oi-pkg-visualizer-1.1.0 (c (n "oi-pkg-visualizer") (v "1.1.0") (d (list (d (n "axum") (r "^0.6") (d #t) (k 0)) (d (n "fmri") (r "^0.2.1") (d #t) (k 0)) (d (n "oi-pkg-checker-core") (r "^0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tower-http") (r "^0.4") (f (quote ("cors"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("env-filter"))) (d #t) (k 0)))) (h "00xqzk7rjyi0g7dny1g5r8g7y6vqa9kyhqfxdi4k6ny7l4ah3x7p")))
+

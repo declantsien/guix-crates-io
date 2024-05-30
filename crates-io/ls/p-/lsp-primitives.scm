@@ -1,0 +1,4 @@
+(define-module (crates-io ls p- lsp-primitives) #:use-module (crates-io))
+
+(define-public crate-lsp-primitives-0.1.0 (c (n "lsp-primitives") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "bitcoin") (r "^0.31.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28.0") (d #t) (k 0)) (d (n "secp256k1") (r "^0.28.0") (f (quote ("rand"))) (d #t) (k 2)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 2)) (d (n "serde_path_to_error") (r "^0.1.14") (d #t) (k 0)) (d (n "time") (r "^0.3.30") (f (quote ("macros" "parsing" "formatting"))) (d #t) (k 0)) (d (n "uuid") (r "^1.5.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1yhnvrg3hd3r169lrn7bcmnamm7x316zy63b37mzr756n3wrdhx6")))
+

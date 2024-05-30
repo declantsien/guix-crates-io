@@ -1,0 +1,10 @@
+(define-module (crates-io wp _g wp_goji_patch) #:use-module (crates-io))
+
+(define-public crate-wp_goji_patch-0.2.4 (c (n "wp_goji_patch") (v "0.2.4") (d (list (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.9.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^1.6.1") (d #t) (k 0)))) (h "1k8ph5phxbd5almcipm392bmysa7r2cadz40pwm6iwz2iglj36wd")))
+
+(define-public crate-wp_goji_patch-0.2.5 (c (n "wp_goji_patch") (v "0.2.5") (d (list (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1332isdbn6h2m4wr4l3kfggimlj29pcia7s46b9slndzadfnr85c")))
+
+(define-public crate-wp_goji_patch-0.2.6 (c (n "wp_goji_patch") (v "0.2.6") (d (list (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0x6fghwbzhdk8dd5822ifh1kmh1zx5fzr1vcn98jfhwfb1lfcib4")))
+
+(define-public crate-wp_goji_patch-0.2.8 (c (n "wp_goji_patch") (v "0.2.8") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.4") (d #t) (k 2)) (d (n "log") (r "^0.4.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("blocking"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1jxzjqg3q0qbhsii6aggn9qc78x8yl2kyngjah5gb9a180rmc2v5") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("native-tls-vendored" "reqwest/native-tls-vendored") ("native-tls" "reqwest/native-tls") ("default"))))))
+

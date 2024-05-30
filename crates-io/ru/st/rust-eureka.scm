@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rust-eureka) #:use-module (crates-io))
+
+(define-public crate-rust-eureka-0.1.0 (c (n "rust-eureka") (v "0.1.0") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "option-filter") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "test-logger") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.5.1") (d #t) (k 0)))) (h "0byxnjlqrcj0yq1g6s5a2xrilnplbi1agrza7ri1sbmz8mcyxd1k")))
+
+(define-public crate-rust-eureka-0.1.1 (c (n "rust-eureka") (v "0.1.1") (d (list (d (n "futures") (r "^0.1") (d #t) (k 0)) (d (n "hyper") (r "^0.11") (d #t) (k 0)) (d (n "log") (r "^0.3.8") (d #t) (k 0)) (d (n "option-filter") (r "^1.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "test-logger") (r "^0.1") (d #t) (k 0)) (d (n "tokio-core") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^1.5.1") (d #t) (k 0)))) (h "031c4frl7k002kndr08k41hy762nhiz3mwv3varvycpbqknfc64c")))
+

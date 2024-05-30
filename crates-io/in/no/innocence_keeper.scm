@@ -1,0 +1,8 @@
+(define-module (crates-io in no innocence_keeper) #:use-module (crates-io))
+
+(define-public crate-innocence_keeper-0.0.1-alpha1 (c (n "innocence_keeper") (v "0.0.1-alpha1") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11") (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)))) (h "13bnmassfnzkwjqc7h9nik94bf73p2gmj62bqqqpzgbz78s0chry")))
+
+(define-public crate-innocence_keeper-0.0.1-alpha2 (c (n "innocence_keeper") (v "0.0.1-alpha2") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11") (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)))) (h "1spv7yxk8sc0qgw2pwcvx9njbixnjk28n9i0df9i2y07glnzq46w")))
+
+(define-public crate-innocence_keeper-0.0.1-alpha3 (c (n "innocence_keeper") (v "0.0.1-alpha3") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_complete") (r "^4.5.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11") (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)))) (h "193dk5drs5zzanszz7z5nd9m8c1f9j56q17j7670jh2iqmw4nhz1")))
+

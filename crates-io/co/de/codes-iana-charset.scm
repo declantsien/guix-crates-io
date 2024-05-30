@@ -1,0 +1,10 @@
+(define-module (crates-io co de codes-iana-charset) #:use-module (crates-io))
+
+(define-public crate-codes-iana-charset-0.1.0 (c (n "codes-iana-charset") (v "0.1.0") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "0461n1n1asf8m8cg3m5hdz2rn909yxv4h1ma1518yxnfl3v03dy2") (f (quote (("default" "serde"))))))
+
+(define-public crate-codes-iana-charset-0.1.1 (c (n "codes-iana-charset") (v "0.1.1") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "1qh4rsy7zqr19z6j8cfz7c6l7x8frir7wpapypr6k5n25a06d3nb") (f (quote (("default" "serde"))))))
+
+(define-public crate-codes-iana-charset-0.1.2 (c (n "codes-iana-charset") (v "0.1.2") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "1w2z70mywc5yh6ka68zj17gxm8klgws3gqs0l73jjc92c3i55wz5") (f (quote (("default" "serde"))))))
+
+(define-public crate-codes-iana-charset-0.1.3 (c (n "codes-iana-charset") (v "0.1.3") (d (list (d (n "codes-agency") (r ">=0.1.3") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (d #t) (k 0)) (d (n "codes-common") (r "^0.1") (f (quote ("csv_tools"))) (d #t) (k 1)) (d (n "csv") (r "^1.1") (d #t) (k 1)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tera") (r "^1.17") (d #t) (k 1)))) (h "1zzni30cms4y5mj746vi8nkfc5pjznr9blpq2g78q4k4lvngq1bh") (f (quote (("default" "serde"))))))
+

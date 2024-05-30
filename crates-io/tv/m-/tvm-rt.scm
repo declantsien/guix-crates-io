@@ -1,0 +1,4 @@
+(define-module (crates-io tv m- tvm-rt) #:use-module (crates-io))
+
+(define-public crate-tvm-rt-0.1.0-alpha (c (n "tvm-rt") (v "0.1.0-alpha") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "mashup") (r "^0.1") (d #t) (k 0)) (d (n "memoffset") (r "^0.5.6") (d #t) (k 0)) (d (n "ndarray") (r "^0.12") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.3.1") (d #t) (k 0)) (d (n "paste") (r "^0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tvm-macros") (r "^0.1.1-alpha") (d #t) (k 0)) (d (n "tvm-sys") (r "^0.1.1-alpha") (k 0)))) (h "0xrcx9if0mdg3906fjw7yr50gjvh7jg4b4wjzik2l08acs79mx0c") (f (quote (("static-linking" "tvm-sys/static-linking") ("dynamic-linking" "tvm-sys/dynamic-linking") ("default" "dynamic-linking") ("blas" "ndarray/blas"))))))
+

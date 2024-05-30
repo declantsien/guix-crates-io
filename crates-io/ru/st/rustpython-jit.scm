@@ -1,0 +1,6 @@
+(define-module (crates-io ru st rustpython-jit) #:use-module (crates-io))
+
+(define-public crate-rustpython-jit-0.3.0 (c (n "rustpython-jit") (v "0.3.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "cranelift") (r "^0.88.0") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.88.0") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.88.0") (d #t) (k 0)) (d (n "libffi") (r "^3.1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rustpython-compiler-core") (r "^0.3.0") (d #t) (k 0)) (d (n "rustpython-derive") (r "^0.3.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "15m2i6mds5cfbr5zmv3y0h069awah08ifw92akj749hqc5a2c794")))
+
+(define-public crate-rustpython-jit-0.3.1 (c (n "rustpython-jit") (v "0.3.1") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "cranelift") (r "^0.88.0") (d #t) (k 0)) (d (n "cranelift-jit") (r "^0.88.0") (d #t) (k 0)) (d (n "cranelift-module") (r "^0.88.0") (d #t) (k 0)) (d (n "libffi") (r "^3.1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rustpython-compiler-core") (r "^0.3.1") (d #t) (k 0)) (d (n "rustpython-derive") (r "^0.3.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0wngg7ws36hh9dg3nl5zx2749pad9mlfrfa1hdqpm3i2j7ndm0n9")))
+

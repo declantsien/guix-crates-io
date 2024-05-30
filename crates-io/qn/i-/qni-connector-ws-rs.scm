@@ -1,0 +1,16 @@
+(define-module (crates-io qn i- qni-connector-ws-rs) #:use-module (crates-io))
+
+(define-public crate-qni-connector-ws-rs-0.2.0 (c (n "qni-connector-ws-rs") (v "0.2.0") (d (list (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.2.0") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.13") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "1kinqkkdy5r7kw7yjg0pcrzls2k1frm6fxsyikp5f6h53i095xpz") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+
+(define-public crate-qni-connector-ws-rs-0.2.1 (c (n "qni-connector-ws-rs") (v "0.2.1") (d (list (d (n "borrowed-thread") (r "^0.1.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.2.2") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.13") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "1c1zd21x60lcw0qmhk7xai50jb3lqlrcmg524xjyinp6y4da7gqf") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+
+(define-public crate-qni-connector-ws-rs-0.2.2 (c (n "qni-connector-ws-rs") (v "0.2.2") (d (list (d (n "borrowed-thread") (r "^0.1.3") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.2.2") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.13") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "1zsjcx3lh38zsy6pj7b461jgxbsan67r8637b5ar2316a0b3zzsa") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+
+(define-public crate-qni-connector-ws-rs-0.2.3 (c (n "qni-connector-ws-rs") (v "0.2.3") (d (list (d (n "borrowed-thread") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.2.2") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.13") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "0kyv02cj0zbmqbgs4bfl308hakfrbjjdlk2baxp3ssi7d24jwq61") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+
+(define-public crate-qni-connector-ws-rs-0.2.4 (c (n "qni-connector-ws-rs") (v "0.2.4") (d (list (d (n "borrowed-thread") (r "^0.1.3") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.2.4") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.13") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "1v8sr5w09ig67wfrvcivynjnz7h3cwxxp9pgh53lg4qql5zqyla3") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+
+(define-public crate-qni-connector-ws-rs-0.2.5 (c (n "qni-connector-ws-rs") (v "0.2.5") (d (list (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "openssl") (r "^0.10") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.2.4") (d #t) (k 0)) (d (n "simple-error") (r "^0.1.13") (d #t) (k 0)) (d (n "ws") (r "^0.7.9") (d #t) (k 0)))) (h "10aa0gg1vsdfv8a2q590hynqzw9g9jdk7bc6a1rw29h3h3k9wf7c") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+
+(define-public crate-qni-connector-ws-rs-0.2.6 (c (n "qni-connector-ws-rs") (v "0.2.6") (d (list (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "openssl") (r "^0.10.25") (o #t) (d #t) (k 0)) (d (n "qni-core-rs") (r "^0.3.2") (d #t) (k 0)) (d (n "ws") (r "^0.9.1") (d #t) (k 0)))) (h "0clmhw1x5mj27xx7y8gg9lkldrl0df18svwrj39prs0jjhf2rx2j") (f (quote (("ssl" "ws/ssl" "openssl") ("default"))))))
+

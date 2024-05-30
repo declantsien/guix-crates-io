@@ -1,0 +1,4 @@
+(define-module (crates-io re bg rebg) #:use-module (crates-io))
+
+(define-public crate-rebg-0.1.0 (c (n "rebg") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "argh") (r "^0.1.10") (d #t) (k 0)) (d (n "bitflags") (r "^2.3.1") (d #t) (k 0)) (d (n "bollard") (r "^0.15.0") (d #t) (k 0)) (d (n "capstone") (r "^0.11.0") (d #t) (k 0)) (d (n "flume") (r "^0.10.14") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "goblin") (r "^0.6.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "oneshot") (r "^0.1.5") (d #t) (k 0)) (d (n "regex") (r "^1.8.3") (d #t) (k 0)) (d (n "tar") (r "^0.4.40") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tokio") (r "^1.32.0") (d #t) (k 0)))) (h "0n2259vfibf792df8wzijcvpw1g89pg4irniczm05wgxprkjrhwm")))
+

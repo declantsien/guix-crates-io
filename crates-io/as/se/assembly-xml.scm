@@ -1,0 +1,6 @@
+(define-module (crates-io as se assembly-xml) #:use-module (crates-io))
+
+(define-public crate-assembly-xml-0.1.0 (c (n "assembly-xml") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.5") (d #t) (k 2)) (d (n "displaydoc") (r "^0.1.5") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20") (f (quote ("encoding"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hjxxdlq5skh08qjdgai43rmpfs5aymjzp55418mbks04s7xw9sn") (f (quote (("serialize" "serde" "quick-xml/serialize") ("default" "serialize"))))))
+
+(define-public crate-assembly-xml-0.3.0 (c (n "assembly-xml") (v "0.3.0") (d (list (d (n "argh") (r "^0.1.4") (d #t) (k 2)) (d (n "color-eyre") (r "^0.5") (d #t) (k 2)) (d (n "displaydoc") (r "^0.1.5") (d #t) (k 0)) (d (n "quick-xml") (r "^0.20") (f (quote ("encoding"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.61") (d #t) (k 2)) (d (n "serde_path_to_error") (r "^0.1") (d #t) (k 2)) (d (n "structopt") (r "^0.3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1np2jxqb5nafqiypmcb0y45cw4glkr40ydvzv3vm9ipdqqiw8dml") (f (quote (("serialize" "serde" "quick-xml/serialize") ("default" "serialize"))))))
+

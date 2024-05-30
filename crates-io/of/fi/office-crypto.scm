@@ -1,0 +1,4 @@
+(define-module (crates-io of fi office-crypto) #:use-module (crates-io))
+
+(define-public crate-office-crypto-0.1.0 (c (n "office-crypto") (v "0.1.0") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "base64") (r "^0.21.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.12.3") (d #t) (k 0)) (d (n "cbc") (r "^0.1.2") (f (quote ("block-padding"))) (d #t) (k 0)) (d (n "derivative") (r "^2.2.0") (d #t) (k 0)) (d (n "ecb") (r "^0.1.1") (d #t) (k 0)) (d (n "packed_struct") (r "^0.10") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27.1") (d #t) (k 0)) (d (n "sha1") (r "^0.10.5") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.38") (d #t) (k 0)) (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "docx") (r "^1.1.2") (d #t) (k 2)))) (h "0c68v35s8wsvxw2w0xypg4h4gjj53ygg6g0safz4ys850q868qrh")))
+

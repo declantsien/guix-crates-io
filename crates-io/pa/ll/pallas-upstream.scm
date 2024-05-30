@@ -1,0 +1,4 @@
+(define-module (crates-io pa ll pallas-upstream) #:use-module (crates-io))
+
+(define-public crate-pallas-upstream-0.19.0-alpha.0 (c (n "pallas-upstream") (v "0.19.0-alpha.0") (d (list (d (n "async-trait") (r "^0.1.68") (d #t) (k 0)) (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "gasket") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "pallas-codec") (r "^0.19.0-alpha.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "^0.19.0-alpha.0") (d #t) (k 0)) (d (n "pallas-network") (r "^0.19.0-alpha.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "^0.19.0-alpha.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("net" "macros" "io-util"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.16") (d #t) (k 2)))) (h "0fjdhnmsjwkbvy6blgzh9fmka9ivgf5npfyakj93ns1cgdvd1vmr")))
+

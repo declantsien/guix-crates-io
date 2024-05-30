@@ -1,0 +1,12 @@
+(define-module (crates-io ww id wwida) #:use-module (crates-io))
+
+(define-public crate-wwida-1.0.0 (c (n "wwida") (v "1.0.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0pci11pq6h1hj58jgjr19g00d3gvz1ijw80wn52pd2mg9cjfivdg")))
+
+(define-public crate-wwida-1.1.0 (c (n "wwida") (v "1.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0z0gza838vgk53fwfhar7rixqx19fxxn25s4h7ycwvdwr57cjx6k")))
+
+(define-public crate-wwida-1.2.0 (c (n "wwida") (v "1.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0115ji8lgyndn0famxhb1nnznvx92ls72vi5k80clq4bx37kl91p")))
+
+(define-public crate-wwida-1.2.1 (c (n "wwida") (v "1.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0g2ma277zp6x5mjgbkfgdllj0gsiz47xvcx73x82g2kb7q22w0z8")))
+
+(define-public crate-wwida-1.3.0 (c (n "wwida") (v "1.3.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bson") (r "^2.3.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^3.2.16") (f (quote ("derive"))) (d #t) (k 0)) (d (n "home") (r "^0.5.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0jpmlh6ln8wxb4f31al0vwccqd4yznqqgmcyb4p8zw294rsnmdir")))
+

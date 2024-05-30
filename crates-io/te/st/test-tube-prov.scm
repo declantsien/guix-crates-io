@@ -1,0 +1,4 @@
+(define-module (crates-io te st test-tube-prov) #:use-module (crates-io))
+
+(define-public crate-test-tube-prov-0.1.0-rc1 (c (n "test-tube-prov") (v "0.1.0-rc1") (d (list (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "cosmrs") (r "^0.14.0") (f (quote ("cosmwasm" "rpc"))) (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.5") (f (quote ("stargate"))) (d #t) (k 0)) (d (n "cw1-whitelist") (r "^0.15.0") (d #t) (k 2)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "provwasm-std") (r "^2.2.0") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tendermint-proto") (r "^0.32.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0qbz6xikkv32ax9gpg6mckcqdrypap7z7kx7jklpxlj25mfmh9j6")))
+

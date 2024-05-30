@@ -1,0 +1,22 @@
+(define-module (crates-io cr is crisp-status-reporter) #:use-module (crates-io))
+
+(define-public crate-crisp-status-reporter-1.0.0 (c (n "crisp-status-reporter") (v "1.0.0") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "1w54r3b8ygxjhzc58md7bsm88wmmbzqwzyqxz3f0mh6dbx8zvqhb")))
+
+(define-public crate-crisp-status-reporter-1.0.1 (c (n "crisp-status-reporter") (v "1.0.1") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "1g1azcp0rw4858igzmdh8m5b83mcrv17ajgiciwx68pj84xszjy4")))
+
+(define-public crate-crisp-status-reporter-1.1.0 (c (n "crisp-status-reporter") (v "1.1.0") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "0zp83493jhhhsyji4sxqpxs7k1zaxnp18w75rnbqlk6zjdx74vg5")))
+
+(define-public crate-crisp-status-reporter-1.1.1 (c (n "crisp-status-reporter") (v "1.1.1") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "0iq5lq525b766p1pnkfx01qqw70p0sa5ydsjksf0jrgw8fvpval3")))
+
+(define-public crate-crisp-status-reporter-1.1.2 (c (n "crisp-status-reporter") (v "1.1.2") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "0nk79zdy3bgkq9d5ka9wv0dz1apj9plav2zrl442x1qv829rw8qi")))
+
+(define-public crate-crisp-status-reporter-1.2.0 (c (n "crisp-status-reporter") (v "1.2.0") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "1fy1kr66k1xy7pwgcjbhcdyci6sfvbnirdpzy2bsrnszzxi4bxac")))
+
+(define-public crate-crisp-status-reporter-1.2.1 (c (n "crisp-status-reporter") (v "1.2.1") (d (list (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.5") (d #t) (k 0)))) (h "1p9l2vabgcjhkqkqsdvdsxbnxjkhic9dpdr9yy16r2crwc30hsys")))
+
+(define-public crate-crisp-status-reporter-1.3.0 (c (n "crisp-status-reporter") (v "1.3.0") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls-tls" "gzip" "blocking" "json"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.7") (d #t) (k 0)))) (h "1yzjjdv0skpckvpafsfkgnfilgq60p8dxf64w4fplvk3a63nlccm")))
+
+(define-public crate-crisp-status-reporter-1.3.1 (c (n "crisp-status-reporter") (v "1.3.1") (d (list (d (n "base64") (r "^0.12") (d #t) (k 0)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.10") (f (quote ("rustls-tls" "gzip" "blocking" "json"))) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.7") (d #t) (k 0)))) (h "0s1vnlvx5m415jm0w5qqbx4plq18vc3ng2z3k7wfxvln8z5c5c2k")))
+
+(define-public crate-crisp-status-reporter-1.4.0 (c (n "crisp-status-reporter") (v "1.4.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "http_req") (r "^0.9") (f (quote ("rust-tls"))) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "sys-info") (r "^0.9") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (k 2)))) (h "1bs6fcragh8qwqfm2zka94lw7sgv8cfkdaam2w5kcyadin1w7q4d")))
+

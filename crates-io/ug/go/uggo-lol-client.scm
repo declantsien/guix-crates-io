@@ -1,0 +1,12 @@
+(define-module (crates-io ug go uggo-lol-client) #:use-module (crates-io))
+
+(define-public crate-uggo-lol-client-0.1.0 (c (n "uggo-lol-client") (v "0.1.0") (d (list (d (n "league-client-connector") (r "^0.1.2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "ugg-types") (r "^0.4.0") (d #t) (k 0)) (d (n "ureq") (r "^2.8.0") (f (quote ("native-tls" "brotli" "json"))) (d #t) (k 0)))) (h "0736m7pjk4z1zk1lxd9kgcl8nafyc4j7sqwp0bfbvx2dk6sgayg1") (r "1.74")))
+
+(define-public crate-uggo-lol-client-0.1.1 (c (n "uggo-lol-client") (v "0.1.1") (d (list (d (n "league-client-connector") (r "^0.1.2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "ugg-types") (r "^0.4.1") (d #t) (k 0)) (d (n "ureq") (r "^2.9.0") (f (quote ("native-tls" "brotli" "json"))) (d #t) (k 0)))) (h "01sc87vrj54kh1b6q3q3075v758s6cxs0k49lnaq8f8rzsgn82sy") (r "1.74")))
+
+(define-public crate-uggo-lol-client-0.2.0 (c (n "uggo-lol-client") (v "0.2.0") (d (list (d (n "league-client-connector") (r "^0.1.2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)) (d (n "ugg-types") (r "^0.5.0") (d #t) (k 0)) (d (n "ureq") (r "^2.9.1") (f (quote ("native-tls" "brotli" "json"))) (d #t) (k 0)))) (h "1x3p9lwhfaxzyyqjak8d8y62gfrw47lgzc0spi3cgpgl936xz5vs") (r "1.74")))
+
+(define-public crate-uggo-lol-client-0.2.1 (c (n "uggo-lol-client") (v "0.2.1") (d (list (d (n "league-client-connector") (r "^0.1.2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "ugg-types") (r "^0.5.1") (d #t) (k 0)) (d (n "ureq") (r "^2.9.1") (f (quote ("native-tls" "brotli" "json"))) (d #t) (k 0)))) (h "1f72a3xiraclf4llmd0lxpg1309adpaldljnhrlfa1dhaza2w6q0") (r "1.74")))
+
+(define-public crate-uggo-lol-client-0.2.2 (c (n "uggo-lol-client") (v "0.2.2") (d (list (d (n "league-client-connector") (r "^0.1.2") (d #t) (k 0)) (d (n "native-tls") (r "^0.2.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "ugg-types") (r "^0.5.2") (d #t) (k 0)) (d (n "ureq") (r "^2.9.6") (f (quote ("native-tls" "brotli" "json"))) (d #t) (k 0)))) (h "1vly7swy29vq3hwqdc5x2asbpjcvczgza9x3qm1wqicvvpd85lrw") (r "1.74")))
+

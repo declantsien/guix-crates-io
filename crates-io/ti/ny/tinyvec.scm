@@ -1,0 +1,64 @@
+(define-module (crates-io ti ny tinyvec) #:use-module (crates-io))
+
+(define-public crate-tinyvec-0.0.0 (c (n "tinyvec") (v "0.0.0") (h "16sbmmdlgj6xjq9k34d6rira61cgsckxrmmk3khbw0kvvcjw4b43")))
+
+(define-public crate-tinyvec-0.1.0 (c (n "tinyvec") (v "0.1.0") (h "06ykwj47g362ckd8k2f5rc8f660x20ir69mnqp19p7g5vzd66x3p") (f (quote (("nightly_slice_partition_dedup") ("extern_crate_alloc") ("default" "extern_crate_alloc"))))))
+
+(define-public crate-tinyvec-0.1.1 (c (n "tinyvec") (v "0.1.1") (h "0l5yi6jywsyq7whp8b5wp73xgkppbcfglzn3n3lr7c61140g0wpd") (f (quote (("nightly_slice_partition_dedup") ("extern_crate_alloc") ("default" "extern_crate_alloc"))))))
+
+(define-public crate-tinyvec-0.1.2 (c (n "tinyvec") (v "0.1.2") (h "16x2gf5ima35sy3npdh3kmym4qm6dnpga0bjpfk247wf2lw5mzq2") (f (quote (("nightly_slice_partition_dedup") ("extern_crate_alloc") ("default" "extern_crate_alloc"))))))
+
+(define-public crate-tinyvec-0.2.0 (c (n "tinyvec") (v "0.2.0") (h "1s46giz5d511kv3ab5llpi0if3lq4q25k4x0cf8ynwqn4j19c25r") (f (quote (("nightly_slice_partition_dedup") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.3.0 (c (n "tinyvec") (v "0.3.0") (h "1g1f5i7c9il8fgw8kls50iwq7lf56d4qdv9sa6b7pghj3nag56lm") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.3.1 (c (n "tinyvec") (v "0.3.1") (h "17spzfhanhz4lv72s3l61mldk581qd97mz2g873yscrr3hqp17zj") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.3.2 (c (n "tinyvec") (v "0.3.2") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "178rjf5srhvpi8l9hnm2nbzgl4jvsgmhap47jx3rv43b3509k8j6") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.3.3 (c (n "tinyvec") (v "0.3.3") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "1vgg2z317kq75bpd0nfda2v507qjpd7g2cjahjgivn2s78nkv5ak") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.4.0-alpha.1 (c (n "tinyvec") (v "0.4.0-alpha.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "06qrpik2npmrz1lqwq20nwkdrg5y3qsa4qhmwk91x51b1s66vciw") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("experimental_array_set") ("default") ("alloc")))) (y #t)))
+
+(define-public crate-tinyvec-0.4.0-alpha.2 (c (n "tinyvec") (v "0.4.0-alpha.2") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "0ll94qcb9q07dd63bi6h56dxnrwmif0zzq4w6k74kr4z3vn3n7b9") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("experimental_array_set") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.4.0-alpha.4 (c (n "tinyvec") (v "0.4.0-alpha.4") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "1wib4jw5dn7cb6nclkmj045agd5pgwszzr7gm2gnymglfhgqf7bi") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("experimental_array_set") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.4.0 (c (n "tinyvec") (v "0.4.0") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "1bzn5rlndixmvllq45gaff2wv52is4a6sqw1v7llva02fy1nrinh") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("experimental_array_set") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-0.4.1 (c (n "tinyvec") (v "0.4.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "1prx5j05kf9c99hvparjm9bhv46j4v89inz6fw45y1ndb8z9ll1x") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("experimental_array_set") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-1.0.0-alpha.1 (c (n "tinyvec") (v "1.0.0-alpha.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "05vsfl54wwxi9gqky6r3kb9fjyv18slwcs4w0dq726m149wcg6w7") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.0.0-alpha.2 (c (n "tinyvec") (v "1.0.0-alpha.2") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1s3h1xsm4cbg387j80lhfg0xsp2d40sjg6n96g3zdwwlcix13is1") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.0.0-alpha.3 (c (n "tinyvec") (v "1.0.0-alpha.3") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0sp52ja5i3pcb6r1gzjvhi6hc6if33df63g43595cwmnqj6mp41m") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-0.3.4 (c (n "tinyvec") (v "0.3.4") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)))) (h "05vijqpckjsnbv07rwadwcny4pkcq7z1wi9ikl7p3ib7s9qy1313") (f (quote (("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc"))))))
+
+(define-public crate-tinyvec-1.0.0-alpha.4 (c (n "tinyvec") (v "1.0.0-alpha.4") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0dayh937bgd31nf3hyx9ycfhcms2vb3vjigkfvz8mv8112f5ybyr") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.0.0 (c (n "tinyvec") (v "1.0.0") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1qbn21gbvl9gaqgb4xsjb9xigpa4c3476m9y32fyj56br99sacgk") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.0.1 (c (n "tinyvec") (v "1.0.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0xc5wbmd3had09zj52ms6zlx7z9g219cb3faaanx41pm0dlkd2mp") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.1.0-alpha.1 (c (n "tinyvec") (v "1.1.0-alpha.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1ynkxb1i0qb8d5bkka7sy1y8z941h73347rz4skj7x92l97c5hsx") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.1.0 (c (n "tinyvec") (v "1.1.0") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0vva61rhzvgyvc0n6vbjn8a2q3mm5wlfrapyx08blbxlkv0xpy6c") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.1.1 (c (n "tinyvec") (v "1.1.1") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "08qhf0a9vxf85bj1hd38i8qzwiwm6v4vvwd11k7c728f59bwlz1i") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.2.0 (c (n "tinyvec") (v "1.2.0") (d (list (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0hn3fkpb9nca9nf9znz2dxlp4ccv37hnbh67aczpzpmpbgq20ljv") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.3.0 (c (n "tinyvec") (v "1.3.0") (d (list (d (n "arbitrary") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1q23xjrlkp9pqikfffbw5g105gwbaw6nw1ssznf2fx8gppaf3hja") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.3.1 (c (n "tinyvec") (v "1.3.1") (d (list (d (n "arbitrary") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0f2kkgsf1ivxdjyznzg6xlcivc99krs9584nbqxpbxmrh48ix2l4") (f (quote (("rustc_1_40") ("nightly_slice_partition_dedup") ("nightly_const_generics") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.4.0 (c (n "tinyvec") (v "1.4.0") (d (list (d (n "arbitrary") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "11m9pm752zxwm1afm2sbzmickv9wdlb8nw9jnh33cfj445pxshaj") (f (quote (("rustc_1_55" "rustc_1_40") ("rustc_1_40") ("nightly_slice_partition_dedup") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.5.0 (c (n "tinyvec") (v "1.5.0") (d (list (d (n "arbitrary") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1xwiycwfl80737i952adpn1qawdi20kxr97bsymx14ch9lyjlfzq") (f (quote (("std") ("rustc_1_55" "rustc_1_40") ("rustc_1_40") ("nightly_slice_partition_dedup") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.5.1 (c (n "tinyvec") (v "1.5.1") (d (list (d (n "arbitrary") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1lnqnva56673r0d40586rkzyl2qqcz19wm29q8h5a95n89d1s71c") (f (quote (("std") ("rustc_1_55" "rustc_1_40") ("rustc_1_40") ("real_blackbox" "criterion/real_blackbox") ("nightly_slice_partition_dedup") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+
+(define-public crate-tinyvec-1.6.0 (c (n "tinyvec") (v "1.6.0") (d (list (d (n "arbitrary") (r "^1") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.3.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_test") (r "^1.0") (d #t) (k 2)) (d (n "smallvec") (r "^1") (d #t) (k 2)) (d (n "tinyvec_macros") (r "^0.1") (o #t) (d #t) (k 0)))) (h "0l6bl2h62a5m44jdnpn7lmj14rd44via8180i7121fvm73mmrk47") (f (quote (("std" "alloc") ("rustc_1_57" "rustc_1_55") ("rustc_1_55" "rustc_1_40") ("rustc_1_40") ("real_blackbox" "criterion/real_blackbox") ("nightly_slice_partition_dedup") ("grab_spare_slice") ("experimental_write_impl") ("default") ("alloc" "tinyvec_macros"))))))
+

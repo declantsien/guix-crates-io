@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hyperlocal-next) #:use-module (crates-io))
+
+(define-public crate-hyperlocal-next-0.9.0 (c (n "hyperlocal-next") (v "0.9.0") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "http-body-util") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "hyper") (r "^1.1") (d #t) (k 0)) (d (n "hyper-util") (r "^0.1.2") (o #t) (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 2)) (d (n "tokio") (r "^1.35") (f (quote ("net"))) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("io-std" "io-util" "macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tower-service") (r "^0.3") (o #t) (d #t) (k 0)))) (h "1k0d0x64gs0ycm56m362vn241wxdyj07ph2q0d8qx1597za6kxdc") (f (quote (("server" "hyper/http1" "hyper/server" "hyper-util/tokio") ("default" "client") ("client" "http-body-util" "hyper/client" "hyper/http1" "hyper-util/client-legacy" "hyper-util/http1" "hyper-util/tokio" "tower-service"))))))
+

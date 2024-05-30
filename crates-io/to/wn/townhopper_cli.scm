@@ -1,0 +1,6 @@
+(define-module (crates-io to wn townhopper_cli) #:use-module (crates-io))
+
+(define-public crate-townhopper_cli-0.1.0 (c (n "townhopper_cli") (v "0.1.0") (d (list (d (n "chrono") (r ">= 0.4") (d #t) (k 0)) (d (n "chrono-systemd-time") (r ">= 0.1") (d #t) (k 0)) (d (n "clap") (r ">= 2.32") (d #t) (k 0)) (d (n "config") (r ">= 0.9") (d #t) (k 0)) (d (n "lazy_static") (r ">= 1.2") (d #t) (k 0)) (d (n "log") (r ">= 0.4") (d #t) (k 0)) (d (n "rusqlite") (r ">= 0.16") (d #t) (k 0)) (d (n "stderrlog") (r ">= 0.4") (d #t) (k 0)) (d (n "townhopper") (r ">= 0.1") (d #t) (k 0)) (d (n "xdg") (r ">= 2.2") (d #t) (k 0)))) (h "1zs35pmd3vqcakgzgr6pgpxxxnyg9hb3s39yf9577260w4328iiq")))
+
+(define-public crate-townhopper_cli-0.1.1 (c (n "townhopper_cli") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "chrono-systemd-time") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^2.32") (d #t) (k 0)) (d (n "config") (r "^0.9") (d #t) (k 0)) (d (n "lazy_static") (r "^1.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rusqlite") (r "^0.19") (d #t) (k 0)) (d (n "stderrlog") (r "^0.4") (d #t) (k 0)) (d (n "townhopper") (r "= 0.1.1") (d #t) (k 0)) (d (n "xdg") (r "^2.2") (d #t) (k 0)))) (h "1z673yivrcckbyxxid2dr0zpkqpyrga1syrw7d52awnlpwwbfab0")))
+

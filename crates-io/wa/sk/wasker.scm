@@ -1,0 +1,6 @@
+(define-module (crates-io wa sk wasker) #:use-module (crates-io))
+
+(define-public crate-wasker-0.1.0 (c (n "wasker") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "inkwell") (r "^0.1.1") (f (quote ("llvm15-0"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.3.0") (d #t) (k 0)) (d (n "wabt") (r "^0.9.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.102.0") (d #t) (k 0)) (d (n "wat") (r "^1.0.67") (d #t) (k 0)))) (h "12f09fxxrhh8zh4q5ykjf41c0wjk6v6sbnqlvfaxbpg1cdicn63f")))
+
+(define-public crate-wasker-0.1.1 (c (n "wasker") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "inkwell") (r "^0.1.1") (f (quote ("llvm15-0"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty-hex") (r "^0.3.0") (d #t) (k 0)) (d (n "wabt") (r "^0.9.0") (d #t) (k 0)) (d (n "wasmparser") (r "^0.102.0") (d #t) (k 0)) (d (n "wat") (r "^1.0.67") (d #t) (k 0)))) (h "0856w8dgmk2cfmhk49bd5iql53f4rc9zb1wdlaix842dfhakcdhw")))
+

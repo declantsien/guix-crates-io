@@ -1,0 +1,4 @@
+(define-module (crates-io mi cr microformats_parser) #:use-module (crates-io))
+
+(define-public crate-microformats_parser-0.2.0 (c (n "microformats_parser") (v "0.2.0") (d (list (d (n "assert-json-diff") (r "^2.0.1") (d #t) (k 2)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "html5ever") (r "^0.22.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.127") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.48") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1y9zgjpm6i7n7wj3xilsf6k7vmcn8046qji9kj00qw2rkflwsgra") (y #t)))
+

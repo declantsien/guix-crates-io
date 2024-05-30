@@ -1,0 +1,24 @@
+(define-module (crates-io ad i_ adi_gpu) #:use-module (crates-io))
+
+(define-public crate-adi_gpu-0.1.0 (c (n "adi_gpu") (v "0.1.0") (d (list (d (n "afi") (r "^0.3.1") (d #t) (k 0)) (d (n "ami") (r "^0.5") (d #t) (k 0)) (d (n "asi_vulkan") (r "^0.1.1") (d #t) (k 0)) (d (n "awi") (r "^0.1.1") (d #t) (k 0)) (d (n "gcc") (r "^0.3.50") (d #t) (k 1)))) (h "02br75ikx2k7w550dyzlfba43qp7kykgw15zh68cljl7fjqnqxfy") (f (quote (("validation" "asi_vulkan/validation") ("checks" "asi_vulkan/checks"))))))
+
+(define-public crate-adi_gpu-0.2.0 (c (n "adi_gpu") (v "0.2.0") (d (list (d (n "afi") (r "^0.3.1") (d #t) (k 0)) (d (n "ami") (r "^0.5") (d #t) (k 0)) (d (n "asi_vulkan") (r "^0.2") (d #t) (k 0)) (d (n "awi") (r "^0.1.1") (d #t) (k 0)))) (h "029lkjnfvb6k50wsrix2ys7bl50l6sbzavj2rfcqj7bf3q46gdkv") (f (quote (("validation" "asi_vulkan/validation") ("checks" "asi_vulkan/checks"))))))
+
+(define-public crate-adi_gpu-0.3.0 (c (n "adi_gpu") (v "0.3.0") (d (list (d (n "adi_gpu_base") (r "^0.1") (d #t) (k 0)) (d (n "adi_gpu_vulkan") (r "^0.1") (d #t) (k 0)) (d (n "afi") (r "^0.3.1") (d #t) (k 0)) (d (n "ami") (r "^0.6") (d #t) (k 0)) (d (n "awi") (r "^0.2") (d #t) (k 0)))) (h "17n6fxg79krss7la5amhxnrsjlax61526himmac0ngw7si7bw2mi")))
+
+(define-public crate-adi_gpu-0.4.0 (c (n "adi_gpu") (v "0.4.0") (d (list (d (n "adi_gpu_base") (r "^0.2") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.1") (d #t) (k 0)) (d (n "adi_gpu_vulkan") (r "^0.2") (d #t) (k 0)) (d (n "afi") (r "^0.3.2") (d #t) (k 0)) (d (n "ami") (r "^0.6") (d #t) (k 0)))) (h "1h00izjg06cfrkq8jw6bd509kcm3qgp8l5n6xf9s6ypxd519zcz7")))
+
+(define-public crate-adi_gpu-0.5.0 (c (n "adi_gpu") (v "0.5.0") (d (list (d (n "adi_gpu_base") (r "^0.4") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.2") (d #t) (k 0)) (d (n "adi_gpu_vulkan") (r "^0.3") (d #t) (k 0)) (d (n "ami") (r "^0.6") (d #t) (k 0)))) (h "1sk8sahbw7rvpm0gk588rxqq86317ksfv4qks7ml1miibc22zgwh")))
+
+(define-public crate-adi_gpu-0.6.0 (c (n "adi_gpu") (v "0.6.0") (d (list (d (n "adi_gpu_base") (r "^0.5") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.3") (d #t) (t "cfg(any(unix, target_os = \"windows\", target_os = \"web\"))") (k 0)) (d (n "adi_gpu_vulkan") (r "^0.4") (d #t) (t "cfg(any(unix, target_os = \"windows\", target_os = \"nintendo_switch\"))") (k 0)) (d (n "ami") (r "^0.7") (d #t) (k 0)))) (h "1skf6dqlwk8ng5bf26mf67yr9pv4n52vn5646p2df88d990bg7zi")))
+
+(define-public crate-adi_gpu-0.7.0 (c (n "adi_gpu") (v "0.7.0") (d (list (d (n "adi_gpu_base") (r "^0.6") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.4") (d #t) (t "cfg(any(unix, target_os = \"windows\", target_os = \"web\"))") (k 0)) (d (n "adi_gpu_vulkan") (r "^0.5") (d #t) (t "cfg(any(unix, target_os = \"windows\", target_os = \"nintendo_switch\"))") (k 0)) (d (n "ami") (r "^0.8") (d #t) (k 0)))) (h "1kwbxfxx40m3y7cmgrl49lsxq7h75njfyrny893vcv0skmjqi2aq")))
+
+(define-public crate-adi_gpu-0.8.0 (c (n "adi_gpu") (v "0.8.0") (d (list (d (n "adi_gpu_base") (r "^0.7") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.5") (d #t) (t "cfg(any(unix, target_os = \"windows\", target_os = \"web\"))") (k 0)) (d (n "adi_gpu_vulkan") (r "^0.6") (d #t) (t "cfg(any(unix, target_os = \"windows\", target_os = \"nintendo_switch\"))") (k 0)))) (h "11ys2idljabydyff4rr3gipid9c154jf9jg6ry69d12qa07lrba7")))
+
+(define-public crate-adi_gpu-0.9.0 (c (n "adi_gpu") (v "0.9.0") (d (list (d (n "adi_gpu_base") (r "^0.8") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.6") (d #t) (t "cfg(any(target_os = \"android\", target_os = \"linux\", target_os = \"windows\", target_os = \"web\"))") (k 0)) (d (n "adi_gpu_vulkan") (r "^0.7") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"android\", target_os = \"linux\", target_os = \"windows\", target_os = \"nintendo_switch\"))") (k 0)))) (h "01a0gcrahgiyiyjx222dwrvr2jcvwvqrgcfx1lzsbrgnd6p43lqw")))
+
+(define-public crate-adi_gpu-0.10.0 (c (n "adi_gpu") (v "0.10.0") (d (list (d (n "adi_gpu_base") (r "^0.9") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.7") (d #t) (t "cfg(any(target_os = \"android\", target_os = \"linux\", target_os = \"windows\", target_os = \"web\"))") (k 0)) (d (n "adi_gpu_vulkan") (r "^0.8") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"android\", target_os = \"linux\", target_os = \"windows\", target_os = \"nintendo_switch\"))") (k 0)))) (h "1mfpxnwgv42yf59vw876ywxxjzvkvjavw5cszw4hyv0ranmdh852")))
+
+(define-public crate-adi_gpu-0.11.0 (c (n "adi_gpu") (v "0.11.0") (d (list (d (n "adi_gpu_base") (r "^0.11") (d #t) (k 0)) (d (n "adi_gpu_opengl") (r "^0.11") (d #t) (t "cfg(any(target_os = \"android\", target_os = \"linux\", target_os = \"windows\", target_os = \"web\"))") (k 0)) (d (n "adi_gpu_vulkan") (r "^0.11") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"android\", target_os = \"linux\", target_os = \"windows\", target_os = \"nintendo_switch\"))") (k 0)))) (h "11q7w2m1jakffbq8sha2sai3ak7n4wrjjjiyj7hbki2bxfsgrrqr")))
+

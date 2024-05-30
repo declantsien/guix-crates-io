@@ -1,0 +1,6 @@
+(define-module (crates-io ln k2 lnk2bodyfile) #:use-module (crates-io))
+
+(define-public crate-lnk2bodyfile-0.1.0 (c (n "lnk2bodyfile") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bodyfile") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive" "cargo" "wrap_help"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.0") (d #t) (k 0)) (d (n "lnk_parser") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)) (d (n "winparsingtools") (r "^2.0.0") (d #t) (k 0)))) (h "0z2b776958c9s502p904z7gy1lxiv421cvlvf8wcr3j14hdzbjwv")))
+
+(define-public crate-lnk2bodyfile-0.1.1 (c (n "lnk2bodyfile") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bodyfile") (r "^0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive" "cargo" "wrap_help"))) (d #t) (k 0)) (d (n "clap-verbosity-flag") (r "^2.0.0") (d #t) (k 0)) (d (n "lnk_parser") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)) (d (n "winparsingtools") (r "^2.0.0") (d #t) (k 0)))) (h "07hvd2kckqb4pkk63z7z45a222acy1zqb2bp0wbxjsmgz1c4fx2s")))
+

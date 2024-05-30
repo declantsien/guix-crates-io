@@ -1,0 +1,4 @@
+(define-module (crates-io rl is rlist-cli) #:use-module (crates-io))
+
+(define-public crate-rlist-cli-0.1.0 (c (n "rlist-cli") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "rustls-tls" "rustls-tls-manual-roots" "rustls-tls-native-roots"))) (k 0)) (d (n "rlist-drivers") (r "^0.1.3") (d #t) (k 0)) (d (n "rlist_vfs") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (d #t) (k 0)) (d (n "tower") (r "^0.4.13") (d #t) (k 0)) (d (n "tower-http") (r "^0.5.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "18iq616bf824qa4wxpn21ii6ybxp3cc6bcw0n2lxiaaj8s250gl7")))
+

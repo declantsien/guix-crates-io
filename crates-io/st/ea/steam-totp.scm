@@ -1,0 +1,6 @@
+(define-module (crates-io st ea steam-totp) #:use-module (crates-io))
+
+(define-public crate-steam-totp-0.2.1 (c (n "steam-totp") (v "0.2.1") (d (list (d (n "base64") (r "^0.12.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crypto-mac") (r "^0.7.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha-1") (r "^0.8.2") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "07ragsczrd8mm0jf9a980828bnbagwfq8crccm03jjwbs2110dm4")))
+
+(define-public crate-steam-totp-0.2.2 (c (n "steam-totp") (v "0.2.2") (d (list (d (n "base64") (r "^0.12.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.3.4") (d #t) (k 0)) (d (n "crypto-mac") (r "^0.7.0") (f (quote ("std"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "sha-1") (r "^0.8.2") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "14456h5dfbg93gs4zqfv6kbrxvjjgh17s40bfy1dnr9cr9k8wvx4")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io pe rs persistentcache_procmacro) #:use-module (crates-io))
+
+(define-public crate-persistentcache_procmacro-0.0.1 (c (n "persistentcache_procmacro") (v "0.0.1") (d (list (d (n "futures-await-quote") (r "^0.4") (d #t) (k 0)) (d (n "futures-await-syn") (r "^0.12") (f (quote ("full" "fold" "parsing" "printing" "extra-traits"))) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.1") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "synom") (r "^0.11.3") (d #t) (k 0)))) (h "0kkc0m56zh2jpjry2qr3ffhd95zycrz6saz9lx2s77ii8rc3rj58")))
+
+(define-public crate-persistentcache_procmacro-0.0.2 (c (n "persistentcache_procmacro") (v "0.0.2") (d (list (d (n "bincode") (r "^1.0.0") (d #t) (k 0)) (d (n "futures-await-quote") (r "^0.4") (d #t) (k 0)) (d (n "futures-await-syn") (r "^0.12") (f (quote ("full" "fold" "parsing" "printing" "extra-traits"))) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.1") (f (quote ("unstable"))) (d #t) (k 0)) (d (n "synom") (r "^0.11.3") (d #t) (k 0)))) (h "0hyjrgjfhbcgrx58jzcd8wbak67716h98b8kafdfjsn18k1myq15")))
+
+(define-public crate-persistentcache_procmacro-0.0.3 (c (n "persistentcache_procmacro") (v "0.0.3") (d (list (d (n "bincode") (r "^1.0.0") (d #t) (k 0)) (d (n "futures-await-quote") (r "^0.4") (d #t) (k 0)) (d (n "futures-await-syn") (r "^0.12") (f (quote ("full" "fold" "parsing" "printing" "extra-traits"))) (k 0)) (d (n "lazy_static") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.4") (d #t) (k 0)) (d (n "synom") (r "^0.11.3") (d #t) (k 0)))) (h "1s3cim2xrif7x2vbj2sjihmjmhxsvavkdjkvrgcdh7hskgr7lm0r")))
+

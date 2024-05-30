@@ -1,0 +1,4 @@
+(define-module (crates-io st at state-db) #:use-module (crates-io))
+
+(define-public crate-state-db-0.1.0 (c (n "state-db") (v "0.1.0") (d (list (d (n "account-state") (r "^0.1.0") (d #t) (k 0)) (d (n "bloom_journal") (r "^0.1.0") (d #t) (k 0) (p "vapcore-bloom-journal")) (d (n "common-types") (r "^0.1.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.5") (d #t) (k 2)) (d (n "journaldb") (r "^0.2.0") (d #t) (k 0)) (d (n "log") (r "^0.4.6") (d #t) (k 0)) (d (n "lru-cache") (r "^0.1.2") (d #t) (k 0)) (d (n "memory-cache") (r "^0.1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.9") (d #t) (k 0)) (d (n "tetsy-hash-db") (r "^0.15.2") (d #t) (k 0)) (d (n "tetsy-keccak-hash") (r "^0.4.0") (d #t) (k 0)) (d (n "tetsy-keccak-hasher") (r "^0.1.1") (d #t) (k 0)) (d (n "tetsy-kvdb") (r "^0.3.2") (d #t) (k 0)) (d (n "vapcore-db") (r "^0.1.0") (d #t) (k 0)) (d (n "vapory-types") (r "^0.8.0") (d #t) (k 0)))) (h "1m2aiy9m5458x5a4nvlyy267a2nrvwnx09gw95l7zbzd2vhwq0k1")))
+

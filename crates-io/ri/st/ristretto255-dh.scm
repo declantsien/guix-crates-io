@@ -1,0 +1,8 @@
+(define-module (crates-io ri st ristretto255-dh) #:use-module (crates-io))
+
+(define-public crate-ristretto255-dh-0.1.0 (c (n "ristretto255-dh") (v "0.1.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 2)) (d (n "curve25519-dalek") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "proptest") (r "^0.9") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.1.0") (d #t) (k 2)) (d (n "rand_core") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.1.0") (d #t) (k 0)))) (h "1nlglwfl03604dicskk7a05symd5mamdaccibgy3p31ngqzhh944") (f (quote (("nightly"))))))
+
+(define-public crate-ristretto255-dh-0.2.0 (c (n "ristretto255-dh") (v "0.2.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 2)) (d (n "curve25519-dalek") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "proptest") (r "^0.9") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.1.0") (d #t) (k 2)) (d (n "rand_core") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.1.0") (d #t) (k 0)))) (h "1q7s5rlgj4a4hvgn3w2lwm1yyvfcrfjklj25arjhp6xc7dzyiam0") (f (quote (("nightly"))))))
+
+(define-public crate-ristretto255-dh-0.3.0 (c (n "ristretto255-dh") (v "0.3.0") (d (list (d (n "bincode") (r "^1.2.1") (d #t) (k 2)) (d (n "curve25519-dalek") (r "^2.0.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "proptest") (r "^0.9") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.1.0") (d #t) (k 2)) (d (n "rand_core") (r "^0.5.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zeroize") (r "^1.1.0") (d #t) (k 0)))) (h "11f240njm32gbrxlii0rcwpj35k6hblbx7xijb6ga5dqlpbrxp0f") (f (quote (("nightly"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io by te bytebeam-esp-rs) #:use-module (crates-io))
+
+(define-public crate-bytebeam-esp-rs-0.1.0 (c (n "bytebeam-esp-rs") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "embedded-svc") (r "^0.24.0") (d #t) (k 0)) (d (n "esp-idf-hal") (r "^0.40.1") (d #t) (k 0)) (d (n "esp-idf-svc") (r "^0.45.0") (d #t) (k 0)) (d (n "esp-idf-sys") (r "^0.32.1") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "static_cell") (r "^1.0.0") (d #t) (k 0)) (d (n "esp-idf-hal") (r "^0.40.1") (d #t) (k 2)) (d (n "esp-idf-sys") (r "^0.32.1") (f (quote ("binstart"))) (d #t) (k 2)) (d (n "toml-cfg") (r "^0.1.3") (d #t) (k 2)) (d (n "embuild") (r "^0.31") (d #t) (k 1)))) (h "0v1sif76vq31svwviq4ffgasqkzzwx0wmrjv1zgf365csjgqmqvi")))
+

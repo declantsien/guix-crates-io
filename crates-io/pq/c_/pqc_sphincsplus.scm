@@ -1,0 +1,6 @@
+(define-module (crates-io pq c_ pqc_sphincsplus) #:use-module (crates-io))
+
+(define-public crate-pqc_sphincsplus-0.1.0 (c (n "pqc_sphincsplus") (v "0.1.0") (d (list (d (n "pqc_core") (r "^0.1.0") (f (quote ("load"))) (d #t) (k 2)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "rayon") (r "^1.5.3") (d #t) (k 2)) (d (n "sha256") (r "^0.10.5") (f (quote ("compress"))) (o #t) (d #t) (k 0) (p "sha2")) (d (n "sha3") (r "^0.10.4") (o #t) (d #t) (k 0)))) (h "19wfqdprqczib302qzknxlbnvw09q7jjl5a81rggw7qpc4k49r4r") (f (quote (("simple") ("shake" "sha3") ("sha2" "sha256") ("s256") ("s192") ("s128") ("robust") ("haraka") ("f256") ("f192") ("f128") ("KAT")))) (y #t)))
+
+(define-public crate-pqc_sphincsplus-0.2.0 (c (n "pqc_sphincsplus") (v "0.2.0") (d (list (d (n "pqc_core") (r "^0.3.0") (f (quote ("load"))) (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "sha256") (r "^0.10.7") (f (quote ("compress"))) (o #t) (d #t) (k 0) (p "sha2")) (d (n "sha3") (r "^0.10.8") (o #t) (d #t) (k 0)))) (h "0qla8f9lvkga22ay78613sc6sp4ak9f1xkzfp650c7c14c72qrqj") (f (quote (("simple") ("shake" "sha3") ("sha2" "sha256") ("s256") ("s192") ("s128") ("robust") ("haraka") ("f256") ("f192") ("f128") ("KAT"))))))
+

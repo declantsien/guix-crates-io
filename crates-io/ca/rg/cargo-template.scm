@@ -1,0 +1,6 @@
+(define-module (crates-io ca rg cargo-template) #:use-module (crates-io))
+
+(define-public crate-cargo-template-0.1.0 (c (n "cargo-template") (v "0.1.0") (d (list (d (n "cargo") (r "^0.14.0") (d #t) (k 0)) (d (n "clap") (r "^2.18.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 0)) (d (n "error-chain") (r "^0.5.0") (d #t) (k 0)) (d (n "git2") (r "^0.4.4") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^0.8.17") (d #t) (k 0)) (d (n "serde_derive") (r "^0.8.17") (d #t) (k 0)) (d (n "serde_json") (r "^0.8.3") (d #t) (k 0)) (d (n "toml") (r "^0.2.1") (d #t) (k 0)))) (h "0nc9di3vci0zs2wdalnxpfwm17zkg1pzmiw1rp649jmh24wvpzkx")))
+
+(define-public crate-cargo-template-0.2.0 (c (n "cargo-template") (v "0.2.0") (d (list (d (n "cargo") (r "^0.14.0") (d #t) (k 0)) (d (n "clap") (r "^2.18.0") (d #t) (k 0)) (d (n "derive-new") (r "^0.2.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.3.5") (d #t) (k 0)) (d (n "error-chain") (r "^0.5.0") (d #t) (k 0)) (d (n "git2") (r "^0.4.4") (d #t) (k 0)) (d (n "log") (r "^0.3.6") (d #t) (k 0)) (d (n "serde") (r "^0.8.17") (d #t) (k 0)) (d (n "serde_derive") (r "^0.8.17") (d #t) (k 0)) (d (n "serde_json") (r "^0.8.3") (d #t) (k 0)) (d (n "toml") (r "^0.2.1") (d #t) (k 0)))) (h "1jxq6hc6gkck9fdmm24kgrr3xxwy2pglpgbiy2xcicz9mfdb5rcp")))
+

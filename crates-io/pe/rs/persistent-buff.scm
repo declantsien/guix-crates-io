@@ -1,0 +1,20 @@
+(define-module (crates-io pe rs persistent-buff) #:use-module (crates-io))
+
+(define-public crate-persistent-buff-0.1.0 (c (n "persistent-buff") (v "0.1.0") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "0zkvajz4ifs8dcvq2h5nwdifg0dpkmgg118v36fgnkxgyx8y37xl")))
+
+(define-public crate-persistent-buff-0.1.1 (c (n "persistent-buff") (v "0.1.1") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "0zrrnqrj7v7bnq3hg4agdvjrgkk61jnnppxj3d1vqlwxpy5m9i3v")))
+
+(define-public crate-persistent-buff-0.2.0 (c (n "persistent-buff") (v "0.2.0") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "0sl5liiz1gkdj9x2dyzyf5rsghgf0yqy291hb83rj9p8h6banfbp")))
+
+(define-public crate-persistent-buff-0.2.1 (c (n "persistent-buff") (v "0.2.1") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "1j12k3w4mchshwii7bg5prr5yvppa1swixprmk7cld9fi1chi375")))
+
+(define-public crate-persistent-buff-0.2.2 (c (n "persistent-buff") (v "0.2.2") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "0c07i01pj5n4jhlfk4p9rdfk74pzg9xw911jd7h87mf5n4hn16i3")))
+
+(define-public crate-persistent-buff-0.2.3 (c (n "persistent-buff") (v "0.2.3") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "05zm9z59is85564lq79hbsdrj4v68s1yklv0jz39gahyak706ib4")))
+
+(define-public crate-persistent-buff-0.2.4 (c (n "persistent-buff") (v "0.2.4") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "1kjrn5zdmiprdcs3jj7kl049zs396dmxi2jpf2npil3igi3qwlcq")))
+
+(define-public crate-persistent-buff-0.2.5 (c (n "persistent-buff") (v "0.2.5") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "1pbdvlck4my72mf36295g46m3z0g45lgrdfpxd46vbfsfnjb7a9j")))
+
+(define-public crate-persistent-buff-0.2.6 (c (n "persistent-buff") (v "0.2.6") (d (list (d (n "cortex-m") (r "^0.7") (f (quote ("critical-section-single-core"))) (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 2)) (d (n "defmt-rtt") (r "^0.4") (d #t) (k 2)) (d (n "panic-probe") (r "^0.3") (f (quote ("print-defmt"))) (d #t) (k 2)))) (h "0f1y7bjgkfndffjmay4ljmgmf8sgkz478vg00n4pk3kjv9z2ks9x")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io ch ks chksum-hash-sha2) #:use-module (crates-io))
+
+(define-public crate-chksum-hash-sha2-0.0.0 (c (n "chksum-hash-sha2") (v "0.0.0") (d (list (d (n "chksum-hash-sha2-224") (r "^0.0.0") (o #t) (d #t) (k 0)) (d (n "chksum-hash-sha2-256") (r "^0.0.0") (o #t) (d #t) (k 0)) (d (n "chksum-hash-sha2-384") (r "^0.0.0") (o #t) (d #t) (k 0)) (d (n "chksum-hash-sha2-512") (r "^0.0.0") (o #t) (d #t) (k 0)))) (h "1z6grpgc5gfkqnjk462jadg2s0mmajnbd51xac928yfrymxg535i") (f (quote (("default" "224" "256" "384" "512") ("512" "chksum-hash-sha2-512") ("384" "chksum-hash-sha2-384") ("256" "chksum-hash-sha2-256") ("224" "chksum-hash-sha2-224")))) (r "1.63.0")))
+
+(define-public crate-chksum-hash-sha2-0.0.1 (c (n "chksum-hash-sha2") (v "0.0.1") (d (list (d (n "chksum-hash-sha2-224") (r "^0.0.1") (o #t) (d #t) (k 0)) (d (n "chksum-hash-sha2-256") (r "^0.0.1") (o #t) (d #t) (k 0)) (d (n "chksum-hash-sha2-384") (r "^0.0.1") (o #t) (d #t) (k 0)) (d (n "chksum-hash-sha2-512") (r "^0.0.1") (o #t) (d #t) (k 0)))) (h "13zlpyaja1476zf6q6frl317fnljy87111pnad1yiym9286vni2l") (f (quote (("default" "224" "256" "384" "512") ("512" "chksum-hash-sha2-512") ("384" "chksum-hash-sha2-384") ("256" "chksum-hash-sha2-256") ("224" "chksum-hash-sha2-224")))) (r "1.63.0")))
+

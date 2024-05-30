@@ -1,0 +1,8 @@
+(define-module (crates-io en ti entity-async-graphql-macros) #:use-module (crates-io))
+
+(define-public crate-entity-async-graphql-macros-0.3.0 (c (n "entity-async-graphql-macros") (v "0.3.0") (d (list (d (n "darling") (r "^0.12.0") (d #t) (k 0)) (d (n "entity_macros_data") (r "=0.3.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.53") (f (quote ("full"))) (d #t) (k 0)))) (h "1867sk6p28dwkbp25liwvn20l7k0h07p34wqffc7wmbp3axb1p73")))
+
+(define-public crate-entity-async-graphql-macros-0.3.1 (c (n "entity-async-graphql-macros") (v "0.3.1") (d (list (d (n "darling") (r "^0.12.0") (d #t) (k 0)) (d (n "entity_macros_data") (r "=0.3.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.53") (f (quote ("full"))) (d #t) (k 0)))) (h "0bdmc683vy5zb2g7y57r2113zkj7kgr6cxn9qb60nl3hb2iakl4w")))
+
+(define-public crate-entity-async-graphql-macros-0.3.2 (c (n "entity-async-graphql-macros") (v "0.3.2") (d (list (d (n "darling") (r "^0.12.0") (d #t) (k 0)) (d (n "entity_macros_data") (r "=0.3.2") (d #t) (k 0)) (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro-crate") (r "^1.0.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.7") (d #t) (k 0)) (d (n "syn") (r "^1.0.53") (f (quote ("full"))) (d #t) (k 0)))) (h "0464j48kmgb4qsm79w17n5g2ds05636rgyqk1jpj7jm3y7f35pmz")))
+

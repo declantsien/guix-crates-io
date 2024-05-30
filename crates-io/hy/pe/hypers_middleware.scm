@@ -1,0 +1,4 @@
+(define-module (crates-io hy pe hypers_middleware) #:use-module (crates-io))
+
+(define-public crate-hypers_middleware-0.0.0 (c (n "hypers_middleware") (v "0.0.0") (d (list (d (n "async-compression") (r "^0.4.4") (f (quote ("tokio" "gzip" "brotli" "deflate"))) (o #t) (d #t) (k 0)) (d (n "hypers") (r "^0.4") (d #t) (k 0)) (d (n "hypers") (r "^0.4") (f (quote ("static_file"))) (d #t) (k 2)) (d (n "opentelemetry") (r "^0.20") (f (quote ("metrics"))) (o #t) (d #t) (k 0)) (d (n "opentelemetry-http") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "opentelemetry-semantic-conventions") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.9") (f (quote ("io"))) (o #t) (d #t) (k 0)))) (h "1mcxja6lk950j8hn8bcr8dcvbmzr3vwvwifrhg5nscri4andxlv6") (f (quote (("otel" "opentelemetry-semantic-conventions" "opentelemetry" "opentelemetry-http") ("full" "compression" "cors" "otel") ("default") ("cors") ("compression" "tokio-util" "async-compression"))))))
+

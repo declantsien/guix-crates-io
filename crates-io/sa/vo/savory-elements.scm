@@ -1,0 +1,6 @@
+(define-module (crates-io sa vo savory-elements) #:use-module (crates-io))
+
+(define-public crate-savory-elements-0.5.1 (c (n "savory-elements") (v "0.5.1") (d (list (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "derive_rich") (r "^0.4.3") (d #t) (k 0)) (d (n "instant") (r "^0.1.3") (f (quote ("now" "wasm-bindgen"))) (d #t) (k 0)) (d (n "palette") (r "^0.4.1") (d #t) (k 0)) (d (n "savory-core") (r "^0.5.1") (d #t) (k 0)) (d (n "savory-derive") (r "^0.5.1") (d #t) (k 0)) (d (n "savory-html") (r "^0.5.1") (d #t) (k 0)) (d (n "seed") (r "^0.7.0") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.35") (f (quote ("WheelEvent" "CompositionEvent" "HtmlInputElement" "InputEvent" "FocusEvent" "DragEvent" "DomRect" "Element" "HtmlLabelElement" "UiEvent"))) (d #t) (k 0)))) (h "07k1d4id2rb5qi92kyrk97w9d836njk3mvzj4zc76mpiqfimgjd4")))
+
+(define-public crate-savory-elements-0.6.0 (c (n "savory-elements") (v "0.6.0") (d (list (d (n "derive_more") (r "^0.99.11") (d #t) (k 0)) (d (n "derive_rich") (r "^0.4.4") (d #t) (k 0)) (d (n "palette") (r "^0.5.0") (d #t) (k 0)) (d (n "savory") (r "^0.6.0") (d #t) (k 0)) (d (n "savory-elements-derive") (r "^0.6.0") (d #t) (k 0)) (d (n "savory-style") (r "^0.6.0") (d #t) (k 0)))) (h "1ym5qmff32ksxm85chykkj73xvj5nh9g1m87mdpc3s7w6hrhy72v")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io mo ne monero-lws) #:use-module (crates-io))
+
+(define-public crate-monero-lws-0.1.0 (c (n "monero-lws") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "fixed-hash") (r "^0.7") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "jsonrpc-core") (r "^18") (d #t) (k 0)) (d (n "monero") (r "^0.17") (f (quote ("serde"))) (d #t) (k 0)) (d (n "monero-rpc") (r "^0.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1.12.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^1.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1l0d7rnnl8rkmhrfr30mnywy6gsn685n88yj3dp2wbsdhqxy8bvp") (r "1.56.1")))
+

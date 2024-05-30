@@ -1,0 +1,10 @@
+(define-module (crates-io as yn async-quic) #:use-module (crates-io))
+
+(define-public crate-async-quic-0.1.0 (c (n "async-quic") (v "0.1.0") (h "027k53gkj8msaq1mzvdy4lljd978apzvx5yspz2c1gp0rify9w6h") (y #t)))
+
+(define-public crate-async-quic-0.2.0 (c (n "async-quic") (v "0.2.0") (h "166gvzmyv5jx26bsynh0ngajimwr47xfv2fjiwwn49my9hhq86m7")))
+
+(define-public crate-async-quic-0.3.0 (c (n "async-quic") (v "0.3.0") (d (list (d (n "async-io") (r "^1.12.0") (d #t) (k 0)) (d (n "async-net") (r "^1.7.0") (d #t) (k 0)) (d (n "bytes") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "noop-waker") (r "^0.1.0") (d #t) (k 0)) (d (n "quinn-proto") (r "^0.9.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.44") (d #t) (k 2)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 2)) (d (n "rcgen") (r "^0.9.3") (d #t) (k 2)) (d (n "rustls") (r "^0.20.8") (d #t) (k 2)) (d (n "simple_logger") (r "^2.1.0") (d #t) (k 2)) (d (n "smol") (r "^1.2.5") (d #t) (k 2)))) (h "0bjfw8sf78yzfqczb9ppi55n5zw08y6aclf0g7hjbd92ihvryq76")))
+
+(define-public crate-async-quic-0.3.1 (c (n "async-quic") (v "0.3.1") (d (list (d (n "async-io") (r "^1.12.0") (d #t) (k 0)) (d (n "bytes") (r "^1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "noop-waker") (r "^0.1.0") (d #t) (k 0)) (d (n "quinn-proto") (r "^0.9.2") (d #t) (k 0)) (d (n "quinn-udp") (r "^0.3.2") (d #t) (k 0)) (d (n "rustls") (r "^0.20.8") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.44") (d #t) (k 2)) (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 2)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "quinn") (r "^0.9.3") (f (quote ("runtime-async-std" "futures-io"))) (d #t) (k 2)) (d (n "rcgen") (r "^0.9.3") (d #t) (k 2)) (d (n "simple_logger") (r "^2.1.0") (d #t) (k 2)) (d (n "smol") (r "^1.2.5") (d #t) (k 2)) (d (n "smol-potat") (r "^1.1.2") (d #t) (k 2)) (d (n "test-log") (r "^0.2.11") (d #t) (k 2)))) (h "00kqfczkmdjb7zh64w1wsiwlj13cyy0n6c22sg97yq4h2anlprkv")))
+

@@ -1,0 +1,10 @@
+(define-module (crates-io ca no canonical_bridge) #:use-module (crates-io))
+
+(define-public crate-canonical_bridge-0.1.0 (c (n "canonical_bridge") (v "0.1.0") (d (list (d (n "alloy-rlp") (r "^0.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "anchor-lang") (r "^0.29.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.29.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.18.1") (d #t) (k 0)))) (h "0hj6fsrbc07dri5pnkgs64k58sp67llxg78jbx0ywmiyl70ckmz3") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-canonical_bridge-0.1.1 (c (n "canonical_bridge") (v "0.1.1") (d (list (d (n "alloy-rlp") (r "^0.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "anchor-lang") (r "^0.29.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.29.0") (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "solana-program") (r "^1.18.1") (d #t) (k 0)))) (h "1sbapjh2fhxgrmlz5x6cn08if5k7v2hp4gy4444ldzgpg3h796kv") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-canonical_bridge-0.1.4 (c (n "canonical_bridge") (v "0.1.4") (d (list (d (n "alloy-rlp") (r "^0.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "anchor-lang") (r "^0.29.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.29.0") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.18.1") (d #t) (k 0)))) (h "0qqfv7lk5jl1jfm6qxwjvq8hprkfqiiv7n7hlclmw9j466djj2yj") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+
+(define-public crate-canonical_bridge-0.1.6 (c (n "canonical_bridge") (v "0.1.6") (d (list (d (n "alloy-rlp") (r "^0.3.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "anchor-lang") (r "^0.29.0") (d #t) (k 0)) (d (n "anchor-spl") (r "^0.29.0") (d #t) (k 0)) (d (n "base64") (r "^0.22.0") (d #t) (k 0)) (d (n "solana-program") (r "^1.18.1") (d #t) (k 0)))) (h "0bk8jyynfknyfa7n8r2p4v7q8xg8d34rf0w2qq7wan8m0rk4ajh8") (f (quote (("use_test_authority") ("no-log-ix-name") ("no-idl") ("no-entrypoint") ("default") ("cpi" "no-entrypoint"))))))
+

@@ -1,0 +1,16 @@
+(define-module (crates-io pn g- png-to-twmap) #:use-module (crates-io))
+
+(define-public crate-png-to-twmap-0.1.0 (c (n "png-to-twmap") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "1ffwiymww6z3bgabx5b5x3wpp07dc5bzc8vk7k68n1947ihnz7zm")))
+
+(define-public crate-png-to-twmap-0.1.1 (c (n "png-to-twmap") (v "0.1.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "0cinis6h7x2dpddrb89ivnhj36spp7i3a27hplsha59alqd4h3xw")))
+
+(define-public crate-png-to-twmap-0.2.0 (c (n "png-to-twmap") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "0afhrchrnaa6726f0jlgswjd0ri8hxmv4g2agjhk1k5s2gn0ggs0")))
+
+(define-public crate-png-to-twmap-0.3.0 (c (n "png-to-twmap") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "1gm106w8cnh2livk8qnvv03ccb9r0080ixx5d28m0p9hhr892w34")))
+
+(define-public crate-png-to-twmap-0.4.0 (c (n "png-to-twmap") (v "0.4.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "kdtree") (r "^0.7.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "18vzmph6db5ck02cg8495avxxhqz97s0j3iqvvs40v00a904h5s6")))
+
+(define-public crate-png-to-twmap-0.4.1 (c (n "png-to-twmap") (v "0.4.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "kdtree") (r "^0.7.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "0c1x51hbpygxbbsya7y3la8jxl08dmxynrz5306vc175391jfxfj")))
+
+(define-public crate-png-to-twmap-0.4.2 (c (n "png-to-twmap") (v "0.4.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "kdtree") (r "^0.7.0") (d #t) (k 0)) (d (n "ndarray") (r "^0.15.6") (d #t) (k 0)) (d (n "rsn") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "twmap") (r "^0.12.0") (d #t) (k 0)))) (h "1xmga6f7qa84kabfwc0dn7798rh35c21r0fhywqhgb5m0fpr1wxd")))
+

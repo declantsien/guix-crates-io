@@ -1,0 +1,12 @@
+(define-module (crates-io pr os prost-amino-derive) #:use-module (crates-io))
+
+(define-public crate-prost-amino-derive-0.4.0 (c (n "prost-amino-derive") (v "0.4.0") (d (list (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.4") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "sha2") (r "^0.7") (d #t) (k 0)) (d (n "syn") (r "^0.14.1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "02g8gpi29ai4vaia0fg1byjw32sz64zbrxyknld7kjc4vfavjxk3")))
+
+(define-public crate-prost-amino-derive-0.4.1 (c (n "prost-amino-derive") (v "0.4.1") (d (list (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.4") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^0.14.1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0la4lqjriiajykvanhdar0zv2faafh235hk1s623szcpfs5hsc00") (y #t)))
+
+(define-public crate-prost-amino-derive-0.5.0 (c (n "prost-amino-derive") (v "0.5.0") (d (list (d (n "digest") (r "^0.7") (d #t) (k 0)) (d (n "failure") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.4") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "sha2") (r "^0.8") (d #t) (k 0)) (d (n "syn") (r "^0.14.1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1dwjsgv1i57r4x35kq8bpijbqgndcbry2hh1nsicj17nb6x6w0il")))
+
+(define-public crate-prost-amino-derive-0.6.0 (c (n "prost-amino-derive") (v "0.6.0") (d (list (d (n "failure") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0ggyqrv5bdbvx1g9ksk6kl9dbzqh54szrysygsv07i1yn9ri7s5r") (y #t)))
+
+(define-public crate-prost-amino-derive-0.6.1 (c (n "prost-amino-derive") (v "0.6.1") (d (list (d (n "failure") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "itertools") (r "^0.7") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "08g9g1mcpp2v5dcxmqbbkbsn1x4acakikqq68lrzzfb4g5brgfvv")))
+

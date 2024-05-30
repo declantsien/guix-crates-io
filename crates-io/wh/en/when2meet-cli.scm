@@ -1,0 +1,10 @@
+(define-module (crates-io wh en when2meet-cli) #:use-module (crates-io))
+
+(define-public crate-When2Meet-CLI-0.1.0 (c (n "When2Meet-CLI") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.0") (f (quote ("date"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking" "multipart"))) (d #t) (k 0)) (d (n "scraper") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1ayf3s6v0dal9kcdsp4q06h5ccv0y8xllwmx6mms4xrr3zxm3jwk")))
+
+(define-public crate-When2Meet-CLI-0.1.1 (c (n "When2Meet-CLI") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.1") (f (quote ("date"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking" "multipart"))) (d #t) (k 0)) (d (n "scraper") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0z0mpcy0kykn57f71rfcrw3glw3qbfpxym6zg7bda3n16q3bj30d")))
+
+(define-public crate-When2Meet-CLI-0.1.2 (c (n "When2Meet-CLI") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.1") (f (quote ("date"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking" "multipart"))) (d #t) (k 0)) (d (n "scraper") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1hcfjqzpv8jknw6zqnvv2kvz4zpj4yqf19jq5ry6703bl62l1hx5")))
+
+(define-public crate-When2Meet-CLI-0.2.0 (c (n "When2Meet-CLI") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "clap") (r "^4.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.6.1") (f (quote ("date"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking" "multipart"))) (d #t) (k 0)) (d (n "scraper") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tzdb") (r "^0.5") (d #t) (k 0)))) (h "1797fzakaxfj40jnl287h305nfg18vhvas54wy4va9g3xmf10vcn")))
+

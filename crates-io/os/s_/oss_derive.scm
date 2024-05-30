@@ -1,0 +1,14 @@
+(define-module (crates-io os s_ oss_derive) #:use-module (crates-io))
+
+(define-public crate-oss_derive-0.9.4 (c (n "oss_derive") (v "0.9.4") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1i52mjpxpcs0g61r6smwc5csdlw77cvypqg2njvii38pnbzpdws4") (f (quote (("default") ("blocking"))))))
+
+(define-public crate-oss_derive-0.9.5 (c (n "oss_derive") (v "0.9.5") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "0jfc88qi8wfwn7fcbs0wp82fhip49v5gnyc2i97yhh704scmz646") (f (quote (("default") ("blocking"))))))
+
+(define-public crate-oss_derive-0.9.6 (c (n "oss_derive") (v "0.9.6") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "0mfl1pn84vi7jplyb19nsyrpr5sw8hlmjpq29bw1hmh11z91w54k") (f (quote (("default") ("blocking"))))))
+
+(define-public crate-oss_derive-0.9.7 (c (n "oss_derive") (v "0.9.7") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "03l2xmmlawa23dcx9n57f2qq3aa8f8f63xhvl92r94af0azxi73v") (f (quote (("default") ("blocking"))))))
+
+(define-public crate-oss_derive-0.10.0 (c (n "oss_derive") (v "0.10.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "16xgx2ff6hchngmizgp07x2536l0v9h089j4k09dnfig26mmwglg") (f (quote (("default") ("blocking"))))))
+
+(define-public crate-oss_derive-0.10.1 (c (n "oss_derive") (v "0.10.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (f (quote ("diff"))) (d #t) (k 2)))) (h "1mcwd839n5snm149mvzn4ihf6xdrdfyia41zk30khj4ghkbdwgch") (f (quote (("default") ("blocking"))))))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io fr ac fractal-analysis) #:use-module (crates-io))
+
+(define-public crate-fractal-analysis-0.0.10 (c (n "fractal-analysis") (v "0.0.10") (d (list (d (n "arrayvec") (r "^0.5.1") (d #t) (k 0)) (d (n "image") (r "^0.18.0") (d #t) (k 0)) (d (n "itertools") (r "^0.8.2") (d #t) (k 0)) (d (n "morton-encoding") (r "^1.0.1") (d #t) (k 0)) (d (n "noise") (r "^0.6.0") (d #t) (k 2)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.11") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 2)) (d (n "rayon") (r "^1.3.0") (d #t) (k 0)))) (h "008z3kpp9pn4grr5p76s5s6szhh9mh148ccnfd39s3hygf32xq34") (f (quote (("time_things") ("parallel") ("default" "time_things" "parallel"))))))
+
+(define-public crate-fractal-analysis-0.2.0 (c (n "fractal-analysis") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.6") (k 0)) (d (n "image") (r "^0.18") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "lindel") (r "^0") (d #t) (k 0)) (d (n "morton-encoding") (r "^2.0") (d #t) (k 0)) (d (n "noise") (r "^0.6") (d #t) (k 2)) (d (n "num") (r "^0.2") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.7") (d #t) (k 2)) (d (n "rayon") (r "^1.3") (o #t) (d #t) (k 0)))) (h "0i7w2vsknl0qb0wgqwp930gi9anxgfn2iwhr66dl3rd0q7p11l98") (f (quote (("time_things") ("std") ("parallel" "rayon") ("default" "parallel" "std"))))))
+

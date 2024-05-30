@@ -1,0 +1,4 @@
+(define-module (crates-io ch ik chik-puzzles) #:use-module (crates-io))
+
+(define-public crate-chik-puzzles-0.8.0 (c (n "chik-puzzles") (v "0.8.0") (d (list (d (n "arbitrary") (r "^1.3.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "chik-bls") (r "^0.8.0") (d #t) (k 0)) (d (n "chik-protocol") (r "^0.8.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 0)) (d (n "klvm-traits") (r "^0.8.0") (f (quote ("chik-bls"))) (d #t) (k 0)) (d (n "klvm-utils") (r "^0.8.0") (d #t) (k 0)) (d (n "klvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)))) (h "14sbr5q70isxw9w3xphq9sw6z6357k0f4yq7izfcmjdy7mjlzm24") (s 2) (e (quote (("arbitrary" "dep:arbitrary" "chik-protocol/arbitrary"))))))
+

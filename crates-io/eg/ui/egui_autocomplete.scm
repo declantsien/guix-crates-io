@@ -1,0 +1,22 @@
+(define-module (crates-io eg ui egui_autocomplete) #:use-module (crates-io))
+
+(define-public crate-egui_autocomplete-0.1.0 (c (n "egui_autocomplete") (v "0.1.0") (d (list (d (n "eframe") (r "^0.22") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.22") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)))) (h "1z8x3lb8dpgjn3fx5v0dz1za7ykqcm9yd7nr8aj54c4qi6ndh9v6")))
+
+(define-public crate-egui_autocomplete-0.1.1 (c (n "egui_autocomplete") (v "0.1.1") (d (list (d (n "eframe") (r "^0.22") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.22") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1a2q793srpdz3c6dw0qqy6gs2vx350yy3503j6kscjp6rg0spm5f") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence"))))))
+
+(define-public crate-egui_autocomplete-0.1.2 (c (n "egui_autocomplete") (v "0.1.2") (d (list (d (n "eframe") (r "^0.22") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.22") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0cki3s3bijha9z37mixhw87kskldyz84vdnsb1yga5mvzapsw9rk") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence"))))))
+
+(define-public crate-egui_autocomplete-0.2.0 (c (n "egui_autocomplete") (v "0.2.0") (d (list (d (n "eframe") (r "^0.22") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.22") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1pfs3jm78g2qjh7imllrc7kd14pggc68zf6x638lk25xd6cg8k0k") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence"))))))
+
+(define-public crate-egui_autocomplete-1.0.0 (c (n "egui_autocomplete") (v "1.0.0") (d (list (d (n "eframe") (r "^0.23") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.23") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0gfn4aaycknhzbiji3wp8f0xyxca2w89qy2sic7ry78a99zgg7kf") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence")))) (r "1.70")))
+
+(define-public crate-egui_autocomplete-2.0.0 (c (n "egui_autocomplete") (v "2.0.0") (d (list (d (n "eframe") (r "^0.23") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.23") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1g0hmzdk8fqdazb0g054lgy6xryx8gksn509f82k2n4i233zvmhm") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence")))) (r "1.70")))
+
+(define-public crate-egui_autocomplete-3.0.0 (c (n "egui_autocomplete") (v "3.0.0") (d (list (d (n "eframe") (r "^0.24") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.24") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1iwl31z6ivamcqi8s080yhkd0gk7yzdbvsfp1sr2qsjr22sna0d5") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence")))) (r "1.72")))
+
+(define-public crate-egui_autocomplete-4.0.0 (c (n "egui_autocomplete") (v "4.0.0") (d (list (d (n "eframe") (r "^0.25") (f (quote ("default_fonts" "glow"))) (k 2)) (d (n "egui") (r "^0.25") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "08y1dd7jd8mzxm6307f38bv0968b7pk8wcwyp15nhng27ffzp4pd") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence")))) (r "1.72")))
+
+(define-public crate-egui_autocomplete-5.0.0 (c (n "egui_autocomplete") (v "5.0.0") (d (list (d (n "eframe") (r "^0.26") (f (quote ("default_fonts" "glow"))) (k 0)) (d (n "egui") (r "^0.26") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0s7mxh0mrzr7br34a03njwqlj9rv8xi6is174pzxnalpnz28mbmp") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence")))) (r "1.72")))
+
+(define-public crate-egui_autocomplete-6.0.0 (c (n "egui_autocomplete") (v "6.0.0") (d (list (d (n "eframe") (r "^0.27") (f (quote ("default_fonts" "glow"))) (k 0)) (d (n "egui") (r "^0.27") (k 0)) (d (n "fuzzy-matcher") (r "^0.3.7") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1f9gw606587qr85l7w42r9wzlc3id5l2bd4cxj9lk9hxyx7fqpyi") (s 2) (e (quote (("serde" "dep:serde" "egui/persistence")))) (r "1.72")))
+

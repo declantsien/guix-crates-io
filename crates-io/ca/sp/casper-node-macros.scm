@@ -1,0 +1,48 @@
+(define-module (crates-io ca sp casper-node-macros) #:use-module (crates-io))
+
+(define-public crate-casper-node-macros-0.1.0 (c (n "casper-node-macros") (v "0.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full"))) (d #t) (k 0)))) (h "1qhxrfgj0c7nq3g2fa1ibpf1w0rm4d8y753ib0c6bqkcczgb04wx")))
+
+(define-public crate-casper-node-macros-0.2.1 (c (n "casper-node-macros") (v "0.2.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full"))) (d #t) (k 0)))) (h "12f64vzz8xxl3gblkz0lzda9y7r7pk148kh43flxsdfgccbrl5jr")))
+
+(define-public crate-casper-node-macros-0.6.3 (c (n "casper-node-macros") (v "0.6.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1zcng317ik3ccix38jgk7sqnlzcxl9mm07ng6mczdkw8z2sllc6v") (y #t)))
+
+(define-public crate-casper-node-macros-0.7.0 (c (n "casper-node-macros") (v "0.7.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "06b50wsh49cnp359ck5rg5wsyafjc17ixx17mhs4ggcsg965axzk")))
+
+(define-public crate-casper-node-macros-0.7.5 (c (n "casper-node-macros") (v "0.7.5") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0hprf1fjl2f77rql7sr1cymq8yanmw12p90nv50css0pxhvmx6v5")))
+
+(define-public crate-casper-node-macros-0.7.6 (c (n "casper-node-macros") (v "0.7.6") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1g53zmdp3i827vlwvcrxahvnxxnwkwgwq2v1mbrykn6d7ph0ym44")))
+
+(define-public crate-casper-node-macros-0.9.3 (c (n "casper-node-macros") (v "0.9.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "03h61fmykh7m43dd8jdpay0w0km6advh32jksn6qbwpmh3p5933l")))
+
+(define-public crate-casper-node-macros-0.9.4 (c (n "casper-node-macros") (v "0.9.4") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "17sd1jcblx8lri0hz4d02jlcaxr8l3if7h8751bfxmwqwc6dhg2g")))
+
+(define-public crate-casper-node-macros-1.0.0 (c (n "casper-node-macros") (v "1.0.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0pffvfgamfi557n1mh7cvaqicnb5xxbvzwl32vgy6vvdg6vnm7ry")))
+
+(define-public crate-casper-node-macros-1.0.1 (c (n "casper-node-macros") (v "1.0.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1bmy0bsdayjnb1r02wa63p0zw733vgnrn46gqv9ddm4lcr6p5rvj")))
+
+(define-public crate-casper-node-macros-1.1.0 (c (n "casper-node-macros") (v "1.1.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0j1qcakjh13nlp66d762v511mp96bppyi03sqjv086xjzj3i3sav") (y #t)))
+
+(define-public crate-casper-node-macros-1.1.1 (c (n "casper-node-macros") (v "1.1.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1cfbflm6jvzgys0zxw4q8scr81ixp7czllcaakxfjdlq8l43f54c")))
+
+(define-public crate-casper-node-macros-1.2.0 (c (n "casper-node-macros") (v "1.2.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0aqdrkj1ghgil0lgg81sj99qkk0zsl81qhypll90srlsmf66y3qg")))
+
+(define-public crate-casper-node-macros-1.2.1 (c (n "casper-node-macros") (v "1.2.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1bqshfihjwfm4snrc0bbcswv3q8afscvsmbnzr9qna9jn5flnpds")))
+
+(define-public crate-casper-node-macros-1.3.0 (c (n "casper-node-macros") (v "1.3.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1n1x3nbilppik6nnp5vxn5qr011641n55p8ni4wy0b5v3bjrribb")))
+
+(define-public crate-casper-node-macros-1.3.1 (c (n "casper-node-macros") (v "1.3.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0vmy97ag4cz8kxbbak9j38xgxqi8ycv0avxig1klil7k6rx4d30i")))
+
+(define-public crate-casper-node-macros-1.3.2 (c (n "casper-node-macros") (v "1.3.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0hi8bn6xh99hdr5bwz3hv56z6940aif5ddsngmiglcsbqfg4500y")))
+
+(define-public crate-casper-node-macros-1.3.3 (c (n "casper-node-macros") (v "1.3.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0sgkbarkw1b4b38h390byczm6bivhijwpxk2ir8fvjrp81yg8cna")))
+
+(define-public crate-casper-node-macros-1.3.4 (c (n "casper-node-macros") (v "1.3.4") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "15jmmcy6lkhkq9vsfgcphy1724mqpadw6v7882shs8r4pw70h4lp")))
+
+(define-public crate-casper-node-macros-1.4.0 (c (n "casper-node-macros") (v "1.4.0") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0jdjgkl63dfxgd40pfw069scbd76ws08wszaq9r5id0vb23fjyqp") (y #t)))
+
+(define-public crate-casper-node-macros-1.4.1 (c (n "casper-node-macros") (v "1.4.1") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0giyyrad6nrnmcm950w9h82r4fgf0dslr77j56dh7blff6h1gwfy")))
+
+(define-public crate-casper-node-macros-1.4.2 (c (n "casper-node-macros") (v "1.4.2") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0bwgm2f3r2gyzgi56pixm3sfnav2bnj6bi15d1p7n18qqwk91nq8")))
+
+(define-public crate-casper-node-macros-1.4.3 (c (n "casper-node-macros") (v "1.4.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "indexmap") (r "^1.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.21") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.40") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1wcydg3diks29gs8vz99i999wd6gbxcjkhkaw9028sbiv6y39l19")))
+

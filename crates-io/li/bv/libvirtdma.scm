@@ -1,0 +1,4 @@
+(define-module (crates-io li bv libvirtdma) #:use-module (crates-io))
+
+(define-public crate-libvirtdma-0.1.0 (c (n "libvirtdma") (v "0.1.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "c2rust-bitfields") (r "^0.3.0") (d #t) (k 0)) (d (n "colored") (r "^1.9.3") (d #t) (k 0)) (d (n "iced-x86") (r "^1.2.0") (d #t) (k 0)) (d (n "itertools") (r "^0.9.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "memmem") (r "^0.1.1") (d #t) (k 0)) (d (n "nix") (r "^0.17.0") (d #t) (k 0)) (d (n "pelite") (r "^0.8.1") (d #t) (k 0)) (d (n "proc-maps") (r "^0.1.6") (d #t) (k 0)) (d (n "regex") (r "^1.3.9") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "term-table") (r "^1.3.0") (d #t) (k 0)) (d (n "widestring") (r "^0.4.2") (d #t) (k 0)))) (h "0j4bql7jvk7w3zg0g1ndz0bvln2bx2xhl8cbz41yp88cyacgpcs6")))
+

@@ -1,0 +1,22 @@
+(define-module (crates-io de ri derive_state_machine_future) #:use-module (crates-io))
+
+(define-public crate-derive_state_machine_future-0.1.0 (c (n "derive_state_machine_future") (v "0.1.0") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.10") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "1s1dc3pcbk2a9jd6aqxa36vddgg3xs121xpwlm72qjs13vgiqj84") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.1 (c (n "derive_state_machine_future") (v "0.1.1") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.10") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "0hiz0wsssd9vrxxwsc9y0chvszcvn4vw29bqhh35fj6a70ir47zb") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.2 (c (n "derive_state_machine_future") (v "0.1.2") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.10") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "0673dxxvgzfbwjvkbf0vixbmx90zs749b80s89wr4vdln1nm5iyb") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.3 (c (n "derive_state_machine_future") (v "0.1.3") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.10") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "1al7dvw9zyyzpf59g321q90xi6s2k135fmcb9x2pvqv6f43z71q3") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.4 (c (n "derive_state_machine_future") (v "0.1.4") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.10") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "0hlb476rq3cfy0rwrd6dsyb7graql0hrwsiki9rb63f2hjk5677f") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.5 (c (n "derive_state_machine_future") (v "0.1.5") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.10") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "09gm94sfcs21aqmshjdj89h2vhljdh4p7ddyyy5nqlpqyy7idn05") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.6 (c (n "derive_state_machine_future") (v "0.1.6") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.11") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "1s081lwbn5yj2qz1i2bwh4289xh2ipyyiaial3flxfg6wba4vs2l") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.7 (c (n "derive_state_machine_future") (v "0.1.7") (d (list (d (n "darling") (r "^0.2.1") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.11") (d #t) (k 0)) (d (n "quote") (r "^0.3.15") (d #t) (k 0)) (d (n "syn") (r "^0.11.11") (d #t) (k 0)))) (h "1v6s7ifj1ys0n4siljxfz7znbmxv8gp4ibzhi5brigdjh10xb8ik") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.1.8 (c (n "derive_state_machine_future") (v "0.1.8") (d (list (d (n "darling") (r "^0.8.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.4") (d #t) (k 0)) (d (n "quote") (r "^0.6.3") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)))) (h "1rg3vd1gmw2l0ihbw6ix7h5a3hpkmmp147m5lw3li6zycjnavi1j") (f (quote (("debug_code_generation"))))))
+
+(define-public crate-derive_state_machine_future-0.2.0 (c (n "derive_state_machine_future") (v "0.2.0") (d (list (d (n "darling") (r "^0.8.0") (d #t) (k 0)) (d (n "heck") (r "^0.3.0") (d #t) (k 0)) (d (n "petgraph") (r "^0.4.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^0.4.21") (d #t) (k 0)) (d (n "quote") (r "^0.6.10") (d #t) (k 0)) (d (n "syn") (r "^0.15.0") (d #t) (k 0)))) (h "10xcffircjf0klypkawxfn9wffms6ix59pqaq9a696dq3h3ss80j") (f (quote (("debug_code_generation"))))))
+

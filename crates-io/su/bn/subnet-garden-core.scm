@@ -1,0 +1,12 @@
+(define-module (crates-io su bn subnet-garden-core) #:use-module (crates-io))
+
+(define-public crate-subnet-garden-core-0.1.0 (c (n "subnet-garden-core") (v "0.1.0") (d (list (d (n "cidr") (r "^0.2") (d #t) (k 0)) (d (n "cidr-utils") (r "^0.6") (d #t) (k 0)) (d (n "grcov") (r "^0.8") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 2)) (d (n "postcard") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "1xn4n62c0d15dixy303dk73chcnyghzrbsjjbscvjqj3pdry12xy")))
+
+(define-public crate-subnet-garden-core-0.2.0 (c (n "subnet-garden-core") (v "0.2.0") (d (list (d (n "cidr") (r "^0.2") (d #t) (k 0)) (d (n "cidr-utils") (r "^0.6") (d #t) (k 0)) (d (n "grcov") (r "^0.8") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 2)) (d (n "postcard") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "13ry2jh8gwkyycd8fkcw644i3470qx7jhlfqwrfr4vag4y0688vh") (y #t)))
+
+(define-public crate-subnet-garden-core-0.2.1 (c (n "subnet-garden-core") (v "0.2.1") (d (list (d (n "cidr") (r "^0.2") (d #t) (k 0)) (d (n "cidr-utils") (r "^0.6") (d #t) (k 0)) (d (n "grcov") (r "^0.8") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 2)) (d (n "postcard") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "1dc6lm06q1cvs62qw4q58hm9dzjzlqdapyx3228m5448d4is013r")))
+
+(define-public crate-subnet-garden-core-0.2.2 (c (n "subnet-garden-core") (v "0.2.2") (d (list (d (n "cidr") (r "^0.2") (d #t) (k 0)) (d (n "cidr-utils") (r "^0.6") (d #t) (k 0)) (d (n "grcov") (r "^0.8") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 2)) (d (n "postcard") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "1nsg7qah31rwmpamfxr6l8c32qbhkhqh6fbvvgb5i3i2gwvsvp1j")))
+
+(define-public crate-subnet-garden-core-0.3.0 (c (n "subnet-garden-core") (v "0.3.0") (d (list (d (n "cidr") (r "^0.2") (d #t) (k 0)) (d (n "cidr-utils") (r "^0.6") (d #t) (k 0)) (d (n "grcov") (r "^0.8") (d #t) (k 2)) (d (n "itertools") (r "^0.12") (d #t) (k 2)) (d (n "postcard") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_test") (r "^1") (d #t) (k 2)))) (h "10f57759asr4q60l0j69vsq3hsnwx5712fpyxl2i7gdq6nbq114y")))
+

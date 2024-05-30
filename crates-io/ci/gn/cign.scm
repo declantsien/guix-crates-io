@@ -1,0 +1,6 @@
+(define-module (crates-io ci gn cign) #:use-module (crates-io))
+
+(define-public crate-cign-0.1.0 (c (n "cign") (v "0.1.0") (d (list (d (n "clap") (r "^2.33.1") (d #t) (k 0)) (d (n "dialoguer") (r "^0.6.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.7.1") (d #t) (k 0)) (d (n "failure") (r "^0.1.8") (d #t) (k 0)) (d (n "git2") (r "^0.13.6") (d #t) (k 0)) (d (n "libc") (r "^0.2.71") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.111") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.111") (d #t) (k 0)) (d (n "shellexpand") (r "^2.0.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "0snnq26kwj631v8axf6ra5ls8viq4mghfwnqyr9yfwkiq6k3lrql")))
+
+(define-public crate-cign-0.2.0 (c (n "cign") (v "0.2.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.10") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "failure") (r "^0.1") (d #t) (k 0)) (d (n "git2") (r "^0.15") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "shellexpand") (r "^3.0") (d #t) (k 0)) (d (n "toml") (r "^0.5.9") (d #t) (k 0)))) (h "1mfs8v5g2gwm3wnfimvcds7i2hc7nx9xfzj6hmm5b4yiyclc277m")))
+

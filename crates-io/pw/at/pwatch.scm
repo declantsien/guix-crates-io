@@ -1,0 +1,12 @@
+(define-module (crates-io pw at pwatch) #:use-module (crates-io))
+
+(define-public crate-pwatch-0.2.0 (c (n "pwatch") (v "0.2.0") (d (list (d (n "atty") (r ">=0.2") (d #t) (k 0)) (d (n "crossterm") (r ">=0.12") (d #t) (k 0)) (d (n "getopts") (r ">=0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r ">=0.7") (d #t) (k 0)) (d (n "sysinfo") (r ">=0.14") (d #t) (k 0)) (d (n "unicode-width") (r ">=0.1.5") (d #t) (k 0)))) (h "0m0j9ln49vfzl26276wsq82fjjq562jfq61bdvv31rxrksmm7sy2")))
+
+(define-public crate-pwatch-0.3.0 (c (n "pwatch") (v "0.3.0") (d (list (d (n "atty") (r ">=0.2") (d #t) (k 0)) (d (n "crossterm") (r ">=0.12") (d #t) (k 0)) (d (n "getopts") (r ">=0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r ">=0.7") (d #t) (k 0)) (d (n "sysinfo") (r ">=0.14") (d #t) (k 0)) (d (n "unicode-width") (r ">=0.1.5") (d #t) (k 0)))) (h "106hq1kspm0fn9irvf6a7w1r694sdb125xa7y1aixzhxgrf3xgiy")))
+
+(define-public crate-pwatch-0.3.1 (c (n "pwatch") (v "0.3.1") (d (list (d (n "atty") (r ">=0.2") (d #t) (k 0)) (d (n "crossterm") (r ">=0.12") (d #t) (k 0)) (d (n "getopts") (r ">=0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r ">=0.7") (d #t) (k 0)) (d (n "sysinfo") (r ">=0.14") (d #t) (k 0)) (d (n "unicode-width") (r ">=0.1.5") (d #t) (k 0)))) (h "03rv94nkk8nrd9zilg7wz31bi3fxjyhxbpnv8hn65i49ziqyk2y8")))
+
+(define-public crate-pwatch-0.4.0 (c (n "pwatch") (v "0.4.0") (d (list (d (n "atty") (r ">=0.2") (d #t) (k 0)) (d (n "chrono") (r ">=0.4") (d #t) (k 0)) (d (n "crossterm") (r ">=0.12") (d #t) (k 0)) (d (n "getopts") (r ">=0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r ">=0.7") (d #t) (k 0)) (d (n "sysinfo") (r ">=0.14") (d #t) (k 0)) (d (n "unicode-width") (r ">=0.1.5") (d #t) (k 0)))) (h "0acqvnx3jhbv21aig3q86ifzxjlmz1v35jvc7sg906sal19hmarj")))
+
+(define-public crate-pwatch-0.5.2 (c (n "pwatch") (v "0.5.2") (d (list (d (n "atty") (r ">=0.2") (d #t) (k 0)) (d (n "chrono") (r ">=0.4") (d #t) (k 0)) (d (n "crossterm") (r ">=0.12") (d #t) (k 0)) (d (n "getopts") (r ">=0.2") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "simplelog") (r ">=0.7") (d #t) (k 0)) (d (n "sysinfo") (r ">=0.14") (d #t) (k 0)) (d (n "unicode-width") (r ">=0.1.5") (d #t) (k 0)))) (h "0mi2378b1b18sn8wjqpmxmb8lpicq4rs7r8y032b7kj52v4wg15v")))
+

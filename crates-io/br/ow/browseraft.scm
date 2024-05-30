@@ -1,0 +1,8 @@
+(define-module (crates-io br ow browseraft) #:use-module (crates-io))
+
+(define-public crate-browseraft-0.1.0 (c (n "browseraft") (v "0.1.0") (d (list (d (n "gloo") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.6") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.42") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("console" "BroadcastChannel" "MessageEvent"))) (d #t) (k 0)))) (h "0kvd3xzbphbhg6znzn9hdb58h91q4yb57y2ahdknnl0xdf9csg68")))
+
+(define-public crate-browseraft-0.1.1 (c (n "browseraft") (v "0.1.1") (d (list (d (n "gloo") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.6") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.42") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("console" "BroadcastChannel" "MessageEvent"))) (d #t) (k 0)))) (h "0zr1lij6wkhp58m0h745ssnkdxx1kai7726pqx4yk96whaqxydfp")))
+
+(define-public crate-browseraft-0.1.2 (c (n "browseraft") (v "0.1.2") (d (list (d (n "gloo") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.6") (f (quote ("wasm-bindgen"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.42") (f (quote ("serde-serialize"))) (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("console" "BroadcastChannel" "MessageEvent"))) (d #t) (k 0)))) (h "00d4p03xhz027b2a71nahmvj13y9dx3bfcd3m6v0ijid2pxdw71c")))
+

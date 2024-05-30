@@ -1,0 +1,6 @@
+(define-module (crates-io as ki asking) #:use-module (crates-io))
+
+(define-public crate-asking-0.0.1 (c (n "asking") (v "0.0.1") (d (list (d (n "assert_cmd") (r "^2.0.0") (d #t) (k 2)) (d (n "async-dup") (r "^1.2.2") (d #t) (k 2)) (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes" "unstable"))) (d #t) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "eyre") (r "^0.6.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "0llb6p8z9jblkdfb6zqjfwack4crc0740jw85a6r9j3dqvy98dq9")))
+
+(define-public crate-asking-0.0.2 (c (n "asking") (v "0.0.2") (d (list (d (n "assert_cmd") (r "^2.0.0") (d #t) (k 2)) (d (n "async-dup") (r "^1.2.2") (d #t) (k 2)) (d (n "async-std") (r "^1.9.0") (d #t) (k 0)) (d (n "async-std") (r "^1.9.0") (f (quote ("attributes" "unstable"))) (d #t) (k 2)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "doc-comment") (r "^0.3.3") (d #t) (k 2)) (d (n "eyre") (r "^0.6.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "1df8947ac50cz7dl6v4zq4l7w7agdccxvy4mml2irfdlqj209sg7")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io ch er chert) #:use-module (crates-io))
+
+(define-public crate-chert-0.1.0 (c (n "chert") (v "0.1.0") (d (list (d (n "chert_accessor") (r "^0.1.0") (d #t) (k 0)) (d (n "chert_derive") (r "^0.1.0") (d #t) (k 0)) (d (n "cidr") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_regex") (r "^1.1.0") (d #t) (k 0)))) (h "00xm1j552gh9s4gh7q8bwbb9pm7cm0mlrzb36fw4njxazdxfnz7x")))
+
+(define-public crate-chert-0.2.0 (c (n "chert") (v "0.2.0") (d (list (d (n "chert_accessor") (r "^0.2.0") (d #t) (k 0)) (d (n "chert_derive") (r "^0.2.0") (d #t) (k 0)) (d (n "cidr") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_regex") (r "^1.1.0") (d #t) (k 0)))) (h "0jdpvyz97jksz75azvr531ggyg69ga70faj5gmczjcf6xvjwzaff")))
+
+(define-public crate-chert-0.2.1 (c (n "chert") (v "0.2.1") (d (list (d (n "chert_accessor") (r "^0.2.0") (d #t) (k 0)) (d (n "chert_derive") (r "^0.2.0") (d #t) (k 0)) (d (n "cidr") (r "^0.2.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_regex") (r "^1.1.0") (d #t) (k 0)))) (h "0f3djxfkpjaarm4q72qfjvv6hn2cwabz3zaq8yssqc5wxghmpjvb")))
+

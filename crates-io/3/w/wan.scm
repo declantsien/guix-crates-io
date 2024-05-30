@@ -1,0 +1,4 @@
+(define-module (crates-io #{3}# w wan) #:use-module (crates-io))
+
+(define-public crate-wan-0.0.2 (c (n "wan") (v "0.0.2") (d (list (d (n "clap") (r "^2.20.5") (d #t) (k 0)) (d (n "env_logger") (r "^0.4.2") (d #t) (k 0)) (d (n "error-chain") (r "^0.10.0") (d #t) (k 0)) (d (n "hyper") (r "^0.10.5") (d #t) (k 0)) (d (n "hyper-native-tls") (r "^0.2.2") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.4") (d #t) (k 0)) (d (n "log") (r "^0.3.7") (d #t) (k 0)) (d (n "regex") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^0.9.11") (d #t) (k 0)) (d (n "serde_derive") (r "^0.9.11") (d #t) (k 0)) (d (n "serde_json") (r "^0.9.9") (d #t) (k 0)) (d (n "shellexpand") (r "^1.0.0") (d #t) (k 0)) (d (n "shlex") (r "^0.1.1") (d #t) (k 0)) (d (n "url") (r "^1.4.0") (d #t) (k 0)))) (h "130r1apkdpgakk4jzmxgbgvvv6xwpzy7wzhyzx2gx6c320y4bxmb")))
+

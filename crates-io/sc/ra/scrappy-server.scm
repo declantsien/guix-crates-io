@@ -1,0 +1,4 @@
+(define-module (crates-io sc ra scrappy-server) #:use-module (crates-io))
+
+(define-public crate-scrappy-server-0.0.1 (c (n "scrappy-server") (v "0.0.1") (d (list (d (n "bytes") (r "^0.5") (d #t) (k 2)) (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "futures") (r "^0.3.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mio") (r "^0.6.19") (d #t) (k 0)) (d (n "mio-uds") (r "^0.6.7") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "num_cpus") (r "^1.11") (d #t) (k 0)) (d (n "scrappy-codec") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-rt") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-service") (r "^0.0.1") (d #t) (k 0)) (d (n "scrappy-utils") (r "^0.0.1") (d #t) (k 0)) (d (n "slab") (r "^0.4") (d #t) (k 0)))) (h "04yasn7p3iah8y2zrpxdyxnf2r325h8rb6iz9w8m3ma3iysi3mm0") (f (quote (("default"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ni nj ninja-build) #:use-module (crates-io))
+
+(define-public crate-ninja-build-0.0.1 (c (n "ninja-build") (v "0.0.1") (d (list (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "cfg-if") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^2") (d #t) (k 0)) (d (n "errno") (r "^0.2") (d #t) (k 0)) (d (n "kernel32-sys") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "lazy_static") (r "^0.2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libc-spawn") (r "^0.0.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "libc-stdhandle") (r "^0.1") (d #t) (k 0)) (d (n "murmurhash64") (r "^0.3") (d #t) (k 0)) (d (n "nom") (r "^3") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "widestring") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "winapi") (r "^0.2") (d #t) (t "cfg(windows)") (k 0)) (d (n "wstr") (r "^0.2") (f (quote ("widestring"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0wn8rw691kra29d49pv8lx5v7b6bv91iqllifnjr4pf5sf75kiyi")))
+

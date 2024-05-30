@@ -1,0 +1,4 @@
+(define-module (crates-io az ur azure-app-configuration) #:use-module (crates-io))
+
+(define-public crate-azure-app-configuration-0.1.0 (c (n "azure-app-configuration") (v "0.1.0") (d (list (d (n "async-std") (r "^0.99.4") (d #t) (k 0)) (d (n "base64") (r "^0.10.1") (d #t) (k 0)) (d (n "femme") (r "^1.2.0") (d #t) (k 2)) (d (n "hmac") (r "^0.7.1") (d #t) (k 0)) (d (n "http") (r "^0.1.18") (d #t) (k 0)) (d (n "httpdate") (r "^0.3.2") (d #t) (k 0)) (d (n "log") (r "^0.4.8") (d #t) (k 0)) (d (n "mime") (r "^0.3.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.100") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "sha2") (r "^0.8.0") (d #t) (k 0)) (d (n "surf") (r "^1.0.2") (d #t) (k 0)) (d (n "url") (r "^2.1.0") (d #t) (k 0)))) (h "117h600a2f5mc3jwga065aawsisb4924l4ia5lngb7mznq5nkhc7")))
+

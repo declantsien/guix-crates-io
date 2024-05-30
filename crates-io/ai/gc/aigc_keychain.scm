@@ -1,0 +1,4 @@
+(define-module (crates-io ai gc aigc_keychain) #:use-module (crates-io))
+
+(define-public crate-aigc_keychain-5.1.2 (c (n "aigc_keychain") (v "5.1.2") (d (list (d (n "aigc_util") (r "^5.1.2") (d #t) (k 0)) (d (n "blake2-rfc") (r "^0.2") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "digest") (r "^0.9") (d #t) (k 0)) (d (n "hmac") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "pbkdf2") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.6") (d #t) (k 0)) (d (n "ripemd160") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "sha2") (r "^0.9") (d #t) (k 0)) (d (n "zeroize") (r "^1.1") (f (quote ("zeroize_derive"))) (d #t) (k 0)))) (h "08l8k49rb4iia0k88gr5nq00cg0vn2lalsw2j18sf5wrzz8g0m3d")))
+

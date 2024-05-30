@@ -1,0 +1,16 @@
+(define-module (crates-io bm e2 bme280-multibus) #:use-module (crates-io))
+
+(define-public crate-bme280-multibus-0.1.0 (c (n "bme280-multibus") (v "0.1.0") (d (list (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8") (d #t) (k 2)) (d (n "ftd2xx-embedded-hal") (r "^0.9") (d #t) (k 2)))) (h "0jwmq3bkaa3zbn83fdqlbi4hb7929gn2wdlsplr9z95x5ai09lnz") (r "1.56")))
+
+(define-public crate-bme280-multibus-0.2.0 (c (n "bme280-multibus") (v "0.2.0") (d (list (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8") (d #t) (k 2)) (d (n "ftd2xx-embedded-hal") (r "^0.9") (d #t) (k 2)))) (h "1pcdyq527izhb9r95v1rn6qa7732g3mq45kwg6f70q341vmk8acx") (r "1.56")))
+
+(define-public crate-bme280-multibus-0.2.1 (c (n "bme280-multibus") (v "0.2.1") (d (list (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8") (d #t) (k 2)) (d (n "ftd2xx-embedded-hal") (r "^0.9") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)))) (h "0cjbdn1lrfr1h13346x8argdfd7xsqdacfpz9nnw8ap9myk50d2p") (r "1.56")))
+
+(define-public crate-bme280-multibus-0.2.2 (c (n "bme280-multibus") (v "0.2.2") (d (list (d (n "embedded-hal") (r "^0.2") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.8") (d #t) (k 2)) (d (n "ftdi-embedded-hal") (r "^0.11") (f (quote ("libftd2xx"))) (d #t) (k 2)) (d (n "libftd2xx") (r "^0.32") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)))) (h "1ai995l83azcmynka6gyj0xj4fsn8jnxkphrpys3qcdadzqqz8fc") (r "1.56")))
+
+(define-public crate-bme280-multibus-0.3.0 (c (n "bme280-multibus") (v "0.3.0") (d (list (d (n "eh0") (r "^0.2.7") (d #t) (k 0) (p "embedded-hal")) (d (n "eh1") (r "=1.0.0-alpha.11") (d #t) (k 0) (p "embedded-hal")) (d (n "eha0a") (r "=0.2.0-alpha.2") (o #t) (d #t) (k 0) (p "embedded-hal-async")) (d (n "ftdi-embedded-hal") (r "^0.16") (f (quote ("libftd2xx"))) (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "068rcbbwcxb09jkkx68whvsm8rs5m1v7fvgkpkzmz988mxjxqqci") (s 2) (e (quote (("async" "dep:eha0a"))))))
+
+(define-public crate-bme280-multibus-0.4.0 (c (n "bme280-multibus") (v "0.4.0") (d (list (d (n "eh0") (r "^0.2.7") (d #t) (k 0) (p "embedded-hal")) (d (n "eh1") (r "=1.0.0-rc.1") (d #t) (k 0) (p "embedded-hal")) (d (n "eha0a") (r "=1.0.0-rc.1") (o #t) (d #t) (k 0) (p "embedded-hal-async")) (d (n "ftdi-embedded-hal") (r "^0.18") (f (quote ("libftd2xx"))) (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "0sr8i6mkzkmw6kl5lxflij0zkg730was2i4w77yz7n3gisbifzgn") (s 2) (e (quote (("async" "dep:eha0a"))))))
+
+(define-public crate-bme280-multibus-0.5.0 (c (n "bme280-multibus") (v "0.5.0") (d (list (d (n "eh0") (r "^0.2.7") (d #t) (k 0) (p "embedded-hal")) (d (n "eh1") (r "^1") (d #t) (k 0) (p "embedded-hal")) (d (n "eha1") (r "^1") (d #t) (k 0) (p "embedded-hal-async")) (d (n "ftdi-embedded-hal") (r "^0.21") (f (quote ("libftd2xx"))) (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)) (d (n "tokio") (r "^1.33.0") (f (quote ("rt" "macros"))) (d #t) (k 2)))) (h "1gfs8p0yalrw9ayp3ja8s3y82ysmg8cf0gjyzx848y70dhm033k5") (s 2) (e (quote (("serde" "dep:serde"))))))
+

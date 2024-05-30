@@ -1,0 +1,10 @@
+(define-module (crates-io li st lister-cli) #:use-module (crates-io))
+
+(define-public crate-lister-cli-0.1.0 (c (n "lister-cli") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "cursive") (r "^0.20") (f (quote ("crossterm-backend"))) (k 0)) (d (n "cursive_tree_view") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0zbjpv7r4lzv2z7bjp5xp4spc2dijni8627hzkvh4x4zni9061mf")))
+
+(define-public crate-lister-cli-0.1.1 (c (n "lister-cli") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "cursive") (r "^0.20") (f (quote ("crossterm-backend"))) (k 0)) (d (n "cursive_tree_view") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0rqbzzh9psv3mvspqcgkbvjdf116mn5d2x10fm9hczmw1yip0rq8")))
+
+(define-public crate-lister-cli-0.1.2 (c (n "lister-cli") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "cursive") (r "^0.20") (f (quote ("crossterm-backend"))) (k 0)) (d (n "cursive_tree_view") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0v682bb2fcgab7vd3qa3zqm5mif463qbpsk7l3hc0pz81l6yvrj2")))
+
+(define-public crate-lister-cli-0.1.3 (c (n "lister-cli") (v "0.1.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "cursive") (r "^0.20") (f (quote ("crossterm-backend"))) (k 0)) (d (n "cursive_tree_view") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0zag1yapcq35jjvh8880nrgh8v1n00i2fvk4mah2svjgixln5gzj")))
+

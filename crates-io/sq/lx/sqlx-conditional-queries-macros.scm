@@ -1,0 +1,10 @@
+(define-module (crates-io sq lx sqlx-conditional-queries-macros) #:use-module (crates-io))
+
+(define-public crate-sqlx-conditional-queries-macros-0.1.1 (c (n "sqlx-conditional-queries-macros") (v "0.1.1") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "sqlx-conditional-queries-core") (r "^0.1.0") (d #t) (k 0)))) (h "1gwws5las1jpli0ff6hm3n6f9rqjzlxb8smnyf0cjmfzwl0m03im") (f (quote (("sqlite" "sqlx-conditional-queries-core/sqlite") ("postgres" "sqlx-conditional-queries-core/postgres") ("mysql" "sqlx-conditional-queries-core/mysql"))))))
+
+(define-public crate-sqlx-conditional-queries-macros-0.1.2 (c (n "sqlx-conditional-queries-macros") (v "0.1.2") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "sqlx-conditional-queries-core") (r "^0.1.2") (d #t) (k 0)))) (h "0x45ahv3yw1cc5ykihlg6z96bnlgnmvihbg3a0vw00367bpi3r99") (f (quote (("sqlite" "sqlx-conditional-queries-core/sqlite") ("postgres" "sqlx-conditional-queries-core/postgres") ("mysql" "sqlx-conditional-queries-core/mysql"))))))
+
+(define-public crate-sqlx-conditional-queries-macros-0.1.3 (c (n "sqlx-conditional-queries-macros") (v "0.1.3") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "sqlx-conditional-queries-core") (r "^0.1") (d #t) (k 0)))) (h "0x8l6jwfy3ykwapvbwz52457l4b1g6jrns71mzsvjhfcy87ncf7v") (f (quote (("sqlite" "sqlx-conditional-queries-core/sqlite") ("postgres" "sqlx-conditional-queries-core/postgres") ("mysql" "sqlx-conditional-queries-core/mysql"))))))
+
+(define-public crate-sqlx-conditional-queries-macros-0.1.4 (c (n "sqlx-conditional-queries-macros") (v "0.1.4") (d (list (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.49") (d #t) (k 0)) (d (n "sqlx-conditional-queries-core") (r "^0.1") (d #t) (k 0)))) (h "0gg5pfl2p9pz4mkxh0qs5d27xjdrsplw61ybjmw8c2m29x5rfyab") (f (quote (("sqlite" "sqlx-conditional-queries-core/sqlite") ("postgres" "sqlx-conditional-queries-core/postgres") ("mysql" "sqlx-conditional-queries-core/mysql"))))))
+

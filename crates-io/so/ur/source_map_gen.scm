@@ -1,0 +1,4 @@
+(define-module (crates-io so ur source_map_gen) #:use-module (crates-io))
+
+(define-public crate-source_map_gen-0.1.0 (c (n "source_map_gen") (v "0.1.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 2)) (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "const_format") (r "^0.2.30") (d #t) (k 2)) (d (n "derive_ops") (r "^0.1") (d #t) (k 0)) (d (n "indextree") (r "^4.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1") (o #t) (d #t) (k 0)) (d (n "rgb") (r "^0.8") (d #t) (k 0)) (d (n "spa") (r "^0.3") (d #t) (k 0)) (d (n "vmf_parser_nom") (r "^0.1") (d #t) (k 0)) (d (n "walkdir") (r "^2.3") (o #t) (d #t) (k 0)))) (h "0vzkrz75ab3367rwhwwmcw227l3nc3cr53h7bj5wcsg2pql57mc3") (f (quote (("default" "pallet")))) (s 2) (e (quote (("pallet" "dep:rayon" "dep:walkdir"))))))
+

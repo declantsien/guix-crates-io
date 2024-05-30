@@ -1,0 +1,14 @@
+(define-module (crates-io lc ax lcax_core) #:use-module (crates-io))
+
+(define-public crate-lcax_core-2.0.4 (c (n "lcax_core") (v "2.0.4") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "16rg390jwljcwywmgi4scy9rbha18jcwj20lgkp1y4fgm756mzsf")))
+
+(define-public crate-lcax_core-2.0.5 (c (n "lcax_core") (v "2.0.5") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "0jgdbhp0fkm7pb14w28ifkigilh8gigdkcwq1fbpfhw2z6114kpv")))
+
+(define-public crate-lcax_core-2.0.6 (c (n "lcax_core") (v "2.0.6") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "163xszrwwsidmhhxdn1rl3hkkhypg5ilcwzdxdsaisivgq8badqr")))
+
+(define-public crate-lcax_core-2.1.0 (c (n "lcax_core") (v "2.1.0") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "0rp075waqjrm8nnyjwdynqwq61l4yf4x5x0173yx1vd8j1gkyjxk")))
+
+(define-public crate-lcax_core-2.1.1 (c (n "lcax_core") (v "2.1.1") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "045yzkyl8k343kxr45gc5wkjshf1gv7s26ndxddx1nvpgc4skylj")))
+
+(define-public crate-lcax_core-2.1.2 (c (n "lcax_core") (v "2.1.2") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "1bnsr6mp00w2mr68gl4jmmqpjb0wqlb29sz9jg6f21r6bfrv4m45")))
+

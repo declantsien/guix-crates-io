@@ -1,0 +1,14 @@
+(define-module (crates-io gi t- git-clone-canonical) #:use-module (crates-io))
+
+(define-public crate-git-clone-canonical-0.1.0 (c (n "git-clone-canonical") (v "0.1.0") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1gj9nx7cq1372y2vbmkj0h1461ds47f1835w4lgsjn4jkp7j48z5")))
+
+(define-public crate-git-clone-canonical-0.1.1 (c (n "git-clone-canonical") (v "0.1.1") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1xi8sj2hm0sykjh4kx2pwg2wrl9gpc9ggwcsbf5jw3b061pmbxqd")))
+
+(define-public crate-git-clone-canonical-0.1.2 (c (n "git-clone-canonical") (v "0.1.2") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1iczn7lgsh9hyzjs3khbjxjlvsg61bay7c4fl84xmfvjkig6kdh6")))
+
+(define-public crate-git-clone-canonical-0.1.3 (c (n "git-clone-canonical") (v "0.1.3") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "test-case") (r "^2.2.1") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1j4alh3nhc4j4cs84m0w66pxgh78vg43lrpmik6lj5s0y9b2m9fq")))
+
+(define-public crate-git-clone-canonical-0.1.4 (c (n "git-clone-canonical") (v "0.1.4") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "test-case") (r "^2.2.1") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "187s8r9fycsc0876bnygh5ai35kl6mi0qpln6zdhlzpw5nj4gfq9") (y #t)))
+
+(define-public crate-git-clone-canonical-0.1.5 (c (n "git-clone-canonical") (v "0.1.5") (d (list (d (n "clap") (r "^3.1.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "dirs") (r "^4.0.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "test-case") (r "^2.2.1") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0p8mjn59a8sm6cmvcbq9ghq43kkk6n6i4fmjx53m5bcc9nps7ply")))
+

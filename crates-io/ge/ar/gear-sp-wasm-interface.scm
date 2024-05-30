@@ -1,0 +1,4 @@
+(define-module (crates-io ge ar gear-sp-wasm-interface) #:use-module (crates-io))
+
+(define-public crate-gear-sp-wasm-interface-7.0.0 (c (n "gear-sp-wasm-interface") (v "7.0.0") (d (list (d (n "anyhow") (r "^1.0.68") (o #t) (d #t) (k 0)) (d (n "codec") (r "^3.2.2") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "impl-trait-for-tuples") (r "^0.2.2") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (o #t) (d #t) (k 0)) (d (n "sp-allocator") (r "^4.1.0") (k 0) (p "gear-sp-allocator")) (d (n "sp-std") (r "^5.0.0") (k 0)) (d (n "sp-wasm-interface-common") (r "^7.0.0") (k 0)) (d (n "wasmtime") (r "^6.0.1") (o #t) (k 0)))) (h "0wsz0p85ambj2g9pd99hp0iwf777b7sjm0pcjf797iksbkph1iwv") (f (quote (("wasmi" "sp-wasm-interface-common/wasmi") ("std" "codec/std" "log" "sp-allocator/std" "sp-std/std" "sp-wasm-interface-common/std" "wasmtime") ("default" "std")))) (s 2) (e (quote (("wasmtime" "dep:wasmtime" "anyhow"))))))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io zi cs zicsv) #:use-module (crates-io))
+
+(define-public crate-zicsv-0.1.0 (c (n "zicsv") (v "0.1.0") (d (list (d (n "chrono") (r "^0.4") (k 0)) (d (n "csv") (r "^0.15") (k 0)) (d (n "encoding") (r "^0.2") (k 0)) (d (n "failure") (r "^0.1") (f (quote ("std"))) (k 0)) (d (n "glob") (r "^0.2") (k 2)) (d (n "ipnet") (r "^1.2") (k 0)) (d (n "pretty_assertions") (r "^0.5") (k 2)) (d (n "serde") (r "^1.0") (o #t) (k 0)) (d (n "serde_derive") (r "^1.0") (o #t) (k 0)) (d (n "serde_json") (r "^1.0") (k 2)) (d (n "url") (r "^1.7") (k 0)) (d (n "url_serde") (r "^0.2") (o #t) (k 0)) (d (n "which") (r "^2.0") (k 2)))) (h "1x5yq7svb5l2mr95xd3gl9khc15qcp1jplqcikpa04kryiw541gg") (f (quote (("unstable") ("serialization" "chrono/serde" "serde" "serde_derive" "url/serde" "url_serde") ("default"))))))
+

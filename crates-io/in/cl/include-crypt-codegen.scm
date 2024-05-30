@@ -1,0 +1,6 @@
+(define-module (crates-io in cl include-crypt-codegen) #:use-module (crates-io))
+
+(define-public crate-include-crypt-codegen-0.1.0 (c (n "include-crypt-codegen") (v "0.1.0") (d (list (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "include-crypt-crypto") (r "^0.1.0") (d #t) (k 0)) (d (n "libflate") (r "^1.0.3") (o #t) (d #t) (k 0)) (d (n "obfstr") (r "^0.2.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0vnk57m0fq6iry29vbhvqsmbgq0qxhri1m7cwylyj3nxq3r1q8sf") (f (quote (("force-build") ("default") ("compression" "libflate"))))))
+
+(define-public crate-include-crypt-codegen-0.1.1 (c (n "include-crypt-codegen") (v "0.1.1") (d (list (d (n "glob") (r "^0.3.0") (d #t) (k 0)) (d (n "include-crypt-crypto") (r "^0.1.0") (d #t) (k 0)) (d (n "libflate") (r "^1.0.3") (o #t) (d #t) (k 0)) (d (n "obfstr") (r "^0.2.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.24") (d #t) (k 0)) (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1b9iwxrsl7ga2zgmda9m5mspf8lq8cga1m4m5jylcf1jnvww75cy") (f (quote (("force-build") ("default") ("compression" "libflate"))))))
+

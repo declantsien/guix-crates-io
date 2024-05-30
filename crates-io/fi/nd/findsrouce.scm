@@ -1,0 +1,4 @@
+(define-module (crates-io fi nd findsrouce) #:use-module (crates-io))
+
+(define-public crate-findsrouce-0.0.4 (c (n "findsrouce") (v "0.0.4") (d (list (d (n "aopt") (r "^0.6.2") (f (quote ("sync"))) (d #t) (k 0)) (d (n "aopt-help") (r "^0.2.6") (d #t) (k 0)) (d (n "aopt-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "async-std") (r "^1.10.0") (f (quote ("std" "attributes"))) (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "color-eyre") (r "^0.5.11") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.79") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.2") (f (quote ("env-filter"))) (d #t) (k 0)) (d (n "ustr") (r "^0.8.1") (f (quote ("serialization"))) (d #t) (k 0)))) (h "0z71fjcybmw7m55drx8qxbjq5cqrl7j137rspr79aaqz4gl2148g") (y #t)))
+

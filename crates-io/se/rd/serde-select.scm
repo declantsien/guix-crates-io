@@ -1,0 +1,4 @@
+(define-module (crates-io se rd serde-select) #:use-module (crates-io))
+
+(define-public crate-serde-select-0.1.0-alpha.1 (c (n "serde-select") (v "0.1.0-alpha.1") (d (list (d (n "env_logger") (r "^0.7") (d #t) (k 2)) (d (n "is-match") (r "^0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "quickcheck") (r "^0.8") (d #t) (k 2)) (d (n "regex") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_derive") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 2)))) (h "1n0077lmxpnh9g8vraral8xrzjv3xwbwl7q5d04g5k9gsi58mhlz") (f (quote (("default" "backend_toml" "backend_serde_json") ("backend_toml" "toml") ("backend_serde_json" "serde_json"))))))
+

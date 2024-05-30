@@ -1,0 +1,6 @@
+(define-module (crates-io so -d so-defi-solanafm) #:use-module (crates-io))
+
+(define-public crate-so-defi-solanafm-0.1.0 (c (n "so-defi-solanafm") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "so-defi-token-list") (r "^0.1.1") (d #t) (k 0)) (d (n "solana-program") (r "^1.9") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "0qsv464k4041dzr9yahdcvamsk8g1bzzvbjsswlrqwcwa99mcdmy")))
+
+(define-public crate-so-defi-solanafm-0.1.1 (c (n "so-defi-solanafm") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "so-defi-token-list") (r "^0.1.1") (d #t) (k 0)) (d (n "solana-program") (r "^1.9") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)))) (h "1ns8pmv9x8rrdi4wha15dm6sqlq0f7r9grmk4f7d02iys6vwsd8l")))
+

@@ -1,0 +1,6 @@
+(define-module (crates-io so v- sov-zk-cycle-macros) #:use-module (crates-io))
+
+(define-public crate-sov-zk-cycle-macros-0.2.0 (c (n "sov-zk-cycle-macros") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (f (quote ("rc" "bytes"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "risc0-zkvm") (r "^0.16") (f (quote ("std"))) (k 2)) (d (n "risc0-zkvm-platform") (r "^0.16") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0pklmc70w2bmdcylmkhqx3bj1ix09bcazaxaks1r7rxfzicl2281") (f (quote (("bench")))) (r "1.66")))
+
+(define-public crate-sov-zk-cycle-macros-0.3.0 (c (n "sov-zk-cycle-macros") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.68") (d #t) (k 0)) (d (n "borsh") (r "^0.10.3") (f (quote ("rc" "bytes"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "risc0-zkvm") (r "^0.18") (f (quote ("std"))) (k 2)) (d (n "risc0-zkvm-platform") (r "^0.18") (d #t) (k 2)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0kn5p4mwzj3la5dd07da196g43rd903c80l6r2hv7pjsadjm3w1f") (f (quote (("bench"))))))
+

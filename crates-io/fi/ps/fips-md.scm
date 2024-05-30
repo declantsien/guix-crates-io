@@ -1,0 +1,4 @@
+(define-module (crates-io fi ps fips-md) #:use-module (crates-io))
+
+(define-public crate-fips-md-0.3.0 (c (n "fips-md") (v "0.3.0") (d (list (d (n "aligned_box") (r "^0.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "bytemuck") (r "^1.9") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "llvm-sys") (r "^140") (f (quote ("strict-versioning"))) (d #t) (k 0)) (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "peg") (r "^0.8") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4") (d #t) (k 0)) (d (n "rand_xoshiro") (r "^0.6") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "slotmap") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.24") (d #t) (k 0)) (d (n "strum_macros") (r "^0.24") (d #t) (k 0)))) (h "04yzxqll3dlzmzipnlky0b3pd6mdz8k3zbs8mzhf0imq09p5g0ya")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io ab cp abcperf-noop) #:use-module (crates-io))
+
+(define-public crate-abcperf-noop-0.10.0 (c (n "abcperf-noop") (v "0.10.0") (d (list (d (n "abcperf") (r "^0.10.0") (d #t) (k 0)) (d (n "abcperf-client-proxy") (r "^0.10.0") (d #t) (k 0)) (d (n "abcperf-generic-client") (r "^0.10.0") (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "futures") (r "^0.3.19") (d #t) (k 0)) (d (n "minbft") (r "^0.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.8") (f (quote ("stream" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("rc"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "shared-ids") (r "^0.10.0") (d #t) (k 0)) (d (n "tokio") (r "^1.15.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.10") (d #t) (k 0)))) (h "0h7r3p2rsm6r461h9il8injna73my5l29rdy2xv9drv0ajnnwi3q")))
+

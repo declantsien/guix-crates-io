@@ -1,0 +1,4 @@
+(define-module (crates-io ae ro aeronet_wt_wasm) #:use-module (crates-io))
+
+(define-public crate-aeronet_wt_wasm-0.1.2 (c (n "aeronet_wt_wasm") (v "0.1.2") (d (list (d (n "aeronet") (r "^0.1.2") (d #t) (k 0)) (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "bevy") (r "^0.11.3") (o #t) (k 0)) (d (n "bevy") (r "^0.11.3") (d #t) (k 2)) (d (n "bevy_egui") (r "^0.22.0") (d #t) (k 2)) (d (n "js-sys") (r "^0.3.64") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.87") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4.37") (d #t) (k 0)) (d (n "web-sys") (r "^0.3.64") (f (quote ("DomException" "ReadableStream" "WritableStream" "Blob" "Url" "Worker"))) (d #t) (k 0)))) (h "04b82lkha00l9a6bpkm9ms6kawbf512yp9jn7vh4zpiqjcxna60q") (s 2) (e (quote (("bevy" "dep:bevy" "aeronet/bevy"))))))
+

@@ -1,0 +1,12 @@
+(define-module (crates-io gl ti gltile) #:use-module (crates-io))
+
+(define-public crate-gltile-0.0.1 (c (n "gltile") (v "0.0.1") (d (list (d (n "glium") (r "^0.16.0") (d #t) (k 0)) (d (n "image") (r "^0.12.3") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.2") (d #t) (k 0)) (d (n "looper") (r "^0.0.1") (d #t) (k 2)) (d (n "palette") (r "^0.2.1") (d #t) (k 0)) (d (n "pixset") (r "^0.0.1") (d #t) (k 0)) (d (n "pixset_derive") (r "^0.0.1") (d #t) (k 2)) (d (n "rand") (r "^0.3.15") (d #t) (k 2)))) (h "1kznw5z5gkqjymv9gg6jk6igqhl6vv3p44rix76nl6dpaf33xxj6")))
+
+(define-public crate-gltile-0.0.2 (c (n "gltile") (v "0.0.2") (d (list (d (n "glium") (r "^0.16.0") (d #t) (k 0)) (d (n "image") (r "^0.12.3") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.2") (d #t) (k 0)) (d (n "looper") (r "^0.0.2") (d #t) (k 2)) (d (n "palette") (r "^0.2.1") (d #t) (k 0)) (d (n "pixset") (r "^0.0.2") (d #t) (k 0)) (d (n "pixset_derive") (r "^0.0.2") (d #t) (k 2)) (d (n "rand") (r "^0.3.15") (d #t) (k 2)))) (h "1rp0y8727w3m259m6p10v7v7mvab6c7b3dhci1chs28bfm2isq61")))
+
+(define-public crate-gltile-0.0.3 (c (n "gltile") (v "0.0.3") (d (list (d (n "glium") (r "^0.17.0") (d #t) (k 0)) (d (n "image") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 0)) (d (n "looper") (r "^0.0.2") (d #t) (k 2)) (d (n "palette") (r "^0.2.1") (d #t) (k 0)) (d (n "pixset") (r "^0.0.2") (d #t) (k 0)) (d (n "pixset_derive") (r "^0.0.2") (d #t) (k 2)) (d (n "rand") (r "^0.3.15") (d #t) (k 2)))) (h "0mml24ky8flmh1w8jfw8rax2b2zrlhjpvw7l7s511h85g121ksd4")))
+
+(define-public crate-gltile-0.0.4 (c (n "gltile") (v "0.0.4") (d (list (d (n "glium") (r "^0.17.0") (d #t) (k 0)) (d (n "image") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 0)) (d (n "looper") (r "^0.0.2") (d #t) (k 2)) (d (n "palette") (r "^0.2.1") (d #t) (k 0)) (d (n "pixset") (r "^0.0.4") (d #t) (k 0)) (d (n "pixset_derive") (r "^0.0.4") (d #t) (k 2)) (d (n "rand") (r "^0.3.15") (d #t) (k 2)))) (h "08ngvcy9p3qb0c3l2nqv1d2awywpvicmh13cgj8i3m51m376sygm")))
+
+(define-public crate-gltile-0.0.5 (c (n "gltile") (v "0.0.5") (d (list (d (n "glium") (r "^0.17.0") (d #t) (k 0)) (d (n "image") (r "^0.14.0") (d #t) (k 0)) (d (n "lazy_static") (r "^0.2.8") (d #t) (k 0)) (d (n "looper") (r "^0.0.2") (d #t) (k 2)) (d (n "palette") (r "^0.2.1") (d #t) (k 0)) (d (n "pixset") (r "^0.0.6") (d #t) (k 0)) (d (n "pixset_derive") (r "^0.0.5") (d #t) (k 2)) (d (n "rand") (r "^0.3.15") (d #t) (k 2)))) (h "0qy6zdqn8m29y5l2jxibb21p944bdzflamkrkf6fljms6avifp5g")))
+

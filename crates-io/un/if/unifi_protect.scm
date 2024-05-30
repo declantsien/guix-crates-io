@@ -1,0 +1,34 @@
+(define-module (crates-io un if unifi_protect) #:use-module (crates-io))
+
+(define-public crate-unifi_protect-0.1.0 (c (n "unifi_protect") (v "0.1.0") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0j56d8my0r8cbs91zpjvavx9s5ws9agf8qma3c46hggz2n071lbz")))
+
+(define-public crate-unifi_protect-0.1.1 (c (n "unifi_protect") (v "0.1.1") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "19ik5rxrdby07g8gd3y6kmq3n0hn4cxy91dq08zdys9m0ahk132g")))
+
+(define-public crate-unifi_protect-0.1.2 (c (n "unifi_protect") (v "0.1.2") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "02alp5y754ssbxi0g6p84ix150q5mvs8lvzsiz5ifr1srvy020gc")))
+
+(define-public crate-unifi_protect-0.1.3 (c (n "unifi_protect") (v "0.1.3") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1kc881vjg112nay0k8jn35nrhbh4qg55vfqwq02sk2nyp62c91w8")))
+
+(define-public crate-unifi_protect-0.2.0 (c (n "unifi_protect") (v "0.2.0") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1db7fjpb5ppwf1xl32vwz798wqlnvdr91hdnw5512q6fr2qfs5bi")))
+
+(define-public crate-unifi_protect-0.4.2 (c (n "unifi_protect") (v "0.4.2") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1f0vajgxpq1x09aalj3sag3f2zd2b5fyc3x2d3ja99d6bxv758vq")))
+
+(define-public crate-unifi_protect-0.4.3 (c (n "unifi_protect") (v "0.4.3") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0xwc2iv25802ady58bkj2krb3f9lhaxbsdbp8fwp2c68cdz8hpnv")))
+
+(define-public crate-unifi_protect-0.4.4 (c (n "unifi_protect") (v "0.4.4") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0fb395h9kv1f4v56p68sjz65ywmymhcg79vbxs46vrh3vlbpnkbj")))
+
+(define-public crate-unifi_protect-0.4.5 (c (n "unifi_protect") (v "0.4.5") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1vnh8hickgpbpl14n418vmdi5ffmb1zm4v46wcrmgnfy8w88gwhr")))
+
+(define-public crate-unifi_protect-0.4.6 (c (n "unifi_protect") (v "0.4.6") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0wkxm1r8l1p121j3b3s01bwn5ff1k7655fl3bai4pbph950z6mm4")))
+
+(define-public crate-unifi_protect-0.4.7 (c (n "unifi_protect") (v "0.4.7") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0yxmxzbi4a84j2m6xllyixjjhp8rvnzniv2d89mbkf04954wy4nw")))
+
+(define-public crate-unifi_protect-0.4.8 (c (n "unifi_protect") (v "0.4.8") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0146b3m5ipvfxgxshmnachh6kqmq8iw2yakxrzsi1sy3lc4dknlr")))
+
+(define-public crate-unifi_protect-0.4.9 (c (n "unifi_protect") (v "0.4.9") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0c604pf7h4lq0r5iy9qlpa3775567fw0fgkanp622jaqclrfsyiw")))
+
+(define-public crate-unifi_protect-0.5.0 (c (n "unifi_protect") (v "0.5.0") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "11rrlarmjjbrbwm00lpj544vsl0iwf11vbcp3p1kp1srx4rs1a2i")))
+
+(define-public crate-unifi_protect-0.5.1 (c (n "unifi_protect") (v "0.5.1") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "16icbiqb1ngvy6y06gwfkprmfydnhn3z4g1v59x6r2k93ilh01wn")))
+
+(define-public crate-unifi_protect-0.5.2 (c (n "unifi_protect") (v "0.5.2") (d (list (d (n "http") (r "^0.2.9") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0l3dvaria3bcpxpq48z8ba613ran3qbznw1r9rnfsp2p11dylalk")))
+

@@ -1,0 +1,8 @@
+(define-module (crates-io si mp simplicial_topology) #:use-module (crates-io))
+
+(define-public crate-simplicial_topology-0.1.0 (c (n "simplicial_topology") (v "0.1.0") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "plotly") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "0d1j75af0xm4i5ij7n0v9nbb05aj2vw9vsg90pd9wfda1c811vrm") (s 2) (e (quote (("sc_plot" "dep:plotly"))))))
+
+(define-public crate-simplicial_topology-0.1.1 (c (n "simplicial_topology") (v "0.1.1") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "plotly") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "1jjxi0zldb3ss496ihl5qv2sdpgzjz5k8y6ii3val9ijxzjk61n1") (s 2) (e (quote (("sc_plot" "dep:plotly"))))))
+
+(define-public crate-simplicial_topology-0.1.2 (c (n "simplicial_topology") (v "0.1.2") (d (list (d (n "criterion") (r "^0.4.0") (f (quote ("html_reports"))) (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31") (d #t) (k 0)) (d (n "num-integer") (r "^0.1.45") (d #t) (k 0)) (d (n "plotly") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "03n8a5vhhsn6vh9jn31fcw20k5gamikcybb7a1icc3i55m3iw3cc") (s 2) (e (quote (("sc_plot" "dep:plotly"))))))
+

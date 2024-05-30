@@ -1,0 +1,4 @@
+(define-module (crates-io fa br fabric-system-benchmarking) #:use-module (crates-io))
+
+(define-public crate-fabric-system-benchmarking-2.0.0 (c (n "fabric-system-benchmarking") (v "2.0.0") (d (list (d (n "codec") (r "^2.0.1") (k 0) (p "tetsy-scale-codec")) (d (n "fabric-benchmarking") (r "^2.0.0") (k 0)) (d (n "fabric-support") (r "^2.0.0") (k 0)) (d (n "fabric-system") (r "^2.0.0") (k 0)) (d (n "serde") (r "^1.0.101") (d #t) (k 2)) (d (n "tet-core") (r "^2.0.2") (k 0)) (d (n "tet-io") (r "^2.0.2") (d #t) (k 2)) (d (n "tetcore-std") (r "^2.0.2") (k 0)) (d (n "tp-runtime") (r "^2.0.2") (k 0)))) (h "1n3hip9zy93rl7wgvjxjvi4pyzkwjdrpggvna60npn01qscl55v1") (f (quote (("std" "codec/std" "tp-runtime/std" "tetcore-std/std" "fabric-benchmarking/std" "fabric-system/std" "fabric-support/std" "tet-core/std") ("default" "std"))))))
+

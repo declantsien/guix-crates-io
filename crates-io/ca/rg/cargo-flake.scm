@@ -1,0 +1,12 @@
+(define-module (crates-io ca rg cargo-flake) #:use-module (crates-io))
+
+(define-public crate-cargo-flake-0.0.1 (c (n "cargo-flake") (v "0.0.1") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (f (quote ("rayon" "improved_unicode"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "tabular") (r "^0.1") (d #t) (k 0)))) (h "03vgn604qw936m677sxzby40vjx848jrqwz6jzxvbl465l36im8a")))
+
+(define-public crate-cargo-flake-0.0.2 (c (n "cargo-flake") (v "0.0.2") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (f (quote ("rayon" "improved_unicode"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "tabular") (r "^0.1") (d #t) (k 0)))) (h "1kgphp3djgbczrj49aapr2hhdsf7yyh2azqavh0qpws8ffrlf7xk")))
+
+(define-public crate-cargo-flake-0.0.3 (c (n "cargo-flake") (v "0.0.3") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (f (quote ("rayon" "improved_unicode"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "tabular") (r "^0.1") (d #t) (k 0)))) (h "10vkbzgdips9w1ypnjvs5hk064df6bdaf0m459570rcypbq1y769")))
+
+(define-public crate-cargo-flake-0.0.4 (c (n "cargo-flake") (v "0.0.4") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (f (quote ("rayon" "improved_unicode"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tabular") (r "^0.1") (d #t) (k 0)))) (h "1ygkp0mps9jk820a9x5fxnwlc05w73qrqfsl6ai9f787j7idn0y4")))
+
+(define-public crate-cargo-flake-0.0.5 (c (n "cargo-flake") (v "0.0.5") (d (list (d (n "argh") (r "^0.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.15") (f (quote ("rayon" "improved_unicode"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num_cpus") (r "^1.13") (d #t) (k 0)) (d (n "rayon") (r "^1.5") (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tabular") (r "^0.1") (d #t) (k 0)))) (h "13xp2cj2w3l8h3ah1igkx0x6jx70i1mvllj8znr0yl5giq8mpira")))
+

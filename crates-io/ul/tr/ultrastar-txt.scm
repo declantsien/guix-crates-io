@@ -1,0 +1,10 @@
+(define-module (crates-io ul tr ultrastar-txt) #:use-module (crates-io))
+
+(define-public crate-ultrastar-txt-0.1.0 (c (n "ultrastar-txt") (v "0.1.0") (d (list (d (n "chardet") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "encoding") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "1xvinc0d0drggab06bhfq6b2dgps8ijb8pk6f8nycira3gl6ywjd") (f (quote (("file-support" "chardet" "encoding") ("default" "file-support"))))))
+
+(define-public crate-ultrastar-txt-0.1.1 (c (n "ultrastar-txt") (v "0.1.1") (d (list (d (n "chardet") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "encoding") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "10wqxa2ihhgkdwd5k8scvwnn1c95bqx8vsb5ln10wj84f08vjq51") (f (quote (("file-support" "chardet" "encoding") ("default" "file-support"))))))
+
+(define-public crate-ultrastar-txt-0.1.2 (c (n "ultrastar-txt") (v "0.1.2") (d (list (d (n "chardet") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "encoding") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "error-chain") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^0.2") (d #t) (k 0)))) (h "12wq1j3l2vf3f9laqwvnpchkds645hxkvd6fr00ysjdq5582im6v") (f (quote (("file-support" "chardet" "encoding") ("default" "file-support"))))))
+
+(define-public crate-ultrastar-txt-0.1.3 (c (n "ultrastar-txt") (v "0.1.3") (d (list (d (n "chardet") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "criterion") (r "^0.2") (d #t) (k 2)) (d (n "encoding") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "error-chain") (r "^0.12") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "08ql2sqv35zhgih29ifg1aapkn9112vwwnvs0sv8azyjqm6sbvj4") (f (quote (("file-support" "chardet" "encoding") ("default" "file-support"))))))
+

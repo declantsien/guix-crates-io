@@ -1,0 +1,6 @@
+(define-module (crates-io cx x- cxx-async) #:use-module (crates-io))
+
+(define-public crate-cxx-async-0.1.0 (c (n "cxx-async") (v "0.1.0") (d (list (d (n "async-recursion") (r "^1") (d #t) (k 0)) (d (n "cxx") (r "^1") (f (quote ("c++20"))) (d #t) (k 0)) (d (n "cxx-async-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "cxx-build") (r "^1") (d #t) (k 1)) (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "link-cplusplus") (r "^1") (f (quote ("libc++"))) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pin-utils") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "1c9j0dp4l92k63hmvd310ai25nkfiwik50igg61sjyc5zdlx8444") (l "cxx-async")))
+
+(define-public crate-cxx-async-0.1.1 (c (n "cxx-async") (v "0.1.1") (d (list (d (n "async-recursion") (r "^1") (d #t) (k 0)) (d (n "cxx") (r "^1") (f (quote ("c++20"))) (d #t) (k 0)) (d (n "cxx-async-macro") (r "^0.1.1") (d #t) (k 0)) (d (n "cxx-build") (r "^1") (d #t) (k 1)) (d (n "futures") (r "^0.3") (f (quote ("thread-pool"))) (d #t) (k 0)) (d (n "link-cplusplus") (r "^1") (f (quote ("libc++"))) (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pin-utils") (r "^0.1") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0dfnamaalf1ns95q87q304ni0369yk96kk73z1w4z6xfi2pvggzy") (l "cxx-async")))
+

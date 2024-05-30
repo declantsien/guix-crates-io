@@ -1,0 +1,12 @@
+(define-module (crates-io be vy bevy_webcam_facial) #:use-module (crates-io))
+
+(define-public crate-bevy_webcam_facial-0.1.0 (c (n "bevy_webcam_facial") (v "0.1.0") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 0)) (d (n "bevy-scene-hook") (r "^7.0.0") (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "rscam") (r "^0.5.5") (d #t) (k 0)) (d (n "rustface") (r "^0.1.7") (d #t) (k 0)))) (h "0bxxavscgxzsd6pyqg71cgrk4im4rdmr5gbb1vzz5wp0vf78v7if") (y #t)))
+
+(define-public crate-bevy_webcam_facial-0.1.1 (c (n "bevy_webcam_facial") (v "0.1.1") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 0)) (d (n "bevy-scene-hook") (r "^7.0.0") (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "rscam") (r "^0.5.5") (d #t) (k 0)) (d (n "rustface") (r "^0.1.7") (d #t) (k 0)))) (h "17d8v8pkvh0wjfdsxh5d9bljb01hnbnh62p5dn9kvi1mkmgz1fgs")))
+
+(define-public crate-bevy_webcam_facial-0.1.2 (c (n "bevy_webcam_facial") (v "0.1.2") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 0)) (d (n "bevy-scene-hook") (r "^7.0.0") (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "rscam") (r "^0.5.5") (d #t) (k 0)) (d (n "rustface") (r "^0.1.7") (d #t) (k 0)))) (h "0j05szy67cw45p9kqq9hzbpfx395d9i3pmw4bay55z3s6bhy8hpg")))
+
+(define-public crate-bevy_webcam_facial-0.1.3 (c (n "bevy_webcam_facial") (v "0.1.3") (d (list (d (n "bevy") (r "^0.11") (d #t) (k 0)) (d (n "bevy-scene-hook") (r "^7.0.0") (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "rscam") (r "^0.5.5") (d #t) (k 0)) (d (n "rustface") (r "^0.1.7") (d #t) (k 0)))) (h "1m9690z7rigiq8z3yghhzwg3ps4v9gxqsn77x6j5z0xvxffw8716")))
+
+(define-public crate-bevy_webcam_facial-0.1.4 (c (n "bevy_webcam_facial") (v "0.1.4") (d (list (d (n "bevy") (r "^0.11") (k 0)) (d (n "bevy") (r "^0.11") (d #t) (k 2)) (d (n "bevy-scene-hook") (r "^7.0.0") (d #t) (k 2)) (d (n "camera_capture") (r "^0.5.0") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.8") (d #t) (k 0)) (d (n "futures-lite") (r "^1.13.0") (d #t) (k 0)) (d (n "image") (r "^0.24.6") (d #t) (k 0)) (d (n "rustface") (r "^0.1.7") (d #t) (k 0)))) (h "0njwgn1q78qbczs03h5gfy1q5r9p7yfn80i5q60q8gvpi5w8abzl")))
+

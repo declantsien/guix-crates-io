@@ -1,0 +1,8 @@
+(define-module (crates-io st ag stageleft_macro) #:use-module (crates-io))
+
+(define-public crate-stageleft_macro-0.1.0 (c (n "stageleft_macro") (v "0.1.0") (d (list (d (n "insta") (r "^1.7.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.0") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.57") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "sha256") (r "^1.4.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.0") (f (quote ("parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "1wzybww0y9qlp2lwclkx9mxqxsar1yhfwgqqnwi5y059x3r85hzg")))
+
+(define-public crate-stageleft_macro-0.1.1 (c (n "stageleft_macro") (v "0.1.1") (d (list (d (n "insta") (r "^1.7.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.0") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.57") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "sha256") (r "^1.4.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.0") (f (quote ("parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "1qn142cggwrnj31gq6drb1iirq6rv35743p43l0m9xdg41z9lpaj")))
+
+(define-public crate-stageleft_macro-0.2.0 (c (n "stageleft_macro") (v "0.2.0") (d (list (d (n "insta") (r "^1.7.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.0") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^1.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.57") (d #t) (k 0)) (d (n "quote") (r "^1.0.0") (d #t) (k 0)) (d (n "sha256") (r "^1.4.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.0") (f (quote ("parsing" "extra-traits" "visit"))) (d #t) (k 0)))) (h "1gyqjbk69vq4cfkmw525r638qj39rfbvy5srgccci6mwjnils1zq")))
+

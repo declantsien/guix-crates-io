@@ -1,0 +1,6 @@
+(define-module (crates-io br ow browsercookie-rs) #:use-module (crates-io))
+
+(define-public crate-browsercookie-rs-0.1.0 (c (n "browsercookie-rs") (v "0.1.0") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "cookie") (r "^0.11.0") (d #t) (k 0)) (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "lz4") (r "^1.23.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rust-ini") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)))) (h "1z9hwhbbmx4sp0442jwiyvxxmsm5qp53b8qcmjhz0skyibjghr33")))
+
+(define-public crate-browsercookie-rs-0.1.1 (c (n "browsercookie-rs") (v "0.1.1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "clap") (r "^2.33.0") (d #t) (k 0)) (d (n "cookie") (r "^0.11.0") (d #t) (k 0)) (d (n "dirs") (r "^1.0") (d #t) (k 0)) (d (n "lz4") (r "^1.23.1") (d #t) (k 0)) (d (n "memmap") (r "^0.7.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rust-ini") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.90") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.39") (d #t) (k 0)))) (h "196c35w9wm1lc4dxddcf6lffp6d97br7cmadghy4yhs0i6j7bg58")))
+

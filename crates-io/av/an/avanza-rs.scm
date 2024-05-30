@@ -1,0 +1,10 @@
+(define-module (crates-io av an avanza-rs) #:use-module (crates-io))
+
+(define-public crate-avanza-rs-0.1.0 (c (n "avanza-rs") (v "0.1.0") (d (list (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "otpauth") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0n5gw59rnmg3pcpm0lh5qflrmv9wnv86mapcvyvr3xb6nss1zfxv")))
+
+(define-public crate-avanza-rs-0.1.1 (c (n "avanza-rs") (v "0.1.1") (d (list (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "otpauth") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "17lpdi5gjsjwznwcj0f2apr6zy897s334gmp2kzckbym7bmvsb4y")))
+
+(define-public crate-avanza-rs-0.1.2 (c (n "avanza-rs") (v "0.1.2") (d (list (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "otpauth") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "1vj0kpqkpn7clvmawyirrjblsf5js1qa4kjn5bkynvhw1aj7n793")))
+
+(define-public crate-avanza-rs-0.1.3 (c (n "avanza-rs") (v "0.1.3") (d (list (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "otpauth") (r "^0.4.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.103") (d #t) (k 0)) (d (n "surf") (r "^2.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "14lvqg6rpg7506v8qkvbbcram8y4za1fqv97d1mhw6crln2dzhds")))
+

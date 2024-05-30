@@ -1,0 +1,4 @@
+(define-module (crates-io su bb subber) #:use-module (crates-io))
+
+(define-public crate-subber-3.0.0 (c (n "subber") (v "3.0.0") (d (list (d (n "accumulate") (r "^3.0.0") (f (quote ("ink-as-dependency"))) (k 0)) (d (n "ink_env") (r "^3.0.0") (k 0)) (d (n "ink_lang") (r "^3.0.0") (k 0)) (d (n "ink_metadata") (r "^3.0.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "ink_primitives") (r "^3.0.0") (k 0)) (d (n "ink_storage") (r "^3.0.0") (k 0)) (d (n "scale") (r "^3") (f (quote ("derive"))) (k 0) (p "parity-scale-codec")) (d (n "scale-info") (r "^2") (f (quote ("derive"))) (o #t) (k 0)))) (h "0zc0b32arw8f5x6b2cxncz0r6pa17frxmg393h0lqv7wl1mzf4sg") (f (quote (("std" "ink_primitives/std" "ink_metadata/std" "ink_env/std" "ink_storage/std" "ink_lang/std" "scale/std" "scale-info/std" "accumulate/std") ("ink-as-dependency") ("default" "std"))))))
+

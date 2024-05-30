@@ -1,0 +1,4 @@
+(define-module (crates-io qw ik qwik-core) #:use-module (crates-io))
+
+(define-public crate-qwik-core-0.1.0 (c (n "qwik-core") (v "0.1.0") (d (list (d (n "criterion") (r "^0.3.5") (d #t) (k 2)) (d (n "glob") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "insta") (r "^1.8.0") (d #t) (k 2)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "relative-path") (r "^1.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.60") (d #t) (k 2)) (d (n "simple-error") (r "^0.2.3") (d #t) (k 0)) (d (n "swc_atoms") (r "^0.2.9") (d #t) (k 0)) (d (n "swc_common") (r "^0.14.5") (f (quote ("sourcemap"))) (d #t) (k 0)) (d (n "swc_ecmascript") (r "^0.85.0") (f (quote ("parser" "transforms" "module" "typescript" "optimization" "minifier" "react" "utils" "visit" "codegen" "utils"))) (d #t) (k 0)))) (h "1kdrzsp7kkpbwqs8ml4l5nvl32hin8ig9da47kcrnabwggx461i0") (f (quote (("fs" "glob"))))))
+

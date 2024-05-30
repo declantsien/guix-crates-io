@@ -1,0 +1,10 @@
+(define-module (crates-io ac co account-address) #:use-module (crates-io))
+
+(define-public crate-account-address-0.1.6 (c (n "account-address") (v "0.1.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "mv-core-types") (r "^0.1.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "1mcqhkqphbkv52v9y66svx0kgp6diabxmmwpd5vm675idrhj46fa") (f (quote (("default") ("address32" "mv-core-types/address32") ("address20" "mv-core-types/address20"))))))
+
+(define-public crate-account-address-0.2.0 (c (n "account-address") (v "0.2.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "move-core-types") (r "^0.2.1") (d #t) (k 0) (p "mv-core-types")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "02lyzkpf58s90di221hmn1fh46cgfj1fi3i5ls3cim96ahlbi6jb") (f (quote (("default") ("address32" "move-core-types/address32") ("address20" "move-core-types/address20"))))))
+
+(define-public crate-account-address-0.2.2 (c (n "account-address") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "move-core-types") (r "^0.3.1") (d #t) (k 0) (p "mv-core-types")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "0zv1mmrjwn4i5jv2cq0i7vigk9jr0yxxlzc18piz1sc6k02m8nms") (f (quote (("default") ("address32" "move-core-types/address32") ("address20" "move-core-types/address20"))))))
+
+(define-public crate-account-address-0.2.3 (c (n "account-address") (v "0.2.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "move-core-types") (r "^0.3.1") (d #t) (k 0) (p "mv-core-types")) (d (n "schemars") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.137") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 2)))) (h "1nslbp9rhhih97hbp4361ymb1h5x0bm2d4pn27xndc573ri1wdcl") (f (quote (("default") ("address32" "move-core-types/address32") ("address20" "move-core-types/address20"))))))
+

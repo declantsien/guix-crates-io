@@ -1,0 +1,10 @@
+(define-module (crates-io md bo mdbook-frontmatter) #:use-module (crates-io))
+
+(define-public crate-mdbook-frontmatter-0.0.1 (c (n "mdbook-frontmatter") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "gray_matter") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy-regex") (r "^2.2.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "01bykbjhg3h9bkqcqik9jfwlhzjr9y9d4jk77ii3cgpkq0fqg5bm")))
+
+(define-public crate-mdbook-frontmatter-0.0.2 (c (n "mdbook-frontmatter") (v "0.0.2") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "gray_matter") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy-regex") (r "^2.2.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0hglb58xdy74hxnqd763hyqf0r7k6ixgbx2xbsfj6lhr8ac11cpz")))
+
+(define-public crate-mdbook-frontmatter-0.0.3 (c (n "mdbook-frontmatter") (v "0.0.3") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "gray_matter") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy-regex") (r "^2.2.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "0j0df5ph172fjg2l8358mk15kcpsznq2h7jplpnljjr9v96hajsi")))
+
+(define-public crate-mdbook-frontmatter-0.0.4 (c (n "mdbook-frontmatter") (v "0.0.4") (d (list (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "clap") (r "^2.33.3") (d #t) (k 0)) (d (n "gray_matter") (r "^0.2.1") (d #t) (k 0)) (d (n "lazy-regex") (r "^2.2.1") (d #t) (k 0)) (d (n "mdbook") (r "^0.4.12") (d #t) (k 0)) (d (n "semver") (r "^1.0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.123") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)))) (h "15gy5islfjl5rnbzz6a3va0mirrswalvgdhb6dr2xhxryipl1dgb")))
+

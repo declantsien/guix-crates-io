@@ -1,0 +1,6 @@
+(define-module (crates-io js on jsonschema-valid-compat) #:use-module (crates-io))
+
+(define-public crate-jsonschema-valid-compat-0.4.1-alpha.1 (c (n "jsonschema-valid-compat") (v "0.4.1-alpha.1") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "iri-string") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "json-ptr") (r "^0.3.4") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "0hf260i0x2f7g1nrxwphhqwcbfjyirxz1a6s313f4yx7nj547hvz")))
+
+(define-public crate-jsonschema-valid-compat-0.4.1-alpha.2 (c (n "jsonschema-valid-compat") (v "0.4.1-alpha.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "iri-string") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.8") (d #t) (k 0)) (d (n "json-ptr") (r "^0.3.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.3") (f (quote ("std"))) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2.1") (d #t) (k 0)))) (h "1gkh3wqqh80klkwcwr76i9rhi3cdxac5ljkjfpjp0agh00jl013i")))
+

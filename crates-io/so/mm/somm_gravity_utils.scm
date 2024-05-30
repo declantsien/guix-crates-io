@@ -1,0 +1,4 @@
+(define-module (crates-io so mm somm_gravity_utils) #:use-module (crates-io))
+
+(define-public crate-somm_gravity_utils-0.1.0 (c (n "somm_gravity_utils") (v "0.1.0") (d (list (d (n "actix") (r "^0.11") (d #t) (k 2)) (d (n "clarity") (r "^0.4.11") (d #t) (k 0)) (d (n "cosmos-sdk-proto") (r "^0.6.0") (d #t) (k 0)) (d (n "deep_space") (r "^2.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num256") (r "^0.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "sha3") (r "^0.9") (d #t) (k 0)) (d (n "somm_gravity_proto") (r "^0.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.4") (d #t) (k 0)) (d (n "tonic") (r "^0.4") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "web30") (r "^0.14.4") (d #t) (k 0)))) (h "1mjj0i9wqh0lgr1a7c5f14vigrha19xfyavzcraripyw44y5n199")))
+

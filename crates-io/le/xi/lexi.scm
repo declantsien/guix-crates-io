@@ -1,0 +1,10 @@
+(define-module (crates-io le xi lexi) #:use-module (crates-io))
+
+(define-public crate-lexi-0.1.0 (c (n "lexi") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (k 0)))) (h "0g4ykamil9vd66ggy2l6ab732l689j9sb8j7vgvd0i8wl4r4g0ia")))
+
+(define-public crate-lexi-0.2.0 (c (n "lexi") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.27") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (k 0)))) (h "0lyng4zdb5h1mymqksg8m7p18s2hkr21jakb8b9a80y070j3z83m")))
+
+(define-public crate-lexi-0.3.0 (c (n "lexi") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (k 0)))) (h "13292yhkyl1j9qw20amlry51sdw334kjbgsann7slii2wxfvg903")))
+
+(define-public crate-lexi-0.4.0 (c (n "lexi") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "tera") (r "^1.19.1") (k 0)))) (h "0p48jbzn7ab8apdmw2mbg2gi9pm4fqd6nhl942ahyz7js7yzjkfw")))
+

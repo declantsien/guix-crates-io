@@ -1,0 +1,4 @@
+(define-module (crates-io go th gothack-future-parking_lot) #:use-module (crates-io))
+
+(define-public crate-gothack-future-parking_lot-0.3.4 (c (n "gothack-future-parking_lot") (v "0.3.4") (d (list (d (n "crossbeam-queue") (r "^0.3") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 2)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (f (quote ("send_guard"))) (d #t) (k 2)) (d (n "pin-project-lite") (r "^0.2.9") (d #t) (k 0)) (d (n "tokio") (r "^1.18") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 2)))) (h "16pq0pqjlddzs9ds5cmn71spsckb6vrvabqfz6wfw39fgckqm7g3") (f (quote (("send_guard" "parking_lot/send_guard"))))))
+

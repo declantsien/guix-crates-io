@@ -1,0 +1,4 @@
+(define-module (crates-io li ch licheszter) #:use-module (crates-io))
+
+(define-public crate-licheszter-0.1.0 (c (n "licheszter") (v "0.1.0") (d (list (d (n "bytes") (r "^1.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures-util") (r "^0.3.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.11") (f (quote ("json" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.138") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.82") (d #t) (k 0)) (d (n "serde_with") (r "^1.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)) (d (n "tokio") (r "^1.19.2") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1.9") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.3") (f (quote ("io"))) (d #t) (k 0)))) (h "0n035x8jvr5im557m14fkyjv3rbhg0spx49r8ajhcplcdy0a708c")))
+

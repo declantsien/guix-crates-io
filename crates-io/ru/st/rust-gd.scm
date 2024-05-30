@@ -1,0 +1,12 @@
+(define-module (crates-io ru st rust-gd) #:use-module (crates-io))
+
+(define-public crate-rust-gd-0.1.0 (c (n "rust-gd") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.53") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "hashlink") (r "^0.7.0") (d #t) (k 0)) (d (n "libecc") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0fygw022kjrr0zrrj6pcwicgxm4gsxv6ggdh848lraga8n70c32q")))
+
+(define-public crate-rust-gd-0.2.0 (c (n "rust-gd") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.55") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hashlink") (r "^0.7.0") (d #t) (k 0)) (d (n "libecc") (r "^0.2.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "08bhz4x1nrylhs3j4j8qw041f8p9vsvr7im2m7r4qvc2f4nl82f5")))
+
+(define-public crate-rust-gd-0.2.1 (c (n "rust-gd") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0.55") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.52") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hashlink") (r "^0.7.0") (d #t) (k 0)) (d (n "libecc") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tokio") (r "^1.17.0") (f (quote ("rt" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "02hsvas1sfqb68p0f1r1axp9zva0h9xy254sdg72jmpnasiwlgha")))
+
+(define-public crate-rust-gd-0.2.2 (c (n "rust-gd") (v "0.2.2") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.53") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.21") (d #t) (k 0)) (d (n "hashlink") (r "^0.8.0") (d #t) (k 0)) (d (n "libecc") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tokio") (r "^1.18.2") (f (quote ("rt" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1asnjvvbwpscj6p73gdpr9ynva69734v39d5na2h14kz3gk04hvj")))
+
+(define-public crate-rust-gd-0.2.3 (c (n "rust-gd") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.69") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.28") (d #t) (k 0)) (d (n "hashlink") (r "^0.8.3") (d #t) (k 0)) (d (n "libecc") (r "^0.2.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (f (quote ("rt" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1vjigzax419r0r8ddrk6wsrs5l1d7w4yxh3169mcypn1rr9bbf1p")))
+

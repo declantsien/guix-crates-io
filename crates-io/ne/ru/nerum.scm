@@ -1,0 +1,10 @@
+(define-module (crates-io ne ru nerum) #:use-module (crates-io))
+
+(define-public crate-nerum-0.0.1 (c (n "nerum") (v "0.0.1") (h "07h4gsw1l17qy2wj5569b59v65ahr6vlg0bwlpby9l6xpgz1vg3y")))
+
+(define-public crate-nerum-1.0.0 (c (n "nerum") (v "1.0.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "inquire") (r "^0.6") (d #t) (k 0)) (d (n "ipnet") (r "^2.7") (d #t) (k 0)) (d (n "nerum-core") (r "^1.0.0") (d #t) (k 0)) (d (n "netdev") (r "^0.24") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "term-table") (r "^1.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)))) (h "1rq1895yzc2ivb3hlhkhg3vc82176z0zvvkjgrnxgab5qdsmvagq")))
+
+(define-public crate-nerum-1.1.0 (c (n "nerum") (v "1.1.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "inquire") (r "^0.6") (d #t) (k 0)) (d (n "ipnet") (r "^2.7") (d #t) (k 0)) (d (n "nerum-core") (r "^1.1.0") (d #t) (k 0)) (d (n "netdev") (r "^0.24") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "term-table") (r "^1.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)))) (h "00mz983fmh5hpfyc26ffabnqr5ya7qhh9var18f72dw2qgmmgnjz")))
+
+(define-public crate-nerum-1.2.0 (c (n "nerum") (v "1.2.0") (d (list (d (n "clap") (r "^4.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "indicatif") (r "^0.16") (d #t) (k 0)) (d (n "inquire") (r "^0.6") (d #t) (k 0)) (d (n "ipnet") (r "^2.7") (d #t) (k 0)) (d (n "nerum-core") (r "^1.2.0") (d #t) (k 0)) (d (n "netdev") (r "^0.26") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "term-table") (r "^1.3.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 0)))) (h "1369gbhb20xbk2637kwqxc2drd7dksipzapwxy6ha8s3jkkkmfjb")))
+

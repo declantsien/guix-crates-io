@@ -1,0 +1,4 @@
+(define-module (crates-io ce da cedar-db) #:use-module (crates-io))
+
+(define-public crate-cedar-db-0.1.0 (c (n "cedar-db") (v "0.1.0") (d (list (d (n "criterion") (r "^0.4.0") (d #t) (k 2)) (d (n "derive_builder") (r "^0.12.0") (d #t) (k 0)) (d (n "duckdb") (r "^0.7.1") (f (quote ("serde_json"))) (d #t) (k 0)) (d (n "hnsw_rs") (r "^0.1.19") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "rust-bert") (r "^0.21.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.164") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)) (d (n "snafu") (r "^0.7.4") (d #t) (k 0)) (d (n "tch") (r "^0.13") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "typenum") (r "^1.16.0") (d #t) (k 0)) (d (n "uuid") (r "^1.3.2") (f (quote ("v4" "fast-rng"))) (d #t) (k 0)))) (h "1fz57f30p3z26yraipdnarnskapypx0biipkvs0mhwgpxmx9bs69")))
+
