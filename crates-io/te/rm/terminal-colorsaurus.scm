@@ -22,3 +22,5 @@
 
 (define-public crate-terminal-colorsaurus-0.4.1 (c (n "terminal-colorsaurus") (v "0.4.1") (d (list (d (n "libc") (r "^0.2.151") (d #t) (t "cfg(unix)") (k 0)) (d (n "memchr") (r "^2.7.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "mio") (r "^0.8.11") (f (quote ("os-poll" "os-ext"))) (t "cfg(unix)") (k 0)) (d (n "rgb") (r "^0.8.37") (o #t) (d #t) (k 0)) (d (n "terminal-trx") (r "^0.2.0") (d #t) (t "cfg(unix)") (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1f35ys10db3zrb0bbaf7x79yhb0gqxjsb5f33i5rd3cjf4ndx8zj") (f (quote (("docs")))) (r "1.70.0")))
 
+(define-public crate-terminal-colorsaurus-0.4.2 (c (n "terminal-colorsaurus") (v "0.4.2") (d (list (d (n "anstyle") (r "^1.0.7") (o #t) (d #t) (k 0)) (d (n "libc") (r "^0.2.151") (d #t) (t "cfg(target_os = \"macos\")") (k 0)) (d (n "memchr") (r "^2.7.1") (d #t) (t "cfg(unix)") (k 0)) (d (n "mio") (r "^0.8.11") (f (quote ("os-ext"))) (t "cfg(unix)") (k 0)) (d (n "rgb") (r "^0.8.37") (o #t) (d #t) (k 0)) (d (n "terminal-trx") (r "^0.2.0") (d #t) (t "cfg(unix)") (k 0)))) (h "0da0br0bkpba25j6cg7nw6nhc0bxq1xhfdiwijw63z3kr7a5fdkk") (f (quote (("docs")))) (r "1.70.0")))
+

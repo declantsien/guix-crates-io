@@ -52,3 +52,5 @@
 
 (define-public crate-rs_osrm-2.0.1 (c (n "rs_osrm") (v "2.0.1") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)))) (h "1h2srgn4v9jasad2g6x1n8bkcpzgja11y0kfbzhlw0kg64kxfb7w")))
 
+(define-public crate-rs_osrm-2.0.2 (c (n "rs_osrm") (v "2.0.2") (d (list (d (n "cmake") (r "^0.1") (d #t) (k 1)))) (h "0agkw9mxk46dzsv9q4p0754vj193rngs9sai40mxafvy32x6j30g")))
+

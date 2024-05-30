@@ -16,3 +16,5 @@
 
 (define-public crate-tac-k-0.3.1 (c (n "tac-k") (v "0.3.1") (d (list (d (n "clap") (r "~4.4") (f (quote ("std" "help" "usage" "cargo"))) (k 0)) (d (n "memmap2") (r "^0.9") (d #t) (k 0)))) (h "0xbaycd98d0wa9165mrj6qiq8jv2d4006z12amglj2njvypyklck") (r "1.70")))
 
+(define-public crate-tac-k-0.3.2 (c (n "tac-k") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "~4.4") (f (quote ("std" "help" "usage" "cargo" "error-context"))) (k 0)) (d (n "tac-k-lib") (r "^0.3.2") (d #t) (k 0)))) (h "12r48v2gdp23s0987csz6r68jds3rv50q9m0kzp90cgrxisd12sf") (r "1.70")))
+
