@@ -540,3 +540,5 @@
 
 (define-public crate-lambda_mountain-1.13.10 (c (n "lambda_mountain") (v "1.13.10") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)))) (h "1sp2m41qjfb6cl6ajwxxg8f2dyldwx8v8lilp2r3ka1q6ln52bac")))
 
+(define-public crate-lambda_mountain-1.13.11 (c (n "lambda_mountain") (v "1.13.11") (d (list (d (n "glob") (r "^0.3") (d #t) (k 0)))) (h "1pwj3y6bbnrnxs45izlpfa55l9xrmaig3d7bhf4ys19mqmwsybc8")))
+

@@ -4,3 +4,5 @@
 
 (define-public crate-wspr_cdk-0.0.2 (c (n "wspr_cdk") (v "0.0.2") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clickhouse") (r "^0.11.6") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0sm4k89i47pslyylnra7d859qsdcb8ms6ck283lcfs7k65wngp1j")))
 
+(define-public crate-wspr_cdk-0.0.3 (c (n "wspr_cdk") (v "0.0.3") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clickhouse") (r "^0.11.6") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1pzmknscadyf3kjk3jrkgyq4ii71rnbb0w3scjf9kdyqx3phgvcb")))
+

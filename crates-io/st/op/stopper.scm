@@ -20,3 +20,5 @@
 
 (define-public crate-stopper-0.2.7 (c (n "stopper") (v "0.2.7") (d (list (d (n "event-listener") (r "^5.2.0") (d #t) (k 0)) (d (n "futures-lite") (r "^2.2.0") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)))) (h "06bh6fksy3b0qm27vda863w00hxwwhn7hy79aqbmj7kas41jvj36")))
 
+(define-public crate-stopper-0.2.8 (c (n "stopper") (v "0.2.8") (d (list (d (n "event-listener") (r "^5.3.1") (d #t) (k 0)) (d (n "futures-lite") (r "^2.3.0") (d #t) (k 0)) (d (n "loom") (r "^0.7") (f (quote ("futures" "checkpoint"))) (o #t) (d #t) (t "cfg(loom)") (k 0)) (d (n "pin-project-lite") (r "^0.2.14") (d #t) (k 0)) (d (n "test-harness") (r "^0.2.0") (d #t) (k 2)))) (h "08g0yplv86xhjairhibvnl6ciqi4hi29lsq9vclivawhdaskrg48") (s 2) (e (quote (("loom" "event-listener/loom" "dep:loom"))))))
+
