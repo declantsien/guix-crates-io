@@ -6,3 +6,5 @@
 
 (define-public crate-say-hello-nicovicz-0.3.0 (c (n "say-hello-nicovicz") (v "0.3.0") (h "11qr5xbil6y6jxqk1mhfpa2a7ijvp1lax6mm42g538yyiha0q2si")))
 
+(define-public crate-say-hello-nicovicz-0.4.0 (c (n "say-hello-nicovicz") (v "0.4.0") (h "0d5vci73daa71fiawmjr3f9g2mcmkm6cdpg1q9b1p7x277kahb1r") (f (quote (("slim" "hello" "goodbye") ("hello") ("goodbye") ("full" "hello" "goodbye" "everyone") ("everyone") ("default" "hello"))))))
+
