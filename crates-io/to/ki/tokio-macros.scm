@@ -66,3 +66,5 @@
 
 (define-public crate-tokio-macros-2.2.0 (c (n "tokio-macros") (v "2.2.0") (d (list (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0fwjy4vdx1h9pi4g2nml72wi0fr27b5m954p13ji9anyy8l1x2jv") (r "1.63")))
 
+(define-public crate-tokio-macros-2.3.0 (c (n "tokio-macros") (v "2.3.0") (d (list (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio") (r "^1.0.0") (f (quote ("full"))) (d #t) (k 2)))) (h "16nkan0x9b62hnqmjqcyd71j1mgpda2sv7gfm2mvbm39l2cfjnjz") (r "1.63")))
+

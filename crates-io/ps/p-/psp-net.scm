@@ -8,3 +8,5 @@
 
 (define-public crate-psp-net-0.2.0 (c (n "psp-net") (v "0.2.0") (d (list (d (n "dns-protocol") (r "^0.1.1") (k 0)) (d (n "embedded-io") (r "^0.6.1") (k 0)) (d (n "embedded-nal") (r "^0.8") (d #t) (k 0)) (d (n "embedded-tls") (r "^0.17") (k 0)) (d (n "lazy_static") (r "^1.4") (f (quote ("spin_no_std"))) (k 0)) (d (n "psp") (r "^0.3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (k 0)) (d (n "rand_chacha") (r "^0.3.1") (k 0)) (d (n "regex") (r "^1.10") (k 0)))) (h "00djna9hri05ms4qhhs6kycy7d2i2svkkr43d48xpmymj2ykg5gy") (f (quote (("std") ("default"))))))
 
+(define-public crate-psp-net-0.3.0 (c (n "psp-net") (v "0.3.0") (d (list (d (n "dns-protocol") (r "^0.1.1") (k 0)) (d (n "embedded-io") (r "^0.6.1") (k 0)) (d (n "embedded-nal") (r "^0.8") (d #t) (k 0)) (d (n "embedded-tls") (r "^0.17") (k 0)) (d (n "lazy_static") (r "^1.4") (f (quote ("spin_no_std"))) (k 0)) (d (n "psp") (r "^0.3.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (k 0)) (d (n "rand_chacha") (r "^0.3.1") (k 0)) (d (n "regex") (r "^1.10") (k 0)))) (h "0rw62n509zg0xx21g2i9jhm8g1ikgjv4mbkn6ln4ampwa24nhx7g") (f (quote (("default"))))))
+

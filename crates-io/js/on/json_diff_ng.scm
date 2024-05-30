@@ -16,3 +16,5 @@
 
 (define-public crate-json_diff_ng-0.6.0-RC1 (c (n "json_diff_ng") (v "0.6.0-RC1") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "03qmf86p8vlihcglhz5shasd930r9b5swp1i3f7bfk09ps3xbbql")))
 
+(define-public crate-json_diff_ng-0.6.0 (c (n "json_diff_ng") (v "0.6.0") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "diffs") (r "^0.5") (d #t) (k 0)) (d (n "maplit") (r "^1.0") (d #t) (k 2)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("preserve_order"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "vg_errortools") (r "^0.1") (d #t) (k 0)))) (h "16yaxrl9hqbniswsrwcc46f12jxbxwjgrf4fm8w0876hx570q6wl") (f (quote (("default" "CLI")))) (s 2) (e (quote (("CLI" "dep:clap"))))))
+
