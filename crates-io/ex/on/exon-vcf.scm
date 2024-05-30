@@ -76,3 +76,5 @@
 
 (define-public crate-exon-vcf-0.23.0 (c (n "exon-vcf") (v "0.23.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.23.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core" "async" "vcf" "bgzf"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1pwja63spzzzdkx8p1py5hrfsrny3vw3fr97ii6i0886ihrmldmg")))
 
+(define-public crate-exon-vcf-0.24.0 (c (n "exon-vcf") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core" "async" "vcf" "bgzf"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "028jpnjwv0apq0knvf9pyxf311rrc29fn8d1yakjcs9y9zp7f8f4")))
+

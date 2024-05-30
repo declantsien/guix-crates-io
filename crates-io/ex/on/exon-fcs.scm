@@ -76,3 +76,5 @@
 
 (define-public crate-exon-fcs-0.23.0 (c (n "exon-fcs") (v "0.23.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.23.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "fs"))) (d #t) (k 0)))) (h "0dhzqck8zii5fnr35k382hg5kypfask7czzgg4ikylic640dr518")))
 
+(define-public crate-exon-fcs-0.24.0 (c (n "exon-fcs") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "byteorder") (r "^1.5.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "fs"))) (d #t) (k 0)))) (h "082lnyyjbf9l8dh5pbg8hlniq972df05zkp62v2rdz9n7xqd3b82")))
+

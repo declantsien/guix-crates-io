@@ -12,3 +12,5 @@
 
 (define-public crate-fusionauth-rust-client-2.1.1 (c (n "fusionauth-rust-client") (v "2.1.1") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0rxzd28vpaw0jh8jq244898k9vlr9g28f0vlrgmd46a8z21w1g2s")))
 
+(define-public crate-fusionauth-rust-client-2.2.0 (c (n "fusionauth-rust-client") (v "2.2.0") (d (list (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)) (d (n "uuid") (r "^1.8") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0h8fcaf9gqjcqwby5k3py1jg2lvydc1c56v6265haknamswf5kih")))
+

@@ -36,3 +36,5 @@
 
 (define-public crate-exon-bigwig-0.23.0 (c (n "exon-bigwig") (v "0.23.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "bigtools") (r "^0.4.3") (d #t) (k 0)) (d (n "exon-common") (r "^0.23.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("compat"))) (d #t) (k 0)))) (h "1kcl736binrb2w152z8sikq9phahx66c0plw0g4s7m6n62xv7c8h")))
 
+(define-public crate-exon-bigwig-0.24.0 (c (n "exon-bigwig") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "bigtools") (r "^0.4.3") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("compat"))) (d #t) (k 0)))) (h "1m9haqmnvaniz1kx7si6fmkc02k1pgyb3vb92d2xgm1yx77h2wc9")))
+
