@@ -8,3 +8,5 @@
 
 (define-public crate-geqslib-0.1.3 (c (n "geqslib") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.78") (d #t) (k 0)) (d (n "gmatlib") (r "^0.0.1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)))) (h "1sjhclarzhgzykag486gwwj73l9h7b4w8icyam0s83q5py642ldl")))
 
+(define-public crate-geqslib-0.1.4 (c (n "geqslib") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.78") (d #t) (k 0)) (d (n "gmatlib") (r "^0.2.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)))) (h "1s7xmcrqwwhwgh4hc2gxjx70d8xl08wzw8107mwmwyp4b9frzppx")))
+

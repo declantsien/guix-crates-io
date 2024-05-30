@@ -258,3 +258,5 @@
 
 (define-public crate-salvo_macros-0.67.2 (c (n "salvo_macros") (v "0.67.2") (d (list (d (n "proc-macro-crate") (r ">=2, <=4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "salvo-serde-util") (r "^0.67.2") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "parsing"))) (d #t) (k 0)))) (h "19maab1bpxq8zgiwxk17p0yvawv4np32cwj97pkfm1vr0k7lp7w9")))
 
+(define-public crate-salvo_macros-0.68.0 (c (n "salvo_macros") (v "0.68.0") (d (list (d (n "proc-macro-crate") (r ">=2, <=4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "salvo-serde-util") (r "^0.68.0") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "parsing"))) (d #t) (k 0)))) (h "12hk4biq046y8vzcz93cv2q106fiwdrrgg3y162gcbvzly3ba4ss")))
+

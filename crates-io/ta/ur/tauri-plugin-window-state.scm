@@ -34,3 +34,5 @@
 
 (define-public crate-tauri-plugin-window-state-2.0.0-beta.7 (c (n "tauri-plugin-window-state") (v "2.0.0-beta.7") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.17") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.13") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "12mh2j191ydrw1k3q3fz95pcr6l4x90b1jb5nbgk8i49xw7zf8zp") (l "tauri-plugin-window-state") (r "1.75")))
 
+(define-public crate-tauri-plugin-window-state-2.0.0-beta.8 (c (n "tauri-plugin-window-state") (v "2.0.0-beta.8") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.16") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1gqj054gn4b2261rs4pzz1b69h6lc59skl7289qcql0r2w2gzdb8") (l "tauri-plugin-window-state") (r "1.75")))
+

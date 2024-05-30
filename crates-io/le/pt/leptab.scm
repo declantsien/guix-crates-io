@@ -30,3 +30,5 @@
 
 (define-public crate-leptab-1.1.5 (c (n "leptab") (v "1.1.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "leptos") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Blob" "BlobPropertyBag"))) (d #t) (k 0)))) (h "1h9svq7g7iqvai35fxrffja7zw9ji995x922p3ng2rdc1r093z1x")))
 
+(define-public crate-leptab-1.1.6 (c (n "leptab") (v "1.1.6") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "leptos") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (d #t) (k 0)) (d (n "web-sys") (r "^0.3") (f (quote ("Blob" "BlobPropertyBag"))) (d #t) (k 0)))) (h "1bx8nz6csvggwjy2vwmz571nj63kh4hk9v1bbdwjdk8210696kwb")))
+

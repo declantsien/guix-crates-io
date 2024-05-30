@@ -8,3 +8,5 @@
 
 (define-public crate-kanidm_utils_users-1.2.1 (c (n "kanidm_utils_users") (v "1.2.1") (d (list (d (n "libc") (r "^0.2.153") (d #t) (k 0)))) (h "1fpzd6rv7cmr7z1wz0g6nazwbj1gqnfzzq2psc8p1wf964sd49ya") (r "1.77")))
 
+(define-public crate-kanidm_utils_users-1.2.2 (c (n "kanidm_utils_users") (v "1.2.2") (d (list (d (n "libc") (r "^0.2.153") (d #t) (k 0)))) (h "0fr41i4df95m59v1l7zcg9abhfnvava8may8qx9jjjzy6mm07al9") (r "1.77")))
+

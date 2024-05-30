@@ -12,3 +12,5 @@
 
 (define-public crate-tauri-plugin-nfc-2.0.0-beta.4 (c (n "tauri-plugin-nfc") (v "2.0.0-beta.4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.17") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.13") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0qddaqq7d320m845ij5kw8n4njq0gblv3hiivg2sykpcsnymlgac") (l "tauri-plugin-nfc")))
 
+(define-public crate-tauri-plugin-nfc-2.0.0-beta.5 (c (n "tauri-plugin-nfc") (v "2.0.0-beta.5") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.16") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "03bj4z84l5l0lkak9ysh6flm0wij63a612fppvxjjhk4b87bc0np") (l "tauri-plugin-nfc")))
+

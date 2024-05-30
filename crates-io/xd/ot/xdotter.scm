@@ -10,3 +10,5 @@
 
 (define-public crate-xdotter-0.0.4 (c (n "xdotter") (v "0.0.4") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (d #t) (k 0)))) (h "1h9i5339r0bs5bplapf107m7hfh38z8pl3mldhvgyw0biwk6j72x")))
 
+(define-public crate-xdotter-0.0.5 (c (n "xdotter") (v "0.0.5") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (d #t) (k 0)))) (h "03myvq413qlmwb0fnsfdl105ycwn1bqwfx52lh4yvh529fli6kci")))
+

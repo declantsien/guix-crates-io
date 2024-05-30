@@ -22,3 +22,5 @@
 
 (define-public crate-tauri-plugin-barcode-scanner-2.0.0-beta.5 (c (n "tauri-plugin-barcode-scanner") (v "2.0.0-beta.5") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.17") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.13") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "126qkajmkafair6pclxq5cn1920va1ks7i1nl2fv1nkddgs2qvcq") (l "tauri-plugin-barcode-scanner") (r "1.75")))
 
+(define-public crate-tauri-plugin-barcode-scanner-2.0.0-beta.6 (c (n "tauri-plugin-barcode-scanner") (v "2.0.0-beta.6") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.16") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0mlwvpc9y2j4dyfg3ydgrhfdj0vy939slm6sbhlkia4njahy3ynz") (l "tauri-plugin-barcode-scanner") (r "1.75")))
+

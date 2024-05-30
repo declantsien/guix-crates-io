@@ -1,0 +1,4 @@
+(define-module (crates-io my -u my-util-rust) #:use-module (crates-io))
+
+(define-public crate-my-util-rust-0.1.0 (c (n "my-util-rust") (v "0.1.0") (d (list (d (n "color-eyre") (r "^0.6.3") (o #t) (d #t) (k 0)) (d (n "eyre") (r "^0.6.12") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)) (d (n "tracing-core") (r "^0.1.32") (o #t) (d #t) (k 0)) (d (n "tracing-error") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "tracing-log") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter" "chrono"))) (o #t) (d #t) (k 0)))) (h "1jcincx6zqk7121mxj6gq43kn2d9cfczrx4l1fcjwrmf4p2gnwr2") (f (quote (("log" "tracing" "tracing-subscriber" "tracing-error" "tracing-core" "tracing-log") ("full" "error" "log") ("error" "eyre" "color-eyre") ("default" "error" "log"))))))
+

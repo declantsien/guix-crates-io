@@ -6,3 +6,5 @@
 
 (define-public crate-myn-0.2.1 (c (n "myn") (v "0.2.1") (d (list (d (n "proc_macro") (r "^1") (d #t) (k 2) (p "proc-macro2")))) (h "0fp6dph06dphz3rfr2yiw92bcki4nydyf3hn2rkbqpqamvfpmssi") (r "1.58.0")))
 
+(define-public crate-myn-0.2.2 (c (n "myn") (v "0.2.2") (d (list (d (n "proc_macro") (r "^1") (d #t) (k 2) (p "proc-macro2")))) (h "04xkim66krw8vjkhzgy0s02p8d9k58x7kc1w544ff04xqz32z7g4") (r "1.58.0")))
+

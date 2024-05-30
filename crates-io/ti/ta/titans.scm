@@ -46,3 +46,5 @@
 
 (define-public crate-titans-0.4.2 (c (n "titans") (v "0.4.2") (d (list (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "isahc") (r "^1.7.2") (f (quote ("text-decoding" "json"))) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "01rd7hcg6s060kr3sjc8sdm1prfhcl61prvw729xid4334yn7c9v")))
 
+(define-public crate-titans-0.4.3 (c (n "titans") (v "0.4.3") (d (list (d (n "fastrand") (r "^1.9.0") (d #t) (k 0)) (d (n "isahc") (r "^1.7.2") (f (quote ("text-decoding" "json"))) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "09vzgr68d0npl90jlb0l87dm4v08m636ia37xh86qf2443knd5ys")))
+

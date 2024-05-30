@@ -22,3 +22,5 @@
 
 (define-public crate-rbspy-testdata-0.2.0 (c (n "rbspy-testdata") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "goblin") (r "^0.7.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.15") (d #t) (k 0)) (d (n "remoteprocess") (r "^0.4.3") (d #t) (k 0)))) (h "0ghkhahvhy6jy6mzk5apvvcy28vn57khcd1fq0619vvzkrkjbrij")))
 
+(define-public crate-rbspy-testdata-0.2.1 (c (n "rbspy-testdata") (v "0.2.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.28") (d #t) (k 0)) (d (n "goblin") (r "^0.7.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.15") (d #t) (k 0)) (d (n "remoteprocess") (r "^0.4.3") (d #t) (k 0)))) (h "0w3nmlhyxvq88x97a2rkbpdh199llhvy43im47k6z4nj4353vrxd")))
+

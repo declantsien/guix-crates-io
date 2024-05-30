@@ -1,0 +1,6 @@
+(define-module (crates-io me tr metre) #:use-module (crates-io))
+
+(define-public crate-metre-0.1.0 (c (n "metre") (v "0.1.0") (d (list (d (n "json_comments") (r "^0.2.2") (d #t) (k 0)) (d (n "metre-macros") (r "^0.1.0") (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1ivhk9h01llazllb5zx04rva0q4i6lwhgcbfq3f9cb3myrq2hcb6")))
+
+(define-public crate-metre-0.1.1 (c (n "metre") (v "0.1.1") (d (list (d (n "json_comments") (r "^0.2.2") (d #t) (k 0)) (d (n "metre-macros") (r "^0.1.1") (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "rustls-tls"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1w79hsj76lqil6c157w0qiklrwc40307vk76l9hcyy0ff28yh5j3")))
+

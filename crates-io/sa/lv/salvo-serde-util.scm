@@ -26,3 +26,5 @@
 
 (define-public crate-salvo-serde-util-0.67.2 (c (n "salvo-serde-util") (v "0.67.2") (d (list (d (n "proc-macro-error") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "180hfv3zddc8q1qbnlyhc12rdhmiz2l6wb8hyvgj0mp81xxif2f2")))
 
+(define-public crate-salvo-serde-util-0.68.0 (c (n "salvo-serde-util") (v "0.68.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1wpr2bmb54wlii1d4h3m4jj5a7s61xra8dr9llwfk1pr19aam5sl")))
+

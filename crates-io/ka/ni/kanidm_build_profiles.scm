@@ -10,3 +10,5 @@
 
 (define-public crate-kanidm_build_profiles-1.2.1 (c (n "kanidm_build_profiles") (v "1.2.1") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 1)) (d (n "gix") (r "^0.53.1") (k 1)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "0sspsvj35p3gi8y232qrkb4qc4njccm2a67wwmaig0ig91b54j62") (r "1.77")))
 
+(define-public crate-kanidm_build_profiles-1.2.2 (c (n "kanidm_build_profiles") (v "1.2.2") (d (list (d (n "base64") (r "^0.21.7") (d #t) (k 0)) (d (n "base64") (r "^0.21.7") (d #t) (k 1)) (d (n "gix") (r "^0.53.1") (k 1)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.5.11") (d #t) (k 0)))) (h "0ryvjlx5m7x0qmxmg5391b53qf7s87h23vlxpn9w350m3c71dqcg") (r "1.77")))
+

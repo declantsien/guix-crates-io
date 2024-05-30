@@ -26,3 +26,5 @@
 
 (define-public crate-tauri-plugin-localhost-2.0.0-beta.4 (c (n "tauri-plugin-localhost") (v "2.0.0-beta.4") (d (list (d (n "http") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.17") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)))) (h "12dc23aaafrcamm0j7yaz4xzcdv3vw8cq3bgybzzwal843s105y0") (r "1.75")))
 
+(define-public crate-tauri-plugin-localhost-2.0.0-beta.5 (c (n "tauri-plugin-localhost") (v "2.0.0-beta.5") (d (list (d (n "http") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tiny_http") (r "^0.12") (d #t) (k 0)))) (h "13l327h16m6ja6ph2vc0h5w26q6jfjy5bdsnk1679m30z5jz3pi2") (r "1.75")))
+

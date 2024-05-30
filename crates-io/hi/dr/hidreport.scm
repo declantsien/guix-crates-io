@@ -6,3 +6,5 @@
 
 (define-public crate-hidreport-0.3.0 (c (n "hidreport") (v "0.3.0") (d (list (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1s9gw2168vz7dlyhp5ppgzqwc148fpg0ji9cpx3z9pnaf1qbai18")))
 
+(define-public crate-hidreport-0.3.1 (c (n "hidreport") (v "0.3.1") (d (list (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0ixsy4i0fklqa7ihg616fbdnggqldjnz3nz68bzp4gqnjdx7qsr8")))
+

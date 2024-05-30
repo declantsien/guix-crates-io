@@ -8,3 +8,5 @@
 
 (define-public crate-gmatlib-0.1.0 (c (n "gmatlib") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)))) (h "12bclr01fmji068qxmdbrcsraq8my69hr6rh4cvy8ksmdlvw5gk8")))
 
+(define-public crate-gmatlib-0.2.0 (c (n "gmatlib") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.17") (d #t) (k 0)))) (h "1wwq7fg74cq8lkb6008r98r89whsn35njjk2kfhw588zzhxjlwpa")))
+

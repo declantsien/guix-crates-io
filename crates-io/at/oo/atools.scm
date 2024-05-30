@@ -10,3 +10,5 @@
 
 (define-public crate-atools-0.1.4 (c (n "atools") (v "0.1.4") (h "0rlgwqfyws2r085jik22il8yrfxjvkxmsm90nqn49cbmyb7nihyq")))
 
+(define-public crate-atools-0.1.5 (c (n "atools") (v "0.1.5") (h "0zh3bkcdvn9f6grg9wrmq5cg9qhnjzy8wi8dzb0x8aidgj1grf50")))
+

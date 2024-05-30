@@ -138,3 +138,5 @@
 
 (define-public crate-salvo-session-0.67.2 (c (n "salvo-session") (v "0.67.2") (d (list (d (n "async-session") (r "^3") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (f (quote ("percent-encode" "signed"))) (d #t) (k 0)) (d (n "salvo_core") (r "^0.67.2") (f (quote ("cookie"))) (k 0)) (d (n "salvo_core") (r "^0.67.2") (f (quote ("test"))) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0n0ccmxm0h5ihac90wh1siv614k80bjr1h8b8r8j3a3pka3594s8")))
 
+(define-public crate-salvo-session-0.68.0 (c (n "salvo-session") (v "0.68.0") (d (list (d (n "async-session") (r "^3") (d #t) (k 0)) (d (n "cookie") (r "^0.18") (f (quote ("percent-encode" "signed"))) (d #t) (k 0)) (d (n "salvo_core") (r "^0.68.0") (f (quote ("cookie"))) (k 0)) (d (n "salvo_core") (r "^0.68.0") (f (quote ("test"))) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1p8wfbmvlfh5qc6zavi7n0lchzazvm2wi73yhn8m757ya4jwhqxb")))
+

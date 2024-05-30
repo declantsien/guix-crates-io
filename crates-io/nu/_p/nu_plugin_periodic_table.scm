@@ -20,3 +20,5 @@
 
 (define-public crate-nu_plugin_periodic_table-0.2.7 (c (n "nu_plugin_periodic_table") (v "0.2.7") (d (list (d (n "nu-ansi-term") (r "^0.49.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.85.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.85.0") (d #t) (k 0)) (d (n "periodic-table-on-an-enum") (r "^0.3.2") (d #t) (k 0)))) (h "1z95jv8m31w841j2qhgk4qhgv2z350pwmhrkcyl555i2qay8f5yl")))
 
+(define-public crate-nu_plugin_periodic_table-0.2.8 (c (n "nu_plugin_periodic_table") (v "0.2.8") (d (list (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (d #t) (k 0)) (d (n "periodic-table-on-an-enum") (r "^0.3.2") (d #t) (k 0)))) (h "0lhdp63hhqjpyvipl1s0ajihj1xn1y5ilv9y5mgp5fzl2m26bw63")))
+
