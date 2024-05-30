@@ -10,3 +10,5 @@
 
 (define-public crate-xrun-0.5.0 (c (n "xrun") (v "0.5.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "comfy-table") (r "^7.1.1") (d #t) (k 0)))) (h "1h6rgdh6wmn5dcr8bb8pzgcxv0j3bgf0ygm41265smhmw274wixg")))
 
+(define-public crate-xrun-0.6.0 (c (n "xrun") (v "0.6.0") (d (list (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "comfy-table") (r "^7.1.1") (d #t) (k 0)))) (h "0r4j9i0575vsz815wjc56qzqd0qh0ak5nhkyi831m4j6gvk31yzi")))
+
