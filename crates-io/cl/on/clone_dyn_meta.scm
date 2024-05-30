@@ -34,3 +34,5 @@
 
 (define-public crate-clone_dyn_meta-0.16.0 (c (n "clone_dyn_meta") (v "0.16.0") (d (list (d (n "macro_tools") (r "~0.24.0") (k 0)) (d (n "test_tools") (r "~0.8.0") (d #t) (k 2)))) (h "06l0h6ph1vgwz6ihp1acccfck6agb77hlsprpyznfmcpgjhbjnan") (f (quote (("full" "enabled") ("enabled" "macro_tools/enabled") ("default" "enabled"))))))
 
+(define-public crate-clone_dyn_meta-0.17.0 (c (n "clone_dyn_meta") (v "0.17.0") (d (list (d (n "macro_tools") (r "~0.27.0") (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)))) (h "0mfpylxarvp9v4cnxgypvmz96wf0dmh62rvhvqajc0838szr7dgl") (f (quote (("full" "enabled") ("enabled" "macro_tools/enabled") ("default" "enabled"))))))
+

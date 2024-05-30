@@ -54,3 +54,5 @@
 
 (define-public crate-mod_interface_meta-0.19.0 (c (n "mod_interface_meta") (v "0.19.0") (d (list (d (n "derive_tools") (r "~0.22.0") (f (quote ("enabled" "enabled" "derive_is_variant"))) (k 0)) (d (n "macro_tools") (r "~0.24.0") (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)))) (h "1w5b1a2glvfavgwp4lbfm30cjqd4ha13f4paqac1b7wmzgblf7nm") (f (quote (("full" "enabled") ("enabled") ("default" "enabled"))))))
 
+(define-public crate-mod_interface_meta-0.20.0 (c (n "mod_interface_meta") (v "0.20.0") (d (list (d (n "derive_tools") (r "~0.23.0") (f (quote ("enabled" "enabled" "derive_is_variant"))) (k 0)) (d (n "macro_tools") (r "~0.27.0") (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)))) (h "0yraksy4gyim4bkrhn5p5dnbwl0nmdcd76cl7c0kiyvnb9xsryjz") (f (quote (("full" "enabled") ("enabled") ("default" "enabled"))))))
+

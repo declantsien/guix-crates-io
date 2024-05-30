@@ -28,3 +28,5 @@
 
 (define-public crate-clone_dyn-0.16.0 (c (n "clone_dyn") (v "0.16.0") (d (list (d (n "clone_dyn_meta") (r "~0.16.0") (f (quote ("enabled"))) (d #t) (k 0)) (d (n "test_tools") (r "~0.8.0") (d #t) (k 2)))) (h "12ich2g6kwfngdifk9njg53nqhvhjwgvnqy4fp8ifghfas427gf7") (f (quote (("use_alloc" "no_std") ("no_std") ("full" "enabled") ("enabled" "clone_dyn_meta/enabled") ("default" "enabled"))))))
 
+(define-public crate-clone_dyn-0.17.0 (c (n "clone_dyn") (v "0.17.0") (d (list (d (n "clone_dyn_meta") (r "~0.17.0") (f (quote ("enabled"))) (d #t) (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)))) (h "0i9liqsc6jmrvmb3aynpdwqzahlh61rk634yqaaih883fs9cq5wz") (f (quote (("use_alloc" "no_std") ("no_std") ("full" "enabled") ("enabled" "clone_dyn_meta/enabled") ("default" "enabled"))))))
+

@@ -18,3 +18,5 @@
 
 (define-public crate-crates_tools-0.9.0 (c (n "crates_tools") (v "0.9.0") (d (list (d (n "flate2") (r "~1.0") (d #t) (k 0)) (d (n "tar") (r "~0.4") (d #t) (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)) (d (n "ureq") (r "~2.9") (o #t) (d #t) (k 0)))) (h "1hspjm7bimq5cb7z7m5h5hg5ff34zcbc931drh9qsqrab469i9wf") (f (quote (("network" "ureq") ("full" "enabled" "network") ("enabled" "network") ("default" "enabled"))))))
 
+(define-public crate-crates_tools-0.10.0 (c (n "crates_tools") (v "0.10.0") (d (list (d (n "flate2") (r "~1.0") (d #t) (k 0)) (d (n "tar") (r "~0.4") (d #t) (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)) (d (n "ureq") (r "~2.9") (o #t) (d #t) (k 0)))) (h "0q931azs64iwfa6lwla6gaxk28anwzgp35fig4900f78rq3m6z02") (f (quote (("network" "ureq") ("full" "enabled" "network") ("enabled" "network") ("default" "enabled"))))))
+

@@ -26,3 +26,5 @@
 
 (define-public crate-error_tools-0.13.0 (c (n "error_tools") (v "0.13.0") (d (list (d (n "anyhow") (r "~1.0") (o #t) (d #t) (k 0)) (d (n "test_tools") (r "~0.8.0") (d #t) (k 2)) (d (n "thiserror") (r "~1.0") (o #t) (d #t) (k 0)))) (h "0yggzg6n68bxc57kwjibwd1i5lwyb7hyxwmq8al9s3gqgbcqs22f") (f (quote (("use_alloc" "no_std") ("no_std") ("full" "enabled" "error_for_lib" "error_for_app") ("error_for_lib" "thiserror") ("error_for_app" "anyhow") ("enabled") ("default" "enabled" "error_for_lib" "error_for_app"))))))
 
+(define-public crate-error_tools-0.14.0 (c (n "error_tools") (v "0.14.0") (d (list (d (n "anyhow") (r "~1.0") (o #t) (d #t) (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "~1.0") (o #t) (d #t) (k 0)))) (h "0pwi11ws8d2vvaj4gsa1xvzhrrbb8lqpcmn7iba54ayhf5gxwy55") (f (quote (("use_alloc" "no_std") ("no_std") ("full" "enabled" "error_for_lib" "error_for_app") ("error_for_lib" "thiserror") ("error_for_app" "anyhow") ("enabled") ("default" "enabled" "error_for_lib" "error_for_app"))))))
+
