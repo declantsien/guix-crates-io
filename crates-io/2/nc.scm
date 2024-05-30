@@ -132,3 +132,5 @@
 
 (define-public crate-nc-0.8.20 (c (n "nc") (v "0.8.20") (d (list (d (n "cc") (r "^1.0.90") (d #t) (k 1)))) (h "1vjdlz2mjn25aackzwj66wfpraz6w0bp8lyfx9m8dik05v25q2cr") (f (quote (("std") ("default" "std")))) (r "1.56.0")))
 
+(define-public crate-nc-0.8.21 (c (n "nc") (v "0.8.21") (d (list (d (n "cc") (r "^1.0.90") (d #t) (k 1)))) (h "1ww14i84j46iwd40kxd66ldrrv7rmp4mvh2i8xhgddxc9k2jg21q") (f (quote (("std") ("default" "std")))) (r "1.63.0")))
+

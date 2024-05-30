@@ -20,3 +20,5 @@
 
 (define-public crate-uplink-sys-0.6.1 (c (n "uplink-sys") (v "0.6.1") (d (list (d (n "bindgen") (r "^0.68.1") (d #t) (k 1)))) (h "0lnzbs6rpaj6kl5yr6jammp2lhrdaw2cldk830f9i4wdj28vfdb8") (l "uplink")))
 
+(define-public crate-uplink-sys-0.7.0 (c (n "uplink-sys") (v "0.7.0") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)))) (h "1xr7zw2z9nd2z1x3v0wx39f7wkx89gvbn26m7kwjk695c8lp6l1b") (l "uplink")))
+
