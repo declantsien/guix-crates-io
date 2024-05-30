@@ -26,3 +26,5 @@
 
 (define-public crate-igvm_defs-0.3.0 (c (n "igvm_defs") (v "0.3.0") (d (list (d (n "bitfield-struct") (r "^0.5") (d #t) (k 0)) (d (n "open-enum") (r "^0.4.1") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "10k3q7kvj30wg40x29c13m2i1y8xysgpq5nynj56v6nvhddx43a3") (f (quote (("unstable") ("default"))))))
 
+(define-public crate-igvm_defs-0.3.1 (c (n "igvm_defs") (v "0.3.1") (d (list (d (n "bitfield-struct") (r "^0.5") (d #t) (k 0)) (d (n "open-enum") (r "^0.4.1") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1") (d #t) (k 0)) (d (n "zerocopy") (r "^0.7.32") (f (quote ("derive"))) (d #t) (k 0)))) (h "1lisyfz093wq48r5y4i434dkrcgx390n4vbg54k5fhgggj144j9c") (f (quote (("unstable") ("default"))))))
+
