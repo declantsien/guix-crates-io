@@ -180,3 +180,5 @@
 
 (define-public crate-br-web-0.5.4 (c (n "br-web") (v "0.5.4") (d (list (d (n "br-crypto") (r "^0.1.20") (f (quote ("br_hash" "br_base64" "br_encoding" "br_hmac" "br_hex"))) (k 0)) (d (n "br-xml") (r "^0.0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "openssl") (r "^0.10.64") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "195crign36b26758j2jlcp3d26wscdjp2z2f8gxl37rzxqh559v1")))
 
+(define-public crate-br-web-0.5.5 (c (n "br-web") (v "0.5.5") (d (list (d (n "br-crypto") (r "^0.1.20") (f (quote ("br_hash" "br_base64" "br_encoding" "br_hmac" "br_hex"))) (k 0)) (d (n "br-xml") (r "^0.0.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "openssl") (r "^0.10.64") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0qxym5xac9d6iiqhy3pmfw6iznwh7gp9s6g9zh5zncx6y671fck5")))
+
