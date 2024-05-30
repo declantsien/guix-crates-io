@@ -116,3 +116,5 @@
 
 (define-public crate-nu-path-0.94.0 (c (n "nu-path") (v "0.94.0") (d (list (d (n "dirs-next") (r "^2.0") (d #t) (k 0)) (d (n "omnipath") (r "^0.1") (d #t) (t "cfg(windows)") (k 0)) (d (n "pwd") (r "^1.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\"), not(target_os = \"android\")))") (k 0)))) (h "1wxfkjfrkhwnk5gnfjd9kwa1ywzk012kcxzg0mpdg5q4h964738z")))
 
+(define-public crate-nu-path-0.94.1 (c (n "nu-path") (v "0.94.1") (d (list (d (n "dirs-next") (r "^2.0") (d #t) (k 0)) (d (n "omnipath") (r "^0.1") (d #t) (t "cfg(windows)") (k 0)) (d (n "pwd") (r "^1.3") (d #t) (t "cfg(all(unix, not(target_os = \"macos\"), not(target_os = \"android\")))") (k 0)))) (h "0vg5qdr01b5lj7i2xsdv3nf63hq14cwpl0cadmhn2pmp5m2bmpsb")))
+

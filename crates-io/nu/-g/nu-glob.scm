@@ -92,3 +92,5 @@
 
 (define-public crate-nu-glob-0.94.0 (c (n "nu-glob") (v "0.94.0") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 2)))) (h "10dc4rppiinhvllvydrvvj7jhgrgd02rlm8x7adcpnaf9i4g3na5")))
 
+(define-public crate-nu-glob-0.94.1 (c (n "nu-glob") (v "0.94.1") (d (list (d (n "doc-comment") (r "^0.3") (d #t) (k 2)))) (h "1hvcljwl4rq255mcylky2gqjhl3bls9lw9impfi2iv2j24x9pdjb")))
+

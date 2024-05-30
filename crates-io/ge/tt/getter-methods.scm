@@ -8,3 +8,5 @@
 
 (define-public crate-getter-methods-1.0.0 (c (n "getter-methods") (v "1.0.0") (d (list (d (n "assert2") (r "^0.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0f9qw22690m6qljkkl869a1xw4q4s5ccpgrj9g32zasjmfx995pk")))
 
+(define-public crate-getter-methods-1.1.0 (c (n "getter-methods") (v "1.1.0") (d (list (d (n "assert2") (r "^0.3") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1k4ca7z93d6031z3q73mz5cc3cp6r15smxkd0v2b52fj3b46nbpp")))
+

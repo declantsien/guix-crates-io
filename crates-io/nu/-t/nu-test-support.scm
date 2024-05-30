@@ -176,3 +176,5 @@
 
 (define-public crate-nu-test-support-0.94.0 (c (n "nu-test-support") (v "0.94.0") (d (list (d (n "nu-glob") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.0") (d #t) (k 0)) (d (n "num-format") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.10") (d #t) (k 0)) (d (n "which") (r "^6.0.0") (d #t) (k 0)))) (h "10amfj31ww2wgkx85sxwfa2s8v6jzglzzx119937nf8valsg5yq0")))
 
+(define-public crate-nu-test-support-0.94.1 (c (n "nu-test-support") (v "0.94.1") (d (list (d (n "nu-glob") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.1") (d #t) (k 0)) (d (n "num-format") (r "^0.4") (d #t) (k 0)) (d (n "tempfile") (r "^3.10") (d #t) (k 0)) (d (n "which") (r "^6.0.0") (d #t) (k 0)))) (h "07mvbwfmipmaiviixrplgz9d5lq55hbd4kaqc7gfa8wdxkxqvgvj")))
+

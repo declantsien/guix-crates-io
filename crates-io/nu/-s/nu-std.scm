@@ -42,3 +42,5 @@
 
 (define-public crate-nu-std-0.94.0 (c (n "nu-std") (v "0.94.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "miette") (r "^7.2") (f (quote ("fancy-no-backtrace"))) (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-parser") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (d #t) (k 0)))) (h "0c2y34jgr56jgvy5s09b6yykafvy6g887l8dwshzab0952n9gai3")))
 
+(define-public crate-nu-std-0.94.1 (c (n "nu-std") (v "0.94.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "miette") (r "^7.2") (f (quote ("fancy-no-backtrace"))) (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-parser") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)))) (h "15pzpsda619m77h24dvc9yz8fl9vrw4526vaarzrr4hcy0k63jsj")))
+
