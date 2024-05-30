@@ -20,3 +20,5 @@
 
 (define-public crate-abstract-cw-orch-polytone-2.0.3 (c (n "abstract-cw-orch-polytone") (v "2.0.3") (d (list (d (n "anyhow") (r "^1.0.51") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.5.0") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw-orch") (r "^0.22.0") (d #t) (k 0)) (d (n "polytone-note") (r "^2.0.0") (d #t) (k 0) (p "abstract-polytone-note")) (d (n "polytone-proxy") (r "^2.0.0") (d #t) (k 0) (p "abstract-polytone-proxy")) (d (n "polytone-voice") (r "^2.0.0") (d #t) (k 0) (p "abstract-polytone-voice")))) (h "06fzac51xhwflppigg4wsvlkjrc8xq5k00rvvg7vzxvpq1racmvj") (r "1.67")))
 
+(define-public crate-abstract-cw-orch-polytone-2.0.4 (c (n "abstract-cw-orch-polytone") (v "2.0.4") (d (list (d (n "anyhow") (r "^1.0.51") (d #t) (k 2)) (d (n "cosmwasm-std") (r "^1.5.0") (f (quote ("ibc3"))) (d #t) (k 0)) (d (n "cw-orch") (r "^0.22.0") (d #t) (k 0)) (d (n "polytone-note") (r "^2.0.0") (d #t) (k 0) (p "abstract-polytone-note")) (d (n "polytone-proxy") (r "^2.0.0") (d #t) (k 0) (p "abstract-polytone-proxy")) (d (n "polytone-voice") (r "^2.0.0") (d #t) (k 0) (p "abstract-polytone-voice")))) (h "0clg1362722mz46s967jbxmgdns311sjq2gdn034jmj05b7zf1wn") (r "1.67")))
+

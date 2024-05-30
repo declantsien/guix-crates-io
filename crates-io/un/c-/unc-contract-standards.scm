@@ -26,3 +26,5 @@
 
 (define-public crate-unc-contract-standards-2.0.4 (c (n "unc-contract-standards") (v "2.0.4") (d (list (d (n "unc-sdk") (r "^2.0.3") (f (quote ("legacy"))) (k 0)))) (h "04byjqzhv5qgkqhhfvjvrx62mz58gm3p092id7yhwfnn75i9bysw") (f (quote (("default") ("abi" "unc-sdk/abi"))))))
 
+(define-public crate-unc-contract-standards-2.0.5 (c (n "unc-contract-standards") (v "2.0.5") (d (list (d (n "unc-sdk") (r "^2.0.5") (f (quote ("legacy"))) (k 0)))) (h "1q5rp361xgm9lrgl2m65s4kfbbivvy6nfd3i2nz080n7z2ghx3sw") (f (quote (("default") ("abi" "unc-sdk/abi"))))))
+
