@@ -1,0 +1,4 @@
+(define-module (crates-io pr og progscrape-scrapers) #:use-module (crates-io))
+
+(define-public crate-progscrape-scrapers-0.0.1 (c (n "progscrape-scrapers") (v "0.0.1") (d (list (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "chrono-tz") (r "^0.9") (d #t) (k 0)) (d (n "itertools") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "regex") (r "^1.7") (d #t) (k 0)) (d (n "roxmltree") (r "^0.20") (d #t) (k 0)) (d (n "rstest") (r "^0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_cbor") (r "^0.11") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tl") (r "^0.7") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "url") (r "^2.3") (d #t) (k 0)) (d (n "urlnorm") (r "^0.1") (d #t) (k 0)))) (h "0bssdcqchjnqqg3mjmhqk2ih6jp9kww8xwm3v6dad5a34kx2ky89") (f (quote (("scrape_test") ("default"))))))
+
