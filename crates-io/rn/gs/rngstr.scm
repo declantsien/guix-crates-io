@@ -6,3 +6,5 @@
 
 (define-public crate-rngstr-0.2.0 (c (n "rngstr") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cli-clipboard") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "1zf292gahli5p70g9fp6kr77w52ngs0nwhyzf10nziia893aimsn")))
 
+(define-public crate-rngstr-0.3.0 (c (n "rngstr") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cli-clipboard") (r "^0.4.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "0ispyyxn0i4xg5hr0576pcpbnm6hwcgc21nq1qhvq7c74vsrh2hl")))
+

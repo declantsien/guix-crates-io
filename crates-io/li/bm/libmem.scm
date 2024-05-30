@@ -20,3 +20,5 @@
 
 (define-public crate-libmem-5.0.0-pre5 (c (n "libmem") (v "5.0.0-pre5") (d (list (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "libmem-sys") (r "^5.0.0-pre5") (k 0)))) (h "1f8mhn99fdn3brr8jpghbgxv6qh6395kfqyfrs798mr7xf0nc2aw") (f (quote (("static" "libmem-sys/static") ("fetch" "libmem-sys/fetch") ("default" "fetch"))))))
 
+(define-public crate-libmem-5.0.0-pre6 (c (n "libmem") (v "5.0.0-pre6") (d (list (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "libmem-sys") (r "^5.0.0-pre6") (k 0)))) (h "1s44mn9q93z5bvhj8rkxy9srqbizxsda96v032bkbqsmzgmr3nhr") (f (quote (("static" "libmem-sys/static") ("fetch" "libmem-sys/fetch") ("default" "fetch"))))))
+

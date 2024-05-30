@@ -24,3 +24,5 @@
 
 (define-public crate-fui_core-0.14.0 (c (n "fui_core") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "drawing") (r "^0.4") (d #t) (k 0)) (d (n "fui_macros") (r "^0.4") (d #t) (k 0)) (d (n "fui_system_core") (r "^0.13") (d #t) (k 0)) (d (n "futures-signals") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "typed-builder") (r "^0.18") (d #t) (k 0)) (d (n "typemap") (r "^0.3") (d #t) (k 0)))) (h "0qvkhb6gdb51x6x63ln1g9y83n78h00wqdd1f032wla4wzrbkhzy")))
 
+(define-public crate-fui_core-0.14.1 (c (n "fui_core") (v "0.14.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "drawing") (r "^0.4") (d #t) (k 0)) (d (n "fui_macros") (r "^0.4") (d #t) (k 0)) (d (n "fui_system_core") (r "^0.13") (d #t) (k 0)) (d (n "futures-signals") (r "^0.3") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "typed-builder") (r "^0.18") (d #t) (k 0)) (d (n "typemap") (r "^0.3") (d #t) (k 0)))) (h "1pddnnhx228msyg4iawq5f263afdgvjiqi624s29220ycxwm411z")))
+
