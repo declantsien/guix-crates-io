@@ -14,3 +14,5 @@
 
 (define-public crate-r2d2-oracle-0.6.0 (c (n "r2d2-oracle") (v "0.6.0") (d (list (d (n "oracle") (r "^0.5.1") (d #t) (k 0)) (d (n "r2d2") (r "^0.8") (d #t) (k 0)))) (h "0zynd512z823rdsa7a7ghss460r0hx87gj5dlndfpch4kndc54p5") (f (quote (("chrono" "oracle/chrono")))) (r "1.56")))
 
+(define-public crate-r2d2-oracle-0.7.0 (c (n "r2d2-oracle") (v "0.7.0") (d (list (d (n "oracle") (r "^0.6") (d #t) (k 0)) (d (n "r2d2") (r "^0.8") (d #t) (k 0)))) (h "071w0k82hk2xq5v98p0bs9lvvms5h6yc2h6jqxl5j66p61rcr2fx") (f (quote (("chrono" "oracle/chrono")))) (r "1.60")))
+
