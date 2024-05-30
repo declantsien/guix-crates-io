@@ -24,3 +24,5 @@
 
 (define-public crate-uplink-0.8.1 (c (n "uplink") (v "0.8.1") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "uplink-sys") (r "^0.6.1") (d #t) (k 0)))) (h "03cf8pnsn9x2j39kk6rh7xq21irg756y98jgjfra4068acm56ppz")))
 
+(define-public crate-uplink-0.9.0 (c (n "uplink") (v "0.9.0") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "uplink-sys") (r "^0.7.0") (d #t) (k 0)))) (h "07ynccgml5vwd12rk1r8709s7xw5scmql4vclf71ala9jay7fwg2")))
+

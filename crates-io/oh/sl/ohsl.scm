@@ -26,3 +26,5 @@
 
 (define-public crate-ohsl-0.9.0 (c (n "ohsl") (v "0.9.0") (d (list (d (n "more-asserts") (r "^0.2.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "09ml11r4nzhy0z36xxiy56x8y2m0f759i4nar2jwk3zhiariicr5")))
 
+(define-public crate-ohsl-0.10.3 (c (n "ohsl") (v "0.10.3") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "10wpwnliifdjh11rkrkclr8g24m9p1ypm1drk2inqz1jrippxc6z")))
+

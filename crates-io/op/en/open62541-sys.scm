@@ -24,3 +24,5 @@
 
 (define-public crate-open62541-sys-0.4.0-pre.4 (c (n "open62541-sys") (v "0.4.0-pre.4") (d (list (d (n "bindgen") (r "^0.69.4") (f (quote ("experimental"))) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)))) (h "0p29iw3jmil92fvbd00n1s15a217qncdm6z55n8fc4hq9mxichvb") (r "1.72")))
 
+(define-public crate-open62541-sys-0.4.0-pre.5 (c (n "open62541-sys") (v "0.4.0-pre.5") (d (list (d (n "bindgen") (r "^0.69.4") (f (quote ("experimental"))) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (d #t) (k 1)) (d (n "cmake") (r "^0.1.50") (d #t) (k 1)))) (h "11nrxs0xbqsfppjrnvxcdfk0780cxa9bcfphk4glczi1dryk32hw") (r "1.72")))
+

@@ -24,3 +24,5 @@
 
 (define-public crate-tindi-0.7.0 (c (n "tindi") (v "0.7.0") (d (list (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "16xi2vfcmhrs652wgyxysqk9i24wd67hj7gsw5qrcypz91mhs4da")))
 
+(define-public crate-tindi-0.7.1 (c (n "tindi") (v "0.7.1") (d (list (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)))) (h "0yfr8jxd5hh9592nc10vvh9kgmkhmqwz65w5p5h2jmfz2j4wmys9")))
+

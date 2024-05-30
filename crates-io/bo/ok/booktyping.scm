@@ -1,0 +1,4 @@
+(define-module (crates-io bo ok booktyping) #:use-module (crates-io))
+
+(define-public crate-booktyping-0.1.0 (c (n "booktyping") (v "0.1.0") (d (list (d (n "booktyping-core") (r "^0.1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (f (quote ("windows"))) (d #t) (k 0)) (d (n "deunicode") (r "^1.6.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.3") (f (quote ("crossterm"))) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "v_utils") (r "^1.3.7") (f (quote ("io"))) (d #t) (k 0)))) (h "0cmgsgdbn17dkglq17sfkr41mlk51iv1g5k8mc1al7nvs0cbpq5h") (r "1.78")))
+
