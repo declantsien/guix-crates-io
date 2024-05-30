@@ -12,3 +12,5 @@
 
 (define-public crate-valord-map-0.4.0 (c (n "valord-map") (v "0.4.0") (d (list (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "18294kpqqmpdr688cj5046q7fcpz12qnlckc5191d4km9nsh59rp")))
 
+(define-public crate-valord-map-0.5.0 (c (n "valord-map") (v "0.5.0") (d (list (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "1cmc4j2xp29xv9rlchm34s238gdbaydvaymlpbczshq2124ns1yy")))
+

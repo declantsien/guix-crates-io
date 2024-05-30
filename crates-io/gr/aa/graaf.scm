@@ -266,3 +266,5 @@
 
 (define-public crate-graaf-0.52.5 (c (n "graaf") (v "0.52.5") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "proptest") (r "^1.4.0") (d #t) (k 2)))) (h "0vdm47qs9j1k9l8kip5d29y7dyfhznhcf0ky52a7vcp21ck06i5r") (f (quote (("default" "adjacency_matrix") ("adjacency_matrix"))))))
 
+(define-public crate-graaf-0.52.6 (c (n "graaf") (v "0.52.6") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "proptest") (r "^1.4.0") (d #t) (k 2)))) (h "13816jnv5r3kcyq0ws9hsjwprpdqg6bhhrk0m7v4lzq06p4hj78w") (f (quote (("default" "adjacency_matrix") ("adjacency_matrix"))))))
+

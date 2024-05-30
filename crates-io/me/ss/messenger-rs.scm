@@ -4,3 +4,5 @@
 
 (define-public crate-messenger-rs-0.1.1 (c (n "messenger-rs") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0sidaknrs9z75zmz6hb37d7hjrjrfh3gz3kvrwj90yaryik0j31h")))
 
+(define-public crate-messenger-rs-0.1.2 (c (n "messenger-rs") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.18") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.104") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.4.0") (d #t) (k 0)))) (h "0r2j89ndabggqqqsk9gy5c2z6dvhg14wxfvfrxspfnpy9ghzil2k")))
+

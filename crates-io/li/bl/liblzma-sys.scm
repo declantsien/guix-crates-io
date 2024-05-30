@@ -30,3 +30,5 @@
 
 (define-public crate-liblzma-sys-0.3.3 (c (n "liblzma-sys") (v "0.3.3") (d (list (d (n "cc") (r "^1.0.49") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "libc") (r "^0.2.67") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.18") (d #t) (k 1)))) (h "0jkvskvbx5fvbl605d5msmgqh8als08xvmqy9017y5fv4f5m55r8") (f (quote (("wasm" "static" "bindgen") ("static") ("parallel") ("default" "bindgen") ("bindgen")))) (l "lzma")))
 
+(define-public crate-liblzma-sys-0.3.4 (c (n "liblzma-sys") (v "0.3.4") (d (list (d (n "cc") (r "^1.0.49") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "libc") (r "^0.2.67") (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.18") (d #t) (k 1)))) (h "11qi970n8cc76nyq4hk8v3kyyc5jap1clbfsqzrw1da51b97ikw3") (f (quote (("wasm" "static" "bindgen") ("static") ("parallel") ("default" "bindgen") ("bindgen")))) (l "lzma")))
+
