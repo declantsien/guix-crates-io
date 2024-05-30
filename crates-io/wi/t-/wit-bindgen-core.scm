@@ -56,3 +56,5 @@
 
 (define-public crate-wit-bindgen-core-0.25.0 (c (n "wit-bindgen-core") (v "0.25.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wit-parser") (r "^0.208.0") (d #t) (k 0)))) (h "1qmigaqn7f3f0hhj7xn5sg7k0776g9yna5mxjdh1yvmgd4pa2xkh")))
 
+(define-public crate-wit-bindgen-core-0.26.0 (c (n "wit-bindgen-core") (v "0.26.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wit-parser") (r "^0.209.0") (d #t) (k 0)))) (h "100qji3n2byrc5jqqvbpwsbd078ikclmp5bpvsxxzyk7zdp71m1n")))
+

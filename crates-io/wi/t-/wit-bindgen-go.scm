@@ -54,3 +54,5 @@
 
 (define-public crate-wit-bindgen-go-0.25.0 (c (n "wit-bindgen-go") (v "0.25.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wit-bindgen-c") (r "^0.25.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.25.0") (d #t) (k 0)))) (h "1iprd2v2vvzq97fm4f0cpicm672zv5868j3hdns5nq62kf33kx1a")))
 
+(define-public crate-wit-bindgen-go-0.26.0 (c (n "wit-bindgen-go") (v "0.26.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wit-bindgen-c") (r "^0.26.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.26.0") (d #t) (k 0)))) (h "0iab00hksxl81jri6bp277nbx0an8rsz8w2c7lfisjf80d31pb0i")))
+

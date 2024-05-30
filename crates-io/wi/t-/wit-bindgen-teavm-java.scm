@@ -54,3 +54,5 @@
 
 (define-public crate-wit-bindgen-teavm-java-0.25.0 (c (n "wit-bindgen-teavm-java") (v "0.25.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wasm-metadata") (r "^0.208.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.25.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.208.0") (d #t) (k 0)))) (h "11y3biiybp4cm8hg1zf92r2z71kx8p0jivgspp9c2za892sb3xb9")))
 
+(define-public crate-wit-bindgen-teavm-java-0.26.0 (c (n "wit-bindgen-teavm-java") (v "0.26.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wasm-metadata") (r "^0.209.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.26.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.209.0") (d #t) (k 0)))) (h "08dz9ljmcchb15jlcd7mhil7zwapc2c06a8hwj9kyq1l4irr8ss6")))
+

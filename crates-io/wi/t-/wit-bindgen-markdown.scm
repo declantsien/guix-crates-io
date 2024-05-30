@@ -54,3 +54,5 @@
 
 (define-public crate-wit-bindgen-markdown-0.25.0 (c (n "wit-bindgen-markdown") (v "0.25.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9") (k 0)) (d (n "wit-bindgen-core") (r "^0.25.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.208.0") (d #t) (k 0)))) (h "1frw1m9mvav2iq5nbv5fn83vmkq5kd28a58pgrfr9zcf2lig22hf")))
 
+(define-public crate-wit-bindgen-markdown-0.26.0 (c (n "wit-bindgen-markdown") (v "0.26.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "pulldown-cmark") (r "^0.9") (k 0)) (d (n "wit-bindgen-core") (r "^0.26.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.209.0") (d #t) (k 0)))) (h "0v305nvq2k08rmpymjs91v73bicnnzrg5270bj33mrcbsz5mhg4d")))
+

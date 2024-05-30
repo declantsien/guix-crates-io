@@ -54,3 +54,5 @@
 
 (define-public crate-wit-bindgen-c-0.25.0 (c (n "wit-bindgen-c") (v "0.25.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.208.0") (d #t) (k 0)) (d (n "wasm-metadata") (r "^0.208.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.25.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.208.0") (d #t) (k 0)) (d (n "wit-parser") (r "^0.208.0") (d #t) (k 2)))) (h "14yy4p074c74pclnidcq6mwh8pq1vb2jkpbdbypiq7la0psqw97d")))
 
+(define-public crate-wit-bindgen-c-0.26.0 (c (n "wit-bindgen-c") (v "0.26.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "clap") (r "^4.3.19") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "wasm-encoder") (r "^0.209.0") (d #t) (k 0)) (d (n "wasm-metadata") (r "^0.209.0") (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.26.0") (d #t) (k 0)) (d (n "wit-component") (r "^0.209.0") (d #t) (k 0)) (d (n "wit-parser") (r "^0.209.0") (d #t) (k 2)))) (h "0pc3g6h6r9xa0p2j0a6hgsdzhgk15j6ss5i77pdyfdd0dcggbwrk")))
+

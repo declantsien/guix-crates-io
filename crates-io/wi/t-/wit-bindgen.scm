@@ -58,3 +58,5 @@
 
 (define-public crate-wit-bindgen-0.25.0 (c (n "wit-bindgen") (v "0.25.0") (d (list (d (n "wit-bindgen-rt") (r "^0.25.0") (f (quote ("bitflags"))) (d #t) (k 0)) (d (n "wit-bindgen-rust-macro") (r "^0.25.0") (o #t) (d #t) (k 0)))) (h "1ch0gya59qw02lscbpyh37xqvn1vcfpv96q756cwprk5x5f7ljbz") (f (quote (("realloc") ("default" "macros" "realloc")))) (s 2) (e (quote (("macros" "dep:wit-bindgen-rust-macro"))))))
 
+(define-public crate-wit-bindgen-0.26.0 (c (n "wit-bindgen") (v "0.26.0") (d (list (d (n "wit-bindgen-rt") (r "^0.26.0") (f (quote ("bitflags"))) (d #t) (k 0)) (d (n "wit-bindgen-rust-macro") (r "^0.26.0") (o #t) (d #t) (k 0)))) (h "1w1h8ni55yyfgji542f93yq7lqp636yw0mqi99khgvbl9zzpchx8") (f (quote (("realloc") ("default" "macros" "realloc")))) (s 2) (e (quote (("macros" "dep:wit-bindgen-rust-macro"))))))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-wit-bindgen-rt-0.25.0 (c (n "wit-bindgen-rt") (v "0.25.0") (d (list (d (n "bitflags") (r "^2.3.3") (o #t) (d #t) (k 0)))) (h "19kxz9bagh86l72kj42hsy7hrdvq0fhkd8n2njal2v8593wy50zg")))
 
+(define-public crate-wit-bindgen-rt-0.26.0 (c (n "wit-bindgen-rt") (v "0.26.0") (d (list (d (n "bitflags") (r "^2.3.3") (o #t) (d #t) (k 0)))) (h "1jc670ai173x17rrx9b321c9ab8i1ysjp7xbx6g71s5cg5im5ir9")))
+

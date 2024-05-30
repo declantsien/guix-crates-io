@@ -28,3 +28,5 @@
 
 (define-public crate-incli-0.5.6 (c (n "incli") (v "0.5.6") (d (list (d (n "sys-info-extended") (r "^0.4.0") (d #t) (k 0)))) (h "1svxphaqijmmi1mchirk0q6784j0nniv3sfd19p53f8958j46b4g")))
 
+(define-public crate-incli-0.5.7 (c (n "incli") (v "0.5.7") (d (list (d (n "sys-info-extended") (r "^0.4.0") (d #t) (k 0)))) (h "1nqhdipla9galrf44xgddnmsfdckwp5qiad44is9kfgw6kysfl5k")))
+

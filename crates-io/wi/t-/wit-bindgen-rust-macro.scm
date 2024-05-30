@@ -56,3 +56,5 @@
 
 (define-public crate-wit-bindgen-rust-macro-0.25.0 (c (n "wit-bindgen-rust-macro") (v "0.25.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("printing"))) (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.25.0") (d #t) (k 0)) (d (n "wit-bindgen-rust") (r "^0.25.0") (d #t) (k 0)))) (h "0fg09pqxhnz9vahf1h3gcx5xnf7sbgy8b7gydbc9whyzighk9msk")))
 
+(define-public crate-wit-bindgen-rust-macro-0.26.0 (c (n "wit-bindgen-rust-macro") (v "0.26.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("printing"))) (d #t) (k 0)) (d (n "wit-bindgen-core") (r "^0.26.0") (d #t) (k 0)) (d (n "wit-bindgen-rust") (r "^0.26.0") (d #t) (k 0)))) (h "1zqgr625rd4p59g357w7pzs2vwfpiyb1gxvqzyd5j0naaqrrlh7h")))
+
