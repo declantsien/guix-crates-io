@@ -8,3 +8,5 @@
 
 (define-public crate-derive-ctor-0.2.1 (c (n "derive-ctor") (v "0.2.1") (d (list (d (n "proc-macro2") (r "1.0.*") (d #t) (k 0)) (d (n "quote") (r "1.*") (d #t) (k 0)) (d (n "syn") (r "2.0.*") (d #t) (k 0)))) (h "1z3gi7s8jildldfpijaq5rv2km1r4kiv8sj9vnj9f9v9sb2wazhc") (f (quote (("no-std"))))))
 
+(define-public crate-derive-ctor-0.2.2 (c (n "derive-ctor") (v "0.2.2") (d (list (d (n "heck") (r "0.5.*") (d #t) (k 0)) (d (n "proc-macro2") (r "1.0.*") (d #t) (k 0)) (d (n "quote") (r "1.*") (d #t) (k 0)) (d (n "syn") (r "2.0.*") (d #t) (k 0)))) (h "08sk1brsnrdhcg109vm288m1i39gr2npv83dbyw88q79im8m6k46")))
+
