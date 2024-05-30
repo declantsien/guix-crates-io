@@ -40,3 +40,5 @@
 
 (define-public crate-ledger_device_sdk-1.9.1 (c (n "ledger_device_sdk") (v "1.9.1") (d (list (d (n "const-zero") (r "^0.1.1") (d #t) (k 0)) (d (n "include_gif") (r "^1.1.0") (d #t) (k 0)) (d (n "ledger_secure_sdk_sys") (r "^1.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (k 0)) (d (n "numtoa") (r "^0.2.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (k 0)) (d (n "testmacro") (r "^0.1.0") (d #t) (k 2)) (d (n "zeroize") (r "^1.6.0") (k 0)))) (h "108czj2gcnbfbsp2znrak4qvil3rspzlh0x40qsxvl4r5vfgdsd8") (f (quote (("speculos") ("pre1_54") ("nbgl") ("lib_bagl") ("ccid"))))))
 
+(define-public crate-ledger_device_sdk-1.9.2 (c (n "ledger_device_sdk") (v "1.9.2") (d (list (d (n "const-zero") (r "^0.1.1") (d #t) (k 0)) (d (n "include_gif") (r "^1.1.0") (d #t) (k 0)) (d (n "ledger_secure_sdk_sys") (r "^1.3.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (k 0)) (d (n "numtoa") (r "^0.2.4") (d #t) (k 0)) (d (n "rand_core") (r "^0.6.3") (k 0)) (d (n "testmacro") (r "^0.1.0") (d #t) (k 2)) (d (n "zeroize") (r "^1.6.0") (k 0)))) (h "1xw3kwpljyssysz3y3lnlicrk3rwaslky7m34am9jqsnia0dv6f7") (f (quote (("speculos") ("pre1_54") ("nbgl") ("lib_bagl") ("ccid"))))))
+
