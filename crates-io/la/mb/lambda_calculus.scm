@@ -80,3 +80,5 @@
 
 (define-public crate-lambda_calculus-3.2.2 (c (n "lambda_calculus") (v "3.2.2") (h "0f9364268v9dk37wavm5ck7chv5im77kmzbwc1dk3s6ssci7dh4f") (f (quote (("encoding") ("default" "encoding") ("backslash_lambda"))))))
 
+(define-public crate-lambda_calculus-3.3.0 (c (n "lambda_calculus") (v "3.3.0") (h "15if17b768zyylfcg22w8w7wxnasls4jniiwlb0ckkki6xr6bdyd") (f (quote (("encoding") ("default" "encoding") ("backslash_lambda"))))))
+
