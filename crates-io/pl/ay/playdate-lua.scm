@@ -4,3 +4,5 @@
 
 (define-public crate-playdate-lua-0.1.0 (c (n "playdate-lua") (v "0.1.0") (d (list (d (n "sys") (r "^0.3") (k 0) (p "playdate-sys")) (d (n "system") (r "^0.3") (k 2) (p "playdate-system")))) (h "0ncln9ck3hqmcfgz6921znz7443351qpvrpgdl8wfch1kqldyq0n") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
 
+(define-public crate-playdate-lua-0.1.1 (c (n "playdate-lua") (v "0.1.1") (d (list (d (n "sys") (r "^0.4") (k 0) (p "playdate-sys")) (d (n "system") (r "^0.3") (k 2) (p "playdate-system")))) (h "1cm9z5fzp4djikbqkmb5cf4javi3qzr43wn636063k55990r2c3l") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
+

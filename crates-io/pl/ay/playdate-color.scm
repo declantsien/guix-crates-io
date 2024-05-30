@@ -22,3 +22,5 @@
 
 (define-public crate-playdate-color-0.2.3 (c (n "playdate-color") (v "0.2.3") (d (list (d (n "sys") (r "^0.3") (k 0) (p "playdate-sys")))) (h "01a6pb2wg1dph6xirj20qw3i1d7j0707l2rnv7jyiiki6b8rkfsp") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
 
+(define-public crate-playdate-color-0.2.4 (c (n "playdate-color") (v "0.2.4") (d (list (d (n "sys") (r "^0.4") (k 0) (p "playdate-sys")))) (h "0lzci8vk6yrnibqbb0391zyaccic2lnsx97yrwkjxx7ym27cdigw") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
+

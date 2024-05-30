@@ -24,3 +24,5 @@
 
 (define-public crate-playdate-menu-0.2.3 (c (n "playdate-menu") (v "0.2.3") (d (list (d (n "gfx") (r "^0.3") (k 2) (p "playdate-graphics")) (d (n "sys") (r "^0.3") (k 0) (p "playdate-sys")) (d (n "system") (r "^0.3") (k 0) (p "playdate-system")) (d (n "system") (r "^0.3") (f (quote ("try-trait-v2"))) (k 2) (p "playdate-system")))) (h "11y2smz0lqym34djjh1gkx2mshnql4zz0vwv8gq06sbds48a3bm5") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
 
+(define-public crate-playdate-menu-0.2.4 (c (n "playdate-menu") (v "0.2.4") (d (list (d (n "gfx") (r "^0.4") (k 2) (p "playdate-graphics")) (d (n "sys") (r "^0.4") (k 0) (p "playdate-sys")) (d (n "system") (r "^0.3") (k 0) (p "playdate-system")) (d (n "system") (r "^0.3") (f (quote ("try-trait-v2"))) (k 2) (p "playdate-system")))) (h "054vyxgnvzri66y5yqsg39v6xjvhzgv8g37wclc5i986ah9w5p80") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
+

@@ -34,3 +34,5 @@
 
 (define-public crate-playdate-system-0.3.11 (c (n "playdate-system") (v "0.3.11") (d (list (d (n "sys") (r "^0.3") (k 0) (p "playdate-sys")))) (h "16slh5vlv8b89fssaa34nj7ya5pgi9ifcq43c0xp012wsxskzkmx") (f (quote (("try-trait-v2" "sys/try-trait-v2") ("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
 
+(define-public crate-playdate-system-0.3.12 (c (n "playdate-system") (v "0.3.12") (d (list (d (n "sys") (r "^0.4") (k 0) (p "playdate-sys")))) (h "1ggmbwwvvdwxszbyvbcrnplddkc51i331f5ffyf7kqsqsj46aldg") (f (quote (("try-trait-v2" "sys/try-trait-v2") ("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
+
