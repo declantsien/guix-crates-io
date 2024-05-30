@@ -226,3 +226,5 @@
 
 (define-public crate-autd3-link-simulator-25.0.0-rc.3 (c (n "autd3-link-simulator") (v "25.0.0-rc.3") (d (list (d (n "autd3-driver") (r "^25.0.0-rc.3") (d #t) (k 0)) (d (n "autd3-protobuf") (r "^25.0.0-rc.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tonic") (r "^0.11.0") (k 0)))) (h "0c7vg50xb91gyr30cjkcd5k8yya2kla6rh06lv1ppml7dsqlxww4") (f (quote (("default") ("async-trait" "autd3-driver/async-trait" "autd3-protobuf/async-trait"))))))
 
+(define-public crate-autd3-link-simulator-25.0.0-rc.4 (c (n "autd3-link-simulator") (v "25.0.0-rc.4") (d (list (d (n "autd3-driver") (r "^25.0.0-rc.4") (d #t) (k 0)) (d (n "autd3-protobuf") (r "^25.0.0-rc.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tonic") (r "^0.11.0") (k 0)))) (h "1g22zg511ia00c6syj9lzfz45vp21ph3ilgip1n3yvmicpidcaxd") (f (quote (("default") ("async-trait" "autd3-driver/async-trait" "autd3-protobuf/async-trait"))))))
+
