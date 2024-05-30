@@ -14,3 +14,5 @@
 
 (define-public crate-metrics-exporter-statsd-0.7.0 (c (n "metrics-exporter-statsd") (v "0.7.0") (d (list (d (n "cadence") (r "^1.0") (d #t) (k 0)) (d (n "metrics") (r "^0.22") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hws3lf9332q386lbd57gm19vkc193iqxcb1dbaia7s3dsqppgc2")))
 
+(define-public crate-metrics-exporter-statsd-0.8.0 (c (n "metrics-exporter-statsd") (v "0.8.0") (d (list (d (n "cadence") (r "^1.4") (d #t) (k 0)) (d (n "metrics") (r "^0.23") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "14mjqhancwfb4alwy0i2793iyqjph748csh4l91wfa23yl4m1450")))
+

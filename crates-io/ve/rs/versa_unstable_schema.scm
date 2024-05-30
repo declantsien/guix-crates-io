@@ -14,3 +14,5 @@
 
 (define-public crate-versa_unstable_schema-0.2.5 (c (n "versa_unstable_schema") (v "0.2.5") (d (list (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "18j6ad0wvq3rb5aiwidywika9p5nri8lq7j4vpdzjjqwh0ywsycl")))
 
+(define-public crate-versa_unstable_schema-0.2.6 (c (n "versa_unstable_schema") (v "0.2.6") (d (list (d (n "rusty-hook") (r "^0.11.2") (d #t) (k 2)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "12m0rrdpls0s6mqzx0w8r6wfcp6xpd64as3avmjqs4n3qmjmaj3s")))
+
