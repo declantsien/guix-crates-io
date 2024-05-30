@@ -8,3 +8,5 @@
 
 (define-public crate-esdm-sys-0.1.1 (c (n "esdm-sys") (v "0.1.1") (d (list (d (n "bindgen") (r "^0.69.4") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)))) (h "05rfh78g4nrzk0w08acnb98ii0dja5p62scki55j7imnhgncf6pm")))
 
+(define-public crate-esdm-sys-0.1.3 (c (n "esdm-sys") (v "0.1.3") (d (list (d (n "bindgen") (r "^0.69.4") (f (quote ("runtime"))) (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.30") (d #t) (k 1)))) (h "15n1q3wmsgbiwrd83p936wdhbp1apwz95bc0rvcrb7mmirn0cfl5")))
+

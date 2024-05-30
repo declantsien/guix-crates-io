@@ -6,3 +6,5 @@
 
 (define-public crate-refuel-0.1.2 (c (n "refuel") (v "0.1.2") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.6") (f (quote ("postgres"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^2.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1qyg0g32i9s5f9y46mi3a4f12a5swbxf0bgxl9q0lwcf20pjarfb")))
 
+(define-public crate-refuel-0.1.3 (c (n "refuel") (v "0.1.3") (d (list (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "diesel") (r "^2.1.6") (f (quote ("postgres"))) (d #t) (k 0)) (d (n "diesel_migrations") (r "^2.1.0") (d #t) (k 0)) (d (n "toml") (r "^0.5") (d #t) (k 0)))) (h "1di6ff0nkkrwws84jqwifib8qhw9nxwl962xa75xg1mmv5ng9kxv")))
+

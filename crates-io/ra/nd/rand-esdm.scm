@@ -16,3 +16,5 @@
 
 (define-public crate-rand-esdm-0.1.1 (c (n "rand-esdm") (v "0.1.1") (d (list (d (n "esdm-sys") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.153") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)))) (h "0y7ma2sccq307c436xbqcs3v5lh61hv2hsd51k45jsk5ly1kayc6") (f (quote (("privileged_tests") ("default"))))))
 
+(define-public crate-rand-esdm-0.1.3 (c (n "rand-esdm") (v "0.1.3") (d (list (d (n "esdm-sys") (r "^0.1.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.155") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_core") (r "^0.6.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "1wviblj6ml2kp55mfrsfaxwsalb39fsickfl9g77l6xn1nwg1cz0") (f (quote (("privileged_tests") ("default"))))))
+
