@@ -14,3 +14,5 @@
 
 (define-public crate-tauri-plugin-biometric-2.0.0-beta.5 (c (n "tauri-plugin-biometric") (v "2.0.0-beta.5") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.16") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "02wfaimbsfnk6wia085lhm30pv1r7vljh2bdawcrcwiigvb80jpm") (l "tauri-plugin-biometric")))
 
+(define-public crate-tauri-plugin-biometric-2.0.0-beta.6 (c (n "tauri-plugin-biometric") (v "2.0.0-beta.6") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.22") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.17") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0zad7sc1f0ssv6fq1wbf2cr7rkriphyfmb2hj4y5w4pzndvyidpv") (l "tauri-plugin-biometric")))
+

@@ -44,3 +44,5 @@
 
 (define-public crate-sparse_matrix-0.6.1 (c (n "sparse_matrix") (v "0.6.1") (d (list (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)))) (h "1504l69i698x30xbli2wznh3jq9p84h57pil0kjd8z6kh4qxghz4")))
 
+(define-public crate-sparse_matrix-0.6.2 (c (n "sparse_matrix") (v "0.6.2") (d (list (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)))) (h "1jhh4s7n0jqxsn8d7iqj7yhvavjdy71dzaipixj2ypg1cq434pnv")))
+

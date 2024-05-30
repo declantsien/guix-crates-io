@@ -32,3 +32,5 @@
 
 (define-public crate-gctex-0.3.1 (c (n "gctex") (v "0.3.1") (d (list (d (n "bindgen") (r "^0.66") (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "16q4hxp7lbs55z24rp675svb43jz6vxn3m8hjgjxcbd5dlz05y62")))
 
+(define-public crate-gctex-0.3.2 (c (n "gctex") (v "0.3.2") (d (list (d (n "bindgen") (r "^0.66") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)))) (h "00q9x0kvchmwv1isa2l1396qnr6v2kp14c5d9xbvj6fd84g5y5ka") (f (quote (("run_bindgen" "bindgen") ("default" "c_api") ("c_api"))))))
+

@@ -44,3 +44,7 @@
 
 (define-public crate-sccmod-0.3.2 (c (n "sccmod") (v "0.3.2") (d (list (d (n "anstyle") (r "^1.0.6") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.0") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0drnx989zfwrrfb1a0klixz2kavzq855jlvg107x4jwfjwb3hjl0")))
 
+(define-public crate-sccmod-0.3.3 (c (n "sccmod") (v "0.3.3") (d (list (d (n "anstyle") (r "^1.0.6") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.0") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0xh20i3bfghdznqj9dwcgqhfc8xw4djjz1fz8d5apal9bc8vyl6r")))
+
+(define-public crate-sccmod-0.3.4 (c (n "sccmod") (v "0.3.4") (d (list (d (n "anstyle") (r "^1.0.6") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.0") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "10bbap7q0r53g386s8c393r0gbzkwz9q48ppnjn57kh2703sj41y")))
+

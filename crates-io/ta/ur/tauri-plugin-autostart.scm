@@ -28,3 +28,5 @@
 
 (define-public crate-tauri-plugin-autostart-2.0.0-beta.6 (c (n "tauri-plugin-autostart") (v "2.0.0-beta.6") (d (list (d (n "auto-launch") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.20") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.16") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0mdn4aw68vrv4xpki9p2j81czssyx3fibxnxxvxxykfxlg2wcmy6") (l "tauri-plugin-autostart") (r "1.75")))
 
+(define-public crate-tauri-plugin-autostart-2.0.0-beta.7 (c (n "tauri-plugin-autostart") (v "2.0.0-beta.7") (d (list (d (n "auto-launch") (r "^0.5") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.22") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.17") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "08chv5f4rzklggnvsgkmmn7dl8zrvr15ph6q8p7688ai0znwiw2r") (l "tauri-plugin-autostart") (r "1.75")))
+

@@ -40,3 +40,5 @@
 
 (define-public crate-hydra-macros-0.1.20 (c (n "hydra-macros") (v "0.1.20") (d (list (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0zcf7gmv90qfr9cc5583km054yngs9j5csag1g42i6nlbg6mgkzk")))
 
+(define-public crate-hydra-macros-0.1.21 (c (n "hydra-macros") (v "0.1.21") (d (list (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "008n92fsnzj28zwrnagvd0xlk1jd67im21g3djznh7q2d05c2msy")))
+
