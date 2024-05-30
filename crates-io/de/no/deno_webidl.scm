@@ -310,3 +310,5 @@
 
 (define-public crate-deno_webidl-0.153.0 (c (n "deno_webidl") (v "0.153.0") (d (list (d (n "deno_bench_util") (r "^0.147.0") (d #t) (k 2)) (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)))) (h "030q5ybpd85mvxr72ybfd4visfz19j85a55fcp06bi4h92a15f0g")))
 
+(define-public crate-deno_webidl-0.154.0 (c (n "deno_webidl") (v "0.154.0") (d (list (d (n "deno_bench_util") (r "^0.148.0") (d #t) (k 2)) (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)))) (h "1qq11djgbwccx8xgsdw1shi2nry1ckrf7m6bxz367a6bih4lsw3v")))
+

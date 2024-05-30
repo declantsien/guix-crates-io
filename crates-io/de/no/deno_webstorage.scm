@@ -298,3 +298,5 @@
 
 (define-public crate-deno_webstorage-0.148.0 (c (n "deno_webstorage") (v "0.148.0") (d (list (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)) (d (n "deno_web") (r "^0.184.0") (d #t) (k 0)) (d (n "rusqlite") (r "=0.29.0") (f (quote ("unlock_notify" "bundled"))) (d #t) (k 0)))) (h "1asrmlz5y55svp7n9cdpw2f3krh7d185va43ff1l84h82k0cws27")))
 
+(define-public crate-deno_webstorage-0.149.0 (c (n "deno_webstorage") (v "0.149.0") (d (list (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "deno_web") (r "^0.185.0") (d #t) (k 0)) (d (n "rusqlite") (r "=0.29.0") (f (quote ("unlock_notify" "bundled"))) (d #t) (k 0)))) (h "1h8kcmvc66fdjgbsw9lzbmjndvicycbs9svdfsdka5sxq7j95z9y")))
+

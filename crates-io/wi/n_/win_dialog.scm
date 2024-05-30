@@ -6,3 +6,5 @@
 
 (define-public crate-win_dialog-0.1.2 (c (n "win_dialog") (v "0.1.2") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "09f7ma27hp56hc4gprw57pffzq7dcvh7x878q3cz1kvxalg5c9p5")))
 
+(define-public crate-win_dialog-0.1.3 (c (n "win_dialog") (v "0.1.3") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "019xrshf2v890af9i898vb89xis733wbhlskai6p30lqg91dz61p")))
+

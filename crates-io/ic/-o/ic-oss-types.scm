@@ -8,3 +8,5 @@
 
 (define-public crate-ic-oss-types-0.1.3 (c (n "ic-oss-types") (v "0.1.3") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "candid") (r "^0.10") (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)))) (h "082v3vrsyfvzlc27wjm8drl56shfdvs65kb1k05zwqd952f5bnp6")))
 
+(define-public crate-ic-oss-types-0.2.0 (c (n "ic-oss-types") (v "0.2.0") (d (list (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "candid") (r "^0.10") (d #t) (k 0)) (d (n "ciborium") (r "^0.2") (d #t) (k 0)) (d (n "crc32fast") (r "^1.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)))) (h "0k845krrgb8b31554qv7lda5yl79n7s350w05mg2q2m64k658y5b")))
+

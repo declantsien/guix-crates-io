@@ -292,3 +292,5 @@
 
 (define-public crate-deno_bench_util-0.147.0 (c (n "deno_bench_util") (v "0.147.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 0)) (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1nw3vsnxlbihw0skw8nfj3xs26jjqgimnh1awzvg2ygz574wd1kq")))
 
+(define-public crate-deno_bench_util-0.148.0 (c (n "deno_bench_util") (v "0.148.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 0)) (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1scqlbwrbmwafbn5ynxwfamvapnz8qhv8wqdfvh7p7qplwmiyf3d")))
+
