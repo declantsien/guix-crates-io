@@ -4,3 +4,5 @@
 
 (define-public crate-ps-cypher-0.1.0-2 (c (n "ps-cypher") (v "0.1.0-2") (d (list (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "ps-base64") (r "^0.1.0-1") (d #t) (k 0)) (d (n "ps-deflate") (r "^0.1.0-3") (d #t) (k 0)) (d (n "ps-hash") (r "^0.1.0-3") (d #t) (k 0)))) (h "00zjxl12vl2p16rsh4pj5wysw2gspkvrg7riji8d2k4kibfr483x")))
 
+(define-public crate-ps-cypher-0.1.0-3 (c (n "ps-cypher") (v "0.1.0-3") (d (list (d (n "chacha20poly1305") (r "^0.10.1") (d #t) (k 0)) (d (n "ps-base64") (r "^0.1.0-2") (d #t) (k 0)) (d (n "ps-deflate") (r "^0.1.0-3") (d #t) (k 0)) (d (n "ps-hash") (r "^0.1.0-4") (d #t) (k 0)))) (h "157rz6xdbhnvaf985sp8s6803yy7fsw06wl7arf1n48k09wgy608")))
+
