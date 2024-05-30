@@ -8,3 +8,5 @@
 
 (define-public crate-types_lte_3gpp-1.0.3 (c (n "types_lte_3gpp") (v "1.0.3") (d (list (d (n "asn1-codecs") (r "^0.6.1") (d #t) (k 0)) (d (n "asn1_codecs_derive") (r "^0.6.1") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)))) (h "1yc859spcj1a2k7bnspl2w551sdixinpvqkblwnfryqkyzyz09mg")))
 
+(define-public crate-types_lte_3gpp-1.0.4 (c (n "types_lte_3gpp") (v "1.0.4") (d (list (d (n "asn1-codecs") (r "^0.6.1") (d #t) (k 0)) (d (n "asn1_codecs_derive") (r "^0.6.1") (d #t) (k 0)) (d (n "bitvec") (r "^1.0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)))) (h "1zg7xwjcj4sq9mqlybdmvix67nymb4gpjh0iz4ycqfpgnj3c0zs6") (f (quote (("x2ap") ("s1ap") ("rrc") ("m2ap") ("lppa"))))))
+

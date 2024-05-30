@@ -14,3 +14,5 @@
 
 (define-public crate-zerus-0.8.0 (c (n "zerus") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (f (quote ("vendored-libgit2" "vendored-openssl"))) (d #t) (k 0)) (d (n "guppy") (r "^0.17.5") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking" "rustls-tls" "http2"))) (k 0)))) (h "0a1isqhlda1r96pyxw8li16bs3wbf6x53sx145nxzxdmfbndnvbw")))
 
+(define-public crate-zerus-0.8.1 (c (n "zerus") (v "0.8.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (f (quote ("vendored-libgit2" "vendored-openssl"))) (d #t) (k 0)) (d (n "guppy") (r "^0.17.5") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.3") (f (quote ("blocking" "rustls-tls" "http2"))) (k 0)))) (h "05q30lzy3h20da5qmk8l9sqyd9a7ifxcs4hfdmbhcpg4diqlkvk2")))
+
