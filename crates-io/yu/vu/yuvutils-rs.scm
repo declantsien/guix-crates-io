@@ -38,3 +38,5 @@
 
 (define-public crate-yuvutils-rs-0.2.4 (c (n "yuvutils-rs") (v "0.2.4") (h "0klr7i0gqzm892rwcykwarz2p4984j2g8xq0iphx7a3ssn4s4wyi") (f (quote (("nightly_avx512") ("default"))))))
 
+(define-public crate-yuvutils-rs-0.2.5 (c (n "yuvutils-rs") (v "0.2.5") (h "1q9q5xlw7jiwm4biw6zg26y9s4fb67p6sa2n6g53h66w24zha525") (f (quote (("nightly_avx512") ("default"))))))
+
