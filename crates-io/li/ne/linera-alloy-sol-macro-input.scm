@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-sol-macro-input) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-sol-macro-input-0.7.4 (c (n "linera-alloy-sol-macro-input") (v "0.7.4") (d (list (d (n "dunce") (r "^1.0.4") (d #t) (k 0)) (d (n "heck") (r "^0.5.0") (d #t) (k 0)) (d (n "hex") (r "^1.10") (f (quote ("alloc"))) (k 0) (p "const-hex")) (d (n "linera-alloy-json-abi") (r "^0.7.4") (o #t) (k 0)) (d (n "linera-alloy-syn-solidity") (r "^0.7.4") (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (o #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "08qxd691azms2379nz6dnflbjwl9jxp5j3mjhi43wknqr6wd8g2c") (s 2) (e (quote (("json" "dep:linera-alloy-json-abi" "dep:serde_json")))) (r "1.65")))
+

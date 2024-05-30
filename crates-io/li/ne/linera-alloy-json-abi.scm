@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-json-abi) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-json-abi-0.7.4 (c (n "linera-alloy-json-abi") (v "0.7.4") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "ethabi") (r "^18") (d #t) (k 2)) (d (n "linera-alloy-primitives") (r "^0.7.4") (f (quote ("serde"))) (k 0)) (d (n "linera-alloy-sol-type-parser") (r "^0.7.4") (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (o #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 2)))) (h "114f04i6na52qzadm10k3k4fal5yk923nk45s6790x4pvsgv5321") (f (quote (("default" "std")))) (s 2) (e (quote (("std" "serde/std" "linera-alloy-primitives/std" "linera-alloy-sol-type-parser/std" "serde_json?/std") ("serde_json" "dep:serde_json")))) (r "1.65")))
+
