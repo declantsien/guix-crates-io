@@ -8,3 +8,5 @@
 
 (define-public crate-trillium-head-0.2.2 (c (n "trillium-head") (v "0.2.2") (d (list (d (n "trillium") (r "^0.2.19") (d #t) (k 0)))) (h "0svsliybfq6dfpq1db76r5z0rmxp1v9fm7wnrnvfhrawmqiil3y8")))
 
+(define-public crate-trillium-head-0.2.3 (c (n "trillium-head") (v "0.2.3") (d (list (d (n "trillium") (r "^0.2.20") (d #t) (k 0)))) (h "0x74ms9b4dbgy01jzpcl01306vmdhhgmbfwfd0k7sk4z69pmq4mw")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-trillium-compression-0.1.2 (c (n "trillium-compression") (v "0.1.2") (d (list (d (n "async-compression") (r "^0.4.5") (f (quote ("brotli" "gzip" "zstd" "futures-io"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.0") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "trillium") (r "^0.2.19") (d #t) (k 0)))) (h "08zc4nlxn2s7ybwjx4l6g8lrfplxr1hc446c72hq6n2i74345s6q")))
 
+(define-public crate-trillium-compression-0.1.3 (c (n "trillium-compression") (v "0.1.3") (d (list (d (n "async-compression") (r "^0.4.5") (f (quote ("brotli" "gzip" "zstd" "futures-io"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.0") (d #t) (k 2)) (d (n "futures-lite") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "trillium") (r "^0.2.20") (d #t) (k 0)))) (h "07bc7fnq4js7vg8cp6ssjl80wshy7rdjb0ak89a6c6blvd5hr9iv")))
+

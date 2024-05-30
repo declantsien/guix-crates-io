@@ -32,3 +32,5 @@
 
 (define-public crate-sqruff-0.5.0 (c (n "sqruff") (v "0.5.0") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "jemallocator") (r "^0.5") (o #t) (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 0) (p "tikv-jemallocator")) (d (n "sqruff-lib") (r "^0.5.0") (d #t) (k 0)) (d (n "ui_test") (r "^0.22") (d #t) (k 2)))) (h "1v24kn1gw5lf92a7bjv9p438pq9ml96b3ad2v3ifc5ajjvadnzjs") (f (quote (("jemalloc" "jemallocator"))))))
 
+(define-public crate-sqruff-0.5.1 (c (n "sqruff") (v "0.5.1") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "jemallocator") (r "^0.5") (o #t) (d #t) (t "cfg(not(target_env = \"msvc\"))") (k 0) (p "tikv-jemallocator")) (d (n "sqruff-lib") (r "^0.5.1") (d #t) (k 0)) (d (n "ui_test") (r "^0.22") (d #t) (k 2)))) (h "1gj6h1500i3fasb3zwhggidr1fzrap612cb6bgzssy49iack5zwf") (f (quote (("jemalloc" "jemallocator"))))))
+

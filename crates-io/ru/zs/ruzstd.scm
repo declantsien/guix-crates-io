@@ -22,3 +22,5 @@
 
 (define-public crate-ruzstd-0.6.0 (c (n "ruzstd") (v "0.6.0") (d (list (d (n "byteorder") (r "^1.5") (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "derive_more") (r "^0.99") (f (quote ("display" "from"))) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "twox-hash") (r "^1.6") (o #t) (k 0)))) (h "0yygqpar2x910lnii4k5p43aj4943hlnxpczmqhsfddmxrqa8x2i") (f (quote (("std" "derive_more/error") ("default" "hash" "std")))) (s 2) (e (quote (("hash" "dep:twox-hash"))))))
 
+(define-public crate-ruzstd-0.7.0 (c (n "ruzstd") (v "0.7.0") (d (list (d (n "byteorder") (r "^1.5") (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "twox-hash") (r "^1.6") (o #t) (k 0)))) (h "13xz8iv0c96m4mrcx9zmn1rimvfqprv641a3yabsf6wvc59v48jh") (f (quote (("std") ("default" "hash" "std")))) (s 2) (e (quote (("hash" "dep:twox-hash"))))))
+
