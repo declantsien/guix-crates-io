@@ -16,3 +16,5 @@
 
 (define-public crate-rantz_spatial2d-0.3.6 (c (n "rantz_spatial2d") (v "0.3.6") (d (list (d (n "bevy") (r "^0.13.2") (k 0)) (d (n "bevy") (r "^0.13.2") (d #t) (k 2)))) (h "03pm1ig6qwyycdwp4i6gqkcmww8sl5fb3m3wi23ja60mhfmy5nn7") (f (quote (("default" "bevy_render") ("bevy_render" "bevy/bevy_render"))))))
 
+(define-public crate-rantz_spatial2d-0.3.7 (c (n "rantz_spatial2d") (v "0.3.7") (d (list (d (n "bevy") (r "^0.13.2") (o #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "09i1bbrndc0hp88p623jg7001y876vkw731rzn7zvpvjddv7fwrq") (f (quote (("default" "bevy") ("bevy" "bevy/bevy_render")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
