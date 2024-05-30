@@ -15,7 +15,7 @@
       (format #f "git -C ~a ls-files" repo-dir)
       (format #f "git -C ~a diff --name-only ~a ~a" repo-dir last-commit current-commit)))
 
-;; (display git-command-string)
+(display git-command-string)
 (call-with-output-file "build.ninja"
   (lambda (port)
     (write-line

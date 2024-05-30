@@ -25,6 +25,7 @@ jobs:
           echo "Generating build.ninja"
           export GUILE_LOAD_PATH="$(pwd)/.:$HOME/.config/guix/current/share/guile/site/3.0"
           guix shell guix guile -- guile scripts/generate-build-ninja.scm
+          cat build.ninja
       - name: Update crates index
         run: |
           export GUILE_LOAD_PATH="$(pwd)/.:$HOME/.config/guix/current/share/guile/site/3.0"
