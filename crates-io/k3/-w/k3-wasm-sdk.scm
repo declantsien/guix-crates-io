@@ -24,3 +24,5 @@
 
 (define-public crate-k3-wasm-sdk-0.1.11 (c (n "k3-wasm-sdk") (v "0.1.11") (d (list (d (n "bytecodec") (r "^0.4.15") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "http") (r "^0.2.11") (d #t) (k 0)) (d (n "httpcodec") (r "^0.2.3") (d #t) (k 0)) (d (n "web3") (r "^0.19.0") (f (quote ("wasm"))) (k 0)))) (h "1lgjcbkpvppa5mqg6zbr9jv6v8703ry5n4km9422qzk7x82vfj89")))
 
+(define-public crate-k3-wasm-sdk-0.1.12 (c (n "k3-wasm-sdk") (v "0.1.12") (d (list (d (n "bytecodec") (r "^0.4.15") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.7") (d #t) (k 0)) (d (n "http") (r "^0.2.11") (d #t) (k 0)) (d (n "httpcodec") (r "^0.2.3") (d #t) (k 0)) (d (n "web3") (r "^0.19.0") (f (quote ("wasm"))) (k 0)))) (h "1k48cbfc1j2snd91naxlmh54rsvv3p6pkw9w5mxrq9ckp6bkjbry")))
+
