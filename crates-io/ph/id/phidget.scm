@@ -8,3 +8,5 @@
 
 (define-public crate-phidget-0.1.3 (c (n "phidget") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^3.2") (o #t) (d #t) (k 0)) (d (n "clap") (r "^3.2") (d #t) (k 2)) (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (o #t) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (d #t) (k 2)) (d (n "phidget-sys") (r "^0.1") (d #t) (k 0)))) (h "1yds0p7sn7h006y1gwfsbkk8d3f98sbf2rlvn758r1kyvvdq2pz8") (f (quote (("utils" "anyhow" "clap" "ctrlc") ("default" "utils")))) (r "1.73")))
 
+(define-public crate-phidget-0.1.4 (c (n "phidget") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "anyhow") (r "^1.0") (d #t) (k 2)) (d (n "clap") (r "^3.2") (o #t) (d #t) (k 0)) (d (n "clap") (r "^3.2") (d #t) (k 2)) (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (o #t) (d #t) (k 0)) (d (n "ctrlc") (r "^3.2") (f (quote ("termination"))) (d #t) (k 2)) (d (n "phidget-sys") (r "^0.1") (d #t) (k 0)))) (h "0zwsrz9hw7dhpv3mlgvmvi46a3aann5ky8d6zxw6v4wif6k8s9wq") (f (quote (("utils" "anyhow" "clap" "ctrlc") ("default" "utils")))) (r "1.73")))
+

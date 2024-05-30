@@ -68,3 +68,5 @@
 
 (define-public crate-cfgrammar-0.13.5 (c (n "cfgrammar") (v "0.13.5") (d (list (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "vob") (r ">=3.0.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0dnvgs47wlv7bc9g5bqq5xsyd9wfb5fjnngiksllzlqw1f2lhcqn")))
 
+(define-public crate-cfgrammar-0.13.6 (c (n "cfgrammar") (v "0.13.6") (d (list (d (n "indexmap") (r "^2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "vob") (r ">=3.0.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "131pczpy0zmhks428j3dk6hds6cb4rbnxss95ssv9n4d04lay1zc")))
+

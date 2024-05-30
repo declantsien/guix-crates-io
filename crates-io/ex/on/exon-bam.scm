@@ -118,3 +118,5 @@
 
 (define-public crate-exon-bam-0.24.0 (c (n "exon-bam") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "exon-sam") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core" "async" "bam" "sam" "bgzf"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1zmp8valflkimdav2vvpbkcag0wgbz4fdlk6kl624g61prj3rlx9")))
 
+(define-public crate-exon-bam-0.24.1 (c (n "exon-bam") (v "0.24.1") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.1") (d #t) (k 0)) (d (n "exon-sam") (r "^0.24.1") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("core" "async" "bam" "sam" "bgzf"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1a28crd5c5k5qhqdn72dpd4svdgx68i6skqlw2bgq8v728mnvmiz")))
+

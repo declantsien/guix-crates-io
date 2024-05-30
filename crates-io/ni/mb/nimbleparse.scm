@@ -34,3 +34,5 @@
 
 (define-public crate-nimbleparse-0.13.5 (c (n "nimbleparse") (v "0.13.5") (d (list (d (n "cfgrammar") (r "^0.13") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lrlex") (r "^0.13") (d #t) (k 0)) (d (n "lrpar") (r "^0.13") (d #t) (k 0)) (d (n "lrtable") (r "^0.13") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)))) (h "0g1hgcymvg2glsc4ly0idfmfynawazp9c8zmmkbalx9yq9nmd60c")))
 
+(define-public crate-nimbleparse-0.13.6 (c (n "nimbleparse") (v "0.13.6") (d (list (d (n "cfgrammar") (r "^0.13") (d #t) (k 0)) (d (n "getopts") (r "^0.2") (d #t) (k 0)) (d (n "lrlex") (r "^0.13") (d #t) (k 0)) (d (n "lrpar") (r "^0.13") (d #t) (k 0)) (d (n "lrtable") (r "^0.13") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.11") (d #t) (k 0)))) (h "1ic77v2j3fcsyk16dchxhirai27kg7wh6qivciwjwd77p06mfmja")))
+

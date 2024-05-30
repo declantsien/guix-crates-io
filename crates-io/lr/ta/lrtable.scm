@@ -68,3 +68,5 @@
 
 (define-public crate-lrtable-0.13.5 (c (n "lrtable") (v "0.13.5") (d (list (d (n "cfgrammar") (r "^0.13") (f (quote ("serde"))) (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sparsevec") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "vob") (r ">=3.0.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "1aq6sb0phnl6s5s1zmdbpvwr7jcdqil4blmhsljfsyfjpz1nhmpz")))
 
+(define-public crate-lrtable-0.13.6 (c (n "lrtable") (v "0.13.6") (d (list (d (n "cfgrammar") (r "^0.13") (f (quote ("serde"))) (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "sparsevec") (r "^0.2") (f (quote ("serde"))) (d #t) (k 0)) (d (n "vob") (r ">=3.0.2") (f (quote ("serde"))) (d #t) (k 0)))) (h "0mi89z7ga5vkn1n8i3hpvw5yh2z5s3pvrl1c9cgip79051bgrkjg")))
+
