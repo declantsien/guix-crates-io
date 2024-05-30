@@ -6,3 +6,5 @@
 
 (define-public crate-interim-0.1.1 (c (n "interim") (v "0.1.1") (d (list (d (n "chrono") (r "^0.4.20") (o #t) (k 0)) (d (n "chrono") (r "^0.4.20") (f (quote ("clock"))) (k 2)) (d (n "logos") (r "^0.13.0") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (o #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("formatting"))) (k 2)))) (h "0d32gcccw1iyjg79jbzzhsib52ikxkddzk5fxax274ji2x43jyqi") (f (quote (("std") ("default" "std")))) (r "1.65.0")))
 
+(define-public crate-interim-0.1.2 (c (n "interim") (v "0.1.2") (d (list (d (n "chrono") (r "^0.4.20") (o #t) (k 0)) (d (n "chrono") (r "^0.4.20") (f (quote ("clock"))) (k 2)) (d (n "logos") (r "^0.14.0") (d #t) (k 0)) (d (n "time") (r "^0.3.9") (o #t) (k 0)) (d (n "time") (r "^0.3.9") (f (quote ("formatting"))) (k 2)))) (h "1x5ykyv8bkv13398q3dpycg5943rw1jycvjbhi2yih30zw5hzzcs") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("time" "dep:time") ("chrono" "dep:chrono")))) (r "1.65.0")))
+

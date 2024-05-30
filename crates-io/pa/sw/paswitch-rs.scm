@@ -34,3 +34,5 @@
 
 (define-public crate-paswitch-rs-0.3.11 (c (n "paswitch-rs") (v "0.3.11") (d (list (d (n "clap") (r "^4.5.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.1") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "0yvddqhbldihzysl4nk5vq29s77v7l4nyjz6zda1a28jsq5z5rns")))
 
+(define-public crate-paswitch-rs-0.3.12 (c (n "paswitch-rs") (v "0.3.12") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "term") (r "^0.7.0") (d #t) (k 0)))) (h "1jvjyg0sdzv19scq55ayyflghx4j81nsh8sxgivfngz4cqjjm2n3")))
+

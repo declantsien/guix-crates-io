@@ -18,3 +18,5 @@
 
 (define-public crate-rstest_reuse-0.6.0 (c (n "rstest_reuse") (v "0.6.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rstest") (r "^0.18.1") (d #t) (k 2)) (d (n "rstest_test") (r "^0.11.0") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "syn") (r "^2.0.2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)))) (h "191l5gfwx9rmkqd48s85fkh21b73f38838fc896r4rxy39l0nlw8")))
 
+(define-public crate-rstest_reuse-0.7.0 (c (n "rstest_reuse") (v "0.7.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "quote") (r "^1.0.9") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rstest") (r "^0.19.0") (d #t) (k 2)) (d (n "syn") (r "^2.0.2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)))) (h "057y4v1rh9br58n2m3xqvm8xyx8k96jpgibgls3sah78f93gpa5k") (r "1.60.0")))
+
