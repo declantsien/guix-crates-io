@@ -118,3 +118,5 @@
 
 (define-public crate-exon-common-0.23.0 (c (n "exon-common") (v "0.23.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "datafusion") (r "^38") (f (quote ("compression" "parquet"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "006c6by1nwpindwlfkzx8my1nqnkai94hp6nm2yamjsydn1ycf10")))
 
+(define-public crate-exon-common-0.24.0 (c (n "exon-common") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "datafusion") (r "^38") (f (quote ("compression" "parquet"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "13hh6vabzm8vgj89dy5zp0hfibgsmad6vkad3rnlyfp0l4xxvcrk")))
+

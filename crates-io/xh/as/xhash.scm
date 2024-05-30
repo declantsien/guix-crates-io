@@ -42,3 +42,5 @@
 
 (define-public crate-xhash-0.1.21 (c (n "xhash") (v "0.1.21") (d (list (d (n "gxhash") (r "^3.1.1") (d #t) (k 0)) (d (n "intbin") (r "^0.1.2") (d #t) (k 0)) (d (n "speedy") (r "^0.8.7") (o #t) (d #t) (k 0)))) (h "070i68hnbas85qha22ycs7a5xm63rh5qycha6yhs7y7gyfwcj0sy") (f (quote (("xhash") ("hasher") ("hash_li" "hasher" "xhash" "bin_li") ("default" "xhash") ("bin_li")))) (s 2) (e (quote (("speedy" "dep:speedy" "bin_li"))))))
 
+(define-public crate-xhash-0.1.22 (c (n "xhash") (v "0.1.22") (d (list (d (n "gxhash") (r "^3.4.1") (d #t) (k 0)) (d (n "intbin") (r "^0.1.2") (d #t) (k 0)) (d (n "speedy") (r "^0.8.7") (o #t) (d #t) (k 0)))) (h "0kl92v2g0misl37m9wsmv53rhbmngdkdca3lihlii7izprcr3yq1") (f (quote (("xhash") ("hasher") ("hash_li" "hasher" "xhash" "bin_li") ("default" "xhash") ("bin_li")))) (s 2) (e (quote (("speedy" "dep:speedy" "bin_li"))))))
+
