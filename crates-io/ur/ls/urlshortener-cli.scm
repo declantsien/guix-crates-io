@@ -14,3 +14,5 @@
 
 (define-public crate-urlshortener-cli-1.1.1 (c (n "urlshortener-cli") (v "1.1.1") (d (list (d (n "cli-clipboard") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "urlshortener") (r "^3") (d #t) (k 0)))) (h "029017apd6swdk8kmimzk7kmvr4lgyxk1hw8sr17rzxfpr6vanbl") (f (quote (("default" "clipboard") ("clipboard" "cli-clipboard"))))))
 
+(define-public crate-urlshortener-cli-1.2.0 (c (n "urlshortener-cli") (v "1.2.0") (d (list (d (n "cli-clipboard") (r "^0.4") (d #t) (k 0)) (d (n "notify-rust") (r "^4") (o #t) (d #t) (k 0)) (d (n "urlshortener") (r "^3") (d #t) (k 0)))) (h "1zhcmb71sczam9f304i8rd3ahkvsh66g44m35xslc6ml234hz7dj") (f (quote (("notifications" "notify-rust") ("default" "notifications"))))))
+

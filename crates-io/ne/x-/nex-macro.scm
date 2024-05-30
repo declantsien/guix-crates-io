@@ -12,3 +12,5 @@
 
 (define-public crate-nex-macro-0.11.0 (c (n "nex-macro") (v "0.11.0") (d (list (d (n "nex-macro-helper") (r "^0.11.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1b2s4f87va3i4sx7zhr725k3xf0hadmbx97ziph529sry4xnm3y2")))
 
+(define-public crate-nex-macro-0.12.0 (c (n "nex-macro") (v "0.12.0") (d (list (d (n "nex-macro-helper") (r "^0.12.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.9") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "158abqg86c6vrf0ma97ll00dkya9gc51pgqwm0dpcga2j6jaxq7j")))
+

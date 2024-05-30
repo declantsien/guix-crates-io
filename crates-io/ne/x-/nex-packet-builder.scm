@@ -12,3 +12,5 @@
 
 (define-public crate-nex-packet-builder-0.11.0 (c (n "nex-packet-builder") (v "0.11.0") (d (list (d (n "nex-core") (r "^0.11.0") (d #t) (k 0)) (d (n "nex-packet") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "080k4yq9g5l05yfwfqwnjlxkkh32b46jhxkwhjirk8ch044za856")))
 
+(define-public crate-nex-packet-builder-0.12.0 (c (n "nex-packet-builder") (v "0.12.0") (d (list (d (n "nex-core") (r "^0.12.0") (d #t) (k 0)) (d (n "nex-packet") (r "^0.12.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "1f0byx1b48vizz5cf2vjfj14b072bnqvvlrxqznz5xdwf8k0z0x5")))
+

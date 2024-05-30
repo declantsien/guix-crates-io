@@ -12,3 +12,5 @@
 
 (define-public crate-nex-packet-0.11.0 (c (n "nex-packet") (v "0.11.0") (d (list (d (n "nex-core") (r "^0.11.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.11.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.11.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0mqkrs9gn83nrnnm9w86ax3a37y4nzabixsmw3nb3b237swrrv4y") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
 
+(define-public crate-nex-packet-0.12.0 (c (n "nex-packet") (v "0.12.0") (d (list (d (n "nex-core") (r "^0.12.0") (d #t) (k 0)) (d (n "nex-macro") (r "^0.12.0") (d #t) (k 0)) (d (n "nex-macro-helper") (r "^0.12.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1k8hry68cjsyik0nn52c3pyjg8psk2cf3c91vsp3qx8cl9sb9sg4") (s 2) (e (quote (("serde" "dep:serde" "nex-core/serde"))))))
+

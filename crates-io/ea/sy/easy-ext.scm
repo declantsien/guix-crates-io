@@ -42,3 +42,5 @@
 
 (define-public crate-easy-ext-1.0.1 (c (n "easy-ext") (v "1.0.1") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.49") (d #t) (k 2)))) (h "0ndfsx7k3zygrpqr2w4f0483pixpl2134a4q9iwlhmp6qwj7aia9") (r "1.31")))
 
+(define-public crate-easy-ext-1.0.2 (c (n "easy-ext") (v "1.0.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 2)) (d (n "rustversion") (r "^1") (d #t) (k 2)))) (h "1ji10705mkixg8x07ds0736h0f9qcij5f56ysznwmy04hmm6spfc") (r "1.31")))
+

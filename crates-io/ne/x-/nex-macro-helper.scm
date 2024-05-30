@@ -12,3 +12,5 @@
 
 (define-public crate-nex-macro-helper-0.11.0 (c (n "nex-macro-helper") (v "0.11.0") (d (list (d (n "nex-core") (r "^0.11.0") (d #t) (k 0)))) (h "1v9grx3wj3wybpg3myjw1l0cy79aighzda5h6maar2wymla2sg97")))
 
+(define-public crate-nex-macro-helper-0.12.0 (c (n "nex-macro-helper") (v "0.12.0") (d (list (d (n "nex-core") (r "^0.12.0") (d #t) (k 0)))) (h "06r30y51ynyskmpflqgjgi287wnfqhzmid1gzw72py7y21w4cfnz")))
+

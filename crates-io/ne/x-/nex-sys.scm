@@ -12,3 +12,5 @@
 
 (define-public crate-nex-sys-0.11.0 (c (n "nex-sys") (v "0.11.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_Networking_WinSock" "Win32_System_IO" "Win32_System_Threading" "Win32_System_WindowsProgramming"))) (d #t) (t "cfg(windows)") (k 0)))) (h "01r7zbn4fjvr376lzd0ingprl31p77bclw5miyhqb0kmmvbbg6pl")))
 
+(define-public crate-nex-sys-0.12.0 (c (n "nex-sys") (v "0.12.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_Networking_WinSock" "Win32_System_IO" "Win32_System_Threading" "Win32_System_WindowsProgramming"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0v8bjjf2gwz97bac60inj9kyv3xjdq85fkrcmhp7nwpkihybl8g2")))
+

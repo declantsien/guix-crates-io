@@ -12,3 +12,5 @@
 
 (define-public crate-nex-core-0.11.0 (c (n "nex-core") (v "0.11.0") (d (list (d (n "netdev") (r "^0.27") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0z1b32k0wg9jm2ag1c9scq7b5jpxfc1mk1lq0xaaab0dpij4w95l") (s 2) (e (quote (("serde" "dep:serde" "netdev/serde") ("default" "dep:netdev"))))))
 
+(define-public crate-nex-core-0.12.0 (c (n "nex-core") (v "0.12.0") (d (list (d (n "netdev") (r "^0.27") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1wszg6iizf4msbqq6zw62xvw41n4w3in8wky680lcgqbaxssbcf8") (s 2) (e (quote (("serde" "dep:serde" "netdev/serde") ("default" "dep:netdev"))))))
+

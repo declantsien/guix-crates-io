@@ -12,3 +12,5 @@
 
 (define-public crate-tree-sitter-jinja2-0.0.6 (c (n "tree-sitter-jinja2") (v "0.0.6") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.20.10") (d #t) (k 0)))) (h "12r5y397qd7shrnj1c2v3c5q41ihwsp88vrjlk89a78nkkmkxq86")))
 
+(define-public crate-tree-sitter-jinja2-0.0.7 (c (n "tree-sitter-jinja2") (v "0.0.7") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "^0.21.0") (d #t) (k 0)))) (h "1kh3rwkdsxqfmfc3c1cnmvrb4mbhqfh6zw158in66wscrlzjqqpk")))
+

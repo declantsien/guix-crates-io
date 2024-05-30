@@ -60,3 +60,5 @@
 
 (define-public crate-charybdis_macros-0.6.0 (c (n "charybdis_macros") (v "0.6.0") (d (list (d (n "charybdis") (r "^0.5.3") (d #t) (k 2)) (d (n "charybdis_parser") (r "^0.6.0") (d #t) (k 0)) (d (n "darling") (r "^0.20.8") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "scylla") (r "^0.13.0") (d #t) (k 2)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "187aq088w9nvykq5gmnhxsyxhi07h4g48qxhw2f3pa2288iqzwa0") (r "1.75.0")))
 
+(define-public crate-charybdis_macros-0.6.1 (c (n "charybdis_macros") (v "0.6.1") (d (list (d (n "charybdis") (r "^0.5.3") (d #t) (k 2)) (d (n "charybdis_parser") (r "^0.6.1") (d #t) (k 0)) (d (n "darling") (r "^0.20.8") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "scylla") (r "^0.13.0") (d #t) (k 2)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0pchl2vjhi3fsf6zn0n3id4gnza6qqv519539x4x1yq28l2q68jq") (r "1.75.0")))
+
