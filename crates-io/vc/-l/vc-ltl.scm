@@ -60,3 +60,5 @@
 
 (define-public crate-vc-ltl-5.1.1-Beta1 (c (n "vc-ltl") (v "5.1.1-Beta1") (h "1v8724gwskm9ssa7fvibk9i7s60npgvf0ba97r1yzlv8bakiy32g")))
 
+(define-public crate-vc-ltl-5.1.1-Beta2 (c (n "vc-ltl") (v "5.1.1-Beta2") (h "0gqpq91ypb1jl5h4p4gkx2g590vcsb1vhx6jcjpa3p8p1s89kynz")))
+

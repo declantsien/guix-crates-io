@@ -58,3 +58,5 @@
 
 (define-public crate-font-types-0.5.4 (c (n "font-types") (v "0.5.4") (d (list (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive" "min_const_generics"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0krg6nvw4r6j9nggvk9942xyygqddjxzhqh5kczxids1n1xza6hw")))
 
+(define-public crate-font-types-0.5.5 (c (n "font-types") (v "0.5.5") (d (list (d (n "bytemuck") (r "^1.13.1") (f (quote ("derive" "min_const_generics"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0adahn6fwdv4xd0fv1flxibkyz8smfa49wwyhlyqg0m6mhv73z9l") (f (quote (("std"))))))
+

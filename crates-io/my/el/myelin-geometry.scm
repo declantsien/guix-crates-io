@@ -16,3 +16,5 @@
 
 (define-public crate-myelin-geometry-2.4.2 (c (n "myelin-geometry") (v "2.4.2") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nearly_eq") (r "^0.2.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "157kvhzmnyparapbkh0l7l4g9zx8df88pgx5c2vn0gqhqm8704dd")))
 
+(define-public crate-myelin-geometry-2.4.3 (c (n "myelin-geometry") (v "2.4.3") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "nearly_eq") (r "^0.2.4") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1mfh26fzk0g707qa36kjmvi43cniggffcjnzym1jh1dnc9rxgq9y")))
+

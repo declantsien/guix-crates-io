@@ -30,3 +30,5 @@
 
 (define-public crate-mvdparser-0.8.3 (c (n "mvdparser") (v "0.8.3") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "bstr") (r "^1.9.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (k 0)) (d (n "criterion") (r "^0.5.1") (k 2)) (d (n "ktxstats") (r "^0.2.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "quake_clientinfo") (r "^0.2.0") (d #t) (k 0)) (d (n "quake_serverinfo") (r "^0.4.0") (d #t) (k 0)) (d (n "quake_text") (r "^0.1.1") (d #t) (k 0)))) (h "1y87wjdcyscxh5x1a18ppa3s6gn4mnk44gyvw7m8h1qh0mgg5azh")))
 
+(define-public crate-mvdparser-0.9.0 (c (n "mvdparser") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "bstr") (r "^1.9.1") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (k 0)) (d (n "criterion") (r "^0.5.1") (k 2)) (d (n "ktxstats") (r "^0.3.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "quake_clientinfo") (r "^0.2.0") (d #t) (k 0)) (d (n "quake_serverinfo") (r "^0.4.0") (d #t) (k 0)) (d (n "quake_text") (r "^0.1.1") (d #t) (k 0)))) (h "0p3p92173nlpjkv7a2a3y5cpcjm1xdk4szdbyn9k0f9palwv5ldv")))
+

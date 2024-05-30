@@ -84,3 +84,5 @@
 
 (define-public crate-read-fonts-0.19.2 (c (n "read-fonts") (v "0.19.2") (d (list (d (n "bytemuck") (r "^1.13.1") (d #t) (k 0)) (d (n "font-types") (r "^0.5.4") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1gif40678ff5dlfc7gy9lqsys80rgwyysbcs61g1kfrk461zwi1d") (f (quote (("traversal" "std") ("std") ("scaler_test") ("default" "traversal") ("codegen_test")))) (s 2) (e (quote (("serde" "dep:serde" "font-types/serde"))))))
 
+(define-public crate-read-fonts-0.19.3 (c (n "read-fonts") (v "0.19.3") (d (list (d (n "bytemuck") (r "^1.13.1") (d #t) (k 0)) (d (n "font-types") (r "^0.5.5") (f (quote ("bytemuck"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0kd6iij4sdx2ybvk40pqhylxl82shgksbknl39qnjf7js4wszf78") (f (quote (("traversal" "std") ("std" "font-types/std") ("scaler_test") ("default" "traversal") ("codegen_test")))) (s 2) (e (quote (("serde" "dep:serde" "font-types/serde"))))))
+
