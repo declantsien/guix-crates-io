@@ -12,3 +12,5 @@
 
 (define-public crate-perf-event-open-sys2-5.0.4 (c (n "perf-event-open-sys2") (v "5.0.4") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "memoffset") (r "^0.9.1") (d #t) (k 0)))) (h "1i820npw2ziw30s02flh72abkhbfpq603g6k7zsqjl4krzh08l2r")))
 
+(define-public crate-perf-event-open-sys2-5.0.5 (c (n "perf-event-open-sys2") (v "5.0.5") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "memoffset") (r "^0.9.1") (d #t) (k 0)))) (h "1m2zfd026047czflvbiwl8y67z4kvw4jvvpzpx6mh9ql8q0gkyh1")))
+

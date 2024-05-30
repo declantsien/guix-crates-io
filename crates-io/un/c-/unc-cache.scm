@@ -26,3 +26,5 @@
 
 (define-public crate-unc-cache-0.10.2 (c (n "unc-cache") (v "0.10.2") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "lru") (r "^0.7.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1jiwgxq0m0g1ikgrdqlrscjxny9hbzh3c3yxirwdhpz05x3634kq")))
 
+(define-public crate-unc-cache-0.12.2 (c (n "unc-cache") (v "0.12.2") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "lru") (r "^0.7.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "13wwcay7q5rdx78im8cxlxhdd7909x0f5rba4fcm0f4nsjzxpcs5")))
+
