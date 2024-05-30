@@ -6,3 +6,5 @@
 
 (define-public crate-playdate-scoreboards-0.1.1 (c (n "playdate-scoreboards") (v "0.1.1") (d (list (d (n "erased_set") (r "^0.8") (d #t) (k 0)) (d (n "sys") (r "^0.3") (k 0) (p "playdate-sys")) (d (n "system") (r "^0.3") (f (quote ("try-trait-v2"))) (k 2) (p "playdate-system")))) (h "0ip53rrsjmcbnblw4lniq4i52i0xcggx2qap77ncdkgix4war8d3") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
 
+(define-public crate-playdate-scoreboards-0.1.2 (c (n "playdate-scoreboards") (v "0.1.2") (d (list (d (n "erased_set") (r "^0.8") (d #t) (k 0)) (d (n "sys") (r "^0.4") (k 0) (p "playdate-sys")) (d (n "system") (r "^0.3") (f (quote ("try-trait-v2"))) (k 2) (p "playdate-system")))) (h "0gkp93blmf2c0155zi7y5cfjdzbpx1s06j1s64z4m01b146rciq6") (f (quote (("default" "sys/default") ("bindings-derive-debug" "sys/bindings-derive-debug") ("bindgen-static" "sys/bindgen-static") ("bindgen-runtime" "sys/bindgen-runtime"))))))
+

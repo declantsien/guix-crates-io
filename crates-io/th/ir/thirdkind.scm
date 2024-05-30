@@ -174,3 +174,7 @@
 
 (define-public crate-thirdkind-3.6.6 (c (n "thirdkind") (v "3.6.6") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "getopt") (r "^1.1.0") (d #t) (k 0)) (d (n "light_phylogeny") (r "^2.2.7") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.10") (d #t) (k 0)))) (h "139h34fvr8qlx3lvfy2qi0b74zh5my0bsw0qa40724a7lp6gc135")))
 
+(define-public crate-thirdkind-3.6.7 (c (n "thirdkind") (v "3.6.7") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "getopt") (r "^1.1.0") (d #t) (k 0)) (d (n "light_phylogeny") (r "^2.2.7") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.10") (d #t) (k 0)))) (h "02966xgjh63vfjdkcxymhxhrcsi61rczdwjpld7v4z4caj3nxgfw")))
+
+(define-public crate-thirdkind-3.6.8 (c (n "thirdkind") (v "3.6.8") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "getopt") (r "^1.1.0") (d #t) (k 0)) (d (n "light_phylogeny") (r "^2.2.7") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.10") (d #t) (k 0)))) (h "1azi438r91lkh4w94f29rw8s91f1xxl8qn5i4hc1zgii1j5na075")))
+
