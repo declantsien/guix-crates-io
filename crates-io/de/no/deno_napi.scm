@@ -166,3 +166,5 @@
 
 (define-public crate-deno_napi-0.83.0 (c (n "deno_napi") (v "0.83.0") (d (list (d (n "deno_core") (r "^0.280.0") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 0)))) (h "0hsnnihi890c7c0j427ln1zsdmcyb7bf83c8v7y60z2b93i3bm7p")))
 
+(define-public crate-deno_napi-0.84.0 (c (n "deno_napi") (v "0.84.0") (d (list (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 0)))) (h "1csrh11drvs6d0h384mhpp1n8ffci6nmp3flwdxxnspcvkxs3yqf")))
+
