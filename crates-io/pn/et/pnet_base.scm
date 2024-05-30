@@ -36,3 +36,5 @@
 
 (define-public crate-pnet_base-0.34.0 (c (n "pnet_base") (v "0.34.0") (d (list (d (n "no-std-net") (r "^0.6.0") (k 0)) (d (n "serde") (r "^1.0.171") (o #t) (k 0)) (d (n "serde_test") (r "^1.0.171") (d #t) (k 2)))) (h "0k2z3jh6vw99bwl0ckpsd142n4yiscza1bmj3b86i2xk7bxzck7y") (f (quote (("std" "no-std-net/std") ("default" "std"))))))
 
+(define-public crate-pnet_base-0.35.0 (c (n "pnet_base") (v "0.35.0") (d (list (d (n "no-std-net") (r "^0.6.0") (k 0)) (d (n "serde") (r "^1.0.171") (o #t) (k 0)) (d (n "serde_test") (r "^1.0.171") (d #t) (k 2)))) (h "1xxj1ym32zqmy7m7ciiisv513rk9qis3p6x4mgrnmwbx0va91hgz") (f (quote (("std" "no-std-net/std") ("default" "std"))))))
+

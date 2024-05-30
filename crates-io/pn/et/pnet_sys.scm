@@ -36,3 +36,5 @@
 
 (define-public crate-pnet_sys-0.34.0 (c (n "pnet_sys") (v "0.34.0") (d (list (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("winsock2" "ws2ipdef"))) (d #t) (t "cfg(windows)") (k 0)))) (h "004d28vbaxv3m55cd741mpjm34031c3p2dpp8kazcwxms7n0nz21")))
 
+(define-public crate-pnet_sys-0.35.0 (c (n "pnet_sys") (v "0.35.0") (d (list (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "winapi") (r "^0.3.9") (f (quote ("winsock2" "ws2ipdef"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0jqgl34w5jckvby74nh89hjc94m8m6pz7hjh21s0hsyvsk9l6ikx")))
+

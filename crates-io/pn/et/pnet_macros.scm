@@ -102,3 +102,5 @@
 
 (define-public crate-pnet_macros-0.34.0 (c (n "pnet_macros") (v "0.34.0") (d (list (d (n "pnet_macros_support") (r "^0.34.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.31") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.26") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.81") (d #t) (k 2)))) (h "010qhwkw597pzmiqmphnf8fl11pwlp5sa2nai90a017fkr4ig2v8") (f (quote (("travis") ("default"))))))
 
+(define-public crate-pnet_macros-0.35.0 (c (n "pnet_macros") (v "0.35.0") (d (list (d (n "pnet_macros_support") (r "^0.35.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.31") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "syn") (r "^2.0.26") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.81") (d #t) (k 2)))) (h "0qy8f65cybbidzl1dfqjc5hk7l951k9y7j0b1d40ma71dv45lchk") (f (quote (("travis") ("default"))))))
+

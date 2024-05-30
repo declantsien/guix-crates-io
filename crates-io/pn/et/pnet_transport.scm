@@ -32,3 +32,5 @@
 
 (define-public crate-pnet_transport-0.34.0 (c (n "pnet_transport") (v "0.34.0") (d (list (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "pnet_base") (r "^0.34.0") (k 0)) (d (n "pnet_packet") (r "^0.34.0") (d #t) (k 0)) (d (n "pnet_sys") (r "^0.34.0") (d #t) (k 0)))) (h "1hrccv8q29772n3lhcgbwra3wkvhr35zqfirfhpywx79gm6y2dr6") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
 
+(define-public crate-pnet_transport-0.35.0 (c (n "pnet_transport") (v "0.35.0") (d (list (d (n "libc") (r "^0.2.147") (d #t) (k 0)) (d (n "pnet_base") (r "^0.35.0") (k 0)) (d (n "pnet_packet") (r "^0.35.0") (d #t) (k 0)) (d (n "pnet_sys") (r "^0.35.0") (d #t) (k 0)))) (h "1gvn8ygqx5wpmk29ddhxpzbbv0nq7whd6n4vf77r2r9apjc4sq2z") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+

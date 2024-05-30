@@ -42,3 +42,5 @@
 
 (define-public crate-pnet_macros_support-0.34.0 (c (n "pnet_macros_support") (v "0.34.0") (d (list (d (n "pnet_base") (r "^0.34.0") (k 0)))) (h "0mhg0dzdxg6lkpx3z60c6nc39dkq9jz1n8hgmf77zlsb5yvjbagf")))
 
+(define-public crate-pnet_macros_support-0.35.0 (c (n "pnet_macros_support") (v "0.35.0") (d (list (d (n "pnet_base") (r "^0.35.0") (k 0)))) (h "1arl67djpslh9c99naf8cp32m63bqlgrn10303fhkmc54napmmpf")))
+

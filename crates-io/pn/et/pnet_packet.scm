@@ -32,3 +32,5 @@
 
 (define-public crate-pnet_packet-0.34.0 (c (n "pnet_packet") (v "0.34.0") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.34.0") (k 0)) (d (n "pnet_macros") (r "^0.34.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.34.0") (d #t) (k 0)))) (h "1flhxbwgw9348c955hc0mi6h7ma2qgdqiqm871xgxdwnaf10b859") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
 
+(define-public crate-pnet_packet-0.35.0 (c (n "pnet_packet") (v "0.35.0") (d (list (d (n "criterion") (r "^0.5.1") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pnet_base") (r "^0.35.0") (k 0)) (d (n "pnet_macros") (r "^0.35.0") (d #t) (k 0)) (d (n "pnet_macros_support") (r "^0.35.0") (d #t) (k 0)))) (h "03snjv5nl65vqxyvvf31hjgc701ssfkk1fin631gqddnzanyp5jc") (f (quote (("std" "pnet_base/std") ("default" "std"))))))
+
