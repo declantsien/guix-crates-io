@@ -22,3 +22,5 @@
 
 (define-public crate-unc-chunks-primitives-0.10.2 (c (n "unc-chunks-primitives") (v "0.10.2") (d (list (d (n "unc-chain-primitives") (r "^0.10.2") (d #t) (k 0)) (d (n "unc-primitives") (r "^0.10.2") (d #t) (k 0)))) (h "0badr31d58zk0kykhhlr7s0sb9mmc79yh2qs1aw7ckn24m3vqyxr")))
 
+(define-public crate-unc-chunks-primitives-0.12.2 (c (n "unc-chunks-primitives") (v "0.12.2") (d (list (d (n "unc-chain-primitives") (r "^0.12.2") (d #t) (k 0)) (d (n "unc-primitives") (r "^0.12.2") (d #t) (k 0)))) (h "149j9hb2ilw8dn7fxcjq3ddcw07g3zh2pzzp5kwmv0axav4bc4fg")))
+

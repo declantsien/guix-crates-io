@@ -22,3 +22,5 @@
 
 (define-public crate-unc-chain-primitives-0.10.2 (c (n "unc-chain-primitives") (v "0.10.2") (d (list (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (f (quote ("std"))) (d #t) (k 0)) (d (n "unc-crypto") (r "^0.10.2") (d #t) (k 0)) (d (n "unc-primitives") (r "^0.10.2") (d #t) (k 0)))) (h "02yg58idcyv0qz0xpdyhgd781dbrnjb7407aphv42a6d1pjvwgnr") (f (quote (("new_epoch_sync"))))))
 
+(define-public crate-unc-chain-primitives-0.12.2 (c (n "unc-chain-primitives") (v "0.12.2") (d (list (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (f (quote ("std"))) (d #t) (k 0)) (d (n "unc-crypto") (r "^0.12.2") (d #t) (k 0)) (d (n "unc-primitives") (r "^0.12.2") (d #t) (k 0)))) (h "0mm4xdyb6c9kcbh9hg20nxr350jkdbl4aywz4blxqdwsxk27ij9l") (f (quote (("new_epoch_sync"))))))
+
