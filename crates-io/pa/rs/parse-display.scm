@@ -40,3 +40,5 @@
 
 (define-public crate-parse-display-0.9.0 (c (n "parse-display") (v "0.9.0") (d (list (d (n "parse-display-derive") (r "=0.9.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (o #t) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.8.2") (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "1rfyaagvihz49npz04qbp1f8lcm86wp62ba6m2dvsizb6f9mzbq6") (f (quote (("std" "regex" "regex-syntax") ("docs") ("default" "std"))))))
 
+(define-public crate-parse-display-0.9.1 (c (n "parse-display") (v "0.9.1") (d (list (d (n "parse-display-derive") (r "=0.9.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "regex-syntax") (r "^0.8.3") (o #t) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "12jkqych9y44v1dqrhwjax4lylnqhsncd0hjj53293n9cli1qjli") (f (quote (("std" "regex" "regex-syntax") ("docs") ("default" "std")))) (r "1.70.0")))
+

@@ -40,3 +40,5 @@
 
 (define-public crate-parse-display-derive-0.9.0 (c (n "parse-display-derive") (v "0.9.0") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "regex-syntax") (r "^0.8.2") (d #t) (k 0)) (d (n "structmeta") (r "^0.3.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (f (quote ("visit"))) (d #t) (k 0)))) (h "145plw1810xzw0idcivpwjhmfvzs2ziw9p2sqxqfa3jhb7r554nw")))
 
+(define-public crate-parse-display-derive-0.9.1 (c (n "parse-display-derive") (v "0.9.1") (d (list (d (n "proc-macro2") (r "^1.0.84") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "regex-syntax") (r "^0.8.3") (d #t) (k 0)) (d (n "structmeta") (r "^0.3.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("visit"))) (d #t) (k 0)))) (h "10aj6h3hf2maf1zayg0p2m2ag9vriqrncwlivw9gsklp9h581rra") (r "1.70.0")))
+
