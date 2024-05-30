@@ -66,3 +66,5 @@
 
 (define-public crate-las-0.8.7 (c (n "las") (v "0.8.7") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "laz") (r "^0.9.1") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0yzcggiim2lvp8f8c9ggs5l19w9gxcfikxhvrkcbaidv7brrkqw9") (s 2) (e (quote (("laz-parallel" "dep:laz" "laz/parallel") ("laz" "dep:laz"))))))
 
+(define-public crate-las-0.8.8 (c (n "las") (v "0.8.8") (d (list (d (n "byteorder") (r "^1.4") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "laz") (r "^0.9.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "1msa0iaz5pb09vxwi2x9qyjhfmafciw6py7yxd26853nkk96j4mw") (s 2) (e (quote (("laz-parallel" "dep:laz" "laz/parallel") ("laz" "dep:laz"))))))
+

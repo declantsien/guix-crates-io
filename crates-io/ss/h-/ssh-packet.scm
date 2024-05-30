@@ -86,3 +86,5 @@
 
 (define-public crate-ssh-packet-0.4.4 (c (n "ssh-packet") (v "0.4.4") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "binrw") (r "^0.13.0") (d #t) (k 0)) (d (n "digest") (r "^0.10.7") (o #t) (k 0)) (d (n "futures") (r "^0.3.28") (f (quote ("std"))) (o #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "signature") (r "^2.2.0") (o #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1dl1g9wzqqijan6kn9qc7vp3bqld7vxn0ms7sd544822qqfvnyhd")))
 
+(define-public crate-ssh-packet-0.5.0 (c (n "ssh-packet") (v "0.5.0") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "binrw") (r "^0.13.0") (d #t) (k 0)) (d (n "digest") (r "^0.10.7") (o #t) (k 0)) (d (n "futures") (r "^0.3.28") (f (quote ("std"))) (o #t) (k 0)) (d (n "rstest") (r "^0.20.0") (d #t) (k 2)) (d (n "signature") (r "^2.2.0") (o #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1qh76iqq3gbss2i902inmjzibiisidfaq8nfsc4nwbxzfgib2vr3")))
+

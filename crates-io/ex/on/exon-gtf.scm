@@ -92,3 +92,5 @@
 
 (define-public crate-exon-gtf-0.23.0 (c (n "exon-gtf") (v "0.23.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.23.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("gtf"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1w707wrz7r05c6gzc4rkf0zli5qvraqlhqdwy275rsb29wiq9lj2")))
 
+(define-public crate-exon-gtf-0.24.0 (c (n "exon-gtf") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "noodles") (r "^0.73") (f (quote ("gtf"))) (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "01viyrdc7dzvihpa6lm6lswq6k181rnikyp295v5qg1im39vw8bg")))
+

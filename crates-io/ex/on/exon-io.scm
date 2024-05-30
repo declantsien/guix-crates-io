@@ -116,3 +116,5 @@
 
 (define-public crate-exon-io-0.23.0 (c (n "exon-io") (v "0.23.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "aws-config") (r "^1.5.0") (d #t) (k 0)) (d (n "aws-credential-types") (r "^1.2.0") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (f (quote ("aws"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "03ydnjg1jnnxd62ay9a8gg8sy3lv8pd4lcayczfi8gdjkmxby8rm")))
 
+(define-public crate-exon-io-0.24.0 (c (n "exon-io") (v "0.24.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "aws-config") (r "^1.5.0") (d #t) (k 0)) (d (n "aws-credential-types") (r "^1.2.0") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (f (quote ("aws"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1i4q6zii0ayibrxi8cf6pv77sd0wv0vzjqgpcs195vvkx6mxxa6l")))
+

@@ -76,3 +76,5 @@
 
 (define-public crate-exon-genbank-0.23.0 (c (n "exon-genbank") (v "0.23.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.23.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gb-io") (r "^0.7.1") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "12bf2jzgijmwc4fkpgia24iky98khy9ndq6cxzz95fik210nbaxk")))
 
+(define-public crate-exon-genbank-0.24.0 (c (n "exon-genbank") (v "0.24.0") (d (list (d (n "arrow") (r "^51.0.0") (d #t) (k 0)) (d (n "exon-common") (r "^0.24.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "gb-io") (r "^0.7.1") (d #t) (k 0)) (d (n "object_store") (r "^0.9") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (d #t) (k 0)))) (h "1280hz9rgq4vmb9irisbv4i16imil944asxdcg1k66k8hq77yjcc")))
+
