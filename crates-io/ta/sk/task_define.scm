@@ -10,3 +10,5 @@
 
 (define-public crate-task_define-0.1.5 (c (n "task_define") (v "0.1.5") (h "1rbrslr4c6wr05ydir8vs15svn237r778va3sv53mhmcjfkmkayc") (r "1.79")))
 
+(define-public crate-task_define-0.1.6 (c (n "task_define") (v "0.1.6") (h "12dmw8fkg5wg2ma6xlhxy7xal7rsz7h6cg9pkbga5ckpa869gb3v") (r "1.80")))
+
