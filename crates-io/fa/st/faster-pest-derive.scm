@@ -8,3 +8,5 @@
 
 (define-public crate-faster-pest-derive-0.1.3 (c (n "faster-pest-derive") (v "0.1.3") (d (list (d (n "pest_meta") (r "^2.7") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "1kica5ynbmy9kw7dgpwdz57bizs65w32n2sn3kx4imi9ihip35nj")))
 
+(define-public crate-faster-pest-derive-0.2.0-alpha.1 (c (n "faster-pest-derive") (v "0.2.0-alpha.1") (d (list (d (n "faster-pest-generator") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "132pb9g0fk7dinyp0rv3mvznfb58p27y6qvkiirrmg9srisdrd3m")))
+

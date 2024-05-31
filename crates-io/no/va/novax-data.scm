@@ -62,3 +62,5 @@
 
 (define-public crate-novax-data-0.1.6 (c (n "novax-data") (v "0.1.6") (d (list (d (n "base64") (r "^0.21.3") (d #t) (k 0)) (d (n "multiversx-sc") (r "=0.48.1") (d #t) (k 0)) (d (n "multiversx-sc-codec") (r "=0.18.7") (d #t) (k 0)) (d (n "multiversx-sc-scenario") (r "=0.48.1") (d #t) (k 0)) (d (n "multiversx-sdk") (r "=0.3.2") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (d #t) (k 0)))) (h "1qjbw17j8yxbkivggqsmxn179xzgk4a7b270wy9ywmjmbb66qz48")))
 
+(define-public crate-novax-data-0.1.7-beta.0 (c (n "novax-data") (v "0.1.7-beta.0") (d (list (d (n "base64") (r "^0.21.3") (d #t) (k 0)) (d (n "multiversx-sc") (r "^0.50.3") (d #t) (k 0)) (d (n "multiversx-sc-codec") (r "^0.19.0") (d #t) (k 0)) (d (n "multiversx-sc-scenario") (r "^0.50.3") (d #t) (k 0)) (d (n "multiversx-sdk") (r "^0.4.1") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (d #t) (k 0)))) (h "196l9xhn2gmmdlz7c68n5f4cyxwmgjzxav1v6can36sj36i5vbqh")))
+

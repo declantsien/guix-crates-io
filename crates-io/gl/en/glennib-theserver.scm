@@ -10,3 +10,5 @@
 
 (define-public crate-glennib-theserver-0.1.4 (c (n "glennib-theserver") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thelib") (r "^0.1.3") (d #t) (k 0) (p "glennib-thelib")) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1555qwjk2ayask3brp5jiwyg1i34by6i64yss23djnpkn6yz252r")))
 
+(define-public crate-glennib-theserver-0.1.5 (c (n "glennib-theserver") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thelib") (r "^0.1.3") (d #t) (k 0) (p "glennib-thelib")) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "0w3r7v7rchxks8c1gbnmn4yz8b98ybgd5sqks70kwvvw5h3c789d")))
+

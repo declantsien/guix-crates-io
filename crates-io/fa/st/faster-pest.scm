@@ -10,3 +10,5 @@
 
 (define-public crate-faster-pest-0.1.4 (c (n "faster-pest") (v "0.1.4") (d (list (d (n "faster-pest-derive") (r "^0.1.3") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "11g04dkh00r3pnf7giknpxy35g20vgbl9vf9v2fv8hkq0k7pgrkh")))
 
+(define-public crate-faster-pest-0.2.0-alpha.1 (c (n "faster-pest") (v "0.2.0-alpha.1") (d (list (d (n "faster-pest-derive") (r "^0.2.0-alpha.1") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1avwfk9r9w8fmgp1dp7m11v1ibkmili9diqmilxp9w5mw2z48apk")))
+

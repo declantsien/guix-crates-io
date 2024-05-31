@@ -62,3 +62,5 @@
 
 (define-public crate-novax-abi-build-0.1.6 (c (n "novax-abi-build") (v "0.1.6") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.63") (d #t) (k 0)) (d (n "quote") (r "^1.0.29") (d #t) (k 0)) (d (n "regex") (r "^1.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)))) (h "0b0b89f9w5hk2gkxwv3yb5pfwy3w554izph4s9klhfzkgkci4y63") (f (quote (("no-fmt-output"))))))
 
+(define-public crate-novax-abi-build-0.1.7-beta.0 (c (n "novax-abi-build") (v "0.1.7-beta.0") (d (list (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "prettyplease") (r "^0.2.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.63") (d #t) (k 0)) (d (n "quote") (r "^1.0.29") (d #t) (k 0)) (d (n "regex") (r "^1.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.100") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)))) (h "09sdafk2kq63604kkj26jfsl252sz013w5i80f63hg0qk5jxrpsj") (f (quote (("no-fmt-output"))))))
+
