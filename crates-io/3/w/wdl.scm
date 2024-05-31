@@ -6,3 +6,5 @@
 
 (define-public crate-wdl-0.2.0 (c (n "wdl") (v "0.2.0") (d (list (d (n "wdl-ast") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "wdl-core") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "wdl-grammar") (r "^0.2.0") (o #t) (d #t) (k 0)))) (h "1rfaggl7cv0ynkvnn1pg8cyy8dl5r0p5z83l7lj5fva2vwbmymws") (f (quote (("default")))) (s 2) (e (quote (("grammar" "dep:wdl-grammar") ("core" "dep:wdl-core") ("ast" "dep:wdl-ast"))))))
 
+(define-public crate-wdl-0.3.0 (c (n "wdl") (v "0.3.0") (d (list (d (n "wdl-ast") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "wdl-core") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "wdl-grammar") (r "^0.3.0") (o #t) (d #t) (k 0)))) (h "0a5hbi38h9qbfbp90cfiyc5bwdvdyxzc0ggra1w5qx7ln4k77bsv") (f (quote (("default")))) (s 2) (e (quote (("grammar" "dep:wdl-grammar") ("core" "dep:wdl-core") ("ast" "dep:wdl-ast"))))))
+
