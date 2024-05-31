@@ -64,3 +64,5 @@
 
 (define-public crate-mod_interface-0.20.0 (c (n "mod_interface") (v "0.20.0") (d (list (d (n "mod_interface_meta") (r "~0.20.0") (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)))) (h "1ka77z534ghrqrf6x8gqcsz1d74ixn6fh8w69ivbzsn4rsaq8fbf") (f (quote (("use_alloc" "no_std") ("no_std") ("full" "enabled") ("enabled" "mod_interface_meta/enabled") ("default" "enabled"))))))
 
+(define-public crate-mod_interface-0.21.0 (c (n "mod_interface") (v "0.21.0") (d (list (d (n "mod_interface_meta") (r "~0.21.0") (k 0)) (d (n "test_tools") (r "~0.9.0") (d #t) (k 2)))) (h "1hib5wy3dqv3z5l5c8s8hyax27mkzrrymgjkqk266yfqkrpsqvh2") (f (quote (("use_alloc" "no_std") ("no_std") ("full" "enabled") ("enabled" "mod_interface_meta/enabled") ("default" "enabled"))))))
+

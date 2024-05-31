@@ -4,3 +4,5 @@
 
 (define-public crate-compact_bytes-0.1.1 (c (n "compact_bytes") (v "0.1.1") (d (list (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "static_assertions") (r "^1") (d #t) (k 0)) (d (n "test-case") (r "^3") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3") (d #t) (k 2)))) (h "06d09ij3vxhi7d2br056yhyl95k3wljj7ydf9fmpjwbp591a0wfy")))
 
+(define-public crate-compact_bytes-0.1.2 (c (n "compact_bytes") (v "0.1.2") (d (list (d (n "proptest") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "static_assertions") (r "^1") (d #t) (k 0)) (d (n "test-case") (r "^3") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3") (d #t) (k 2)))) (h "0r7p796g17fsa7z9alvs5fzbzmfrmqmhm50gcj87d9xrallyqhki")))
+
