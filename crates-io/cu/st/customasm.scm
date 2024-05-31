@@ -48,3 +48,5 @@
 
 (define-public crate-customasm-0.13.5 (c (n "customasm") (v "0.13.5") (d (list (d (n "getopts") (r "^0.2.17") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 2)) (d (n "vergen") (r "^3.1.0") (d #t) (k 1)))) (h "15n2m0a39wb69vi3ygihd8f4h2qkvr2mkjaav9v6y8lv6yljzw92")))
 
+(define-public crate-customasm-0.13.6 (c (n "customasm") (v "0.13.6") (d (list (d (n "getopts") (r "^0.2.17") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "sha2") (r "^0.9.1") (d #t) (k 2)) (d (n "vergen") (r "^3.1.0") (d #t) (k 1)))) (h "1m45ay1abmkn26icmbm3q1bg0x514s57k2aap4rla9vsnx45d0p9")))
+
