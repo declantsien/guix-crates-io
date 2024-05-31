@@ -2,3 +2,5 @@
 
 (define-public crate-chia-sdk-signer-0.8.0 (c (n "chia-sdk-signer") (v "0.8.0") (d (list (d (n "chia-bls") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-protocol") (r "^0.8.0") (d #t) (k 0)) (d (n "chia-puzzles") (r "^0.8.0") (d #t) (k 2)) (d (n "chia-sdk-types") (r "^0.8.0") (d #t) (k 0)) (d (n "clvm-traits") (r "^0.8.0") (d #t) (k 0)) (d (n "clvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "080rdldlcyrhcgqc973z4mfvwj5wjl5bwgnpjlcy7nz2ab0lvj6a")))
 
+(define-public crate-chia-sdk-signer-0.9.0 (c (n "chia-sdk-signer") (v "0.9.0") (d (list (d (n "chia-bls") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-protocol") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-puzzles") (r "^0.9.0") (d #t) (k 2)) (d (n "chia-sdk-types") (r "^0.9.0") (d #t) (k 0)) (d (n "clvm-traits") (r "^0.9.0") (d #t) (k 0)) (d (n "clvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0ckkj8sc4sf6hmmvgvqh1bgjd7ma2dlb70014niqvpcp4rd5yfqc")))
+

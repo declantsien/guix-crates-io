@@ -32,3 +32,5 @@
 
 (define-public crate-zng-view-prebuilt-0.6.1 (c (n "zng-view-prebuilt") (v "0.6.1") (d (list (d (n "base64") (r "^0.22") (d #t) (k 1)) (d (n "hashers") (r "^1.0") (d #t) (k 1)) (d (n "home") (r "^0.5") (d #t) (k 1)) (d (n "libloading") (r "^0.8") (d #t) (k 0)))) (h "1g4ghp1macm8p02wii3kljfinm1lkrb2dmaamiidq25bgmmh06av") (f (quote (("embedded") ("default" "embedded"))))))
 
+(define-public crate-zng-view-prebuilt-0.6.2 (c (n "zng-view-prebuilt") (v "0.6.2") (d (list (d (n "base64") (r "^0.22") (d #t) (k 1)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 1)) (d (n "hashers") (r "^1.0") (d #t) (k 1)) (d (n "home") (r "^0.5") (d #t) (k 1)) (d (n "libloading") (r "^0.8") (d #t) (k 0)))) (h "01x1x6sb6k2wsafjmbpwh5y9pfrqhlrh0kycmkny2a0rcz4ds4h8") (f (quote (("embedded") ("default" "embedded"))))))
+

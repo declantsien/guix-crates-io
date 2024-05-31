@@ -1,0 +1,4 @@
+(define-module (crates-io ch ia chia-sdk-offers) #:use-module (crates-io))
+
+(define-public crate-chia-sdk-offers-0.9.0 (c (n "chia-sdk-offers") (v "0.9.0") (d (list (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "chia-bls") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-protocol") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-puzzles") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-sdk-driver") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-sdk-types") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-traits") (r "^0.9.0") (d #t) (k 0)) (d (n "clvm-traits") (r "^0.9.0") (d #t) (k 0)) (d (n "clvm-utils") (r "^0.9.0") (d #t) (k 0)) (d (n "clvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0.30") (f (quote ("zlib"))) (d #t) (k 0)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "029jngyfjrrgnzfha7jkc0x4w6b7y8vvpn7mcmy71y536ps7isd4")))
+
