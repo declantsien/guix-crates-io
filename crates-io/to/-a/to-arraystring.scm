@@ -8,3 +8,5 @@
 
 (define-public crate-to-arraystring-0.1.3 (c (n "to-arraystring") (v "0.1.3") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "itoa") (r "^1.0.10") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "ryu") (r "^1.0.17") (d #t) (k 0)))) (h "1d300yb6p0l31y3yh14dv2g47czha4f919ccfqj5q2yb5cj4c2rl") (r "1.56")))
 
+(define-public crate-to-arraystring-0.2.0 (c (n "to-arraystring") (v "0.2.0") (d (list (d (n "arrayvec") (r "^0.7") (k 0)) (d (n "itoa") (r "^1.0.10") (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 2)) (d (n "ryu") (r "^1.0.17") (d #t) (k 0)))) (h "07gp9vqb39rnd2myb1vzxx3rrb21jhasbncd4pr2bx2k0dbcpw35") (r "1.56")))
+
