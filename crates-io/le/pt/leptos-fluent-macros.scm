@@ -52,3 +52,5 @@
 
 (define-public crate-leptos-fluent-macros-0.0.26 (c (n "leptos-fluent-macros") (v "0.0.26") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0myj7sh0wnwp1vrq7q2sr72wf924x6373j35pxxzj5fzg7krk2ja") (f (quote (("ssr") ("hydrate") ("axum") ("actix"))))))
 
+(define-public crate-leptos-fluent-macros-0.0.27 (c (n "leptos-fluent-macros") (v "0.0.27") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r ">=0.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0mzjkjlmcb72xxjns5pvhfkykypg014d7r5zb9pm002r71dy37bx") (f (quote (("ssr") ("hydrate") ("axum") ("actix")))) (s 2) (e (quote (("yaml" "dep:serde_yaml") ("json" "dep:serde_json"))))))
+

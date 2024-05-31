@@ -6,3 +6,5 @@
 
 (define-public crate-embd-0.1.2 (c (n "embd") (v "0.1.2") (d (list (d (n "embd-macros") (r "^0.1") (d #t) (k 0)))) (h "1jwgxqvw1ranfa1nhxw9508jdvfaz8vg43hyg6prwqk9p84dy3r5")))
 
+(define-public crate-embd-0.1.4 (c (n "embd") (v "0.1.4") (d (list (d (n "embd-macros") (r "^0.1") (d #t) (k 0)))) (h "05dlbwfpn5kxp0q445gi7garflpvlcaa13j6j4wmbv35v8wjb0zj")))
+
