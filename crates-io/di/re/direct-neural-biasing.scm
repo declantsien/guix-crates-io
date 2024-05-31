@@ -18,3 +18,5 @@
 
 (define-public crate-direct-neural-biasing-0.7.0 (c (n "direct-neural-biasing") (v "0.7.0") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.5.1") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "1x2kfyddl90xhl7x9kf08slpm4gzsn98aq3rlh7fxdz3b1gmxbr8")))
 
+(define-public crate-direct-neural-biasing-0.7.3 (c (n "direct-neural-biasing") (v "0.7.3") (d (list (d (n "colored") (r "^2.0.4") (d #t) (k 0)) (d (n "csv") (r "^1.1") (d #t) (k 0)) (d (n "maturin") (r "^1.5.1") (d #t) (k 1)) (d (n "pyo3") (r "^0.21.2") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (d #t) (k 0)) (d (n "rayon") (r "^1.5.1") (d #t) (k 0)))) (h "0cjavil8i69mszvik3xrh35524ximcmqp7mcbxdlpj9lyhg0jmn7")))
+
