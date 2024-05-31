@@ -8,3 +8,5 @@
 
 (define-public crate-vpnkitrc-0.1.3 (c (n "vpnkitrc") (v "0.1.3") (d (list (d (n "ntex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "16jbvdh3j3yjqri3bw80jb5y8hz43rl07fgpp3g85axy81w0magp") (f (quote (("tokio" "ntex/tokio") ("glommio" "ntex/glommio") ("default" "tokio") ("async-std" "ntex/async-std"))))))
 
+(define-public crate-vpnkitrc-0.1.4 (c (n "vpnkitrc") (v "0.1.4") (d (list (d (n "ntex") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "12zvm363b0jsld80m4ajd7mzzm4dqdqhmw41pm5cb5v5ra7yn4yb") (f (quote (("tokio" "ntex/tokio") ("glommio" "ntex/glommio") ("default" "tokio") ("async-std" "ntex/async-std"))))))
+

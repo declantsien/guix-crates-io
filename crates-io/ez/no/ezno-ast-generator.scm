@@ -24,3 +24,5 @@
 
 (define-public crate-ezno-ast-generator-0.0.12 (c (n "ezno-ast-generator") (v "0.0.12") (d (list (d (n "ezno-parser") (r "^0.1.4") (f (quote ("self-rust-tokenize"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "self-rust-tokenize") (r "^0.3.3") (d #t) (k 0)))) (h "1664cnaahmcblyby5gj3pq5h2q4m2s00vkgf38pschggmf7macqn")))
 
+(define-public crate-ezno-ast-generator-0.0.13 (c (n "ezno-ast-generator") (v "0.0.13") (d (list (d (n "ezno-parser") (r "^0.1.5") (f (quote ("self-rust-tokenize"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "self-rust-tokenize") (r "^0.3.3") (d #t) (k 0)))) (h "1lkbjw89as3xn1cp7dvi8z8nxrf76i2hy552547dp4nbz9h3rhpq")))
+

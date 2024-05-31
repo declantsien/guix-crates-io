@@ -12,3 +12,5 @@
 
 (define-public crate-ezno-parser-visitable-derive-0.0.6 (c (n "ezno-parser-visitable-derive") (v "0.0.6") (d (list (d (n "string-cases") (r "^0.2") (d #t) (k 0)) (d (n "syn-helpers") (r "^0.5") (d #t) (k 0)))) (h "0l69imr29ykicdwddlpqnmkq6469rzw9fhhzag541l258xq3ay0d")))
 
+(define-public crate-ezno-parser-visitable-derive-0.0.7 (c (n "ezno-parser-visitable-derive") (v "0.0.7") (d (list (d (n "string-cases") (r "^0.2") (d #t) (k 0)) (d (n "syn-helpers") (r "^0.5") (d #t) (k 0)))) (h "1525a6irhly3qhl0xyq28s301p9147c9mn1pmcg2f6mag8lb464n")))
+
