@@ -10,3 +10,5 @@
 
 (define-public crate-glyphrs-0.1.7 (c (n "glyphrs") (v "0.1.7") (d (list (d (n "clap") (r "^4.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "0aj43bzvk2iwnpmsn5xvg2gi2vpw333chy00ij341m7cmgw59nci")))
 
+(define-public crate-glyphrs-0.1.8 (c (n "glyphrs") (v "0.1.8") (d (list (d (n "clap") (r "^4.5.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "05drws9hyb2a72mz1dvg9zbilaijiqrrl40i274n78gbb3xjm2k3")))
+

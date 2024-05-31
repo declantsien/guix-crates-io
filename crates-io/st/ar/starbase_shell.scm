@@ -10,3 +10,5 @@
 
 (define-public crate-starbase_shell-0.2.1 (c (n "starbase_shell") (v "0.2.1") (d (list (d (n "miette") (r "^7.2.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (k 0)) (d (n "sysinfo") (r "^0.30.12") (t "cfg(windows)") (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1ly74g3yzxp3y0rkbsh8dkagx6zllq10rjyf0h5r2mgk6d8ym5lb") (f (quote (("default")))) (s 2) (e (quote (("miette" "dep:miette"))))))
 
+(define-public crate-starbase_shell-0.2.2 (c (n "starbase_shell") (v "0.2.2") (d (list (d (n "miette") (r "^7.2.0") (o #t) (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (k 0)) (d (n "sysinfo") (r "^0.30.12") (t "cfg(windows)") (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "1v7ikxg4hxjrapj110zp6kpkfiyh64bfaccgk9nrfgyy7aawwhv5") (f (quote (("default")))) (s 2) (e (quote (("miette" "dep:miette"))))))
+

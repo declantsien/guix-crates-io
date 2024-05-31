@@ -6,3 +6,5 @@
 
 (define-public crate-raxb-xmlschema-0.3.0 (c (n "raxb-xmlschema") (v "0.3.0") (h "00qfkdqgx2n1cgf272sqsmhcm0kr20asar55s4jbgkka3564r5ia") (r "1.78.0")))
 
+(define-public crate-raxb-xmlschema-0.3.1 (c (n "raxb-xmlschema") (v "0.3.1") (h "1n5jlljqn06c6mfa4q1k26d8dlvxsxk39whmzvl0wzakscls31i2") (r "1.78.0")))
+

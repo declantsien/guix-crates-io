@@ -6,3 +6,5 @@
 
 (define-public crate-raxb-validate-0.3.0 (c (n "raxb-validate") (v "0.3.0") (h "02zpfk5622jwqw60ai5wpq7sxymsykjqirj6clj7szkis0dfkmpf") (r "1.78.0")))
 
+(define-public crate-raxb-validate-0.3.1 (c (n "raxb-validate") (v "0.3.1") (h "0hmwcx8vnsgbxbz0mlf87ik885sc744ppqszqdd6dh735q4dplhr") (r "1.78.0")))
+
