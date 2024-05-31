@@ -84,3 +84,5 @@
 
 (define-public crate-tendermint-testgen-0.36.0 (c (n "tendermint-testgen") (v "0.36.0") (d (list (d (n "ed25519-consensus") (r "^2") (k 0)) (d (n "gumdrop") (r "^0.8.0") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "simple-error") (r "^0.3.0") (k 0)) (d (n "tempfile") (r "^3.1.0") (k 0)) (d (n "tendermint") (r "^0.36.0") (f (quote ("clock"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("std"))) (k 0) (p "time")))) (h "1h03n74pn440a0jz1v7wd3a18si0p5n8dbs6qg617i2n7k4cwcxj")))
 
+(define-public crate-tendermint-testgen-0.37.0 (c (n "tendermint-testgen") (v "0.37.0") (d (list (d (n "ed25519-consensus") (r "^2") (k 0)) (d (n "gumdrop") (r "^0.8.0") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (k 0)) (d (n "serde_json") (r "^1") (f (quote ("std"))) (k 0)) (d (n "simple-error") (r "^0.3.0") (k 0)) (d (n "tempfile") (r "^3.1.0") (k 0)) (d (n "tendermint") (r "^0.37.0") (f (quote ("clock"))) (d #t) (k 0)) (d (n "time") (r "^0.3") (f (quote ("std"))) (k 0) (p "time")))) (h "0d19jy1ldvn30k49yl9x2ydsm22053a4d16pg106pcxpncw0x2ii")))
+

@@ -94,3 +94,5 @@
 
 (define-public crate-soroban-spec-21.0.1-preview.3 (c (n "soroban-spec") (v "21.0.1-preview.3") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.2.1") (d #t) (k 2)) (d (n "stellar-xdr") (r "=21.0.1") (f (quote ("curr" "curr" "std" "serde"))) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "wasmparser") (r "^0.116.1") (d #t) (k 0)))) (h "0crd5a3ndkw37g7rr21dkxl2vsc8fxmhi8mw749r4hjl3gkiw5ca") (r "1.74.0")))
 
+(define-public crate-soroban-spec-21.1.0-rc.1 (c (n "soroban-spec") (v "21.1.0-rc.1") (d (list (d (n "base64") (r "^0.13.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.2.1") (d #t) (k 2)) (d (n "stellar-xdr") (r "=21.1.0") (f (quote ("curr" "curr" "std" "serde"))) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "wasmparser") (r "^0.116.1") (d #t) (k 0)))) (h "06n1cj38ygzb539l3aaxq37vqncmf6lhb6ryqyqfq634hj3wbskf") (r "1.74.0")))
+

@@ -60,3 +60,5 @@
 
 (define-public crate-soroban-token-sdk-21.0.1-preview.3 (c (n "soroban-token-sdk") (v "21.0.1-preview.3") (d (list (d (n "soroban-sdk") (r "^21.0.1-preview.3") (d #t) (k 0)))) (h "0zh5wm2gm2p73gbi8mklfhhl8v7kws9rbni50b5mhl6hi5m14zqn") (r "1.74.0")))
 
+(define-public crate-soroban-token-sdk-21.1.0-rc.1 (c (n "soroban-token-sdk") (v "21.1.0-rc.1") (d (list (d (n "soroban-sdk") (r "^21.1.0-rc.1") (d #t) (k 0)))) (h "16qsmmxsig6zpkq8844d0l0s4hd0pgs3agvianbj40f2l8859kk1") (r "1.74.0")))
+
