@@ -10,3 +10,5 @@
 
 (define-public crate-armour-derive-0.8.0 (c (n "armour-derive") (v "0.8.0") (d (list (d (n "darling") (r "^0.20") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "06j6ik97vfnl4hjk23lv2m2drv05fmk4qzz6ipxbm2bkfvy9px5j")))
 
+(define-public crate-armour-derive-0.8.1 (c (n "armour-derive") (v "0.8.1") (d (list (d (n "darling") (r "^0.20") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1d5bhfbwxl1zgcwd2zihkqc2lf0z8malanvsrvd7kf0l43ra4jwh")))
+
