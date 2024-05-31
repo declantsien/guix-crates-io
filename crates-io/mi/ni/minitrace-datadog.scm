@@ -24,3 +24,5 @@
 
 (define-public crate-minitrace-datadog-0.6.5 (c (n "minitrace-datadog") (v "0.6.5") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minitrace") (r "^0.6.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "117l1qk07vk6qlzwwp1wxr3hy67abnzngnqw9x23sdhrasbzs202")))
 
+(define-public crate-minitrace-datadog-0.6.6 (c (n "minitrace-datadog") (v "0.6.6") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minitrace") (r "^0.6.6") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "rmp-serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)))) (h "10fsclvazjcfikcargm491wh618zfvypdykgb642z4xpc1y05syi")))
+

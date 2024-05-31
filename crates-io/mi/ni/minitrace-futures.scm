@@ -4,3 +4,5 @@
 
 (define-public crate-minitrace-futures-0.6.5 (c (n "minitrace-futures") (v "0.6.5") (d (list (d (n "async-stream") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "minitrace") (r "^0.6.5") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "macros"))) (d #t) (k 2)))) (h "0b4cpwik83jr3lig2l49jaix03v4h0fk8h04iaqcpfhmpf1xybgq")))
 
+(define-public crate-minitrace-futures-0.6.6 (c (n "minitrace-futures") (v "0.6.6") (d (list (d (n "async-stream") (r "^0.3.5") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "minitrace") (r "^0.6.6") (d #t) (k 0)) (d (n "pin-project-lite") (r "^0.2.13") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "time" "macros"))) (d #t) (k 2)))) (h "16z114075k2amm79684v404lhx4n2ca7f540harnyq9a2phpfmgw")))
+

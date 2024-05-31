@@ -16,3 +16,5 @@
 
 (define-public crate-postgresql_commands-0.9.3 (c (n "postgresql_commands") (v "0.9.3") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "test-log") (r "^0.2.16") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)))) (h "192i2vwfp1mhjig0gplyhl1h3h1h790dms34qk91177lm94xfz7d") (f (quote (("default")))) (s 2) (e (quote (("tokio" "dep:tokio"))))))
 
+(define-public crate-postgresql_commands-0.9.4 (c (n "postgresql_commands") (v "0.9.4") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "test-log") (r "^0.2.16") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (f (quote ("log"))) (d #t) (k 0)))) (h "1w456ga9cjby7vdp22ffdl8z8hkx2fa8bhgiarzpdga3zi3sxjgi") (f (quote (("default")))) (s 2) (e (quote (("tokio" "dep:tokio"))))))
+

@@ -24,3 +24,5 @@
 
 (define-public crate-minitrace-jaeger-0.6.5 (c (n "minitrace-jaeger") (v "0.6.5") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minitrace") (r "^0.6.5") (d #t) (k 0)) (d (n "thrift_codec") (r "^0.2") (d #t) (k 0)))) (h "0lq1iyaz6q82wzd8qls2j54afx1v33agd58bs6gh3j4jkaam74ri")))
 
+(define-public crate-minitrace-jaeger-0.6.6 (c (n "minitrace-jaeger") (v "0.6.6") (d (list (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "minitrace") (r "^0.6.6") (d #t) (k 0)) (d (n "thrift_codec") (r "^0.2") (d #t) (k 0)))) (h "0bvg6xlqvpdkmhjqryc0ifcgdflm3335lfglic5z8784hcs6fmzf")))
+

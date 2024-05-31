@@ -6,3 +6,7 @@
 
 (define-public crate-rustic-jsonrpc-0.1.2 (c (n "rustic-jsonrpc") (v "0.1.2") (d (list (d (n "rustic-jsonrpc-macro") (r "=0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (f (quote ("raw_value"))) (d #t) (k 0)))) (h "1i3chv62zd6lg7h9598hwfs1szihzqddp7kx77kidj56jqfv5h5g")))
 
+(define-public crate-rustic-jsonrpc-0.1.3 (c (n "rustic-jsonrpc") (v "0.1.3") (d (list (d (n "rustic-jsonrpc-macro") (r "=0.1.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (f (quote ("raw_value"))) (d #t) (k 0)))) (h "0ycw3i129zwrkf194ib5s9glgn8y7cqibx85fbbzh87cddljhblk") (y #t)))
+
+(define-public crate-rustic-jsonrpc-0.1.4 (c (n "rustic-jsonrpc") (v "0.1.4") (d (list (d (n "rustic-jsonrpc-macro") (r "=0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (f (quote ("raw_value"))) (d #t) (k 0)))) (h "1x69fx20zqs089d6z3md9whpff05crr3qf4whhs72mgwivh1vx4i")))
+
