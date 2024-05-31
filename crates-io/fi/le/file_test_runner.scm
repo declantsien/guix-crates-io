@@ -20,3 +20,5 @@
 
 (define-public crate-file_test_runner-0.7.1 (c (n "file_test_runner") (v "0.7.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0bqfsgw166q2y4sqgkcczqwwadzcpyjj5i6b9jhy1y7y5z6b7bik")))
 
+(define-public crate-file_test_runner-0.7.2 (c (n "file_test_runner") (v "0.7.2") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "crossbeam-channel") (r "^0.5.12") (d #t) (k 0)) (d (n "deno_terminal") (r "^0.1.1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0aj6wv5adyq7zpl375w5by95qww5lrnwxnlzyp3725v73g63vch5")))
+
