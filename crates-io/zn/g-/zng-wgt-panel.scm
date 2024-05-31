@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-panel-0.3.3 (c (n "zng-wgt-panel") (v "0.3.3") (d (list (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-wrap") (r "^0.3.3") (d #t) (k 0)))) (h "16ns04py9rrgpyirm9344nq2s8qi1h35snnpdy6rrhp3nwl1ibss")))
 
+(define-public crate-zng-wgt-panel-0.3.4 (c (n "zng-wgt-panel") (v "0.3.4") (d (list (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-wrap") (r "^0.3.4") (d #t) (k 0)))) (h "1vkf3vx9w2y22d3axykgfvva91lp66880kz344rgy9xd0fdhp9la")))
+

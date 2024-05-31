@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-rule-line-0.3.3 (c (n "zng-wgt-rule-line") (v "0.3.3") (d (list (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-access") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.3") (d #t) (k 0)))) (h "0g39v694wn8fa7f28zxdmi51h9css1nlsf9b2i3knkdkqmp3rdsa")))
 
+(define-public crate-zng-wgt-rule-line-0.3.4 (c (n "zng-wgt-rule-line") (v "0.3.4") (d (list (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-access") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.4") (d #t) (k 0)))) (h "0i0rq39fzfs8nm34bdxbdlbjsg1bf5wmabjinawhq1b1cr1qw9as")))
+
