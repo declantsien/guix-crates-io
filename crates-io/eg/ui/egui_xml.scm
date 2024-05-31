@@ -6,3 +6,5 @@
 
 (define-public crate-egui_xml-0.1.2 (c (n "egui_xml") (v "0.1.2") (d (list (d (n "eframe") (r "^0.27") (d #t) (k 2)) (d (n "egui") (r "^0.27") (d #t) (k 2)) (d (n "egui_extras") (r "^0.27") (d #t) (k 0)) (d (n "egui_xml_macros") (r "^0.1.1") (d #t) (k 0)))) (h "0fw172z73hg1nwqb7jaic4pk835v1m90r6ypphfaj0h5p5zqdgm0")))
 
+(define-public crate-egui_xml-0.1.3 (c (n "egui_xml") (v "0.1.3") (d (list (d (n "eframe") (r "^0.27") (d #t) (k 2)) (d (n "egui") (r "^0.27") (d #t) (k 2)) (d (n "egui_extras") (r "^0.27") (d #t) (k 0)) (d (n "egui_xml_macros") (r "^0.1.2") (d #t) (k 0)))) (h "0wns417lpmdqz3ylmdycync7ap5xbgfwnriyygirf1kmkk311s1w")))
+

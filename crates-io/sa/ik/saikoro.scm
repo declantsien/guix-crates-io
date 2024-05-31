@@ -12,3 +12,5 @@
 
 (define-public crate-saikoro-1.2.2 (c (n "saikoro") (v "1.2.2") (d (list (d (n "lazy-regex") (r "^3.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)))) (h "1ynsvm6xcf472pykxgvljms9y87rsafg10n476z1zly0g1bs3cg8") (f (quote (("stats") ("full" "stats"))))))
 
+(define-public crate-saikoro-1.2.4 (c (n "saikoro") (v "1.2.4") (d (list (d (n "lazy-regex") (r "^3.1.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.9.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.51") (d #t) (k 0)))) (h "0lw8vzxgi4jm2ad89x5p9vgyr5dg55030qa0lsgxs92kq5xb9c5c") (f (quote (("stats") ("full" "stats"))))))
+
