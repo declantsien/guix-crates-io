@@ -24,3 +24,5 @@
 
 (define-public crate-reqwest_cookie_store-0.7.0 (c (n "reqwest_cookie_store") (v "0.7.0") (d (list (d (n "bytes") (r "^1.0.1") (d #t) (k 0)) (d (n "cookie_store") (r "^0.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("cookies"))) (k 0)) (d (n "serde") (r "^1.0.147") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.147") (o #t) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.1") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "0wllq56c0bdbci10v2k42rjwbldbz643r0ldzrp7d7f161pmrslk") (s 2) (e (quote (("serde" "dep:serde" "dep:serde_derive"))))))
 
+(define-public crate-reqwest_cookie_store-0.8.0 (c (n "reqwest_cookie_store") (v "0.8.0") (d (list (d (n "bytes") (r "^1.0.1") (d #t) (k 0)) (d (n "cookie_store") (r "^0.21") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("cookies"))) (k 0)) (d (n "serde") (r "^1.0.147") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.147") (o #t) (d #t) (k 0)) (d (n "tokio-test") (r "^0.4.1") (d #t) (k 2)) (d (n "url") (r "^2.2.2") (d #t) (k 0)))) (h "1salkzbmkkw8khk50alr42z4dz01pcgz601rhfqi2bs5qyc69cx0") (s 2) (e (quote (("serde" "dep:serde" "dep:serde_derive"))))))
+
