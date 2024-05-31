@@ -64,3 +64,5 @@
 
 (define-public crate-rbspy-ruby-structs-0.20.0 (c (n "rbspy-ruby-structs") (v "0.20.0") (h "0my59amvhzn0s1p61l8hnaq0yqkj0qbargn5p6q7mqx2iaqak5wp")))
 
+(define-public crate-rbspy-ruby-structs-0.21.0 (c (n "rbspy-ruby-structs") (v "0.21.0") (h "0rla7lw2nrs13hhiwp6w3a75kwqyk39d69jpilqijdgi0xsnp3yc")))
+

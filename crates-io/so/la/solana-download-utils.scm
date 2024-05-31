@@ -670,3 +670,5 @@
 
 (define-public crate-solana-download-utils-1.17.34 (c (n "solana-download-utils") (v "1.17.34") (d (list (d (n "console") (r "^0.15.7") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "solana-runtime") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "1wfh993zs3l9ls0q3b2yn0ac4j70zzh4v8lld07nq324n4576lcn")))
 
+(define-public crate-solana-download-utils-1.18.15 (c (n "solana-download-utils") (v "1.18.15") (d (list (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.7") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "solana-runtime") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-runtime") (r "=1.18.15") (f (quote ("dev-context-only-utils"))) (d #t) (k 2)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "0xh85f7ivlz21p2psardsw39pg1ar6l49r9g7bhcgia534hznl53")))
+

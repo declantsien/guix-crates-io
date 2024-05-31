@@ -456,3 +456,5 @@
 
 (define-public crate-solana-genesis-utils-1.17.34 (c (n "solana-genesis-utils") (v "1.17.34") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-accounts-db") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-download-utils") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-rpc-client") (r "=1.17.34") (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "17bixa9bzmqighck0fh4mbnfqvm976q0yn5g2vwqrwcpy50sm4cr")))
 
+(define-public crate-solana-genesis-utils-1.18.15 (c (n "solana-genesis-utils") (v "1.18.15") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-accounts-db") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-download-utils") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-rpc-client") (r "=1.18.15") (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "0z8z737zlf7wnxg3dzvwzqb1wd3rx75z4m44db9rvj3516ikdqmn")))
+

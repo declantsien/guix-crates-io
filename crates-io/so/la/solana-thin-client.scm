@@ -158,3 +158,5 @@
 
 (define-public crate-solana-thin-client-1.17.34 (c (n "solana-thin-client") (v "1.17.34") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "solana-connection-cache") (r "=1.17.34") (k 0)) (d (n "solana-logger") (r "=1.17.34") (d #t) (k 2)) (d (n "solana-rpc-client") (r "=1.17.34") (k 0)) (d (n "solana-rpc-client-api") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "16isayvkm958qhhraq96bc85p2jy9z184gp35kcizmsb9bbcc588")))
 
+(define-public crate-solana-thin-client-1.18.15 (c (n "solana-thin-client") (v "1.18.15") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rayon") (r "^1.8.1") (d #t) (k 0)) (d (n "solana-connection-cache") (r "=1.18.15") (k 0)) (d (n "solana-logger") (r "=1.18.15") (d #t) (k 2)) (d (n "solana-rpc-client") (r "=1.18.15") (k 0)) (d (n "solana-rpc-client-api") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "0cnzki3zbp3a5f3mg6x61fqg61qyy4rzi410wzi51zhlfadpq2yj")))
+

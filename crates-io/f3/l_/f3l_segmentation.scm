@@ -2,3 +2,5 @@
 
 (define-public crate-f3l_segmentation-0.2.0 (c (n "f3l_segmentation") (v "0.2.0") (d (list (d (n "f3l_core") (r "^0.3") (d #t) (k 0)) (d (n "f3l_search_tree") (r "^0.3") (d #t) (k 0)) (d (n "kiss3d") (r "^0.35.0") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand" "glam025"))) (o #t) (d #t) (k 0)) (d (n "ply-rs") (r "^0.1.3") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1j2zjjrkhsha2iwf734d5zlkpm4ggm0k4m8y782mc5k52v0f3wnk") (f (quote (("default") ("app_kiss3d" "kiss3d" "nalgebra"))))))
 
+(define-public crate-f3l_segmentation-0.2.1 (c (n "f3l_segmentation") (v "0.2.1") (d (list (d (n "f3l_core") (r "^0.3") (d #t) (k 0)) (d (n "f3l_search_tree") (r "^0.3") (d #t) (k 0)) (d (n "kiss3d") (r "^0.35.0") (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand" "glam025"))) (o #t) (d #t) (k 0)) (d (n "ply-rs") (r "^0.1.3") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1x1rgcplwz701c5bs1fhwf9h73krsd3sffgh8pmibqxgjrglcsay") (f (quote (("default") ("app_kiss3d" "kiss3d" "nalgebra"))))))
+

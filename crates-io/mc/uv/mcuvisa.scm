@@ -16,3 +16,5 @@
 
 (define-public crate-mcuvisa-0.1.8 (c (n "mcuvisa") (v "0.1.8") (d (list (d (n "visa-rs") (r "^0.4.0") (d #t) (k 0)))) (h "17i40n53jgca1ffqzrwpr25rly8k56lqp6708gf4hd4qz2nsh3yp")))
 
+(define-public crate-mcuvisa-0.1.9 (c (n "mcuvisa") (v "0.1.9") (d (list (d (n "visa-rs") (r "^0.4.0") (d #t) (k 0)))) (h "0pd19z52gbbdvmlsaypm1yg64cfz4grag6g167p7jc2x90b5r16a")))
+
