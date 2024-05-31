@@ -38,3 +38,5 @@
 
 (define-public crate-gctex-0.3.4 (c (n "gctex") (v "0.3.4") (d (list (d (n "bindgen") (r "^0.66") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0zsyd4g151brvw1mjv5qap0z42w5vb05my51szy9wzq9pjgcaz4v") (f (quote (("simd") ("run_bindgen" "bindgen") ("default" "c_api" "simd") ("c_api"))))))
 
+(define-public crate-gctex-0.3.5 (c (n "gctex") (v "0.3.5") (d (list (d (n "bindgen") (r "^0.66") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (o #t) (d #t) (k 1)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0x5q6jd7q4fmb89d7mhypav97haywdxnc3mrfg3nnx37k804wr0n") (f (quote (("simd" "cpp_fallback") ("run_bindgen" "bindgen") ("default" "c_api" "simd") ("cpp_fallback" "cc") ("c_api"))))))
+
