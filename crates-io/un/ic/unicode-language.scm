@@ -12,3 +12,5 @@
 
 (define-public crate-unicode-language-2.0.2 (c (n "unicode-language") (v "2.0.2") (d (list (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "langtag") (r "^0.3.4") (d #t) (k 1)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_yml") (r "^0.0.9") (d #t) (k 1)))) (h "1aljrq27f9lb7apf3qqj862vwy83jza5jlb2wzrjfizy85cpq7q1")))
 
+(define-public crate-unicode-language-2.0.3 (c (n "unicode-language") (v "2.0.3") (d (list (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "langtag") (r "^0.3.4") (d #t) (k 1)) (d (n "serde") (r "^1.0.175") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_yml") (r "^0.0") (d #t) (k 1)))) (h "1qg2ryh1rxdqgdy88kid0yvwnmfhkxiia58jjpsnif20j0hyba8x")))
+

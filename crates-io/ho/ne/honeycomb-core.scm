@@ -6,3 +6,5 @@
 
 (define-public crate-honeycomb-core-0.3.0 (c (n "honeycomb-core") (v "0.3.0") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "num") (r "^0.4.2") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.15") (d #t) (k 1)) (d (n "vtkio") (r "^0.6.3") (o #t) (d #t) (k 0)))) (h "1294py9pv6sxaa5hv0iyksh0gy6f8pnh7jzcd3hl4689l2swjg11") (f (quote (("utils")))) (s 2) (e (quote (("io" "dep:vtkio"))))))
 
+(define-public crate-honeycomb-core-0.3.1 (c (n "honeycomb-core") (v "0.3.1") (d (list (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "num") (r "^0.4.2") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.15") (d #t) (k 1)) (d (n "vtkio") (r "^0.6.3") (o #t) (d #t) (k 0)))) (h "183yld1ccc5rdh1raqb1hay7axs7jk4br77f6v06sxm0n2mm9i3f") (f (quote (("utils")))) (s 2) (e (quote (("io" "dep:vtkio"))))))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-mklinker-0.1.5 (c (n "mklinker") (v "0.1.5") (d (list (d (n "aarch64_define") (r "^0.1") (k 0)))) (h "0hfh0ci9vpapvvqlqxqvnna6vq7aczw2w71iicamwv3gvazrx0cj") (r "1.78")))
 
+(define-public crate-mklinker-0.1.6 (c (n "mklinker") (v "0.1.6") (d (list (d (n "aarch64_define") (r "^0.1") (k 0)))) (h "0lcs5399bnpyrjcrym3yb147b8860j5yq699mcdibxxazrac546m") (r "1.80")))
+

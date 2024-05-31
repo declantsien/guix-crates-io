@@ -56,3 +56,5 @@
 
 (define-public crate-spdx-0.10.4 (c (n "spdx") (v "0.10.4") (d (list (d (n "similar-asserts") (r "^1.1") (d #t) (k 2)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)))) (h "1jd066k3fndm3x7131xajsmh19xfi7zj7ny8f8lw56p3l47imvr9") (f (quote (("text")))) (r "1.65.0")))
 
+(define-public crate-spdx-0.10.6 (c (n "spdx") (v "0.10.6") (d (list (d (n "similar-asserts") (r "^1.1") (d #t) (k 2)) (d (n "smallvec") (r "^1.7") (d #t) (k 0)))) (h "1g0li9pyw46jzh7b4b6l25164sqdp08jvbp1c4wbb19pysx7nca7") (f (quote (("text")))) (r "1.65.0")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-honeycomb-render-0.3.0 (c (n "honeycomb-render") (v "0.3.0") (d (list (d (n "bytemuck") (r "^1.15.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "honeycomb-core") (r "^0.3.0") (d #t) (k 0)) (d (n "pollster") (r "^0.3.0") (d #t) (k 0)) (d (n "smaa") (r "^0.14.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.20.0") (d #t) (k 0)) (d (n "winit") (r "^0.30.0") (d #t) (k 0)))) (h "1y64nfhjf842bzqkv2dnvk7qjnzziyrlxkjlwqkcb1i8ybwzs4x8")))
 
+(define-public crate-honeycomb-render-0.3.1 (c (n "honeycomb-render") (v "0.3.1") (d (list (d (n "bytemuck") (r "^1.15.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "cfg-if") (r "^1") (d #t) (k 0)) (d (n "cgmath") (r "^0.18.0") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "honeycomb-core") (r "^0.3.1") (d #t) (k 0)) (d (n "pollster") (r "^0.3.0") (d #t) (k 0)) (d (n "smaa") (r "^0.14.0") (d #t) (k 0)) (d (n "wgpu") (r "^0.20.0") (d #t) (k 0)) (d (n "winit") (r "^0.30.0") (d #t) (k 0)))) (h "1hzkj4c755v9ih9ihlxbfmd93j9vywr55rfzn91nazxzsgr1lk35")))
+
