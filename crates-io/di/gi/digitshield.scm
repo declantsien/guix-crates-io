@@ -8,3 +8,5 @@
 
 (define-public crate-DigitShield-0.1.3 (c (n "DigitShield") (v "0.1.3") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "zxcvbn") (r "^3.0.1") (d #t) (k 0)))) (h "0rkmwkp1n0lbvn59wmd2kcsr4p09xh72cg3an41i3a2sp8qqbb9x")))
 
+(define-public crate-DigitShield-0.1.5 (c (n "DigitShield") (v "0.1.5") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "zxcvbn") (r "^3.0.1") (d #t) (k 0)))) (h "0h4fqmwzya0sjqd4ldvc9d1g4f9ac6y7qskllpi1x1wl8vr3yrz5")))
+

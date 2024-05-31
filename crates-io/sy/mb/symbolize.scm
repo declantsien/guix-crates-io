@@ -18,3 +18,5 @@
 
 (define-public crate-symbolize-0.2.2 (c (n "symbolize") (v "0.2.2") (d (list (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)))) (h "103sl8hsnvb9dwwm93y5iy8y4lwzc3nba64fhclkc7cqfj8dzd73")))
 
+(define-public crate-symbolize-0.2.3 (c (n "symbolize") (v "0.2.3") (d (list (d (n "clap") (r "^3.2.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.23.2") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)))) (h "0wd97nx93c82z8nczikxwgn4gy6zmxzs2pdvcgs5j1p3dvhrf29b")))
+
