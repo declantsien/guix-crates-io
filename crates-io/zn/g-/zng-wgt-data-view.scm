@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-data-view-0.3.3 (c (n "zng-wgt-data-view") (v "0.3.3") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.0") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-container") (r "^0.2.13") (d #t) (k 0)))) (h "064ybygmig0jrfsji0czlb4dx86l8y21v0q4haks1pyhxdfpg1pa")))
 
+(define-public crate-zng-wgt-data-view-0.3.4 (c (n "zng-wgt-data-view") (v "0.3.4") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-container") (r "^0.2.14") (d #t) (k 0)))) (h "0n9mrvv3wzwnlkls6zircsdrcd135xh7k8c1x7pv0yd9vj105alk")))
+

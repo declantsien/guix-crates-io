@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-input-0.2.13 (c (n "zng-wgt-input") (v "0.2.13") (d (list (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-ext-clipboard") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-ext-input") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-ext-window") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.3") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-fill") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt-transform") (r "^0.2.13") (d #t) (k 0)))) (h "127yvx689lvrhmdw1lcxm42wq79qscv9jc8nz59rjlbrcdsigh43")))
 
+(define-public crate-zng-wgt-input-0.2.14 (c (n "zng-wgt-input") (v "0.2.14") (d (list (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-clipboard") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-ext-input") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-window") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.4") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-fill") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-transform") (r "^0.2.14") (d #t) (k 0)))) (h "09f37pni2w35pkf3rrl5zbcgcai1r3vkkgk2xs0fi9r4hpwz692l")))
+

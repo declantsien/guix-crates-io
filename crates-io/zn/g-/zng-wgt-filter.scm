@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-filter-0.2.13 (c (n "zng-wgt-filter") (v "0.2.13") (d (list (d (n "zng-color") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0rhrpb0cvsjwdd6fs86364xfaqry1464w8ifwwlbdc36i5syla63")))
 
+(define-public crate-zng-wgt-filter-0.2.14 (c (n "zng-wgt-filter") (v "0.2.14") (d (list (d (n "zng-color") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "12x89jcqqbzx8q42rmc5r5cd5a8dqpwgdgx2lwc1a0ysvhc150rj")))
+

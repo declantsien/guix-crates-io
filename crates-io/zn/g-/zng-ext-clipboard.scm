@@ -24,3 +24,5 @@
 
 (define-public crate-zng-ext-clipboard-0.2.13 (c (n "zng-ext-clipboard") (v "0.2.13") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.0") (d #t) (k 0)) (d (n "zng-ext-image") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.6") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.0") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.3") (d #t) (k 0)))) (h "1gh82cq27hjrj3lscinq25fskwj5a5l44gb7g8sswj2ndci8f4wh")))
 
+(define-public crate-zng-ext-clipboard-0.2.14 (c (n "zng-ext-clipboard") (v "0.2.14") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-ext-image") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.6") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.4") (d #t) (k 0)))) (h "1c5ba7y96jn92s8m3220idz8qwkpcsaagg7mcq2pi1crxj3bnh0r")))
+

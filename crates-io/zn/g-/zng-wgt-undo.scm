@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-undo-0.2.13 (c (n "zng-wgt-undo") (v "0.2.13") (d (list (d (n "zng-ext-undo") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0nds92i2rc1bn9grl65l97gqzdqv1s4zz0vnxnmgm4phr30ff67s")))
 
+(define-public crate-zng-wgt-undo-0.2.14 (c (n "zng-wgt-undo") (v "0.2.14") (d (list (d (n "zng-ext-undo") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "0ncwhsjivkg4l7zddm291bx65iy45fypvxqps6g72sfmfdha090s")))
+

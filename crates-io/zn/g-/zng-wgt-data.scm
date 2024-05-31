@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-data-0.2.13 (c (n "zng-wgt-data") (v "0.2.13") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-color") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.0") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0siv0vnxk42alh0ch9z70gakiiizzrnn5hyfzvpbzlgj9pv6s60m")))
 
+(define-public crate-zng-wgt-data-0.2.14 (c (n "zng-wgt-data") (v "0.2.14") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-color") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "105wlfdbg03pdv533xphcgljxzaqsm3gkw9pmi9v4bpbrd438j2p")))
+

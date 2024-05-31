@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-size-offset-0.2.13 (c (n "zng-wgt-size-offset") (v "0.2.13") (d (list (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0h6mhicmx6yi0xiic4qmxa143hpqd07hwnzx9i0jjlaw12fyhi24")))
 
+(define-public crate-zng-wgt-size-offset-0.2.14 (c (n "zng-wgt-size-offset") (v "0.2.14") (d (list (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "19siiicb1fli04j5a3jj36nqfbhblkhwrvqmsa5838ngz52qnh5m")))
+

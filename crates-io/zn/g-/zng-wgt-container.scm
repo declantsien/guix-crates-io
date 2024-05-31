@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-container-0.2.13 (c (n "zng-wgt-container") (v "0.2.13") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0babyrmm775z8plzjvcnzkd4amhnidvx9gzsf9c877f9065m8wia")))
 
+(define-public crate-zng-wgt-container-0.2.14 (c (n "zng-wgt-container") (v "0.2.14") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "1xbdpz61wcbvjbhar416zi8jn8r45fhh2wfi0r8iz8iglyf7z2l0")))
+
