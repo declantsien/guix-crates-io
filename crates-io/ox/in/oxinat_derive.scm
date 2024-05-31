@@ -6,3 +6,5 @@
 
 (define-public crate-oxinat_derive-0.7.0 (c (n "oxinat_derive") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "attribute-derive") (r "^0.9.1") (f (quote ("syn-full"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.82") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.64") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "14gzfnac8ks3xla09iy5qh8srg3q1j7hbym6zgrs2xml8hq551jg")))
 
+(define-public crate-oxinat_derive-0.7.2 (c (n "oxinat_derive") (v "0.7.2") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "attribute-derive") (r "^0.9.1") (f (quote ("syn-full"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.82") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.64") (f (quote ("full" "extra-traits"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "100n2ycp6fdvnm6pfrnm2xnzgpxchkfvjyr7i7n2p62y48rrzlh0")))
+

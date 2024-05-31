@@ -10,3 +10,5 @@
 
 (define-public crate-oxinat_core-0.8.0 (c (n "oxinat_core") (v "0.8.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "oxinat_derive") (r "^0.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "09hm0h6wp1aj5psl9yhryyngi0kynrkgm4y2d6c1yx0gp1cynb2l")))
 
+(define-public crate-oxinat_core-0.9.1 (c (n "oxinat_core") (v "0.9.1") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "oxinat_derive") (r "^0.7.2") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("cookies"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0ggkrz36bzp6d09qkr9zmw71qqs004s9l89003cawsb3i0753wrh")))
+

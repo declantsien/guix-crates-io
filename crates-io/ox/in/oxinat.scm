@@ -10,3 +10,5 @@
 
 (define-public crate-oxinat-0.5.0 (c (n "oxinat") (v "0.5.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "oxinat_core") (r "^0.8.0") (d #t) (k 0)) (d (n "oxinat_derive") (r "^0.7.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("cookies"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0j2848mm6dim92xk005xv0pw9nn79pi20aq03j4yfn8x9dcl8kb0") (f (quote (("full" "core" "derive") ("derive") ("core"))))))
 
+(define-public crate-oxinat-0.6.0 (c (n "oxinat") (v "0.6.0") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "oxinat_core") (r "^0.9.1") (d #t) (k 0)) (d (n "oxinat_derive") (r "^0.7.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (d #t) (k 0)))) (h "1yny0rf3l67c9pk3h51kvnlx42vvmlxbcbkmah0r1vwsw43zqplj") (f (quote (("full" "core" "derive") ("derive") ("core"))))))
+

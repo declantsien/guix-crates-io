@@ -6,3 +6,5 @@
 
 (define-public crate-embd-macros-0.1.2 (c (n "embd-macros") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "19n39hy30ikp3bj478aa41qicsaa3qj9qn8fgqkxd8if8888vsly")))
 
+(define-public crate-embd-macros-0.1.3 (c (n "embd-macros") (v "0.1.3") (d (list (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "13hayhpbnzh82mhq2qx31qjk5w5fm0p4556ch7ahh1qscx342bx7")))
+

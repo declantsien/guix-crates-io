@@ -100,3 +100,5 @@
 
 (define-public crate-llama-cpp-sys-2-0.1.53 (c (n "llama-cpp-sys-2") (v "0.1.53") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)))) (h "19vys5g1r8c2lk4adqjnqblwvwc1ab8k9xwp3sh3b2cw6xxhzv0i") (f (quote (("metal") ("cublas")))) (l "llama")))
 
+(define-public crate-llama-cpp-sys-2-0.1.54 (c (n "llama-cpp-sys-2") (v "0.1.54") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.94") (f (quote ("parallel"))) (d #t) (k 1)))) (h "1bq29m2y3l4mxwkxrqns7i7rr903farzkb7z54dz718k3dg87viq") (f (quote (("metal") ("cublas")))) (l "llama")))
+

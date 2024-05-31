@@ -100,3 +100,5 @@
 
 (define-public crate-llama-cpp-2-0.1.53 (c (n "llama-cpp-2") (v "0.1.53") (d (list (d (n "llama-cpp-sys-2") (r "^0.1.48") (f (quote ("metal"))) (d #t) (t "cfg(all(target_os = \"macos\", any(target_arch = \"aarch64\", target_arch = \"arm64\")))") (k 0)) (d (n "llama-cpp-sys-2") (r "^0.1.53") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "04nwkdycvalrfz1h39996cq87x6nb6ak2l9q75wzkqp14pl2pvjh") (f (quote (("sampler") ("metal" "llama-cpp-sys-2/metal") ("cublas" "llama-cpp-sys-2/cublas"))))))
 
+(define-public crate-llama-cpp-2-0.1.54 (c (n "llama-cpp-2") (v "0.1.54") (d (list (d (n "llama-cpp-sys-2") (r "^0.1.48") (f (quote ("metal"))) (d #t) (t "cfg(all(target_os = \"macos\", any(target_arch = \"aarch64\", target_arch = \"arm64\")))") (k 0)) (d (n "llama-cpp-sys-2") (r "^0.1.54") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0w26z2wxcm236gs1jwvh0d2plrv8i07hsprqzf86bw7sj1za2lfn") (f (quote (("sampler") ("metal" "llama-cpp-sys-2/metal") ("cublas" "llama-cpp-sys-2/cublas"))))))
+
