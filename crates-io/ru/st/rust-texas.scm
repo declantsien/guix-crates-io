@@ -12,3 +12,5 @@
 
 (define-public crate-rust-texas-0.3.0 (c (n "rust-texas") (v "0.3.0") (d (list (d (n "itertools") (r "^0.12.1") (d #t) (k 0)))) (h "14pvypc13if48fvgrl4sdff37nxvfwrlz20jk74cfvjbqy8g03y3")))
 
+(define-public crate-rust-texas-0.3.5 (c (n "rust-texas") (v "0.3.5") (d (list (d (n "itertools") (r "^0.12.1") (d #t) (k 0)))) (h "06n3kphkkx5y2f4s4g47svn12li4xd4pgl10fqgdysz8pdnvqfxa")))
+

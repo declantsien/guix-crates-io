@@ -14,3 +14,5 @@
 
 (define-public crate-aarch64-paging-0.5.0 (c (n "aarch64-paging") (v "0.5.0") (d (list (d (n "bitflags") (r "^2.0.2") (d #t) (k 0)))) (h "0qdghln29w8n3x5svz1ljbzxjwa55phf4nixy7n68ah5a95gk5b2") (f (quote (("default" "alloc") ("alloc"))))))
 
+(define-public crate-aarch64-paging-0.6.0 (c (n "aarch64-paging") (v "0.6.0") (d (list (d (n "bitflags") (r "^2.0.2") (d #t) (k 0)))) (h "123v1bc0v3qfpq3yri51ham4f91fmbmk2dalbw4n3hxlmj2gyv2b") (f (quote (("default" "alloc") ("alloc"))))))
+
