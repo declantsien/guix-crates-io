@@ -44,3 +44,5 @@
 
 (define-public crate-pi_append_vec-0.4.2 (c (n "pi_append_vec") (v "0.4.2") (d (list (d (n "pi_arr") (r "^0.18") (d #t) (k 0)) (d (n "pi_null") (r "^0.1") (d #t) (k 0)) (d (n "pi_share") (r "^0.4") (d #t) (k 0)))) (h "19i2lx0kylchw576jq8wmm1m78yis16zqhg2bk2f2p2rlzvda27z")))
 
+(define-public crate-pi_append_vec-0.5.0 (c (n "pi_append_vec") (v "0.5.0") (d (list (d (n "pi_arr") (r "^0.19") (d #t) (k 0)) (d (n "pi_null") (r "^0.1") (d #t) (k 0)) (d (n "pi_share") (r "^0.4") (d #t) (k 0)))) (h "1pqd7xf0fv0iy75av09l3ghlq7k3wl1svcd3a632zdf2j069p728")))
+

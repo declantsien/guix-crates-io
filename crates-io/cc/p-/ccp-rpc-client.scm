@@ -10,3 +10,5 @@
 
 (define-public crate-ccp-rpc-client-0.10.1 (c (n "ccp-rpc-client") (v "0.10.1") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.21.0") (f (quote ("client" "macros" "tokio" "server"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "03v14rrjzsrxykirn6jmzjzh7dzs1y47gb9h0zdd9i3dnrg4g6mp")))
 
+(define-public crate-ccp-rpc-client-0.10.2 (c (n "ccp-rpc-client") (v "0.10.2") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "jsonrpsee") (r "^0.21.0") (f (quote ("client" "macros" "tokio" "server"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "1k8y6p7drs3w2ffxp05a5jj1mkk4z3qv5gdvari0qws9h8mgsxli")))
+
