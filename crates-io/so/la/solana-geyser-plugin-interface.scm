@@ -356,3 +356,5 @@
 
 (define-public crate-solana-geyser-plugin-interface-1.17.34 (c (n "solana-geyser-plugin-interface") (v "1.17.34") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-transaction-status") (r "=1.17.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "022jdq1gwk2ad8c9ch0prk8knkiym3plxhqy8k5cgp3jcq9plkqm")))
 
+(define-public crate-solana-geyser-plugin-interface-1.18.15 (c (n "solana-geyser-plugin-interface") (v "1.18.15") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-transaction-status") (r "=1.18.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0h2k242nwh242pxim3swwiz8ds8d7cz7160clqgf8098qwbqslcq")))
+

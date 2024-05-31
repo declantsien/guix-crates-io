@@ -30,3 +30,5 @@
 
 (define-public crate-zlgcan_common-1.0.0-rc3 (c (n "zlgcan_common") (v "1.0.0-rc3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0kp9k53m13ahfbpq9hvbfgfa24j9zw28xdqznljkzkgpwz4d4m9b")))
 
+(define-public crate-zlgcan_common-1.0.0-rc4 (c (n "zlgcan_common") (v "1.0.0-rc4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "171wczcpqhqwjsqshrn25hqqbwiwdrkfyizw1d4hqd2ad25wwwp5")))
+

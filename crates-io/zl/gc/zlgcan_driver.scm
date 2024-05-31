@@ -28,3 +28,5 @@
 
 (define-public crate-zlgcan_driver-1.0.0-rc3 (c (n "zlgcan_driver") (v "1.0.0-rc3") (d (list (d (n "dlopen2") (r "^0.7.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "zlgcan_common") (r "^1.0.0-rc3") (d #t) (k 0)))) (h "13z4rjg722d7lqb861hby9k922m91nv5872x54kj1jz5f5925awv")))
 
+(define-public crate-zlgcan_driver-1.0.0-rc4 (c (n "zlgcan_driver") (v "1.0.0-rc4") (d (list (d (n "dlopen2") (r "^0.7.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "zlgcan_common") (r "^1.0.0-rc4") (d #t) (k 0)))) (h "0xlnp6pv0n2s2qx5an85qdd37g92brczll0ld3zggpxagwla5hsg")))
+

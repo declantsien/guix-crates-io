@@ -18,3 +18,5 @@
 
 (define-public crate-zng-time-0.2.8 (c (n "zng-time") (v "0.2.8") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.0") (d #t) (k 0)))) (h "1npg4j6m4nixnb97lmrrcv2yf4nnv27ihwhszfcv00vs59zp6b54")))
 
+(define-public crate-zng-time-0.2.9 (c (n "zng-time") (v "0.2.9") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.1") (d #t) (k 0)))) (h "159yjdabwvpli58lbfkd7b0xdfsjinh9z8vr44x4rvpn2zkrd0vm")))
+

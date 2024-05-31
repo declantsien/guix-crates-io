@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-checkerboard-0.3.3 (c (n "zng-wgt-checkerboard") (v "0.3.3") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zng-color") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0ijqgl99ilrg78v1j943cmkpx5wsb2ssp1j2smgafylpbyxcsshx")))
 
+(define-public crate-zng-wgt-checkerboard-0.3.4 (c (n "zng-wgt-checkerboard") (v "0.3.4") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zng-color") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "162x5iv8rh3zv3nfvk8jghsi0v88w72g1xr2gpbrb5a4x8vxjrsd")))
+
