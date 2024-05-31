@@ -8,3 +8,5 @@
 
 (define-public crate-t4t-games-0.0.4 (c (n "t4t-games") (v "0.0.4") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "t4t") (r "^0.0.5") (d #t) (k 0)) (d (n "test-log") (r "^0.2.16") (d #t) (k 2)))) (h "0k0l2i9plasi9i570lfaarpk06qg8md0w8c2y52g96r9sq2g6g3h")))
 
+(define-public crate-t4t-games-0.1.0 (c (n "t4t-games") (v "0.1.0") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "t4t") (r "^0.1.0") (d #t) (k 0)) (d (n "test-log") (r "^0.2.16") (d #t) (k 2)))) (h "1wchgijji99cn4b24if6qc337hkxx3a277gz15r65134pbaqf224")))
+
