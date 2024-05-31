@@ -8,3 +8,5 @@
 
 (define-public crate-hud-slice-by-8-1.0.8 (c (n "hud-slice-by-8") (v "1.0.8") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)))) (h "0w1d2vcv6zbjh0h2z2vyvcrq1asshsqwl4xidjm39f0p1ia4938m")))
 
+(define-public crate-hud-slice-by-8-1.0.9 (c (n "hud-slice-by-8") (v "1.0.9") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)))) (h "1c81jiz1yqbb4l3bfbr90xpivbxdap1833jdx245mb0zikdwdzw0")))
+
