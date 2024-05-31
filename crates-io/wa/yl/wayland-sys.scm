@@ -284,3 +284,5 @@
 
 (define-public crate-wayland-sys-0.31.1 (c (n "wayland-sys") (v "0.31.1") (d (list (d (n "dlib") (r "^0.5.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memoffset") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.7") (d #t) (k 1)))) (h "1bxpwamgagpxa8p9m798gd3g6rwj2m4sbdvc49zx05jjzzmci80m") (f (quote (("server" "libc" "memoffset") ("egl" "client") ("dlopen" "once_cell") ("cursor" "client") ("client")))) (r "1.59")))
 
+(define-public crate-wayland-sys-0.31.2 (c (n "wayland-sys") (v "0.31.2") (d (list (d (n "dlib") (r "^0.5.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memoffset") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "once_cell") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.7") (d #t) (k 1)))) (h "04lwwxmp16769jpn4pc0b9s7yyw9f8hjljn14qazjm35v911hnqh") (f (quote (("server" "libc" "memoffset") ("egl" "client") ("dlopen" "once_cell") ("cursor" "client") ("client")))) (r "1.65")))
+

@@ -330,3 +330,5 @@
 
 (define-public crate-wayland-client-0.31.2 (c (n "wayland-client") (v "0.31.2") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.16") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.0") (f (quote ("event"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "wayland-backend") (r "^0.3.1") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.31.0") (d #t) (k 0)))) (h "07rzml07li3bi4nnqx4i2rfj3xkifzxp1d6cd1kflb2wjgp9dyw2") (r "1.65")))
 
+(define-public crate-wayland-client-0.31.3 (c (n "wayland-client") (v "0.31.3") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "futures-channel") (r "^0.3.16") (d #t) (k 2)) (d (n "futures-util") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.0") (f (quote ("event"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "wayland-backend") (r "^0.3.4") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.31.2") (d #t) (k 0)))) (h "0cqikb0r1d6k7q8sqx2pziqzb7srm55sgzvck0gl72imhlf80qqy") (r "1.65")))
+

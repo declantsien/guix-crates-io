@@ -104,3 +104,5 @@
 
 (define-public crate-wayland-egl-0.32.0 (c (n "wayland-egl") (v "0.32.0") (d (list (d (n "wayland-backend") (r "^0.3.0") (f (quote ("client_system"))) (d #t) (k 0)) (d (n "wayland-sys") (r "^0.31.0") (f (quote ("egl"))) (d #t) (k 0)))) (h "18pdbvbyg4x10dhws9shcfyw5inwsg18yv2kmp905bi4b8p6aprm") (r "1.65")))
 
+(define-public crate-wayland-egl-0.32.1 (c (n "wayland-egl") (v "0.32.1") (d (list (d (n "wayland-backend") (r "^0.3.4") (f (quote ("client_system"))) (d #t) (k 0)) (d (n "wayland-sys") (r "^0.31.2") (f (quote ("egl"))) (d #t) (k 0)))) (h "1s0nkc0hckj41g2lg3d2s05by2hpjmsi0zxzrs7wsp446cfdxkhq") (r "1.65")))
+

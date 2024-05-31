@@ -286,3 +286,5 @@
 
 (define-public crate-wayland-scanner-0.31.1 (c (n "wayland-scanner") (v "0.31.1") (d (list (d (n "proc-macro2") (r "^1.0.11") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "10y2nq076x4zml8wc5bw75560rwvrsfpi35mdyc02w1854lsdcv3") (r "1.65")))
 
+(define-public crate-wayland-scanner-0.31.2 (c (n "wayland-scanner") (v "0.31.2") (d (list (d (n "proc-macro2") (r "^1.0.11") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "similar") (r "^2") (d #t) (k 2)))) (h "0rd5rq8505qahq0lpqkcpms7b7pg4hzc24acxb0dwn81z2wm1nk7") (r "1.65")))
+

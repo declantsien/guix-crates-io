@@ -272,3 +272,5 @@
 
 (define-public crate-wayland-server-0.31.1 (c (n "wayland-server") (v "0.31.1") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "downcast-rs") (r "^1.2") (d #t) (k 0)) (d (n "io-lifetimes") (r "^2") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.14") (f (quote ("fs"))) (d #t) (k 0)) (d (n "wayland-backend") (r "^0.3.0") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.31.0") (d #t) (k 0)))) (h "1dzxfabykj156abnbx2i8j8gvmgb9yys9mfj9sx29g45qbay9rh0") (r "1.65")))
 
+(define-public crate-wayland-server-0.31.2 (c (n "wayland-server") (v "0.31.2") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "downcast-rs") (r "^1.2") (d #t) (k 0)) (d (n "io-lifetimes") (r "^2") (d #t) (k 0)) (d (n "log") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "rustix") (r "^0.38.14") (f (quote ("fs"))) (d #t) (k 0)) (d (n "wayland-backend") (r "^0.3.4") (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.31.2") (d #t) (k 0)))) (h "0namarj842m8jz2apliql5w1sbgp87x94b4w1z7acaq7plc93s33") (r "1.65")))
+

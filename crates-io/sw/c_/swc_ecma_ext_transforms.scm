@@ -760,3 +760,5 @@
 
 (define-public crate-swc_ecma_ext_transforms-0.114.1 (c (n "swc_ecma_ext_transforms") (v "0.114.1") (d (list (d (n "phf") (r "^0.11.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "swc_atoms") (r "^0.6.5") (d #t) (k 0)) (d (n "swc_common") (r "^0.33.26") (d #t) (k 0)) (d (n "swc_ecma_ast") (r "^0.113.1") (d #t) (k 0)) (d (n "swc_ecma_utils") (r "^0.128.1") (d #t) (k 0)) (d (n "swc_ecma_visit") (r "^0.99.1") (d #t) (k 0)))) (h "0xida76pdk4saiwck6dipnf62m7xjg5ylkihqrixxbqacdlpp6r5")))
 
+(define-public crate-swc_ecma_ext_transforms-0.114.2 (c (n "swc_ecma_ext_transforms") (v "0.114.2") (d (list (d (n "phf") (r "^0.11.2") (f (quote ("macros"))) (d #t) (k 0)) (d (n "swc_atoms") (r "^0.6.5") (d #t) (k 0)) (d (n "swc_common") (r "^0.33.26") (d #t) (k 0)) (d (n "swc_ecma_ast") (r "^0.113.1") (d #t) (k 0)) (d (n "swc_ecma_utils") (r "^0.128.1") (d #t) (k 0)) (d (n "swc_ecma_visit") (r "^0.99.1") (d #t) (k 0)))) (h "0lhfjrfz9n9kfyibmsn538y8s15aalnpi6ka1380f3v0iggmvdci")))
+
