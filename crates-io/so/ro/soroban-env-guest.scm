@@ -62,3 +62,5 @@
 
 (define-public crate-soroban-env-guest-21.0.2 (c (n "soroban-env-guest") (v "21.0.2") (d (list (d (n "soroban-env-common") (r "=21.0.2") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)))) (h "1ydalpljsg8z38bs5nsgfalg7i9g36wa5zmcp0l6ah82ar17l5x6") (f (quote (("testutils" "soroban-env-common/testutils") ("next" "soroban-env-common/next")))) (r "1.74.0")))
 
+(define-public crate-soroban-env-guest-21.1.0 (c (n "soroban-env-guest") (v "21.1.0") (d (list (d (n "soroban-env-common") (r "=21.1.0") (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)))) (h "0vv68ibjfcz955qw48ph8n4l7spzqi7h9gnlxp9nd3j8bshr3rcm") (f (quote (("testutils" "soroban-env-common/testutils") ("next" "soroban-env-common/next")))) (r "1.74.0")))
+
