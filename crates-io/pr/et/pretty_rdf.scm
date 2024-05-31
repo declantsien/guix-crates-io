@@ -16,3 +16,5 @@
 
 (define-public crate-pretty_rdf-0.6.0 (c (n "pretty_rdf") (v "0.6.0") (d (list (d (n "indexmap") (r "1.*") (d #t) (k 0)) (d (n "oxiri") (r "^0.2.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "1.*") (d #t) (k 2)) (d (n "quick-xml") (r "^0.26.0") (d #t) (k 0)) (d (n "rio_api") (r "^0.8.3") (d #t) (k 0)) (d (n "rio_turtle") (r "^0.8.3") (d #t) (k 2)) (d (n "rio_xml") (r "^0.8.3") (d #t) (k 2)))) (h "05i3jkiiwzbqzxk0s8x6bncfr9ydyg7n7gs70j5fygc3y2ihvzcm")))
 
+(define-public crate-pretty_rdf-0.7.0 (c (n "pretty_rdf") (v "0.7.0") (d (list (d (n "indexmap") (r "1.*") (d #t) (k 0)) (d (n "oxiri") (r "^0.2.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "1.*") (d #t) (k 2)) (d (n "quick-xml") (r "^0.31.0") (d #t) (k 0)) (d (n "rio_api") (r "^0.8.3") (d #t) (k 0)) (d (n "rio_turtle") (r "^0.8.3") (d #t) (k 2)) (d (n "rio_xml") (r "^0.8.3") (d #t) (k 2)))) (h "1nfdkvv1ka8pw4rr1xd7p1hri1fq1lb3qwmnszcv27drqj8p3n2c")))
+
