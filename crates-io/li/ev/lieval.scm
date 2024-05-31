@@ -10,3 +10,5 @@
 
 (define-public crate-lieval-0.2.1 (c (n "lieval") (v "0.2.1") (h "0i6cfdhm1ircwa83937dxbnjf4qjp8vvk6bc3f2vbimydq1y3l59")))
 
+(define-public crate-lieval-0.2.2 (c (n "lieval") (v "0.2.2") (h "1glvz12hb8p26z4mx72xlilb0ksgf8sgk5s25g1y1mpz7ak1vvym")))
+

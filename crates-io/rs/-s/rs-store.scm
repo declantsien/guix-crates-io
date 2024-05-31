@@ -10,3 +10,5 @@
 
 (define-public crate-rs-store-0.5.1 (c (n "rs-store") (v "0.5.1") (d (list (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "03f2mgbh25shyii1zmjn2cwi72hyj2f9m9vdb4da1xi6nj2jdmx1")))
 
+(define-public crate-rs-store-0.5.2 (c (n "rs-store") (v "0.5.2") (d (list (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0kigpa3gmvfnqn7zzzhjih4frbgpv5cp07icqdbg9d1z5kpgl3c4")))
+
