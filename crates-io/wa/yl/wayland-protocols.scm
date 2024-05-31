@@ -256,3 +256,5 @@
 
 (define-public crate-wayland-protocols-0.32.0 (c (n "wayland-protocols") (v "0.32.0") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "wayland-backend") (r "^0.3.4") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.3") (o #t) (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.31.2") (d #t) (k 0)) (d (n "wayland-server") (r "^0.31.2") (o #t) (d #t) (k 0)))) (h "1acv6f5m0svm8lcwsjyqbwb122w8jswdy4m9z43k592yy2iyxjdg") (f (quote (("unstable") ("staging") ("server" "wayland-server") ("client" "wayland-client")))) (r "1.65")))
 
+(define-public crate-wayland-protocols-0.32.1 (c (n "wayland-protocols") (v "0.32.1") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "wayland-backend") (r "^0.3.4") (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.3") (o #t) (d #t) (k 0)) (d (n "wayland-scanner") (r "^0.31.2") (d #t) (k 0)) (d (n "wayland-server") (r "^0.31.2") (o #t) (d #t) (k 0)))) (h "0v020jczg1bcp82xw9rqw2ddf92ii0rwcgkplck6wj3hcl2z3l43") (f (quote (("unstable") ("staging") ("server" "wayland-server") ("client" "wayland-client")))) (r "1.65")))
+
