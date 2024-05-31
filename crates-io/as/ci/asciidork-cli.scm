@@ -12,3 +12,5 @@
 
 (define-public crate-asciidork-cli-0.5.0 (c (n "asciidork-cli") (v "0.5.0") (d (list (d (n "asciidork-dr-html-backend") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-eval") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-opts") (r "^0.3.0") (d #t) (k 0)) (d (n "asciidork-parser") (r "^0.5.0") (d #t) (k 0)) (d (n "bumpalo") (r "^3.15.4") (f (quote ("collections"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)))) (h "0q4a5ws7hdrcjzhlbf7cz9x89m0zyav7rr576d5kj91hz5k67x3v")))
 
+(define-public crate-asciidork-cli-0.5.1 (c (n "asciidork-cli") (v "0.5.1") (d (list (d (n "asciidork-ast") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-dr-html-backend") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-eval") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-meta") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-parser") (r "^0.5.0") (d #t) (k 0)) (d (n "bumpalo") (r "^3.15.4") (f (quote ("collections"))) (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.0.4") (d #t) (k 0)))) (h "1jk2jgbc2qnyp1x18ng2p0cw6870ngy2sw01x36jw2kld64s7smw")))
+

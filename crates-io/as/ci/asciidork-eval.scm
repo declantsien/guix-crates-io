@@ -16,3 +16,5 @@
 
 (define-public crate-asciidork-eval-0.5.0 (c (n "asciidork-eval") (v "0.5.0") (d (list (d (n "asciidork-ast") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-backend") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-opts") (r "^0.3.0") (d #t) (k 0)))) (h "1g565ddf1liqc1j96iky61lpaq7gbs2mac2wgdqgis7nnk3pb5bp")))
 
+(define-public crate-asciidork-eval-0.5.1 (c (n "asciidork-eval") (v "0.5.1") (d (list (d (n "asciidork-ast") (r "^0.5.0") (d #t) (k 0)) (d (n "asciidork-backend") (r "^0.5.0") (d #t) (k 0)))) (h "14j8i22whxwqhivia8fsq4pwjwxccq0ky8lrm68ljicnx8cnmays")))
+

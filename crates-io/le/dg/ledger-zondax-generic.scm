@@ -14,3 +14,5 @@
 
 (define-public crate-ledger-zondax-generic-0.11.0 (c (n "ledger-zondax-generic") (v "0.11.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "ledger-transport") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0pn6075fzmdwirdw9i9mkd4ynzdrlk23y0jy6zy547xsz6cxkxlb")))
 
+(define-public crate-ledger-zondax-generic-0.11.2 (c (n "ledger-zondax-generic") (v "0.11.2") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "ledger-transport") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0085rj9rsyh4z8gm4f1bpfp1gn8y9cibgfk71bkzbzqrhyvy3dxp")))
+

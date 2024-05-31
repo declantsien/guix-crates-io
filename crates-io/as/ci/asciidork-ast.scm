@@ -16,3 +16,5 @@
 
 (define-public crate-asciidork-ast-0.5.0 (c (n "asciidork-ast") (v "0.5.0") (d (list (d (n "bumpalo") (r "^3.15.4") (f (quote ("collections"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 2)) (d (n "smallvec") (r "^1.13.2") (d #t) (k 0)))) (h "1iqb3azlwb427pvnwqfcbbq461lfhds193fyycilyxxz7wliaz9a")))
 
+(define-public crate-asciidork-ast-0.5.1 (c (n "asciidork-ast") (v "0.5.1") (d (list (d (n "asciidork-meta") (r "^0.5.0") (d #t) (k 0)) (d (n "bumpalo") (r "^3.15.4") (f (quote ("collections"))) (d #t) (k 0)) (d (n "jsonxf") (r "^1.1.1") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 2)) (d (n "smallvec") (r "^1.13.2") (d #t) (k 0)))) (h "14l9aw9clp14i7f968mzbvzl2cwq6fm88249x60jaikg3zh67g5m")))
+
