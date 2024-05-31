@@ -72,3 +72,5 @@
 
 (define-public crate-fuels-macros-0.62.0 (c (n "fuels-macros") (v "0.62.0") (d (list (d (n "fuels-code-gen") (r "^0.62.0") (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.70") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("std_rng" "getrandom"))) (k 0)) (d (n "syn") (r "^2.0.39") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "0kmcp5q5qz25721bn16ysi7n8rjj3c4h20q0px2h7g8xai97l4wy") (r "1.76.0")))
 
+(define-public crate-fuels-macros-0.63.0 (c (n "fuels-macros") (v "0.63.0") (d (list (d (n "fuels-code-gen") (r "^0.63.0") (k 0)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.70") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (f (quote ("extra-traits"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "008fd07r1s374jw9zm4rf3ab7f07fa093nb8vd1xivl6z80sg4ms") (r "1.76.0")))
+

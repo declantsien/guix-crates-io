@@ -8,3 +8,5 @@
 
 (define-public crate-yaml-rust2-0.8.0 (c (n "yaml-rust2") (v "0.8.0") (d (list (d (n "arraydeque") (r "^0.5.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.33") (d #t) (k 0)) (d (n "hashlink") (r "^0.8") (d #t) (k 0)) (d (n "libtest-mimic") (r "^0.3.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0") (d #t) (k 2)))) (h "1yr5v9v312279r43inp84g079bcnzk076xfj9nfirskr5884v3s9")))
 
+(define-public crate-yaml-rust2-0.8.1 (c (n "yaml-rust2") (v "0.8.1") (d (list (d (n "arraydeque") (r "^0.5.1") (d #t) (k 0)) (d (n "encoding_rs") (r "^0.8.33") (o #t) (d #t) (k 0)) (d (n "hashlink") (r "^0.8") (d #t) (k 0)) (d (n "libtest-mimic") (r "^0.3.0") (d #t) (k 2)) (d (n "quickcheck") (r "^1.0") (d #t) (k 2)))) (h "1y0mf6n1jnf88xqfv5ppicnm5jg3fl57dmp9vd2v2bvg9q61c0l9") (f (quote (("default" "encoding") ("debug_prints")))) (s 2) (e (quote (("encoding" "dep:encoding_rs")))) (r "1.70.0")))
+
