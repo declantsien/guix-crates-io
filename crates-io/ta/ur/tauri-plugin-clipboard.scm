@@ -78,3 +78,5 @@
 
 (define-public crate-tauri-plugin-clipboard-1.0.1 (c (n "tauri-plugin-clipboard") (v "1.0.1") (d (list (d (n "base64") (r "^0.21.5") (d #t) (k 0)) (d (n "clipboard-rs") (r "^0.1.7") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tauri") (r "^1.5.2") (d #t) (k 0)) (d (n "tempfile") (r "^3.8.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1clny14syk21m0wgkz1ajfkgx5lr5njk02wjx8gp1qp3ldxi5cp1") (r "1.59")))
 
+(define-public crate-tauri-plugin-clipboard-2.0.0-beta.1 (c (n "tauri-plugin-clipboard") (v "2.0.0-beta.1") (d (list (d (n "base64") (r "^0.22.1") (d #t) (k 0)) (d (n "clipboard-rs") (r "^0.1.7") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta.19") (d #t) (k 0)) (d (n "tauri-plugin") (r "^2.0.0-beta.15") (f (quote ("build"))) (d #t) (k 1)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0p07ds7r5fcxgxj6jnr6xzpjfvxfhpv1ivjmk1kd69b6al6hx2j8") (l "tauri-plugin-clipboard") (r "1.70")))
+
