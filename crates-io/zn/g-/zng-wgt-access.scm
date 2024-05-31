@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-access-0.2.13 (c (n "zng-wgt-access") (v "0.2.13") (d (list (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-ext-l10n") (r "^0.3.9") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.3") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)))) (h "0qbcmrqx57cxxii497iyx505jv6jvg8mha2rsmcibj1wizxwr0m9")))
 
+(define-public crate-zng-wgt-access-0.2.14 (c (n "zng-wgt-access") (v "0.2.14") (d (list (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-l10n") (r "^0.3.10") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.4") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "0fzdzw06fj8rf24hh5nzxgysn37b436p73qy4n44xzxxv9v9z8z1")))
+

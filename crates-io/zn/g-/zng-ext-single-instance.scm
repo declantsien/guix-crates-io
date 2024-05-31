@@ -10,3 +10,5 @@
 
 (define-public crate-zng-ext-single-instance-0.2.5 (c (n "zng-ext-single-instance") (v "0.2.5") (d (list (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "single-instance") (r "^0.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-ext-fs-watcher") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-task") (r "^0.2.10") (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.6") (d #t) (k 0)))) (h "1vg7icnz208xmzljf42jrh1jmlba8v1x6xdasj5d918raqn8irq1")))
 
+(define-public crate-zng-ext-single-instance-0.2.6 (c (n "zng-ext-single-instance") (v "0.2.6") (d (list (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "single-instance") (r "^0.3") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-fs-watcher") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-task") (r "^0.2.11") (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.6") (d #t) (k 0)))) (h "1j2ac8y8h72mhnr37a6rvf6pyrfcjbwmlyi52jhr6xzx08zkjdlp")))
+
