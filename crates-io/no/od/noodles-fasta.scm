@@ -94,3 +94,5 @@
 
 (define-public crate-noodles-fasta-0.38.0 (c (n "noodles-fasta") (v "0.38.0") (d (list (d (n "bytes") (r "^1.0.1") (d #t) (k 0)) (d (n "memchr") (r "^2.3.3") (d #t) (k 0)) (d (n "noodles-bgzf") (r "^0.30.0") (d #t) (k 0)) (d (n "noodles-core") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "1v21qanj7i1y1z6lvyznz948vppbs5ys4jp5yh2wk9md4801dycb") (s 2) (e (quote (("async" "dep:tokio")))) (r "1.70.0")))
 
+(define-public crate-noodles-fasta-0.39.0 (c (n "noodles-fasta") (v "0.39.0") (d (list (d (n "bytes") (r "^1.0.1") (d #t) (k 0)) (d (n "memchr") (r "^2.3.3") (d #t) (k 0)) (d (n "noodles-bgzf") (r "^0.30.0") (d #t) (k 0)) (d (n "noodles-core") (r "^0.15.0") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "14vdsg58dww0m7lv0yrj96925d80rbj3lz5nmkprazwp75dmrwy3") (s 2) (e (quote (("async" "dep:tokio")))) (r "1.70.0")))
+

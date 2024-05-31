@@ -6,3 +6,5 @@
 
 (define-public crate-qqx-macro-0.0.3 (c (n "qqx-macro") (v "0.0.3") (d (list (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.57") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "0szbkjds67mx9x4lnln6ic8gjdrs57mk1n3dd4rdcidr7zvhk221")))
 
+(define-public crate-qqx-macro-0.0.4 (c (n "qqx-macro") (v "0.0.4") (d (list (d (n "quote") (r "^1.0.8") (d #t) (k 0)) (d (n "syn") (r "^1.0.57") (f (quote ("full" "fold"))) (d #t) (k 0)))) (h "0hnqjgswh0ja5sd1scbjnv8mbdln9505725kk96mx3qc6azlnjp8")))
+

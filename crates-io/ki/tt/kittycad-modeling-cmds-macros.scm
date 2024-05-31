@@ -12,3 +12,5 @@
 
 (define-public crate-kittycad-modeling-cmds-macros-0.1.5 (c (n "kittycad-modeling-cmds-macros") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.70") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 2)) (d (n "rustfmt-wrapper") (r "^0.2.1") (d #t) (k 2)) (d (n "syn") (r "^2.0.41") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0lzk07wgzklgivn75s9qqfvv2ykf3b529602ydwmbwjvkp67amrq") (r "1.73")))
 
+(define-public crate-kittycad-modeling-cmds-macros-0.1.7 (c (n "kittycad-modeling-cmds-macros") (v "0.1.7") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "insta") (r "^1.34.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0.70") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 2)) (d (n "rustfmt-wrapper") (r "^0.2.1") (d #t) (k 2)) (d (n "syn") (r "^2.0.41") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0x05pvpvymqpyw5w4fhbbgp5j7a19hfpm8z2fq5wv5kdbbfvhq0l") (r "1.73")))
+

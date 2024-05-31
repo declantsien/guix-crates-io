@@ -26,3 +26,5 @@
 
 (define-public crate-noodles-fastq-0.10.0 (c (n "noodles-fastq") (v "0.10.0") (d (list (d (n "futures") (r "^0.3.15") (f (quote ("std"))) (o #t) (k 0)) (d (n "memchr") (r "^2.3.3") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("fs" "io-std" "macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "17xbb5fqq3bvzw0wqb9w57aa4zfjf97q1rha9r2j77rivh2r0m83") (s 2) (e (quote (("async" "dep:futures" "dep:tokio")))) (r "1.70.0")))
 
+(define-public crate-noodles-fastq-0.11.0 (c (n "noodles-fastq") (v "0.11.0") (d (list (d (n "futures") (r "^0.3.15") (f (quote ("std"))) (o #t) (k 0)) (d (n "memchr") (r "^2.3.3") (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("io-util"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.10.0") (f (quote ("fs" "io-std" "macros" "rt-multi-thread"))) (d #t) (k 2)))) (h "0sbpig8g5mk4fmims0wzfscfqchgw8pzmwnyp8p6v0769j68qh7w") (s 2) (e (quote (("async" "dep:futures" "dep:tokio")))) (r "1.70.0")))
+

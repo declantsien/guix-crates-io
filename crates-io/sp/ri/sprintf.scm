@@ -14,3 +14,5 @@
 
 (define-public crate-sprintf-0.2.1 (c (n "sprintf") (v "0.2.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "0fdxfl8pyrylsi7ipdvr51ni1iwxzfliji9g21nrxzjd36srr0gj")))
 
+(define-public crate-sprintf-0.3.0 (c (n "sprintf") (v "0.3.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)))) (h "12kz9qj9hy4rl9vwhmzb5ckcp6p4zhqg65dwr7r6pzfa4hhp7q2h")))
+
