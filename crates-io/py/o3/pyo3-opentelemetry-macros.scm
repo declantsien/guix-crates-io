@@ -18,3 +18,5 @@
 
 (define-public crate-pyo3-opentelemetry-macros-0.3.2-rc.0 (c (n "pyo3-opentelemetry-macros") (v "0.3.2-rc.0") (d (list (d (n "proc-macro2") (r "^1.0.58") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "rstest") (r "^0.17.0") (d #t) (k 2)) (d (n "syn") (r "^2.0.14") (f (quote ("full" "derive"))) (d #t) (k 0)))) (h "10hizyi0ja1yvp5h7nyib2x4fyzyzlavq2wsyhrmq4agb75xmrsi") (r "1.65.0")))
 
+(define-public crate-pyo3-opentelemetry-macros-0.3.2-dev.0 (c (n "pyo3-opentelemetry-macros") (v "0.3.2-dev.0") (d (list (d (n "proc-macro2") (r "^1.0.58") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "rstest") (r "^0.17.0") (d #t) (k 2)) (d (n "syn") (r "^2.0.14") (f (quote ("full" "derive"))) (d #t) (k 0)))) (h "1nm413cqv1favwmkif5235y9d7bd82qikl89c7757zijcbwhg625") (r "1.65.0")))
+
