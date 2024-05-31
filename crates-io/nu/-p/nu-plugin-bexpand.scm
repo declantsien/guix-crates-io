@@ -34,3 +34,5 @@
 
 (define-public crate-nu-plugin-bexpand-1.3.6 (c (n "nu-plugin-bexpand") (v "1.3.6") (d (list (d (n "bexpand") (r "^1.2.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.93") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.93") (f (quote ("plugin"))) (d #t) (k 0)))) (h "1l5r1s4nbqj3ga0ppndnk0dm2qb68h5rgyfjm06y5cqfg7fia6q0")))
 
+(define-public crate-nu-plugin-bexpand-1.3.7 (c (n "nu-plugin-bexpand") (v "1.3.7") (d (list (d (n "bexpand") (r "^1.2.0") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (f (quote ("plugin"))) (d #t) (k 0)))) (h "10z9rd9i0nnlwp7wxbd6r959w1h0sav5zb8zk77r1krjrc605p65")))
+
