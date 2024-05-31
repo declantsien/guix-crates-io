@@ -34,3 +34,5 @@
 
 (define-public crate-neon-macros-1.0.0 (c (n "neon-macros") (v "1.0.0") (d (list (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)) (d (n "syn-mid") (r "^0.6.0") (d #t) (k 0)))) (h "12z3kqb325cn0xs73qlrjmfnmxqfm054hpypg9zf8imng7g3z0f6")))
 
+(define-public crate-neon-macros-1.1.0-alpha.0 (c (n "neon-macros") (v "1.1.0-alpha.0") (d (list (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.57") (f (quote ("full"))) (d #t) (k 0)))) (h "1h9mvldsg008qm7vdiwk4cjkvb1ypji8765aj94l39zmmgadzj6b")))
+

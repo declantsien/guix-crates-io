@@ -12,3 +12,5 @@
 
 (define-public crate-rusty18n-0.1.5 (c (n "rusty18n") (v "0.1.5") (d (list (d (n "bevy_reflect") (r "^0.12.1") (o #t) (d #t) (k 0)))) (h "1hamypjml80f7d2dnw6l1s5w9xqyivrlcs3mqfy540wvnypd81pl")))
 
+(define-public crate-rusty18n-0.1.6 (c (n "rusty18n") (v "0.1.6") (d (list (d (n "bevy_reflect") (r "^0.12.1") (o #t) (d #t) (k 0)))) (h "0k2qxrxd4pynjwb3p8qh1h1kc8651mk674vx97qvwhh54lmjklvw")))
+

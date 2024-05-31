@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-network) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-network-0.1.0 (c (n "linera-alloy-network") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "auto_impl") (r "^1.2") (d #t) (k 0)) (d (n "futures-utils-wasm") (r "^0.1") (d #t) (k 0)) (d (n "linera-alloy-consensus") (r "^0.1.0") (f (quote ("std"))) (k 0)) (d (n "linera-alloy-eips") (r "^0.1.0") (f (quote ("serde"))) (k 0)) (d (n "linera-alloy-json-rpc") (r "^0.1.0") (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (k 0)) (d (n "linera-alloy-rpc-types") (r "^0.1.0") (k 0)) (d (n "linera-alloy-signer") (r "^0.1.0") (k 0)) (d (n "linera-alloy-sol-types") (r "^0.7.4") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (d #t) (k 2)))) (h "1n0ni11rmvymp8ha3bbbf4dyfzyk17f4dksq73m9ln2c50dbbf81") (f (quote (("k256" "linera-alloy-primitives/k256" "linera-alloy-consensus/k256")))) (r "1.76")))
+

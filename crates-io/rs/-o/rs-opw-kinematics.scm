@@ -18,3 +18,5 @@
 
 (define-public crate-rs-opw-kinematics-1.2.1 (c (n "rs-opw-kinematics") (v "1.2.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "sxd-document") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "yaml-rust2") (r "^0.8.0") (o #t) (d #t) (k 0)))) (h "0wn0w9mkm9cx2aaa10v359az919y9aa7wfxpn1pp9ad87070945k") (f (quote (("default" "allow_filesystem") ("allow_filesystem" "yaml-rust2" "sxd-document" "regex" "clap"))))))
 
+(define-public crate-rs-opw-kinematics-1.3.0-rc (c (n "rs-opw-kinematics") (v "1.3.0-rc") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "sxd-document") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "yaml-rust2") (r "^0.8.0") (o #t) (d #t) (k 0)))) (h "066yz9pxqqpf9zz8v8mkskjib6srjs2a8jvz03jz6yd9gr7qzfhi") (f (quote (("default" "allow_filesystem") ("allow_filesystem" "yaml-rust2" "sxd-document" "regex" "clap"))))))
+
