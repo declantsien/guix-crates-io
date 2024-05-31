@@ -24,3 +24,5 @@
 
 (define-public crate-lighthouse-protocol-3.3.0 (c (n "lighthouse-protocol") (v "3.3.0") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rmpv") (r "^1.0.1") (f (quote ("with-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.4") (d #t) (k 0)))) (h "1h8jk1pkmv5z0gpl10sb3qmzjca9xczivfv57zz77k2b80sk3b8a")))
 
+(define-public crate-lighthouse-protocol-3.3.1 (c (n "lighthouse-protocol") (v "3.3.1") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rmpv") (r "^1.0.1") (f (quote ("with-serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_with") (r "^3.4") (d #t) (k 0)))) (h "1k2as9cwn8cajy9s1rrxb0kfbcd89sk259na133qm8mkdpz77ivw")))
+
