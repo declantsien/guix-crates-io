@@ -10,3 +10,5 @@
 
 (define-public crate-larian-formats-0.1.4 (c (n "larian-formats") (v "0.1.4") (d (list (d (n "lz4_flex") (r "^0.11.3") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "rc-zip-sync") (r "^4.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static_assertions_next") (r "^1.1.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "1ngx805hzk9gv3i3x5m92jhzvrqalfxs346pm9if79xzbw8aqkg4") (f (quote (("lspk") ("lsf") ("default" "bg3") ("bg3" "lsf" "lspk"))))))
 
+(define-public crate-larian-formats-0.1.5 (c (n "larian-formats") (v "0.1.5") (d (list (d (n "lz4_flex") (r "^0.11.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "quick-xml") (r "^0.31.0") (f (quote ("serialize"))) (d #t) (k 0)) (d (n "rc-zip-sync") (r "^4.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "static_assertions_next") (r "^1.1.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "0pbb1p3bxflhn055i6mz5mdphqi3l2w7w0mkdrqw9svqa4rrdicl")))
+

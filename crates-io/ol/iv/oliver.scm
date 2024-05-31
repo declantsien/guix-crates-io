@@ -8,3 +8,5 @@
 
 (define-public crate-oliver-0.1.4 (c (n "oliver") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "larian-formats") (r "^0.1.4") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11.3") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "static_assertions_next") (r "^1.1.2") (d #t) (k 0)) (d (n "zstd") (r "^0.13.1") (d #t) (k 0)))) (h "1jp6ixz218n4gi3z5c99azh191nw9k0736la1xn0q7gy9swn9sxd")))
 
+(define-public crate-oliver-0.1.5 (c (n "oliver") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "clap") (r "^4.5.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "larian-formats") (r "^0.1.5") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11.3") (d #t) (k 0)) (d (n "quick-xml") (r "^0.31.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "static_assertions_next") (r "^1.1.2") (d #t) (k 0)) (d (n "zstd") (r "^0.13.1") (d #t) (k 0)))) (h "06hxzl7z28jsvl19dm2p1w8kly5flhs4hpdmhffg7zgg7k7wyc4d")))
+
