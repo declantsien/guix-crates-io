@@ -1,0 +1,4 @@
+(define-module (crates-io pa nt pants-store) #:use-module (crates-io))
+
+(define-public crate-pants-store-0.1.0 (c (n "pants-store") (v "0.1.0") (d (list (d (n "aes-gcm") (r "^0.10.3") (d #t) (k 0)) (d (n "arboard") (r "^3.4.0") (d #t) (k 0)) (d (n "argon2") (r "^0.5.3") (d #t) (k 0)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "directories-next") (r "^2.0.0") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "pants-gen") (r "^0.1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "secrecy") (r "^0.8.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "zeroize") (r "^1.7.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1s4j9rgw6qabxcip3ciz6k68a2wv3qgr144icdpmshnsa2mx58rg") (r "1.63.0")))
+

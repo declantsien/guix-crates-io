@@ -26,3 +26,5 @@
 
 (define-public crate-soroban-builtin-sdk-macros-21.0.2 (c (n "soroban-builtin-sdk-macros") (v "21.0.2") (d (list (d (n "itertools") (r "=0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "=1.0.69") (d #t) (k 0)) (d (n "quote") (r "=1.0.33") (d #t) (k 0)) (d (n "syn") (r "=2.0.39") (f (quote ("full"))) (d #t) (k 0)))) (h "0i6krmmkv370gsvmgpj6myzfnhfzkw1206p51d5x308an8f44yn9") (r "1.74.0")))
 
+(define-public crate-soroban-builtin-sdk-macros-21.1.0 (c (n "soroban-builtin-sdk-macros") (v "21.1.0") (d (list (d (n "itertools") (r "=0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "=1.0.69") (d #t) (k 0)) (d (n "quote") (r "=1.0.33") (d #t) (k 0)) (d (n "syn") (r "=2.0.39") (f (quote ("full"))) (d #t) (k 0)))) (h "123njicb5s9k9yy307rlqak5jrd86ywfmmx98p215rq9h00anjh8") (r "1.74.0")))
+
