@@ -12,3 +12,7 @@
 
 (define-public crate-suiweb-0.1.5 (c (n "suiweb") (v "0.1.5") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "pinata-sdk") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "17qjisvkj5zbr2xj8j149rwyz9a0cjgcbw77i78zmg3ifjri96v5")))
 
+(define-public crate-suiweb-0.1.6 (c (n "suiweb") (v "0.1.6") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "pinata-sdk") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0qpd4abd6zclzgsh4whjq7nnr0fmk4k0sh0xlhchcscgy4vp6017")))
+
+(define-public crate-suiweb-0.2.0 (c (n "suiweb") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "pinata-sdk") (r "^1.1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0v9mlisg0hbccjs8qbaipa6dcw2krh46wh09znblcnppbybdx1pq")))
+

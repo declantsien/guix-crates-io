@@ -14,3 +14,5 @@
 
 (define-public crate-unordered-pair-0.2.4 (c (n "unordered-pair") (v "0.2.4") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1v5h27bglhb7ln1vqfp0qrm4cavkvwmc5jrfwjs1bpd77q4k8b6q")))
 
+(define-public crate-unordered-pair-0.2.5 (c (n "unordered-pair") (v "0.2.5") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0afqyf8r1yiglc6dljv94jkgfvycgj22fl20z6jn0wjvk97dwvbm")))
+
