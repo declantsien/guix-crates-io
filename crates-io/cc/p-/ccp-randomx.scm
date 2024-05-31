@@ -28,3 +28,5 @@
 
 (define-public crate-ccp-randomx-0.10.1 (c (n "ccp-randomx") (v "0.10.1") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0qigpgs09kc6ghxv759h1pn6azwdi4j235qqarl6m3p3plywvc1i")))
 
+(define-public crate-ccp-randomx-0.10.2 (c (n "ccp-randomx") (v "0.10.2") (d (list (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "cmake") (r "^0.1") (d #t) (k 1)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03lmhqbiv6qc15dy3qd3l3sf9nxb6201m45p7m0yrqpk5blpwsmi")))
+

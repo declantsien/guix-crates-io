@@ -22,3 +22,5 @@
 
 (define-public crate-ccp-utils-0.10.1 (c (n "ccp-utils") (v "0.10.1") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "sha3") (r "^0.10") (d #t) (k 0)))) (h "1kmqniai9qmrwj6xna2y2kjw573gh6mqhcwyq0i09bnk25v692qb")))
 
+(define-public crate-ccp-utils-0.10.2 (c (n "ccp-utils") (v "0.10.2") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "sha3") (r "^0.10") (d #t) (k 0)))) (h "087bms015zrai8wf753l1sbifqv6ffpwihdcaajmidbpg9iqb4rv")))
+

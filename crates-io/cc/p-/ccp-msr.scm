@@ -22,3 +22,5 @@
 
 (define-public crate-ccp-msr-0.10.1 (c (n "ccp-msr") (v "0.10.1") (d (list (d (n "ccp-config") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (f (quote ("uio"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "raw-cpuid") (r "^11.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "1kybccj9k10i96i9asfwbknv9fijhf5yhkx9ii12qrlnamzzbpxa")))
 
+(define-public crate-ccp-msr-0.10.2 (c (n "ccp-msr") (v "0.10.2") (d (list (d (n "ccp-config") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "nix") (r "^0.27.1") (f (quote ("uio"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "raw-cpuid") (r "^11.0.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0zrvx6qyd11h3g3i9y333kkgr6gvz0rdkrqk7677snf9f329cycs")))
+

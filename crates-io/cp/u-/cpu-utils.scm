@@ -12,3 +12,5 @@
 
 (define-public crate-cpu-utils-0.10.1 (c (n "cpu-utils") (v "0.10.1") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "mockall") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0jbq001p51jfp8jklf1qy2dpwp9lg6wrv0qvgrraf8f300p6wqd0") (s 2) (e (quote (("mockall" "dep:mockall"))))))
 
+(define-public crate-cpu-utils-0.10.2 (c (n "cpu-utils") (v "0.10.2") (d (list (d (n "ccp-shared") (r "^0.10.0") (d #t) (k 0)) (d (n "ccp_core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "hwlocality") (r "^1.0.0-alpha.1") (d #t) (k 0)) (d (n "mockall") (r "^0.12.1") (o #t) (d #t) (k 0)) (d (n "nonempty") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0r7zix49bmsfmna8z6i42cxi3byhkfkpfgk51h7pjymcxr50b25z") (s 2) (e (quote (("mockall" "dep:mockall"))))))
+

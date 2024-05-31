@@ -116,3 +116,5 @@
 
 (define-public crate-dragonfly-client-core-0.1.74 (c (n "dragonfly-client-core") (v "0.1.74") (d (list (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("stream" "native-tls" "default-tls" "rustls-tls"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("gzip"))) (d #t) (k 0)))) (h "1cw9756hsdana1sdd8cbxgqkqjjsf0n0skf7z8vjvijii6p988mh")))
 
+(define-public crate-dragonfly-client-core-0.1.75 (c (n "dragonfly-client-core") (v "0.1.75") (d (list (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("stream" "native-tls" "default-tls" "rustls-tls"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("gzip"))) (d #t) (k 0)))) (h "1b3n5zp45daqpsql2ckbz2xc3y1kng8x88hgiy10wcmrnb9l2z3l")))
+

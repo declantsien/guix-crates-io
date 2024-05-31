@@ -8,3 +8,5 @@
 
 (define-public crate-paradis-0.1.0 (c (n "paradis") (v "0.1.0") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.1") (d #t) (k 2)) (d (n "paradis-core") (r "^0.1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.6.1") (o #t) (d #t) (k 0)))) (h "14ypwghkv6lb4z0jyza6nx1am5q3hng606b2h0wx8h3m44qa1cga") (s 2) (e (quote (("rayon" "dep:rayon"))))))
 
+(define-public crate-paradis-0.2.0 (c (n "paradis") (v "0.2.0") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 2)) (d (n "paradis-core") (r "^0.1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)))) (h "19y687lnpf4jj6df73di894bbc5mabflsxl12jnhdk5qbwdw5jp5") (s 2) (e (quote (("rayon" "dep:rayon"))))))
+

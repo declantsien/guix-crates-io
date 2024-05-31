@@ -54,3 +54,5 @@
 
 (define-public crate-firestore-path-0.9.15 (c (n "firestore-path") (v "0.9.15") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "google-api-proto") (r "^1.516") (f (quote ("google-firestore-v1"))) (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1f4i1cxdk5g15qbq5375ss0k2sixbjippn4ixmnjfb1mfd1avsls")))
 
+(define-public crate-firestore-path-0.9.16 (c (n "firestore-path") (v "0.9.16") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "google-api-proto") (r "^1.516") (f (quote ("google-firestore-v1"))) (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1gpj8714bw6rxqnc19rs9dxilirbm3kv0z4xbpqqyj28x7k6f1f0")))
+

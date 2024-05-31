@@ -14,3 +14,5 @@
 
 (define-public crate-matrix_kit-0.1.6 (c (n "matrix_kit") (v "0.1.6") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1rjhbi9175nqqvybmlrvwifmjr4wf9cqis3lcrgbwmhz5ns6d718")))
 
+(define-public crate-matrix_kit-0.1.7 (c (n "matrix_kit") (v "0.1.7") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1dp3ji9bw8l8lgw69mjlz7rrm230pr975w80hhld9lzmgzszi4cf")))
+

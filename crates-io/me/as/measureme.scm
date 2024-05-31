@@ -42,3 +42,5 @@
 
 (define-public crate-measureme-10.1.3 (c (n "measureme") (v "10.1.3") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memmap2") (r "^0.2.1") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"linux\"))") (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "perf-event-open-sys") (r "^3.0.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"linux\"))") (k 0)) (d (n "rustc-hash") (r "^1.0.1") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)))) (h "02vcy4a0k7ng72n11jqrg72rnd81rlb82pnwk3jvwc2b8bx6l32g") (f (quote (("nightly"))))))
 
+(define-public crate-measureme-12.0.0 (c (n "measureme") (v "12.0.0") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "memmap2") (r "^0.2.1") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"linux\"))") (k 0)) (d (n "parking_lot") (r "^0.12.0") (d #t) (k 0)) (d (n "perf-event-open-sys") (r "^3.0.0") (d #t) (t "cfg(all(target_arch = \"x86_64\", target_os = \"linux\"))") (k 0)) (d (n "rustc-hash") (r "^1.0.1") (d #t) (k 0)) (d (n "smallvec") (r "^1.0") (d #t) (k 0)))) (h "1jgbd66hi4h7f3zhryvw5qndmx6xd9mhnd03y9xs72xnc5md5liy") (f (quote (("nightly"))))))
+

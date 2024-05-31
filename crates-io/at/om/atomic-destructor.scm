@@ -10,3 +10,5 @@
 
 (define-public crate-atomic-destructor-0.2.0-alpha.2 (c (n "atomic-destructor") (v "0.2.0-alpha.2") (d (list (d (n "tracing") (r "^0.1") (o #t) (k 0)))) (h "1jkib51sc42pxn1bpawr1p9s52sii66cnvwxzsmj09sgqxmq00df") (f (quote (("default")))) (r "1.56.0")))
 
+(define-public crate-atomic-destructor-0.2.0 (c (n "atomic-destructor") (v "0.2.0") (d (list (d (n "tracing") (r "^0.1") (o #t) (k 0)))) (h "08wsl3h1qlqjfmxl76r9ay06b3afdhj9wzkp8ax8fp591fv9r4bx") (f (quote (("default")))) (r "1.56.0")))
+
