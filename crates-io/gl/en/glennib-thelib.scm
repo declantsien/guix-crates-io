@@ -8,3 +8,7 @@
 
 (define-public crate-glennib-thelib-0.1.3 (c (n "glennib-thelib") (v "0.1.3") (h "180h9rnnka0dg5z3hjf7i0kvn19kmjlk37pp1hdklhb0yf9fwk2i")))
 
+(define-public crate-glennib-thelib-0.1.4 (c (n "glennib-thelib") (v "0.1.4") (h "087mnfvj7ddi5xdyzdp2ksqwc7wxjzm9cif1vyqbfcd4lsdax14r")))
+
+(define-public crate-glennib-thelib-0.1.5 (c (n "glennib-thelib") (v "0.1.5") (h "0yz3x8272i0hymhdz9asj92zajx8ml44yzmxa66n9f935d1cvn8j")))
+

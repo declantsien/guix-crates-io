@@ -34,3 +34,5 @@
 
 (define-public crate-vi-0.6.0 (c (n "vi") (v "0.6.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "insta") (r "^1.26") (f (quote ("serde"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "06i9pxpl68mcw0cysjl00lmdqnjscgac3mzpdx2qd6x2rk80fzx4")))
 
+(define-public crate-vi-0.6.1 (c (n "vi") (v "0.6.1") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "insta") (r "^1.26") (f (quote ("serde"))) (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)))) (h "109ckmw0v341dajhfmbqqi0agjrg99xr6cisldss3hhcdazqjdcp")))
+
