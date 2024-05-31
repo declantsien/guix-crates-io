@@ -40,3 +40,5 @@
 
 (define-public crate-diesel_full_text_search-2.1.1 (c (n "diesel_full_text_search") (v "2.1.1") (d (list (d (n "diesel") (r "~2.1.0") (f (quote ("postgres_backend"))) (k 0)))) (h "02xkya8flhbshl17wny7k7gwc33klr32dspy0bcab9j1wibs0i4b") (f (quote (("with-diesel-postgres" "diesel/postgres") ("default" "with-diesel-postgres"))))))
 
+(define-public crate-diesel_full_text_search-2.2.0 (c (n "diesel_full_text_search") (v "2.2.0") (d (list (d (n "diesel") (r "~2.2.0") (f (quote ("postgres_backend"))) (k 0)))) (h "1j83gljp5hihd2wn0dn8jg0dr3db1limra3n70y2i9cj4n3qz3z2") (f (quote (("with-diesel-postgres" "diesel/postgres") ("default" "with-diesel-postgres"))))))
+
