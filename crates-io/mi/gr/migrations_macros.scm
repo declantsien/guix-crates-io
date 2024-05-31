@@ -32,3 +32,5 @@
 
 (define-public crate-migrations_macros-2.1.0 (c (n "migrations_macros") (v "2.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 2)) (d (n "diesel") (r "~2.1.0") (k 2)) (d (n "dotenvy") (r "^0.15") (d #t) (k 2)) (d (n "migrations_internals") (r "~2.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "027gd4s58fmh7jil9rz0ckdsdw81mqfa6dyqbfmvnrqfqxd35qyc") (f (quote (("sqlite") ("postgres") ("mysql") ("default")))) (r "1.65.0")))
 
+(define-public crate-migrations_macros-2.2.0 (c (n "migrations_macros") (v "2.2.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 2)) (d (n "dotenvy") (r "^0.15") (d #t) (k 2)) (d (n "migrations_internals") (r "~2.2.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "tempfile") (r "^3.1.0") (d #t) (k 2)))) (h "1z9p2ag0fnnh0m7z8qfncwyjc0pgschca7vzlixb6v0pfb663cgz") (f (quote (("sqlite") ("postgres") ("mysql") ("default")))) (r "1.78.0")))
+

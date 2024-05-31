@@ -28,3 +28,5 @@
 
 (define-public crate-diesel_migrations-2.1.0 (c (n "diesel_migrations") (v "2.1.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 2)) (d (n "diesel") (r "~2.1.0") (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 2)) (d (n "migrations_internals") (r "~2.1.0") (d #t) (k 0)) (d (n "migrations_macros") (r "~2.1.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)))) (h "1b0ld4azk73rg2axwq7a4wnpwba3085f43jp3cw62n8c2bqb6dk0") (f (quote (("sqlite") ("postgres") ("mysql") ("default")))) (r "1.65.0")))
 
+(define-public crate-diesel_migrations-2.2.0 (c (n "diesel_migrations") (v "2.2.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 2)) (d (n "diesel") (r "~2.2.0") (k 0)) (d (n "dotenvy") (r "^0.15") (d #t) (k 2)) (d (n "migrations_internals") (r "~2.2.0") (d #t) (k 0)) (d (n "migrations_macros") (r "~2.2.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)))) (h "1xn12ny9m1ci74iqpvhcfyhapr6wj56k3wxz07q32hmd9dqcwwwa") (f (quote (("sqlite") ("postgres") ("mysql") ("default")))) (r "1.78.0")))
+

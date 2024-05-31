@@ -30,3 +30,5 @@
 
 (define-public crate-migrations_internals-2.1.0 (c (n "migrations_internals") (v "2.1.0") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1nnsr5d4h2kcvmz2j4l8g8n8r1zm7nngwmp842q58lh1h0azf8qg") (r "1.65.0")))
 
+(define-public crate-migrations_internals-2.2.0 (c (n "migrations_internals") (v "2.2.0") (d (list (d (n "serde") (r "^1.0.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "1zw0lf2lw3wlmyb0kv68cnr3ya2n80svpavf0jcqfbz8a6c060gx") (r "1.78.0")))
+
