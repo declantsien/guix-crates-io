@@ -8,3 +8,5 @@
 
 (define-public crate-neurons-0.0.4 (c (n "neurons") (v "0.0.4") (d (list (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1zr92pw5hnj78kx4ym5qdfr1vwi4s5mpl3b1rb5w88g2j9jjmjpb")))
 
+(define-public crate-neurons-0.1.0 (c (n "neurons") (v "0.1.0") (d (list (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1nv0m7aa6lri2l59qywbalcscdlvgi1bbkfd6632sf2v6ihjld6r")))
+

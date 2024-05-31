@@ -20,3 +20,5 @@
 
 (define-public crate-metrsd_client-0.5.3 (c (n "metrsd_client") (v "0.5.3") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "metrs_stubs") (r "^0.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ntex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0m7sw8nqaw6igqrgsslr988r2jd5vjhkpm4sxj3jv1jrnd1xgmj9") (f (quote (("tokio" "ntex/tokio") ("glommio" "ntex/glommio") ("default" "tokio") ("async-std" "ntex/async-std"))))))
 
+(define-public crate-metrsd_client-0.5.4 (c (n "metrsd_client") (v "0.5.4") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "metrs_stubs") (r "^0.5") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ntex") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0w8c9yfii3v1p2l0k5r09a60d6kn4scnmv5pj1qdk8hglpj6n1fw") (f (quote (("tokio" "ntex/tokio") ("glommio" "ntex/glommio") ("default" "tokio") ("async-std" "ntex/async-std"))))))
+
