@@ -10,3 +10,7 @@
 
 (define-public crate-simplers-1.0.3 (c (n "simplers") (v "1.0.3") (h "1r4m9y4n8z0rn7w4zb7jbkp3lch5mrlfal59hx0pc22267568f5n")))
 
+(define-public crate-simplers-1.0.4 (c (n "simplers") (v "1.0.4") (h "1ilva49gdpk379dszaiq182zz7c1nl8iyy6ihavg36blwq27bkjw")))
+
+(define-public crate-simplers-1.0.5 (c (n "simplers") (v "1.0.5") (h "08y2nhp1d61g74jd5q452g0njh4qgi1cs6jqbkaxvrbmi9m9xkpj")))
+

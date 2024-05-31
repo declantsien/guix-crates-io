@@ -4,3 +4,5 @@
 
 (define-public crate-seminix-std-0.1.1 (c (n "seminix-std") (v "0.1.1") (h "0iv62js6a778cvwh42rsiqpvgijc06gmwbahh39x4062m2kii5w1") (r "1.78")))
 
+(define-public crate-seminix-std-0.1.2 (c (n "seminix-std") (v "0.1.2") (h "0q4v696f43ja9i0phvw6i0bynihdhqxalzc51k29mxwwnsgssjsx") (r "1.80")))
+

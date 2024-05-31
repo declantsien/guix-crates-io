@@ -54,3 +54,5 @@
 
 (define-public crate-seminix-0.1.26 (c (n "seminix") (v "0.1.26") (d (list (d (n "aarch64_define") (r "^0.1") (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "const_sizes") (r "^0.1") (k 0)) (d (n "semx_bitops") (r "^0.1") (k 0)) (d (n "semx_bsp") (r "^0.1") (k 0)) (d (n "semx_entry") (r "^0.1") (k 0)) (d (n "task_define") (r "^0.1") (k 0)) (d (n "tock-registers") (r "^0.9") (d #t) (k 0)) (d (n "unsafe_list") (r "^0.1") (k 0)))) (h "1g1q3fn9rv6a1yiqvv2bw8a8ircy1sfvki5yx5f19ycd3jycpyqc") (r "1.80")))
 
+(define-public crate-seminix-0.1.27 (c (n "seminix") (v "0.1.27") (d (list (d (n "aarch64_define") (r "^0.1") (k 0)) (d (n "bitflags") (r "^2.4") (d #t) (k 0)) (d (n "cfg-if") (r "^1.0") (d #t) (k 0)) (d (n "const_sizes") (r "^0.1") (k 0)) (d (n "semx_bitops") (r "^0.1") (k 0)) (d (n "semx_bsp") (r "^0.1") (k 0)) (d (n "semx_entry") (r "^0.1") (k 0)) (d (n "task_define") (r "^0.1") (k 0)) (d (n "tock-registers") (r "^0.9") (d #t) (k 0)) (d (n "unsafe_list") (r "^0.1") (k 0)))) (h "0yg05mgmqr6n4fqbwpn27z1wvmydnjskf33xyw9zl40ixsqb7kkj") (r "1.80")))
+
