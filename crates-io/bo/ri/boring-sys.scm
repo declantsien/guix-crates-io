@@ -52,3 +52,5 @@
 
 (define-public crate-boring-sys-4.6.0 (c (n "boring-sys") (v "4.6.0") (d (list (d (n "bindgen") (r "^0.68.1") (f (quote ("runtime"))) (k 1)) (d (n "cmake") (r "^0.1.18") (d #t) (k 1)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 1)) (d (n "fslock") (r "^0.2") (d #t) (k 1)))) (h "05jaq9fsyjd16amczcl6anhlw3iyiyhwygzx5faq9skg06xr4kg5") (f (quote (("underscore-wildcards") ("rpk") ("pq-experimental") ("fips-link-precompiled") ("fips")))) (l "boringssl")))
 
+(define-public crate-boring-sys-4.7.0 (c (n "boring-sys") (v "4.7.0") (d (list (d (n "bindgen") (r "^0.68.1") (f (quote ("runtime"))) (k 1)) (d (n "cmake") (r "^0.1.18") (d #t) (k 1)) (d (n "fs_extra") (r "^1.3.0") (d #t) (k 1)) (d (n "fslock") (r "^0.2") (d #t) (k 1)))) (h "0720y8wf6v5kr4l9j4ayk5fwp3gnbwy26cifqxbg2rdx87h77mdi") (f (quote (("underscore-wildcards") ("rpk") ("pq-experimental") ("fips-link-precompiled") ("fips")))) (l "boringssl")))
+
