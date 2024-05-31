@@ -420,3 +420,5 @@
 
 (define-public crate-kurtosis-sdk-0.89.13 (c (n "kurtosis-sdk") (v "0.89.13") (d (list (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.9") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "19lcpab0q5bkafn8y5yffmj8fga4g1g22mn13qni91rvzx9z3cql")))
 
+(define-public crate-kurtosis-sdk-0.89.14 (c (n "kurtosis-sdk") (v "0.89.14") (d (list (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.9") (d #t) (k 0)) (d (n "tokio") (r "^1.28.2") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "1xyjbzkll0qhpmvmvkgwfwqv79flrhpckh8nfgy6iqk2xbsnq0y3")))
+

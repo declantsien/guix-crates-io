@@ -22,3 +22,5 @@
 
 (define-public crate-ahqstore-types-2.0.0 (c (n "ahqstore-types") (v "2.0.0") (d (list (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("json" "blocking"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0rmkkfq45id1qdzz5417n6hw0j4hdv2v893bf180qb11hgb78jmc") (f (quote (("default" "internet")))) (s 2) (e (quote (("internet" "dep:reqwest" "dep:lazy_static"))))))
 
+(define-public crate-ahqstore-types-2.0.1 (c (n "ahqstore-types") (v "2.0.1") (d (list (d (n "lazy_static") (r "^1.4.0") (o #t) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "blocking"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)))) (h "0l1ybkrbm4ys1c9s8ssbyl9713pwbni79d8igjwfsry4ysaakhp3") (f (quote (("default" "internet")))) (s 2) (e (quote (("internet" "dep:reqwest" "dep:lazy_static"))))))
+
