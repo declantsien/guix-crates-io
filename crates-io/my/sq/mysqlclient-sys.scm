@@ -20,3 +20,5 @@
 
 (define-public crate-mysqlclient-sys-0.3.0 (c (n "mysqlclient-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.69.4") (o #t) (d #t) (k 1)) (d (n "mysqlclient-src") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "vcpkg") (r "^0.2.4") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "0bdd29ivayjk254dc3g6n0vh26lv0653wl43714dyx39h0sc0ndx") (f (quote (("default")))) (l "mysqlclient") (s 2) (e (quote (("bundled" "dep:mysqlclient-src") ("buildtime_bindgen" "dep:bindgen"))))))
 
+(define-public crate-mysqlclient-sys-0.3.1 (c (n "mysqlclient-sys") (v "0.3.1") (d (list (d (n "bindgen") (r "^0.69.4") (o #t) (d #t) (k 1)) (d (n "mysqlclient-src") (r "^0.1.0") (o #t) (d #t) (k 0)) (d (n "pkg-config") (r "^0.3.9") (d #t) (k 1)) (d (n "vcpkg") (r "^0.2.4") (d #t) (t "cfg(target_env = \"msvc\")") (k 1)))) (h "164ba4hlgsfdzfql9x39swb1zjnr66wra5dxlv1xzpfpfcsrmlnr") (f (quote (("default")))) (l "mysqlclient") (s 2) (e (quote (("bundled" "dep:mysqlclient-src") ("buildtime_bindgen" "dep:bindgen"))))))
+

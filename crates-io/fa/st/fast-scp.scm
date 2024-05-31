@@ -10,3 +10,5 @@
 
 (define-public crate-fast-scp-0.1.3 (c (n "fast-scp") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "insta") (r "^1.38.0") (d #t) (k 0)) (d (n "ssh2") (r "^0.9.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1w065y8m91inzl1x0zxgnv5l177vmb346vgxznyd8fdpqa14xxx3")))
 
+(define-public crate-fast-scp-0.1.4 (c (n "fast-scp") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "insta") (r "^1.38.0") (d #t) (k 0)) (d (n "ssh2") (r "^0.9.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "17wbl6ax8zmbi42jn54a7cajxvjrxvjl6m87fq5g812wrsdya49g")))
+
