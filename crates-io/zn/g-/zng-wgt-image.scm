@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-image-0.3.3 (c (n "zng-wgt-image") (v "0.3.3") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-app") (r "^0.5.1") (d #t) (k 0)) (d (n "zng-ext-image") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-ext-window") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-access") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt-stack") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-window") (r "^0.4.1") (d #t) (k 0)))) (h "0myrf6nwb1vg29ym8jxna7lgfpz2pfs4x122nniyas9xsmng242m")))
 
+(define-public crate-zng-wgt-image-0.3.4 (c (n "zng-wgt-image") (v "0.3.4") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-image") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-ext-window") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-access") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-stack") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-window") (r "^0.4.2") (d #t) (k 0)))) (h "1kwpl6bgbn4bq20x7v5g2jj5cbabw9sdq8fbi0p25j4w5wj06f9k")))
+

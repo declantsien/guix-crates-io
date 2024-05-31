@@ -24,3 +24,5 @@
 
 (define-public crate-zng-wgt-ansi-text-0.3.3 (c (n "zng-wgt-ansi-text") (v "0.3.3") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-ext-font") (r "^0.3.9") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-fill") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt-filter") (r "^0.2.13") (d #t) (k 0)) (d (n "zng-wgt-scroll") (r "^0.4.3") (d #t) (k 0)) (d (n "zng-wgt-stack") (r "^0.3.3") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.3") (d #t) (k 0)))) (h "1cdp87vk7gqlnnbxd1bfy33dl2iyfrzlsz48w6jp4f3wdnsivnmp")))
 
+(define-public crate-zng-wgt-ansi-text-0.3.4 (c (n "zng-wgt-ansi-text") (v "0.3.4") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "zng-ext-font") (r "^0.3.10") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-fill") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-filter") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-scroll") (r "^0.4.4") (d #t) (k 0)) (d (n "zng-wgt-stack") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.4") (d #t) (k 0)))) (h "18zsmjkskhiwrn6ngcnjnplxiz7knl4w67xpqzjifppnfp4hv11x")))
+
