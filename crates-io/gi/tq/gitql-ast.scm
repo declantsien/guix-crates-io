@@ -36,3 +36,5 @@
 
 (define-public crate-gitql-ast-0.17.1 (c (n "gitql-ast") (v "0.17.1") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4"))) (d #t) (k 0)))) (h "17r2rg488js24mj391872fj7nk3iw2h3z6d34k2pyjbllym1akkd")))
 
+(define-public crate-gitql-ast-0.18.0 (c (n "gitql-ast") (v "0.18.0") (d (list (d (n "gitql-core") (r "^0.1.0") (d #t) (k 0)))) (h "1qkmxcvg6ab5lg0gzglw5vidpnqdpwkl7vgz8bfwhdhfpmg51vs8")))
+

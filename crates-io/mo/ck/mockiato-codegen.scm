@@ -42,3 +42,5 @@
 
 (define-public crate-mockiato-codegen-0.9.5 (c (n "mockiato-codegen") (v "0.9.5") (d (list (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2.3") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)))) (h "0jsr2ngj1vj0kk214bss7pblvck3f3lr43gbw3v9r6shgi0a23hx") (f (quote (("debug-impls" "syn/extra-traits"))))))
 
+(define-public crate-mockiato-codegen-0.9.6 (c (n "mockiato-codegen") (v "0.9.6") (d (list (d (n "heck") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (f (quote ("nightly"))) (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "syn") (r "^1.0") (f (quote ("full" "visit" "visit-mut"))) (d #t) (k 0)))) (h "0md9z88l6dv5f0rwn3h1p3lxwk53c7738a8f843qjvvahhxvqknj") (f (quote (("debug-impls" "syn/extra-traits"))))))
+

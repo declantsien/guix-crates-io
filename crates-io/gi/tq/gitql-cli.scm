@@ -40,3 +40,5 @@
 
 (define-public crate-gitql-cli-0.19.1 (c (n "gitql-cli") (v "0.19.1") (d (list (d (n "comfy-table") (r "^7.1.0") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.17.1") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.18.1") (d #t) (k 0)) (d (n "termcolor") (r "^1.4.1") (d #t) (k 0)))) (h "06sj4b29f58nbx1b1shrigw2s9y9aj8ahdsrqrczbmii1mycgx7s")))
 
+(define-public crate-gitql-cli-0.20.0 (c (n "gitql-cli") (v "0.20.0") (d (list (d (n "comfy-table") (r "^7.1.0") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-core") (r "^0.1.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.19.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.4.1") (d #t) (k 0)))) (h "0xyypdnyj76l28r68yhcywcmi042953xvzfsz7kbycrkkjs43ggx")))
+

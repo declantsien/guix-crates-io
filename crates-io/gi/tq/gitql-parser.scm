@@ -38,3 +38,5 @@
 
 (define-public crate-gitql-parser-0.18.1 (c (n "gitql-parser") (v "0.18.1") (d (list (d (n "gitql-ast") (r "^0.17.1") (d #t) (k 0)))) (h "0wi82c400187921rqyv34rzlq8xmzpmqyaa5i4kc9qh43ihpzdcl")))
 
+(define-public crate-gitql-parser-0.19.0 (c (n "gitql-parser") (v "0.19.0") (d (list (d (n "gitql-ast") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-core") (r "^0.1.0") (d #t) (k 0)))) (h "1ybhrs420bqkdgx7v2f7gywbfyyrl3hqws79p0264phz0yvkvs65")))
+

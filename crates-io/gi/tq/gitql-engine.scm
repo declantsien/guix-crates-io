@@ -40,3 +40,5 @@
 
 (define-public crate-gitql-engine-0.19.1 (c (n "gitql-engine") (v "0.19.1") (d (list (d (n "gitql-ast") (r "^0.17.1") (d #t) (k 0)) (d (n "gix") (r "^0.62.0") (f (quote ("blob-diff"))) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "09s0kc6z1mpi6228dzinc5vp5782jwqm113dghc12nzj0gsbmxjn")))
 
+(define-public crate-gitql-engine-0.20.0 (c (n "gitql-engine") (v "0.20.0") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-core") (r "^0.1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "01z9jbnbsh5nnjjlj1i6ixxg649n4x77c83l8h4z845hhya30wq3")))
+

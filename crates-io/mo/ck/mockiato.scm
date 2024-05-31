@@ -42,3 +42,5 @@
 
 (define-public crate-mockiato-0.9.5 (c (n "mockiato") (v "0.9.5") (d (list (d (n "mockiato-codegen") (r "^0.9.5") (d #t) (k 0)) (d (n "nameof") (r "^1.1.0") (d #t) (k 0)) (d (n "nearly_eq") (r "^0.2.4") (d #t) (k 0)) (d (n "rustc_version") (r "^0.2.3") (d #t) (k 1)))) (h "0g7qpk6mldrnik88zwwkz1yshx16csfwdk2sj6dph95zq7q89arj")))
 
+(define-public crate-mockiato-0.9.6 (c (n "mockiato") (v "0.9.6") (d (list (d (n "mockiato-codegen") (r "^0.9.5") (d #t) (k 0)) (d (n "nameof") (r "^1.1.0") (d #t) (k 0)) (d (n "nearly_eq") (r "^0.2.4") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)))) (h "1sp4a51f7a7ahhxpkb72v3hp7izi0z4v6ylrb7n57nfwp7gsklaq")))
+
