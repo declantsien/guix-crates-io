@@ -14,3 +14,5 @@
 
 (define-public crate-happylock-0.2.0 (c (n "happylock") (v "0.2.0") (d (list (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "spin") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "thread_local") (r "^1") (d #t) (k 0)))) (h "01gdqbxjhk6xa3rmb2ivjx77iz2m5lbddig25i4wzski56viby0k") (f (quote (("default" "parking_lot"))))))
 
+(define-public crate-happylock-0.3.0 (c (n "happylock") (v "0.3.0") (d (list (d (n "lock_api") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "spin") (r "^0.9") (o #t) (d #t) (k 0)) (d (n "thread_local") (r "^1") (d #t) (k 0)))) (h "1mmklxk8xnkfpa72vjvi73mxkzq13qxiwxn4dskxi9jqvn1awj8r") (f (quote (("default" "parking_lot")))) (r "1.65")))
+

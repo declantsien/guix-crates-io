@@ -48,3 +48,5 @@
 
 (define-public crate-net-reporter-api-0.7.3 (c (n "net-reporter-api") (v "0.7.3") (d (list (d (n "ion-rs") (r "^0.18.1") (d #t) (k 0)) (d (n "net-core-api") (r "^0.5.0") (d #t) (k 0)))) (h "0jsm23qw8b9ki4jji3bwzn1bbi2xdk98sf8dj2vyi1lzka1imvi0")))
 
+(define-public crate-net-reporter-api-0.7.4 (c (n "net-reporter-api") (v "0.7.4") (d (list (d (n "ion-rs") (r "^0.18.1") (d #t) (k 0)) (d (n "net-core-api") (r "^0.5.0") (d #t) (k 0)))) (h "0c8ayjb43yn2qfbbdd2bmabpcqlrf8ncl5yyd618phvbrsbb13lg")))
+
