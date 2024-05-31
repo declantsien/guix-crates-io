@@ -44,3 +44,5 @@
 
 (define-public crate-gitql-0.19.1 (c (n "gitql") (v "0.19.1") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.17.1") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.19.1") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.19.1") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.18.1") (d #t) (k 0)) (d (n "gix") (r "^0.62.0") (f (quote ("max-performance"))) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "12w1ardaw1gr64larzzwddc5ccspxqzn9j1v0gdzcrzyx52njv9g")))
 
+(define-public crate-gitql-0.20.0 (c (n "gitql") (v "0.20.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.20.0") (d #t) (k 0)) (d (n "gitql-core") (r "^0.1.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.20.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.19.0") (d #t) (k 0)) (d (n "gitql-std") (r "^0.1.0") (d #t) (k 0)) (d (n "gix") (r "^0.63.0") (f (quote ("blob-diff" "max-performance"))) (k 0)))) (h "0klmmkqmjd61x2vxpjxrsfqcxn4albx04arkkmjaw96b44br1f6r")))
+
