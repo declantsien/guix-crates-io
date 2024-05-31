@@ -18,3 +18,5 @@
 
 (define-public crate-hel-colored-0.5.1 (c (n "hel-colored") (v "0.5.1") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 2)))) (h "1dqz0mnmq7czc9d1b1zdbszvmd20dvgdgl7y8m2yk4qslvf3f2yc") (f (quote (("nested"))))))
 
+(define-public crate-hel-colored-0.6.0 (c (n "hel-colored") (v "0.6.0") (d (list (d (n "colored") (r "^2.0.0") (d #t) (k 2)))) (h "1iqnify26ihddv78n7zrvk9mr2gd19ln9p3y4whgrad3zxksg65w") (f (quote (("nested"))))))
+
