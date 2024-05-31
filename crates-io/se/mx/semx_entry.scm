@@ -22,3 +22,7 @@
 
 (define-public crate-semx_entry-0.1.11 (c (n "semx_entry") (v "0.1.11") (d (list (d (n "aarch64_define") (r "^0.1") (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "task_define") (r "^0.1") (k 1)))) (h "1zg2sqh6yd4pnlgzak9r3wxmf33nnfx0w5smjarmjms5b0yhl0xz") (r "1.78")))
 
+(define-public crate-semx_entry-0.1.12 (c (n "semx_entry") (v "0.1.12") (d (list (d (n "aarch64_define") (r "^0.1") (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "task_define") (r "^0.1") (k 1)))) (h "03ha57si7s7i1a437a77qmd3kavrryjn5jd6iiklrjm4gi6wjmpg") (r "1.80")))
+
+(define-public crate-semx_entry-0.1.13 (c (n "semx_entry") (v "0.1.13") (d (list (d (n "aarch64_define") (r "^0.1") (k 1)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "task_define") (r "^0.1") (k 1)))) (h "1k1k9r20g3wnvbd3v172020w6jjldjf21v6k8kn445m51mf6k6vi") (r "1.80")))
+

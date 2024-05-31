@@ -4,3 +4,9 @@
 
 (define-public crate-simplers-1.0.0 (c (n "simplers") (v "1.0.0") (h "06ibg2fzi8n3jisz1q9977jiqcbxqz2mzpzz5l965r0djykij2n1")))
 
+(define-public crate-simplers-1.0.1 (c (n "simplers") (v "1.0.1") (h "062svzqryp1fmnn47wayy53d8w6vgfzbys9cvjx1900qz1a82j0g")))
+
+(define-public crate-simplers-1.0.2 (c (n "simplers") (v "1.0.2") (h "0qx9xm93adjjcxnym704zsgsi4xf8ml05d798n61rax0632ydzpj")))
+
+(define-public crate-simplers-1.0.3 (c (n "simplers") (v "1.0.3") (h "1r4m9y4n8z0rn7w4zb7jbkp3lch5mrlfal59hx0pc22267568f5n")))
+

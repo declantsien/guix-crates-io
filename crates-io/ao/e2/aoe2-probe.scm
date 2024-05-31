@@ -50,3 +50,5 @@
 
 (define-public crate-aoe2-probe-0.3.1 (c (n "aoe2-probe") (v "0.3.1") (d (list (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.7.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.16") (d #t) (k 0)))) (h "13i984n2nk5sp2gpqsdnswmwvmj91fzaiazf20wwd00n9hxrk0sh")))
 
+(define-public crate-aoe2-probe-0.3.2 (c (n "aoe2-probe") (v "0.3.2") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "linked-hash-map") (r "^0.5.6") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1.19") (d #t) (k 0)))) (h "18jc9xm3c29g70msnqc1k3ny3a1miakxn2xhmslxin4y3xpzzyg6")))
+

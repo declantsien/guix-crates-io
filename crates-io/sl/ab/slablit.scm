@@ -6,3 +6,5 @@
 
 (define-public crate-slablit-0.3.0 (c (n "slablit") (v "0.3.0") (d (list (d (n "slab") (r "^0.4") (d #t) (k 0)))) (h "0w803hx32jbvpwqfl7vs06qi9mxs6xhavxmjnanh3lpbx63fkr8b")))
 
+(define-public crate-slablit-0.3.1 (c (n "slablit") (v "0.3.1") (d (list (d (n "slab") (r "^0.4") (d #t) (k 0)))) (h "0bnl22r3riig9fkp7lfi4g8ly9hzi0vbcv4xkfjch5nlv142mmc6")))
+
