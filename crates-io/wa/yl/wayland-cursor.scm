@@ -104,3 +104,5 @@
 
 (define-public crate-wayland-cursor-0.31.2 (c (n "wayland-cursor") (v "0.31.2") (d (list (d (n "rustix") (r "^0.38.15") (f (quote ("shm"))) (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.3") (d #t) (k 0)) (d (n "xcursor") (r "^0.3.1") (d #t) (k 0)))) (h "1pb72k93r93fkalqw06r3agf1b5g95cfafp0k7gjx3k25hmrxpg2") (r "1.65")))
 
+(define-public crate-wayland-cursor-0.31.3 (c (n "wayland-cursor") (v "0.31.3") (d (list (d (n "rustix") (r "^0.38.15") (f (quote ("shm"))) (d #t) (k 0)) (d (n "wayland-client") (r "^0.31.3") (d #t) (k 0)) (d (n "xcursor") (r "^0.3.1") (d #t) (k 0)))) (h "1fc7a4yp09xbq6zy47x85yg57kkqq8mwgzi8jk5ky79vnnrfh1m2") (r "1.65")))
+

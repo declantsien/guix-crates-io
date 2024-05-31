@@ -18,3 +18,5 @@
 
 (define-public crate-zng-state-map-0.3.0 (c (n "zng-state-map") (v "0.3.0") (d (list (d (n "bytemuck") (r "^1.15") (d #t) (k 0)) (d (n "pretty-type-name") (r "^1.0") (d #t) (k 0)) (d (n "zng-unique-id") (r "^0.4.0") (d #t) (k 0)))) (h "178ffpf0065nw28ragbhl4ghcnxcnm7pbxbz4v4w055sqs0nvn8n")))
 
+(define-public crate-zng-state-map-0.3.1 (c (n "zng-state-map") (v "0.3.1") (d (list (d (n "bytemuck") (r "^1.15") (d #t) (k 0)) (d (n "pretty-type-name") (r "^1.0") (d #t) (k 0)) (d (n "zng-unique-id") (r "^0.4.2") (d #t) (k 0)))) (h "1d8d8bc2fvyzc9bp7i5j5wqm7wkhn9fw1vcnfhm8582dvxdm5jwj")))
+

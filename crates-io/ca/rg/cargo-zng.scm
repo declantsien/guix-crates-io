@@ -1,0 +1,4 @@
+(define-module (crates-io ca rg cargo-zng) #:use-module (crates-io))
+
+(define-public crate-cargo-zng-0.1.1 (c (n "cargo-zng") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "color-print") (r "^0.3") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "fluent-pseudo") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "is_executable") (r "^1.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "rustc_lexer") (r "^0.1") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "walkdir") (r "^2.5") (d #t) (k 0)) (d (n "zng-env") (r "^0.1.1") (d #t) (k 0)))) (h "04wfy41xa3a2qi914z0593qpdc9ybnw5nab6x7cjll16pagdszd9")))
+
