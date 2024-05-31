@@ -6,3 +6,5 @@
 
 (define-public crate-qqx-0.0.3 (c (n "qqx") (v "0.0.3") (d (list (d (n "ctor") (r "^0.1.20") (d #t) (k 0)) (d (n "glium") (r "^0.30.1") (d #t) (k 0)) (d (n "qqx-macro") (r "^0.0.3") (d #t) (k 0)))) (h "1pn78r7v9pj3bvyabr6985na0amwv6270c3rawmw943zp0r98xih")))
 
+(define-public crate-qqx-0.0.4 (c (n "qqx") (v "0.0.4") (d (list (d (n "ctor") (r "^0.1.20") (d #t) (k 0)) (d (n "glium") (r "^0.30.1") (d #t) (k 0)) (d (n "qqx-macro") (r "^0.0.4") (d #t) (k 0)))) (h "0dm5qnafnn9lbvpqyjwaqswndgza6x84cjq8h6s7k76c9bbr5qx5")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-dowhatagain-0.1.2 (c (n "dowhatagain") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_builder") (r "^0.20.0") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "105cllvmx69pfnnb1r78ckwdwqqfs7j2mpxgd1iq306ff4426y4h")))
 
+(define-public crate-dowhatagain-0.1.3 (c (n "dowhatagain") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_builder") (r "^0.20.0") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "1nag2sdd83pz4iwshf6f2v6dx61fz0kh64gvp042sr2wqkyq16fy")))
+

@@ -4,3 +4,5 @@
 
 (define-public crate-sqlx-conditional-queries-layering-0.1.1 (c (n "sqlx-conditional-queries-layering") (v "0.1.1") (h "1qj9q05fjhz95i60f53lxvi5mkyv2jx1pk0l0rgkx3i8c9zvir87")))
 
+(define-public crate-sqlx-conditional-queries-layering-0.1.2 (c (n "sqlx-conditional-queries-layering") (v "0.1.2") (h "182px70aaqn2azymfg73x3lk1sfs7swszwn1r184yzr5l4yjh2rz")))
+
