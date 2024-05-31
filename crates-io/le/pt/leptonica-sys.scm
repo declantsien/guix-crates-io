@@ -34,3 +34,5 @@
 
 (define-public crate-leptonica-sys-0.4.7 (c (n "leptonica-sys") (v "0.4.7") (d (list (d (n "bindgen") (r "^0.64.0") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.25") (d #t) (t "cfg(any(target_os=\"macos\", target_os=\"linux\", target_os=\"freebsd\"))") (k 1)) (d (n "vcpkg") (r "^0.2.15") (d #t) (t "cfg(windows)") (k 1)))) (h "1zsbszk42f5y8p69ps25v9r3m0pfwq69hsjrsmi3sjcdzbassnik") (l "lept")))
 
+(define-public crate-leptonica-sys-0.4.8 (c (n "leptonica-sys") (v "0.4.8") (d (list (d (n "bindgen") (r "^0.64.0") (d #t) (k 1)) (d (n "pkg-config") (r "^0.3.25") (d #t) (t "cfg(any(target_os=\"macos\", target_os=\"linux\", target_os=\"freebsd\"))") (k 1)) (d (n "vcpkg") (r "^0.2.15") (d #t) (t "cfg(windows)") (k 1)))) (h "12i3a9pbscjcg7v4xm1vni7q97wkq5gxmpchjf5q6wywz9wlg4hw") (l "lept")))
+
