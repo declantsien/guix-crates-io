@@ -36,3 +36,5 @@
 
 (define-public crate-dynamic-graphql-0.8.1 (c (n "dynamic-graphql") (v "0.8.1") (d (list (d (n "async-graphql") (r "^6") (f (quote ("dynamic-schema"))) (d #t) (k 0)) (d (n "dynamic-graphql-derive") (r "^0.8.1") (d #t) (k 0)) (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "graphql-parser") (r "^0.4") (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0zqv7ba0g35f20ficg5jjmqyh6bsc8v1r35ggwm73cnp8xw83chf")))
 
+(define-public crate-dynamic-graphql-0.9.0 (c (n "dynamic-graphql") (v "0.9.0") (d (list (d (n "async-graphql") (r "^7.0.5") (f (quote ("dynamic-schema"))) (d #t) (k 0)) (d (n "dynamic-graphql-derive") (r "^0.9.0") (d #t) (k 0)) (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "graphql-parser") (r "^0.4") (d #t) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "09190xijsa6mvfm1sx11gxycigiqkj56mpvzj5kdd57w4d7ll47x")))
+
