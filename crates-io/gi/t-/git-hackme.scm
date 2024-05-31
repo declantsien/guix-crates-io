@@ -1,0 +1,4 @@
+(define-module (crates-io gi t- git-hackme) #:use-module (crates-io))
+
+(define-public crate-git-hackme-1.0.0-beta.3 (c (n "git-hackme") (v "1.0.0-beta.3") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "bip39-lexical-data") (r "^1") (d #t) (k 0)) (d (n "directories") (r "^5") (d #t) (k 0)) (d (n "netdev") (r "^0.25") (d #t) (t "cfg(any(target_os = \"macos\", target_os = \"ios\", unix))") (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tinytemplate") (r "^1.2") (d #t) (k 0)) (d (n "ureq") (r "^2") (k 0)) (d (n "url") (r "^2") (d #t) (k 0)) (d (n "which") (r "^6") (d #t) (k 0)) (d (n "whoami") (r "^1.5") (d #t) (k 0)))) (h "04gky36bjbmc97npjph6209xzq4m28p59mp7450rxhvil7pzwl1j") (r "1.78")))
+

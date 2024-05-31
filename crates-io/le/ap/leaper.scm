@@ -8,3 +8,5 @@
 
 (define-public crate-leaper-0.1.3 (c (n "leaper") (v "0.1.3") (h "1d3qf9zzn8840zh3zcmijns2vqj396b97gx34w5cyb40af1ihaql")))
 
+(define-public crate-leaper-0.2.0 (c (n "leaper") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)))) (h "1yv6rgfy01d331ybjr5nwkbhxa494wgmrhsf5p7pqb2iazv4ph7w")))
+
