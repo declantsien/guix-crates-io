@@ -10,3 +10,5 @@
 
 (define-public crate-biosvg-0.1.4 (c (n "biosvg") (v "0.1.4") (d (list (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0xk2imdms3wzjfrq2hgi8kc0cb4pgk1q0n356v450vf00mn8rvcp")))
 
+(define-public crate-biosvg-0.1.5 (c (n "biosvg") (v "0.1.5") (d (list (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0igh2jrq3rcvxw9131616dlixfsfqnkqq1r9ivhxwbhxwsism7n1")))
+

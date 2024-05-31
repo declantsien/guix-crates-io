@@ -12,3 +12,5 @@
 
 (define-public crate-ethereum_ssz-0.5.3 (c (n "ethereum_ssz") (v "0.5.3") (d (list (d (n "ethereum-types") (r "^0.14.1") (d #t) (k 0)) (d (n "ethereum_ssz_derive") (r "^0.5.3") (d #t) (k 2)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "smallvec") (r "^1.6.1") (f (quote ("const_generics"))) (d #t) (k 0)))) (h "1jqgm3vgxaixbrg5zskr074gpm1vipn852hj6nfj9s16kyigw7z6") (f (quote (("arbitrary" "ethereum-types/arbitrary"))))))
 
+(define-public crate-ethereum_ssz-0.5.4 (c (n "ethereum_ssz") (v "0.5.4") (d (list (d (n "ethereum-types") (r "^0.14.1") (d #t) (k 0)) (d (n "ethereum_ssz_derive") (r "^0.5.4") (d #t) (k 2)) (d (n "itertools") (r "^0.10.3") (d #t) (k 0)) (d (n "smallvec") (r "^1.6.1") (f (quote ("const_generics"))) (d #t) (k 0)))) (h "09clxjnq100z6w7w98j1l4i0f9k58m5r7ngsllrb91wb7pw2fdkx") (f (quote (("arbitrary" "ethereum-types/arbitrary"))))))
+

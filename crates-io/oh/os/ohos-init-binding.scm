@@ -4,3 +4,5 @@
 
 (define-public crate-ohos-init-binding-0.0.2 (c (n "ohos-init-binding") (v "0.0.2") (h "1d7fhxg4vz3s75iwbfjaw02v4rfxry51hszh9i529lq86rzlda0k")))
 
+(define-public crate-ohos-init-binding-0.0.3 (c (n "ohos-init-binding") (v "0.0.3") (d (list (d (n "ohos-init-sys") (r "^0.0.1") (d #t) (k 0)))) (h "0lpk1m72qk2rr5dsmmrsisfpyxvs2i21q2r0s92hzpkknz9axh36")))
+
