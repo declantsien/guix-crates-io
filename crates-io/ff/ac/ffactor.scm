@@ -6,3 +6,5 @@
 
 (define-public crate-ffactor-0.1.2 (c (n "ffactor") (v "0.1.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)))) (h "0d3dazd7nsrxa5kcw7mv4g8w37p6cnwn81cvgr7jn0hqmmdrjdbf")))
 
+(define-public crate-ffactor-0.1.3 (c (n "ffactor") (v "0.1.3") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)))) (h "0lm6s5z0p2gpa951snj3cdcsbr8xqshf2w85ahy1afwksbkapkcl")))
+
