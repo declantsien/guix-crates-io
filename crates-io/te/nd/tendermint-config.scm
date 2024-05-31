@@ -66,3 +66,5 @@
 
 (define-public crate-tendermint-config-0.36.0 (c (n "tendermint-config") (v "0.36.0") (d (list (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tendermint") (r "^0.36.0") (f (quote ("rust-crypto"))) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "03g93xvagzxi4la8dpfqcdkfm9mbzprh7dng0knbn3kqr0ykhyz0") (f (quote (("secp256k1" "tendermint/secp256k1"))))))
 
+(define-public crate-tendermint-config-0.37.0 (c (n "tendermint-config") (v "0.37.0") (d (list (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "tendermint") (r "^0.37.0") (f (quote ("rust-crypto"))) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)))) (h "17xqbcjkas8607kyb7ya6vf0lljwbzwaybs5l6949vi0gnsi2jzq") (f (quote (("secp256k1" "tendermint/secp256k1"))))))
+

@@ -64,3 +64,5 @@
 
 (define-public crate-novax-request-0.1.7-beta.0 (c (n "novax-request") (v "0.1.7-beta.0") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)))) (h "01mhrkdf43z6c7d09vx8gcf8ky3cagnhri4hhfsh52i8j22xcysl")))
 
+(define-public crate-novax-request-0.1.7-beta.1 (c (n "novax-request") (v "0.1.7-beta.1") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)))) (h "1nfs3a4p7hfxi4g3x8cpk1c6qv3krzkiwhrpk0zdjpdvy01n8mbs")))
+

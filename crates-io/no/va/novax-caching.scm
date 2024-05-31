@@ -64,3 +64,5 @@
 
 (define-public crate-novax-caching-0.1.7-beta.0 (c (n "novax-caching") (v "0.1.7-beta.0") (d (list (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "novax") (r "^0.1.7-beta.0") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.180") (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)))) (h "1ciy3jkf845pbvsam6d6qpbmjmhzdy50q5wshlnrg482sg4sm2wh")))
 
+(define-public crate-novax-caching-0.1.7-beta.1 (c (n "novax-caching") (v "0.1.7-beta.1") (d (list (d (n "async-trait") (r "^0.1.72") (d #t) (k 0)) (d (n "novax") (r "^0.1.7-beta.1") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.180") (d #t) (k 0)) (d (n "thread_local") (r "^1.1.7") (d #t) (k 2)) (d (n "tokio") (r "^1.29.1") (d #t) (k 0)))) (h "0cw6j78adsgdi8ysxdp6aza6ywcq8dwlpz5f16qnfchxr957hjny")))
+

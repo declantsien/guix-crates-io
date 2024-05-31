@@ -68,3 +68,5 @@
 
 (define-public crate-tendermint-std-ext-0.36.0 (c (n "tendermint-std-ext") (v "0.36.0") (h "05gcmkaa3y6pbir5026v710dqsbyjz6ji28vgm2xs48z10cyr8da")))
 
+(define-public crate-tendermint-std-ext-0.37.0 (c (n "tendermint-std-ext") (v "0.37.0") (h "15hagr2ivg6pfdfkmwxbjfa0yxpkij429fsg2cyrhzdg5l3i4m4m")))
+

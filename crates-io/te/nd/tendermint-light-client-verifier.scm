@@ -56,3 +56,5 @@
 
 (define-public crate-tendermint-light-client-verifier-0.36.0 (c (n "tendermint-light-client-verifier") (v "0.36.0") (d (list (d (n "derive_more") (r "^0.99.5") (f (quote ("display"))) (k 0)) (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "serde") (r "^1.0.106") (k 0)) (d (n "sha2") (r "^0.10") (k 2)) (d (n "tendermint") (r "^0.36.0") (k 0)) (d (n "time") (r "^0.3") (k 0)))) (h "0p1r34m2szyd19lnrdqyhvg5nv7hsnhflllryxxbspay2s3y85j2") (f (quote (("rust-crypto" "tendermint/rust-crypto") ("default" "rust-crypto" "flex-error/std"))))))
 
+(define-public crate-tendermint-light-client-verifier-0.37.0 (c (n "tendermint-light-client-verifier") (v "0.37.0") (d (list (d (n "derive_more") (r "^0.99.5") (f (quote ("display"))) (k 0)) (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "serde") (r "^1.0.106") (k 0)) (d (n "sha2") (r "^0.10") (k 2)) (d (n "tendermint") (r "^0.37.0") (k 0)) (d (n "time") (r "^0.3") (k 0)))) (h "0znm15ppzyqzwkhwa8ivk74124ayhgqh06nb4zp0jajhyh6hjj1q") (f (quote (("rust-crypto" "tendermint/rust-crypto") ("default" "rust-crypto" "flex-error/std"))))))
+

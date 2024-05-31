@@ -74,3 +74,5 @@
 
 (define-public crate-tendermint-abci-0.36.0 (c (n "tendermint-abci") (v "0.36.0") (d (list (d (n "bytes") (r "^1.0") (k 0)) (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "prost") (r "^0.12") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)) (d (n "tendermint-proto") (r "^0.36.0") (k 0)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "tracing-subscriber") (r "^0.3") (o #t) (k 0)))) (h "05c5fnnzk06i8xvh4bxcdalkh04vlnpd9rygg4mi2qngn65xmnyl") (f (quote (("kvstore-app") ("echo-app") ("default" "flex-error/std") ("client") ("binary" "structopt" "tracing-subscriber/fmt"))))))
 
+(define-public crate-tendermint-abci-0.37.0 (c (n "tendermint-abci") (v "0.37.0") (d (list (d (n "bytes") (r "^1.0") (k 0)) (d (n "flex-error") (r "^0.4.4") (k 0)) (d (n "prost") (r "^0.12") (k 0)) (d (n "structopt") (r "^0.3") (o #t) (k 0)) (d (n "tendermint-proto") (r "^0.37.0") (k 0)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "tracing-subscriber") (r "^0.3") (o #t) (k 0)))) (h "1457k5j6z2p99znahrscdpa4yx1wwskjdj203kdbqh1dsn6gpnn4") (f (quote (("kvstore-app") ("echo-app") ("default" "flex-error/std") ("client") ("binary" "structopt" "tracing-subscriber/fmt"))))))
+
