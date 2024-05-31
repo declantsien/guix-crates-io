@@ -30,3 +30,5 @@
 
 (define-public crate-chewing-0.8.3 (c (n "chewing") (v "0.8.3") (d (list (d (n "der") (r "^0.7.7") (f (quote ("std"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rusqlite") (r ">=0.28.0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r ">=0.28.0") (f (quote ("bundled"))) (o #t) (d #t) (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)))) (h "01gbkvx1bvgs6xmd6kkixp9dxyybc3kqc9bv5jgrqynq4i6q4s4c") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite")))) (r "1.70")))
 
+(define-public crate-chewing-0.8.4 (c (n "chewing") (v "0.8.4") (d (list (d (n "der") (r "^0.7.7") (f (quote ("std"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rusqlite") (r ">=0.28.0") (o #t) (d #t) (k 0)) (d (n "rusqlite") (r ">=0.28.0") (f (quote ("bundled"))) (o #t) (d #t) (t "cfg(windows)") (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)))) (h "1q9ar0ly6askwvg2wiqwx0agc1xrpvnqdqg6j7hb0aci7sfqhwr1") (f (quote (("default")))) (s 2) (e (quote (("sqlite" "dep:rusqlite")))) (r "1.70")))
+

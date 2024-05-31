@@ -16,3 +16,5 @@
 
 (define-public crate-chewing_capi-0.8.3 (c (n "chewing_capi") (v "0.8.3") (d (list (d (n "chewing") (r "^0.8.3") (d #t) (k 0)) (d (n "env_logger") (r ">=0.10.2") (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)))) (h "1lbcws6vk0b7zlf5a5qkbkzbgdrfgq3g0jw32692sfz2vzx7y989") (f (quote (("sqlite" "chewing/sqlite")))) (r "1.70")))
 
+(define-public crate-chewing_capi-0.8.4 (c (n "chewing_capi") (v "0.8.4") (d (list (d (n "chewing") (r "^0.8.4") (d #t) (k 0)) (d (n "env_logger") (r ">=0.10.2") (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)))) (h "02rdmswhfaj0pp5kkyc2dxg0pyx27yx608hv3987ipy75afd5nlz") (f (quote (("sqlite" "chewing/sqlite")))) (r "1.70")))
+

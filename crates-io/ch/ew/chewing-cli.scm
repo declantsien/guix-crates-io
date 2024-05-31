@@ -20,3 +20,5 @@
 
 (define-public crate-chewing-cli-0.8.3 (c (n "chewing-cli") (v "0.8.3") (d (list (d (n "anyhow") (r "^1.0.0") (d #t) (k 0)) (d (n "chewing") (r "^0.8.3") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.2.12") (o #t) (d #t) (k 0)))) (h "0qj5ykj3vmdxw2kpm1i2z6rsk3lvlvwb44xifc77i3j776mirmp2") (s 2) (e (quote (("mangen" "dep:clap_mangen"))))))
 
+(define-public crate-chewing-cli-0.8.4 (c (n "chewing-cli") (v "0.8.4") (d (list (d (n "anyhow") (r "^1.0.0") (d #t) (k 0)) (d (n "chewing") (r "^0.8.4") (f (quote ("sqlite"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_mangen") (r "^0.2.12") (o #t) (d #t) (k 0)))) (h "0p6fsz8xm9nr81574i55g2ddsy4kgbzhcnbrhcwrflarqw0fwgh1") (s 2) (e (quote (("mangen" "dep:clap_mangen"))))))
+
