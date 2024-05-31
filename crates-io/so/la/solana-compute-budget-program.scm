@@ -420,3 +420,5 @@
 
 (define-public crate-solana-compute-budget-program-1.17.34 (c (n "solana-compute-budget-program") (v "1.17.34") (d (list (d (n "solana-program-runtime") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "0yg0fib8fmbkqxmnbw27bjg7dj9nicplpccdw5h4gp6z0qisj0w7")))
 
+(define-public crate-solana-compute-budget-program-1.18.15 (c (n "solana-compute-budget-program") (v "1.18.15") (d (list (d (n "solana-program-runtime") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "1sw0hhv9axkswi3a2ki27fmfr1f4jsvipq8yqr2lqlv72zdfdvyz")))
+

@@ -868,3 +868,5 @@
 
 (define-public crate-solana-merkle-tree-1.17.34 (c (n "solana-merkle-tree") (v "1.17.34") (d (list (d (n "fast-math") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "solana-program") (r "=1.17.34") (d #t) (k 0)))) (h "0yigz2adv7p0c7fydpg8qsnw1qgf1a4lnw6fznyfyma4ad6m20lw")))
 
+(define-public crate-solana-merkle-tree-1.18.15 (c (n "solana-merkle-tree") (v "1.18.15") (d (list (d (n "fast-math") (r "^0.1") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "solana-program") (r "=1.18.15") (d #t) (k 0)))) (h "1cahi15ylbfqxh5kvwqqwbyyaqzrdif5w3l1fw068hvc0ma0s79d")))
+

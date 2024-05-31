@@ -856,3 +856,5 @@
 
 (define-public crate-solana-sdk-macro-1.17.34 (c (n "solana-sdk-macro") (v "1.17.34") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "07sil5k9fb3p7i7nb7gvwbr4va8gad2jrsyz4fdz01vcgycwq6c0")))
 
+(define-public crate-solana-sdk-macro-1.18.15 (c (n "solana-sdk-macro") (v "1.18.15") (d (list (d (n "bs58") (r "^0.4.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.14") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1zzh3lgcldynpc8in4qadmxqxf63n9q9al58li9bzl82j2j2xvwm")))
+

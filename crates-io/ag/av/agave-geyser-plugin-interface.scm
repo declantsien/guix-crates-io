@@ -42,3 +42,5 @@
 
 (define-public crate-agave-geyser-plugin-interface-1.17.34 (c (n "agave-geyser-plugin-interface") (v "1.17.34") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-transaction-status") (r "=1.17.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "0dj6jisi3ndw3y7mr18qdilwdl27wy44wps8lazpjvd3vcig8vfy")))
 
+(define-public crate-agave-geyser-plugin-interface-1.18.15 (c (n "agave-geyser-plugin-interface") (v "1.18.15") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-transaction-status") (r "=1.18.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "0c9yhrzy5dh56yxx7hi4ry9p1fwiad1ak38qp6qlwpdr6xrg4vgf")))
+

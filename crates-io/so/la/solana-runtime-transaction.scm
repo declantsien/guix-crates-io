@@ -32,3 +32,5 @@
 
 (define-public crate-solana-runtime-transaction-1.18.14 (c (n "solana-runtime-transaction") (v "1.18.14") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "solana-program") (r "=1.18.14") (d #t) (k 2)) (d (n "solana-program-runtime") (r "=1.18.14") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.14") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1lddaqhk6vwpbjzpaiw5jncmbz85ng692hbw6sp5bn0b5pj5mpll")))
 
+(define-public crate-solana-runtime-transaction-1.18.15 (c (n "solana-runtime-transaction") (v "1.18.15") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "solana-program") (r "=1.18.15") (d #t) (k 2)) (d (n "solana-program-runtime") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)))) (h "1jnsss68krwjm8jlzi968g3yrvj7qc4banxxmcynnmk3lrhxbw1y")))
+

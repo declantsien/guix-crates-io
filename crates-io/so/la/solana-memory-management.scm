@@ -160,3 +160,5 @@
 
 (define-public crate-solana-memory-management-1.17.34 (c (n "solana-memory-management") (v "1.17.34") (h "07h5ncgfa4nh4c6cl3za0kwrap1gy829g3x47jh1r5bwbsibawxx")))
 
+(define-public crate-solana-memory-management-1.18.15 (c (n "solana-memory-management") (v "1.18.15") (h "0prhlvf844cabs32jn0n7h0vhf0yl0786j99n1b1015xb0f490nd")))
+

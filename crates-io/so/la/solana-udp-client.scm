@@ -158,3 +158,5 @@
 
 (define-public crate-solana-udp-client-1.17.34 (c (n "solana-udp-client") (v "1.17.34") (d (list (d (n "async-trait") (r "^0.1.73") (d #t) (k 0)) (d (n "solana-connection-cache") (r "=1.17.34") (k 0)) (d (n "solana-net-utils") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-streamer") (r "=1.17.34") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0l3yl5s6p1h1kqaiqpixdslwhwig5bc7swic99dsrzrmnd6b15w2")))
 
+(define-public crate-solana-udp-client-1.18.15 (c (n "solana-udp-client") (v "1.18.15") (d (list (d (n "async-trait") (r "^0.1.77") (d #t) (k 0)) (d (n "solana-connection-cache") (r "=1.18.15") (k 0)) (d (n "solana-net-utils") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-streamer") (r "=1.18.15") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.56") (d #t) (k 0)) (d (n "tokio") (r "^1.29.1") (f (quote ("full"))) (d #t) (k 0)))) (h "0x1b822m9wcq7m9nk8lmy5iphmn8mjp95i3w6b1y92aihq1wwq0i")))
+

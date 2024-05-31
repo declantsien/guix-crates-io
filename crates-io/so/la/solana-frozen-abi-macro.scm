@@ -610,3 +610,5 @@
 
 (define-public crate-solana-frozen-abi-macro-1.17.34 (c (n "solana-frozen-abi-macro") (v "1.17.34") (d (list (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "05l61b7zag08lqixd0ajjwzb2dwpnkfvhgjb606c26nnbzff3r7z")))
 
+(define-public crate-solana-frozen-abi-macro-1.18.15 (c (n "solana-frozen-abi-macro") (v "1.18.15") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits" "visit-mut"))) (d #t) (k 0)))) (h "1jfnq0rhkb9jib7q7792w0al761fqv8wzicvys9pi1xqp4kqpmdy")))
+

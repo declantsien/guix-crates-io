@@ -150,3 +150,5 @@
 
 (define-public crate-solana-loader-v4-program-1.17.34 (c (n "solana-loader-v4-program") (v "1.17.34") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-measure") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-program-runtime") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)) (d (n "solana_rbpf") (r "=0.8.0") (d #t) (k 0)))) (h "18igi50h0kjs6lb8glj30jv34rmk2fvf82lwq4fpsvky0c0m80xd")))
 
+(define-public crate-solana-loader-v4-program-1.18.15 (c (n "solana-loader-v4-program") (v "1.18.15") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 2)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-measure") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-program-runtime") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "solana_rbpf") (r "=0.8.0") (d #t) (k 0)))) (h "18lqij5zhhhw344r7qd4mva4gqh6vcis94gif0b9h8zkm2hvk6g9")))
+

@@ -152,3 +152,5 @@
 
 (define-public crate-solana-system-program-1.17.34 (c (n "solana-system-program") (v "1.17.34") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "solana-logger") (r "=1.17.34") (d #t) (k 2)) (d (n "solana-program-runtime") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "0hyas6i9difix05m8x3n5ac18a5yh3bl9khls5f9jzw164kndym4")))
 
+(define-public crate-solana-system-program-1.18.15 (c (n "solana-system-program") (v "1.18.15") (d (list (d (n "assert_matches") (r "^1.5.0") (d #t) (k 2)) (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "solana-logger") (r "=1.18.15") (d #t) (k 2)) (d (n "solana-program-runtime") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "0r45y4px53md3vkia9nh8cbp17w5cw101gkxnjm9d9fqxxrd4yyd")))
+

@@ -720,3 +720,5 @@
 
 (define-public crate-solana-version-1.17.34 (c (n "solana-version") (v "1.17.34") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "semver") (r "^1.0.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "solana-frozen-abi") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-frozen-abi-macro") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "0yybhddsrb6nmqr4kjvrcwk2rvy66fqqflxcc2lzmszyyfgryjpq") (f (quote (("dummy-for-ci-check"))))))
 
+(define-public crate-solana-version-1.18.15 (c (n "solana-version") (v "1.18.15") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 1)) (d (n "semver") (r "^1.0.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "solana-frozen-abi") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-frozen-abi-macro") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "0wc10nb3rkl2zj8gw7rcmri7isp3q32w2bwffw1l2cwsa6dl89gv") (f (quote (("dummy-for-ci-check"))))))
+

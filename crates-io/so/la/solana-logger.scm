@@ -926,3 +926,5 @@
 
 (define-public crate-solana-logger-1.17.34 (c (n "solana-logger") (v "1.17.34") (d (list (d (n "env_logger") (r "^0.9.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "137alxfd1ql6zj1xnwz5gnx96b5xns80ns35rkcycg96ya0z5d34")))
 
+(define-public crate-solana-logger-1.18.15 (c (n "solana-logger") (v "1.18.15") (d (list (d (n "env_logger") (r "^0.9.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "0czqpm0pnv6drf70fs9z1pgh5w7s4588xpsacgwyv0p53bvdmqmy")))
+

@@ -718,3 +718,5 @@
 
 (define-public crate-solana-notifier-1.17.34 (c (n "solana-notifier") (v "1.17.34") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.20") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "0xllczb5mb10r8rpi1zb991dgbjknk1fhxcm0nr1flmn8yg6hhf5")))
 
+(define-public crate-solana-notifier-1.18.15 (c (n "solana-notifier") (v "1.18.15") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.23") (f (quote ("blocking" "brotli" "deflate" "gzip" "rustls-tls" "json"))) (k 0)) (d (n "serde_json") (r "^1.0.111") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "1akjq9fb8h2d008abpfbdynxxxnvvj1vypxgrx4c4mvmlhn9c35n")))
+

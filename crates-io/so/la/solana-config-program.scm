@@ -856,3 +856,5 @@
 
 (define-public crate-solana-config-program-1.17.34 (c (n "solana-config-program") (v "1.17.34") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (f (quote ("default" "serde"))) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "solana-logger") (r "=1.17.34") (d #t) (k 2)) (d (n "solana-program-runtime") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "0h7l3pk3ssd3pf02mjwc5lsz49763wxi927cfy1dbfirl2mjvz8n")))
 
+(define-public crate-solana-config-program-1.18.15 (c (n "solana-config-program") (v "1.18.15") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "chrono") (r "^0.4.31") (f (quote ("default" "serde"))) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "solana-logger") (r "=1.18.15") (d #t) (k 2)) (d (n "solana-program-runtime") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "1srxdcpwxi2i8k00z70bk0n3sgl9zpmj7vyklc62gi51w9pvl410")))
+

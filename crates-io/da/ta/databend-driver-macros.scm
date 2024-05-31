@@ -92,3 +92,5 @@
 
 (define-public crate-databend-driver-macros-0.18.2 (c (n "databend-driver-macros") (v "0.18.2") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "06wfr8m0y6lmifcjc82lk07jn8y78crwx5cy3cii2ccasvdnd4q5")))
 
+(define-public crate-databend-driver-macros-0.18.3 (c (n "databend-driver-macros") (v "0.18.3") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "1kfz712w6x2k3gh3czg3mm6dnjjqrf9xbpwnl401kylwcdrwx6l1")))
+

@@ -822,3 +822,5 @@
 
 (define-public crate-solana-cli-config-1.17.34 (c (n "solana-cli-config") (v "1.17.34") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 2)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.188") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "solana-clap-utils") (r "=1.17.34") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "1a09fikvwvjrc4q2plim1s3n11q2h656hnhdqjz2qmppc2qrji4i")))
 
+(define-public crate-solana-cli-config-1.18.15 (c (n "solana-cli-config") (v "1.18.15") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "dirs-next") (r "^2.0.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.103") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.30") (d #t) (k 0)) (d (n "solana-clap-utils") (r "=1.18.15") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "17v0kync2j1l601sn22fndwljzqrmq2bjl92m1jnqmch62svwa12")))
+

@@ -856,3 +856,5 @@
 
 (define-public crate-solana-measure-1.17.34 (c (n "solana-measure") (v "1.17.34") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)))) (h "1sls8f79x1skn7ng1iswwy5zj7sw9x1077xzmsla7dih2acfv8qq")))
 
+(define-public crate-solana-measure-1.18.15 (c (n "solana-measure") (v "1.18.15") (d (list (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)))) (h "09w590x80vcap1rdbkqprjj4439li2v061g8pzlgjb5qhkri518l")))
+

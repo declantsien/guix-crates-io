@@ -32,3 +32,5 @@
 
 (define-public crate-solana-unified-scheduler-logic-1.18.14 (c (n "solana-unified-scheduler-logic") (v "1.18.14") (h "0ddaq2iygy9i9ihvkhs5z7yf2i59d8h1h3hcmffaa86y94bfwaf4")))
 
+(define-public crate-solana-unified-scheduler-logic-1.18.15 (c (n "solana-unified-scheduler-logic") (v "1.18.15") (h "13hcrpyk4dcxaxppw0zk88lx0wkpqfd4ywf15wlyv1dyqs3fgbi7")))
+

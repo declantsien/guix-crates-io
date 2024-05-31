@@ -876,3 +876,5 @@
 
 (define-public crate-solana-rayon-threadlimit-1.17.34 (c (n "solana-rayon-threadlimit") (v "1.17.34") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)))) (h "080s07pz7h8xrv9qn4776q1q02br19g30rbagy84zsgqgb1amw4d")))
 
+(define-public crate-solana-rayon-threadlimit-1.18.15 (c (n "solana-rayon-threadlimit") (v "1.18.15") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 0)))) (h "0s3f0ykyn58rmshr8izhski415azd5bwffg1jrrf7cdnwllckj81")))
+

@@ -636,3 +636,5 @@
 
 (define-public crate-solana-banks-interface-1.17.34 (c (n "solana-banks-interface") (v "1.17.34") (d (list (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solana-sdk") (r "=1.17.34") (d #t) (k 0)) (d (n "tarpc") (r "^0.29.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1abif715kvlzq95i7lp3059h3xhnmpfdy9k3hb6796lh8f9r66x6")))
 
+(define-public crate-solana-banks-interface-1.18.15 (c (n "solana-banks-interface") (v "1.18.15") (d (list (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "solana-sdk") (r "=1.18.15") (d #t) (k 0)) (d (n "tarpc") (r "^0.29.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1bbkwv19vmys8gxrwn9yljy1c93y1w28iniqp16wg44m92yyrnj7")))
+
