@@ -160,3 +160,5 @@
 
 (define-public crate-capnp-rpc-0.19.1 (c (n "capnp-rpc") (v "0.19.1") (d (list (d (n "capnp") (r "^0.19.0") (d #t) (k 0)) (d (n "capnp-futures") (r "^0.19.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.0") (f (quote ("std"))) (k 0)))) (h "1qpnh33441vhpp625ih43dvv7bpqm7ifigw65qw6pp7vg2vglz18")))
 
+(define-public crate-capnp-rpc-0.19.2 (c (n "capnp-rpc") (v "0.19.2") (d (list (d (n "capnp") (r "^0.19.0") (d #t) (k 0)) (d (n "capnp-futures") (r "^0.19.0") (d #t) (k 0)) (d (n "futures") (r "^0.3.0") (f (quote ("std"))) (k 0)))) (h "0zk1cmx2zj4cy4jp0xqjh1n6njbpkqr5syl9qlbglrj58pwr5dhk")))
+

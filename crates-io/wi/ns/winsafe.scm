@@ -40,3 +40,5 @@
 
 (define-public crate-winsafe-0.0.20 (c (n "winsafe") (v "0.0.20") (h "1wgp068a2klc5h4k02r54cjc3yhnv71wq4wbp2aa41g41ci6j0x4") (f (quote (("version" "kernel") ("uxtheme" "gdi" "ole") ("user" "kernel") ("taskschd" "oleaut") ("shell" "oleaut") ("oleaut" "ole") ("ole" "user") ("mf" "oleaut") ("kernel") ("gui" "comctl" "shell" "uxtheme") ("gdi" "user") ("dxgi" "ole") ("dwm" "uxtheme") ("dshow" "oleaut") ("comctl" "ole"))))))
 
+(define-public crate-winsafe-0.0.21 (c (n "winsafe") (v "0.0.21") (h "0x026b88d561x28ayqlw5688p7hv93zga6blh52xryprfrqzljlw") (f (quote (("version" "kernel") ("uxtheme" "gdi" "ole") ("user" "kernel") ("taskschd" "oleaut") ("shell" "oleaut") ("oleaut" "ole") ("ole" "user") ("mf" "oleaut") ("kernel") ("gui" "comctl" "shell" "uxtheme") ("gdi" "user") ("dxgi" "ole") ("dwm" "uxtheme") ("dshow" "oleaut") ("comctl" "ole"))))))
+
