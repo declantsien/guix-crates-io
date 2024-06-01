@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-pubsub) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-pubsub-0.1.0 (c (n "linera-alloy-pubsub") (v "0.1.0") (d (list (d (n "bimap") (r "^0.6") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "linera-alloy-json-rpc") (r "^0.1.0") (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (k 0)) (d (n "linera-alloy-transport") (r "^0.1.0") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "sync"))) (d #t) (k 0)) (d (n "tokio-stream") (r "^0.1") (f (quote ("sync"))) (d #t) (k 0)) (d (n "tower") (r "^0.4") (f (quote ("util"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "14jw87d4bkly4yxfv8717a02hicjfw5fz3bgxzsj80ldbwrsz5da") (r "1.76")))
+
