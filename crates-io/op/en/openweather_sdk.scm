@@ -16,3 +16,5 @@
 
 (define-public crate-openweather_sdk-0.1.7 (c (n "openweather_sdk") (v "0.1.7") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "12g2fipryqca2i2mflyrbcc3fmykl0rb73q9bmh40pdpd6x8rg7i")))
 
+(define-public crate-openweather_sdk-0.1.8 (c (n "openweather_sdk") (v "0.1.8") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 2)) (d (n "reqwest") (r "^0.11") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.107") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "183lvk075l6q4mypzzyvyrcmryy53a62gxydal5ihil74d025qny")))
+
