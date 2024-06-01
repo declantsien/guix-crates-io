@@ -14,3 +14,5 @@
 
 (define-public crate-sketches-ddsketch-0.2.2 (c (n "sketches-ddsketch") (v "0.2.2") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.7.2") (d #t) (k 2)) (d (n "rand_distr") (r "^0.2.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "serde_derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "0p6n1v0p0773d0b5qnsnw526g7hhlb08bx95wm0zb09xnwa6qqw5") (f (quote (("use_serde" "serde" "serde/derive"))))))
 
+(define-public crate-sketches-ddsketch-0.3.0 (c (n "sketches-ddsketch") (v "0.3.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "serde_derive"))) (o #t) (d #t) (k 0) (p "serde")))) (h "02j17srcrssfmlaly61s95bzkg76c9ax49dvajn450f2lrsagsf1") (f (quote (("use_serde" "serde" "serde/derive"))))))
+
