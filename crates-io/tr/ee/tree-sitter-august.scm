@@ -10,3 +10,5 @@
 
 (define-public crate-tree-sitter-august-0.0.5 (c (n "tree-sitter-august") (v "0.0.5") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.20.10") (d #t) (k 0)))) (h "1qn8saxnyd3ysdljsvbnrvv1aszvb5gafkwdhnf88ida7xvf432x")))
 
+(define-public crate-tree-sitter-august-0.0.6 (c (n "tree-sitter-august") (v "0.0.6") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.20.10") (d #t) (k 0)))) (h "06h2qsr71maqp957mvk1p57b8na599jiwgn99a0l634bvqg575gk")))
+
