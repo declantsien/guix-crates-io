@@ -26,3 +26,5 @@
 
 (define-public crate-cc2p-0.2.8 (c (n "cc2p") (v "0.2.8") (d (list (d (n "arrow-csv") (r "^51") (d #t) (k 0)) (d (n "arrow-schema") (r "^51") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive" "std"))) (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "parquet") (r "^51") (f (quote ("arrow-csv" "arrow"))) (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("rt" "rt-multi-thread"))) (k 0)))) (h "12jl72nz9ggyjl30yi4c5igibvmfs1x6n7bg2jp8ljqwzy45jrfq") (r "1.74.0")))
 
+(define-public crate-cc2p-0.2.9 (c (n "cc2p") (v "0.2.9") (d (list (d (n "arrow-csv") (r "^51") (d #t) (k 0)) (d (n "arrow-schema") (r "^51") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive" "std"))) (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (d #t) (k 0)) (d (n "parquet") (r "^51") (f (quote ("arrow-csv" "arrow"))) (d #t) (k 0)) (d (n "regex") (r "^1.5") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("rt" "rt-multi-thread"))) (k 0)))) (h "1k210asi7xd3p8xxpxaq14w98r47zz7qk6v8vnnvrppza8ziwvqq") (r "1.74.0")))
+

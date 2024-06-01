@@ -6,3 +6,5 @@
 
 (define-public crate-versatiles_derive-0.11.3 (c (n "versatiles_derive") (v "0.11.3") (d (list (d (n "proc-macro2") (r "^1.0.84") (f (quote ("proc-macro"))) (k 0)) (d (n "quote") (r "^1.0.36") (f (quote ("proc-macro"))) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("derive" "parsing" "printing" "proc-macro"))) (k 0)))) (h "1bfs9ydyp9f6zh3d7a7ikmrv127k93h90z07jj93rfkazrmvmvay")))
 
+(define-public crate-versatiles_derive-0.11.4 (c (n "versatiles_derive") (v "0.11.4") (d (list (d (n "proc-macro2") (r "^1.0.84") (f (quote ("proc-macro"))) (k 0)) (d (n "quote") (r "^1.0.36") (f (quote ("proc-macro"))) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("derive" "parsing" "printing" "proc-macro"))) (k 0)))) (h "1mivvxdbcymr3zcgvflv6hlcvkdiwm6bzlacz90nlr0pqdymq8gk")))
+
