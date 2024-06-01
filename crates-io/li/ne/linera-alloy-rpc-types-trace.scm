@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-rpc-types-trace) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-rpc-types-trace-0.1.0 (c (n "linera-alloy-rpc-types-trace") (v "0.1.0") (d (list (d (n "arbitrary") (r "^1.3") (f (quote ("derive"))) (d #t) (k 2)) (d (n "linera-alloy-primitives") (r "^0.7.4") (f (quote ("rlp" "serde"))) (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (f (quote ("rand" "rlp" "serde" "arbitrary"))) (k 2)) (d (n "linera-alloy-rpc-types") (r "^0.1.0") (k 0)) (d (n "linera-alloy-serde") (r "^0.1.0") (k 0)) (d (n "proptest") (r "^1.4") (d #t) (k 2)) (d (n "proptest-derive") (r "^0.4") (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "similar-asserts") (r "^1.5") (d #t) (k 2)))) (h "1kwr1n4f4wwhgq2bc47iv6qnzhbmrvk0zah8nqzz0r102vgc36sj") (r "1.76")))
+
