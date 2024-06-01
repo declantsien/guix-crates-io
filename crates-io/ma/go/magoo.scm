@@ -20,3 +20,5 @@
 
 (define-public crate-magoo-0.2.0 (c (n "magoo") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "fs4") (r "^0.8.2") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "termcolor") (r "^1.4.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "which") (r "^6.0.1") (d #t) (k 0)))) (h "1fgsdkkxzz3sgysnki7f346jcq2r5ybc6rrjjn46j3bal38dqdjx") (f (quote (("default" "cli")))) (s 2) (e (quote (("cli" "dep:clap"))))))
 
+(define-public crate-magoo-0.2.1 (c (n "magoo") (v "0.2.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "fs4") (r "^0.8.2") (d #t) (k 0)) (d (n "pathdiff") (r "^0.2.1") (d #t) (k 0)) (d (n "semver") (r "^1.0.23") (d #t) (k 0)) (d (n "termcolor") (r "^1.4.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "which") (r "^6.0.1") (d #t) (k 0)))) (h "0jfkvx7zs9999nhlc4f1m6isrg3mfzwz8id3v317spjib62g8bjd") (f (quote (("default" "cli")))) (s 2) (e (quote (("cli" "dep:clap"))))))
+
