@@ -58,3 +58,5 @@
 
 (define-public crate-jql-runner-7.1.10 (c (n "jql-runner") (v "7.1.10") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "jql-parser") (r "^7.1.10") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (f (quote ("preserve_order" "unbounded_depth"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0fwc9jm4khkc08kj21zgjhsg66rb85jgzqvczw7hs8d59z37hwa8")))
 
+(define-public crate-jql-runner-7.1.11 (c (n "jql-runner") (v "7.1.11") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "indexmap") (r "^2.2.6") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "jql-parser") (r "^7.1.11") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (f (quote ("preserve_order" "unbounded_depth"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0mmn12r8jh5s9v2b2f35hmj5b9w6ra6af4sa281yb66lxdvnangi")))
+

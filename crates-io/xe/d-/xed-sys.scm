@@ -20,3 +20,5 @@
 
 (define-public crate-xed-sys-0.5.0+xed-2023.12.19 (c (n "xed-sys") (v "0.5.0+xed-2023.12.19") (d (list (d (n "bindgen") (r "^0.69") (f (quote ("experimental"))) (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "target-lexicon") (r "^0.12") (d #t) (k 1)))) (h "0z87xgxg5jah5y5wgjhjvrsaa6nl7i4z84i19i50r8k3f6ncybsc") (s 2) (e (quote (("bindgen" "dep:bindgen")))) (r "1.64")))
 
+(define-public crate-xed-sys-0.5.1+xed-2023.12.19 (c (n "xed-sys") (v "0.5.1+xed-2023.12.19") (d (list (d (n "bindgen") (r "^0.69") (f (quote ("experimental"))) (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "target-lexicon") (r "^0.12") (d #t) (k 1)))) (h "0h1gy0caic7pl1p8771mfbw5dz23gj8rjq95kxn5751zj1pp7pgr") (s 2) (e (quote (("bindgen" "dep:bindgen")))) (r "1.64")))
+

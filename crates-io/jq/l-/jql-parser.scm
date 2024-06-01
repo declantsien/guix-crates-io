@@ -58,3 +58,5 @@
 
 (define-public crate-jql-parser-7.1.10 (c (n "jql-parser") (v "7.1.10") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "winnow") (r "^0.6.8") (f (quote ("simd"))) (d #t) (k 0)))) (h "1l98hgsgpzsm2sy12p9bdpf0f26gfmy238q36fw0620ykdkwvd4j")))
 
+(define-public crate-jql-parser-7.1.11 (c (n "jql-parser") (v "7.1.11") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "winnow") (r "^0.6.9") (f (quote ("simd"))) (d #t) (k 0)))) (h "00dpvrf2b9kbg927pc0zipgzxy73936ys4yxgpk1mlvjdwf21qmy")))
+

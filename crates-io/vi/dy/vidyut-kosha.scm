@@ -1,0 +1,4 @@
+(define-module (crates-io vi dy vidyut-kosha) #:use-module (crates-io))
+
+(define-public crate-vidyut-kosha-0.1.0 (c (n "vidyut-kosha") (v "0.1.0") (d (list (d (n "bencher") (r "^0.1.5") (d #t) (k 2)) (d (n "clap") (r "^4.3.24") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clap_derive") (r "^4.3.12") (d #t) (k 0)) (d (n "env_logger") (r "^0.9.1") (d #t) (k 0)) (d (n "fst") (r "^0.4.7") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "modular-bitfield") (r "^0.11.2") (d #t) (k 0)) (d (n "multimap") (r "^0.8.3") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.3.0") (d #t) (k 2)))) (h "1pgiip46y9c40k5gfd6br4ni53ghcda6gmmlpxb62s0vmzwknhxh") (r "1.68")))
+
