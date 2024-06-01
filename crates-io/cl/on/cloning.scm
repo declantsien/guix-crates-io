@@ -6,3 +6,5 @@
 
 (define-public crate-cloning-0.0.3 (c (n "cloning") (v "0.0.3") (d (list (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0mkmrc7mdndidzsr2d73lh969l6z760pxfdm9syx0qz3zhfa76qn")))
 
+(define-public crate-cloning-0.0.4 (c (n "cloning") (v "0.0.4") (d (list (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "015pa6cr111308iq2y028iqxfkndwbjw1h9h91mh98k94wccipbc")))
+
