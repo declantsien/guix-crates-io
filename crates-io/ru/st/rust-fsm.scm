@@ -14,3 +14,5 @@
 
 (define-public crate-rust-fsm-0.6.2 (c (n "rust-fsm") (v "0.6.2") (d (list (d (n "rust-fsm-dsl") (r "^0.6.2") (o #t) (d #t) (k 0)))) (h "0i210r20fq44mpf7vwx78xdnrn14ay18c0qz7vsydrl4jcggqva9") (f (quote (("std") ("dsl" "rust-fsm-dsl") ("default" "std" "dsl"))))))
 
+(define-public crate-rust-fsm-0.7.0 (c (n "rust-fsm") (v "0.7.0") (d (list (d (n "aquamarine") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "rust-fsm-dsl") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "1jai4g4lags94hy9ijixlc139gpl86gpi75ypg7b6xnbkvkgkgnf") (f (quote (("std") ("dsl" "rust-fsm-dsl") ("diagram" "aquamarine" "rust-fsm-dsl/diagram") ("default" "std" "dsl"))))))
+
