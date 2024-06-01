@@ -1,0 +1,4 @@
+(define-module (crates-io sp or sportident-rs) #:use-module (crates-io))
+
+(define-public crate-sportident-rs-0.0.1 (c (n "sportident-rs") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "strum") (r "^0.26") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "macros" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-serial") (r "^5.0.5") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0qlx5ai7fki3yj6ncq7sadap1h0yqvl15wlrlhl22fga4w90xch1")))
+
