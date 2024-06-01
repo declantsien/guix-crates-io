@@ -12,3 +12,5 @@
 
 (define-public crate-pallas-wallet-0.26.0 (c (n "pallas-wallet") (v "0.26.0") (d (list (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bip39") (r "^2.0.0") (f (quote ("rand_core"))) (d #t) (k 0)) (d (n "cryptoxide") (r "^0.4.4") (d #t) (k 0)) (d (n "ed25519-bip32") (r "^0.4.1") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.26.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "03z8mqqhfq59fn89a41wfmx1a7qsnvjb7d1agsg6v4dagif8bh0x")))
 
+(define-public crate-pallas-wallet-0.27.0 (c (n "pallas-wallet") (v "0.27.0") (d (list (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "bip39") (r "^2.0.0") (f (quote ("rand_core"))) (d #t) (k 0)) (d (n "cryptoxide") (r "^0.4.4") (d #t) (k 0)) (d (n "ed25519-bip32") (r "^0.4.1") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.27.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)))) (h "1sspsqgn25fx1cm6vj5n9s6agi8c7fabwxck37qgykqdxqscl9mk")))
+

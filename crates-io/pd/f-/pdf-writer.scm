@@ -34,3 +34,5 @@
 
 (define-public crate-pdf-writer-0.9.3 (c (n "pdf-writer") (v "0.9.3") (d (list (d (n "bitflags") (r "^1.1") (d #t) (k 0)) (d (n "iai") (r "^0.1") (d #t) (k 2)) (d (n "image") (r "^0.24") (f (quote ("png" "jpeg"))) (k 2)) (d (n "itoa") (r "^1") (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.5") (d #t) (k 2)) (d (n "ryu") (r "^1") (d #t) (k 0)))) (h "0arksb7ahf389q0r7gjm3y3x4fh4v7nckahwcrp82g06ams15s94")))
 
+(define-public crate-pdf-writer-0.10.0 (c (n "pdf-writer") (v "0.10.0") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "iai") (r "^0.1") (d #t) (k 2)) (d (n "image") (r "^0.25") (f (quote ("png" "jpeg"))) (k 2)) (d (n "itoa") (r "^1") (d #t) (k 0)) (d (n "jpeg-decoder") (r "^0.3.1") (d #t) (k 2)) (d (n "jpeg-encoder") (r "^0.6.0") (d #t) (k 2)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "miniz_oxide") (r "^0.7") (d #t) (k 2)) (d (n "ryu") (r "^1") (d #t) (k 0)))) (h "0s845yd35kl5d7za24i6yxm4r4zcqggwll9wsj0q9057zn17hsmg")))
+

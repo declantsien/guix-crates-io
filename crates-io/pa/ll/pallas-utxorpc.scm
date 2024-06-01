@@ -22,3 +22,5 @@
 
 (define-public crate-pallas-utxorpc-0.26.0 (c (n "pallas-utxorpc") (v "0.26.0") (d (list (d (n "pallas-codec") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-primitives") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "=0.26.0") (d #t) (k 0)) (d (n "utxorpc-spec") (r "^0.5.0") (d #t) (k 0)))) (h "1a05bq3df99q4j6b8raz4aa2marsg71cy08a9qlwpm5ydgx4pk5b")))
 
+(define-public crate-pallas-utxorpc-0.27.0 (c (n "pallas-utxorpc") (v "0.27.0") (d (list (d (n "pallas-codec") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-primitives") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "=0.27.0") (d #t) (k 0)) (d (n "utxorpc-spec") (r "^0.5.0") (d #t) (k 0)))) (h "1pvisyvnrvi3i8jdr8m4j9g89zl245x4npardf703brsq86wfrlg")))
+

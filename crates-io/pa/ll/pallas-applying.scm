@@ -14,3 +14,5 @@
 
 (define-public crate-pallas-applying-0.26.0 (c (n "pallas-applying") (v "0.26.0") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "pallas-addresses") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-codec") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-primitives") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "=0.26.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "19m9y42x9rka8l2585awy4p74ha2j7j3anw6xsvwf0gflpagqd1z")))
 
+(define-public crate-pallas-applying-0.27.0 (c (n "pallas-applying") (v "0.27.0") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 2)) (d (n "pallas-addresses") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-codec") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-primitives") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "=0.27.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "1wipcr2fai9vjk7xsb8rswgr40q9vz7zynb5lzmlksf1lvr085x9")))
+

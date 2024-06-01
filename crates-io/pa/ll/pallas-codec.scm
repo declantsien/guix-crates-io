@@ -104,3 +104,5 @@
 
 (define-public crate-pallas-codec-0.26.0 (c (n "pallas-codec") (v "0.26.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "minicbor") (r "^0.20") (f (quote ("std" "half" "derive"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.4") (o #t) (d #t) (k 0)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "1qs0f6n2jxr9xwdis2x45fym9kjb2yn237p0dazxmhn1qfry1wxg") (f (quote (("default"))))))
 
+(define-public crate-pallas-codec-0.27.0 (c (n "pallas-codec") (v "0.27.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "minicbor") (r "^0.20") (f (quote ("std" "half" "derive"))) (d #t) (k 0)) (d (n "num-bigint") (r "^0.4.4") (o #t) (d #t) (k 0)) (d (n "proptest") (r "^1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.143") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "143m2bfk22d9q6pixzm7h76pwzsx28yfv46z73pbb1wg1kmhz99f") (f (quote (("default"))))))
+

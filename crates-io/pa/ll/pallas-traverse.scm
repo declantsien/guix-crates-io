@@ -82,3 +82,5 @@
 
 (define-public crate-pallas-traverse-0.26.0 (c (n "pallas-traverse") (v "0.26.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "pallas-addresses") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-codec") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-primitives") (r "=0.26.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0cn06drzihkqwkn3p0x0vrvy3mn7wnscgm76qsfv4jabsil6ib6a") (f (quote (("unstable"))))))
 
+(define-public crate-pallas-traverse-0.27.0 (c (n "pallas-traverse") (v "0.27.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "pallas-addresses") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-codec") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-primitives") (r "=0.27.0") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.155") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0ak4hfxd7dnik2z1lx5a6q80w6ia244ya56wfncgwcjcmwfnydnb") (f (quote (("unstable"))))))
+

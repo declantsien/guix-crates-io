@@ -12,3 +12,5 @@
 
 (define-public crate-pallas-hardano-0.26.0 (c (n "pallas-hardano") (v "0.26.0") (d (list (d (n "binary-layout") (r "^3.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pallas-network") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "=0.26.0") (d #t) (k 0)) (d (n "tap") (r "^1.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "1bg8dakxb39kinwm46f6f2kxz0cr1jf3avldijk3nzig6k7cv821")))
 
+(define-public crate-pallas-hardano-0.27.0 (c (n "pallas-hardano") (v "0.27.0") (d (list (d (n "binary-layout") (r "^3.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "pallas-network") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-traverse") (r "=0.27.0") (d #t) (k 0)) (d (n "tap") (r "^1.0.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.49") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "0nmxi2nrckmlnw4hrk27whqs8z26l930s9yy9094y2vj9b8zmck8")))
+

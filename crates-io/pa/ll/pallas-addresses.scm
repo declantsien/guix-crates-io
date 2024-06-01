@@ -74,3 +74,5 @@
 
 (define-public crate-pallas-addresses-0.26.0 (c (n "pallas-addresses") (v "0.26.0") (d (list (d (n "base58") (r "^0.2.0") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "cryptoxide") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "pallas-codec") (r "=0.26.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.26.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "05bvksf1sqckwd31ndq6b4pp24flrwz9gxdgr8a33p0k8x48fsac")))
 
+(define-public crate-pallas-addresses-0.27.0 (c (n "pallas-addresses") (v "0.27.0") (d (list (d (n "base58") (r "^0.2.0") (d #t) (k 0)) (d (n "bech32") (r "^0.9.1") (d #t) (k 0)) (d (n "crc") (r "^3.0.1") (d #t) (k 0)) (d (n "cryptoxide") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "pallas-codec") (r "=0.27.0") (d #t) (k 0)) (d (n "pallas-crypto") (r "=0.27.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0lri1z0yzw6qny4af58zbr56dkvsf775vxkgihwn33ijn1lw9a28")))
+
