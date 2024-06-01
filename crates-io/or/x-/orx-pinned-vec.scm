@@ -58,3 +58,5 @@
 
 (define-public crate-orx-pinned-vec-2.10.0 (c (n "orx-pinned-vec") (v "2.10.0") (h "0z0kxpg5lzy1mc9q52ka6ams9ram7qzidd0zn1s0fplsr6dfqj0k")))
 
+(define-public crate-orx-pinned-vec-2.11.0 (c (n "orx-pinned-vec") (v "2.11.0") (h "0kz4ld58pjbn2757m20h3m91yyd5v4g1icwjn9ql0jxngfhvhrq8")))
+
