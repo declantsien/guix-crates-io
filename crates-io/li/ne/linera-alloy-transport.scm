@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-transport) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-transport-0.1.0 (c (n "linera-alloy-transport") (v "0.1.0") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "futures-util") (r "^0.3") (d #t) (k 0)) (d (n "futures-utils-wasm") (r "^0.1") (d #t) (k 0)) (d (n "linera-alloy-json-rpc") (r "^0.1.0") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc" "raw_value"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt"))) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "tower") (r "^0.4") (f (quote ("util"))) (d #t) (k 0)) (d (n "url") (r "^2.5") (d #t) (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)))) (h "05mras4g2y47d7c0znlhz1rdhq1jc70z9hkly5259vbfib0yy9jp") (r "1.76")))
+

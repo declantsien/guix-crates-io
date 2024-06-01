@@ -26,3 +26,5 @@
 
 (define-public crate-git-commit-stats-0.1.12 (c (n "git-commit-stats") (v "0.1.12") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "1vlqlhvsldfj6gnka2bjrn93blikm0ak547nfmywh321bwjn49z7")))
 
+(define-public crate-git-commit-stats-0.1.13 (c (n "git-commit-stats") (v "0.1.13") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "1422h8pkr7hw5ik1743x5dvzy5mwiyr2l5yibj2xr443cidcy818")))
+
