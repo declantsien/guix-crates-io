@@ -6,3 +6,5 @@
 
 (define-public crate-libcsp-0.1.2 (c (n "libcsp") (v "0.1.2") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libcsp-sys") (r "^0.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7") (d #t) (k 0)))) (h "1cd79a060k6vbj96zwbixbpnb6q5ixja1riyii5fk8zmpqhdj2bl")))
 
+(define-public crate-libcsp-0.1.3 (c (n "libcsp") (v "0.1.3") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libcsp-sys") (r "^0.1") (d #t) (k 0)) (d (n "num_enum") (r "^0.7") (d #t) (k 0)))) (h "0679dphjd2kkb8a4am74hslplrzgwh9629iny1qi9hwg6sb1pskm")))
+
