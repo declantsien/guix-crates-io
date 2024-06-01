@@ -22,3 +22,5 @@
 
 (define-public crate-aderyn_py-0.0.28 (c (n "aderyn_py") (v "0.0.28") (d (list (d (n "aderyn_driver") (r "^0.0.28") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.0") (f (quote ("abi3-py37"))) (d #t) (k 0)))) (h "07wafcy6wqq12m73bmicxwrxxzdycx13w6hly2b2031a0w86z7w2")))
 
+(define-public crate-aderyn_py-0.1.0 (c (n "aderyn_py") (v "0.1.0") (d (list (d (n "aderyn_driver") (r "^0.1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.19.0") (f (quote ("abi3-py37"))) (d #t) (k 0)))) (h "0hyx02vpz0jsmif050hiapl8yh1s2qkwbnzxrb6v3dhl13gbwxlc")))
+
