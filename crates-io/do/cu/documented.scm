@@ -18,3 +18,5 @@
 
 (define-public crate-documented-0.4.3 (c (n "documented") (v "0.4.3") (d (list (d (n "documented-derive") (r "^0.4.3") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0anhc0q0ambz36ksfam5rngi3y0n0s5rvk1szv56wbw47d12svqg") (r "1.65.0")))
 
+(define-public crate-documented-0.5.0 (c (n "documented") (v "0.5.0") (d (list (d (n "documented-derive") (r "^0.5.0") (d #t) (k 0)) (d (n "phf") (r "^0.11") (f (quote ("macros"))) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "1mifphw5axix7g1qy4gss1faw26wc8xsb4hpsv84jp6rzjh21idq") (f (quote (("default" "customise") ("customise" "documented-derive/customise")))) (r "1.65.0")))
+

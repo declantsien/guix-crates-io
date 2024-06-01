@@ -8,3 +8,5 @@
 
 (define-public crate-derive_variants-0.1.3 (c (n "derive_variants") (v "0.1.3") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)))) (h "0qg42cpzr2wcivzhghl7bc5r6jh29kdk06mbqfv4a7xp0qnxnh21")))
 
+(define-public crate-derive_variants-1.0.0 (c (n "derive_variants") (v "1.0.0") (d (list (d (n "derive_variants_derive") (r "^1.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "07pfvq3mv81g7b9f54nqv2brxm5jddzlic2dis2dq6kv30zjg5vi")))
+

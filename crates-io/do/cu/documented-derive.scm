@@ -14,7 +14,9 @@
 
 (define-public crate-documented-derive-0.4.1 (c (n "documented-derive") (v "0.4.1") (d (list (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)))) (h "1nvw1jb2nl2vnvaij4nbzfa6b2l7xibapn2xrfzmybd7y0334n28")))
 
-(define-public crate-documented-derive-0.4.2 (c (n "documented-derive") (v "0.4.2") (d (list (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.58") (d #t) (k 0)))) (h "01fp8kf9l0vyjwbhjxqq6dbn9zlcyarhnaq7pybw2ih0d7rcsrac") (r "1.65.0")))
+(define-public crate-documented-derive-0.4.2 (c (n "documented-derive") (v "0.4.2") (d (list (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.58") (d #t) (k 0)))) (h "01fp8kf9l0vyjwbhjxqq6dbn9zlcyarhnaq7pybw2ih0d7rcsrac") (y #t) (r "1.65.0")))
 
 (define-public crate-documented-derive-0.4.3 (c (n "documented-derive") (v "0.4.3") (d (list (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.58") (d #t) (k 0)))) (h "0c0zbvwhim5fj0jq6lps14lnddvq5ppbcdi46drn4dsc58n08fp0") (r "1.65.0")))
+
+(define-public crate-documented-derive-0.5.0 (c (n "documented-derive") (v "0.5.0") (d (list (d (n "optfield") (r "^0.3.0") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.58") (d #t) (k 0)))) (h "0bdw46c6h8hn4xll9wwd83c5aflsph68bk612s270qxj9wx9aqcq") (f (quote (("default" "customise")))) (s 2) (e (quote (("customise" "dep:optfield")))) (r "1.65.0")))
 
