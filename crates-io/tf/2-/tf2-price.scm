@@ -40,3 +40,5 @@
 
 (define-public crate-tf2-price-0.13.1 (c (n "tf2-price") (v "0.13.1") (d (list (d (n "assert-json-diff") (r "^2.0.1") (d #t) (k 2)) (d (n "auto_ops") (r "=0.3.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "06fzpn4g0jhm1nhzlm4z6knarxq2l453l51lj7ak3b9diwi4ymbj") (f (quote (("b32")))) (s 2) (e (quote (("serde" "dep:serde"))))))
 
+(define-public crate-tf2-price-0.13.2 (c (n "tf2-price") (v "0.13.2") (d (list (d (n "assert-json-diff") (r "^2.0.1") (d #t) (k 2)) (d (n "auto_ops") (r "=0.3.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)))) (h "0aaci12yga3i1j9npa2pnf596mwn7xj56yr0dm28rlgpr3ccdpqm") (f (quote (("b32")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+

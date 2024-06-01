@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-rpc-types-beacon) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-rpc-types-beacon-0.1.0 (c (n "linera-alloy-rpc-types-beacon") (v "0.1.0") (d (list (d (n "ethereum_ssz") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "ethereum_ssz_derive") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "linera-alloy-eips") (r "^0.1.0") (f (quote ("serde"))) (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (k 0)) (d (n "linera-alloy-rpc-types-engine") (r "^0.1.0") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "alloc"))) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 2)) (d (n "serde_with") (r "^3.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1zcimnqg9v7syzhjmsyzrzpm9a59qgi7kn74a46iy3brcwrmbk12") (s 2) (e (quote (("ssz" "dep:ethereum_ssz" "dep:ethereum_ssz_derive" "linera-alloy-primitives/ssz" "linera-alloy-rpc-types-engine/ssz")))) (r "1.76")))
+
