@@ -6,3 +6,5 @@
 
 (define-public crate-flip-ui-macro-0.1.2 (c (n "flip-ui-macro") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.62") (f (quote ("full"))) (d #t) (k 0)))) (h "1z0gwzw92w5f4m0s9dyjs1f2byny9m5zq4mb56bdhi3js795f39i") (r "1.70.0")))
 
+(define-public crate-flip-ui-macro-0.1.3 (c (n "flip-ui-macro") (v "0.1.3") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.62") (f (quote ("full"))) (d #t) (k 0)))) (h "1smc5ifybn7cwc4la11akzs3j6g7blcfwri7p21m44gd28m8ss9j") (r "1.70.0")))
+
