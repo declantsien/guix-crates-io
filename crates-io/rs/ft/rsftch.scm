@@ -96,3 +96,5 @@
 
 (define-public crate-rsftch-0.6.3 (c (n "rsftch") (v "0.6.3") (d (list (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "libc") (r "^0.2.155") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)))) (h "1jkx5jnqvk9i742sjax4ng5x5qda12i7w32lgjgrli0412x5kf90")))
 
+(define-public crate-rsftch-0.6.4 (c (n "rsftch") (v "0.6.4") (d (list (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)))) (h "1yf519xlw5al189icavq42dacjlfiy66znsy7z3ms1q1knlbz2kx")))
+

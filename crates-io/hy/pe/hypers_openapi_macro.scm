@@ -4,3 +4,5 @@
 
 (define-public crate-hypers_openapi_macro-0.1.0 (c (n "hypers_openapi_macro") (v "0.1.0") (d (list (d (n "proc-macro-crate") (r "=3.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "=1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "=1.0.82") (d #t) (k 0)) (d (n "quote") (r "=1.0.36") (d #t) (k 0)) (d (n "regex") (r "=1.10.4") (d #t) (k 0)) (d (n "syn") (r "=2.0.64") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1bacsdwh5r0nb87yib6y6sw9hs427rkw2xva678as2r077ya9h0m")))
 
+(define-public crate-hypers_openapi_macro-0.1.1 (c (n "hypers_openapi_macro") (v "0.1.1") (d (list (d (n "proc-macro-crate") (r "=3.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "=1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "=1.0.84") (d #t) (k 0)) (d (n "quote") (r "=1.0.36") (d #t) (k 0)) (d (n "regex") (r "=1.10.4") (d #t) (k 0)) (d (n "syn") (r "=2.0.66") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1g1vzh4lq0r2irxrryz7gv2lbrr3vzhwp9cyzggkimkaviz9wkax") (f (quote (("uuid") ("url") ("ulid") ("time") ("smallvec") ("repr") ("indexmap") ("default") ("decimal-float") ("decimal") ("chrono"))))))
+
