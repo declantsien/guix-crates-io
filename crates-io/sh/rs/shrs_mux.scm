@@ -8,3 +8,5 @@
 
 (define-public crate-shrs_mux-0.0.5 (c (n "shrs_mux") (v "0.0.5") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.26") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "openssh") (r "^0.10.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "rustpython-parser") (r "^0.3.1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.5") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("full"))) (d #t) (k 0)))) (h "1c03y310ynikvz73gx5qaqm1slhnf6x6cv52s3ksyxpiqjyycy93")))
 
+(define-public crate-shrs_mux-0.0.6 (c (n "shrs_mux") (v "0.0.6") (d (list (d (n "clap") (r "^4.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crossterm") (r "^0.26") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "openssh") (r "^0.10.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "rustpython-parser") (r "^0.3.1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.6") (d #t) (k 0)) (d (n "tokio") (r "^1.35") (f (quote ("full"))) (d #t) (k 0)))) (h "0hn1n0ljxscjjs680f6592vfp61cq30kqhh71hxxjmpb56c8nqvr")))
+

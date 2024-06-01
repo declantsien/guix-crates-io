@@ -10,3 +10,5 @@
 
 (define-public crate-shrs_output_capture-0.0.5 (c (n "shrs_output_capture") (v "0.0.5") (d (list (d (n "shrs") (r "^0.0.5") (d #t) (k 0)))) (h "1g8xdnfnba6shm77yrs2vgivdqkjb7ypjwww9hd4nhvjbx88jvdj")))
 
+(define-public crate-shrs_output_capture-0.0.6 (c (n "shrs_output_capture") (v "0.0.6") (d (list (d (n "shrs") (r "^0.0.6") (d #t) (k 0)))) (h "1p77b0ygfikrp0d300q56nn04sfqwzp970mncpq1afrhxhkhv9pb")))
+

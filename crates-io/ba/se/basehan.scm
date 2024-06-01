@@ -16,3 +16,5 @@
 
 (define-public crate-basehan-0.2.3 (c (n "basehan") (v "0.2.3") (d (list (d (n "clap") (r "^4.0.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)))) (h "1rywkp8ja0jjzhwklrjgfjjijlv752w7gi8gamicpp64dix2chzv")))
 
+(define-public crate-basehan-0.2.4 (c (n "basehan") (v "0.2.4") (d (list (d (n "clap") (r "^4.0.17") (f (quote ("derive"))) (d #t) (k 0)) (d (n "num") (r "^0.4.1") (d #t) (k 0)))) (h "1y3l8c1zf780pjwvygz76dsirdik96h7lf8bhwmlm07rlq2b8p5f")))
+
