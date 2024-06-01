@@ -16,3 +16,5 @@
 
 (define-public crate-sdre-stubborn-io-0.5.5 (c (n "sdre-stubborn-io") (v "0.5.5") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("time" "net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("macros" "rt" "fs" "io-util"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("codec"))) (d #t) (k 2)))) (h "0kkigbs4gcysk9y2rb67dnpbi5hyjaapp6245iypik0i8clpf60j")))
 
+(define-public crate-sdre-stubborn-io-0.5.6 (c (n "sdre-stubborn-io") (v "0.5.6") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("time" "net"))) (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("macros" "rt" "fs" "io-util"))) (d #t) (k 2)) (d (n "tokio-util") (r "^0.7.11") (f (quote ("codec"))) (d #t) (k 2)))) (h "0fh43v07g5gxmrryba5z392vwgplbhnlj2rn7nnlab4jrbif4r6h")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-sportident-0.0.3 (c (n "sportident") (v "0.0.3") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio-serial") (r "^5.0.5") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 0)))) (h "0sbz6s752lyzbsb9vc9j8k6n3zdf8ds02dnmrjx9jshd64q0r5xn")))
 
+(define-public crate-sportident-0.0.4 (c (n "sportident") (v "0.0.4") (d (list (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.12") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio-serial") (r "^5.0.5") (d #t) (k 0)) (d (n "tokio-util") (r "^0.7") (f (quote ("codec"))) (d #t) (k 0)))) (h "10qf4qgdczm5l6zlq98vnwxb3n4xpkaz6np2fpip1y134icwxsg2")))
+

@@ -282,3 +282,5 @@
 
 (define-public crate-debot-position-manager-1.2.106 (c (n "debot-position-manager") (v "1.2.106") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "debot-utils") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1hyyqry3zbml1f5qdq74kz9lgifq4d7s4cpi7w0y85si0zxlgzvm")))
 
+(define-public crate-debot-position-manager-1.2.107 (c (n "debot-position-manager") (v "1.2.107") (d (list (d (n "chrono") (r "^0.4.24") (d #t) (k 0)) (d (n "debot-utils") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.17") (d #t) (k 0)) (d (n "rust_decimal") (r "^1.0") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "19wq38snrrmnzavwsdg88ciyqx4cra9ihksbam7jb6x7xy67fqd0")))
+
