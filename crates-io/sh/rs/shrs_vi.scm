@@ -10,3 +10,5 @@
 
 (define-public crate-shrs_vi-0.0.5 (c (n "shrs_vi") (v "0.0.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.8") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.8") (f (quote ("lexer"))) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0878kqirhp4shczxgvxms6wy26nq8fxkwmnw5h6m3prl614fr2l3")))
 
+(define-public crate-shrs_vi-0.0.6 (c (n "shrs_vi") (v "0.0.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.8") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.8") (f (quote ("lexer"))) (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1a4iqq3a9saxi6r6l65qhg7d7hmfwiwyisjyf8bxwj35z6wkw7q9")))
+

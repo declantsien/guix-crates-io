@@ -10,3 +10,5 @@
 
 (define-public crate-shrs_job-0.0.5 (c (n "shrs_job") (v "0.0.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("fs" "term" "process" "signal"))) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "14l1nshwvcxhr8n5wl257nrcy7lfrafly1k0xawzdf0h5glx7r6p")))
 
+(define-public crate-shrs_job-0.0.6 (c (n "shrs_job") (v "0.0.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("fs" "term" "process" "signal"))) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0prbjm60kbjnlwirfr1cqr2v62lqm3mrbamivw96ab60j3znrlpb")))
+

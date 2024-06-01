@@ -10,3 +10,5 @@
 
 (define-public crate-shrs_utils-0.0.5 (c (n "shrs_utils") (v "0.0.5") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "crossterm") (r "^0.26") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "ropey") (r "^1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "0yn9yzr5gwvgsmbig2csilp75zd6qw1lbsds4mjbs3zxx39jcfph")))
 
+(define-public crate-shrs_utils-0.0.6 (c (n "shrs_utils") (v "0.0.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "crossterm") (r "^0.26") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "ropey") (r "^1.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1f287b3hxh6kgc2w24sf50xxlcxg25llpaf58imz024ki6gz5bif")))
+
