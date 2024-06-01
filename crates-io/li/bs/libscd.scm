@@ -10,3 +10,5 @@
 
 (define-public crate-libscd-0.3.0 (c (n "libscd") (v "0.3.0") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (o #t) (d #t) (k 0)))) (h "01mc3jsvqgid78bv5r0kvw5bbwcq9w31hlc5w39n2vyc6p0k1d83") (f (quote (("scd41") ("scd40") ("scd30")))) (s 2) (e (quote (("sync" "dep:embedded-hal") ("defmt" "dep:defmt") ("async" "dep:embedded-hal-async"))))))
 
+(define-public crate-libscd-0.3.1 (c (n "libscd") (v "0.3.1") (d (list (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (o #t) (d #t) (k 0)) (d (n "embedded-hal-async") (r "^1.0.0") (o #t) (d #t) (k 0)))) (h "0679lwxs8kvvqg5vcac0cfqyp6v3qikw1ygj37j3058ihl697n3v") (f (quote (("scd41") ("scd40") ("scd30")))) (s 2) (e (quote (("sync" "dep:embedded-hal") ("defmt" "dep:defmt") ("async" "dep:embedded-hal-async"))))))
+

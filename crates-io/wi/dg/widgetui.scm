@@ -26,3 +26,5 @@
 
 (define-public crate-widgetui-0.5.2 (c (n "widgetui") (v "0.5.2") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.2") (d #t) (k 0)) (d (n "tui-helper-proc-macro") (r "^0.5.2") (d #t) (k 0)))) (h "156vvkv0r2xcsgi41ar5y4k2w95zh4ialgrsaavgya4q0cnpv3hn")))
 
+(define-public crate-widgetui-0.6.0 (c (n "widgetui") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tui-helper-proc-macro") (r "^0.6.0") (d #t) (k 0)))) (h "1vwcz5zzqm838jajzjd7v6shvhq4cymhs41v2rzz7ljh3p0z821k")))
+
