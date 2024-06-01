@@ -12,3 +12,5 @@
 
 (define-public crate-rs_snake-1.0.5 (c (n "rs_snake") (v "1.0.5") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "termion") (r "^3.0.0") (d #t) (k 0)))) (h "1k9h9y1lz4j5fqqbyphj2wfmqx1hclgm9fiifi7r8ka0h9j912r7")))
 
+(define-public crate-rs_snake-1.1.0 (c (n "rs_snake") (v "1.1.0") (d (list (d (n "cfonts") (r "^1.1.4") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "termion") (r "^3.0.0") (d #t) (k 0)))) (h "1yqlm94k0s8cbpb1y44jd7gi50620l7s4jhz20y1l66aw907yyqg")))
+
