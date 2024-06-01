@@ -128,3 +128,5 @@
 
 (define-public crate-afl-0.15.5 (c (n "afl") (v "0.15.5") (d (list (d (n "arbitrary") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "home") (r "^0.5") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 0)) (d (n "xdg") (r "^2.5") (d #t) (k 0)))) (h "1fv826skdy0fm12k5ygxla4dnkd113zpldkyc4qkmr1g1sgi7y92") (f (quote (("no_cfg_fuzzing"))))))
 
+(define-public crate-afl-0.15.6 (c (n "afl") (v "0.15.6") (d (list (d (n "arbitrary") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "home") (r "^0.5") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rustc_version") (r "^0.4") (d #t) (k 0)) (d (n "xdg") (r "^2.5") (d #t) (k 0)))) (h "0krnm9n9kh9dg0s4ys7d2n9a8zn42wfrl7gdfnr33blq2nlald8c") (f (quote (("no_cfg_fuzzing"))))))
+
