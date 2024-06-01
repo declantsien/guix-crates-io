@@ -20,3 +20,5 @@
 
 (define-public crate-array-concat-0.5.2 (c (n "array-concat") (v "0.5.2") (h "0zbz9slqnaf70bmgi7nwsn8199vcz2xshzzgwp7hgg6cfbmhy679")))
 
+(define-public crate-array-concat-0.5.3 (c (n "array-concat") (v "0.5.3") (h "0z67c04wak2ykzr55n6jlfn7swikwn8li42paq9z88m5gv2d5d38") (f (quote (("const_panic"))))))
+
