@@ -116,3 +116,5 @@
 
 (define-public crate-gitnu-0.7.6 (c (n "gitnu") (v "0.7.6") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)))) (h "1jjlidfp1fx97gqxw7mcmxayv46c4gkqsblrn59lws0jki49983k")))
 
+(define-public crate-gitnu-0.7.7 (c (n "gitnu") (v "0.7.7") (h "1nv34rb2zgfvl3wxb3qnm2cx5qd5xlilgwn2sncb0gk9i2v1alqa")))
+
