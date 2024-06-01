@@ -28,3 +28,5 @@
 
 (define-public crate-tui-helper-proc-macro-0.6.0 (c (n "tui-helper-proc-macro") (v "0.6.0") (d (list (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0smw65gn2fppwl8in4fbsqcy0c37qydyg89qdb9nbh7xl2kb4hx0")))
 
+(define-public crate-tui-helper-proc-macro-0.6.1 (c (n "tui-helper-proc-macro") (v "0.6.1") (d (list (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1xwhgaa8hhm2c6bx5zk6h0d07ba6p72j9yz20c55gazq0wcd50nc")))
+
