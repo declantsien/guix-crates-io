@@ -28,3 +28,5 @@
 
 (define-public crate-bevy_ratatui-9.3.2 (c (n "bevy_ratatui") (v "9.3.2") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 2)) (d (n "bevy") (r "^0.13.0") (f (quote ("bevy_asset" "bevy_scene" "bevy_winit" "bevy_core_pipeline" "bevy_render" "bevy_sprite" "bevy_text" "bevy_ui" "multi-threaded" "png" "bevy_gizmos" "x11" "default_font"))) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "ratatui") (r "^0.26.1") (k 0)))) (h "0mbq39bg9x4kfpwq1drwdy6ka65jsdi2341h500q1lh18lcz4ndy") (y #t)))
 
+(define-public crate-bevy_ratatui-0.3.0 (c (n "bevy_ratatui") (v "0.3.0") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (k 0)) (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.3") (f (quote ("unstable-widget-ref"))) (d #t) (k 0)))) (h "0zl78nwbnyabdf5irzg4rfsyd4bnvzkq889v8ag769vw9ay3iizr")))
+

@@ -66,3 +66,5 @@
 
 (define-public crate-infer-0.15.0 (c (n "infer") (v "0.15.0") (d (list (d (n "cfb") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "16d1b83h5m87h6kq4z8kwjrzll5dq6rijg2iz437m008m4nn4cyb") (f (quote (("std" "alloc" "cfb") ("default" "std") ("alloc"))))))
 
+(define-public crate-infer-0.16.0 (c (n "infer") (v "0.16.0") (d (list (d (n "cfb") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "0iqq2llvl88nmpnxpaar2zrkmrah6bsy7q3cc6w9a0ikw9f0w5dw") (f (quote (("std" "alloc" "cfb") ("default" "std") ("alloc"))))))
+

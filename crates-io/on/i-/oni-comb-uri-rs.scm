@@ -908,3 +908,5 @@
 
 (define-public crate-oni-comb-uri-rs-0.2.445 (c (n "oni-comb-uri-rs") (v "0.2.445") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "ctor") (r "^0.2.8") (d #t) (k 2)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "http") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 2)) (d (n "oni-comb-parser-rs") (r "0.0.*") (d #t) (k 0)) (d (n "prop-check-rs") (r "^0.0.591") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "12y7y5w179047waf8rhzh0af059dprifvk7xi5bplx0w5f416z8z")))
 
+(define-public crate-oni-comb-uri-rs-0.2.446 (c (n "oni-comb-uri-rs") (v "0.2.446") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "ctor") (r "^0.2.8") (d #t) (k 2)) (d (n "env_logger") (r "^0.11.3") (d #t) (k 2)) (d (n "http") (r "^1.1") (d #t) (k 2)) (d (n "log") (r "^0.4.21") (d #t) (k 2)) (d (n "oni-comb-parser-rs") (r "0.0.*") (d #t) (k 0)) (d (n "prop-check-rs") (r "^0.0.592") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "012xxv7fq8gqs6isf06fvmzarkyiy4bys01k15wn8kb8za20pa91")))
+
