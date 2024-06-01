@@ -24,3 +24,5 @@
 
 (define-public crate-vk-parse-0.12.0 (c (n "vk-parse") (v "0.12.0") (d (list (d (n "serde") (r "^1.0.77") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.77") (o #t) (d #t) (k 0)) (d (n "vkxml") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "0ycfhz8w5jd1smsfpiazc1s0h3jjgf7krfqcv2f7ba37pql6q241") (f (quote (("vkxml-convert" "vkxml") ("serialize" "serde" "serde_derive"))))))
 
+(define-public crate-vk-parse-0.13.0 (c (n "vk-parse") (v "0.13.0") (d (list (d (n "serde") (r "^1.0.77") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.77") (o #t) (d #t) (k 0)) (d (n "vkxml") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8") (d #t) (k 0)))) (h "0k7pf24r50ysqy35id7xkn14sb6lfwy9zjrxc55gxy5rm3y85y2c") (f (quote (("vkxml-convert" "vkxml") ("serialize" "serde" "serde_derive"))))))
+

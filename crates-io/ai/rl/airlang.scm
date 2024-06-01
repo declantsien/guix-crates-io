@@ -30,3 +30,5 @@
 
 (define-public crate-airlang-0.2.0 (c (n "airlang") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng" "alloc"))) (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (d #t) (k 0)) (d (n "smartstring") (r "^1") (d #t) (k 0)))) (h "1w6i4rlwd8qw6rs3pjkbawc7wb08yzkczwh66gcfgjhzy2x6dqsb") (r "1.60")))
 
+(define-public crate-airlang-0.3.0 (c (n "airlang") (v "0.3.0") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng" "alloc"))) (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (d #t) (k 0)) (d (n "string_cache") (r "^0.8") (d #t) (k 0)))) (h "0hjcqjg0aa582fyxckwcyl0hr8jmyyyb286c3xsrmnr8sn59d0as")))
+

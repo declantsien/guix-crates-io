@@ -12,3 +12,5 @@
 
 (define-public crate-airlang_ext-0.2.0 (c (n "airlang_ext") (v "0.2.0") (d (list (d (n "airlang") (r "^0.2.0") (d #t) (k 0)))) (h "10a35ghw7khv49qy4bc2pahgzrk33mhrpiqbg2bbhpmbf2hfarxh") (r "1.60")))
 
+(define-public crate-airlang_ext-0.3.0 (c (n "airlang_ext") (v "0.3.0") (d (list (d (n "airlang") (r "^0.3.0") (d #t) (k 0)))) (h "16bq0hqj61zlgxdk3gbm4dr4f4ssn8kbg61gkmlpi7sc0kzih1vx")))
+

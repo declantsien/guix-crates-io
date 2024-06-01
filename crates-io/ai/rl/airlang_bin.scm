@@ -26,3 +26,5 @@
 
 (define-public crate-airlang_bin-0.2.0 (c (n "airlang_bin") (v "0.2.0") (d (list (d (n "airlang") (r "^0.2.0") (d #t) (k 0)) (d (n "airlang_ext") (r "^0.2.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)))) (h "0h3hnvmj79w43gwlg89ky1pd9nap04kskggkrb86xark5x2df8yw") (r "1.60")))
 
+(define-public crate-airlang_bin-0.3.0 (c (n "airlang_bin") (v "0.3.0") (d (list (d (n "airlang") (r "^0.3.0") (d #t) (k 0)) (d (n "airlang_ext") (r "^0.3.0") (d #t) (k 0)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)))) (h "1vyj47jd1rz9kh1j51h89cm5mldi3mh6y6b1znxjzm2whnyg2ps8")))
+
