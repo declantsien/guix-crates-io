@@ -22,3 +22,5 @@
 
 (define-public crate-test-mobile-0.3.2 (c (n "test-mobile") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "git2") (r "^0.18") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "1jnxrkpqc13mqr0wzflwrv0c45m0jka394jl840hmqaw2jdw913r")))
 
+(define-public crate-test-mobile-0.3.3 (c (n "test-mobile") (v "0.3.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "git2") (r "^0.18") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "1iwr3wrgd8n373yl62l7nrwdbnyziawh4lmh412asyccjasljk9l")))
+

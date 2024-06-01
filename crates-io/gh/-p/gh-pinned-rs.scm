@@ -6,3 +6,5 @@
 
 (define-public crate-gh-pinned-rs-1.0.2 (c (n "gh-pinned-rs") (v "1.0.2") (d (list (d (n "reqwest") (r "^0.12.2") (d #t) (k 0)) (d (n "tl") (r "^0.7.8") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1c4r8njva2vyl2yfc88ap36p8dvg7k9s52cd17nc6cwka9dpjwhv")))
 
+(define-public crate-gh-pinned-rs-1.0.3 (c (n "gh-pinned-rs") (v "1.0.3") (d (list (d (n "reqwest") (r "^0.12.2") (d #t) (k 0)) (d (n "tl") (r "^0.7.8") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0gwlcrgdrpipcgh4z67nb6a5sda48sv49npd4p59rdicw1nsjhcl")))
+

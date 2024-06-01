@@ -30,3 +30,5 @@
 
 (define-public crate-bevy_ratatui-0.3.0 (c (n "bevy_ratatui") (v "0.3.0") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (k 0)) (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.3") (f (quote ("unstable-widget-ref"))) (d #t) (k 0)))) (h "0zl78nwbnyabdf5irzg4rfsyd4bnvzkq889v8ag769vw9ay3iizr")))
 
+(define-public crate-bevy_ratatui-0.4.0 (c (n "bevy_ratatui") (v "0.4.0") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("dynamic_linking"))) (k 0)) (d (n "color-eyre") (r "^0.6.3") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.3") (f (quote ("unstable-widget-ref"))) (d #t) (k 0)))) (h "0fw3nwcr1ryfq4nkzd0l9g17rpl9l9yj8w32hffm429saplxnhpw")))
+
