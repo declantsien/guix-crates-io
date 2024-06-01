@@ -24,3 +24,5 @@
 
 (define-public crate-rstest_test-0.12.0 (c (n "rstest_test") (v "0.12.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "rstest") (r "^0.19.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)) (d (n "toml_edit") (r "=0.21.0") (d #t) (k 0)))) (h "1amlrign2yi13hzb8h69chsdgixps1b3ngskcgxn5zhb8bcfix3f") (r "1.69.0")))
 
+(define-public crate-rstest_test-0.13.0 (c (n "rstest_test") (v "0.13.0") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.5.6") (d #t) (k 0)) (d (n "rstest") (r "^0.19.0") (k 2)) (d (n "temp_testdir") (r "^0.2.3") (d #t) (k 2)) (d (n "toml_edit") (r "=0.21.0") (d #t) (k 0)))) (h "1km5hkhldiwcyqkafrd7mrkjbp8a0gif3m8gipvikjz059mklnrx") (r "1.69.0")))
+

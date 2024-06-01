@@ -64,3 +64,5 @@
 
 (define-public crate-orx-fixed-vec-2.10.0 (c (n "orx-fixed-vec") (v "2.10.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "orx-pinned-vec") (r "^2.10") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 2)))) (h "02hq2a8c5l690nysys03p8njl0mafv2z2gvhh579ljhqd8jgm6g0")))
 
+(define-public crate-orx-fixed-vec-2.11.0 (c (n "orx-fixed-vec") (v "2.11.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "orx-pinned-vec") (r "^2.11") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 2)))) (h "0kmbl6c50rn5jr9m9ch44dj9b8gmhhffck3vjw6vy6k5d43fgvmr")))
+
