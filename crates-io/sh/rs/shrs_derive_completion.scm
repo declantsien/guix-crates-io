@@ -8,3 +8,5 @@
 
 (define-public crate-shrs_derive_completion-0.0.5 (c (n "shrs_derive_completion") (v "0.0.5") (d (list (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.5") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0kw1mn161wdj8x6q6har4hrj7b2hwk2ghia8hwb3ydrfjnd2a9m0")))
 
+(define-public crate-shrs_derive_completion-0.0.6 (c (n "shrs_derive_completion") (v "0.0.6") (d (list (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.6") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "1rfaj2g3v0mh5x2dm1032jdqra4dqhmmf2x9wcdab7j3my8wclkl")))
+

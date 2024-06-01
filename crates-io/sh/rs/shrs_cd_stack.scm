@@ -8,3 +8,5 @@
 
 (define-public crate-shrs_cd_stack-0.0.5 (c (n "shrs_cd_stack") (v "0.0.5") (d (list (d (n "shrs") (r "^0.0.5") (d #t) (k 0)))) (h "12kcm79arwnkyqsvfs7hzgksp47jwvn9g7v59pn2fghgfimrbcai")))
 
+(define-public crate-shrs_cd_stack-0.0.6 (c (n "shrs_cd_stack") (v "0.0.6") (d (list (d (n "shrs") (r "^0.0.6") (d #t) (k 0)))) (h "0h33v8xl0x94lpp41i6c2a0qxas9zvihsa2wnzcvs4daymvmhdbl")))
+

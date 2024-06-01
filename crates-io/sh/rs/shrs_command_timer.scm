@@ -10,3 +10,5 @@
 
 (define-public crate-shrs_command_timer-0.0.5 (c (n "shrs_command_timer") (v "0.0.5") (d (list (d (n "shrs") (r "^0.0.5") (d #t) (k 0)))) (h "12g3rfz3xbzxi5cm4sviyi6wawvcsqjgs0ih0vswcw76x3wah7ay")))
 
+(define-public crate-shrs_command_timer-0.0.6 (c (n "shrs_command_timer") (v "0.0.6") (d (list (d (n "shrs") (r "^0.0.6") (d #t) (k 0)))) (h "10g01hwwq0j72rcvqwwca9blbqlmnbpaz2plwzgcbj0z0c3jgjb7")))
+

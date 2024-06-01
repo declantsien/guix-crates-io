@@ -8,3 +8,5 @@
 
 (define-public crate-shrs_autocd-0.0.5 (c (n "shrs_autocd") (v "0.0.5") (d (list (d (n "shrs") (r "^0.0.5") (d #t) (k 0)))) (h "0sig830x4wbgqbnjsfs3klb5k16hzmsbsww98k6gf309fsq8sdzx")))
 
+(define-public crate-shrs_autocd-0.0.6 (c (n "shrs_autocd") (v "0.0.6") (d (list (d (n "shrs") (r "^0.0.6") (d #t) (k 0)))) (h "19qj2lawivc13f0587c7w19nj3lwsr9i5s9cl102xmkal19rzcn0")))
+

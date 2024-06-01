@@ -8,3 +8,5 @@
 
 (define-public crate-shrs_cd_tools-0.0.5 (c (n "shrs_cd_tools") (v "0.0.5") (d (list (d (n "anymap") (r "^0.12") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "multimap") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.5") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "1my27gb8vp7k4m0295888izvv6g576bnqa0w06hsmxz0q276s954")))
 
+(define-public crate-shrs_cd_tools-0.0.6 (c (n "shrs_cd_tools") (v "0.0.6") (d (list (d (n "anymap") (r "^0.12") (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "multimap") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "shrs") (r "^0.0.6") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "toml") (r "^0.7") (d #t) (k 0)))) (h "0kalgpys5sq1mp7ilh4fw57bzk14zpf1c9gzh0fanyvmmww3813w")))
+
