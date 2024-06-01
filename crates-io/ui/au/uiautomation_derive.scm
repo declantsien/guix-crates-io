@@ -86,3 +86,5 @@
 
 (define-public crate-uiautomation_derive-0.3.1 (c (n "uiautomation_derive") (v "0.3.1") (d (list (d (n "proc-macro2") (r "^1.0.82") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.63") (f (quote ("full"))) (d #t) (k 0)))) (h "15zfhzgl7qjnv8ppww5a6rqmhm4vfiixkl3bf8p0kdbyvb3fzqyw")))
 
+(define-public crate-uiautomation_derive-0.3.2 (c (n "uiautomation_derive") (v "0.3.2") (d (list (d (n "proc-macro2") (r "^1.0.84") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "0c74sqbn77z9mhm69firq567hgqakcav7g5kx09ffxlvlx9pfd8v")))
+
