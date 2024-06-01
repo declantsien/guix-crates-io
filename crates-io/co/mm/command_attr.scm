@@ -58,3 +58,5 @@
 
 (define-public crate-command_attr-0.5.1 (c (n "command_attr") (v "0.5.1") (d (list (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "extra-traits"))) (d #t) (k 0)))) (h "1abhy1fnc68zgmaa6lk4gppr61xfwvp61jvx9xxnn1ifl22qrw1j")))
 
+(define-public crate-command_attr-0.5.2 (c (n "command_attr") (v "0.5.2") (d (list (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "derive" "extra-traits"))) (d #t) (k 0)))) (h "0cbnvjdyhfc47rim5sgc1zkrvd0287wd0wng7y70vwz6kxz8vnl8")))
+
