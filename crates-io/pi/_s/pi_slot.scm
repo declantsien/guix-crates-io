@@ -14,3 +14,5 @@
 
 (define-public crate-pi_slot-0.2.0 (c (n "pi_slot") (v "0.2.0") (d (list (d (n "pi_append_vec") (r "^0.4") (d #t) (k 0)) (d (n "pi_arr") (r "^0.18") (d #t) (k 0)) (d (n "pi_key_alloter") (r "^0.5") (d #t) (k 0)) (d (n "pi_null") (r "^0.1") (d #t) (k 0)) (d (n "pi_share") (r "^0.4") (d #t) (k 0)))) (h "0zyrz56w63h19dzzyn11llkiq9w2m3rlkwrzxjd246f1k0j4a5bh")))
 
+(define-public crate-pi_slot-0.3.0 (c (n "pi_slot") (v "0.3.0") (d (list (d (n "pi_arr") (r "^0.19") (d #t) (k 0)) (d (n "pi_key_alloter") (r "^0.5") (d #t) (k 0)) (d (n "pi_null") (r "^0.1") (d #t) (k 0)) (d (n "pi_share") (r "^0.4") (d #t) (k 0)))) (h "1js9ylzjw0q9iaqmg8bkpgi5v9lfkjw3m3y7yah9h8wm9g7i4gzm")))
+
