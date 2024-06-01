@@ -48,3 +48,5 @@
 
 (define-public crate-firestore-structured-query-0.9.7 (c (n "firestore-structured-query") (v "0.9.7") (d (list (d (n "google-api-proto") (r "^1.557") (f (quote ("google-firestore-v1"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-firestore-value") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "178sg7fnvjnp2q50g31ffy42z3dlzmgvg4wbgm8dy4vp5r9gxlph") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde-firestore-value"))))))
 
+(define-public crate-firestore-structured-query-0.9.8 (c (n "firestore-structured-query") (v "0.9.8") (d (list (d (n "google-api-proto") (r "^1.557") (f (quote ("google-firestore-v1"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde-firestore-value") (r "^0.7.0") (o #t) (d #t) (k 0)))) (h "1l75k0c8yb02wy3vvkis366rqfk4yiwwdsnhfsnffz7whhm012i5") (f (quote (("default")))) (s 2) (e (quote (("serde" "dep:serde" "dep:serde-firestore-value"))))))
+

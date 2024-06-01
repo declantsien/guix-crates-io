@@ -6,3 +6,5 @@
 
 (define-public crate-pixglyph-0.3.0 (c (n "pixglyph") (v "0.3.0") (d (list (d (n "ttf-parser") (r "^0.20") (d #t) (k 0)))) (h "04m7l6y49nimb8pw9x6mqxjqcy248p2c705q4n0v6z8r9jnziq72")))
 
+(define-public crate-pixglyph-0.4.0 (c (n "pixglyph") (v "0.4.0") (d (list (d (n "ttf-parser") (r "^0.21") (d #t) (k 0)))) (h "15qaqlik4jvpjh9xdc3gf36mxldhx2s11nd7n9dzgq72zb4xwr2a")))
+
