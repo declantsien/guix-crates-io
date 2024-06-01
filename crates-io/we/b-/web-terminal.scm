@@ -1,0 +1,4 @@
+(define-module (crates-io we b- web-terminal) #:use-module (crates-io))
+
+(define-public crate-web-terminal-0.1.0 (c (n "web-terminal") (v "0.1.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "futures-core") (r "^0.3.30") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (f (quote ("sink"))) (k 0)) (d (n "libc") (r "^0.2.155") (d #t) (k 0)) (d (n "nix") (r "^0.29.0") (f (quote ("process" "hostname" "env" "term" "fs" "signal"))) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.203") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "warp") (r "^0.3.7") (d #t) (k 0)))) (h "1d2s8kyqh23rm2m38ifpsricbw2l935vfd3jw83sd36gv99ig57w")))
+
