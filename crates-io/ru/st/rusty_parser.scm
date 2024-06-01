@@ -18,3 +18,5 @@
 
 (define-public crate-rusty_parser-0.6.4 (c (n "rusty_parser") (v "0.6.4") (h "0nhbl3m8hdj5g9g6y9qh3qa1sm7s3mikn50vdd6zw576p5zayadx")))
 
+(define-public crate-rusty_parser-0.8.0 (c (n "rusty_parser") (v "0.8.0") (h "10v03syv77c12i1vdbjphfpxs50rd0147hxa647f9pv6bfr4r4j4")))
+
