@@ -46,3 +46,5 @@
 
 (define-public crate-solace-rs-0.4.1 (c (n "solace-rs") (v "0.4.1") (d (list (d (n "enum_primitive") (r "^0.1.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "solace-rs-sys") (r "^1.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "0jkvps6149vgpzi3s1kxs7w5i23y595kvb1bcvfyxjsdd3b08ass") (r "1.70.0")))
 
+(define-public crate-solace-rs-0.5.0 (c (n "solace-rs") (v "0.5.0") (d (list (d (n "enum_primitive") (r "^0.1.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "solace-rs-sys") (r "^1.0.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.17") (d #t) (k 2)))) (h "1jzgq3bs6r54fdf5n1g3nxv9h463gr3bcabn304175syshy658zv") (r "1.70.0")))
+

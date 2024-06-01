@@ -2,3 +2,5 @@
 
 (define-public crate-libcsp-sys-0.1.0 (c (n "libcsp-sys") (v "0.1.0") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0kpbyw9w5ja960gi8f3bfbk21lnb2lx5xqjaxhjx4k2vaij88ils") (l "csp")))
 
+(define-public crate-libcsp-sys-0.1.1 (c (n "libcsp-sys") (v "0.1.1") (d (list (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0hfj2rczlkhnm0173cq1yvpff0iq4byk3lq166nsiaby7qdxiky8") (l "csp")))
+
