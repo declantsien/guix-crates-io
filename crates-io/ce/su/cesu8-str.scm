@@ -8,3 +8,5 @@
 
 (define-public crate-cesu8-str-1.1.0 (c (n "cesu8-str") (v "1.1.0") (h "01wlyr3pl2ml1k9r9ll8kf9bnh9788vs6h70pwaqz3ai074jkdxj") (f (quote (("default" "alloc") ("alloc"))))))
 
+(define-public crate-cesu8-str-1.2.0 (c (n "cesu8-str") (v "1.2.0") (h "1ggf2z66n2l95kbz6r3yvvfdmayyaa9148zv38ddyp7i1fzf8im3") (f (quote (("default" "alloc") ("alloc"))))))
+
